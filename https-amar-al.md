@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-27T12:00:53.900Z
+- Updated At: 2025-10-28T20:01:05.822Z
 
 ## Products
 
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_40.png?v=1758876414
   Price: ALL 5,491.00 ALL
 - [ACTIVE- CAPILARIL - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/soothing-strengthening-special-face-cream-active-capilaril-forte-30-ml): Pharmaceris – N Soothing Strengthening Special Face Cream Një produkt special për kujdesin e përditshëm intensiv të lëkurës, i rekomanduar për lëkurën me skuqje të vazhdueshme, kapilarë të dukshëm dhe një tendencë për eritemë. Produkti përmban përqendrime të larta të diosminës së mikronizuar dhe hesperidinës, të cilat janë jashtëzakonisht efektive në eliminimin dhe parandalimin e skuqjeve të vazhdueshme. Gjalpi Shea, i cili imiton barrierën natyrore lipidike mbrojtëse të lëkurës, me D-panthenol për të qetësuar lëkurën dhe lehtësuar irritimet, duke promovuar intensivisht rigjenerimin epidermal. Formula, e pasur me vaj Canola, dyll ulliri dhe glicerinë, siguron nivele optimale të lipideve dhe hidratimit për të rikthyer butësinë dhe elasticitetin. Testuar dermatologjikisht dhe klinikisht Udhëzime mbi përdorimin Pastroni fytyrën më pas aplikoni kremin në lëkurën e fytyrës dhe qafës. Përdoreni çdo ditë në mëngjes dhe para gjumit - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:29:36Z
+  Updated: 2025-10-28T09:35:18Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/97-SOOTHING-STRENGTHENING-SPECIAL-FACE-CREAM-ACTIVE-CAPILARIL-FORTE-30-ml-1.png?v=1757514854
   Price: ALL 2,641.00 ALL
 - [Anti-cellulite body peeling with green tea & coffee extract - Amar Pharma - Lirene - Scrub Trupi](https://amar.al/products/anti-cellulite-body-peeling-with-green-tea-coffee-extract): ANTI-CELLULITE BODY PEELING WITH GREEN TEA & COFFEE EXTRACT Zbut dhe forcon lekuren dhe redukton celulitin. E ben lekuren te bute ne prekje. Aplikojeni ne trup te lagur dhe masazhojeni butesisht. Shpelajeni teresisht. Perdoreni 1-3 here ne jave. - Amar Pharma - Lirene - Scrub Trupi
-  Updated: 2025-10-26T14:29:36Z
+  Updated: 2025-10-28T10:42:31Z
   Vendor: Lirene
   Product Type: Scrub Trupi
   Availability: Available
@@ -46,56 +46,56 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/164-ANTI-DARK-CIRCLES-CORRECTIVE-EYE-CREAM-SPF-15-OPTI-ALBUCIN-15-ml-1.png?v=1741428502
   Price: ALL 3,288.00 ALL
 - [ANTIOX VIT C 15% - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/antiox-vit-c-15): Pharmaceris Whitening Vitamin C 15% Serum Koncentrati me vitaminë C 15% biologjikisht aktive kontrollon prodhimin e tepërt të melaninës, me një efekt të synuar në reduktimin e çngjyrosjeve ekzistuese dhe promovimin e riparimit natyral të lëkurës. Përveçse kontribuon në mbrojtjen e ADN-së së qelizave të lëkurës, ai minimizon ndikimet e dëmshme të rrezatimit UV, duke reduktuar njollat e shkaktuara nga rrezatimi. Stimulon sintezën e kolagjenit, duke përmirësuar elasticitetin dhe qëndrueshmërinë e lëkurës. Squalane ka veti antioksiduese, duke mbrojtur membranat qelizore nga oksidimi. Në kombinim me vitaminat A dhe E, përshpejton procesin e rinovimit të epidermës, duke zbutur dukshëm strukturën dhe tonin e lëkurës, duke ngadalësuar proceset e plakjes së lëkurës. Përmbajtja e lartë e vajrave në formulë ndihmon në riparimin e funksioneve të dëmtuara të lëkurës, duke dhënë hidratim të menjëhershëm dhe përfitime qetësuese dhe rinovuese. Formula rikthen butësinë dhe shkëlqimin dhe promovon një ton natyral dhe të shëndetshëm të lëkurës. Nuk është i yndyrshëm dhe nuk lë ndjenjën e lëkurës së tendosur Nuk lë ndjesi të yndyrshme ose ngjitëse. Indikacionet Për kujdesin e përditshëm të lëkurës (fytyrë, qafë, dekolte, krahë, duar) me hiperpigmentim, shenja kafe ose ton të pabarabartë. Rekomandohet për llojet e lëkurës së ndjeshme, të thatë dhe të maturuar. I përshtatshëm për lëkurë me mbindjeshmëri ndaj nikelit. Udhëzime mbi përdorimin Përdoreni serumin çdo ditë në mëngjes ose para gjumit, duke e aplikuar në lëkurë të pastër. Përhapeni koncentratin butësisht mbi lëkurë me lëvizje rrethore. - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T13:51:53Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6752f15cd7cee_W_EN_10E14714_ANTIOX_VIT_C.png?v=1757514850
   Price: ALL 6,499.00 ALL
 - [Aqua Bubbles FACE FOAM - Amar Pharma - Lirene - Shkumë pastruese](https://amar.al/products/aqua-bubbles-face-foam): Shkume pastruese hidratuese per fytyren me uje deti, dhe 4 forma te ndryshme te acidit hialuronik. Masazhojeni shkumen ne lekuren e lagesht te fytyres. Shpelajeni me uje te ngrohte. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Shkumë Pastruese
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T13:54:45Z
   Vendor: Lirene
   Product Type: Shkumë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawadniajaca-pianka-myjaca-10e07713.1gva.webp?v=1741428509
   Price: ALL 1,590.00 ALL
 - [Aqua Bubbles FACE GEL - Amar Pharma - Lirene - Xhel Pastrues](https://amar.al/products/aqua-bubbles-face-gel): Xhel hidratues, pastrues per fytyren me uje deti, acid hialuronik, aloe dhe vitamina. Masazhojeni xhelin ne lekuren e lagesht te fytyres, duke shmangur zonen e syve. Shpelajeni me uje te ngrohte. - Amar Pharma - Lirene - Xhel Pastrues
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T13:57:58Z
   Vendor: Lirene
   Product Type: Xhel Pastrues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab7.webp?v=1741428512
   Price: ALL 1,692.00 ALL
 - [Aqua Bubbles HYDROCREAM - Amar Pharma - Lirene - Krem Hidratues](https://amar.al/products/aqua-bubbles-hydrocream): Nje hidrokrem i lehte, ushqyes dhe hidratues me acid hialuronik, uje deti dhe mikrokapsula vitaminasht per te hidratuar dhe per te mbajtur lekuren tuaj me lgeshtire optimale. Ne mengjes dhe ne mbremje, masazhojeni hidroxhelin ne lekuren e fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Hidratues
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T14:01:22Z
   Vendor: Lirene
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab3.webp?v=1741428515
   Price: ALL 1,996.00 ALL
 - [Aqua Bubbles HYDROGEL - Amar Pharma - Lirene - Krem Hidratues](https://amar.al/products/aqua-bubbles-hydrogel): Hidroxheli thellesisht hidratues i fytyres me Earth Marine Water (uje deti) plot me minerale siguron shkelqim natyral, acidi hialuronik e mban lekuren thellesisht t hidratuar dhe elektrolitet si: zinku, bakri, kalciumi, magnezi; ruajne ekuilibrin ushqyes te lekures. Acidi hialuronik 4D-4 forma te acidit hialuronik, hidraton dhe e ruan hidratimin brenda lekures. Elektrolitet: zink, baker, kalcium, magnez; ruajne ekuilibrin e lekures. Earth Marine Water - i pasur me minerale te ujit te detit: siguron shkelqim dhe pamje te shendetshme. Kapsulat me vitamine E- ushqejne, rindertojne dhe ngadalsojne procesin e plakjes se lekures. Aplikim i kendeshem i ofruar nga: tekstura xhel i lehte qe garanton efekt te lemuar te menjehershem. Mikrokapsulat me vitamina clirojne vitamina, arome freskuese duke e mbeshtjelle butesisht lekuren. Menyra e perdorimit: Aplikojeni ne lekuren e pastruar te fytyres, qafes dhe dekoltese ne mengjes dhe mbremje. Ne mengjes dhe ne mbremje, masazhojeni hidroxhelin ne lekuren e fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Hidratues
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T14:15:32Z
   Vendor: Lirene
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab1.webp?v=1741428521
   Price: ALL 1,896.00 ALL
 - [Aqua Bubbles HYDROSERUM - Amar Pharma - Lirene - Serum Fytyre](https://amar.al/products/aqua-bubbles-hydroserum): Hidroserumi inovativ me acid hialuronik, Earth Marine Water (uje deti) dhe mikrokapsula vitaminash, siguron nje hidratim dhe ushqyerje multidimensionale te lekures qe gjat ne kohe. Masazhojeni serumin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. Perdoreni ne mengjes dhe mbremje. - Amar Pharma - Lirene - Serum Fytyre
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T14:21:39Z
   Vendor: Lirene
   Product Type: Serum Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab5.webp?v=1741428528
   Price: ALL 2,297.00 ALL
 - [Aqua Bubbles TONER - Amar Pharma - Lirene - Toner](https://amar.al/products/aqua-bubbles-toner): Nje toner i lehte fytyre me uje deti, elektrolite dhe acid hialuronik. Lagni nje tampon pambuku me tonerin dhe lani fytyren, qafen dhe dekoltene. Perdoreni ne mengjes dhe ne mbremje. - Amar Pharma - Lirene - Toner
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T14:40:19Z
   Vendor: Lirene
   Product Type: Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/tonik-nawadniajacy-10e07696.fhcw.webp?v=1741428534
   Price: ALL 1,289.00 ALL
 - [Baby soft feet mask in socks - Amar Pharma - Lirene - Maskë Këmbësh](https://amar.al/products/baby-soft-feet-mask-in-socks): Trajtim profesional per vete-ekzekutim ne shtepi, duke siguruar heqjen efektive te epidermes se vdekur dhe zbutjen intensive te lekures se kembeve. Maska ne formen e corapeve te njomura te gatshme per perdorim permban 7.5% te kompleksit te acideve frutore (laktike dhe glikolike), te cilat stimulojne ne menyre efektive eksfolimin e lekures se vdekur duke mbeshtetur rinovimin e lekures se kembeve. Efekti intensiv eksfoliues i maskes zgjat 7-10 dite pas aplikimit. Kompleti i pasur i perberesve aktive qe permban maska kujdeset per lekuren gjate dhe pas procedures. Lani kembet dhe thajini plotesisht para trajtimit. Hapni qesen dhe nxirrni corapet. Hapni secilen corape duke hapur me kujdes pjesen e siperme te corapit. Vishini corapet dhe lerini perafersisht 60-90 minuta. Hiqni corapet dhe shpelani kembet me uje. 5. Procesi i eksfolimit do te filloje perafersisht 5-7 dite pas perdorimit dhe zgjat 7-10 dite ne varesi te trashesise se kallove dhe corns. Gjate kesaj periudhe nuk duhet te eksfoloni lekuren ne menyre mekanike ose te perdorni produkte te tjera eksfoliuese. Rekomandohet te njomni kembet ne uje te ngrohte dhe te perdorni kremra ushqyes per kembet. Maska duhet te perdoret jo me shume se nje here ne muaj. - Amar Pharma - Lirene - Maskë Këmbësh
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T15:07:30Z
   Vendor: Lirene
   Product Type: Maskë Këmbësh
   Availability: Available
@@ -109,21 +109,21 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/sun.png?v=1758875665
   Price: ALL 2,991.00 ALL
 - [BODY SCRUB STAY WITH ME MANGO AND ORANGE - Amar Pharma - Lirene - Scrub Trupi](https://amar.al/products/body-scrub-stay-with-me-mango-and-orange): Largon qelizat e vdekura te lekures, pastron thellesisht dhe lemon lekuren, duke e lene te bute dhe rrezatuese butesisht. - Amar Pharma - Lirene - Scrub Trupi
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:17:00Z
   Vendor: Lirene
   Product Type: Scrub Trupi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/bth3svxawpvf.jpg?v=1758103298
   Price: ALL 1,760.00 ALL
 - [BODY SCRUB SWEET HARMONY CARMEL AND VANILLA - Amar Pharma - Lirene - Scrub Trupi](https://amar.al/products/body-scrub-sweet-harmony-carmel-and-vanilla-2): Heq butesisht qelizat e vdekura te lekures, pastron thellesisht dhe zbut. Pas perdorimit te peeling-ut, lekura behet e tendosur, e lemuar dhe e bute ne prekje. Nuk le shtrese vajore ne lekure. Permban 97% perberes me origjine natyrale. Aplikojeni ne trupin e lagur ne dush apo ne banje, masazhoni me levizje rrethore. Shpelajeni teresisht me uje. Ne varesi te nevojave tuaja, perdoreni cdo dite ose 1-3 here ne jave. - Amar Pharma - Lirene - Scrub Trupi
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:19:48Z
   Vendor: Lirene
   Product Type: Scrub Trupi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/bth3svxawpvf_684b825a-3eaa-4d1c-9f82-8c5c5c020d4d.jpg?v=1758103303
   Price: ALL 1,760.00 ALL
 - [BROAD SPECTRUM SPF 50+ - Amar Pharma - Pharmaceris - Krem Dielli](https://amar.al/products/broad-spectrum-protection-cream-spf-50-for-adults-and-children): Pharmaceris S Broad Spectrum Sun Protection Cream SPF 50+ Formulë e avancuar krijuar për lëkurë shumë të ndjeshme. Rekomandohet për lëkura delikate, të ndjeshme dhe të thata, të prirura ndaj alergjive dhe hiperpigmentimit dhe kërkojne mbrojtje shumë të lartë nga rrezet e forta të diellit, djegiet, rrezatimi i dëmshëm UVA/UVB, si dhe nga drita dhe rrezet infra të kuqe, pra, i gjithë spektri i rrezatimit që arrin në sipërfaqen e planetit. Formulë e përshtatshme për fëmijë dhe bebe mbi 6 muajsh. Me formulën e tij ultra të lehtë dhe teknologjinë e avancuar të filtrit me spektër të gjerë kremi mbron lëkurën në një sërë nivelesh. Siguron mbrojtje nga efektet e dëmshme të rrezeve UVA, UVB dhe HEV. Faktori mbrojtës AntileuDNA krijon një barrierë të fortë mbrojtëse për sistemin imunitar të lëkurës. Ai minimizon reaksionet e padëshiruara ndaj ekspozimit në diell si acarimi, djegia nga dielli, skuqja, çngjyrosjet, skuqje nga dielli, hiperpigmentimet dhe reaksionet alergjike. Kremi hidraton, ushqen dhe rigjeneron lëkurën, duke vepruar kundër thatësisë dhe mbindjeshmërisë. Udhëzime mbi përdorimin Për përdorim të përditshëm në lëkurë për të siguruar nivelin më të lartë të mbrojtjes nga dielli. Aplikoni një sasi të mjaftueshme të kremit në fytyrë 20-30 minuta përpara ekspozimit në diell. Aplikojeni përsëri kremin çdo 2 orë dhe çdo herë pas larjes ose të notuarit. - Amar Pharma - Pharmaceris - Krem Dielli
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:29:04Z
   Vendor: Pharmaceris
   Product Type: Krem Dielli
   Availability: Available
@@ -137,28 +137,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/145-CONCENTRATE-WITH-VITAMIN-C-12OO-mg-C-CAPILIX-30-ml-1.png?v=1757514830
   Price: ALL 5,491.00 ALL
 - [C+E PRO Hi-Concentrated StimuSerum - Amar Pharma - Lirene - Serum Fytyre](https://amar.al/products/ce-pro-hi-concentrated-stimuserum): NDRIÇIMI DHE RINIMI: përmbajtja optimale e kompleksit të vitaminës Duo C dhe vitaminës Dpro siguron një efekt rigjenerimi në shumë nivele. kompleksi unik skinawake me origjinë natyrale, i pasur me mikroelemente thelbësore, sheqerna dhe vitamina, mbështet proceset e rigjenerimit të qelizave që ndodhin gjatë gjumit. acidi hialuronik me molekulare të lartë lidh ujin në lëkurë, duke hidratuar dhe zbutur thellësi Përdoreni në mëngjes dhe në mbrëmje në fytyrë dhe qafë të pastruar dhe nën sy. Pas përthithjes, aplikoni kremin C+Dpro Vitamin Energy që përputhet me nevojat e lëkurës tuaj. - Amar Pharma - Lirene - Serum Fytyre
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:33:59Z
   Vendor: Lirene
   Product Type: Serum Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-serum.webp?v=1741428563
   Price: ALL 2,594.00 ALL
 - [C+E PRO Nourishing & deepply moisturizing cream - Amar Pharma - Lirene - Krem Hidratues](https://amar.al/products/ce-pro-nourishing-deepply-moisturizing-cream): Krem thellësisht hidratues dhe ushqyes Një kompleks unik i një forme ultra-moderne të vitaminës Duo C, i kombinuar me vitaminën Dpro, mbron rininë e lëkurës në shumë nivele, duke garantuar rezultate spektakolare: Shkëlqimi dhe qëndrueshmëria: vitamina duo C depërton në mënyrë perfekte në lëkurë, duke mbrojtur ADN-në qelizore dhe duke aktivizuar sintezën e fibrave të kolagjenit. Ka një efekt intensiv rigjallërues dhe ndriçues. Vitamina Dpro, duke aktivizuar receptorët VDR, rinovon barrierën epidermale dhe mbështet procesin e rigjenerimit të dëmtimeve të shkaktuara nga plakja biologjike dhe faktorë të jashtëm negativ. Lëkura bëhet rrezatuese, e fortë dhe e shtrënguar. Përdoreni në mëngjes dhe në mbrëmje në fytyrë dhe qafë të pastruar. Për rezultate më të mira, përdorni në mbrëmje së bashku me stimuserum. - Amar Pharma - Lirene - Krem Hidratues
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:35:35Z
   Vendor: Lirene
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-1.webp?v=1741428569
   Price: ALL 1,689.00 ALL
 - [CALM-ROSALGIN - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/redness-reducing-night-face-cream-with-soothing-complex-ca2-calm-rosalgin-30-ml): Pharmaceris Rosacea Calm-Rosalgin Një krem nate për lëkurën rosacea e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur. Veprimi plotësues i 3 përbërësve aktivë: InnoTetrapeptideTM një peptid inovativ i krijuar për të minimizuar shfaqjen e skuqjes së shkaktuar nga reagimi inflamator. Ai pengon shprehjen e interleukinave të cilat janë të përfshira në përgjigjen inflamatore. Tioprolina një antioksidant i fuqishëm. Promovon rigjenerimin e epidermës. Ka një efekt anti-plakje dhe anti-inflamator. Gjithashtu mbron lëkurën nga agresorët e mjedisit. Ekstrakti i gjetheve të ullirit ka një efekt detoksifikues: nxit heqjen e metabolitëve nga qelizat për ta bërë lëkurën më rezistente ndaj stresit. Jonet e kalciumit qetësojnë dhe lehtësojnë irritimet dhe kanë veti antiseptike. Projektuar për lëkurë të ndjeshme me rosacea. Qetëson 100% dhe lehtëson irritimet e lëkurës. Redukton 90% djegien dhe kruajtjen. Zvogëlon 77% ashpërsinë e lezioneve të lëkurës. Parandalon 100% rikthimin e skuqjes. Udhëzime mbi përdorimin Pastroni lëkurën tuaj me një xhel Pharmaceris R dhe përhapeni kremin në të gjithë fytyrën tuaj.Përdoreni në darkë para se të flini. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-27T09:20:11Z
+  Updated: 2025-10-28T16:10:02Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/167-REDNESS-REDUCING-night-face-cream-with-soothing-complex-Ca2-CALM-ROSALGIN-30-ml-1.png?v=1757514824
   Price: ALL 3,292.00 ALL
 - [CAPI-HIALURON-C - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/wrinkle-dermo-structural-correction-cream-capi-hialuron-c-50-ml): Pharmaceris N Capi-Hialuron-C (SPF 20) Kremi rekomandohet për lëkurën e rrudhur me kapilarë të zgjeruar dhe skuqje, e cila bëhet gjithnjë e më e prirur ndaj mikro-irritimeve duke shkaktuar dëmtime të përhershme në enët e gjakut dhe indet. Kjo e bën lëkurën të plaket më shpejt dhe të humbasë densitetin, me rrudhat që bëhen më të thella. Një kompleks aktiv i acidit hialuronik dhe tioprolinës promovon rinovimin e fibrave të kolagjenit të cilat janë të prirura ndaj degradimit të lidhur me moshën dhe mbron strukturën e tyre nga dëmtimi, duke ngadalësuar procesin e plakjes së lëkurës. Acidi hialuronik që përmban kremi redukton thellësinë dhe vëllimin e rrudhave, duke i rikthyer lëkurës nivelet optimale të hidratimit dhe elasticitetit. Fraksioni aktiv i vitaminës C lehtëson dhe kontrollon në mënyrë efektive skuqjen e lëkurës. Vaji i avokados dhe InnoTetrapeptide forcojnë barrierën lipidike të epidermës, duke minimizuar prirjen ndaj acarimit. Filtrat e qëndrueshëm ndaj rrezeve UVA/UVB formojnë një barrierë aktive që mbron nga fotoplakja. Kremi jep një efekt të dukshëm rinovimi, duke forcuar strukturat e indeve dhe duke e bërë lëkurën më të njëtrajtshme. Përbërësit kryesorë Acidi hialuronik Peptide Vitaminë C Tioprolina InnoTetrapeptide Tolerancë dhe efikasitet të lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Përdoreni çdo ditë në lëkurën e fytyrës, qafës dhe dekoltesë. Kremi është një bazë e shkëlqyer make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:29:38Z
+  Updated: 2025-10-28T15:38:20Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -186,28 +186,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/151-CREAM-WITH-VITAMIN-K-reducing-capillary-permeability-CAPINON-K-10-ml-1.png?v=1757514807
   Price: ALL 3,295.00 ALL
 - [Cleansing clay - Amar Pharma - Lirene - Pastë pastruese](https://amar.al/products/cleansing-clay): Paste pastruese kozmetike prej balte eksfolon butësisht epidermën e vdekur, zhbllokon dhe shtrëngon poret dhe eliminon yndyrën e tepërt, duke e lënë lëkurën të lëmuar dhe të shndritshme, pa u ndjerë e shtrënguar. Përdorimi i përditshëm i pastës së argjilës rregullon gjëndrat dhjamore dhe zvogëlon dukshmërinë e poreve. Aplikojeni në fytyrë të lagur dhe masazhojeni butësisht, duke shmangur zonën e syve. Më pas shpëlajeni tërësisht. Aplikojeni çdo ditë, mundësisht në mëngjes dhe në mbrëmje. Për të rritur efektin 2-3 herë në javë, mund ta lini pastën në lëkurë për 3-5 minuta dhe më pas ta shpëlani tërësisht me ujë të ngrohtë. - Amar Pharma - Lirene - Pastë Pastruese
-  Updated: 2025-10-26T14:29:39Z
+  Updated: 2025-10-28T15:49:20Z
   Vendor: Lirene
   Product Type: Pastë Pastruese
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/26-Cleansing-clay-1.png?v=1741428604
   Price: ALL 1,490.00 ALL
 - [COLLAGEN GLOW ANTI-WRINKLE FIRMING CREAM 60+ - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/collagen-glow-anti-wrinkle-firming-cream-60): Lirene COLLAGEN GLOW Krem forcues kundër rrudhave 60 + 50 mlCOLLAGEN GLOW është një linjë kozmetike origjinale e krijuar nga Ekspertët e Laboratorit Shkencor Lirene, e cila ofron kujdes efektiv për lëkurën e pjekur kërkuese. E bën atë qartësisht më të lëmuar, më të fortë dhe të rigjeneruar. Lëkura juaj duket më e re dhe ju ndiheni të bukur çdo ditë. EFEKTET E APLIKIMIT TË SIGURUARA NGA KËRKIMET *:96% e lëmuar74% bredhi83% hidraton* Konfirmuar nga testet IN VIVO pas 3 javësh përdorim. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-26T14:29:39Z
+  Updated: 2025-10-28T15:55:31Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca6120adbed-przeciwzmarszczkowy-krem-ujedrniajacy-60-10e07757-krt.thwo.webp?v=1741428607
   Price: ALL 2,059.00 ALL
 - [COLLAGEN GLOW ANTI-WRINKLE REPARING CREAM 70+ - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/collagen-glow-anti-wrinkle-reparing-cream-70): Lirene COLLAGEN GLOW Krem riparues kundër rrudhave 70 + 50 mlCOLLAGEN GLOW është një linjë kozmetike origjinale e krijuar nga Ekspertët e Laboratorit Shkencor Lirene, e cila ofron kujdes efektiv për lëkurën kërkuese të pjekur. E bën atë qartësisht më të lëmuar, më të fortë dhe të rigjeneruar. Çehrja juaj duket më e re dhe ju ndiheni të bukur çdo ditë. EFEKTET E APLIKIMIT TË SIGURUARA NGA KËRKIMET *:88% e lëmuar76% ushqyes72% fleksibilitet* Konfirmuar nga testet IN VIVO pas 3 javësh përdorimi. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-26T14:29:39Z
+  Updated: 2025-10-28T15:56:42Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/70.webp?v=1741428614
   Price: ALL 2,059.00 ALL
 - [COMEDO ACNE-T ME - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/anti-comedone-cream-unclogs-and-refines-skin-pores-comedo-acne-40-ml): Pharmaceris – T Anti-Comedone Cream Formula e kremit Anti-Comedone zvogëlon numrin dhe madhësinë e pikave të zeza dhe pikave të bardha, duke ngushtuar gjithashtu poret e lëkurës. Normalizon rrjepjen dhe zhbllokon poret për të promovuar nxjerjen e sebumit. Unifikon tonin e lëkurës dhe zbeh hiperpigmentimin post akne.Zvogëllon skuqjen dhe nxit rigjenerimin e lëkurës. Në mënyrë efektive pengon rritjen e baktereve që shkaktojnë akne (Cutibacterium acnes). Acid Shikimik – ka një efekt të fortë antibakterial kundër akneve dhe zhbllokon poret. Për më tepëlr hidraton dhe rigjeneron lëkurën, duke e lënë atë të butë në prekje.Diglikinat Potasium Azelyol – molekula kombinon acidin azelaik dhe glicinën, është më e butë për lëkurën sesa acidi i pastër azelaik dhe ka veti më të mira hidratuese.Niacinamide – lufton aknet falë vetive të saj anti-inflamatore dhe normalizon sekretimin e dhjamit. Përmirëson teksturëln e lëkurës dhe ka një efekt kundër plakjes, ndërsa zbardh njollat.Udhëzime mbi përdoriminAplikojeni çdo ditë në mëngjes dhe para gjumit në lëkurë të pastër, duke shmangur zonën e syve. Mund të përdoret si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-27T09:20:12Z
+  Updated: 2025-10-28T16:10:02Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/f2.webp?v=1737122367
   Price: ALL 1,145.00 ALL
 - [H- STIMULINUM - Amar Pharma - Pharmaceris - Krem Flokësh](https://amar.al/products/hair-growth-stimulating-conditioner-h-stimulinum-250-ml): Pharmaceris – H-Stimulinum Hair Growth Stimulating Conditioner Formula e balsamit është krijuar si për burrat ashtu edhe për gratë e prekura nga rrallimi dhe rënia e përkohshme e flokëve, të shkaktuara nga predispozita gjenetike dhe hormonale (alopecia androgjenike), faktorët mjedisorë, mjekime të zgjatura, stresi, lodhja, dobësia e përgjithshme (p.sh. dieta) ose shtatzania. Balsami është i përshtatshëm për lëkurën e ndjeshme të kokës. Formula e produktit bazohet në një kombinim unik të përbërësve aktivë: faktori natyror i rritjes FGF dhe kafeina. Me efikasitet të provuar shkencërisht, komponentët komplekse vonojnë procesin e plakjes së qelizave duke zgjatur ciklin jetësor të flokëve për të parandaluar rënien e hershme të flokëve dhe rrallimin e shkaktuar nga faktorë të ndryshëm. Përbërësit nxisin mikroqarkullimin dhe oksigjenimin e duhur të gjëndrës së flokëve për të stimuluar prodhimin e flokëve të rinj dhe për të përshpejtuar rritjen dhe trashjen e tyre natyrale. Formula është e pasur me përbërës forcues dhe qetësues (vitaminë PP, D-panthenol dhe biotinë) për të rikthyer volumin natyral, shkëlqimin e mëndafshtë dhe pamjen e shëndetshme të flokëve. Nuk i rëndon flokët. Duke e bërë më të lehtë krehjen e flokëve, ai minimizon këputjen dhe rënien. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni balsamin në flokë të lagur çdo herë pas larjes. Fërkojeni butësisht në flokët dhe skalpin tuaj. Lëreni të veprojë për 2-3 minuta dhe më pas shpëlajeni me ujë. Nëse produkti ju bie në kontakt me sytë, lajini menjëherë me ujë. Për të përmirësuar rezultatet e trajtimit, përdoreni në kombinim me shampon Pharmaceris H-Stimupurin. - Amar Pharma - Pharmaceris - Krem Flokësh
-  Updated: 2025-10-27T09:20:12Z
+  Updated: 2025-10-28T16:10:03Z
   Vendor: Pharmaceris
   Product Type: Krem Flokësh
   Availability: Available
@@ -522,7 +522,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/73-CONCENTRATED-STRENGTHENING-SHAMPOO-1.png?v=1757514604
   Price: ALL 2,095.00 ALL
 - [H-PURIN SPECIAL - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/h-purin-special-anti-dandruff-shampoo): Pharmaceris – H-Purin H-Purin Special Shampo për larjen dhe kujdesin e skalpit të kokës me simptomat e zbokthit të etiologjive të ndryshme, duke përfshirë zbokthin e thatë dhe të yndyrshëm, kruajtjen, acarimin dhe rrëshqitjen e lëkurës. Formula Scalpshield rikthen dhe ruan ekuilibrin e mikrobiomës së duhur dhe pH-në e duhur të kokës.Falë vetive antibakteriale dhe antifungale të Octopirox® dhe Ciclopirox Olamine, ai kufizon zhvillimin e mikroorganizmave përgjegjës për zhvillimin e zbokthit dhe redukton seborrenë, duke parandaluar yndyrën e flokëve. Alantoina dhe aloe qetësojnë irritimet, skuqjen dhe kruajtjen e lëkurës. Një prebiotik kundër zbokthit rregullon popullsinë e kërpudhave Malassezia (shkaku i seborresë dhe zbokthit) në lëkurën e kokës duke frenuar enzimën 5-α-reduktazë dhe duke reduktuar prodhimin e sebumit, i cili është burimi kryesor i ushqimit të tij. Ka një efekt imunomodulues dhe forcon shtresën korneum.Falë kësaj, është e përkryer për lëkurën e prirur ndaj zbokthit, e yndyrshme dhe tepër e ndjeshme. Qetëson skalpin e kokës dhe redukton skuqjen/zbokthin që nga përdorimi i parë. Nuk është aq agresiv sa agjentët “klasikë” kundër zbokthit. OCTOPIROX ka veti të forta antibakteriale dhe antifungale, normalizon dhe rikthen ekuilibrin e mikroflorës epidermale. Ndihmon në luftimin e kërpudhave Malassezia, të cilat kontribuojnë në formimin e zbokthit dhe seborresë. Cyclopirox Olamine efekt antimykotik – pengon transportin e lëndëve ushqyese thelbësore në qelizë, dëmton membranën qelizore dhe pengon disa procese metabolike, gjë që rezulton në vdekjen e qelizave mykotike. Allantoin ka një efekt hidratues, rigjenerues, anti-inflamator dhe qetësues. Zbut skuqjen, zvogëlon djegien dhe kruajtjen e lëkurës. Xhel aloe ka veti antibakteriale, antifungale dhe anti-inflamatore. Redukton djegien dhe kruajtjen e lëkurës. Zbut inflamacionin dhe qetëson lëkurën. Rezultatet 88% lufton në mënyrë efektive zbokthin. 100% redukton kruajtjen e kokës pas larjes së parë. Testuar klinikisht dhe dermatologjikisht. Tormulë dermatologjike e zhvilluar për lëkurë të ndjeshme. Udhëzime mbi përdorimin Aplikoni shampon në flokë të lagur. Masazhojeni derisa të krijohet shkumë. Lëreni për 1-2 minuta. Shpëlajeni tërësisht me ujë. Në varësi të shkallës së problematikeë së skalpit, përdoret çdo ditë (trajtim intensiv) ose 1-2 herë në javë (trajtim profilaktik). Në rast kontakti me sytë, shpëlajini me ujë. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-27T09:20:13Z
+  Updated: 2025-10-28T16:10:03Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
@@ -543,28 +543,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/71-PROFESSIONAL-SOOTHING-SHAMPOO-for-sensitive-scalp-for-fine-and-delicate-hair-1.png?v=1757514569
   Price: ALL 2,095.00 ALL
 - [H-STIMUCLARIS - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-anti-dandruff-shampoo): Pharmaceris – H-Stimuclaris Double Action Hair Growth Stimulating & Anti -Dandruff Shampoo Rekomandohet për larjen e flokëve dhe skalpit të kokës për gratë dhe burrat, për flokët me problemin e zbokthit dhe me tendencë për rënie apo rrallim. H-Stimuclaris rekomandohet për flokë të dobët, të hollë, të yndyrshëm si dhe për inflamacion seborreik të kokës me skuama. Kjo formulë e patentuar për përdorim të përditshëm, është e sigurtë për skalpin e ndjeshëm. Shampoja dermatologjike e specializuar është një zgjidhje efektive për problemet ekzistuese dhe të vështira për t’u kapërcyer me lëkurën e kokës – zbokthin dhe rënien e tepërt të flokëve. Bazuar në piroktonat olamine dhe acidin citrik pastron në mënyrë efektive lëkurën e kokës, duke eliminuar simptomat dhe shkaqet e zbokthit shqetësues dhe jo-estetik, i cili prish ciklin fiziologjik të jetës së flokëve, duke shkaktuar rënie të tepërt dhe rrallim të flokëve. Kompleksi i kafeinës dhe faktori natyror i rritjes FGF, stimulon bioaktivuesin e rritjes së flokëve – proteinën FGF7, përgjegjëse për stabilizimin e ciklit jetësor të flokëve, zgjatjen e fazës së rritjes (fazës anagen). Përmirëson mikroqarkullimin dhe oksigjenimin e qelizave, forcon folikulin e flokëve, ndërkohë që pengon rënien e flokëve dhe aktivizon dhe përshpejton rritjen e tyre natyrale. Si rezultat, parandalon rënien e parakohshme të flokëve, rrallimin, duke forcuar ndjeshëm flokët, duke zbutur strukturën e tyre dhe duke rritur volumin e tyre. Formula delikate e shampos së pasuruar me D-panthenol qetësues, rikthen ekuilibrin e lëkurës së kokës, rikthen rehatinë dhe nivelin e nevojshëm të hidratimit. Redukton kruajtjen dhe yndyrën e flokëve. Rikthen pH natyral të skalpit, duke i lënë flokët të butë duke reduktuar këputjen. Udhëzime mbi përdorimin Përdoreni shampon çdo ditë ose minimalisht 3 herë në javë. Aplikojeni në flokë dhe skalp të lagur. Masazhojeni butësisht për 2-3 minuta, më pas shpëlajeni me ujë. Në rast kontakti me sytë, shpëlajeni me ujë të bollshëm. Për të rritur efektivitetin e veprimit stimulues të rritjes së flokëve, përdoreni së bashku me Pharmaceris H-Stimulinum ose H-Stimuforten. Mund të përdorni peeling trikologjik pastrues H-Stimupeel një herë në javë si masë parandaluese. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-27T09:20:13Z
+  Updated: 2025-10-28T16:10:04Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/75-PROFESSIONAL-HAIR-GROWTH-STIMULATING-ANTI-DANDRUFF-SHAMPOO-1.png?v=1757514556
   Price: ALL 2,689.00 ALL
 - [H-STIMUFORTEN 125 ml - Amar Pharma - Pharmaceris - Spraj Flokësh](https://amar.al/products/intensive-hair-growth-stimulating-spray-h-stimuforten-125-ml): Pharmaceris – H-Stimuforten Intensive Hair Growth Stimulating Treatment Ky trajtim rekomandohet për gratë dhe burrat që vuajnë nga rënia e tepërt periodike dhe e parakohshme e flokëve. Ndihmon në luftimin e rrallimit të flokëve që lidhet me predispozitat gjenetike dhe faktorët hormonalë (alopecia androgjenike) ose mjedisore. Parandalon në mënyrë efektive rënien e flokëve të shkaktuar nga mjekimi i zgjatur, stresi, lodhja, dobësia e përgjithshme (p.sh. lidhur me dietën), si dhe për shkak të një niveli më të ulët të hormoneve, p.sh. pas shtatzënisë. Është i përshtatshëm për skalpin e ndjeshëm. Një produkt i veçantë me kombinimin unik të përbërësve aktivë: Faktori i Rritjes Natyrore FGF dhe kompleksi i kafeinës ka efekt të dyfishtë: parandalon rënien e flokëve dhe stimulon rritjen e flokëve të reja. Kompleksi ndikon në bulbin e flokëve, përmirëson mikroqarkullimin dhe oksigjenimin qelizor duke ngadalësuar plakjen e qimeve, duke përshpejtuar rritjen e tyre natyrale dhe duke zgjatur jetëgjatësinë e tyre (faza anagjene). Si rezultat, pengon rënien e parakohshme të flokëve, rrallimin e flokëve të shkaktuar nga faktorë të ndryshëm.Kompleksi me efikasitet të provuar shkencërisht stimulon gjenet e folikulave joaktive të flokëve për të prodhuar flokët e rinj, të ashtuquajturat qimet vellus, të cilat në mënyrë të dukshme shtojnë volumin e flokëve dhe reduktojnë dukshmërinë e skalpit. Kafeina parandalon rënien e parakohshme të flokëve dhe të e përcaktuar gjenetikisht duke neutralizuar efektin negativ të hormoneve (androgjenet, DHT). Produkti forcon dhe trash flokët, zbut strukturën e flokëve dhe përmirëson volumin e tyre. Shumë i tolerueshëm, ka pH neutral të lëkurës. Nuk i rëndon flokët dhe nuk i yndyros. Formula e tij është aktive për 24 orë. Udhëzime mbi përdorimin Në rast të rënies intensive të flokëve, aplikojeni produktin çdo mëngjes dhe mbrëmje në flokë të lagur ose të thatë, të krehur në ndarje. Spërkateni në secilën ndarje tre herë duke shtypur spray-n.Aplikojeni në të gjithë lëkurën e kokës (15-18 doza), më pas masazhojeni butësisht. Mos e shpëlani. Aplikojeni rregullisht derisa simptomat të zhduken. Për ta bërë trajtimin më efektiv, produkti duhet të përdoret në kombinim me shampon dhe balsamin që stimulon rritjen e flokëve për përdorim të përditshëm nga linja Pharmaceris H. Përdoreni produktin si pjesë e trajtimit disa herë në javë në mbrëmje. Tundeni mirë para përdorimit. - Amar Pharma - Pharmaceris - Spraj Flokësh
-  Updated: 2025-10-27T10:52:19Z
+  Updated: 2025-10-28T16:10:04Z
   Vendor: Pharmaceris
   Product Type: Spraj Flokësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/171-INTENSIVE-HAIR-GROWTH-STIMULATING-SPRAY-H-STIMUFORTEN-125-ml-1.png?v=1757514545
   Price: ALL 3,292.00 ALL
 - [H-STIMUPEEL 125 ml - Amar Pharma - Pharmaceris - Peeling Flokësh](https://amar.al/products/trichology-cleansing-peel-for-the-scalp-with-hair-loss-and-dandruff-problem-h-stimupeel-125-ml): Pharmaceris – H-Trichology Cleansing Peel for The Scalp with Hair Loss and Dandruff Problem Produkti i krijuar për pastrimin e thellë të kokës për burrat dhe gratë e prirur ndaj rënies së flokëve, rrallimit dhe për njerëzit me zbokth dhe dermatit seborrhoik të kokës. Kjo formulë rekomandohet për kujdes të rregullt ose parandalues, për t’i bërë më efektive trajtimet dhe për të përmirësuar rezultatet e tyre. Ky peeling pastrues largon në mënyrë efektive çdo papastërti dhe akumulimin e lëkurës së keratinizuar, të cilat formojnë të ashtuquajturën shtresë të kristalizuar. Ai mundëson daljen e folikulave të flokëve dhe rikthen ekuilibrin fiziologjik në lëkurën e kokës, i cili është hapi i parë thelbësor drejt kujdesit të duhur për skalpin e prirur ndaj rënies së flokëve dhe zbokthit. Bazuar në veprimin plotësues të eksfoliantëve biologjikë, enzimatikë dhe mekanikë (papaina, lëvozhgat e kajsisë), ky peeling pastron thellësisht lëkurën e kokës (duke hequr zbokthin, sebumin, mbetjet e llakut të flokëve) dhe i bën flokët më pak të prirur ndaj yndyrosjes së tepërt. Formula natyrale që përmban pirokton olamine me veti antibakteriale dhe normalizuese keratinizuese kontrollon mikroflorën e dëmshme, duke luftuar në mënyrë efektive simptomat e zbokthit dhe duke parandaluar përsëritjen e tij. Kafeina, e cila njihet për aftësinë e saj për të zgjatur jetëgjatësinë e flokëve, përmirëson mikroqarkullimin në lëkurën e kokës, rrit furnizimin me oksigjen në qeliza dhe stimulon sintezën e kolagjenit, duke forcuar rrënjët e flokëve. Si rezultat, forcon flokët dhe redukton rënien e flokëve, si dhe stimulon dhe përshpejton rritjen natyrale të flokëve. Ureja siguron hidratim optimal të skalpit dhe parandalon tharjen e tepërt. Peeling-u i kokës promovon përthithjen e përbërësve aktivë që përmbahen në produkte të tjera të kujdesit për lëkurën e kokës dhe rrit efektivitetin e tyre. Peeling përmirëson gjendjen e lëkurës së kokës dhe flokëve dhe i mban flokët të ngritur në rrënjë pa i yndyrosur apo rënduar ato. Grimcat e mbetura pas procesit janë të lehta për t’u shpëlarë larg nga skalpi. Udhëzime mbi përdorimin Përdoreni peeling rregullisht, të paktën një herë në javë. Aplikojeni produktin në lëkurën e lagur të kokës, fërkojeni butësisht dhe më pas shpëlani grimcat e mbetura me ujë dhe lani flokët me shampo. Trajtimi peeling përgatit lëkurën e kokës për kujdesin e duhur të lëkurës dhe jep rezultatet më të mira kur kombinohet me shampo dhe formula të tjera të specializuara nga linja Pharmaceris H të cilat trajtojnë probleme specifike dermatologjike të flokëve dhe skalpit të kokës. - Amar Pharma - Pharmaceris - Peeling Flokësh
-  Updated: 2025-10-27T09:20:14Z
+  Updated: 2025-10-28T16:10:05Z
   Vendor: Pharmaceris
   Product Type: Peeling Flokësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/172-TRICHOLOGY-CLEANSING-PEEL-FOR-THE-SCALP-WITH-HAIR-LOSS-AND-DANDRUFF-PROBLEM-H-STIMUPEEL-125-ml-1.png?v=1757514538
   Price: ALL 3,292.00 ALL
 - [H-STIMUPURIN - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-shampoo): Pharmaceris H-Stimupurin Shampoo Stimulating Hair Growth Kjo shampo është krijuar për femra dhe meshkuj të prekur nga rënia e tepërt e përkohshme, ose rrallimi i flokëve. Ndihmon për të luftuar rënien që lidhet me predispozitat gjenetike dhe faktorët hormonalë (alopecia androgjenike) ose mjedisore. Parandalon në mënyrë efektive rënien e flokëve të shkaktuar nga mjekimi i zgjatur, stresi, lodhja, dobësia e përgjithshme (p.sh. lidhur me dietën) ose pas shtatzënisë. Është e përshtatshme për skalpin e ndjeshëm. Stimupurin Specialist Shampoo Stimulating Hair Growth përmban një kombinim unik i dy përbërësve: Faktori Natyror i Rritjes FGF dhe kafeina tregon efikasitet të konfirmuar shkencërisht në parandalimin e rënies së flokëve dhe stimulimin e rritjes së flokëve në të njëjtën kohë. Përbërësit që përmban ky kompleks ndikojnë në nivelin qelizor duke aktivizuar gjenet që janë përgjegjëse për zhvillimin e flokëve të rinj. Ato nxisin proceset jetësore të gjëndrave ekzistuese të flokëve për të nxitur rritjen natyrale të flokëve dhe zgjatjen e jetëgjatësisë së tyre (faza anagen). Kafeina parandalon rënien e përcaktuar gjenetikisht duke neutralizuar efektin negativ të hormoneve (androgjeneve, DHT) përgjegjëse për degradimin e flokëve dhe rënien e parakohshme të flokëve. Përbërësit e zgjedhur me kujdes: niacinamide (vitamina PP), D-panthenol dhe biotina kanë efekt qetësues dhe rivendosin ekuilibrin fiziologjik të skalpit të kokës. Shampoja pastron flokët dhe skalpin tuaj butësisht por në mënyrë efektive. Zbut dhe forcon strukturën e flokëve dhe rikthen trashësinë natyrale të flokëve. Ka një nivel pH neutral të ngjashëm me atë të kokës. Pa parabene, alergene, ngjyrues artificialëdhe silikone. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Lani flokët me shampon çdo ditë ose të paktën 3 herë në javë. Aplikojeni shampon në flokë dhe skalp të lagur. Fërkojeni butësisht për 2-3 minuta dhe më pas shpëlajeni me ujë. Nëse produkti ju bie në kontakt me sytë, lajini menjëherë me ujë. Shampoja mund të përdoret çdo ditë. Për të përmirësuar rezultatet e trajtimit, përdoreni në kombinim me Pharmaceris H-Stimulinum Hair Growth Stimulating Conditioner. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-27T09:20:15Z
+  Updated: 2025-10-28T16:10:05Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
@@ -1222,7 +1222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/56-MANGOLIA-Deeply-moisturizing-hand-and-nail-cream-with-soy-oil-1.jpg?v=1758104730
   Price: ALL 915.00 ALL
 - [MATTIFYING FLUID SPF 30+ - NATURAL 20 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/mineral-mattifying-fluid-dermo-foundation-spf-30-matt-mineral-correction-20-natural-30-ml): Pharmaceris – Mattifying Fluid Pore Refining Foundation Fluid i cili aplikohet lehtësisht në lëkurë, duke i dhënë fytyrës një pamje natyrale, e cila zgjat deri në 10 orë, dhe duke siguruar menjëherë një efekt matifikues. Përthith sebumin e tepërt dhe rregullon aktivitetin e gjëndrave dhjamore për ta bërë lëkurën më pak të prirur ndaj shkëlqimit dhe papërsosmërive të reja. Formula inovative “Pore-Diminish” forcon fibrat e kolagjenit që rrethojnë poret e lëkurës për të zvogëluar dukshëm madhësinë e poreve. Baza fluide unifikon tonin e lëkurës dhe ju jep një grim të qëndrueshëm me pamje të freskët. Nuk e mbingarkon lëkurën dhe nuk bllokon poret e lëkurës. Filtrat e tij foto-stabile UVA/UVB forcojnë mekanizmat mbrojtës të lëkurës dhe mbrojnë lëkurën nga agresorët mjedisorë. Produkti rekomandohet për lëkurë normale, mikse dhe të yndyrshme e cila ka tendencë të yndyroset. Rekomandohet gjithashtu për njerëzit që vuajnë nga aknet, për të fshehur dhe eliminuar papërsosmëritë tipike për lëkurën e prirur ndaj akneve (të tilla si komedone ose pore të zgjeruara të lëkurës). Udhëzime mbi përdorimin Aplikojeni në lëkurë të pastër dhe shpërndajeni në mënyrë të barabartë në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-10-27T09:20:15Z
+  Updated: 2025-10-28T16:10:06Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
@@ -1264,7 +1264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/672df60db6447_W_EN_10E14711_MELA_PROTECT.png?v=1757514255
   Price: ALL 4,490.00 ALL
 - [MELADERMIX PEEL   20% - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/meladermix-peel-20): Pharmaceris Meladermix Peel Exfoliating Pharmaceris Meladermix Peel Exfoliating është krijuar posaçërisht për të trajtuar njollat, tonin e pabarabartë të lëkurës, rrudhat e imëta. Formula shumë e përqendruar me acid glikolik, acid laktik dhe acid mandelik ka një efekt të provuar ndriçues të lëkurës që redukton njollat dhe stimulon rinovimin e qelizave. E bazuar në acide 20% ka një efekt në shumë nivele në procesin e melanogjenezës si eksfolimi dhe mbrojtja e lëkurës nga intensifikimi i njollave ekzistuese dhe parandalimi i formimit të njollave të reja. Zbardh njollat, barazon tonin e lëkurës dhe rikthen pigmentimin natyral. Redukton njollat. Stimulon rinovimin e qelizave. Redukton dukshmërinë e plagëve dhe poreve. E bën lëkurën më të lëmuar dhe më të fortë. Forcon barrierën mbrojtëse të lëkurës. Përbërësit aktivë Acidi Glikolik – Eksfolion qelizat e vdekura të epidermës. Acidi Laktik – Efekt eksfoljues, hidratues dhe rigjenerues. Rregullon pH dhe e mban atë në një nivel të ulët fiziologjik, duke ju mbrojtur kundër acarimeve dhe skuqjeve. Acidi Mandelik – Veti antibakteriale, anti-inflamatore, eksfolon butësisht qelizat e vdekura. Betaine – Efekte hidratuese, qetësuese, kundër plakjes dhe kundër rrudhave. Indikacionet Rekomandohet për përdorim (fytyrë, qafë, dekolte, krahë, duar) si trajtim për lëkurën me njolla dhe ton të pabarabartë të lëkurës, rrudha të imëta. Për përdorim në zonat e prekura nga ndryshimet e pigmentimit si p.sh. njollat e moshës, njollat post-inflamatore, njollat e diellit, njollat pas shtatëzanisë. Preparati tolerohet mirë për t’u përdorur si një trajtim intensiv eksfoljimi dhe zbardhues për njollat gjithashtu edhe për lëkurën e ndjeshme dhe tepër reaktive ndaj nikelit. Udhëzime mbi përdorimin Aplikojeni në zonat problematike të lëkurës 2-3 herë në javë në mbrëmje. Gjatë aplikimit të parë kryeni një test tolerance në një zonë të vogël të lëkurës. Aplikojeni në lëkurë të pastruar, duke shmangur zonën e syve dhe gojës. Gjatë trajtimit shmangni ekspozimin e drejtpërdrejtë të lëkurës në diell dhe përdorni fotoproteksion shumë të lartë. - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-10-27T09:20:16Z
+  Updated: 2025-10-28T16:10:06Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
@@ -1362,7 +1362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_42.png?v=1758876529
   Price: ALL 2,689.00 ALL
 - [OCTOPIROX® DS LOTION - Amar Pharma - Pharmaceris - Locion](https://amar.al/products/scalp-tonicum-liquid-reducing-scaling-and-redness-octopirox-ds-100-ml): Formulim për përdorim të përditshëm për skalpin dhe trupin me simptoma të dermatitit seborrheik. Rekomandohet në rast të prodhimit të tepërt të sebumit, kruarjes së vazhdueshme dhe skuqjes së lëkurës. I përshtatshëm për fëmijët mbi 12 vjeç dhe të rriturit. Sjell lehtësim të menjëhershëm. Qetëson shpejt kruarjen, djegien, skuqjen dhe yndyrën e tepërt (simptomat e dermatitit seborrheik).Formula qetësuese IMMUNO-PREBIOTIC ruan ekuilibrin e mikroflorës epidermale, duke mbështetur zhvillimin e barrierës natyrore mbrojtëse të lëkurës dhe duke pakësuar mbindjeshmërinë e saj. Përmban kompleksin Octopirox®, me veti të forta anti-bakteriale dhe anti-fungale, me qëllim që të parandalojë rikthimin e simptomave të lidhura me dermatitin seborrheik. Redukton skuqjen e lëkurës.Parandalon rënien e flokëve si pasojë e dermatitit seborrheik. - Amar Pharma - Pharmaceris - Locion
-  Updated: 2025-10-27T09:20:16Z
+  Updated: 2025-10-28T16:10:07Z
   Vendor: Pharmaceris
   Product Type: Locion
   Availability: Available
@@ -1719,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/113-FLUID-FOUNDATION-SPF-50-protective-corrective-SUN-CORRECTION-01-IVORY-30-ml-1.png?v=1757513978
   Price: ALL 3,892.00 ALL
 - [PROTECTIVE-CORRECTIVE SPF 50+ - SAND 02 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/fluid-foundation-spf-50-protective-corrective-sun-correction-02-sand-30-ml): Pharmaceris – Fluid Foundation Sun-Correction (SPF 50+) Kjo fondatinë rekomandohet për të gjitha llojet e lëkurës, duke përfshirë lëkurat e ndjeshme, të irrituar nga agresorët mjedisorë (foto-alergjitë) dhe procedurat e mjekësisë estetike, trajtimi me lazer ose peeling. Rekomandohet për njerëzit e prirur ose në rrezik të depigmentimeve së lëkurës (p.sh. kur marrin medikamente të caktuara, në rast të kushteve inflamatore ose shtatzënisë) dhe njerëzit që vuajnë nga vitiligo. Fondatina e specializuar fluide ofron nivelin më të lartë të mbrojtjes kundër rrezatimit diellor dhe parandalon në mënyrë efektive përkeqësimin e depigmentimeve ekzistuese dhe shfaqjen e të rejave. Pigmentet e mikronizuara fshehin në mënyrë të përkryer çdo papërsosmëri të lëkurës, duke siguruar mbulim afatgjatë dhe duke i dhënë lëkurës një strukturë të njëtrajtshme dhe një tonalitet të shëndetshëm. Formula inovative Leukine Barrier me veti imunostimuluese zbut irritimet e shkaktuara nga agresorët e mjedisit. Ekstrakti qetësues i farës së lirit rikthen ekuilibrin fiziologjik të lëkurës, forcon shtresën e saj lipidike dhe nxit rigjenerimin. Kjo fondatinë nuk e mbingarkon lëkurën si dhe nuk bllokon poret e lëkurës, nuk nxit komedone, nuk shkakton tharje të lëkurës. Pa paraben. Udhëzime mbi përdorimin Aplikojeni në lëkurë dhe shpërndajeni në mënyrë të njëtrajtshme në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. Për përdorim të përditshëm. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-10-27T09:20:17Z
+  Updated: 2025-10-28T16:10:08Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/89-RETINOL-NIGHT-CREAM-adult-acne-pure-RETINOL-0.3-40-ml-1.png?v=1757513957
   Price: ALL 3,962.00 ALL
 - [PURE-LUMINIUM - Amar Pharma - Pharmaceris - Shkumë Pastruese](https://amar.al/products/pure-luminium): INDIKACIONEPër lëkurë me njolla të pigmentuara dhe ton të pabarabartë, me shenja plakjeje, si dhe lëkurë të shurdhër, njolla të errëta të shkaktuara nga ekspozimi në diell.I përshtatshëm për mbajtësit e lenteve të kontaktit.Pa sapun dhe alkool. VEPRIMShkuma largon në mënyrë efektive grimin dhe papastërtitë nga fytyra dhe zona e syve, duke ndriçuar lëkurën.Kombinimi i përbërësve që pengojnë melanogjenezën (niacinamide, azeloglicina dhe algat e ylberit) demonstron efikasitet të lartë në mbrëmje dhe zbardh tonin e lëkurës.Formula rikthen hidratimin optimal dhe e mban lëkurën të mos ndjehet e tendosur dhe e thatë.Formula ultra e butë nuk shkakton acarim ose tharje të tepërt të lëkurës. PËRBËRËSIT2% niacinamideazeloglicinaEkstrakti i Algave të Ylberit UDHËZIME PËR PËRDORIMAplikoni një sasi të vogël të shkumës në dorë dhe lani fytyrën.Më pas shpëlajeni me ujë. Përdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë mëngjesit dhe natës. SIGURIA DHE EFIKASITETIFORMULA E AVANCUAR E DIZAJUAR PËR LËKURË SHUMË TË NDJESHMETOLERANCË DHE EFEKTIVITET I LARTËTESTUAR OFTALMOLOGJIK DHE DERMATOLOGJIK - Amar Pharma - Pharmaceris - Shkumë Pastruese
-  Updated: 2025-10-27T09:20:17Z
+  Updated: 2025-10-28T16:10:08Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -1775,7 +1775,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/120-BODY-SCALP-CLEANSING-GEL-normalising-desquamation-PURI-ICHTILIUM-250-ml-1.png?v=1757513928
   Price: ALL 3,195.00 ALL
 - [PURI-ROSALGIN - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/soothing-physiological-face-gel-wash-for-the-face-and-the-skin-in-the-eye-area-puri-rosalgin-190-ml): Pharmaceris – Rosacea Puri-Rosalgin Xheli larës fiziologjik Rosalgin është menduar për pastrimin e përditshëm të lëkurës së ndjeshme, alergjike me rosacea, të prirur për skuqje, eritemë fikse, papula dhe pustula. Gjithashtu siguron kujdes të butë për lëkurën e ndjeshme në zonën e syve. Ai zëvendëson sapunin tradicional. Është i përshtatshëm për lëkurën e të gjitha moshave. Larësi në formë xheli bazohet në një përbërës pastrues jashtëzakonisht të butë pa sapun që ndihmon në ruajtjen e ekuilibrit fiziologjik të lëkurës pa cënuar barrierën natyrore mbrojtëse të epidermës. Largon papastërtitë në mënyrë efektive dhe make-up-in pa shkaktuar acarim ose tharje. Redukton me 90% formimin papulave dhe pustulave. Zvogëlon me 90% intensitetin e skuqjes. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni një sasi të vogël të xhelit në dorën tuaj dhe lani fytyrën. Më pas shpëlajeni me ujë. Pasoni larjen me një krem qetësues të duhur nga linja Pharmaceris R. Përdoreni çdo ditë në mëngjes dhe në darkë. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-27T09:20:17Z
+  Updated: 2025-10-28T16:10:08Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1796,7 +1796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_ONLINE-RICH-CONTENT_STATIC_20250402_38798_T_18391_PREVIEW_01.png?v=1751017976
   Price: ALL 2,290.00 ALL
 - [PURI-SEBOTONIQUE - Amar Pharma - Pharmaceris - Toner](https://amar.al/products/normalizing-face-toner-puri-sebotonique-200-ml): Pharmaceris – Puri-Sebotonique Normalizing Toner Falë vetive të tij antibakteriale, toniku heq në mënyrë efektive papastërtitë dhe mbetjet e make-up-it.Ekstrakti i marinës eksfolon butësisht qelizat e vdekura të epidermës dhe lehtëson aknet.Ekstrakti i burdock dhe PCA i zinkut rregullojnë sekretimin e sebumit dhe ngushtojnë poret e lëkurës. Eksfolon qelizat epidermale të kornifikuara dhe ka veti hidratuese të cilat rivendosin ekuilibrin hidro të lëkurës. Kontrollon në mënyrë efektive mikrofloren bakteriale dhe redukton yndyrën e tepërt të lëkurës. Ka veti antibakteriale. Normalizon aktivitetin e tepërt të gjëndrave dhjamore dhe zvogëlon sekretimin e sebumit. Udhëzime mbi përdorimin Pastroni lëkurën, më pas lagni një tampon pambuku me tonikun dhe aplikojeni butësisht mbi fytyrën tuaj.Përdoreni çdo ditë në mëngjes dhe para gjumit. - Amar Pharma - Pharmaceris - Toner
-  Updated: 2025-10-27T09:20:18Z
+  Updated: 2025-10-28T16:10:09Z
   Vendor: Pharmaceris
   Product Type: Toner
   Availability: Available
@@ -1817,7 +1817,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_35.png?v=1758875770
   Price: ALL 2,490.00 ALL
 - [ALBUCIN MELA 30 ml - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/radiance-boost-duoaction-whitening-serum-albucin-mela-30-ml): Pharmaceris Radiance Boost është serum I cili përdoret për kujdesin e përditshëm të lëkurës me hiperpigmentim ose ton të pabarabartë. Kjo formulë inovative me veprim të dyfishtë redukton në mënyrë efektive zbardhjen ekzistuese të lëkurës dhe parandalon përsëritjen e saj. Acidi Hialuronik ndalon plakjen e parakohshme të lëkurës, ruan hidratimin optimal duke përmirësuar qëndrueshmërinë dhe elasticitetin e saj. Nanopeptide-1 – pengon prodhimin e melaninës në qelizat e pigmentuara. Lady's Thistle mbron lëkurën nga rrezatimi i dëmshëm UV dhe nxit rigjenerimin e lëkurës së dëmtuar. Ekstrakti i frutave të portokallit – përmban sheqerna acide organike (Acidi Citrik) vitamina (C P A B1 B2) pektina elementë (K Ca P Mg) dhe flavonoidë të cilat I japin shkëlqim lëkurës. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:30:13Z
+  Updated: 2025-10-28T09:55:05Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1831,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/61279741662966088.webp?v=1758105639
   Price: ALL 1,390.00 ALL
 - [ROSALGIN ACTIVE+ - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/ultra-active-gel-against-erythema-papules-and-pustules-for-face-rosalgin-active-30-ml): Pharmaceris Rosalgin Active+ Pharmaceris Rosalgin Active+ krijuar për të ofruar kujdes për lëkurën me simptoma të rosacea, e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur, papula dhe pustula. Indikacionet Zvogëlon dukshmërinë e papulave dhe pustulave. Minimizon shfaqjen e eritemës. Ka një efekt qetësues. Posacërisht për lëkurën me simptoma të rosacea. Përbërësit aktivë Azeloglicina – Hidraton dhe qetëson lëkurën, redukton papulat dhe pustula ndërsa minimizon rrezikun e shpërthimit të akneve. AgascalmTM – Zvogëlon zgjerimin e vazhdueshëm të enëve të gjakut, dhe rikthen hidratimin e duhur të lëkurës. Ekstrakti Centella – Ka një efekt qetësues, zvogëlon dukshmërinë e telangjiektazive dhe lezioneve papulopustulare të lëkurës. Uji i lajthisë – Përmirëson qarkullimin e gjakut në lëkurë, dhe tonin e saj. Udhëzime mbi përdorimin Përdoreni xhelin çdo mëngjes dhe mbrëmje. Perfekt si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-27T09:20:18Z
+  Updated: 2025-10-28T16:10:09Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/01-1-1.png?v=1737381275
   Price: ALL 2,195.00 ALL
 - [SmartAppGuided™ Aqua-Stream Face Cleanser | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial](https://amar.al/products/smartappguided-aqua-stream-face-cleanser-8-in-1): Po kërkoni një marrje të shpejtë? Pastruesi i fytyrës SmartAppGuided™ Aqua-Stream | 8 në 1 rinovon dhe hidraton lëkurën tuaj në përsosmëri rrezatuese. - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial
-  Updated: 2025-10-27T09:20:19Z
+  Updated: 2025-10-28T16:10:09Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1958,7 +1958,7 @@ Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/p
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0013_4099702000896_1.png?v=1751544634
   Price: ALL 5,274.00 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lifter | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lifter-6-in-1): Ngritësi i fytyrës MicroCurrent SmartAppGuided™ | 6 në 1 përdor teknologjitë MicroCurrent dhe SmartSonic Pulsation për të forcuar dhe ngritur lëkurën tuaj, duke i dhënë asaj një pamje rinore dhe një shkëlqim të shëndetshëm. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-27T09:20:19Z
+  Updated: 2025-10-28T16:10:10Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2087,7 +2087,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/8f39b8e0ec3f194179b6198742ca0d99.webp?v=1757513755
   Price: ALL 3,089.00 ALL
 - [ALBUCIN  SPF 50+ 30 ml - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/triple-action-skin-lightening-day-cream-spf-50-albucin-30-ml): Përshkrimi i Produktit Pharmaceris – Triple Action Whitening Day Cream (SPF 50+) Rekomandohet për kujdesin e përditshëm të lëkurës me hiperpigmentime, për shkak të ekspozimit në diell, shtatzënisë, operacioneve estetike, trajtimeve dermatologjike ose inflamacionit. Krem unik, shumë i koncentruar përmban 4% Niacinamide, një substancë me veti ndriçuese të krahasueshme me ato të hidrokinonit, një përbërës aktiv i trajtimeve mjekësore zbardhuese. Niacinamide është një substancë shumë që bllokon në mënyrë efektive sintezën e melaninës, duke ndihmuar në parandalimin e njollave të reja epidermale. Efekti zbardhues përforcohet nga vitamina C dhe kompleksi Biomimetic-Peptide. Vitamina E vepron si një antioksidant fiziologjik i cili vonon plakjen e lëkurës. Filtri SPF 50+ siguron një mbrojtje efektive. Kremi nuk shkakton depigmentim të lëkurës së shëndetshme. Udhëzime mbi përdorimin Aplikoni kremin në zonat e hiperpigmentuara 2-4 herë në ditë. Efekti është i dukshëm pas një minimumi prej 3 javësh të përdorimit të produktit. Shmangni ekspozimin në diell gjatë trajtimit dhe për 10 javë më pas. Rekomandohet të përdorni kremin e natës Pharmaceris Whitening si një trajtim plotësues. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:30:18Z
+  Updated: 2025-10-28T10:14:03Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -2192,7 +2192,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/85-REPIGMENTATION-NIGHT-CREAM-MINIMISING-VITILIGO-LESIONS-for-face-and-body-VITI-MELO-NIGHT-40-ml-1.png?v=1757513723
   Price: ALL 5,093.00 ALL
 - [ALBUCIN-C 5% 30 ml - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/whitening-active-concentrate-5-vitamin-c-albucin-c-30-ml): 90% zbut lëkurën 70% ndriçon lëkurën - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-10-26T14:30:20Z
+  Updated: 2025-10-28T10:10:03Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
@@ -2206,7 +2206,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/131-WHITENING-CLEAR-FACE-TONER-PURI-ALBUCIN-II-200-ml-1.png?v=1737381341
   Price: ALL 2,390.00 ALL
 - [ALBUCIN-PP 4 x 3 ml - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/whitening-essence-correcting-brown-marks-albucin-pp-4-x-3-ml): Pharmaceris Albucin PP Whitening Essence Correcting Brown Marks Për kujdesin e përditshëm të lëkurës (fytyrë, qafë, dekolte, krahë) me hiperpigmentim, shenja kafe ose ton të pabarabartë.Rekomandohet për lëkurë të ndjeshme dhe të yndyrshme. Niacinamide (Vitamina B3, Vitamina PP) – ndihmojnë në rigjenerimin e barrierës lipidike epidermale, duke forcuar enët e gjakut dhe duke reduktuar dukshmërinë e tyre. Stimulon sintezën e kolagjenit dhe normalizon prodhimin e ceramideve dhe maturimin epidermal. Përmirëson nivelet e hidratimit të lëkurës, rrit elasticitetin dhe redukton njollat. E bën lëkurën më të lëmuar dhe më të fortë. Acidi salicilik – eksfolion butësisht qelizat e vdekura të epidermës. Rikthen strukturën e njëtrajtshme të lëkurës dhe siguron një pamje të shëndetshme. Ekstrakti i lëvores së shelgut – tregon veti antibakteriale dhe ka një efekt qetësues në lëkurë. Ka veti antiseptike dhe rregullon procesin e eksfolimit të qelizave të vdekura të lëkurës për të parandaluar papërsosmëritë e reja. Efikasitet dhe tolerancë e lartë. E testuar dermatologjikisht. Udhëzime mbi përdorimin Përdoreni esencën çdo ditë në mëngjes ose para gjumit, duke e aplikuar butësisht në lëkurë të pastër. Prisni derisa të përthithet plotësisht. Përdoreni çdo ditë për të paktën 4-6 javë. Mund të përdoret si trajtim ditën ose natën. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:30:20Z
+  Updated: 2025-10-28T10:23:14Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -2234,7 +2234,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/160995_800x800wp_lirene_pomadka_ochronna_5900717311183_jpg.webp?v=1737541305
   Price: ALL 1,050.00 ALL
 - [Care Protective Lipstick SPF 50 - Amar Pharma - Lirene - Buzëkuq](https://amar.al/products/care-protective-lipstick-spf-50): Përmban një filtër të lartë SPF50, i cili siguron mbrojtje maksimale ndaj efekteve të dëmshme të rrezeve të diellit UVA dhe UVB në lëkurën delikate të buzëve. Falë një formule shumë të përqendruar të bazuar në përbërës aktivë (gjalpë shea, vitaminë E dhe vaj bajame), ajo siguron lagështi të qëndrueshme, ushqim të thellë dhe stimulon lëkurën të rigjenerohet dhe rindërtohet më shpejt. Për më tepër, buzëkuqi sjell lehtësim dhe qetësim të menjëhershëm për lëkurën e irrituar nga dielli, era ose ngrica. Forma e përshtatshme e një shkopi të përdredhur dhe madhësia kompakte nënkuptojnë që buzëkuqi mund të merret me vete në çdo udhëtim të gjatë ose të shkurtër. E disponueshme në një kapacitet prej 4.6 g. Buzëkuq. Për përdorim gjatë gjithë vitit. Hidraton dhe rigjallëron intensivisht. Filtri SPF50 mbron nga rrezet UVA dhe UVB. - Amar Pharma - Lirene - Buzëkuq
-  Updated: 2025-10-26T14:30:21Z
+  Updated: 2025-10-28T15:44:33Z
   Vendor: Lirene
   Product Type: Buzëkuq
   Availability: Available
@@ -2262,7 +2262,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/pharmaceris-sensi-protect-spf50.webp?v=1757513687
   Price: ALL 3,432.00 ALL
 - [After Sun CICA SENSITIVE - Amar Pharma - Pharmaceris - Krem Dielli](https://amar.al/products/soothing-regenerating-after-tanning-balm-cica-sensitive): Pharmaceris S SOOTHING–REGENERATING AFTER TANNING BALM CICA SENSITIVE INDIKACIONEI formuluar për përdorim të përditshëm, locioni rekomandohet për lëkurë të thatë me shenja shqetësimi të përgjithshëm si djegie, lëkurë të kuqe dhe të thatë të shkaktuar nga banja dielli ose ekspozimi i tepërt në diell.Për fytyrën dhe trupin.Miratuar për përdorim tek të rriturit dhe fëmijët nga mosha 3 vjeç. VEPRIMBalsami rigjeneron intensivisht dhe hidraton lëkurën, duke lehtësuar skuqjen, acarimin dhe parehati të tilla si djegie, kruajtje dhe ndjesi të nxehtë të lëkurës të shkaktuar nga banjat e diellit ose ekspozimi i tepërt në diell.Acidi hialuronik dhe vaji i orizit hidratojnë lëkurën shumë të thatë dhe eliminojnë vrazhdësinë, duke e lënë lëkurën shumë më të lëmuar.Ekstrakti Centella Asiatica rrit efektin hidratues duke vonuar proceset e plakjes së lëkurës.Ky locion përthithet shpejt, duke rikthyer rehatinë e lëkurës dhe duke siguruar hidratim dhe lehtësim të menjëhershëm (D-panthenol, allantoin).PËRBËRËSITEkstrakti Centella AsiaticaD-pantenolAcidi hialuronikUDHËZIME PËR PËRDORIMPër përdorim të përditshëm.Aplikojeni në lëkurë të thatë dhe fërkojeni butësisht.Për efekt më të mirë qetësues, lini një shtresë të hollë në lëkurë derisa të përthithet.SIGURIA DHE EFIKASITETISIGURIA DHE EFIKASITETIEkspozimi i tepërt i diellit mund të përbëjë një kërcënim serioz për shëndetin tuaj. Fëmijët nën 3 vjeç duhet të shmangin ekspozimin e drejtpërdrejtë të diellit. TESTUAR DERMATOLOGJIKISHT - Amar Pharma - Pharmaceris - Krem Dielli
-  Updated: 2025-10-26T14:30:21Z
+  Updated: 2025-10-28T09:41:37Z
   Vendor: Pharmaceris
   Product Type: Krem Dielli
   Availability: Available
@@ -2283,7 +2283,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/genesis-new1.webp?v=1738854006
   Price: ALL 3,000,000.00 ALL
 - [AQUA SPECTRA SUPREME - Amar Pharma - OPATRA® -](https://amar.al/products/aqua-spectra-supreme): Introducing the ultimate cleansing machine - a gentle yet powerful way to improve your skin's overall texture and look. The Aqua Spectra Elite machine is a multi-step treatment that uses revolutionary technology, combining with hydro-microdermabrasion, radio frequency, bipolar RF, hydro oxygen (O2 -H2) jet spray, ultrasonic skin scrubber and cold hammer functions. It can effectively accelerate the metabolism of cells, using the healing powers of water to lift out impurities. ELEVATE YOUR CLINIC REPUTATION Aqua Spectra Supreme sets a new standard of excellence in professional skincare solutions. Transform your skincare offerings with advanced aesthetics and medical precision. AQUA FACIAL TECHNOLOGY 7 IN 1 Aqua Spectra Supreme technology is designed for clinics and healthcare professionals. This cutting-edge system integrates RF, bipolar RF, oxyfusion gun, ultrasonic, skin scrubber, warm and cold therapy to provide an unparalleled skincare solution. PRECISION SKINCARE SOLUTION Enhances skincare standards through meticulous cleansing, gentle exfoliation, effective extraction and targeted treatment. A seven-in-one s olution addressing skin revitalization, tightening, wrinkle reduction, oxygen enrichment, and skin cell nutrition. COMITMENT TO QUALITY THAT LASTS Experience simplicity through our user-friendly design. We prioritize the importance of ease and comfort during skincare sessions. Our device ensures a smooth experience for both skincare professionals and clients, ensuring efficientand enjoyable sessions. PROFESSIONAL ASSURANCE AND PATIENT COMFORT Minimal downtime and irritation for patients to resume regular activities immediately. Zero pain or discomfort during and after treatment. Risk-free skincare solution with minimal reported adverse reactions. - Amar Pharma - OPATRA® -
-  Updated: 2025-10-26T14:30:36Z
+  Updated: 2025-10-28T15:00:06Z
   Vendor: OPATRA®
   Product Type: 
   Availability: Available
@@ -2318,14 +2318,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/prebiotyczny-krem-zluszczajacy-na-noc-krt-10e05119.tuk6.webp?v=1738853991
   Price: ALL 1,113.00 ALL
 - [Clinic Way Dermo-capsules (Vit A+C+E) - Amar Pharma - Dr Irena Eris - Kapsula](https://amar.al/products/clinic-way-dermo-capsules-vit-a-c-e): Dermokapsulat për fytyrën dhe qafën përmbajnë serum të përparuar lipidik në kapsula me dozë të vetme të cilat përbëjnë një terapi 30 ditore. Serumi rekomandohet për lëkurë të lodhur, tepër të thatë ose të dehidratuar të çdo moshe që ka në vojë për rigjenë rim të shpejtë, ose për parandalimin e proceseve të përfshira në plakjen e lëkurës. Çdo kapsulë përmban një dozë precize të përbërësve aktiv të fuqishëm të veprimit intensiv sinergjik, Vit A (Retinol) + C + E. Ai siguron një mikro-stimul energjik për lëkurën, duke nxitur rigjenerimin e saj dhe duke luftuar shenjat e plakjes. Përdorimi: Hapni kapsulën duke përdredhur ose prerë majën në qafë. Përhapni përmbajtjen mbi lëkurën e pastër të fytyrës, qafës dhe dekolteazhit tuaj dhe masazhoni serumin plotësisht. Ndiqni me një krem kondicionues sa më shpejt që serumi të absorbohet plotësisht (pas 30-60 sek.). Përdor një kapsulë çdo ditë, mundësisht para gjumit, për të paktën 30 ditë. - Amar Pharma - Dr Irena Eris - Kapsula
-  Updated: 2025-10-26T14:30:37Z
+  Updated: 2025-10-28T15:53:29Z
   Vendor: Dr Irena Eris
   Product Type: Kapsula
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6756bcdd101f1_10E5724_slo.png?v=1738853989
   Price: ALL 4,542.85 ALL
 - [Sonic Thermo Facial Brush | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/sonic-thermo-facial-brush-6-in-1): Kompakt, por i fuqishëm - është një pastrues, një furçë e nxehtë dhe një masazhues fytyre i mbështjellë në një. Bëhuni gati për të zhbllokuar lëkurën natyrale, më të shndritshme dhe të rinovuar, duke filluar nga shtresat e saj më të thella. Furça e fytyrës SmartAppGuided™ Sonic Thermo ofron një pastrim të thellë ultra higjienik të përsosur për rutinën tuaj të përditshme të kujdesit për lëkurën. Thuajini lamtumirë papastërtive, vajit dhe mbetjeve të grimit që bllokojnë poret tuaja në pak sekonda. E gjithë kjo është bërë e mundur falë një sinergjie të përsosur midis teknologjisë sonë të zotëruar të pulsimit SmartSonic me mbi 7500 pulsime në minutë dhe pikave super të buta ultra-higjienike silikoni. Dizajni fleksibël i synuar i zonës së syrit dhe hundës siguron që nuk do të humbisni asnjë pikë të vetme. Tani mund ta çoni rutinën tuaj në nivelin tjetër dhe ta ktheni furçën për të shijuar teknologjinë e ngrohjes së thellë me hapjen e poreve, pasi ajo përgatit në mënyrë të përsosur lëkurën tuaj për thithjen optimale të serumeve dhe kremrave, duke ndihmuar përbërësit aktivë të arrijnë një nivel më të thellë të lëkurës. Përsëri, zona e nxehtë është përshtatur me dizajnin e synuar të zonës sy-hundë të furçës për të arritur në mënyrë të përsosur çdo cep. Për të ngritur në maksimum rutinën tuaj të kujdesit për lëkurën, mund të aktivizoni gjithashtu teknologjinë e masazhit të shkëlqimit rinor që heq, forcon dhe tonifikon lëkurën tuaj për atë pamje mahnitëse dhe të rinovuar. Zhvilluar për Pro-Level Skincare: Pastrim i fytyrës, forcim, ngrohje të thellëPastrim i thellë ditorArritja e lëkurës rrezatuese, me pamje të shëndetshmeMasazh kundër plakjesTë gjitha llojet e lëkurës PërfitimetPastron lëkurën tuaj në vetëm disa sekonda çdo ditëHeq në mënyrë efikase papastërtitë, vajin e tepërt dhe mbetjet e grimitEksfolon lëkurën tuaj dhe hap poretMinimizon shfaqjen e pikave të zeza3-në-1: Ngre, forcon dhe tonifikon lëkurën tuaj - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-27T09:20:19Z
+  Updated: 2025-10-28T16:10:10Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2339,14 +2339,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_2024_12_P_STATIC_ALL_7d2f5f96-9736-4f49-856b-41821ec4150b.png?v=1738870065
   Price: ALL 9,373.00 ALL
 - [Blue Light Protection Serum - Amar Pharma - Geske - Serum Fytyre](https://amar.al/products/blue-light-protection-serum): Mbron lëkurën nga dëmtimi i dritës blu Telefonat inteligjentë, laptopët dhe ekranet e televizorit janë elementë të jetës sonë të përditshme. Prej kohësh dihet se koha e tepërt e ekranit mund të dëmtojë sytë tanë. Por a e dini se pajisjet mediale lëshojnë gjithashtu dritë blu, e cila e bën lëkurën të plaket më shpejt? Drita depërton në shtresat më të thella të lëkurës dhe dëmton qelizat, duke nxitur kështu formimin e rrudhave, njollave të pigmentit dhe lëkurës së thatë. Serumi mbrojtës nga drita blu u zhvillua për të luftuar efektet negative të kohës para ekranit dhe për të mbrojtur lëkurën nga rrezatimi. Serumi është krijuar për të rimbushur rezervat e lagështisë së lëkurës dhe për ta mbajtur atë të duket rinore për një kohë të gjatë. Formula mbrojtëse Me strukturën e tij të lehtë dhe të mëndafshtë, serumi përthithet shpejt në lëkurë. Ka një aromë të këndshme dhe modeste që është e detyruar të qetësojë shqisat tuaja. Malakiti mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen ka veti të dobishme antioksidante dhe anti-inflamatore. Serumi përmban gjithashtu laminaria digitata, e njohur më mirë si leshterik, e cila mbron lëkurën nga ndikimet e jashtme. Përdoreni serumin dy herë në ditë për rezultate më të mira. Gjithmonë duhet të përdorni krem ​​kundër diellit për të mbrojtur lëkurën tuaj nga dëmtimi i shkaktuar nga rrezatimi UV. Mësoni më shumë rreth përbërësve aktivë: Malakiti Mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen Ka veti të dobishme antioksidante dhe anti-inflamatore. Laminaria digitata (leshterik) Mbron lëkurën nga ndikimet e jashtme. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Serum Fytyre
-  Updated: 2025-10-26T14:30:38Z
+  Updated: 2025-10-28T15:13:46Z
   Vendor: Geske
   Product Type: Serum Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/geske-blue-light-protection-serum-30ml-product-scaled.png?v=1741173940
   Price: ALL 3,050.00 ALL
 - [Cleansing Lotion - Amar Pharma - Geske - Xhel Pastrues](https://amar.al/products/cleansing-lotion): Kujdes intensiv dhe hidratim Filloni ditën tuaj me një notë të bukur me Locionin Pastrues të pasuruar me vaj bajame, vitaminë E dhe ekstrakt lajthie. Ky krem ​​pastrues mund të përdoret dy herë në ditë dhe largon butësisht mbetjet e make-up-it, papastërtitë dhe bakteret nga lëkura juaj. Aroma e lehtë dhe e këndshme e bajames është e detyruar të sjellë një buzëqeshje në fytyrën tuaj dhe të lë lëkurën tuaj të ndjehet e freskët dhe e pastër gjatë gjithë ditës. Për rezultate optimale, ne rekomandojmë përdorimin e furçave tona pastrues GESKE, për një lëkurë rrezatuese dhe të pastër brenda sekondave. Përbërës të çmuar për një çehre rrezatuese Ky krem ​​për larjen e fytyrës kujdeset për lëkurën tuaj edhe gjatë pastrimit dhe e lë fytyrën tuaj të ndjehet e butë dhe elastike. Vaji i bajames është konsideruar prej kohësh një kurë mrekullie në kujdesin e lëkurës. Shumë acide yndyrore të pangopura depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Vaji i bajames gjithashtu përmban acid palmitik, i cili është një përbërës natyror mbrojtës i lëkurës. Ekstrakti i lajthisë së shtrigës ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Mësoni më shumë rreth përbërësve aktivë: Vaji i bajames Plot acide yndyrore të pangopura që depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Ekstrakti i lajthisë së shtrigës Ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E Promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Xhel Pastrues
-  Updated: 2025-10-26T14:30:38Z
+  Updated: 2025-10-28T15:51:30Z
   Vendor: Geske
   Product Type: Xhel Pastrues
   Availability: Available
@@ -2430,7 +2430,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/lirene-acid-power-set-face-cream-50-ml-face-serum-30-ml.jpg?v=1748343303
   Price: ALL 1,677.00 ALL
 - [C+D PRO Vitamin Energy Set dhuratë Lirene - Amar Pharma - Lirene - Krem](https://amar.al/products/c-d-pro-vitamin-energy-set-dhurate-lirene): Përshkrimi – Lirene C+D PRO Vitamin Energy Lloji i lëkurës: I përshtatshëm për të gjitha llojet e lëkurësPërdorimi: Kujdes kundër plakjes së lëkurësEfektet: Hidratim Anti-plakje Ndriçim Ushqim Unifikim i tonit të lëkurës Mbrojtje nga faktorët e jashtëm Forcim i strukturës së lëkurës Lloji i setit: Set dhuratëMbrojtje nga dielli: Pa SPFKoha e përdorimit: Ditë dhe natëPërbërës aktiv: Vitamina C Gjithçka për një pamje të bukur të lëkurës, në një paketë të vetme.Seti kozmetik Lirene C+D PRO Vitamin Energy nuk përmban vetëm një, por disa produkte që ju ndihmojnë të krijoni ose të pasuroni rutinën tuaj të përditshme të kujdesit për lëkurën. Një dhuratë perfekte për veten ose për të dashurit tuaj. Seti përmban: Krem hidratues për ditë dhe natë – 50 ml Serum për fytyrën – 30 ml Karakteristikat: Rikthen fortësinë e lëkurës dhe e bën atë të tonifikuar Unifikon tonin e lëkurës Rigjeneron dhe jep energji Zbut rrudhat dhe ndihmon në parandalimin e tyre Ushqen në thellësi Mbron lëkurën nga ndikimet e dëmshme të jashtme Hidraton intensivisht Një kënaqësi për çdo grua Si të përdoret: Përdorni çdo produkt nga seti sipas udhëzimeve përkatëse. - Amar Pharma - Lirene - Krem
-  Updated: 2025-10-26T14:30:41Z
+  Updated: 2025-10-28T15:31:36Z
   Vendor: Lirene
   Product Type: Krem
   Availability: Available
@@ -2444,21 +2444,21 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/coffret-gel-nettoyant-190-ml-creme-de-nuit-matifiante-aux-prebiotiques-50-ml-under20-lirene-_1.png?v=1748348520
   Price: ALL 1,950.00 ALL
 - [Set Hyaluro-Sensilium - Amar Pharma - Pharmaceris - Krem Hidratues](https://amar.al/products/krem-hidratues-me-acid-hialuronik-ne-uje-hyaluro-sensilium-a-40ml): Përshkrim:Krem në formë uji, i përshtatshëm për lëkurë shumë të ndjeshme, të prirur ndaj reaksioneve alergjike, dehidratimit, skuqjes apo acarimit, veçanërisht gjatë stinëve me polen.Formula përmban acid hialuronik me peshë molekulare të lartë dhe të ulët – i përputhshëm biologjikisht me acidin hialuronik natyral të lëkurës. Efekte: Hidratim i shumëfishtë në shtresa të ndryshme të lëkurës Qetësim i menjëhershëm i ndjesisë së tërheqjes dhe thatësisë 3% pro-glucoseZe siguron hidratim afatgjatë Teknologjitë Immuno-Prebiotic dhe Leukine-barrier rivendosin barrierën natyrale të lëkurës dhe qetësojnë irritimet, duke parandaluar reagimet alergjike të shkaktuara nga faktorë si poleni Përdorim:Aplikojeni në mëngjes dhe mbrëmje në fytyrë, qafë dhe dekolte, mbi lëkurë të pastruar.Mund të përdoret si bazë grimi. E rekomanduar për:Kujdesin e përditshëm të lëkurës që kërkon hidratim dhe ushqim intensiv – fytyra, zona e syve, qafa, dekolteja. 2. Spumë pastruese për fytyrë të ndjeshme & sy – Puri-Sensilium A – 50ml Përshkrim:Spumë shumë e butë për përdorim të përditshëm në fytyrë dhe zonën e syve, e përshtatshme për lëkurë tepër të ndjeshme dhe të prirur ndaj alergjive, në çdo moshë.Formula immuno-prebiotike qetëson irritimet dhe kontrollon ndjeshmërinë e lëkurës. Efekte: Zëvendëson sapunin tradicional Pastrim i butë, heq make-up-in dhe papastërtitë D-pantenoli dhe Glucam® rikthejnë hidratimin dhe parandalojnë ndjesinë e shtrëngimit I testuar klinikisht dhe dermatologjikisht Pa sapun Përdorim:Vendosni një sasi të vogël spume në pëllëmbë dhe lani fytyrën. Shpëlajeni me ujë. Më pas, përdorni locion dhe krem Pharmaceris A të përshtatshëm për tipin tuaj të lëkurës. Përdoreni çdo ditë, në mëngjes dhe mbrëmje. Karakteristika të përgjithshme Brand: PHARMACERIS Gama: A Forma e setit: Krem 40ml + Mini-spumë 50ml Rekomanduar për: Lëkurë të ndjeshme, të dehidratuar, të prirur ndaj skuqjes dhe alergjive Vegan & dermatologjikisht i testuar Përmbledhje për katalog / etiketë produkti Set Hyaluro-Sensilium + Mini Spumë për Pastrim – PharmacerisHidratim i thellë dhe pastrim i butë për lëkurë të ndjeshmePërmban: Krem hidratues në ujë me acid hialuronik – 40ml Spumë pastruese për fytyrë & sy – 50ml - Amar Pharma - Pharmaceris - Krem Hidratues
-  Updated: 2025-10-27T09:20:10Z
+  Updated: 2025-10-28T16:10:11Z
   Vendor: Pharmaceris
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/1830153984.webp?v=1748350281
   Price: ALL 3,885.00 ALL
 - [Lirene Whitening Mousse zbardhues + Krem nate zbardhues - Amar Pharma - Lirene - Krem](https://amar.al/products/lirene-whitening-mousse-zbardhues-krem-nate-zbardhues): 💧 Me Alfa-arbutinë dhe Niacinamidë 4%🌞 Me vitaminë C dhe acid hialuronik🧴 Ushqen lëkurën që pas 2 javësh përdorim✨ Jep efekt zbardhues të dukshëm ✅ Krem nate zbardhues intensiv Një terapi nate me efekt zbardhues, falë kompleksit ALPHA-WHITE që përmban: Alfa-arbutinë Niacinamidë Vitaminë C Acid hialuronik Gjalpë Shea Efekte: Redukton njollat dhe pigmentimin Jep ndriçim të dukshëm që pas disa javësh Hidraton intensivisht Rrit elasticitetin e lëkurës Ndihmon në rigjenerimin dhe rininë e lëkurës ✅ Mousse zbardhues për pastrim fytyre Pastron butësisht lëkurën Nxit tonin më të unifikuar dhe të ndritshëm Heq papastërtitë dhe qelizat e vdekura Përmirëson strukturën e lëkurës Përgatit lëkurën për trajtime zbardhuese - Amar Pharma - Lirene - Krem
-  Updated: 2025-10-27T09:20:20Z
+  Updated: 2025-10-28T16:10:11Z
   Vendor: Lirene
   Product Type: Krem
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/pack-whitening-mousse-eclairsissante-creme-de-nuit-lirene.png?v=1748351211
   Price: ALL 1,595.00 ALL
 - [Lirene Set C+D+E – Mousse pastruese 150 ml + Krem fytyre 50 ml - Amar Pharma - Lirene - Krem](https://amar.al/products/lirene-set-c-d-e-mousse-pastruese-150-ml-krem-fytyre-50-ml): 🧴 2 produkte në një paketë 💧 Mousse pastruese me teksturë të butë dhe të kadifenjtë Heq me butësi mbetjet e makeup-it, yndyrën e tepërt dhe papastërtitë Formula me vitamina C dhe E jep energji, ushqim dhe hidratim për lëkurat e lodhura dhe të zbehta Përdorimi është shumë i këndshëm dhe delikat Detaje të formulës: C+E Vitaminat C dhe E: Stabilizohen dhe përforcojnë njëra-tjetrën, duke krijuar një sistem të fuqishëm antioksidant që mbron dhe rigjeneron lëkurën Vitamina C: Në një nga format më të qëndrueshme dhe efektive, stimulon rigjenerimin dhe gjallërinë e lëkurës Vitamina E: Depërton në shtresat e thella të epidermës, rigjeneron dhe hidraton Acidi hialuronik: Mbron lëkurën nga humbja e lagështisë Përmirëson nivelin e hidratimit E lë lëkurën të butë dhe të mëndafshtë në prekje ✅ Karakteristikat kryesore Markë: Lirene Tipi: Set për fytyrën (Mousse pastruese + Krem hidratues) Përbërës: Me përbërës natyralë - Amar Pharma - Lirene - Krem
-  Updated: 2025-10-27T09:20:20Z
+  Updated: 2025-10-28T16:10:11Z
   Vendor: Lirene
   Product Type: Krem
   Availability: Available
@@ -2493,7 +2493,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/dr-irena-eris-clinic-way-zestaw-4-krem-modelujacy-na-dzien-spf20-50-ml-krem-na-noc-30-ml-dermokapsul.2.webp?v=1748354318
   Price: ALL 9,000.00 ALL
 - [Carbon Nose Strips UNDER TWENTY - Amar Pharma - Under 20 - strip](https://amar.al/products/carbon-nose-strips-under-twenty): Shiritë për pastrimin e hundës. Janë vegane dhe nuk janë testuar në kafshë. Kanë formë anatomike që përshtatet në mënyrë të përkryer me lakimet e hundës. Pastrojnë menjëherë lëkurën nga pikat e zeza, papastërtitë dhe qelizat e vdekura të lëkurës. Janë të njomura me qymyr bimor dhe xhenxhefil bio me efekt pastrues dhe matifikues. Në të njëjtën kohë, këto shirita ndihmojnë në rregullimin e prodhimit të sebumit dhe kanë veti antibakteriale. Paketa përmban katër shirita njëpërdorimësh për hundë. Shirita për hundë Paketa përmban 4 copë Pastrojnë pikat e zeza - Amar Pharma - Under 20 - strip
-  Updated: 2025-10-26T14:30:42Z
+  Updated: 2025-10-28T15:42:34Z
   Vendor: Under 20
   Product Type: strip
   Availability: Available
@@ -2708,7 +2708,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/21197_Elementre_Renewing_Serum_COMBINED_1.jpg?v=1753264691
   Price: ALL 7,967.00 ALL
 - [30% Vitamin C Illuminating Serum - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT](https://amar.al/products/30-vitamin-c-brightening-serum): Serumet me Vitaminë C të Elementre ndriçojnë dhe rigjallërojnë lëkurën, duke e mbrojtur nga radikalet e lira të dëmshme që shkaktojnë ndryshime ngjyre, vijat e holla dhe rrudhat. Përgatituni për një lëkurë rrezatuese, me ton të njëtrajtshëm dhe shkëlqim natyral. Formulat tona unike me Vitaminë C janë të veçanta: përveç një forme të vetme, ne përdorim 3 forma të Vitaminës C për një veprim të fuqishëm. Ky përqendrim i lartë i aktiveve – L-Askorbik, Esterët e Vitaminës C dhe Ascorbosilane – ofron rezultate të dukshme pa rrezikun e irritimit dhe me rehati maksimale. Çfarë bën: Ofron veprim antioksidant dhe mbrojtje nga rrezatimi UV falë 3 formave të Vitaminës C që depërtojnë në shtresa të ndryshme të lëkurës: Esterët e Vitaminës C, Ascorbosilane dhe Acidi L-Askorbik Rezultatet që do t’i doni: Stimulon prodhimin e kolagjenit Redukton hiperpigmentimin dhe shfaqjen e njollave të errëta Parandalon plakjen e parakohshme të lëkurës Mbron kundër dëmtimeve nga dielli Përfitime Shtesë: Acidi Ferulik: Riparon dhe mbron qelizat e dëmtuara të lëkurës, parandalon plakjen dhe stabilizon penetrimin e Vitaminës C Vitamina E: Parandalon humbjen e lagështisë, mbron qelizat nga dëmtimi dhe e zbut lëkurën - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT
-  Updated: 2025-10-27T09:20:21Z
+  Updated: 2025-10-28T16:10:12Z
   Vendor: elementrē dermo cosmetics
   Product Type: 2 - CORRECT
   Availability: Available
@@ -2729,7 +2729,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/21197_Elementre_Nourishing_Cream_50ml_COMBINED.jpg?v=1753264718
   Price: ALL 5,499.00 ALL
 - [5% Giga-White Radiance Face Cream - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT](https://amar.al/products/giga-white-radiance-cream): Kremi inovativ Radiance nga Elementre është një ndriçues i fuqishëm, por i butë për lëkurën. Ky përzierje e fuqishme e 7 ekstrakteve bimore ka provuar se redukton ndryshimet e ngjyrës së lëkurës, duke rezultuar në një pamje më të ndritshme, më të shndritshme dhe me ton më të njëtrajtshëm. Ai synon pigmentimin e dukshëm për të harmonizuar lëkurën dhe ndihmon në parandalimin e shfaqjes së pigmentimeve të ardhshme. Ky krem ofron një veprim multi-aksion: jo vetëm që redukton ndryshimet e ngjyrës, por gjithashtu përmirëson tonin dhe shkëlqimin e lëkurës. Ai është gjithashtu jashtëzakonisht i mirëpritur nga lëkura, duke e bërë të përshtatshëm edhe për lëkurat më të ndjeshme, pa shkaktuar parehati. Përbërësi Kyç: 5% Giga White Çfarë bën: Synon pigmentimin e lëkurës dhe korrigjon në burim: prodhimin e melaninit, maturimin e melanosomave dhe migrimin e melaninit në shtresën e sipërme të lëkurës Rezultatet që do t’i doni: Reduktim i ndryshimeve të ngjyrës së lëkurës Lëkurë më e ndritshme dhe me shkëlqim Ton më i njëtrajtshëm i lëkurës Përfitime Shtesë: Ekstrakti i Edelweiss: Antioksidant i fuqishëm që ndihmon lëkurën të mbetet pa rrudha, elastike dhe e fortë - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT
-  Updated: 2025-10-27T09:20:21Z
+  Updated: 2025-10-28T16:10:12Z
   Vendor: elementrē dermo cosmetics
   Product Type: 2 - CORRECT
   Availability: Available
@@ -2785,7 +2785,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0042_4099702001909_1.png?v=1756714691
   Price: ALL 7,517.00 ALL
 - [Anti-Aging Skin Tightener | 6 in 1 (Gray) - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/anti-aging-skin-tightener-6-in-1-gray): Geske Anti-Aging Skin Tightener 6në1 është një pajisje moderne për kujdesin e lëkurës, që kombinon teknologji të avancuara si valë të ngrohjes RF dhe pulsacione sonike për të ndihmuar në forcimin dhe rigjenerimin e lëkurës. Pajisja është e përshtatshme për përdorim të përditshëm falë materialit të silikonit mjekësor dhe rezistencës ndaj ujit IPX7. Përmes aplikacionit GESKE Beauty Tech, mund të krijoni një rutinë të personalizuar për lëkurën tuaj dhe të ndiqni progresin në mënyrë të lehtë. 6 teknologji të ndryshme për kujdes të avancuar të lëkurës Punon me bateri të rikarikueshme dhe karikim magnetik Material silikon mjekësor, i sigurt për lëkurë Rezistent ndaj ujit (IPX7) Kontroll dhe personalizim përmes aplikacionit mobil Përdorimi i rregullt ndihmon në përmirësimin e tonit të lëkurës, zvogëlimin e vijave të imëta dhe ofron një ndjesi relaksi gjatë çdo seance. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-26T14:30:48Z
+  Updated: 2025-10-28T10:33:31Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2839,6 +2839,1243 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Product Type: 
   Availability: Available
   Price: ALL 0.00 ALL
+- [🎁 Anti-cellulite body peeling with green tea & coffee extract (100% off)](https://amar.al/products/anti-cellulite-body-peeling-with-green-tea-coffee-extract-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:15Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/46-Anti-cellulite-body-peeling-with-green-tea-coffee-extract-1_e07934d2-256b-4844-938b-a94b944eeba1.jpg?v=1761659816
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles FACE FOAM (100% off)](https://amar.al/products/aqua-bubbles-face-foam-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:16Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawadniajaca-pianka-myjaca-10e07713.1gva_be44d523-916f-4d1e-9a81-c230e373b354.webp?v=1761659819
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles FACE GEL (100% off)](https://amar.al/products/aqua-bubbles-face-gel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:19Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab7_b92195dc-b81d-4996-a085-1cc40fd78fe2.webp?v=1761659824
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles HYDROCREAM (100% off)](https://amar.al/products/aqua-bubbles-hydrocream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab3_45b0a1cf-d765-4faf-9ff9-956c92cc4f63.webp?v=1761659825
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles HYDROGEL (100% off)](https://amar.al/products/aqua-bubbles-hydrogel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:29Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab1_e03d146e-4fa4-4f9c-8b52-620f53a009c5.webp?v=1761659827
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles HYDROSERUM (100% off)](https://amar.al/products/aqua-bubbles-hydroserum-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:31Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ab5_73579509-df0f-4c54-962f-b0900973305e.webp?v=1761659829
+  Price: ALL 0.00 ALL
+- [🎁 Aqua Bubbles TONER (100% off)](https://amar.al/products/aqua-bubbles-toner-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:33Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/tonik-nawadniajacy-10e07696.fhcw_38b1d15a-bc4b-4692-b6ed-520f86ed3bc1.webp?v=1761659832
+  Price: ALL 0.00 ALL
+- [🎁 Baby soft feet mask in socks (100% off)](https://amar.al/products/baby-soft-feet-mask-in-socks-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:37Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/61-Baby-soft-feet-mask-in-socks-1_76e097e9-b86f-415c-b40e-f28b9b3abc75.jpg?v=1761659835
+  Price: ALL 0.00 ALL
+- [🎁 BODY SCRUB STAY WITH ME MANGO AND ORANGE (100% off)](https://amar.al/products/body-scrub-stay-with-me-mango-and-orange-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:58:25Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/bth3svxawpvf_11a42b16-4e56-4551-9b59-abe7e02a18cc.jpg?v=1761659837
+  Price: ALL 0.00 ALL
+- [🎁 BODY SCRUB SWEET HARMONY CARMEL AND VANILLA (100% off)](https://amar.al/products/body-scrub-sweet-harmony-carmel-and-vanilla-2-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:38Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/bth3svxawpvf_4ab3ad78-fe15-4fe2-8fd8-7ddb4ef606f5.jpg?v=1761659840
+  Price: ALL 0.00 ALL
+- [🎁 C+E PRO Hi-Concentrated StimuSerum (100% off)](https://amar.al/products/ce-pro-hi-concentrated-stimuserum-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:40Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-serum_c8a8fbe6-047d-4ef6-8b5f-e02aa0782a5e.webp?v=1761659844
+  Price: ALL 0.00 ALL
+- [🎁 C+E PRO Nourishing & deepply moisturizing cream (100% off)](https://amar.al/products/ce-pro-nourishing-deepply-moisturizing-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:42Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-1_eff8b647-406b-4e13-a30e-329e4e8a1941.webp?v=1761659846
+  Price: ALL 0.00 ALL
+- [🎁 Care Protective Lipstick SPF 50 (100% off)](https://amar.al/products/care-protective-lipstick-spf-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:45Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/160997_800x800wp_lirene_pomadka_5900717311190_jpg_6099f78a-2d71-4f32-a437-fe1206e4b5cc.webp?v=1761659848
+  Price: ALL 0.00 ALL
+- [🎁 Cleansing clay (100% off)](https://amar.al/products/cleansing-clay-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/26-Cleansing-clay-1_40c63e22-282f-4435-bd9c-137ece93a577.png?v=1761659851
+  Price: ALL 0.00 ALL
+- [🎁 COLLAGEN GLOW ANTI-WRINKLE FIRMING CREAM 60+ (100% off)](https://amar.al/products/collagen-glow-anti-wrinkle-firming-cream-60-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:56Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca6120adbed-przeciwzmarszczkowy-krem-ujedrniajacy-60-10e07757-krt.thwo_9c88d3f2-7d55-4385-a97e-1923a5290d8f.webp?v=1761659853
+  Price: ALL 0.00 ALL
+- [🎁 COLLAGEN GLOW ANTI-WRINKLE REPARING CREAM 70+ (100% off)](https://amar.al/products/collagen-glow-anti-wrinkle-reparing-cream-70-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:58:45Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/70_0a48e266-1b3a-4020-84a4-7ffcee95c11f.webp?v=1761659856
+  Price: ALL 0.00 ALL
+- [🎁 CURRANT Regenerating serum for hands and nails with argan oil (100% off)](https://amar.al/products/currant-regenerating-serum-for-hands-and-nails-with-argan-oil-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:59Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/57-CURRANT-Regenerating-serum-for-hands-and-nails-with-argan-oil-1_4f9c2c65-2851-490b-a5a6-9a09b365d2f1.jpg?v=1761659859
+  Price: ALL 0.00 ALL
+- [🎁 Delicate and smooth feet mask in socks (100% off)](https://amar.al/products/delicate-and-smooth-feet-mask-in-socks-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:00Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/62-Delicate-and-smooth-feet-mask-in-socks-1_daaf355b-df0e-4923-add0-1d80da202f04.jpg?v=1761659861
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle lifting eye cream (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-lifting-eye-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:04Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-krem-pod-oczy-10e07688-krt.pmen_16da7bd7-07e7-48f7-bf37-411d186fcf6f.webp?v=1761659864
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle micellar water (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-micellar-water-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:06Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-plyn-micelarny-10e07690.s7ij_9d59f680-6889-439d-8229-c76858b2974c.webp?v=1761659866
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle rebuilding cream 70+ day & night (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rebuilding-cream-70-day-night-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:17Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d7_b2aecfe4-3c56-4891-9b41-8bb8b4444b5a.webp?v=1761659869
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle regenerating cream 60+ day & night (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-regenerating-cream-60-day-night-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:02Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d6_8972c94a-9724-4768-87f2-ed2fb74f8d0d.webp?v=1761659871
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle rejuvenating serum (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rejuvenating-serum-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:19Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/153674_800x800wp_lirene_przeciwzmarszczkowe-serum-wygladzajace_5900717076969_jpg_17abbc72-d05a-4309-8040-b187537301fd.webp?v=1761659874
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D anti-wrinkle soothing toner (100% off)](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-soothing-toner-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-tonik-lagodzacy-10e07691.h4mr_562b714f-08b1-4c61-9d85-7f3f29614913.webp?v=1761659876
+  Price: ALL 0.00 ALL
+- [🎁 Diamond lifting 3D smoothing cream 50+ day & night (100% off)](https://amar.al/products/diamond-lifting-3d-smoothing-cream-50-day-night-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/f51_694c53f6-c389-415d-af47-a80b4a5da705.webp?v=1761659880
+  Price: ALL 0.00 ALL
+- [🎁 FACE SUN PROTECTION WITH ALOE SPF 50 (100% off)](https://amar.al/products/face-sun-protection-with-aloe-spf-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:24Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/a1_45e2311d-0051-4a8d-b652-f319d74cc96a.webp?v=1761659884
+  Price: ALL 0.00 ALL
+- [🎁 Firming body peeling with mango extract (100% off)](https://amar.al/products/firming-body-peeling-with-mango-extract-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:31Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/44-Firming-body-peeling-with-mango-extract-1_70965b10-dd21-4e19-bc9b-0bef9e8e1600.jpg?v=1761659884
+  Price: ALL 0.00 ALL
+- [🎁 FOOT CARE MOISTURIZING CONCENTRATE (100% off)](https://amar.al/products/foot-care-moisturizing-concentrate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:34Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/f1_efa0c62b-850e-47ef-8142-d762024750a5.webp?v=1761659887
+  Price: ALL 0.00 ALL
+- [🎁 FOOT CARE PARAFFIN OINTMENT FOR DRY FEET (100% off)](https://amar.al/products/foot-care-paraffin-ointment-for-dry-feet-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:16Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/f2_000aedb2-a4ea-4778-b57a-d1c7d44b63e4.webp?v=1761659890
+  Price: ALL 0.00 ALL
+- [🎁 KREM BB SPF50 (100% off)](https://amar.al/products/krem-bb-spf50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawilzajacy-krem-koloryzujacy-spf50-natural-01-10e07738-krt.iiut_8ee8a00b-aee7-4081-8574-7d8ccec3ffd4.webp?v=1761659893
+  Price: ALL 0.00 ALL
+- [🎁 Lirene  Professional skin care  WHITENING  washing FOAM (100% off)](https://amar.al/products/face-wash-foam-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:42Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/5900717767515_5c852b44-30e8-4496-a210-5baad7a7fcf4.jpg?v=1761659895
+  Price: ALL 0.00 ALL
+- [🎁 Lirene - Care Protective Lipstick - SPF30 (100% off)](https://amar.al/products/lirene-care-protective-lipstick-spf30-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:44Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/160995_800x800wp_lirene_pomadka_ochronna_5900717311183_jpg_dda1abe3-fa81-4500-8588-a1ee9cea3f6d.webp?v=1761659898
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE - Professional Skin Care WHITENING Brightening & Rejuvenating Face Cream SPF 50 (100% off)](https://amar.al/products/whitening-brightening-rejuvenating-face-cream-spf-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:50Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/5900717767119_d5b69a78-fe0e-403d-866c-09fad3fb9846.jpg?v=1761659900
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE - Professional Skin Care Whitening Illuminating & Brightening Acid Serum 10% (100% off)](https://amar.al/products/lirene-professional-skin-care-whitening-illuminating-brightening-acid-serum-10-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:50Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/lirene-professional-skin-care-whitening-illuminating-brightening-acid-serum-10_6f1d5178-615a-4d79-84c1-56cccc21a868.jpg?v=1761659903
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE - Professional Skin Care Whitening OVERNIGHT THERAPY CREAM (100% off)](https://amar.al/products/overnight-therapy-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:01Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/whitening-night-cream-lirene-600x600-1_2cbb5bcc-4bfb-4699-b567-a65d3a8d58e2.webp?v=1761659905
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE - Professional Skin Care Whitening Whitening Under Eye Cream 15ml (100% off)](https://amar.al/products/pro-skin-care-whitening-under-eye-cream-15ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:43Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/screenshot_2024-09-05_094224_ccfec55f-339a-42fb-a851-3b2fb0cb4f8e.png?v=1761659908
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Anti-wrinkle cream with ROSMARINIC ACID 50 ml (100% off)](https://amar.al/products/lirene-acid-power-anti-wrinkle-cream-with-rosmarinic-acid-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:54Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/173-Lirene-ACID-POWER-Anti-wrinkle-cream-with-ROSMARINIC-ACID-50-ml-1_97550f4f-5119-4dfa-bd68-be115d299c48.png?v=1761659911
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Exfoliating face serum with glycolic, mandelic and phytic acids and grapefruit hydrolate 30 ml (100% off)](https://amar.al/products/lirene-acid-power-exfoliating-face-serum-with-glycolic-mandelic-and-phytic-acids-and-grapefruit-hydrolate-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:02Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/178-Lirene-ACID-POWER-Exfoliating-face-serum-with-glycolic-mandelic-and-phytic-acids-and-grapefruit-hydrolate-30-ml-1_312cf13e-4c71-4bcf-879a-53416987a9ad.png?v=1761659914
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Moisturizing serum with LACTIC AND LACTOBIONIC ACIDS 30 ml (100% off)](https://amar.al/products/lirene-acid-power-moisturizing-serum-with-lactic-and-lactobionic-acids-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/177-Lirene-ACID-POWER-Moisturizing-serum-with-LACTIC-AND-LACTOBIONIC-ACIDS-30-ml-1_f09fea04-3160-40bb-9a2d-fa427b1c8315.png?v=1761659916
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Moisturizing smoothing cream with LACTOBIONIC ACID 50 ml (100% off)](https://amar.al/products/lirene-acid-power-moisturizing-smoothing-cream-with-lactobionic-acid-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:48Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/175-Lirene-ACID-POWER-Moisturizing-smoothing-cream-with-LACTOBIONIC-ACID-50-ml-1_de2dbcf5-9c93-4bd3-ab2e-44badce080d1.png?v=1761659917
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Revitalizing even skin tone cream with AMBER ACID 50 ml (100% off)](https://amar.al/products/lirene-acid-power-revitalizing-even-skin-tone-cream-with-amber-acid-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:01Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/174-Lirene-ACID-POWER-Revitalizing-even-skin-tone-cream-with-AMBER-ACID-50-ml-1_850743f1-c19c-47a7-8716-b8f9fef78538.png?v=1761659921
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ACID POWER Smoothing serum with glycolic, succinic and lactic acids 30 ml (100% off)](https://amar.al/products/lirene-acid-power-smoothing-serum-with-glycolic-succinic-and-lactic-acids-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:07Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/179-Lirene-ACID-POWER-Smoothing-serum-with-glycolic-succinic-and-lactic-acids-30-ml-1_bf86ec1c-20b3-49fc-9a90-46d8684f13df.png?v=1761659924
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ANTI CELLULITE BIO-SLIMMER Specialized modeling serum with YERBA MATE & STEVIA 200 ml (100% off)](https://amar.al/products/lirene-anti-cellulite-bio-slimmer-specialized-modeling-serum-with-yerba-mate-stevia-200-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:54Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/182-Lirene-ANTI-CELLULITE-BIO-SLIMMER-Specialized-modeling-serum-with-YERBA-MATE-STEVIA-200-ml-1_fc15e031-d14a-4687-a8b5-87f5fe15be31.png?v=1761659925
+  Price: ALL 0.00 ALL
+- [🎁 Lirene ANTI-CELLULITE MESOTHERAPY Body shape remodel cellulite and fat reducer 200 ml (100% off)](https://amar.al/products/lirene-anti-cellulite-mesotherapy-body-shape-remodel-cellulite-and-fat-reducer-200-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:55Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/180-Lirene-ANTI-CELLULITE-MESOTHERAPY-Body-shape-remodel-cellulite-and-fat-reducer-200-ml-1_f53659dd-2635-42a4-9e39-e049ab9b9174.png?v=1761659928
+  Price: ALL 0.00 ALL
+- [🎁 Lirene BB Cream 30 ml (100% off)](https://amar.al/products/lirene-bb-cream-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:10Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/260-Lirene-BB-Cream-30-ml-1_02c8bae0-cfec-4cbf-8386-4f9148b3819d.png?v=1761659930
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE BB moisturizing cream SPF50 30 ml (100% off)](https://amar.al/products/lirene-bb-moisturizing-cream-spf50-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:11Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/5900717077386_eb320e96-47c2-41e4-8985-67967fac3113.jpg?v=1761659933
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Body & Mind LUMILOVE 175 ml (100% off)](https://amar.al/products/lirene-body-mind-illuminating-body-elixir-lumilove-175-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:12Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/66b4ae74927c6-rozswietlajacy-eliksir-do-ciala-10e08332-1.sikt_1_a9d7efdd-04d3-4cea-a7d3-b9bb493f6655.webp?v=1761659936
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Brightening foundation 30 ml (100% off)](https://amar.al/products/lirene-brightening-foundation-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:15Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/257-Lirene-Brightening-foundation-30-ml-1_43569bca-a035-46ff-b014-efab1be87aa4.png?v=1761659938
+  Price: ALL 0.00 ALL
+- [🎁 Lirene C+E VITAMIN ENERGY Moisturizing facial cleansing foam 150 ml (100% off)](https://amar.al/products/lirene-ce-vitamin-energy-moisturizing-facial-cleansing-foam-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:18Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/185-Lirene-CE-VITAMIN-ENERGY-Moisturizing-facial-cleansing-foam-150-ml-1_da4331d6-98dc-434a-a23c-a4e83abcc82b.png?v=1761659942
+  Price: ALL 0.00 ALL
+- [🎁 Lirene C+E VITAMIN ENERGY Revitalizing cream concentrate 40 ml (100% off)](https://amar.al/products/lirene-ce-vitamin-energy-revitalizing-cream-concentrate-40-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/183-Lirene-CE-VITAMIN-ENERGY-Revitalizing-cream-concentrate-40-ml-1_4e20a832-2f8e-4190-9309-a018283b3bc7.png?v=1761659944
+  Price: ALL 0.00 ALL
+- [🎁 Lirene C+E VITAMIN ENERGY Revitalizing enzyme peeling 75 ml (100% off)](https://amar.al/products/lirene-ce-vitamin-energy-revitalizing-enzyme-peeling-75-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:27Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/186-Lirene-CE-VITAMIN-ENERGY-Revitalizing-enzyme-peeling-75-ml-1_f58e1806-dcd6-47ef-8f3d-0fab49818080.png?v=1761659946
+  Price: ALL 0.00 ALL
+- [🎁 Lirene C+E VITAMIN ENERGY Strengthening micellar water 3 in 1 400 ml (100% off)](https://amar.al/products/lirene-ce-vitamin-energy-strengthening-micellar-water-3-in-1-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:30Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/184-Lirene-CE-VITAMIN-ENERGY-Strengthening-micellar-water-3-in-1-400-ml-1_762bf1dd-2b11-4fdd-80fd-4d5afe4fe0eb.png?v=1761659949
+  Price: ALL 0.00 ALL
+- [🎁 Lirene CITY MATT Mattifying liquid foundation 30 ml (100% off)](https://amar.al/products/lirene-city-matt-mattifying-liquid-foundation-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:20Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/187-Lirene-CITY-MATT-Mattifying-liquid-foundation-30-ml-1_9d669203-3175-4f50-8280-cc3532462a25.png?v=1761659951
+  Price: ALL 0.00 ALL
+- [🎁 Lirene CITY MATT Mineral matting powder 9 g (100% off)](https://amar.al/products/lirene-city-matt-mineral-matting-powder-9-g-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:36Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/188-Lirene-CITY-MATT-Mineral-matting-powder-9-g-1_21c10b11-7144-4e4a-becc-97f62b537e02.jpg?v=1761659954
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Cleansing clay paste 150 ml (100% off)](https://amar.al/products/lirene-cleansing-clay-paste-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:38Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/267-Lirene-Cleansing-clay-paste-150-ml-1_a92213b2-0663-4d6f-8c3e-796cd0034799.png?v=1761659957
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Coarse bamboo scrub with mint extract (100% off)](https://amar.al/products/lirene-coarse-bamboo-scrub-with-mint-extract-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:41Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64388565ec266-bambusowy-peeling-gruboziarnisty-10e07337-eu.xqfm_1824eed4-e44b-4aa2-9e13-d173b5cf48df.webp?v=1761659959
+  Price: ALL 0.00 ALL
+- [🎁 Lirene COLLAGEN GLOW Anti-wrinkle smoothing cream 50+ (100% off)](https://amar.al/products/lirene-collagen-glow-anti-wrinkle-smoothing-cream-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:45Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca611a92c46-przeciwzmarszczkowy-krem-wygladzajacy-50-10e07756-krt.tmdw_49b096b2-d1b4-420b-b09f-7bc39b1fdc15.webp?v=1761659961
+  Price: ALL 0.00 ALL
+- [🎁 Lirene COMPLETE COVERAGE Covering fluid 30 ml (100% off)](https://amar.al/products/lirene-complete-coverage-covering-fluid-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:53Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/259-Lirene-COMPLETE-COVERAGE-Covering-fluid-30-ml-1_52bf7924-a16f-48d2-a4d9-0f0846341660.png?v=1761659964
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Creamy almond wash gel with D-Panthenol 150 ml (100% off)](https://amar.al/products/lirene-creamy-almond-wash-gel-with-d-panthenol-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:57Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/263-Lirene-Creamy-almond-wash-gel-with-D-Panthenol-150-ml-1_c98e122c-4440-410b-9afb-6a5b1b05d48b.png?v=1761659966
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Deeply moisturising hand and nail cream MAGNOLIA 75 ml (100% off)](https://amar.al/products/lirene-deeply-moisturising-hand-and-nail-cream-magnolia-75-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:32Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/269-Lirene-Deeply-moisturising-hand-and-nail-cream-MAGNOLIA-75-ml-1_6d26a8c1-3144-46b5-8da4-baf22bfebf87.png?v=1761659970
+  Price: ALL 0.00 ALL
+- [🎁 Lirene FOOT CARE Exfoliating mask in socks BABY SOFT FEET 2,5% UREA (100% off)](https://amar.al/products/lirene-foot-care-exfoliating-mask-in-socks-baby-soft-feet-25-urea-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:57Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/272-Lirene-FOOT-CARE-Exfoliating-mask-in-socks-BABY-SOFT-FEET-25REA-150-ml-1_2ef90613-ecf9-4d42-bfe9-76a74628d1a5.png?v=1761659972
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Intensely nourishing hand and nail cream ROSE 75 ml (100% off)](https://amar.al/products/lirene-intensely-nourishing-hand-and-nail-cream-rose-75-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/271-Lirene-Intensely-nourishing-hand-and-nail-cream-ROSE-75-ml-1_d70dc354-f422-4179-82df-841a5015d4ab.png?v=1761659975
+  Price: ALL 0.00 ALL
+- [🎁 Lirene IT'S A MATCH! Matching mineral primer SPF 15 30 ml (100% off)](https://amar.al/products/lirene-its-a-match-matching-mineral-primer-spf-15-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T13:59:40Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/itsamatch-light-001-10e06591.gx6i_dd19126b-5fba-4a28-aea4-68083324fdbc.webp?v=1761659977
+  Price: ALL 0.00 ALL
+- [🎁 Lirene LACTIMA DUO FORTE+ Therapeutic gel for intimate hygiene 300 ml (100% off)](https://amar.al/products/lirene-lactima-duo-forte-therapeutic-gel-for-intimate-hygiene-300-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:00Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/196-Lirene-LACTIMA-DUO-FORTE-Therapeutic-gel-for-intimate-hygiene-300-ml-1_2acecc67-bc34-44ec-957c-84f449f6cb23.png?v=1761659980
+  Price: ALL 0.00 ALL
+- [🎁 Lirene LACTIMA THERAPY+ Treatment enhancing feminine wash against inflammations 300 ml (100% off)](https://amar.al/products/lirene-lactima-therapy-treatment-enhancing-feminine-wash-against-inflammations-300-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:01Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/195-Lirene-LACTIMA-THERAPY-Treatment-enhancing-feminine-wash-against-inflammations-300-ml-1_55b251c9-1f96-493a-a1c8-51fecc9d4354.png?v=1761659982
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Magic Make Up CC Cream (100% off)](https://amar.al/products/lirene-magic-make-up-cc-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:02Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/q5d72eb7fnf2_83b5d8a1-df70-425c-8c68-c846680e28ef.jpg?v=1761659985
+  Price: ALL 0.00 ALL
+- [🎁 Lirene MAKE ME FRESH Fruit gel with vitamins for face washing YUZU & MORINGA OIL 150 ml (100% off)](https://amar.al/products/lirene-make-me-fresh-fruit-gel-with-vitamins-for-face-washing-yuzu-moringa-oil-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:00:57Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/200-Lirene-MAKE-ME-FRESH-Fruit-gel-with-vitamins-for-face-washing-YUZU-MORINGA-OIL-150-ml-1_4ba08a5e-3bc5-4b29-bd72-7056401de306.png?v=1761659987
+  Price: ALL 0.00 ALL
+- [🎁 Lirene MEZO COLLAGÈNE Moisturising active smoothing day cream with SPF 10 mesoPEPTIDE 50 ml (100% off)](https://amar.al/products/lirene-mezo-collagene-moisturising-active-smoothing-day-cream-with-spf-10-mesopeptide-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:08Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/202-Lirene-MEZO-COLLAGENE-Moisturising-active-smoothing-day-cream-with-SPF-10-mesoPEPTIDE-50-ml-1_6ea50a26-2aad-46e2-b21b-9b10f116eba9.jpg?v=1761659990
+  Price: ALL 0.00 ALL
+- [🎁 Lirene MEZO COLLAGÈNE Nourishing and smoothing night cream mesoPEPTIDE AVOCADO OIL 50 ml (100% off)](https://amar.al/products/lirene-mezo-collagene-nourishing-and-smoothing-night-cream-mesopeptide-avocado-oil-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:10Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/203-Lirene-MEZO-COLLAGENE-Nourishing-and-smoothing-night-cream-mesoPEPTIDE-AVOCADO-OIL-50-ml-1_b8f87a6f-6136-4b23-8a03-96f7e9921d9f.jpg?v=1761659993
+  Price: ALL 0.00 ALL
+- [🎁 Lirene MEZO COLLAGÈNE Strengthening day cream with lifting effect and SPF 10 mesoPEPTIDE RED ALGAE 50 ml (100% off)](https://amar.al/products/lirene-mezo-collagene-strengthening-day-cream-with-lifting-effect-and-spf-10-mesopeptide-red-algae-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:15Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/204-Lirene-MEZO-COLLAGENE-Strengthening-day-cream-with-lifting-effect-and-SPF-10-mesoPEPTIDE-RED-ALGAE-50-ml-1_835ba3e0-72b9-4ced-99f4-975e26b0e095.png?v=1761659996
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Mint gel scrub with bamboo charcoal 75ml (100% off)](https://amar.al/products/lirene-mint-gel-scrub-with-bamboo-charcoal-75ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:16Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/266-Lirene-Mint-gel-scrub-with-bamboo-charcoal-75ml-1_836c2d25-bc56-4f4c-8fe7-28d8f9d356ca.png?v=1761659998
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Moisturizing face washing gel with blackcurrant oil 150 ml (100% off)](https://amar.al/products/lirene-moisturizing-face-washing-gel-with-blackcurrant-oil-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:17Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/265-Lirene-Moisturizing-face-washing-gel-with-blackcurrant-oil-150-ml-1_1283a20b-1454-45e7-b4fc-8a7546cbb84e.png?v=1761660001
+  Price: ALL 0.00 ALL
+- [🎁 Lirene NATURE MATTE Mattifying fluid 30 ml (100% off)](https://amar.al/products/lirene-nature-matte-mattifying-fluid-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/256-Lirene-NATURE-MATTE-Mattifying-fluid-30-ml-1_2ae90b91-5455-4eb6-87ef-228cd390b0b2.png?v=1761660010
+  Price: ALL 0.00 ALL
+- [🎁 Lirene OIL THERAPIST Shower gel with essential oil BLACK PEPPER & WATERMELON 400 ml (100% off)](https://amar.al/products/lirene-oil-therapist-shower-gel-with-essential-oil-black-pepper-watermelon-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:26Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/43-Lirene-OIL-THERAPIST-Shower-gel-with-essential-oil-BLACK-PEPPER-WATERMELON-400-ml-1_398ba209-8df5-403e-9cbe-c675bff631c6.jpg?v=1761660020
+  Price: ALL 0.00 ALL
+- [🎁 Lirene OIL THERAPIST Shower gel with essential oil LAVENDER & RASPBERRY 400 ml (100% off)](https://amar.al/products/lirene-oil-therapist-shower-gel-with-essential-oil-lavender-raspberry-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:32Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/42-Lirene-OIL-THERAPIST-Shower-gel-with-essential-oil-LAVENDER-RASPBERRY-400-ml-1_1061c130-5724-433e-b58e-968d3cdd9bc0.jpg?v=1761660022
+  Price: ALL 0.00 ALL
+- [🎁 Lirene OIL THERAPIST Shower gel with mango oil MANGO & ORANGE 400 ml (100% off)](https://amar.al/products/lirene-oil-therapist-shower-gel-with-mango-oil-mango-orange-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:39Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/41-Lirene-OIL-THERAPIST-Shower-gel-with-mango-oil-MANGO-ORANGE-400-ml-1_7c3bbe76-c5d2-4ee7-9c5d-c0d764a8a462.jpg?v=1761660021
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PEH BALANCE Exfoliating & smoothing face serum EXFOLIATING THERAPY 30 ml (100% off)](https://amar.al/products/lirene-peh-balance-exfoliating-smoothing-face-serum-exfoliating-therapy-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/211-Lirene-PEH-BALANCE-Exfoliating-smoothing-face-serum-EXFOLIATING-THERAPY-30-ml-1_a6e52536-020b-4999-862a-1d0266acb0b4.png?v=1761660023
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PEH BALANCE Intensive hydrating cream HUMECTANT THERAPY 40 ml (100% off)](https://amar.al/products/lirene-peh-balance-intensive-hydrating-cream-humectant-therapy-40-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:01Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/215-Lirene-PEH-BALANCE-Intensive-hydrating-cream-HUMECTANT-THERAPY-40-ml-1_b076a545-c4de-4f20-bb4d-a0b2d5e38dd0.png?v=1761660019
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PEH BALANCE Multi Active skin stimulating face serum VITAMIN THERAPY 30 ml (100% off)](https://amar.al/products/lirene-peh-balance-multi-active-skin-stimulating-face-serum-vitamin-therapy-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:26Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/210-Lirene-PEH-BALANCE-Multi-Active-skin-stimulating-face-serum-VITAMIN-THERAPY-30-ml-1_f26f0ad2-9382-47c8-9344-87232f39157f.png?v=1761660024
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PEH BALANCE Rebuilding face cream PROTEIN THERAPY 40 ml (100% off)](https://amar.al/products/lirene-peh-balance-rebuilding-face-cream-protein-therapy-40-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:28Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/212-Lirene-PEH-BALANCE-Rebuilding-face-cream-PROTEIN-THERAPY-40-ml-1_7b1f7859-d9e2-420b-bcfd-3200ba137e87.png?v=1761660022
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PEH BALANCE Soothing and repairing cream EMOLIENT THERAPY 40 ml (100% off)](https://amar.al/products/lirene-peh-balance-soothing-and-repairing-cream-emolient-therapy-40-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:01:28Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/214-Lirene-PEH-BALANCE-Soothing-and-repairing-cream-EMOLIENT-THERAPY-40-ml-1_af9a4f67-f95a-4625-902e-33a09ce926f6.png?v=1761660025
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Body make up balm BODY BB 175 ml (100% off)](https://amar.al/products/lirene-perfect-tan-body-make-up-balm-body-bb-175-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:14Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/216-Lirene-PERFECT-TAN-Body-make-up-balm-BODY-BB-175-ml-1_8a8da848-624c-4c0d-a6e7-92c2e22306c4.png?v=1761660027
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Illuminating golden body and face cream COCONUT SHINE 150 ml (100% off)](https://amar.al/products/lirene-perfect-tan-illuminating-golden-body-and-face-cream-coconut-shine-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:18Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/68386f3341da6-rozswietlajacy-zlocisty-krem-coconut-shine-10e08227g.ogir_1_bab7f448-a68d-4e98-9e6d-13992e57fe22.webp?v=1761660031
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Organic self-tanning for body COCONUT WATER 200 ml (100% off)](https://amar.al/products/lirene-perfect-tan-organic-self-tanning-for-body-coconut-water-200-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:20Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/223-Lirene-PERFECT-TAN-Organic-self-tanning-for-body-COCONUT-WATER-200-ml-1_562873db-7b0b-4994-a4c7-4db9839e6d27.png?v=1761660033
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Self-tanning body foam + application glove SET 2in1 1 pc. (100% off)](https://amar.al/products/lirene-perfect-tan-self-tanning-body-foam-application-glove-set-2in1-1-pc-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/217-Lirene-PERFECT-TAN-Self-tanning-body-foam-application-glove-SET-2in1-1-pc-1_2b35ed2c-6a53-4557-8976-8d1a430f4cd0.jpg?v=1761660036
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Self-tanning body oil CAFFE LATTE 190 ml (100% off)](https://amar.al/products/lirene-perfect-tan-self-tanning-body-oil-caffe-latte-190-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:25Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/219-Lirene-PERFECT-TAN-Self-tanning-body-oil-CAFFE-LATTE-190-ml-1_a9d6f9c1-961f-404d-b36a-9d24cccdcf7a.png?v=1761660038
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Self-tanning face cream-serum CARAMEL 50 ml (100% off)](https://amar.al/products/lirene-perfect-tan-self-tanning-face-cream-serum-caramel-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:27Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/218-Lirene-PERFECT-TAN-Self-tanning-face-cream-serum-CARAMEL-50-ml-1_c3667035-bf4c-457c-b246-8f4c3aae44e3.png?v=1761660041
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TAN Self-tanning mousse foam for face and body MACCHIATO 150 ml (100% off)](https://amar.al/products/lirene-perfect-tan-self-tanning-mousse-foam-for-face-and-body-macchiato-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:32Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/222-Lirene-PERFECT-TAN-Self-tanning-mousse-foam-for-face-and-body-MACCHIATO-150-ml-1_9822a384-0ace-4c57-be75-9aef04bf998b.png?v=1761660044
+  Price: ALL 0.00 ALL
+- [🎁 Lirene PERFECT TONE Skin color matching foundation 30 ml (100% off)](https://amar.al/products/lirene-perfect-tone-skin-color-matching-foundation-30-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:35Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/224-Lirene-PERFECT-TONE-Skin-color-matching-foundation-30-ml-1_aebc1ef4-38a5-42c9-b5a7-6674d5f0775a.png?v=1761660047
+  Price: ALL 0.00 ALL
+- [🎁 LIRENE Protective SPF50 Dry Oil (150 ml) (100% off)](https://amar.al/products/protective-dry-oil-spf-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:39Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/s_324cd281-0c5b-4deb-8519-75acaaffb1ec.webp?v=1761660050
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Regenerating gloves two-stage smoothing PEELING + MASK 1 pc. (100% off)](https://amar.al/products/lirene-regenerating-gloves-two-stage-smoothing-peeling-mask-1-pc-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:45Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/268-Lirene-Regenerating-gloves-two-stage-smoothing-PEELING-MASK-1-pc-1_47431914-10f6-4676-895e-4442f965ec23.png?v=1761660053
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Regenerating serum for hand and nails BLACK CURRANT 75 ml (100% off)](https://amar.al/products/lirene-regenerating-serum-for-hand-and-nails-black-currant-75-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:46Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/270-Lirene-Regenerating-serum-for-hand-and-nails-BLACK-CURRANT-75-ml-1_28ba9b69-2ab6-4c61-ae64-ab9e7b3042a5.png?v=1761660055
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SHINY TOUCH Mineral bronze and blush for face modeling 9 g (100% off)](https://amar.al/products/lirene-shiny-touch-mineral-bronze-and-blush-for-face-modeling-9-g-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:47Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/226-Lirene-SHINY-TOUCH-Mineral-bronze-and-blush-for-face-modeling-9-g-1_635f9072-afe0-4668-9fc3-5490b5a7e4ec.jpg?v=1761660058
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SHINY TOUCH Mineral shimmer for face and eyes 9 g (100% off)](https://amar.al/products/lirene-shiny-touch-mineral-shimmer-for-face-and-eyes-9-g-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:49Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/227-Lirene-SHINY-TOUCH-Mineral-shimmer-for-face-and-eyes-9-g-1_59b00ff1-828e-45e1-9280-e35f34db835f.jpg?v=1761660061
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SHOWER OIL Deeply moisturizing shower gel MANGO OIL AND JASMIN 400 ml (100% off)](https://amar.al/products/lirene-shower-oil-deeply-moisturizing-shower-gel-mango-oil-and-jasmin-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:50Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/228-Lirene-SHOWER-OIL-Deeply-moisturizing-shower-gel-MANGO-OIL-AND-JASMIN-400-ml-1_24ea2114-d8a0-4c10-80d5-cbb4f9a88e36.png?v=1761660065
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SHOWER OIL Shower gel with ARGAN AND MARULA OILS 400 ml (100% off)](https://amar.al/products/lirene-shower-oil-shower-gel-with-argan-and-marula-oils-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/229-Lirene-SHOWER-OIL-Shower-gel-with-ARGAN-AND-MARULA-OILS-400-ml-1_653b89af-2fca-4fa8-9607-169695aab7c3.png?v=1761660067
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SHOWER OIL Shower gel with MACADAMIA AND MONOI OILS 400 ml (100% off)](https://amar.al/products/lirene-shower-oil-shower-gel-with-macadamia-and-monoi-oils-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:24Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/230-Lirene-SHOWER-OIL-Shower-gel-with-MACADAMIA-AND-MONOI-OILS-400-ml-1_3c792443-2826-4f9f-92a2-4e13b79e1895.png?v=1761660069
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Smoothing micellar water with magnolia extract 400 ml (100% off)](https://amar.al/products/lirene-smoothing-micellar-water-with-magnolia-extract-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:55Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/262-Lirene-Smoothing-micellar-water-with-magnolia-extract-400-ml-1_d3df6cf1-7b7e-48eb-af2d-7e47e782f717.png?v=1761660072
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Soothing micellar solution with aloe 400 ml (100% off)](https://amar.al/products/lirene-soothing-micellar-solution-with-aloe-400-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:59Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/261-Lirene-Soothing-micellar-solution-with-aloe-400-ml-1_395f7d6c-937c-48a5-a11a-eb87d3418e8b.png?v=1761660074
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN After sun balm TAN MAXIMISER 150 ml (100% off)](https://amar.al/products/lirene-sun-after-sun-balm-tan-maximiser-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:07Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/241-Lirene-SUN-After-sun-balm-TAN-MAXIMISER-150-ml-1_45fd141e-1b94-4e59-819c-26cd7479f82b.png?v=1761660077
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN Balm for irritations S.O.S SUNBURN RELIEF 150 ml (100% off)](https://amar.al/products/lirene-sun-balm-for-irritations-s-o-s-sunburn-relief-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:02:30Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/239-Lirene-SUN-Balm-for-irritations-S.O.S-SUNBURN-RELIEF-150-ml-1_6fd5f27e-c31a-49db-9d16-3bc434424659.png?v=1761660080
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN KIDS Photostable sun protection milk for kids with vanilla scent SPF 50 150 ml (100% off)](https://amar.al/products/lirene-sun-kids-photostable-sun-protection-milk-for-kids-with-vanilla-scent-spf-50-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:15Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/233-Lirene-SUN-KIDS-Photostable-sun-protection-milk-for-kids-with-vanilla-scent-SPF-50-150-ml-1_d1dd20a5-c16a-4e4e-af55-f3d662bc46df.png?v=1761660083
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN KIDS Sun protection body milk for kids SPF 30 150 ml (100% off)](https://amar.al/products/lirene-sun-kids-sun-protection-body-milk-for-kids-spf-30-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:17Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/240-Lirene-SUN-KIDS-Sun-protection-body-milk-for-kids-SPF-30-150-ml-1_26b1631f-9628-44cb-8a7c-195d5f9b56e9.png?v=1761660085
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN KIDS Sun protection body milk for kids SPF 50 150 ml (100% off)](https://amar.al/products/lirene-sun-kids-sun-protection-body-milk-for-kids-spf-50-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:19Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/231-Lirene-SUN-KIDS-Sun-protection-body-milk-for-kids-SPF-50-150-ml-1_b453d6c2-3fbd-4b52-a21b-d022eb91d451.png?v=1761660088
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN KIDS Sun protection face cream for kids SPF 50+ 50 ml (100% off)](https://amar.al/products/lirene-sun-kids-sun-protection-face-cream-for-kids-spf-50-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/234-Lirene-SUN-KIDS-Sun-protection-face-cream-for-kids-SPF-50-50-ml-1_32ca64c5-60cc-4a57-8d70-5dd5a3569015.png?v=1761660090
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN Moisturizing emulsion for irritations SPF 30+ 175 ml (100% off)](https://amar.al/products/lirene-sun-moisturizing-emulsion-for-irritations-spf-30-175-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:24Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/236-Lirene-SUN-Moisturizing-emulsion-for-irritations-SPF-30-175-ml-1_f09fe929-efcd-4327-a4b7-ce61aec5b366.png?v=1761660093
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN Moisturizing sun protection face cream SPF 50 40 ml (100% off)](https://amar.al/products/lirene-sun-moisturizing-sun-protection-face-cream-spf-50-40-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:26Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/235-Lirene-SUN-Moisturizing-sun-protection-face-cream-SPF-50-40-ml-1_a9879cae-dafb-462b-98b3-b619a0dd002c.png?v=1761660095
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN Sun protection emulsion for sensitive skin SPF 50+ 175 ml (100% off)](https://amar.al/products/lirene-sun-sun-protection-emulsion-for-sensitive-skin-spf-50-175-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:28Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/237-Lirene-SUN-Sun-protection-emulsion-for-sensitive-skin-SPF-50-175-ml-1_8b967d16-2ed1-4fd8-a931-97a5b93fc57a.png?v=1761660098
+  Price: ALL 0.00 ALL
+- [🎁 Lirene SUN Sunscreen protection body dry oil on wet and dry skin SPF 50 150 ml (100% off)](https://amar.al/products/lirene-sun-sunscreen-protection-body-dry-oil-on-wet-and-dry-skin-spf-50-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:30Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/238-Lirene-SUN-Sunscreen-protection-body-dry-oil-on-wet-and-dry-skin-SPF-50-150-ml-1_30c38f34-81e9-4447-84a1-ad619645befe.png?v=1761660100
+  Price: ALL 0.00 ALL
+- [🎁 Lirene Ultra-softening cream-mask STOP CALLUSSNES FOOT 30% UREA 75 ml (100% off)](https://amar.al/products/lirene-ultra-softening-cream-mask-stop-callussnes-foot-30-urea-75-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:33Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/273-Lirene-Ultra-softening-cream-mask-STOP-CALLUSSNES-FOOT-30REA-75-ml-1_c69b7e48-e551-470b-9606-e275084890b4.png?v=1761660103
+  Price: ALL 0.00 ALL
+- [🎁 Lirene VITAMIN ENERGY С+D PRO Concentrated StimuSerum lightening and smoothing 30 ml (100% off)](https://amar.al/products/lirene-vitamin-energy-d1-81d-pro-concentrated-stimuserum-lightening-and-smoothing-30-ml-2-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:37Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/255-Lirene-VITAMIN-ENERGY-SD-PRO-Concentrated-StimuSerum-lightening-and-smoothing-30-ml-1_28604e8a-dbda-4163-85da-33ef3e5cb2ec.png?v=1761660106
+  Price: ALL 0.00 ALL
+- [🎁 Lirene VITAMIN ENERGY С+D PRO Moisturizing and brightening cream-gel 50 ml (100% off)](https://amar.al/products/lirene-vitamin-energy-d1-81d-pro-moisturizing-and-brightening-cream-gel-50-ml-2-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:37Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/253-Lirene-VITAMIN-ENERGY-SD-PRO-Moisturizing-and-brightening-cream-gel-50-ml-1_0bb6714e-cdc2-4259-8c9f-089f22247c46.png?v=1761660108
+  Price: ALL 0.00 ALL
+- [🎁 Lirene VITAMIN ENERGY С+D PRO Nourishing and deeply moisturising cream 50 ml (100% off)](https://amar.al/products/lirene-vitamin-energy-d1-81d-pro-nourishing-and-deeply-moisturising-cream-50-ml-2-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:38Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/254-Lirene-VITAMIN-ENERGY-SD-PRO-Nourishing-and-deeply-moisturising-cream-50-ml-1_d79d579f-97e1-450f-bf31-738d66140ad5.png?v=1761660111
+  Price: ALL 0.00 ALL
+- [🎁 MAKE UP BASE FILLING PHOTO BOOTH (100% off)](https://amar.al/products/make-up-base-filling-photo-booth-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:39Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/p2_263c87ee-9366-4706-975e-7ec84d43aa9d.png?v=1761660114
+  Price: ALL 0.00 ALL
+- [🎁 MAKE UP BASE INSTANT SMOOTH (100% off)](https://amar.al/products/make-up-base-instant-smooth-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:40Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/411789__Lirene_Instant_Smooth_Baza_wypelniajaca_zmarszczki_30_ml__BB__132__p_65f4c8c8-1036-4539-9fea-3f9e3469d6d6.png?v=1761660116
+  Price: ALL 0.00 ALL
+- [🎁 MANGOLIA Deeply moisturizing hand and nail cream with soy oil (100% off)](https://amar.al/products/mangolia-deeply-moisturizing-hand-and-nail-cream-with-soy-oil-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:42Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/56-MANGOLIA-Deeply-moisturizing-hand-and-nail-cream-with-soy-oil-1_cd50a287-14ea-46a2-829d-b35c230b790b.jpg?v=1761660119
+  Price: ALL 0.00 ALL
+- [🎁 Mint face wash peeling (100% off)](https://amar.al/products/mint-face-wash-peeling-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:47Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/35-Mint-face-wash-peeling-1_cf33ea14-3a85-4394-9814-b2938e4d06f2.jpg?v=1761660122
+  Price: ALL 0.00 ALL
+- [🎁 MOINTSURING BODY SERUM SWEET CREAM (100% off)](https://amar.al/products/mointsuring-body-serum-sweet-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/136737_500x500p_lirene-serum-nawilzajace-do-ciala-sweet-cream-200ml_5900717831018_20230102100653_jpg_810bf08f-4706-4397-805e-21413d8e5bf8.webp?v=1761660125
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Creamy face cleansing gel (100% off)](https://amar.al/products/power-of-plants-almond-creamy-face-cleansing-gel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:53Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/kremowy-zel-myjacy-10e07718.emwi_23d05df7-6821-4826-be03-73596098905d.webp?v=1761660128
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Enzyme face peeling (100% off)](https://amar.al/products/power-of-plants-almond-enzyme-face-peeling-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:55Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-enzymatyczny-10e07715.jmym_76d87537-e44f-4210-9817-621182c64457.webp?v=1761660130
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Make-up removal creamy milk (100% off)](https://amar.al/products/power-of-plants-almond-make-up-removal-creamy-milk-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:57Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/kremowe-mleczko-do-demakijazu-10e07719.7adc_757d8d50-5458-486b-b043-4a9bc87fa746.webp?v=1761660133
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Nourishing face cream (100% off)](https://amar.al/products/power-of-plants-almond-nourishing-face-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/krem-odzywczy-10e07714-krt.kpcp_48ee0480-251a-4940-9ce1-f3dcd823fe8a.webp?v=1761660136
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Oil to gel make-up remover (100% off)](https://amar.al/products/power-of-plants-almond-oil-to-gel-make-up-remover-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/olejek-zel-do-demakijazu-10e07716.avfy_fe6e5662-df8f-4bbb-a511-cfc1e3b362cd.webp?v=1761660139
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALMOND Two-phase micellar water (100% off)](https://amar.al/products/power-of-plants-almond-two-phase-micellar-water-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:05Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/dwufazowy-plyn-micelarny-10e07717.lwzx_5a25b04e-fc92-43fc-b35d-a547a0fef0bd.webp?v=1761660141
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Aloe hydrolate (100% off)](https://amar.al/products/power-of-plants-aloe-aloe-hydrolate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:11Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hydrolat-z-aloesu-10e07730.hjuu_9d7e5767-9595-47ad-b5e8-6007dff13f89.webp?v=1761660144
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Coarse-grained face peeling (100% off)](https://amar.al/products/power-of-plants-aloe-coarse-grained-face-peeling-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:17Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-gruboziarnisty-10e07726.zudh_74a8066d-932a-459f-b678-a44437e8bedf.webp?v=1761660147
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Moisturising face cleansing gel (100% off)](https://amar.al/products/power-of-plants-aloe-moisturising-face-cleansing-gel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:03:43Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawilzajacy-zel-myjacy-10e07729.vx7n_7aaf4a8c-4ca0-43db-aae6-dac7b79c3a67.webp?v=1761660149
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Moisturising face cream (100% off)](https://amar.al/products/lirene-power-of-plants-aloes-moisturizing-cream-50-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/225-Lirene-POWER-OF-PLANTS-ALOES-moisturizing-cream-50-ml-1_26ef73bd-beb8-44d0-9b4d-4c1f8bf003d5.jpg?v=1761660152
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Moisturising micellar water (100% off)](https://amar.al/products/power-of-plants-aloe-moisturising-micellar-water-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:25Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/nawilzajacy-plyn-micelarny-10e07728.9itf_1a3ba610-e8ca-4446-bac9-3fa2a99d0dee.webp?v=1761660154
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ALOE Moisturising toner (100% off)](https://amar.al/products/power-of-plants-aloe-moisturising-toner-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:27Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/tonik-nawilzajacy-10e07727.mmhb_5ad1ef84-3e31-477a-86b4-e19710f62576.webp?v=1761660157
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS ENERGIZING FACE SHEET MASK MANGO (100% off)](https://amar.al/products/power-of-plants-energizing-face-sheet-mask-mango-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf904d3a86-energetyzujaca-maska-do-twarzy-mango-13e07763-1.z4ik_3e79135b-6c57-4bba-9266-8f15333138cc.webp?v=1761660160
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO ENERGIZING FACE CREAM SPF 30 (100% off)](https://amar.al/products/power-of-plants-mango-energizing-face-cream-spf-30-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:47Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf8fb95909-krem-energetyzujacy-spf-30-10e07743-krt.k9i1_786d0974-3445-4551-b44f-c75d46e3cb8b.webp?v=1761660163
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO EYE MAKE-UP REMOVER LIQUID (100% off)](https://amar.al/products/power-of-plants-mango-eye-make-up-remover-liquid-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:59Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf8ffa1a09-plyn-do-demakijazu-oczu-10e07746.dcpc_0fca9b51-813a-48ba-8a98-f4b9d2bfc516.webp?v=1761660165
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO ILLUMINATING FACE SERUM (100% off)](https://amar.al/products/power-of-plants-mango-illuminating-face-serum-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf8fd10001-serum-rozswietlajace-10e07744-krt.xxyw_d50b1e39-c701-4464-b729-b03920f94e44.webp?v=1761660168
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO MAKE-UP REMOVER BUTTER (100% off)](https://amar.al/products/power-of-plants-mango-make-up-remover-butter-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:51Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf900e2aa3-maselko-do-demakijazu-10e07747-krt.scja_f0a0317d-7d53-4a92-a13e-6c12981d36ba.webp?v=1761660171
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO MANGO HYDROLATE (100% off)](https://amar.al/products/power-of-plants-mango-mango-hydrolate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:52Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf8fe7a48e-hydrolat-z-mango-10e07745.ssj5_aa831248-6b11-4d76-82ac-00e91acb1e21.webp?v=1761660174
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO PEELING CLEANSING FACE GEL (100% off)](https://amar.al/products/power-of-plants-mango-peeling-cleansing-face-gel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:18Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf90261f88-peelingujacy-zel-myjacy-10e07748.lcxd_e13bbaec-a86e-41bf-81c0-1dd48bc206f9.webp?v=1761660177
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MANGO PEELING GOMMAGE (100% off)](https://amar.al/products/power-of-plants-mango-peeling-gommage-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:55Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/650bf9039f061-peeling-gommage-do-twarzy-13e07749.jv7y_f003450b-ba5b-4d4a-ab8e-ac53ac860401.webp?v=1761660179
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants MOISTURIZING BODY BALM ROSE (100% off)](https://amar.al/products/power-of-plants-moisturizing-body-balm-rose-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:20Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/balsam-do-ciala-rose-13e08542.54pd_d80627d2-9e83-4d59-ba57-c03009ff447b.webp?v=1761660184
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS MOISTURIZING FACE SHEET MASK ALOE (100% off)](https://amar.al/products/power-of-plants-moisturizing-face-sheet-mask-aloe-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca612de6be1-nawilzajaca-maska-do-twarzy-aloes-13e07761.uwne_08da47d9-2c59-49dd-bec8-951fcb9d2e7f.webp?v=1761660185
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants MOISTURIZING SHOWER GEL ROSE (100% off)](https://amar.al/products/power-of-plants-moisturizing-shower-gel-rose-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:05:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/zel-pod-prysznic-rose-13e08545.epgb_627114b4-bf8c-445e-a33d-80cd5f262df0.webp?v=1761660187
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants NOURISHING BODY BALM ALMOND (100% off)](https://amar.al/products/power-of-plants-nourishing-body-balm-almond-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:25Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/balsam-do-ciala-almond-13e08541.ipjq_6ebabdbe-fe1b-4992-8d7c-bf099b28eb27.webp?v=1761660190
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants NOURISHING BODY PEELING ALMOND (100% off)](https://amar.al/products/power-of-plants-nourishing-body-peeling-almond-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-myjacy-almond-13e08547.8m4i_139c4f32-3bae-4605-9d04-3f7e060e5dd0.webp?v=1761660193
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants NOURISHING CREAMY SHOWER GEL ALMOND (100% off)](https://amar.al/products/power-of-plants-nourishing-creamy-shower-gel-almond-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:21Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/kremowy-zel-pod-prysznic-almond-13e08544.kye8_7f27dfc3-d486-4304-a2b6-8c80ff42e517.webp?v=1761660195
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants OPUNTIA Opuntia hydrolate (100% off)](https://amar.al/products/power-of-plants-opuntia-opuntia-hydrolate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:05Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hydrolat-z-opuncji-10e07724.3092_19b1ddef-5042-45b9-b7e3-80e0fd6f64e7.webp?v=1761660198
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants OPUNTIA Smoothing face cleansing foam (100% off)](https://amar.al/products/power-of-plants-opuntia-smoothing-face-cleansing-foam-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/wygladzajaca-pianka-myjaca-10e07723.m7ar_3a90f423-6b20-4272-92d4-6be3073677a6.webp?v=1761660201
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants OPUNTIA Smoothing face cream (100% off)](https://amar.al/products/power-of-plants-opuntia-smoothing-face-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:24Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/o1_ea540586-8f60-4ab1-8911-eca6fe03e997.webp?v=1761660203
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants OPUNTIA Smoothing micellar water (100% off)](https://amar.al/products/power-of-plants-opuntia-smoothing-micellar-water-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:11Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/o3_f2102c26-5476-48dc-9cf7-8f5dae5d3b6e.webp?v=1761660206
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS REJUVENATING FACE SHEET MASK ROSE (100% off)](https://amar.al/products/power-of-plants-rejuvenating-face-sheet-mask-rose-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:13Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64cb962961a74-odmladzajaca-maska-do-twarzy-roza-13e07622.07gl_06c02a6e-3d2c-40e0-aec9-8268435e6c86.webp?v=1761660209
+  Price: ALL 0.00 ALL
+- [🎁 Power Of Plants Rose Body Peeling (100% off)](https://amar.al/products/power-of-plants-rose-body-peeling-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:27Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/146071_500x500p_LIRENE_-_POWER_OF_PLANTS_-_ROSE_-_Peeling_myj_cy_-_175_g_jpg_b2e8843a-b34e-44c5-9be3-7ec1e6c4ec29.webp?v=1761660211
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Fine grained face peeling (100% off)](https://amar.al/products/power-of-plants-rose-fine-grained-face-peeling-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:18Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-drobnoziarnisty-10e07733.91km_28a9a567-ec7b-417b-9a02-3ac45c46b2ba.webp?v=1761660214
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Lifting face cream (100% off)](https://amar.al/products/power-of-plants-rose-lifting-face-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/krem-liftingujacy-10e07731-krt.ulcr_422de561-8320-4625-97a4-b2fc4f7fe080.webp?v=1761660217
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Oil to foam make-up remover (100% off)](https://amar.al/products/power-of-plants-rose-oil-to-foam-make-up-remover-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:04:59Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/olejek-pianka-do-demakijazu-10e07734.18ta_d777be64-fb56-48e0-a48f-3cd7cc92b9b8.webp?v=1761660219
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Rejuvenating face serum (100% off)](https://amar.al/products/power-of-plants-rose-rejuvenating-face-serum-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:33Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/odmladzajace-serum-do-twarzy-10e07732-krt.1yge_37b4b605-8f99-47e9-be79-f6a5c59779a8.webp?v=1761660222
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Rose hydrolate (100% off)](https://amar.al/products/power-of-plants-rose-rose-hydrolate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:23Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hydrolat-z-rozy-10e07737.pafk_fa2d1c36-a7ba-4dcd-adf2-c9af93253d8d.webp?v=1761660225
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Soothing face cleansing gel (100% off)](https://amar.al/products/power-of-plants-rose-soothing-face-cleansing-gel-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:25Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/kojacy-zel-myjacy-10e07736.afja_f9ec766d-00b2-47c2-8ac3-47c659bd9721.webp?v=1761660228
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants ROSE Soothing micellar water (100% off)](https://amar.al/products/power-of-plants-rose-soothing-micellar-water-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:26Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/kojacy-plyn-micelarny-10e07735.yl0q_d79137bb-ceaa-4f52-8a4d-c643c824127d.webp?v=1761660230
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants SMOOTHING BODY BALM OPUNTIA (100% off)](https://amar.al/products/power-of-plants-smoothing-body-balm-opuntia-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:28Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/balsam-do-ciala-opuntia-13e08543.fvfv_18ee8402-5c7b-4b74-b009-ad4427f64dfc.webp?v=1761660233
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants SMOOTHING BODY PEELING OPUNTIA (100% off)](https://amar.al/products/power-of-plants-smoothing-body-peeling-opuntia-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:30Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/peeling-myjacy-opuntia-13e08549.0vee_dad96eab-b79c-4427-bf81-94e91216753a.webp?v=1761660236
+  Price: ALL 0.00 ALL
+- [🎁 Power of Plants SMOOTHING OIL SHOWER GEL OPUNTIA (100% off)](https://amar.al/products/power-of-plants-smoothing-oil-shower-gel-opuntia-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:32Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/olejkowy-zel-pod-prysznic-opuntia-13e08546.0ofz_e138327b-7609-4786-a59d-03f17992b008.webp?v=1761660238
+  Price: ALL 0.00 ALL
+- [🎁 POWER OF PLANTS SOOTHING FACE SHEET MASK OPUNTIA (100% off)](https://amar.al/products/power-of-plants-soothing-face-sheet-mask-opuntia-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:34Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64cb962678e77-wygladzajaca-maska-do-twarzy-opuncja-13e07762.vqeb_ecfc1550-dfb2-48b7-9273-9b20fbe6aa23.webp?v=1761660242
+  Price: ALL 0.00 ALL
+- [🎁 REGENERATING BODY BALM WARM VANILLA (100% off)](https://amar.al/products/regenerating-body-balm-warm-vanilla-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:36Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/61279741662966088_24c5089c-2d6f-470a-893b-58f120f1b9a1.webp?v=1761660243
+  Price: ALL 0.00 ALL
+- [🎁 Revitalizing Feet Ointment Recovery Serum 5% Propolis (100% off)](https://amar.al/products/revitalizing-feet-ointment-recovery-serum-5-propolis-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:39Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/155023_500x500p_64ca6114ea5d1-serum-odbudowujace-10e08533_you3_jpg_b0d3f571-0632-4cc6-b2eb-0148e4db8d62.webp?v=1761660246
+  Price: ALL 0.00 ALL
+- [🎁 ROSE Intensely nourishing hand and nail cream with karite butter (100% off)](https://amar.al/products/rose-intensely-nourishing-hand-and-nail-cream-with-karite-butter-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:40Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/58-ROSE-Intensely-nourishing-hand-and-nail-cream-with-karite-butter-1_e51aae79-3693-493b-9051-6aafe8533bd6.jpg?v=1761660249
+  Price: ALL 0.00 ALL
+- [🎁 Satin Concealer (100% off)](https://amar.al/products/satin-concealer-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:43Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/eng_pm_Lirene-Satin-Concealer-No-01-Light-10ml-34288_1_bf22d020-1f6d-44ea-b971-d06d97f382e2.png?v=1761660251
+  - [Medium skin](https://amar.al/products/satin-concealer-sca_clone_freegift?variant=47348544897181)
+    Availability: Available
+    Price: ALL 0.00 ALL
+  - [Fair skin](https://amar.al/products/satin-concealer-sca_clone_freegift?variant=47348544929949)
+    Availability: Available
+    Price: ALL 0.00 ALL
+- [🎁 SELF-TANNING FOAM ESPRESSO (100% off)](https://amar.al/products/self-tanning-foam-espresso-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:44Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6513efea44405-brazujaca-pianka-do-ciala-espresso-10e08225.orp5_33749934-e7f1-44c0-ad6f-2d0956a5caae.webp?v=1761660254
+  Price: ALL 0.00 ALL
+- [🎁 Self-tanning foam with CAPPUCINO 150 ml (100% off)](https://amar.al/products/lirene-perfect-tan-self-tanning-foam-with-organic-coconut-water-cappucino-150-ml-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:45Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/643885a2ef641-cappucino-10e08224.paqz_1997c703-5b36-481e-9147-c5a6583ff2cf.webp?v=1761660257
+  Price: ALL 0.00 ALL
+- [🎁 Shower gel with mango oil (100% off)](https://amar.al/products/shower-gel-with-mango-oil-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:47Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/32-Shower-gel-with-mango-oil-1_0f84d1ce-6e5b-43d9-ba2d-c9d39241f2f1.jpg?v=1761660259
+  Price: ALL 0.00 ALL
+- [🎁 Smoothing body peeling grapefruit & sage extract (100% off)](https://amar.al/products/smoothing-body-peeling-grapefruit-sage-extract-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:50Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/45-Smoothing-body-peeling-grapefruit-sage-extract-1_9766fa01-bde2-4cf9-8ef2-ca85d64408de.jpg?v=1761660261
+  Price: ALL 0.00 ALL
+- [🎁 SOOTHING BODY BALM SPICE CHOCOLATE (100% off)](https://amar.al/products/soothing-body-balm-spice-chocolate-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:54Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/pg26romvjsff_b4abe4bc-c32d-4ed2-9aaa-8bc059b33846.jpg?v=1761660264
+  Price: ALL 0.00 ALL
+- [🎁 STOP callousness foot 2in1 cream-mask (100% off)](https://amar.al/products/stop-callousness-foot-2in1-cream-mask-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:56Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/59-STOP-callousness-foot-2in1-cream-mask-1_576f8199-6d9f-4f58-a3ff-e3fee414758e.jpg?v=1761660268
+  Price: ALL 0.00 ALL
+- [🎁 STOP roughness foot cream (100% off)](https://amar.al/products/stop-roughness-foot-cream-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:58Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/60-STOP-roughness-foot-cream-1_eebf582e-38e2-4552-8d63-cfbbf24f1fa6.jpg?v=1761660271
+  Price: ALL 0.00 ALL
+- [🎁 SUNSCREEN PROTECTION LOTION SPF30 +25 (100% off)](https://amar.al/products/sunscreen-protection-lotion-spf30_25-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:06:59Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6605413dbb13d-emulsja-nawilzajaca-spf30-90ml-10e31114-1.vjyf_05a1e9c0-69ea-4e1c-9c23-50525f7e4543.webp?v=1761660274
+  Price: ALL 0.00 ALL
+- [🎁 TANNING ACCELERATOR WITH CAROTENE OIL (100% off)](https://amar.al/products/tanning-accelerator-with-carotene-oil-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:02Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/s1_2aeca747-3e8c-4913-84a6-c5be2177ef3c.webp?v=1761660276
+  Price: ALL 0.00 ALL
+- [🎁 Velvety soft hands mask in gloves (100% off)](https://amar.al/products/velvety-soft-hands-mask-in-gloves-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:05Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/55-Velvety-soft-hands-mask-in-gloves-1_d6abe1b7-4559-4ac8-9eed-fa788024b568.jpg?v=1761660279
+  Price: ALL 0.00 ALL
+- [🎁 Vitamin Stick For Face&Body SPF 50+ (100% off)](https://amar.al/products/vitamin-stick-for-face-body-spf-50-sca_clone_freegift): This product is used for the app BOGOS.io Free Gift BOGO Bundle to work. Please do not delete/edit it while the offers are still running! If you need assistance, please contact us via Livechat in-app or email us at: support@secomapp.com.
+  Updated: 2025-10-28T14:07:06Z
+  Vendor: Lirene
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitleddesign_37_d176e729-273d-4062-91d5-04c58e9d3b8c.png?v=1761660281
+  Price: ALL 0.00 ALL
 
 ## Collections
 
@@ -2888,7 +4125,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:37Z
   Total Products: 3
 - [Facial Brush nga Geske – Pastrim i Thellë - Amar Pharma -](https://amar.al/collections/facial-brush-1): Pastroni lëkurën tuaj në mënyrë efektive dhe të butë me Facial Brush nga Geske. Ky brush për fytyrën ofron pastrim të thellë, duke larguar papastërtitë dhe grimcave të tjera, ndërkohë që stimulon qarkullimin e gjakut për një lëkurë të shëndetshme dhe të freskët. Përdoreni çdo ditë për një fytyrë të pastër dhe të lëmuar! - Amar Pharma
-  Updated: 2025-10-26T14:29:37Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 5
 - [Fluid Foundation Pharmaceris F | Fondatina me Mbulim të Lehtë dhe Natyral – Amar.al - Amar Pharma -](https://amar.al/collections/fluid-foundation-fondatina-1): FLUID FOUNDATION – Fondatina e Lehtë për Pamje të Natyrshme dhe të Freskët Fluid Foundation nga Pharmaceris F ofron një mbulim të lehtë dhe të qëndrueshëm që balancojnë tonin e lëkurës duke e lënë atë të butë dhe të freskët gjatë gjithë ditës. E përshtatshme për përdorim të përditshëm, kjo fondatinë siguron një finish natyral dhe të papërshkueshëm. ✔ Mbulim i lehtë me efekt natyral✔ Formulë që ruan hidratimin dhe freskinë e lëkurës✔ Ideale për lëkurë të ndjeshme dhe të prirur ndaj irritimeve✔ Rezultate të qëndrueshme gjatë gjithë ditës ✨ Arrini pamjen që dëshironi me Fluid Foundation – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-26T14:29:37Z
@@ -2945,7 +4182,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:39Z
   Total Products: 2
 - [Masazhues Geske – Relaksim dhe Rigjenerim i Lëkurës - Amar Pharma -](https://amar.al/collections/masazhues-1): Për një relaksim të thellë dhe rigjenerim të lëkurës, zgjidhni masazhuesin Geske. Krijuar për të stimuluar qarkullimin dhe për të përmirësuar elasticitetin e lëkurës, ky masazhues ofron përvojën e përsosur të masazhit çdo ditë. Ndihmon në lehtësimin e stresit dhe dhimbjeve të muskujve. - Amar Pharma
-  Updated: 2025-10-26T14:29:39Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 16
 - [Mbrojtje nga Dielli për Fëmijë Kremra të Sigurt me SPF - Amar Pharma -](https://amar.al/collections/mbrojtja-nga-dielli-per-femije-1): Siguroni mbrojtje të plotë për lëkurën e fëmijëve tuaj me produktet tona të mbrojtjes nga dielli. Kremra dhe sprejra me SPF të lartë, të sigurt dhe të butë për lëkurën e ndjeshme të fëmijëve, që parandalojnë djegien dhe dëmtimin nga rrezet UV. Mbajeni fëmijën tuaj të mbrojtur dhe të sigurt në diell! - Amar Pharma
   Updated: 2025-10-26T14:29:39Z
@@ -2969,7 +4206,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:40Z
   Total Products: 1
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Kujdes të Thellë – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-1): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Nevojë të Lëkurës dhe Flokëve Pharmaceris është një nga markat më të njohura dhe të besuara në fushën e dermatologjisë, me produkte të krijuara për të trajtuar dhe përmirësuar çdo tip lëkure dhe probleme të ndryshme si: akné, skuqje, hiperpigmentim, plakje, dhe gjithashtu kujdes profesional për flokët dhe skalpin. 🔬 Formulime të testuara dermatologjikisht dhe klinikisht🧴 Kremra, serume, shampo dhe trajtime specifike për lëkurë normale, të yndyrshme, të ndjeshme dhe me tendencë akné🌿 Përbërës aktivë si retinol, niacinamid, acid hialuronik, zink dhe vitamina për rezultate të dukshme✨ Zgjidhje të sigurta dhe efektive për përdorim të përditshëm Zgjidhni Pharmaceris për një kujdes gjithëpërfshirës të lëkurës dhe flokëve – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 100
 - [Pharmaceris A | Kujdes për Lëkurë të Ndjeshme me Tendencë për Akne – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-a-1): Pharmaceris A – Kujdes i Butë dhe Efektiv për Lëkurë me Akne dhe Ndjeshmëri Pharmaceris A ofron produkte të specializuara për lëkurën e ndjeshme dhe me tendencë aknesh. Formulat e tyre të buta ndihmojnë në pastrimin e thellë të poreve, kontrollin e yndyrës dhe reduktimin e shenjave të akneve, pa irrituar lëkurën. ✔ Pastrues dhe kremra me përbërës anti-inflamatorë dhe antibakterialë✔ Produkte që balansojnë prodhimin e sebumit dhe qetësojnë irritimet✔ Ideale për lëkurë me akne aktive dhe të prirur ndaj skuqjeve✔ Të testuara dermatologjikisht për siguri dhe efikasitet ✨ Kujdes profesional për lëkurë të pastër dhe të shëndetshme – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-26T14:29:40Z
@@ -2978,7 +4215,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:40Z
   Total Products: 11
 - [Pharmaceris H | Kujdes Profesional për Flokë dhe Skalpin – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-h-1): Pharmaceris H – Kujdes i Specializuar për Flokë dhe Skalpin Pharmaceris H është linja dermatologjike e dedikuar për shëndetin dhe bukurinë e flokëve dhe skalpit. Produktet e saj ndihmojnë në parandalimin e rënies së flokëve, hidratimin dhe qetësimin e skalpit, duke promovuar rritjen e flokëve të fortë dhe të shëndetshëm. ✔ Shampo dhe serume kundër rënies së flokëve✔ Trajtime për qetësimin e skalpit të ndjeshëm ose me skuqje✔ Formula të pasura me përbërës aktivë që rigjenerojnë folikulat e flokëve✔ Për përdorim të përditshëm dhe rezultate të provuara klinikisht Rifito flokë të fortë dhe shkëlqim me linjën Pharmaceris H – në dispozicion ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 13
 - [Pharmaceris M Maternity – Parandaloni Strijat - Amar Pharma -](https://amar.al/collections/pharmaceris-m-1): Pharmaceris M Maternity ofron produkte të dedikuara për kujdesin e lëkurës gjatë shtatzënisë, të cilat ndihmojnë në parandalimin e strijave dhe mbështesin elasticitetin e lëkurës. Me përbërës të butë dhe efektivë, këto produkte ushqejnë dhe hidratojnë lëkurën, duke siguruar mbrojtje gjatë periudhës më të bukur dhe më të ndjeshme të jetës suaj - Amar Pharma
   Updated: 2025-10-26T14:29:40Z
@@ -3041,7 +4278,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:42Z
   Total Products: 11
 - [Trajtime Speciale për Lëkurën | Zgjidhje Dermatologjike – Amar.al - Amar Pharma -](https://amar.al/collections/trajtime-speciale-1): Ky koleksion ofron një gamë të zgjeruar të produkteve të formuluara për të trajtuar gjendje të veçanta të lëkurës. Të testuara dermatologjikisht dhe të bazuara në përbërës aktivë të fuqishëm, trajtimet speciale ndihmojnë në përmirësimin e strukturës dhe shëndetit të lëkurës, pavarësisht problematikës. ✔ Trajtime për akne – me acid salicilik, niacinamid dhe zinc për pastrim të thellë dhe reduktim të inflamacionit✔ Kundër rrudhave – me retinol, peptidet dhe acid hialuronik për rigjenerim dhe tonifikim✔ Hidratim dhe rigjenerim – për lëkurë të thatë ose të dëmtuar nga faktorët e jashtëm✔ Qetësim për lëkurë të ndjeshme & kuperozë – për eliminimin e skuqjes dhe forcimin e barrierës natyrale ✨ Zgjidhni një trajtim të veçantë, të përshtatur për ju – dhe përjetoni ndryshimin në vetëm pak ditë me produktet profesionale të Amar.al. - Amar Pharma
-  Updated: 2025-10-26T14:29:42Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 110
 - [Uji Micelar – Pastrim i Thellë dhe Kujdes i Butë për Lëkurën - Amar Pharma -](https://amar.al/collections/uje-micelar-1): Zbuloni ujin micelar, produktin ideal për pastrim të thellë të fytyrës dhe largimin e makeup-it dhe papastërtive pa irrituar lëkurën. Me formulë të butë dhe efektive, uji micelar përshtatet për çdo tip lëkure, duke ofruar hidratim dhe freski natyrale. Pas përdorimit, lëkura juaj do të jetë e pastër, e butë dhe e shëndetshme. - Amar Pharma
   Updated: 2025-10-26T14:29:42Z
@@ -3056,34 +4293,34 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:42Z
   Total Products: 12
 - [Produkte për Trajtimin e Zbokthit – Bli Shampo dhe Trajtime Online | Amar.al - Amar Pharma -](https://amar.al/collections/zbokthi-1): Në koleksionin Zbokthi gjeni produkte të specializuara për trajtimin dhe parandalimin e zbokthit. Shamponë, locione dhe trajtime efektive që pastrojnë thellë lëkurën e kokës, reduktojnë zbokthin dhe qetësojnë kruarjen. Produktet tona janë të përshtatura për çdo tip lëkure dhe janë të disponueshme për blerje online në Shqipëri, me dorëzim të shpejtë dhe të sigurt. - Amar Pharma
-  Updated: 2025-10-26T14:29:42Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 10
 - [Produktet Më të Shitura | Best Sellers – Amar.al - Amar Pharma -](https://amar.al/collections/best-sellers): Zbuloni bestseller-ët e Amar.al – produktet më të preferuara nga klientët tanë për kujdesin e lëkurës, trupit dhe flokëve. Bli ato që të gjithë po i duan! ✅ Collection Description (për në faqe): Më të Mirët nga më të Mirët – Best Sellers në Amar.al Ky koleksion përmbledh produktet më të shitura dhe më të vlerësuara nga klientët tanë. Nga pastruesit dhe kremrat për fytyrën, deri tek SPF-të më të fuqishme dhe suplementët më të kërkuar – këtu do të gjeni zgjedhjet më të besuara për rezultate të garantuara. 🔸 Zgjedhjet më të dashura nga klientët tanë🔸 Produkte me vlerësime të larta dhe efektivitet të provuar🔸 Ideale për ata që nuk dinë nga t’ia nisin – provo bestsellerët tanë🔸 Sasi të kufizuara për disa artikuj – mos i humb! 🛍️ Bashkohu me mijëra klientë të kënaqur dhe porosit bestseller-ët tanë sot! - Amar Pharma
-  Updated: 2025-10-26T11:11:24Z
+  Updated: 2025-10-28T13:44:43Z
   Total Products: 418
 - [Lirene | Produkte Cilësore për Kujdesin e Lëkurës dhe Trupit – Amar.al - Amar Pharma -](https://amar.al/collections/lirene): Lirene është marka e njohur për produktet e saj efektive dhe të sigurta për kujdesin e përditshëm të lëkurës dhe trupit. Gama e gjerë përfshin kremra hidratues, pastrues të butë dhe trajtime rigjeneruese që mbrojnë lëkurën nga faktorët e jashtëm dhe i japin shkëlqim natyral. ✔ Formulime të avancuara me përbërës aktivë të sigurt✔ Produkte për të gjitha tipet e lëkurës dhe nevojat specifike✔ Mbrojtje, rigjenerim dhe hidratim për fytyrën dhe trupin✔ Të testuara dermatologjikisht dhe me çmime të arsyeshme ✨ Zgjidhni Lirene për një lëkurë të bukur dhe të shëndetshme çdo ditë – ekskluzivisht në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
-  Total Products: 184
+  Updated: 2025-10-28T14:05:09Z
+  Total Products: 360
 - [Pharmaceris Shqipëri | Produkte Dermatologjike për Lëkurë të Ndjeshme – Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-2): Pharmaceris – Kujdes Dermatologjik i Avancuar për Çdo Tip Lëkure Pharmaceris është një nga markat më të besuara dermatologjike në botë, e krijuar nga specialistë të lëkurës për të ofruar zgjidhje efektive për probleme të ndryshme dermatologjike. Koleksioni përfshin produkte për lëkurë të ndjeshme, akné, skuqje, hiperpigmentim, rënie flokësh dhe shumë më tepër. 🔬 Formuluar nga dermatologë dhe testuar klinikisht💧 Ideal për lëkurë të ndjeshme, të irrituar apo të trajtuar me procedura dermatologjike🧴 Përfshin kremra, serume, SPF, shampo dhe trajtime lokale🔍 Zgjidhje të personalizuara sipas nevojave të lëkurës tuaj: T, A, R, H, W, F, N, P, S ✨ Zbuloni fuqinë e një formule të sigurt, efektive dhe të përkushtuar – Pharmaceris, tani në Shqipëri me Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:44Z
   Total Products: 114
 - [Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri - Amar Pharma -](https://amar.al/collections/geske): Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri Geske sjell inovacionin më të avancuar në kujdesin për lëkurën, duke kombinuar teknologjinë gjermane me rezultate të shkëlqyera klinike. Produktet e Geske janë të dizajnuara për të transformuar rutinën tuaj të bukurisë në një përvojë profesionale nga komoditeti i shtëpisë. 🔹 Pajisje inteligjente për kujdesin e lëkurës – pastrues fytyre, masazherë dhe aparate kundër rrudhave🔹 Teknologji me frekuencë të lartë dhe dritë LED – për një lëkurë më të pastër dhe të tonifikuar🔹 Zgjidhje për çdo lloj lëkure – e yndyrshme, e thatë apo e ndjeshme🔹 Rezultate të provuara klinikisht – për rigjenerim, hidratim dhe zvogëlim të rrudhave ✨ Zbuloni fuqinë e teknologjisë së Geske dhe përjetoni një kujdes lëkure të nivelit të lartë në Shqipëri. Bli tani me ofertat ekskluzive të Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:44Z
   Total Products: 27
 - [LN Age – Kapsula me Hekur për Shëndet dhe Kundër Plakjes | Amar.al - Amar Pharma -](https://amar.al/collections/ln-age): LN Age është një suplement ushqimor në formë kapsulash që përmban hekur elementar dhe përbërës të tjerë të zgjedhur për të përmirësuar shëndetin tuaj të përgjithshëm. Këto kapsula ndihmojnë në rritjen e niveleve të energjisë, forcimin e sistemit imunitar dhe rigjenerimin e trupit, duke luftuar shenjat e plakjes. Ideale për ata që dëshirojnë të mbajnë lëkurën dhe trupin e tyre të shëndetshëm, të rinovuar dhe me vitalitet. - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:44Z
   Total Products: 3
 - [Dr Irena Eris – Produkte Premium për Kujdesin e Lëkurës | Amar.al - Amar Pharma -](https://amar.al/collections/dr-irena-eris): Marka Dr Irena Eris ofron një gamë produktesh premium për kujdesin e lëkurës, të zhvilluara me formulime inovative dhe përbërës të pasur natyralë dhe teknologjikë. Këto trajtime synojnë të ofrojnë hidratim të thellë, rinovim të qelizave dhe mbrojtje kundër faktorëve të jashtëm, duke i dhënë lëkurës tuaj një pamje të shëndetshme, të butë dhe të rigjeneruar. Ideal për çdo tip lëkure dhe moshë. - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:44Z
   Total Products: 19
 - [Under Twenty – Kujdes për Lëkurën e Rinisë dhe Parandalim Akneve | Amar.al - Amar Pharma -](https://amar.al/collections/under-twenty): Koleksioni Under Twenty është krijuar për të përmbushur nevojat specifike të lëkurës rinore. Me formulime të buta dhe efektive, produktet ndihmojnë në pastrimin e thellë të poreve, reduktimin e akneve dhe parandalimin e shenjave të hershme të plakjes. Zgjidhje perfekte për të rinjtë që dëshirojnë një lëkurë të pastër, të shëndetshme dhe të freskët çdo ditë. - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:45Z
   Total Products: 14
 - [Të Gjitha Produktet – Kujdes i Plotë për Lëkurën dhe Trupin | Amar.al - Amar Pharma -](https://amar.al/collections/all-products): Zbuloni gamën e gjerë të produkteve të kujdesit të lëkurës nga markat më të njohura: Lirene, Pharmaceris, Dr. Irena Eris, Opatra dhe LN Age.Zgjidhni nga kremrat hidratues, serumat inovative, pastruesit efektivë dhe trajtimet anti-rudhë që ofrojnë mbrojtje të avancuar dhe rigjenerim të lëkurës. Çdo produkt është i dizajnuar për t’ju dhënë një pamje të shëndetshme, të freskët dhe plot vitalitet. - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
-  Total Products: 371
+  Updated: 2025-10-28T14:05:09Z
+  Total Products: 547
 - [Nurse Harvey’s | Kujdes Natyral për Foshnjat dhe Fëmijët – Amar.al - Amar Pharma -](https://amar.al/collections/nurse-harveys): Nurse Harvey’s – Kujdes i Besuar dhe Natyral për Vegjëlit Tuaj Nurse Harvey’s ofron një gamë produktesh të formuluara me përbërës natyralë dhe të sigurt për foshnjat dhe fëmijët. Qetëson dhimbjet e barkut, hidraton lëkurën e butë dhe mbështet zhvillimin dhe imunitetin e tyre me suplemente cilësore. ✔ Shurupë për tretje dhe qetësim të gazrave te foshnjat✔ Vajra dhe balsame natyralë për lëkurë të hidratuar dhe të butë✔ Suplemente me vitamina për rritje dhe forcim imuniteti✔ Produktet e testuara dermatologjikisht dhe të sigurt për përdorim të përditshëm 👶 Jepi vegjëlushit tuaj kujdesin më të mirë me Nurse Harvey’s – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:43Z
+  Updated: 2025-10-28T13:44:45Z
   Total Products: 10
 - [Pharmaceris R – Trajtim Efektiv për Rosacea dhe Lëkurë të Irrituar | Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-r): Pharmaceris R është linja profesionale e krijuar për trajtimin dhe menaxhimin e rosaceas, një gjendje kronike që karakterizohet nga skuqje, inflamacion dhe ndjeshmëri e lëkurës. Produktet përmbajnë formulime të buta dhe efektive që ndihmojnë në qetësimin e lëkurës së irrituar, reduktimin e skuqjeve dhe përmirësimin e mikrocirkulacionit, duke e rikthyer lëkurën në një gjendje të shëndetshme, të ekuilibruar dhe të rehatshme. Ideale për përdorim të përditshëm, edhe në lëkura shumë të ndjeshme. - Amar Pharma
   Updated: 2025-10-26T14:29:43Z
@@ -3104,7 +4341,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:44Z
   Total Products: 1
 - [Zbokthi | Shampo & Trajtime Kundër Zbokthit – Amar.al - Amar Pharma -](https://amar.al/collections/zbokthi): Thuaji Lamtumirë Zbokthit – Kujdes Efektiv për Skalpin Ky koleksion përmban zgjidhje të specializuara kundër zbokthit, të dizajnuara për të rikthyer ekuilibrin natyral të skalpit dhe për të parandaluar rikthimin e zbokthit. Produktet tona janë të testuara dermatologjikisht dhe të sigurta për përdorim të rregullt. 🧴 Shampo të fuqishme kundër zbokthit për çdo tip lëkure🌿 Formula me përbërës aktivë si piroctone olamine, climbazole dhe zink💧 Trajtime qetësuese për kruarje dhe skuqje të skalpit🧘♀️ Për përdorim ditor ose si trajtim intensiv Pastro, qetëso dhe mbaj larg zbokthin me produktet më të mira – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:44Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 4
 - [Pharmaceris DS – Trajtim i Specializuar për Dermatitin Seborroik | Amar.al - Amar Pharma -](https://amar.al/collections/pharmaceris-ds): Pharmaceris DS është një linjë e dedikuar për trajtimin dhe menaxhimin e dermatitit seborroik, një gjendje kronike që shkakton skuqje, zbokth dhe irritim në lëkurë. Produktet e kësaj linje përdorin formulime të avancuara me përbërës aktivë që ndihmojnë në qetësimin e lëkurës, eliminimin e zbokthit dhe rikthimin e balancës natyrale të saj. Ideale për lëkurë të ndjeshme dhe të prirur ndaj dermatitit seborroik, Pharmaceris DS ofron kujdes të specializuar dhe efektiv për një lëkurë të shëndetshme dhe të rehatshme. - Amar Pharma
   Updated: 2025-10-26T14:29:44Z
@@ -3155,8 +4392,8 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:45Z
   Total Products: 105
 - [All Products | Amar.al – Zbulo të gjitha produktet e kujdesit personal dhe bukurisë - Amar Pharma -](https://amar.al/collections/all): Mirë se vini në seksionin “Të Gjitha Produktet” të Amar.al. Këtu do të gjeni një përzgjedhje të gjerë të produkteve më të mira për kujdesin e lëkurës, flokëve, trupit, higjienës personale dhe suplementëve ushqimorë. Ne bashkëpunojmë me marka të njohura si Pharmaceris, Lirene, Bioliq dhe shumë të tjera për të sjellë zgjidhje cilësore për nevojat e përditshme. Filtroni, zbuloni dhe zgjidhni produktin ideal për ju. - Amar Pharma
-  Updated: 2025-10-26T14:42:11Z
-  Total Products: 525
+  Updated: 2025-10-28T15:19:26Z
+  Total Products: 701
 - [Power of Plants Aloe | Qetësim & Hidratim Natyral me Aloe Vera – Amar.al - Amar Pharma -](https://amar.al/collections/power-of-plants-aloe): POWER OF PLANTS ALOE – Qetësim Natyral dhe Hidratim i Thellë me Aloe Vera Koleksioni Power of Plants Aloe është i bazuar në përbërësin natyral aloe vera, të njohur për vetitë e tij qetësuese, hidratuese dhe rigjeneruese. Produktet janë ideale për lëkurë të ndjeshme, të dehidratuar, pas ekspozimit në diell ose të prirur ndaj irritimeve. ✔ Aloe vera e pasur me vitamina dhe minerale✔ Qetëson skuqjet dhe ndihmon në rikuperimin e shpejtë të lëkurës✔ Hidraton në thellësi dhe rivendos balancën natyrale✔ Formula të lehta, të testuara dermatologjikisht dhe pa irritues ✨ Zgjidh fuqinë e bimëve për lëkurë të freskët dhe të shëndetshme me POWER OF PLANTS ALOE – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-26T14:29:45Z
   Total Products: 8
@@ -3170,7 +4407,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:46Z
   Total Products: 77
 - [Flokët & Skalpi | Kujdes Dermatologjik për Flokë të Shëndetshëm – Amar.al - Amar Pharma -](https://amar.al/collections/floket-skalpi): Kujdes i Plotë për Flokët dhe Skalpin Tuaj Në këtë koleksion do të gjeni gjithçka që ju nevojitet për shëndetin dhe bukurinë e flokëve dhe skalpit. Nga pastrimi i butë deri tek trajtimet e avancuara, produktet tona ofrojnë rezultate të dukshme dhe të qëndrueshme. 💧 Shampo për lëkurë të ndjeshme, me zbokth apo yndyrë💆♀️ Serume dhe ampula për rritjen dhe forcimin e flokëve🌿 Maska ushqyese dhe hidratim për flokë të thatë apo të dëmtuar🧴 Produkte të testuara dermatologjikisht – të sigurta për përdorim të përditshëm Transformoni rutinën tuaj të kujdesit me zgjidhje profesionale për çdo tip floku dhe skalpi – vetëm në Amar.al! - Amar Pharma
-  Updated: 2025-10-26T14:29:46Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 16
 - [Zona Intime - Amar Pharma -](https://amar.al/collections/zona-intime): - Amar Pharma
   Updated: 2025-10-26T14:29:46Z
@@ -3224,7 +4461,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:48Z
   Total Products: 14
 - [Rënia e Flokëve | Produkte Kundër Rënies së Flokëve – Amar.al - Amar Pharma -](https://amar.al/collections/renia-e-flokeve): Ndalo Rënien, Rikthe Besimin – Kujdes i Avancuar për Flokët Koleksioni ynë për Rënien e Flokëve përmban produkte të zgjedhura me kujdes që ndihmojnë në forcimin e rrënjëve, nxitjen e rritjes së flokëve dhe reduktimin e rënies së tepërt. Të testuara dermatologjikisht dhe të përqendruara në rezultate të dukshme. 🔹 Shampo dhe serume kundër rënies së flokëve🔹 Ampula intensive me përbërës aktivë si biotina, kofeina dhe vitaminat🔹 Formula për meshkuj dhe femra, të përshtatshme për përdorim të përditshëm🔹 Zgjidhje për rënie sezonale, hormonale apo gjenetike 💪 Rifito volumin dhe dendësinë e flokëve me produktet më të mira në Amar.al – Bli tani! - Amar Pharma
-  Updated: 2025-10-26T14:29:48Z
+  Updated: 2025-10-28T11:12:15Z
   Total Products: 4
 - [Krem Dielli për Trupin | Mbrojtje SPF e Lartë – Amar.al - Amar Pharma -](https://amar.al/collections/krem-dielli-per-trupin): Mbrojtje Maksimale për Lëkurën e Trupit në Diell Koleksioni Krem Dielli për Trupin përmban kremra dhe sprej me SPF 30, 50 dhe 50+, të përshtatshëm për çdo tip lëkure. Produktet janë të testuara dermatologjikisht, ofrojnë mbrojtje të gjerë ndaj rrezeve UVA/UVB dhe janë rezistente ndaj ujit – perfekte për përdorim gjatë verës apo gjatë aktiviteteve në natyrë. ✔ Kremra dielli për trupin me teksturë të lehtë dhe përthithje të shpejtë✔ Formula që nuk lënë ndjesi ngjitëse dhe nuk bllokojnë poret✔ Të përshtatshme për lëkurë të ndjeshme, të thatë apo të ekspozuar shpesh✔ Mbrojtje e gjatë dhe efektive kundër djegies dhe fotoplakjes 🌞 Për një verë të sigurt dhe një lëkurë të shëndetshme – zgjidh kremin e duhur të diellit në Amar.al! - Amar Pharma
   Updated: 2025-10-26T14:29:48Z
@@ -3272,22 +4509,22 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:49Z
   Total Products: 11
 - [Elementre - Amar Pharma -](https://amar.al/collections/elementre-1): - Amar Pharma
-  Updated: 2025-10-26T14:29:49Z
+  Updated: 2025-10-28T13:44:46Z
   Total Products: 30
 - [Elementre Prepare - Amar Pharma -](https://amar.al/collections/elementre-prepare): - Amar Pharma
-  Updated: 2025-10-26T14:29:49Z
+  Updated: 2025-10-28T13:44:47Z
   Total Products: 6
 - [Elementre Correct - Amar Pharma -](https://amar.al/collections/elementre-correct): - Amar Pharma
-  Updated: 2025-10-26T14:29:49Z
+  Updated: 2025-10-28T13:44:47Z
   Total Products: 7
 - [Elementre Reinforce - Amar Pharma -](https://amar.al/collections/elementre-reinforce): - Amar Pharma
-  Updated: 2025-10-26T14:29:49Z
+  Updated: 2025-10-28T13:44:47Z
   Total Products: 8
 - [Elementre Body Care - Amar Pharma -](https://amar.al/collections/elementre-body-care): - Amar Pharma
-  Updated: 2025-10-26T14:29:49Z
+  Updated: 2025-10-28T13:44:47Z
   Total Products: 24
 - [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
-  Updated: 2025-10-26T11:11:24Z
+  Updated: 2025-10-28T13:44:48Z
   Total Products: 418
 - [rutina - Amar Pharma -](https://amar.al/collections/rutina): - Amar Pharma
   Updated: 2025-10-26T14:29:49Z
