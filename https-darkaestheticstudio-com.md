@@ -6,14 +6,14 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-10-28T04:00:45.762Z
+- Updated At: 2025-10-28T16:00:58.936Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
 ## Products
 
 - [Have Yourself A Spooky Little Christmas](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas): Spooky Little Christmas – Sweatshirt 🎃🎄Julen möter mörkret i denna grå sweatshirt med fladdermöss och gotisk charm.Perfekt för dig som firar högtid med en twist – mjuk, varm och full av personlighet. Materialinformation: Mjuk och varm fleece i bomull/polyesterblandning med justerbara muddar som håller värmen inne. Perfekt passform: Bär din favoritdesign på en hoodie som varken är för tjock eller för tung – bara lagom. Leverans: 5-12 arbetsdagar.
-  Updated: 2025-10-27T16:37:32Z
+  Updated: 2025-10-28T04:54:07Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -91,7 +91,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
     Price: 399,00 kr SEK
 - [Christmas Things](https://darkaestheticstudio.com/products/christmas-things): Merry Christmas, nerds!🖤 En mörk julklassiker med en hyllning till Stranger Things. Material:Tillverkade i en mjuk blandning av bomull och polyesterväv med varm, fluffig fleece på insidan. Justerbara muddar håller värmen inne och komforten på topp. Passform:Perfekt skurna efter år av erfarenhet och noggrann research. Vikt:Tillräckligt lätt för att bäras året runt – men tillräckligt varm för kalla kvällar. Den perfekta balansen mellan stil och funktion. Leverans: 5-12 arbetsdagar.
-  Updated: 2025-10-27T16:38:22Z
+  Updated: 2025-10-28T04:38:30Z
   Vendor: Dark Aesthetic Studio
   Product Type: Sweat Shirt
   Availability: Available
@@ -217,14 +217,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
     Price: 89,00 kr SEK
 - [Dark Aesthetics glasmugg med lock och sugrör](https://darkaestheticstudio.com/products/dark-aesthetics-16oz-sipper-glass-with-bamboo-lid-straw): 🖤 Stilren glasmugg med bambulock & sugrör Glaset rymmer 473 ml och har livfulla färger som verkligen poppar, tack vare avancerad tryckteknik. Det klara, härdade glaset ger en modern känsla och passar lika bra i köket som på picknicken. Designat för en hållbar livsstil, är detta glas ett utmärkt val för dig som vill minska plastanvändningen utan att kompromissa med stil. Perfekt för somriga dagar, roliga sammankomster eller som en omtänksam present. ✨ Produktfördelar Sugröret tål både värme och kyla Tillverkat av klart, härdat glas för modern estetik BPA-fritt och handdisk rekommenderas för lång hållbarhet Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-27T19:42:21Z
+  Updated: 2025-10-28T04:43:32Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-glass-mug-with-lid-and-straw-square-dark-aesthetic.png?v=1761594027
   Price: 229,00 kr SEK
 - [Dark Aesthetics Unisex Crew Neck Sweatshirt](https://darkaestheticstudio.com/products/dark-aesthetics-unisex-crew-neck-sweatshirt): 🖤 Höj din stil med vår unisex sweatshirt med rund hals Denna stilrena sweatshirt är perfekt för lager-på-lager och avslappnade dagar. Den mjuka, borstade fleeceinsidan ger en mysig känsla – idealisk för kyliga kvällar eller lata helger. Oavsett om du hänger med vänner, besöker ett mysigt café eller bara slappar hemma, ger denna tröja en avslappnad men sofistikerad touch. Den är också en perfekt present till födelsedagar, högtider eller andra firanden – en mångsidig favorit för alla. ✨ Produktdetaljer 50 % kammad ringspunnen bomull / 50 % polyester för komfort och hållbarhet Sydda sidosömmar för långvarig passform Ribbstickad krage, muddar och midja för extra elasticitet Normal passform för vuxna – true to size Medeltjockt tyg (270 g/m²) som värmer utan att kännas tungt 🧼 Skötselråd Maskintvätt: 30°C Använd ej blekmedel Torktumla på låg värme Stryk, ånga eller torka medelvärme Ej kemtvätt Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-27T19:49:38Z
+  Updated: 2025-10-28T04:44:43Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -326,7 +326,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Price: 399,00 kr SEK
 - [Dark Aesthetics Hoodie](https://darkaestheticstudio.com/products/dark-aesthetics-hoodie): 🖤 Den perfekta hoodien för din mysiga garderob Upptäck vår hoodie, mysig och stilren. Med sin mjuka blandning av 80 % bomull och 20 % polyester känns den lyxig mot huden och passar lika bra för vardagsbruk som för lata hemmadagar. Den avslappnade passformen och justerbara huvan ger en laid-back känsla – perfekt för unga vuxna, studenter och alla som älskar stil med komfort. Oavsett om du är på väg till föreläsningen, hänger med vänner eller njuter av en kylig kväll vid en brasa, är denna hoodie ett måste. Den rymliga kängurufickan håller dig varm och ger plats för dina viktigaste saker. 🎁 En perfekt present till födelsedagar, högtider – eller bara för att skämma bort någon (eller dig själv). ✨ Produktdetaljer Mjuk blandning: 80 % bomull / 20 % polyester Sydda sidosömmar för form och hållbarhet Justerbar huva för personlig komfort Känguruficka för värme och funktion Normal passform för dam med trendig stil för vuxna 🧼 Skötselråd Maskintvätt: 30°C Använd ej blekmedel Torktumla på låg värme Stryk, ånga eller torka med låg värme Ej kemtvätt Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-27T20:16:24Z
+  Updated: 2025-10-28T04:45:47Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -524,14 +524,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/yellow-dark-aesthetics-hoodie-dark-background_1_699c11c9-9323-47e5-8431-64463aa5c81c.png?v=1761596181
     Price: 399,00 kr SEK
 - [Dark Aesthetics musmatta](https://darkaestheticstudio.com/products/dark-aesthetics-musmatta): 🖤 Höj din gamingyta med vår musmatta Den släta ytan ger smidig musrörelse, medan den halkfria gummibasen håller mattan på plats – perfekt för både gaming och jobb. Passar lika bra för gamers, studenter eller dig som bara vill ge skrivbordet en snyggare vibe. En perfekt present till jul, examen eller vilken dag som helst då du vill ge någon (eller dig själv) en fräsch start! ✨ Produktdetaljer Halkfri gummibas för stabilitet Slät yta för enkel musrörelse Slitstarka material: polyester och gummi 🧼 Skötselråd Rengör fläckar med ljummet vatten och diskmedel Undvik att blötlägga hela mattan Använd mjuk borste för svåra fläckar Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-27T20:21:27Z
+  Updated: 2025-10-28T04:45:53Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-mouse-pad-with-computer-setup-dark-aesthetic_9caf0e08-f828-46ff-9bc7-d834735cb6f1.png?v=1761596464
   Price: 399,00 kr SEK
 - [Dark Aesthetic Poker Cards](https://darkaestheticstudio.com/products/dark-aesthetic-poker-cards): 🖤 Sätt personlig prägel på pokerkvällen med våra egna spelkort Ge dina spelkvällar en unik twist med våra pokerkort! Tillverkade av högkvalitativt 300gsm-papper med glansig UV-resistent yta som motstår sprickor och veck – även när insatserna är höga. Varje kortlek innehåller 52 spelkort + 2 jokrar och levereras i en stilren vit ask. ✨ Produktdetaljer Material: 300gsm glansigt papper med UV-beläggning Storlek: 6,4 x 9,4 cm (2,5" x 3,7") Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-27T20:28:45Z
+  Updated: 2025-10-28T04:47:20Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
