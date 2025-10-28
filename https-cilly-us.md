@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-28T08:00:48.888Z
+- Updated At: 2025-10-28T16:01:00.196Z
 
 ## Products
 
@@ -27794,8 +27794,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/03468a92-6f2b-460a-99ff-cd4c9d24ebf9.jpg?v=1760946963
     Price: CHF 24.40 CHF
-- [Hundejacke Teddy - Gefütterte Weste für kleine & mittelgroße Hunde](https://cilly.us/products/teddy-jacket-small-and-medium-sized-dog-thickened-autumn-and-winter-warm-vest): Kuschelige Teddy-Hundejacke für kleine und mittelgroße HundeDiese gefütterte Hundeweste im Teddy-Stil hält Ihren kleinen oder mittelgroßen Hund in der kalten Jahreszeit angenehm warm und kuschelig.Produktvorteile: Teddy-Material: Weich, kuschelig und besonders warm Gefüttert: Extra Wärmeisolierung für Herbst und Winter Für kleine & mittelgroße Hunde: Perfekte Passform für kleinere Rassen Westen-Design: Einfach anzuziehen und bequem zu tragen Leicht und warm: Nur 140g Gewicht bei optimaler Wärmeleistung Pflegeleicht: Einfach zu reinigen Ideal für:Kleine Hunderassen wie Chihuahuas, Yorkshire Terrier, Zwergpudel, mittelgroße Hunde, Herbst- und Winterspaziergänge sowie kalte Tage.Perfekt für die kalte Jahreszeit:Schützen Sie Ihren kleinen Liebling vor Kälte und Wind mit dieser kuscheligen Teddy-Jacke!Warmhalten war noch nie so kuschelig!
-  Updated: 2025-10-21T22:19:51Z
+- [Hundejacke Teddy - Gefütterte Weste für kleine & mittelgroße Hunde](https://cilly.us/products/teddy-jacket-small-and-medium-sized-dog-thickened-autumn-and-winter-warm-vest): Gefütterte Teddy-Hundejacke für kleine und mittelgroße HundeDiese warme gefütterte Hundejacke im Westen-Stil ist perfekt für kleine und mittelgroße Hunde wie Teddys - hält Ihren Hund in Herbst und Winter kuschelig warm.Produktvorteile: Für Teddy-Hunde: Speziell für kleine & mittelgroße Rassen Gefüttert: Extra Wärmeisolierung Westen-Stil: Einfach anzuziehen Warm: Perfekt für Herbst & Winter Bequem: Angenehm zu tragen Leicht: Nur 140g Gewicht Ideal für:Kleine & mittelgroße Hunde, Teddy-Rassen, Herbst, Winter sowie für kalte Tage.Warme Weste für Ihren kleinen Liebling!
+  Updated: 2025-10-28T13:05:02Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -27896,8 +27896,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3843ee0a-7430-4250-8454-97eebc0e8f53.jpg?v=1760947072
     Price: CHF 19.90 CHF
-- [Rasensprenger 3-Arm 360° Drehbar - Automatische Gartenbewässerung](https://cilly.us/products/adjustable-360-degree-3-arm-rotating-sprinklers-grass-lawn-automatic-watering-nozzles-garden-agriculture-irrigation-device): Verstellbarer 3-Arm Rasensprenger mit 360° RotationDieser hochwertige 3-Arm Rasensprenger sorgt für eine gleichmäßige und effiziente Bewässerung Ihres Rasens und Gartens durch seine 360° Rotationsfunktion.Produktvorteile: 360° Rotation: Vollständige Abdeckung für gleichmäßige Bewässerung 3-Arm-Design: Optimale Wasserverteilung über große Flächen Verstellbar: Anpassbare Sprühweite und Wassermenge Automatische Bewässerung: Spart Zeit und Wasser Robust und langlebig: Für den dauerhaften Einsatz im Garten Einfache Installation: Schnell an den Gartenschlauch anschließbar Ideal für:Rasenbewässerung, große Gartenflächen, landwirtschaftliche Bewässerung, Gemüsebeete sowie automatische Bewässerungssysteme.Technische Details:Gewicht: 280g | Verstellbare SprühweiteEffiziente Gartenbewässerung für einen grünen, gesunden Rasen!
-  Updated: 2025-10-21T23:53:11Z
+- [Rasensprenger 3-Arm 360° Drehbar - Automatische Gartenbewässerung](https://cilly.us/products/adjustable-360-degree-3-arm-rotating-sprinklers-grass-lawn-automatic-watering-nozzles-garden-agriculture-irrigation-device): Automatischer 3-Arm Rasensprenger mit 360° DrehungDieser verstellbare 3-Arm Rasensprenger mit 360° Drehung sorgt für gleichmäßige automatische Bewässerung Ihres Rasens und Gartens - perfekt für große Flächen.Produktvorteile: 3 Arme: Gleichmäßige Wasserverteilung 360° Drehbar: Vollständige Abdeckung Verstellbar: Anpassbare Sprühweite Automatisch: Zeitsparende Bewässerung Für Rasen & Garten: Vielseitig einsetzbar Leicht: Nur 280g Gewicht Ideal für:Rasenbewässerung, große Gartenflächen, automatische Bewässerung sowie für Landwirtschaft.Gleichmäßige Bewässerung mit 360° Abdeckung!
+  Updated: 2025-10-28T13:05:22Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -27910,15 +27910,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1620623331884.jpg?v=1760985873
     Price: CHF 18.90 CHF
-- [Rasensprenger Rotierend mit Schmetterlingsform - Gartensprenger](https://cilly.us/products/butterfly-shaped-base-rotating-sprinklers-can-be-connected-in-series-with-sprinklers-garden-sprinklers-and-watering-tools): Rotierender Rasensprenger mit SchmetterlingsformDieser praktische rotierende Rasensprenger mit dekorativem Schmetterlings-Design sorgt für eine gleichmäßige Bewässerung Ihres Gartens und Rasens.Produktvorteile: Rotierende Funktion: Gleichmäßige Wasserverteilung über große Flächen Schmetterlingsform: Attraktives Design, das Ihren Garten verschönert Verkettbar: Mehrere Sprenger können in Serie verbunden werden Robuster Kunststoff: Langlebig und wetterbeständig Einfache Installation: Schnell und unkompliziert anzuschließen Vielseitig einsetzbar: Perfekt für Rasen, Beete und Gartenflächen Technische Details:Material: Kunststoff | Farbe: Blau | Größe: 240 x 190 x 12 mm | Gewicht: 320gIdeal für:Rasenbewässerung, Gartenbewässerung, große Gartenflächen, Gemüsebeete, sowie automatische Bewässerungssysteme.Lieferumfang:1x Rotierender Rasensprenger mit SchmetterlingsformEffiziente Gartenbewässerung mit dekorativem Design!
-  Updated: 2025-10-22T00:27:06Z
+- [Rasensprenger Rotierend Schmetterling - Gartensprenger Bewässerung](https://cilly.us/products/butterfly-shaped-base-rotating-sprinklers-can-be-connected-in-series-with-sprinklers-garden-sprinklers-and-watering-tools): Rotierender Rasensprenger in SchmetterlingsformDieser rotierende Rasensprenger mit Schmetterlingsform kann in Serie verbunden werden - perfekt für effektive Gartenbewässerung und Rasenpflege.Produktvorteile: Schmetterlingsform: Dekoratives Design Rotierend: Gleichmäßige Bewässerung Serienschaltung: Mehrere Sprenger verbindbar Gartensprenger: Für Rasen und Garten Bewässerungswerkzeug: Effektive Wasserverteilung Leicht: Nur 340g Gewicht Ideal für:Rasenbewässerung, Gartenpflege, große Flächen sowie für automatische Bewässerung.Effektive Bewässerung mit Schmetterlings-Design!
+  Updated: 2025-10-28T13:01:08Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1622715534610.jpg?v=1760985978
   Price: CHF 19.90 CHF
-- [Benzin-Gartenfräse Multifunktional - Motorhacke & Rasenmäher](https://cilly.us/products/multifunctional-small-ripper-micro-tiller-gasoline-lawn-mower): Multifunktionale Benzin-Gartenfräse für die BodenbearbeitungDiese kompakte und leistungsstarke Benzin-Gartenfräse ist das perfekte Werkzeug für die Bodenbearbeitung in kleinen bis mittelgroßen Gärten.Produktvorteile: Multifunktional: Kombiniert Bodenfräse, Motorhacke und Rasenmäher-Funktionen Benzinbetrieb: Unabhängig von Stromquellen, flexibel einsetzbar Kompakte Bauweise: Ideal für kleine Gärten und enge Bereiche Leistungsstark: Effiziente Bodenbearbeitung auch bei härteren Böden Vielseitig einsetzbar: Für Umgraben, Lockern, Jäten und Rasenpflege Einfache Handhabung: Benutzerfreundliches Design Ideal für:Kleine bis mittelgroße Gärten, Gemüsebeete vorbereiten, Boden auflockern, Unkraut entfernen, Rasenpflege sowie Gartenpflege und Landschaftsbau.Anwendungsbereiche:Perfekt für Hobbygärtner, die ein zuverlässiges und vielseitiges Gartengerät suchen. Spart Zeit und Kraft bei der Gartenarbeit!Professionelle Bodenbearbeitung für Ihren Garten - kraftvoll und effizient!
-  Updated: 2025-10-21T22:03:59Z
+- [Benzin-Gartenfräse Multifunktional - Motorhacke & Rasenmäher](https://cilly.us/products/multifunctional-small-ripper-micro-tiller-gasoline-lawn-mower): Multifunktionale Benzin-Gartenfräse - Motorhacke und RasenmäherDiese leistungsstarke multifunktionale Benzin-Gartenfräse vereint Motorhacke und Rasenmäher in einem Gerät - perfekt für die professionelle Gartenpflege.Produktvorteile: Multifunktional: Fräse, Hacke und Rasenmäher Benzinbetrieb: Kraftvoll und unabhängig Motorhacke: Lockert Boden effektiv Rasenmäher: Mäht Rasen präzise Für Garten: Professionelle Gartenpflege Robust: 16,75kg für Stabilität Ideal für:Gartenpflege, Bodenbearbeitung, Rasenmähen, große Gärten sowie für professionelle Anwendung.Professionelle Gartenpflege mit einem Gerät!
+  Updated: 2025-10-28T13:01:26Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -28380,8 +28380,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc6b4f1d-9cdd-4f82-8488-72a01d32435a.jpg?v=1761039431
     Price: CHF 14.80 CHF
-- [Dog Cotton Smile Star Small Dog Two-legged Coat](https://cilly.us/products/dog-cotton-smile-star-small-dog-two-legged-coat): Product information: Material: Cotton Product category: two-legged clothes, cotton clothes Style: England Applicable gender: general Color: green, gray Applicable people: pet dog Style: simple Size Information: Size: S, M, L, XL, XXL Precaution: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-23T10:16:15Z
+- [Hundejacke Baumwolle Stern - Zweibeiner-Mantel für kleine Hunde](https://cilly.us/products/dog-cotton-smile-star-small-dog-two-legged-coat): Baumwoll-Hundejacke mit Stern-Motiv für kleine HundeDiese süße Baumwoll-Hundejacke mit Lächel-Stern-Motiv als Zweibeiner-Mantel ist perfekt für kleine Hunde wie Teddys - bequem und niedlich.Produktvorteile: Baumwolle: Natürliches, atmungsaktives Material Stern-Motiv: Süßes Lächel-Stern-Design Zweibeiner-Mantel: Nur Vorderbeine bedeckt Für kleine Hunde: Teddy, Chihuahua, kleine Rassen Bequem: Angenehm zu tragen Leicht: Nur 144g Gewicht Ideal für:Kleine Hunde, Teddy-Hunde, Chihuahua, Zwergpudel sowie für niedliche Hundekleidung.Süße Baumwoll-Jacke mit Stern!
+  Updated: 2025-10-28T13:01:46Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28426,8 +28426,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1584575692017.jpg?v=1761170812
     Price: CHF 16.40 CHF
-- [Dog clothes can be worn on both sides](https://cilly.us/products/dog-clothes-can-be-worn-on-both-sides): Product category: cotton style: Casual Material: Polyester Applicable gender: general
-  Updated: 2025-10-23T10:28:08Z
+- [Wendbare Hundejacke - Beidseitig tragbar für Hunde](https://cilly.us/products/dog-clothes-can-be-worn-on-both-sides): Wendbare Hundejacke - Zwei Looks in einemDiese praktische wendbare Hundejacke kann auf beiden Seiten getragen werden - perfekt für Abwechslung und Vielseitigkeit bei Ihrem Hund.Produktvorteile: Wendbar: Auf beiden Seiten tragbar Zwei Designs: Zwei verschiedene Looks Vielseitig: Mehr Abwechslung für Ihren Hund Für Hunde: Alle Größen verfügbar Praktisch: Wie zwei Jacken in einer Leicht: Nur 270g Gewicht Ideal für:Hunde aller Größen, Spaziergänge, Abwechslung sowie für stilbewusste Hundebesitzer.Zwei Looks in einer Jacke!
+  Updated: 2025-10-28T13:02:05Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28624,15 +28624,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1388387731268.jpg?v=1761171204
     Price: CHF 18.40 CHF
-- [Parent-child Puzzle Pet Bites Plush Doll Radish Doll](https://cilly.us/products/parent-child-puzzle-pet-bites-plush-doll-radish-doll): Product information: Category: plush doll Shape category: plant Filling material: PP cotton Plush classification: short plush Packing list: Plush doll * 1
-  Updated: 2025-10-28T01:38:58Z
+- [Hundespielzeug Plüsch Rettich - Interaktives Kauspielzeug für Hunde](https://cilly.us/products/parent-child-puzzle-pet-bites-plush-doll-radish-doll): Niedliches Plüsch-Hundespielzeug in Rettich-FormDieses süße Plüsch-Hundespielzeug in Rettich-Form ist perfekt für interaktives Spiel und Kauen - fördert die Eltern-Kind-Bindung und beschäftigt Ihren Hund.Produktinformationen: Kategorie: Plüschpuppe Form: Pflanze (Rettich) Füllmaterial: PP-Baumwolle Plüsch: Kurzplüsch Produktvorteile: Plüsch-Rettich: Niedliches Design Interaktiv: Fördert Spiel zwischen Hund und Besitzer Kauspielzeug: Zum Beißen und Kauen Eltern-Kind-Puzzle: Gemeinsames Spielen Weich: Kuschelig und angenehm Robust: 540g für langlebige Qualität Lieferumfang:Plüschpuppe × 1Ideal für:Interaktives Spiel, Kauen, Welpen, kleine Hunde sowie für gemeinsame Spielzeit.Süßes Rettich-Spielzeug für Ihren Hund!
+  Updated: 2025-10-28T13:02:26Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/22753628-6765-4eb8-a619-95d2f468a6bc.jpg?v=1761572332
   Price: CHF 23.50 CHF
-- [New Football Tennis Ball Shaped Pet Dog Toys, Durable Teething Relief To Accompany Outdoor Training Squeak Toys](https://cilly.us/products/new-football-tennis-ball-shaped-pet-dog-toys-durable-teething-relief-to-accompany-outdoor-training-squeak-toys)
-  Updated: 2025-10-28T01:40:35Z
+- [Hundespielzeug Ball Fußball Tennis - Quietschend & Robust](https://cilly.us/products/new-football-tennis-ball-shaped-pet-dog-toys-durable-teething-relief-to-accompany-outdoor-training-squeak-toys): Robuster Hundespielzeug-Ball in Fußball- und Tennisball-FormDieser langlebige Hundespielzeug-Ball in Fußball- und Tennisball-Form mit Quietschfunktion ist perfekt für Zahnpflege, Outdoor-Training und Begleitung - macht Ihrem Hund riesigen Spaß!Produktvorteile: Fußball & Tennis: Zwei beliebte Formen Quietschend: Macht Geräusche für mehr Spaß Robust: Langlebiges Material Zahnpflege: Lindert Zahnungsbeschwerden Outdoor-Training: Perfekt für draußen Leicht: Nur 230g Gewicht Ideal für:Outdoor-Spiel, Training, Zahnpflege, Welpen, aktive Hunde sowie für Apportieren.Quietschender Spaß für Ihren Hund!
+  Updated: 2025-10-28T12:58:16Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28645,8 +28645,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/a4a3e666-b115-4e21-98cd-482baed59a80.jpg?v=1761572441
     Price: CHF 16.80 CHF
-- [Cord Teether Bends And Hitches Bite-resistant Tug-of-war Woven Bends And Hitches Interactive Relieving Stuffy Pet Toy](https://cilly.us/products/cord-teether-bends-and-hitches-bite-resistant-tug-of-war-woven-bends-and-hitches-interactive-relieving-stuffy-pet-toy): Product information: Color: green, orange, blue Material: Polyester Category: Pet Toys Packing size: Green: 24*12 * 8CM Orange: 24*13 * 7CM Blue: 22.5*13 * 9CM Packing list: Toy x 1pc Product Image:
-  Updated: 2025-10-28T01:43:46Z
+- [Hundespielzeug Kauspielzeug Seil - Bissfest Tauziehen Interaktiv](https://cilly.us/products/cord-teether-bends-and-hitches-bite-resistant-tug-of-war-woven-bends-and-hitches-interactive-relieving-stuffy-pet-toy): Robustes Kauspielzeug-Seil für HundeDieses bissfeste Kauspielzeug-Seil ist perfekt für Tauziehen und interaktives Spiel - lindert Langeweile und fördert die Zahngesundheit Ihres Hundes.Produktvorteile: Bissfest: Robustes Material hält Kauen stand Tauziehen: Perfekt für interaktives Spiel Geflochten: Stabile Knotenstruktur Interaktiv: Fördert Bindung zwischen Hund und Besitzer Gegen Langeweile: Beschäftigt Ihren Hund Zahnreinigung: Massiert Zahnfleisch beim Kauen Ideal für:Tauziehen, Kauen, interaktives Spiel, Zahnpflege sowie für aktive Hunde.Robustes Spielzeug für stundenlangen Spaß!
+  Updated: 2025-10-28T12:58:36Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28663,8 +28663,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d560d430-c181-4111-a055-50700ee529ae.jpg?v=1761572627
     Price: CHF 12.20 CHF
-- [Automatic Telescopic Traction Rope Pet Products](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products): Product Information: Product Category: Traction Belt Packing size: 23*16*5cm Material: shell ABS, inner core nylon Net weight: 423g Color: dream black, pear white, Chinese red, apple green, dynamic yellow, crystal purple Features: free expansion, flexible control, green and safe Specification: L-5m flat belt (single weight 424g) L-8m round rope (single weight 430g)
-  Updated: 2025-10-28T07:44:26Z
+- [Automatische Teleskop-Hundeleine - Einziehbare Rollleine für Hunde](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products): Automatische Teleskop-Hundeleine für HundeDiese praktische automatische Teleskop-Hundeleine mit einziehbarem Mechanismus bietet maximale Bewegungsfreiheit und Kontrolle - perfekt für entspannte Spaziergänge.Produktvorteile: Automatisch: Selbsteinziehender Mechanismus Teleskop-Funktion: Ausziehbar bis mehrere Meter Einziehbar: Einfache Handhabung Für Hunde: Alle Größen Kontrolle: Stopp-Taste für sofortigen Halt Leicht: Nur 444g Gewicht Ideal für:Spaziergänge, Training, Hunde aller Größen sowie für komfortable Führung mit Bewegungsfreiheit.Bewegungsfreiheit mit voller Kontrolle!
+  Updated: 2025-10-28T12:58:54Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28725,15 +28725,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786224.jpg?v=1761594259
     Price: CHF 15.40 CHF
-- [Cute King Star Retractable Pet Leash Dog Leash Dog Chain Leash Collar Amazon Hot](https://cilly.us/products/cute-king-star-retractable-pet-leash-dog-leash-dog-chain-leash-collar-amazon-hot): Product information: Material: ABS Product category: Traction belt Scalable: Yes Color: cherry pink, neutral gray Retractable pet leash dog leash dog chain leash collar
-  Updated: 2025-10-28T07:46:17Z
+- [Einziehbare Hundeleine Stern-Design - Automatische Rollleine süß](https://cilly.us/products/cute-king-star-retractable-pet-leash-dog-leash-dog-chain-leash-collar-amazon-hot): Süße einziehbare Hundeleine mit Stern-DesignDiese niedliche einziehbare Hundeleine mit King Star Design ist automatisch und bietet Ihrem Hund Bewegungsfreiheit - perfekt für stilvolle Spaziergänge.Produktinformationen: Material: ABS (robust und langlebig) Produktkategorie: Einziehbare Leine Einziehbar: Ja, automatischer Mechanismus Farben: Kirschrosa, Neutralgrau Produktvorteile: Einziehbar: Automatischer Rückzug Süßes Design: King Star Muster ABS-Material: Robust und langlebig Bewegungsfreiheit: Für entspannte Spaziergänge Leicht: Nur 471g Gewicht Farbauswahl: Rosa oder Grau Ideal für:Spaziergänge, Hunde aller Größen, stilvolle Hundebesitzer sowie für komfortable Führung.Süße Leine mit praktischer Funktion!
+  Updated: 2025-10-28T12:59:13Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613459759467.jpg?v=1761594372
   Price: CHF 38.90 CHF
-- [Five-piece pet cleaning supplies](https://cilly.us/products/five-piece-pet-cleaning-supplies): Material: ABS Product Category: Comb brush Color: blue, pink Products: nail clippers, automatic shrink traction rope, single-row long and short needle steel comb, open knot blade comb, pet grooming soft bottom fluffy comb Storing the storage box, there are three places for carrying handles, you can carry it as you like!
-  Updated: 2025-10-28T07:47:47Z
+- [Haustier-Reinigungsset 5-teilig - Fellpflege & Hygiene für Hunde & Katzen](https://cilly.us/products/five-piece-pet-cleaning-supplies): Komplettes 5-teiliges Haustier-ReinigungssetDieses umfassende 5-teilige Reinigungsset enthält alles, was Sie für die Fellpflege und Hygiene Ihres Haustiers benötigen - perfekt für Hunde und Katzen.Produktvorteile: 5-teiliges Set: Komplette Ausstattung für die Pflege Fellpflege: Bürsten, Kämme und mehr Hygiene: Für saubere und gesunde Haustiere Für Hunde & Katzen: Vielseitig einsetzbar Komplett: Alles in einem Set Robust: 900g für langlebige Qualität Ideal für:Fellpflege, Hygiene, Hunde, Katzen, regelmäßige Pflege sowie für gepflegte Haustiere.Komplette Pflege für Ihr Haustier!
+  Updated: 2025-10-28T12:59:33Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28746,8 +28746,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2307342388231.jpg?v=1761594471
     Price: CHF 38.90 CHF
-- [Pet automatic leash](https://cilly.us/products/pet-automatic-leash): Specifications: Giving your dog a very good range and freedom of movement. This leash is perfect for small and medium pets. One-handed braking and locking system stops pet from advancing. Retractable style design, the leash can auto stretch out and draw back. Push-button stop with lock. Big handle for easy gripping, even with mittens or gloves. Item Name: Lead Leash Material: Nylon Length: 5m Notes: Due to the light and screen setting difference, the item's color may be slightly different from the pictures. Please allow slight dimension difference due to different manual measurement. Package Included: 1 x Lead Leash
-  Updated: 2025-10-28T07:49:14Z
+- [Automatische Hundeleine - Einziehbare Rollleine für Hunde](https://cilly.us/products/pet-automatic-leash): Automatische einziehbare HundeleineDiese praktische automatische Hundeleine mit einziehbarem Mechanismus bietet Ihrem Hund Bewegungsfreiheit und Ihnen volle Kontrolle - perfekt für entspannte Spaziergänge.Produktvorteile: Automatisch: Einziehbarer Mechanismus Einziehbar: Bis zu mehrere Meter Länge Kontrolle: Einfache Handhabung Für Hunde: Alle Größen Bequem: Ergonomischer Griff Leicht: Nur 231g Gewicht Ideal für:Spaziergänge, Training, Hunde aller Größen sowie für komfortable Führung.Bewegungsfreiheit mit voller Kontrolle!
+  Updated: 2025-10-28T12:55:29Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28776,8 +28776,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1681560864726.jpg?v=1761594543
     Price: CHF 10.50 CHF
-- [Kitchen Pot](https://cilly.us/products/kitchen-pot): [Name] deep fryer. [Material] pot body: 304 stainless steel [Specification] 20m [Applicable number] 1-2 people [Process] perfusion process [Note] This product is a special fryer, not recommended for cooking stew or stir-frying! Size：M：20*8cm L: 24*8cm Color：Sliver Material: Iron As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1. Removable oil drain. Stainless steel drain rack, side fried It's simple and convenient! 2.Beak diversion Easy to pour oil after frying, no need Worried about hanging oil during dumping! 3. Intimate thermometer Control the oil temperature of different foods Avoid frying or unheated inside
-  Updated: 2025-10-28T07:54:49Z
+- [Küchentopf - Hochwertiger Kochtopf für die Küche](https://cilly.us/products/kitchen-pot): Hochwertiger Küchentopf für vielseitiges KochenDieser hochwertige Küchentopf ist perfekt für alle Kocharbeiten - robust, langlebig und ideal für die tägliche Nutzung in Ihrer Küche.Produktvorteile: Hochwertig: Langlebiges Material Vielseitig: Für alle Herdarten geeignet Robust: 1560g für Stabilität Größe: 20x8cm - praktische Größe Für Küche: Täglicher Gebrauch Silber: Klassisches Design Ideal für:Kochen, Suppen, Eintöpfe, Saucen sowie für die tägliche Küche.Robuster Topf für Ihre Küche!
+  Updated: 2025-10-28T12:55:47Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28790,8 +28790,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/639243408562.jpg?v=1761594892
     Price: CHF 37.80 CHF
-- [5 Speeds 500W High Power Electric Food Mixer Hand Blender Dough Blender Egg Beater Hand Mixer For Kitchen 220V](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v): Overview: Whips,folds,blender, creams and mixes 5 speed control Turbo function with safety device: turbo function only works when the appliance is functioning Mixer hooks Beater hooks Easy beaters removal and clean 220-240V~ 50/60Hz 500W Specification: Voltage : 220-240V/50-60Hz Power : 500W Packing Size: 210*105*170mm Package Content: 1 x Food Mixer
-  Updated: 2025-10-28T07:56:22Z
+- [Elektrischer Handmixer 500W - 5 Stufen Teigmixer Schneebesen](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v): Leistungsstarker elektrischer Handmixer 500W mit 5 GeschwindigkeitsstufenDieser kraftvolle 500W elektrische Handmixer mit 5 Geschwindigkeitsstufen ist perfekt für Teig, Eiweiß und alle Backarbeiten - professionelle Ergebnisse für Ihre Küche.Produktvorteile: 500W Leistung: Kraftvoll für alle Teigarten 5 Geschwindigkeitsstufen: Präzise Kontrolle Multifunktional: Teig, Eiweiß, Sahne Handmixer: Kompakt und handlich Für Küche: Professionelle Backergebnisse 220V: Standard-Anschluss Ideal für:Backen, Teig kneten, Eiweiß schlagen, Sahne schlagen sowie für Hobby-Bäcker.Professionelle Backergebnisse mit 500W Power!
+  Updated: 2025-10-28T12:56:06Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28804,8 +28804,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732_b5ed6b30-f38a-463e-b630-8ce180582b7a.jpg?v=1761594982
     Price: CHF 36.10 CHF
-- [Medical Stone Non-stick Three-in-one Multi-function Omelette Pan](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan): Product information: Material: Aluminum Function: frying Features: Non-stick pan Bottom material: double bottom Color: 3-in-1 Black Breakfast Pan Applicable to common stoves：induction cookers, gas stoves Depth: 4.5cm Packing List： Non-stick pan*1
-  Updated: 2025-10-28T07:58:51Z
+- [Omelette-Pfanne 3-in-1 - Antihaft Medical Stone Multifunktional](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan): Multifunktionale 3-in-1 Omelette-Pfanne mit Medical Stone BeschichtungDiese vielseitige 3-in-1 Omelette-Pfanne mit hochwertiger Medical Stone Antihaft-Beschichtung ist perfekt für Omeletts, Pfannkuchen und mehr - gesund kochen ohne Ankleben.Produktvorteile: Medical Stone: Hochwertige Antihaft-Beschichtung 3-in-1: Drei Kochflächen gleichzeitig Multifunktional: Omeletts, Pfannkuchen, Spiegeleier Antihaft: Einfaches Kochen ohne Ankleben Gesund: Weniger Öl benötigt Leicht zu reinigen: Schnelle Reinigung Ideal für:Frühstück, Omeletts, Pfannkuchen, schnelle Mahlzeiten sowie für gesundes Kochen.Drei Gerichte gleichzeitig zubereiten!
+  Updated: 2025-10-28T12:56:25Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28818,8 +28818,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/03430efd-8f59-4a11-b781-017914be86bf_trans.jpg?v=1761595129
     Price: CHF 33.60 CHF
-- [Kitchen Heatable Food Hood Insulation](https://cilly.us/products/kitchen-heatable-food-hood-insulation): Product information: Material: PP Size: three layers, four layers, five layers Specifications: ordinary, heightened Style: modern minimalist Packing list: Rice cover *3 layers/*4 layers/*5 layers
-  Updated: 2025-10-27T20:03:17Z
+- [Küchen-Speiseabdeckung - Warmhaltehaube für Essen](https://cilly.us/products/kitchen-heatable-food-hood-insulation): Küchen-Speiseabdeckung zum WarmhaltenDiese praktische Küchen-Speiseabdeckung hält Ihre Speisen warm und frisch - perfekt für Buffets, Partys und den täglichen Gebrauch.Produktinformationen: Material: PP (Polypropylen) Größen: 3 Schichten, 4 Schichten, 5 Schichten Ausführungen: Normal, erhöht Stil: Modern minimalistisch Produktvorteile: Warmhaltend: Hält Speisen länger warm Mehrschichtig: 3, 4 oder 5 Schichten verfügbar Erhöhte Version: Für größere Speisen Hygienisch: Schützt vor Staub und Insekten Stapelbar: Platzsparende Aufbewahrung Ideal für:Buffets, Partys, Familienessen, Warmhalten von Speisen sowie für hygienische Aufbewahrung.Halten Sie Ihre Speisen warm und frisch!
+  Updated: 2025-10-28T12:56:44Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28848,8 +28848,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/57f62ae4-a636-4490-8a11-ac20d3f3a49c.jpg?v=1761595266
     Price: CHF 10.60 CHF
-- [Teddy dog clothes](https://cilly.us/products/teddy-dog-clothes): Material: Cotton Whether to import: No Product category: cotton clothes style: Casual Applicable gender: general Color: yellow, gray, green Size: S, M, L, XL, XXL S chest 32cm / 12.58 \' length 20cm / 7.87 \' neck 23cm / 9.06 \' M chest 37cm / 14.56 \' length 25cm / 9.84 \' neck 26cm / 10.24 \' L chest 42cm / 16.53 \' length 30cm / 11.81 \' neck 29cm / 11.42 \' XL chest 47cm / 18.50 \' length 35cm / 13.77 \' neck 32cm / 12.6 \' XXL chest 52cm / 20.47 \' length 40cm / 15.74 \' neck 35cm / 13.78 \' 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-28T00:11:52Z
+- [Teddy Hundekleidung - Kuschelige Kleidung für kleine Hunde](https://cilly.us/products/teddy-dog-clothes): Kuschelige Teddy-Hundekleidung für kleine HundeDiese kuschelige Teddy-Hundekleidung ist perfekt für kleine Hunde wie Teddys - weich, warm und bequem für Ihre kleinen Lieblinge.Produktvorteile: Für Teddy-Hunde: Speziell für kleine Rassen Kuschelig: Weicher Teddy-Stoff Warm: Hält kleine Hunde warm Bequem: Angenehm zu tragen Für kleine Hunde: Perfekte Passform Leicht: Nur 173g Gewicht Ideal für:Teddy-Hunde, kleine Hunderassen, Chihuahua, Zwergpudel sowie für kuschelige Wärme.Kuschelige Kleidung für kleine Hunde!
+  Updated: 2025-10-28T12:52:41Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28914,8 +28914,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
     Price: CHF 16.40 CHF
-- [Pet  light and warm cotton clothing](https://cilly.us/products/pet-light-and-warm-cotton-clothing): Material: Cotton size/cm XS S M L XL bust 29 33 38 42 46 length 20 24 29 33 38 1. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-28T00:11:53Z
+- [Hundekleidung Baumwolle - Leicht & Warm für Hunde](https://cilly.us/products/pet-light-and-warm-cotton-clothing): Leichte und warme Baumwoll-HundekleidungDiese leichte und warme Hundekleidung aus Baumwolle ist perfekt für Haustiere - bequem und atmungsaktiv für das ganze Jahr.Produktvorteile: Baumwolle: Natürliches, atmungsaktives Material Leicht: Nur 110g - nicht einengend Warm: Hält angenehm warm Für Haustiere: Speziell für Hunde entwickelt Bequem: Angenehm zu tragen Pflegeleicht: Einfach zu waschen Ideal für:Hunde, Übergangszeit, leichte Wärme, tägliche Nutzung sowie für empfindliche Hunde.Leichter Komfort aus Baumwolle!
+  Updated: 2025-10-28T12:52:59Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28980,8 +28980,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
     Price: CHF 18.20 CHF
-- [Pet Clothes For Autumn And Winter Warm Dog Clothes For Winter](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter): Product information: Material cloth Product category: Cotton style: Casual Color: black, khaki Size: S (90g), M (115g), L (135g), XL (165g) Packaging Information: Pet clothes 2x1 Size（cm） Bust Neck Back length S 45 34 25 M 55 36 30 L 60 40 35 XL 65 44 40
-  Updated: 2025-10-28T00:11:52Z
+- [Hundekleidung Herbst Winter - Warme Hundejacke für kalte Tage](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter): Warme Hundekleidung für Herbst und WinterDiese warme Hundekleidung für Herbst und Winter hält Ihren Hund an kalten Tagen kuschelig warm - perfekt für die kalte Jahreszeit.Produktvorteile: Für Herbst & Winter: Perfekt für kalte Tage Warm: Hält Ihren Hund kuschelig Hundekleidung: Speziell für Hunde entwickelt Bequem: Angenehm zu tragen Schützend: Schutz vor Kälte Leicht: Nur 175g Gewicht Ideal für:Herbst, Winter, kalte Tage, Hunde mit kurzem Fell sowie für Spaziergänge bei Kälte.Warm und geschützt durch Herbst und Winter!
+  Updated: 2025-10-28T12:53:19Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29018,15 +29018,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3545f48b-68d5-4105-985d-e9151f9a7460.jpg?v=1761607731
     Price: CHF 19.20 CHF
-- [Pet Chest Harness  Dog Leash  Pet Supplies](https://cilly.us/products/pet-chest-harness-dog-leash-pet-supplies): Product information: Material: Nylon Category: Chest strap Scalable or not: Yes Color: blue, black, red, purple, orange, green, rose red, pink, five-pointed star, Tang suit red, Tang suit blue, Tang suit yellow, 1.2m ordinary traction rope black, 1.5m climbing rope black, 1.2m eight-strand rope black, 1.5m spring traction rope black, 1.5m reflective round rope black, camouflage rose red, camouflage white, camouflage green, camouflage blue, camouflage red, graffiti blue, graffiti black, graffiti red, beige, beige Specifications (length * width): baby1, baby2, XS, S, M, L, XL, XXL Size Information: Size: baby1, baby2, XS, S, M, L, XL, XXL Package: Towing rope x1
-  Updated: 2025-10-28T00:11:51Z
+- [Hundegeschirr mit Leine - Brustgeschirr für Hunde](https://cilly.us/products/pet-chest-harness-dog-leash-pet-supplies): Hundegeschirr mit Leine - BrustgeschirrDieses praktische Hundegeschirr mit Leine als Brustgeschirr ist perfekt für Hunde - bequem und sicher für tägliche Spaziergänge.Produktvorteile: Brustgeschirr: Schont Hals und Rücken Mit Leine: Komplettes Set Für Hunde: Alle Größen Bequem: Angenehm zu tragen Sicher: Zuverlässiger Halt Leicht: Nur 260g Gewicht Ideal für:Hunde, Spaziergänge, Training, tägliche Nutzung sowie für bequeme Führung.Bequemes Brustgeschirr für Ihren Hund!
+  Updated: 2025-10-28T12:53:38Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/12bbc038-063a-46be-9ebb-8dbe9fef978e_DIY_Purple.jpg?v=1761607857
   Price: CHF 15.40 CHF
-- [Personalized Reflective Breathable Adjustable Dog Harness and Leash Set](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set): Harness Specification: Material: Nylon Product Category: Chest strap Can it be stretched: unit：cm Dog chest range Size Adjustable bust/cm The wight of dog/kg XS 36-50 3.5-7.5 S 50-60 7-13 M 55-65 12-23 L 65-80 23-29 XL 70-90 28-40 XXL 90-120 40-80 Leash Specification： Length: 1.5M*1.2cm(diametre) Material: polyester
-  Updated: 2025-10-28T00:11:54Z
+- [Hundegeschirr Set reflektierend - Atmungsaktiv verstellbar mit Leine](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set): Reflektierendes Hundegeschirr-Set mit LeineDieses personalisierte reflektierende Hundegeschirr-Set mit Leine ist atmungsaktiv und verstellbar - perfekt für sichere Spaziergänge bei Tag und Nacht.Produktvorteile: Reflektierend: Maximale Sichtbarkeit bei Dunkelheit Atmungsaktiv: Gute Luftzirkulation für Komfort Verstellbar: Passt sich perfekt an Mit Leine: Komplettes Set Personalisierbar: Individuell anpassbar Robust: 445g für Stabilität Ideal für:Hunde aller Größen, Spaziergänge, Training, Abendspaziergänge sowie für sichere Führung.Sicheres und bequemes Geschirr-Set!
+  Updated: 2025-10-28T12:53:56Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29199,8 +29199,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
     Price: CHF 18.10 CHF
-- [Medium And Large Dog Pet Chest Harness Breathable Reflective Vest-style Vest Dog Harness Big Dog Chest Harness Explosion-proof Customized](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized): Product information: Product Name: pet chest strap breathable reflective Product category: chest strap Color: black, red, green Size information: Bust can be adjusted weight reference (kg) M 45-65CM 10-25 L 55-75CM 25-40 XL 65-90CM 40-75 XXL 75-105CM 75-120 Packing list: Chest strap x1
-  Updated: 2025-10-27T23:36:45Z
+- [Hundegeschirr große Hunde - Reflektierend Atmungsaktiv Weste](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized): Reflektierendes Hundegeschirr für große HundeDieses atmungsaktive Hundegeschirr im Westen-Stil mit reflektierenden Elementen ist perfekt für mittelgroße und große Hunde - ausbruchsicher und bequem.Produktvorteile: Für große Hunde: Speziell für mittelgroße und große Rassen Reflektierend: Sichtbarkeit bei Dunkelheit Atmungsaktiv: Gute Luftzirkulation Westen-Stil: Bequeme Passform Ausbruchsicher: Sicherer Halt Leicht: Nur 305g Gewicht Ideal für:Große Hunde, mittelgroße Hunde, Spaziergänge, Training sowie für sichere Führung.Sicheres und bequemes Geschirr für große Hunde!
+  Updated: 2025-10-28T12:50:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29253,6 +29253,106 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60e7f7a2-3e92-4bf2-924f-cd3040b1405d.jpg?v=1761608093
     Price: CHF 17.80 CHF
+- [Frühstücksmaschine 3-in-1 - Sandwichmaker Waffeleisen Eierkocher](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine): Multifunktionale 3-in-1 FrühstücksmaschineDiese vielseitige Frühstücksmaschine vereint Sandwichmaker, Waffeleisen und Eierkocher in einem Gerät - perfekt für ein komplettes Frühstück.Produktvorteile: 3-in-1: Sandwichmaker, Waffeleisen, Eierkocher Multifunktional: Vielseitig einsetzbar Für Frühstück: Komplettes Frühstück in einem Gerät Hamburger-Maker: Auch für Burger geeignet Haushalt: Perfekt für die Küche Kompakt: Platzsparend trotz 3 Funktionen Ideal für:Frühstück, Sandwiches, Waffeln, Eier, Burger sowie für schnelle Mahlzeiten.Komplettes Frühstück mit nur einem Gerät!
+  Updated: 2025-10-28T12:50:20Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/a4f56283-4ade-49c1-9a4d-e15aaf4867b4.jpg?v=1761654946
+  - [Bright Red / AU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234466133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/959e4933-145c-4343-89bd-e63e34486573.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Bright Red / EU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234498901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/959e4933-145c-4343-89bd-e63e34486573.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Bright Red / UK](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234531669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/959e4933-145c-4343-89bd-e63e34486573.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Bright Red / US](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234564437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/959e4933-145c-4343-89bd-e63e34486573.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Orange / AU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234597205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8aef546d-131a-45ba-b000-900ee7d322fb.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Orange / EU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234629973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8aef546d-131a-45ba-b000-900ee7d322fb.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Orange / UK](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234662741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8aef546d-131a-45ba-b000-900ee7d322fb.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Orange / US](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234695509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8aef546d-131a-45ba-b000-900ee7d322fb.jpg?v=1761654954
+    Price: CHF 46.20 CHF
+  - [Silver Gray / AU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234728277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1a9bf753-182a-4613-85f8-e9844dea052c.jpg?v=1761654953
+    Price: CHF 46.20 CHF
+  - [Silver Gray / EU](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234761045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1a9bf753-182a-4613-85f8-e9844dea052c.jpg?v=1761654953
+    Price: CHF 46.20 CHF
+  - [Silver Gray / UK](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234793813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1a9bf753-182a-4613-85f8-e9844dea052c.jpg?v=1761654953
+    Price: CHF 46.20 CHF
+  - [Silver Gray / US](https://cilly.us/products/household-breakfast-machine-hamburg-sandwich-maker-with-egg-cooker-ring-machine-bread-sandwich-machine-waffle-machine?variant=51791234826581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1a9bf753-182a-4613-85f8-e9844dea052c.jpg?v=1761654953
+    Price: CHF 46.20 CHF
+- [Saugroboter - Automatischer Staubsauger-Roboter 150㎡](https://cilly.us/products/robot-aspirateur): Automatischer Saugroboter für mühelose ReinigungDieser intelligente Saugroboter reinigt automatisch bis zu 150㎡ mit 60 Minuten Laufzeit - perfekt für moderne Haushalte.Technische Daten: Produktgröße: 27,8 x 27,8 x 6,8 cm Akku: 3,7V 2000mAH Lithium Laufzeit: ca. 60 Minuten Ladezeit: ca. 4 Stunden Reinigungsfläche: 150㎡ Saugkraft: ca. 1500PA Staubbehälter: ca. 600ML Geräuschpegel: <55 Dezibel Lebensdauer: >2 Jahre Ideal für:Wohnungen, Häuser, Büros, tägliche Reinigung sowie für zeitsparende Bodenreinigung.Automatische Reinigung für ein sauberes Zuhause!
+  Updated: 2025-10-28T13:10:36Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1647446060813.jpg?v=1761655045
+  - [Black](https://cilly.us/products/robot-aspirateur?variant=51791239414101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1647446060813_59226e66-4f44-49f8-a625-73a7e64a0d3c.jpg?v=1761655057
+    Price: CHF 56.90 CHF
+  - [White](https://cilly.us/products/robot-aspirateur?variant=51791239446869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2259985042375.jpg?v=1761655057
+    Price: CHF 58.90 CHF
+- [Elektrischer Handmixer Kabellos - Schneebesen für Backen & Kuchen](https://cilly.us/products/hand-held-electric-whisk-household-baking-cake-egg-white-whisk-small-straight-handle-whisk-wireless-whisk): Kabelloser elektrischer Handmixer für BackenDieser praktische kabellose elektrische Handmixer mit geradem Griff ist perfekt für Backen, Kuchen und Eiweiß - kompakt und handlich für die Küche.Produktvorteile: Kabellos: Maximale Bewegungsfreiheit Elektrisch: Müheloses Mixen und Schlagen Für Backen: Kuchen, Eiweiß, Teig Kompakt: Kleiner gerader Griff Haushalt: Perfekt für die Küche Leicht: Nur 360g Gewicht Ideal für:Backen, Kuchen, Eiweiß schlagen, Teig mischen sowie für Hobby-Bäcker.Müheloses Backen mit kabelloser Freiheit!
+  Updated: 2025-10-28T12:50:56Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/81fb448a-19fd-41f6-8967-4729a8474c79.jpg?v=1761655192
+  - [Black](https://cilly.us/products/hand-held-electric-whisk-household-baking-cake-egg-white-whisk-small-straight-handle-whisk-wireless-whisk?variant=51791242756437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ce27e9a7-68b6-4b2d-8116-566c15e172c0.jpg?v=1761655204
+    Price: CHF 19.90 CHF
+  - [Pink](https://cilly.us/products/hand-held-electric-whisk-household-baking-cake-egg-white-whisk-small-straight-handle-whisk-wireless-whisk?variant=51791242789205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14a74bf9-702b-49bb-9137-d5a2e85b7d50.jpg?v=1761655204
+    Price: CHF 19.90 CHF
+  - [White](https://cilly.us/products/hand-held-electric-whisk-household-baking-cake-egg-white-whisk-small-straight-handle-whisk-wireless-whisk?variant=51791242821973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/94f7ad66-0702-4f53-ad49-5c4bbfbc0a7d.jpg?v=1761655204
+    Price: CHF 19.90 CHF
+- [Wohnmobil Dunstabzugshaube - Mini Abzugshaube für Wohnwagen-Küche](https://cilly.us/products/modification-accessories-trailer-kitchen-range-hood-iveco-quanshun-b-type-rv-mini-range-hood): Kompakte Dunstabzugshaube für Wohnmobil und WohnwagenDiese platzsparende Mini-Dunstabzugshaube ist speziell für Wohnmobile, Wohnwagen und Trailer entwickelt - perfekt für die kompakte Küche unterwegs.Produktvorteile: Kompakt: Speziell für kleine Wohnmobil-Küchen Effektiv: Entfernt Kochdämpfe und Gerüche Leicht zu installieren: Einfache Montage Für Wohnmobile: Iveco, Quanshun B-Type RV Platzsparend: Minimales Design Robust: 3420g für Stabilität Ideal für:Wohnmobile, Wohnwagen, Trailer, Camping-Küchen sowie für mobile Küchenlösungen.Frische Luft in Ihrem Wohnmobil!
+  Updated: 2025-10-28T12:51:14Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b36084e3-6ea9-4bd7-b6f1-46e90b1cc347.jpg?v=1761655405
+  - [Large Range Hood 0100404](https://cilly.us/products/modification-accessories-trailer-kitchen-range-hood-iveco-quanshun-b-type-rv-mini-range-hood?variant=51791255175509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8aec8db9-64b6-4243-9630-af00729a6945.jpg?v=1761655412
+    Price: CHF 158.20 CHF
+  - [Small Range Hood 0100403](https://cilly.us/products/modification-accessories-trailer-kitchen-range-hood-iveco-quanshun-b-type-rv-mini-range-hood?variant=51791255208277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7092598a-80b7-486d-9fa6-b54dcd42d260.jpg?v=1761655412
+    Price: CHF 132.50 CHF
 
 ## Collections
 
@@ -29260,10 +29360,10 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-27T23:38:11Z
+  Updated: 2025-10-28T13:02:27Z
   Total Products: 364
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-10-27T23:38:11Z
+  Updated: 2025-10-28T13:02:27Z
   Total Products: 415
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-27T09:17:37Z
@@ -29278,10 +29378,10 @@
   Updated: 2025-10-21T19:26:26Z
   Total Products: 54
 - [Garten | Gartenmöbel, Geräte & Zubehör online kaufen](https://cilly.us/collections/garten): Sichere dir Gartenmöbel, Geräte & Helfer für Terrasse, Balkon & Gartenarbeit. Alles für dein Outdoor-Paradies findest du bei Alles für deine Haustiere.
-  Updated: 2025-10-21T11:37:34Z
+  Updated: 2025-10-28T13:01:09Z
   Total Products: 34
 - [Gartenwerkzeug | Gartengeräte & Gartenhelfer online](https://cilly.us/collections/gartenwerkzeug): Profitiere von günstigen Gartenwerkzeugen. Schaufeln, Hacken, Gartenscheren & mehr. Alles für deinen Garten bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-21T11:37:34Z
+  Updated: 2025-10-28T13:01:09Z
   Total Products: 34
 - [Gartenmöbel | Stühle, Tische & Loungemöbel online](https://cilly.us/collections/gartenmobel): Entdecke Gartenmöbel für Terrasse & Balkon – Stühle, Tische, Loungemöbel & mehr. Alles für dein Outdoor-Wohnzimmer bei Alles für deine Haustiere online kaufen.
   Updated: 2025-10-21T11:37:34Z
@@ -29290,14 +29390,14 @@
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
 - [Küche | Küchenbedarf, Küchengeräte & Zubehör online](https://cilly.us/collections/kuche): Hol dir alles für deine Küche: Küchenhelfer, Küchengeräte, Utensilien & Zubehör. Jetzt bei Alles für deine Haustiere – sicher, einfach & schnell online kaufen.
-  Updated: 2025-10-27T20:03:12Z
-  Total Products: 87
+  Updated: 2025-10-28T12:56:45Z
+  Total Products: 91
 - [Küchengeräte | Elektrogeräte & Küchenmaschinen online](https://cilly.us/collections/kuchengerate): Hol dir Küchengeräte für jede Küche: Mixer, Toaster, Kaffeemaschinen & mehr. Große Auswahl bei Alles für deine Haustiere – schnell & sicher online bestellen.
-  Updated: 2025-10-27T20:03:12Z
-  Total Products: 62
+  Updated: 2025-10-28T12:56:45Z
+  Total Products: 66
 - [Küchenbedarf | Küchenzubehör & Küchenhelfer online](https://cilly.us/collections/kuchenbedarf): Bei Alles für deine Haustiere findest du günstigen Küchenbedarf, Utensilien & Kochzubehör für jeden Haushalt. Qualität günstig online kaufen & genießen.
-  Updated: 2025-10-27T20:03:12Z
-  Total Products: 81
+  Updated: 2025-10-28T12:56:45Z
+  Total Products: 85
 - [Haushalt](https://cilly.us/collections/haushalt)
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
@@ -29341,19 +29441,19 @@
   Updated: 2025-09-27T01:46:43Z
   Total Products: 2
 - [Hundeleine](https://cilly.us/collections/hundeleine)
-  Updated: 2025-10-27T19:50:57Z
+  Updated: 2025-10-28T12:59:35Z
   Total Products: 47
 - [Halsband](https://cilly.us/collections/hundehalsband-hundegeschirr)
-  Updated: 2025-10-27T23:37:16Z
+  Updated: 2025-10-28T12:53:57Z
   Total Products: 116
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
-  Updated: 2025-10-27T13:45:26Z
+  Updated: 2025-10-28T13:02:27Z
   Total Products: 52
 - [Hundebett](https://cilly.us/collections/hundebett)
   Updated: 2025-10-27T09:17:37Z
   Total Products: 47
 - [Hundekleider](https://cilly.us/collections/hundekleider)
-  Updated: 2025-10-27T23:38:11Z
+  Updated: 2025-10-28T13:02:06Z
   Total Products: 25
 - [Hundefutter](https://cilly.us/collections/hundefutter)
   Updated: 2025-09-27T15:04:36Z
