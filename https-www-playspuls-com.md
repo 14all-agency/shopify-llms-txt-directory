@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-28T08:00:51.740Z
+- Updated At: 2025-10-28T16:00:54.776Z
 
 ## Products
 
@@ -60,25 +60,25 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3_8b776c10-68a1-4f1d-9ad6-14063f681a2f.jpg?v=1761355286
   Price: $199.99 USD
 - [Labubu Monster -Vinyl face Mysterious Single Blind box - PlaysPuls](https://www.playspuls.com/products/labubu-monster-an-exciting-macaron-vinyl-face-mysterious-single-blind-box): The Exciting Macaron Blind Box series brings pastel character art and food-themed storytelling to your figure collection. Styled after dessert flavors and dressed in bunny-hooded outfits, these figures are designed for display collectors, pastel enthusiasts, and art toy fans. From Lychee Berry to Sea Salt Coconut, every figure combines confectionery concepts with creative styling. Crafted from ABS and PVC, each character offers sculpted details and expressive faces printed on glossy vinyl. - PlaysPuls
-  Updated: 2025-10-25T08:29:40Z
+  Updated: 2025-10-28T09:03:56Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_677ad770-a6d8-4f58-bf7d-f3e8eab70570.jpg?v=1761355313
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/2_40c0bff6-aa7e-413f-babe-d9eb9c6f48a1.jpg?v=1761642222
   Price: $39.99 USD
 - [Classic Kettle Insulated Water Bottle Stainless Steel Reusable Triple Insulated 16 oz - PlaysPuls](https://www.playspuls.com/products/classic-kettle-insulated-water-bottle-stainless-steel-reusable-triple-insulated-16-oz): About this itemCanteen Water Bottle: Stay stylishly hydrated with the classic canteen tumbler, the original stainless steel tumbler that keeps drinks cold for 25 hours and hot for 17Hydration On-the-Go: Designed with easy-grip flat sides and a non-slip bottom, this travel friendly tumbler is perfect for work, travel, and everyday adventuresScrew-On Cap: The leak-proof, screw-on lid on this spill proof tumbler helps maintain perfect temperature and allows for smooth, controlled sipping anywhereA Chill Gift: This cooler-ready drinkware keeps beverages icy cold during any warm-weather adventure - PlaysPuls
-  Updated: 2025-10-25T08:29:41Z
+  Updated: 2025-10-28T09:02:51Z
   Vendor: PlaysPuls
   Product Type: thermal mug
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/12.jpg?v=1761355344
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3_7246c8d1-d5f0-4ce0-813e-ae0078c3f179.jpg?v=1761642171
   - [Dark blue](https://www.playspuls.com/products/classic-kettle-insulated-water-bottle-stainless-steel-reusable-triple-insulated-16-oz?variant=47102913347751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/12.jpg?v=1761355344
+    Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/12.jpg?v=1761642171
     Price: $49.99 USD
   - [Pearlescent powder](https://www.playspuls.com/products/classic-kettle-insulated-water-bottle-stainless-steel-reusable-triple-insulated-16-oz?variant=47102913380519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/11_a9ddcd23-a7a7-40f0-b998-3335e7b3a67d.jpg?v=1761355358
+    Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/11_a9ddcd23-a7a7-40f0-b998-3335e7b3a67d.jpg?v=1761642171
     Price: $49.99 USD
 - [40 oz vacuum stainless steel insulated cup vacuum cup - PlaysPuls](https://www.playspuls.com/products/40-oz-flower-tumbler-with-handle-and-straw-stainless-steel-insluated-cups-reusable-vacuum-travel-coffee-mug): About this item Durable and Stylish: This water tumbler is made of double wall vacuum insulated stainless steel,easy to clean with large diameter, not easy to remain stainsCup Holder Friendly: 40 oz tumbler fits most standard size cup holders. With a comfortable handle, this extra large travel mug is easy to carry and perfect for use as an everyday insulated water bottle40 OZ Large Capacity: The 40 oz tumbler with lid and straw has a large capacity, which can accommodate more water, reduce the frequency of adding water. Wide opening makes stirring and cleaning so easyPerfect for Any Occasion: The flower 40oz tumbler is designed for convenience.Take it with you wherever you go - home,office,gym,or outdoor adventuresGood Choice for Gift: It can be a surprise gift for your family, friends, teachers, colleagues, and sisters - PlaysPuls
   Updated: 2025-10-25T08:29:41Z
