@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-27T12:00:33.728Z
+- Updated At: 2025-10-28T00:00:35.166Z
 
 ## Products
 
@@ -1641,7 +1641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761451148
     Price: $59.68 USD
 - [Lachrywave Bikini Set - Digital Punk Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design): Lachrywave bikini set - where digital grief meets neon-punk energy. Vaporwave aesthetic swimwear from Lachrymal Gems. For those caught between worlds.
-  Updated: 2025-10-26T04:50:55Z
+  Updated: 2025-10-27T23:13:51Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1649,42 +1649,42 @@
   - [S / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320209141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [M / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320241909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [L / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320274677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320307445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [2XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320340213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [3XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320372981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [4XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320405749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
   - [5XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320438517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
-    Price: $48.18 USD
+    Price: $38.99 USD
 - [Lachrywave Dark Occult Chest Bag - Alternative Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/lachrywave-dark-occult-chest-bag): Carry your essentials in style with our Lachrywave Dark Occult chest bag. Perfect for festivals, streetwear, and everyday emo aesthetic. Unique occult design.
-  Updated: 2025-10-27T05:54:59Z
+  Updated: 2025-10-27T23:14:36Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-lachrywave-dark-occult-chest-bag.png?v=1761501459
-  Price: $58.30 USD
+  Price: $47.99 USD
 - [Esoteric Lachrywave Pajama Pants - Alternative Loungewear | Lachrymal Gems](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Lounge in style with our Esoteric Lachrywave pajama pants. Unique occult design, comfortable fit. Perfect for alternative fashion lovers and cozy vibes.
   Updated: 2025-10-26T23:19:43Z
   Vendor: Printify
@@ -1715,14 +1715,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
     Price: $19.36 USD
 - [Women's Leather Watch - Alternative Esoteric Design | Lachrymal Gems](https://lachrymalgems.store/products/womens-leather-watch): Unique women's leather watch with mystical esoteric design. Premium quality alternative timepiece for bold style. Stand out with this statement watch. Shop now!
-  Updated: 2025-10-27T02:42:54Z
+  Updated: 2025-10-27T12:57:10Z
   Vendor: Lachrymal Gems
   Product Type: Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/model-wearing-womens-leather-watch.png?v=1761532974
   Price: $28.99 USD
 - [Lachrywave Tie Skirted Two Piece Swimsuit - Custom Print Halter Bikini | Lachrymal Gems](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services): Lachrywave tie skirted two piece swimsuit with adjustable halter top. Soft stretchy fabric, vibrant custom prints. Perfect lachrywave beachwear for alternative style lovers.
-  Updated: 2025-10-27T02:59:12Z
+  Updated: 2025-10-27T14:48:15Z
   Vendor: Lachrymal Gems
   Product Type: Women's Swimwear
   Availability: Available
@@ -1748,7 +1748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
     Price: $19.01 USD
 - [Lachrywave Men's Basketball Jersey AOP - Custom All Over Print | Lachrymal Gems](https://lachrymalgems.store/products/mens-basketball-jersey-aop): Lachrywave men's basketball jersey with all-over print design. Lightweight, breathable polyester for ultimate comfort. Perfect lachrywave streetwear for alternative style.
-  Updated: 2025-10-27T03:27:55Z
+  Updated: 2025-10-27T14:51:11Z
   Vendor: Lachrymal Gems
   Product Type: Men's T-shirts
   Availability: Available
@@ -1788,7 +1788,7 @@
   Updated: 2025-10-27T03:16:04Z
   Total Products: 20
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-27T02:59:11Z
+  Updated: 2025-10-27T23:13:52Z
   Total Products: 17
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
   Updated: 2025-10-27T03:16:04Z
@@ -1797,7 +1797,7 @@
   Updated: 2025-10-26T18:09:56Z
   Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-27T03:16:04Z
+  Updated: 2025-10-27T23:14:37Z
   Total Products: 5
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-26T18:09:57Z
@@ -1806,7 +1806,7 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-27T03:16:05Z
+  Updated: 2025-10-27T23:14:37Z
   Total Products: 55
 
 ## Blogs
