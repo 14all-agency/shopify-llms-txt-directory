@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-28T16:00:52.436Z
+- Updated At: 2025-10-28T20:00:42.508Z
 
 ## Products
 
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-28T10:02:12Z
+  Updated: 2025-10-28T19:16:31Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
