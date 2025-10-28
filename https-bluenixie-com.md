@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-28T12:00:47.128Z
+- Updated At: 2025-10-28T16:00:41.287Z
 
 ## Products
 
@@ -3867,7 +3867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-White-Nude_Skin.png?v=1689684614
     Price: ₹960.00 INR
 - [Bluenixie BN2514 Full Coverage T shirt Bra 2 pc Combo Skin-Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra-combo-set-of-2): Bluenixie's Full Coverage T-Shirt Bra, a set of 2 Skin color combo of t-shirt bras Colorful & Comfy. Smooth finish, invisible under clothes. Elevate your style with vibrant basics.
-  Updated: 2025-10-20T03:22:21Z
+  Updated: 2025-10-28T12:43:56Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
