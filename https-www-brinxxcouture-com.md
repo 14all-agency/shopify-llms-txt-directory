@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-28T16:00:57.554Z
+- Updated At: 2025-10-28T20:01:07.699Z
 
 ## Products
 
@@ -1894,7 +1894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Hip-Lifting-Shaping-Shorts-Brinxx-Couture-684.jpg?v=1709288289
     Price: $29.00 USD
 - [Lace Detail Zip-Up Under-Bust Shaping Bodysuit](https://www.brinxxcouture.com/products/full-size-lace-detail-zip-up-under-bust-shaping-bodysuit): Shape your curves in style with our Lace Detail Zip-Up Bodysuit. Minimalist design with under-bust shaping. Available in full size run. Shop now at Brinxx Couture.
-  Updated: 2025-10-02T17:11:59Z
+  Updated: 2025-10-28T17:21:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8360,7 +8360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-28T09:50:57Z
+  Updated: 2025-10-28T16:10:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16895,7 +16895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-10-26T08:43:05Z
+  Updated: 2025-10-28T16:10:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,7 +23179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-28T13:10:37Z
+  Updated: 2025-10-28T18:30:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
