@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2020-08-19T03:32:16Z
 - Contact Email: info@bode-lana.co.nz
-- Updated At: 2025-10-28T04:00:39.392Z
+- Updated At: 2025-10-28T20:00:32.998Z
 
 ## Products
 
@@ -117,10 +117,10 @@
 ## Collections
 
 - [Oversized Graphic Tees](https://bode-lana.co.nz/collections/graphic-boxy-tees): Locally sourced tees with unique designs created by us! Thick quality cotton with Better Cotton Initiative (BCI). Ready for your summer adventures.
-  Updated: 2025-09-08T11:09:40Z
+  Updated: 2025-10-28T11:10:08Z
   Total Products: 7
 - [Throws](https://bode-lana.co.nz/collections/throws)
-  Updated: 2025-09-07T23:09:16Z
+  Updated: 2025-10-28T11:10:08Z
   Total Products: 7
 - [Featured Collection](https://bode-lana.co.nz/collections/featured-collection)
   Updated: 2025-09-08T11:09:40Z
