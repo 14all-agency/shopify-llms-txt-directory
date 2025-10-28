@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2025-08-17T15:09:52Z
 - Contact Email: jamiludinjamil706@gmail.com
-- Updated At: 2025-10-27T13:09:27.596Z
+- Updated At: 2025-10-28T00:01:21.025Z
 
 ## Products
 
@@ -17834,7 +17834,7 @@
 - [Shipping Policy](https://jamiludincollection.com/policies/shipping-policy)
   Updated: 2025-09-05T22:02:40+08:00
 - [Refund Policy](https://jamiludincollection.com/policies/refund-policy)
-  Updated: 2025-08-23T15:49:28+08:00
+  Updated: 2025-10-27T21:39:12+08:00
 - [Terms of Service](https://jamiludincollection.com/policies/terms-of-service)
   Updated: 2025-09-05T21:59:11+08:00
 - [Contact Information](https://jamiludincollection.com/policies/contact-information)
