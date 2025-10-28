@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-27T08:00:53.229Z
+- Updated At: 2025-10-28T00:01:12.890Z
 
 ## Products
 
@@ -6485,10 +6485,10 @@
 ## Collections
 
 - [Home page](https://bluenixie.com/collections/frontpage): Explore Bluenixie for lingerie, bras, shorts, nightwear, and more. Shop a variety of styles for women, men, and kids.
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 79
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -6497,7 +6497,7 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
   Updated: 2025-10-26T11:11:33Z
@@ -6506,19 +6506,19 @@
   Updated: 2025-10-26T11:11:33Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-10-06T11:09:23Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 65
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
   Updated: 2025-07-09T01:35:02Z
   Total Products: 5
 - [non padded bra](https://bluenixie.com/collections/non-padded-bra)
-  Updated: 2025-10-24T11:09:10Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 43
 - [Lounge/Sleep Bra](https://bluenixie.com/collections/lounge-bra): soft and light on your body so get rid of bra and put this on and relax
   Updated: 2025-09-17T11:09:55Z
@@ -6632,34 +6632,34 @@
   Updated: 2024-12-05T10:51:56Z
   Total Products: 0
 - [inner wear](https://bluenixie.com/collections/inner-wear)
-  Updated: 2025-10-24T11:09:10Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 43
 - [Brands](https://bluenixie.com/collections/brands)
-  Updated: 2025-10-10T11:10:50Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 77
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-05-09T12:03:04Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-10-24T11:09:10Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
   Updated: 2025-10-26T11:11:33Z
@@ -6671,16 +6671,16 @@
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [Offers](https://bluenixie.com/collections/offer): Discover irresistible offers on women's & girls' apparel including lingerie, nighties, panties, and shorts, as well as men's & kids' apparel at BlueNixie.in. Explore trendy designs, quality materials, and affordable prices. Elevate your style and enjoy a seamless shopping experience. Visit us now!
-  Updated: 2025-10-24T11:09:10Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
-  Updated: 2025-10-24T11:09:10Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 39
 - [Novita](https://bluenixie.com/collections/novita): Panties
   Updated: 2025-05-16T19:52:13Z
@@ -6698,7 +6698,7 @@
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-27T11:08:44Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
