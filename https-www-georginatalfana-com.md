@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-10-28T00:01:07.932Z
+- Updated At: 2025-10-28T16:00:58.436Z
 
 ## Products
 
@@ -1123,87 +1123,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_8675.jpg?v=1759315410
   Price: £499.00 GBP
-- [Sabacos Mountains, Spanish Pyrenees](https://www.georginatalfana.com/products/sabacos-mountains-spanish-pyrenees): Sabacos Mountains, Spanish Pyrenees colour pencils in a sketchbook original artwork: 40.1 x 12.8 cm 2012
-  Updated: 2025-10-27T20:28:09Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/efa43f2a-ad6345_b6d866526df24c15bc4b888444650f2f_mv2.jpg?v=1761596890
-  - [Print + black frame](https://www.georginatalfana.com/products/sabacos-mountains-spanish-pyrenees?variant=54525472702732)
-    Availability: Available
-    Price: £195.00 GBP
-  - [Print only](https://www.georginatalfana.com/products/sabacos-mountains-spanish-pyrenees?variant=54525472735500)
-    Availability: Available
-    Price: £150.00 GBP
-- [Bellevue, France](https://www.georginatalfana.com/products/bellevue-france): Bellevue, France acrylic paint & collage on canvas original artwork: 70 x 70 cm 2012
-  Updated: 2025-10-27T20:28:10Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/419fbc3f-ad6345_2e382ec436d34b298a78a70c70a8b389_mv2_d_1448_1500_s_2.jpg?v=1761596889
-  - [Original artwork + black frame](https://www.georginatalfana.com/products/bellevue-france?variant=54525473325324)
-    Availability: Available
-    Price: £1,500.00 GBP
-  - [Original artwork only](https://www.georginatalfana.com/products/bellevue-france?variant=54525473358092)
-    Availability: Available
-    Price: £1,200.00 GBP
-- [Grey Corries, Scotland](https://www.georginatalfana.com/products/grey-corries-scotland): Grey Corries, Scotland acrylic paint on canvas original 60 x 45 cm, 2006
-  Updated: 2025-10-27T20:28:12Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/ad49ad1a-1ff1c7_ae985f0a3d6c4d49b889b1ec2d8803c4_mv2_d_2017_1500_s_2.jpg?v=1761596892
-  - [Original artwork + black frame](https://www.georginatalfana.com/products/grey-corries-scotland?variant=54525473390860)
-    Availability: Available
-    Price: £700.00 GBP
-  - [Original artwork only](https://www.georginatalfana.com/products/grey-corries-scotland?variant=54525473423628)
-    Availability: Available
-    Price: £600.00 GBP
-- [View towards Le Grand Combin from La Chaux, Verbier](https://www.georginatalfana.com/products/view-towards-le-grand-combin-from-la-chaux-verbier): View towards Le Grand Combin from La Chaux, Verbier metallic pens on sktchbook original artwork: 38 x 14 cm, 2023
-  Updated: 2025-10-27T20:28:14Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/4b89dd06-ad6345_94af5da8f6e840b2b30f286994d30684_mv2.jpg?v=1761596893
-  - [Print + black frame](https://www.georginatalfana.com/products/view-towards-le-grand-combin-from-la-chaux-verbier?variant=54525473489164)
-    Availability: Available
-    Price: £195.00 GBP
-  - [Print only](https://www.georginatalfana.com/products/view-towards-le-grand-combin-from-la-chaux-verbier?variant=54525473521932)
-    Availability: Available
-    Price: £150.00 GBP
-- [Le Grand Combin](https://www.georginatalfana.com/products/le-grand-combin): Le Grand Combin original drawing in pen & watercolour on watercolour paper, 2023 framed and mounted to order original drawing + white frame 33.5 x 26cm fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 30 x 21cm print printed and framed to order
-  Updated: 2025-10-27T20:28:28Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/64d1034f-ad6345_fd448751a2f244829fce03bfc5adb071_mv2.jpg?v=1761596894
-  - [Original artwork + white frame](https://www.georginatalfana.com/products/le-grand-combin?variant=54525473587468)
-    Availability: Available
-    Price: £275.00 GBP
-  - [Print + white frame](https://www.georginatalfana.com/products/le-grand-combin?variant=54525473620236)
-    Availability: Available
-    Price: £200.00 GBP
-  - [Print only](https://www.georginatalfana.com/products/le-grand-combin?variant=54525473653004)
-    Availability: Available
-    Price: £150.00 GBP
-- [Le Grand Combin](https://www.georginatalfana.com/products/le-grand-combin-1): Le Grand Combin, Switzerland indian ink on cartridge paper original artwork: 29.7 x 21 cm 2022
-  Updated: 2025-10-27T20:28:16Z
-  Vendor: Georgina Zafeiri
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/48b16edb-ad6345_5cdc28596aa2444a9465580d76ab371e_mv2.jpg?v=1761596896
-  - [Original artwork + white frame](https://www.georginatalfana.com/products/le-grand-combin-1?variant=54525473685772)
-    Availability: Available
-    Price: £235.00 GBP
-  - [Original artwork only](https://www.georginatalfana.com/products/le-grand-combin-1?variant=54525473718540)
-    Availability: Available
-    Price: £195.00 GBP
-  - [Print + white frame](https://www.georginatalfana.com/products/le-grand-combin-1?variant=54525473751308)
-    Availability: Available
-    Price: £185.00 GBP
-  - [Print only](https://www.georginatalfana.com/products/le-grand-combin-1?variant=54525473784076)
-    Availability: Available
-    Price: £150.00 GBP
 
 ## Collections
 
