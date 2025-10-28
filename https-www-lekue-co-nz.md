@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-10-27T12:00:43.654Z
+- Updated At: 2025-10-28T12:00:50.517Z
 
 ## Products
 
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/MacaronKit-Brown-8710755880384Lekue_96dpi_1000x1000px_7_NR-33861.png?v=1737427996
   Price: $79.98 NZD
 - [Non-spill Baking Tray, 40x30 cm](https://www.lekue.co.nz/products/non-spill-baking-sheet-40-x-30-cm): Non-spill baking tray for oven. Placed on top of the oven tray or rack, it prevents food from sticking and liquids from spilling, keeping the oven clean. Features Made of 100% Platinum Silicone. Non-spill baking tray. Preventing the oven from getting dirty while cooking. Standard size for most conventional ovens.
-  Updated: 2025-07-29T20:49:45Z
+  Updated: 2025-10-27T23:17:11Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SpringformLoafMouldwithPlate_24cm-Red-8710755888366Lekue_96dpi_1000x1000px_7_NR-41142.png?v=1737430645
   Price: $59.98 NZD
 - [Mini Muffins Mould](https://www.lekue.co.nz/products/mini-muffins-mould-11-cav): Expertly crafted for the ultimate baking experience. This mould is designed to create perfectly sized mini muffins every time, making it a must-have for any baking enthusiast. Features Professional silicone moulds designed to enable you to enjoy professional results at home! Made of 100% platinum silicone, are nonstick and easy to use and store. Easy release, thanks to the flexibility of silicone, gently pulling the ends of each cavity. Lightweight and durable, suitable for oven and microwave. Intended for home-made desserts, as well as savoury dishes.
-  Updated: 2025-07-15T23:38:23Z
+  Updated: 2025-10-27T23:17:18Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SiliconeMoltenLavaCakeMouldSetof6-Black-8710755881084Lekue_96dpi_1000x1000px_7_NR-33633.png?v=1737510661
   Price: $54.98 NZD
 - [Non-stick Pastry Mat with measures, 60 x 40 cm](https://www.lekue.co.nz/products/non-stick-pastry-mat-with-measures-60-x-40-cm): With the silicone pastry mat for kneading, you can make the dough and knead it directly on the surface, reducing the mess in your kitchen. You can also use it to stretch dough and cut different shapes, such as cookies, using our cookie moulds. Features Prepare your dough with the exact proportions! The mat will give you the essential information you need to make your favorite dough. Discover the uses of each measure. The diameter rings for sizing dough perfectly, an edge ruler for measuring and cutting identical portions, grid lines for shaping dough into squares or strips, and a conversion table for easy recipe adjustments, including temperature conversions between Cº and Fº.All the dimensions of the mat are in mm and inches. Non-stick. Perfect for kneading the dough easily and cleaning faster. With no mess at all! Non-slip. which will enable the mat to stay fixed on the countertop. Flexible, save space in your kitchen. You can fold it or roll it up and easily put it away in any corner of your drawers or kitchen area. Protective. The mat will protect your worktop from getting dirty.
-  Updated: 2025-07-15T23:38:24Z
+  Updated: 2025-10-27T23:17:15Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,16 +633,16 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-10-21T11:23:25Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-10-21T11:23:25Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
-  Updated: 2025-08-29T02:37:07Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 11
 - [Baking mats](https://www.lekue.co.nz/collections/baking-mats)
-  Updated: 2025-07-15T23:38:19Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 7
 - [Cookware](https://www.lekue.co.nz/collections/cookware)
   Updated: 2025-09-23T11:25:38Z
@@ -684,7 +684,7 @@
   Updated: 2025-09-23T11:25:38Z
   Total Products: 3
 - [Traditional pastry](https://www.lekue.co.nz/collections/traditional-pastry)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 7
 - [Deals](https://www.lekue.co.nz/collections/deals)
   Updated: 2025-08-29T02:37:09Z
@@ -708,7 +708,7 @@
   Updated: 2025-07-15T23:38:20Z
   Total Products: 1
 - [Mini Muffins Mould](https://www.lekue.co.nz/collections/mini-muffins-mould)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 1
 - [Popcorn](https://www.lekue.co.nz/collections/popcorn)
   Updated: 2025-08-02T11:12:52Z
@@ -741,7 +741,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-10-21T11:23:25Z
+  Updated: 2025-10-28T11:29:09Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
   Updated: 2025-10-14T11:22:45Z
