@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-28T04:01:00.878Z
+- Updated At: 2025-10-28T08:00:48.888Z
 
 ## Products
 
@@ -28664,7 +28664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d560d430-c181-4111-a055-50700ee529ae.jpg?v=1761572627
     Price: CHF 12.20 CHF
 - [Automatic Telescopic Traction Rope Pet Products](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products): Product Information: Product Category: Traction Belt Packing size: 23*16*5cm Material: shell ABS, inner core nylon Net weight: 423g Color: dream black, pear white, Chinese red, apple green, dynamic yellow, crystal purple Features: free expansion, flexible control, green and safe Specification: L-5m flat belt (single weight 424g) L-8m round rope (single weight 430g)
-  Updated: 2025-10-27T19:50:25Z
+  Updated: 2025-10-28T07:44:26Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28726,14 +28726,14 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786224.jpg?v=1761594259
     Price: CHF 15.40 CHF
 - [Cute King Star Retractable Pet Leash Dog Leash Dog Chain Leash Collar Amazon Hot](https://cilly.us/products/cute-king-star-retractable-pet-leash-dog-leash-dog-chain-leash-collar-amazon-hot): Product information: Material: ABS Product category: Traction belt Scalable: Yes Color: cherry pink, neutral gray Retractable pet leash dog leash dog chain leash collar
-  Updated: 2025-10-27T20:07:56Z
+  Updated: 2025-10-28T07:46:17Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613459759467.jpg?v=1761594372
   Price: CHF 38.90 CHF
 - [Five-piece pet cleaning supplies](https://cilly.us/products/five-piece-pet-cleaning-supplies): Material: ABS Product Category: Comb brush Color: blue, pink Products: nail clippers, automatic shrink traction rope, single-row long and short needle steel comb, open knot blade comb, pet grooming soft bottom fluffy comb Storing the storage box, there are three places for carrying handles, you can carry it as you like!
-  Updated: 2025-10-27T20:07:57Z
+  Updated: 2025-10-28T07:47:47Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28747,7 +28747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2307342388231.jpg?v=1761594471
     Price: CHF 38.90 CHF
 - [Pet automatic leash](https://cilly.us/products/pet-automatic-leash): Specifications: Giving your dog a very good range and freedom of movement. This leash is perfect for small and medium pets. One-handed braking and locking system stops pet from advancing. Retractable style design, the leash can auto stretch out and draw back. Push-button stop with lock. Big handle for easy gripping, even with mittens or gloves. Item Name: Lead Leash Material: Nylon Length: 5m Notes: Due to the light and screen setting difference, the item's color may be slightly different from the pictures. Please allow slight dimension difference due to different manual measurement. Package Included: 1 x Lead Leash
-  Updated: 2025-10-27T20:07:57Z
+  Updated: 2025-10-28T07:49:14Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28777,7 +28777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1681560864726.jpg?v=1761594543
     Price: CHF 10.50 CHF
 - [Kitchen Pot](https://cilly.us/products/kitchen-pot): [Name] deep fryer. [Material] pot body: 304 stainless steel [Specification] 20m [Applicable number] 1-2 people [Process] perfusion process [Note] This product is a special fryer, not recommended for cooking stew or stir-frying! Size：M：20*8cm L: 24*8cm Color：Sliver Material: Iron As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1. Removable oil drain. Stainless steel drain rack, side fried It's simple and convenient! 2.Beak diversion Easy to pour oil after frying, no need Worried about hanging oil during dumping! 3. Intimate thermometer Control the oil temperature of different foods Avoid frying or unheated inside
-  Updated: 2025-10-27T20:07:56Z
+  Updated: 2025-10-28T07:54:49Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28791,7 +28791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/639243408562.jpg?v=1761594892
     Price: CHF 37.80 CHF
 - [5 Speeds 500W High Power Electric Food Mixer Hand Blender Dough Blender Egg Beater Hand Mixer For Kitchen 220V](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v): Overview: Whips,folds,blender, creams and mixes 5 speed control Turbo function with safety device: turbo function only works when the appliance is functioning Mixer hooks Beater hooks Easy beaters removal and clean 220-240V~ 50/60Hz 500W Specification: Voltage : 220-240V/50-60Hz Power : 500W Packing Size: 210*105*170mm Package Content: 1 x Food Mixer
-  Updated: 2025-10-27T20:07:56Z
+  Updated: 2025-10-28T07:56:22Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
@@ -28805,7 +28805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732_b5ed6b30-f38a-463e-b630-8ce180582b7a.jpg?v=1761594982
     Price: CHF 36.10 CHF
 - [Medical Stone Non-stick Three-in-one Multi-function Omelette Pan](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan): Product information: Material: Aluminum Function: frying Features: Non-stick pan Bottom material: double bottom Color: 3-in-1 Black Breakfast Pan Applicable to common stoves：induction cookers, gas stoves Depth: 4.5cm Packing List： Non-stick pan*1
-  Updated: 2025-10-27T20:07:57Z
+  Updated: 2025-10-28T07:58:51Z
   Vendor: Alles für deine Haustiere 
   Product Type: Küchengeräte
   Availability: Available
