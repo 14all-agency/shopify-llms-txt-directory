@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-28T00:00:32.143Z
+- Updated At: 2025-10-28T16:00:57.449Z
 
 ## Products
 
