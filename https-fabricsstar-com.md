@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-27T20:00:38.560Z
+- Updated At: 2025-10-28T00:00:38.634Z
 
 ## Products
 
@@ -683,7 +683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SWEDAN-BRASS-325.jpg?v=1757517188
     Price: $1.00 USD
 - [Abstract Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/abstract-crushed-velvet-fabric-cut-by-the-yard): Discover luxurious Allendale Abstract Crushed Velvet Fabric by the Yard at Fabrics Star. Perfect for upholstery, drapery, and more. Shop now!
-  Updated: 2025-10-26T20:02:15Z
+  Updated: 2025-10-27T20:42:35Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
