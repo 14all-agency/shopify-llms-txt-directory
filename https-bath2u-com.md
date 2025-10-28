@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-26T20:00:57.081Z
+- Updated At: 2025-10-28T12:00:36.737Z
 
 ## Products
 
@@ -2810,7 +2810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/AVAW001.png?v=1678674681
   Price: RM 40.00 MYR
 - [ALFRED VICTORIA Popup Waste Strainer (1 1/4") - Black](https://bath2u.com/products/alfred-victoria-popup-waste-strainer-1-1-4-black): Specification : Matt Black Ceramic Top with SS304 Chrome Finish For Wash Basin Without Overflow Height : 90mm
-  Updated: 2025-01-25T05:50:18Z
+  Updated: 2025-10-27T03:41:29Z
   Vendor: ALFRED VICTORIA
   Product Type: Basin Waste
   Availability: Available
