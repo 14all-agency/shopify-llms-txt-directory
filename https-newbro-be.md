@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-27T12:00:58.898Z
+- Updated At: 2025-10-28T00:00:35.590Z
 
 ## Products
 
@@ -1554,60 +1554,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress-411.webp?v=1752306804
     Price: € 25,75 EUR
-- [Premium 'Keep Calm' T-shirt voor moslima's](https://newbro.be/products/premium-organic-shirt-women): Dames T-shirt met regular fit. • Gemaakt van 100 % gekamd, ringgesponnen biologisch katoen (180 gsm) voor een zacht premium gevoel• Ingezette mouwen• 1x1 geribde halsboord• Brede dubbele doorstikking aan mouwuiteinden en zoom voor extra duurzaamheid Was het T-shirt binnenstebuiten met gelijkaardige kleuren en strijk niet rechtstreeks over de print. Dit premium ‘Keep Calm’ T-shirt is ideaal voor moslima’s die op zoek zijn naar een comfortabel, stijlvol kledingstuk voor casual of modest fashion. Zoekwoorden: premium moslima T-shirt, islamitisch T-shirt, biologisch katoen shirt voor dames, modest fashion België. Tolerance +/- 3cm XS S M L XL XXL Width 45 48 51 54 57 61 Length 56,5 59,5 61,5 63,5 65,5 67,5
-  Updated: 2025-10-08T19:51:26Z
-  Vendor: BRO Webshop
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-  - [XS / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969424252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [S / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969457020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [M / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969489788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [L / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969522556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [XL / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969555324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [XXL / Burgundy](https://newbro.be/products/premium-organic-shirt-women?variant=55610969588092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5ac5b0.jpg?v=1754425672
-    Price: € 22,95 EUR
-  - [XS / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969620860)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
-  - [S / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969653628)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
-  - [M / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969686396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
-  - [L / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969719164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
-  - [XL / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969751932)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
-  - [XXL / Black](https://newbro.be/products/premium-organic-shirt-women?variant=55610969784700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
-    Price: € 22,95 EUR
 - [Luxe jersey, zachte stretch – jouw everyday hijab | bij BRO](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Luxe Jersey, zachte stretch – jouw nieuwe everyday hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
   Updated: 2025-10-27T11:37:36Z
   Vendor: byOumich
@@ -1691,7 +1637,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dennappel_model.jpg?v=1760477606
     Price: € 11,85 EUR
 - [No Snag Hijab Clip.](https://newbro.be/products/no-snag-hijab-clip-een-set-van-vier): No Snag Hijab Clip, een set van vier niet-uitzakkende hijabpinnen zijn een praktische en stijlvolle oplossing om twee stukken stof aan elkaar te bevestigen, met name gebruikt voor hijaabs. Deze pinnen zijn zo ontworpen dat ze gemakkelijk op de stof kunnen worden geschoven en zorgen voor een stevige grip zonder dat ze doorzakken of hangen.
-  Updated: 2025-10-27T11:41:17Z
+  Updated: 2025-10-27T13:05:58Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -1712,8 +1658,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
-- [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-10-21T23:25:47Z
+- [Premium Jersey Hijab met subtiele golfafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
+  Updated: 2025-10-27T13:01:33Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -1840,13 +1786,13 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-05T18:39:51Z
   Total Products: 7
 - [Islamitische kleding voor dames](https://newbro.be/collections/islamitische-kleding-voor-dames): Islamitische kleding voor dames: elegant, bescheiden en stijlvol. Van abaya’s tot modieuze maxi-jurken, ontdek outfits die geloof en mode verenigen.
-  Updated: 2025-10-27T10:06:00Z
+  Updated: 2025-10-27T21:16:38Z
   Total Products: 82
 - [Hijab kopen online](https://newbro.be/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
-  Updated: 2025-10-27T11:13:12Z
-  Total Products: 53
+  Updated: 2025-10-27T16:27:03Z
+  Total Products: 54
 - [Moderne kleding voor de moslim man](https://newbro.be/collections/moderne-kleding-voor-de-moslim-man): Deze collectie biedt een verfijnde selectie moderne kleding voor de moslim man die elegantie moeiteloos combineren met islamitische waarden - BRO Webshop
-  Updated: 2025-10-20T12:46:50Z
+  Updated: 2025-10-27T21:18:58Z
   Total Products: 23
 - [Islamitische kindermode](https://newbro.be/collections/islamitische-kindermode): Ontdek onze schattige collectie islamitische kindermode, speciaal ontworpen met het oog op comfort, speelsheid en geloof.
   Updated: 2025-10-20T12:47:29Z
@@ -1855,7 +1801,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-20T12:20:22Z
   Total Products: 7
 - [Stretchy & comfortabel](https://newbro.be/collections/stretchy-comfortabel-premium-jersey): Een hijab die stretchy en comfortabel is, makkelijk blijft zitten zonder speldjes. Ideaal voor dagelijks gebruik en sport.
-  Updated: 2025-10-27T11:13:21Z
+  Updated: 2025-10-27T12:51:04Z
   Total Products: 3
 - [Superzacht, ademend & eco-vriendelijk](https://newbro.be/collections/superzacht-ademend-eco-vriendelijk-bamboo-jersey)
   Updated: 2025-10-08T19:51:11Z
@@ -1870,8 +1816,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-27T10:05:56Z
   Total Products: 2
 - [Basic maar comfortabel](https://newbro.be/collections/basic-maar-comfortabel-katoenen-hoofddoek)
-  Updated: 2025-10-27T10:06:01Z
-  Total Products: 5
+  Updated: 2025-10-27T16:24:35Z
+  Total Products: 6
 - [Casual chic, soepel en netjes](https://newbro.be/collections/casual-chic-soepel-en-netjes-crepe-hoofddoek)
   Updated: 2025-10-08T19:51:11Z
   Total Products: 0
@@ -1885,8 +1831,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-08T19:51:11Z
   Total Products: 0
 - [Decoratieve hijabs & sjaals](https://newbro.be/collections/decoratief-laat-je-zien)
-  Updated: 2025-10-27T10:05:52Z
-  Total Products: 4
+  Updated: 2025-10-27T16:24:35Z
+  Total Products: 5
 - [Luxe jersey, zachte stretch – jouw nieuwe everyday hijab](https://newbro.be/collections/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): “Luxe jersey, zachte stretch – jouw nieuwe everyday hijab” combineert comfort met een verfijnde look.De premium jersey met lycra voelt zacht aan, ademt en valt natuurlijk, zodat je hijab de hele dag mooi blijft zitten zonder speldenregen of constant bijstellen.Dankzij de soepele stretch style je hem in één beweging: casual voor overdag of elegant voor een avondje uit.Kreukarm en onderhoudsvriendelijk—perfect voor een drukke agenda.
   Updated: 2025-10-27T11:13:21Z
   Total Products: 0
