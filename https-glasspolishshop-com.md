@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-27T12:00:40.060Z
+- Updated At: 2025-10-28T08:00:47.157Z
 
 ## Products
 
@@ -40,7 +40,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14006_f6f1f7ad-4262-4b5b-a1fe-1ca1a65223eb.jpg?v=1740136756
   Price: €51.95 EUR
 - [PRO Glass Polishing Compound 50ml | High-Grade 2.3 Microns – GP14053](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-50ml-1-7oz): High-performance cerium oxide polishing compound with 2.3-micron particles. Removes fine scratches, haze, and imperfections, restoring glass clarity.
-  Updated: 2025-10-20T21:18:23Z
+  Updated: 2025-10-27T18:17:07Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -1399,7 +1399,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Glass Polish Felt Polishing Pad 11007](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-3-inch-75mm): Glass Polish 75mm / 3 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-22T11:15:55Z
+  Updated: 2025-10-27T18:17:06Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2006,7 +2006,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Glass-Cutter-Oil-Feed-Glass-Cutting-Tool-15006.jpg?v=1737643837
   Price: €11.95 EUR
 - [SCRATCHLESS Scraper for Glass with 10 x carbon steel blade - 15052](https://glasspolishshop.com/products/scratchless-scraper-for-glass-with-10-x-carbon-steel-blade): SCRATCHLESS Scraper for Glass with 10 x carbon steel blade - 15052 - Scrapers &amp; Blades - ✔️ Made from durable PVC material.✔️ The scraper is supplied with a safety cap and fitted with a 0.20 mm replaceable carbon steel double-edged blade.✔️ Ideal for
-  Updated: 2025-10-20T21:18:39Z
+  Updated: 2025-10-27T17:14:16Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2156,7 +2156,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/91006.jpg?v=1747822090
   Price: €18.95 EUR
 - [Vinyl Floor &amp; Vinyl Tile Repair Kit - Do It Yourself - Heat Cure - 91007](https://glasspolishshop.com/products/vinyl-floor-and-vinyl-tile-repair-kit-do-it-yourself-heat-cure): Repair holes, gouges, scrapes, and burns in vinyl flooring and vinyl tiles, Heat Cure with special tool allows anyone to achieve professional fast repairs in minutes with a near perfect results all you need is an ordinary household iron.
-  Updated: 2025-10-20T21:18:41Z
+  Updated: 2025-10-27T20:13:21Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
@@ -2453,7 +2453,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-24T10:34:21Z
+  Updated: 2025-10-27T18:17:07Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2465,7 +2465,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-27T02:35:50Z
+  Updated: 2025-10-27T18:17:06Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-27T02:35:50Z
+  Updated: 2025-10-28T01:28:11Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2646,7 +2646,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/SCRATCHLESS-Professional-Glass-Scraper-150-mm-15041.jpg?v=1737646168
   Price: €21.95 EUR
 - [SCRATCHLESS Stainless Steel Blades 25pk - 150 mm](https://glasspolishshop.com/products/scratchless-stainless-steel-blades-25pk-150-mm): SCRATCHLESS Stainless Steel Blades 25pk - 150 mm for Scratchelss glass scraper Glass Polish
-  Updated: 2025-10-20T21:18:49Z
+  Updated: 2025-10-27T17:14:17Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
