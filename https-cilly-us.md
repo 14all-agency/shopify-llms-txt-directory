@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-27T19:25:24.917Z
+- Updated At: 2025-10-28T04:01:00.878Z
 
 ## Products
 
@@ -10945,21 +10945,21 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1621065334548_892373a5-855e-4b40-bc95-dd3f8462271e.jpg?v=1757103225
     Price: CHF 15.00 CHF
 - [Mewoo Haustierbett Orthopädisch 58cm - Waschbar Rutschfest Salbeigrün](https://cilly.us/products/mewoo-washable-pet-bed-for-cats-small-dogs-23x23x7-inch-round-orthopedic-bed-with-non-slip-bottom-plush-indoor-cat-bed-for-kittens-puppies-sage-green): Mewoo Orthopädisches Haustierbett 58cmDieses orthopädische Haustierbett von Mewoo in Salbeigrün ist waschbar und rutschfest - perfekt für Hunde und Katzen in der DACH-Region.Produktvorteile: Orthopädisch: Unterstützt Gelenke und Wirbelsäule 58cm Durchmesser: Perfekte Größe für kleine bis mittlere Haustiere Waschbar: Leicht zu reinigen Rutschfest: Stabiler Stand Salbeigrün: Stilvolle Farbe Für Hunde & Katzen: Vielseitig einsetzbar Ideal für:Ältere Hunde, Katzen, Gelenkprobleme, Komfort sowie für gesunden Schlaf.Orthopädischer Komfort für Ihre Haustiere!
-  Updated: 2025-10-27T09:17:37Z
+  Updated: 2025-10-27T21:20:11Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1b476850-8ff5-4e06-97d6-1677a9fd11aa.jpg?v=1757103542
   Price: CHF 45.00 CHF
 - [MEWOOFUN Donut-Katzenbett 58cm - Waschbar Plüsch Blau Kariert](https://cilly.us/products/mewoofun-donut-cat-bed-for-indoor-cats-round-washable-plush-pet-bed-with-jacquard-shaggy-fabric-non-slip-bottom-calming-small-dog-bed-for-puppy-kitten-23-inch-blue-check): MEWOOFUN Donut-Katzenbett 58cm Blau KariertDieses kuschelige Donut-Katzenbett von MEWOOFUN in blau kariert ist waschbar und aus Plüsch - perfekt für Katzen und kleine Hunde in der DACH-Region.Produktvorteile: Donut-Form: Erhöhte Ränder für Geborgenheit 58cm Durchmesser: Perfekte Größe Waschbar: Leicht zu reinigen Plüsch: Superweich und kuschelig Blau Kariert: Stilvolles Design Für Katzen & Hunde: Vielseitig einsetzbar Ideal für:Katzen, kleine Hunde, Rückzugsort, Komfort sowie für gemütliche Schlafplätze.Kuscheliges Donut-Bett in Blau!
-  Updated: 2025-10-27T09:17:15Z
+  Updated: 2025-10-27T21:17:21Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5f52c0aa-ac69-4e1f-8a70-32ea27ba0032.jpg?v=1757103622
   Price: CHF 45.00 CHF
 - [Mewoo Haustierbett Orthopädisch 58cm - Waschbar Rutschfest Grau](https://cilly.us/products/mewoo-washable-pet-bed-for-small-dogs-cats-23x23x7-inch-orthopedic-dog-bed-with-non-slip-bottom-plush-round-bed-for-puppies-indoor-kittens-grey): Mewoo Orthopädisches Haustierbett 58cm GrauDieses orthopädische Haustierbett von Mewoo in Grau ist waschbar und rutschfest - perfekt für Hunde und Katzen in der DACH-Region.Produktvorteile: Orthopädisch: Unterstützt Gelenke und Wirbelsäule 58cm Durchmesser: Perfekte Größe für kleine bis mittlere Haustiere Waschbar: Leicht zu reinigen Rutschfest: Stabiler Stand Grau: Neutrale, stilvolle Farbe Für Hunde & Katzen: Vielseitig einsetzbar Ideal für:Ältere Hunde, Katzen, Gelenkprobleme, Komfort sowie für gesunden Schlaf.Orthopädischer Komfort in Grau!
-  Updated: 2025-10-27T09:16:46Z
+  Updated: 2025-10-27T21:17:07Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -18065,7 +18065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2360972909680.jpg?v=1757504066
     Price: CHF 14.80 CHF
 - [Pet Gate Dog Gate For Doorways](https://cilly.us/products/pet-gate-dog-gate-for-doorways): Easy to move & store: lightweight and easy to move.Turning it on and off is easy. CONVENIENTLY FOLDS:This pet gate folds together to a more compact size for convenient storage or transport from room to room. STYLISH AND FUNCTIONAL:This pet gate is excellent way limit your pet's access to parts of your home,while maintaining a modern appearance. NO INSTALLATION REQUIRED:This barrier is a perfect way limit access to parts of your home while maintaining a stylish look. Simply just unfold it and block off the area you need! Materials:populus wood, Color: Dark Brown Opened size: 1 inch (L) x 73 inches (W) x 24 inches (H). Folded size: 4 inches (L) x 19 inches (W) x 24 inches (H) 1 set of Pet Gate in 1 carton
-  Updated: 2025-09-11T06:24:31Z
+  Updated: 2025-10-28T03:08:50Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28625,14 +28625,14 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1388387731268.jpg?v=1761171204
     Price: CHF 18.40 CHF
 - [Parent-child Puzzle Pet Bites Plush Doll Radish Doll](https://cilly.us/products/parent-child-puzzle-pet-bites-plush-doll-radish-doll): Product information: Category: plush doll Shape category: plant Filling material: PP cotton Plush classification: short plush Packing list: Plush doll * 1
-  Updated: 2025-10-27T13:44:54Z
+  Updated: 2025-10-28T01:38:58Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/22753628-6765-4eb8-a619-95d2f468a6bc.jpg?v=1761572332
   Price: CHF 23.50 CHF
 - [New Football Tennis Ball Shaped Pet Dog Toys, Durable Teething Relief To Accompany Outdoor Training Squeak Toys](https://cilly.us/products/new-football-tennis-ball-shaped-pet-dog-toys-durable-teething-relief-to-accompany-outdoor-training-squeak-toys)
-  Updated: 2025-10-27T13:44:55Z
+  Updated: 2025-10-28T01:40:35Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28646,7 +28646,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/a4a3e666-b115-4e21-98cd-482baed59a80.jpg?v=1761572441
     Price: CHF 16.80 CHF
 - [Cord Teether Bends And Hitches Bite-resistant Tug-of-war Woven Bends And Hitches Interactive Relieving Stuffy Pet Toy](https://cilly.us/products/cord-teether-bends-and-hitches-bite-resistant-tug-of-war-woven-bends-and-hitches-interactive-relieving-stuffy-pet-toy): Product information: Color: green, orange, blue Material: Polyester Category: Pet Toys Packing size: Green: 24*12 * 8CM Orange: 24*13 * 7CM Blue: 22.5*13 * 9CM Packing list: Toy x 1pc Product Image:
-  Updated: 2025-10-27T13:47:02Z
+  Updated: 2025-10-28T01:43:46Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28663,6 +28663,596 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d560d430-c181-4111-a055-50700ee529ae.jpg?v=1761572627
     Price: CHF 12.20 CHF
+- [Automatic Telescopic Traction Rope Pet Products](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products): Product Information: Product Category: Traction Belt Packing size: 23*16*5cm Material: shell ABS, inner core nylon Net weight: 423g Color: dream black, pear white, Chinese red, apple green, dynamic yellow, crystal purple Features: free expansion, flexible control, green and safe Specification: L-5m flat belt (single weight 424g) L-8m round rope (single weight 430g)
+  Updated: 2025-10-27T19:50:25Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786190.jpg?v=1761594255
+  - [Black / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070294869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786787.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Black / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070327637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786787.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Green / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070360405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786209.jpg?v=1761594260
+    Price: CHF 15.40 CHF
+  - [Green / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070393173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786209.jpg?v=1761594260
+    Price: CHF 15.40 CHF
+  - [Grey / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070425941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786236.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Grey / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070458709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786236.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Purple / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070491477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786242.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Purple / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070524245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786242.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Red / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070557013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786190_50dc7e61-3ff3-4922-87f1-6c4be7255a8d.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Red / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070589781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786190_50dc7e61-3ff3-4922-87f1-6c4be7255a8d.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [White / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070622549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786255.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [White / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070655317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786255.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Yellow / 5M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070688085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786224.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+  - [Yellow / 8M](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products?variant=51786070720853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613972786224.jpg?v=1761594259
+    Price: CHF 15.40 CHF
+- [Cute King Star Retractable Pet Leash Dog Leash Dog Chain Leash Collar Amazon Hot](https://cilly.us/products/cute-king-star-retractable-pet-leash-dog-leash-dog-chain-leash-collar-amazon-hot): Product information: Material: ABS Product category: Traction belt Scalable: Yes Color: cherry pink, neutral gray Retractable pet leash dog leash dog chain leash collar
+  Updated: 2025-10-27T20:07:56Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1613459759467.jpg?v=1761594372
+  Price: CHF 38.90 CHF
+- [Five-piece pet cleaning supplies](https://cilly.us/products/five-piece-pet-cleaning-supplies): Material: ABS Product Category: Comb brush Color: blue, pink Products: nail clippers, automatic shrink traction rope, single-row long and short needle steel comb, open knot blade comb, pet grooming soft bottom fluffy comb Storing the storage box, there are three places for carrying handles, you can carry it as you like!
+  Updated: 2025-10-27T20:07:57Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/277133771686.jpg?v=1761594463
+  - [Blue](https://cilly.us/products/five-piece-pet-cleaning-supplies?variant=51786078159189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1032939844787.jpg?v=1761594472
+    Price: CHF 38.90 CHF
+  - [Pink](https://cilly.us/products/five-piece-pet-cleaning-supplies?variant=51786078191957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2307342388231.jpg?v=1761594471
+    Price: CHF 38.90 CHF
+- [Pet automatic leash](https://cilly.us/products/pet-automatic-leash): Specifications: Giving your dog a very good range and freedom of movement. This leash is perfect for small and medium pets. One-handed braking and locking system stops pet from advancing. Retractable style design, the leash can auto stretch out and draw back. Push-button stop with lock. Big handle for easy gripping, even with mittens or gloves. Item Name: Lead Leash Material: Nylon Length: 5m Notes: Due to the light and screen setting difference, the item's color may be slightly different from the pictures. Please allow slight dimension difference due to different manual measurement. Package Included: 1 x Lead Leash
+  Updated: 2025-10-27T20:07:57Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/388438224681.jpg?v=1761594537
+  - [Black / M](https://cilly.us/products/pet-automatic-leash?variant=51786080878933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2779591162745.jpg?v=1761594542
+    Price: CHF 10.50 CHF
+  - [Blue / M](https://cilly.us/products/pet-automatic-leash?variant=51786080911701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/737349715156.jpg?v=1761594542
+    Price: CHF 10.50 CHF
+  - [Color / M](https://cilly.us/products/pet-automatic-leash?variant=51786080944469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/113510293205.jpg?v=1761594542
+    Price: CHF 10.50 CHF
+  - [Pink / M](https://cilly.us/products/pet-automatic-leash?variant=51786080977237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/388438224681_ecda604b-c40d-4057-bdc2-56e867b1e22d.jpg?v=1761594542
+    Price: CHF 10.50 CHF
+  - [Rose Red / M](https://cilly.us/products/pet-automatic-leash?variant=51786081010005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1405734728035.jpg?v=1761594542
+    Price: CHF 10.50 CHF
+  - [White / M](https://cilly.us/products/pet-automatic-leash?variant=51786081042773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1681560864726.jpg?v=1761594543
+    Price: CHF 10.50 CHF
+- [Kitchen Pot](https://cilly.us/products/kitchen-pot): [Name] deep fryer. [Material] pot body: 304 stainless steel [Specification] 20m [Applicable number] 1-2 people [Process] perfusion process [Note] This product is a special fryer, not recommended for cooking stew or stir-frying! Size：M：20*8cm L: 24*8cm Color：Sliver Material: Iron As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. 1. Removable oil drain. Stainless steel drain rack, side fried It's simple and convenient! 2.Beak diversion Easy to pour oil after frying, no need Worried about hanging oil during dumping! 3. Intimate thermometer Control the oil temperature of different foods Avoid frying or unheated inside
+  Updated: 2025-10-27T20:07:56Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1336537755490.jpg?v=1761594882
+  - [Silver / 20X8cm](https://cilly.us/products/kitchen-pot?variant=51786114433365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1596658980338.jpg?v=1761594892
+    Price: CHF 32.60 CHF
+  - [Silver / 24X8cm](https://cilly.us/products/kitchen-pot?variant=51786114466133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/639243408562.jpg?v=1761594892
+    Price: CHF 37.80 CHF
+- [5 Speeds 500W High Power Electric Food Mixer Hand Blender Dough Blender Egg Beater Hand Mixer For Kitchen 220V](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v): Overview: Whips,folds,blender, creams and mixes 5 speed control Turbo function with safety device: turbo function only works when the appliance is functioning Mixer hooks Beater hooks Easy beaters removal and clean 220-240V~ 50/60Hz 500W Specification: Voltage : 220-240V/50-60Hz Power : 500W Packing Size: 210*105*170mm Package Content: 1 x Food Mixer
+  Updated: 2025-10-27T20:07:56Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732.jpg?v=1761594971
+  - [White / EU](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v?variant=51786124886357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732_b5ed6b30-f38a-463e-b630-8ce180582b7a.jpg?v=1761594982
+    Price: CHF 36.10 CHF
+  - [White / UK](https://cilly.us/products/5-speeds-500w-high-power-electric-food-mixer-hand-blender-dough-blender-egg-beater-hand-mixer-for-kitchen-220v?variant=51786124919125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2096778608732_b5ed6b30-f38a-463e-b630-8ce180582b7a.jpg?v=1761594982
+    Price: CHF 36.10 CHF
+- [Medical Stone Non-stick Three-in-one Multi-function Omelette Pan](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan): Product information: Material: Aluminum Function: frying Features: Non-stick pan Bottom material: double bottom Color: 3-in-1 Black Breakfast Pan Applicable to common stoves：induction cookers, gas stoves Depth: 4.5cm Packing List： Non-stick pan*1
+  Updated: 2025-10-27T20:07:57Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b67d1363-2c02-4c44-9502-ab6a8dd2a856.jpg?v=1761595122
+  - [3in1 Black Breakfast Pan](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140189013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6d46f71c-6dab-4078-82d1-8388d07a09c8.jpg?v=1761595129
+    Price: CHF 33.60 CHF
+  - [Black](https://cilly.us/products/medical-stone-non-stick-three-in-one-multi-function-omelette-pan?variant=51786140221781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/03430efd-8f59-4a11-b781-017914be86bf_trans.jpg?v=1761595129
+    Price: CHF 33.60 CHF
+- [Kitchen Heatable Food Hood Insulation](https://cilly.us/products/kitchen-heatable-food-hood-insulation): Product information: Material: PP Size: three layers, four layers, five layers Specifications: ordinary, heightened Style: modern minimalist Packing list: Rice cover *3 layers/*4 layers/*5 layers
+  Updated: 2025-10-27T20:03:17Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/76c47efe-0e54-4d79-aae7-c6520775d4a2.jpg?v=1761595262
+  - [3layers / Heightened](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152378709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1c6daa62-a771-438a-b05e-e82bc73897e7.jpg?v=1761595266
+    Price: CHF 32.20 CHF
+  - [3layers / Ordinary](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152411477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1c6daa62-a771-438a-b05e-e82bc73897e7.jpg?v=1761595266
+    Price: CHF 31.20 CHF
+  - [4layers / Heightened](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152444245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47d394d2-0f9a-4c64-9bc0-710611686863.jpg?v=1761595265
+    Price: CHF 9.90 CHF
+  - [4layers / Ordinary](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152477013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47d394d2-0f9a-4c64-9bc0-710611686863.jpg?v=1761595265
+    Price: CHF 9.40 CHF
+  - [5layers / Heightened](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152509781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/57f62ae4-a636-4490-8a11-ac20d3f3a49c.jpg?v=1761595266
+    Price: CHF 11.50 CHF
+  - [5layers / Ordinary](https://cilly.us/products/kitchen-heatable-food-hood-insulation?variant=51786152542549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/57f62ae4-a636-4490-8a11-ac20d3f3a49c.jpg?v=1761595266
+    Price: CHF 10.60 CHF
+- [Teddy dog clothes](https://cilly.us/products/teddy-dog-clothes): Material: Cotton Whether to import: No Product category: cotton clothes style: Casual Applicable gender: general Color: yellow, gray, green Size: S, M, L, XL, XXL S chest 32cm / 12.58 \' length 20cm / 7.87 \' neck 23cm / 9.06 \' M chest 37cm / 14.56 \' length 25cm / 9.84 \' neck 26cm / 10.24 \' L chest 42cm / 16.53 \' length 30cm / 11.81 \' neck 29cm / 11.42 \' XL chest 47cm / 18.50 \' length 35cm / 13.77 \' neck 32cm / 12.6 \' XXL chest 52cm / 20.47 \' length 40cm / 15.74 \' neck 35cm / 13.78 \' 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-10-28T00:11:52Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/46423088820.jpg?v=1761607477
+  - [Green / L](https://cilly.us/products/teddy-dog-clothes?variant=51787750670677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/291098715177.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Green / M](https://cilly.us/products/teddy-dog-clothes?variant=51787750703445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/291098715177.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Green / S](https://cilly.us/products/teddy-dog-clothes?variant=51787750736213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/291098715177.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Green / XL](https://cilly.us/products/teddy-dog-clothes?variant=51787750768981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/291098715177.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Green / XXL](https://cilly.us/products/teddy-dog-clothes?variant=51787750801749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/291098715177.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Grey / L](https://cilly.us/products/teddy-dog-clothes?variant=51787750834517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1946266829813.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Grey / M](https://cilly.us/products/teddy-dog-clothes?variant=51787750867285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1946266829813.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Grey / S](https://cilly.us/products/teddy-dog-clothes?variant=51787750900053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1946266829813.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Grey / XL](https://cilly.us/products/teddy-dog-clothes?variant=51787750932821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1946266829813.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Grey / XXL](https://cilly.us/products/teddy-dog-clothes?variant=51787750965589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1946266829813.jpg?v=1761607487
+    Price: CHF 16.40 CHF
+  - [Yellow / L](https://cilly.us/products/teddy-dog-clothes?variant=51787750998357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
+    Price: CHF 16.40 CHF
+  - [Yellow / M](https://cilly.us/products/teddy-dog-clothes?variant=51787751031125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
+    Price: CHF 16.40 CHF
+  - [Yellow / S](https://cilly.us/products/teddy-dog-clothes?variant=51787751063893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
+    Price: CHF 16.40 CHF
+  - [Yellow / XL](https://cilly.us/products/teddy-dog-clothes?variant=51787751096661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
+    Price: CHF 16.40 CHF
+  - [Yellow / XXL](https://cilly.us/products/teddy-dog-clothes?variant=51787751129429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/85246756616.jpg?v=1761607488
+    Price: CHF 16.40 CHF
+- [Pet  light and warm cotton clothing](https://cilly.us/products/pet-light-and-warm-cotton-clothing): Material: Cotton size/cm XS S M L XL bust 29 33 38 42 46 length 20 24 29 33 38 1. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-10-28T00:11:53Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3592441793083.jpg?v=1761607624
+  - [Green / L](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759747413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/650245546130.jpg?v=1761607633
+    Price: CHF 18.20 CHF
+  - [Green / M](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759780181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/650245546130.jpg?v=1761607633
+    Price: CHF 18.20 CHF
+  - [Green / S](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759812949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/650245546130.jpg?v=1761607633
+    Price: CHF 18.20 CHF
+  - [Green / XL](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759845717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/650245546130.jpg?v=1761607633
+    Price: CHF 18.20 CHF
+  - [Green / XS](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759878485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/650245546130.jpg?v=1761607633
+    Price: CHF 18.20 CHF
+  - [Grey / L](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759911253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/431823356044.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Grey / M](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759944021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/431823356044.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Grey / S](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787759976789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/431823356044.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Grey / XL](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760009557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/431823356044.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Grey / XS](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760042325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/431823356044.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Red / L](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760075093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Red / M](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760107861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Red / S](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760140629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Red / XL](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760173397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+  - [Red / XS](https://cilly.us/products/pet-light-and-warm-cotton-clothing?variant=51787760206165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2829636660984.jpg?v=1761607632
+    Price: CHF 18.20 CHF
+- [Pet Clothes For Autumn And Winter Warm Dog Clothes For Winter](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter): Product information: Material cloth Product category: Cotton style: Casual Color: black, khaki Size: S (90g), M (115g), L (135g), XL (165g) Packaging Information: Pet clothes 2x1 Size（cm） Bust Neck Back length S 45 34 25 M 55 36 30 L 60 40 35 XL 65 44 40
+  Updated: 2025-10-28T00:11:52Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2b6bc49c-1ecf-4f24-b160-9c025f08ab3d.jpg?v=1761607726
+  - [Black / L](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787765842261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1eeaf984-1a7a-4a3b-8bbc-d5d0de5a0302.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Black / M](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787765875029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1eeaf984-1a7a-4a3b-8bbc-d5d0de5a0302.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Black / S](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787765907797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1eeaf984-1a7a-4a3b-8bbc-d5d0de5a0302.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Black / XL](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787765940565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1eeaf984-1a7a-4a3b-8bbc-d5d0de5a0302.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Khaki / L](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787765973333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3545f48b-68d5-4105-985d-e9151f9a7460.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Khaki / M](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787766006101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3545f48b-68d5-4105-985d-e9151f9a7460.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Khaki / S](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787766038869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3545f48b-68d5-4105-985d-e9151f9a7460.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+  - [Khaki / XL](https://cilly.us/products/pet-clothes-for-autumn-and-winter-warm-dog-clothes-for-winter?variant=51787766071637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3545f48b-68d5-4105-985d-e9151f9a7460.jpg?v=1761607731
+    Price: CHF 19.20 CHF
+- [Pet Chest Harness  Dog Leash  Pet Supplies](https://cilly.us/products/pet-chest-harness-dog-leash-pet-supplies): Product information: Material: Nylon Category: Chest strap Scalable or not: Yes Color: blue, black, red, purple, orange, green, rose red, pink, five-pointed star, Tang suit red, Tang suit blue, Tang suit yellow, 1.2m ordinary traction rope black, 1.5m climbing rope black, 1.2m eight-strand rope black, 1.5m spring traction rope black, 1.5m reflective round rope black, camouflage rose red, camouflage white, camouflage green, camouflage blue, camouflage red, graffiti blue, graffiti black, graffiti red, beige, beige Specifications (length * width): baby1, baby2, XS, S, M, L, XL, XXL Size Information: Size: baby1, baby2, XS, S, M, L, XL, XXL Package: Towing rope x1
+  Updated: 2025-10-28T00:11:51Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/12bbc038-063a-46be-9ebb-8dbe9fef978e_DIY_Purple.jpg?v=1761607857
+  Price: CHF 15.40 CHF
+- [Personalized Reflective Breathable Adjustable Dog Harness and Leash Set](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set): Harness Specification: Material: Nylon Product Category: Chest strap Can it be stretched: unit：cm Dog chest range Size Adjustable bust/cm The wight of dog/kg XS 36-50 3.5-7.5 S 50-60 7-13 M 55-65 12-23 L 65-80 23-29 XL 70-90 28-40 XXL 90-120 40-80 Leash Specification： Length: 1.5M*1.2cm(diametre) Material: polyester
+  Updated: 2025-10-28T00:11:54Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1348145938.jpg?v=1761607987
+  - [Black set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803787605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Black set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803820373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Black set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803853141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Black set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803885909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Black set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803918677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Black set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803951445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5135398199282.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787803984213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804016981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804049749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804082517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804115285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Blue set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804148053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7535196159076.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804180821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804213589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804246357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804279125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804311893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Green set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804344661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/114655689895.jpg?v=1761607996
+    Price: CHF 18.10 CHF
+  - [Orange set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804377429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Orange set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804410197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Orange set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804442965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Orange set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804475733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Orange set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804508501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Orange set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804541269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/656427177924.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804574037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804606805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804639573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804672341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804705109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Pink set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804737877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1364410155975.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804770645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804803413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804836181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804868949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804901717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Purple set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804934485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/649001423061.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / L](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787804967253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / M](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787805000021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / S](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787805032789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / XL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787805065557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / XS](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787805098325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+  - [Red set / XXL](https://cilly.us/products/personalized-reflective-breathable-adjustable-dog-harness-and-leash-set?variant=51787805131093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93113422011.jpg?v=1761607997
+    Price: CHF 18.10 CHF
+- [Medium And Large Dog Pet Chest Harness Breathable Reflective Vest-style Vest Dog Harness Big Dog Chest Harness Explosion-proof Customized](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized): Product information: Product Name: pet chest strap breathable reflective Product category: chest strap Color: black, red, green Size information: Bust can be adjusted weight reference (kg) M 45-65CM 10-25 L 55-75CM 25-40 XL 65-90CM 40-75 XXL 75-105CM 75-120 Packing list: Chest strap x1
+  Updated: 2025-10-27T23:36:45Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/bfbb96d4-cd5b-4a91-a9d3-4aae0706b8dc.jpg?v=1761608088
+  - [Black / 2XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810144597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/406b8d20-6bfd-4b1d-91f8-b2b231bb88a3.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Black / L](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810177365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/406b8d20-6bfd-4b1d-91f8-b2b231bb88a3.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Black / M](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810210133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/406b8d20-6bfd-4b1d-91f8-b2b231bb88a3.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Black / XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810242901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/406b8d20-6bfd-4b1d-91f8-b2b231bb88a3.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Red / 2XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810275669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9c98de38-49b6-4459-acf3-f186d5e8c6ba.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Red / L](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810308437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9c98de38-49b6-4459-acf3-f186d5e8c6ba.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Red / M](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810341205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9c98de38-49b6-4459-acf3-f186d5e8c6ba.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Red / XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810373973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9c98de38-49b6-4459-acf3-f186d5e8c6ba.jpg?v=1761608094
+    Price: CHF 17.80 CHF
+  - [Yellow / 2XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810406741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60e7f7a2-3e92-4bf2-924f-cd3040b1405d.jpg?v=1761608093
+    Price: CHF 17.80 CHF
+  - [Yellow / L](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810439509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60e7f7a2-3e92-4bf2-924f-cd3040b1405d.jpg?v=1761608093
+    Price: CHF 17.80 CHF
+  - [Yellow / M](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810472277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60e7f7a2-3e92-4bf2-924f-cd3040b1405d.jpg?v=1761608093
+    Price: CHF 17.80 CHF
+  - [Yellow / XL](https://cilly.us/products/medium-and-large-dog-pet-chest-harness-breathable-reflective-vest-style-vest-dog-harness-big-dog-chest-harness-explosion-proof-customized?variant=51787810505045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60e7f7a2-3e92-4bf2-924f-cd3040b1405d.jpg?v=1761608093
+    Price: CHF 17.80 CHF
 
 ## Collections
 
@@ -28670,11 +29260,11 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-27T13:45:26Z
-  Total Products: 354
+  Updated: 2025-10-27T23:38:11Z
+  Total Products: 364
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-10-27T13:45:26Z
-  Total Products: 405
+  Updated: 2025-10-27T23:38:11Z
+  Total Products: 415
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-27T09:17:37Z
   Total Products: 131
@@ -28700,14 +29290,14 @@
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
 - [Küche | Küchenbedarf, Küchengeräte & Zubehör online](https://cilly.us/collections/kuche): Hol dir alles für deine Küche: Küchenhelfer, Küchengeräte, Utensilien & Zubehör. Jetzt bei Alles für deine Haustiere – sicher, einfach & schnell online kaufen.
-  Updated: 2025-10-21T19:19:29Z
-  Total Products: 83
+  Updated: 2025-10-27T20:03:12Z
+  Total Products: 87
 - [Küchengeräte | Elektrogeräte & Küchenmaschinen online](https://cilly.us/collections/kuchengerate): Hol dir Küchengeräte für jede Küche: Mixer, Toaster, Kaffeemaschinen & mehr. Große Auswahl bei Alles für deine Haustiere – schnell & sicher online bestellen.
-  Updated: 2025-10-21T14:08:02Z
-  Total Products: 58
+  Updated: 2025-10-27T20:03:12Z
+  Total Products: 62
 - [Küchenbedarf | Küchenzubehör & Küchenhelfer online](https://cilly.us/collections/kuchenbedarf): Bei Alles für deine Haustiere findest du günstigen Küchenbedarf, Utensilien & Kochzubehör für jeden Haushalt. Qualität günstig online kaufen & genießen.
-  Updated: 2025-10-21T19:19:29Z
-  Total Products: 77
+  Updated: 2025-10-27T20:03:12Z
+  Total Products: 81
 - [Haushalt](https://cilly.us/collections/haushalt)
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
@@ -28751,11 +29341,11 @@
   Updated: 2025-09-27T01:46:43Z
   Total Products: 2
 - [Hundeleine](https://cilly.us/collections/hundeleine)
-  Updated: 2025-10-21T19:48:03Z
-  Total Products: 43
+  Updated: 2025-10-27T19:50:57Z
+  Total Products: 47
 - [Halsband](https://cilly.us/collections/hundehalsband-hundegeschirr)
-  Updated: 2025-10-21T19:52:48Z
-  Total Products: 113
+  Updated: 2025-10-27T23:37:16Z
+  Total Products: 116
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
   Updated: 2025-10-27T13:45:26Z
   Total Products: 52
@@ -28763,8 +29353,8 @@
   Updated: 2025-10-27T09:17:37Z
   Total Products: 47
 - [Hundekleider](https://cilly.us/collections/hundekleider)
-  Updated: 2025-10-22T22:15:43Z
-  Total Products: 22
+  Updated: 2025-10-27T23:38:11Z
+  Total Products: 25
 - [Hundefutter](https://cilly.us/collections/hundefutter)
   Updated: 2025-09-27T15:04:36Z
   Total Products: 4
