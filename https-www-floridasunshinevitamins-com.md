@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-10-27T08:00:47.530Z
+- Updated At: 2025-10-28T08:00:52.882Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/coq10_e2991e8d-5d4e-455c-8539-b62c583e1a6a.webp?v=1761300041
   Price: £15.99 GBP
 - [Liposomal Quercetin - 120 Capsules (250mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
-  Updated: 2025-10-26T21:07:40Z
+  Updated: 2025-10-27T09:19:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -60,21 +60,21 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Daily_Defender_Bundle.webp?v=1761300553
   Price: £46.99 GBP
 - [Core Wellness Bundle](https://www.floridasunshinevitamins.com/products/core-wellness-bundle): The Core Wellness Bundle brings together three essential supplements to support your immune resilience, energy production, and long-term eye health. This carefully selected trio helps you maintain balance and vitality as you age, offering foundational support for overall well-being. Liposomal PureWay-CA highly absorbable form of Vitamin C that plays a role in supporting the normal function of the immune system and overall wellness. LuteinAn antioxidant that plays a role in supporting eye health and maintaining cognitive function. CoQ10Supports cellular energy production and heart health, helping you stay active and energized throughout the day. Ideal For: Adults over 40 looking to maintain overall health. Anyone focused on daily energy, immune function, and eye wellness. Those seeking a simple, well-rounded approach to long-term vitality. With the Core Wellness Bundle, you’re investing in daily wellness that supports your body, sharpens your mind, and helps protect your vision. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-26T21:07:45Z
+  Updated: 2025-10-27T09:19:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Core_Wellness_Bundle.webp?v=1761300623
   Price: £48.99 GBP
 - [Focus & Flow Bundle](https://www.floridasunshinevitamins.com/products/focus-flow-bundle): The Focus & Flow Bundle brings together three powerful supplements to support brain function, protect your eyes from digital strain, and fuel your body with lasting energy. This trio is perfect for today’s fast-paced, screen-heavy lifestyle, helping you stay sharp, energized, and focused throughout the day. CoQ10Supports cellular energy production and heart health, helping you stay energized and active throughout long hours. LuteinAn antioxidant that supports eye health and helps protect against the effects of prolonged screen time. Liposomal QuercetinSupports cognitive balance and helps the body manage daily stressors, contributing to resilience. Ideal For: Professionals needing focus and stamina during demanding workdays. Students looking for study support. Gamers who spend extended hours in front of screens. Anyone with high screen time seeking brain and eye wellness. The Focus & Flow Bundle supports mental clarity, energy levels, and eye health, helping you stay prepared for your daily tasks and challenges. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-26T21:07:45Z
+  Updated: 2025-10-27T09:19:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Focus_Flow_Bundle.webp?v=1761300685
   Price: £46.99 GBP
 - [Enhanced Immunity Bundle](https://www.floridasunshinevitamins.com/products/enhanced-immunity-bundle): The Enhanced Immunity Bundle combines three advanced liposomal supplements to help support your immune system, promote mood balance, and manage inflammation. These supplements work together to help you stay resilient, especially during the colder months. Liposomal Vitamin D3Supports the normal function of the immune system and plays a role in bone health. Particularly beneficial in regions with limited sunlight. Liposomal PureWay-CA highly bioavailable form of Vitamin C that plays a role in supporting immune function and providing antioxidant protection. Liposomal QuercetinSupports the body’s natural inflammatory response and helps maintain overall balance. Ideal For: The winter months when immune support and mood balance may be needed. Adults living in low-sunlight regions. Anyone seeking additional immune support alongside overall wellness benefits. With the Enhanced Immunity Bundle, you're supporting your immune system and reinforcing your overall health, helping you stay balanced and prepared for the season. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-26T21:07:45Z
+  Updated: 2025-10-27T09:19:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -91,16 +91,16 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-10-24T11:22:09Z
+  Updated: 2025-10-27T11:19:51Z
   Total Products: 5
 - [Liposomal Vitamins Collection – Florida Sunshine](https://www.floridasunshinevitamins.com/collections/vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-10-24T11:22:09Z
+  Updated: 2025-10-27T11:19:51Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/bundles)
   Updated: 2025-10-11T05:13:38Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
-  Updated: 2025-10-24T11:22:09Z
+  Updated: 2025-10-27T11:19:51Z
   Total Products: 6
 
 ## Store Pages
