@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-27T20:00:34.757Z
+- Updated At: 2025-10-28T00:00:32.296Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,7 +24,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-10-27T14:45:26Z
+  Updated: 2025-10-27T23:27:42Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-10-27T14:45:28Z
+  Updated: 2025-10-27T23:27:42Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -204,7 +204,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
     Updated: 2025-10-26T16:19:12Z
     Author: Angela Korish
   - [Why Wood Pellet Heaters Win on the Patio | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-wood-pellet-infrared-heaters-outperform-every-other-outdoor-heating-solution): Why Wood Pellet Heaters Win on the Patio | Patiofyre
-    Updated: 2025-10-27T17:53:12Z
+    Updated: 2025-10-27T23:51:06Z
     Author: Adam Kleinberg
     Tags: Efficient Outdoor Heating, infrared heat, Wood Pellet Heater
 
