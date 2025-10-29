@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-28T04:00:41.936Z
+- Updated At: 2025-10-29T00:00:44.125Z
 
 ## Products
 
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Magino-Stool-with-Magazine-Rack-Clear-8.jpg?v=1727659783
   Price: $559.99 NZD
 - [Brabantia WallFix Retractable Clothesline with Protective Cover - 24m Metallic Grey](https://everydayhome.co.nz/products/brabantia-wallfix-retractable-clothesline-24m-with-protection-cover-metallic-grey): Wallfix  Dryer, 24M, W/Cover, Metallic Grey
-  Updated: 2025-10-27T12:31:51Z
+  Updated: 2025-10-28T20:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1173,14 +1173,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Hangon-Drying-Rack-25M-Matt-Black-8_5e698c18-5350-4b34-b198-0eca35a632a5.png?v=1730849647
   Price: $176.99 NZD
 - [Brabantia Ironing Board B - Denim Blue](https://everydayhome.co.nz/products/ironing-board-b-124x38cm-sir-22mm-black-frame-denim-blue): Sturdy, stable and designed for easy ironing - this standard Brabantia Ironing Board B is setting the standards. It has a steam iron rest that is suitable for left and righthanded use, a sturdy and stable frame and more. Check out all those other nifty features that make this board great value for great ironing.
-  Updated: 2025-10-27T12:32:45Z
+  Updated: 2025-10-28T20:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Ironing-Board-B-Denim-Blue-6.png?v=1727658841
   Price: $249.99 NZD
 - [Brabantia Ironing Board B - Spring Bubbles](https://everydayhome.co.nz/products/ironing-board-b-124x38cm-sir-22mm-black-frame-spring-bubbles): Sturdy, stable and designed for easy ironing - this standard Brabantia Ironing Board B is setting the standards. It has a steam iron rest that is suitable for left and righthanded use, a sturdy and stable frame and more. Check out all those other nifty features that make this board great value for great ironing.
-  Updated: 2025-10-28T01:07:11Z
+  Updated: 2025-10-28T20:22:09Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1271,7 +1271,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Compact-Dish-Drying-Rack-Light-Grey-2.png?v=1727659676
   Price: $99.99 NZD
 - [Brabantia SinkSide Dish Drying Rack - Light Grey](https://everydayhome.co.nz/products/dish-drying-rack-light-grey): This Brabantia SinkSide Dish Drying Rack is designed for keeping your dripping dishes. It has a sleek design, but space for up to 13 plates plus bowls, cutlery and glasses. It has a removable cutlery basket and a sloping drip tray too, so drippings run directly into the sink. This rack is on track!
-  Updated: 2025-10-27T12:32:52Z
+  Updated: 2025-10-28T06:00:16Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1299,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Steam-Board-Grey-0.png?v=1727659548
   Price: $139.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Pepper Black](https://everydayhome.co.nz/products/foldable-steaming-board-pepper-black): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-10-27T12:32:55Z
+  Updated: 2025-10-28T19:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1691,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-18cm-2-8L-Covered-Sauce-0.jpg?v=1731902998
   Price: $209.99 NZD
 - [Circulon Scratchdefense A1 - 21.5/25.4cm Skillet Twin Pack](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5-25-4cm-skillet-twin-pack): The Frypan Twin Pack is your essential kitchen companion for perfecting your cooking skills. This premium set includes two frypans with a generous 21.5cm and 25.4cm diameter, ideal for a variety of culinary tasks.
-  Updated: 2025-10-27T12:33:22Z
+  Updated: 2025-10-28T22:37:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1705,7 +1705,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-21-5cm-Open-Skillet-Cir-8.jpg?v=1731902858
   Price: $129.99 NZD
 - [Circulon Scratchdefense A1 - 24cm/7.6L Covered Stockpot](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-24cm-7-6l-covered-stockpot): Elevate your culinary game with the Covered Stockpot 24cm/7.6L. Crafted for perfection, this nonstick, durable stockpot ensures even cooking and easy cleanup. Ideal for soups, stews, pasta and stocks, it’s a versatile piece of cookware for cooking for a family or entertaining guests.
-  Updated: 2025-10-27T12:33:23Z
+  Updated: 2025-10-28T07:37:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $299.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-10-27T12:33:25Z
+  Updated: 2025-10-28T07:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2692,7 +2692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Topspinner60m_GroundSpike-MetallicGrey-8710755310867Brabantia_96dpi_1000x1000px_7_NR-28672.png?v=1734572963
   Price: $299.99 NZD
 - [Brabantia Topspinner Clothesline with Metal Ground Spike - 40m Metallic Grey](https://everydayhome.co.nz/products/topspinner-4-arm-clothesline-40m-metal-soil-spear-metallic-grey): A Brabantia rotary dryer that spins like a record, even with its arms full of wet laundry. But there’s more: like 40 metres of quality, UV-resistant non-slip washing lines. Thanks to the retension-system, these lines are always taut. And you know what's top too? The eye at the end of each arm to hang clothes hangers from and its sturdy hanging loop for easy storage. Top for you, top for the planet too.
-  Updated: 2025-10-27T12:34:32Z
+  Updated: 2025-10-28T20:52:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3020,13 +3020,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_M_setof2-Transparent-8710755148927Brabantia_96dpi_1000x1000px_7_NR-26289.png?v=1733862217
   Price: $29.99 NZD
-- [Brabantia Concrete Tube Plastic - 45mm Black](https://everydayhome.co.nz/products/concrete-plastic-tube-45mm-black): Keep your Brabantia rotary dryer where it belongs with this matching concrete tube. The handy plastic tube has a closable cap, so placing it in concrete is not only a breeze; you won’t have any obstacles in your garden either.
-  Updated: 2025-10-27T12:34:58Z
-  Vendor: BRABANTIA
-  Product Type: Laundry Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806.png?v=1733865565
-  Price: $31.99 NZD
 - [Brabantia Concrete Tube Plastic - 50mm Black](https://everydayhome.co.nz/products/concrete-plastic-tube-50mm-black): Keep your Brabantia rotary dryer where it belongs with this matching concrete tube. The handy plastic tube has a closable cap, so placing it in concrete is not only a breeze; you won’t have any obstacles in your garden either.
   Updated: 2025-10-27T12:34:58Z
   Vendor: BRABANTIA
@@ -3042,7 +3035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_0.6L-Transparent-8710755298288Brabantia_96dpi_1000x1000px_7_NR-1814.png?v=1734562722
   Price: $29.99 NZD
 - [Brabantia Premium Clothes Peg Bag - Mixed Colours](https://everydayhome.co.nz/products/clothes-peg-bag-premium-assorted-colours): Keep your clothes pegs close – store up to 150 of them in Brabantia's Premium Clothes Peg Bag. Attach it to your rotary dryer, line, drying rack or your trouser belt, to keep your pegs handy. This durable and solid Peg Bag even has a closing cord to keep your clothes pegs together and clean. Premium quality!
-  Updated: 2025-10-27T12:34:59Z
+  Updated: 2025-10-28T20:22:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3244,7 +3237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-27T04:26:46Z
+  Updated: 2025-10-28T09:26:50Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4181,7 +4174,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineGarlicPress-White-8710755400667Brabantia_300dpi_2000x2000px_9_NR-4565.jpg?v=1755820698
   Price: $29.95 NZD
 - [Brabantia Ironing Board Cover B - Denim Black](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-denim-black): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-10-27T19:52:11Z
+  Updated: 2025-10-28T20:22:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4794,22 +4787,22 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
   Updated: 2025-10-27T20:05:09Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-10-27T12:35:05Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-10-27T20:05:08Z
@@ -4863,7 +4856,7 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
   Updated: 2025-10-27T20:05:09Z
@@ -4938,7 +4931,7 @@
   Updated: 2025-10-27T12:33:17Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
-  Updated: 2025-10-27T12:34:42Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
   Updated: 2025-10-27T12:33:55Z
@@ -5019,7 +5012,7 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-10-27T12:35:07Z
@@ -5064,7 +5057,7 @@
   Updated: 2025-10-27T20:05:15Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-27T20:03:01Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 893
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-27T12:34:52Z
@@ -5106,10 +5099,10 @@
   Updated: 2025-10-27T12:35:07Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-27T20:03:01Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 893
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-10-27T12:34:23Z
@@ -5130,7 +5123,7 @@
   Updated: 2025-10-27T20:05:07Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-10-27T12:35:07Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
   Updated: 2025-10-27T12:34:52Z
@@ -5139,7 +5132,7 @@
   Updated: 2025-10-27T20:03:01Z
   Total Products: 123
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-10-28T11:07:13Z
   Total Products: 919
 - [Umbra Rodeo & Tipsy Buddy](https://everydayhome.co.nz/collections/umbra-rodeo-tipsy-buddy): For the host with the most. These aren't your average bottle openers - they balance, they entertain, and they kicks off cocktail hour with a whole lot of charm.
   Updated: 2025-10-28T03:10:41Z
