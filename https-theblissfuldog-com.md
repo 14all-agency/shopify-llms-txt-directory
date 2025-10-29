@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-28T20:01:09.538Z
+- Updated At: 2025-10-29T04:00:50.918Z
 
 ## Products
 
@@ -12947,7 +12947,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/OLDE_5TUBE_COMBO.jpg?v=1651437982
   Price: $19.95 USD
 - [Newfoundland Dog Skin Care Kit for Dry Noses & Paws + Elbow Calluses](https://theblissfuldog.com/products/newfoundland-tube-combo): Newfoundland dog skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your Newfie's tailor-made skin care kit.
-  Updated: 2025-10-16T15:41:15Z
+  Updated: 2025-10-29T00:37:41Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
