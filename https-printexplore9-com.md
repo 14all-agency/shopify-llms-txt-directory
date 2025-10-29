@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-28T20:00:34.768Z
+- Updated At: 2025-10-29T20:00:47.328Z
 
 ## Products
 
@@ -999,82 +999,70 @@
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/insulated-travel-mug-10oz.jpg?v=1759081873
   Price: $32.12 USD
 - [Unisex Heavy Blend™ Crewneck Sweatshirt](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt): Stand out with this Unisex Heavy Blend™ Crewneck Sweatshirt. Soft and cozy fabric for comfort. perfect for casual looks that make a statement.
-  Updated: 2025-10-12T09:52:47Z
+  Updated: 2025-10-29T13:43:20Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-6.jpg?v=1761745400
   - [S / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390851339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [S / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390884107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [S / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390916875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [M / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390949643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [M / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390982411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [M / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391015179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [L / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391047947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [L / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391080715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [L / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391113483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391146251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391179019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391211787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [2XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391244555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [2XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391277323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [2XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391310091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [3XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391342859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-1.jpg?v=1759081654
     Price: $39.95 USD
   - [3XL / Sport Grey](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391375627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-2.jpg?v=1759081660
     Price: $39.95 USD
   - [3XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391408395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
+    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
 - [Ultra-Soft & Comfy Infant Baby Rib Bodysuit](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore): Ultra-soft infant bodysuit with easy lap shoulders for quick changes. Made of 100% ring-spun cotton for ultimate comfort and gentle care. Perfect for your baby.
   Updated: 2025-10-12T09:53:31Z
@@ -1479,7 +1467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Best_Retinol_and_Peptide_Serum.jpg?v=1759082110
   Price: $34.90 USD
 - [Women’s Racerback Tank – Ultimate Comfort & Stylish Fit](https://printexplore9.com/products/womens-ideal-racerback-tank): Shop our Women's Ideal Racerback Tank for unmatched comfort and versatility. Perfect for any occasion, this tank is a must-have for your collection.
-  Updated: 2025-10-24T06:26:30Z
+  Updated: 2025-10-29T13:44:55Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
