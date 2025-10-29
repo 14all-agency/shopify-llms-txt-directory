@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-29T04:00:44.964Z
+- Updated At: 2025-10-29T16:00:41.184Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4731,29 +4731,29 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_22.webp?v=1754063213
   Price: £12.80 GBP
-- [Massage Tool Set – Facial & Body Anti-Aging Tools](https://crystalshealing.co.uk/products/massage-tool-set): Revitalize your skin and body with this complete massage tool set. Featuring 7 multifunctional beauty tools designed to improve circulation, tone facial muscles, and deliver visible anti-aging results. Whether you're looking to sculpt, relax, or restore balance, this set offers everything you need for a full facial and body massage experience. Crafted from high-quality, skin-safe resin, each tool targets specific areas with precision: A facial straggle bar for lifting and contouring An eye beauty bar for de-puffing and smoothing delicate skin A facial scraping plate and non-horn Gua Sha comb for lymphatic drainage A meridian point pen for acupressure and energy stimulation Additional tools to release tension, boost glow, and support skincare absorption Lightweight, durable, and easy to clean, this 7-piece massage tool set brings traditional wellness techniques into your modern skincare routine. Ideal for personal health care, daily rituals, or moments of deep relaxation. Key Benefits: Complete 7-in-1 massage tool set for face and body Made from smooth, durable resin – gentle on all skin types Helps reduce puffiness, fine lines, and muscle tension Stimulates blood flow, acupressure points, and lymphatic drainage Boosts skincare absorption and enhances natural glow Easy to use, travel-friendly, and ideal for daily self-care Discover the power of holistic beauty with this all-in-one Massage Tool Set.
-  Updated: 2025-10-23T15:22:50Z
+- [Massage Tool Set – Facial & Body Anti-Aging Tools](https://crystalshealing.co.uk/products/massage-tool-set): Revitalize your skin and body with this complete massage tool set. Featuring 7 multifunctional beauty tools designed to improve circulation, tone facial muscles
+  Updated: 2025-10-29T11:35:24Z
   Vendor: Crystals Healing
   Product Type: Massage Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_27.webp?v=1752568421
   Price: £17.80 GBP
-- [Black Obsidian Necklace – Protective Crystal on Wax Cord](https://crystalshealing.co.uk/products/black-obsidian-necklace-protective-crystal): Embrace balance, protection, and timeless simplicity with this handcrafted Black Obsidian Necklace. Featuring a polished oval black Obsidian pendant strung on a durable black wax cord. More than just a minimalist accessory, this black Obsidian necklace channels the grounding and shielding energy of black obsidian, known for its ability to absorb negativity and support emotional clarity. The smooth oval cut rests comfortably against the chest, making it ideal for everyday wear or intentional rituals. Whether worn as a spiritual talisman, natural energy cleanser, or stylish statement piece, this necklace complements any outfit while supporting your inner strength and focus. The adjustable wax cord ensures a secure and comfortable fit, while the deep black sheen of the stone adds a touch of subtle sophistication. Key Benefits: Made with genuine black obsidian – stone of protection and grounding Oval-shaped pendant for smooth, ergonomic contact with skin Lightweight and minimalist design suitable for daily wear Waxed cord offers durability and adjustable comfort Ideal for energy work, meditation, or fashion-forward styling Let this Black Obsidian Necklace become a grounding element in your daily life, where beauty meets energy and clarity.
-  Updated: 2025-10-23T15:11:09Z
+- [Black Obsidian Necklace – Protective Crystal on Wax Cord](https://crystalshealing.co.uk/products/black-obsidian-necklace-protective-crystal): Embrace balance, protection, and timeless simplicity with this handcrafted Black Obsidian Necklace. Featuring a polished oval black Obsidian pendant strung on a
+  Updated: 2025-10-29T14:55:09Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_32.webp?v=1752664474
   Price: £18.00 GBP
-- [Tiger Eye Tumbled Stone – Sacred Imperfection Edition](https://crystalshealing.co.uk/products/tiger-eye-tumbled-stone-sacred-imperfection-edition): Tiger Eye Tumbled Stone – Sacred Imperfection EditionLooking for a grounding crystal that supports confidence, clarity and protection? This ethically sourced Tiger Eye crystal is slightly flawed, yet spiritually powerful.Each stone may show minor chips, natural lines, or polishing imperfections, but the energy is intact and ready to support your healing journey.Energetic Benefits:– Encourages courage, focus and decision-making– Aids grounding and emotional stability– Balances the solar plexus chakraPerfect for:– Personal use in crystal grids or meditation– Beginner crystal collectors– Budget-conscious healersWhy choose Sacred Imperfections?– Ethically sourced and consciously discounted– Reduced waste, full spiritual value– Final sale, no returns Note: This is a discounted item from our Sacred Imperfections collection. Cosmetic flaw only – spiritual energy unaffected.
-  Updated: 2025-10-23T15:16:32Z
+- [Tiger Eye Tumbled Stone – Sacred Imperfection Edition](https://crystalshealing.co.uk/products/tiger-eye-tumbled-stone-sacred-imperfection-edition): Tiger Eye Tumbled Stone – Sacred Imperfection Edition Looking for a grounding crystal that supports confidence, clarity and protection? This ethically sourced T
+  Updated: 2025-10-29T11:12:42Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_4_1_-min_3e9f873a-e451-4bdd-97fc-592b381968c2_2_1.jpg?v=1754661030
   Price: £0.99 GBP
-- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant figurines are crafted from ethically sourced crystals, chosen for their unique energetic qualities.Each elephant is part of our Sacred Imperfections collection – meaning you may notice minor cosmetic flaws, surface marks, or inclusions.But rest assured: their spiritual integrity is untouched. In many traditions, elephants represent wisdom, stability, protection, and memory. These pocket-sized carvings are perfect for meditation, decor, or gifting with intention. Choose Your Crystal: Amethyst – Intuition • Calm • Dreamwork Supports the third eye and crown chakras. Perfect for spiritual connection, inner peace, and sleep rituals. Sodalite – Clarity • Truth • Communication Ideal for those seeking better self-expression, insight, and emotional balance. Tiger’s Eye – Courage • Protection • Grounding A powerful ally for confidence, decision-making, and emotional strength. Crazy Lace Agate – Joy • Stability • Vitality Known as the “Happy Lace”, this stone brings grounding with a playful twist – ideal for uplifting heavy energy. Crystal Elephant Figurine Details: Size: approx. 1.5" (L) × 0.8" (W) × 1" (H) Hand-carved from natural crystal Each piece is one-of-a-kind; expect natural variations Sold individually – choose your preferred stone Why Sacred Imperfections? Minor visual flaws, full spiritual power Helps reduce crystal waste from over-selection Lower cost, same energetic impact Final sale – we celebrate what’s perfectly imperfect Ideal For: Gifts with meaning & energy Altar decor or desk companions Pocket talismans Crystal healers & conscious collectors
-  Updated: 2025-10-10T05:20:51Z
+- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant
+  Updated: 2025-10-29T10:16:29Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4775,52 +4775,52 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_37_1.jpg?v=1754660496
     Price: £5.80 GBP
 - [Rose Quartz Wand – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-wand-sacred-imperfections): Rose Quartz Wand – Sacred Imperfections Edition Self-Love • Emotional Healing • Heart-Centered Energy What makes it unique: This natural rose quartz wand may sh
-  Updated: 2025-10-01T15:01:23Z
+  Updated: 2025-10-29T10:13:08Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
 - [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfec
-  Updated: 2025-10-25T19:47:00Z
+  Updated: 2025-10-29T10:08:05Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Etsy-PhotoRoom_3_81a7eed0-2a79-4967-8b58-a858fcc58d79.jpg?v=1754663688
   Price: £7.80 GBP
 - [Energy Cleansing Kit for Home & Spirit | Crystals Healing](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite): Energy Cleansing Kit with white sage, palo santo, selenite & beeswax candle. Cleanse your home energy, restore inner calm and invite harmony to your space.
-  Updated: 2025-10-24T12:02:00Z
+  Updated: 2025-10-29T10:06:16Z
   Vendor: Crystals Healing
   Product Type: Smudge
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_48.avif?v=1761305913
+  Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_40.avif?v=1761731712
   - [White](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665189757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_48.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_48.avif?v=1761731712
     Price: £21.80 GBP
   - [Red](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665222525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_41.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_41.avif?v=1761731712
     Price: £21.80 GBP
   - [Blue](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665255293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_46.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_46.avif?v=1761731712
     Price: £21.80 GBP
   - [Navy](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665288061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_47.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_47.avif?v=1761731712
     Price: £21.80 GBP
   - [Kaki](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665320829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_45.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_45.avif?v=1761731712
     Price: £21.80 GBP
   - [Orange](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665353597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_42.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_42.avif?v=1761731712
     Price: £21.80 GBP
   - [Pink](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite?variant=57242665386365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_44.avif?v=1761305913
+    Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_44.avif?v=1761731712
     Price: £21.80 GBP
 
 ## Collections
@@ -4877,7 +4877,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:56Z
   Total Products: 13
 - [Crystal Kits](https://crystalshealing.co.uk/collections/crystal-kits): Explore our crystal kits designed for love, protection, abundance, and self-care. Each set includes hand-selected stones and guidance to support your energy rituals. Ideal for beginners and intentional gifting.
-  Updated: 2025-10-25T07:14:48Z
+  Updated: 2025-10-29T09:52:37Z
   Total Products: 27
 - [Friendship Bracelets](https://crystalshealing.co.uk/collections/friendship-bracelets): Celebrate meaningful bonds with crystal friendship bracelets. Crafted with stones for love, loyalty & connection — like Rose Quartz, Lapis Lazuli & Moonstone — these pieces carry energy, intention and lasting memories.
   Updated: 2025-10-01T15:00:56Z
@@ -4886,7 +4886,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-27T11:20:59Z
   Total Products: 53
 - [Carved Crystals](https://crystalshealing.co.uk/collections/carved-crystals): Discover carved crystals that unite sacred symbolism with healing energy. From hearts and angels to spheres and palm stones - each piece is ethically hand-carved for beauty and intention.
-  Updated: 2025-10-01T15:00:56Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
   Updated: 2025-10-27T11:20:59Z
@@ -4910,7 +4910,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:57Z
   Total Products: 13
 - [Rose Quartz Crystals](https://crystalshealing.co.uk/collections/rose-quartz-crystals): Rose Quartz crystals radiate love, compassion, and emotional healing. Explore tumbled stones, bracelets, pendants & rings – all ethically crafted for heart-centered energy.
-  Updated: 2025-10-26T11:20:05Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 33
 - [Tiger Eye Crystals](https://crystalshealing.co.uk/collections/tiger-eye-crystals): Discover the power of Tiger Eye crystals – known for courage, grounding, and protection. Explore jewelry, tumbled stones, and spiritual tools handcrafted ethically.
   Updated: 2025-10-23T11:21:21Z
@@ -4940,7 +4940,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-16T11:19:17Z
   Total Products: 10
 - [Healing Stones](https://crystalshealing.co.uk/collections/healing-stones): Explore our full collection of natural Healing Stones – from raw stones to polished jewelry.
-  Updated: 2025-10-26T11:20:05Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 55
 - [Agate Crystals](https://crystalshealing.co.uk/collections/agate-crystals): Ground your energy with Agate crystals — known for emotional stability, mental clarity and gentle protection. Explore a variety of natural agate forms, from tumbled stones and jewelry to unique display pieces for your sacred space.
   Updated: 2025-10-01T15:00:58Z
@@ -5000,7 +5000,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:00Z
   Total Products: 4
 - [Shop Crystals](https://crystalshealing.co.uk/collections/shop-crystals): Shop our full crystal collection: raw stones, figurines, wands & sacred tools. Ethically sourced and intuitively selected for healing, manifestation and spiritual practice.
-  Updated: 2025-10-26T11:20:05Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
   Updated: 2025-10-27T11:20:59Z
@@ -5036,7 +5036,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-23T11:21:21Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-27T11:20:59Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 375
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5051,10 +5051,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-25T11:19:19Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-27T11:20:59Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 374
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
-  Updated: 2025-10-26T11:20:05Z
+  Updated: 2025-10-29T10:13:10Z
   Total Products: 5
 
 ## Blogs
