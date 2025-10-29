@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-28T20:00:51.337Z
+- Updated At: 2025-10-29T00:01:11.458Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
     Price: $54.00 USD
 - [Organic Cotton Men's T-Shirt – Sustainable & Eco-Friendly](https://baskandweave.com/products/unisex-organic-cotton-t-shirt): Shop our Organic Cotton Men's T-Shirt, crafted sustainably for comfort and style. Perfect eco-friendly choice for conscious shoppers.
-  Updated: 2025-10-27T23:18:32Z
+  Updated: 2025-10-28T20:15:51Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
     Price: $25.50 USD
   - [Stargazer / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437003514)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
     Price: $25.50 USD
   - [Stargazer / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437036282)
@@ -457,13 +457,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-678cb132c3c77.jpg?v=1737273688
     Price: $37.00 USD
 - [Men's USA Made T-Shirt – Durable & High-Quality Staple](https://baskandweave.com/products/unisex-t-shirt): Experience comfort and craftsmanship with our Men's USA Made T-Shirt. A durable, high-quality staple designed for everyday wear and lasting style.
-  Updated: 2025-10-27T23:29:36Z
+  Updated: 2025-10-28T20:16:16Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740360622
   - [Black / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062675292410)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
     Price: $28.50 USD
   - [Black / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062675325178)
@@ -471,15 +471,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
     Price: $28.50 USD
   - [Black / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675357946)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
     Price: $28.50 USD
   - [Black / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675390714)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
     Price: $28.50 USD
   - [Black / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675423482)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
     Price: $32.00 USD
   - [Black / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675456250)
@@ -495,7 +495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
     Price: $29.00 USD
   - [Navy / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675554554)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
     Price: $28.50 USD
   - [Navy / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675587322)
@@ -503,7 +503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
     Price: $28.50 USD
   - [Navy / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675620090)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
     Price: $32.00 USD
   - [Navy / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675652858)
@@ -519,7 +519,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
     Price: $28.50 USD
   - [Red / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675751162)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
     Price: $28.50 USD
   - [Red / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675783930)
@@ -547,7 +547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
     Price: $28.50 USD
   - [True Royal / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675980538)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
     Price: $28.50 USD
   - [True Royal / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676013306)
@@ -555,7 +555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
     Price: $32.00 USD
   - [True Royal / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676046074)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
     Price: $35.50 USD
   - [Athletic Heather / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062676078842)
@@ -563,11 +563,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $28.50 USD
   - [Athletic Heather / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062676111610)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $28.50 USD
   - [Athletic Heather / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062676144378)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $28.50 USD
   - [Athletic Heather / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676177146)
@@ -583,7 +583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $35.50 USD
   - [White / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062676275450)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $28.50 USD
   - [White / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062676308218)
@@ -599,15 +599,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $28.50 USD
   - [White / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676406522)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $32.00 USD
   - [White / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676439290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $35.50 USD
-- [Men's Staple Eco T-Shirt](https://baskandweave.com/products/unisex-staple-eco-t-shirt): Get an eco version of a beloved classic in this t-shirt made from 100% recycled materials. Its lightweight fabric and time-tested fit make this tee a true staple for warmer days.• 65% recycled polyester, 35% recycled Airlume combed and ring-spun cotton• Fabric weight: 4.2 oz./yd.² (142 g/m²)• 32 singles• Unisex sizing, regular fit• Side-seamed constructionThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-27T23:18:27Z
+- [Eco-Friendly Men's T-Shirt – Sustainable Cotton Staple](https://baskandweave.com/products/unisex-staple-eco-t-shirt): Choose sustainability with our Eco-Friendly Men's T-Shirt. Made from organic cotton for comfort, durability, and an eco-conscious lifestyle.
+  Updated: 2025-10-28T22:59:05Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -696,8 +696,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-eco-t-shirt-white-front-678cd3dd091f2.jpg?v=1737826749
     Price: $31.50 USD
-- [Men's Garment-Dyed Heavyweight T-Shirt](https://baskandweave.com/products/mens-garment-dyed-heavyweight-t-shirt): If you’re looking for a thick, structured tee that’s also super soft and breathable—look no further! The unisex garment-dyed heavyweight t-shirt ticks all the boxes and is made of 100% ring-spun cotton. The regular t-shirt style will complement most looks and fit you to a tee. • 100% ring-spun cotton • Fabric weight: 6.1 oz/yd² (206.8 g/m²) • Garment-dyed • Relaxed fit • 7/8″ double-needle topstitched collar • Twill-taped neck and shoulders for extra durability • Double-needle armhole, sleeve, and bottom hems • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) SLEEVE CENTER BACK (cm) S 46.4 67.6 41.3 M 51.4 71.1 45 L 55.9 74.6 48.3 XL 61 78.1 52 2XL 66 80.3 55.3 3XL 70.5 82.6 59 4XL 75.6 85 62.6
-  Updated: 2025-10-27T23:18:37Z
+- [Heavyweight Men's T-Shirt – Garment-Dyed Premium Tee](https://baskandweave.com/products/mens-garment-dyed-heavyweight-t-shirt): Upgrade your wardrobe with our Heavyweight Men's T-Shirt. Garment-dyed for a premium look and crafted for durability, comfort, and timeless style.
+  Updated: 2025-10-28T22:59:56Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -902,8 +902,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-heavyweight-t-shirt-berry-front-678e2e01dae17.jpg?v=1737371233
     Price: $34.00 USD
-- [Men's Classic Tee](https://baskandweave.com/products/mens-classic-tee): The 100% cotton classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton• Sport Grey is 90% cotton, 10% polyester• Ash Grey is 99% cotton, 1% polyester• Heather colors are 50% cotton, 50% polyester• Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn• Tubular fabric• Taped neck and shoulders• Double seam at sleeves and bottom hem• Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, MexicoThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58 4XL 86.4 76.2 61.5 5XL 89 81.3 64.3
-  Updated: 2025-10-27T23:18:32Z
+- [Men's Classic T-Shirt – Timeless, Comfortable Everyday Tee](https://baskandweave.com/products/mens-classic-tee): Discover the perfect fit with our Men's Classic T-Shirt. Soft, durable, and versatile—ideal for everyday comfort and effortless casual style.
+  Updated: 2025-10-28T23:00:32Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5072,13 +5072,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-6790e92e9c1bc.jpg?v=1737550260
     Price: $46.50 USD
 - [Men's Staple Embroidered T-Shirt (made in the USA)](https://baskandweave.com/products/mens-t-shirt-embroidered): Experience the best of American-made quality and style with this t-shirt. Get yours today and show your patriotism in style!• Solid colors are 100% Airlume combed and ring-spun cotton (Heather colors contain polyester)• Fabric weight: 4.2 oz./yd.² (142 g/m²)• Pre-shrunk fabric• Side-seamed construction• Shoulder-to-shoulder taping• Blank product sourced from the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-27T23:18:45Z
+  Updated: 2025-10-28T20:16:42Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
   - [Black / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070872961274)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
     Price: $32.00 USD
   - [Black / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070872994042)
@@ -5086,15 +5086,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
     Price: $32.00 USD
   - [Black / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873026810)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
     Price: $32.00 USD
   - [Black / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873059578)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
     Price: $32.00 USD
   - [Black / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873092346)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
     Price: $35.50 USD
   - [Black / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873125114)
@@ -5110,7 +5110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
     Price: $32.50 USD
   - [Navy / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873223418)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
     Price: $32.00 USD
   - [Navy / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873256186)
@@ -5118,7 +5118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
     Price: $32.00 USD
   - [Navy / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873288954)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
     Price: $35.50 USD
   - [Navy / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873321722)
@@ -5134,7 +5134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
     Price: $32.00 USD
   - [Red / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873420026)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
     Price: $32.00 USD
   - [Red / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873452794)
@@ -5162,7 +5162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
     Price: $32.00 USD
   - [True Royal / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873649402)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
     Price: $32.00 USD
   - [True Royal / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873682170)
@@ -5170,7 +5170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
     Price: $35.50 USD
   - [True Royal / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873714938)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
     Price: $39.00 USD
   - [Athletic Heather / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873747706)
@@ -5178,11 +5178,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $32.00 USD
   - [Athletic Heather / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873780474)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $32.00 USD
   - [Athletic Heather / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873813242)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $32.00 USD
   - [Athletic Heather / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873846010)
@@ -5198,7 +5198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $39.00 USD
   - [White / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873944314)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $32.00 USD
   - [White / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873977082)
@@ -5214,7 +5214,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $32.00 USD
   - [White / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874075386)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $35.50 USD
   - [White / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874108154)
@@ -10657,13 +10657,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-6795774311395.jpg?v=1737908014
     Price: $37.00 USD
 - [Women's Staple T-Shirt (made in the USA)](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa): Experience the best of American-made quality and style with this unisex t-shirt. Get yours today and show your patriotism in style! • Solid colors are 100% Airlume combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-27T23:19:01Z
+  Updated: 2025-10-28T20:16:16Z
   Vendor: Bask & Weave
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
   - [Black / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077544186)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
     Price: $28.50 USD
   - [Black / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077576954)
@@ -10671,15 +10671,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
     Price: $28.50 USD
   - [Black / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077609722)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
     Price: $28.50 USD
   - [Black / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077642490)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
     Price: $28.50 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077675258)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
     Price: $32.00 USD
   - [Black / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077708026)
@@ -10695,7 +10695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
     Price: $29.00 USD
   - [Navy / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077806330)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
     Price: $28.50 USD
   - [Navy / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077839098)
@@ -10703,7 +10703,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
     Price: $28.50 USD
   - [Navy / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077871866)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
     Price: $32.00 USD
   - [Navy / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077904634)
@@ -10719,7 +10719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
     Price: $28.50 USD
   - [Red / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078002938)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
     Price: $28.50 USD
   - [Red / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078035706)
@@ -10747,7 +10747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
     Price: $28.50 USD
   - [True Royal / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078232314)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
     Price: $28.50 USD
   - [True Royal / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078265082)
@@ -10755,7 +10755,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
     Price: $32.00 USD
   - [True Royal / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078297850)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
     Price: $35.50 USD
   - [Athletic Heather / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078330618)
@@ -10763,11 +10763,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $28.50 USD
   - [Athletic Heather / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078363386)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $28.50 USD
   - [Athletic Heather / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078396154)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $28.50 USD
   - [Athletic Heather / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078428922)
@@ -10783,7 +10783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $35.50 USD
   - [White / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078527226)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $28.50 USD
   - [White / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078559994)
@@ -10799,7 +10799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $28.50 USD
   - [White / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078658298)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $32.00 USD
   - [White / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078691066)
@@ -11727,7 +11727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-womens-athletic-t-shirt-white-front-67957b954faa7.jpg?v=1740971225
     Price: $52.00 USD
 - [Women's Organic Cotton T-Shirt](https://baskandweave.com/products/womens-organic-cotton-t-shirt): This 100% organic cotton darling stays true to the tagline the fabric of our lives. An eco-friendly take on the timeless tee, you’ll love the cozy fit and feel. It’s a win-win for everyone. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) CHEST WIDTH (cm) SLEEVE LENGTH (cm) S 69 49.5 22.5 M 73 53.5 24 L 75 56.5 24.5 XL 77 59.5 25 2XL 79 63.5 25.5 3XL 81 67.5 26 4XL 83 72.5 26 5XL 84 77.5 26
-  Updated: 2025-10-27T23:19:05Z
+  Updated: 2025-10-28T20:15:51Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11881,7 +11881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-679580f2c2e29.jpg?v=1737908717
     Price: $25.50 USD
   - [Stargazer / M](https://baskandweave.com/products/womens-organic-cotton-t-shirt?variant=47079111819514)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-679580f2c2e29.jpg?v=1737908717
     Price: $25.50 USD
   - [Stargazer / L](https://baskandweave.com/products/womens-organic-cotton-t-shirt?variant=47079111852282)
@@ -14619,13 +14619,13 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-67966f86d1900.jpg?v=1737915665
     Price: $44.50 USD
 - [Women's Staple Embroidered T-Shirt (made in the USA)](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa): Experience the best of American-made quality and style with this embroidered t-shirt. Get yours today and show your patriotism in style! • Solid colors are 100% Airlume combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-27T23:19:03Z
+  Updated: 2025-10-28T20:16:40Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
   - [Black / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271872250)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
     Price: $32.00 USD
   - [Black / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271905018)
@@ -14633,15 +14633,15 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
     Price: $32.00 USD
   - [Black / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271937786)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
     Price: $32.00 USD
   - [Black / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271970554)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
     Price: $32.00 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272003322)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
     Price: $35.50 USD
   - [Black / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272036090)
@@ -14657,7 +14657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
     Price: $32.50 USD
   - [Navy / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272134394)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
     Price: $32.00 USD
   - [Navy / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272167162)
@@ -14665,7 +14665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
     Price: $32.00 USD
   - [Navy / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272199930)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
     Price: $35.50 USD
   - [Navy / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272232698)
@@ -14681,7 +14681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
     Price: $32.00 USD
   - [Red / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272331002)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
     Price: $32.00 USD
   - [Red / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272363770)
@@ -14709,7 +14709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
     Price: $32.00 USD
   - [True Royal / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272560378)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
     Price: $32.00 USD
   - [True Royal / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272593146)
@@ -14717,7 +14717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
     Price: $35.50 USD
   - [True Royal / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272625914)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
     Price: $39.00 USD
   - [Athletic Heather / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272658682)
@@ -14725,11 +14725,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $32.00 USD
   - [Athletic Heather / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272691450)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $32.00 USD
   - [Athletic Heather / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272724218)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $32.00 USD
   - [Athletic Heather / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272756986)
@@ -14745,7 +14745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $39.00 USD
   - [White / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272855290)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
     Price: $32.00 USD
   - [White / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272888058)
@@ -14761,7 +14761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
     Price: $32.00 USD
   - [White / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272986362)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
     Price: $35.50 USD
   - [White / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080273019130)
