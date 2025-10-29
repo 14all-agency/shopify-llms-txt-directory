@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-29T04:00:38.269Z
+- Updated At: 2025-10-29T08:00:37.663Z
 
 ## Products
 
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
 - [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique89.myshopify.com/products/merry-colorful-dot-detail-christmas-dolman-sweater): Festive Fun Meets Cozy Comfort – The Christmas Sweater You'll Love!Spread holiday cheer with the Merry Colorful Dot Detail Christmas Dolman Sweater. Featuring playful colorful dots and a relaxed dolman sleeve design, this festive jumper is perfect for celebrating the season in style and comfort.Why This Christmas Sweater is a Must-Have:🎄 Festive Colorful Dot Design: Eye-catching multicolored dots add a cheerful, playful touch to your holiday wardrobe.✨ Relaxed Dolman Sleeves: Trendy, loose-fitting sleeves create a comfortable, flattering silhouette that's perfect for all-day wear.🎅 Soft, Cozy Fabric: Made from 55% acrylic and 45% cotton for warmth and breathability during the festive season.💫 Slightly Stretchy: Comfortable fit that moves with you, whether you're hosting or attending holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy nights by the fire.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Ugly Christmas sweater contests (but make it cute!) Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Dressed Up: Style with a skirt and tights for holiday parties🧣 Cozy Layers: Add a scarf and your favourite winter coatMake this Christmas extra special! This cheerful sweater brings festive fun and cozy comfort together. Add to basket now and get ready to celebrate in style!Product Details: Material: 55% acrylic, 45% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful dot design, dolman sleeves, festive style Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-29T00:53:36Z
+  Updated: 2025-10-29T07:50:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1687,7 +1687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761344865
     Price: £44.66 GBP
 - [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique89.myshopify.com/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Gobble Up the Fun – The Perfect Thanksgiving Sweatshirt!Celebrate Thanksgiving in style with the GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt. Featuring playful 'GOBBLE' lettering and a comfortable relaxed fit, this festive sweatshirt is your go-to for turkey day celebrations and autumn gatherings.Why This Thanksgiving Sweatshirt is a Must-Have:🦃 Fun GOBBLE Graphic: Eye-catching letter design that brings festive fun and holiday cheer to your wardrobe.👕 Comfortable Shift Style: Relaxed, easy-fitting silhouette that's perfect for enjoying Thanksgiving dinner without feeling restricted.✨ Slightly Stretchy Fabric: Made from 65% polyester and 35% cotton for comfort and flexibility.🍂 Perfect for Autumn: Ideal weight for cooler autumn days and cozy holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.🎁 Great Gift Idea: Perfect for Thanksgiving hosts, turkey lovers, or anyone who enjoys festive fashion!Perfect For: Thanksgiving dinner with family Friendsgiving celebrations Autumn festivals and events Casual November outings Festive photo opportunities Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🧣 Cozy Layers: Add a scarf and your favourite autumn jacket👟 Relaxed Comfort: Style with leggings and trainers for ultimate comfortMake Thanksgiving extra special! This fun, festive sweatshirt is perfect for celebrating with family and friends. Add to basket now and get ready to gobble!Product Details: Material: 65% polyester, 35% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: GOBBLE letter graphic, shift style, festive design Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
-  Updated: 2025-10-28T22:42:31Z
+  Updated: 2025-10-29T06:30:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
 - [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique89.myshopify.com/products/camo-print-leopard-trim-button-up-jacket): Wild Meets Edgy – The Statement Jacket That Turns Heads!Make a bold fashion statement with the Camo Print Leopard Trim Button Up Jacket. Combining trendy camouflage with fierce leopard print trim, this unique jacket is perfect for those who love to stand out from the crowd.Why This Jacket is a Must-Have:🐆 Bold Print Combination: Eye-catching camo print with leopard trim creates a unique, fashion-forward look.🔘 Classic Button-Up Front: Traditional button closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.✨ Premium Cotton Blend: Made from 95% cotton and 5% elastane for comfort with a hint of stretch.🌡️ Perfect Weight: Normal thickness – ideal for layering during transitional seasons.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.💫 Versatile Styling: Dress it up or down for any occasion.Perfect For: Casual weekend outings Music festivals and concerts Adding edge to everyday looks Autumn and spring layering Making a fashion statement Styling Ideas:👖 Casual Cool: Pair with black jeans and ankle boots👗 Unexpected Mix: Layer over a feminine dress for contrast👟 Street Style: Style with leggings and trainers for an edgy athleisure lookStand out in style! This bold jacket combines two iconic prints for a look that's uniquely you. Add to basket now and unleash your wild side!Product Details: Material: 95% cotton, 5% elastane Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Camo print, leopard trim, button-up front, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-10-29T02:50:55Z
+  Updated: 2025-10-29T07:51:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1833,7 +1833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/479f76cb0196459ebef488421b463a46-Max-Origin.webp?v=1761346986
     Price: £49.01 GBP
 - [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique89.myshopify.com/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Pop of Color, Maximum Comfort – The Sweater That Brightens Your Day!Add a playful touch to your wardrobe with the Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater. Featuring vibrant striped accents and a relaxed, oversized fit, this cozy sweater is perfect for adding personality and comfort to any outfit.Why You'll Love This Sweater:🌈 Colorful Striped Details: Eye-catching multicolored stripes add a fun, cheerful pop to your look.💫 Flattering V-Neckline: Classic V-neck design that elongates the neckline and pairs beautifully with any necklace.👕 Relaxed Drop Shoulder Design: Trendy, oversized fit with dropped shoulders for ultimate comfort and a laid-back vibe.🧶 Soft Ribbed Texture: Cozy ribbed knit adds visual interest and extra warmth.✨ Slightly Stretchy Fabric: Made from 100% acrylic for softness and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎨 Versatile Styling: Perfect for casual days, layering, or adding a splash of color to neutral outfits.Perfect For: Casual weekend outings Coffee dates with friends Autumn and winter layering Adding color to your wardrobe Cozy days at home Styling Ideas:👖 Casual Chic: Pair with jeans and ankle boots🧣 Layered Look: Wear over a collared shirt for preppy vibes👗 Feminine Touch: Style with a skirt and tightsBrighten up your wardrobe! This colorful sweater brings fun, comfort, and style together in one perfect piece. Add to basket now!Product Details: Material: 100% acrylic Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful striped details, V-neck, drop shoulders, ribbed texture, baggy fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-29T03:30:51Z
+  Updated: 2025-10-29T05:31:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4409,7 +4409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e22fd7b7a6754f539647ee46bfeffb5b-Max-Origin.webp?v=1761386963
     Price: £19.39 GBP
 - [Double Take Button Up Fuzzy Checkered Shacket](https://glamorousboutique89.myshopify.com/products/double-take-button-up-fuzzy-checkered-shacket): Features: Pocketed, Buttoned Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 31.5 22.8 46.1 18.1 M 31.9 24 48.4 18.1 L 32.3 25.2 50.8 18.1 XL 32.7 26.8 53.9 18.1 2XL 33.1 28.3 57.1 18.1
-  Updated: 2025-10-28T22:42:36Z
+  Updated: 2025-10-29T06:15:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4435,7 +4435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d349385e-41e9-4502-be2f-2e7a467e1656-Max.webp?v=1761387650
     Price: £44.88 GBP
   - [Cream / S](https://glamorousboutique89.myshopify.com/products/double-take-button-up-fuzzy-checkered-shacket?variant=55321484591430)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1fcf703f-b84c-4ee8-a062-d87e83baa759-Max.webp?v=1761387650
     Price: £44.88 GBP
   - [Cream / M](https://glamorousboutique89.myshopify.com/products/double-take-button-up-fuzzy-checkered-shacket?variant=55321484624198)
@@ -5594,7 +5594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique89.myshopify.com/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-10-28T22:42:39Z
+  Updated: 2025-10-29T08:00:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5846,7 +5846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-28T22:42:40Z
+  Updated: 2025-10-29T05:35:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7953,7 +7953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a3e2150b-ea8d-4205-b1f6-d93975ccf4d6-Max-Origin.webp?v=1761512892
     Price: £8.88 GBP
 - [Christmas Element Round Neck Mini Sweater Dress](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress): Features: Basic style Stretch: Highly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 35.9 in, length 30 in, shoulder 14.8 in, sleeve length 21.5 inM: bust 37.4 in, length 30.4 in, shoulder 15.6 in, sleeve length 21.8 inL: bust 39 in, length 30.8 in, shoulder 16.4 in, sleeve length 22.2 inXL: bust 40.6 in, length 31.2 in, shoulder 17.2 in, sleeve length 22.6 in2XL: bust 42.1 in, length 31.6 in, shoulder 17.9 in, sleeve length 23 in
-  Updated: 2025-10-28T22:42:49Z
+  Updated: 2025-10-29T04:46:46Z
   Vendor: Trendsi
   Product Type: Christmas dresses
   Availability: Available
@@ -8041,7 +8041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
     Price: £45.63 GBP
 - [Ghost & Bow Round Neck Long Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 50% polyester, 50% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 40.6 21.9 20.3 25.4 M 6/8 42.5 22.8 20.5 26.2 L 10/12 44.5 23.8 20.7 27 XL 14/16 47.6 25.4 20.9 27.8
-  Updated: 2025-10-29T00:52:10Z
+  Updated: 2025-10-29T06:30:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8233,7 +8233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
     Price: £43.29 GBP
 - [Christmas Santa Print Mesh Long Sleeve Top](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top): Features:Mesh Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 31.5 24 M 25.2 33.9 24.4 L 26 36.2 24.8 XL 26.8 39.4 25.2
-  Updated: 2025-10-29T03:31:00Z
+  Updated: 2025-10-29T05:30:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
