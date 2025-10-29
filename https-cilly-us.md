@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-29T16:00:51.782Z
+- Updated At: 2025-10-29T20:01:12.366Z
 
 ## Products
 
@@ -29353,6 +29353,630 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7092598a-80b7-486d-9fa6-b54dcd42d260.jpg?v=1761655412
     Price: CHF 132.50 CHF
+- [Waterproof Dog Shoes Adjustable Dog Boots Pet Breathbale Shoes For Outdoor Walking Soft French Dog Shoes Pets Paws Protector Pet Products](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products): Overview: 1. Skin-friendly Design: The skin-friendly polyester material stays soft and comfortable after extended wear, ensuring your furry companion can enjoy long walks in any terrain without discomfort. 2. Buckle Design: Keep your furry friend's paws safe and comfortable with our Adjustable Dog Shoes. The easy-to-use shoes can fit any breed or size, and can be attached to a collar thanks to the adjustable buckle and adhesive pad. 3. Non-skip Dog Boots: Equipped with a grain texture anti-slip sole, these adjustable dog shoes offer superior grip to keep your pet stable and supported on any surface. Experience maximum comfort and a secure fit with every wear. 4. Dog Paw Protector: Keep your canine's paws free from injuries and harm with our adjustable dog shoes. The shoes provide adequate protection against hot pavements, snow, rocks, and sand, and keep their paws dry and clean. 5. Outdoor Paw Shoes: Our adjustable dog shoes safeguard your four-legged friend's paws from extreme elements, allowing them to enjoy outdoor walks and playtime without discomfort. They're perfect for daily life, travel, and outdoor walking. Keep your furry friend's paws safe and clean on your travels with our Soft Dog Paw Non-Slip Shoes. With a strong grip and easy attachment to their collar, your dog will love walking with added security. Perfect for any weather and surface, these shoes will keep your pet's paws protected. Product information: Color: Black Size: S,M,L Function: waterproof, non-slip Material: Polyester Applicable object: general Style: Casual Packing list: Pet shoes *4 pcs Product Image:
+  Updated: 2025-10-29T18:28:03Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e61ef4de-26ed-4a8d-80c1-4ba8beffa6ed.jpg?v=1761762127
+  - [Black / L](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products?variant=51799352017237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/70b93701-ba91-43ec-9972-e133c8937354.jpg?v=1761762136
+    Price: CHF 18.60 CHF
+  - [Black / M](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products?variant=51799352050005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/70b93701-ba91-43ec-9972-e133c8937354.jpg?v=1761762136
+    Price: CHF 18.60 CHF
+  - [Black / S](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products?variant=51799352082773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/70b93701-ba91-43ec-9972-e133c8937354.jpg?v=1761762136
+    Price: CHF 18.60 CHF
+  - [Black / XL](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products?variant=51799352115541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/743d1519-b79c-42f9-b080-dcae4a8ed622_trans.jpg?v=1761762136
+    Price: CHF 18.60 CHF
+  - [Black / XXL](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products?variant=51799352148309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/743d1519-b79c-42f9-b080-dcae4a8ed622_trans.jpg?v=1761762136
+    Price: CHF 18.60 CHF
+- [Pet dog shoes](https://cilly.us/products/pet-dog-shoes): Function: decoration, waterproof, non-slip, warm, wear-resistant Style: cartoon Sty[Product name]: candy pet rain boots [Product material]: Resin PVC 【Product Size】: S: 4.3CM*3.3CM wide M: 5CM*4CM wide L: 5.7CM*4.7CM wide XL 7.5CM*6CM wide XXL9CM*7CM wide
+  Updated: 2025-10-29T19:08:45Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7202053847_2115862900.400x400.jpg?v=1761762288
+  - [Black / L](https://cilly.us/products/pet-dog-shoes?variant=51799367483733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2398984930597.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Black / M](https://cilly.us/products/pet-dog-shoes?variant=51799367516501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2398984930597.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Black / S](https://cilly.us/products/pet-dog-shoes?variant=51799367549269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2398984930597.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Black / XL](https://cilly.us/products/pet-dog-shoes?variant=51799367582037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2398984930597.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Black / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799367614805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2398984930597.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Blue / L](https://cilly.us/products/pet-dog-shoes?variant=51799367647573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/217505169768.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Blue / M](https://cilly.us/products/pet-dog-shoes?variant=51799367680341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/217505169768.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Blue / S](https://cilly.us/products/pet-dog-shoes?variant=51799367713109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/217505169768.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Blue / XL](https://cilly.us/products/pet-dog-shoes?variant=51799367745877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/217505169768.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Blue / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799367778645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/217505169768.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Green / L](https://cilly.us/products/pet-dog-shoes?variant=51799367811413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2826433074514.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Green / M](https://cilly.us/products/pet-dog-shoes?variant=51799367844181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2826433074514.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Green / S](https://cilly.us/products/pet-dog-shoes?variant=51799367876949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2826433074514.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Green / XL](https://cilly.us/products/pet-dog-shoes?variant=51799367909717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2826433074514.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Green / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799367942485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2826433074514.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Purple / L](https://cilly.us/products/pet-dog-shoes?variant=51799367975253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6433900936426.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Purple / M](https://cilly.us/products/pet-dog-shoes?variant=51799368008021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6433900936426.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Purple / S](https://cilly.us/products/pet-dog-shoes?variant=51799368040789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6433900936426.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Purple / XL](https://cilly.us/products/pet-dog-shoes?variant=51799368073557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6433900936426.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Purple / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799368106325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6433900936426.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Red / L](https://cilly.us/products/pet-dog-shoes?variant=51799368139093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7125728221_2115862900.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Red / M](https://cilly.us/products/pet-dog-shoes?variant=51799368171861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7125728221_2115862900.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Red / S](https://cilly.us/products/pet-dog-shoes?variant=51799368204629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7125728221_2115862900.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Red / XL](https://cilly.us/products/pet-dog-shoes?variant=51799368237397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7125728221_2115862900.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Red / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799368270165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7125728221_2115862900.jpg?v=1761762303
+    Price: CHF 14.80 CHF
+  - [Rose Red / L](https://cilly.us/products/pet-dog-shoes?variant=51799368302933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2266554617531.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Rose Red / M](https://cilly.us/products/pet-dog-shoes?variant=51799368335701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2266554617531.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Rose Red / S](https://cilly.us/products/pet-dog-shoes?variant=51799368368469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2266554617531.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Rose Red / XL](https://cilly.us/products/pet-dog-shoes?variant=51799368401237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2266554617531.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Rose Red / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799368434005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2266554617531.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Yellow / L](https://cilly.us/products/pet-dog-shoes?variant=51799368466773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Yellow / M](https://cilly.us/products/pet-dog-shoes?variant=51799368499541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Yellow / S](https://cilly.us/products/pet-dog-shoes?variant=51799368532309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Yellow / XL](https://cilly.us/products/pet-dog-shoes?variant=51799368565077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+  - [Yellow / XXL](https://cilly.us/products/pet-dog-shoes?variant=51799368597845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
+    Price: CHF 14.80 CHF
+- [Pet denim canvas shoes dog shoes, sports and leisure waterproof non-slip dog shoes breathable and comfortable](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable): Material: cowboy The small denim canvas shoes are exquisite and cute, and wherever you go, I believe that the rate of return will be very high. This shoes are made of denim fabric, not only wearing super handsome, good clothes, especially van! And this fabric is very wear-resistant, very durable, and quite versatile! Size 1 2 3 4 5 Shoe length (outside inch) 4 4.2 5 5.2 5.8 Shoe width (outside inch) 3.2 3.5 4 4.3 4.8
+  Updated: 2025-10-29T19:08:42Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3599603983653.jpg?v=1761762384
+  - [Navy blue / 1](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377674581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1470820363802.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Navy blue / 2](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377707349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1470820363802.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Navy blue / 3](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377740117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1470820363802.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Navy blue / 4](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377772885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1470820363802.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Navy blue / 5](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377805653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1470820363802.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Pink / 1](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377838421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Pink / 2](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377871189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Pink / 3](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377903957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Pink / 4](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377936725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+  - [Pink / 5](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable?variant=51799377969493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
+    Price: CHF 18.90 CHF
+- [New Product Original Pet Outing Chest Back Cover](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover): Product information: Material: Polyester Product Category: Chest strap Color: pink velvet, black velvet, cream velvet, gem green velvet Size information Specification: S, M, L, XS Package: Strap x1
+  Updated: 2025-10-29T19:08:31Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359.jpg?v=1761762772
+  - [Black / L](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421780309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47bd3567-e6b9-401f-8a3a-6e30e4746439.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Black / M](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421813077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47bd3567-e6b9-401f-8a3a-6e30e4746439.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Black / S](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421845845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47bd3567-e6b9-401f-8a3a-6e30e4746439.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Black / XS](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421878613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47bd3567-e6b9-401f-8a3a-6e30e4746439.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Cream velvet / L](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421911381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7859a677-60ad-414a-a2db-16f91399538e.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Cream velvet / M](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421944149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7859a677-60ad-414a-a2db-16f91399538e.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Cream velvet / S](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799421976917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7859a677-60ad-414a-a2db-16f91399538e.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Cream velvet / XS](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422009685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7859a677-60ad-414a-a2db-16f91399538e.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Gem green velvet / L](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422042453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60562578-5afd-4f2c-8660-0dbe34886ef6.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Gem green velvet / M](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422075221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60562578-5afd-4f2c-8660-0dbe34886ef6.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Gem green velvet / S](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422107989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60562578-5afd-4f2c-8660-0dbe34886ef6.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Gem green velvet / XS](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422140757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60562578-5afd-4f2c-8660-0dbe34886ef6.jpg?v=1761762778
+    Price: CHF 19.90 CHF
+  - [Pink / L](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422173525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359_774d1b43-0acb-4fa6-aaf3-fe9c336e6437.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Pink / M](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422206293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359_774d1b43-0acb-4fa6-aaf3-fe9c336e6437.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Pink / S](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422239061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359_774d1b43-0acb-4fa6-aaf3-fe9c336e6437.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+  - [Pink / XS](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover?variant=51799422271829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359_774d1b43-0acb-4fa6-aaf3-fe9c336e6437.jpg?v=1761762777
+    Price: CHF 19.90 CHF
+- [Pet Mesh Chest Harness Dog Go Out Reflective Leash](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash): Product information: Material: Cotton Style: fashion and simplicity Features:Breathable Colour: picture color Size Information: Packing list: Strap*1 Traction rope*1/Strap*1 Product Image:
+  Updated: 2025-10-29T18:43:22Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9.jpg?v=1761762917
+  - [Blue Without Leash / L](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435641173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c46684a6-3102-4e46-bd9d-e7cbe201d6d2.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue Without Leash / M](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435673941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c46684a6-3102-4e46-bd9d-e7cbe201d6d2.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue Without Leash / S](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435706709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c46684a6-3102-4e46-bd9d-e7cbe201d6d2.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue Without Leash / XS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435739477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c46684a6-3102-4e46-bd9d-e7cbe201d6d2.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue Without Leash / XXS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435772245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c46684a6-3102-4e46-bd9d-e7cbe201d6d2.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue / L](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435805013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0f53ea40-f2d6-412d-8bbd-0ff2c17a335c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue / M](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435837781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0f53ea40-f2d6-412d-8bbd-0ff2c17a335c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue / S](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435870549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0f53ea40-f2d6-412d-8bbd-0ff2c17a335c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue / XS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435903317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0f53ea40-f2d6-412d-8bbd-0ff2c17a335c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Blue / XXS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435936085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/0f53ea40-f2d6-412d-8bbd-0ff2c17a335c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Pink / L](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799435968853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9_f226b78f-eae8-4b50-801a-3011c88b13da.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Pink / M](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436001621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9_f226b78f-eae8-4b50-801a-3011c88b13da.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Pink / S](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436034389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9_f226b78f-eae8-4b50-801a-3011c88b13da.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Pink / XS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436067157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9_f226b78f-eae8-4b50-801a-3011c88b13da.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Pink / XXS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436099925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9756c5c8-bf1c-49da-ade5-508e56856ca9_f226b78f-eae8-4b50-801a-3011c88b13da.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Yellow / L](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436132693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Yellow / M](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436165461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Yellow / S](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436198229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Yellow / XS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436230997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+  - [Yellow / XXS](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash?variant=51799436263765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
+    Price: CHF 15.20 CHF
+- [Cat towing pet belt](https://cilly.us/products/cat-towing-pet-belt): Name: Cat traction pet belt Features: traction belt length 1.2 m, width 1 cm Size: adjustable
+  Updated: 2025-10-29T19:08:31Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1939375459588.jpg?v=1761762989
+  - [Black / S](https://cilly.us/products/cat-towing-pet-belt?variant=51799442587989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4936904192297.jpg?v=1761762993
+    Price: CHF 15.10 CHF
+  - [Blue / S](https://cilly.us/products/cat-towing-pet-belt?variant=51799442620757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4116200297490.jpg?v=1761762993
+    Price: CHF 15.10 CHF
+  - [Green / S](https://cilly.us/products/cat-towing-pet-belt?variant=51799442653525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9895054177120.jpg?v=1761762993
+    Price: CHF 15.10 CHF
+  - [Pink / S](https://cilly.us/products/cat-towing-pet-belt?variant=51799442686293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1939375459588_5327764e-deda-40ef-9bbe-6ebcb028c82a.jpg?v=1761762994
+    Price: CHF 15.10 CHF
+  - [Red / S](https://cilly.us/products/cat-towing-pet-belt?variant=51799442719061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1556557165213.jpg?v=1761762993
+    Price: CHF 15.10 CHF
+- [Cat hooded vest outing chest harness](https://cilly.us/products/cat-hooded-vest-outing-chest-harness): Chinese description: cat traction rope cat walking cat chain rope walking pet rope chain hooded vest go out puppy cat chest harness 2 sizes: XS S 2 colors: pink orange Material: Cotton cloth + Oxford cloth Product Size: Rope length: 126cm Size (cm): neck circumference, bust circumference XS: 26, 26-34 S: 30, 32-40
+  Updated: 2025-10-29T19:08:31Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/521384182216.jpg?v=1761763174
+  - [Orange / S](https://cilly.us/products/cat-hooded-vest-outing-chest-harness?variant=51799459201365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2231633333895.jpg?v=1761763187
+    Price: CHF 16.30 CHF
+  - [Orange / XS](https://cilly.us/products/cat-hooded-vest-outing-chest-harness?variant=51799459234133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/521384182216_68ce9e6d-a89d-482f-bf43-b915b931c20b.jpg?v=1761763187
+    Price: CHF 16.30 CHF
+  - [Pink / XS](https://cilly.us/products/cat-hooded-vest-outing-chest-harness?variant=51799459266901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2489500341.jpg?v=1761763188
+    Price: CHF 16.30 CHF
+- [Pet Collar Dog Fabric Velvet](https://cilly.us/products/pet-collar-dog-fabric-velvet): Product information: Material: fabric Product category: Collar Scalable: Yes Color: dog leash, dog rope, bow, flowers, dog vest, dog poop bag Specification: (length * width) XS, S, M, L, XL Packing list: Dog circle * 1/Dog rope * 1/Bow knot * 1/Flower * 1/Dog vest * 1/Dog poop bag * 1
+  Updated: 2025-10-29T20:00:15Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436.jpg?v=1761767960
+  - [Ancient pottery color / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484282709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8afb913d-b9f8-49e9-87ac-75fcb6ed7197.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Ancient pottery color / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484315477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8afb913d-b9f8-49e9-87ac-75fcb6ed7197.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Ancient pottery color / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484348245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8afb913d-b9f8-49e9-87ac-75fcb6ed7197.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Ancient pottery color / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484381013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8afb913d-b9f8-49e9-87ac-75fcb6ed7197.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Ancient pottery color / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484413781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8afb913d-b9f8-49e9-87ac-75fcb6ed7197.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Army Green / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484446549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ca9f3e48-3a5a-461a-a0f2-62ae7b243a04.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Army Green / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484479317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ca9f3e48-3a5a-461a-a0f2-62ae7b243a04.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Army Green / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484512085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ca9f3e48-3a5a-461a-a0f2-62ae7b243a04.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Army Green / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484544853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ca9f3e48-3a5a-461a-a0f2-62ae7b243a04.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Army Green / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484577621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ca9f3e48-3a5a-461a-a0f2-62ae7b243a04.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Avocado / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484610389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436_42bc05ab-0811-4e1f-9f06-0bcefb125da2.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Avocado / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484643157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436_42bc05ab-0811-4e1f-9f06-0bcefb125da2.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Avocado / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484675925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436_42bc05ab-0811-4e1f-9f06-0bcefb125da2.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Avocado / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484708693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436_42bc05ab-0811-4e1f-9f06-0bcefb125da2.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Avocado / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484741461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7708588-76ea-42db-870e-055aa7b86436_42bc05ab-0811-4e1f-9f06-0bcefb125da2.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Black / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484774229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/78933b9c-6874-4245-a962-a91096077b9c.jpg?v=1761767976
+    Price: CHF 32.10 CHF
+  - [Black / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484806997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/78933b9c-6874-4245-a962-a91096077b9c.jpg?v=1761767976
+    Price: CHF 32.10 CHF
+  - [Black / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484839765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/78933b9c-6874-4245-a962-a91096077b9c.jpg?v=1761767976
+    Price: CHF 32.10 CHF
+  - [Black / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484872533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/78933b9c-6874-4245-a962-a91096077b9c.jpg?v=1761767976
+    Price: CHF 32.10 CHF
+  - [Black / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484905301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/78933b9c-6874-4245-a962-a91096077b9c.jpg?v=1761767976
+    Price: CHF 32.10 CHF
+  - [Brown / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484938069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ec5c293f-df5d-4dd4-98dc-f136f3080a4a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Brown / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800484970837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ec5c293f-df5d-4dd4-98dc-f136f3080a4a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Brown / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485003605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ec5c293f-df5d-4dd4-98dc-f136f3080a4a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Brown / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485036373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ec5c293f-df5d-4dd4-98dc-f136f3080a4a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Brown / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485069141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ec5c293f-df5d-4dd4-98dc-f136f3080a4a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Cherry red / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485101909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc135201-73e0-4e9c-8743-d7411b8e84f1.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Cherry red / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485134677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc135201-73e0-4e9c-8743-d7411b8e84f1.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Cherry red / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485167445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc135201-73e0-4e9c-8743-d7411b8e84f1.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Cherry red / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485200213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc135201-73e0-4e9c-8743-d7411b8e84f1.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Cherry red / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485232981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fc135201-73e0-4e9c-8743-d7411b8e84f1.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Dark Blue / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485265749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/72e69a7f-4321-48b7-928d-66c180eda66b.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Dark Blue / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485298517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/72e69a7f-4321-48b7-928d-66c180eda66b.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Dark Blue / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485331285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/72e69a7f-4321-48b7-928d-66c180eda66b.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Dark Blue / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485364053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/72e69a7f-4321-48b7-928d-66c180eda66b.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Dark Blue / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485396821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/72e69a7f-4321-48b7-928d-66c180eda66b.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Green / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485429589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7b846a3b-9d12-4b74-afaf-f55de5645793.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Green / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485462357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7b846a3b-9d12-4b74-afaf-f55de5645793.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Green / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485495125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7b846a3b-9d12-4b74-afaf-f55de5645793.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Green / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485527893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7b846a3b-9d12-4b74-afaf-f55de5645793.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Green / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485560661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7b846a3b-9d12-4b74-afaf-f55de5645793.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Grey / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485593429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b059597b-2049-491c-a091-b155b00bf31f.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Grey / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485626197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b059597b-2049-491c-a091-b155b00bf31f.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Grey / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485658965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b059597b-2049-491c-a091-b155b00bf31f.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Grey / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485691733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b059597b-2049-491c-a091-b155b00bf31f.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Grey / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485724501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/b059597b-2049-491c-a091-b155b00bf31f.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Khaki / L](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485757269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Khaki / M](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485790037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Khaki / S](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485822805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Khaki / XL](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485855573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
+  - [Khaki / XS](https://cilly.us/products/pet-collar-dog-fabric-velvet?variant=51800485888341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
+    Price: CHF 32.10 CHF
 
 ## Collections
 
@@ -29360,14 +29984,14 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-28T13:02:27Z
-  Total Products: 364
+  Updated: 2025-10-29T18:43:53Z
+  Total Products: 371
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-10-28T13:02:27Z
-  Total Products: 415
+  Updated: 2025-10-29T18:28:34Z
+  Total Products: 418
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
-  Updated: 2025-10-27T09:17:37Z
-  Total Products: 131
+  Updated: 2025-10-29T18:43:53Z
+  Total Products: 135
 - [Pferd | Pferdebedarf, Zubehör & Pferdefutter online](https://cilly.us/collections/pferd): Hol dir alles für dein Pferd: Futter, Stallzubehör, Pflege & Reitsportartikel. Große Auswahl bei Alles für deine Haustiere – sicher & einfach online bestellen.
   Updated: 2025-09-27T09:46:20Z
   Total Products: 5
@@ -29429,8 +30053,8 @@
   Updated: 2025-10-21T19:47:36Z
   Total Products: 31
 - [Katzenhalsband/Katzengeschirr](https://cilly.us/collections/cat-collar-cat-harness)
-  Updated: 2025-10-21T10:01:27Z
-  Total Products: 12
+  Updated: 2025-10-29T18:43:53Z
+  Total Products: 16
 - [Katzenbett](https://cilly.us/collections/katzenbett)
   Updated: 2025-10-27T09:17:37Z
   Total Products: 40
@@ -29453,8 +30077,8 @@
   Updated: 2025-10-27T09:17:37Z
   Total Products: 47
 - [Hundekleider](https://cilly.us/collections/hundekleider)
-  Updated: 2025-10-28T13:02:06Z
-  Total Products: 25
+  Updated: 2025-10-29T18:28:34Z
+  Total Products: 28
 - [Hundefutter](https://cilly.us/collections/hundefutter)
   Updated: 2025-09-27T15:04:36Z
   Total Products: 4
