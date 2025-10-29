@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-28T20:00:42.508Z
+- Updated At: 2025-10-29T00:00:46.475Z
 
 ## Products
 
@@ -2932,7 +2932,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-rotary-polishing-machine-l1503vr-230v-eu): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-22T09:57:48Z
+  Updated: 2025-10-29T00:00:29Z
   Vendor: Flex
   Product Type: 
   Availability: Available
