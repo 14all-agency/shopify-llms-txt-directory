@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-28T16:00:57.449Z
+- Updated At: 2025-10-29T00:00:42.612Z
 
 ## Products
 
@@ -146,6 +146,15 @@
     Author: Verde Esmeralda Olive
   - [Cook with Extra Virgin Olive Oil: 5 Essential Reasons It's to Choice](https://verdesmeraldaolive.us/blogs/news/cook-with-extra-virgin-olive-oil-5-essential-reasons-its-your-healthiest-choice): Cook with Extra Virgin Olive Oil: 5 Essential Reasons It's to Choice
     Updated: 2025-10-01T17:35:19Z
+    Author: Verde Esmeralda Olive
+  - [Difference Between Olive Oil and Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/difference-between-olive-oil-and-extra-virgin-olive-oil): Difference Between Olive Oil and Extra Virgin Olive Oil
+    Updated: 2025-10-28T20:07:42Z
+    Author: Verde Esmeralda Olive
+  - [Benefits of Extra Virgin Olive Oil: 7 Reasons](https://verdesmeraldaolive.us/blogs/news/benefits-of-extra-virgin-olive-oil): Benefits of Extra Virgin Olive Oil: 7 Reasons
+    Updated: 2025-10-28T20:10:25Z
+    Author: Verde Esmeralda Olive
+  - [Best Extra Virgin Olive Oil: 5 Qualities](https://verdesmeraldaolive.us/blogs/news/best-extra-virgin-olive-oil): Best Extra Virgin Olive Oil: 5 Qualities
+    Updated: 2025-10-28T19:57:25Z
     Author: Verde Esmeralda Olive
 
 ## Store Pages
