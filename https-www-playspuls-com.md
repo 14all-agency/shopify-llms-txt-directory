@@ -6,40 +6,40 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-29T04:00:32.662Z
+- Updated At: 2025-10-29T12:00:41.311Z
 
 ## Products
 
 - [Labubu 3.0  Blind Box Big Into Energy Series - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs - PlaysPuls
-  Updated: 2025-10-29T03:53:26Z
+  Updated: 2025-10-29T09:39:07Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1.jpg?v=1761355065
   Price: $39.00 USD
 - [Labubu 3.0  Blind Box Whole Set 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes - PlaysPuls
-  Updated: 2025-10-25T08:29:36Z
+  Updated: 2025-10-29T09:39:30Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1122.png?v=1761355102
   Price: $192.00 USD
 - [Labubu 3.0 Monsters Big into Energy Series Secret Version - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-monsters-big-into-energy-series-id-secret-version): Labubu is a collectible figure from The Monsters series.Made of high-quality PVC, this charming character adds personality to any shelf and makes a perfect gift or collectible item. Size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire - PlaysPuls
-  Updated: 2025-10-25T08:29:37Z
+  Updated: 2025-10-29T09:37:53Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_10afc1e8-0120-49f4-8557-53e2a73ff187.webp?v=1761355140
   Price: $97.00 USD
 - [Stitch 40oz Stainless Steel Tumbler with Insulated Travel Cup with Lid - PlaysPuls](https://www.playspuls.com/products/stitch-40oz-stainless-steel-tumbler-with-insulated-travel-cup-with-lid): The 40oz Stainless Tumbler Cup is crafted for users who seek simplicity, capacity, and temperature control. This thoughtfully designed drinkware merges modern functionality with practical convenience.Whether you are commuting, working, or heading outdoors, this tumbler offers a smooth experience from the first sip to the last.Designed with vacuum insulated tumbler 40oz technology, it maintains beverage temperature without needing constant attention. Cold drinks stay cold for hours, and hot drinks retain warmth across long stretches of time. With a sleek yet robust body, this product balances aesthetics and utility in one convenient design. SpecificationsMaterial: Luxury 18/8 stainless steel interior and exteriorCapacity: 40 ounces (approx.1.18 liters)Insulation Type: Double-wall vacuum insulatedLid Type: Leak-resistant screw-on lid with straw or sip accessDimensions: Approx. 8 inches tall, 3.5-inch base diameterHandle: Built-in ergonomic handleWeight: 600–700 grams (empty)Color Options: Powder-coated and metallic finishesCompatibility: Car cupholder friendlyMaintenance: Dishwasher-safe, palm-wash preferred for longevity - PlaysPuls
-  Updated: 2025-10-25T08:29:37Z
+  Updated: 2025-10-29T09:40:31Z
   Vendor: PlaysPuls
   Product Type: thermal mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_f0f81f26-ee23-4bce-b2a8-0da09f1cea5c.jpg?v=1761355193
   Price: $79.99 USD
 - [Monster Coca-Cola series single blind box - PlaysPuls](https://www.playspuls.com/products/monster-coca-cola-series-single-blind-box): These figures are the perfect gift for any occasion, be it Children's Day, Christmas, Halloween, Thanksgiving, or New Years. A piece of art expressing deep feelings and complicated emotions, it's also a wonderful home decor gift for your family or friends. Size:Height(Excluding Hanging Loop): 6.69inchesMaterial:Shell: PVC / PolyesterStuffing:Polyester / Iron Wire - PlaysPuls
-  Updated: 2025-10-25T08:29:38Z
+  Updated: 2025-10-29T09:35:54Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -102,10 +102,10 @@
 ## Collections
 
 - [Toy Doll - PlaysPuls](https://www.playspuls.com/collections/figurine): - PlaysPuls
-  Updated: 2025-10-25T11:23:35Z
+  Updated: 2025-10-29T09:38:42Z
   Total Products: 7
 - [Mug - PlaysPuls](https://www.playspuls.com/collections/mug): - PlaysPuls
-  Updated: 2025-10-23T13:17:52Z
+  Updated: 2025-10-29T09:40:33Z
   Total Products: 3
 
 ## Store Pages
