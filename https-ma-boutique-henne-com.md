@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-28T16:01:11.193Z
+- Updated At: 2025-10-29T00:00:40.178Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/blonde-henna.jpg?v=1659530518
   Price: 11,50 € EUR
 - [Poudre de Sidr (Jujubier - Ziziphus), Phitofilos](https://ma-boutique-henne.com/products/copy-of-henne-neutre-cassia-100gr): La poudre de Sidr (Jujubier) Phitofilos, ziziphus, poudre lavante cheveux fragilisés, secs et cuirs chevelus sensibles. Lave en douceur et soigne les irritations de la peau, phitofilos, jujubier,henné, laver chevelure, poudre plante, soin capillaire naturel, vegan, ritha, noix lavage, ghassoul, shikakai, demeler, sdir
-  Updated: 2025-10-13T03:02:36Z
+  Updated: 2025-10-28T22:15:25Z
   Vendor: ma boutique henné
   Product Type: Poudres de soin
   Availability: Available
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
   Price: 6,90 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
-  Updated: 2025-10-28T15:38:00Z
+  Updated: 2025-10-28T19:57:15Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/hemani-henne-black-with-bakhour.jpg?v=1737108143
   Price: 8,50 € EUR
 - [Khôl Noir artisanal en Poudre + bâton applicateur](https://ma-boutique-henne.com/products/khol-en-poudre-artisanal-noir-et-applicateur): Le Khôl, pierre, antimoine, beauté orientale, hommes et les femmes. maquillage et cosmétique bio et vegan, 100% naturel, regard, crayon, noir, intense, souligner, fard, paupière, vegan, produit, maquiller, biologique, yeux sensibles, lentilles, démaquiller, longue tenue, liner, maghreb, moyen orient, henne, boutique
-  Updated: 2024-08-01T22:16:12Z
+  Updated: 2025-10-28T19:43:35Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -382,7 +382,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/rosso.png?v=1613130092
   Price: 12,50 € EUR
 - [Coloration Végétale Noisette "froid" - Nocciola, Phitofilos](https://ma-boutique-henne.com/products/coloration-vegetale-noisette-100-naturelle): Phitofilos, nocciola, coloration châtain cendré, marron, noisette, chaud, chocolat, couvre cheveux blancs et gris, henné neutre, brou de noix, indigo, Redonne brillance aux cheveux châtains , soin capillaire et coloration bio, vegan, naturelle, plantes, boutique henné, neutralise le roux cuivré, nourrit, brun, marron
-  Updated: 2025-09-26T11:31:25Z
+  Updated: 2025-10-28T16:53:15Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/XI1RVpZg.jpeg?v=1547465233
   Price: 13,50 € EUR
 - [Henné Rouge d'Egypte n°2 - Henné Rosso, Phitofilos](https://ma-boutique-henne.com/products/henne-rouge-degypte-n-2-100gr-henne-rosso): Phitofilos, rouge cerise, coloration rouge, egyptien, henné d'egypte, égypte, rosso n°2, rousse, roux, cuivré, rouge cerise, couvre cheveux blancs et gris, henné naturel, bois santal, garance, hibiscus. brillance cheveux châtains , soin capillaire et coloration bio, vegan, naturelle, plantes, boutique henné, gaine
-  Updated: 2025-10-11T17:05:41Z
+  Updated: 2025-10-28T16:30:56Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -688,7 +688,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/curcuma.png?v=1538729593
   Price: 8,00 € EUR
 - [Henné Rouge de Gabès - Tunisie](https://ma-boutique-henne.com/products/henne-de-gabes-tunisie): Ce henné est 100% naturel, du Gabès, henné gabésien, tunisie, BAQ, biologique. coloration et soin des cheveux, rousse, reflets cuivrés, auburn, bordeaux, rouge cerise, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, coloration couvre les cheveux blancs, première application, cheveux gris, henna
-  Updated: 2025-10-14T09:21:17Z
+  Updated: 2025-10-28T19:57:11Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -845,7 +845,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/tulsi-500x717.jpg?v=1598882823
   Price: 9,50 € EUR
 - [Soin Colorant Repigmentant Blond Vénitien - MULATO](https://ma-boutique-henne.com/products/soin-colorant-repigmentant-blond-venitien-mulato): Patrice Mulato Cosmetics, blond vénitien, soin repigmentant, shampoing repigmentant, masque, soin cheveux, coloration naturelle, rouge cerise venise, ocre havane, sienne brûlée, blond vénitien, ombre naturelle, terre bleue, pourpre phénicien, violet, violine, henne, entretenir le roux, cheveux rouges, roux, vegan, cuivré
-  Updated: 2025-10-25T00:14:34Z
+  Updated: 2025-10-28T20:37:00Z
   Vendor: Ma Boutique Henné
   Product Type: mulato
   Availability: Available
@@ -866,7 +866,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-sienne-200ml.png?v=1724148376
   Price: 30,50 € EUR
 - [Shampoing Colorant Repigmentant Blond Vénitien - MULATO](https://ma-boutique-henne.com/products/shampoing-colorant-repigmentant-blond-venitien-mulato): Patrice Mulato Cosmetics, blond vénitien, soin repigmentant, shampoing repigmentant, masque, soin cheveux, coloration naturelle, rouge cerise venise, ocre havane, sienne brûlée, blond vénitien, ombre naturelle, terre bleue, pourpre phénicien, violet, violine, henne, entretenir le roux, cheveux rouges, roux, vegan, cuivré
-  Updated: 2025-07-20T07:32:38Z
+  Updated: 2025-10-28T20:37:00Z
   Vendor: Ma Boutique Henné
   Product Type: mulato
   Availability: Available
@@ -901,7 +901,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-ombre-naturelle-200ml.png?v=1724147967
   Price: 32,50 € EUR
 - [Henné Brunette - ECOCERT](https://ma-boutique-henne.com/products/henne-brunette): brou de noix, henne brunette, henné, henna brown mayam elemental noce mallo, coque de la noix. poudre hyper fine, nuances de châtain, à marron, chocolat, brun. couvre cheveux blancs, henné, coloration chatain naturelle, katam, feuille, noyer, brune, bio, biologique, nature, coloration marron chocolat, brune,
-  Updated: 2025-10-26T06:54:50Z
+  Updated: 2025-10-28T22:15:26Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1046,7 +1046,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/179-large_default.jpg?v=1548845590
   Price: 6,00 € EUR
 - [Shampoing Bio Clarifiant préparateur à la coloration - Avatara, La Saponaria](https://ma-boutique-henne.com/products/shampoing-clarifiant-preparateur-a-la-coloration-avatara-la-saponaria): Henné blond doré, coloration végétale Devi, la saponaria, Hennetica,  fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-28T15:33:30Z
+  Updated: 2025-10-28T20:37:00Z
   Vendor: ma boutique henné
   Product Type: Shampoing
   Availability: Available
@@ -1313,7 +1313,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/sweet-almond-oil.jpg?v=1587734699
   Price: 8,50 € EUR
 - [Henné Damask - BAQ, Body Art Quality, Pakistan](https://ma-boutique-henne.com/products/henne-damask-baq-body-art-quality-pakistan): henné 100% naturel, Djamila, jamila,BAQ, Damask, inde, pakistan, coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, marron, foncé, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre , soudanais, coloration couvre les cheveux blancs, coloration cheveux gris, henna
-  Updated: 2025-10-14T09:20:32Z
+  Updated: 2025-10-28T22:47:01Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1327,7 +1327,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/shampoing-creme-cheveux-secs_05858f44-c48c-43a0-a859-6f11ccea7fe2.jpg?v=1588066722
   Price: 11,00 € EUR
 - [Shampoing Purifiant cheveux gras, regraissant vite - Centifolia](https://ma-boutique-henne.com/products/shampoing-creme-cheveux-gras-ortie-et-argile-verte-centifolia): shampoing crème cheveux gras argile verte ortie, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, ghassoul, avoine, shikakai, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
-  Updated: 2025-10-11T01:03:59Z
+  Updated: 2025-10-28T16:51:30Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-28T14:00:17Z
+  Updated: 2025-10-28T22:24:36Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1852,7 +1852,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/arte-d-erbe-impacco-lavante.jpg?v=1629905365
   Price: 13,00 € EUR
 - [Henné Rouge Violine ULTRA Froid - Le Erbe Di Janas](https://ma-boutique-henne.com/products/henne-rouge-violine-ultra-froid-le-erbe-di-janas): Henné Rouge Violine ultra Froid Le Erbe di Janas, henne rosso ultra freddo, ultra cold shades red coloration rouge cerise, henné violine,  soigne et apaise le cuir chevelu, brillance, volume, couvre cheveux blancs et gris, brillance cheveux châtains , soin capillaire et coloration, plantes henné, henné d'algérie
-  Updated: 2025-10-28T11:05:03Z
+  Updated: 2025-10-28T16:53:15Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/noir.png?v=1728041034
   Price: 7,50 € EUR
 - [Henné Natur - CHATAIN](https://ma-boutique-henne.com/products/henne-natur-chatain): henné biologique henne natur nature hennedrog, colorations capillaires, végétales, couleur cheveux plantes, henné, cheveux rouge, henne rouge cuivré noir prune auburn prune châtain clair acajou auburn, soins capillaires
-  Updated: 2025-10-28T12:49:08Z
+  Updated: 2025-10-28T16:53:16Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1936,7 +1936,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/blond.png?v=1728041033
   Price: 7,00 € EUR
 - [Henné Natur - HENNE CUIVRE](https://ma-boutique-henne.com/products/henne-natur-henne-cuivre): henné biologique henne natur nature hennedrog, colorations capillaires, végétales, couleur cheveux plantes, henné, cheveux rouge, henne rouge cuivré noir prune auburn prune châtain clair acajou auburn, soins capillaires, henné blond, camomille, romarin, reflets dorés, cheveux blonds, éclaircir
-  Updated: 2025-10-28T12:48:46Z
+  Updated: 2025-10-28T17:51:41Z
   Vendor: Ma Boutique Henné
   Product Type: colorations végétales
   Availability: Available
@@ -1991,6 +1991,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henna-black_1.jpg?v=1715330397
   Price: 11,50 € EUR
+- [Henné Sahara Tazarine HAIR QUALITY (boîte verte)](https://ma-boutique-henne.com/products/henne-sahara-tazarine-hair-quality-boite-verte): Le henné Sahara Tazarine du Maroc; boite verte hair quality. traditionnel, 100% naturel, soin cheveux, coloration, tatouage corps, poudre fine, reflet cuivré, roux, rousse, rouge, auburn, bordeaux, masque capillaire, poudre, plante, bio, boutique, rouge cerise, algérie, rajasthan, couleur, chevelure, pousse, cuir chevelu, volume, brillance
+  Updated: 2025-10-28T19:43:06Z
+  Vendor: Ma Boutique Henné
+  Product Type: Henné
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/Henna-Sahara-Tazarine-Gold-100g.webp?v=1727082954
+  Price: 5,10 € EUR
 - [Huile de Neem Bio - ECOCERT](https://ma-boutique-henne.com/products/huile-de-neem-bio): Huile neem 100 % naturel, végétale, protecteur,huile végétale, soin peau, visage, cheveux, sec, abîmés, gras, racines grasses, acnés, bouton, peau grasse
   Updated: 2025-07-20T18:01:46Z
   Vendor: Ma Boutique Henné
@@ -1999,7 +2006,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/neem-oil-virgin-organic.jpg?v=1734082873
   Price: 9,10 € EUR
 - [Henné pur Renforcé cuivré intense - Main de Fatma](https://ma-boutique-henne.com/products/henne-pur-renforce-cuivre-intense-main-de-fatma): Ce henné 100% naturel, cuivré intense main de fatma renforcé rouge hennedrog sodium picramate BAQ, biologique. coloration et soin des cheveux coloration cheveux
-  Updated: 2025-09-24T08:58:21Z
+  Updated: 2025-10-28T17:51:41Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2020,7 +2027,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henne-souad-rouge-clair.jpg?v=1734610987
   Price: 4,50 € EUR
 - [Henné naturel d'Egypte - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-naturel-degypte-exclusivite-ma-boutique-henne): Ce henné 100% naturel, egypte, rouge roux  naturel BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, rouge ,poudre plante, coloration, coloration cheveux gris, henna
-  Updated: 2025-10-28T11:21:27Z
+  Updated: 2025-10-28T20:37:01Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2083,7 +2090,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henne-masria-rouge-ardent.jpg?v=1750669597
   Price: 4,50 € EUR
 - [Henné Auburn - MASRIA](https://ma-boutique-henne.com/products/henne-auburn-masria): Très fort pouvoir colorant le henné auburn Rouge Ardent MASRIA couleur vive et éclatante henné rouge cheveux acajou auburn coloration végétale
-  Updated: 2025-10-27T21:31:01Z
+  Updated: 2025-10-28T16:41:05Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2104,7 +2111,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/IT979043419-p10.jpg?v=1758637060
   Price: 9,99 € EUR
 - [Shampoing Hydratant, cheveux normaux à déshydratés, Amande Douce et Aloé Vera - Centifolia](https://ma-boutique-henne.com/products/shampoing-hydratant-cheveux-normaux-a-deshydrates-amande-douce-et-aloe-vera-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-10T20:45:08Z
+  Updated: 2025-10-28T16:51:31Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
@@ -2132,10 +2139,10 @@
   Updated: 2025-10-28T11:01:47Z
   Total Products: 100
 - [Best Selling Products](https://ma-boutique-henne.com/collections/best-selling-products)
-  Updated: 2025-10-28T11:01:47Z
+  Updated: 2025-10-28T19:43:27Z
   Total Products: 426
 - [Nouveautés](https://ma-boutique-henne.com/collections/newest-products)
-  Updated: 2025-10-28T11:01:47Z
+  Updated: 2025-10-28T19:43:27Z
   Total Products: 426
 - [Les tons Blonds / Dorés](https://ma-boutique-henne.com/collections/tons-dores): reflets nuances blonds, dorés et cuivrés : verge d'or, camomille, rhapontic, rhubarbe, henné blond, romarin, éclaircir ses cheveux, éclaircissement, cheveux blonds, été, couleur dorée, coloration, brillance, gingembre, curcuma, cannelle, cuivré clair, blond vénitien, phitofilos, blé, logona, centifolia, khadi, radico
   Updated: 2025-10-27T11:01:43Z
@@ -2156,7 +2163,7 @@
   Updated: 2025-10-27T11:01:43Z
   Total Products: 17
 - [Cosmétiques Bio](https://ma-boutique-henne.com/collections/cosmetiques-bio-et-vegan): Une gamme de cosmétiques certifiés BIO et vegan pour toute la famille, pachamamai, savon, lamazuna, canola, santé, jardin de lilith, joya, shampoing, enfant, homme, barbe déodorant, anti transpirant, maquillage, khol, santé, ecologique, environnement, douche, rasage, femme, beauté, naturel, henne, cruelty free
-  Updated: 2025-10-28T11:01:47Z
+  Updated: 2025-10-28T19:43:27Z
   Total Products: 108
 - [Savons Bio](https://ma-boutique-henne.com/collections/savons-bio): Savons canola, joya, pachamamai, le jardin de lilith, savons fait main, artisanaux, 100% naturel, vegan, nettoyant visage, savon bio, surgras, certifiés, vegan, rose, huiles essentielles, miel, lait, romarin, barbe, peau, nature, exfoliant, rasage, mousse, menage, argan, ricin, homme, henne d'algerie, rouge cerise
   Updated: 2025-10-06T11:01:51Z
@@ -2177,7 +2184,7 @@
   Updated: 2025-10-22T11:01:46Z
   Total Products: 64
 - [Maquillage](https://ma-boutique-henne.com/collections/maquillage): maquillage, accessoires, kajal, khol, aker fassi, rouge, lèvre, yeux, soultree, santé, naturel, bio, vegan, soin visage, crème, beauté bio, boutique, peau sèche, grasse, sensible, baume, lèvre, déo, déodorant, pachamamai, savon, serum, crème, logona, joya, santé, savon, serviette hygiénique lavable, protectin feminine
-  Updated: 2025-10-24T11:01:24Z
+  Updated: 2025-10-28T19:43:27Z
   Total Products: 27
 - [Déodorants](https://ma-boutique-henne.com/collections/deodorants): maquillage, accessoires, kajal, khol, aker fassi, rouge, lèvre, yeux, soultree, santé, naturel, bio, vegan, soin visage, crème, beauté bio, boutique, peau sèche, grasse, sensible, baume, lèvre, déo, déodorant, pachamamai, savon, serum, crème, logona, joya, santé, savon, serviette hygiénique lavable, protectin feminine
   Updated: 2025-06-09T19:10:02Z
@@ -2357,7 +2364,7 @@
   Updated: 2025-10-24T11:01:24Z
   Total Products: 5
 - [Les yeux et les sourcils](https://ma-boutique-henne.com/collections/les-yeux): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, crayon yeux, rouge à lèvres bordeaux, chili, rose, mauve, marron, cappuccino,
-  Updated: 2025-10-20T11:01:27Z
+  Updated: 2025-10-28T19:43:27Z
   Total Products: 10
 - [La bouche](https://ma-boutique-henne.com/collections/la-bouche): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, crayon yeux, rouge à lèvres bordeaux, chili, rose, mauve, marron, cappuccino,
   Updated: 2025-10-07T11:01:43Z
