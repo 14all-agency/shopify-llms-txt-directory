@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-29T16:00:35.659Z
+- Updated At: 2025-10-29T20:00:33.107Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_box_Outdoor_ETSY.jpg?v=1752017660
   Price: £29.99 GBP
 - [CoffeeBrewers Taster Box – Single Origin Coffee Sampler-7pcs-14pcs-25pcs](https://orovacoffee.com/products/specialty-coffeebrewer-taster-box): Indulge in an exceptional coffee experience and elevate your daily routine with our hand crafted specialty coffee taster assortment. Whether you're at the start of your specialty coffee journey, or a seasoned connoisseur, our curated assortment is an excellent way to discover some of the world's finest coffees and experience them exactly as you like it. For those who are constantly on the go, the Coffeebrewers offer a hassle-free method of brewing and enjoying delicious coffee away from home.
-  Updated: 2025-10-29T02:04:54Z
+  Updated: 2025-10-29T18:08:30Z
   Vendor: The Brew Company
   Product Type: Gift Boxes
   Availability: Available
@@ -280,13 +280,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Advent_bean.png?v=1758369057
     Price: £34.99 GBP
-- [Premium Coffee Christmas Gift Box | Specialty Coffee Brewers](https://orovacoffee.com/products/merry-christmas-coffee-gift-box-london): Deck the halls and warm your mugs! This festive season, gift your loved ones the joy of sipping a delightful cup of specialty coffee, crafted with love and good cheer. Introducing our Christmas Specialty Coffee Gift Box, a curated selection of our finest single-origin specialty coffees. Delightfully hand-roasted at our Danish artisan roastery, each coffee offers a unique flavor and story, waiting to be brewed fresh in our signature ready-to-brew Coffeebrewer pouches.🎄 Indulge in 5 distinct single-origin specialty coffees, each crafted with our Danish artisan touch.🎄 Sustainably merry! Our Coffeebrewer packaging is not just lightweight and compact, but also responsibly made to be refilled and reused.🎄 Brewing joy has never been easier: Just open the Coffeebrewer, brew for 4-8 minutes, and let the festive flavors delight your palate.🎄 For more holiday cheer, reuse with ease—simply rinse, refill, and re-brew!
-  Updated: 2025-10-29T02:04:41Z
-  Vendor: The Brew Company
-  Product Type: Christmas Gift
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Village_xmas_10Pcs_2024-_Compressify.io.jpg?v=1758369057
-  Price: £22.99 GBP
 - [Coffee Advent Calendar Gift Box | Premium Coffee Beans](https://orovacoffee.com/products/advent-calendar-custom): Countdown to Christmas with our Coffee Advent Calendar Gift Box. 24 days of hand-roasted, premium coffee beans – the perfect holiday treat for coffee lovers.
   Updated: 2025-10-29T02:04:41Z
   Vendor: The Brew Company
