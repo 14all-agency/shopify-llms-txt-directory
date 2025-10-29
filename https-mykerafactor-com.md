@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-29T08:00:53.231Z
+- Updated At: 2025-10-29T16:00:33.924Z
 
 ## Products
 
@@ -149,7 +149,7 @@
     Availability: Available
     Price: $108.00 USD
 - [KeraFlex Duo](https://mykerafactor.com/products/keraflex-duo): KeraDuo Laser Cap — Advanced Dual Wavelength Technology Engineered for Elite Hair Rejuvenation Step into the future of hair restoration with the KeraDuo Laser Cap, a next-generation solution engineered with 312 medical-grade laser diodes and dual wavelength technology to deliver unparalleled scalp revitalization. Designed for those who demand results backed by science and crafted with luxury in mind. Scientific Breakthroughs Built Into Every Detail: • 312 Precision-Calibrated Laser Diodes: Complete scalp coverage for maximum light energy delivery at clinically effective dosages. • Dual Wavelength Technology: • 272 diodes at 650nm: Penetrate the epidermis to stimulate follicular metabolism and reawaken dormant hair follicles. • 40 diodes at 808nm (Near Infrared Light): Penetrate deeper into the dermis, enhancing blood flow and delivering oxygen and nutrients at a cellular level. • Flexible Design: Adapts to the contours of your head. • Smart Sensor Activation: Auto-start technology initiates treatment seamlessly once the cap is properly positioned. • Timed 6-Minute Sessions: Designed to deliver therapeutic benefit without overexposure, with automatic shut-off for consistency and safety. • Sleek Protective Carrying Case: Tailored for modern lifestyles — secure, stylish, and ready for travel. The Dual Wavelength Advantage: KeraDuo’s integrated 650nm and 808nm wavelengths represent a synergistic therapeutic approach, simultaneously targeting both surface and deep scalp layers. • 650nm Red Light: Activates mitochondrial function within hair follicles, boosting ATP production for stronger, healthier hair strands. • 808nm Near-Infrared Light: Promotes angiogenesis (formation of new blood vessels) to enhance scalp nourishment and long-term follicle support. This two-tiered system enhances scalp vitality, strengthens hair from root to tip, and promotes visible improvements in thickness, density, and overall scalp health. Sizing Details: Engineered with flexible, comfort-fit materials. The cap’s opening measures approximately 8 inches long by 7 inches wide, flexing to comfortably fit a wide range of head sizes for optimal treatment precision. User Guide for KeraFlex DuoCap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-10-27T20:53:15Z
+  Updated: 2025-10-29T14:58:38Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-10-28T11:04:31Z
+  Updated: 2025-10-29T11:04:38Z
   Total Products: 23
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
