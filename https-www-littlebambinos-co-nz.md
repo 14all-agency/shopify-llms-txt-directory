@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-29T00:01:04.229Z
+- Updated At: 2025-10-29T04:00:54.824Z
 
 ## Products
 
@@ -2806,7 +2806,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/image_540x_485153ba-497a-4401-8319-d20f8529d5d2.jpg?v=1665538292
   Price: $34.00 NZD
 - [SONNIE Varsity Tee - Dusty Pink](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink): A relaxed fit t-shirt with the SONNIE varsity print on the chest and cut in 100% GOTS certified organic cotton. DETAILS GOTS Certified organic cotton Printed chest logo in blue/red Relaxed fit Unisex CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
-  Updated: 2025-10-23T03:25:59Z
+  Updated: 2025-10-29T03:42:57Z
   Vendor: Sonnie
   Product Type: T-Shirtss
   Availability: Available
@@ -2821,7 +2821,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687292510)
-    Availability: Available
+    Availability: Not Available
     Price: $59.00 NZD
   - [8-9y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687325278)
     Availability: Not Available
@@ -13104,14 +13104,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-10-22T20:26:40Z
+  Updated: 2025-10-29T00:46:49Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/positivity_mist.jpg?v=1743995364
   Price: $49.00 NZD
 - [ORIA SKIN Sleep Support](https://www.littlebambinos.co.nz/products/sweetdreamsroller): 100% Natural Relieve anxiety Reduce tensionPromote sleep Sleep is the secret ingredient to a healthy mind, hormones & body. For times when it feels hard to rest or to calm your mind, Sleep Support uses the natural therapeutic properties of lavender, frankincense and ylang ylang to release tension. The sleep tool you can’t live without. Previously named Sweet Dreams and Anxiety Blend. How to use Roll onto pulse points (neck, wrists, soles of the feet) at bedtime or other times of anxiety. Take a deep breath to inhale the aromas. Ingredients * Prunus Dulcis *(Sweet Almond), Lavandula Angustifolia* (Lavender), Boswellia Carterii* (Frankincense), Cananga Odorata* ( Ylang Ylang), Citrus Sinensis* (Sweet Orange), Anthemis Nobilis* (Chamomile (Roman)), Rosa Damascena* (Rose essential oil) Pelargonium tomentosum (Peppermint geranium).
-  Updated: 2025-10-17T01:42:46Z
+  Updated: 2025-10-29T00:48:47Z
   Vendor: Oria Skin
   Product Type: Roller Blend
   Availability: Available
@@ -13145,7 +13145,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-28T23:52:41Z
+  Updated: 2025-10-29T03:52:46Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13184,7 +13184,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-28T23:52:41Z
+  Updated: 2025-10-29T03:52:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -16778,7 +16778,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-28T23:53:11Z
+  Updated: 2025-10-29T03:53:17Z
   Total Products: 414
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17630,7 +17630,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-28T23:53:11Z
+  Updated: 2025-10-29T03:53:17Z
   Total Products: 1320
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-27T11:02:00Z
