@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-29T08:00:54.274Z
+- Updated At: 2025-10-29T12:01:05.753Z
 
 ## Products
 
@@ -16162,7 +16162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1745123002
     Price: $88.95 USD
 - [Discover Premium 2025 Sequin Prom Gowns in Multiple Colors](https://ursupermart.com/products/sequin-prom-gowns-2025-formal-wear): Discover our stunning 2025 sequin prom dress collection featuring form-fitting silhouettes, elegant side slits, and sparkling designs that will make you shine!
-  Updated: 2025-10-23T17:48:39Z
+  Updated: 2025-10-29T11:17:10Z
   Vendor: S1B|Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -21662,7 +21662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-10-29T05:25:41Z
+  Updated: 2025-10-29T10:25:41Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -28869,7 +28869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/automatic-tape-dispenser-pink-refills.webp?v=1760999515
     Price: $14.95 USD
 - [Wireless Bone Conduction Earbuds - Secure Ear Hook Fit](https://ursupermart.com/products/wireless-bone-conduction-earbuds-for-sports-ear-hook-fit): Wireless bone conduction earbuds with secure ear-hooks deliver comfortable HiFi sound & IPX5 waterproofing for active lifestyles. Enjoy your workouts, shop now
-  Updated: 2025-10-29T00:40:53Z
+  Updated: 2025-10-29T10:37:58Z
   Vendor: S1B|S1|UrSuperMart
   Product Type: Wireless Earbuds
   Availability: Available
@@ -29005,7 +29005,7 @@
   Updated: 2025-10-25T20:02:36Z
   Total Products: 17
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-10-29T00:37:45Z
+  Updated: 2025-10-29T11:06:41Z
   Total Products: 32
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
   Updated: 2025-10-29T01:42:12Z
