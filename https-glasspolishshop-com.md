@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-29T16:00:52.721Z
+- Updated At: 2025-10-29T20:00:59.361Z
 
 ## Products
 
@@ -61,7 +61,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14055.jpg?v=1740210658
   Price: €31.95 EUR
 - [PRO Glass Polishing Compound 500ml | High-Grade 2.3 Microns – GP14056](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-500ml-16-9oz): Glass Polishing Compound Polish away, surface marks, water damage, stain and lime scale, removes hairline scratches for any type of glass
-  Updated: 2025-10-29T08:44:01Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -1349,7 +1349,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14113.jpg?v=1740574858
   Price: €31.95 EUR
 - [Glass polish surface sealant 14114](https://glasspolishshop.com/products/surface-sealant-coating-and-water-repellent-500ml-16-9oz): 500ml / 16.9oz Surface Sealant is a professional easy clean coating designed to makes the surface super shiny and smooth. It protects from UV rays and it is a water, dust, dirt repellent.
-  Updated: 2025-10-20T21:18:37Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: surface sealant
   Availability: Available
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-29T07:31:56Z
+  Updated: 2025-10-29T16:10:25Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1399,7 +1399,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Glass Polish Felt Polishing Pad 11007](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-3-inch-75mm): Glass Polish 75mm / 3 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-29T08:44:01Z
+  Updated: 2025-10-29T16:10:25Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2441,7 +2441,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 120 Medium  Grade Silicon Carbide Disc 50mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-2-inch-50mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-20T21:18:46Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2453,7 +2453,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-27T18:17:07Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2465,7 +2465,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-27T18:17:06Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2477,7 +2477,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasNet 200 Coarse Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasnet-200-coarse-grade-abrasive-3-inch-75mm): GlasNet 200 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-20T21:18:47Z
+  Updated: 2025-10-29T16:38:36Z
   Vendor: Glass Polish
   Product Type: GlasNet™ Net Abrasive Discs
   Availability: Available
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-29T10:47:41Z
+  Updated: 2025-10-29T16:38:37Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2913,7 +2913,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [ProMesh™ P180 Foam Backed Flexible Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p180-scratch-removal-sanding-discs-125mm-5-inch): ProMesh™ P180 Foam Backed Flexible Sanding Discs for glass scratch removal with even pressure and swirl-free results. Essential for glass restoration system.
-  Updated: 2025-10-29T09:26:20Z
+  Updated: 2025-10-29T16:10:26Z
   Vendor: Glass Polish
   Product Type: ProMesh™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2932,7 +2932,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-rotary-polishing-machine-l1503vr-230v-eu): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-29T00:08:18Z
+  Updated: 2025-10-29T17:41:25Z
   Vendor: Flex
   Product Type: 
   Availability: Available
