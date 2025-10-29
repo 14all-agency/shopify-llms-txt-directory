@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-29T00:00:46.475Z
+- Updated At: 2025-10-29T04:00:38.798Z
 
 ## Products
 
@@ -1964,21 +1964,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-PRO_1100VSC_rotary_20polisher_7d3d79d0-f88b-4ecc-b5ce-e258b0a837a7.jpg?v=1737643615
   Price: €119.95 EUR
 - [Flex L1503VR - 110v](https://glasspolishshop.com/products/flex-l1503vr-110v-rotary-polisher): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-28T08:52:26Z
+  Updated: 2025-10-29T00:16:02Z
   Vendor: Flex
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Flex-L1503VR.jpg?v=1737643703
   Price: €419.95 EUR
 - [Flex L1503VR - 120v](https://glasspolishshop.com/products/flex-l1503vr-120v-rotary-polisher): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-22T09:54:59Z
+  Updated: 2025-10-29T00:16:02Z
   Vendor: Flex
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Flex-L1503VR_129886a8-8ef1-430d-9368-158bba6809b2.jpg?v=1737643737
   Price: €419.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-l1503vr-230v-rotary-polisher): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-22T09:54:59Z
+  Updated: 2025-10-29T00:15:23Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2932,7 +2932,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Flex L1503VR - 230v](https://glasspolishshop.com/products/flex-rotary-polishing-machine-l1503vr-230v-eu): Flex L1503VR  Rotary Polisher with wide speed range. High torque makes our polisher ideal for treating a variety of surfaces.
-  Updated: 2025-10-29T00:00:29Z
+  Updated: 2025-10-29T00:08:18Z
   Vendor: Flex
   Product Type: 
   Availability: Available
