@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-10-29T12:00:50.326Z
+- Updated At: 2025-10-29T20:00:32.578Z
 
 ## Products
 
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC124k.png?v=1753627953
   Price: $29.99 USD
 - [Bio Cleanse Pure Chlorella Capsules - 500mg Veggie Capsules for Detox](https://www.conquest.fit/products/bio-cleanse-pure-chlorella-capsules-500mg-50-veggie-capsules): Discover Bio Cleanse Pure Chlorella Capsules, packed with 500mg of pure chlorella in 50 veggie capsules. Boost your health with this natural superfood supplement today!
-  Updated: 2025-10-28T23:59:27Z
+  Updated: 2025-10-29T18:58:36Z
   Vendor: Weight Loss & Detox
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC817.png?v=1753624903
   Price: $19.99 USD
 - [Bio Turmeric Pro with BioPerine - Enhanced Absorption - 60 Veggie Caps](https://www.conquest.fit/products/bio-turmeric-pro-with-bioperine-60-veggie-capsules): Unlock the power of nature with Bio Turmeric Pro with BioPerine. Our 60 veggie capsules enhance absorption, promoting overall wellness and vitality. Shop now for optimal health!
-  Updated: 2025-10-28T05:42:55Z
+  Updated: 2025-10-29T19:20:03Z
   Vendor: General Health
   Product Type: 
   Availability: Available
