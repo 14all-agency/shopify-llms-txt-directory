@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-28T20:01:07.699Z
+- Updated At: 2025-10-29T00:01:11.132Z
 
 ## Products
 
@@ -8360,7 +8360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-28T16:10:56Z
+  Updated: 2025-10-28T20:30:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -13312,7 +13312,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Solid-Color-Long-Sleeve-Hooded-Fleece-Lined-Sweatsuit-Brinxx-Couture-4382.jpg?v=1709871671
     Price: $49.99 USD
 - [Ruched Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-mock-neck-long-sleeve-dress): Look stylish and chic in this Ruched Mock Neck Long Sleeve Dress. Crafted from soft and stretchy fabric, this dress features a mock neckline.
-  Updated: 2025-10-01T22:27:23Z
+  Updated: 2025-10-28T22:24:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14764,7 +14764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Dolce-Gabbana-Light-Blue-Brinxx-Couture-7839.jpg?v=1709876298
     Price: $134.00 USD
 - [Black Slit Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/pu-slit-midi-dress): Introducing our Black Slit Midi Dress - the perfect addition to your wardrobe. Made from high-quality PU material, this dress offers both style and durability.
-  Updated: 2025-10-28T01:11:46Z
+  Updated: 2025-10-28T23:59:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,7 +23179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-28T18:30:52Z
+  Updated: 2025-10-28T23:50:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23193,7 +23193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819571894)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819604662)
@@ -25787,7 +25787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
-  Updated: 2025-10-28T09:20:46Z
+  Updated: 2025-10-28T21:50:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -28945,7 +28945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pTwQ7K1D9HPxwMo7n__2210235870173-0-cib.jpg?v=1735321332
     Price: $69.99 USD
 - [Off-Shoulder Long Sleeve Lace Dress - Brinxx Couture](https://www.brinxxcouture.com/products/off-shoulder-long-sleeve-lace-dress): This elegant off-shoulder dress with long lace sleeves will make you feel confident and stylish. The sexy lace adds a touch of romance to this versatile piece.
-  Updated: 2025-10-27T21:09:21Z
+  Updated: 2025-10-28T22:35:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
