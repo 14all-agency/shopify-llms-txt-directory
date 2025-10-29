@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-29T08:01:00.457Z
+- Updated At: 2025-10-29T12:01:04.772Z
 
 ## Products
 
 - [Buy Portofino Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/portofino-wrap): buy portofino wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-25T08:15:39Z
+  Updated: 2025-10-29T10:08:01Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -69,6 +69,7 @@
     Price: $355.00 USD
   - [Shocking Pink](https://aliciaadamsalpaca.com/products/portofino-wrap?variant=40826928136307)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-as234-45-portofinoshawl-shockingpink-wood-web.jpg?v=1751021781
     Price: $355.00 USD
   - [Peach](https://aliciaadamsalpaca.com/products/portofino-wrap?variant=40826928267379)
     Availability: Not Available
@@ -14570,32 +14571,80 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1759424197
     Price: $345.00 USD
 - [Buy Notting Hill Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/notting-hill-wrap): buy notting hill wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-28T14:38:46Z
+  Updated: 2025-10-29T10:46:04Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-NottingHillGrey-Ivory2.jpg?v=1759423978
-  - [Navy / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=52061567254900)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Notting-Hill-Navy-Ivory.jpg?v=1759423978
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-01-02Ivory-Beige_2.jpg?v=1761734764
+  - [Ivory / Beige](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791491444)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-01-02Ivory-Beige_3.jpg?v=1761734764
     Price: $495.00 USD
   - [Grey / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=52061567287668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Notting_Hill_Grey-Ivory1_39939f47-4dc0-4dfc-bc06-54ff4fc58781.jpg?v=1759423978
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Notting_Hill_Grey-Ivory1_39939f47-4dc0-4dfc-bc06-54ff4fc58781.jpg?v=1761734764
+    Price: $495.00 USD
+  - [Light Grey / Charcoal](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791524212)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-12-16LightGrey-Charcoal_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Black / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791556980)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-17-01Black-Ivory_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Navy / Ivory](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=52061567254900)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-27-01Navy-Ivory_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Mauve / Purple](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791589748)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-42-53Mauve-Purple_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Velvet Green / Sage](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791622516)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-52-54VelvetGreen-Sage_3.jpg?v=1761733384
+    Price: $495.00 USD
+  - [Light Taupe / Chocolate](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791655284)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-102-08LightTaupe-Chocolate_3.jpg?v=1761733384
     Price: $495.00 USD
 - [Buy Geneva Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/geneva-wrap): buy geneva wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-28T14:39:04Z
+  Updated: 2025-10-29T10:44:44Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Geneva_Wrap_Black-Cognac.jpg?v=1759423945
-  - [Navy / Ivory](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=52062940823924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ax-Geneva-Wrap-Denim-Ivory.jpg?v=1759423945
-    Price: $495.00 USD
   - [Black / Cognac](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=52062940856692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Geneva-Throw-Black-Cognac.jpg?v=1759423945
+    Price: $495.00 USD
+  - [Ivory / Beige](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279832948)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-01-02_Ivory-Beige_3.jpg?v=1761734128
+    Price: $495.00 USD
+  - [Chocolate / Light Taupe](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279865716)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-08-102_Chocolate-Light_Taupe_3.jpg?v=1761734130
+    Price: $495.00 USD
+  - [Cognac / Ivory](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279898484)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-10-01_Cognac-Ivory_3.jpg?v=1761734123
+    Price: $495.00 USD
+  - [Black / Camel](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279931252)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-17-49_Black-Camel_3.jpg?v=1761734130
+    Price: $495.00 USD
+  - [Denim / Ivory](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=52062940823924)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-114-01_Denim-Ivory_3.jpg?v=1761734123
+    Price: $495.00 USD
+  - [Fawn / Maroon](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279964020)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-129-216_Fawn-Maroon_3.jpg?v=1761734128
+    Price: $495.00 USD
+  - [Spa Blue / Beige](https://aliciaadamsalpaca.com/products/geneva-wrap?variant=53596279996788)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD306-215-02_Spa_Blue-Beige_3.jpg?v=1761734128
     Price: $495.00 USD
 - [Buy Glamper Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/glamper-blanket-2): Buy Glamper Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-28T01:21:55Z
