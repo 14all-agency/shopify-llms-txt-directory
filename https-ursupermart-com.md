@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-28T20:01:05.331Z
+- Updated At: 2025-10-29T00:01:25.155Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-27T22:37:36Z
+  Updated: 2025-10-28T23:13:39Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -16708,7 +16708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-green-tiered-soft-feminine-look.webp?v=1751690925
     Price: $44.95 USD
 - [Midi Dress for Women Floral Ruffles](https://ursupermart.com/products/midi-dress-for-women-casual-elegant-party-wear-outfit-1): Find your perfect Midi Dress for summer with our collection of comfortable, easy-care smocked dresses featuring floral patterns and relaxed fits.
-  Updated: 2025-10-23T17:49:43Z
+  Updated: 2025-10-28T22:58:26Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Smocked Floral Midi Dress
   Availability: Available
@@ -28869,18 +28869,15 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/automatic-tape-dispenser-pink-refills.webp?v=1760999515
     Price: $14.95 USD
 - [Body Slimming Massager with 40K Cavitation RF for Cellulite](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf): Body slimming massager with 40K cavitation and RF technology reduces cellulite and fat, tightens skin. Get professional non-invasive results at home now.
-  Updated: 2025-10-23T18:14:00Z
+  Updated: 2025-10-28T22:33:58Z
   Vendor: S1B|S1|Dsers
   Product Type: wireless 40K cavitation RF body contouring device
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/S2ce2d52bc07d4a999f317c4ee89d8a97y.webp?v=1760583063
   - [3-140K / Free Shipping](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf?variant=42449403019354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/S6ae01c9d2d1740e0876f6801c9e0b6fdl.webp?v=1760583063
     Price: $118.95 USD
   - [4-140K / Free Shipping](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf?variant=42449403084890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Sc91d8bed87194f80ac3527724dbc29d5n.webp?v=1760583063
     Price: $174.95 USD
 - [Paper Cutter Make Gift Wrapping Easy & Get Straight Cuts](https://ursupermart.com/products/paper-cutter-for-easy-gift-wrapping-straight-cuts): Paper Cutter makes gift wrapping simple with perfect, straight cuts every time, eliminating wasted paper and frustration. Achieve beautifully wrapped gifts; shop now!
   Updated: 2025-10-23T18:14:01Z
@@ -28926,8 +28923,8 @@
   Updated: 2025-07-18T18:09:18Z
   Total Products: 0
 - [Buy Affordable Travel Bags - Stylish Options Under $100 Now](https://ursupermart.com/collections/affordable-travel-bags-stylish-collection): Shop stylish affordable travel bags that don't compromise on quality. Find backpacks, duffel bags, packing cubes & travel accessories under $100. Free shipping
-  Updated: 2025-10-16T01:39:23Z
-  Total Products: 9
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 10
 - [Creative Toys Kids Love: Build Skills & Have Fun Today!!!](https://ursupermart.com/collections/creative-toys-kids-love-collection): Creative toys that keep kids engaged without screens! STEM toys and educational activities build problem-solving skills. Ages 2-9 love these now
   Updated: 2025-10-25T01:19:14Z
   Total Products: 58
@@ -28938,11 +28935,11 @@
   Updated: 2025-10-16T01:29:09Z
   Total Products: 5
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
-  Updated: 2025-10-16T01:29:11Z
-  Total Products: 32
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 33
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-10-25T11:06:59Z
-  Total Products: 84
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 85
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
   Updated: 2025-10-28T02:39:01Z
   Total Products: 20
@@ -28965,8 +28962,8 @@
   Updated: 2025-10-25T20:02:36Z
   Total Products: 17
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-10-18T01:49:14Z
-  Total Products: 31
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 32
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
   Updated: 2025-10-28T02:39:01Z
   Total Products: 89
@@ -28980,14 +28977,14 @@
   Updated: 2025-10-24T13:31:42Z
   Total Products: 19
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-10-23T21:37:32Z
-  Total Products: 60
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 61
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
   Updated: 2025-10-24T23:16:29Z
   Total Products: 41
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
-  Updated: 2025-10-23T21:37:32Z
-  Total Products: 54
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 55
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
   Updated: 2025-10-24T17:54:17Z
   Total Products: 35
@@ -29004,8 +29001,8 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-10-28T02:39:01Z
-  Total Products: 33
+  Updated: 2025-10-28T23:03:51Z
+  Total Products: 34
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-10-16T00:45:10Z
   Total Products: 31
