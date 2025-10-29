@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-29T04:00:54.075Z
+- Updated At: 2025-10-29T16:00:51.782Z
 
 ## Products
 
@@ -27795,7 +27795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/03468a92-6f2b-460a-99ff-cd4c9d24ebf9.jpg?v=1760946963
     Price: CHF 24.40 CHF
 - [Hundejacke Teddy - Gefütterte Weste für kleine & mittelgroße Hunde](https://cilly.us/products/teddy-jacket-small-and-medium-sized-dog-thickened-autumn-and-winter-warm-vest): Gefütterte Teddy-Hundejacke für kleine und mittelgroße HundeDiese warme gefütterte Hundejacke im Westen-Stil ist perfekt für kleine und mittelgroße Hunde wie Teddys - hält Ihren Hund in Herbst und Winter kuschelig warm.Produktvorteile: Für Teddy-Hunde: Speziell für kleine & mittelgroße Rassen Gefüttert: Extra Wärmeisolierung Westen-Stil: Einfach anzuziehen Warm: Perfekt für Herbst & Winter Bequem: Angenehm zu tragen Leicht: Nur 140g Gewicht Ideal für:Kleine & mittelgroße Hunde, Teddy-Rassen, Herbst, Winter sowie für kalte Tage.Warme Weste für Ihren kleinen Liebling!
-  Updated: 2025-10-28T13:05:02Z
+  Updated: 2025-10-29T15:25:09Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -27897,7 +27897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3843ee0a-7430-4250-8454-97eebc0e8f53.jpg?v=1760947072
     Price: CHF 19.90 CHF
 - [Rasensprenger 3-Arm 360° Drehbar - Automatische Gartenbewässerung](https://cilly.us/products/adjustable-360-degree-3-arm-rotating-sprinklers-grass-lawn-automatic-watering-nozzles-garden-agriculture-irrigation-device): Automatischer 3-Arm Rasensprenger mit 360° DrehungDieser verstellbare 3-Arm Rasensprenger mit 360° Drehung sorgt für gleichmäßige automatische Bewässerung Ihres Rasens und Gartens - perfekt für große Flächen.Produktvorteile: 3 Arme: Gleichmäßige Wasserverteilung 360° Drehbar: Vollständige Abdeckung Verstellbar: Anpassbare Sprühweite Automatisch: Zeitsparende Bewässerung Für Rasen & Garten: Vielseitig einsetzbar Leicht: Nur 280g Gewicht Ideal für:Rasenbewässerung, große Gartenflächen, automatische Bewässerung sowie für Landwirtschaft.Gleichmäßige Bewässerung mit 360° Abdeckung!
-  Updated: 2025-10-28T13:05:22Z
+  Updated: 2025-10-29T15:19:36Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -28427,7 +28427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1584575692017.jpg?v=1761170812
     Price: CHF 16.40 CHF
 - [Wendbare Hundejacke - Beidseitig tragbar für Hunde](https://cilly.us/products/dog-clothes-can-be-worn-on-both-sides): Wendbare Hundejacke - Zwei Looks in einemDiese praktische wendbare Hundejacke kann auf beiden Seiten getragen werden - perfekt für Abwechslung und Vielseitigkeit bei Ihrem Hund.Produktvorteile: Wendbar: Auf beiden Seiten tragbar Zwei Designs: Zwei verschiedene Looks Vielseitig: Mehr Abwechslung für Ihren Hund Für Hunde: Alle Größen verfügbar Praktisch: Wie zwei Jacken in einer Leicht: Nur 270g Gewicht Ideal für:Hunde aller Größen, Spaziergänge, Abwechslung sowie für stilbewusste Hundebesitzer.Zwei Looks in einer Jacke!
-  Updated: 2025-10-28T13:02:05Z
+  Updated: 2025-10-29T12:32:42Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28664,7 +28664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d560d430-c181-4111-a055-50700ee529ae.jpg?v=1761572627
     Price: CHF 12.20 CHF
 - [Automatische Teleskop-Hundeleine - Einziehbare Rollleine für Hunde](https://cilly.us/products/automatic-telescopic-traction-rope-pet-products): Automatische Teleskop-Hundeleine für HundeDiese praktische automatische Teleskop-Hundeleine mit einziehbarem Mechanismus bietet maximale Bewegungsfreiheit und Kontrolle - perfekt für entspannte Spaziergänge.Produktvorteile: Automatisch: Selbsteinziehender Mechanismus Teleskop-Funktion: Ausziehbar bis mehrere Meter Einziehbar: Einfache Handhabung Für Hunde: Alle Größen Kontrolle: Stopp-Taste für sofortigen Halt Leicht: Nur 444g Gewicht Ideal für:Spaziergänge, Training, Hunde aller Größen sowie für komfortable Führung mit Bewegungsfreiheit.Bewegungsfreiheit mit voller Kontrolle!
-  Updated: 2025-10-28T12:58:54Z
+  Updated: 2025-10-29T15:41:36Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -28747,7 +28747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2307342388231.jpg?v=1761594471
     Price: CHF 38.90 CHF
 - [Automatische Hundeleine - Einziehbare Rollleine für Hunde](https://cilly.us/products/pet-automatic-leash): Automatische einziehbare HundeleineDiese praktische automatische Hundeleine mit einziehbarem Mechanismus bietet Ihrem Hund Bewegungsfreiheit und Ihnen volle Kontrolle - perfekt für entspannte Spaziergänge.Produktvorteile: Automatisch: Einziehbarer Mechanismus Einziehbar: Bis zu mehrere Meter Länge Kontrolle: Einfache Handhabung Für Hunde: Alle Größen Bequem: Ergonomischer Griff Leicht: Nur 231g Gewicht Ideal für:Spaziergänge, Training, Hunde aller Größen sowie für komfortable Führung.Bewegungsfreiheit mit voller Kontrolle!
-  Updated: 2025-10-28T12:55:29Z
+  Updated: 2025-10-29T14:27:55Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
