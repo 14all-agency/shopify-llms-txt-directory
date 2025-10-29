@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-28T20:00:54.812Z
+- Updated At: 2025-10-29T00:01:12.610Z
 
 ## Products
 
@@ -2617,7 +2617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/10ab15ad-1a8e-4838-9bc1-e6d61f3488c5-Max.webp?v=1760866498
     Price: $33.00 USD
 - [One Button Lapel Collar Blazer and Shorts Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/one-button-lapel-collar-blazer-shorts-set): Shop our stylish One Button Lapel Collar Blazer and Shorts Set. Perfect for any occasion, this 2-piece ensemble features a chic design and 100% polyester material for comfort.
-  Updated: 2025-10-23T05:26:36Z
+  Updated: 2025-10-28T23:59:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3671,7 +3671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c3710a4f27ad43559bff4a258bcbc17f-Max-Origin.webp?v=1760856581
     Price: $31.16 USD
 - [Devine Ruched Ruffled Mini Dress - Elegant & Comfortable Choice](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Shop the Devine Ruched Ruffled Mini Dress for a chic, stylish look. Designed with ruffled details and a perfect fit, it’s ideal for special occasions and casual outings.
-  Updated: 2025-10-27T13:07:11Z
+  Updated: 2025-10-28T23:00:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11804,7 +11804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bb83087d-f750-40ad-94d9-89f714c14cef-Max.webp?v=1760860871
     Price: $20.70 USD
 - [Color Block Crew Neck Drop Shoulder Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-crew-neck-drop-shoulder-sweater): Shop the Color Block Crew Neck Drop Shoulder Sweater for a stylish, comfortable fit. Made from a soft blend of viscose, polyester, and polyamide. Easy care instructions.
-  Updated: 2025-10-28T16:03:17Z
+  Updated: 2025-10-28T20:11:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13881,7 +13881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4caddeb5e1014d0199779d72d013955f-Max-Origin.webp?v=1760863361
     Price: $44.26 USD
 - [Round Neck Long Sleeve Top - Comfortable & Stylish Two-Piece Set](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging and casual outings, with easy care features.
-  Updated: 2025-10-28T01:21:30Z
+  Updated: 2025-10-28T20:30:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14311,7 +14311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-28T16:50:39Z
+  Updated: 2025-10-28T23:50:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18249,7 +18249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/207a0a1a-6f42-46c7-b42f-cb642e72c5b4-Max-Origin.webp?v=1761457710
     Price: $43.36 USD
 - [Long Sleeve Sweatshirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-sweatshirt-and-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65%  - Pretty Melanin Boutique
-  Updated: 2025-10-28T19:30:39Z
+  Updated: 2025-10-28T20:30:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
