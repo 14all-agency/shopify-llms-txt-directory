@@ -1,12 +1,15 @@
 # Urban Paws YYC (https://urbanpawsyyc.myshopify.com)
 
+> Our store is currently featuring artisan hand crafted genuine leather dog collars, leashes and harnesses
+
 - Domain: https://urbanpawsyyc.myshopify.com
 - Locale: en
 - Currency: CAD
 - Timezone: America/Denver
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
-- Updated At: 2025-10-29T17:57:59.177Z
+- Address: Calgary, Alberta, Canada
+- Updated At: 2025-10-29T18:00:01.444Z
 
 ## Products
 
@@ -752,6 +755,13 @@
   Updated: 2025-10-26T06:30:45-06:00
 - [Contact Information](https://urbanpawsyyc.myshopify.com/policies/contact-information)
   Updated: 2025-10-26T06:31:48-06:00
+
+## Alternate Currencies & Languages
+
+- [Canada (en / undefined)](https://urbanpawsyyc.myshopify.com/llms.txt?market=ca)
+- [other (en / CAD)](https://urbanpawsyyc.myshopify.com/llms.txt?market=other)
+- [ship (en / CAD)](https://urbanpawsyyc.myshopify.com/llms.txt?market=ship)
+- [USA (en / USD)](https://urbanpawsyyc.myshopify.com/llms.txt?market=usa)
 
 ## Optional
 
