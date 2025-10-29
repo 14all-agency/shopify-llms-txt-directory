@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-29T12:00:50.212Z
+- Updated At: 2025-10-29T16:00:35.566Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -137,7 +137,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzQuanBn_69246603-f948-45ee-91e5-e55cac4465bb.jpg?v=1761071676
     Price: 25,00 € EUR
 - [Oversize-Pullover](https://lastradafashion.de/products/oversize-pullover): Der Pullover vereint entspannten Chic mit edler Strickqualität – ein Statement für moderne Lässigkeit. Der locker fallende Oversize-Schnitt mit überschnittenen Schultern und Fledermausärmeln sorgt für maximale Bewegungsfreiheit und einen modischen Look. Der asymmetrisch abgerundete Saum verleiht dem Design eine spannende Dynamik und macht den Pullover zum perfekten Stylingpartner für Layering-Looks. Ob zu schmalen Hosen, über einem Kleid oder als cozy Look zu Jeans: Der Pullover passt sich deinem Stil an und bleibt dabei immer stilvoll. Ein absolutes Must-have für kühlere Tage mit modischem Anspruch.
-  Updated: 2025-10-28T16:07:34Z
+  Updated: 2025-10-29T12:15:34Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -764,7 +764,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzU0LXRlcnJhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
 - [Jeanshose mit weitem Umschlag](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag): Ein starker Auftritt für Denim-Liebhaberinnen: Die Jeanshose „Urban Cuff“ begeistert mit ihrem modischen Wide-Leg-Schnitt und dem markanten, extrabreiten Saumumschlag. Das dunkle Denim mit Kontrastnähten unterstreicht den modernen Charakter und verleiht der Hose einen cleanen, urbanen Look. Die aufgesetzten Taschen vorn sorgen für eine trendige Utility-Note, während der elastische Baumwollmix angenehm nachgibt und optimalen Tragekomfort bietet. Ein Highlight für stilbewusste Frauen, die das Besondere suchen – ein echtes Must-have!
-  Updated: 2025-10-28T12:47:04Z
+  Updated: 2025-10-29T12:31:09Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1511,7 +1511,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTIyMC0xNTk3NzEwOS00MDY4MzgyMTUzODY0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc.jpg?v=1760976573
   Price: 59,00 € EUR
 - [Wendbarer Steppmantel mit Kapuze](https://lastradafashion.de/products/wendbarer-steppmantel-mit-kapuze): Zwei Looks in einem: Dieser lange Steppmantel begeistert mit seiner Wendefunktion und lässt sich je nach Outfit oder Stimmung von schlichtem Beige zu elegantem Schwarz wenden. Das wattierte Design sorgt für angenehme Wärme, während die große Kapuze zusätzlichen Schutz bietet. Praktische Seitentaschen und der durchgehende Reißverschluss mit sportivem Zipper runden das funktionale Design ab. Ein vielseitiger Begleiter für kalte Tage, der modische Flexibilität und Komfort in einem vereint – ideal für den Alltag wie auch für den City-Look.
-  Updated: 2025-10-28T12:43:26Z
+  Updated: 2025-10-29T12:27:04Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2781,7 +2781,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC1NRzE1MkEtMTY0LTQwNjgzODIxNTgwMTItY3JlbWUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760985478
     Price: 59,00 € EUR
 - [Strick-Cardigan mit Perlmuttknöpfen](https://lastradafashion.de/products/strick-cardigan-mit-perlmuttknopfen): Zart, feminin und wunderbar weich – der Cardigan überzeugt mit luxuriöser Haptik und stilvollem Design. Der tief ausgeschnittene V-Ausschnitt betont das Dekolleté, während schimmernde Perlmuttknöpfe einen dezenten, eleganten Akzent setzen. Die lockere Silhouette mit leicht überschnittenen Schultern und geripptem Abschluss wirkt entspannt und modern zugleich. Ideal kombinierbar mit Skinny Jeans, Lederleggings oder fließenden Röcken – ob fürs Büro oder zum entspannten Stadtbummel. Ein vielseitiger Lieblingsbegleiter, der deinem Outfit sofort eine stilvolle Wärme verleiht.
-  Updated: 2025-10-28T11:55:41Z
+  Updated: 2025-10-29T12:25:34Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2807,7 +2807,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAyNS01MTctNDA2ODM4MjE1ODQ4Ny10YXVwZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_e80c898f-4e0c-40b2-ae3f-49fc3b0110bc.jpg?v=1761652540
     Price: 59,00 € EUR
 - [Mantel in Kunstfell-Optik](https://lastradafashion.de/products/mantel-in-kunstfell-optik): Dieser Mantel in edler Kunstfell-Optik ist ein Highlight für stilvolle Winter-Looks. Die samtig-weiche Oberfläche verleiht ihm eine luxuriöse Ausstrahlung, während der klassische Kragen und die durchgehende Knopfleiste für Eleganz und Struktur sorgen. Der gerade Schnitt mit mittlerer Länge macht ihn besonders vielseitig – perfekt zu Denim, schmalen Hosen oder eleganten Kleidern. Seitliche Eingrifftaschen unterstreichen die Alltagstauglichkeit und runden das Design ab. Ein kuscheliger Allrounder, der Wärme schenkt und zugleich modische Raffinesse verkörpert – ein Must-have für kalte Tage. Materialzusammensetzung Obermaterial 100 % Polyester Futter 100 % Polyester Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen nicht bügeln nicht chemisch reinigen nicht auswringen HerstellungslandP.R.CPassform und SchnittGerader Schnitt, mittellang bis zum Oberschenkel klassischer KragenFit Guide4MaterialqualitätSehr weich, wärmend, voluminös, formstabil, Eingrifftaschen, KnopfleisteVerarbeitungHochwertige Kunstfell-Optik mit samtig-weicher Haptik, Eingrifftaschen, versteckte KnopfleisteModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-28T13:36:45Z
+  Updated: 2025-10-29T13:02:29Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2951,7 +2951,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDMxNS1MNU0yNTMtNDA2ODM4MjE2Mjc1MC1raGFraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761055232
     Price: 59,00 € EUR
 - [Tüllrock mit Satinband](https://lastradafashion.de/products/tullrock-mit-satinband): Wild, feminin und voller Dynamik – der Tüllrock bringt aufregende Eleganz in deinen Kleiderschrank. Der weich fallende Tüll verleiht dem Rock eine herrlich luftige Silhouette, während der elastische Bund mit schimmerndem Satinband charmant die Taille betont und gleichzeitig höchsten Tragekomfort garantiert. Die Midilänge schwingt bei jeder Bewegung leicht mit und verleiht deinem Look eine moderne Leichtigkeit. Ob als Stilbruch mit Chunky Boots und Longsleeve oder edel mit Seidenbluse und Heels – dieser Rock lässt sich vielseitig kombinieren und ist dabei immer ein Eyecatcher. Materialzusammensetzung 90 % Polyester 10 % Elastan Pflegehinweis Bei 30 °C waschen nicht bleichen nicht im Trockner trocknen bei mittlerer Temperatur bügeln milde chemische Reinigung möglich HerstellungslandP.R.CPassform und SchnittMidilanger, weit schwingender Schnitt mit elastischem BundFit Guide2MaterialqualitätLeichtes Material, halbtransparent, formstabilVerarbeitungTüllrock, transparenter Mesh-Überrock, blickdichtes Futter, Satinband am BundModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-28T12:26:56Z
+  Updated: 2025-10-29T15:44:25Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
