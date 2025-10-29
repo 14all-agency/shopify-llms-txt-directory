@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-28T20:01:02.368Z
+- Updated At: 2025-10-29T00:01:04.229Z
 
 ## Products
 
@@ -5694,7 +5694,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $50.00 NZD
 - [TOSHI Swim Sunhat - Reef](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-reef): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.
-  Updated: 2025-10-13T21:29:20Z
+  Updated: 2025-10-28T22:14:50Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -10377,7 +10377,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose.webp?v=1730257074
   Price: $145.00 NZD
 - [SONNIE Heart Tee - Violet](https://www.littlebambinos.co.nz/products/sonnie-heart-tee): A relaxed boxy short-sleeve t-shirt with a Red heart embroidery at the chest. This 100% GOTS-certified organic cotton kids' tee is a must-have Spring/Summer staple. Violet colour way100% GOTS-certified organic cotton Boxy fit Red heart embroidery on the chest GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
-  Updated: 2025-10-23T03:26:01Z
+  Updated: 2025-10-28T21:58:23Z
   Vendor: Sonnie
   Product Type: Tops
   Availability: Available
@@ -10392,7 +10392,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee?variant=41249489649758)
-    Availability: Available
+    Availability: Not Available
     Price: $59.00 NZD
 - [SONNIE Orla Bike Shorts - Ultra Violet](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-ultra-violet): Soft, comfy, everyday essentials. Organic cotton ribbed bike shorts with just enough stretch. DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres.
   Updated: 2025-10-16T02:00:09Z
@@ -12385,7 +12385,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KONGES_SLOJD_2_Pack_Dinner_Bibs_With_Sleeves_-_Sweet_And_Sour_Aloe.webp?v=1740439300
   Price: $75.00 NZD
 - [&Honey OAT MILK Professional Birth Pool](https://www.littlebambinos.co.nz/products/oat-milk-professional-birth-pool): The dreamiest birth pool is here - Meet the Oat Milk Birth Pool. The first of it’s kind in New Zealand, designed by a midwife, mama + photographer this is the pool you have been waiting for! &honey Birth Pools are professional grade made from 0.55mm eco PVC. Our pools are made in small batches allowing for every single pool to be fully inflated for 24 hours before packing. They have a manufacturer warranty for 40 uses.* Specifications 170cm x 135cm x 71cm 0.55mm PVC Cup holder (will fit most standard drink bottles) Inflatable seat and floor 2 x handles inside pool 4 x handles outside pool Includes 1 x Oat Milk Birth Pool 1 x Colour matched puncture repair kit
-  Updated: 2025-09-05T08:42:43Z
+  Updated: 2025-10-28T22:56:44Z
   Vendor: &honey
   Product Type: 
   Availability: Available
@@ -13145,7 +13145,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-28T19:52:42Z
+  Updated: 2025-10-28T23:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13184,7 +13184,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-28T19:52:42Z
+  Updated: 2025-10-28T23:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15547,7 +15547,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-28T19:48:43Z
+  Updated: 2025-10-28T22:28:44Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15577,7 +15577,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
-  Updated: 2025-10-28T19:46:42Z
+  Updated: 2025-10-28T22:08:42Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16465,7 +16465,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [WILSON & FRENCHY Swim Board Short - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe): Dress your children comfortably in Wilson & Frenchy’s collection, featuring items made with natural fibres to provide gentle care.
-  Updated: 2025-10-14T01:04:07Z
+  Updated: 2025-10-28T21:31:44Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -16483,7 +16483,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894256222)
-    Availability: Available
+    Availability: Not Available
     Price: $39.00 NZD
 - [WILSON & FRENCHY One Piece Boyleg Swimsuit - Sunny Scales](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales): Wilson and Frenchy’s long-sleeve, one-piece boyleg swimsuit is ideal for sunny adventures. Crafted from recycled polyester with full lining, it provides excellent UPF 50+ sun protection and resists chlorine for lasting durability. The front zip makes it easy to put on and take off, ensuring comfort throughout the day.
   Updated: 2025-10-14T07:50:26Z
@@ -16619,7 +16619,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [Toshi Hooded Towel Beachcomber - Watermelon](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-watermelon): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
-  Updated: 2025-10-23T03:07:48Z
+  Updated: 2025-10-28T21:31:42Z
   Vendor: Toshi
   Product Type: Towel
   Availability: Available
@@ -16631,7 +16631,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $45.00 NZD
 - [Toshi Hooded Towel Beachcomber - Moonlight](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-moonlight): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
-  Updated: 2025-10-23T03:09:02Z
+  Updated: 2025-10-28T21:31:43Z
   Vendor: Toshi
   Product Type: Towel
   Availability: Available
@@ -16778,7 +16778,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-28T19:53:12Z
+  Updated: 2025-10-28T23:53:11Z
   Total Products: 414
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17630,7 +17630,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-28T19:53:13Z
+  Updated: 2025-10-28T23:53:11Z
   Total Products: 1320
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-27T11:02:00Z
