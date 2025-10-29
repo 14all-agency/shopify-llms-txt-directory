@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-29T00:01:25.155Z
+- Updated At: 2025-10-29T08:00:54.274Z
 
 ## Products
 
@@ -15545,7 +15545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-10-28T15:37:01Z
+  Updated: 2025-10-29T07:15:11Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
@@ -15567,7 +15567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-blue-bodycon-formal.webp?v=1744081852
     Price: $71.95 USD
   - [Red / L](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events?variant=41840292003930)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-red-front-view-coastal.webp?v=1744081852
     Price: $71.95 USD
   - [Navy / L](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events?variant=41840292036698)
@@ -16762,7 +16762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smocked-off-shoulder-floral-midi-dress-full.webp?v=1751920758
     Price: $41.95 USD
 - [Floral Dresses for Women Square Neck Style](https://ursupermart.com/products/floral-dresses-for-women-beautiful-flowy-designs-online): Floral cami dress with pockets, comfortable and versatile for everyday wear, made from easy-care polyester, perfect for summer.
-  Updated: 2025-10-23T17:49:45Z
+  Updated: 2025-10-29T06:30:40Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Floral Square Neck Cami Dress with Pockets
   Availability: Available
@@ -21662,7 +21662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-10-28T05:25:41Z
+  Updated: 2025-10-29T05:25:41Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -28868,16 +28868,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/automatic-tape-dispenser-pink-refills.webp?v=1760999515
     Price: $14.95 USD
+- [Wireless Bone Conduction Earbuds - Secure Ear Hook Fit](https://ursupermart.com/products/wireless-bone-conduction-earbuds-for-sports-ear-hook-fit): Wireless bone conduction earbuds with secure ear-hooks deliver comfortable HiFi sound & IPX5 waterproofing for active lifestyles. Enjoy your workouts, shop now
+  Updated: 2025-10-29T00:40:53Z
+  Vendor: S1B|S1|UrSuperMart
+  Product Type: Wireless Earbuds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bone-conduction-earbuds-battery-sound-upgrade.webp?v=1761697392
+  - [Green / Free Shipping](https://ursupermart.com/products/wireless-bone-conduction-earbuds-for-sports-ear-hook-fit?variant=42449402822746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bone-conduction-earbuds-green-version-case-open.webp?v=1761697650
+    Price: $37.95 USD
+  - [Black / Free Shipping](https://ursupermart.com/products/wireless-bone-conduction-earbuds-for-sports-ear-hook-fit?variant=42449402855514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bone-conduction-earbuds-black-charging-case.webp?v=1761697621
+    Price: $37.95 USD
+  - [White / Free Shipping](https://ursupermart.com/products/wireless-bone-conduction-earbuds-for-sports-ear-hook-fit?variant=42449402888282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bone-conduction-earbuds-white-model-charging-case.webp?v=1761697652
+    Price: $37.95 USD
 - [Body Slimming Massager with 40K Cavitation RF for Cellulite](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf): Body slimming massager with 40K cavitation and RF technology reduces cellulite and fat, tightens skin. Get professional non-invasive results at home now.
-  Updated: 2025-10-28T22:33:58Z
+  Updated: 2025-10-29T00:21:37Z
   Vendor: S1B|S1|Dsers
   Product Type: wireless 40K cavitation RF body contouring device
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cavitation-body-massager-4in1-slimming-machine.webp?v=1761697272
   - [3-140K / Free Shipping](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf?variant=42449403019354)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cavitation-body-massager-target-body-areas.webp?v=1761690670
     Price: $118.95 USD
   - [4-140K / Free Shipping](https://ursupermart.com/products/body-slimming-massager-40k-cavitation-rf?variant=42449403084890)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cavitation-body-massager-heads-accessories-set.webp?v=1761690670
     Price: $174.95 USD
 - [Paper Cutter Make Gift Wrapping Easy & Get Straight Cuts](https://ursupermart.com/products/paper-cutter-for-easy-gift-wrapping-straight-cuts): Paper Cutter makes gift wrapping simple with perfect, straight cuts every time, eliminating wasted paper and frustration. Achieve beautifully wrapped gifts; shop now!
   Updated: 2025-10-23T18:14:01Z
@@ -28904,8 +28925,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-gold-tree-bells.webp?v=1761619142
     Price: $9.99 USD
+- [Christmas Ornaments - Whimsical Gnome Wooden Decor Set](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set): Christmas ornaments featuring rustic wooden gnomes add whimsical charm to your tree; easily hang these lightweight decorations and shop now for festive cheer!
+  Updated: 2025-10-29T01:44:41Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas ornaments
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wooden-christmas-ornaments-gnome-tree-decor-set.webp?v=1761701920
+  - [five stars](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set?variant=42478706688090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wooden-christmas-ornaments-star-shaped-green-gnome.webp?v=1761701920
+    Price: $9.99 USD
+  - [Christmas tree](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set?variant=42478706720858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wooden-christmas-ornaments-house-with-santa-hat.webp?v=1761701920
+    Price: $9.99 USD
+  - [house](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set?variant=42478706753626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wooden-christmas-ornaments-house-window-heart-top.webp?v=1761701920
+    Price: $9.99 USD
+  - [snowflake](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set?variant=42478706786394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wooden-christmas-ornaments-snowflake-gnome-decor.webp?v=1761701920
+    Price: $9.99 USD
 - [Chair Covers Christmas - Festive and Easy Holiday Decor](https://ursupermart.com/products/christmas-chair-covers-festive-holiday-decor): Chair covers instantly transform your dining room into a festive Christmas wonderland with soft, vibrant designs; easily decorate and create holiday joy, shop today!
-  Updated: 2025-10-28T13:22:15Z
+  Updated: 2025-10-29T01:23:58Z
   Vendor: @S1B|S1|eprolo
   Product Type: Chair Covers
   Availability: Available
@@ -28923,7 +28966,7 @@
   Updated: 2025-07-18T18:09:18Z
   Total Products: 0
 - [Buy Affordable Travel Bags - Stylish Options Under $100 Now](https://ursupermart.com/collections/affordable-travel-bags-stylish-collection): Shop stylish affordable travel bags that don't compromise on quality. Find backpacks, duffel bags, packing cubes & travel accessories under $100. Free shipping
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 10
 - [Creative Toys Kids Love: Build Skills & Have Fun Today!!!](https://ursupermart.com/collections/creative-toys-kids-love-collection): Creative toys that keep kids engaged without screens! STEM toys and educational activities build problem-solving skills. Ages 2-9 love these now
   Updated: 2025-10-25T01:19:14Z
@@ -28935,13 +28978,13 @@
   Updated: 2025-10-16T01:29:09Z
   Total Products: 5
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 33
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 85
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-10-28T02:39:01Z
+  Updated: 2025-10-29T01:42:12Z
   Total Products: 20
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-10-17T02:38:51Z
@@ -28956,16 +28999,16 @@
   Updated: 2025-10-23T21:37:32Z
   Total Products: 13
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
-  Updated: 2025-10-25T20:14:48Z
+  Updated: 2025-10-29T01:42:12Z
   Total Products: 84
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
   Updated: 2025-10-25T20:02:36Z
   Total Products: 17
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 32
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-10-28T02:39:01Z
+  Updated: 2025-10-29T01:42:12Z
   Total Products: 89
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-10-24T13:31:42Z
@@ -28977,13 +29020,13 @@
   Updated: 2025-10-24T13:31:42Z
   Total Products: 19
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 61
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
   Updated: 2025-10-24T23:16:29Z
   Total Products: 41
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T00:37:45Z
   Total Products: 55
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
   Updated: 2025-10-24T17:54:17Z
@@ -29001,7 +29044,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-10-28T23:03:51Z
+  Updated: 2025-10-29T01:42:12Z
   Total Products: 34
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-10-16T00:45:10Z
