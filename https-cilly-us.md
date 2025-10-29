@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-28T20:01:06.139Z
+- Updated At: 2025-10-29T00:01:22.059Z
 
 ## Products
 
