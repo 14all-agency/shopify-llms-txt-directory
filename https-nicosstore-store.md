@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-28T20:00:48.332Z
+- Updated At: 2025-10-29T04:00:37.647Z
 
 ## Products
 
@@ -1831,7 +1831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Long Sleeve Top - Stylish Mesh Design for Daily Wear](https://nicosstore.store/products/camouflage-print-long-sleeve-top): Elevate your style with our Camouflage Print Long Sleeve Top. Featuring a trendy mesh design, this top is perfect for everyday wear. Shop now for a versatile wardrobe staple!
-  Updated: 2025-10-28T09:01:45Z
+  Updated: 2025-10-29T02:10:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2609,7 +2609,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Long Sleeve Hoodie with Drawstring for Stylish Comfort](https://nicosstore.store/products/lace-detail-long-sleeve-hoodie): Elevate your style with our Lace Detail Long Sleeve Hoodie. This trendy piece features a chic drawstring and delicate lace accents, perfect for casual or cozy outings. Shop now!
-  Updated: 2025-10-28T14:10:45Z
+  Updated: 2025-10-29T01:12:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5200,7 +5200,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1760293835
     Price: €21.99 EUR
 - [Ruched Long Sleeve Blouse for Effortless Elegance with Drape Collar](https://nicosstore.store/products/ruched-long-sleeve-blouse): Elevate your style with our Ruched Long Sleeve Blouse with Drape Collar. This elegant piece offers effortless sophistication, perfect for any occasion. Shop now for timeless fashion!
-  Updated: 2025-10-28T04:45:21Z
+  Updated: 2025-10-28T22:32:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6409,7 +6409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JzTHfrtujtupmQLm.webp?v=1760469549
     Price: €23.15 EUR
 - [Men's Hoodie and Pants Set - Ultimate Comfort and Stylish Look](https://nicosstore.store/products/mens-hoodie-and-pants-set-plus-size): Elevate your wardrobe with our Men's Hoodie and Pants Set, designed for ultimate comfort and style. Perfect for any occasion, this set combines functionality and fashion effortlessly.
-  Updated: 2025-10-27T07:17:04Z
+  Updated: 2025-10-29T02:54:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7389,7 +7389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
     Price: €33.00 EUR
 - [Houndstooth Print Blazer with Stylish Lapel Collar - Trendy Chic Look](https://nicosstore.store/products/houndstooth-print-blazer): Elevate your wardrobe with our Houndstooth Print Blazer featuring a stylish lapel collar. Perfect for any occasion, this blazer combines sophistication and trendiness effortlessly.
-  Updated: 2025-10-28T06:16:48Z
+  Updated: 2025-10-28T22:18:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7415,7 +7415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b1311ad4-717d-44e5-94c3-b05e8679aed6-Max-Origin.webp?v=1761588996
     Price: €29.99 EUR
 - [Halloween Zip-Up Hoodie for Ultimate Comfort with Drawstring Design](https://nicosstore.store/products/halloween-zip-up-hoodie): Stay cozy this Halloween with our Halloween zip-up hoodie! Designed for ultimate comfort, featuring a drawstring design perfect for festive activities. Get yours now!
-  Updated: 2025-10-28T06:18:05Z
+  Updated: 2025-10-28T22:18:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7469,7 +7469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e517824e-2f80-43b5-8088-4ae926e653d0-Max-Origin.webp?v=1761589060
     Price: €35.22 EUR
 - [Abstract Print Long Sleeve Maxi Dress](https://nicosstore.store/products/abstract-print-long-sleeve-maxi-dress): Features:Tied Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length Waist Hip S 54.3 31.5 26.8 27.2 0 M 54.7 33.1 27.2 28.7 0 L 55.1 35.4 27.6 31.1 0 XL 55.5 37.8 28 33.5 0
-  Updated: 2025-10-28T06:22:13Z
+  Updated: 2025-10-28T22:18:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7491,7 +7491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cef70912-34f7-4ad2-830d-57ab9e41970e-Max-Origin.webp?v=1761589315
     Price: €26.13 EUR
 - [Polka Dot Tie Neck Blouse](https://nicosstore.store/products/polka-dot-tie-neck-blouse): Features:Tied Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 26 37.8 M 26.4 39.4 L 26.8 41.7 XL 27.2 44.1 2XL 27.6 46.5
-  Updated: 2025-10-28T06:23:24Z
+  Updated: 2025-10-28T22:17:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7517,7 +7517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761589381
     Price: €25.99 EUR
 - [Button Up Long Sleeve Outerwear](https://nicosstore.store/products/button-up-long-sleeve-outerwear): Features:Buttoned Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 31.5 37.8 23.8 M 31.9 39.4 24.2 L 32.5 41.7 24.6 XL 33.1 44.1 25
-  Updated: 2025-10-28T06:25:33Z
+  Updated: 2025-10-28T22:17:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7587,7 +7587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b4fff548-b90d-466a-a5d0-14ec262c7c27-Max-Origin.webp?v=1761589511
     Price: €32.88 EUR
 - [Double-Breasted Wool Blend Overcoat](https://nicosstore.store/products/double-breasted-wool-blend-overcoat): Features:Double-breasted Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 32.7 38.6 23.2 M 33.1 40.2 23.6 L 33.7 42.5 24 XL 34.3 44.9 24.4
-  Updated: 2025-10-28T06:25:58Z
+  Updated: 2025-10-28T22:17:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7656,6 +7656,330 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761589539
     Price: €35.00 EUR
+- [Ribbed Long Sleeve Top and Skirt Knit Set](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set): Features:Ribbed,Buttoned,Pleated Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length Length Waist Waist Stretch Amount Hip XS 18.1 29.9 13.2 26 16.5 23.6 37 0 S 18.5 31.5 13.6 26.4 16.9 25.2 38.6 0 M 18.9 33.1 14 26.8 17.3 26.8 40.2 0 L 19.5 35.4 14.4 27.2 17.9 29.1 42.5 0
+  Updated: 2025-10-28T22:17:33Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
+  - [Light Gray / XS](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set?variant=56086109552965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
+    Price: €35.99 EUR
+  - [Light Gray / S](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set?variant=56086109585733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
+    Price: €35.99 EUR
+  - [Light Gray / M](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set?variant=56086109618501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
+    Price: €35.99 EUR
+  - [Light Gray / L](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set?variant=56086109651269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
+    Price: €35.99 EUR
+- [Halter Neck Mini Dress](https://nicosstore.store/products/halter-neck-mini-dress): Features:Backless,Zipper Stretch:Slightly stretchy Body:Lined Material composition:Composition: 95% polyester，5% elastane, Lining:95% polyester，5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Hip Waist S 22 34.6 34.3 26 M 22.4 36.2 35.8 27.6 L 23 38.6 38.2 29.9 XL 35.4 40.9 40.6 32.3
+  Updated: 2025-10-28T20:10:11Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9de7ea13207497c83e29c988cfce90c-Max-Origin.webp?v=1761682188
+  - [Pale Blush / S](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086151889221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9de7ea13207497c83e29c988cfce90c-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Pale Blush / M](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086151921989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9de7ea13207497c83e29c988cfce90c-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Pale Blush / L](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086151954757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9de7ea13207497c83e29c988cfce90c-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Pale Blush / XL](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086151987525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c9de7ea13207497c83e29c988cfce90c-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Black / S](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152020293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6687ff3811af4e6cb1b9cfceb3cc9611-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Black / M](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152053061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6687ff3811af4e6cb1b9cfceb3cc9611-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Black / L](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152085829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6687ff3811af4e6cb1b9cfceb3cc9611-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Black / XL](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152118597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6687ff3811af4e6cb1b9cfceb3cc9611-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Burgundy / S](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152151365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68a629987add4666aef86602e270b82a-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Burgundy / M](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152184133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68a629987add4666aef86602e270b82a-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Burgundy / L](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152216901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68a629987add4666aef86602e270b82a-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [Burgundy / XL](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152249669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/68a629987add4666aef86602e270b82a-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [White / S](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152282437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/410f9a78cd124ddca9479ca06f670a37-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [White / M](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152315205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/410f9a78cd124ddca9479ca06f670a37-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [White / L](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152347973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/410f9a78cd124ddca9479ca06f670a37-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+  - [White / XL](https://nicosstore.store/products/halter-neck-mini-dress?variant=56086152380741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/410f9a78cd124ddca9479ca06f670a37-Max-Origin.webp?v=1761682188
+    Price: €25.99 EUR
+- [Full Size Single-Breasted Sherpa Shacket Plus Size](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 41.3 19.3 M 23.2 43.3 19.7 L 23.6 45.3 20.1 XL 24 47.2 20.5 2XL 24.4 49.2 20.9 3XL 24.8 51.2 21.3 4XL 25.2 53.1 21.7 5XL 25.6 55.1 22
+  Updated: 2025-10-28T22:17:06Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+  - [Deep Pink / S](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169190725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / M](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169223493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / L](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169256261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169289029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / 2XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169321797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / 3XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169354565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / 4XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169387333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Deep Pink / 5XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169420101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/feed3005-0689-4fd2-8e7c-e09c3c46cbf1-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Black / S](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169452869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / M](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169485637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / L](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169518405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169551173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / 2XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169583941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / 3XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169616709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / 4XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169649477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Black / 5XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169682245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/047a59e5-4d2b-457a-8a81-638ee450ee50-Max-Origin.webp?v=1761682286
+    Price: €22.59 EUR
+  - [Green / S](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169715013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / M](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169747781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / L](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169780549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169813317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / 2XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169846085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / 3XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169878853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / 4XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169911621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Green / 5XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169944389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2310422e-7190-4d49-b121-2bd8b101d088-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / S](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086169977157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / M](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170009925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / L](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170042693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170075461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / 2XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170108229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / 3XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170140997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / 4XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170173765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+  - [Yellow / 5XL](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size?variant=56086170206533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
+    Price: €22.59 EUR
+- [Drawstring Christmas Element Zip Up Hooded Jacket](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket): Features: Basic style Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Sleeve Length Bust Shoulder S 4 26 24.8 39.4 15.7 M 6/8 26.4 25.2 40.9 16.1 L 10/12 26.8 25.6 43.3 16.5 XL 14 27.2 26 45.7 16.9 2XL 16 27.6 26.4 48 17.3
+  Updated: 2025-10-28T22:16:51Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+  - [White / S](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket?variant=56086182527301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+    Price: €29.63 EUR
+  - [White / M](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket?variant=56086182560069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+    Price: €29.63 EUR
+  - [White / L](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket?variant=56086182592837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+    Price: €29.63 EUR
+  - [White / XL](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket?variant=56086182625605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+    Price: €29.63 EUR
+  - [White / 2XL](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket?variant=56086182658373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
+    Price: €29.63 EUR
+- [Teddy Bear Ear Hooded Fleece Outerwear](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear): Features:Basic style Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 22.8 40.9 M 23.2 42.5 L 23.6 44.9 XL 24 47.2 2XL 24.4 49.6
+  Updated: 2025-10-28T22:16:44Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+  - [Khaki / S](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086221979973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Khaki / M](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222012741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Khaki / L](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222045509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Khaki / XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222078277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Khaki / 2XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222111045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1a276af4be44480c9d0acf088546d2d9-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Black / S](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222143813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Black / M](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222176581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Black / L](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222209349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Black / XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222242117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+  - [Black / 2XL](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear?variant=56086222274885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
+    Price: €23.99 EUR
+- [Heart Fuzzy Fleece Zip-Up Outerwear](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear): Features:Pocketed Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 26.8 40.9 M 27.2 42.5 L 27.6 44.9 XL 28 47.2 2XL 28.3 49.6
+  Updated: 2025-10-28T22:16:30Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4e33f1c5cf554f0191e64ba9edf0ca2b-Max-Origin.webp?v=1761682531
+  - [Black / S](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear?variant=56086241542469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761682532
+    Price: €25.77 EUR
+  - [Black / M](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear?variant=56086241575237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761682532
+    Price: €25.77 EUR
+  - [Black / L](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear?variant=56086241608005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761682532
+    Price: €25.77 EUR
+  - [Black / XL](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear?variant=56086241640773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761682532
+    Price: €25.77 EUR
+  - [Black / 2XL](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear?variant=56086241673541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/30bfdb7bea1c489d9c5ebf3323091cef-Max-Origin.webp?v=1761682532
+    Price: €25.77 EUR
 
 ## Collections
 
