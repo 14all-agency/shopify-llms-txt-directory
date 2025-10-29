@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-28T20:00:36.606Z
+- Updated At: 2025-10-29T12:00:56.505Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -889,7 +889,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a51ecebf-a542-4b42-b831-564504140092.png?v=1748017354
   Price: 329,00 € EUR
 - [Straight Wire Pro-12 Special Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/straight-wire-pro-12-special-gebraucht-kaufen): Straight Wire Pro-12 Special Lautsprecherkabel gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:42Z
+  Updated: 2025-10-29T00:41:18Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1715,13 +1715,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c403b356-3d87-4064-bcac-4d581c5e5f28.jpg?v=1754667705
   Price: 3.380,00 € EUR
-- [Kubala Sosna Emotion gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kubala-sosna-emotion-gebraucht-kaufen-1): Kubala Sosna Emotion gebraucht kaufen ✅ Geprüftes Netzkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:23Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c5f6ea0c-40f9-410b-a3c7-c17af0daf61c.png?v=1754667609
-  Price: 960,00 € EUR
 - [Kubala Sosna Emotion gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kubala-sosna-emotion-gebraucht-kaufen): Kubala Sosna Emotion gebraucht kaufen ✅ Geprüftes Netzkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:23Z
   Vendor: WorldWideHifi
@@ -2247,13 +2240,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-28T11:25:41Z
+  Updated: 2025-10-29T11:22:52Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-21T11:18:46Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-10-18T11:21:36Z
+  Updated: 2025-10-29T11:22:52Z
   Total Products: 48
 - [HiFi-Netzleisten gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-netzleisten-gebraucht-kaufen): HiFi-Netzleisten gebraucht kaufen ✓ Gebrauchte Netzleisten für HiFi-Geräte im Top-Zustand! ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
   Updated: 2025-10-28T11:25:41Z
@@ -2268,8 +2261,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-28T11:25:41Z
-  Total Products: 115
+  Updated: 2025-10-29T11:22:52Z
+  Total Products: 116
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
