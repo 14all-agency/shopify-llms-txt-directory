@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-29T16:00:45.365Z
+- Updated At: 2025-10-29T20:00:39.884Z
 
 ## Products
 
@@ -788,7 +788,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Flapper-Coat-Rack-White-5.jpg?v=1727659422
   Price: $399.99 NZD
 - [Umbra Flapper Coat Rack - White/Natural](https://everydayhome.co.nz/products/flapper-coat-rack-white-natural): This wooden coat rack stands tall and sleek with nine flip-down hooks, offering ample storage with the ability to tuck away when not in use. Made of wood, Flapper has a tree-like aesthetic, while being entirely modern. Available in a variety of modern finishes, Flapper is sleek in design while keeping ample utility.
-  Updated: 2025-10-27T12:32:20Z
+  Updated: 2025-10-29T19:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3465,7 +3465,7 @@
     Availability: Available
     Price: $469.00 NZD
 - [SwiftDry SpinLine Rotary](https://everydayhome.co.nz/products/swiftdry-spinline-2-meter): The SwiftDry SpinLine Rotary Clothesline is the top of the line in Rotary Clotheslines, being a perfect fit for architectural homes, and a solid quality feel that you will appreciate everyday. We make the Spinline with heavy galvanised steel 3.6mm thick wall for the main pole, and the arms are made from 2mm thick wall galvinised steel. This is quite a statement when the industry standard for other rotary clotheslines is only 1mm steel wall on the main pole! We then Powder coat with Dulux Textura Black to finish, this gives it the elegant look that blends into and complements your home and outdoor landscape. The other very noticeable game changer with this model we designed here at SwiftDry, is that this is the only rotary clothesline available that does not have a tent pole like structure (or support arms) to hold the arms up, this is only possible because of the heavier duty steel use that can support itself. It does not have a winding handle hoist, instead it has 4 adjustable height positions 100mm apart, so you can set it to the height to suit you (around 100mm above head height is ideal) The lines are galvanised steel clothesline wire with 316 stainless steel turnbuckles (one for every line) that allow you to tension, or re-tension your lines at any stage without tools. It needs to be concreted into the ground, so it is not removable or foldable, so it is very strong and sturdy once installed It is available in 4 different diameters 2, 3, 4 or 5 meters overall. -Spinline 5 Meter = 64 meters of line space-Spinline 4 Meter = 40 meters of line space-Spinline 3 Meter = 22 meters of line space-Spinline 2 Meter = 11 meters of line space The best way to check what size you need is 1, How much washing do you have?2, Do you have limited space? Ideally you need at least 1 meter to spare around the edge of your SpinLine to allow it to spin freely without sheets and clothes getting caught on a bush/fence/shed close by. All SpinLines are Powder Coated Black, unless Custom Comes with our SwiftDry 30 year structural warranty, and free urban shipping NZ wide. Requires assembly on installation. Do you have further questions? Please contact us here
-  Updated: 2025-10-22T18:06:43Z
+  Updated: 2025-10-29T19:52:10Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
