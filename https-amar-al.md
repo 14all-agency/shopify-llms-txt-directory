@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-29T04:00:43.713Z
+- Updated At: 2025-10-29T12:01:04.971Z
 
 ## Products
 
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/tonik-nawadniajacy-10e07696.fhcw.webp?v=1741428534
   Price: ALL 1,289.00 ALL
 - [Baby soft feet mask in socks - Amar Pharma - Lirene - Maskë Këmbësh](https://amar.al/products/baby-soft-feet-mask-in-socks): Trajtim profesional per vete-ekzekutim ne shtepi, duke siguruar heqjen efektive te epidermes se vdekur dhe zbutjen intensive te lekures se kembeve. Maska ne formen e corapeve te njomura te gatshme per perdorim permban 7.5% te kompleksit te acideve frutore (laktike dhe glikolike), te cilat stimulojne ne menyre efektive eksfolimin e lekures se vdekur duke mbeshtetur rinovimin e lekures se kembeve. Efekti intensiv eksfoliues i maskes zgjat 7-10 dite pas aplikimit. Kompleti i pasur i perberesve aktive qe permban maska kujdeset per lekuren gjate dhe pas procedures. Lani kembet dhe thajini plotesisht para trajtimit. Hapni qesen dhe nxirrni corapet. Hapni secilen corape duke hapur me kujdes pjesen e siperme te corapit. Vishini corapet dhe lerini perafersisht 60-90 minuta. Hiqni corapet dhe shpelani kembet me uje. 5. Procesi i eksfolimit do te filloje perafersisht 5-7 dite pas perdorimit dhe zgjat 7-10 dite ne varesi te trashesise se kallove dhe corns. Gjate kesaj periudhe nuk duhet te eksfoloni lekuren ne menyre mekanike ose te perdorni produkte te tjera eksfoliuese. Rekomandohet te njomni kembet ne uje te ngrohte dhe te perdorni kremra ushqyes per kembet. Maska duhet te perdoret jo me shume se nje here ne muaj. - Amar Pharma - Lirene - Maskë Këmbësh
-  Updated: 2025-10-28T15:07:30Z
+  Updated: 2025-10-29T04:05:46Z
   Vendor: Lirene
   Product Type: Maskë Këmbësh
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/sun.png?v=1758875665
   Price: ALL 2,991.00 ALL
 - [BODY SCRUB STAY WITH ME MANGO AND ORANGE - Amar Pharma - Lirene - Scrub Trupi](https://amar.al/products/body-scrub-stay-with-me-mango-and-orange): Largon qelizat e vdekura te lekures, pastron thellesisht dhe lemon lekuren, duke e lene te bute dhe rrezatuese butesisht. - Amar Pharma - Lirene - Scrub Trupi
-  Updated: 2025-10-28T15:17:00Z
+  Updated: 2025-10-29T04:02:27Z
   Vendor: Lirene
   Product Type: Scrub Trupi
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/bth3svxawpvf_684b825a-3eaa-4d1c-9f82-8c5c5c020d4d.jpg?v=1758103303
   Price: ALL 1,760.00 ALL
 - [BROAD SPECTRUM SPF 50+ - Amar Pharma - Pharmaceris - Krem Dielli](https://amar.al/products/broad-spectrum-protection-cream-spf-50-for-adults-and-children): Pharmaceris S Broad Spectrum Sun Protection Cream SPF 50+ Formulë e avancuar krijuar për lëkurë shumë të ndjeshme. Rekomandohet për lëkura delikate, të ndjeshme dhe të thata, të prirura ndaj alergjive dhe hiperpigmentimit dhe kërkojne mbrojtje shumë të lartë nga rrezet e forta të diellit, djegiet, rrezatimi i dëmshëm UVA/UVB, si dhe nga drita dhe rrezet infra të kuqe, pra, i gjithë spektri i rrezatimit që arrin në sipërfaqen e planetit. Formulë e përshtatshme për fëmijë dhe bebe mbi 6 muajsh. Me formulën e tij ultra të lehtë dhe teknologjinë e avancuar të filtrit me spektër të gjerë kremi mbron lëkurën në një sërë nivelesh. Siguron mbrojtje nga efektet e dëmshme të rrezeve UVA, UVB dhe HEV. Faktori mbrojtës AntileuDNA krijon një barrierë të fortë mbrojtëse për sistemin imunitar të lëkurës. Ai minimizon reaksionet e padëshiruara ndaj ekspozimit në diell si acarimi, djegia nga dielli, skuqja, çngjyrosjet, skuqje nga dielli, hiperpigmentimet dhe reaksionet alergjike. Kremi hidraton, ushqen dhe rigjeneron lëkurën, duke vepruar kundër thatësisë dhe mbindjeshmërisë. Udhëzime mbi përdorimin Për përdorim të përditshëm në lëkurë për të siguruar nivelin më të lartë të mbrojtjes nga dielli. Aplikoni një sasi të mjaftueshme të kremit në fytyrë 20-30 minuta përpara ekspozimit në diell. Aplikojeni përsëri kremin çdo 2 orë dhe çdo herë pas larjes ose të notuarit. - Amar Pharma - Pharmaceris - Krem Dielli
-  Updated: 2025-10-28T15:29:04Z
+  Updated: 2025-10-29T04:14:15Z
   Vendor: Pharmaceris
   Product Type: Krem Dielli
   Availability: Available
@@ -144,21 +144,21 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-serum.webp?v=1741428563
   Price: ALL 2,594.00 ALL
 - [C+E PRO Nourishing & deepply moisturizing cream - Amar Pharma - Lirene - Krem Hidratues](https://amar.al/products/ce-pro-nourishing-deepply-moisturizing-cream): Krem thellësisht hidratues dhe ushqyes Një kompleks unik i një forme ultra-moderne të vitaminës Duo C, i kombinuar me vitaminën Dpro, mbron rininë e lëkurës në shumë nivele, duke garantuar rezultate spektakolare: Shkëlqimi dhe qëndrueshmëria: vitamina duo C depërton në mënyrë perfekte në lëkurë, duke mbrojtur ADN-në qelizore dhe duke aktivizuar sintezën e fibrave të kolagjenit. Ka një efekt intensiv rigjallërues dhe ndriçues. Vitamina Dpro, duke aktivizuar receptorët VDR, rinovon barrierën epidermale dhe mbështet procesin e rigjenerimit të dëmtimeve të shkaktuara nga plakja biologjike dhe faktorë të jashtëm negativ. Lëkura bëhet rrezatuese, e fortë dhe e shtrënguar. Përdoreni në mëngjes dhe në mbrëmje në fytyrë dhe qafë të pastruar. Për rezultate më të mira, përdorni në mbrëmje së bashku me stimuserum. - Amar Pharma - Lirene - Krem Hidratues
-  Updated: 2025-10-28T15:35:35Z
+  Updated: 2025-10-29T04:07:13Z
   Vendor: Lirene
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-1.webp?v=1741428569
   Price: ALL 1,689.00 ALL
 - [CALM-ROSALGIN - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/redness-reducing-night-face-cream-with-soothing-complex-ca2-calm-rosalgin-30-ml): Pharmaceris Rosacea Calm-Rosalgin Një krem nate për lëkurën rosacea e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur. Veprimi plotësues i 3 përbërësve aktivë: InnoTetrapeptideTM një peptid inovativ i krijuar për të minimizuar shfaqjen e skuqjes së shkaktuar nga reagimi inflamator. Ai pengon shprehjen e interleukinave të cilat janë të përfshira në përgjigjen inflamatore. Tioprolina një antioksidant i fuqishëm. Promovon rigjenerimin e epidermës. Ka një efekt anti-plakje dhe anti-inflamator. Gjithashtu mbron lëkurën nga agresorët e mjedisit. Ekstrakti i gjetheve të ullirit ka një efekt detoksifikues: nxit heqjen e metabolitëve nga qelizat për ta bërë lëkurën më rezistente ndaj stresit. Jonet e kalciumit qetësojnë dhe lehtësojnë irritimet dhe kanë veti antiseptike. Projektuar për lëkurë të ndjeshme me rosacea. Qetëson 100% dhe lehtëson irritimet e lëkurës. Redukton 90% djegien dhe kruajtjen. Zvogëlon 77% ashpërsinë e lezioneve të lëkurës. Parandalon 100% rikthimin e skuqjes. Udhëzime mbi përdorimin Pastroni lëkurën tuaj me një xhel Pharmaceris R dhe përhapeni kremin në të gjithë fytyrën tuaj.Përdoreni në darkë para se të flini. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-28T22:20:00Z
+  Updated: 2025-10-29T10:40:01Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/167-REDNESS-REDUCING-night-face-cream-with-soothing-complex-Ca2-CALM-ROSALGIN-30-ml-1.png?v=1757514824
   Price: ALL 3,292.00 ALL
 - [CAPI-HIALURON-C - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/wrinkle-dermo-structural-correction-cream-capi-hialuron-c-50-ml): Pharmaceris N Capi-Hialuron-C (SPF 20) Kremi rekomandohet për lëkurën e rrudhur me kapilarë të zgjeruar dhe skuqje, e cila bëhet gjithnjë e më e prirur ndaj mikro-irritimeve duke shkaktuar dëmtime të përhershme në enët e gjakut dhe indet. Kjo e bën lëkurën të plaket më shpejt dhe të humbasë densitetin, me rrudhat që bëhen më të thella. Një kompleks aktiv i acidit hialuronik dhe tioprolinës promovon rinovimin e fibrave të kolagjenit të cilat janë të prirura ndaj degradimit të lidhur me moshën dhe mbron strukturën e tyre nga dëmtimi, duke ngadalësuar procesin e plakjes së lëkurës. Acidi hialuronik që përmban kremi redukton thellësinë dhe vëllimin e rrudhave, duke i rikthyer lëkurës nivelet optimale të hidratimit dhe elasticitetit. Fraksioni aktiv i vitaminës C lehtëson dhe kontrollon në mënyrë efektive skuqjen e lëkurës. Vaji i avokados dhe InnoTetrapeptide forcojnë barrierën lipidike të epidermës, duke minimizuar prirjen ndaj acarimit. Filtrat e qëndrueshëm ndaj rrezeve UVA/UVB formojnë një barrierë aktive që mbron nga fotoplakja. Kremi jep një efekt të dukshëm rinovimi, duke forcuar strukturat e indeve dhe duke e bërë lëkurën më të njëtrajtshme. Përbërësit kryesorë Acidi hialuronik Peptide Vitaminë C Tioprolina InnoTetrapeptide Tolerancë dhe efikasitet të lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Përdoreni çdo ditë në lëkurën e fytyrës, qafës dhe dekoltesë. Kremi është një bazë e shkëlqyer make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-28T15:38:20Z
+  Updated: 2025-10-29T04:16:58Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -193,28 +193,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/26-Cleansing-clay-1.png?v=1741428604
   Price: ALL 1,490.00 ALL
 - [COLLAGEN GLOW ANTI-WRINKLE FIRMING CREAM 60+ - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/collagen-glow-anti-wrinkle-firming-cream-60): Lirene COLLAGEN GLOW Krem forcues kundër rrudhave 60 + 50 mlCOLLAGEN GLOW është një linjë kozmetike origjinale e krijuar nga Ekspertët e Laboratorit Shkencor Lirene, e cila ofron kujdes efektiv për lëkurën e pjekur kërkuese. E bën atë qartësisht më të lëmuar, më të fortë dhe të rigjeneruar. Lëkura juaj duket më e re dhe ju ndiheni të bukur çdo ditë. EFEKTET E APLIKIMIT TË SIGURUARA NGA KËRKIMET *:96% e lëmuar74% bredhi83% hidraton* Konfirmuar nga testet IN VIVO pas 3 javësh përdorim. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-28T15:55:31Z
+  Updated: 2025-10-29T09:32:32Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/64ca6120adbed-przeciwzmarszczkowy-krem-ujedrniajacy-60-10e07757-krt.thwo.webp?v=1741428607
   Price: ALL 2,059.00 ALL
 - [COLLAGEN GLOW ANTI-WRINKLE REPARING CREAM 70+ - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/collagen-glow-anti-wrinkle-reparing-cream-70): Lirene COLLAGEN GLOW Krem riparues kundër rrudhave 70 + 50 mlCOLLAGEN GLOW është një linjë kozmetike origjinale e krijuar nga Ekspertët e Laboratorit Shkencor Lirene, e cila ofron kujdes efektiv për lëkurën kërkuese të pjekur. E bën atë qartësisht më të lëmuar, më të fortë dhe të rigjeneruar. Çehrja juaj duket më e re dhe ju ndiheni të bukur çdo ditë. EFEKTET E APLIKIMIT TË SIGURUARA NGA KËRKIMET *:88% e lëmuar76% ushqyes72% fleksibilitet* Konfirmuar nga testet IN VIVO pas 3 javësh përdorimi. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-28T15:56:42Z
+  Updated: 2025-10-29T09:31:02Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/70.webp?v=1741428614
   Price: ALL 2,059.00 ALL
 - [COMEDO ACNE-T ME - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/anti-comedone-cream-unclogs-and-refines-skin-pores-comedo-acne-40-ml): Pharmaceris – T Anti-Comedone Cream Formula e kremit Anti-Comedone zvogëlon numrin dhe madhësinë e pikave të zeza dhe pikave të bardha, duke ngushtuar gjithashtu poret e lëkurës. Normalizon rrjepjen dhe zhbllokon poret për të promovuar nxjerjen e sebumit. Unifikon tonin e lëkurës dhe zbeh hiperpigmentimin post akne.Zvogëllon skuqjen dhe nxit rigjenerimin e lëkurës. Në mënyrë efektive pengon rritjen e baktereve që shkaktojnë akne (Cutibacterium acnes). Acid Shikimik – ka një efekt të fortë antibakterial kundër akneve dhe zhbllokon poret. Për më tepëlr hidraton dhe rigjeneron lëkurën, duke e lënë atë të butë në prekje.Diglikinat Potasium Azelyol – molekula kombinon acidin azelaik dhe glicinën, është më e butë për lëkurën sesa acidi i pastër azelaik dhe ka veti më të mira hidratuese.Niacinamide – lufton aknet falë vetive të saj anti-inflamatore dhe normalizon sekretimin e dhjamit. Përmirëson teksturëln e lëkurës dhe ka një efekt kundër plakjes, ndërsa zbardh njollat.Udhëzime mbi përdoriminAplikojeni çdo ditë në mëngjes dhe para gjumit në lëkurë të pastër, duke shmangur zonën e syve. Mund të përdoret si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-28T22:20:01Z
+  Updated: 2025-10-29T10:40:02Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/159-ANTI-COMEDONE-CREAM-unclogs-and-refines-skin-pores-COMEDO-ACNE-40-ml-1.png?v=1757514773
   Price: ALL 3,370.00 ALL
 - [CORNEO-SENSILIUM - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium](https://amar.al/products/dermo-regenerating-soothing-cream-face-body-cream-corneo-sensilium-75-ml): Pharmaceris – A Corneo-Sensilium Dermo-Regenerating Soothing Cream Krem i cili ka një veprim korrigjues në epidermën e dëmtuar. Rigjeneron intensivisht lëkurën pas trajtimeve, dëmtimit mikro, irritimit dhe gërvishtjeve. Ka një efekt forcues dhe rikthyes në trashësinë fiziologjike të epidermës. Hidraton lëkurën, duke eleminuar thatësinë e epidermës dhe rivendosjen e ekuilibrit natyror të shtresës mbrojtëse të shtresës-kornesë. Vaji i kërpit ka një efikasitet mjekësor në lehtësimin e irritimit, kruajtjes dhe eritemës. Tolerancë dhe efikasitet të lartë Testuar klinikisht dhe dermatologjikisht Udhëzime mbi përdorimin Kremi duhet të aplikohet 1 ose 2 herë në ditë ose, në varësi të nevojave, në lëkurën e pastruar dhe tharë më parë. - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium
-  Updated: 2025-10-26T14:29:39Z
+  Updated: 2025-10-29T09:36:09Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -228,21 +228,21 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/57-CURRANT-Regenerating-serum-for-hands-and-nails-with-argan-oil-1.jpg?v=1758103521
   Price: ALL 915.00 ALL
 - [Delicate and smooth feet mask in socks - Amar Pharma - Lirene - Maskë Këmbësh](https://amar.al/products/delicate-and-smooth-feet-mask-in-socks): Kombinim efektiv i scrubit te trashe dhe enzimave eksfoliuese se bashku me masken rigjeneruese per te rikthyer lemimin dhe butesine e lekures ne nje rutine bukurie. Hapni pjesen e siperme te qeskes qe permban scrub-in. Aplikojeni produktin ne lekuren e paster dhe te lagur te kembeve, masazhojeni me levizje rreethore per rreth 1 minute, shpelajeni me uje. Thani kembet me peshqir. Hapni pjesen kryesore te qeses dhe nxirrni corapet. Hapni secilen corape duke hapur me kujdes pjesen e siperme te corapit. Vishni corapet dhe lerini perafersisht 30 minuta. Hiqni corapet dhe masazhoni produktin e mbetur ne kembe. - Amar Pharma - Lirene - Maskë Këmbësh
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T10:51:02Z
   Vendor: Lirene
   Product Type: Maskë Këmbësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/62-Delicate-and-smooth-feet-mask-in-socks-1.jpg?v=1758103527
   Price: ALL 1,548.00 ALL
 - [DEPIGMENT INTENSE 5% - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/depigment-intense-5-intensive-anti-pigment-night-cream): INDIKACIONEPër kujdesin gjatë natës për lëkurën me çngjyrim ose ton të pabarabartë, të zbehtë ose të pashkëlqyer, ose të lëkurës në rrezik të zhvillimit të çngjyrosjes për shkak të ekspozimit në diell, shtatzënisë, trajtimeve dermatologjike dhe estetike ose inflamacionit.Jo komedogjene.I përshtatshëm për lëkurë me mbindjeshmëri ndaj nikelit.VEPRIMFormula dermatologjike e kremit, me veti shumë efektive për zvogëlimin e ngjyrës, zvogëlon numrin, madhësinë dhe dukshmërinë e parregullsive të tonit të lëkurës dhe njollave të pigmentuara.Formuluar me kompleksin zbardhues (P.440431) MELAGEA (glabridin, acid ellagic), aplikimi në pritje për patentë, me një efekt frenues të provuar në enzimën tirozinazë, përgjegjëse për procesin e melanogjenezës.Ka një efekt të fortë bllokues në formimin e njollave të reja, ndërsa zvogëlon dukshmërinë e pikave ekzistuese të pigmentimit. Niacinamidi shumë i koncentruar i kombinuar me ekstraktin e algave të ylberit që zbardh lëkurën fuqizon efektet e kompleksit, duke reduktuar sintezën e melaninës dhe maturimin e melanosomeve, duke çuar në prishjen e tyre dhe rikthimin e procesit natyral të pigmentimit të lëkurës dhe arritjen e një ngjyre uniforme.Rezultati është një reduktim i dukshëm gradual i çngjyrosjeve dhe rikthim i shkëlqimit të lëkurës pa depigmentim të lëkurës së shëndetshme.Leukine-BarrierTM hidraton dhe ushqen lëkurën, qetëson dhe redukton irritimin. Përveç vetive të tij për zvogëlimin e ngjyrës, kremi zvogëlon rrudhat (numrin, vëllimin, thellësinë), duke e lënë lëkurën dukshëm (+75%**) më të lëmuar.Vitamina PP, duke rritur nivelet e NAD+, aktivizon gjenet e jetëgjatësisë SIRT1 dhe SIRT3 dhe rregullon sintezën e ceramideve esenciale në lëkurë, duke forcuar mbrojtjen e lëkurës kundër dëmtimeve UV dhe duke përmirësuar riparimin e dëmtimit të lëkurës të shkaktuar nga UV.PËRBËRËSITniacinamidekompleksi MELAGEALeukine-BarrierTMEkstrakti i Algave të YlberitUDHËZIME PËR PËRDORIMPërdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë natës. Rekomandohet përdorimi i kremit ditor Pharmaceris W SPF 50+ si trajtim plotësues.Efektet mund të shihen në 4-6 javë të përdorimit të produktit.Shmangni ekspozimin në diell gjatë trajtimit dhe për 10 javë më pas.SIGURIA DHE EFIKASITETITOLERANCË DHE EFIKASITETI I LARTËTESTUAR DERMATOLOGJIKISHT100% barazon strukturën e lëkurës93% ndriçon lëkurën87% zvogëlon zbardhjet ekzistuese80% parandalon njolla të reja të lëkurës - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T10:56:56Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/672df61300abd_W_EN_10E14712_DEPIGMENT_INTENSE-1.png?v=1757514758
   Price: ALL 4,391.00 ALL
 - [DEPIGMENT-TONIQUE - Amar Pharma - Pharmaceris - Toner](https://amar.al/products/depigment-tonique): INDIKACIONEPër lëkurën me njolla të pigmentuara dhe ton të pabarabartë, me shenja plakjeje, si dhe lëkurë të shurdhër, njolla të errëta të shkaktuara nga ekspozimi në diell.Pa sapun dhe alkool. VEPRIMDermo-toniku siguron një eksfolim të butë përpara hapave të mëvonshëm të kujdesit të lëkurës, duke rritur efektet e trajtimeve për zbardhjen e lëkurës.Toneri heq në mënyrë efektive papastërtitë, grimin dhe sebumin dhe ndihmon në rregullimin e pH-së së lëkurës, duke rezultuar në një ton lëkure më të lëmuar, dukshëm më të shndritshëm dhe më rrezatues.Acidi glikolik ka një efekt të fuqishëm eksfolues dhe rregullon keratinizimin, duke hequr në mënyrë efektive qelizat e vdekura të epidermës.Zbut dukshëm sipërfaqen e lëkurës, duke reduktuar shfaqjen e çngjyrosjeve.Toneri ka një efekt hidratues, duke reduktuar ndjenjën e shtrëngimit dhe tharjes së tepërt të lëkurës.Pa alkool, nuk shkakton acarim, thumbim në sy, pa ndjesi të thatë, pa lot të tepruar dhe asnjë ndjenjë të tendosjes së tepërt. PËRBËRËSIT3,6% acid glikolikEkstrakti i Algave të Ylberit UDHËZIME PËR PËRDORIMPërdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë mëngjesit dhe natës.Aplikojeni në fytyrën e pastruar.Masazhojeni me gishta ose me një copë pambuku, lëreni në lëkurë që të përthithet.Rekomandohet përdorimi i një kremi kundër diellit me të paktën SPF 50 gjatë ditës. SIGURIA DHE EFIKASITETI FORMULA E AVANCUAR E DIZAJUAR PËR LËKURË SHUMË TË NDJESHMETOLERANCË DHE EFEKTIVITET I LARTËTESTUAR DERMATOLOGJIKISHT - Amar Pharma - Pharmaceris - Toner
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T11:14:19Z
   Vendor: Pharmaceris
   Product Type: Toner
   Availability: Available
@@ -256,35 +256,35 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/141-DEPIGMENTATION-SERUM-TO-TREAT-DISCOLOURATIONS-ACIPEEL-3x-30-ml-1.png?v=1737379793
   Price: ALL 3,990.00 ALL
 - [Diamond lifting 3D anti-wrinkle lifting eye cream - Amar Pharma - Lirene - Krem Sysh](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-lifting-eye-cream): Krem anti-rrudhe per syte me 24k ar, diamante, peptide bakri dhe kafeine, qe siguron nje rinovim tre-dimensional te lekures. Aplikojeni kremin ne lekuren e pastruar rreth syve. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Krem Sysh
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T11:26:14Z
   Vendor: Lirene
   Product Type: Krem Sysh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-krem-pod-oczy-10e07688-krt.pmen.webp?v=1737122244
   Price: ALL 1,551.00 ALL
 - [Diamond lifting 3D anti-wrinkle micellar water - Amar Pharma - Lirene - Ujë Micelar](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-micellar-water): Uje micelar anti-rrudhe per fytyre me ar 24k, diamante, peptide bakri dhe acid hialuronik. Aplikojeni ujin ne nje tampon pambuku dhe pastroni butesisht fytyren, qafen, qepallat e syve dhe buzet. Perseriteni procesin deri sa tamponi te jete i paster. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Ujë Micelar
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T11:37:02Z
   Vendor: Lirene
   Product Type: Ujë Micelar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-plyn-micelarny-10e07690.s7ij.webp?v=1737122247
   Price: ALL 1,989.00 ALL
 - [Diamond lifting 3D anti-wrinkle rebuilding cream 70+ day & night - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rebuilding-cream-70-day-night): Krem nate rindertues anti-rrudhe me 24k ar, diamante, peptide bakri dhe niacinamide per rinovim tre-dimensional. Ideal per nevojat e nje lekure 70+ vjec. Cdo mengjes dhe mbremje, aplikojeni kremin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T11:39:49Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d7.webp?v=1737122251
   Price: ALL 2,881.00 ALL
 - [Diamond lifting 3D anti-wrinkle regenerating cream 60+ day & night - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-regenerating-cream-60-day-night): Krem nate rigjenerues anti-rrudhe me 24k ar, diamante, peptide bakri dhe ceramide per rinovim tre-dimensional. Ideal per nevojat e nje lekure 60+ vjec. Cdo mengjes dhe mbremje, aplikojeni kremin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-26T14:29:40Z
+  Updated: 2025-10-29T11:41:32Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d6.webp?v=1737122256
   Price: ALL 2,881.00 ALL
 - [Diamond lifting 3D anti-wrinkle rejuvenating serum - Amar Pharma - Lirene - Serum Fytyre](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rejuvenating-serum): Serum rinovues per fytyren, qafen dhe dekoltene me 24k ar, diamant, peptide bakri dhe niacinamide. Suporton 3D lifting, lemon dhe redukton rrudhat. Aplikojeni serumin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Serum Fytyre
-  Updated: 2025-10-26T14:29:41Z
+  Updated: 2025-10-29T11:47:47Z
   Vendor: Lirene
   Product Type: Serum Fytyre
   Availability: Available
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/149-EMOTOPIC-SPECIAL-LIPID-REPLENISHING-CREAM-for-face-and-body-micro-crack-preventing-reducing-itchiness-75-ml-1.png?v=1757514632
   Price: ALL 2,830.00 ALL
 - [DERMO-PROTECTIVE MINERAL CREM SPF 50+ - Amar Pharma - Pharmaceris - Krem Dielli](https://amar.al/products/emotopic-dermo-protective-mineral-cream-spf-50-very-high-protection-to-minimize-skin-irritation-75-ml): Pharmaceris Emotopic Dermo-Protective Mineral Cream 50+ Kremi mineral këshillohet për përdorim në fytyrë dhe trup, për bebe që nga dita e parë e jetës, fëmijë dhe të rritur, me qëllim që të sigurojë mbrojtje shumë të lartë nga rrezatimi diellor dhe të minimizojë acarimin e lëkurës të shkaktuar nga ekspozimi ndaj agresorëve mjedisorë (dielli, era, temperatura nën zero). Rekomandohet për lëkurat e ndjeshme dhe atopike të cilat janë të prirura ndaj alergjive prej rrezeve të diellit, filtrave kimikë, përbërjeve aromatike dhe konservuesve. Kremi dermo-mbrojtës i bazuar në filtra minerale 100% siguron mbrojtje shumë të lartë nga rrezet e forta të diellit dhe agresorët mjedisorë, duke kundërvepruar me efektin e tyre negativ në lëkurë. Një sistem i sigurte i filtrave minerale reflekton dhe shpërndan rrezet e diellit, duke parandaluar rrezatimin e dëmshëm UVA/UVB të depërtojë në lëkurë dhe të dëmtojë ADN-në e qelizave të lëkurës. Minimizon rrezikun e krijimit të djegieve nga dielli, skuqjes dhe acarimit, si dhe reaksioneve fotoalergjike. Përbërja komplekse nga vajrat e kanola dhe kërpit, të kombinuara me algat e arta forcon ndjeshëm barierën mbrojtëse të lëkurës kundër agresorëve mjedisorë. Ndihmon në riparimin dhe rigjenerimin e epidermës, eliminon tharjen dhe lehtëson irritimin e lëkurës, kruajtjen, skuqjen. Ofron një efekt qetësues duke eliminuar ashpërsinë dhe ndjesinë e lëkurës së tendosur dhe parandalon humbjen e tepërt të lagështisë. Udhëzime mbi përdorimin Përhapni butësisht një sasi të vogël të kremit në të gjithë fytyrën dhe trupin. Rekomandohet për përdorim të përditshëm 30 minuta përpara ekspozimit ndaj agresorëve mjedisorë. Aplikojeni përsëri kremin çdo 2 orë dhe çdo herë pas larjes ose të notuarit. https://pharmaceris.com/en/product/10E16908-13-02/pharmaceris-e-dermo-protective-mineral-cream-spf-50–very-high-protection-to-minimize-skin-irritation-75-ml - Amar Pharma - Pharmaceris - Krem Dielli
-  Updated: 2025-10-26T14:29:44Z
+  Updated: 2025-10-29T11:20:00Z
   Vendor: Pharmaceris
   Product Type: Krem Dielli
   Availability: Available
@@ -508,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/f2.webp?v=1737122367
   Price: ALL 1,145.00 ALL
 - [H- STIMULINUM - Amar Pharma - Pharmaceris - Krem Flokësh](https://amar.al/products/hair-growth-stimulating-conditioner-h-stimulinum-250-ml): Pharmaceris – H-Stimulinum Hair Growth Stimulating Conditioner Formula e balsamit është krijuar si për burrat ashtu edhe për gratë e prekura nga rrallimi dhe rënia e përkohshme e flokëve, të shkaktuara nga predispozita gjenetike dhe hormonale (alopecia androgjenike), faktorët mjedisorë, mjekime të zgjatura, stresi, lodhja, dobësia e përgjithshme (p.sh. dieta) ose shtatzania. Balsami është i përshtatshëm për lëkurën e ndjeshme të kokës. Formula e produktit bazohet në një kombinim unik të përbërësve aktivë: faktori natyror i rritjes FGF dhe kafeina. Me efikasitet të provuar shkencërisht, komponentët komplekse vonojnë procesin e plakjes së qelizave duke zgjatur ciklin jetësor të flokëve për të parandaluar rënien e hershme të flokëve dhe rrallimin e shkaktuar nga faktorë të ndryshëm. Përbërësit nxisin mikroqarkullimin dhe oksigjenimin e duhur të gjëndrës së flokëve për të stimuluar prodhimin e flokëve të rinj dhe për të përshpejtuar rritjen dhe trashjen e tyre natyrale. Formula është e pasur me përbërës forcues dhe qetësues (vitaminë PP, D-panthenol dhe biotinë) për të rikthyer volumin natyral, shkëlqimin e mëndafshtë dhe pamjen e shëndetshme të flokëve. Nuk i rëndon flokët. Duke e bërë më të lehtë krehjen e flokëve, ai minimizon këputjen dhe rënien. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni balsamin në flokë të lagur çdo herë pas larjes. Fërkojeni butësisht në flokët dhe skalpin tuaj. Lëreni të veprojë për 2-3 minuta dhe më pas shpëlajeni me ujë. Nëse produkti ju bie në kontakt me sytë, lajini menjëherë me ujë. Për të përmirësuar rezultatet e trajtimit, përdoreni në kombinim me shampon Pharmaceris H-Stimupurin. - Amar Pharma - Pharmaceris - Krem Flokësh
-  Updated: 2025-10-28T22:20:01Z
+  Updated: 2025-10-29T10:40:02Z
   Vendor: Pharmaceris
   Product Type: Krem Flokësh
   Availability: Available
@@ -522,7 +522,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/73-CONCENTRATED-STRENGTHENING-SHAMPOO-1.png?v=1757514604
   Price: ALL 2,095.00 ALL
 - [H-PURIN SPECIAL - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/h-purin-special-anti-dandruff-shampoo): Pharmaceris – H-Purin H-Purin Special Shampo për larjen dhe kujdesin e skalpit të kokës me simptomat e zbokthit të etiologjive të ndryshme, duke përfshirë zbokthin e thatë dhe të yndyrshëm, kruajtjen, acarimin dhe rrëshqitjen e lëkurës. Formula Scalpshield rikthen dhe ruan ekuilibrin e mikrobiomës së duhur dhe pH-në e duhur të kokës.Falë vetive antibakteriale dhe antifungale të Octopirox® dhe Ciclopirox Olamine, ai kufizon zhvillimin e mikroorganizmave përgjegjës për zhvillimin e zbokthit dhe redukton seborrenë, duke parandaluar yndyrën e flokëve. Alantoina dhe aloe qetësojnë irritimet, skuqjen dhe kruajtjen e lëkurës. Një prebiotik kundër zbokthit rregullon popullsinë e kërpudhave Malassezia (shkaku i seborresë dhe zbokthit) në lëkurën e kokës duke frenuar enzimën 5-α-reduktazë dhe duke reduktuar prodhimin e sebumit, i cili është burimi kryesor i ushqimit të tij. Ka një efekt imunomodulues dhe forcon shtresën korneum.Falë kësaj, është e përkryer për lëkurën e prirur ndaj zbokthit, e yndyrshme dhe tepër e ndjeshme. Qetëson skalpin e kokës dhe redukton skuqjen/zbokthin që nga përdorimi i parë. Nuk është aq agresiv sa agjentët “klasikë” kundër zbokthit. OCTOPIROX ka veti të forta antibakteriale dhe antifungale, normalizon dhe rikthen ekuilibrin e mikroflorës epidermale. Ndihmon në luftimin e kërpudhave Malassezia, të cilat kontribuojnë në formimin e zbokthit dhe seborresë. Cyclopirox Olamine efekt antimykotik – pengon transportin e lëndëve ushqyese thelbësore në qelizë, dëmton membranën qelizore dhe pengon disa procese metabolike, gjë që rezulton në vdekjen e qelizave mykotike. Allantoin ka një efekt hidratues, rigjenerues, anti-inflamator dhe qetësues. Zbut skuqjen, zvogëlon djegien dhe kruajtjen e lëkurës. Xhel aloe ka veti antibakteriale, antifungale dhe anti-inflamatore. Redukton djegien dhe kruajtjen e lëkurës. Zbut inflamacionin dhe qetëson lëkurën. Rezultatet 88% lufton në mënyrë efektive zbokthin. 100% redukton kruajtjen e kokës pas larjes së parë. Testuar klinikisht dhe dermatologjikisht. Tormulë dermatologjike e zhvilluar për lëkurë të ndjeshme. Udhëzime mbi përdorimin Aplikoni shampon në flokë të lagur. Masazhojeni derisa të krijohet shkumë. Lëreni për 1-2 minuta. Shpëlajeni tërësisht me ujë. Në varësi të shkallës së problematikeë së skalpit, përdoret çdo ditë (trajtim intensiv) ose 1-2 herë në javë (trajtim profilaktik). Në rast kontakti me sytë, shpëlajini me ujë. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-28T22:20:02Z
+  Updated: 2025-10-29T10:40:03Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
@@ -543,28 +543,28 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/71-PROFESSIONAL-SOOTHING-SHAMPOO-for-sensitive-scalp-for-fine-and-delicate-hair-1.png?v=1757514569
   Price: ALL 2,095.00 ALL
 - [H-STIMUCLARIS - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-anti-dandruff-shampoo): Pharmaceris – H-Stimuclaris Double Action Hair Growth Stimulating & Anti -Dandruff Shampoo Rekomandohet për larjen e flokëve dhe skalpit të kokës për gratë dhe burrat, për flokët me problemin e zbokthit dhe me tendencë për rënie apo rrallim. H-Stimuclaris rekomandohet për flokë të dobët, të hollë, të yndyrshëm si dhe për inflamacion seborreik të kokës me skuama. Kjo formulë e patentuar për përdorim të përditshëm, është e sigurtë për skalpin e ndjeshëm. Shampoja dermatologjike e specializuar është një zgjidhje efektive për problemet ekzistuese dhe të vështira për t’u kapërcyer me lëkurën e kokës – zbokthin dhe rënien e tepërt të flokëve. Bazuar në piroktonat olamine dhe acidin citrik pastron në mënyrë efektive lëkurën e kokës, duke eliminuar simptomat dhe shkaqet e zbokthit shqetësues dhe jo-estetik, i cili prish ciklin fiziologjik të jetës së flokëve, duke shkaktuar rënie të tepërt dhe rrallim të flokëve. Kompleksi i kafeinës dhe faktori natyror i rritjes FGF, stimulon bioaktivuesin e rritjes së flokëve – proteinën FGF7, përgjegjëse për stabilizimin e ciklit jetësor të flokëve, zgjatjen e fazës së rritjes (fazës anagen). Përmirëson mikroqarkullimin dhe oksigjenimin e qelizave, forcon folikulin e flokëve, ndërkohë që pengon rënien e flokëve dhe aktivizon dhe përshpejton rritjen e tyre natyrale. Si rezultat, parandalon rënien e parakohshme të flokëve, rrallimin, duke forcuar ndjeshëm flokët, duke zbutur strukturën e tyre dhe duke rritur volumin e tyre. Formula delikate e shampos së pasuruar me D-panthenol qetësues, rikthen ekuilibrin e lëkurës së kokës, rikthen rehatinë dhe nivelin e nevojshëm të hidratimit. Redukton kruajtjen dhe yndyrën e flokëve. Rikthen pH natyral të skalpit, duke i lënë flokët të butë duke reduktuar këputjen. Udhëzime mbi përdorimin Përdoreni shampon çdo ditë ose minimalisht 3 herë në javë. Aplikojeni në flokë dhe skalp të lagur. Masazhojeni butësisht për 2-3 minuta, më pas shpëlajeni me ujë. Në rast kontakti me sytë, shpëlajeni me ujë të bollshëm. Për të rritur efektivitetin e veprimit stimulues të rritjes së flokëve, përdoreni së bashku me Pharmaceris H-Stimulinum ose H-Stimuforten. Mund të përdorni peeling trikologjik pastrues H-Stimupeel një herë në javë si masë parandaluese. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-28T22:20:02Z
+  Updated: 2025-10-29T10:40:03Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/75-PROFESSIONAL-HAIR-GROWTH-STIMULATING-ANTI-DANDRUFF-SHAMPOO-1.png?v=1757514556
   Price: ALL 2,689.00 ALL
 - [H-STIMUFORTEN 125 ml - Amar Pharma - Pharmaceris - Spraj Flokësh](https://amar.al/products/intensive-hair-growth-stimulating-spray-h-stimuforten-125-ml): Pharmaceris – H-Stimuforten Intensive Hair Growth Stimulating Treatment Ky trajtim rekomandohet për gratë dhe burrat që vuajnë nga rënia e tepërt periodike dhe e parakohshme e flokëve. Ndihmon në luftimin e rrallimit të flokëve që lidhet me predispozitat gjenetike dhe faktorët hormonalë (alopecia androgjenike) ose mjedisore. Parandalon në mënyrë efektive rënien e flokëve të shkaktuar nga mjekimi i zgjatur, stresi, lodhja, dobësia e përgjithshme (p.sh. lidhur me dietën), si dhe për shkak të një niveli më të ulët të hormoneve, p.sh. pas shtatzënisë. Është i përshtatshëm për skalpin e ndjeshëm. Një produkt i veçantë me kombinimin unik të përbërësve aktivë: Faktori i Rritjes Natyrore FGF dhe kompleksi i kafeinës ka efekt të dyfishtë: parandalon rënien e flokëve dhe stimulon rritjen e flokëve të reja. Kompleksi ndikon në bulbin e flokëve, përmirëson mikroqarkullimin dhe oksigjenimin qelizor duke ngadalësuar plakjen e qimeve, duke përshpejtuar rritjen e tyre natyrale dhe duke zgjatur jetëgjatësinë e tyre (faza anagjene). Si rezultat, pengon rënien e parakohshme të flokëve, rrallimin e flokëve të shkaktuar nga faktorë të ndryshëm.Kompleksi me efikasitet të provuar shkencërisht stimulon gjenet e folikulave joaktive të flokëve për të prodhuar flokët e rinj, të ashtuquajturat qimet vellus, të cilat në mënyrë të dukshme shtojnë volumin e flokëve dhe reduktojnë dukshmërinë e skalpit. Kafeina parandalon rënien e parakohshme të flokëve dhe të e përcaktuar gjenetikisht duke neutralizuar efektin negativ të hormoneve (androgjenet, DHT). Produkti forcon dhe trash flokët, zbut strukturën e flokëve dhe përmirëson volumin e tyre. Shumë i tolerueshëm, ka pH neutral të lëkurës. Nuk i rëndon flokët dhe nuk i yndyros. Formula e tij është aktive për 24 orë. Udhëzime mbi përdorimin Në rast të rënies intensive të flokëve, aplikojeni produktin çdo mëngjes dhe mbrëmje në flokë të lagur ose të thatë, të krehur në ndarje. Spërkateni në secilën ndarje tre herë duke shtypur spray-n.Aplikojeni në të gjithë lëkurën e kokës (15-18 doza), më pas masazhojeni butësisht. Mos e shpëlani. Aplikojeni rregullisht derisa simptomat të zhduken. Për ta bërë trajtimin më efektiv, produkti duhet të përdoret në kombinim me shampon dhe balsamin që stimulon rritjen e flokëve për përdorim të përditshëm nga linja Pharmaceris H. Përdoreni produktin si pjesë e trajtimit disa herë në javë në mbrëmje. Tundeni mirë para përdorimit. - Amar Pharma - Pharmaceris - Spraj Flokësh
-  Updated: 2025-10-28T22:20:03Z
+  Updated: 2025-10-29T10:40:04Z
   Vendor: Pharmaceris
   Product Type: Spraj Flokësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/171-INTENSIVE-HAIR-GROWTH-STIMULATING-SPRAY-H-STIMUFORTEN-125-ml-1.png?v=1757514545
   Price: ALL 3,292.00 ALL
 - [H-STIMUPEEL 125 ml - Amar Pharma - Pharmaceris - Peeling Flokësh](https://amar.al/products/trichology-cleansing-peel-for-the-scalp-with-hair-loss-and-dandruff-problem-h-stimupeel-125-ml): Pharmaceris – H-Trichology Cleansing Peel for The Scalp with Hair Loss and Dandruff Problem Produkti i krijuar për pastrimin e thellë të kokës për burrat dhe gratë e prirur ndaj rënies së flokëve, rrallimit dhe për njerëzit me zbokth dhe dermatit seborrhoik të kokës. Kjo formulë rekomandohet për kujdes të rregullt ose parandalues, për t’i bërë më efektive trajtimet dhe për të përmirësuar rezultatet e tyre. Ky peeling pastrues largon në mënyrë efektive çdo papastërti dhe akumulimin e lëkurës së keratinizuar, të cilat formojnë të ashtuquajturën shtresë të kristalizuar. Ai mundëson daljen e folikulave të flokëve dhe rikthen ekuilibrin fiziologjik në lëkurën e kokës, i cili është hapi i parë thelbësor drejt kujdesit të duhur për skalpin e prirur ndaj rënies së flokëve dhe zbokthit. Bazuar në veprimin plotësues të eksfoliantëve biologjikë, enzimatikë dhe mekanikë (papaina, lëvozhgat e kajsisë), ky peeling pastron thellësisht lëkurën e kokës (duke hequr zbokthin, sebumin, mbetjet e llakut të flokëve) dhe i bën flokët më pak të prirur ndaj yndyrosjes së tepërt. Formula natyrale që përmban pirokton olamine me veti antibakteriale dhe normalizuese keratinizuese kontrollon mikroflorën e dëmshme, duke luftuar në mënyrë efektive simptomat e zbokthit dhe duke parandaluar përsëritjen e tij. Kafeina, e cila njihet për aftësinë e saj për të zgjatur jetëgjatësinë e flokëve, përmirëson mikroqarkullimin në lëkurën e kokës, rrit furnizimin me oksigjen në qeliza dhe stimulon sintezën e kolagjenit, duke forcuar rrënjët e flokëve. Si rezultat, forcon flokët dhe redukton rënien e flokëve, si dhe stimulon dhe përshpejton rritjen natyrale të flokëve. Ureja siguron hidratim optimal të skalpit dhe parandalon tharjen e tepërt. Peeling-u i kokës promovon përthithjen e përbërësve aktivë që përmbahen në produkte të tjera të kujdesit për lëkurën e kokës dhe rrit efektivitetin e tyre. Peeling përmirëson gjendjen e lëkurës së kokës dhe flokëve dhe i mban flokët të ngritur në rrënjë pa i yndyrosur apo rënduar ato. Grimcat e mbetura pas procesit janë të lehta për t’u shpëlarë larg nga skalpi. Udhëzime mbi përdorimin Përdoreni peeling rregullisht, të paktën një herë në javë. Aplikojeni produktin në lëkurën e lagur të kokës, fërkojeni butësisht dhe më pas shpëlani grimcat e mbetura me ujë dhe lani flokët me shampo. Trajtimi peeling përgatit lëkurën e kokës për kujdesin e duhur të lëkurës dhe jep rezultatet më të mira kur kombinohet me shampo dhe formula të tjera të specializuara nga linja Pharmaceris H të cilat trajtojnë probleme specifike dermatologjike të flokëve dhe skalpit të kokës. - Amar Pharma - Pharmaceris - Peeling Flokësh
-  Updated: 2025-10-28T22:20:03Z
+  Updated: 2025-10-29T10:40:04Z
   Vendor: Pharmaceris
   Product Type: Peeling Flokësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/172-TRICHOLOGY-CLEANSING-PEEL-FOR-THE-SCALP-WITH-HAIR-LOSS-AND-DANDRUFF-PROBLEM-H-STIMUPEEL-125-ml-1.png?v=1757514538
   Price: ALL 3,292.00 ALL
 - [H-STIMUPURIN - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-shampoo): Pharmaceris H-Stimupurin Shampoo Stimulating Hair Growth Kjo shampo është krijuar për femra dhe meshkuj të prekur nga rënia e tepërt e përkohshme, ose rrallimi i flokëve. Ndihmon për të luftuar rënien që lidhet me predispozitat gjenetike dhe faktorët hormonalë (alopecia androgjenike) ose mjedisore. Parandalon në mënyrë efektive rënien e flokëve të shkaktuar nga mjekimi i zgjatur, stresi, lodhja, dobësia e përgjithshme (p.sh. lidhur me dietën) ose pas shtatzënisë. Është e përshtatshme për skalpin e ndjeshëm. Stimupurin Specialist Shampoo Stimulating Hair Growth përmban një kombinim unik i dy përbërësve: Faktori Natyror i Rritjes FGF dhe kafeina tregon efikasitet të konfirmuar shkencërisht në parandalimin e rënies së flokëve dhe stimulimin e rritjes së flokëve në të njëjtën kohë. Përbërësit që përmban ky kompleks ndikojnë në nivelin qelizor duke aktivizuar gjenet që janë përgjegjëse për zhvillimin e flokëve të rinj. Ato nxisin proceset jetësore të gjëndrave ekzistuese të flokëve për të nxitur rritjen natyrale të flokëve dhe zgjatjen e jetëgjatësisë së tyre (faza anagen). Kafeina parandalon rënien e përcaktuar gjenetikisht duke neutralizuar efektin negativ të hormoneve (androgjeneve, DHT) përgjegjëse për degradimin e flokëve dhe rënien e parakohshme të flokëve. Përbërësit e zgjedhur me kujdes: niacinamide (vitamina PP), D-panthenol dhe biotina kanë efekt qetësues dhe rivendosin ekuilibrin fiziologjik të skalpit të kokës. Shampoja pastron flokët dhe skalpin tuaj butësisht por në mënyrë efektive. Zbut dhe forcon strukturën e flokëve dhe rikthen trashësinë natyrale të flokëve. Ka një nivel pH neutral të ngjashëm me atë të kokës. Pa parabene, alergene, ngjyrues artificialëdhe silikone. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Lani flokët me shampon çdo ditë ose të paktën 3 herë në javë. Aplikojeni shampon në flokë dhe skalp të lagur. Fërkojeni butësisht për 2-3 minuta dhe më pas shpëlajeni me ujë. Nëse produkti ju bie në kontakt me sytë, lajini menjëherë me ujë. Shampoja mund të përdoret çdo ditë. Për të përmirësuar rezultatet e trajtimit, përdoreni në kombinim me Pharmaceris H-Stimulinum Hair Growth Stimulating Conditioner. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-28T22:20:04Z
+  Updated: 2025-10-29T10:40:05Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
@@ -1222,7 +1222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/56-MANGOLIA-Deeply-moisturizing-hand-and-nail-cream-with-soy-oil-1.jpg?v=1758104730
   Price: ALL 915.00 ALL
 - [MATTIFYING FLUID SPF 30+ - NATURAL 20 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/mineral-mattifying-fluid-dermo-foundation-spf-30-matt-mineral-correction-20-natural-30-ml): Pharmaceris – Mattifying Fluid Pore Refining Foundation Fluid i cili aplikohet lehtësisht në lëkurë, duke i dhënë fytyrës një pamje natyrale, e cila zgjat deri në 10 orë, dhe duke siguruar menjëherë një efekt matifikues. Përthith sebumin e tepërt dhe rregullon aktivitetin e gjëndrave dhjamore për ta bërë lëkurën më pak të prirur ndaj shkëlqimit dhe papërsosmërive të reja. Formula inovative “Pore-Diminish” forcon fibrat e kolagjenit që rrethojnë poret e lëkurës për të zvogëluar dukshëm madhësinë e poreve. Baza fluide unifikon tonin e lëkurës dhe ju jep një grim të qëndrueshëm me pamje të freskët. Nuk e mbingarkon lëkurën dhe nuk bllokon poret e lëkurës. Filtrat e tij foto-stabile UVA/UVB forcojnë mekanizmat mbrojtës të lëkurës dhe mbrojnë lëkurën nga agresorët mjedisorë. Produkti rekomandohet për lëkurë normale, mikse dhe të yndyrshme e cila ka tendencë të yndyroset. Rekomandohet gjithashtu për njerëzit që vuajnë nga aknet, për të fshehur dhe eliminuar papërsosmëritë tipike për lëkurën e prirur ndaj akneve (të tilla si komedone ose pore të zgjeruara të lëkurës). Udhëzime mbi përdorimin Aplikojeni në lëkurë të pastër dhe shpërndajeni në mënyrë të barabartë në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-10-28T22:20:05Z
+  Updated: 2025-10-29T10:40:05Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
@@ -1264,7 +1264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/672df60db6447_W_EN_10E14711_MELA_PROTECT.png?v=1757514255
   Price: ALL 4,490.00 ALL
 - [MELADERMIX PEEL   20% - Amar Pharma - Pharmaceris - Serum Fytyre](https://amar.al/products/meladermix-peel-20): Pharmaceris Meladermix Peel Exfoliating Pharmaceris Meladermix Peel Exfoliating është krijuar posaçërisht për të trajtuar njollat, tonin e pabarabartë të lëkurës, rrudhat e imëta. Formula shumë e përqendruar me acid glikolik, acid laktik dhe acid mandelik ka një efekt të provuar ndriçues të lëkurës që redukton njollat dhe stimulon rinovimin e qelizave. E bazuar në acide 20% ka një efekt në shumë nivele në procesin e melanogjenezës si eksfolimi dhe mbrojtja e lëkurës nga intensifikimi i njollave ekzistuese dhe parandalimi i formimit të njollave të reja. Zbardh njollat, barazon tonin e lëkurës dhe rikthen pigmentimin natyral. Redukton njollat. Stimulon rinovimin e qelizave. Redukton dukshmërinë e plagëve dhe poreve. E bën lëkurën më të lëmuar dhe më të fortë. Forcon barrierën mbrojtëse të lëkurës. Përbërësit aktivë Acidi Glikolik – Eksfolion qelizat e vdekura të epidermës. Acidi Laktik – Efekt eksfoljues, hidratues dhe rigjenerues. Rregullon pH dhe e mban atë në një nivel të ulët fiziologjik, duke ju mbrojtur kundër acarimeve dhe skuqjeve. Acidi Mandelik – Veti antibakteriale, anti-inflamatore, eksfolon butësisht qelizat e vdekura. Betaine – Efekte hidratuese, qetësuese, kundër plakjes dhe kundër rrudhave. Indikacionet Rekomandohet për përdorim (fytyrë, qafë, dekolte, krahë, duar) si trajtim për lëkurën me njolla dhe ton të pabarabartë të lëkurës, rrudha të imëta. Për përdorim në zonat e prekura nga ndryshimet e pigmentimit si p.sh. njollat e moshës, njollat post-inflamatore, njollat e diellit, njollat pas shtatëzanisë. Preparati tolerohet mirë për t’u përdorur si një trajtim intensiv eksfoljimi dhe zbardhues për njollat gjithashtu edhe për lëkurën e ndjeshme dhe tepër reaktive ndaj nikelit. Udhëzime mbi përdorimin Aplikojeni në zonat problematike të lëkurës 2-3 herë në javë në mbrëmje. Gjatë aplikimit të parë kryeni një test tolerance në një zonë të vogël të lëkurës. Aplikojeni në lëkurë të pastruar, duke shmangur zonën e syve dhe gojës. Gjatë trajtimit shmangni ekspozimin e drejtpërdrejtë të lëkurës në diell dhe përdorni fotoproteksion shumë të lartë. - Amar Pharma - Pharmaceris - Serum Fytyre
-  Updated: 2025-10-28T22:20:05Z
+  Updated: 2025-10-29T10:40:06Z
   Vendor: Pharmaceris
   Product Type: Serum Fytyre
   Availability: Available
@@ -1362,7 +1362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_42.png?v=1758876529
   Price: ALL 2,689.00 ALL
 - [OCTOPIROX® DS LOTION - Amar Pharma - Pharmaceris - Locion](https://amar.al/products/scalp-tonicum-liquid-reducing-scaling-and-redness-octopirox-ds-100-ml): Formulim për përdorim të përditshëm për skalpin dhe trupin me simptoma të dermatitit seborrheik. Rekomandohet në rast të prodhimit të tepërt të sebumit, kruarjes së vazhdueshme dhe skuqjes së lëkurës. I përshtatshëm për fëmijët mbi 12 vjeç dhe të rriturit. Sjell lehtësim të menjëhershëm. Qetëson shpejt kruarjen, djegien, skuqjen dhe yndyrën e tepërt (simptomat e dermatitit seborrheik).Formula qetësuese IMMUNO-PREBIOTIC ruan ekuilibrin e mikroflorës epidermale, duke mbështetur zhvillimin e barrierës natyrore mbrojtëse të lëkurës dhe duke pakësuar mbindjeshmërinë e saj. Përmban kompleksin Octopirox®, me veti të forta anti-bakteriale dhe anti-fungale, me qëllim që të parandalojë rikthimin e simptomave të lidhura me dermatitin seborrheik. Redukton skuqjen e lëkurës.Parandalon rënien e flokëve si pasojë e dermatitit seborrheik. - Amar Pharma - Pharmaceris - Locion
-  Updated: 2025-10-28T22:20:05Z
+  Updated: 2025-10-29T10:40:06Z
   Vendor: Pharmaceris
   Product Type: Locion
   Availability: Available
@@ -1719,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/113-FLUID-FOUNDATION-SPF-50-protective-corrective-SUN-CORRECTION-01-IVORY-30-ml-1.png?v=1757513978
   Price: ALL 3,892.00 ALL
 - [PROTECTIVE-CORRECTIVE SPF 50+ - SAND 02 - Amar Pharma - Pharmaceris - Fondatinë](https://amar.al/products/fluid-foundation-spf-50-protective-corrective-sun-correction-02-sand-30-ml): Pharmaceris – Fluid Foundation Sun-Correction (SPF 50+) Kjo fondatinë rekomandohet për të gjitha llojet e lëkurës, duke përfshirë lëkurat e ndjeshme, të irrituar nga agresorët mjedisorë (foto-alergjitë) dhe procedurat e mjekësisë estetike, trajtimi me lazer ose peeling. Rekomandohet për njerëzit e prirur ose në rrezik të depigmentimeve së lëkurës (p.sh. kur marrin medikamente të caktuara, në rast të kushteve inflamatore ose shtatzënisë) dhe njerëzit që vuajnë nga vitiligo. Fondatina e specializuar fluide ofron nivelin më të lartë të mbrojtjes kundër rrezatimit diellor dhe parandalon në mënyrë efektive përkeqësimin e depigmentimeve ekzistuese dhe shfaqjen e të rejave. Pigmentet e mikronizuara fshehin në mënyrë të përkryer çdo papërsosmëri të lëkurës, duke siguruar mbulim afatgjatë dhe duke i dhënë lëkurës një strukturë të njëtrajtshme dhe një tonalitet të shëndetshëm. Formula inovative Leukine Barrier me veti imunostimuluese zbut irritimet e shkaktuara nga agresorët e mjedisit. Ekstrakti qetësues i farës së lirit rikthen ekuilibrin fiziologjik të lëkurës, forcon shtresën e saj lipidike dhe nxit rigjenerimin. Kjo fondatinë nuk e mbingarkon lëkurën si dhe nuk bllokon poret e lëkurës, nuk nxit komedone, nuk shkakton tharje të lëkurës. Pa paraben. Udhëzime mbi përdorimin Aplikojeni në lëkurë dhe shpërndajeni në mënyrë të njëtrajtshme në të gjithë fytyrën. Prisni derisa të përthithet plotësisht. Për përdorim të përditshëm. - Amar Pharma - Pharmaceris - Fondatinë
-  Updated: 2025-10-28T22:20:06Z
+  Updated: 2025-10-29T10:40:07Z
   Vendor: Pharmaceris
   Product Type: Fondatinë
   Availability: Available
@@ -1740,7 +1740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/89-RETINOL-NIGHT-CREAM-adult-acne-pure-RETINOL-0.3-40-ml-1.png?v=1757513957
   Price: ALL 3,962.00 ALL
 - [PURE-LUMINIUM - Amar Pharma - Pharmaceris - Shkumë Pastruese](https://amar.al/products/pure-luminium): INDIKACIONEPër lëkurë me njolla të pigmentuara dhe ton të pabarabartë, me shenja plakjeje, si dhe lëkurë të shurdhër, njolla të errëta të shkaktuara nga ekspozimi në diell.I përshtatshëm për mbajtësit e lenteve të kontaktit.Pa sapun dhe alkool. VEPRIMShkuma largon në mënyrë efektive grimin dhe papastërtitë nga fytyra dhe zona e syve, duke ndriçuar lëkurën.Kombinimi i përbërësve që pengojnë melanogjenezën (niacinamide, azeloglicina dhe algat e ylberit) demonstron efikasitet të lartë në mbrëmje dhe zbardh tonin e lëkurës.Formula rikthen hidratimin optimal dhe e mban lëkurën të mos ndjehet e tendosur dhe e thatë.Formula ultra e butë nuk shkakton acarim ose tharje të tepërt të lëkurës. PËRBËRËSIT2% niacinamideazeloglicinaEkstrakti i Algave të Ylberit UDHËZIME PËR PËRDORIMAplikoni një sasi të vogël të shkumës në dorë dhe lani fytyrën.Më pas shpëlajeni me ujë. Përdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë mëngjesit dhe natës. SIGURIA DHE EFIKASITETIFORMULA E AVANCUAR E DIZAJUAR PËR LËKURË SHUMË TË NDJESHMETOLERANCË DHE EFEKTIVITET I LARTËTESTUAR OFTALMOLOGJIK DHE DERMATOLOGJIK - Amar Pharma - Pharmaceris - Shkumë Pastruese
-  Updated: 2025-10-28T22:20:07Z
+  Updated: 2025-10-29T10:40:07Z
   Vendor: Pharmaceris
   Product Type: Shkumë Pastruese
   Availability: Available
@@ -1775,7 +1775,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/120-BODY-SCALP-CLEANSING-GEL-normalising-desquamation-PURI-ICHTILIUM-250-ml-1.png?v=1757513928
   Price: ALL 3,195.00 ALL
 - [PURI-ROSALGIN - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/soothing-physiological-face-gel-wash-for-the-face-and-the-skin-in-the-eye-area-puri-rosalgin-190-ml): Pharmaceris – Rosacea Puri-Rosalgin Xheli larës fiziologjik Rosalgin është menduar për pastrimin e përditshëm të lëkurës së ndjeshme, alergjike me rosacea, të prirur për skuqje, eritemë fikse, papula dhe pustula. Gjithashtu siguron kujdes të butë për lëkurën e ndjeshme në zonën e syve. Ai zëvendëson sapunin tradicional. Është i përshtatshëm për lëkurën e të gjitha moshave. Larësi në formë xheli bazohet në një përbërës pastrues jashtëzakonisht të butë pa sapun që ndihmon në ruajtjen e ekuilibrit fiziologjik të lëkurës pa cënuar barrierën natyrore mbrojtëse të epidermës. Largon papastërtitë në mënyrë efektive dhe make-up-in pa shkaktuar acarim ose tharje. Redukton me 90% formimin papulave dhe pustulave. Zvogëlon me 90% intensitetin e skuqjes. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni një sasi të vogël të xhelit në dorën tuaj dhe lani fytyrën. Më pas shpëlajeni me ujë. Pasoni larjen me një krem qetësues të duhur nga linja Pharmaceris R. Përdoreni çdo ditë në mëngjes dhe në darkë. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-28T22:20:07Z
+  Updated: 2025-10-29T10:40:07Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1796,7 +1796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_ONLINE-RICH-CONTENT_STATIC_20250402_38798_T_18391_PREVIEW_01.png?v=1751017976
   Price: ALL 2,290.00 ALL
 - [PURI-SEBOTONIQUE - Amar Pharma - Pharmaceris - Toner](https://amar.al/products/normalizing-face-toner-puri-sebotonique-200-ml): Pharmaceris – Puri-Sebotonique Normalizing Toner Falë vetive të tij antibakteriale, toniku heq në mënyrë efektive papastërtitë dhe mbetjet e make-up-it.Ekstrakti i marinës eksfolon butësisht qelizat e vdekura të epidermës dhe lehtëson aknet.Ekstrakti i burdock dhe PCA i zinkut rregullojnë sekretimin e sebumit dhe ngushtojnë poret e lëkurës. Eksfolon qelizat epidermale të kornifikuara dhe ka veti hidratuese të cilat rivendosin ekuilibrin hidro të lëkurës. Kontrollon në mënyrë efektive mikrofloren bakteriale dhe redukton yndyrën e tepërt të lëkurës. Ka veti antibakteriale. Normalizon aktivitetin e tepërt të gjëndrave dhjamore dhe zvogëlon sekretimin e sebumit. Udhëzime mbi përdorimin Pastroni lëkurën, më pas lagni një tampon pambuku me tonikun dhe aplikojeni butësisht mbi fytyrën tuaj.Përdoreni çdo ditë në mëngjes dhe para gjumit. - Amar Pharma - Pharmaceris - Toner
-  Updated: 2025-10-28T22:20:07Z
+  Updated: 2025-10-29T10:40:08Z
   Vendor: Pharmaceris
   Product Type: Toner
   Availability: Available
@@ -1831,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/61279741662966088.webp?v=1758105639
   Price: ALL 1,390.00 ALL
 - [ROSALGIN ACTIVE+ - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/ultra-active-gel-against-erythema-papules-and-pustules-for-face-rosalgin-active-30-ml): Pharmaceris Rosalgin Active+ Pharmaceris Rosalgin Active+ krijuar për të ofruar kujdes për lëkurën me simptoma të rosacea, e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur, papula dhe pustula. Indikacionet Zvogëlon dukshmërinë e papulave dhe pustulave. Minimizon shfaqjen e eritemës. Ka një efekt qetësues. Posacërisht për lëkurën me simptoma të rosacea. Përbërësit aktivë Azeloglicina – Hidraton dhe qetëson lëkurën, redukton papulat dhe pustula ndërsa minimizon rrezikun e shpërthimit të akneve. AgascalmTM – Zvogëlon zgjerimin e vazhdueshëm të enëve të gjakut, dhe rikthen hidratimin e duhur të lëkurës. Ekstrakti Centella – Ka një efekt qetësues, zvogëlon dukshmërinë e telangjiektazive dhe lezioneve papulopustulare të lëkurës. Uji i lajthisë – Përmirëson qarkullimin e gjakut në lëkurë, dhe tonin e saj. Udhëzime mbi përdorimin Përdoreni xhelin çdo mëngjes dhe mbrëmje. Perfekt si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-28T22:20:08Z
+  Updated: 2025-10-29T10:40:08Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/01-1-1.png?v=1737381275
   Price: ALL 2,195.00 ALL
 - [SmartAppGuided™ Aqua-Stream Face Cleanser | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial](https://amar.al/products/smartappguided-aqua-stream-face-cleanser-8-in-1): Po kërkoni një marrje të shpejtë? Pastruesi i fytyrës SmartAppGuided™ Aqua-Stream | 8 në 1 rinovon dhe hidraton lëkurën tuaj në përsosmëri rrezatuese. - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial
-  Updated: 2025-10-28T22:20:08Z
+  Updated: 2025-10-29T10:40:08Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1958,7 +1958,7 @@ Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/p
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0013_4099702000896_1.png?v=1751544634
   Price: ALL 5,274.00 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lifter | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lifter-6-in-1): Ngritësi i fytyrës MicroCurrent SmartAppGuided™ | 6 në 1 përdor teknologjitë MicroCurrent dhe SmartSonic Pulsation për të forcuar dhe ngritur lëkurën tuaj, duke i dhënë asaj një pamje rinore dhe një shkëlqim të shëndetshëm. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-28T22:20:08Z
+  Updated: 2025-10-29T10:40:09Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2234,7 +2234,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/160995_800x800wp_lirene_pomadka_ochronna_5900717311183_jpg.webp?v=1737541305
   Price: ALL 1,050.00 ALL
 - [Care Protective Lipstick SPF 50 - Amar Pharma - Lirene - Buzëkuq](https://amar.al/products/care-protective-lipstick-spf-50): Përmban një filtër të lartë SPF50, i cili siguron mbrojtje maksimale ndaj efekteve të dëmshme të rrezeve të diellit UVA dhe UVB në lëkurën delikate të buzëve. Falë një formule shumë të përqendruar të bazuar në përbërës aktivë (gjalpë shea, vitaminë E dhe vaj bajame), ajo siguron lagështi të qëndrueshme, ushqim të thellë dhe stimulon lëkurën të rigjenerohet dhe rindërtohet më shpejt. Për më tepër, buzëkuqi sjell lehtësim dhe qetësim të menjëhershëm për lëkurën e irrituar nga dielli, era ose ngrica. Forma e përshtatshme e një shkopi të përdredhur dhe madhësia kompakte nënkuptojnë që buzëkuqi mund të merret me vete në çdo udhëtim të gjatë ose të shkurtër. E disponueshme në një kapacitet prej 4.6 g. Buzëkuq. Për përdorim gjatë gjithë vitit. Hidraton dhe rigjallëron intensivisht. Filtri SPF50 mbron nga rrezet UVA dhe UVB. - Amar Pharma - Lirene - Buzëkuq
-  Updated: 2025-10-28T15:44:33Z
+  Updated: 2025-10-29T04:45:19Z
   Vendor: Lirene
   Product Type: Buzëkuq
   Availability: Available
@@ -2269,7 +2269,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitleddesign.jpg?v=1757513679
   Price: ALL 2,490.00 ALL
 - [CREAMY BODY SHOWER GEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/emotopic-creamy-body-shower-gel): EMOTOPIC CREAMY BODY SHOWER GEL Pharmaceris INDIKACIONEFormulë delikate, pa shkumë, e rekomanduar për kujdesin e përditshëm të lëkurës së ndjeshme, të thatë, të ashpër, të prirur për acarim, kruajtje dhe djegie.Gjithashtu të përdoret në mënyrë profilaktike për lëkurë të shëndetshme për të parandaluar tharjen dhe për të minimizuar rrezikun e zhvillimit, intensifikimit dhe përsëritjes së simptomave të dermatitit atopik.Asnjë kufizim moshe.Nuk kërkon përdorimin e një agjenti pastrues shtesë. VEPRIMXhel për larje trupi i bazuar në zbutës aktivë, pastron butësisht lëkurën, duke e lënë atë intensivisht të hidratuar, të lëmuar dhe të butë në prekje.Jashtëzakonisht delikate, biokompatibile me pH fiziologjik të lëkurës, baza larës nuk ndikon në barrierën e saj hidrolipide mbrojtëse. Parandalon tharjen e tepërt dhe rrëshqitjen e epidermës.Vaji kanola, për shkak të vetive unike ushqyese dhe qetësuese, ndihmon në rivendosjen e ekuilibrit natyror, fiziologjik të lëkurës.Në kombinim me vajin e kërpit, i pasur me acide yndyrore esenciale (acidet yndyrore esenciale) - acidet linoleike dhe α-linolenic me veti vaji, tregon efikasitet të lartë në kujdesin e lëkurës së thatë dhe atopike, duke i rikthyer komoditetin e saj dhe duke eliminuar tensionin dhe vrazhdësinë.Xheli përmban vitaminë E rigjeneruese të epidermës, e cila siguron lubrifikimin dhe ushqimin e duhur të epidermës, rindërton barrierën natyrale hidrolipide të lëkurës, duke e mbrojtur atë nga efektet negative të faktorëve të jashtëm. PËRBËRËSITVitamina EVaj kanolaVaji i kërpit (vaji i farës së kanabisit Sativa) UDHËZIME PËR PËRDORIMTë porsalindurit dhe foshnjat deri në 6 muaj:Shtoni disa doza (2-3) të xhelit në vaskën e foshnjës të mbushur me ujë, më pas përzieni ujin me dorën tuaj.Temperatura e ujit duhet të jetë rreth 37°C.Lani butësisht trupin dhe kokën e fëmijës.Thajeni butësisht lëkurën me një peshqir, duke shmangur fërkimin.FËMIJËT DHE TË RRITUR:Aplikoni një sasi të vogël xheli në lëkurë dhe përhapeni butësisht në sipërfaqen e saj.Më pas shpëlajeni me ujë dhe thajeni trupin me një peshqir, duke shmangur fërkimin. SIGURIA DHE EFIKASITETIQë në ditën e parë të jetës.Receta e zhvilluar dhe testuar dermatologjikisht dhe klinikisht nën mbikëqyrjen e dermatologëve të fëmijëve. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-26T14:30:21Z
+  Updated: 2025-10-29T09:43:22Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -2318,14 +2318,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/prebiotyczny-krem-zluszczajacy-na-noc-krt-10e05119.tuk6.webp?v=1738853991
   Price: ALL 1,113.00 ALL
 - [Clinic Way Dermo-capsules (Vit A+C+E) - Amar Pharma - Dr Irena Eris - Kapsula](https://amar.al/products/clinic-way-dermo-capsules-vit-a-c-e): Dermokapsulat për fytyrën dhe qafën përmbajnë serum të përparuar lipidik në kapsula me dozë të vetme të cilat përbëjnë një terapi 30 ditore. Serumi rekomandohet për lëkurë të lodhur, tepër të thatë ose të dehidratuar të çdo moshe që ka në vojë për rigjenë rim të shpejtë, ose për parandalimin e proceseve të përfshira në plakjen e lëkurës. Çdo kapsulë përmban një dozë precize të përbërësve aktiv të fuqishëm të veprimit intensiv sinergjik, Vit A (Retinol) + C + E. Ai siguron një mikro-stimul energjik për lëkurën, duke nxitur rigjenerimin e saj dhe duke luftuar shenjat e plakjes. Përdorimi: Hapni kapsulën duke përdredhur ose prerë majën në qafë. Përhapni përmbajtjen mbi lëkurën e pastër të fytyrës, qafës dhe dekolteazhit tuaj dhe masazhoni serumin plotësisht. Ndiqni me një krem kondicionues sa më shpejt që serumi të absorbohet plotësisht (pas 30-60 sek.). Përdor një kapsulë çdo ditë, mundësisht para gjumit, për të paktën 30 ditë. - Amar Pharma - Dr Irena Eris - Kapsula
-  Updated: 2025-10-28T15:53:29Z
+  Updated: 2025-10-29T04:35:52Z
   Vendor: Dr Irena Eris
   Product Type: Kapsula
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6756bcdd101f1_10E5724_slo.png?v=1738853989
   Price: ALL 4,542.85 ALL
 - [Sonic Thermo Facial Brush | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/sonic-thermo-facial-brush-6-in-1): Kompakt, por i fuqishëm - është një pastrues, një furçë e nxehtë dhe një masazhues fytyre i mbështjellë në një. Bëhuni gati për të zhbllokuar lëkurën natyrale, më të shndritshme dhe të rinovuar, duke filluar nga shtresat e saj më të thella. Furça e fytyrës SmartAppGuided™ Sonic Thermo ofron një pastrim të thellë ultra higjienik të përsosur për rutinën tuaj të përditshme të kujdesit për lëkurën. Thuajini lamtumirë papastërtive, vajit dhe mbetjeve të grimit që bllokojnë poret tuaja në pak sekonda. E gjithë kjo është bërë e mundur falë një sinergjie të përsosur midis teknologjisë sonë të zotëruar të pulsimit SmartSonic me mbi 7500 pulsime në minutë dhe pikave super të buta ultra-higjienike silikoni. Dizajni fleksibël i synuar i zonës së syrit dhe hundës siguron që nuk do të humbisni asnjë pikë të vetme. Tani mund ta çoni rutinën tuaj në nivelin tjetër dhe ta ktheni furçën për të shijuar teknologjinë e ngrohjes së thellë me hapjen e poreve, pasi ajo përgatit në mënyrë të përsosur lëkurën tuaj për thithjen optimale të serumeve dhe kremrave, duke ndihmuar përbërësit aktivë të arrijnë një nivel më të thellë të lëkurës. Përsëri, zona e nxehtë është përshtatur me dizajnin e synuar të zonës sy-hundë të furçës për të arritur në mënyrë të përsosur çdo cep. Për të ngritur në maksimum rutinën tuaj të kujdesit për lëkurën, mund të aktivizoni gjithashtu teknologjinë e masazhit të shkëlqimit rinor që heq, forcon dhe tonifikon lëkurën tuaj për atë pamje mahnitëse dhe të rinovuar. Zhvilluar për Pro-Level Skincare: Pastrim i fytyrës, forcim, ngrohje të thellëPastrim i thellë ditorArritja e lëkurës rrezatuese, me pamje të shëndetshmeMasazh kundër plakjesTë gjitha llojet e lëkurës PërfitimetPastron lëkurën tuaj në vetëm disa sekonda çdo ditëHeq në mënyrë efikase papastërtitë, vajin e tepërt dhe mbetjet e grimitEksfolon lëkurën tuaj dhe hap poretMinimizon shfaqjen e pikave të zeza3-në-1: Ngre, forcon dhe tonifikon lëkurën tuaj - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-28T22:20:09Z
+  Updated: 2025-10-29T10:40:09Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2339,14 +2339,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_2024_12_P_STATIC_ALL_7d2f5f96-9736-4f49-856b-41821ec4150b.png?v=1738870065
   Price: ALL 9,373.00 ALL
 - [Blue Light Protection Serum - Amar Pharma - Geske - Serum Fytyre](https://amar.al/products/blue-light-protection-serum): Mbron lëkurën nga dëmtimi i dritës blu Telefonat inteligjentë, laptopët dhe ekranet e televizorit janë elementë të jetës sonë të përditshme. Prej kohësh dihet se koha e tepërt e ekranit mund të dëmtojë sytë tanë. Por a e dini se pajisjet mediale lëshojnë gjithashtu dritë blu, e cila e bën lëkurën të plaket më shpejt? Drita depërton në shtresat më të thella të lëkurës dhe dëmton qelizat, duke nxitur kështu formimin e rrudhave, njollave të pigmentit dhe lëkurës së thatë. Serumi mbrojtës nga drita blu u zhvillua për të luftuar efektet negative të kohës para ekranit dhe për të mbrojtur lëkurën nga rrezatimi. Serumi është krijuar për të rimbushur rezervat e lagështisë së lëkurës dhe për ta mbajtur atë të duket rinore për një kohë të gjatë. Formula mbrojtëse Me strukturën e tij të lehtë dhe të mëndafshtë, serumi përthithet shpejt në lëkurë. Ka një aromë të këndshme dhe modeste që është e detyruar të qetësojë shqisat tuaja. Malakiti mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen ka veti të dobishme antioksidante dhe anti-inflamatore. Serumi përmban gjithashtu laminaria digitata, e njohur më mirë si leshterik, e cila mbron lëkurën nga ndikimet e jashtme. Përdoreni serumin dy herë në ditë për rezultate më të mira. Gjithmonë duhet të përdorni krem ​​kundër diellit për të mbrojtur lëkurën tuaj nga dëmtimi i shkaktuar nga rrezatimi UV. Mësoni më shumë rreth përbërësve aktivë: Malakiti Mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen Ka veti të dobishme antioksidante dhe anti-inflamatore. Laminaria digitata (leshterik) Mbron lëkurën nga ndikimet e jashtme. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Serum Fytyre
-  Updated: 2025-10-28T15:13:46Z
+  Updated: 2025-10-29T04:58:23Z
   Vendor: Geske
   Product Type: Serum Fytyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/geske-blue-light-protection-serum-30ml-product-scaled.png?v=1741173940
   Price: ALL 3,050.00 ALL
 - [Cleansing Lotion - Amar Pharma - Geske - Xhel Pastrues](https://amar.al/products/cleansing-lotion): Kujdes intensiv dhe hidratim Filloni ditën tuaj me një notë të bukur me Locionin Pastrues të pasuruar me vaj bajame, vitaminë E dhe ekstrakt lajthie. Ky krem ​​pastrues mund të përdoret dy herë në ditë dhe largon butësisht mbetjet e make-up-it, papastërtitë dhe bakteret nga lëkura juaj. Aroma e lehtë dhe e këndshme e bajames është e detyruar të sjellë një buzëqeshje në fytyrën tuaj dhe të lë lëkurën tuaj të ndjehet e freskët dhe e pastër gjatë gjithë ditës. Për rezultate optimale, ne rekomandojmë përdorimin e furçave tona pastrues GESKE, për një lëkurë rrezatuese dhe të pastër brenda sekondave. Përbërës të çmuar për një çehre rrezatuese Ky krem ​​për larjen e fytyrës kujdeset për lëkurën tuaj edhe gjatë pastrimit dhe e lë fytyrën tuaj të ndjehet e butë dhe elastike. Vaji i bajames është konsideruar prej kohësh një kurë mrekullie në kujdesin e lëkurës. Shumë acide yndyrore të pangopura depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Vaji i bajames gjithashtu përmban acid palmitik, i cili është një përbërës natyror mbrojtës i lëkurës. Ekstrakti i lajthisë së shtrigës ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Mësoni më shumë rreth përbërësve aktivë: Vaji i bajames Plot acide yndyrore të pangopura që depërtojnë thellë në lëkurë dhe hidratojnë intensivisht. Ekstrakti i lajthisë së shtrigës Ka një efekt të butë anti-inflamator dhe mbron nga irritimet e lëkurës, yndyrat dhe djegiet nga dielli. Vitamina E Promovon barrierën e lindur mbrojtëse të lëkurës, rrit rezistencën e saj dhe kontribuon në një çehre të pastër dhe të freskët. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Xhel Pastrues
-  Updated: 2025-10-28T15:51:30Z
+  Updated: 2025-10-29T04:29:25Z
   Vendor: Geske
   Product Type: Xhel Pastrues
   Availability: Available
@@ -2444,21 +2444,21 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/coffret-gel-nettoyant-190-ml-creme-de-nuit-matifiante-aux-prebiotiques-50-ml-under20-lirene-_1.png?v=1748348520
   Price: ALL 1,950.00 ALL
 - [Set Hyaluro-Sensilium - Amar Pharma - Pharmaceris - Krem Hidratues](https://amar.al/products/krem-hidratues-me-acid-hialuronik-ne-uje-hyaluro-sensilium-a-40ml): Përshkrim:Krem në formë uji, i përshtatshëm për lëkurë shumë të ndjeshme, të prirur ndaj reaksioneve alergjike, dehidratimit, skuqjes apo acarimit, veçanërisht gjatë stinëve me polen.Formula përmban acid hialuronik me peshë molekulare të lartë dhe të ulët – i përputhshëm biologjikisht me acidin hialuronik natyral të lëkurës. Efekte: Hidratim i shumëfishtë në shtresa të ndryshme të lëkurës Qetësim i menjëhershëm i ndjesisë së tërheqjes dhe thatësisë 3% pro-glucoseZe siguron hidratim afatgjatë Teknologjitë Immuno-Prebiotic dhe Leukine-barrier rivendosin barrierën natyrale të lëkurës dhe qetësojnë irritimet, duke parandaluar reagimet alergjike të shkaktuara nga faktorë si poleni Përdorim:Aplikojeni në mëngjes dhe mbrëmje në fytyrë, qafë dhe dekolte, mbi lëkurë të pastruar.Mund të përdoret si bazë grimi. E rekomanduar për:Kujdesin e përditshëm të lëkurës që kërkon hidratim dhe ushqim intensiv – fytyra, zona e syve, qafa, dekolteja. 2. Spumë pastruese për fytyrë të ndjeshme & sy – Puri-Sensilium A – 50ml Përshkrim:Spumë shumë e butë për përdorim të përditshëm në fytyrë dhe zonën e syve, e përshtatshme për lëkurë tepër të ndjeshme dhe të prirur ndaj alergjive, në çdo moshë.Formula immuno-prebiotike qetëson irritimet dhe kontrollon ndjeshmërinë e lëkurës. Efekte: Zëvendëson sapunin tradicional Pastrim i butë, heq make-up-in dhe papastërtitë D-pantenoli dhe Glucam® rikthejnë hidratimin dhe parandalojnë ndjesinë e shtrëngimit I testuar klinikisht dhe dermatologjikisht Pa sapun Përdorim:Vendosni një sasi të vogël spume në pëllëmbë dhe lani fytyrën. Shpëlajeni me ujë. Më pas, përdorni locion dhe krem Pharmaceris A të përshtatshëm për tipin tuaj të lëkurës. Përdoreni çdo ditë, në mëngjes dhe mbrëmje. Karakteristika të përgjithshme Brand: PHARMACERIS Gama: A Forma e setit: Krem 40ml + Mini-spumë 50ml Rekomanduar për: Lëkurë të ndjeshme, të dehidratuar, të prirur ndaj skuqjes dhe alergjive Vegan & dermatologjikisht i testuar Përmbledhje për katalog / etiketë produkti Set Hyaluro-Sensilium + Mini Spumë për Pastrim – PharmacerisHidratim i thellë dhe pastrim i butë për lëkurë të ndjeshmePërmban: Krem hidratues në ujë me acid hialuronik – 40ml Spumë pastruese për fytyrë & sy – 50ml - Amar Pharma - Pharmaceris - Krem Hidratues
-  Updated: 2025-10-28T22:20:09Z
+  Updated: 2025-10-29T10:40:09Z
   Vendor: Pharmaceris
   Product Type: Krem Hidratues
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/1830153984.webp?v=1748350281
   Price: ALL 3,885.00 ALL
 - [Lirene Whitening Mousse zbardhues + Krem nate zbardhues - Amar Pharma - Lirene - Krem](https://amar.al/products/lirene-whitening-mousse-zbardhues-krem-nate-zbardhues): 💧 Me Alfa-arbutinë dhe Niacinamidë 4%🌞 Me vitaminë C dhe acid hialuronik🧴 Ushqen lëkurën që pas 2 javësh përdorim✨ Jep efekt zbardhues të dukshëm ✅ Krem nate zbardhues intensiv Një terapi nate me efekt zbardhues, falë kompleksit ALPHA-WHITE që përmban: Alfa-arbutinë Niacinamidë Vitaminë C Acid hialuronik Gjalpë Shea Efekte: Redukton njollat dhe pigmentimin Jep ndriçim të dukshëm që pas disa javësh Hidraton intensivisht Rrit elasticitetin e lëkurës Ndihmon në rigjenerimin dhe rininë e lëkurës ✅ Mousse zbardhues për pastrim fytyre Pastron butësisht lëkurën Nxit tonin më të unifikuar dhe të ndritshëm Heq papastërtitë dhe qelizat e vdekura Përmirëson strukturën e lëkurës Përgatit lëkurën për trajtime zbardhuese - Amar Pharma - Lirene - Krem
-  Updated: 2025-10-28T22:20:10Z
+  Updated: 2025-10-29T10:40:10Z
   Vendor: Lirene
   Product Type: Krem
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/pack-whitening-mousse-eclairsissante-creme-de-nuit-lirene.png?v=1748351211
   Price: ALL 1,595.00 ALL
 - [Lirene Set C+D+E – Mousse pastruese 150 ml + Krem fytyre 50 ml - Amar Pharma - Lirene - Krem](https://amar.al/products/lirene-set-c-d-e-mousse-pastruese-150-ml-krem-fytyre-50-ml): 🧴 2 produkte në një paketë 💧 Mousse pastruese me teksturë të butë dhe të kadifenjtë Heq me butësi mbetjet e makeup-it, yndyrën e tepërt dhe papastërtitë Formula me vitamina C dhe E jep energji, ushqim dhe hidratim për lëkurat e lodhura dhe të zbehta Përdorimi është shumë i këndshëm dhe delikat Detaje të formulës: C+E Vitaminat C dhe E: Stabilizohen dhe përforcojnë njëra-tjetrën, duke krijuar një sistem të fuqishëm antioksidant që mbron dhe rigjeneron lëkurën Vitamina C: Në një nga format më të qëndrueshme dhe efektive, stimulon rigjenerimin dhe gjallërinë e lëkurës Vitamina E: Depërton në shtresat e thella të epidermës, rigjeneron dhe hidraton Acidi hialuronik: Mbron lëkurën nga humbja e lagështisë Përmirëson nivelin e hidratimit E lë lëkurën të butë dhe të mëndafshtë në prekje ✅ Karakteristikat kryesore Markë: Lirene Tipi: Set për fytyrën (Mousse pastruese + Krem hidratues) Përbërës: Me përbërës natyralë - Amar Pharma - Lirene - Krem
-  Updated: 2025-10-28T22:20:10Z
+  Updated: 2025-10-29T10:40:10Z
   Vendor: Lirene
   Product Type: Krem
   Availability: Available
@@ -2708,7 +2708,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/21197_Elementre_Renewing_Serum_COMBINED_1.jpg?v=1753264691
   Price: ALL 7,967.00 ALL
 - [30% Vitamin C Illuminating Serum - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT](https://amar.al/products/30-vitamin-c-brightening-serum): Serumet me Vitaminë C të Elementre ndriçojnë dhe rigjallërojnë lëkurën, duke e mbrojtur nga radikalet e lira të dëmshme që shkaktojnë ndryshime ngjyre, vijat e holla dhe rrudhat. Përgatituni për një lëkurë rrezatuese, me ton të njëtrajtshëm dhe shkëlqim natyral. Formulat tona unike me Vitaminë C janë të veçanta: përveç një forme të vetme, ne përdorim 3 forma të Vitaminës C për një veprim të fuqishëm. Ky përqendrim i lartë i aktiveve – L-Askorbik, Esterët e Vitaminës C dhe Ascorbosilane – ofron rezultate të dukshme pa rrezikun e irritimit dhe me rehati maksimale. Çfarë bën: Ofron veprim antioksidant dhe mbrojtje nga rrezatimi UV falë 3 formave të Vitaminës C që depërtojnë në shtresa të ndryshme të lëkurës: Esterët e Vitaminës C, Ascorbosilane dhe Acidi L-Askorbik Rezultatet që do t’i doni: Stimulon prodhimin e kolagjenit Redukton hiperpigmentimin dhe shfaqjen e njollave të errëta Parandalon plakjen e parakohshme të lëkurës Mbron kundër dëmtimeve nga dielli Përfitime Shtesë: Acidi Ferulik: Riparon dhe mbron qelizat e dëmtuara të lëkurës, parandalon plakjen dhe stabilizon penetrimin e Vitaminës C Vitamina E: Parandalon humbjen e lagështisë, mbron qelizat nga dëmtimi dhe e zbut lëkurën - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT
-  Updated: 2025-10-28T22:20:10Z
+  Updated: 2025-10-29T10:40:10Z
   Vendor: elementrē dermo cosmetics
   Product Type: 2 - CORRECT
   Availability: Available
@@ -2729,7 +2729,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/21197_Elementre_Nourishing_Cream_50ml_COMBINED.jpg?v=1753264718
   Price: ALL 5,499.00 ALL
 - [5% Giga-White Radiance Face Cream - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT](https://amar.al/products/giga-white-radiance-cream): Kremi inovativ Radiance nga Elementre është një ndriçues i fuqishëm, por i butë për lëkurën. Ky përzierje e fuqishme e 7 ekstrakteve bimore ka provuar se redukton ndryshimet e ngjyrës së lëkurës, duke rezultuar në një pamje më të ndritshme, më të shndritshme dhe me ton më të njëtrajtshëm. Ai synon pigmentimin e dukshëm për të harmonizuar lëkurën dhe ndihmon në parandalimin e shfaqjes së pigmentimeve të ardhshme. Ky krem ofron një veprim multi-aksion: jo vetëm që redukton ndryshimet e ngjyrës, por gjithashtu përmirëson tonin dhe shkëlqimin e lëkurës. Ai është gjithashtu jashtëzakonisht i mirëpritur nga lëkura, duke e bërë të përshtatshëm edhe për lëkurat më të ndjeshme, pa shkaktuar parehati. Përbërësi Kyç: 5% Giga White Çfarë bën: Synon pigmentimin e lëkurës dhe korrigjon në burim: prodhimin e melaninit, maturimin e melanosomave dhe migrimin e melaninit në shtresën e sipërme të lëkurës Rezultatet që do t’i doni: Reduktim i ndryshimeve të ngjyrës së lëkurës Lëkurë më e ndritshme dhe me shkëlqim Ton më i njëtrajtshëm i lëkurës Përfitime Shtesë: Ekstrakti i Edelweiss: Antioksidant i fuqishëm që ndihmon lëkurën të mbetet pa rrudha, elastike dhe e fortë - Amar Pharma - elementrē dermo cosmetics - 2 - CORRECT
-  Updated: 2025-10-28T22:20:11Z
+  Updated: 2025-10-29T10:40:11Z
   Vendor: elementrē dermo cosmetics
   Product Type: 2 - CORRECT
   Availability: Available
@@ -2792,7 +2792,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0065_4099702003477_1.png?v=1756716934
   Price: ALL 9,405.00 ALL
 - [Geske Anti-Aging Skin Renewer 9in1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/geske-anti-aging-skin-renewer-9in1): Geske Anti-Aging Skin Renewer 9in1 është një masazhator inteligjent për fytyrë që ndihmon në rigjenerimin dhe forcimin e lëkurës. Pajisja kombinon teknologji të avancuara si mikro-rryma, drita LED me shumë ngjyra, valë të ngrohjes RF dhe pulsacione sonike për të përmirësuar elasticitetin dhe pamjen e lëkurës. Mund të përdoret në mënyrë të sigurt në shtëpi falë dizajnit të papërshkueshëm nga uji dhe materialit prej silikoni mjekësor. Pajisja lidhet me aplikacionin GESKE Beauty Tech, i cili analizon gjendjen e lëkurës dhe ofron trajtime të personalizuara me udhëzime të detajuara. Kjo e bën rutinën e kujdesit për lëkurën më efektive dhe të përshtatur për nevojat individuale. Karikimi magnetik dhe përdorimi i thjeshtë e bëjnë këtë masazhator një zgjedhje të përshtatshme për kujdes të përditshëm të lëkurës, duke ndihmuar në reduktimin e rrudhave, përmirësimin e tonit të lëkurës dhe rigjenerimin e saj. 9 funksione në 1 pajisje për kujdes të plotë të lëkurës Teknologji MicroCurrent Pro Face-Lift dhe LED me shumë ngjyra Dizajn rezistent ndaj ujit (IPX7) dhe silikon mjekësor Lidhje me aplikacion për trajtime të personalizuara Karikim magnetik i lehtë për përdorim të përditshëm - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-26T14:30:48Z
+  Updated: 2025-10-29T08:14:10Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -4182,7 +4182,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:39Z
   Total Products: 2
 - [Masazhues Geske – Relaksim dhe Rigjenerim i Lëkurës - Amar Pharma -](https://amar.al/collections/masazhues-1): Për një relaksim të thellë dhe rigjenerim të lëkurës, zgjidhni masazhuesin Geske. Krijuar për të stimuluar qarkullimin dhe për të përmirësuar elasticitetin e lëkurës, ky masazhues ofron përvojën e përsosur të masazhit çdo ditë. Ndihmon në lehtësimin e stresit dhe dhimbjeve të muskujve. - Amar Pharma
-  Updated: 2025-10-28T11:12:15Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 16
 - [Mbrojtje nga Dielli për Fëmijë Kremra të Sigurt me SPF - Amar Pharma -](https://amar.al/collections/mbrojtja-nga-dielli-per-femije-1): Siguroni mbrojtje të plotë për lëkurën e fëmijëve tuaj me produktet tona të mbrojtjes nga dielli. Kremra dhe sprejra me SPF të lartë, të sigurt dhe të butë për lëkurën e ndjeshme të fëmijëve, që parandalojnë djegien dhe dëmtimin nga rrezet UV. Mbajeni fëmijën tuaj të mbrojtur dhe të sigurt në diell! - Amar Pharma
   Updated: 2025-10-26T14:29:39Z
@@ -4296,7 +4296,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-28T11:12:15Z
   Total Products: 10
 - [Produktet Më të Shitura | Best Sellers – Amar.al - Amar Pharma -](https://amar.al/collections/best-sellers): Zbuloni bestseller-ët e Amar.al – produktet më të preferuara nga klientët tanë për kujdesin e lëkurës, trupit dhe flokëve. Bli ato që të gjithë po i duan! ✅ Collection Description (për në faqe): Më të Mirët nga më të Mirët – Best Sellers në Amar.al Ky koleksion përmbledh produktet më të shitura dhe më të vlerësuara nga klientët tanë. Nga pastruesit dhe kremrat për fytyrën, deri tek SPF-të më të fuqishme dhe suplementët më të kërkuar – këtu do të gjeni zgjedhjet më të besuara për rezultate të garantuara. 🔸 Zgjedhjet më të dashura nga klientët tanë🔸 Produkte me vlerësime të larta dhe efektivitet të provuar🔸 Ideale për ata që nuk dinë nga t’ia nisin – provo bestsellerët tanë🔸 Sasi të kufizuara për disa artikuj – mos i humb! 🛍️ Bashkohu me mijëra klientë të kënaqur dhe porosit bestseller-ët tanë sot! - Amar Pharma
-  Updated: 2025-10-28T13:44:43Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 418
 - [Lirene | Produkte Cilësore për Kujdesin e Lëkurës dhe Trupit – Amar.al - Amar Pharma -](https://amar.al/collections/lirene): Lirene është marka e njohur për produktet e saj efektive dhe të sigurta për kujdesin e përditshëm të lëkurës dhe trupit. Gama e gjerë përfshin kremra hidratues, pastrues të butë dhe trajtime rigjeneruese që mbrojnë lëkurën nga faktorët e jashtëm dhe i japin shkëlqim natyral. ✔ Formulime të avancuara me përbërës aktivë të sigurt✔ Produkte për të gjitha tipet e lëkurës dhe nevojat specifike✔ Mbrojtje, rigjenerim dhe hidratim për fytyrën dhe trupin✔ Të testuara dermatologjikisht dhe me çmime të arsyeshme ✨ Zgjidhni Lirene për një lëkurë të bukur dhe të shëndetshme çdo ditë – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-28T14:05:09Z
@@ -4305,7 +4305,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-28T13:44:44Z
   Total Products: 114
 - [Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri - Amar Pharma -](https://amar.al/collections/geske): Geske – Teknologjia Revolucionare e Kujdesit për Lëkurën në Shqipëri Geske sjell inovacionin më të avancuar në kujdesin për lëkurën, duke kombinuar teknologjinë gjermane me rezultate të shkëlqyera klinike. Produktet e Geske janë të dizajnuara për të transformuar rutinën tuaj të bukurisë në një përvojë profesionale nga komoditeti i shtëpisë. 🔹 Pajisje inteligjente për kujdesin e lëkurës – pastrues fytyre, masazherë dhe aparate kundër rrudhave🔹 Teknologji me frekuencë të lartë dhe dritë LED – për një lëkurë më të pastër dhe të tonifikuar🔹 Zgjidhje për çdo lloj lëkure – e yndyrshme, e thatë apo e ndjeshme🔹 Rezultate të provuara klinikisht – për rigjenerim, hidratim dhe zvogëlim të rrudhave ✨ Zbuloni fuqinë e teknologjisë së Geske dhe përjetoni një kujdes lëkure të nivelit të lartë në Shqipëri. Bli tani me ofertat ekskluzive të Amar.al! - Amar Pharma
-  Updated: 2025-10-28T13:44:44Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 27
 - [LN Age – Kapsula me Hekur për Shëndet dhe Kundër Plakjes | Amar.al - Amar Pharma -](https://amar.al/collections/ln-age): LN Age është një suplement ushqimor në formë kapsulash që përmban hekur elementar dhe përbërës të tjerë të zgjedhur për të përmirësuar shëndetin tuaj të përgjithshëm. Këto kapsula ndihmojnë në rritjen e niveleve të energjisë, forcimin e sistemit imunitar dhe rigjenerimin e trupit, duke luftuar shenjat e plakjes. Ideale për ata që dëshirojnë të mbajnë lëkurën dhe trupin e tyre të shëndetshëm, të rinovuar dhe me vitalitet. - Amar Pharma
   Updated: 2025-10-28T13:44:44Z
@@ -4317,7 +4317,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-28T13:44:45Z
   Total Products: 14
 - [Të Gjitha Produktet – Kujdes i Plotë për Lëkurën dhe Trupin | Amar.al - Amar Pharma -](https://amar.al/collections/all-products): Zbuloni gamën e gjerë të produkteve të kujdesit të lëkurës nga markat më të njohura: Lirene, Pharmaceris, Dr. Irena Eris, Opatra dhe LN Age.Zgjidhni nga kremrat hidratues, serumat inovative, pastruesit efektivë dhe trajtimet anti-rudhë që ofrojnë mbrojtje të avancuar dhe rigjenerim të lëkurës. Çdo produkt është i dizajnuar për t’ju dhënë një pamje të shëndetshme, të freskët dhe plot vitalitet. - Amar Pharma
-  Updated: 2025-10-28T14:05:09Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 547
 - [Nurse Harvey’s | Kujdes Natyral për Foshnjat dhe Fëmijët – Amar.al - Amar Pharma -](https://amar.al/collections/nurse-harveys): Nurse Harvey’s – Kujdes i Besuar dhe Natyral për Vegjëlit Tuaj Nurse Harvey’s ofron një gamë produktesh të formuluara me përbërës natyralë dhe të sigurt për foshnjat dhe fëmijët. Qetëson dhimbjet e barkut, hidraton lëkurën e butë dhe mbështet zhvillimin dhe imunitetin e tyre me suplemente cilësore. ✔ Shurupë për tretje dhe qetësim të gazrave te foshnjat✔ Vajra dhe balsame natyralë për lëkurë të hidratuar dhe të butë✔ Suplemente me vitamina për rritje dhe forcim imuniteti✔ Produktet e testuara dermatologjikisht dhe të sigurt për përdorim të përditshëm 👶 Jepi vegjëlushit tuaj kujdesin më të mirë me Nurse Harvey’s – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-28T13:44:45Z
@@ -4392,7 +4392,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:45Z
   Total Products: 105
 - [All Products | Amar.al – Zbulo të gjitha produktet e kujdesit personal dhe bukurisë - Amar Pharma -](https://amar.al/collections/all): Mirë se vini në seksionin “Të Gjitha Produktet” të Amar.al. Këtu do të gjeni një përzgjedhje të gjerë të produkteve më të mira për kujdesin e lëkurës, flokëve, trupit, higjienës personale dhe suplementëve ushqimorë. Ne bashkëpunojmë me marka të njohura si Pharmaceris, Lirene, Bioliq dhe shumë të tjera për të sjellë zgjidhje cilësore për nevojat e përditshme. Filtroni, zbuloni dhe zgjidhni produktin ideal për ju. - Amar Pharma
-  Updated: 2025-10-28T15:19:26Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 701
 - [Power of Plants Aloe | Qetësim & Hidratim Natyral me Aloe Vera – Amar.al - Amar Pharma -](https://amar.al/collections/power-of-plants-aloe): POWER OF PLANTS ALOE – Qetësim Natyral dhe Hidratim i Thellë me Aloe Vera Koleksioni Power of Plants Aloe është i bazuar në përbërësin natyral aloe vera, të njohur për vetitë e tij qetësuese, hidratuese dhe rigjeneruese. Produktet janë ideale për lëkurë të ndjeshme, të dehidratuar, pas ekspozimit në diell ose të prirur ndaj irritimeve. ✔ Aloe vera e pasur me vitamina dhe minerale✔ Qetëson skuqjet dhe ndihmon në rikuperimin e shpejtë të lëkurës✔ Hidraton në thellësi dhe rivendos balancën natyrale✔ Formula të lehta, të testuara dermatologjikisht dhe pa irritues ✨ Zgjidh fuqinë e bimëve për lëkurë të freskët dhe të shëndetshme me POWER OF PLANTS ALOE – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-26T14:29:45Z
@@ -4524,7 +4524,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-28T13:44:47Z
   Total Products: 24
 - [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
-  Updated: 2025-10-28T13:44:48Z
+  Updated: 2025-10-29T11:11:07Z
   Total Products: 418
 - [rutina - Amar Pharma -](https://amar.al/collections/rutina): - Amar Pharma
   Updated: 2025-10-26T14:29:49Z
