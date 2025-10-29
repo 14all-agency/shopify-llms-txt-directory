@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-10-28T12:00:37.035Z
+- Updated At: 2025-10-29T12:01:00.656Z
 
 ## Products
 
@@ -12603,7 +12603,7 @@ Ethical Brilliance. Timeless Elegance.
 - [Terms of Service](https://www.chantalvaulet.com/policies/terms-of-service)
   Updated: 2025-03-16T15:50:36+01:00
 - [Contact Information](https://www.chantalvaulet.com/policies/contact-information)
-  Updated: 2025-03-11T14:03:31+01:00
+  Updated: 2025-10-28T18:55:08+01:00
 
 ## Alternate Currencies & Languages
 
