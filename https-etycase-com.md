@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-10-29T00:00:44.007Z
+- Updated At: 2025-10-29T08:00:35.730Z
 
 ## Products
 
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173455-17-B_1800x1800_jpg.webp?v=1759857479
   Price: ₺850,00 TRY
 - [iPhone 13 NeoFiber Silikon MagSafe Özellikli Kılıf](https://etycase.com/products/iphone-13-zebana-neofiber-silikon-magsafe-ozellikli-kilif): iPhone 13 NeoFiber Silikon MagSafe Özellikli Kılıf (Kablosuz Şarj)Gücünü Karbon Fiberden Alan Teknoloji NeoFiber Kılıf ile cihazınız her an güvende! Hafifliğini ve dayanıklılığını karbon fiberden alan bu kılıf, aynı zamanda Kablosuz Şarj uyumluluğu ile fonksiyonelliği artırıyor.
-  Updated: 2025-10-28T12:21:18Z
+  Updated: 2025-10-29T00:03:16Z
   Vendor: Zebana
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
