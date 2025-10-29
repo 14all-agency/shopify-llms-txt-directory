@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-28T16:00:41.844Z
+- Updated At: 2025-10-29T08:00:35.524Z
 
 ## Products
 
@@ -890,8 +890,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13947.png?v=1761425362
     Price: $90.00 CAD
-- [Eternal Hope Necklace & Earring Set – 14K White Gold | Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set): Add elegance and sparkle with the Eternal Hope Necklace & CZ Earrings. Crafted in 14K white gold — timeless, radiant, and made to cherish forever.
-  Updated: 2025-10-26T20:42:41Z
+- [Eternal Hope Necklace & Earring Set – 14K White Gold | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set): Surprise your loved one with a gift that shines as brightly as her heart! The Eternal Hope Necklace and Cubic Zirconia Earring Set by Swarav Creations is designed to captivate attention and express everlasting affection. This breathtaking duo — featuring an 8mm cushion-cut cubic zirconia centerpiece surrounded by radiant accents — brings unmatched brilliance and sophistication to every outfit. Whether worn together for a glamorous look or separately for a touch of everyday sparkle, this set radiates timeless beauty and grace. It’s the perfect gift for anniversaries, birthdays, Valentine’s Day, or special “just because” moments. 💍 Necklace Specifications 14k white gold finish 8mm cushion-cut cubic zirconia center crystal 1.2mm accent CZ stones for added sparkle Pendant size: 0.6" (14mm) × 0.5" (11.6mm) Adjustable box chain: 16"–18" (40.6–45.7cm) Lobster clasp closure 💎 Earring Specifications 14k white gold finish 6mm round-cut cubic zirconia stones Secure post-style backing Necklace Specifications 14k white gold finish 8mm center cushion-cut cubic zirconia crystal 1.2mm accent CZ crystals 0.6" (14mm) / 0.5" (11.6mm) Adjustable box chain: 16" - 18" (40.64- 45.72cm) Lobster clasp Earring Specifications 14k white gold finish 6mm round cut cubic zirconia crystals Post style backing 🎁 Packaging Options:Your jewelry is elegantly presented in a soft-touch box perfect for gifting.Upgrade to the mahogany-style luxury box featuring a built-in LED spotlight to make your gift presentation truly unforgettable. - Swarav Creations
+  Updated: 2025-10-28T17:14:02Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
