@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-28T16:00:54.776Z
+- Updated At: 2025-10-29T00:00:31.050Z
 
 ## Products
 
@@ -60,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3_8b776c10-68a1-4f1d-9ad6-14063f681a2f.jpg?v=1761355286
   Price: $199.99 USD
 - [Labubu Monster -Vinyl face Mysterious Single Blind box - PlaysPuls](https://www.playspuls.com/products/labubu-monster-an-exciting-macaron-vinyl-face-mysterious-single-blind-box): The Exciting Macaron Blind Box series brings pastel character art and food-themed storytelling to your figure collection. Styled after dessert flavors and dressed in bunny-hooded outfits, these figures are designed for display collectors, pastel enthusiasts, and art toy fans. From Lychee Berry to Sea Salt Coconut, every figure combines confectionery concepts with creative styling. Crafted from ABS and PVC, each character offers sculpted details and expressive faces printed on glossy vinyl. - PlaysPuls
-  Updated: 2025-10-28T09:03:56Z
+  Updated: 2025-10-28T21:03:47Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/2_40c0bff6-aa7e-413f-babe-d9eb9c6f48a1.jpg?v=1761642222
   Price: $39.99 USD
 - [Classic Kettle Insulated Water Bottle Stainless Steel Reusable Triple Insulated 16 oz - PlaysPuls](https://www.playspuls.com/products/classic-kettle-insulated-water-bottle-stainless-steel-reusable-triple-insulated-16-oz): About this itemCanteen Water Bottle: Stay stylishly hydrated with the classic canteen tumbler, the original stainless steel tumbler that keeps drinks cold for 25 hours and hot for 17Hydration On-the-Go: Designed with easy-grip flat sides and a non-slip bottom, this travel friendly tumbler is perfect for work, travel, and everyday adventuresScrew-On Cap: The leak-proof, screw-on lid on this spill proof tumbler helps maintain perfect temperature and allows for smooth, controlled sipping anywhereA Chill Gift: This cooler-ready drinkware keeps beverages icy cold during any warm-weather adventure - PlaysPuls
-  Updated: 2025-10-28T09:02:51Z
+  Updated: 2025-10-28T21:02:57Z
   Vendor: PlaysPuls
   Product Type: thermal mug
   Availability: Available
