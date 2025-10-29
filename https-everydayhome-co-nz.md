@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-29T00:00:44.125Z
+- Updated At: 2025-10-29T08:00:41.632Z
 
 ## Products
 
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-White-0.jpg?v=1727658875
   Price: $59.99 NZD
 - [Umbra Sling Sink Caddy - Black](https://everydayhome.co.nz/products/sling-sink-caddy-black): Sling Sink Caddy, Black
-  Updated: 2025-10-27T20:52:10Z
+  Updated: 2025-10-29T04:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sling-Sink-Caddy-Black-0.jpg?v=1727658913
   Price: $17.99 NZD
 - [Umbra Sling Sink Caddy - White](https://everydayhome.co.nz/products/sling-sink-caddy-white): Sling Sink Caddy  White
-  Updated: 2025-10-27T20:52:11Z
+  Updated: 2025-10-29T04:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-10-27T21:22:11Z
+  Updated: 2025-10-29T07:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -844,7 +844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $59.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-10-27T12:32:23Z
+  Updated: 2025-10-29T07:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1201,7 +1201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Food-Warmer-1-Burner-Matt-Black-W-Grey-G-1.png?v=1727660076
   Price: $89.95 NZD
 - [Brabantia Food Warmer - 2 Burner Matt Black](https://everydayhome.co.nz/products/food-warmer-2-burner-matt-black-w-grey-grill): Do you like your hot drink or meal nice and warm? Than you will surely warm up to this Brabantia Food Warmer with two burners. It has double-walled tea light holders, so no scorch marks on your table. Nor on your fingers, as the plastic side elements have integrated cool grips. Hot 'n handy!
-  Updated: 2025-10-27T12:32:47Z
+  Updated: 2025-10-29T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $299.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-10-28T07:07:10Z
+  Updated: 2025-10-29T03:37:06Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2503,7 +2503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Black-UMBRA-4.jpg?v=1731903493
   Price: $37.99 NZD
 - [Umbra Udry Dish Rack & Drying Mat - Charcoal](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-charcoal): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-10-27T20:52:17Z
+  Updated: 2025-10-29T04:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3172,7 +3172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22213_IMG-001_2ceaf433-6f46-475e-b8b5-f77b0d368dcc.png?v=1746478925
     Price: $354.00 NZD
 - [SwiftDry Lifestyle Folding Laundry Rack (3 Sizes)](https://everydayhome.co.nz/products/lifestyle-fold-up-laundry-rack-wall-mounted-1-2-meter): Simplify your Laundry days... The Lifestyle Folding Laundry Rack is a must-have for your laundry, bathroom, or garage! It is our wall-mounted version of our early Lifestyle Airer design that became a much-loved addition in thousands of NZ homes. Features: Black powder-coated end brackets 3 wooden rails - crafted from kiln-dried American White Ash, specially selected for its straight grain and warp-resistant stability. The rails are fine sanded to be gentle on your washing. This also makes it easy for you to stain, varnish, or paint the rails to match your décor if preferred. 130mm spaces between each wooden lath - to fit larger items on with ease, and with more air circulation space, they will dry faster than ever. The Laundry Rack will hold up to 20kgs of washing. Multipurpose - can even be used in a bathroom (in this case we recommend to coat with polyurethane varnish to waterproof the rails) SwiftDry 30 Year Warranty Made in New Zealand KITSET INCLUDES (everything you need) 2x powder-coated foldable end brackets 3x wooden rails Stainless Steel bolts, and removable pins to fold down Wood Screws for mounting Easy DIY assembly instructions SPECIFICATIONS & MATERIALS Black powder coated aluminum end brackets. American White Ash Laths Wall-facing mounting bracket: 125 mm high by 50 mm wide Mounting screw holes: 80mm between centers Length: 1.2m / 1.8m / 2.4m wooden laths Depth out from wall: 400mm Weight: approx. 3kg
-  Updated: 2025-10-03T23:37:06Z
+  Updated: 2025-10-29T04:46:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4188,7 +4188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB_124x38cm-DenimGrey_96dpi_2000x2000px_9_NR-35852.jpg?v=1755820384
   Price: $37.99 NZD
 - [Brabantia Ironing Board Cover B - New Dawn](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-b-new-dawn): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable, practical and fair - all cotton is Fairtrade certified. A real top layer for your Brabantia Ironing Board B!
-  Updated: 2025-10-27T19:52:12Z
+  Updated: 2025-10-29T00:14:26Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
