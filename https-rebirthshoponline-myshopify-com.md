@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-28T20:00:32.626Z
+- Updated At: 2025-10-29T00:00:50.348Z
 
 ## Products
 
@@ -3181,13 +3181,13 @@
 ## Collections
 
 - [Home page](https://rebirthshoponline.myshopify.com/collections/frontpage)
-  Updated: 2025-10-28T19:26:37Z
+  Updated: 2025-10-28T20:07:26Z
   Total Products: 14
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
   Updated: 2025-10-28T18:02:09Z
   Total Products: 8
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
-  Updated: 2025-10-16T21:39:45Z
+  Updated: 2025-10-28T20:07:26Z
   Total Products: 10
 - [Women's Hoodies](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt)
   Updated: 2025-10-16T23:14:13Z
