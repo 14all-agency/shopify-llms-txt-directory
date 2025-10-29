@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-28T12:00:47.443Z
+- Updated At: 2025-10-29T00:00:53.076Z
 
 ## Products
 
@@ -3194,7 +3194,7 @@
     Availability: Available
     Price: ₹799.00 INR
 - [Classic Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-10-28T07:08:49Z
+  Updated: 2025-10-28T19:08:54Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
