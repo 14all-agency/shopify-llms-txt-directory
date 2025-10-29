@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-29T12:00:56.400Z
+- Updated At: 2025-10-29T13:14:39.026Z
 
 ## Products
 
@@ -5583,7 +5583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7696copy.jpg?v=1740116763
   Price: ₹1,879.00 INR
 - [AVENGERS SET OF 8 ACTION FIGURE](https://theworldofnerds.com/products/avengers-set-of-8-action-figure): Experience the ultimate battle with the AVENGERS SET OF 8 ACTION FIGURE! Assemble your favorite superheroes and watch them come to life. With detailed designs and high-quality materials, you can recreate epic scenes and embark on thrilling adventures. Perfect for fans and collectors alike, this set is a must-have for any AVENGERS enthusiast.
-  Updated: 2025-07-31T18:28:53Z
+  Updated: 2025-10-29T12:34:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10252,25 +10252,25 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1DEADPOOLWOLVERINE.jpg?v=1758267650
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: The Birth of a Legend Standard Version](https://theworldofnerds.com/products/iron-man-mark-i-the-birth-of-a-legend-standard-version): Iron Man Mark I rises from the desert dust, crude yet unstoppable, a suit built not from luxury but desperation. Sparks burst from its battered steel frame, each one a reminder of Tony Stark’s fight to live and to break free. The glowing arc reactor at its core symbolizes not just power, but rebirth—the moment Iron Man was truly born. Though clunky in design, the Iron Man Mark I marks the first step in a legacy that would change the world forever.
-  Updated: 2025-09-19T07:45:21Z
+  Updated: 2025-10-29T12:52:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1IronmanI.jpg?v=1758267784
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI.jpg?v=1761742365
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: Forged in Fire, Born in Light Luminous Version](https://theworldofnerds.com/products/iron-man-mark-i-forged-in-fire-born-in-light-luminous-version): Amidst fire, dust, and chaos, Iron Man Mark I steps forward like a blazing titan. The crude steel plates glow with sparks of defiance, and at its core shines the arc reactor—a radiant beacon of survival and rebirth. What began in captivity emerges as destiny, a luminous birth of a hero who would one day rise as Iron Man. This is not just a machine of escape—it is the glowing beginning of a legend.
-  Updated: 2025-09-19T08:09:04Z
+  Updated: 2025-10-29T12:52:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1IronmanI_a3c6a939-be65-492b-bdd7-07a9ddf7285c.jpg?v=1758267873
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI_bf1068a8-98df-46fa-8b21-fd61615cb09e.jpg?v=1761742320
   Price: ₹4,999.00 INR
 - [Iron Man Mark 15: A Blaze in the Shadows](https://theworldofnerds.com/products/iron-man-mark-15-a-blaze-in-the-shadows): Blazing through the air with thrusters ignited, Iron Man Mark 15 glows like a streak of living fire. Built for stealth yet burning with brilliance, this armor carries the elegance of shadows and the fury of flames. Its sharp design gleams under the light, while the thrusters leave a trail of radiant power. A luminous symbol of evolution, the Mark 15 embodies Tony Stark’s genius—quiet in design, but unstoppable in action.
-  Updated: 2025-09-19T09:53:38Z
+  Updated: 2025-10-29T13:10:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ae2cccd1-b7e4-486f-a171-02b0d3bcce9d.jpg?v=1758267950
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_0ce31f3d-955b-4969-89cc-975494648062.jpg?v=1761743420
   Price: ₹3,999.00 INR
 - [Iron Man Mark 16 (Nightclub) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-16-nightclub-iron-man-3-marvel-infinity-saga-collectible): This is the Iron Man Mark 16 armor, also known as "Nightclub", from Iron Man 3. Designed by Tony Stark, the Mark 16 features a striking red and gold finish with enhanced stealth capabilities. This collectible figure showcases the intricate detailing of the armor, complete with the arc reactor at the chest, capturing the essence of Marvel’s Infinity Saga.
   Updated: 2025-09-19T07:59:10Z
@@ -10280,11 +10280,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XVIIronman3.jpg?v=1758268019
   Price: ₹3,999.00 INR
 - [Iron Man Mark 17 (Heartbreaker) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-17-heartbreaker-iron-man-3-marvel-infinity-saga-collectible): The Iron Man Mark 17 armor, known as "Heartbreaker", is one of Tony Stark’s specialized suits from Iron Man 3. Built as a heavy-duty artillery unit, this armor features a distinctive chest-mounted arc reactor designed for high-powered energy blasts. The figure includes multiple interchangeable hands, repulsor effect pieces, and a display stand, making it a must-have addition to any Marvel Infinity Saga Iron Man collection.
-  Updated: 2025-09-19T08:24:40Z
+  Updated: 2025-10-29T13:09:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1IronmanXVII.jpg?v=1758268105
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanXVII.jpg?v=1761743367
   Price: ₹3,999.00 INR
 - [Iron Man Mark 3 (Mark III) – Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor is the first iconic red-and-gold suit introduced in Marvel Studios’ Iron Man (2008). As Tony Stark’s first fully developed and weaponized armor, the Mark 3 established the foundation for all future Iron Man suits. This collectible figure captures the classic design and powerful presence of the armor that launched the Marvel Cinematic Universe, making it a must-have for any Marvel Infinity Saga collection.
   Updated: 2025-09-19T08:39:54Z
@@ -10293,12 +10293,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2IronmanIIILuminousversion.jpg?v=1758268203
   Price: ₹3,999.00 INR
-- [Iron Man Mark 3 (Mark III) – Lightning Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Lightning Version collectible features a chargeable light-up function that brings the arc reactor and eyes to life, enhancing the display with dramatic illumination. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
-  Updated: 2025-09-19T08:11:55Z
+- [Iron Man Mark 3 (Mark III) – Luminous Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Luminous Version collectible features a chargeable light-up function that illuminates the arc reactor and eyes, bringing them to life and enhancing the display with dramatic, vibrant lighting. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
+  Updated: 2025-10-29T13:09:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1IronmanIIILuminousversion....jpg?v=1758268277
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/6IronmanIIILuminousversion_2b7caa7c-71c7-4f49-98de-89998385764a.jpg?v=1761743388
   Price: ₹4,999.00 INR
 - [Iron Man Mark 30 Display Model for Collectors](https://theworldofnerds.com/products/iron-man-mark-30-display-model-for-collectors): A stunning collectible figure of Iron Man Mark 30, also known as "Blue Steel," stands proudly in a metallic blue and silver finish. The suit’s sleek design and battle-ready stance make it appear as though it’s about to launch into action, while the black backdrop highlights every armored detail. Perfect for collectors, this piece captures the essence of Tony Stark’s ingenuity from Iron Man 3 and the Infinity Saga.
   Updated: 2025-09-19T07:54:39Z
@@ -10335,40 +10335,40 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Iron-Man-Mark-XLII.jpg?v=1758268683
   Price: ₹3,999.00 INR
-- [Iron Man Mark XLII: Lightning Strikes the Legacy](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Amid the storm’s fury, Iron Man’s Mark XLII armor stands tall, glistening in red and gold as bolts of lightning tear through the skies. Each flash reflects off his steel frame, painting him as both protector and prisoner of the tempest. The scattered parts at his feet whisper of battles fought and wounds endured, while the storm above mirrors the chaos within—a clash of brilliance, burden, and unyielding will.
-  Updated: 2025-09-19T09:28:23Z
+- [Iron Man Mark XLII: Luminous Legacy Ignited by Lightning ⚡](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Amid the storm’s wrath, the Mark XLII rises—a luminous sentinel of red and gold beneath a sky aflame with lightning. Each bolt dances across his armor, casting him as both guardian and captive of the tempest. Shattered fragments at his feet gleam like echoes of past battles, each scar a testament to endurance. Above, the storm rages on—a mirror of his own radiant chaos, where brilliance, burden, and resolve collide in light. ⚡
+  Updated: 2025-10-29T12:52:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/10Iron-Man-Mark-XLII.jpg?v=1758272898
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/13Iron-Man-Mark-XLII.jpg?v=1761742350
   Price: ₹4,999.00 INR
 - [Iron Man Mark V: The Suitcase Armor](https://theworldofnerds.com/products/iron-man-mark-v-the-suitcase-armor): Forged in the rush of desperation, the Mark V armour stands as a symbol of both fragility and resilience. Its sleek crimson and silver design reflects the urgency of battles fought not in preparation but in the heat of chaos. The suitcase at its side carries more than armour—it carries the weight of responsibility, the scars of fear, and the unyielding determination to rise, even when caught off guard.
-  Updated: 2025-09-19T09:13:11Z
+  Updated: 2025-10-29T12:52:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironman2V.jpg?v=1758273008
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark2V.jpg?v=1761742334
   Price: ₹3,999.00 INR
-- [Iron Man Mark III: Birth of a Hero Lightning](https://theworldofnerds.com/products/iron-man-mark-iii-birth-of-a-hero-lightning): Through fire and destruction, the Mark III emerges—a crimson silhouette against the roar of an explosion. The glow of the arc reactor pulses like a heartbeat, a reminder that beneath the steel lies fragile humanity. Each step forward carries both triumph and torment, the weight of invention and the burden of responsibility. It is not just armour—it is resolve forged in flames.
-  Updated: 2025-09-19T11:38:32Z
+- [Iron Man Mark III: Luminous Birth of a Hero ⚡](https://theworldofnerds.com/products/iron-man-mark-iii-birth-of-a-hero-lightning): Through fire and fury, the Mark III ascends—a radiant crimson silhouette blazing against the storm of destruction. The arc reactor glows with living light, each pulse a rhythm of determination and doubt. Every stride radiates brilliance and burden alike—the spark of genius entwined with the cost of creation. This is no mere armor—it is luminous resolve, forged in light and flame. ⚡
+  Updated: 2025-10-29T12:53:00Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1IronmanIIILuminousversion_728a581b-ee56-46a7-8ed3-0b8ffb8c0706.jpg?v=1758273157
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanIIILuminousversion_5684fa98-d017-48ea-8a49-11ffafeffdc9.jpg?v=1761742380
   Price: ₹4,999.00 INR
 - [Iron Man Mark 85: The Final Armor](https://theworldofnerds.com/products/iron-man-mark-85-the-final-armor): The Mark 85 stands not just as a suit of armor, but as the culmination of every battle, every scar, and every choice that led to the Endgame. Its gleaming red and gold design carries the weight of finality, while the scattered weapons echo a war that demanded everything. Behind the steel is not invincibility, but a man ready to give the ultimate sacrifice—because saving the world meant more than surviving it.
-  Updated: 2025-09-19T09:18:24Z
+  Updated: 2025-10-29T13:10:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1AvengersendgameIronmanLXXXV2.jpg?v=1758273377
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2AvengersendgameIronmanLXXXV.jpg?v=1761743404
   Price: ₹3,999.00 INR
 - [Mark IV: The Birth of Armor With Suit up gantry](https://theworldofnerds.com/products/mark-iv-the-birth-of-armor-with-suit-up-gantry): The gantry arms reach out like guardians of destiny, each mechanical motion a ritual of transformation. Flames of power linger nearby, waiting to ignite as the armor locks into place. In that suspended moment, Tony Stark stands between man and legend—vulnerable yet unstoppable, fragile yet armored. The gantry doesn’t just build the suit; it builds the myth of Iron Man.
-  Updated: 2025-09-19T09:39:53Z
+  Updated: 2025-10-29T12:51:23Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark3XV.jpg?v=1758273524
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/ZDtoysIronman.jpg?v=1761742283
   Price: ₹9,999.00 INR
 - [Spider-Man: Black & Gold Suit Action Figure – No Way Home Edition](https://theworldofnerds.com/products/spider-man-black-gold-suit-action-figure-no-way-home-edition): This striking collectible captures Spider-Man mid-leap, wearing his iconic Black & Gold suit from No Way Home. Suspended on a sleek display stand, he strikes a dynamic action pose, one hand outstretched releasing a glowing, mystical web effect. The gold accents on his suit shimmer under the light, giving an intense and cinematic look. It feels like a moment frozen in time – as if Spidey has just activated Doctor Strange’s magic while preparing to swing into battle.
   Updated: 2025-09-19T09:30:17Z
@@ -10385,11 +10385,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanUpgradedsuit.jpg?v=1758273730
   Price: ₹3,999.00 INR
 - [Spider-Man No Way Home Integrated Suit Action Figure](https://theworldofnerds.com/products/spider-man-no-way-home-integrated-suit-action-figure): This collectible showcases Spider-Man in his stunning Integrated Suit from No Way Home, blending his Iron Spider and Upgraded suits into one heroic design. The metallic gold and red detailing gleam brilliantly, giving a battle-ready appearance. The set includes multiple interchangeable hands, web-shooting effects, and a sturdy display stand for posing. It feels like a scene right after Peter upgrades his suit for the multiversal showdown, ready to face villains from across dimensions.
-  Updated: 2025-09-19T10:14:16Z
+  Updated: 2025-10-29T13:10:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2SpidermanIntegratedsuit.jpg?v=1758273859
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4SpidermanIntegratedsuit.jpg?v=1761743436
   Price: ₹3,999.00 INR
 - [Marvel War Machine (Mark II) with Interchangeable Hands](https://theworldofnerds.com/products/marvel-war-machine-mark-ii-with-interchangeable-hands): This figure captures War Machine Mark II in his heavy-duty, battle-ready armor as seen in Avengers: Age of Ultron. The matte black and silver finish gives a realistic, militaristic look, enhanced by interchangeable hands and powerful blast effects that can be posed mid-firing. The included display stand allows for dynamic aerial or ground combat poses, recreating War Machine’s iconic moments as he unleashes firepower against Ultron’s army.
   Updated: 2025-09-19T09:37:43Z
@@ -10399,11 +10399,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Avengersageofultron.jpg?v=1758273978
   Price: ₹3,999.00 INR
 - [Marvel War Machine (Mark I) with Blast Effects & Display Stand](https://theworldofnerds.com/products/marvel-war-machine-mark-i-with-blast-effects-display-stand): This figure recreates War Machine’s first full appearance in Iron Man 2, complete with his iconic shoulder-mounted minigun and armored plating. The matte black and gunmetal finish gives him a powerful, military-grade look. The set includes interchangeable hands, blast effects, and a sturdy display stand to showcase him in mid-combat poses. It feels like War Machine has just stepped off the big screen, ready to unleash a barrage of firepower alongside Iron Man.
-  Updated: 2025-09-19T09:44:52Z
+  Updated: 2025-10-29T12:51:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Ironmanmark2I.jpg?v=1758274978
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5Ironmanmark2I.jpg?v=1761742306
   Price: ₹3,999.00 INR
 - [Marvel Wolverine Action Figure in Classic Yellow & Blue Suit](https://theworldofnerds.com/products/marvel-wolverine-action-figure-in-classic-yellow-blue-suit): This collectible brings Wolverine to life in his iconic yellow-and-blue suit as seen in Deadpool & Wolverine. The figure perfectly captures Logan’s fierce expression and battle-ready stance, with intricate suit textures and sharp detailing on the mask and gloves. The bold colors make him stand out, evoking the classic comic-book look while staying true to the cinematic version. It feels like Wolverine is about to unsheathe his adamantium claws and charge into battle, ready to fight alongside (or against) Deadpool.
   Updated: 2025-09-19T10:14:11Z
@@ -10533,7 +10533,7 @@
   Updated: 2025-10-27T11:10:40Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 315
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
   Updated: 2025-08-30T05:30:08Z
@@ -10572,7 +10572,7 @@
   Updated: 2025-10-27T07:39:48Z
   Total Products: 135
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-10-28T11:12:15Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 473
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
@@ -10590,7 +10590,7 @@
   Updated: 2025-08-04T11:09:26Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2025-10-21T11:13:29Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 418
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
   Updated: 2025-10-27T04:54:41Z
@@ -10650,10 +10650,10 @@
   Updated: 2025-10-20T11:11:47Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-10-28T11:12:15Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 959
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
-  Updated: 2025-10-19T11:11:51Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 105
 - [DC](https://theworldofnerds.com/collections/dc): "Dive into the DC Universe with our latest collection of collectibles! Featuring legendary heroes and villains like Batman, Superman, Wonder Woman, The Joker, and more, our lineup includes action figures, Funko Pop! collectibles, keychains, and epic merchandise. Whether you're a fan of the Justice League, Gotham’s dark knights, or the rogues of Metropolis, these high-quality items bring the iconic battles and stories of DC to life. Add your favorite characters to your collection today!" 🦇⚡🔥
   Updated: 2025-09-20T07:30:11Z
@@ -10668,7 +10668,7 @@
   Updated: 2025-07-29T05:10:33Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-10-28T11:12:15Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 281
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
@@ -10677,7 +10677,7 @@
   Updated: 2025-10-21T11:13:29Z
   Total Products: 6
 - [ZD Toys](https://theworldofnerds.com/collections/zd-toys)
-  Updated: 2025-09-19T09:57:32Z
+  Updated: 2025-10-29T12:50:43Z
   Total Products: 24
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
   Updated: 2025-10-24T04:57:52Z
