@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-29T04:00:38.798Z
+- Updated At: 2025-10-29T08:00:41.608Z
 
 ## Products
 
@@ -607,7 +607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12610_1ea116ef-52f0-4553-b87b-2cda6c774763.jpg?v=1760450545
   Price: €11.95 EUR
 - [Spindle Backing Pad for drill](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-m6-hook-and-loop-black-foam-medium): Spindle Backing Pad for drill with hook and loop fastener, M6 thread with drill attachment for use with any drill. Size 50mm (2 inch)
-  Updated: 2025-10-24T23:53:01Z
+  Updated: 2025-10-29T07:31:56Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -712,7 +712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11735.jpg?v=1760609294
   Price: €9.45 EUR
 - [Rigid Spindle Backing Pad For Drill and Pneumatic Polisher](https://glasspolishshop.com/products/125mm-5-inch-spindle-backing-pad-rigid): Rigid Spindle Backing Pad For Drill and Pneumatic Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads. Size 125mm (5 inch)
-  Updated: 2025-10-20T21:18:31Z
+  Updated: 2025-10-29T07:31:56Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -1314,7 +1314,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14023.jpg?v=1740496918
   Price: €16.95 EUR
 - [Glass Polish metal polishing solution 14024](https://glasspolishshop.com/products/metal-and-stainless-steel-polish-250ml-8-4oz): 250ml / 8.4oz Metal and Stainless Steel polishing solution is in a class of its own. It will clean, polish, shine and protect the surface like never before.
-  Updated: 2025-10-20T21:18:36Z
+  Updated: 2025-10-29T07:31:56Z
   Vendor: Glass Polish
   Product Type: Metal Polishing Compound
   Availability: Available
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-24T23:53:01Z
+  Updated: 2025-10-29T07:31:56Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1429,7 +1429,7 @@
     Availability: Available
     Price: €103.95 EUR
 - [Glass Polish Felt Polishing Pad 11008](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-5-inch-125mm): Glass Polish 125mm / 5 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-22T08:44:50Z
+  Updated: 2025-10-29T07:32:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
