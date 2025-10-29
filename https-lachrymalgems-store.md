@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-28T16:00:49.828Z
+- Updated At: 2025-10-29T04:00:33.988Z
 
 ## Products
 
@@ -1782,7 +1782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
     Price: $25.99 USD
 - [Lachrywave The Fall Hoodie - Lucifer Design All-Over Print | Alternative Fashion](https://lachrymalgems.store/products/lachrywave-the-fall): Edgy Lachrywave hoodie featuring Lucifer's fall design down the sleeves, neon art accents, and Japanese print hood. Perfect for alternative fashion lovers. Limited edition all-over print.
-  Updated: 2025-10-28T06:22:55Z
+  Updated: 2025-10-28T18:08:40Z
   Vendor: InterestPrint
   Product Type: All-Over Hoodies
   Availability: Available
