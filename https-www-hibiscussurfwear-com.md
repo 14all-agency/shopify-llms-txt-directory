@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-28T20:01:02.872Z
+- Updated At: 2025-10-29T04:00:49.862Z
 
 ## Products
 
@@ -494,7 +494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/organic-ribbed-beanie-sand-front-64a1e35811b26.jpg?v=1688331107
     Price: £33.99 GBP
 - [Waves - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt): Waves - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:16Z
+  Updated: 2025-10-28T22:28:41Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -583,7 +583,7 @@
     Availability: Available
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45180526166329)
-    Availability: Not Available
+    Availability: Available
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45180526199097)
     Availability: Available
@@ -1464,7 +1464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-pullover-hoodie-white-front-64662d6d4b189.jpg?v=1688411208
     Price: £57.99 GBP
 - [The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt): The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:20Z
+  Updated: 2025-10-28T22:28:40Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -1534,7 +1534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-64662f37e7014.jpg?v=1688093578
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45203328958777)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-64662f37e7014.jpg?v=1688093578
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45203328991545)
@@ -1797,7 +1797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-black-front-647814d8bb084.jpg?v=1685591269
   Price: £41.99 GBP
 - [Birds of paradise - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Birds of paradise - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:21Z
+  Updated: 2025-10-28T22:28:42Z
   Vendor: Hibiscus Surfwear
   Product Type: T-shirts
   Availability: Available
@@ -1867,7 +1867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478ef679e4fb.jpg?v=1688614514
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296486482233)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478ef679e4fb.jpg?v=1688614514
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296486515001)
@@ -2029,7 +2029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-6478f00438b4e.jpg?v=1688182610
     Price: £37.15 GBP
 - [Yellow poppies - Hibiscus Surfwear - Women's regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Yellow poppies - Hibiscus Surfwear - Women's regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:20Z
+  Updated: 2025-10-28T22:28:48Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -2099,7 +2099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478f0b706b74.jpg?v=1688614865
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296508043577)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478f0b706b74.jpg?v=1688614865
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296508076345)
@@ -2190,7 +2190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-back-64a637c4329f6.jpg?v=1688614865
     Price: £37.15 GBP
 - [Hummingbird - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Hummingbird - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:22Z
+  Updated: 2025-10-28T22:28:47Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -2260,7 +2260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478f14a731dc.jpg?v=1725397697
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296518562105)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6478f14a731dc.jpg?v=1725397697
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296518594873)
@@ -3152,7 +3152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-647e44ed5708c.jpg?v=1688093504
     Price: £37.15 GBP
 - [Waves - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt): Waves - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:20Z
+  Updated: 2025-10-28T22:28:46Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -3222,7 +3222,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-647e446b0e49c.jpg?v=1689106988
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329279615289)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-647e446b0e49c.jpg?v=1689106988
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329279648057)
@@ -4072,7 +4072,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/stainless-steel-water-bottle-white-17oz-front-2-647f94339b185.jpg?v=1686082620
   Price: £36.99 GBP
 - [Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt): Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:21Z
+  Updated: 2025-10-28T22:28:48Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -4162,7 +4162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-648072418c741.jpg?v=1688014274
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356644368697)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-648072418c741.jpg?v=1688014274
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356644401465)
@@ -4400,7 +4400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-long-sleeve-tee-white-front-6480739e2dc12.jpg?v=1686139820
     Price: £40.15 GBP
 - [Mountains & clouds - Hibiscus Surfwear - Men's organic cotton t-shirt](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt): Mountains & clouds - Hibiscus Surfwear - Men's organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:27Z
+  Updated: 2025-10-28T22:28:49Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -4470,7 +4470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6480795448c5d.jpg?v=1689363652
     Price: £39.99 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356776522041)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6480795448c5d.jpg?v=1689363652
     Price: £39.99 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356776554809)
@@ -5210,7 +5210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-long-sleeve-tee-storm-front-67f42a4e7ec03.jpg?v=1744055125
     Price: £40.49 GBP
 - [Ski Verbier - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt): Ski Verbier - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:27Z
+  Updated: 2025-10-28T22:28:47Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -5320,7 +5320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-648237c5271f8.jpg?v=1689364918
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45373331308857)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-648237c5271f8.jpg?v=1689364918
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45373331341625)
@@ -7152,7 +7152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-yellow-front-64877ccb39226.jpg?v=1686600918
   Price: £41.99 GBP
 - [Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/oaxaca-mexico-hibiscus-surfwear-mens-organic-cotton-t-shirt): Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:26Z
+  Updated: 2025-10-28T22:28:51Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -7182,7 +7182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-64877e3e3545f.jpg?v=1689367056
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/oaxaca-mexico-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45404100002105)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-64877e3e3545f.jpg?v=1689367056
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/oaxaca-mexico-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45404100034873)
@@ -7318,7 +7318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-one-piece-swimsuit-white-front-6487ed95806ed.jpg?v=1686629787
     Price: £53.99 GBP
 - [Le Grand Combin - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/le-grand-combin-hibiscus-surfwear-mens-organic-cotton-t-shirt): Le Grand Combin - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:27Z
+  Updated: 2025-10-28T22:28:53Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -7428,7 +7428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6487f019c4841.jpg?v=1689363569
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/le-grand-combin-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45406028759353)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-front-6487f019c4841.jpg?v=1689363569
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/le-grand-combin-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45406028792121)
@@ -15156,7 +15156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-essential-eco-hoodie-white-front-649a4bf531825.jpg?v=1689107753
     Price: £66.99 GBP
 - [Sea turtles - Hibiscus Surfwear - Organic cotton mens t-shirt](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt): Sea turtles - Hibiscus Surfwear - Organic cotton mens t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:28Z
+  Updated: 2025-10-28T22:28:52Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -15285,7 +15285,7 @@
     Availability: Available
     Price: £44.99 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt?variant=45529790382393)
-    Availability: Not Available
+    Availability: Available
     Price: £44.99 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt?variant=45529790415161)
     Availability: Available
@@ -15925,7 +15925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-sweatshirt-white-front-64b30732dcf60.jpg?v=1689454778
     Price: £57.99 GBP
 - [Sunflower positivity - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt): Sunflower positivity - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:26Z
+  Updated: 2025-10-28T22:28:51Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -16045,7 +16045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-back-64b30ad074bad.jpg?v=1689455319
     Price: £36.00 GBP
   - [Stargazer / M](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45728042549561)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-stargazer-back-64b30ad074bad.jpg?v=1689455319
     Price: £36.00 GBP
   - [Stargazer / L](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45728042582329)
