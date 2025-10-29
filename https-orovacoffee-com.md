@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-28T16:00:41.387Z
+- Updated At: 2025-10-29T00:01:07.328Z
 
 ## Products
 
@@ -383,12 +383,12 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021.png?v=1761654495
   Price: £37.03 GBP
 - [POWER COFFEE HOUSE BLEND COFFEEBREWER](https://orovacoffee.com/products/power-coffee-house-blend-coffeebrewer): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
-  Updated: 2025-10-28T12:28:15Z
+  Updated: 2025-10-28T17:20:41Z
   Vendor: The Brew Company
   Product Type: Coffeebrewer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
-  Price: £1.61 GBP
+  Price: £2.29 GBP
 - [RED Xmas](https://orovacoffee.com/products/red-xmas)
   Updated: 2025-10-28T12:28:20Z
   Vendor: The Brew Company
