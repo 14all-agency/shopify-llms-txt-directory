@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-28T16:00:50.068Z
+- Updated At: 2025-10-29T04:00:34.419Z
 
 ## Products
 
@@ -1789,7 +1789,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-27T21:16:38Z
   Total Products: 82
 - [Hijab kopen online](https://newbro.be/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
-  Updated: 2025-10-27T16:27:03Z
+  Updated: 2025-10-29T01:58:57Z
   Total Products: 54
 - [Moderne kleding voor de moslim man](https://newbro.be/collections/moderne-kleding-voor-de-moslim-man): Deze collectie biedt een verfijnde selectie moderne kleding voor de moslim man die elegantie moeiteloos combineren met islamitische waarden - BRO Webshop
   Updated: 2025-10-27T21:18:58Z
@@ -1845,22 +1845,22 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 
 ## Blogs
 
-- [BRO Blogposts](https://newbro.be/blogs/nieuws)
-  - [Juwelen & Goud in de Islam: Wat Mag Wel en Niet?](https://newbro.be/blogs/nieuws/juwelen-en-goud-in-de-islam-schoonheid-symboliek-en-spirituele-richtlijnen): Juwelen & Goud in de Islam: Wat Mag Wel en Niet?
-    Updated: 2025-08-14T08:24:42Z
+- [Oumich blogt](https://newbro.be/blogs/byoumich-blogt)
+  - [Juwelen & Goud in de Islam: Wat Mag Wel en Niet?](https://newbro.be/blogs/byoumich-blogt/juwelen-en-goud-in-de-islam-schoonheid-symboliek-en-spirituele-richtlijnen): Juwelen & Goud in de Islam: Wat Mag Wel en Niet?
+    Updated: 2025-10-29T01:08:40Z
     Author: Bart Desmaretz
     Tags: Goud, Juwelen, Zillver
-  - [🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah](https://newbro.be/blogs/nieuws/islamitische-milieu-ethiek-duurzaam-leven-als-khalifah)
-    Updated: 2025-09-07T16:02:13Z
+  - [🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah](https://newbro.be/blogs/byoumich-blogt/islamitische-milieu-ethiek-duurzaam-leven-als-khalifah)
+    Updated: 2025-10-29T01:08:18Z
     Author: Bart Desmaretz
-  - [Hoe een hijab kiezen? Welke hijab past bij jou?](https://newbro.be/blogs/nieuws/hijab-kiezen-welke-hijab-past-bij-jou): <p><span>Hoe een hijab kiezen? Welke stof kies ik? Blijft mijn hoofddoek dan wel goed zitten? Dat zijn vast en zeker vragen die regelmatig de kop opsteken.  Hieronder proberen we alvast een beetje uitleg te geven over wat al die verschillende hijabstoffen nu eigenlijk willen zeggen.</span></p>
-    Updated: 2025-10-04T16:45:34Z
+  - [Hoe een hijab kiezen? Welke hijab past bij jou?](https://newbro.be/blogs/byoumich-blogt/hijab-kiezen-welke-hijab-past-bij-jou): <p><span>Hoe een hijab kiezen? Welke stof kies ik? Blijft mijn hoofddoek dan wel goed zitten? Dat zijn vast en zeker vragen die regelmatig de kop opsteken.  Hieronder proberen we alvast een beetje uitleg te geven over wat al die verschillende hijabstoffen nu eigenlijk willen zeggen.</span></p>
+    Updated: 2025-10-29T01:07:37Z
     Author: Bart Desmaretz
 
 ## Store Pages
 
-- [اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ](https://newbro.be/pages/contacteer-ons): Welkom in de webwinkel van BRO. Je vindt hier een selectie van fantastische Islamitische producten die ik je van harte kan aanraden. Ga er gerust e...
-  Updated: 2025-10-04T23:50:46Z
+- [اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ](https://newbro.be/pages/contacteer-ons): Welkom in onze webshop. Je vindt hier een selectie van mooie Islamitisch geïnspireerde kleding die ik je van harte kan aanraden. Ga er gerust eens ...
+  Updated: 2025-10-28T23:53:15Z
 - [Verzending & Afhandeling](https://newbro.be/pages/verzending-afhandeling): De verzending van je product heeft onze hoogste prioriteit en elke dag versturen we honderden producten naar tevreden klanten over de hele wereld. ...
   Updated: 2025-08-16T15:40:26Z
 - [FAQ](https://newbro.be/pages/faq): Hoe lang duurt het voordat mijn bestelling aankomt ? Ga voor informatie over onze verzendtijden, naar onze "Verzending & Afhandeling" pagina.
@@ -1875,7 +1875,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 ## Policies
 
 - [Privacy Policy](https://newbro.be/policies/privacy-policy)
-  Updated: 2025-07-10T23:25:28+02:00
+  Updated: 2025-10-29T03:37:01+01:00
 - [Terms of Service](https://newbro.be/policies/terms-of-service)
   Updated: 2025-08-03T20:36:54+02:00
 - [Contact Information](https://newbro.be/policies/contact-information)
