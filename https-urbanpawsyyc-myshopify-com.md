@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
-- Updated At: 2025-10-29T15:30:35.143Z
+- Updated At: 2025-10-29T17:52:04.892Z
 
 ## Products
 
@@ -162,7 +162,7 @@
   Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-guardian-usb-rechargeable-led-pet-safety-collar-5981889.jpg?v=1761636222
   Price: $28.23 CAD
 - [''BATMAN'' collar](https://urbanpawsyyc.myshopify.com/products/batman-collar): BESTIA CUSTOM DOG GEAR prouldy presents: A Super Hero collar for a Super Dog!! Batman collar is a MUST HAVE for your medium to giant sized dog. The collar is soft padded for absolute comfort. It has an unique handmade design. The Batman logo is made out of cobra pattern. This collar has a total width of 6,3 cm (2.5 inch) Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch ATTENTION! THIS COLLAR WILL BE MADE ON ORDER WITHIN 1 WEEK! This is the perfect collar for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. 100% genuine leather handmade quality made in Europe unique design
-  Updated: 2025-10-29T05:31:01Z
+  Updated: 2025-10-29T17:29:27Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -216,7 +216,7 @@
     Availability: Available
     Price: $32.00 CAD
 - ["Aztec" black dog collar](https://urbanpawsyyc.myshopify.com/products/aztec-black-dog-collar): BESTIA COLLARS® proudly presents: The 2.5 inch wide, studded genuine leather " Aztec " collar. This collar features a base layer of 3.6 mm thick high quality Italian belt leather, meant only for the finest men's belts. The inner side features a soft leather decoration out of nappa leather. Although soft and thin, this leather is very durable and comfortable on your dog's neck. Both leather sorts are naturally tanned for 100% safe use, without the use of heavy chemicals. The decoration consists of old silver plated big rivets and smaller old brass pyramid rivets. In addition a metal zip makes the collar look even more stylish and massive! The buckle and D ring are heavy duty, 5 cm (2 inch) wide. 3,5 cm (1.5 inch) for the Medium size. All metal parts are heavy duty nickel plated in silver color. Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Color: Black This is the perfect collar for your big pet. Fit`s perfect on dogs of large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. The leash is is 35.5 inch (90 cm) long and 1.2 inch (3 cm) wide. It has a leather padded handle and is made out of the same leather like your "Aztec" collar, harness or muzzle. In addition to that it has a decorative rivet on the handle and 2 rivets on the snap piece which makes it stand out and give you the unique feeling you and your dog deserve. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:31:51Z
+  Updated: 2025-10-29T17:30:13Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -276,7 +276,7 @@
     Availability: Available
     Price: $139.29 CAD
 - ["Aztec" grey dog collar](https://urbanpawsyyc.myshopify.com/products/aztec-grey-dog-collar): BESTIA CUSTOM DOG GEAR® proudly presents: The 2.5 inch wide, studded genuine leather " Aztec " collar. This collar features a base layer of 3.6 mm thick high quality italian belt leather, meant only for the finest men`s belts. this is the GREY version. The inner side features a soft leather decoration out of pig skin. Although soft and thin, this leather is very durable and comfortable on your dog`s neck. Both leather sorts are naturally tanned for 100% safe use, without the use of heavy chemicals. The decoration consists of old silver plated big rivets and smaller old brass pyramid rivets. In additon a metal zip makes the collar look even more stylish and massive!. The buckle and D ring are heavy duty, 5 cm (2 inch) wide All metal parts are heavy duty nickel plated in silver color Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Color: Grey This is the perfect collar for your big pet. Fits perfect on dogs of large to giant breeds, like: cane corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. The leash is is 35.5 inch (90 cm) long and 1.2 inch (3 cm) wide. It has a leather padded handle and is made out of the same leather like your "Aztec" collar, harness or muzzle. In addition to that it has a decorative rivet on the handle and 2 rivets on the snap piece which makes it stand out and give you the unique feeling you and your dog deserve. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:18Z
+  Updated: 2025-10-29T17:30:28Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $289.87 CAD
 - [The ''Steampunk'' collar exclusive design](https://urbanpawsyyc.myshopify.com/products/the-steampunk-collar-exclusive-design): BESTIA CUSTOM DOG GEAR® proudly presents: The ''Steampunk'' collar is a MUST HAVE for your large or giant sized dog. This collar has a unique handmade design. It features an exclusive snake skin pattern decorated with silver rivets. Size chart: M - fits a neck of 16.7 to 19.7 inch (42.5 to 50 cm) L - fits a neck of 19.7 to 23.6 inch (50 to 60 cm) XL - fits a neck of 22.6 to 26.6 inch (57.5 to 67.5 cm) XXL - fits a neck of 25.6 to 29.5 inch (65 to 75 cm) This is the perfect collar for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. • 100% genuine leather • exclusive cobra design • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:06Z
+  Updated: 2025-10-29T17:31:35Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: $330.30 CAD
 - [The ''Red Dragon'' collar](https://urbanpawsyyc.myshopify.com/products/the-red-dragon-collar): BESTIA CUSTOM DOG GEAR proudly presents: The eye-catching ''Red Dragon'' collar is a piece of art, combining the thick black base layer leather with the python pattern leather. They are put together nicely giving the collar exclusive looks. On the inside it has our patented soft lamb leather and a Patented Soft Cushion made out of Orthopedic Foam for maximum comfort for your dogs neck. The width of the collar is 7,5 cm Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch Primary color : Black/Red ATTENTION! THIS COLLAR WILL BE MADE ON ORDER WITHIN 1 WEEK! Тhis is the perfect gift for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. 100% genuine leather exclusive python-snake design handmade quality made in Europe unique design
-  Updated: 2025-10-29T05:34:27Z
+  Updated: 2025-10-29T17:31:45Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/python-1485.jpg?v=1761715902
   Price: $204.82 CAD
 - [The ''Morelia Python'' collar](https://urbanpawsyyc.myshopify.com/products/the-morelia-python-collar): BESTIA CUSTOM DOG GEAR proudly presents: The eye-catching ''Morelia Python' collar is a piece of art, combining the thick black base layer leather with the python pattern leather. They are put together nicely giving the collar exclusive looks. On the inside it has our patented soft lamb leather and a Patented Soft Cushion made out of Orthopedic Foam for maximum comfort for your dogs neck. The width of the collar is 7,5 cm Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch Primary color : Black/Blue Тhis is the perfect gift for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. 100% genuine leather exclusive python-snake design handmade quality made in Europe unique design
-  Updated: 2025-10-29T05:33:26Z
+  Updated: 2025-10-29T17:31:51Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -547,7 +547,7 @@
     Availability: Available
     Price: $291.26 CAD
 - [The "Bowtie" handmade leather harness black Small to Medium Size](https://urbanpawsyyc.myshopify.com/products/the-bowtie-handmade-leather-harness-black-small-to-medium-size): ​BESTIA CUSTOM DOG GEAR® proudly presents: The "Bowtie" leather harness is as unique as your dog. Featuring a leather bowtie and special stitching, this harness is completely hand-crafted by our small team. It has our patented soft foam and leather cushion fitted on the chest plate to make it super comfortable for your pet.​ All metal parts and rivets are nickel-plated in silver color. The buckles are 0.7 inch (18 mm) wide and the D-ring is 1 inch (25 mm) wide. Size chart: S size: This harness fits at a chest size of: 15.7 inch (40 cm) to 28.7 inch (73 cm) and a lower neck circumference of 9.8 inch (25 cm) to 18.9 inch (48 cm) M size: fits all medium-sized breeds starting at a chest size of: 19.7 inch (50 cm), fitting up to a chest size of 29.5 inch (75 cm) and a lower neck circumference of 13.8 to 22.8 inch (35 to 58 cm) PLEASE MEASURE YOUR DOGS CHEST BEFORE PLACING YOUR ORDER The perfect gift for your small to medium sized dog, like: Pug, Bulldog, French Bulldog, Bull Terrier, Jack Russel, etc. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:34:01Z
+  Updated: 2025-10-29T17:32:25Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -597,7 +597,7 @@
   Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20230213_145837.jpg?v=1761715959
   Price: $33.50 CAD
 - [''BATMAN'' HARNESS](https://urbanpawsyyc.myshopify.com/products/batman-harness): BESTIA CUSTOM DOG GEAR proudly presents: The eye-catching ''BATMAN'' harness is a MUST have for your medium to giant sized dog. The base layer of this harness is thick belt leather of highest quality. It is very strong and durable. The Batman logo is made out of cobra pattern leather. Size chart: M size: fits all medium sized breeds starting at a chest size of: 19.7 inch (50 cm), fitting up to a chest size of 29.5 inch (75 cm) and a lower neck circumference of 13.8 to 22.8 inch (35 to 58 cm) L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size : fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) ATTENTION! This size fits on giant breeds only, like Bullmastiff, Caucasian shepherd dog, Kangal, St. Bernard, Newfoundland, Neapolitan Mastiff, etc. Every harness comes with 2 chest straps! All metal parts are nickel plated. Please measure up your dog before ordering! 100% genuine leather soft padded handmade quality made in Europe unique design
-  Updated: 2025-10-29T05:36:12Z
+  Updated: 2025-10-29T17:34:26Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -621,7 +621,7 @@
     Availability: Available
     Price: $316.36 CAD
 - [Weighted dog training collar- Red. Large breeds. 5 lbs total. removable weights](https://urbanpawsyyc.myshopify.com/products/weighted-dog-training-collar-red-large-breeds-5-lbs-total-removable-weights): Bestia Custom Dog Gear presents: This is our weighted training collar with removable weights. You can choose between sizes S, M and L. Size S- fitting a neck of 39- 51 cm (15.3 - 20 inch), 1.7 kg (3.7 lbs) total weight Size M- fitting a neck of 45- 57,5 cm (17.7 - 22.6 inch), 2.0 kg (4.4 lbs) total weight Size L- fitting a neck of 51- 66 cm (20- 26 inch), 2.3 kg (5.0 lbs) total weight Color : Red Any questions, please ask ATTENTION! PRE-ORDER COLLARS WILL BE MADE WITHIN 1 WEEK!
-  Updated: 2025-10-29T05:36:20Z
+  Updated: 2025-10-29T17:34:30Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -636,7 +636,7 @@
     Availability: Available
     Price: $90.49 CAD
 - ["Danger" collar](https://urbanpawsyyc.myshopify.com/products/danger-collar): BESTIA CUSTOM DOG GEAR® proudly presents: The " Danger " collar features a combination of two spike models. The smaller spikes are 12 mm (0.5 inch) long, the bigger spikes in the middle row are 2 cm (0.8 inch) long. We use only screw back spikes. All spikes count 51 for size L. The base layer of this collar is 4 mm thick belt leather of highest quality. Very strong and durable. The inside layer is with our Patented Soft Cushion made out of Orthopedic Foam. It is also 100% real pig or lamb leather. We can offer you this model in a wide range of sizes and cushion colors. This collar has a total width of 6,3 cm (2.5 inch) . The buckle and D-ring measure 35 mm (1.4 inch) for sizes M - XL, and 50 mm (2 inch) for size XXL. All metal parts are nickel plated, made out of steel wire, specially for this purpose. Size chart: size M - fitting a neck of 42,5- 50 cm (16.7 to 19.7 inch) size L - fitting a neck of 50- 57,5 cm (19.7 to 22.6 inch) size XL - fitting a neck of 57,5- 65 cm (22.6 to 25.6 inch) size XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Primary color: Black Fits perfectly on all large breeds, like: Pitbull, cane corso, American Bully, American Bulldog, Bulldog, Presa canario, Rottweiler, Boxer, Amstaff, Staffordshire terrier, Bullmastiff, and many more.. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:36:46Z
+  Updated: 2025-10-29T16:53:29Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -740,7 +740,7 @@
 - [Contact Us - Connect with Our Team](https://urbanpawsyyc.myshopify.com/pages/contact): Easy Ways to Get in Touch Contact us through our website, phone, or email for any inquiries, feedback, or assistance. Our team is dedicated to prov...
   Updated: 2025-10-27T18:15:08Z
 - [Manage Your Data Sharing Opt-Out & Privacy Preferences](https://urbanpawsyyc.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-27T16:55:26Z
+  Updated: 2025-10-29T15:50:14Z
 
 ## Policies
 
