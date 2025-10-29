@@ -10,7 +10,7 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-10-28T20:00:43.801Z
+- Updated At: 2025-10-29T00:00:33.090Z
 
 ## Products
 
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Crew_Gray_Socks_1080x1080_-_B.png?v=1722990207
     Price: $24.99 USD
 - [Crew Sock Bundle | 5-Layer Arch Support & Compression – ArchTek®](https://www.archteksocks.com/products/arch-support-crew-socks-bundles): Bundle up on comfort. ArchTek® compression crew socks provide doctor-designed support and long-lasting relief. Save more with packs.
-  Updated: 2025-10-28T17:17:17Z
+  Updated: 2025-10-28T23:04:09Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -509,7 +509,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1700138332
     Price: $39.99 USD
 - [Ankle Socks with Arch Support | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/products/ankle-socks-with-arch-support): Ease foot pain with compression ankle socks from ArchTek®. Designed with patented arch support for daily comfort and energy return.
-  Updated: 2025-10-28T09:11:18Z
+  Updated: 2025-10-28T22:10:42Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
