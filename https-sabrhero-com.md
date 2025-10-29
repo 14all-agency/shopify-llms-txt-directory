@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-01-11T22:54:58Z
 - Contact Email: Sabrhero@outlook.com
-- Updated At: 2025-10-28T20:00:57.925Z
+- Updated At: 2025-10-29T04:00:36.903Z
 
 ## Products
 
@@ -184,7 +184,7 @@
   Image: https://cdn.shopify.com/s/files/1/0600/1029/9542/files/shirts.png?v=1758921756
   Price: €45.00 EUR
 - [SABRHERO Junior Tennis Set – Cold Asphalt Polo & Shorts](https://sabrhero.com/products/sabrhero-boys-outfit): Play smart. Look sharp. Perform like a pro.Give your young athlete the edge with SABRHERO Kid’s Luxury Tennis Apparel, engineered for style, comfort, and performance on every serve. Designed for the next generation of tennis talent, our apparel blends premium craftsmanship with modern athletic design — helping your child look and feel confident both on and off the court. Crafted from 100% high-performance polyester, this collection features dry-wick and breathable fabric technology to keep players cool, dry, and focused during every match or training session. The lightweight material allows maximum freedom of movement, while durable stitching ensures long-lasting wear through even the toughest rallies. With sleek lines, functional design, and elegant colorways, SABRHERO redefines what it means to dress for the court. Each piece, from our Cold Asphalt Polo Shirts to Performance Shorts, is designed with zipped pockets, soft textures, and stretch comfort — combining practicality with premium style. ⭐ Features & Benefits 100% premium polyester – soft, lightweight, and durable Dry-wick technology for moisture control and comfort Breathable performance fabric for optimal airflow Athletic fit for unrestricted movement and confidence Zipped pockets for secure storage during play Modern luxury design inspired by pro-level tennis wear Easy-care material – wash, wear, and perform again 🎾 Perfect For: Junior tennis training & tournaments Club and academy players Active kids who demand comfort and quality Everyday wear with sporty sophistication SABRHERO – Kid’s Luxury Tennis Apparel is more than just sportswear. It’s a statement of passion, precision, and performance.
-  Updated: 2025-10-28T14:41:40Z
+  Updated: 2025-10-28T22:28:51Z
   Vendor: SABRHERO
   Product Type: Apparel
   Availability: Available
@@ -202,7 +202,7 @@
     Availability: Available
     Price: €70.00 EUR
 - [SABRHERO Luxury Kids Tennis Jumper & Trousers Set – Premium Junior Tennis Apparel](https://sabrhero.com/products/sweat-suit): Where comfort meets championship style.The SABRHERO Luxury Kids Tennis Jumper and Trousers Set is designed for young players who demand performance and elegance both on and off the court. Crafted with premium lightweight fabric, this set delivers the perfect balance of breathability, flexibility, and modern tennis style. Made from 100% high-performance polyester, the jumper and trousers feature dry-wick technology to keep your child cool, dry, and focused during every match, warm-up, or travel day. The soft interior and smooth outer layer provide exceptional comfort, while the tailored fit ensures freedom of movement without compromise. The SABRHERO thermo-bonded logo is seamlessly integrated into the design — not embroidered — for a sleek, pro-level finish that’s smooth to the touch, lightweight, and irritation-free. It’s a refined detail that sets this set apart from ordinary kids’ sportswear. 🎾 Perfect For: Junior tennis players and academy training Club tournaments and travel days Active kids who love comfort and premium sportswear Everyday wear that blends luxury with performance SABRHERO Luxury Kids Tennis Jumper & Trousers Set — because true performance deserves a look that matches.Pre-order yours now and elevate your child’s game with the next level of tennis luxury.
-  Updated: 2025-10-28T14:53:53Z
+  Updated: 2025-10-29T00:40:26Z
   Vendor: SABRHERO
   Product Type: Apparel
   Availability: Available
