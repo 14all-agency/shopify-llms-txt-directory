@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-29T04:00:37.647Z
+- Updated At: 2025-10-29T12:00:49.468Z
 
 ## Products
 
@@ -1809,7 +1809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4272012729798427252_2048.jpg?v=1759510932
     Price: €39.63 EUR
 - [Leopard Fleece Jacket - Stylish Zip Up Design for Comfort and Warmth](https://nicosstore.store/products/leopard-fleece-jacket): Stay cozy and stylish with our Leopard Fleece Jacket. Featuring a trendy zip-up design, this soft jacket offers ultimate comfort and warmth for any occasion. Shop now!
-  Updated: 2025-10-28T09:01:26Z
+  Updated: 2025-10-29T06:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1831,7 +1831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Long Sleeve Top - Stylish Mesh Design for Daily Wear](https://nicosstore.store/products/camouflage-print-long-sleeve-top): Elevate your style with our Camouflage Print Long Sleeve Top. Featuring a trendy mesh design, this top is perfect for everyday wear. Shop now for a versatile wardrobe staple!
-  Updated: 2025-10-29T02:10:50Z
+  Updated: 2025-10-29T06:50:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7657,7 +7657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d1d43188-f913-4e71-b3d1-3c9401c5e232-Max-Origin.webp?v=1761589539
     Price: €35.00 EUR
 - [Ribbed Long Sleeve Top and Skirt Knit Set](https://nicosstore.store/products/ribbed-long-sleeve-top-and-skirt-knit-set): Features:Ribbed,Buttoned,Pleated Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length Length Waist Waist Stretch Amount Hip XS 18.1 29.9 13.2 26 16.5 23.6 37 0 S 18.5 31.5 13.6 26.4 16.9 25.2 38.6 0 M 18.9 33.1 14 26.8 17.3 26.8 40.2 0 L 19.5 35.4 14.4 27.2 17.9 29.1 42.5 0
-  Updated: 2025-10-28T22:17:33Z
+  Updated: 2025-10-29T08:08:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7679,7 +7679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2721f925c24345408b1822a05e32e58e-Max-Origin.webp?v=1761682083
     Price: €35.99 EUR
 - [Halter Neck Mini Dress](https://nicosstore.store/products/halter-neck-mini-dress): Features:Backless,Zipper Stretch:Slightly stretchy Body:Lined Material composition:Composition: 95% polyester，5% elastane, Lining:95% polyester，5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Hip Waist S 22 34.6 34.3 26 M 22.4 36.2 35.8 27.6 L 23 38.6 38.2 29.9 XL 35.4 40.9 40.6 32.3
-  Updated: 2025-10-28T20:10:11Z
+  Updated: 2025-10-29T08:11:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7749,7 +7749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/410f9a78cd124ddca9479ca06f670a37-Max-Origin.webp?v=1761682188
     Price: €25.99 EUR
 - [Full Size Single-Breasted Sherpa Shacket Plus Size](https://nicosstore.store/products/full-size-single-breasted-sherpa-shacket-plus-size): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 41.3 19.3 M 23.2 43.3 19.7 L 23.6 45.3 20.1 XL 24 47.2 20.5 2XL 24.4 49.2 20.9 3XL 24.8 51.2 21.3 4XL 25.2 53.1 21.7 5XL 25.6 55.1 22
-  Updated: 2025-10-28T22:17:06Z
+  Updated: 2025-10-29T08:22:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7883,7 +7883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761682287
     Price: €22.59 EUR
 - [Drawstring Christmas Element Zip Up Hooded Jacket](https://nicosstore.store/products/drawstring-christmas-element-zip-up-hooded-jacket): Features: Basic style Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Sleeve Length Bust Shoulder S 4 26 24.8 39.4 15.7 M 6/8 26.4 25.2 40.9 16.1 L 10/12 26.8 25.6 43.3 16.5 XL 14 27.2 26 45.7 16.9 2XL 16 27.6 26.4 48 17.3
-  Updated: 2025-10-28T22:16:51Z
+  Updated: 2025-10-29T08:12:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7909,7 +7909,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/614855e3-7739-4ae0-a82d-1a05d76a9da5-Max.webp?v=1761682359
     Price: €29.63 EUR
 - [Teddy Bear Ear Hooded Fleece Outerwear](https://nicosstore.store/products/teddy-bear-ear-hooded-fleece-outerwear): Features:Basic style Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 22.8 40.9 M 23.2 42.5 L 23.6 44.9 XL 24 47.2 2XL 24.4 49.6
-  Updated: 2025-10-28T22:16:44Z
+  Updated: 2025-10-29T08:14:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7955,7 +7955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d9f78f52992b40dda65ff71063eb1e9e-Max-Origin.webp?v=1761682444
     Price: €23.99 EUR
 - [Heart Fuzzy Fleece Zip-Up Outerwear](https://nicosstore.store/products/heart-fuzzy-fleece-zip-up-outerwear): Features:Pocketed Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 26.8 40.9 M 27.2 42.5 L 27.6 44.9 XL 28 47.2 2XL 28.3 49.6
-  Updated: 2025-10-28T22:16:30Z
+  Updated: 2025-10-29T08:15:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
