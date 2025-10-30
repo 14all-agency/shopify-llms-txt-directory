@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-30T04:00:40.484Z
+- Updated At: 2025-10-30T08:00:39.995Z
 
 ## Products
 
@@ -1320,7 +1320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Steam-Clothes-Hanger-Pepper-Black-5.png?v=1727659005
   Price: $39.99 NZD
 - [Brabantia Refresh Steam Clothes Hanger - Grey](https://everydayhome.co.nz/products/steam-clothes-hanger-grey): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Steam Hanger. Made for use with hand steamers, it makes steaming easier and quicker. Especially those difficult parts like the collar and shoulders! A hot item for easy-peasy steaming.
-  Updated: 2025-10-27T12:32:57Z
+  Updated: 2025-10-30T07:22:06Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1957,7 +1957,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-28cm-Grill-Pan-Essteele-9.jpg?v=1731902967
   Price: $229.99 NZD
 - [Essteele Per Salute - 28cm/4L Covered Sautéuse](https://everydayhome.co.nz/products/essteele-per-salute-28cm-4l-covered-sauteuse): Essteele Per Salute combines convenience and solution-driven features into beautiful, Italian made cookware. The Per Salute nonstick coating is reinforced with real diamond for exceptional heat conductivity and, along with the Durashield™ interior, will bring some sparkle to your kitchen. Featuring a robust 7-layer construction this cookware makes preparing healthy gourmet meals easier than ever. This large nonstick covered sautuese will create perfect results on the stovetop or the oven and is perfect for oven-to-table serving and effortless clean-up.
-  Updated: 2025-10-27T12:33:40Z
+  Updated: 2025-10-30T06:37:07Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2307,7 +2307,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-24cm-7-6L-Stockpot-Raco-6.jpg?v=1731902939
   Price: $159.99 NZD
 - [Raco Contemporary - 28cm Frypan](https://everydayhome.co.nz/products/raco-contemporary-28cm-open-french-skillet): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Family Feast Ready: The 28cm Nonstick Frypan This Frypan is perfect for larger families. Whether you're frying, sautéing, searing, or stir-frying, this pan makes it easy to cook up delicious meals for everyone.
-  Updated: 2025-10-27T12:34:08Z
+  Updated: 2025-10-30T06:37:07Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
