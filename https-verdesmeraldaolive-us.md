@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-30T12:00:40.676Z
+- Updated At: 2025-10-30T20:00:32.884Z
 
 ## Products
 
@@ -168,7 +168,7 @@
 - [Cookie Policy](https://verdesmeraldaolive.us/pages/cookie-policy): At Verde Esmeralda Olive, we want to ensure a safe and transparent browsing experience. To do this, we use cookies and similar technologies that al...
   Updated: 2025-09-30T18:03:26Z
 - [FAQ](https://verdesmeraldaolive.us/pages/faqs)
-  Updated: 2025-09-30T18:03:27Z
+  Updated: 2025-10-30T20:00:29Z
 - [Giveaway](https://verdesmeraldaolive.us/pages/giveaway): Treat yourself to a taste of excellence — win a Baby Pack with 3 premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Join now!
   Updated: 2025-09-30T18:03:28Z
 - [Giveaway Emerald Day](https://verdesmeraldaolive.us/pages/giveaway-emerald-day): Treat yourself to a taste of excellence — win a Green Emerald- 500ml premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Jo...
