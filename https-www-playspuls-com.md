@@ -6,23 +6,23 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-30T04:00:40.984Z
+- Updated At: 2025-10-30T20:00:32.876Z
 
 ## Products
 
 - [Labubu 3.0  Blind Box Big Into Energy Series - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs - PlaysPuls
-  Updated: 2025-10-29T22:19:51Z
+  Updated: 2025-10-30T16:34:10Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1.jpg?v=1761355065
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/4.png?v=1761842050
   Price: $39.00 USD
 - [Labubu 3.0  Blind Box Whole Set 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes - PlaysPuls
-  Updated: 2025-10-30T01:19:49Z
+  Updated: 2025-10-30T16:35:02Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1122.png?v=1761355102
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3.png?v=1761842102
   Price: $192.00 USD
 - [Labubu 3.0 Monsters Big into Energy Series Secret Version - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-monsters-big-into-energy-series-id-secret-version): Labubu is a collectible figure from The Monsters series.Made of high-quality PVC, this charming character adds personality to any shelf and makes a perfect gift or collectible item. Size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire - PlaysPuls
   Updated: 2025-10-29T21:58:34Z
@@ -53,18 +53,18 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/33_8c902d68-5592-49ec-bbb6-08f12a428e9e.jpg?v=1761355260
   Price: $46.99 USD
 - [Labubu Monster - Exciting Macaron Vinyl Face Mystery 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-monster-exciting-macaron-vinyl-face-mystery-6-boxes): The Exciting Macaron Blind Box series brings pastel character art and food-themed storytelling to your figure collection. Styled after dessert flavors and dressed in bunny-hooded outfits, these figures are designed for display collectors, pastel enthusiasts, and art toy fans. From Lychee Berry to Sea Salt Coconut, every figure combines confectionery concepts with creative styling. Crafted from ABS and PVC, each character offers sculpted details and expressive faces printed on glossy vinyl. - PlaysPuls
-  Updated: 2025-10-25T08:29:39Z
+  Updated: 2025-10-30T16:57:59Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3_8b776c10-68a1-4f1d-9ad6-14063f681a2f.jpg?v=1761355286
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_bf464483-610d-4669-82f9-7e557c0b639b.png?v=1761843456
   Price: $199.99 USD
 - [Labubu Monster -Vinyl face Mysterious Single Blind box - PlaysPuls](https://www.playspuls.com/products/labubu-monster-an-exciting-macaron-vinyl-face-mysterious-single-blind-box): The Exciting Macaron Blind Box series brings pastel character art and food-themed storytelling to your figure collection. Styled after dessert flavors and dressed in bunny-hooded outfits, these figures are designed for display collectors, pastel enthusiasts, and art toy fans. From Lychee Berry to Sea Salt Coconut, every figure combines confectionery concepts with creative styling. Crafted from ABS and PVC, each character offers sculpted details and expressive faces printed on glossy vinyl. - PlaysPuls
-  Updated: 2025-10-29T19:23:11Z
+  Updated: 2025-10-30T16:58:37Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/2_40c0bff6-aa7e-413f-babe-d9eb9c6f48a1.jpg?v=1761642222
+  Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/2.png?v=1761843495
   Price: $39.99 USD
 - [Classic Kettle Insulated Water Bottle Stainless Steel Reusable Triple Insulated 16 oz - PlaysPuls](https://www.playspuls.com/products/classic-kettle-insulated-water-bottle-stainless-steel-reusable-triple-insulated-16-oz): About this itemCanteen Water Bottle: Stay stylishly hydrated with the classic canteen tumbler, the original stainless steel tumbler that keeps drinks cold for 25 hours and hot for 17Hydration On-the-Go: Designed with easy-grip flat sides and a non-slip bottom, this travel friendly tumbler is perfect for work, travel, and everyday adventuresScrew-On Cap: The leak-proof, screw-on lid on this spill proof tumbler helps maintain perfect temperature and allows for smooth, controlled sipping anywhereA Chill Gift: This cooler-ready drinkware keeps beverages icy cold during any warm-weather adventure - PlaysPuls
   Updated: 2025-10-28T21:02:57Z
@@ -102,7 +102,7 @@
 ## Collections
 
 - [Toy Doll - PlaysPuls](https://www.playspuls.com/collections/figurine): - PlaysPuls
-  Updated: 2025-10-29T09:38:42Z
+  Updated: 2025-10-30T11:22:12Z
   Total Products: 7
 - [Mug - PlaysPuls](https://www.playspuls.com/collections/mug): - PlaysPuls
   Updated: 2025-10-29T09:40:33Z
