@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-29T20:00:59.361Z
+- Updated At: 2025-10-30T00:00:36.848Z
 
 ## Products
 
@@ -2198,7 +2198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Static-Eliminator-236-ml-_288-oz_29-GT19008.jpg?v=1737644639
   Price: €12.95 EUR
 - [Gliptone Pro Buff Cleaner Wax](https://glasspolishshop.com/products/gliptone-pro-buff-cleaner-wax-475-ml-16-oz): Gliptone Pro Buff Cleaner Wax: Cleans and waxes in one step. For hand and machine use. Removes fine scratches and oxidation.
-  Updated: 2025-10-23T15:28:31Z
+  Updated: 2025-10-29T20:40:40Z
   Vendor: Gliptone
   Product Type: 
   Availability: Available
