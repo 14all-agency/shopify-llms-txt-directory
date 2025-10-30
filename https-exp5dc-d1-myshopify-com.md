@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-30T04:00:54.710Z
+- Updated At: 2025-10-30T16:00:34.643Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/a4e79d3de75748bf924f328f9d0bd8ba-Max-Origin.webp?v=1759898259
     Price: $57.60 USD
 - [Haptics Mock Neck Smocked Waist Velvet Tiered Dress](https://exp5dc-d1.myshopify.com/products/haptics-mock-neck-smocked-waist-velvet-tiered-dress): Haptics Mock Neck Smocked Waist Velvet Tiered Dress: Plush velvet fabric & smocked waist for a flattering fit. Machine washable for easy care. Buy today!
-  Updated: 2025-10-28T03:49:37Z
+  Updated: 2025-10-30T15:02:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
     Price: $21.00 USD
 - [BOMBOM Textured Balloon Sleeve Top](https://exp5dc-d1.myshopify.com/products/bombom-textured-balloon-sleeve-top): BOMBOM Textured Balloon Sleeve Top: Softly knit fabric & trendy balloon sleeves. Machine washable for easy care. Buy today!
-  Updated: 2025-10-28T03:50:31Z
+  Updated: 2025-10-30T15:02:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -249,7 +249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/d0a15258-fa45-4c13-88b9-0574c90fb975-Max.webp?v=1759899432
     Price: $36.50 USD
   - [Magenta / L](https://exp5dc-d1.myshopify.com/products/bombom-textured-balloon-sleeve-top?variant=50143286526199)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/d0a15258-fa45-4c13-88b9-0574c90fb975-Max.webp?v=1759899432
     Price: $36.50 USD
   - [Magenta / XL](https://exp5dc-d1.myshopify.com/products/bombom-textured-balloon-sleeve-top?variant=50143286558967)
