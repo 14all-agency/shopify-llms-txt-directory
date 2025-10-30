@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-29T16:00:41.184Z
+- Updated At: 2025-10-30T08:00:56.884Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4667,7 +4667,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_4.webp?v=1750348783
     Price: £18.50 GBP
 - [Stability & Protection Bracelet for Men](https://crystalshealing.co.uk/products/stability-protection-bracelet-for-men): Build resilience and protect your energy with the Stability & Protection Bracelet. Crafted from powerful Hematite and Matte Black Onyx. Designed for men seeking inner balance and mental strength, this bracelet features bold 8 mm beads and a polished hematite cylinder centerpiece that grounds the design in both form and function. The matte finish of the Black Onyx adds understated elegance, while Hematite enhances focus, reduces stress, and supports mental clarity. Key Features: Beads: 8 mm Matte Black Onyx & Hematite Centerpiece: Polished Hematite cylinder – sleek and symbolic Design: Stretch cord for comfort and daily wear Style: Masculine, minimalist, and grounded Pre-cleansed and energetically prepared Crystal Benefits: Hematite: Grounds energy, boosts focus, reduces anxiety and distraction Matte Black Onyx: Strengthens emotional control and shields from negativity This Stability & Protection Bracelet for men is ideal for high-pressure environments, meditation, or anyone needing a reliable energy anchor during daily life. Perfect for: professionals, leaders, students, or anyone working under mental strain.
-  Updated: 2025-10-23T14:59:23Z
+  Updated: 2025-10-29T21:49:51Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4732,28 +4732,28 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_22.webp?v=1754063213
   Price: £12.80 GBP
 - [Massage Tool Set – Facial & Body Anti-Aging Tools](https://crystalshealing.co.uk/products/massage-tool-set): Revitalize your skin and body with this complete massage tool set. Featuring 7 multifunctional beauty tools designed to improve circulation, tone facial muscles
-  Updated: 2025-10-29T11:35:24Z
+  Updated: 2025-10-30T02:07:15Z
   Vendor: Crystals Healing
   Product Type: Massage Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_27.webp?v=1752568421
   Price: £17.80 GBP
 - [Black Obsidian Necklace – Protective Crystal on Wax Cord](https://crystalshealing.co.uk/products/black-obsidian-necklace-protective-crystal): Embrace balance, protection, and timeless simplicity with this handcrafted Black Obsidian Necklace. Featuring a polished oval black Obsidian pendant strung on a
-  Updated: 2025-10-29T14:55:09Z
+  Updated: 2025-10-30T00:20:48Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_32.webp?v=1752664474
   Price: £18.00 GBP
 - [Tiger Eye Tumbled Stone – Sacred Imperfection Edition](https://crystalshealing.co.uk/products/tiger-eye-tumbled-stone-sacred-imperfection-edition): Tiger Eye Tumbled Stone – Sacred Imperfection Edition Looking for a grounding crystal that supports confidence, clarity and protection? This ethically sourced T
-  Updated: 2025-10-29T11:12:42Z
+  Updated: 2025-10-29T23:30:57Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_4_1_-min_3e9f873a-e451-4bdd-97fc-592b381968c2_2_1.jpg?v=1754661030
   Price: £0.99 GBP
 - [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant
-  Updated: 2025-10-29T10:16:29Z
+  Updated: 2025-10-29T23:22:19Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4775,21 +4775,21 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_37_1.jpg?v=1754660496
     Price: £5.80 GBP
 - [Rose Quartz Wand – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-wand-sacred-imperfections): Rose Quartz Wand – Sacred Imperfections Edition Self-Love • Emotional Healing • Heart-Centered Energy What makes it unique: This natural rose quartz wand may sh
-  Updated: 2025-10-29T10:13:08Z
+  Updated: 2025-10-30T00:04:14Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
 - [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfec
-  Updated: 2025-10-29T10:08:05Z
+  Updated: 2025-10-30T03:31:53Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Etsy-PhotoRoom_3_81a7eed0-2a79-4967-8b58-a858fcc58d79.jpg?v=1754663688
   Price: £7.80 GBP
 - [Energy Cleansing Kit for Home & Spirit | Crystals Healing](https://crystalshealing.co.uk/products/energy-cleansing-kit-white-sage-palo-santo-selenite): Energy Cleansing Kit with white sage, palo santo, selenite & beeswax candle. Cleanse your home energy, restore inner calm and invite harmony to your space.
-  Updated: 2025-10-29T10:06:16Z
+  Updated: 2025-10-29T22:48:10Z
   Vendor: Crystals Healing
   Product Type: Smudge
   Availability: Available
