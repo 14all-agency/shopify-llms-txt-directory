@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-10-28T16:00:37.732Z
+- Updated At: 2025-10-30T08:00:41.033Z
 
 ## Products
 
@@ -48,8 +48,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main.jpg?v=1760949920
   Price: $885.95 USD
-- [The Compare at Price Snowboard](https://rankz-test-2.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2025-10-27T19:18:28Z
+- [High-Performance Snowboard for Ultimate Winter Adventures by Rankz](https://rankz-test-2.myshopify.com/products/the-compare-at-price-snowboard)
+  Updated: 2025-10-29T05:14:06Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
@@ -162,11 +162,18 @@
   Updated: 2025-10-27T20:31:36Z
   Total Products: 1
 - [Automated Collection](https://rankz-test-2.myshopify.com/collections/automated-collection)
-  Updated: 2025-10-20T08:45:49Z
+  Updated: 2025-10-28T16:46:10Z
   Total Products: 8
 - [Hydrogen](https://rankz-test-2.myshopify.com/collections/hydrogen)
   Updated: 2025-10-27T18:37:04Z
   Total Products: 3
+
+## Blogs
+
+- [News](https://rankz-test-2.myshopify.com/blogs/news)
+  - [Blog post](https://rankz-test-2.myshopify.com/blogs/news/blog-post)
+    Updated: 2025-10-28T16:50:11Z
+    Author: Aleksandar Petrushev
 
 ## Store Pages
 
