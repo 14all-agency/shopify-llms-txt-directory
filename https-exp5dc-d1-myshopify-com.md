@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-29T20:00:38.907Z
+- Updated At: 2025-10-30T00:01:12.671Z
 
 ## Products
 
@@ -774,7 +774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/b96b72de-c6b4-45bc-baa0-f5202dee6690-Max.webp?v=1759909179
     Price: $42.34 USD
 - [Beast Fashion PU Leather Block Heel Boots with Back Zippers](https://exp5dc-d1.myshopify.com/products/beast-fashion-pu-leather-block-heel-boots-with-back-zippers): Beast Fashion PU Leather Block Heel Boots with Back Zippers: Sleek PU leather & stable mid block heel. Convenient back zippers for easy wear. Buy today!
-  Updated: 2025-10-28T03:52:57Z
+  Updated: 2025-10-29T20:09:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
