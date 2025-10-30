@@ -9,68 +9,68 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-30T00:00:32.602Z
+- Updated At: 2025-10-30T08:00:57.864Z
 
 ## Products
 
 - [Icelandic Volcano Face & Body Scrub | Volcanic Sand Exfoliator for Glowing Skin](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Reveal smoother, radiant skin with the Icelandic Volcano Face & Body Scrub, enriched with volcanic sand, fruit AHAs, and antioxidant-rich berry extracts. Gently exfoliates dead cells, refines texture, and boosts glow. Vegan, natural formula.
-  Updated: 2025-10-28T18:39:38Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/icelandic-volcano-face-body-scrub-1968742.png?v=1757489617
   Price: $35.00 USD
 - [Botanic Blend Moisturizer: Hydrate Like a Pro for Glowing Skin](https://themineralskin.com/products/botanic-blend-moisturizer-1): Discover the ultimate hydration with our Botanic Blend Moisturizer. Infused with natural ingredients, it nourishes and revitalizes your skin for a healthy glow.
-  Updated: 2025-10-28T18:39:27Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-blend-moisturizer-3172770.png?v=1757489620
   Price: $37.00 USD
 - [Hair and Body Wash - Clean Harder, Feel Stronger with Botanic Formula](https://themineralskin.com/products/hair-body-botanic-wash): Experience the ultimate refreshment with our hair and body wash. Our botanic formula cleans harder and leaves you feeling stronger and revitalized. Perfect for daily use!
-  Updated: 2025-10-28T18:39:10Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/hair-body-botanic-wash-1266704.png?v=1757489623
   Price: $36.00 USD
 - [Botanic Mix Eye Cream | Natural Eye Care for Dark Circles & Puffiness](https://themineralskin.com/products/botanic-mix-eye-cream): Refresh tired eyes with Botanic Mix Eye Cream, a lightweight, fast-absorbing formula enriched with 1% CBD and multi-molecular hyaluronic acid to reduce dark circles, puffiness & fine lines. 100% natural & Ecocert certified.
-  Updated: 2025-10-28T18:38:51Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-mix-eye-cream-4658680.png?v=1757489618
   Price: $31.00 USD
 - [Botanic Purge Foam | Deep-Cleansing Mousse for Face & Pores](https://themineralskin.com/products/botanic-purge-foam): Purify your skin with Botanic Purge Foam, a fast-acting mousse cleanser that dissolves oil, removes impurities, unclogs pores, and leaves skin hydrated. 99% natural, ECOCERT certified, gentle yet effective for all skin types.
-  Updated: 2025-10-29T06:05:40Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-purge-foam-8322755.png?v=1757489620
   Price: $35.00 USD
 - [Caffeine Blend Infuser | Energizing Gel Booster for Skin & Eyes](https://themineralskin.com/products/caffeine-blend-infuser): Revitalize tired skin with the Caffeine Blend Infuser, a lightweight, oil-free gel booster enriched with 1% caffeine to reduce puffiness, brighten dark circles, and refresh facial skin naturally. 100% natural, vegan, Ecocert certified.
-  Updated: 2025-10-28T18:38:00Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/caffeine-blend-infuser-3176952.png?v=1757489620
   Price: $35.00 USD
 - [Botanic Blend Elixir | Botanical Face Oil Serum for Radiant Skin](https://themineralskin.com/products/botanic-blend-elixir): Illuminate your skin with Botanic Blend Elixir, a luxurious botanical oil-serum blend with nourishing plant oils and antioxidants to deeply hydrate, restore glow, and balance skin tone. Ideal for daily facial care.
-  Updated: 2025-10-28T18:37:39Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
 - [Botanic Age Regression Cream | Natural Anti-Aging Face Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Discover the Botanic Age Regression Cream, a 100% natural, vegan, Ecocert-certified anti-aging face cream formulated with multi-molecular hyaluronic acid, marine actives & botanical antioxidants. Smooth wrinkles, boost hydration, and promote firmer, glowing skin.
-  Updated: 2025-10-28T18:36:53Z
+  Updated: 2025-10-30T05:14:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-age-regression-cream-8204114.png?v=1757489617
   Price: $39.50 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
-  Updated: 2025-10-21T18:41:03Z
+  Updated: 2025-10-30T05:14:41Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -80,25 +80,25 @@
 ## Collections
 
 - [Best Selling Natural Skincare | The Mineral Skin](https://themineralskin.com/collections/best-sellers): Discover The Mineral Skin’s best selling skincare products made with natural, effective ingredients. Shop customer favorites for radiant, youthful, and healthy skin — loved by thousands.
-  Updated: 2025-10-29T11:29:59Z
+  Updated: 2025-10-30T05:14:40Z
   Total Products: 6
 - [Daily Essentials](https://themineralskin.com/collections/daily-essentials)
-  Updated: 2025-10-07T11:25:35Z
+  Updated: 2025-10-30T06:50:03Z
   Total Products: 3
 - [Age & Recovery Skincare | Anti-Aging Natural Care – The Mineral Skin](https://themineralskin.com/collections/age-recovery): Revitalize your skin with The Mineral Skin’s Age & Recovery collection. Natural anti-aging formulas that reduce fine lines, restore firmness, and promote youthful radiance.
-  Updated: 2025-10-29T11:29:59Z
+  Updated: 2025-10-30T05:14:40Z
   Total Products: 4
 - [Beard & Shave Care | Natural Grooming Products – The Mineral Skin](https://themineralskin.com/collections/beard-shave-care): Shop premium beard and shave care essentials from The Mineral Skin. Natural grooming products designed to nourish, protect, and deliver a smooth, confident shave.
-  Updated: 2025-10-03T14:30:25Z
+  Updated: 2025-10-30T07:02:57Z
   Total Products: 2
 - [Deep Clean & Energy Skincare | Natural Face Care – The Mineral Skin](https://themineralskin.com/collections/deep-clean-energy): Refresh and energize your skin with The Mineral Skin’s Deep Clean & Energy collection. Natural formulas that deeply cleanse, revive, and keep your skin looking healthy.
-  Updated: 2025-10-29T11:29:59Z
+  Updated: 2025-10-30T06:35:57Z
   Total Products: 4
 - [Botanic Natural Collection: Discover the Beauty of Nature's Wonders](https://themineralskin.com/collections/the-botanic™-collection): Discover the Botanic Natural Collection, where nature's beauty comes alive. Explore our unique range of eco-friendly products designed to enhance your natural lifestyle. Shop now!
-  Updated: 2025-10-29T11:29:59Z
+  Updated: 2025-10-30T05:14:40Z
   Total Products: 5
 - [Best Selling Products](https://themineralskin.com/collections/best-selling-products)
-  Updated: 2025-10-29T11:29:59Z
+  Updated: 2025-10-30T06:43:38Z
   Total Products: 9
 
 ## Blogs
