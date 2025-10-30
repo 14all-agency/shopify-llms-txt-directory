@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-29T12:00:34.166Z
+- Updated At: 2025-10-30T04:00:35.247Z
 
 ## Products
 
@@ -1811,6 +1811,118 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
     Price: $29.99 USD
+- [Love is Lost Women's Bomber Jacket | All-Over Print | Lachrymal Gems](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36): Shop the Love is Lost Women's Bomber Jacket with exclusive all-over print design. Premium quality, edgy style, perfect fit. Stand out with Lachrymal Gems.
+  Updated: 2025-10-29T22:29:25Z
+  Vendor: InterestPrint
+  Product Type: Jackets & Blazers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-bomber-jacket-mockup-2.png?v=1761773064
+  - [XS](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991068917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+  - [S](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991101685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+  - [M](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991134453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+  - [L](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991167221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+  - [XL](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991199989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+  - [2XL](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991232757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Price: $69.99 USD
+- [Lucifers Fall Men's Canvas Slip-On Shoes | All-Over Print | Lachrymal Gems](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206): Shop Lucifers Fall Men's Canvas Slip-On Shoes with bold all-over print. Easy slip-on design, premium comfort, unique style. Stand out with Lachrymal Gems.
+  Updated: 2025-10-30T00:53:27Z
+  Vendor: InterestPrint
+  Product Type: Slip-Ons
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/image_224895e6-571b-40b8-92d1-4ec778ac20b5.png?v=1761773874
+  - [US3.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993493749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US4](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993526517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US4.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993559285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993592053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US5.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993624821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US6](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993657589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US6.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993690357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US7](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993723125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US7.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993755893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US8](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993788661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US8.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993821429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US9](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993854197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US9.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993886965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US10](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993919733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US10.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993952501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US11](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993985269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US11.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994018037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US12](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994050805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
+  - [US13](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994083573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Price: $74.99 USD
 
 ## Collections
 
@@ -1818,14 +1930,14 @@
   Updated: 2025-10-27T03:16:04Z
   Total Products: 20
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-28T06:22:55Z
-  Total Products: 18
+  Updated: 2025-10-29T21:31:46Z
+  Total Products: 19
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-27T03:16:04Z
-  Total Products: 20
+  Updated: 2025-10-29T21:37:26Z
+  Total Products: 21
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-26T18:09:56Z
-  Total Products: 5
+  Updated: 2025-10-29T21:37:26Z
+  Total Products: 6
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
   Updated: 2025-10-28T06:22:56Z
   Total Products: 5
@@ -1836,8 +1948,8 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-28T06:22:56Z
-  Total Products: 56
+  Updated: 2025-10-29T21:37:27Z
+  Total Products: 58
 
 ## Blogs
 
