@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-30T00:01:12.671Z
+- Updated At: 2025-10-30T04:00:54.710Z
 
 ## Products
 
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2ad7cab9005d4b3a85692fbcf0b2b37d-Max-Origin.webp?v=1759898173
     Price: $57.60 USD
 - [Mittoshop Satin Side Cutout Detail Mini Dress](https://exp5dc-d1.myshopify.com/products/mittoshop-satin-side-cutout-detail-mini-dress-1): Mittoshop Satin Side Cutout Detail Mini Dress: luxurious satin fabric & eye-catching side cutouts. Elevate your style with this chic mini. Buy today!
-  Updated: 2025-10-28T03:49:17Z
+  Updated: 2025-10-30T02:41:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/27c4ac19-b499-4b31-bc7c-adf62169ddc9-Max.webp?v=1759898343
     Price: $65.02 USD
 - [Aemi + Co Ruffled Hem Square Neck Balloon Sleeve Mini Dress](https://exp5dc-d1.myshopify.com/products/aemi-co-ruffled-hem-square-neck-balloon-sleeve-mini-dress): Aemi + Co Ruffled Hem Square Neck Balloon Sleeve Mini Dress: playful ruffled hem & square neckline with balloon sleeves. Machine washable & shipped from USA. Buy today!
-  Updated: 2025-10-28T03:49:14Z
+  Updated: 2025-10-30T02:32:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/fd3b76d2-2cc7-4501-b79c-09378cf4510b-Max.webp?v=1759898496
     Price: $52.68 USD
 - [And The Why Back Lace Button Down Detail Bell Sleeve Dress](https://exp5dc-d1.myshopify.com/products/and-the-why-back-lace-button-down-detail-bell-sleeve-dress): And The Why Back Lace Button Down Detail Bell Sleeve Dress: Romantic lace back detail & dramatic bell sleeves. Slightly stretchy for comfort. Buy today!
-  Updated: 2025-10-28T03:49:18Z
+  Updated: 2025-10-30T02:33:52Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/0077eda866094fc78a511165f07ade40-Max-Origin.webp?v=1759898725
     Price: $28.38 USD
 - [Annie Wear Tie Back Plaid Round Neck Mini Dress](https://exp5dc-d1.myshopify.com/products/annie-wear-tie-back-plaid-round-neck-mini-dress): Annie Wear Tie Back Plaid Round Neck Mini Dress: adjustable tie-back for a customizable fit & classic plaid pattern for timeless style. Buy today!
-  Updated: 2025-10-28T03:51:07Z
+  Updated: 2025-10-30T02:37:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1366,7 +1366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/e3d9b500-8a8d-4f23-98dd-2cf2e132009d-Max-Origin.webp?v=1761539527
   Price: $45.16 USD
 - [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets): Zenana Long Sleeve Flare Dress With Pockets: flattering fit-and-flare silhouette & practical long sleeves with pockets. Versatile style for any occasion. Buy today!
-  Updated: 2025-10-27T16:36:19Z
+  Updated: 2025-10-30T02:42:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1388,7 +1388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
     Price: $21.66 USD
 - [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1): Zenana Long Sleeve Flare Dress With Pockets: Soft, breathable fabric & flattering A-line silhouette. Convenient pockets add function. Buy today!
-  Updated: 2025-10-27T16:36:42Z
+  Updated: 2025-10-30T02:44:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
