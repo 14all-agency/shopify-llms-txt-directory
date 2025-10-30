@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-30T04:00:43.561Z
+- Updated At: 2025-10-30T16:00:36.480Z
 
 ## Products
 
