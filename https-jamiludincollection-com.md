@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2025-08-17T15:09:52Z
 - Contact Email: jamiludinjamil706@gmail.com
-- Updated At: 2025-10-30T04:00:45.159Z
+- Updated At: 2025-10-30T08:00:46.135Z
 
 ## Products
 
@@ -17828,7 +17828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/127b9d07-3135-4656-949c-7d2396c14662_810x810_d393ad51-d956-4588-92bf-ae098fc6de62.jpg?v=1761741722
     Price: $3.28 USD
 - [Door Draft Stoppers - Under Door Noise Blocker Sound Proof Seal Guard](https://jamiludincollection.com/products/1pc-door-draft-stoppers-under-door-noise-blocker-sound-proof-draft-guard-for-bottom-of-doors-seal-adjustable-bottom-of-doors-seal-gap-reduce-wind-light-cold-air-and-noise-door-draft-stoppers-for-bottom-of-door): Door draft stoppers for bottom of doors. Under door noise blocker, sound proof draft guard. Adjustable seal to reduce wind, light, cold air, and noise. Energy saving home essential.
-  Updated: 2025-10-29T16:21:02Z
+  Updated: 2025-10-30T05:12:14Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -18120,7 +18120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/85324d4b-bfe4-4251-a36f-225b68b2b40d_800x800_df809cf7-4ae5-4cbc-b294-55d2f9cbb5d1.jpg?v=1761741724
     Price: $5.46 USD
 - [2025 New Fashion Color Block Small Shoulder Bag Crossbody Handbag Women](https://jamiludincollection.com/products/2025-new-fashion-color-block-small-size-womens-shoulder-bag-crossbody-handbag): 2025 new fashion color block small size women's shoulder bag. Crossbody handbag with trendy design. Perfect for daily use, compact and stylish. Modern women's accessory.
-  Updated: 2025-10-29T15:36:22Z
+  Updated: 2025-10-30T04:38:19Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -18414,7 +18414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/e9ff542f87354c11bdfaf1f7224acc71.jpg?v=1761741729
     Price: $14.38 USD
 - [Vibrant Women's Floral Flip Flops - Soft Non-Slip Beach Summer Sandals](https://jamiludincollection.com/products/vibrant-womens-floral-flip-flops-soft-breathable-non-slip-open-toe-thong-slides-with-solid-color-design-retro-casual-style-perfect-for-outdoor-activities-beach-pool-and-summer-vacation): Vibrant women's floral flip flops with soft, breathable, non-slip design. Open-toe thong slides with solid color. Retro casual style perfect for outdoor, beach, pool, summer vacation.
-  Updated: 2025-10-29T13:51:56Z
+  Updated: 2025-10-30T04:38:22Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -18564,7 +18564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/bfc138db-d525-46cb-9f28-6e55212ec442_800x800_ad3a5a78-ce42-4eb2-b4ec-b5c5e68de99f.jpg?v=1761741729
     Price: $14.86 USD
 - [Women's Office Work Shirt - Solid Button Front Turn Down Collar Casual](https://jamiludincollection.com/products/womens-office-work-shirt-solid-button-front-shirt-casual-turn-down-collar-office-work-shirt-womens-clothing): Women's solid button front office work shirt. Casual turn down collar design. Professional women's clothing perfect for office, business casual, daily wear. Comfortable and stylish.
-  Updated: 2025-10-29T13:52:43Z
+  Updated: 2025-10-30T06:10:08Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -19245,7 +19245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/11d940b9-60d0-4846-aca2-adaa8b19f841.png?v=1761741834
     Price: $8.90 USD
 - [Ladies Square Roman Numeral Luxury Vintage Fashion Quartz Watch](https://jamiludincollection.com/products/ladies-square-roman-numeral-luxury-vintage-fashion-quartz-watch-fancy-women-watches-jewelry-sophisticated-and-stylish-women-watch): Ladies square Roman numeral luxury vintage fashion quartz watch. Fancy women watches jewelry. Sophisticated and stylish women watch. Perfect accessory for elegant look.
-  Updated: 2025-10-29T13:58:16Z
+  Updated: 2025-10-30T04:38:31Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -19398,7 +19398,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/c348e939c5ed07427bbdc0091403d127.jpg?v=1761741835
     Price: $15.73 USD
 - [1pc 4-in-1 Multi-Purpose Can Opener - Non-Slip Grip Beer Bottle Opener](https://jamiludincollection.com/products/1pc-4-in-1-multi-purpose-can-opener-with-non-slip-grip-perfect-for-beer-bottles-and-home-kitchen-use): 4-in-1 multi-purpose can opener with non-slip grip. Perfect for beer bottles and home kitchen use. Versatile kitchen tool, easy to use. Essential home gadget for opening cans and bottles.
-  Updated: 2025-10-29T14:01:40Z
+  Updated: 2025-10-30T04:04:50Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -20341,7 +20341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/25dd7ac5-1c07-42cb-a087-c8b5edadf621.png?v=1761741842
     Price: $7.95 USD
 - [Multi-Color Foldable Mini Pocket Umbrella - Lightweight Portable Travel](https://jamiludincollection.com/products/popular-multi-color-foldable-mini-pocket-umbrella-high-quality-travel-umbrella-lightweight-portable-umbrella-for-christmas-valentines-day-mothers-day-womens-day-ramadan-and-birthday-gifts): Popular multi-color foldable mini pocket umbrella. High-quality lightweight portable travel umbrella. Perfect gift for Christmas, Valentine's Day, Mother's Day, birthdays. Compact and durable.
-  Updated: 2025-10-29T14:11:42Z
+  Updated: 2025-10-30T06:25:08Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -20506,7 +20506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/51d29a31-e956-42d0-b9c2-e014e5173e19_800x800_ddf05eb1-7683-4c4b-8a98-3291bdb0658d.jpg?v=1761741912
     Price: $4.03 USD
 - [Women's Sexy V-Neck Bodycon Mini Dress - Red Party Night Out Summer](https://jamiludincollection.com/products/womens-sexy-v-neck-spaghetti-strap-bodycon-mini-dress-stretchy-semi-sheer-cross-front-summer-dress-machine-washable-red-party-night-out-dress-for-spring-summer-evening-wear-ruched-bodice-highelasticity-fabric): Women's sexy V-neck spaghetti strap bodycon mini dress. Stretchy semi-sheer cross front summer dress. Machine washable red party and night out dress. Ruched bodice, high elasticity fabric.
-  Updated: 2025-10-29T16:09:24Z
+  Updated: 2025-10-30T05:17:18Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -21080,14 +21080,14 @@
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/dc84236998fabda9d01fa9ff842e28db.jpg?v=1761741915
   Price: $2.70 USD
 - [Printed Splicing Crew Neck Dress - Elegant Short Sleeve Pleated Maxi](https://jamiludincollection.com/products/printed-splicing-crew-neck-dress-elegant-short-sleeve-slim-waist-pleated-maxi-dress-womens-clothing-for-elegant-dressing): Printed splicing crew neck dress. Elegant short sleeve slim waist pleated maxi dress. Women's clothing for elegant dressing. Perfect for formal and casual occasions.
-  Updated: 2025-10-29T14:21:32Z
+  Updated: 2025-10-30T05:15:12Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/f2097256e1106485d51a14a359d8637d.jpg?v=1761741915
   Price: $14.93 USD
 - [7pcs Combination European American Underwear Women's Thong Set](https://jamiludincollection.com/products/7pcs-combination-european-and-american-underwear-womens-thong): 7pcs combination European and American style underwear women's thong set. Comfortable lingerie collection. Multi-pack intimate wear for daily use. Variety pack women's underwear.
-  Updated: 2025-10-29T14:22:03Z
+  Updated: 2025-10-30T06:42:03Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -21259,7 +21259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/1eaee33f6e7dd1e8e6c6e1ca1e97bb84.jpg?v=1761741918
     Price: $21.25 USD
 - [Autumn Winter Cherry Pajamas for Women - Thin Sleepwear Suspender Set](https://jamiludincollection.com/products/autumn-and-winter-printed-little-cherry-pajamas-for-women-thin-sleepwear-with-suspender-shorts-and-suspender-skirt-set): Autumn and winter printed little cherry pajamas for women. Thin sleepwear with suspender shorts and suspender skirt set. Cute and comfortable nightwear. Perfect loungewear.
-  Updated: 2025-10-29T14:38:49Z
+  Updated: 2025-10-30T05:15:13Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -21659,7 +21659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/9da4b6f0-41fa-4bf9-b04c-e6518105785f.jpg?v=1761741923
     Price: $90.53 USD
 - [Women's Cartoon Cute Cow House Slippers - Warm Plush Fuzzy Indoor Slides](https://jamiludincollection.com/products/womens-cartoon-cute-cow-house-slippers-warm-plush-lined-closed-toe-fuzzy-home-slides-womens-comfy-indoor-shoes): Women's cartoon cute cow house slippers. Warm plush lined closed toe fuzzy home slides. Comfy indoor shoes perfect for winter. Soft and cozy women's slippers.
-  Updated: 2025-10-29T14:38:50Z
+  Updated: 2025-10-30T05:12:26Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -22052,7 +22052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/89d29a1087a8a590407a4039157db88c_ffc5c32a3d1f.jpg?v=1761742016
     Price: $21.76 USD
 - [Automatic Electric Pencil Sharpener - Auto-Stop Desktop Office School](https://jamiludincollection.com/products/automatic-electric-pencil-sharpener-with-auto-stop-lead-breakage-desktop-sharpener-for-office-no-needed-compact-design-sharpens-pencils-in-seconds-pencil-sharpener-electric-supplies-sleek-style-waste-container): Automatic electric pencil sharpener with auto-stop and lead breakage protection. Desktop sharpener for office and school. No manual needed, compact design. Sharpens pencils in seconds with waste container.
-  Updated: 2025-10-29T15:47:22Z
+  Updated: 2025-10-30T05:15:16Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -23641,7 +23641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/7155725d35b7484ddbbd9560874e9934.jpg?v=1761742086
     Price: $8.99 USD
 - [Warm Padded Dog Vest with Harness - Red Coat for Small Medium Dogs](https://jamiludincollection.com/products/warm-padded-dog-vest-with-harness-for-small-and-medium-dogs-red-coat-for-extra-comfort-and-security-christmas-gift): Warm padded dog vest with harness for small and medium dogs. Red coat for extra comfort and security. Perfect Christmas gift for pets. Cozy winter dog clothing.
-  Updated: 2025-10-30T02:17:03Z
+  Updated: 2025-10-30T05:17:32Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -24132,7 +24132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/fbbfa9c6e0c5b0a4c0b51e3552ca92d2_f2d7e245dd21.jpg?v=1761742089
     Price: $23.52 USD
 - [Sexy Lace Low Rise Underwear - T-back Tanga Panties G-String Thongs Women](https://jamiludincollection.com/products/sexy-lace-low-rise-underwear-for-ladies-t-back-tanga-panties-g-string-thongs-for-women): Sexy lace low rise underwear for ladies. T-back tanga panties, G-string thongs for women. Comfortable, feminine lingerie. Perfect intimate wear for daily use.
-  Updated: 2025-10-30T02:15:36Z
+  Updated: 2025-10-30T06:10:42Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -24218,7 +24218,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/d2f827f9540f4a5000351f7b37d1f876.jpg?v=1761742089
     Price: $3.84 USD
 - [Blue Two-Way Pump Balloon Accessory - Party Decorating Tool Halloween Christmas](https://jamiludincollection.com/products/1pc-blue-high-quality-two-way-pump-balloon-accessory-time-saving-and-convenient-ideal-party-decorating-partner-halloween-thanksgiving-and-christmas-gift-easter-gift-easter-room-decor): Blue high quality two-way pump balloon accessory. Time-saving and convenient, ideal party decorating partner. Perfect for Halloween, Thanksgiving, Christmas, Easter gift and room decor.
-  Updated: 2025-10-30T02:15:17Z
+  Updated: 2025-10-30T05:17:32Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -24724,7 +24724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/a5422d47-97f4-4fe5-9819-a151fea9e2ca.png?v=1761742229
     Price: $9.81 USD
 - [Effortless Pet Grooming - Labor-Saving Pet Nail Clipper for Dogs & Cats](https://jamiludincollection.com/products/effortless-pet-grooming-the-labor-saving-pet-nail-clipper-for-dogs-cats): Effortless pet grooming with labor-saving pet nail clipper for dogs and cats. Easy to use, safe, sharp blades. Professional pet nail trimmer for home grooming.
-  Updated: 2025-10-29T15:52:13Z
+  Updated: 2025-10-30T06:33:33Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -24738,7 +24738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/1664796829792-8f0393cc051843f2bf62483f245edc9d-goods.jpg?v=1761742229
     Price: $4.32 USD
 - [Stylish Leopard Print Earphone Sleeve - Hanging Chain for Airpod 1/2](https://jamiludincollection.com/products/perfect-leopard-print-earphone-sleeve-stylish-leopard-print-earphone-sleeve-with-hanging-chain-perfect-for-airpod1-2): Perfect leopard print earphone sleeve with hanging chain. Stylish protective case for Airpod 1/2. Fashionable and functional AirPods accessory.
-  Updated: 2025-10-29T15:53:09Z
+  Updated: 2025-10-30T05:19:36Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -24996,7 +24996,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/a15eaf72-9b56-42ca-be3e-5c4cd362a37e_1350x1350_48f9e97a-581c-4c51-94aa-20a3e1e723fb.jpg?v=1761742232
     Price: $3.42 USD
 - [[Painless Facial Hair Remover] Conduroma Women's Painless Facial Hair Remover | Cordless, AA Battery-Powered (Not Included), Elegant Metallic Finish - for Face, Upper Lip, Chin, Bikini Line - Travel-Friendly, Sleek Design, Sm](https://jamiludincollection.com/products/painless-facial-hair-remover-conduroma-womens-painless-facial-hair-remover-cordless-aa-battery-powered-not-included-elegant-metallic-finish-for-face-upper-lip-chin-bikini-line-travel-friendly-sleek-design-sm): SPECIFICATIONSBattery Properties: Without BatteryBattery Type: AA BatteryBrand: ConduromaIncluded Accessories: NoneItem ID: YG00609Origin: Zhejiang,ChinaPower Supply: Dry Battery PowerRecommended Usage: Face
-  Updated: 2025-10-30T03:25:40Z
+  Updated: 2025-10-30T07:26:51Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -25072,7 +25072,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/06cc4c7b-a0b7-4268-ba93-bb93e34ecf54.png?v=1761742233
     Price: $22.16 USD
 - [Women'S Classic Invisible Socks, Solid Color, Polyester 94% Spandex 6%, Knit Fabric, 200g/m², Hand Wash, for Women](https://jamiludincollection.com/products/womens-classic-invisible-socks-solid-color-polyester-94-spandex-6-knit-fabric-200g-m-hand-wash-for-women): SPECIFICATIONSComposition: 94% Polyester;6% SpandexGender: WomenItem ID: VE00658Material: PolyesterOperation Instruction: Hand wash,do not dry cleanPattern: Solid colorSocks Quantity: Lash SetsSocks Type: Invisible SocksWeaving Method: Knit Fabric
-  Updated: 2025-10-29T16:28:06Z
+  Updated: 2025-10-30T06:10:36Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -25697,7 +25697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/fef3991ee8857b9836abb1989d812616.jpg?v=1761742545
     Price: $12.72 USD
 - [Women's casual home clothes](https://jamiludincollection.com/products/womens-casual-home-clothes): SPECIFICATIONSApplicable People: AdultBelt: NoCollar Style: Crew NeckComposition: 95% Polyester;5% ElastaneFabric Elasticity: Micro ElasticityFabric Texture 1 Component: 95% Polyester;5% ElastaneFabric Texture 2 Components: 95% Polyester;5% ElastaneItem ID: QG00611Material: PolyesterOperation Instruction: Machine wash or professional dry cleanOrigin: Guangdong,ChinaPajama Type: Flame resistantPattern: AlphabetsPrinting Type: Random PrintingSeason: AllSheer: NoSleeve Length: Short SleeveStyle: CasualType: Pajama SetsWeaving Method: Knit Fabric
-  Updated: 2025-10-29T15:38:14Z
+  Updated: 2025-10-30T04:40:07Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -25995,7 +25995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/18f47c8c-ff85-4794-9510-8d857c276443.png?v=1761742547
     Price: $45.30 USD
 - [Adjustable No-Pull Pet Harness for Dogs and Cats - Soft Padded Harness with Easy Control Handle for Large Breeds - Prevents Choking and Pulling - Comfortable and Secure Fit](https://jamiludincollection.com/products/adjustable-no-pull-pet-harness-for-dogs-and-cats-soft-padded-harness-with-easy-control-handle-for-large-breeds-prevents-choking-and-pulling-comfortable-and-secure-fit): SPECIFICATIONSBattery Properties: Without BatteryItem ID: AR01182Material: Polyester (polyester Fiber)Operation Instruction: Hand wash onlyOrigin: Zhejiang,ChinaPattern: Other Description:· Comfortable and Secure: Soft padded harness prevents chafing and irritation, while ensuring your pet stays secure and comfortable during walks or runs.· No Pull Design: The harness is designed to distribute pressure evenly across your pet's chest, preventing pulling and choking, making it perfect for training or daily walks.· Easy Control Handle: The sturdy handle on the back of the harness allows for easy control of your pet in any situation, making it perfect for training or emergency situations.· Adjustable Fit: The harness is fully adjustable to ensure a perfect fit for your pet, with four points of adjustment to accommodate growing puppies or larger breeds.
-  Updated: 2025-10-29T15:37:09Z
+  Updated: 2025-10-30T06:34:20Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -26215,7 +26215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/b1e13708-aec5-473b-b820-30e569c1846a.png?v=1761742548
     Price: $17.23 USD
 - [Women's Thick-soled Short Boots, Knitted Round Toe Shoes](https://jamiludincollection.com/products/womens-thick-soled-short-boots-knitted-round-toe-shoes): SPECIFICATIONSAll-season: All-seasonClosure: Slip-onHeel Hight: Low HeelHeel Type: Platform HeelInner Material: FabricInsole Material: FabricItem ID: WQ00965Occasion: CasualOperation Instruction: Hand wash or professional dry cleanPattern: Solid colorPrinting Type: No PrintingSole Material: PUStyle: CasualToe Style: Round toeType: PlatformUpper Material: Fabric
-  Updated: 2025-10-29T15:35:47Z
+  Updated: 2025-10-30T07:14:08Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
