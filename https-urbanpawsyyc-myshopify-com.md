@@ -9,7 +9,7 @@
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
 - Address: Calgary, Alberta, Canada
-- Updated At: 2025-10-29T18:04:27.984Z
+- Updated At: 2025-10-30T00:01:16.749Z
 
 ## Products
 
@@ -249,7 +249,7 @@
     Availability: Available
     Price: $139.29 CAD
 - ["Aztec" brown dog collar](https://urbanpawsyyc.myshopify.com/products/aztec-brown-dog-collar): BESTIA CUSTOM DOG GEAR® proudly presents: The 2.5 inch wide, studded genuine leather " Aztec " collar. This collar features a base layer of 3.6 mm thick high quality italian belt leather, meant only for the finest men`s belts. The inner side features a soft leather decoration out of turned pig skin. Although soft and thin, this leather is very durable and comfortable on your dog`s neck. Both leather sorts are naturally tanned for 100% safe use, without the use of heavy chemicals. The decoration consists of old silver plated big rivets and smaller old brass pyramid rivets. In additon a metal zip makes the collar look even more stylish and massive!. The buckle and D ring are heavy duty, 5 cm (2 inch) wide. 3,5 cm (1.5 inch) for the Medium size. All metal parts are heavy duty nickel plated in silver color Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Color: Brown This is the perfect collar for your big pet. Fit`s perfect on dogs of large to giant breeds, like: cane corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:18Z
+  Updated: 2025-10-29T19:15:22Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -309,7 +309,7 @@
     Availability: Available
     Price: $139.29 CAD
 - [Bestia ''Bowtie'' leather harness](https://urbanpawsyyc.myshopify.com/products/bestia-bowtie-leather-harness): BESTIA CUSTOM DOG GEAR ® proudly presents you: BESTIA CUSTOM DOG GEAR® proudly presents: The "Bowtie" leather harness is as unique as your dog. Featuring a leather bowtie and special stitiching, this harness is completely hand crafted by our team. It has our patented soft foam and leather cushion fitted on the chest plate to make it super comfortable for your pet.​ All metal parts and rivets are nickel plated in silver color. The "Bowtie" harness main color is brown, decorated with a black bowtie. Size chart: L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size: fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) Every harness comes with 2 chest straps, besides the M size, which is with only one chest strap! All metal parts are nickel plated. The perfect gift for your large sized dog, like: Pitbull, cane corso, American Bully, American Bulldog, Bulldog, Presa canario, Rottweiler, Boxer, Amstaff, Staffordshire terrier, Bullmastiff, and many more.. 100% genuine leather soft padded handmade quality made in Europe unique design The "Bowtie" leather harness is as unique as your dog. Featuring a leather bowtie and special stitiching, this harness is completely hand crafted by our team. It has our patented soft foam and leather cushion fitted on the chest plate to make it super comfortable for your pet. All metal parts and rivets are nickel plated in silver color. The "Bowtie" harness main color is brown, decorated with a black bowtie. Size chart: L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size: fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) Every harness comes with 2 chest straps! All metal parts are nickel plated. The perfect gift for your large sized dog, like: Pitbull, cane corso, American Bully, American Bulldog, Bulldog, Presa canario, Rottweiler, Boxer, Amstaff, Staffordshire terrier, Bullmastiff, and many more.. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:32:12Z
+  Updated: 2025-10-29T19:31:44Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -327,7 +327,7 @@
     Availability: Available
     Price: $101.41 CAD
 - [The “Dragon's Eye” Harness LIMITED!](https://urbanpawsyyc.myshopify.com/products/the-dragons-eye-harness-limited): BESTIA CUSTOM DOG GEAR prouldy presents: The “Dragon`s Eye” Harness - part of the Halloween Collection. The harness features an exclusive embossed calfskin leather, decorated with silver claws. It features a combination of unique leathers, spikes, scars, metal elements and hand stitching, to make it as unique as possible. It has a soft foam & black leather cushion fitted on the chest plate to make it super comfortable for your pet. Every harness has a unique pattern and shape of the scales, therefor every single product is different one from another! Available in the following sizes: L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size: fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) Primary color: White ATTENTION! PRE-ORDER COLLARS WILL BE MADE WITHIN 1 WEEK! ATTENTION! This size fits on giant breeds only, like Bullmastiff, Caucasian shepherd dog, Kangal, St. Bernard, Newfoundland, Neapolitan Mastiff, etc. All metal parts are nickel plated 100% genuine leather soft padded handmade quality made in Europe unique design
-  Updated: 2025-10-29T05:34:07Z
+  Updated: 2025-10-29T23:49:27Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -399,7 +399,7 @@
     Availability: Available
     Price: $242.46 CAD
 - [The ''Python'' exclusive design](https://urbanpawsyyc.myshopify.com/products/the-python-exclusive-design): BESTIA CUSTOM DOG GEAR® proudly presents: The eye-catching ''Python'' collar is a MUST have for your large or giant sized dog. It has unique handmade design. The gray base layer and the python-snake print are put together nicely giving the collar exclusive look. The collar is sleek and soft padded for absolute comfort. Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) You can get this collar as a Set , with a matching soft leather leash. It is made of the same gray base layer combined with the python-snake print. It is 90 centimeters long (35.4 inch) and 3 cm (1.2 inch) wide and has the same soft cushion fitted on the handle. Тhis is the perfect gift for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. • 100% genuine leather • exclusive python-snake design • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:31:43Z
+  Updated: 2025-10-29T20:24:10Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -424,7 +424,7 @@
     Availability: Available
     Price: $204.82 CAD
 - [The ''Dragon Scale'' harness](https://urbanpawsyyc.myshopify.com/products/the-dragon-scale-harness): ​ BESTIA CUSTOM DOG GEAR® proudly presents: The "Dragon Scale" harness is as unique as your dog. It features an exclusive embossed calfskin leather. This harness is completely hand crafted by our small team. It has a soft foam & black leather cushion fitted on the chest plate to make it super comfortable for your pet.​ Available in the following sizes: M size: fits all medium sized breeds starting at a chest size of: 19.7 inch (50 cm), fitting up to a chest size of 29.5 inch (75 cm) and a lower neck circumference of 13.8 to 22.8 inch (35 to 58 cm) L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size: fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) ATTENTION! This size fits on giant breeds only, like Bullmastiff, Caucasian shepherd dog, Kangal, St. Bernard, Newfoundland, Neapolitan Mastiff, etc. All metal parts are nickel plated. ​ • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:31:53Z
+  Updated: 2025-10-29T20:26:58Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -436,7 +436,7 @@
     Availability: Available
     Price: $285.69 CAD
 - [The ''Indigo'' collar](https://urbanpawsyyc.myshopify.com/products/the-indigo-collar): BESTIA CUSTOM DOG GEAR proudly presents: The eye-catching “Indigo” collar is a MUST HAVE for your medium to giant sized dog. It has an unique handmade design, combining the thick black base layer leather with hand painted, one of a kind python skin decoration . They are put together nicely giving the collar exclusive looks. On the inside it has our patented soft lamb leather and foam cushion for maximum comfort for your dogs neck. The width of the collar is 7,5 cm Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Primary color: Black Тhis is the perfect gift for your big pet. Fits perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. • 100% genuine leather • exclusive python-snake design • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:34:37Z
+  Updated: 2025-10-29T20:26:59Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -466,7 +466,7 @@
     Availability: Available
     Price: $204.82 CAD
 - [The ''Bijou'' SET -  Collar, Harness, Leash. Blue](https://urbanpawsyyc.myshopify.com/products/the-bijou-set-collar-harness-leash-blue): BESTIA CUSTOM DOG GEAR® proudly presents: The collar: Our "Bijou" collar is the leather jewelry your dog can wear every day. This collar has 7 (up to 13) old silver/golden decorative rivets with 6 mm wide rhinestones. The total width of the collar, including the cushion is 5 cm (2 inch). Size chart: Size S - fits a neck of 13.8 to 16.7 inch (35 - 42.5 cm) Size M - fits a neck of 16.7 to 19.7 inch (42.5 - 50 cm) Size L - fits a neck of 19.7 to 22.6 inch (50 - 57.5 cm) Size XL - fits a neck of 22.6 to 25.6 inch (57.5 - 65 cm) The harness: The "Bijou" harness is as unique as your dog. Featuring round old silver/golden rivets with rhinestones. This harness is completely hand crafted by our small team. It has a soft foam & leather cushion fitted on the chest plate to make it super comfortable for your pet.​ The leash: The Bestia "Bijou" leather leash is in perfect combination with the collar and the harness. It is 43.3 inch (110 cm) long and 0.8 inch (2 cm) wide. It is made out of quality blank leather and has a padded handle with rivet decoration. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:46Z
+  Updated: 2025-10-29T23:08:47Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -484,7 +484,7 @@
     Availability: Available
     Price: $291.26 CAD
 - [The ''Bijou'' SET -  Collar, Harness, Leash. Green](https://urbanpawsyyc.myshopify.com/products/the-bijou-set-collar-harness-leash-green): BESTIA CUSTOM DOG GEAR® proudly presents: The collar: Our "Bijou" collar is the leather jewelry your dog can wear every day. This collar has 7 (up to 13) old silver/golden decorative rivets with 6 mm wide rhinestones. The total width of the collar, including the cushion is 5 cm (2 inch). Size chart: Size S - fits a neck of 13.8 to 16.7 inch (35- 42,5 cm) Size M - fits a neck of 16.7 to 19.7 inch (42,5 - 50 cm) Size L - fits a neck of 19.7 to 22.6 inch (50 - 57,5 cm) Size XL - fits a neck of 22.6 to 25.6 inch (57,5 - 65 cm) The harness: The "Bijou" harness is as unique as your dog. Featuring round old silver/golden rivets with rhinestones. This harness is completely hand crafted by our small team. It has a soft foam & leather cushion fitted on the chest plate to make it super comfortable for your pet.​ The leash: The Bestia "Bijou" leather leash is in perfect combination with the collar and the harness. It is 43.3 inch (110 cm) long and 0.8 inch (2 cm) wide. It is made out of quality blank leather and has a padded handle with rivet decoration. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:48Z
+  Updated: 2025-10-29T18:56:14Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -502,7 +502,7 @@
     Availability: Available
     Price: $291.26 CAD
 - [The ''Bijou'' SET -  Collar, Harness, Leash. Orange](https://urbanpawsyyc.myshopify.com/products/the-bijou-set-collar-harness-leash-orange): BESTIA CUSTOM DOG GEAR® proudly presents: The collar: Our "Bijou" collar is the leather jewelry your dog can wear every day. This collar has 7 (up to 13) old silver/golden decorative rivets with 6 mm wide rhinestones. The total width of the collar, including the cushion is 5 cm (2 inch). Size chart: Size S - fits a neck of 13.8 to 16.7 inch (35 - 42,5 cm) Size M - fits a neck of 16.7 to 19.7 inch (42,5 cm- 50 cm) Size L - fits a neck of 19.7 to 22.6 inch (50 - 57,5 cm) Size XL - fits a neck of 22.6 to 25.6 inch (57,5 - 65 cm) The harness: The "Bijou" harness is as unique as your dog. Featuring round old silver/golden rivets with rhinestones. This harness is completely hand crafted by our small team. It has a soft foam & leather cushion fitted on the chest plate to make it super comfortable for your pet.​ The leash: The Bestia "Bijou" leather leash is in perfect combination with the collar and the harness. It is 43.3 inch (110 cm) long and 0.8 inch (2 cm) wide. It is made out of quality blank leather and has a padded handle with rivet decoration. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:50Z
+  Updated: 2025-10-29T20:42:17Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -517,7 +517,7 @@
     Availability: Available
     Price: $291.26 CAD
 - [The ''Bijou'' SET -  Collar, Harness, Leash. Pink](https://urbanpawsyyc.myshopify.com/products/the-bijou-set-collar-harness-leash-pink): BESTIA CUSTOM DOG GEAR® proudly presents: The collar: Our "Bijou" collar is the leather jewelry your dog can wear every day. This collar has 7 (up to 13) old silver/golden decorative rivets with 6 mm wide rhinestones. The total width of the collar, including the cushion is 5 cm (2 inch). Size chart: Size S - fits a neck of 13.8 to 16.7 inch (35 - 42,5 cm) Size M - fits a neck of 16.7- 19.7 inch (42,5 - 50 cm) Size L - fits a neck of 19.7- 22.6 inch (50 - 57,5 cm) Size XL - fits a neck of 22.6- 25.6 inch (57,5 - 65 cm) The harness: The "Bijou" harness is as unique as your dog. Featuring round old silver/golden rivets with rhinestones. This harness is completely hand crafted by our small team. It has a soft foam & leather cushion fitted on the chest plate to make it super comfortable for your pet.​ The leash: The Bestia "Bijou" leather leash is in perfect combination with the collar and the harness. It is 43.3 inch (110 cm) long and 0.8 inch (2 cm) wide. It is made out of quality blank leather and has a padded handle with rivet decoration. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:33:52Z
+  Updated: 2025-10-29T19:13:59Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -535,7 +535,7 @@
     Availability: Available
     Price: $291.26 CAD
 - [The ''Bijou'' SET -  Collar, Harness, Leash. Red](https://urbanpawsyyc.myshopify.com/products/the-bijou-set-collar-harness-leash-red): BESTIA CUSTOM DOG GEAR® proudly presents: The collar: Our "Bijou" collar is the leather jewelry your dog can wear every day. This collar has 7 (up to 13) old silver/golden decorative rivets with 6 mm wide rhinestones. The total width of the collar, including the cushion is 5 cm (2 inch). Size chart: Size S - fits a neck of 13.8 to16.7 inch (35- 42,5 cm) Size M - fits a neck of 16.7 to 19.7 inch (42,5 cm- 50 cm) Size L - fits a neck of 19.7 to 22.6 inch (50- 57,5 cm) Size XL - fits a neck of 22.6 to 25.6 inch (57,5- 65 cm) The harness: The "Bijou" harness is as unique as your dog. Featuring round old silver/golden rivets with rhinestones. This harness is completely hand crafted by our small team. It has a soft foam & leather cushion fitted on the chest plate to make it super comfortable for your pet.​ The leash: The Bestia "Bijou" leather leash is in perfect combination with the collar and the harness. It is 43.3 inch (110 cm) long and 0.8 inch (2 cm) wide. It is made out of quality blank leather and has a padded handle with rivet decoration. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T15:03:06Z
+  Updated: 2025-10-29T23:27:58Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -568,7 +568,7 @@
     Availability: Available
     Price: $147.65 CAD
 - [The "Bowtie" leather harness brown Small to Medium Size](https://urbanpawsyyc.myshopify.com/products/the-bowtie-leather-harness-brown-small-to-medium-size): ​BESTIA CUSTOM DOG GEAR® proudly presents: The "Bowtie" leather harness is as unique as your dog. Featuring a leather bowtie and special stitching, this harness is completely handcrafted by our small team. It has our patented soft foam and leather cushion fitted on the chest plate to make it super comfortable for your pet.​ All metal parts and rivets are nickel-plated in silver color. The buckles are 0.7 inch (18 mm) wide and the D-ring is 1 inch (25 mm) wide. Size chart: S size: This harness fits at a chest size of: 15.7 inch (40 cm) to 28.7 inch (73 cm) and a lower neck circumference of 9.8 inch (25 cm) to 18.9 inch (48 cm) M size: fits all medium sized breeds starting at a chest size of: 19.7 inch (50 cm), fitting up to a chest size of 29.5 inch (75 cm) and a lower neck circumference of 13.8 to 22.8 inch (35 to 58 cm) PLEASE MEASURE YOUR DOGS CHEST BEFORE PLACING YOUR ORDER The perfect gift for your small to medium sized dog, like: Pug, Bulldog, French Bulldog, Bull Terrier, Jack Russel, etc. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T05:34:03Z
+  Updated: 2025-10-29T20:27:03Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -586,14 +586,14 @@
     Availability: Available
     Price: $147.65 CAD
 - [Bestia Dog Sport PM Recovery](https://urbanpawsyyc.myshopify.com/products/bestia-dog-sport-pm-recovery): Bestia Dog Sport PM Recovery This 100% natural food supplement is specially developed to help your dog relax and recover from intensive workouts, long walks, and anxiety problems when left alone. It helps dogs suffering from hyperactivity PM Recovery is a specially formulated blend of natural ingredients known to help support a balanced mind and mood. PM Recovery includes Taurine, Inositol, L-Theanine, Thiamine (Vitamin B1), Ginger Extract, and Magnesium. The chewable tablets are a tasty chicken flavor that your dog will love, though they are also easy to crumble up and hide in treats or food if necessary. Gentle natural support to help keep your dog in a constant peaceful state of mind. Bestia Dog Sport Supplements are manufactured in the UK to GMP code of practice and ISO 9001 quality assurance certification. + Helps your dog to recover from intensive workouts + Increases trainability, and improve mood + Helps with sleeping problems + Support a peaceful state of mind + Helps dogs with anxiety and hyperactivity problems + 100% natural ingredients + Yummy chicken flavor Directions: These tablets are meant to be eaten directly, or as part of a meal, crushed if necessary into your dog’s food or a treat. Up to 10kg: half to 1 tablet per day 11-25kg : 2 tablets per day 26-40kg: 2-3 tablets per day Over 40kg: 4 tablets per day The dose can be given based on approximately 1 tablet per 12.5kg of weight. Ingredients: Taurine 240mg Inositol 240mg L-Theanine 15mg Thiamine (Vit B1) 6mg Ginger Extract 5mg Magnesium 4mg Other Ingredients: Microcrystalline Cellulose, Di-Calcium Phosphate, Magnesium Stearate, Chicken Flavoring. Caution! If under medical supervision please consult a vet before use. Adverse reactions to this product are rare but in such an event please discontinue use and consult your vet. Store in a cool, dry place. Keep out of reach of children. Diabetic pet owners should consult a vet before using this supplement. The chicken flavoring used is a synthetic flavor added to dextrose and may not be suitable. 120 Chicken Flavor Tablets
-  Updated: 2025-10-29T05:34:09Z
+  Updated: 2025-10-29T18:42:43Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/04_Bestia_-_PM_Recovery.jpg?v=1761715948
   Price: $67.66 CAD
 - [Bestia QR Dog ID Tag](https://urbanpawsyyc.myshopify.com/products/bestia-qr-dog-id-tag): BESTIA CUSTOM DOG GEAR presents: Animal-ID QR Code Dog ID Tag: The Animal-ID QR Code Dog ID Tag - the ultimate solution for ensuring your furry friend is always safe and easily identifiable. This innovative tag features a QR code linked to your pet's profile on Animal-id.net, an online database of pet information. The tag is made of durable stainless steel, ensuring it can withstand the wear and tear of everyday use. The QR code can be scanned using any smartphone, providing instant access to your pet's information, including your contact details and any important medical information. This information can be updated at any time through your Animal-id.net account. If your pet gets lost, once the QR code is scanned, you will receive an email with the GPS location of the scanning place. This allows you to quickly track your pet and ensure their safe return. The finder can input the tag number on the site and view your contact information, making it easier for them to reach you and return your pet. You'll also receive a notification every time someone scans the tag, so you'll always know who has your pet's information. This added level of security gives you peace of mind knowing that your pet is always identifiable and their information is just a scan away. Never again will you have to worry about losing your pet or not having their information on hand. The Animal-ID QR Code Dog ID Tag gives peace of mind, knowing that your pet is always identifiable, and that their information, as well as their location, is just a scan away. Keep your pet safe and stylish with this must-have accessory!
-  Updated: 2025-10-29T05:32:42Z
+  Updated: 2025-10-29T20:27:05Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -639,7 +639,7 @@
     Availability: Available
     Price: $90.49 CAD
 - ["Danger" collar](https://urbanpawsyyc.myshopify.com/products/danger-collar): BESTIA CUSTOM DOG GEAR® proudly presents: The " Danger " collar features a combination of two spike models. The smaller spikes are 12 mm (0.5 inch) long, the bigger spikes in the middle row are 2 cm (0.8 inch) long. We use only screw back spikes. All spikes count 51 for size L. The base layer of this collar is 4 mm thick belt leather of highest quality. Very strong and durable. The inside layer is with our Patented Soft Cushion made out of Orthopedic Foam. It is also 100% real pig or lamb leather. We can offer you this model in a wide range of sizes and cushion colors. This collar has a total width of 6,3 cm (2.5 inch) . The buckle and D-ring measure 35 mm (1.4 inch) for sizes M - XL, and 50 mm (2 inch) for size XXL. All metal parts are nickel plated, made out of steel wire, specially for this purpose. Size chart: size M - fitting a neck of 42,5- 50 cm (16.7 to 19.7 inch) size L - fitting a neck of 50- 57,5 cm (19.7 to 22.6 inch) size XL - fitting a neck of 57,5- 65 cm (22.6 to 25.6 inch) size XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Primary color: Black Fits perfectly on all large breeds, like: Pitbull, cane corso, American Bully, American Bulldog, Bulldog, Presa canario, Rottweiler, Boxer, Amstaff, Staffordshire terrier, Bullmastiff, and many more.. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
-  Updated: 2025-10-29T16:53:29Z
+  Updated: 2025-10-29T20:16:17Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
