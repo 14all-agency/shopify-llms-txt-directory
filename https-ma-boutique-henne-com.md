@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-30T12:00:49.659Z
+- Updated At: 2025-10-30T16:00:42.556Z
 
 ## Products
 
@@ -638,13 +638,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1H6g8OpXXXXXOaXXXq6xXFXXXm.jpg?v=1536174335
   Price: 8,50 € EUR
-- [Coloration Végétale Aubergine Acajou - Viola Mogano (ex-Melanzana), Phitofilos](https://ma-boutique-henne.com/products/coloration-vegetale-aubergine-melanzana-phitofilos): Phitofilos, melanzana, viola mogano, acajou, coloration rouge, violine, violet, aubergine, pourpre, bordeaux, rousse, roux, cuivré, rouge cerise, couvre cheveux blancs et gris, henné naturel, bois santal, garance, hibiscus. brillance cheveux, soin capillaire coloration bio, vegan, naturelle, plantes, boutique henné,
-  Updated: 2025-10-20T10:17:26Z
-  Vendor: Ma Boutique Henné
-  Product Type: Poudres colorantes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2730/3378/products/violet.png?v=1554123976
-  Price: 13,00 € EUR
 - [Coloration Végétale Blond Foncé  - Biondo Scuro, Phitofilos](https://ma-boutique-henne.com/products/coloration-vegetale-blond-fonce-biondo-scuro-phitofilos): Phitofilos, biondo scuro, freddo, blond froid, foncé, châtain, noisette, brun, nordique, couvre cheveux blancs et gris, indigo, camomille, noix, brou, noyer, henné naturel. coloration blond-doré, brillance aux cheveux châtains, soin capillaire et coloration bio, vegan, neutraliser roux cuivré, henné, gaine, nourrit
   Updated: 2025-09-14T20:53:40Z
   Vendor: Ma Boutique Henné
