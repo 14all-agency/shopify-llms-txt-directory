@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-30T12:01:00.349Z
+- Updated At: 2025-10-30T16:01:24.486Z
 
 ## Products
 
@@ -2720,7 +2720,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_90b09daa-35ab-4a32-a544-2ab9c1c90333.png?v=1731331176
   Price: ₹1,999.00 INR
 - [ZORO-BLACK ENMA WOODEN KATANA](https://theworldofnerds.com/products/zoro-black-enma-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-24T16:57:34Z
+  Updated: 2025-10-30T15:05:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9510,7 +9510,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e283126d-3312-4669-af53-e8803ee6051b.jpg?v=1756452352
   Price: ₹119.00 INR
 - [Pokémon Gengar Keychain – Iconic Ghost-Type Pokémon Artwork](https://theworldofnerds.com/products/pokemon-gengar-keychain-iconic-ghost-type-pokemon-artwork): This Pokémon Gengar keychain showcases the mischievous and playful nature of the iconic Ghost-type Pokémon. With bold, striking artwork, it captures Gengar’s unique charm and sinister grin. A perfect accessory for any Pokémon fan or collector, this keychain brings the spooky energy of Gengar to life. Whether you're a fan of the games, anime, or both, this keychain is an essential piece for your Pokémon collection.
-  Updated: 2025-10-26T12:12:45Z
+  Updated: 2025-10-30T14:43:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
