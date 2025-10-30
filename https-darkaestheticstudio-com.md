@@ -6,144 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-10-29T16:00:32.982Z
+- Updated At: 2025-10-30T00:00:53.537Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
 ## Products
 
-- [Have Yourself A Spooky Little Christmas](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas): Spooky Little Christmas – Sweatshirt 🎃🎄Julen möter mörkret i denna grå sweatshirt med fladdermöss och gotisk charm.Perfekt för dig som firar högtid med en twist – mjuk, varm och full av personlighet.Materialinformation: Mjuk och varm fleece i bomull/polyesterblandning med justerbara muddar som håller värmen inne.Perfekt passform: Bär din favoritdesign på en hoodie som varken är för tjock eller för tung – bara lagom.Leverans: 5-12 arbetsdagar.
-  Updated: 2025-10-29T12:21:10Z
-  Vendor: Dark Aesthetic Studio
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-  - [Light Pink / 3XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975218856279)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Light Pink / 2XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975218889047)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Light Pink / XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975218921815)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Light Pink / L](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975218954583)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Light Pink / M](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975218987351)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Light Pink / S](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219020119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Rosa.png?v=1761249189
-    Price: 399,00 kr SEK
-  - [Black / 3XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219052887)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Black / 2XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219085655)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Black / XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219118423)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Black / L](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219151191)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Black / M](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219183959)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Black / S](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219216727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Svart.png?v=1761249238
-    Price: 399,00 kr SEK
-  - [Sport Grey / 3XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219249495)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-  - [Sport Grey / 2XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219282263)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-  - [Sport Grey / XL](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219315031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-  - [Sport Grey / L](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219347799)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-  - [Sport Grey / M](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219380567)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-  - [Sport Grey / S](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas?variant=51975219413335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
-    Price: 399,00 kr SEK
-- [Christmas Things](https://darkaestheticstudio.com/products/christmas-things): Merry Christmas, nerds!🖤En mörk julklassiker med en hyllning till Stranger Things.Material:Tillverkade i en mjuk blandning av bomull och polyesterväv med varm, fluffig fleece på insidan. Justerbara muddar håller värmen inne och komforten på topp.Passform:Perfekt skurna efter år av erfarenhet och noggrann research.Vikt:Tillräckligt lätt för att bäras året runt – men tillräckligt varm för kalla kvällar. Den perfekta balansen mellan stil och funktion.Leverans: 5-12 arbetsdagar.
-  Updated: 2025-10-29T14:04:32Z
-  Vendor: Dark Aesthetic Studio
-  Product Type: Sweat Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Skapa_en_mockup_av_e.png?v=1761246868
-  - [Black / S](https://darkaestheticstudio.com/products/christmas-things?variant=51975313752407)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_svart.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [Black / M](https://darkaestheticstudio.com/products/christmas-things?variant=51975313850711)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_svart.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [Black / L](https://darkaestheticstudio.com/products/christmas-things?variant=51975313949015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_svart.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [Black / XL](https://darkaestheticstudio.com/products/christmas-things?variant=51975314047319)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_svart.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [White / S](https://darkaestheticstudio.com/products/christmas-things?variant=51975313785175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Skapa_en_mockup_av_e.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [White / M](https://darkaestheticstudio.com/products/christmas-things?variant=51975313883479)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Skapa_en_mockup_av_e.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [White / L](https://darkaestheticstudio.com/products/christmas-things?variant=51975313981783)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Skapa_en_mockup_av_e.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [White / XL](https://darkaestheticstudio.com/products/christmas-things?variant=51975314080087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Skapa_en_mockup_av_e.png?v=1761246868
-    Price: 399,00 kr SEK
-  - [Sport Grey / S](https://darkaestheticstudio.com/products/christmas-things?variant=51975313817943)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_ljusgra.png?v=1761246775
-    Price: 399,00 kr SEK
-  - [Sport Grey / M](https://darkaestheticstudio.com/products/christmas-things?variant=51975313916247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_ljusgra.png?v=1761246775
-    Price: 399,00 kr SEK
-  - [Sport Grey / L](https://darkaestheticstudio.com/products/christmas-things?variant=51975314014551)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_ljusgra.png?v=1761246775
-    Price: 399,00 kr SEK
-  - [Sport Grey / XL](https://darkaestheticstudio.com/products/christmas-things?variant=51975314112855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/ST_jultroja_ljusgra.png?v=1761246775
-    Price: 399,00 kr SEK
 - [Presentkort](https://darkaestheticstudio.com/products/skuggornas-gava): Ge någon du tycker om friheten att välja sin egen favorit från Dark Aesthetic Studio.Perfekt för födelsedagar, högtider eller bara för att visa uppskattning.Presentkortet levereras digitalt och kan användas på hela sortimentet – från konstnärliga prints till unika accessoarer. 🖤 Giltigt i 24 månader från köpdatum.🖤 Ingen extra avgift.🖤 Levereras direkt till din e-post.
   Updated: 2025-10-28T20:06:16Z
   Vendor: Dark Aesthetic Studio
@@ -852,13 +720,6 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pugs-with-sunglasses-mug-square-dark-aesthetic_f4028f77-03bb-4543-ac9e-ab841b8c3a4d.png?v=1761589733
   Price: 359,00 kr SEK
-- [Help! Pug Is Stuck! - Mugg](https://darkaestheticstudio.com/products/help-pug-is-stuck-mug-smartprintsink-designs): ☕ Unisex – passar allaEn romantisk mugg som funkar lika bra hemma, på jobbet eller som present till någon du tycker om.✨ Tillverkad för vardagskomfortGjuten i keramik av hög kvalitet – slitstark, bekväm att hålla i och enkel att rengöra.🎁 Den perfekta kärleksgåvanOavsett om du firar med någon speciell eller bara vill sprida lite hjärtevärme – den här muggen är ett charmigt val.Leverans: 5-8 arbetsdagar.
-  Updated: 2025-10-29T08:50:56Z
-  Vendor: Dark Aesthetic Studio
-  Product Type: mugg
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/help-pug-is-stuck-mug-square-dark-aesthetic_12cf1412-42d8-4858-9c03-fcdb0e9100f7.png?v=1761589881
-  Price: 359,00 kr SEK
 - [I Feel Nothing! - Mugg](https://darkaestheticstudio.com/products/i-feel-nothing-mug-smartprintsink-designs): ☕ Unisex – passar allaEn romantisk mugg som funkar lika bra hemma, på jobbet eller som present till någon du tycker om.✨ Tillverkad för vardagskomfortGjuten i keramik av hög kvalitet – slitstark, bekväm att hålla i och enkel att rengöra.🎁 Den perfekta kärleksgåvanOavsett om du firar med någon speciell eller bara vill sprida lite hjärtevärme – den här muggen är ett charmigt val.Leverans: 5-8 arbetsdagar.
   Updated: 2025-10-29T08:51:38Z
   Vendor: Dark Aesthetic Studio
@@ -1184,25 +1045,32 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/useless-corpse-detail.png?v=1761677901
   Price: 199,00 kr SEK
 - [Kuddfodral i abstrakt mönster](https://darkaestheticstudio.com/products/kuddfodral-i-abstrakt-monster): Throw Pillow Cover made from 100% spun polyester poplin fabric, a stylish statement that will liven up any room. Individually cut and sewn by hand, the pillow cover measures 16" x 16", features a double-sided print and is finished with a concealed zipper for ease of care. Does not include pillow insert
-  Updated: 2025-10-29T08:30:13Z
+  Updated: 2025-10-29T20:31:16Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/51798103_large_4089e4f8-d98c-458d-bf35-574a150e8161.png?v=1761725622
   Price: 429,00 kr SEK
 - [Butterfly And Moon Dreamcatcher - Mugg](https://darkaestheticstudio.com/products/butterfly-and-moon-dreamcatcher-mugg): Get this cool design for your everyday life! Unisex's ( Mug ). Design by SPIdeals.This Mug has been made for your everyday superior comfort and is made of Ceramic.
-  Updated: 2025-10-29T08:25:47Z
+  Updated: 2025-10-29T22:05:30Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10301119_large_9ed7fef3-9137-45dc-b57c-b01589f85876.png?v=1761725622
   Price: 359,00 kr SEK
+- [Help! Pug Is Stuck! - Mugg](https://darkaestheticstudio.com/products/help-pug-is-stuck-mugg): Get this cute design to wear in Valentine's day! Unisex's ( Mug ). Design by Smartprints.This Mug has been made for your everyday superior comfort and is made of Ceramic.
+  Updated: 2025-10-29T17:11:05Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10327830_large_54c3819e-2967-4c75-933d-c788657d37f9.png?v=1761757809
+  Price: 359,00 kr SEK
 
 ## Collections
 
 - [Överdelar](https://darkaestheticstudio.com/collections/frontpage): 🖤 Utforska våra unika överdelar – designade av oberoende konstnärerVåra tröjor är mer än bara plagg – de är uttryck för identitet, kreativitet och mörk skönhet. Varje design är noggrant utvald för att spegla en djupare känsla och ge dig något att bära med stolthet.
-  Updated: 2025-10-29T11:26:38Z
-  Total Products: 14
+  Updated: 2025-10-29T19:13:14Z
+  Total Products: 12
 - [Presentkort](https://darkaestheticstudio.com/collections/presentkort): Ge någon du tycker om friheten att välja sin egen favorit från Dark Aesthetic Studio.Perfekt för födelsedagar, högtider eller bara för att visa uppskattning.Presentkortet levereras digitalt och kan användas på hela sortimentet – från konstnärliga prints till unika accessoarer. 🖤 Giltigt i 24 månader från köpdatum.🖤 Ingen extra avgift.🖤 Levereras direkt till din e-post
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
@@ -1213,8 +1081,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-29T11:26:38Z
   Total Products: 6
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-10-29T08:13:35Z
-  Total Products: 15
+  Updated: 2025-10-29T17:10:03Z
+  Total Products: 14
 
 ## Store Pages
 
