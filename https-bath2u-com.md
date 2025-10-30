@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-30T04:00:36.750Z
+- Updated At: 2025-10-30T08:00:37.329Z
 
 ## Products
 
@@ -3034,12 +3034,18 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/OT-76009.jpg?v=1678862611
   Price: RM 73.00 MYR
 - [ONIMI Chrome 165mm FinishTowel Ring](https://bath2u.com/products/onimi-chrome-165mm-finishtowel-ring): Specification : Measurement : 165 (L) x 67 (W) x 215 (H) mmType : Wall MountedFinish : ChromeMaterial : Stainless Steel 304
-  Updated: 2025-10-30T03:59:04Z
+  Updated: 2025-10-30T05:57:54Z
   Vendor: ONIMI
   Product Type: Towel Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/Onimi23308A.jpg?v=1678863031
   Price: RM 100.00 MYR
+- [Johnson Suiise WC](https://bath2u.com/products/johnson-suiise-wc): asdasdjasnsdlas as as asd as
+  Updated: 2025-10-30T06:15:35Z
+  Vendor: Bath2u.com
+  Product Type: 
+  Availability: Available
+  Price: RM 850.00 MYR
 
 ## Collections
 
