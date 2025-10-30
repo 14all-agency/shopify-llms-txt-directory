@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-30T00:00:51.582Z
+- Updated At: 2025-10-30T04:00:59.888Z
 
 ## Products
 
@@ -14571,7 +14571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1759424197
     Price: $345.00 USD
 - [Buy Notting Hill Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/notting-hill-wrap): buy notting hill wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-29T20:32:29Z
+  Updated: 2025-10-30T02:11:13Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
