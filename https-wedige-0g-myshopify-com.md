@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-10-28T13:05:19Z
 - Contact Email: vinted1keven@gmail.com
-- Updated At: 2025-10-29T08:00:34.590Z
+- Updated At: 2025-10-30T00:00:53.701Z
 
 ## Collections
 
