@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-30T00:01:03.244Z
+- Updated At: 2025-10-30T04:00:36.750Z
 
 ## Products
 
@@ -2943,7 +2943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/VM139.png?v=1678684828
   Price: RM 799.00 MYR
 - [TAPI Two (2) Way Tap with Spray Holder - Matt](https://bath2u.com/products/tapi-two-2-way-tap-with-spray-holder): Specification : Material : SUS304 Stainless Steel Finishing : Matt Finished Type : Quarter Turn Valve
-  Updated: 2025-08-22T01:44:15Z
+  Updated: 2025-10-30T03:41:23Z
   Vendor: TAPI
   Product Type: 2-Way Tap
   Availability: Available
@@ -3034,7 +3034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/OT-76009.jpg?v=1678862611
   Price: RM 73.00 MYR
 - [ONIMI Chrome 165mm FinishTowel Ring](https://bath2u.com/products/onimi-chrome-165mm-finishtowel-ring): Specification : Measurement : 165 (L) x 67 (W) x 215 (H) mmType : Wall MountedFinish : ChromeMaterial : Stainless Steel 304
-  Updated: 2025-10-29T16:50:06Z
+  Updated: 2025-10-30T03:59:04Z
   Vendor: ONIMI
   Product Type: Towel Ring
   Availability: Available
