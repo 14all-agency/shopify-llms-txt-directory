@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-30T00:01:25.011Z
+- Updated At: 2025-10-30T04:01:17.382Z
 
 ## Products
 
@@ -21177,11 +21177,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-draculaura-com-scooter-e-count-fabulous-772887625-0194735288762-monster-high-1197446096.jpg?v=1760392317
   Price: 39,99 € EUR
 - [Cars Disney - Cruz Ramirez e Danny Swervez](https://brincatoys.pt/products/cars-disney-cruz-ramirez-e-danny-swervez): O Cars Disney – Cruz Ramirez e Danny Swervez junta duas estrelas da nova geração para corridas cheias de velocidade e estilo. Em primeiro lugar, o pack inclui duas miniaturas em metal 1:55 com rodas livres, ideais para recriar duelos épicos em Radiator Springs. Por outro lado, a Cruz Ramirez #51 surge com visual Dinoco e emblemas Race & Rescue; já o Danny Swervez #99 apresenta look competitivo com mistura de roxo e amarelo. Assim, as crianças organizam treinos, fazem “pit stops” e correm até à bandeira axadrezada. Do mesmo modo, graças ao chassis metálico, cada modelo tem peso agradável e maior resistência para utilização diária. Além disso, as tampografias de alta definição reproduzem números, logótipos e detalhes dos filmes Disney•Pixar Cars, o que agrada tanto a pequenos fãs como a colecionadores. Ademais, a escala 1:55 encaixa perfeitamente nas mãos pequenas e é compatível com pistas e playsets da linha Cars (vendidos em separado). Como resultado, é fácil ampliar a garagem e criar campeonatos com amigos. Por fim, se procuras um presente que combine diversão, qualidade e personagens adoradas, escolhe já o Cars Disney - Cruz Ramirez e Danny Swervez e põe a tua pista a vibrar! Em suma... Pack com 2 carros em metal 1:55: Cruz Ramirez #51 e Danny Swervez #99 Rodas livres para corridas suaves e rápidas Decorações autênticas Race & Rescue inspiradas nos filmes Compatível com pistas e playsets Cars (vendidos à parte) Estimula imaginação, coordenação e jogo partilhado Dimensão: 21,50 x 16,50 x 4 cm.Idade recomendada. + de 3 anos.
-  Updated: 2025-10-29T23:58:46Z
+  Updated: 2025-10-30T01:47:57Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/CarsDisney-CruzRamirezeDannySwervez.jpg?v=1761778513
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-cruz-ramirez-e-danny-swervez-772845525-0194735284559-cars-1200492234.jpg?v=1761788876
   Price: 22,50 € EUR
 - [Cars Disney - Dirt Track Fabulous Hudson Hornet e Clovis Rider](https://brincatoys.pt/products/cars-disney-dirt-track-fabulous-hudson-hornet-e-clovis-rider): Celebre as corridas clássicas com o pack Cars Disney - Dirt Track Fabulous Hudson Hornet e Clovis Rider! Perfeito para colecionadores e crianças.
   Updated: 2025-10-29T23:52:12Z
@@ -21191,11 +21191,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-dirt-track-fabulous-hudson-hornet-e-clovis-rider-772845925-0194735284597-cars-1200484446.jpg?v=1761781915
   Price: 22,50 € EUR
 - [Cars Disney - Sage Vanderspin e Darren Leadfoot](https://brincatoys.pt/products/cars-disney-sage-vanderspin-e-darren-leadfoot): Descubra a emoção das corridas com Cars Disney - Sage Vanderspin e Darren Leadfoot! Prepare-se para aventuras emocionantes e diversão. 🏁
-  Updated: 2025-10-29T23:21:17Z
+  Updated: 2025-10-30T01:48:00Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Cars_Disney_-_Sage_Vanderspin_e_Darren_Leadfoot_page1.jpg?v=1761779564
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-sage-vanderspin-e-darren-leadfoot-772846225-0194735284627-cars-1200492233.jpg?v=1761788879
   Price: 22,50 € EUR
 - [Cartas Cenas de Filme – Kiki’s Delivery Service](https://brincatoys.pt/products/cartas-cenas-de-filme-kiki-s-delivery-service): Desfrute das Cartas Cenas de Filme - Kiki's Delivery Service e mergulhe na magia do Studio Ghibli. Adquira já o seu baralho e jogue com estilo!
   Updated: 2025-10-28T09:37:22Z
@@ -21394,42 +21394,42 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mix-n-match-bishop-in-mech-acao-234017825-0043377838098-tartarugas-ninja-1200123390.jpg?v=1761666488
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match – Leonardo com Acessórios](https://brincatoys.pt/products/tartarugas-ninja-mix-n-match-leonardo): Crie heróis e mutantes com a Tartaruga Ninja Mix n Match – Leonardo! Esta figura flexível de 11,5 cm permite poses dinâmicas e muita ação.
-  Updated: 2025-10-29T11:48:05Z
+  Updated: 2025-10-30T00:06:55Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartaruga-ninja-mix-n-match-leonardo-com-acessorios-234017225-0043377838012-tartarugas-ninja-1200395110.jpg?v=1761738475
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match – Metalhead: Ação e Criatividade](https://brincatoys.pt/products/tartarugas-ninja-mix-n-match-metalhead): Desperte a criatividade com o Tartaruga Ninja Mix n Match – Metalhead! Troque peças e crie aventuras hilariantes na cidade de Nova Iorque. 🌟
-  Updated: 2025-10-29T13:48:08Z
+  Updated: 2025-10-30T01:51:39Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartaruga-ninja-mix-n-match-metalhead-acao-e-criatividade-234017925-0043377838104-tartarugas-ninja-1200406995.jpg?v=1761745678
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match – Michelangelo para Diversão](https://brincatoys.pt/products/tartarugas-ninja-mix-n-match-michelangelo): Desperte a criatividade com a Tartaruga Ninja Mix n Match – Michelangelo! Este brinquedo inclui partes intercambiáveis para aventuras emocionantes!
-  Updated: 2025-10-29T13:48:05Z
+  Updated: 2025-10-30T02:04:37Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartaruga-ninja-mix-n-match-michelangelo-para-diversao-234017425-0043377838036-tartarugas-ninja-1200407003.jpg?v=1761745685
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match – Splinter: Diversão sem Fim](https://brincatoys.pt/products/tartaruga-ninja-mix-n-match-splinter): Transforme suas aventuras com Tartaruga Ninja Mix n Match – Splinter! Com pose firme e acessórios variados, as possibilidades são infinitas.
-  Updated: 2025-10-29T13:46:14Z
+  Updated: 2025-10-30T02:47:47Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartaruga-ninja-mix-n-match-splinter-diversao-sem-fim-234017625-0043377838050-tartarugas-ninja-1200406999.jpg?v=1761745573
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match – Donatello Brincadeira Criativa](https://brincatoys.pt/products/tartarugas-ninja-mix-n-match-donatello): Desperte a criatividade do seu filho com a Tartaruga Ninja Mix n Match – Donatello! Monte combinações incríveis e surpreendentes sempre. 🎉
-  Updated: 2025-10-29T11:48:09Z
+  Updated: 2025-10-30T00:34:36Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartaruga-ninja-mix-n-match-donatello-brincadeira-criativa-234017325-0043377838029-tartarugas-ninja-1200395114.jpg?v=1761738488
   Price: 19,99 € EUR
 - [Tartaruga Ninja Mix n Match - Raphael para Brincar](https://brincatoys.pt/products/tartarugas-ninja-mix-n-match-raphael): Explore novas aventuras com a Tartaruga Ninja Mix n Match - Raphael! Esta figura vem pronta para ação criativa e brincadeira sem limites.
-  Updated: 2025-10-29T11:46:12Z
+  Updated: 2025-10-30T00:43:58Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -21457,14 +21457,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-figura-tiamat-para-acao-epica-233981225-0043377352143-godzilla-vs-kong-1200298652.jpg?v=1761688079
   Price: 19,99 € EUR
 - [Hot Wheels Team Transport Fleet Street + Toyota Off Road Truck](https://brincatoys.pt/products/hot-wheelsteam-transport-fleet-street-toyota-off-road-truck): Descubra o Hot Wheels Team Transport Fleet Street + Toyota Off Road Truck! Um conjunto icônico com detalhes autênticos e robustez superior. 🏎️
-  Updated: 2025-10-29T15:47:57Z
+  Updated: 2025-10-30T00:12:59Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-team-transport-fleet-street-toyota-off-road-truck-771862725-0194735186273-hot-wheels-1200414035.jpg?v=1761752876
   Price: 25,90 € EUR
 - [Hot Wheels Team Transport 18 Toyota 4Runner + Toyota Supra 89](https://brincatoys.pt/products/hot-wheels-team-transport-18-toyota-4runner-toyota-supra-89): Descubra o conjunto premium Hot Wheels Team Transport ’18 Toyota 4Runner + ’89 Toyota Supra, perfeito para colecionadores apaixonados. Adquira já o seu!
-  Updated: 2025-10-29T15:46:14Z
+  Updated: 2025-10-30T02:05:37Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -21478,7 +21478,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-team-transport-nissan-euro-hauler-94-300-zx-gts-771862225-0194735186228-hot-wheels-1200421660.jpg?v=1761760076
   Price: 25,90 € EUR
 - [Monster High Armario Skulltimate Secrets – Clawdeen Wolf](https://brincatoys.pt/products/monster-high-armario-skulltimate-secrets-clawdeen-wolf): Descubra o mistério fashion com o Monster High Armario Skulltimate Secrets – Clawdeen Wolf. Organize ainda mais a sua coleção criativa!
-  Updated: 2025-10-29T20:03:43Z
+  Updated: 2025-10-30T03:30:37Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -21492,11 +21492,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-lightning-mcqueen-e-chick-hicks-em-acao-772845325-0194735284535-cars-1200476852.jpg?v=1761774359
   Price: 22,50 € EUR
 - [Cars Disney - Bling Bling Lightning McQueen e Tex Dinoco](https://brincatoys.pt/products/cars-disney-bling-bling-lightning-mcqueen-e-tex-dinoco): Dê vida às corridas com o pack Cars Disney - Bling Bling Lightning McQueen e Tex Dinoco! Miniaturas brilhantes e duráveis que vão inspirar a imaginação!
-  Updated: 2025-10-29T23:52:57Z
+  Updated: 2025-10-30T01:46:15Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Cars_Disney_-_Bling_Bling_Lightning_McQueen_e_Tex_Dinoco_page1.jpg?v=1761780759
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-bling-bling-lightning-mcqueen-e-tex-dinoco-772844425-0194735284443-cars-1200492229.jpg?v=1761788769
   Price: 22,50 € EUR
 
 ## Collections
