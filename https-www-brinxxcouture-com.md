@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-29T16:00:52.415Z
+- Updated At: 2025-10-30T00:01:09.196Z
 
 ## Products
 
@@ -8027,7 +8027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-29T14:59:39Z
+  Updated: 2025-10-29T18:40:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8360,7 +8360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-29T14:59:37Z
+  Updated: 2025-10-29T22:00:44Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9542,7 +9542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Snap-Down-Collared-Winter-Coat-Brinxx-Couture-6193_4d0ab028-0d84-4a8e-b51a-8595dbbe05fb.jpg?v=1736050128
     Price: $45.00 USD
 - [Plaid Zip-Up Collared Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-zip-up-collared-jacket): Stay warm and stylish with this Plaid Zip-Up Collared Jacket. Made with durable fabrics, this jacket features snug zip closure and a stand-up collar
-  Updated: 2025-10-29T14:57:31Z
+  Updated: 2025-10-29T17:37:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19260,7 +19260,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/David-Jones-Quilted-PU-Leather-Handbag-Brinxx-Couture-1991.jpg?v=1730294868
   Price: $59.99 USD
 - [PU Leather Tassel Crossbody Bag - Brinxx Couture](https://www.brinxxcouture.com/products/pu-leather-tassel-crossbody-bag): Elevate your style with our PU Leather Tassel Crossbody Bag! Made of premium quality material, It features a trendy tassel design and a crossbody strap.
-  Updated: 2025-10-29T14:42:44Z
+  Updated: 2025-10-29T22:36:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,7 +23179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-29T14:41:43Z
+  Updated: 2025-10-30T00:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23197,7 +23197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819604662)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Black / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819637430)
@@ -25787,7 +25787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
-  Updated: 2025-10-29T14:40:21Z
+  Updated: 2025-10-29T20:41:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -28945,7 +28945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pTwQ7K1D9HPxwMo7n__2210235870173-0-cib.jpg?v=1735321332
     Price: $69.99 USD
 - [Off-Shoulder Long Sleeve Lace Dress - Brinxx Couture](https://www.brinxxcouture.com/products/off-shoulder-long-sleeve-lace-dress): This elegant off-shoulder dress with long lace sleeves will make you feel confident and stylish. The sexy lace adds a touch of romance to this versatile piece.
-  Updated: 2025-10-28T22:35:01Z
+  Updated: 2025-10-29T21:38:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33363,7 +33363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/efb32da1-2832-47bf-8fef-2fa76a585907-Max-Origin.webp?v=1746798144
     Price: $24.99 USD
 - [Ruffled Plunge Sleeveless Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruffled-plunge-sleeveless-maxi-dress): Elevate your style with our Ruffled Plunge Sleeveless Maxi Dress. Exude elegance in this luxurious dress, featuring delicate ruffles and a plunging neckline.
-  Updated: 2025-10-23T15:07:36Z
+  Updated: 2025-10-29T18:19:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36142,7 +36142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
     Price: $99.99 USD
 - [White Plush Faux Fur Belted Coat | Brinxx Couture](https://www.brinxxcouture.com/products/white-plush-faux-fur-belted-coat): Luxurious white plush size faux fur coat with flattering belt. Premium cruelty-free warmth meets elegant style. Perfect for winter occasions. Free Shipping!
-  Updated: 2025-10-29T14:27:46Z
+  Updated: 2025-10-29T22:46:01Z
   Vendor: Brinxx Couture
   Product Type: Coats
   Availability: Available
