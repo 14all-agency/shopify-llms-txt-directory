@@ -17,7 +17,7 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 - Created At: 2025-02-26T15:41:09Z
 - Contact Email: info@brewshock.com
 - Address: Plano, Tx
-- Updated At: 2025-10-29T20:00:33.615Z
+- Updated At: 2025-10-30T04:00:31.339Z
 
 ## Products
 
