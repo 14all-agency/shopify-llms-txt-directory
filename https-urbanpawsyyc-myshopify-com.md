@@ -9,64 +9,10 @@
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
 - Address: Calgary, Alberta, Canada
-- Updated At: 2025-10-30T00:01:16.749Z
+- Updated At: 2025-10-30T04:00:32.933Z
 
 ## Products
 
-- [LED Pet Collar - Glowing Paws Safety Accessory](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar): Introducing our Glowing Paws LED Pet Collar, the perfect accessory to keep your furry friend safe and stylish during nighttime adventures! With its vibrant LED lights, this collar ensures maximum visibility, allowing you to easily spot your pet in the dark. Whether you're taking a late evening stroll or letting them roam freely in the backyard, our LED collar provides peace of mind knowing that your pet is always visible to you and others. Crafted with comfort in mind, our Glowing Paws LED Pet Collar features a width of 2.5 cm, providing a secure fit without compromising your pet's comfort. The adjustable length options of 40 cm, 50 cm, and 60 cm ensure a perfect fit for pets of all sizes, from small pups to larger breeds. Not only is this collar practical, but it's also incredibly easy to use. Each package includes 1 Pcs LED dog collar and 1 pc USB cable, allowing you to conveniently recharge the collar whenever needed. Simply plug it into any USB port, and your pet will be ready to shine again in no time! Upgrade your pet's nighttime visibility with our Glowing Paws LED Pet Collar. Order yours today and experience the peace of mind that comes with keeping your furry friend safe and stylish during those twilight adventures. Don't let darkness dim their sparkle! Important InformationMaterial: PlasticPackage Size: 180 x 230 x 50 mm Size:Width: 2.5 cm The maximum length: 50 cmWidth: 2.5 cm The maximum length: 60 cmWidth: 2.5 cm The maximum length: 40 cmPackage Included:1 Pcs LED dog collar1 pc USB cable
-  Updated: 2025-10-28T23:28:39Z
-  Vendor: Dog Hugs Cat
-  Product Type: Dog Collars, Leashes & Harnesses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-7884580.jpg?v=1761553380
-  - [Black / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555298621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9683935.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Red / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555331389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-4310744.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Red / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555364157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-4310744.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Black / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555396925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9683935.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Red / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555429693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-4310744.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Green / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555462461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9314109.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Green / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555495229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9314109.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Blue / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555527997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-7725421.jpg?v=1761553382
-    Price: $23.31 CAD
-  - [Blue / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555560765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-7725421.jpg?v=1761553382
-    Price: $23.31 CAD
-  - [Green / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555593533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9314109.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Black / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555626301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-9683935.jpg?v=1761553381
-    Price: $23.31 CAD
-  - [Blue / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50869555659069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-paws-led-pet-collar-7725421.jpg?v=1761553382
-    Price: $23.31 CAD
 - [Bow Tie](https://urbanpawsyyc.myshopify.com/products/bow-tie): The perfect accessory for any special occasion. Our leather bow tie comes in two sizes and can fit any non slip-on collar that is 3/4" - 1.5" wide. The bow tie attaches to the collar by two elastic webbings. Sizes S/M - 4" x 1.75" M/L - 4.5" x 2.5"
   Updated: 2025-10-28T23:28:40Z
   Vendor: Wedge Dog Collection
@@ -157,13 +103,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-2588484.jpg?v=1761636233
     Price: $19.79 CAD
-- [Glowing Guardian - Usb Rechargeable Led Pet Safety Collar](https://urbanpawsyyc.myshopify.com/products/glowing-guardian-usb-rechargeable-led-pet-safety-collar): Introducing the Glowing Guardian - the ultimate USB Rechargeable LED Pet Safety Collar that will keep your furry friend safe and stylish day and night! With its high-quality modern LED lights, this collar is one of the most effective ways to ensure your dog's visibility in any low light conditions. Whether you're taking a stroll in the evening or enjoying a late-night adventure, the Glowing Guardian will make you and your pet stand out from the crowd. No more worrying about running out of batteries! This collar is rechargeable via Micro USB, making it incredibly convenient. Simply plug it into your phone charger, laptop, PC, tablet, smart TV, or any USB power adapter. The Micro USB cable is included, so you'll have everything you need to keep your pet's collar charged and ready to go. Designed with your pet's comfort in mind, the Glowing Guardian is adjustable and weatherproof. Its IP65 rating ensures that it can withstand any outdoor elements, keeping your furry friend safe and visible in rain or shine. Plus, it's one size fits all! The collar measures 60cm (excluding the switch), and the tube can be easily cut to any length using scissors to ensure the perfect fit for your pet. Safety is always our top priority, and the Glowing Guardian delivers. Whether you're celebrating Halloween, Christmas, Valentine's Day, or any other festival, this collar is perfect for adding a touch of festive spirit. It's also great for everyday use, ensuring your pet is always visible during walks or playtime. Don't compromise on your pet's safety and style. Get the Glowing Guardian - the USB Rechargeable LED Pet Safety Collar that combines functionality, comfort, and fashion. Order yours today and give your furry friend the protection they deserve! Important InformationMaterial: PlasticPackage Size: 250 x 250 x 50 mm SpecificationPattern: single colorColor: WhiteMaterial; ABS+PVSApplicable object: DogApplicable festivals: Halloween/Ghost's Day, Birthday, Christmas, Valentine's Day, Spring Festival, Mid-Autumn Festival, Easter, Carnival, National Day, April Fool's Day, Qixi Festival, other festivalsSuitable for the season: all seasonsPackage ContentPet collar*1
-  Updated: 2025-10-29T01:43:37Z
-  Vendor: Dog Hugs Cat
-  Product Type: Dog Collars, Leashes & Harnesses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/glowing-guardian-usb-rechargeable-led-pet-safety-collar-5981889.jpg?v=1761636222
-  Price: $28.23 CAD
 - [''BATMAN'' collar](https://urbanpawsyyc.myshopify.com/products/batman-collar): BESTIA CUSTOM DOG GEAR prouldy presents: A Super Hero collar for a Super Dog!! Batman collar is a MUST HAVE for your medium to giant sized dog. The collar is soft padded for absolute comfort. It has an unique handmade design. The Batman logo is made out of cobra pattern. This collar has a total width of 6,3 cm (2.5 inch) Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch ATTENTION! THIS COLLAR WILL BE MADE ON ORDER WITHIN 1 WEEK! This is the perfect collar for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. 100% genuine leather handmade quality made in Europe unique design
   Updated: 2025-10-29T17:29:27Z
   Vendor: DC-Bestia Brands
@@ -194,30 +133,6 @@
   - [XXL- fits a neck of 25.6 to 29.5 inch (65 to 75 cm) / Collar Only](https://urbanpawsyyc.myshopify.com/products/batman-collar?variant=50914645279037)
     Availability: Available
     Price: $263.38 CAD
-- [Can I Pet Your Dog T-shirt](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt): This unisex shirt fits like a well-loved favorite, featuring a crew neck, short sleeves and designed with superior combed and ring-spun cotton for ultimate comfort. 4.3-ounce, 100% combed ring spun cotton, 30 singles 90/10 combed ring spun cotton/poly Slightly slimmer body and shorter sleeves 1x1 rib knit neck Tear-away label Shoulder to shoulder taping.
-  Updated: 2025-10-29T05:31:48Z
-  Vendor: DC-Printliss
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/d8jvvmkhxmrgjy2u3ket.jpg?v=1761715806
-  - [2X-Large](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653471037)
-    Availability: Available
-    Price: $34.79 CAD
-  - [X-Large](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653503805)
-    Availability: Available
-    Price: $32.00 CAD
-  - [Large](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653536573)
-    Availability: Available
-    Price: $32.00 CAD
-  - [Medium](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653569341)
-    Availability: Available
-    Price: $32.00 CAD
-  - [Small](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653602109)
-    Availability: Available
-    Price: $32.00 CAD
-  - [X-small](https://urbanpawsyyc.myshopify.com/products/can-i-pet-your-dog-t-shirt?variant=50914653634877)
-    Availability: Available
-    Price: $32.00 CAD
 - ["Aztec" black dog collar](https://urbanpawsyyc.myshopify.com/products/aztec-black-dog-collar): BESTIA COLLARS® proudly presents: The 2.5 inch wide, studded genuine leather " Aztec " collar. This collar features a base layer of 3.6 mm thick high quality Italian belt leather, meant only for the finest men's belts. The inner side features a soft leather decoration out of nappa leather. Although soft and thin, this leather is very durable and comfortable on your dog's neck. Both leather sorts are naturally tanned for 100% safe use, without the use of heavy chemicals. The decoration consists of old silver plated big rivets and smaller old brass pyramid rivets. In addition a metal zip makes the collar look even more stylish and massive! The buckle and D ring are heavy duty, 5 cm (2 inch) wide. 3,5 cm (1.5 inch) for the Medium size. All metal parts are heavy duty nickel plated in silver color. Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch) Color: Black This is the perfect collar for your big pet. Fit`s perfect on dogs of large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. The leash is is 35.5 inch (90 cm) long and 1.2 inch (3 cm) wide. It has a leather padded handle and is made out of the same leather like your "Aztec" collar, harness or muzzle. In addition to that it has a decorative rivet on the handle and 2 rivets on the snap piece which makes it stand out and give you the unique feeling you and your dog deserve. • 100% genuine leather • soft padded • handmade quality • made in Europe • unique design
   Updated: 2025-10-29T17:30:13Z
   Vendor: DC-Bestia Brands
@@ -585,13 +500,6 @@
   - [S- French Bulldog Size / Harness Only](https://urbanpawsyyc.myshopify.com/products/the-bowtie-leather-harness-brown-small-to-medium-size?variant=50914660122941)
     Availability: Available
     Price: $147.65 CAD
-- [Bestia Dog Sport PM Recovery](https://urbanpawsyyc.myshopify.com/products/bestia-dog-sport-pm-recovery): Bestia Dog Sport PM Recovery This 100% natural food supplement is specially developed to help your dog relax and recover from intensive workouts, long walks, and anxiety problems when left alone. It helps dogs suffering from hyperactivity PM Recovery is a specially formulated blend of natural ingredients known to help support a balanced mind and mood. PM Recovery includes Taurine, Inositol, L-Theanine, Thiamine (Vitamin B1), Ginger Extract, and Magnesium. The chewable tablets are a tasty chicken flavor that your dog will love, though they are also easy to crumble up and hide in treats or food if necessary. Gentle natural support to help keep your dog in a constant peaceful state of mind. Bestia Dog Sport Supplements are manufactured in the UK to GMP code of practice and ISO 9001 quality assurance certification. + Helps your dog to recover from intensive workouts + Increases trainability, and improve mood + Helps with sleeping problems + Support a peaceful state of mind + Helps dogs with anxiety and hyperactivity problems + 100% natural ingredients + Yummy chicken flavor Directions: These tablets are meant to be eaten directly, or as part of a meal, crushed if necessary into your dog’s food or a treat. Up to 10kg: half to 1 tablet per day 11-25kg : 2 tablets per day 26-40kg: 2-3 tablets per day Over 40kg: 4 tablets per day The dose can be given based on approximately 1 tablet per 12.5kg of weight. Ingredients: Taurine 240mg Inositol 240mg L-Theanine 15mg Thiamine (Vit B1) 6mg Ginger Extract 5mg Magnesium 4mg Other Ingredients: Microcrystalline Cellulose, Di-Calcium Phosphate, Magnesium Stearate, Chicken Flavoring. Caution! If under medical supervision please consult a vet before use. Adverse reactions to this product are rare but in such an event please discontinue use and consult your vet. Store in a cool, dry place. Keep out of reach of children. Diabetic pet owners should consult a vet before using this supplement. The chicken flavoring used is a synthetic flavor added to dextrose and may not be suitable. 120 Chicken Flavor Tablets
-  Updated: 2025-10-29T18:42:43Z
-  Vendor: DC-Bestia Brands
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/04_Bestia_-_PM_Recovery.jpg?v=1761715948
-  Price: $67.66 CAD
 - [Bestia QR Dog ID Tag](https://urbanpawsyyc.myshopify.com/products/bestia-qr-dog-id-tag): BESTIA CUSTOM DOG GEAR presents: Animal-ID QR Code Dog ID Tag: The Animal-ID QR Code Dog ID Tag - the ultimate solution for ensuring your furry friend is always safe and easily identifiable. This innovative tag features a QR code linked to your pet's profile on Animal-id.net, an online database of pet information. The tag is made of durable stainless steel, ensuring it can withstand the wear and tear of everyday use. The QR code can be scanned using any smartphone, providing instant access to your pet's information, including your contact details and any important medical information. This information can be updated at any time through your Animal-id.net account. If your pet gets lost, once the QR code is scanned, you will receive an email with the GPS location of the scanning place. This allows you to quickly track your pet and ensure their safe return. The finder can input the tag number on the site and view your contact information, making it easier for them to reach you and return your pet. You'll also receive a notification every time someone scans the tag, so you'll always know who has your pet's information. This added level of security gives you peace of mind knowing that your pet is always identifiable and their information is just a scan away. Never again will you have to worry about losing your pet or not having their information on hand. The Animal-ID QR Code Dog ID Tag gives peace of mind, knowing that your pet is always identifiable, and that their information, as well as their location, is just a scan away. Keep your pet safe and stylish with this must-have accessory!
   Updated: 2025-10-29T20:27:05Z
   Vendor: DC-Bestia Brands
@@ -726,8 +634,8 @@
 ## Collections
 
 - [Pet Safety](https://urbanpawsyyc.myshopify.com/collections/frontpage)
-  Updated: 2025-10-28T23:28:39Z
-  Total Products: 1
+  Updated: 2025-10-30T00:39:20Z
+  Total Products: 0
 - [Pampered Pets](https://urbanpawsyyc.myshopify.com/collections/pet-care): Pamper your pet like a pro — smooth, shiny, and stress-free
   Updated: 2025-10-29T05:51:24Z
   Total Products: 0
