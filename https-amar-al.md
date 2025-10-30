@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-30T00:00:51.485Z
+- Updated At: 2025-10-30T04:01:01.102Z
 
 ## Products
 
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/159-ANTI-COMEDONE-CREAM-unclogs-and-refines-skin-pores-COMEDO-ACNE-40-ml-1.png?v=1757514773
   Price: ALL 3,370.00 ALL
 - [CORNEO-SENSILIUM - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium](https://amar.al/products/dermo-regenerating-soothing-cream-face-body-cream-corneo-sensilium-75-ml): Pharmaceris – A Corneo-Sensilium Dermo-Regenerating Soothing Cream Krem i cili ka një veprim korrigjues në epidermën e dëmtuar. Rigjeneron intensivisht lëkurën pas trajtimeve, dëmtimit mikro, irritimit dhe gërvishtjeve. Ka një efekt forcues dhe rikthyes në trashësinë fiziologjike të epidermës. Hidraton lëkurën, duke eleminuar thatësinë e epidermës dhe rivendosjen e ekuilibrit natyror të shtresës mbrojtëse të shtresës-kornesë. Vaji i kërpit ka një efikasitet mjekësor në lehtësimin e irritimit, kruajtjes dhe eritemës. Tolerancë dhe efikasitet të lartë Testuar klinikisht dhe dermatologjikisht Udhëzime mbi përdorimin Kremi duhet të aplikohet 1 ose 2 herë në ditë ose, në varësi të nevojave, në lëkurën e pastruar dhe tharë më parë. - Amar Pharma - Pharmaceris - Krem Fytyre Corneo Sensilium
-  Updated: 2025-10-29T09:36:09Z
+  Updated: 2025-10-30T03:46:25Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -228,14 +228,14 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/57-CURRANT-Regenerating-serum-for-hands-and-nails-with-argan-oil-1.jpg?v=1758103521
   Price: ALL 915.00 ALL
 - [Delicate and smooth feet mask in socks - Amar Pharma - Lirene - Maskë Këmbësh](https://amar.al/products/delicate-and-smooth-feet-mask-in-socks): Kombinim efektiv i scrubit te trashe dhe enzimave eksfoliuese se bashku me masken rigjeneruese per te rikthyer lemimin dhe butesine e lekures ne nje rutine bukurie. Hapni pjesen e siperme te qeskes qe permban scrub-in. Aplikojeni produktin ne lekuren e paster dhe te lagur te kembeve, masazhojeni me levizje rreethore per rreth 1 minute, shpelajeni me uje. Thani kembet me peshqir. Hapni pjesen kryesore te qeses dhe nxirrni corapet. Hapni secilen corape duke hapur me kujdes pjesen e siperme te corapit. Vishni corapet dhe lerini perafersisht 30 minuta. Hiqni corapet dhe masazhoni produktin e mbetur ne kembe. - Amar Pharma - Lirene - Maskë Këmbësh
-  Updated: 2025-10-29T10:51:02Z
+  Updated: 2025-10-30T01:59:38Z
   Vendor: Lirene
   Product Type: Maskë Këmbësh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/62-Delicate-and-smooth-feet-mask-in-socks-1.jpg?v=1758103527
   Price: ALL 1,548.00 ALL
 - [DEPIGMENT INTENSE 5% - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/depigment-intense-5-intensive-anti-pigment-night-cream): INDIKACIONEPër kujdesin gjatë natës për lëkurën me çngjyrim ose ton të pabarabartë, të zbehtë ose të pashkëlqyer, ose të lëkurës në rrezik të zhvillimit të çngjyrosjes për shkak të ekspozimit në diell, shtatzënisë, trajtimeve dermatologjike dhe estetike ose inflamacionit.Jo komedogjene.I përshtatshëm për lëkurë me mbindjeshmëri ndaj nikelit.VEPRIMFormula dermatologjike e kremit, me veti shumë efektive për zvogëlimin e ngjyrës, zvogëlon numrin, madhësinë dhe dukshmërinë e parregullsive të tonit të lëkurës dhe njollave të pigmentuara.Formuluar me kompleksin zbardhues (P.440431) MELAGEA (glabridin, acid ellagic), aplikimi në pritje për patentë, me një efekt frenues të provuar në enzimën tirozinazë, përgjegjëse për procesin e melanogjenezës.Ka një efekt të fortë bllokues në formimin e njollave të reja, ndërsa zvogëlon dukshmërinë e pikave ekzistuese të pigmentimit. Niacinamidi shumë i koncentruar i kombinuar me ekstraktin e algave të ylberit që zbardh lëkurën fuqizon efektet e kompleksit, duke reduktuar sintezën e melaninës dhe maturimin e melanosomeve, duke çuar në prishjen e tyre dhe rikthimin e procesit natyral të pigmentimit të lëkurës dhe arritjen e një ngjyre uniforme.Rezultati është një reduktim i dukshëm gradual i çngjyrosjeve dhe rikthim i shkëlqimit të lëkurës pa depigmentim të lëkurës së shëndetshme.Leukine-BarrierTM hidraton dhe ushqen lëkurën, qetëson dhe redukton irritimin. Përveç vetive të tij për zvogëlimin e ngjyrës, kremi zvogëlon rrudhat (numrin, vëllimin, thellësinë), duke e lënë lëkurën dukshëm (+75%**) më të lëmuar.Vitamina PP, duke rritur nivelet e NAD+, aktivizon gjenet e jetëgjatësisë SIRT1 dhe SIRT3 dhe rregullon sintezën e ceramideve esenciale në lëkurë, duke forcuar mbrojtjen e lëkurës kundër dëmtimeve UV dhe duke përmirësuar riparimin e dëmtimit të lëkurës të shkaktuar nga UV.PËRBËRËSITniacinamidekompleksi MELAGEALeukine-BarrierTMEkstrakti i Algave të YlberitUDHËZIME PËR PËRDORIMPërdoreni çdo ditë në rutinën tuaj të kujdesit të lëkurës gjatë natës. Rekomandohet përdorimi i kremit ditor Pharmaceris W SPF 50+ si trajtim plotësues.Efektet mund të shihen në 4-6 javë të përdorimit të produktit.Shmangni ekspozimin në diell gjatë trajtimit dhe për 10 javë më pas.SIGURIA DHE EFIKASITETITOLERANCË DHE EFIKASITETI I LARTËTESTUAR DERMATOLOGJIKISHT100% barazon strukturën e lëkurës93% ndriçon lëkurën87% zvogëlon zbardhjet ekzistuese80% parandalon njolla të reja të lëkurës - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-29T10:56:56Z
+  Updated: 2025-10-30T00:05:06Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -256,7 +256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/141-DEPIGMENTATION-SERUM-TO-TREAT-DISCOLOURATIONS-ACIPEEL-3x-30-ml-1.png?v=1737379793
   Price: ALL 3,990.00 ALL
 - [Diamond lifting 3D anti-wrinkle lifting eye cream - Amar Pharma - Lirene - Krem Sysh](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-lifting-eye-cream): Krem anti-rrudhe per syte me 24k ar, diamante, peptide bakri dhe kafeine, qe siguron nje rinovim tre-dimensional te lekures. Aplikojeni kremin ne lekuren e pastruar rreth syve. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Krem Sysh
-  Updated: 2025-10-29T11:26:14Z
+  Updated: 2025-10-30T01:05:10Z
   Vendor: Lirene
   Product Type: Krem Sysh
   Availability: Available
@@ -270,21 +270,21 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/przeciwzmarszczkowy-plyn-micelarny-10e07690.s7ij.webp?v=1737122247
   Price: ALL 1,989.00 ALL
 - [Diamond lifting 3D anti-wrinkle rebuilding cream 70+ day & night - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rebuilding-cream-70-day-night): Krem nate rindertues anti-rrudhe me 24k ar, diamante, peptide bakri dhe niacinamide per rinovim tre-dimensional. Ideal per nevojat e nje lekure 70+ vjec. Cdo mengjes dhe mbremje, aplikojeni kremin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-29T11:39:49Z
+  Updated: 2025-10-30T03:16:30Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d7.webp?v=1737122251
   Price: ALL 2,881.00 ALL
 - [Diamond lifting 3D anti-wrinkle regenerating cream 60+ day & night - Amar Pharma - Lirene - Krem Anti Rrudhë](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-regenerating-cream-60-day-night): Krem nate rigjenerues anti-rrudhe me 24k ar, diamante, peptide bakri dhe ceramide per rinovim tre-dimensional. Ideal per nevojat e nje lekure 60+ vjec. Cdo mengjes dhe mbremje, aplikojeni kremin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. - Amar Pharma - Lirene - Krem Anti Rrudhë
-  Updated: 2025-10-29T11:41:32Z
+  Updated: 2025-10-30T00:59:37Z
   Vendor: Lirene
   Product Type: Krem Anti Rrudhë
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/d6.webp?v=1737122256
   Price: ALL 2,881.00 ALL
 - [Diamond lifting 3D anti-wrinkle rejuvenating serum - Amar Pharma - Lirene - Serum Fytyre](https://amar.al/products/diamond-lifting-3d-anti-wrinkle-rejuvenating-serum): Serum rinovues per fytyren, qafen dhe dekoltene me 24k ar, diamant, peptide bakri dhe niacinamide. Suporton 3D lifting, lemon dhe redukton rrudhat. Aplikojeni serumin ne lekuren e pastruar te fytyres, qafes dhe dekoltese. Perdoreni cdo mengjes dhe mbremje. - Amar Pharma - Lirene - Serum Fytyre
-  Updated: 2025-10-29T11:47:47Z
+  Updated: 2025-10-30T03:42:08Z
   Vendor: Lirene
   Product Type: Serum Fytyre
   Availability: Available
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/149-EMOTOPIC-SPECIAL-LIPID-REPLENISHING-CREAM-for-face-and-body-micro-crack-preventing-reducing-itchiness-75-ml-1.png?v=1757514632
   Price: ALL 2,830.00 ALL
 - [DERMO-PROTECTIVE MINERAL CREM SPF 50+ - Amar Pharma - Pharmaceris - Krem Dielli](https://amar.al/products/emotopic-dermo-protective-mineral-cream-spf-50-very-high-protection-to-minimize-skin-irritation-75-ml): Pharmaceris Emotopic Dermo-Protective Mineral Cream 50+ Kremi mineral këshillohet për përdorim në fytyrë dhe trup, për bebe që nga dita e parë e jetës, fëmijë dhe të rritur, me qëllim që të sigurojë mbrojtje shumë të lartë nga rrezatimi diellor dhe të minimizojë acarimin e lëkurës të shkaktuar nga ekspozimi ndaj agresorëve mjedisorë (dielli, era, temperatura nën zero). Rekomandohet për lëkurat e ndjeshme dhe atopike të cilat janë të prirura ndaj alergjive prej rrezeve të diellit, filtrave kimikë, përbërjeve aromatike dhe konservuesve. Kremi dermo-mbrojtës i bazuar në filtra minerale 100% siguron mbrojtje shumë të lartë nga rrezet e forta të diellit dhe agresorët mjedisorë, duke kundërvepruar me efektin e tyre negativ në lëkurë. Një sistem i sigurte i filtrave minerale reflekton dhe shpërndan rrezet e diellit, duke parandaluar rrezatimin e dëmshëm UVA/UVB të depërtojë në lëkurë dhe të dëmtojë ADN-në e qelizave të lëkurës. Minimizon rrezikun e krijimit të djegieve nga dielli, skuqjes dhe acarimit, si dhe reaksioneve fotoalergjike. Përbërja komplekse nga vajrat e kanola dhe kërpit, të kombinuara me algat e arta forcon ndjeshëm barierën mbrojtëse të lëkurës kundër agresorëve mjedisorë. Ndihmon në riparimin dhe rigjenerimin e epidermës, eliminon tharjen dhe lehtëson irritimin e lëkurës, kruajtjen, skuqjen. Ofron një efekt qetësues duke eliminuar ashpërsinë dhe ndjesinë e lëkurës së tendosur dhe parandalon humbjen e tepërt të lagështisë. Udhëzime mbi përdorimin Përhapni butësisht një sasi të vogël të kremit në të gjithë fytyrën dhe trupin. Rekomandohet për përdorim të përditshëm 30 minuta përpara ekspozimit ndaj agresorëve mjedisorë. Aplikojeni përsëri kremin çdo 2 orë dhe çdo herë pas larjes ose të notuarit. https://pharmaceris.com/en/product/10E16908-13-02/pharmaceris-e-dermo-protective-mineral-cream-spf-50–very-high-protection-to-minimize-skin-irritation-75-ml - Amar Pharma - Pharmaceris - Krem Dielli
-  Updated: 2025-10-29T11:20:00Z
+  Updated: 2025-10-30T03:18:26Z
   Vendor: Pharmaceris
   Product Type: Krem Dielli
   Availability: Available
@@ -2276,7 +2276,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitleddesign.jpg?v=1757513679
   Price: ALL 2,490.00 ALL
 - [CREAMY BODY SHOWER GEL - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/emotopic-creamy-body-shower-gel): EMOTOPIC CREAMY BODY SHOWER GEL Pharmaceris INDIKACIONEFormulë delikate, pa shkumë, e rekomanduar për kujdesin e përditshëm të lëkurës së ndjeshme, të thatë, të ashpër, të prirur për acarim, kruajtje dhe djegie.Gjithashtu të përdoret në mënyrë profilaktike për lëkurë të shëndetshme për të parandaluar tharjen dhe për të minimizuar rrezikun e zhvillimit, intensifikimit dhe përsëritjes së simptomave të dermatitit atopik.Asnjë kufizim moshe.Nuk kërkon përdorimin e një agjenti pastrues shtesë. VEPRIMXhel për larje trupi i bazuar në zbutës aktivë, pastron butësisht lëkurën, duke e lënë atë intensivisht të hidratuar, të lëmuar dhe të butë në prekje.Jashtëzakonisht delikate, biokompatibile me pH fiziologjik të lëkurës, baza larës nuk ndikon në barrierën e saj hidrolipide mbrojtëse. Parandalon tharjen e tepërt dhe rrëshqitjen e epidermës.Vaji kanola, për shkak të vetive unike ushqyese dhe qetësuese, ndihmon në rivendosjen e ekuilibrit natyror, fiziologjik të lëkurës.Në kombinim me vajin e kërpit, i pasur me acide yndyrore esenciale (acidet yndyrore esenciale) - acidet linoleike dhe α-linolenic me veti vaji, tregon efikasitet të lartë në kujdesin e lëkurës së thatë dhe atopike, duke i rikthyer komoditetin e saj dhe duke eliminuar tensionin dhe vrazhdësinë.Xheli përmban vitaminë E rigjeneruese të epidermës, e cila siguron lubrifikimin dhe ushqimin e duhur të epidermës, rindërton barrierën natyrale hidrolipide të lëkurës, duke e mbrojtur atë nga efektet negative të faktorëve të jashtëm. PËRBËRËSITVitamina EVaj kanolaVaji i kërpit (vaji i farës së kanabisit Sativa) UDHËZIME PËR PËRDORIMTë porsalindurit dhe foshnjat deri në 6 muaj:Shtoni disa doza (2-3) të xhelit në vaskën e foshnjës të mbushur me ujë, më pas përzieni ujin me dorën tuaj.Temperatura e ujit duhet të jetë rreth 37°C.Lani butësisht trupin dhe kokën e fëmijës.Thajeni butësisht lëkurën me një peshqir, duke shmangur fërkimin.FËMIJËT DHE TË RRITUR:Aplikoni një sasi të vogël xheli në lëkurë dhe përhapeni butësisht në sipërfaqen e saj.Më pas shpëlajeni me ujë dhe thajeni trupin me një peshqir, duke shmangur fërkimin. SIGURIA DHE EFIKASITETIQë në ditën e parë të jetës.Receta e zhvilluar dhe testuar dermatologjikisht dhe klinikisht nën mbikëqyrjen e dermatologëve të fëmijëve. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-29T09:43:22Z
+  Updated: 2025-10-30T01:49:44Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -4090,7 +4090,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Availability: Available
   Price: ALL 0.00 ALL
 - [Krijo Rutinen Tende - Amar Pharma - Amar Pharma - byobSuite](https://amar.al/products/copy-of-zgjidh-dhuraten-tuaj): - Amar Pharma - Amar Pharma - byobSuite
-  Updated: 2025-10-29T22:51:14Z
+  Updated: 2025-10-30T01:05:16Z
   Vendor: Amar Pharma
   Product Type: byobSuite
   Availability: Available
