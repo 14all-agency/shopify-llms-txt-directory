@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-29T16:00:48.943Z
+- Updated At: 2025-10-30T04:01:09.272Z
 
 ## Products
 
@@ -9188,7 +9188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_7c8e3900-da94-4e79-8ff9-9ed10a4b181b.jpg?v=1752213970
   Price: ₹299.00 INR
 - [Funny Shinchan Face-Stretch Figurine](https://theworldofnerds.com/products/funny-shinchan-face-stretch-figurine): This approximately 6.6cm tall Shinchan figure captures the peak of his dramatic flair—fiercely pulling his cheeks outward, eyebrows furrowed like a determined rebel, and tongue sticking out in full defiance. It feels like he’s in the middle of playfully mocking someone, maybe even challenging a scolding with his usual bold antics. The exaggerated pose and confident expression bring a mix of silliness and defiance, instantly evoking childhood moments of harmless mischief and playful rebellion, making it a hilarious and expressive addition to any collection.
-  Updated: 2025-08-30T15:21:46Z
+  Updated: 2025-10-29T17:55:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9202,7 +9202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_782f41b4-4c7b-4e22-b52e-44a92c8f62af.jpg?v=1752214120
   Price: ₹299.00 INR
 - [Shinchan Funny Big Ear Pose Collectible Figure](https://theworldofnerds.com/products/shinchan-funny-big-ear-pose-collectible-figure): Get ready to laugh with this one-of-a-kind Shinchan collectible figure! Capturing the beloved character in a goofy oversized ear pose, this toy is perfect for fans who love Shinchan’s wild expressions and iconic humor. A fantastic piece for anime lovers, collectors, or anyone who enjoys quirky desk decor.
-  Updated: 2025-07-29T05:15:34Z
+  Updated: 2025-10-29T17:55:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10252,21 +10252,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1DEADPOOLWOLVERINE.jpg?v=1758267650
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: The Birth of a Legend Standard Version](https://theworldofnerds.com/products/iron-man-mark-i-the-birth-of-a-legend-standard-version): Iron Man Mark I rises from the desert dust, crude yet unstoppable, a suit built not from luxury but desperation. Sparks burst from its battered steel frame, each one a reminder of Tony Stark’s fight to live and to break free. The glowing arc reactor at its core symbolizes not just power, but rebirth—the moment Iron Man was truly born. Though clunky in design, the Iron Man Mark I marks the first step in a legacy that would change the world forever.
-  Updated: 2025-10-29T12:52:45Z
+  Updated: 2025-10-30T01:43:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI.jpg?v=1761742365
   Price: ₹3,999.00 INR
 - [Iron Man Mark I: Forged in Fire, Born in Light Luminous Version](https://theworldofnerds.com/products/iron-man-mark-i-forged-in-fire-born-in-light-luminous-version): Amidst fire, dust, and chaos, Iron Man Mark I steps forward like a blazing titan. The crude steel plates glow with sparks of defiance, and at its core shines the arc reactor—a radiant beacon of survival and rebirth. What began in captivity emerges as destiny, a luminous birth of a hero who would one day rise as Iron Man. This is not just a machine of escape—it is the glowing beginning of a legend.
-  Updated: 2025-10-29T12:52:00Z
+  Updated: 2025-10-30T03:46:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3IronmanI_bf1068a8-98df-46fa-8b21-fd61615cb09e.jpg?v=1761742320
   Price: ₹4,999.00 INR
 - [Iron Man Mark 15: A Blaze in the Shadows](https://theworldofnerds.com/products/iron-man-mark-15-a-blaze-in-the-shadows): Blazing through the air with thrusters ignited, Iron Man Mark 15 glows like a streak of living fire. Built for stealth yet burning with brilliance, this armor carries the elegance of shadows and the fury of flames. Its sharp design gleams under the light, while the thrusters leave a trail of radiant power. A luminous symbol of evolution, the Mark 15 embodies Tony Stark’s genius—quiet in design, but unstoppable in action.
-  Updated: 2025-10-29T13:10:20Z
+  Updated: 2025-10-30T01:18:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10280,7 +10280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1XVIIronman3.jpg?v=1758268019
   Price: ₹3,999.00 INR
 - [Iron Man Mark 17 (Heartbreaker) – Iron Man 3 | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-17-heartbreaker-iron-man-3-marvel-infinity-saga-collectible): The Iron Man Mark 17 armor, known as "Heartbreaker", is one of Tony Stark’s specialized suits from Iron Man 3. Built as a heavy-duty artillery unit, this armor features a distinctive chest-mounted arc reactor designed for high-powered energy blasts. The figure includes multiple interchangeable hands, repulsor effect pieces, and a display stand, making it a must-have addition to any Marvel Infinity Saga Iron Man collection.
-  Updated: 2025-10-29T13:09:27Z
+  Updated: 2025-10-30T01:54:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10294,7 +10294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2IronmanIIILuminousversion.jpg?v=1758268203
   Price: ₹3,999.00 INR
 - [Iron Man Mark 3 (Mark III) – Luminous Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Luminous Version collectible features a chargeable light-up function that illuminates the arc reactor and eyes, bringing them to life and enhancing the display with dramatic, vibrant lighting. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
-  Updated: 2025-10-29T13:09:48Z
+  Updated: 2025-10-30T02:07:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10336,7 +10336,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Iron-Man-Mark-XLII.jpg?v=1758268683
   Price: ₹3,999.00 INR
 - [Iron Man Mark XLII: Luminous Legacy Ignited by Lightning ⚡](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Amid the storm’s wrath, the Mark XLII rises—a luminous sentinel of red and gold beneath a sky aflame with lightning. Each bolt dances across his armor, casting him as both guardian and captive of the tempest. Shattered fragments at his feet gleam like echoes of past battles, each scar a testament to endurance. Above, the storm rages on—a mirror of his own radiant chaos, where brilliance, burden, and resolve collide in light. ⚡
-  Updated: 2025-10-29T12:52:30Z
+  Updated: 2025-10-30T01:57:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10357,14 +10357,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5IronmanIIILuminousversion_5684fa98-d017-48ea-8a49-11ffafeffdc9.jpg?v=1761742380
   Price: ₹4,999.00 INR
 - [Iron Man Mark 85: The Final Armor](https://theworldofnerds.com/products/iron-man-mark-85-the-final-armor): The Mark 85 stands not just as a suit of armor, but as the culmination of every battle, every scar, and every choice that led to the Endgame. Its gleaming red and gold design carries the weight of finality, while the scattered weapons echo a war that demanded everything. Behind the steel is not invincibility, but a man ready to give the ultimate sacrifice—because saving the world meant more than surviving it.
-  Updated: 2025-10-29T13:10:04Z
+  Updated: 2025-10-30T03:13:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2AvengersendgameIronmanLXXXV.jpg?v=1761743404
   Price: ₹3,999.00 INR
 - [Mark IV: The Birth of Armor With Suit up gantry](https://theworldofnerds.com/products/mark-iv-the-birth-of-armor-with-suit-up-gantry): The gantry arms reach out like guardians of destiny, each mechanical motion a ritual of transformation. Flames of power linger nearby, waiting to ignite as the armor locks into place. In that suspended moment, Tony Stark stands between man and legend—vulnerable yet unstoppable, fragile yet armored. The gantry doesn’t just build the suit; it builds the myth of Iron Man.
-  Updated: 2025-10-29T12:51:23Z
+  Updated: 2025-10-30T01:31:42Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10385,7 +10385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1SpidermanUpgradedsuit.jpg?v=1758273730
   Price: ₹3,999.00 INR
 - [Spider-Man No Way Home Integrated Suit Action Figure](https://theworldofnerds.com/products/spider-man-no-way-home-integrated-suit-action-figure): This collectible showcases Spider-Man in his stunning Integrated Suit from No Way Home, blending his Iron Spider and Upgraded suits into one heroic design. The metallic gold and red detailing gleam brilliantly, giving a battle-ready appearance. The set includes multiple interchangeable hands, web-shooting effects, and a sturdy display stand for posing. It feels like a scene right after Peter upgrades his suit for the multiversal showdown, ready to face villains from across dimensions.
-  Updated: 2025-10-29T13:10:36Z
+  Updated: 2025-10-30T01:28:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10399,7 +10399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Avengersageofultron.jpg?v=1758273978
   Price: ₹3,999.00 INR
 - [Marvel War Machine (Mark I) with Blast Effects & Display Stand](https://theworldofnerds.com/products/marvel-war-machine-mark-i-with-blast-effects-display-stand): This figure recreates War Machine’s first full appearance in Iron Man 2, complete with his iconic shoulder-mounted minigun and armored plating. The matte black and gunmetal finish gives him a powerful, military-grade look. The set includes interchangeable hands, blast effects, and a sturdy display stand to showcase him in mid-combat poses. It feels like War Machine has just stepped off the big screen, ready to unleash a barrage of firepower alongside Iron Man.
-  Updated: 2025-10-29T12:51:46Z
+  Updated: 2025-10-30T01:31:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
