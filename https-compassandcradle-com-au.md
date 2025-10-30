@@ -8,16 +8,16 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-10-29T16:00:32.549Z
+- Updated At: 2025-10-30T20:00:41.246Z
 
 ## Products
 
 - [Requires Snacks Tee| Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/requires-snacks-tee): Requires Snacks tee — soft cotton, oversized fit, fun slogan. Pair with matching “Snack Provider” tee for mum & child. Shop now!
-  Updated: 2025-10-28T05:33:27Z
+  Updated: 2025-10-30T11:35:19Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/9CDF2801-C496-418F-B4ED-6D77D9D5A6BA.jpg?v=1760425760
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/9CDF2801-C496-418F-B4ED-6D77D9D5A6BA.jpg?v=1761824106
   - [0-6 months](https://compassandcradle.com.au/products/requires-snacks-tee?variant=49724512207133)
     Availability: Available
     Price: $37.00 AUD
@@ -43,11 +43,11 @@
     Availability: Available
     Price: $37.00 AUD
 - [Snack Tee | Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/snack-tee-adults): Snack Tee- Embrace your snack hero status with our Snack Provider Adult Tee. Soft, relaxed-fit, and perfect for matching with the kids. Shop now!
-  Updated: 2025-10-28T05:33:27Z
+  Updated: 2025-10-30T11:35:18Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/30813250-0DC6-417E-B4F7-5C0D59FB891A.jpg?v=1760425834
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/30813250-0DC6-417E-B4F7-5C0D59FB891A.jpg?v=1761824106
   - [X-Small](https://compassandcradle.com.au/products/snack-tee-adults?variant=50221941326109)
     Availability: Available
     Price: $43.00 AUD
@@ -64,11 +64,11 @@
     Availability: Available
     Price: $43.00 AUD
 - [Dummy Holder | 100% Food Grade Silicone](https://compassandcradle.com.au/products/dummy-holder): Say goodbye to lost pacifiers and unnecessary plastic exposure! Our Silicone Dummy Holder is made from soft, BPA-free silicone, offering a safe and hygienic way to store pacifiers while on the go
-  Updated: 2025-10-28T05:33:27Z
+  Updated: 2025-10-30T11:35:19Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cc11.jpg?v=1760425796
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cc11.jpg?v=1761824106
   - [Green](https://compassandcradle.com.au/products/dummy-holder?variant=49778986680605)
     Availability: Available
     Price: $8.00 AUD
@@ -82,11 +82,11 @@
     Availability: Available
     Price: $8.00 AUD
 - [Quick Drying Terry Towel Set - Cray Cray on Vacay- Sky Blue](https://compassandcradle.com.au/products/cray-cray-on-vacay-quick-drying-terry-towel-set): Made from soft, absorbent terry cotton, this quick drying terry towel set keeps little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-10-28T05:33:28Z
+  Updated: 2025-10-30T11:35:18Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/CF916190-FA80-47C2-9C4E-7BDE27E0929B.png?v=1760425806
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/CF916190-FA80-47C2-9C4E-7BDE27E0929B.png?v=1761824107
   - [0-6 Months](https://compassandcradle.com.au/products/cray-cray-on-vacay-quick-drying-terry-towel-set?variant=50221904593181)
     Availability: Available
     Price: $63.00 AUD
@@ -112,11 +112,11 @@
     Availability: Available
     Price: $63.00 AUD
 - [Baby on Board | Car Sticker Decal White](https://compassandcradle.com.au/products/baby-on-board-car-sticker): Enhance road safety with our Baby on Board Car Sticker. Designed by a mum, weather-resistant, and easy to apply. Perfect for new parents. Shop now!
-  Updated: 2025-10-28T05:33:28Z
+  Updated: 2025-10-30T11:35:07Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/baby_on_board_on_car.jpg?v=1760425816
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/baby_on_board_on_car.jpg?v=1761824106
   - [Baby on Board (with arms)](https://compassandcradle.com.au/products/baby-on-board-car-sticker?variant=50178263220509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard.jpg?v=1760425816
@@ -126,25 +126,25 @@
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard2.jpg?v=1760425814
     Price: $10.00 AUD
 - [Beach Bag | Cray Cray on Vacay | Oversized Lobster/Crayfish Beige](https://compassandcradle.com.au/products/beach-bag): Made from durable, easy-to-clean beach bag, it’s built to handle the everyday chaos. With a handy external pocket for quick-grab items and a secure internal pocket, it keeps things organized!
-  Updated: 2025-10-28T05:33:28Z
+  Updated: 2025-10-30T11:35:18Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/FE4B98BC-E525-431C-B206-942F9453097A.jpg?v=1761625686
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/FE4B98BC-E525-431C-B206-942F9453097A.jpg?v=1761824106
   Price: $25.00 AUD
 - [Family Car Sticker | Little Rippers on Board | White](https://compassandcradle.com.au/products/family-car-sticker): Thoughtfully designed by us, this family car sticker is the perfect way to let other drivers know you have kids on board – while adding a fun, surf-inspired touch to your vehicle.
-  Updated: 2025-10-28T05:33:28Z
+  Updated: 2025-10-30T11:35:17Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0709.jpg?v=1760425831
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0709.jpg?v=1761824106
   Price: $10.00 AUD
 - [Compass & Cradle Digital Gift Card – The Perfect Gift for Any Occasion](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion): Can’t decide what to get? Give them the gift of choice with a Compass & Cradle Digital Gift Card. Our gift cards are delivered instantly by email and can be redeemed online at checkout — no extra fees, no expiration dates. Perfect for birthdays, holidays, thank-yous, or last-minute surprises.Available in multiple denominations to fit every budget.
-  Updated: 2025-10-28T12:32:07Z
+  Updated: 2025-10-30T11:35:19Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/573C3436-951A-4070-BEC3-C00366ED61D8.png?v=1760425835
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/573C3436-951A-4070-BEC3-C00366ED61D8.png?v=1761824106
   - [$10.00](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50545800577309)
     Availability: Available
     Price: $10.00 AUD
@@ -163,12 +163,26 @@
   - [$200.00](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50545800741149)
     Availability: Available
     Price: $200.00 AUD
-  - [$230.00](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50547369574685)
-    Availability: Available
-    Price: $230.00 AUD
   - [$250](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50547369607453)
     Availability: Available
     Price: $250.00 AUD
+  - [$223](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50552640307485)
+    Availability: Available
+    Price: $223.36 AUD
+- [Acid Wash Kids Cap (Ages 1-6) | Barefoot Bandit Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Barefoot Bandit Acid Wash Kids Cap (Ages 1–6) Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
+  Updated: 2025-10-30T11:01:37Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0773.jpg?v=1761813180
+  Price: $19.99 AUD
+- [Acid Wash Kids Cap (Ages 1–6) | Mums Fan Club Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-ages-1-6-mums-fan-club-light-brown): Mums Fan Club Acid Wash Kids Cap (Ages 1–6) Keep your little one looking cool and comfy with our Acid Wash Kids Cap, designed to fit children aged 1–6 years. Made from soft, breathable cotton, this toddler/kids cap features a stylish acid wash finish for that effortlessly vintage look. With an adjustable back strap, it’s perfect for growing kids and everyday adventures — from park playdates to family outings. A must-have accessory for both boys and girls, this kids hat adds the perfect finishing touch to any outfit. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a snug fit Soft cotton fabric with acid wash color Unisex design for boys and girls Durable, lightweight, and easy to wear
+  Updated: 2025-10-30T11:00:33Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0788.jpg?v=1761813157
+  Price: $19.99 AUD
 
 ## Collections
 
@@ -205,6 +219,9 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
 - [Compass & Cradle Digital Gift Card](https://compassandcradle.com.au/collections/compass-cradle-digital-gift-card)
   Updated: 2025-10-28T05:33:28Z
   Total Products: 1
+- [Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
+  Updated: 2025-10-30T11:01:39Z
+  Total Products: 2
 
 ## Blogs
 
@@ -233,6 +250,10 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-08-04T02:30:56Z
 - [Your privacy choices](https://compassandcradle.com.au/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-23T06:52:17Z
+- [GV Gift Card Detail](https://compassandcradle.com.au/pages/gv-gift-card-detail): GV Gift Card Detail, do not change this page
+  Updated: 2025-10-30T02:37:31Z
+- [gv-gift-card-balance](https://compassandcradle.com.au/pages/gv-gift-card-balance): GV Gift Card Balance, do not change this page
+  Updated: 2025-10-30T02:37:31Z
 
 ## Policies
 
