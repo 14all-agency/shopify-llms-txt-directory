@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-30T08:00:49.000Z
+- Updated At: 2025-10-30T20:00:41.164Z
 
 ## Products
 
@@ -1758,7 +1758,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5128c46a-7210-4cdf-9180-7f3627b1e52b-Max-Origin.webp?v=1760866104
     Price: $21.52 USD
 - [Honey Plus Size Plaid Wide Strap Overall Dress - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/honey-plus-size-plaid-wide-strap-overall-dress): Shop the Honey Plus Size Plaid Wide Strap Overall Dress. Stylish, comfortable, and made from 100% polyester. Perfect for any casual occasion.
-  Updated: 2025-10-26T19:32:51Z
+  Updated: 2025-10-30T17:18:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3465,7 +3465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
 - [Ruffled Wide Leg Pants - Stylish High Waist Pull-On with Pockets](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop our Ruffled Wide Leg for a chic high waist pant with pockets, perfect for comfort and style. Easy to care for, versatile, and high-quality material.
-  Updated: 2025-10-30T05:20:50Z
+  Updated: 2025-10-30T14:00:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3505,7 +3505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c3710a4f27ad43559bff4a258bcbc17f-Max-Origin.webp?v=1760856581
     Price: $31.16 USD
 - [Devine Ruched Ruffled Mini Dress - Elegant & Comfortable Choice](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Shop the Devine Ruched Ruffled Mini Dress for a chic, stylish look. Designed with ruffled details and a perfect fit, it’s ideal for special occasions and casual outings.
-  Updated: 2025-10-28T23:00:01Z
+  Updated: 2025-10-30T17:28:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3779,7 +3779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c32d29b1a15a4d258fedf7eb14487df8-Max-Origin.webp?v=1760856817
     Price: $24.08 USD
 - [Asymmetrical Off-Shoulder Knit Top | Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/asymmetrical-off-shoulder-knit-top): Shop our Asymmetrical Off-Shoulder Knit Top for a trendy look. Made from a soft blend of materials, this top is perfect for any occasion.
-  Updated: 2025-10-29T16:05:03Z
+  Updated: 2025-10-30T08:21:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4131,7 +4131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/54d48e902b5840dbb223aa17eab7db7d-Max-Origin.webp?v=1760856997
     Price: $46.98 USD
 - [Two-Tone Ribbed Knit Top - Stylish Sweater Set for All Occasions](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set): Discover the Two-Tone Ribbed Knit Top, part of a chic sweater set combining comfort, style, and versatile design for any occasion. Perfect fit with easy care.
-  Updated: 2025-10-29T03:31:38Z
+  Updated: 2025-10-30T14:13:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7927,7 +7927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16480e61bd7548468d21638f1ef4bc0c-Max-Origin.webp?v=1760858615
     Price: $27.08 USD
 - [Leopard Print Contrast Striped V Neck Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-contrast-striped-v-neck-blouse): Shop our Leopard Print Contrast Striped V Neck Blouse for a chic and stylish look. Made from 100% polyester, it features a unique design and is easy to care for.
-  Updated: 2025-10-30T04:40:36Z
+  Updated: 2025-10-30T17:00:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10373,7 +10373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
-  Updated: 2025-10-30T07:01:36Z
+  Updated: 2025-10-30T16:21:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11249,7 +11249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3acd6872e9e4d5eb9a1cd9b8fb72740-Max-Origin.webp?v=1760860512
     Price: $32.54 USD
 - [Ruffled Off-Shoulder Flounce Sleeve Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/ruffled-off-shoulder-flounce-sleeve-blouse): Shop the Ruffled Off-Shoulder Flounce Sleeve Blouse for a blend of comfort and style. Perfect for any occasion, this trendy top features ruffled sleeves and a flattering fit.
-  Updated: 2025-10-30T04:01:04Z
+  Updated: 2025-10-30T08:21:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11638,7 +11638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bb83087d-f750-40ad-94d9-89f714c14cef-Max.webp?v=1760860871
     Price: $20.70 USD
 - [Color Block Crew Neck Drop Shoulder Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-crew-neck-drop-shoulder-sweater): Shop the Color Block Crew Neck Drop Shoulder Sweater for a stylish, comfortable fit. Made from a soft blend of viscose, polyester, and polyamide. Easy care instructions.
-  Updated: 2025-10-30T06:21:55Z
+  Updated: 2025-10-30T15:01:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11910,7 +11910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/328c7e6c7be946f5aa9c0fc1867e9104-Max-Origin.webp?v=1760861157
     Price: $60.70 USD
 - [Openwork One Shoulder Cutout Long Sleeve Sweater - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/openwork-one-shoulder-cutout-long-sleeve-sweater): Discover the stylish Openwork One Shoulder Cutout Long Sleeve Sweater, featuring a chic design and comfortable fit. Perfect for any occasion.
-  Updated: 2025-10-29T14:49:38Z
+  Updated: 2025-10-30T15:41:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12280,7 +12280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-10-30T03:03:26Z
+  Updated: 2025-10-30T19:41:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12868,7 +12868,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b60bde45-226a-4969-88e4-dca4eee3d834-Max-Origin.webp?v=1760862078
     Price: $36.34 USD
 - [BiBi Snakeskin Print Low Gauge Hacci V Neck Top - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/bibi-snakeskin-print-low-gauge-hacci-v-neck-top): Shop the BiBi Snakeskin Print Low Gauge Hacci V Neck Top. Enjoy trendy style with a comfortable fit in a chic snakeskin design. Perfect for casual outings!
-  Updated: 2025-10-24T20:07:56Z
+  Updated: 2025-10-30T13:22:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13491,7 +13491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c0252d2-3240-4b42-a49f-674efbf0d197-Max-Origin.webp?v=1760863118
     Price: $48.76 USD
 - [Bow Embroidered Sweatshirt and Shorts Set - Comfortable & Stylish](https://np0i0a-pm.myshopify.com/products/bow-embroidered-sweatshirt-shorts-set): Discover the Bow Embroidered Sweatshirt and Shorts Set, a chic two-piece outfit made from a soft polyester-cotton blend. Perfect for casual wear, machine washable, and available in multiple sizes.
-  Updated: 2025-10-30T02:00:52Z
+  Updated: 2025-10-30T16:21:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13577,7 +13577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16a2895acdc841f28c35f2e31ed94a58-Max-Origin.webp?v=1760863246
     Price: $42.42 USD
 - [Ribbed Knit Long Sleeve Top - Stylish Sweater Set for Cozy Days](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Discover the Ribbed Knit Long Sleeve Top and Skirt Sweater Set, combining comfort and chic style with a pleated design, perfect for versatile fashion. Shop now!
-  Updated: 2025-10-29T09:40:47Z
+  Updated: 2025-10-30T19:41:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14145,7 +14145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-30T03:02:41Z
+  Updated: 2025-10-30T17:21:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14167,7 +14167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
-  Updated: 2025-10-30T01:50:38Z
+  Updated: 2025-10-30T17:37:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14905,7 +14905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/937cbe86825b4ffb9803f123c7bfbc92-Max-Origin.webp?v=1760864003
     Price: $27.26 USD
 - [Shop Fringe Turtleneck Long Sleeve Sweater Dress](https://np0i0a-pm.myshopify.com/products/fringe-turtleneck-long-sleeve-sweater-dress): Discover the stylish Fringe Turtleneck Long Sleeve Sweater Dress. Made with premium materials for comfort and elegance.
-  Updated: 2025-10-28T01:03:41Z
+  Updated: 2025-10-30T16:08:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15686,7 +15686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
-  Updated: 2025-10-30T06:00:41Z
+  Updated: 2025-10-30T12:01:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18083,7 +18083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/207a0a1a-6f42-46c7-b42f-cb642e72c5b4-Max-Origin.webp?v=1761457710
     Price: $43.36 USD
 - [Long Sleeve Sweatshirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-sweatshirt-and-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 26.8 25.1 42.1 40.6 M 28.7 25.8 44.5 40.9 L 30.7 26.6 46.9 41.3 XL 33.5 27.3 50 41.7 - Pretty Melanin Boutique
-  Updated: 2025-10-30T07:01:08Z
+  Updated: 2025-10-30T20:00:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18127,7 +18127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/92a33380-0ef0-4185-8f1c-8d246c8f09f6-Max-Origin.webp?v=1761457802
     Price: $42.42 USD
 - [Casual Cropped Hoodie and Wide Leg Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 25.2 16.5 37.4 39.2 M 26.8 17.1 39 39.8 L 29.1 17.7 41.3 40.4 XL 31.5 18.3 43.7 40.9 - Pretty Melanin Boutique
-  Updated: 2025-10-29T03:14:11Z
+  Updated: 2025-10-30T13:18:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18149,7 +18149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6945eaa5-eaab-4136-a993-65e6ab88fb32-Max-Origin.webp?v=1761457822
     Price: $56.00 USD
 - [Zip Up Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zip-up-long-sleeve-top-and-pants-set): Features:Pocketed Number of pieces:Two-piece Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 25.2 24.2 41.7 39.4 M 26.8 24.8 43.3 40 L 29.1 25.4 45.7 40.6 XL 31.5 26 48 41.1 - Pretty Melanin Boutique
-  Updated: 2025-10-29T03:15:21Z
+  Updated: 2025-10-30T13:18:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18192,152 +18192,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa1bfbe2-c4bb-4e5f-a74c-97e8c4c3ab3c-Max-Origin.webp?v=1761457877
     Price: $57.78 USD
-- [Round Neck Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1): Features:Pocketed,Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Bottom Length Waist Hip Sleeve Length S 20.9 33.1 39.8 26 36.2 23.2 M 21.3 34.6 40.2 27.6 37.8 23.6 L 21.7 37 40.6 29.1 39.4 24 XL 22 39.4 40.9 30.7 40.9 24.4 2XL 22.4 41.7 41.3 33.1 42.5 24.8 - Pretty Melanin Boutique
-  Updated: 2025-10-30T00:46:26Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-  - [Light Gray / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767303911)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Gray / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767336679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Gray / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767369447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Gray / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767402215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Gray / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767434983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c07c09f0-65c7-418c-9348-09b0f88595c4-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dark Gray / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767467751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dc1ecd0f-db02-41df-b155-b5ae2cc35f60-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dark Gray / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767500519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dc1ecd0f-db02-41df-b155-b5ae2cc35f60-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dark Gray / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767533287)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dc1ecd0f-db02-41df-b155-b5ae2cc35f60-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dark Gray / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767566055)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dc1ecd0f-db02-41df-b155-b5ae2cc35f60-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dark Gray / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767598823)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dc1ecd0f-db02-41df-b155-b5ae2cc35f60-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Black / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767631591)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/131875dc-74ba-473e-ad70-98c26ee88bce-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Black / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767664359)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/131875dc-74ba-473e-ad70-98c26ee88bce-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Black / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767697127)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/131875dc-74ba-473e-ad70-98c26ee88bce-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Black / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767729895)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/131875dc-74ba-473e-ad70-98c26ee88bce-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767762663)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/131875dc-74ba-473e-ad70-98c26ee88bce-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Moss / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767795431)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57b8fee2-fba6-46eb-a857-ea06ea411bf3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Moss / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767828199)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57b8fee2-fba6-46eb-a857-ea06ea411bf3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Moss / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767860967)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57b8fee2-fba6-46eb-a857-ea06ea411bf3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Moss / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767893735)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57b8fee2-fba6-46eb-a857-ea06ea411bf3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Moss / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767926503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57b8fee2-fba6-46eb-a857-ea06ea411bf3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Taupe / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767959271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ba9deafc-6b9b-41e0-be1b-a29671c363c7-Max-Origin.webp?v=1761457871
-    Price: $37.14 USD
-  - [Taupe / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504767992039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ba9deafc-6b9b-41e0-be1b-a29671c363c7-Max-Origin.webp?v=1761457871
-    Price: $37.14 USD
-  - [Taupe / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768024807)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ba9deafc-6b9b-41e0-be1b-a29671c363c7-Max-Origin.webp?v=1761457871
-    Price: $37.14 USD
-  - [Taupe / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768057575)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ba9deafc-6b9b-41e0-be1b-a29671c363c7-Max-Origin.webp?v=1761457871
-    Price: $37.14 USD
-  - [Taupe / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768090343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ba9deafc-6b9b-41e0-be1b-a29671c363c7-Max-Origin.webp?v=1761457871
-    Price: $37.14 USD
-  - [Dusty Pink / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768123111)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0ef9e4b7-de99-47bb-9331-44f867446779-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dusty Pink / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768155879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0ef9e4b7-de99-47bb-9331-44f867446779-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dusty Pink / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768188647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0ef9e4b7-de99-47bb-9331-44f867446779-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dusty Pink / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768221415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0ef9e4b7-de99-47bb-9331-44f867446779-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Dusty Pink / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768254183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0ef9e4b7-de99-47bb-9331-44f867446779-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Blue / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768286951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8a5026d-2851-4d4f-a756-63fa279422b3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Blue / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768319719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8a5026d-2851-4d4f-a756-63fa279422b3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Blue / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768352487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8a5026d-2851-4d4f-a756-63fa279422b3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Blue / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768385255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8a5026d-2851-4d4f-a756-63fa279422b3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
-  - [Light Blue / 2XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-and-pants-set-1?variant=51504768418023)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8a5026d-2851-4d4f-a756-63fa279422b3-Max-Origin.webp?v=1761457872
-    Price: $37.14 USD
 - [Childrens's Butterfly Print Hoodie & Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrenss-butterfly-print-hoodie-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip 3T 12.6 13 26 12 24.8 16.5 27.2 4T 13.8 13.8 27.6 13.4 26.8 17.3 28.7 5T 15 14.6 29.1 14.8 28.7 18.1 30.3 6T 16.1 15.4 30.7 16.1 30.7 18.9 31.9 7T 17.3 16.3 32.7 17.7 32.3 19.7 33.9 - Pretty Melanin Boutique
   Updated: 2025-10-29T03:17:04Z
   Vendor: Trendsi
@@ -18637,8 +18491,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/288177ec-681a-49ee-af1e-0b00c0eae2c4-Max-Origin.webp?v=1761458094
     Price: $17.44 USD
-- [Striped Pattern Casual Round Neck Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/striped-pattern-casual-round-neck-sweater): Features:Basic style Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
-  Updated: 2025-10-28T15:58:56Z
+- [Striped Pattern Casual Round Neck Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/striped-pattern-casual-round-neck-sweater): Features:Basic style Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.2 39.4 22 18.9 M 23.6 40.9 22.4 19.7 L 24 43.3 22.8 20.5 XL 24.4 45.7 23.2 21.3 - Pretty Melanin Boutique
+  Updated: 2025-10-30T13:17:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18691,8 +18545,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cd5b551e-f244-4688-b9d2-93a039f9a4ed-Max-Origin.webp?v=1761618751
     Price: $36.34 USD
-- [Button-Down Puff Sleeve Denim Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/button-down-puff-sleeve-denim-top): Features:Buttoned Stretch:No stretch Material composition:65% cotton, 35% polyester Care  - Pretty Melanin Boutique
-  Updated: 2025-10-28T14:35:25Z
+- [Button-Down Puff Sleeve Denim Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/button-down-puff-sleeve-denim-top): Features:Buttoned Stretch:No stretch Material composition:65% cotton, 35% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 23.2 39.4 M 23.6 40.9 L 24 43.3 XL 24.4 45.7 - Pretty Melanin Boutique
+  Updated: 2025-10-30T12:00:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18729,8 +18583,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1e070635-bcc2-427c-b279-fdbf8eeb8c6a-Max-Origin.webp?v=1761624826
     Price: $51.36 USD
-- [Leopard Print Large Tote Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-large-tote-bag): Bag size:Large Material:PU Leather Imported Product Measurements (Measurements by inches) &amp;  - Pretty Melanin Boutique
-  Updated: 2025-10-28T14:48:23Z
+- [Leopard Print Large Tote Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-large-tote-bag): Bag size:Large Material:PU Leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 20.1 - Pretty Melanin Boutique
+  Updated: 2025-10-30T12:04:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18896,8 +18750,8 @@
   Updated: 2025-10-29T01:24:38Z
   Total Products: 363
 - [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
-  Updated: 2025-10-29T09:50:27Z
-  Total Products: 370
+  Updated: 2025-10-30T09:30:41Z
+  Total Products: 369
 - [All Products (ChatGPT-AI Product Description) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Pretty Melanin Boutique
   Updated: 2025-10-29T01:25:07Z
   Total Products: 380
