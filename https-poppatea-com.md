@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-10-29T20:00:35.750Z
+- Updated At: 2025-10-30T00:00:55.133Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence. 50g tin/50g refill pouch/100g refill pouch options available.
-  Updated: 2025-10-29T19:34:21Z
+  Updated: 2025-10-29T22:04:15Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_pouch_0e35918c-3916-4ace-8fcd-d4f87ee386ce.jpg?v=1747924140
     Price: 320,00 kr SEK
 - [Hojicha Tea Powder - High Quality Japanese Roasted Green Tea](https://poppatea.com/products/hojicha-tea-powder): Poppatea Hojicha tea powder has a rich & nutty taste with rich chocolate & smoky notes. A great option if you are looking for a low caffeine tea. Grown to EU standards. 50g tin/50g refill pouch/100g refill pouch options. All packaged in recyclable aluminium.
-  Updated: 2025-10-29T14:22:25Z
+  Updated: 2025-10-29T21:44:50Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
