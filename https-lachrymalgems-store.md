@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-30T12:00:40.307Z
+- Updated At: 2025-10-30T16:01:01.245Z
 
 ## Products
 
@@ -358,7 +358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $57.99 USD
 - [Cozy Fleece Joggers - Lachrywave Comfort Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/cozy-unisex-fleece-joggers-casual-loungewear-athleisure-workout-pants-comfortable-leisure-bottoms-perfect-for-relaxation): Lachrywave cozy fleece joggers for ultimate comfort. Unisex sweatpants perfect for loungewear and athleisure. From Lachrymal Gems, comfort meets the frequency.
-  Updated: 2025-10-26T18:57:11Z
+  Updated: 2025-10-30T13:15:22Z
   Vendor: Printify
   Product Type: Trousers
   Availability: Available
@@ -1078,7 +1078,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1761027957
   Price: $51.99 USD
 - [Neon Lachrymal Gems Tank - Lachrywave Brand Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative): Lachrywave neon tank with lachrymal gems design. Bold vaporwave aesthetic streetwear. From Lachrymal Gems, wear the brand, live the frequency.
-  Updated: 2025-10-26T17:04:53Z
+  Updated: 2025-10-30T13:20:39Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -1246,7 +1246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8346601574226317387_2048.jpg?v=1760866106
     Price: $11.99 USD
 - [Diamond Joggers - Lachrywave All-Over Print Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/diamond-joggers): Lachrywave diamond joggers with all-over print design. Comfortable unisex sweatpants with neon-punk aesthetic. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T17:00:56Z
+  Updated: 2025-10-30T13:09:37Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
