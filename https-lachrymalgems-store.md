@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-30T04:00:35.247Z
+- Updated At: 2025-10-30T12:00:40.307Z
 
 ## Products
 
@@ -51,14 +51,14 @@
     Availability: Available
     Price: $59.99 USD
 - [Hidden Gem VHS Glitch Gaiter Mask - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/hidden-gem-fall-winter-gaiter): Lachrywave gaiter mask with VHS glitch Hidden Gem design. Alternative face cover for fall/winter. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T16:58:06Z
+  Updated: 2025-10-30T08:41:16Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-with-hidden-gem-gaiter-mask.png?v=1760910649
   Price: $18.99 USD
 - [Dark-Wave Love Lost Skeleton Hoodie - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/cozy-glitch-beyond-death-rose-fall-hoodie): Lachrywave hoodie with Love Lost Skeleton glitch rose design. Cozy dark aesthetic streetwear. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T16:57:55Z
+  Updated: 2025-10-30T08:43:20Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -164,14 +164,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12159832977939653862_2048_6ed118ac-75ff-456d-aad2-173cc0213e94.jpg?v=1760912638
     Price: $44.99 USD
 - [Skeleton Cyber Glitch Shorts - Lachrywave Athletic | Lachrymal Gems](https://lachrymalgems.store/products/vibrant-skeleton-love-lost-cyber-graphic-basketball-shorts-unisex-athletic-shorts-summer-sports-wear-trendy-workout-gear-unique-gift-for-athletes): Lachrywave basketball shorts with cyber glitch skeleton design. Athletic wear with neon-punk vaporwave aesthetic. From Lachrymal Gems, for active souls.
-  Updated: 2025-10-26T16:57:35Z
+  Updated: 2025-10-30T08:44:10Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $44.99 USD
 - [Love Lost Skeleton Crop Top - Lachrywave Retro Tee | Lachrymal Gems](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Lachrywave crop top with Love Lost Skeleton design. Retro dark aesthetic streetwear. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T16:57:21Z
+  Updated: 2025-10-30T08:45:02Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: $27.99 USD
 - [Love Lost Skeletons Cropped Sweatshirt - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): Lachrywave cropped sweatshirt with Love Lost Skeletons design. Neon-punk vaporwave aesthetic. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T16:00:57Z
+  Updated: 2025-10-30T08:46:50Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -261,7 +261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760902298
     Price: $59.99 USD
 - [Galaxy Lost Love Skeleton Shorts - Lachrywave Vaporwave | Lachrymal Gems](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): Lachrywave galaxy shorts with Lost Love Skeletons design. Vaporwave space aesthetic relaxed fit. From Lachrymal Gems, for those lost between worlds.
-  Updated: 2025-10-26T16:57:09Z
+  Updated: 2025-10-30T08:47:32Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -285,7 +285,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Dark-Wave Neon Hoodie Dress - Limited Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/womens-hoodie-dress-aop): Lachrywave hoodie dress with dark-wave neon design. Limited inventory alternative fashion. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T16:56:53Z
+  Updated: 2025-10-30T08:48:48Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -414,8 +414,8 @@
   - [One size / Heather Grey/Red](https://lachrymalgems.store/products/memento-mori-snapback-cap-flat-bill-hat-for-alternative-fashion-street-style?variant=47094983852277)
     Availability: Available
     Price: $28.99 USD
-- [Love Lost Skeleton Leggings](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings): Stylish skeleton print leggings perfect for gym, yoga, or casual wear. Unique dark aesthetic design. Comfortable activewear for alternative fashion lovers.
-  Updated: 2025-10-24T14:36:42Z
+- [Love Lost Skeleton Leggings - Lachrywave Athletic Wear | Lachrymal Gems](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings): Stylish skeleton print leggings perfect for gym, yoga, or casual wear. Unique dark aesthetic design. Comfortable activewear for alternative fashion lovers.
+  Updated: 2025-10-30T08:21:58Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -438,8 +438,8 @@
   - [2XL / Seam thread color automatically matched to design](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings?variant=47094998565109)
     Availability: Available
     Price: $36.99 USD
-- [Cosmic Love Lost Crewneck - Graphic Sweatshirt for Space Lovers](https://lachrymalgems.store/products/cosmic-love-lost-crewneck-sweatshirt-graphic-sweatshirt-unisex-apparel-gift-for-space-lovers): Unisex cosmic love lost graphic sweatshirt. Perfect gift for space lovers and alternative fashion enthusiasts. Unique skeleton design crewneck.
-  Updated: 2025-10-24T14:36:42Z
+- [Cosmic Love Lost Crewneck - Lachrywave Space Aesthetic | Lachrymal Gems](https://lachrymalgems.store/products/cosmic-love-lost-crewneck-sweatshirt-graphic-sweatshirt-unisex-apparel-gift-for-space-lovers): Lachrywave cosmic crewneck with Love Lost Skeleton design. Space aesthetic sweatshirt with vaporwave energy. From Lachrymal Gems, for those between worlds.
+  Updated: 2025-10-30T08:22:11Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -572,8 +572,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-embroidered-hiddengem-beanie.png?v=1760911083
   Price: $17.99 USD
-- [Clear Tote Bag - Transparent Fashion Accessory | Lachrymal Gems](https://lachrymalgems.store/products/clear-tote-bag): Stylish clear tote bag perfect for events, travel, and everyday use. Transparent bag meets venue requirements. Versatile and trendy accessory.
-  Updated: 2025-10-24T14:36:42Z
+- [Love Lost Skeleton Clear Tote - Lachrywave Vaporwave Bag | Lachrymal Gems](https://lachrymalgems.store/products/clear-tote-bag): Lachrywave clear tote with Love Lost Skeleton vaporwave design. Transparent bag for events and everyday use. From Lachrymal Gems, carry the frequency.
+  Updated: 2025-10-30T08:22:32Z
   Vendor: Lachrymal Gems
   Product Type: DECOR
   Availability: Available
@@ -1253,7 +1253,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/complete-outfit-mockup-joggers-crewneck-sneakers.png?v=1760864903
   Price: $44.62 USD
 - [Dark Aesthetic Skater Skirt - Lachrywave Gothic Fashion | Lachrymal Gems](https://lachrymalgems.store/products/dark-aesthetic-skater-skirt): Lachrywave skater skirt with dark aesthetic print. Gothic alternative fashion with vaporwave edge. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T17:01:20Z
+  Updated: 2025-10-30T08:45:02Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1353,8 +1353,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7865233497328293861_2048.jpg?v=1760865260
     Price: $22.99 USD
-- [Unisex Casual Shoulder Backpack](https://lachrymalgems.store/products/unisex-casual-shoulder-backpack): Casual backpack in a classic shape with a front flap design. It is made of durable Oxford canvas. It has two slip interior pockets and one laptop sleeve in the main compartment, a front zipper pocket, and two side pockets..: Made of 24.34 oz. Oxford canvas.: Flap with strap claps at the front.: Adjustable shoulder straps.: Black base and inside color
-  Updated: 2025-10-24T14:36:43Z
+- [Casual Shoulder Backpack - Lachrywave Oxford Canvas Bag | Lachrymal Gems](https://lachrymalgems.store/products/unisex-casual-shoulder-backpack): Lachrywave casual backpack with durable Oxford canvas. Unisex shoulder bag with laptop sleeve and multiple pockets. From Lachrymal Gems, carry your world.
+  Updated: 2025-10-30T08:22:48Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1641,314 +1641,314 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761451148
     Price: $59.68 USD
 - [Lachrywave Bikini Set - Digital Punk Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design): Lachrywave bikini set - where digital grief meets neon-punk energy. Vaporwave aesthetic swimwear from Lachrymal Gems. For those caught between worlds.
-  Updated: 2025-10-27T23:13:51Z
+  Updated: 2025-10-30T08:59:21Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-lachrywave-bikini-set.png?v=1761412734
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-lachrywave-bikini-set.png?v=1761814749
   - [S / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320209141)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [M / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320241909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [L / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320274677)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320307445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [2XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320340213)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [3XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320372981)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [4XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320405749)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
   - [5XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320438517)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761814753
     Price: $38.99 USD
 - [Lachrywave Dark Occult Chest Bag - Alternative Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/lachrywave-dark-occult-chest-bag): Carry your essentials in style with our Lachrywave Dark Occult chest bag. Perfect for festivals, streetwear, and everyday emo aesthetic. Unique occult design.
-  Updated: 2025-10-27T23:14:36Z
+  Updated: 2025-10-30T08:58:55Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-lachrywave-dark-occult-chest-bag.png?v=1761501459
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-lachrywave-dark-occult-chest-bag.png?v=1761814728
   Price: $47.99 USD
-- [Esoteric Lachrywave Pajama Pants - Alternative Loungewear | Lachrymal Gems](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Lounge in style with our Esoteric Lachrywave pajama pants. Unique occult design, comfortable fit. Perfect for alternative fashion lovers and cozy vibes.
-  Updated: 2025-10-26T23:19:43Z
+- [Esoteric Lachrywave Pajama Pants - Occult Loungewear | Lachrymal Gems](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Lachrywave pajama pants with esoteric occult design. Comfortable alternative loungewear with mystical aesthetic. From Lachrymal Gems, rest between worlds.
+  Updated: 2025-10-30T08:58:38Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-esoteric-lachrywave-pajama-pants.png?v=1761501996
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-esoteric-lachrywave-pajama-pants.png?v=1761814700
   Price: $61.48 USD
-- [Plus Size High-Waisted Bikini - Esoteric Alternative Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services): Stunning plus size high-waisted bikini with alternative esoteric design. Flattering fit for curvy bodies, bold mystical graphics. Premium quality swimwear that celebrates your curves. Shop now!
-  Updated: 2025-10-27T10:36:13Z
+- [Plus Size High-Waisted Bikini - Esoteric Alternative Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services): Lachrywave plus size high-waisted bikini with esoteric design. Flattering fit for curvy bodies with mystical graphics. From Lachrymal Gems, celebrate your curves.
+  Updated: 2025-10-30T08:58:09Z
   Vendor: Lachrymal Gems
   Product Type: Women's Swimwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/plus-size-model-in-high-waisted-bikini.png?v=1761532169
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/plus-size-model-in-high-waisted-bikini.png?v=1761814659
   - [XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670493941)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761814664
     Price: $19.36 USD
   - [2XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670526709)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761814664
     Price: $19.36 USD
   - [3XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670559477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761814664
     Price: $19.36 USD
   - [4XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670592245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761814664
     Price: $19.36 USD
-- [Women's Leather Watch - Alternative Esoteric Design | Lachrymal Gems](https://lachrymalgems.store/products/womens-leather-watch): Unique women's leather watch with mystical esoteric design. Premium quality alternative timepiece for bold style. Stand out with this statement watch. Shop now!
-  Updated: 2025-10-27T12:57:10Z
+- [Esoteric Leather Watch - Lachrywave Alternative Timepiece | Lachrymal Gems](https://lachrymalgems.store/products/womens-leather-watch): Lachrywave women's leather watch with mystical esoteric design. Premium alternative timepiece with occult aesthetic. From Lachrymal Gems, track time between worlds.
+  Updated: 2025-10-30T08:57:28Z
   Vendor: Lachrymal Gems
   Product Type: Watch
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/model-wearing-womens-leather-watch.png?v=1761532974
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/model-wearing-womens-leather-watch.png?v=1761814614
   Price: $28.99 USD
 - [Lachrywave Tie Skirted Two Piece Swimsuit - Custom Print Halter Bikini | Lachrymal Gems](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services): Lachrywave tie skirted two piece swimsuit with adjustable halter top. Soft stretchy fabric, vibrant custom prints. Perfect lachrywave beachwear for alternative style lovers.
-  Updated: 2025-10-27T14:48:15Z
+  Updated: 2025-10-30T08:56:43Z
   Vendor: Lachrymal Gems
   Product Type: Women's Swimwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-tie-skirted-two-piece-swimsuit-mockup.png?v=1761533952
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-tie-skirted-two-piece-swimsuit-mockup.png?v=1761814581
   - [S](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840822005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761814584
     Price: $21.99 USD
   - [M](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840854773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761814584
     Price: $21.99 USD
   - [L](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840887541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761814584
     Price: $21.99 USD
   - [XL](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840920309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761814584
     Price: $21.99 USD
   - [XXL](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840953077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761814584
     Price: $19.01 USD
-- [Lachrywave Men's Basketball Jersey AOP - Custom All Over Print | Lachrymal Gems](https://lachrymalgems.store/products/mens-basketball-jersey-aop): Lachrywave men's basketball jersey with all-over print design. Lightweight, breathable polyester for ultimate comfort. Perfect lachrywave streetwear for alternative style.
-  Updated: 2025-10-27T14:51:11Z
+- [Lachrywave Men's Basketball Jersey AOP - Custom All Over Print | Lachrymal Gems](https://lachrymalgems.store/products/mens-basketball-jersey-aop): Lachrywave basketball jersey with all-over print design. Lightweight breathable athletic wear with alternative aesthetic. From Lachrymal Gems, for active souls.
+  Updated: 2025-10-30T08:56:07Z
   Vendor: Lachrymal Gems
   Product Type: Men's T-shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-mens-basketball-jersey-shorts-complete-outfit-mockup.png?v=1761535675
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-mens-basketball-jersey-shorts-complete-outfit-mockup.png?v=1761814525
   - [Crew Neck / S](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841477365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / M](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841510133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / L](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841542901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841575669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / XXL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841608437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / 3XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841641205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
   - [Crew Neck / 4XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841673973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761814534
     Price: $25.99 USD
-- [Lachrywave The Fall Hoodie - Lucifer Design All-Over Print | Alternative Fashion](https://lachrymalgems.store/products/lachrywave-the-fall): Edgy Lachrywave hoodie featuring Lucifer's fall design down the sleeves, neon art accents, and Japanese print hood. Perfect for alternative fashion lovers. Limited edition all-over print.
-  Updated: 2025-10-28T18:08:40Z
+- [Lachrywave The Fall Hoodie - Lucifer Design All-Over Print | Lachrymal Gems](https://lachrymalgems.store/products/lachrywave-the-fall): Lachrywave The Fall hoodie with Lucifer design down sleeves. Neon art accents and Japanese print hood. From Lachrymal Gems, limited edition alternative fashion.
+  Updated: 2025-10-30T08:55:18Z
   Vendor: InterestPrint
   Product Type: All-Over Hoodies
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-the-fall-hoodie-dress-professional-mockup.png?v=1761632500
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-the-fall-hoodie-dress-professional-mockup.png?v=1761814490
   - [XS](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938075893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
   - [S](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938108661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
   - [M](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938141429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
   - [L](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938174197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
   - [XL](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938206965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
   - [XXL](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938239733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761814496
     Price: $29.99 USD
 - [Love is Lost Women's Bomber Jacket | All-Over Print | Lachrymal Gems](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36): Shop the Love is Lost Women's Bomber Jacket with exclusive all-over print design. Premium quality, edgy style, perfect fit. Stand out with Lachrymal Gems.
-  Updated: 2025-10-29T22:29:25Z
+  Updated: 2025-10-30T10:55:34Z
   Vendor: InterestPrint
   Product Type: Jackets & Blazers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-bomber-jacket-mockup-2.png?v=1761773064
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-bomber-jacket-mockup-2.png?v=1761814455
   - [XS](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991068917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
   - [S](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991101685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
   - [M](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991134453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
   - [L](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991167221)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
   - [XL](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991199989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
   - [2XL](https://lachrymalgems.store/products/love-is-lost-womens-all-over-print-bomber-jacketmodel-h36?variant=47251991232757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761773064
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1290dac4c3047f63c13451654985f7a8.jpg?v=1761814462
     Price: $69.99 USD
 - [Lucifers Fall Men's Canvas Slip-On Shoes | All-Over Print | Lachrymal Gems](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206): Shop Lucifers Fall Men's Canvas Slip-On Shoes with bold all-over print. Easy slip-on design, premium comfort, unique style. Stand out with Lachrymal Gems.
-  Updated: 2025-10-30T00:53:27Z
+  Updated: 2025-10-30T09:05:46Z
   Vendor: InterestPrint
   Product Type: Slip-Ons
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/image_224895e6-571b-40b8-92d1-4ec778ac20b5.png?v=1761773874
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/image_224895e6-571b-40b8-92d1-4ec778ac20b5.png?v=1761814415
   - [US3.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993493749)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US4](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993526517)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US4.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993559285)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993592053)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US5.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993624821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US6](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993657589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US6.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993690357)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US7](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993723125)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US7.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993755893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US8](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993788661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US8.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993821429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US9](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993854197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US9.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993886965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US10](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993919733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US10.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993952501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US11](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251993985269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US11.5](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994018037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US12](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994050805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
   - [US13](https://lachrymalgems.store/products/lucifers-fall-mens-classic-canvas-slip-on-shoesmodel1206?variant=47251994083573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761773874
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/ec8706151ed3423dd4f7061870431344.jpg?v=1761814424
     Price: $74.99 USD
 
 ## Collections
 
-- [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-27T03:16:04Z
+- [Lachrywave Alternative Fashion - Best Sellers & New Arrivals | Lachrymal Gems](https://lachrymalgems.store/collections/frontpage): Shop our best-selling Lachrywave alternative fashion. Dark aesthetic clothing, vaporwave accessories & neon-punk designs. From Lachrymal Gems.
+  Updated: 2025-10-30T08:32:39Z
   Total Products: 20
-- [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-29T21:31:46Z
+- [Women's Alternative Fashion - Lachrywave Clothing & Accessories | Lachrymal Gems](https://lachrymalgems.store/collections/ladies-alt-style): Shop women's Lachrywave alternative fashion. Dark aesthetic clothing, vaporwave dresses, neon-punk tops & gothic accessories. From Lachrymal Gems.
+  Updated: 2025-10-30T08:36:39Z
   Total Products: 19
-- [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-29T21:37:26Z
+- [Men's Alternative Fashion - Lachrywave Streetwear & Clothing | Lachrymal Gems](https://lachrymalgems.store/collections/mens-alt-style): Shop men's Lachrywave alternative fashion. Dark aesthetic streetwear, vaporwave hoodies, neon-punk tees & hip hop trends. From Lachrymal Gems.
+  Updated: 2025-10-30T08:37:05Z
   Total Products: 21
-- [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-29T21:37:26Z
+- [Trap-Core Shoes - Lachrywave Alternative Sneakers & Footwear | Lachrymal Gems](https://lachrymalgems.store/collections/trap-core-shoes): Shop Trap-Core Lachrywave shoes. Alternative sneakers, canvas high-tops & slip-ons with dark aesthetic all-over prints. From Lachrymal Gems.
+  Updated: 2025-10-30T08:37:29Z
   Total Products: 6
-- [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-28T06:22:56Z
+- [Bags & Accessories - Lachrywave Backpacks, Totes & More | Lachrymal Gems](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters with Lachrywave bags. Alternative backpacks, totes, duffle bags & accessories with dark aesthetic designs. From Lachrymal Gems.
+  Updated: 2025-10-30T08:37:46Z
   Total Products: 5
-- [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
-  Updated: 2025-10-26T18:09:57Z
+- [Vibe Bin - Lachrywave Accessories & Lifestyle Products | Lachrymal Gems](https://lachrymalgems.store/collections/vibe-bin): Shop the Vibe Bin for Lachrywave accessories & lifestyle essentials. Alternative home decor, small accessories & mood-boosting finds. From Lachrymal Gems.
+  Updated: 2025-10-30T08:38:09Z
   Total Products: 2
-- [Partner Products](https://lachrymalgems.store/collections/partner-products)
-  Updated: 2025-10-22T04:20:41Z
+- [Partner Products - Exclusive Lachrywave Collaborations | Lachrymal Gems](https://lachrymalgems.store/collections/partner-products): Shop exclusive Lachrywave partner products and collaborations. Limited edition alternative fashion and accessories from curated creators. From Lachrymal Gems.
+  Updated: 2025-10-30T08:38:07Z
   Total Products: 0
-- [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-29T21:37:27Z
+- [All Products - Complete Lachrywave Alternative Fashion Collection | Lachrymal Gems](https://lachrymalgems.store/collections/all): Shop all Lachrywave products. Complete alternative fashion collection with dark aesthetic clothing, vaporwave accessories & neon-punk designs. From Lachrymal Gems.
+  Updated: 2025-10-30T08:38:16Z
   Total Products: 58
 
 ## Blogs
@@ -1984,6 +1984,10 @@
   - [The Future is Here: Why Lachrywave Will Define Alternative Fashion in 2026](https://lachrymalgems.store/blogs/news/the-future-is-here-why-lachrywave-will-define-alternative-fashion-in-2026)
     Updated: 2025-10-26T09:16:10Z
     Author: Mandie Maddox
+  - [Why Lachrywave Is Taking Over Alternative Fashion | Lachrymal Gems](https://lachrymalgems.store/blogs/news/why-lachrywave-is-taking-over-alternative-fashion-and-how-you-can-join-the-movement): Why Lachrywave Is Taking Over Alternative Fashion | Lachrymal Gems
+    Updated: 2025-10-30T08:29:56Z
+    Author: Mandie Maddox
+    Tags: alternative fashion, dark aesthetic, lachrywave, neon punk, vaporwave
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
@@ -2006,6 +2010,8 @@
   Updated: 2025-10-17T22:51:45Z
 - [Other References](https://lachrymalgems.store/pages/other-references)
   Updated: 2025-10-22T05:00:44Z
+- [Lachrywave Seasonal Vibes](https://lachrymalgems.store/pages/lachrywaveseasonal)
+  Updated: 2025-10-30T06:14:35Z
 
 ## Policies
 
