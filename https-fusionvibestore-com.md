@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-29T20:00:51.454Z
+- Updated At: 2025-10-30T16:00:58.213Z
 
 ## Products
 
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-10-29T19:48:43Z
+  Updated: 2025-10-30T14:48:17Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1592,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-10-29T17:26:21Z
+  Updated: 2025-10-30T10:12:48Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
@@ -1642,7 +1642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f264dab1-adde-45dd-b903-5bcf85f581db.jpg?v=1761758277
     Price: $20.00 USD
 - [2 Units Tank Top and Cami Shaper](https://fusionvibestore.com/products/2-units-tank-top-and-cami-shaper): Overview: The soft shaping effect flattens your tummy and slims your waist for a sleek look. The seamless finish is invisible even under close-fitting garments. Wear your own bra and panty feature that allows you to get the customized fit you want. With the addition of classic color nude, this could be essential basic undercloth. Pair it with pants or skirts for a chic modern women look. Composed of 80% nylon and 20% spandex, which brings more elasticity, durability and no distortion. Specification: Fabric Name: Spandex Main fabric composition: nylon / nylon The content of the main fabric component: 96 (%) Function: Body sculpting Whether or not the clothes are connected: No Length: waist Neckline shape: U-neck Thickness: General Color : khaki, black, white Size: S, M, L, XL, XXL, XXXL S Length 55 cm Suitable for upper bust 75-85 cm M clothing length 56 cm suitable for upper bust 86-95 cm L Length 57 cm Suitable for upper bust 96-102 cm XL garment length 58 cm suitable for upper bust 103-110 cm XXL garment length 61 cm suitable for upper bust 111-120 cm Package Content: 1*Shaper
-  Updated: 2025-10-29T18:53:45Z
+  Updated: 2025-10-30T06:47:25Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1668,14 +1668,14 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722065577519.jpg?v=1761758782
     Price: $18.14 USD
 - [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual sale) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
-  Updated: 2025-10-29T19:18:36Z
+  Updated: 2025-10-30T05:32:18Z
   Vendor: z60ja0-0n
   Product Type: Car Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d572d297-d38d-4bfb-95bd-1c3b93cb674d.jpg?v=1761759074
   Price: $35.25 USD
 - [Irregular Turtleneck Sweater Winter Loose Long Sleeve Knitted Tops Leisure Warm Pullover Sweater Women's Clothing](https://fusionvibestore.com/products/irregular-turtleneck-sweater-winter-loose-long-sleeve-knitted-tops-leisure-warm-pullover-sweater-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Color: light khaki, dark blue Size: S,M,L,XL Version: Loose Style type: temperament commute Popular elements: Threads Style: pullover Thickness: medium Material: Polyester Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: long sleeve Style: intellectual style Process: high temperature stereotypes Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweater x1 Product Image:
-  Updated: 2025-10-29T19:23:15Z
+  Updated: 2025-10-30T06:18:45Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1797,7 +1797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/31fb96c3-0fa4-4755-b9de-2c02f3b8d5e0.jpg?v=1761759617
     Price: $32.45 USD
 - [Winter Flowers Lambskin Sweatshirt With Big Pocket Casual Loose Zip-up Lapel Pullover Top Women's Clothing](https://fusionvibestore.com/products/winter-flowers-lambskin-sweatshirt-with-big-pocket-casual-loose-zip-up-lapel-pullover-top-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Flowers Size: S,M,L Style type: street fashion Popular elements: Pocket Style: pullover Sleeve type: conventional sleeve Sleeve length: long sleeve Style: Trendy Material: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coatx 1pc Product Image:
-  Updated: 2025-10-29T17:45:39Z
+  Updated: 2025-10-30T06:18:34Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -1911,7 +1911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cb13ec30-1ed4-4b55-8e2e-89999f93fe9c.jpg?v=1761759818
     Price: $35.45 USD
 - [Winter Fleece Hooded Jacket Fashion Casual Zip-up Pockets Long Sweatshirt Warm Commuter Women's Clothing](https://fusionvibestore.com/products/winter-fleece-hooded-jacket-fashion-casual-zip-up-pockets-long-sweatshirt-warm-commuter-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: letters/numbers/text Color: pink, khaki, blue, green Size: M,L,XL,2XL,3XL Version: Regular Style type: Japanese and Korean casual Combination form: Single piece Popular elements: Other Thickness: thick Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group: Adult Sleeve length: long sleeve Style: casual style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Hoodie*1 Product Image:
-  Updated: 2025-10-29T19:30:09Z
+  Updated: 2025-10-30T06:25:52Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2009,7 +2009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3a168b5b-ad62-4fbd-8083-1ac80a50d030.jpg?v=1761760169
     Price: $35.56 USD
 - [Coffee Mug Warmer Warm Coaster Smart Heating Cup Thermal Insulation Constant Temperature Coaster Heating Pad Desktop](https://fusionvibestore.com/products/coffee-mug-warmer-warm-coaster-smart-heating-cup-thermal-insulation-constant-temperature-coaster-heating-pad-desktop): Overview: - Keep your coffee warm all morning long with this sleek coffee warmer plate. hot coffee, tea, hot cocoa, or even a hot mug of soup! - This lightweight warmer can be as a mug warmer for a desk, night table, kitchen island, or living room side table. It's lightweight and stays put on your desk. - Deliver heat than coffee cup warmer products- so your stays warm& amp; tasty. - This sleek mug warmer is THE BEST WAY to keep your drinks warm! Conversion plug SKU: CJSJ1000997 Product Information : Power supply mode: USB Product material: ABS+ metal+electronic components Rated voltage: 5 Rated power: 10W Color: M316 white (medium gauge plug 220V), M316 powder (medium gauge plug 220V), M316 green (medium gauge plug 220V). Note: The product is only a coaster, not a cup Size Information: Product size: 130*110*23mm Packing List: Heating pad *1, instruction manual *1
-  Updated: 2025-10-29T17:54:03Z
+  Updated: 2025-10-30T06:25:17Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -2051,7 +2051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4a0458fd-94db-4454-b50b-110fa939e32b.jpg?v=1761760315
     Price: $19.39 USD
 - [Men's Long Sleeve Shirt With Button Casual Solid Color Tops For Spring Autumn](https://fusionvibestore.com/products/mens-long-sleeve-shirt-with-button-casual-solid-color-tops-for-spring-autumn): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product Information: Style: Cardigan Style details: color matching Main fabric component: cotton Size information: Size（cm） Bust Shoulder Length S 108 47.5 76 M 114 49 77 L 120 50.5 78.5 XL 126 52 80 2XL 134 54 81.5 3XL 142 56 83 Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Men's shirt *1 Picture: Actual Product Photo
-  Updated: 2025-10-29T19:39:35Z
+  Updated: 2025-10-30T06:32:58Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2257,7 +2257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be842fd6-efa5-4c06-8327-3496d045024d.jpg?v=1761760873
     Price: $18.34 USD
 - [Ins Halter Split Long Dress Summer Slim Fit Backless Dresses Solid High-end Women's Clothing](https://fusionvibestore.com/products/ins-halter-split-long-dress-summer-slim-fit-backless-dresses-solid-high-end-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Skirt type: hip skirt Color: black, green Waist type: high waist Style type: private clothing socialite Combination form: Single piece Skirt length: long skirt Popular elements: zipper Style: Basic Fabric name: Polyester Sleeve type: sleeveless Main fabric composition: Polyester (polyester fiber) Sleeve length: sleeveless Skirt Category: Dress Style: Socialite style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress X1PC Product Image:
-  Updated: 2025-10-29T18:05:22Z
+  Updated: 2025-10-30T06:35:36Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2295,7 +2295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b60a7f71-4ffb-4765-ae01-cbadc8541209.jpg?v=1761760978
     Price: $20.34 USD
 - [Y2K Tube-top Short Dress Summer Sexy Pleated Tight Dresses For Womens Clothing](https://fusionvibestore.com/products/y2k-tube-top-short-dress-summer-sexy-pleated-tight-dresses-for-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: white, yellow, green, pink, black Elasticity: Micro elasticity Main fabric composition: viscose fiber Size: S,M,L,XL Skirt length: short skirt Craft: mercerizing Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: DressX1 Product Image:
-  Updated: 2025-10-29T18:09:39Z
+  Updated: 2025-10-30T07:18:01Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2381,7 +2381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b5fb5d65-1ea7-449c-a6a7-842220ce39af.jpg?v=1761761239
     Price: $20.34 USD
 - [One-shoulder Ribbon Long Dress Ins Fashion Slim Sleeveless Dresses For Evening Party Club Clothing Women](https://fusionvibestore.com/products/one-shoulder-ribbon-long-dress-ins-fashion-slim-sleeveless-dresses-for-evening-party-club-clothing-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Skirt type: hip skirt Color: black, light apricot-colored Size: S,M,L Style type: private clothing socialite Popular elements: Ribbon Style: pullover Fabric name: Polyester Style: sexy style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's dress x1pc Product Image:
-  Updated: 2025-10-29T18:14:06Z
+  Updated: 2025-10-30T06:12:34Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2575,7 +2575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/479a20e7-042d-46b4-9574-6f721a728f4d.jpg?v=1761761562
     Price: $25.23 USD
 - [Summer V-neck Short-sleeved Dress Fashion Flowers Printed Slim Beach Dresses For Women Clothing](https://fusionvibestore.com/products/summer-v-neck-short-sleeved-dress-fashion-flowers-printed-slim-beach-dresses-for-women-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: Printing Skirt-type: One-Step skirt Color: green Waist Type: Mid waist Size: S,M,L,XL,2XL,3XL Style type: temperament commute Combination form: Single piece Skirt length: mid-length skirt Popular elements: contrast color Style: Basic Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Sleeve length: short sleeve Skirt Category: Dress Style: Elegant style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image: Actual Product Photo
-  Updated: 2025-10-29T18:18:28Z
+  Updated: 2025-10-30T06:43:46Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2653,7 +2653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/54277e40-6e72-42b1-ace1-fbbf488b4ed5.jpg?v=1761761675
     Price: $20.20 USD
 - [Summer V-neck Single-breasted Fly-sleeve Women's Shirt Dresses With Elegant Splicing Stripe Printing Beach Style Dress](https://fusionvibestore.com/products/summer-v-neck-single-breasted-fly-sleeve-womens-shirt-dresses-with-elegant-splicing-stripe-printing-beach-style-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information: Color: black, yellow, green Waist type: high waist Size: S,M,L,XL Skirt length: short skirt Fabric name: Polyester Sleeve type: Flight sleeve Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Dress Product Image:
-  Updated: 2025-10-29T18:28:53Z
+  Updated: 2025-10-30T11:48:53Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
@@ -2691,7 +2691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/6d028f52-13bd-47b8-b335-f2399d4a5f15.jpg?v=1761762339
     Price: $18.98 USD
 - [Elegant Women's Hollow Floor V-neck Long-sleeved Plant Dress Long Dresses Spring Summer Print V-neck Long Sleeve Dress](https://fusionvibestore.com/products/elegant-womens-hollow-floor-v-neck-long-sleeved-plant-dress-long-dresses-spring-summer-print-v-neck-long-sleeve-dress): Overview: Unique design, stylish and beautiful. Good material, High quality. 100% Brand New. A variety of colors, any choice. Comfortable to wear. Product information： Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 71%-80% Main fabric composition 2 polyester fiber: (polyester) The content of main fabric ingredient 2: 10%-29% Lining composition: polyester fiber (polyester) Lining ingredient content: 10% or less Fabric name: Chiffon Size Information： Size：S, M, L, XL, XXL Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list ： skirt*1
-  Updated: 2025-10-29T18:29:24Z
+  Updated: 2025-10-30T07:39:12Z
   Vendor: z60ja0-0n
   Product Type: CLOTHING
   Availability: Available
