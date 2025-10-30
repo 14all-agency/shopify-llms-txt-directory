@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-29T12:01:05.753Z
+- Updated At: 2025-10-30T00:01:33.494Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-28T23:13:39Z
+  Updated: 2025-10-29T15:19:00Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -16900,7 +16900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/613084827819.jpg?v=1746978859
     Price: $27.95 USD
 - [Car windshield defogger for clear views and comfort.](https://ursupermart.com/products/car-windshield-defogger-quick-clear-comfort-safe): Car windshield defogger quickly clears fog and ice, offering dual heating and cooling for year-round comfort and safer drives. Ensure clear views and comfort now!
-  Updated: 2025-10-23T17:50:01Z
+  Updated: 2025-10-29T16:25:35Z
   Vendor: S1B|Make | CJ
   Product Type: Car mounted cooling and heating fan
   Availability: Available
@@ -19892,7 +19892,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-ethnic-print-sleeveless.webp?v=1752532859
     Price: $41.95 USD
 - [Women's Dresses for Summer in Floral Prints](https://ursupermart.com/products/women-dresses-for-special-occasions-online-store-1): Shop women's dresses in tropical prints, maxi styles, and comfortable fits. Find the perfect V-neck cami dress or flowy summer dress with pockets.
-  Updated: 2025-10-23T17:57:15Z
+  Updated: 2025-10-29T15:08:41Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Women's Tropical Leaf Print Maxi Dress
   Availability: Available
@@ -21662,7 +21662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-10-29T10:25:41Z
+  Updated: 2025-10-29T14:25:36Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -25568,7 +25568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2025-10-26T10:26:46Z
+  Updated: 2025-10-29T16:26:36Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26779,6 +26779,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/facial-slimming-device-mask-combo.webp?v=1761338207
   Price: $47.95 USD
+- [Security Cameras Wireless Outdoor Solar HD for Home Security](https://ursupermart.com/products/security-cameras-wireless-outdoor-solar-hd-home): Security cameras provide wireless, solar-powered HD home protection with motion alerts and two-way audio. Monitor your property effortlessly; shop now for peace of mind!
+  Updated: 2025-10-29T21:41:58Z
+  Vendor: S1B|S1|CJ
+  Product Type: Wireless solar security camera
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wireless-solar-security-camera-ip65.webp?v=1761745939
+  Price: $47.95 USD
 - [Door Jammer Portable Lock for Home & Travel Security](https://ursupermart.com/products/door-jammer-home-and-travel-portable-security-lock): Door jammer provides essential security for any room, preventing unwanted entry at home or while traveling. Ensure your safety and privacy today!
   Updated: 2025-10-16T12:15:27Z
   Vendor: @eprolo
@@ -26786,6 +26793,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-door-lock-usage-types.webp?v=1760323117
   Price: $14.95 USD
+- [Entryway Shoe Rack 4-Tier - Organize Small Spaces](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces): Shoe Rack for small entryways keeps your shoes neatly organized with its four-tiered design and modern look; get yours today and clear the clutter!
+  Updated: 2025-10-29T21:43:26Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Shoe Rack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-modern-z-frame-storage.webp?v=1761764678
+  - [black / X](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176156250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-black-wide-large-capacity.webp?v=1761765941
+    Price: $19.95 USD
+  - [black / L](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176189018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-black-wide-large-capacity.webp?v=1761765941
+    Price: $16.95 USD
+  - [white / X](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176221786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-white-compact-modern-unit.webp?v=1761765979
+    Price: $19.95 USD
+  - [white / L](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176254554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-white-compact-modern-unit.webp?v=1761765979
+    Price: $16.95 USD
+  - [pink / X](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176287322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-small-pink-compact-size.webp?v=1761765747
+    Price: $19.95 USD
+  - [pink / L](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces?variant=42389176320090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/shoe-rack-small-pink-compact-size.webp?v=1761765747
+    Price: $16.95 USD
 - [Grim Reaper Life Size Halloween Prop Spooky Decor](https://ursupermart.com/products/grim-reaper-life-size-halloween-prop-spooky): This Grim Reaper prop, life-size and spooky, holds a jack-o'-lantern and scythe, perfect for terrifying guests indoors or out. Get yours to create a haunting Halloween display!
   Updated: 2025-10-16T18:21:28Z
   Vendor: @S1B|S1|eprolo
@@ -28926,7 +28963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-gold-tree-bells.webp?v=1761619142
     Price: $9.99 USD
 - [Christmas Ornaments - Whimsical Gnome Wooden Decor Set](https://ursupermart.com/products/christmas-ornaments-whimsical-gnome-wooden-decor-set): Christmas ornaments featuring rustic wooden gnomes add whimsical charm to your tree; easily hang these lightweight decorations and shop now for festive cheer!
-  Updated: 2025-10-29T01:44:41Z
+  Updated: 2025-10-29T18:19:21Z
   Vendor: S1B|S1|eprolo
   Product Type: Christmas ornaments
   Availability: Available
@@ -28981,7 +29018,7 @@
   Updated: 2025-10-29T00:37:45Z
   Total Products: 33
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-10-29T00:37:45Z
+  Updated: 2025-10-29T21:41:57Z
   Total Products: 85
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
   Updated: 2025-10-29T01:42:12Z
@@ -28999,7 +29036,7 @@
   Updated: 2025-10-23T21:37:32Z
   Total Products: 13
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
-  Updated: 2025-10-29T01:42:12Z
+  Updated: 2025-10-30T00:00:06Z
   Total Products: 84
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
   Updated: 2025-10-25T20:02:36Z
@@ -29008,7 +29045,7 @@
   Updated: 2025-10-29T11:06:41Z
   Total Products: 32
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-10-29T01:42:12Z
+  Updated: 2025-10-30T00:00:06Z
   Total Products: 89
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-10-24T13:31:42Z
@@ -29537,6 +29574,8 @@
   Updated: 2025-07-31T21:16:21Z
 - [UrSuperMart - AI Content Feed | Affordable Gadgets & Fashion](https://ursupermart.com/pages/llm-feed): UrSuperMart is a family-owned online store for affordable tech gadgets, fashion, home essentials, toys, and seasonal decor. Free shipping on all or...
   Updated: 2025-09-22T21:33:12Z
+- [UrSuperMart Fraud & Order Protection Policy](https://ursupermart.com/pages/fraud-protection-order-policy-ursupermart): UrSuperMart Fraud Policy for High-Risk Orders At UrSuperMart, our top priority is to prevent fraud and protect you, our valued customer. We have pu...
+  Updated: 2025-10-29T14:32:42Z
 
 ## Policies
 
