@@ -9,7 +9,7 @@
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
 - Address: Calgary, Alberta, Canada
-- Updated At: 2025-10-30T04:00:32.933Z
+- Updated At: 2025-10-30T08:00:47.781Z
 
 ## Products
 
@@ -634,13 +634,13 @@
 ## Collections
 
 - [Pet Safety](https://urbanpawsyyc.myshopify.com/collections/frontpage)
-  Updated: 2025-10-30T00:39:20Z
+  Updated: 2025-10-30T05:59:15Z
   Total Products: 0
 - [Pampered Pets](https://urbanpawsyyc.myshopify.com/collections/pet-care): Pamper your pet like a pro — smooth, shiny, and stress-free
-  Updated: 2025-10-29T05:51:24Z
+  Updated: 2025-10-30T05:59:15Z
   Total Products: 0
 - [Pet Toys](https://urbanpawsyyc.myshopify.com/collections/pet-toys): Always safe!
-  Updated: 2025-10-29T05:51:22Z
+  Updated: 2025-10-30T05:59:15Z
   Total Products: 0
 - [Animals And Pet Supplies example products](https://urbanpawsyyc.myshopify.com/collections/animals-and-pet-supplies-example-products)
   Updated: 2025-10-29T05:51:28Z
