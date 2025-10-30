@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-29T20:01:12.366Z
+- Updated At: 2025-10-30T12:00:49.743Z
 
 ## Products
 
@@ -29354,7 +29354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7092598a-80b7-486d-9fa6-b54dcd42d260.jpg?v=1761655412
     Price: CHF 132.50 CHF
 - [Waterproof Dog Shoes Adjustable Dog Boots Pet Breathbale Shoes For Outdoor Walking Soft French Dog Shoes Pets Paws Protector Pet Products](https://cilly.us/products/waterproof-dog-shoes-adjustable-dog-boots-pet-breathbale-shoes-for-outdoor-walking-soft-french-dog-shoes-pets-paws-protector-pet-products): Overview: 1. Skin-friendly Design: The skin-friendly polyester material stays soft and comfortable after extended wear, ensuring your furry companion can enjoy long walks in any terrain without discomfort. 2. Buckle Design: Keep your furry friend's paws safe and comfortable with our Adjustable Dog Shoes. The easy-to-use shoes can fit any breed or size, and can be attached to a collar thanks to the adjustable buckle and adhesive pad. 3. Non-skip Dog Boots: Equipped with a grain texture anti-slip sole, these adjustable dog shoes offer superior grip to keep your pet stable and supported on any surface. Experience maximum comfort and a secure fit with every wear. 4. Dog Paw Protector: Keep your canine's paws free from injuries and harm with our adjustable dog shoes. The shoes provide adequate protection against hot pavements, snow, rocks, and sand, and keep their paws dry and clean. 5. Outdoor Paw Shoes: Our adjustable dog shoes safeguard your four-legged friend's paws from extreme elements, allowing them to enjoy outdoor walks and playtime without discomfort. They're perfect for daily life, travel, and outdoor walking. Keep your furry friend's paws safe and clean on your travels with our Soft Dog Paw Non-Slip Shoes. With a strong grip and easy attachment to their collar, your dog will love walking with added security. Perfect for any weather and surface, these shoes will keep your pet's paws protected. Product information: Color: Black Size: S,M,L Function: waterproof, non-slip Material: Polyester Applicable object: general Style: Casual Packing list: Pet shoes *4 pcs Product Image:
-  Updated: 2025-10-29T18:28:03Z
+  Updated: 2025-10-30T06:22:15Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29380,7 +29380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/743d1519-b79c-42f9-b080-dcae4a8ed622_trans.jpg?v=1761762136
     Price: CHF 18.60 CHF
 - [Pet dog shoes](https://cilly.us/products/pet-dog-shoes): Function: decoration, waterproof, non-slip, warm, wear-resistant Style: cartoon Sty[Product name]: candy pet rain boots [Product material]: Resin PVC 【Product Size】: S: 4.3CM*3.3CM wide M: 5CM*4CM wide L: 5.7CM*4.7CM wide XL 7.5CM*6CM wide XXL9CM*7CM wide
-  Updated: 2025-10-29T19:08:45Z
+  Updated: 2025-10-30T06:25:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29526,7 +29526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2506873231378.jpg?v=1761762304
     Price: CHF 14.80 CHF
 - [Pet denim canvas shoes dog shoes, sports and leisure waterproof non-slip dog shoes breathable and comfortable](https://cilly.us/products/pet-denim-canvas-shoes-dog-shoes-sports-and-leisure-waterproof-non-slip-dog-shoes-breathable-and-comfortable): Material: cowboy The small denim canvas shoes are exquisite and cute, and wherever you go, I believe that the rate of return will be very high. This shoes are made of denim fabric, not only wearing super handsome, good clothes, especially van! And this fabric is very wear-resistant, very durable, and quite versatile! Size 1 2 3 4 5 Shoe length (outside inch) 4 4.2 5 5.2 5.8 Shoe width (outside inch) 3.2 3.5 4 4.3 4.8
-  Updated: 2025-10-29T19:08:42Z
+  Updated: 2025-10-30T07:22:28Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29572,7 +29572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2602094157671.jpg?v=1761762393
     Price: CHF 18.90 CHF
 - [New Product Original Pet Outing Chest Back Cover](https://cilly.us/products/new-product-original-pet-outing-chest-back-cover): Product information: Material: Polyester Product Category: Chest strap Color: pink velvet, black velvet, cream velvet, gem green velvet Size information Specification: S, M, L, XS Package: Strap x1
-  Updated: 2025-10-29T19:08:31Z
+  Updated: 2025-10-30T06:33:04Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29642,7 +29642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/efcfb0f2-66f1-4229-9927-7bcb23465359_774d1b43-0acb-4fa6-aaf3-fe9c336e6437.jpg?v=1761762777
     Price: CHF 19.90 CHF
 - [Pet Mesh Chest Harness Dog Go Out Reflective Leash](https://cilly.us/products/pet-mesh-chest-harness-dog-go-out-reflective-leash): Product information: Material: Cotton Style: fashion and simplicity Features:Breathable Colour: picture color Size Information: Packing list: Strap*1 Traction rope*1/Strap*1 Product Image:
-  Updated: 2025-10-29T18:43:22Z
+  Updated: 2025-10-30T07:52:30Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29728,7 +29728,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/68b96808-882b-4f4d-8479-ffb984c8006c.jpg?v=1761762923
     Price: CHF 15.20 CHF
 - [Cat towing pet belt](https://cilly.us/products/cat-towing-pet-belt): Name: Cat traction pet belt Features: traction belt length 1.2 m, width 1 cm Size: adjustable
-  Updated: 2025-10-29T19:08:31Z
+  Updated: 2025-10-30T06:36:41Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29754,7 +29754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1556557165213.jpg?v=1761762993
     Price: CHF 15.10 CHF
 - [Cat hooded vest outing chest harness](https://cilly.us/products/cat-hooded-vest-outing-chest-harness): Chinese description: cat traction rope cat walking cat chain rope walking pet rope chain hooded vest go out puppy cat chest harness 2 sizes: XS S 2 colors: pink orange Material: Cotton cloth + Oxford cloth Product Size: Rope length: 126cm Size (cm): neck circumference, bust circumference XS: 26, 26-34 S: 30, 32-40
-  Updated: 2025-10-29T19:08:31Z
+  Updated: 2025-10-30T06:39:41Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29772,7 +29772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2489500341.jpg?v=1761763188
     Price: CHF 16.30 CHF
 - [Pet Collar Dog Fabric Velvet](https://cilly.us/products/pet-collar-dog-fabric-velvet): Product information: Material: fabric Product category: Collar Scalable: Yes Color: dog leash, dog rope, bow, flowers, dog vest, dog poop bag Specification: (length * width) XS, S, M, L, XL Packing list: Dog circle * 1/Dog rope * 1/Bow knot * 1/Flower * 1/Dog vest * 1/Dog poop bag * 1
-  Updated: 2025-10-29T20:00:15Z
+  Updated: 2025-10-30T07:59:34Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -29977,6 +29977,178 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c95ac982-0ce2-4757-a2b4-aceb3438381a.jpg?v=1761767977
     Price: CHF 32.10 CHF
+- [Colorful Color Sliding Adjustable Pet Leash](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash): Product information: Color: red, brown, sapphire blue, lime, black, orange, sky blue, grass green, blue, rose red, purple, moss green Material: nylon strap zinc alloy hooks plastic buckle Category: Pet chain ring, rope Packing list: Traction rope × 1 Product Image:
+  Updated: 2025-10-30T08:03:52Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4f0cfb7e-a7ac-4d86-a3f8-3cc7648568a4_fine.jpg?v=1761768218
+  - [Black / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527831381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/eef3f655-02aa-4a44-bc7b-ac5e03443660_fine.jpg?v=1761768231
+    Price: CHF 10.80 CHF
+  - [Black / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527864149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/eef3f655-02aa-4a44-bc7b-ac5e03443660_fine.jpg?v=1761768231
+    Price: CHF 10.80 CHF
+  - [Blue / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527896917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3cd4e75f-0ac7-44a8-8d34-d5bc48368cf4_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Blue / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527929685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3cd4e75f-0ac7-44a8-8d34-d5bc48368cf4_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Brown / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527962453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14cdb197-30c2-43d4-8ce6-61faee6b912b_fine.jpg?v=1761768231
+    Price: CHF 10.80 CHF
+  - [Brown / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800527995221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14cdb197-30c2-43d4-8ce6-61faee6b912b_fine.jpg?v=1761768231
+    Price: CHF 10.80 CHF
+  - [Grass Green / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528027989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/87f3d3ef-48c3-43ff-9564-234d3841d6c2_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Grass Green / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528060757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/87f3d3ef-48c3-43ff-9564-234d3841d6c2_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Lime / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528093525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e94c9d2b-225e-46f4-ba68-1171a27f0061_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Lime / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528126293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e94c9d2b-225e-46f4-ba68-1171a27f0061_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Moss Green / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528159061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e23bdd88-8b0a-49b9-9841-ec4d9a7cac8e_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Moss Green / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528191829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e23bdd88-8b0a-49b9-9841-ec4d9a7cac8e_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Orange / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528224597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541892fe-4fff-4c19-b23f-3deafb6910c4_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Orange / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528257365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541892fe-4fff-4c19-b23f-3deafb6910c4_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Purple / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528290133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/54f3cbdd-fbf6-4de1-b8d8-8025249e1bcc_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Purple / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528322901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/54f3cbdd-fbf6-4de1-b8d8-8025249e1bcc_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Red / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528355669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d08bd97f-995b-4a6e-843b-ba2a20ab9420_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Red / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528388437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d08bd97f-995b-4a6e-843b-ba2a20ab9420_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Rose Red / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528421205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ee071699-31dc-47fb-8c0b-bd62860c986c_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Rose Red / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528453973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/ee071699-31dc-47fb-8c0b-bd62860c986c_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Sapphire Blue / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528486741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/383377e5-ae6a-4a12-a9ff-fe4bc7e78809_fine.jpg?v=1761768233
+    Price: CHF 10.80 CHF
+  - [Sapphire Blue / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528519509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/383377e5-ae6a-4a12-a9ff-fe4bc7e78809_fine.jpg?v=1761768233
+    Price: CHF 10.80 CHF
+  - [Sky Blue / M](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528552277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/cee8d213-a5d8-4460-b7e4-627a2d7733cf_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+  - [Sky Blue / S](https://cilly.us/products/colorful-color-sliding-adjustable-pet-leash?variant=51800528585045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/cee8d213-a5d8-4460-b7e4-627a2d7733cf_fine.jpg?v=1761768232
+    Price: CHF 10.80 CHF
+- [Dog Cat Jarre Aero Bull Chest And Back Suit](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit): Product information: Color: black and white stripes (chest and back traction), beige chessboard (chest and back traction), Brown chessboard (chest and back traction), houndstooth (chest and back traction) Material: cloth Category: Pet chain ring, rope Product Category: chest strap Packing list: Chest circumference+traction strap * 1 set Product Image:
+  Updated: 2025-10-29T20:18:36Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c7fde1c2-bbb6-4757-8dc5-8c775ac8485d.jpg?v=1761768328
+  - [Beige Checkerboard / L](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554668373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3d96c958-1cc7-4791-ad56-d85e8e1b2692.jpg?v=1761768344
+    Price: CHF 17.30 CHF
+  - [Beige Checkerboard / M](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554701141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3d96c958-1cc7-4791-ad56-d85e8e1b2692.jpg?v=1761768344
+    Price: CHF 17.30 CHF
+  - [Beige Checkerboard / S](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554733909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3d96c958-1cc7-4791-ad56-d85e8e1b2692.jpg?v=1761768344
+    Price: CHF 17.30 CHF
+  - [Beige Checkerboard / XL](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554766677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3d96c958-1cc7-4791-ad56-d85e8e1b2692.jpg?v=1761768344
+    Price: CHF 17.30 CHF
+  - [Black And White Stripes / L](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554799445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9368c7e1-dc2d-47c7-9ccf-303ff32b98d4.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Black And White Stripes / M](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554832213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9368c7e1-dc2d-47c7-9ccf-303ff32b98d4.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Black And White Stripes / S](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554864981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9368c7e1-dc2d-47c7-9ccf-303ff32b98d4.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Black And White Stripes / XL](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554897749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9368c7e1-dc2d-47c7-9ccf-303ff32b98d4.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Brown Checkerboard / L](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554930517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/36fdedfc-00cf-493d-9658-fb7bb7aa03f0.jpg?v=1761768345
+    Price: CHF 17.30 CHF
+  - [Brown Checkerboard / M](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554963285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/36fdedfc-00cf-493d-9658-fb7bb7aa03f0.jpg?v=1761768345
+    Price: CHF 17.30 CHF
+  - [Brown Checkerboard / S](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800554996053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/36fdedfc-00cf-493d-9658-fb7bb7aa03f0.jpg?v=1761768345
+    Price: CHF 17.30 CHF
+  - [Brown Checkerboard / XL](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800555028821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/36fdedfc-00cf-493d-9658-fb7bb7aa03f0.jpg?v=1761768345
+    Price: CHF 17.30 CHF
+  - [Houndstooth / L](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800555061589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14e8297d-c8e4-44c3-90dd-d64332ae0661.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Houndstooth / M](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800555094357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14e8297d-c8e4-44c3-90dd-d64332ae0661.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Houndstooth / S](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800555127125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14e8297d-c8e4-44c3-90dd-d64332ae0661.jpg?v=1761768346
+    Price: CHF 17.30 CHF
+  - [Houndstooth / XL](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit?variant=51800555159893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14e8297d-c8e4-44c3-90dd-d64332ae0661.jpg?v=1761768346
+    Price: CHF 17.30 CHF
 
 ## Collections
 
@@ -29984,11 +30156,11 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-29T18:43:53Z
-  Total Products: 371
+  Updated: 2025-10-29T20:07:37Z
+  Total Products: 372
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-10-29T18:28:34Z
-  Total Products: 418
+  Updated: 2025-10-29T20:08:18Z
+  Total Products: 421
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-29T18:43:53Z
   Total Products: 135
@@ -30065,11 +30237,11 @@
   Updated: 2025-09-27T01:46:43Z
   Total Products: 2
 - [Hundeleine](https://cilly.us/collections/hundeleine)
-  Updated: 2025-10-28T12:59:35Z
-  Total Products: 47
+  Updated: 2025-10-29T20:07:37Z
+  Total Products: 48
 - [Halsband](https://cilly.us/collections/hundehalsband-hundegeschirr)
-  Updated: 2025-10-28T12:53:57Z
-  Total Products: 116
+  Updated: 2025-10-29T20:08:18Z
+  Total Products: 118
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
   Updated: 2025-10-28T13:02:27Z
   Total Products: 52
