@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-30T12:00:39.988Z
+- Updated At: 2025-10-30T16:00:41.351Z
 
 ## Products
 
@@ -8941,7 +8941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-white-front-67953601bed5e.jpg?v=1737833123
     Price: $60.50 USD
 - [Men's Organic Sweatshirt](https://baskandweave.com/products/mens-organic-sweatshirt): The organic sweatshirt is made of organic and recycled materials, and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style!• 80% organic cotton, 20% recycled polyester• 100% organic cotton exterior• Frenchy terry knit • Set-in sleeves• 2×2 rib at collar• Self-fabric neck tape• Blank product sourced from BangladeshDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (cm) BODY LENGTH (cm) S 51 68 M 54 70 L 57 72 XL 60 74 XXL 63 76
-  Updated: 2025-10-29T23:04:07Z
+  Updated: 2025-10-30T14:19:12Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8963,7 +8963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-black-front-67953863f29fa.jpg?v=1740360485
     Price: $47.50 USD
   - [Black / XXL](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723420410)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-black-front-67953863f29fa.jpg?v=1740360485
     Price: $50.50 USD
   - [Red / S](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723453178)
@@ -19721,7 +19721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-french-navy-front-67a68bef7764c.jpg?v=1738968074
     Price: $55.00 USD
 - [Women's Organic Sweatshirt](https://baskandweave.com/products/womens-organic-sweatshirt): This organic sweatshirt is made of organic and recycled materials, and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style! • 80% organic cotton, 20% recycled polyester • 100% organic cotton exterior • Frenchy terry knit • Set-in sleeves • 2×2 rib at collar • Self-fabric neck tape • Blank product sourced from Bangladesh Disclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (cm) BODY LENGTH (cm) S 51 68 M 54 70 L 57 72 XL 60 74 XXL 63 76
-  Updated: 2025-10-29T23:04:22Z
+  Updated: 2025-10-30T14:19:12Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -19743,7 +19743,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Organic_Sweatshirt.jpg?v=1740878941
     Price: $46.50 USD
   - [Black / XXL](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880002298)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Organic_Sweatshirt.jpg?v=1740878941
     Price: $49.00 USD
   - [Red / S](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880035066)
