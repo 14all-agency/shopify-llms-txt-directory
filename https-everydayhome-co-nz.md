@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-30T16:00:40.668Z
+- Updated At: 2025-10-30T20:00:39.587Z
 
 ## Products
 
@@ -1614,7 +1614,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-10-29T21:53:27Z
+  Updated: 2025-10-30T16:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
