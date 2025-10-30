@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-10-28T12:00:44.962Z
+- Updated At: 2025-10-30T12:00:41.030Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/vit_C_big.webp?v=1761300207
   Price: £16.99 GBP
 - [Liposomal Vitamin D3 - 90 Capsules (125mcg) - £0.19 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-10-24T23:49:05Z
+  Updated: 2025-10-29T17:55:01Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Focus_Flow_Bundle.webp?v=1761300685
   Price: £46.99 GBP
 - [Enhanced Immunity Bundle](https://www.floridasunshinevitamins.com/products/enhanced-immunity-bundle): The Enhanced Immunity Bundle combines three advanced liposomal supplements to help support your immune system, promote mood balance, and manage inflammation. These supplements work together to help you stay resilient, especially during the colder months. Liposomal Vitamin D3Supports the normal function of the immune system and plays a role in bone health. Particularly beneficial in regions with limited sunlight. Liposomal PureWay-CA highly bioavailable form of Vitamin C that plays a role in supporting immune function and providing antioxidant protection. Liposomal QuercetinSupports the body’s natural inflammatory response and helps maintain overall balance. Ideal For: The winter months when immune support and mood balance may be needed. Adults living in low-sunlight regions. Anyone seeking additional immune support alongside overall wellness benefits. With the Enhanced Immunity Bundle, you're supporting your immune system and reinforcing your overall health, helping you stay balanced and prepared for the season. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-27T09:19:05Z
+  Updated: 2025-10-29T17:55:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -91,16 +91,16 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-10-27T11:19:51Z
+  Updated: 2025-10-30T11:21:57Z
   Total Products: 5
 - [Liposomal Vitamins Collection – Florida Sunshine](https://www.floridasunshinevitamins.com/collections/vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-10-27T11:19:51Z
+  Updated: 2025-10-30T11:21:57Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/bundles)
   Updated: 2025-10-11T05:13:38Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
-  Updated: 2025-10-27T11:19:51Z
+  Updated: 2025-10-30T11:21:57Z
   Total Products: 6
 
 ## Store Pages
@@ -113,6 +113,8 @@
   Updated: 2025-09-01T12:18:39Z
 - [FAQs | Florida Sunshine Vitamins Support](https://www.floridasunshinevitamins.com/pages/faqs): 
   Updated: 2025-09-09T08:31:55Z
+- [Your privacy choices](https://www.floridasunshinevitamins.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-10-29T13:48:00Z
 - [Cookie Policy | Florida Sunshine Vitamins](https://www.floridasunshinevitamins.com/pages/cookie-policy): Introduction Florida Sunshine Vitamins ("we", "us", "our") uses cookies to enhance your browsing experience on our website www.floridasunshine.co.u...
   Updated: 2025-09-01T12:19:00Z
 - [CompareXpert](https://www.floridasunshinevitamins.com/pages/compare-xpert)
