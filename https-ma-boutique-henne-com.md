@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-29T20:00:59.683Z
+- Updated At: 2025-10-30T00:00:39.705Z
 
 ## Products
 
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/hemani-henne-black-with-bakhour.jpg?v=1737108143
   Price: 8,50 € EUR
 - [Khôl Noir artisanal en Poudre + bâton applicateur](https://ma-boutique-henne.com/products/khol-en-poudre-artisanal-noir-et-applicateur): Le Khôl, pierre, antimoine, beauté orientale, hommes et les femmes. maquillage et cosmétique bio et vegan, 100% naturel, regard, crayon, noir, intense, souligner, fard, paupière, vegan, produit, maquiller, biologique, yeux sensibles, lentilles, démaquiller, longue tenue, liner, maghreb, moyen orient, henne, boutique
-  Updated: 2025-10-29T13:45:11Z
+  Updated: 2025-10-29T21:39:22Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-29T19:59:35Z
+  Updated: 2025-10-29T21:01:36Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
