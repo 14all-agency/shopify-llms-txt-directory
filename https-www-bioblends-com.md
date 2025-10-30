@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-10-30T12:00:38.650Z
+- Updated At: 2025-10-30T16:00:34.448Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Zinc1_e04ac993-ab63-4327-a19a-93f8948ebf9e.jpg?v=1743047450
   Price: $59.95 NZD
 - [Calm Restore](https://www.bioblends.com/products/calm-restore): Calm Restore offers relief for a busy mind, and from both acute and chronic stress. You can use it during the day to help calm anxious feelings or use it at night for better sleep quality. It’s a natural, non-drowsy formula designed to soothe your nervous system and ease tension, containing a blend of five highly effective botanicals — magnolia, zizyphus, lemon balm, chamomile, and withania. They work synergistically to reduce anxious feelings, alleviate irritability and promote a deep sense of calm. It's perfect for anyone feeling 'tired but wired' or struggling to unwind.
-  Updated: 2025-10-30T09:46:04Z
+  Updated: 2025-10-30T14:50:40Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron™](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-30T11:19:27Z
+  Updated: 2025-10-30T13:33:08Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-10-30T11:19:32Z
+  Updated: 2025-10-30T13:33:11Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -130,21 +130,21 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/RealFood.jpg?v=1750630389
   Price: $39.95 NZD
 - [Women’s Health Essentials](https://www.bioblends.com/products/women-s-health-essentials): Support for the natural rhythms of being a woman. Build strong foundations for energy, hormone balance and vitality. Cycle Essentials promotes healthy progesterone production via cyclical ovulation, Liver Love supports healthy estrogen metabolism (via detoxification and clearance) and Iconic Iron provides ground-breaking ferritin-iron to restore iron levels often depleted by monthly bleeding, without the typical gut-related side effects of old-school iron supplements. This trio is ideal for anyone experiencing PMS, bloating, heightened fatigue prior to menstruation, mood swings, or more anxious feelings around their period, navigating the ups and downs of perimenopause, or simply wanting to enjoy a more harmonious, energised and symptom-free cycle. 90 vege capsules / 3 per day / 30 day supply Free of: animal products, gluten, dairy, soy, preservatives, sweeteners, artificial flavours, colours, GMOs.
-  Updated: 2025-10-30T11:25:08Z
+  Updated: 2025-10-30T13:33:11Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/HealthEssentials.jpg?v=1760556981
   Price: $188.85 NZD
 - [Everyday Energy Stack](https://www.bioblends.com/products/everyday-energy-stack): Support energy at its source. Feel more alive, every day, with Iconic Iron, Organic Daily Greens + Reds and Organic Zinc — your go-to trio for clarity, vitality and resilience. Together, they support oxygen transport, energy production, immune and gut health, along with cellular nourishment, helping you feel brighter, stronger and more like yourself. This trio is ideal for anyone who regularly feels exhausted, flat or struggles to get through the day — or is looking to replenish their iron, support their immune system and restore everyday energy from the inside out. It’s also a terrific combo to beat sugar cravings.
-  Updated: 2025-10-30T11:19:32Z
+  Updated: 2025-10-30T13:33:11Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/EnergyStack.jpg?v=1760557149
   Price: $179.85 NZD
 - [Daily Vitality Stack](https://www.bioblends.com/products/daily-vitality-stack): Your essential foundation for whole-body wellness. Four of our most-loved formulas, working in harmony to support your health from every angle — morning, noon and night. Organic Daily Greens + Reds delivers nutrient-dense, concentrated plant foods for noticeable energy, gut health and immune support. Liver Love nourishes detoxification pathways to help clear what your body no longer needs. Iconic Iron restores vital iron stores without the usual gut-related side effects, supporting energy and mental clarity. And Calm Restore helps soothe the nervous system and build emotional resilience. A daily ritual for feeling clear, calm and well – from the inside out.
-  Updated: 2025-10-30T11:25:08Z
+  Updated: 2025-10-30T14:50:46Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
