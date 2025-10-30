@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-29T16:00:43.268Z
+- Updated At: 2025-10-30T00:01:03.244Z
 
 ## Products
 
@@ -3034,7 +3034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/OT-76009.jpg?v=1678862611
   Price: RM 73.00 MYR
 - [ONIMI Chrome 165mm FinishTowel Ring](https://bath2u.com/products/onimi-chrome-165mm-finishtowel-ring): Specification : Measurement : 165 (L) x 67 (W) x 215 (H) mmType : Wall MountedFinish : ChromeMaterial : Stainless Steel 304
-  Updated: 2025-10-13T08:26:59Z
+  Updated: 2025-10-29T16:50:06Z
   Vendor: ONIMI
   Product Type: Towel Ring
   Availability: Available
