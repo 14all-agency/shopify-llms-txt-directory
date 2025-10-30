@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-29T04:01:16.616Z
+- Updated At: 2025-10-30T04:00:50.670Z
 
 ## Products
 
@@ -19071,7 +19071,7 @@ Department Name:Adult
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd457de496c404a45ad9e137387710e14G.webp?v=1759945572
   Price: 789,00 € EUR
 - [Artificial Plastic Flowers Fake Eucalyptus Plant Wedding bridal bouquet Christmas Decor Vase for Home windowsill bonsai Festival](https://www.floranza-air.shop/products/artificial-plastic-flowers-fake-eucalyptus-plant-wedding-bridal-bouquet-christmas-decor-vase-for-home-windowsill-bonsai-festival): SPECIFICATIONSApplications: Bridal ShowerBrand Name: smrCN: ZhejiangChoice: yesHign-concerned Chemical: NoneMaterial: PlasticNumber of Pcs: 1pcOrigin: Mainland ChinaPlacement: DesktopPlant Style: GrassPurpose: ExhibitionUsage scenarios: Outdooris_customized: No Condition: 100% Brand New & High QualityMaterial:Plastic + wireColor: As the picture shows.Size:Single 1.5cm,Total length 34cm (1cm=0.4 inch)Package includes: 1 lot =1pcs=7 forksUse: birthday send flowers, celebration of send flowers, love flowers, sympathy flowers, festival of flowers, home decoration!Note:Due to different monitor and camera lights may cause slight color differences, mainly in kind of all colors.
-  Updated: 2025-10-17T16:38:50Z
+  Updated: 2025-10-29T09:07:26Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -19105,7 +19105,7 @@ Department Name:Adult
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb6afc40b24104c6d8a4aad065469226aU.webp?v=1759945642
     Price: 1,38 € EUR
 - [21 Heads Artificialflower Autumn Silk Daisy Bouquet Decor Vase Home Wedding Decor Household Products Holiday Party DIY gift box](https://www.floranza-air.shop/products/21-heads-artificialflower-autumn-silk-daisy-bouquet-decor-vase-home-wedding-decor-household-products-holiday-party-diy-gift-box): SPECIFICATIONSApplications: Anniversary,Baby Shower,Birthday,Bridal Shower,Got Engaged,Graduate,Housewarming PartyBrand Name: smrCN: ZhejiangChoice: yesClassification: Artificial FlowersFlower Style: Flower BouquetHign-concerned Chemical: NoneMaterial: SilkModel Number: 55DIOccasion: WeddingOrigin: Mainland ChinaPurpose: Home DecorationStyle: FlowerType: DaisyUsage scenarios: Indooris_customized: No Condition: 100% Brand New & High Quality Material:silk+plasticPackage includes: 1 lot=1pcColor: As the picture shows. Size: The pruning is 32cm high and 15cm wide. There are 7 branches with 21 wild chrysanthemums (about 3.5cm in diameter). (1cm=0.4 inch) Use: birthday send flowers, celebration of send flowers, love flowers, sympathy flowers, festival of flowers, home decoration! note: Due to different monitor and camera lights may cause slight color differences, mainly in kind of all colorserent sizes.entirely consistent with the picture.
-  Updated: 2025-10-17T16:38:50Z
+  Updated: 2025-10-29T09:07:25Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -19155,7 +19155,7 @@ Department Name:Adult
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hed6b32af6dcf4b91993c7a8302083ce5U.webp?v=1759945676
     Price: 1,53 € EUR
 - [Artificial Flower Plastic Lavender Fake Plant Wedding Home Garden Decoration Bridal Bouquet Photography Props Household Products](https://www.floranza-air.shop/products/artificial-flower-plastic-lavender-fake-plant-wedding-home-garden-decoration-bridal-bouquet-photography-props-household-products): SPECIFICATIONSApplications: Anniversary,Baby Shower,Birthday,Bridal Shower,Got Engaged,Graduate,Housewarming PartyBrand Name: NoEnName_NullCN: ZhejiangChoice: yesClassification: Artificial FlowersFlower Style: Flower BouquetHign-concerned Chemical: NoneMaterial: PlasticModel Number: GQ828Occasion: WeddingOrigin: Mainland ChinaPurpose: Home DecorationStyle: FlowerType: ROSEUsage scenarios: Indooris_customized: No Product Name:Artificial Plant Bouquet Szize:35cm/13.7 inch Color:As The Picture Shows Packing include: 1pcs Occasion: Wedding & Home Decor & Outdoor Garden & Notice: 1.Please allowed 1-2cm differences due to manual measurement, thanks. 2.Due to the difference between different monitors, the picture may not reflect the actual color of the item,thanks. 3.Note that the flowers of this product will fall off naturally, just re-insert them, please note this before purchasing!
-  Updated: 2025-10-17T16:38:50Z
+  Updated: 2025-10-29T09:07:25Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -19229,7 +19229,7 @@ Department Name:Adult
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sfea3f464f50b4f678b5c49a52eaf0202D.webp?v=1759945779
     Price: 6,46 € EUR
 - [Artificial Plants Green Palm Leaves Monstera Home Garden Living Room Bedroom Balcony Decoration Tropical Plastic Fake Plant Long](https://www.floranza-air.shop/products/artificial-plants-green-palm-leaves-monstera-home-garden-living-room-bedroom-balcony-decoration-tropical-plastic-fake-plant-long): SPECIFICATIONSBrand Name: TenvityCN: ZhejiangChoice: yesMaterial: PlasticNumber of Pcs: 1pcOrigin: Mainland ChinaPlacement: DesktopPlant Style: BranchUsage scenarios: Outdooris_customized: Yes Artificial Plants Green Palm Leaves Monstera Home Garden Living Room Bedroom Balcony Decoration Tropical Plastic Fake Plant Long Use for : Home,wedding,outdoor flower bed, mall, landscape selection, various activities ect. Total length: as the picture shows Color : green white dark Feature: Brand new and high quality. Using ECO-Friendly Durable&Premium Imported Latex. Apply to Any Home or Garden Decor. A classic beauty with understated radiance. Perfect for a dining or a party room, also perfect for wedding event.
-  Updated: 2025-10-17T16:38:50Z
+  Updated: 2025-10-29T09:07:26Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -27236,10 +27236,10 @@ Origine:Fujian,China
   Updated: 2025-10-17T16:38:23Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-21T10:25:45Z
+  Updated: 2025-10-29T11:25:13Z
   Total Products: 489
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-21T10:25:45Z
+  Updated: 2025-10-29T11:25:13Z
   Total Products: 489
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-17T16:38:23Z
@@ -27250,6 +27250,13 @@ Origine:Fujian,China
 - [Collection vedette : Confort d’hiver / Winter Comfort](https://www.floranza-air.shop/collections/collection-vedette-confort-d-hiver-winter-comfort): Gilet chauffant USB Léger, 3 niveaux de chaleur, rechargeable / Lightweight, 3 heat levels Pantoufles chauffante Douces, recharge USB / Soft, USB rechargeable Couverture chauffante Grande taille, chaleur réglable / Large, adjustable heat Gants chauffants Batterie longue durée / Long-lasting battery Chaussettes thermiques Confort extrême / Extreme comfort
   Updated: 2025-10-18T10:30:07Z
   Total Products: 16
+
+## Blogs
+
+- [News](https://www.floranza-air.shop/blogs/news)
+  - [Ode à la Tendresse](https://www.floranza-air.shop/blogs/news/ode-a-la-tendresse): Un poème touchant qui célèbre la beauté de la tendresse dans notre quotidien. Laissez-vous porter par ces vers qui rappellent l'importance des petits gestes d'amour et de douceur.
+    Updated: 2025-10-30T02:11:24Z
+    Author: JOSEPH ALTIDOR FRANCOIS
 
 ## Store Pages
 
