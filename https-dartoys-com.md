@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-30T00:00:56.409Z
+- Updated At: 2025-10-30T20:01:00.340Z
 
 ## Products
 
@@ -39,61 +39,61 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/100-_-_-My-Store-78357733.webp?v=1760188810
   Price: ‏18.00 د.ك.‏ KWD
 - [مجموعة ألعاب خشبية DP Hailey للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/مجموعة-ألعاب-خشبية-dp-hailey-للأطفال): أضف المرح والتحدي إلى ساحة منزلك مع مجموعة الألعاب ية DP Hailey. تتميز بتصميم متين مصنوع من  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:50Z
+  Updated: 2025-10-30T09:59:59Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/DP-Hailey-_-My-Store-78358341.avif?v=1761109506
-  Price: ‏114.90 د.ك.‏ KWD
+  Price: ‏119.90 د.ك.‏ KWD
 - [مجموعة ألعاب خشبية DP Brooksville Adventure للأطفال - Dar Toys || متجر](https://dartoys.com/products/مجموعة-ألعاب-خشبية-dp-brooksville-adventure-للأطفال): استمتع بمغامرة لا تنتهي مع مجموعة الألعاب الخشبية DP Brooksville Adventure من Dolphin Playground.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T10:00:36Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/DP-Brooksville-Adventure-_-My-Store-78359397.webp?v=1761109329
-  Price: ‏199.00 د.ك.‏ KWD
+  Price: ‏199.90 د.ك.‏ KWD
 - [طقم ألعاب خشبي Milano من Dolphin Playground للأطفال - Dar Toys || متجر](https://dartoys.com/products/طقم-ألعاب-خشبي-milano-من-dolphin-playground-للأطفال): امنح أطفالك تجربة لعب متكاملة مع طقم الألعاب الخشبي Milano من Dolphin Playground المصمم ليناسب مختلف  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T10:01:09Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Milano-_-Dolphin-Playground-_-My-Store-78360772.webp?v=1761109330
-  Price: ‏230.00 د.ك.‏ KWD
+  Price: ‏239.90 د.ك.‏ KWD
 - [طقم ألعاب خشبي Bridgeport مع أرجوحات وجدار تسلق للأطفال - Dar Toys ||](https://dartoys.com/products/طقم-ألعاب-خشبي-bridgeport-مع-أرجوحات-وجدار-تسلق-للأطفال): أضف المزيد من المتعة والأنشطة الحركية إلى حياة طفلك مع طقم الألعاب الخشبي Bridgeport من Dolphin  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T10:01:27Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Bridgeport-_-_-_-_-_-My-Store-78363113.jpg?v=1761109331
-  Price: ‏315.00 د.ك.‏ KWD
+  Price: ‏319.90 د.ك.‏ KWD
 - [طقم ألعاب خشبي Brookridge من KidKraft للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/طقم-ألعاب-خشبي-brookridge-من-kidkraft-للأطفال): أطلق العنان لخيال ك مع طقم الألعاب الخشبي Brookridge من KidKraft، المصمم ليستوعب ما يصل إلى 9  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T10:03:18Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Brookridge-_-KidKraft-_-My-Store-78364881.webp?v=1761109332
-  Price: ‏270.00 د.ك.‏ KWD
+  Price: ‏279.90 د.ك.‏ KWD
 - [مجموعة ألعاب KidKraft Overlook Challenge مع أرجوحات وتسلق للأطفال -](https://dartoys.com/products/مجموعة-ألعاب-kidkraft-overlook-challenge-مع-أرجوحات-وتسلق-للأطفال): امنح أطفالك تجربة لعب مثيرة مع مجموعة ألعاب KidKraft Overlook Challenge التي تجمع بين الأرجوحات،  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T10:04:07Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/KidKraft-Overlook-Challenge-_-_-_-_-My-Store-78366023.webp?v=1761109332
-  Price: ‏285.00 د.ك.‏ KWD
+  Price: ‏294.90 د.ك.‏ KWD
 - [مجموعة ألعاب KidKraft Wilderness Point مع أرجوحات للأطفال - Dar Toys](https://dartoys.com/products/مجموعة-ألعاب-kidkraft-wilderness-point-مع-أرجوحات-للأطفال): أضف المغامرة إلى حديقة منزلك مع مجموعة ألعاب KidKraft Wilderness Point المصممة للأطفال للاستمتاع  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:51Z
+  Updated: 2025-10-30T09:59:32Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/KidKraft-Wilderness-Point-_-_-_-My-Store-78367170.webp?v=1761109334
-  Price: ‏165.00 د.ك.‏ KWD
+  Price: ‏169.90 د.ك.‏ KWD
 - [لعبة التسلق Little Tikes Seek and Explore للأطفال - Dar Toys || متجر](https://dartoys.com/products/لعبة-التسلق-little-tikes-seek-and-explore-للأطفال): دع أطفالك يستكشفون عالمًا من المرح مع لعبة التسلق Little Tikes Seek and Explore Climber. تتميز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T03:38:35Z
+  Updated: 2025-10-30T10:05:24Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Little-Tikes-Seek-and-Explore-_-My-Store-78367969.webp?v=1761109334
-  Price: ‏119.90 د.ك.‏ KWD
+  Price: ‏114.90 د.ك.‏ KWD
 - [زحليقة كبيرة وردية للأطفال من Little Tikes - Dar Toys || متجر دار تويز](https://dartoys.com/products/زحليقة-كبيرة-وردية-للأطفال-من-little-tikes): أضف المزيد من المرح إلى أوقات اللعب مع الزحليقة الكبيرة باللون الوردي من Little Tikes. تصميم مميز  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-29T18:47:20Z
   Vendor: My Store
@@ -235,12 +235,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78385132.jpg?v=1761109360
   Price: ‏18.00 د.ك.‏ KWD
 - [قلعة القفز مع زحليقتين للأطفال Little Tikes - Dar Toys || متجر دار](https://dartoys.com/products/قلعة-القفز-مع-زحليقتين-للأطفال-little-tikes): أطلق المرح والنشاط مع قلعة القفز Little Tikes Jump and Double Slide Bouncer! تصميم مبتكر يجمع بين  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:55Z
+  Updated: 2025-10-30T10:09:17Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Little-Tikes-My-Store-78385410.jpg?v=1761109362
-  Price: ‏135.00 د.ك.‏ KWD
+  Price: ‏144.90 د.ك.‏ KWD
 - [ملعب مائي متكامل للأطفال – تسلق، انزلاق، وبركة في منتزه مصغّر من](https://dartoys.com/products/مركز-اللعب-القابل-للنفخ-للأطفال-مع-زحليقة-وسلة-كرة-من-little-tikes): امنح طفلك ساعات من المرح مع ملعب مائي متكامل للأطفال – تسلق، انزلاق، وبركة في منتزه مصغّر من Little Tikes متجر دار تويز
   Updated: 2025-10-24T15:22:54Z
   Vendor: My Store
@@ -263,19 +263,19 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78387859.jpg?v=1761109368
   Price: ‏100.00 د.ك.‏ KWD
 - [ترامبولين 7 قدم للأطفال من Little Tikes مع شبكة أمان - Dar Toys ||](https://dartoys.com/products/ترامبولين-7-قدم-للأطفال-من-little-tikes-مع-شبكة-أمان): دع أطفالك يستمتعون بالقفز بأمان مع ترامبولين 7 قدم من Little Tikes المصمم خصيصاً للمرح والنشاط  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:46:34Z
+  Updated: 2025-10-30T10:10:19Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/7-_-_-_-Little-Tikes-_-_-_-My-Store-78388582.jpg?v=1761109370
-  Price: ‏85.90 د.ك.‏ KWD
+  Price: ‏89.90 د.ك.‏ KWD
 - [ترامبولين ميغا 12 قدم للأطفال مع شبكة أمان من Little Tikes - Dar Toys](https://dartoys.com/products/ترامبولين-ميغا-12-قدم-للأطفال-مع-شبكة-أمان-من-little-tikes): اجعل أطفالك يستمتعون بالقفز بأمان مع ترامبولين ميغا 12 قدم من Little Tikes، المصمم لتوفير أقصى درجات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:46:18Z
+  Updated: 2025-10-30T10:11:02Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-_-_-Little-Tikes-My-Store-78388976.jpg?v=1761109371
-  Price: ‏89.90 د.ك.‏ KWD
+  Price: ‏94.90 د.ك.‏ KWD
 - [أرجوحة للأطفال بظهر مرتفع مع حزام أمان من Little Tikes - Dar Toys ||](https://dartoys.com/products/أرجوحة-للأطفال-بظهر-مرتفع-مع-حزام-أمان-من-little-tikes): امنح طفلك تجربة لعب آمنة وممتعة مع أرجوحة الأطفال بظهر مرتفع من Little Tikes، المصممة خصيصاً للصغار  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-26T19:00:11Z
   Vendor: My Store
@@ -637,7 +637,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4_4-_-_-My-Store-78457664.webp?v=1761109479
   Price: ‏36.90 د.ك.‏ KWD
 - [مجموعة تسلق 4 في 1 للأطفال - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/مجموعة-تسلق-4-في-1-للأطفال): امنح طفلك تجربة لعب متكاملة مع مجموعة التسلق 4 في 1 المصممة لتوفير الترفيه والتعليم معًا. تتضمن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T15:44:17Z
+  Updated: 2025-10-30T10:50:29Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1029,12 +1029,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1200-_-_-48-_-_-_-My-Store-78542545.jpg?v=1761109597
   Price: ‏204.90 د.ك.‏ KWD
 - [عارضة توازن مع أحجار ملونة للأطفال الصغار - Dar Toys || متجر دار تويز](https://dartoys.com/products/عارضة-توازن-مع-أحجار-ملونة-للأطفال-الصغار): أضف المتعة والتعليم إلى وقت لعب طفلك مع عارضة التوازن المزودة بأحجار ملونة. تساعد هذه اللعبة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:18Z
+  Updated: 2025-10-30T13:23:37Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78544083.jpg?v=1761109601
-  Price: ‏33.00 د.ك.‏ KWD
+  Price: ‏37.90 د.ك.‏ KWD
 - [سيكل هارلي كهربائي للأطفال 60 فولت 2000 واط - Dar Toys || متجر دار](https://dartoys.com/products/سيكل-هارلي-كهربائي-للأطفال-60-فولت-2000-واط): استمتع بقيادة مليئة بالقوة والأناقة مع سيكل هارلي الكهربائي AH-20 بقدرة 2000 واط وبطارية 60 فولت  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-25T01:50:19Z
   Vendor: My Store
@@ -1733,19 +1733,19 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/6-_-_-_-_-_-_-_-My-Store-79096582.webp?v=1761109914
   Price: ‏35.00 د.ك.‏ KWD
 - [نطاطية هواء للأطفال 390×270×215 سم - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-هواء-للأطفال-390-270-215-سم): اجعل حفلاتك ومناسباتك مليئة بالمتعة مع نطاطية الهواء المميزة من Dartoys! مصممة لتوفير تجربة قفز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:44:26Z
+  Updated: 2025-10-30T10:11:48Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/390_270_215-_-My-Store-79098120.jpg?v=1761109916
-  Price: ‏105.90 د.ك.‏ KWD
+  Price: ‏109.90 د.ك.‏ KWD
 - [نطاطية هواء للأطفال 370*280*185 سم - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-هواء-للأطفال-370-280-185-سم): أضف المتعة إلى حفلات الأطفال مع نطاطية الهواء المميزة من Dartoys! الخيار الأمثل للترفيه والنشاط في  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:44:03Z
+  Updated: 2025-10-30T10:12:27Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/370_280_185-_-My-Store-79099652.jpg?v=1761109920
-  Price: ‏99.90 د.ك.‏ KWD
+  Price: ‏104.90 د.ك.‏ KWD
 - [نطاطية هواء للأطفال 190×330×430 سم - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-هواء-للأطفال-190-330-430-سم): اجعل لحظات أطفالك مليئة بالمرح مع نطاطية الهواء من Dartoys، الخيار المثالي للمتعة والترفيه في  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-29T18:43:33Z
   Vendor: My Store
@@ -1754,28 +1754,28 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/190_330_430-_-My-Store-79100548.jpg?v=1761109923
   Price: ‏89.90 د.ك.‏ KWD
 - [نطاطية هواء قلعة ماء مزدوجة مع منزلقين للأطفال - Dar Toys ||](https://dartoys.com/products/نطاطية-هواء-قلعة-ماء-مزدوجة-مع-منزلقين-رش-للأطفال): اجعل اللعب في الهواء الطلق أكثر متعة مع نطاطية الهواء المائية المزدوجة! تأتي بتصميم رائع على شكل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-25T10:25:31Z
+  Updated: 2025-10-30T10:13:16Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79102076.jpg?v=1761109926
-  Price: ‏119.90 د.ك.‏ KWD
+  Price: ‏129.90 د.ك.‏ KWD
 - [نطاطية هواء مائية قابلة للنفخ مع منزلق للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/نطاطية-هواء-مائية-قابلة-للنفخ-مع-منزلق-للأطفال): اجعل صيف أطفالك أكثر متعة مع نطاطية الهواء المائية القابلة للنفخ، اللعبة المثالية التي تجمع بين  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:42:12Z
+  Updated: 2025-10-30T10:13:49Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79103446.jpg?v=1761109931
-  Price: ‏128.00 د.ك.‏ KWD
+  Price: ‏129.90 د.ك.‏ KWD
 - [نطاطية للأطفال بارتفاع 160 سم آمنة وممتعة - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-للأطفال-بارتفاع-160-سم-آمنة-وممتعة): اجعل اللعب في الهواء الطلق أكثر متعة مع نطاطية الأطفال بارتفاع 160 سم، المصممة لتمنح طفلك تجربة قفز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:41:56Z
+  Updated: 2025-10-30T10:14:29Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/160-_-_-_-My-Store-79105450.jpg?v=1761109932
   Price: ‏29.90 د.ك.‏ KWD
 - [نطاطية ( ترامبولين ) مع شبكة أمان للأطفال بمقاسات مختلفة - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-مع-شبكة-أمان-للأطفال-والمراهقين): استمتع بالمرح والحركة مع نطاطية 12 قدم (3 أمتار)، المثالية للأطفال والمراهقين لقفز آمن وممتع. توفر  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:41:29Z
+  Updated: 2025-10-30T10:17:41Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1783,18 +1783,18 @@
   - [نطاطية 10 قدم (3متر)](https://dartoys.com/products/نطاطية-مع-شبكة-أمان-للأطفال-والمراهقين?variant=43960962318451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79107338.jpg?v=1761109937
-    Price: ‏64.90 د.ك.‏ KWD
+    Price: ‏69.90 د.ك.‏ KWD
   - [نطاطية 12 قدم (3.5 متر )](https://dartoys.com/products/نطاطية-مع-شبكة-أمان-للأطفال-والمراهقين?variant=43960962351219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79107338.jpg?v=1761109937
-    Price: ‏74.90 د.ك.‏ KWD
+    Price: ‏79.90 د.ك.‏ KWD
 - [نطاطية 8 قدم للأطفال مع إطار آمن ومتينة - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-8-قدم-للأطفال-مع-إطار-آمن-ومتينة): أضف المتعة والنشاط إلى حديقتك مع نطاطية 8 قدم ، المصممة لتوفير تجربة قفز آمنة ومسلية. تتيح  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:40:38Z
+  Updated: 2025-10-30T10:18:23Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/8-_-_-_-_-_-_-My-Store-79108492.jpg?v=1761109940
-  Price: ‏64.90 د.ك.‏ KWD
+  Price: ‏69.90 د.ك.‏ KWD
 - [ديرفة حديد للأطفال آمنة وممتعة للحدائق - Dar Toys || متجر دار تويز](https://dartoys.com/products/ديرفة-حديد-للأطفال-آمنة-وممتعة-للحدائق): امنح أطفالك تجربة لعب آمنة ومسلية مع ديرفة حديد للأطفال، المصممة لتوفير ساعات من المرح في الهواء  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-25T12:38:00Z
   Vendor: My Store
@@ -1838,26 +1838,26 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79117090.jpg?v=1761109958
   Price: ‏20.90 د.ك.‏ KWD
 - [ديرفة متعددة الألعاب زحلاقية مع نفق وبرج للأطفال - Dar Toys || متجر](https://dartoys.com/products/ديرفة-متعددة-الألعاب-زحلاقية-مع-نفق-وبرج-للأطفال): امنح أطفالك تجربة لعب متكاملة مع ديرفة متعددة الألعاب زحلاقية مع نفق وبرج من Dartoys! تجمع هذه  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:38Z
+  Updated: 2025-10-30T10:19:15Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79119063.jpg?v=1761109962
   Price: ‏939.90 د.ك.‏ KWD
 - [ملعب أطفال داخلي مع أرجوحة وزحلاقية - Dar Toys || متجر دار تويز](https://dartoys.com/products/ملعب-أطفال-داخلي-مع-أرجوحة-وزحلاقية): امنح طفلك تجربة لعب ممتعة وآمنة مع ملعب الأطفال الداخلي المزوّد بأرجوحة وزحلاقية. تصميم مثالي يجمع  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:39:50Z
+  Updated: 2025-10-30T10:20:17Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79121730.jpg?v=1761109969
   Price: ‏999.00 د.ك.‏ KWD
 - [ديرفة ماليزية بخمسة مقاعد وزحلاقية بلاستيكية للأطفال والكبار - Dar](https://dartoys.com/products/ديرفة-ماليزية-بخمسة-مقاعد-وزحلاقية-بلاستيكية-للأطفال-والكبار): استمتع بتجربة لعب آمنة وممتعة مع الديرفة الماليزية المصممة بخمسة مقاعد بلاستيكية مريحة وزحلاقية قوية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:39:37Z
+  Updated: 2025-10-30T10:20:54Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79122760.jpg?v=1761109969
-  Price: ‏114.90 د.ك.‏ KWD
+  Price: ‏119.90 د.ك.‏ KWD
 - [ديرفة حديد بمقعدين للأطفال للاستخدام الخارجي - Dar Toys || متجر دار](https://dartoys.com/products/ديرفة-حديد-بمقعدين-للأطفال-للاستخدام-الخارجي): استمتع بوقت اللعب في الهواء الطلق مع ديرفة الحديد ذات المقعدين المصممة لتمنح الأطفال تجربة لعب آمنة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:39Z
   Vendor: My Store
@@ -1873,12 +1873,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79125998.jpg?v=1761109974
   Price: ‏70.00 د.ك.‏ KWD
 - [مقعد أرجوحة خارجي من المعدن للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/مقعد-أرجوحة-خارجي-من-المعدن-للأطفال): أضف نشاطًا ومرحًا لمساحة طفلك الخارجية مع مقعد الأرجوحة الخارجي المعدني الذي يجمع بين الأمان  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:39Z
+  Updated: 2025-10-30T10:21:24Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79128331.jpg?v=1761109978
-  Price: ‏130.00 د.ك.‏ KWD
+  Price: ‏139.90 د.ك.‏ KWD
 - [ديرفة مزدوجة مع أرجوحتين ومقعد توازن للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/ديرفة-مزدوجة-مع-أرجوحتين-ومقعد-توازن-للأطفال): استمتع بتجربة لعب جماعية لا تُنسى مع الديرفة المزدوجة المكونة من أرجوحتين ومقعد توازن، المصممة لتوفر  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T15:29:38Z
   Vendor: My Store
@@ -1894,14 +1894,14 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79131848.jpg?v=1761109983
   Price: ‏45.00 د.ك.‏ KWD
 - [ديرفة حديد متينة وآمنة للأطفال للاستخدام الخارجي - Dar Toys || متجر](https://dartoys.com/products/ديرفة-حديد-متينة-وآمنة-للأطفال-للاستخدام-الخارجي): أضف المتعة والأمان إلى وقت لعب أطفالك مع الديرفة الحديدية المتينة من Dartoys، المصممة خصيصًا لتناسب  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:39Z
+  Updated: 2025-10-30T10:52:48Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79132264.jpg?v=1761109984
-  Price: ‏70.00 د.ك.‏ KWD
+  Price: ‏74.90 د.ك.‏ KWD
 - [ديرفة حديد آمنة وممتعة للأطفال للاستخدام الخارجي - Dar Toys || متجر](https://dartoys.com/products/ديرفة-حديد-آمنة-وممتعة-للأطفال-للاستخدام-الخارجي): استمتع بلحظات المرح في الهواء الطلق مع ديرفة حديد متينة وآمنة للأطفال. مصممة بعناية لتوفر أقصى درجات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:25:36Z
+  Updated: 2025-10-30T10:52:27Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2142,12 +2142,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131860859.jpg?v=1761110077
   Price: ‏75.00 د.ك.‏ KWD
 - [فريرة على شكل طبق 5 نفر - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/فريرة-على-شكل-طبق-5-نفر): استمتع بتجربة لعب ممتعة ومليئة بالتحدي مع فريرة شكل طبق لخمسة لاعبين. تجمع هذه اللعبة بين المتعة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:45Z
+  Updated: 2025-10-30T10:22:12Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/5-_-My-Store-131829118.jpg?v=1761110081
-  Price: ‏380.00 د.ك.‏ KWD
+  Price: ‏389.90 د.ك.‏ KWD
 - [دراجة هوائية بتصميم عصري ولون أخضر مع سلة أمامية - 20، 24، 26 بوصة -](https://dartoys.com/products/دراجة-هوائية-بتصميم-عصري-ولون-أخضر-مع-سلة-أمامية-20-24-26-بوصة): أضف لمسة من الراحة والأناقة مع هذه الدراجة الهوائية بحجم 20 بوصة ذات اللون الأخضر الزاهي. تتميز  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-27T22:13:36Z
   Vendor: My Store
@@ -2203,12 +2203,12 @@
     Availability: Available
     Price: ‏38.90 د.ك.‏ KWD
 - [ميزان لعب للأطفال على شكل حصان - Dar Toys || متجر دار تويز](https://dartoys.com/products/ميزان-لعب-للأطفال-على-شكل-حصان): امنح طفلك لحظات من المرح والتوازن مع ميزان اللعب على شكل حصان. يتميز هذا المنتج بتصميمه اللطيف  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T04:07:31Z
+  Updated: 2025-10-30T10:22:44Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131934181.jpg?v=1761110084
-  Price: ‏104.90 د.ك.‏ KWD
+  Price: ‏114.90 د.ك.‏ KWD
 - [طاولة بلاستيكية محمولة للأطفال من دون مقاعد - Dar Toys || متجر دار](https://dartoys.com/products/طاولة-بلاستيكية-محمولة-للأطفال): استمتع بوقت لعب ودراسة مريح لطفلك مع الطاولة البلاستيكية المحمولة من Dartoys. تتميز بتصميم خفيف وسهل  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:46Z
   Vendor: My Store
@@ -2456,12 +2456,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-132409454.jpg?v=1761110203
   Price: ‏31.90 د.ك.‏ KWD
 - [زحلاقية إسباني للأطفال – مرح وأمان - Dar Toys || متجر دار تويز](https://dartoys.com/products/زحلاقية-إسباني-للأطفال-مرح-وأمان): أضف لمسة من المغامرة والبهجة إلى وقت طفلك مع زحلاقية إسباني بتصميمها الأنيق والجذاب. هذه الزحلاقية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:39:20Z
+  Updated: 2025-10-30T10:23:35Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-134327839.jpg?v=1761110203
-  Price: ‏106.90 د.ك.‏ KWD
+  Price: ‏109.90 د.ك.‏ KWD
 - [زحلاقية حديد قوية وآمنة للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/زحلاقية-حديد-قوية-وآمنة-للأطفال): اح أطفالك تجربة لعب آة وممتعة مع الزحلاقية الحديدية المتينة  Dartoys. تتميز بتصميم قوي مصنوع  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-29T18:38:36Z
   Vendor: My Store
@@ -2477,12 +2477,12 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-134329911.jpg?v=1761110219
     Price: ‏44.90 د.ك.‏ KWD
 - [ملاهي أحصنة دوّارة ممتعة للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/ملاهي-أحصنة-دوّارة-ممتعة-للأطفال): امنح طفلك تجربة لعب فريدة مع ملاهي الأحصنة الدوّارة من Dartoys، المصممة لتجعل أوقات اللعب أكثر متعة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:24:31Z
+  Updated: 2025-10-30T10:24:05Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/3-_-_-_-_-My-Store-134339756.jpg?v=1761110261
-  Price: ‏121.90 د.ك.‏ KWD
+  Price: ‏129.90 د.ك.‏ KWD
 - [دراجة هوائية بمقاسات14 أو 16 أو 18 بتصميم عصري ولون وردي أو بنفسجي مع](https://dartoys.com/products/دراجة-هوائية-14-بوصة-16-بوصة-18-بوصة-بتصميم-عصري-ولون-أحمر-مع-سلة): أضف لمسة من المرح والأناقة مع هذه الدراجة الهوائية بحجم 14 بوصة، 16 بوصة و18 بوصة ذات اللون الأحمر  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T15:49:37Z
   Vendor: My Store
@@ -4127,7 +4127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-147073283.png?v=1761110772
     Price: ‏18.90 د.ك.‏ KWD
 - [دراجة ثلاثية للأطفال بتصميم عصري ولون أزرق مميز | متوفرة باللون](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-بتصميم-عصري-ولون-أزرق-مميز-متوفرة-باللون-الوردي-الأزرق-والأحمر): امنح طفلك تجربة قيادة مليئة بالمرح مع هذه الدراجة الثلاثية الرائعة. تأتي بتصميم عصري ولون أزرق جذاب،  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T04:14:39Z
+  Updated: 2025-10-30T19:03:36Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4261,25 +4261,25 @@
 ## Collections
 
 - [أثاث الأطفال - تشكيلات مميزة وراحة لا مثيل لها](https://dartoys.com/collections/مجموعة-أثاث-الأطفال-والرضع): اكتشف تشكيلات أثاث الأطفال والرضع المريحة والآمنة. تصميمات رائعة تناسب كل الأذواق.
-  Updated: 2025-10-29T16:28:34Z
+  Updated: 2025-10-30T13:23:38Z
   Total Products: 113
 - [العاب ومستلزمات الحضانات والمدارس - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-ومستلزمات-الحضانات-والمدارس): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T23:45:38Z
+  Updated: 2025-10-30T13:23:38Z
   Total Products: 90
 - [العاب الاطفال الرضع - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-الاطفال-الرضع): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T23:29:14Z
+  Updated: 2025-10-30T10:22:46Z
   Total Products: 58
 - [الألعاب الرياضية وكرة القدم || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/الألعاب-الرياضية-وكرة-القدم-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-27T23:45:38Z
   Total Products: 39
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:46:35Z
+  Updated: 2025-10-30T13:23:38Z
   Total Products: 229
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
-  Updated: 2025-10-29T18:46:35Z
+  Updated: 2025-10-30T11:20:45Z
   Total Products: 298
 - [أفضل ألعاب أطفال في متجر دار تويز](https://dartoys.com/collections/عروض-متجر-دار-تويز): اكتشف مجموعة مدهشة من ألعاب الأطفال بأسعار تنافسية في متجر دار تويز. تسوق الآن لتحصل على أفضل العروض!
-  Updated: 2025-10-29T16:09:26Z
+  Updated: 2025-10-30T11:20:45Z
   Total Products: 105
 - [بيوت لعب الأطفال || العاب آمنه للاطفال || توصيل مجاني داخل الكويت -](https://dartoys.com/collections/بيوت-لعب-الأطفال-العاب-آمنه-للاطفال-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-27T23:29:14Z
@@ -4294,7 +4294,7 @@
   Updated: 2025-10-28T11:21:02Z
   Total Products: 15
 - [دراجات هوائية - مجموعة متنوعة للسوق](https://dartoys.com/collections/مجموعة-الدراجات-الهوائية): اكتشف مجموعة من الدراجات الهوائية المناسبة للمبتدئين والمحترفين. استمتع بتجربة ركوب متميزة.
-  Updated: 2025-10-29T16:09:26Z
+  Updated: 2025-10-30T11:20:45Z
   Total Products: 144
 - [أفضل سيكل كهربائي لعام 2023](https://dartoys.com/collections/سيكل-كهربائي): اكتشف سيكل كهربائي يناسب احتياجاتك اليومية. الخيارات المتاحة، الفوائد، وكيف تختار الأنسب لك.
   Updated: 2025-10-26T11:20:19Z
@@ -4303,16 +4303,16 @@
   Updated: 2025-10-25T01:31:50Z
   Total Products: 6
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-29T18:47:21Z
+  Updated: 2025-10-30T13:23:38Z
   Total Products: 482
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-29T18:47:21Z
+  Updated: 2025-10-30T13:23:38Z
   Total Products: 482
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
-  Updated: 2025-10-29T18:47:21Z
-  Total Products: 43
+  Updated: 2025-10-30T10:24:06Z
+  Total Products: 42
 - [ديارف - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ديارف): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-29T18:39:38Z
+  Updated: 2025-10-30T10:52:49Z
   Total Products: 22
 
 ## Blogs
