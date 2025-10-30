@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-30T08:00:36.529Z
+- Updated At: 2025-10-30T20:00:45.234Z
 
 ## Products
 
@@ -288,7 +288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021_Custom_with_label.png?v=1758369057
   Price: £25.99 GBP
 - [SPECIALTY COFFEE BEAN ADVENT CALENDAR](https://orovacoffee.com/products/coffee-bean-advent-calendar): This festive season, gift the Coffee Bean Advent Calendar to a coffee lover or let it be the centerpiece of your yuletide mornings. Because nothing says "Christmas is coming" like the rich aroma of freshly brewed specialty coffee as you unveil beans hand-picked from 25 meticulously chosen coffee artisans and cooperatives, all waiting to brew magic in your mug.
-  Updated: 2025-10-30T07:24:29Z
+  Updated: 2025-10-30T17:08:25Z
   Vendor: The Brew Company
   Product Type: Christmas Gift
   Availability: Available
