@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-28T16:00:44.232Z
+- Updated At: 2025-10-30T04:00:54.862Z
 
 ## Products
 
@@ -2019,7 +2019,7 @@
     Availability: Not Available
     Price: $1.00 USD
 - [Newport Beach Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport): Discover the Newport Fabric Collection at Fabrics Star, offering a range of premium textiles for your sewing projects. Find the perfect fabric to elevate your creations.
-  Updated: 2025-10-23T20:17:10Z
+  Updated: 2025-10-29T12:22:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VAILS-WHITE.jpg?v=1757517637
     Price: $1.00 USD
 - [Gate Brocade Velvet Fabric, 72 Inch Width](https://fabricsstar.com/products/gate-brocade-velvet-fabric-72-inch-in-width-ideal-embossed-material-for-home-decor): Discover premium Gate Brocade Velvet Fabric, 72 inches wide. Perfect for home decor, sold by the yard, and customizable to fit your needs.
-  Updated: 2025-10-23T20:17:17Z
+  Updated: 2025-10-28T21:23:35Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9628,7 +9628,7 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-29T11:18:11Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-28T15:17:09Z
+  Updated: 2025-10-29T11:18:11Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-28T15:17:09Z
+  Updated: 2025-10-29T11:18:11Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-10-28T15:17:09Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-29T11:18:11Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-28T15:17:09Z
+  Updated: 2025-10-29T11:18:11Z
   Total Products: 666
 
 ## Blogs
@@ -9723,6 +9723,9 @@
     Author: User
   - [The Art and Science of Digital Fabric Printing](https://fabricsstar.com/blogs/news/the-art-and-science-of-digital-fabric-printing): The Art and Science of Digital Fabric Printing
     Updated: 2025-10-27T04:07:16Z
+    Author: User
+  - [10 Creative Ways to Reuse and Upcycle Fabric Scraps](https://fabricsstar.com/blogs/news/10-creative-ways-to-reuse-and-upcycle-fabric-scraps): 10 Creative Ways to Reuse and Upcycle Fabric Scraps
+    Updated: 2025-10-29T02:31:52Z
     Author: User
 
 ## Store Pages
