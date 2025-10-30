@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-30T16:01:01.245Z
+- Updated At: 2025-10-30T20:00:33.774Z
 
 ## Products
 
@@ -2018,11 +2018,11 @@
 - [Privacy Policy](https://lachrymalgems.store/policies/privacy-policy)
   Updated: 2025-10-03T01:30:45-05:00
 - [Shipping Policy](https://lachrymalgems.store/policies/shipping-policy)
-  Updated: 2025-10-04T10:53:47-05:00
+  Updated: 2025-10-30T14:33:55-05:00
 - [Refund Policy](https://lachrymalgems.store/policies/refund-policy)
   Updated: 2025-10-10T19:21:25-05:00
 - [Terms of Service](https://lachrymalgems.store/policies/terms-of-service)
-  Updated: 2025-10-04T10:54:37-05:00
+  Updated: 2025-10-30T14:25:30-05:00
 
 ## Optional
 
