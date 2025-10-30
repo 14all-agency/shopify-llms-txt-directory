@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-30T00:00:57.692Z
+- Updated At: 2025-10-30T16:00:37.177Z
 
 ## Products
 
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1702LIGHTPINK_2.jpg?v=1689594974
     Price: ₹599.00 INR
 - [Bluenixie BN0210_Luxuriant Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/cotton-rich-t-shirt-bra-1): Discover comfort and style with our Cotton Rich T-Shirt Bra, available in sizes 32C to 40D. Experience the perfect blend of support and softness.
-  Updated: 2025-10-16T07:33:27Z
+  Updated: 2025-10-30T01:57:02Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/210DARKPINK_1.jpg?v=1687353746
     Price: ₹390.00 INR
   - [36C / Fuchsia](https://bluenixie.com/products/cotton-rich-t-shirt-bra-1?variant=45393335976250)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/210PINK_1.jpg?v=1687353859
     Price: ₹390.00 INR
   - [36C / Grey](https://bluenixie.com/products/cotton-rich-t-shirt-bra-1?variant=45393336009018)
@@ -3759,7 +3759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-Black-White.png?v=1689681906
     Price: ₹960.00 INR
 - [Buy Cotton Rich Full Coverage T-Shirt Bra Combo set of 2 Black-Nude_Skin Colors](https://bluenixie.com/products/full-coverage-t-shirt-bra-combo-set-of-2-black-nude_skin-colors): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-07-31T15:17:40Z
+  Updated: 2025-10-30T03:57:15Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -4029,7 +4029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-White.png?v=1689769030
     Price: ₹960.00 INR
 - [BlueNixie Rayon Fabric Palazzos for women](https://bluenixie.com/products/rayon-fabric-palazzo): Bluenixie's Palazzo The Ultimate Fit Guarantee! Discover India's Most Size-Inclusive Brand with M-3XL Options. Cash on Delivery. Secure Payments. Effortless Returns.
-  Updated: 2025-08-02T21:59:29Z
+  Updated: 2025-10-30T01:56:52Z
   Vendor: Blue Nixie
   Product Type: Palazzo
   Availability: Available
@@ -6488,7 +6488,7 @@
   Updated: 2025-10-28T11:20:01Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 79
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -6497,28 +6497,28 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
   Updated: 2025-10-26T11:11:33Z
   Total Products: 8
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-10-06T11:09:23Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 65
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
   Updated: 2025-07-09T01:35:02Z
   Total Products: 5
 - [non padded bra](https://bluenixie.com/collections/non-padded-bra)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 43
 - [Lounge/Sleep Bra](https://bluenixie.com/collections/lounge-bra): soft and light on your body so get rid of bra and put this on and relax
   Updated: 2025-09-17T11:09:55Z
@@ -6530,7 +6530,7 @@
   Updated: 2025-05-15T13:24:07Z
   Total Products: 1
 - [Lounge/Casual Wear](https://bluenixie.com/collections/lounge-wear)
-  Updated: 2025-08-30T11:11:25Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 16
 - [nighty](https://bluenixie.com/collections/nighty)
   Updated: 2025-05-09T12:03:02Z
@@ -6587,7 +6587,7 @@
   Updated: 2025-07-09T10:19:44Z
   Total Products: 0
 - [ethnic wear](https://bluenixie.com/collections/ethnic-wear)
-  Updated: 2025-05-09T12:03:03Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 1
 - [western wear](https://bluenixie.com/collections/western-wear)
   Updated: 2025-08-30T11:11:25Z
@@ -6632,34 +6632,34 @@
   Updated: 2024-12-05T10:51:56Z
   Total Products: 0
 - [inner wear](https://bluenixie.com/collections/inner-wear)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 43
 - [Brands](https://bluenixie.com/collections/brands)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 77
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-05-09T12:03:04Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
   Updated: 2025-10-27T11:08:44Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
   Updated: 2025-10-26T11:11:33Z
@@ -6674,13 +6674,13 @@
   Updated: 2025-10-27T11:08:44Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 39
 - [Novita](https://bluenixie.com/collections/novita): Panties
   Updated: 2025-05-16T19:52:13Z
@@ -6692,13 +6692,13 @@
   Updated: 2025-09-17T11:09:55Z
   Total Products: 7
 - [Palazzo](https://bluenixie.com/collections/palazzo)
-  Updated: 2025-05-09T12:03:05Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 1
 - [Women Pyjamas](https://bluenixie.com/collections/women-pyjamas)
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-10-30T11:09:16Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
