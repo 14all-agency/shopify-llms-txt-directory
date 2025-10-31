@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-31T04:00:33.394Z
+- Updated At: 2025-10-31T12:01:02.400Z
 
 ## Products
 
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/c3000f8c-01a9-4f61-a371-2c32a71b9291-Max.webp?v=1759899977
     Price: $58.62 USD
 - [Umgee Polka Dot Lace Long Sleeve Round Neck Blouse](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-2): Umgee Polka Dot Lace Long Sleeve Round Neck Blouse: delicate lace & playful polka dots. Offers all-day comfort with stretchy fabric. Buy today!
-  Updated: 2025-10-28T03:50:30Z
+  Updated: 2025-10-31T05:30:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -470,7 +470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/67b1d60e-4be7-4b3e-b3fc-1fc7efee663d-Max.webp?v=1759908161
     Price: $50.74 USD
 - [David Jones PU Leather Crossbody Bag](https://exp5dc-d1.myshopify.com/products/david-jones-pu-leather-crossbody-bag): David Jones PU Leather Crossbody Bag: durable 100% PU leather & adjustable strap for hands-free comfort. Eco-conscious packaging included. Buy today!
-  Updated: 2025-10-28T03:46:32Z
+  Updated: 2025-10-31T10:42:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
