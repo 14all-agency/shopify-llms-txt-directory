@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-31T00:00:58.754Z
+- Updated At: 2025-10-31T12:00:52.937Z
 
 ## Products
 
@@ -739,7 +739,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dispenser-microfibre-cloths-white-300mm-x-300mm-185gsm-50-pack-dry-cloths-essential-supplies-343466.jpg?v=1719444963
   Price: $29.00 NZD
 - [Dispenser Microfibre Cloths - Yellow, 300mm x 300mm, 185gsm - 50 Pack](https://essentialsupplies.co.nz/products/dispenser-microfibre-cloths-yellow-300mm-x-300mm-185gsm-50): Dispenser pack microfibre cloths are made from soft, non abrasive microfibre and feature an edgeless design.Ideal for grab and go cleaning at home, the office, car or garage. They conveniently trap dirt, grime and other particles, and clean without leaving traces of lint residue, streaks or scratches. The rags measure 300mm (W) x 300mm (L) and come in a handy pack of 50 cloths. Fast and effective, surface cleaning solution Size: 300mm x 300mm x 185gsm Pack of 50 per dispenser Carton: 9 packs Colour: Yellow
-  Updated: 2025-01-09T08:42:40Z
+  Updated: 2025-10-31T11:32:06Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
@@ -2153,7 +2153,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-shoe-covers-blue-200mm-x-400mm-25gsm-600-pieces-foot-protection-essential-supplies-934170.jpg?v=1719445564
   Price: $69.00 NZD
 - [Polypropylene Shoe Covers - White, 200mm x 400mm, 25gsm - 600 Pieces](https://essentialsupplies.co.nz/products/polypropylene-shoe-covers-white-200mm-x-400mm-25gsm-600): Polypropylene shoe covers are designed to mitigate contamination by creating an effective barrier between footwear and flooring. Breathable fabric for enhanced air movement with an elasticated top to secure. Ideal for use in medical, health care, animal care and food processing environments. 25gsm Designed to mitigate contamination by creating an effective barrier between footwear and flooring Breathable fabric for enhanced air movement with an elasticated top to secure Ideal for use in medical, health care, animal care and food processing environments Size: 200mm x 400mm Content: 600 pieces Colour: White
-  Updated: 2025-01-20T06:20:11Z
+  Updated: 2025-10-31T11:50:20Z
   Vendor: Mattews Packaging
   Product Type: Foot Protection
   Availability: Available
@@ -4076,7 +4076,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/deluxe-brush-pan-set-blue-soft-bristles-brush-pan-sets-essential-supplies-243702.jpg?v=1719444948
   Price: $14.00 NZD
 - [Deluxe Brush & Pan Set - Black, Soft Bristles](https://essentialsupplies.co.nz/products/deluxe-brush-pan-set-black-soft-bristles-6): Deluxe brush and pan sets with a large capacity pan and premium quality soft bristles for picking up fine dust and debris. Strong and durable pan construction with a serrated edge for cleaning brush. Available in blue, black, red, green or orange.
-  Updated: 2025-01-17T15:00:45Z
+  Updated: 2025-10-31T01:19:44Z
   Vendor: Mattews Packaging
   Product Type: Brush & Pan Sets
   Availability: Available
@@ -4188,7 +4188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/deck-scrubbing-broom-blue-250mm-x-22mm-x-1200mm-soft-bristles-brooms-essential-supplies-239295.jpg?v=1719444950
   Price: $32.00 NZD
 - [Garden Master Broom - Green, 460mm x 25mm x 1350mm, Stiff Bristles](https://essentialsupplies.co.nz/products/garden-master-broom-green-460mm-x-25mm-x-1350mm-stiff-bristles-3): Garden master brooms are made from sustainable New Zealand South Island Beech, ideal for domestic and commercial use. The all purpose broom features a unique bracket design to brace and secure the handle within the broom block. Available in a range of head widths from 355mm to 610mm.
-  Updated: 2025-02-12T07:51:44Z
+  Updated: 2025-10-31T09:12:55Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -4594,7 +4594,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/contractors-floor-squeegee-orange-600mm-x-25mm-x-1350mm-floor-squeegees-essential-supplies-714781.jpg?v=1719444943
   Price: $75.00 NZD
 - [Safety Sign Wet Floor - Yellow, 290mm x 660mm](https://essentialsupplies.co.nz/products/safety-sign-wet-floor-yellow-290mm-x-660mm-10): Wet floor signs are made from UV treated high quality plastic and UV resistant ink for longer life. Useful for avoiding injury on wet floors and great for malls, commercial buildings and schools. Sign measures 290x660mm and is collapsible.
-  Updated: 2025-01-29T04:00:25Z
+  Updated: 2025-10-31T01:33:17Z
   Vendor: Mattews Packaging
   Product Type: Cleaning Signs
   Availability: Available
@@ -4699,7 +4699,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/bathroom-squeegee-white-includes-hook-window-cleaning-essential-supplies-194570.jpg?v=1719444752
   Price: $23.00 NZD
 - [Bathroom Squeegee - Silver, Includes Hook](https://essentialsupplies.co.nz/products/bathroom-squeegee-silver-includes-hook-6): Bathroom squeegee window cleaners feature a perfect edge blade for a streak free finish on shower doors, mirrors and windows. The clean, contemporary design suits any bathroom and self adhesive hang-up hook is supplied.
-  Updated: 2025-02-13T10:05:27Z
+  Updated: 2025-10-31T02:14:55Z
   Vendor: Mattews Packaging
   Product Type: Window Cleaning
   Availability: Available
@@ -5658,7 +5658,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/latex-diamond-grip-examination-gloves-powder-free-white-xl-240mm-cuff-80g-1000-gloves-latex-examination-gloves-essential-supplies-561062.jpg?v=1719445401
   Price: $109.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, S, 240mm Cuff, 3.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-s-240mm-cuff-3-0g-1000): Blue powder free nitrile gloves offer cost effective snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-02-17T09:40:50Z
+  Updated: 2025-10-31T02:36:55Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -6603,7 +6603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/industrial-pvc-gumboots-blue-size-9-steel-toe-cap-steel-midsole-gumboots-essential-supplies-247967.jpg?v=1719445331
   Price: $58.00 NZD
 - [Industrial PVC Gumboots - Blue, Size 10 - *Steel Toe Cap + Steel Midsole](https://essentialsupplies.co.nz/products/industrial-pvc-gumboots-blue-size-10-5-steel-toe-cap-steel-midsole)
-  Updated: 2025-02-15T13:40:17Z
+  Updated: 2025-10-31T02:45:35Z
   Vendor: Mattews Packaging
   Product Type: Gumboots
   Availability: Available
