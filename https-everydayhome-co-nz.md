@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-31T12:00:40.443Z
+- Updated At: 2025-10-31T16:00:40.469Z
 
 ## Products
 
@@ -2587,7 +2587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BoWasteBin_4L-White-8710755222344Brabantia_96dpi_1000x1000px_7_NR-30066.png?v=1733785603
   Price: $99.99 NZD
 - [Brabantia Bo Waste Bin - 7L Dreamy Blue](https://everydayhome.co.nz/products/bo-waste-bin-7l-dreamy-blue): Not too big, not too small, but just right. That's the Brabantia Bo Waste Bin 7 litre for you! Put it in a corner, or hang it on the wall. Wherever you like, because you can lift the lid easily from the left, right and front of the bin. So no more bending over backwards to put something in the bin. A fairytale bin!
-  Updated: 2025-10-31T02:30:56Z
+  Updated: 2025-10-31T14:31:00Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4706,21 +4706,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-746_BELLWOODDESKFRAME_4x6_WALNUT_CC05.jpg?v=1755732917
   Price: $59.99 NZD
 - [Brabantia WallFix Retractable Clothesline with Protective Storage Box - 24m Metallic Grey](https://everydayhome.co.nz/products/brabantia-wallfix-retractable-clothesline-24m-with-protection-storage-box-metallic-grey): Now you see your rotary dryer, now you don’t! The Brabantia WallFix Dryer is neatly tucked away when not in use. But fold it out singlehandedly and it can take on two machine loads of laundry. Big pieces too, as its outer lines are 120 cm long! All washing lines are quality, UV-resistant and have a smart non-slip profile, helping to keep your laundry in place. Order it, fix it to your wall using the drilling template, and fix all your drying problems in one go.
-  Updated: 2025-10-31T01:58:09Z
+  Updated: 2025-10-31T14:05:47Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveStorageBoxforWallFix-MattSteel-8710755475900Brabantia_300dpi_2000x2000px_9_NR-5239.jpg?v=1755648914
   Price: $289.99 NZD
 - [Brabantia HangOn Tower Drying Rack 23m - Matt Black](https://everydayhome.co.nz/products/brabantia-hangon-tower-drying-rack-23m-matt-black): Save energy by drying your laundry naturally, and save space by hanging it on this Brabantia HangOn Tower Drying Rack! With 23 metres of flexible drying space plus extra hooks and holders for clothes hangers, this smart drying rack occupies minimal floor space - a true space-saver. It features three drying levels that can each be folded as needed, making it suitable for long items like towels too. By buying this rack, you are also supporting WeForest to plant more trees. Wanna hang out?
-  Updated: 2025-10-31T01:58:10Z
+  Updated: 2025-10-31T14:43:39Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/HangOnTowerDryingRack_23m-MattBlack-8710755303982Brabantia_96dpi_2000x2000px_9_NR-48822.jpg?v=1755648455
   Price: $129.99 NZD
 - [Brabantia HangOn Tower Drying Rack 30m - Matt Black](https://everydayhome.co.nz/products/brabantia-hangon-tower-drying-rack-30m-matt-black): Save energy by drying your laundry naturally, and save space by hanging it on this Brabantia HangOn Tower Drying Rack! With 30 metres of flexible drying space plus extra hooks and holders for clothes hangers, this smart drying rack occupies minimal floor space - a true space-saver. It features four drying levels that can each be folded as needed, making it suitable for extra long items like trousers too. By buying this rack, you are also supporting WeForest to plant more trees. Wanna hang out?
-  Updated: 2025-10-31T01:58:10Z
+  Updated: 2025-10-31T14:45:14Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
