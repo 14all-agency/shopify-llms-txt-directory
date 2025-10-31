@@ -6,14 +6,14 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-18T07:16:51Z
 - Contact Email: help@foreverpostal.com
-- Updated At: 2025-10-30T12:00:43.923Z
+- Updated At: 2025-10-31T16:00:54.466Z
 
 At our dedicated stamp store, we invite enthusiasts and collectors alike to explore a world of philately. Stamps are not just postal essentials; they are tiny pieces of art that carry stories and depict history. Whether you are a seasoned collector or just starting, our store has something for everyone.
 
 ## Products
 
 - [Flag 2025 Forever Stamps Roll - Forever Postal](https://www.foreverpostal.com/products/flag-2025-forever-stamps-roll): The issuance of the 2025 Flag stamps continues its long-standing tradition of paying tribute to the flag. 100pcs/Rolls - Forever Postal
-  Updated: 2025-10-29T16:58:32Z
+  Updated: 2025-10-30T17:54:57Z
   Vendor: foreverpostal
   Product Type: Flag
   Availability: Available
@@ -34,7 +34,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/GB_f0b3ea25-cc56-47bc-a249-13a246d99147.jpg?v=1755847905
   Price: $71.00 USD
 - [2018 Love Flourishes Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2018-love-forever-stamps): Love Flourishes 2018 Forever Stamps 100pcs are a delightful addition to your mailing supplies. Each stamp features a charming design that brings a touch of whimsy and personality to your letters and packages. This set includes 100 individual 'Love Flourishes' permanent stamps, ensuring you have plenty on hand for all your correspondence needs. These unused U.S. stamps are valid for current postage, making them both practical and stylish. With their self-adhesive backing, these stamps are easy to use, allowing you to send your love effortlessly. - Forever Postal
-  Updated: 2025-10-27T14:10:16Z
+  Updated: 2025-10-30T21:15:36Z
   Vendor: foreverpostal
   Product Type: FLOWER
   Availability: Available
@@ -76,7 +76,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/aa21be6f4d21ad41ebf63604fe76c0ea-_1.webp?v=1755848006
   Price: $59.00 USD
 - [2024 Flag Forever Stamps Rolls - Forever Postal](https://www.foreverpostal.com/products/flag-2024-1roll-100): 1 Roll/100pcs Each stamp beautifully depicts the flag waving majestically at various times of the day, capturing the essence of patriotism. Ideal for sending letters, invitations, or holiday cards, these stamps add a touch of pride to your correspondence. Celebrate your love for with these stunning Forever stamps, perfect for any occasion. - Forever Postal
-  Updated: 2025-10-30T01:58:38Z
+  Updated: 2025-10-30T19:12:52Z
   Vendor: foreverpostal
   Product Type: Flag
   Availability: Available
@@ -90,7 +90,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/2.jpg?v=1755848020
   Price: $69.00 USD
 - [2011 Wedding Roses Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2011-wedding-roses-forever-stamps-100pcs): 2011 Wedding Roses Forever Stamps are a beautiful addition to any mailing. This product includes one sheet containing 20 stamps, perfect for sending out wedding invitations or thank-you notes. These forever stamps ensure that your postage remains valid, regardless of future rate changes. Featuring an elegant wedding rose design, they add a touch of romance and sophistication to your correspondence. Ideal for weddings, special events, or any occasion where you want to make a lasting impression, these stamps are a must-have for anyone looking to celebrate love and connection. - Forever Postal
-  Updated: 2025-10-30T04:03:11Z
+  Updated: 2025-10-31T15:23:47Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
@@ -174,7 +174,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/5757.jpg?v=1757159885
   Price: $61.00 USD
 - [2019 California Butterfly Stamps 100pc - Forever Postal](https://www.foreverpostal.com/products/2019-california-butterfly-stamps-100pc): 2019 California Dogface Butterfly Us Stamps features a stunning design showcasing the vibrant Dogface butterfly, a symbol of California's natural beauty. This sheet includes twenty Forever stamps, perfect for sending letters and packages that require non-machinable postage. Each stamp is a testament to the artistry of nature and is highly collectible in pristine condition. Whether you're a stamp enthusiast or looking for a unique gift, this Dogface butterfly stamp sheet is an excellent addition to any collection. - Forever Postal
-  Updated: 2025-10-25T03:09:26Z
+  Updated: 2025-10-30T12:12:11Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
@@ -209,14 +209,14 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/HB_8b004a8f-4e9c-4643-915f-2aec0738f7ae.jpg?v=1757153307
   Price: $63.00 USD
 - [2022 Mountain Flora Forever Stamps 100 pcs - Forever Postal](https://www.foreverpostal.com/products/2022-mountain-flora-forever-stamps-100-pcs): Background: These four stamps celebrate the beauty of mountain flowers. Each "Mountain Plants" stamp features a different flower: purple, orange-red liliums, bright yellow alpine ranunculus and deep pink Woods roses. The hand-drawn illustrations of this artist, refined through digital technology, create a kind of beauty similar to that of woodblock printing - Forever Postal
-  Updated: 2025-10-25T03:09:29Z
+  Updated: 2025-10-30T18:28:30Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/MF_ca4a06d4-c714-43b0-91ef-f16b9d461450.jpg?v=1757153585
   Price: $63.00 USD
 - [Holy Family 2012 Forever Stamps 100 pcs - Forever Postal](https://www.foreverpostal.com/products/holy-family-2012-forever-stamps-100-pcs): Description20 pcs stamps/page * 5 pages. You got 100 pcs stamps in total. Background:Retelling the legend of the Three Wise Men who came to honor the baby Jesus is a Christmas tradition. Less known is the story of the Holy Familys escape into Egypt after the Magi departed - Forever Postal
-  Updated: 2025-10-29T17:15:26Z
+  Updated: 2025-10-30T18:26:31Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -244,14 +244,14 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/ED_1165b85f-fee7-4e30-9d56-47ea4f48a8f0.jpg?v=1758206112
   Price: $59.00 USD
 - [Sparkling Holidays Santas 2018 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/sparkling-holidays-santas-2018-forever-stamps-100pcs): Description20pcs stamps/page * 5 pages. You got 100pcs stamps in total.Background:Sundblom, a famed commercial artist, depicted a rosy-cheeked, smiling, grandfatherly man in a red suit that came to embody the very essence of "Santa."he Sparkling Holidays stamps will be issued as Forever stamps. Forever stamps are always equal in value to the current First-Class Mail 1-ounce price. - Forever Postal
-  Updated: 2025-10-29T15:40:38Z
+  Updated: 2025-10-31T11:52:58Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/SH2018_d8467331-c87f-4842-8fa0-b5eb272c2e32.jpg?v=1758206608
   Price: $59.00 USD
 - [2013 Flag for Seasons Stamp 100 pcs - Forever Postal](https://www.foreverpostal.com/products/2013-flag-for-seasons-stamp-100-pcs): Description:20 stamps/page * 5 pages. You got 100 stamps in total.Background:The servicemen interred in the Tomb of the Unknown Soldier are “Known But to God,” but they are every American s sons and brothers. In honor of their sacrifices, a perpetual guard and the United States flag have stood sentinel over them since July 2, 1937. Selected from the Army’s 3rd Infantry Regiment, the tomb guards are an elite group who stand sentinel around the clock, regardless of weather conditions. - Forever Postal
-  Updated: 2025-10-29T18:20:10Z
+  Updated: 2025-10-31T12:39:01Z
   Vendor: Forever Postal
   Product Type: Flag
   Availability: Available
@@ -272,7 +272,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/LOVE2015_daa07917-a0b0-450d-9ded-4582bd2bbef7.jpg?v=1758621876
   Price: $59.00 USD
 - [Love 2023 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/love-2023-forever-stamps-100pcs): Description:20 stamps/page * 5 pages.You got 100 stamps in total.Background:Cats and dogs are two of America s favorite pets, and it is no surprise that connecting with pets has benefits.Pets provide companionship and love;interacting with a cuddly kitten or a playful puppy can reduce loneliness and raise spirits.Evoking feelings of warmth and playfulness, each stamp shows a cute and cuddly animal resting its front paws on a big red heart.Sure to add a bit of whimsy to your valentines, these adorable stamps are also suitable for use on letters and cards throughout the year. - Forever Postal
-  Updated: 2025-10-28T15:20:50Z
+  Updated: 2025-10-30T15:07:26Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
@@ -300,21 +300,21 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/HB_82866a02-91cf-4a83-a384-bd2743a795d5.jpg?v=1758701581
   Price: $59.00 USD
 - [Western Wear 2021 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/western-wear-2021-forever-stamps-100pcs): Description20 stamps/page * 5 pages. You got 100 stamps in total.Background:The stamp art features four graphic illustrations of Western wear staples -a cowboy hat, a cowboy boot with a spur, a Western shirt, and a belt buckle featuring a longhorn head.Each image is framed by elements common to the American West and iconography of the region, including cacti, snakes, roses and stars. - Forever Postal
-  Updated: 2025-10-25T03:09:37Z
+  Updated: 2025-10-30T16:54:37Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/WW_775721d1-afc4-41eb-898d-81cf48396324.jpg?v=1758702022
   Price: $59.00 USD
 - [2020 Winter Scenes Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2020-winter-scenes-forever-stamps-100pcs): Description20 stamps/page * 5 pages.You got 100 stamps in total.Background:Winter Scenes celebrates the beauty and serenity of seasonal sights amid snowy landscapes. The 10 different photographs featured in this booklet stamps showcase the special allure of winter, with iconic scenes from the northern United States. - Forever Postal
-  Updated: 2025-10-27T14:10:15Z
+  Updated: 2025-10-30T15:48:36Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/WS_261f8284-43c6-4399-bb8b-2af5ced2a11c.jpg?v=1758702648
   Price: $59.00 USD
 - [Rudolph Red Nosed Reindeer 2014 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/rudolph-red-nosed-reindeer-2014-forever-stamps-100pcs): Description20 stamps/page * 5 pages. You got 100 stamps in total.Background:The art for each stamp is a still frame from the animated special, created by Rankin/Bass Productions.Rudolph, Santa, and the Abominable Snowman star on stamps of their own, while a fourth stamp features Hermey the elf, touching Rudolph's red nose. - Forever Postal
-  Updated: 2025-10-29T14:00:21Z
+  Updated: 2025-10-30T14:34:22Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -345,16 +345,16 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
 ## Collections
 
 - [Flower Stamps - Forever Postal](https://www.foreverpostal.com/collections/frontpage): - Forever Postal
-  Updated: 2025-10-30T11:17:38Z
+  Updated: 2025-10-31T11:17:19Z
   Total Products: 27
 - [Flag Stamps - Forever Postal](https://www.foreverpostal.com/collections/flag-stamps): - Forever Postal
-  Updated: 2025-10-30T11:17:38Z
+  Updated: 2025-10-31T11:17:19Z
   Total Products: 8
 - [Holiday stamps - Forever Postal](https://www.foreverpostal.com/collections/holiday-stamps): - Forever Postal
-  Updated: 2025-10-30T11:17:38Z
+  Updated: 2025-10-31T11:17:19Z
   Total Products: 13
 - [New! Shopify performance sharing is now turned on - Forever Postal](https://www.foreverpostal.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Forever Postal
-  Updated: 2025-10-30T11:17:38Z
+  Updated: 2025-10-31T11:17:19Z
   Total Products: 47
 
 ## Store Pages
