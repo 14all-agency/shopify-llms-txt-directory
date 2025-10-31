@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-31T12:01:02.400Z
+- Updated At: 2025-10-31T20:01:22.490Z
 
 ## Products
 
@@ -297,13 +297,13 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/52d00466-2763-4369-bbee-f19cb5d6a2da-Max.webp?v=1759899546
     Price: $29.68 USD
 - [Umgee Polka Dot Lace Long Sleeve Round Neck Blouse](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse): Umgee Polka Dot Lace Long Sleeve Round Neck Blouse: breathable, slightly stretchy fabric & delicate lace design. Ships from USA. Buy today!
-  Updated: 2025-10-28T03:51:56Z
+  Updated: 2025-10-31T18:36:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7d5b423f-f254-4669-a14d-ab299c4b2b6e-Max.webp?v=1759899905
   - [Navy / S](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse?variant=50143289409783)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7d5b423f-f254-4669-a14d-ab299c4b2b6e-Max.webp?v=1759899905
     Price: $58.62 USD
   - [Navy / M](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse?variant=50143289442551)
