@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2025-08-17T15:09:52Z
 - Contact Email: jamiludinjamil706@gmail.com
-- Updated At: 2025-10-31T08:00:46.516Z
+- Updated At: 2025-10-31T20:00:44.096Z
 
 ## Products
 
@@ -400,9 +400,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/A4792d09ca66845f8bcfa9fc385edce76D.webp?v=1760245933
     Price: $2.33 USD
 - [LAUNCH CR529 OBD2 Scanner - Automotive Diagnostic Tool OBDII Code Reader Engine Check](https://jamiludincollection.com/products/launch-cr529-obd2-scanner-creader-529-automotive-diagnostic-tools-obdii-code-reader-car-diagnost-auto-scan-tools-engine-check): Professional LAUNCH CR529 OBD2 scanner for engine diagnostics. Read and clear error codes, live data, O2 sensor test. Compatible with most 1996+ vehicles. Essential automotive diagnostic tool.
-  Updated: 2025-10-17T14:51:54Z
+  Updated: 2025-10-31T14:11:47Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S36e9de247397479b9e41e0ac6daa3e8al.webp?v=1760255289
   - [CR529 / UNITED KINGDOM](https://jamiludincollection.com/products/launch-cr529-obd2-scanner-creader-529-automotive-diagnostic-tools-obdii-code-reader-car-diagnost-auto-scan-tools-engine-check?variant=46177792557207)
@@ -426,9 +426,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S052d0be041d24fd581c01c761ab8b60eO.webp?v=1760255290
     Price: $49.54 USD
 - [OTOFIX D1 LITE OBD2 Scanner - Bluetooth Wireless Bi-Directional Car Diagnostic Tool](https://jamiludincollection.com/products/otofix-d1-lite-obd2-scanner-car-diagnostic-tool-bluetooth-wireless-bi-directional-control-obd-automotive-scan-tool-active-test): Advanced OTOFIX D1 LITE OBD2 scanner with Bluetooth wireless connectivity and bi-directional control. Professional automotive diagnostic tool with active test function for all car systems.
-  Updated: 2025-10-18T14:39:56Z
+  Updated: 2025-10-31T14:12:01Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S14e220f6a8414daab6b77dac5662f01b7.webp?v=1760255291
   - [Global Brazil cars / United States](https://jamiludincollection.com/products/otofix-d1-lite-obd2-scanner-car-diagnostic-tool-bluetooth-wireless-bi-directional-control-obd-automotive-scan-tool-active-test?variant=46177793638551)
@@ -488,9 +488,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Scd29d22100b540e7a9850ee4a97d6b37X.webp?v=1760255291
     Price: $541.62 USD
 - [Carbon Fiber Look Rear Spoiler for Audi A5 B8 Coupe 2008-2016 - M4 Style Trunk Wing](https://jamiludincollection.com/products/carbon-fiber-look-rear-tail-spoiler-fit-for-audi-a5-b8-b8-5-coupe-2008-2016-m4-style-rear-trunk-spoiler-wing-automotive-body-kit): Premium carbon fiber look rear trunk spoiler for Audi A5 B8/B8.5 Coupe 2008-2016. M4 style wing, ABS plastic construction. Enhance your Audi's sporty appearance with this automotive body kit.
-  Updated: 2025-10-17T14:53:52Z
+  Updated: 2025-10-31T14:13:38Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Se6313e193f1548029792b454da6dac88h.webp?v=1760255291
   - [Carbon Fiber Look / United States](https://jamiludincollection.com/products/carbon-fiber-look-rear-tail-spoiler-fit-for-audi-a5-b8-b8-5-coupe-2008-2016-m4-style-rear-trunk-spoiler-wing-automotive-body-kit?variant=46177794162839)
@@ -514,9 +514,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sc602f3845aac44a49757e2a17437fa33L.webp?v=1760255291
     Price: $92.94 USD
 - [LAUNCH X431 CRP919X BT OBD2 Scanner - Professional Car Diagnostic Tool CANFD DOIP ECU Coding](https://jamiludincollection.com/products/new-launch-x431-crp919x-bt-obd2-scanner-automotive-diagnostic-tools-car-canfd-doip-ecu-coding-professional-scan-free-shipping): Advanced LAUNCH X431 CRP919X BT OBD2 scanner with Bluetooth, CANFD, DOIP support. Professional automotive diagnostic tool with ECU coding, 31 reset services, active test. Free shipping.
-  Updated: 2025-10-17T14:55:04Z
+  Updated: 2025-10-31T14:14:13Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S3d7ce0d13e4d49a58da453aae6b4898dT.webp?v=1760255291
   - [EU Version / UNITED KINGDOM](https://jamiludincollection.com/products/new-launch-x431-crp919x-bt-obd2-scanner-automotive-diagnostic-tools-car-canfd-doip-ecu-coding-professional-scan-free-shipping?variant=46177794326679)
@@ -540,9 +540,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S3d7ce0d13e4d49a58da453aae6b4898dT.webp?v=1760255291
     Price: $624.18 USD
 - [LAUNCH X431 CRP129X V2.0 OBDII Scanner - Professional Automotive Diagnostic Tool](https://jamiludincollection.com/products/launch-x431-crp129x-v2-0-diagnostic-tools-obdii-scanner-professional-automotive-scanner-diagnostic-scanner): Professional LAUNCH CRP129X V2.0 diagnostic scanner for 4 systems: Engine, Transmission, ABS, SRS. 12 free reset services, lifetime updates. Compatible with most 1996+ vehicles.
-  Updated: 2025-10-17T14:57:32Z
+  Updated: 2025-10-31T14:14:26Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S8692aea888854f029e7e8f3571acd15eU.webp?v=1760255292
   - [CRP129X V2.0 / spain](https://jamiludincollection.com/products/launch-x431-crp129x-v2-0-diagnostic-tools-obdii-scanner-professional-automotive-scanner-diagnostic-scanner?variant=46177794588823)
@@ -566,9 +566,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S6746b0d0c26145cdaad8fb0bcdcca15b6.webp?v=1760255292
     Price: $265.39 USD
 - [Autel MaxiCOM MK808S OBD2 Scanner - Bidirectional Car Diagnostic Tool All Systems](https://jamiludincollection.com/products/autel-maxicom-mk808s-scanner-automotive-car-diagnostic-tool-bidirectional-diagnostic-obd2-scan-tool-all-system-diagnose): Professional Autel MK808S bidirectional diagnostic scanner with 38+ reset functions. All system diagnosis for automotive repair. Advanced OBD2 scan tool with active test and FCA AutoAuth support.
-  Updated: 2025-10-17T14:59:50Z
+  Updated: 2025-10-31T14:15:57Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Automotive Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S6240511fd6744686bf603a89318e0e9dv.webp?v=1760255293
   - [Global Version / spain](https://jamiludincollection.com/products/autel-maxicom-mk808s-scanner-automotive-car-diagnostic-tool-bidirectional-diagnostic-obd2-scan-tool-all-system-diagnose?variant=46177795014807)
@@ -2938,9 +2938,9 @@
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S0e5dbb0e09434ef38b90973eaf9d153bf.webp?v=1760363366
   Price: $54.14 USD
 - [Siindoo JH-820 Wireless Bluetooth Headphones - 60H Playtime BT 5.4 Foldable](https://jamiludincollection.com/products/siindoo-jh-820-wireless-bluetooth-headphones-60h-playtime-3-eq-sound-modes-newest-foldable-lightweight-bt-5-4-for-travel-study): Long-lasting Siindoo JH-820 Bluetooth headphones with 60-hour playtime. 3 EQ sound modes, BT 5.4, foldable lightweight design. Perfect wireless headphones for travel and study.
-  Updated: 2025-10-29T13:32:20Z
+  Updated: 2025-10-31T14:16:46Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Electronics Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Seadbddb957484129ac1b3ee956e28ed82.webp?v=1760363367
   Price: $22.02 USD
@@ -2992,9 +2992,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S4114f1a9cb93468eadbc98157461c6420.webp?v=1760522211
     Price: $6.27 USD
 - [LNGXO Polar Fleece Jacket Men Women - Hiking Camping Skiing Softshell Coat Anti-Pilling](https://jamiludincollection.com/products/lngxo-polar-fleece-jacket-men-women-hiking-camping-skiing-softshell-coat-autumn-winter-outdoor-warm-jacket-anti-pilling-clothing): Warm LNGXO polar fleece jacket for men and women. Perfect for hiking, camping, skiing. Windproof softshell coat with anti-pilling. Autumn winter outdoor wear.
-  Updated: 2025-10-21T00:24:31Z
+  Updated: 2025-10-31T14:17:04Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/H242eeb6e8f4e4798b8a0845ced1b203f5.webp?v=1760708347
   - [Women Blue / XXXL / CHINA](https://jamiludincollection.com/products/lngxo-polar-fleece-jacket-men-women-hiking-camping-skiing-softshell-coat-autumn-winter-outdoor-warm-jacket-anti-pilling-clothing?variant=46196344979607)
@@ -3198,9 +3198,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Hdefef275022e43ef9acba578260ed302B.webp?v=1760708347
     Price: $48.30 USD
 - [Fashion Knit Sequined Cardigan Women - Short Sleeve O-neck Glitter Sweater Y2K 2025](https://jamiludincollection.com/products/fashion-knit-sequined-cardigan-for-women-short-sleeve-o-neck-one-button-glitter-sweater-top-2025-summer-lady-y2k-orange-knitwear): Trendy sequined knit cardigan for women. Short sleeve O-neck one button glitter sweater. Y2K style orange knitwear perfect for summer 2025 fashion.
-  Updated: 2025-10-19T02:21:32Z
+  Updated: 2025-10-31T14:17:33Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S3176ec1c0d4e45d6b7162ae0aa2adacf4.webp?v=1760708342
   - [vest / M](https://jamiludincollection.com/products/fashion-knit-sequined-cardigan-for-women-short-sleeve-o-neck-one-button-glitter-sweater-top-2025-summer-lady-y2k-orange-knitwear?variant=46196344127639)
@@ -3228,9 +3228,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S092db20a500f4f96b4c315b11da51aa91.webp?v=1760708342
     Price: $20.88 USD
 - [Spring Casual Two Piece Suit - Knitted Cardigan Wide Leg Pants Women Set | Jamil's Marketplace](https://jamiludincollection.com/products/spring-casual-two-pieces-suits-long-sleeve-knitted-cardigan-coat-elastic-waist-wide-leg-pant-female-loose-sweater-sets): Elegant spring two-piece knitted suit with V-neck cardigan and wide leg pants. High stretch polyester blend, elastic waist, office lady style. Perfect for casual and professional wear. One size fits most!
-  Updated: 2025-10-26T14:32:43Z
+  Updated: 2025-10-31T14:17:56Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sebdf5e180a99413b940badecb94161e82.webp?v=1760708342
   - [black / One Size](https://jamiludincollection.com/products/spring-casual-two-pieces-suits-long-sleeve-knitted-cardigan-coat-elastic-waist-wide-leg-pant-female-loose-sweater-sets?variant=46196344357015)
@@ -3242,9 +3242,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sebdf5e180a99413b940badecb94161e82.webp?v=1760708342
     Price: $70.82 USD
 - [Winter Thick Fluffy Faux Fur Women Vest Coat - Button Belt Patchwork Windproof Sleeveless](https://jamiludincollection.com/products/winter-thick-fluffy-faux-fur-women-vest-coat-button-belt-patchwork-windproof-faux-leather-vest-sleeveless-waistcoat): Luxurious winter faux fur vest coat for women. Thick fluffy design with button belt and patchwork. Windproof faux leather sleeveless waistcoat. Warm and stylish.
-  Updated: 2025-10-19T02:32:35Z
+  Updated: 2025-10-31T14:18:33Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S758ce743f6054db4bd1e2864df31a1d0J.webp?v=1760708343
   - [Black / M](https://jamiludincollection.com/products/winter-thick-fluffy-faux-fur-women-vest-coat-button-belt-patchwork-windproof-faux-leather-vest-sleeveless-waistcoat?variant=46196344488087)
@@ -3308,9 +3308,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S5863bb9aaf7f43199872875a7d64a18ag.webp?v=1760708344
     Price: $66.69 USD
 - [Pink Girls Jackets Autumn Winter - Thermal Fleece Jacket for Children 1-5 Years Kids Coat](https://jamiludincollection.com/products/pink-girls-jackets-autumn-coat-winter-thermal-fleece-jacket-for-children-1-2-3-4-5yrs-kids-coats-warm-korean-outerwear): Warm pink girls jacket for autumn and winter. Thermal fleece coat for children 1-5 years. Korean style kids outerwear. Comfortable and warm for toddlers.
-  Updated: 2025-10-19T02:36:28Z
+  Updated: 2025-10-31T14:19:26Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S643262db3fe4431190c6c4c2d593bf06C.webp?v=1760708345
   - [F22554G / 6-12M](https://jamiludincollection.com/products/pink-girls-jackets-autumn-coat-winter-thermal-fleece-jacket-for-children-1-2-3-4-5yrs-kids-coats-warm-korean-outerwear?variant=46196347601047)
@@ -3461,9 +3461,9 @@
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S4cf0ee84057246349923af16f5d5b538j.webp?v=1760708343
   Price: $5.10 USD
 - [Vintage Elegant Stand Collar Jacket Women - Pearl Fringed Embroidery Flared Sleeves Coat](https://jamiludincollection.com/products/vintage-elegant-stand-collar-jackets-women-spring-pearl-fringed-decor-embroidery-flared-sleeves-coat-party-evening-outerwears): Vintage elegant stand collar jacket with pearl fringed embroidery and flared sleeves. Perfect party evening coat for women. Premium polyester, sizes M-4XL. Sophisticated outerwear for special occasions!
-  Updated: 2025-10-26T15:03:49Z
+  Updated: 2025-10-31T14:20:02Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sb786b79a3d4745d1880c757a4df7a7b8Q.webp?v=1760708344
   - [WHITE / 4XL / CHINA](https://jamiludincollection.com/products/vintage-elegant-stand-collar-jackets-women-spring-pearl-fringed-decor-embroidery-flared-sleeves-coat-party-evening-outerwears?variant=46196348846231)
@@ -3495,9 +3495,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sb786b79a3d4745d1880c757a4df7a7b8Q.webp?v=1760708344
     Price: $49.10 USD
 - [Thickened Fleece Hooded Sweatshirt - Women Lamb Fur Winter Warm Pullover Hoodie | Jamil's Marketplace](https://jamiludincollection.com/products/thickened-fleece-hooded-sweatshirt-womens-overhead-lamb-fur-jacket-winter-warm-pullover-hat-coat-trendy-casual-hoodie): Ultra-warm thickened fleece hooded sweatshirt with lamb fur lining. Women's winter pullover hoodie jacket. Korean style, full sleeves, pockets. Perfect for cold weather autumn/winter wear!
-  Updated: 2025-10-26T15:06:07Z
+  Updated: 2025-10-31T14:20:27Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S0b29d0803cc3415cb1fe43bbcda83818Y.webp?v=1760708346
   - [S / Orange](https://jamiludincollection.com/products/thickened-fleece-hooded-sweatshirt-womens-overhead-lamb-fur-jacket-winter-warm-pullover-hat-coat-trendy-casual-hoodie?variant=46196349173911)
@@ -3561,9 +3561,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sef10af8155854723b494826d16bd2253J.webp?v=1760708346
     Price: $46.86 USD
 - [Girls Cardigan Sweater Autumn - Children's Fashionable Floral Jacket Korean Style](https://jamiludincollection.com/products/girls-cardigan-sweater-autumn-new-style-childrens-fashionable-floral-jacket-baby-trendy-korean-style-casual-top): Adorable girls cardigan sweater for autumn. Fashionable floral jacket with Korean style design. Perfect for children 1-6 years. Soft polyester, single breasted, cute casual top. Ideal for daily wear and special occasions!
-  Updated: 2025-10-26T15:07:58Z
+  Updated: 2025-10-31T14:20:46Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S9896fa442b4d4f44ac3e89745058913fv.webp?v=1760708346
   - [Beige / 1-2Y](https://jamiludincollection.com/products/girls-cardigan-sweater-autumn-new-style-childrens-fashionable-floral-jacket-baby-trendy-korean-style-casual-top?variant=46196349698199)
@@ -3633,9 +3633,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sbdc6f04f46374bc59f5ae379df844c5af.webp?v=1760708347
     Price: $11.89 USD
 - [Boyfriend Brown Coat Women Spring - Turndown Collar Long Sleeve Jacket 2025 Fashion](https://jamiludincollection.com/products/boyfriend-brown-coat-for-women-spring-turndown-collar-long-sleeve-female-jacket-2025-fashion-loose-single-breasted-lady-coats): Stylish boyfriend brown coat for women spring 2025. Turndown collar, long sleeve, loose single-breasted jacket. High street fashion, cotton-polyester blend. Perfect casual coat for autumn/winter. Sizes S-L available!
-  Updated: 2025-10-26T15:13:03Z
+  Updated: 2025-10-31T14:21:06Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S9acc8622fdd24eb6ba86e38892c079cbG.webp?v=1760708348
   - [brown 1 / S](https://jamiludincollection.com/products/boyfriend-brown-coat-for-women-spring-turndown-collar-long-sleeve-female-jacket-2025-fashion-loose-single-breasted-lady-coats?variant=46196350320791)
@@ -3651,9 +3651,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S67a896f18967422bbfc99c9966acd304c.webp?v=1760708348
     Price: $39.63 USD
 - [5 Pieces Retro Diamond Buckle Square Metal Buttons - Fashion Coat Sweater Decoration](https://jamiludincollection.com/products/5-pieces-retro-high-end-diamond-buckle-square-metal-buttons-fashion-ladies-coat-sweater-decoration-handmade-sewing-buttons): High-end retro diamond buckle square metal buttons. Fashion ladies coat sweater decoration. Handmade sewing buttons for DIY projects. 5-piece set.
-  Updated: 2025-10-26T15:27:46Z
+  Updated: 2025-10-31T14:21:23Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Craft Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S4e9fcd2780f743709465bf2cd940b6bcn.webp?v=1760708349
   - [Black / 18mm-5pcs](https://jamiludincollection.com/products/5-pieces-retro-high-end-diamond-buckle-square-metal-buttons-fashion-ladies-coat-sweater-decoration-handmade-sewing-buttons?variant=46196350517399)
@@ -3673,9 +3673,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S5ffa9519df75415dae16c96ee3b38ca6f.webp?v=1760708350
     Price: $15.28 USD
 - [10pcs Fashion Gold Color Buttons 18/25mm - Round Resin Shank DIY Sewing | Jamil's Marketplace](https://jamiludincollection.com/products/10pcs-fashion-gold-color-buttons-18-25mm-round-resin-shank-buttons-diy-sewing-sweater-coat-accessories): 10 pieces fashion gold color buttons in 18mm/25mm sizes. Round resin shank buttons for DIY sewing. Perfect for sweaters, coats, cardigans. Eco-friendly, washable, lightweight. Elegant accessories!
-  Updated: 2025-10-26T15:30:18Z
+  Updated: 2025-10-31T14:21:39Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Craft Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S71e98f010a414699af4489b26ecf1ea1C.webp?v=1760708349
   - [Black / 25mm](https://jamiludincollection.com/products/10pcs-fashion-gold-color-buttons-18-25mm-round-resin-shank-buttons-diy-sewing-sweater-coat-accessories?variant=46196350681239)
@@ -3719,9 +3719,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S291ba43af5004cc5bc1e55c8da12df53m.webp?v=1760708349
     Price: $11.78 USD
 - [2024 Winter Women Jacket Yellow - Short Hooded Cotton Padded Coat Waterproof Parka](https://jamiludincollection.com/products/2024-winter-women-jacket-yellow-short-hooded-cotton-padded-female-coat-thicken-warm-outwear-loose-waterproof-women-parka-femme): Warm 2024 winter women jacket in yellow. Short hooded cotton padded female coat. Thicken warm outwear, loose fit, waterproof parka. Perfect for cold weather.
-  Updated: 2025-10-26T15:33:17Z
+  Updated: 2025-10-31T14:21:59Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sfc858932d87e4018b24093ed3e4db9dan.webp?v=1760708351
   - [Fog blue AA / XL](https://jamiludincollection.com/products/2024-winter-women-jacket-yellow-short-hooded-cotton-padded-female-coat-thicken-warm-outwear-loose-waterproof-women-parka-femme?variant=46196351139991)
@@ -3825,9 +3825,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/H7a11fcd651ac48ff9a3c2fec30b2befbr.webp?v=1760708352
     Price: $59.36 USD
 - [CANNI Jelly Pink Nail Gel Polish - Hema Free Pastel Varnish Semi Permanent Top Coat](https://jamiludincollection.com/products/canni-jelly-pink-color-nail-gel-polish-hema-free-pastel-varnish-semi-permanent-venalisa-french-nail-gel-tempered-nowipe-top-coat): CANNI jelly pink nail gel polish 9ml. HEMA-free pastel varnish, semi-permanent 3 weeks. UV/LED compatible, soak-off formula. Professional salon quality. 72 colors, eco-friendly, certified SGS MSDS REACH!
-  Updated: 2025-10-26T15:36:11Z
+  Updated: 2025-10-31T14:24:21Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S876be64014e84d92b11e39a83ec1bd4d9.webp?v=1760708357
   - [9042](https://jamiludincollection.com/products/canni-jelly-pink-color-nail-gel-polish-hema-free-pastel-varnish-semi-permanent-venalisa-french-nail-gel-tempered-nowipe-top-coat?variant=46196351959191)
@@ -4031,9 +4031,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Se3a455d46a44493eaac7c55360cf4b3f5.webp?v=1760708358
     Price: $17.14 USD
 - [7/15PCS Hello Kitty Cartoon Patches - Iron on Embroidered KT Cat DIY Coat Jeans Sticker](https://jamiludincollection.com/products/7-15pcs-hello-kitty-cartoon-kt-cat-series-for-child-clothes-iron-on-embroidered-patches-sew-diy-coat-jeans-applique-sticker): Cute Hello Kitty cartoon KT cat patches for children clothes. Iron-on embroidered patches for DIY sewing. Perfect for coat, jeans applique sticker. 7 or 15 pieces.
-  Updated: 2025-10-19T03:09:52Z
+  Updated: 2025-10-31T14:24:43Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Craft Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S9b84318a90bd4bd98d8af3ef05dda449F.webp?v=1760708608
   - [7Pcs-B](https://jamiludincollection.com/products/7-15pcs-hello-kitty-cartoon-kt-cat-series-for-child-clothes-iron-on-embroidered-patches-sew-diy-coat-jeans-applique-sticker?variant=46196365066391)
@@ -4049,9 +4049,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S1122df69079748bb9fe133f95b5a8b645.webp?v=1760708608
     Price: $13.86 USD
 - [Autumn Winter O-neck Quilted Jacket Men - Versatile Green Retro Thickened Coat Techwear](https://jamiludincollection.com/products/autumn-winter-o-neck-quilted-jacket-mens-versatile-green-retro-thickened-coat-men-techwear-button-up-oversize-jacket): Stylish men's quilted jacket for autumn winter. O-neck versatile green retro thickened coat. Techwear button-up oversize jacket. Perfect for casual and outdoor wear.
-  Updated: 2025-10-20T16:51:26Z
+  Updated: 2025-10-31T14:27:53Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S97aa5a1a637743dfb299dfa9e2c5adc8Y.webp?v=1760708608
   - [Yellow / XXXL  72-80kg](https://jamiludincollection.com/products/autumn-winter-o-neck-quilted-jacket-mens-versatile-green-retro-thickened-coat-men-techwear-button-up-oversize-jacket?variant=46196365197463)
@@ -4205,9 +4205,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S1e857b8cdd9d46e0b8df20a9dffb202by.webp?v=1760708611
     Price: $79.82 USD
 - [ZIQIAO British Style Plaid Wool Suit Jacket Women Winter - Office Lady Woolen Coat](https://jamiludincollection.com/products/ziqiao-british-style-plaid-wool-suit-jacket-women-winter-niche-sense-office-lady-commuter-double-sided-woolen-coat-length-option): Stylish ZIQIAO British plaid wool suit jacket for women winter. Niche sense office lady commuter double-sided woolen coat. Length options available.
-  Updated: 2025-10-20T16:50:06Z
+  Updated: 2025-10-31T14:52:19Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sffd5bacfa9144a138332ec80aa20d051y.webp?v=1760708610
   - [Long Style / XS（old）](https://jamiludincollection.com/products/ziqiao-british-style-plaid-wool-suit-jacket-women-winter-niche-sense-office-lady-commuter-double-sided-woolen-coat-length-option?variant=46196366835863)
@@ -4243,9 +4243,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S6a75be0f04f54e0980a74ceb1ffacc28q.webp?v=1760708611
     Price: $88.48 USD
 - [201 Stainless Steel Hook Double S-Shape - Kitchen Bathroom Cabinet Door Towel Hanger](https://jamiludincollection.com/products/201-stainless-steel-hook-free-punching-double-s-shape-hook-kitchen-bathroom-cabinet-door-back-type-coat-towel-storage-hanger): Durable 201 stainless steel hook with double S-shape. Free punching installation for kitchen, bathroom, cabinet door. Perfect coat towel storage hanger.
-  Updated: 2025-10-20T16:49:29Z
+  Updated: 2025-10-31T14:52:53Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Home & Garden
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sa812228f30884b72a4a7df962323dc463.webp?v=1760708611
   - [201-Black 5pcs](https://jamiludincollection.com/products/201-stainless-steel-hook-free-punching-double-s-shape-hook-kitchen-bathroom-cabinet-door-back-type-coat-towel-storage-hanger?variant=46196366540951)
@@ -4281,9 +4281,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S5613888f45d646c49cffe75143eecc62S.webp?v=1760708611
     Price: $7.20 USD
 - [Pet Clothes for Small Dog - Warm Puppy Jacket Coat French Bulldog Chihuahua Sweatshirt](https://jamiludincollection.com/products/keep-you-warm-kittens-puppy-clothes-for-small-dog-french-bulldog-sweatshirt-pet-dogs-cats-jacket-coat-classic-chihuahua-clothes): Keep your pet warm with cozy clothes for small dogs. Kittens puppy jacket coat for French Bulldog, Chihuahua. Classic pet sweatshirt for cats and dogs.
-  Updated: 2025-10-20T17:13:21Z
+  Updated: 2025-10-31T14:53:18Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S1ad0f0e06c364a7db6dfe0e4e04e2e90u.webp?v=1760708613
   - [Gray / L](https://jamiludincollection.com/products/keep-you-warm-kittens-puppy-clothes-for-small-dog-french-bulldog-sweatshirt-pet-dogs-cats-jacket-coat-classic-chihuahua-clothes?variant=46196367163543)
@@ -4479,9 +4479,9 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S29961091359d4174a962b7cf24435ad4q.webp?v=1760708613
     Price: $17.81 USD
 - [2025 Ice Silk Thin Sunscreen Coat Women - Loose Sun Protection Hooded Jacket Summer](https://jamiludincollection.com/products/2025-new-ice-silk-thin-sunscreen-coat-womens-jacket-loose-sun-protection-shirt-hooded-top-summer-breathable-lightweight-shirt): New 2025 ice silk thin sunscreen coat for women. Loose sun protection shirt with hood. Breathable lightweight summer jacket. Perfect for outdoor activities.
-  Updated: 2025-10-19T03:34:59Z
+  Updated: 2025-10-31T14:53:37Z
   Vendor: Jamil's Marketplace
-  Product Type: 
+  Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S3aa81cb13cd740c08cb8d96c641e8177b.webp?v=1760708614
   - [Green / XL](https://jamiludincollection.com/products/2025-new-ice-silk-thin-sunscreen-coat-womens-jacket-loose-sun-protection-shirt-hooded-top-summer-breathable-lightweight-shirt?variant=46196369260695)
