@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-31T12:00:50.866Z
+- Updated At: 2025-10-31T20:00:55.437Z
 
 ## Products
 
@@ -33781,31 +33781,33 @@
 
 ## Store Pages
 
-- [Contact – Connect with Us for Support and Inquiries](https://thetableclothstore.com/pages/contact): 
-  Updated: 2025-05-29T20:22:14Z
-- [Your privacy choices](https://thetableclothstore.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-01T01:19:46Z
+- [Contact – Connect with Us for Support and Inquiries](https://thetableclothstore.com/pages/contact-us): Your Journey Begins Here Every connection starts with a simple step — reaching out. At Your Brand Name, we believe that every detail matters, and y...
+  Updated: 2025-10-31T16:55:50Z
+- [Your privacy choices](https://thetableclothstore.com/pages/your-privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-10-31T16:51:29Z
 - [Search Results](https://thetableclothstore.com/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
   Updated: 2025-03-05T23:33:09Z
-- [About Us - Discover Our Journey and Values](https://thetableclothstore.com/pages/about-us): Welcome to The Tablecloth Store! We are a passionate team dedicated to transforming your dining experiences into something truly special. We believ...
-  Updated: 2025-08-05T20:27:33Z
-- [Custom Tablecloth Order - Tailored Solutions for Every Event](https://thetableclothstore.com/pages/custom-order-form): Custom Tablecloth Order: Your Personalized Creation AwaitsCustom tablecloth order services cater to those seeking unique and tailor-made solutions ...
-  Updated: 2025-05-19T18:45:30Z
-- [HTML Sitemap: Enhance SEO and User Navigation Effectively](https://thetableclothstore.com/pages/html-sitemap): HTML Sitemap: A Comprehensive GuideAn HTML Sitemap is a crucial component for any website, serving as a tool that guides both users and search engi...
-  Updated: 2025-07-03T19:30:27Z
-- [Returns and Refunds](https://thetableclothstore.com/pages/returns-and-refunds): We encourage all our customers to order a swatch or a sample of any product they are using for their project. This is the safest way to ensure that...
-  Updated: 2025-08-04T18:30:28Z
+- [About Us - Discover Our Journey and Values](https://thetableclothstore.com/pages/about-the-tablecloth-store): Every Meal Tells a Story At The Tablecloth Store, we understand that the dining table is more than just a piece of furniture; it’s where memories a...
+  Updated: 2025-10-31T16:47:23Z
+- [Custom Tablecloth Order - Tailored Solutions for Every Event](https://thetableclothstore.com/pages/custom-order-form): Welcome to Your Custom Order Journey At [Brand Name], we believe that every event deserves a touch of individuality, a spark that reflects your uni...
+  Updated: 2025-10-31T16:40:03Z
+- [HTML Sitemap: Enhance SEO and User Navigation Effectively](https://thetableclothstore.com/pages/html-sitemap-your-essential-guide-to-custom-creations): Welcome to Our HTML Sitemap At The Tablecloth Store, we believe that every detail matters, and that includes how you navigate our offerings. Our HT...
+  Updated: 2025-10-31T18:37:58Z
+- [Returns and Refunds](https://thetableclothstore.com/pages/returns-and-refunds-policy): Welcome to Our Returns and Refunds Policy At [Your Brand Name], we understand that sometimes things don’t go as planned. Whether it’s a custom tabl...
+  Updated: 2025-10-31T16:36:34Z
 
 ## Policies
 
 - [Privacy Policy](https://thetableclothstore.com/policies/privacy-policy)
   Updated: 2025-02-06T18:04:21-05:00
+- [Shipping Policy](https://thetableclothstore.com/policies/shipping-policy)
+  Updated: 2025-10-31T14:27:34-04:00
 - [Refund Policy](https://thetableclothstore.com/policies/refund-policy)
   Updated: 2025-09-19T10:48:18-04:00
 - [Terms of Service](https://thetableclothstore.com/policies/terms-of-service)
-  Updated: 2025-07-29T15:44:25-04:00
+  Updated: 2025-10-31T10:37:18-04:00
 - [Contact Information](https://thetableclothstore.com/policies/contact-information)
-  Updated: 2025-08-04T14:43:50-04:00
+  Updated: 2025-10-31T10:53:17-04:00
 
 ## Optional
 
