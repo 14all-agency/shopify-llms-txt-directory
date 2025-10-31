@@ -6,19 +6,19 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-31T04:00:47.756Z
+- Updated At: 2025-10-31T12:00:50.801Z
 
 ## Products
 
 - [Labubu 3.0  Blind Box Big Into Energy Series - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs - PlaysPuls
-  Updated: 2025-10-30T16:34:10Z
+  Updated: 2025-10-31T05:15:43Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/4.png?v=1761842050
   Price: $39.00 USD
 - [Labubu 3.0  Blind Box Whole Set 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes - PlaysPuls
-  Updated: 2025-10-30T16:35:02Z
+  Updated: 2025-10-31T07:12:25Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
