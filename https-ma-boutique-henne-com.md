@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-31T00:00:41.044Z
+- Updated At: 2025-10-31T08:00:41.626Z
 
 ## Products
 
@@ -1712,7 +1712,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/brown2.png?v=1605622351
   Price: 19,50 € EUR
 - [Coloration Végétale ACAJOU - MAHOGANY, Cultivator's Colors from Nature](https://ma-boutique-henne.com/products/coloration-vegetale-acajou-mahogany-cultivators-colors-from-nature): coloration végétale naturelle cultivator cultivators cultivator's mahogany roux rouge intense bordeaux Acajou, rouge, color me, bourgogne, vin rouge wine red burgundy hair colour, me, Henné, Manjistha, orcanette, henné violine, violet, couvre cheveux blancs, henna, katam, bio, biologique
-  Updated: 2025-10-17T18:54:36Z
+  Updated: 2025-10-31T05:51:40Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-30T19:47:06Z
+  Updated: 2025-10-31T07:41:00Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
