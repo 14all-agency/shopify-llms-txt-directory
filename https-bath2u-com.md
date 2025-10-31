@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-30T08:00:37.329Z
+- Updated At: 2025-10-31T04:00:57.407Z
 
 ## Products
 
@@ -1257,7 +1257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTSC04-BL.jpg?v=1675052086
   Price: RM 108.00 MYR
 - [SORENTO Wall Mounted Brass Square Union Concealed Shower Connector - Matte Black](https://bath2u.com/products/sorento-wall-mounted-brass-square-union-concealed-shower-connector-matte-black): This high quality brass gold finished wall mounted square union are specially design to provide magnificent look and high quality performance with thermostatic bar showers in your bathroom.Specifications : Width: 38mm Height: 60mm Shape: Square Material: Brass Colour: Matte Black Type: Wall Mounted
-  Updated: 2024-04-18T15:06:18Z
+  Updated: 2025-10-31T02:21:45Z
   Vendor: SORENTO
   Product Type: Shower Union
   Availability: Available
@@ -2943,7 +2943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/VM139.png?v=1678684828
   Price: RM 799.00 MYR
 - [TAPI Two (2) Way Tap with Spray Holder - Matt](https://bath2u.com/products/tapi-two-2-way-tap-with-spray-holder): Specification : Material : SUS304 Stainless Steel Finishing : Matt Finished Type : Quarter Turn Valve
-  Updated: 2025-10-30T03:41:23Z
+  Updated: 2025-10-30T16:23:33Z
   Vendor: TAPI
   Product Type: 2-Way Tap
   Availability: Available
@@ -3041,11 +3041,44 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/Onimi23308A.jpg?v=1678863031
   Price: RM 100.00 MYR
 - [Johnson Suiise WC](https://bath2u.com/products/johnson-suiise-wc): asdasdjasnsdlas as as asd as
-  Updated: 2025-10-30T06:15:35Z
+  Updated: 2025-10-30T08:17:16Z
   Vendor: Bath2u.com
   Product Type: 
   Availability: Available
   Price: RM 850.00 MYR
+- [Docasa A890 P-trap 180mm S-Trap 250mm 300mm Bathroom One Piece Rimless Washdown WC Water Closet 1 Piece Jamban Duduk](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk): Specification : Dimension: 730(W) x 370(L) x 800(H) mm Matrerial Ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
+  Updated: 2025-10-31T03:57:26Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/A890.jpg?v=1761878688
+  - [P-Trap 180MM](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk?variant=42627279323220)
+    Availability: Available
+    Price: RM 399.00 MYR
+  - [S-Trap 300MM](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk?variant=42627279355988)
+    Availability: Available
+    Price: RM 399.00 MYR
+  - [S-Trap 250MM](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk?variant=42627279388756)
+    Availability: Available
+    Price: RM 399.00 MYR
+- [Docasa A310 P-trap 180mm S-Trap 200mm 250mm 300mm Bathroom One Piece Rimless Washdown WC Water Closet Jamban Duduk](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk): Specification : Dimension: 670(W) x 380(L) x 710(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB
+  Updated: 2025-10-31T03:38:52Z
+  Vendor: Bath2u.com
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/A310.jpg?v=1761881827
+  - [P-Trap 180MM](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk?variant=42627380969556)
+    Availability: Available
+    Price: RM 438.00 MYR
+  - [S-Trap 200MM](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk?variant=42627381002324)
+    Availability: Available
+    Price: RM 438.00 MYR
+  - [S-Trap 250MM](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk?variant=42627381035092)
+    Availability: Available
+    Price: RM 438.00 MYR
+  - [S-Trap 300MM](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk?variant=42627381067860)
+    Availability: Available
+    Price: RM 438.00 MYR
 
 ## Collections
 
@@ -3056,8 +3089,8 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 400
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
-  Updated: 2025-10-11T11:11:17Z
-  Total Products: 7
+  Updated: 2025-10-31T03:49:18Z
+  Total Products: 8
 - [Urinal](https://bath2u.com/collections/urinal-toilet): a sanitary plumbing fixture for urination only. Urinals are often provided in public toilets for male users. They are usually used in a standing position
   Updated: 2023-02-10T04:03:40Z
   Total Products: 4
@@ -3065,8 +3098,8 @@
   Updated: 2025-09-30T11:12:38Z
   Total Products: 3
 - [Toilet Seat](https://bath2u.com/collections/toilet-seat): A toilet seat cover or toilet sheet is a disposable piece of paper shaped like the toilet seat itself that can be placed on the seat by its user. Its purpose is to protect the toilet's user from germs that may be resting on the seat by creating a protective barrier.
-  Updated: 2023-02-09T14:26:15Z
-  Total Products: 14
+  Updated: 2025-10-31T03:49:18Z
+  Total Products: 15
 - [Wall Hung Basin](https://bath2u.com/collections/wall-hung-basin): A wall hung basin, as its name suggests, is mounted directly onto the wall, with no bathroom vanity underneath. This makes it a flexible and practical choice for bathrooms of all sizes. With a wide range of different design options available, a wall mounted basin enables you to stamp your own personality onto your bathroom design.
   Updated: 2023-02-10T04:00:06Z
   Total Products: 7
@@ -3200,8 +3233,8 @@
   Updated: 2023-01-25T01:38:26Z
   Total Products: 0
 - [SALES](https://bath2u.com/collections/sales): For all products under sales promotion including annual sales, promotional items, and clearance stocks. Get the best bargain in town here at Best Bath.
-  Updated: 2025-10-01T07:11:22Z
-  Total Products: 2
+  Updated: 2025-10-31T03:49:18Z
+  Total Products: 3
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
   Updated: 2023-03-06T04:07:10Z
   Total Products: 2
@@ -3317,14 +3350,14 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 17
 - [Water Closet](https://bath2u.com/collections/water-closet)
-  Updated: 2025-10-11T11:11:17Z
-  Total Products: 39
+  Updated: 2025-10-31T03:49:18Z
+  Total Products: 40
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
   Updated: 2023-04-16T12:49:45Z
   Total Products: 87
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2025-10-13T11:11:02Z
-  Total Products: 3
+  Updated: 2025-10-31T03:49:19Z
+  Total Products: 4
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
   Total Products: 6
@@ -3403,6 +3436,9 @@
 - [TAPI](https://bath2u.com/collections/brand-tapi)
   Updated: 2025-10-13T11:11:02Z
   Total Products: 67
+- [Docasa](https://bath2u.com/collections/docasa)
+  Updated: 2025-10-31T03:48:49Z
+  Total Products: 1
 
 ## Blogs
 
