@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-31T04:00:44.760Z
+- Updated At: 2025-10-31T12:00:35.178Z
 
 ## Products
 
@@ -376,19 +376,19 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021.png?v=1761654495
   Price: £37.03 GBP
 - [POWER COFFEE HOUSE BLEND COFFEEBREWER](https://orovacoffee.com/products/power-coffee-house-blend-coffeebrewer): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
-  Updated: 2025-10-30T07:24:29Z
+  Updated: 2025-10-31T11:52:40Z
   Vendor: The Brew Company
   Product Type: Coffeebrewer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
-  Price: £2.29 GBP
+  Price: £2.99 GBP
 - [RED Xmas](https://orovacoffee.com/products/red-xmas)
-  Updated: 2025-10-31T01:56:25Z
+  Updated: 2025-10-31T11:51:34Z
   Vendor: The Brew Company
   Product Type: advent calendar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Advent_calendar_original_Features-_Compressify.io.jpg?v=1761654491
-  Price: £27.15 GBP
+  Price: £29.98 GBP
 
 ## Collections
 
@@ -2587,6 +2587,14 @@
     Updated: 2025-10-31T03:10:28Z
     Author: Orovacoffee
     Tags: adventure coffee gift pack, are coffee beans vegan?, beans, beginner's guide to roasting, best coffee for adventures, best place to buy coffee beans?, brewing methods, coffee, coffee beans, fresh coffee, fresh roasted coffee, gift for someone who loves espresso, how to give coffee as a gift, roast, roasting techniques, specialty coffee beans, top coffee for outdoor lovers, travel-friendly coffee, where can i buy coffee beans uk?
+  - [Discover the Perfect Gift: Rwandan Single-Origin Hand Roasted Coffee for Coffee Lovers Under £25](https://orovacoffee.com/blogs/news/discover-the-perfect-gift-rwandan-single-origin-hand-roasted-coffee-for-coffee-lovers-under-25): Discover the Perfect Gift: Rwandan Single-Origin Hand Roasted Coffee for Coffee Lovers Under £25
+    Updated: 2025-10-31T04:08:18Z
+    Author: Orovacoffee
+    Tags: affordable coffee options, beans, brazilian coffee gift set, coffee, coffee beans, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee lovers, coffee sampler gift, coffee sampler gift box, gift ideas, hand roasted, rwanda, single-origin coffee gifts, specialty coffee gifts, sustainable coffee gift, unique coffee gifts, where can i buy coffee gifts
+  - [Discover Unique Coffee Gift Ideas: The Eco-Friendly Single Origin Tanzanian Brewer with Travel-Ready and Compostable Convenience for Him](https://orovacoffee.com/blogs/news/discover-unique-coffee-gift-ideas-the-eco-friendly-single-origin-tanzanian-brewer-with-travel-ready-and-compostable-convenience-for-him): Discover Unique Coffee Gift Ideas: The Eco-Friendly Single Origin Tanzanian Brewer with Travel-Ready and Compostable Convenience for Him
+    Updated: 2025-10-31T04:10:59Z
+    Author: Orovacoffee
+    Tags: coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, compostable coffee tools, eco coffee, eco-friendly, eco-friendly coffee gift set, gifts, single origin, single origin coffee gifts, tanzanian coffee, travel-friendly coffee, travel-ready brewer, unique coffee gift ideas, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
 - [inceptions](https://orovacoffee.com/blogs/inceptions)
   - [WORLD'S FINEST Specialty Coffee Gift Box - Gift Guide](https://orovacoffee.com/blogs/inceptions/worlds-finest-specialty-coffee-gift-box-gift-guide)
     Updated: 2025-10-15T01:28:25Z
