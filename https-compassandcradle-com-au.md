@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-10-30T20:00:41.246Z
+- Updated At: 2025-10-31T04:00:33.573Z
 
 ## Products
 
@@ -170,14 +170,14 @@
     Availability: Available
     Price: $223.36 AUD
 - [Acid Wash Kids Cap (Ages 1-6) | Barefoot Bandit Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Barefoot Bandit Acid Wash Kids Cap (Ages 1–6) Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-10-30T11:01:37Z
+  Updated: 2025-10-30T20:11:18Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0773.jpg?v=1761813180
   Price: $19.99 AUD
 - [Acid Wash Kids Cap (Ages 1–6) | Mums Fan Club Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-ages-1-6-mums-fan-club-light-brown): Mums Fan Club Acid Wash Kids Cap (Ages 1–6) Keep your little one looking cool and comfy with our Acid Wash Kids Cap, designed to fit children aged 1–6 years. Made from soft, breathable cotton, this toddler/kids cap features a stylish acid wash finish for that effortlessly vintage look. With an adjustable back strap, it’s perfect for growing kids and everyday adventures — from park playdates to family outings. A must-have accessory for both boys and girls, this kids hat adds the perfect finishing touch to any outfit. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a snug fit Soft cotton fabric with acid wash color Unisex design for boys and girls Durable, lightweight, and easy to wear
-  Updated: 2025-10-30T11:00:33Z
+  Updated: 2025-10-30T22:10:16Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
