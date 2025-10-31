@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-10-30T12:00:49.743Z
+- Updated At: 2025-10-31T00:01:41.614Z
 
 ## Products
 
@@ -30080,7 +30080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/cee8d213-a5d8-4460-b7e4-627a2d7733cf_fine.jpg?v=1761768232
     Price: CHF 10.80 CHF
 - [Dog Cat Jarre Aero Bull Chest And Back Suit](https://cilly.us/products/dog-cat-jarre-aero-bull-chest-and-back-suit): Product information: Color: black and white stripes (chest and back traction), beige chessboard (chest and back traction), Brown chessboard (chest and back traction), houndstooth (chest and back traction) Material: cloth Category: Pet chain ring, rope Product Category: chest strap Packing list: Chest circumference+traction strap * 1 set Product Image:
-  Updated: 2025-10-29T20:18:36Z
+  Updated: 2025-10-30T14:30:19Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
