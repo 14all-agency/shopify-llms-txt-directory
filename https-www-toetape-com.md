@@ -6,24 +6,24 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-09-23T23:33:27Z
 - Contact Email: tyler@toetape.com
-- Updated At: 2025-10-30T22:05:21.353Z
+- Updated At: 2025-10-31T04:00:47.374Z
 
 ## Products
 
-- [Bunion Corrector Kinesiology Tape](https://www.toetape.com/products/toetape-precut-kinesiology-tape-for-big-toe-sprains): Real Relief. Realignment in Motion. Engineered for moderate bunions and active feet, ToeTape Bunion Correction Kinesiology Tape delivers targeted support and tension that moves with you. Designed to gently realign your big toe while relieving pressure and friction, this slim, low-profile tape fits comfortably in any footwear. Backed by proven academic research, it offers long-lasting relief and confident movement—without bulky braces or rigid correctors holding you back.
-  Updated: 2025-10-30T14:42:35Z
+- [Bunion Corrector Kinesiology Tape](https://www.toetape.com/products/bunion-corrector-kinesiology-tape): Real Relief. Realignment in Motion. Engineered for moderate bunions and active feet, ToeTape Bunion Correction Kinesiology Tape delivers targeted support and te
+  Updated: 2025-10-30T23:34:06Z
   Vendor: ToeTape
   Product Type: Kinesiology Tape
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/BC_Nude.png?v=1761776552
-  - [Nude](https://www.toetape.com/products/toetape-precut-kinesiology-tape-for-big-toe-sprains?variant=41527368122500)
+  - [Nude](https://www.toetape.com/products/bunion-corrector-kinesiology-tape?variant=41527368122500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/BC_Nude.png?v=1761776552
     Price: $29.99 USD
-  - [Electric Blue](https://www.toetape.com/products/toetape-precut-kinesiology-tape-for-big-toe-sprains?variant=41527368089732)
+  - [Electric Blue](https://www.toetape.com/products/bunion-corrector-kinesiology-tape?variant=41527368089732)
     Availability: Available
     Price: $29.99 USD
-  - [Pink](https://www.toetape.com/products/toetape-precut-kinesiology-tape-for-big-toe-sprains?variant=50974545936516)
+  - [Pink](https://www.toetape.com/products/bunion-corrector-kinesiology-tape?variant=50974545936516)
     Availability: Available
     Price: $29.99 USD
 - [Runner's Relief Tape](https://www.toetape.com/products/toetape-pf-plantar-fasciitis-relief): Fast acting Pain Relief and Support for common running lower leg injuries: Plantar Fasciitis Shin Splints Achilles Tendonitis Reduce pain Wear it with any footwear Applies in seconds 20 applications included
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Moleskin Bunion Pads](https://www.toetape.com/products/bunion-cushions): Relief Where It Rubs When friction turns every step into a distraction, ToeTape Bunion Pads bring instant relief. Made from dual-layered medical-grade moleskin, each pad shields your skin from rubbing and pressure points caused by bunions, calluses, and tight footwear. The ultra-thin, low-profile design stays put through long days and training sessions—helping you move pain-free, blister-free, and focused. Available in 12, 24, and 60-pad packs for every need.
-  Updated: 2025-10-30T21:58:42Z
+  Updated: 2025-10-31T03:44:07Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -56,8 +56,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/606_USA.png?v=1761539435
     Price: $23.99 USD
-- [Shoulder Kinesiology Tape](https://www.toetape.com/products/shoulder-kinesiology-tape): Engineered for Shoulder Stability and Long-Lasting Relief When shoulder pain threatens your training, ToeTape steps in. Our precut kinesiology tape is designed for athletes who need dependable support without slowing down. Made from a synthetic, breathable fabric that’s water- and sweat-proof, it stays on for up to 7 days—even through workouts, showers, and recovery sessions. Trusted by physical therapists, it helps stabilize rotator cuff injuries, deltoid strains, and shoulder impingement so you can keep moving.
-  Updated: 2025-10-30T22:04:58Z
+- [Shoulder Kinesiology Tape](https://www.toetape.com/products/shoulder-kinesiology-tape): Engineered for Shoulder Stability and Long-Lasting Relief When shoulder pain threatens your training, ToeTape steps in. Our precut kinesiology tape is designed
+  Updated: 2025-10-31T03:26:12Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Shoulder_Tape_Amazon_images_19.png?v=1761754067
     Price: $23.99 USD
 - [Epsom Salt + Bubbles](https://www.toetape.com/products/epsom-salts-bubbles): Revive. Relax. Recover.Recover like an athlete, relax like you deserve it. Epsom Salts + Bubbles merges high-strength magnesium salts with foaming bubbles for a dual-action soak—whether you’re unwinding after training or simply easing daily foot fatigue. Choose Lavender for calming recovery, Coconut Tea Tree for refreshing clarity, or Unscented for gentle, neutral relief. Each 12 oz bag delivers up to 3 full body baths or 12 targeted foot soaks.
-  Updated: 2025-10-30T22:04:52Z
+  Updated: 2025-10-31T02:06:17Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Vibes_Unscented_3_b9cde4f2-3fbb-4b90-b2a4-976c5f261e9d.png?v=1760499882
     Price: $11.99 USD
 - [Bunion Relief Bundle](https://www.toetape.com/products/bunion-relief-bundle): Your all-in-one solution for lasting foot comfort and recovery. The Bunion Relief Bundle combines our three most effective products to help reduce pain, prevent rubbing, and support natural alignment — whether you’re on your feet all day or training hard. Includes: ToeTape™ Bunion Corrector Tape – Precut, professional-grade kinesiology tape designed to gently realign the big toe and relieve joint pressure. Sweatproof and easy to apply for all-day support. Moleskin Bunion Pads – Soft, adhesive patches that protect against friction and rubbing from shoes, preventing blisters and irritation. Epsom Salts + Foaming Bubbles – A magnesium-rich soak that relaxes sore feet, reduces inflammation, and promotes faster recovery after long days or workouts. Together, these three essentials relieve pain, protect sensitive spots, and speed recovery — giving your feet the support they deserve to keep you moving comfortably and confidently.
-  Updated: 2025-10-30T22:05:07Z
+  Updated: 2025-10-31T03:44:24Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -157,14 +157,14 @@
     Availability: Available
     Price: $49.99 USD
 - [Tea Tree Three! Bundle](https://www.toetape.com/products/tea-tree-three)
-  Updated: 2025-10-30T22:04:55Z
+  Updated: 2025-10-30T22:26:55Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/All-DayComfortStopsPainfulFrictionFastInvisibleUnderAnyShoeSubscribe_Save_NeverRunOut.png?v=1760126956
   Price: $25.00 USD
 - [Shoulder Tape & Epsom Soak Combo](https://www.toetape.com/products/shoulder-tape-epsom-soak-combo)
-  Updated: 2025-10-30T22:05:16Z
+  Updated: 2025-10-31T03:26:28Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -206,7 +206,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Knee Kinesiology Tape](https://www.toetape.com/products/knee-kinesiology-tape-10pcs)
-  Updated: 2025-10-30T22:05:05Z
+  Updated: 2025-10-31T03:26:15Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -224,7 +224,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Lower Back Kinesiology Tape](https://www.toetape.com/products/lower-back-kinesiology-tape)
-  Updated: 2025-10-30T22:05:05Z
+  Updated: 2025-10-31T03:26:16Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -291,14 +291,14 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/126_USA.png?v=1761757139
   Price: $1.00 USD
 - [Free Gift (+$1 Shipping): Unscented Epsom Salts + Bubbles](https://www.toetape.com/products/eps-gift): Revive. Relax. Recover.Recover like an athlete, relax like you deserve it. Epsom Salts + Bubbles merges high-strength magnesium salts with foaming bubbles for a dual-action soak—whether you’re unwinding after training or simply easing daily foot fatigue. Choose Lavender for calming recovery, Coconut Tea Tree for refreshing clarity, or Unscented for gentle, neutral relief. Each 12 oz bag delivers up to 3 full body baths or 12 targeted foot soaks.
-  Updated: 2025-10-30T06:35:43Z
+  Updated: 2025-10-31T02:06:23Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Untitleddesign-2025-10-21T122207.365.png?v=1761758226
   Price: $1.00 USD
 - [Free Gift (+$1 Shipping): Shoulder Tape Nude](https://www.toetape.com/products/shoulder-gift): Engineered for Shoulder Stability and Long-Lasting Relief When shoulder pain threatens your training, ToeTape steps in. Our precut kinesiology tape is designed for athletes who need dependable support without slowing down. Made from a synthetic, breathable fabric that’s water- and sweat-proof, it stays on for up to 7 days—even through workouts, showers, and recovery sessions. Trusted by physical therapists, it helps stabilize rotator cuff injuries, deltoid strains, and shoulder impingement so you can keep moving.
-  Updated: 2025-10-30T22:04:57Z
+  Updated: 2025-10-31T03:29:13Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -315,7 +315,7 @@
 ## Collections
 
 - [Home page](https://www.toetape.com/collections/frontpage)
-  Updated: 2025-10-30T16:37:58Z
+  Updated: 2025-10-30T23:16:24Z
   Total Products: 6
 - [Active](https://www.toetape.com/collections/active): These products are actively selling
   Updated: 2025-10-28T11:20:33Z
@@ -327,7 +327,7 @@
   Updated: 2025-10-28T11:20:33Z
   Total Products: 1
 - [Smart Products Filter Index - Do not delete](https://www.toetape.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-30T16:37:58Z
+  Updated: 2025-10-30T23:16:24Z
   Total Products: 19
 - [Best Sellers](https://www.toetape.com/collections/best-sellers)
   Updated: 2025-10-28T11:20:33Z
@@ -357,13 +357,13 @@
   Updated: 2025-10-29T11:30:04Z
   Total Products: 1
 - [Tape for Athletes](https://www.toetape.com/collections/tape-for-athletes)
-  Updated: 2025-10-30T16:37:58Z
+  Updated: 2025-10-30T23:16:24Z
   Total Products: 2
 - [Best Sellers](https://www.toetape.com/collections/best-sellers-1)
   Updated: 2025-10-30T11:16:26Z
   Total Products: 3
 - [Affiliate Free Product Options (Limit: 1)](https://www.toetape.com/collections/affiliate-free-product-options)
-  Updated: 2025-10-30T16:37:58Z
+  Updated: 2025-10-30T23:16:24Z
   Total Products: 6
 
 ## Blogs
