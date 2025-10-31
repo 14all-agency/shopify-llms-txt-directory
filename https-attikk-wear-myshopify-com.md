@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-20T22:12:33Z
 - Contact Email: attikkwear@gmail.com
-- Updated At: 2025-10-31T16:03:50.061Z
+- Updated At: 2025-10-31T20:00:35.215Z
 
 ## Products
 
@@ -8447,7 +8447,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $118.99 USD
 - [Women's Woolen Coat -Stylish Long Autumn Winter Coat 2025| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat): Discover the elegant Women's Woolen Coat for Autumn Winter 2025. Perfect blend of style and comfort for cold weather. Shop now!
-  Updated: 2025-10-28T08:25:16Z
+  Updated: 2025-10-31T19:35:21Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -8458,23 +8458,23 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Pink / XL](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614652989)
     Availability: Available
     Price: $61.89 USD
-  - [green / S](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614685757)
+  - [Green / S](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614685757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S774ab75fa1374b59ab9ed67d1962298a0.webp?v=1761596475
     Price: $61.89 USD
-  - [green / L](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614718525)
+  - [Green / L](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614718525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S774ab75fa1374b59ab9ed67d1962298a0.webp?v=1761596475
     Price: $61.89 USD
-  - [green / M](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614751293)
+  - [Green / M](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614751293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S774ab75fa1374b59ab9ed67d1962298a0.webp?v=1761596475
     Price: $61.89 USD
-  - [green / XXL](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614784061)
+  - [Green / XXL](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614784061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S774ab75fa1374b59ab9ed67d1962298a0.webp?v=1761596475
     Price: $61.89 USD
-  - [green / XL](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614816829)
+  - [Green / XL](https://attikk-wear.myshopify.com/products/woolen-coat-womens-2025-autumn-winter-overcoat?variant=42666614816829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S774ab75fa1374b59ab9ed67d1962298a0.webp?v=1761596475
     Price: $61.89 USD
@@ -8488,7 +8488,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $61.89 USD
 - [Women’s Woolen Coat - Warm & Stylish Fleece Jacket | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket): Shop the Women’s Fashion Woolen Coat. Stay warm and stylish this winter with our double-breasted fleece jacket, featuring an adjustable belt and a slim fit.
-  Updated: 2025-10-28T09:13:28Z
+  Updated: 2025-10-31T19:33:08Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -8529,16 +8529,16 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Blue / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625564733)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625597501)
+  - [Burgandy / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625597501)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / XXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625630269)
+  - [Burgandy / XXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625630269)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / XL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625663037)
+  - [Burgandy / XL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625663037)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / L](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625695805)
+  - [Burgandy / L](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625695805)
     Availability: Available
     Price: $66.12 USD
   - [Black / XL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666625728573)
@@ -8589,10 +8589,10 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Beige / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626220093)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / M](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626252861)
+  - [Burgandy / M](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626252861)
     Availability: Available
     Price: $66.12 USD
-  - [Red wine / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626285629)
+  - [Burgandy / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626285629)
     Availability: Available
     Price: $66.12 USD
   - [Red / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626318397)
@@ -8613,22 +8613,22 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Red / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626482237)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626515005)
+  - [Grey / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626515005)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / XXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626547773)
+  - [Grey / XXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626547773)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / XL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626580541)
+  - [Grey / XL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626580541)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / L](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626613309)
+  - [Grey / L](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626613309)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / M](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626646077)
+  - [Grey / M](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626646077)
     Availability: Available
     Price: $66.12 USD
-  - [Dark gray / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626678845)
+  - [Grey / S](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626678845)
     Availability: Available
     Price: $66.12 USD
   - [Black / XXXL](https://attikk-wear.myshopify.com/products/fashion-woolen-coat-women-warm-fleece-jacket?variant=42666626711613)
@@ -8638,7 +8638,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $66.12 USD
 - [Stylish Women's Long-sleeved Coat for Autumn/Winter 2025 | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat): Discover the perfect blend of warmth and style with our 2025 Autumn and Winter Women's Long-sleeved Coat. Shop now for a chic, double-breasted design available in various sizes.
-  Updated: 2025-10-28T08:33:02Z
+  Updated: 2025-10-31T19:31:51Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -8655,46 +8655,46 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Blue / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630840381)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630873149)
+  - [Army Green / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630873149)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630905917)
+  - [Army Green / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630905917)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630938685)
+  - [Army Green / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630938685)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630971453)
+  - [Army Green / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666630971453)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631004221)
+  - [Burgandy / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631004221)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631036989)
+  - [Burgandy / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631036989)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631069757)
+  - [Army Green / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631069757)
     Availability: Available
     Price: $63.58 USD
-  - [Army green / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631102525)
+  - [Army Green / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631102525)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631135293)
+  - [Burgandy / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631135293)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631168061)
+  - [Burgandy / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631168061)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631200829)
+  - [Burgandy / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631200829)
     Availability: Available
     Price: $63.58 USD
-  - [Burgundy / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631233597)
+  - [Burgandy / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631233597)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631266365)
+  - [Light Grey / M](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631266365)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631299133)
+  - [Light Grey / S](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631299133)
     Availability: Available
     Price: $63.58 USD
   - [Black / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631331901)
@@ -8703,16 +8703,16 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Black / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631364669)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631397437)
+  - [Light Grey / XXXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631397437)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631430205)
+  - [Light Grey / XXL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631430205)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631462973)
+  - [Light Grey / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631462973)
     Availability: Available
     Price: $63.58 USD
-  - [Light gray / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631495741)
+  - [Light Grey / L](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631495741)
     Availability: Available
     Price: $63.58 USD
   - [Beige / XL](https://attikk-wear.myshopify.com/products/2025-autumn-winter-womens-long-sleeved-coat?variant=42666631528509)
@@ -8788,7 +8788,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $63.58 USD
 - [Mia Muse Women's Red Winter Coat-Warm Button Up| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up): Shop the Mia Muse Women's Winter Coat in vibrant red. Perfect for work or special occasions, this stylish outerwear is ideal for the cold months.
-  Updated: 2025-10-28T08:35:32Z
+  Updated: 2025-10-31T19:30:43Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -8842,7 +8842,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S775eda7684b3435f87585c1a9fd4b0c3Z.webp?v=1761597308
     Price: $45.00 USD
-  - [Camel / XXL](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633461821)
+  - [Khaki / XXL](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633461821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
@@ -8850,7 +8850,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S775eda7684b3435f87585c1a9fd4b0c3Z.webp?v=1761597308
     Price: $45.00 USD
-  - [Camel / L](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633527357)
+  - [Khaki / L](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633527357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
@@ -8858,21 +8858,21 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S775eda7684b3435f87585c1a9fd4b0c3Z.webp?v=1761597308
     Price: $45.00 USD
-  - [Camel / XL](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633592893)
+  - [Khaki / XL](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633592893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
   - [Black / M](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633625661)
     Availability: Available
     Price: $45.00 USD
-  - [Camel / S](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633658429)
+  - [Khaki / S](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633658429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
   - [Black / S](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633691197)
     Availability: Available
     Price: $45.00 USD
-  - [Camel / M](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633723965)
+  - [Khaki / M](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633723965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
@@ -8887,7 +8887,7 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Black / L](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633822269)
     Availability: Available
     Price: $45.00 USD
-  - [Camel / XS](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633855037)
+  - [Khaki / XS](https://attikk-wear.myshopify.com/products/mia-muse-womens-winter-coat-red-button-up?variant=42666633855037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7651704e23d0409fb09be84a0352fd53O.webp?v=1761597309
     Price: $45.00 USD
@@ -8902,185 +8902,185 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $45.00 USD
 - [Women's Wool Coat 2025-Stylish Short Autumn Winter Jacket | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket): Discover the Women's Woolen Coat 2025. A short, loose jacket perfect for autumn and winter, combining style and comfort for every occasion.
-  Updated: 2025-10-28T08:37:35Z
+  Updated: 2025-10-31T19:30:43Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0cd55e27fb5b49c7b152b46fc725e0fb0.webp?v=1761597447
-  - [white / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635362365)
+  - [White / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635362365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8a9352e25ef547df9c94c61aa6682e49S.webp?v=1761597448
     Price: $64.00 USD
-  - [white / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635395133)
+  - [White / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635395133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8a9352e25ef547df9c94c61aa6682e49S.webp?v=1761597448
     Price: $64.00 USD
-  - [white / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635427901)
+  - [White / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635427901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8a9352e25ef547df9c94c61aa6682e49S.webp?v=1761597448
     Price: $64.00 USD
-  - [white / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635460669)
+  - [White / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635460669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8a9352e25ef547df9c94c61aa6682e49S.webp?v=1761597448
     Price: $64.00 USD
-  - [black / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635493437)
+  - [Black / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635493437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf9c17572d7cf484b9419a4f6b18b4268f.webp?v=1761597448
     Price: $64.00 USD
-  - [black / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635526205)
+  - [Black / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635526205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf9c17572d7cf484b9419a4f6b18b4268f.webp?v=1761597448
     Price: $64.00 USD
-  - [black / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635558973)
+  - [Black / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635558973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf9c17572d7cf484b9419a4f6b18b4268f.webp?v=1761597448
     Price: $64.00 USD
-  - [black / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635591741)
+  - [Black / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635591741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf9c17572d7cf484b9419a4f6b18b4268f.webp?v=1761597448
     Price: $64.00 USD
-  - [camel / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635624509)
+  - [Khaki / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635624509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdea7bc03f456473d8dc6cd696e1f41cfY.webp?v=1761597448
     Price: $64.00 USD
-  - [camel / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635657277)
+  - [Khaki / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635657277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdea7bc03f456473d8dc6cd696e1f41cfY.webp?v=1761597448
     Price: $64.00 USD
-  - [camel / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635690045)
+  - [Khaki / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635690045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdea7bc03f456473d8dc6cd696e1f41cfY.webp?v=1761597448
     Price: $64.00 USD
-  - [camel / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635722813)
+  - [Khaki / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635722813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdea7bc03f456473d8dc6cd696e1f41cfY.webp?v=1761597448
     Price: $64.00 USD
-  - [grey / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635755581)
+  - [Gray / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635755581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S97c73be318824c8e9cda2138ee8c6ec9A.webp?v=1761597448
     Price: $64.00 USD
-  - [grey / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635788349)
+  - [Gray / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635788349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S97c73be318824c8e9cda2138ee8c6ec9A.webp?v=1761597448
     Price: $64.00 USD
-  - [grey / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635821117)
+  - [Gray / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635821117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S97c73be318824c8e9cda2138ee8c6ec9A.webp?v=1761597448
     Price: $64.00 USD
-  - [grey / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635853885)
+  - [Gray / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635853885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S97c73be318824c8e9cda2138ee8c6ec9A.webp?v=1761597448
     Price: $64.00 USD
-  - [Rose purple / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635886653)
+  - [Rose PurPle / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635886653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdc3fed9358944a8cb8ee97d38e5922417.webp?v=1761597448
     Price: $64.00 USD
-  - [Rose purple / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635919421)
+  - [Rose PurPle / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635919421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdc3fed9358944a8cb8ee97d38e5922417.webp?v=1761597448
     Price: $64.00 USD
-  - [Rose purple / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635952189)
+  - [Rose PurPle / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635952189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdc3fed9358944a8cb8ee97d38e5922417.webp?v=1761597448
     Price: $64.00 USD
-  - [Rose purple / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635984957)
+  - [Rose PurPle / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666635984957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdc3fed9358944a8cb8ee97d38e5922417.webp?v=1761597448
     Price: $64.00 USD
-  - [Avocado green / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636017725)
+  - [Avacado Green / M](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636017725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0cd55e27fb5b49c7b152b46fc725e0fb0.webp?v=1761597447
     Price: $64.00 USD
-  - [Avocado green / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636050493)
+  - [Avacado Green / S](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636050493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0cd55e27fb5b49c7b152b46fc725e0fb0.webp?v=1761597447
     Price: $64.00 USD
-  - [Avocado green / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636083261)
+  - [Avacado Green / XL](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636083261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0cd55e27fb5b49c7b152b46fc725e0fb0.webp?v=1761597447
     Price: $64.00 USD
-  - [Avocado green / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636116029)
+  - [Avacado Green / L](https://attikk-wear.myshopify.com/products/womens-woolen-coat-2025-short-autumn-winter-jacket?variant=42666636116029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S0cd55e27fb5b49c7b152b46fc725e0fb0.webp?v=1761597447
     Price: $64.00 USD
 - [Stylish Casual Woolen Coat for Women | Winter Streetwear | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter): Discover the perfect blend of style and comfort with our Casual Woolen Coat for Women. Ideal for autumn and winter, this fashionable jacket features a double-breasted closure and turn-down collar.
-  Updated: 2025-10-28T08:44:04Z
+  Updated: 2025-10-31T17:27:25Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4643decc64dd4f00abf9d0429ce2d5dcl.webp?v=1761597837
-  - [GRAY / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640310333)
+  - [Gray / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640310333)
     Availability: Available
     Price: $45.00 USD
-  - [GRAY / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640343101)
+  - [Gray / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640343101)
     Availability: Available
     Price: $45.00 USD
-  - [WHITE / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640375869)
+  - [White / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640375869)
     Availability: Available
     Price: $45.00 USD
-  - [GRAY / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640408637)
+  - [Gray / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640408637)
     Availability: Available
     Price: $45.00 USD
-  - [WHITE / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640441405)
+  - [White / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640441405)
     Availability: Available
     Price: $45.00 USD
-  - [WHITE / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640474173)
+  - [White / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640474173)
     Availability: Available
     Price: $45.00 USD
-  - [WHITE / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640506941)
+  - [White / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640506941)
     Availability: Available
     Price: $45.00 USD
-  - [WHITE / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640539709)
+  - [White / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640539709)
     Availability: Available
     Price: $45.00 USD
-  - [GRAY / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640572477)
+  - [Gray / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640572477)
     Availability: Available
     Price: $45.00 USD
-  - [GRAY / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640605245)
+  - [Gray / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640605245)
     Availability: Available
     Price: $45.00 USD
-  - [black / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640638013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
-    Price: $45.00 USD
-  - [black / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640670781)
+  - [Black / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640638013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
     Price: $45.00 USD
-  - [Khaki / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640703549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
-    Price: $45.00 USD
-  - [Khaki / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640736317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
-    Price: $45.00 USD
-  - [Khaki / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640769085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
-    Price: $45.00 USD
-  - [Khaki / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640801853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
-    Price: $45.00 USD
-  - [black / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640834621)
+  - [Black / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640670781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
     Price: $45.00 USD
-  - [Khaki / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640867389)
+  - [Beige / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640703549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
     Price: $45.00 USD
-  - [black / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640900157)
+  - [Beige / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640736317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
+    Price: $45.00 USD
+  - [Beige / M](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640769085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
+    Price: $45.00 USD
+  - [Beige / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640801853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
+    Price: $45.00 USD
+  - [Black / XXL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640834621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
     Price: $45.00 USD
-  - [black / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640932925)
+  - [Beige / S](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640867389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sc45c1213593040ebb7a26155d28dd9a0A.webp?v=1761597837
+    Price: $45.00 USD
+  - [Black / L](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640900157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
+    Price: $45.00 USD
+  - [Black / XL](https://attikk-wear.myshopify.com/products/casual-woolen-coat-women-autumn-winter?variant=42666640932925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2c892119e8de4b318b111c508923f793l.webp?v=1761597838
     Price: $45.00 USD
 - [Women's Winter Wool Coat Trench Jacket - Stylish & Warm | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket): Discover the ultimate Women's Winter Wool Coat Trench Jacket. Stay warm and fashionable with our slim long overcoat, designed for all body types. Perfect for the winter season.
-  Updated: 2025-10-28T08:46:37Z
+  Updated: 2025-10-31T17:27:26Z
   Vendor: ATTIK WEAR
   Product Type: coats
   Availability: Available
@@ -9187,22 +9187,22 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Purple / XXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642571325)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / S](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642604093)
+  - [Beige / S](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642604093)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / XL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642636861)
+  - [Beige / XL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642636861)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / XXXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642669629)
+  - [Beige / XXXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642669629)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / M](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642702397)
+  - [Beige / M](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642702397)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / L](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642735165)
+  - [Beige / L](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642735165)
     Availability: Available
     Price: $51.00 USD
-  - [Khaki / XXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642767933)
+  - [Beige / XXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642767933)
     Availability: Available
     Price: $51.00 USD
   - [Black / XXXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642800701)
@@ -9217,8 +9217,8 @@ Types of bags:Handbags &amp; Crossbody bags
   - [Black / XXL](https://attikk-wear.myshopify.com/products/womens-winter-wool-coat-trench-jacket?variant=42666642899005)
     Availability: Available
     Price: $51.00 USD
-- [Stylish High Heeled Ankle Boots for Women](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style): Shop our Fashion Ankle Boots for Women featuring a high heel, side zipper, and cozy design perfect for autumn and winter. Elevate your style effortlessly!
-  Updated: 2025-10-31T15:48:37Z
+- [Stylish High Heeled Ankle Boots for Women| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style): Shop our Fashion Ankle Boots for Women featuring a high heel, side zipper, and cozy design perfect for autumn and winter. Elevate your style effortlessly!
+  Updated: 2025-10-31T17:17:12Z
   Vendor: ATTIK WEAR
   Product Type: Ankle Boots
   Availability: Available
@@ -9267,27 +9267,27 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S369488e640604104bff6166cb1d0afa6K.webp?v=1761671317
     Price: $52.81 USD
-  - [black / 35](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257097277)
+  - [Black / 35](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257097277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 36](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257130045)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257130045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 33](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257162813)
+  - [Black / 33](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257162813)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 34](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257195581)
+  - [Black / 34](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257195581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 32](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257228349)
+  - [Black / 32](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257228349)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 43](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257261117)
+  - [Black / 43](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257261117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
@@ -9295,32 +9295,32 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S369488e640604104bff6166cb1d0afa6K.webp?v=1761671317
     Price: $52.81 USD
-  - [black / 41](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257326653)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257326653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 42](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257359421)
+  - [Black / 42](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257359421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 39](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257392189)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257392189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 40](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257424957)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257424957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 37](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257457725)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257457725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-  - [black / 38](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257490493)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/fashion-ankle-boots-women-high-heeled-side-zipper-autumn-winter-style?variant=42669257490493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdba97dd0979145b3ba7b247ee3d0e1a36.webp?v=1761671318
     Price: $52.81 USD
-- [Eilyken Tassel Thigh High Women Shoes | Sexy Over-the-Knee Boots](https://attikk-wear.myshopify.com/products/eilyken-new-fashion-designer-tassel-thigh-high-women-shoes): Discover the Eilyken Tassel Thigh High Women Shoes featuring a sleek design, comfortable fit, and sexy pointed toe. Elevate your style with these must-have over-the-knee boots.
-  Updated: 2025-10-31T15:48:25Z
+- [Eilyken Tassel Thigh High Women Shoes | Sexy Over-the-Knee Boots| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/eilyken-new-fashion-designer-tassel-thigh-high-women-shoes): Discover the Eilyken Tassel Thigh High Women Shoes featuring a sleek design, comfortable fit, and sexy pointed toe. Elevate your style with these must-have over-the-knee boots.
+  Updated: 2025-10-31T17:13:36Z
   Vendor: ATTIK WEAR
   Product Type: thigh high boots
   Availability: Available
@@ -9357,41 +9357,41 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S66f54b2abd264438b2677657c6a78a0b2.webp?v=1761674768
     Price: $81.54 USD
-- [2024 Women Punk Gothic Motorcycle Boots - Stylish & Comfortable](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots): Discover the 2024 Women Punk Gothic Motorcycle Boots with a chunky high heel and platform design. Perfect for every outfit, these stylish ankle boots provide both comfort and edgy flair.
-  Updated: 2025-10-31T15:48:37Z
+- [Women Punk Gothic Motorcycle Boots - Stylish & Comfortable| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots): Discover the 2024 Women Punk Gothic Motorcycle Boots with a chunky high heel and platform design. Perfect for every outfit, these stylish ankle boots provide both comfort and edgy flair.
+  Updated: 2025-10-31T17:11:11Z
   Vendor: ATTIK WEAR
   Product Type: Ankle Boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd479f85eaa3e4a969dfef4fb23d7f0374.webp?v=1761675029
-  - [Matte black / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305462845)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305462845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305495613)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305495613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305528381)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305528381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305561149)
+  - [Black / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305561149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305593917)
+  - [Black / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305593917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305626685)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305626685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305659453)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305659453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
-  - [Matte black / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305692221)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305692221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
@@ -9415,23 +9415,23 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb0777f4aa9e04134a3b18a3a3d29abd6Z.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305888829)
+  - [Light Pink / 36](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305888829)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305921597)
+  - [Light Pink / 37](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305921597)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305954365)
+  - [Light Pink / 38](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305954365)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305987133)
+  - [Light Pink / 39](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669305987133)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306019901)
+  - [Light Pink / 35](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306019901)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
@@ -9451,19 +9451,19 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb0777f4aa9e04134a3b18a3a3d29abd6Z.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306183741)
+  - [Light Pink / 40](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306183741)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306216509)
+  - [Light Pink / 41](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306216509)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306249277)
+  - [Light Pink / 42](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306249277)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
-  - [light pink / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306282045)
+  - [Light Pink / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306282045)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf57e6a4981834d79a6178e38eee456d2d.webp?v=1761675030
     Price: $67.99 USD
@@ -9483,7 +9483,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1761675030
     Price: $67.99 USD
-  - [Matte black / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306445885)
+  - [Black / 43](https://attikk-wear.myshopify.com/products/2024-women-punk-gothic-motorcycle-boots?variant=42669306445885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S5f525fd88c214157adeb472c9ff2281fX.webp?v=1761675031
     Price: $67.99 USD
@@ -9507,8 +9507,8 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9a279eb3d7cb482ebda20acd33dd9bb3D.webp?v=1761675030
     Price: $67.99 USD
-- [Liyke 2025 Autumn Winter Over The Knee Boots for Women](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots): Shop Liyke's 2025 Autumn Winter Over The Knee Boots, featuring a stylish pointed toe, zip closure, and square heels. Perfect for any occasion!
-  Updated: 2025-10-31T15:48:37Z
+- [2025 Autumn Winter Over The Knee Boots for Women| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/liykke-2025-autumn-winter-over-the-knee-boots): Shop Liyke's 2025 Autumn Winter Over The Knee Boots, featuring a stylish pointed toe, zip closure, and square heels. Perfect for any occasion!
+  Updated: 2025-10-31T17:04:45Z
   Vendor: ATTIK WEAR
   Product Type: over the knee
   Availability: Available
@@ -9641,50 +9641,50 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S299b1c17a1134c1990f90c3d26ac5027Y.webp?v=1761681856
     Price: $72.15 USD
-- [Large Size 42 Sexy Super High Heels for Women - Stylish & Comfortable](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock): Discover our Large Size 42 Sexy Super High Heels Shoes for women. Crafted for comfort and elegance, these black flock ankle buckle pumps are perfect for any occasion.
-  Updated: 2025-10-31T15:48:37Z
+- [Round Toe Black Suede High Heel - Stylish & Comfortable| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock): Discover our Large Size 42 Sexy Super High Heels Shoes for women. Crafted for comfort and elegance, these black flock ankle buckle pumps are perfect for any occasion.
+  Updated: 2025-10-31T16:57:52Z
   Vendor: ATTIK WEAR
-  Product Type: 
+  Product Type: high heels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
-  - [black / 42](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601325117)
+  - [Black / 42](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601325117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 41](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601357885)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601357885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 40](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601390653)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601390653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 39](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601423421)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601423421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 38](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601456189)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601456189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 37](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601488957)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601488957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 36](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601521725)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601521725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 35](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601554493)
+  - [Black / 35](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601554493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-  - [black / 34](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601587261)
+  - [Black / 34](https://attikk-wear.myshopify.com/products/large-size-42-sexy-super-high-heels-shoes-black-flock?variant=42669601587261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7ee303ffaffc47e3b76f6db77515860aG.webp?v=1761682307
     Price: $46.84 USD
-- [Shop Women's Sharp Tip Over-The-Knee High Heel Boots](https://attikk-wear.myshopify.com/products/womens-sharp-tip-over-the-knee-high-heel-boots): Discover the perfect blend of comfort and style with our Women's Sharp Tip Over-The-Knee High Heel Boots. Elevate your wardrobe today!
-  Updated: 2025-10-31T15:48:25Z
+- [Shop Women's Sharp Tip Over-The-Knee High Heel Boots| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-sharp-tip-over-the-knee-high-heel-boots): Discover the perfect blend of comfort and style with our Women's Sharp Tip Over-The-Knee High Heel Boots. Elevate your wardrobe today!
+  Updated: 2025-10-31T16:53:55Z
   Vendor: ATTIK WEAR
   Product Type: over the knee
   Availability: Available
@@ -9793,8 +9793,8 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S85467fac3df84edfbdfbe18be0c6b92bf.webp?v=1761682617
     Price: $82.56 USD
-- [ORCHA LISA Women Winter Fur Knee High Heel Boots](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots): Discover the stylish ORCHA LISA Women Winter Thick Fur Knee High Heel PU Leather Riding Boots. Stay warm and chic with this durable and comfortable winter footwear.
-  Updated: 2025-10-31T15:48:37Z
+- [ORCHA LISA Women Winter Fur Knee High Heel Boots| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots): Discover the stylish ORCHA LISA Women Winter Thick Fur Knee High Heel PU Leather Riding Boots. Stay warm and chic with this durable and comfortable winter footwear.
+  Updated: 2025-10-31T16:47:39Z
   Vendor: ATTIK WEAR
   Product Type: knee high boots
   Availability: Available
@@ -9871,19 +9871,19 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ca418a1c0be419eb614457de6e320ddR.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 40](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681344573)
+  - [Beige / 40](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681344573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 41](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681377341)
+  - [Beige / 41](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681377341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 42](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681410109)
+  - [Beige / 42](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681410109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 43](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681442877)
+  - [Beige / 43](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681442877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
@@ -9895,285 +9895,229 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S00a34c9826a44f30a0612007a128eca9o.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 34](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681541181)
+  - [Beige / 34](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681541181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 35](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681573949)
+  - [Beige / 35](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681573949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 36](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681606717)
+  - [Beige / 36](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681606717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 37](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681639485)
+  - [Beige / 37](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681639485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 38](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681672253)
+  - [Beige / 38](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681672253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-  - [Khaki / 39](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681705021)
+  - [Beige / 39](https://attikk-wear.myshopify.com/products/orcha-lisa-women-winter-thick-fur-knee-high-heel-boots?variant=42669681705021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e97f4be5cba4ab9b1f2852693daea29L.webp?v=1761687115
     Price: $72.10 USD
-- [Women Flat Platform Zipper Shoes - Comfortable Ankle Boots](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes): Shop Women Flat Platform Zipper Shoes for unmatched comfort and style. Perfect for outdoor adventures, these anti-slip ankle boots feature a round toe design and are crafted for all-day wear.
-  Updated: 2025-10-29T09:41:30Z
+- [Comfortable Round Toe Knee High Ankle Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes): Shop Women Flat Platform Zipper Shoes for unmatched comfort and style. Perfect for outdoor adventures, these anti-slip ankle boots feature a round toe design and are crafted for all-day wear.
+  Updated: 2025-10-31T16:41:40Z
   Vendor: ATTIK WEAR
   Product Type: knee high boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
-  - [black / 36](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711884349)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711884349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 37](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711917117)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711917117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 41](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711949885)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711949885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 40](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711982653)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669711982653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 39](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712015421)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712015421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 38](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712048189)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712048189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 43](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712080957)
+  - [Black / 43](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712080957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-  - [black / 42](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712113725)
+  - [Black / 42](https://attikk-wear.myshopify.com/products/women-flat-platform-zipper-shoes?variant=42669712113725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1b0b577fa407498bb3293d074f087fbdr.webp?v=1761687682
     Price: $84.56 USD
-- [Elegant Black Matte Leather Stiletto Pumps for Women](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps): Discover the perfect blend of style and comfort with our Women Elegant Black Matte Leather Stiletto Heel Pumps. Ideal for any occasion, these heels make you feel confident and chic.
-  Updated: 2025-10-31T15:48:37Z
+- [Women Elegant Black Matte Leather Stiletto Heel Pumps| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps): Step into elegance with our Women Elegant Black Matte Leather Stiletto Heel Pumps. Crafted from luxurious matte leather, these pumps feature a chic pointed toe and a sophisticated cross lace-up design. With an 11cm heel that elevates your silhouette and a secure, comfortable fit, these versatile shoes are perfect for any event. Whether at a wedding, cocktail party, or office, make a lasting impression with style and comfort.
+  Updated: 2025-10-31T16:35:18Z
   Vendor: ATTIK WEAR
   Product Type: high heels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
-  - [customize colors / 44](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728661565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 45](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728694333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 42](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728727101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 43](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728759869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 40](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728792637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 41](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728825405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 38](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728858173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 39](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728890941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 46](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728923709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [customize colors / 47](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728956477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [black / 34](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728989245)
+  - [Black / 44](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729513533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 38](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729022013)
+  - [Black / 45](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729447997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 37](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729054781)
+  - [Black / 42](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729153085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 36](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729087549)
+  - [Black / 43](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729546301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 35](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729120317)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729284157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 42](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729153085)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729218621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [customize colors / 36](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729185853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [black / 41](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729218621)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729022013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [customize colors / 37](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729251389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [black / 40](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729284157)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729349693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [customize colors / 34](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729316925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [black / 39](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729349693)
+  - [Black / 46](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729415229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [customize colors / 35](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729382461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd1f2ba4da25b42c0ba09fb704b8bed8a7.webp?v=1761688429
-    Price: $102.52 USD
-  - [black / 46](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729415229)
+  - [Black / 47](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729480765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 45](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729447997)
+  - [Black / 34](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669728989245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 47](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729480765)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729054781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 44](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729513533)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729087549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-  - [black / 43](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729546301)
+  - [Black / 35](https://attikk-wear.myshopify.com/products/women-elegant-black-matte-leather-stiletto-heel-pumps?variant=42669729120317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se214122e0d9e47028f70a6bcfc618abcO.webp?v=1761688429
     Price: $102.52 USD
-- [High Heel Women Sandals - Stylish Black Stilettos| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap): Discover comfort and elegance with our High Heel Women Sandals. Featuring an ankle strap and 8CM heels, they’re perfect for any occasion.
-  Updated: 2025-10-31T15:52:41Z
+- [High Heel Women Sandals - Elevate Your Style with Black Stilettos| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap): Discover sophistication with our High Heel Women Sandals, featuring sleek black stilettos and an elegant ankle strap. Perfect for any occasion, these sandals combine comfort and style, enhancing your silhouette with a striking 8CM heel. Experience effortless elegance and confidence at summer gatherings and casual outings alike.
+  Updated: 2025-10-31T16:29:22Z
   Vendor: ATTIK WEAR
   Product Type: high heel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa48d1349a42849a8989efb3ec148e0aam.webp?v=1761688696
-  - [23020 / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756252221)
+  - [rose / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756252221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756284989)
+  - [rose / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756284989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756317757)
+  - [rose / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756317757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756350525)
+  - [rose / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756350525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756383293)
+  - [rose / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756383293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 1 / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756416061)
+  - [turquoise / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756416061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [23020 1 / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756448829)
+  - [turquoise / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756448829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [23020 / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756481597)
+  - [rose / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756481597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2ea9d7c279e04f3d964f09d4ce564a60o.webp?v=1761688696
     Price: $55.35 USD
-  - [23020 1 / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756514365)
+  - [turquoise / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756514365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756547133)
+  - [Black / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756547133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [23020 1 / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756579901)
+  - [turquoise / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756579901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756612669)
+  - [Black / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756612669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756645437)
+  - [Black / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756645437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [23020 1 / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756678205)
+  - [turquoise / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756678205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756710973)
+  - [Black / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756710973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [23020 1 / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756743741)
+  - [turquoise / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756743741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S7657d543f7fb4347b071c200aeb03eceh.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756776509)
+  - [Multicolor / 36](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756776509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756809277)
+  - [Multicolor / 37](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756809277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756842045)
+  - [Black / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756842045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-022 / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756874813)
+  - [Black / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756874813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seabd2495fd824da19344c9297f4e2cf3c.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756907581)
+  - [Multicolor / 40](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756907581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756940349)
+  - [Multicolor / 41](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756940349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756973117)
+  - [Multicolor / 38](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669756973117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
-  - [KX-058  Color / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669757005885)
+  - [Multicolor / 39](https://attikk-wear.myshopify.com/products/high-heel-women-sandals-black-stilettos-with-ankle-strap?variant=42669757005885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa3beaf3a44304e9498c391305a0c7747K.webp?v=1761688697
     Price: $55.35 USD
@@ -10769,13 +10713,13 @@ Types of bags:Handbags &amp; Crossbody bags
   Updated: 2025-10-18T21:27:52Z
   Total Products: 0
 - [The BOOT Collection](https://attikk-wear.myshopify.com/collections/stiletto-boots-flat-boots): Step into Style with Our Exquisite Boot Collection Elevate your footwear game with our diverse range of boots designed to suit every occasion and trend. From chic ankle boots perfect for a casual day out to elegant stilettos that add a touch of glam to any outfit, our collection has it all. Discover the comfort of flat boots for relaxed weekends, or go bold with platform boots that make a statement wherever you go. For the adventurous spirit, our sturdy hiking boots combine durability with style, ready for your next outdoor exploration. Each pair is crafted with attention to detail and quality, ensuring you not only look great but feel confident with every step. Find your perfect pair and stride with style!
-  Updated: 2025-10-28T22:29:38Z
+  Updated: 2025-10-31T17:17:09Z
   Total Products: 20
 - [STILETTOS & PLATFORMS](https://attikk-wear.myshopify.com/collections/stilettos): Step Into Power, Height, And Unapologetic Glamour With Our STILETTOS Collection! A Fierce lineup of sky-high heels designed to turn heads and command every room. Featuring ultra-spiked heels and bold platform soles, these stilettos fuse daring elegance with seductive edge. Available in a spectrum of striking colors, each pair delivers height, confidence, and style with every step.
   Updated: 2025-10-26T18:10:54Z
   Total Products: 10
 - [HIGH HEELS](https://attikk-wear.myshopify.com/collections/pumps)
-  Updated: 2025-10-31T15:51:24Z
+  Updated: 2025-10-31T16:57:11Z
   Total Products: 10
 - [MIX & MATCH](https://attikk-wear.myshopify.com/collections/mix-match): Create Your Own Vibe With The MIX & MATCH Collection! A curated selection of must-have separates made to style your way. From flirty skirts and statement shorts to cozy sweater tops and off-shoulder showstoppers, this collection is all about versatility and attitude. Layer it up, dress it down, or style it bold
   Updated: 2025-10-21T22:46:35Z
@@ -10790,7 +10734,7 @@ Types of bags:Handbags &amp; Crossbody bags
   Updated: 2025-10-28T00:04:50Z
   Total Products: 7
 - [Boots](https://attikk-wear.myshopify.com/collections/ankle-boots-collection): Street Luxe Energy! This collection is fierce, feminine and unapologetically bold. Crafted to elevate your look from casual cool to hot motorcycle babe. Our flat knee high boots, chunky heeled sole or our high wedged classics are designed for the woman who doesnt just walk - she dominates the room with!
-  Updated: 2025-10-28T22:29:38Z
+  Updated: 2025-10-31T17:17:09Z
   Total Products: 32
 - [Sexy Dresses](https://attikk-wear.myshopify.com/collections/sexy-dresses)
   Updated: 2025-10-28T17:01:31Z
