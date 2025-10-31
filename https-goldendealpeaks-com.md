@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-16T21:32:57Z
 - Contact Email: support@goldendealpeaks.com
-- Updated At: 2025-10-31T00:00:32.338Z
+- Updated At: 2025-10-31T08:01:03.962Z
 
 ## Products
 
@@ -253,7 +253,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/S91264e985a0b4eabacf366cc9f7f2924b.webp?v=1758317661
     Price: $6.49 USD
 - [Golden Deal Peaks™ Kids’ Halloween Temporary Tattoos (10 Sheets)](https://goldendealpeaks.com/products/golden-deal-peaks™-kids-halloween-temporary-tattoos-10-sheets): Make spooky season extra fun—mess-free and party-ready. The Golden Deal Peaks™ Halloween tattoo sticker set lets kids dress up with festive designs in seconds, then wash them off just as easily after the celebration. Highlights 10-sheet value set: plenty to share for parties, trick-or-treat, and classroom funQuick to apply, easy to remove: add water to apply; remove with baby oil, makeup remover, or soap and waterNon-permanent play: costume-ready looks without the hassle of face paintLightweight & portable: slip a few sheets into goody bags or travel kits Specs Brand: Golden Deal Peaks™Pieces: 1 set = 10 sheets of tattoo stickersSheet size: 12 × 6.8 cm (≈ 4.7" × 2.7") eachWeight: ~18 g per set (≈ 1.7 g per sheet)Packaging: Retail pack of 10 sheets · Imported How to apply Clean and dry the skin.Cut out the design and peel off the clear film.Place tattoo image-side down on skin.Press with a wet cloth for 15–30 seconds.Peel the backing slowly to reveal the design.To remove: rub gently with baby oil or makeup remover, then wash with soap and water. Care & safety notes For external use only; avoid eyes, mouth, and broken or sensitive skin.If irritation occurs, discontinue use and cleanse the area.Adult supervision recommended for young children.Store flat in a cool, dry place.
-  Updated: 2025-10-29T06:44:35Z
+  Updated: 2025-10-31T06:45:55Z
   Vendor: Golden Deal Peaks
   Product Type: 
   Availability: Available
