@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-31T08:00:48.782Z
+- Updated At: 2025-10-31T12:01:08.034Z
 
 ## Products
 
@@ -8665,7 +8665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/white-glossy-mug-white-15oz-handle-on-right-64b2ac3ee4128.jpg?v=1689431109
     Price: £27.99 GBP
 - [Mountains & clouds - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-ethical-stainless-steel-water-bottle): Mountains & clouds - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle This 17-ounce, double-walled stainless steel water bottle is perfect for your daily outings. It will keep your drink of choice hot or cold for hours. It also features an odor- and leak-proof cap. Throw it in your car's cup holder on your way to work, take it with you on hikes, or toss it in your bag for any time you get thirsty. • High-grade stainless steel • 17 oz (500 ml) • Dimensions: 10.5″ × 2.85″ (27 × 7 cm) • Vacuum flask • Double-wall construction • Bowling pin shape • Glossy finish • Odorless and leak-proof cap • Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h) • Patented ORCA coating for vibrant colors • Hand-wash only • Blank product sourced from China Disclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:01Z
+  Updated: 2025-10-31T08:13:01Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -10015,7 +10015,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-essential-eco-hoodie-white-front-6491193e0db3e.jpg?v=1688015253
     Price: £66.99 GBP
 - [Richmond - Waterloo II - Hibiscus Surfwear - Mens organic cotton hoodie](https://www.hibiscussurfwear.com/products/richmond-waterloo-ii-hibiscus-surfwear-mens-organic-cotton-hoodie): Richmond - Waterloo II - Hibiscus Surfwear - Mens organic cotton hoodie Thanks to its organic materials, the unisex essential eco hoodie is a great buy for eco-conscious fashion lovers. This comfortable regular fit hoodie has a double-layered hood, set-in sleeves, and a front pouch pocket.• 100% organic cotton• Fabric weight: 10.32 oz./yd.² (350 g/m²)• Regular fit• Set-in sleeves• Self-fabric double-layered hood• Front pouch pocket• 1×1 rib at sleeve hem and bottom hem• Single needle topstitch at neckline and along hood opening• Metal eyelets• Inside tape at the back of the neck• Self-fabric half-moon at the back of the neck• Download eco-friendly product certificates• Blank product sourced from BangladeshThe sizes correspond to a smaller size in the US market, so US customers should order a size up.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (inches) BODY LENGTH (inches) SLEEVE LENGTH (inches) S 20 ¼ 26 ¾ 25 ¼ M 21 ¼ 28 ¼ 25 ¾ L 22 ⅜ 29 ⅛ 26 ⅜ XL 23 ⅝ 29 ⅞ 27.0 2XL 24 ¾ 30 ¾ 27 ⅝ CHEST WIDTH (cm) BODY LENGTH (cm) SLEEVE LENGTH (cm) S 51.6 68 64 M 54.1 71.9 65.5 L 56.9 74 67 XL 60 76 68.6 2XL 63 78 70
-  Updated: 2025-10-01T06:44:20Z
+  Updated: 2025-10-31T10:59:07Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
