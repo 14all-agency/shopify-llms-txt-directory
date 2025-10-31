@@ -5,115 +5,157 @@
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-08-22T01:54:20Z
-- Updated At: 2025-10-31T05:52:50.456Z
+- Updated At: 2025-10-31T12:00:33.393Z
 
 ## Products
 
-- [Jeu de 78 Cartes de Tarot avec Livre Guide, Ensemble Cadeau Noir de Tarot avec Chiffon, Pierres de Chakra et Plus, Jeu de Cartes de Divination en Carton pour Débutants et Lecteurs Experts](https://enchantementseraphelya.com/products/jeu-de-78-cartes-de-tarot-avec-livre-guide-ensemble-cadeau-noir-de-tarot-avec-chiffon-pierres-de-chakra-et-plus-jeu-de-cartes-de-divination-en-carton-pour-debutants-et-lecteurs-experts): [☪ 78 CARTES DE TAROT CLASSIQUES NOIRES : Les cartes de tarot SUGEYA ont un design unique et un aspect original inspiré des cartes de tarot traditionnelles, combiné à des images uniques et des symboles mystiques. Elles sont parfaites pour les débutants comme pour les lecteurs experts. Ce jeu est un outil puissant de divination pour vous aider à vous connecter à votre moi supérieur et vous apporter des guidances de sources cosmiques. ☪ ENSEMBLE ULTIME DE CARTES DE TAROT : Le kit est livré dans une belle boîte cadeau et comprend de nombreux extras, dont 78 belles cartes de tarot, un guide approfondi, un sac de cartes de tarot en velours premium, trois supports de carte de tarot, sept pierres de chakra de couleurs, un pendentif en pierre de chakra, une nappe de divination, trois plumes décoratives et des cloches à manivelle. Vous aurez l'impression de participer à un rituel personnel chaque fois que vous prendrez votre jeu de tarot. ☪ CARTES DE TAROT DURABLES ET ÉPAISSES DE QUALITÉ SUPÉRIEURE : Le jeu de tarot original SUGEYA mesure 4,75" × 2,75" et est fabriqué à partir d'un carton épais durable de 350 GSM de haute qualité qui résistera à des années d'utilisation régulière. La surface lisse ultra-glossy de haute qualité rend les cartes super faciles à mélanger et exceptionnellement confortables au toucher, agréables dans votre main et un rêve à étaler et à lire. Rend l'utilisation agréable pour tout niveau d'enthousiaste de cartes de tarot. ☪ CARTES DE TAROT AVEC GUIDE : Des guides imprimés reliés sont accompagnés par des images en couleur pleine page de chaque carte et des explications détaillées de leurs significations. Des guides approfondis décomposent le symbolisme de chaque carte pour aider ceux qui sont nouveaux dans le monde du tarot à comprendre cet art mystique. Vous guider vers la connexion, la guérison, l’intuition, et même des conseils pour votre quotidien ! ☪ CADEAU EXQUIS : L'ensemble de cartes de tarot SUGEYA est le cadeau parfait pour quiconque, chaque carte est créée avec énergie positive et amour. Tous les articles sont soigneusement emballés et vérifiés avant l'expédition. Si il y a un problème, veuillez nous contacter pour de l'aide, nous vous répondrons sous 24 heures et vous fournirons le service adéquat !]
-  Updated: 2025-10-31T05:44:02Z
+- [Jeu de 78 Cartes de Tarot avec Livre Guide, Ensemble Cadeau Noir de Tarot avec Chiffon, Pierres de Chakra et Plus, Jeu de Cartes de Divination en Carton pour Débutants et Lecteurs Experts - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jeu-de-78-cartes-de-tarot-avec-livre-guide-ensemble-cadeau-noir-de-tarot-avec-chiffon-pierres-de-chakra-et-plus-jeu-de-cartes-de-divination-en-carton-pour-debutants-et-lecteurs-experts): Buy Jeu de 78 Cartes de Tarot avec Livre Guide, Ensemble Cadeau Noir de Tarot avec Chiffon, Pierres de Chakra et Plus, Jeu de Cartes de Divination en Carton pour Débutants et Lecteurs Experts for only CA$109.48 at Enchantement Seraphélya!
+  Updated: 2025-10-31T07:45:54Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9454130.webp?v=1761852698
   Price: 109,48 $ CAD
-- [NexUap Angel Numbers Oracle CardsAngel Oracle DeckOracle Cards for Beginners400 GSM Coated Paper Oracle CardsLife Oracle CardsFamily Party Oracle Cards](https://enchantementseraphelya.com/products/nexuap-angel-numbers-oracle-cardsangel-oracle-deckoracle-cards-for-beginners400-gsm-coated-paper-oracle-cardslife-oracle-cardsfamily-party-oracle-cards): [🔮【Angel Numbers Oracle Cards】These exquisitely curated Angel Numbers Oracle Cards bring profound messages to astutely guide and divinely uplift you facilitating you to live life in the most optimal way possible. 👜【Angel Oracle Deck】Presenting a magnificently crafted 52-card Angel Oracle Deck each card painstakingly featuring a distinct angel number evocative keywords and an inspired channeled message to powerfully empower deeply inspire and significantly uplift. 👌🏼【Oracle Cards for Beginners】Angel Numbers not only signal new beginningsblossoming love or newfound wealth; rather offering sagacious tips on what to do and how to deftly handle yourself your life and your circumstances on your behalf. ❤️【400 Gsm Coated Paper】Boasting Tarot Cards sized at 2.75" x 4.72" (70 mm x 120 mm) this sumptuously designed set of Oracle Cards is ideally suited for both fledgling and seasoned readers being exceptionally novice-friendly to expedite your initiation. ⭐️【Best choice】It is the ultimate family party game for you and your cherished friends providing delightful entertainment on a plethora of occasions such as Thanksgiving Christmas Easter Independence Day and Halloween.]
-  Updated: 2025-10-31T05:44:02Z
+- [NexUap Angel Numbers Oracle CardsAngel Oracle DeckOracle Cards for Beginners400 GSM Coated Paper Oracle CardsLife Oracle CardsFamily Party Oracle Cards - Enchantement Seraphélya](https://enchantementseraphelya.com/products/nexuap-angel-numbers-oracle-cardsangel-oracle-deckoracle-cards-for-beginners400-gsm-coated-paper-oracle-cardslife-oracle-cardsfamily-party-oracle-cards): Buy NexUap Angel Numbers Oracle CardsAngel Oracle DeckOracle Cards for Beginners400 GSM Coated Paper Oracle CardsLife Oracle CardsFamily Party Oracle Cards for only CA$54.71 at Enchantement Seraphélya!
+  Updated: 2025-10-31T07:45:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7507299.webp?v=1761852697
   Price: 54,71 $ CAD
-- [Knana Ensemble de 6 Pièces avec Planche de Pendule, Cristal pour Radiesthésie, Dés de Tarot et Dés d'Astrologie avec Boîte, Cadeaux de Tarot pour Femmes, Fournitures et Outils Wiccans, Divination par Tarot pour Débutants](https://enchantementseraphelya.com/products/knana-ensemble-de-6-pieces-avec-planche-de-pendule-cristal-pour-radiesthesie-des-de-tarot-et-des-dastrologie-avec-boite-cadeaux-de-tarot-pour-femmes-fournitures-et-outils-wiccans-divination-par-tarot-pour-debutants): [Ensemble de Pendule Tarot - Vous recevrez 3 dés gravés de signes tarot en résine, un pendule d'améthyste, une planche de divination et une petite boîte de rangement vintage, vous offrant tout ce dont vous avez besoin pour la divination. Taille du Pendule - La boîte à cartes tarot mesure environ 8x7x6 cm, qui peut être utilisée pour placer de petits objets tels que des pendules ou des dés de tarot nécessaires pour la divination. La planche à balancier mesure environ 21,6 cm, est légère et facile à transporter et peut être placée partout où vous le souhaitez. Matériel en Bois - La planche de pendules et la boîte sont en bois, robustes et durables. Le collier en cristal est fait d'améthyste. Il est à la fois classique et élégant. Il peut être utilisé pour décorer votre sac ou pour assortir à vos vêtements quotidiens. Divination Précise - Chaque dé à 12 faces de cet ensemble correspond à une constellation et une planète. Utilisez la planche de pendule et le pendule pour la divination pour obtenir facilement des résultats de divination. Il convient très bien aux débutants en cartes de tarot. Accessoires de Tarot - Que vous soyez un débutant en cartes de Tarot ou un passionné expérimenté, cet ensemble de jeux de cartes de Tarot crée une atmosphère mystérieuse pour vous et répond aux accessoires de Tarot dont vous avez besoin pour la divination quotidienne]
-  Updated: 2025-10-31T05:44:03Z
+- [Knana Ensemble de 6 Pièces avec Planche de Pendule, Cristal pour Radiesthésie, Dés de Tarot et Dés d'Astrologie avec Boîte, Cadeaux de Tarot pour Femmes, Fournitures et Outils Wiccans, Divination par Tarot pour Débutants - Enchantement Seraphélya](https://enchantementseraphelya.com/products/knana-ensemble-de-6-pieces-avec-planche-de-pendule-cristal-pour-radiesthesie-des-de-tarot-et-des-dastrologie-avec-boite-cadeaux-de-tarot-pour-femmes-fournitures-et-outils-wiccans-divination-par-tarot-pour-debutants): Buy Knana Ensemble de 6 Pièces avec Planche de Pendule, Cristal pour Radiesthésie, Dés de Tarot et Dés d'Astrologie avec Boîte, Cadeaux de Tarot pour Femmes, Fournitures et Outils Wiccans, Divination par Tarot pour Débutants for only CA$66.17 at Enchantement Seraphélya!
+  Updated: 2025-10-31T07:45:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4160850.webp?v=1761852697
   Price: 66,17 $ CAD
-- [Money Manifestation: A Wealth Oracle - Messages from The Universe to Guide You Towards Abundance Prosperity and Success - Deck of 60 Career Oracle Cards with Meanings on Them](https://enchantementseraphelya.com/products/money-manifestation-a-wealth-oracle-messages-from-the-universe-to-guide-you-towards-abundance-prosperity-and-success-deck-of-60-career-oracle-cards-with-meanings-on-them): [CONTENTS] Money Manifestation: A Wealth Oracle (Messages from the Universe to Guide You on Your Journey Towards Wealth & Prosperity by Metaphoracle / 60 Oracle Cards with metallic gold foil detailing + Guide Cards) / For beginners and professional psychic readers alike / Standard Tarot size (2.75 inches x 4.75 inches) [SUMMARY] If you believe that your mindset affects your reality this business & career oracle is for you. Discover the mindset shifts that can catapult you into a vortex of greater wealth and alignment. Set your intention to live a life of prosperity and let this oracle deck be your companion while brainstorming journaling and meditating on your abundant future. [DISCLAIMER] This product is for entertainment and divination purposes only. It does not offer financial advice. It is designed to help you improve your mindset to attract abundance through the power of positivity intention and awareness.
-  Updated: 2025-10-31T05:44:03Z
+- [Money Manifestation: A Wealth Oracle - Messages from The Universe to Guide You Towards Abundance Prosperity and Success - Deck of 60 Career Oracle Cards with Meanings on Them - Enchantement Seraphélya](https://enchantementseraphelya.com/products/money-manifestation-a-wealth-oracle-messages-from-the-universe-to-guide-you-towards-abundance-prosperity-and-success-deck-of-60-career-oracle-cards-with-meanings-on-them): Buy Money Manifestation: A Wealth Oracle - Messages from The Universe to Guide You Towards Abundance Prosperity and Success - Deck of 60 Career Oracle Cards with Meanings on Them for only CA$67.27 at Enchantement Seraphélya!
+  Updated: 2025-10-31T08:10:49Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8799944.webp?v=1761852697
   Price: 67,27 $ CAD
-- [IXIGER Tarot Cards Set with Guide BookTarot Cards for BeginnersTarot Cards Deck with Meanings on ThemLearning Tarot Deck Fortune Telling Game with Velvet Tarot Bag and Chakra Stone](https://enchantementseraphelya.com/products/ixiger-tarot-cards-set-with-guide-booktarot-cards-for-beginnerstarot-cards-deck-with-meanings-on-themlearning-tarot-deck-fortune-telling-game-with-velvet-tarot-bag-and-chakra-stone): [[Tarot Cards with Guide Book]:Learning Tarot with an guide book of 165 pages with detailed explanations and colourful pictures. to help you deepen your knowledge and provide a guide for further study or to refer to in your spiritual practice. [Tarot Cards for Beginners]:Our tarot cards are specially designed to suit all stages of tarot masters. All cards have both positive and negative meanings. Tarot cards for beginners and experienced readers. [Tarot Cards with Meanings on Them]:I think this tarot deck is the best choice for you it makes it easier to use. Each card has a comprehensive message contains Keywords Reversed Chakra Planet Zodiac Element Yes or No Affirmations... [CLASSIC TAROT DECKS]Tarot Cards Decks Standard Size 4.75" x 2.76"; Advanced rendering technology durable 350 GSM paper and a smooth back make them super easy to shuffle flexible and hardness compatible for long periods of use and collection. Easy to carry. This deck of Tarot cards comes with a Velvet Tarot Bag perfect for carrying in your backpack or pocket when travelling. [Perfect gift]:This Tarot card set is protected by a beautiful tarot box which contains tarot cards and exclusive Tarot card bag seven chakra Stones and exclusive Spiritstone bag are the perfect gift for all festive and non-festive occasions whether for yourself or a loved one a thoughtful and meaningful gift for anyone interested in Tarot Wicca or spirituality.]
-  Updated: 2025-10-31T05:44:03Z
+- [IXIGER Tarot Cards Set with Guide BookTarot Cards for BeginnersTarot Cards Deck with Meanings on ThemLearning Tarot Deck Fortune Telling Game with Velvet Tarot Bag and Chakra Stone - Enchantement Seraphélya](https://enchantementseraphelya.com/products/ixiger-tarot-cards-set-with-guide-booktarot-cards-for-beginnerstarot-cards-deck-with-meanings-on-themlearning-tarot-deck-fortune-telling-game-with-velvet-tarot-bag-and-chakra-stone): Buy IXIGER Tarot Cards Set with Guide BookTarot Cards for BeginnersTarot Cards Deck with Meanings on ThemLearning Tarot Deck Fortune Telling Game with Velvet Tarot Bag and Chakra Stone for only CA$79.56 at Enchantement Seraphélya!
+  Updated: 2025-10-31T07:45:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5262497.webp?v=1761852698
   Price: 79,56 $ CAD
-- [Bougie | Protection et puissance](https://enchantementseraphelya.com/products/bougie-protection-et-puissance): Revenez à votre puissance intérieure avec la bougie en cire d'abeille. Elle purifie les énergies lourdes, restaure la stabilité et attire la protection.
-  Updated: 2025-10-31T05:44:03Z
+- [Bougie | Protection et puissance - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-protection-et-puissance): Revenez à votre puissance intérieure avec la bougie en cire d'abeille. Elle purifie les énergies lourdes, restaure la stabilité et attire la protection.
+  Updated: 2025-10-31T07:45:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9533680.png?v=1761862071
   Price: 12,75 $ CAD
 - [Jade de Succès-pour attirer la réussite et la prospérité](https://enchantementseraphelya.com/products/jade-de-succes-bougie): Découvrez la bougie Jade de Succès, conçu pour attirer la chance, stimuler la réussite professionnelle et ouvrir les voies de la prospérité. Seraphélya
-  Updated: 2025-10-31T05:44:03Z
+  Updated: 2025-10-31T07:45:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3400592.png?v=1761862071
   Price: 12,75 $ CAD
-- [Purification et protection-Nettoyage énergétique et bouclier spirituel](https://enchantementseraphelya.com/products/purification-et-protection-bougie): Purifiez votre espace et éloignez les énergies négatives avec la bougie en cire d'abeille Purification & Protection. Création Enchantement Seraphélya
-  Updated: 2025-10-31T05:44:03Z
+- [Purification et protection-Nettoyage énergétique et bouclier spirituel - Enchantement Seraphélya](https://enchantementseraphelya.com/products/purification-et-protection-bougie): Purifiez votre espace et éloignez les énergies négatives avec la bougie en cire d'abeille Purification & Protection. Création Enchantement Seraphélya
+  Updated: 2025-10-31T07:45:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4595423.png?v=1761862071
   Price: 12,75 $ CAD
-- [Samhain | La flamme du passage entre les mondes](https://enchantementseraphelya.com/products/bougie-noire-de-samhain): Célébrez Samhain, la nuit des ancêtres, avec cette bougie. Symbole de passage et de lumière, elle purifie, protège et ouvre les portes entre les mondes.
-  Updated: 2025-10-31T05:44:04Z
+- [Samhain | La flamme du passage entre les mondes - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-noire-de-samhain): Célébrez Samhain, la nuit des ancêtres, avec cette bougie. Symbole de passage et de lumière, elle purifie, protège et ouvre les portes entre les mondes.
+  Updated: 2025-10-31T07:46:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6032472.png?v=1761862070
   Price: 12,75 $ CAD
-- [Bougie - Amour & Guérison Émotionnelle](https://enchantementseraphelya.com/products/bougie-rose-amour-et-attirance): La bougie Amour et Guérison Émotionnelle apaise les blessure du cœur et attire les énergies d'amour, de pardon et de tendresse. Une flamme douce et naturelle.
-  Updated: 2025-10-31T05:44:04Z
+- [Bougie - Amour & Guérison Émotionnelle - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-rose-amour-et-attirance): La bougie Amour et Guérison Émotionnelle apaise les blessure du cœur et attire les énergies d'amour, de pardon et de tendresse. Une flamme douce et naturelle.
+  Updated: 2025-10-31T07:46:01Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3263750.png?v=1761862071
   Price: 12,75 $ CAD
-- [Bougie - créativité et confiance](https://enchantementseraphelya.com/products/bougie-jaune-creativite-et-confiance): Éveillez votre feu intérieur avec la bougie en cire d'abeille Créativité & Confiance. Sa flamme solaire stimule la joie, la motivation et la clarté d'esprit.
-  Updated: 2025-10-31T05:44:04Z
+- [Bougie - créativité et confiance - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-jaune-creativite-et-confiance): Éveillez votre feu intérieur avec la bougie en cire d'abeille Créativité & Confiance. Sa flamme solaire stimule la joie, la motivation et la clarté d'esprit.
+  Updated: 2025-10-31T07:46:01Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5045170.png?v=1761862071
   Price: 12,75 $ CAD
-- [Bougie - OUIJA : La flamme des communications spirituelles](https://enchantementseraphelya.com/products/bougie-bleue-ouija): Explorez le mystère du Ouija avec la bougie en cire d'abeille bleue. Sa flamme favorise la clarté psychique, la communication spirituelle et la protection.
-  Updated: 2025-10-31T05:44:04Z
+- [Bougie - OUIJA : La flamme des communications spirituelles - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-bleue-ouija): Explorez le mystère du Ouija avec la bougie en cire d'abeille bleue. Sa flamme favorise la clarté psychique, la communication spirituelle et la protection.
+  Updated: 2025-10-31T07:46:02Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8155378.png?v=1761862073
   Price: 12,72 $ CAD
 - [Bougie - Vitalité et créativité | Énergie, motivation et feu intérieur](https://enchantementseraphelya.com/products/vitalite-et-creativite-bougie-orange): Ravivez votre feu intérieur avec la bougie Vitalité & Créativité. Sa flamme solaire réveille la joie, la motivation et l'inspiration. Rituels de dynamisme.
-  Updated: 2025-10-31T05:44:04Z
+  Updated: 2025-10-31T07:46:03Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1619817.png?v=1761862071
   Price: 12,75 $ CAD
-- [bougie - Abondance & Guérison | Rituel de prospérité et de richesse](https://enchantementseraphelya.com/products/abondance-et-richesse-bougie): Allumez la bougie en cire d'abeille vert foncé Abondance & Guérison pour attirer la prospérité et restaurer votre énergie vitale. Enchantement Seraphélya
-  Updated: 2025-10-31T05:44:04Z
+- [bougie - Abondance & Guérison | Rituel de prospérité et de richesse - Enchantement Seraphélya](https://enchantementseraphelya.com/products/abondance-et-richesse-bougie): Allumez la bougie en cire d'abeille vert foncé Abondance & Guérison pour attirer la prospérité et restaurer votre énergie vitale. Enchantement Seraphélya
+  Updated: 2025-10-31T07:46:04Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4218252.png?v=1761862071
   Price: 12,75 $ CAD
-- [Bougie rouge Luciférienne - Flamme du courage et de la transformation](https://enchantementseraphelya.com/products/bougie-rouge-luciferienne): Allumez la bougie rouge luciférienne pour éveiller votre feu intérieur, renforcer votre courage et libérer votre pouvoir personnel. Enchantement Seraphélya
-  Updated: 2025-10-31T05:44:05Z
+- [Bougie rouge Luciférienne - Flamme du courage et de la transformation - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-rouge-luciferienne): Allumez la bougie rouge luciférienne pour éveiller votre feu intérieur, renforcer votre courage et libérer votre pouvoir personnel. Enchantement Seraphélya
+  Updated: 2025-10-31T07:46:04Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2278738.png?v=1761862070
   Price: 12,75 $ CAD
+- [Mini bougie carillon - Enchantement Seraphélya](https://enchantementseraphelya.com/products/mini-bougie-carillon): Buy Mini bougie carillon for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-10-31T11:29:14Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Bougie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/IMG-0220.png?v=1761869995
+  - [Blanc](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111069427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/685910AF-4EDF-4D33-A47C-1100FF396DA8.png?v=1761909289
+    Price: 1,10 $ CAD
+  - [Noir](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111102195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/E35A2E3B-496D-4076-9191-C1B6A6F79EEF.png?v=1761909314
+    Price: 1,10 $ CAD
+  - [Rouge](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111134963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/1E0A9004-0511-46B9-A882-4EF99FC50B67.png?v=1761909342
+    Price: 1,10 $ CAD
+  - [Rose](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111167731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/F8A65151-2881-46BB-877C-2172889A021E.png?v=1761909368
+    Price: 1,10 $ CAD
+  - [Bleu](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111200499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/IMG-0220.png?v=1761869995
+    Price: 1,10 $ CAD
+  - [Vert](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111233267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/35648402-AA00-4ACB-8E9B-BCC601BECBEE.png?v=1761909400
+    Price: 1,10 $ CAD
+  - [Orange](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111266035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/D8654445-0456-429A-8C10-ED442D1923F2.png?v=1761909422
+    Price: 1,10 $ CAD
+  - [Jaune](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111298803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/5F5E3E93-23B4-4DBD-8150-558F3353255A.png?v=1761909449
+    Price: 1,10 $ CAD
+  - [Violette](https://enchantementseraphelya.com/products/mini-bougie-carillon?variant=47980111331571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/0D243BED-50D9-4351-88FD-3136432EC398.png?v=1761909473
+    Price: 1,10 $ CAD
 
 ## Collections
 
@@ -205,8 +247,8 @@
   Updated: 2025-10-31T05:44:04Z
   Total Products: 5
 - [Chandelles/Bougies traditionnelles - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/chandelles-bougies-traditionnelles-2): Chandelles/Bougies traditionnelles - Enchantement Seraphélya
-  Updated: 2025-10-31T05:44:04Z
-  Total Products: 0
+  Updated: 2025-10-31T11:12:11Z
+  Total Products: 1
 - [Kit chandelles rituelles à façonner - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/kit-chandelles-a-faconner): Kit chandelles rituelles à façonner - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:04Z
   Total Products: 0
