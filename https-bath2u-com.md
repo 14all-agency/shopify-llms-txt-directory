@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-31T12:00:38.047Z
+- Updated At: 2025-10-31T16:00:59.848Z
 
 ## Products
 
@@ -1264,7 +1264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTSC08-BL.jpg?v=1675052204
   Price: RM 113.00 MYR
 - [SORENTO Modern Oval Concealed Manual Shower Valve - Matte Black](https://bath2u.com/products/sorento-modern-oval-concealed-manual-shower-valve-matte-black): The modern single lever concealed manual valve, characterised by its sleek stylish handle which controls temperature and flow. Simply lift lever to introduce flow, adjust left or right to set temperature. Operates one bath / shower accessory - bath spout, slide rail kit or shower head.Specifications : Style: Modern Handle: Single Lever Type: Concealed Oval Faceplate Colour/Finish: Matte Black Material: Brass Water Outlet: 1 Technical information : Ceramic disc control for smoother operation Suitable for use with all water systems with an operating pressure 0.5 bar up to 5 bar Hot water temperature 55 to 85 Degrees
-  Updated: 2024-04-18T15:06:18Z
+  Updated: 2025-10-31T13:04:47Z
   Vendor: SORENTO
   Product Type: Concealed Shower
   Availability: Available
@@ -3101,7 +3101,7 @@
     Availability: Available
     Price: RM 538.00 MYR
 - [Docasa A370 P-trap 180mm S-Trap 200mm 250mm Bathroom One Piece Rimless Washdown WC Water Closet 1 Piece Jamban Duduk](https://bath2u.com/products/docasa-a370-p-trap-180mm-s-trap-200mm-250mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk): Specification : Dimension: 680(W) x 360(L) x 755(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-10-31T07:37:12Z
+  Updated: 2025-10-31T13:12:04Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
