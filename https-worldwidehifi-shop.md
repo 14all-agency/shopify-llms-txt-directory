@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-30T08:00:51.529Z
+- Updated At: 2025-10-31T00:00:36.546Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1659,13 +1659,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_68fc2478-948c-4833-aaa1-0d2c12c0d4b6.jpg?v=1754668274
   Price: 1.080,00 € EUR
-- [Accuphase Stereo Control Center C-2410 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/accuphase-stereo-control-center-c-2410-gebraucht-kaufen): Accuphase Stereo Control Center C-2410 gebraucht kaufen ✅ Geprüfte Vorstufe in sehr gutem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:26:59Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9e8b8e09-271b-4fcf-855f-c0045bcf67f2.jpg?v=1754668198
-  Price: 4.980,00 € EUR
 - [Focal Sopra N2 Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/focal-sopra-n2-gebraucht-kaufen): Focal Sopra N2 Lautsprecher gebraucht kaufen ✅ 3-Wege-Standlautsprecher in TOP-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:26:58Z
   Vendor: WorldWideHifi
@@ -1911,13 +1904,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_db72dc4c-e1e6-48ad-86f8-2142dabae936.jpg?v=1755869808
   Price: 89,00 € EUR
-- [Yamaha CD Player CDX 10000 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/yamaha-cd-player-cdx-10000-limited-centennial-edition-gebraucht-kaufen): Yamaha CD Player CDX 10000 gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:57Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7e69ac18-4779-4602-a726-11697428652b.png?v=1756382259
-  Price: 2.630,00 € EUR
 - [Taurus Morgen-T Plattenspieler gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/taurus-morgen-t-alphason-hr-100s-mcs-gebraucht-kaufen): Taurus Morgen-T Plattenspieler gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-09-15T22:27:46Z
   Vendor: WorldWideHiFi
@@ -2261,8 +2247,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-29T11:22:52Z
-  Total Products: 116
+  Updated: 2025-10-30T13:41:35Z
+  Total Products: 118
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
