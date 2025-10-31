@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-10-30T04:00:32.520Z
+- Updated At: 2025-10-31T12:00:32.251Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -953,14 +953,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/less-people-more-dogs-womens-t-shirt-square-dark-aesthetic_c69aba2f-ae89-4745-869c-cd9cf6ca544a.png?v=1761593564
     Price: 349,00 kr SEK
 - [Skuggspel och Ljusregn - Poster🖤](https://darkaestheticstudio.com/products/skuggspel-och-ljusregn): Storlek: 30×40 cm I mötet mellan mörker och glöd föds en atmosfär som talar till det undermedvetna. Ett ensamt ljus kastar mjuka skuggor mot väggar klädda i grönska och glittrande ljusslingor. Ovanför faller ett regn av ljus som ett tyst eko av stjärnor. Denna poster är mer än en plats – det är en känsla. En inbjudan till stillhet, djup och kreativ närvaro. Välkommen in i ett rum där varje detalj är en viskning, och varje ögonblick får andas. Leverans: 1-5 arbetsdagar.
-  Updated: 2025-10-29T05:00:30Z
+  Updated: 2025-10-31T09:41:20Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/skuggspel-och-ljusregn-poster-mockup.png?v=1761670780
   Price: 199,00 kr SEK
 - [Paranoid - Oversize T-shirt🖤](https://darkaestheticstudio.com/products/paranoid-oversize-t-shirt): En unisex t-shirt med attityd och djup.🔴🔵 "Paranoid"-trycket i rödblå 3D-effekt möter en tvättad svart yta som ger en vintagekänsla med edge. Den löst sittande passformen och det tyngre tyget skapar en silhuett som känns både avslappnad och genomtänkt – perfekt för dig som rör dig mellan det råa och det subtila. Leverans: 1-5 arbetsdagar.
-  Updated: 2025-10-29T15:17:53Z
+  Updated: 2025-10-31T09:48:54Z
   Vendor: Dark Aesthetic Studio
   Product Type: T-shirts
   Availability: Available
@@ -1037,29 +1037,29 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/white-flat-lay-right_2.png?v=1761677623
     Price: 349,00 kr SEK
-- [Useless Corpse – Vila med en viskning av mörker.🖤](https://darkaestheticstudio.com/products/useless-corpse-vila-med-en-viskning-av-morker): Ett klassiskt vitt örngott med subtil edge – perfekt som kontrast till mörkare inredning eller som neutral bas i en estetisk studio.Tyget är slitstarkt men behagligt, med en vikt på 190 g/m² som ger en tyngre, lyxigare känsla än standardkvalitet.Egenskaper: 100 % ekologisk bomull Kuvertöppning Maskintvätt 60 °C Passar till standardkudde 50×60 cm
-  Updated: 2025-10-29T06:30:08Z
+- [Useless Corpse – Vila med en viskning av mörker.🖤](https://darkaestheticstudio.com/products/useless-corpse-vila-med-en-viskning-av-morker): Ett klassiskt vitt örngott med subtil edge – perfekt som kontrast till mörkare inredning eller som neutral bas i en estetisk studio. Tyget är slitstarkt men behagligt, med en vikt på 190 g/m² som ger en tyngre, lyxigare känsla än standardkvalitet. Egenskaper: 100 % ekologisk bomull Kuvertöppning Maskintvätt 60 °C Passar till standardkudde 50×60 cm
+  Updated: 2025-10-31T09:00:11Z
   Vendor: Dark Aesthetic Studio
   Product Type: Kudde
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/useless-corpse-detail.png?v=1761677901
   Price: 199,00 kr SEK
 - [Kuddfodral i abstrakt mönster](https://darkaestheticstudio.com/products/kuddfodral-i-abstrakt-monster): Throw Pillow Cover made from 100% spun polyester poplin fabric, a stylish statement that will liven up any room. Individually cut and sewn by hand, the pillow cover measures 16" x 16", features a double-sided print and is finished with a concealed zipper for ease of care. Does not include pillow insert
-  Updated: 2025-10-29T20:31:16Z
+  Updated: 2025-10-31T09:51:09Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/51798103_large_4089e4f8-d98c-458d-bf35-574a150e8161.png?v=1761725622
   Price: 429,00 kr SEK
 - [Butterfly And Moon Dreamcatcher - Mugg](https://darkaestheticstudio.com/products/butterfly-and-moon-dreamcatcher-mugg): Get this cool design for your everyday life! Unisex's ( Mug ). Design by SPIdeals.This Mug has been made for your everyday superior comfort and is made of Ceramic.
-  Updated: 2025-10-29T22:05:30Z
+  Updated: 2025-10-31T09:51:32Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10301119_large_9ed7fef3-9137-45dc-b57c-b01589f85876.png?v=1761725622
   Price: 359,00 kr SEK
 - [Help! Pug Is Stuck! - Mugg](https://darkaestheticstudio.com/products/help-pug-is-stuck-mugg): Get this cute design to wear in Valentine's day! Unisex's ( Mug ). Design by Smartprints.This Mug has been made for your everyday superior comfort and is made of Ceramic.
-  Updated: 2025-10-29T17:11:05Z
+  Updated: 2025-10-31T09:51:43Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -1081,8 +1081,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-29T11:26:38Z
   Total Products: 6
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-10-29T17:10:03Z
-  Total Products: 14
+  Updated: 2025-10-31T09:51:43Z
+  Total Products: 17
 
 ## Store Pages
 
