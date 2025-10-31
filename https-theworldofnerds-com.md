@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-31T00:01:01.059Z
+- Updated At: 2025-10-31T04:00:48.747Z
 
 ## Products
 
@@ -1264,7 +1264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/619.jpg?v=1729861765
   Price: ₹239.00 INR
 - [GROOT AS SUPERMAN KEYCHAIN](https://theworldofnerds.com/products/groot-as-superman-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:11:06Z
+  Updated: 2025-10-31T00:29:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1873,7 +1873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03954.jpg?v=1730116880
   Price: ₹399.00 INR
 - [LUFFY BOBBLEHEAD](https://theworldofnerds.com/products/luffy-bobblehead-1): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-07-29T05:11:28Z
+  Updated: 2025-10-31T03:54:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2223,14 +2223,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/950.jpg?v=1731048947
   Price: ₹399.00 INR
 - [HOT WHEELS ULTRA HOTS 71 DATSUN 510](https://theworldofnerds.com/products/hot-wheels-ultra-hots-71-datsun-510): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-27T07:39:37Z
+  Updated: 2025-10-31T02:17:23Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/949.jpg?v=1731049065
   Price: ₹349.00 INR
 - [HOT WHEELS ULTRA HOTS TOYOTA AE86 SPRINTER TRUENO](https://theworldofnerds.com/products/hot-wheels-ultra-hots-toyota-ae86-sprinter-trueno): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-27T07:41:31Z
+  Updated: 2025-10-31T03:10:49Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -5485,7 +5485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC06125copy.jpg?v=1740056456
   Price: ₹399.00 INR
 - [BELLE BEAUTY Q POSKET](https://theworldofnerds.com/products/belle-beauty-q-posket): Introducing the BELLE BEAUTY Q POSKET, a beauty essential for every makeup lover. This versatile and compact product features a sleek design, perfect for on-the-go touch-ups. With high-quality materials and precision-made, this is a must-have for any beauty expert.
-  Updated: 2025-07-29T05:13:37Z
+  Updated: 2025-10-31T01:51:54Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8467,7 +8467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_05a9a6d0-2a45-4acd-bd5a-8cec8bc1e6a2.jpg?v=1751880041
   Price: ₹329.00 INR
 - [Chibi Kakashi Hanging Action Figure](https://theworldofnerds.com/products/chibi-kakashi-hanging-action-figure): “Rain tapping on your window, a quiet breeze through the trees—and there he is. Kakashi, approx. 5.5cm tall, swaying with every turn like an anime scene before battle. His silver hair, masked face, and Leaf Village headband bring the spirit of a true shinobi to your car, desk, or gaming setup, reminding you to stay calm and focused, no matter what mission you face.”
-  Updated: 2025-07-29T05:15:09Z
+  Updated: 2025-10-31T03:30:49Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
