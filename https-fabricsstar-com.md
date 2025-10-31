@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-30T20:00:49.168Z
+- Updated At: 2025-10-31T04:00:52.463Z
 
 ## Products
 
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-10-26T14:16:35Z
+  Updated: 2025-10-30T23:07:52Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -6047,7 +6047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VINETREE-BLACK-28-1.jpg?v=1757518312
     Price: $1.00 USD
 - [Textura Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/textura-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Textura jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:22Z
+  Updated: 2025-10-31T02:47:55Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -7075,274 +7075,274 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROSEDALE-WHITE.jpg?v=1757518522
     Price: $1.00 USD
 - [ROUNDAROSE Lace Fabric, 54 Inch. in Width](https://fabricsstar.com/products/roundarose)
-  Updated: 2025-10-23T20:17:34Z
+  Updated: 2025-10-31T02:08:12Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-ROUNDAROSE.jpg?v=1757518527
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/roundarose?variant=50919192002841)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/roundarose?variant=50919192002841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-BLUSH.jpg?v=1757518532
     Price: $13.20 USD
-  - [Cut by the Yard / Gold](https://fabricsstar.com/products/roundarose?variant=50931676872985)
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/roundarose?variant=50901731344665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-BLUSH.jpg?v=1757518532
+    Price: $1.00 USD
+  - [Gold / Cut by the Yard](https://fabricsstar.com/products/roundarose?variant=50931676872985)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GOLD.jpg?v=1757518531
     Price: $13.20 USD
-  - [Cut by the Yard / Grey](https://fabricsstar.com/products/roundarose?variant=50931676905753)
+  - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/roundarose?variant=50931677004057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GOLD.jpg?v=1757518531
+    Price: $1.00 USD
+  - [Grey / Cut by the Yard](https://fabricsstar.com/products/roundarose?variant=50931676905753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GREY.jpg?v=1757518530
     Price: $13.20 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/roundarose?variant=50931676938521)
+  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/roundarose?variant=50931677036825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GREY.jpg?v=1757518530
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/roundarose?variant=50931676938521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-IVORY.jpg?v=1757518529
     Price: $13.20 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/roundarose?variant=50931676971289)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/roundarose?variant=50931677069593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-IVORY.jpg?v=1757518529
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/roundarose?variant=50931676971289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-WHITE.jpg?v=1757518528
     Price: $13.20 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/roundarose?variant=50901731344665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-BLUSH.jpg?v=1757518532
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Gold](https://fabricsstar.com/products/roundarose?variant=50931677004057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GOLD.jpg?v=1757518531
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Grey](https://fabricsstar.com/products/roundarose?variant=50931677036825)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-GREY.jpg?v=1757518530
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/roundarose?variant=50931677069593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-IVORY.jpg?v=1757518529
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/roundarose?variant=50931677102361)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/roundarose?variant=50931677102361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDAROSE-WHITE.jpg?v=1757518528
     Price: $1.00 USD
 - [STANLEY Mesh Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/stanley)
-  Updated: 2025-10-23T20:17:39Z
+  Updated: 2025-10-31T02:07:53Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-STANLEY.jpg?v=1757518533
-  - [Cut by the Yard / Black/Gold](https://fabricsstar.com/products/stanley?variant=50919192068377)
+  - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/stanley?variant=50919192068377)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-GOLD.jpg?v=1757518536
     Price: $22.00 USD
-  - [Cut by the Yard / Black/Silver](https://fabricsstar.com/products/stanley?variant=50931739590937)
+  - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/stanley?variant=50901769290009)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-GOLD.jpg?v=1757518536
+    Price: $1.00 USD
+  - [Black/Silver / Cut by the Yard](https://fabricsstar.com/products/stanley?variant=50931739590937)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-SILVER.jpg?v=1757518535
     Price: $22.00 USD
-  - [Cut by the Yard / White/Silver](https://fabricsstar.com/products/stanley?variant=50931739623705)
+  - [Black/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/stanley?variant=50931739656473)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-SILVER.jpg?v=1757518535
+    Price: $1.00 USD
+  - [White/Silver / Cut by the Yard](https://fabricsstar.com/products/stanley?variant=50931739623705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-WHITE-SILVER.jpg?v=1757518534
     Price: $22.00 USD
-  - [Sample 3x3 Inch / Black/Gold](https://fabricsstar.com/products/stanley?variant=50901769290009)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-GOLD.jpg?v=1757518536
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Black/Silver](https://fabricsstar.com/products/stanley?variant=50931739656473)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-BLACK-SILVER.jpg?v=1757518535
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White/Silver](https://fabricsstar.com/products/stanley?variant=50931739689241)
+  - [White/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/stanley?variant=50931739689241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STANLEY-WHITE-SILVER.jpg?v=1757518534
     Price: $1.00 USD
 - [SUPREME Jacquard Fabric, 110 Inch. in Width](https://fabricsstar.com/products/supreme)
-  Updated: 2025-10-27T18:38:23Z
+  Updated: 2025-10-31T02:06:21Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-SUPREME.jpg?v=1757518546
-  - [Cut by the Yard / Apple Green](https://fabricsstar.com/products/supreme?variant=50919192133913)
+  - [Apple Green / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50919192133913)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-APPLE-GREEN.jpg?v=1757518554
     Price: $20.90 USD
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/supreme?variant=50931900842265)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-BLUSH.jpg?v=1757518553
-    Price: $20.90 USD
-  - [Cut by the Yard / Grey](https://fabricsstar.com/products/supreme?variant=50931900875033)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-GREY.jpg?v=1757518552
-    Price: $20.90 USD
-  - [Cut by the Yard / Hot Pink](https://fabricsstar.com/products/supreme?variant=50931900907801)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-HOT-PINK.jpg?v=1757518551
-    Price: $20.90 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/supreme?variant=50931900940569)
-    Availability: Not Available
-    Price: $20.90 USD
-  - [Cut by the Yard / Lilac](https://fabricsstar.com/products/supreme?variant=50931900973337)
-    Availability: Not Available
-    Price: $20.90 USD
-  - [Cut by the Yard / Navy](https://fabricsstar.com/products/supreme?variant=50931901006105)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-NAVY.jpg?v=1757518551
-    Price: $20.90 USD
-  - [Cut by the Yard / Plum](https://fabricsstar.com/products/supreme?variant=50931901038873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PLUM.jpg?v=1757518550
-    Price: $20.90 USD
-  - [Cut by the Yard / Purple](https://fabricsstar.com/products/supreme?variant=50931901071641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PURPLE.jpg?v=1757518549
-    Price: $20.90 USD
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/supreme?variant=50931901104409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-SILVER.jpg?v=1757518548
-    Price: $20.90 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/supreme?variant=50931901137177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-WHITE.jpg?v=1757518547
-    Price: $20.90 USD
-  - [Cut by the Yard / Winter White](https://fabricsstar.com/products/supreme?variant=50931901169945)
-    Availability: Available
-    Price: $20.90 USD
-  - [Sample 3x3 Inch / Apple Green](https://fabricsstar.com/products/supreme?variant=50901780627737)
+  - [Apple Green / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50901780627737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-APPLE-GREEN.jpg?v=1757518554
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/supreme?variant=50931901202713)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931900842265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-BLUSH.jpg?v=1757518553
+    Price: $20.90 USD
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901202713)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-BLUSH.jpg?v=1757518553
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Grey](https://fabricsstar.com/products/supreme?variant=50931901235481)
+  - [Grey / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931900875033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-GREY.jpg?v=1757518552
+    Price: $20.90 USD
+  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901235481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-GREY.jpg?v=1757518552
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Hot Pink](https://fabricsstar.com/products/supreme?variant=50931901268249)
+  - [Hot Pink / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931900907801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-HOT-PINK.jpg?v=1757518551
+    Price: $20.90 USD
+  - [Hot Pink / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901268249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-HOT-PINK.jpg?v=1757518551
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/supreme?variant=50931901301017)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931900940569)
+    Availability: Not Available
+    Price: $20.90 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901301017)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Lilac](https://fabricsstar.com/products/supreme?variant=50931901333785)
+  - [Lilac / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931900973337)
+    Availability: Not Available
+    Price: $20.90 USD
+  - [Lilac / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901333785)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Navy](https://fabricsstar.com/products/supreme?variant=50931901366553)
+  - [Navy / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901006105)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-NAVY.jpg?v=1757518551
+    Price: $20.90 USD
+  - [Navy / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901366553)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-NAVY.jpg?v=1757518551
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Plum](https://fabricsstar.com/products/supreme?variant=50931901399321)
+  - [Plum / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901038873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PLUM.jpg?v=1757518550
+    Price: $20.90 USD
+  - [Plum / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901399321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PLUM.jpg?v=1757518550
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Purple](https://fabricsstar.com/products/supreme?variant=50931901432089)
+  - [Purple / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901071641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PURPLE.jpg?v=1757518549
+    Price: $20.90 USD
+  - [Purple / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901432089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-PURPLE.jpg?v=1757518549
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/supreme?variant=50931901464857)
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901104409)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-SILVER.jpg?v=1757518548
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-SILVER.jpg?v=1761876378
+    Price: $20.90 USD
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901464857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-SILVER.jpg?v=1761876378
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/supreme?variant=50931901497625)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901137177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-WHITE.jpg?v=1757518547
+    Price: $20.90 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901497625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SUPREME-WHITE.jpg?v=1757518547
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Winter White](https://fabricsstar.com/products/supreme?variant=50931901530393)
+  - [Winter White / Cut by the Yard](https://fabricsstar.com/products/supreme?variant=50931901169945)
+    Availability: Available
+    Price: $20.90 USD
+  - [Winter White / Sample 3x3 Inch](https://fabricsstar.com/products/supreme?variant=50931901530393)
     Availability: Available
     Price: $1.00 USD
 - [TIMES Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/times)
-  Updated: 2025-10-23T20:17:41Z
+  Updated: 2025-10-31T02:05:35Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-WHITE.jpg?v=1757518555
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/times?variant=50919192166681)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/times?variant=50919192166681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-BLUSH-4.jpg?v=1757518561
     Price: $19.80 USD
-  - [Cut by the Yard / Champagne](https://fabricsstar.com/products/times?variant=50931905528089)
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50901789868313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-BLUSH-4.jpg?v=1757518561
+    Price: $1.00 USD
+  - [Champagne / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905528089)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-CHAMPAGNE-6.jpg?v=1757518562
     Price: $19.80 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/times?variant=50931905560857)
+  - [Champagne / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905724697)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-CHAMPAGNE-6.jpg?v=1757518562
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905560857)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-IVORY-1.jpg?v=1757518560
     Price: $19.80 USD
-  - [Cut by the Yard / Mocha](https://fabricsstar.com/products/times?variant=50931905593625)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905757465)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-IVORY-1.jpg?v=1757518560
+    Price: $1.00 USD
+  - [Mocha / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905593625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-MOCHA-8.jpg?v=1757518558
     Price: $19.80 USD
-  - [Cut by the Yard / Orchid](https://fabricsstar.com/products/times?variant=50931905626393)
+  - [Mocha / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905790233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-MOCHA-8.jpg?v=1757518558
+    Price: $1.00 USD
+  - [Orchid / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905626393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-ORCHID-7.jpg?v=1757518557
     Price: $19.80 USD
-  - [Cut by the Yard / Taupe](https://fabricsstar.com/products/times?variant=50931905659161)
+  - [Orchid / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905823001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-ORCHID-7.jpg?v=1757518557
+    Price: $1.00 USD
+  - [Taupe / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905659161)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TAUPE-3.jpg?v=1757518559
     Price: $19.80 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/times?variant=50931905691929)
+  - [Taupe / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905855769)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TAUPE-3.jpg?v=1757518559
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/times?variant=50931905691929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-WHITE.jpg?v=1757518555
     Price: $19.80 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/times?variant=50901789868313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-BLUSH-4.jpg?v=1757518561
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Champagne](https://fabricsstar.com/products/times?variant=50931905724697)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-CHAMPAGNE-6.jpg?v=1757518562
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/times?variant=50931905757465)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-IVORY-1.jpg?v=1757518560
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Mocha](https://fabricsstar.com/products/times?variant=50931905790233)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-MOCHA-8.jpg?v=1757518558
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Orchid](https://fabricsstar.com/products/times?variant=50931905823001)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-ORCHID-7.jpg?v=1757518557
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Taupe](https://fabricsstar.com/products/times?variant=50931905855769)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TAUPE-3.jpg?v=1757518559
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/times?variant=50931905888537)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/times?variant=50931905888537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-WHITE.jpg?v=1757518555
     Price: $1.00 USD
 - [TIMES AROUND Jacquard Fabric, 55 Inch. in Width](https://fabricsstar.com/products/times-around)
-  Updated: 2025-10-23T20:17:36Z
+  Updated: 2025-10-31T02:04:40Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-TIMES-AROUND_1.jpg?v=1757518563
-  - [Cut by the Yard / Chocolate](https://fabricsstar.com/products/times-around?variant=50919192199449)
+  - [Chocolate / Cut by the Yard](https://fabricsstar.com/products/times-around?variant=50919192199449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-CHOCKOLATE-12_1.jpg?v=1757518567
     Price: $19.80 USD
-  - [Cut by the Yard / Orchid](https://fabricsstar.com/products/times-around?variant=50931909427481)
+  - [Chocolate / Sample 3x3 Inch](https://fabricsstar.com/products/times-around?variant=50901836759321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-CHOCKOLATE-12_1.jpg?v=1757518567
+    Price: $1.00 USD
+  - [Orchid / Cut by the Yard](https://fabricsstar.com/products/times-around?variant=50931909427481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-ORCHID-7.jpg?v=1757518567
     Price: $19.80 USD
-  - [Cut by the Yard / Mocha](https://fabricsstar.com/products/times-around?variant=50931909460249)
+  - [Orchid / Sample 3x3 Inch](https://fabricsstar.com/products/times-around?variant=50931909525785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-ORCHID-7.jpg?v=1757518567
+    Price: $1.00 USD
+  - [Mocha / Cut by the Yard](https://fabricsstar.com/products/times-around?variant=50931909460249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-MOCHA-8.jpg?v=1757518564
     Price: $19.80 USD
-  - [Cut by the Yard / Taupe](https://fabricsstar.com/products/times-around?variant=50931910476057)
+  - [Mocha / Sample 3x3 Inch](https://fabricsstar.com/products/times-around?variant=50931909558553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-MOCHA-8.jpg?v=1757518564
+    Price: $1.00 USD
+  - [Taupe / Cut by the Yard](https://fabricsstar.com/products/times-around?variant=50931910476057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-TAUPE-3.jpg?v=1757518565
     Price: $19.80 USD
-  - [Sample 3x3 Inch / Chocolate](https://fabricsstar.com/products/times-around?variant=50901836759321)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-CHOCKOLATE-12_1.jpg?v=1757518567
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Orchid](https://fabricsstar.com/products/times-around?variant=50931909525785)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-ORCHID-7.jpg?v=1757518567
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Mocha](https://fabricsstar.com/products/times-around?variant=50931909558553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-MOCHA-8.jpg?v=1757518564
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Taupe](https://fabricsstar.com/products/times-around?variant=50931910508825)
+  - [Taupe / Sample 3x3 Inch](https://fabricsstar.com/products/times-around?variant=50931910508825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-AROUND-TAUPE-3.jpg?v=1757518565
     Price: $1.00 USD
@@ -7401,38 +7401,38 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-SQUARE-WHITE.jpg?v=1757518572
     Price: $1.00 USD
 - [TIMES TABLE Jacquard Fabric, 58 Inch. in Width](https://fabricsstar.com/products/times-table)
-  Updated: 2025-10-23T20:18:02Z
+  Updated: 2025-10-31T02:03:50Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-TIMES-TABLE.jpg?v=1757518577
-  - [Cut by the Yard / Chocolate](https://fabricsstar.com/products/times-table?variant=50946123989273)
+  - [Chocolate / Cut by the Yard](https://fabricsstar.com/products/times-table?variant=50946123989273)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-CHOCKOLATE-13.jpg?v=1757518581
     Price: $19.80 USD
-  - [Cut by the Yard / Mocha](https://fabricsstar.com/products/times-table?variant=50946124022041)
+  - [Chocolate / Sample 3x3 Inch](https://fabricsstar.com/products/times-table?variant=50946124120345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-CHOCKOLATE-13.jpg?v=1757518581
+    Price: $1.00 USD
+  - [Mocha / Cut by the Yard](https://fabricsstar.com/products/times-table?variant=50946124022041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-MOCHA-9.jpg?v=1757518578
     Price: $19.80 USD
-  - [Cut by the Yard / Charcoal](https://fabricsstar.com/products/times-table?variant=50946124054809)
+  - [Mocha / Sample 3x3 Inch](https://fabricsstar.com/products/times-table?variant=50946124153113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-MOCHA-9.jpg?v=1757518578
+    Price: $1.00 USD
+  - [Charcoal / Cut by the Yard](https://fabricsstar.com/products/times-table?variant=50946124054809)
     Availability: Available
     Price: $19.80 USD
-  - [Cut by the Yard / Taupe](https://fabricsstar.com/products/times-table?variant=50946124087577)
+  - [Charcoal / Sample 3x3 Inch](https://fabricsstar.com/products/times-table?variant=50946124185881)
+    Availability: Available
+    Price: $1.00 USD
+  - [Taupe / Cut by the Yard](https://fabricsstar.com/products/times-table?variant=50946124087577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-TAUPE-3.jpg?v=1757518579
     Price: $19.80 USD
-  - [Sample 3x3 Inch / Chocolate](https://fabricsstar.com/products/times-table?variant=50946124120345)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-CHOCKOLATE-13.jpg?v=1757518581
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Mocha](https://fabricsstar.com/products/times-table?variant=50946124153113)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-MOCHA-9.jpg?v=1757518578
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Charcoal](https://fabricsstar.com/products/times-table?variant=50946124185881)
-    Availability: Available
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Taupe](https://fabricsstar.com/products/times-table?variant=50946124218649)
+  - [Taupe / Sample 3x3 Inch](https://fabricsstar.com/products/times-table?variant=50946124218649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TIMES-TABLE-TAUPE-3.jpg?v=1757518579
     Price: $1.00 USD
@@ -7613,1238 +7613,1238 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LUXURY-WHITE.jpg?v=1757518587
     Price: $1.00 USD
 - [LIBERTY Jacquard Fabric, 115 Inch. in Width](https://fabricsstar.com/products/liberty)
-  Updated: 2025-10-23T20:17:42Z
+  Updated: 2025-10-31T02:02:52Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LIBERTY.jpg?v=1757518599
-  - [Cut by the Yard / Black](https://fabricsstar.com/products/liberty?variant=50919192396057)
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/liberty?variant=50919192396057)
     Availability: Available
     Price: $23.10 USD
-  - [Cut by the Yard / Camel](https://fabricsstar.com/products/liberty?variant=50946159509785)
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/liberty?variant=50901887549721)
+    Availability: Available
+    Price: $1.00 USD
+  - [Camel / Cut by the Yard](https://fabricsstar.com/products/liberty?variant=50946159509785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CAMEL-536.jpg?v=1757518604
     Price: $23.10 USD
-  - [Cut by the Yard / Charcoal](https://fabricsstar.com/products/liberty?variant=50946159542553)
+  - [Camel / Sample 3x3 Inch](https://fabricsstar.com/products/liberty?variant=50946159640857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CAMEL-536.jpg?v=1757518604
+    Price: $1.00 USD
+  - [Charcoal / Cut by the Yard](https://fabricsstar.com/products/liberty?variant=50946159542553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CHARCOAL-540.jpg?v=1757518603
     Price: $23.10 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/liberty?variant=50946159575321)
+  - [Charcoal / Sample 3x3 Inch](https://fabricsstar.com/products/liberty?variant=50946159673625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CHARCOAL-540.jpg?v=1757518603
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/liberty?variant=50946159575321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-IVORY-535.jpg?v=1757518602
     Price: $23.10 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/liberty?variant=50946159608089)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/liberty?variant=50946159706393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-IVORY-535.jpg?v=1757518602
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/liberty?variant=50946159608089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-WHITE.jpg?v=1757518601
     Price: $23.10 USD
-  - [Sample 3x3 Inch / Black](https://fabricsstar.com/products/liberty?variant=50901887549721)
-    Availability: Available
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Camel](https://fabricsstar.com/products/liberty?variant=50946159640857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CAMEL-536.jpg?v=1757518604
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Charcoal](https://fabricsstar.com/products/liberty?variant=50946159673625)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-CHARCOAL-540.jpg?v=1757518603
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/liberty?variant=50946159706393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-IVORY-535.jpg?v=1757518602
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/liberty?variant=50946159739161)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/liberty?variant=50946159739161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LIBERTY-WHITE.jpg?v=1757518601
     Price: $1.00 USD
 - [HILLS Fabric, 115 Inch. in Width](https://fabricsstar.com/products/hills)
-  Updated: 2025-10-23T20:17:37Z
+  Updated: 2025-10-31T02:01:42Z
   Vendor: Fabrics Star
   Product Type: Metallic Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-HILLS.jpg?v=1757518605
-  - [Cut by the Yard / Burgundy](https://fabricsstar.com/products/hills?variant=50919192428825)
+  - [Burgundy / Cut by the Yard](https://fabricsstar.com/products/hills?variant=50919192428825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-BURGUNDY-903-1.jpg?v=1757518611
     Price: $33.00 USD
-  - [Cut by the Yard / Delft](https://fabricsstar.com/products/hills?variant=50946167537945)
+  - [Burgundy / Sample 3x3 Inch](https://fabricsstar.com/products/hills?variant=50901892301081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-BURGUNDY-903-1.jpg?v=1757518611
+    Price: $1.00 USD
+  - [Delft / Cut by the Yard](https://fabricsstar.com/products/hills?variant=50946167537945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-DELFT-901-1.jpg?v=1757518613
     Price: $33.00 USD
-  - [Cut by the Yard / Forest](https://fabricsstar.com/products/hills?variant=50946167570713)
+  - [Delft / Sample 3x3 Inch](https://fabricsstar.com/products/hills?variant=50946167636249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-DELFT-901-1.jpg?v=1757518613
+    Price: $1.00 USD
+  - [Forest / Cut by the Yard](https://fabricsstar.com/products/hills?variant=50946167570713)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-FOREST-912-1.jpg?v=1757518609
     Price: $33.00 USD
-  - [Cut by the Yard / Purple](https://fabricsstar.com/products/hills?variant=50946167603481)
+  - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/hills?variant=50946167669017)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-FOREST-912-1.jpg?v=1757518609
+    Price: $1.00 USD
+  - [Purple / Cut by the Yard](https://fabricsstar.com/products/hills?variant=50946167603481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-PURPLE-910-1.jpg?v=1757518607
     Price: $33.00 USD
-  - [Sample 3x3 Inch / Burgundy](https://fabricsstar.com/products/hills?variant=50901892301081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-BURGUNDY-903-1.jpg?v=1757518611
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Delft](https://fabricsstar.com/products/hills?variant=50946167636249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-DELFT-901-1.jpg?v=1757518613
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Forest](https://fabricsstar.com/products/hills?variant=50946167669017)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-FOREST-912-1.jpg?v=1757518609
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Purple](https://fabricsstar.com/products/hills?variant=50946167701785)
+  - [Purple / Sample 3x3 Inch](https://fabricsstar.com/products/hills?variant=50946167701785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HILLS-PURPLE-910-1.jpg?v=1757518607
     Price: $1.00 USD
 - [BRILLIANT Crushed Fabric, 48 Inch. in Width](https://fabricsstar.com/products/brilliant)
-  Updated: 2025-10-23T20:17:42Z
+  Updated: 2025-10-31T01:59:32Z
   Vendor: Fabrics Star
   Product Type: Sheer Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-WHITE.jpg?v=1757518614
-  - [Cut by the Yard / Beige](https://fabricsstar.com/products/brilliant?variant=50919192461593)
+  - [Beige / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50919192461593)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BEIGE.jpg?v=1757518620
     Price: $17.60 USD
-  - [Cut by the Yard / Black](https://fabricsstar.com/products/brilliant?variant=50946174484761)
+  - [Beige / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50901930836249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BEIGE.jpg?v=1757518620
+    Price: $1.00 USD
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174484761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BLACK.jpg?v=1757518621
     Price: $17.60 USD
-  - [Cut by the Yard / Burgundy](https://fabricsstar.com/products/brilliant?variant=50946174517529)
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174681369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BLACK.jpg?v=1757518621
+    Price: $1.00 USD
+  - [Burgundy / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174517529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BURGUNDY.jpg?v=1757518619
     Price: $17.60 USD
-  - [Cut by the Yard / Emerald](https://fabricsstar.com/products/brilliant?variant=50946174550297)
+  - [Burgundy / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174714137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BURGUNDY.jpg?v=1757518619
+    Price: $1.00 USD
+  - [Emerald / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174550297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-EMERALD.jpg?v=1757518617
     Price: $17.60 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/brilliant?variant=50946174583065)
+  - [Emerald / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174746905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-EMERALD.jpg?v=1757518617
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174583065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-IVORY.jpg?v=1757518616
     Price: $17.60 USD
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/brilliant?variant=50946174615833)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174779673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-IVORY.jpg?v=1757518616
+    Price: $1.00 USD
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174615833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-SILVER.jpg?v=1757518615
     Price: $17.60 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/brilliant?variant=50946174648601)
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174812441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-SILVER.jpg?v=1757518615
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/brilliant?variant=50946174648601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-WHITE.jpg?v=1757518614
     Price: $17.60 USD
-  - [Sample 3x3 Inch / Beige](https://fabricsstar.com/products/brilliant?variant=50901930836249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BEIGE.jpg?v=1757518620
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Black](https://fabricsstar.com/products/brilliant?variant=50946174681369)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BLACK.jpg?v=1757518621
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Burgundy](https://fabricsstar.com/products/brilliant?variant=50946174714137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-BURGUNDY.jpg?v=1757518619
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Emerald](https://fabricsstar.com/products/brilliant?variant=50946174746905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-EMERALD.jpg?v=1757518617
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/brilliant?variant=50946174779673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-IVORY.jpg?v=1757518616
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/brilliant?variant=50946174812441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-SILVER.jpg?v=1757518615
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/brilliant?variant=50946174845209)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/brilliant?variant=50946174845209)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRILLIANT-WHITE.jpg?v=1757518614
     Price: $1.00 USD
 - [SPARKLING Crushed Fabric, 58 Inch. in Width](https://fabricsstar.com/products/sparkling)
-  Updated: 2025-10-23T20:17:40Z
+  Updated: 2025-10-31T01:58:15Z
   Vendor: Fabrics Star
   Product Type: Crushed Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-SPARKLING.jpg?v=1757518623
-  - [Cut by the Yard / Emerald](https://fabricsstar.com/products/sparkling?variant=50919192494361)
+  - [Emerald / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50919192494361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-EMERALD.jpg?v=1757518632
     Price: $13.20 USD
-  - [Cut by the Yard / Antique Gold](https://fabricsstar.com/products/sparkling?variant=50946190967065)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-ANTIQUE.jpg?v=1757518632
-    Price: $13.20 USD
-  - [Cut by the Yard / Black](https://fabricsstar.com/products/sparkling?variant=50946190999833)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/sparkling?variant=50946191032601)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-BLUSH.jpg?v=1757518631
-    Price: $13.20 USD
-  - [Cut by the Yard / Burgundy](https://fabricsstar.com/products/sparkling?variant=50946191065369)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Cashmere](https://fabricsstar.com/products/sparkling?variant=50946191098137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-CASHMERE.jpg?v=1757518629
-    Price: $13.20 USD
-  - [Cut by the Yard / Copper](https://fabricsstar.com/products/sparkling?variant=50946191130905)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Eggplant](https://fabricsstar.com/products/sparkling?variant=50946191163673)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Flame](https://fabricsstar.com/products/sparkling?variant=50946191196441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-FLAME.jpg?v=1757518629
-    Price: $13.20 USD
-  - [Cut by the Yard / Apple Green](https://fabricsstar.com/products/sparkling?variant=50946191229209)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Gray](https://fabricsstar.com/products/sparkling?variant=50946191261977)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-GREY.jpg?v=1757518630
-    Price: $13.20 USD
-  - [Cut by the Yard / Hot Pink](https://fabricsstar.com/products/sparkling?variant=50946191294745)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/sparkling?variant=50946191327513)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Jewel](https://fabricsstar.com/products/sparkling?variant=50946191360281)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Lilac](https://fabricsstar.com/products/sparkling?variant=50946191393049)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-LILAC.jpg?v=1757518626
-    Price: $13.20 USD
-  - [Cut by the Yard / Mocha](https://fabricsstar.com/products/sparkling?variant=50946191425817)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-MOCHA.jpg?v=1757518628
-    Price: $13.20 USD
-  - [Cut by the Yard / Navy](https://fabricsstar.com/products/sparkling?variant=50946191458585)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-NAVY.jpg?v=1757518627
-    Price: $13.20 USD
-  - [Cut by the Yard / Parchment](https://fabricsstar.com/products/sparkling?variant=50946191491353)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Plum](https://fabricsstar.com/products/sparkling?variant=50946191524121)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Purple](https://fabricsstar.com/products/sparkling?variant=50946191556889)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-PURPLE.jpg?v=1757518625
-    Price: $13.20 USD
-  - [Cut by the Yard / Red](https://fabricsstar.com/products/sparkling?variant=50946191589657)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Teal](https://fabricsstar.com/products/sparkling?variant=50946191622425)
-    Availability: Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Turquoise](https://fabricsstar.com/products/sparkling?variant=50946191655193)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-TURQUISE.jpg?v=1757518624
-    Price: $13.20 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/sparkling?variant=50946191687961)
-    Availability: Not Available
-    Price: $13.20 USD
-  - [Cut by the Yard / Yellow](https://fabricsstar.com/products/sparkling?variant=50946191720729)
-    Availability: Available
-    Price: $13.20 USD
-  - [Sample 3x3 Inch / Emerald](https://fabricsstar.com/products/sparkling?variant=50901940044057)
+  - [Emerald / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50901940044057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-EMERALD.jpg?v=1757518632
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Antique Gold](https://fabricsstar.com/products/sparkling?variant=50946191753497)
+  - [Antique Gold / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946190967065)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-ANTIQUE.jpg?v=1757518632
+    Price: $13.20 USD
+  - [Antique Gold / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191753497)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-ANTIQUE.jpg?v=1757518632
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Black](https://fabricsstar.com/products/sparkling?variant=50946191786265)
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946190999833)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191786265)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/sparkling?variant=50946191819033)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191032601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-BLUSH.jpg?v=1757518631
+    Price: $13.20 USD
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191819033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-BLUSH.jpg?v=1757518631
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Burgundy](https://fabricsstar.com/products/sparkling?variant=50946191851801)
+  - [Burgundy / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191065369)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Burgundy / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191851801)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Cashmere](https://fabricsstar.com/products/sparkling?variant=50946191884569)
+  - [Cashmere / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191098137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-CASHMERE.jpg?v=1757518629
+    Price: $13.20 USD
+  - [Cashmere / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191884569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-CASHMERE.jpg?v=1757518629
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Copper](https://fabricsstar.com/products/sparkling?variant=50946191917337)
+  - [Copper / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191130905)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Copper / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191917337)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Eggplant](https://fabricsstar.com/products/sparkling?variant=50946191950105)
+  - [Eggplant / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191163673)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Eggplant / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191950105)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Flame](https://fabricsstar.com/products/sparkling?variant=50946191982873)
+  - [Flame / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191196441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-FLAME.jpg?v=1757518629
+    Price: $13.20 USD
+  - [Flame / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946191982873)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-FLAME.jpg?v=1757518629
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Apple Green](https://fabricsstar.com/products/sparkling?variant=50946192015641)
+  - [Apple Green / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191229209)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Apple Green / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192015641)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Gray](https://fabricsstar.com/products/sparkling?variant=50946192048409)
+  - [Gray / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191261977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-GREY.jpg?v=1757518630
+    Price: $13.20 USD
+  - [Gray / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192048409)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-GREY.jpg?v=1757518630
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Hot Pink](https://fabricsstar.com/products/sparkling?variant=50946192081177)
+  - [Hot Pink / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191294745)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Hot Pink / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192081177)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/sparkling?variant=50946192113945)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191327513)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192113945)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Jewel](https://fabricsstar.com/products/sparkling?variant=50946192146713)
+  - [Jewel / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191360281)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Jewel / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192146713)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Lilac](https://fabricsstar.com/products/sparkling?variant=50946192179481)
+  - [Lilac / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191393049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-LILAC.jpg?v=1757518626
+    Price: $13.20 USD
+  - [Lilac / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192179481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-LILAC.jpg?v=1757518626
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Mocha](https://fabricsstar.com/products/sparkling?variant=50946192212249)
+  - [Mocha / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191425817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-MOCHA.jpg?v=1757518628
+    Price: $13.20 USD
+  - [Mocha / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192212249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-MOCHA.jpg?v=1757518628
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Navy](https://fabricsstar.com/products/sparkling?variant=50946192245017)
+  - [Navy / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191458585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-NAVY.jpg?v=1757518627
+    Price: $13.20 USD
+  - [Navy / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192245017)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-NAVY.jpg?v=1757518627
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Parchment](https://fabricsstar.com/products/sparkling?variant=50946192277785)
+  - [Parchment / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191491353)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Parchment / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192277785)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Plum](https://fabricsstar.com/products/sparkling?variant=50946192310553)
+  - [Plum / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191524121)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Plum / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192310553)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Purple](https://fabricsstar.com/products/sparkling?variant=50946192343321)
+  - [Purple / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191556889)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-PURPLE.jpg?v=1757518625
+    Price: $13.20 USD
+  - [Purple / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192343321)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-PURPLE.jpg?v=1757518625
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Red](https://fabricsstar.com/products/sparkling?variant=50946192376089)
+  - [Red / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191589657)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [Red / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192376089)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Teal](https://fabricsstar.com/products/sparkling?variant=50946192408857)
+  - [Teal / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191622425)
+    Availability: Available
+    Price: $13.20 USD
+  - [Teal / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192408857)
     Availability: Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Turquoise](https://fabricsstar.com/products/sparkling?variant=50946192441625)
+  - [Turquoise / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191655193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-TURQUISE.jpg?v=1757518624
+    Price: $13.20 USD
+  - [Turquoise / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192441625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SPARKLING-TURQUISE.jpg?v=1757518624
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/sparkling?variant=50946192474393)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191687961)
+    Availability: Not Available
+    Price: $13.20 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192474393)
     Availability: Not Available
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Yellow](https://fabricsstar.com/products/sparkling?variant=50946192507161)
+  - [Yellow / Cut by the Yard](https://fabricsstar.com/products/sparkling?variant=50946191720729)
+    Availability: Available
+    Price: $13.20 USD
+  - [Yellow / Sample 3x3 Inch](https://fabricsstar.com/products/sparkling?variant=50946192507161)
     Availability: Available
     Price: $1.00 USD
 - [AINSLEY Embroidered Sheer Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/ainsley)
-  Updated: 2025-10-23T20:17:39Z
+  Updated: 2025-10-31T01:57:55Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-AINSLEY.jpg?v=1757518633
-  - [Cut by the Yard / Burgundy](https://fabricsstar.com/products/ainsley?variant=50919192527129)
+  - [Burgundy / Cut by the Yard](https://fabricsstar.com/products/ainsley?variant=50919192527129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-BURGUNDY.jpg?v=1757518635
     Price: $25.30 USD
-  - [Cut by the Yard / Natural](https://fabricsstar.com/products/ainsley?variant=50946345730329)
+  - [Burgundy / Sample 3x3 Inch](https://fabricsstar.com/products/ainsley?variant=50901950234905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-BURGUNDY.jpg?v=1757518635
+    Price: $1.00 USD
+  - [Natural / Cut by the Yard](https://fabricsstar.com/products/ainsley?variant=50946345730329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-NATURAL.jpg?v=1757518636
     Price: $25.30 USD
-  - [Cut by the Yard / Smoke](https://fabricsstar.com/products/ainsley?variant=50946345763097)
+  - [Natural / Sample 3x3 Inch](https://fabricsstar.com/products/ainsley?variant=50946345795865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-NATURAL.jpg?v=1757518636
+    Price: $1.00 USD
+  - [Smoke / Cut by the Yard](https://fabricsstar.com/products/ainsley?variant=50946345763097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-SMOKE.jpg?v=1757518634
     Price: $25.30 USD
-  - [Sample 3x3 Inch / Burgundy](https://fabricsstar.com/products/ainsley?variant=50901950234905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-BURGUNDY.jpg?v=1757518635
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Natural](https://fabricsstar.com/products/ainsley?variant=50946345795865)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-NATURAL.jpg?v=1757518636
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Smoke](https://fabricsstar.com/products/ainsley?variant=50946345828633)
+  - [Smoke / Sample 3x3 Inch](https://fabricsstar.com/products/ainsley?variant=50946345828633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AINSLEY-SMOKE.jpg?v=1757518634
     Price: $1.00 USD
 - [ALLEY Mesh Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/alley)
-  Updated: 2025-10-23T20:17:44Z
+  Updated: 2025-10-31T01:56:43Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLEY-GREY.jpg?v=1757518637
-  - [Cut by the Yard / Grey](https://fabricsstar.com/products/alley?variant=50919192559897)
+  - [Grey / Cut by the Yard](https://fabricsstar.com/products/alley?variant=50919192559897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLEY-GREY.jpg?v=1757518637
     Price: $16.50 USD
-  - [Sample 3x3 Inch / Grey](https://fabricsstar.com/products/alley?variant=50901956886809)
+  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/alley?variant=50901956886809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLEY-GREY.jpg?v=1757518637
     Price: $1.00 USD
 - [BELLAIRE Embroidered Fabric, 50 Inch. in Width](https://fabricsstar.com/products/bellaire)
-  Updated: 2025-10-23T20:17:42Z
+  Updated: 2025-10-31T01:55:31Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-BELLAIRE.jpg?v=1757518648
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/bellaire?variant=50919192690969)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/bellaire?variant=50919192690969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-IVORY.jpg?v=1757518650
     Price: $17.60 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/bellaire?variant=50946380595481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-PINK.jpg?v=1757518649
-    Price: $17.60 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/bellaire?variant=50901971108121)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/bellaire?variant=50901971108121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-IVORY.jpg?v=1757518650
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/bellaire?variant=50946380628249)
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/bellaire?variant=50946380595481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-PINK.jpg?v=1757518649
+    Price: $17.60 USD
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/bellaire?variant=50946380628249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-PINK.jpg?v=1757518649
     Price: $1.00 USD
 - [BELLAIRE/B Embroidered Fabric, 54 Inch. in Width](https://fabricsstar.com/products/bellaire-b)
-  Updated: 2025-10-23T20:17:40Z
+  Updated: 2025-10-31T01:54:14Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/bellaire-b?variant=50919192723737)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/bellaire-b?variant=50919192723737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-BLUSH.jpg?v=1757518652
     Price: $17.60 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/bellaire-b?variant=50946383675673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
-    Price: $17.60 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/bellaire-b?variant=50901974188313)
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/bellaire-b?variant=50901974188313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-BLUSH.jpg?v=1757518652
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/bellaire-b?variant=50946383708441)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/bellaire-b?variant=50946383675673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
+    Price: $17.60 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/bellaire-b?variant=50946383708441)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BELLAIRE-B-IVORY.jpg?v=1757518651
     Price: $1.00 USD
 - [BEVERLY Embroidered Sheer With Sequins Fabric, 54 Inch. in Width](https://fabricsstar.com/products/beverly)
-  Updated: 2025-10-23T20:17:45Z
+  Updated: 2025-10-31T01:53:47Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-BEVERLY.jpg?v=1757518653
-  - [Cut by the Yard / Blush](https://fabricsstar.com/products/beverly?variant=50919192756505)
+  - [Blush / Cut by the Yard](https://fabricsstar.com/products/beverly?variant=50919192756505)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-BLUSH.jpg?v=1757518656
     Price: $14.30 USD
-  - [Cut by the Yard / Grey](https://fabricsstar.com/products/beverly?variant=50946389803289)
+  - [Blush / Sample 3x3 Inch](https://fabricsstar.com/products/beverly?variant=50901980053785)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-BLUSH.jpg?v=1757518656
+    Price: $1.00 USD
+  - [Grey / Cut by the Yard](https://fabricsstar.com/products/beverly?variant=50946389803289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-GREY.jpg?v=1757518655
     Price: $14.30 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/beverly?variant=50946389836057)
+  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/beverly?variant=50946389901593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-GREY.jpg?v=1757518655
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/beverly?variant=50946389836057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE.jpg?v=1757518655
     Price: $14.30 USD
-  - [Cut by the Yard / White/Silver](https://fabricsstar.com/products/beverly?variant=50946389868825)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/beverly?variant=50946389934361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE.jpg?v=1757518655
+    Price: $1.00 USD
+  - [White/Silver / Cut by the Yard](https://fabricsstar.com/products/beverly?variant=50946389868825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE-SILVER.jpg?v=1757518654
     Price: $14.30 USD
-  - [Sample 3x3 Inch / Blush](https://fabricsstar.com/products/beverly?variant=50901980053785)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-BLUSH.jpg?v=1757518656
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Grey](https://fabricsstar.com/products/beverly?variant=50946389901593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-GREY.jpg?v=1757518655
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/beverly?variant=50946389934361)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE.jpg?v=1757518655
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White/Silver](https://fabricsstar.com/products/beverly?variant=50946389967129)
+  - [White/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/beverly?variant=50946389967129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BEVERLY-WHITE-SILVER.jpg?v=1757518654
     Price: $1.00 USD
 - [BLOSSOM/B Embroidered Sheer With Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/blossom-b)
-  Updated: 2025-10-23T20:17:40Z
+  Updated: 2025-10-31T01:53:05Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-WHITE.jpg?v=1757518658
-  - [Cut by the Yard / Purple](https://fabricsstar.com/products/blossom-b?variant=50919192822041)
+  - [Purple / Cut by the Yard](https://fabricsstar.com/products/blossom-b?variant=50919192822041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-PURPLE.jpg?v=1757518659
     Price: $13.20 USD
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/blossom-b?variant=50946392031513)
+  - [Purple / Sample 3x3 Inch](https://fabricsstar.com/products/blossom-b?variant=50901981069593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-PURPLE.jpg?v=1757518659
+    Price: $1.00 USD
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/blossom-b?variant=50946392031513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-SILVER.jpg?v=1757518660
     Price: $13.20 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/blossom-b?variant=50946392064281)
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/blossom-b?variant=50946392097049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-SILVER.jpg?v=1757518660
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/blossom-b?variant=50946392064281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-WHITE.jpg?v=1757518658
     Price: $13.20 USD
-  - [Sample 3x3 Inch / Purple](https://fabricsstar.com/products/blossom-b?variant=50901981069593)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-PURPLE.jpg?v=1757518659
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/blossom-b?variant=50946392097049)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-SILVER.jpg?v=1757518660
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/blossom-b?variant=50946392129817)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/blossom-b?variant=50946392129817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BLOSSOM-B-WHITE.jpg?v=1757518658
     Price: $1.00 USD
 - [BRIDELY Embroidered Sheer Mesh Fabric, 58 Inch. in Width](https://fabricsstar.com/products/bridely)
-  Updated: 2025-10-23T20:17:43Z
+  Updated: 2025-10-31T01:52:47Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-BRIDELY.jpg?v=1757518661
-  - [Cut by the Yard / Ivory/Gold](https://fabricsstar.com/products/bridely?variant=50919192887577)
+  - [Ivory/Gold / Cut by the Yard](https://fabricsstar.com/products/bridely?variant=50919192887577)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY-GOLD.jpg?v=1757518664
     Price: $15.40 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/bridely?variant=50946397077785)
+  - [Ivory/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/bridely?variant=50906254213401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY-GOLD.jpg?v=1757518664
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/bridely?variant=50946397077785)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY.jpg?v=1757518664
     Price: $15.40 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/bridely?variant=50946397110553)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/bridely?variant=50946397176089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY.jpg?v=1757518664
+    Price: $1.00 USD
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/bridely?variant=50946397110553)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-PINK.jpg?v=1757518663
     Price: $15.40 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/bridely?variant=50946397143321)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/bridely?variant=50946397208857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-PINK.jpg?v=1757518663
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/bridely?variant=50946397143321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-WHITE.jpg?v=1757518662
     Price: $15.40 USD
-  - [Sample 3x3 Inch / Ivory/Gold](https://fabricsstar.com/products/bridely?variant=50906254213401)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY-GOLD.jpg?v=1757518664
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/bridely?variant=50946397176089)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-IVORY.jpg?v=1757518664
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/bridely?variant=50946397208857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-PINK.jpg?v=1757518663
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/bridely?variant=50946397241625)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/bridely?variant=50946397241625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/BRIDELY-WHITE.jpg?v=1757518662
     Price: $1.00 USD
 - [CHARMING Embroidered Sheer Fabric, 54 Inch in Width](https://fabricsstar.com/products/charming)
-  Updated: 2025-10-23T20:17:42Z
+  Updated: 2025-10-31T01:52:30Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-WHITE.jpg?v=1757518665
-  - [Cut by the Yard / Apple Green](https://fabricsstar.com/products/charming?variant=50919192920345)
+  - [Apple Green / Cut by the Yard](https://fabricsstar.com/products/charming?variant=50919192920345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-APPLE-GREEN.jpg?v=1757518668
     Price: $16.50 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/charming?variant=50946403696921)
+  - [Apple Green / Sample 3x3 Inch](https://fabricsstar.com/products/charming?variant=50906257948953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-APPLE-GREEN.jpg?v=1757518668
+    Price: $1.00 USD
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/charming?variant=50946403696921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-PINK.jpg?v=1757518666
     Price: $16.50 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/charming?variant=50946403729689)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/charming?variant=50946403762457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-PINK.jpg?v=1757518666
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/charming?variant=50946403729689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-WHITE.jpg?v=1757518665
     Price: $16.50 USD
-  - [Sample 3x3 Inch / Apple Green](https://fabricsstar.com/products/charming?variant=50906257948953)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-APPLE-GREEN.jpg?v=1757518668
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/charming?variant=50946403762457)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-PINK.jpg?v=1757518666
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/charming?variant=50946403795225)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/charming?variant=50946403795225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHARMING-WHITE.jpg?v=1757518665
     Price: $1.00 USD
 - [COOL Fabric, 54 Inch. in Width](https://fabricsstar.com/products/cool)
-  Updated: 2025-10-23T20:18:05Z
+  Updated: 2025-10-31T01:52:15Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-COOL.jpg?v=1757518668
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/cool?variant=50946487976217)
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/cool?variant=50946487976217)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-PINK.jpg?v=1757518669
     Price: $14.30 USD
-  - [Cut by the Yard / Light Yellow](https://fabricsstar.com/products/cool?variant=50946488041753)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-LT-YELLOW.jpg?v=1757518670
-    Price: $14.30 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/cool?variant=50946488074521)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/cool?variant=50946488074521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-PINK.jpg?v=1757518669
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Light Yellow](https://fabricsstar.com/products/cool?variant=50946488140057)
+  - [Light Yellow / Cut by the Yard](https://fabricsstar.com/products/cool?variant=50946488041753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-LT-YELLOW.jpg?v=1757518670
+    Price: $14.30 USD
+  - [Light Yellow / Sample 3x3 Inch](https://fabricsstar.com/products/cool?variant=50946488140057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COOL-LT-YELLOW.jpg?v=1757518670
     Price: $1.00 USD
 - [COUNTRY COTTAGE Embroidered Fabric, 54 Inch. in Width](https://fabricsstar.com/products/country-cottage)
-  Updated: 2025-10-23T20:17:46Z
+  Updated: 2025-10-31T01:51:56Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-COUNTRY-COTTAGE.jpg?v=1757518671
-  - [Cut by the Yard / Black](https://fabricsstar.com/products/country-cottage?variant=50919192985881)
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/country-cottage?variant=50919192985881)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-BLACK.jpg?v=1757518674
     Price: $15.40 USD
-  - [Cut by the Yard / Gold](https://fabricsstar.com/products/country-cottage?variant=50946512847129)
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/country-cottage?variant=50906260013337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-BLACK.jpg?v=1757518674
+    Price: $1.00 USD
+  - [Gold / Cut by the Yard](https://fabricsstar.com/products/country-cottage?variant=50946512847129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-GOLD.jpg?v=1757518674
     Price: $15.40 USD
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/country-cottage?variant=50946512879897)
+  - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/country-cottage?variant=50946512945433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-GOLD.jpg?v=1757518674
+    Price: $1.00 USD
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/country-cottage?variant=50946512879897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-SILVER.jpg?v=1757518673
     Price: $15.40 USD
-  - [Cut by the Yard / Turquoise](https://fabricsstar.com/products/country-cottage?variant=50946512912665)
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/country-cottage?variant=50946512978201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-SILVER.jpg?v=1757518673
+    Price: $1.00 USD
+  - [Turquoise / Cut by the Yard](https://fabricsstar.com/products/country-cottage?variant=50946512912665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-TURQUISE.jpg?v=1757518672
     Price: $15.40 USD
-  - [Sample 3x3 Inch / Black](https://fabricsstar.com/products/country-cottage?variant=50906260013337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-BLACK.jpg?v=1757518674
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Gold](https://fabricsstar.com/products/country-cottage?variant=50946512945433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-GOLD.jpg?v=1757518674
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/country-cottage?variant=50946512978201)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-SILVER.jpg?v=1757518673
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Turquoise](https://fabricsstar.com/products/country-cottage?variant=50946513010969)
+  - [Turquoise / Sample 3x3 Inch](https://fabricsstar.com/products/country-cottage?variant=50946513010969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COUNTRY-COTTAGE-TURQUISE.jpg?v=1757518672
     Price: $1.00 USD
 - [CRYSTAL Fabric, 110 Inch. in Width](https://fabricsstar.com/products/crystal)
-  Updated: 2025-10-23T20:17:41Z
+  Updated: 2025-10-31T01:51:35Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-PINK.jpg?v=1757518676
-  - [Cut by the Yard / Apple Green](https://fabricsstar.com/products/crystal?variant=50919193018649)
+  - [Apple Green / Cut by the Yard](https://fabricsstar.com/products/crystal?variant=50919193018649)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-APPLE.jpg?v=1757518677
     Price: $19.80 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/crystal?variant=50946524938521)
+  - [Apple Green / Sample 3x3 Inch](https://fabricsstar.com/products/crystal?variant=50906260275481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-APPLE.jpg?v=1757518677
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/crystal?variant=50946524938521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-IVORY.jpg?v=1757518676
     Price: $19.80 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/crystal?variant=50946524971289)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/crystal?variant=50946525004057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-IVORY.jpg?v=1757518676
+    Price: $1.00 USD
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/crystal?variant=50946524971289)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-PINK.jpg?v=1757518676
     Price: $19.80 USD
-  - [Sample 3x3 Inch / Apple Green](https://fabricsstar.com/products/crystal?variant=50906260275481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-APPLE.jpg?v=1757518677
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/crystal?variant=50946525004057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-IVORY.jpg?v=1757518676
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/crystal?variant=50946525036825)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/crystal?variant=50946525036825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CRYSTAL-PINK.jpg?v=1757518676
     Price: $1.00 USD
 - [GISELLE Embroidered Sheer Fabric, 58 Inch. in Width](https://fabricsstar.com/products/giselle)
-  Updated: 2025-10-23T20:17:45Z
+  Updated: 2025-10-31T01:51:18Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-WHITE.jpg?v=1757518679
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/giselle?variant=50919193051417)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/giselle?variant=50919193051417)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-IVORY.jpg?v=1757518680
     Price: $15.40 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/giselle?variant=50946527953177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-WHITE.jpg?v=1757518679
-    Price: $15.40 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/giselle?variant=50906261356825)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/giselle?variant=50906261356825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-IVORY.jpg?v=1757518680
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/giselle?variant=50946527985945)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/giselle?variant=50946527953177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-WHITE.jpg?v=1757518679
+    Price: $15.40 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/giselle?variant=50946527985945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GISELLE-WHITE.jpg?v=1757518679
     Price: $1.00 USD
 - [GLACIER Embroidered Fabric, 58 Inch. in Width](https://fabricsstar.com/products/glacier)
-  Updated: 2025-10-23T20:17:44Z
+  Updated: 2025-10-31T01:51:01Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-WHITE.jpg?v=1757518681
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/glacier?variant=50919193084185)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/glacier?variant=50919193084185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-IVORY.jpg?v=1757518682
     Price: $10.88 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/glacier?variant=50946544337177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-WHITE.jpg?v=1757518681
-    Price: $10.88 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/glacier?variant=50906262077721)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/glacier?variant=50906262077721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-IVORY.jpg?v=1757518682
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/glacier?variant=50946544369945)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/glacier?variant=50946544337177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-WHITE.jpg?v=1757518681
+    Price: $10.88 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/glacier?variant=50946544369945)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLACIER-WHITE.jpg?v=1757518681
     Price: $1.00 USD
 - [LOVEABLE Embroidered Taffeta Fabric, 54 Inch. in Width](https://fabricsstar.com/products/loveable)
-  Updated: 2025-10-23T20:17:43Z
+  Updated: 2025-10-31T01:50:40Z
   Vendor: Fabrics Star
   Product Type: Taffeta Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-COLOR-LINE.jpg?v=1757518683
-  - [Cut by the Yard / Beige](https://fabricsstar.com/products/loveable?variant=50919193116953)
+  - [Beige / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50919193116953)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BEIGE.jpg?v=1757518691
     Price: $17.60 USD
-  - [Cut by the Yard / Burgundy](https://fabricsstar.com/products/loveable?variant=50946683994393)
+  - [Beige / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50906263552281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BEIGE.jpg?v=1757518691
+    Price: $1.00 USD
+  - [Burgundy / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946683994393)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BURGUNDY.jpg?v=1757518689
     Price: $17.60 USD
-  - [Cut by the Yard / Hunter](https://fabricsstar.com/products/loveable?variant=50946684027161)
+  - [Burgundy / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684223769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BURGUNDY.jpg?v=1757518689
+    Price: $1.00 USD
+  - [Hunter / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684027161)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-HUNTER.jpg?v=1757518687
     Price: $17.60 USD
-  - [Cut by the Yard / Ice Blue](https://fabricsstar.com/products/loveable?variant=50946684059929)
+  - [Hunter / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684256537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-HUNTER.jpg?v=1757518687
+    Price: $1.00 USD
+  - [Ice Blue / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684059929)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-ICE-BLUE.jpg?v=1757518686
     Price: $17.60 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/loveable?variant=50946684092697)
+  - [Ice Blue / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684289305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-ICE-BLUE.jpg?v=1757518686
+    Price: $1.00 USD
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684092697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-IVORY.jpg?v=1757518686
     Price: $17.60 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/loveable?variant=50946684125465)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684322073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-IVORY.jpg?v=1757518686
+    Price: $1.00 USD
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684125465)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-PINK.jpg?v=1757518685
     Price: $17.60 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/loveable?variant=50946684158233)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684354841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-PINK.jpg?v=1757518685
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684158233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-WHITE.jpg?v=1757518684
     Price: $17.60 USD
-  - [Cut by the Yard / Gray](https://fabricsstar.com/products/loveable?variant=50946684191001)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684387609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-WHITE.jpg?v=1757518684
+    Price: $1.00 USD
+  - [Gray / Cut by the Yard](https://fabricsstar.com/products/loveable?variant=50946684191001)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-GREY.jpg?v=1757518688
     Price: $17.60 USD
-  - [Sample 3x3 Inch / Beige](https://fabricsstar.com/products/loveable?variant=50906263552281)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BEIGE.jpg?v=1757518691
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Burgundy](https://fabricsstar.com/products/loveable?variant=50946684223769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-BURGUNDY.jpg?v=1757518689
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Hunter](https://fabricsstar.com/products/loveable?variant=50946684256537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-HUNTER.jpg?v=1757518687
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ice Blue](https://fabricsstar.com/products/loveable?variant=50946684289305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-ICE-BLUE.jpg?v=1757518686
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/loveable?variant=50946684322073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-IVORY.jpg?v=1757518686
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/loveable?variant=50946684354841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-PINK.jpg?v=1757518685
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/loveable?variant=50946684387609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-WHITE.jpg?v=1757518684
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Gray](https://fabricsstar.com/products/loveable?variant=50946684420377)
+  - [Gray / Sample 3x3 Inch](https://fabricsstar.com/products/loveable?variant=50946684420377)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LOVEABLE-GREY.jpg?v=1757518688
     Price: $1.00 USD
 - [CLAYTON Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/clayton)
-  Updated: 2025-10-23T20:17:47Z
+  Updated: 2025-10-31T01:50:16Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-WHITE.jpg?v=1757518691
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/clayton?variant=50919193149721)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/clayton?variant=50919193149721)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-IVORY-2.jpg?v=1757518693
     Price: $10.88 USD
-  - [Cut by the Yard / Linen](https://fabricsstar.com/products/clayton?variant=50946687041817)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/clayton?variant=50906273612057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-IVORY-2.jpg?v=1757518693
+    Price: $1.00 USD
+  - [Linen / Cut by the Yard](https://fabricsstar.com/products/clayton?variant=50946687041817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-LINEN-4B.jpg?v=1757518692
     Price: $10.88 USD
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/clayton?variant=50946687074585)
+  - [Linen / Sample 3x3 Inch](https://fabricsstar.com/products/clayton?variant=50946687140121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-LINEN-4B.jpg?v=1757518692
+    Price: $1.00 USD
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/clayton?variant=50946687074585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-SILVER-61.jpg?v=1757518694
     Price: $10.88 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/clayton?variant=50946687107353)
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/clayton?variant=50946687172889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-SILVER-61.jpg?v=1757518694
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/clayton?variant=50946687107353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-WHITE.jpg?v=1757518691
     Price: $10.88 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/clayton?variant=50906273612057)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-IVORY-2.jpg?v=1757518693
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Linen](https://fabricsstar.com/products/clayton?variant=50946687140121)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-LINEN-4B.jpg?v=1757518692
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/clayton?variant=50946687172889)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-SILVER-61.jpg?v=1757518694
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/clayton?variant=50946687205657)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/clayton?variant=50946687205657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAYTON-WHITE.jpg?v=1757518691
     Price: $1.00 USD
 - [19TH CENTURY Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/19th-century)
-  Updated: 2025-10-23T20:17:42Z
+  Updated: 2025-10-31T01:49:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/19TH-CENTURY-WHITE.jpg?v=1757518695
-  - [Cut by the Yard / White](https://fabricsstar.com/products/19th-century?variant=50919193182489)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/19th-century?variant=50919193182489)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/19TH-CENTURY-WHITE.jpg?v=1757518695
     Price: $18.70 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/19th-century?variant=50906281574681)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/19th-century?variant=50906281574681)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/19TH-CENTURY-WHITE.jpg?v=1757518695
     Price: $1.00 USD
 - [CARLISLE Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/carlisle)
-  Updated: 2025-10-23T20:17:46Z
+  Updated: 2025-10-31T01:49:27Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-WHITE.jpg?v=1757518696
-  - [Cut by the Yard / White](https://fabricsstar.com/products/carlisle?variant=50919193248025)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/carlisle?variant=50919193248025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-WHITE.jpg?v=1757518696
     Price: $15.40 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/carlisle?variant=50957923123481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-IVORY.jpg?v=1757518697
-    Price: $15.40 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/carlisle?variant=50906284458265)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/carlisle?variant=50906284458265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-WHITE.jpg?v=1757518696
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/carlisle?variant=50957923156249)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/carlisle?variant=50957923123481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-IVORY.jpg?v=1757518697
+    Price: $15.40 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/carlisle?variant=50957923156249)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARLISLE-IVORY.jpg?v=1757518697
     Price: $1.00 USD
 - [CLAIRMONT Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/clairmont)
-  Updated: 2025-10-23T20:17:45Z
+  Updated: 2025-10-31T01:49:01Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAIRMONT-SILVER-61.jpg?v=1757518699
-  - [Cut by the Yard / Silver](https://fabricsstar.com/products/clairmont?variant=50919193379097)
+  - [Silver / Cut by the Yard](https://fabricsstar.com/products/clairmont?variant=50919193379097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAIRMONT-SILVER-61.jpg?v=1757518699
     Price: $11.00 USD
-  - [Sample 3x3 Inch / Silver](https://fabricsstar.com/products/clairmont?variant=50906286424345)
+  - [Silver / Sample 3x3 Inch](https://fabricsstar.com/products/clairmont?variant=50906286424345)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLAIRMONT-SILVER-61.jpg?v=1757518699
     Price: $1.00 USD
 - [CLASSIC LACE Fabric, 55 Inch. in Width](https://fabricsstar.com/products/classic-lace)
-  Updated: 2025-10-23T20:17:44Z
+  Updated: 2025-10-31T01:48:41Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLASSIC-LACE-WHITE.jpg?v=1757518700
-  - [Cut by the Yard / White](https://fabricsstar.com/products/classic-lace?variant=50919193444633)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/classic-lace?variant=50919193444633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLASSIC-LACE-WHITE.jpg?v=1757518700
     Price: $13.20 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/classic-lace?variant=50906286817561)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/classic-lace?variant=50906286817561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CLASSIC-LACE-WHITE.jpg?v=1757518700
     Price: $1.00 USD
 - [EDEN Fabric, 55 Inch. in Width](https://fabricsstar.com/products/eden)
-  Updated: 2025-10-23T20:17:49Z
+  Updated: 2025-10-31T01:48:24Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EDEN-WHITE.jpg?v=1757518701
-  - [Cut by the Yard / Black](https://fabricsstar.com/products/eden?variant=50919193510169)
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/eden?variant=50919193510169)
     Availability: Available
     Price: $11.97 USD
-  - [Sample 3x3 Inch / Black](https://fabricsstar.com/products/eden?variant=50906287603993)
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/eden?variant=50906287603993)
     Availability: Available
     Price: $1.00 USD
 - [EMILY Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/emily)
-  Updated: 2025-10-23T20:17:43Z
+  Updated: 2025-10-31T01:48:06Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-WHITE.jpg?v=1757518702
-  - [Cut by the Yard / White](https://fabricsstar.com/products/emily?variant=50919193542937)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/emily?variant=50919193542937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-WHITE.jpg?v=1757518702
     Price: $13.20 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/emily?variant=50958021787929)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
-    Price: $13.20 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/emily?variant=50906289209625)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/emily?variant=50906289209625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-WHITE.jpg?v=1757518702
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/emily?variant=50958021820697)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/emily?variant=50958021787929)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
+    Price: $13.20 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/emily?variant=50958021820697)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/EMILY-IVORY.jpg?v=1757518703
     Price: $1.00 USD
 - [FERN Lace Fabric, 110 Inch in Width](https://fabricsstar.com/products/fern)
-  Updated: 2025-10-23T20:17:48Z
+  Updated: 2025-10-31T01:47:45Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FERN-110-FOREST.jpg?v=1757518704
-  - [Cut by the Yard / Forest](https://fabricsstar.com/products/fern?variant=50919193575705)
+  - [Forest / Cut by the Yard](https://fabricsstar.com/products/fern?variant=50919193575705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FERN-110-FOREST.jpg?v=1757518704
     Price: $17.60 USD
-  - [Cut by the Yard / Gold Dust](https://fabricsstar.com/products/fern?variant=50958041678105)
-    Availability: Available
-    Price: $17.60 USD
-  - [Sample 3x3 Inch / Forest](https://fabricsstar.com/products/fern?variant=50906290848025)
+  - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/fern?variant=50906290848025)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FERN-110-FOREST.jpg?v=1757518704
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Gold Dust](https://fabricsstar.com/products/fern?variant=50958041710873)
+  - [Gold Dust / Cut by the Yard](https://fabricsstar.com/products/fern?variant=50958041678105)
+    Availability: Available
+    Price: $17.60 USD
+  - [Gold Dust / Sample 3x3 Inch](https://fabricsstar.com/products/fern?variant=50958041710873)
     Availability: Available
     Price: $1.00 USD
 - [FLEUR Fabric, 55 Inch in Width](https://fabricsstar.com/products/fleur)
-  Updated: 2025-10-23T20:17:46Z
+  Updated: 2025-10-31T01:47:26Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FLEUR-IVORY_1.jpg?v=1757518705
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/fleur?variant=50919193608473)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/fleur?variant=50919193608473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FLEUR-IVORY_1.jpg?v=1757518705
     Price: $13.20 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/fleur?variant=50906291667225)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/fleur?variant=50906291667225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FLEUR-IVORY_1.jpg?v=1757518705
     Price: $1.00 USD
 - [IRVINE Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/irvine)
-  Updated: 2025-10-23T20:17:45Z
+  Updated: 2025-10-31T01:47:07Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-WHITE.jpg?v=1757518707
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/irvine?variant=50919193641241)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/irvine?variant=50919193641241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-IVORY.jpg?v=1757518708
     Price: $15.40 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/irvine?variant=50958354546969)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-WHITE.jpg?v=1757518707
-    Price: $15.40 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/irvine?variant=50906295664921)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/irvine?variant=50906295664921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-IVORY.jpg?v=1757518708
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/irvine?variant=50958354579737)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/irvine?variant=50958354546969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-WHITE.jpg?v=1757518707
+    Price: $15.40 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/irvine?variant=50958354579737)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/IRVINE-WHITE.jpg?v=1757518707
     Price: $1.00 USD
 - [JENNY Lace Fabric, 58 Inch in Width](https://fabricsstar.com/products/jenny)
-  Updated: 2025-10-23T20:17:50Z
+  Updated: 2025-10-31T01:46:45Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-WHITE.jpg?v=1757518709
-  - [Cut by the Yard / White](https://fabricsstar.com/products/jenny?variant=50919193674009)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/jenny?variant=50919193674009)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-WHITE.jpg?v=1757518709
     Price: $13.20 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/jenny?variant=50958376272153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-IVORY.jpg?v=1757518710
-    Price: $13.20 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/jenny?variant=50906298450201)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/jenny?variant=50906298450201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-WHITE.jpg?v=1757518709
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/jenny?variant=50958376304921)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/jenny?variant=50958376272153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-IVORY.jpg?v=1757518710
+    Price: $13.20 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/jenny?variant=50958376304921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JENNY-IVORY.jpg?v=1757518710
     Price: $1.00 USD
 - [JUST BEAUTIFUL Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/just-beautiful)
-  Updated: 2025-10-23T20:17:44Z
+  Updated: 2025-10-31T01:46:28Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JUST-BEAUTIFUL-WHITE.jpg?v=1757518711
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/just-beautiful?variant=50919193706777)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/just-beautiful?variant=50919193706777)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JUST-BEAUTIFUL-IVORY.jpg?v=1757518711
     Price: $13.20 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/just-beautiful?variant=50906300547353)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/just-beautiful?variant=50906300547353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/JUST-BEAUTIFUL-IVORY.jpg?v=1757518711
     Price: $1.00 USD
 - [LACEY Fabric 58 Inch. in Width](https://fabricsstar.com/products/lacey)
-  Updated: 2025-10-23T20:17:49Z
+  Updated: 2025-10-31T01:46:06Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-WHITE.jpg?v=1757518714
-  - [Cut by the Yard / White](https://fabricsstar.com/products/lacey?variant=50919196492057)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/lacey?variant=50919196492057)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-WHITE.jpg?v=1757518714
     Price: $13.20 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/lacey?variant=50958559674649)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-IVORY.jpg?v=1757518714
-    Price: $13.20 USD
-  - [Cut by the Yard / Champagne](https://fabricsstar.com/products/lacey?variant=50958559707417)
-    Availability: Available
-    Price: $13.20 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/lacey?variant=50906302218521)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/lacey?variant=50906302218521)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-WHITE.jpg?v=1757518714
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/lacey?variant=50958559740185)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/lacey?variant=50958559674649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-IVORY.jpg?v=1757518714
+    Price: $13.20 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/lacey?variant=50958559740185)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LACEY-IVORY.jpg?v=1757518714
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Champagne](https://fabricsstar.com/products/lacey?variant=50958559772953)
+  - [Champagne / Cut by the Yard](https://fabricsstar.com/products/lacey?variant=50958559707417)
+    Availability: Available
+    Price: $13.20 USD
+  - [Champagne / Sample 3x3 Inch](https://fabricsstar.com/products/lacey?variant=50958559772953)
     Availability: Available
     Price: $1.00 USD
 - [LANCHASTER Lace Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/lanchaster)
-  Updated: 2025-10-23T20:17:48Z
+  Updated: 2025-10-31T01:45:48Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-WHITE.jpg?v=1757518715
-  - [Cut by the Yard / Sand](https://fabricsstar.com/products/lanchaster?variant=50919196524825)
+  - [Sand / Cut by the Yard](https://fabricsstar.com/products/lanchaster?variant=50919196524825)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-SAND.jpg?v=1757518716
     Price: $22.00 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/lanchaster?variant=50958570881305)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-WHITE.jpg?v=1757518715
-    Price: $22.00 USD
-  - [Sample 3x3 Inch / Sand](https://fabricsstar.com/products/lanchaster?variant=50906304053529)
+  - [Sand / Sample 3x3 Inch](https://fabricsstar.com/products/lanchaster?variant=50906304053529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-SAND.jpg?v=1757518716
     Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/lanchaster?variant=50958570914073)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/lanchaster?variant=50958570881305)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-WHITE.jpg?v=1757518715
+    Price: $22.00 USD
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/lanchaster?variant=50958570914073)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LANCHASTER-WHITE.jpg?v=1757518715
     Price: $1.00 USD
 - [ROUNDERS Lace Fabric, 55 Inch in Width](https://fabricsstar.com/products/rounders)
-  Updated: 2025-10-23T20:17:51Z
+  Updated: 2025-10-31T01:45:33Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDERS-IVORY.jpg?v=1757518717
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/rounders?variant=50919196590361)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/rounders?variant=50919196590361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDERS-IVORY.jpg?v=1757518717
     Price: $10.88 USD
-  - [Cut by the Yard / Pink](https://fabricsstar.com/products/rounders?variant=50958600241433)
-    Availability: Available
-    Price: $10.88 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/rounders?variant=50906312802585)
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/rounders?variant=50906312802585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROUNDERS-IVORY.jpg?v=1757518717
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Pink](https://fabricsstar.com/products/rounders?variant=50958600274201)
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/rounders?variant=50958600241433)
+    Availability: Available
+    Price: $10.88 USD
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/rounders?variant=50958600274201)
     Availability: Available
     Price: $1.00 USD
 - [STERLING Lace Fabric, 55 Inch. in Width](https://fabricsstar.com/products/sterling)
-  Updated: 2025-10-23T20:17:45Z
+  Updated: 2025-10-31T01:45:17Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-WHITE.jpg?v=1757518718
-  - [Cut by the Yard / White](https://fabricsstar.com/products/sterling?variant=50919196623129)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/sterling?variant=50919196623129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-WHITE.jpg?v=1757518718
     Price: $5.45 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/sterling?variant=50958610858265)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-IVORY.jpg?v=1757518719
-    Price: $5.45 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/sterling?variant=50906319847705)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/sterling?variant=50906319847705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-WHITE.jpg?v=1757518718
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/sterling?variant=50958610891033)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/sterling?variant=50958610858265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-IVORY.jpg?v=1757518719
+    Price: $5.45 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/sterling?variant=50958610891033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/STERLING-IVORY.jpg?v=1757518719
     Price: $1.00 USD
 - [WESTBURY Lace Fabric, 55 Inch in Width](https://fabricsstar.com/products/westbury)
-  Updated: 2025-10-23T20:17:51Z
+  Updated: 2025-10-31T01:44:58Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-WHITE.jpg?v=1757518721
-  - [Cut by the Yard / White](https://fabricsstar.com/products/westbury?variant=50919196655897)
+  - [White / Cut by the Yard](https://fabricsstar.com/products/westbury?variant=50919196655897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-WHITE.jpg?v=1757518721
     Price: $15.40 USD
-  - [Cut by the Yard / Ivory](https://fabricsstar.com/products/westbury?variant=50958688518425)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-IVORY.jpg?v=1757518722
-    Price: $15.40 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/westbury?variant=50906320994585)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/westbury?variant=50906320994585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-WHITE.jpg?v=1757518721
     Price: $1.00 USD
-  - [Sample 3x3 Inch / Ivory](https://fabricsstar.com/products/westbury?variant=50958688551193)
+  - [Ivory / Cut by the Yard](https://fabricsstar.com/products/westbury?variant=50958688518425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-IVORY.jpg?v=1757518722
+    Price: $15.40 USD
+  - [Ivory / Sample 3x3 Inch](https://fabricsstar.com/products/westbury?variant=50958688551193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-IVORY.jpg?v=1757518722
     Price: $1.00 USD
 - [CONFETTI Fabric, 52 Inch in Width](https://fabricsstar.com/products/confetti)
-  Updated: 2025-10-23T20:17:50Z
+  Updated: 2025-10-31T01:44:43Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
-  - [Cut by the Yard / Multicolor](https://fabricsstar.com/products/confetti?variant=50919196688665)
+  - [Multicolor / Cut by the Yard](https://fabricsstar.com/products/confetti?variant=50919196688665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $22.00 USD
-  - [Sample 3x3 Inch / Multicolor](https://fabricsstar.com/products/confetti?variant=50906327122201)
+  - [Multicolor / Sample 3x3 Inch](https://fabricsstar.com/products/confetti?variant=50906327122201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CONFETTI-MULTI.jpg?v=1757518723
     Price: $1.00 USD
 - [CARNIVAL Color Changing Sensory Wall Reversible Sequin Fabric, 52 Inch. in Width](https://fabricsstar.com/products/carnival)
-  Updated: 2025-10-23T20:17:47Z
+  Updated: 2025-10-31T01:44:25Z
   Vendor: Fabrics Star
   Product Type: Reversible Sequin Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-SILVER-PURPLE.jpg?v=1757518724
-  - [Cut by the Yard / Black/Gold](https://fabricsstar.com/products/carnival?variant=50919196721433)
+  - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/carnival?variant=50919196721433)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-BLACK-GOLD.jpg?v=1757518727
     Price: $22.00 USD
-  - [Cut by the Yard / Green/Teal](https://fabricsstar.com/products/carnival?variant=50958838006041)
+  - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/carnival?variant=50906330202393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-BLACK-GOLD.jpg?v=1757518727
+    Price: $1.00 USD
+  - [Green/Teal / Cut by the Yard](https://fabricsstar.com/products/carnival?variant=50958838006041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-GREEN-TEAL.jpg?v=1757518725
     Price: $22.00 USD
-  - [Cut by the Yard / Silver/Purple](https://fabricsstar.com/products/carnival?variant=50958838038809)
+  - [Green/Teal / Sample 3x3 Inch](https://fabricsstar.com/products/carnival?variant=50958838071577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-GREEN-TEAL.jpg?v=1757518725
+    Price: $1.00 USD
+  - [Silver/Purple / Cut by the Yard](https://fabricsstar.com/products/carnival?variant=50958838038809)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-SILVER-PURPLE.jpg?v=1757518724
     Price: $22.00 USD
-  - [Cut by the Yard / Teal/Silver](https://fabricsstar.com/products/carnival?variant=50958853407001)
+  - [Silver/Purple / Sample 3x3 Inch](https://fabricsstar.com/products/carnival?variant=50958838104345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-SILVER-PURPLE.jpg?v=1757518724
+    Price: $1.00 USD
+  - [Teal/Silver / Cut by the Yard](https://fabricsstar.com/products/carnival?variant=50958853407001)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-TEAL-SILVER.jpg?v=1757518728
     Price: $22.00 USD
-  - [Cut by the Yard / Blush/Blush](https://fabricsstar.com/products/carnival?variant=50958853439769)
+  - [Teal/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/carnival?variant=50958853472537)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-TEAL-SILVER.jpg?v=1757518728
+    Price: $1.00 USD
+  - [Blush/Blush / Cut by the Yard](https://fabricsstar.com/products/carnival?variant=50958853439769)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-D-BLUSH-S-BLUSH.jpg?v=1757518726
     Price: $22.00 USD
-  - [Sample 3x3 Inch / Black/Gold](https://fabricsstar.com/products/carnival?variant=50906330202393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-BLACK-GOLD.jpg?v=1757518727
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Green/Teal](https://fabricsstar.com/products/carnival?variant=50958838071577)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-GREEN-TEAL.jpg?v=1757518725
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Silver/Purple](https://fabricsstar.com/products/carnival?variant=50958838104345)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-SILVER-PURPLE.jpg?v=1757518724
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Teal/Silver](https://fabricsstar.com/products/carnival?variant=50958853472537)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-TEAL-SILVER.jpg?v=1757518728
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Blush/Blush](https://fabricsstar.com/products/carnival?variant=50958853505305)
+  - [Blush/Blush / Sample 3x3 Inch](https://fabricsstar.com/products/carnival?variant=50958853505305)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNIVAL-D-BLUSH-S-BLUSH.jpg?v=1757518726
     Price: $1.00 USD
 - [GLITTER Sequin Fabric, 58 Inch. in Width](https://fabricsstar.com/products/glitter)
-  Updated: 2025-10-23T20:17:52Z
+  Updated: 2025-10-31T01:44:05Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-WHITE-SILVER.jpg?v=1757518729
-  - [Cut by the Yard / Black/Gold](https://fabricsstar.com/products/glitter?variant=50919196754201)
+  - [Black/Gold / Cut by the Yard](https://fabricsstar.com/products/glitter?variant=50919196754201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-GOLD-BLACK.jpg?v=1757518732
     Price: $15.40 USD
-  - [Cut by the Yard / Purple](https://fabricsstar.com/products/glitter?variant=50958940078361)
+  - [Black/Gold / Sample 3x3 Inch](https://fabricsstar.com/products/glitter?variant=50906333937945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-GOLD-BLACK.jpg?v=1757518732
+    Price: $1.00 USD
+  - [Purple / Cut by the Yard](https://fabricsstar.com/products/glitter?variant=50958940078361)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-PURPLE.jpg?v=1757518731
     Price: $15.40 USD
-  - [Cut by the Yard / Black/Silver](https://fabricsstar.com/products/glitter?variant=50958940111129)
+  - [Purple / Sample 3x3 Inch](https://fabricsstar.com/products/glitter?variant=50958940176665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-PURPLE.jpg?v=1757518731
+    Price: $1.00 USD
+  - [Black/Silver / Cut by the Yard](https://fabricsstar.com/products/glitter?variant=50958940111129)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-SILVER-BLACK.jpg?v=1757518730
     Price: $15.40 USD
-  - [Cut by the Yard / White/Silver](https://fabricsstar.com/products/glitter?variant=50958940143897)
+  - [Black/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/glitter?variant=50958940209433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-SILVER-BLACK.jpg?v=1757518730
+    Price: $1.00 USD
+  - [White/Silver / Cut by the Yard](https://fabricsstar.com/products/glitter?variant=50958940143897)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-WHITE-SILVER.jpg?v=1757518729
     Price: $15.40 USD
-  - [Sample 3x3 Inch / Black/Gold](https://fabricsstar.com/products/glitter?variant=50906333937945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-GOLD-BLACK.jpg?v=1757518732
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Purple](https://fabricsstar.com/products/glitter?variant=50958940176665)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-PURPLE.jpg?v=1757518731
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Black/Silver](https://fabricsstar.com/products/glitter?variant=50958940209433)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-SILVER-BLACK.jpg?v=1757518730
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White/Silver](https://fabricsstar.com/products/glitter?variant=50958940242201)
+  - [White/Silver / Sample 3x3 Inch](https://fabricsstar.com/products/glitter?variant=50958940242201)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/GLITTER-WHITE-SILVER.jpg?v=1757518729
     Price: $1.00 USD
 - [NAOMI Sheer Fabric, 118 Inch. in Width](https://fabricsstar.com/products/naomi)
-  Updated: 2025-10-23T20:17:46Z
+  Updated: 2025-10-31T01:43:46Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-WHITE.jpg?v=1757518733
-  - [Cut by the Yard / Cream](https://fabricsstar.com/products/naomi?variant=50919196786969)
+  - [Cream / Cut by the Yard](https://fabricsstar.com/products/naomi?variant=50919196786969)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-CREAM.jpg?v=1757518736
     Price: $13.20 USD
-  - [Cut by the Yard / Gold](https://fabricsstar.com/products/naomi?variant=50958947287321)
+  - [Cream / Sample 3x3 Inch](https://fabricsstar.com/products/naomi?variant=50906339311897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-CREAM.jpg?v=1757518736
+    Price: $1.00 USD
+  - [Gold / Cut by the Yard](https://fabricsstar.com/products/naomi?variant=50958947287321)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-GOLD.jpg?v=1757518735
     Price: $13.20 USD
-  - [Cut by the Yard / Linen](https://fabricsstar.com/products/naomi?variant=50958947320089)
+  - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/naomi?variant=50958947418393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-GOLD.jpg?v=1757518735
+    Price: $1.00 USD
+  - [Linen / Cut by the Yard](https://fabricsstar.com/products/naomi?variant=50958947320089)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-LINEN.jpg?v=1757518735
     Price: $13.20 USD
-  - [Cut by the Yard / Pewter](https://fabricsstar.com/products/naomi?variant=50958947352857)
+  - [Linen / Sample 3x3 Inch](https://fabricsstar.com/products/naomi?variant=50958947451161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-LINEN.jpg?v=1757518735
+    Price: $1.00 USD
+  - [Pewter / Cut by the Yard](https://fabricsstar.com/products/naomi?variant=50958947352857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-PEWTER.jpg?v=1757518734
     Price: $13.20 USD
-  - [Cut by the Yard / White](https://fabricsstar.com/products/naomi?variant=50958947385625)
+  - [Pewter / Sample 3x3 Inch](https://fabricsstar.com/products/naomi?variant=50958947483929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-PEWTER.jpg?v=1757518734
+    Price: $1.00 USD
+  - [White / Cut by the Yard](https://fabricsstar.com/products/naomi?variant=50958947385625)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-WHITE.jpg?v=1757518733
     Price: $13.20 USD
-  - [Sample 3x3 Inch / Cream](https://fabricsstar.com/products/naomi?variant=50906339311897)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-CREAM.jpg?v=1757518736
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Gold](https://fabricsstar.com/products/naomi?variant=50958947418393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-GOLD.jpg?v=1757518735
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Linen](https://fabricsstar.com/products/naomi?variant=50958947451161)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-LINEN.jpg?v=1757518735
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / Pewter](https://fabricsstar.com/products/naomi?variant=50958947483929)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-PEWTER.jpg?v=1757518734
-    Price: $1.00 USD
-  - [Sample 3x3 Inch / White](https://fabricsstar.com/products/naomi?variant=50958947516697)
+  - [White / Sample 3x3 Inch](https://fabricsstar.com/products/naomi?variant=50958947516697)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NAOMI-118-WHITE.jpg?v=1757518733
     Price: $1.00 USD
