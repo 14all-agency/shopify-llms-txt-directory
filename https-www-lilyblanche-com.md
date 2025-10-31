@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-31T00:01:01.350Z
+- Updated At: 2025-10-31T08:01:07.499Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2976,7 +2976,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £90.00 GBP
 - [Feather Bangle Gold | Lily Blanche](https://www.lilyblanche.com/products/feather-bangle-gold-silver): This beautiful bangle is made of 18 carat gold vermeil and features a tiny feather charm in sterling silver.
-  Updated: 2025-04-03T17:48:28Z
+  Updated: 2025-10-31T05:42:10Z
   Vendor: Lily Blanche
   Product Type: Bangle
   Availability: Available
@@ -4079,7 +4079,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Blue Topaz Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-white-gold): Looking for a personalised gift? Keep your loved ones close with this Blue Topaz Vintage Heart Locket in white gold. Featuring a heart-shaped blue topaz gemstone. Let us fill your locket for free with 2 photos for a personalised locket you'll love. Hallmarked in Edinburgh. Buy online today with Free UK Shipping.
-  Updated: 2025-10-19T23:17:55Z
+  Updated: 2025-10-31T07:16:16Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9599,7 +9599,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain in White Gold Vermeil](https://www.lilyblanche.com/products/curb-chain-white-gold): Quality and strength assured, this classic, medium-weight white gold vermeil curb chain is the perfect chain for any occasion. Wear this bestselling chain on its own or with one of our white gold vermeil pendants or lockets. Free jewellery care kit included with all orders.
-  Updated: 2025-10-28T16:16:45Z
+  Updated: 2025-10-31T05:09:26Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16857,7 +16857,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £250.00 GBP
 - [Personalised Christmas Locket | Gold Diamond Heart Locket Gift](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
 £175
-  Updated: 2025-10-30T15:37:41Z
+  Updated: 2025-10-31T02:00:41Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17013,7 +17013,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £112.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-30T23:38:20Z
+  Updated: 2025-10-31T07:26:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19155,7 +19155,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-10-30T17:31:30Z
+  Updated: 2025-10-31T03:21:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
