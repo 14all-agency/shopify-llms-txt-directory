@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-31T08:00:58.510Z
+- Updated At: 2025-10-31T20:00:39.687Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-31T06:01:12Z
+  Updated: 2025-10-31T19:20:38Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -6474,7 +6474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/products/italian-ladies-heeled-sandals-and-matching-bag-party-pumps-507412.jpg?v=1743162629
     Price: $117.04 USD
 - [Elastic Waist Drawstring Wide-Leg Pants](https://milvertons.com/products/drawstring-elastic-waist-wide-leg-pants): Introducing these unique Elastic Waist Drawstring Wide-Leg Pants, the perfect addition to your wardrobe. Don't miss out, order yours today at Milvertons.
-  Updated: 2025-10-29T20:26:26Z
+  Updated: 2025-10-31T16:56:27Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -10841,178 +10841,178 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
 - [Butterfly Slingback Sandals & Bag Set – 2025 Wedding Party](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party): Butterfly Slingback Sandals & Bag Set – This handmade set delivers both fashion-forward style and wearability for weddings, celebrations, and special occasions.
-  Updated: 2025-10-31T02:53:18Z
+  Updated: 2025-10-31T13:02:55Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
   - [Gold / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460686574)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460358894)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460326126)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460489966)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460424430)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461604078)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Gold / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461571310)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S959d12d0ae5e442d9bac188248770bfau.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-6066598.webp?v=1761905467
     Price: $118.83 USD
   - [Orange / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460391662)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460457198)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460522734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460588270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460653806)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460719342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Orange / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460784878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S1f6ff5e0037343a789bb7f61f1f56daeI.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-8997268.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460883182)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460817646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461014254)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460948718)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460621038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460555502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Sky Blue / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460752110)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S12f29f5ed0db4fb9bf5ebe1c3b851d28w.webp?v=1761863029
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4926451.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460850414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460915950)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142460981486)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461047022)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461079790)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461112558)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Purple / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461145326)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbc1c5fdc26294547aa53450d3fe05743x.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-2431422.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461178094)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461210862)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461243630)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461276398)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461309166)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461341934)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Silver / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461374702)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S88d18e353be7478e8976573c8785ecebX.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-1806853.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 37](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461669614)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 38](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461636846)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 39](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461473006)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 40](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461440238)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 41](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461538542)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 42](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461505774)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
   - [Olive green / 43](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party?variant=47142461407470)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sf3bb5e8863ef4ab3abd5d94fa1db578cc.webp?v=1761869198
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
 
 ## Collections
@@ -11036,7 +11036,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-31T05:26:36Z
+  Updated: 2025-10-31T11:05:24Z
   Total Products: 137
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -11129,7 +11129,7 @@
   Updated: 2025-10-30T23:08:53Z
   Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-31T05:25:35Z
+  Updated: 2025-10-31T11:03:25Z
   Total Products: 37
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
@@ -11808,6 +11808,10 @@
     Updated: 2025-10-31T07:58:25Z
     Author: The Milvertons Store
     Tags: bag styles, bags, dresses, fashion, matching shoes and bag for women, shoe and bag set for women, shoe combinations, shoes, trendy accessories for women, versatile fashion outfits, women's clothing, women's fashion, women's shoe and bag set
+  - [Understanding the Trends: Women's Clothing with Complementary Shoe and Bag Sets](https://milvertons.com/blogs/blog/understanding-the-trends-womens-clothing-with-complementary-shoe-and-bag-sets): Understanding the Trends: Women's Clothing with Complementary Shoe and Bag Sets
+    Updated: 2025-10-31T09:06:36Z
+    Author: The Milvertons Store
+    Tags: bags, clothing, complementary accessories, dresses, matching shoe and bag sets, matching shoes and bag for women, shoe and bag set for women, shoes, style guide for women, trendy outfits, women's clothing, women's fashion, women's shoe and bag set
 
 ## Store Pages
 
