@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-31T12:00:35.178Z
+- Updated At: 2025-10-31T16:00:35.694Z
 
 ## Products
 
@@ -383,7 +383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
   Price: £2.99 GBP
 - [RED Xmas](https://orovacoffee.com/products/red-xmas)
-  Updated: 2025-10-31T11:51:34Z
+  Updated: 2025-10-31T13:12:30Z
   Vendor: The Brew Company
   Product Type: advent calendar
   Availability: Available
