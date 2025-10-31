@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-30T20:00:33.774Z
+- Updated At: 2025-10-31T00:00:33.177Z
 
 ## Products
 
@@ -1354,7 +1354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7865233497328293861_2048.jpg?v=1760865260
     Price: $22.99 USD
 - [Casual Shoulder Backpack - Lachrywave Oxford Canvas Bag | Lachrymal Gems](https://lachrymalgems.store/products/unisex-casual-shoulder-backpack): Lachrywave casual backpack with durable Oxford canvas. Unisex shoulder bag with laptop sleeve and multiple pockets. From Lachrymal Gems, carry your world.
-  Updated: 2025-10-30T08:22:48Z
+  Updated: 2025-10-30T20:22:55Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
