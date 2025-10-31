@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-31T00:00:57.319Z
+- Updated At: 2025-10-31T12:01:03.290Z
 
 ## Products
 
@@ -1448,7 +1448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/836c8880-2e6b-485c-9e80-7d2a6760009f-Max.webp?v=1760865750
     Price: $42.58 USD
 - [Plus Size Leopard Sweatshirt and Sweatpants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/plus-size-leopard-sweatshirt-sweatpants-set): Shop our Plus Size Leopard Sweatshirt and Sweatpants Set for ultimate comfort and style. Perfect for lounging or casual outings.
-  Updated: 2025-10-20T10:32:00Z
+  Updated: 2025-10-31T07:57:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1466,7 +1466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/599f24c32aa144089b55090d787a38ba-Max.jpg?v=1760865759
     Price: $45.00 USD
   - [Leopard / 4XL](https://np0i0a-pm.myshopify.com/products/plus-size-leopard-sweatshirt-sweatpants-set?variant=51242579656935)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/599f24c32aa144089b55090d787a38ba-Max.jpg?v=1760865759
     Price: $45.00 USD
 - [Plus Size Drawstring Pocketed Straight Jeans - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/plus-size-drawstring-pocketed-straight-jeans): Shop our Plus Size Drawstring Pocketed Straight Jeans for comfort and style. Made with durable materials and a flattering fit. Perfect for any occasion.
@@ -3447,7 +3447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61666c86-73f5-433b-aa34-a72a49959bee-Max.webp?v=1760856509
     Price: $34.34 USD
 - [Game Day Football Print Long Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/game-day-football-print-long-sleeve-t-shirt): Shop our Game Day Football Print Long Sleeve T-Shirt for perfect comfort and style on game day. Made from high-quality materials, this tee is a must-have for every fan.
-  Updated: 2025-10-30T03:03:46Z
+  Updated: 2025-10-31T07:20:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3465,7 +3465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
 - [Ruffled Wide Leg Pants - Stylish High Waist Pull-On with Pockets](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop our Ruffled Wide Leg for a chic high waist pant with pockets, perfect for comfort and style. Easy to care for, versatile, and high-quality material.
-  Updated: 2025-10-30T14:00:37Z
+  Updated: 2025-10-31T07:20:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5137,7 +5137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-10-30T01:22:07Z
+  Updated: 2025-10-31T10:40:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5159,7 +5159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ac4278af-69bb-4b4b-9c97-a8e0705cd6e8-Max-Origin.webp?v=1760857595
     Price: $48.88 USD
 - [Open Front Long Sleeve Cardigan - Comfortable & Stylish](https://np0i0a-pm.myshopify.com/products/open-front-long-sleeve-cardigan): Discover the Open Front Long Sleeve Cardigan, featuring an oversized fit, slightly stretchy material, and easy care instructions. Perfect for any season.
-  Updated: 2025-10-30T05:43:15Z
+  Updated: 2025-10-31T06:00:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5181,7 +5181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3193c73b536849599ce4cff756e1f947-Max-Origin.webp?v=1760857603
     Price: $39.82 USD
 - [Double Take Star Pattern Raw Edge Sweater](https://np0i0a-pm.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Shop our Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater. Enjoy comfort and style with a unique design, made from soft, high-quality materials.
-  Updated: 2025-10-29T19:45:22Z
+  Updated: 2025-10-31T11:35:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5307,7 +5307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/28090fce0ec447f986076195d65c09bf-Max.jpg?v=1760857669
     Price: $46.00 USD
 - [Star Print Washed Drawstring High Waist Wide Leg Jeans - Pretty](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans): Shop stylish Star Print Washed Drawstring High Waist Wide Leg Jeans. Comfortable, trendy, and perfect for any occasion.
-  Updated: 2025-10-30T06:40:52Z
+  Updated: 2025-10-31T07:00:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5317,7 +5317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
   - [Medium / 8](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans?variant=51275666620647)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
   - [Medium / 10](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans?variant=51275666653415)
@@ -10285,7 +10285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d956bc9c70694de0af706f82080d20ac-Max-Origin.webp?v=1760860023
     Price: $51.74 USD
 - [Metallic Balloon Sleeve Buttoned High Neck Blouse](https://np0i0a-pm.myshopify.com/products/metallic-balloon-sleeve-high-neck-blouse): Shop our Metallic Balloon Sleeve Buttoned High Neck Loose Blouse for a stylish, comfortable fit. Features unique cutouts and sequins, perfect for any occasion.
-  Updated: 2025-10-20T10:31:46Z
+  Updated: 2025-10-31T02:00:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10373,7 +10373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
-  Updated: 2025-10-30T23:21:02Z
+  Updated: 2025-10-31T11:35:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11249,7 +11249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3acd6872e9e4d5eb9a1cd9b8fb72740-Max-Origin.webp?v=1760860512
     Price: $32.54 USD
 - [Ruffled Off-Shoulder Flounce Sleeve Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/ruffled-off-shoulder-flounce-sleeve-blouse): Shop the Ruffled Off-Shoulder Flounce Sleeve Blouse for a blend of comfort and style. Perfect for any occasion, this trendy top features ruffled sleeves and a flattering fit.
-  Updated: 2025-10-30T08:21:17Z
+  Updated: 2025-10-31T07:21:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11263,7 +11263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cfc3c1f5c67f4a50836be7d18c885685-Max-Origin.webp?v=1760860552
     Price: $42.06 USD
   - [Gold / L](https://np0i0a-pm.myshopify.com/products/ruffled-off-shoulder-flounce-sleeve-blouse?variant=51371410096359)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cfc3c1f5c67f4a50836be7d18c885685-Max-Origin.webp?v=1760860552
     Price: $42.06 USD
   - [Gold / XL](https://np0i0a-pm.myshopify.com/products/ruffled-off-shoulder-flounce-sleeve-blouse?variant=51371410129127)
@@ -11638,7 +11638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bb83087d-f750-40ad-94d9-89f714c14cef-Max.webp?v=1760860871
     Price: $20.70 USD
 - [Color Block Crew Neck Drop Shoulder Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-crew-neck-drop-shoulder-sweater): Shop the Color Block Crew Neck Drop Shoulder Sweater for a stylish, comfortable fit. Made from a soft blend of viscose, polyester, and polyamide. Easy care instructions.
-  Updated: 2025-10-30T15:01:36Z
+  Updated: 2025-10-31T02:22:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12280,7 +12280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-10-30T19:41:16Z
+  Updated: 2025-10-31T08:01:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12689,28 +12689,6 @@
   - [3X](https://np0i0a-pm.myshopify.com/products/cora-snatched-mini-dress-black?variant=51453537583335)
     Availability: Available
     Price: $34.99 USD
-- [Surplice Cropped Sweater with Back Tie - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/surplice-cropped-sweater-back-tie): Shop the Surplice Cropped Sweater with a fashionable back tie. Made from 100% polyester with a slightly stretchy fit. Perfect for layering or wearing alone.
-  Updated: 2025-10-20T10:32:05Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3a0f07a-fb1a-4f21-bc74-783133da5741-Max-Origin.webp?v=1760861941
-  - [Gray / S](https://np0i0a-pm.myshopify.com/products/surplice-cropped-sweater-back-tie?variant=51456923468007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3a0f07a-fb1a-4f21-bc74-783133da5741-Max-Origin.webp?v=1760861941
-    Price: $47.28 USD
-  - [Gray / M](https://np0i0a-pm.myshopify.com/products/surplice-cropped-sweater-back-tie?variant=51456923500775)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3a0f07a-fb1a-4f21-bc74-783133da5741-Max-Origin.webp?v=1760861941
-    Price: $47.28 USD
-  - [Gray / L](https://np0i0a-pm.myshopify.com/products/surplice-cropped-sweater-back-tie?variant=51456923533543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3a0f07a-fb1a-4f21-bc74-783133da5741-Max-Origin.webp?v=1760861941
-    Price: $47.28 USD
-  - [Gray / XL](https://np0i0a-pm.myshopify.com/products/surplice-cropped-sweater-back-tie?variant=51456923566311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a3a0f07a-fb1a-4f21-bc74-783133da5741-Max-Origin.webp?v=1760861941
-    Price: $47.28 USD
 - [Long Sleeve Crop T-Shirt with Ribbed Texture - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/long-sleeve-crop-tshirt-ribbed-texture): Shop our Long Sleeve Crop T-Shirt with Ribbed Texture for a stylish, comfortable fit. Perfect for layering and casual wear. Easy care and versatile!
   Updated: 2025-10-20T10:32:17Z
   Vendor: Trendsi
@@ -13491,7 +13469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c0252d2-3240-4b42-a49f-674efbf0d197-Max-Origin.webp?v=1760863118
     Price: $48.76 USD
 - [Bow Embroidered Sweatshirt and Shorts Set - Comfortable & Stylish](https://np0i0a-pm.myshopify.com/products/bow-embroidered-sweatshirt-shorts-set): Discover the Bow Embroidered Sweatshirt and Shorts Set, a chic two-piece outfit made from a soft polyester-cotton blend. Perfect for casual wear, machine washable, and available in multiple sizes.
-  Updated: 2025-10-30T21:40:43Z
+  Updated: 2025-10-31T05:40:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13513,7 +13491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd87266e-e19b-4633-a2d4-699427892690-Max-Origin.webp?v=1760863137
     Price: $62.08 USD
 - [Shop Contrast Trim Crop Top and Wide Leg Pants Set](https://np0i0a-pm.myshopify.com/products/contrast-trim-crop-top-wide-leg-pants-set): Discover the stylish Contrast Trim Crop Top and Wide Leg Pants Set. Perfect for any occasion, this two-piece set offers comfort and modern design.
-  Updated: 2025-10-20T10:32:12Z
+  Updated: 2025-10-31T07:57:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13577,7 +13555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16a2895acdc841f28c35f2e31ed94a58-Max-Origin.webp?v=1760863246
     Price: $42.42 USD
 - [Ribbed Knit Long Sleeve Top - Stylish Sweater Set for Cozy Days](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Discover the Ribbed Knit Long Sleeve Top and Skirt Sweater Set, combining comfort and chic style with a pleated design, perfect for versatile fashion. Shop now!
-  Updated: 2025-10-30T22:20:50Z
+  Updated: 2025-10-31T05:21:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13599,7 +13577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
 - [Zip Collar Long Sleeve Top | Comfortable Two-Piece Set for Casual Wear](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Discover the stylish Zip Collar Long Sleeve Top and Drawstring Pants Set, offering comfort and versatility. Perfect for lounging or running errands.
-  Updated: 2025-10-30T20:41:42Z
+  Updated: 2025-10-31T03:00:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13715,7 +13693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4caddeb5e1014d0199779d72d013955f-Max-Origin.webp?v=1760863361
     Price: $44.26 USD
 - [Round Neck Long Sleeve Top - Comfortable & Stylish Two-Piece Set](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging and casual outings, with easy care features.
-  Updated: 2025-10-29T01:11:52Z
+  Updated: 2025-10-31T08:40:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14123,7 +14101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7fbb8695a3f440beb5d6dc1a980a7f36-Max-Origin.webp?v=1760863637
     Price: $32.48 USD
 - [Star Print Top and Drawstring Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/star-print-top-drawstring-pants-set): Shop the stylish Star Print Top and Drawstring Pants Set, perfect for comfort and casual outings. Soft, stretchy fabric and adjustable fit.
-  Updated: 2025-10-30T22:00:45Z
+  Updated: 2025-10-31T00:40:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14145,17 +14123,17 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-30T21:20:37Z
+  Updated: 2025-10-31T09:41:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
   - [Leopard / S](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set?variant=51457716224231)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
   - [Leopard / M](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set?variant=51457716256999)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
   - [Leopard / L](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set?variant=51457716289767)
@@ -14167,7 +14145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
-  Updated: 2025-10-30T20:22:40Z
+  Updated: 2025-10-31T10:39:04Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14975,7 +14953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/def1395c-d569-4470-844d-fcaf459b7069-Max-Origin.webp?v=1760864075
     Price: $44.70 USD
 - [Frill Leopard Long Sleeve Sweater - Trendy Cozy Animal Print Top](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater): Shop the Frill Leopard Long Sleeve Sweater for a stylish and comfortable look. Trendy leopard print with lace detail, perfect for any occasion. Easy to care.
-  Updated: 2025-10-30T07:40:41Z
+  Updated: 2025-10-31T06:40:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15007,7 +14985,7 @@
   Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c6159ad-5368-496f-999a-6da50dab2eb7-Max-Origin.webp?v=1760864139
   Price: $11.54 USD
 - [Suede Moto Jacket with Zip Detail](https://np0i0a-pm.myshopify.com/products/suede-moto-jacket-zip-detail): Discover our stylish suede moto jacket with zip detail, designed for comfort and versatility. Ideal for any season, this jacket combines fashion with function.
-  Updated: 2025-10-26T17:58:01Z
+  Updated: 2025-10-31T05:21:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15616,7 +15594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aeebc593c5994d599f115d378690fa46-Max-Origin.webp?v=1760864607
     Price: $29.06 USD
 - [Ribbed Knit Cardigan & Dress Sweater Set | Stylish and Comfortable](https://np0i0a-pm.myshopify.com/products/ribbed-knit-cardigan-dress-sweater-set): Shop our Ribbed Knit Cardigan & Dress Sweater Set for ultimate comfort and style. Perfect for any occasion, made from high-quality materials.
-  Updated: 2025-10-20T10:32:23Z
+  Updated: 2025-10-31T07:57:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15686,13 +15664,13 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
-  Updated: 2025-10-30T12:01:13Z
+  Updated: 2025-10-31T10:01:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
   - [Dusty Pink / S](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470069991)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
   - [Dusty Pink / M](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470102759)
@@ -15708,7 +15686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
 - [Saved By Grace Letter Embroidery Sweatshirt - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Discover the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt, combining faith-inspired style with comfort, perfect for casual wear and everyday style.
-  Updated: 2025-10-30T05:21:40Z
+  Updated: 2025-10-31T09:21:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17224,7 +17202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761265867
     Price: $36.34 USD
 - [Velvet Ribbed Texture Square Neck Slim Puff Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/velvet-ribbed-texture-square-neck-slim-puff-sleeve-top): Features:Basic style Stretch:No stretch Material composition:90% polyester, 10% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 35.4 25.6 M 25.6 37.8 26 L 26.4 40.2 26.4 XL 27.2 43.3 26.8 - Pretty Melanin Boutique
-  Updated: 2025-10-30T03:41:00Z
+  Updated: 2025-10-31T09:21:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17284,7 +17262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/72232c7fe8b4439282466b70c6416317-Max-Origin.webp?v=1761260946
     Price: $80.76 USD
 - [Leopard Print High Neck Shift Mini Sweater Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-high-neck-shift-mini-sweater-dress): Features:Ribbed Stretch:Slightly stretchy Material composition:52% viscose, 26% polyester, 22% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length S 33.5 39.4 21.3 M 34.3 41.7 21.3 L 35 44.1 21.3 XL 35.8 47.2 21.3 - Pretty Melanin Boutique
-  Updated: 2025-10-30T01:41:38Z
+  Updated: 2025-10-31T03:41:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17826,7 +17804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea73635044e241cb8d51e7b18a59e90d-Max-Origin.webp?v=1761261430
     Price: $16.42 USD
 - [Children's Leopard Print Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrens-leopard-print-long-sleeve-top-and-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Hip 6-9M 12.2 10.2 9.4 9.1 9-12M 13.4 10.6 10.2 9.8 18-24M 14.6 11 11 10.6 2-3 15.7 11.4 11.8 11.4 3-4 16.9 11.8 12.6 12.2 4-5 18.1 12.2 13.4 13 5-6 19.3 12.6 14.2 13.8 - Pretty Melanin Boutique
-  Updated: 2025-10-24T11:49:51Z
+  Updated: 2025-10-31T05:04:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18083,7 +18061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/207a0a1a-6f42-46c7-b42f-cb642e72c5b4-Max-Origin.webp?v=1761457710
     Price: $43.36 USD
 - [Long Sleeve Sweatshirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-sweatshirt-and-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 26.8 25.1 42.1 40.6 M 28.7 25.8 44.5 40.9 L 30.7 26.6 46.9 41.3 XL 33.5 27.3 50 41.7 - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:22:26Z
+  Updated: 2025-10-31T07:21:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18744,7 +18722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f0b592be-463c-4b9b-bd21-e94dd39a7e63-Max-Origin.webp?v=1761701079
     Price: $59.50 USD
 - [High Waist Wide Flare Pants - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:34:31Z
+  Updated: 2025-10-31T09:30:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18830,7 +18808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
     Price: $43.88 USD
 - [Mock Neck Long Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top): Features: Basic style Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 95%  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:35:55Z
+  Updated: 2025-10-31T11:26:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19058,7 +19036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
     Price: $29.76 USD
 - [Leopard Round Neck Raglan Sleeve Sweatshirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:37:57Z
+  Updated: 2025-10-31T01:32:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19184,7 +19162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
     Price: $39.06 USD
 - [Color Block Long Sleeve Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater): Features:Oversized Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:39:12Z
+  Updated: 2025-10-31T02:37:54Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19284,7 +19262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
     Price: $26.00 USD
 - [Cold Shoulder Ruffle Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse): Features:Tied,Ruffled Stretch:No stretch Material composition:100% polyester Care  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:40:32Z
+  Updated: 2025-10-31T11:58:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19358,7 +19336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6bfae969fdb14b0e8f6163e6db679ecc-Max-Origin.webp?v=1761867576
     Price: $70.28 USD
 - [Lace Trim One Shoulder Bodysuit - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit): Features:Lace Detail,Sheer Stretch:Slightly stretchy Material composition:90% polyester, 10%  - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:43:52Z
+  Updated: 2025-10-31T09:00:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19664,8 +19642,8 @@
   Updated: 2025-10-30T23:43:56Z
   Total Products: 380
 - [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
-  Updated: 2025-10-30T23:44:25Z
-  Total Products: 386
+  Updated: 2025-10-31T10:01:27Z
+  Total Products: 385
 - [All Products (ChatGPT-AI Product Description) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Pretty Melanin Boutique
   Updated: 2025-10-30T23:44:25Z
   Total Products: 397
