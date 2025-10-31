@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-30T16:00:34.643Z
+- Updated At: 2025-10-31T04:00:33.394Z
 
 ## Products
 
@@ -351,7 +351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/64809229-c339-4fc4-8f4f-7d996c306690-Max.webp?v=1759899990
     Price: $58.62 USD
 - [Mittoshop Chiffon Ruffle Layer Elastic Waist Midi Skirt](https://exp5dc-d1.myshopify.com/products/mittoshop-chiffon-ruffle-layer-elastic-waist-midi-skirt): Mittoshop Chiffon Ruffle Layer Elastic Waist Midi Skirt: flowy cascading ruffle layers & comfortable adjustable elastic waistband. Versatile style. Buy today!
-  Updated: 2025-10-28T03:52:07Z
+  Updated: 2025-10-30T20:06:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -541,13 +541,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/5886e35c-8bc0-4028-94d6-f95cbf6a6847-Max-Origin.webp?v=1759908689
-  Price: $40.08 USD
-- [Fame Faux Leather Studded Trim Shoulder Bag](https://exp5dc-d1.myshopify.com/products/fame-faux-leather-studded-trim-shoulder-bag-1): Fame Faux Leather Studded Trim Shoulder Bag: rich burgundy faux leather & silver stud accents. Adjustable strap with decorative buckle. Buy today!
-  Updated: 2025-10-28T03:46:20Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/2242b382-e27f-4791-9153-6fc803b11272-Max-Origin.webp?v=1759908722
   Price: $40.08 USD
 - [Fame Faux Leather Studded Trim Shoulder Bag](https://exp5dc-d1.myshopify.com/products/fame-faux-leather-studded-trim-shoulder-bag-2): Fame Faux Leather Studded Trim Shoulder Bag: Western-inspired silver studs & adjustable strap for comfort. Loved by trendsetters for bold style. Buy today!
   Updated: 2025-10-28T03:46:20Z
@@ -1366,7 +1359,7 @@
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/e3d9b500-8a8d-4f23-98dd-2cf2e132009d-Max-Origin.webp?v=1761539527
   Price: $45.16 USD
 - [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets): Zenana Long Sleeve Flare Dress With Pockets: flattering fit-and-flare silhouette & practical long sleeves with pockets. Versatile style for any occasion. Buy today!
-  Updated: 2025-10-30T02:42:21Z
+  Updated: 2025-10-30T16:22:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1388,7 +1381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
     Price: $21.66 USD
 - [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1): Zenana Long Sleeve Flare Dress With Pockets: Soft, breathable fabric & flattering A-line silhouette. Convenient pockets add function. Buy today!
-  Updated: 2025-10-30T02:44:37Z
+  Updated: 2025-10-30T17:43:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
