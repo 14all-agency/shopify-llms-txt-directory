@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-31T00:00:36.546Z
+- Updated At: 2025-10-31T08:01:10.943Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -203,7 +203,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_0c1802e6-92b7-496a-9b08-2c2fefc94c6f.jpg?v=1744908651
   Price: 970,00 € EUR
 - [Kenwood L-1000D HighEnd CD-Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kenwood-l-1000d-gebraucht-kaufen): Kenwood L-1000D HighEnd CD-Player gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:21Z
+  Updated: 2025-10-31T02:47:41Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -301,7 +301,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b44f4eb4-0732-4839-8214-9ff3d6f31927.jpg?v=1744908261
   Price: 480,00 € EUR
 - [Devialet 400 kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/devialet-400-kaufen): Devialet 400 neu kaufen ✅ Geprüfter Verstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:13Z
+  Updated: 2025-10-31T02:38:22Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -343,7 +343,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_649f0b38-cdb8-4471-92f9-fa862a02c241.jpg?v=1744908790
   Price: 739,00 € EUR
 - [Thorens TTA 2000 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/thorens-tta-2000-gebraucht-kaufen): Thorens TTA 2000 gebraucht kaufen ✅ Geprüfter Stereo Power Amplifier mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:48Z
+  Updated: 2025-10-31T02:48:52Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
