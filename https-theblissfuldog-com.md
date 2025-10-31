@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-31T00:01:02.004Z
+- Updated At: 2025-10-31T04:00:46.055Z
 
 ## Products
 
@@ -347,7 +347,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASSET_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631573272
     Price: $10.95 USD
 - [Beagle Nose Butter Handcrafted Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/beagle): The Blissful Dog Beagle Nose Butter Moisturizes your Beagle's rough, dry nose using all natural, handcrafted good stuff. In tins & tubes, scented and unscented.
-  Updated: 2025-10-30T09:40:45Z
+  Updated: 2025-10-31T01:11:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -4725,7 +4725,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHI_DUO_COMBO_TIN_2500-copy.jpg?v=1648331069
   Price: $29.95 USD
 - [Is Your Brittany Dog Afraid of Thunder? Fireworks?](https://theblissfuldog.com/products/brittany-relax): Is your Brittany Dog afraid of thunderstorms, fireworks or being alone. Relax Aromatherapy soothes the edge of fears using a gentle blend of essential oils.
-  Updated: 2025-10-16T15:40:02Z
+  Updated: 2025-10-31T02:29:45Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -9720,7 +9720,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ETS-BOOBOO-50TUBE-DUO-2500copy.jpg?v=1738754908
     Price: $11.95 USD
 - [The Blissful Dog Natural Treatment for Coton de Tulear Skin Problems](https://theblissfuldog.com/products/coton-de-tulear-boo-boo-butter): Soothe your Coton de Tulear skin problems with our natural Boo Boo Butter treatment. All natural balm for minor skin irritations; scratches, clipper/brush burn+
-  Updated: 2025-10-16T15:40:40Z
+  Updated: 2025-10-31T02:28:30Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
