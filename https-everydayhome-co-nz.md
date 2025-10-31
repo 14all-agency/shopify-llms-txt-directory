@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-30T20:00:39.587Z
+- Updated At: 2025-10-31T00:00:39.928Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Glam-Hair-Tool-Organiser-White-Charcoal-9.jpg?v=1727659608
   Price: $69.99 NZD
 - [Umbra Glam Cosmetic Organiser - White/Grey](https://everydayhome.co.nz/products/glam-cosmetic-organiser-white-grey): Glam Cosmetic Organiser, White/Grey
-  Updated: 2025-10-27T12:31:32Z
+  Updated: 2025-10-30T23:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -760,7 +760,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Pillar-Coat-Rack-Black-Walnut-7.jpg?v=1727659748
   Price: $279.99 NZD
 - [Umbra Pillar Stool & Coatrack - Black/Walnut](https://everydayhome.co.nz/products/pillar-stool-coatrack-black-walnut): The Pillar Coatrack and Stool is a versatile and space-saving furniture piece that is essential for modern households. It features 6 sturdy hooks and a built-in stool for storing items and providing a place to sit and put on shoes. Its vertical design makes it ideal for small spaces, allowing for maximum storage. Use it in any room for organizing clothes, towels, or bags and jackets.
-  Updated: 2025-10-27T12:32:18Z
+  Updated: 2025-10-30T23:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -844,7 +844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $59.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-10-29T07:07:11Z
+  Updated: 2025-10-30T23:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1096,7 +1096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Matt-Black-5.png?v=1727660185
   Price: $149.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-10-30T01:22:11Z
+  Updated: 2025-10-30T23:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1817,7 +1817,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-16-18-20Cm-Universal-Steamer-Essteele-9.jpg?v=1731901924
   Price: $109.99 NZD
 - [Essteele Stainless Steel Powder Cleaner 495gm](https://everydayhome.co.nz/products/essteele-495gm-powder-cleaner): Treat your cookware to thorough cleaning with the Essteele Powder cleaner. This convenient powder is easy to use and restores your cookware to its original shine. Suitable for use on all stainless steel and copper cookware.
-  Updated: 2025-10-30T01:04:06Z
+  Updated: 2025-10-30T21:07:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2307,7 +2307,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-24cm-7-6L-Stockpot-Raco-6.jpg?v=1731902939
   Price: $159.99 NZD
 - [Raco Contemporary - 28cm Frypan](https://everydayhome.co.nz/products/raco-contemporary-28cm-open-french-skillet): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Family Feast Ready: The 28cm Nonstick Frypan This Frypan is perfect for larger families. Whether you're frying, sautéing, searing, or stir-frying, this pan makes it easy to cook up delicious meals for everyone.
-  Updated: 2025-10-30T06:37:07Z
+  Updated: 2025-10-30T22:37:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2615,7 +2615,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnClothesRack_Small-White-8710755118227Brabantia_96dpi_1000x1000px_7_NR-13589.png?v=1734391189
   Price: $349.99 NZD
 - [Brabantia Profile Knife Block Set - Beech Wood](https://everydayhome.co.nz/products/wooden-knife-block-plus-knives-c): Cut the clutter in your drawers with this Brabantia Profile Knife Block including five great knives: a Chef's Knife, Bread Knife, Carving Knife, Utility Knife and Paring Knife. The ice-hardened steel blades keep their sharp edge longer, and are both scratch and corrosion resistant. They have a seamless grip, are easy to clean, and hygienic to use. Organising and cutting in one.
-  Updated: 2025-10-28T01:07:11Z
+  Updated: 2025-10-30T22:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2818,7 +2818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideWashingUpBowl_DryingTray-DarkGrey-8710755302664Brabantia_96dpi_1000x1000px_7_NR-19627.png?v=1734574623
   Price: $79.99 NZD
 - [Brabantia Kitchen Utensils Set with Stand - Mixed Colours](https://everydayhome.co.nz/products/kitchen-utensil-set-w-stand-n-stick-mixed-colours): Keep your favourite kitchen helpers handy with this Tasty+ Kitchen Utensils Set plus Stand. A smart set of a stand and 4 two-in-one kitchen essentials: a Soup Ladle plus Scraper Tool, a Serving Spoon plus Spatula, a Skimmer plus Ladle, and a Spatula. A winning team.
-  Updated: 2025-10-27T12:34:42Z
+  Updated: 2025-10-30T23:37:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2881,7 +2881,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardCoverB_124x38cm2mmFoam-Metallised-8710755317705Brabantia_96dpi_1000x1000px_7_NR-3060.png?v=1733871119
   Price: $37.99 NZD
 - [Brabantia Ironing Board Cover C - Metallised Silver](https://everydayhome.co.nz/products/ironing-board-cover-c-124x45cm-2mm-foam-metalised-silver): Better ironing without any extra effort - this Brabantia metallised cotton ironing board cover is a dream come true. It reflects the heat of your (steam) iron, giving you double ironing power!
-  Updated: 2025-10-28T01:07:10Z
+  Updated: 2025-10-30T23:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3295,7 +3295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/13406_IMG-002.png?v=1746478953
     Price: $319.00 NZD
 - [SwiftDry SkyLine Post Kit (2 Types)](https://everydayhome.co.nz/products/skyline-in-ground-post-kit-1-6m-wide): Upgrade your SwiftDry clothesline with this pair of heavy-duty black powder-coated posts. Designed for versatile mounting, they include multiple height positions for a perfect fit. Made from 50mm Square galvanized steel, they come with 316 stainless steel fixing bolts and optional surface mount plates or in-ground concrete installation. A durable, New Zealand-made solution for secure and stylish outdoor drying. Kit includes; -2x 50mm x 25mm x 2mm wall Heavy Duty Steel posts, Galvanised and Black Powder Coated -1 x 30mm length adjustable Back Bar -In-ground posts are 2390mm high, 490mm to be concreted into the groundSurface-mounted posts are 1990mm high -In-ground posts to be concreted in, or Plated feet for Surface Mounting/bolting to existing concrete. -316 Stainless Steel fixing bolts -8 x concrete screws supplied with the Surface mounted post kit *New Zealand Made Quality*
-  Updated: 2025-10-18T23:42:46Z
+  Updated: 2025-10-30T22:37:11Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3309,7 +3309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-10-27T23:12:45Z
+  Updated: 2025-10-30T22:37:11Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3922,7 +3922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/NewIconPedalBin_3L-SoftBeige-8710755149887Brabantia_300dpi_2000x2000px_9_NR-28696.jpg?v=1754623701
   Price: $79.99 NZD
 - [Brabantia Newicon Pedal Bin - 3L White](https://everydayhome.co.nz/products/pedal-bin-newicon-3l-white): Add some style with the cute Brabantia Pedal Bin NewIcon 3 litre. Timeless design, with an odour-proof and soft closing lid. And of course this extra small NewIcon pedal bin is hygienic, easy to open and keep clean too. Perfect for your bathroom, toilet or any other room that could use a great little bin.
-  Updated: 2025-10-27T20:07:12Z
+  Updated: 2025-10-30T23:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4732,13 +4732,6 @@
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
-  Price: $39.99 NZD
-- [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-10-27T12:31:23Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022635-158_RODEOBUDDY_CHROME_CC01.jpg?v=1755557046
   Price: $39.99 NZD
 - [Umbra Casita Diffuser - Sand](https://everydayhome.co.nz/products/umbra-casita-diffuser-sand): Enhance your space with Castia- where function meets thoughtful design. Made for use with 100% pure essential oils, Casita fills your home with calming aromas while doubling as a stylish decor piece. Designed with convenience and ambiance in mind, it features an integrated soft white LED light with two brightness settings (100% and dimmed), perfect for creating a relaxing environment. *Essential oils not included
   Updated: 2025-10-27T12:31:23Z
