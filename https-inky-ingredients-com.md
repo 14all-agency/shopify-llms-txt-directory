@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-31T00:00:54.315Z
+- Updated At: 2025-10-31T04:00:38.917Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -44,7 +44,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
   Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
   Price: £100.80 GBP
 - [Melt & Pour SLS - Free White Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-white-base): Formulate mild and SLS-free white soaps effortlessly using Melt & Pour SLS - Free White Base. This base provides a gentle cleansing experience while offering a blank canvas for creative soap designs.
-  Updated: 2025-10-23T13:38:31Z
+  Updated: 2025-10-31T00:15:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -58,7 +58,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
     Price: £55.80 GBP
 - [Melt & Pour SLS - Free Clear Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-clear-base): Craft gentle and SLS-free clear soaps with Melt & Pour SLS - Free Clear Base. Perfect for those with sensitive skin, it allows for a transparent soap-making experience without compromising on quality.
-  Updated: 2025-10-21T20:24:57Z
+  Updated: 2025-10-31T00:15:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3751,7 +3751,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £49.20 GBP
 - [Coconut Oil, Fractionated](https://inky-ingredients.com/products/coconut-oil-fractionated-mct): Fractionated Coconut Oil, rich in MCTs, is a versatile beauty aid. Its lightweight and non-greasy formula make it an excellent choice for skincare, massage, and hair care routines.
-  Updated: 2025-10-29T11:14:21Z
+  Updated: 2025-10-31T00:15:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4705,7 +4705,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £925.80 GBP
 - [Aloe Vera 200:1, Powder](https://inky-ingredients.com/products/aloe-vera-200-1-powder): Aloe Vera 200:1 Powder is a concentrated form of Aloe Vera, known for its skin-soothing properties. This versatile powder can be incorporated into skincare formulations, providing hydration and soothing effects, making it an excellent choice for natural cosmetic products.
-  Updated: 2025-10-24T22:39:50Z
+  Updated: 2025-10-31T00:15:25Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4726,7 +4726,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £894.39 GBP
 - [Aloe Vera 1:1, Juice](https://inky-ingredients.com/products/aloe-vera-1-1-juice): Aloe Vera 1:1 Juice is a liquid form of the plant's goodness. Known for its hydrating and calming properties, it's a popular ingredient in skincare and wellness products, promoting skin health and overall well-being.
-  Updated: 2025-10-24T08:27:40Z
+  Updated: 2025-10-31T00:15:27Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7204,7 +7204,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £180.00 GBP
 - [Free Sample - Jojoba, Butter - 50g](https://inky-ingredients.com/products/free-gift-jojoba-butter-50g): A free 50g sample on orders over £85 (packaging will be different to image shown). Jojoba Butter combines the benefits of Jojoba oil with a buttery consistency. Rich in vitamins and antioxidants, it nourishes and conditions the skin, promoting a soft and smooth texture. Ideal for moisturising and soothing.
-  Updated: 2025-10-30T12:43:20Z
+  Updated: 2025-10-31T00:15:25Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
