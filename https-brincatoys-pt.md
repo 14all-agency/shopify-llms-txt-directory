@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-31T16:01:19.978Z
+- Updated At: 2025-10-31T20:01:14.969Z
 
 ## Products
 
@@ -1554,7 +1554,7 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-lee-race-550364522-0194735036455-cars-1178693080.jpg?v=1752832562
   Price: 11,99 € EUR
 - [Jogo de Cartas Five Alive - Diversão Familiar Estratégica](https://brincatoys.pt/products/cartas-five-alive): Descubra Five Alive, o jogo de cartas perfeito para diversão familiar com um toque estratégico ideal. Ideal para momentos de lazer repletos de desafios.
-  Updated: 2025-10-31T12:24:20Z
+  Updated: 2025-10-31T17:12:37Z
   Vendor: Seleção Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -4810,7 +4810,7 @@ cofre bancário e roubou o ouro - mas a ajuda está a caminho! Spider-Man
 chega rapidamente graças ao seu fixe jet pack carregado com mísseis. 
 Conduz o Spidey até à posição certa, faz pontaria e dispara. Sente o 
 chão a tremer quando o Hulk derruba o vilão com o camião giga...
-  Updated: 2025-10-31T12:25:20Z
+  Updated: 2025-10-31T19:51:03Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -19367,7 +19367,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-10-31T12:30:52Z
+  Updated: 2025-10-31T18:40:36Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19822,7 +19822,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-classic-splinter-233879825-0043377810100-tartarugas-ninja-1178692461.jpg?v=1752822014
   Price: 19,99 € EUR
 - [Hot Wheels - 99 Honda Civic Type R (EK9) & Honda Civic Type R](https://brincatoys.pt/products/hot-wheels-99-honda-civic-type-r-ek9-honda-civic-type-r): Adiciona à tua coleção o Hot Wheels - 99 Honda Civic Type R (EK9) & Honda Civic Type R com detalhes impressionantes. Não percas esta edição exclusiva!
-  Updated: 2025-10-31T12:31:07Z
+  Updated: 2025-10-31T16:33:46Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -20363,7 +20363,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-stygimoloch-premium-figure-232849725-0194735284979-jurassic-world-1192199290.jpg?v=1757505968
   Price: 24,90 € EUR
 - [Hot Wheels - 96 Nissan 180SX Type X & Nissan SilEighty](https://brincatoys.pt/products/hot-wheels-96-nissan-180sx-type-x-nissan-sileighty): Eleva a tua coleção com o Hot Wheels - 96 Nissan 180SX Type X & Nissan SilEighty. A combinação perfeita de detalhe e performance aguarda por ti!
-  Updated: 2025-10-31T12:31:23Z
+  Updated: 2025-10-31T16:33:51Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -21526,6 +21526,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-studio-series-wheeljack-em-18-passos-861791525-5010996346315-transformers-1200680752.jpg?v=1761919749
   Price: 36,50 € EUR
+- [Barbie Signature Ballet Wishes: A Elegância do Ballet](https://brincatoys.pt/products/barbie-signature-ballet-wishes): Desperte a sua paixão pela dança com a Barbie Signature Ballet Wishes. Uma boneca deslumbrante que é perfeita para encantar! 🌟
+  Updated: 2025-10-31T17:48:01Z
+  Vendor: Barbie Signature
+  Product Type: + 6 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-ballet-wishes-a-elegancia-do-ballet-232609725-0194735260973-barbie-signature-1200714643.jpg?v=1761925805
+  Price: 54,90 € EUR
+- [Figura Surpresa Stumble Guys Série 3 para Colecionar](https://brincatoys.pt/products/figura-surpresa-stumble-guys-serie-3): Descobre a Figura Surpresa Stumble Guys Série 3 e coleciona mini-figuras cheias de personalidade. Surpreende-te com cada unboxing!
+  Updated: 2025-10-31T19:48:05Z
+  Vendor: Stumble Guys
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-surpresa-stumble-guys-serie-3-para-colecionar-234022225-7290120516649-stumble-guys-1200735919.jpg?v=1761940084
+  Price: 6,00 € EUR
 
 ## Collections
 
@@ -21608,8 +21622,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 109
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-10-31T12:23:49Z
-  Total Products: 226
+  Updated: 2025-10-31T18:04:32Z
+  Total Products: 227
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-10-31T12:23:49Z
   Total Products: 1
@@ -21686,8 +21700,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:50Z
   Total Products: 701
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 324
+  Updated: 2025-10-31T18:04:32Z
+  Total Products: 325
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-31T12:23:50Z
   Total Products: 19
@@ -21698,29 +21712,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:50Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-31T12:23:50Z
-  Total Products: 1291
+  Updated: 2025-10-31T18:07:25Z
+  Total Products: 1292
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-31T12:23:50Z
-  Total Products: 2408
+  Updated: 2025-10-31T18:07:25Z
+  Total Products: 2409
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-31T12:23:50Z
-  Total Products: 2872
+  Updated: 2025-10-31T18:07:25Z
+  Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3263
+  Updated: 2025-10-31T18:07:25Z
+  Total Products: 3264
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3398
+  Updated: 2025-10-31T18:07:25Z
+  Total Products: 3400
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3478
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3480
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3527
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3529
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-31T14:53:30Z
-  Total Products: 442
+  Updated: 2025-10-31T18:04:32Z
+  Total Products: 443
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-31T12:23:50Z
   Total Products: 59
@@ -21731,8 +21745,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:50Z
   Total Products: 22
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
-  Updated: 2025-10-31T12:23:51Z
-  Total Products: 19
+  Updated: 2025-10-31T16:34:12Z
+  Total Products: 20
 - [Baby Alive](https://brincatoys.pt/collections/baby-alive)
   Updated: 2025-10-31T12:23:51Z
   Total Products: 6
@@ -21908,8 +21922,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3560
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3562
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-31T14:53:30Z
   Total Products: 283
@@ -21929,14 +21943,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 137
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-31T12:23:54Z
-  Total Products: 186
+  Updated: 2025-10-31T16:34:12Z
+  Total Products: 187
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 78
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 224
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 225
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 89
@@ -21944,11 +21958,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3561
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3561
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 22
@@ -21956,11 +21970,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 18
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
-  Updated: 2025-10-31T12:23:54Z
-  Total Products: 6
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3064
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3065
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 19
@@ -21968,10 +21982,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 124
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-31T14:15:19Z
-  Total Products: 3064
+  Updated: 2025-10-31T18:07:26Z
+  Total Products: 3065
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-31T14:53:29Z
+  Updated: 2025-10-31T18:04:31Z
   Total Products: 833
 
 ## Blogs
