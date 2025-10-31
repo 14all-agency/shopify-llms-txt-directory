@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-30T16:00:42.556Z
+- Updated At: 2025-10-31T00:00:41.044Z
 
 ## Products
 
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/hemani-henne-black-with-bakhour.jpg?v=1737108143
   Price: 8,50 € EUR
 - [Khôl Noir artisanal en Poudre + bâton applicateur](https://ma-boutique-henne.com/products/khol-en-poudre-artisanal-noir-et-applicateur): Le Khôl, pierre, antimoine, beauté orientale, hommes et les femmes. maquillage et cosmétique bio et vegan, 100% naturel, regard, crayon, noir, intense, souligner, fard, paupière, vegan, produit, maquiller, biologique, yeux sensibles, lentilles, démaquiller, longue tenue, liner, maghreb, moyen orient, henne, boutique
-  Updated: 2025-10-29T21:39:22Z
+  Updated: 2025-10-30T19:47:05Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -548,7 +548,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1vrQHaCSD3KVjSZFKq6z10VXa9.jpg_q50.jpg?v=1564063547
   Price: 12,00 € EUR
 - [Petit fouet / mélangeur avec embout plastique](https://ma-boutique-henne.com/products/petit-fouet-melangeur-avec-embout-plastique): Ce mini fouet accessoire indispensable pour vos tambouilles ustensiles non métalliques, préparation masques capillaires et colorations végétales, petit batteur, mélangeur, mélanger ingrédient, poudres, plantes, décoction, préparer henné, soin capillaire, sidr, neem, shikakai, plastique, outils, bol, récipient, cheveux
-  Updated: 2025-10-23T16:54:52Z
+  Updated: 2025-10-30T18:06:16Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -590,7 +590,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/argile-rose.jpg?v=1530879787
   Price: 10,50 € EUR
 - [Bandeau de Mousse, accessoire pour chignon "Bun / Donut"](https://ma-boutique-henne.com/products/bandeau-mousse-accessoire-pour-chignon): chignon réussi, coiffer, cheveux, bandeau de mousse, astucieux chignons "banane" que des "buns" ou "donuts". matière est toute douce, n'abîme pas vos longueurs, ni pointes, coiffure protectrices, accessoires coiffure, relever, déméler, pointes sèches, pic, barrette, pince, élastiques, queue de cheval, femme
-  Updated: 2025-10-06T14:20:47Z
+  Updated: 2025-10-30T18:06:16Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -983,7 +983,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-noir-50ml.png?v=1724233168
   Price: 15,00 € EUR
 - [Huile de Coco Bio - ECOCERT](https://ma-boutique-henne.com/products/huile-de-coco-bio-olio-di-cocco-le-erbe-di-janas): Huile de Coco Bio extra vierge 100 % naturel, végétale, protecteur, anti-oxydant, Nourrit intensément et protège, Propriétés amincissantes, ingrédient de base, cosmétiques, le erbe di janas, huile végétale, mangue, ricin, soin peau, visage, cheveux, sec, abîmés, henne d'algérie, henné rouge cerise, sidr, katam, violine
-  Updated: 2025-10-11T12:09:54Z
+  Updated: 2025-10-30T18:06:15Z
   Vendor: Ma Boutique Henné
   Product Type: Huile Végétale
   Availability: Available
@@ -1039,7 +1039,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/179-large_default.jpg?v=1548845590
   Price: 6,00 € EUR
 - [Shampoing Bio Clarifiant préparateur à la coloration - Avatara, La Saponaria](https://ma-boutique-henne.com/products/shampoing-clarifiant-preparateur-a-la-coloration-avatara-la-saponaria): Henné blond doré, coloration végétale Devi, la saponaria, Hennetica,  fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-29T12:55:06Z
+  Updated: 2025-10-30T18:06:16Z
   Vendor: ma boutique henné
   Product Type: Shampoing
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-30T10:38:21Z
+  Updated: 2025-10-30T19:47:06Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2026,8 +2026,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/27be79c2a674869ed16e5038c7d898de_44f4d97d-8775-4276-8926-6242281b76af.jpg?v=1737230791
   Price: 5,90 € EUR
+- [Henné Auburn Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-auburn-poudre-henne-color-paris): Ce henné 100% naturel, auburn henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
+  Updated: 2025-10-30T19:37:25Z
+  Vendor: Ma Boutique Henné
+  Product Type: Henné
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/532314459_poudre_AUBURN.jpg?v=1736417448
+  Price: 5,90 € EUR
+- [Henné Acajou Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-acajou-poudre-henne-color-paris): Ce henné 100% naturel, auburn acajou henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
+  Updated: 2025-10-30T19:05:45Z
+  Vendor: Ma Boutique Henné
+  Product Type: Henné
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/847555733_poudre_ACAJOU.jpg?v=1736417476
+  Price: 5,90 € EUR
+- [Henné Châtain Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-chatain-poudre-henne-color-paris): Ce henné 100% naturel, chatain chesnut brun marron henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
+  Updated: 2025-10-30T19:05:10Z
+  Vendor: Ma Boutique Henné
+  Product Type: Henné
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/994537205_poudre_CHATAIN.jpg?v=1736417390
+  Price: 5,90 € EUR
+- [Henné Brun Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-brun-poudre-henne-color-paris): Ce henné 100% naturel, chatain chesnut brun marron henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
+  Updated: 2025-10-30T19:05:30Z
+  Vendor: Ma Boutique Henné
+  Product Type: Henné
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/473513777_poudre_BRUN.jpg?v=1736417420
+  Price: 5,90 € EUR
 - [Henné Noir Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-noir-poudre-henne-color-paris): Ce henné 100% naturel, chatain brun noir indigo henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
-  Updated: 2025-09-24T08:58:22Z
+  Updated: 2025-10-30T19:04:50Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
