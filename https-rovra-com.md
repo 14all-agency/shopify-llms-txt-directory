@@ -10,7 +10,7 @@
 - Contact Email: reverbarberproducts@gmail.com
 - Contact Phone: 0767661863
 - Address: Paunesti, Vrancea, 077145 Vrancea, Romania
-- Updated At: 2025-10-29T12:00:43.761Z
+- Updated At: 2025-10-31T20:00:32.913Z
 
 ## Products
 
@@ -654,7 +654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0787/4759/9184/files/rovra-clipper-cover-for-barbers-pulse-clean-white.jpg?v=1751978869
     Price: €10.00 EUR
 - [Warranty Product](https://rovra.com/products/warranty-product)
-  Updated: 2025-10-20T00:53:50Z
+  Updated: 2025-10-31T04:38:18Z
   Vendor: Rovra
   Product Type: wk_warranty
   Availability: Available
