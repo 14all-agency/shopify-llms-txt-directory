@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-30T20:01:25.302Z
+- Updated At: 2025-10-31T00:01:35.839Z
 
 ## Products
 
@@ -4840,7 +4840,7 @@ caminha a passos largos para ação super dinâmica com duas grandes
 espadas. Uau – tem cuidado! O maldito guerreiro serpente está pronto 
 para combater contigo com a sua lança comprida e afiada. Será que 
 ...
-  Updated: 2025-10-28T09:30:36Z
+  Updated: 2025-10-30T20:01:46Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -11720,7 +11720,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-batman-cinturao-cinzento-30-cm-773440623-dc-comics-1178696674.jpg?v=1752804368
   Price: 18,99 € EUR
 - [Figura DC - The Joker 30 cm](https://brincatoys.pt/products/figura-dc-the-joker-30-cm): Cria as tuas próprias histórias do Universo DC com a figura de ação de 30 cm da DC Comics The Joker. Apresenta 11 pontos de articulação e um estilo icônico detalhado que dá vida ao teu personagem favorito da DC! Junta-te a super-heróis e vilões icônicos no universo DC. Envolve a tua imaginação com a tua figura de ação enquanto jogas as tuas própria
-  Updated: 2025-10-29T16:57:36Z
+  Updated: 2025-10-30T20:39:36Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -13457,7 +13457,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-sonic-76992-ilha-de-resgate-animal-brincatoys-667699223-5702017419503-lego-1178697561.jpg?v=1752912497
   Price: 58,50 € EUR
 - [Peluche Minnie 35 cm: Conforto e Magia Disney](https://brincatoys.pt/products/peluche-minnie-35-cm): Deixe a imaginação brilhar com o Peluche Minnie 35 cm! Este encantador brinquedo macio é perfeito para abraços e para decorar quartos.
-  Updated: 2025-10-28T09:33:53Z
+  Updated: 2025-10-30T20:21:55Z
   Vendor: Seleção Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -16609,7 +16609,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jato-do-homem-aranha-lanca-agua-diversao-marvel-908967524-5010996194602-marvel-1178700056.jpg?v=1752950169
   Price: 27,90 € EUR
 - [Figura Homem-Aranha Epic Hero - Herói de Ação](https://brincatoys.pt/products/figura-homem-aranha-epic-hero): Descubra a Figura Homem-Aranha Epic Hero e dê aos seus pequenos a oportunidade de mergulhar no universo Marvel com seu super-herói favorito.
-  Updated: 2025-10-28T09:35:17Z
+  Updated: 2025-10-30T20:39:40Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -21672,17 +21672,17 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-30T18:29:11Z
   Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3258
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3264
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3393
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3399
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3473
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3479
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3522
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3528
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-30T19:54:10Z
   Total Products: 438
@@ -21765,8 +21765,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:01Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-10-28T09:29:01Z
-  Total Products: 46
+  Updated: 2025-10-30T20:24:07Z
+  Total Products: 52
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
   Updated: 2025-10-28T09:29:01Z
   Total Products: 31
@@ -21873,8 +21873,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:02Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3555
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3561
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-30T11:22:09Z
   Total Products: 282
@@ -21900,8 +21900,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:03Z
   Total Products: 78
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-30T11:22:09Z
-  Total Products: 218
+  Updated: 2025-10-30T20:22:45Z
+  Total Products: 221
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-28T09:29:03Z
   Total Products: 90
@@ -21909,11 +21909,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:03Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3556
+  Updated: 2025-10-30T20:22:55Z
+  Total Products: 3562
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-30T18:29:11Z
-  Total Products: 3556
+  Updated: 2025-10-30T20:22:56Z
+  Total Products: 3562
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-28T09:29:03Z
   Total Products: 22
@@ -21924,8 +21924,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:03Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-30T19:13:45Z
-  Total Products: 3060
+  Updated: 2025-10-30T20:22:56Z
+  Total Products: 3065
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-30T11:22:09Z
   Total Products: 19
@@ -21933,11 +21933,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-28T09:29:03Z
   Total Products: 124
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-30T19:13:45Z
-  Total Products: 3060
+  Updated: 2025-10-30T20:22:56Z
+  Total Products: 3065
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-30T19:54:11Z
-  Total Products: 836
+  Updated: 2025-10-30T20:13:53Z
+  Total Products: 839
 
 ## Blogs
 
