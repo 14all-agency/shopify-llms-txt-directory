@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-30T20:00:59.867Z
+- Updated At: 2025-10-31T08:01:03.017Z
 
 ## Products
 
@@ -722,13 +722,6 @@
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-twilight?variant=39423608881246)
     Availability: Not Available
     Price: $28.00 NZD
-- [MALO Nappy Rash Creme](https://www.littlebambinos.co.nz/products/malo-nappy-rash-creme): Designed for the modern parent with simple clean ingredients that work! Malo Nappy Rash CrÃƒÂ¨me is designed for those who love a cream but without getting sticky gunk all over their fingers. It's a buttery soft formula in a purpose designed airless jar which dispenses just the right amount at each change. The airless jar is also designed to be used and reused as the internal container can be removed, washed and refilled when finished.
-  Updated: 2025-09-15T06:35:11Z
-  Vendor: Malo
-  Product Type: Baby Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/LittleBambinosNappyRashandNappyCream.jpg?v=1680075766
-  Price: $39.00 NZD
 - [BIBS Baby Bitie Heart - Sage](https://www.littlebambinos.co.nz/products/bibs-baby-bitie-heart-sage): Baby Bitie is the new teether from BIBS, perfect for little hands to grab and mouths to chew on. The Baby Bitie is also great for stimulating babyÃ¢â‚¬â„¢s senses and fine motor skills.
   Updated: 2025-08-06T22:42:13Z
   Vendor: BIBS
@@ -2898,7 +2891,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Flap Cap Baby - Dove](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Dove features a grey stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-10-24T07:21:38Z
+  Updated: 2025-10-30T21:49:41Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -2910,7 +2903,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $39.95 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove?variant=39827690946654)
-    Availability: Available
+    Availability: Not Available
     Price: $39.95 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove?variant=39827690979422)
     Availability: Available
@@ -4194,13 +4187,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $22.00 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Cream](https://www.littlebambinos.co.nz/products/frigg-pacifier-daisy-natural-rubber-cream-duo): With scalloped edges that mimic flower petals, the Frigg Daisy pacifier takes the thoughtful design of their Classic pacifier and adds in a whimsical, charming design. Designed and manufactured in Denmark.
-  Updated: 2025-09-25T16:29:43Z
+  Updated: 2025-10-31T05:48:06Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Cream_Daisy_rubber_0-6_720x_81689724-e387-408b-a17e-e5dd13d08a7b.webp?v=1758772094
   - [Size 1](https://www.littlebambinos.co.nz/products/frigg-pacifier-daisy-natural-rubber-cream-duo?variant=39983311355998)
-    Availability: Available
+    Availability: Not Available
     Price: $21.50 NZD
   - [Size 2](https://www.littlebambinos.co.nz/products/frigg-pacifier-daisy-natural-rubber-cream-duo?variant=39983311388766)
     Availability: Available
@@ -8940,7 +8933,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-10-11T18:18:19Z
+  Updated: 2025-10-30T21:00:55Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -8955,7 +8948,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $39.95 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle?variant=41090971205726)
-    Availability: Available
+    Availability: Not Available
     Price: $39.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-chestnut-copy): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
   Updated: 2025-10-27T08:20:01Z
@@ -10933,7 +10926,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-30T00:12:40Z
+  Updated: 2025-10-30T22:32:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -10954,7 +10947,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-30T00:14:41Z
+  Updated: 2025-10-30T22:30:41Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -11788,18 +11781,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [3-6m](https://www.littlebambinos.co.nz/products/quincy-mae-bamboo-zip-footie-strawberries?variant=41416365867102)
     Availability: Available
     Price: $65.00 NZD
-- [QUINCY MAE Take Home Set - Antique](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-antique): This Take Home Set, crafted from a soft, lightweight waffle fabric, offers an ideal outfit for your newborn. It includes a charming bonnet, a wrap snap top adorned with delicate crochet lace ruffles, and cozy footed drawstring pants. Presented in our soothing ‘antique’ shade, this set provides comfort and style for your little one’s first days.
-  Updated: 2025-08-06T22:36:38Z
-  Vendor: Quincy Mae
-  Product Type: Sleep bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QM561AUGH-ANTIQUE-1.webp?v=1749697911
-  - [NB](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-antique?variant=41416372289630)
-    Availability: Not Available
-    Price: $70.00 NZD
-  - [0-3m](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-antique?variant=41416372584542)
-    Availability: Available
-    Price: $70.00 NZD
 - [QUINCY MAE Take Home Set - Mint](https://www.littlebambinos.co.nz/products/quincy-mae-take-home-set-mint): This Take Home Set, crafted from a soft, lightweight waffle fabric, offers an ideal outfit for your newborn. It includes a charming bonnet, a wrap snap top, and cozy footed drawstring pants, all in a refreshing mint shade.
   Updated: 2025-08-06T22:36:39Z
   Vendor: Quincy Mae
@@ -13092,7 +13073,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-10-17T01:37:24Z
+  Updated: 2025-10-31T00:56:42Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13104,42 +13085,35 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-10-25T19:46:42Z
+  Updated: 2025-10-31T04:06:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-10-29T00:46:49Z
+  Updated: 2025-10-31T04:26:45Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/positivity_mist.jpg?v=1743995364
   Price: $49.00 NZD
 - [ORIA SKIN Sleep Support](https://www.littlebambinos.co.nz/products/sweetdreamsroller): 100% Natural Relieve anxiety Reduce tensionPromote sleep Sleep is the secret ingredient to a healthy mind, hormones & body. For times when it feels hard to rest or to calm your mind, Sleep Support uses the natural therapeutic properties of lavender, frankincense and ylang ylang to release tension. The sleep tool you can’t live without. Previously named Sweet Dreams and Anxiety Blend. How to use Roll onto pulse points (neck, wrists, soles of the feet) at bedtime or other times of anxiety. Take a deep breath to inhale the aromas. Ingredients * Prunus Dulcis *(Sweet Almond), Lavandula Angustifolia* (Lavender), Boswellia Carterii* (Frankincense), Cananga Odorata* ( Ylang Ylang), Citrus Sinensis* (Sweet Orange), Anthemis Nobilis* (Chamomile (Roman)), Rosa Damascena* (Rose essential oil) Pelargonium tomentosum (Peppermint geranium).
-  Updated: 2025-10-29T00:48:47Z
+  Updated: 2025-10-30T23:06:41Z
   Vendor: Oria Skin
   Product Type: Roller Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/sleep_support_34e79e0c-b239-44d4-95b7-ae165fdd3735.jpg?v=1744072650
   Price: $39.00 NZD
 - [ORIA SKIN Stress Relief](https://www.littlebambinos.co.nz/products/peaceofmindrollerblend): 100% Natural Balance moodRelieve burnout Soothe your mind Crafted to bring your hormones & mind into balance, Stress Relief uses the therapeutic power of nature’s most calming oils. Roll on & let frankincense & clary sage provide a sense of peace & relief from agitated feelings. Previously named Peace of Mind roller. 10ml Ritual Roll onto pulse points (neck, wrists, soles of the feet) when in need of calm. Take a deep breath to inhale the aromas. Not recommended for early stages of pregnancy.
-  Updated: 2025-10-04T06:02:45Z
+  Updated: 2025-10-30T23:06:42Z
   Vendor: Oria Skin
   Product Type: Roller Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
-- [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-10-25T19:46:40Z
-  Vendor: Oria Skin
-  Product Type: Skincare
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
-  Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-10-27T23:46:45Z
+  Updated: 2025-10-30T23:26:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13152,14 +13126,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-30T19:52:40Z
+  Updated: 2025-10-31T07:52:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil_4f8190e3-b9fc-4a7c-8e7f-7f4946ec9084.jpg?v=1744072483
   Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-10-28T05:32:42Z
+  Updated: 2025-10-30T23:32:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13184,21 +13158,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_clay_mask_28802afd-54d1-4402-a5bd-df40b82950cc.jpg?v=1744072321
   Price: $59.00 NZD
 - [ORIA SKIN Brightening Enzyme Polish](https://www.littlebambinos.co.nz/products/active-brightening-polish): 100% Natural Brighten skin tone.Exfoliate & smooth.Bring balance. Find freedom from hormonal skin with a twice-weekly gentle exfoliation. An all-natural exfoliant, packed with vitamin C & AHAs to gently smooth, brighten & freshen up your complexion without the usual harshness. Fruit enzymes & antioxidants work together to boost collagen production, for an all over healthy glow. How it works: Pineapple extract enzyme - Enzymes are a natural exfoliator. Creates a chemical reaction on the skin to dissolve dry, hardened and dead skin cells encourages the new growth of healthy new cells to take their place. Harakeke extract - softens your skin while naturally promoting recovery in skin damaged by irritation, environmental stresses and late nights etc. Hibiscus extract - unclogs the pores and hydrates the skin, thus making it visibly soft, smooth, and radiant. Ritual Use twice weekly to gently exfoliate by massaging into damp skin, avoiding contact with eyes. Complete the routine with Oria Skin serum, moisturiser & oil. Espeically useful to use after days of wearing makeup or sunscreen which can cause build up and clog pores. Ingredients Aloe Barbadensis Leaf Juice* (Aloe Vera), Pumice Powder, Hibiscus Sabdariffa Flower (Hibiscus Extract), Ananas sativa Fruit Extract (Pineapple), Phormium tenax extract (Harakeke), Carica Papaya extract, Citric acid, Sodium benzoate, Potassium sorbate, Citrus sinensis* (Orange sweet essential oil). *Organic
-  Updated: 2025-10-19T07:58:41Z
+  Updated: 2025-10-31T04:38:46Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-30T19:52:40Z
+  Updated: 2025-10-31T07:52:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
   Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-10-28T05:28:41Z
+  Updated: 2025-10-30T23:28:43Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13225,14 +13199,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-10-30T06:52:41Z
+  Updated: 2025-10-31T02:52:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Vitamin_C_4a3a896f-5caf-4600-bdf5-6e09d06addd2.jpg?v=1744072017
   Price: $79.00 NZD
 - [ORIA SKIN Hormone Helper](https://www.littlebambinos.co.nz/products/hormone-helper): 100% Natural Hormonal harmonyHair regenerationBalance mood A targeted blend to balance the mind & hormonal cycle. Find relief from tension, moodiness & hormonal hair loss. This carefully selected combination of essential oils help to have a normalising effect on the endocrine system. Hormone Helper works in harmony with the body to support you through the natural cycle of perimenopause, menopause & premenstrual issues. 20ml Not suitable for pregnancy. How to use Place 4 drops into hands, inhale & massage into base of neck (thyroid) and lower abdomen area (adrenal & ovaries) . Alternatively create a compress using a warm cloth, add 10 drops of Hormone Helper & apply to the lower back or abdomen for pain relief and instant calming results. For hair growth application, apply 10 drops along the scalp, massage in, or use in targeting hair-loss area. Best to use overnight before you wash your hair. How it works: Castor Seed Oil Hormonal Support: Castor oil is known for its ability to improve circulation and detoxification. It is often used in the form of castor oil packs over the abdomen to help regulate the liver, which plays a critical role in hormone metabolism. By supporting detoxification, it can help balance estrogen levels and alleviate hormone-related symptoms like bloating and menstrual discomfort. 2. Abyssinian Oil Hair growth Abyssinian oil's nourishing properties can help maintain healthy skin, and scalp - excellent for treated dandruff or itchy scalp - which can be impacted by hormonal fluctuations. Healthy skin and hair are often affected by changes in hormones, particularly in cases of estrogen or testosterone imbalance. 3. Meadowfoam Seed Oil Hormonal Support: This oil has a fatty acid profile that closely resembles the skin’s natural oils, making it useful for promoting healthy skin and hormonal acne - it can alleviate the symptoms of hormonal imbalances like acne. It is also good for strengthening hair , preventing split ends -bonus. 4. Rosemary Essential Oil Hormonal Support: Rosemary oil is often used in aromatherapy for its stimulating properties. It is believed to support the adrenal glands, which are responsible for producing stress hormones like cortisol. By reducing the negative effects of chronic stress, rosemary may help keep cortisol levels in balance, indirectly supporting overall hormonal health. 5. Thyme Essential Oil Hormonal Support: Thyme oil is used in traditional medicine to support the endocrine system and improve thyroid function, which regulates many hormones in the body. 6. Myrrh Essential Oil Hormonal Support: Myrrh has been used in traditional medicine for its ability to support the endocrine system. It is also thought to have an adaptogenic effect, helping the body to adapt to stress and balance hormone levels. This makes it useful in managing stress-related hormonal imbalances. 7. Clove Essential Oil Hormonal Support: Clove oil has been shown to have strong antioxidant properties, which can support the body in fighting oxidative stress. Chronic oxidative stress can disrupt hormone function, so using clove oil may help support overall hormonal balance. 8. Lemongrass Essential Oil Hormonal Support: Lemongrass oil is rich in the citral molecule, which has an oestrogen effect, it is useful for the menopause in women. Citral is recognised to be useful to help balance the mind and cycle. It is also said to be helpful with balancing the Thyroid it has a normalising effect on the thyroid. Lemongrass is also useful to treat more of the mental state a woman might experience with peri/ menopause. Lemongrass oil promotes emotional and mental renewal, also useful for those who struggle to get started in the morning. 9. Basil Essential Oil Hormonal Support: Basil essential oil is often used to relieve stress and anxiety, which are known to affect cortisol and other hormone levels. By helping to manage stress, basil oil can indirectly help balance hormones, particularly those affected by adrenal stress. 10. Palmarosa Essential Oil Hormonal Support: Palmarosa is believed to have a balancing effect on the Thyroid- which is responsible for regulating our metabolism. Palmarosa has a normalising effect on the thyroid, useful for weight fluctuation. 11. Carrot Seed Extract Hormonal Support: Carrot seed oil is used for its regenerative properties on the skin, particularly in cases of aging, which is often hormonally influenced (like menopause). It is thought to support liver function, which is important for hormone detoxification. 12. Clary Sage Essential Oil Hormonal Support: Clary sage is one of the most well-known essential oils for balancing hormones, particularly in women. It has phytoestrogenic properties, meaning it can mimic estrogen in the body. This is particularly useful for managing symptoms of PMS, menopause, and hormonal acne. Clary sage also supports the adrenal glands, which help regulate stress hormones. 13. Geranium Essential Oil Hormonal Support: Geranium oil is known to have a balancing effect on the endocrine system, particularly in cases of menstrual irregularities and hormonal fluctuations. It may help regulate estrogen levels and is often used in skincare to reduce hormonal acne and promote overall skin health. 14. Litsea Essential Oil Hormonal Support: Litsea cubeba has a soothing effect and is often used to relieve stress, which can influence cortisol and other hormones. It can help manage mood swings and irritability that often accompany hormonal fluctuations. 15. Aniseed Essential Oil Hormonal Support: Aniseed oil contains compounds that are believed to have phytoestrogenic effects, similar to clary sage. It may support the regulation of estrogen in the body, which can help balance menstrual cycles and reduce symptoms like hot flashes or hormonal acne. Aiseed contains anethole, which has been suggested to mimic oestrogen, is a sexual tonic and can help control hormone deficiency during the menopause. It is useful for hot flashes and mood swings during Menopause. (Di Mola, 2017). 16. Sage Essential Oil Hormonal Support: Sage essential oil is often used to help balance estrogen levels, which can be particularly beneficial for women going through menopause. It is also used to alleviate symptoms like hot flashes, night sweats, and mood swings. Ingredients In no particular order of potency Ricinus communis (Castor) Seed Oil*, Crambe abyssinica (Abyssinian) Oil, Limnanthes alba (Meadowfoam) Seed Oil, Rosmarinus officinalis (Rosemary) Essential Oil*, Thymus vulgaris (Thyme) Essential Oil, Commiphora wightii (Myrrh) Essential Oil, Syzygium aromaticum (Clove) Essential Oil*, Cymbopogon citratus (Lemongrass) Essential Oil*, Ocimum basilicum (Basil) Essential Oil*, Cymbopogon martinii (Palmarosa) Essential Oil, Daucus carota (Carrot Seed) extract*, Salvia sclarea (Clary Sage) Essential Oil*, Pelargonium graveolens (Geranium) Essential Oil*, Litsea cubeba (Litsea) Essential Oil, Pimpinella anisum (Aniseed) Essential Oil, Salvia officinalis (Sage) Essential Oil*. *Organic
-  Updated: 2025-10-17T02:56:41Z
+  Updated: 2025-10-30T23:18:42Z
   Vendor: Oria Skin
   Product Type: Hormone Helper
   Availability: Available
@@ -13246,7 +13220,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blemish_repair_balm_fed36dba-cb91-4f3e-bb5c-dffe157c5cc7.jpg?v=1744071930
   Price: $39.00 NZD
 - [ORIA SKIN Claw Clip](https://www.littlebambinos.co.nz/products/oria-skin-claw-clip): Say goodbye to bad hair days and hello to effortless elegance with our Oria Skin Claw Clips. These sleek, stylish clips are the perfect mix of function and flair, designed to keep your hair in place while you apply your skincare products! Featuring our beautiful crescent moon 'O' logo mark. Use them to gently sweep your hair out of the way while applying your Oria Skin masks, serums and creams. No more stray strands in your face or getting stuck in your products—just smooth, clear skin and hassle-free beauty rituals. Made with durable materials built to last. All-day comfort, no tugging, just hassle free sophistication. Add a pop of effortless style to your collection with the Oria Skin Claw Clips—because great hair and perfect skincare should never be a struggle!
-  Updated: 2025-10-23T21:26:41Z
+  Updated: 2025-10-31T01:06:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13272,7 +13246,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/OriaBag_aafbfa32-2e73-47de-a4bd-0d9d52b282b3.png?v=1744001857
   Price: $25.00 NZD
 - [ORIA SKIN The Mini Set](https://www.littlebambinos.co.nz/products/the-mini-set): The Mini Set Discover the perfect introduction to Oria Skin with The Mini Set, a travel-friendly collection designed to cover all your skincare needs, no matter where life takes you. This set includes mini travel-sized jars and bottles, so you can sample our bestsellers or pack them easily for your next getaway. $121 in value for only $69! Inside, you'll find: Gentle Cleansing Milk (30g) – A mild, nourishing cleanser that gently removes impurities without disrupting your skin’s natural balance. Balancing Day Cream (30g) – Lightweight yet hydrating, this day cream helps maintain your skin’s moisture and balance throughout the day. Overnight Firming Cream (30g) – Wake up to rejuvenated skin with this rich, firming cream that works overnight to restore and smooth. Rejuvenating Face Oil (5ml) – A luxurious, nutrient-packed oil that revitalises and restores a healthy glow. Hydration Booster Serum (5ml) – A powerful serum that locks in moisture, leaving your skin soft, dewy, and deeply hydrated. Whether you're just starting to explore Oria Skin’s natural formulations or need compact sizes for your travels, The Mini Set is the perfect way to experience a full, balanced routine on the go. All products are designed to work together, providing your skin with the care it deserves—anytime, anywhere.
-  Updated: 2025-10-21T09:42:42Z
+  Updated: 2025-10-30T23:26:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -14164,7 +14138,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Gingham Multi-Use Cover](https://www.littlebambinos.co.nz/products/gingham-multi-use-cover): Protect your baby with the versatile Gingham Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-10-21T21:18:42Z
+  Updated: 2025-10-31T00:38:42Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -15498,7 +15472,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pure-mama-product-belly-hydration-mask-stretchmarks-50ml_1.webp?v=1753754697
   Price: $26.00 NZD
 - [PURE MAMA Post Birth Relief Spray](https://www.littlebambinos.co.nz/products/pure-mama-post-birth-relief-spray): You've done the hard part. Now it's time to heal. A postpartum essential. Our Post Birth Relief Spray is a gentle, no-touch mist designed to deliver instant relief to tender, swollen or inflammed vaginal are after delivery. Whether you’ve experienced grazing, tearing, stitches, or general discomfort, this powerful yet soothing postnatal spray has your recovery covered. A natural and safe alternative to numbing spray, it’s expertly formulated with Witch Hazel, Aloe Vera, Cucumber Extract, and the world’s first use of Native New Zealand Mānuka in a postnatal spray. Our blend hydrates delicate skin, soothes inflammation, and supports the body’s natural healing, without any harsh or synthetic ingredients. A must-have for your hospital bag, bathroom shelf, and every moment of postpartum healing. Because recovery deserves the same care as birth. Provides instant cooling relief after birth Helps reduce swelling and soothe sensitivity Supports healing of minor tears and stitches Easy, upside-down spray Midwife & obstetrician approved Trusted and used in hospitals Hypoallergenic. Free from phthalates, and synthetic fragrances.
-  Updated: 2025-09-04T22:50:16Z
+  Updated: 2025-10-31T05:48:05Z
   Vendor: Pure Mama
   Product Type: Women Care
   Availability: Available
@@ -16785,7 +16759,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-30T19:53:11Z
+  Updated: 2025-10-31T07:53:12Z
   Total Products: 413
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17637,8 +17611,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-30T19:53:11Z
-  Total Products: 1320
+  Updated: 2025-10-31T07:53:12Z
+  Total Products: 1317
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-27T11:02:00Z
   Total Products: 504
