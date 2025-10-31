@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-31T00:01:25.381Z
+- Updated At: 2025-10-31T16:00:36.715Z
 
 ## Products
 
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/70a350aac89843baaf8a39745534b037-Max-Origin.webp?v=1761344356
     Price: £25.55 GBP
 - [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique.store/products/side-slit-round-neck-long-sleeve-sweatshirt): Casual Chic with a Modern Twist – The Sweatshirt That Does It All!Elevate your casual wardrobe with the Side Slit Round Neck Long Sleeve Sweatshirt. Featuring trendy side slits and a relaxed fit, this versatile piece effortlessly transitions from lounging to lunch dates.Why This Sweatshirt is a Must-Have:✨ Stylish Side Slits: Modern design detail that adds movement and a fashion-forward edge to a classic sweatshirt.👗 Flattering Round Neckline: Timeless and versatile – pairs beautifully with any necklace or scarf.🌟 Relaxed, Comfortable Fit: Perfect for layering or wearing solo, offering a laid-back yet polished look.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for flexibility and comfort that moves with you.🧺 Easy Maintenance: Machine washable – wash cold and tumble dry low for effortless care.🎨 Versatile Styling: Dress it up with trousers or keep it casual with jeans – this sweatshirt works for any occasion.Perfect For: Casual Fridays at work Weekend brunches with friends Running errands in style Layering during transitional seasons Relaxed evenings at home Styling Ideas:👖 Casual Cool: Pair with high-waisted jeans and trainers👠 Elevated Comfort: Style with tailored trousers and ankle boots🧥 Layered Look: Wear under a blazer or denim jacket for added warmthUpgrade your everyday style! This sweatshirt combines comfort and contemporary design for a look you'll reach for again and again. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Side slits, round neck, long sleeves Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
-  Updated: 2025-10-30T13:57:31Z
+  Updated: 2025-10-31T04:12:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
 - [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique.store/products/merry-colorful-dot-detail-christmas-dolman-sweater): Festive Fun Meets Cozy Comfort – The Christmas Sweater You'll Love!Spread holiday cheer with the Merry Colorful Dot Detail Christmas Dolman Sweater. Featuring playful colorful dots and a relaxed dolman sleeve design, this festive jumper is perfect for celebrating the season in style and comfort.Why This Christmas Sweater is a Must-Have:🎄 Festive Colorful Dot Design: Eye-catching multicolored dots add a cheerful, playful touch to your holiday wardrobe.✨ Relaxed Dolman Sleeves: Trendy, loose-fitting sleeves create a comfortable, flattering silhouette that's perfect for all-day wear.🎅 Soft, Cozy Fabric: Made from 55% acrylic and 45% cotton for warmth and breathability during the festive season.💫 Slightly Stretchy: Comfortable fit that moves with you, whether you're hosting or attending holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy nights by the fire.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Ugly Christmas sweater contests (but make it cute!) Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Dressed Up: Style with a skirt and tights for holiday parties🧣 Cozy Layers: Add a scarf and your favourite winter coatMake this Christmas extra special! This cheerful sweater brings festive fun and cozy comfort together. Add to basket now and get ready to celebrate in style!Product Details: Material: 55% acrylic, 45% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful dot design, dolman sleeves, festive style Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-30T21:21:36Z
+  Updated: 2025-10-31T09:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1665,7 +1665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ade70a20-a577-4650-96b3-96bc4719e743-Max-Origin.webp?v=1761344825
     Price: £43.67 GBP
 - [Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt](https://glamorousboutique.store/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Faith Meets Fashion – The Inspirational Sweatshirt You'll Treasure!Wear your faith with pride in the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Featuring beautiful embroidered lettering and a trendy mineral wash finish, this comfortable sweatshirt is perfect for expressing your beliefs while staying stylishly relaxed.Why You'll Love This Sweatshirt:✝️ Inspirational Letter Embroidery: 'Saved By Grace' message beautifully embroidered for a meaningful, faith-based statement.🎨 Trendy Mineral Wash Finish: Unique, vintage-inspired wash creates a soft, lived-in look with character.👕 Relaxed, Loose Fit: Comfortable oversized silhouette that's perfect for casual, everyday wear.💫 Premium Cotton Blend: Made from 85% cotton and 15% polyester for softness and durability.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Meaningful Gift: Perfect for yourself or as a thoughtful present for someone special in your life.Perfect For: Church services and fellowship gatherings Casual everyday wear Coffee dates with friends Relaxed weekends at home Layering during cooler months Styling Ideas:👖 Casual Comfort: Pair with jeans and trainers for an effortless look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Style: Wear under a denim or leather jacketExpress your faith in style! This inspirational sweatshirt combines meaningful messaging with comfortable, trendy design. Add to basket now!Product Details: Material: 85% cotton, 15% polyester Stretch: No stretch Care: Machine wash cold, tumble dry low Features: Letter embroidery, mineral wash finish, loose fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.7 M 26.2 44.1 20.9 L 27 46.5 21.1 XL 27.8 49.6 21.1
-  Updated: 2025-10-30T05:21:40Z
+  Updated: 2025-10-31T09:21:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1687,7 +1687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761344865
     Price: £44.66 GBP
 - [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique.store/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Gobble Up the Fun – The Perfect Thanksgiving Sweatshirt!Celebrate Thanksgiving in style with the GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt. Featuring playful 'GOBBLE' lettering and a comfortable relaxed fit, this festive sweatshirt is your go-to for turkey day celebrations and autumn gatherings.Why This Thanksgiving Sweatshirt is a Must-Have:🦃 Fun GOBBLE Graphic: Eye-catching letter design that brings festive fun and holiday cheer to your wardrobe.👕 Comfortable Shift Style: Relaxed, easy-fitting silhouette that's perfect for enjoying Thanksgiving dinner without feeling restricted.✨ Slightly Stretchy Fabric: Made from 65% polyester and 35% cotton for comfort and flexibility.🍂 Perfect for Autumn: Ideal weight for cooler autumn days and cozy holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.🎁 Great Gift Idea: Perfect for Thanksgiving hosts, turkey lovers, or anyone who enjoys festive fashion!Perfect For: Thanksgiving dinner with family Friendsgiving celebrations Autumn festivals and events Casual November outings Festive photo opportunities Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🧣 Cozy Layers: Add a scarf and your favourite autumn jacket👟 Relaxed Comfort: Style with leggings and trainers for ultimate comfortMake Thanksgiving extra special! This fun, festive sweatshirt is perfect for celebrating with family and friends. Add to basket now and get ready to gobble!Product Details: Material: 65% polyester, 35% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: GOBBLE letter graphic, shift style, festive design Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
-  Updated: 2025-10-30T16:20:51Z
+  Updated: 2025-10-31T14:15:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
 - [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique.store/products/camo-print-leopard-trim-button-up-jacket): Wild Meets Edgy – The Statement Jacket That Turns Heads!Make a bold fashion statement with the Camo Print Leopard Trim Button Up Jacket. Combining trendy camouflage with fierce leopard print trim, this unique jacket is perfect for those who love to stand out from the crowd.Why This Jacket is a Must-Have:🐆 Bold Print Combination: Eye-catching camo print with leopard trim creates a unique, fashion-forward look.🔘 Classic Button-Up Front: Traditional button closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.✨ Premium Cotton Blend: Made from 95% cotton and 5% elastane for comfort with a hint of stretch.🌡️ Perfect Weight: Normal thickness – ideal for layering during transitional seasons.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.💫 Versatile Styling: Dress it up or down for any occasion.Perfect For: Casual weekend outings Music festivals and concerts Adding edge to everyday looks Autumn and spring layering Making a fashion statement Styling Ideas:👖 Casual Cool: Pair with black jeans and ankle boots👗 Unexpected Mix: Layer over a feminine dress for contrast👟 Street Style: Style with leggings and trainers for an edgy athleisure lookStand out in style! This bold jacket combines two iconic prints for a look that's uniquely you. Add to basket now and unleash your wild side!Product Details: Material: 95% cotton, 5% elastane Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Camo print, leopard trim, button-up front, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-10-30T07:20:41Z
+  Updated: 2025-10-31T14:40:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1833,7 +1833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/479f76cb0196459ebef488421b463a46-Max-Origin.webp?v=1761346986
     Price: £49.01 GBP
 - [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique.store/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Pop of Color, Maximum Comfort – The Sweater That Brightens Your Day!Add a playful touch to your wardrobe with the Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater. Featuring vibrant striped accents and a relaxed, oversized fit, this cozy sweater is perfect for adding personality and comfort to any outfit.Why You'll Love This Sweater:🌈 Colorful Striped Details: Eye-catching multicolored stripes add a fun, cheerful pop to your look.💫 Flattering V-Neckline: Classic V-neck design that elongates the neckline and pairs beautifully with any necklace.👕 Relaxed Drop Shoulder Design: Trendy, oversized fit with dropped shoulders for ultimate comfort and a laid-back vibe.🧶 Soft Ribbed Texture: Cozy ribbed knit adds visual interest and extra warmth.✨ Slightly Stretchy Fabric: Made from 100% acrylic for softness and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎨 Versatile Styling: Perfect for casual days, layering, or adding a splash of color to neutral outfits.Perfect For: Casual weekend outings Coffee dates with friends Autumn and winter layering Adding color to your wardrobe Cozy days at home Styling Ideas:👖 Casual Chic: Pair with jeans and ankle boots🧣 Layered Look: Wear over a collared shirt for preppy vibes👗 Feminine Touch: Style with a skirt and tightsBrighten up your wardrobe! This colorful sweater brings fun, comfort, and style together in one perfect piece. Add to basket now!Product Details: Material: 100% acrylic Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful striped details, V-neck, drop shoulders, ribbed texture, baggy fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-30T23:40:35Z
+  Updated: 2025-10-31T03:21:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1901,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d68aa5521e3b4bd1b4dbdb1521a5b4f2-Max-Origin.webp?v=1761347050
     Price: £23.33 GBP
 - [Letter Round Neck Sweatshirt](https://glamorousboutique.store/products/letter-round-neck-sweatshirt): Classic Comfort with a Message – Your New Everyday Essential!Keep it simple and stylish with the Letter Round Neck Sweatshirt. Featuring eye-catching letter graphics and a comfortable ribbed texture, this versatile sweatshirt is perfect for creating effortless, casual looks all season long.Why You'll Love This Sweatshirt:✍️ Bold Letter Graphics: Eye-catching typography adds personality and a modern edge to your look.🧶 Ribbed Texture: Classic ribbed detailing adds visual interest and a timeless appeal.👕 Classic Round Neckline: Versatile crew neck design that works with any outfit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 Versatile Styling: Perfect for layering or wearing solo – works with jeans, leggings, or skirts.Perfect For: Casual everyday wear Running errands in comfort Weekend outings Layering during cooler months Relaxed, effortless style Styling Ideas:👖 Casual Cool: Pair with jeans and trainers for an easy everyday look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Look: Wear under a denim or bomber jacketEffortless style, all-day comfort! This classic sweatshirt is the perfect addition to your casual wardrobe. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Letter graphics, ribbed texture, round neck Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-28T22:42:31Z
+  Updated: 2025-10-31T07:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2111,7 +2111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4b62071fd6e840c897a668af6b904af9-Max-Origin.webp?v=1761347274
     Price: £18.38 GBP
 - [PU Leather Block Heel Boots](https://glamorousboutique.store/products/pu-leather-block-heel-boots): Elevate Your Style – The Boots That Do It All!Step up your footwear game with the PU Leather Block Heel Boots. Featuring a comfortable block heel and sleek PU leather finish, these versatile boots are perfect for adding height and sophistication to any outfit.Why You'll Love These Boots:👢 Stylish Block Heel: Comfortable, stable block heel adds height without sacrificing comfort.✨ Sleek PU Leather: Premium-look PU leather finish that's both stylish and easy to maintain.💫 Versatile Design: Classic silhouette that pairs beautifully with jeans, dresses, or skirts.🌟 High Heel Height: Adds elegant elevation while remaining comfortable for all-day wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Durable Construction: Quality rubber sole and PU leather upper for long-lasting wear.Perfect For: Office and professional settings Date nights and special occasions Autumn and winter styling Adding height and elegance to any outfit Transitional season wear Styling Ideas:👖 Casual Chic: Pair with skinny jeans and a jumper👗 Feminine Elegance: Style with a midi dress and tights🧥 Layered Look: Wear with a coat and scarf for autumn vibesStep into style and confidence! These block heel boots are the perfect blend of comfort and sophistication. Add to basket now!Product Details: Heel Height: High heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
-  Updated: 2025-10-30T03:17:01Z
+  Updated: 2025-10-31T07:51:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3307,7 +3307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402a5a42f96e40ee80a82e658775fc0b-Max-Origin.webp?v=1761347580
     Price: £26.51 GBP
 - [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique.store/products/merry-round-neck-christmas-sweatshirt): Spread Christmas Cheer – The Festive Sweatshirt You'll Love!Get into the holiday spirit with the MERRY Round Neck Christmas Sweatshirt. Featuring cheerful 'MERRY' lettering and a comfortable, relaxed fit, this festive sweatshirt is perfect for celebrating the season in style and comfort.Why You'll Love This Christmas Sweatshirt:🎄 Festive MERRY Graphic: Eye-catching holiday lettering that spreads Christmas cheer wherever you go.👕 Classic Round Neckline: Timeless crew neck design that's comfortable and versatile.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.✨ Ribbed Texture: Classic ribbed detailing adds visual interest and a quality feel.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy winter days.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Casual holiday outings Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Cozy Layers: Style with leggings and fuzzy slippers🧣 Winter Ready: Add a scarf and your favourite winter coatMake this Christmas extra merry! This festive sweatshirt brings holiday cheer and cozy comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: MERRY graphic, round neck, ribbed texture Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-30T23:40:40Z
+  Updated: 2025-10-31T00:23:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3549,7 +3549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761347671
     Price: £23.64 GBP
 - [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique.store/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Sparkle and Shine This Christmas – The Festive Set You'll Love!Celebrate the holidays in style with the Twisted Ribbed Christmas Sequin Patched Top and Shorts Set. Featuring eye-catching sequin details and a comfortable ribbed texture, this festive two-piece set is perfect for Christmas parties and holiday gatherings.Why You'll Love This Christmas Set:✨ Festive Sequin Details: Sparkling sequin patches add holiday glamour and festive cheer.🎄 Twisted Ribbed Design: Trendy twisted detailing and ribbed texture create a flattering, modern look.👕 Two-Piece Versatility: Coordinated top and shorts can be worn together or mixed with other pieces.🎀 Adjustable Drawstring: Comfortable drawstring waist on shorts for a perfect, customizable fit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Christmas parties and celebrations Holiday gatherings with family and friends Festive photo opportunities New Year's Eve celebrations Making a statement at holiday events Styling Ideas:👠 Party Ready: Add heels and statement earrings🧥 Layered Glam: Throw on a blazer for extra polish👟 Casual Festive: Style with trainers for a relaxed holiday lookSparkle through the holidays! This festive set brings glamour and comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Sequin patches, twisted ribbed design, drawstring, two-piece set Number of pieces: 2 (top and shorts) Size Guide (Measurements in inches): Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
-  Updated: 2025-10-30T17:41:15Z
+  Updated: 2025-10-31T02:03:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3641,7 +3641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/41399f2d43d84a6f9eade94edb97968b-Max-Origin.webp?v=1761347712
     Price: £35.37 GBP
 - [Full Size Hooded Button-Front Soft Knit Cardigan Plus Size](https://glamorousboutique.store/products/full-size-hooded-button-front-soft-knit-cardigan-plus-size): Soft, Cozy, and Effortlessly Chic – The Hooded Cardigan You Need!Wrap yourself in comfort with the Full Size Hooded Button-Front Soft Knit Cardigan Plus Size. Featuring a cozy hood and soft knit fabric, this versatile cardigan is perfect for adding warmth and style to any outfit.Why You'll Love This Cardigan:🧶 Ultra-Soft Knit Fabric: Luxuriously soft material that feels amazing against your skin.👘 Hooded Design: Cozy hood adds extra warmth and a relaxed, casual vibe.🔘 Button-Front Closure: Classic button design allows for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Slightly Stretchy: Made from 95% acrylic and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Cozy days at home Casual weekend outings Layering during cooler months Running errands in comfort Relaxed, effortless style Styling Ideas:👖 Casual Comfort: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Vibes: Style with leggings and a jumperStay cozy in style! This soft hooded cardigan is the perfect addition to your wardrobe. Add to basket now!Product Details: Material: 95% acrylic, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Hooded, button-front, pockets, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 23.6 42.5 M 24 44.5 L 24.4 46.5 XL 24.8 48.4 2XL 25.2 50.4 3XL 25.6 52.4 4XL 26 54.3 5XL 26.4 56.3
-  Updated: 2025-10-30T11:26:22Z
+  Updated: 2025-10-31T02:45:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4331,7 +4331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e22fd7b7a6754f539647ee46bfeffb5b-Max-Origin.webp?v=1761386963
     Price: £19.39 GBP
 - [Double Take Button Up Fuzzy Checkered Shacket](https://glamorousboutique.store/products/double-take-button-up-fuzzy-checkered-shacket): Features: Pocketed, Buttoned Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 31.5 22.8 46.1 18.1 M 31.9 24 48.4 18.1 L 32.3 25.2 50.8 18.1 XL 32.7 26.8 53.9 18.1 2XL 33.1 28.3 57.1 18.1
-  Updated: 2025-10-30T16:30:16Z
+  Updated: 2025-10-31T03:45:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4377,7 +4377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1fcf703f-b84c-4ee8-a062-d87e83baa759-Max.webp?v=1761387650
     Price: £44.88 GBP
   - [Dusty Pink / S](https://glamorousboutique.store/products/double-take-button-up-fuzzy-checkered-shacket?variant=55321484755270)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/73afb5bb-e931-4f74-bd38-b3b1a0cc4e14-Max.webp?v=1761387650
     Price: £44.88 GBP
   - [Dusty Pink / M](https://glamorousboutique.store/products/double-take-button-up-fuzzy-checkered-shacket?variant=55321484788038)
@@ -4417,7 +4417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ce942485-57ae-4aab-98be-d5dfa7a0b115-Max.webp?v=1761387650
     Price: £44.88 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://glamorousboutique.store/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-30T14:26:56Z
+  Updated: 2025-10-31T14:15:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4495,7 +4495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761430116
     Price: £32.83 GBP
 - [High Waist Wide Flare Pants](https://glamorousboutique.store/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 41.3 27.6 40.9 M 41.7 29.5 42.9 L 42.1 31.5 44.9 XL 42.5 33.5 46.9 2XL 42.9 35.4 48.8
-  Updated: 2025-10-30T22:08:00Z
+  Updated: 2025-10-31T09:30:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4581,7 +4581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761430148
     Price: £32.98 GBP
 - [Mock Neck Long Sleeve Top](https://glamorousboutique.store/products/mock-neck-long-sleeve-top): Features: Basic style Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 20.9 31.5 23.8 M 6/8 21.3 33.5 24 L 10/12 21.7 35.4 24.2 XL 14/16 22 38.2 24.4
-  Updated: 2025-10-29T17:02:41Z
+  Updated: 2025-10-31T11:26:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4683,7 +4683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761430178
     Price: £16.79 GBP
 - [Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater](https://glamorousboutique.store/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Features: Basic style, Raw Hem Stretch: Slightly stretchy Material composition: 55% cotton, 45% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 25.6 24.2 39.8 20.5 L/XL 26.4 25.8 43.7 20.5 2XL/3XL 27.2 27.4 47.6 20.5
-  Updated: 2025-10-29T19:45:22Z
+  Updated: 2025-10-31T11:35:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4785,7 +4785,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a30e5a26-cb0e-4770-bb89-95474d4ff006-Max-Origin.webp?v=1761430710
   Price: £7.21 GBP
 - [Christmas Element Bowknot Ribbed Trim Over Knee Stockings](https://glamorousboutique.store/products/christmas-element-bowknot-ribbed-trim-over-knee-stockings): Pieces: 1-pair Material: Ployester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 20.7
-  Updated: 2025-10-28T22:42:37Z
+  Updated: 2025-10-31T09:41:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5516,7 +5516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique.store/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-10-30T14:15:16Z
+  Updated: 2025-10-31T06:30:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5622,7 +5622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
 - [Textured Notched Raglan Sleeve Sweatshirt](https://glamorousboutique.store/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-10-30T23:25:30Z
+  Updated: 2025-10-31T13:33:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5768,7 +5768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique.store/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-29T20:23:56Z
+  Updated: 2025-10-31T01:32:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7138,7 +7138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/24cddaa4-4a95-4858-bf78-cb5a194d80e1-Max-Origin.webp?v=1761439272
     Price: £63.14 GBP
 - [Double Take Full Size Checkered Dropped Shoulder Cardigan](https://glamorousboutique.store/products/double-take-full-size-checkered-dropped-shoulder-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S/M 24.8 43.3 20.9 24.4 L/XL 25.6 47.2 20.9 26 2XL/3XL 26.4 51.2 20.9 27.6
-  Updated: 2025-10-30T21:30:16Z
+  Updated: 2025-10-31T13:45:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7970,7 +7970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
     Price: £45.63 GBP
 - [Ghost & Bow Sweatshirt - Women's Long Sleeve Halloween Top | Glamorous Boutique](https://glamorousboutique.store/products/ghost-bow-round-neck-long-sleeve-sweatshirt): Embrace the spooky season with our ghost and bow print sweatshirt. Comfortable round neck design with long sleeves. Perfect for Halloween and autumn wear.
-  Updated: 2025-10-30T23:21:41Z
+  Updated: 2025-10-31T12:01:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8140,7 +8140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
     Price: £34.71 GBP
 - [Women's Hoodie & Shorts Set - 2-Piece Loungewear Outfit | Glamorous Boutique](https://glamorousboutique.store/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit): Effortlessly stylish 2-piece set featuring a zip-up hoodie and drawstring shorts. Perfect for lounging or casual outings. Comfortable and versatile.
-  Updated: 2025-10-30T11:13:54Z
+  Updated: 2025-10-31T09:21:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8162,7 +8162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
     Price: £43.29 GBP
 - [Christmas Santa Print Mesh Top - Festive Long Sleeve Shirt | Glamorous Boutique](https://glamorousboutique.store/products/christmas-santa-print-mesh-long-sleeve-top): Get festive with our Christmas Santa print mesh long sleeve top. Perfect for holiday parties and seasonal celebrations. Lightweight and stylish. Shop now!
-  Updated: 2025-10-30T13:56:20Z
+  Updated: 2025-10-31T09:21:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8184,7 +8184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
     Price: £12.66 GBP
 - [Women's Contrast Trim Hoodie - Kangaroo Pocket Sweatshirt | Glamorous Boutique](https://glamorousboutique.store/products/contrast-trim-drawstring-hoodie-with-kangaroo-pocket): Stay cosy in our women's contrast trim drawstring hoodie featuring a convenient kangaroo pocket. Perfect for casual everyday wear. Shop now at Glamorous Boutique.
-  Updated: 2025-10-30T08:26:28Z
+  Updated: 2025-10-31T06:40:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8296,7 +8296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3429f608-4180-4c40-aadb-c2b79fbd366f-Max-Origin.webp?v=1761785305
     Price: £24.60 GBP
 - [Christmas Nutcracker Button Up Top and Shorts Lounge Set](https://glamorousboutique.store/products/christmas-nutcracker-button-up-top-and-shorts-lounge-set): Features:Buttoned,Pocketed,Tied Number of pieces:Two-piece Stretch:No stretch Material composition:100% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length S 25.2 40.9 40.2 23.2 M 26 43.3 42.5 23.6 L 26.8 45.7 44.9 24 XL 27.6 48.8 48 24.4
-  Updated: 2025-10-30T15:14:27Z
+  Updated: 2025-10-31T04:33:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8318,7 +8318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c15054a2-e160-4e05-9f0c-4488a770005c-Max-Origin.webp?v=1761837255
     Price: £49.99 GBP
 - [Christmas Tree Pattern Checkered Button V Neck Cardigan](https://glamorousboutique.store/products/christmas-tree-pattern-checkered-button-v-neck-cardigan): Features:Ribbed Stretch:Slightly stretchy Material composition:52% viscose, 26% polyester, 22% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24 40.2 22 M 24.8 42.5 22 L 25.6 44.9 22 XL 26.4 48 22
-  Updated: 2025-10-30T21:20:45Z
+  Updated: 2025-10-31T15:00:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8356,21 +8356,21 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/86e3d47e-67d5-41ac-9e55-a9444c088f47-Max-Origin.webp?v=1761837309
     Price: £47.10 GBP
 - [Christmas Reindeer Rhinestone Earrings](https://glamorousboutique.store/products/christmas-reindeer-rhinestone-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Zinc alloy,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.4
-  Updated: 2025-10-30T15:15:52Z
+  Updated: 2025-10-31T04:00:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2c36c4f7-3035-4432-9154-3834183d2a26-Max-Origin.webp?v=1761837344
   Price: £7.99 GBP
 - [Christmas Tree Dangle Earrings](https://glamorousboutique.store/products/christmas-tree-dangle-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Resin,Zinc alloy,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.6
-  Updated: 2025-10-30T16:43:31Z
+  Updated: 2025-10-31T03:46:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0229a3d6-9702-4b44-a0fd-dda6df9aa0de-Max-Origin.webp?v=1761837393
   Price: £9.99 GBP
 - [Christmas Nutcracker Earrings](https://glamorousboutique.store/products/christmas-nutcracker-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Alloy,Resin,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.2
-  Updated: 2025-10-30T23:52:01Z
+  Updated: 2025-10-31T06:17:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8384,7 +8384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0a3fdb7d-2aaa-45ab-8365-64b920cd30cd-Max-Origin.webp?v=1761837433
     Price: £9.99 GBP
 - [Children's Christmas Character Long Sleeve Top and Pants Set](https://glamorousboutique.store/products/childrens-christmas-character-long-sleeve-top-and-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:95% cotton, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Shoulder Sleeve Length Waist Hip Bottom Length Top Length 4T 25.2 10.6 13.4 18.1 26.4 22.4 0 5T 26.4 11 14.2 18.9 27 23.8 0 6T 27.6 11.4 15.4 19.7 27.6 25.4 0 7T 29.1 12.2 16.5 20.5 28.3 27.2 0 8T 30.7 13 17.3 21.3 29.5 28.7 0
-  Updated: 2025-10-30T15:17:46Z
+  Updated: 2025-10-31T07:00:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8410,42 +8410,42 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3e5ae326-3bea-4e74-86a5-4ce642069531-Max-Origin.webp?v=1761837454
     Price: £16.15 GBP
 - [Super dad photo tumbler 20oz](https://glamorousboutique.store/products/super-dad-photo-tumbler-20oz)
-  Updated: 2025-10-30T22:47:36Z
+  Updated: 2025-10-31T10:44:08Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250930_101913.jpg?v=1761861376
   Price: £14.99 GBP
 - [Mean monster coffee 20oz tumbler](https://glamorousboutique.store/products/mean-monster-coffee-20oz-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:37Z
+  Updated: 2025-10-31T10:44:29Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250701_221644.jpg?v=1761861410
   Price: £14.99 GBP
 - [Sweary 20oz tumbler new design](https://glamorousboutique.store/products/sweary-20oz-tumbler-new-design): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:38Z
+  Updated: 2025-10-31T10:37:23Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250629_215054.jpg?v=1761861409
   Price: £14.99 GBP
 - [Christmas mama tumbler  20oz](https://glamorousboutique.store/products/christmas-mama-tumbler-20oz): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:38Z
+  Updated: 2025-10-31T10:48:34Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250701_222540.jpg?v=1761861410
   Price: £14.99 GBP
 - [OR music inspired tumbler](https://glamorousboutique.store/products/or-music-inspired-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:39Z
+  Updated: 2025-10-31T11:23:49Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_3086.webp?v=1761861409
   Price: £14.99 GBP
 - [Honey bear and friends tumblers 15/20oz](https://glamorousboutique.store/products/honey-bear-and-friends-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:39Z
+  Updated: 2025-10-31T11:39:09Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8457,7 +8457,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Sea monster tumblers 15/20oz](https://glamorousboutique.store/products/sea-monster-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:40Z
+  Updated: 2025-10-31T10:43:12Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8469,14 +8469,14 @@
     Availability: Available
     Price: £14.99 GBP
 - [Pink Christmas mean tumbler  20oz](https://glamorousboutique.store/products/pink-christmas-mean-tumbler-20oz): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:41Z
+  Updated: 2025-10-31T10:44:07Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250701_221925.jpg?v=1761861410
   Price: £14.99 GBP
 - [Monster tumblers 15/20oz](https://glamorousboutique.store/products/monster-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:41Z
+  Updated: 2025-10-31T10:44:28Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8488,28 +8488,28 @@
     Availability: Available
     Price: £14.99 GBP
 - [Personalised bow tumbler](https://glamorousboutique.store/products/personalised-bow-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:42Z
+  Updated: 2025-10-31T10:43:59Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_3084.webp?v=1761861409
   Price: £14.99 GBP
 - [15oz personalised dinosaur tumbler](https://glamorousboutique.store/products/15oz-personalised-dinosaur-tumbler)
-  Updated: 2025-10-30T22:47:42Z
+  Updated: 2025-10-31T10:59:01Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250712_194301.jpg?v=1761861410
   Price: £12.99 GBP
 - [Emo inspired tumbler](https://glamorousboutique.store/products/emo-inspired-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:43Z
+  Updated: 2025-10-31T10:42:59Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_3085.webp?v=1761861409
   Price: £14.99 GBP
 - [Bad B energy 20oz tumblers](https://glamorousboutique.store/products/bad-b-energy-20oz-tumblers)
-  Updated: 2025-10-30T22:47:43Z
+  Updated: 2025-10-31T11:01:45Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8527,7 +8527,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [fish friends tumblers 15/20oz](https://glamorousboutique.store/products/fish-friends-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:44Z
+  Updated: 2025-10-31T11:39:09Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8539,7 +8539,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Honey coffee tumblers 15/20oz](https://glamorousboutique.store/products/honey-coffee-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:44Z
+  Updated: 2025-10-31T10:37:23Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8551,7 +8551,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Mama Christmas tumbler 20oz](https://glamorousboutique.store/products/mama-christmas-tumbler-20oz): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:45Z
+  Updated: 2025-10-31T10:59:01Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8569,7 +8569,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Cute friends tumblers 15/20oz](https://glamorousboutique.store/products/cute-friends-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:46Z
+  Updated: 2025-10-31T10:47:56Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8581,14 +8581,14 @@
     Availability: Available
     Price: £14.99 GBP
 - [SC music inspired tumbler](https://glamorousboutique.store/products/sc-music-inspired-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:46Z
+  Updated: 2025-10-31T13:33:49Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_3087.webp?v=1761861409
   Price: £14.99 GBP
 - [Lion and friends tumblers 15/20oz](https://glamorousboutique.store/products/lion-and-friends-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:47Z
+  Updated: 2025-10-31T10:45:58Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8600,7 +8600,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Personalised candy cane tumblers](https://glamorousboutique.store/products/personalised-candy-cane-tumblers): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:47Z
+  Updated: 2025-10-31T10:44:20Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8618,7 +8618,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [RB 20oz tumblers](https://glamorousboutique.store/products/rb-20oz-tumblers)
-  Updated: 2025-10-30T22:47:48Z
+  Updated: 2025-10-31T10:47:14Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8630,14 +8630,14 @@
     Availability: Available
     Price: £14.99 GBP
 - [Surviving on pink 20oz tumbler](https://glamorousboutique.store/products/surviving-on-pink-20oz-tumbler)
-  Updated: 2025-10-30T22:47:49Z
+  Updated: 2025-10-31T10:59:01Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250801_133540.jpg?v=1761861410
   Price: £14.99 GBP
 - [Personalised “Christmas Bubu” Tumbler – 15oz or 20oz](https://glamorousboutique.store/products/personalised-christmas-bubu-tumbler-15oz-or-20oz): Sip in festive style with this adorable Christmas Bubu tumbler! Featuring a character designed to look just like your little one, it's perfect for hot chocolates, milkshakes, or festive drinks on the go. 🎄 Product Details: Available sizes: 15oz or 20oz Double-walled stainless steel – keeps drinks hot or cold for hours Includes: secure lid & reusable metal straw Festive “Christmas Bubu” wraparound design with custom name and character ✨ Personalisation Options: Name (e.g., Hannah) Hair Colour: Light Blonde, Dark Blonde, Light Brown, Dark Brown, Red, Black Eye Colour: Blue, Brown, Green Skin Tone: Light, Medium, Dark 🎁 Match it with our Christmas Bubu PJs and mug for the ultimate festive gift set! 🛍 Printed by hand at Lola’s Gift Shop – made with love and sparkle.
-  Updated: 2025-10-30T22:47:49Z
+  Updated: 2025-10-31T11:06:00Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8649,7 +8649,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Personalised “Christmas Bubu” Tumbler – 15oz or 20oz blue](https://glamorousboutique.store/products/personalised-christmas-bubu-tumbler-15oz-or-20oz-blue): Sip in festive style with this adorable Christmas Bubu tumbler! Featuring a character designed to look just like your little one, it's perfect for hot chocolates, milkshakes, or festive drinks on the go. 🎄 Product Details: Available sizes: 15oz or 20oz Double-walled stainless steel – keeps drinks hot or cold for hours Includes: secure lid & reusable metal straw Festive “Christmas Bubu” wraparound design with custom name and character ✨ Personalisation Options: Name (e.g.,marshall) Hair Colour: Light Blonde, Dark Blonde, Light Brown, Dark Brown, Red, Black Eye Colour: Blue, Brown, Green Skin Tone: Light, Medium, Dark 🎁 Match it with our Christmas Bubu PJs and mug for the ultimate festive gift set! 🛍 Printed by hand at Lola’s Gift Shop – made with love and sparkle.
-  Updated: 2025-10-30T22:47:50Z
+  Updated: 2025-10-31T10:37:25Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8661,14 +8661,14 @@
     Availability: Available
     Price: £14.99 GBP
 - [Red stripped make up tumbler personalised](https://glamorousboutique.store/products/red-stripped-make-up-tumbler-personalised)
-  Updated: 2025-10-30T22:47:50Z
+  Updated: 2025-10-31T12:16:40Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign_80b20420-9225-43de-92f0-3d53744cc983.png?v=1761861415
   Price: £14.99 GBP
 - [Spooky Christmas trees tumbler](https://glamorousboutique.store/products/spooky-christmas-trees-tumbler)
-  Updated: 2025-10-30T22:47:51Z
+  Updated: 2025-10-31T10:59:01Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8680,7 +8680,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Cars tumblers 15/20oz](https://glamorousboutique.store/products/cars-tumblers-15-20oz)
-  Updated: 2025-10-30T22:47:52Z
+  Updated: 2025-10-31T11:01:31Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8692,14 +8692,14 @@
     Availability: Available
     Price: £14.99 GBP
 - [6 wives 20oz tumbler](https://glamorousboutique.store/products/6-wives-20oz-tumbler)
-  Updated: 2025-10-30T22:47:52Z
+  Updated: 2025-10-31T10:46:39Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_5114.jpg?v=1761861409
   Price: £14.99 GBP
 - [high Christmas spirits tumbler 20oz](https://glamorousboutique.store/products/high-christmas-spirits-tumbler-20oz): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:47:53Z
+  Updated: 2025-10-31T10:54:48Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8711,7 +8711,7 @@
     Availability: Available
     Price: £14.99 GBP
 - [Cosy nights tumbler](https://glamorousboutique.store/products/cosy-nights-tumbler)
-  Updated: 2025-10-30T22:47:53Z
+  Updated: 2025-10-31T11:03:16Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8723,49 +8723,49 @@
     Availability: Available
     Price: £14.99 GBP
 - [FN 20oz tumbler](https://glamorousboutique.store/products/fn-20oz-tumbler)
-  Updated: 2025-10-30T22:02:07Z
+  Updated: 2025-10-31T10:43:58Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250902_000637.jpg?v=1761861410
   Price: £14.99 GBP
 - [Blue RB 20oz tumbler](https://glamorousboutique.store/products/blue-rb-20oz-tumbler)
-  Updated: 2025-10-30T22:47:54Z
+  Updated: 2025-10-31T10:46:39Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_7615.webp?v=1761861409
   Price: £14.99 GBP
 - [PMon 20oz tumbler](https://glamorousboutique.store/products/pmon-20oz-tumbler)
-  Updated: 2025-10-30T22:47:54Z
+  Updated: 2025-10-31T10:48:34Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250902_000552.jpg?v=1761861409
   Price: £14.99 GBP
 - [Adopt me RB pink tumbler](https://glamorousboutique.store/products/adopt-me-rb-pink-tumbler)
-  Updated: 2025-10-30T22:47:55Z
+  Updated: 2025-10-31T10:59:01Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250903_145832.jpg?v=1761861409
   Price: £14.99 GBP
 - [Silly goose 20oz tumbler](https://glamorousboutique.store/products/silly-goose-20oz-tumbler)
-  Updated: 2025-10-30T22:47:55Z
+  Updated: 2025-10-31T10:37:22Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250906_132509.jpg?v=1761861410
   Price: £14.99 GBP
 - [Autism tumbler](https://glamorousboutique.store/products/autism-tumbler)
-  Updated: 2025-10-30T22:47:56Z
+  Updated: 2025-10-31T10:50:04Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/IMG_7613.webp?v=1761861409
   Price: £14.99 GBP
 - [Personalised Ms Rachel and mums last nerve 15oz tumbler](https://glamorousboutique.store/products/personalised-ms-rachel-and-mums-last-nerve-15oz-tumbler): Option of colour pink lid
-  Updated: 2025-10-30T22:47:56Z
+  Updated: 2025-10-31T10:44:20Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
@@ -8777,42 +8777,42 @@
     Availability: Available
     Price: £13.99 GBP
 - [C girly 20oz tumbler](https://glamorousboutique.store/products/c-girly-20oz-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:03:01Z
+  Updated: 2025-10-31T10:37:23Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250606_183039.jpg?v=1761861415
   Price: £14.99 GBP
 - [Dr p girly 20oz tumbler](https://glamorousboutique.store/products/dr-p-girly-20oz-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:02:46Z
+  Updated: 2025-10-31T10:43:12Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250606_182752.jpg?v=1761861414
   Price: £14.99 GBP
 - [Dead inside but still cute 20oz tumbler](https://glamorousboutique.store/products/dead-inside-but-still-cute-20oz-tumbler): Dead Inside But Still Cute – 20oz Tumbler Show off your spooky-cute side with our Dead Inside But Still Cute 20oz handprinted tumbler! Featuring an adorable gothic pattern of skulls, spiderwebs, bats, and purple roses on a soft lilac background, this stainless steel tumbler is perfect for keeping your coffee hot or your iced drink chilled in style. ✨ Product Features: Double-walled stainless steel for hot & cold drinks 20oz capacity – ideal for your daily dose of caffeine or hydration Includes a secure lid & reusable straw Handprinted with vibrant, high-quality inks Exclusive design – creepy meets cute! 🖤 Whether you're embracing your inner goth or just love a quirky aesthetic, this tumbler adds personality to every sip.
-  Updated: 2025-10-30T22:01:05Z
+  Updated: 2025-10-31T11:43:27Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250613_153900.jpg?v=1761861414
   Price: £14.99 GBP
 - [Sprite 20oz tumbler](https://glamorousboutique.store/products/spr-ite-20oz-tumbler): 20oz Hand-Printed Stainless Steel Tumbler Sip in style with this 20oz stainless steel tumbler, hand-printed with a unique design that’s as bold as your favorite brew. Crafted for durability and performance, this double-walled tumbler keeps your drinks hot for up to 12 hours and refreshingly cold for up to 24. Whether you’re commuting, camping, or just conquering your daily to-do list, this tumbler is your perfect on-the-go companion. The slim design fits most cup holders, and the secure lid helps prevent spills while keeping every sip just right. Features: 20oz capacity Premium stainless steel construction Hand-printed design (no two are exactly alike!) Keeps drinks hot up to 12 hours / cold up to 24 hours Fits standard cup holders Spill-resistant lid Hydrate with personality—grab yours today! Care Instructions: Hand wash only – To preserve the hand-printed design and vacuum seal, avoid using the dishwasher. Do not microwave – This tumbler is made of stainless steel and is not microwave-safe. Avoid abrasive cleaners – Use a soft sponge or cloth to clean the interior and exterior. Dry thoroughly – After washing, allow the tumbler to air dry with the lid off to prevent moisture buildup. Not intended for freezer use – Extreme temperatures can compromise insulation performance. With proper care, your tumbler will keep your drinks at the perfect temperature for years to come!
-  Updated: 2025-10-30T22:00:53Z
+  Updated: 2025-10-31T12:39:25Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250606_183120.jpg?v=1761861414
   Price: £14.99 GBP
 - [I love bad boys 20oz tumbler](https://glamorousboutique.store/products/i-love-bad-boys-20oz-tumbler)
-  Updated: 2025-10-30T21:59:04Z
+  Updated: 2025-10-31T10:45:28Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250101_111626.jpg?v=1761861414
   Price: £14.99 GBP
 - [Personalised floral tumblers](https://glamorousboutique.store/products/personalised-floral-tumblers)
-  Updated: 2025-10-30T21:58:35Z
+  Updated: 2025-10-31T10:47:56Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
