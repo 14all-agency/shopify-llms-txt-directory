@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-31T00:01:39.506Z
+- Updated At: 2025-10-31T04:00:40.122Z
 
 ## Products
 
@@ -5577,8 +5577,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/premium-polo-shirt-white-front-6790eceaa0ebb.jpg?v=1737551412
     Price: $34.00 USD
-- [Men's Long Sleeve Embroidered Tee (full sleeve t shirt)](https://baskandweave.com/products/mens-long-sleeve-embroidered-tee): Enrich your wardrobe with a versatile long sleeve tee (full sleeve t shirt). For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look.• 100% airlume combed ring-spun cotton• Heather colors are 52% combed and ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Fabric weight: 4.2 oz./yd.² (142.4 g/m²)• 32 singles• Regular fit• Side-seamed construction• Crew neck• Cover-stitched collar• 2″ (5 cm) ribbed cuffs• Blank product sourced from Nicaragua, Honduras, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide SHIRT LENGTH (cm) CHEST WIDTH (cm) CHEST TO FIT (cm) SLEEVE LENGTH (cm) XS 68.6 42 78.7-86.4 63.5 S 71.1 45.7 86.4-94 65 M 73.7 50.8 96.5-104.1 66.6 L 76.2 55.9 106.7-114.3 68.3 XL 78.7 61 116.8-124.5 69.9 2XL 81.3 66 127-134.6 71.4
-  Updated: 2025-10-29T23:04:02Z
+- [Men's Embroidered Long Sleeve Tee – Full Sleeve T-Shirt](https://baskandweave.com/products/mens-long-sleeve-embroidered-tee): Shop the men's embroidered long sleeve tee for a blend of comfort and class. This full sleeve t-shirt features detailed embroidery and a modern casual fit.
+  Updated: 2025-10-31T00:13:19Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -5783,8 +5783,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-long-sleeve-tee-heather-navy-zoomed-in-6790f4a5516a6.jpg?v=1737553257
     Price: $32.50 USD
-- [Men's Muscle Embroidered Shirt](https://baskandweave.com/products/mens-muscle-embroidered-shirt): This soft, sleeveless tank is so comfy you're going to want to wear it everywhere, be it on your couch, out on a walk, or during a yoga class. The relaxed fit and low-cut armholes gives it a casual, urban look. • 100% airlume combed ring-spun cotton • Fabric weight: 4.2 oz/y² (142 g/m²) • 32 singles • Relaxed fit • Side-seamed construction • Wide, low-cut armholes • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (cm) SHIRT LENGTH (cm) CHEST TO FIT (cm) S 45.7 66 86.4-94 M 50.8 68.6 96.5-104.1 L 53.3 71.1 106.7-114.3 XL 58.4 73.7 116.8-124.5 2XL 63.5 76.2 127-134.6
-  Updated: 2025-10-29T23:04:02Z
+- [Men's Embroidered Muscle Shirt – Stylish Workout Tee](https://baskandweave.com/products/mens-muscle-embroidered-shirt): Upgrade your gym style with our men's embroidered muscle shirt. Designed for comfort and confidence, this fitted tee highlights strength and sleek modern appeal
+  Updated: 2025-10-31T00:14:02Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -5829,8 +5829,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Muscle_Embroidered_Shirt.jpg?v=1740363332
     Price: $39.50 USD
-- [Men's Tri-Blend Embroidered T-Shirt](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt-1): The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) XS 68.6 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-29T23:04:02Z
+- [Men's Embroidered Tri-Blend T-Shirt – Soft Premium Tee](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt-1): Men's embroidered tri-blend t-shirt crafted from premium tri-blend fabric for softness and durability. A stylish embroidered tee for everyday wear.
+  Updated: 2025-10-31T00:15:39Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -6035,8 +6035,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-tri-blend-t-shirt-clay-triblend-zoomed-in-6790f79b8a84e.jpg?v=1737554143
     Price: $33.00 USD
-- [Men's Denim Embroidered T-Shirt](https://baskandweave.com/products/mens-denim-embroidered-t-shirt): This denim t-shirt is made out of 100% combed cotton and has a classic rounded neckline with ribbed sleeve cuffs. It's soft, comfortable, and a must-have for every fashion enthusiast! • 100% combed cotton • Fabric weight: 4.7 oz./yd.² (160 g/m²) • Rounded neckline • Short-sleeved with 1x1 ribbed cuffs • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 68.5 46 M 69.5 48 L 70 52 XL 73 57.5 2XL 75 61.5
-  Updated: 2025-10-29T23:04:02Z
+- [Men's Embroidered Denim T-Shirt – Stylish Premium Tee](https://baskandweave.com/products/mens-denim-embroidered-t-shirt): Men's embroidered denim t-shirt designed for comfort and modern appeal. Crafted from durable denim fabric, it’s the perfect casual tee for a bold, stylish look.
+  Updated: 2025-10-31T00:16:16Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -6121,8 +6121,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-front-2-6790f8f073d58.jpg?v=1737554175
     Price: $35.50 USD
-- [Men's Pique Polo Embroidered Shirt](https://baskandweave.com/products/mens-pique-polo-embroidered-shirt): Classic and made to last, this Pique Polo Shirt is for all occasions. It’s crafted from a durable cotton pique fabric. The relaxed and flattering fit is designed to complement any body type. With a classic cut and crisp collar, it can be dressed up or down for sporty, casual, or more formal styles. • 100% ring-spun cotton• Fabric weight: 5.2 oz/yd² (176 g/m²)• Semi-fitted• Side-seamed construction• Placket with dyed-to-match buttons• The fabric is OEKO-TEX Standard 100 certifiedThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 71.1 50.8 44.5 M 75 54.6 47 L 77.5 57.2 48.9 XL 80 60.3 52 2XL 82.6 63.5 54.6 3XL 85 67.3 57.8 4XL 87.6 71.1 61
-  Updated: 2025-10-29T23:04:02Z
+- [Men's Embroidered Polo Shirts – Premium Pique Polo Style](https://baskandweave.com/products/mens-pique-polo-embroidered-shirt): Shop men's embroidered polo shirts crafted from soft pique for a refined, versatile look. Ideal for casual or smart wear with lasting comfort.
+  Updated: 2025-10-31T00:28:38Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -6232,8 +6232,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pique-polo-shirt-white-front-6790fadc0a2c6.jpg?v=1737554721
     Price: $38.00 USD
-- [Men's Faux Leather Bomber Jacket](https://baskandweave.com/products/mens-leather-bomber-jacket): If there’s an item that never goes out of style, it’s a leather jacket. Made of 100% PU leather, this classic piece will complement casual, chic, or sporty outfits. • Outside: 100% polyurethane (PU) leather • Lining: 60% cotton, 40% polyester • Embroidery backing: 100% rayon • Fabric weight: 10.6 oz/yd² (359 g/m²) • Regular fit • Rib-knit banding at collar, cuffs, and hem • Side pockets • Utility pocket on the sleeve • Hidden inside access zipper at the back of the design area • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) XS 68.6 49.5 63.5 S 69.9 53.3 64.1 M 71.1 58.4 64.8 L 72.4 63.5 65.4 XL 73.7 68.6 66 2XL 75 72.4 66.7 3XL 76.2 76.2 67.3
-  Updated: 2025-10-29T23:04:03Z
+- [Men's Faux Leather Bomber Jacket – Stylish & Comfy](https://baskandweave.com/products/mens-leather-bomber-jacket): Upgrade your wardrobe with this men's faux leather bomber jacket. Designed for lasting comfort and modern style, it’s your go-to outerwear for every season.
+  Updated: 2025-10-31T00:30:35Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -6294,8 +6294,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/faux-leather-bomber-jacket-brown-front-3-67922ec8637af.jpg?v=1737633656
     Price: $102.00 USD
-- [Faux Leather Bomber Men's Jacket](https://baskandweave.com/products/leather-bomber-mens-jacket): If there’s an item that never goes out of style, it’s a leather jacket. Made of 100% PU leather, this classic piece will complement casual, chic, or sporty outfits. • Outside: 100% polyurethane (PU) leather • Lining: 60% cotton, 40% polyester • Embroidery backing: 100% rayon • Fabric weight: 10.6 oz/yd² (359 g/m²) • Regular fit • Rib-knit banding at collar, cuffs, and hem • Side pockets • Utility pocket on the sleeve • Hidden inside access zipper at the back of the design area • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) XS 68.6 49.5 63.5 S 69.9 53.3 64.1 M 71.1 58.4 64.8 L 72.4 63.5 65.4 XL 73.7 68.6 66 2XL 75 72.4 66.7 3XL 76.2 76.2 67.3
-  Updated: 2025-10-29T23:04:03Z
+- [Men's Faux Leather Bomber Jacket – Premium Style Jacket](https://baskandweave.com/products/leather-bomber-mens-jacket): Shop the men's faux leather bomber jacket for a bold and stylish look. Designed for comfort and durability, this premium outerwear completes any modern wardrobe
+  Updated: 2025-10-31T00:32:28Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
