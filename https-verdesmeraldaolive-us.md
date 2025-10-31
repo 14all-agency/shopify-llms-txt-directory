@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-30T20:00:32.884Z
+- Updated At: 2025-10-31T00:00:31.719Z
 
 ## Products
 
@@ -160,7 +160,7 @@
 ## Store Pages
 
 - [Contact](https://verdesmeraldaolive.us/pages/contact)
-  Updated: 2025-09-30T18:03:25Z
+  Updated: 2025-10-30T20:31:34Z
 - [Your privacy choices](https://verdesmeraldaolive.us/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-30T18:03:25Z
 - [About Us](https://verdesmeraldaolive.us/pages/about-us)
