@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-30T16:01:16.388Z
+- Updated At: 2025-10-31T08:01:33.499Z
 
 ## Products
 
@@ -17118,7 +17118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-26_1.jpg?v=1710397564
     Price: $709.00 USD
 - [Moissanite 0.19CT Round Diamond Art Deco New Arrival Band](https://ibizjewel.com/products/moissanite-0-19ct-round-diamond-art-deco-new-arrival-band): Introducing Our Moissanite 0.19ct Round Diamond Art Deco New Arrival Band! Crafted With Exquisite Precision And Detail, This Band Features A Stunning 0.19ct Round Moissanite Diamond In An Art Deco Design. With Its Timeless Elegance And Sparkling Brilliance, This Band Is The Perfect Addition To Any Collection. Enhance Your Style With This New Arrival Today.
-  Updated: 2025-10-02T10:29:17Z
+  Updated: 2025-10-31T02:31:43Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
@@ -40832,7 +40832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-143_1_0972c600-bd80-4f53-bef6-48c38252b441.jpg?v=1712556026
     Price: $3,629.00 USD
 - [Natural Salt And Pepper 2.35CT Pear Diamond Art Deco Unique Engagement Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-2-35ct-pear-diamond-art-deco-unique-engagement-ring-anniversary-ring): This unique Natural Salt And Pepper 2.35CT Pear Diamond Art Deco Engagement and Anniversary Ring is a stunning choice for those seeking a distinctive and one-of-a-kind piece. With its natural and rare salt and pepper diamonds, this ring adds a touch of personality and character to any special occasion. Crafted with expert precision and attention to detail, this ring is a true work of art.
-  Updated: 2025-10-02T10:31:13Z
+  Updated: 2025-10-31T02:25:04Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
