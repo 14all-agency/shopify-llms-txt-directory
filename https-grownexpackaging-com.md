@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-30T20:00:59.368Z
+- Updated At: 2025-10-31T00:00:39.446Z
 
 ## Products
 
@@ -8572,7 +8572,7 @@ Festival packaging box
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC_0025_fa790fde-d790-4ec0-84e2-391d86810db1.jpg?v=1757057140
     Price: ₹9,449.00 INR
 - [Custom Red Circle Design Premium Sweet Packing Box](https://grownexpackaging.com/products/custom-pink-peacock-design-4-line-premium-sweet-packaging-box-copy): 1 Kg Pink Peacock 4 Line Premium File Sweet Box: Perfect for gifting sweets on special occasions. Eco-friendly, BPA-free tray with elegant design. Shop now!
-  Updated: 2025-10-30T12:28:46Z
+  Updated: 2025-10-30T22:43:19Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
