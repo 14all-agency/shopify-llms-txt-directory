@@ -9,100 +9,10 @@
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
 - Address: Calgary, Alberta, Canada
-- Updated At: 2025-10-30T08:00:47.781Z
+- Updated At: 2025-10-31T12:00:32.890Z
 
 ## Products
 
-- [Bow Tie](https://urbanpawsyyc.myshopify.com/products/bow-tie): The perfect accessory for any special occasion. Our leather bow tie comes in two sizes and can fit any non slip-on collar that is 3/4" - 1.5" wide. The bow tie attaches to the collar by two elastic webbings. Sizes S/M - 4" x 1.75" M/L - 4.5" x 2.5"
-  Updated: 2025-10-28T23:28:40Z
-  Vendor: Wedge Dog Collection
-  Product Type: Bow Tie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7575408.jpg?v=1761636232
-  - [Grey/Tan / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185376573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-9744220.jpg?v=1761636235
-    Price: $18.13 CAD
-  - [Grey/Tan / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185409341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-9744220.jpg?v=1761636235
-    Price: $19.79 CAD
-  - [White/Green / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185442109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-4725498.jpg?v=1761636234
-    Price: $18.13 CAD
-  - [White/Green / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185474877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-4725498.jpg?v=1761636234
-    Price: $19.79 CAD
-  - [Tan/Grey / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185507645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7575408.jpg?v=1761636232
-    Price: $18.13 CAD
-  - [Tan/Grey / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185540413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7575408.jpg?v=1761636232
-    Price: $19.79 CAD
-  - [Green/Tan / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185573181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-4921356.jpg?v=1761636233
-    Price: $18.13 CAD
-  - [Green/Tan / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185605949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-4921356.jpg?v=1761636233
-    Price: $19.79 CAD
-  - [Red/White / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185638717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-1568047.jpg?v=1761636233
-    Price: $18.13 CAD
-  - [Red/White / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185671485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-1568047.jpg?v=1761636233
-    Price: $19.79 CAD
-  - [Navy Blue/White / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185704253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-5870699.jpg?v=1761636233
-    Price: $18.13 CAD
-  - [Navy Blue/White / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185737021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-5870699.jpg?v=1761636233
-    Price: $19.79 CAD
-  - [Sage/Black / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185769789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7641256.jpg?v=1761636234
-    Price: $18.13 CAD
-  - [Sage/Black / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185802557)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7641256.jpg?v=1761636234
-    Price: $19.79 CAD
-  - [Maroon/Sage / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185835325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-6470101.jpg?v=1761636232
-    Price: $18.13 CAD
-  - [Maroon/Sage / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185868093)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-6470101.jpg?v=1761636232
-    Price: $19.79 CAD
-  - [Bone/Red / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185900861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7240055.jpg?v=1761636233
-    Price: $18.13 CAD
-  - [Bone/Red / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185933629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-7240055.jpg?v=1761636233
-    Price: $19.79 CAD
-  - [Football/White / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185966397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-6329208.jpg?v=1761636293
-    Price: $19.79 CAD
-  - [Blossom/Maroon / S/M](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909185999165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-2588484.jpg?v=1761636233
-    Price: $18.13 CAD
-  - [Blossom/Maroon / M/L](https://urbanpawsyyc.myshopify.com/products/bow-tie?variant=50909186031933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/bow-tie-2588484.jpg?v=1761636233
-    Price: $19.79 CAD
 - [''BATMAN'' collar](https://urbanpawsyyc.myshopify.com/products/batman-collar): BESTIA CUSTOM DOG GEAR prouldy presents: A Super Hero collar for a Super Dog!! Batman collar is a MUST HAVE for your medium to giant sized dog. The collar is soft padded for absolute comfort. It has an unique handmade design. The Batman logo is made out of cobra pattern. This collar has a total width of 6,3 cm (2.5 inch) Size chart: M - fitting a neck of 42,5 - 52,5 cm (16.7 to 20.6 inch) L - fitting a neck of 50- 60 cm (19.7 to 23.6 inch) XL - fitting a neck of 57,5- 67,5 cm (22.6 to 26.6 inch) XXL - fitting a neck of 65 - 75 cm (25.6 to 29.6 inch ATTENTION! THIS COLLAR WILL BE MADE ON ORDER WITHIN 1 WEEK! This is the perfect collar for your big pet. Fit`s perfect on large to giant breeds, like: Cane Corso, Rottweiler, Doberman, Presa Canario, Spanish Mastiff, English Mastiff, Bullmastiff, French Mastiff, American Bulldog, Boerboel, Dogo Argentino, Amstaff, etc. 100% genuine leather handmade quality made in Europe unique design
   Updated: 2025-10-29T17:29:27Z
   Vendor: DC-Bestia Brands
@@ -508,7 +418,7 @@
   Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20230213_145837.jpg?v=1761715959
   Price: $33.50 CAD
 - [''BATMAN'' HARNESS](https://urbanpawsyyc.myshopify.com/products/batman-harness): BESTIA CUSTOM DOG GEAR proudly presents: The eye-catching ''BATMAN'' harness is a MUST have for your medium to giant sized dog. The base layer of this harness is thick belt leather of highest quality. It is very strong and durable. The Batman logo is made out of cobra pattern leather. Size chart: M size: fits all medium sized breeds starting at a chest size of: 19.7 inch (50 cm), fitting up to a chest size of 29.5 inch (75 cm) and a lower neck circumference of 13.8 to 22.8 inch (35 to 58 cm) L/XL size: fits all large breeds starting at a chest size of: 23.6 inch (60 cm), fitting up to a chest size of 45.3 inch (115 cm) and a lower neck circumference of 17 to 25 inch (43 to 63,5 cm) XXL size : fits all giant breeds starting at a chest size of: 37.4 inch (95 cm), up to a chest size of 57 inch (145 cm) and a lower neck circumference of 21 to 33 inch (53 to 83,5 cm) ATTENTION! This size fits on giant breeds only, like Bullmastiff, Caucasian shepherd dog, Kangal, St. Bernard, Newfoundland, Neapolitan Mastiff, etc. Every harness comes with 2 chest straps! All metal parts are nickel plated. Please measure up your dog before ordering! 100% genuine leather soft padded handmade quality made in Europe unique design
-  Updated: 2025-10-29T17:34:26Z
+  Updated: 2025-10-30T23:08:27Z
   Vendor: DC-Bestia Brands
   Product Type: 
   Availability: Available
@@ -630,6 +540,221 @@
   - [M - fitting a neck of 16.7 to 19.7 inch (42.5- 50 cm) / Red / Collar Only](https://urbanpawsyyc.myshopify.com/products/danger-collar?variant=50914669166909)
     Availability: Available
     Price: $72.17 CAD
+- [Panorama](https://urbanpawsyyc.myshopify.com/products/panorama): Panorama Collar Features Handmade in Whistler, BC Full Grain Vegetable Tanned Bridal Leather 100% Brass Hardware Available in 5 colours of leather (Black, Brown, Cognac, Moss, Natural) Comes in 4 widths (1/2", 3/4", 1", 1.5") 4 colours of hardware to pick from (Black, Brass, Silver, Antique Brass) Real leather can be stiff to begin with but will soften up greatly with use/wear. Properly conditioning can help the break-in process and will also help to extend the life of the leather. Note* The natural veg-tanned leather will turn a deep caramel colour with time, use and exposure to the sun. Leather Care For safety purposes, dogs should always be supervised while wearing collars and all hardware should be inspected regularly. We do our best to get orders out as soon as possible but please expect 5-7 days to ship as every piece is custom made. If we are waiting on a leather or hardware restock I will let you know ASAP.
+  Updated: 2025-10-31T10:20:44Z
+  Vendor: Wedge Dog Collection
+  Product Type: Collar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/DSC08045.jpg?v=1761835309
+  - [1/2" / 8-11”](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920564556093)
+    Availability: Available
+    Price: $23.43 CAD
+  - [1/2" / 10-14"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920566915389)
+    Availability: Available
+    Price: $25.49 CAD
+  - [1/2" / 13-17"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920566948157)
+    Availability: Available
+    Price: $27.54 CAD
+  - [1/2" / 16-20"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920566980925)
+    Availability: Available
+    Price: $29.59 CAD
+  - [1/2" / 19-23"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567013693)
+    Availability: Available
+    Price: $31.65 CAD
+  - [1/2" / 22-26"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567046461)
+    Availability: Available
+    Price: $33.70 CAD
+  - [3/4" / 8-11”](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567079229)
+    Availability: Available
+    Price: $29.59 CAD
+  - [3/4" / 10-14"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567111997)
+    Availability: Available
+    Price: $31.65 CAD
+  - [3/4" / 13-17"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567144765)
+    Availability: Available
+    Price: $33.70 CAD
+  - [3/4" / 16-20"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567177533)
+    Availability: Available
+    Price: $35.76 CAD
+  - [3/4" / 19-23"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567210301)
+    Availability: Available
+    Price: $37.81 CAD
+  - [3/4" / 22-26"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567243069)
+    Availability: Available
+    Price: $39.87 CAD
+  - [1" / 10-14"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567275837)
+    Availability: Available
+    Price: $35.76 CAD
+  - [1" / 13-17"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567308605)
+    Availability: Available
+    Price: $37.81 CAD
+  - [1" / 16-20"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567341373)
+    Availability: Available
+    Price: $39.87 CAD
+  - [1" / 19-23"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567374141)
+    Availability: Available
+    Price: $41.92 CAD
+  - [1" / 22-26"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567406909)
+    Availability: Available
+    Price: $43.98 CAD
+  - [1.5" / 13-17"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567439677)
+    Availability: Available
+    Price: $50.14 CAD
+  - [1.5" / 16-20"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567472445)
+    Availability: Available
+    Price: $52.20 CAD
+  - [1.5" / 19-23"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567505213)
+    Availability: Available
+    Price: $54.25 CAD
+  - [1.5" / 22-26"](https://urbanpawsyyc.myshopify.com/products/panorama?variant=50920567537981)
+    Availability: Available
+    Price: $56.31 CAD
+- [Pet Slow Feeding Set](https://urbanpawsyyc.myshopify.com/products/pet-feeding-set): Reward your pet with our Pet Slow Feeding Set that enhances your pet's digestion and oral health, tailored for puppies and small breeds.This set features a travel-friendly collapsible drinking bowl, along with a textured licking plate designed to slow down eating, effectively clean the tongue, and remove plaque. The plate is also equipped with a suction feature, ensuring stability when eating. Lastly, an anti-slip feeding mat is included to catch all leftovers for effortless cleaning. This set allows you to provide various types of foods and treats for your pets. It decreases anxiety and boredom which often cause destructive chewing. High-quality and durable non-toxic food-grade silicone 100% PVC and BPA-free with no harmful chemical materials Dishwasher-safe and freezer-safe Contains 1 pet feeding mat 1 pet drinking bowl 1 pet-licking plate with a spatula Features portable construction: lightweight and bendable silicone allows for easy storage, packing, and travel multi-textured licking plate: provides varied sensory stimulation for pets distraction treats: designed to distract pets and keep them entertained during grooming, nail trimming, or stressful situations like fireworks, providing a calm environment for them to relax portion control: avoid overfeeding and choking as they slow down on eating How to Use place their food, treats, or favorite spread like peanut butter or yogurt on the licking mat. Its ridges will scrape your pet's tongue clean as they eat put the food mat underneath to catch any spills or fallen food chunks fill the collapsible bowl with water for easy hydration during or after meals Care Tips wash with hot water and soap or place in the top rack of the dishwasher keep away from direct flame Why you should choose silicone pet products?﻿ the presence of bisphenol A, also known as BPA, in plastic can disrupt hormones in your pets, leading to some serious health problems like cancer, diabetes, and infertility. Some of us think that silicone is plastic, it is actually made from silica, which is a natural resource. It does not contain any harmful chemicals that may affect your fur babies. Unlike plastic, silicone is much more durable, resistant to chewing, does not form sharp objects, and is extremely heat and cold-resistant
+  Updated: 2025-10-31T10:20:41Z
+  Vendor: Plantish
+  Product Type: Home & Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/pet-feeding-set-thumbnail-plantish-future.png?v=1761835311
+  Price: $18.45 CAD
+- [Fetch Ball](https://urbanpawsyyc.myshopify.com/products/fetch-ball): The Fetch Ball is perfect for dogs and cats to run around and catch. It's made of durable rope what your pet will love playing with this ball, and you'll appreciate its long-lasting durability. Dimensions:3x3x3 in Weight: 0.22 lb.
+  Updated: 2025-10-31T10:20:55Z
+  Vendor: Toys N Treats Box
+  Product Type: Dog Toy Fetch Ball
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20240104_163936.jpg?v=1761835314
+  - [Blue](https://urbanpawsyyc.myshopify.com/products/fetch-ball?variant=50920564523325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20240104_164028.jpg?v=1761835316
+    Price: $5.52 CAD
+  - [Pink](https://urbanpawsyyc.myshopify.com/products/fetch-ball?variant=50920564851005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231116_144852.jpg?v=1761835315
+    Price: $5.52 CAD
+  - [Green](https://urbanpawsyyc.myshopify.com/products/fetch-ball?variant=50920564883773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231116_144842.jpg?v=1761835314
+    Price: $5.52 CAD
+  - [Green/Red](https://urbanpawsyyc.myshopify.com/products/fetch-ball?variant=50920564916541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20240104_164022.jpg?v=1761835315
+    Price: $5.52 CAD
+  - [Pink/Pink](https://urbanpawsyyc.myshopify.com/products/fetch-ball?variant=50920564949309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20240104_164035.jpg?v=1761835315
+    Price: $5.52 CAD
+- [Grooming Glove](https://urbanpawsyyc.myshopify.com/products/grooming-glove): Slip on your pet grooming gloves and keep your pet’s coat looking clean and healthy while reducing the hair scattered about the house!Keeping your dog’s or cat’s coat brushed regularly is important for their overall health, as well as yours - and the Pet Grooming and Deshedding Gloves make it easier and more efficient than ever before! Dimensions: 9x6.5x1 in Weight a pair: 3.0 oz.
+  Updated: 2025-10-31T10:20:53Z
+  Vendor: Toys N Treats Box
+  Product Type: Massage & Shampoo Brush
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_165323.jpg?v=1761835319
+  - [1 pack / Black](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920564588861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_164727.jpg?v=1761835319
+    Price: $7.37 CAD
+  - [1 pack / Blue](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920564982077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_164702.jpg?v=1761835319
+    Price: $7.37 CAD
+  - [1 pack / Red](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565014845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_165040.jpg?v=1761835319
+    Price: $7.37 CAD
+  - [1 pack / Sky Blue](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565047613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_165002.jpg?v=1761835321
+    Price: $7.37 CAD
+  - [2 pack / Black](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565080381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_164727.jpg?v=1761835319
+    Price: $12.90 CAD
+  - [2 pack / Blue](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565113149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_164702.jpg?v=1761835319
+    Price: $12.90 CAD
+  - [2 pack / Red](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565145917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_165040.jpg?v=1761835319
+    Price: $12.90 CAD
+  - [2 pack / Sky Blue](https://urbanpawsyyc.myshopify.com/products/grooming-glove?variant=50920565178685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/20231013_165002.jpg?v=1761835321
+    Price: $12.90 CAD
+- [Glowing Guardian - Usb Rechargeable Led Pet Safety Collar](https://urbanpawsyyc.myshopify.com/products/glowing-guardian-usb-rechargeable-led-pet-safety-collar): Introducing the Glowing Guardian - the ultimate USB Rechargeable LED Pet Safety Collar that will keep your furry friend safe and stylish day and night! With its high-quality modern LED lights, this collar is one of the most effective ways to ensure your dog's visibility in any low light conditions. Whether you're taking a stroll in the evening or enjoying a late-night adventure, the Glowing Guardian will make you and your pet stand out from the crowd. No more worrying about running out of batteries! This collar is rechargeable via Micro USB, making it incredibly convenient. Simply plug it into your phone charger, laptop, PC, tablet, smart TV, or any USB power adapter. The Micro USB cable is included, so you'll have everything you need to keep your pet's collar charged and ready to go. Designed with your pet's comfort in mind, the Glowing Guardian is adjustable and weatherproof. Its IP65 rating ensures that it can withstand any outdoor elements, keeping your furry friend safe and visible in rain or shine. Plus, it's one size fits all! The collar measures 60cm (excluding the switch), and the tube can be easily cut to any length using scissors to ensure the perfect fit for your pet. Safety is always our top priority, and the Glowing Guardian delivers. Whether you're celebrating Halloween, Christmas, Valentine's Day, or any other festival, this collar is perfect for adding a touch of festive spirit. It's also great for everyday use, ensuring your pet is always visible during walks or playtime. Don't compromise on your pet's safety and style. Get the Glowing Guardian - the USB Rechargeable LED Pet Safety Collar that combines functionality, comfort, and fashion. Order yours today and give your furry friend the protection they deserve! Important InformationMaterial: PlasticPackage Size: 250 x 250 x 50 mm SpecificationPattern: single colorColor: WhiteMaterial; ABS+PVSApplicable object: DogApplicable festivals: Halloween/Ghost's Day, Birthday, Christmas, Valentine's Day, Spring Festival, Mid-Autumn Festival, Easter, Carnival, National Day, April Fool's Day, Qixi Festival, other festivalsSuitable for the season: all seasonsPackage ContentPet collar*1
+  Updated: 2025-10-31T10:20:41Z
+  Vendor: Dog Hugs Cat
+  Product Type: Dog Collars, Leashes & Harnesses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/d0c1c4d1-ff1d-4ca7-8ce6-13efb7808a32.jpg?v=1761835328
+  Price: $28.23 CAD
+- [Pet Grooming Set](https://urbanpawsyyc.myshopify.com/products/pet-grooming-set): This grooming set provides all the essentials needed for a complete relaxing and stress free pet care. Each tool serves important functions to make your pets love and enjoy grooming at home. Start by untangling fur with the comb, as its rounded teeth smooth knots without pulling or hurting your pet. Check nails and gently file as needed with the stainless steel pet clippers and file. Brighten smiles by inserting the flexible toothbrush finger cot brush to clean teeth and massage gums. When it's bath time, lather the rich unscented organic pet shampoo bar onto the coat using the pet bath brush. Suitable for all pet sizes 100% Natural, chemical free formula for our Pet Shampoo Bar High-quality PVC and BPA-free Silicone with no harmful chemical materials that minimize stress for a relaxing grooming experience Contains 3 pet comb (1S, 1M, 1L) 1 pet nail clipper 1 nail file 1 pet toothbrush finger cot 1 pet bath brush 1 dog shampoo bar Features pet comb: rounded steel teeth untangle fur without pain or pull pet nail clipper & file: precise, safely autoclavable and easy-grip handle to avoid unwanted accidents toothbrush finger cot: flexible finger cot and head reaches hard to reach areas; cleans teeth, massages gums, tongue, and removes plaque gently pet brush: soft rubber bristles clean without scratching, easy grip handle, gentle on fur and skin while lifting dirt pet shampoo bar: 100% natural: no phthalates, parabens, sulfates, petroleum, synthetic fragrances, perfumes, or synthetic dyes Shampoo Bar Ingredients saponified coconut oil (sodium cocoate) - makes a bubbly soap that helps retain moisture and prevents dry, itchy skin. olive oil (olea europaea oil) - conditions, smooths, and detangles for a shiny natural coat. neem oil (melia azadirachta seed oil) - repels fleas, ticks, and other small biting insects treats a variety of skin ailments as well as aids in a healthy, shiny coat. argan oil (argania spinosa kernel oil) - moisturizes your pup's skin and hair keeping their coat soft, smooth, and stylized. How to Use begin by detangling your pet's coat with the appropriately sized pet comb. Gently work through any knots or mats in the fur check your pet's nails with the nail clippers. Trim as needed while holding their paw steady use the pet nail file to file any rough nail edges to clean teeth, slide the finger cot from the pet toothbrush onto your finger. Brush the teeth, gums, and tongue to remove plaque when bathing, lather the pet shampoo bar across the coat use the pet bath brush to massage the shampoo in and lift away dirt thoroughly rinse all the shampoo from the coat under running water. Gently towel dry or let the coat air dry fully Care Tips Regular cleaning keeps them in peak condition for your pet's grooming needs. rinse the comb under water and air dry completely after use to remove fur and debris apply a small amount of oil to the clipper blades after each trim and wipe clean with a cloth wash the finger cot after each use and replace every 3 months if needed wash the pet brush occasionally in mild soap and water then lay flat to air dry fully between uses store the shampoo bar in a soap dish between uses to maintain its integrity
+  Updated: 2025-10-31T10:20:41Z
+  Vendor: Plantish
+  Product Type: Home & Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/pet-grooming-set-thumbnail1-plantish-future.jpg?v=1761835317
+  Price: $35.37 CAD
+- [Pet Playtime Set](https://urbanpawsyyc.myshopify.com/products/the-playtime-pet-set): Enhance your pet's playtime with our chew-proof toy set, promoting fun and toxin-free play. Specifically designed for high-energy pets, this set engages them both physically and mentally whether it's indoors or outdoors, ensuring lasting entertainment and a happy, healthy pet.Included are a tug-ready rope, a gum-soothing bendy bone, a treat dispensing twisty knot for unpredictable bouncing, and a tennis tumble for solo problem-solving fun. This set effectively reduces anxiety and boredom, addressing common causes of destructive chewing. High-quality and durable non-toxic food-grade natural rubber 100% PVC and BPA-free with no harmful chemicals and materials Dishwasher-safe and freezer-safe Contains 1 Triangle Drawstring 1 Twisty Knot 1 Bendy Bone 1 Tennis Tumble Features high pull tolerance rope: the triangle tug rope is sturdy enough for tug-of-war pet pros indoor and outdoor fun: create activities with no bounds even outside or inside your home distraction toy: keeps your pet entertained and relieves stress while grooming, nail trimming or when in stressful situations like fireworks, providing a calm environment for them to relax How to Use triangle drawstring: hold the rope and make your pet bite the triangle, creating tug-of-war play twisty knot and bendy bone: fill with treats inside like peanut butter or yogurt dogs should stabilize the toy with their paws while snacking the treats tennis tumble: the tennis ball is placed inside and should be retrieved by the dog Care Tips wash with hot water and soap or place in the top rack of the dishwasher keep away from direct flame Why Rubber Pet Products? natural rubber offers a safer alternative to plastic for your pets unlike plastic, which contains bisphenol A (BPA) known to disrupt hormones in pets and lead to serious health issues like cancer, diabetes, and infertility. Natural rubber, on the other hand, is extracted as latex from specific trees or plants making it free from harmful chemicals. Additionally, natural rubber is hypoallergenic, resistant to chewing, does not form sharp objects when broken, and exhibits remarkable heat and cold resistance.
+  Updated: 2025-10-31T10:20:41Z
+  Vendor: Plantish
+  Product Type: Home & Kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/pet-playtime-set-thumbnail-plantish-future.png?v=1761835307
+  Price: $19.99 CAD
+- [Glowing Paws Led Pet Collar](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar): Introducing our Glowing Paws LED Pet Collar, the perfect accessory to keep your furry friend safe and stylish during nighttime adventures! With its vibrant LED lights, this collar ensures maximum visibility, allowing you to easily spot your pet in the dark. Whether you're taking a late evening stroll or letting them roam freely in the backyard, our LED collar provides peace of mind knowing that your pet is always visible to you and others. Crafted with comfort in mind, our Glowing Paws LED Pet Collar features a width of 2.5 cm, providing a secure fit without compromising your pet's comfort. The adjustable length options of 40 cm, 50 cm, and 60 cm ensure a perfect fit for pets of all sizes, from small pups to larger breeds. Not only is this collar practical, but it's also incredibly easy to use. Each package includes 1 Pcs LED dog collar and 1 pc USB cable, allowing you to conveniently recharge the collar whenever needed. Simply plug it into any USB port, and your pet will be ready to shine again in no time! Upgrade your pet's nighttime visibility with our Glowing Paws LED Pet Collar. Order yours today and experience the peace of mind that comes with keeping your furry friend safe and stylish during those twilight adventures. Don't let darkness dim their sparkle! Important InformationMaterial: PlasticPackage Size: 180 x 230 x 50 mm Size:Width: 2.5 cm The maximum length: 50 cmWidth: 2.5 cm The maximum length: 60 cmWidth: 2.5 cm The maximum length: 40 cmPackage Included:1 Pcs LED dog collar1 pc USB cable
+  Updated: 2025-10-31T10:20:52Z
+  Vendor: Dog Hugs Cat
+  Product Type: Dog Collars, Leashes & Harnesses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/1056378053376.png?v=1761835323
+  - [Black / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920564719933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/399976574924.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Red / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565211453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/693559308495.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Red / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565244221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/693559308495.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Black / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565276989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/399976574924.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Red / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565309757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/693559308495.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Green / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565342525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/4173167390550.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Green / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565375293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/4173167390550.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Blue / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565408061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/5462128688797.jpg?v=1761835324
+    Price: $23.31 CAD
+  - [Blue / M](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565440829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/5462128688797.jpg?v=1761835324
+    Price: $23.31 CAD
+  - [Green / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565473597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/4173167390550.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Black / L](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565506365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/399976574924.jpg?v=1761835323
+    Price: $23.31 CAD
+  - [Blue / S](https://urbanpawsyyc.myshopify.com/products/glowing-paws-led-pet-collar?variant=50920565539133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0961/8587/6797/files/5462128688797.jpg?v=1761835324
+    Price: $23.31 CAD
 
 ## Collections
 
