@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-31T04:00:48.252Z
+- Updated At: 2025-10-31T08:00:48.782Z
 
 ## Products
 
@@ -5970,7 +5970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/organic-cotton-kids-t-shirt-white-front-64855f3067782.jpg?v=1689411497
     Price: £29.00 GBP
 - [Hibiscus - Hibiscus Surfwear - Organic cotton Tote Bag](https://www.hibiscussurfwear.com/products/hibiscus-hibiscus-surfwear-organic-cotton-tote-bag-1): Hibiscus - Hibiscus Surfwear - Organic cotton Tote Bag Say goodbye to plastic, and bag your goodies in this organic cotton tote bag. There’s more than enough room for groceries, books, and anything in between. • 100% certified organic cotton 3/1 twill • Fabric weight: 8 oz/yd² (272 g/m²) • Dimensions: 16″ × 14 ½″ × 5″ (40.6 cm × 35.6 cm × 12.7 cm) • Weight limit: 30 lbs (13.6 kg) • 1″ (2.5 cm) wide dual straps, 24.5″ (62.2 cm) length • Open main compartment • Blank product components sourced from Vietnam This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BAG WIDTH (inches) BAG HEIGHT (inches) BAG DEPTH (inches) STRAP LENGTH (inches) STRAP WIDTH (inches) One Size 16 14 ½ 5 24 1/2 1
-  Updated: 2025-04-24T15:44:49Z
+  Updated: 2025-10-31T07:35:03Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
