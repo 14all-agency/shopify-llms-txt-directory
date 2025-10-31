@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-31T08:00:32.961Z
+- Updated At: 2025-10-31T12:00:49.734Z
 
 ## Products
 
@@ -312,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/hakiki-deri-pasaportluk-kahve2.png?v=1717875525
   Price: ₺799,90 TRY
 - [Hakiki Deri Ruhsat Kılıfı - Bulderi](https://bulderi.com.tr/products/hakiki-deri-ruhsat-kilifi): Hakiki Deri Ruhsat Kılıfı, şıklığı ve kullanışlığı bir araya getirerek sürücüler için ideal bir seçenektir. Üstün kaliteli 1. sınıf dana derisinden üretilmiş olup, özenle işlenmiş detaylarıyla kaliteli bir işçiliği yansıtır.
-  Updated: 2025-10-07T17:59:10Z
+  Updated: 2025-10-31T09:05:40Z
   Vendor: Bulderi
   Product Type: Ruhsat Kılıfı
   Availability: Available
