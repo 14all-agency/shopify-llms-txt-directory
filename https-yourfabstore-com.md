@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-31T04:00:54.153Z
+- Updated At: 2025-10-31T12:01:02.186Z
 
 ## Products
 
@@ -7120,7 +7120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9834214450193566164_2048.jpg?v=1759285022
     Price: $27.00 USD
 - [Motivational Snapback Cap - 'Push Your Limit'](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit): This Snapback hat features a motivational 'Push your limit' quote, perfect for those who are into fitness, bodybuilding, or training. With a cool and unique design, this hat is great for adding an extra element of focus and strength to your gym sessions. Ideal for adults looking for a stylish way to stay motivated during workouts and training sessions.Product features- Six-panel structure with eyelets and curved visor- Adjustable snap closure for perfect fit- Classic green undervisor for timeless style- 80% acrylic, 20% wool fiber composition- Meets lead, bisphenols, and phthalates level requirementsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:20Z
+  Updated: 2025-10-31T05:35:28Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
