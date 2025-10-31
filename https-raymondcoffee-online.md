@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2024-01-17T06:20:01Z
 - Contact Email: raymondwildlife@gmail.com
-- Updated At: 2025-10-31T08:00:33.319Z
+- Updated At: 2025-10-31T16:00:31.477Z
 
 ## Products
 
@@ -297,7 +297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-337338.jpg?v=1722167831
     Price: ৳98.00 BDT
 - [Red Wing Iron Ranger Boot – Raymond Coffee](https://raymondcoffee.online/products/redwing-iron-ranger): This is a demonstration store. You can purchase products like this from United By Blue. The Mesabi Iron Range lies in northern Minnesota, a rugged and remote area known for its iron mines. The local residents who work these mines are proudly known as Iron Rangers, individuals with a sense of adventure and a determined
-  Updated: 2025-10-28T08:01:04Z
+  Updated: 2025-10-31T09:48:30Z
   Vendor: Red Wing
   Product Type: Mens
   Availability: Available
