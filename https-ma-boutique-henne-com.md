@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-31T12:00:42.117Z
+- Updated At: 2025-10-31T16:00:45.456Z
 
 ## Products
 
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/hemani-henne-black-with-bakhour.jpg?v=1737108143
   Price: 8,50 € EUR
 - [Khôl Noir artisanal en Poudre + bâton applicateur](https://ma-boutique-henne.com/products/khol-en-poudre-artisanal-noir-et-applicateur): Le Khôl, pierre, antimoine, beauté orientale, hommes et les femmes. maquillage et cosmétique bio et vegan, 100% naturel, regard, crayon, noir, intense, souligner, fard, paupière, vegan, produit, maquiller, biologique, yeux sensibles, lentilles, démaquiller, longue tenue, liner, maghreb, moyen orient, henne, boutique
-  Updated: 2025-10-31T09:43:20Z
+  Updated: 2025-10-31T15:47:41Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/MintBlue-Color-Swatches-Curiosa.jpg?v=1594907881
     Price: 19,50 € EUR
 - [Henna Eyebrows - Sourcils au Henné, longue tenue - plusieurs coloris](https://ma-boutique-henne.com/products/henna-eyebrows-sourcils-au-henne-longue-tenue-plusieurs-coloris): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna lips, henna eyebrows, henna brows, soucils, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, rouge à lèvres bordeaux, chili, rose, mauve, marron
-  Updated: 2025-10-13T13:27:50Z
+  Updated: 2025-10-31T15:47:43Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1188,7 +1188,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/LightBrown-Color-Swatches-Curiosa-23.jpg?v=1554212016
     Price: 19,50 € EUR
 - [Henna Penna - Tatouage au Henné (feutre) - plusieurs coloris](https://ma-boutique-henne.com/products/henna-penna-tatouage-au-henne-feutre-plusieurs-coloris): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna penna, tatouage au henné, tattoo henna, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, crayon yeux, rouge à lèvres
-  Updated: 2025-10-23T14:42:38Z
+  Updated: 2025-10-31T13:27:26Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-31T07:41:00Z
+  Updated: 2025-10-31T13:26:21Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2060,13 +2060,6 @@
   Product Type: Henné
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/753033124_poudre_NOIR.jpg?v=1736419122
-  Price: 5,99 € EUR
-- [Henné Blond Doré Poudre - Henné Color, Paris](https://ma-boutique-henne.com/products/henne-blond-dore-poudre-henne-color-paris): Ce henné 100% naturel, cuivré blond doré éclaicir henné color NJD cosmetics paris acajou el cahira renforcé rouge  sodium picramate BAQ, bio. coloration et soin des cheveux coloration cheveux, henné rouge naturel
-  Updated: 2025-09-27T21:19:40Z
-  Vendor: Ma Boutique Henné
-  Product Type: Henné
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2730/3378/files/156976925_poudre_BLOND_DORE.jpg?v=1736421954
   Price: 5,99 € EUR
 - [Shampoing Crème Réparateur, cheveux fragilisés et cassants, Huile de Ricin et Kératine Végétale - Centifolia](https://ma-boutique-henne.com/products/shampoing-creme-reparateur-cheveux-fragilises-et-cassants-huile-de-ricin-et-keratine-vegetale-centifolia): shampoing crème cheveux secs fragiles cassants huile de ricin kératine végétale Centifolia, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
   Updated: 2025-10-11T01:05:50Z
