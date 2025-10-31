@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-31T04:00:51.440Z
+- Updated At: 2025-10-31T16:00:50.500Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -17,20 +17,20 @@
 ## Collections
 
 - [Всичко за кучето - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kucheta): Продукти за кучета – храна, аксесоари, играчки, грижа за здравето и много други. Всичко за вашия любимец на едно място в зоомагазин Д-р Стефанов.
-  Updated: 2025-10-31T01:01:53Z
-  Total Products: 7134
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 7135
 - [Храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kucheta): Качествена храна за кучета - суха храна, паучове, консерви, barf храни и много други предложения. Разгледайте в зоомагазин Д-р Стефанов още сега.
-  Updated: 2025-10-30T23:55:24Z
-  Total Products: 1532
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 1533
 - [Суха храна и гранули за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kucheta): Открийте висококачествени гранули за кучета – пълноценна храна за всяка порода и възраст. Богат избор от марки с бърза доставка и гарантирано качество.
-  Updated: 2025-10-30T23:55:24Z
+  Updated: 2025-10-31T14:44:24Z
   Total Products: 879
 - [Сурова храна BARF за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/barf-hrani): Открийте висококачествена сурова храна BARF за кучета. Здравословен избор за силен имунитет и енергия от зоомагазин Д-р Стефанов.
   Updated: 2025-10-29T06:47:07Z
   Total Products: 52
 - [Консерви, пастети и паучове за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/konservirana-khrana-pasteti-i-paketcheta-za-kucheta): Вкусни и пълноценни консерви, пастети и паучове за кучета. Подходящи за всяка порода и възраст - разгледайте предложенията на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-28T18:00:17Z
-  Total Products: 598
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 599
 - [Лечебни храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/lechebni-hrani-za-kuche): Лечебни храни за кучета – специални диети за подкрепа при здравословни проблеми. Осигурете правилно хранене и по-добро качество на живота на любимеца си!
   Updated: 2025-10-30T11:35:12Z
   Total Products: 185
@@ -101,7 +101,7 @@
   Updated: 2025-10-26T11:45:24Z
   Total Products: 61
 - [Играчки за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/играчки-за-кучета): Забавни и издръжливи играчки за кучета – плюшени, гумени, интерактивни и дъвчащи модели за всяка възраст и порода. Разгледайте нашите предложения!
-  Updated: 2025-10-31T01:01:53Z
+  Updated: 2025-10-31T13:19:30Z
   Total Products: 795
 - [Спрейове и препарати против маркиране и кучешка урина - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/preparati-za-kucheta): Почиствайте лесно и бързо след кучето си с продукти, които дезинфекцират и премахват миризми. Разгледайте нашите предложения в зоомагазин Д-р Стефанов!
   Updated: 2025-10-26T11:48:58Z
@@ -119,13 +119,13 @@
   Updated: 2025-10-17T08:45:34Z
   Total Products: 12
 - [Всичко за котката - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kotki): Качествени продукти за котки – храни, играчки и аксесоари за здраве и комфорт. Погрижете се за вашия любимец още сега! Поръчайте бързо и лесно онлайн сега!
-  Updated: 2025-10-30T10:22:02Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 2384
 - [Храни за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kotki): Балансирани храни за котки с всички необходими нутриенти за силно здраве и енергия. Изберете най-доброто за своя любимец днес! Поръчайте онлайн лесно сега!
-  Updated: 2025-10-30T10:22:02Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 1363
 - [Суха храна и гранули за котки](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kotki): Вкусни гранули за котки с пълноценни съставки за поддържане на добро здраве и жизненост. Купете сега и осигурете най-добрата храна! Поръчайте онлайн лесно!
-  Updated: 2025-10-29T11:31:07Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 383
 - [Пауч за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/pauchove-za-kotki): Свежи и сочни паучове за котки – вкусна и питателна храна, която вашият любимец ще обожава. Поръчайте лесно онлайн още сега от Зоомагазин Д-р Стефанов!
   Updated: 2025-10-28T18:00:16Z
@@ -137,7 +137,7 @@
   Updated: 2025-10-26T11:41:50Z
   Total Products: 169
 - [Съдове за храна и вода за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/sadove-za-hrana-i-voda-1): Практични и стилни съдове за храна и вода, създадени за комфорт при хранене. Изберете удобство и поръчайте сега онлайн бързо и лесно с доставка.
-  Updated: 2025-10-28T00:58:34Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 89
 - [Хранилки и поилки за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dispensari): Функционални и удобни хранилки и поилки за котки за здравословно хранене и хидратация. Купете сега и се погрижете за котката си! Поръчайте онлайн лесно!
   Updated: 2025-10-28T00:58:34Z
@@ -194,7 +194,7 @@
   Updated: 2025-10-16T20:49:39Z
   Total Products: 3
 - [Продукти за папагали и птици - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/ptitsi): Всичко за папагалите и птиците - храни, клетки и волиери, къщички и хранилки за птици, играчки много други! Поръчайте онлайн от Зоомагазин Д-р Стефанов.
-  Updated: 2025-10-30T11:35:12Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 355
 - [Клетки за папагали и птици](https://pni-drstefanov-bg.myshopify.com/collections/kletki-za-ptitsi): Разгледайте богатото разнообразие от удобни, безопасни и стилни клетки за папагали и птици, които предлагаме. Поръчайте сега онлайн от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-23T07:22:53Z
@@ -203,7 +203,7 @@
   Updated: 2025-10-16T20:49:39Z
   Total Products: 4
 - [Оборудване и аксесоари за клетки на папагали](https://pni-drstefanov-bg.myshopify.com/collections/oborudvane-za-kletki): Оборудване и аксесоари за клетки за папагали и птици – хранилки, поилки, люлки и всичко нужно за комфорт и забавление на вашите пернати любимци. Поръчайте сега!
-  Updated: 2025-10-26T12:04:54Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 135
 - [Поилки за птици - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/poilki): Поилки за папагали и птици – удобни, хигиенични, на достъпни цени. Осигурете чиста вода и комфорт на вашите пернати любимци всеки ден! Поръчайте сега!
   Updated: 2025-10-16T20:49:39Z
@@ -215,7 +215,7 @@
   Updated: 2025-10-26T12:04:54Z
   Total Products: 87
 - [Гнезда и гнездилки за папагали - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/gnezda-i-gnezdilki): Разгледайте нашите гнезда и гнездилки за папагали – уютни и безопасни места за размножаване и отдих. Осигурете комфорт и спокойствие на вашите пернати любимци!
-  Updated: 2025-10-26T11:45:16Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 12
 - [Ванички за папагали](https://pni-drstefanov-bg.myshopify.com/collections/vani): Осигурете чистотата и комфорта на вашия пернат любимец с нашите качествени и лесни за ползване вани за папагали! Поръчайте онлайн сега бързо и лесно!
   Updated: 2025-10-16T20:49:39Z
@@ -441,7 +441,7 @@
   Updated: 2025-10-27T14:00:54Z
   Total Products: 388
 - [Аксесоари за кучета за разходка - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/aksesoari-za-razhodka): Всичко необходимо за комфортни разходки с кучето – хигиенни пликчета, диспенсъри и други практични аксесоари за вашето куче. Поръчай още сега!
-  Updated: 2025-10-29T09:31:23Z
+  Updated: 2025-10-31T09:31:19Z
   Total Products: 44
 - [Лакомства, минерали и соли за папагали - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/lakomstva-minerali-i-soli): Тук ще откриете лакомства, минерали и соли за папагали - всичко необходимо за здравето и перфектното оперение на вашия пернат приятел. Поръчайте онлайн.
   Updated: 2025-10-26T11:28:30Z
@@ -567,8 +567,8 @@
   Updated: 2025-10-16T20:49:44Z
   Total Products: 5
 - [Reduced](https://pni-drstefanov-bg.myshopify.com/collections/reduced)
-  Updated: 2025-10-31T01:01:53Z
-  Total Products: 1019
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 293
 - [Постелки за котешка тоалетна - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/postelki-za-toaletna): Постелки с висока абсорбция и контрол на миризмите за котешки тоалетни. Поръчайте ефективна грижа още днес бързо и лесно онлайн с доставка от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-29T11:31:07Z
   Total Products: 99
@@ -624,28 +624,28 @@
   Updated: 2025-10-20T07:08:13Z
   Total Products: 4
 - [Regular Priced Items](https://pni-drstefanov-bg.myshopify.com/collections/regular-priced-items)
-  Updated: 2025-10-31T01:02:02Z
-  Total Products: 11234
+  Updated: 2025-10-31T13:19:30Z
+  Total Products: 11940
 - [Храни и лакомства за домашни любимци Essential foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-1): Essential Foods създава храни, близки до естествената диета на домашния ви любимец. Пазарувайте от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-30T23:55:23Z
-  Total Products: 59
+  Updated: 2025-10-31T12:00:58Z
+  Total Products: 60
 - [Храни за домашни любимци Petkult](https://pni-drstefanov-bg.myshopify.com/collections/petkult-1): Petkult се фокусира върху натурални съставки, без изкуствени добавки. Открийте здравословната храна Petkult и поръчайте с бърза доставка!
-  Updated: 2025-10-29T11:31:07Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 74
 - [Храни и лакомства за домашни любимци Wolfpack](https://pni-drstefanov-bg.myshopify.com/collections/wolfpack-1): Wolfpack предлага висококачествена, хипоалергенна храна с висок процент месо, подходяща и за най-чувствителните животни. Купете от Зоомагазин д-р Стефанов.
   Updated: 2025-10-23T07:47:38Z
   Total Products: 70
 - [Продукти за домашни любимци Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-1): Отлични продукти за всички видове домашни любимци от марката Stefo, създадена с грижа. Вижте пълния каталог продукти Stefo и поръчайте сега!
-  Updated: 2025-10-30T00:56:24Z
+  Updated: 2025-10-31T09:31:21Z
   Total Products: 122
 - [Продукти за кучета Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-dog): Stefo предлага избрани аксесоари и консумативи за кучета с оптимално съотношение цена-качество. Намерете всичко необходимо за вашето куче!
-  Updated: 2025-10-30T00:56:24Z
+  Updated: 2025-10-31T09:31:21Z
   Total Products: 110
 - [Продукти за котки Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-cat): Качествени продукти за котки от собствената марка на зоомагазина Stefo, съчетаващи достъпна цена и добро качество. Разгледайте и пазарувайте изгодно!
   Updated: 2025-10-20T12:32:29Z
   Total Products: 8
 - [Храни за домашни любимци Remi](https://pni-drstefanov-bg.myshopify.com/collections/remi-1): Remi предлага пълноценна и вкусна храна, която отговаря на ежедневните нужди на вашето куче или котка. Осигурете качествено хранене - пазарувайте при нас!
-  Updated: 2025-10-26T16:30:07Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 52
 - [Храни за домашни любимци Brit](https://pni-drstefanov-bg.myshopify.com/collections/brit-1): Brit предлага балансирано хранене, съобразено със специфичните нужди на кучетата и котките от всяка възраст и порода. Разгледайте още днес!
   Updated: 2025-10-31T01:02:02Z
@@ -666,16 +666,16 @@
   Updated: 2025-10-26T11:27:35Z
   Total Products: 82
 - [Oasy](https://pni-drstefanov-bg.myshopify.com/collections/oasy-1)
-  Updated: 2025-10-26T11:41:39Z
+  Updated: 2025-10-31T13:04:48Z
   Total Products: 100
 - [Продукти за домашни любимци Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-2): Аксесоари, играчки и оборудване от Flamingo, които правят живота на вашия любимец по-забавен и комфортен. Разгледайте всички продукти и поръчайте онлайн!
-  Updated: 2025-10-29T11:31:07Z
-  Total Products: 539
+  Updated: 2025-10-31T13:19:30Z
+  Total Products: 546
 - [Продукти за кучета Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-dog): Открийте продукти Flamingo, създадени за активния живот на вашето куче. Разгледайте пълния асортимент за кучета и направете поръчка!
-  Updated: 2025-10-29T11:31:07Z
+  Updated: 2025-10-31T13:19:30Z
   Total Products: 336
 - [Продукти за котки Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-cat): Flamingo предлага всичко за вашата котка - от драскалки и легла до играчки и тоалетни. Осигурете комфорт и забавление на котката си като поръчате сега.
-  Updated: 2025-10-29T11:31:07Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 113
 - [Храни и лакомства за домашни любимци Lilly's Kitchen](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-1): Продукти Lilly's Kitchen, известни с натурални, вкусни и здравословни рецепти, приготвени с истински продукти. Поръчайте още днес!
   Updated: 2025-10-26T11:52:23Z
@@ -702,17 +702,17 @@
   Updated: 2025-10-26T11:25:40Z
   Total Products: 20
 - [Продукти с намалена цена](https://pni-drstefanov-bg.myshopify.com/collections/sale): Отлични оферти и стоки с временно намалени цени. Спестете пари, без да правите компромис с качеството - пазарувайте изгодно с Зоомагазин д-р Стефанов.
-  Updated: 2025-10-30T23:55:24Z
-  Total Products: 13
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 14
 - [Най-продавани](https://pni-drstefanov-bg.myshopify.com/collections/best-selling-collection): Вижте кои са най-търсените храни, аксесоари и консумативи, които клиентите на Д-р Стефанов харесват най-много. Изберете доказано качество и поръчайте сега!
-  Updated: 2025-10-31T01:02:02Z
-  Total Products: 12232
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 12236
 - [Нови продукти](https://pni-drstefanov-bg.myshopify.com/collections/new-products): Бъдете първите, които виждат най-новите и иновативни храни, играчки и аксесоари, добавени в асортимента на Д-р Стефанов. Открийте сега и направете поръчка!
-  Updated: 2025-10-31T01:02:02Z
-  Total Products: 12232
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 12236
 - [Промоционални оферти](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
-  Updated: 2025-10-31T01:01:53Z
-  Total Products: 727
+  Updated: 2025-10-31T09:31:59Z
+  Total Products: 0
 - [Mandatory Fees](https://pni-drstefanov-bg.myshopify.com/collections/mandatory-fees)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 0
@@ -762,8 +762,8 @@
   Updated: 2025-10-26T11:41:39Z
   Total Products: 77
 - [Discount for products except vouchers](https://pni-drstefanov-bg.myshopify.com/collections/discount-for-products-except-vouchers)
-  Updated: 2025-10-31T01:02:02Z
-  Total Products: 12229
+  Updated: 2025-10-31T15:00:56Z
+  Total Products: 12233
 - [8 in 1](https://pni-drstefanov-bg.myshopify.com/collections/8-in-1)
   Updated: 2025-10-30T11:35:12Z
   Total Products: 16
@@ -831,7 +831,7 @@
   Updated: 2025-10-29T12:20:42Z
   Total Products: 24
 - [Arm&Hammer](https://pni-drstefanov-bg.myshopify.com/collections/arm-hammer)
-  Updated: 2025-10-29T12:21:03Z
+  Updated: 2025-10-31T09:31:05Z
   Total Products: 2
 - [Artero](https://pni-drstefanov-bg.myshopify.com/collections/artero)
   Updated: 2025-10-29T12:21:24Z
@@ -912,7 +912,7 @@
   Updated: 2025-10-29T12:39:03Z
   Total Products: 16
 - [Camon](https://pni-drstefanov-bg.myshopify.com/collections/camon)
-  Updated: 2025-10-29T12:39:19Z
+  Updated: 2025-10-31T09:31:24Z
   Total Products: 235
 - [Camon - Италия](https://pni-drstefanov-bg.myshopify.com/collections/camon-италия)
   Updated: 2025-10-29T12:39:34Z
@@ -954,7 +954,7 @@
   Updated: 2025-10-29T12:42:35Z
   Total Products: 58
 - [Cerda](https://pni-drstefanov-bg.myshopify.com/collections/cerda)
-  Updated: 2025-10-31T01:01:53Z
+  Updated: 2025-10-31T09:31:11Z
   Total Products: 225
 - [Cesar](https://pni-drstefanov-bg.myshopify.com/collections/cesar)
   Updated: 2025-10-29T12:43:05Z
@@ -975,7 +975,7 @@
   Updated: 2025-10-29T12:44:34Z
   Total Products: 1
 - [Collar](https://pni-drstefanov-bg.myshopify.com/collections/collar)
-  Updated: 2025-10-30T11:35:12Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 244
 - [Compana Pet Brands](https://pni-drstefanov-bg.myshopify.com/collections/compana-pet-brands)
   Updated: 2025-10-29T12:45:06Z
@@ -1002,8 +1002,8 @@
   Updated: 2025-10-29T12:46:57Z
   Total Products: 4
 - [Dr Stefanov](https://pni-drstefanov-bg.myshopify.com/collections/dr-stefanov)
-  Updated: 2025-10-30T23:55:24Z
-  Total Products: 752
+  Updated: 2025-10-31T14:44:24Z
+  Total Products: 751
 - [Dr. Clauder](https://pni-drstefanov-bg.myshopify.com/collections/dr-clauder)
   Updated: 2025-10-29T12:50:01Z
   Total Products: 79
@@ -1017,7 +1017,7 @@
   Updated: 2025-10-29T12:50:50Z
   Total Products: 2
 - [Earth Rated](https://pni-drstefanov-bg.myshopify.com/collections/earth-rated)
-  Updated: 2025-10-29T12:51:05Z
+  Updated: 2025-10-31T09:31:21Z
   Total Products: 13
 - [Ecopet](https://pni-drstefanov-bg.myshopify.com/collections/ecopet)
   Updated: 2025-10-29T12:51:22Z
@@ -1029,11 +1029,11 @@
   Updated: 2025-10-29T12:51:54Z
   Total Products: 6
 - [Enjoy](https://pni-drstefanov-bg.myshopify.com/collections/enjoy)
-  Updated: 2025-10-29T12:52:10Z
+  Updated: 2025-10-31T09:31:28Z
   Total Products: 70
 - [Essential Foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods)
-  Updated: 2025-10-30T23:55:23Z
-  Total Products: 59
+  Updated: 2025-10-31T12:00:58Z
+  Total Products: 60
 - [Eukanuba](https://pni-drstefanov-bg.myshopify.com/collections/eukanuba)
   Updated: 2025-10-29T12:52:39Z
   Total Products: 25
@@ -1041,7 +1041,7 @@
   Updated: 2025-10-29T12:52:52Z
   Total Products: 4
 - [Europet-Bernina International BV](https://pni-drstefanov-bg.myshopify.com/collections/europet-bernina-international-bv)
-  Updated: 2025-10-30T00:52:57Z
+  Updated: 2025-10-31T09:31:01Z
   Total Products: 31
 - [Every Dog Matters](https://pni-drstefanov-bg.myshopify.com/collections/every-dog-matters)
   Updated: 2025-10-29T12:53:40Z
@@ -1059,13 +1059,13 @@
   Updated: 2025-10-29T12:54:51Z
   Total Products: 27
 - [Ferplast](https://pni-drstefanov-bg.myshopify.com/collections/ferplast-1)
-  Updated: 2025-10-29T12:55:14Z
+  Updated: 2025-10-31T09:31:19Z
   Total Products: 748
 - [Ferplast -Италия](https://pni-drstefanov-bg.myshopify.com/collections/ferplast-италия)
   Updated: 2025-10-29T12:55:31Z
   Total Products: 1
 - [Ferribiella](https://pni-drstefanov-bg.myshopify.com/collections/ferribiella)
-  Updated: 2025-10-29T12:55:48Z
+  Updated: 2025-10-31T09:31:12Z
   Total Products: 166
 - [FidoVet](https://pni-drstefanov-bg.myshopify.com/collections/fidovet)
   Updated: 2025-10-29T12:56:03Z
@@ -1077,13 +1077,13 @@
   Updated: 2025-10-29T12:56:34Z
   Total Products: 17
 - [Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo)
-  Updated: 2025-10-29T12:56:50Z
-  Total Products: 539
+  Updated: 2025-10-31T13:19:30Z
+  Total Products: 546
 - [Flexi](https://pni-drstefanov-bg.myshopify.com/collections/flexi)
   Updated: 2025-10-29T12:57:04Z
   Total Products: 38
 - [Freedog](https://pni-drstefanov-bg.myshopify.com/collections/freedog)
-  Updated: 2025-10-30T00:55:56Z
+  Updated: 2025-10-31T09:31:07Z
   Total Products: 24
 - [Friskies](https://pni-drstefanov-bg.myshopify.com/collections/friskies)
   Updated: 2025-10-29T12:57:36Z
@@ -1101,7 +1101,7 @@
   Updated: 2025-10-29T12:58:37Z
   Total Products: 12
 - [Gappay](https://pni-drstefanov-bg.myshopify.com/collections/gappay)
-  Updated: 2025-10-29T12:58:50Z
+  Updated: 2025-10-31T09:31:20Z
   Total Products: 24
 - [Gemon](https://pni-drstefanov-bg.myshopify.com/collections/gemon)
   Updated: 2025-10-29T12:59:05Z
@@ -1203,19 +1203,19 @@
   Updated: 2025-10-29T13:07:29Z
   Total Products: 12
 - [Julius-K9](https://pni-drstefanov-bg.myshopify.com/collections/julius-k9)
-  Updated: 2025-10-29T13:07:43Z
+  Updated: 2025-10-31T09:31:17Z
   Total Products: 89
 - [Kerbl](https://pni-drstefanov-bg.myshopify.com/collections/kerbl)
-  Updated: 2025-10-29T13:07:59Z
+  Updated: 2025-10-31T09:31:10Z
   Total Products: 113
 - [Kitekat](https://pni-drstefanov-bg.myshopify.com/collections/kitekat)
   Updated: 2025-10-29T13:08:15Z
   Total Products: 5
 - [Kiwi Walker](https://pni-drstefanov-bg.myshopify.com/collections/kiwi-walker)
-  Updated: 2025-10-29T13:08:30Z
+  Updated: 2025-10-31T09:31:26Z
   Total Products: 82
 - [Kong](https://pni-drstefanov-bg.myshopify.com/collections/kong)
-  Updated: 2025-10-29T13:08:58Z
+  Updated: 2025-10-31T09:31:27Z
   Total Products: 15
 - [Krka](https://pni-drstefanov-bg.myshopify.com/collections/krka)
   Updated: 2025-10-29T13:09:14Z
@@ -1251,7 +1251,7 @@
   Updated: 2025-10-29T13:29:34Z
   Total Products: 9
 - [M-Pets](https://pni-drstefanov-bg.myshopify.com/collections/m-pets)
-  Updated: 2025-10-30T00:53:33Z
+  Updated: 2025-10-31T09:31:10Z
   Total Products: 98
 - [M.P.Bergamo](https://pni-drstefanov-bg.myshopify.com/collections/m-p-bergamo)
   Updated: 2025-10-29T14:14:58Z
@@ -1263,7 +1263,7 @@
   Updated: 2025-10-29T14:15:32Z
   Total Products: 4
 - [Max Molly](https://pni-drstefanov-bg.myshopify.com/collections/max-molly)
-  Updated: 2025-10-29T14:16:08Z
+  Updated: 2025-10-31T09:31:26Z
   Total Products: 261
 - [Meduza](https://pni-drstefanov-bg.myshopify.com/collections/meduza)
   Updated: 2025-10-29T14:16:18Z
@@ -1272,7 +1272,7 @@
   Updated: 2025-10-29T14:16:35Z
   Total Products: 48
 - [Miazoo](https://pni-drstefanov-bg.myshopify.com/collections/miazoo)
-  Updated: 2025-10-29T14:16:50Z
+  Updated: 2025-10-31T09:31:09Z
   Total Products: 127
 - [Mitzy](https://pni-drstefanov-bg.myshopify.com/collections/mitzy)
   Updated: 2025-10-29T14:17:05Z
@@ -1305,13 +1305,13 @@
   Updated: 2025-10-29T14:20:52Z
   Total Products: 13
 - [Nayeco](https://pni-drstefanov-bg.myshopify.com/collections/nayeco)
-  Updated: 2025-10-31T00:55:00Z
-  Total Products: 186
+  Updated: 2025-10-31T13:11:26Z
+  Total Products: 182
 - [Nestandart](https://pni-drstefanov-bg.myshopify.com/collections/nestandart)
   Updated: 2025-10-29T14:21:25Z
   Total Products: 1
 - [Nobby](https://pni-drstefanov-bg.myshopify.com/collections/nobby)
-  Updated: 2025-10-29T14:21:42Z
+  Updated: 2025-10-31T09:31:25Z
   Total Products: 288
 - [Nuevo](https://pni-drstefanov-bg.myshopify.com/collections/nuevo)
   Updated: 2025-10-29T14:22:02Z
@@ -1320,7 +1320,7 @@
   Updated: 2025-10-29T14:22:20Z
   Total Products: 20
 - [Oasy](https://pni-drstefanov-bg.myshopify.com/collections/oasy)
-  Updated: 2025-10-29T14:22:36Z
+  Updated: 2025-10-31T13:04:48Z
   Total Products: 100
 - [OPKO](https://pni-drstefanov-bg.myshopify.com/collections/opko)
   Updated: 2025-10-29T14:22:54Z
@@ -1359,7 +1359,7 @@
   Updated: 2025-10-29T14:27:47Z
   Total Products: 26
 - [Pet Remedy](https://pni-drstefanov-bg.myshopify.com/collections/pet-remedy)
-  Updated: 2025-10-29T14:28:03Z
+  Updated: 2025-10-31T09:31:08Z
   Total Products: 23
 - [Pet Society](https://pni-drstefanov-bg.myshopify.com/collections/pet-society)
   Updated: 2025-10-29T14:28:25Z
@@ -1368,7 +1368,7 @@
   Updated: 2025-10-29T14:28:39Z
   Total Products: 18
 - [Petkult](https://pni-drstefanov-bg.myshopify.com/collections/petkult)
-  Updated: 2025-10-29T14:28:55Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 74
 - [Petnutrition](https://pni-drstefanov-bg.myshopify.com/collections/petnutrition)
   Updated: 2025-10-29T14:29:08Z
@@ -1377,10 +1377,10 @@
   Updated: 2025-10-29T14:30:01Z
   Total Products: 1
 - [Piper](https://pni-drstefanov-bg.myshopify.com/collections/piper)
-  Updated: 2025-10-29T14:30:19Z
-  Total Products: 62
+  Updated: 2025-10-31T15:00:57Z
+  Total Products: 63
 - [Play Me](https://pni-drstefanov-bg.myshopify.com/collections/play-me)
-  Updated: 2025-10-29T14:30:36Z
+  Updated: 2025-10-31T09:31:22Z
   Total Products: 32
 - [Primal Spirit](https://pni-drstefanov-bg.myshopify.com/collections/primal-spirit)
   Updated: 2025-10-29T14:31:03Z
@@ -1404,7 +1404,7 @@
   Updated: 2025-10-29T14:40:29Z
   Total Products: 54
 - [Puppia](https://pni-drstefanov-bg.myshopify.com/collections/puppia)
-  Updated: 2025-10-29T14:40:49Z
+  Updated: 2025-10-31T09:31:05Z
   Total Products: 42
 - [Puppies](https://pni-drstefanov-bg.myshopify.com/collections/puppies)
   Updated: 2025-10-29T14:41:06Z
@@ -1431,7 +1431,7 @@
   Updated: 2025-10-29T14:43:09Z
   Total Products: 29
 - [Remi](https://pni-drstefanov-bg.myshopify.com/collections/remi)
-  Updated: 2025-10-29T14:43:24Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 52
 - [Richter Pharma](https://pni-drstefanov-bg.myshopify.com/collections/richter-pharma)
   Updated: 2025-10-29T14:43:42Z
@@ -1440,10 +1440,10 @@
   Updated: 2025-10-29T14:43:58Z
   Total Products: 67
 - [Rogz](https://pni-drstefanov-bg.myshopify.com/collections/rogz)
-  Updated: 2025-10-29T14:44:13Z
+  Updated: 2025-10-31T09:31:19Z
   Total Products: 124
 - [Rosewood](https://pni-drstefanov-bg.myshopify.com/collections/rosewood)
-  Updated: 2025-10-29T14:44:28Z
+  Updated: 2025-10-31T09:31:23Z
   Total Products: 29
 - [Royal Canin](https://pni-drstefanov-bg.myshopify.com/collections/royal-canin)
   Updated: 2025-10-29T14:44:44Z
@@ -1488,10 +1488,10 @@
   Updated: 2025-10-29T14:48:54Z
   Total Products: 3
 - [Starmark](https://pni-drstefanov-bg.myshopify.com/collections/starmark)
-  Updated: 2025-10-29T14:49:10Z
+  Updated: 2025-10-31T09:31:16Z
   Total Products: 5
 - [Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo)
-  Updated: 2025-10-30T00:56:24Z
+  Updated: 2025-10-31T09:31:21Z
   Total Products: 122
 - [Stuzzy](https://pni-drstefanov-bg.myshopify.com/collections/stuzzy)
   Updated: 2025-10-29T14:49:38Z
@@ -1533,7 +1533,7 @@
   Updated: 2025-10-29T14:54:15Z
   Total Products: 5
 - [Trixie](https://pni-drstefanov-bg.myshopify.com/collections/trixie)
-  Updated: 2025-10-29T14:54:35Z
+  Updated: 2025-10-31T11:41:06Z
   Total Products: 502
 - [Tropiclean](https://pni-drstefanov-bg.myshopify.com/collections/tropiclean)
   Updated: 2025-10-29T14:54:51Z
@@ -1782,8 +1782,8 @@
   Updated: 2025-10-27T13:03:59Z
 - [Конкурентни цени](https://pni-drstefanov-bg.myshopify.com/pages/konkurentni-tseni): Уважаеми клиенти, Можете да се възползвате от нашето уникално предложение - "конкурентни цени". Какво представлява тази опция?Намерили сте някой ар...
   Updated: 2025-06-19T23:42:07Z
-- [Ранк на лоялност](https://pni-drstefanov-bg.myshopify.com/pages/loyalty-rank): Ранк на лоялност % отстъпка на всичко Номер на карта document.querySelector('#rankcontainer2').innerHTML = window.customer_rank; document.querySele...
-  Updated: 2025-10-27T13:51:23Z
+- [Ранк на лоялност](https://pni-drstefanov-bg.myshopify.com/pages/loyalty-rank): Ранк на лоялност % отстъпка Номер на карта document.querySelector('#rankcontainer2').innerHTML = window.customer_rank; document.querySelector('#ran...
+  Updated: 2025-10-31T13:24:35Z
 - [Grooming](https://pni-drstefanov-bg.myshopify.com/pages/grooming)
   Updated: 2024-12-12T13:17:04Z
 - [Day Care](https://pni-drstefanov-bg.myshopify.com/pages/day-care)
@@ -1838,6 +1838,8 @@
   Updated: 2025-10-29T08:58:30Z
 - [Зоомагазин Д-р Стефанов в Kюстендил](https://pni-drstefanov-bg.myshopify.com/pages/зоомагазин-д-р-стефанов-в-kюстендил)
   Updated: 2025-10-29T09:07:58Z
+- [Return Page DEV](https://pni-drstefanov-bg.myshopify.com/pages/return-page-dev)
+  Updated: 2025-10-31T14:36:23Z
 
 ## Policies
 
