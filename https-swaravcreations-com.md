@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-30T08:00:47.459Z
+- Updated At: 2025-10-31T00:00:31.667Z
 
 ## Products
 
@@ -853,29 +853,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3746_transformation_10888.png?v=1761348555
     Price: $104.99 CAD
-- [Package Protection - Swarav Creations](https://swaravcreations.com/products/package-protection-shop-224701-3243): from Loss, Theft, & Damage. - Swarav Creations
-  Updated: 2025-10-26T20:42:41Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  - [Insurance for total less $100](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070516480)
-    Availability: Available
-    Price: $2.98 CAD
-  - [Insurance for total more $100](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070549248)
-    Availability: Available
-    Price: $3.98 CAD
-  - [Insurance for total more $200](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070582016)
-    Availability: Available
-    Price: $4.98 CAD
-  - [Insurance for total more $300](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070614784)
-    Availability: Available
-    Price: $5.98 CAD
-  - [Insurance for total more $400](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070647552)
-    Availability: Available
-    Price: $6.98 CAD
-  - [Insurance for total more $500](https://swaravcreations.com/products/package-protection-shop-224701-3243?variant=47149070680320)
-    Availability: Available
-    Price: $7.98 CAD
 - [Forever Love Necklace & Earring Set – 14K White Gold | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-earring-set): Give your loved one a gift that will make their heart swell! The Forever Love Necklace and Cubic Zirconia Earring Set by Swarav Creations radiates elegance and timeless charm — a stunning symbol of devotion and affection. This luxurious pairing of necklace and earrings can be worn together for a dazzling statement or separately for everyday sophistication. Crafted with 14k white gold finish and brilliant cubic zirconia stones, it offers a breathtaking sparkle that captures light — and hearts — from every angle. Whether for a birthday, anniversary, Valentine’s Day, or just to say I love you, this jewelry set makes every occasion unforgettable. ✨ Necklace Specifications: 14k white gold finish 6.5mm round-cut cubic zirconia crystal centerpiece Pendant dimensions: 0.8" (2.2cm) × 0.7" (1.8cm) Adjustable cable chain: 16" – 22" Lobster clasp attachment ✨ Earring Specifications: 14k white gold finish 6mm round-cut cubic zirconia crystals Post-style backing for secure fit 🎁 Packaging:Each piece arrives in a complimentary soft-touch box, perfect for easy gifting.Upgrade to the mahogany-style luxury box featuring a brilliant LED spotlight to make your presentation truly unforgettable. - Swarav Creations
   Updated: 2025-10-26T23:33:46Z
   Vendor: ShineOn Fulfillment
@@ -916,7 +893,7 @@
   Updated: 2025-10-26T02:26:48Z
   Total Products: 15
 - [Gifts Under $60](https://swaravcreations.com/collections/gifts-under-60)
-  Updated: 2025-10-26T02:26:48Z
+  Updated: 2025-10-30T22:22:45Z
   Total Products: 11
 - [Gifts $60–$100](https://swaravcreations.com/collections/gifts-60-100)
   Updated: 2025-10-26T02:26:48Z
