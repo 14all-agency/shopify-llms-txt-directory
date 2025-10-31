@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-30T20:00:41.164Z
+- Updated At: 2025-10-31T00:00:57.319Z
 
 ## Products
 
@@ -2237,7 +2237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e6104dc3-9da4-4a70-b9ea-9128dc92a23e-Max.webp?v=1760866227
     Price: $22.00 USD
 - [Full Size Contrast Lapel Collar Top and Pants Set - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set): Discover the versatile full size contrast lapel collar set. Perfect for various occasions with a chic lapel collar, tailored fit, and easy care. Shop now!
-  Updated: 2025-10-28T19:59:11Z
+  Updated: 2025-10-30T23:25:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3487,7 +3487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
     Price: $37.60 USD
 - [Tie-Dye Long Sleeve Maxi Bodycon Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/tie-dye-long-sleeve-maxi-bodycon-dress): Shop the stylish Tie-Dye Long Sleeve Maxi Bodycon Dress, featuring a backless design, slightly stretchy fabric, and easy care instructions. Perfect for any occasion!
-  Updated: 2025-10-20T10:32:10Z
+  Updated: 2025-10-30T23:53:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7927,7 +7927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16480e61bd7548468d21638f1ef4bc0c-Max-Origin.webp?v=1760858615
     Price: $27.08 USD
 - [Leopard Print Contrast Striped V Neck Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-contrast-striped-v-neck-blouse): Shop our Leopard Print Contrast Striped V Neck Blouse for a chic and stylish look. Made from 100% polyester, it features a unique design and is easy to care for.
-  Updated: 2025-10-30T17:00:42Z
+  Updated: 2025-10-30T23:22:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8091,7 +8091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/66caa1188eda43db905796cd4ad2d8c3-Max-Origin.webp?v=1760858859
     Price: $81.52 USD
 - [Leopard Print Bow-Tie Front Cropped Cardigan - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-bow-tie-front-cropped-cardigan): Shop the stylish Leopard Print Bow-Tie Front Cropped Cardigan. Perfect for any occasion, featuring a chic design and comfortable fit.
-  Updated: 2025-10-23T17:01:01Z
+  Updated: 2025-10-30T22:12:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10373,7 +10373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
-  Updated: 2025-10-30T16:21:42Z
+  Updated: 2025-10-30T23:21:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11810,7 +11810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/318eb887-bec5-45a4-aa7d-8c7717397723-Max-Origin.webp?v=1760860987
     Price: $28.66 USD
 - [POL Printed V-Neck Short Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/pol-printed-v-neck-short-sleeve-t-shirt): Shop the POL Printed V-Neck Short Sleeve T-Shirt. Stylish, comfortable, and versatile for any casual occasion.
-  Updated: 2025-10-20T10:32:03Z
+  Updated: 2025-10-30T20:50:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13491,7 +13491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c0252d2-3240-4b42-a49f-674efbf0d197-Max-Origin.webp?v=1760863118
     Price: $48.76 USD
 - [Bow Embroidered Sweatshirt and Shorts Set - Comfortable & Stylish](https://np0i0a-pm.myshopify.com/products/bow-embroidered-sweatshirt-shorts-set): Discover the Bow Embroidered Sweatshirt and Shorts Set, a chic two-piece outfit made from a soft polyester-cotton blend. Perfect for casual wear, machine washable, and available in multiple sizes.
-  Updated: 2025-10-30T16:21:26Z
+  Updated: 2025-10-30T21:40:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13577,7 +13577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16a2895acdc841f28c35f2e31ed94a58-Max-Origin.webp?v=1760863246
     Price: $42.42 USD
 - [Ribbed Knit Long Sleeve Top - Stylish Sweater Set for Cozy Days](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Discover the Ribbed Knit Long Sleeve Top and Skirt Sweater Set, combining comfort and chic style with a pleated design, perfect for versatile fashion. Shop now!
-  Updated: 2025-10-30T19:41:30Z
+  Updated: 2025-10-30T22:20:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13599,7 +13599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
 - [Zip Collar Long Sleeve Top | Comfortable Two-Piece Set for Casual Wear](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Discover the stylish Zip Collar Long Sleeve Top and Drawstring Pants Set, offering comfort and versatility. Perfect for lounging or running errands.
-  Updated: 2025-10-30T02:00:50Z
+  Updated: 2025-10-30T20:41:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14123,7 +14123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7fbb8695a3f440beb5d6dc1a980a7f36-Max-Origin.webp?v=1760863637
     Price: $32.48 USD
 - [Star Print Top and Drawstring Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/star-print-top-drawstring-pants-set): Shop the stylish Star Print Top and Drawstring Pants Set, perfect for comfort and casual outings. Soft, stretchy fabric and adjustable fit.
-  Updated: 2025-10-28T05:40:37Z
+  Updated: 2025-10-30T22:00:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14145,7 +14145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-30T17:21:02Z
+  Updated: 2025-10-30T21:20:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14167,7 +14167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
-  Updated: 2025-10-30T17:37:20Z
+  Updated: 2025-10-30T20:22:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18083,7 +18083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/207a0a1a-6f42-46c7-b42f-cb642e72c5b4-Max-Origin.webp?v=1761457710
     Price: $43.36 USD
 - [Long Sleeve Sweatshirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-sweatshirt-and-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 26.8 25.1 42.1 40.6 M 28.7 25.8 44.5 40.9 L 30.7 26.6 46.9 41.3 XL 33.5 27.3 50 41.7 - Pretty Melanin Boutique
-  Updated: 2025-10-30T20:00:35Z
+  Updated: 2025-10-30T23:22:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18127,7 +18127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/92a33380-0ef0-4185-8f1c-8d246c8f09f6-Max-Origin.webp?v=1761457802
     Price: $42.42 USD
 - [Casual Cropped Hoodie and Wide Leg Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 25.2 16.5 37.4 39.2 M 26.8 17.1 39 39.8 L 29.1 17.7 41.3 40.4 XL 31.5 18.3 43.7 40.9 - Pretty Melanin Boutique
-  Updated: 2025-10-30T13:18:12Z
+  Updated: 2025-10-30T23:25:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18597,8 +18597,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/93abda82-622f-42a7-b876-f6fb8a2d0d39-Max-Origin.webp?v=1761619699
     Price: $33.54 USD
-- [Zenana French Terry Washed Raw Edge Front Pocket Pullover - Pretty](https://np0i0a-pm.myshopify.com/products/zenana-french-terry-washed-raw-edge-front-pocket-pullover): The French Terry Washed Raw Edge Front Pocket Pullover is a must-have for any casual wardrobe. The  - Pretty Melanin Boutique
-  Updated: 2025-10-29T17:50:10Z
+- [Zenana French Terry Washed Raw Edge Front Pocket Pullover - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zenana-french-terry-washed-raw-edge-front-pocket-pullover): The French Terry Washed Raw Edge Front Pocket Pullover is a must-have for any casual wardrobe. The washed raw edge detailing gives this pullover a cool, lived-in look. The front pocket adds a practical touch, perfect for storing essentials on-the-go. Crafted from soft French Terry fabric, this pullover offers both comfort and style. Whether you're running errands or relaxing at home, this versatile piece is sure to become a go-to favorite. Features:Basic style,Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:100% COTTON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 - Pretty Melanin Boutique
+  Updated: 2025-10-30T22:58:54Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18615,8 +18615,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/564b837b5d0746bc8de9ba35069dc280-Max-Origin.webp?v=1761699372
     Price: $36.82 USD
-- [Zenana Scuba Crewneck Pullover and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zenana-scuba-crewneck-pullover-and-pants-set): Upgrade your casual wardrobe with this Scuba Crewneck Pullover  Pants Set, crafted for both style  - Pretty Melanin Boutique
-  Updated: 2025-10-30T01:46:01Z
+- [Zenana Scuba Crewneck Pullover and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zenana-scuba-crewneck-pullover-and-pants-set): Upgrade your casual wardrobe with this Scuba Crewneck Pullover and Pants Set, crafted for both style and comfort. The crewneck pullover offers a cozy fit for everyday wear, while the matching pants complete the look with a coordinated ensemble. The set features a modern scuba fabric that adds a unique touch to your outfit. Perfect for lounging or casual outings, this set is a versatile addition to your collection. Elevate your cozy chic style with this trendy and comfortable pullover and pants set. Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:90%POLYESTER, 6%RAYON, 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-36 in, Waist 26-28 in, HIP 36-38 inM:Bust 37-38 in, Waist 29-31 in, HIP 39-41 inL:Bust 39-40 in, Waist 32-33 in, HIP 42-43 inXL:Bust 41-42 in, Waist 34-35 in, HIP 44-45 in - Pretty Melanin Boutique
+  Updated: 2025-10-30T22:59:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18637,8 +18637,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ead29d03d498434da15b86049ac1052b-Max-Origin.webp?v=1761699468
     Price: $44.14 USD
-- [SO ME Loose Fit Exposed Seam Slouchy Boucle Sweater - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/so-me-loose-fit-exposed-seam-slouchy-boucle-sweater): The loose fit exposed seam slouchy bouclé sweater is a relaxed and stylish choice for cozy days.  - Pretty Melanin Boutique
-  Updated: 2025-10-29T01:04:53Z
+- [SO ME Loose Fit Exposed Seam Slouchy Boucle Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/so-me-loose-fit-exposed-seam-slouchy-boucle-sweater): The loose fit exposed seam slouchy bouclé sweater is a relaxed and stylish choice for cozy days. With its exposed seam detailing, this sweater adds a touch of interest and texture to your outfit. The slouchy silhouette offers a comfortable and laid-back look, perfect for casual wear. Made from soft bouclé fabric, this sweater is warm and comfortable for cooler days. Elevate your relaxation style with this chic and effortless loose fit exposed seam slouchy bouclé sweater. Features:Basic style,Exposed seam Stretch:Slightly stretchy Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28 - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:02:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18659,8 +18659,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6040a5a3-9c0a-4a41-aeea-2e7947429db8-Max-Origin.webp?v=1761699892
     Price: $60.94 USD
-- [SO ME Checkered Plaid Tape Lace Up Ribbed Sweater - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/so-me-checkered-plaid-tape-lace-up-ribbed-sweater): This checkered plaid tape lace-up ribbed sweater is a trendy and stylish piece for your fall  - Pretty Melanin Boutique
-  Updated: 2025-10-29T16:12:24Z
+- [SO ME Checkered Plaid Tape Lace Up Ribbed Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/so-me-checkered-plaid-tape-lace-up-ribbed-sweater): This checkered plaid tape lace-up ribbed sweater is a trendy and stylish piece for your fall wardrobe. The checkered plaid pattern adds a classic touch to the sweater. The lace-up detail adds a modern and edgy twist to the design. Made from ribbed knit fabric, it is both cozy and comfortable. Pair it with jeans or leggings for a chic and effortlessly cool look. Features:Ribbed,Bow Stretch:Slightly stretchy Material composition:61%ACRYLIC 25%POLYESTER 12%NYLON Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28 - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:04:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18681,8 +18681,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6c61b941-f64c-4991-96c4-0865c498640f-Max-Origin.webp?v=1761700200
     Price: $57.32 USD
-- [BiBi Color Block Sweater Knit Top With Cut Out Neck - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/bibi-color-block-sweater-knit-top-with-cut-out-neck): Make a statement with this Color Block Sweater Knit Top featuring a unique cut-out neck detail. The  - Pretty Melanin Boutique
-  Updated: 2025-10-29T15:35:58Z
+- [BiBi Color Block Sweater Knit Top With Cut Out Neck - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/bibi-color-block-sweater-knit-top-with-cut-out-neck): Make a statement with this Color Block Sweater Knit Top featuring a unique cut-out neck detail. The color block design adds a modern and eye-catching element to this sweater top. The cut-out neck adds a touch of edginess and adds interest to the neckline. Made from cozy sweater knit fabric, this top is both stylish and comfortable. Whether you're dressing it up for a night out or keeping it casual for a daytime look, this top is versatile and chic. Pair it with jeans, pants, or a skirt for a fashion-forward outfit that showcases your individual style. Features:Ribbed,Cutout Stretch:Moderate stretch Material composition:51% Viscose 27% Polyester 22% Nylon Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28 - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:07:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18703,8 +18703,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3c80a29289724d4fb3dedcedd7c69f01-Max-Origin.webp?v=1761700600
     Price: $34.18 USD
-- [BiBi Half Zip Vintage Washed Fleece Pullover - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/bibi-half-zip-vintage-washed-fleece-pullover): Achieve a cool and casual look with this Half Zip Vintage Washed Fleece Pullover. The vintage washed  - Pretty Melanin Boutique
-  Updated: 2025-10-29T14:16:51Z
+- [BiBi Half Zip Vintage Washed Fleece Pullover - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/bibi-half-zip-vintage-washed-fleece-pullover): Achieve a cool and casual look with this Half Zip Vintage Washed Fleece Pullover. The vintage washed finish gives this pullover a laid-back and retro vibe. Crafted from soft fleece fabric, it offers comfort and warmth for chilly days. The half zip design adds a modern touch and allows for easy layering. Pair it with your favorite jeans or joggers for a relaxed and stylish outfit that exudes effortless charm. Features:Buttoned,Drawstring,Pocketed Stretch:Slightly stretchy Material composition:95% Polyester 5% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 33-35 25-27 M 35-38 27-30 L 38-40 30-32 XL 40-42 32-34 - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:07:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18725,8 +18725,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee776a4db3b443ecb9876801325c4c17-Max-Origin.webp?v=1761700663
     Price: $52.72 USD
-- [Umgee Crochet Knit Crop Top with Frey Hem - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/umgee-crochet-knit-crop-top-with-frey-hem): This Crochet Knit Crop Top with Fray Hem is a stylish and edgy addition to your wardrobe. The  - Pretty Melanin Boutique
-  Updated: 2025-10-29T13:42:41Z
+- [Umgee Crochet Knit Crop Top with Frey Hem - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/umgee-crochet-knit-crop-top-with-frey-hem): This Crochet Knit Crop Top with Fray Hem is a stylish and edgy addition to your wardrobe. The crochet knit design adds texture and visual interest to the top. The crop length offers a trendy and flattering silhouette. The fray hem detailing provides a cool and casual vibe to the overall look. Perfect for pairing with high-waisted bottoms, this crop top is a chic choice for adding a touch of bohemian flair to your outfit. Features:Fringe Stretch:Slightly stretchy Material composition:100% Acrylic Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:12:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18743,18 +18743,932 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f0b592be-463c-4b9b-bd21-e94dd39a7e63-Max-Origin.webp?v=1761701079
     Price: $59.50 USD
+- [High Waist Wide Flare Pants - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:34:31Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+  - [Moss / S](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451819239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+    Price: $43.88 USD
+  - [Moss / M](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451852007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+    Price: $43.88 USD
+  - [Moss / L](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451884775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+    Price: $43.88 USD
+  - [Moss / XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451917543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+    Price: $43.88 USD
+  - [Moss / 2XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451950311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/030bb8e8-219b-42d1-a018-b6dc7d4f7a41-Max.webp?v=1761867244
+    Price: $43.88 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521451983079)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761867250
+    Price: $43.88 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452015847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761867250
+    Price: $43.88 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452048615)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761867250
+    Price: $43.88 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452081383)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761867250
+    Price: $43.88 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452114151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761867250
+    Price: $43.88 USD
+  - [Chocolate / S](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452146919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61b773fd-ec41-4ccf-b4a5-f96ccfa4128d-Max.webp?v=1761867258
+    Price: $43.88 USD
+  - [Chocolate / M](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452179687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61b773fd-ec41-4ccf-b4a5-f96ccfa4128d-Max.webp?v=1761867258
+    Price: $43.88 USD
+  - [Chocolate / L](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452212455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61b773fd-ec41-4ccf-b4a5-f96ccfa4128d-Max.webp?v=1761867258
+    Price: $43.88 USD
+  - [Chocolate / XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452245223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61b773fd-ec41-4ccf-b4a5-f96ccfa4128d-Max.webp?v=1761867258
+    Price: $43.88 USD
+  - [Chocolate / 2XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452277991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61b773fd-ec41-4ccf-b4a5-f96ccfa4128d-Max.webp?v=1761867258
+    Price: $43.88 USD
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452310759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
+    Price: $43.88 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452343527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
+    Price: $43.88 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452376295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
+    Price: $43.88 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452409063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
+    Price: $43.88 USD
+  - [Burgundy / 2XL](https://np0i0a-pm.myshopify.com/products/high-waist-wide-flare-pants?variant=51521452441831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761867264
+    Price: $43.88 USD
+- [Mock Neck Long Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top): Features: Basic style Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 95%  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:35:55Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef1313e4-0e0d-4557-9e0a-c93f75f6dd25-Max.webp?v=1761867242
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455751399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef1313e4-0e0d-4557-9e0a-c93f75f6dd25-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455784167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef1313e4-0e0d-4557-9e0a-c93f75f6dd25-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455816935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef1313e4-0e0d-4557-9e0a-c93f75f6dd25-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455849703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef1313e4-0e0d-4557-9e0a-c93f75f6dd25-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Gray Blue / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455882471)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e72da778-fd64-4727-9547-5e03f35698d6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Gray Blue / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455915239)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e72da778-fd64-4727-9547-5e03f35698d6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Gray Blue / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455948007)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e72da778-fd64-4727-9547-5e03f35698d6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Gray Blue / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521455980775)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e72da778-fd64-4727-9547-5e03f35698d6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Deep Red / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456013543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/46b7d52d-33ab-4ff0-9995-14bb19ba5a50-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Deep Red / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456046311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/46b7d52d-33ab-4ff0-9995-14bb19ba5a50-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Deep Red / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456079079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/46b7d52d-33ab-4ff0-9995-14bb19ba5a50-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Deep Red / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456111847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/46b7d52d-33ab-4ff0-9995-14bb19ba5a50-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Lilac / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456144615)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/168083a7-0763-43fe-a104-4b32684b33c1-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Lilac / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456177383)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/168083a7-0763-43fe-a104-4b32684b33c1-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Lilac / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456210151)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/168083a7-0763-43fe-a104-4b32684b33c1-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Lilac / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456242919)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/168083a7-0763-43fe-a104-4b32684b33c1-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Dark Green / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456275687)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fb31750e-3fdc-4528-b6ab-6eac023f1606-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Dark Green / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456308455)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fb31750e-3fdc-4528-b6ab-6eac023f1606-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Dark Green / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456341223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fb31750e-3fdc-4528-b6ab-6eac023f1606-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Dark Green / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456373991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fb31750e-3fdc-4528-b6ab-6eac023f1606-Max.webp?v=1761867242
+    Price: $22.34 USD
+  - [Caramel / S](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456406759)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Caramel / M](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456439527)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Caramel / L](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456472295)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761867243
+    Price: $22.34 USD
+  - [Caramel / XL](https://np0i0a-pm.myshopify.com/products/mock-neck-long-sleeve-top?variant=51521456505063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761867243
+    Price: $22.34 USD
+- [Full Size Hight Waist Bootcut Pants Plus Size - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size): Features:Basic style Material composition:100% polyester Care instructions:Machine wash cold.  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:37:34Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+  - [Army Green / S](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457062119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Army Green / M](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457094887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Army Green / L](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457127655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Army Green / XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457160423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Army Green / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457193191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Army Green / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457225959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cc54c7d3-bc7d-4673-9eff-3360bd656784-Max-Origin.webp?v=1761867345
+    Price: $29.76 USD
+  - [Orange / S](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457258727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Orange / M](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457291495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Orange / L](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457324263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Orange / XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457357031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Orange / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457389799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Orange / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457422567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ea6d74b0-9a97-4c99-a6aa-e92aa45c2720-Max-Origin.webp?v=1761867349
+    Price: $29.76 USD
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457455335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457488103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457520871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457553639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Burgundy / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457586407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Burgundy / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457619175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6329319-8522-4d24-bb16-f838a2fd44e2-Max-Origin.webp?v=1761867323
+    Price: $29.76 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457651943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457684711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457717479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457750247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457783015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Black / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457815783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d166b99b-484f-452d-9633-8694a13e8599-Max-Origin.webp?v=1761867356
+    Price: $29.76 USD
+  - [Grey / S](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457848551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+  - [Grey / M](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457881319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+  - [Grey / L](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457914087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+  - [Grey / XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457946855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+  - [Grey / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521457979623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+  - [Grey / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size?variant=51521458012391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bdc830b0-8be9-40aa-bba9-f2696d1ef42c-Max-Origin.webp?v=1761867358
+    Price: $29.76 USD
+- [Leopard Round Neck Raglan Sleeve Sweatshirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:37:57Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+  - [Grass Green / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521459978471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Grass Green / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460011239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Grass Green / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460044007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Grass Green / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460076775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Grass Green / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460109543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4f6ddefc4ce34eeb9d7da6a4a6b1eff7-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Brown / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460142311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Brown / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460175079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Brown / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460207847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Brown / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460240615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Brown / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460273383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Dark Gray / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460306151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Dark Gray / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460338919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Dark Gray / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460371687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Dark Gray / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460404455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Dark Gray / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460437223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/29bb7357c2db4a429b77bd6ca8ab1797-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Pink / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460469991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Pink / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460502759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Pink / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460535527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Pink / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460568295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Pink / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460601063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a2aa68b2210417a903ded019ed718ef-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460633831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1761867358
+    Price: $39.06 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460666599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1761867358
+    Price: $39.06 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460699367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1761867358
+    Price: $39.06 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460732135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1761867358
+    Price: $39.06 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460764903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/636bbb206fb64d7db77e4e8b9390f3a9-Max-Origin.webp?v=1761867358
+    Price: $39.06 USD
+  - [Deep Teal / S](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460797671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Deep Teal / M](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460830439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Deep Teal / L](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460863207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Deep Teal / XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460895975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+  - [Deep Teal / 2XL](https://np0i0a-pm.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=51521460928743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761867357
+    Price: $39.06 USD
+- [Color Block Long Sleeve Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater): Features:Oversized Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:39:12Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a26bd1865ac461595c964cbf8c39817-Max-Origin.webp?v=1761867409
+  - [Apricot / S](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461715175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3526d38225604c54926dc2b12da627b3-Max-Origin.webp?v=1761867383
+    Price: $42.70 USD
+  - [Apricot / M](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461747943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3526d38225604c54926dc2b12da627b3-Max-Origin.webp?v=1761867383
+    Price: $42.70 USD
+  - [Apricot / L](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461780711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3526d38225604c54926dc2b12da627b3-Max-Origin.webp?v=1761867383
+    Price: $42.70 USD
+  - [Apricot / XL](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461813479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3526d38225604c54926dc2b12da627b3-Max-Origin.webp?v=1761867383
+    Price: $42.70 USD
+  - [Pink / S](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461846247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/738726e7c033479d90433497e64f6485-Max-Origin.webp?v=1761867382
+    Price: $42.70 USD
+  - [Pink / M](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461879015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/738726e7c033479d90433497e64f6485-Max-Origin.webp?v=1761867382
+    Price: $42.70 USD
+  - [Pink / L](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461911783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/738726e7c033479d90433497e64f6485-Max-Origin.webp?v=1761867382
+    Price: $42.70 USD
+  - [Pink / XL](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461944551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/738726e7c033479d90433497e64f6485-Max-Origin.webp?v=1761867382
+    Price: $42.70 USD
+  - [Yellow / S](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521461977319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8284dd9afd52426db3a6674aa023a38b-Max-Origin.webp?v=1761867415
+    Price: $42.70 USD
+  - [Yellow / M](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521462010087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8284dd9afd52426db3a6674aa023a38b-Max-Origin.webp?v=1761867415
+    Price: $42.70 USD
+  - [Yellow / L](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521462042855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8284dd9afd52426db3a6674aa023a38b-Max-Origin.webp?v=1761867415
+    Price: $42.70 USD
+  - [Yellow / XL](https://np0i0a-pm.myshopify.com/products/color-block-long-sleeve-sweater?variant=51521462075623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8284dd9afd52426db3a6674aa023a38b-Max-Origin.webp?v=1761867415
+    Price: $42.70 USD
+- [Double Take Seam Detail Round Neck Long Sleeve Top - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top): This solid long-sleeve top with a round neck is elevated by its seam detail, adding a touch of  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:41:35Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463091431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+    Price: $26.00 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463124199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+    Price: $26.00 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463156967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+    Price: $26.00 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463189735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+    Price: $26.00 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463222503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8dde23dc0c474a128762e827372c1e76-Max.jpg?v=1761867435
+    Price: $26.00 USD
+  - [Light Gray / S](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463255271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
+    Price: $26.00 USD
+  - [Light Gray / M](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463288039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
+    Price: $26.00 USD
+  - [Light Gray / L](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463320807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
+    Price: $26.00 USD
+  - [Light Gray / XL](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463353575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
+    Price: $26.00 USD
+  - [Light Gray / 2XL](https://np0i0a-pm.myshopify.com/products/double-take-seam-detail-round-neck-long-sleeve-top?variant=51521463386343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f21015da812e4d4eb4cf4ac7fff17ded-Max.jpg?v=1761867410
+    Price: $26.00 USD
+- [Cold Shoulder Ruffle Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse): Features:Tied,Ruffled Stretch:No stretch Material composition:100% polyester Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:40:32Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
+  - [White / S](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse?variant=51521465123047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
+    Price: $42.06 USD
+  - [White / M](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse?variant=51521465155815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
+    Price: $42.06 USD
+  - [White / L](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse?variant=51521465188583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
+    Price: $42.06 USD
+  - [White / XL](https://np0i0a-pm.myshopify.com/products/cold-shoulder-ruffle-blouse?variant=51521465221351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
+    Price: $42.06 USD
+- [Two-Tone Long Sleeve Bodysuit - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit): Features:Basic style Stretch:Highly stretchy Material composition:96% polyester, 4% elastane Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:41:56Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a56debba94942b9bdc57ec5180dbc5f-Max-Origin.webp?v=1761867518
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit?variant=51521465778407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a56debba94942b9bdc57ec5180dbc5f-Max-Origin.webp?v=1761867518
+    Price: $36.50 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit?variant=51521465811175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a56debba94942b9bdc57ec5180dbc5f-Max-Origin.webp?v=1761867518
+    Price: $36.50 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit?variant=51521465843943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a56debba94942b9bdc57ec5180dbc5f-Max-Origin.webp?v=1761867518
+    Price: $36.50 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit?variant=51521465876711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2a56debba94942b9bdc57ec5180dbc5f-Max-Origin.webp?v=1761867518
+    Price: $36.50 USD
+- [Faux Fur Trimmed Belted Outerwear - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear): Features:Belted Thickness:Normal Body:Lined Material composition:100% polyester Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:42:31Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d516e1a6a2a34fd081a1f027427c4a41-Max-Origin.webp?v=1761867570
+  - [Brown / S](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521465975015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d516e1a6a2a34fd081a1f027427c4a41-Max-Origin.webp?v=1761867570
+    Price: $70.28 USD
+  - [Brown / M](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521466007783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d516e1a6a2a34fd081a1f027427c4a41-Max-Origin.webp?v=1761867570
+    Price: $70.28 USD
+  - [Brown / L](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521466040551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d516e1a6a2a34fd081a1f027427c4a41-Max-Origin.webp?v=1761867570
+    Price: $70.28 USD
+  - [Beige / S](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521466073319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6bfae969fdb14b0e8f6163e6db679ecc-Max-Origin.webp?v=1761867576
+    Price: $70.28 USD
+  - [Beige / M](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521466106087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6bfae969fdb14b0e8f6163e6db679ecc-Max-Origin.webp?v=1761867576
+    Price: $70.28 USD
+  - [Beige / L](https://np0i0a-pm.myshopify.com/products/faux-fur-trimmed-belted-outerwear?variant=51521466138855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6bfae969fdb14b0e8f6163e6db679ecc-Max-Origin.webp?v=1761867576
+    Price: $70.28 USD
+- [Lace Trim One Shoulder Bodysuit - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit): Features:Lace Detail,Sheer Stretch:Slightly stretchy Material composition:90% polyester, 10%  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:43:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1464ec31d62d49f8a038b8f1130d7c45-Max-Origin.webp?v=1761867591
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit?variant=51521466466535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1464ec31d62d49f8a038b8f1130d7c45-Max-Origin.webp?v=1761867591
+    Price: $31.46 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit?variant=51521466499303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1464ec31d62d49f8a038b8f1130d7c45-Max-Origin.webp?v=1761867591
+    Price: $31.46 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit?variant=51521466532071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1464ec31d62d49f8a038b8f1130d7c45-Max-Origin.webp?v=1761867591
+    Price: $31.46 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit?variant=51521466564839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1464ec31d62d49f8a038b8f1130d7c45-Max-Origin.webp?v=1761867591
+    Price: $31.46 USD
+- [V-Neck Button-Down Knit Cardigan - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan): Features:Buttoned Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:45:38Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4688cc5899af42a2abce7d64edb8c966-Max-Origin.webp?v=1761867629
+  - [Deep Apricot / S](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467023591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4688cc5899af42a2abce7d64edb8c966-Max-Origin.webp?v=1761867629
+    Price: $44.48 USD
+  - [Deep Apricot / M](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467056359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4688cc5899af42a2abce7d64edb8c966-Max-Origin.webp?v=1761867629
+    Price: $44.48 USD
+  - [Deep Apricot / L](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467089127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4688cc5899af42a2abce7d64edb8c966-Max-Origin.webp?v=1761867629
+    Price: $44.48 USD
+  - [Deep Apricot / XL](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467121895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4688cc5899af42a2abce7d64edb8c966-Max-Origin.webp?v=1761867629
+    Price: $44.48 USD
+  - [Red Vegetable Purple / S](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467154663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dc23717d3714b4498f241903bf3ee42-Max-Origin.webp?v=1761867663
+    Price: $44.48 USD
+  - [Red Vegetable Purple / M](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467187431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dc23717d3714b4498f241903bf3ee42-Max-Origin.webp?v=1761867663
+    Price: $44.48 USD
+  - [Red Vegetable Purple / L](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467220199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dc23717d3714b4498f241903bf3ee42-Max-Origin.webp?v=1761867663
+    Price: $44.48 USD
+  - [Red Vegetable Purple / XL](https://np0i0a-pm.myshopify.com/products/v-neck-button-down-knit-cardigan?variant=51521467252967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dc23717d3714b4498f241903bf3ee42-Max-Origin.webp?v=1761867663
+    Price: $44.48 USD
+- [Long Sleeve Turtleneck T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt): Features:Basic style Stretch:Stretchy Material composition:93% viscose, 7% elastane Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:46:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2747b3a4444346e6ba4ca355a23dcd88-Max-Origin.webp?v=1761867695
+  - [Sage / S](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt?variant=51521467646183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f24753ff-0a2b-4b0c-9b5a-5693ba81d716-Max-Origin.webp?v=1761867699
+    Price: $21.48 USD
+  - [Sage / M](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt?variant=51521467678951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f24753ff-0a2b-4b0c-9b5a-5693ba81d716-Max-Origin.webp?v=1761867699
+    Price: $21.48 USD
+  - [Sage / L](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt?variant=51521467711719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f24753ff-0a2b-4b0c-9b5a-5693ba81d716-Max-Origin.webp?v=1761867699
+    Price: $21.48 USD
+  - [Sage / XL](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt?variant=51521467744487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f24753ff-0a2b-4b0c-9b5a-5693ba81d716-Max-Origin.webp?v=1761867699
+    Price: $21.48 USD
+- [Sherpa Trim Cropped Jacket - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:100% polyester Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:47:38Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/07a1319d54cb4d90b10273065ae72430-Max-Origin.webp?v=1761867728
+  - [Khaki / S](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468268775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/07a1319d54cb4d90b10273065ae72430-Max-Origin.webp?v=1761867728
+    Price: $77.90 USD
+  - [Khaki / M](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468301543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/07a1319d54cb4d90b10273065ae72430-Max-Origin.webp?v=1761867728
+    Price: $77.90 USD
+  - [Khaki / L](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468334311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/07a1319d54cb4d90b10273065ae72430-Max-Origin.webp?v=1761867728
+    Price: $77.90 USD
+  - [Beige / S](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468367079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d93803212248df9dc78ce5f98e4562-Max-Origin.webp?v=1761867704
+    Price: $77.90 USD
+  - [Beige / M](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468399847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d93803212248df9dc78ce5f98e4562-Max-Origin.webp?v=1761867704
+    Price: $77.90 USD
+  - [Beige / L](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468432615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d93803212248df9dc78ce5f98e4562-Max-Origin.webp?v=1761867704
+    Price: $77.90 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468465383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f752ae6ae9e145fdb9865cfeee25d620-Max-Origin.webp?v=1761867735
+    Price: $77.90 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468498151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f752ae6ae9e145fdb9865cfeee25d620-Max-Origin.webp?v=1761867735
+    Price: $77.90 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/sherpa-trim-cropped-jacket?variant=51521468530919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f752ae6ae9e145fdb9865cfeee25d620-Max-Origin.webp?v=1761867735
+    Price: $77.90 USD
+- [Side Striped Zip Up Hoodie and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95%  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:49:40Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+  - [Gray / S](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468694759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+    Price: $61.40 USD
+  - [Gray / M](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468727527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+    Price: $61.40 USD
+  - [Gray / L](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468760295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+    Price: $61.40 USD
+  - [Gray / XL](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468793063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+    Price: $61.40 USD
+  - [Gray / 2XL](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468825831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/51ac12fe-fd91-4991-a12d-36a0afa7f666-Max-Origin.webp?v=1761867763
+    Price: $61.40 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468858599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0f77516c-f913-4a4b-81b9-7a934e923cfe-Max-Origin.webp?v=1761867768
+    Price: $61.40 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468891367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0f77516c-f913-4a4b-81b9-7a934e923cfe-Max-Origin.webp?v=1761867768
+    Price: $61.40 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468924135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0f77516c-f913-4a4b-81b9-7a934e923cfe-Max-Origin.webp?v=1761867768
+    Price: $61.40 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468956903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0f77516c-f913-4a4b-81b9-7a934e923cfe-Max-Origin.webp?v=1761867768
+    Price: $61.40 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/side-striped-zip-up-hoodie-and-pants-set?variant=51521468989671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0f77516c-f913-4a4b-81b9-7a934e923cfe-Max-Origin.webp?v=1761867768
+    Price: $61.40 USD
+- [Ribbed Turtleneck Bodycon Sweater Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress): Features:Ribbed,Slit Stretch:Moderate stretch Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:50:12Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ec94bd57f446444e916b776eac4bcd4e-Max-Origin.webp?v=1761867788
+  - [Off-white / S](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469579495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ec94bd57f446444e916b776eac4bcd4e-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Off-white / M](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469612263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ec94bd57f446444e916b776eac4bcd4e-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Off-white / L](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469645031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ec94bd57f446444e916b776eac4bcd4e-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Off-white / XL](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469677799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ec94bd57f446444e916b776eac4bcd4e-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Orange / S](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469710567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7f46a238-cacb-47f6-9451-234238c0c7af-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Orange / M](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469743335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7f46a238-cacb-47f6-9451-234238c0c7af-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Orange / L](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469776103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7f46a238-cacb-47f6-9451-234238c0c7af-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Orange / XL](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469808871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7f46a238-cacb-47f6-9451-234238c0c7af-Max-Origin.webp?v=1761867788
+    Price: $51.52 USD
+  - [Pink / S](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469841639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4182d325-d7a6-45f5-ab34-b21eb59cd211-Max-Origin.webp?v=1761867824
+    Price: $51.52 USD
+  - [Pink / M](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469874407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4182d325-d7a6-45f5-ab34-b21eb59cd211-Max-Origin.webp?v=1761867824
+    Price: $51.52 USD
+  - [Pink / L](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469907175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4182d325-d7a6-45f5-ab34-b21eb59cd211-Max-Origin.webp?v=1761867824
+    Price: $51.52 USD
+  - [Pink / XL](https://np0i0a-pm.myshopify.com/products/ribbed-turtleneck-bodycon-sweater-dress?variant=51521469939943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4182d325-d7a6-45f5-ab34-b21eb59cd211-Max-Origin.webp?v=1761867824
+    Price: $51.52 USD
+- [Ribbed Knit Bodycon Sweater Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress): Features:Ribbed,Slit Stretch:Moderate stretch Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:50:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee314c42d38a4c56a31fc96334a5c30f-Max-Origin.webp?v=1761867814
+  - [Apricot / S](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470464231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee314c42d38a4c56a31fc96334a5c30f-Max-Origin.webp?v=1761867814
+    Price: $44.70 USD
+  - [Apricot / M](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470496999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee314c42d38a4c56a31fc96334a5c30f-Max-Origin.webp?v=1761867814
+    Price: $44.70 USD
+  - [Apricot / L](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470529767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee314c42d38a4c56a31fc96334a5c30f-Max-Origin.webp?v=1761867814
+    Price: $44.70 USD
+  - [Apricot / XL](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470562535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee314c42d38a4c56a31fc96334a5c30f-Max-Origin.webp?v=1761867814
+    Price: $44.70 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470595303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6251d4d0d4da4f24899fdecaf04323b7-Max-Origin.webp?v=1761867851
+    Price: $44.70 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470628071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6251d4d0d4da4f24899fdecaf04323b7-Max-Origin.webp?v=1761867851
+    Price: $44.70 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470660839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6251d4d0d4da4f24899fdecaf04323b7-Max-Origin.webp?v=1761867851
+    Price: $44.70 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/ribbed-knit-bodycon-sweater-dress?variant=51521470693607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6251d4d0d4da4f24899fdecaf04323b7-Max-Origin.webp?v=1761867851
+    Price: $44.70 USD
+- [Off-Shoulder Cable Knit Bodycon Sweater Dress - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress): Features:Cable-Knit Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care  - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:52:10Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/86a3acd7-d28d-4867-9da4-3143c20c924c-Max-Origin.webp?v=1761867837
+  - [White / S](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521470922983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/86a3acd7-d28d-4867-9da4-3143c20c924c-Max-Origin.webp?v=1761867837
+    Price: $71.12 USD
+  - [White / M](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521470955751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/86a3acd7-d28d-4867-9da4-3143c20c924c-Max-Origin.webp?v=1761867837
+    Price: $71.12 USD
+  - [White / L](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521470988519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/86a3acd7-d28d-4867-9da4-3143c20c924c-Max-Origin.webp?v=1761867837
+    Price: $71.12 USD
+  - [White / XL](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521471021287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/86a3acd7-d28d-4867-9da4-3143c20c924c-Max-Origin.webp?v=1761867837
+    Price: $71.12 USD
+  - [Wine Red / S](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521471054055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d38b632e-e60e-4db5-be7e-7f34ddfb9d79-Max-Origin.webp?v=1761867864
+    Price: $71.12 USD
+  - [Wine Red / M](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521471086823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d38b632e-e60e-4db5-be7e-7f34ddfb9d79-Max-Origin.webp?v=1761867864
+    Price: $71.12 USD
+  - [Wine Red / L](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521471119591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d38b632e-e60e-4db5-be7e-7f34ddfb9d79-Max-Origin.webp?v=1761867864
+    Price: $71.12 USD
+  - [Wine Red / XL](https://np0i0a-pm.myshopify.com/products/off-shoulder-cable-knit-bodycon-sweater-dress?variant=51521471152359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d38b632e-e60e-4db5-be7e-7f34ddfb9d79-Max-Origin.webp?v=1761867864
+    Price: $71.12 USD
 
 ## Collections
 
 - [Home page - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/frontpage): - Pretty Melanin Boutique
-  Updated: 2025-10-29T01:24:38Z
-  Total Products: 363
-- [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
-  Updated: 2025-10-30T09:30:41Z
-  Total Products: 369
-- [All Products (ChatGPT-AI Product Description) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Pretty Melanin Boutique
-  Updated: 2025-10-29T01:25:07Z
+  Updated: 2025-10-30T23:43:56Z
   Total Products: 380
+- [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:44:25Z
+  Total Products: 386
+- [All Products (ChatGPT-AI Product Description) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Pretty Melanin Boutique
+  Updated: 2025-10-30T23:44:25Z
+  Total Products: 397
 
 ## Blogs
 
