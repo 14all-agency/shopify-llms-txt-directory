@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-30T20:00:59.890Z
+- Updated At: 2025-10-31T00:01:39.506Z
 
 ## Products
 
@@ -2740,8 +2740,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Button_Shirt.jpg?v=1740378971
     Price: $65.50 USD
-- [Men's Pique Polo Shirt](https://baskandweave.com/products/mens-pique-polo-shirt): Classic and made to last, this Pique Polo Shirt is for all occasions. It’s crafted from a durable cotton pique fabric. The relaxed and flattering fit is designed to complement any body type. With a classic cut and crisp collar, it can be dressed up or down for sporty, casual, or more formal styles. • 100% ring-spun cotton• Fabric weight: 5.2 oz/yd² (176 g/m²)• Semi-fitted• Side-seamed construction• Placket with dyed-to-match buttons• The fabric is OEKO-TEX Standard 100 certifiedThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 71.1 50.8 44.5 M 75 54.6 47 L 77.5 57.2 48.9 XL 80 60.3 52 2XL 82.6 63.5 54.6 3XL 85 67.3 57.8 4XL 87.6 71.1 61
-  Updated: 2025-10-29T23:03:58Z
+- [Men's Pique Polo Shirt – Classic & Casual Cotton Polo](https://baskandweave.com/products/mens-pique-polo-shirt): Discover the perfect balance of style and comfort with our Men's Pique Polo Shirt. Crafted from soft cotton, ideal for casual days or a smart, refined look.
+  Updated: 2025-10-30T23:37:29Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -2858,8 +2858,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pique-polo-shirt-white-front-678e3fc794b1f.jpg?v=1737827996
     Price: $38.00 USD
-- [Men's Premium Polo t Shirt](https://baskandweave.com/products/mens-premium-polo): A classic piece that never goes out of style, this Port Authority embroidered polo has it all—relaxed fit, silky fabric, and a comfortable length. Get one for yourself and watch how it becomes a true outfit game-changer in your wardrobe. • 65% polyester, 35% cotton pique • Fabric weight: 5.0 oz/yd² (169.5 g/m²) • Relaxed fit that runs large • Flat knit collar and cuffs • Metal buttons with dyed-to-match plastic rims • Side vents for breathability • Blank product sourced from Ethiopia This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (cm) B (cm) C (cm) S 73.7 102.9 50.8 M 76.2 108 52.7 L 78.7 118.1 53.3 XL 81.3 125.7 55.9 2XL 83.8 137.2 57.2 3XL 85 144.8 58.4 4XL 86.4 152.4 59.7 5XL 87.6 160 61
-  Updated: 2025-10-29T23:03:59Z
+- [Premium Men's Polo Shirts – Classic Comfort & Style](https://baskandweave.com/products/mens-premium-polo): Discover premium men's polo shirts crafted from soft, breathable cotton. Perfect for casual or formal wear, combining everyday comfort with timeless style.
+  Updated: 2025-10-30T23:38:36Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3064,8 +3064,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/premium-polo-shirt-white-front-678e40728b830.jpg?v=1737827956
     Price: $34.00 USD
-- [Men’s Staple Tank Top](https://baskandweave.com/products/mens-tank-top-1): A classic, staple tank top. A timeless classic intended for anyone looking for great quality and softness. • 100% combed and ringspun cotton• Tri-blends are 50% polyester/25% combed/25% ringspun cotton/rayon• Fabric weight: 4.2 oz/yd² (142.40 g/m²), triblends: 3.8 oz/yd² (90.07 g/m²)• 30 singles thread weight• Side-seamed• Blank product sourced from Nicaragua, Honduras, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (cm) BODY WIDTH (cm) XS 66 41.3 S 68.6 46.4 M 71.1 51.4 L 73.7 56.5 XL 76.2 61.6 2XL 78.7 66.7
-  Updated: 2025-10-29T23:03:59Z
+- [Staple Tank Top for Men – Comfortable Everyday Wear](https://baskandweave.com/products/mens-tank-top-1): Shop the staple tank top for men designed for all-day comfort. Made from soft, breathable fabric, this versatile tank is perfect for workouts or casual wear.
+  Updated: 2025-10-30T23:39:15Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -3264,8 +3264,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-staple-tank-top-oatmeal-triblend-front-678e4bb3c1d68.jpg?v=1737378858
     Price: $27.50 USD
-- [Men's Premium Tank Top](https://baskandweave.com/products/men-s-premium-tank-top): It’s always a good decision to invest in premium-quality basics that’ll look good and last long. The men’s premium tank top is exceptionally soft and smooth and made of durable materials. Wear it as your workout top, layering piece, or on its own, paired with your favorite bottoms. • 100% combed ring-spun cotton • Athletic Heather is 85% cotton, 15% viscose • Charcoal Heather is 60% polyester, 40% cotton • Fabric weight: 5.5 oz/yd² (186.48 g/m²) • Soft-washed and tight-knit mid/heavyweight material • Relaxed fit • Extra soft surface • Sleeveless drop arm • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-29T23:03:59Z
+- [Men's Premium Tank Tops – High-Quality & Stylish Wear](https://baskandweave.com/products/men-s-premium-tank-top): Discover men's premium tank tops crafted from soft, durable fabric. Ideal for workouts or casual days, offering comfort, breathability, and timeless style.
+  Updated: 2025-10-30T23:40:05Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -3470,8 +3470,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-tank-top-athletic-heather-front-678e4c3d0fe5a.jpg?v=1737379040
     Price: $29.50 USD
-- [Men's Muscle Shirt](https://baskandweave.com/products/mens-muscle-shirt): This soft, sleeveless tank is so comfy you're going to want to wear it everywhere, be it on your couch, out on a walk, or during a yoga class. The relaxed fit and low-cut armholes gives it a casual, urban look. • 100% airlume combed ring-spun cotton • Fabric weight: 4.2 oz/y² (142 g/m²) • 32 singles • Relaxed fit • Side-seamed construction • Wide, low-cut armholes • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (cm) SHIRT LENGTH (cm) CHEST TO FIT (cm) S 45.7 66 86.4-94 M 50.8 68.6 96.5-104.1 L 53.3 71.1 106.7-114.3 XL 58.4 73.7 116.8-124.5 2XL 63.5 76.2 127-134.6
-  Updated: 2025-10-29T23:03:59Z
+- [Men's Muscle Shirt – Athletic Fit Sleeveless Gym Wear](https://baskandweave.com/products/mens-muscle-shirt): Shop men's muscle shirts designed for performance and comfort. Perfect for workouts or casual wear, these sleeveless tees highlight your physique in style.
+  Updated: 2025-10-30T23:41:00Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -3496,8 +3496,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-white-front-678e4d3c78d11.jpg?v=1740363209
     Price: $33.50 USD
-- [Muscle Shirt Men's](https://baskandweave.com/products/muscle-shirt-mens): This soft, sleeveless tank is so comfy you're going to want to wear it everywhere, be it on your couch, out on a walk, or during a yoga class. The relaxed fit and low-cut armholes gives it a casual, urban look.• 100% airlume combed ring-spun cotton• Fabric weight: 4.2 oz/y² (142 g/m²)• 32 singles• Relaxed fit• Side-seamed construction• Wide, low-cut armholes• Blank product sourced from Nicaragua, Honduras, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide SHIRT WIDTH (cm) SHIRT LENGTH (cm) CHEST TO FIT (cm) S 45.7 66 86.4-94 M 50.8 68.6 96.5-104.1 L 53.3 71.1 106.7-114.3 XL 58.4 73.7 116.8-124.5 2XL 63.5 76.2 127-134.6
-  Updated: 2025-10-29T23:03:59Z
+- [Men's Muscle Shirts – Premium Gym & Workout Tank Tops](https://baskandweave.com/products/muscle-shirt-mens): Discover men's muscle shirts built for strength and comfort. Ideal for gym sessions or casual wear, these premium muscle fit tanks enhance your athletic look.
+  Updated: 2025-10-30T23:41:40Z
   Vendor: Bask & Weave
   Product Type: Tank Top
   Availability: Available
@@ -3522,8 +3522,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-muscle-shirt-black-front-678e4dbcde54e.jpg?v=1740360676
     Price: $33.50 USD
-- [Men's 3/4 Sleeve Raglan Shirt](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt): A stylish spin on the classic baseball raglan. The combed cotton blend makes it super soft, comfortable, and lightweight. • All solid colors are 100% ring-spun cotton • Heather Grey color is 90% cotton, 10% polyester • Heather Denim color is 50% cotton, 50% polyester • Fabric weight: 4.5 oz/yd² (152.6 g/m²) • Fine knit jersey • 30 singles • ¾ sleeves • Contrast raglan sleeve • Unhemmed bottom • Reactive-dyed for longer-lasting color • Prewashed to minimize shrinkage • Tear away label • Blank product sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) XS 66 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 78.7 66
-  Updated: 2025-10-29T23:03:59Z
+- [Men's Raglan Shirt – 3/4 Sleeve Baseball Tee for Men](https://baskandweave.com/products/mens-3-4-sleeve-raglan-shirt): Shop men's raglan shirts with 3/4 sleeves for a classic sporty look. Perfect for casual wear or workouts, these soft cotton tees offer comfort and style.
+  Updated: 2025-10-30T23:42:21Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3728,8 +3728,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-34-sleeve-raglan-shirt-white-navy-front-678e4edccb09f.jpg?v=1740366104
     Price: $29.50 USD
-- [Men's Fitted Long Sleeve Shirt](https://baskandweave.com/products/mens-long-sleeve-fitted-crew): This super-soft crew shirt is a good choice if you're looking for a classic long sleeve t-shirt. • 100% combed ringspun cotton • Fabric weight: 4.3 oz/yd² (149.2 g/m²) • 32 singles • Fabric laundered • Set-in 1 × 1 baby rib collar • Tear away label • Blank product sourced from Nicaragua or Cambodia This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) FRONT LENGTH (cm) S 94 71.1 M 101.6 73.7 L 109.2 76.2 XL 119.4 78.7 2XL 129.5 81.3
-  Updated: 2025-10-29T23:03:59Z
+- [Men's Fitted Long Sleeve Shirt – Stylish Slim Fit Comfort](https://baskandweave.com/products/mens-long-sleeve-fitted-crew): Shop men's fitted long sleeve shirts crafted for modern style and comfort. Perfect for layering or solo wear, these slim-fit shirts elevate any outfit.
+  Updated: 2025-10-30T23:42:56Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3754,8 +3754,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Fitted_Long_Sleeve_Shirt.jpg?v=1740364756
     Price: $35.50 USD
-- [Men's Long Sleeve Tee (full sleeve t shirt)](https://baskandweave.com/products/mens-long-sleeve-tee): Enrich your wardrobe with a versatile long sleeve tee (full sleeve t shirt). For a casual look, combine it with your favorite jeans, and layer it with a button-up shirt, a zip-up hoodie, or a snazzy jacket. Dress it up with formal trousers or chinos to achieve a more professional look.• 100% airlume combed ring-spun cotton• Heather colors are 52% combed and ring-spun cotton, 48% polyester• Athletic Heather is 90% combed and ring-spun cotton, 10% polyester• Fabric weight: 4.2 oz./yd.² (142.4 g/m²)• 32 singles• Regular fit• Side-seamed construction• Crew neck• Cover-stitched collar• 2″ (5 cm) ribbed cuffs• Blank product sourced from Nicaragua, Honduras, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide SHIRT LENGTH (cm) CHEST WIDTH (cm) CHEST TO FIT (cm) SLEEVE LENGTH (cm) XS 68.6 42 78.7-86.4 63.5 S 71.1 45.7 86.4-94 65 M 73.7 50.8 96.5-104.1 66.6 L 76.2 55.9 106.7-114.3 68.3 XL 78.7 61 116.8-124.5 69.9 2XL 81.3 66 127-134.6 71.4
-  Updated: 2025-10-29T23:04:00Z
+- [Men's Long Sleeve T-Shirt – Stylish Full Sleeve Tee for Men](https://baskandweave.com/products/mens-long-sleeve-tee): Shop men's long sleeve t-shirts made for comfort and durability. These full sleeve tees are perfect for layering, workouts, or casual everyday wear.
+  Updated: 2025-10-30T23:43:55Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -3960,8 +3960,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-long-sleeve-tee-heather-navy-front-678e5100f3e11.jpg?v=1737380244
     Price: $31.00 USD
-- [Fitted Long Sleeve Men's Shirt](https://baskandweave.com/products/long-sleeve-fitted-crew-mens): This super-soft crew shirt is a good choice if you're looking for a classic long sleeve t-shirt. • 100% combed ringspun cotton • Fabric weight: 4.3 oz/yd² (149.2 g/m²) • 32 singles • Fabric laundered • Set-in 1 × 1 baby rib collar • Tear away label • Blank product sourced from Nicaragua or Cambodia This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) FRONT LENGTH (cm) S 94 71.1 M 101.6 73.7 L 109.2 76.2 XL 119.4 78.7 2XL 129.5 81.3
-  Updated: 2025-10-29T23:04:00Z
+- [Fitted Long Sleeve Men's Shirt – Stylish Slim Fit Tee](https://baskandweave.com/products/long-sleeve-fitted-crew-mens): Shop fitted long sleeve men's shirts crafted for comfort and a modern fit. Ideal for casual outings or office wear, these shirts bring effortless style.
+  Updated: 2025-10-30T23:45:31Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -3986,8 +3986,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Fitted_Long_Sleeve_Men_s_Shirt.jpg?v=1740377451
     Price: $35.50 USD
-- [Long Sleeve Fitted Crew (Men's)](https://baskandweave.com/products/long-sleeve-fitted-crew-mens-1): This super-soft crew shirt is a good choice if you're looking for a classic long sleeve t-shirt.• 100% combed ringspun cotton• Fabric weight: 4.3 oz/yd² (149.2 g/m²)• 32 singles• Fabric laundered• Set-in 1 × 1 baby rib collar• Tear away label• Blank product sourced from Nicaragua or CambodiaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST (cm) FRONT LENGTH (cm) S 94 71.1 M 101.6 73.7 L 109.2 76.2 XL 119.4 78.7 2XL 129.5 81.3
-  Updated: 2025-10-29T23:04:00Z
+- [Men's Fitted Long Sleeve Shirt – Classic Crew Neck Tee](https://baskandweave.com/products/long-sleeve-fitted-crew-mens-1): Shop men's fitted long sleeve shirts designed with a classic crew neck. Perfect for layering or casual wear, these soft cotton tees offer a sleek, modern fit.
+  Updated: 2025-10-30T23:46:05Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -4027,8 +4027,8 @@
   - [Heavy Metal / 2XL](https://baskandweave.com/products/long-sleeve-fitted-crew-mens-1?variant=47065213698298)
     Availability: Available
     Price: $35.50 USD
-- [Men’s Long Sleeve Shirt](https://baskandweave.com/products/men-s-long-sleeve-shirt): A good long-sleeved shirt or sweatshirt is a men's fashion must-have. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit.• 100% cotton• Sport Grey is 90% cotton, 10% polyester• Classic fit with long sleeves and rib cuffs• Pre-shrunk jersey knit• Seamless double-needle 7⁄8'' (2.2 cm) collar• Double-needle bottom hem• Taped neck and shoulders• Quarter-turned to avoid crease down the middleThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1 4XL 86.4 76.2
-  Updated: 2025-10-29T23:04:00Z
+- [Men's Long Sleeve Dress Shirt – Classic Formal Wear for Men](https://baskandweave.com/products/men-s-long-sleeve-shirt): Shop men's long sleeve dress shirts made with premium fabric for comfort and style. Perfect for office, events, or casual wear with a polished look.
+  Updated: 2025-10-30T23:46:45Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -4233,8 +4233,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-long-sleeve-shirt-indigo-blue-front-678e5325a8ae5.jpg?v=1737380820
     Price: $29.50 USD
-- [Men's Garment-Dyed Heavyweight Long Sleeve Shirt](https://baskandweave.com/products/garment-dyed-mens-heavyweight-long-sleeve-shirt): Enjoy ultimate comfort with this garment-dyed shirt, crafted from durable heavyweight fabric and dyed for a lived-in look. The dyeing technique ensures the shirt is pre-shrunk to maintain its shape no matter how many times you wash it.• 100% soft ring-spun cotton• Fabric weight: 6.1 oz./yd.² (206.8 g/m²)• Relaxed fit• Garment-dyed, pre-shrunk fabric• Topstitched, classic width collar• Twill-taped neck and shoulders for comfort and durability• Rib cuffs• Shoulder-to-shoulder twill tape• Signature twill label• Blank product sourced from HondurasThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 67.6 78.7-86.4 81 M 71.1 86.4-94 85.7 L 75.6 96.5-104.1 93.7 XL 78.1 106.7-114.3 94.6 2XL 80.3 116.8-124.5 98.4 3XL 82.6 127-134.6 101
-  Updated: 2025-10-29T23:04:00Z
+- [Men's Heavyweight Long Sleeve Shirt – Garment-Dyed Comfort](https://baskandweave.com/products/garment-dyed-mens-heavyweight-long-sleeve-shirt): Shop men's heavyweight long sleeve shirts designed for lasting comfort and style. This garment-dyed tee offers durability, softness, and a premium vintage feel.
+  Updated: 2025-10-30T23:47:22Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -4407,8 +4407,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-left-front-678e53f8e8096.jpg?v=1737380946
     Price: $36.50 USD
-- [Men's Premium Heavyweight Long Sleeve Shirt](https://baskandweave.com/products/mens-premium-heavyweight-long-sleeve-shirt): Freshen up your wardrobe with this modern, premium long sleeve shirt. Its heavyweight fabric and relaxed fit ensure it’s not just any sweatshirt but your go-to for every occasion. Wrap yourself in the comfort of 100% carded cotton and make your everyday style look effortless.• 100% carded cotton• Fabric weight: 8.2 oz./yd.² (278 g/m²) • Yarn diameter: 26 singles• Relaxed fit• Side-seamed construction• Wide neck and cuff ribbing• Double-needle stitch on hems• Preshrunk to minimize shrinkage• Blank product sourced from BangladeshThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) S 70.5 96.5-104.1 M 73.7 106.7-114.3 L 76.2 116.8-124.5 XL 79.4 127-132 2XL 82.6 134.6-139.7 3XL 85 142.2-149.9
-  Updated: 2025-10-29T23:04:00Z
+- [Men's Heavyweight Long Sleeve Shirt – Premium Durable Tee](https://baskandweave.com/products/mens-premium-heavyweight-long-sleeve-shirt): Shop the Men's Heavyweight Long Sleeve Shirt for superior comfort and long-lasting wear. This premium durable tee is perfect for both casual and active styles.
+  Updated: 2025-10-30T23:48:27Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -4557,8 +4557,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-heavyweight-long-sleeve-shirt-ecru-front-678e54b245688.jpg?v=1737381134
     Price: $45.00 USD
-- [Men's Embroidered Staple T-Shirt](https://baskandweave.com/products/mens-embroidered-t-shirt): Everyone needs the perfect t-shirt to complement an everyday, laid-back look. The ideal top for so many occasions, this lightweight cotton tee will keep you comfy and looking smart. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8 4XL 86.4 76.2 147.3-155 5XL 89 78.7 157.5-165
-  Updated: 2025-10-29T23:04:01Z
+- [Men's Embroidered T-Shirt – Stylish Custom Staple Tee](https://baskandweave.com/products/mens-embroidered-t-shirt): Shop the Men's Embroidered T-Shirt for a sleek and timeless look. This stylish custom staple tee offers premium comfort and refined embroidery for everyday wear
+  Updated: 2025-10-30T23:49:21Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -4763,8 +4763,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-dark-grey-heather-zoomed-in-6790e7a57298d.jpg?v=1737549866
     Price: $27.00 USD
-- [Men's Garment-Dyed Heavyweight Embroidered T-Shirt](https://baskandweave.com/products/mens-garment-dyed-heavyweight-embroidered-t-shirt): If you’re looking for a thick, structured tee that’s also super soft and breathable—look no further! The unisex garment-dyed heavyweight t-shirt ticks all the boxes and is made of 100% ring-spun cotton. The regular t-shirt style will complement most looks and fit you to a tee. • 100% ring-spun cotton • Fabric weight: 6.1 oz/yd² (206.8 g/m²) • Garment-dyed • Relaxed fit • 7/8″ double-needle topstitched collar • Twill-taped neck and shoulders for extra durability • Double-needle armhole, sleeve, and bottom hems • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) SLEEVE CENTER BACK (cm) S 46.4 67.6 41.3 M 51.4 71.1 45 L 55.9 74.6 48.3 XL 61 78.1 52 2XL 66 80.3 55.3 3XL 70.5 82.6 59 4XL 75.6 85 62.6
-  Updated: 2025-10-29T23:04:01Z
+- [Men's Heavyweight Embroidered T-Shirt - Garment-Dyed](https://baskandweave.com/products/mens-garment-dyed-heavyweight-embroidered-t-shirt): Shop men's heavyweight embroidered t-shirt with garment-dyed color and premium stitch detailing. Soft, durable fabric for comfort and elevated style.
+  Updated: 2025-10-30T23:50:46Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -4969,8 +4969,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-heavyweight-t-shirt-moss-front-3-6790e8980e94b.jpg?v=1737550021
     Price: $34.50 USD
-- [Men's Oversized Faded Embroidered T-Shirt](https://baskandweave.com/products/mens-oversized-faded-embroidered-t-shirt): Embrace the versatility of the Oversized faded t-shirt, designed for those who appreciate the art of layering and creating unique outfits that effortlessly fuse modern trends with a hint of nostalgia. Its loose fit allows you to play with textures and proportions, giving you the freedom to express your personality through your style. • 100% carded cotton • Fabric weight: 7.1 oz. /yd. ² (240 g/m²) • Garment-dyed, pre-shrunk fabric • Boxy, oversized fit • Dropped shoulders • Wide neck ribbing • Tear-away label • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 70.5 99 23 M 74 109.2 24 L 77.5 119.4 24 XL 81 129.5 26 2XL 84.5 139.7 27 3XL 86.5 149.9 28
-  Updated: 2025-10-29T23:04:01Z
+- [Men's Oversized T-Shirt - Faded Embroidered Casual Tee](https://baskandweave.com/products/mens-oversized-faded-embroidered-t-shirt): Shop men's oversized t-shirt featuring a trendy faded embroidered design. Soft cotton comfort meets casual streetwear style for an effortlessly bold look.
+  Updated: 2025-10-30T23:51:29Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5071,8 +5071,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-6790e92e9c1bc.jpg?v=1737550260
     Price: $46.50 USD
-- [Men's Staple Embroidered T-Shirt (made in the USA)](https://baskandweave.com/products/mens-t-shirt-embroidered): Experience the best of American-made quality and style with this t-shirt. Get yours today and show your patriotism in style!• Solid colors are 100% Airlume combed and ring-spun cotton (Heather colors contain polyester)• Fabric weight: 4.2 oz./yd.² (142 g/m²)• Pre-shrunk fabric• Side-seamed construction• Shoulder-to-shoulder taping• Blank product sourced from the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-29T23:04:01Z
+- [Men's Embroidered T-Shirt USA - Premium Staple Tee Made Here](https://baskandweave.com/products/mens-t-shirt-embroidered): Discover the perfect men's embroidered t-shirt USA made. Crafted for comfort and durability, this premium staple tee adds timeless style to your everyday wear.
+  Updated: 2025-10-30T23:54:51Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5221,8 +5221,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $39.00 USD
-- [Men's Lightweight Embroidered T-Shirt](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt): This thick cotton t-shirt makes for a go-to wardrobe staple! It's comfortable, soft, and its tubular construction means it's less fitted. • 100% ring-spun cotton • Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester) • Fabric weight: 4.3 oz/yd² (145.79 g/m²) • Pre-shrunk • Shoulder-to-shoulder taping • Double-stitched sleeves and bottom hem • Blank product sourced from Haiti, Honduras, Mexico, or Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 69.9 45.7 M 73 50.8 L 75.6 55.9 XL 78.1 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-29T23:04:01Z
+- [Men's Lightweight Embroidered T-Shirt - Soft Premium Tee](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt): Our men's lightweight embroidered t-shirt combines breathability and style. This soft premium tee offers everyday comfort and a refined, modern look you'll love
+  Updated: 2025-10-30T23:53:57Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5371,8 +5371,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-lightweight-t-shirt-white-front-6790ebef879eb.jpg?v=1737551127
     Price: $37.00 USD
-- [Men's Premium Polo Embroidered Shirt](https://baskandweave.com/products/mens-premium-polo-embroidered): A classic piece that never goes out of style, this Port Authority embroidered polo has it all—relaxed fit, silky fabric, and a comfortable length. Get one for yourself and watch how it becomes a true outfit game-changer in your wardrobe. • 65% polyester, 35% cotton pique • Fabric weight: 5.0 oz/yd² (169.5 g/m²) • Relaxed fit that runs large • Flat knit collar and cuffs • Metal buttons with dyed-to-match plastic rims • Side vents for breathability • Blank product sourced from Ethiopia This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (cm) B (cm) C (cm) S 73.7 102.9 50.8 M 76.2 108 52.7 L 78.7 118.1 53.3 XL 81.3 125.7 55.9 2XL 83.8 137.2 57.2 3XL 85 144.8 58.4 4XL 86.4 152.4 59.7 5XL 87.6 160 61
-  Updated: 2025-10-29T23:04:01Z
+- [Embroidered Polo Shirt for Men – Premium Quality & Style](https://baskandweave.com/products/mens-premium-polo-embroidered): Upgrade your wardrobe with our premium embroidered polo shirt for men. Made from soft, durable fabric for lasting comfort—perfect for casual or smart occasions.
+  Updated: 2025-10-30T23:56:36Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
