@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-10-30T00:00:52.495Z
+- Updated At: 2025-10-31T00:01:22.518Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-10-29T11:23:11Z
+  Updated: 2025-10-30T11:21:32Z
   Total Products: 4
 
 ## Blogs
@@ -80,6 +80,10 @@
     Updated: 2025-10-23T00:04:02Z
     Author: Up Creatine Gummies
     Tags: Creatine Gummies Support Muscle Repair
+  - [Up Creatine Gummies  | Vegan, Sugar-Free, and Gluten-Free: Creatine Gummies That Fit Your Lifestyle](https://upcreatinegummies.com.au/blogs/read-up/vegan-sugar-free-gluten-free-creatine-gummies): Up Creatine Gummies  | Vegan, Sugar-Free, and Gluten-Free: Creatine Gummies That Fit Your Lifestyle
+    Updated: 2025-10-30T00:06:00Z
+    Author: Up Creatine Gummies
+    Tags: Vegan Creatine Gummies
 
 ## Store Pages
 
