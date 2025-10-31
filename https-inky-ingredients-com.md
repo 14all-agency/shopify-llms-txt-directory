@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-31T16:01:04.020Z
+- Updated At: 2025-10-31T20:00:40.583Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -253,7 +253,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £403.20 GBP
 - [Strawberry Seed Oil, Cold Pressed](https://inky-ingredients.com/products/strawberry-seed-oil-cold-pressed): Cold-pressed from strawberry seeds, this oil is rich in antioxidants and essential fatty acids. With a light texture, it nourishes and moisturises the skin, making it a valuable addition to skincare formulations.
-  Updated: 2025-10-05T14:17:05Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -631,7 +631,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £840.00 GBP
 - [Rose Water (Hydrolat)](https://inky-ingredients.com/products/rose-water-hydrolat): Rose Water, a hydrolat produced during steam distillation of rose petals, is a gentle and fragrant toner for the skin. Known for its soothing properties, it refreshes and hydrates, making it a popular addition to skincare routines for a radiant complexion.
-  Updated: 2025-10-27T17:30:20Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -700,7 +700,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,116.00 GBP
 - [Nutmeg, Essential Oil](https://inky-ingredients.com/products/nutmeg-essential-oil): Nutmeg Essential Oil, derived from Myristica fragrans seeds, offers a warm and spicy aroma. Known for its comforting qualities, it is frequently used in aromatherapy to create a cozy atmosphere and is appreciated for its potential therapeutic benefits.
-  Updated: 2025-10-29T11:14:17Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1357,7 +1357,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £612.00 GBP
 - [Bergamot (Furocoumarin Free), Essential Oil (COSMOS Natural)](https://inky-ingredients.com/products/bergamot-fcf-furocoumarin-free-essential-oil): Natural Bergamot FCF Essential Oil, devoid of furocoumarins, preserves the essence of bergamot's citrusy fragrance. Ideal for natural product formulations, it offers a fresh and aromatic profile to various applications.
-  Updated: 2025-10-31T12:15:11Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1762,7 +1762,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £31.50 GBP
 - [Batana (Ojon) Oil, Cold Pressed](https://inky-ingredients.com/products/batana-ojon-oil-cold-pressed): Please note: 100% pure Batana oil is heavier and richer in texture than other popular oils and can have a solid, paste-like consistency at cooler temperatures. In warmer conditions, it becomes a liquid. Packaging may vary depending on its state at the time of filling.Its orange-red hue is representative of its purity and nutrient-rich profile. Because it’s a natural ingredient, slight variations in colour and texture may occur - these are signs of authenticity and do not affect the quality or benefits of the oil.Unveil the magic of Batana Oil, a nourishing treasure from the rainforests. Packed with essential fatty acids and antioxidants, it deeply restores hair and skin, revealing their natural beauty. Embrace radiance!
-  Updated: 2025-10-31T09:02:45Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2053,7 +2053,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £132.00 GBP
 - [Tamanu Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/tamanu-seed-oil-cold-pressed-organic): Organic, cold-pressed tamanu seed oil. With its natural healing properties, it's a sought-after ingredient in skincare formulations, offering deep moisturisation and supporting the skin's overall well-being.
-  Updated: 2025-10-31T12:15:11Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3052,7 +3052,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £402.00 GBP
 - [Marjoram Sweet, Essential Oil](https://inky-ingredients.com/products/marjoram-sweet-essential-oil): Sweet Marjoram Essential Oil exudes a warm and herbaceous aroma. It's cherished for its calming and relaxing properties, making it a popular choice for aromatherapy and promoting a sense of tranquility.
-  Updated: 2025-10-24T07:38:45Z
+  Updated: 2025-10-31T17:53:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5239,7 +5239,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £77.82 GBP
 - [Tomato Seed Oil, Cold Pressed](https://inky-ingredients.com/products/tomato-seed-oil-cold-pressed): Cold-pressed from tomato seeds, this oil is a rich source of antioxidants and essential fatty acids. Tomato Seed Oil nourishes the skin, promoting a youthful complexion and providing natural support for skincare formulations.
-  Updated: 2025-10-21T09:57:42Z
+  Updated: 2025-10-31T17:53:15Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6430,7 +6430,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £25.14 GBP
 - [Yarrow, Essential Oil](https://inky-ingredients.com/products/yarrow-essential-oil): Yarrow Essential Oil, extracted from the flowering herb, offers a herbaceous and sweet aroma. Renowned for its calming properties, it makes a valuable addition to aromatherapy, promoting relaxation and mental well-being.
-  Updated: 2025-10-29T11:14:22Z
+  Updated: 2025-10-31T18:54:30Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
