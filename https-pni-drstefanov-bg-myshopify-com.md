@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-31T16:00:50.500Z
+- Updated At: 2025-11-01T00:00:55.743Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -17,14 +17,14 @@
 ## Collections
 
 - [Всичко за кучето - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kucheta): Продукти за кучета – храна, аксесоари, играчки, грижа за здравето и много други. Всичко за вашия любимец на едно място в зоомагазин Д-р Стефанов.
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 7135
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 7134
 - [Храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kucheta): Качествена храна за кучета - суха храна, паучове, консерви, barf храни и много други предложения. Разгледайте в зоомагазин Д-р Стефанов още сега.
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 1533
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 1532
 - [Суха храна и гранули за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kucheta): Открийте висококачествени гранули за кучета – пълноценна храна за всяка порода и възраст. Богат избор от марки с бърза доставка и гарантирано качество.
-  Updated: 2025-10-31T14:44:24Z
-  Total Products: 879
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 878
 - [Сурова храна BARF за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/barf-hrani): Открийте висококачествена сурова храна BARF за кучета. Здравословен избор за силен имунитет и енергия от зоомагазин Д-р Стефанов.
   Updated: 2025-10-29T06:47:07Z
   Total Products: 52
@@ -567,8 +567,8 @@
   Updated: 2025-10-16T20:49:44Z
   Total Products: 5
 - [Reduced](https://pni-drstefanov-bg.myshopify.com/collections/reduced)
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 293
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 292
 - [Постелки за котешка тоалетна - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/postelki-za-toaletna): Постелки с висока абсорбция и контрол на миризмите за котешки тоалетни. Поръчайте ефективна грижа още днес бързо и лесно онлайн с доставка от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-29T11:31:07Z
   Total Products: 99
@@ -627,8 +627,8 @@
   Updated: 2025-10-31T13:19:30Z
   Total Products: 11940
 - [Храни и лакомства за домашни любимци Essential foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-1): Essential Foods създава храни, близки до естествената диета на домашния ви любимец. Пазарувайте от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-31T12:00:58Z
-  Total Products: 60
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 59
 - [Храни за домашни любимци Petkult](https://pni-drstefanov-bg.myshopify.com/collections/petkult-1): Petkult се фокусира върху натурални съставки, без изкуствени добавки. Открийте здравословната храна Petkult и поръчайте с бърза доставка!
   Updated: 2025-10-31T11:41:06Z
   Total Products: 74
@@ -702,14 +702,14 @@
   Updated: 2025-10-26T11:25:40Z
   Total Products: 20
 - [Продукти с намалена цена](https://pni-drstefanov-bg.myshopify.com/collections/sale): Отлични оферти и стоки с временно намалени цени. Спестете пари, без да правите компромис с качеството - пазарувайте изгодно с Зоомагазин д-р Стефанов.
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 14
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 13
 - [Най-продавани](https://pni-drstefanov-bg.myshopify.com/collections/best-selling-collection): Вижте кои са най-търсените храни, аксесоари и консумативи, които клиентите на Д-р Стефанов харесват най-много. Изберете доказано качество и поръчайте сега!
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 12236
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 12235
 - [Нови продукти](https://pni-drstefanov-bg.myshopify.com/collections/new-products): Бъдете първите, които виждат най-новите и иновативни храни, играчки и аксесоари, добавени в асортимента на Д-р Стефанов. Открийте сега и направете поръчка!
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 12236
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 12235
 - [Промоционални оферти](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
   Updated: 2025-10-31T09:31:59Z
   Total Products: 0
@@ -762,8 +762,8 @@
   Updated: 2025-10-26T11:41:39Z
   Total Products: 77
 - [Discount for products except vouchers](https://pni-drstefanov-bg.myshopify.com/collections/discount-for-products-except-vouchers)
-  Updated: 2025-10-31T15:00:56Z
-  Total Products: 12233
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 12232
 - [8 in 1](https://pni-drstefanov-bg.myshopify.com/collections/8-in-1)
   Updated: 2025-10-30T11:35:12Z
   Total Products: 16
@@ -1032,8 +1032,8 @@
   Updated: 2025-10-31T09:31:28Z
   Total Products: 70
 - [Essential Foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods)
-  Updated: 2025-10-31T12:00:58Z
-  Total Products: 60
+  Updated: 2025-10-31T22:00:25Z
+  Total Products: 59
 - [Eukanuba](https://pni-drstefanov-bg.myshopify.com/collections/eukanuba)
   Updated: 2025-10-29T12:52:39Z
   Total Products: 25
