@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-11-01T00:00:47.371Z
+- Updated At: 2025-11-01T04:00:38.419Z
 
 ## Products
 
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Owala_SmoothSip_Watermelon_Breeze-20oz_a7c89969-143e-4cb2-8de5-9808f6dfc2f4.webp?v=1760414248
     Price: $49.99 NZD
 - [Owala SmoothSip Slider Coffe Mug  | NZ](https://www.owalalife.co.nz/products/smoothsip-slider): Owala SmoothSip Slider coffee mugs in two sizes, 355ml & 590ml. Durable stainless steel construction and insulation, keeps drinks hot or cold for longer.
-  Updated: 2025-10-31T02:07:06Z
+  Updated: 2025-11-01T02:38:51Z
   Vendor: Owalalife
   Product Type: SMOOTHSIP SLIDER
   Availability: Available
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07200-40-oz.CalmWatersTumbler-SC.jpg?v=1760499778
     Price: $79.99 NZD
 - [Owala Kid's Tumbler - Polypropylene | NZ](https://www.owalalife.co.nz/products/kids-tumbler-polypropylene): Parents, tired of mess? Our spill-resistant, BPA-free Owala plastic kids tumbler with straw keeps drinks contained. Easy to clean. Order now.
-  Updated: 2025-10-31T05:04:35Z
+  Updated: 2025-11-01T03:46:06Z
   Vendor: My Store
   Product Type: TUMBLER KIDS
   Availability: Available
@@ -177,7 +177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07292-15-oz.TumblerSkatePark-SC.jpg?v=1760414391
     Price: $24.99 NZD
 - [Owala Kids FreeSip Waterbottle | NZ](https://www.owalalife.co.nz/products/kids-freesip): Owala Kids FreeSip waterbottle, fun, colourful and easy to use. Built-in straw, spill-resistant design and a perfect size for school or play. Available now.
-  Updated: 2025-10-30T20:18:50Z
+  Updated: 2025-11-01T00:31:06Z
   Vendor: My Store
   Product Type: FREESIP KIDS
   Availability: Available
@@ -370,7 +370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1760489350
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-10-31T23:39:01Z
+  Updated: 2025-11-01T03:50:16Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
