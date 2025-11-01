@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-31T08:00:53.840Z
+- Updated At: 2025-11-01T00:00:38.843Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-10-23T21:40:25Z
+  Updated: 2025-10-31T21:18:28Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -501,7 +501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-LODEN-GREEN.jpg?v=1757517170
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric-2): Discover luxurious Soft Velvet Fabric at Fabrics Star. Perfect for a variety of sewing projects, this fabric offers both elegance and comfort.
-  Updated: 2025-10-23T20:16:59Z
+  Updated: 2025-10-31T18:28:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -6365,7 +6365,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MILTON-PINK.jpg?v=1757518371
     Price: $1.00 USD
 - [MINIRAL Jacquard Metallic Fabric, 54 Inch. in Width](https://fabricsstar.com/products/miniral)
-  Updated: 2025-10-23T20:17:26Z
+  Updated: 2025-10-31T13:11:50Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -9628,13 +9628,13 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-30T11:18:55Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-10-28T15:17:09Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
   Updated: 2025-10-28T14:39:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-30T11:18:55Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-30T11:18:55Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-10-28T15:17:09Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-30T11:18:55Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-30T11:18:55Z
+  Updated: 2025-10-31T11:12:58Z
   Total Products: 666
 
 ## Blogs
@@ -9744,6 +9744,8 @@
   Updated: 2024-12-18T09:34:11Z
 - [affiliate-registration-page](https://fabricsstar.com/pages/affiliate_registration_page)
   Updated: 2025-03-19T17:42:39Z
+- [HTML Sitemap](https://fabricsstar.com/pages/html-sitemap)
+  Updated: 2025-10-31T18:19:37Z
 
 ## Policies
 
