@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-20T22:12:33Z
 - Contact Email: attikkwear@gmail.com
-- Updated At: 2025-11-01T12:00:37.031Z
+- Updated At: 2025-11-01T16:00:36.489Z
 
 ## Products
 
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa0a192b54cb742cfadbd18a6bdff1a75P.webp?v=1756169213
     Price: $33.99 USD
 - [Super High Platform Wedged Slip On Sandal  | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/aneikeh-wedges-heel-women-slippers-fashion-open-toe-platform-sandals-summer-super-high-heels-female-party-shoes-size-35-42): High Wedge Platform Sandals for Women - Slip-On Party Heels with Back Strap
-  Updated: 2025-10-27T06:10:58Z
+  Updated: 2025-11-01T15:25:08Z
   Vendor: ATTIK WEAR
   Product Type: platforms
   Availability: Available
@@ -1310,7 +1310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb12989dfdf3a44bc843ba87756cd934da.webp?v=1756827330
     Price: $23.99 USD
 - [Stardust Black Heels - Elegant Women's Sandals | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/stardust-black-heels-elegant-womens-sandals): Shop Stardust Black Heels for women. Elegant sandals with thin heels, perfect for parties and formal occasions. Enjoy comfort and style!
-  Updated: 2025-10-27T06:07:44Z
+  Updated: 2025-11-01T15:23:56Z
   Vendor: ATTIKK WEAR
   Product Type: Stilettos
   Availability: Available
@@ -1685,7 +1685,7 @@
     Availability: Available
     Price: $43.25 USD
 - [Vintage Saddle Crossbody Bag - Timeless Fashion](https://attikk-wear.myshopify.com/products/vintage-saddle-crossbody-bag): Shop the Vintage Saddle Crossbody Bag, a chic blend of vintage style and modern utility. Perfect for any occasion, this bag complements any outfit.
-  Updated: 2025-10-26T20:44:43Z
+  Updated: 2025-11-01T15:19:51Z
   Vendor: ATTIK WEAR
   Product Type: Purse
   Availability: Available
@@ -2466,7 +2466,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $11.10 USD
 - [Chic Faux Leather Tote Bag for Women - Stylish & Functional](https://attikk-wear.myshopify.com/products/chic-faux-leather-tote-bag-women-17): Discover the Chic Faux Leather Tote Bag for Women, a perfect blend of style and functionality. Ideal for daily use, this 17" tote features ample storage and classic design.
-  Updated: 2025-10-26T20:48:45Z
+  Updated: 2025-11-01T15:17:05Z
   Vendor: ATTIK WEAR
   Product Type: Purse
   Availability: Available
@@ -2477,7 +2477,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $23.85 USD
   - [Beige](https://attikk-wear.myshopify.com/products/chic-faux-leather-tote-bag-women-17?variant=42624093192253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S964ea3628c2a4cedb23b0ede6fb2c356n.webp?v=1759567350
     Price: $23.85 USD
   - [Watermelon red](https://attikk-wear.myshopify.com/products/chic-faux-leather-tote-bag-women-17?variant=42624093225021)
     Availability: Available
@@ -2488,11 +2487,11 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdc65106c6b7a4627800e456f17759b85w.webp?v=1759567351
     Price: $23.85 USD
 - [Simple Fashion Mini Square Women Crossbody Bags 2024 Luxury Designer Purses And Handbags Box Shape Pure Color Shoulder Satchels- 18 | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/simple-fashion-mini-square-women-crossbody-bags-2024-luxury-designer-purses-and-handbags-box-shape-pure-color-shoulder-satchels-18): Moods Boutique Women's Mini Square Crossbody Bag - PU Leather Box Style with Hasp Closure, Versatile Solid Color Design, 20x12x9cm Compact Size
-  Updated: 2025-10-25T21:34:00Z
+  Updated: 2025-11-01T15:17:05Z
   Vendor: ATTIK WEAR
   Product Type: Purse
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S58e64f236687429da6fc180c816734f1o.webp?v=1759567393
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S6b2173ca646d49fe9425f3b4812d3272E.webp?v=1759567393
   - [Style 2 Black / 20x12x9cm](https://attikk-wear.myshopify.com/products/simple-fashion-mini-square-women-crossbody-bags-2024-luxury-designer-purses-and-handbags-box-shape-pure-color-shoulder-satchels-18?variant=42624094634045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Se429656c4b994ea2b1491d40c346ed15Z.webp?v=1759567393
@@ -2559,7 +2558,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S46e3aab2fe214d75a4bfdfa83d1b5cc9D.webp?v=1759567436
     Price: $25.17 USD
 - [Fashion PU Leather Backpack for Women Vintage Rucksack Casual Back Bag Shoulder Bag Retro Handbag Purse Stylish Retro Daypack- 20 | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/fashion-pu-leather-backpack-for-women-vintage-rucksack-casual-back-bag-shoulder-bag-retro-handbag-purse-stylish-retro-daypack-20): Vintage Soft-Back Unisex Travel Backpack - 36-55L PU Polyester, Breathable Anti-Theft Design with Rain Cover, Retro Casual Daypack. Multiple Compartments in Gray/Pink/Black/Brown
-  Updated: 2025-10-25T21:33:59Z
+  Updated: 2025-11-01T15:15:59Z
   Vendor: ATTIK WEAR
   Product Type: Bags
   Availability: Available
@@ -2751,25 +2750,22 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2e902330bdd945428e5ad1657ea88a88R.webp?v=1759568296
     Price: $58.00 USD
 - [Stylish Casual Tote Bag, Large Capacity PU Leather Handbag Women Wing Bag, Fashionable Woman Bags, Commuting Shoulder Armpit Bag-30 | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30): Unisex Soft Tote Bag - Versatile All-Season Shoulder & Handbag with Open Pocket.  Spacious Commuter Shoulder Bag
-  Updated: 2025-10-25T21:25:19Z
+  Updated: 2025-11-01T15:14:29Z
   Vendor: ATTIK WEAR
   Product Type: Purse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S8a8064878b9e4c00b0f230ea72efc900z.webp?v=1759568361
   - [Brown](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30?variant=42624103448637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S29e185274947420f9afddeb5bc4cd0cdS_101961be-eaba-4c4e-b1b8-0e39896283aa.webp?v=1759568361
     Price: $37.00 USD
   - [Khaki](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30?variant=42624103481405)
     Availability: Available
     Price: $37.00 USD
   - [Black](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30?variant=42624103514173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sa8edd064ce414cbebda62b8d7e783661W.webp?v=1759568361
     Price: $37.00 USD
   - [White](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30?variant=42624103546941)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S2713e12733994313b2fe31d1b4430f3eU.webp?v=1759568362
     Price: $37.00 USD
   - [Red](https://attikk-wear.myshopify.com/products/stylish-casual-tote-bag-large-capacity-pu-leather-handbag-women-wing-bag-fashionable-woman-bags-commuting-shoulder-armpit-bag-30?variant=42624103579709)
     Availability: Available
@@ -2797,7 +2793,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3de049f6124943cea265058f83dbf273O.webp?v=1759568416
     Price: $36.78 USD
 - [Luxury Women's Designer Handbag - 22 | Stylish & Practical](https://attikk-wear.myshopify.com/products/luxury-womens-designer-handbag-22): Discover the Luxury Women's Designer Handbag - 22. A perfect blend of style and functionality with spacious pockets and versatile carrying options.
-  Updated: 2025-10-26T20:51:39Z
+  Updated: 2025-11-01T15:14:30Z
   Vendor: ATTIK WEAR
   Product Type: Bags
   Availability: Available
@@ -2840,7 +2836,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $46.50 USD
   - [Purple-3](https://attikk-wear.myshopify.com/products/luxury-womens-designer-handbag-22?variant=42624104955965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf962b3c0c1a84004a90fb8ee47e77420z.webp?v=1759568473
     Price: $46.50 USD
   - [Green-3](https://attikk-wear.myshopify.com/products/luxury-womens-designer-handbag-22?variant=42624104988733)
     Availability: Available
@@ -2860,7 +2855,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $46.50 USD
 - [Glittering Pleated Evening Gown with High Slit and Off-Shoulder Design | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/women-fashion-sliding-shoulder-nightclub-shinny-gowns-pleated-high-split-evening-party-dress-elegant-girdling-gala-sexy-dresses): Slim Fit Strapless Pleated Ankle-Length Dress for Women - Polyester with Slight Stretch, Draped Club Style. Women Fashion Sliding Shoulder Nightclub Shinny Gowns Pleated High Split Evening Party Dress Elegant Girdling Gala Sexy Dresses
-  Updated: 2025-10-27T16:15:18Z
+  Updated: 2025-11-01T15:14:30Z
   Vendor: ATTIK WEAR
   Product Type: formal dresses
   Availability: Available
@@ -2930,7 +2925,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $53.00 USD
 - [Double High Slit Long Maxi Dress | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress): Alluring Black Lace Evening Gown with Deep V-Neck and Thigh Slits. Perfect for a night out
-  Updated: 2025-10-27T16:15:24Z
+  Updated: 2025-11-01T15:11:29Z
   Vendor: ATTIK WEAR
   Product Type: sexy party dresses
   Availability: Available
@@ -2953,7 +2948,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $35.99 USD
   - [army green / XXL](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625481539645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [red / XXL](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625481572413)
     Availability: Available
@@ -3009,11 +3003,9 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $35.99 USD
   - [army green / L](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625481998397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [army green / XL](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482031165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [red / XS（old）](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482063933)
     Availability: Available
@@ -3029,15 +3021,12 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $35.99 USD
   - [army green / XS（old）](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482162237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [army green / S](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482195005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [army green / M](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482227773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S9ec1a52c00ea4848b42779759c9d6dd5Z.webp?v=1759705355
     Price: $35.99 USD
   - [black / XS（old）](https://attikk-wear.myshopify.com/products/sexy-lingerie-porno-exotic-dresses-new-low-cut-v-neck-sleeveless-double-slit-sexy-black-suspender-high-slit-honeymoon-dress?variant=42625482260541)
     Availability: Available
@@ -3094,7 +3083,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S4d61b9dfb1484e068c194f6885c8ed65T.webp?v=1759705476
     Price: $68.00 USD
 - [Sexy Lingerie | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/sexy-lingerie-women-skirt-mini-dress-diamonds-tights-teddies-open-crotch-bodysuit-women-porno-sleepwear-underwear-pink-dress-21): Women's Slim Fit Knit Pullover with Turtleneck and Hollow Out Design
-  Updated: 2025-10-27T02:12:19Z
+  Updated: 2025-11-01T15:11:30Z
   Vendor: ATTIK WEAR
   Product Type: Exotic
   Availability: Available
@@ -3247,64 +3236,52 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $43.00 USD
 - [Buy Slim Black Strapless Cocktail Dress for Effortless Elegance](https://attikk-wear.myshopify.com/products/slim-black-strapless-cocktail-dress): Discover the Slim Black Strapless Cocktail Dress, designed for style and comfort. Perfect for any occasion, it offers a flattering fit and modern elegance.
-  Updated: 2025-10-26T20:51:31Z
+  Updated: 2025-11-01T15:11:31Z
   Vendor: ATTIK WEAR
   Product Type: Casual Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb729720fdd09488a9f83be9e6f0ea345V.webp?v=1759705976
   - [black / S](https://attikk-wear.myshopify.com/products/slim-black-strapless-cocktail-dress?variant=42625493172285)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S13ad801950a44123a546fc6c1125eab59.webp?v=1759705976
     Price: $32.00 USD
   - [black / XS](https://attikk-wear.myshopify.com/products/slim-black-strapless-cocktail-dress?variant=42625493205053)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S13ad801950a44123a546fc6c1125eab59.webp?v=1759705976
     Price: $32.00 USD
   - [black / L](https://attikk-wear.myshopify.com/products/slim-black-strapless-cocktail-dress?variant=42625493237821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S13ad801950a44123a546fc6c1125eab59.webp?v=1759705976
     Price: $32.00 USD
   - [black / M](https://attikk-wear.myshopify.com/products/slim-black-strapless-cocktail-dress?variant=42625493270589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S13ad801950a44123a546fc6c1125eab59.webp?v=1759705976
     Price: $32.00 USD
 - [2025 Summer Women's Fashion Short Boots - High Heels & Versatile | Attikk Wear](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots): Shop the 2025 Summer New Women's Fashion Short Boots for a stylish blend of comfort and sophistication. Perfect for any occasion!
-  Updated: 2025-10-26T19:18:53Z
+  Updated: 2025-11-01T15:07:46Z
   Vendor: ATTIK WEAR
   Product Type: flat boots
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S96e3845248994e77b8ad44887b987e4b4.webp?v=1761325715
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sfc060524b2274048b15867f15feb6cf90.webp?v=1761325715
   - [black / 35](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763486781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 39](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763519549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 38](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763552317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 37](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763585085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 36](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763617853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 42](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763650621)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 41](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763683389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
   - [black / 40](https://attikk-wear.myshopify.com/products/2025-summer-womens-fashion-short-boots?variant=42659763716157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sd5931a16e38d439f921b7ec69c472c89g.webp?v=1761325715
     Price: $36.15 USD
 - [Women's Thick Heel Boots - Stylish & Versatile | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-thick-heel-boots-autumn-winter-british-style): Shop our Women's Thick Heel Boots in British style. Perfect for autumn/winter, these versatile mid-calf boots offer comfort, warmth, and a chic design.
   Updated: 2025-10-27T01:48:58Z
@@ -3355,7 +3332,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S730cecfb991d4ad9baa54eaa6c929f29n.webp?v=1761325749
     Price: $59.99 USD
 - [High Boots Platform Sports Shoes for Women - Comfortable Combat Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/high-boots-platform-sports-shoes-women-elegant-combat-boots): Discover stylish and comfortable High Boots Platform Sports Shoes for women. Perfect for any occasion, these elegant combat boots offer stability and versatility.
-  Updated: 2025-10-27T01:42:14Z
+  Updated: 2025-11-01T15:07:46Z
   Vendor: ATTIK WEAR
   Product Type: mid calf boot
   Availability: Available
@@ -3409,7 +3386,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S1a126a5a3e614b74845447a298ab2e60Z.webp?v=1761325786
     Price: $54.99 USD
 - [ATTIK WEAR Women's High Heel Lace-Up Ankle Boots- Stylish Comfor | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/attik-wear-womens-high-heel-lace-up-ankle-boots): Discover the ATTIK WEAR Women's Fashion High Heel Lace-Up Ankle Boots. Perfect blend of style and comfort for any occasion. Elevate your footwear game today!
-  Updated: 2025-10-27T01:55:39Z
+  Updated: 2025-11-01T15:07:46Z
   Vendor: ATTIK WEAR
   Product Type: heeled boot
   Availability: Available
@@ -3519,7 +3496,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sde84fce6541e499cbf7bdfce6e97be9en.webp?v=1761326807
     Price: $36.99 USD
 - [Women's Nude Boots - Ethnic Style Casual Wedge Snow Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge): Shop ATTIK WEAR's Women's Nude Boots, featuring a chic design and ultimate comfort. Perfect for any occasion, these waterproof wedge boots elevate your style effortlessly.
-  Updated: 2025-10-27T01:57:08Z
+  Updated: 2025-11-01T15:07:46Z
   Vendor: ATTIK WEAR
   Product Type: mid calf boot
   Availability: Available
@@ -3550,7 +3527,6 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $54.16 USD
   - [black / 35](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794354237)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [Brown / 42](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794387005)
     Availability: Available
@@ -3558,31 +3534,24 @@ Types of bags:Handbags &amp; Crossbody bags
     Price: $54.16 USD
   - [black / 37](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794419773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 36](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794452541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 39](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794485309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 38](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794518077)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 41](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794550845)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 40](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794583613)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [black / 42](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794616381)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sb1a621c293c642188bfd5392d8679210I.webp?v=1761326914
     Price: $54.16 USD
   - [WHITE / 35](https://attikk-wear.myshopify.com/products/womens-nude-boots-2025-ethnic-style-casual-wedge?variant=42659794649149)
     Availability: Available
@@ -3651,7 +3620,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sdef1c3e9495f47da9312338ec84b1f16m.webp?v=1761326913
     Price: $78.91 USD
 - [Winter Pointed Toe Women's High Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/winter-new-sexy-pointed-toe-womens-high-boots): Discover stylish and comfortable Winter New Sexy Pointed Toe Women's High Boots for outdoor and party wear. Perfect for winter hiking and daily shopping.
-  Updated: 2025-10-27T02:01:57Z
+  Updated: 2025-11-01T15:06:02Z
   Vendor: ATTIK WEAR
   Product Type: knee high boots
   Availability: Available
@@ -3729,7 +3698,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S486659a4825f45f1b846fd43628756e4S.webp?v=1761326915
     Price: $59.99 USD
 - [Stylish Casual Women's Over Knee Boots for Winter | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/casual-womens-over-knee-boots): Discover our Casual Women's Over Knee Boots with low heels. Perfect for winter, these lace-up boots offer style and comfort in various colors.
-  Updated: 2025-10-26T20:51:33Z
+  Updated: 2025-11-01T15:05:37Z
   Vendor: ATTIK WEAR
   Product Type: flat boots
   Availability: Available
@@ -3985,7 +3954,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbaeb37f077f24f23bcf31440b1693666A.webp?v=1761327396
     Price: $42.62 USD
 - [Stylish Women Motorcycle Boots - Wedge Flat Shoes](https://attikk-wear.myshopify.com/products/women-motorcycle-boots-wedges-flat-shoes): Shop our Women's Motorcycle Boots featuring stylish wedge design and comfortable fit. Perfect for adventures and everyday wear.
-  Updated: 2025-10-26T20:53:32Z
+  Updated: 2025-11-01T15:05:37Z
   Vendor: ATTIK WEAR
   Product Type: squared heel boots
   Availability: Available
@@ -4015,7 +3984,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf2db4a051c944496b5c21f3cd3c1c0d4Y.webp?v=1761327395
     Price: $65.99 USD
 - [Winter Women Boots - Waterproof Ankle Lace-Up Boots | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/winter-women-boots-thick-bottom-lace-up-waterproof-ankle-boots): Shop our Winter Women Boots with thick bottoms and lace-up design. Waterproof, warm, and stylish, perfect for winter adventures.
-  Updated: 2025-10-26T20:35:18Z
+  Updated: 2025-11-01T15:05:38Z
   Vendor: ATTIK WEAR
   Product Type: flat boots
   Availability: Available
@@ -4443,11 +4412,11 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S63923850ce234ec2beb6008f982287c3F.webp?v=1761327400
     Price: $41.00 USD
 - [Women’s Fashion Ankle Boots - Casual White Chelsea Booties | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/2026-womens-fashion-ankle-boots-white-chelsea-booties): Discover the 2026 Women’s Fashion Ankle Boots, a perfect blend of punk gothic style and all-day comfort. Ideal for casual outings, these white Chelsea booties deliver both fashion and functionality.
-  Updated: 2025-10-26T20:38:07Z
+  Updated: 2025-11-01T15:03:55Z
   Vendor: ATTIK WEAR
   Product Type: ankle boot
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S30c75d877af6440baba65b1e9bd84768z.webp?v=1761327398
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S796e9277d3984e82aaddcf7a8a92469a1.webp?v=1761327398
   - [WHITE / 42](https://attikk-wear.myshopify.com/products/2026-womens-fashion-ankle-boots-white-chelsea-booties?variant=42659882336317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sf0839d9cfb6b48ad8083af59aa294db15.webp?v=1761327398
@@ -4505,11 +4474,11 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $47.99 USD
 - [Women's Black Leather Platform Combat Boots - Stylish & Trendy | ATTIKK WEAR](https://attikk-wear.myshopify.com/products/womens-black-leather-platform-combat-boots): Shop the Women's Black Leather Platform Combat Boots. Perfect for winter, these stylish combat boots combine comfort and punk goth flair.
-  Updated: 2025-10-26T20:53:19Z
+  Updated: 2025-11-01T15:03:08Z
   Vendor: ATTIK WEAR
   Product Type: mid calf boot
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S3e5f788a325f44da89972b253a6e09749.webp?v=1761327398
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S089bda74b39948008d852e6f5e9a3564a.webp?v=1761327398
   - [black / 39](https://attikk-wear.myshopify.com/products/womens-black-leather-platform-combat-boots?variant=42659882860605)
     Availability: Available
     Price: $75.12 USD
@@ -5262,42 +5231,34 @@ Types of bags:Handbags &amp; Crossbody bags
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Sbc7182e735584af79af9c2b2cf15b12eh.webp?v=1761327462
     Price: $50.99 USD
 - [Winter PU Leather Over-the-Knee Boots for Women| Attikk Wear](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women): Shop stylish Eilyken Winter PU Leather Over-the-Knee Boots for Women. Enjoy warmth and elegance with pointed toe and stiletto heels, ideal for any occasion.
-  Updated: 2025-11-01T10:34:37Z
+  Updated: 2025-11-01T15:03:09Z
   Vendor: ATTIK WEAR
   Product Type: Thigh high stilletto boots
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S75f462d11b7043129cb771fd3897f831u.webp?v=1761375304
   - [Black / 38](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722357821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 42](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722390589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 39](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722423357)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 36](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722456125)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 37](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722488893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 41](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722521661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 35](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722554429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
   - [Black / 40](https://attikk-wear.myshopify.com/products/eilyken-winter-pu-leather-over-the-knee-boots-women?variant=42661722587197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/Seca91034a4f64d8681272f411d95ffd4C.webp?v=1761375303
     Price: $7,999.00 USD
 - [Ankle Boots for Women | Attikk Wear](https://attikk-wear.myshopify.com/products/yqbjooc-plus-size-ankle-boots-women-platform-high-heels-lace-up-casual-footwear): Shop YBQJOOC Plus Size Ankle Boots for Women. Discover stylish, comfortable platform high heels with lace-up design, perfect for any occasion.
   Updated: 2025-10-26T11:00:12Z
@@ -7145,7 +7106,7 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Price: $59.99 USD
 - [Winter Women's Fashion Boots – Outdoor Comfort| ATTIKK WEAR](https://attikk-wear.myshopify.com/products/winter-women-fashion-boots-outdoor-comfort-walking-shoes-embroidery-brown-leather-boots): Discover our Winter Women's Fashion Boots designed for comfort and style. Perfect for outdoor activities, these boots feature rich leather and cozy faux fur.
-  Updated: 2025-11-01T01:41:21Z
+  Updated: 2025-11-01T13:41:24Z
   Vendor: ATTIK WEAR
   Product Type: squared heel boots
   Availability: Available
