@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-31T16:00:47.256Z
+- Updated At: 2025-11-01T08:00:47.037Z
 
 ## Products
 
@@ -347,7 +347,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BASSET_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631573272
     Price: $10.95 USD
 - [Beagle Nose Butter Handcrafted Natural Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/beagle): The Blissful Dog Beagle Nose Butter Moisturizes your Beagle's rough, dry nose using all natural, handcrafted good stuff. In tins & tubes, scented and unscented.
-  Updated: 2025-10-31T01:11:42Z
+  Updated: 2025-11-01T06:31:32Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -2999,7 +2999,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COCKER_ALL4_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631657549
     Price: $10.95 USD
 - [American Bulldog Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/american-bulldog-boo-boo-butter): Ease your American Bulldog's skin irritations with Boo Boo Butter! All natural Boo Boo Butter soothes American Bulldog skin irritations. Free Shipping in USA!
-  Updated: 2025-10-16T15:39:39Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3033,7 +3033,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AMBULL-50TUBE-DOG-2500.jpg?v=1738691944
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter | Australian Shepherd Skin Irritations](https://theblissfuldog.com/products/australian-shepherd-boo-boo): Boo Boo Butter, your Australian Shepherd skin irritation balm soothes itchy skin issues, bug bites, rashes & scratches...naturally. Free Shipping in USA!
-  Updated: 2025-10-16T15:39:39Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3067,7 +3067,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AUSSIE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738689472
     Price: $11.95 USD
 - [Blissful Dog Boo Boo Butter for Bernese Mountain Dog Skin Problems](https://theblissfuldog.com/products/bernese-mountain-dog-boo-boo-butter): Boo Boo Butter soothes your Bernese Mountain Dog skin issues with all natural good stuff. Handcrafted in Minnesota, in tins and tubes. Free Shipping in USA!
-  Updated: 2025-10-16T15:39:39Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3101,7 +3101,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BERNER-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738685871
     Price: $11.95 USD
 - [Border Collie Herbal Boo Boo Butter for Dog's Minor Skin Irritations](https://theblissfuldog.com/products/border-collie-boo-boo-butter): The Blissful Dog Border Collie Herbal Boo Boo Butter for your dog's minor skin irritations - those ouches that need something extra but aren't an emergency.
-  Updated: 2025-10-16T15:39:39Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3135,7 +3135,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BORDER-COLLIE-50TUBE-BOOBOO-2500.jpg?v=1738683918
     Price: $11.95 USD
 - [Boston Terrier Skin Care Boo Boo Butter for Minor Skin Irritations](https://theblissfuldog.com/products/boston-terrier-boo-boo-butter): The Blissful Dog Boston Terrier Skin Care Boo Boo Butter All natural, handcrafted herbal balm for your Boston Terrier's minor skin irritations and itchiness.
-  Updated: 2025-10-16T15:39:40Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3169,7 +3169,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BOSTON-COLLIE-50TUBE-BOOBOO-2500.jpg?v=1738683158
     Price: $11.95 USD
 - [Boxer Boo Boo Butter Herbal Help for Boxer Skin Irritations](https://theblissfuldog.com/products/boxer-boo-boo-butter): The Blissful Dog Boxer Dog Boo Boo Butter all natural herbal balm soothes Boxer skin irritations, crusty ear edges, bug bites, rashes, scrapes and scratches.
-  Updated: 2025-10-16T15:39:40Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3203,7 +3203,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BOXER-BOOBOO22-50TUBE-2500copy.jpg?v=1738682675
     Price: $11.95 USD
 - [Boo Boo Butter for Brittany Dog Skin Care for Minor Skin Issues](https://theblissfuldog.com/products/brittany-spaniel-boo-boo-butter): The Blissful Dog Boo Boo Butter for Your Brittany dog skin care. All natural herbal balm calms and soothes your dog's minor skin irritations.
-  Updated: 2025-10-16T15:39:40Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3237,7 +3237,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BRITTANY-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738682179
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Brussels Griffon Skin Care](https://theblissfuldog.com/products/brussels-griffon-boo-boo-butter): All Natural, handcrafted Boo Boo Butter for your Brussels Griffon skin care calms itchy spots, bug bites, rashes & minor skin irritations. Free Shipping in USA!
-  Updated: 2025-10-16T15:39:40Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3271,7 +3271,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BRUSSELS-GRIFF-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738681350
     Price: $11.95 USD
 - [Bulldog Boo Boo Butter For Bulldog Skin Issues, Itchy Spots & Noses](https://theblissfuldog.com/products/bulldog-boo-boo-butter): Bulldog Boo Boo Butter for Bulldog skin irritations that need support, but aren't an emergency. Great for scrapes, scratches, yeasty issues. Free Shipping USA
-  Updated: 2025-10-16T15:39:40Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3305,7 +3305,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BULLDOG-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738739481
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter French Bulldog Skin Care Herbal Balm](https://theblissfuldog.com/products/french-bulldog-boo-boo-butter): Boo Boo Butter for French Bulldog skin care issues...from itchy skin to tear-stained faces to the random ouch and owie. In tins & tubes. Free Shipping in USA
-  Updated: 2025-10-16T15:39:41Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3339,7 +3339,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/FBD-FAWNE-BOOBOO-50TUBE-DRIZZLEcopy.jpg?v=1738753580
     Price: $11.95 USD
 - [Cavalier King Charles Spaniel Boo Boo Butter for Minor Skin Irritation](https://theblissfuldog.com/products/cavalier-king-charles-spaniel-boo-boo-butter): The Blissful Dog Cavalier King Charles Spaniel Boo Boo Butter All natural herbal balm soothes your Cavalier's minor skin irritations. Free Shipping in USA!
-  Updated: 2025-10-16T15:39:41Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3843,7 +3843,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PUG_BYE_BUG_RED_TUB_SOAP.jpg?v=1686838061
     Price: $12.95 USD
 - [German Shepherd Skin Treatment Soothes Minor Skin Irritations](https://theblissfuldog.com/products/german-shepherd-boo-boo-butter): The Blissful Dog Boo Boo Butter for German Shepherd skin care and soothing comfort. All natural, handcrafted in MN good stuff for your German Shepherd's skin.
-  Updated: 2025-10-16T15:39:42Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3877,7 +3877,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GSD-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738753578
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Balm For German Shorthaired Pointer Skin Care](https://theblissfuldog.com/products/german-shorthair-pointer-boo-boo-butter): The Blissful Dog Boo Boo Butter German Shorthaired Pointer Skin Care for your dog's skin irritations; dry skin, hot spots, bug bites, banged tails & itches
-  Updated: 2025-10-16T15:39:42Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3911,7 +3911,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GSP-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738753222
     Price: $11.95 USD
 - [Japanese Chin Skin Care Boo Boo Butter For Minor Skin Irritations](https://theblissfuldog.com/products/japanese-chin-boo-boo-butter): The Blissful Dog Japanese Chin Skin Care Boo Boo Butter All Natural balm for your dog's itchy skin irritations, bug bites, rashes, scratches+. Free Shipping USA
-  Updated: 2025-10-16T15:39:42Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3945,7 +3945,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/JAPANESE-CHIN-BOOBOO-TIN-TUBE-DOG.jpg?v=1738724794
     Price: $11.95 USD
 - [Boo Boo Butter Your Golden Retriever Skin Care All Natural Dog Balm](https://theblissfuldog.com/products/golden-retriever-boo-boo-butter): The Blissful Dog Golden Retriever Skin Care Boo Boo Butter soothes your Golden's minor skin irritations with powerful herbal ingredients in a shea butter base.
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -3979,7 +3979,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GOLDEN-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738752864
     Price: $11.95 USD
 - [Boo Boo Butter All Natural Herbal Balm for Newfoundland Dog Skin Care](https://theblissfuldog.com/products/newfoundland-boo-boo-butter): The Blissful Dog Boo Boo Butter for Newfoundland dog skin care soothes your Newfie's minor skin issues - scratches, hot spots, abrasions (clipper/brush)+
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4013,7 +4013,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/NEWFIE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738721066
     Price: $11.95 USD
 - [All Natural Boo Boo Butter for Olde English Bulldogge Skin Irritations](https://theblissfuldog.com/products/olde-english-bulldogge-boo-boo-butter): The Blissful Dog Boo Boo Butter for Olde English Bulldogge Skin Care soothes minor skin irritations; hot spots, scrapes, scratches, rashes and random ouches+
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4047,7 +4047,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/OLDE_50TUBE_BOOBOO_ING_2500copy.jpg?v=1738720332
     Price: $11.95 USD
 - [Boo Boo Butter Labrador Retriever Skin Care Balm for Minor Skin Issues](https://theblissfuldog.com/products/labrador-retriever-boo-boo-butter): Boo Boo Butter Labrador Retriever Skin Care for Your Lab's Minor Skin Issues. Boo Boo Butter calms scratches, scrapes, rashes, bug bites, itchiness, abrasions+
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4081,7 +4081,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/LAB-50TUBE-BOOBOO-ING-2024.jpg?v=1738723684
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Mastiff Skin Care For Your Big Dog](https://theblissfuldog.com/products/mastiff-boo-boo-butter): The Blissful Dog Mastiff Boo Boo Butter soothes Mastiff skin irritations such as; bug bites, scrapes, scratches, rashes, abrasions, banged tails, hot spots+
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4115,7 +4115,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/MASTIFF-NEEM-OIL-2500.jpg?v=1738721791
     Price: $11.95 USD
 - [The Blissful Dog Herbal Boo Boo Butter for Maltese Skin Care Needs](https://theblissfuldog.com/products/maltese-boo-boo-butter): All natural Boo Boo Butter for all of your Maltese skin care needs. Boo Boo Butter calms itchy skin irritations, scrapes, scratches, bug bites, ouches+
-  Updated: 2025-10-16T15:39:43Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4149,7 +4149,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/MALTESE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738722287
     Price: $11.95 USD
 - [Boo Boo Butter Staffordshire Bull Terrier Skin Care balm](https://theblissfuldog.com/products/pit-bull-boo-boo-butter): The Blissful Dog Boo Boo Butter for Pit Bull or Staffordshire Bull Terrier skin care. Herbal Ingredients soothes scrapes, scratches, nicks, cuts, rashes & more.
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4183,7 +4183,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/STAFFY-BULL-DUO-50TUBE.jpg?v=1738676191
     Price: $11.95 USD
 - [Boo Boo Butter for Poodle Skin Issues, Itchies, Ouches & Irritations](https://theblissfuldog.com/products/poodle-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes itchy Poodle skin irritations, brush or clipper burn, rashes, scratches, scrapes and other skin issues…naturally.
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4217,7 +4217,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/POODLE-BOOBOO-50tube.jpg?v=1738717348
     Price: $11.95 USD
 - [All Natural, Herbal Boo Boo Butter for Pomeranian Skin Care](https://theblissfuldog.com/products/pomeranian-boo-boo-butter): The Blissful Dog Boo Boo Butter for Pomeranian Skin Care for your Pom's minor skin irritations, brush and clipper burn, bug bites, scrapes and scratches.
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4251,7 +4251,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/POM-BOOBOO-50TUBE-NEEM-OIL-2500.jpg?v=1738718048
     Price: $11.95 USD
 - [Pug Boo Boo Butter Handcrafted Balm for Pug Skin Irritations](https://theblissfuldog.com/products/pug-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes Pug skin irritations; itchy spots, scrapes, scratches, rashes, bug bites and ouches with herbal moisturizing goodness.
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4285,7 +4285,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PUG-15TUBE-BOOBOO-ING-2500.jpg?v=1738716613
     Price: $11.95 USD
 - [All Natural Herbal Boo Boo Butter for Your Pekingese Skin Care](https://theblissfuldog.com/products/pekingese-boo-boo-butter): The Blissful Dog Boo Boo Butter for Pekingese skin care, non-emergency, minor skin irritations such as; itchy spots, rashes, abrasions, scratches, scrapes+
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4319,7 +4319,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PEKE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738719253
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Vizsla Skin Irritations](https://theblissfuldog.com/products/vizsla-boo-boo-butter): The Blissful Dog Herbal Boo Boo Butter soothes Vizsla skin issues; itchy skin, scratches, rashes, scrapes, sunburn, bug bites+ Free Shipping in the USA!
-  Updated: 2025-10-16T15:39:44Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4353,7 +4353,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/VIZSLA-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738674153
     Price: $11.95 USD
 - [All Natural Herbal Boo Boo Butter for St Bernard Skin Irritations](https://theblissfuldog.com/products/st-bernard-boo-boo-butter): The Blissful Dog Boo Boo Butter for St Bernard skin irritations such as; nicks, cuts, itchy spots, hot spots, brush or clipper abrasions or chafing, scrapes+
-  Updated: 2025-10-16T15:39:45Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4387,7 +4387,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/STBERNARD-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738714588
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Balm For Yorkshire Terrier Skin Care & Support](https://theblissfuldog.com/products/yorkshire-terrier-boo-boo-butter): The Blissful Dog Boo Boo Butter Yorkshire Terrier skin care balm soothes your Yorkie's skin issues; rashes, scratches, scrapes, clipper or brush burn.
-  Updated: 2025-10-16T15:39:45Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4421,7 +4421,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/YORKIE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738671031
     Price: $11.95 USD
 - [The Blissful Dog Bye Bye Boo Boo Butter Balm for Minor Dog Skin Irritations](https://theblissfuldog.com/products/ouch-boo-boo-butter): Bye Bye Boo Boo Butter Handcrafted all natural herbal balm for dog skin irritations; bug bites, abrasions, rashes, crusty ears, nose wrinkles+ Free Shipping USA
-  Updated: 2025-10-16T15:39:45Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -4725,7 +4725,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHI_DUO_COMBO_TIN_2500-copy.jpg?v=1648331069
   Price: $29.95 USD
 - [Is Your Brittany Dog Afraid of Thunder? Fireworks?](https://theblissfuldog.com/products/brittany-relax): Is your Brittany Dog afraid of thunderstorms, fireworks or being alone. Relax Aromatherapy soothes the edge of fears using a gentle blend of essential oils.
-  Updated: 2025-10-31T02:29:45Z
+  Updated: 2025-10-31T23:44:37Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -5960,7 +5960,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SHIHTZU_RELAX_SPRAY_2500.jpg?v=1623594620
     Price: $13.95 USD
 - [All Natural, Herbal Boo Boo Butter for Weimaraner Skin Irritations](https://theblissfuldog.com/products/weimaraner-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes Weimaraner skin annoyances such as scrapes, scratches, bug bites, rashes, scabs, scars, hot spots. Free Shipping in USA
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -5994,7 +5994,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/WEIM-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738673552
     Price: $11.95 USD
 - [Boo Boo Butter All Natural Herbal Dogue de Bordeaux Skin Care Balm](https://theblissfuldog.com/products/dogue-de-bordeaux-boo-boo-butter): The Blissful Dog Boo Boo Butter All natural herbal balm for Dogue de Bordeaux skin irritations, itchy spots, rashes, scratches and minor skin issues.
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6028,7 +6028,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DDB-BOOBOO-TIN-2500-DOG2copy.jpg?v=1738729109
     Price: $11.95 USD
 - [The Blissful Dog Chihuahua Skin Care Boo Boo Butter](https://theblissfuldog.com/products/chihuahua-boo-boo-butter): Chihuahua Skin Care Boo Boo Butter is our all natural, herbal balm for your Chi's minor skin irritations. Made in MN. Free Shipping in USA
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6062,7 +6062,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CHI-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738737678
     Price: $11.95 USD
 - [Herbal, Handcrafted Boo Boo Butter for Cocker Spaniel Skin Irritations](https://theblissfuldog.com/products/cocker-spaniel-boo-boo-butter): Boo Boo Butter for Cocker Spaniel Skin Care soothes your dog's minor skin issues, itchy spots, bug bites, rashes, clipper burn, abrasions. Free Shipping in USA
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6096,7 +6096,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/COCKER-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738736313
     Price: $11.95 USD
 - [Boo Boo Butter Soothes Great Dane Skin Irritations, Itchy Spots +](https://theblissfuldog.com/products/great-dane-boo-boo-butter): The Blissful Dog all natural Boo Boo Butter eases Great Dane skin irritations, bug bites, scrapes, scratches, banged tails. Handcrafted in MN. Free Shipping USA
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6130,7 +6130,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GREAT-DANE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738727618
     Price: $11.95 USD
 - [Boo Boo Butter Your Husky Skin Care Balm for Dog's Minor Skin Issues](https://theblissfuldog.com/products/husky-boo-boo-butter): The Blissful Dog Siberian Husky Skin Care Boo Boo Butter soothes your Husky's minor skin irritations such as scrapes, scratches, itchy & hot spots, abrasions+
-  Updated: 2025-10-16T15:40:14Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6164,7 +6164,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SIB-HUSKY-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738678480
     Price: $11.95 USD
 - [Boo Boo Butter Rhodesian Ridgeback Skin Care for Minor Irritations](https://theblissfuldog.com/products/rhodesian-ridgeback-boo-boo-butter): The Blissful Dog Boo Boo Butter for Rhodesian Ridgeback skin care. All natural, handcrafted herbal balm soothes scrapes, scratches, rashes, itchy spots & more.
-  Updated: 2025-10-16T15:40:15Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6198,7 +6198,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/RR_BOOBOO_50TUBE_2500.jpg?v=1738715759
     Price: $11.95 USD
 - [Boo Boo Butter for Rottweiler Skin Issues & Irritations](https://theblissfuldog.com/products/rottweiler-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes your Rottweiler skin, scratches, scrapes, abrasions, bug bites and more...naturally. Free Shipping in USA
-  Updated: 2025-10-16T15:40:15Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6653,7 +6653,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-GREAT-PYRENEES_CUSTOM-COMBO.jpg?v=1626812208
   Price: $29.95 USD
 - [Dachshund Dry Skin Care Natural Dog Balm | The Blissful Dog](https://theblissfuldog.com/products/dachshund-boo-boo-butter): Our Boo Boo Butter is a natural dog balm for Dachshund dry skin and other minor irritations. Use this salve to soothe your dog and take better care of his skin.
-  Updated: 2025-10-16T15:40:19Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6862,7 +6862,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AUS-CATTLE-RELAX-SPRAY-2024-MASK_copy.jpg?v=1738772400
     Price: $13.95 USD
 - [Boo Boo Butter - Australian Cattle Dog Skin Care for Minor Irritations](https://theblissfuldog.com/products/australian-cattle-dog-boo-boo-butter): Blissful Dog Boo Boo Butter - Australian Cattle Dog skin care herbal balm for your hard working dog's skin irritations, bug bites, rashes, scrapes & scratches.
-  Updated: 2025-10-16T15:40:21Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6896,7 +6896,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AUS-CATTLE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738689839
     Price: $11.95 USD
 - [Blissful Dog Boo Boo Butter for Natural Basset Skin Care Support](https://theblissfuldog.com/products/basset-hound-boo-boo-butter): Boo Boo Butter Our all natural, herbal balm for Basset skin irritations, bug bites, banged tail, rashes, scrapes, scratches and scars. Handcrafted in Minnesota.
-  Updated: 2025-10-16T15:40:21Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6930,7 +6930,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BASSET-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738688158
     Price: $11.95 USD
 - [Blissful Dog Boo Boo Butter Herbal Balm for Beagle Skin Irritation](https://theblissfuldog.com/products/beagle-boo-boo-butter): Beagle Boo Boo Butter All natural, handcrafted herbal balm for Beagle skin irritations, bug bites, banged up tail, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:21Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6964,7 +6964,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BEAGLE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738687510
     Price: $11.95 USD
 - [Boo Boo Butter Belgian Malinois Skin Care Balm for Minor Irritations](https://theblissfuldog.com/products/belgian-malinois-boo-boo-butter): The Blissful Dog Boo Boo Butter Belgian Malinois Skin Care All natural balm for your Malinois' scrapes, scratches, rashes and itchy skin irritations.
-  Updated: 2025-10-16T15:40:22Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -6998,7 +6998,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BEL-MAL-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738686484
     Price: $11.95 USD
 - [American Eskimo Boo Boo Butter Herbal Balm for Itchy Skin Irritations](https://theblissfuldog.com/products/american-eskimo-boo-boo-butter): Blissful Dog American Eskimo Boo Boo Butter - Handcrafted herbal balm for your dog's itchy skin irritations, bug bites, rashes, scrapes, scratches and scars
-  Updated: 2025-10-16T15:40:22Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7298,7 +7298,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NSDTR_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631983132
     Price: $10.95 USD
 - [Chinese Shar-Pei Skin Care Balm | Dog Skin Irritation Butter](https://theblissfuldog.com/products/chinese-shar-pei-boo-boo-butter): The Blissful Dog Boo Boo Butter Chinese Shar-Pei skin care balm soothes itchy spots, fungal & bacterial issues, scrapes, scratches and rashes. Free Shipping USA
-  Updated: 2025-10-16T15:40:24Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7332,7 +7332,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CSP-BOOBOO-50TUBE-DRIZZLE-2500.jpg?v=1738737050
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Balm for Corgi Skin Irritations, Itchies & Owies](https://theblissfuldog.com/products/corgi-boo-boo-butter): The Blissful Dog Boo Boo Butter for Corgi Skin Irritations. Great for any minor skin irritations; bug bites, scrapes, scratches and abrasions. Free Shipping USA
-  Updated: 2025-10-19T04:13:18Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7366,7 +7366,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CORGI-BOOBOO-3TIN-SHADOW-DOG2copy.jpg?v=1738735252
     Price: $11.95 USD
 - [Boo Boo Butter Great Pyrenees Skin Care Balm For Minor Skin Issues](https://theblissfuldog.com/products/great-pyrenees-boo-boo-butter): Great Pyrenees Skin Care Boo Boo Butter for scratches, nicks, rashes, abrasions, itchy spots - anything your hard-working Pyr gets into. Free Shipping USA
-  Updated: 2025-10-16T15:40:24Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7706,7 +7706,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CANE-CORSO-RELAX-SPRAY-2024.jpg?v=1738771593
     Price: $13.95 USD
 - [Herbal Boo Boo Butter for American Staffordshire Terrier Skin Issues](https://theblissfuldog.com/products/american-staffordshire-terrier-boo-boo-butter): Blissful Dog Boo Boo Butter soothes and eases American Staffordshire Terrier skin issues. All natural, herbal Boo Boo Butter nourishes your AmStaff's skin.
-  Updated: 2025-10-16T15:40:27Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7740,7 +7740,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AMSTAFF-BOOBOO-50TUBE-2500-DOG1.jpg?v=1738690552
     Price: $11.95 USD
 - [Boo Boo Butter Goldendoodle Skin Care Balm for Minor Skin Irritations](https://theblissfuldog.com/products/goldendoodle-boo-boo-butter): The Blissful Dog Boo Boo Butter Goldendoodle skin care balm for your Dood's itchy skin irritations, scratches, bug bites, abrasions and minor skin issues.
-  Updated: 2025-10-16T15:40:27Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7774,7 +7774,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GOLDENDOODLE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738728335
     Price: $11.95 USD
 - [Boo Boo Butter Bull Terrier Skin Care Herbal Balm For Skin Irritations](https://theblissfuldog.com/products/bull-terrier-boo-boo-butter): The Blissful Dog Boo Boo Butter Bull Terrier All natural, handcrafted balm for Bull Terrier skin issues (scrapes, scratches, scars, ouches, owies and such)
-  Updated: 2025-10-16T15:40:27Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7854,7 +7854,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-CHOW_CUSTOM_COMBO.jpg?v=1626844114
   Price: $29.95 USD
 - [The Blissful Dog Boo Boo Butter Herbal Balm for Chow Skin Irritations](https://theblissfuldog.com/products/chow-boo-boo-butter): The Blissful Dog Boo Boo Butter for Chow skin issues and minor irritations that need a bit more attention, but aren't an emergency; scrapes, scratches, spots+
-  Updated: 2025-10-16T15:40:28Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7888,7 +7888,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CHOW-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738736937
     Price: $11.95 USD
 - [Malamute Skin Care Boo Boo Butter Your Dog's Minor Skin Irritations](https://theblissfuldog.com/products/malamute-boo-boo-butter): The Blissful Dog Alaskan Malamute Skin Care Boo Boo Butter - All natural balm for your Malamute's itchy spots, skin irritations, rashes, scratches, bug bites+
-  Updated: 2025-10-16T15:40:29Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7922,7 +7922,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ALASKAN-MAL-BOOBOO-TIN-TUBE-DOG2.jpg?v=1738692269
     Price: $11.95 USD
 - [Boo Boo Butter Shetland Sheepdog Skin Care for Minor Skin Issues](https://theblissfuldog.com/products/shetland-sheepdog-boo-boo-butter): The Blissful Dog Boo Boo Butter Your All Natural Shetland Sheepdog Skin Care Balm soothes your Sheltie's itchy spots, skin irritations, rashes, bug bites+.
-  Updated: 2025-10-16T15:40:29Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -7956,7 +7956,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SHELTIE-50TUBE-BOOBOO-ING-2500.jpg?v=1738680425
     Price: $11.95 USD
 - [All Natural Herbal Boo Boo Butter for Springer Spaniel Skin Care](https://theblissfuldog.com/products/springer-spaniel-boo-boo-butter): The Blissful Dog Boo Boo Butter for Springer Spaniel Skin Care - All natural balm for your Springer's minor skin irritations, rashes, bug bites, nicks, cuts+.
-  Updated: 2025-10-16T15:40:29Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8097,7 +8097,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUSSIE_AGEWELL_DOG_SPRAYU_1080.jpg?v=1657318101
     Price: $13.95 USD
 - [Boo Boo Butter for Bullmastiff Skin Issues & Minor Irritations](https://theblissfuldog.com/products/bullmastiff-boo-boo-butter): The Blissful Dog Bullmastiff Boo Boo Butter all natural herbal ointment for Bullmastiff skin irritations, rashes, bug bites, scrapes & scratches.
-  Updated: 2025-10-16T15:40:31Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8149,7 +8149,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSMD_CRESTED_SPRAY_RELAX3_1080_LAV1.jpg?v=1623420599
     Price: $13.95 USD
 - [Herbal Boo Boo Butter for All Your Xoloitzcuintli Skin Care Needs](https://theblissfuldog.com/products/xoloitzcuintli-boo-boo-butter): The Blissful Dog Boo Boo Butter for Xoloitzcuintli Skin Care All natural Boo Boo Butter moisturizes your Xolo from nose to tail, plus soothes minor skin issues.
-  Updated: 2025-10-16T15:40:31Z
+  Updated: 2025-11-01T01:38:01Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8219,7 +8219,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FLAT_COAT_RELAX_SPRAY_2500copy.jpg?v=1623333496
     Price: $13.95 USD
 - [Whippet Boo Boo Butter Herbal Dog Balm for Your Dog's Skin Irritations](https://theblissfuldog.com/products/whippet-boo-boo-butter): The Blissful Dog Whippet Boo Boo Butter for your Whippet's non-emergency skin irritations, bug bites, banged tail, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8253,7 +8253,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/WHIPPET-BOOBOO-50TUBE-SIT.jpg?v=1738672228
     Price: $11.95 USD
 - [West Highland White Terrier Skin Care for Your Dog's Skin Irritations](https://theblissfuldog.com/products/west-highland-white-terrier-boo-boo-butter): The Blissful Dog West Highland White Terrier skin care for your dog's minor skin issues such as clipper irritation, rashes, scratches, itchy spots and scrapes.
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8287,7 +8287,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/WESTIE-BOOBOO-50TUBE-NEEM-OIL-2500.jpg?v=1738672951
     Price: $11.95 USD
 - [All Natural Herbal Boo Boo Butter for Shih Tzu Skin Care](https://theblissfuldog.com/products/shih-tzu-boo-boo-butter): The Blissful Dog Shih Tzu Boo Boo Butter Handcrafted, all natural herbal balm for Shih Tzu skin irritations, clipper or brush burn or rash, bug bites & scrapes.
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8321,7 +8321,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SHIHTZU-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738678950
     Price: $11.95 USD
 - [Boo Boo Butter All Natural Herbal Balm For Shiba Inu Skin Care](https://theblissfuldog.com/products/shiba-inu-boo-boo-butter): The Blissful Dog all natural Boo Boo Butter for Shiba Inu skin irritations, scratches, nicks, cuts, brush burn or rash, bug bites & scrapes, hot spots +
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8355,7 +8355,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SHIBA-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738679549
     Price: $11.95 USD
 - [Boo Boo Butter for Schnauzer Skin Issues and Grooming After-Care](https://theblissfuldog.com/products/schnauzer-boo-boo-butter): The Blissful Dog Schnauzer Boo Boo Butter for Schnauzer skin care. Use for your Schnauzer's minor skin irritations, brush burn, bug bites & scrapes, hot spots+
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8389,7 +8389,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SCHNAUZER-BOOBOO-50TUBE-DRIZZLEcopy.jpg?v=1738713504
     Price: $11.95 USD
 - [Herbal, All Natural Boo Boo Butter for Samoyed Skin Care](https://theblissfuldog.com/products/samoyed-boo-boo-butter): The Blissful Dog Boo Boo Butter for Samoyed Skin Care for your dog's minor skin irritations, brush burn, rashes, bug bites, scratches, scrapes, hot spots +
-  Updated: 2025-10-16T15:40:32Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8423,7 +8423,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SAMMIE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738714247
     Price: $11.95 USD
 - [All Natural, Herbal Boo Boo Butter for Papillon Skin Issues](https://theblissfuldog.com/products/papillon-boo-boo-butter): The Blissful Dog all natural, herbal Boo Boo Butter soothes Papillon skin issues such as scrapes, scratches, rashes, bug bites, rashes, itchy skin+
-  Updated: 2025-10-16T15:40:33Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8495,7 +8495,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COONHOUND_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631661180
     Price: $10.95 USD
 - [All Natural Herbal Boo Boo Butter Greater Swiss Mountain Dog Skin Care](https://theblissfuldog.com/products/greater-swiss-mountain-dog-boo-boo-butter): The Blissful Dog Boo Boo Butter for Greater Swiss Mountain Dog Skin Care - Made in MN, all natural, herbal balm for your dog's non-emergency skin irritations.
-  Updated: 2025-10-16T15:40:33Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8529,7 +8529,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GSMD-BOOBOO-50TUBE-NEEM-OIL-2500.jpg?v=1738726903
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Leonberger Skin Irritations](https://theblissfuldog.com/products/leonberger-boo-boo-butter): The Blissful Dog Boo Boo Butter for Leonberger Skin Irritations - Infused with herbal goodness for your Leo's minor skin irritations, scratches, scrapes.
-  Updated: 2025-10-25T04:30:06Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8563,7 +8563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/leo-50TUBE-DOG-2500.jpg?v=1738722969
     Price: $11.95 USD
 - [The Blissful Dog Herbal Boo Boo Butter for Greyhound Skin Irritations](https://theblissfuldog.com/products/greyhound-boo-boo-butter): Boo Boo Butter for Greyhound skin irritations, scratches that need attention, but aren't an emergency. Boo Boo Butter soothes your Greyhound's skin issues.
-  Updated: 2025-10-16T15:40:33Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8597,7 +8597,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GREYHOUND-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738726615
     Price: $11.95 USD
 - [Boo Boo Butter for Cane Corso Skin Issues Scratches, Scrapes, Nicks+](https://theblissfuldog.com/products/cane-corso-boo-boo-butter): The Blissful Dog All Natural Boo Boo Butter for Cane Corso skin irritations. Great for scratches, scrapes, bug bites, nicks, abrasions…any minor skin irritation
-  Updated: 2025-10-16T15:40:34Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8631,7 +8631,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CANE-CORSO-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738738834
     Price: $11.95 USD
 - [Dalmatian Boo Boo Butter Herbal Balm for Your Dog's Minor Skin Issues](https://theblissfuldog.com/products/dalmatian-boo-boo-butter): The Blissful Dog Dalmatian Boo Boo Butter All natural, herbal ointment for your Dalmatian's minor skin irritations; itchy spots, skin issues, rashes, bug bites+
-  Updated: 2025-10-16T15:40:34Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8665,7 +8665,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DAL-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738729760
     Price: $11.95 USD
 - [Parson Russell Terrier Boo Boo Butter for Dog Skin Irritations](https://theblissfuldog.com/products/jack-russell-parsons-terrier-boo-boo-butter): The Blissful Dog Parson Russell Terrier Boo Boo Butter soothes your dog's minor skin issues; scratches, scrapes, nicks, cuts, bug bites, itchy spots, hot spots+
-  Updated: 2025-10-16T15:40:34Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8699,7 +8699,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PRT-15TUBE-BOOBOO-ING-2500.jpg?v=1738719630
     Price: $11.95 USD
 - [Boo Boo Butter All Natural Herbal Labradoodle Skin Care Balm](https://theblissfuldog.com/products/labradoodle-boo-boo-butter): The Blissful Dog Boo Boo Butter for Labradoodle Skin Care. All natural, handcrafted in northern Minnesota herbal balm for your dog's minor skin irritations.
-  Updated: 2025-10-16T15:40:34Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8733,7 +8733,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/LABRADOODLE-BOOBOO-50TUBE-DOG-2500.jpg?v=1738723717
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Your Italian Greyhound Skin Issues](https://theblissfuldog.com/products/italian-greyhound-boo-boo-butter): The Blissful Dog Italian Greyhound Boo Boo Butter for non-emergency skin irritations such as scratches, scrapes, rashes, abrasions, nicks and cuts.
-  Updated: 2025-10-16T15:40:34Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8767,7 +8767,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/IGGIE-BOOBOO-TIN-TUBE-DOG.jpg?v=1738725155
     Price: $11.95 USD
 - [Basenji Boo Boo Butter Herbal Balm for Your Dog's Skin Irritations](https://theblissfuldog.com/products/basenji-boo-boo-butter): Blissful Dog Basenji Boo Boo Butter - All natural herbal balm for your Basenji dog's skin irritations, bug bites, rashes, random scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:35Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8819,7 +8819,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BASENJI-RELAX-TEDDY-SPRAY-MASK-2024_178d431b-0ff5-4b2e-92ce-b503a7d4c154.jpg?v=1738772189
     Price: $13.95 USD
 - [Boo Boo Butter for Doberman Pinscher Skin Irritations, Itchy Spots +](https://theblissfuldog.com/products/doberman-pinscher-boo-boo-butter): The Blissful Dog Boo Boo Butter Your Go-To Doberman Pinscher Skin Balm for Your Dobie's skin irritations, rashes, scrapes, scratches, bug bites, hot spots+
-  Updated: 2025-10-25T02:07:27Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8853,7 +8853,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DOBIE-50TUBE-BOOBOO-ING-2500.jpg?v=1738729845
     Price: $11.95 USD
 - [Bloodhound Boo Boo Butter Herbal Balm for Your Dog's Skin Irritations](https://theblissfuldog.com/products/bloodhound-boo-boo-butter): The Blissful Dog Bloodhound Boo Boo Butter Handcrafted herbal balm for your dog's minor skin irritations that need a bit more care, but aren't an emergency.
-  Updated: 2025-10-16T15:40:35Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8887,7 +8887,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BLOODHOUND-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738684924
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter For Chinese Crested Skin Care](https://theblissfuldog.com/products/chinese-crested-boo-boo-butter): Boo Boo Butter For Chinese Crested Skin Issues All natural balm for your hairless dog's itchy spots, skin irritations, rashes, bug bites and unique needs.
-  Updated: 2025-10-16T15:40:35Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8921,7 +8921,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CRESTED-BOOBOO-50TUBE-DRIZZLE-2500.jpg?v=1738737310
     Price: $11.95 USD
 - [Boo Boo Butter Your Collie Skin Care All Natural Herbal Balm](https://theblissfuldog.com/products/collie-boo-boo-butter): The Blissful Dog Boo Boo Butter is your Collie skin care go-to balm for your Collie's minor skin irritations; scratches, scrapes, brush abrasions, itchy spots+
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8955,7 +8955,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/COLLIE-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738735966
     Price: $11.95 USD
 - [All Natural Boo Boo Butter Your Havanese Skin Care Go-To Balm](https://theblissfuldog.com/products/havanese-boo-boo-butter): The Blissful Dog Boo Boo Butter for Havanese skin care soothes minor skin irritations such as scrapes, scratches, bug bites, clipper/brush abrasions, itchiness+
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8989,7 +8989,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/HAVANESE-BOOBOO-50TUBE-PUPPY.jpg?v=1738726235
     Price: $11.95 USD
 - [Boo Boo Butter Neapolitan Mastiff Skin Care Balm for Minor Skin Issues](https://theblissfuldog.com/products/neapolitan-mastiff-boo-boo-butter): The Blissful Dog Boo Boo Butter - Your Neapolitan Mastiff skin care balm for your Neo's minor skin irritations, itchy skin, rashes, scrapes, scratches, scars+
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9023,7 +9023,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/NEO-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738721768
     Price: $11.95 USD
 - [Affenpinscher Boo Boo Butter Herbal Balm for Minor Skin Irritations](https://theblissfuldog.com/products/affenpinscher-boo-boo-butter): Blissful Dog Affenpinscher Boo Boo Butter All natural herbal dog balm for your dog's skin irritations, bug bites, banged tail, rashes, scrapes, scratches+.
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9057,7 +9057,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AFFEN-BOOBOO--50tube-DRIZZLE.jpg?v=1738693667
     Price: $11.95 USD
 - [Boo Boo Butter for Flat-Coated Retriever Skin Irritations](https://theblissfuldog.com/products/flat-coated-retriever-boo-boo-butter): The Blissful Dog Boo Boo Butter for Flat-Coated Retriever Skin Irritations - Handcrafted all natural balm for their bug bites, banged tail, rashes, scratches+
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9091,7 +9091,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/FLATCOAT-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738754078
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Curly-Coated Retriever Skin Care](https://theblissfuldog.com/products/curly-coated-retriever-boo-boo-butter): Boo Boo Butter all natural, handcrafted balm for Curly-Coated Retriever skin care; scrapes, scratches, abrasions, bug bites, hot spots, any minor skin issue.
-  Updated: 2025-10-16T15:40:36Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9179,7 +9179,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ETS-RELAX-SPRAY-2024.jpg?v=1738710557
     Price: $13.95 USD
 - [Boo Boo Butter All Natural Herbal Dogo Argentino Skin Care Balm](https://theblissfuldog.com/products/dogo-argentino-boo-boo-butter): The Blissful Boo Boo Butter for Dogo Argentino skin care herbal balm for your Dogo's skin irritations, itchy spots, rashes, scratches and random ouches.
-  Updated: 2025-10-16T15:40:37Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9359,7 +9359,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CHESSIE_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631652919
     Price: $10.95 USD
 - [Chesapeake Bay Retriever Boo Boo Butter for Your Dog's Skin Irritation](https://theblissfuldog.com/products/chesapeake-bay-retriever-boo-boo-butter): Chesapeake Bay Retriever Boo Boo Butter Handcrafted balm for your active Chesapeake Bay Retriever's skin irritations, bug bites, rashes, scrapes and scratches.
-  Updated: 2025-10-16T15:40:38Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9449,7 +9449,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BICHON-50TUBE-OILS-BOWLS-PERSPECTIVE2_copy.jpg?v=1738730839
     Price: $10.95 USD
 - [The Blissful Dog Boo Boo Butter Soothes Bichon Frise Skin Irritations](https://theblissfuldog.com/products/bichon-frise-boo-boo-butter): The Blissful Dog Bichon Frise Boo Boo Butter All natural, handcrafted balm calms Bichon Frise skin irritations, bug bites, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:39Z
+  Updated: 2025-11-01T01:39:07Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9501,7 +9501,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BICHON-RELAX-SPRAY-2024.jpg?v=1738769683
     Price: $13.95 USD
 - [Boo Boo Butter All Natural Herbal Balm for Coonhound Skin Irritations](https://theblissfuldog.com/products/coonhound-boo-boo-butter): The Blissful Dog Boo Boo Butter Handcrafted herbal balm for Coonhound skin irritations, bug bites, banged up tail, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:39Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9686,7 +9686,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DALMATIAN_NOSE_BUTTER_TIN_3_DIAG2_DOGScopy.jpg?v=1631724274
     Price: $10.95 USD
 - [English Toy Spaniel Boo Boo Butter for Dog's Minor Skin Irritations](https://theblissfuldog.com/products/english-toy-spaniel-boo-boo-butter): The Blissful Dog English Toy Spaniel Boo Boo Butter Natural, handcrafted herbal balm soothes your ETS minor skin irritations; scratches, abrasions, bug bites+
-  Updated: 2025-10-16T15:40:40Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9720,7 +9720,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ETS-BOOBOO-50TUBE-DUO-2500copy.jpg?v=1738754908
     Price: $11.95 USD
 - [The Blissful Dog Natural Treatment for Coton de Tulear Skin Problems](https://theblissfuldog.com/products/coton-de-tulear-boo-boo-butter): Soothe your Coton de Tulear skin problems with our natural Boo Boo Butter treatment. All natural balm for minor skin irritations; scratches, clipper/brush burn+
-  Updated: 2025-10-31T02:28:30Z
+  Updated: 2025-11-01T01:48:34Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9886,7 +9886,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ITALIAN_GREYHOUND_50OZTUBE_NOSE_BUTTER_2500copy.jpg?v=1631900500
     Price: $10.95 USD
 - [The Blissful Dog Boo Boo Butter for Lhasa Apso Skin Irritations](https://theblissfuldog.com/products/lhasa-apso-boo-boo-butter): Boo Boo Butter soothes Lhasa Apso skin irritations  - All natural, herbal balm for your Lhasa's itchy skin, bug bites, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:41Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9920,7 +9920,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/LHASA-BOOBOO-50TUBE-2500.jpg?v=1738722606
     Price: $11.95 USD
 - [Boo Boo Butter Nova Scotia Duck Tolling Retriever Skin Care Balm](https://theblissfuldog.com/products/nova-scotia-duck-tolling-retriever-boo-boo-butter): The Blissful Dog Nova Scotia Duck Tolling Retriever Skin Care Boo Boo Butter eases your dog's minor skin issues such as, scratches, scrapes, hot spots, rashes+
-  Updated: 2025-10-16T15:40:41Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9954,7 +9954,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/NOVA-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738720690
     Price: $11.95 USD
 - [Puggle Boo Boo Butter Handcrafted Balm for Puggle Skin Irritations](https://theblissfuldog.com/products/puggle-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes Puggle skin irritations; itchy spots, scrapes, scratches, rashes, bug bites and more with herbal moisturizing goodness.
-  Updated: 2025-10-20T14:35:28Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -10006,7 +10006,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PUGGLE_RELAX_SPRAY_2500.jpg?v=1623547627
     Price: $13.95 USD
 - [The Blissful Dog Boo Boo Butter for Tibetan Mastiff Skin Care](https://theblissfuldog.com/products/tibetan-mastiff-boo-boo-butter): Boo Boo Butter, for Tibetan Mastiff skin care, soothes your big dog's minor skin irritations and issues using all natural, handcrafted herbal components.
-  Updated: 2025-10-17T08:53:43Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -11672,7 +11672,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TIBBIE_CUSTOM_COMBO.jpg?v=1626864564
   Price: $29.95 USD
 - [The Blissful Dog Boo Boo Butter for Tibetan Spaniel Skin Care](https://theblissfuldog.com/products/tibetan-spaniel-boo-boo-butter): All natural Boo Boo Butter for Tibetan Spaniel skin care is handcrafted in northern MN. Created to soothe your Tibbie's itchy skin, scrapes, scratches & more.
-  Updated: 2025-10-16T15:40:54Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -11751,7 +11751,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/WHIPPET_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632082471
     Price: $10.95 USD
 - [Portuguese Water Dog Herbal Boo Boo Butter for Dog Skin Irritations](https://theblissfuldog.com/products/portuguese-water-dog-boo-boo-butter): The Blissful Dog Portuguese Water Dog Boo Boo Butter - All natural herbal balm for your Dog's skin irritations, bug bites, rashes, scrapes, scratches and scars.
-  Updated: 2025-10-16T15:40:55Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -11785,7 +11785,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PWD-50TUBE-BOOBOO-ING-2500.jpg?v=1738716982
     Price: $11.95 USD
 - [Herbal Boo Boo Butter for English Cocker Spaniel Skin Irritations](https://theblissfuldog.com/products/english-cocker-spaniel-boo-boo-butter): Boo Boo Butter for English Cocker Spaniel Skin Care soothes your dog's minor skin issues, itchy spots, bug bites, rashes, clipper burn, brush abrasions+
-  Updated: 2025-10-20T04:20:51Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -11840,7 +11840,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/3-CUTE-COMBO-TIN_1080.jpg?v=1648230501
   Price: $29.95 USD
 - [Boo Boo Butter Herbal Dog Balm for Puppy Skin Care Needs](https://theblissfuldog.com/products/3-cute-puppies-boo-boo-butter): The Blissful Dog Boo Boo Butter all natural herbal balm for puppy skin care issues; bug bites, abrasions, nose wrinkles, facial folds, crusty ears, hurt tails+
-  Updated: 2025-10-16T15:40:55Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -11944,7 +11944,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BF_GALLON_DOG2.jpg?v=1689254882
     Price: $72.95 USD
 - [Boo Boo Butter All Natural Herbal Fila Brasileiro Skin Care Balm](https://theblissfuldog.com/products/fila-brasileiro-boo-boo-butter): The Blissful Dog Boo Boo Butter for Fila Brasileiro skin care. All natural herbal balm for your Fila's skin irritations, itchy spots, rashes & scratches.
-  Updated: 2025-10-16T15:40:56Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -12529,7 +12529,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KUVASZ_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631906441
     Price: $10.95 USD
 - [Boo Boo Butter Kuvasz Skin Care | Skin Irritation Treatment](https://theblissfuldog.com/products/kuvasz-boo-boo-butter): Ease your Kuvasz skin irritations with Boo Boo Butter! All natural, made in MN Boo Boo Butter soothes Kuvasz scratches, scrapes, nicks and cuts.
-  Updated: 2025-10-16T15:41:03Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -12619,7 +12619,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ANATOLIAN-KANGAL-RELAX-SPRAY-MAIN-2024.jpg?v=1738772683
     Price: $13.95 USD
 - [Boo Boo Butter Anatolian Shepherd Skin Care & Irritation Treatment](https://theblissfuldog.com/products/anatolian-shepherd-boo-boo-butter): Ease your Anatolian Shepherd skin irritations with Blissful Dog Boo Boo Butter! All natural, made in MN Boo Boo Butter soothes scratches, scrapes, nicks & cuts.
-  Updated: 2025-10-16T15:41:04Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13189,7 +13189,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/TT_RELAX_2500.jpg?v=1623607757
     Price: $13.95 USD
 - [Boo Boo Butter Herbal Dog Balm for Tibetan Terrier Skin Care Needs](https://theblissfuldog.com/products/tibetan-terrier-boo-boo-butter): The Blissful Dog Boo Boo Butter all natural herbal balm for Tibetan Terrier skin care minor irritations & issues; bug bites, abrasions, crusty ears, hurt tails+
-  Updated: 2025-10-16T15:41:21Z
+  Updated: 2025-11-01T01:40:54Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13348,7 +13348,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/SCWT_50TUBE_OLIVE_OIL_DEFINE_NOSE.jpg?v=1632069881
     Price: $10.95 USD
 - [Soft Coated Wheaten Terrier Dog Skin Irritation Relief Boo Boo Butter](https://theblissfuldog.com/products/soft-coated-wheaten-terrier-boo-boo-butter): The Blissful Dog Boo Boo Butter relieves your Soft Coated Wheaten Terrier's minor skin irritations, such as itchy spots, abrasions, nicks, scrapes, scratches+
-  Updated: 2025-10-16T15:41:21Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13666,7 +13666,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PBGV_50TUBE_NOSE_BUTTERS_OILS_AT_TOP.jpg?v=1631985581
     Price: $10.95 USD
 - [Boo Boo Butter Herbal Dog Balm for Scottish Terrier Skin Care Needs](https://theblissfuldog.com/products/scottish-terrier-boo-boo-butter): The Blissful Dog Boo Boo Butter all natural herbal balm for Scottish Terrier skin care issues; bug bites, abrasions, nose wrinkles, crusty ears, hurt tails+
-  Updated: 2025-10-16T15:41:23Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13700,7 +13700,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/SCOTTIE-50TUBE-BOOBOO-ING-2500.jpg?v=1738712818
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Dog Balm Petit Basset Griffon Vendéen Skin Care](https://theblissfuldog.com/products/petit-basset-griffon-vendeen-boo-boo-butter): The Blissful Dog Boo Boo Butter all natural herbal balm for Petit Basset Griffon Vendéen skin care issues; bug bites, abrasions, crusty ears, hurt tails+
-  Updated: 2025-10-16T15:41:23Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13734,7 +13734,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PBGV-BOOBOO-50TUBE-DRIZZLE-2500.jpg?v=1738718541
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Dog Balm Icelandic Sheepdog Skin Car](https://theblissfuldog.com/products/icelandic-sheepdog-boo-boo-butter): The Blissful Dog Boo Boo Butter all natural herbal balm for Icelandic Sheepdog skin care issues; bug bites, abrasions, crusty ears, hurt tails+
-  Updated: 2025-10-16T15:41:23Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13768,7 +13768,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/ICIE-BOOBOO-50TUBE.jpg?v=1738725901
     Price: $11.95 USD
 - [Boo Boo Butter Your Irish Setter Skin Care All Natural Dog Balm](https://theblissfuldog.com/products/irish-setter-boo-boo-butter): The Blissful Dog Irish Setter Skin Care Boo Boo Butter soothes your dog's minor skin irritations with powerful herbal ingredients in a shea butter base.
-  Updated: 2025-10-16T15:41:23Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13802,7 +13802,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/IRISH-SETTER-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738725825
     Price: $11.95 USD
 - [Akita Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/akita-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes minor Akita skin irritations. All natural Boo Boo Butter is artisan handcrafted in MN using the best for your dog.
-  Updated: 2025-10-31T05:32:44Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13836,7 +13836,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/AKITA-50TUBE-BOOBOO-ING-2500_copy.jpg?v=1738697253
     Price: $11.95 USD
 - [Clumber Spaniel Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/clumber-spaniel-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes minor Clumber Spaniel skin irritations. All natural Boo Boo Butter is artisan handcrafted in MN for your Clumber.
-  Updated: 2025-10-16T15:41:24Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13870,7 +13870,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CLUMBER-BOOBOO-TIN-DRIZZLE-2500.jpg?v=1738736324
     Price: $11.95 USD
 - [Gordon Setter Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/gordon-setter-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes minor Gordon Setter skin irritations. All natural Boo Boo Butter is artisan handcrafted in MN for your Gordon Setter.
-  Updated: 2025-10-16T15:41:24Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -13904,7 +13904,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GORDON-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738727966
     Price: $11.95 USD
 - [Boo Boo Butter Your Irish Wolfhound Skin Care All Natural Dog Balm](https://theblissfuldog.com/products/irish-wolfhound-boo-boo-butter): The Blissful Dog Irish Wolfhound Skin Care Boo Boo Butter soothes your dog's minor skin irritations with powerful herbal ingredients in a shea butter base.
-  Updated: 2025-10-16T15:41:24Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -14082,7 +14082,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PBGV_RELAX_SPRAY_2500.jpg?v=1623534663
     Price: $13.95 USD
 - [Bearded Collie Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/bearded-collie-boo-boo-butter): Blissful Dog Boo Boo Butter soothes minor Bearded Collie Skin irritations. All natural Boo Boo Butter is artisan handcrafted in MN for your Beardie.
-  Updated: 2025-10-16T15:41:26Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -14403,7 +14403,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ICELANDIC_BIG_SNIFF_NOSE.jpg?v=1597954329
   Price: $29.95 USD
 - [The Blissful Dog Icelandic Sheepdog Skin Care Kit Customizable](https://theblissfuldog.com/products/icelandic-sheepdog-tube-combo): Icelandic Sheepdog Skin Care Combo for your dog's dry noses, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-16T15:41:27Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -14431,7 +14431,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/IRISH_WOLF_15TUBE_COMBO.jpg?v=1648567708
   Price: $19.95 USD
 - [The Blissful Dog Irish Wolfhound Care Combo for Happy Healthy Dogs](https://theblissfuldog.com/products/irish-wolfhound-custom-combo): The Blissful Dog Customized Irish Wolfhound Care Combo for dry noses, rough paws & minor skin issues. Customize to suit your Irish Wolfhound's exact needs.
-  Updated: 2025-10-16T15:41:28Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -14780,7 +14780,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAGOTTO_NOSE2_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631912852
     Price: $10.95 USD
 - [Boo Boo Butter - Lagotto Romagnola Skin Care for Minor Irritations](https://theblissfuldog.com/products/lagotto-romagnola-boo-boo-butter): The Blissful Dog Boo Boo Butter - Lagotto Romagnola skin care herbal balm for your hard-working dog's skin irritations, bug bites, rashes, scrapes, and scratches.
-  Updated: 2025-10-16T15:41:29Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -15050,7 +15050,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FIELD_SP_50TUBE_NOSE__WHITE_COCONUT_OPEN_VER2.jpg?v=1631806829
     Price: $10.95 USD
 - [Herbal, Handcrafted Boo Boo Butter for Field Spaniel Skin Irritations](https://theblissfuldog.com/products/field-spaniel-boo-boo-butter): Boo Boo Butter for Field Spaniel Skin Care soothes your dog's minor skin issues, itchy spots, bug bites, rashes, clipper burn, abrasions. Free Shipping in USA.
-  Updated: 2025-10-16T15:41:30Z
+  Updated: 2025-11-01T01:40:11Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -15190,7 +15190,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/CLUMBER_COMBO.jpg?v=1648397422
   Price: $29.95 USD
 - [Customize Your Corgi Care Combo Kit for Corgi Nose, Paws & Skin Care](https://theblissfuldog.com/products/clumber-spaniel-tube-combo): The Blissful Dog presents Custom Corgi Care Combo kits for dry noses, rough paws and itchy skin issues can be customized to fit your Corgi's singular needs.
-  Updated: 2025-10-16T15:41:32Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -15204,7 +15204,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/FIELD_SPANIEL_COMBO_KIT_1080.jpg?v=1648489467
   Price: $29.95 USD
 - [The Blissful Dog Field Spaniel Skin Care Combo](https://theblissfuldog.com/products/field-spaniel-tube-combo): The Blissful Dog Build Your Own Field Spaniel Skin Care Combo. Our all natural balms soothe dog's rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-16T15:41:32Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
@@ -15225,7 +15225,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GORDON_SETTER_TUBE_COMBO_1080_966d45a9-a103-4b0e-898b-3aa8ae4ae827.jpg?v=1648517434
   Price: $19.95 USD
 - [Boo Boo Butter Herbal Dog Balm for Keeshond Skin Care Needs](https://theblissfuldog.com/products/keeshond-boo-boo-butter): The Blissful Dog Boo Boo Butter all-natural herbal balm soothes Keeshond skin care issues; bug bites, abrasions, nose wrinkles, facial folds, crusty ears+
-  Updated: 2025-10-16T15:41:33Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -15322,7 +15322,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/KEESHOND_COMBO_TIN.jpg?v=1649605360
   Price: $29.95 USD
 - [The Blissful Dog Keeshond Skin Care Combo for Dry Noses, Rough Paws +](https://theblissfuldog.com/products/keeshond-tube-combo): The Blissful Dog Keeshond Care Customized Combo for your dog's dry nose, rough paws, elbow calluses, and minor skin irritations. All-natural, handcrafted balms
-  Updated: 2025-10-16T15:41:34Z
+  Updated: 2025-11-01T01:39:08Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
