@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-31T20:00:38.006Z
+- Updated At: 2025-11-01T08:00:54.848Z
 
 ## Products
 
@@ -7821,7 +7821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-hoodie-pigment-light-blue-front-67951d3dacb13.jpg?v=1737830774
     Price: $80.00 USD
 - [Men's Fleece Zip Up Hoodie](https://baskandweave.com/products/mens-fleece-zip-up-hoodie): With its soft, premium quality fleece fabric and jersey-lined hood, this zip-up hoodie will be a cozy addition to your outfit. Pair it with jeans, shorts, a skirt, or a dress to stay warm in style. • 80% cotton, 20% polyester blend fleece• Grey Heather is 75% cotton, 25% polyester• Charcoal Heather is 55% cotton, 45% polyester• 100% cotton face• Fabric weight: 8.5 oz./yd² (280 g/m²)• Yarn diameter: 20 singles• Jersey-lined hood• Split stitch double-needle sewing on all seams• Twill neck tape• 1 × 1 ribbing for cuffs and waistband• Metal eyelets• Metal kissing zipper• Blank product sourced from PakistanThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 50.8 87.6 M 73.7 55.9 90.2 L 76.2 61 92.7 XL 78.7 66 95.3 2XL 81.3 68.6 97.8
-  Updated: 2025-10-29T23:04:05Z
+  Updated: 2025-11-01T02:24:00Z
   Vendor: Bask & Weave
   Product Type: Zip Up Hoodie
   Availability: Available
@@ -7847,7 +7847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-black-front-67951dce0934e.jpg?v=1740267149
     Price: $64.50 USD
   - [Classic Navy / S](https://baskandweave.com/products/mens-fleece-zip-up-hoodie?variant=47078539264250)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-67951dce0e61f.jpg?v=1737830832
     Price: $61.00 USD
   - [Classic Navy / M](https://baskandweave.com/products/mens-fleece-zip-up-hoodie?variant=47078539297018)
@@ -18503,7 +18503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-essential-eco-hoodie-white-front-6796dccd1c267.jpg?v=1737941775
     Price: $62.00 USD
 - [Women's Fleece Zip Up Hoodie](https://baskandweave.com/products/womens-fleece-zip-up-hoodie): With its soft, premium quality fleece fabric and jersey-lined hood, this zip-up hoodie will be a cozy addition to your outfit. Pair it with jeans, shorts, a skirt, or a dress to stay warm in style. • 80% cotton, 20% polyester blend fleece • Grey Heather is 75% cotton, 25% polyester • Charcoal Heather is 55% cotton, 45% polyester • 100% cotton face • Fabric weight: 8.5 oz./yd² (280 g/m²) • Yarn diameter: 20 singles • Jersey-lined hood • Split stitch double-needle sewing on all seams • Twill neck tape • 1 × 1 ribbing for cuffs and waistband • Metal eyelets • Metal kissing zipper • Blank product sourced from Pakistan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 50.8 87.6 M 73.7 55.9 90.2 L 76.2 61 92.7 XL 78.7 66 95.3 2XL 81.3 68.6 97.8
-  Updated: 2025-10-29T23:04:21Z
+  Updated: 2025-11-01T02:24:00Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -18529,7 +18529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-black-front-6796dd99c4771.jpg?v=1737941832
     Price: $58.50 USD
   - [Classic Navy / S](https://baskandweave.com/products/womens-fleece-zip-up-hoodie?variant=47081159360762)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-classic-navy-front-6796dd99c65df.jpg?v=1737941832
     Price: $55.50 USD
   - [Classic Navy / M](https://baskandweave.com/products/womens-fleece-zip-up-hoodie?variant=47081159393530)
