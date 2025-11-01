@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-31T16:01:13.667Z
+- Updated At: 2025-11-01T08:01:09.841Z
 
 ## Products
 
@@ -2209,28 +2209,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/946.jpg?v=1731048692
   Price: ₹349.00 INR
 - [HOT WHEELS ULTRA HOTS 78 PORSCHE 935-78](https://theworldofnerds.com/products/hot-wheels-ultra-hots-78-porsche-935-78): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-31T06:15:06Z
+  Updated: 2025-11-01T07:51:33Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/948.jpg?v=1731048826
   Price: ₹349.00 INR
 - [HOT WHEELS ULTRA HOT 86 THUNDERBIRD PRO STOCK](https://theworldofnerds.com/products/hot-wheels-ultra-hot-86-thunderbird-pro-stock): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-31T12:55:04Z
+  Updated: 2025-11-01T00:11:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/950.jpg?v=1731048947
   Price: ₹399.00 INR
 - [HOT WHEELS ULTRA HOTS 71 DATSUN 510](https://theworldofnerds.com/products/hot-wheels-ultra-hots-71-datsun-510): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-31T02:17:23Z
+  Updated: 2025-11-01T05:58:09Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/949.jpg?v=1731049065
   Price: ₹349.00 INR
 - [HOT WHEELS ULTRA HOTS TOYOTA AE86 SPRINTER TRUENO](https://theworldofnerds.com/products/hot-wheels-ultra-hots-toyota-ae86-sprinter-trueno): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-31T03:10:49Z
+  Updated: 2025-11-01T03:44:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -2475,7 +2475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_6f6a3c8a-c553-450f-8a6f-dbf0bc925dc4.png?v=1731069275
   Price: ₹599.00 INR
 - [MAJORETTE MONSTER ROCKERZ TOYOTA FJ CRUISER](https://theworldofnerds.com/products/majerette-monster-rockerz-toyota-fj-cruiser): Experience the thrill of adventure with the Majorette Monster Rockerz Toyota FJ Cruiser! This durable die-cast toy is designed to tackle any terrain, featuring a bold design and oversized wheels. Ideal for both play and display, it embodies the spirit of off-road exploration. Get ready to hit the road with this fantastic FJ Cruiser! This high-quality toy brings the iconic FJ Cruiser to life, featuring realistic detailing and rugged design.
-  Updated: 2025-10-31T04:49:37Z
+  Updated: 2025-10-31T23:30:32Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4407,7 +4407,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1-2025-02-03T175410.422.jpg?v=1738585463
   Price: ₹1,625.00 INR
 - [JISI BRICKS SUPER HEROES AVENGERS WITH HYDRA BLOCK](https://theworldofnerds.com/products/jisi-bricks-super-heroes-avengers-with-hydra-block): Introduce your little one to the world of superheroes with JISI Bricks Super Heroes Avengers with Hydra Block. With this building set, they can create their own epic battles and save the day with their favorite characters. Compatible with other building sets and featuring intricate details, this set will inspire creativity and imaginative play.
-  Updated: 2025-10-31T10:06:10Z
+  Updated: 2025-11-01T05:46:34Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -5114,7 +5114,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7275.jpg?v=1739344772
   Price: ₹399.00 INR
 - [DRAGON BALL GOKU 7 ACTION FIGURE](https://theworldofnerds.com/products/dragon-ball-goku-7-action-figure): Introducing the DRAGON BALL GOKU 7 ACTION FIGURE, the perfect addition to any collector's display. Made with high-quality materials and authentic detailing, this figure captures the essence of the iconic character, Goku. With seven points of articulation, you can pose and display Goku in a variety of positions, bringing the Dragon Ball universe to life. Don't miss out on this one-of-a-kind collectible.
-  Updated: 2025-07-29T05:13:26Z
+  Updated: 2025-11-01T05:41:53Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5485,7 +5485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC06125copy.jpg?v=1740056456
   Price: ₹399.00 INR
 - [BELLE BEAUTY Q POSKET](https://theworldofnerds.com/products/belle-beauty-q-posket): Introducing the BELLE BEAUTY Q POSKET, a beauty essential for every makeup lover. This versatile and compact product features a sleek design, perfect for on-the-go touch-ups. With high-quality materials and precision-made, this is a must-have for any beauty expert.
-  Updated: 2025-10-31T01:51:54Z
+  Updated: 2025-11-01T03:47:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7487,7 +7487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_30ead421-c363-4255-9047-25593619cc2b.jpg?v=1742885206
   Price: ₹239.00 INR
 - [PAIN KEYCHAIN](https://theworldofnerds.com/products/pain-keychain): The PAIN KEYCHAIN is a handy accessory that provides quick and easy access to pain relief. With its compact design, this keychain can be taken anywhere, ensuring relief from aches and pains at any time. Simply attach it to your keyring and have pain relief on the go.
-  Updated: 2025-10-31T04:56:24Z
+  Updated: 2025-11-01T02:06:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8306,7 +8306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6644552a-d5fc-4460-a0cf-391e171e66ac.jpg?v=1748496732
   Price: ₹279.00 INR
 - [D2-KAKASHI HATAKE KEYCHAIN](https://theworldofnerds.com/products/d2-kakashi-hatake-keychain-1): D2-Kakashi Hatake Keychain – Show off your ninja spirit with this D2-Kakashi Hatake keychain! Featuring Kakashi’s iconic mask and Sharingan eye, crafted with durable material and fine details. Perfect for keys, bags, or gifting to Naruto fans. A must-have collectible for anime lovers!
-  Updated: 2025-10-31T11:23:36Z
+  Updated: 2025-11-01T05:57:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
