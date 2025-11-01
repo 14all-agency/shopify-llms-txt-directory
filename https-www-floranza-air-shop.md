@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-31T00:00:51.213Z
+- Updated At: 2025-11-01T04:01:32.174Z
 
 ## Products
 
@@ -27256,6 +27256,9 @@ Origine:Fujian,China
 - [News](https://www.floranza-air.shop/blogs/news)
   - [Ode à la Tendresse](https://www.floranza-air.shop/blogs/news/ode-a-la-tendresse): Un poème touchant qui célèbre la beauté de la tendresse dans notre quotidien. Laissez-vous porter par ces vers qui rappellent l'importance des petits gestes d'amour et de douceur.
     Updated: 2025-10-30T02:11:24Z
+    Author: JOSEPH ALTIDOR FRANCOIS
+  - [MAISON MODERNE](https://www.floranza-air.shop/blogs/news/maison-moderne)
+    Updated: 2025-10-31T01:03:32Z
     Author: JOSEPH ALTIDOR FRANCOIS
 
 ## Store Pages
