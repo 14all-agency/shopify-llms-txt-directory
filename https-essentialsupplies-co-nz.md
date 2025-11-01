@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-01T00:00:46.019Z
+- Updated At: 2025-11-01T08:00:51.279Z
 
 ## Products
 
@@ -4188,7 +4188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/deck-scrubbing-broom-blue-250mm-x-22mm-x-1200mm-soft-bristles-brooms-essential-supplies-239295.jpg?v=1719444950
   Price: $32.00 NZD
 - [Garden Master Broom - Green, 460mm x 25mm x 1350mm, Stiff Bristles](https://essentialsupplies.co.nz/products/garden-master-broom-green-460mm-x-25mm-x-1350mm-stiff-bristles-3): Garden master brooms are made from sustainable New Zealand South Island Beech, ideal for domestic and commercial use. The all purpose broom features a unique bracket design to brace and secure the handle within the broom block. Available in a range of head widths from 355mm to 610mm.
-  Updated: 2025-10-31T09:12:55Z
+  Updated: 2025-11-01T07:36:52Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -5658,7 +5658,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/latex-diamond-grip-examination-gloves-powder-free-white-xl-240mm-cuff-80g-1000-gloves-latex-examination-gloves-essential-supplies-561062.jpg?v=1719445401
   Price: $109.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, S, 240mm Cuff, 3.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-s-240mm-cuff-3-0g-1000): Blue powder free nitrile gloves offer cost effective snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-10-31T02:36:55Z
+  Updated: 2025-11-01T02:54:56Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -7476,7 +7476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/prestretch-hand-stretch-film-clear-450mm-x-400m-x-9mu-4-rolls-extended-core-hand-stretch-film-essential-supplies-802729.jpg?v=1719445672
   Price: $60.00 NZD
 - [Cast Machine Stretch Film - Clear, 500mm x 1087m x 30mu - 1 Roll](https://essentialsupplies.co.nz/products/cast-machine-stretch-film-clear-500mm-x-1087m-x-30mu-1)
-  Updated: 2025-01-09T10:03:28Z
+  Updated: 2025-11-01T01:21:44Z
   Vendor: Mattews Packaging
   Product Type: Machine Stretch Film
   Availability: Available
