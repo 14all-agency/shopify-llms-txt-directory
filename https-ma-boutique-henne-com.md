@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-31T16:00:45.456Z
+- Updated At: 2025-11-01T00:00:54.821Z
 
 ## Products
 
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Henne-Tazarine.jpg?v=1607715705
   Price: 5,10 € EUR
 - [Henné du Maroc](https://ma-boutique-henne.com/products/henne-du-maroc-100gr): Ce henné est 100% naturel, traditionnelle, coloration des cheveux et tatouages temporaires sur le corps. Henné du Maroc, marocain, tazarine, soin des cheveux, coloration cheveux blancs, soin capillaire, boutique, bio, vegan, beauté chevelure, brillance, soin, roux, rousse, cuivré, auburn, rouge, bordeaux, plante, poudre
-  Updated: 2025-10-29T07:13:21Z
+  Updated: 2025-10-31T17:07:36Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -534,7 +534,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Composition1_4725e137-b81b-4387-96fc-faf98bab8fd5.jpg?v=1628865134
   Price: 3,50 € EUR
 - [Lot de 10 bonnets de bain jetables, élastiques](https://ma-boutique-henne.com/products/lot-de-10-bonnets-de-bain-jetables-elastiques): gants bonnets bain douche étanche imperméable caoutchouc plastique jetable protection cheveux salle de bain pose de hennés et colorations naturelles, latex, gant, protection mains, bonnets, préparation, pose, gants préparation soin capillaire, cheveux, naturel, bio, vegan, rouge cerise, maison, nettoyer, vaisselle
-  Updated: 2025-08-14T13:10:01Z
+  Updated: 2025-10-31T19:43:42Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -548,14 +548,14 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1vrQHaCSD3KVjSZFKq6z10VXa9.jpg_q50.jpg?v=1564063547
   Price: 12,00 € EUR
 - [Petit fouet / mélangeur avec embout plastique](https://ma-boutique-henne.com/products/petit-fouet-melangeur-avec-embout-plastique): Ce mini fouet accessoire indispensable pour vos tambouilles ustensiles non métalliques, préparation masques capillaires et colorations végétales, petit batteur, mélangeur, mélanger ingrédient, poudres, plantes, décoction, préparer henné, soin capillaire, sidr, neem, shikakai, plastique, outils, bol, récipient, cheveux
-  Updated: 2025-10-30T18:06:16Z
+  Updated: 2025-10-31T17:07:36Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1hAk7bvNNTKJjSspfq6zXIFXa5.jpg?v=1530109520
   Price: 3,00 € EUR
 - [Cuillère en Bois naturel](https://ma-boutique-henne.com/products/cuillere-en-bois-naturel): cuillère en bois naturel, bambou, fouet, tambouilles ustensiles non métalliques, préparation masques capillaires et colorations végétales, petit batteur, mélangeur, mélanger ingrédient, poudres, plantes, décoction, préparer henné, soin capillaire, sidr, neem, shikakai, plastique, outils, bol, récipient, cheveux
-  Updated: 2025-10-19T09:40:51Z
+  Updated: 2025-10-31T17:07:36Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1039,14 +1039,14 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/179-large_default.jpg?v=1548845590
   Price: 6,00 € EUR
 - [Shampoing Bio Clarifiant préparateur à la coloration - Avatara, La Saponaria](https://ma-boutique-henne.com/products/shampoing-clarifiant-preparateur-a-la-coloration-avatara-la-saponaria): Henné blond doré, coloration végétale Devi, la saponaria, Hennetica,  fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-31T10:05:27Z
+  Updated: 2025-10-31T17:07:36Z
   Vendor: ma boutique henné
   Product Type: Shampoing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/21271338_1462300617140823_9173000502723295013_n.png?v=1552386274
   Price: 12,00 € EUR
 - [Henna Lips - Feutre à lèvres 100% naturel au Henné, longue tenue - plusieurs coloris](https://ma-boutique-henne.com/products/feutre-a-levres-100-naturel-au-henne-longue-tenue-henna-lips-plusieurs-coloris): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, crayon yeux, rouge à lèvres bordeaux, chili, rose, mauve, marron, cappuccino,
-  Updated: 2025-10-14T09:23:00Z
+  Updated: 2025-10-31T19:06:30Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -2020,7 +2020,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henne-souad-rouge-clair.jpg?v=1734610987
   Price: 4,50 € EUR
 - [Henné naturel d'Egypte - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-naturel-degypte-exclusivite-ma-boutique-henne): Ce henné 100% naturel, egypte, rouge roux  naturel BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, rouge ,poudre plante, coloration, coloration cheveux gris, henna
-  Updated: 2025-10-29T12:55:06Z
+  Updated: 2025-10-31T17:07:36Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
