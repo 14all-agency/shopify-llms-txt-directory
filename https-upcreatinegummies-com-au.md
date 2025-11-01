@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-10-31T12:00:31.910Z
+- Updated At: 2025-11-01T00:00:53.504Z
 
 ## Products
 
