@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-31T20:01:14.969Z
+- Updated At: 2025-11-01T00:01:12.604Z
 
 ## Products
 
@@ -2020,7 +2020,7 @@ Cada conjunto inclui:
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-culinaria-essencial-82315423-brincatoys-1178693314.jpg?v=1752835810
   Price: 27,50 € EUR
 - [Conjunto Cupcakes](https://brincatoys.pt/products/conjunto-cupcakes): É hora de um doce tratamento! Faça suas próprias criações de cupcake com este conjunto com quatro cupcakes e uma variedade de coberturas espetaculares, incluindo uma vela, frutas e um wafer.
-  Updated: 2025-10-31T12:24:29Z
+  Updated: 2025-10-31T20:13:41Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -8544,20 +8544,8 @@ Figura com aproximadamente 8 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/sonic-the-hedgehog-tails-figura-artilhada-e-charmosa-774149825-0192995414983-sonic-the-hedgehog-1192494853.jpg?v=1757706730
   Price: 19,99 € EUR
-- [Spidey and His Amazing Friends Aracno triciclo com luzes ...](https://brincatoys.pt/products/spidey-and-his-amazing-friends-aracno-triciclo-com-luzes-e-sons): Muita diversão com o Spidey e Seus Amigos Espetaculares! As crianças 
-podem apertar o botão para ver o veículo iluminar-se e emitir 
-sons. Basta apertar um botão para escutar os sons inspirados no desenho 
-da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de 
-10 cm da linha Spidey And His Amazing Friends vem com 5 pontos de 
-...
-  Updated: 2025-10-31T12:26:43Z
-  Vendor: Spidey and Amazing Friends
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-aracno-triciclo-com-luzes-90453122-spidey-and-amazing-friends-1178695379.jpg?v=1752873132
-  Price: 44,99 € EUR
 - [Spidey and His Amazing Friends Aracno triciclo com luzes e s](https://brincatoys.pt/products/spidey-and-his-amazing-friends-aracno-triciclo-com-luzes-e-sons-1): Muita diversão com o Spidey e Seus Amigos Espetaculares! As crianças podem apertar o botão para ver o veículo iluminar-se e emitir sons. Basta apertar um botão para escutar os sons inspirados no desenho da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de 10 cm da linha Spidey And His Amazing Friends vem com 5 pontos de articula
-  Updated: 2025-10-31T12:26:43Z
+  Updated: 2025-10-31T21:14:29Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
@@ -11713,7 +11701,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-batman-cinturao-cinzento-30-cm-773440623-dc-comics-1178696674.jpg?v=1752804368
   Price: 18,99 € EUR
 - [Figura DC - The Joker 30 cm](https://brincatoys.pt/products/figura-dc-the-joker-30-cm): Cria as tuas próprias histórias do Universo DC com a figura de ação de 30 cm da DC Comics The Joker. Apresenta 11 pontos de articulação e um estilo icônico detalhado que dá vida ao teu personagem favorito da DC! Junta-te a super-heróis e vilões icônicos no universo DC. Envolve a tua imaginação com a tua figura de ação enquanto jogas as tuas própria
-  Updated: 2025-10-31T12:54:25Z
+  Updated: 2025-10-31T21:19:13Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -18107,7 +18095,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/nave-star-wars-micro-galaxy-sith-infiltrator-replica-precisa-23025524-0191726711384-star-wars-1178701235.jpg?v=1752968046
   Price: 44,90 € EUR
 - [Nave Star Wars Micro Galaxy Imperial Shuttle: Reviva a Emoção](https://brincatoys.pt/products/nave-star-wars-micro-galaxy-imperial-shuttle): Reviva a emoção da galáxia com a Nave Star Wars Micro Galaxy Imperial Shuttle. Detalhes autênticos, asas articuladas e figuras exclusivas. Compre agora! ✨
-  Updated: 2025-10-31T12:30:17Z
+  Updated: 2025-10-31T21:33:41Z
   Vendor: Star Wars
   Product Type: + 8 anos
   Availability: Available
@@ -20692,7 +20680,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/porta-moedas-silicone-dinossauro-praticidade-e-design-divertido-921940425-8422593194041-brincatoys-1191573113.jpg?v=1757116329
   Price: 10,00 € EUR
 - [Cars Camião Mack Transformável: A Oficina Mágica](https://brincatoys.pt/products/cars-camiao-mack-transformavel): Desperte a imaginação com o Cars Camião Mack Transformável! Transforme com um botão e divirta-se com corridas emocionantes. 🚚
-  Updated: 2025-10-31T12:31:30Z
+  Updated: 2025-10-31T20:13:35Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -20918,7 +20906,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-963-gtp-1-24-682804225-8719247991935-bburago-1194667588.jpg?v=1758803647
   Price: 27,90 € EUR
 - [Carro de brincar Ford Ranger Laranja: Aventura Miniatura](https://brincatoys.pt/products/ford-ranger-laranja-2019): Explore o fascinante carro de brincar Ford Ranger Laranja! Esta réplica em miniatura encanta colecionadores e amantes de aventuras. 🚗
-  Updated: 2025-10-31T12:31:36Z
+  Updated: 2025-10-31T20:25:50Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21499,14 +21487,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-studio-series-megatron-poder-decepticon-861790525-5010996346049-transformers-1200610960.jpg?v=1761860884
   Price: 49,90 € EUR
 - [Transformers Studio Series - Optimus Prime: Figura Perfeita](https://brincatoys.pt/products/transformers-studio-series-optimus-prime): Descobre o Transformers Studio Series - Optimus Prime e traz o herói de Cybertron para a tua coleção. Com 22 passos de transformação, não percas!
-  Updated: 2025-10-31T12:31:49Z
+  Updated: 2025-10-31T23:26:08Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-studio-series-optimus-prime-861789525-5010996346179-transformers-1200610956.jpg?v=1761860772
   Price: 49,90 € EUR
 - [Transformers: Studio Series - Sideswipe em 16 Passos](https://brincatoys.pt/products/transformers-studio-series-sideswipe): Transforma a tua coleção com o Transformers: Studio Series - Sideswipe! A figura fiel ao design clássico traz velocidade e ação. Adquire já a tua!
-  Updated: 2025-10-31T15:51:58Z
+  Updated: 2025-10-31T23:49:41Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -21670,7 +21658,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 176
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 117
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-10-31T12:23:49Z
@@ -21694,7 +21682,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:50Z
   Total Products: 322
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 1579
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-31T12:23:50Z
@@ -21721,16 +21709,16 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T18:07:25Z
   Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-31T18:07:25Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3264
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-31T18:07:25Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3400
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3480
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3529
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-31T18:04:32Z
@@ -21907,7 +21895,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 28
 - [Spidey and Amazing Friends](https://brincatoys.pt/collections/spidey-and-amazing-friends)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 11
 - [Super Mario](https://brincatoys.pt/collections/super-mario)
   Updated: 2025-10-31T12:23:53Z
@@ -21922,7 +21910,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3562
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-31T14:53:30Z
@@ -21934,7 +21922,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 120
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-31T12:23:54Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 1237
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-31T12:23:54Z
@@ -21958,10 +21946,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3563
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-10-31T21:16:18Z
   Total Products: 3563
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-31T12:23:54Z
@@ -21973,8 +21961,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T18:07:26Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-31T18:07:26Z
-  Total Products: 3065
+  Updated: 2025-10-31T21:16:18Z
+  Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 19
@@ -21982,11 +21970,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 124
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-31T18:07:26Z
-  Total Products: 3065
+  Updated: 2025-10-31T21:16:18Z
+  Total Products: 3064
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-31T18:04:31Z
-  Total Products: 833
+  Updated: 2025-10-31T21:16:18Z
+  Total Products: 834
 
 ## Blogs
 
