@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-01T08:00:51.279Z
+- Updated At: 2025-11-01T12:00:52.462Z
 
 ## Products
 
@@ -739,7 +739,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dispenser-microfibre-cloths-white-300mm-x-300mm-185gsm-50-pack-dry-cloths-essential-supplies-343466.jpg?v=1719444963
   Price: $29.00 NZD
 - [Dispenser Microfibre Cloths - Yellow, 300mm x 300mm, 185gsm - 50 Pack](https://essentialsupplies.co.nz/products/dispenser-microfibre-cloths-yellow-300mm-x-300mm-185gsm-50): Dispenser pack microfibre cloths are made from soft, non abrasive microfibre and feature an edgeless design.Ideal for grab and go cleaning at home, the office, car or garage. They conveniently trap dirt, grime and other particles, and clean without leaving traces of lint residue, streaks or scratches. The rags measure 300mm (W) x 300mm (L) and come in a handy pack of 50 cloths. Fast and effective, surface cleaning solution Size: 300mm x 300mm x 185gsm Pack of 50 per dispenser Carton: 9 packs Colour: Yellow
-  Updated: 2025-10-31T11:32:06Z
+  Updated: 2025-11-01T11:28:36Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
@@ -4594,7 +4594,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/contractors-floor-squeegee-orange-600mm-x-25mm-x-1350mm-floor-squeegees-essential-supplies-714781.jpg?v=1719444943
   Price: $75.00 NZD
 - [Safety Sign Wet Floor - Yellow, 290mm x 660mm](https://essentialsupplies.co.nz/products/safety-sign-wet-floor-yellow-290mm-x-660mm-10): Wet floor signs are made from UV treated high quality plastic and UV resistant ink for longer life. Useful for avoiding injury on wet floors and great for malls, commercial buildings and schools. Sign measures 290x660mm and is collapsible.
-  Updated: 2025-10-31T01:33:17Z
+  Updated: 2025-11-01T09:46:35Z
   Vendor: Mattews Packaging
   Product Type: Cleaning Signs
   Availability: Available
