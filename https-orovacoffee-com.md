@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-11-01T12:00:47.183Z
+- Updated At: 2025-11-01T16:00:40.230Z
 
 ## Products
 
@@ -288,7 +288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021_Custom_with_label.png?v=1758369057
   Price: £25.99 GBP
 - [SPECIALTY COFFEE BEAN ADVENT CALENDAR](https://orovacoffee.com/products/coffee-bean-advent-calendar): This festive season, gift the Coffee Bean Advent Calendar to a coffee lover or let it be the centerpiece of your yuletide mornings. Because nothing says "Christmas is coming" like the rich aroma of freshly brewed specialty coffee as you unveil beans hand-picked from 25 meticulously chosen coffee artisans and cooperatives, all waiting to brew magic in your mug.
-  Updated: 2025-11-01T00:48:37Z
+  Updated: 2025-11-01T13:44:31Z
   Vendor: The Brew Company
   Product Type: Christmas Gift
   Availability: Available
@@ -382,8 +382,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
   Price: £2.99 GBP
-- [RED Xmas](https://orovacoffee.com/products/red-xmas)
-  Updated: 2025-11-01T00:48:37Z
+- [RED Xmas Coffee – Limited Edition Holiday Blend for Gifting & Brewing](https://orovacoffee.com/products/red-xmas): This festive season, embrace the warmth of the holidays in every cup with RED Xmas — a small‑batch coffee crafted to delight, whether you’re brewing at home for yourself or gifting to someone special. ✨ Highlights: • A rich and inviting blend with deep cocoa, caramel sweetness and a whisper of winter spice. • Smooth and balanced body, offering both comfort and character from the first sip to the last. • Versatile across 25 coffee brewers — from espresso machines and French press, to pour‑over, moka pot, drip, AeroPress and more, so you can enjoy RED Xmas exactly how you like it. • Thoughtful holiday packaging makes it an ideal present for coffee lovers or a treat to mark the season with style. How to savour it: Simply brew your favourite way — whether you opt for a finely‑ground shot or a relaxed filter pour — to unlock the caramel and nutty warmth this roast delivers. Pair it with a dash of milk or enjoy it black for the full flavour experience. Celebrate the season with a coffee that’s made to share, savour, and remember. RED Xmas — more than a blend, it’s a holiday moment in a cup.
+  Updated: 2025-11-01T14:56:42Z
   Vendor: The Brew Company
   Product Type: advent calendar
   Availability: Available
@@ -393,8 +393,8 @@
 ## Collections
 
 - [Home page](https://orovacoffee.com/collections/frontpage)
-  Updated: 2025-10-28T12:17:36Z
-  Total Products: 21
+  Updated: 2025-11-01T15:48:13Z
+  Total Products: 31
 - [Coffee And Tea example products](https://orovacoffee.com/collections/coffee-and-tea-example-products)
   Updated: 2025-10-15T09:02:11Z
   Total Products: 0
