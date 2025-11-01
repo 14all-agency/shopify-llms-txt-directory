@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-01T04:01:09.669Z
+- Updated At: 2025-11-01T12:00:52.243Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -140,7 +140,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_d1eea731-a41f-41d1-b6c0-77e0ed997671.jpg?v=1744908305
   Price: 689,00 € EUR
 - [Transrotor Connoisseur SME 3009 S II Improved Ortofon kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/transrotor-connoisseur-sme-3009-s-ii-improved-ortofon-gebraucht-kaufen): Transrotor Connoisseur SME 3009 S II Improved Ortofon gebraucht kaufen ✅ Geprüfter Plattenspieler mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:50Z
+  Updated: 2025-11-01T04:54:14Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -2002,13 +2002,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_88da491e-8321-43ec-b447-8c59e7c972af.jpg?v=1759251005
   Price: 880,00 € EUR
-- [Denon AVR-4310 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/denon-avr-4310-av-receiver-gebraucht-kaufen): Denon AVR-4310 gebraucht kaufen ✅ Geprüfter AV-Receiver 7.1 für Heimkino kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-06T03:45:21Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_87c3ce21-85d2-45f8-9cc7-4bc5a5feba14.jpg?v=1759251008
-  Price: 470,00 € EUR
 - [Nakaoka Crystal Stabilizer GL 601 MK II gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/nagaoka-crystal-stabilizer-gl-601-mk-ii-gebraucht-kaufen): Nakaoka Crystal Stabilizer GL 601 MK II gebraucht kaufen ✅ Geprüftes Plattengewicht mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-06T03:02:29Z
   Vendor: WorldWideHiFi
@@ -2180,7 +2173,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-31T11:21:46Z
+  Updated: 2025-11-01T11:20:35Z
   Total Products: 87
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-05T15:03:55Z
@@ -2198,7 +2191,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-05T15:02:26Z
   Total Products: 12
 - [Gebrauchte Plattenspieler kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-plattenspieler-kaufen): Gebrauchte Plattenspieler kaufen ✓ HiFi Schallplattenspeieler & Turntables im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-10-07T04:42:56Z
+  Updated: 2025-11-01T11:20:35Z
   Total Products: 37
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-05T16:01:03Z
@@ -2219,10 +2212,10 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-29T11:22:52Z
+  Updated: 2025-11-01T11:20:35Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-21T11:18:46Z
+  Updated: 2025-11-01T11:20:35Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
   Updated: 2025-10-29T11:22:52Z
@@ -2240,8 +2233,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-31T18:06:37Z
-  Total Products: 118
+  Updated: 2025-11-01T11:20:35Z
+  Total Products: 119
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
