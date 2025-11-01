@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-01T04:00:52.515Z
+- Updated At: 2025-11-01T16:00:37.819Z
 
 ## Products
 
@@ -3170,7 +3170,7 @@
     Availability: Available
     Price: RM 850.00 MYR
 - [Docasa WD012 P-trap 180mm S-Trap 200mm 250mm Bathroom Closed Couple Rimless Washdown WC Water Closet 2Piece Jamban Duduk](https://bath2u.com/products/docasa-wd012-p-trap-180mm-s-trap-200mm-250mm-bathroom-closed-couple-rimless-washdown-wc-water-closet-2piece-jamban-duduk): Specification : Dimension: 645W) x 370(L) x 765(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-10-31T10:45:58Z
+  Updated: 2025-11-01T04:12:13Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3185,7 +3185,7 @@
     Availability: Available
     Price: RM 299.00 MYR
 - [Docasa WD018 P-trap 180mm S-Trap 250mm 280mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah](https://bath2u.com/products/docasa-wd018-p-trap-180mm-s-trap-250mm-280mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah): Specification : Dimension: 720(W) x 390(L) x 765(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T01:52:44Z
+  Updated: 2025-11-01T04:11:51Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3203,7 +3203,7 @@
     Availability: Available
     Price: RM 285.00 MYR
 - [Docasa WD011 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah Jimat](https://bath2u.com/products/docasa-wd011-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat): Specification : Dimension: 670W) x 355(L) x 730(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T02:03:47Z
+  Updated: 2025-11-01T04:12:34Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3230,7 +3230,7 @@
     Availability: Available
     Price: RM 658.00 MYR
 - [Docasa WD088P-trap 180mm S-Trap 100mm till 250mm Bathroom Closed Couple Rimless WC Water Closet 2 Piece Jamban Duduk](https://bath2u.com/products/docasa-wd088p-trap-180mm-s-trap-100mm-till-250mm-bathroom-closed-couple-rimless-wc-water-closet-2-piece-jamban-duduk): Specification : Dimension: 645(W) x 365(L) x 790(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T02:26:50Z
+  Updated: 2025-11-01T04:12:56Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3281,7 +3281,7 @@
     Availability: Available
     Price: RM 588.00 MYR
 - [Docasa WD005 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Rimless Washdown WC Water Closet 2Piece Jamban Duduk Murah](https://bath2u.com/products/docasa-wd005-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-rimless-washdown-wc-water-closet-2piece-jamban-duduk-murah): Specification : Dimension: 680W) x 385(L) x 800(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T03:23:46Z
+  Updated: 2025-11-01T04:13:49Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3307,6 +3307,83 @@
   - [S Trap-250MM](https://bath2u.com/products/docasa-a360-p-trap-180mm-s-trap-200mm-250mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk?variant=42629794791508)
     Availability: Available
     Price: RM 499.00 MYR
+- [Docasa WD014 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah Jimat](https://bath2u.com/products/docasa-wd014-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat): Specification : Dimension: 700(W) x 380(L) x 790(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
+  Updated: 2025-11-01T04:14:06Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WD014.jpg?v=1761969130
+  - [P Trap-180MM](https://bath2u.com/products/docasa-wd014-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat?variant=42629852463188)
+    Availability: Available
+    Price: RM 438.00 MYR
+  - [S Trap-250MM](https://bath2u.com/products/docasa-wd014-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat?variant=42629852495956)
+    Availability: Available
+    Price: RM 438.00 MYR
+- [Docasa WD007 P-trap 180mm S-Trap 100mm till 300mm Bathroom Closed Coupled Rimless Washdown WC Water Closet Jamban Duduk](https://bath2u.com/products/docasa-wd007-p-trap-180mm-s-trap-100mm-till-300mm-bathroom-closed-coupled-rimless-washdown-wc-water-closet-jamban-duduk): Specification : Dimension: 660(W) x 365(L) x 820(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
+  Updated: 2025-11-01T04:22:31Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WD007.jpg?v=1761970612
+  - [P Trap-180MM](https://bath2u.com/products/docasa-wd007-p-trap-180mm-s-trap-100mm-till-300mm-bathroom-closed-coupled-rimless-washdown-wc-water-closet-jamban-duduk?variant=42629869404244)
+    Availability: Available
+    Price: RM 599.00 MYR
+  - [S Trap-100~250MM](https://bath2u.com/products/docasa-wd007-p-trap-180mm-s-trap-100mm-till-300mm-bathroom-closed-coupled-rimless-washdown-wc-water-closet-jamban-duduk?variant=42629869437012)
+    Availability: Available
+    Price: RM 599.00 MYR
+  - [S Trap-150~300MM](https://bath2u.com/products/docasa-wd007-p-trap-180mm-s-trap-100mm-till-300mm-bathroom-closed-coupled-rimless-washdown-wc-water-closet-jamban-duduk?variant=42629869469780)
+    Availability: Available
+    Price: RM 599.00 MYR
+- [Docasa A310 HC S-Trap 250mm Bathroom One Piece Handicap Rimless Washdown WC OKU Water Closet Jamban Duduk OKU Handicap](https://bath2u.com/products/docasa-a310-hc-s-trap-250mm-bathroom-one-piece-handicap-rimless-washdown-wc-oku-water-closet-jamban-duduk-oku-handicap): Specification : Dimension: 700(W) x 378(L) x 765(H) mm Handicap water closet Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
+  Updated: 2025-11-01T04:37:06Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/A310_cc017a1b-945b-4bdd-9115-26d117cfa20a.jpg?v=1761971375
+  Price: RM 750.00 MYR
+- [DOCASA A2000 Ceramic PTRAP STRAP 200MM 250MM 300MM Smart Toilet Bowl Set Auto Sensor Dual Flush WaterSaving Water Closet](https://bath2u.com/products/docasa-a2000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-watersaving-water-closet): Specification : Dimension: 680(W) x 390mm(L) x 470(H) mm Bowl size: L 470mm x W 390mm x H 680mm Material ceramic Rimless Washdown Smart Intelligent One Piece Water Closet Flush Type: Syphonic Jet Flushing System: Hand/ Leg Water Cistern: Built-in Power Supply: AC/Backup Battery Seat Cover: Dual Spray/Thermal/ Air Dryer Inlet: Flexi Hose 3/4 (600mm Length) Water Pressure: Min 0.25/Max 0.75 (Mpa) c/w Grease Connector/ LED High-Definition Digital Screen/ Atmosphere light Warranty: 1 Year Fitting / 5 Year ceramic ware
+  Updated: 2025-11-01T05:14:47Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-01130147.png?v=1761973387
+  - [P Trap-180MM](https://bath2u.com/products/docasa-a2000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-watersaving-water-closet?variant=42629898534996)
+    Availability: Available
+    Price: RM 1,999.00 MYR
+  - [S Trap-200MM](https://bath2u.com/products/docasa-a2000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-watersaving-water-closet?variant=42629898567764)
+    Availability: Available
+    Price: RM 1,999.00 MYR
+  - [S Trap-250MM](https://bath2u.com/products/docasa-a2000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-watersaving-water-closet?variant=42629898600532)
+    Availability: Available
+    Price: RM 1,999.00 MYR
+  - [S Trap-300MM](https://bath2u.com/products/docasa-a2000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-watersaving-water-closet?variant=42629898633300)
+    Availability: Available
+    Price: RM 1,999.00 MYR
+- [DOCASA A8000 Ceramic PTRAP STRAP 200MM 250MM 300MM Smart Toilet Bowl Set Auto Sensor Dual Flush Tankless Water Closet](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet): Specification : Dimension: L 500mm x W 420mm x H 680mm Material Ceramic Bowl size: L 500mm x W 420mm x H 680mm Smart Intelligent One Piece Water Closet Flush Type: Syphonic Jet Flushing System: Remote x2 /Knob x 2 /Sensor Kick x 1 Water Resistant: ipx4(Repels Splasing Water) Water Cistern: Built-in(4.5L) Power Supply: AC/Backup Battery Seat Cover: Dual Spray/Thermal/ Air Dryer Inlet: Flexi Hose 3/4 (600mm Length) Water Pressure: Min 1 Bar/Max 7.5 Bar(Strap)/Min 4.5 Bar/Max 7.5 Bar c/w Grease Connector, LED High-Definition Digital Screen, Atmosphere light Foam Bubble when Flushing For Better Flushing and Prevent Smell at Bathroom Warranty: 1 Year Fitting / 5 Year ceramic ware Function : Seat Cover: LED Display - Auto Flip Seat Heating: 4 Level(Off/34C/45C/55C) Air Drying: 4 Level(Off/34C/45C/55C) Foam: Liquid Replacement Bidet Function : Hip Clean/ Female Washing/ Temperature: Off/34C/37C/40C Move Washing(Massage Function)/ Nozzle Cleaning(Adjustable) UV Sterilisation/ Infrared Irradiation
+  Updated: 2025-11-01T05:52:36Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-01132815.png?v=1761974955
+  - [P Trap-180MM](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet?variant=42629909708884)
+    Availability: Available
+    Price: RM 2,399.00 MYR
+  - [S Trap-200MM](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet?variant=42629909741652)
+    Availability: Available
+    Price: RM 2,399.00 MYR
+  - [S Trap-250MM](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet?variant=42629909774420)
+    Availability: Available
+    Price: RM 2,399.00 MYR
+  - [S Trap-300MM](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet?variant=42629909807188)
+    Availability: Available
+    Price: RM 2,399.00 MYR
+- [DOCASA A9000 Ceramic STRAP 250MM Smart Toilet Bowl Set Save Space Auto Sensor Dual Flush Tankless Water Closet Small WC](https://bath2u.com/products/docasa-a9000-ceramic-strap-250mm-smart-toilet-bowl-set-save-space-auto-sensor-dual-flush-tankless-water-closet-small-wc): Specification : Dimension: L 580mm x W 380mm x H 445mm Bowl size: L 580mm x W 380mm x H 445mm Ceramic Material Smart Intelligent One Piece Tankless Water Closet Flush Type: Syphonic Jet Flushing System: Remote x2 /Knob x 1 /Sensor Kick x 1 Water Resistant: ipx4(Repels Splasing Water) Water Cistern: Built-in(4.5L) Power Supply: AC/Backup Battery Seat Cover: Dual Spray/Thermal/ Air Dryer Inlet: Flexi Hose 3/4 (600mm Length) Water Pressure: Min 1 Bar/Max 7.5 Bar(Strap) c/w Grease Connector/ Atmosphere light Foam Bubble when Flushing For Better Flushing and Prevent Smell at Bathroom Function : Seat Cover: Auto Flip Seat Heating: 4 Level(Off/34C/45C/55C) Air Drying: 4 Level(Off/34C/45C/55C) Sensor: Auto Water Outlet Foam: Liquid Replacement Bidet Function : Hip Clean/ Female Washing/ Temperature: Off/34C/37C/40C Move Washing(Massage Function)/ Nozzle Cleaning(Adjustable) UV Sterilisation/ Infrared Irradiation
+  Updated: 2025-11-01T09:13:59Z
+  Vendor: Bath2u.com
+  Product Type: Water Closet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-01140510.png?v=1761977184
+  Price: RM 2,399.00 MYR
 
 ## Collections
 
@@ -3317,8 +3394,8 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 400
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
-  Updated: 2025-11-01T03:34:21Z
-  Total Products: 25
+  Updated: 2025-11-01T06:14:43Z
+  Total Products: 31
 - [Urinal](https://bath2u.com/collections/urinal-toilet): a sanitary plumbing fixture for urination only. Urinals are often provided in public toilets for male users. They are usually used in a standing position
   Updated: 2023-02-10T04:03:40Z
   Total Products: 4
@@ -3326,8 +3403,8 @@
   Updated: 2025-09-30T11:12:38Z
   Total Products: 3
 - [Toilet Seat](https://bath2u.com/collections/toilet-seat): A toilet seat cover or toilet sheet is a disposable piece of paper shaped like the toilet seat itself that can be placed on the seat by its user. Its purpose is to protect the toilet's user from germs that may be resting on the seat by creating a protective barrier.
-  Updated: 2025-11-01T03:34:21Z
-  Total Products: 32
+  Updated: 2025-11-01T06:14:43Z
+  Total Products: 38
 - [Wall Hung Basin](https://bath2u.com/collections/wall-hung-basin): A wall hung basin, as its name suggests, is mounted directly onto the wall, with no bathroom vanity underneath. This makes it a flexible and practical choice for bathrooms of all sizes. With a wide range of different design options available, a wall mounted basin enables you to stamp your own personality onto your bathroom design.
   Updated: 2023-02-10T04:00:06Z
   Total Products: 7
@@ -3461,8 +3538,8 @@
   Updated: 2023-01-25T01:38:26Z
   Total Products: 0
 - [SALES](https://bath2u.com/collections/sales): For all products under sales promotion including annual sales, promotional items, and clearance stocks. Get the best bargain in town here at Best Bath.
-  Updated: 2025-11-01T03:34:22Z
-  Total Products: 20
+  Updated: 2025-11-01T06:14:43Z
+  Total Products: 26
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
   Updated: 2023-03-06T04:07:10Z
   Total Products: 2
@@ -3578,14 +3655,14 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 17
 - [Water Closet](https://bath2u.com/collections/water-closet)
-  Updated: 2025-11-01T03:34:22Z
-  Total Products: 57
+  Updated: 2025-11-01T06:14:43Z
+  Total Products: 63
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
   Updated: 2023-04-16T12:49:45Z
   Total Products: 87
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2025-11-01T03:34:22Z
-  Total Products: 21
+  Updated: 2025-11-01T06:14:43Z
+  Total Products: 27
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
   Total Products: 6
@@ -3665,8 +3742,8 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 67
 - [Docasa](https://bath2u.com/collections/docasa)
-  Updated: 2025-11-01T03:33:55Z
-  Total Products: 17
+  Updated: 2025-11-01T06:14:16Z
+  Total Products: 23
 
 ## Blogs
 
