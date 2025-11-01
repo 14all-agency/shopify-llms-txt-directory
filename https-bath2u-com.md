@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-31T16:00:59.848Z
+- Updated At: 2025-11-01T00:01:01.005Z
 
 ## Products
 
@@ -3047,7 +3047,7 @@
   Availability: Available
   Price: RM 850.00 MYR
 - [Docasa A890 P-trap 180mm S-Trap 250mm 300mm Bathroom One Piece Rimless Washdown WC Water Closet 1 Piece Jamban Duduk](https://bath2u.com/products/docasa-a890-p-trap-180mm-s-trap-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-1-piece-jamban-duduk): Specification : Dimension: 730(W) x 370(L) x 800(H) mm Matrerial Ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-10-31T04:14:56Z
+  Updated: 2025-10-31T16:04:51Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3062,7 +3062,7 @@
     Availability: Available
     Price: RM 399.00 MYR
 - [Docasa A310 P-trap 180mm S-Trap 200mm 250mm 300mm Bathroom One Piece Rimless Washdown WC Water Closet Jamban Duduk](https://bath2u.com/products/docasa-a310-p-trap-180mm-s-trap-200mm-250mm-300mm-bathroom-one-piece-rimless-washdown-wc-water-closet-jamban-duduk): Specification : Dimension: 670(W) x 380(L) x 710(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-10-31T05:19:46Z
+  Updated: 2025-10-31T16:07:23Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3080,7 +3080,7 @@
     Availability: Available
     Price: RM 438.00 MYR
 - [Docasa A375 P-Trap 180 S-Trap 150mm 200mm 250mm 300mm Bathroom One Piece Rimless WC Water Closet 1 Piece Jamban Duduk PP](https://bath2u.com/products/docasa-a375-p-trap-180-s-trap-150mm-200mm-250mm-300mm-bathroom-one-piece-rimless-wc-water-closet-1-piece-jamban-duduk-pp): Specification : Dimension: 680(W) x 360(L) x 755(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-10-31T07:29:50Z
+  Updated: 2025-10-31T19:27:36Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
