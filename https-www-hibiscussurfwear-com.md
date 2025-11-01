@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-11-01T00:00:48.320Z
+- Updated At: 2025-11-01T12:01:02.570Z
 
 ## Products
 
@@ -11857,7 +11857,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/kiss-cut-sticker-sheet-white-front-64b3111b2dbe2.jpg?v=1689456928
   Price: £14.99 GBP
 - [Sunflower positivity - Hibiscus Surfwear - Ethical Bubble-free stickers](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-ethical-bubble-free-stickers): Sunflower positivity - Hibiscus Surfwear - Ethical Bubble-free stickers These stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers. • High opacity film that’s impossible to see through • Fast and easy bubble-free application • Durable vinyl, perfect for indoor use • 95µ density Don't forget to clean the surface before applying the sticker. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) 3″×3″ 3 3 4″×4″ 4 4 5.5″×5.5″ 5 ½ 5 ½
-  Updated: 2025-04-24T15:45:19Z
+  Updated: 2025-11-01T07:37:00Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
