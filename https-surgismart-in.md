@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-01T00:00:36.916Z
+- Updated At: 2025-11-01T08:01:01.709Z
 
 ## Products
 
@@ -1144,7 +1144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Elite2.jpg?v=1751478474
   Price: ₹1,675.00 INR
 - [Buy ​Samso Step Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-step): ABS Body Blue Backlit LCD Display Large Platform Battery and Ambient Temperature Display - Surgismart
-  Updated: 2025-10-15T09:37:47Z
+  Updated: 2025-11-01T06:57:34Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
