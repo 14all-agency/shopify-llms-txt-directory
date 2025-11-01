@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-10-31T16:00:32.790Z
+- Updated At: 2025-11-01T08:00:36.997Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1038,28 +1038,28 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/white-flat-lay-right_2.png?v=1761677623
     Price: 349,00 kr SEK
 - [Useless Corpse – Vila med en viskning av mörker.🖤](https://darkaestheticstudio.com/products/useless-corpse-vila-med-en-viskning-av-morker): Ett klassiskt vitt örngott med subtil edge – perfekt som kontrast till mörkare inredning eller som neutral bas i en estetisk studio. Tyget är slitstarkt men behagligt, med en vikt på 190 g/m² som ger en tyngre, lyxigare känsla än standardkvalitet. Egenskaper: 100 % ekologisk bomull Kuvertöppning Maskintvätt 60 °C Passar till standardkudde 50×60 cm
-  Updated: 2025-10-31T09:00:11Z
+  Updated: 2025-10-31T20:29:11Z
   Vendor: Dark Aesthetic Studio
   Product Type: Kudde
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/useless-corpse-detail.png?v=1761677901
   Price: 199,00 kr SEK
 - [Kuddfodral i abstrakt mönster](https://darkaestheticstudio.com/products/kuddfodral-i-abstrakt-monster): Throw Pillow Cover made from 100% spun polyester poplin fabric, a stylish statement that will liven up any room. Individually cut and sewn by hand, the pillow cover measures 16" x 16", features a double-sided print and is finished with a concealed zipper for ease of care. Does not include pillow insert
-  Updated: 2025-10-31T09:51:09Z
+  Updated: 2025-10-31T22:05:54Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/51798103_large_4089e4f8-d98c-458d-bf35-574a150e8161.png?v=1761725622
   Price: 429,00 kr SEK
 - [Butterfly And Moon Dreamcatcher - Mugg](https://darkaestheticstudio.com/products/butterfly-and-moon-dreamcatcher-mugg): Get this cool design for your everyday life! Unisex's ( Mug ). Design by SPIdeals.This Mug has been made for your everyday superior comfort and is made of Ceramic.
-  Updated: 2025-10-31T09:51:32Z
+  Updated: 2025-10-31T21:51:38Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10301119_large_9ed7fef3-9137-45dc-b57c-b01589f85876.png?v=1761725622
   Price: 359,00 kr SEK
 - [Help! Pug Is Stuck! - Mugg](https://darkaestheticstudio.com/products/help-pug-is-stuck-mugg): Get this cute design to wear in Valentine's day! Unisex's ( Mug ). Design by Smartprints.This Mug has been made for your everyday superior comfort and is made of Ceramic.
-  Updated: 2025-10-31T09:51:43Z
+  Updated: 2025-10-31T21:51:48Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
