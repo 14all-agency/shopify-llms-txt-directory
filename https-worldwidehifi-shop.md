@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-31T08:01:10.943Z
+- Updated At: 2025-11-01T00:00:38.304Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2163,13 +2163,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_af3a02b2-1a8d-4588-bf62-ef643f9233b4.jpg?v=1759771466
   Price: 1.380,00 € EUR
-- [Linn Sondek LP 12 Plattenspieler gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/linn-sondek-lp-12-plattenspieler-lingo-adikt-gebraucht-kaufen): Linn Sondek LP 12 Plattenspieler gebraucht kaufen ✅ Geprüftes Gebrauchtgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-07T05:24:33Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f0e43a18-bde4-4a7d-9af9-67878bc760af.jpg?v=1759771469
-  Price: 2.580,00 € EUR
 - [AVM Competition Mono Endstufen gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/avm-competition-mono-endstufen-gebraucht-kaufen): AVM Competition Mono Endstufen gebraucht kaufen ✅ Geprüfte Power Amplifier mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-07T05:24:37Z
   Vendor: WorldWideHiFi
@@ -2187,13 +2180,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-11T11:22:25Z
+  Updated: 2025-10-31T11:21:46Z
   Total Products: 87
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-05T15:03:55Z
   Total Products: 11
 - [Vorverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/vorverstaerker-gebraucht-kaufen): Vorverstärker gebraucht kaufen ✓ Vorverstärker / gebrauchte Vorstufen im Top-Zustand! ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-06T11:19:30Z
+  Updated: 2025-10-31T11:21:46Z
   Total Products: 26
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-11T11:22:25Z
@@ -2214,7 +2207,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-10-14T11:25:20Z
+  Updated: 2025-10-31T11:21:46Z
   Total Products: 32
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-07T04:42:58Z
@@ -2247,7 +2240,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-30T13:41:35Z
+  Updated: 2025-10-31T18:06:37Z
   Total Products: 118
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
