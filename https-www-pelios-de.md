@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-10-30T12:00:32.480Z
+- Updated At: 2025-11-01T00:00:32.720Z
 
 ## Products
 
@@ -55,12 +55,12 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.994,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-10-27T07:44:39Z
+  Updated: 2025-10-30T18:40:48Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_450_front_flame.webp?v=1753873598
-  Price: 1.685,00 € EUR
+  Price: 1.585,00 € EUR
 - [Ethanol Wandkamin schwarz kaufen☝hier günstig im Shop](https://www.pelios.de/products/nevada-bio-wandkamin): Ethanol Wandkamin schwarz ★ Bio-Ethanol-Wandkamin mit Glas Frontscheibe ✓ Brenndauer von bis zu 6 Stunden ✓ Wärmeleistung 2,2 kW ✓ von ScandiFlames
   Updated: 2025-10-08T07:13:52Z
   Vendor: ScandiFlames
@@ -188,21 +188,21 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_bio80054_1__44035.webp?v=1759852848
   Price: 85,00 € EUR
 - [Keramikholz zur Deko für Ethanol Kamine - 8 Stück](https://www.pelios.de/products/keramikholz-fur-ethanol-kamine-8-stuck): Dekoholz für Bioethanol Kamine. 8 Stück. Dieses Keramikholz verleiht Ihrem Ethanol Kamin ein realistischeres Aussehen mit einem authentischen Ausdruck. Länge: 16 - 28 cm lang jeweils
-  Updated: 2025-10-09T03:48:25Z
+  Updated: 2025-10-31T12:42:05Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/dsc_0124_48541.webp?v=1759854179
   Price: 79,00 € EUR
 - [Keramikholz zur Deko für Ethanolkamine - 5 Stück](https://www.pelios.de/products/keramikholz-5-stuck): Dekoholz für Bioethanol Kamine. 5 Stück. Verleihen Sie Ihrem Ethanol Kamin mit diesen Brennholzstücken ein realistischeres und traditionelleres Aussehen. 25 - 40 cm lang jeweils
-  Updated: 2025-10-09T03:43:16Z
+  Updated: 2025-10-31T12:37:11Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/5-stk-keramisk-tr_C3_A6-BIO303-br_C3_A6nde.webp?v=1759854331
   Price: 79,00 € EUR
 - [Keramikholz zur Deko für Ethanol Kamine - 9 Stück](https://www.pelios.de/products/keramikholz-fur-ethanol-kamine-9-stuck): Produktübersicht Dekoholz für Bioethanol Kamine - 9 Stück. Das Holz lässt Ihr Produkt lebendiger erscheinen und verleiht eine authentische Kaminatmosphäre. Hauptspezifikationen Produkttyp Dekoration für Ethanolkamine Garantie 2 Jahre Maße und Gewicht 8 - 14 cm langMenge 9 Gewicht 0,5 kg Material und Aussehen Material Keramik Farbe Holz Dekoration Brennholz Installationsdetails Kompatibel mit Ethanolkamine
-  Updated: 2025-10-09T03:51:04Z
+  Updated: 2025-10-31T12:31:42Z
   Vendor: ScandiFlames
   Product Type: Dekoration für Ethanolkamine
   Availability: Available
@@ -244,7 +244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/tre_sidet_hvid_vaegpejs_80_cm_bio10049wh_1__45320_54f41071-0f9c-4d23-89b7-698446f215b1.webp?v=1759858596
     Price: 1.085,00 € EUR
 - [Keramikhölzer zur Deko für Muztag Gaskamine](https://www.pelios.de/products/keramikholzer-fur-muztag-gaskamine): ProduktübersichtMöchten Sie Ihrem Muztag Gaskamin einen neuen Look verpassen? Dann haben Sie mit dieser Keramik-Holz Version jetzt die Möglichkeit.
-  Updated: 2025-10-09T04:17:57Z
+  Updated: 2025-10-31T12:39:10Z
   Vendor: Muztag
   Product Type: Zubehör für Terrassenheizer im Außenbereich
   Availability: Available
@@ -264,7 +264,7 @@
   Updated: 2025-10-25T11:23:36Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-10-25T11:23:36Z
+  Updated: 2025-10-30T18:40:49Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-10-03T12:21:11Z
