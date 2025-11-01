@@ -9,7 +9,7 @@
 - Created At: 2025-10-15T17:11:18Z
 - Contact Email: ambaence@gmail.com
 - Address: Calgary, Alberta, Canada
-- Updated At: 2025-11-01T00:01:13.421Z
+- Updated At: 2025-11-01T04:00:36.029Z
 
 ## Products
 
@@ -768,8 +768,8 @@
   Updated: 2025-10-30T05:59:15Z
   Total Products: 0
 - [Animals And Pet Supplies example products](https://urbanpawsyyc.myshopify.com/collections/animals-and-pet-supplies-example-products)
-  Updated: 2025-10-29T05:51:28Z
-  Total Products: 0
+  Updated: 2025-11-01T00:57:55Z
+  Total Products: 4
 
 ## Store Pages
 
