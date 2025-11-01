@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-31T12:01:01.184Z
+- Updated At: 2025-11-01T00:00:50.164Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -792,7 +792,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_f0230542-bb42-4c13-9de9-537ebec86ac3.jpg?v=1741874848
   Price: £110.00 GBP
 - [Silver Baby Rattle Perfect New Baby Gift Heirloom Quality](https://www.lilyblanche.com/products/silver-baby-rattle): The perfect Christening, baptism, baby naming or new baby gift, our solid silver Vintage Baby Rattle is an heirloom gift which can be engraved with baby's name. Hallmarked in the UK. Order today with free shipping
-  Updated: 2025-10-28T16:59:35Z
+  Updated: 2025-10-31T15:53:45Z
   Vendor: Lily Blanche
   Product Type: Rattle
   Availability: Available
@@ -15499,7 +15499,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £1,245.00 GBP
 - [Solid Gold Oval Diamond Locket | Premium Quality | Lily Blanche](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket): Looking for a special gift? This solid 9 carat oval gold and diamond locket has been handcrafted in the UK by master goldsmiths. An heirloom locket which can be personalised with photos. Free Jewellery Care Kit included & Free UK Shipping. Express Shipping Available. Explore Personalised Lockets Online Today.
-  Updated: 2025-10-01T16:11:06Z
+  Updated: 2025-10-31T13:41:36Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16028,7 +16028,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_137300ec-33f9-46b9-9b60-7051f74ca6d0.jpg?v=1741884442
   Price: £75.00 GBP
 - [Paperclip Chain Necklace | Gold | Lily Blanche](https://www.lilyblanche.com/products/mens-paperclip-chain-bracelet-gold): This extra strong 18 carat gold vermeil heavy weight paperclip chain is a statement bracelet that can be stacked with other bracelets. Free UK Shipping.
-  Updated: 2025-09-19T11:56:20Z
+  Updated: 2025-10-31T15:55:46Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
@@ -16857,7 +16857,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £250.00 GBP
 - [Personalised Christmas Locket | Gold Diamond Heart Locket Gift](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
 £175
-  Updated: 2025-10-31T08:56:31Z
+  Updated: 2025-10-31T13:35:46Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16890,7 +16890,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [2 Photo Heart Locket Gold Top Quality Engravable Locket](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold): Keep loved ones close with this two-photo heart-shaped locket in 18-carat gold vermeil is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-10-30T17:45:35Z
+  Updated: 2025-10-31T22:01:10Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -23274,7 +23274,7 @@ From £190.
     Availability: Available
     Price: £270.00 GBP
 - [Men's Engravable Compass Locket  Silver + Free Photos | German Precision](https://www.lilyblanche.com/products/engravable-compass-locket-for-men-sterling-silver-photo-locket): Navigate life's journey with our German precision-engineered Men's Compass Locket in sterling silver. Holds 2 photos, UK hallmarked, free photos & UK shipping. From £170
-  Updated: 2025-10-30T14:26:29Z
+  Updated: 2025-10-31T20:26:12Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
