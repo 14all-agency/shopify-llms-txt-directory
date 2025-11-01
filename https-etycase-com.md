@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-11-01T04:01:01.527Z
+- Updated At: 2025-11-01T16:00:34.818Z
 
 ## Products
 
@@ -197,6 +197,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-13-zebana-neofiber-silikon-kilif-kablosuz-sarj-renk-1-f881b868-6b85_jpg.webp?v=1759825619
     Price: ₺625,00 TRY
+- [iPhone 16 Pro Max Uyumlu Cüzdanlı Kılıf](https://etycase.com/products/iphone-16-promax-uyumlu-cuzdanli-kilif): iPhone 16 Pro Max için üretilmiş olan ve Moda evlerinin ikonik monogram desenini, mini çanta ve askılı taşıma özgürlüğüyle birleştiren bu kılıf, telefonunuzu korurken aynı anda size kartlarınızı, kulaklığınızı veya anahtarınızı saklayan akıllı bir cüzdan sunuyor. Gövde Malzemesi Kabartmalı monogram vegan deri + darbeye dayanıklı polikarbon iç şasi Mikro-Satchel 3 kart kapasiteli, altın kaplama turn-lock; manyetik kapak destekli İç Kaplama Mikrofiber süet – çizilme & toz önleyici Koruma 2 mm yükseltilmiş ekran/kamera çerçevesi • Bal peteği şok emici katman • 2 m düşme testi Butonlar Ayrı metal “click-feel” kalkan sistemi Mıknatıs Gömülü Mag-Ring™ (MagSafe uyumlu) Askı Detachable Cross-Strap™ – ayarlanabilir, 360° döner kanca, vegan deri Ekstralar Parmak-izi tutmaz mat finisaj • Altın logo rozeti • Dikişli kenar takviyesi
+  Updated: 2025-11-01T11:15:06Z
+  Vendor: EtyCase 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/iphone-16-promax-cuzdali-kilif-2.webp?v=1761994623
+  Price: ₺1.950,00 TRY
 
 ## Collections
 
@@ -231,11 +238,11 @@
   Updated: 2025-09-15T17:30:35Z
   Total Products: 0
 - [iPhone 16 Pro Max Telefon Kılıfları](https://etycase.com/collections/iphone-16-pro-max-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 16 Pro Max Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:30:50Z
-  Total Products: 0
+  Updated: 2025-11-01T09:29:02Z
+  Total Products: 1
 - [iPhone Kılıfları](https://etycase.com/collections/iphone): Apple iPhone Serisi Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
-  Updated: 2025-10-28T12:21:19Z
-  Total Products: 16
+  Updated: 2025-11-01T09:29:02Z
+  Total Products: 17
 - [Samsung](https://etycase.com/collections/samsung): Samsung Marka Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
   Updated: 2025-09-15T17:52:30Z
   Total Products: 0
@@ -261,8 +268,8 @@
   Updated: 2025-09-15T17:18:08Z
   Total Products: 0
 - [iPhone 16 Serisi](https://etycase.com/collections/i̇phone-16-serisi): EtyCase Apple iPhone 16 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-09-15T17:17:28Z
-  Total Products: 0
+  Updated: 2025-11-01T09:29:02Z
+  Total Products: 1
 - [iPhone 15 Serisi](https://etycase.com/collections/i̇phone-15-serisi): EtyCase Apple iPhone 15 Serisi Kılıf ve Aksesuarları
   Updated: 2025-09-15T17:16:41Z
   Total Products: 0
@@ -279,8 +286,8 @@
   Updated: 2025-09-20T10:33:22Z
   Total Products: 0
 - [Yeni Eklenenler](https://etycase.com/collections/yeni-eklenenler)
-  Updated: 2025-09-16T18:26:24Z
-  Total Products: 1
+  Updated: 2025-11-01T10:58:22Z
+  Total Products: 2
 - [Çok Satanlar](https://etycase.com/collections/cok-satanlar)
   Updated: 2025-09-08T19:25:33Z
   Total Products: 0
@@ -390,8 +397,8 @@
   Updated: 2025-09-18T11:06:43Z
   Total Products: 0
 - [Çok Satanlar](https://etycase.com/collections/cok-satanlar-1)
-  Updated: 2025-10-28T12:21:19Z
-  Total Products: 16
+  Updated: 2025-11-01T09:29:02Z
+  Total Products: 17
 - [Guess](https://etycase.com/collections/guess)
   Updated: 2025-10-07T02:57:16Z
   Total Products: 0
