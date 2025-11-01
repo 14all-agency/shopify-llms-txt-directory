@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-11-01T00:00:50.164Z
+- Updated At: 2025-11-01T04:00:51.376Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9707,7 +9707,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £65.00 GBP
 - [Rope Chain | Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/rope-chain-rose-gold): This  extra strong, 18 carat rose gold vermeil diamond cut rope chain will add interest and texture to any pendant or locket.
-  Updated: 2025-08-14T11:25:24Z
+  Updated: 2025-11-01T00:45:30Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
