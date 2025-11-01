@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-08-22T01:54:20Z
-- Updated At: 2025-11-01T08:00:51.011Z
+- Updated At: 2025-11-01T12:00:41.319Z
 
 ## Products
 
@@ -325,14 +325,14 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3863896.webp?v=1761965736
   Price: 76,97 $ CAD
 - [Nappe d’Autel de Tarot Noire – Cercle du Zodiaque & Sorcellerie Astrologique 60 x 60 cm - Enchantement Seraphélya](https://enchantementseraphelya.com/products/horaldaily-tarot-altar-tablecloth-60x60-inch-square-black-horoscope-witchcraft-zodiac-circle-washable-seasonal-table-cover-for-party-picnic-dinner-decor): Buy Nappe d’Autel de Tarot Noire – Cercle du Zodiaque & Sorcellerie Astrologique 60 x 60 cm for only CA$56.19 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:51Z
+  Updated: 2025-11-01T08:43:22Z
   Vendor: Enchantement Seraphélya 
   Product Type: Nappe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2610372.webp?v=1761965736
   Price: 56,19 $ CAD
 - [Coffret de Sorcellerie Wicca – 130 pièces | Kit de Protection, Cristaux, Herbes et Bougies pour Débutants - Enchantement Seraphélya](https://enchantementseraphelya.com/products/shyshiny-wiccan-supplies-and-tools-for-protection-130pack-witchcraft-supplies-witchy-gift-for-beginners-dried-herbs-crystals-candles-witch-starter-spell-kit): Buy Coffret de Sorcellerie Wicca – 130 pièces | Kit de Protection, Cristaux, Herbes et Bougies pour Débutants for only CA$189.89 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:52Z
+  Updated: 2025-11-01T08:49:17Z
   Vendor: Enchantement Seraphélya 
   Product Type: Kit rituel
   Availability: Available
