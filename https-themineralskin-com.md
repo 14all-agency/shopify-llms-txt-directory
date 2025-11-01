@@ -9,12 +9,12 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-31T20:00:57.357Z
+- Updated At: 2025-11-01T16:00:44.849Z
 
 ## Products
 
-- [Icelandic Volcano Face & Body Scrub | Volcanic Sand Exfoliator for Glowing Skin](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Reveal smoother, radiant skin with the Icelandic Volcano Face & Body Scrub, enriched with volcanic sand, fruit AHAs, and antioxidant-rich berry extracts. Gently exfoliates dead cells, refines texture, and boosts glow. Vegan, natural formula.
-  Updated: 2025-10-30T05:14:40Z
+- [Best Volcanic Face & Body Scrub for Glowing Skin | Icelandic Exfoliator](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): The best natural volcanic face & body scrub with AHA for smooth, glowing skin. Exfoliates dead skin, brightens tone & unclogs pores fast. Vegan, cruelty-free, ECOCERT certified – shop Icelandic Volcano Scrub for deep detox & radiant results!
+  Updated: 2025-11-01T07:04:16Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -34,36 +34,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/hair-body-botanic-wash-1266704.png?v=1757489623
   Price: $36.00 USD
-- [Botanic Mix Eye Cream | Natural Eye Care for Dark Circles & Puffiness](https://themineralskin.com/products/botanic-mix-eye-cream): Refresh tired eyes with Botanic Mix Eye Cream, a lightweight, fast-absorbing formula enriched with 1% CBD and multi-molecular hyaluronic acid to reduce dark circles, puffiness & fine lines. 100% natural & Ecocert certified.
-  Updated: 2025-10-30T05:14:40Z
+- [Best Eye Cream for Dark Circles & Puffiness | Natural Under Eye](https://themineralskin.com/products/botanic-mix-eye-cream): Best eye cream for dark circles under eyes & puffiness. Hydrating, vegan formula with caffeine & hyaluronic acid reduces bags, fine lines, brightens tired eyes. Cruelty-free, natural men's under eye treatment. Visible results in 21 days – shop now!
+  Updated: 2025-11-01T06:40:52Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-mix-eye-cream-4658680.png?v=1757489618
   Price: $31.00 USD
-- [Botanic Purge Foam | Deep-Cleansing Mousse for Face & Pores](https://themineralskin.com/products/botanic-purge-foam): Purify your skin with Botanic Purge Foam, a fast-acting mousse cleanser that dissolves oil, removes impurities, unclogs pores, and leaves skin hydrated. 99% natural, ECOCERT certified, gentle yet effective for all skin types.
-  Updated: 2025-10-30T05:14:40Z
+- [Best Natural Foaming Face Cleanser for Deep Pore Cleaning | Botanic Purge Foam](https://themineralskin.com/products/botanic-purge-foam): Discover the best natural foaming cleanser for oily skin & deep pore cleansing. Vegan, cruelty-free Botanic Purge Foam gently removes dirt, excess oil & impurities without drying – hydrates all skin types for a refreshed glow. ECOCERT certified, shop now!
+  Updated: 2025-11-01T06:47:56Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-purge-foam-8322755.png?v=1757489620
   Price: $35.00 USD
-- [Caffeine Blend Infuser | Energizing Gel Booster for Skin & Eyes](https://themineralskin.com/products/caffeine-blend-infuser): Revitalize tired skin with the Caffeine Blend Infuser, a lightweight, oil-free gel booster enriched with 1% caffeine to reduce puffiness, brighten dark circles, and refresh facial skin naturally. 100% natural, vegan, Ecocert certified.
-  Updated: 2025-10-30T05:14:40Z
+- [Best Caffeine Eye Cream for Dark Circles & Puffiness | Energizing Gel Infuser](https://themineralskin.com/products/caffeine-blend-infuser): Discover the best caffeine eye cream for dark circles, puffiness, and tired eyes. Our natural Caffeine Blend Infuser gel reduces bags under eyes, hydrates sensitive skin, and boosts brightness fast. Vegan, ECOCERT certified – shop now for refreshed, awake-looking skin!
+  Updated: 2025-11-01T06:32:15Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/caffeine-blend-infuser-3176952.png?v=1757489620
   Price: $35.00 USD
-- [Botanic Blend Elixir | Botanical Face Oil Serum for Radiant Skin](https://themineralskin.com/products/botanic-blend-elixir): Illuminate your skin with Botanic Blend Elixir, a luxurious botanical oil-serum blend with nourishing plant oils and antioxidants to deeply hydrate, restore glow, and balance skin tone. Ideal for daily facial care.
-  Updated: 2025-10-30T05:14:40Z
+- [Best CBD Beard Oil for Softness & Itch Relief | Botanic Beard Elixir](https://themineralskin.com/products/botanic-blend-elixir): The best natural CBD beard oil for softer, itch-free beards. Vegan, non-greasy Botanic Beard Elixir hydrates skin, tames flyaways & promotes healthy growth fast. 100% organic, ECOCERT certified – shop now for legendary beard care!
+  Updated: 2025-11-01T06:57:44Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
-- [Botanic Age Regression Cream | Natural Anti-Aging Face Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Discover the Botanic Age Regression Cream, a 100% natural, vegan, Ecocert-certified anti-aging face cream formulated with multi-molecular hyaluronic acid, marine actives & botanical antioxidants. Smooth wrinkles, boost hydration, and promote firmer, glowing skin.
-  Updated: 2025-10-30T05:14:40Z
+- [Best Anti Wrinkle Face Cream | Aging Skin Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Best anti wrinkle cream & face moisturizer for aging skin. Vegan hyaluronic acid formula reduces fine lines, firms & hydrates mature skin. Natural, cruelty-free Botanic Age Regression Cream. Younger glow in 21 days – shop now!
+  Updated: 2025-11-01T06:18:47Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
