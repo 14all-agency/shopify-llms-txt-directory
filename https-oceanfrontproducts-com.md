@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-31T16:00:53.968Z
+- Updated At: 2025-11-01T00:00:37.304Z
 
 ## Products
 
 - [Natural Soy Wax Scented Candle 9oz in Glass Jar](https://oceanfrontproducts.com/products/scented-soy-candle-9oz): Packed with immersive aromas, these scented candles come in 9oz glass jars and are one size (2.8″ × 3.5) (7.1cm × 8.8cm).
-  Updated: 2025-10-30T22:00:29Z
+  Updated: 2025-10-31T23:44:16Z
   Vendor: Oceanfront Products
   Product Type: Home Decor
   Availability: Available
@@ -13848,7 +13848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
     Price: $15.99 USD
 - [Adventure Awaits Sweatshirt](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt): Embrace the spirit of exploration with the Adventure Awaits Sweatshirt, a sophisticated addition to your wardrobe that blends comfort with timeless style. Crafted from a medium-heavy 50/50 cotton-polyester blend, this unisex crewneck sweatshirt guarantees durability while enveloping you in a soft embrace. Perfect for the discerning adult, its classic fit and crew neckline provide an elegant silhouette suited for both new adventures and serene moments of relaxation at home. Experience the peace of mind that comes with ethically sourced US cotton, dyed with OEKO-TEX certified colors, ensuring both your comfort and a commitment to environmental standards. For those seeking a personal touch, embroidery decoration is available for customization. Featuring a ribbed knit collar for added elasticity and shape retention, this sweatshirt is both a statement of style and a promise of quality. Care for your sweatshirt effortlessly with simple instructions that maintain its beauty: machine wash in cold water, use non-chlorine bleach as needed, tumble dry on low heat, and refrain from ironing or dry cleaning. Elevate your everyday attire with the Adventure Awaits Sweatshirt, where comfort meets luxurious durability. Your next adventure is just a wear away.
-  Updated: 2025-10-31T01:06:09Z
+  Updated: 2025-10-31T17:05:01Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
