@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-01T04:01:08.071Z
+- Updated At: 2025-11-01T12:00:57.267Z
 
 ## Products
 
@@ -19140,7 +19140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-109_2.jpg?v=1710499890
     Price: $1,209.00 USD
 - [Natural Salt And Pepper 1.51CT Pear Diamond Celtic Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-51ct-pear-diamond-celtic-handmade-ring): Expertly Crafted By Hand, This Stunning Celtic Ring Features A 1.51ct Pear-shaped Natural Salt And Pepper Diamond. With Its Unique, One-of-a-kind Design, This Ring Will Make A Striking Addition To Any Jewelry Collection. Enhance Your Style With The Timeless Beauty Of This Handmade Piece.
-  Updated: 2025-10-02T10:30:54Z
+  Updated: 2025-11-01T06:06:50Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -31838,7 +31838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-39_1.jpg?v=1711172738
     Price: $739.00 USD
 - [Moissanite 0.80CT Round Diamond Fashion Earring](https://ibizjewel.com/products/moissanite-0-80ct-round-diamond-fashion-earring): Introducing The Moissanite 0.80ct Round Diamond Fashion Earring - The Perfect Addition To Any Jewelry Collection. With Its Stunning Round Diamond Design, This Earring Is Both Fashionable And Timeless. Crafted With Moissanite, This Earring Boasts A 0.80ct Weight And Shines Brighter Than Traditional Diamonds. Elevate Your Style With This Elegant Accessory.
-  Updated: 2025-10-02T10:31:05Z
+  Updated: 2025-11-01T10:29:45Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
@@ -32756,7 +32756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-13_8.jpg?v=1711183982
     Price: $777.00 USD
 - [Moissanite 3.0CT Round Diamond Stud Earring](https://ibizjewel.com/products/moissanite-3-0ct-round-diamond-stud-earring): Upgrade Your Jewelry Collection With Our Moissanite 3.0ct Round Diamond Stud Earrings. Made With High-quality Moissanite Stones, These Earrings Deliver The Sparkle And Brilliance Of A Diamond At A Fraction Of The Cost. Perfect For Any Occasion, These Earrings Offer A Timeless And Classic Look.
-  Updated: 2025-10-02T10:31:06Z
+  Updated: 2025-11-01T11:43:59Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Round Diamond Earring
   Availability: Available
@@ -40832,7 +40832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-143_1_0972c600-bd80-4f53-bef6-48c38252b441.jpg?v=1712556026
     Price: $3,629.00 USD
 - [Natural Salt And Pepper 2.35CT Pear Diamond Art Deco Unique Engagement Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-2-35ct-pear-diamond-art-deco-unique-engagement-ring-anniversary-ring): This unique Natural Salt And Pepper 2.35CT Pear Diamond Art Deco Engagement and Anniversary Ring is a stunning choice for those seeking a distinctive and one-of-a-kind piece. With its natural and rare salt and pepper diamonds, this ring adds a touch of personality and character to any special occasion. Crafted with expert precision and attention to detail, this ring is a true work of art.
-  Updated: 2025-10-31T02:25:04Z
+  Updated: 2025-11-01T06:34:04Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
