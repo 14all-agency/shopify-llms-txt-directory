@@ -7,12 +7,12 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-31T12:00:40.141Z
+- Updated At: 2025-11-01T04:01:06.873Z
 
 ## Products
 
 - [Glass Polishing Compound 50ml | Optical-Grade 1.2 Microns - GP14003](https://glasspolishshop.com/products/glass-polishing-compound-50ml-1-7oz): High-quality, concentrated cerium oxide compound with refined 1.2-micron particles for precision micro-polishing and restoring optical-grade glass clarity.
-  Updated: 2025-10-23T09:05:33Z
+  Updated: 2025-11-01T00:40:16Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -635,14 +635,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12004.jpg?v=1760540567
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12015](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-20T21:18:30Z
+  Updated: 2025-10-31T16:52:46Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12015.jpg?v=1760622491
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12007](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-20T21:18:30Z
+  Updated: 2025-10-31T16:52:46Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -698,7 +698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12008.jpg?v=1760620411
   Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12010](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-20T21:18:30Z
+  Updated: 2025-10-31T16:52:46Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -1609,7 +1609,7 @@
     Availability: Available
     Price: €63.95 EUR
 - [Glass Polish Compounding Foam 16001](https://glasspolishshop.com/products/pro-line-compounding-foam-3-inch-75mm): 75mm / 3 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-22T05:44:07Z
+  Updated: 2025-10-31T16:52:45Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
@@ -1624,7 +1624,7 @@
     Availability: Available
     Price: €81.95 EUR
 - [Glass Polish Compounding Foam 16002](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm): 125mm / 5 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-22T08:31:01Z
+  Updated: 2025-10-31T16:52:46Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
