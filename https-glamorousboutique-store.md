@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-31T16:00:36.715Z
+- Updated At: 2025-11-01T04:00:37.509Z
 
 ## Products
 
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/70a350aac89843baaf8a39745534b037-Max-Origin.webp?v=1761344356
     Price: £25.55 GBP
 - [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique.store/products/side-slit-round-neck-long-sleeve-sweatshirt): Casual Chic with a Modern Twist – The Sweatshirt That Does It All!Elevate your casual wardrobe with the Side Slit Round Neck Long Sleeve Sweatshirt. Featuring trendy side slits and a relaxed fit, this versatile piece effortlessly transitions from lounging to lunch dates.Why This Sweatshirt is a Must-Have:✨ Stylish Side Slits: Modern design detail that adds movement and a fashion-forward edge to a classic sweatshirt.👗 Flattering Round Neckline: Timeless and versatile – pairs beautifully with any necklace or scarf.🌟 Relaxed, Comfortable Fit: Perfect for layering or wearing solo, offering a laid-back yet polished look.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for flexibility and comfort that moves with you.🧺 Easy Maintenance: Machine washable – wash cold and tumble dry low for effortless care.🎨 Versatile Styling: Dress it up with trousers or keep it casual with jeans – this sweatshirt works for any occasion.Perfect For: Casual Fridays at work Weekend brunches with friends Running errands in style Layering during transitional seasons Relaxed evenings at home Styling Ideas:👖 Casual Cool: Pair with high-waisted jeans and trainers👠 Elevated Comfort: Style with tailored trousers and ankle boots🧥 Layered Look: Wear under a blazer or denim jacket for added warmthUpgrade your everyday style! This sweatshirt combines comfort and contemporary design for a look you'll reach for again and again. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Side slits, round neck, long sleeves Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
-  Updated: 2025-10-31T04:12:56Z
+  Updated: 2025-10-31T19:05:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1435,7 +1435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c8821110-3b65-467d-8587-ee41d3e953e8-Max-Origin.webp?v=1761344666
     Price: £37.53 GBP
 - [Full Size Washed Round Neck Top and Drawstring Pants Set Plus Size](https://glamorousboutique.store/products/full-size-washed-round-neck-top-and-drawstring-pants-set-plus-size): Comfort Meets Style – The Two-Piece Set You'll Live In!Discover effortless style with the Full Size Washed Round Neck Top and Drawstring Pants Set. This coordinated two-piece outfit combines a relaxed top with comfortable drawstring pants, creating the perfect balance of casual chic and all-day comfort.Why This Set is a Wardrobe Essential:👕 Coordinated Two-Piece Set: Matching top and pants for an instantly put-together look with zero effort.🎨 Trendy Washed Finish: Soft, lived-in look that adds character and a relaxed, vintage vibe.👖 Adjustable Drawstring Waist: Customise your fit for maximum comfort throughout the day.👜 Functional Pockets: Convenient pockets on the pants keep your essentials close at hand.💫 Stretchy, Comfortable Fabric: Made from 100% polyester with a stretchy finish that moves with you.🧺 Easy Care: Machine washable – wash cold and tumble dry low for effortless maintenance.💖 Inclusive Sizing: Available in sizes S to 3XL for the perfect fit.Perfect For: Relaxed weekends at home Casual coffee dates Running errands in comfort Travelling in style Lounging without sacrificing style Styling Ideas:👟 Athleisure Vibes: Pair with trainers and a baseball cap🧥 Layered Look: Add a denim jacket or cardigan for cooler days👜 Elevated Casual: Style with a crossbody bag and slip-on shoesEffortless style has never been this comfortable! This two-piece set is your answer to looking polished while feeling relaxed. Add to basket now!Product Details: Material: 100% polyester Stretch: Stretchy Care: Machine wash cold, tumble dry low Features: Two-piece set, drawstring waist, pockets, washed finish Number of pieces: 2 (top and pants) Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length Bottom Length Waist Hip S 24.8 39.4 18.1 40.2 26.8 39.4 M 25.2 40.9 18.3 40.6 28.3 40.9 L 25.6 42.5 18.5 40.9 30.7 43.3 XL 26.4 44.1 18.7 41.3 33.1 45.7 2XL 26.4 45.7 18.9 41.7 35.4 48 3XL 26.8 47.2 19.1 42.1 37.4 50.4
-  Updated: 2025-10-28T22:42:30Z
+  Updated: 2025-10-31T17:31:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1537,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/57ddf59f-7a71-40ee-971f-cb72dd93d144-Max-Origin.webp?v=1761344696
     Price: £32.51 GBP
 - [Oversized Chunky Knit Open Front Cardigan](https://glamorousboutique.store/products/oversized-chunky-knit-open-front-cardigan): Cozy Layers, Effortless Style – Your New Favourite Cardigan!Wrap yourself in warmth and style with the Oversized Chunky Knit Open Front Cardigan. This beautifully textured piece is the perfect layering essential, combining cozy cable-knit detailing with a relaxed, oversized fit that's both comfortable and chic.Why You'll Love This Cardigan:🧶 Chunky Cable-Knit Texture: Classic cable-knit pattern adds visual interest and a touch of timeless elegance.✨ Oversized, Relaxed Fit: Generous sizing creates a cozy, enveloping feel that's perfect for layering.👗 Versatile Open Front: No buttons or zippers – just easy, effortless styling that works with everything.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 All-Season Layering: Perfect for chilly mornings, air-conditioned offices, or cool autumn evenings.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Layering over dresses or tops Cozy evenings at home Autumn and winter styling Office wear with a relaxed vibe Weekend brunches and casual outings Styling Ideas:👗 Feminine Chic: Layer over a dress with ankle boots👖 Casual Comfort: Pair with jeans and a simple tee🧣 Cozy Layers: Wear over a turtleneck for extra warmthStay warm, look stylish, and feel amazing! This chunky knit cardigan is the ultimate layering piece for your wardrobe. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Cable-knit texture, open front, oversized fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28.3 45.7 18.9 M 28.7 47.2 19.3 L 29.1 48.8 19.7 XL 29.5 50.4 20.1 2XL 29.9 52 20.5
-  Updated: 2025-10-30T13:16:16Z
+  Updated: 2025-10-31T18:44:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1665,7 +1665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ade70a20-a577-4650-96b3-96bc4719e743-Max-Origin.webp?v=1761344825
     Price: £43.67 GBP
 - [Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt](https://glamorousboutique.store/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Faith Meets Fashion – The Inspirational Sweatshirt You'll Treasure!Wear your faith with pride in the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Featuring beautiful embroidered lettering and a trendy mineral wash finish, this comfortable sweatshirt is perfect for expressing your beliefs while staying stylishly relaxed.Why You'll Love This Sweatshirt:✝️ Inspirational Letter Embroidery: 'Saved By Grace' message beautifully embroidered for a meaningful, faith-based statement.🎨 Trendy Mineral Wash Finish: Unique, vintage-inspired wash creates a soft, lived-in look with character.👕 Relaxed, Loose Fit: Comfortable oversized silhouette that's perfect for casual, everyday wear.💫 Premium Cotton Blend: Made from 85% cotton and 15% polyester for softness and durability.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Meaningful Gift: Perfect for yourself or as a thoughtful present for someone special in your life.Perfect For: Church services and fellowship gatherings Casual everyday wear Coffee dates with friends Relaxed weekends at home Layering during cooler months Styling Ideas:👖 Casual Comfort: Pair with jeans and trainers for an effortless look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Style: Wear under a denim or leather jacketExpress your faith in style! This inspirational sweatshirt combines meaningful messaging with comfortable, trendy design. Add to basket now!Product Details: Material: 85% cotton, 15% polyester Stretch: No stretch Care: Machine wash cold, tumble dry low Features: Letter embroidery, mineral wash finish, loose fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.7 M 26.2 44.1 20.9 L 27 46.5 21.1 XL 27.8 49.6 21.1
-  Updated: 2025-10-31T09:21:35Z
+  Updated: 2025-10-31T23:21:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1687,7 +1687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761344865
     Price: £44.66 GBP
 - [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique.store/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Gobble Up the Fun – The Perfect Thanksgiving Sweatshirt!Celebrate Thanksgiving in style with the GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt. Featuring playful 'GOBBLE' lettering and a comfortable relaxed fit, this festive sweatshirt is your go-to for turkey day celebrations and autumn gatherings.Why This Thanksgiving Sweatshirt is a Must-Have:🦃 Fun GOBBLE Graphic: Eye-catching letter design that brings festive fun and holiday cheer to your wardrobe.👕 Comfortable Shift Style: Relaxed, easy-fitting silhouette that's perfect for enjoying Thanksgiving dinner without feeling restricted.✨ Slightly Stretchy Fabric: Made from 65% polyester and 35% cotton for comfort and flexibility.🍂 Perfect for Autumn: Ideal weight for cooler autumn days and cozy holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.🎁 Great Gift Idea: Perfect for Thanksgiving hosts, turkey lovers, or anyone who enjoys festive fashion!Perfect For: Thanksgiving dinner with family Friendsgiving celebrations Autumn festivals and events Casual November outings Festive photo opportunities Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🧣 Cozy Layers: Add a scarf and your favourite autumn jacket👟 Relaxed Comfort: Style with leggings and trainers for ultimate comfortMake Thanksgiving extra special! This fun, festive sweatshirt is perfect for celebrating with family and friends. Add to basket now and get ready to gobble!Product Details: Material: 65% polyester, 35% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: GOBBLE letter graphic, shift style, festive design Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
-  Updated: 2025-10-31T14:15:30Z
+  Updated: 2025-11-01T01:43:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1705,7 +1705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/13d740930aa7416cab3bd0ff955411bb-Max-Origin.webp?v=1761345580
     Price: £34.13 GBP
 - [Cozy Oversized Open Front Knit Cardigan](https://glamorousboutique.store/products/cozy-oversized-open-front-knit-cardigan): Ultimate Cozy Comfort – Your New Favourite Layering Piece!Embrace effortless style with the Cozy Oversized Open Front Knit Cardigan. This beautifully soft, oversized cardigan is the perfect layering essential for creating comfortable, chic looks all season long.Why You'll Love This Cardigan:🧶 Luxuriously Soft Knit: Premium knit fabric that feels incredibly soft and cozy against your skin.✨ Oversized, Relaxed Fit: Generous sizing creates a comfortable, enveloping feel that's perfect for snuggling up.👗 Versatile Open Front: No buttons or closures – just easy, effortless styling that works with everything.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 All-Season Layering: Perfect for chilly mornings, air-conditioned spaces, or cool autumn evenings.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Layering over dresses or tops Cozy evenings at home Autumn and winter styling Office wear with a relaxed vibe Weekend brunches and casual outings Styling Ideas:👗 Feminine Chic: Layer over a dress with ankle boots👖 Casual Comfort: Pair with jeans and a simple tee🧣 Cozy Layers: Wear over a turtleneck for extra warmthStay warm, look stylish, and feel amazing! This oversized knit cardigan is the ultimate layering piece for your wardrobe. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Open front, oversized fit, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 28 46.5 M 28.3 48 L 28.7 50.4 XL 29.1 52.8 2XL 29.5 55.1
-  Updated: 2025-10-29T20:24:50Z
+  Updated: 2025-10-31T18:50:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1833,7 +1833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/479f76cb0196459ebef488421b463a46-Max-Origin.webp?v=1761346986
     Price: £49.01 GBP
 - [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique.store/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Pop of Color, Maximum Comfort – The Sweater That Brightens Your Day!Add a playful touch to your wardrobe with the Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater. Featuring vibrant striped accents and a relaxed, oversized fit, this cozy sweater is perfect for adding personality and comfort to any outfit.Why You'll Love This Sweater:🌈 Colorful Striped Details: Eye-catching multicolored stripes add a fun, cheerful pop to your look.💫 Flattering V-Neckline: Classic V-neck design that elongates the neckline and pairs beautifully with any necklace.👕 Relaxed Drop Shoulder Design: Trendy, oversized fit with dropped shoulders for ultimate comfort and a laid-back vibe.🧶 Soft Ribbed Texture: Cozy ribbed knit adds visual interest and extra warmth.✨ Slightly Stretchy Fabric: Made from 100% acrylic for softness and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎨 Versatile Styling: Perfect for casual days, layering, or adding a splash of color to neutral outfits.Perfect For: Casual weekend outings Coffee dates with friends Autumn and winter layering Adding color to your wardrobe Cozy days at home Styling Ideas:👖 Casual Chic: Pair with jeans and ankle boots🧣 Layered Look: Wear over a collared shirt for preppy vibes👗 Feminine Touch: Style with a skirt and tightsBrighten up your wardrobe! This colorful sweater brings fun, comfort, and style together in one perfect piece. Add to basket now!Product Details: Material: 100% acrylic Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful striped details, V-neck, drop shoulders, ribbed texture, baggy fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-31T03:21:10Z
+  Updated: 2025-10-31T19:32:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1923,7 +1923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/289e6707-47cf-483c-8487-7f9271b2c9a7-Max-Origin.webp?v=1761347069
     Price: £25.31 GBP
 - [Round Toe Flats Loafers](https://glamorousboutique.store/products/round-toe-flats-loafers): Classic Comfort Meets Everyday Style – Your New Go-To Flats!Step into effortless elegance with the Round Toe Flats Loafers. Combining timeless loafer styling with all-day comfort, these versatile flats are perfect for work, weekends, and everything in between.Why You'll Love These Loafers:👞 Classic Loafer Design: Timeless round toe silhouette that never goes out of style.✨ Versatile Styling: Dress them up for the office or keep it casual for weekend outings.💫 All-Day Comfort: Flat heel design provides comfortable support for hours of wear.🌟 Quality Materials: Made from durable PU leather, canvas, and rubber for long-lasting wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Effortlessly Chic: Pairs beautifully with trousers, jeans, skirts, or dresses.Perfect For: Office and professional settings Casual weekend outings Running errands in style Travel and commuting Any occasion requiring comfortable, polished footwear Styling Ideas:👔 Professional Polish: Pair with tailored trousers and a blouse👖 Casual Chic: Style with jeans and a jumper👗 Feminine Touch: Wear with a midi skirt and cardiganStep into comfort and style! These classic loafers are the perfect addition to any wardrobe. Add to basket now!Product Details: Heel Height: Flats Material: PU leather, Canvas, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
-  Updated: 2025-10-29T10:43:31Z
+  Updated: 2025-10-31T20:56:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2111,7 +2111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4b62071fd6e840c897a668af6b904af9-Max-Origin.webp?v=1761347274
     Price: £18.38 GBP
 - [PU Leather Block Heel Boots](https://glamorousboutique.store/products/pu-leather-block-heel-boots): Elevate Your Style – The Boots That Do It All!Step up your footwear game with the PU Leather Block Heel Boots. Featuring a comfortable block heel and sleek PU leather finish, these versatile boots are perfect for adding height and sophistication to any outfit.Why You'll Love These Boots:👢 Stylish Block Heel: Comfortable, stable block heel adds height without sacrificing comfort.✨ Sleek PU Leather: Premium-look PU leather finish that's both stylish and easy to maintain.💫 Versatile Design: Classic silhouette that pairs beautifully with jeans, dresses, or skirts.🌟 High Heel Height: Adds elegant elevation while remaining comfortable for all-day wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Durable Construction: Quality rubber sole and PU leather upper for long-lasting wear.Perfect For: Office and professional settings Date nights and special occasions Autumn and winter styling Adding height and elegance to any outfit Transitional season wear Styling Ideas:👖 Casual Chic: Pair with skinny jeans and a jumper👗 Feminine Elegance: Style with a midi dress and tights🧥 Layered Look: Wear with a coat and scarf for autumn vibesStep into style and confidence! These block heel boots are the perfect blend of comfort and sophistication. Add to basket now!Product Details: Heel Height: High heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
-  Updated: 2025-10-31T07:51:20Z
+  Updated: 2025-10-31T16:52:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3415,7 +3415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/610c6e2b-25e9-429a-9450-1f78b4188ec7-Max-Origin.webp?v=1761347651
     Price: £35.61 GBP
 - [Full Size Single-Breasted Sherpa Shacket Plus Size](https://glamorousboutique.store/products/full-size-single-breasted-sherpa-shacket-plus-size): Cozy Meets Chic – The Sherpa Shacket You'll Live In!Stay warm and stylish with the Full Size Single-Breasted Sherpa Shacket Plus Size. Combining the comfort of a shirt with the warmth of a jacket, this trendy shacket features soft sherpa fabric that's perfect for layering during cooler months.Why You'll Love This Shacket:🐑 Soft Sherpa Fabric: Luxuriously fluffy material that feels like a warm hug.🔘 Single-Breasted Design: Classic button-front closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Perfect Weight: Normal thickness – ideal for layering without feeling bulky.✨ Relaxed Fit: Comfortable, easy-wearing silhouette that's perfect for casual days.🧺 Easy Care: Made from 100% polyester – machine washable for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Autumn and winter layering Casual weekend outings Running errands in comfort Cozy days at home Transitional season styling Styling Ideas:👖 Casual Cool: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Comfort: Style with leggings and a jumperStay cozy in style! This sherpa shacket is the perfect blend of comfort and fashion. Add to basket now!Product Details: Material: 100% polyester Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Sherpa fabric, single-breasted, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 22.8 41.3 19.3 M 23.2 43.3 19.7 L 23.6 45.3 20.1 XL 24 47.2 20.5 2XL 24.4 49.2 20.9 3XL 24.8 51.2 21.3 4XL 25.2 53.1 21.7 5XL 25.6 55.1 22
-  Updated: 2025-10-29T20:23:36Z
+  Updated: 2025-10-31T21:25:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3549,7 +3549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761347671
     Price: £23.64 GBP
 - [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique.store/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Sparkle and Shine This Christmas – The Festive Set You'll Love!Celebrate the holidays in style with the Twisted Ribbed Christmas Sequin Patched Top and Shorts Set. Featuring eye-catching sequin details and a comfortable ribbed texture, this festive two-piece set is perfect for Christmas parties and holiday gatherings.Why You'll Love This Christmas Set:✨ Festive Sequin Details: Sparkling sequin patches add holiday glamour and festive cheer.🎄 Twisted Ribbed Design: Trendy twisted detailing and ribbed texture create a flattering, modern look.👕 Two-Piece Versatility: Coordinated top and shorts can be worn together or mixed with other pieces.🎀 Adjustable Drawstring: Comfortable drawstring waist on shorts for a perfect, customizable fit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Christmas parties and celebrations Holiday gatherings with family and friends Festive photo opportunities New Year's Eve celebrations Making a statement at holiday events Styling Ideas:👠 Party Ready: Add heels and statement earrings🧥 Layered Glam: Throw on a blazer for extra polish👟 Casual Festive: Style with trainers for a relaxed holiday lookSparkle through the holidays! This festive set brings glamour and comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Sequin patches, twisted ribbed design, drawstring, two-piece set Number of pieces: 2 (top and shorts) Size Guide (Measurements in inches): Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
-  Updated: 2025-10-31T02:03:40Z
+  Updated: 2025-10-31T21:21:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3641,7 +3641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/41399f2d43d84a6f9eade94edb97968b-Max-Origin.webp?v=1761347712
     Price: £35.37 GBP
 - [Full Size Hooded Button-Front Soft Knit Cardigan Plus Size](https://glamorousboutique.store/products/full-size-hooded-button-front-soft-knit-cardigan-plus-size): Soft, Cozy, and Effortlessly Chic – The Hooded Cardigan You Need!Wrap yourself in comfort with the Full Size Hooded Button-Front Soft Knit Cardigan Plus Size. Featuring a cozy hood and soft knit fabric, this versatile cardigan is perfect for adding warmth and style to any outfit.Why You'll Love This Cardigan:🧶 Ultra-Soft Knit Fabric: Luxuriously soft material that feels amazing against your skin.👘 Hooded Design: Cozy hood adds extra warmth and a relaxed, casual vibe.🔘 Button-Front Closure: Classic button design allows for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Slightly Stretchy: Made from 95% acrylic and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Cozy days at home Casual weekend outings Layering during cooler months Running errands in comfort Relaxed, effortless style Styling Ideas:👖 Casual Comfort: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Vibes: Style with leggings and a jumperStay cozy in style! This soft hooded cardigan is the perfect addition to your wardrobe. Add to basket now!Product Details: Material: 95% acrylic, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Hooded, button-front, pockets, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 23.6 42.5 M 24 44.5 L 24.4 46.5 XL 24.8 48.4 2XL 25.2 50.4 3XL 25.6 52.4 4XL 26 54.3 5XL 26.4 56.3
-  Updated: 2025-10-31T02:45:00Z
+  Updated: 2025-10-31T23:13:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3847,7 +3847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/976851c36fc3431e87349f595a31175f-Max-Origin.webp?v=1761386675
     Price: £33.43 GBP
 - [Casual Plaid Button Detail Hoodie](https://glamorousboutique.store/products/casual-plaid-button-detail-hoodie): Features:Basic style Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 26.8 39.4 21.3 M 27.2 40.9 21.7 L 27.6 43.3 22 XL 28 45.7 22.4 2XL 28.3 48 22.8
-  Updated: 2025-10-28T22:42:35Z
+  Updated: 2025-11-01T02:35:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4417,7 +4417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ce942485-57ae-4aab-98be-d5dfa7a0b115-Max.webp?v=1761387650
     Price: £44.88 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://glamorousboutique.store/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-31T14:15:16Z
+  Updated: 2025-11-01T03:15:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4495,7 +4495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761430116
     Price: £32.83 GBP
 - [High Waist Wide Flare Pants](https://glamorousboutique.store/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 41.3 27.6 40.9 M 41.7 29.5 42.9 L 42.1 31.5 44.9 XL 42.5 33.5 46.9 2XL 42.9 35.4 48.8
-  Updated: 2025-10-31T09:30:53Z
+  Updated: 2025-11-01T00:03:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4581,7 +4581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761430148
     Price: £32.98 GBP
 - [Mock Neck Long Sleeve Top](https://glamorousboutique.store/products/mock-neck-long-sleeve-top): Features: Basic style Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 20.9 31.5 23.8 M 6/8 21.3 33.5 24 L 10/12 21.7 35.4 24.2 XL 14/16 22 38.2 24.4
-  Updated: 2025-10-31T11:26:16Z
+  Updated: 2025-10-31T21:10:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4683,7 +4683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761430178
     Price: £16.79 GBP
 - [Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater](https://glamorousboutique.store/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Features: Basic style, Raw Hem Stretch: Slightly stretchy Material composition: 55% cotton, 45% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 25.6 24.2 39.8 20.5 L/XL 26.4 25.8 43.7 20.5 2XL/3XL 27.2 27.4 47.6 20.5
-  Updated: 2025-10-31T11:35:27Z
+  Updated: 2025-11-01T03:30:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4785,7 +4785,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a30e5a26-cb0e-4770-bb89-95474d4ff006-Max-Origin.webp?v=1761430710
   Price: £7.21 GBP
 - [Christmas Element Bowknot Ribbed Trim Over Knee Stockings](https://glamorousboutique.store/products/christmas-element-bowknot-ribbed-trim-over-knee-stockings): Pieces: 1-pair Material: Ployester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 20.7
-  Updated: 2025-10-31T09:41:46Z
+  Updated: 2025-10-31T20:36:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4811,7 +4811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9263b178-4914-44df-b819-d6a676390601-Max.webp?v=1761430738
     Price: £19.00 GBP
 - [3 Piece Christmas Charm Beaded Bracelet](https://glamorousboutique.store/products/3-piece-christmas-charm-beaded-bracelet): Pieces:3-piece Material:18K Gold-Plated,Alloy,Acrylic,Resin Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 7.1
-  Updated: 2025-10-30T15:05:27Z
+  Updated: 2025-10-31T16:54:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5516,7 +5516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique.store/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-10-31T06:30:15Z
+  Updated: 2025-10-31T16:15:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5618,11 +5618,11 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
   - [Lavender / 2XL](https://glamorousboutique.store/products/double-take-textured-quarter-zip-long-sleeve-dress?variant=55324124283206)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
 - [Textured Notched Raglan Sleeve Sweatshirt](https://glamorousboutique.store/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-10-31T13:33:36Z
+  Updated: 2025-11-01T00:12:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7138,7 +7138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/24cddaa4-4a95-4858-bf78-cb5a194d80e1-Max-Origin.webp?v=1761439272
     Price: £63.14 GBP
 - [Double Take Full Size Checkered Dropped Shoulder Cardigan](https://glamorousboutique.store/products/double-take-full-size-checkered-dropped-shoulder-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S/M 24.8 43.3 20.9 24.4 L/XL 25.6 47.2 20.9 26 2XL/3XL 26.4 51.2 20.9 27.6
-  Updated: 2025-10-31T13:45:16Z
+  Updated: 2025-10-31T21:15:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7882,7 +7882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a3e2150b-ea8d-4205-b1f6-d93975ccf4d6-Max-Origin.webp?v=1761512892
     Price: £8.88 GBP
 - [Christmas Sweater Dress - Festive Mini Dress for Women | Glamorous Boutique](https://glamorousboutique.store/products/christmas-element-round-neck-mini-sweater-dress): Celebrate the season in style with our festive Christmas sweater dress. Highly stretchy, comfortable fit with charming holiday elements. Perfect for parties.
-  Updated: 2025-10-30T11:15:05Z
+  Updated: 2025-10-31T22:17:06Z
   Vendor: Trendsi
   Product Type: Christmas dresses
   Availability: Available
@@ -7970,7 +7970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
     Price: £45.63 GBP
 - [Ghost & Bow Sweatshirt - Women's Long Sleeve Halloween Top | Glamorous Boutique](https://glamorousboutique.store/products/ghost-bow-round-neck-long-sleeve-sweatshirt): Embrace the spooky season with our ghost and bow print sweatshirt. Comfortable round neck design with long sleeves. Perfect for Halloween and autumn wear.
-  Updated: 2025-10-31T12:01:21Z
+  Updated: 2025-10-31T23:21:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8162,7 +8162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
     Price: £43.29 GBP
 - [Christmas Santa Print Mesh Top - Festive Long Sleeve Shirt | Glamorous Boutique](https://glamorousboutique.store/products/christmas-santa-print-mesh-long-sleeve-top): Get festive with our Christmas Santa print mesh long sleeve top. Perfect for holiday parties and seasonal celebrations. Lightweight and stylish. Shop now!
-  Updated: 2025-10-31T09:21:05Z
+  Updated: 2025-10-31T23:40:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8184,7 +8184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
     Price: £12.66 GBP
 - [Women's Contrast Trim Hoodie - Kangaroo Pocket Sweatshirt | Glamorous Boutique](https://glamorousboutique.store/products/contrast-trim-drawstring-hoodie-with-kangaroo-pocket): Stay cosy in our women's contrast trim drawstring hoodie featuring a convenient kangaroo pocket. Perfect for casual everyday wear. Shop now at Glamorous Boutique.
-  Updated: 2025-10-31T06:40:40Z
+  Updated: 2025-11-01T03:20:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8296,7 +8296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3429f608-4180-4c40-aadb-c2b79fbd366f-Max-Origin.webp?v=1761785305
     Price: £24.60 GBP
 - [Christmas Nutcracker Button Up Top and Shorts Lounge Set](https://glamorousboutique.store/products/christmas-nutcracker-button-up-top-and-shorts-lounge-set): Features:Buttoned,Pocketed,Tied Number of pieces:Two-piece Stretch:No stretch Material composition:100% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length S 25.2 40.9 40.2 23.2 M 26 43.3 42.5 23.6 L 26.8 45.7 44.9 24 XL 27.6 48.8 48 24.4
-  Updated: 2025-10-31T04:33:23Z
+  Updated: 2025-10-31T21:20:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8318,7 +8318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c15054a2-e160-4e05-9f0c-4488a770005c-Max-Origin.webp?v=1761837255
     Price: £49.99 GBP
 - [Christmas Tree Pattern Checkered Button V Neck Cardigan](https://glamorousboutique.store/products/christmas-tree-pattern-checkered-button-v-neck-cardigan): Features:Ribbed Stretch:Slightly stretchy Material composition:52% viscose, 26% polyester, 22% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24 40.2 22 M 24.8 42.5 22 L 25.6 44.9 22 XL 26.4 48 22
-  Updated: 2025-10-31T15:00:36Z
+  Updated: 2025-11-01T02:46:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8363,14 +8363,14 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2c36c4f7-3035-4432-9154-3834183d2a26-Max-Origin.webp?v=1761837344
   Price: £7.99 GBP
 - [Christmas Tree Dangle Earrings](https://glamorousboutique.store/products/christmas-tree-dangle-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Resin,Zinc alloy,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.6
-  Updated: 2025-10-31T03:46:44Z
+  Updated: 2025-11-01T02:14:55Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0229a3d6-9702-4b44-a0fd-dda6df9aa0de-Max-Origin.webp?v=1761837393
   Price: £9.99 GBP
 - [Christmas Nutcracker Earrings](https://glamorousboutique.store/products/christmas-nutcracker-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Alloy,Resin,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.2
-  Updated: 2025-10-31T06:17:27Z
+  Updated: 2025-10-31T16:47:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8812,7 +8812,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Photoroom_20250101_111626.jpg?v=1761861414
   Price: £14.99 GBP
 - [Personalised floral tumblers](https://glamorousboutique.store/products/personalised-floral-tumblers)
-  Updated: 2025-10-31T10:47:56Z
+  Updated: 2025-10-31T22:00:24Z
   Vendor: Lola’s gift shop <3
   Product Type: 
   Availability: Available
