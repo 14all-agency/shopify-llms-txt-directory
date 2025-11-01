@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-11-01T08:01:17.840Z
+- Updated At: 2025-11-01T12:01:25.014Z
 
 ## Products
 
@@ -2111,13 +2111,6 @@ Qualquer menino adoraria estes carros de madeira que Incluem 7 veículos icônic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-manicure-yummy-623060222-2600000-brincatoys-1178693350.jpg?v=1752836417
   Price: 17,99 € EUR
-- [Conjunto médico](https://brincatoys.pt/products/conjunto-medico): Mantém as tuas bonecas felizes e saudáveis ​​com este kit médico bem equipado.
-  Updated: 2025-10-31T12:24:30Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-medico-82301022-brincatoys-1178693352.jpg?v=1752836421
-  Price: 21,99 € EUR
 - [Conjunto Musical Confetti](https://brincatoys.pt/products/conjunto-musical-confetti): Os futuros talentos musicais vão adorar este conjunto de música Confetti! Inclui 5 instrumentos para permitir que todas as crianças curiosas descubram diferentes formas de fazer música, encontrem o instrumento que melhor lhes convém ou organizem concertos todas as noites com a família ou amigos. Este conjunto inclui 5 brinquedos musicais: 1 pand...
   Updated: 2025-10-31T12:24:31Z
   Vendor: Seleção Brincatoys
@@ -3737,7 +3730,7 @@ Norte da África.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/javali-430051223-brincatoys-1178693787.jpg?v=1752845300
   Price: 9,99 € EUR
 - [Jipe com Atrelado](https://brincatoys.pt/products/jipe-com-atrelado): Este jipe com atrelado tem um motor de fricção que o ajuda a andar sozinho E pode ser usado como carrinho para brincar em estradas ou garagens. No atrelado o jipe pode levar uma bola ou um animal!  Dimensão: 20 x 8,50 x 11 cm.Idade Recomendada: + de 2 anos.
-  Updated: 2025-10-31T12:25:02Z
+  Updated: 2025-11-01T11:42:46Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -9671,7 +9664,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/winnie-the-pooh-igor-621234323-brincatoys-1178695702.jpg?v=1752879135
   Price: 7,50 € EUR
 - [Xilofone Arco-íris](https://brincatoys.pt/products/xilofone-arco-iris-1): Apresente ao seu filho novos sons e cores com este xilofone colorido. Cada barra colorida reproduz um som diferente quando atingida pelas baquetas.  Dimensão: 30,50 x 18 x 8 cm.Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-31T12:27:04Z
+  Updated: 2025-11-01T10:03:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -11701,7 +11694,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-batman-cinturao-cinzento-30-cm-773440623-dc-comics-1178696674.jpg?v=1752804368
   Price: 18,99 € EUR
 - [Figura DC - The Joker 30 cm](https://brincatoys.pt/products/figura-dc-the-joker-30-cm): Cria as tuas próprias histórias do Universo DC com a figura de ação de 30 cm da DC Comics The Joker. Apresenta 11 pontos de articulação e um estilo icônico detalhado que dá vida ao teu personagem favorito da DC! Junta-te a super-heróis e vilões icônicos no universo DC. Envolve a tua imaginação com a tua figura de ação enquanto jogas as tuas própria
-  Updated: 2025-10-31T21:19:13Z
+  Updated: 2025-11-01T09:18:24Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -14903,7 +14896,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-jurassic-world-de-200-pcs-xxl-230105824-jurassic-world-1178698549.jpg?v=1752928698
   Price: 14,99 € EUR
 - [Godzilla x Kong: Godzilla Gigante](https://brincatoys.pt/products/godzilla-x-kong-godzilla-gigante): Descubra o gigante dos mares e protetor das profundezas, o Godzilla Gigante da coleção exclusiva Godzilla x Kong. Com aproximadamente 28 cm de altura, a figura gigante do Godzilla está pronta para reinar em qualquer lugar. Com múltiplos pontos de articulação, Godzilla está pronto para a ação, para que você possa recriar suas cenas favoritas de suas batalhas épicas. Este formidável brinquedo Godzilla x Kong: Godzilla Gigante não é apenas um item de coleção espetacular, mas também uma representação autêntica que captura a majestade do icônico Rei dos Monstros. Com detalhes intricados e cores vibrantes, a figura reflete a ferocidade e a força de Godzilla, como visto no filme Godzilla vs. Kong. Iniciando com a escultura detalhada, o Godzilla x Kong: Godzilla Gigante apresenta texturas realistas que imitam a escala e a robustez da pele do monstro. As protuberâncias dorsais translúcidas ressaltam em um laranja flamejante, sugerindo a capacidade de Godzilla de libertar o seu devastador sopro atômico. Posicionadas dinamicamente, as patas do Godzilla exibem garras formidáveis capazes de enfrentar qualquer adversário. Além disso, o design articulado permite aos fãs recriarem cenas épicas do embate entre Godzilla e Kong. A cauda flexível estende-se para criar poses imponentes, assemelhando-se às cenas de batalha do filme. Cada aspecto desta figura foi criado para trazer um nível de jogabilidade e exposição sem igual, ideal para colecionadores e entusiastas do Universo Monstro. Além de seu apelo estético, o Godzilla Gigante é construído com materiais duráveis, garantindo que possa suportar horas de brincadeiras imaginativas ou ficar em exibição sem perder qualidade. Em suma... Os fãs de todas as idades ficarão encantados ao adicionar esta peça imponente à sua coleção MonsterVerse. Detalhes realistas e alta fidelidade ao design do filme. Articulação para recriação de cenas e poses dinâmicas. Cores e texturas vibrantes para um efeito visual impressionante. Materiais duráveis para longevidade na coleção ou brincadeira. Dimensão: 28 x 31 x 15 cm Idade recomendada: + de 4 anos
-  Updated: 2025-10-31T12:29:00Z
+  Updated: 2025-11-01T11:03:06Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15883,7 +15876,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-de-pano-taylor-33-cm-companheira-encantadora-602107024-brincatoys-1178699421.jpg?v=1752941175
   Price: 24,90 € EUR
 - [Jogo Monopoly Deal em português - Estratégia e Diversão](https://brincatoys.pt/products/jogo-de-cartas-monopoly-deal): Monopoly Deal totalmente em português - experiência o clássico jogo de negociação em formato de cartas. Ideal parra muita diversão onde quer que vás!
-  Updated: 2025-10-31T12:29:22Z
+  Updated: 2025-11-01T11:52:06Z
   Vendor: Monopoly
   Product Type: + 8 anos
   Availability: Available
@@ -15911,7 +15904,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-teddiursa-para-colecionadores-23390724-0191726726678-pokemon-1178699465.jpg?v=1752942021
   Price: 14,99 € EUR
 - [Figuras Mystery Minis - Stitch Colecionáveis em Vinil](https://brincatoys.pt/products/mystery-minis-stitch): Apaixonados por Disney, colecione as Figuras Mystery Minis - Stitch para uma surpresa mágica! Cada caixinha traz um Stitch diferente, em trajes variados.
-  Updated: 2025-10-31T12:29:23Z
+  Updated: 2025-11-01T11:03:16Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18095,7 +18088,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/nave-star-wars-micro-galaxy-sith-infiltrator-replica-precisa-23025524-0191726711384-star-wars-1178701235.jpg?v=1752968046
   Price: 44,90 € EUR
 - [Nave Star Wars Micro Galaxy Imperial Shuttle: Reviva a Emoção](https://brincatoys.pt/products/nave-star-wars-micro-galaxy-imperial-shuttle): Reviva a emoção da galáxia com a Nave Star Wars Micro Galaxy Imperial Shuttle. Detalhes autênticos, asas articuladas e figuras exclusivas. Compre agora! ✨
-  Updated: 2025-10-31T21:33:41Z
+  Updated: 2025-11-01T10:01:54Z
   Vendor: Star Wars
   Product Type: + 8 anos
   Availability: Available
@@ -20463,7 +20456,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-skye-resgates-aereos-divertidos-550614925-0681147061491-patrulha-pata-1198501017.jpg?v=1760874596
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Marshall em Ação](https://brincatoys.pt/products/patrulha-pata-fire-rescue-marshall): Desperte a imaginação das crianças com o Patrulha Pata Fire Rescue - Marshall! Com design vibrante e canhão de água, a diversão começa sem pilhas.
-  Updated: 2025-10-31T12:31:25Z
+  Updated: 2025-11-01T11:40:26Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -21060,7 +21053,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-one-eye-o-tenente-do-skar-king-234002125-0043377352136-godzilla-vs-kong-1196092355.jpg?v=1759621816
   Price: 19,99 € EUR
 - [Minifiguras coleccionáveis Naruto Shippuden para fãs](https://brincatoys.pt/products/minifiguras-coleccionaveis-naruto-shippuden): Descubra a emoção das Minifiguras coleccionáveis Naruto Shippuden em cápsulas surpresa! Cada cápsula traz um shinobi único, colecione já!
-  Updated: 2025-10-31T12:31:39Z
+  Updated: 2025-11-01T11:03:10Z
   Vendor: Naruto
   Product Type: + 6 anos
   Availability: Available
@@ -21550,7 +21543,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:48Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 181
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-31T12:23:48Z
@@ -21580,7 +21573,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:48Z
   Total Products: 5
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 30
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-10-31T12:23:48Z
@@ -21589,10 +21582,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:48Z
   Total Products: 19
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 25
 - [Lego Star Wars](https://brincatoys.pt/collections/lego-star-wars): Numa galáxia muito distante, existe um mundo repleto de aventuras onde o bem luta contra o mal e os fãs de Star Wars™ podem juntar-se a Luke Skywalker, Han Solo, Mandaloriano, Grogu e muitos outros para recriarem as cenas favoritas da série. Domina a Força para construíres naves e veículos épicos, droides fantásticos e personagens icónicas.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 26
 - [Lego DC](https://brincatoys.pt/collections/lego-dc-comics): Os conjuntos do Universo DC permitem que as crianças brinquem, inventem e criem um mundo colorido de super-heróis. Com estes conjuntos de jogo, as crianças vão poder construir cenas famosas e divertir-se a inventar novas aventuras entre todos os heróis e vilões. Vão poder divertir-se e aprender muito com cada conjunto.
   Updated: 2025-10-31T12:23:48Z
@@ -21652,7 +21645,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 209
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-10-31T12:23:49Z
@@ -21685,10 +21678,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T21:16:18Z
   Total Products: 1579
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 701
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-31T18:04:32Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 325
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-31T12:23:50Z
@@ -21697,31 +21690,31 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:50Z
   Total Products: 54
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-10-31T12:23:50Z
-  Total Products: 127
+  Updated: 2025-11-01T10:04:26Z
+  Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
   Updated: 2025-10-31T18:07:25Z
   Total Products: 1292
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-31T18:07:25Z
-  Total Products: 2409
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 2407
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-31T18:07:25Z
-  Total Products: 2873
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 2871
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3264
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3262
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3400
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3398
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3480
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3478
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3529
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3527
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-31T18:04:32Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 443
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-31T12:23:50Z
@@ -21805,7 +21798,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T14:15:19Z
   Total Products: 52
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 31
 - [Trolls](https://brincatoys.pt/collections/trolls)
   Updated: 2025-10-31T12:23:52Z
@@ -21829,7 +21822,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:52Z
   Total Products: 38
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 399
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-31T12:23:52Z
@@ -21910,10 +21903,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3562
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3560
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-31T14:53:30Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 283
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-31T12:23:53Z
@@ -21922,22 +21915,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 120
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 1237
+  Updated: 2025-11-01T11:05:41Z
+  Total Products: 1236
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-31T12:23:54Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 513
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 137
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-31T16:34:12Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 187
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 78
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-11-01T11:28:29Z
   Total Products: 225
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-31T12:23:54Z
@@ -21946,11 +21939,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3563
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3561
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3563
+  Updated: 2025-11-01T11:28:29Z
+  Total Products: 3561
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 22
@@ -21961,8 +21954,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T18:07:26Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3064
+  Updated: 2025-11-01T11:40:56Z
+  Total Products: 3063
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 19
@@ -21970,8 +21963,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 124
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-31T21:16:18Z
-  Total Products: 3064
+  Updated: 2025-11-01T11:40:56Z
+  Total Products: 3063
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-31T21:16:18Z
   Total Products: 834
