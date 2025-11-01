@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-11-01T08:00:40.121Z
+- Updated At: 2025-11-01T12:00:40.579Z
 
 ## Products
 
@@ -921,7 +921,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-Grey-0.jpg?v=1727659149
   Price: $54.99 NZD
 - [Umbra Flip 5 Hook - Black/Walnut](https://everydayhome.co.nz/products/flip-5-hook-black-walnut): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-10-28T00:37:10Z
+  Updated: 2025-11-01T08:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3028,7 +3028,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806_a37b3a9a-dc8f-4293-ab16-6bbdcce3a7d4.png?v=1733865664
   Price: $31.99 NZD
 - [Brabantia Stackable Glass Jar - 0.7L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-7l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-27T12:34:59Z
+  Updated: 2025-11-01T08:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3147,7 +3147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/swiftdry-lifestyle-replacement-double-pulley-black-213946.jpg?v=1746478916
     Price: $30.00 NZD
 - [SwiftDry StreamLine 24M Clothesline (<4m x 0.6m)](https://everydayhome.co.nz/products/swiftdry-streamline-clothesline-black-powdercoated): The SwiftDry StreamLine is a premium fold-down clothesline, perfect for modern homes. Designed to neatly fold away against walls, fences, decks, or balconies, it provides up to 24m of family-sized drying space. Its versatile, adjustable length makes it ideal for fitting along footpaths or the side of your house in a practical, space-saving, and discreet way. A stylish and durable solution for efficient outdoor drying! Features: 6 Lines Suitable for 1-4 people Frame Depth: 600mm Length: up to 4m (can customise length on installation) Line Space: 24m 316 Stainless Steel fixings and lock pins Mounting Bracket Width: 250mm (with 3x 8mm holes on each bracket) Timber mounting screws included. Easy install with step by step instructions Easy tensioning system so your lines will always be tight High tensile galvanised steel construction with Black powdercoating over top for excellent weather protection, durability, and a modern, inconspicuous look. Clothesline folds away against fixing when not in use by releasing a pin on each bracket Warranty: 30 Years - Structural Carton size 65 x 29 x 16cm, 8kg StreamLine Vs Sleekline? Kitset includes: 2x fold down wall/clothesline brackets PVC Nylon UV stable line, and tension lock Easy DIY install instructions 8x wood screws (4 for each bracket) for direct mounting to fence, wall, weatherboard etc. you will need masonry bolts if attaching to brick, concrete, or similar surface 8 x M8x75mm concrete anchor screws supplied with the Surface mounted post kit
-  Updated: 2025-10-26T23:32:49Z
+  Updated: 2025-11-01T08:36:41Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4798,16 +4798,16 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 1052
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 1052
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 279
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-10-31T01:58:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
@@ -4870,13 +4870,13 @@
   Updated: 2025-10-30T11:07:17Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 237
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-10-31T11:07:10Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-10-27T20:05:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-10-31T01:58:10Z
@@ -4888,10 +4888,10 @@
   Updated: 2025-10-27T12:34:25Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-10-27T20:05:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
-  Updated: 2025-10-30T11:07:17Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 36
 - [Ironing & Steaming](https://everydayhome.co.nz/collections/ironing-steaming)
   Updated: 2025-10-29T11:06:46Z
@@ -4945,7 +4945,7 @@
   Updated: 2025-10-28T11:07:13Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
-  Updated: 2025-10-30T11:07:17Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
   Updated: 2025-10-30T11:07:17Z
@@ -5017,10 +5017,10 @@
   Updated: 2025-10-27T12:32:04Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 263
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-30T11:07:17Z
@@ -5029,7 +5029,7 @@
   Updated: 2025-10-31T01:58:10Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-10-27T20:05:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
   Updated: 2025-10-27T12:34:10Z
@@ -5065,10 +5065,10 @@
   Updated: 2025-10-30T11:07:17Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-10-27T20:05:15Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 894
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
   Updated: 2025-10-31T11:07:10Z
@@ -5110,10 +5110,10 @@
   Updated: 2025-10-27T12:35:07Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 1066
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 894
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-10-27T12:34:23Z
@@ -5143,7 +5143,7 @@
   Updated: 2025-10-31T11:07:10Z
   Total Products: 124
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-10-31T11:07:10Z
+  Updated: 2025-11-01T11:07:33Z
   Total Products: 920
 - [Umbra Rodeo & Tipsy Buddy](https://everydayhome.co.nz/collections/umbra-rodeo-tipsy-buddy): For the host with the most. These aren't your average bottle openers - they balance, they entertain, and they kicks off cocktail hour with a whole lot of charm.
   Updated: 2025-10-31T11:07:10Z
