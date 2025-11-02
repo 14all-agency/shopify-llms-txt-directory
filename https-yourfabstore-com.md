@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-11-01T16:00:37.933Z
+- Updated At: 2025-11-02T00:00:28.750Z
 
 ## Products
 
@@ -6778,7 +6778,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14393422749245389365_2048.jpg?v=1760759340
   Price: $9.92 USD
 - [Adventure Snapback Hat - Perfect for Outdoor Enthusiasts](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts): This adventure-themed snapback hat is perfect for mountain and camping enthusiasts who love the great outdoors. The design features a motivational quote and a mountain graphic, giving off a sense of exploration and adventure. Ideal for those who enjoy outdoor activities and want to add a touch of style to their wardrobe. Relevant for outdoor holidays, camping trips, and hiking adventures.Product features- Adjustable snap closure for the perfect fit- Classic green undervisor for timeless style- 80% acrylic, 20% wool fiber composition- For adults- Compliance with lead, bisphenols, and phthalates requirementsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:21Z
+  Updated: 2025-11-01T20:07:50Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6786,37 +6786,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498920874259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5761011500460527038_2048.jpg?v=1759285108
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498920907027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12262655277845353901_2048.jpg?v=1759285108
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498920939795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/299206080072695114-2048-_4.jpg?v=1759285108
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498920972563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17199741437613407482-2048-_2.jpg?v=1759285104
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498921005331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8411131941843673337_2048.jpg?v=1759285104
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498921038099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18094265808690855598_2048.jpg?v=1759285108
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498921070867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17445784091959209369_2048.jpg?v=1739766769
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts?variant=50498921103635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/21129798560082130_2048.jpg?v=1759285108
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Blue Fox Snapback Cap - Stylish Outdoor Hat for Animal Lovers](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers): This blue fox design snapback hat is perfect for animal lovers who want a unique and cool accessory. The six-panel structure and adjustable snap closure ensure a comfortable fit for adults. Made with a blend of acrylic and wool, this hat is decorated with embroidery for a timeless style.Product features- Six-panel structure for a comfortable fit- Adjustable snap closure for customization- Classic green undervisor for added style- 80% acrylic, 20% wool fiber composition- Suitable for adults aged restrictionsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:28Z
+  Updated: 2025-11-01T20:07:36Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6824,37 +6824,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921300243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5830852327557592811_2048.jpg?v=1759285100
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921333011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10079825819199499945_2048.jpg?v=1739766823
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921365779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3386523024172447863-2048-_5.jpg?v=1759285100
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921398547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9815955932468401480-2048-_3.jpg?v=1759285096
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921431315)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17633727966397563485_2048.jpg?v=1759285096
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921464083)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3975739315161490631_2048.jpg?v=1759285100
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921496851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2138011138406435160_2048.jpg?v=1739766822
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/blue-fox-flat-bill-snapback-cap-stylish-outdoor-hat-for-animal-lovers?variant=50498921529619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1068453690623928460_2048.jpg?v=1759285100
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Sleepy Head Snapback Cap - Relaxed Style for Lazy Days](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days): This Snapback hat features a sleepy head quote and cute panda design, giving off a relaxed and lazy vibe. Perfect for those who enjoy chilling and resting, it is great for adults looking for a cute and kawaii accessory. Ideal for casual wear or as a gift for panda lovers or those who appreciate a cute and cozy aesthetic. Suitable for everyday wear or to add a touch of relaxation to any outfit.Product features- Six-panel structure with eyelets- Adjustable snap closure for the perfect fit- Classic green undervisor for timeless style- Made of 80% acrylic, 20% wool (fiber content varies for different colors)- Decorated with embroidery for a high-quality finishCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:25Z
+  Updated: 2025-11-01T20:07:52Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6862,37 +6862,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921660691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3257798461687833689_2048.jpg?v=1759285089
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921693459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/578443511517501315_2048.jpg?v=1759285089
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921726227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2484482190801243947-2048-_3.jpg?v=1759285086
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921758995)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16833221903942532863-2048-_1.jpg?v=1759285082
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921791763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11828751984628528636_2048.jpg?v=1759285082
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921824531)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2435745901843409738_2048.jpg?v=1759285089
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921857299)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2373258991869426799_2048.jpg?v=1759285086
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/sleepy-head-flat-bill-snapback-cap-relaxed-style-for-lazy-days?variant=50498921890067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10606273531729843623-2048-_5.jpg?v=1759285089
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Vibrant Tiger Snapback Hat - Trendy Style for Animal Lovers](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers): Elevate your casual style with this trendy Snapback hat. Perfect for sunny outings, this hat combines comfort and modern flair. Its structured six-panel design provides a sharp look while the classic green undervisor adds a timeless touch. Ideal for fashion-forward individuals who love to express their personality, this snapback is perfect for outdoor gatherings, festivals, or just a weekend stroll.Great for anyone who appreciates quality and style, whether you're a streetwear enthusiast or just looking for a functional accessory. This snapback is a fantastic gift for birthdays, holidays, or as a celebration of personal style. Wear it to brighten up a casual outfit or to show off your unique flair during summer events!Product features- Six-panel structure with eyelets for breathability- Adjustable plastic snap closure for customizable fit- Classic green undervisor for a stylish contrast- Durable fiber composition: 80% acrylic, 20% wool- Sewn-in label and brand sticker for authenticityCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:18Z
+  Updated: 2025-11-01T20:07:46Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6900,37 +6900,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498921955603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18155881045796360797_2048.jpg?v=1759285074
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498921988371)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13089087029679927272_2048.jpg?v=1759285074
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922021139)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3164083852729319073-2048-_4.jpg?v=1759285074
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922053907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13745259760452852165-2048-_2.jpg?v=1759285070
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922086675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10993087439288001629_2048.jpg?v=1759285070
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922119443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2046954372452216620_2048.jpg?v=1759285074
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922152211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8316659399122665921_2048.jpg?v=1739770706
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/vibrant-tiger-flat-bill-snapback-hat-trendy-style-for-animal-lovers?variant=50498922184979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5794120688002880370_2048.jpg?v=1759285074
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Lucky Card Snapback Hat](https://yourfabstore.com/products/lucky-card-snapback-hat): This snapback hat features a unique design with lucky cards, giving off a cool and lucky vibe. Perfect for those who want to add a touch of luck to their outfit. Ideal for adults looking for a stylish accessory for casual wear or special occasions like St. Patrick's Day or casino-themed parties.Product features- Six-panel structure with eyelets- Adjustable plastic snap closure- Classic green undervisor- 80% acrylic, 20% wool composition- Embroidered decorationsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:27Z
+  Updated: 2025-11-01T20:07:34Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6938,37 +6938,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922250515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14297769761101656220_2048.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922283283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4427463174897007048_2048.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922316051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17167160760282957965-2048-_3.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922348819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10363573585216005410-2048-_1.jpg?v=1759285063
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922381587)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6080706311088988581_2048.jpg?v=1759285063
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922414355)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11705479766628229786_2048.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922447123)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2380214086018509996_2048.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/lucky-card-snapback-hat?variant=50498922479891)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5865638347926069074_2048.jpg?v=1759285067
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [The Great Wave Snapback Hat](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers): This Snapback hat features The Great Wave design, inspired by Japanese art and culture. With its ancient and old vibe, this hat is perfect for those who appreciate traditional Japanese aesthetics. Ideal for adults looking to add a touch of timeless style to their outfits, this hat is a great accessory for casual wear or special occasions like Japanese cultural celebrations.Product features- Six-panel structure with eyelets- Adjustable snap closure for perfect fit- Classic green undervisor- 80% acrylic, 20% wool fiber composition- Meets lead and phthalates level requirementsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:12Z
+  Updated: 2025-11-01T20:07:42Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -6976,37 +6976,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426231059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3713275504024772012_2048.jpg?v=1759285056
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426263827)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5160139987719380240_2048.jpg?v=1759285056
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426296595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9136786759091911879-2048-_4.jpg?v=1759285056
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426329363)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/15592242456656642735-2048-_2.jpg?v=1759285052
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426362131)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7980997409096764776_2048.jpg?v=1759285052
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426394899)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6983736436697720559_2048.jpg?v=1739770740
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426427667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2481060443366260400_2048.jpg?v=1759285056
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/the-great-wave-flat-bill-snapback-cap-coastal-style-for-beach-lovers?variant=50502426460435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/343753271240932734_2048.jpg?v=1759285056
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Crescent Moon Snapback Hat - Trendy Adjustable Cap for Casual Wear](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear): This snapback features a crescent moon design, perfect for night lovers seeking tranquility and peace. The dark moonlight vibes give a quiet and peaceful atmosphere, making it ideal for nighttime adventures or stargazing enthusiasts. A great accessory to wear during nighttime celebrations like bonfires or moonlit walks.Product features- Six-panel structure with eyelets and curved visor- Adjustable plastic snap closure for perfect fit- Classic green undervisor for timeless style- 80% acrylic, 20% wool fiber composition- Suitable for adultsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:10Z
+  Updated: 2025-11-01T20:07:38Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -7014,37 +7014,37 @@
   - [One size / Black/Neon Pink](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426755347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3656444512762383299_2048.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426788115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14936156273753028491_2048.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426820883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5481715063835381563-2048-_3.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426853651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/225300065073266511-2048-_2.jpg?v=1759285040
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426886419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8991474404580227453_2048.jpg?v=1739767078
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426919187)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6217426621757010331_2048.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426951955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2863866330875169282_2048.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/crescent-moon-snapback-hat-trendy-adjustable-cap-for-casual-wear?variant=50502426984723)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3841158589059038396_2048.jpg?v=1759285045
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Beach Life Snapback Hat - Perfect for Summer Adventures](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures): Introducing the perfect Snapback for style enthusiasts! This trendy cap features a sleek design that elevates any outfit. Whether you’re hitting the beach or hanging out with friends, this hat adds a fun, laid-back vibe to your look. Ideal for adults who love to express their individuality, it’s perfect for casual outings, summer festivals, or road trips. This snapback is a great gift for birthdays, Father’s Day, or just because! Durable and stylish, it’s a must-have accessory for anyone looking to make a statement.Product features- Six-panel construction with eyelets for breathability- Adjustable snap closure for a perfect fit- Classic green undervisor for added style- Made of durable 80% acrylic and 20% wool- Meets safety compliance standards for peace of mindCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:15Z
+  Updated: 2025-11-01T20:07:44Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -7052,37 +7052,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427672851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9525399215134698675_2048.jpg?v=1759285033
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427705619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8530731000291570202_2048.jpg?v=1759285033
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427738387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9889874309766962791-2048-_4.jpg?v=1759285033
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427771155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6615514571972891104-2048-_2.jpg?v=1759285029
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427803923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6827896960223644099_2048.jpg?v=1759285029
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427836691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3243699351460027409_2048.jpg?v=1759285033
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427869459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/15623828613592599851_2048.jpg?v=1739770723
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/beach-life-flat-bill-snapback-hat-perfect-for-summer-adventures?variant=50502427902227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/961728451399012762_2048.jpg?v=1759285033
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Positive Vibes Snapback Hat - Cool Casual Style for Every Occasion](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion): This Snapback Cap is designed with positive vibes quotes and smiley, perfect for those who love outdoor activities and a cool, casual style. It exudes positivity and good mood, making it a great accessory to brighten up your day. Ideal for adults who appreciate unique and trendy headwear, this cap is perfect for everyday wear or for adding a touch of positivity to your outfit. Suitable for holidays, festivals, or any casual occasion where you want to spread good vibes.Product features- Six-panel structure with eyelets- Adjustable snap closure for perfect fit- Classic green undervisor for timeless style- Made of 80% acrylic, 20% wool (fiber content varies)- Embroidered decoration for a unique lookCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-12T05:35:31Z
+  Updated: 2025-11-01T20:07:40Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -7090,37 +7090,37 @@
   - [One size / Black/Red](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428295443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5924199010519780184_2048.jpg?v=1759285022
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428328211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/508727304310839652_2048.jpg?v=1759285022
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428360979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10691324211690167361-2048-_4.jpg?v=1759285022
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428393747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/49438658727276696-2048-_2.jpg?v=1759285018
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428426515)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13665548240769589957_2048.jpg?v=1759285018
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428459283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17152329286020205451_2048.jpg?v=1739767484
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428492051)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8939206638443544079_2048.jpg?v=1759285022
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/positive-vibes-snapback-hat-cool-casual-style-for-every-occasion?variant=50502428524819)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9834214450193566164_2048.jpg?v=1759285022
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Motivational Snapback Cap - 'Push Your Limit'](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit): This Snapback hat features a motivational 'Push your limit' quote, perfect for those who are into fitness, bodybuilding, or training. With a cool and unique design, this hat is great for adding an extra element of focus and strength to your gym sessions. Ideal for adults looking for a stylish way to stay motivated during workouts and training sessions.Product features- Six-panel structure with eyelets and curved visor- Adjustable snap closure for perfect fit- Classic green undervisor for timeless style- 80% acrylic, 20% wool fiber composition- Meets lead, bisphenols, and phthalates level requirementsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-31T05:35:28Z
+  Updated: 2025-11-01T20:07:48Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -7128,35 +7128,35 @@
   - [One size / Black/Red](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428754195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8285070343872246405_2048.jpg?v=1759285014
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Teal](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428786963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1651207451265805965_2048.jpg?v=1759285014
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Black](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428819731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2411436341004641769-2048-_4.jpg?v=1759285014
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Navy](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428852499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8266684435984039150_2048.jpg?v=1739767712
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Navy/Red](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428885267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6451047145423816461_2048.jpg?v=1739767720
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Black/Silver](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428918035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/16134588035308603825_2048.jpg?v=1739767688
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Natural/Black](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428950803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13337053936592986132_2048.jpg?v=1759285014
-    Price: $27.00 USD
+    Price: $28.00 USD
   - [One size / Heather Grey/Red](https://yourfabstore.com/products/motivational-snapback-cap-push-your-limit?variant=50502428983571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3995306345649291357_2048.jpg?v=1759285014
-    Price: $27.00 USD
+    Price: $28.00 USD
 - [Fire Fist Ace Design - Snapback Cap](https://yourfabstore.com/products/fire-fist-ace-design-snapback-cap): Fire Fist Ace Snapback features a cool and stylish anime design from the popular series One Piece, perfect for Japanese manga fans and otakus. The flat bill and adjustable snap closure ensure a comfortable and perfect fit. This hat is ideal for casual wear or as a statement piece for anime conventions and cosplay events.Product features- Six-panel structure with eyelets for ventilation- Adjustable plastic snap closure for a custom fit- Classic green undervisor for timeless style- Made from a blend of acrylic and wool for durability- Ideal for adults and meets safety compliance standardsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietman Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
   Updated: 2025-10-01T14:22:27Z
   Vendor: Printify
@@ -8482,7 +8482,7 @@
   Updated: 2025-10-01T03:03:07Z
   Total Products: 6
 - [Shop Snapback Hats – Custom Designs & Streetwear Style](https://yourfabstore.com/collections/snapback-hats): Discover custom snapback hats with creative designs. YourFabStore offers stylish headwear that stands out from the crowd.
-  Updated: 2025-10-12T05:35:29Z
+  Updated: 2025-11-01T20:07:53Z
   Total Products: 10
 - [Limited Edition Apparel & Accessories – Rare Finds Only at YourFabStore](https://yourfabstore.com/collections/limited-edition): Discover rare designs in our Limited Edition collection. Trendy custom apparel & accessories you won’t find anywhere else.
   Updated: 2025-10-12T04:35:20Z
