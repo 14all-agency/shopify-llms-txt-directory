@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-11-01T04:01:12.131Z
+- Updated At: 2025-11-02T00:00:37.719Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3.png?v=1761842102
   Price: $192.00 USD
 - [Labubu 3.0 Monsters Big into Energy Series Secret Version - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-monsters-big-into-energy-series-id-secret-version): Labubu is a collectible figure from The Monsters series.Made of high-quality PVC, this charming character adds personality to any shelf and makes a perfect gift or collectible item. Size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire - PlaysPuls
-  Updated: 2025-10-29T21:58:34Z
+  Updated: 2025-11-01T17:50:51Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
