@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-11-01T12:00:43.946Z
+- Updated At: 2025-11-02T00:01:16.702Z
 
 ## Products
 
@@ -1922,7 +1922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/01-1-1.png?v=1737381275
   Price: ALL 2,195.00 ALL
 - [SmartAppGuided™ Aqua-Stream Face Cleanser | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial](https://amar.al/products/smartappguided-aqua-stream-face-cleanser-8-in-1): Po kërkoni një marrje të shpejtë? Pastruesi i fytyrës SmartAppGuided™ Aqua-Stream | 8 në 1 rinovon dhe hidraton lëkurën tuaj në përsosmëri rrezatuese. - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial
-  Updated: 2025-10-31T23:39:06Z
+  Updated: 2025-11-01T21:52:37Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2771,7 +2771,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0042_4099702001909_1.png?v=1756714691
   Price: ALL 6,330.40 ALL
 - [Anti-Aging Skin Tightener | 6 in 1 (Gray) - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/anti-aging-skin-tightener-6-in-1-gray): Geske Anti-Aging Skin Tightener 6në1 është një pajisje moderne për kujdesin e lëkurës, që kombinon teknologji të avancuara si valë të ngrohjes RF dhe pulsacione sonike për të ndihmuar në forcimin dhe rigjenerimin e lëkurës. Pajisja është e përshtatshme për përdorim të përditshëm falë materialit të silikonit mjekësor dhe rezistencës ndaj ujit IPX7. Përmes aplikacionit GESKE Beauty Tech, mund të krijoni një rutinë të personalizuar për lëkurën tuaj dhe të ndiqni progresin në mënyrë të lehtë. 6 teknologji të ndryshme për kujdes të avancuar të lëkurës Punon me bateri të rikarikueshme dhe karikim magnetik Material silikon mjekësor, i sigurt për lëkurë Rezistent ndaj ujit (IPX7) Kontroll dhe personalizim përmes aplikacionit mobil Përdorimi i rregullt ndihmon në përmirësimin e tonit të lëkurës, zvogëlimin e vijave të imëta dhe ofron një ndjesi relaksi gjatë çdo seance. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-31T21:56:54Z
+  Updated: 2025-11-01T17:46:52Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2860,12 +2860,12 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Product Type: 
   Availability: Available
   Price: ALL 0.00 ALL
-- [ALBUCIN-PP 4 x 3 ml - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/albucin-pp-4-x-3-ml-copy): Pharmaceris Albucin PP Whitening Essence Correcting Brown Marks Për kujdesin e përditshëm të lëkurës (fytyrë, qafë, dekolte, krahë) me hiperpigmentim, shenja kafe ose ton të pabarabartë.Rekomandohet për lëkurë të ndjeshme dhe të yndyrshme. Niacinamide (Vitamina B3, Vitamina PP) – ndihmojnë në rigjenerimin e barrierës lipidike epidermale, duke forcuar enët e gjakut dhe duke reduktuar dukshmërinë e tyre. Stimulon sintezën e kolagjenit dhe normalizon prodhimin e ceramideve dhe maturimin epidermal. Përmirëson nivelet e hidratimit të lëkurës, rrit elasticitetin dhe redukton njollat. E bën lëkurën më të lëmuar dhe më të fortë. Acidi salicilik – eksfolion butësisht qelizat e vdekura të epidermës. Rikthen strukturën e njëtrajtshme të lëkurës dhe siguron një pamje të shëndetshme. Ekstrakti i lëvores së shelgut – tregon veti antibakteriale dhe ka një efekt qetësues në lëkurë. Ka veti antiseptike dhe rregullon procesin e eksfolimit të qelizave të vdekura të lëkurës për të parandaluar papërsosmëritë e reja. Efikasitet dhe tolerancë e lartë. E testuar dermatologjikisht. Udhëzime mbi përdorimin Përdoreni esencën çdo ditë në mëngjes ose para gjumit, duke e aplikuar butësisht në lëkurë të pastër. Prisni derisa të përthithet plotësisht. Përdoreni çdo ditë për të paktën 4-6 javë. Mund të përdoret si trajtim ditën ose natën. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-11-01T03:38:42Z
+- [ALBUCIN-PP 4 x 3 ml - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/albucin-pp-4-x-3-ml-copy): Pharmaceris Albucin PP Whitening Essence Correcting Brown Marks Për kujdesin e përditshëm të lëkurës (fytyrë, qafë, dekolte, krahë) me hiperpigmentim, shenja kafe ose ton të pabarabartë.Rekomandohet për lëkurë të ndjeshme dhe të yndyrshme. Niacinamide (Vitamina B3, Vitamina PP) – ndihmojnë në rigjenerimin e barrierës lipidike epidermale, duke forcuar enët e gjakut dhe duke reduktuar dukshmërinë e tyre. Stimulon sintezën e kolagjenit dhe normalizon prodhimin e ceramideve dhe maturimin epidermal. Përmirëson nivelet e hidratimit të lëkurës, rrit elasticitetin dhe redukton njollat. E bën lëkurën më të lëmuar dhe më të fortë. Acidi salicilik – eksfolion butësisht qelizat e vdekura të epidermës. Rikthen strukturën e njëtrajtshme të lëkurës dhe siguron një pamje të shëndetshme. Ekstrakti i lëvores së shelgut – tregon veti antibakteriale dhe ka një efekt qetësues në lëkurë. Ka veti antiseptike dhe rregullon procesin e eksfolimit të qelizave të vdekura të lëkurës për të parandaluar papërsosmëritë e reja. Efikasitet dhe tolerancë e lartë. E testuar dermatologjikisht. - Amar Pharma - Pharmaceris - Krem Fytyre
+  Updated: 2025-11-01T21:45:18Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/c4aa8c2ecc369dd616e113f2bb04a775.webp?v=1761935299
+  Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/c4aa8c2ecc369dd616e113f2bb04a775.webp?v=1762033517
   Price: ALL 1,756.40 ALL
 - [SENSIRENEAL SPF 10+ - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/sensireneal-spf-10): Pharmaceris A REGENERATING ANTI-WRINKLE FACE CREAM SPF 10 SENSIRENEAL Ky krem ​​rekomandohet për kujdesin e përditshëm të lëkurës së pjekur e cila është shumë e ndjeshme dhe e prirur ndaj alergjive.VEPRIMKremi nxit rigjenerimin e epidermës dhe zbut lëkurën.Kompleksi aktiv peptid dhe vitamina E reduktojnë në mënyrë efektive rrudhat ekzistuese dhe vonojnë plakjen e lëkurës.Ato stimulojnë proceset e riparimit për të rikthyer qëndrueshmërinë dhe shtrëngimin e duhur të lëkurës.Gjalpi Shea dhe molekulat higroskopike të glicerinës japin hidratim dhe ushqim optimal dhe kombinohen me një filtër UV për të formuar një barrierë efektive që mbron lëkurën nga agresorët mjedisorë dhe foto-plakja.FORMULA E INOVATIVE IMUNO-PREBIOTIKE dhe LEUKINE-BARRIERË TË AVANCUARA SHKENCORSHT, rregullojnë funksionin e sistemit imunitar të lëkurës dhe lehtësojnë irritimet.Ato stimulojnë rritjen e mikroflorës mbrojtëse fiziologjike të lëkurës për të ulur ndjeshmërinë e lëkurës.Ato parandalojnë në mënyrë aktive irritimin, skuqjen, kruajtjen dhe djegien, duke promovuar një pamje dhe ndjesi të shëndetshme të lëkurës. TOLERANCË DHE EFIKASITETI I LARTËTESTUAR KLINIK DHE DERMATOLOGJIKVëllimi: 30 ml PËRBËRËSITFormula imuno-prebiotikenjë formulë që lehtëson irritimet dhe kontrollon mbindjeshmërinë e lëkurës.Formula Leukine-Barriernjë formulë që rikthen ekuilibrin e sistemit imunitar të lëkurës dhe qetëson irritimet.Kompleksi peptidstimulon sintezën e peptideve për të minimizuar shfaqjen e rrudhave dhe zonave të zgavra, dhe vonon plakjen e lëkurës. Promovon rigjenerimin, duke i rikthyer lëkurës shtrëngimin dhe qëndrueshmërinë e duhur.Vitamina Ee ashtuquajtura vitaminë e rinisë me veti të rëndësishme antioksidante e cila mbron lëkurën nga radikalet e lira dhe agresorët e mjedisit. Redukton rrudhat, hidraton lëkurën dhe nxit rigjenerimin dhe rinovimin e lëkurës.UDHËZIME PËR PËRDORIMPastroni lëkurën e fytyrës duke përdorur produktet Pharmaceris A dhe aplikoni kremin.Përdoreni çdo ditë në mëngjes dhe para gjumit.Është një bazë e shkëlqyer make-up.SIGURIA DHE EFIKASITETISiguria dhe toleranca e lartë e konfirmuar nga testet klinike dhe dermatologjike.PA AROMË E dëshmuar si efektive në testet klinike dhe dermatologjike për lëkurën alergjike dhe të ndjeshme.96% e bën lëkurën më të lëmuar86% nxit rigjenerimin75% e bën lëkurën më të fortë82% qetëson dhe lehtëson - Amar Pharma - Pharmaceris - Krem Fytyre
   Updated: 2025-11-01T07:01:58Z
@@ -3094,7 +3094,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-11-01T11:11:12Z
   Total Products: 10
 - [Produktet Më të Shitura | Best Sellers – Amar.al - Amar Pharma -](https://amar.al/collections/best-sellers): Zbuloni bestseller-ët e Amar.al – produktet më të preferuara nga klientët tanë për kujdesin e lëkurës, trupit dhe flokëve. Bli ato që të gjithë po i duan! ✅ Collection Description (për në faqe): Më të Mirët nga më të Mirët – Best Sellers në Amar.al Ky koleksion përmbledh produktet më të shitura dhe më të vlerësuara nga klientët tanë. Nga pastruesit dhe kremrat për fytyrën, deri tek SPF-të më të fuqishme dhe suplementët më të kërkuar – këtu do të gjeni zgjedhjet më të besuara për rezultate të garantuara. 🔸 Zgjedhjet më të dashura nga klientët tanë🔸 Produkte me vlerësime të larta dhe efektivitet të provuar🔸 Ideale për ata që nuk dinë nga t’ia nisin – provo bestsellerët tanë🔸 Sasi të kufizuara për disa artikuj – mos i humb! 🛍️ Bashkohu me mijëra klientë të kënaqur dhe porosit bestseller-ët tanë sot! - Amar Pharma
-  Updated: 2025-11-01T11:11:12Z
+  Updated: 2025-11-01T22:37:55Z
   Total Products: 421
 - [Lirene | Produkte Cilësore për Kujdesin e Lëkurës dhe Trupit – Amar.al - Amar Pharma -](https://amar.al/collections/lirene): Lirene është marka e njohur për produktet e saj efektive dhe të sigurta për kujdesin e përditshëm të lëkurës dhe trupit. Gama e gjerë përfshin kremra hidratues, pastrues të butë dhe trajtime rigjeneruese që mbrojnë lëkurën nga faktorët e jashtëm dhe i japin shkëlqim natyral. ✔ Formulime të avancuara me përbërës aktivë të sigurt✔ Produkte për të gjitha tipet e lëkurës dhe nevojat specifike✔ Mbrojtje, rigjenerim dhe hidratim për fytyrën dhe trupin✔ Të testuara dermatologjikisht dhe me çmime të arsyeshme ✨ Zgjidhni Lirene për një lëkurë të bukur dhe të shëndetshme çdo ditë – ekskluzivisht në Amar.al! - Amar Pharma
   Updated: 2025-10-31T18:33:08Z
@@ -3190,7 +3190,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-26T14:29:45Z
   Total Products: 105
 - [All Products | Amar.al – Zbulo të gjitha produktet e kujdesit personal dhe bukurisë - Amar Pharma -](https://amar.al/collections/all): Mirë se vini në seksionin “Të Gjitha Produktet” të Amar.al. Këtu do të gjeni një përzgjedhje të gjerë të produkteve më të mira për kujdesin e lëkurës, flokëve, trupit, higjienës personale dhe suplementëve ushqimorë. Ne bashkëpunojmë me marka të njohura si Pharmaceris, Lirene, Bioliq dhe shumë të tjera për të sjellë zgjidhje cilësore për nevojat e përditshme. Filtroni, zbuloni dhe zgjidhni produktin ideal për ju. - Amar Pharma
-  Updated: 2025-11-01T11:11:12Z
+  Updated: 2025-11-01T22:37:55Z
   Total Products: 528
 - [Power of Plants Aloe | Qetësim & Hidratim Natyral me Aloe Vera – Amar.al - Amar Pharma -](https://amar.al/collections/power-of-plants-aloe): POWER OF PLANTS ALOE – Qetësim Natyral dhe Hidratim i Thellë me Aloe Vera Koleksioni Power of Plants Aloe është i bazuar në përbërësin natyral aloe vera, të njohur për vetitë e tij qetësuese, hidratuese dhe rigjeneruese. Produktet janë ideale për lëkurë të ndjeshme, të dehidratuar, pas ekspozimit në diell ose të prirur ndaj irritimeve. ✔ Aloe vera e pasur me vitamina dhe minerale✔ Qetëson skuqjet dhe ndihmon në rikuperimin e shpejtë të lëkurës✔ Hidraton në thellësi dhe rivendos balancën natyrale✔ Formula të lehta, të testuara dermatologjikisht dhe pa irritues ✨ Zgjidh fuqinë e bimëve për lëkurë të freskët dhe të shëndetshme me POWER OF PLANTS ALOE – vetëm në Amar.al! - Amar Pharma
   Updated: 2025-10-31T18:27:48Z
@@ -3322,7 +3322,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Updated: 2025-10-31T16:21:34Z
   Total Products: 24
 - [APPPlaza - Best Sellers - Amar Pharma -](https://amar.al/collections/appplaza-best-sellers): - Amar Pharma
-  Updated: 2025-11-01T11:11:12Z
+  Updated: 2025-11-01T22:37:55Z
   Total Products: 421
 - [rutina - Amar Pharma -](https://amar.al/collections/rutina): - Amar Pharma
   Updated: 2025-10-26T14:29:49Z
