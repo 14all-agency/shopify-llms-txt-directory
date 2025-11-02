@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-11-02T00:00:26.484Z
+- Updated At: 2025-11-02T07:02:44.193Z
 
 ## Products
 
@@ -763,6 +763,12 @@
   Updated: 2025-07-26T21:32:51-04:00
 - [Contact Information](https://jones-jm.myshopify.com/policies/contact-information)
   Updated: 2025-07-26T21:32:43-04:00
+
+## Alternate Currencies & Languages
+
+- [International (en / NZD)](https://jones-jm.myshopify.com/llms.txt?market=international)
+- [Mexico (es / MXN)](https://jones-jm.myshopify.com/es-mx/llms.txt?market=mexico)
+- [New Zealand (en / NZD)](https://jones-jm.myshopify.com/llms.txt?market=nz)
 
 ## Optional
 
