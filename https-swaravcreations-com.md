@@ -6,13 +6,13 @@
 - Timezone: America/New_York
 - Created At: 2025-08-28T22:10:57Z
 - Contact Email: contact@swaravcreations.com
-- Updated At: 2025-10-31T04:00:47.460Z
+- Updated At: 2025-11-02T00:00:26.537Z
 
 ## Products
 
 - [Eternal Love Knot Necklace - Timeless Jewelry by Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-white-or-yellow-gold-finish): Shop the Eternal Love Knot Necklace from Swarav Creations. This exquisite piece symbolizes everlasting love, making it the perfect gift for someone special. Order yours today!
-  Updated: 2025-10-26T02:26:48Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:43Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4379_transformation_12044.png?v=1756583902
@@ -33,8 +33,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4380_transformation_12024.png?v=1756583910
     Price: $94.99 CAD
 - [Forever Love Necklace - Elegant Jewelry by Swarav Creations for You](https://swaravcreations.com/products/forever-love-necklace-white-or-yellow-gold-finish): Discover the stunning Forever Love Necklace by Swarav Creations. This elegant jewelry piece symbolizes endless love, making it the perfect gift for cherished moments.
-  Updated: 2025-10-26T02:26:48Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:45Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_782_transformation_10609.png?v=1756603541
@@ -53,8 +53,8 @@
     Availability: Available
     Price: $94.99 CAD
 - [Alluring Beauty Necklace | Elevate Elegance with Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-white-or-yellow-gold-finish): Discover the Alluring Beauty Necklace from Swarav Creations. Elevate your elegance with this stunning piece that adds charm and sophistication to any outfit. Perfect for every occasion!
-  Updated: 2025-10-26T02:26:48Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:16:57Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4365_transformation_12053.png?v=1756675485
@@ -75,8 +75,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4366_transformation_12037.png?v=1756675494
     Price: $79.99 CAD
 - [Dog Tag Necklace - Custom Engraved Gift | Swarav Creations](https://swaravcreations.com/products/swarav-creations-gold-marble-dog-tag-necklace-designed-with-custom-engraved-gift-for-him-or-her): Elevate your style with our Gold Marble Dog Tag Necklace. Custom engraved for him or her, this unique piece makes a perfect gift. Order now for a personalized touch!
-  Updated: 2025-10-26T02:26:48Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:43Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_134_transformation_356.png?v=1757221315
@@ -97,8 +97,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_149_transformation_14474.jpg?v=1757221322
     Price: $59.99 CAD
 - [Men's Cuban Link Chain Necklace - Luxury Gift for Him](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him): Elevate his style with our Men's Cuban Link Chain Necklace, crafted from 18K gold and stainless steel. Adjustable 18-22" length makes it the perfect luxury gift for him!
-  Updated: 2025-10-26T02:26:48Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:44Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4350_transformation_11570.png?v=1757223903
@@ -116,215 +116,215 @@
   - [18K Yellow Gold Finish / Luxury Box](https://swaravcreations.com/products/mens-cuban-link-chain-necklace-18k-gold-or-stainless-steel-adjustable-length-18-22-luxury-gift-for-him?variant=46992339468544)
     Availability: Available
     Price: $89.99 CAD
-- [Shipping Protection by Route](https://swaravcreations.com/products/routeins): Ensure your packages arrive safely with our Shipping Protection for Deliveries. Enjoy hassle-free deliveries and peace of mind. Protect your orders today with Route!
-  Updated: 2025-10-26T02:26:48Z
+- [Shipping Protection by Route - Secure Your Orders Effortlessly](https://swaravcreations.com/products/shipping-protection-by-route): Shipping Protection by Route - Ensure your packages arrive safely with our Shipping Protection for Deliveries. Enjoy hassle-free deliveries and peace of mind. Protect your orders today with Route!
+  Updated: 2025-11-01T20:11:51Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
-  - [0.98](https://swaravcreations.com/products/routeins?variant=47012051026176)
+  - [0.98](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051026176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $1.37 CAD
-  - [1.15](https://swaravcreations.com/products/routeins?variant=47012051058944)
+  - [1.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051058944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $1.60 CAD
-  - [1.35](https://swaravcreations.com/products/routeins?variant=47012051091712)
+  - [1.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051091712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $1.88 CAD
-  - [1.55](https://swaravcreations.com/products/routeins?variant=47012051124480)
+  - [1.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051124480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $2.16 CAD
-  - [1.75](https://swaravcreations.com/products/routeins?variant=47012051157248)
+  - [1.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051157248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $2.44 CAD
-  - [1.95](https://swaravcreations.com/products/routeins?variant=47012051190016)
+  - [1.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051190016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $2.72 CAD
-  - [2.15](https://swaravcreations.com/products/routeins?variant=47012051222784)
+  - [2.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051222784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $3.00 CAD
-  - [2.35](https://swaravcreations.com/products/routeins?variant=47012051255552)
+  - [2.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051255552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $3.28 CAD
-  - [2.55](https://swaravcreations.com/products/routeins?variant=47012051288320)
+  - [2.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051288320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $3.56 CAD
-  - [2.75](https://swaravcreations.com/products/routeins?variant=47012051321088)
+  - [2.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051321088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $3.84 CAD
-  - [2.95](https://swaravcreations.com/products/routeins?variant=47012051353856)
+  - [2.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051353856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $4.12 CAD
-  - [3.15](https://swaravcreations.com/products/routeins?variant=47012051386624)
+  - [3.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051386624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $4.39 CAD
-  - [3.35](https://swaravcreations.com/products/routeins?variant=47012051419392)
+  - [3.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051419392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $4.67 CAD
-  - [3.55](https://swaravcreations.com/products/routeins?variant=47012051452160)
+  - [3.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051452160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $4.95 CAD
-  - [3.75](https://swaravcreations.com/products/routeins?variant=47012051484928)
+  - [3.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051484928)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $5.23 CAD
-  - [3.95](https://swaravcreations.com/products/routeins?variant=47012051517696)
+  - [3.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051517696)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $5.51 CAD
-  - [4.15](https://swaravcreations.com/products/routeins?variant=47012051550464)
+  - [4.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051550464)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $5.79 CAD
-  - [4.35](https://swaravcreations.com/products/routeins?variant=47012051583232)
+  - [4.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051583232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $6.07 CAD
-  - [4.55](https://swaravcreations.com/products/routeins?variant=47012051616000)
+  - [4.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051616000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $6.35 CAD
-  - [4.75](https://swaravcreations.com/products/routeins?variant=47012051648768)
+  - [4.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051648768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $6.63 CAD
-  - [4.95](https://swaravcreations.com/products/routeins?variant=47012051681536)
+  - [4.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051681536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $6.91 CAD
-  - [5.15](https://swaravcreations.com/products/routeins?variant=47012051714304)
+  - [5.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051714304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $7.18 CAD
-  - [5.35](https://swaravcreations.com/products/routeins?variant=47012051747072)
+  - [5.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051747072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $7.46 CAD
-  - [5.55](https://swaravcreations.com/products/routeins?variant=47012051779840)
+  - [5.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051779840)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $7.74 CAD
-  - [5.75](https://swaravcreations.com/products/routeins?variant=47012051812608)
+  - [5.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051812608)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $8.02 CAD
-  - [5.95](https://swaravcreations.com/products/routeins?variant=47012051845376)
+  - [5.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051845376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $8.30 CAD
-  - [6.15](https://swaravcreations.com/products/routeins?variant=47012051878144)
+  - [6.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051878144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $8.58 CAD
-  - [6.35](https://swaravcreations.com/products/routeins?variant=47012051910912)
+  - [6.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051910912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $8.86 CAD
-  - [6.55](https://swaravcreations.com/products/routeins?variant=47012051943680)
+  - [6.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051943680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $9.14 CAD
-  - [6.75](https://swaravcreations.com/products/routeins?variant=47012051976448)
+  - [6.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012051976448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $9.42 CAD
-  - [6.95](https://swaravcreations.com/products/routeins?variant=47012052009216)
+  - [6.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052009216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $9.70 CAD
-  - [7.15](https://swaravcreations.com/products/routeins?variant=47012052041984)
+  - [7.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052041984)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $9.97 CAD
-  - [7.35](https://swaravcreations.com/products/routeins?variant=47012052074752)
+  - [7.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052074752)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $10.25 CAD
-  - [7.55](https://swaravcreations.com/products/routeins?variant=47012052107520)
+  - [7.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052107520)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $10.53 CAD
-  - [7.75](https://swaravcreations.com/products/routeins?variant=47012052140288)
+  - [7.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052140288)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $10.81 CAD
-  - [7.95](https://swaravcreations.com/products/routeins?variant=47012052173056)
+  - [7.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052173056)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $11.09 CAD
-  - [8.15](https://swaravcreations.com/products/routeins?variant=47012052205824)
+  - [8.15](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052205824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $11.37 CAD
-  - [8.35](https://swaravcreations.com/products/routeins?variant=47012052238592)
+  - [8.35](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052238592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $11.65 CAD
-  - [8.55](https://swaravcreations.com/products/routeins?variant=47012052271360)
+  - [8.55](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052271360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $11.93 CAD
-  - [8.75](https://swaravcreations.com/products/routeins?variant=47012052304128)
+  - [8.75](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052304128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $12.21 CAD
-  - [8.95](https://swaravcreations.com/products/routeins?variant=47012052336896)
+  - [8.95](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052336896)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $12.49 CAD
-  - [9.38](https://swaravcreations.com/products/routeins?variant=47012052369664)
+  - [9.38](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052369664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $13.09 CAD
-  - [10.03](https://swaravcreations.com/products/routeins?variant=47012052402432)
+  - [10.03](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052402432)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $13.99 CAD
-  - [10.68](https://swaravcreations.com/products/routeins?variant=47012052435200)
+  - [10.68](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052435200)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $14.90 CAD
-  - [11.33](https://swaravcreations.com/products/routeins?variant=47012052467968)
+  - [11.33](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052467968)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $15.81 CAD
-  - [11.98](https://swaravcreations.com/products/routeins?variant=47012052500736)
+  - [11.98](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052500736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $16.71 CAD
-  - [12.63](https://swaravcreations.com/products/routeins?variant=47012052533504)
+  - [12.63](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052533504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $17.62 CAD
-  - [13.28](https://swaravcreations.com/products/routeins?variant=47012052566272)
+  - [13.28](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052566272)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $18.53 CAD
-  - [13.93](https://swaravcreations.com/products/routeins?variant=47012052599040)
+  - [13.93](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052599040)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $19.43 CAD
-  - [14.58](https://swaravcreations.com/products/routeins?variant=47012052631808)
+  - [14.58](https://swaravcreations.com/products/shipping-protection-by-route?variant=47012052631808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/route-package-protection-logo-v3.png?v=1757873052
     Price: $20.34 CAD
 - [Interlocking Hearts Necklace - Timeless Gift of Eternal Love for Her](https://swaravcreations.com/products/interlocking-hearts-necklace-a-symbol-of-eternal-love): Discover the elegance of our Interlocking Hearts Necklace, the perfect timeless gift of eternal love. Ideal for any occasion, this necklace symbolizes unbreakable bonds. Shop now!
-  Updated: 2025-10-26T02:26:49Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T19:47:30Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4384_transformation_12046.png?v=1758394953
@@ -345,15 +345,15 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4385_transformation_12067.png?v=1758394963
     Price: $94.99 CAD
 - [Baby Feet Heart Necklace - Adorable Pendant to Cherish Every Step](https://swaravcreations.com/products/baby-feet-heart-necklace-shop-224701-2544): Meta Description: Discover our Baby Feet Heart Necklace, a charming pendant to cherish every step. Perfect for celebrating milestones, this necklace is a heartfelt gift for any occasion.
-  Updated: 2025-10-26T02:26:49Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T19:50:28Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_8717_transformation_26843.jpg?v=1759097159
   Price: $69.99 CAD
 - [Personalized Flower Name Necklace - Elegant Custom Jewelry for You](https://swaravcreations.com/products/personalized-flower-name-necklace-elegant-custom-jewelry-shop-224701-1973): Discover our Personalized Flower Name Necklace, the perfect blend of elegance and individuality. Wear your unique style with this stunning custom jewelry piece. Ideal gift!
-  Updated: 2025-10-26T02:26:49Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:43Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4934_transformation_16597.png?v=1759098458
@@ -546,8 +546,8 @@
     Availability: Available
     Price: $94.99 CAD
 - [Personalized Zodiac Sign Necklace - Perfect Gift for Every Star Sign](https://swaravcreations.com/products/personalized-zodiac-sign-necklace-astrological-jewelry-for-every-star-sign-shop-224701-4452): Unlock your celestial charm with our Personalized Zodiac Sign Necklace. Perfect for every star sign, this custom piece makes a unique gift or a stunning addition to your jewelry collection.
-  Updated: 2025-10-26T20:44:32Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:43Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_5975_transformation_18306.png?v=1759107368
@@ -740,8 +740,8 @@
     Availability: Available
     Price: $84.99 CAD
 - [Endless Love Necklace - Heart-Infinity Pendant in 14K White Gold](https://swaravcreations.com/products/endless-love-necklace-timeless-heart-infinity-pendant-in-14k-white-gold-or-18k-yellow-gold-finish-romantic-gift-for-her-by-swarav-creations-shop-224701-4923): Discover our Endless Love Necklace featuring a heart-infinity pendant in 14K white gold or 18K yellow gold finish. A perfect romantic gift for her by Swarav Creations.
-  Updated: 2025-10-26T20:38:52Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T19:55:14Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_776_transformation_4996.png?v=1759633341
@@ -762,8 +762,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_1595_transformation_8617.png?v=1759633357
     Price: $76.80 CAD
 - [Lucky in Love Necklace - CZ White Gold Pendant | Swarav Creations](https://swaravcreations.com/products/lucky-in-love-necklace-elegant-white-gold-pendant-with-dancing-cubic-zirconia-romantic-gift-for-her-by-swarav-creations-shop-224701-1724): Discover elegance with the Lucky in Love Necklace from Swarav Creations. This stunning white gold pendant adorned with dancing CZ will elevate your style and bring charm to any outfit.
-  Updated: 2025-10-26T20:38:52Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T19:57:59Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3642_transformation_9776.png?v=1759634479
@@ -776,8 +776,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3643_transformation_11113.png?v=1759634484
     Price: $99.99 CAD
 - [Eternal Love Knot Necklace - Preserved Rose Gift Box| Swarav Creations](https://swaravcreations.com/products/eternal-love-knot-necklace-with-preserved-rose-gift-box-swarav-creations-shop-224701-2963): Discover the exquisite Eternal Love Knot Necklace paired with a stunning preserved rose gift box from Swarav Creations. A timeless symbol of love, perfect for any occasion!
-  Updated: 2025-10-26T20:38:52Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:41Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9579_transformation_28213.jpg?v=1759689528
@@ -790,8 +790,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9580_transformation_28211.jpg?v=1759689538
     Price: $89.99 CAD
 - [Forever Love Necklace | Preserved Rose Gift Box | Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-preserved-rose-gift-box-swarav-creations-shop-224701-3113): Discover the Forever Love Necklace, beautifully presented in a preserved rose gift box. A perfect romantic gesture from Swarav Creations for any special occasion.
-  Updated: 2025-10-26T20:38:51Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:23:41Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9563_transformation_28127.jpg?v=1759690285
@@ -804,8 +804,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9564_transformation_28132.jpg?v=1759690293
     Price: $94.99 CAD
 - [Alluring Beauty Necklace|Cubic Zirconia Gold Pendant- Swarav Creations](https://swaravcreations.com/products/alluring-beauty-necklace-cubic-zirconia-gold-pendant-swarav-creations-shop-224701-3509): Elevate your style with the Alluring Beauty Necklace. This stunning gold pendant adorned with sparkling cubic zirconia is perfect for any occasion. Shop now at Swarav Creations!
-  Updated: 2025-10-26T20:47:52Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T14:04:31Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9555_transformation_28128.jpg?v=1759692665
@@ -818,8 +818,8 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_9559_transformation_28131.jpg?v=1759692674
     Price: $84.99 CAD
 - [Luxury Photo Necklace | Personalized Heart Pendant in Gold or Steel](https://swaravcreations.com/products/luxury-photo-necklace-personalized-heart-pendant-in-gold-or-steel-swarav-creations-shop-224701-6390): Elevate your style with our Luxury Photo Necklace. Personalize the heart pendant in gold or steel, making it a unique keepsake. Perfect for gifting or a special treat!
-  Updated: 2025-10-26T20:38:51Z
-  Vendor: ShineOn Fulfillment
+  Updated: 2025-11-01T20:00:57Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_explainer_1026_transformation_3108.png?v=1759693843
@@ -839,9 +839,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_explainer_1029_transformation_3015.png?v=1759693849
     Price: $79.99 CAD
-- [Love Knot Necklace & Earring Set – 14K White Gold | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set): Surprise your loved one with this exquisite Love Knot Earring & Necklace Set from Swarav Creations – a symbol of eternal connection and devotion.Each delicate piece is crafted in 14k white gold over stainless steel, featuring a dazzling 6mm cubic zirconia stone surrounded by smaller sparkling accents that catch the light beautifully. The Love Knot design represents an unbreakable bond between two souls — a timeless expression of affection, loyalty, and harmony. Whether it’s for Valentine’s Day, an anniversary, a birthday, or just because, this set makes a heartfelt and memorable gift. ✨ Product Details: Necklace: 14k white gold over stainless steel 6mm round-cut cubic zirconia center stone Adjustable 18"-22" cable chain Lobster clasp attachment Earrings: 14k white gold over stainless steel 6mm round-cut cubic zirconia stone Secure post backing Comes in a luxury gift box with a black velvet pouch Gift Ready: Each set is beautifully packaged in our signature Swarav Creations jewelry box, ready to make someone smile the moment they open it. - Swarav Creations
-  Updated: 2025-10-26T20:45:51Z
-  Vendor: ShineOn Fulfillment
+- [Love Knot Necklace & Earring Set – 14K White Gold | Swarav Creations](https://swaravcreations.com/products/love-knot-necklace-earring-set): Elevate your elegance with our Love Knot Necklace & Earring Set, crafted in 14K white gold. A timeless gift that embodies love and sophistication. Shop now at Swarav Creations!
+  Updated: 2025-11-01T20:22:16Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3745_transformation_10887.png?v=1761348549
@@ -853,9 +853,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_3746_transformation_10888.png?v=1761348555
     Price: $104.99 CAD
-- [Forever Love Necklace & Earring Set – 14K White Gold | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-earring-set): Give your loved one a gift that will make their heart swell! The Forever Love Necklace and Cubic Zirconia Earring Set by Swarav Creations radiates elegance and timeless charm — a stunning symbol of devotion and affection. This luxurious pairing of necklace and earrings can be worn together for a dazzling statement or separately for everyday sophistication. Crafted with 14k white gold finish and brilliant cubic zirconia stones, it offers a breathtaking sparkle that captures light — and hearts — from every angle. Whether for a birthday, anniversary, Valentine’s Day, or just to say I love you, this jewelry set makes every occasion unforgettable. ✨ Necklace Specifications: 14k white gold finish 6.5mm round-cut cubic zirconia crystal centerpiece Pendant dimensions: 0.8" (2.2cm) × 0.7" (1.8cm) Adjustable cable chain: 16" – 22" Lobster clasp attachment ✨ Earring Specifications: 14k white gold finish 6mm round-cut cubic zirconia crystals Post-style backing for secure fit 🎁 Packaging:Each piece arrives in a complimentary soft-touch box, perfect for easy gifting.Upgrade to the mahogany-style luxury box featuring a brilliant LED spotlight to make your presentation truly unforgettable. - Swarav Creations
-  Updated: 2025-10-26T23:33:46Z
-  Vendor: ShineOn Fulfillment
+- [Forever Love Necklace - 14K White Gold Earring Set | Swarav Creations](https://swaravcreations.com/products/forever-love-necklace-earring-set): Discover timeless elegance with our Forever Love Necklace & Earring Set in 14K White Gold. Perfect for any occasion, this set beautifully embodies love and sophistication.
+  Updated: 2025-11-01T20:02:38Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4524_transformation_13946.png?v=1761425358
@@ -867,9 +867,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4525_transformation_13947.png?v=1761425362
     Price: $90.00 CAD
-- [Eternal Hope Necklace & Earring Set – 14K White Gold | Swarav Creations - Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set): Surprise your loved one with a gift that shines as brightly as her heart! The Eternal Hope Necklace and Cubic Zirconia Earring Set by Swarav Creations is designed to captivate attention and express everlasting affection. This breathtaking duo — featuring an 8mm cushion-cut cubic zirconia centerpiece surrounded by radiant accents — brings unmatched brilliance and sophistication to every outfit. Whether worn together for a glamorous look or separately for a touch of everyday sparkle, this set radiates timeless beauty and grace. It’s the perfect gift for anniversaries, birthdays, Valentine’s Day, or special “just because” moments. 💍 Necklace Specifications 14k white gold finish 8mm cushion-cut cubic zirconia center crystal 1.2mm accent CZ stones for added sparkle Pendant size: 0.6" (14mm) × 0.5" (11.6mm) Adjustable box chain: 16"–18" (40.6–45.7cm) Lobster clasp closure 💎 Earring Specifications 14k white gold finish 6mm round-cut cubic zirconia stones Secure post-style backing Necklace Specifications 14k white gold finish 8mm center cushion-cut cubic zirconia crystal 1.2mm accent CZ crystals 0.6" (14mm) / 0.5" (11.6mm) Adjustable box chain: 16" - 18" (40.64- 45.72cm) Lobster clasp Earring Specifications 14k white gold finish 6mm round cut cubic zirconia crystals Post style backing 🎁 Packaging Options:Your jewelry is elegantly presented in a soft-touch box perfect for gifting.Upgrade to the mahogany-style luxury box featuring a built-in LED spotlight to make your gift presentation truly unforgettable. - Swarav Creations
-  Updated: 2025-10-28T17:14:02Z
-  Vendor: ShineOn Fulfillment
+- [Eternal Hope Necklace & Earring Set | Swarav Creations](https://swaravcreations.com/products/eternal-hope-necklace-earring-set): Discover elegance with the Eternal Hope Necklace & Earring Set in 14K White Gold by Swarav Creations. Elevate your style and embrace timeless beauty today!
+  Updated: 2025-11-01T20:04:25Z
+  Vendor: Swarav Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5484/1856/files/asset_4465_transformation_13566.png?v=1761449065
@@ -883,11 +883,11 @@
 
 ## Collections
 
-- [Home page](https://swaravcreations.com/collections/frontpage)
-  Updated: 2025-10-26T03:34:48Z
+- [Meaningful Jewelry Gifts Canada | Swarav Creations](https://swaravcreations.com/collections/meaningful-jewelry-gifts-canada): Explore meaningful jewelry gifts from Swarav Creations, handcrafted in 14K white gold and 18K yellow gold. Perfect for every occasion — elegant, gift-ready, and shipped fast across Canada. Discover !
+  Updated: 2025-11-01T20:31:52Z
   Total Products: 5
-- [New Arrivals | Swarav Creations](https://swaravcreations.com/collections/new-arrivals): Discover the newest jewelry in white or yellow gold finishes. Limited stock, fast shipping, 30-day returns.
-  Updated: 2025-10-26T03:30:56Z
+- [New Arrivals - Discover the Latest Styles and Trends Today!](https://swaravcreations.com/collections/new-arrivals): New Arrivals Collection  - Discover our exclusive New Arrivals Collection featuring the latest trends and must-have items. Elevate your style with fresh pieces designed for every occasion. Shop now!
+  Updated: 2025-11-01T20:46:08Z
   Total Products: 18
 - [Best Sellers](https://swaravcreations.com/collections/best-sellers): Shop Swarav Creations Best Sellers—top-rated necklaces in 14k white or 18k yellow gold finishes, brilliant CZ stones, gift-ready packaging, and fast, tracked shipping.
   Updated: 2025-10-26T02:26:48Z
@@ -919,19 +919,19 @@
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, gift for her, gifts, jewelry, love knot necklace, meaningful gifts for her, meaningful jewelry for her, mom jewelry gift, personalized gift, personalized gift ideas, romance, romantic gift for wife, romantic gift jewelry, romantic gifts, romantic jewelry gift, sentimental jewelry, special occasion, timeless necklace, unforgettable jewelry
   - [Exploring the Timeless Beauty of Romantic Jewelry Gift Ideas for Her](https://swaravcreations.com/blogs/news/exploring-the-timeless-beauty-of-romantic-jewelry-gift-ideas-for-her): Exploring the Timeless Beauty of Romantic Jewelry Gift Ideas for Her
-    Updated: 2025-10-20T02:41:37Z
+    Updated: 2025-11-01T14:40:12Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, elegant presents for women, gift for her, gift ideas, gifts, jewelry, love knot necklace, meaningful jewelry for her, mom jewelry gift, personalized gift, romance, romantic gift for wife, romantic gift jewelry, romantic jewelry, romantic jewelry gift, sentimental jewelry, timeless beauty, timeless necklace, unique jewelry gifts for her
   - [How to Choose the Perfect Love Knot Necklace as a Personalized Gift](https://swaravcreations.com/blogs/news/how-to-choose-the-perfect-love-knot-necklace-as-a-personalized-gift): How to Choose the Perfect Love Knot Necklace as a Personalized Gift
-    Updated: 2025-10-24T00:31:49Z
+    Updated: 2025-11-01T14:40:33Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, gift, gift for her, how to choose a necklace, love, love knot necklace, meaningful jewelry for her, mom jewelry gift, necklace, perfect love knot necklace, personalized gift, personalized jewelry, romantic accessories, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, timeless necklace, unique gifts
   - [Understanding Jewelry Trends in Mom Jewelry Gifts and Sentimental Pieces](https://swaravcreations.com/blogs/news/understanding-jewelry-trends-in-mom-jewelry-gifts-and-sentimental-pieces): Understanding Jewelry Trends in Mom Jewelry Gifts and Sentimental Pieces
-    Updated: 2025-10-27T01:12:48Z
+    Updated: 2025-11-01T14:40:54Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby feet necklace, gift for her, gifts, jewelry, love knot necklace, meaningful gifts, meaningful jewelry for her, mom jewelry, mom jewelry gift, personalized gift, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, sentimental pieces, thoughtful jewelry gifts, timeless necklace, trends, trendy mom jewelry
   - [The Significance of Baby Feet Necklace as a Meaningful Gift for New Mothers](https://swaravcreations.com/blogs/news/the-significance-of-baby-feet-necklace-as-a-meaningful-gift-for-new-mothers): The Significance of Baby Feet Necklace as a Meaningful Gift for New Mothers
-    Updated: 2025-10-31T00:32:31Z
+    Updated: 2025-11-01T14:41:15Z
     Author: Swarav Creations
     Tags: anniversary jewelry gift, baby, baby feet necklace, baby keepsake necklace, feet, gift for her, love knot necklace, meaningful gift, meaningful jewelry for her, mom jewelry gift, necklace, new mothers, personalized gift, personalized jewelry, romantic gift for wife, romantic gift jewelry, romantic jewelry gift, sentimental jewelry, timeless necklace, unique newborn gift
 
