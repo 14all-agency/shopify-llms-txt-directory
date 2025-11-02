@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-01T16:00:37.819Z
+- Updated At: 2025-11-02T00:00:30.778Z
 
 ## Products
 
@@ -3170,7 +3170,7 @@
     Availability: Available
     Price: RM 850.00 MYR
 - [Docasa WD012 P-trap 180mm S-Trap 200mm 250mm Bathroom Closed Couple Rimless Washdown WC Water Closet 2Piece Jamban Duduk](https://bath2u.com/products/docasa-wd012-p-trap-180mm-s-trap-200mm-250mm-bathroom-closed-couple-rimless-washdown-wc-water-closet-2piece-jamban-duduk): Specification : Dimension: 645W) x 370(L) x 765(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:12:13Z
+  Updated: 2025-11-01T16:12:17Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3185,7 +3185,7 @@
     Availability: Available
     Price: RM 299.00 MYR
 - [Docasa WD018 P-trap 180mm S-Trap 250mm 280mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah](https://bath2u.com/products/docasa-wd018-p-trap-180mm-s-trap-250mm-280mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah): Specification : Dimension: 720(W) x 390(L) x 765(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:11:51Z
+  Updated: 2025-11-01T16:11:55Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3203,7 +3203,7 @@
     Availability: Available
     Price: RM 285.00 MYR
 - [Docasa WD011 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah Jimat](https://bath2u.com/products/docasa-wd011-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat): Specification : Dimension: 670W) x 355(L) x 730(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:12:34Z
+  Updated: 2025-11-01T16:12:39Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3230,7 +3230,7 @@
     Availability: Available
     Price: RM 658.00 MYR
 - [Docasa WD088P-trap 180mm S-Trap 100mm till 250mm Bathroom Closed Couple Rimless WC Water Closet 2 Piece Jamban Duduk](https://bath2u.com/products/docasa-wd088p-trap-180mm-s-trap-100mm-till-250mm-bathroom-closed-couple-rimless-wc-water-closet-2-piece-jamban-duduk): Specification : Dimension: 645(W) x 365(L) x 790(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:12:56Z
+  Updated: 2025-11-01T16:13:00Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3281,7 +3281,7 @@
     Availability: Available
     Price: RM 588.00 MYR
 - [Docasa WD005 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Rimless Washdown WC Water Closet 2Piece Jamban Duduk Murah](https://bath2u.com/products/docasa-wd005-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-rimless-washdown-wc-water-closet-2piece-jamban-duduk-murah): Specification : Dimension: 680W) x 385(L) x 800(H) mm Material ceramic Rimless Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:13:49Z
+  Updated: 2025-11-01T16:13:54Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3308,7 +3308,7 @@
     Availability: Available
     Price: RM 499.00 MYR
 - [Docasa WD014 P-trap 180mm S-Trap 250mm Bathroom Closed Couple Washdown WC Water Closet 2 Piece Jamban Duduk Murah Jimat](https://bath2u.com/products/docasa-wd014-p-trap-180mm-s-trap-250mm-bathroom-closed-couple-washdown-wc-water-closet-2-piece-jamban-duduk-murah-jimat): Specification : Dimension: 700(W) x 380(L) x 790(H) mm Material ceramic Washdown Chrome plate dual flush button integrated into the cistern Toilet seat: Top fixing, soft close seat, and cover High gloss glaze white finish High-Quality Finish and Easy clean This product is certified by Span and CIDB Warranty: 1 Year Fitting / 5 Year ceramic ware
-  Updated: 2025-11-01T04:14:06Z
+  Updated: 2025-11-01T16:14:11Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
@@ -3360,7 +3360,7 @@
     Availability: Available
     Price: RM 1,999.00 MYR
 - [DOCASA A8000 Ceramic PTRAP STRAP 200MM 250MM 300MM Smart Toilet Bowl Set Auto Sensor Dual Flush Tankless Water Closet](https://bath2u.com/products/docasa-a8000-ceramic-ptrap-strap-200mm-250mm-300mm-smart-toilet-bowl-set-auto-sensor-dual-flush-tankless-water-closet): Specification : Dimension: L 500mm x W 420mm x H 680mm Material Ceramic Bowl size: L 500mm x W 420mm x H 680mm Smart Intelligent One Piece Water Closet Flush Type: Syphonic Jet Flushing System: Remote x2 /Knob x 2 /Sensor Kick x 1 Water Resistant: ipx4(Repels Splasing Water) Water Cistern: Built-in(4.5L) Power Supply: AC/Backup Battery Seat Cover: Dual Spray/Thermal/ Air Dryer Inlet: Flexi Hose 3/4 (600mm Length) Water Pressure: Min 1 Bar/Max 7.5 Bar(Strap)/Min 4.5 Bar/Max 7.5 Bar c/w Grease Connector, LED High-Definition Digital Screen, Atmosphere light Foam Bubble when Flushing For Better Flushing and Prevent Smell at Bathroom Warranty: 1 Year Fitting / 5 Year ceramic ware Function : Seat Cover: LED Display - Auto Flip Seat Heating: 4 Level(Off/34C/45C/55C) Air Drying: 4 Level(Off/34C/45C/55C) Foam: Liquid Replacement Bidet Function : Hip Clean/ Female Washing/ Temperature: Off/34C/37C/40C Move Washing(Massage Function)/ Nozzle Cleaning(Adjustable) UV Sterilisation/ Infrared Irradiation
-  Updated: 2025-11-01T05:52:36Z
+  Updated: 2025-11-01T17:38:08Z
   Vendor: Bath2u.com
   Product Type: Water Closet
   Availability: Available
