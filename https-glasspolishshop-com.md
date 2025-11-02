@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-11-01T16:01:08.196Z
+- Updated At: 2025-11-02T00:00:44.282Z
 
 ## Products
 
@@ -2773,7 +2773,7 @@
     Availability: Available
     Price: €89.95 EUR
 - [DIY Glass Scratch Removal Kit 50mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-50mm): Compact 50mm glass polishing kit to remove scratches, etching, and water stains. Use with drill for smooth, clear results. Includes abrasives, pads and compound
-  Updated: 2025-10-29T13:24:56Z
+  Updated: 2025-11-01T18:48:05Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2787,7 +2787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/VSP_20Rotary_20Polisher_20230_0.jpg?v=1758705738
   Price: €109.95 EUR
 - [Rotary Polishing Machine VSP860 - 230v - EU - 82102](https://glasspolishshop.com/products/rotary-polishing-machine-vsp860-230v-eu): Rotary Polishing Machine VSP860 - 230v - EU - 82102 - Rotary Polishers - • Enhance your polishing and sanding capabilities with this Rotary Polisher, a reliable and efficient tool for both professional and DIY applications.• Variable Speed Control: Achiev
-  Updated: 2025-10-22T09:57:48Z
+  Updated: 2025-11-01T18:48:05Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
