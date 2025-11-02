@@ -6,18 +6,18 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-01T16:00:37.563Z
+- Updated At: 2025-11-02T00:01:00.206Z
 
 ## Products
 
 - [Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Kompakter Holzofen mit modernem Design in vier Farben (beige, rot, silber, schwarz)
-  Updated: 2025-10-24T14:12:40Z
+  Updated: 2025-11-01T17:26:30Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_red.jpg?v=1750698347
   - [beige](https://www.pelios.de/products/holzofen-77-kw?variant=51247521890643)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_beige.webp?v=1750698347
     Price: 859,00 € EUR
   - [rot](https://www.pelios.de/products/holzofen-77-kw?variant=51247521923411)
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_red.webp?v=1750698346
     Price: 859,00 € EUR
   - [schwarz](https://www.pelios.de/products/holzofen-77-kw?variant=51247521956179)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_black.webp?v=1750698347
     Price: 859,00 € EUR
   - [silber](https://www.pelios.de/products/holzofen-77-kw?variant=51278446788947)
@@ -33,13 +33,13 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
     Price: 859,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-10-24T13:51:40Z
+  Updated: 2025-11-01T17:26:30Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_black.webp?v=1751053385
   - [Schwarz](https://www.pelios.de/products/holzofen-22-kw?variant=51247524217171)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_black.webp?v=1751053385
     Price: 1.994,60 € EUR
   - [Beige](https://www.pelios.de/products/holzofen-22-kw?variant=51278228914515)
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.994,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-10-30T18:40:48Z
+  Updated: 2025-11-01T17:26:25Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
