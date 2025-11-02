@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-11-01T16:00:43.943Z
+- Updated At: 2025-11-02T00:00:35.925Z
 
 ## Products
 
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Henne-Tazarine.jpg?v=1607715705
   Price: 5,10 € EUR
 - [Henné du Maroc](https://ma-boutique-henne.com/products/henne-du-maroc-100gr): Ce henné est 100% naturel, traditionnelle, coloration des cheveux et tatouages temporaires sur le corps. Henné du Maroc, marocain, tazarine, soin des cheveux, coloration cheveux blancs, soin capillaire, boutique, bio, vegan, beauté chevelure, brillance, soin, roux, rousse, cuivré, auburn, rouge, bordeaux, plante, poudre
-  Updated: 2025-10-31T17:07:36Z
+  Updated: 2025-11-01T19:41:01Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1032,7 +1032,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/amla-powder-1542962895-4488649.jpeg?v=1548774416
   Price: 6,50 € EUR
 - [Poudre de fleurs de Lavande](https://ma-boutique-henne.com/products/poudre-de-lavande): Poudre de lavande vraie, ortie piquante, Neem, henné, anti chutte, cheveux propriétés antiseptique et germicide naturel, insecticide et fongicide naturel, lutte contre les poux, assainit le cuir chevelu, affections, pellicules, démangeaisons, psoriasis, dermite, eczéma, hydratant, pour les peaux grasses et acnéiques.
-  Updated: 2025-07-19T10:49:36Z
+  Updated: 2025-11-01T19:41:01Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
@@ -1256,7 +1256,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1vN31N9zqK1RjSZPcq6zTepXaG.jpg?v=1562248279
     Price: 6,00 € EUR
 - [Elastique à cheveux "Fenrir" - tête de Loup Viking Celtique - Bronze, Cuivré ou Argent](https://ma-boutique-henne.com/products/elastique-a-cheveux-fenrir-tete-de-loup-viking-celtique-bronze-cuivre-ou-argent): élastique cheveux barrette pince loup oiseau chien corbeau viking celtique médiévale gothique sorcière argenté, argent doré bronze cuivré Accessoires, pince, barrette, chevelure, coiffure, chignon, tresse, nature, décoration, bijou, boutique, capillaire, strass, pince, pic à cheveux, henne, coloration
-  Updated: 2025-10-20T12:21:15Z
+  Updated: 2025-11-01T19:41:01Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1698,7 +1698,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/chesnut.png?v=1605611045
   Price: 19,50 € EUR
 - [Coloration Végétale NOISETTE - WALNUT, Cultivator's Colors from Nature](https://ma-boutique-henne.com/products/coloration-vegetale-noisette-walnut-cultivators-colors-from-nature): coloration végétale naturelle cultivator cultivators cultivator's deep walnut noisette cheveux chatain foncé marron, châtain, noir doux, brown, dark brown, Acajou, rouge, color me, bourgogne, hair colour, me, Henné, orcanette, henné violine, violet, couvre cheveux blancs, henna, katam, bio, biologique, chevelure
-  Updated: 2025-09-05T14:41:45Z
+  Updated: 2025-11-01T17:08:20Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1761,7 +1761,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-11-01T11:15:10Z
+  Updated: 2025-11-01T17:08:20Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2097,7 +2097,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/product-jpeg.jpg?v=1745790362
   Price: 6,50 € EUR
 - [Henné Rouge Ardent - MASRIA](https://ma-boutique-henne.com/products/henne-rouge-ardent-masria): Très fort pouvoir colorant le henné Rouge Ardent MASRIA permet d'obtenir une couleur vive et éclatante henné rouge cheveux acajou auburn coloration végétale
-  Updated: 2025-10-28T12:48:17Z
+  Updated: 2025-11-01T19:41:01Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
