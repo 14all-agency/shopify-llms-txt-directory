@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-11-01T16:00:43.975Z
+- Updated At: 2025-11-02T00:00:37.876Z
 
 ## Products
 
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_240W_2_bbdd1f3e-5378-45fe-8698-6c3f415ee0a2.png?v=1761731303
   Price: $1,999.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-11-01T08:59:41Z
+  Updated: 2025-11-01T23:33:58Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-4240w-solar-panel-solar-generator-kit-145424.webp?v=1761806031
   Price: $1,469.00 USD
 - [2000 Watt Portable Solar Generator Kit With 240W Panel | OUPES Mega 1](https://oupes.com/products/mega-1-240w-solar-panel-solar-generator-kit): Get the OUPES 2000 watt portable solar generator kit with a 240W panel! The OUPES Mega 1 series power station is your reliable solution for clean, portable energy.
-  Updated: 2025-10-31T09:53:34Z
+  Updated: 2025-11-01T18:25:56Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -556,7 +556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-1200-portable-power-station-1200w-992wh-169250.jpg?v=1761806032
     Price: $739.00 USD
 - [Best Portable Power Station 1500W 1488Wh | OUPES Exodus 1500](https://oupes.com/products/oupes-exodus-1500-portable-power-station-1500w-1488wh): Best 1500W portable power station with OUPES. 0-80% in 2 hrs with AC charging. Solar-ready for camping/home/outages. Premium after-sales service included.
-  Updated: 2025-11-01T10:42:36Z
+  Updated: 2025-11-01T21:09:40Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
