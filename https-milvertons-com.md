@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-11-01T16:00:40.027Z
+- Updated At: 2025-11-03T00:00:40.763Z
 
 ## Products
 
@@ -2182,7 +2182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-pencil-pants-for-women-533238.jpg?v=1715725535
     Price: $29.52 USD
 - [Boat Neck Lantern Sleeve Sweater Dress](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress): This Chic Boat Neck Lantern Sleeve Sweater Dress is perfect for any casual occasion.  Shop now at Milvertons and add a touch of sophistication to your wardrobe.
-  Updated: 2025-10-22T19:21:27Z
+  Updated: 2025-11-02T05:19:30Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-11-01T12:22:22Z
+  Updated: 2025-11-02T23:21:18Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -8994,7 +8994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/zenana-long-sleeve-flare-dress-with-pockets-5776997.webp?v=1751638573
     Price: $27.65 USD
 - [Fame Weathered Faux Leather And Studs Bucket Bag](https://milvertons.com/products/fame-weathered-faux-leather-and-studs-bucket-bag): This Fame Weathered Faux Leather And Studs Bucket Bag seamlessly transitions from day to night with its timeless black exterior and modern studded detailing
-  Updated: 2025-10-22T19:36:19Z
+  Updated: 2025-11-01T21:54:07Z
   Vendor: Milvertons
   Product Type: Women - Bags
   Availability: Available
@@ -11051,7 +11051,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-11-01T05:26:22Z
+  Updated: 2025-11-02T05:26:37Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -11084,7 +11084,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-11-01T05:25:55Z
+  Updated: 2025-11-02T05:25:49Z
   Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -11129,7 +11129,7 @@
   Updated: 2025-10-30T23:08:53Z
   Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-11-01T05:26:28Z
+  Updated: 2025-11-02T05:26:20Z
   Total Products: 37
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
