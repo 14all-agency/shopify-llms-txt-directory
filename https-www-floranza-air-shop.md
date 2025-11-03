@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-11-02T00:01:26.810Z
+- Updated At: 2025-11-03T00:00:53.961Z
 
 ## Products
 
@@ -13606,7 +13606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1a57569775884bc48619cab692b893121.webp?v=1759518622
     Price: 197,00 € EUR
 - [Customized robe de mariage Long Sleeve Wedding Dresses New Style Romantic Lace Appliques Bridal dress A-line Vestidos De Noiva](https://www.floranza-air.shop/products/customized-robe-de-mariage-long-sleeve-wedding-dresses-new-style-romantic-lace-appliques-bridal-dress-a-line-vestidos-de-noiva): SPECIFICATIONSActual Images: NoBack Design: Lace UpBrand Name: NUO XI FANGBuilt-in Bra: YesCN: AnhuiCraft of Weaving: TattingDecoration: Appliques,BeadingDresses Length: Floor-LengthFashion Element: VintageFor Pregnant Women: NoHign-concerned Chemical: NoneItem Type: Wedding DressesMaterial: POLYESTERModel Number: NXF900976Neckline: scoopOrigin: Mainland ChinaPlace Of Origin: ChinaSilhouette: A-LINESleeve Length(cm): FullSleeve Style: regularStyle: ClassicTrain: Sweep / Brush TrainWaistline: NaturalWedding Dress Fabric: Tulleis_customized: Yessize_info: {"sizeInfoList":[{"length":{"cm":"83.0","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84.0","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88.0","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90.0","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93.0","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97.0","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100.0","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104.0","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109.0","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114.0","inch":"44.88"},"size":"18 W","vid":200000946},{"length":{"cm":"119.0","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"124.0","inch":"48.82"},"size":"22W","vid":200000948}]} This product is customized item, which is not eligible for return without reason.Please kindly note this product is customized item, the return policy differs from that of regular products, it is not eligible for return without reason. Before making your purchase, we encourage you to contact with the seller for more details.Customizedsizes and colors and styles are also available. Please send us your detail size: Bust, Waist, Hips and Hollow to Floor.(See Product Description list) , we are always at your service.NOTE:If you want thecustom made, please choose any standard size when ordering, then write your measurements details in the message box when paying.Our bride dresses are made of professional designers that have ten years experience.Selection of high quality materials and fine detail processing.Please read the size chart image on the carefully before you order the dress from usAccessories: The dress doesn't include any accessory, such as wedding veil,gloves, shawl,crown,petticoats underskirt etc.How To MeasureReturnExpress: takes 5-12 days to arriveAirmail : takes 11-40 days to arrive.If you want to return, please contact us for returnRMA No.and address within7 daysafter you received the dress. Return shipping charges will be the buyer's responsibilityWe hope you are satisfied with our dress and service. If there's anything problem, please contact us first, we will do our best to help you.1. Wholesale welcome, more quality more discount.2. We supply drop shipping service.3. We supply OEM and custom made service, no minimum order quantity.All emails will be replyed within 24 hours. If you do not receive our reply, please kindly re-sent your email and we will reply you asap.
-  Updated: 2025-10-17T16:38:43Z
+  Updated: 2025-11-02T08:29:19Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -13716,7 +13716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H564afae4cc0a4212a59dfe4eeb527d11H.webp?v=1759518875
     Price: 189,00 € EUR
 - [Vestido De Noiva Renda Wedding Dress 2022 Robe Mariage Sexy Bohemian Long Sleeve Wedding Dresses Bride Dress Casamento](https://www.floranza-air.shop/products/vestido-de-noiva-renda-wedding-dress-2022-robe-mariage-sexy-bohemian-long-sleeve-wedding-dresses-bride-dress-casamento): SPECIFICATIONSActual Images: YesBack Design: ZipperBrand Name: WEIAIJIAYI TRADING CO LTDBuilt-in Bra: YesCN: JiangsuDecoration: Appliques,Button,Lace,PearlsDresses Length: Floor-LengthFashion Element: BacklessFor Pregnant Women: YesItem Type: Wedding DressesMaterial: LaceNeckline: O-NeckOrigin: Mainland ChinaSilhouette: A-LINESleeve Length(cm): FullSleeve Style: regularStyle: ClassicTrain: Court TrainWaistline: NaturalWedding Dress Fabric: Embroidered Lace on Netis_customized: Yes
-  Updated: 2025-10-17T16:38:43Z
+  Updated: 2025-11-02T08:28:03Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -27275,6 +27275,8 @@ Origine:Fujian,China
   Updated: 2025-09-22T18:13:48Z
 - [live](https://www.floranza-air.shop/pages/live): .page-title { display: none !important; }
   Updated: 2025-09-27T13:35:05Z
+- [Affiliate Portal](https://www.floranza-air.shop/pages/zak-affiliate): Embed Zakaffiliate html, body { margin: 0; padding: 0; width: 100%; height: 100%; } object { width: 100%; height: 100%; border: none; display: bloc...
+  Updated: 2025-11-02T11:17:04Z
 
 ## Policies
 
