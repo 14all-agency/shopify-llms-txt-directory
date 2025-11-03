@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-01T08:01:04.904Z
+- Updated At: 2025-11-03T00:01:14.696Z
 
 ## Products
 
@@ -1197,7 +1197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fuschia-leather-top-handle-bag.webp?v=1730324008
     Price: $42.95 USD
 - [Crossbody Bags: Small Yellow & Secure for Everyday](https://ursupermart.com/products/crossbody-bags-small-yellow-eco-leather-saddle): Crossbody bags offer hands-free security for your daily essentials. This stylish yellow eco-leather bag adds a chic pop of color; discover yours today!
-  Updated: 2025-10-23T17:13:01Z
+  Updated: 2025-11-02T13:35:46Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Crossbody bag
   Availability: Available
@@ -1982,7 +1982,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/single-beige-slipper-platform-sole-furry.webp?v=1731800244
     Price: $26.20 USD
 - [Stylish Blue Seamless Set - Perfect for Workouts](https://ursupermart.com/products/blue-seamless-workout-set): Elevate your style with our blue seamless set. Comfort, style, and performance in one perfect package. Ideal for workouts or casual wear!
-  Updated: 2025-10-23T17:14:34Z
+  Updated: 2025-11-01T21:36:45Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Leggings Set
   Availability: Available
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-31T15:38:17Z
+  Updated: 2025-11-02T16:04:45Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -16580,7 +16580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dress-white-smocked-fit-shoulder-tie.webp?v=1751655345
     Price: $34.95 USD
 - [Maxi Dresses for Women Floral Print Maxi Dress](https://ursupermart.com/products/maxi-dresses-for-women-long-flowy-evening-gowns-online): Shop our collection of comfortable maxi dresses with tie waist and short sleeves, perfect for warm weather and travel, featuring printed designs and a flowy fit.
-  Updated: 2025-10-23T17:49:24Z
+  Updated: 2025-11-02T21:40:02Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Printed Maxi Dress
   Availability: Available
@@ -18137,7 +18137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multiway-dress-light-blue-halter-style.webp?v=1752518992
     Price: $47.95 USD
 - [Magnetic Phone Mount - Secure & Easy Car Use](https://ursupermart.com/products/magnetic-phone-mount-car-dashboard-holder): Secure your phone with our top-rated magnetic car phone mount.  Enjoy hands-free navigation & easy installation – no more shaky drives!
-  Updated: 2025-10-23T17:53:01Z
+  Updated: 2025-11-01T17:25:35Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Foldable Magnetic Car Phone Mount
   Availability: Available
@@ -19846,7 +19846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smart-display-case-for-iphone-photo-sync.webp?v=1750557728
     Price: $43.95 USD
 - [Summer Dresses for Women Comfortable Styles](https://ursupermart.com/products/summer-dresses-for-women-casual-beach-party-outfits-1): Shop our collection of lightweight, breathable summer dresses, including smocked maxi dresses with spaghetti straps, perfect for beach vacations and hot weather.
-  Updated: 2025-10-23T17:57:12Z
+  Updated: 2025-11-02T23:11:51Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Maxi Dress
   Availability: Available
@@ -19892,7 +19892,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-ethnic-print-sleeveless.webp?v=1752532859
     Price: $41.95 USD
 - [Women's Dresses for Summer in Floral Prints](https://ursupermart.com/products/women-dresses-for-special-occasions-online-store-1): Shop women's dresses in tropical prints, maxi styles, and comfortable fits. Find the perfect V-neck cami dress or flowy summer dress with pockets.
-  Updated: 2025-10-29T15:08:41Z
+  Updated: 2025-11-02T22:39:10Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Women's Tropical Leaf Print Maxi Dress
   Availability: Available
@@ -21410,7 +21410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-polo-shirt-yellow.webp?v=1752855447
     Price: $29.95 USD
 - [Women's Dresses for Sale Online](https://ursupermart.com/products/printed-v-neck-short-sleeve-womens-dresses-on-sale-now): Discover unique printed dresses for women, perfect for summer. Affordable, comfortable, and stylish options for work, travel, or everyday wear.
-  Updated: 2025-10-30T06:22:16Z
+  Updated: 2025-11-01T20:53:40Z
   Vendor: S1B|@Updated - Trendsi
   Product Type: Printed V-Neck Short Sleeve Dress
   Availability: Available
@@ -21662,7 +21662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-10-31T06:25:48Z
+  Updated: 2025-11-02T07:25:30Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22646,7 +22646,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fleece-jogger-pink-women-soft-drawstring-pants.webp?v=1751594983
     Price: $38.95 USD
 - [Men's Trousers for Comfort and Style Everyday](https://ursupermart.com/products/mens-trousers-with-large-pockets-for-comfort-and-practicality): Comfortable men's trousers with large pockets and durable stitching, perfect for work, hiking, or everyday use.
-  Updated: 2025-10-23T18:03:54Z
+  Updated: 2025-11-02T04:25:30Z
   Vendor: S1B|@Updated - CJ
   Product Type: Men's Trousers
   Availability: Available
@@ -23737,7 +23737,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/877cd568-979e-4a16-a377-38c938ecb3d0.jpg?v=1756925020
   Price: $64.95 USD
 - [Tote bags large capacity secure and stylish for daily use](https://ursupermart.com/products/large-capacity-tote-bags-secure-stylish-daily-use): Tote bags for work, school, or travel offer large capacity, comfy straps, and a secure snap closure to keep all your daily essentials safe; find your perfect one now!
-  Updated: 2025-10-23T18:06:01Z
+  Updated: 2025-11-02T17:27:07Z
   Vendor: S1B|S1|CJ
   Product Type: Tote bag
   Availability: Available
@@ -26801,7 +26801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-door-lock-usage-types.webp?v=1760323117
   Price: $14.95 USD
 - [Entryway Shoe Rack 4-Tier - Organize Small Spaces](https://ursupermart.com/products/entryway-shoe-rack-4-tier-organize-small-spaces): Shoe Rack for small entryways keeps your shoes neatly organized with its four-tiered design and modern look; get yours today and clear the clutter!
-  Updated: 2025-10-30T14:50:30Z
+  Updated: 2025-11-02T03:38:05Z
   Vendor: S1B|S1|eprolo
   Product Type: Shoe Rack
   Availability: Available
@@ -26861,28 +26861,28 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/life-size-halloween-prop-skeleton-bride-size.webp?v=1760147230
     Price: $24.95 USD
 - [Maxi dresses: Elegant Printed V Neck Floral Paisley](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley): Maxi dresses with elegant V-neck and vibrant prints offer comfort and style for any occasion; feel confident and unique, discover your perfect look today!
-  Updated: 2025-10-30T14:51:17Z
+  Updated: 2025-11-02T03:25:51Z
   Vendor: S1B|S1|eprolo
   Product Type: Maxi dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
-  - [Black / S](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369159770)
+  - [Floral / S](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369159770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
     Price: $38.90 USD
-  - [Black / M](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369192538)
+  - [Floral / M](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369192538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
     Price: $38.90 USD
-  - [Black / L](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369225306)
+  - [Floral / L](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369225306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
     Price: $38.90 USD
-  - [Black / XL](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369258074)
+  - [Floral / XL](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369258074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
     Price: $38.90 USD
-  - [Black / XXL](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369290842)
+  - [Floral / XXL](https://ursupermart.com/products/maxi-dresses-elegant-printed-v-neck-floral-paisley?variant=42389369290842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/maxi-dress-black-floral-deep-v.webp?v=1761766789
     Price: $38.90 USD
@@ -26935,7 +26935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-orange-mini-tool.webp?v=1761596190
     Price: $9.99 USD
 - [Kids Watch Digital Waterproof for Active Play & Swim](https://ursupermart.com/products/kids-watch-digital-waterproof-for-active-swim): Kids watch: This durable, waterproof digital watch helps active kids manage time with alarms and a backlight; empower their independence and get yours today!
-  Updated: 2025-10-30T14:54:30Z
+  Updated: 2025-11-02T03:27:40Z
   Vendor: S1B|S1|eprolo
   Product Type: Digital wristwatch
   Availability: Available
@@ -27078,8 +27078,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/leather-wallet-case-gold-luxury-style.webp?v=1760145203
     Price: $17.95 USD
-- [Phone Grip Rotating Stand for Secure Hands-Free Viewing](https://ursupermart.com/products/phone-grip-rotating-stand-for-secure-hands-free): Get a secure phone grip with this rotating stand, perfect for hands-free viewing and displaying your crypto passion. Shop now for ultimate convenience!
-  Updated: 2025-10-17T06:09:33Z
+- [Nano EMF Protection Stickers: Safer Tech, Six-Pack](https://ursupermart.com/products/nano-emf-anti-radiation-sticker): Shop our nano EMF anti-radiation sticker 6-pack to reduce device exposure; easy to apply, adds negative ions, fits phones, laptops, and appliances.
+  Updated: 2025-11-02T15:33:55Z
   Vendor: @S1B|S1|eprolo
   Product Type: Anti-radiation sticker
   Availability: Available
@@ -28240,7 +28240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/anti-smudge-iphone-case-mint-green-flatlay.webp?v=1761083668
     Price: $16.95 USD
 - [Satchel Handbags for Women Large Secure and Stylish](https://ursupermart.com/products/large-secure-stylish-satchel-handbags-women): These large satchel handbags offer secure, organized storage for work or travel with a stylish design and comfy handles. Find your perfect bag today!
-  Updated: 2025-10-19T11:09:21Z
+  Updated: 2025-11-02T01:26:20Z
   Vendor: @Trendsi
   Product Type: Satchel Handbag
   Availability: Available
@@ -28270,7 +28270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/satchel-handbag-red-leather-on-table.webp?v=1760191592
     Price: $68.97 USD
 - [Women Handbags Stylish Crocodile Detachable Shoulder Bag](https://ursupermart.com/products/women-handbags-stylish-crocodile-detachable-shoulder-bag): Women handbags featuring a luxurious crocodile print and detachable shoulder strap provide secure storage and versatile style for any occasion. Shop today!
-  Updated: 2025-10-31T19:53:19Z
+  Updated: 2025-11-01T18:05:55Z
   Vendor: S1B|S1|Trendsi
   Product Type: crocodile embossed handbag
   Availability: Available
@@ -29132,11 +29132,27 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wrapping-paper-cutter-demonstration-cutting-rolls.webp?v=1760741449
   Price: $14.95 USD
 - [Oversized Hoodie for Women - Soft Fleece Tunic Comfort](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort): Oversized hoodie for women provides ultimate comfort and warmth with its soft fleece lining and generous fit; discover your perfect cozy style today!
-  Updated: 2025-10-30T14:54:13Z
+  Updated: 2025-11-02T19:33:02Z
   Vendor: S1B|S1|CJ
   Product Type: Women's oversized hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-style.webp?v=1761794876
+  - [Black / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666973274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Price: $37.95 USD
+  - [Black / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666940506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Price: $37.95 USD
+  - [Black / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666907738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Price: $37.95 USD
+  - [Black / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667006042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Price: $37.95 USD
   - [Black / 2XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666776666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
@@ -29153,21 +29169,21 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
     Price: $39.95 USD
-  - [Black / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666907738)
+  - [Blue / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667235418)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
     Price: $37.95 USD
-  - [Black / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666940506)
+  - [Blue / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667202650)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
     Price: $37.95 USD
-  - [Black / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478666973274)
+  - [Blue / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667169882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
     Price: $37.95 USD
-  - [Black / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667006042)
+  - [Blue / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667268186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-black-fit.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
     Price: $37.95 USD
   - [Blue / 2XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667038810)
     Availability: Available
@@ -29185,21 +29201,21 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
     Price: $39.95 USD
-  - [Blue / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667169882)
+  - [Grey / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667497562)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
     Price: $37.95 USD
-  - [Blue / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667202650)
+  - [Grey / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667464794)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
     Price: $37.95 USD
-  - [Blue / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667235418)
+  - [Grey / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667432026)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
     Price: $37.95 USD
-  - [Blue / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667268186)
+  - [Grey / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667530330)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-blue-front.webp?v=1761794876
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
     Price: $37.95 USD
   - [Grey / 2XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667300954)
     Availability: Available
@@ -29217,24 +29233,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
     Price: $39.95 USD
-  - [Grey / L](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667432026)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
-    Price: $37.95 USD
-  - [Grey / M](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667464794)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
-    Price: $37.95 USD
-  - [Grey / S](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667497562)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
-    Price: $37.95 USD
-  - [Grey / XL](https://ursupermart.com/products/oversized-hoodie-for-women-soft-fleece-tunic-comfort?variant=42478667530330)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-sleeve-hooded-sweatshirt-gray-pocket.webp?v=1761794876
-    Price: $37.95 USD
 - [Christmas stockings with snowman design for mantel](https://ursupermart.com/products/christmas-stockings-snowman-design-mantel): Christmas stockings with a cozy snowman design will instantly elevate your mantel decor, creating a warm, festive atmosphere. Shop now for holiday joy!
-  Updated: 2025-11-01T02:32:11Z
+  Updated: 2025-11-01T13:23:13Z
   Vendor: S1B|S1|@eprolo
   Product Type: Christmas stocking
   Availability: Available
@@ -29322,7 +29322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-banner-snowman-house-garland.webp?v=1761787089
     Price: $13.95 USD
 - [Christmas Earrings Cute Snowman Dangle for Holidays](https://ursupermart.com/products/christmas-earrings-cute-snowman-dangle-holiday): Christmas Earrings with cute snowman designs, perfect for adding festive cheer to your holiday outfits. Express your spirit & shop these charming earrings now!
-  Updated: 2025-10-31T23:03:23Z
+  Updated: 2025-11-01T11:50:25Z
   Vendor: S1B|S1|eprolo
   Product Type: Christmas earrings
   Availability: Available
@@ -29393,6 +29393,147 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/chair-covers-solid-red-santa-hat.webp?v=1761616749
     Price: $11.95 USD
+- [Straightening Brushes: Cordless Travel Hair Brush for Smooth Hair](https://ursupermart.com/products/straightening-brushes-cordless-travel-hair-brush-for-smooth): Straightening brushes provide cordless freedom for quick touch-ups and travel, ensuring smooth, damage-free hair on the go; shop now for effortless style!
+  Updated: 2025-11-02T02:30:29Z
+  Vendor: @S1B|S1|CJ
+  Product Type: Cordless straightening brush
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-straightener-model-smooth-silky-results.webp?v=1762038374
+  - [Black](https://ursupermart.com/products/straightening-brushes-cordless-travel-hair-brush-for-smooth?variant=42505699819610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-straightener-capsule-design-lid-off.webp?v=1762035296
+    Price: $21.95 USD
+  - [Pink](https://ursupermart.com/products/straightening-brushes-cordless-travel-hair-brush-for-smooth?variant=42505699852378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-hair-straightener-fantasy-pink.webp?v=1762035591
+    Price: $21.95 USD
+- [Santa Costumes for Adults - Complete Professional Set](https://ursupermart.com/products/santa-costumes-for-adults-complete-professional): Santa costumes for adults: this complete 7-piece set brings joy with vibrant red and faux fur trim, perfect for any event. Spread cheer, shop now!
+  Updated: 2025-11-02T22:56:22Z
+  Vendor: S1B|S1|CJ
+  Product Type: Santa costume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/santa-costume-adult-snowy-village.webp?v=1762123850
+  Price: $74.95 USD
+- [Shapewear Shorts High Waist Tummy Control Butt Lift](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift): Shapewear shorts provide comfortable tummy control and a natural butt lift, creating a smooth, confident silhouette for any occasion; get yours now!
+  Updated: 2025-11-02T22:12:06Z
+  Vendor: S1B|S1|CJ
+  Product Type: Shapewear Shorts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-skin-tone.webp?v=1762121178
+  - [Black / S](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470031450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / M](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469998682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / L](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469965914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470064218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469802074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469834842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469867610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / 5XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469900378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Black / 6XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506469933146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-back-view.webp?v=1762121177
+    Price: $34.95 USD
+  - [Skin Color / S](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470326362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / M](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470293594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / L](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470260826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470359130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / 2XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470096986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / 3XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470129754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / 4XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470162522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / 5XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470195290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+  - [Skin Color / 6XL](https://ursupermart.com/products/shapewear-shorts-high-waist-tummy-control-butt-lift?variant=42506470228058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-waist-shaping-shorts-full-body.webp?v=1762121178
+    Price: $34.95 USD
+- [Cigarette Machine Automatic Electric Roller Save Money](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save): This automatic cigarette machine lets you easily roll perfect cigarettes, saving time and money. Customize tightness and enjoy consistent results—get yours today!
+  Updated: 2025-11-02T19:27:48Z
+  Vendor: S1B|S1|CJ
+  Product Type: Automatic cigarette rolling machine
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-grey-outdoor.webp?v=1762111090
+  - [Cement Gray / 6.5mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506480877658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-black-forest-scene.webp?v=1762111090
+    Price: $56.95 USD
+  - [Cement Gray / 8mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506480910426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-black-forest-scene.webp?v=1762111090
+    Price: $56.95 USD
+  - [Emerald / 6.5mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506480943194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-angled-green-topshot.webp?v=1762111090
+    Price: $56.95 USD
+  - [Emerald / 8mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506480975962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-angled-green-topshot.webp?v=1762111090
+    Price: $56.95 USD
+  - [Maya Black set / 8mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506481008730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-full-accessory-set.webp?v=1762111090
+    Price: $56.95 USD
+  - [Maya Black / 6.5mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506481041498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-black-forest-scene.webp?v=1762111090
+    Price: $56.95 USD
+  - [Maya Black / 8mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506481074266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-black-forest-scene.webp?v=1762111090
+    Price: $56.95 USD
+  - [Sky Blue / 6.5mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506481107034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-blue-on-deck.webp?v=1762111090
+    Price: $56.95 USD
+  - [Sky Blue / 8mm / US](https://ursupermart.com/products/cigarette-machine-automatic-electric-roller-save?variant=42506481139802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cigarette-rolling-machine-blue-on-deck.webp?v=1762111090
+    Price: $56.95 USD
 
 ## Collections
 
@@ -29406,20 +29547,20 @@
   Updated: 2025-10-30T14:53:23Z
   Total Products: 59
 - [Women's Clothing, Dresses, Outfits & Trendy Workout Wear](https://ursupermart.com/collections/womens-clothing-dresses-trendy-workout-wear): Discover stylish women's clothing, trendy workout wear, and elegant dresses. Shop the latest outfits for every occasion and stay fashionable and active daily.
-  Updated: 2025-10-30T03:42:38Z
-  Total Products: 18
+  Updated: 2025-11-01T18:59:52Z
+  Total Products: 21
 - [Discover Trendy Men's Fashion | Budget-Friendly Style](https://ursupermart.com/collections/mens-fashion): Shop our affordable men's fashion collection for trendy clothing and accessories. Quality styles at budget-friendly prices. Free shipping available!
   Updated: 2025-10-16T01:29:09Z
   Total Products: 5
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 34
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 35
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-10-31T20:13:23Z
-  Total Products: 85
+  Updated: 2025-11-02T19:24:48Z
+  Total Products: 86
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-10-31T23:01:17Z
-  Total Products: 20
+  Updated: 2025-11-02T22:56:21Z
+  Total Products: 21
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
   Total Products: 95
@@ -29427,26 +29568,26 @@
   Updated: 2025-10-31T19:50:48Z
   Total Products: 35
 - [Best Black Friday Gadgets Under $15: Viral TikTok Tech](https://ursupermart.com/collections/black-friday-deals-under-15): Discover trending Black Friday gadgets under $15! Shop viral TikTok tech gifts, phone accessories & kitchen tools. Free shipping on all orders.
-  Updated: 2025-11-01T01:23:09Z
-  Total Products: 85
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 86
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-10-31T20:13:23Z
-  Total Products: 13
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 14
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
-  Updated: 2025-10-31T20:13:23Z
-  Total Products: 84
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 85
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 18
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 20
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 33
+  Updated: 2025-11-01T23:39:36Z
+  Total Products: 35
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-11-01T01:23:09Z
-  Total Products: 90
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 91
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
-  Updated: 2025-10-24T13:31:42Z
-  Total Products: 90
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 92
 - [Affordable Luxury Jewelry - Necklaces, Earrings, Bracelets](https://ursupermart.com/collections/affordable-luxury-jewelry-necklaces-bracelets-earrings): Discover luxury fashion jewelry at affordable prices! Shop necklaces, earrings, bracelets, charms & pendants. Free shipping on quality jewelry pieces!
   Updated: 2025-10-24T13:31:42Z
   Total Products: 57
@@ -29454,17 +29595,17 @@
   Updated: 2025-10-24T13:31:42Z
   Total Products: 19
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 62
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 65
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
-  Updated: 2025-10-24T23:16:29Z
-  Total Products: 41
+  Updated: 2025-11-01T23:11:36Z
+  Total Products: 42
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 56
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 57
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-10-30T02:18:04Z
-  Total Products: 35
+  Updated: 2025-11-01T18:59:52Z
+  Total Products: 38
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
   Updated: 2025-10-23T21:37:32Z
   Total Products: 54
@@ -29478,17 +29619,20 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-01T00:42:15Z
-  Total Products: 36
+  Updated: 2025-11-02T22:56:21Z
+  Total Products: 40
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-10-16T00:45:10Z
   Total Products: 31
 - [Wellness Collection – Skincare, Supplements & Self-Care](https://ursupermart.com/collections/wellness-tech-collection): Discover our Wellness collection with skincare, supplements, and self-care essentials to support a balanced lifestyle and healthy, glowing skin every day
-  Updated: 2025-10-19T21:11:39Z
-  Total Products: 16
+  Updated: 2025-11-02T03:33:52Z
+  Total Products: 17
 - [Shop Women's Shapewear | Comfortable Body Shapers $30-$100](https://ursupermart.com/collections/womens-shapewear-body-shapers-collection): Find comfortable women's shapewear for everyday wear. Tummy control bodysuits, seamless shorts & breathable body shapers. Free shipping on all orders.
-  Updated: 2025-10-30T02:18:04Z
-  Total Products: 8
+  Updated: 2025-11-02T22:11:59Z
+  Total Products: 10
+- [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
+  Updated: 2025-11-02T01:56:04Z
+  Total Products: 0
 
 ## Blogs
 
@@ -29733,6 +29877,10 @@
     Updated: 2025-10-17T00:19:40Z
     Author: Angel C
     Tags: affordable Hello Kitty bag, anime convention bag, bright yellow purse, bus pass holder bag, cheerful yellow purse, collectible Hello Kitty item, cute coin purse handbag, cute everyday bag, cute purse for students, daily carry bag, everyday Hello Kitty bag, faux leather purse, fun fashion statement bag, gift for Hello Kitty fan, gift for young women, handbag with coin purse, Hello Kitty coin purse bag, Hello Kitty collectible bag, Hello Kitty fashion accessory, Hello Kitty gift ideas, Hello Kitty lover gift, Hello Kitty purse for teens, kawaii bag style, kawaii fashion accessory, mood booster bag, small purse for quick trips, small structured handbag, small yellow handbag, small yellow purse, structured handbag, stylish Hello Kitty purse, top handle bag, trendy Hello Kitty accessory., trendy yellow bag, yellow bag for teenage girls, yellow bag with top handle, Yellow Hello Kitty bag, yellow top handle bag
+  - [Workout Leggings: Gym & Beyond | Find Your Perfect Pair](https://ursupermart.com/blogs/ursupermart-news-updates/find-perfect-workout-gym-leggings): Workout Leggings: Gym & Beyond | Find Your Perfect Pair
+    Updated: 2025-11-02T03:16:08Z
+    Author: Angel C
+    Tags: anti cellulite workout pants, best white leggings for gym, best workout leggings, breathable activewear leggings, breathable workout leggings, comfortable high waist leggings, comfortable travel leggings, comfortable yoga leggings, compression leggings, confidence boosting leggings, flattering gym leggings, flattering white leggings, functional leggings, high rise leggings, high waisted gym leggings, high waisted scrunch leggings, high waisted yoga pants, leggings for recovery, leggings for running, leggings for travel, moisture wicking gym leggings, moisture wicking leggings, no slip workout leggings, scrunch butt leggings, shaping leggings, soft yoga pants, squat proof white leggings, stylish activewear, textured anti cellulite leggings, textured workout leggings, white athletic leggings, white gym leggings, white honeycomb leggings, white honeycomb workout leggings, white leggings for women, white scrunch bum leggings, white textured leggings, white workout leggings, women's active leggings, workout leggings that stay up
   - [RC Excavator Guide: Find the Perfect Kids Excavator Toy!](https://ursupermart.com/blogs/ursupermart-news-updates/rc-excavator-guide-fun-ages): RC Excavator Guide: Find the Perfect Kids Excavator Toy!
     Updated: 2025-10-13T02:29:27Z
     Author: Angel C
@@ -29886,6 +30034,9 @@
     Updated: 2025-10-05T21:16:42Z
     Author: Angel Carbonell
     Tags: affordable prom, affordable prom dresses under 100 dollars, ball gowns, best affordable prom dress websites online, budget formal wear, budget friendly formal dresses for prom, budget prom, cheap gowns, cheap prom dresses that look expensive, cheap prom gowns, elegant prom gowns, evening wear, formal dress sale, formal dresses, modest prom, modest prom dresses with sleeves coverage, modest prom styles, party dresses, plus size, plus size prom, plus size prom dresses under 200, prom dress deals, prom dresses for teens on budget, prom dresses that won't break bank, prom dresses under 200, prom styles, sequin dresses, sequin prom dresses, TikTok prom dresses, trendy prom, viral dresses, viral prom trends, viral TikTok prom dress styles 2025, where to buy prom dresses online
+  - [Women's Winter Coats Going Viral: Shop Trending Styles 2025](https://ursupermart.com/blogs/fashion/womens-winter-coats-viral-trending-styles): Women's Winter Coats Going Viral: Shop Trending Styles 2025
+    Updated: 2025-11-02T03:09:40Z
+    Author: Angel Carbonell
 - [Tips, Trends & Deals | UrSuperMart Blog](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog): Explore shopping tips, product trends, gift ideas, and exclusive deals. Stay updated with fresh content from the UrSuperMart blog.
   - [Discover Ultimate Gadgets: Latest Phones, Reviews & Prices](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/ultimate-gadgets-guide-2025-top-tech): Discover Ultimate Gadgets: Latest Phones, Reviews & Prices
     Updated: 2025-08-07T23:04:47Z
