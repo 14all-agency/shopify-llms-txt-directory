@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-01T16:00:56.594Z
+- Updated At: 2025-11-03T00:01:09.089Z
 
 ## Products
 
@@ -30149,6 +30149,28 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/14e8297d-c8e4-44c3-90dd-d64332ae0661.jpg?v=1761768346
     Price: CHF 17.30 CHF
+- [Outdoor Lightweight Foldable Trolley](https://cilly.us/products/outdoor-lightweight-foldable-trolley): Product information: Color: Pink W02-C [inseparable cottage], gray W02-C [inseparable cottage], black W02-C [inseparable cottage], blue W02-C [inseparable cottage]] Material: Metal Applicable object: general Specifications: all styles can be po Packing list: Trolley x 1 pc Product Image:
+  Updated: 2025-11-02T10:07:09Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/411c0536-5d83-4c4c-ac71-ddd51501f8d1_trans.jpg?v=1762034826
+  - [Black / All Styles Are Foldable](https://cilly.us/products/outdoor-lightweight-foldable-trolley?variant=51822774780245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f7fe8714-16d3-41d2-b519-c954d1649ff8.jpg?v=1762034835
+    Price: CHF 145.50 CHF
+  - [Blue / All Styles Are Foldable](https://cilly.us/products/outdoor-lightweight-foldable-trolley?variant=51822774813013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47e86ab9-bfc5-46c9-8ada-eaa07a9eb485.jpg?v=1762034835
+    Price: CHF 145.50 CHF
+  - [Gray / All Styles Are Foldable](https://cilly.us/products/outdoor-lightweight-foldable-trolley?variant=51822774845781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/09b777ff-8cb8-430b-a2fe-0bfbed48c15c.jpg?v=1762034835
+    Price: CHF 145.50 CHF
+  - [Pink / All Styles Are Foldable](https://cilly.us/products/outdoor-lightweight-foldable-trolley?variant=51822774878549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fed384ef-a3e0-4c18-a7aa-c55aff1c2d45.jpg?v=1762034835
+    Price: CHF 145.50 CHF
 
 ## Collections
 
@@ -30156,11 +30178,11 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-10-29T20:07:37Z
-  Total Products: 372
+  Updated: 2025-11-01T22:09:03Z
+  Total Products: 373
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-10-29T20:08:18Z
-  Total Products: 421
+  Updated: 2025-11-01T22:09:03Z
+  Total Products: 422
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-29T18:43:53Z
   Total Products: 135
