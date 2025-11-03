@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-01T12:00:41.443Z
+- Updated At: 2025-11-03T00:00:59.181Z
 
 ## Products
 
@@ -6356,8 +6356,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/faux-leather-bomber-jacket-brown-front-67922f91e8329.jpg?v=1737829597
     Price: $102.00 USD
-- [All-Over Print Men's Bomber Jacket](https://baskandweave.com/products/mens-all-over-print-bomber-jacket): Add a little zing to your wardrobe with this vibrant All-Over Print Bomber Jacket. Wear it on a basic t-shirt, or layer it on top of a warm hoodie—it’ll look great either way. With a brushed fleece inside, and a relaxed unisex fit, this Bomber Jacket is just the stuff of the dreams, so be quick to grab yourself one! • 100% polyester • Fabric weight: 6.49 oz/yd² (220 g/m²), weight may vary by 5% • Brushed fleece fabric inside • Unisex fit • Overlock seams • Sturdy neck tape • Silver YKK zipper • 2 self-fabric pockets • Blank product components sourced from the US and China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
-  Updated: 2025-10-29T23:04:03Z
+- [Men's Bomber Jacket – All-Over Print Stylish Outerwear](https://baskandweave.com/products/mens-all-over-print-bomber-jacket): Shop the men's bomber jacket with all-over print design. This stylish bomber delivers comfort, bold patterns, and a perfect fit for modern streetwear fashion.
+  Updated: 2025-11-01T23:46:17Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -6390,8 +6390,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Bomber_Jacket.jpg?v=1740379033
     Price: $73.50 USD
-- [Men's Windbreaker](https://baskandweave.com/products/mens-windbreaker): Whether you’re hiking, camping, or just running errands, this casual, sporty windbreaker’s got you covered. It’s very lightweight, durable, and water-repellent. This unisex windbreaker has a zipped closure and elasticated cuffs for a snug fit and comfortable wear. It also has two zipped pockets to store your essentials while on the move. This classic windbreaker will keep you both fashionable and protected on all your adventures.• 100% polyamide• Fabric weight: 7.13 oz./yd.² (202 g/m²)• Regular fit• Hood with a drawstring, zipped closure, elastic cuffs and hem• 2 zipped pockets• This product’s fabric is OEKO-TEX Standard 100 certified and PETA-Approved VeganThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71 60 83 M 74 64 85 L 78 68 87 XL 81 73 92 2XL 84 79 94
-  Updated: 2025-10-29T23:04:03Z
+- [Men's Windbreaker Jacket – Lightweight & Water-Resistant](https://baskandweave.com/products/mens-windbreaker): Stay dry and stylish with our men's windbreaker jacket. Lightweight, water-resistant, and perfect for everyday wear or outdoor adventures.
+  Updated: 2025-11-02T00:51:10Z
   Vendor: Bask & Weave
   Product Type: Windbreaker
   Availability: Available
@@ -6456,8 +6456,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-6792312728b9b.jpg?v=1737634719
     Price: $42.00 USD
-- [Men's Sherpa Denim Jacket](https://baskandweave.com/products/mens-denim-sherpa-jacket): Be it the 90s or mid 2000s—a classic denim jacket never goes out of style, and now you don’t have to wait for the summer to roll around to wear one! This jacket is lined with wool-like sherpa fabric that’s comfortable to wear and will keep you warm and snug. The lining is made of 100% recycled materials, including plastic bottles. • Denim: 99% cotton, 1% spandex • Sherpa & sleeve lining: 100% recycled polyester • Fabric weight: 12 oz/yd² (406.9 g/m²) • Chest pockets with button flap closure • Two side pockets • Regular fit • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) SLEEVE LENGTH (cm) XS 45.7 64.8 61.6 S 49.5 66 62.2 M 54.6 67.3 62.9 L 59.7 68.6 63.5 XL 64.8 69.9 64.1 2XL 68.6 71.1 64.8 3XL 72.4 72.4 65.4
-  Updated: 2025-10-29T23:04:03Z
+- [Men's Sherpa Denim Jacket – Warm, Stylish & Comfortable](https://baskandweave.com/products/mens-denim-sherpa-jacket): Upgrade your wardrobe with our men's Sherpa denim jacket. This warm, stylish layer offers premium comfort and a timeless look for casual or cool-weather days.
+  Updated: 2025-11-02T00:51:52Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -6518,8 +6518,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $121.50 USD
-- [Men's Premium Hoodie](https://baskandweave.com/products/mens-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST WIDTH (cm) LENGTH (cm) S 50.8 68.6 M 53.3 71.1 L 58.4 73.7 XL 63.5 76.2 2XL 67.3 78.7 3XL 71.1 81.3
-  Updated: 2025-10-29T23:04:03Z
+- [Premium Men's Hoodie – Soft, Stylish & Everyday Comfort](https://baskandweave.com/products/mens-hoodie): Shop the premium men's hoodie for ultimate comfort and timeless style. Crafted with soft fabric, it's perfect for layering and everyday casual wear.
+  Updated: 2025-11-02T00:53:05Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -6724,8 +6724,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-hoodie-military-green-front-67923a1cd5991.jpg?v=1737830012
     Price: $54.50 USD
-- [Men's Eco Raglan Hoodie](https://baskandweave.com/products/mens-eco-raglan-hoodie): If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days.• Outside: 100% organic cotton• Charcoal melange is 60% cotton, 40% recycled polyester• Inside for all colors: 80% organic cotton, 20% recycled polyester• Brushed lining• Regular fit• Raglan sleeves• Ribbed cuffs and hem• Drawstrings with metal eyelets and stoppers• Jersey-lined hood• Blank product sourced from BangladeshThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) XS 65 49 S 68 52 M 69 55.1 L 70 58 XL 71.1 61 2XL 71.9 64 3XL 73 67
-  Updated: 2025-10-29T23:04:04Z
+- [Raglan Hoodie for Men – Eco-Friendly & Sustainable Comfort](https://baskandweave.com/products/mens-eco-raglan-hoodie): Discover the perfect blend of comfort and sustainability with our Raglan Hoodie for Men. Made from eco-friendly materials for a modern, relaxed fit.
+  Updated: 2025-11-02T00:53:57Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -6898,8 +6898,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-raglan-hoodie-white-front-3-67923b57621a7.jpg?v=1737830089
     Price: $67.00 USD
-- [Men's Oversized Hoodie](https://baskandweave.com/products/mens-oversized-hoodie): Make a stylish statement wherever you go with this trendy oversized hoodie. It’s perfect for layering with a relaxed fit and made from extra soft premium-quality fabric to ensure maximum comfort. • 80% cotton, 20% recycled polyester fleece • Relaxed unisex fit • Dropped shoulders • Lined pullover hood with no drawcord • Kangaroo pocket in front • Sleeve cuff ribbing • Blank product sourced from Vietnam Disclaimer: The brushed interior of this hoodie tends to shed. To reduce visible traces of lint on clothes, avoid wearing dark colors under light-colored clothes and vice versa. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 70.5 96.5-104.1 57.2 M 73 106.7-114.3 57.2 L 75.6 116.8-124.5 61.6 XL 78.1 127-134.6 61.6 2XL 80.7 137.2-144.8 64.8 3XL 83.2 147.3-157.5 68.6
-  Updated: 2025-10-29T23:04:04Z
+- [Men's Oversized Hoodie – Stylish, Comfy & Premium Fit](https://baskandweave.com/products/mens-oversized-hoodie): Upgrade your look with our men's oversized hoodie. Designed for ultimate comfort and everyday style, this premium hoodie is perfect for layering in any season.
+  Updated: 2025-11-02T00:54:40Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7000,8 +7000,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-oversized-hoodie-athletic-heather-front-67923bd1ba291.jpg?v=1737830151
     Price: $68.50 USD
-- [Men's Premium Eco Hoodie](https://baskandweave.com/products/mens-premium-eco-hoodie): Meet the premium eco hoodie made of organic and recycled materials. With its comfortable fit, front pouch pocket, and double-layered hood, the hoodie is a classic streetwear piece that can be styled with multiple different looks. • 85% organic cotton, 15% recycled polyester • Ribbing: 97% organic cotton, 3% elastane • Brushed fleece fabric inside • Comfortable unisex fit • Double-layered hood • Flat drawcords with metal eyelets for a premium feel • Kangaroo pocket • Inside/outside label patch for branding • Tear-away care label This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (cm) B (cm) C (cm) D (cm) XS 47 67 13.5 60 S 51 68 14 60.5 M 55 69 14.5 61 L 59 71.5 15 61.5 XL 64 74 16.5 62 2XL 70 77 17.5 62.5 3XL 76 80 19 63 4XL 82 83 20 63.5 5XL 88 86 22 64
-  Updated: 2025-10-29T23:04:04Z
+- [Men's Eco-Friendly Premium Hoodie – Sustainable Comfort](https://baskandweave.com/products/mens-premium-eco-hoodie): Shop the men's eco-friendly premium hoodie, made from sustainable materials for lasting comfort and style. A perfect blend of warmth, softness, and durability.
+  Updated: 2025-11-02T00:55:58Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7078,8 +7078,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/premium-eco-hoodie-white-front-67923c514d64c.jpg?v=1737830229
     Price: $83.00 USD
-- [Men's Heavy Blend Hoodie](https://baskandweave.com/products/mens-heavy-blend-hoodie): Everyone needs a cozy go-to hoodie to curl up in, so go for one that's soft, smooth, and stylish. It's the perfect choice for cooler evenings! • 50% pre-shrunk cotton, 50% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2025-10-29T23:04:04Z
+- [Men's Heavy Blend Hoodie – Warm & Durable Winter Sweatshirt](https://baskandweave.com/products/mens-heavy-blend-hoodie): Stay cozy with the Men's Heavy Blend Hoodie, a warm and durable hooded sweatshirt perfect for winter comfort and casual everyday wear.
+  Updated: 2025-11-02T00:56:57Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7284,8 +7284,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-heavy-blend-hoodie-royal-front-67923d2693b14.jpg?v=1737830322
     Price: $48.50 USD
-- [Men's Lightweight Zip Hoodie](https://baskandweave.com/products/mens-lightweight-zip-hoodie): For when you get chilly on a summer evening by the lake, or simply need something comfy to throw on, this lightweight unisex zip hoodie with a modern fit, hood, front zip, and a kangaroo pocket is the way to go. • 50% polyester, 25% airlume combed ring-spun cotton, 25% rayon • Fabric weight 5.6 oz/yd² (189.9 g/m²) • Unisex fit (men may want to order a size up for a looser fit) • Side-seamed construction • Hooded • Kangaroo pocket • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST TO FIT (cm) CHEST (cm) LENGTH (cm) XS 78.7-86.4 37.5 63.2 S 86.4-94 41.3 65.4 M 96.5-104.1 46.4 68.3 L 106.7-114.3 51.4 71.1 XL 116.8-124.5 56.5 74 2XL 127-134.6 61.6 76.8
-  Updated: 2025-10-29T23:04:04Z
+- [Men's Lightweight Zip Hoodie – Stylish & Comfortable Layer](https://baskandweave.com/products/mens-lightweight-zip-hoodie): Shop the Men's Lightweight Zip Hoodie, a stylish and breathable layer perfect for everyday wear, comfort, and effortless casual fashion.
+  Updated: 2025-11-02T22:40:51Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7362,8 +7362,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-lightweight-zip-hoodie-grey-triblend-front-679242e25293d.jpg?v=1737830386
     Price: $59.50 USD
-- [Men's Lightweight Pullover Hoodie](https://baskandweave.com/products/mens-lightweight-pullover-hoodie): A soft and comfy hoodie that fits all your hoodie needs. The fleece fabric makes it a great partner all year round, be it a summer evening on the beach, or a Christmas dinner in a mountain cabin.• 52% airlume combed ring-spun cotton, 48% poly fleece• Heather colors are 60% airlume combed ring-spun cotton, 40% poly fleece• Fabric weight: 6.5 oz/yd² (220.4 g/m²)• Regular fit• Side-seamed construction• Blank product sourced from Honduras, Nicaragua or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST TO FIT (cm) BODY LENGTH (cm) WIDTH (cm) S 86.4-94 68.6 48.9 M 96.5-104.1 71.1 54 L 106.7-114.3 73.7 59 XL 116.8-124.5 76.2 64.1 2XL 127-134.6 78.7 69.2
-  Updated: 2025-10-29T23:04:04Z
+- [Pullover Hoodie for Men – Lightweight & Comfortable Fit](https://baskandweave.com/products/mens-lightweight-pullover-hoodie): Shop the pullover hoodie for men, crafted for lightweight comfort and a relaxed fit. Perfect for layering and everyday casual wear.
+  Updated: 2025-11-02T22:41:26Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7448,8 +7448,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pullover-hoodie-white-front-6792435e47c12.jpg?v=1737830528
     Price: $59.00 USD
-- [Men's Pullover Hoodie](https://baskandweave.com/products/mens-pullover-hoodie): A soft and comfy hoodie that fits all your hoodie needs. The fleece fabric makes it a great partner all year round, be it a summer evening on the beach, or a Christmas dinner in a mountain cabin.• 52% airlume combed ring-spun cotton, 48% poly fleece• Heather colors are 60% airlume combed ring-spun cotton, 40% poly fleece• Fabric weight: 6.5 oz/yd² (220.4 g/m²)• Regular fit• Side-seamed construction• Blank product sourced from Honduras, Nicaragua or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST TO FIT (cm) BODY LENGTH (cm) WIDTH (cm) S 86.4-94 68.6 48.9 M 96.5-104.1 71.1 54 L 106.7-114.3 73.7 59 XL 116.8-124.5 76.2 64.1 2XL 127-134.6 78.7 69.2
-  Updated: 2025-10-29T23:04:04Z
+- [Men's Pullover Hoodie – Soft, Stylish & Comfortable Fit](https://baskandweave.com/products/mens-pullover-hoodie): Shop the men's pullover hoodie for comfort and style. This soft, durable hoodie keeps you warm and pairs perfectly with any casual outfit.
+  Updated: 2025-11-02T22:42:17Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7534,8 +7534,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pullover-hoodie-white-front-679243c802b34.jpg?v=1737830588
     Price: $59.00 USD
-- [All-Over Print Recycled Men's Hoodie](https://baskandweave.com/products/mens-all-over-print-recycled-hoodie): This comfy hoodie has a soft outside with a vibrant print and an even softer brushed fleece inside. The hoodie has a relaxed fit, and it’s perfect for wrapping yourself into on a chilly evening.• 95% recycled polyester, 5% spandex• Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²)• Soft cotton-feel fabric face• Brushed fleece fabric inside• Double-lined hood with design on both sides• Unisex style• Comes with drawstrings• Overlock seams• Blank product components in Mexico sourced from Poland and Mexico• Blank product components in the EU sourced from China and PolandDisclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-29T23:04:05Z
+- [All-Over Print Men's Hoodie – Recycled Sustainable Style](https://baskandweave.com/products/mens-all-over-print-recycled-hoodie): Shop the all-over print men's hoodie made from recycled materials. This eco-friendly hoodie blends bold design, comfort, and sustainability for everyday wear.
+  Updated: 2025-11-02T22:43:10Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7584,8 +7584,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-unisex-hoodie-white-front-6792443a8bf3c.jpg?v=1739764436
     Price: $80.50 USD
-- [Men's Essential Hoodie - Eco](https://baskandweave.com/products/mens-essential-eco-hoodie): Thanks to its organic materials, this essential hoodie is a great buy for eco-conscious fashion lovers. This comfortable regular fit hoodie has a double-layered hood, set-in sleeves, and a front pouch pocket.• 100% organic cotton• Fabric weight: 10.32 oz./yd.² (350 g/m²)• Regular fit• Set-in sleeves• Self-fabric double-layered hood• Front pouch pocket• 1×1 rib at sleeve hem and bottom hem• Single needle topstitch at neckline and along hood opening• Metal eyelets• Inside tape at the back of the neck• Self-fabric half-moon at the back of the neck• Download eco-friendly product certificates• Blank product sourced from BangladeshThe sizes correspond to a smaller size in the US market, so US customers should order a size up.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (cm) BODY LENGTH (cm) SLEEVE LENGTH (cm) S 51.6 68 64 M 54.1 71.9 65.5 L 56.9 74 67 XL 60 76 68.6 2XL 63 78 70
-  Updated: 2025-10-29T23:04:05Z
+- [Men's Essential Eco Hoodie – Sustainable Everyday Comfort](https://baskandweave.com/products/mens-essential-eco-hoodie): Discover the Men's Essential Eco Hoodie for everyday comfort and style. Made with sustainable materials, it’s perfect for a modern, eco-friendly wardrobe.
+  Updated: 2025-11-02T22:43:56Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7670,8 +7670,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-essential-eco-hoodie-white-front-67925378a5356.jpg?v=1737830716
     Price: $68.50 USD
-- [Men's Pigment-Dyed Hoodie](https://baskandweave.com/products/mens-pigment-dyed-hoodie): Expand your hoodie collection with this trendy, vintage-looking pigment-dyed hoodie. It has a washed-out look that’s been achieved by pigment-dyeing the garment. The coloring process ensures a unique shade for the hoodie, making each item a one-of-a-kind. Style the hoodie with biker shorts, joggers, or leggings for the ultimate streetwear look.• 100% cotton face • 80% cotton, 20% polyester blend• Yarn diameter: 30 singles• Fabric weight: 9 oz./yd² (305.15 g/m²)• Regular fit• Split stitch double needle sewing on all seams• Twill neck tape• 1 x 1 rib at cuffs and waistband• Jersey-lined hood with sewn eyelets• Pouch pocket• Matching drawstrings• Blank product sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 50.8 87.6 M 73.7 55.9 90.2 L 76.2 61 92.7 XL 78.7 66 95.3 2XL 81.3 68.6 97.8 3XL 55.9 71.1 100.3
-  Updated: 2025-10-29T23:04:05Z
+- [Men's Pigment-Dyed Hoodie – Vintage Comfort and Style](https://baskandweave.com/products/mens-pigment-dyed-hoodie): Shop the Men's Pigment-Dyed Hoodie for a vintage look and lasting comfort. This soft, durable hoodie adds effortless style to your casual, everyday wear.
+  Updated: 2025-11-02T22:44:39Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7820,8 +7820,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-hoodie-pigment-light-blue-front-67951d3dacb13.jpg?v=1737830774
     Price: $80.00 USD
-- [Men's Fleece Zip Up Hoodie](https://baskandweave.com/products/mens-fleece-zip-up-hoodie): With its soft, premium quality fleece fabric and jersey-lined hood, this zip-up hoodie will be a cozy addition to your outfit. Pair it with jeans, shorts, a skirt, or a dress to stay warm in style. • 80% cotton, 20% polyester blend fleece• Grey Heather is 75% cotton, 25% polyester• Charcoal Heather is 55% cotton, 45% polyester• 100% cotton face• Fabric weight: 8.5 oz./yd² (280 g/m²)• Yarn diameter: 20 singles• Jersey-lined hood• Split stitch double-needle sewing on all seams• Twill neck tape• 1 × 1 ribbing for cuffs and waistband• Metal eyelets• Metal kissing zipper• Blank product sourced from PakistanThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 50.8 87.6 M 73.7 55.9 90.2 L 76.2 61 92.7 XL 78.7 66 95.3 2XL 81.3 68.6 97.8
-  Updated: 2025-11-01T02:24:00Z
+- [Men's Fleece Zip Hoodie – Soft, Warm & Stylish Everyday Wear](https://baskandweave.com/products/mens-fleece-zip-up-hoodie): Stay cozy with our Men's Fleece Zip Hoodie, made for warmth and everyday comfort. Perfect for layering or casual wear—soft, durable, and stylish.
+  Updated: 2025-11-02T22:46:37Z
   Vendor: Bask & Weave
   Product Type: Zip Up Hoodie
   Availability: Available
@@ -7906,8 +7906,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-zip-up-hoodie-alpine-green-front-67951dce13570.jpg?v=1737830832
     Price: $64.50 USD
-- [Men's Midweight Hoodie](https://baskandweave.com/products/mens-midweight-hoodie): Looking for the perfect high-quality hoodie? This hoodie is a mix of comfort and function. Soft and cozy on the inside, sleek and stylish on the outside.• Unisex fit• 80% cotton, 20% polyester blend fleece• 100% cotton face• Fabric weight: 8.5 oz./yd² (280 g/m²)• Jersey-lined hood• Split stitch double-needle sewing on all seams• Twill neck tape• 1 × 1 ribbing for cuffs and waistband• Metal eyelets• Blank product sourced from PakistanThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 50.8 87.6 M 73.7 55.9 90.2 L 76.2 61 92.7 XL 78.7 66 95.3 2XL 81.3 68.6 97.8
-  Updated: 2025-10-29T23:04:05Z
+- [Men's Midweight Hoodie – Classic Fit, Soft & Durable Comfort](https://baskandweave.com/products/mens-midweight-hoodie): Upgrade your style with our Men's Midweight Hoodie. Soft, durable, and perfect for everyday wear. Ideal for layering and all-day comfort.
+  Updated: 2025-11-02T23:32:54Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -8092,8 +8092,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-midweight-hoodie-white-front-67951e2497e62.jpg?v=1737830866
     Price: $59.00 USD
-- [Men's Basic Zip Hoodie](https://baskandweave.com/products/mens-basic-zip-hoodie): This custom zip hoodie has a brushed fleece inside, a hood with matching color drawstrings, and 2 handy kangaroo pockets. The comfortable fit and light fabric make it a must-have athleisure item. • 50% ringspun cotton, 50% polyester• Fabric weight: 7.67 oz/yd² (260 g/m²)• Brushed fleece• Regular fit• Straight cut• Tubular construction• Ribbed bottom and cuffs• Hood with matching color drawstrings• 2 kangaroo pockets• Set-in sleeves• Full zip• Blank product sourced from PakistanDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) S 70 51 M 71 54 L 72 57 XL 73 60 2XL 74 63
-  Updated: 2025-10-29T23:04:05Z
+- [Men's Zip Hoodie – Basic Everyday Comfort & Classic Style](https://baskandweave.com/products/mens-basic-zip-hoodie): Discover our Men's Zip Hoodie for all-day comfort and classic style. Perfect for layering, lounging, or casual outings. Soft and durable fabric.
+  Updated: 2025-11-02T22:48:13Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -8138,8 +8138,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-zip-hoodie-french-navy-front-67951e77e8853.jpg?v=1737830902
     Price: $55.50 USD
-- [Men's Heavy Blend Zip Hoodie](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie): Designed with style and comfort in mind, this hoodie will quickly become your new favorite. It’s made from soft fleece inside and outside, with a sturdy metal zipper, convenient front pockets, and a hood with color-matched drawstrings.• 50% cotton, 50% polyester• Fabric weight: 8 oz/yd² (271 g/m²)• Yarn diameter: 20 singles• Soft fleece fabric inside and outside• Air-jet spun yarn for reduced piling• Regular fit• Metal zipper• Front pouch pockets• Unlined hood with color-matched drawcord• Double-needle stitching at shoulders, armholes, neck, waistband, and cuffs• Safety Green: Compliant with ANSI/ISEA 107• Blank products sourced from Honduras and El SalvadorThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 68.6 96.5-104.1 85 M 71.1 106.7-114.3 87.6 L 73.7 116.8-124.5 90.2 XL 76.2 127-134.6 92.7 2XL 78.7 137.2-144.8 95.3 3XL 81.3 147.3-155 97.8 4XL 83.8 157.5-165 100.3 5XL 86.4 167.6-175.3 102.9
-  Updated: 2025-10-29T23:04:05Z
+- [Heavy Blend Hoodie for Men – Warm, Durable Zip-Up Style](https://baskandweave.com/products/mens-heavy-blend-zip-hoodie): Stay warm in our Heavy Blend Hoodie for Men. This soft, durable zip-up hoodie offers everyday comfort and timeless style for any casual occasion.
+  Updated: 2025-11-02T22:48:48Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -8344,8 +8344,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-heavy-blend-zip-hoodie-white-front-67951eced43de.jpg?v=1737830948
     Price: $50.00 USD
-- [Men's All-Over Print Zip Hoodie](https://baskandweave.com/products/mens-all-over-print-zip-hoodie): Meet the zip hoodie—a must-have for everyday wear. Crafted from 95% recycled polyester, it combines sustainability with style. Soft both inside and out, this unisex hoodie offers a relaxed fit with drop shoulders. Plus, it’s designed to last, keeping you cozy and fashionable for years to come.• 95% recycled polyester, 5% spandex• Fabric weight 9.08 oz./yd.² (308 g/m²)• Soft, cotton-feel fabric outside and brushed fleece inside• Unisex relaxed fit with drop shoulders• Double-lined hood• Moon patch on the inside of the back• Tear-away care label • Self-fabric collar and cuffs• Premium drawstrings and zipper with metal details• The fabric of this product is certified by GRS (Global Recycled Standard) and OEKO-TEX Standard 100• Blank product components sourced from China and the USADisclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-29T23:04:06Z
+- [Men's All-Over Print Zip Hoodie – Stylish & Comfortable Wear](https://baskandweave.com/products/mens-all-over-print-zip-hoodie): Express your style with our Men's All-Over Print Zip Hoodie. Designed for comfort and bold looks, this hoodie adds a unique touch to your everyday outfits.
+  Updated: 2025-11-02T22:49:26Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -8394,8 +8394,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_All-Over_Print_Zip_Hoodie.jpg?v=1740365630
     Price: $95.00 USD
-- [Men's Premium Sweatshirt](https://baskandweave.com/products/mens-premium-sweatshirt): Rock a classic sweatshirt silhouette with ribbed crew neck, long sleeve cuffs, and a flat hem. Layer it up or wear it on its own for a contemporary streetwear look. With the soft fleece inside and comfortable fit, it’s sure to become your favorite everyday sweater right away! • 100% cotton face • 65% cotton, 35% polyester • Charcoal Heather is 55% cotton, 45% polyester • Fabric weight: 8.5 oz/y² (288.2 g/m²) • Tightly knit 3-end fleece • Side-seamed construction • Self-fabric patch on the back • Double-needle stitched rib collar, cuffs, and hem • Blank product sourced from Pakistan Disclaimer: This sweatshirt runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) CHEST WIDTH (cm) SLEEVE LENGTH (cm) S 68.6 50.8 59.7 M 71.1 53.3 61 L 73.7 58.4 61 XL 76.2 63.5 61 2XL 78.7 67.3 61 3XL 81.3 71.1 61
-  Updated: 2025-10-29T23:04:06Z
+- [Men's Premium Sweatshirt – High-Quality & Stylish Comfort](https://baskandweave.com/products/mens-premium-sweatshirt): Upgrade your wardrobe with our Men's Premium Sweatshirt. Crafted for durability and comfort, this stylish piece is perfect for any casual or smart look.
+  Updated: 2025-11-02T22:49:54Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8600,8 +8600,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-sweatshirt-carbon-grey-front-6795334bb2803.jpg?v=1737832872
     Price: $48.50 USD
-- [Men's Crew Neck Sweatshirt](https://baskandweave.com/products/mens-crew-neck-sweatshirt): A sturdy and warm sweatshirt bound to keep you warm in the colder months. A pre-shrunk, classic fit sweater that’s made with air-jet spun yarn for a soft feel. • 50% cotton, 50% polyester • Pre-shrunk • Classic fit • 1x1 athletic rib knit collar with spandex • Air-jet spun yarn with a soft feel • Double-needle stitched collar, shoulders, armholes, cuffs, and hem This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 68.6 50.8 M 71.1 55.9 L 73.7 61 XL 76.2 66 2XL 78.7 71.1 3XL 81.3 76.2 4XL 83.8 81.3 5XL 86.4 86.4
-  Updated: 2025-10-29T23:04:06Z
+- [Men's Crew Neck Sweatshirt – Classic, Stylish & Comfortable](https://baskandweave.com/products/mens-crew-neck-sweatshirt): Stay effortlessly stylish with our Men's Crew Neck Sweatshirt. Crafted for comfort and versatility, it’s the perfect choice for casual or everyday wear.
+  Updated: 2025-11-02T22:50:24Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8798,8 +8798,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-crew-neck-sweatshirt-dark-heather-front-6795343007d90.jpg?v=1737832974
     Price: $52.50 USD
-- [All-Over Print Recycled Men's Sweatshirt](https://baskandweave.com/products/all-over-print-recycled-mens-sweatshirt): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 95% recycled polyester, 5% spandex • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-29T23:04:06Z
+- [Eco-Friendly Men's Sweatshirts - Recycled All-Over Print](https://baskandweave.com/products/all-over-print-recycled-mens-sweatshirt): Explore eco-friendly men's sweatshirts crafted from recycled fabrics. This all-over print sweatshirt delivers comfort, durability, and sustainable style.
+  Updated: 2025-11-02T22:51:58Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8848,8 +8848,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-unisex-sweatshirt-white-front-679534fd16520.jpg?v=1739764185
     Price: $71.00 USD
-- [Men's Eco Sweatshirt](https://baskandweave.com/products/mens-eco-sweatshirt): Elevate your style with this eco sweatshirt. The shirt has a chic, crisp look and will go great with both casual and more dressed up outfits. Made of organic cotton, this sweatshirt is durable, comfy, and extra soft.• 100% organic ring-spun combed cotton• Fabric weight: 350 g/m² (10.3 oz./yd.²)• Regular fit• Set-in sleeves• 1×1 rib at neck collar, sleeve hem, and bottom hem• Double-needle topstitch at the neck collar, on the sleeves, and on the bottom hems• Inside herringbone back neck tape• Self-fabric half moon at back neck• Blank product sourced from BangladeshThe sizes correspond to a smaller size in the US market, so US customers should order a size up.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (cm) BODY LENGTH (cm) SLEEVE LENGTH (cm) S 50.5 68 64.5 M 53 72 66 L 56 74 67.5 XL 59 76 69 2XL 62 78 70.5
-  Updated: 2025-10-29T23:04:06Z
+- [Eco-Friendly Men's Sweatshirt - Sustainable Cotton Wear](https://baskandweave.com/products/mens-eco-sweatshirt): Discover the comfort of our eco-friendly men's sweatshirt made from organic cotton. Soft, stylish, and sustainable — perfect for everyday wear.
+  Updated: 2025-11-02T22:52:41Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8874,8 +8874,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Eco_Sweatshirt.jpg?v=1740365016
     Price: $60.50 USD
-- [Eco Sweatshirt (Men's)](https://baskandweave.com/products/eco-sweatshirt-mens): Elevate your style with this eco sweatshirt. The shirt has a chic, crisp look and will go great with both casual and more dressed up outfits. Made of organic cotton, this sweatshirt is durable, comfy, and extra soft.• 100% organic ring-spun combed cotton• Fabric weight: 350 g/m² (10.3 oz./yd.²)• Regular fit• Set-in sleeves• 1×1 rib at neck collar, sleeve hem, and bottom hem• Double-needle topstitch at the neck collar, on the sleeves, and on the bottom hems• Inside herringbone back neck tape• Self-fabric half moon at back neck• Blank product sourced from BangladeshThe sizes correspond to a smaller size in the US market, so US customers should order a size up.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (cm) BODY LENGTH (cm) SLEEVE LENGTH (cm) S 50.5 68 64.5 M 53 72 66 L 56 74 67.5 XL 59 76 69 2XL 62 78 70.5
-  Updated: 2025-10-29T23:04:06Z
+- [Men's Eco-Friendly Sweatshirt - Sustainable Cotton Comfort](https://baskandweave.com/products/eco-sweatshirt-mens): Stay stylish and sustainable with our men's eco-friendly sweatshirt. Made from soft organic cotton for all-day comfort and everyday casual wear.
+  Updated: 2025-11-02T22:53:27Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8940,8 +8940,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-white-front-67953601bed5e.jpg?v=1737833123
     Price: $60.50 USD
-- [Men's Organic Sweatshirt](https://baskandweave.com/products/mens-organic-sweatshirt): The organic sweatshirt is made of organic and recycled materials, and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style!• 80% organic cotton, 20% recycled polyester• 100% organic cotton exterior• Frenchy terry knit • Set-in sleeves• 2×2 rib at collar• Self-fabric neck tape• Blank product sourced from BangladeshDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide CHEST WIDTH (cm) BODY LENGTH (cm) S 51 68 M 54 70 L 57 72 XL 60 74 XXL 63 76
-  Updated: 2025-10-30T14:19:12Z
+- [Men's Organic Cotton Sweatshirt - Eco-Friendly Everyday Wear](https://baskandweave.com/products/mens-organic-sweatshirt): Upgrade your wardrobe with our men's organic cotton sweatshirt. Soft, eco-friendly, and perfect for a sustainable lifestyle with year-round comfort.
+  Updated: 2025-11-02T22:54:03Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -9106,8 +9106,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-white-front-67953864110d1.jpg?v=1737833201
     Price: $50.50 USD
-- [Men's Organic Raglan Sweatshirt](https://baskandweave.com/products/mens-organic-raglan-sweatshirt): To do list: feel comfy and look stylish at the same time. Mark both tasks as done with the unisex organic raglan sweatshirt. Its brushed fleece lining will make you feel like you’re being hugged by a cloud of softness . . . and the 100% cotton exterior will ensure a smooth feel on the outside. • 100% organic cotton exterior • Charcoal Melange’s exterior is 60% organic cotton, 40% recycled polyester • 80% organic cotton, 20% recycled polyester interior • 97% organic cotton, 3% elastane ribs • Fabric weight: 8.3 oz/yd² (280 g/m²) • Fabric weight for Charcoal Melange: 10.3 oz/yd² (348 g/m²) • Side-seamed • Raglan sleeves • Neck tape • Brushed fleece lining • 2 × 2 ribbed cuffs, collar, and hem • Blank product sourced from Pakistan Disclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) XS 67 48 S 70 51 M 71 54 L 72 57 XL 73 60 2XL 74 63 3XL 75 66
-  Updated: 2025-10-29T23:04:07Z
+- [Men's Organic Raglan Sweatshirt – Sustainable Comfort](https://baskandweave.com/products/mens-organic-raglan-sweatshirt): Men's Organic Raglan Sweatshirt made from sustainable fabrics for soft comfort and lasting style—ideal for casual, eco-friendly wardrobes.
+  Updated: 2025-11-02T23:09:43Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -9252,8 +9252,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-raglan-sweatshirt-burnt-orange-front-679539021c3cb.jpg?v=1737833332
     Price: $57.00 USD
-- [Men's Fleece Pullover](https://baskandweave.com/products/mens-fleece-pullover): Meet your new go-to pullover for colder weather. Its fleece inside will keep you warm and toasty on chilly days, while its soft texture will make you want to get snuggly. It has a relaxed fit and classic silhouette, so you can style it as streetwear or lounge around at home. - 65% cotton, 35% polyester- Carbon Grey color is 55% cotton, 45% polyester- Soft fleece fabric inside- Fabric weight: 5.3 oz/yd² (237 g/m²)- Relaxed fit- Side-seamed construction- Matching color zipper- Ribbed cuffs and waistbandThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide A (cm) B (cm) C (cm) S 68.6 50.8 83.8 M 71.1 55.9 86.4 L 73.7 61 89 XL 76.2 66 91.4 2XL 78.7 71.1 94 3XL 81.3 76.2 96.5
-  Updated: 2025-10-29T23:04:07Z
+- [Men's Fleece Pullover – Warm, Stylish & Comfortable Wear](https://baskandweave.com/products/mens-fleece-pullover): Stay cozy with our Men's Fleece Pullover—crafted for warmth, comfort, and timeless style. Perfect for casual outings or chilly days outdoors.
+  Updated: 2025-11-02T23:10:38Z
   Vendor: Bask & Weave
   Product Type: Fleece Pullover
   Availability: Available
@@ -9330,8 +9330,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-679539561029a.jpg?v=1737833391
     Price: $49.00 USD
-- [All-Over Print Men's Wide-Leg Joggers](https://baskandweave.com/products/all-over-print-mens-wide-leg-joggers): Rediscover ’90s fashion with these all-over print wide-leg joggers. Ideal for athleisure looks and casual outings, they offer a fit and handy side pockets.• 95% recycled polyester, 5% spandex• Wide-leg cut• Relaxed fit• Side pockets• Elastic waistband with a drawstring • Tear-away care labelDisclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:07Z
+- [Men's Wide-Leg Joggers – All-Over Print & Trendy Streetwear](https://baskandweave.com/products/all-over-print-mens-wide-leg-joggers): Step out in comfort with our men's wide-leg joggers featuring bold all-over prints. Designed for style, breathability, and perfect everyday wear.
+  Updated: 2025-11-02T23:11:32Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -9380,8 +9380,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Wide-Leg_Joggers.jpg?v=1740378664
     Price: $85.50 USD
-- [Men's Joggers](https://baskandweave.com/products/mens-joggers): Get ready for that 10K run or take it slow in your backyard—these joggers are sure to make you feel comfortable either way. • 60% cotton, 40% polyester pre-shrunk fleece • Fabric weight: 7.2 oz/yd² (244 g/m²) • Tapered fit • Lower rise on the front, longer rise on the backside • 1×1 rib cuffs with spandex for stretch and recovery • Elastic waistband with external drawcord • Contrast color drawcord and side pockets (all body colors include charcoal gray contrast detailing except black heather, which has black) • Pilling-resistant • Blank product sourced from El Salvador or HondurasSize guide WAIST WIDTH (cm) INSEAM LENGTH (cm) S 55.9 78.7 M 66 80 L 76.2 81.3 XL 86.4 82.6 2XL 96.5 83.8
-  Updated: 2025-10-29T23:04:07Z
+- [Men's Joggers – Stylish, Comfortable & Perfect for Workouts](https://baskandweave.com/products/mens-joggers): Shop men's joggers designed for comfort and performance. Perfect for workouts, lounging, or casual wear — stylish fit and premium quality guaranteed.
+  Updated: 2025-11-02T23:12:32Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -9466,8 +9466,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-joggers-athletic-heather-left-leg-67953e8405271.jpg?v=1737834125
     Price: $58.00 USD
-- [All-Over Print Recycled Men’s Joggers](https://baskandweave.com/products/all-over-print-recycled-men-s-joggers): Make your workouts more comfortable with these cotton-feel joggers. They're soft on the outside, and even softer on the inside, so use them for a jog, or simply for lounging on the couch to binge your favorite show. • 95% recycled polyester, 5% spandex • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Slim fit • Soft cotton-feel fabric face • Brushed fleece fabric inside • Cuffed legs • Practical pockets • Elastic waistband with a white drawstring • Blank components sourced from China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (cm) HIPS (cm) XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134
-  Updated: 2025-10-29T23:04:07Z
+- [Eco-Friendly Recycled Men’s Joggers – All-Over Print Style](https://baskandweave.com/products/all-over-print-recycled-men-s-joggers): Shop eco-friendly recycled men’s joggers with unique all-over prints. Comfortable, sustainable, and perfect for everyday wear with modern appeal.
+  Updated: 2025-11-02T23:13:37Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -9500,8 +9500,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-mens-joggers-white-front-67953f1fb5cc6.jpg?v=1740378084
     Price: $73.00 USD
-- [Men's Pigment-Dyed Sweatpants](https://baskandweave.com/products/mens-pigment-dyed-sweatpants): Get the effortless celebrity off-duty look with the pigment-dyed sweatpants. The garment dyeing process makes the sweatpants look washed out and ensures a unique shade for each pair. The sweatpants have two pockets on the front and one on the back, and adjustable drawstrings for a secure fit around the waist.• 80% ring-spun cotton and 20% polyester• 100% cotton face• Yarn diameter: 30 singles• Fabric weight: 9 oz./yd² (305.15 g/m²)• Relaxed fit• Sewn eyelets and fly detail• Elastic waistband • Flat, color-matching drawstrings• 1x1 rib at ankle cuffs• Jersey-lined slash pockets• Back pocket• Woven label• Blank product sourced from China Size guide WAIST (cm) INSEAM LENGTH (cm) S 71.1-78.7 75 M 78.7-83.8 76.2 L 83.8-89 76.2 XL 89-96.5 77.5 2XL 96.5-106.7 77.5
-  Updated: 2025-10-29T23:04:07Z
+- [Men's Pigment-Dyed Sweatpants – Stylish & Comfortable Fit](https://baskandweave.com/products/mens-pigment-dyed-sweatpants): Explore men's pigment-dyed sweatpants for a stylish, lived-in look. Soft, comfortable, and durable—perfect for casual days or relaxed workouts.
+  Updated: 2025-11-02T23:14:21Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -9626,8 +9626,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-sweatpants-pigment-light-blue-front-67953f955fbf8.jpg?v=1737845868
     Price: $72.00 USD
-- [All-Over Print Boxer Briefs](https://baskandweave.com/products/all-over-print-boxer-briefs): These boxer briefs are made from a Smooth, comfortable stretch material that ensures comfort throughout the day. The boxer briefs have no back seam, and they feature a lined front pouch for extra comfort and support. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Mid-rise - Lined front pouch for additional support - 4 cm wide elastic waistband covered with fabric - Crotch panel - Overlock and coverstitch - No back seam for extra comfort - Blank product components in the EU sourced from Lithuania - Blank product components in the US sourced from Mexico and ChinaSize guide WAIST (cm) HIPS (cm) XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134
-  Updated: 2025-10-29T23:04:08Z
+- [All-Over Print Boxer Briefs – Custom Men's Underwear](https://baskandweave.com/products/all-over-print-boxer-briefs): Shop all-over print boxer briefs for men. Enjoy comfort, stretch, and vibrant designs that fit perfectly and look great every day. Customize your style now.
+  Updated: 2025-11-02T23:15:07Z
   Vendor: Bask & Weave
   Product Type: Boxer Brief
   Availability: Available
@@ -9660,8 +9660,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-boxer-briefs-white-left-front-679541301494a.jpg?v=1740379171
     Price: $37.50 USD
-- [Men's Fleece Shorts](https://baskandweave.com/products/mens-fleece-shorts): The men’s fleece shorts are soft, comfy, and great for lounging indoors or going out. The shorts have 1 back pocket, 2 jersey-lined hand pockets, and an elastic waistband with a shoestring drawcord. • 80% ring-spun cotton, 20% Polyester • Grey Heather is 52% ring-spun cotton and 48% polyester • 100% cotton face yarn • 32 singles • Fabric weight: 8.5 oz/yd² (280 g/m²) • Relaxed fit • Sewn eyelets • Sewn fly detail • Elastic waistband with shoestring drawcord • Back pocket • Jersey-lined hand pockets • Tapered knee opening This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST WIDTH (cm) INSEAM (cm) LENGTH (cm) S 38.1-50.8 22.9 50.8 M 40.6-53.3 22.9 52 L 43.2-55.9 22.9 53.3 XL 45.7-58.4 22.9 54.6 2XL 49.8-61 22.9 55.9
-  Updated: 2025-10-29T23:04:08Z
+- [Men's Fleece Shorts – Comfortable & Stylish Summer Wear](https://baskandweave.com/products/mens-fleece-shorts): Stay cool and comfortable with men's fleece shorts. Perfect for workouts or casual wear, these stylish shorts offer softness, flexibility, and lasting comfort.
+  Updated: 2025-11-02T23:25:45Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -9726,8 +9726,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-fleece-shorts-white-left-front-679563debde7e.jpg?v=1737845922
     Price: $56.00 USD
-- [All-Over Print Recycled Men's Swim Trunks](https://baskandweave.com/products/all-over-print-recycled-mens-swim-trunks): These swim trunks have everything you need for a hot summer day—they’re quick-drying and breathable, have multiple pockets for your belongings, and feature a silky, anti-chafe inner liner. Get yours now! • Fabric composition: 91% recycled polyester, 9% spandex • Liner composition: 92% polyester, 8% spandex • Fabric weight (may vary by 5%): 5.13 oz/yd² (174 g/m²) • Four-way stretch water-repellent microfiber fabric • Anti-chafe mesh inner liner • Elastic waistband with drawcord • Mesh pockets • Small inside pocket for valuables • UPF 50+ This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:08Z
+- [Recycled Men's Swim Trunks – All-Over Print Eco Swimwear](https://baskandweave.com/products/all-over-print-recycled-mens-swim-trunks): Recycled men's swim trunks crafted from eco-friendly fabric. Enjoy durable, comfortable all-over print swimwear designed for sustainability and modern style.
+  Updated: 2025-11-02T23:27:28Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -9776,8 +9776,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Recycled_Men_s_Swim_Trunks.jpg?v=1740378247
     Price: $61.00 USD
-- [All-Over Print Men's Athletic Shorts](https://baskandweave.com/products/all-over-print-mens-athletic-shorts): Going for a run? Fancy a swim? Perhaps both? Well, here's just the product for you! These athletic short shorts are so comfy and made from such a versatile fabric that you won't feel out of place at any sports event. And, of course, they have pockets. Need we say more? Grab a pair now!• 91% recycled polyester, 9% spandex• Fabric weight: 5.13 oz. /yd. ² (174 g/m²)• Four-way stretch moisture-wicking microfiber fabric• Breathable and fast-drying material• UPF50+ protection• Elastic waistband with a flat white drawstring• Mesh side pockets• 2.5″ (6.35 cm) inseam• Blank product components in Mexico sourced from China and Mexico• Blank product components in the EU sourced from China and LithuaniaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WAIST (cm) HIPS (cm) XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134
-  Updated: 2025-10-29T23:04:08Z
+- [Men's Athletic Shorts – All-Over Print Performance Wear](https://baskandweave.com/products/all-over-print-mens-athletic-shorts): Men's athletic shorts built for comfort and performance. These all-over print workout shorts are lightweight, breathable, and perfect for active lifestyles.
+  Updated: 2025-11-02T23:28:05Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -9810,8 +9810,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Athletic_Shorts.jpg?v=1740379142
     Price: $41.00 USD
-- [All-Over Print Recycled Men's Mesh Shorts](https://baskandweave.com/products/all-over-print-recycled-mens-mesh-shorts): These shorts are the perfect choice for those who need flexibility in their attire. Whether you’re hitting the gym, running errands or enjoying an outdoor activity, they’ll be your trusty companion. Look good, feel good, and stay comfortable, all with the mesh shorts.• 100% recycled polyester fabric• Fabric weight: 4.7 oz/yd² (160 g/m²)• Two-way stretch fabric• Moisture-wicking material• Regular fit• UPF50+ protection• Elastic waistband• Fabric is OEKO-TEX 100 standard and Global Recycled Standard (GRS) certifiedThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WAIST (cm) HIPS (cm) 2XS 71.9 90 XS 76 94 S 80 98 M 84 102.1 L 92 110 XL 100 118.1 2XL 108 126 3XL 116 134.1 4XL 124 142 5XL 132 150.1 6XL 140 158
-  Updated: 2025-10-29T23:04:08Z
+- [Recycled Men's Mesh Shorts – All-Over Print Eco Activewear](https://baskandweave.com/products/all-over-print-recycled-mens-mesh-shorts): Recycled men's mesh shorts made for comfort and performance. Breathable, lightweight, and eco-friendly—ideal for workouts or casual wear in sustainable style.
+  Updated: 2025-11-02T23:33:35Z
   Vendor: Bask & Weave
   Product Type: Shorts
   Availability: Available
@@ -9860,8 +9860,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Recycled_Men_s_Mesh_Shorts.jpg?v=1740378397
     Price: $47.00 USD
-- [All-Over Print Men's Wide-Leg Pants](https://baskandweave.com/products/all-over-print-mens-wide-leg-pants): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:08Z
+- [Men's Wide-Leg Pants – All-Over Print Relaxed Fit Trousers](https://baskandweave.com/products/all-over-print-mens-wide-leg-pants): Discover men's wide-leg pants designed for comfort and style. These all-over print trousers feature breathable fabric, a relaxed fit, and a bold modern look.
+  Updated: 2025-11-02T23:35:16Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -9910,8 +9910,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Men_s_Wide-Leg_Pants.jpg?v=1740378596
     Price: $63.00 USD
-- [Men's All-Over Print Wide-Leg Pants](https://baskandweave.com/products/mens-all-over-print-wide-leg-pants): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better.- Fabric composition in the EU: 96% polyester, 4% spandex- Fabric composition in the US: 93% polyester, 7% spandex- Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²)- Fabric weight in the US: 7.08 oz./yd.² (240 g/m²)- Relaxed unisex fit- Practical side pockets- Elastic waistband with a white drawstring- Can be worn on the waist or on the hips- Premium knit mid-weight jersey fabricDisclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:08Z
+- [Men's Wide-Leg Print Pants – Stylish All-Over Print Trousers](https://baskandweave.com/products/mens-all-over-print-wide-leg-pants): Discover men's wide-leg print pants featuring all-over prints. Designed for comfort and modern appeal, perfect for everyday wear or bold street-style looks.
+  Updated: 2025-11-02T23:37:17Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -9960,8 +9960,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_All-Over_Print_Wide-Leg_Pants.jpg?v=1740365679
     Price: $65.00 USD
-- [Men's - All-Over Print Wide-Leg Pants](https://baskandweave.com/products/mens-all-over-print-wide-leg-pants-1): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Relaxed unisex fit - Practical side pockets - Elastic waistband with a white drawstring - Can be worn on the waist or on the hips - Premium knit mid-weight jersey fabric Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:09Z
+- [All-Over Print Men's Wide-Leg Pants | Trendy & Comfortable](https://baskandweave.com/products/mens-all-over-print-wide-leg-pants-1): Upgrade your style with our all-over print men's wide-leg pants. Made for comfort and fashion, perfect for casual wear or standout street looks.
+  Updated: 2025-11-02T23:38:11Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -10010,8 +10010,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-unisex-wide-leg-pants-white-front-67956ec212c53.jpg?v=1737846571
     Price: $63.00 USD
-- [Women's Staple T-Shirt](https://baskandweave.com/products/womens-staple-t-shirt): Everyone needs the perfect t-shirt to complement an everyday, laid-back look. The ideal top for so many occasions, this lightweight cotton tee will keep you comfy and looking smart. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Guatemala, Nicaragua, Mexico, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8 4XL 86.4 76.2 147.3-155 5XL 89 78.7 157.5-165
-  Updated: 2025-10-29T23:04:09Z
+- [Women's Staple T-Shirt - Soft, Comfortable Everyday Tee](https://baskandweave.com/products/womens-staple-t-shirt): Discover the perfect fit with our women's staple t-shirt. Soft, breathable, and ideal for everyday wear — your go-to essential for any outfit.
+  Updated: 2025-11-02T23:38:59Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10216,8 +10216,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-dark-grey-heather-front-679575a33e2c4.jpg?v=1737907749
     Price: $27.00 USD
-- [All-Over Print Women's Crew Neck T-Shirt](https://baskandweave.com/products/all-over-print-womens-crew-neck-t-shirt): Get to know your new favorite tee—it's super smooth, super comfortable, and made from a cotton-touch polyester jersey that won't fade after washing. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) XS 84 S 88 M 92 L 100 XL 108 2XL 116
-  Updated: 2025-10-29T23:04:09Z
+- [Crew Neck Women's Tee - All-Over Print Stylish T-Shirt](https://baskandweave.com/products/all-over-print-womens-crew-neck-t-shirt): Express your style with our Crew Neck Women's Tee. Featuring vibrant all-over prints and a flattering fit — perfect for a bold, comfortable everyday look.
+  Updated: 2025-11-02T23:39:51Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10246,8 +10246,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Crew_Neck_T-Shirt.jpg?v=1740975237
     Price: $40.00 USD
-- [Women's Relaxed T-Shirt](https://baskandweave.com/products/womens-relaxed-t-shirt): This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (cm) SHIRT LENGTH (cm) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (cm) S 47 64.1 6-8 36-38 10-12 19.7 M 50.8 66 10-12 40-42 14-16 21 L 55.9 68 14-16 44-46 18-20 22.2 XL 61 69.9 18-20 48-50 22-24 24.1 2XL 66 71.8 22-24 52-54 26-28 26 3XL 71.1 73.7 26-28 56-58 30-32 27.3
-  Updated: 2025-10-29T23:04:09Z
+- [Women's Relaxed T-Shirt | Comfortable Everyday Style](https://baskandweave.com/products/womens-relaxed-t-shirt): Stay cool and confident with our Women's Relaxed T-Shirt. Soft, breathable, and designed for comfort — your go-to tee for effortless everyday fashion.
+  Updated: 2025-11-02T23:40:23Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10452,8 +10452,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-t-shirt-heather-blue-lagoon-front-6795769b6f3fa.jpg?v=1737907898
     Price: $27.50 USD
-- [Women's Oversized Faded T-Shirt](https://baskandweave.com/products/womens-oversized-faded-t-shirt): Embrace the versatility of the Oversized faded t-shirt, designed for those who appreciate the art of layering and creating unique outfits that effortlessly fuse modern trends with a hint of nostalgia. Its loose fit allows you to play with textures and proportions, giving you the freedom to express your personality through your style. • 100% carded cotton • Fabric weight: 7.1 oz. /yd. ² (240 g/m²) • Garment-dyed, pre-shrunk fabric • Boxy, oversized fit • Dropped shoulders • Wide neck ribbing • Tear-away label • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 70.5 99 23 M 74 109.2 24 L 77.5 119.4 24 XL 81 129.5 26 2XL 84.5 139.7 27 3XL 86.5 149.9 28
-  Updated: 2025-10-29T23:04:09Z
+- [Oversized Women's Faded T-Shirt - Trendy Everyday Tee](https://baskandweave.com/products/womens-oversized-faded-t-shirt): Upgrade your casual style with our Oversized Women's Faded T-Shirt. Soft, breathable, and effortlessly trendy — perfect for relaxed everyday wear.
+  Updated: 2025-11-02T23:40:58Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10530,8 +10530,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-679576eaa3247.jpg?v=1737907954
     Price: $45.50 USD
-- [Women's Premium T-Shirt](https://baskandweave.com/products/womens-premium-t-shirt): Wrap yourself in comfort with this premium t shirt. It’s made of 100% combed cotton and has a soft, luxurious feel. The t-shirt’s regular fit and crew neck boast a timeless look. The fabric is pre-shrunk to maintain its size and shape wash after wash. Style it up or down to suit any occasion.• 100% combed cotton• Marles color is 85% cotton and 15% viscose• Fabric weight: 5.3 oz./yd.² (150.25 g/m²)• Yarn diameter: 28 singles• Pre-shrunk• Regular fit• Crew neck• Side-seamed construction• Double-needle topstitch on the sleeves and hem• Ribbed collar• Shoulder-to-shoulder taping• Blank product sourced from BangladeshThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 28 18 ½ M 29 ½ 20 ½ L 31 22 ¼ XL 31 ¼ 24 2XL 33 25 ¼ 3XL 33 ½ 26 ¾ LENGTH (cm) WIDTH (cm) S 71.1 47 M 75 52 L 78.7 56.5 XL 79.4 61 2XL 83.8 64.1 3XL 85 68
-  Updated: 2025-10-29T23:04:10Z
+- [Premium Women's T-Shirt - Soft, High-Quality Everyday Tee](https://baskandweave.com/products/womens-premium-t-shirt): Discover the comfort of our Premium Women's T-Shirt. Crafted from soft, high-quality fabric for a flattering fit and lasting wear — perfect for any occasion.
+  Updated: 2025-11-02T23:41:35Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10656,8 +10656,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-6795774311395.jpg?v=1737908014
     Price: $37.00 USD
-- [Women's Staple T-Shirt (made in the USA)](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa): Experience the best of American-made quality and style with this unisex t-shirt. Get yours today and show your patriotism in style! • Solid colors are 100% Airlume combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-31T14:23:53Z
+- [Women's Staple T-Shirt Made in USA - Soft Everyday Tee](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa): Shop our Women's Staple T-Shirt made in the USA. Crafted from soft, durable cotton for everyday comfort — the perfect essential tee for every wardrobe.
+  Updated: 2025-11-02T23:42:47Z
   Vendor: Bask & Weave
   Product Type: 
   Availability: Available
@@ -10806,8 +10806,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $35.50 USD
-- [Women's Staple Eco T-Shirt](https://baskandweave.com/products/womens-staple-eco-t-shirt): Get an eco version of a beloved classic in this t-shirt made from 100% recycled materials. Its lightweight fabric and time-tested fit make this tee a true staple for warmer days.• 65% recycled polyester, 35% recycled Airlume combed and ring-spun cotton• Fabric weight: 4.2 oz./yd.² (142 g/m²)• 32 singles• Unisex sizing, regular fit• Side-seamed constructionThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8
-  Updated: 2025-10-29T23:04:10Z
+- [Eco-Friendly Women's Staple T-Shirt - Sustainable Style](https://baskandweave.com/products/womens-staple-eco-t-shirt): Discover the Eco-Friendly Women's Staple T-Shirt made from organic cotton. Soft, sustainable, and perfect for everyday wear with a touch of conscious fashion.
+  Updated: 2025-11-02T23:44:37Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -10896,8 +10896,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-eco-t-shirt-white-front-6795780cc09ac.jpg?v=1737908113
     Price: $31.50 USD
-- [Women's Relaxed V-Neck T-Shirt](https://baskandweave.com/products/womens-relaxed-v-neck-t-shirt): Embrace ultimate comfort with this women’s V-neck t-shirt. Its soft fabric and relaxed fit make it ideal for a polished everyday look, with the V-neck adding a touch of style. • Heather colors are 52% airlume combed and ring-spun cotton and 48% polyester • Fabric weight: 4.2 oz./yd.² (142.4 g/m²) • Yarn diameter: 32 singles • Soft fabric • Relaxed fit • V-neck • Side-seamed construction • Blank product sourced from Nicaragua This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) CHEST (cm) S 63.5 86.4-94 M 64.1 96.5-104.1 L 67.3 106.7-114.3 XL 69.9 116.8-124.5 2XL 71.1 127-134.6
-  Updated: 2025-10-29T23:04:10Z
+- [Women's V-Neck T-Shirt – Relaxed Fit Casual T-Shirt](https://baskandweave.com/products/womens-relaxed-v-neck-t-shirt): Shop the Women's V-Neck T-Shirt for all-day comfort and effortless style. This relaxed fit casual tee is perfect for layering or everyday wear.
+  Updated: 2025-11-02T23:46:22Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11022,8 +11022,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-2-6795785380f49.jpg?v=1737908197
     Price: $33.00 USD
-- [Women's Fashion Fit T-Shirt](https://baskandweave.com/products/womens-fashion-fit-t-shirt): Your typical 100% cotton t shirt (except for Heather Grey, Dark Heather Grey, Heather Green, and Heather Blue colors that contain polyester). Pre-shrunk to make sure your size is maintained throughout several washes, and a classic fit.• 100% combed ringspun cotton • Heather Grey is 90% combed ringspun cotton and 10% polyester• Dark Heather Grey, Heather Green, and Heather Blue are 35% combed ringspun cotton and 65% polyester• Fabric weight: 4.3 oz/yd² (145.8 g/m²)• 30 singles• Classic semi-contoured silhouette with side seam• Tear-away label• Shoulder-to-shoulder taping• Seamed collarette• Double-needle stitched sleeves and bottom hem• Blank product sourced from Honduras, Haiti, or NicaraguaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WIDTH (cm) LENGTH (cm) S 43.8 64.8 M 48.9 66 L 54 68.6 XL 59 71.1 2XL 64.1 72.4
-  Updated: 2025-10-29T23:04:10Z
+- [Women's Fit T-Shirt – Stylish & Fashionable Everyday Tee](https://baskandweave.com/products/womens-fashion-fit-t-shirt): Upgrade your look with this Women's Fit T-Shirt. Designed for a flattering silhouette and everyday comfort, this fashionable tee complements any outfit.
+  Updated: 2025-11-02T23:47:00Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11208,8 +11208,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-fashion-fit-t-shirt-white-front-679578f87feec.jpg?v=1737908263
     Price: $24.00 USD
-- [Women's Basic Softstyle T-Shirt](https://baskandweave.com/products/womens-basic-softstyle-t-shirt): You've now found the staple t shirt of your wardrobe. It's made of 100% ring-spun cotton and is soft and comfy. The double stitching on the neckline and sleeves add more durability to what is sure to be a favorite! • 100% ring-spun cotton• Sport Grey is 90% ring-spun cotton, 10% polyester• Dark Heather is 65% polyester, 35% cotton• 4.5 oz/yd² (153 g/m²)• Shoulder-to-shoulder taping• Quarter-turned to avoid crease down the center• Blank product sourced from Bangladesh, Nicaragua, Honduras, Dominican Republic, Haiti or GuatemalaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-29T23:04:10Z
+- [Women's Softstyle T-Shirt – Basic & Comfortable Everyday Tee](https://baskandweave.com/products/womens-basic-softstyle-t-shirt): Enjoy ultimate comfort with this Women's Softstyle T-Shirt. A perfect basic tee made from soft fabric for everyday wear. Lightweight, stylish, and breathable.
+  Updated: 2025-11-02T23:47:35Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11414,8 +11414,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-basic-softstyle-t-shirt-military-green-front-6795799bd3f70.jpg?v=1737908327
     Price: $21.00 USD
-- [Women's Tri-Blend T-Shirt](https://baskandweave.com/products/womens-tri-blend-t-shirt): The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) XS 68.6 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-29T23:04:11Z
+- [Women's Tri-Blend T-Shirt – Soft, Comfortable Everyday Tee](https://baskandweave.com/products/womens-tri-blend-t-shirt): Experience unmatched comfort with our Women's Tri-Blend T-Shirt. Made from a soft, breathable blend, it’s perfect for everyday wear and effortless style.
+  Updated: 2025-11-02T23:48:09Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11620,8 +11620,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-tri-blend-t-shirt-red-triblend-front-67957a564bc2e.jpg?v=1737908394
     Price: $33.50 USD
-- [Women's Short Sleeve V-Neck T-Shirt](https://baskandweave.com/products/womens-short-sleeve-v-neck-t-shirt): This tee has a classic v-neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Coverstitched v-neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (cm) BODY WIDTH (cm) S 70.5 45.7 M 73 50.8 L 75.6 55.9 XL 78.1 61 2XL 80.7 66
-  Updated: 2025-10-29T23:04:11Z
+- [Short Sleeve Women's V-Neck T-Shirt – Soft & Stylish Tee](https://baskandweave.com/products/womens-short-sleeve-v-neck-t-shirt): Stay cool and confident with our short sleeve women's V-neck T-shirt. Soft, breathable, and perfect for everyday wear, this tee combines comfort and style.
+  Updated: 2025-11-02T23:49:03Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11666,8 +11666,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-v-neck-tee-white-front-67957acb70980.jpg?v=1737908551
     Price: $36.50 USD
-- [Women's V-Neck T-Shirt](https://baskandweave.com/products/womens-v-neck-t-shirt): This tee has a classic v-neck cut and fits like a well-loved favorite. • 100% combed ring-spun cotton• Pre-shrunk fabric• Fabric weight: 4.2 oz/yd² (142 g/m²)• Regular fit• Side-seamed construction• Coverstitched v-neck and hemmed sleeves• Shoulder-to-shoulder taping• Blank product sourced from Nicaragua, Guatemala, or the USThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (cm) BODY WIDTH (cm) S 70.5 45.7 M 73 50.8 L 75.6 55.9 XL 78.1 61 2XL 80.7 66
-  Updated: 2025-10-29T23:04:11Z
+- [Women's V-Neck T-Shirt – Soft, Stylish & Everyday Comfort](https://baskandweave.com/products/womens-v-neck-t-shirt): Shop our women's V-neck T-shirt, made from soft, breathable fabric for all-day comfort. A stylish and versatile tee perfect for casual and everyday wear.
+  Updated: 2025-11-02T23:49:52Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11692,8 +11692,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_V-Neck_T-Shirt.jpg?v=1740971399
     Price: $36.50 USD
-- [Women's Athletic T-Shirt](https://baskandweave.com/products/all-over-print-womens-athletic-t-shirt): This t-shirt easily combines comfort and style—the sports mesh fabric with moisture management is sure to keep any athlete dry and comfortable during exercise, while the design will make it into a unique statement piece. • 92% polyester, 8% spandex • Fabric weight: 4.42 oz/yd² (150 g/m²) • Very soft four-way stretch sports mesh fabric • Comfortable fit • Overlock and coverstitch This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) XS 84 S 88 M 92 L 100 XL 108 2XL 116 3XL 124
-  Updated: 2025-10-29T23:04:11Z
+- [Women's Athletic T-Shirt – Lightweight & Workout Ready](https://baskandweave.com/products/all-over-print-womens-athletic-t-shirt): Stay active in style with our women's athletic t-shirt. Designed for comfort, breathability, and performance — ideal for workouts, running, or everyday wear.
+  Updated: 2025-11-02T23:50:26Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11726,8 +11726,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-womens-athletic-t-shirt-white-front-67957b954faa7.jpg?v=1740971225
     Price: $52.00 USD
-- [Women's Organic Cotton T-Shirt](https://baskandweave.com/products/womens-organic-cotton-t-shirt): This 100% organic cotton darling stays true to the tagline the fabric of our lives. An eco-friendly take on the timeless tee, you’ll love the cozy fit and feel. It’s a win-win for everyone. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) CHEST WIDTH (cm) SLEEVE LENGTH (cm) S 69 49.5 22.5 M 73 53.5 24 L 75 56.5 24.5 XL 77 59.5 25 2XL 79 63.5 25.5 3XL 81 67.5 26 4XL 83 72.5 26 5XL 84 77.5 26
-  Updated: 2025-10-29T23:04:11Z
+- [Organic Cotton Women's T-Shirt – Soft & Sustainable](https://baskandweave.com/products/womens-organic-cotton-t-shirt): Experience comfort and sustainability with our organic cotton women's t-shirt. Soft, breathable, and eco-friendly — perfect for casual wear or layering.
+  Updated: 2025-11-02T23:50:59Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -11932,8 +11932,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-679580f2d96e0.jpg?v=1737908717
     Price: $25.50 USD
-- [Women's Denim T-Shirt](https://baskandweave.com/products/womens-denim-t-shirt): This denim t-shirt is made out of 100% combed cotton and has a classic rounded neckline with ribbed sleeve cuffs. It's soft, comfortable, and a must-have for every fashion enthusiast! • 100% combed cotton • Fabric weight: 4.7 oz./yd.² (160 g/m²) • Rounded neckline • Short-sleeved with 1x1 ribbed cuffs • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) S 68.5 46 M 69.5 48 L 70 52 XL 73 57.5 2XL 75 61.5
-  Updated: 2025-10-29T23:04:11Z
+- [Women's Denim Tee Shirt – Stylish Casual Everyday Wear](https://baskandweave.com/products/womens-denim-t-shirt): Upgrade your look with our women's denim tee shirt — soft, durable, and effortlessly chic. Perfect for casual outings or pairing with your favorite jeans.
+  Updated: 2025-11-02T23:51:38Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -12018,8 +12018,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-front-67958158e0115.jpg?v=1737908803
     Price: $33.50 USD
-- [Women's Garment-Dyed Pocket T-Shirt](https://baskandweave.com/products/womens-garment-dyed-pocket-t-shirt): Achieve the ultimate relaxed look with this garment-dyed pocket t-shirt. The shirt’s made of 100% ring-spun cotton that’s super soft and breathable. The heavyweight material ensures a structured fit that will complement your casual and athletic outfits. Plus, it has a cute pocket detail!• 100% ring-spun cotton• Fabric weight: 6.1 oz/yd² (206.8 g/m²)• Garment-dyed, pre-shrunk fabric• Yarn diameter: 20 singles• Relaxed fit• Twill-taped neck and shoulders for extra durability• Double-needle armhole, sleeve, and bottom hems• Single-needle left chest pocket with double-needle hem• 7/8″ double-needle topstitched collar• Signature twill label that matches the color of the garment• Blank product sourced from HondurasThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide WIDTH (cm) LENGTH (cm) S 46.4 67.3 M 51.4 71.1 L 55.9 74.3 XL 61 78.1 2XL 66 80
-  Updated: 2025-10-29T23:04:11Z
+- [Women's Garment-Dyed Pocket T-Shirt – Casual Soft Tee](https://baskandweave.com/products/womens-garment-dyed-pocket-t-shirt): Shop the Women's Garment-Dyed Pocket T-Shirt, crafted for comfort and timeless style. Soft, durable, and perfect for casual days or layering with your look.
+  Updated: 2025-11-02T23:52:23Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -12224,8 +12224,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-butter-front-679581b2d24d8.jpg?v=1737908854
     Price: $37.00 USD
-- [All-Over Print Recycled Women's Sports Jersey](https://baskandweave.com/products/all-over-print-recycled-womens-sports-jersey): Looking for the perfect sports jersey? We have you covered—made of 100% recycled polyester fabric, this shirt is breathable, moisture-wicking, and has a double-layered v-neck collar that creates a premium look. • 100% recycled polyester fabric • Fabric weight: 4.7 oz/yd² (160 g/m²) • Two-way stretch fabric • Moisture-wicking material • Regular fit • UPF50+ protection • Double-layered v-neck collar • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-29T23:04:12Z
+- [Recycled Women's Sports Jersey – All-Over Print Eco Tee](https://baskandweave.com/products/all-over-print-recycled-womens-sports-jersey): Shop our Recycled Women's Sports Jersey made from sustainable materials. Lightweight, breathable, and stylish all-over print design for eco-friendly activewear.
+  Updated: 2025-11-02T23:53:26Z
   Vendor: Bask & Weave
   Product Type: Sports Jersey
   Availability: Available
@@ -12274,8 +12274,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-unisex-sports-jersey-white-front-6795821224732.jpg?v=1737908900
     Price: $59.50 USD
-- [Women’s High-Waisted T-Shirt](https://baskandweave.com/products/women-s-high-waisted-t-shirt): Made of 100% combed and ring-spun cotton, this t-shirt is ultra soft and smooth against the skin. With its flattering, longline fit and crew neck, this tee will look best paired with high-waisted bottoms. • 100% combed and ring-spun cotton • Fabric weight: 4.3 oz/yd² (145.79 g/m²) • Yarn thickness: 30 singles • Longline fit with a crew neck • Blind stitch on sleeves and hem • Tightly knit and side-seamed • Ultra soft hand feel • Tear-away label • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) CHEST (cm) S 51.4 83.8-91.4 M 54 94-101.6 L 56.5 104.1-111.8 XL 59 114.3-122
-  Updated: 2025-10-29T23:04:12Z
+- [High-Waisted Women's T-Shirt – Trendy Everyday Comfort](https://baskandweave.com/products/women-s-high-waisted-t-shirt): Shop our high-waisted women's t-shirt for a flattering fit and soft comfort. A stylish tee perfect for everyday wear and casual outings.
+  Updated: 2025-11-02T23:54:30Z
   Vendor: Bask & Weave
   Product Type: 
   Availability: Available
@@ -12392,8 +12392,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-high-waisted-tee-white-front-679582986e5f2.jpg?v=1737908944
     Price: $27.50 USD
-- [Women's Sports Jersey](https://baskandweave.com/products/womens-sports-jersey): Made with 100% breathable polyester mesh, this sports jersey provides optimal ventilation and comfort during intense workouts or leisure activities. The jersey’s relaxed fit and extended length offer extra coverage, while the binding on the collar ensures long-lasting durability and a polished look.• 100% breathable polyester (mesh)• Fabric weight: 4.13 oz./yd² (140 g/m²)• Relaxed fit• Elastic and durable• Side-seamed construction• Extended length• Short raglan sleeves• Binding on collar• Classic round neckline • Blank product sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) CHEST (cm) S 70 78.7-86.4 M 72 89-96.5 L 74 99-104.1 XL 76 106.7-114.3 2XL 78 116.8-122
-  Updated: 2025-10-29T23:04:12Z
+- [Women's Sports Jersey - Buy Custom Women's Athletic Jerseys](https://baskandweave.com/products/womens-sports-jersey): Shop women's sports jersey styles made for comfort and performance. Discover custom women’s sports jerseys for workouts, training, and active lifestyles.
+  Updated: 2025-11-02T23:57:37Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -22874,130 +22874,130 @@
 ## Collections
 
 - [Men's T-Shirts](https://baskandweave.com/collections/mens-premium-t-shirts): Discover our Premium T-Shirts, where comfort meets style. Each piece is crafted with high-quality fabrics and unique designs, perfect for anyone who values both fashion and quality.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 18
 - [Women's T-Shirts](https://baskandweave.com/collections/womens-t-shirts): Discover our collection of stylish and comfortable women's t-shirts, perfect for every occasion. From classic basics to trendy designs, our t-shirts are crafted with premium fabrics for a soft and flattering fit. Whether you’re dressing up or keeping it casual, find your new favorite tee today
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 23
 - [Women's Jackets & Vests](https://baskandweave.com/collections/womens-jackets-vests): Elevate your wardrobe with our collection of women's jackets and vests, designed for both style and practicality. From chic, tailored jackets to cozy, insulated vests, our pieces are perfect for layering and enhancing any outfit. Stay warm, comfortable, and effortlessly fashionable all year round.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 6
 - [Men's Jackets & Vests](https://baskandweave.com/collections/mens-jackets-vests): Explore our versatile range of jackets and vests, designed to keep you stylish and comfortable in any season. From sleek, lightweight vests to cozy, weather-ready jackets, our collection combines functionality with fashion. Perfect for layering or making a statement, find your ideal outerwear piece today.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 7
 - [Men's Hoodies](https://baskandweave.com/collections/mens-hoodies): Stay comfortable and stylish with our collection of men's hoodies and sweatshirts. Perfect for casual wear or layering, these versatile pieces feature premium fabrics, modern designs, and a relaxed fit. Whether you’re lounging, working out, or on the go, find your new favorite hoodie or sweatshirt today.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 16
 - [Women's Hoodies](https://baskandweave.com/collections/womens-hoodies): Stay cozy and chic with our collection of women's hoodies, designed for ultimate comfort and effortless style. From classic fits to trendy designs, our hoodies are perfect for lounging, working out, or casual outings. Discover your new go-to piece for every season.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 14
 - [Men's Sweatshirts](https://baskandweave.com/collections/mens-sweatshirts): Upgrade your casual wardrobe with our collection of men's sweatshirts. Crafted for comfort and style, these versatile pieces are perfect for layering or wearing on their own. Featuring premium fabrics and modern designs, our sweatshirts are ideal for any occasion, from lounging to heading out.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 8
 - [Women's Sweatshirts](https://baskandweave.com/collections/womens-sweatshirts): Discover our collection of women's sweatshirts, where comfort meets style. Perfect for layering or wearing on their own, these versatile pieces feature soft fabrics and modern designs. Whether you're relaxing at home or stepping out, our sweatshirts are your go-to for cozy, effortless fashion.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 6
 - [Men's All-Over Shirts](https://baskandweave.com/collections/mens-all-over-print-shirts): Make a bold statement with our collection of men's all-over print shirts. Featuring eye-catching designs and vibrant patterns, these shirts combine style and comfort for any occasion. Perfect for standing out in casual or creative settings, find your unique look today.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 7
 - [Men's Polo Shirts](https://baskandweave.com/collections/mens-polo-shirts): Elevate your wardrobe with our collection of men's polo shirts. Combining classic style with modern comfort, these versatile shirts are perfect for any occasion, from casual outings to smart-casual events. Explore timeless designs crafted with premium fabrics for a polished and comfortable fit.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 2
 - [Men's Tank Tops](https://baskandweave.com/collections/mens-tank-tops): Stay cool and stylish with our collection of men's tank tops. Perfect for workouts, lounging, or warm-weather days, these versatile tops feature lightweight fabrics and comfortable fits. Choose from a range of designs to suit your active and casual lifestyle.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 4
 - [Men's Long Sleeve Shirts](https://baskandweave.com/collections/mens-long-sleeve-shirts): Upgrade your wardrobe with our collection of men's long sleeve shirts. Perfect for layering or wearing on their own, these shirts combine style and comfort for any occasion. From casual designs to smart-casual options, find the perfect fit for your everyday look.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:43Z
   Total Products: 8
 - [Men's Embroidered Shirts](https://baskandweave.com/collections/mens-embroidered-shirts): Add a touch of sophistication to your wardrobe with our collection of men's embroidered shirts. Featuring intricate detailing and premium craftsmanship, these shirts blend classic elegance with modern style. Perfect for special occasions or elevating your everyday look.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 11
 - [Men's Bottoms](https://baskandweave.com/collections/mens-bottoms): Explore our collection of men's bottoms, designed for comfort, style, and versatility. From casual shorts to tailored trousers and relaxed joggers, our selection offers the perfect fit for any occasion. Upgrade your wardrobe with pieces that combine functionality and modern design.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 12
 - [Women's Polo Shirts](https://baskandweave.com/collections/womens-polo-shirts): Discover the perfect blend of style and comfort with our collection of women's polo shirts. Designed for versatility, these timeless pieces are ideal for casual outings, active days, or smart-casual looks. Crafted with premium fabrics for a flattering fit and effortless style.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Women's Tank Tops](https://baskandweave.com/collections/womens-tank-tops): Stay cool and stylish with our collection of women's tank tops. Perfect for workouts, lounging, or warm-weather outings, these versatile tops feature breathable fabrics and flattering fits. Explore a range of designs to complement your active and casual lifestyle.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 6
 - [Women's Crop Tops](https://baskandweave.com/collections/womens-crop-tops): Elevate your style with our collection of women's crop tops. Perfect for casual outings, workouts, or layering, these trendy tops feature modern designs and comfortable fits. Pair them with your favorite high-waisted bottoms for a chic and effortless look.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 3
 - [Women's Embroidered Shirts](https://baskandweave.com/collections/womens-embroidered-shirts): Add a touch of elegance to your wardrobe with our collection of women's embroidered shirts. Featuring intricate designs and premium craftsmanship, these shirts blend timeless charm with modern style. Perfect for casual chic or special occasions, they’re a must-have for a refined look.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 13
 - [Women's Long Sleeve Shirts](https://baskandweave.com/collections/womens-long-sleeve-shirts): Stay stylish and comfortable with our collection of women's long sleeve shirts. Perfect for layering or wearing on their own, these versatile shirts feature flattering fits and modern designs. Ideal for any season, they’re a wardrobe essential for effortless everyday style.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 4
 - [Women Dresses](https://baskandweave.com/collections/women-dresses): Step out in style with our collection of women's dresses, designed for every occasion. From casual daywear to elegant evening looks, our dresses feature flattering cuts, premium fabrics, and on-trend designs. Discover the perfect piece to showcase your unique style and confidence.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 4
 - [Women's Sweatpants & Joggers](https://baskandweave.com/collections/womens-sweatpants-joggers): Stay comfortable and stylish with our collection of women's sweatpants and joggers. Perfect for lounging, workouts, or casual outings, these versatile pieces feature soft fabrics and modern designs for a flattering fit. Elevate your everyday look with effortless comfort and style.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 4
 - [Women's Leggings](https://baskandweave.com/collections/womens-leggings): Experience the perfect blend of comfort and style with our collection of women's leggings. Designed for workouts, lounging, or everyday wear, these versatile leggings feature premium fabrics for a flattering fit and all-day comfort. Find your new go-to pair today.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 4
 - [Women's Skirts](https://baskandweave.com/collections/womens-skirts): Elevate your wardrobe with our collection of women's skirts, designed to suit every occasion. From chic and casual styles to elegant and sophisticated looks, our skirts feature flattering fits and premium fabrics. Perfect for dressing up or keeping it effortless, find your favorite style today.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 3
 - [Women's Swimwear & Bras](https://baskandweave.com/collections/womens-swimwear-bras): Make a splash with our collection of women's swimwear and bras, designed for comfort and confidence. From stylish swimsuits to supportive bras, our range combines premium fabrics with flattering designs. Perfect for the beach, pool, or everyday wear, find your ideal fit today.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 18
 - [Kids & Youth All Shirts](https://baskandweave.com/collections/kids-youth-all-shirts): Explore our collection of kids' and youth shirts, crafted for comfort, durability, and style. From playful prints to classic designs, these shirts are perfect for everyday adventures or special occasions. Designed with premium fabrics, they’re a perfect fit for active, growing kids.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 12
 - [Kids & Youth Hoodies & Sweatshirts](https://baskandweave.com/collections/kids-youth-hoodies-sweatshirts): Keep them cozy and stylish with our collection of kids' and youth hoodies and sweatshirts. Designed for comfort and durability, these versatile pieces are perfect for school, play, or lounging. Featuring fun designs and premium fabrics, they’re a must-have for any season.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 5
 - [Kids & Youth Leggings](https://baskandweave.com/collections/kids-youth-leggings): Let them move freely and comfortably with our collection of kids' and youth leggings. Perfect for playtime, sports, or everyday wear, these leggings feature soft, stretchy fabrics and fun designs. Durable and versatile, they’re made to keep up with their active lifestyle.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Baby Bodysuits](https://baskandweave.com/collections/baby-bodysuits): Keep your little one cozy and adorable with our collection of baby bodysuits. Designed with soft, breathable fabrics and snap closures for easy changes, these bodysuits combine comfort, style, and practicality. Perfect for everyday wear or special moments, they’re a must-have for your baby’s wardrobe.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Kids & Youth Swimwear](https://baskandweave.com/collections/kids-youth-swimwear): Make a splash with our collection of kids' and youth swimwear, designed for fun and comfort. Featuring vibrant colors, playful patterns, and durable fabrics, our swimwear is perfect for pool days, beach adventures, and water play. Keep them stylish and ready for aquatic fun.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Tote Bags](https://baskandweave.com/collections/tote-bags): Carry your essentials in style with our collection of tote bags. Perfect for everyday use, these spacious and versatile bags feature durable materials and trendy designs. Whether for work, travel, or shopping, our tote bags combine practicality with a chic, modern look.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 5
 - [Duffle Bags](https://baskandweave.com/collections/duffle-bags): Pack in style with our collection of duffle bags, designed for both functionality and fashion. Whether for the gym, weekend getaways, or travel, these spacious bags offer ample storage and durable materials. With sleek designs and comfort in mind, they’re the perfect companion for your on-the-go lifestyle.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Drawstring Bags](https://baskandweave.com/collections/drawstring-bags): Stay effortlessly stylish and organized with our collection of drawstring bags. Lightweight, durable, and versatile, these bags are perfect for the gym, day trips, or casual outings. Featuring trendy designs and convenient storage, they’re the ultimate grab-and-go accessory for any lifestyle.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 1
 - [Fanny Packs](https://baskandweave.com/collections/fanny-packs): Keep your essentials close with our collection of fanny packs. Designed for convenience and style, these compact and versatile bags are perfect for travel, outdoor adventures, or everyday use. Featuring adjustable straps and trendy designs, they’re a must-have accessory for hands-free ease.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [Backpacks](https://baskandweave.com/collections/backpacks): Gear up with our collection of backpacks, combining style, durability, and functionality. Perfect for school, work, travel, or adventures, these versatile bags feature spacious compartments and ergonomic designs. Explore trendy and practical options to carry your essentials with ease and comfort.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 2
 - [All Men's Clothing](https://baskandweave.com/collections/all-mens-clothing): Bask & Weave Men's clothing collection, featuring a wide range of styles to suit every occasion. From casual staples to polished looks, our selection includes shirts, hoodies, bottoms, and more. Designed with comfort, durability, and modern fashion in mind, find your perfect fit today.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:44Z
   Total Products: 93
 - [All Women’s Clothing](https://baskandweave.com/collections/all-women-s-clothing): Women’s clothing collection at Bask & Weave where style meets versatility. From casual essentials to chic statement pieces, our range includes dresses, tops, bottoms, outerwear, and more. Designed with comfort and modern trends in mind, find the perfect look for any occasion.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 111
 - [All Kids & Youth Clothing](https://baskandweave.com/collections/all-kids-youth-clothing): Kids' and youth clothing, designed for comfort, durability, and fun at Bask & Weave. From playful prints to everyday essentials, our range includes shirts, hoodies, leggings, swimwear, and more. Perfect for active lifestyles and growing imaginations, find styles they'll love to wear.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 23
 - [All Bags](https://baskandweave.com/collections/all-bags): Our bags collection, crafted for style and practicality only at Bask & Weave. From spacious tote bags to versatile backpacks, duffle bags, drawstring bags, and fanny packs, we have options for every need. Designed with durability and modern trends in mind, find the perfect bag for any occasion.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 12
 - [Women's Bottoms](https://baskandweave.com/collections/womens-bottoms): Elevate your wardrobe with our collection of women's bottoms. From comfortable leggings and joggers to chic skirts and tailored pants, our selection offers styles for every occasion. Designed with premium fabrics and flattering fits, find the perfect piece to complete your look.
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 9
 - [Chosen Products For More To Shop](https://baskandweave.com/collections/best-selling-products-men)
-  Updated: 2025-10-29T23:03:56Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 16
 - [New Arrivals](https://baskandweave.com/collections/new-arrivals): Discover our New Arrival Products here at Bask & Weave made for you.
-  Updated: 2025-10-29T23:03:57Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 12
 - [Embroidered Collection](https://baskandweave.com/collections/embroidered-collection): Discover our Bask & Weave (Bask And Weave) Embroidered Collection – a perfect blend of elegance and craftsmanship. Featuring beautifully stitched designs on premium fabrics, each piece adds a touch of sophistication to your style. Shop now and elevate your wardrobe with timeless embroidery.
-  Updated: 2025-10-29T23:03:57Z
+  Updated: 2025-11-02T21:48:45Z
   Total Products: 25
 
 ## Store Pages
