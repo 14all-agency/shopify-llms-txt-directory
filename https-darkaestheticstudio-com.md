@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-01T12:00:34.329Z
+- Updated At: 2025-11-03T00:00:44.140Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -451,8 +451,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/wooden-puzzle-table-dark-aesthetic.png?v=1761581882
   Price: 1 299,00 kr SEK
-- [The Office - Jultröja](https://darkaestheticstudio.com/products/dwight-fart-schrute-id-sweatshirt-the-office): 🎄 Rolig jultröja – The Office EditionFånga julstämningen med denna coola och roliga sweatshirt med The Office-design! Perfekt som present till någon du tycker om – eller varför inte bära den själv på julfesten?👕 Herrmodell✨ Bekväm hela dagenTillverkad för överlägsen vardagskomfort i en mjuk blandning av 50 % bomull och 50 % polyester – perfekt för kalla vinterdagar och mysiga hemmakvällar.🎁 Den perfekta julklappenOavsett om det är till en vän, partner eller kollega – den här tröjan kommer garanterat att locka fram skratt och julglädje!Leverans: 5-8 arbetsdagar.
-  Updated: 2025-10-29T07:48:42Z
+- [Office - Jultröja](https://darkaestheticstudio.com/products/dwight-fart-schrute-id-sweatshirt-the-office): 🎄 Rolig jultröja – Office Edition Fånga julstämningen med denna coola och roliga sweatshirt med Office-design! Perfekt som present till någon du tycker om – eller varför inte bära den själv på julfesten? 👕 Herrmodell ✨ Bekväm hela dagenTillverkad för överlägsen vardagskomfort i en mjuk blandning av 50 % bomull och 50 % polyester – perfekt för kalla vinterdagar och mysiga hemmakvällar. 🎁 Den perfekta julklappenOavsett om det är till en vän, partner eller kollega – den här tröjan kommer garanterat att locka fram skratt och julglädje! Leverans: 5-8 arbetsdagar.
+  Updated: 2025-11-02T23:24:04Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -1069,7 +1069,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
 ## Collections
 
 - [Överdelar](https://darkaestheticstudio.com/collections/frontpage): 🖤 Utforska våra unika överdelar – designade av oberoende konstnärerVåra tröjor är mer än bara plagg – de är uttryck för identitet, kreativitet och mörk skönhet. Varje design är noggrant utvald för att spegla en djupare känsla och ge dig något att bära med stolthet.
-  Updated: 2025-10-29T19:13:14Z
+  Updated: 2025-11-02T11:24:02Z
   Total Products: 12
 - [Presentkort](https://darkaestheticstudio.com/collections/presentkort): Ge någon du tycker om friheten att välja sin egen favorit från Dark Aesthetic Studio.Perfekt för födelsedagar, högtider eller bara för att visa uppskattning.Presentkortet levereras digitalt och kan användas på hela sortimentet – från konstnärliga prints till unika accessoarer. 🖤 Giltigt i 24 månader från köpdatum.🖤 Ingen extra avgift.🖤 Levereras direkt till din e-post
   Updated: 2025-10-23T19:24:21Z
