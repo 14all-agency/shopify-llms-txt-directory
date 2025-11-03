@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-11-01T16:00:34.818Z
+- Updated At: 2025-11-03T00:00:26.083Z
 
 ## Products
 
@@ -198,7 +198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-13-zebana-neofiber-silikon-kilif-kablosuz-sarj-renk-1-f881b868-6b85_jpg.webp?v=1759825619
     Price: ₺625,00 TRY
 - [iPhone 16 Pro Max Uyumlu Cüzdanlı Kılıf](https://etycase.com/products/iphone-16-promax-uyumlu-cuzdanli-kilif): iPhone 16 Pro Max için üretilmiş olan ve Moda evlerinin ikonik monogram desenini, mini çanta ve askılı taşıma özgürlüğüyle birleştiren bu kılıf, telefonunuzu korurken aynı anda size kartlarınızı, kulaklığınızı veya anahtarınızı saklayan akıllı bir cüzdan sunuyor. Gövde Malzemesi Kabartmalı monogram vegan deri + darbeye dayanıklı polikarbon iç şasi Mikro-Satchel 3 kart kapasiteli, altın kaplama turn-lock; manyetik kapak destekli İç Kaplama Mikrofiber süet – çizilme & toz önleyici Koruma 2 mm yükseltilmiş ekran/kamera çerçevesi • Bal peteği şok emici katman • 2 m düşme testi Butonlar Ayrı metal “click-feel” kalkan sistemi Mıknatıs Gömülü Mag-Ring™ (MagSafe uyumlu) Askı Detachable Cross-Strap™ – ayarlanabilir, 360° döner kanca, vegan deri Ekstralar Parmak-izi tutmaz mat finisaj • Altın logo rozeti • Dikişli kenar takviyesi
-  Updated: 2025-11-01T11:15:06Z
+  Updated: 2025-11-01T21:28:49Z
   Vendor: EtyCase 
   Product Type: 
   Availability: Available
