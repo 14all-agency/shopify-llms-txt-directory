@@ -5,96 +5,96 @@
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-08-22T01:54:20Z
-- Updated At: 2025-11-01T12:00:41.319Z
+- Updated At: 2025-11-03T00:01:28.927Z
 
 ## Products
 
-- [Jeu de 78 Cartes de Tarot avec Livre Guide, Ensemble Cadeau Noir de Tarot avec Chiffon, Pierres de Chakra et Plus, Jeu de Cartes de Divination en Carton pour Débutants et Lecteurs Experts - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jeu-de-78-cartes-de-tarot-avec-livre-guide-ensemble-cadeau-noir-de-tarot-avec-chiffon-pierres-de-chakra-et-plus-jeu-de-cartes-de-divination-en-carton-pour-debutants-et-lecteurs-experts): Buy Jeu de 78 Cartes de Tarot avec Livre Guide, Ensemble Cadeau Noir de Tarot avec Chiffon, Pierres de Chakra et Plus, Jeu de Cartes de Divination en Carton pour Débutants et Lecteurs Experts for only CA$109.48 at Enchantement Seraphélya!
-  Updated: 2025-11-01T06:05:19Z
+- [Tarot Noir Classique SUGEYA - Coffret complet de divination](https://enchantementseraphelya.com/products/jeu-de-78-cartes-de-tarot-avec-livre-guide-ensemble-cadeau): Découvrez le tarot noir SUGEYA : 78 cartes mystiques, guide illustré, pierres des chakras et accessoires rituels dans un coffret luxueux. Parfait pour débutants
+  Updated: 2025-11-02T05:37:13Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9454130.webp?v=1761852698
-  Price: 89,99 $ CAD
-- [NexUap Angel Numbers Oracle CardsAngel Oracle DeckOracle Cards for Beginners400 GSM Coated Paper Oracle CardsLife Oracle CardsFamily Party Oracle Cards - Enchantement Seraphélya](https://enchantementseraphelya.com/products/nexuap-angel-numbers-oracle-cardsangel-oracle-deckoracle-cards-for-beginners400-gsm-coated-paper-oracle-cardslife-oracle-cardsfamily-party-oracle-cards): Buy NexUap Angel Numbers Oracle CardsAngel Oracle DeckOracle Cards for Beginners400 GSM Coated Paper Oracle CardsLife Oracle CardsFamily Party Oracle Cards for only CA$54.71 at Enchantement Seraphélya!
-  Updated: 2025-11-01T06:11:22Z
+  Price: 84,26 $ CAD
+- [Oracle Nombres Angéliques NexUap - Enchantement Seraphélya](https://enchantementseraphelya.com/products/nexuap-angel-numbers-oracle-cardsangel-beginner): Découvrez l'Oracle des nombres Angéliques NexUap : cartes inspirantes pour recevoir les messages des anges et développer votre intuition spirituelle.
+  Updated: 2025-11-02T05:22:36Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7507299.webp?v=1761852697
-  Price: 54,59 $ CAD
+  Price: 64,14 $ CAD
 - [Knana Ensemble de 6 Pièces avec Planche de Pendule, Cristal pour Radiesthésie, Dés de Tarot et Dés d'Astrologie avec Boîte, Cadeaux de Tarot pour Femmes, Fournitures et Outils Wiccans, Divination par Tarot pour Débutants - Enchantement Seraphélya](https://enchantementseraphelya.com/products/knana-ensemble-de-6-pieces-avec-planche-de-pendule-cristal-pour-radiesthesie-des-de-tarot-et-des-dastrologie-avec-boite-cadeaux-de-tarot-pour-femmes-fournitures-et-outils-wiccans-divination-par-tarot-pour-debutants): Buy Knana Ensemble de 6 Pièces avec Planche de Pendule, Cristal pour Radiesthésie, Dés de Tarot et Dés d'Astrologie avec Boîte, Cadeaux de Tarot pour Femmes, Fournitures et Outils Wiccans, Divination par Tarot pour Débutants for only CA$66.17 at Enchantement Seraphélya!
-  Updated: 2025-11-01T06:10:05Z
+  Updated: 2025-11-01T23:35:39Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4160850.webp?v=1761852697
-  Price: 66,10 $ CAD
-- [Money Manifestation: A Wealth Oracle - Messages from The Universe to Guide You Towards Abundance Prosperity and Success - Deck of 60 Career Oracle Cards with Meanings on Them - Enchantement Seraphélya](https://enchantementseraphelya.com/products/money-manifestation-a-wealth-oracle-messages-from-the-universe-to-guide-you-towards-abundance-prosperity-and-success-deck-of-60-career-oracle-cards-with-meanings-on-them): Buy Money Manifestation: A Wealth Oracle - Messages from The Universe to Guide You Towards Abundance Prosperity and Success - Deck of 60 Career Oracle Cards with Meanings on Them for only CA$67.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T06:03:17Z
+  Price: 56,01 $ CAD
+- [Oracle de la Manifestation de l’Argent - Seraphélya](https://enchantementseraphelya.com/products/money-manifestation-wealth-oracle-messages-universe-to-guide): Découvrez l'oracle de la manifestation de l'Argent : 60 cartes inspirantes pour attirer la richesse, la prospérité et le succès grâce aux messages de l'univers
+  Updated: 2025-11-02T05:16:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8799944.webp?v=1761852697
-  Price: 65,82 $ CAD
-- [IXIGER Tarot Cards Set with Guide BookTarot Cards for BeginnersTarot Cards Deck with Meanings on ThemLearning Tarot Deck Fortune Telling Game with Velvet Tarot Bag and Chakra Stone - Enchantement Seraphélya](https://enchantementseraphelya.com/products/ixiger-tarot-cards-set-with-guide-booktarot-cards-for-beginnerstarot-cards-deck-with-meanings-on-themlearning-tarot-deck-fortune-telling-game-with-velvet-tarot-bag-and-chakra-stone): Buy IXIGER Tarot Cards Set with Guide BookTarot Cards for BeginnersTarot Cards Deck with Meanings on ThemLearning Tarot Deck Fortune Telling Game with Velvet Tarot Bag and Chakra Stone for only CA$79.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T05:49:48Z
+  Price: 60,82 $ CAD
+- [Tarot IXIGER avec Guide – Tarot pour Débutants](https://enchantementseraphelya.com/products/ixiger-tarot-cards-set-guide-booktarot-cards-beginnerstarot): Apprenez à lire le tarot facilement avec le jeu IXIGER : 78 cartes avec significations, guide complet, bourse en velours et pierre chakra pour la divination.
+  Updated: 2025-11-02T05:13:15Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5262497.webp?v=1761852698
-  Price: 79,56 $ CAD
+  Price: 77,15 $ CAD
 - [Bougie | Protection et puissance - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-protection-et-puissance): Revenez à votre puissance intérieure avec la bougie en cire d'abeille. Elle purifie les énergies lourdes, restaure la stabilité et attire la protection.
-  Updated: 2025-10-31T07:45:57Z
+  Updated: 2025-11-02T21:18:07Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9533680.png?v=1761862071
   Price: 12,75 $ CAD
 - [Jade de Succès-pour attirer la réussite et la prospérité](https://enchantementseraphelya.com/products/jade-de-succes-bougie): Découvrez la bougie Jade de Succès, conçu pour attirer la chance, stimuler la réussite professionnelle et ouvrir les voies de la prospérité. Seraphélya
-  Updated: 2025-10-31T07:45:58Z
+  Updated: 2025-11-02T21:23:54Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3400592.png?v=1761862071
   Price: 12,75 $ CAD
-- [Purification et protection-Nettoyage énergétique et bouclier spirituel - Enchantement Seraphélya](https://enchantementseraphelya.com/products/purification-et-protection-bougie): Purifiez votre espace et éloignez les énergies négatives avec la bougie en cire d'abeille Purification & Protection. Création Enchantement Seraphélya
-  Updated: 2025-10-31T07:45:59Z
+- [Purification et protection-Nettoyage énergétique et bouclier](https://enchantementseraphelya.com/products/purification-et-protection-bougie): Purifiez votre espace et éloignez les énergies négatives avec la bougie en cire d'abeille Purification & Protection. Création Enchantement Seraphélya
+  Updated: 2025-11-02T21:24:54Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4595423.png?v=1761862071
   Price: 12,75 $ CAD
-- [Samhain | La flamme du passage entre les mondes - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-noire-de-samhain): Célébrez Samhain, la nuit des ancêtres, avec cette bougie. Symbole de passage et de lumière, elle purifie, protège et ouvre les portes entre les mondes.
-  Updated: 2025-10-31T07:46:00Z
+- [Samhain | La flamme du passage entre les mondes](https://enchantementseraphelya.com/products/bougie-noire-de-samhain): Célébrez Samhain, la nuit des ancêtres, avec cette bougie. Symbole de passage et de lumière, elle purifie, protège et ouvre les portes entre les mondes.
+  Updated: 2025-11-02T21:25:35Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6032472.png?v=1761862070
   Price: 12,75 $ CAD
-- [Bougie - Amour & Guérison Émotionnelle - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-rose-amour-et-attirance): La bougie Amour et Guérison Émotionnelle apaise les blessure du cœur et attire les énergies d'amour, de pardon et de tendresse. Une flamme douce et naturelle.
-  Updated: 2025-10-31T07:46:01Z
+- [Bougie - Amour & Guérison Émotionnelle](https://enchantementseraphelya.com/products/bougie-rose-amour-et-attirance): La bougie Amour et Guérison Émotionnelle apaise les blessure du cœur et attire les énergies d'amour, de pardon et de tendresse. Une flamme douce et naturelle.
+  Updated: 2025-11-02T21:25:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3263750.png?v=1761862071
   Price: 12,75 $ CAD
 - [Bougie - créativité et confiance - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-jaune-creativite-et-confiance): Éveillez votre feu intérieur avec la bougie en cire d'abeille Créativité & Confiance. Sa flamme solaire stimule la joie, la motivation et la clarté d'esprit.
-  Updated: 2025-10-31T07:46:01Z
+  Updated: 2025-11-02T21:26:22Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5045170.png?v=1761862071
   Price: 12,75 $ CAD
 - [Bougie - OUIJA : La flamme des communications spirituelles](https://enchantementseraphelya.com/products/bougie-bleue-ouija): Explorez le mystère du Ouija avec la bougie en cire d'abeille bleue. Sa flamme favorise la clarté psychique, la communication spirituelle et la protection.
-  Updated: 2025-11-01T03:18:07Z
+  Updated: 2025-11-01T15:17:53Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8155378.png?v=1761862073
   Price: 12,72 $ CAD
 - [Bougie - Vitalité et créativité | Énergie, motivation](https://enchantementseraphelya.com/products/vitalite-et-creativite-bougie-orange): Ravivez votre feu intérieur avec la bougie Vitalité & Créativité. Sa flamme solaire réveille la joie, la motivation et l'inspiration. Rituels de dynamisme.
-  Updated: 2025-11-01T03:21:44Z
+  Updated: 2025-11-01T15:19:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: Bougie
   Availability: Available
@@ -114,8 +114,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2278738.png?v=1761862070
   Price: 12,75 $ CAD
-- [Pierre de Lune - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pierre-de-lune): Buy Pierre de Lune for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T06:33:07Z
+- [Pierre de Lune | Intuition, clairvoyance - Seraphélya](https://enchantementseraphelya.com/products/pierre-de-lune-cristaux-polie-intuition-clairvoyance): Pierre de Lune naturelle - cristal d'intuition, de sérénité et de féminité sacrée. Active la clairvoyance et l'équilibre émotionnel lors de rituels lunaires
+  Updated: 2025-11-02T05:48:08Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
@@ -163,1177 +163,1270 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4996868.png?v=1761914282
     Price: 1,10 $ CAD
-- [Quartz Clair - Enchantement Seraphélya](https://enchantementseraphelya.com/products/quartz-clair): Buy Quartz Clair for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T05:10:27Z
+- [Quartz Clair - Lumière, Guérison, Amplification Énergétique](https://enchantementseraphelya.com/products/quartz-clair-pierres-cristaux-guerison-energie-seraphelya): Pierre universelle de guérison et de clarté, le Quartz clair amplifie les énergies, purifie l'aura et élève la vibration spirituelle, Idéale pour la méditation
+  Updated: 2025-11-02T06:35:08Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3696725.jpg?v=1761914192
   Price: 5,00 $ CAD
-- [Opalite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/opalite): Buy Opalite for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:58:58Z
+- [Pierre de Cornaline - Vitalité, Créativité, Confiance en soi](https://enchantementseraphelya.com/products/cornaline-pierres-cristaux-vitality-creativity-confiance): Pierre de vitalité et de confiance, la Cornaline stimule la créativité, la motivation et la joie de vivre. Idéale pour retrouver énergie, passion, force
+  Updated: 2025-11-02T06:30:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2020399.jpg?v=1761914193
   Price: 5,00 $ CAD
-- [Œil de tigre - Enchantement Seraphélya](https://enchantementseraphelya.com/products/oeil-de-tigre): Buy Œil de tigre for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:52:48Z
+- [Œil de tigre - Pierres de Protection, Confiance, Force](https://enchantementseraphelya.com/products/oeil-de-tigre-pierres-cristaux-protection-confiance-force): Pierre de protection et de confiance, l'Oeil de Tigre renforce le courage, éloigne les énergies négatives et attire la réussite. Idéal pour la méditation
+  Updated: 2025-11-02T06:22:36Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6949584.jpg?v=1761914194
   Price: 5,50 $ CAD
-- [Quartz Fumée - Enchantement Seraphélya](https://enchantementseraphelya.com/products/quartz-fumee): Buy Quartz Fumée for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:46:24Z
+- [Quartz Fumée - Ancrage, Libération, protection énergétique](https://enchantementseraphelya.com/products/quartz-fumee-pierre-ancrage-liberation-protection-cristaux): Pierre d'ancrage et de protection, le Quartz Fumé libère les énergies négatives et favorise la stabilité émotionnelle. Idéal pour la méditation, transformation
+  Updated: 2025-11-02T06:21:50Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7762187.jpg?v=1761914194
   Price: 5,50 $ CAD
-- [Lapis-lazuli - Enchantement Seraphélya](https://enchantementseraphelya.com/products/lapis-lazuli): Buy Lapis-lazuli for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:39:53Z
+- [Lapis-lazuli - Sagesse, Intuition, Communication spirituelle](https://enchantementseraphelya.com/products/lapis-lazuli-pierres-cristaux-bleu-enchantement-seraphelya): Pierre de sagesse et d'intuition, le Lapis-lazuli ouvre le troisième oeil, favorise la clarté d'esprit et la communication spirituelle. Idéal pour la méditation
+  Updated: 2025-11-02T06:14:06Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4853870.jpg?v=1761914192
   Price: 4,10 $ CAD
-- [Fluorite verte - Enchantement Seraphélya](https://enchantementseraphelya.com/products/fluorite-verte): Buy Fluorite verte for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:32:44Z
+- [Fluorite verte - Clarté Mentale, Harmonie, Guérison](https://enchantementseraphelya.com/products/fluorite-verte-pierres-cristaux-guerison-intuition-harmonie): Pierre de clarté et d'harmonie, la Fluorite Verte apaise le mental, purifie les énergies et favorise la concentration, Idéale pour la méditation, la guérison.
+  Updated: 2025-11-02T06:09:40Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2086287.jpg?v=1761914193
   Price: 3,00 $ CAD
-- [Opalite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/opalite-1): Buy Opalite for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:22:45Z
+- [Opalite - Clarté, Élévation, Énergie Lunaire - Seraphélya](https://enchantementseraphelya.com/products/opalite-pierres-cristaux-bleutee-lumineux-lunaire-elevation): Pierre lunaire et apaisante, l'Opalite favorise la clarté mentale, l'intuition et l'équilibre émotionnel. Parfaite pour la méditation, les rituels spirituels.
+  Updated: 2025-11-02T06:07:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7692848.jpg?v=1761914194
   Price: 4,50 $ CAD
-- [Quartz rose - Enchantement Seraphélya](https://enchantementseraphelya.com/products/quartz-rose): Buy Quartz rose for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T04:11:03Z
+- [Quartz rose - Enchantement Seraphélya](https://enchantementseraphelya.com/products/quartz-rose): Pierre d'amour et de guérison émotionnelle, le Quartz Rose apaise le cœur, favorise la tendresse et attire les énergies d'amour sincère. Enchantement Seraphélya
+  Updated: 2025-11-02T05:59:52Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6177492.jpg?v=1761914192
   Price: 4,50 $ CAD
 - [Obsidienne noire - Enchantement Seraphélya](https://enchantementseraphelya.com/products/obsidienne-noire): Pierre de vérité et de protection, l'Obsidienne Noire libère les énergies négatives, dissout les peurs et favorise la transformation spirituelle. Seraphélya
-  Updated: 2025-11-01T03:43:42Z
+  Updated: 2025-11-01T17:59:09Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2768715.jpg?v=1761914192
   Price: 5,50 $ CAD
-- [Améthyste - Sérénité, Intuition, Protection Spirituelle - Enchantement Seraphélya](https://enchantementseraphelya.com/products/amethyste-intuition-meditation): Pierre de sérénité et d'intuition, l'Améthyste purifie l'esprit, apaise les émotions et protège des énergies négatives. Idéale pour la méditation, le sommeil.
-  Updated: 2025-11-01T07:47:44Z
+- [Lavande - Enchantement Seraphélya - Paix, purification et harmonie](https://enchantementseraphelya.com/products/lavande-encens-batonnet): Purifiez votre espace et apaisez votre esprit avec l'encens en bâton de lavande. Sa fumée florale et relaxante favorise la paix intérieure.
+  Updated: 2025-11-02T15:09:35Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5497878.jpg?v=1761914193
+  Price: 6,00 $ CAD
+- [Encens de Rose - 24 bâtonnets - Enchantement Seraphélya - Amour](https://enchantementseraphelya.com/products/rose-encens-incense-batonnet): Laissez-vous envelopper par la douceur de l'encens en bâton à la rose. Sa fumée florale favorise l'amour, la guérison émotionnelle et l'harmonie du cœur.
+  Updated: 2025-11-02T15:18:59Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8764897.jpg?v=1761914193
+  Price: 6,00 $ CAD
+- [Jasmin - Attraction, clarté, élévation](https://enchantementseraphelya.com/products/jasmin-encens-batonnet-incense-enchantement-seraphelya): L'encens en bâton au jasmin élève les vibrations, favorise l'amour, la paix intérieure et la clarté mentale. Sa fumée florale et mystique apaise les émotions.
+  Updated: 2025-11-02T20:59:02Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4245094.jpg?v=1761914195
+  Price: 6,00 $ CAD
+- [Palo Santo - Purification, protection et élévation](https://enchantementseraphelya.com/products/palo-santo-encens-batonnet-enchantement-seraphelya): Purifiez votre espace avec l'encens en bâton de Palo Santo. Son parfum boisé et sacré nettoie les énergies négatives, protège l'aura et attire la sérénité.
+  Updated: 2025-11-02T21:00:51Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4415583.jpg?v=1761914192
+  Price: 6,00 $ CAD
+- [Vanille - Réconfort, douceur et équilibre émotionnel](https://enchantementseraphelya.com/products/vanille-encens-batonnet-enchantement-seraphelya): L'encens en bâton à la vanille diffuse une douceur apaisante. Sa fumée sucrée calme le stress, équilibre les émotions et attire l'amour et la sérénité
+  Updated: 2025-11-02T21:02:53Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1211930.jpg?v=1761914193
+  Price: 6,00 $ CAD
+- [Cerisier - Renouveau, paix et beauté éphémère (24 bâtonnets)](https://enchantementseraphelya.com/products/cerisier-encens-batonnet-enchantement-seraphelya): L'encens en bâton fleur de cerisier purifie, apaise et invite au renouveau. Sa fumée florale douce inspire la paix, la gratitude et la beauté du moment présent.
+  Updated: 2025-11-02T21:04:29Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8118249.jpg?v=1761914194
+  Price: 6,00 $ CAD
+- [Sang de dragon - Protection, puissance et transmutation](https://enchantementseraphelya.com/products/sang-de-dragon-encens-batonnet-enchantement-seraphelya): L'encens en bâton Sang de dragon purifie, protège et renforce la puissance spirituelle. Sa fumée résineuse et mystique dissipe les énergies négatives.
+  Updated: 2025-11-02T21:06:23Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8351298.jpg?v=1761914192
+  Price: 6,00 $ CAD
+- [Eucalyptus - Clarté, guérison et purification](https://enchantementseraphelya.com/products/eucalyptus-encens-batonnet-enchantement-seraphelya): L'encens en bâton d'eucalyptus purifie, revitalise et clarifie les énergies. Sa fumée fraîche favorise la guérison, la concentration, la protection spirituelle.
+  Updated: 2025-11-02T21:08:18Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4099306.jpg?v=1761914192
+  Price: 6,00 $ CAD
+- [Sauge - Purification, protection et sagesse spirituelle](https://enchantementseraphelya.com/products/sauge-encens-batonnets-enchantement-seraphelya): L'encens en bâton de sauge purifie, protège et élève les vibrations. Sa fumée sacrée nettoie l'aura, chasse les énergies négatives, restaure la paix intérieure.
+  Updated: 2025-11-02T21:09:50Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2279865.jpg?v=1761914193
+  Price: 6,00 $ CAD
+- [Myrrhe - Élévation, purification et sagesse divine](https://enchantementseraphelya.com/products/myrrhe-encens-batonnets-enchantement-seraphelya): L'encens de myrrhe purifie, protège et élève la conscience. Sa fumée sacrée favorise la méditation, la paix intérieure et la sagesse spirituelle.
+  Updated: 2025-11-02T21:11:13Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9158428.jpg?v=1761914192
+  Price: 6,00 $ CAD
+- [Bois de Santal - Sérénité, ancrage et élévation spirituelle](https://enchantementseraphelya.com/products/bois-de-santal-encens-batonnets-enchantement-seraphelya): L'encens de bois de santal favorise la paix intérieure, la méditation et la sérénité. Sa fumée boisée apaise l'esprit, purifie l'aura, crée une ambiance sacrée.
+  Updated: 2025-11-02T21:13:31Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Encens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6909858.jpg?v=1761914192
+  Price: 6,00 $ CAD
+- [Améthyste - Sérénité, Intuition, Pierre de Protection](https://enchantementseraphelya.com/products/amethyste-intuition-meditation-pierre-cristaux-seraphelya): Pierre de sérénité et d'intuition, l'Améthyste purifie l'esprit, apaise les émotions et protège des énergies négatives. Idéale pour la méditation, le sommeil.
+  Updated: 2025-11-02T06:01:35Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/IMG-0321.heic?v=1761912769
   Price: 6,00 $ CAD
-- [Onyx noir - Ancrage, Force, Protection Énergétique - Enchantement Seraphélya](https://enchantementseraphelya.com/products/onyx-noir): Pierre d'ancrage et de protection, l'Onyx Noir renforce la confiance, la stabilité émotionnelle et repousse les énergies négatives. Idéal pour les rituels.
-  Updated: 2025-11-01T07:47:45Z
+- [Onyx noir - Ancrage, Force, Protection Énergétique](https://enchantementseraphelya.com/products/onyx-noir-pierre-cristaux-enchantement-seraphelya): Pierre d'ancrage et de protection, l'Onyx Noir renforce la confiance, la stabilité émotionnelle et repousse les énergies négatives. Idéal pour les rituels.
+  Updated: 2025-11-01T17:54:05Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/IMG-0317.heic?v=1761912816
   Price: 6,00 $ CAD
-- [Tourmaline Noire - Protection, ancrage et purification - Enchantement Seraphélya](https://enchantementseraphelya.com/products/tourmaline-noire): Pierre de protection et d'ancrage, la Tourmaline Noire repousse les énergies négatives et purifie l'aura. Bouclier énergétique puissant. Seraphélya
-  Updated: 2025-11-01T07:47:45Z
+- [Tourmaline Noire - Protection, ancrage et purification](https://enchantementseraphelya.com/products/tourmaline-noire-pierre-cristaux-enchantement-seraphelya): Pierre de protection et d'ancrage, la Tourmaline Noire repousse les énergies négatives et purifie l'aura. Bouclier énergétique puissant. Seraphélya
+  Updated: 2025-11-01T17:52:13Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4350677.jpg?v=1761914193
   Price: 4,10 $ CAD
-- [Pendule en Lapis-Lazuli Naturel – Pierre Spirituelle pour Radiesthésie, Divination et Sorcellerie - Enchantement Seraphélya](https://enchantementseraphelya.com/products/maibaota-pendulum-crystal-natural-lapis-lazuli-crystal-pendulums-for-dowsing-spiritual-pointed-crystals-for-witchcraft-supplies-divination-tools): Buy Pendule en Lapis-Lazuli Naturel – Pierre Spirituelle pour Radiesthésie, Divination et Sorcellerie for only CA$52.19 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:46Z
+- [Pendule en Lapis-Lazuli Naturel – Pierre, Radiesthésie](https://enchantementseraphelya.com/products/maibaota-pendule-crystal-lapis-lazuli-crystal-pendulum): Pendule en lapis-lazuli naturel pour divination et radiesthésie. Pierre spirituelle de vérité, intuition et protection énergétique. Enchantement Seraphélya
+  Updated: 2025-11-02T02:14:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7355582.webp?v=1761965802
-  Price: 52,19 $ CAD
-- [Pendule en Œil de Tigre Naturel – Cristal de Guérison, Divination et Énergie Positive - Enchantement Seraphélya](https://enchantementseraphelya.com/products/gehecrst-tiger-eye-healing-crystal-pendulum-for-divination-dowsing-natural-quartz-crystal-pointed-resin-pendulum-crystal-spiritual-gemstone-pendant-for-witchcraft-reiki-positive-energy): Buy Pendule en Œil de Tigre Naturel – Cristal de Guérison, Divination et Énergie Positive for only CA$56.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:46Z
+  Price: 56,19 $ CAD
+- [Pendule en Œil de Tigre Naturel – Cristal de Guérison](https://enchantementseraphelya.com/products/gehecrst-tiger-eye-pendule-natural-crystal-spiritual-reiki): Pendule en oeil de tigre naturel pour divination, Reiki et protection. Pierre solaire de confiance, clarté et énergie positive. Enchantement Seraphélya
+  Updated: 2025-11-02T02:23:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8127469.webp?v=1761965800
-  Price: 56,98 $ CAD
-- [Coffret de Sorcellerie “Amour de Soi” – 75 pièces | Kit Rituel Wicca et Outils Magiques d’Amour-Propre - Enchantement Seraphélya](https://enchantementseraphelya.com/products/self-love-witchcraft-supplies-kit-75pack-wiccan-supplies-and-tools-self-love-spell-kit-with-self-care-journal-workbook-witchy-gifts-for-women): Buy Coffret de Sorcellerie “Amour de Soi” – 75 pièces | Kit Rituel Wicca et Outils Magiques d’Amour-Propre for only CA$151.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:47Z
+  Price: 44,73 $ CAD
+- [Coffret de Sorcellerie “Amour de Soi” – 75 pièces](https://enchantementseraphelya.com/products/self-love-witchcraft-supplies-kit-75pack-wiccan-love-amour): Buy Coffret de Sorcellerie “Amour de Soi” – 75 pièces | Kit Rituel Wicca et Outils Magiques d’Amour-Propre for only CA$151.26 at Enchantement Seraphélya!
+  Updated: 2025-11-02T01:25:29Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8995260.webp?v=1761965801
-  Price: 151,26 $ CAD
-- [Pierres de Citrine Naturelles – Cristaux Polis de Guérison et d’Énergie Positive | 100 g - Enchantement Seraphélya](https://enchantementseraphelya.com/products/top-plaza-bulk-citrine-crystal-stones-real-natural-citrine-reiki-healing-gemstones-small-tumbled-polished-stones-for-energy-witchcraft-therapy-meditation-crystal-decorations-0-22lb): Buy Pierres de Citrine Naturelles – Cristaux Polis de Guérison et d’Énergie Positive | 100 g for only CA$51.28 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:47Z
+  Price: 100,76 $ CAD
+- [Pierres de Citrine Naturelles – Cristaux de Guérison | 100 g](https://enchantementseraphelya.com/products/top-plaza-bulk-citrine-crystal-stones-real-natural-citrine): Pierres de citrine naturelles polies pour énergie positive, prospérité et Reiki. Cristaux solaires pour rituels, méditation et décoration spirituelle.
+  Updated: 2025-11-02T02:26:52Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6036874.webp?v=1761965802
   Price: 51,28 $ CAD
-- [Pendule Chakra en Cristal Naturel – Pendule Orgone Hexagonal pour Reiki, Divination et Thérapie Énergétique - Enchantement Seraphélya](https://enchantementseraphelya.com/products/crystaltears-chakra-crystal-pendulum-hexagonal-reiki-healing-crystal-points-gemstone-dowsing-orgone-pendulum-for-divination-witchcraft-crystal-therapy): Buy Pendule Chakra en Cristal Naturel – Pendule Orgone Hexagonal pour Reiki, Divination et Thérapie Énergétique for only CA$68.50 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:48Z
+- [Pendule Chakra en Cristal – Pendule Orgone Hexagonal, Reiki](https://enchantementseraphelya.com/products/crystaltears-chakra-crystal-pendulum-hexagonal-reiki): Pendule chakra orgone hexagonal en cristaux naturels. Outil de Reiki, divination et guérison énergétique. Équilibre les 7 chakras. Enchantement Seraphélya
+  Updated: 2025-11-02T02:31:09Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9117961.webp?v=1761965801
-  Price: 68,50 $ CAD
-- [Coffret Vintage de Mini Fioles de Cristaux – Ensemble de Pierres Magiques pour Sortilèges, Chakras et Guérison Énergétique - Enchantement Seraphélya](https://enchantementseraphelya.com/products/crystal-chips-gemstone-bottles-set-of-different-mini-crystals-for-spell-jars-healing-crystals-for-witchcraft-in-vintage-box-chakra-crystals-and-healing-stones-set-witch-gifts-witchcraft-supplies): Buy Coffret Vintage de Mini Fioles de Cristaux – Ensemble de Pierres Magiques pour Sortilèges, Chakras et Guérison Énergétique for only CA$64.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:48Z
+  Price: 48,00 $ CAD
+- [Coffret Vintage de Mini Fioles de Cristaux - Seraphélya](https://enchantementseraphelya.com/products/crystal-chips-gemstone-bottles-mini-crystals-jars-cristaux): Coffret vintage de fioles de cristaux naturels. Pierres pour chakras, rituels, sorcellerie et guérison énergétique. Cadeau magique idéal. Seraphélya
+  Updated: 2025-11-02T02:35:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7816350.webp?v=1761965802
   Price: 64,56 $ CAD
-- [Ensemble de 15 Baguettes de Cristaux Naturels – Quartz Rose & Quartz Clair | Pierres de Guérison, Chakras & Énergie Reiki - Enchantement Seraphélya](https://enchantementseraphelya.com/products/15pcs-healing-crystals-wand-stones-sets-natural-rose-quartz-clear-quartz-reiki-gemstones-bulk-hexagonal-points-energy-balancing-chakra-witchcraft-wholesale-meditation-therapy-decor-desk-gift): Buy Ensemble de 15 Baguettes de Cristaux Naturels – Quartz Rose & Quartz Clair | Pierres de Guérison, Chakras & Énergie Reiki for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:49Z
+- [Ensemble de 15 Baguettes de Cristaux Naturels | Reiki](https://enchantementseraphelya.com/products/15pcs-healing-crystals-wand-stones-sets-natural-reiki): 15 baguettes de cristaux naturels. Cristaux de guérison, Reiki et chakras. Ensemble spirituel pour méditation et rituels magiques. Enchantement Seraphélya
+  Updated: 2025-11-02T02:41:51Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6964187.webp?v=1761965802
-  Price: 87,26 $ CAD
-- [Pierres de Lune Arc-en-Ciel – 2 Pièces | Cristaux de Guérison, Sorcellerie & Décoration Spirituelle | Karma’s Gems - Enchantement Seraphélya](https://enchantementseraphelya.com/products/rainbow-moonstone-2-pieces-moonstone-crystals-rocks-crystals-and-healing-stones-witchcraft-supplies-healing-crystals-stones-healing-stones-rock-collection-crystal-decor-karmas-gems): Buy Pierres de Lune Arc-en-Ciel – 2 Pièces | Cristaux de Guérison, Sorcellerie & Décoration Spirituelle | Karma’s Gems for only CA$82.12 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:49Z
+  Price: 68,00 $ CAD
+- [Pierres de Lune Arc-en-Ciel – 2 Pièces | Guérison](https://enchantementseraphelya.com/products/rainbow-moonstone-2-pieces-crystals-rocks-crystals-lune): Pierres de Lune arc-en-ciel naturelles. Cristaux de guérison, rituels lunaires et décoration spirituelle. Énergie féminine et intuition. Enchantement Seraphélya
+  Updated: 2025-11-02T02:48:28Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2764108.webp?v=1761965801
-  Price: 82,12 $ CAD
-- [Pendule en Aventurine Verte Naturelle – Cristal de Guérison, Divination & Équilibre Énergétique | GEHECRST - Enchantement Seraphélya](https://enchantementseraphelya.com/products/gehecrst-green-aventurine-crystal-pendulum-for-divination-natural-healing-crystal-point-dowsing-pendulum-gemstone-pendulum-pendants-for-wicca-witchcraft-energy-balancing-meditation-gift-christmas): Buy Pendule en Aventurine Verte Naturelle – Cristal de Guérison, Divination & Équilibre Énergétique | GEHECRST for only CA$58.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:50Z
+  Price: 56,37 $ CAD
+- [Pendule en Aventurine Verte Naturelle - Seraphélya](https://enchantementseraphelya.com/products/pendule-green-aventurine-crystal-pendulum-divination): Pendule en aventurine verte naturelle. Cristal de guérison et divination pour Reiki, méditation et sorcellerie. Pierre du cœur et de la chance.
+  Updated: 2025-11-02T02:54:34Z
   Vendor: Enchantement Seraphélya 
   Product Type: pendule
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8568163.webp?v=1761965735
-  Price: 58,26 $ CAD
-- [Sweat à Capuche Long Femme – Style Lune Gothique & Sorcellerie Vintage - Enchantement Seraphélya](https://enchantementseraphelya.com/products/diffstyle-women-moon-gothic-witchcraft-punk-vintage-casual-long-hoodies-top-sweatshirt): Buy Sweat à Capuche Long Femme – Style Lune Gothique & Sorcellerie Vintage for only CA$131.11 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:50Z
+  Price: 48,00 $ CAD
+- [Sweat à Capuche Long Femme – Style Lune Gothique & Vintage](https://enchantementseraphelya.com/products/sweat-women-moon-gothic-witchcraft-punk-vintage-sweatshirt): Sweat à capuche long femme style lune gothique et sorcellerie vintage. Confort mystique et allure witchy pour les âmes spirituelles
+  Updated: 2025-11-02T01:31:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: Sweat à capuche
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5624307.webp?v=1761965735
-  Price: 131,11 $ CAD
-- [Cristaux de Célestite Bleue Naturelle – Géode Brute 0,3 lb | Pierre Angélique de Guérison et de Méditation Spirituelle | Nvzi - Enchantement Seraphélya](https://enchantementseraphelya.com/products/nvzi-celestite-crystals-crystal-clusters-raw-crystals-witchcraft-crystals-blue-calcite-crystal-angelite-crystal-blue-crystal-witchcraft-supplies-crystals-and-healing-stones0-3lb): Buy Cristaux de Célestite Bleue Naturelle – Géode Brute 0,3 lb | Pierre Angélique de Guérison et de Méditation Spirituelle | Nvzi for only CA$76.97 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:51Z
+  Price: 81,11 $ CAD
+- [Célestite Bleue Naturelle – Géode Brute | Pierre Angélique](https://enchantementseraphelya.com/products/pierre-celestite-crystals-witchcraft-blue-calcite-angelite): Cristal brut de célestite bleue naturelle 0,3 lb. Pierre angélique de paix, méditation et guérison énergétique. Énergie douce et céleste. Seraphélya
+  Updated: 2025-11-02T03:41:28Z
   Vendor: Enchantement Seraphélya 
   Product Type: Pierres et cristaux
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3863896.webp?v=1761965736
-  Price: 76,97 $ CAD
-- [Nappe d’Autel de Tarot Noire – Cercle du Zodiaque & Sorcellerie Astrologique 60 x 60 cm - Enchantement Seraphélya](https://enchantementseraphelya.com/products/horaldaily-tarot-altar-tablecloth-60x60-inch-square-black-horoscope-witchcraft-zodiac-circle-washable-seasonal-table-cover-for-party-picnic-dinner-decor): Buy Nappe d’Autel de Tarot Noire – Cercle du Zodiaque & Sorcellerie Astrologique 60 x 60 cm for only CA$56.19 at Enchantement Seraphélya!
-  Updated: 2025-11-01T08:43:22Z
+  Price: 44,73 $ CAD
+- [Nappe d’Autel de Tarot Noire – Zodiaque & Astrologique](https://enchantementseraphelya.com/products/horaldaily-altar-black-horoscope-witchcraft-zodiac-nappe): Buy Nappe d’Autel de Tarot Noire – Cercle du Zodiaque & Sorcellerie Astrologique 60 x 60 cm for only CA$56.19 at Enchantement Seraphélya!
+  Updated: 2025-11-02T01:36:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: Nappe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2610372.webp?v=1761965736
   Price: 56,19 $ CAD
-- [Coffret de Sorcellerie Wicca – 130 pièces | Kit de Protection, Cristaux, Herbes et Bougies pour Débutants - Enchantement Seraphélya](https://enchantementseraphelya.com/products/shyshiny-wiccan-supplies-and-tools-for-protection-130pack-witchcraft-supplies-witchy-gift-for-beginners-dried-herbs-crystals-candles-witch-starter-spell-kit): Buy Coffret de Sorcellerie Wicca – 130 pièces | Kit de Protection, Cristaux, Herbes et Bougies pour Débutants for only CA$189.89 at Enchantement Seraphélya!
-  Updated: 2025-11-01T08:49:17Z
+- [Coffret de Sorcellerie Wicca – 130 pièces | Seraphélya](https://enchantementseraphelya.com/products/shyshiny-wicca-tools-for-protection-130pack-witchcraft): Coffret wicca 130 pièces pour la protection : herbes, cristaux, bougies et outils magiques pour sorcières débutantes et rituels spirituels
+  Updated: 2025-11-02T01:39:15Z
   Vendor: Enchantement Seraphélya 
   Product Type: Kit rituel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5398057.webp?v=1761965735
-  Price: 189,89 $ CAD
-- [Nappe d’Autel de Tarot – Déesse Triple & Pentacle | Symboles Païens, Soleil & Lune – 66 x 66 cm - Enchantement Seraphélya](https://enchantementseraphelya.com/products/altar-tarot-cloth-triple-goddess-with-pentagram-cloth-tentacle-pegan-triquetra-flannel-sun-moon-tablecloth-witchcraft-man-cave-room-bar-home-wall-decor-triple-goddess-pentagram-26-x-26-inches): Buy Nappe d’Autel de Tarot – Déesse Triple & Pentacle | Symboles Païens, Soleil & Lune – 66 x 66 cm for only CA$46.89 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:52Z
+  Price: 148,44 $ CAD
+- [Nappe d’Autel de Tarot – Déesse Triple & Pentacle](https://enchantementseraphelya.com/products/altar-tarot-triple-goddess-pentagram-moon-witchcraft-nappe): Nappe d'autel triple déesse et pentacle 66 x 66 cm. Flanelle douce pour tirages de tarot, rituels lunaires et décor spirituel païen.
+  Updated: 2025-11-02T01:47:39Z
   Vendor: Enchantement Seraphélya 
   Product Type: Nappe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5013688.webp?v=1761965801
-  Price: 46,89 $ CAD
-- [Nappe d’Autel et Pochette de Tarot – Rouge Magique | Tissu Divinatoire pour Sorcières et Rituels Sacrés - Enchantement Seraphélya](https://enchantementseraphelya.com/products/blessume-witch-altar-tarot-table-cloth-and-pouch-square-divination-tarot-cloth-red): Buy Nappe d’Autel et Pochette de Tarot – Rouge Magique | Tissu Divinatoire pour Sorcières et Rituels Sacrés for only CA$79.99 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:53Z
+  Price: 44,73 $ CAD
+- [Nappe d’Autel et Pochette de Tarot – Rouge Magique](https://enchantementseraphelya.com/products/nappe-witch-altar-tarot-square-divination-tarot-cloth-red): Nappe et pochette de tarot rouge BLESSUME. Tissu sacré pour autel, rituels et divination. Élégance et énergie magique pour vos tirages
+  Updated: 2025-11-02T01:56:34Z
   Vendor: Enchantement Seraphélya 
   Product Type: Nappe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8672599.webp?v=1761965735
-  Price: 79,99 $ CAD
-- [Jeu de Cartes de Tarot Classique pour Débutants – Cartes Noires avec Significations et Guide Illustré | KLEDERY (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/kledery-tarot-cards-for-beginners-classic-tarot-cards-with-meanings-on-them-durable-tarot-cards-with-guide-book-for-beginners-black): Buy Jeu de Cartes de Tarot Classique pour Débutants – Cartes Noires avec Significations et Guide Illustré | KLEDERY (version anglaise) for only CA$48.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:54Z
+  Price: 76,01 $ CAD
+- [Tarot – Cartes Noires avec Significations et Guide | KLEDERY](https://enchantementseraphelya.com/products/kledery-tarot-cards-for-beginners-classic-tarot-cards): Jeu de tarot pour débutants avec significations sur chaque carte. 78 cartes noires avec guide illustré. Idéal pour l'apprentissage et la divination.
+  Updated: 2025-11-02T03:50:22Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8068588.webp?v=1761965735
-  Price: 48,26 $ CAD
-- [Jeu de Cartes de Tarot Doré – Édition WJPC avec Guide Illustré et Coffret Cadeau | Pour Débutants & Initiés (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/wjpc-gold-foil-tarot-cards-with-guide-book-set-gift-box-for-beginner-expert-original-designtarot-decks-tarot-cards-decks): Buy Jeu de Cartes de Tarot Doré – Édition WJPC avec Guide Illustré et Coffret Cadeau | Pour Débutants & Initiés (version anglaise) for only CA$74.38 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:54Z
+  Price: 48,00 $ CAD
+- [Tarot Doré – Édition WJPC avec Guide Illustré et Coffret](https://enchantementseraphelya.com/products/wjpc-gold-foil-tarot-cards-with-guide-book-set-gift-box): Jeu de tarot doré WJPC avec guide et coffret. 78 cartes luxueuses pour divination, méditation et pratique spirituelle. Cadeau mystique parfait. Seraphélya
+  Updated: 2025-11-02T04:00:50Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8101222.webp?v=1761965735
-  Price: 74,38 $ CAD
-- [Jeu de Tarot “Wild Reflections” – Tarot Inspiré de la Nature avec Guide Illustré | Wyspell (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/wyspell-wild-reflections-tarot-cards-nature-inspired-tarot-cards-with-guide-book-beautiful-tarot-cards-set-tarot-cards-for-beginners): Buy Jeu de Tarot “Wild Reflections” – Tarot Inspiré de la Nature avec Guide Illustré | Wyspell (version anglaise) for only CA$72.57 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:55Z
+  Price: 64,38 $ CAD
+- [Tarot “Wild Reflections” avec Guide | Wyspell](https://enchantementseraphelya.com/products/wyspell-wild-reflections-tarot-cards-nature-inspired-guide): Jeu de tarot Wyspell inspiré de la nature. 78 cartes et guide illustré pour divination, intuition et connexion spirituelle. Enchantement Seraphélya
+  Updated: 2025-11-02T04:07:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7056985.webp?v=1761965801
   Price: 72,57 $ CAD
-- [Jeu de Tarot Wyspell pour l’Apprentissage – Cartes avec Significations et Guide Illustré | Tarot pour Débutants (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/wyspell-tarot-for-learning-tarot-cards-with-meanings-on-them-beginner-tarot-deck-with-meanings-on-them-tarot-cards-for-beginners-with-guide-book): Buy Jeu de Tarot Wyspell pour l’Apprentissage – Cartes avec Significations et Guide Illustré | Tarot pour Débutants (version anglaise) for only CA$59.47 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:49:09Z
+- [Tarot Wyspell pour l’Apprentissage – Guide Illustré](https://enchantementseraphelya.com/products/wyspell-tarot-for-learning-tarot-cards-meanings-beginner): Jeu de tarot Wyspell pour débutants. 78 cartes avec significations imprimées et guide illustré pour apprendre la divination facilement. Enchantement Seraphélya
+  Updated: 2025-11-02T04:11:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1492459.webp?v=1761965802
   Price: 59,47 $ CAD
-- [Jeu de Tarot Classique pour Débutants – 78 Cartes Noires avec Significations Imprimées | Apprentissage & Divination sans Guide (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/tarot-cards-for-beginners-classic-tarot-cards-with-meanings-on-them-78-tarot-deck-set-learning-tarot-deck-no-guide-book-needed-learning-tarot-cards-set-tarot-deck-fortune-telling-game-black): Buy Jeu de Tarot Classique pour Débutants – 78 Cartes Noires avec Significations Imprimées | Apprentissage & Divination sans Guide (version anglaise) for only CA$44.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:56Z
+- [Tarot Classique pour Débutants – 78 Cartes Noires](https://enchantementseraphelya.com/products/tarot-cards-for-beginners-classic-tarot-cards-78-tarot): Jeu de tarot pour débutants. 78 cartes noires avec significations imprimées. Apprentissage facile sans guide. Tarot de divination et d'intuition. Seraphélya
+  Updated: 2025-11-02T04:16:25Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3414602.webp?v=1761965734
-  Price: 44,98 $ CAD
-- [Tapis de Tarot et Autel en Soie – Ensemble avec Pochette pour Cartes | Accessoire de Lecture et de Divination Knana - Enchantement Seraphélya](https://enchantementseraphelya.com/products/knana-tarot-cloth-altar-cloth-tarot-mat-witchcraft-tarot-cloth-silk-for-reading-tarot-accessories-tarot-cloth-for-spread-with-tarot-card-bag-tarot-card-layout): Buy Tapis de Tarot et Autel en Soie – Ensemble avec Pochette pour Cartes | Accessoire de Lecture et de Divination Knana for only CA$65.66 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:56Z
+  Price: 44,73 $ CAD
+- [Tapis de Tarot et Autel en Soie avec Pochette pour Cartes](https://enchantementseraphelya.com/products/knana-tarot-altar-tarot-mat-witchcraft-cloth-reading-tapis): Tapis de tarot en soie avec pochette assortie. Accessoire mystique pour autel, tirages de tarot et pratiques spirituelles. Enchantement Seraphélya
+  Updated: 2025-11-02T04:22:49Z
   Vendor: Enchantement Seraphélya 
   Product Type: Nappe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9131992.webp?v=1761965735
-  Price: 65,66 $ CAD
-- [Jeu de Tarot de Luxe SIOKUY – Édition “Soleil Doré” | Cartes Imperméables avec Finition Or & Design Classique Élégant (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/siokuy-tarot-cards-deck-luxury-tarot-card-deck-splendid-classic-tarot-deck-durable-waterproof-gold-foil-tarot-decks-for-beginners-gold-sun): Buy Jeu de Tarot de Luxe SIOKUY – Édition “Soleil Doré” | Cartes Imperméables avec Finition Or & Design Classique Élégant (version anglaise) for only CA$102.69 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:57Z
+  Price: 64,56 $ CAD
+- [Tarot de Luxe SIOKUY – Édition “Soleil Doré”](https://enchantementseraphelya.com/products/siokuy-tarot-deck-luxury-splendid-classic-waterproof-gold): Jeu de tarot de luxe doré SIOKUY. 78 cartes imperméables au design "Soleil Doré". Élégant, durable et parfait pour la divination spirituelle.
+  Updated: 2025-11-02T04:30:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2365426.webp?v=1761965735
-  Price: 102,69 $ CAD
-- [Jeu de Tarot Witchy Cauldron – Édition Espagnole pour Débutants | Cartes avec Significations, Chakras, Planètes & Symboles du Zodiaque - Enchantement Seraphélya](https://enchantementseraphelya.com/products/witchy-cauldron-spanish-learning-tarot-card-for-beginners-with-meanings-on-them-training-beginner-tarot-for-tarot-learners-including-chakra-planet-zodiac-element-yes-or-no): Buy Jeu de Tarot Witchy Cauldron – Édition Espagnole pour Débutants | Cartes avec Significations, Chakras, Planètes & Symboles du Zodiaque for only CA$64.38 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:57Z
+  Price: 62,92 $ CAD
+- [Tarot Witchy Cauldron – Édition Espagnole pour Débutants](https://enchantementseraphelya.com/products/witchy-cauldron-spanish-learning-tarot-beginners-meaning): Jeu de tarot espagnol Witchy Cauldron pour débutants. 78 cartes avec significations, chakras, planètes et signes du zodiaque. Enchantement Seraphélya
+  Updated: 2025-11-02T04:37:30Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2854523.webp?v=1761965801
   Price: 64,38 $ CAD
-- [Étui de Protection pour Cartes de Tarot en Cuir PU – Motif Lunaire | Pochette de Rangement Élégante pour Jeux de Tarot Standard – JUXYES - Enchantement Seraphélya](https://enchantementseraphelya.com/products/juxyes-pu-leather-tarot-card-protective-case-moon-pattern-design-tarot-deck-storage-pouch-tarot-card-holder-tarot-pouch-bag-for-playing-cards-and-standard-size-tarot-cards-tarot-deck): Buy Étui de Protection pour Cartes de Tarot en Cuir PU – Motif Lunaire | Pochette de Rangement Élégante pour Jeux de Tarot Standard – JUXYES for only CA$54.88 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:58Z
+- [Étui de Protection pour Cartes de Tarot en Cuir PU](https://enchantementseraphelya.com/products/juxyes-leather-tarot-card-protective-case-design-storage): Étui JUXYES en cuir PU avec motif de lune. Pochette élégante et protectrice pour jeux de tarot, cartes oracle ou accessoires spirituels. Enchantement Seraphélya
+  Updated: 2025-11-02T04:43:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: Tarot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3601838.webp?v=1761965736
-  Price: 54,88 $ CAD
-- [Oracle “Wild Soul” – Cartes des Esprits Animaux avec Guide Illustré | Oracle de la Nature & des Âmes Sauvages (version anglaise) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/the-wild-soul-oracle-cards-spirit-animal-oracle-deck-with-guidebook-nature-oracle-cards-deck-oracle-decks-unique-animal-oracle-cards-with-guide-book-oracle-cards-with-meanings-on-them): Buy Oracle “Wild Soul” – Cartes des Esprits Animaux avec Guide Illustré | Oracle de la Nature & des Âmes Sauvages (version anglaise) for only CA$61.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:58Z
+  Price: 54,56 $ CAD
+- [Oracle “Wild Soul” – Cartes des Esprits Animaux et Nature](https://enchantementseraphelya.com/products/the-wild-soul-oracle-cards-spirit-animal-deck-nature): Oracle des esprits animaux Wild Soul. Cartes illustrées avec significations et guide inclus. Connexion à la nature, intuition et guidance spirituelle.
+  Updated: 2025-11-02T05:04:38Z
   Vendor: Enchantement Seraphélya 
   Product Type: Oracle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7388629.webp?v=1761965736
-  Price: 61,27 $ CAD
+  Price: 51,27 $ CAD
 - [Love Oracle Cards，Oracle Cards，Oracle Cards with Meanings on Them，Answers to Guide You in Solving Life and Love Problems - Enchantement Seraphélya](https://enchantementseraphelya.com/products/love-oracle-cards-oracle-cards-oracle-cards-with-meanings-on-them-answers-to-guide-you-in-solving-life-and-love-problems): Buy Love Oracle Cards，Oracle Cards，Oracle Cards with Meanings on Them，Answers to Guide You in Solving Life and Love Problems for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:52:41Z
+  Updated: 2025-11-01T23:27:08Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4439396.webp?v=1761965801
-  Price: 87,26 $ CAD
+  Price: 38,00 $ CAD
 - [Qcsdckot Higher Self Messages Oracle Cards Deck Cosmic Oracle Cards Positive Affirmations Cards Spirit Oracle Deck Help You Create Your Best Life as You Work Toward Your Goals - Enchantement Seraphélya](https://enchantementseraphelya.com/products/qcsdckot-higher-self-messages-oracle-cards-deck-cosmic-oracle-cards-positive-affirmations-cards-spirit-oracle-deck-help-you-create-your-best-life-as-you-work-toward-your-goals): Buy Qcsdckot Higher Self Messages Oracle Cards Deck Cosmic Oracle Cards Positive Affirmations Cards Spirit Oracle Deck Help You Create Your Best Life as You Work Toward Your Goals for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:47:59Z
+  Updated: 2025-11-01T23:26:42Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4839774.webp?v=1761965735
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [DPEHAKMK Whats Blocking You? Love Oracle Cards Singles Relationship Oracle Deck for Beginners Uncover Emotional Barriers Gain Clarity in Love RelationshipsRomance Twin FlameSoulmate - Enchantement Seraphélya](https://enchantementseraphelya.com/products/dpehakmk-whats-blocking-you-love-oracle-cards-singles-relationship-oracle-deck-for-beginners-uncover-emotional-barriers-gain-clarity-in-love-relationshipsromance-twin-flamesoulmate): Buy DPEHAKMK Whats Blocking You? Love Oracle Cards Singles Relationship Oracle Deck for Beginners Uncover Emotional Barriers Gain Clarity in Love RelationshipsRomance Twin FlameSoulmate for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:00Z
+  Updated: 2025-11-01T23:24:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7526989.webp?v=1761965735
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [Qcsdckot Angel Numbers Oracle Cards Oracle Cards for Beginners Enhance Your Spiritual Journey with The Angel Number Affirmation Cards - Enchantement Seraphélya](https://enchantementseraphelya.com/products/qcsdckot-angel-numbers-oracle-cards-oracle-cards-for-beginners-enhance-your-spiritual-journey-with-the-angel-number-affirmation-cards): Buy Qcsdckot Angel Numbers Oracle Cards Oracle Cards for Beginners Enhance Your Spiritual Journey with The Angel Number Affirmation Cards for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:00Z
+  Updated: 2025-11-01T23:24:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5341155.webp?v=1761965802
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [GZXINKE Cosmic Oracle Cards Universe Message Oracle Cards for Beginners Inner Strength Spiritual Guidance Oracle Deck Universal Wisdom for Daily Use Readings and Meditation - Enchantement Seraphélya](https://enchantementseraphelya.com/products/gzxinke-cosmic-oracle-cards-universe-message-oracle-cards-for-beginners-inner-strength-spiritual-guidance-oracle-deck-universal-wisdom-for-daily-use-readings-and-meditation): Buy GZXINKE Cosmic Oracle Cards Universe Message Oracle Cards for Beginners Inner Strength Spiritual Guidance Oracle Deck Universal Wisdom for Daily Use Readings and Meditation for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:01Z
+  Updated: 2025-11-01T23:23:39Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9451861.webp?v=1761965734
-  Price: 87,26 $ CAD
+  Price: 48,00 $ CAD
 - [Jrskvaro Time Oracle Cards Deck Cosmic Timing Oracle Cards Oracle Cards for Beginners Divine Timing Oracle Deck to Help You Predict Time Frames. - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jrskvaro-time-oracle-cards-deck-cosmic-timing-oracle-cards-oracle-cards-for-beginners-divine-timing-oracle-deck-to-help-you-predict-time-frames): Buy Jrskvaro Time Oracle Cards Deck Cosmic Timing Oracle Cards Oracle Cards for Beginners Divine Timing Oracle Deck to Help You Predict Time Frames. for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:01Z
+  Updated: 2025-11-01T23:22:30Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1828389.webp?v=1761965735
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [ZHQGYN Evil Eye Oracle Cards Haters Exposed Return to Sender Oracle Cards for Insight and Discovery Eyewitness Exposed Deck of Wisdom and Revelation - Enchantement Seraphélya](https://enchantementseraphelya.com/products/zhqgyn-evil-eye-oracle-cards-haters-exposed-return-to-sender-oracle-cards-for-insight-and-discovery-eyewitness-exposed-deck-of-wisdom-and-revelation): Buy ZHQGYN Evil Eye Oracle Cards Haters Exposed Return to Sender Oracle Cards for Insight and Discovery Eyewitness Exposed Deck of Wisdom and Revelation for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:02Z
+  Updated: 2025-11-01T23:21:45Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7380604.webp?v=1761965736
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [Earth Moon Magick - Tarot of The Shadow Realm - 78 + 2 Extra Cards Guidebook with Keywords Tarot Oracle Cards Set Ideal for Shadow Work Perfect for Beginners & Advanced Readers - Enchantement Seraphélya](https://enchantementseraphelya.com/products/earth-moon-magick-tarot-of-the-shadow-realm-78-2-extra-cards-guidebook-with-keywords-tarot-oracle-cards-set-ideal-for-shadow-work-perfect-for-beginners-advanced-readers): Buy Earth Moon Magick - Tarot of The Shadow Realm - 78 + 2 Extra Cards Guidebook with Keywords Tarot Oracle Cards Set Ideal for Shadow Work Perfect for Beginners & Advanced Readers for only CA$205.73 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:51:30Z
+  Updated: 2025-11-01T23:20:49Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4477139.webp?v=1761965801
-  Price: 205,73 $ CAD
+  Price: 95,52 $ CAD
 - [netjoy Yes No Oracle Cards Deck Intuition Oracle Cards Oracle Cards for Beginners Icebreaker Cards Seeking a Simple and Direct Answer - Enchantement Seraphélya](https://enchantementseraphelya.com/products/netjoy-yes-no-oracle-cards-deck-intuition-oracle-cards-oracle-cards-for-beginners-icebreaker-cards-seeking-a-simple-and-direct-answer): Buy netjoy Yes No Oracle Cards Deck Intuition Oracle Cards Oracle Cards for Beginners Icebreaker Cards Seeking a Simple and Direct Answer for only CA$112.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:52:34Z
+  Updated: 2025-11-01T23:19:47Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8355956.webp?v=1761965802
-  Price: 112,98 $ CAD
+  Price: 46,19 $ CAD
 - [About my Brain Goddess Oracle Deck | 60 Oracle Cards and Pocket Guidebook | Goddesses of The World - Enchantement Seraphélya](https://enchantementseraphelya.com/products/about-my-brain-goddess-oracle-deck-60-oracle-cards-and-pocket-guidebook-goddesses-of-the-world): Buy About my Brain Goddess Oracle Deck | 60 Oracle Cards and Pocket Guidebook | Goddesses of The World for only CA$164.42 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:03Z
+  Updated: 2025-11-01T23:18:53Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3903002.webp?v=1761965736
-  Price: 164,42 $ CAD
+  Price: 82,57 $ CAD
 - [GZXINKE Twin Flame Love Oracle Cards Soulmate Oracle Deck Karmic Situation for Love Relationships Oracle Cards for Beginners Will Get to The True of Any Situationship - Enchantement Seraphélya](https://enchantementseraphelya.com/products/gzxinke-twin-flame-love-oracle-cards-soulmate-oracle-deck-karmic-situation-for-love-relationships-oracle-cards-for-beginners-will-get-to-the-true-of-any-situationship): Buy GZXINKE Twin Flame Love Oracle Cards Soulmate Oracle Deck Karmic Situation for Love Relationships Oracle Cards for Beginners Will Get to The True of Any Situationship for only CA$181.64 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:53:38Z
+  Updated: 2025-11-01T23:18:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7452565.webp?v=1761965735
-  Price: 181,64 $ CAD
+  Price: 88,06 $ CAD
 - [Trikendou Unsent Letters Oracle Cards Deck [Things I Wish I Could Tell You...] Love Oracle Card Deck - Enchantement Seraphélya](https://enchantementseraphelya.com/products/trikendou-unsent-letters-oracle-cards-deck-things-i-wish-i-could-tell-you-love-oracle-card-deck): Buy Trikendou Unsent Letters Oracle Cards Deck [Things I Wish I Could Tell You...] Love Oracle Card Deck for only CA$159.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:53:57Z
+  Updated: 2025-11-01T23:17:10Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5245395.webp?v=1761965736
-  Price: 159,26 $ CAD
+  Price: 80,94 $ CAD
 - [DPEHAKMK Life Situations Oracle Cards Love and Spiritual Growth Oracle Cards for Beginners Relationships Oracle Deck Healing Oracle Deck for Spiritual Development - Enchantement Seraphélya](https://enchantementseraphelya.com/products/dpehakmk-life-situations-oracle-cards-love-and-spiritual-growth-oracle-cards-for-beginners-relationships-oracle-deck-healing-oracle-deck-for-spiritual-development): Buy DPEHAKMK Life Situations Oracle Cards Love and Spiritual Growth Oracle Cards for Beginners Relationships Oracle Deck Healing Oracle Deck for Spiritual Development for only CA$107.83 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:05Z
+  Updated: 2025-11-01T23:16:23Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1746618.webp?v=1761965736
-  Price: 107,83 $ CAD
+  Price: 54,56 $ CAD
 - [Metaphoracle Blank Tarot Cards with Design on Back - DIY Deck of 80 Cards to Create Your Own Oracle Tarot Deck - Sacred Geometry Design with Metallic Gold Foil - 4.75 inches x 2.75 inches (Red) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/metaphoracle-blank-tarot-cards-with-design-on-back-diy-deck-of-80-cards-to-create-your-own-oracle-tarot-deck-sacred-geometry-design-with-metallic-gold-foil-4-75-inches-x-2-75-inches-red): Buy Metaphoracle Blank Tarot Cards with Design on Back - DIY Deck of 80 Cards to Create Your Own Oracle Tarot Deck - Sacred Geometry Design with Metallic Gold Foil - 4.75 inches x 2.75 inches (Red) for only CA$117.89 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:05Z
+  Updated: 2025-11-01T23:15:50Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4600365.webp?v=1761965737
-  Price: 117,89 $ CAD
+  Price: 47,76 $ CAD
 - [Ocean Of Wisdom Oracle Cards Under the Sea Oracle Cards with Mystical Creatures Underwater and Nautical themed Oracle Deck Oracle Cards for Beginners Oracle Cards With Meanings on Them - Enchantement Seraphélya](https://enchantementseraphelya.com/products/ocean-of-wisdom-oracle-cards-under-the-sea-oracle-cards-with-mystical-creatures-underwater-and-nautical-themed-oracle-deck-oracle-cards-for-beginners-oracle-cards-with-meanings-on-them): Buy Ocean Of Wisdom Oracle Cards Under the Sea Oracle Cards with Mystical Creatures Underwater and Nautical themed Oracle Deck Oracle Cards for Beginners Oracle Cards With Meanings on Them for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:06Z
+  Updated: 2025-11-01T23:13:36Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2811167.webp?v=1761965736
-  Price: 123,27 $ CAD
+  Price: 59,47 $ CAD
 - [DPEHAKMK Clarifying Love Situations Oracle Cards Shadow Work Deck for Twin Flames Soulmates Relationships 56 Cards Ages 13 and Up - Enchantement Seraphélya](https://enchantementseraphelya.com/products/dpehakmk-clarifying-love-situations-oracle-cards-shadow-work-deck-for-twin-flames-soulmates-relationships-56-cards-ages-13-and-up): Buy DPEHAKMK Clarifying Love Situations Oracle Cards Shadow Work Deck for Twin Flames Soulmates Relationships 56 Cards Ages 13 and Up for only CA$107.83 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:06Z
+  Updated: 2025-11-01T23:12:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5144937.webp?v=1761965736
-  Price: 107,83 $ CAD
+  Price: 54,56 $ CAD
 - [Trikendou The Answer Oracle Cards Deck A 78-Card Intuition Tarot Deck for Tarot Clarify for New and Experienced Tarot Reader Fresh Style Suitable for Single Card Draw and 3 Cards Spread - Enchantement Seraphélya](https://enchantementseraphelya.com/products/trikendou-the-answer-oracle-cards-deck-a-78-card-intuition-tarot-deck-for-tarot-clarify-for-new-and-experienced-tarot-reader-fresh-style-suitable-for-single-card-draw-and-3-cards-spread): Buy Trikendou The Answer Oracle Cards Deck A 78-Card Intuition Tarot Deck for Tarot Clarify for New and Experienced Tarot Reader Fresh Style Suitable for Single Card Draw and 3 Cards Spread for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:06Z
+  Updated: 2025-11-01T23:12:03Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3114394.webp?v=1761965727
-  Price: 123,27 $ CAD
+  Price: 69,47 $ CAD
 - [Empowering Messages Oracle Cards Oracle Cards for Beginners Energy Healing Oracle Cards72 Oracle Cards for Discovering Yourself Path - Enchantement Seraphélya](https://enchantementseraphelya.com/products/empowering-messages-oracle-cards-oracle-cards-for-beginners-energy-healing-oracle-cards72-oracle-cards-for-discovering-yourself-path): Buy Empowering Messages Oracle Cards Oracle Cards for Beginners Energy Healing Oracle Cards72 Oracle Cards for Discovering Yourself Path for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:58:44Z
+  Updated: 2025-11-01T23:11:27Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2705094.webp?v=1761965727
-  Price: 87,26 $ CAD
+  Price: 48,00 $ CAD
 - [Artoid Mode Astrology Moon Magic Art Table Runner Seasonal Mystical Gothic Kitchen Dining Table Decoration for Home Party Decor 13x72 Inch - Enchantement Seraphélya](https://enchantementseraphelya.com/products/artoid-mode-astrology-moon-magic-art-table-runner-seasonal-mystical-gothic-kitchen-dining-table-decoration-for-home-party-decor-13x72-inch): Buy Artoid Mode Astrology Moon Magic Art Table Runner Seasonal Mystical Gothic Kitchen Dining Table Decoration for Home Party Decor 13x72 Inch for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:07Z
+  Updated: 2025-11-02T11:10:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/IOWC8l9J7GaS1XIz.webp?v=1761971617
-  Price: 87,26 $ CAD
-- [ZCCLINN Libra Bracelets Birthday Gifts - Zodiac Astrology Bracelets Present for Women Horoscope Libra Constellation Crystal Purple Unique Jewelry with Wish Card for Mom Friend Lady - Enchantement Seraphélya](https://enchantementseraphelya.com/products/zcclinn-libra-bracelets-birthday-gifts-zodiac-astrology-bracelets-present-for-women-horoscope-libra-constellation-crystal-purple-unique-jewelry-with-wish-card-for-mom-friend-lady): Buy ZCCLINN Libra Bracelets Birthday Gifts - Zodiac Astrology Bracelets Present for Women Horoscope Libra Constellation Crystal Purple Unique Jewelry with Wish Card for Mom Friend Lady for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:08Z
-  Vendor: Enchantement Seraphélya 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/jSdfwVYaeTJIEfUA.webp?v=1761971641
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5002707.webp?v=1762081857
+  Price: 48,00 $ CAD
 - [Custom Astrology Orgone Pendulum Pendant Necklace - Enchantement Seraphélya](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace): Buy Custom Astrology Orgone Pendulum Pendant Necklace for only CA$32.00 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:08Z
+  Updated: 2025-11-02T11:11:52Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EJIzGNWQUfRQKaNc.webp?v=1761971926
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6030341.webp?v=1762081910
   - [Green Aventurine](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385805043)
     Availability: Available
-    Price: 32,00 $ CAD
+    Price: 32,67 $ CAD
   - [Onyx](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385837811)
     Availability: Available
-    Price: 32,00 $ CAD
+    Price: 32,67 $ CAD
   - [Strawberry Quartz](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385870579)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EJIzGNWQUfRQKaNc.webp?v=1761971926
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6030341.webp?v=1762081910
+    Price: 32,67 $ CAD
   - [Alabaster](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385903347)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/oIx011oJH5F12aBQ.webp?v=1761971982
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2374632.webp?v=1762081909
+    Price: 32,67 $ CAD
   - [amethyst](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385936115)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/wrKEz5otBO0VOyym.webp?v=1761971948
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6432633.webp?v=1762081910
+    Price: 32,67 $ CAD
   - [Red Jasper](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983385968883)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/1Dc6iB5UyPekWsLX.webp?v=1761971981
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5176538.webp?v=1762081911
+    Price: 32,67 $ CAD
   - [Aquamarine](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983386001651)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ZKhTCT4G9AYvIwJR.webp?v=1761971960
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9831442.webp?v=1762081862
+    Price: 32,67 $ CAD
   - [Tiger Eye Stone](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983386034419)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/UYEl3TVXSDCyVwZV.webp?v=1761971970
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8948975.webp?v=1762081910
+    Price: 32,67 $ CAD
   - [Rose Quartz](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983386067187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/E7cPlXq5bwPVjmmD.webp?v=1761971994
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1125769.webp?v=1762081862
+    Price: 32,67 $ CAD
   - [lapis lazuli](https://enchantementseraphelya.com/products/custom-astrology-orgone-pendulum-pendant-necklace?variant=47983386099955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/Q34B7ZF3xQ8KzLza.webp?v=1761971959
-    Price: 32,00 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1972410.webp?v=1762081861
+    Price: 32,67 $ CAD
 - [Zen Flow Incense Holder - Enchantement Seraphélya](https://enchantementseraphelya.com/products/zen-flow-incense-holder): Buy Zen Flow Incense Holder for only CA$52.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:09Z
+  Updated: 2025-11-02T11:11:02Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/T2MvWW9ZYp5Y9JiWtuUi.webp?v=1761972352
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9777247.webp?v=1762081861
   - [Sandlewood Rack Type A](https://enchantementseraphelya.com/products/zen-flow-incense-holder?variant=47983398355187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/T2MvWW9ZYp5Y9JiWtuUi.webp?v=1761972352
-    Price: 52,98 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9777247.webp?v=1762081861
+    Price: 34,44 $ CAD
   - [Sandlewood Rack Type B](https://enchantementseraphelya.com/products/zen-flow-incense-holder?variant=47983398387955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/UIHTHqVgcFfSNtsUNORB.webp?v=1761972353
-    Price: 52,98 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2162150.webp?v=1762081861
+    Price: 34,44 $ CAD
 - [Incense Burner Upside Down Stick Holder - Enchantement Seraphélya](https://enchantementseraphelya.com/products/incense-burner-upside-down-stick-holder): Buy Incense Burner Upside Down Stick Holder for only CA$44.62 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:09Z
+  Updated: 2025-11-02T11:11:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/BCYuDKf6qLSjoTU6.webp?v=1761972400
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2414710.webp?v=1762081861
   - [Black](https://enchantementseraphelya.com/products/incense-burner-upside-down-stick-holder?variant=47983398879475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/BCYuDKf6qLSjoTU6.webp?v=1761972400
-    Price: 44,62 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2414710.webp?v=1762081861
+    Price: 43,17 $ CAD
   - [Black brown](https://enchantementseraphelya.com/products/incense-burner-upside-down-stick-holder?variant=47983398912243)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/4pXFNSYIhQ483Cf4.webp?v=1761972401
-    Price: 44,62 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4787481.webp?v=1762081861
+    Price: 43,17 $ CAD
   - [Gold brown](https://enchantementseraphelya.com/products/incense-burner-upside-down-stick-holder?variant=47983398945011)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/mrWJZcT6ZAC51TmE.webp?v=1761972402
-    Price: 46,38 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9486309.webp?v=1762081861
+    Price: 43,74 $ CAD
 - [Alloy Lotus Incense Burner - Enchantement Seraphélya](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner): Buy Alloy Lotus Incense Burner for only CA$22.86 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:10Z
+  Updated: 2025-11-02T17:29:31Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/fo5DLPQ5YLMbibLI.webp?v=1761972494
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7496652.webp?v=1762081913
   - [Single Layer Lotus Red](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399502067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/fo5DLPQ5YLMbibLI.webp?v=1761972494
-    Price: 25,06 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7496652.webp?v=1762081913
+    Price: 25,86 $ CAD
   - [Golden Lotus Three Layers](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399534835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/oerZTvGsDVLeussI.webp?v=1761972506
-    Price: 25,84 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7850308.webp?v=1762081862
+    Price: 26,11 $ CAD
   - [Red Copper Lotus Two Layers](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399567603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/Lgzdp5roLKsLHB2z.webp?v=1761972506
-    Price: 24,05 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9043603.webp?v=1762081912
+    Price: 25,55 $ CAD
   - [Single Layer Lotus Blue](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399600371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/LMWMWAvQCITnr0Wn.webp?v=1761972508
-    Price: 25,06 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8395025.webp?v=1762081911
+    Price: 25,86 $ CAD
   - [Single Layer Lotus Blue Purple](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399633139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/0EdVmvcuOc43Su1w.webp?v=1761972518
-    Price: 25,06 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6015004.webp?v=1762081862
+    Price: 25,86 $ CAD
   - [Six Lotus Bronze](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399665907)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ibSwpPbxbMf9KiBn.webp?v=1761972534
-    Price: 22,86 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1119803.webp?v=1762081861
+    Price: 25,17 $ CAD
   - [Golden Lotus Two Layers](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399698675)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/DbkfIYBMJSu58Vxh.webp?v=1761972508
-    Price: 24,88 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2592401.webp?v=1762081861
+    Price: 25,82 $ CAD
   - [Red Copper Lotus 3 Layers](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399731443)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/KdMMg82eMGs1eecg.webp?v=1761972547
-    Price: 25,33 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2001789.webp?v=1762081861
+    Price: 25,96 $ CAD
   - [Six Lotus Red Copper](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399764211)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/DpXmPGCLiK5DLv0j.webp?v=1761972559
-    Price: 22,86 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9821108.webp?v=1762081861
+    Price: 25,17 $ CAD
   - [Single Layer Lotus Hole Blue](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399796979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/C5H3odMxR0w0UHIe.webp?v=1761972534
-    Price: 25,06 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6920435.webp?v=1762081862
+    Price: 25,86 $ CAD
   - [Single Layer Lotus Gold](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399829747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/izJEcbYQYswKklGF.webp?v=1761972571
-    Price: 24,84 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2296485.webp?v=1762081861
+    Price: 25,80 $ CAD
   - [Single Layer Lotus Red Copper](https://enchantementseraphelya.com/products/alloy-lotus-incense-burner?variant=47983399862515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/cOxLKr8aiD35EPiF.webp?v=1761972495
-    Price: 24,53 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5071250.webp?v=1762081912
+    Price: 25,71 $ CAD
 - [Charcoal Discs to Burn Incense - 200 pcs Charcoal for Incense Burning - 33 mm Charcoal Tablets for Incense - Most Quick Light Charcoal Tablets – Pack of 200 Incense Charcoal Discs by M. ROSENFELD - Enchantement Seraphélya](https://enchantementseraphelya.com/products/charcoal-discs-to-burn-incense-200-pcs-charcoal-for-incense-burning-33-mm-charcoal-tablets-for-incense-most-quick-light-charcoal-tablets-pack-of-200-incense-charcoal-discs-by-m-rosenfeld): Buy Charcoal Discs to Burn Incense - 200 pcs Charcoal for Incense Burning - 33 mm Charcoal Tablets for Incense - Most Quick Light Charcoal Tablets – Pack of 200 Incense Charcoal Discs by M. ROSENFELD for only CA$138.70 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:10Z
+  Updated: 2025-11-02T11:11:13Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/hgyBSbobgMPkzEx9.webp?v=1761972522
-  Price: 138,70 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1475587.webp?v=1762081865
+  Price: 54,38 $ CAD
 - [Natural Marble Incense Holder Incense Holder for Sticks and Backflow Incense Handmade Stick Incense Holder Ideal for Smudging Incense Burning Decoration.Easily Grab All Incense Ash (Black) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/natural-marble-incense-holder-incense-holder-for-sticks-and-backflow-incense-handmade-stick-incense-holder-ideal-for-smudging-incense-burning-decoration-easily-grab-all-incense-ash-black): Buy Natural Marble Incense Holder Incense Holder for Sticks and Backflow Incense Handmade Stick Incense Holder Ideal for Smudging Incense Burning Decoration.Easily Grab All Incense Ash (Black) for only CA$128.41 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:11Z
+  Updated: 2025-11-02T17:25:27Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/01Ks69OvipuGl86P.webp?v=1761972536
-  Price: 128,41 $ CAD
-- [Cedar Incense Cones - Total 20 Cone Incense - Dual Pack of 10 Insence Cones - Incense Cones Scented - Cone Incense Scents - Insense Cones - Incent Cone - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cedar-incense-cones-total-20-cone-incense-dual-pack-of-10-insence-cones-incense-cones-scented-cone-incense-scents-insense-cones-incent-cone): Buy Cedar Incense Cones - Total 20 Cone Incense - Dual Pack of 10 Insence Cones - Incense Cones Scented - Cone Incense Scents - Insense Cones - Incent Cone for only CA$71.83 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:11Z
-  Vendor: Enchantement Seraphélya 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EOkamXf1bCrRlrqW.webp?v=1761972568
-  Price: 71,83 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7251495.webp?v=1762081909
+  Price: 61,11 $ CAD
 - [Natural Travertine Sphere Incense Burner Handmade Marble Incense Cone Burner Round Stone for Home Décor (Red) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/natural-travertine-sphere-incense-burner-handmade-marble-incense-cone-burner-round-stone-for-home-decor-red): Buy Natural Travertine Sphere Incense Burner Handmade Marble Incense Cone Burner Round Stone for Home Décor (Red) for only CA$190.13 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:12Z
+  Updated: 2025-11-02T11:11:48Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/2KqVYyk7sAAHEZzv.webp?v=1761972602
-  Price: 190,13 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6817788.webp?v=1762081908
+  Price: 90,76 $ CAD
 - [Radicaln Marble Incense Holder Black 5.5" Inch Handmade Incense Holder for Sticks with 9 Incense Holes - Ideal for Room Décor - Incense-Sticks - Ash Trays Indoor - Incense Burner - Enchantement Seraphélya](https://enchantementseraphelya.com/products/radicaln-marble-incense-holder-black-5-5-inch-handmade-incense-holder-for-sticks-with-9-incense-holes-ideal-for-room-decor-incense-sticks-ash-trays-indoor-incense-burner): Buy Radicaln Marble Incense Holder Black 5.5" Inch Handmade Incense Holder for Sticks with 9 Incense Holes - Ideal for Room Décor - Incense-Sticks - Ash Trays Indoor - Incense Burner for only CA$119.97 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:12Z
+  Updated: 2025-11-02T11:11:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6o3FYk2qESoEXAo6.webp?v=1761972623
-  Price: 119,97 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3736774.webp?v=1762081860
+  Price: 58,42 $ CAD
 - [Comeon Skull Decor Incense Stick Holder Reverse Flow Censer Incense Waterfall Burner + Backflow Incense Cones Incense Sticks Tweezer Mat (Dont Listen) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/comeon-skull-decor-incense-stick-holder-reverse-flow-censer-incense-waterfall-burner-backflow-incense-cones-incense-sticks-tweezer-mat-dont-listen): Buy Comeon Skull Decor Incense Stick Holder Reverse Flow Censer Incense Waterfall Burner + Backflow Incense Cones Incense Sticks Tweezer Mat (Dont Listen) for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:13Z
+  Updated: 2025-11-02T11:11:07Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/snZC4nXI7ok5UyUO.webp?v=1761972696
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8067531.webp?v=1762081866
+  Price: 68,00 $ CAD
 - [RJINGSHI Natural Crystal Magic Sweeper Amethyst Tower Broom 7.08"-7.87" Healing Crystal Point Witch Altar Supplies for Crystal Therapy Cleaning Bedroom Office Home Decor Gift - Enchantement Seraphélya](https://enchantementseraphelya.com/products/rjingshi-natural-crystal-magic-sweeper-amethyst-tower-broom-7-08-7-87-healing-crystal-point-witch-altar-supplies-for-crystal-therapy-cleaning-bedroom-office-home-decor-gift): Buy RJINGSHI Natural Crystal Magic Sweeper Amethyst Tower Broom 7.08"-7.87" Healing Crystal Point Witch Altar Supplies for Crystal Therapy Cleaning Bedroom Office Home Decor Gift for only CA$112.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:13Z
+  Updated: 2025-11-02T17:21:19Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/t03vrhIgE5L4XwtU.webp?v=1761973181
-  Price: 112,98 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6431986.webp?v=1762081858
+  Price: 56,19 $ CAD
 - [Turquoise Pendulum Ball Shape - Reiki Pendulum Dowsing Crystal Divination - Natural Chakra Healing Crystals - Handmade Reiki Altar Table Decor Supplies with Silver Chain - Enchantement Seraphélya](https://enchantementseraphelya.com/products/turquoise-pendulum-ball-shape-reiki-pendulum-dowsing-crystal-divination-natural-chakra-healing-crystals-handmade-reiki-altar-table-decor-supplies-with-silver-chain): Buy Turquoise Pendulum Ball Shape - Reiki Pendulum Dowsing Crystal Divination - Natural Chakra Healing Crystals - Handmade Reiki Altar Table Decor Supplies with Silver Chain for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:14Z
+  Updated: 2025-11-02T11:11:03Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/HcDsSTDxFHhl6nDS.webp?v=1761973614
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5295729.webp?v=1762081862
+  Price: 38,00 $ CAD
 - [Indian Consigners Soft Velvet Pouch for Tarot Altar Rune Gift Crystal jewelry Wrap Bags for Precious Sacred and Spiritial Items (Black) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/indian-consigners-soft-velvet-pouch-for-tarot-altar-rune-gift-crystal-jewelry-wrap-bags-for-precious-sacred-and-spiritial-items-black): Buy Indian Consigners Soft Velvet Pouch for Tarot Altar Rune Gift Crystal jewelry Wrap Bags for Precious Sacred and Spiritial Items (Black) for only CA$71.83 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:14Z
+  Updated: 2025-11-02T11:10:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/gqYu86r3mFXEhrQK.webp?v=1761973627
-  Price: 71,83 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4700239.webp?v=1762081857
+  Price: 33,09 $ CAD
 - [XIANNVXI 4 Inches Selenite Sticks 12PC Large Selenite Crystal Wands White Raw Rough Crystals Bulk for Healing Reiki Metaphysical Energy Drawing Protection Wiccan Altar Supplies - Enchantement Seraphélya](https://enchantementseraphelya.com/products/xiannvxi-4-inches-selenite-sticks-12pc-large-selenite-crystal-wands-white-raw-rough-crystals-bulk-for-healing-reiki-metaphysical-energy-drawing-protection-wiccan-altar-supplies): Buy XIANNVXI 4 Inches Selenite Sticks 12PC Large Selenite Crystal Wands White Raw Rough Crystals Bulk for Healing Reiki Metaphysical Energy Drawing Protection Wiccan Altar Supplies for only CA$97.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:15Z
+  Updated: 2025-11-02T11:11:04Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/akDpjxLwV9IGRQ29.webp?v=1761973635
-  Price: 97,55 $ CAD
-- [Simply Soson 5 inch Ritual Taper Candles Bulk Mini Taper Candles - 24 Black Chime Spell Candles - Small Taper Candle Stick Use as Witchcraft Supplies Altar Candles Unscented Prayer Candles - Enchantement Seraphélya](https://enchantementseraphelya.com/products/simply-soson-5-inch-ritual-taper-candles-bulk-mini-taper-candles-24-black-chime-spell-candles-small-taper-candle-stick-use-as-witchcraft-supplies-altar-candles-unscented-prayer-candles): Buy Simply Soson 5 inch Ritual Taper Candles Bulk Mini Taper Candles - 24 Black Chime Spell Candles - Small Taper Candle Stick Use as Witchcraft Supplies Altar Candles Unscented Prayer Candles for only CA$102.69 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:15Z
-  Vendor: Enchantement Seraphélya 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/9QohEk3JXn6kMrRs.webp?v=1761973712
-  Price: 102,69 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4162011.webp?v=1762081863
+  Price: 61,28 $ CAD
 - [Amitofo Offering Bowl Prayer Ritual Plate Great for Altar use Ritual use Incense Burner smudging Bowl Decoration Bowl offering Bowl (Triple Moon) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/amitofo-offering-bowl-prayer-ritual-plate-great-for-altar-use-ritual-use-incense-burner-smudging-bowl-decoration-bowl-offering-bowl-triple-moon): Buy Amitofo Offering Bowl Prayer Ritual Plate Great for Altar use Ritual use Incense Burner smudging Bowl Decoration Bowl offering Bowl (Triple Moon) for only CA$86.77 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:16Z
+  Updated: 2025-11-02T11:10:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/2PX82OIEvNjFkgKa.webp?v=1761973721
-  Price: 86,77 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5155026.webp?v=1762081857
+  Price: 47,85 $ CAD
 - [ASAV Altar Cloth Tarot Cards Square Table Napkin Witchcraft Supplies Tablecloth Black Horoscope Sign Zodiac Circle Deck Cloth with Frings (Silver 18x18 Inches/45x45 Cms.) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/asav-altar-cloth-tarot-cards-square-table-napkin-witchcraft-supplies-tablecloth-black-horoscope-sign-zodiac-circle-deck-cloth-with-frings-silver-18x18-inches-45x45-cms): Buy ASAV Altar Cloth Tarot Cards Square Table Napkin Witchcraft Supplies Tablecloth Black Horoscope Sign Zodiac Circle Deck Cloth with Frings (Silver 18x18 Inches/45x45 Cms.) for only CA$65.14 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:16Z
+  Updated: 2025-11-02T11:11:12Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/iel4oAM7n1ybEuAm.webp?v=1761973732
-  Price: 65,14 $ CAD
-- [AzureGreen Pentagram Altar Tile 4" (Brown) (Brown) (Black) (Brown) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/azuregreen-pentagram-altar-tile-4-brown-brown-black-brown): Buy AzureGreen Pentagram Altar Tile 4" (Brown) (Brown) (Black) (Brown) for only CA$61.54 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:17Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7986229.webp?v=1762081864
+  Price: 40,96 $ CAD
+- [Disque d’Autel Pentacle AzureGreen – 10 cm | Seraphélya](https://enchantementseraphelya.com/products/azuregreen-pentagram-altar-brown-black-brown-pentacle): Disque d'autel pentacle en bois sculpté - symbole wicca de protection et d'équilibre des éléments. Parfait pour autels, rituels méditation
+  Updated: 2025-11-02T23:50:32Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ssm2LxXMu25SCi9K.webp?v=1761973743
-  Price: 61,54 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6565224.webp?v=1762081867
+  Price: 39,81 $ CAD
 - [Pure Copper Altar Ceremony Five-Pointed Star Bowl Props - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pure-copper-altar-ceremony-five-pointed-star-bowl-props): Buy Pure Copper Altar Ceremony Five-Pointed Star Bowl Props for only CA$63.70 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:17Z
+  Updated: 2025-11-02T17:11:08Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/MmQBiZJ8t1QN1uih.webp?v=1761973771
-  Price: 63,70 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1650974.webp?v=1762081860
+  Price: 26,80 $ CAD
 - [Pendulum Board Dowsing Divination Wooden Pendulum Board Dowsing with Crystal Dowsing Witchcraft Wiccan Altar Supplies Kit Wooden Carven Board for Divination Decoration 9.8in - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pendulum-board-dowsing-divination-wooden-pendulum-board-dowsing-with-crystal-dowsing-witchcraft-wiccan-altar-supplies-kit-wooden-carven-board-for-divination-decoration-9-8in): Buy Pendulum Board Dowsing Divination Wooden Pendulum Board Dowsing with Crystal Dowsing Witchcraft Wiccan Altar Supplies Kit Wooden Carven Board for Divination Decoration 9.8in for only CA$82.12 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:18Z
+  Updated: 2025-11-02T11:09:34Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/SjPdmh7MMtx95LBh.webp?v=1761973933
-  Price: 82,12 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5967644.webp?v=1762081773
+  Price: 46,37 $ CAD
 - [Crocon Red Jasper Rectangle Shape Gemstone Runes with Elder Futhark Alphabet Engraved 25 pcs Rune Set Crystal Divination Metaphysical Healing Balancing Chakra Reiki Runes with a Pouch| Size : 20-25mm - Enchantement Seraphélya](https://enchantementseraphelya.com/products/crocon-red-jasper-rectangle-shape-gemstone-runes-with-elder-futhark-alphabet-engraved-25-pcs-rune-set-crystal-divination-metaphysical-healing-balancing-chakra-reiki-runes-with-a-pouch-size-20-25mm): Buy Crocon Red Jasper Rectangle Shape Gemstone Runes with Elder Futhark Alphabet Engraved 25 pcs Rune Set Crystal Divination Metaphysical Healing Balancing Chakra Reiki Runes with a Pouch| Size : 20-25mm for only CA$148.19 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:18Z
+  Updated: 2025-11-02T11:09:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/2zsoL2saxB6qdKbV.webp?v=1761973999
-  Price: 148,19 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4677911.webp?v=1762081797
+  Price: 67,41 $ CAD
 - [Amazonite Pendulum – Orgone Crystal Pendulum – Dowsing Pendulum for Divination Meditation Chakra Healing – Natural Gemstone Pendulum - Enchantement Seraphélya](https://enchantementseraphelya.com/products/amazonite-pendulum-orgone-crystal-pendulum-dowsing-pendulum-for-divination-meditation-chakra-healing-natural-gemstone-pendulum): Buy Amazonite Pendulum – Orgone Crystal Pendulum – Dowsing Pendulum for Divination Meditation Chakra Healing – Natural Gemstone Pendulum for only CA$70.38 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:19Z
+  Updated: 2025-11-02T11:10:19Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/HMjIsppycFY34qbZ.webp?v=1761974013
-  Price: 70,38 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5690220.webp?v=1762081818
+  Price: 42,63 $ CAD
 - [Dendrite Opal Crystal Pendulum for Divination - Dowsing Pendulum with Chain and Crystal Ball for Reiki Healing and Crystal Grid Meditation - Enchantement Seraphélya](https://enchantementseraphelya.com/products/dendrite-opal-crystal-pendulum-for-divination-dowsing-pendulum-with-chain-and-crystal-ball-for-reiki-healing-and-crystal-grid-meditation): Buy Dendrite Opal Crystal Pendulum for Divination - Dowsing Pendulum with Chain and Crystal Ball for Reiki Healing and Crystal Grid Meditation for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:19Z
+  Updated: 2025-11-02T11:11:10Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/XpLMoCzr07c4e37f.webp?v=1761974023
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8338166.webp?v=1762081858
+  Price: 38,00 $ CAD
 - [Jovivi Natural Black Obsidian Crystal Pendulums for Divination Dowsing Crown Sprial Cone Pointed Pendant Pendulum with Chain Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Wiccan - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jovivi-natural-black-obsidian-crystal-pendulums-for-divination-dowsing-crown-sprial-cone-pointed-pendant-pendulum-with-chain-resin-chip-stones-healing-reiki-chakra-gemstone-pendulum-wiccan): Buy Jovivi Natural Black Obsidian Crystal Pendulums for Divination Dowsing Crown Sprial Cone Pointed Pendant Pendulum with Chain Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Wiccan for only CA$97.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:20Z
+  Updated: 2025-11-02T11:09:56Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/mvRTpRvtV9o0ysqL.webp?v=1761974042
-  Price: 97,55 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5887909.webp?v=1762081794
+  Price: 51,28 $ CAD
 - [mookaitedecor Obsidian Crystal Pyramid Stone with Engraved Chakra Symbol Healing Crystals Energy Generator for Reiki Meditation Divination Decoration - Enchantement Seraphélya](https://enchantementseraphelya.com/products/mookaitedecor-obsidian-crystal-pyramid-stone-with-engraved-chakra-symbol-healing-crystals-energy-generator-for-reiki-meditation-divination-decoration): Buy mookaitedecor Obsidian Crystal Pyramid Stone with Engraved Chakra Symbol Healing Crystals Energy Generator for Reiki Meditation Divination Decoration for only CA$123.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:20Z
+  Updated: 2025-11-02T11:09:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/vr01PbPayKh5jDQb.webp?v=1761974065
-  Price: 123,27 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3030434.webp?v=1762081796
+  Price: 59,47 $ CAD
 - [PESOENTH Crystal Pendulum Dowsing Divination Scrying Pendulum with Bronze Wrap Tiger Eye Healing Stone Gemstone Quartz Point Pendant Spiritual Gifts for Women Men - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pesoenth-crystal-pendulum-dowsing-divination-scrying-pendulum-with-bronze-wrap-tiger-eye-healing-stone-gemstone-quartz-point-pendant-spiritual-gifts-for-women-men): Buy PESOENTH Crystal Pendulum Dowsing Divination Scrying Pendulum with Bronze Wrap Tiger Eye Healing Stone Gemstone Quartz Point Pendant Spiritual Gifts for Women Men for only CA$102.16 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:21Z
+  Updated: 2025-11-02T11:10:10Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ocFLEmgB08m78ezv.webp?v=1761974189
-  Price: 102,16 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4859825.webp?v=1762081809
+  Price: 52,75 $ CAD
 - [Amazing Gemstone Amethyst Crystal Ball Pendulum for Divination - Dowsing Pendulum Necklace with Chain and Quartz Bead for Reiki Healing and Crystal Grid Meditation - Enchantement Seraphélya](https://enchantementseraphelya.com/products/amazing-gemstone-amethyst-crystal-ball-pendulum-for-divination-dowsing-pendulum-necklace-with-chain-and-quartz-bead-for-reiki-healing-and-crystal-grid-meditation): Buy Amazing Gemstone Amethyst Crystal Ball Pendulum for Divination - Dowsing Pendulum Necklace with Chain and Quartz Bead for Reiki Healing and Crystal Grid Meditation for only CA$97.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:21Z
+  Updated: 2025-11-02T11:10:21Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/Li8atk7pnFFOZCSu.webp?v=1761974216
-  Price: 97,55 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9372240.webp?v=1762081820
+  Price: 51,28 $ CAD
 - [Rose Quartz Pendulum Ball Shape Natural Chakra Stone Pendulums Divination Tools Reiki Dowsing with Silver Chain - Handmade Raw Scrying Gemstone Accessories - Enchantement Seraphélya](https://enchantementseraphelya.com/products/rose-quartz-pendulum-ball-shape-natural-chakra-stone-pendulums-divination-tools-reiki-dowsing-with-silver-chain-handmade-raw-scrying-gemstone-accessories): Buy Rose Quartz Pendulum Ball Shape Natural Chakra Stone Pendulums Divination Tools Reiki Dowsing with Silver Chain - Handmade Raw Scrying Gemstone Accessories for only CA$82.12 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:22Z
+  Updated: 2025-11-02T11:10:16Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/7DS2fiJkgU4d8sVn.webp?v=1761974234
-  Price: 82,12 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6760146.webp?v=1762081815
+  Price: 36,37 $ CAD
 - [VadiForest Aquamarine Crystal Dowsing Pendulum Reiki Life Tree 6 Faceted Pointed Orgonite Pendulum Scrying Dowser Orgone Energy Generator for Divination Meditation Wicca - Enchantement Seraphélya](https://enchantementseraphelya.com/products/vadiforest-aquamarine-crystal-dowsing-pendulum-reiki-life-tree-6-faceted-pointed-orgonite-pendulum-scrying-dowser-orgone-energy-generator-for-divination-meditation-wicca): Buy VadiForest Aquamarine Crystal Dowsing Pendulum Reiki Life Tree 6 Faceted Pointed Orgonite Pendulum Scrying Dowser Orgone Energy Generator for Divination Meditation Wicca for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:22Z
+  Updated: 2025-11-02T11:10:33Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/tsfNh1MlpPlB3OtP.webp?v=1761974248
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1424793.webp?v=1762081824
+  Price: 48,00 $ CAD
 - [YATOJUZI 3.5" Rose Quartz Healing Crystals Wand Natural Crystals and Healing Stones Large Hexagonal Rose Quartz Crystal Points for Meditation Divination Reiki Energy Balancing 1PCS - Enchantement Seraphélya](https://enchantementseraphelya.com/products/yatojuzi-3-5-rose-quartz-healing-crystals-wand-natural-crystals-and-healing-stones-large-hexagonal-rose-quartz-crystal-points-for-meditation-divination-reiki-energy-balancing-1pcs): Buy YATOJUZI 3.5" Rose Quartz Healing Crystals Wand Natural Crystals and Healing Stones Large Hexagonal Rose Quartz Crystal Points for Meditation Divination Reiki Energy Balancing 1PCS for only CA$112.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:23Z
+  Updated: 2025-11-02T11:11:49Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/XTBYG7aepZT1N3Jd.webp?v=1761974272
-  Price: 112,98 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9475090.webp?v=1762081909
+  Price: 56,19 $ CAD
 - [Top Plaza Bronze Metal Copper Spiritual Point Pendulum for Divination Healing Dowsing Wicca Balancing Pointed Cone Pendant Pendulum - Enchantement Seraphélya](https://enchantementseraphelya.com/products/top-plaza-bronze-metal-copper-spiritual-point-pendulum-for-divination-healing-dowsing-wicca-balancing-pointed-cone-pendant-pendulum): Buy Top Plaza Bronze Metal Copper Spiritual Point Pendulum for Divination Healing Dowsing Wicca Balancing Pointed Cone Pendant Pendulum for only CA$87.26 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:23Z
+  Updated: 2025-11-02T11:10:30Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/8TksOllg7N0ffj3b.webp?v=1761974299
-  Price: 87,26 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4466545.webp?v=1762081819
+  Price: 48,00 $ CAD
 - [Rockcloud Natural Blue Sand Stone Dowsing Pendulum Chakra Crystal Point Pendant Pendulum for Divination Copper Wicca Balancing Meditation Kit - Enchantement Seraphélya](https://enchantementseraphelya.com/products/rockcloud-natural-blue-sand-stone-dowsing-pendulum-chakra-crystal-point-pendant-pendulum-for-divination-copper-wicca-balancing-meditation-kit): Buy Rockcloud Natural Blue Sand Stone Dowsing Pendulum Chakra Crystal Point Pendant Pendulum for Divination Copper Wicca Balancing Meditation Kit for only CA$110.39 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:24Z
+  Updated: 2025-11-02T11:11:05Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/dk68uOqvbi7qYlpF.webp?v=1761974303
-  Price: 110,39 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4427500.webp?v=1762081864
+  Price: 65,37 $ CAD
 - [Jovivi Natural Fluorite Crystal Pendulums for Divination Dowsing 6 Facted Crown Hexagonal Pointed Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Pendant Wiccan Witchcraft - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jovivi-natural-fluorite-crystal-pendulums-for-divination-dowsing-6-facted-crown-hexagonal-pointed-resin-chip-stones-healing-reiki-chakra-gemstone-pendulum-pendant-wiccan-witchcraft): Buy Jovivi Natural Fluorite Crystal Pendulums for Divination Dowsing 6 Facted Crown Hexagonal Pointed Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Pendant Wiccan Witchcraft for only CA$97.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:24Z
+  Updated: 2025-11-02T11:09:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/60nqEZYHwXbicY0B.webp?v=1761974315
-  Price: 97,55 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7687031.webp?v=1762081797
+  Price: 51,28 $ CAD
 - [BLESSUME Wizard Tarot Table Cloth for Reading with Card Pouch Square Velvet Divination Tarot Cloth (Green 6) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/blessume-wizard-tarot-table-cloth-for-reading-with-card-pouch-square-velvet-divination-tarot-cloth-green-6): Buy BLESSUME Wizard Tarot Table Cloth for Reading with Card Pouch Square Velvet Divination Tarot Cloth (Green 6) for only CA$133.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:25Z
+  Updated: 2025-11-02T11:10:43Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/mTGDVqZgrQbunU62.webp?v=1761974328
-  Price: 133,55 $ CAD
-- [CREATCABIN Black Cat Wood Spirit Board Talking Boards Pendulum Board Wooden with Planchette Dowsing Divination Kit Spirit Hunt Metaphysical Message Decor Witch Stuff for Wicca 11.8x8.3 Inch - Enchantement Seraphélya](https://enchantementseraphelya.com/products/creatcabin-black-cat-wood-spirit-board-talking-boards-pendulum-board-wooden-with-planchette-dowsing-divination-kit-spirit-hunt-metaphysical-message-decor-witch-stuff-for-wicca-11-8x8-3-inch): Buy CREATCABIN Black Cat Wood Spirit Board Talking Boards Pendulum Board Wooden with Planchette Dowsing Divination Kit Spirit Hunt Metaphysical Message Decor Witch Stuff for Wicca 11.8x8.3 Inch for only CA$96.53 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:25Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5107248.webp?v=1762081832
+  Price: 72,75 $ CAD
+- [Planche Ouija Spirituelle en Bois avec Chat Noir et pendule](https://enchantementseraphelya.com/products/ouija-black-cat-wood-spirit-board-talking-ouija-pendulum): Planche Ouija de divination en bois avec chat noir - planche spirituelle wicca pour communication métaphysique, pendule, spiritisme et décoration magique
+  Updated: 2025-11-02T23:44:29Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/8tSXk6aWYyMkPotx.webp?v=1761974343
-  Price: 96,53 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7324201.webp?v=1762081769
+  Price: 50,94 $ CAD
 - [Bescon 3 Pieces Astrological Dice Set Constellation Divination D12 Dice Glowing in Dark Effect - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bescon-3-pieces-astrological-dice-set-constellation-divination-d12-dice-glowing-in-dark-effect): Buy Bescon 3 Pieces Astrological Dice Set Constellation Divination D12 Dice Glowing in Dark Effect for only CA$70.87 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:26Z
+  Updated: 2025-11-02T11:10:35Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6npHQoMnqtcAskMG.webp?v=1761974352
-  Price: 70,87 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8532674.webp?v=1762081833
+  Price: 32,78 $ CAD
 - [English Tarot Deck for Fortune Telling and Divination - Enchantement Seraphélya](https://enchantementseraphelya.com/products/english-tarot-deck-for-fortune-telling-and-divination): Buy English Tarot Deck for Fortune Telling and Divination for only CA$40.49 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:26Z
+  Updated: 2025-11-02T11:09:45Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/w9zqlTMbrfXBmloM.webp?v=1761974376
-  Price: 40,49 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8254841.webp?v=1762081784
+  Price: 33,49 $ CAD
 - [Crystal Energy Pyramid Tower - Enchantement Seraphélya](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower): Buy Crystal Energy Pyramid Tower for only CA$41.19 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:27Z
+  Updated: 2025-11-02T11:10:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/m5IrUhF6NZyfEIJD.webp?v=1761974456
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4996920.webp?v=1762081816
   - [A / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438856435)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/m5IrUhF6NZyfEIJD.webp?v=1761974456
-    Price: 61,19 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4996920.webp?v=1762081816
+    Price: 40,16 $ CAD
   - [A / 5cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438889203)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EAOXHQOQSAeOOURj.webp?v=1761974456
-    Price: 41,19 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3660450.webp?v=1762081816
+    Price: 34,35 $ CAD
   - [C / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438921971)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/JoPMEByUEz6Dlgi7.webp?v=1761974457
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6453043.webp?v=1762081818
+    Price: 39,85 $ CAD
   - [B / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438954739)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/nLK1otvguunScT8g.webp?v=1761974517
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5744425.webp?v=1762081817
+    Price: 39,85 $ CAD
   - [D / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438987507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/cj2vhSqIZsHM3eVx.webp?v=1761974492
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2874932.webp?v=1762081817
+    Price: 39,85 $ CAD
   - [E / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439020275)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/vdFyQzqD9YsXdPrU.webp?v=1761974559
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2765036.webp?v=1762081818
+    Price: 39,85 $ CAD
   - [I / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439053043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/QUDiftei0joosWFt.webp?v=1761974481
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9889866.webp?v=1762081856
+    Price: 39,85 $ CAD
   - [F / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439085811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/zu3rS68lyKd4TKNJ.webp?v=1761974469
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6324957.webp?v=1762081817
+    Price: 39,85 $ CAD
   - [H / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439118579)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6vEyPADnBONhuv0F.webp?v=1761974505
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2048057.webp?v=1762081817
+    Price: 39,85 $ CAD
   - [G / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439151347)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6Tu1lToBXiFJQUpL.webp?v=1761974538
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7711321.webp?v=1762081817
+    Price: 39,85 $ CAD
   - [J / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439184115)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/NtthAvb93tWNfVxE.webp?v=1761974528
-    Price: 60,23 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1883491.webp?v=1762081856
+    Price: 39,85 $ CAD
 - [Pyramid Decoration Natural Crystal Gravel Energy Tower - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower): Buy Pyramid Decoration Natural Crystal Gravel Energy Tower for only CA$54.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:27Z
+  Updated: 2025-11-02T11:10:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/8Ul6qYBnWnK4TVwY.webp?v=1761974464
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3984603.webp?v=1762081793
   - [Purple green / 1PC](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower?variant=47983439249651)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/8Ul6qYBnWnK4TVwY.webp?v=1761974464
-    Price: 54,56 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3984603.webp?v=1762081793
+    Price: 47,37 $ CAD
   - [Green tree / 1PC](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower?variant=47983439282419)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/4p8cwCxSm2onoJpf.webp?v=1761974562
-    Price: 55,30 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4271819.webp?v=1762081793
+    Price: 47,61 $ CAD
 - [Orgone Pyramid Crystal Healing Stone Energy Generator Healing Crystals Chakra Crystal Healing Meditation Crystal Sphere Orgonite Pyramid Crystal Women Gift (X-Purple) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/orgone-pyramid-crystal-healing-stone-energy-generator-healing-crystals-chakra-crystal-healing-meditation-crystal-sphere-orgonite-pyramid-crystal-women-gift-x-purple): Buy Orgone Pyramid Crystal Healing Stone Energy Generator Healing Crystals Chakra Crystal Healing Meditation Crystal Sphere Orgonite Pyramid Crystal Women Gift (X-Purple) for only CA$164.42 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:28Z
+  Updated: 2025-11-02T11:10:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/K2COY3eGGm9obzFS.webp?v=1761974481
-  Price: 164,42 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2802656.webp?v=1762081817
+  Price: 72,57 $ CAD
 - [Large Orgone Pyramid | Shungite Pyramid Crystal | Metatron Cube Orgonite Pyramid | Organ Pyramids Positive Energy Healing - Enchantement Seraphélya](https://enchantementseraphelya.com/products/large-orgone-pyramid-shungite-pyramid-crystal-metatron-cube-orgonite-pyramid-organ-pyramids-positive-energy-healing): Buy Large Orgone Pyramid | Shungite Pyramid Crystal | Metatron Cube Orgonite Pyramid | Organ Pyramids Positive Energy Healing for only CA$118.12 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:28Z
+  Updated: 2025-11-02T11:10:30Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/aZV5bO31tyoQs4TN.webp?v=1761974493
-  Price: 118,12 $ CAD
-- [Shungite Stone Protection Pyramid 2.8" | Authentic Shungite Stones Protection Unpolished Pyramid 2.8 inches (7 cm) | Black Stone Crystal Pyramid for Whole House Protection and Meditation PN05 - Enchantement Seraphélya](https://enchantementseraphelya.com/products/shungite-stone-protection-pyramid-2-8-authentic-shungite-stones-protection-unpolished-pyramid-2-8-inches-7-cm-black-stone-crystal-pyramid-for-whole-house-protection-and-meditation-pn05): Buy Shungite Stone Protection Pyramid 2.8" | Authentic Shungite Stones Protection Unpolished Pyramid 2.8 inches (7 cm) | Black Stone Crystal Pyramid for Whole House Protection and Meditation PN05 for only CA$169.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:29Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4252791.webp?v=1762081828
+  Price: 57,83 $ CAD
+- [Pyramide de Protection en Shungite | Pierre Noire Non Polie](https://enchantementseraphelya.com/products/shungite-stone-protection-pyramide-stones-unpolished): Pyramide de protection en shungite naturelle - pierre noire de Carélie pour purification, ancrage et protection énergétique. Neutralise les ondes EMF.
+  Updated: 2025-11-02T23:38:09Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/TSSsyA5rWHk1PYsQ.webp?v=1761974501
-  Price: 169,55 $ CAD
-- [Amazing Gemstone Large Orgone Pyramid | Black Tourmaline Pyramid Crystal | Eye of Ra Orgonite Pyramid | Organ Pyramids Positive Energy Healing - Enchantement Seraphélya](https://enchantementseraphelya.com/products/amazing-gemstone-large-orgone-pyramid-black-tourmaline-pyramid-crystal-eye-of-ra-orgonite-pyramid-organ-pyramids-positive-energy-healing): Buy Amazing Gemstone Large Orgone Pyramid | Black Tourmaline Pyramid Crystal | Eye of Ra Orgonite Pyramid | Organ Pyramids Positive Energy Healing for only CA$112.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:29Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5439637.webp?v=1762081808
+  Price: 84,21 $ CAD
+- [Pyramide Orgonite – Tourmaline Noire & Œil de Râ](https://enchantementseraphelya.com/products/pyramide-gemstone-orgone-black-tourmaline-crystal-eye-of-ra): Buy Amazing Gemstone Large Orgone Pyramid | Black Tourmaline Pyramid Crystal | Eye of Ra Orgonite Pyramid | Organ Pyramids Positive Energy Healing for only CA$112.98 at Enchantement Seraphélya!
+  Updated: 2025-11-02T23:31:42Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/I1IbY5xR1ejZT4gJ.webp?v=1761974545
-  Price: 112,98 $ CAD
-- [Orgone Pyramid for Positive Energy Chakra Wealth Success - Chakra Orgonite Pyramid with Gemstones Lucky Crystals and Attract Lucky Home Decor - Enchantement Seraphélya](https://enchantementseraphelya.com/products/orgone-pyramid-for-positive-energy-chakra-wealth-success-chakra-orgonite-pyramid-with-gemstones-lucky-crystals-and-attract-lucky-home-decor): Buy Orgone Pyramid for Positive Energy Chakra Wealth Success - Chakra Orgonite Pyramid with Gemstones Lucky Crystals and Attract Lucky Home Decor for only CA$179.80 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:30Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1493343.webp?v=1762081796
+  Price: 56,19 $ CAD
+- [Pyramide orgonite des chakras – attire la prospérité](https://enchantementseraphelya.com/products/orgone-pyramide-for-positive-energy-chakra-wealth-success): Pyramide orgone en citrine - générateur d'énergie positive pour sagesse, prospérité et succès. Bloque les ondes EMF et favorise le sommeil, la joie.
+  Updated: 2025-11-02T23:20:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/DfZ0MiwaZrGSWO7I.webp?v=1761974555
-  Price: 179,80 $ CAD
-- [Chakra Healing Orgone Pyramid Crystal - Energy Generator for Positive Energy and Meditation - Large Orgone Pyramid with Chakra Crystals for Spiritual Healing and Home Decor - Enchantement Seraphélya](https://enchantementseraphelya.com/products/chakra-healing-orgone-pyramid-crystal-energy-generator-for-positive-energy-and-meditation-large-orgone-pyramid-with-chakra-crystals-for-spiritual-healing-and-home-decor): Buy Chakra Healing Orgone Pyramid Crystal - Energy Generator for Positive Energy and Meditation - Large Orgone Pyramid with Chakra Crystals for Spiritual Healing and Home Decor for only CA$154.13 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:30Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2884326.webp?v=1762081858
+  Price: 77,47 $ CAD
+- [Grande pyramide orgonite en cristal avec pierres chakras.](https://enchantementseraphelya.com/products/chakra-healing-orgone-pyramid-crystal-energy-large-pyramide): Pyramide orgone de guérison des chakras - générateur d'énergie positive pour méditation, Feng Shui et équilibre spirituel. Cristaux naturels pour harmonie.
+  Updated: 2025-11-02T23:14:56Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/NA7cTh4OyN141BgF.webp?v=1761974634
-  Price: 154,13 $ CAD
-- [Natural Crystal Amorphous Rune Alphabet Decor Stones – Set of 25 - Enchantement Seraphélya](https://enchantementseraphelya.com/products/natural-crystal-amorphous-rune-alphabet-decor-stones-set-of-25): Buy Natural Crystal Amorphous Rune Alphabet Decor Stones – Set of 25 for only CA$57.27 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:31Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7002666.webp?v=1762081797
+  Price: 69,30 $ CAD
+- [25 Pierres Runiques en Cristal Naturel Amorphe - Seraphélya](https://enchantementseraphelya.com/products/natural-crystal-amorphous-rune-alphabet-stones-pierres): Buy Natural Crystal Amorphous Rune Alphabet Decor Stones – Set of 25 for only CA$57.27 at Enchantement Seraphélya!
+  Updated: 2025-11-02T23:06:14Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/hm1IOxnLDynd8UE0.webp?v=1761974847
-  Price: 57,27 $ CAD
-- [Three-Legged Cast Iron Cauldron for Kitchen Use - Enchantement Seraphélya](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use): Buy Three-Legged Cast Iron Cauldron for Kitchen Use for only CA$360.04 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:31Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6764082.webp?v=1762081908
+  Price: 40,49 $ CAD
+- [Chaudron en fonte à trois pieds – pour rituels et potions](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use-chaudron): Chaudron en fonte à trois pieds - outil rituel de sorcellerie pour potions, encens, rituels lunaires et magie élémentaire. Symbole de transformation. Seraphélya
+  Updated: 2025-11-02T23:02:32Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/nc0AHyX7RCRLUR96.webp?v=1761975015
-  - [2 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use?variant=47983449374963)
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9792913.webp?v=1762081799
+  - [2 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use-chaudron?variant=47983449374963)
     Availability: Available
-    Price: 410,37 $ CAD
-  - [3 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use?variant=47983449407731)
+    Price: 82,22 $ CAD
+  - [3 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use-chaudron?variant=47983449407731)
     Availability: Available
-    Price: 427,15 $ CAD
-  - [4 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use?variant=47983449440499)
+    Price: 87,57 $ CAD
+  - [4 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use-chaudron?variant=47983449440499)
     Availability: Available
-    Price: 519,47 $ CAD
-  - [1 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use?variant=47983449473267)
+    Price: 116,97 $ CAD
+  - [1 / a](https://enchantementseraphelya.com/products/three-legged-cast-iron-cauldron-for-kitchen-use-chaudron?variant=47983449473267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/nc0AHyX7RCRLUR96.webp?v=1761975015
-    Price: 360,04 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9792913.webp?v=1762081799
+    Price: 66,19 $ CAD
 - [Koville African Granite Mortar and Pestle Set 6.3" Stone Grinder Bowl for Guacamole Salsa Pill Crusher Spice Herb Garlic Nut Heavy Duty Grinder for Kitchen Sand-Blasted Finish - Enchantement Seraphélya](https://enchantementseraphelya.com/products/koville-african-granite-mortar-and-pestle-set-6-3-stone-grinder-bowl-for-guacamole-salsa-pill-crusher-spice-herb-garlic-nut-heavy-duty-grinder-for-kitchen-sand-blasted-finish): Buy Koville African Granite Mortar and Pestle Set 6.3" Stone Grinder Bowl for Guacamole Salsa Pill Crusher Spice Herb Garlic Nut Heavy Duty Grinder for Kitchen Sand-Blasted Finish for only CA$205.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:32Z
+  Updated: 2025-11-02T11:10:33Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6n5NIhzkAaxfLlB3.webp?v=1761975109
-  Price: 205,56 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3050010.webp?v=1762081832
+  Price: 95,68 $ CAD
 - [Cole & Mason 5.5-inch Granite Mortar & Pestle - Unpolished Stone Mortar & Pestle for Kitchen - Small Grinding Bowl for Herbs and Spices - Black 8 pounds - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cole-mason-5-5-inch-granite-mortar-pestle-unpolished-stone-mortar-pestle-for-kitchen-small-grinding-bowl-for-herbs-and-spices-black-8-pounds): Buy Cole & Mason 5.5-inch Granite Mortar & Pestle - Unpolished Stone Mortar & Pestle for Kitchen - Small Grinding Bowl for Herbs and Spices - Black 8 pounds for only CA$241.47 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:32Z
+  Updated: 2025-11-02T11:10:31Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/r1yovU29LYJ4Qhjw.webp?v=1761975119
-  Price: 241,47 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9306479.webp?v=1762081830
+  Price: 106,90 $ CAD
 - [Exquisite Marble Mortar and Pestle Set - Your Ultimate Kitchen Essential for Grinding Spices Making Guacamole Salsa Pesto and Crushing Pills (Black Zebra Oval Shape (4")) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/exquisite-marble-mortar-and-pestle-set-your-ultimate-kitchen-essential-for-grinding-spices-making-guacamole-salsa-pesto-and-crushing-pills-black-zebra-oval-shape-4): Buy Exquisite Marble Mortar and Pestle Set - Your Ultimate Kitchen Essential for Grinding Spices Making Guacamole Salsa Pesto and Crushing Pills (Black Zebra Oval Shape (4")) for only CA$138.70 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:33Z
+  Updated: 2025-11-02T11:09:48Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ucIqSm04NZ65T4wU.webp?v=1761975129
-  Price: 138,70 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7811373.webp?v=1762081787
+  Price: 64,38 $ CAD
 - [Marble Mortar and Pestle Set White 3" Inches Handmade Nut Grinder for Kitchen - Ideal Small Mortar & Pestle Set Spice Grinder Mortar and Pestle - Garlic Crusher - Enchantement Seraphélya](https://enchantementseraphelya.com/products/marble-mortar-and-pestle-set-white-3-inches-handmade-nut-grinder-for-kitchen-ideal-small-mortar-pestle-set-spice-grinder-mortar-and-pestle-garlic-crusher): Buy Marble Mortar and Pestle Set White 3" Inches Handmade Nut Grinder for Kitchen - Ideal Small Mortar & Pestle Set Spice Grinder Mortar and Pestle - Garlic Crusher for only CA$110.21 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:33Z
+  Updated: 2025-11-02T11:09:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/gil6RAzjdPBAa3cR.webp?v=1761975137
-  Price: 110,21 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6995064.webp?v=1762081798
+  Price: 55,31 $ CAD
 - [Mantouxixi Wood Mortar and Pestle Bamboo Guacamole Bowl Shell Garlic Mortar Pepper Press Mincer Grinder Chopper Crusher Molcajete Mixed Kitchen Tool - Large - Enchantement Seraphélya](https://enchantementseraphelya.com/products/mantouxixi-wood-mortar-and-pestle-bamboo-guacamole-bowl-shell-garlic-mortar-pepper-press-mincer-grinder-chopper-crusher-molcajete-mixed-kitchen-tool-large): Buy Mantouxixi Wood Mortar and Pestle Bamboo Guacamole Bowl Shell Garlic Mortar Pepper Press Mincer Grinder Chopper Crusher Molcajete Mixed Kitchen Tool - Large for only CA$138.70 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:34Z
+  Updated: 2025-11-02T16:20:56Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/AU6gjAd0zjfb1iAr.webp?v=1761975147
-  Price: 138,70 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8728963.webp?v=1762081909
+  Price: 64,38 $ CAD
 - [HESHIBI Granite Mortar and Pestle Set Guacamole Bowl Molcajete 8 Inch - 4 Cup Natural Stone Grinder for Spices Seasonings Pastes Pestos and Guacamole - Enchantement Seraphélya](https://enchantementseraphelya.com/products/heshibi-granite-mortar-and-pestle-set-guacamole-bowl-molcajete-8-inch-4-cup-natural-stone-grinder-for-spices-seasonings-pastes-pestos-and-guacamole): Buy HESHIBI Granite Mortar and Pestle Set Guacamole Bowl Molcajete 8 Inch - 4 Cup Natural Stone Grinder for Spices Seasonings Pastes Pestos and Guacamole for only CA$184.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:34Z
+  Updated: 2025-11-02T11:11:06Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/Yv1J7EGlQo7tbnvP.webp?v=1761975167
-  Price: 184,98 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2008136.webp?v=1762081864
+  Price: 79,13 $ CAD
 - [Maxam Grey Mortar and Pestle Set - 5 Inch - 1 Cup Capacity - Heavy Granite for Grinding Spices Herbs and Avocado Masher for Guacamole and Pesto - Enchantement Seraphélya](https://enchantementseraphelya.com/products/maxam-grey-mortar-and-pestle-set-5-inch-1-cup-capacity-heavy-granite-for-grinding-spices-herbs-and-avocado-masher-for-guacamole-and-pesto): Buy Maxam Grey Mortar and Pestle Set - 5 Inch - 1 Cup Capacity - Heavy Granite for Grinding Spices Herbs and Avocado Masher for Guacamole and Pesto for only CA$128.18 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:35Z
+  Updated: 2025-11-02T11:11:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/JJqE3mdGbQJdGE6P.webp?v=1761975177
-  Price: 128,18 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1172534.webp?v=1762081866
+  Price: 61,04 $ CAD
 - [ChefSofi EXTRA Large 8 Inch 5 Cup-Capacity Mortar and Pestle Set - Black Polished Exterior - One Huge Mortar and Two Pestels: 8.5 inch and 6.5 inch - Enchantement Seraphélya](https://enchantementseraphelya.com/products/chefsofi-extra-large-8-inch-5-cup-capacity-mortar-and-pestle-set-black-polished-exterior-one-huge-mortar-and-two-pestels-8-5-inch-and-6-5-inch): Buy ChefSofi EXTRA Large 8 Inch 5 Cup-Capacity Mortar and Pestle Set - Black Polished Exterior - One Huge Mortar and Two Pestels: 8.5 inch and 6.5 inch for only CA$442.29 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:35Z
+  Updated: 2025-11-02T11:09:33Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/xSUfZVfPBQOGJKui.webp?v=1761975187
-  Price: 442,29 $ CAD
-- [Greenco Mortar and Pestle Set White Marble Stone Mortar and Pestle Grinding Bowl Small 4.5 Inches Kitchen Essential for Spices Guacamole and More - Enchantement Seraphélya](https://enchantementseraphelya.com/products/greenco-mortar-and-pestle-set-white-marble-stone-mortar-and-pestle-grinding-bowl-small-4-5-inches-kitchen-essential-for-spices-guacamole-and-more): Buy Greenco Mortar and Pestle Set White Marble Stone Mortar and Pestle Grinding Bowl Small 4.5 Inches Kitchen Essential for Spices Guacamole and More for only CA$164.42 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:36Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8437424.webp?v=1762081771
+  Price: 200,85 $ CAD
+- [Mortier et pilon en pierre de marbre blanc- Seraphélya](https://enchantementseraphelya.com/products/greenco-mortar-and-pestle-set-white-marble-stone-mortier): Mortier et pilon rituel en marbre blanc - outil magique de purification et de préparation d'herbes, sels et potions. Symbole lunaire de paix, guérison.
+  Updated: 2025-11-02T22:57:41Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/NiJxrETwmEjHYMP5.webp?v=1761975196
-  Price: 164,42 $ CAD
-- [Manual Mortar and Pestle Set Premium PP Pestle & Mortar Set Spice Grinder Garlic Herb Spice Mixing Grinder Mortar and Pestle Grinder Pill Grinder Kitchen Bowl Smashing Tools(Wood Color) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/manual-mortar-and-pestle-set-premium-pp-pestle-mortar-set-spice-grinder-garlic-herb-spice-mixing-grinder-mortar-and-pestle-grinder-pill-grinder-kitchen-bowl-smashing-toolswood-color): Buy Manual Mortar and Pestle Set Premium PP Pestle & Mortar Set Spice Grinder Garlic Herb Spice Mixing Grinder Mortar and Pestle Grinder Pill Grinder Kitchen Bowl Smashing Tools(Wood Color) for only CA$105.55 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:36Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3527800.webp?v=1762081770
+  Price: 72,57 $ CAD
+- [Mortier et Pilon Manuel de Qualité Premium – Seraphélya](https://enchantementseraphelya.com/products/manual-mortar-and-pestle-premium-pp-pestle-mortar-mortier): Mortier et pilon rituel couleur bois - outil de sorcellerie pour broyer herbes, encens, épices et élixirs magiques. Idéal pour potions, rituels
+  Updated: 2025-11-02T22:44:27Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/7nLBDksNqQJy28Lf.webp?v=1761975209
-  Price: 105,55 $ CAD
-- [Fantasy Vintage Luxury Journal (One Notebook) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook): Buy Fantasy Vintage Luxury Journal (One Notebook) for only CA$68.18 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:37Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4062395.webp?v=1762081815
+  Price: 43,83 $ CAD
+- [Grimoire de luxe vintage Fantastique - Seraphélya](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire): Grimoire de luxe vintage fantastique - carnet d'écriture élégant pour sorcellerie, rituels, méditation et créativité spirituelle. Parfait cadeau.
+  Updated: 2025-11-02T22:39:22Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bLg24GgAEqlGRdjM.webp?v=1761976463
-  - [Royal blue Small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477457139)
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8661554.webp?v=1762081817
+  - [Royal blue Small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477457139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bLg24GgAEqlGRdjM.webp?v=1761976463
-    Price: 68,75 $ CAD
-  - [Royal blue trumpet](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477489907)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8661554.webp?v=1762081817
+    Price: 36,37 $ CAD
+  - [Royal blue trumpet](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477489907)
     Availability: Available
-    Price: 68,75 $ CAD
-  - [Navy](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477522675)
+    Price: 36,37 $ CAD
+  - [Navy](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477522675)
     Availability: Available
-    Price: 74,12 $ CAD
-  - [Navy blue small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477555443)
+    Price: 38,08 $ CAD
+  - [Navy blue small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477555443)
     Availability: Available
-    Price: 69,64 $ CAD
-  - [Dark green small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477588211)
+    Price: 36,65 $ CAD
+  - [Dark green small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477588211)
     Availability: Available
-    Price: 68,18 $ CAD
-  - [Light brown small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477620979)
+    Price: 36,19 $ CAD
+  - [Light brown small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477620979)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/RyDonJNzZ77QoNFt.webp?v=1761976475
-    Price: 68,75 $ CAD
-  - [New Dark green small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook?variant=47983477653747)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3306318.webp?v=1762081817
+    Price: 36,37 $ CAD
+  - [New Dark green small](https://enchantementseraphelya.com/products/fantasy-vintage-luxury-journal-one-notebook-grimoire?variant=47983477653747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bRW0u2hbnsUtReyy.webp?v=1761976496
-    Price: 68,75 $ CAD
-- [First Layer Cowhide Travel Notebook - Enchantement Seraphélya](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook): Buy First Layer Cowhide Travel Notebook for only CA$115.18 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:38Z
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8014247.webp?v=1762081816
+    Price: 36,37 $ CAD
+- [Grimoire en Cuir Véritable – Carnet Magique style vintage](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook-grimoire-vintage): Grimoire en cuir véritable - carnet magique artisanal, idéal pour sorcellerie, rituels, rêves et écriture spirituelle
+  Updated: 2025-11-02T22:34:12Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/AHCtjdMA41Zeil4R.webp?v=1761976474
-  - [Coffee](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook?variant=47983477686515)
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9878101.webp?v=1762081812
+  - [Coffee](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook-grimoire-vintage?variant=47983477686515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/AHCtjdMA41Zeil4R.webp?v=1761976474
-    Price: 115,18 $ CAD
-  - [Brown](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook?variant=47983477719283)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9878101.webp?v=1762081812
+    Price: 58,72 $ CAD
+  - [Brown](https://enchantementseraphelya.com/products/first-layer-cowhide-travel-notebook-grimoire-vintage?variant=47983477719283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/egkv6dtDNvl89AeH.webp?v=1761976495
-    Price: 115,18 $ CAD
-- [Vintage European Style Password Locked Notebook - Enchantement Seraphélya](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook): Buy Vintage European Style Password Locked Notebook for only CA$76.80 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:38Z
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7309780.webp?v=1762081812
+    Price: 58,72 $ CAD
+- [Carnet à code de style européen – avec serrure à combinaison](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet): Buy Vintage European Style Password Locked Notebook for only CA$76.80 at Enchantement Seraphélya!
+  Updated: 2025-11-02T22:29:38Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/9Ls0l7m9YvBEWznj.webp?v=1761976503
-  - [Purple / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook?variant=47983477784819)
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4245376.webp?v=1762081793
+  - [Purple / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet?variant=47983477784819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/9Ls0l7m9YvBEWznj.webp?v=1761976503
-    Price: 76,80 $ CAD
-  - [Red Wine / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook?variant=47983477817587)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4245376.webp?v=1762081793
+    Price: 37,71 $ CAD
+  - [Red Wine / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet?variant=47983477817587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/pQ2KspU3TNXlQYyn.webp?v=1761976550
-    Price: 76,80 $ CAD
-  - [Green / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook?variant=47983477850355)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5805604.webp?v=1762081792
+    Price: 37,71 $ CAD
+  - [Green / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet?variant=47983477850355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/D3NmU5syQZ203ArX.webp?v=1761976562
-    Price: 76,80 $ CAD
-  - [Blue / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook?variant=47983477883123)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7558554.webp?v=1762081792
+    Price: 37,71 $ CAD
+  - [Blue / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet?variant=47983477883123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/lxeWZ1A9DdjIv8lt.webp?v=1761976538
-    Price: 76,80 $ CAD
-  - [Brown / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook?variant=47983477915891)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2195271.webp?v=1762081793
+    Price: 37,71 $ CAD
+  - [Brown / B6](https://enchantementseraphelya.com/products/vintage-european-style-password-locked-notebook-carnet?variant=47983477915891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/FqZ8YqNsMIwYlSOD.webp?v=1761976526
-    Price: 76,80 $ CAD
-- [Tirmanaz Runes Set 25Pcs Wooden Viking Runes Rune Stone Set with Guide Book Velvet Bag Norse Runes for Beginners Witchcraft/Divination/Meditation/Spiritual - Enchantement Seraphélya](https://enchantementseraphelya.com/products/tirmanaz-runes-set-25pcs-wooden-viking-runes-rune-stone-set-with-guide-book-velvet-bag-norse-runes-for-beginners-witchcraft-divination-meditation-spiritual): Buy Tirmanaz Runes Set 25Pcs Wooden Viking Runes Rune Stone Set with Guide Book Velvet Bag Norse Runes for Beginners Witchcraft/Divination/Meditation/Spiritual for only CA$107.83 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:39Z
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6551420.webp?v=1762081792
+    Price: 37,71 $ CAD
+- [Tirmanaz – 25 Runes Nordiques en Bois avec Guide](https://enchantementseraphelya.com/products/tirmanaz-runes-viking-stone-guide-witchcraft-divination): Buy Tirmanaz Runes Set 25Pcs Wooden Viking Runes Rune Stone Set with Guide Book Velvet Bag Norse Runes for Beginners Witchcraft/Divination/Meditation/Spiritual for only CA$107.83 at Enchantement Seraphélya!
+  Updated: 2025-11-02T22:25:42Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/gVRlase0xx47WPaa.webp?v=1761976739
-  Price: 107,83 $ CAD
-- [Hand-Painted Pentagram Horn Mug with Stainless Steel Liner - Enchantement Seraphélya](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-with-stainless-steel-liner): Buy Hand-Painted Pentagram Horn Mug with Stainless Steel Liner for only CA$56.66 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:39Z
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4399502.webp?v=1762081832
+  Price: 64,56 $ CAD
+- [Hand-Painted Pentagram Horn Mug with Stainless Steel Liner](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-stainless-steel-liner-tasse): Plongez dans le charme mystique de la Tasse Corne Pentagramme, une pièce d’exception qui allie art et fonctionnalité avec une beauté envoûtante. Fabriquée en résine de haute qualité et peinte à la main avec des détails minutieux, cette tasse n’est pas qu’un simple récipient : c’est une œuvre d’art symbolique et une affirmation de style. Avec sa capacité généreuse de 600 ml (20 oz), elle est parfaite pour savourer vos boissons préférées lors de rassemblements médiévaux, gothiques ou wicca. L’intérieur est doté d’un revêtement en acier inoxydable assurant une boisson sécuritaire tout en préservant la beauté du design. Idéale pour les adeptes de l’univers Baphomet Sabbatique, Wicca mystique, paganisme et symbolisme ésotérique, cette tasse saura captiver les regards à chaque occasion. Que vous dégustiez une potion magique, un thé rituel ou une boisson festive, son design unique en fera à coup sûr un sujet de conversation fascinant. Découvrez toute la beauté de cette pièce à travers les images ci-dessous et élevez votre expérience de dégustation vers un tout nouveau niveau d’enchantement et de mystère.
+  Updated: 2025-11-02T22:21:55Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/93dGNhb3t1FD8btj.webp?v=1761977105
-  - [600ml](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-with-stainless-steel-liner?variant=47983483289843)
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7718531.webp?v=1762081796
+  - [600ml](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-stainless-steel-liner-tasse?variant=47983483289843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/93dGNhb3t1FD8btj.webp?v=1761977105
-    Price: 77,77 $ CAD
-  - [220ml](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-with-stainless-steel-liner?variant=47983483322611)
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7718531.webp?v=1762081796
+    Price: 58,82 $ CAD
+  - [220ml](https://enchantementseraphelya.com/products/hand-painted-pentagram-horn-mug-stainless-steel-liner-tasse?variant=47983483322611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/RbAShi41UKySbujT.webp?v=1761977149
-    Price: 56,66 $ CAD
-- [Natural Crystal Semi-Precious Agate Yoga Symbol Set - Enchantement Seraphélya](https://enchantementseraphelya.com/products/natural-crystal-semi-precious-agate-yoga-symbol-set): Buy Natural Crystal Semi-Precious Agate Yoga Symbol Set for only CA$54.33 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:39Z
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2344551.webp?v=1762081797
+    Price: 36,41 $ CAD
+- [Ensemble de Symboles de Yoga en Cristal Naturel d’Agate](https://enchantementseraphelya.com/products/natural-crystal-semi-precious-agate-yoga-symbol-set): Buy Natural Crystal Semi-Precious Agate Yoga Symbol Set for only CA$54.33 at Enchantement Seraphélya!
+  Updated: 2025-11-02T22:27:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EWC2XboH6Hqx1uAH.webp?v=1761977122
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5554658.webp?v=1762081795
   - [30*25*6MM oval](https://enchantementseraphelya.com/products/natural-crystal-semi-precious-agate-yoga-symbol-set?variant=47983483355379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/EWC2XboH6Hqx1uAH.webp?v=1761977122
-    Price: 55,22 $ CAD
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5554658.webp?v=1762081795
+    Price: 39,63 $ CAD
   - [25*25*5MM double plane arc edge circular](https://enchantementseraphelya.com/products/natural-crystal-semi-precious-agate-yoga-symbol-set?variant=47983483388147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/VieeeqOTsHMu3srW.webp?v=1761977146
-    Price: 54,33 $ CAD
-- [Mens Fashionable Vintage Viking Symbol Skull Eagle Beak Pendant Necklace - Enchantement Seraphélya](https://enchantementseraphelya.com/products/mens-fashionable-vintage-viking-symbol-skull-eagle-beak-pendant-necklace): Buy Mens Fashionable Vintage Viking Symbol Skull Eagle Beak Pendant Necklace for only CA$35.04 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:40Z
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6112299.webp?v=1762081796
+    Price: 39,35 $ CAD
+- [Dague en Acier Inoxydable Trendy Zone 21](https://enchantementseraphelya.com/products/trendy-zone-21-stainless-steel-dagger-dague): Dague Trendy Zone 21 en acier inoxydable - lame de collection avec symboles maçonniques gravés, poignée antique noir et or. Élégante et durable
+  Updated: 2025-11-02T21:52:02Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/xoeJ7GHcHDM9jGNG.webp?v=1761977152
-  - [Steel / With Chain](https://enchantementseraphelya.com/products/mens-fashionable-vintage-viking-symbol-skull-eagle-beak-pendant-necklace?variant=47983483453683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/xoeJ7GHcHDM9jGNG.webp?v=1761977152
-    Price: 35,04 $ CAD
-  - [Silver Gold / With Chain](https://enchantementseraphelya.com/products/mens-fashionable-vintage-viking-symbol-skull-eagle-beak-pendant-necklace?variant=47983483486451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/8wDZgCCqs7cbhk5c.webp?v=1761977205
-    Price: 35,91 $ CAD
-- [Trendy Zone 21 Stainless-Steel Dagger Knife King Sword with Square Compass Freemason Masonic Symbol Embossed Gift for Men I Comes in Box ||15.50" long/ 9" long Stainless Steel Blade - Enchantement Seraphélya](https://enchantementseraphelya.com/products/trendy-zone-21-stainless-steel-dagger-knife-king-sword-with-square-compass-freemason-masonic-symbol-embossed-gift-for-men-i-comes-in-box-15-50-long-9-long-stainless-steel-blade): Buy Trendy Zone 21 Stainless-Steel Dagger Knife King Sword with Square Compass Freemason Masonic Symbol Embossed Gift for Men I Comes in Box ||15.50" long/ 9" long Stainless Steel Blade for only CA$184.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:40Z
-  Vendor: Enchantement Seraphélya 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/KKpgi8MpD2Vp59iw.webp?v=1761977514
-  Price: 184,98 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6524305.webp?v=1762081795
+  Price: 99,13 $ CAD
 - [Spirit Box – New 2024 Ghost Hunting Equipment Used in Paranormal Investigations - Enchantement Seraphélya](https://enchantementseraphelya.com/products/spirit-box-new-2024-ghost-hunting-equipment-used-in-paranormal-investigations): Buy Spirit Box – New 2024 Ghost Hunting Equipment Used in Paranormal Investigations for only CA$365.13 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:41Z
+  Updated: 2025-11-02T11:10:28Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/hCPIwtXbG0FhR9ix.webp?v=1761977652
-  Price: 365,13 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6064999.webp?v=1762081827
+  Price: 196,28 $ CAD
 - [Ghost Hunting Spirit Box - KII K-II K-2 K2 EMF Meter & EVP Recorder - Enchantement Seraphélya](https://enchantementseraphelya.com/products/ghost-hunting-spirit-box-kii-k-ii-k-2-k2-emf-meter-evp-recorder): Buy Ghost Hunting Spirit Box - KII K-II K-2 K2 EMF Meter & EVP Recorder for only CA$920.61 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:41Z
+  Updated: 2025-11-02T11:11:07Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/HIxnl7NRZg0a4lPh.webp?v=1761977664
-  Price: 920,61 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3451641.webp?v=1762081866
+  Price: 493,19 $ CAD
 - [PSB7 PRO Spirit Box - Enchantement Seraphélya](https://enchantementseraphelya.com/products/psb7-pro-spirit-box): Buy PSB7 PRO Spirit Box for only CA$1,419.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:42Z
+  Updated: 2025-11-02T11:11:04Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/kRqT9NrDXDJTLwno.webp?v=1761977672
-  Price: 1 419,56 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3200250.webp?v=1762081863
+  Price: 952,09 $ CAD
 - [130cm Spirit Plush Ugly Treasure Collectible Doll - Enchantement Seraphélya](https://enchantementseraphelya.com/products/130cm-spirit-plush-ugly-treasure-collectible-doll): Buy 130cm Spirit Plush Ugly Treasure Collectible Doll for only CA$113.76 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:42Z
+  Updated: 2025-11-02T11:09:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ULO3zGmTUPtKBWh5.webp?v=1761977711
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8213632.webp?v=1762081798
   - [130cm](https://enchantementseraphelya.com/products/130cm-spirit-plush-ugly-treasure-collectible-doll?variant=47983491875059)
     Availability: Available
-    Price: 130,52 $ CAD
+    Price: 70,40 $ CAD
   - [78cm](https://enchantementseraphelya.com/products/130cm-spirit-plush-ugly-treasure-collectible-doll?variant=47983491907827)
     Availability: Available
-    Price: 113,76 $ CAD
+    Price: 47,68 $ CAD
 - [Black Spirit Board Game for Ghost Hunting with Planchette and Instruction - Enchantement Seraphélya](https://enchantementseraphelya.com/products/black-spirit-board-game-for-ghost-hunting-with-planchette-and-instruction): Buy Black Spirit Board Game for Ghost Hunting with Planchette and Instruction for only CA$106.82 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:43Z
+  Updated: 2025-11-02T11:10:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/3lfrwXeReqDqldf9.webp?v=1761977775
-  Price: 106,82 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2780665.webp?v=1762081798
+  Price: 54,22 $ CAD
 - [Mother Earth Statue - Goddess Gaia Verdandi Decor - Enchantement Seraphélya](https://enchantementseraphelya.com/products/mother-earth-statue-goddess-gaia-verdandi-decor): Buy Mother Earth Statue - Goddess Gaia Verdandi Decor for only CA$54.29 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:43Z
+  Updated: 2025-11-02T11:11:48Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/ccuaxXsp8S7XKakn.webp?v=1761978033
-  Price: 54,29 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8184033.webp?v=1762081907
+  Price: 54,89 $ CAD
 - [Luxury Justice Goddess Sculpture Home Decor Piece - Enchantement Seraphélya](https://enchantementseraphelya.com/products/luxury-justice-goddess-sculpture-home-decor-piece): Buy Luxury Justice Goddess Sculpture Home Decor Piece for only CA$79.35 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:44Z
+  Updated: 2025-11-02T11:09:38Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/H0ayaqLY6w4zWayY.webp?v=1761978062
-  Price: 79,35 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6748312.webp?v=1762081777
+  Price: 81,76 $ CAD
 - [Outdoor Goddess Hound Resin Statue for Home Decor - Enchantement Seraphélya](https://enchantementseraphelya.com/products/outdoor-goddess-hound-resin-statue-for-home-decor): Buy Outdoor Goddess Hound Resin Statue for Home Decor for only CA$47.56 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:44Z
+  Updated: 2025-11-02T11:10:08Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/s7Tj1ybAaOYe4T1Y.webp?v=1761978131
-  Price: 47,56 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7347345.webp?v=1762081807
+  Price: 54,41 $ CAD
 - [Bastet Cat Goddess Statue with Crystal Base for Decor - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bastet-cat-goddess-statue-with-crystal-base-for-decor): Buy Bastet Cat Goddess Statue with Crystal Base for Decor for only CA$61.36 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:45Z
+  Updated: 2025-11-02T11:10:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/fsCLAbkcUgVpYjUL.webp?v=1761978146
-  Price: 61,36 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2066922.webp?v=1762081799
+  Price: 36,83 $ CAD
 - [DOVDOV Greek Goddess Decoration Young Venus Bust Classic Roman Bust Greek Mythology Decoration for Home Decorative Statues Home Office Bedroom Console Shelf Decoration - Enchantement Seraphélya](https://enchantementseraphelya.com/products/dovdov-greek-goddess-decoration-young-venus-bust-classic-roman-bust-greek-mythology-decoration-for-home-decorative-statues-home-office-bedroom-console-shelf-decoration): Buy DOVDOV Greek Goddess Decoration Young Venus Bust Classic Roman Bust Greek Mythology Decoration for Home Decorative Statues Home Office Bedroom Console Shelf Decoration for only CA$112.98 at Enchantement Seraphélya!
-  Updated: 2025-11-01T07:48:45Z
+  Updated: 2025-11-02T11:09:56Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/6wupUUri9DLQNkDv.webp?v=1761978249
-  Price: 112,98 $ CAD
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8380809.webp?v=1762081795
+  Price: 106,19 $ CAD
+- [Bougie cire d’abeille (paquet de 2) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2): Buy Bougie cire d’abeille (paquet de 2) for only CA$12.72 at Enchantement Seraphélya!
+  Updated: 2025-11-02T12:11:31Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: Bougie standards
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8698765.png?v=1762081866
+  - [Blanche](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052071667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8698765.png?v=1762081866
+    Price: 12,72 $ CAD
+  - [Noire](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052104435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4267667.png?v=1762081779
+    Price: 12,72 $ CAD
+  - [Vert](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052137203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5055227.png?v=1762081778
+    Price: 12,72 $ CAD
+  - [Rouge](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052169971)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9643843.png?v=1762081809
+    Price: 12,72 $ CAD
+  - [Rose](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052202739)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1995381.png?v=1762081778
+    Price: 12,72 $ CAD
+  - [Violette](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052235507)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4331660.png?v=1762081778
+    Price: 12,72 $ CAD
+  - [Orange](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052268275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6596978.png?v=1762081808
+    Price: 12,72 $ CAD
+  - [Jaune](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052301043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8967519.png?v=1762081867
+    Price: 12,72 $ CAD
+  - [Brun](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052333811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1548770.png?v=1762081779
+    Price: 12,72 $ CAD
+  - [Vert foncé](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052366579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2128797.png?v=1762081808
+    Price: 12,72 $ CAD
+  - [Brun foncé](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986052399347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2706428.png?v=1762081866
+    Price: 12,72 $ CAD
+  - [Bleu](https://enchantementseraphelya.com/products/bougie-cire-d-abeille-paquet-de-2?variant=47986055545075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3212571.png?v=1762081809
+    Price: 12,72 $ CAD
 
 ## Collections
 
 - [Home page - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/frontpage): Home page - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:02Z
-  Total Products: 0
-- [Digital Goods VAT Tax](https://enchantementseraphelya.com/collections/digital-goods-vat-tax)
-  Updated: 2025-08-27T01:55:44Z
   Total Products: 0
 - [Kit chandelles rituelles à façonner - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/chandelles-bougies-traditionnelles): Kit chandelles rituelles à façonner - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:02Z
@@ -1342,8 +1435,8 @@
   Updated: 2025-11-01T03:15:30Z
   Total Products: 10
 - [Encens traditionnels & Rituelles - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/encens-traditionnels-rituelles): Encens magiques pour rituels, méditation et purification. Plantes et résines sacrées pour protection, amour, abondance et énergie spirituelle. Seraphélya
-  Updated: 2025-11-01T02:47:05Z
-  Total Products: 11
+  Updated: 2025-11-02T14:39:24Z
+  Total Products: 12
 - [Chandelles/bougies design - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/chandelles-bougies-design): Chandelles/bougies design - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:02Z
   Total Products: 0
@@ -1356,9 +1449,9 @@
 - [Herbes rituelles & magiques - Sorcellerie naturelle | Seraphélya - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/herbes-rituelles-magiques): Les herbes rituelles Seraphélya sont cueillies et préparées avec intention, selon les cycles lunaires et les traditions anciennes de la sorcellerie naturelle. Chaque mélange est une porte vers un royaume d'énergie : purification, protection, amour, prospérité, intuition ou transformation. Lavande, romarin, camomille, sauge, rose, ortie ou cannelle... chaque plante possède son esprit et son pouvoir. Utilise-les pour consacrer un autel, préparer un bain rituel, créer un encens, ou charger une bougie magique. Nos herbes magiques sont vendues seules ou en kits rituels pour chaque sabbat ou intention. Elles sont idéales pour les sorcières modernes, les pratiquant-es wiccans, et toutes les âmes qui honorent la Terre. Éveille ton pouvoir avec la magie végétale. Chaque feuille est un message, chaque parfum un sortilège. Herbes rituelles, herbes magiques, plantes de sorcellerie, herbes de purification, herbes de protection, herbes païennes, sorcellerie naturelle, magie verte. Herbes magiques, encens et mélanges sacrés pour tes rituels. Purifie, protège et manifeste tes intentions avec la nature enchantée de Seraphélya.
   Updated: 2025-10-31T13:40:25Z
   Total Products: 0
-- [Huiles rituelles magiques - Élixirs sacrés et rituels d'intention - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/huiles-rituelles-magiques): Les huiles magiques d'Enchantement Seraphélya sont des élixirs d'intention et de lumière, créés pour relier ton âme à la vibration de l'univers. Elles sont bien plus que de simples parfums : ce sont des outils spirituels vivants, infusés d'herbes bénies, de cristaux et d'énergies lunaires soigneusement canalisées. Chaque fiole est préparée à la main, dans le respect des cycles lunaires et des correspondances planétaires. Les huiles végétales pures sont associées à des essences naturelles, des fleurs séchées et des pierres précieuses, créant une alchimie vibratoire qui agit sur ton corps, ton esprit et ton aura. Elles s'utilisent dans tous les rituels : pour oindre une bougie, bénir un autel, purifier un objet sacré, ou simplement parfumer ton énergie avant une méditation. Quelques gouttes suffisent pour activer leur pouvoir : la fragrance devient une prière silencieuse, une vibration qui éveille la mémoire spirituelle et appelle la synchronicité. Chaque huile a une intention sacrée : Huiles d'amour et de beauté - pour attirer, harmoniser et rayonner la tendresse. Huiles de prospérité et d'abondance - pour activer le flux de réussite et d'opportunités. Huiles de protection et de purification - pour créer un bouclier de lumière et restaurer la paix intérieure. Huiles de clarté spirituelle - pour ouvrir les canaux de la conscience et la communication divine. Huiles lunaires - pour s'aligner sur les cycles célestes et amplifier l'intuition. Chaque création est consacrée à la main par Seraphélya, purifiée à la fumée de sauge, et bénie sous la Lune avant d'être scellée. Leur énergie est douce, mais puissante : elles t'aident à te reconnecter à ta magie naturelle, à ton intuition et à ton pouvoir de manifestation. Les huiles magiques de Seraphélya sont aussi de magnifiques cadeaux spirituels : elles accompagnent les âmes en chemin, les sorcières modernes, les rêveurs et les guérisseurs. Utilisées régulièrement, elles transforment ton espace et ta vibration, faisant de chaque jour un rituel sacré. Elles ne contiennent ni alcool, ni produits synthétiques - uniquement des ingrédients naturels, éthiques et vibratoires. huile magique, huile d'onction, huile rituelle, potion de sorcière, huile de lune, huile énergétique.
-  Updated: 2025-10-31T05:44:03Z
-  Total Products: 0
+- [Huiles rituelles magiques - Élixirs sacrés](https://enchantementseraphelya.com/collections/huiles-rituelles-magiques): Découvrez nos huiles magiques artisanales consacrées selon les intentions : amour, protection, abondance et guérison. Des élixirs sacrés signés Seraphélya
+  Updated: 2025-11-02T11:16:44Z
+  Total Products: 42
 - [Eau magique - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/eau-magique): Eau magique - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:03Z
   Total Products: 0
@@ -1381,10 +1474,10 @@
   Updated: 2025-10-31T05:44:03Z
   Total Products: 0
 - [Sabbats - Célébration de la roue de l'année](https://enchantementseraphelya.com/collections/rituels-des-sabbats): Collection Sabbats : rituels, bougies, herbes et huiles pour célébrer les 8 fêtes païennes de la Roue de l'Année. Magie des saisons et spiritualité naturelle.
-  Updated: 2025-11-01T02:28:54Z
-  Total Products: 0
+  Updated: 2025-11-02T02:01:56Z
+  Total Products: 1
 - [Kits rituels - Lune, amour, protection et prospérité - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/kits-rituels): Kits rituels - Lune, amour, protection et prospérité - Enchantement Seraphélya
-  Updated: 2025-11-01T01:28:27Z
+  Updated: 2025-11-01T23:34:00Z
   Total Products: 2
 - [bougies naturelle fait à la main](https://enchantementseraphelya.com/collections/chandelles-bougies): Nos bougies sont une étincelle de magie. Allumée, elle devient messagère de vos souhaits, purifie vos espaces et éclaire vos rituels. Enchantement Seraphélya
   Updated: 2025-10-31T05:44:03Z
@@ -1411,8 +1504,8 @@
   Updated: 2025-10-31T05:44:04Z
   Total Products: 0
 - [Enchantement Seraphélya - Boutique de sorcellerie artisanale](https://enchantementseraphelya.com/collections/accueil-enchantement-seraphelya): Enchantement Seraphélya t'invite à pénétrer dans un monde où chaque création porte une âme. Notre boutique de sorcellerie est une sanctuaire de magie naturelle.
-  Updated: 2025-11-01T02:51:47Z
-  Total Products: 27
+  Updated: 2025-11-02T23:02:32Z
+  Total Products: 35
 - [Kit chandelles rituelles à façonner - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/kit-chandelles-a-faconner): Kit chandelles rituelles à façonner - Enchantement Seraphélya
   Updated: 2025-10-31T05:44:04Z
   Total Products: 0
@@ -1423,62 +1516,59 @@
   Updated: 2025-11-01T03:03:38Z
   Total Products: 0
 - [Bougies Standards - Rituel et intention magique | Seraphélya](https://enchantementseraphelya.com/collections/bougies-standards-rituel-magique-seraphelya): Découvrez les bougies standards idéales pour vos rituels de purification, de protection et d'intention magique. Chaque couleur possède sa vibration. Seraphélya
-  Updated: 2025-11-01T03:01:58Z
-  Total Products: 1
+  Updated: 2025-11-02T00:52:02Z
+  Total Products: 2
 - [Pierres et cristaux | Enchantement Seraphélya](https://enchantementseraphelya.com/collections/pierres-et-cristaux): Découvrez notre collection de pierres et cristaux énergétiques. Elles vous accompagnent dans vos rituels, méditations et pratiques magiques et intentions.
-  Updated: 2025-11-01T02:55:44Z
-  Total Products: 18
+  Updated: 2025-11-02T02:58:34Z
+  Total Products: 20
 - [Divination et Spiritisme – Oracles, Pendules, Communication](https://enchantementseraphelya.com/collections/divination-et-spiritisme-oracles-pendules-communication): Divination et Spiritisme – Oracles, Pendules, cartes, boules de cristal et accessoires pour communiquer avec l’Invisible et éveiller l'intuition
-  Updated: 2025-11-01T03:01:25Z
+  Updated: 2025-11-02T23:44:30Z
+  Total Products: 28
+- [Accessoires et Outils Magiques – Enchantement Seraphélya](https://enchantementseraphelya.com/collections/accessoires-outils-magiques-rituel-pouvoir-spirituel): Découvrez nos accessoires et outils magiques : athamé, chaudrons, baguettes, cloches et pentacles pour enrichir vos rituels sacrés
+  Updated: 2025-11-02T23:02:32Z
+  Total Products: 20
+- [Tarots et Oracles - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/tarots-et-oracles): Explorez nos tarots et oracles mystiques pour éveiller votre intuition, recevoir des guidances spirituelles et révéler les messages de l'univers.
+  Updated: 2025-11-02T11:25:06Z
+  Total Products: 31
+- [Mortier et pilon - Accessoires de sorcellerie | Seraphélya](https://enchantementseraphelya.com/collections/mortier-et-pilon-broyer-melanges-magiques-seraphelya): Découvrez mortier et pilon rituels pour sorcières et praticiens. En pierre, bois ou fonte, ils servent à broyer les herbes, cristaux et encens. Seraphélya
+  Updated: 2025-11-02T22:57:41Z
+  Total Products: 10
+- [Encensoirs & Porte-Encens – purification et de méditation](https://enchantementseraphelya.com/collections/encensoirs-porte-encens-accessoires-rituels-de-purification): Encensoirs & Porte-Encens – Accessoires rituels de purification et de méditation | Magie, fumigation & sérénité - Enchantement Seraphélya
+  Updated: 2025-11-02T20:47:19Z
+  Total Products: 6
+- [Pyramides - énergétiques - cristaux & symboles de pouvoir](https://enchantementseraphelya.com/collections/pyramides-energetique-cristaux-protection-energie-seraphelya): Découvrez nos pyramides énergétiques en cristaux et pierres naturelles. Véritables amplificateurs spirituels, elles équilibrent les chakras, purifient l'aura.
+  Updated: 2025-11-02T23:38:09Z
+  Total Products: 9
+- [Les Intentions Magiques - manifestation, Énergies](https://enchantementseraphelya.com/collections/les-intentions-magiques-manifestation-energie-spirituelle): Découvrez la Collection Les Intentions magiques : amour, abondance, protection, guérison et divination. Des rituels magiques pour manifester vos désirs.
+  Updated: 2025-11-02T20:20:31Z
+  Total Products: 0
+- [Amour, Beauté & Amitié - Rituels Magiques du Coeur](https://enchantementseraphelya.com/collections/amour-beaute-amitie): Rituels d'amour, beauté et amitié pour éveiller la tendresse, la confiance et le rayonnement intérieur, La magie du cœur selon Seraphélya
+  Updated: 2025-11-02T20:18:50Z
+  Total Products: 3
+- [Abondance et Prospérité - Rituels d'argent, chance, succès](https://enchantementseraphelya.com/collections/argent-abondance-prosperite-chance-succes-et-richesse): Attirez richesse, succès et abondance avec nos rituels magiques : bougies, huiles et herbes de prospérité signées Seraphélya
+  Updated: 2025-11-02T20:16:46Z
+  Total Products: 0
+- [Santé & Guérison - Rituels de bien-être et d'harmonie](https://enchantementseraphelya.com/collections/sante-guerison-emorionnelle-spirituelle-physique): Purifiez votre énergie et retrouvez vitalité et paix intérieure grâce à nos rituels magiques de guérison et de santé holistique
+  Updated: 2025-11-02T20:14:39Z
+  Total Products: 4
+- [Protection & Purification - Rituels de Lumière et de Force](https://enchantementseraphelya.com/collections/protection-purification): Protégez votre énergie et purifiez votre espace avec nos rituels magiques de lumière : bougies, huiles et herbes de protection spirituelle
+  Updated: 2025-11-02T20:12:37Z
+  Total Products: 6
+- [Réussite au travail et études - concentration et Succès](https://enchantementseraphelya.com/collections/travail-carriere-etudes-examen-projets): Boostez votre réussite, concentration et motivation avec nos rituels magiques pour le travail, les études et les projets
+  Updated: 2025-11-02T20:11:30Z
+  Total Products: 0
+- [Psychisme et Clairvoyance - Rituels d'Intuition](https://enchantementseraphelya.com/collections/psychisme-clairvoyance-intuition-meditation-divination): Éveillez vos dons intuitifs et votre clairvoyance et votre psychisme avec nos rituels de méditation, spiritualité et divination signés Seraphélya
+  Updated: 2025-11-02T20:06:44Z
   Total Products: 5
-- [Accessoires et Outils Magiques – Rituel, Énergie et Pouvoir Spirituel](https://enchantementseraphelya.com/collections/accessoires-et-outils-magiques-rituel-energie-et-pouvoir-spirituel): Entrez dans l’univers envoûtant des Accessoires et Outils Magiques d’Enchantement Seraphélya, conçus pour accompagner chaque sorcière, praticien et âme mystique dans ses rituels sacrés. Cette collection rassemble tout le nécessaire pour créer un autel puissant, canaliser les énergies subtiles et renforcer vos pratiques spirituelles : chaudrons en fonte, baguettes, pendules, encensoirs, bougeoirs, plumes rituelles, fioles d’offrandes et outils de divination. Chaque objet est choisi pour sa symbolique, sa pureté vibratoire et sa capacité à amplifier vos intentions. Utilisez-les pour purifier votre espace, invoquer les éléments, tracer vos cercles sacrés, ou consacrer vos bougies et cristaux. Ces outils deviennent le prolongement de votre volonté magique et de votre lumière intérieure. Chaque accessoire détient une âme. Choisissez-le, bénissez-le, et laissez la magie vous guider.
-  Updated: 2025-11-01T02:55:31Z
-  Total Products: 8
-- [Tarots et Oracles](https://enchantementseraphelya.com/collections/tarots-et-oracles): Plongez dans l’univers sacré de la divination avec la collection Tarot et Oracle d’Enchantement Seraphélya. Chaque jeu a été choisi pour sa vibration unique, ses symboles mystiques et son énergie spirituelle. Ces cartes vous guident à travers les cycles de la vie, les révélations de l’âme et les messages des plans invisibles. Qu’il s’agisse d’un tarot classique pour explorer les archétypes universels ou d’un oracle prophétique pour canaliser des messages intuitifs, vous trouverez ici des outils puissants pour éveiller votre intuition, éclairer vos choix et renforcer votre connexion à l’invisible. Utilisez ces jeux lors de vos rituels, tirages journaliers ou séances de méditation pour obtenir des réponses claires, des présages lumineux et des guidances inspirées. Chaque carte devient un portail entre le visible et l’invisible, un miroir de votre destin. Laissez les cartes parler, et laissez la magie opérer.
-  Updated: 2025-11-01T03:36:39Z
-  Total Products: 12
-- [Jewelry](https://enchantementseraphelya.com/collections/jewelry)
-  Updated: 2025-11-01T04:38:54Z
-  Total Products: 1
-- [Household Supplies](https://enchantementseraphelya.com/collections/household-supplies)
-  Updated: 2025-11-01T04:46:42Z
+- [Bannissement et Brise-sort - Rituels contre le Mauvais Oeil](https://enchantementseraphelya.com/collections/bannissement-blocage-brise-sort-mauvais-oeil): Brisez les sorts et éloignez le mauvais oeil avec nos rituels de bannissement, purification et protection signés Seraphélya
+  Updated: 2025-11-02T20:04:29Z
   Total Products: 2
-- [Decor](https://enchantementseraphelya.com/collections/decor)
-  Updated: 2025-11-01T04:48:30Z
-  Total Products: 1
-- [Household Appliances](https://enchantementseraphelya.com/collections/household-appliances)
-  Updated: 2025-11-01T06:05:11Z
-  Total Products: 2
-- [Office Furniture](https://enchantementseraphelya.com/collections/office-furniture)
-  Updated: 2025-11-01T06:21:08Z
-  Total Products: 2
-- [Household Appliance Accessories](https://enchantementseraphelya.com/collections/household-appliance-accessories)
-  Updated: 2025-11-01T05:21:17Z
-  Total Products: 1
-- [Home & Garden](https://enchantementseraphelya.com/collections/home-garden)
-  Updated: 2025-11-01T06:05:59Z
-  Total Products: 3
-- [Sofas](https://enchantementseraphelya.com/collections/sofas)
-  Updated: 2025-11-01T05:30:22Z
-  Total Products: 1
-- [Paper Handling](https://enchantementseraphelya.com/collections/paper-handling)
-  Updated: 2025-11-01T05:54:35Z
-  Total Products: 1
-- [Luggage & Bags](https://enchantementseraphelya.com/collections/luggage-bags)
-  Updated: 2025-11-01T05:54:40Z
-  Total Products: 1
-- [General Office Supplies](https://enchantementseraphelya.com/collections/general-office-supplies)
-  Updated: 2025-11-01T05:55:10Z
-  Total Products: 1
-- [Hobbies & Creative Arts](https://enchantementseraphelya.com/collections/hobbies-creative-arts)
-  Updated: 2025-11-01T06:22:31Z
-  Total Products: 3
-- [Toys](https://enchantementseraphelya.com/collections/toys)
-  Updated: 2025-11-01T06:15:17Z
-  Total Products: 1
-- [Signage](https://enchantementseraphelya.com/collections/signage)
-  Updated: 2025-11-01T06:20:34Z
-  Total Products: 1
+- [Magie Obscure - Rituels Mystiques, Transformation, Pouvoir](https://enchantementseraphelya.com/collections/magie-obscure-pouvoir-transformation-mystique): Découvrez la Magie Obscure : rituels de transformation, puissance intérieure et alchimie spirituelle signés Enchantement Seraphélya
+  Updated: 2025-11-02T20:01:39Z
+  Total Products: 0
+- [Amour - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/amour): Amour - Enchantement Seraphélya
+  Updated: 2025-11-02T18:03:37Z
+  Total Products: 0
 
 ## Blogs
 
