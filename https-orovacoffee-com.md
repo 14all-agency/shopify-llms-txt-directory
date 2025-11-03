@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-11-01T16:00:40.230Z
+- Updated At: 2025-11-03T00:00:46.999Z
 
 ## Products
 
@@ -288,7 +288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021_Custom_with_label.png?v=1758369057
   Price: £25.99 GBP
 - [SPECIALTY COFFEE BEAN ADVENT CALENDAR](https://orovacoffee.com/products/coffee-bean-advent-calendar): This festive season, gift the Coffee Bean Advent Calendar to a coffee lover or let it be the centerpiece of your yuletide mornings. Because nothing says "Christmas is coming" like the rich aroma of freshly brewed specialty coffee as you unveil beans hand-picked from 25 meticulously chosen coffee artisans and cooperatives, all waiting to brew magic in your mug.
-  Updated: 2025-11-01T13:44:31Z
+  Updated: 2025-11-02T12:20:30Z
   Vendor: The Brew Company
   Product Type: Christmas Gift
   Availability: Available
@@ -383,7 +383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
   Price: £2.99 GBP
 - [RED Xmas Coffee – Limited Edition Holiday Blend for Gifting & Brewing](https://orovacoffee.com/products/red-xmas): This festive season, embrace the warmth of the holidays in every cup with RED Xmas — a small‑batch coffee crafted to delight, whether you’re brewing at home for yourself or gifting to someone special. ✨ Highlights: • A rich and inviting blend with deep cocoa, caramel sweetness and a whisper of winter spice. • Smooth and balanced body, offering both comfort and character from the first sip to the last. • Versatile across 25 coffee brewers — from espresso machines and French press, to pour‑over, moka pot, drip, AeroPress and more, so you can enjoy RED Xmas exactly how you like it. • Thoughtful holiday packaging makes it an ideal present for coffee lovers or a treat to mark the season with style. How to savour it: Simply brew your favourite way — whether you opt for a finely‑ground shot or a relaxed filter pour — to unlock the caramel and nutty warmth this roast delivers. Pair it with a dash of milk or enjoy it black for the full flavour experience. Celebrate the season with a coffee that’s made to share, savour, and remember. RED Xmas — more than a blend, it’s a holiday moment in a cup.
-  Updated: 2025-11-01T14:56:42Z
+  Updated: 2025-11-02T02:55:23Z
   Vendor: The Brew Company
   Product Type: advent calendar
   Availability: Available
@@ -2615,6 +2615,26 @@
     Updated: 2025-11-01T03:09:26Z
     Author: Orovacoffee
     Tags: beans, brazilian coffee for campers, camping coffee ideas, coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, eco coffee, eco-friendly coffee, eco-friendly coffee gift set, gifts, single origin, single origin coffee gifts, travel-friendly coffee, traveler gifts, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
+  - [The Ultimate Guide to Camping Coffee Essentials](https://orovacoffee.com/blogs/news/the-ultimate-guide-to-camping-coffee-essentials): The Ultimate Guide to Camping Coffee Essentials
+    Updated: 2025-11-02T01:35:36Z
+    Author: Orovacoffee
+    Tags: best camping coffee tools, best coffee for hikers and campers, best coffee gift ideas uk, best coffee gifts for couples, brewing methods, camping, camping coffee essentials, coffee, coffee gear, coffee gift ideas under £30, coffee tasting gift experience, eco friendly birthday gifts uk, espresso, essential coffee tips for campers, how to brew coffee without a machine, how to pick specialty coffee as a gift, how to tell if coffee is high quality, outdoor coffee, sustainable coffee gift box, what is the best coffee for mornings
+  - [Exploring Sustainable Gift Ideas: Specialty Coffee for New UK Parents](https://orovacoffee.com/blogs/news/exploring-sustainable-gift-ideas-specialty-coffee-for-new-uk-parents): Exploring Sustainable Gift Ideas: Specialty Coffee for New UK Parents
+    Updated: 2025-11-02T01:36:03Z
+    Author: Orovacoffee
+    Tags: best place to buy coffee, brewing, christmas gifts, coffee, coffee beans, coffee gift guide for birthdays, coffee gift ideas for christmas uk, coffee gifts, coffee gifts for her birthday, eco-friendly gift ideas, gift ideas for parents, gifts, new parents, specialty coffee, specialty coffee vs supermarket coffee, sustainable gift ideas for new parents, sustainable gifts, where can i buy coffee online
+  - [Buying Specialty Coffee Beans in Bulk: Is It Worth It?](https://orovacoffee.com/blogs/news/buying-specialty-coffee-beans-in-bulk-is-it-worth-it): Buying Specialty Coffee Beans in Bulk: Is It Worth It?
+    Updated: 2025-11-02T01:43:50Z
+    Author: Orovacoffee
+    Tags: adventure coffee gift pack, are coffee beans vegan?, beans, best place to buy coffee beans?, bulk purchasing, buying coffee online, coffee, coffee beans, coffee quality, fresh roasted coffee, gift for someone who loves espresso, how to give coffee as a gift, roasting, specialty coffee, specialty coffee beans, top coffee for outdoor lovers, travel-friendly coffee, where can i buy coffee beans uk?, wholesale specialty beans
+  - [Where to Find Sustainable Coffee Gift Boxes: Specialty Beans and Samplers for Under £25 in the UK](https://orovacoffee.com/blogs/news/where-to-find-sustainable-coffee-gift-boxes-specialty-beans-and-samplers-for-under-25-in-the-uk): Where to Find Sustainable Coffee Gift Boxes: Specialty Beans and Samplers for Under £25 in the UK
+    Updated: 2025-11-02T02:39:56Z
+    Author: Orovacoffee
+    Tags: affordable coffee gift boxes, brazilian coffee gift set, coffee, coffee beans, coffee gift, coffee gift box, coffee gift box uk, coffee gift for him / her, coffee gift under £25, coffee sampler gift, coffee sampler gift box, eco-friendly gifts, gifts, single-origin coffee gifts, specialty beans, specialty coffee gifts, sustainable, sustainable coffee gift, sustainable coffee gifts uk, where can i buy coffee gifts
+  - [Coffee Gift Ideas for Him: Discover the Best Eco-Friendly Single Origin Specialty Coffee Sets with Travel-Friendly Compostable Bags](https://orovacoffee.com/blogs/news/coffee-gift-ideas-for-him-discover-the-best-eco-friendly-single-origin-specialty-coffee-sets-with-travel-friendly-compostable-bags): Coffee Gift Ideas for Him: Discover the Best Eco-Friendly Single Origin Specialty Coffee Sets with Travel-Friendly Compostable Bags
+    Updated: 2025-11-02T02:42:10Z
+    Author: Orovacoffee
+    Tags: best coffee sets, coffee, coffee beans, coffee gift ideas for him, compostable coffee bags, eco coffee, eco-friendly, eco-friendly coffee gift set, gifts, single origin coffee, single origin coffee gifts, specialty coffee, sustainable coffee gifts, travel bags, travel-friendly coffee, what is a coffee brewer bag?, what is the best coffee gift for campers, what's the best coffee gift?, where can i buy specialty coffee online?
 - [inceptions](https://orovacoffee.com/blogs/inceptions)
   - [WORLD'S FINEST Specialty Coffee Gift Box - Gift Guide](https://orovacoffee.com/blogs/inceptions/worlds-finest-specialty-coffee-gift-box-gift-guide)
     Updated: 2025-10-15T01:28:25Z
@@ -2645,6 +2665,8 @@
   Updated: 2025-09-20T17:46:38Z
 - [Orova Coffee Loyalty Program](https://orovacoffee.com/pages/orova-coffee-loyalty-program): 🌟 Orova Coffee Loyalty Program Earn credits every time you shop — exclusively for members. At Orova Coffee, every sip should reward you. Our Loyalt...
   Updated: 2025-10-24T16:10:42Z
+- [Liminicoffee](https://orovacoffee.com/pages/liminicoffee): Limini Coffee – Artisan Roasters from Yorkshire Discover Limini Coffee, one of the UK’s leading artisan roasters. Hand-roasted in Yorkshire, their ...
+  Updated: 2025-11-01T19:11:27Z
 
 ## Policies
 
