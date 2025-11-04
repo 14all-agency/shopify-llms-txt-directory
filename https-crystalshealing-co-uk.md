@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-04T00:01:13.203Z
+- Updated At: 2025-11-04T18:16:38.613Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s ethical crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -4659,7 +4659,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_4.webp?v=1750348783
     Price: £18.50 GBP
 - [Stability & Protection Bracelet for Men](https://crystalshealing.co.uk/products/stability-protection-bracelet-for-men): Build resilience and protect your energy with the Stability & Protection Bracelet. Crafted from powerful Hematite and Matte Black Onyx. Designed for men seeking inner balance and mental strength, this bracelet features bold 8 mm beads and a polished hematite cylinder centerpiece that grounds the design in both form and function. The matte finish of the Black Onyx adds understated elegance, while Hematite enhances focus, reduces stress, and supports mental clarity. Key Features: Beads: 8 mm Matte Black Onyx & Hematite Centerpiece: Polished Hematite cylinder – sleek and symbolic Design: Stretch cord for comfort and daily wear Style: Masculine, minimalist, and grounded Pre-cleansed and energetically prepared Crystal Benefits: Hematite: Grounds energy, boosts focus, reduces anxiety and distraction Matte Black Onyx: Strengthens emotional control and shields from negativity This Stability & Protection Bracelet for men is ideal for high-pressure environments, meditation, or anyone needing a reliable energy anchor during daily life. Perfect for: professionals, leaders, students, or anyone working under mental strain.
-  Updated: 2025-10-29T21:49:51Z
+  Updated: 2025-11-04T07:33:48Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4710,14 +4710,14 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_14.webp?v=1751308249
   Price: £9.90 GBP
 - [Rose Quartz Roller with Wooden Handle – Skincare & Eye Therapy](https://crystalshealing.co.uk/products/rose-quartz-roller): Experience the healing energy of rose quartz with this elegant and compact Rose Quartz roller Crafted for effortless facial massage and everyday skincare enhanc
-  Updated: 2025-11-03T16:25:06Z
+  Updated: 2025-11-04T04:25:16Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_21.webp?v=1754063312
   Price: £12.80 GBP
 - [Jade Roller with Wooden Grip – Compact Facial Massage Tool for Skincar](https://crystalshealing.co.uk/products/jade-roller): Restore balance and vitality to your skin with this compact Jade roller. Designed for effective facial massage and daily self-care. Featuring a polished jade sp
-  Updated: 2025-11-03T15:59:28Z
+  Updated: 2025-11-04T03:59:36Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
