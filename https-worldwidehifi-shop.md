@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-03T00:00:29.966Z
+- Updated At: 2025-11-04T00:00:50.971Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -412,13 +412,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5e990cf2-ecfe-4270-b536-897d756c045c.jpg?v=1745857830
   Price: 8.470,00 € EUR
-- [Revox B 750 Integrated Stereo Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/revox-b-750-integrated-stereo-amplifier-gebraucht-kaufen): Revox B 750 Integrated Stereo Amplifier gebraucht kaufen ✅ Geprüfte HiFi Geräte in sehr gutem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:37Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_a987b7dd-d3bf-4c67-9867-4107868cd154.jpg?v=1745853118
-  Price: 999,00 € EUR
 - [Revox Antenna Control für Radio Tuner B 760 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/revox-antenna-control-radio-tuner-b-760-gebraucht-kaufen): Revox Antenna Control für Radio Tuner B 760 gebraucht kaufen ✅ Geprüftes Antennensteuergerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:36Z
   Vendor: WorldWideHifi
@@ -2009,13 +2002,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_61fb322c-3656-4a11-9542-27d00a9cff2b.jpg?v=1759251011
   Price: 186,00 € EUR
-- [Maxell 35-180 XLII Studio Recording Tape kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/maxell-35-180-xlii-studio-recording-tape-metal-kaufen): Maxell 35-180 XLII Studio Recording Tape kaufen ✅ Hochwertiges Tape NEU, SEALED kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-06T10:34:40Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2f55a298-55b5-4fd1-92df-7b44d43ae458.jpg?v=1759251017
-  Price: 190,00 € EUR
 - [Maxell LN 25-120 Studio Recording Tape NEU, SEALED Reel to Reel 2400 ft](https://worldwidehifi.shop/products/maxell-ln-25-120-studio-recording-tape-neu-sealed-reel-to-reel-2400-ft): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum ++ Tape ++ - Gesetzliche Gewährleistung- mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- sehr guter technischer Zustand- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Beschreibung: Nagelneu und immer gut gelagert. Zustand: Neu und verschweißt. Versand: In Deutschland: freiDescription: New, well stored. Condition: New. Sealed.Shipping: In EU: 22 Euro with insurance.Worldwide: 54 Euro with DHL. Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Schweppermannstr. 5, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
   Updated: 2025-10-01T04:54:02Z
   Vendor: WorldWideHiFi
@@ -2173,10 +2159,10 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-11-01T11:20:35Z
+  Updated: 2025-11-03T12:21:23Z
   Total Products: 87
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
-  Updated: 2025-10-05T15:03:55Z
+  Updated: 2025-11-03T12:21:23Z
   Total Products: 11
 - [Vorverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/vorverstaerker-gebraucht-kaufen): Vorverstärker gebraucht kaufen ✓ Vorverstärker / gebrauchte Vorstufen im Top-Zustand! ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-31T11:21:46Z
@@ -2233,8 +2219,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-01T11:20:35Z
-  Total Products: 119
+  Updated: 2025-11-03T22:41:31Z
+  Total Products: 121
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
