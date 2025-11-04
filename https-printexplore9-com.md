@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-11-04T00:00:50.817Z
+- Updated At: 2025-11-04T22:26:18.507Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -448,34 +448,28 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $25.99 USD
 - [Unisex Softstyle T-Shirt - Classic & Ultra-Soft Feel](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore): Enjoy casual comfort with the Gildan Softstyle 64000 tee made from 100% ring-spun cotton. Lightweight fabric soft feel and durable ribbed collar for lasting wear.
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-11-04T22:26:13Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-jersey-short-sleeve-tee.jpg?v=1762253344
   - [White / S](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744223499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
   - [White / M](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744256267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
   - [White / L](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744289035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
   - [White / XL](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744321803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
   - [White / 2XL](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744354571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
   - [White / 3XL](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore?variant=45051744387339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
 - [Floral Scented Soy Candle](https://printexplore9.com/products/scented-soy-candle-9oz-print-explore-2): Experience pure bliss with our floral soy candle—natural wax |long burn |cotton wick, stylish jar and 5 refreshing scents to uplift your space!
   Updated: 2025-10-12T09:52:46Z
@@ -512,7 +506,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $39.99 USD
 - [Blue Flowers Comforter | Cozy Lightweight Warmth](https://printexplore9.com/products/comforter): Enjoy cozy warmth and softness with the Blue Flowers Comforter. Lightweight, fluffy, and perfect for peaceful nights and relaxing mornings.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-04T02:36:14Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -2301,8 +2295,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-10-23T18:12:56Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-10-26T12:37:40Z
-  Total Products: 31
+  Updated: 2025-11-04T11:48:09Z
+  Total Products: 30
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
   Updated: 2025-10-23T11:57:48Z
   Total Products: 7
@@ -2325,8 +2319,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-09-28T17:11:36Z
   Total Products: 1
 - [Home/Room Decor](https://printexplore9.com/collections/home-room-decor): Eco-friendly home decor crafted to enhance your room with natural materials Stylish designs that bring warmth and care.
-  Updated: 2025-09-28T17:11:36Z
-  Total Products: 9
+  Updated: 2025-11-04T11:48:09Z
+  Total Products: 8
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
   Updated: 2025-10-12T09:51:12Z
   Total Products: 12
