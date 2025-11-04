@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-11-02T00:01:00.998Z
+- Updated At: 2025-11-04T22:26:23.684Z
 
 ## Products
 
@@ -1123,6 +1123,18 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_8675.jpg?v=1759315410
   Price: £499.00 GBP
+- [Walking holiday in the Lake District](https://www.georginatalfana.com/products/walking-holiday-in-the-lake-district): The Lake District is famous for its open fells, lakes, wildlife, crags and ancient woodlands. There are 151 mountains over 2000ft (609m) in the Lake District giving you a lot of walking itineraries to choose from in both the north and south regions. Here are some suggestions; Scafell Pike 978m, the highest mountain in England, Helvellyn, Skiddaw, Great Gable, Esk Pike, Blencathra, The Old Man of Coniston, Seathwaite Fell, Mungrisdale Common. You can base your trekking holiday accommodation in one of the quaint towns of Kendal, Keswick, Ambleside, Windermere or Coniston, each one has its own individual charm with a mere, lake or water not far away. And if you are passionate about food and drink, you will not be disappointed with the local delicacies of Cumberland sausages, Westmorland damsons, Grasmere gingerbread, Herdwick lamb and Kendal mint cake. No of nights: 7 No of guided days trekking: 5 Daily ascents and descents: Up to 978m Daily trekking distances: Up to 20km Level of trekking: Moderate Highest elevation: 978m Accommodation: Hotel 3* Food: All meals included Style of holiday: Based in 1 accommodation for the duration of holiday Transport: Transfers to and from trekking location Sightseeing: Various outdoor adventure activities, cultural and arts centres, farmers markets, museums depending on location of accommodation Special interests: Food and drink, wildlife, authors, poets What is not included: Flights, insurance Variations to itinerary: More of less trekking or sightseeing Best time of year for this trek: April, May, June, July, August, September, October
+  Updated: 2025-11-04T11:23:08Z
+  Vendor: Georgina Talfana Treks
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/5504/5644/files/IMG_9338.jpg?v=1762211247
+  - [6-9 pax](https://www.georginatalfana.com/products/walking-holiday-in-the-lake-district?variant=54540821496076)
+    Availability: Available
+    Price: £710.00 GBP
+  - [10-12 pax](https://www.georginatalfana.com/products/walking-holiday-in-the-lake-district?variant=54540821528844)
+    Availability: Available
+    Price: £905.00 GBP
 
 ## Collections
 
@@ -1159,6 +1171,9 @@
 - [Mountain paintings](https://www.georginatalfana.com/collections/mountain-paintings)
   Updated: 2025-10-27T20:26:59Z
   Total Products: 0
+- [Lake District - England](https://www.georginatalfana.com/collections/lake-district-england): Walking holidays in the Lake District - England organised by Georgina Talfana Treks
+  Updated: 2025-11-03T23:19:29Z
+  Total Products: 1
 
 ## Store Pages
 
