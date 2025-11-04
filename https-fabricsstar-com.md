@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-04T00:00:32.165Z
+- Updated At: 2025-11-04T22:26:20.477Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-01T12:20:43Z
+  Updated: 2025-11-04T16:02:27Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-10-30T23:07:52Z
+  Updated: 2025-11-04T19:42:01Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -6727,7 +6727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MOWHAK-WHITE-WHITE.jpg?v=1757518445
     Price: $1.00 USD
 - [MULTI Jacquard Fabric, 55 Inch.in Width](https://fabricsstar.com/products/multi): 88% Polyester 12% Cotton
-  Updated: 2025-10-23T20:17:37Z
+  Updated: 2025-11-04T03:23:10Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -9628,7 +9628,7 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-03T12:12:08Z
+  Updated: 2025-11-04T12:13:36Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-03T12:12:08Z
+  Updated: 2025-11-04T12:13:36Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-03T12:12:08Z
+  Updated: 2025-11-04T12:13:36Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-11-02T12:13:45Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-01T11:12:50Z
+  Updated: 2025-11-04T12:13:36Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-03T12:12:08Z
+  Updated: 2025-11-04T12:13:36Z
   Total Products: 666
 
 ## Blogs
