@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-03T00:00:43.855Z
+- Updated At: 2025-11-04T00:01:05.751Z
 
 ## Products
 
@@ -3080,8 +3080,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-27_1.jpg?v=1709292155
     Price: $2,119.00 USD
-- [Natural Salt And Pepper 1.40CT Kite Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-40ct-kite-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.40CT Kite Diamond Art Deco Unique Engagement Ring is the perfect way to make a forever statement. Handcrafted from diamonds and gold, this ring is sure to impress and symbolize everlasting love. A perfect anniversary or engagement ring.
-  Updated: 2025-10-02T10:30:40Z
+- [1.40CT Salt & Pepper Kite Diamond Art Deco Engagement Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-40ct-kite-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.40CT Kite Diamond Art Deco Unique Engagement Ring is the perfect way to make a forever statement. Handcrafted from diamonds and gold, this ring is sure to impress and symbolize everlasting love. A perfect anniversary or engagement ring.
+  Updated: 2025-11-03T22:35:40Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -3500,8 +3500,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-33_1.jpg?v=1690543686
     Price: $2,599.00 USD
-- [Natural Salt And Pepper 2.20CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-2-20ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This timeless and elegant Natural Salt and Pepper 2.20CT Pear Diamond Art Deco Unique Engagement Ring is carefully handmade for lasting quality. The brilliant center stone is complemented with natural, untreated diamonds for a sparkling finish. Perfect for any special occasion or as an anniversary ring.
-  Updated: 2025-10-02T10:30:40Z
+- [2.20CT Salt & Pepper Pear Diamond Art - your special occasion](https://ibizjewel.com/products/natural-salt-and-pepper-2-20ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This timeless and elegant Natural Salt and Pepper 2.20CT Pear Diamond Art Deco Unique Engagement Ring is carefully handmade for lasting quality. The brilliant center stone is complemented with natural, untreated diamonds for a sparkling finish. Perfect for any special occasion or as an anniversary ring.
+  Updated: 2025-11-03T21:13:32Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -28044,7 +28044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-10_1.jpg?v=1711017242
     Price: $790.00 USD
 - [Moissanite 0.25CT Oval Diamond Necklace](https://ibizjewel.com/products/moissanite-0-25ct-oval-diamond-necklace-3): This Moissanite 0.25ct Oval Diamond Necklace Is Expertly Crafted With Stunning, Sparkling Moissanite Diamonds. With Its Elegant Oval Shape And 0.25 Carat Weight, This Necklace Is The Perfect Addition To Any Jewelry Collection. Enjoy The Brilliance And Durability Of Moissanite At A Fraction Of The Cost Of Traditional Diamonds.
-  Updated: 2025-10-02T10:31:01Z
+  Updated: 2025-11-03T23:23:35Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Oval Diamond Necklace
   Availability: Available
@@ -44391,8 +44391,8 @@
 
 ## Collections
 
-- [Home page](https://ibizjewel.com/collections/frontpage)
-  Updated: 2025-10-02T10:30:36Z
+- [Handmade Diamond Jewelry | Unique Engagement & Wedding Rings - Ibiz Jewel](https://ibizjewel.com/collections/frontpage): Discover the elegance of handmade diamond jewelry at Ibiz Jewel. Explore our exquisite collection of unique engagement rings & custom wedding bands.
+  Updated: 2025-11-03T10:00:36Z
   Total Products: 65
 - [Moissanite Round Diamond Ring](https://ibizjewel.com/collections/moissanite-round-diamond-ring)
   Updated: 2025-10-02T10:30:36Z
@@ -44425,10 +44425,10 @@
   Updated: 2025-10-02T10:30:36Z
   Total Products: 19
 - [Natural Salt And Pepper Kite Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-kite-diamond-ring)
-  Updated: 2025-10-02T10:30:36Z
+  Updated: 2025-11-03T10:48:02Z
   Total Products: 37
 - [Buy Salt & Pepper Diamond Rings Online in the USA](https://ibizjewel.com/collections/natural-salt-and-pepper-diamond-ring): Shop for salt & pepper diamond rings online in the USA are affordable prices at Ibiz Jewels. Explore a huge variety of salt & pepper diamond rings online.
-  Updated: 2025-10-09T10:59:58Z
+  Updated: 2025-11-03T10:48:02Z
   Total Products: 155
 - [IBIZ Special](https://ibizjewel.com/collections/ibiz-special)
   Updated: 2025-10-02T10:30:37Z
@@ -44455,7 +44455,7 @@
   Updated: 2025-10-02T10:30:37Z
   Total Products: 42
 - [Natural Salt And Pepper Pear Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-pear-diamond-ring)
-  Updated: 2025-10-09T10:59:58Z
+  Updated: 2025-11-03T09:11:41Z
   Total Products: 38
 - [Natural Salt And Pepper Round Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-round-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
@@ -44469,9 +44469,9 @@
 - [Natural Salt And Pepper Asscher Diamond Ring](https://ibizjewel.com/collections/natural-salt-and-pepper-asscher-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
   Total Products: 5
-- [Best Selling](https://ibizjewel.com/collections/best-selling)
-  Updated: 2025-10-09T10:59:58Z
-  Total Products: 123
+- [Shop the Best Selling Diamond Jewelry -  Buy it online in USA](https://ibizjewel.com/collections/best-selling): Explore our best-selling diamond jewelry collection. From classic rings to stunning necklaces, each piece blends exceptional craftsmanship and timeless elegance. Find your perfect sparkle today!
+  Updated: 2025-11-03T10:48:02Z
+  Total Products: 122
 - [Lab Grown Emerald Diamond Ring](https://ibizjewel.com/collections/lab-grown-emerald-diamond-ring)
   Updated: 2025-10-02T10:30:37Z
   Total Products: 2
@@ -44630,6 +44630,10 @@
     Updated: 2025-11-02T00:12:58Z
     Author: Heris K.
     Tags: buying sustainable diamonds, diamonds, eco-friendly jewelry, ethical rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry misconceptions
+  - [How Salt and Pepper Diamond Rings Are Changing the Sustainable Jewelry Market](https://ibizjewel.com/blogs/news/how-salt-and-pepper-diamond-rings-are-changing-the-sustainable-jewelry-market): How Salt and Pepper Diamond Rings Are Changing the Sustainable Jewelry Market
+    Updated: 2025-11-03T04:03:08Z
+    Author: Heris K.
+    Tags: alternative engagement rings, diamonds, eco-friendly rings, ethical gemstones, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry trends
 
 ## Store Pages
 
