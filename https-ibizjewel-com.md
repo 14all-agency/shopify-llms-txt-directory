@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-04T00:01:05.751Z
+- Updated At: 2025-11-04T22:26:31.021Z
 
 ## Products
 
@@ -18018,7 +18018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/2_4_454e2c21-dd4d-4de9-8fb3-b78bf31aeb69.jpg?v=1710487524
     Price: $876.00 USD
 - [Moissanite 2.32CT Hexagon Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-2-32ct-hexagon-diamond-minimalist-anniversary-ring): Introducing Our Moissanite 2.32ct Hexagon Diamond Anniversary Ring, A Minimalist And Elegant Piece Perfect For Commemorating Special Moments. Crafted With Precision And Featuring A Striking Hexagon Diamond, This Ring Brings A Modern Touch To The Traditional Anniversary Gift. With A Brilliant Sparkle And Durable Design, It's The Perfect Symbol Of Enduring Love.
-  Updated: 2025-10-02T10:29:19Z
+  Updated: 2025-11-04T17:25:59Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Hexagon Diamond Ring
   Availability: Available
