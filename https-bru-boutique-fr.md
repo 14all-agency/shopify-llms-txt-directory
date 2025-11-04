@@ -231,7 +231,7 @@ Préparation du thé à température précise
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-02-11T09:01:59Z
-- Updated At: 2025-11-01T00:00:48.451Z
+- Updated At: 2025-11-04T22:26:23.153Z
 
 Nous aimons le thé.  
 
@@ -352,7 +352,7 @@ Nous aimons le thé.
     Author: Jasmin Yang
 - [News](https://bru-boutique.fr/blogs/news)
   - [Spécifications détaillées du produit (PDF)](https://bru-boutique.fr/blogs/news/specifications-detaillees-du-produit-pdf)
-    Updated: 2025-09-17T12:32:57Z
+    Updated: 2025-11-04T10:59:12Z
     Author: Jasmin Yang
 
 ## Optional
