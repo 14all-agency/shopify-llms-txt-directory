@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-03T00:00:30.052Z
+- Updated At: 2025-11-04T22:26:23.897Z
 
 ## Products
 
@@ -83,13 +83,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5_57b1e88a-061c-4971-b5cb-3be6d3782459.jpg?v=1665113225
   Price: RM 299.00 MYR
-- [DOCASA One Piece Washdown Water Closet come with Dual Flush (3/4L)](https://bath2u.com/products/one-piece-washdown-water-closet-come-with-dual-flush-3-4l): Material: Ceramic Colour: White Finish: Glossy Dimension: 690 (L) x 355 (W) x 700 (H) mmS-Trap: 200mm/250mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & Cover
-  Updated: 2025-09-02T19:30:18Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A370.jpg?v=1672106865
-  Price: RM 850.00 MYR
 - [DOCASA Intelligent One Piece Water Closet](https://bath2u.com/products/docasa-intelligent-one-piece-water-closet): Flushing Type : Syphonic Jet Flushing System : Hand / Leg Push Power Supply : AA Battery x 4 Bidet Spray Seat Cover : Dual Inlet : Flexible Hose 3/4 (600mm Lenght) Water Pressure : Min. 0.25/ Max. 0.75 (Mpa) c/w Grease Connector Size: 665 (L) x 390 (W) x 510 (H) mm S-Trap: 250/300mm
   Updated: 2025-02-08T04:17:48Z
   Vendor: DOCASA
@@ -104,20 +97,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A100-1.jpg?v=1672214014
   Price: RM 1,200.00 MYR
-- [DOCASA One Piece Washdown Water Closet come with Dual Flush (3/5L) (S-trap)](https://bath2u.com/products/docasa-one-piece-washdown-water-closet-come-with-dual-flush-3-5l-s-trap): Material: Ceramic Colour: White Finish: Glossy Dimension: 680 (L) x 400 (W) x 730 (H) mm S-Trap: 200mm/250mmcome with straight connector OptionalPP Soft Close Seat & CoverUF Soft Close Seat & Cover
-  Updated: 2025-08-25T05:12:36Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A333.jpg?v=1672214992
-  Price: RM 1,200.00 MYR
-- [DOCASA Wall Hung Wash Basin come with single pre-punched tap hole & overflow](https://bath2u.com/products/docasa-wall-hung-wash-basin-come-with-single-pre-punched-tap-hole-overflow): Material: Ceramic Size: 410 (W) x 360 (L) x 160 (H) mm Type: Wall Hung Colour: White Finish: Glossy Note: Tap is not include
-  Updated: 2024-04-18T15:01:55Z
-  Vendor: DOCASA
-  Product Type: Wall Hung Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/B306.jpg?v=1672215574
-  Price: RM 110.00 MYR
 - [DOCASA Wall Hung Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-wall-hung-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 360 (L) x 435 (W) x 155 (H) mm Type: Wall Hung Colour: White Finish: Glossy Note: Tap is not include
   Updated: 2025-09-27T01:08:17Z
   Vendor: DOCASA
@@ -132,13 +111,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/B645.jpg?v=1672216688
   Price: RM 800.00 MYR
-- [DOCASA 485mm Self Rimming Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-self-rimming-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 560 (W) x 485 (L) x 200 (H) mm Type: Above Counter Top Colour: White Finish: Glossy Notes: Tap is not include
-  Updated: 2025-08-09T07:05:39Z
-  Vendor: DOCASA
-  Product Type: Above Counter Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/201.jpg?v=1672804177
-  Price: RM 180.00 MYR
 - [DOCASA Floor Standing Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-floor-standing-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 495 (L) x 495 (W) x 850 (H) mm Type: Floor Standing Colour: White Finish: Glossy Note: Tap is not included
   Updated: 2024-04-18T15:02:46Z
   Vendor: DOCASA
@@ -160,20 +132,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A180SP.jpg?v=1672806581
   Price: RM 750.00 MYR
-- [DOCASA Wall Hung Urinal Bowl come with Top & Back Inlet pre-punch flush hole](https://bath2u.com/products/docasa-wall-hung-urinal-bowl-come-with-top-back-inlet-pre-punch-flush-hole): Material: Ceramic Dimension: 470 (W) x 300 (L) x 700 (H) mm Type: Wall Hung Colour: White Finish: Glossy come with strainer kit and 1 1/4″ waste hole
-  Updated: 2024-04-18T15:03:03Z
-  Vendor: DOCASA
-  Product Type: Wall Hung Urinal Bowl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WHU107.jpg?v=1672889509
-  Price: RM 750.00 MYR
-- [DOCASA Wall Hung Urinal Bowl come with Top & Back Inlet pre-punch flush hole](https://bath2u.com/products/docasa-wall-hung-urinal-bowl-come-with-top-back-inlet-pre-punch-flush-hole-1): Material: Ceramic Dimension: 375 (W) x 320 (L) x 690 (H) mm Type: Wall Hung Colour: White Finish: Glossy come with strainer kit and 1 1/4″ waste hole
-  Updated: 2025-10-01T08:09:02Z
-  Vendor: Bath2u
-  Product Type: Wall Hung Urinal Bowl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WHU110.jpg?v=1672891445
-  Price: RM 800.00 MYR
 - [DOCASA Squatting Pan come with Integral Tread Plates](https://bath2u.com/products/docasa-squatting-pan-come-with-integral-tread-plates): Material: Ceramic Length: 525mm Width: 410mm Height: 210mm Type: Squatting Pan come with direct trap and back inlet
   Updated: 2024-04-18T15:03:04Z
   Vendor: DOCASA
@@ -188,13 +146,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SQ03.jpg?v=1672893761
   Price: RM 270.00 MYR
-- [DOCASA Wall Hung Urinal Bowl come with Top Inlet pre-punch flush hole](https://bath2u.com/products/docasa-wall-hung-urinal-bowl-come-with-top-inlet-pre-punch-flush-hole): Material: Ceramic Dimension: 380 (W) x 320 (L) x 460 (H) mm Type: Wall Hung Colour: White Finish: Glossy come with strainer kit, 1 1/4″ waste hole and bottle trap
-  Updated: 2025-08-06T04:04:30Z
-  Vendor: DOCASA
-  Product Type: Wall Hung Urinal Bowl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WHU108.jpg?v=1672904031
-  Price: RM 380.00 MYR
 - [DOCASA Round White Manual Bidet Seat and Cover](https://bath2u.com/products/docasa-round-white-manual-bidet-seat-and-cover): Material: Plastic Dimension: 365 (W) x 500 (L) x 85 (H) mm Colour: White
   Updated: 2025-03-07T16:58:59Z
   Vendor: DOCASA
@@ -251,13 +202,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/218.jpg?v=1672977990
   Price: RM 240.00 MYR
-- [DOCASA White Round Counter Top Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-white-round-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 465 (W) x 465 (L) x 160 (H) mm Type: Counter Top Colour: White Finish: Glossy Notes: Tap is not included
-  Updated: 2024-04-18T15:03:15Z
-  Vendor: DOCASA
-  Product Type: Counter Top Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/222.jpg?v=1672978433
-  Price: RM 240.00 MYR
 - [DOCASA White Semi Recessed Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-white-semi-recessed-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Size: 602 (W) x 450 (L) x 160 (H) mm Type: Semi Recessed Colour: White Finish: Glossy Note: Tap is not included
   Updated: 2025-08-19T08:17:12Z
   Vendor: DOCASA
@@ -286,20 +230,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/K427.jpg?v=1672979626
   Price: RM 540.00 MYR
-- [DOCASA White Under Counter Wash Basin](https://bath2u.com/products/docasa-white-under-counter-wash-basin): Material: Ceramic Size: 515 (W) x 385 (L) x 186 (H) mm Type: Under Counter Colour: White Finish: Glossy
-  Updated: 2025-08-09T02:14:25Z
-  Vendor: DOCASA
-  Product Type: Under Counter Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/2020.jpg?v=1672980026
-  Price: RM 200.00 MYR
-- [DOCASA White Under Counter Wash Basin](https://bath2u.com/products/docasa-white-under-counter-wash-basin-1): Material: Ceramic Size: 472 (W) x 347 (L) x 201 (H) mm Type: Under Counter Colour: White Finish: Glossy
-  Updated: 2024-04-18T15:03:15Z
-  Vendor: DOCASA
-  Product Type: Under Counter Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/2018.jpg?v=1672980262
-  Price: RM 180.00 MYR
 - [DOCASA White Round Under Counter Wash Basin](https://bath2u.com/products/docasa-white-round-under-counter-wash-basin): Material: Ceramic Size: 495 (W) x 397 (L) x 211 (H) mm Type: Under Counter Colour: White Finish: Glossy
   Updated: 2025-03-08T12:12:00Z
   Vendor: DOCASA
@@ -314,13 +244,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/3017.jpg?v=1672988262
   Price: RM 160.00 MYR
-- [DOCASA White One Piece Washdown Water Closet](https://bath2u.com/products/docasa-white-washdown-one-piece-water-closet): Material: Ceramic Colour: White Finish: Glossy Dimension: 700 (L) x 380 (W) x 735 (H) mmS-Trap: 200mm/250mmP-Trap: 180mm
-  Updated: 2025-10-24T05:57:57Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A368S.png?v=1673230632
-  Price: RM 450.00 MYR
 - [DOCASA White One Piece Washdown Water Closet](https://bath2u.com/products/docasa-white-one-piece-washdown-water-closet): Material: Ceramic Colour: White Finish: Glossy Dimension: 750 (L) x 390 (W) x 775 (H) mmS-Trap: 250mmP-Trap: 180mm
   Updated: 2024-04-18T15:03:29Z
   Vendor: DOCASA
@@ -328,48 +251,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A828.png?v=1673231107
   Price: RM 1,450.00 MYR
-- [DOCASA One Piece Washdown Water Closet come with Dual Flush (3/6L)](https://bath2u.com/products/docasa-one-piece-washdown-water-closet-come-with-dual-flush-3-6l-1): Material: Ceramic Size: 690 (L) x 395 (W) x 730 (H) mmS-Trap: 250mm/300mmcome with straight connector Optional:PP Soft Close Seat & CoverUF Soft Close Seat & Cover
-  Updated: 2023-01-17T02:32:21Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A819.jpg?v=1673231591
-  Price: RM 1,000.00 MYR
-- [DOCASA One Piece Washdown Water Closet come with Dual Flush](https://bath2u.com/products/docasa-one-piece-washdown-water-closet-come-with-dual-flush): Material: Ceramic Size: 690 (L) x 395 (W) x 730 (H) mmS-Trap: 200mm/250mm/300mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & CoverUF Soft Close Seat & Cover
-  Updated: 2025-10-10T13:10:01Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A310.png?v=1673232737
-  Price: RM 420.00 MYR
-- [DOCASA Close Couple Washdown Water Closet come with Dual Flush](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-dual-flush): Material: Ceramic Size: 645 (L) x 365 (W) x 790 (H) mmS-Trap: 100mm/250mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & Cover
-  Updated: 2025-10-24T12:52:12Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WD088.png?v=1673233278
-  Price: RM 900.00 MYR
-- [DOCASA Close Couple Washdown Water Closet come with Dual Flush (3/6L)](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-dual-flush-3-6l): Material: Ceramic Size: 700 (L) x 380 (W) x 790 (H) mmS-Trap: 250mmP-Trap: 80mmcome with straight connector OptionalPP Soft Close Seat & Cover
-  Updated: 2025-09-22T23:35:50Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WD014.jpg?v=1673234786
-  Price: RM 750.00 MYR
-- [DOCASA Close Couple Washdown Water Closet come with Cistern Fitting Dual Flush (3/6L)](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-cistern-fitting-dual-flush-3-6l): Material: Ceramic Size: 720 (L) x 390 (W) x 765 (H) mmS-Trap: 250mm/300mmcome with straight connector Optional:-PP Soft Close Seat & CoverHeavy Duty Seat & CoverMedium Duty Seat & Cover
-  Updated: 2024-04-18T15:03:30Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WD018.jpg?v=1673235085
-  Price: RM 600.00 MYR
-- [DOCASA Close Couple Washdown Water Closet come with Cistern Fitting Dual Flush (3/6L)](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-cistern-fitting-dual-flush-3-6l-1): Material: Ceramic Size: 670 (L) x 355 (W) x 730 (H) mmS-Trap 250mmP-Trap 180mmcome with straight connector OptionalPP Soft Close Seat & CoverMedium Duty Seat & CoverLight Duty Seat & Cover
-  Updated: 2024-04-18T15:03:30Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/WD011.jpg?v=1673236099
-  Price: RM 600.00 MYR
 - [DOCASA Wall Hung Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-wall-hung-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap-1): Material: Ceramic Size: 515 (W) x 360 (L) x 160 (H) mm Type: Wall Hung Colour: White Finish: Glossy Note: Tap is not include
   Updated: 2024-04-18T15:03:31Z
   Vendor: DOCASA
@@ -440,20 +321,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/PH01.png?v=1673504412
   Price: RM 28.00 MYR
-- [DOCASA Stall Urinal Bowl come with Top / Back Inlet pre-punch flush hole](https://bath2u.com/products/docasa-stall-urinal-bowl-come-with-top-back-inlet-pre-punch-flush-hole): Material: Ceramic Dimension: 400 (L) x 410 (W) x 940 (H) mm Type: Free Standing Colour: White Finish: Glossy come with strainer kit and 1 1/4″ waste hole
-  Updated: 2024-04-18T15:04:05Z
-  Vendor: DOCASA
-  Product Type: Urinal Toilet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/URL559.jpg?v=1673504822
-  Price: RM 1,000.00 MYR
-- [DOCASA Rectangular Counter Top Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap): Material: Ceramic Dimension: 690 (W) x 395 (L) x 130 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2025-08-30T05:31:58Z
-  Vendor: DOCASA
-  Product Type: Counter Top Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/K182.png?v=1673505568
-  Price: RM 380.00 MYR
 - [DOCASA Square Counter Top Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap-1): Material: Ceramic Dimension: 400 (W) x 295 (L) x 115 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
   Updated: 2025-03-10T08:16:00Z
   Vendor: DOCASA
@@ -496,13 +363,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/1092A.png?v=1673512055
   Price: RM 540.00 MYR
-- [DOCASA Circle Counter Top Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-circle-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Dimension: 460 (W) x 460 (L) x 200 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2024-04-18T15:04:06Z
-  Vendor: DOCASA
-  Product Type: Counter Top Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/218D.png?v=1673512741
-  Price: RM 250.00 MYR
 - [DOCASA 700mm Counter Top Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-cap-2): Material: Ceramic Dimension: 700 (W) x 380 (L) x 125 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
   Updated: 2025-03-07T17:59:54Z
   Vendor: DOCASA
@@ -531,20 +391,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5300C.png?v=1673534915
   Price: RM 600.00 MYR
-- [DOCASA 530mm Under Counter Basin single Pre-punched Tap Hole c/w Overflow](https://bath2u.com/products/docasa-480mm-under-counter-basin-single-pre-punched-tap-hole-c-w-overflow): Material: Ceramic Colour: WhiteInner Diameter: 470 (W) x 285 (L) x 190 (H) mm Outside Diameter: 530 (W) x 340 (L) x 190 (H) mm Type: Undermount BasinPackage Content:- 1x Undermount Basin- 1x Fixing KitsNote: Tap is not included
-  Updated: 2024-04-18T15:04:07Z
-  Vendor: DOCASA
-  Product Type: Under Counter Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/202A24.jpg?v=1673535330
-  Price: RM 250.00 MYR
-- [DOCASA 600mm Under Counter Basin single Pre-punched Tap Hole c/w Overflow](https://bath2u.com/products/docasa-600mm-under-counter-basin-single-pre-punched-tap-hole-c-w-overflow): Material: Ceramic Colour: WhiteInner Diameter: 525 (W) x 330 (L) x 190 (H) mm Outside Diameter: 600 (W) x 390 (L) x 190 (H) mm Type: Undermount BasinPackage Content:- 1x Undermount Basin- 1x Fixing KitsNote: Tap is not included
-  Updated: 2024-04-18T15:04:07Z
-  Vendor: DOCASA
-  Product Type: Under Counter Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/202E.jpg?v=1673535615
-  Price: RM 260.00 MYR
 - [DOCASA 530mm Counter Top Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-530mm-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Dimension: 530 (W) x 450 (L) x 155 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
   Updated: 2025-03-07T01:03:15Z
   Vendor: DOCASA
@@ -552,13 +398,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/241.jpg?v=1673535870
   Price: RM 360.00 MYR
-- [DOCASA 470mm Counter Top Wash Basin come with single pre-punched tap hole, overflow & cap](https://bath2u.com/products/docasa-470mm-counter-top-wash-basin-come-with-single-pre-punched-tap-hole-overflow-cap): Material: Ceramic Dimension: 470 (W) x 465 (L) x 165 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2025-08-10T22:24:36Z
-  Vendor: DOCASA
-  Product Type: Counter Top Basin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/256.jpg?v=1673536025
-  Price: RM 320.00 MYR
 - [SORENTO Golden Yellow Washdown with Rimless Flushing Technology](https://bath2u.com/products/sorento-golden-yellow-washdown-with-rimless-flushing-technology): Material: Ceramic Colour: Golden Yellow Size: 670 (L) x 390 (W) x 760 (H) mmS-Trap: Bottom Outlet 250mm Rimless Flushing Technology **PP Material Seat Cover
   Updated: 2024-04-18T15:04:27Z
   Vendor: SORENTO
@@ -2374,13 +2213,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/15.png?v=1676554042
   Price: RM 1,530.00 MYR
-- [DOCASA One Piece Washdown Water Closet come with Dual Flush (3/6L)](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-dual-flush-1): Material: Ceramic Size: 730 (L) x 370 (W) x 800 (H) mmS-Trap: 250mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & Cover
-  Updated: 2024-04-18T15:08:16Z
-  Vendor: DOCASA
-  Product Type: Water Closet
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A890.jpg?v=1676620165
-  Price: RM 390.00 MYR
 - [DOCASA 500mm Black Wall Hung Aluminum Basin Cabinet Set](https://bath2u.com/products/docasa-500mm-black-wall-hung-aluminum-basin-cabinet-set): Wall Hung basin vanity cabinet features a white ceramic basin top, with a two doors water resistant Aluminium cabinet, brings a modern look to your bathroom. ​ The basin comes with an overflow and one tap hole. The contemporary design hides all unsightly pipework creating a neat clean look. ​ This modern looking bathroom basin vanity complements any rectangular bath or shower, creating a stunning modern bathroom. Vanity Cabinet Dimension: 500 (W) x 360 (L) x 400 (H) mm Colour: Black Finish: Glossy Material: Aluminium Number of Doors: 2 Doors: Soft Closing Type: Wall Hung Shelf Dimension: 400 (W) x 120 (L) x 40 (H) mm Colour: Black Material: Aluminium Mirror Dimension: 400 (W) x 450 (H) mm Package Content 1x Basin with Cabinet 1x Shelf 1x Mirror 1x Matt Steel Tap 1x Popup Waste
   Updated: 2025-09-21T15:00:29Z
   Vendor: DOCASA
@@ -3384,21 +3216,481 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-01140510.png?v=1761977184
   Price: RM 2,399.00 MYR
+- [DOCASA WHU111/NZ Wall Hung Urinal Bowl comes with Cleasing Nozzle Top Inlet flush hole with Urinal Flush Valve Muslim](https://bath2u.com/products/docasa-whu111-nz-wall-hung-urinal-bowl-comes-with-cleasing-nozzle-top-inlet-flush-hole-with-urinal-flush-valve-muslim): Specification : Measurement: W 360mm x D 350mm x H 580mm Material: Ceramic Color: White Comes with Cleansing Nozzle High-quality and long-lasting Muslim Friendly Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T15:53:03Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-03104122_cbf41318-acdc-43a9-8afb-e8de9d6d9054.png?v=1762137844
+  Price: RM 720.00 MYR
+- [DOCASA WHU109 Wall Hung Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-whu109-wall-hung-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 290mm x D 350mm x H 680mm Material: Ceramic Color: White Comes with Cleansing Nozzle High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T15:22:11Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WHU109.jpg?v=1762134188
+  Price: RM 418.00 MYR
+- [DOCASA WHU108 Wall Hung Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-whu108-wall-hung-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 370mm x D 310mm x H 470mm Material: Ceramic Color: White High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T15:23:24Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WHU108.jpg?v=1762136109
+  Price: RM 270.00 MYR
+- [DOCASA URL559 Stall Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-url559-stall-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 380mm x D 440mm x H 980mm Material: Ceramic Color: White High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T15:25:02Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/URL559.jpg?v=1762136827
+  Price: RM 750.00 MYR
+- [DOCASA WHU111 Wall Hung Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-whu111-wall-hung-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 360mm x D 350mm x H 580mm Material: Ceramic Color: White High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T16:03:47Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-03104122_e44ab55e-b3fa-4180-b067-30641c03aaf5.png?v=1762138162
+  Price: RM 388.00 MYR
+- [DOCASA WHU110 Wall Hung Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-whu110-wall-hung-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 375mm x D 320mm x H 690mm Material: Ceramic Color: White High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T16:06:35Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WHU110_ba74df86-1cb8-42b4-8157-eea3523ab2ac.jpg?v=1762138879
+  Price: RM 388.00 MYR
+- [DOCASA WHU107 Wall Hung Urinal Bowl comes with Top Inlet pre-punch flush hole with Exposed Manual Urinal Flush Valve](https://bath2u.com/products/docasa-whu107-wall-hung-urinal-bowl-comes-with-top-inlet-pre-punch-flush-hole-with-exposed-manual-urinal-flush-valve): Specification : Measurement: W 470mm x D 300mm x H 700mm Material: Ceramic Color: White High-quality and long-lasting Comes with wall plug and screws ** Does not include urinal flush valve** Warranty: 1 Year Fitting
+  Updated: 2025-11-03T16:09:25Z
+  Vendor: Bath2u.com
+  Product Type: Urinal Toilet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/WHU107.jpg?v=1762142961
+  Price: RM 499.00 MYR
+- [DOCASA 256 470mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-256-470mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 470mm x W 465mm x H 165mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:33:49Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/256.jpg?v=1762144588
+  Price: RM 243.00 MYR
+- [DOCASA K14SR 545mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k14sr-545mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 545mm x W 450mm x H 168mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:34:24Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K14SR.jpg?v=1762149175
+  Price: RM 345.00 MYR
+- [DOCASA B306 410mm Ceramic White Wall Hung Basin Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor](https://bath2u.com/products/docasa-b306-410mm-ceramic-white-wall-hung-basin-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Wall-hung design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 410mm x W 360mm x H 160mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:35:03Z
+  Vendor: Bath2u.com
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/B306.jpg?v=1762149648
+  Price: RM 68.00 MYR
+- [DOCASA B500 495mm Ceramic White Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-b500-495mm-ceramic-white-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 495mm x W 380mm x H 200mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T15:51:28Z
+  Vendor: Bath2u.com
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/B500.jpg?v=1762150699
+  Price: RM 110.00 MYR
+- [DOCASA B305 440mm Ceramic Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-b305-440mm-ceramic-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 440mm x W 350mm x H 170mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:36:02Z
+  Vendor: Bath2u.com
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/B305.jpg?v=1762151345
+  Price: RM 95.00 MYR
+- [DOCASA K105A 590mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k105a-590mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 590mm x W 400mm x H 145mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T14:40:30Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K105A.jpg?v=1762151769
+  Price: RM 288.00 MYR
+- [DOCASA 202E 600mm Ceramic WhiteBlack Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-202e-600mm-ceramic-whiteblack-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 600mm x W 390mm x H 109mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:41:31Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/202E.png?v=1762152570
+  - [White](https://bath2u.com/products/docasa-202e-600mm-ceramic-whiteblack-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah?variant=42633336422484)
+    Availability: Available
+    Price: RM 199.00 MYR
+  - [Black](https://bath2u.com/products/docasa-202e-600mm-ceramic-whiteblack-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah?variant=42633336455252)
+    Availability: Available
+    Price: RM 350.00 MYR
+- [DOCASA 3017 435mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-3017-435mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 435mm x W 356mm x H 193mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T14:41:40Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/3017.jpg?v=1762154275
+  Price: RM 125.00 MYR
+- [DOCASA 284 560mm Ceramic Counter Top Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-284-560mm-ceramic-counter-top-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 560mm x W 445mm x H 155mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:41:54Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/284.png?v=1762156038
+  Price: RM 290.00 MYR
+- [DOCASA 276 445mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-276-445mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : Inner Diameter SIZE : L 395mm x W 395mm x H 190mm Outer Diameter SIZE : L 445mm X W 445mm X H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:41:58Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/276.png?v=1762156603
+  Price: RM 138.00 MYR
+- [DOCASA K237 400mm Ceramic Counter Top Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-k237-400mm-ceramic-counter-top-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 400mm x W 295mm x H 115mm Tap Hole: Yes Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T14:42:14Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K237.jpg?v=1762156969
+  Price: RM 213.00 MYR
+- [DOCASA K381 605mm Ceramic White Counter Mounting Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-k381-605mm-ceramic-white-counter-mounting-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 605mm x W 422mm x H 147mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:42:32Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K381.jpg?v=1762158843
+  Price: RM 340.00 MYR
+- [DOCASA 2018 472mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-2018-472mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 472mm x W 347mm x H 201mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T14:43:18Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/2018.jpg?v=1762159457
+  Price: RM 185.00 MYR
+- [DOCASA 228 645mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-228-645mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 645mm x W 430mm x H 200mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:43:47Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/228.jpg?v=1762160740
+  Price: RM 240.00 MYR
+- [DOCASA 222B 515mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-222b-515mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** **Basin only, without tap** Product Specifications : Size : L 515mm x W 415mm x H 150mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:46:20Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/222B.jpg?v=1762161316
+  Price: RM 210.00 MYR
+- [DOCASA 202B 460mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-202b-460mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : Inner Diameter SIZE : L 405mm x W 325mm x H 190mm Outer Diameter SIZE : L 460mm X W 375mm X H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:46:29Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/202B.png?v=1762161753
+  Price: RM 170.00 MYR
+- [DOCASA B308 280mm Ceramic Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-b308-280mm-ceramic-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 280mm x W 292mm x H 100mm Tap Hole: Yes Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T16:29:47Z
+  Vendor: Bath2u.com
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/B308.jpg?v=1762224397
+  Price: RM 245.00 MYR
+- [DOCASA 202A 24" 530mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-202a-24-530mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : Inner Diameter SIZE : L 470mm x W 285mm x H 190mm Outer Diameter SIZE : L 530mm X W 340mm X H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:45:32Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot_2025-11-04_092053.png?v=1762219328
+  Price: RM 190.00 MYR
+- [DOCASA 202C 470mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-202c-470mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : Inner Diameter SIZE : L 425mm x W 300mm x H 200mm Outer Diameter SIZE : L 470mm X W 350mm X H 200mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T15:58:58Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04093354.png?v=1762220047
+  Price: RM 152.00 MYR
+- [DOCASA 2004 500mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-2004-500mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size :L 500mm x W 400mm x H 180mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:45:55Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04093848.png?v=1762220360
+  Price: RM 182.00 MYR
+- [DOCASA 230 415mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-230-415mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 415mm x W 415mm x H 120mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T14:46:55Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/230.png?v=1762220874
+  Price: RM 198.00 MYR
+- [DOCASA 286 535mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-286-535mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 535mm x W 455mm x H 160mm Tap Hole: Yes Overflow Hole: Yes
+  Updated: 2025-11-04T02:10:37Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/286.png?v=1762221800
+  Price: RM 258.00 MYR
+- [DOCASA 227A 425mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-227a-425mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 425mm x W 425mm x H 130mm Tap Hole: No Overflow Hole: No
+  Updated: 2025-11-04T02:22:38Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/227A.png?v=1762222434
+  Price: RM 198.00 MYR
+- [DOCASA K254 640mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k254-640mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 640mm x W 420mm x H 165mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T02:39:30Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K254.jpg?v=1762223050
+  Price: RM 275.00 MYR
+- [DOCASA 4008 590mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor **C](https://bath2u.com/products/docasa-4008-590mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-c): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size :L 590mm x W 425mm x H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T14:54:54Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04104922.png?v=1762224656
+  Price: RM 215.00 MYR
+- [DOCASA 281SR 515mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-281sr-515mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 515mm x W 500mm x H 165mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T03:07:29Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/281SR.png?v=1762225327
+  Price: RM 288.00 MYR
+- [DOCASA 243C 590mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-243c-590mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 590mm x W 396mm x H 180mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T03:22:48Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/243C.jpg?v=1762226311
+  Price: RM 258.00 MYR
+- [DOCASA 3020 495mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-3020-495mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size :L 590mm x W 425mm x H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T03:49:58Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/3020.jpg?v=1762226797
+  Price: RM 150.00 MYR
+- [DOCASA 2020 515mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-2020-515mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size :L 590mm x W 425mm x H 190mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T04:05:11Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/2020.jpg?v=1762227497
+  Price: RM 155.00 MYR
+- [DOCASA 285C 395mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah N](https://bath2u.com/products/docasa-285c-395mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah-n): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 590mm x W 396mm x H 180mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T03:52:09Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04114758.png?v=1762228101
+  Price: RM 228.00 MYR
+- [DOCASA 260 590mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-260-590mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 590mm x W 380mm x H 170mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T04:00:34Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/260.jpg?v=1762228544
+  Price: RM 199.00 MYR
+- [DOCASA 243A 640mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-243a-640mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 640mm x W 420mm x H 140mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T04:40:16Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04120405.png?v=1762229113
+  Price: RM 250.00 MYR
+- [DOCASA K174 600mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k174-600mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 600mm x W 400mm x H 150mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T04:16:53Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K174-768x576.jpg?v=1762229648
+  Price: RM 288.00 MYR
+- [DOCASA 274 460mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-274-460mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 460mm x W 460mm x H 165mm Tap Hole: Yes Overflow Hole: Yes
+  Updated: 2025-11-04T04:27:40Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/274.jpg?v=1762230123
+  Price: RM 258.00 MYR
+- [DOCASA 2204 560mm Ceramic White Under Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-2204-560mm-ceramic-white-under-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 560mm x W 380mm x H 180mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T04:54:51Z
+  Vendor: Bath2u.com
+  Product Type: Under Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04123319.png?v=1762231122
+  Price: RM 228.00 MYR
+- [DOCASA 260A 400mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-260a-400mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 400mm x W 330mm x H 140mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T16:50:08Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/260A.jpg?v=1762231544
+  Price: RM 185.00 MYR
+- [DOCASA 222 465mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-222-465mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 465mm x W 465mm x H 160mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T19:10:30Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/222.jpg?v=1762232087
+  Price: RM 195.00 MYR
+- [DOCASA K182 690mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k182-690mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 690mm x W 395mm x H 130mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T06:21:24Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K182.png?v=1762235613
+  Price: RM 288.00 MYR
+- [DOCASA 234 435mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-234-435mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 435mm x W 435mm x H 135mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T06:34:30Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/234.jpg?v=1762236077
+  Price: RM 192.00 MYR
+- [DOCASA K552 500mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k552-500mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 400mm x W 330mm x H 140mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T06:17:39Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K552.png?v=1762236634
+  Price: RM 365.00 MYR
+- [DOCASA 218D 460mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-218d-460mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 460mm x W 460mm x H 200mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T06:26:05Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/218D.png?v=1762236936
+  Price: RM 192.00 MYR
+- [DOCASA 499YD 360mm Ceramic White Matte Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-499yd-360mm-ceramic-white-matte-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 360mm x W 360mm x H 120mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T06:34:21Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/499YD.png?v=1762237513
+  Price: RM 494.00 MYR
+- [DOCASA 1087MB 450mm Ceramic Marble Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-1087mb-450mm-ceramic-marble-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 450mm x W 330mm x H 135mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T06:44:55Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04143232.png?v=1762238192
+  Price: RM 380.00 MYR
+- [DOCASA K319SR 590mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k319sr-590mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 590mm x W 470mm x H 170mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T07:00:40Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K319SR-1.png?v=1762239136
+  Price: RM 365.00 MYR
+- [DOCASA K164 490mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k164-490mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 490mm x W 430mm x H 110mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T07:25:56Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K164-768x576.jpg?v=1762239838
+  Price: RM 228.00 MYR
+- [DOCASA K18SR 530mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k18sr-530mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 530mm x W 510mm x H 175mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T08:15:32Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K18SR.png?v=1762240454
+  Price: RM 340.00 MYR
+- [DOCASA 294A 645mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-294a-645mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 645mm x W 380mm x H 170mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T08:46:31Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/294A.png?v=1762241107
+  Price: RM 275.00 MYR
+- [DOCASA K404A 500mm Ceramic Counter Top Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-k404a-500mm-ceramic-counter-top-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 500mm x W 420mm x H 130mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T08:01:44Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K404A.png?v=1762241400
+  Price: RM 342.00 MYR
+- [DOCASA 3179 550mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-3179-550mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 550mm x W 415mm x H 135mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T07:50:49Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04154209.png?v=1762242158
+  Price: RM 266.00 MYR
+- [DOCASA K59A 520mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k59a-520mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 520mm x W 320mm x H 140mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T08:11:37Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K59A.jpg?v=1762242423
+  Price: RM 215.00 MYR
+- [DOCASA 1087G 450mm Gold Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-1087g-450mm-gold-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 450mm x W 330mm x H 135mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T08:11:06Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04155458.png?v=1762243001
+  Price: RM 342.00 MYR
+- [DOCASA K183 630mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k183-630mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 630mm x W 410mm x H 145mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T08:19:53Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K183.jpg?v=1762243456
+  Price: RM 300.00 MYR
+- [DOCASA 1095 475mm Ceramic White Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-1095-475mm-ceramic-white-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 475mm x W 400mm x H 170mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T08:16:46Z
+  Vendor: Bath2u.com
+  Product Type: Wall Hung Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/1095.png?v=1762243966
+  Price: RM 350.00 MYR
+- [DOCASA 201 560mm Ceramic White Above Counter Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor](https://bath2u.com/products/docasa-201-560mm-ceramic-white-above-counter-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 560mm x W 485mm x H 200mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T09:13:38Z
+  Vendor: Bath2u.com
+  Product Type: Above Counter Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/201-768x576.jpg?v=1762245020
+  Price: RM 145.00 MYR
+- [DOCASA K98SR 610mm Ceramic White Semi Recesses Basin Sinki Tandas Bilik Mandi Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k98sr-610mm-ceramic-white-semi-recesses-basin-sinki-tandas-bilik-mandi-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 610mm x W 465mm x H 169mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T08:49:25Z
+  Vendor: Bath2u.com
+  Product Type: Semi Recessed Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K98SR-768x576.jpg?v=1762245904
+  Price: RM 365.00 MYR
+- [DOCASA K149A 590mm Ceramic White Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area, And Outdoor Murah](https://bath2u.com/products/docasa-k149a-590mm-ceramic-white-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 590mm x W 430mm x H 155mm Tap Hole: No Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T09:19:58Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/K149A-2-768x672.png?v=1762247637
+  Price: RM 228.00 MYR
+- [DOCASA 1096RG 420mm Rose Gold Counter Top Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-1096rg-420mm-rose-gold-counter-top-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Product Specifications : Size : L 420mm x W 420mm x H 140mm Tap Hole: No Overflow Hole: No Warranty: 6 Months
+  Updated: 2025-11-04T10:15:44Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-04172442.png?v=1762248449
+  Price: RM 365.00 MYR
+- [DOCASA 1092A 520mm Ceramic White Counter Mounting Basin Sinki Tandas Bilik Mandi For Bathroom,Dining Area,Outdoor Murah](https://bath2u.com/products/docasa-1092a-520mm-ceramic-white-counter-mounting-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-outdoor-murah): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. **Basin only, without tap** Product Specifications : Size : L 520mm x W 405mm x H 155mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
+  Updated: 2025-11-04T09:38:32Z
+  Vendor: Bath2u.com
+  Product Type: Counter Top Basin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/1092A-1-768x672.png?v=1762248868
+  Price: RM 410.00 MYR
 
 ## Collections
 
 - [Home page](https://bath2u.com/collections/frontpage)
-  Updated: 2025-10-13T11:11:02Z
-  Total Products: 399
+  Updated: 2025-11-04T08:35:20Z
+  Total Products: 375
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2025-10-13T11:11:02Z
-  Total Products: 400
+  Updated: 2025-11-04T08:35:20Z
+  Total Products: 376
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
-  Updated: 2025-11-01T06:14:43Z
-  Total Products: 31
+  Updated: 2025-11-03T04:20:27Z
+  Total Products: 28
 - [Urinal](https://bath2u.com/collections/urinal-toilet): a sanitary plumbing fixture for urination only. Urinals are often provided in public toilets for male users. They are usually used in a standing position
-  Updated: 2023-02-10T04:03:40Z
-  Total Products: 4
+  Updated: 2025-11-03T04:15:08Z
+  Total Products: 7
 - [Squatting Pan](https://bath2u.com/collections/squatting-pan): A squat toilet (or squatting toilet) is a toilet used by squatting, rather than sitting. This means that the defecation posture used is to place one foot on each side of the toilet drain or hole and to squat over it.
   Updated: 2025-09-30T11:12:38Z
   Total Products: 3
@@ -3406,23 +3698,23 @@
   Updated: 2025-11-01T06:14:43Z
   Total Products: 38
 - [Wall Hung Basin](https://bath2u.com/collections/wall-hung-basin): A wall hung basin, as its name suggests, is mounted directly onto the wall, with no bathroom vanity underneath. This makes it a flexible and practical choice for bathrooms of all sizes. With a wide range of different design options available, a wall mounted basin enables you to stamp your own personality onto your bathroom design.
-  Updated: 2023-02-10T04:00:06Z
-  Total Products: 7
+  Updated: 2025-11-04T08:15:43Z
+  Total Products: 11
 - [Freestanding Basin](https://bath2u.com/collections/freestanding-basin): Freestanding sinks, also referred to as pedestal sinks, has been increasing. These unique sinks stand out in any bathroom. These sinks are comprised of two pieces, the leg, or pedestal, and the sink basin. They are connected to the wall behind the basin. Unlike standard vanity sinks, the drain and supply pipes must enter the sink from the wall instead of the floor.
   Updated: 2023-02-09T14:05:17Z
   Total Products: 5
 - [Counter Top Basin](https://bath2u.com/collections/counter-top-basin): A countertop basin, also known as a vanity basin or a top-mount sink, is a type of bathroom sink that sits on top of a counter or vanity unit. The basin is made of materials like ceramics, glass, stone or resin and it is usually mounted on a vanity unit, which is a cabinet that sits beneath the sink. Countertop basins can come in a variety of sizes, shapes, and designs, making it easy to find one that matches your bathroom’s aesthetic. They can be round, oval, square, rectangular or even more unique shapes. The basin can also be installed with a tap, which can be wall-mounted or mounted on the basin itself, depending on the design. Countertop basins are popular due to its easy installation and it being a space saver as it doesn't require a cabinet like a undermount sink.
-  Updated: 2023-02-10T03:51:51Z
-  Total Products: 35
+  Updated: 2025-11-04T09:36:53Z
+  Total Products: 66
 - [Semi Recessed Basin](https://bath2u.com/collections/semi-recessed-basin): A semi-recessed wash basin straddles the line between a wall mounted basin, and a counter mounted one. In essence, half of the basin overhangs the edge of the counter, while the other half sits back into it.
-  Updated: 2023-02-10T04:16:45Z
-  Total Products: 3
+  Updated: 2025-11-04T08:47:55Z
+  Total Products: 9
 - [Under Counter Basin](https://bath2u.com/collections/under-counter-basin): The basin is installed below the countertop. In this way, the design form is optimized by the above countertop basin. The main reason is that it is convenient to clean up the countertop.
-  Updated: 2023-04-11T01:39:36Z
-  Total Products: 14
+  Updated: 2025-11-04T04:42:31Z
+  Total Products: 22
 - [Close Coupled WC](https://bath2u.com/collections/close-coupled-washdown): A close coupled toilet is what you might imagine when you think of a toilet. The cistern is located directly behind the toilet bowl instead of being high up in the more traditional design of the high and low-level toilet styles.
-  Updated: 2023-02-17T07:49:36Z
-  Total Products: 5
+  Updated: 2025-11-03T04:22:07Z
+  Total Products: 0
 - [Pedestal Basin](https://bath2u.com/collections/pedestal-basin): A washbasin which is supported from the floor by a column-like base.
   Updated: 2023-02-10T04:14:54Z
   Total Products: 3
@@ -3436,8 +3728,8 @@
   Updated: 2023-03-06T06:59:14Z
   Total Products: 17
 - [Gloss Gold](https://bath2u.com/collections/gold-toilet): Gloss Gold is a rich and luxurious color that evokes a sense of elegance and opulence. It is a high-shine finish that catches the light and adds a touch of glamour to any space. Gloss Gold is perfect for adding a touch of luxury to home decor, fashion, and accessories. Its versatile and can be used in a variety of settings, from traditional to contemporary. The Gloss Gold finish is a perfect way to elevate any space and add a touch of sophistication
-  Updated: 2023-04-16T12:48:04Z
-  Total Products: 49
+  Updated: 2025-11-04T07:59:14Z
+  Total Products: 51
 - [Basin Cabinet](https://bath2u.com/collections/bathroom-cabinet): A Basin Cabinet is a piece of bathroom furniture that is designed to hold a sink or basin. It typically sits underneath the sink and provides additional storage space for bathroom essentials like towels, toiletries, and cleaning supplies. Basin cabinets are available in a variety of materials, including wood, laminate, and glass, and can be designed to match the style of any bathroom. They come in different sizes and designs to fit different sink and basin sizes, and can be paired with a matching mirror, shelves or even a light to enhance the look of the bathroom. Basin Cabinets are both functional and stylish, making them an essential component of any bathroom renovation or remodel.
   Updated: 2023-02-17T08:40:33Z
   Total Products: 8
@@ -3538,8 +3830,8 @@
   Updated: 2023-01-25T01:38:26Z
   Total Products: 0
 - [SALES](https://bath2u.com/collections/sales): For all products under sales promotion including annual sales, promotional items, and clearance stocks. Get the best bargain in town here at Best Bath.
-  Updated: 2025-11-01T06:14:43Z
-  Total Products: 26
+  Updated: 2025-11-04T09:36:53Z
+  Total Products: 91
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
   Updated: 2023-03-06T04:07:10Z
   Total Products: 2
@@ -3655,14 +3947,14 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 17
 - [Water Closet](https://bath2u.com/collections/water-closet)
-  Updated: 2025-11-01T06:14:43Z
-  Total Products: 63
+  Updated: 2025-11-03T04:22:07Z
+  Total Products: 56
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
-  Updated: 2023-04-16T12:49:45Z
-  Total Products: 87
+  Updated: 2025-11-04T06:41:46Z
+  Total Products: 89
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2025-11-01T06:14:43Z
-  Total Products: 27
+  Updated: 2025-11-04T09:36:53Z
+  Total Products: 92
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
   Total Products: 6
@@ -3679,8 +3971,8 @@
   Updated: 2023-03-09T06:53:24Z
   Total Products: 6
 - [Vanity Basin](https://bath2u.com/collections/vanity-basin): A vanity basin, also known as a bathroom sink or lavatory, is a type of plumbing fixture that is installed in a bathroom or powder room for washing hands, face, and other small items. It is usually made of materials such as ceramic, porcelain, stainless steel, or glass, and can come in a variety of shapes, sizes, and styles to suit different design preferences and needs. The basin is typically mounted on a vanity or countertop, which may also include storage cabinets or drawers for holding toiletries and other bathroom essentials. Some vanity basins may also have an integrated faucet, while others require a separate faucet installation. Vanity basins can be found in both residential and commercial settings, and are an essential part of any functional bathroom or restroom.
-  Updated: 2023-02-21T06:20:51Z
-  Total Products: 1
+  Updated: 2025-11-04T08:35:20Z
+  Total Products: 0
 - [DELUXE](https://bath2u.com/collections/brand-deluxe)
   Updated: 2025-09-30T02:28:10Z
   Total Products: 11
@@ -3700,11 +3992,11 @@
   Updated: 2025-10-01T07:31:31Z
   Total Products: 14
 - [Bath2u](https://bath2u.com/collections/brand-bath2u)
-  Updated: 2025-11-01T02:15:59Z
-  Total Products: 51
+  Updated: 2025-11-03T04:13:23Z
+  Total Products: 50
 - [DOCASA](https://bath2u.com/collections/brand-docasa)
-  Updated: 2025-11-01T02:16:26Z
-  Total Products: 82
+  Updated: 2025-11-04T08:35:20Z
+  Total Products: 59
 - [GLOREX](https://bath2u.com/collections/brand-glorex)
   Updated: 2025-10-01T08:45:48Z
   Total Products: 4
@@ -3742,8 +4034,8 @@
   Updated: 2025-10-13T11:11:02Z
   Total Products: 67
 - [Docasa](https://bath2u.com/collections/docasa)
-  Updated: 2025-11-01T06:14:16Z
-  Total Products: 23
+  Updated: 2025-11-04T09:36:27Z
+  Total Products: 88
 
 ## Blogs
 
