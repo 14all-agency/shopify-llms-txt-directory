@@ -6,9 +6,9 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-04T18:16:46.911Z
+- Updated At: 2025-11-04T18:23:02.843Z
 
-Welcome to CrystalsHealing.co.uk – the UK’s ethical crystal jewellery & holistic wellbeing shop.
+Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
 Our mission: transparent sourcing, sustainable packaging, and empowering conscious living through authentic crystal energy.
 
