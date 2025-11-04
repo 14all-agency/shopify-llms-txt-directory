@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-01T04:00:38.939Z
+- Updated At: 2025-11-04T00:00:32.165Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-10-31T21:18:28Z
+  Updated: 2025-11-01T12:20:43Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-10-28T15:30:13Z
+  Updated: 2025-11-03T13:14:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -959,7 +959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COLOR-LINE-LOBBY.jpg?v=1757517229
     Price: $1.00 USD
 - [Brocade Damask Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/brocade-damask-velvet-fabric): Transform your upholstery projects with Brocade Damask Velvet Fabric from Fabrics Star. This embossed material adds elegance and sophistication to coaches, chairs, and more.
-  Updated: 2025-10-30T18:33:19Z
+  Updated: 2025-11-02T22:55:02Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-28T00:55:40Z
+  Updated: 2025-11-03T15:07:26Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/natural1.jpg?v=1757517314
     Price: $1.00 USD
 - [Brocade Huntsville Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/unique-quality-fabrics-72-embossed-huntsville-velvet): Elevate your projects with Embossed Huntsville Velvet from Fabrics Star. With its unique texture and quality, this fabric adds a touch of sophistication to upholstery, drapery, and more.
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-11-03T23:04:50Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1893,7 +1893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-YELLOW-WHITE.jpg?v=1757517408
     Price: $1.00 USD
 - [Tulle Mesh Fabric Embellished with Sequins, Beads and Pearls](https://fabricsstar.com/products/soft-tulle-mesh-fabric-embellished-with-sequins-beads-pearls): This Soft Tulle Mesh Fabric Embellished with Sequins has a lace base and is heavily embellished with shiny sequins, beautiful beads, & matching high-quality pearls.
-  Updated: 2025-10-23T20:17:05Z
+  Updated: 2025-11-03T23:26:50Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -9628,7 +9628,7 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-31T11:12:58Z
+  Updated: 2025-11-03T12:12:08Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-31T11:12:58Z
+  Updated: 2025-11-03T12:12:08Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-31T11:12:58Z
+  Updated: 2025-11-03T12:12:08Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-28T15:17:09Z
+  Updated: 2025-11-02T12:13:45Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-31T11:12:58Z
+  Updated: 2025-11-01T11:12:50Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-31T11:12:58Z
+  Updated: 2025-11-03T12:12:08Z
   Total Products: 666
 
 ## Blogs
@@ -9726,6 +9726,12 @@
     Author: User
   - [10 Creative Ways to Reuse and Upcycle Fabric Scraps](https://fabricsstar.com/blogs/news/10-creative-ways-to-reuse-and-upcycle-fabric-scraps): 10 Creative Ways to Reuse and Upcycle Fabric Scraps
     Updated: 2025-10-29T02:31:52Z
+    Author: User
+  - [The Ultimate Guide to Choosing Fabrics for Outdoor Cushions](https://fabricsstar.com/blogs/news/the-ultimate-guide-to-choosing-fabrics-for-outdoor-cushions): The Ultimate Guide to Choosing Fabrics for Outdoor Cushions
+    Updated: 2025-11-02T00:12:26Z
+    Author: User
+  - [Understanding the Different Types of Sustainable Fabrics](https://fabricsstar.com/blogs/news/understanding-the-different-types-of-sustainable-fabrics): Understanding the Different Types of Sustainable Fabrics
+    Updated: 2025-11-03T03:43:18Z
     Author: User
 
 ## Store Pages
