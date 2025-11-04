@@ -236,7 +236,7 @@ Temperatur-präzise Teezubereitung
 - Currency: CHF
 - Timezone: Europe/Berlin
 - Created At: 2024-12-20T10:16:39Z
-- Updated At: 2025-11-04T00:00:30.221Z
+- Updated At: 2025-11-04T22:26:23.130Z
 
 wir lieben tee
 
@@ -259,7 +259,7 @@ wir lieben tee
     Updated: 2024-12-26T15:13:04Z
     Author: Bogdan Krinitchko
   - [Detaillierte Produktspezifikationen (PDF)](https://bru.swiss/blogs/bru-maker-one-faq/detaillierten-produktspezifikationen-pdf)
-    Updated: 2025-09-01T11:24:04Z
+    Updated: 2025-11-04T10:53:36Z
     Author: Jasmin Yang
 - [BRU Blog](https://bru.swiss/blogs/bru-blog)
   - [Faszinierende Fakten der Teegeschichte](https://bru.swiss/blogs/bru-blog/faszinierende-fakten-der-teegeschichte)
