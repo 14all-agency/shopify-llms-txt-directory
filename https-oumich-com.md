@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-03T00:00:27.598Z
+- Updated At: 2025-11-04T22:26:14.452Z
 
 ## Products
 
@@ -1555,7 +1555,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress-411.webp?v=1752306804
     Price: € 25,75 EUR
 - [Luxe jersey, zachte stretch – jouw everyday hijab | byOumich](https://oumich.com/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Luxe Jersey, zachte stretch – jouw nieuwe everyday hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-11-02T02:09:35Z
+  Updated: 2025-11-03T17:12:56Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
@@ -1659,7 +1659,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium Jersey Hijab met subtiele golfafwerking.](https://oumich.com/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-11-02T02:07:47Z
+  Updated: 2025-11-03T14:42:36Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -1705,7 +1705,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760732591
     Price: € 11,70 EUR
 - [Batwing Jilbaya – Ademend & Elegant | Modest Fashion voor Elke Gelegenheid](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab): Batwing Ademend Jilbaya – een perfecte combinatie van eigentijdse stijl en bescheiden comfort. Met zijn unieke, vloeiende vleermuismouwen voegt hij niet alleen een vleugje verfijning toe, maar zorgt hij ook voor optimale ademendheid, waardoor het een ideale keuze is voor elke gelegenheid.
-  Updated: 2025-10-23T23:28:05Z
+  Updated: 2025-11-03T13:27:32Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -1758,8 +1758,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664849.jpg?v=1760955748
     Price: € 34,95 EUR
-- [Instant Jersey Hijab – Modest Fashion byOumich | Free Shipping BE/NL](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Instant jersey hijab – one size, zacht & ademend, stijlvolle kleuren. Gratis verzending BE/NL vanaf €50. Shop nu jouw modest fashion essential!
-  Updated: 2025-11-02T16:32:55Z
+- [Instant Jersey Hijab – Modest Fashion byOumich](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Instant jersey hijab – one size, zacht & ademend, stijlvolle kleuren.  Shop nu jouw modest fashion essential!
+  Updated: 2025-11-03T11:52:19Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -1832,8 +1832,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 ## Collections
 
 - [Halal Accessoires - Collectie voor Moslims](https://oumich.com/collections/halal-accessoires-unieke-collectie-voor-moslims): Halal Accessoires. Vind Stijlvolle Juwelen En Andere Accessoires. Maak Uw Outfit Compleet.
-  Updated: 2025-11-01T13:21:45Z
-  Total Products: 47
+  Updated: 2025-11-03T13:20:17Z
+  Total Products: 39
 - [Islamitische Woondecoratie.](https://oumich.com/collections/islam-woondecoratie): Islamitische woondecoratie speelt een cruciale rol in het creëren van een sfeervolle thuisomgeving, maar ook een gevoel van rust en spiritualiteit.
   Updated: 2025-10-05T18:39:51Z
   Total Products: 11
@@ -1844,11 +1844,11 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 Hijab kopen online ?
 Jilbab dames modeshop ?
 BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest fashion
-  Updated: 2025-10-27T10:06:02Z
-  Total Products: 165
+  Updated: 2025-11-03T13:23:00Z
+  Total Products: 10
 - [Islam beleving : Alles Voor Salat](https://oumich.com/collections/gebedskleed-kopen-online-bij-de-islam-webshop-voor-moslim-tapijt): In onze collectie "Islam beleving" vind je alles voor de salat.  een gebedskleed voor moslims of een Tasbih, je vindt het er allemaal.
-  Updated: 2025-10-19T11:34:45Z
-  Total Products: 24
+  Updated: 2025-11-03T13:19:38Z
+  Total Products: 13
 - [Ramadan en Eid geschenken : Traditionele Praktijken en Vieringen in Nederland](https://oumich.com/collections/ramadan-en-eid): Ramadan en Eid geschenken ?
 Ramadan cadeaus ?
 Eid decoratie ?
@@ -1856,65 +1856,65 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-05T18:39:51Z
   Total Products: 7
 - [Islamitische kleding voor dames](https://oumich.com/collections/islamitische-kleding-voor-dames): Islamitische kleding voor dames: elegant, bescheiden en stijlvol. Van abaya’s tot modieuze maxi-jurken, ontdek outfits die geloof en mode verenigen.
-  Updated: 2025-10-27T21:16:38Z
-  Total Products: 82
+  Updated: 2025-11-03T12:58:01Z
+  Total Products: 9
 - [Hijab kopen online](https://oumich.com/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
-  Updated: 2025-11-02T16:23:19Z
-  Total Products: 55
+  Updated: 2025-11-03T13:23:00Z
+  Total Products: 5
 - [Moderne kleding voor de moslim man](https://oumich.com/collections/moderne-kleding-voor-de-moslim-man): Deze collectie biedt een verfijnde selectie moderne kleding voor de moslim man die elegantie moeiteloos combineren met islamitische waarden - BRO Webshop
-  Updated: 2025-10-27T21:18:58Z
-  Total Products: 23
+  Updated: 2025-11-03T13:03:29Z
+  Total Products: 1
 - [Islamitische kindermode](https://oumich.com/collections/islamitische-kindermode): Ontdek onze schattige collectie islamitische kindermode, speciaal ontworpen met het oog op comfort, speelsheid en geloof.
-  Updated: 2025-10-20T12:47:29Z
-  Total Products: 4
+  Updated: 2025-11-03T13:01:35Z
+  Total Products: 0
 - [Elegante Burkini Collectie voor Dames Online](https://oumich.com/collections/elegante-burkini-collectie-voor-dames-bij-bro-webshop): Elegante burkini collectie voor dames. Modieuze, sneldrogende burkinis die comfort en stijl combineren. Ideaal voor strand en zwembad - BRO Webshop
-  Updated: 2025-10-20T12:20:22Z
-  Total Products: 7
+  Updated: 2025-11-03T13:00:21Z
+  Total Products: 0
 - [Specials](https://oumich.com/collections/specials): Speciale aanbiedingen.
-  Updated: 2025-10-27T10:05:49Z
-  Total Products: 2
+  Updated: 2025-11-03T14:18:09Z
+  Total Products: 1
 - [Volumediscounts](https://oumich.com/collections/volumediscounts): Alle producten die in aanmerking komen voor volumediscounts maar niet afgeprijst zijn (of maw vergelijkingsprijs is leeg)
-  Updated: 2025-10-27T10:06:00Z
-  Total Products: 67
+  Updated: 2025-11-03T14:17:54Z
+  Total Products: 2
 - [Stretchy & comfortabel](https://oumich.com/collections/stretchy-comfortabel-premium-jersey): Een hijab die stretchy en comfortabel is, makkelijk blijft zitten zonder speldjes. Ideaal voor dagelijks gebruik en sport.
-  Updated: 2025-11-02T16:23:19Z
-  Total Products: 4
+  Updated: 2025-11-03T14:17:18Z
+  Total Products: 3
 - [Superzacht, ademend & eco-vriendelijk](https://oumich.com/collections/superzacht-ademend-eco-vriendelijk-bamboo-jersey)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:20:09Z
   Total Products: 0
 - [Luchtig en chic](https://oumich.com/collections/luchtig-en-chic-chiffon-hoofddoek)
-  Updated: 2025-10-27T10:06:02Z
-  Total Products: 7
+  Updated: 2025-11-03T14:16:22Z
+  Total Products: 0
 - [Voor een semi-formele & professionele look](https://oumich.com/collections/voor-een-semi-formele-professionel-look-georgette-hoofddoek)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:19:57Z
   Total Products: 0
 - [Soepel, zacht & ademend](https://oumich.com/collections/soepel-zacht-ademend-viscose-hoofddoek)
-  Updated: 2025-10-27T10:05:56Z
-  Total Products: 2
+  Updated: 2025-11-03T14:16:55Z
+  Total Products: 0
 - [Basic maar comfortabel](https://oumich.com/collections/basic-maar-comfortabel-katoenen-hoofddoek)
-  Updated: 2025-11-02T02:06:15Z
-  Total Products: 6
+  Updated: 2025-11-03T14:16:03Z
+  Total Products: 1
 - [Casual chic, soepel en netjes](https://oumich.com/collections/casual-chic-soepel-en-netjes-crepe-hoofddoek)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:19:42Z
   Total Products: 0
 - [Voor speciale gelegenheden, glanzend & elegant](https://oumich.com/collections/voor-speciale-gelegenheden-glanzend-elegant-satijn)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:19:20Z
   Total Products: 0
 - [Nonchalante look, zomers, koel & ademend](https://oumich.com/collections/nonchalante-look-zomers-koel-ademend-linnen-hijab)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:19:08Z
   Total Products: 0
 - [Winters, dik & warm](https://oumich.com/collections/winters-dik-warm-wollen-hijab)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-11-03T14:18:38Z
   Total Products: 0
 - [Decoratieve hijabs & sjaals](https://oumich.com/collections/decoratief-laat-je-zien)
-  Updated: 2025-11-02T02:06:15Z
-  Total Products: 5
+  Updated: 2025-11-03T14:16:45Z
+  Total Products: 1
 - [Luxe jersey, zachte stretch – jouw nieuwe everyday hijab](https://oumich.com/collections/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): “Luxe jersey, zachte stretch – jouw nieuwe everyday hijab” combineert comfort met een verfijnde look.De premium jersey met lycra voelt zacht aan, ademt en valt natuurlijk, zodat je hijab de hele dag mooi blijft zitten zonder speldenregen of constant bijstellen.Dankzij de soepele stretch style je hem in één beweging: casual voor overdag of elegant voor een avondje uit.Kreukarm en onderhoudsvriendelijk—perfect voor een drukke agenda.
   Updated: 2025-10-27T11:13:21Z
   Total Products: 0
 - [Gebedskleding](https://oumich.com/collections/gebedskleding): Maak je gebedsmomenten nog specialer met onze gebedskleding voor vrouwen.
-  Updated: 2025-10-27T10:05:49Z
-  Total Products: 3
+  Updated: 2025-11-03T12:56:33Z
+  Total Products: 2
 - [Elegant, elke dag.](https://oumich.com/collections/elegant-voor-elke-dag): Elegante kleding voor elke dag.
   Updated: 2025-10-20T10:25:47Z
   Total Products: 7
@@ -1926,6 +1926,10 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
     Updated: 2025-11-02T00:35:07Z
     Author: Bart Desmaretz
     Tags: Goud, Juwelen, Zillver
+  - [Zakat in de islam: zuivering van rijkdom, versterking van de gemeenschap - BRO Webshop](https://oumich.com/blogs/byoumich-blogt/zakat-in-de-islam-zuivering-van-rijkdom-versterking-van-de-gemeenschap): Zakat in de islam: zuivering van rijkdom, versterking van de gemeenschap - BRO Webshop
+    Updated: 2025-11-03T14:23:38Z
+    Author: Bart Desmaretz
+    Tags: islam, zakat
   - [🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah - BRO Webshop](https://oumich.com/blogs/byoumich-blogt/islamitische-milieu-ethiek-duurzaam-leven-als-khalifah): 🌿 Islamitische milieu-ethiek: duurzaam leven als Khalīfah - BRO Webshop
     Updated: 2025-11-02T00:35:08Z
     Author: Bart Desmaretz
@@ -1943,10 +1947,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-07-14T13:06:34Z
 - [Retourneren & Terugbetalingen](https://oumich.com/pages/retourneren-terugbetalingen): Conform de Europese wetgeving heb je bij online aankopen binnen de EU het recht om je bestelling binnen 14 dagen na ontvangst te herroepen, zonder ...
   Updated: 2025-11-01T13:47:43Z
-- [byOumich op REDBUBBLE](https://oumich.com/pages/onze-eigen-ontwerpen-op-redbubble): Ontdek onze eigen ontwerpen op REDBUBBLE of klik door op de onderstaande afbeeldingen ! new RBExternalPortfolio('www.redbubble.com', 'bro-webshop',...
-  Updated: 2025-11-01T13:25:40Z
 - [HTML Sitemap](https://oumich.com/pages/html-sitemap): Products Islam armband - Gegraveerde RVS Bangle met Koran en Shahada Schrift Islam Halsketting MAAN-STER Zilveren Gouden Kleur met CZ Sieraad voor ...
-  Updated: 2025-11-02T00:42:46Z
+  Updated: 2025-11-03T14:27:03Z
 
 ## Policies
 
