@@ -7,12 +7,12 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-11-02T00:00:44.282Z
+- Updated At: 2025-11-04T00:00:29.687Z
 
 ## Products
 
 - [Glass Polishing Compound 50ml | Optical-Grade 1.2 Microns - GP14003](https://glasspolishshop.com/products/glass-polishing-compound-50ml-1-7oz): High-quality, concentrated cerium oxide compound with refined 1.2-micron particles for precision micro-polishing and restoring optical-grade glass clarity.
-  Updated: 2025-11-01T00:40:16Z
+  Updated: 2025-11-03T13:51:51Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -40,14 +40,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14006_f6f1f7ad-4262-4b5b-a1fe-1ca1a65223eb.jpg?v=1740136756
   Price: €51.95 EUR
 - [PRO Glass Polishing Compound 50ml | High-Grade 2.3 Microns – GP14053](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-50ml-1-7oz): High-performance cerium oxide polishing compound with 2.3-micron particles. Removes fine scratches, haze, and imperfections, restoring glass clarity.
-  Updated: 2025-10-27T18:17:07Z
+  Updated: 2025-11-03T16:24:47Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14053.jpg?v=1740149497
   Price: €10.95 EUR
 - [PRO Glass Polishing Compound 100ml | High-Grade 2.3 Microns – GP14054](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-100ml-3-4oz): Extra-concentrated cerium oxide polishing compound for professional glass restoration. Eliminates fine scratches, haze, and surface defects with precision.
-  Updated: 2025-10-30T22:39:15Z
+  Updated: 2025-11-02T00:50:10Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -187,7 +187,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Hand-held-Sanding-Block-1.5-30mm-15904.jpg?v=1737637881
   Price: €7.95 EUR
 - [Glass Polish Hand Held Sanding Block 75mm](https://glasspolishshop.com/products/hand-held-sanding-block-3-inch-75mm): Durable PUR hand-held sanding blocks with a comfortable ergonomic design.  Solid block with hook and loop fastener for use with any abrasive disc, polishing pad or detailing foam.
-  Updated: 2025-10-23T09:10:36Z
+  Updated: 2025-11-02T16:55:30Z
   Vendor: Glass Polish
   Product Type: Hand Sanding Pads
   Availability: Available
@@ -607,14 +607,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12610_1ea116ef-52f0-4553-b87b-2cda6c774763.jpg?v=1760450545
   Price: €11.95 EUR
 - [Spindle Backing Pad for drill](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-m6-hook-and-loop-black-foam-medium): Spindle Backing Pad for drill with hook and loop fastener, M6 thread with drill attachment for use with any drill. Size 50mm (2 inch)
-  Updated: 2025-10-29T07:31:56Z
+  Updated: 2025-11-03T16:24:47Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12002.jpg?v=1760538882
   Price: €8.95 EUR
 - [Soft Spindle Backing Pad for drill 50mm](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-m6-hook-and-loop-soft): Soft Spindle Backing Pad for drill 50mm. Hook and loop fastener, M6 thread with drill attachment for use with any drill.
-  Updated: 2025-10-20T21:18:29Z
+  Updated: 2025-11-03T16:24:51Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -999,7 +999,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12647_402da887-6dbf-4c7f-b4f1-ea7a77050e10.jpg?v=1760447846
   Price: €10.95 EUR
 - [Glass Polish Rotary Backing Pad 12649](https://glasspolishshop.com/products/125mm-5-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-23T09:22:16Z
+  Updated: 2025-11-03T04:14:46Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -1216,7 +1216,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90006_2b325966-01f0-48d3-8a14-dad0c8226825.jpg?v=1739205519
   Price: €13.95 EUR
 - [Cerium Oxide High-Grade 100g | TREO 85% | 3.5 Microns - GP90007](https://glasspolishshop.com/products/cerium-oxide-high-grade-100g-3-52oz): Professional cerium oxide polishing powder for glass restoration. Removes surface damage, fine scratches, sanding marks, and oxidation for a clear finish.
-  Updated: 2025-10-21T20:09:56Z
+  Updated: 2025-11-02T02:54:27Z
   Vendor: Glass Polish
   Product Type: Cerium Oxide
   Availability: Available
@@ -1244,7 +1244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90010_819742ee-b80a-42e9-b74b-893eee355c14.jpg?v=1739372450
   Price: €52.95 EUR
 - [Plastic & Acrylic Polishing Compound 50ml High-Gloss Finish – 14017](https://glasspolishshop.com/products/plastic-and-acrylic-polishing-compound-50ml-1-7oz): Professional polishing compound for plastic and acrylic. Removes oxidation, fine scratches, and discolouration. Restores clarity and high-gloss shine.
-  Updated: 2025-10-20T21:18:35Z
+  Updated: 2025-11-03T13:51:50Z
   Vendor: Glass Polish
   Product Type: Plastic Polishing Compound
   Availability: Available
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-29T16:10:25Z
+  Updated: 2025-11-03T16:24:47Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1444,7 +1444,7 @@
     Availability: Available
     Price: €105.95 EUR
 - [Glass Polish Felt Polishing Pad 11010](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-6-inch-150mm): Glass Polish 150mm / 6 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-22T11:16:01Z
+  Updated: 2025-11-02T00:50:10Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1624,7 +1624,7 @@
     Availability: Available
     Price: €81.95 EUR
 - [Glass Polish Compounding Foam 16002](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm): 125mm / 5 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-31T16:52:46Z
+  Updated: 2025-11-03T10:27:54Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
@@ -2006,7 +2006,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Glass-Cutter-Oil-Feed-Glass-Cutting-Tool-15006.jpg?v=1737643837
   Price: €11.95 EUR
 - [SCRATCHLESS Scraper for Glass with 10 x carbon steel blade - 15052](https://glasspolishshop.com/products/scratchless-scraper-for-glass-with-10-x-carbon-steel-blade): SCRATCHLESS Scraper for Glass with 10 x carbon steel blade - 15052 - Scrapers &amp; Blades - ✔️ Made from durable PVC material.✔️ The scraper is supplied with a safety cap and fitted with a 0.20 mm replaceable carbon steel double-edged blade.✔️ Ideal for
-  Updated: 2025-10-27T17:14:16Z
+  Updated: 2025-11-03T11:55:36Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2149,7 +2149,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Leather-Vinyl-Repair-Kit-Do-it-yourself-Heat-Cure-91002.jpg?v=1737644398
   Price: €15.95 EUR
 - [Glass Polish DIY Fabric, Carpet, Upholstery Repair Kit 91006](https://glasspolishshop.com/products/diy-fabric-carpet-and-upholstery-repair-kit): Our DIY Fabric, Carpet, Upholstery Repair Kit will allow everyone to get near perfect results repair at home. Kit will repair small holes, rips, tears and burns. No additional tools are required, repairs takes 24 hrs to cure
-  Updated: 2025-10-20T21:18:41Z
+  Updated: 2025-11-02T23:35:50Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
@@ -2488,8 +2488,20 @@
   - [20 Discs](https://glasspolishshop.com/products/glasnet-200-coarse-grade-abrasive-3-inch-75mm?variant=54283274584399)
     Availability: Available
     Price: €29.95 EUR
+- [GlasX 60 Fine Grade Silicon Carbide Disc 125mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-5-inch-125mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
+  Updated: 2025-11-03T15:20:31Z
+  Vendor: Glass Polish
+  Product Type: GlasX™ Foam-Backed Abrasive Discs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14502.jpg?v=1748433231
+  - [5 Discs](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-5-inch-125mm?variant=54283275698511)
+    Availability: Available
+    Price: €14.95 EUR
+  - [20 Discs](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-5-inch-125mm?variant=54283275731279)
+    Availability: Available
+    Price: €49.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 125mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-5-inch-125mm): GlasX™ 120  Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-29T09:26:21Z
+  Updated: 2025-11-03T15:20:30Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2513,7 +2525,7 @@
     Availability: Available
     Price: €32.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-125mm-5-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-31T10:40:26Z
+  Updated: 2025-11-03T19:30:11Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2525,7 +2537,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-30T03:28:11Z
+  Updated: 2025-11-02T13:02:11Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2737,7 +2749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Gliptone-Leather-Conditioner-236-ml-_288-oz_29-GT1108_15b18132-bc36-439f-9edf-057105374c33.jpg?v=1737647085
   Price: €23.95 EUR
 - [Professional Glass Scratch Removal xNet™ System for Rotary Polishers](https://glasspolishshop.com/products/professional-glass-scratch-removal-xnet-system-no-machine): Restore any glass surface with the xNet™ system for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-20T21:18:51Z
+  Updated: 2025-11-03T04:14:47Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2761,7 +2773,7 @@
     Availability: Available
     Price: €159.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-75mm-3-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-20T21:18:51Z
+  Updated: 2025-11-03T19:03:37Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2773,7 +2785,7 @@
     Availability: Available
     Price: €89.95 EUR
 - [DIY Glass Scratch Removal Kit 50mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-50mm): Compact 50mm glass polishing kit to remove scratches, etching, and water stains. Use with drill for smooth, clear results. Includes abrasives, pads and compound
-  Updated: 2025-11-01T18:48:05Z
+  Updated: 2025-11-03T18:54:07Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2829,7 +2841,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/15101_7539fd52-61d1-448f-ab9e-af4467ce3389.jpg?v=1746012316
   Price: €27.95 EUR
 - [2 x PRO Diamond Hand Sanding Pad - Grit 600 Ultra Fine - GP15100-2](https://glasspolishshop.com/products/premium-diamond-hand-sanding-pad-600-ultra-fine-2-pads): Professional Diamond Hand Pad for glasswork, tile edging, metal rust removal, concrete smoothing, drywalls, woodworking, tool sharpening, and pottery finishing.
-  Updated: 2025-10-15T20:11:47Z
+  Updated: 2025-11-03T13:51:51Z
   Vendor: Glass Polish
   Product Type: Diamond Pads
   Availability: Available
@@ -2864,7 +2876,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_c36157fd-1670-45b7-b87d-922e81c990c8.jpg?v=1749041046
   Price: €8.95 EUR
 - [180mm ( 7 inch) Dense Felt Polishing Pad - 11034](https://glasspolishshop.com/products/180mm-7-inch-dense-felt-polishing-pad): 180mm ( 7 inch) Dense Felt Polishing Pad - 11034 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 180mm ( 7 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-22T22:25:04Z
+  Updated: 2025-11-02T02:54:27Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2998,25 +3010,25 @@
 ## Collections
 
 - [Repair Kits – DIY & Professional Restoration for Glass, Plastic & More](https://glasspolishshop.com/collections/repair-kits): Complete range of DIY & professional repair kits for glass, plastic, acrylic, metal and leather. Cost-effective solutions with step-by-step instructions.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 28
 - [Glass Restoration Kits | DIY & Professional Scratch Removal Solutions](https://glasspolishshop.com/collections/glass-restoration-kits): Explore our range of DIY and professional glass restoration kits. Remove scratches, polish glass, and restore clarity with easy-to-use, all-in-one repair kits.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 13
 - [Metal Polishing Kits | Stainless Steel Polishing Kits](https://glasspolishshop.com/collections/metal-polishing-kits): Metal and Stainless Steel Polishing kits with Advanced Metal Polish Compound that cleans, shines and protects the surface, kits can be used by hand, with an electric drill or polisher.
   Updated: 2025-10-20T21:18:22Z
   Total Products: 3
 - [Leather, Vinyl &amp; Fabric Repair Kits | Leather Care Kits](https://glasspolishshop.com/collections/leather-vinyl-carpet-repair): Do It Yourself Repair kits, can be used on Leather, Fabric or Vinyl surface i.e. car seats, home furniture, carpets, vinyl tile floors, bags and much more.
-  Updated: 2025-10-31T11:24:29Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 5
 - [Backing Pads for Drills, Rotary Polishers, DA and Orbital Sanders](https://glasspolishshop.com/collections/backing-pads): Discover high-quality backing pads for drills, rotary polishers, dual action and orbital sanders, Multiple sizes, thread types and densities, worldwide shipping
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 128
 - [Drill Spindle Backing Pads – Hook & Loop and PSA Pads](https://glasspolishshop.com/collections/drill-spindle-backing-pads): Shop high-quality drill spindle backing pads with hook & loop or PSA self-stick fixing. Durable, versatile and ideal for sanding, polishing and restoration.
   Updated: 2025-11-01T11:21:48Z
   Total Products: 20
 - [Glass Polish Rotary Backing Pads](https://glasspolishshop.com/collections/rotary-device): Glass Polish, backing pads for rotary devices. Full range of backing plates, variety of grip types, thread sizes, diameters. Worldwide shipping available.
-  Updated: 2025-10-29T11:25:33Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 56
 - [Dual Action Sander Backing Pads – 1/4”-20, M6, 5/16”-24 Threads](https://glasspolishshop.com/collections/dual-action-backing-pads): Explore durable hook & loop dual action backing pads for sanding, polishing, spot repair and surface restoration, with various dust extraction hole options.
   Updated: 2025-10-20T21:18:23Z
@@ -3025,7 +3037,7 @@
   Updated: 2025-10-20T21:18:23Z
   Total Products: 19
 - [Abrasive Sanding & Polishing Discs – For Glass, Plastic & Paint](https://glasspolishshop.com/collections/abrasive-discs-pads): Discover abrasive sanding and polishing discs for scratch removal, surface refining and finishing on glass, plastic, paint, wood, ceramics, metal and more.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T09:54:13Z
   Total Products: 30
 - [GP-PRO Waterproof Abrasive Discs – Silicon Carbide Surface Restoration](https://glasspolishshop.com/collections/gp-pro-waterproof-abrasive-discs): Shop GP-PRO waterproof abrasive discs made with premium silicon carbide. Professional-grade sanding discs for surface restoration, polishing and damage removal.
   Updated: 2025-10-31T11:24:29Z
@@ -3037,10 +3049,10 @@
   Updated: 2025-10-21T11:24:09Z
   Total Products: 11
 - [Polishing Pads – Felt, Foam & Wool Pads for Compounding & Polishing](https://glasspolishshop.com/collections/polishing-pads): Shop polishing pads for every stage of restoration. Felt, foam and wool pads for cutting, compounding, polishing and achieving a professional high-gloss finish.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 27
 - [Felt Polishing Pads – For Glass, Plastic, Acrylic, Metal & Paint](https://glasspolishshop.com/collections/felt-polishing-pads): Shop felt polishing pads for glass, plastic, metal and paint. Available in medium and dense grades, plus hybrid pads, ideal for scratch removal and finishing.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 10
 - [Wool Polishing Pads – For Fast Cutting, Compounding & Restoration](https://glasspolishshop.com/collections/wool-polishing-pads): Discover wool polishing pads for heavy correction and fast results. Ideal for cutting, compounding and paint restoration, trusted by professionals and detailers
   Updated: 2025-10-20T21:18:23Z
@@ -3049,19 +3061,19 @@
   Updated: 2025-11-01T11:21:48Z
   Total Products: 11
 - [Advanced Polishing Compounds for Glass, Plastic and Metal Restoration](https://glasspolishshop.com/collections/polishing-compounds): High-performance polishing compounds for glass, plastic, and metal restorations. Achieve flawless results with professional formulas used by experts worldwide.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 32
 - [Glass Scratch Removal Kits for DIY & Professional Glass Repair](https://glasspolishshop.com/collections/glass-scratch-removal-kits): Shop glass scratch removal kits for all glass surfaces. Professional and DIY systems to repair, polish and restore original glass clarity and shine
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 8
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 14
 - [Glass Polishing Compounds – Remove Scratches & Restore Clarity](https://glasspolishshop.com/collections/glass-polishing-compounds): High-performance glass polishing compounds remove fine scratches, sanding marks, haziness and limescale, restoring clarity to glass, ceramics, metals, and more
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 8
 - [Cerium Oxide Polishing Powder – Restore Glass Clarity & Shine](https://glasspolishshop.com/collections/cerium-oxide-powder): Suspension-treated, high-purity cerium oxide for polishing glass, gemstones, and crystals. Removes fine scratches, sanding marks, haziness, and limescale
-  Updated: 2025-10-31T11:24:29Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 12
 - [Glass Polish Plastic and Acrylic compounds](https://glasspolishshop.com/collections/plastic-polishing-compounds): Plastic Polishing
   Updated: 2025-10-21T11:24:09Z
@@ -3073,7 +3085,7 @@
   Updated: 2025-10-30T11:23:52Z
   Total Products: 4
 - [Hand Held Sanding](https://glasspolishshop.com/collections/hand-sanding-pads): Hand Held Sanding, Hand Held Sanding - GLASS POLISH SHOP - Smart Repair &amp; Polishing Products
-  Updated: 2025-10-20T21:18:23Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 23
 - [Random Orbital Sander Backing Pads – Screw-Fit with Dust Extraction](https://glasspolishshop.com/collections/orbital-sander-backing-pads): Shop durable orbital sander backing pads with screw-fit mounting and multi-hole dust extraction, hook & loop pads for sanding, polishing and surface restoration
   Updated: 2025-10-20T21:18:23Z
@@ -3082,13 +3094,13 @@
   Updated: 2025-10-20T21:18:23Z
   Total Products: 10
 - [Glass Polish Rotary Polishing Machine](https://glasspolishshop.com/collections/rotary-polishers): Glass Polish Rotary Polishing Machines used in glass, plastic, acrylic and automotive renovation industry. Great range at best price. Worldwide shipping.
-  Updated: 2025-10-28T11:22:53Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 13
 - [Glass Polish Accessories](https://glasspolishshop.com/collections/accessories): Glass Polish Accessories used on daily basis, adapters, spare parts, scrapers, blades, tool bags, ppe and much more. Worldwide shipping avaialble
-  Updated: 2025-10-28T11:22:53Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 35
 - [Glass Polish Blades and Scrapers](https://glasspolishshop.com/collections/scrapers-and-blades): Glass Polish Blades and Scrapers professional tools used everyday by our technicians.  The only scrapers recommended for use on glass surface.
-  Updated: 2025-10-28T11:22:53Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 10
 - [Glass Polishing Cleaning](https://glasspolishshop.com/collections/cleaning-supplies): Glass Polishing Cleaning  accessorises for glass, plastic, marble. For professionals and every day use. Worldwide shipping available.
   Updated: 2025-10-27T11:23:46Z
@@ -3106,7 +3118,7 @@
   Updated: 2025-10-24T11:22:46Z
   Total Products: 3
 - [Windscreen Chip & Crack Repair Supplies for Professional Repair Kits](https://glasspolishshop.com/collections/crack-and-chip-repair-supplies): Shop professional chip and crack consumables, curing resin, pit filler, drill bits, curing tape used in car windscreen chip and crack repair process.
-  Updated: 2025-10-31T11:24:29Z
+  Updated: 2025-11-02T12:21:57Z
   Total Products: 10
 - [Spindle Adaptors M14 x 2 and 5/8&quot;-11 to 6mm Backing pad adaptor](https://glasspolishshop.com/collections/drill-adaptors): M14 x 2 and 5/8&quot;-11 to 6mm Backing pad adaptor. use threaded backing pad with power drill.
   Updated: 2025-10-20T21:18:24Z
@@ -3115,25 +3127,25 @@
   Updated: 2025-10-20T21:18:24Z
   Total Products: 3
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
-  Updated: 2025-10-31T11:24:29Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 35
 - [GlasX™ Premium Foam-Backed Abrasive Discs – Scratch Removal & Sanding](https://glasspolishshop.com/collections/glasx-foam-backed-abrasive-discs): Shop GlasX™ foam-backed abrasive discs for glass, plastic and headlights. Ideal for scratch removal and pre-polish sanding with smooth, consistent results.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T09:54:13Z
   Total Products: 6
 - [flex power tools,](https://glasspolishshop.com/collections/flex-tools): flex tools power tools accessories for professional craftspeople. System solutions for Refurbishment, renovation &amp; modernization, metalworking, automotive
   Updated: 2025-10-28T11:22:53Z
   Total Products: 31
 - [DIY Glass Scratch Removal & Polishing Kits for Home Use](https://glasspolishshop.com/collections/diy-glass-restoration-kits): Remove scratches, restore clarity, and polish glass at home with our easy-to-use DIY kits for windscreens, windows, doors, shower glass, ceramic hobs and more.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 8
 - [Discs & Pads – Abrasive, Backing, Polishing & Sanding Pads for Repairs](https://glasspolishshop.com/collections/discs-and-pads): Discover abrasive discs, backing pads, polishing pads, and sanding pads for professional and DIY use. Achieve precision and durability on any surface.
-  Updated: 2025-10-21T11:24:09Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 86
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-11-01T11:21:48Z
+  Updated: 2025-11-03T12:27:08Z
   Total Products: 85
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-30T11:23:52Z
