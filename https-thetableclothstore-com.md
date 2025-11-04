@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-01T04:00:53.751Z
+- Updated At: 2025-11-04T00:00:36.031Z
 
 ## Products
 
@@ -33777,6 +33777,9 @@
     Author: User
   - [Solutions to Common Tablecloth Challenges and How to Solve Them](https://thetableclothstore.com/blogs/news/solutions-to-common-tablecloth-challenges-and-how-to-solve-them): Solutions to Common Tablecloth Challenges and How to Solve Them
     Updated: 2025-10-30T01:34:06Z
+    Author: User
+  - [Guide to Styling with Table Runners and Overlays](https://thetableclothstore.com/blogs/news/guide-to-styling-with-table-runners-and-overlays): Guide to Styling with Table Runners and Overlays
+    Updated: 2025-11-03T00:42:24Z
     Author: User
 
 ## Store Pages
