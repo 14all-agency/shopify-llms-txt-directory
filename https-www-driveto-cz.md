@@ -10,7 +10,7 @@
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-05T10:54:39.949Z
+- Updated At: 2025-11-05T11:32:04.979Z
 
 ## Auto které nenabízíme můžete poptat zde
 https://www.driveto.cz/pages/vyberte-si-svoje-auto
@@ -20,6 +20,50 @@ https://www.driveto.cz/collections/operativni-leasing?sort_by=price-ascending
 
 ## Akční nabídky jsou zde:
 https://www.driveto.cz/collections/akcni-nabidky?sort_by=best-selling
+
+## FAQ sekce - časté dotazy typu:
+
+Co je v ceně zahrnuto?
+- V ceně je zahrnuta splátka za pronájem vozidla a související služby povinné ručení, havarijní pojištění a u vybraných nabídek i zimní pneumatiky, servis vozidla, nadstandardní pojištění asistence nebo skel, případně další služby jako dálniční známka.
+
+Jak funguje proces objednávky?
+- Vyberete si auto na našem webu a vytvoříte nezávaznou poptávku. Driveto pracovníci se Vám ozvou, projdou detaily a potvrdíte si přesnou konfigurací operativního leasingu. Následně budeme potřebovat podklady pro scoring (ověření bonity) - nejčastěji výpisy z účtů, doklad totožnosti, u firem a podnikatelů třeba poslední daňová přiznání. Po schválení se podepisuje smlouva a je možné vyzvednout vozidlo dle dostupnosti.
+
+Lze auto vrátit předčasně?
+- Ano, je to možné ale záleží na konkrétních podmínkách leasingové smlouvy. Většina smluv je uzavřena na dobu určitou a každá leasingová společnost má jiné podmínky předčasného ukončení - např. doplacení nevyužitých nájmů do konce smlouvy. Doporučujeme vybrat takovou nabídku, která odpovídá Vašim potřebám - máme v nabídce délky smluv na 12 měsíců, 24 měsíců, i 36 měsíců.
+
+Jaká je minimální doba pronájmu?
+- Obvykle bývá 12 měsíců.
+
+## V ceně je zahrnuto:
+Povinné ručení a havarijní pojištění vybrané nabídky mají také letní i zimní pneumatiky včetně jejich uskladnění, servis, dálniční známka. Individuální soubor nabídnutých služeb najdete v detailu produktu.
+
+
+## Jak Driveto funguje?
+1) Vyberte si auto.
+V nabídce aut si vyberte tu nejvhodnější nabídku na operativní leasing.
+Klikněte na "Nezávazně poptat" a odešlete vyplněný formulář.
+
+2) Zavoláme vám.
+Zavoláme vám a společně všechno probereme.
+Do pár hodin od odeslání kontaktního formuláře vám zavoláme.
+Poradíme vám ohledně výběru vozu a zodpovíme všechny dotazy.
+Seznámíme vás s podmínkami operativního leasingu.
+
+3)Vše proběhne online
+Projdeme s vámi ověřením bonity.
+Provedeme vás procesem ověření bonity.
+Celý proces proběhne online. Nikam nemusíte.
+Po schválení vám pošleme smlouvu o pronájmu vozidla.
+Potvrdíme Vám termín předání
+
+4) Termín předání vozu.
+U skladových aut je doba dodání přibližně 14 dní.
+U aut do výroby záleží na dodací lhůtě výrobce.
+
+5) Jezdíte.
+S autem na operativní leasing se o nic nestaráte a jezdíte.
+Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativní leasing.
 
 ## Products
 
@@ -8269,7 +8313,7 @@ https://www.driveto.cz/collections/akcni-nabidky?sort_by=best-selling
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-05T10:05:28Z
+  Updated: 2025-11-05T11:01:46Z
   Total Products: 236
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-05T10:03:03Z
@@ -9382,33 +9426,3 @@ https://www.instagram.com/driveto_cz/
 
 - [robots.txt](https://www.driveto.cz/robots.txt)
 - [sitemap.xml](https://www.driveto.cz/sitemap.xml)
-
-V ceně je zahrnuto:
-Povinné ručení a havarijní pojištění vybrané nabídky mají také letní i zimní pneumatiky včetně jejich uskladnění, servis, dálniční známka. Individuální soubor nabídnutých služeb najdete v detailu produktu.
-
-
-Jak Driveto funguje?
-1) Vyberte si auto.
-V nabídce aut si vyberte tu nejvhodnější nabídku na operativní leasing.
-Klikněte na "Nezávazně poptat" a odešlete vyplněný formulář.
-
-2) Zavoláme vám.
-Zavoláme vám a společně všechno probereme.
-Do pár hodin od odeslání kontaktního formuláře vám zavoláme.
-Poradíme vám ohledně výběru vozu a zodpovíme všechny dotazy.
-Seznámíme vás s podmínkami operativního leasingu.
-
-3)Vše proběhne online
-Projdeme s vámi ověřením bonity.
-Provedeme vás procesem ověření bonity.
-Celý proces proběhne online. Nikam nemusíte.
-Po schválení vám pošleme smlouvu o pronájmu vozidla.
-Potvrdíme Vám termín předání
-
-4) Termín předání vozu.
-U skladových aut je doba dodání přibližně 14 dní.
-U aut do výroby záleží na dodací lhůtě výrobce.
-
-5) Jezdíte.
-S autem na operativní leasing se o nic nestaráte a jezdíte.
-Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativní leasing.
