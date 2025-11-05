@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-11-04T22:26:24.052Z
+- Updated At: 2025-11-05T00:00:35.658Z
 
 ## Products
 
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/BeFocused_1084_front_1500x1500_f997d074-869a-43a7-9d7f-4e5eb054c44d.jpg?v=1654450302
   Price: $16.00 USD
 - [Buy Winter Gift Box (Ice) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/winter-gift-box-2022): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Winter Gift Box (Ice).
-  Updated: 2025-11-04T18:18:03Z
+  Updated: 2025-11-04T23:32:12Z
   Vendor: Sticky Be Socks
   Product Type: Holiday Box
   Availability: Available
