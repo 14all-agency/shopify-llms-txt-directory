@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-11-01T12:01:02.570Z
+- Updated At: 2025-11-05T00:00:41.882Z
 
 ## Products
 
@@ -365,7 +365,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/infiniteuniverseorganiccottontotebag.png?v=1688184555
   Price: £31.99 GBP
 - [Higher frequency - Hibiscus Surfwear -  Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/higher-frequency-hibiscus-surfwear-mens-organic-cotton-t-shirt): Higher frequency - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:03Z
+  Updated: 2025-11-03T17:17:46Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-646233ddb602d.jpg?v=1689107222
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/higher-frequency-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45178864402745)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-646233ddb602d.jpg?v=1689107222
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/higher-frequency-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45178864435513)
@@ -494,7 +494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/organic-ribbed-beanie-sand-front-64a1e35811b26.jpg?v=1688331107
     Price: £33.99 GBP
 - [Waves - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt): Waves - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:41Z
+  Updated: 2025-11-03T17:17:46Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -524,7 +524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64627ed3c1e7a.jpg?v=1688094924
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45180525674809)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64627ed3c1e7a.jpg?v=1688094924
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45180525707577)
@@ -1464,7 +1464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-pullover-hoodie-white-front-64662d6d4b189.jpg?v=1688411208
     Price: £57.99 GBP
 - [The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt): The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:40Z
+  Updated: 2025-11-03T17:17:49Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -1494,7 +1494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64662f37e6416.jpg?v=1688093578
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45203328631097)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64662f37e6416.jpg?v=1688093578
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45203328663865)
@@ -1651,7 +1651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/eco-tote-bag-black-front-6474153b60f9f.jpg?v=1688184315
     Price: £31.99 GBP
 - [Passiflora - Hibiscus Surfwear - Womens organic cotton regular fit t-shirt](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-womens-organic-cotton-t-shirt): Passiflora - Hibiscus Surfwear - Womens organic cotton regular fit t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:08Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -1701,7 +1701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64741816781e3.jpg?v=1688409139
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45267955384633)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64741816781e3.jpg?v=1688409139
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-womens-organic-cotton-t-shirt?variant=45267955417401)
@@ -1797,7 +1797,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-black-front-647814d8bb084.jpg?v=1685591269
   Price: £41.99 GBP
 - [Birds of paradise - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Birds of paradise - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:42Z
+  Updated: 2025-11-03T17:17:51Z
   Vendor: Hibiscus Surfwear
   Product Type: T-shirts
   Availability: Available
@@ -1827,7 +1827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478ef679d25f.jpg?v=1688614514
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296485794105)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478ef679d25f.jpg?v=1688614514
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296485826873)
@@ -2029,7 +2029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-6478f00438b4e.jpg?v=1688182610
     Price: £37.15 GBP
 - [Yellow poppies - Hibiscus Surfwear - Women's regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Yellow poppies - Hibiscus Surfwear - Women's regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:48Z
+  Updated: 2025-11-03T17:17:49Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -2059,7 +2059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478f0b705c1c.jpg?v=1688614865
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296507715897)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478f0b705c1c.jpg?v=1688614865
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296507748665)
@@ -2190,7 +2190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-back-64a637c4329f6.jpg?v=1688614865
     Price: £37.15 GBP
 - [Hummingbird - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt): Hummingbird - Hibiscus Surfwear - Womens regular fit organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:47Z
+  Updated: 2025-11-03T17:17:49Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -2220,7 +2220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478f14a71a6d.jpg?v=1725397697
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296518234425)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6478f14a71a6d.jpg?v=1725397697
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-regular-fit-organic-cotton-t-shirt?variant=45296518267193)
@@ -3066,7 +3066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-647e4120112d2.jpg?v=1688093470
     Price: £37.15 GBP
 - [Passiflora - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-mens-organic-cotton-t-shirt): Passiflora - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:11Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -3096,7 +3096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-647e44a53861a.jpg?v=1688093504
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329184522553)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-647e44a53861a.jpg?v=1688093504
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/passiflora-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329184555321)
@@ -3152,7 +3152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-647e44ed5708c.jpg?v=1688093504
     Price: £37.15 GBP
 - [Waves - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt): Waves - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:46Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -3182,7 +3182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-647e446b0d75c.jpg?v=1689106988
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329279123769)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-647e446b0d75c.jpg?v=1689106988
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/waves-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45329279222073)
@@ -4072,7 +4072,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/stainless-steel-water-bottle-white-17oz-front-2-647f94339b185.jpg?v=1686082620
   Price: £36.99 GBP
 - [Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt): Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:48Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -4102,7 +4102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-648072418ab8b.jpg?v=1688014274
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356643844409)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-648072418ab8b.jpg?v=1688014274
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356643877177)
@@ -4400,7 +4400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-long-sleeve-tee-white-front-6480739e2dc12.jpg?v=1686139820
     Price: £40.15 GBP
 - [Mountains & clouds - Hibiscus Surfwear - Men's organic cotton t-shirt](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt): Mountains & clouds - Hibiscus Surfwear - Men's organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:49Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -4430,7 +4430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64807954478ef.jpg?v=1689363652
     Price: £39.99 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356776194361)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-64807954478ef.jpg?v=1689363652
     Price: £39.99 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/mountains-clouds-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45356776227129)
@@ -5210,7 +5210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-long-sleeve-tee-storm-front-67f42a4e7ec03.jpg?v=1744055125
     Price: £40.49 GBP
 - [Ski Verbier - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt): Ski Verbier - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:47Z
+  Updated: 2025-11-03T17:17:54Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -5220,7 +5220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-648237c51ebb1.jpg?v=1689364918
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45373330424121)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-648237c51ebb1.jpg?v=1689364918
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/ski-verbier-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45373330456889)
@@ -6278,7 +6278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-sports-bra-black-front-648693ae8f1c0.jpg?v=1686541240
     Price: £49.99 GBP
 - [Jubilee Line - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/jubilee-line-hibiscus-surfwear-mens-organic-cotton-t-shirt): Jubilee Line - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:16Z
+  Updated: 2025-11-03T17:17:56Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -6328,7 +6328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6486955111ce1.jpg?v=1688357036
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/jubilee-line-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45398590259513)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-6486955111ce1.jpg?v=1688357036
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/jubilee-line-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45398590292281)
@@ -9757,7 +9757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-649117fc04d2d.jpg?v=1690216935
     Price: £37.15 GBP
 - [Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt-1): Piccadilly Circus - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-27T16:20:16Z
+  Updated: 2025-11-03T17:17:58Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -9787,7 +9787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-649117bf636a7.jpg?v=1687230419
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt-1?variant=45472977355065)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-649117bf636a7.jpg?v=1687230419
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/piccadilly-circus-hibiscus-surfwear-mens-organic-cotton-t-shirt-1?variant=45472977387833)
@@ -13551,7 +13551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-tri-blend-t-shirt-mauve-triblend-front-6499eb7b8b18f.jpg?v=1687962990
     Price: £40.45 GBP
 - [Santa Teresa - Hibiscus Surfwear - Ethical Women's Embroidered Relaxed T-Shirt](https://www.hibiscussurfwear.com/products/santa-teresa-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt): Santa Teresa - Hibiscus Surfwear - Ethical Women's Embroidered Relaxed T-Shirt This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Athletic heather is 90% cotton, 10% polyester • Other heather colors are 52% cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide SHIRT WIDTH (inches) SHIRT LENGTH (inches) US SIZES EU SIZE UK SIZE S 18 ½ 25 ¼ 6-8 36-38 10-12 M 20 26 10-12 40-42 14-16 L 22 26 ¾ 14-16 44-46 18-20 XL 24 27 ½ 18-20 48-50 22-24 2XL 26 28 ¼ 22-24 52-54 26-28 3XL 28 29 26-28 56-58 30-32
-  Updated: 2025-10-27T16:20:30Z
+  Updated: 2025-11-03T17:18:01Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -13681,7 +13681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/womens-relaxed-t-shirt-heather-mauve-front-66b397569c9ed.jpg?v=1723045753
     Price: £37.04 GBP
   - [Heather Mauve / M](https://www.hibiscussurfwear.com/products/santa-teresa-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt?variant=45528335548729)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/womens-relaxed-t-shirt-heather-mauve-front-66b397569c9ed.jpg?v=1723045753
     Price: £37.04 GBP
   - [Heather Mauve / L](https://www.hibiscussurfwear.com/products/santa-teresa-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt?variant=45528335581497)
@@ -15156,7 +15156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-essential-eco-hoodie-white-front-649a4bf531825.jpg?v=1689107753
     Price: £66.99 GBP
 - [Sea turtles - Hibiscus Surfwear - Organic cotton mens t-shirt](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt): Sea turtles - Hibiscus Surfwear - Organic cotton mens t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:52Z
+  Updated: 2025-11-03T17:17:58Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -15186,7 +15186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-649a4dc975039.jpg?v=1689452581
     Price: £44.99 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt?variant=45529789563193)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-french-navy-front-649a4dc975039.jpg?v=1689452581
     Price: £44.99 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/sea-turtle-hibiscus-surfwear-organic-cotton-mens-t-shirt?variant=45529789595961)
@@ -15925,7 +15925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-sweatshirt-white-front-64b30732dcf60.jpg?v=1689454778
     Price: £57.99 GBP
 - [Sunflower positivity - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt): Sunflower positivity - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-28T22:28:51Z
+  Updated: 2025-11-03T17:17:58Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -15969,7 +15969,7 @@
     Availability: Available
     Price: £36.00 GBP
   - [French Navy / M](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45728040943929)
-    Availability: Not Available
+    Availability: Available
     Price: £36.00 GBP
   - [French Navy / L](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-mens-organic-cotton-t-shirt?variant=45728041009465)
     Availability: Available
@@ -25738,7 +25738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/youth-classic-tee-white-front-67b83b213e6b0.jpg?v=1740127022
     Price: £29.00 GBP
 - [Ayia Napa - Hibiscus Surfwear - Ethical women's tri-blend t-shirt](https://www.hibiscussurfwear.com/products/ayia-napa-hibiscus-surfwear-ethical-womens-tri-blend-t-shirt): Ayia Napa - Hibiscus Surfwear - Ethical women's tri-blend t-shirt The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide LENGTH (inches) WIDTH (inches) XS 27 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 LENGTH (cm) WIDTH (cm) XS 68.6 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-04-24T15:45:52Z
+  Updated: 2025-11-01T12:26:52Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -26511,7 +26511,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-utility-crossbody-bag-white-back-67c370568405a.jpg?v=1740861541
   Price: £44.00 GBP
 - [Surf's up! - Hibiscus Surfwear - Ethical Women's Embroidered Relaxed T-Shirt](https://www.hibiscussurfwear.com/products/surfs-up-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt): Surf's up! - Hibiscus Surfwear - Ethical Women's Embroidered Relaxed T-Shirt This just might be the softest and most comfortable women's t-shirt you'll ever own. Combine the relaxed fit and smooth fabric of this tee with jeans to create an effortless every-day outfit, or dress it up with a jacket and dress pants for a business casual look. • 100% combed and ring-spun cotton • Heather Prism Lilac & Heather Prism Natural are 99% combed and ring-spun cotton, 1% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Other Heather colors are 52% combed and ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/y² (142 g/m²) • Relaxed fit • Pre-shrunk fabric • Side-seamed construction • Crew neck • Blank product sourced from Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide SHIRT WIDTH (inches) SHIRT LENGTH (inches) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (inches) S 18 ½ 25 ¼ 6-8 36-38 10-12 7 ¾ M 20 26 10-12 40-42 14-16 8 ¼ L 22 26 ¾ 14-16 44-46 18-20 8 ¾ XL 24 27 ½ 18-20 48-50 22-24 9 ½ 2XL 26 28 ¼ 22-24 52-54 26-28 10 ¼ 3XL 28 29 26-28 56-58 30-32 10 ¾ SHIRT WIDTH (cm) SHIRT LENGTH (cm) US SIZES EU SIZE UK SIZE SLEEVE LENGTH (cm) S 47 64.1 6-8 36-38 10-12 19.7 M 50.8 66 10-12 40-42 14-16 21 L 55.9 68 14-16 44-46 18-20 22.2 XL 61 69.9 18-20 48-50 22-24 24.1 2XL 66 71.8 22-24 52-54 26-28 26 3XL 71.1 73.7 26-28 56-58 30-32 27.3
-  Updated: 2025-10-27T16:20:30Z
+  Updated: 2025-11-03T17:18:01Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -26665,7 +26665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/womens-relaxed-t-shirt-heather-mauve-front-67cc93d091948.jpg?v=1741460445
     Price: £36.65 GBP
   - [Heather Mauve / M](https://www.hibiscussurfwear.com/products/surfs-up-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt?variant=50548788035897)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/womens-relaxed-t-shirt-heather-mauve-front-67cc93d091948.jpg?v=1741460445
     Price: £36.65 GBP
   - [Heather Mauve / L](https://www.hibiscussurfwear.com/products/surfs-up-hibiscus-surfwear-ethical-womens-embroidered-relaxed-t-shirt?variant=50548788068665)
