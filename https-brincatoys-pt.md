@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-11-04T00:01:14.966Z
+- Updated At: 2025-11-05T00:01:25.885Z
 
 ## Products
 
@@ -1822,14 +1822,14 @@ aos coiotes em tamanho e força, compensam em adaptabilidade já que podem
   Price: 31,50 € EUR
 - [Como desenhar -Animais-](https://brincatoys.pt/products/como-desenhar-animais): O conjunto como desenhar tem tudo o que precisa para facilitar o desenho.Siga as instruções, passo a passo, e estará a desenhar animais. Cada conjunto inclui: 9 lápis de cor, bloco de desenho de 36 páginas, afia lápis e borracha.A identificação de algumas figuras a desenhar, em língua inglesa, estimula a aprendizagem dessa língua.A
  embalagem fo...
-  Updated: 2025-11-03T23:54:15Z
+  Updated: 2025-11-04T14:17:11Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/como-desenhar-animais-836021821-brincatoys-1178693232.jpg?v=1752835099
   Price: 16,99 € EUR
 - [Como Desenhar Contos de Fadas - Para Aspirantes a Artistas](https://brincatoys.pt/products/como-desenhar-contos-de-fadas): Aprenda a desenhar personagens encantadores com o kit Como Desenhar Contos de Fadas. Descubra técnicas fáceis de seguir e inspire-se para criar arte.
-  Updated: 2025-11-03T23:54:15Z
+  Updated: 2025-11-04T14:16:22Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -1837,21 +1837,21 @@ aos coiotes em tamanho e força, compensam em adaptabilidade já que podem
   Price: 16,99 € EUR
 - [Como desenhar -Na Quinta-](https://brincatoys.pt/products/como-desenhar-na-quinta): O conjunto como desenhar tem tudo o que precisa para facilitar o desenho.Siga as instruções, passo a passo, e estará a desenhar a vida numa Quinta.A identificação das figuras a desenhar, em língua inglesa, estimula a aprendizagem dessa língua.Cada conjunto inclui: 9 lápis de cor, bloco de desenho de 36 páginas, afia lápis e borracha.A
  embalagem...
-  Updated: 2025-11-03T23:54:15Z
+  Updated: 2025-11-04T13:41:57Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/como-desenhar-na-quinta-836026021-brincatoys-1178693240.jpg?v=1752835341
   Price: 16,99 € EUR
 - [Como Desenhar o Reino Selvagem - Artista da Fauna Selvagem](https://brincatoys.pt/products/como-desenhar-o-reino-selvagem): Aprenda a desenhar animais selvagens como um profissional com o kit Como Desenhar O Reino Selvagem. Perfeito para todas as idades, estimula a criatividade.
-  Updated: 2025-11-03T23:54:15Z
+  Updated: 2025-11-04T13:40:55Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/como-desenhar-o-reino-selvagem-artista-da-fauna-selvagem-836022721-brincatoys-1178693244.jpg?v=1752818051
   Price: 16,99 € EUR
 - [Como Desenhar Verão Divertido - Kit Criativo para Crianças](https://brincatoys.pt/products/como-desenhar-verao-divertido): Como Desenhar Verão Divertido, o kit de desenho que ensina as crianças a criarem as suas próprias cenas de verão, para desenvolver habilidades e imaginação.
-  Updated: 2025-11-03T23:54:14Z
+  Updated: 2025-11-04T13:40:16Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -1896,26 +1896,14 @@ Esse gênero possui duas características notáveis.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-biscoitos-40029822-brincatoys-1178693263.jpg?v=1752818286
   Price: 21,95 € EUR
 - [Livro de Colorir Ballet- Arte e Relaxamento](https://brincatoys.pt/products/livro-de-colorir-ballet-rascunho): Descubra o encanto da dança em cada página do Livro de Colorir Ballet. Inclui marcadores de cor para ilustrações vibrantes.
-  Updated: 2025-11-03T23:54:14Z
+  Updated: 2025-11-04T11:40:43Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/livro-de-colorir-ballet-arte-e-relaxamento-831401422-brincatoys-1178693270.jpg?v=1752818406
   Price: 14,99 € EUR
-- [Conjunto Colorir -Criaturas Mágicas-](https://brincatoys.pt/products/conjunto-colorir-criaturas-magicas): Este
- conjunto de colorir está repleto de atividade, marcadores e adesivos em
- cores, todos projetados para manter as crianças entretidas.Este
- conjunto vem com 36 páginas para colorir, 10 marcadores e um conjuntos 
-de 5 autocolantes, sendo útil tanto em casa como fora dela, promove a 
-atenção, o relaxamento e efeitos anti-stress.
-  Updated: 2025-11-03T23:54:14Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-colorir-criaturas-magicas-836027021-brincatoys-1178693276.jpg?v=1752818524
-  Price: 14,99 € EUR
 - [Conjunto Colorir -Meios de Transporte-](https://brincatoys.pt/products/conjunto-colorir-meios-de-transporte): Este conjunto de colorir está repleto de atividade, marcadores e adesivos em cores, todos projetados para manter as crianças entretidas.Este conjunto vem com 36 páginas para colorir, 10 marcadores e um conjuntos de 5 autocolantes, sendo útil tanto em casa como fora dela, promove a atenção, o relaxamento e efeitos antiestresse.
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T11:45:52Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -1924,14 +1912,14 @@ atenção, o relaxamento e efeitos anti-stress.
 - [Conjunto Colorir Amigos das Fadas](https://brincatoys.pt/products/conjunto-colorir-amigos-das-fadas): Adicione um elemento mágico à sua coloração com o conjunto de padrões ocultos -"Amigos das fadas".
 
 Repleto de todas as maravilhas do país das fadas, cada imagem para colorir, lindamente ilustrada, tem um recurso extra especial de magia das fadas, à espera de ser revelado. Pinte com os marcadores incluídos e observe rabiscos ocultos, bolinhas e ...
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T13:39:43Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-colorir-amigos-das-fadas-836026122-brincatoys-1178693282.jpg?v=1752817815
   Price: 16,99 € EUR
 - [Conjunto Colorir Animais](https://brincatoys.pt/products/conjunto-colorir-animais): Clássico conjunto de colorir com uma surpresa escondida em cada página. Crianças com mais de 3 anos podem exercitar A sua criatividade e habilidades de colorir para dar vida às ilustrações de animais enquanto revelam belos padrões ocultos, incluindo listras de zebra, manchas de leopardo e muito mais.
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T13:39:48Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1943,7 +1931,7 @@ Repleto de todas as maravilhas do país das fadas, cada imagem para colorir, lin
  conjunto vem com 36 páginas para colorir, 10 marcadores e um conjuntos 
 de 5 autocolantes, sendo útil tanto em casa como fora dela, promove a 
 atenção, o relaxamento e efeitos anti-stress.
-  Updated: 2025-11-03T23:54:14Z
+  Updated: 2025-11-04T13:38:24Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1955,7 +1943,7 @@ atenção, o relaxamento e efeitos anti-stress.
  conjunto vem com 36 páginas para colorir, 10 marcadores e um conjuntos 
 de 5 autocolantes, sendo útil tanto em casa como fora dela, promove a 
 atenção, o relaxamento e efeitos anti-stress.
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T14:44:41Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1964,14 +1952,14 @@ atenção, o relaxamento e efeitos anti-stress.
 - [Conjunto colorir Fadas da Floresta](https://brincatoys.pt/products/conjunto-colorir-fadas-da-floresta): Esses conjuntos de colorir lindamente ilustrados estão repletos de actividades, marcadores coloridos e adesivos. Tudo projectado para manter as crianças felizes em movimento.
 
 Explore, pinte e decore todas as lindas fadas e criaturas da floresta encantada com este conjunto de colorir.
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T14:31:14Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-colorir-fadas-da-floresta-836021522-brincatoys-1178693293.jpg?v=1752835451
   Price: 15,99 € EUR
 - [Conjunto Colorir Jardim do Arco-íris](https://brincatoys.pt/products/conjunto-colorir-tropico): Projectado para desafiar crianças mais velhas, as imagens deste conjunto são destinadas a confundir e surpreender. Seleccione uma imagem tropical favorita e simplesmente pinte os números correspondentes com o marcador colorido correcto e veja o desenho ganhar vida Comece a colorir um número de cada vez, a imagem que está a criar pode não ficar c...
-  Updated: 2025-11-04T00:00:02Z
+  Updated: 2025-11-04T14:33:24Z
   Vendor: Seleção Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -1985,7 +1973,7 @@ Cada conjunto inclui:
     5 folhas de autocolantes coloridos
     10 marcadores de qualidade
     Caixa de armazenamento prática com compartimentos de armaz...
-  Updated: 2025-11-03T23:54:13Z
+  Updated: 2025-11-04T14:29:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -2105,14 +2093,14 @@ Qualquer menino adoraria estes carros de madeira que Incluem 7 veículos icônic
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-musical-confetti-220762622-brincatoys-1178693355.jpg?v=1752836529
   Price: 49,99 € EUR
 - [Conjunto para Colorir Animais Australianos](https://brincatoys.pt/products/conjunto-para-colorir-animais-australianos): As crianças podem colorir coalas, kookaburras, wombats e muito mais com este conjunto de colorir muito australiano. Estes conjuntos de actividades, cuidadosamente embalados, são projectados para brincadeiras criativas, mantendo os pequenos envolvidos e relaxados enquanto viajam ou estão em casa.
-  Updated: 2025-11-03T23:57:08Z
+  Updated: 2025-11-04T14:32:35Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-para-colorir-animais-australianos-836028222-brincatoys-1178693358.jpg?v=1752836538
   Price: 14,99 € EUR
 - [Conjunto para Colorir Floresta Mística](https://brincatoys.pt/products/conjunto-para-colorir-floresta-mistica): Tempo para uma aventura através de uma floresta mística, completa com adoráveis ​​e minúsculos dragões de estimação, sprites mágicos da floresta e corajosas heroínas em busca de aventuras; Este conjunto de colorir imaginativo inclui belos marcadores pastel e folhas de autocolantes que elevarão todas as obras de arte a um status digno de um frigo...
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T13:37:54Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3897,7 +3885,7 @@ As cartas são em plástico, mais duradouras e resistentes à água para jogar e
 
 
 Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um jogador escolhe duas delas e volta-as para ver se são iguais. Se forem iguais, o jogador retita-as da mesa e guarda-as. De seguida, repete o mesmo procedimento com outras duas cartas. Este jogador continua a jogar até qu...
-  Updated: 2025-10-31T12:25:05Z
+  Updated: 2025-11-04T12:04:30Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -4324,14 +4312,14 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lapis-de-cera-lavavel-12-pcs-779043522-brincatoys-1178694009.jpg?v=1752815654
   Price: 14,99 € EUR
 - [Lápis de Seda](https://brincatoys.pt/products/lapis-de-seda): Um divertido conjunto de oito canetas de colorir para crianças. Os lápis de cor são suaves como um pastel (as cores são mais vivas do que um lápis de cera padrão) e, para alterar a aparência, basta adicionar água com um pincel para criar um efeito de aquarela.Os Lápis de Seda não são tóxicos, não têm odor e são solúveis em água, pelo que as manchas
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T11:45:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lapis-de-seda-837012222-brincatoys-1178694011.png?v=1752815660
   Price: 9,99 € EUR
 - [Lápis Gel Neon](https://brincatoys.pt/products/lapis-gel-neon): Os Lápis Neon Gel são feitos a partir de gel solidificado, permitindo deslizar suavemente pela folha, criando cores néon vibrantes e brilhantes. A textura do gel permite que os lápis sejam usados em papel, vidro, espelhos e outras superfícies polidas. Os Lápis Neon Gel são não-tóxicos, sem odor e solúveis em água, portanto, as manchas são facilment
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T11:45:49Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -7600,12 +7588,12 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-33-pecas-patrulha-pata-860514521-patrulha-pata-1178695079.jpg?v=1752868577
   Price: 9,50 € EUR
-- [Puzzle 3D Batman](https://brincatoys.pt/products/puzzle-3d-batman): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Batman. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-31T12:26:24Z
+- [Puzzle 3D - Porta Lápis Batman | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-batman): Fantástico Puzzle 3D com 57 peças para criar um porta lápis com ilustrações de Batman. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
+  Updated: 2025-11-04T17:46:06Z
   Vendor: DC Comics
   Product Type: + 6 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-batman-861127522-dc-comics-1178695078.jpg?v=1752868573
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-3d-batman-861127522-4005556112753-dc-comics-1202847590.jpg?v=1762278355
   Price: 13,50 € EUR
 - [Puzzle 3D Jurassic World](https://brincatoys.pt/products/puzzle-3d-jurassic-world): Um puzzle 3D redondo do Jurassic World, fácil de montar graças às suas 72 peças numeradas. Basta seguir a ordem dos números e a direcção das setas mostradas na parte de trás das peças do puzzle. Todas as peças se encaixam perfeitamente graças à tecnologia Easyclick. Uma vez montado, o puzzle 3D permanece muito estável, não precisa ser colado e pode
   Updated: 2025-10-31T12:26:24Z
@@ -7614,12 +7602,12 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-jurassic-world-231175722-jurassic-world-1178695084.jpg?v=1752868688
   Price: 16,99 € EUR
-- [Puzzle 3D Ladybug](https://brincatoys.pt/products/puzzle-3d-ladybug): Fantástico Puzzle 3D com 57 peças para criar um porta lápis com ilustrações de Ladybug. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do pu
-  Updated: 2025-10-31T12:26:24Z
+- [Puzzle porta lápis 3D Ladybug: Diversão e Organização](https://brincatoys.pt/products/puzzle-porta-lapis-3d-ladybug): Transforme a sua secretária com o Puzzle porta lápis 3D Ladybug! Ajude as crianças a desenvolverem motricidade e organização. 🖊️
+  Updated: 2025-11-04T21:49:57Z
   Vendor: LadyBug
   Product Type: + 6 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-ladybug-861127822-ladybug-1178695086.jpg?v=1752868695
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-porta-lapis-3d-ladybug-diversao-e-organizacao-861127822-4005556112784-ladybug-1202903343.jpg?v=1762292996
   Price: 13,50 € EUR
 - [Puzzle 3D - Porta Lápis Pokémon | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-pokemon): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Pokémon.Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
   Updated: 2025-10-31T12:26:25Z
@@ -9001,7 +8989,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-3-rodas-das-princesas-disney-171899622-princesas-disney-1178695554.jpg?v=1752807961
   Price: 39,99 € EUR
 - [Trotinete 3 Rodas do Cars: Diversão e Equilíbrio](https://brincatoys.pt/products/trotinete-3-rodas-do-cars): Desperte a aventura das crianças com a Trotinete 3 Rodas do Cars! Estabilidade e conforto garantidos para horas de diversão. Compre já!
-  Updated: 2025-11-03T22:40:45Z
+  Updated: 2025-11-04T10:05:55Z
   Vendor: Cars
   Product Type: + 2 anos
   Availability: Available
@@ -10076,13 +10064,6 @@ do tempo a caçar no gelo marinho.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mala-tiracolo-top-model-251223723-brincatoys-1178695875.jpg?v=1752883210
   Price: 20,99 € EUR
-- [Mini Bolsa Top Model](https://brincatoys.pt/products/mini-bolsa-top-model): A mini bolsa da coleção TOPModel é um divertido espectáculo de cores com a imagem de uma linda modelo na frente e uma exibição de palavras motivacionais super fantásticas adornando toda a bolsa. Possui compartimento principal subdividido, bolso frontal, cordão para pendurar e um lindo biscoito de coração pendurado no zíper. Uma mala que não passará
-  Updated: 2025-10-31T12:27:15Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mini-bolsa-top-model-251197523-brincatoys-1178695878.jpg?v=1752883217
-  Price: 16,99 € EUR
 - [Lápis de Cor Apagáveis TOPModel | Desenho sem Limites](https://brincatoys.pt/products/lapis-de-cor-apagaveis): Descubra os Lápis de Cor Apagáveis TOPModel e eleve a sua arte. Cores vibrantes e possibilidade de apagar: a escolha perfeita para qualquer artista.
   Updated: 2025-10-31T12:27:15Z
   Vendor: Seleção Brincatoys
@@ -10938,7 +10919,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mystery-minis-five-nights-at-freddy-s-balloon-circus-236787123-0889698678711-five-nights-at-freddy-s-1178696295.webp?v=1752805331
   Price: 9,99 € EUR
 - [Roblox Brookhaven: Hair & Nails | Brincatoys](https://brincatoys.pt/products/roblox-brookhaven-hair-nails): Pronto para se aventurar com essas fechaduras? "Novo dia, novo cabelo" é o lema deste salão de celebridades em Wolfpaq's Brookhaven! Mime-se com um dia de transformação; seja qual for a cor ou estilo, se tu podes sonhar, eles podem pentear. Sente-se, relaxe e aproveite o seu novo visual! Dimensão: 17 x 23 x 5 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-10-31T12:27:37Z
+  Updated: 2025-11-04T05:17:53Z
   Vendor: Roblox
   Product Type: + 6 anos
   Availability: Available
@@ -11225,7 +11206,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-rocky-aprender-com-diversao-554904425-0681147037526-patrulha-pata-1192409558.jpg?v=1757627535
   Price: 19,99 € EUR
 - [Figura DC - Batman Clássico 30 cm | Brincatoys](https://brincatoys.pt/products/figura-dc-batman-classico-30-cm): Cria as tuas próprias aventuras épicas de super-heróis e super-vilões com a figuras de ação de 30cm do BATMAN! Cada figura de ação apresenta 11 pontos de articulação e estilo realista detalhado que dá vida aos teus heróis e vilões favoritos do BATMAN! Junta-te ao Dynamic Duo de BATMAN e ROBIN e ajuda a livrar Gotham City dos seus vilões e criminoso
-  Updated: 2025-11-03T22:31:31Z
+  Updated: 2025-11-04T13:46:14Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11638,14 +11619,14 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/super-mario-bros-yoshi-770608723-super-mario-1178696652.jpg?v=1752897608
   Price: 20,99 € EUR
 - [Figura The Flash (Young Barry)](https://brincatoys.pt/products/figura-the-flash-young-barry): Os super-vilões não têm hiótese na luta contra a figura de ação do Flash! Corre para a ação com a figura de ação de 30 cm do Flash! Cada figura de ação apresenta 11 pontos de articulação e o estilo detalhado. As crianças adoram envolver a sua imaginação e criar as suas próprias batalhas do The Flash! O destino do mundo está nas tuas mãos. Este brin
-  Updated: 2025-11-03T22:31:28Z
+  Updated: 2025-11-04T13:47:48Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-the-flash-young-barry-773858923-dc-comics-1178696664.jpg?v=1752897722
   Price: 19,99 € EUR
 - [Figura Flash 10 cm](https://brincatoys.pt/products/figura-flash-10-cm): Corra para a ação com a icônica figura de ação do Flash ! Cada figura inclui 2 acessórios exclusivos, com efeito de força de velocidade. Inspirada no universo DC, esta figura de 10 cm oferece aos fãs da DC ação e aventura emocionante. Cada figura possui 11 pontos de articulação, facilitando a colocação da figura de ação numa variedade de poses de a
-  Updated: 2025-11-03T22:31:29Z
+  Updated: 2025-11-04T13:49:49Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11659,14 +11640,14 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-batman-10-cm-773861923-0778988438619-dc-comics-1178696670.jpg?v=1752897741
   Price: 15,99 € EUR
 - [Figura DC - Red Hood 30 cm](https://brincatoys.pt/products/figura-dc-red-hood-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Red Hood. Cada figura tem 11 pontos de articulação e vai dar vida aos teus personagens preferidos. Com Robin e Batman (vendidos em separado) protege Gotham City do
-  Updated: 2025-11-03T22:31:30Z
+  Updated: 2025-11-04T13:47:43Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-red-hood-30-cm-773443723-dc-comics-1178696672.jpg?v=1752897846
   Price: 18,99 € EUR
 - [Figura DC - Batman Cinturão Cinzento 30 cm](https://brincatoys.pt/products/figura-dc-batman-cinturao-cinzento-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Batman Cinturão Cinzento, um dos maiores super-heróis de todos os tempos que protege a cidade de Gotham dos criminosos. Cada figura tem 11 pontos de articulação e
-  Updated: 2025-11-03T22:31:29Z
+  Updated: 2025-11-04T13:44:12Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11680,14 +11661,14 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-the-joker-30-cm-770942023-dc-comics-1178696681.jpg?v=1752897853
   Price: 18,99 € EUR
 - [Figura DC - Flash 15 cm](https://brincatoys.pt/products/figura-dc-flash-15-cm): Corra para a ação com a icônica figura de ação do Flash ! Inspirada no universo DC, esta figura de 15 cm oferece aos fãs da DC ação e aventura emocionante. Cada figura possui 3 pontos de articulação, facilitando a colocação da figura de ação numa variedade de poses de ação dinâmicas. Esta figura de ação articulada é altamente detalhada, apresentand
-  Updated: 2025-11-03T22:31:28Z
+  Updated: 2025-11-04T13:48:27Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-flash-15-cm-773601123-dc-comics-1178696683.jpg?v=1752897858
   Price: 13,99 € EUR
 - [Figura DC - Batman Preto & Cinzento 30 cm](https://brincatoys.pt/products/figura-dc-batman-preto-cinzento-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Batman Preto & Cinzento, um dos maiores super-heróis de todos os tempos que protege a cidade de Gotham dos criminosos. Cada figura tem 11 pontos de articulação e v
-  Updated: 2025-11-03T22:31:29Z
+  Updated: 2025-11-04T13:45:08Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11736,7 +11717,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-new-year-resolutions-82500023-2600000-brincatoys-1178696698.webp?v=1752898100
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Mountain Mayhem!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-mountain-mayhem): Wasgij Mystery 'Mountain Mayhem!' é o título deste quebra-cabeça de 1.000 peças fantasticamente engraçado. O sol está a brilhar para mais um belo dia neste idílico retiro nas montanhas. Os locais fazem compras e passeiam com os cães, os turistas admiram os arredores, enquanto outros arrumam o carro para começar a viagem de volta para casa. O que po
-  Updated: 2025-10-31T12:27:54Z
+  Updated: 2025-11-04T19:29:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -11750,7 +11731,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-chinese-new-year-82501123-2600000-brincatoys-1178696702.jpg?v=1752898333
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Winter Games](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-winter-games): É a cerimônia de abertura dos Jogos de Inverno e os olhos do mundo estão voltados para os orgulhosos atletas enquanto eles desfilam e acenam para a multidão, com alguns até exibindo as suas habilidades desportivas ao longo do caminho. Esta ocasião importante ocorrerá sem problemas ou o evento está em gelo fino? Use a sua imaginação e as pistas forn
-  Updated: 2025-10-31T12:27:54Z
+  Updated: 2025-11-04T19:29:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -11764,7 +11745,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-wasgij-1000-pcs-pooch-parlour-82501823-2600000-brincatoys-1178696706.jpg?v=1752898442
   Price: 16,95 € EUR
 - [Puzzle Wasgij? 1000 pçs - Time Travel!](https://brincatoys.pt/products/puzzle-wasgij-1000-pcs-time-travel): Wasgij Retro Destiny 5: 'Time Travel' é o título deste hilariante quebra-cabeça de 1000 peças. Houve um tempo em que viajar pelo mundo significava levar dias, ou mesmo semanas, para ir de um lugar a outro. Mas até onde a tecnologia chegou para permitir que os passageiros cheguem de A a B rapidamente? Esta é a cena que terá de decifrar. Wasgij Desti
-  Updated: 2025-10-31T12:27:54Z
+  Updated: 2025-11-04T19:29:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 anos
   Availability: Available
@@ -12275,7 +12256,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/anel-de-denticao-veado-491861423-brincatoys-1178696903.jpg?v=1752901452
   Price: 16,80 € EUR
 - [Figura de Flash - Batman](https://brincatoys.pt/products/figura-the-flash-batman): Os super-vilões não têm hiótese na luta contra a figura de ação do Batman! Corre para a ação com a figura de ação de 30 cm do Batman! Cada figura de ação apresenta 11 pontos de articulação e o estilo detalhado. As crianças adoram envolver a sua imaginação e criar as suas próprias batalhas do Batman O destino do mundo está nas tuas mãos. Este brinqu
-  Updated: 2025-11-03T22:31:28Z
+  Updated: 2025-11-04T13:43:07Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -12576,7 +12557,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-geladaria-666036323-5702017415635-lego-1178697045.jpg?v=1752903852
   Price: 38,50 € EUR
 - [Lego Ninjago - Cão Caça-Dragões Imperium](https://brincatoys.pt/products/lego-ninjago-cao-caca-dragoes-imperium): Viaje para o Império para uma ousada missão com Jay e Lloyd enquanto enfrentam o General da Garra do Império, que está a montar uma temível Besta Photac. A sua tarefa é impedi-los de capturar dragões e de colher os seus poderes para o mal! A besta está pronta para atacar com garras e espigões afiados. Lute com as catanas dos ninjas. O futuro do nov
-  Updated: 2025-10-31T12:28:10Z
+  Updated: 2025-11-04T10:07:22Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -13196,14 +13177,14 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-gallardo-spyder-681201623-brincatoys-1178697413.jpg?v=1752909615
   Price: 48,50 € EUR
 - [Conjunto Colorir - Sereias e Amigos](https://brincatoys.pt/products/conjunto-colorir-sereias-e-amigos): Doces sereias e crias de foca brincalhonas são abundantes neste conjunto de colorir para pequenos criativos. É um conjunto para as crianças que gostam de alguma orientação na sua exploração artística, já que a tonalidade de cores, integrada em legenda, incentiva a confiança no posicionamento das cores, além de que é óptimo para promover a concentração e uma sensação de realização depois de concluído. inclui 36 páginas ilustradas para colorir, coloridas por números, uma legenda de cores na lombada para ajudar a orientar as crianças e estimular a confiança na colocação das cores e 10 marcadores de cores vibrantes. Dimensão: 13,40 x 21 x 4 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T14:30:29Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-colorir-sereias-e-amigos-836029323-brincatoys-1178697449.webp?v=1752910096
   Price: 15,99 € EUR
 - [Conjunto para colorir - Dinossauros](https://brincatoys.pt/products/conjunto-para-colorir-dinossauros): Os amantes de dinossauros vão adorar o conjunto para colorir dos dinossauros ! Este conjunto de desenhos está repleto de muitos dinossauros que estão prontos para serem trazidos à vida. Explora, decora e pinta no período Jurássico! Este conjunto de desenho colorido é ideal para viagens pois tudo o que as crianças criativas precisam vem numa caixa compacta e independente com uma aba magnética para manter as canetas coloridas e os adesivos guardados com segurança. O tamanho compacto permite que este conjunto de colorir possa ser colocado em pequenas mochilas e bolsas! O conjunto de colorir dinossauro é óptimo para desenvolver a imaginação e as habilidades de destreza das crianças enquanto elas pintam cada dinossauro. Ajuda a estimular a atenção plena e o relaxamento e é uma ótima alternativa ao tempo no ecran! O Conjunto para colorir dinossauro inclui; 36 páginas para colorir, 5 folhas de autocolantes e 10 marcadores. Dimensão: 13,50 x 21 x 4 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T14:18:36Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13273,7 +13254,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yo-yo-de-madeira-t-rex-835755423-brincatoys-1178697480.jpg?v=1752910806
   Price: 10,00 € EUR
 - [Conjunto colorir 3D - Criaturas Ferozes](https://brincatoys.pt/products/conjunto-colorir-3d-criaturas-ferozes): Este fantástico conjunto permite criar incríveis ilusões de óptica. Basta colorir (usando o princípio quente/frio*), colocar os teus óculos 3D especiais e ver o teu trabalho artístico saltar da página! Este conjunto 3D está repleto de páginas para colorir de inspiração retrô, marcadores de paleta do arco-íris e o teu próprio par de óculos TT 3D! Os óculos 3D fazem com que as cores quentes pareçam mais próximas e as cores frias pareçam mais distantes. Experimenta enquanto pintas, com cores quentes e frias para fazer as tuas imagens parecerem 3D. Tem tudo o que precisas para te transportar para outra dimensão, tudo numa caixa independente, com aba magnética para manter o conteúdo armazenado com segurança. Cada conjunto para colorir 3D inclui: 36 páginas para colorir 3D; óculos 3D e 10 marcadores. Dimensão: 13,50 x 21 x 4 cm. Idade Recomendada: + de 5 anos.
-  Updated: 2025-11-03T23:54:12Z
+  Updated: 2025-11-04T13:36:57Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -14509,7 +14490,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-batman-76265-batwing-batman-vs-the-joker-667626523-5702017419817-lego-1178698297.jpg?v=1752923418
   Price: 42,50 € EUR
 - [Livro de Colorir Jardim do Arco-íris - Coloração Criativa](https://brincatoys.pt/products/livro-de-colorir-jardim-do-arco-iris-2): Descubra o Livro de colorir Jardim do Arco-íris e embarque numa aventura criativa! Ideal para crianças, este livro portátil alia diversão e aprendizado, estimulando a coordenação motora e cognição.
-  Updated: 2025-11-03T23:53:37Z
+  Updated: 2025-11-04T14:43:57Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -17234,14 +17215,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-megalodon-vs-hooked-770139424-0681147013940-brincatoys-1178700572.jpg?v=1752957963
   Price: 17,50 € EUR
 - [Monster Jam Marvel - Iron Man](https://brincatoys.pt/products/monster-jam-marvel-iron-man): Descubra o emocionante carro de brincar Monster Jam Marvel - Iron Man. Designdo Homem de Ferro, escala 1:64, rodas BKT. Diversão garantida.
-  Updated: 2025-11-03T22:31:31Z
+  Updated: 2025-11-04T18:23:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-marvel-iron-man-770147624-0681147014763-brincatoys-1178700577.jpg?v=1752957979
   Price: 11,99 € EUR
 - [Monster Jam Marvel – Black Panther](https://brincatoys.pt/products/monster-jam-marvel-black-panther): Descubra o emocionante carro de brincar Monster Jam Marvel - Black Panther. Designdo Pantera Negra, escala 1:64, rodas BKT. Diversão garantida.
-  Updated: 2025-11-03T22:31:30Z
+  Updated: 2025-11-04T18:23:36Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17450,6 +17431,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-equilibrio-da-baleia-feliz-educativo-e-divertido-26771624-3048700077165-brincatoys-1178700748.jpg?v=1752960605
   Price: 20,90 € EUR
+- [Monster Jam - Venom vs Spiderman: O Confronto Épico](https://brincatoys.pt/products/monster-jam-venom-vs-spiderman): Prepare-se para uma batalha épica! O conjunto Monster Jam - Venom vs Spiderman traz a força dos monster trucks e o fascínio da Marvel direto para sua casa.
+  Updated: 2025-11-04T18:42:10Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-venom-vs-spiderman-o-confronto-epico-770497124-0681147049710-brincatoys-1178700752.jpg?v=1752960617
+  Price: 21,50 € EUR
 - [Jogo de cartas Exploding Kittens: Estratégia e Diversão Explosiva](https://brincatoys.pt/products/jogo-de-cartas-exploding-kittens): Divirta-se em grande estilo com o jogo de cartas Exploding Kittens! Uma explosão de estratégia, humor e gatinhos explosivos esperam por você. Adquira já!
   Updated: 2025-10-31T12:29:59Z
   Vendor: Seleção Brincatoys
@@ -19012,7 +19000,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60461-trator-agricola-vermelho-com-reboque-666046125-5702017812618-lego-1178701877.jpg?v=1752978741
   Price: 22,50 € EUR
 - [Jogo de Cartas Lobisomens d’Aldeia Velha: Diverte](https://brincatoys.pt/products/jogo-de-cartas-lobisomens-da-aldeia-velha): Descubra o emocionante Jogo de Cartas Lobisomens d’Aldeia Velha! Divirta-se em família ou com amigos enquanto desvenda mistérios escondidos.
-  Updated: 2025-11-03T21:23:15Z
+  Updated: 2025-11-04T09:23:28Z
   Vendor: Seleção Brincatoys
   Product Type: + 10 anos
   Availability: Available
@@ -19341,7 +19329,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/a-boneca-pinypon-pop-shine-crie-arte-cintilante-agora-645700025-8056379162780-pinypon-1178692577.png?v=1752821172
   Price: 24,90 € EUR
 - [instrumento musical Xilofone 7 Amigos para Crianças](https://brincatoys.pt/products/xilofone-7-amigos): Desperte a musicalidade com o xilofone 7 Amigos! As crianças aprendem notas e ritmos de forma divertida com cores vibrantes. Compre já!
-  Updated: 2025-10-31T12:30:53Z
+  Updated: 2025-11-04T15:25:01Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -19901,7 +19889,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522203725-brincatoys-1178692429.jpg?v=1752822621
   Price: 26,50 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-rosa-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-10-31T12:31:07Z
+  Updated: 2025-11-04T15:00:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20470,7 +20458,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-troodon-premium-232849825-0194735284986-jurassic-world-1192258544.jpg?v=1757541008
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection Velociraptor Colecionável](https://brincatoys.pt/products/jurassic-world-hammond-collection-velociraptor): Descubra o Jurassic World Hammond Collection Velociraptor, uma figura premium com detalhes impressionantes! Perfeito para fãs e colecionadores.
-  Updated: 2025-10-31T12:31:23Z
+  Updated: 2025-11-04T10:06:51Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -20582,21 +20570,21 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-zuma-brincadeiras-aquaticas-550619725-0681147061972-patrulha-pata-1198501013.jpg?v=1760874486
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Chase: Ação no Brincar](https://brincatoys.pt/products/patrulha-pata-fire-rescue-chase): Transforme o quarto das crianças com o Patrulha Pata Fire Rescue - Chase! O canhão de água e a figura de Chase prometem diversão heroica. 🎉
-  Updated: 2025-10-31T12:31:25Z
+  Updated: 2025-11-04T18:23:10Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-chase-acao-no-brincar-550612025-0681147061200-patrulha-pata-1198461014.jpg?v=1760802487
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Skye: Resgates Aéreos Divertidos](https://brincatoys.pt/products/patrulha-pata-fire-rescue-skye): Leve a aventura para casa com o Patrulha Pata Fire Rescue - Skye! Este helicóptero rosa garante horas de diversão e resgates emocionantes. 🐱
-  Updated: 2025-10-31T12:31:25Z
+  Updated: 2025-11-04T18:23:16Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-skye-resgates-aereos-divertidos-550614925-0681147061491-patrulha-pata-1198501017.jpg?v=1760874596
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Marshall em Ação](https://brincatoys.pt/products/patrulha-pata-fire-rescue-marshall): Desperte a imaginação das crianças com o Patrulha Pata Fire Rescue - Marshall! Com design vibrante e canhão de água, a diversão começa sem pilhas.
-  Updated: 2025-11-01T11:40:26Z
+  Updated: 2025-11-04T18:48:31Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -20687,12 +20675,12 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
   Price: 44,90 € EUR
 - [Monster High Real Drama - Lagoona Blue: Estilo Único](https://brincatoys.pt/products/monster-high-real-drama-lagoona-blue): Adicione à sua coleção a Monster High Real Drama - Lagoona Blue, uma boneca que combina estilo cinematográfico e atitude! Entre em ação!
-  Updated: 2025-10-31T12:31:28Z
+  Updated: 2025-11-04T18:43:36Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-real-drama-lagoona-blue-770479625-0194735104796-monster-high-1195801144.jpg?v=1759406292
-  Price: 42,50 € EUR
+  Price: 46,50 € EUR
 - [Monster High Scary Sweet Birthday - Draculaura: Festa Glam](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-draculaura): Transforme a brincadeira em uma festa sombria com a Monster High Scary Sweet Birthday - Draculaura! A coleção para o seu pequeno criar histórias! 🎉
   Updated: 2025-10-31T12:31:28Z
   Vendor: Monster High
@@ -21665,7 +21653,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 ## Collections
 
 - [Ar livre](https://brincatoys.pt/collections/ar-livre)
-  Updated: 2025-11-01T15:49:42Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 65
 - [Caixas de música](https://brincatoys.pt/collections/caixas-de-musica)
   Updated: 2025-10-31T12:23:48Z
@@ -21677,7 +21665,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:48Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-11-03T12:28:15Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 552
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-31T12:23:48Z
@@ -21719,7 +21707,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-02T09:07:17Z
   Total Products: 22
 - [Lego Ninjago](https://brincatoys.pt/collections/lego-ninjago): Os conjuntos LEGO® NINJAGO® incluem divertidas representações repletas de ação, com ninjas giratórios, dragões esvoaçantes, poderosos robôs e muito mais. Constrói templos incrivelmente detalhados e veículos fantásticos com infinitas possibilidades de narrativas do bem contra o mal.
-  Updated: 2025-11-02T22:08:50Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 21
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
   Updated: 2025-11-01T11:28:29Z
@@ -21737,7 +21725,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 14
 - [Trabalhos manuais](https://brincatoys.pt/collections/trabalhos-manuais)
-  Updated: 2025-11-03T23:41:06Z
+  Updated: 2025-11-04T00:26:36Z
   Total Products: 105
 - [Peluches](https://brincatoys.pt/collections/peluches)
   Updated: 2025-11-01T17:18:59Z
@@ -21749,13 +21737,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-04T14:39:51Z
   Total Products: 100
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
   Updated: 2025-11-01T14:16:48Z
   Total Products: 95
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-11-01T15:44:04Z
+  Updated: 2025-11-04T18:42:47Z
   Total Products: 243
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-11-01T15:45:41Z
@@ -21785,14 +21773,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:49Z
   Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-11-03T12:28:15Z
-  Total Products: 205
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 207
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-11-02T12:24:58Z
   Total Products: 175
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-11-02T15:59:15Z
-  Total Products: 111
+  Updated: 2025-11-04T18:46:12Z
+  Total Products: 112
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-10-31T12:23:49Z
   Total Products: 12
@@ -21815,13 +21803,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-02T11:44:17Z
   Total Products: 321
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 1565
+  Updated: 2025-11-04T18:54:58Z
+  Total Products: 1568
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-11-03T12:28:15Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 696
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-11-03T21:23:46Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 330
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-31T12:23:50Z
@@ -21833,29 +21821,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-02T11:44:17Z
   Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 1290
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 1291
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 2404
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 2407
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 2867
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 2870
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3258
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3261
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3394
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3397
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3474
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3477
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3523
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3526
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-11-03T21:23:17Z
-  Total Products: 443
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 446
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-31T12:23:50Z
   Total Products: 59
@@ -21881,14 +21869,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:51Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-11-02T12:24:58Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 48
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-10-31T12:23:51Z
   Total Products: 2
 - [Patrulha Pata](https://brincatoys.pt/collections/patrulha-pata)
-  Updated: 2025-10-31T12:23:51Z
-  Total Products: 39
+  Updated: 2025-11-04T18:46:16Z
+  Total Products: 40
 - [Five Nights at Freddy's](https://brincatoys.pt/collections/five-nights-at-freddys)
   Updated: 2025-10-31T12:23:51Z
   Total Products: 15
@@ -21896,7 +21884,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:51Z
   Total Products: 19
 - [DC Comics](https://brincatoys.pt/collections/dc-comics)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-04T14:39:51Z
   Total Products: 55
 - [Dragon Ball](https://brincatoys.pt/collections/dragon-ball)
   Updated: 2025-10-31T12:23:51Z
@@ -21914,7 +21902,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:51Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
   Updated: 2025-10-31T12:23:51Z
@@ -21962,7 +21950,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-01T15:40:17Z
   Total Products: 36
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-11-02T22:08:50Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 450
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-31T12:23:52Z
@@ -21980,7 +21968,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:52Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-04T18:42:47Z
   Total Products: 41
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-31T12:23:52Z
@@ -22004,7 +21992,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 118
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-11-03T12:28:15Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 93
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-10-31T12:23:53Z
@@ -22043,34 +22031,34 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:53Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3556
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3559
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-11-03T21:23:46Z
+  Updated: 2025-11-04T18:42:47Z
   Total Products: 287
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-11-01T15:44:04Z
   Total Products: 184
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-11-02T17:43:20Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 121
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 1239
+  Updated: 2025-11-04T18:54:58Z
+  Total Products: 1243
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-11-03T12:28:15Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 513
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 137
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-11-03T21:23:46Z
-  Total Products: 189
+  Updated: 2025-11-04T18:42:47Z
+  Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-11-02T21:45:29Z
   Total Products: 81
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-11-02T17:14:06Z
+  Updated: 2025-11-04T12:24:33Z
   Total Products: 227
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-31T12:23:54Z
@@ -22079,11 +22067,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T12:23:54Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3557
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3560
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3557
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3560
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-11-03T23:00:07Z
   Total Products: 21
@@ -22094,8 +22082,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-31T18:07:26Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3057
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3063
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-31T12:23:54Z
   Total Products: 19
@@ -22103,11 +22091,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-11-03T12:28:15Z
   Total Products: 122
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 3057
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 3063
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-11-03T23:41:06Z
-  Total Products: 795
+  Updated: 2025-11-04T18:54:52Z
+  Total Products: 799
 
 ## Blogs
 
