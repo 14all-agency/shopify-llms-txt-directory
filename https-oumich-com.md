@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-04T22:26:14.452Z
+- Updated At: 2025-11-05T00:00:50.599Z
 
 ## Products
 
@@ -1828,6 +1828,261 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Sc5d5438504d34f88baa9a89dee1e561dc.webp?v=1762053575
     Price: € 11,70 EUR
+- [Muslim Eid Al Fitr Party Decorative Letters Set](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set): Product information: Material: metal Craft: semi-manual and semi-mechanical Types of props: stage background Applicable festivals: Ramadan festival Applicable gift-giving occasions: parties Packing list： 1 Ramadan letter pull flag 3 18" Ramadan round balloons 2 18-inch golden five-pointed star balloons 10 12-inch latex rugged (5 each for black and gold) 6 12" gold glitter balloons
+  Updated: 2025-11-04T22:46:47Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/2db1c24c-7cac-495e-8b4f-5fe402f58baa.jpg?v=1762296263
+  - [Balloon set](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set?variant=55942290112892)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/398dc117-b060-4a0a-870c-243c0434f6cf.jpg?v=1762296273
+    Price: € 9,97 EUR
+  - [Balloon set2](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set?variant=55942290145660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/c2d82376-06f6-4757-81c2-522f841530d1.jpg?v=1762296273
+    Price: € 7,77 EUR
+  - [Flag set](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set?variant=55942290178428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/b214f1a5-d3de-4a05-9568-8bab2becea97.jpg?v=1762296274
+    Price: € 8,97 EUR
+  - [Ramadan party decoration](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set?variant=55942290211196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/0b80b0bd-40d5-492d-b104-9c4af6b2bae2.jpg?v=1762296274
+    Price: € 17,00 EUR
+- [Eid Ramadan Decorated Muslim Fabric Wall Calendar](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar): Product information Composition and content: Chemical fiber Use: Decoration Color: red, blue, chocolate, white, colorful pockets, rose red The calendar has 30 small pockets, you can put small candies, play ialis and so on. Every day there will be surprises before: in the small pocket. Occasion: Eid Mubarak calendar, pockets can be filled with snacks, small gifts, small candies, chocolates, hung on the fireplace, stairs, walls, etc.
+  Updated: 2025-11-04T23:15:32Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615195120078.jpg?v=1762296539
+  - [Blue](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299058556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255380277.jpg?v=1762296549
+    Price: € 16,70 EUR
+  - [Red](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299091324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255437191.jpg?v=1762296549
+    Price: € 17,70 EUR
+  - [Rose Red](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299124092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255356488.jpg?v=1762296549
+    Price: € 16,70 EUR
+  - [White](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299156860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615195405373.jpg?v=1762296550
+    Price: € 17,70 EUR
+  - [chocolate](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299189628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255311989.jpg?v=1762296550
+    Price: € 17,70 EUR
+  - [colorful](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar?variant=55942299222396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255419660.jpg?v=1762296549
+    Price: € 17,70 EUR
+- [Ramadan Festival Decorative Eooden Crafts Ornaments](https://oumich.com/products/ramadan-festival-decorative-eooden-crafts-ornaments): Product Information: Category: Decoration Production process: carving Carving: Open carving/luo carving Material: Boxwood Production method: semi-manual and semi-mechanical 2 AAA batteries, without batteries Size: 24*10
+  Updated: 2025-11-04T23:48:27Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614392092583.jpg?v=1762296996
+  - [A](https://oumich.com/products/ramadan-festival-decorative-eooden-crafts-ornaments?variant=55942315049340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617781854233.jpg?v=1762297005
+    Price: € 17,00 EUR
+  - [B](https://oumich.com/products/ramadan-festival-decorative-eooden-crafts-ornaments?variant=55942315082108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617781854236.jpg?v=1762297006
+    Price: € 17,00 EUR
+  - [C](https://oumich.com/products/ramadan-festival-decorative-eooden-crafts-ornaments?variant=55942315114876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617781854237.jpg?v=1762297005
+    Price: € 17,00 EUR
+- [Home Muslim Ramadan Decorative Cloth Table Flag](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag): Product information: Material: Linen with brushed base Style: fashion and simplicity Features:Printing Colour: picture color Packing list: Table flag*1 Product Image:
+  Updated: 2025-11-04T23:25:17Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/31be6def-4e9c-466f-8279-57e9262a4a46.jpg?v=1762297196
+  - [1 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320783740)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/e5196d51-dec7-45ce-8ad9-8505ca1dccb4.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [10 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320816508)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/af5853cf-4732-4803-a0f1-904933f730b6.jpg?v=1762297220
+    Price: € 19,35 EUR
+  - [11 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320849276)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/e67d48d5-bbee-4de6-8730-1c9b9f7a08eb.jpg?v=1762297220
+    Price: € 16,20 EUR
+  - [12 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320882044)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/c3d6ddfe-1f6c-4c35-bbea-503cc07982f7.jpg?v=1762297220
+    Price: € 18,79 EUR
+  - [13 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320914812)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/e41d185e-f923-442e-9cfd-16d0f4d66f2a.jpg?v=1762297220
+    Price: € 18,79 EUR
+  - [14 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320947580)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/132adbba-fc61-42db-9837-5f31bb2e647b.jpg?v=1762297220
+    Price: € 18,88 EUR
+  - [15 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942320980348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/43cc7c20-693f-4ef3-b0c9-d5921494ba8d.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [16 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321013116)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/5cff690d-52d3-47bb-9386-ea8c339dc1fa.jpg?v=1762297220
+    Price: € 18,74 EUR
+  - [17 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321045884)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/08c4d92f-61e5-412c-90fa-0cdf27885340.jpg?v=1762297220
+    Price: € 19,22 EUR
+  - [18 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321078652)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/4972b5f8-722a-420f-9986-ee49e4f45e2c.jpg?v=1762297221
+    Price: € 18,79 EUR
+  - [19Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321111420)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/9d42324b-a7b6-41e1-98fd-60e040071e47.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [2 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321144188)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/d5340f02-41d6-4b1f-b595-515d04fe50fc.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [20Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321176956)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/6e7cea8f-2d0d-4c3e-ad11-6f55438ec25b.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [3 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321209724)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/38963296-d9aa-45db-846d-e0d4c7d8aa18.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [30Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321242492)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/a3802154-6dca-4487-b32c-8853037728ab.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [4 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321275260)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/fa855434-ad8c-46c4-8d0a-be2f35f22a6e.jpg?v=1762297220
+    Price: € 19,18 EUR
+  - [5 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321308028)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/e2fd1a61-cf17-4d8b-a5ab-1b95280d9f2e.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [6 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321340796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/68c71dab-aaad-4400-9ccb-afba4983314b.jpg?v=1762297220
+    Price: € 19,28 EUR
+  - [7 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321373564)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1353ed40-cc91-4746-af53-9d59d756e987.jpg?v=1762297220
+    Price: € 18,79 EUR
+  - [8 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321406332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/bc7e0249-c7ec-4f91-b8ae-b55bab96df83.jpg?v=1762297220
+    Price: € 17,03 EUR
+  - [9 Style / 33x180cm](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag?variant=55942321439100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/00d80493-b4b6-432a-ac3d-d2a6a95033e7.jpg?v=1762297220
+    Price: € 17,03 EUR
+- [Muslim Ramadan Party Decoration Kit Cake Inserts](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts): Product information : Material : Paper Types of props: Scene decoration Size: One set of flags + one set of cakes + 24 mixed balloons, one set of flags + one set of cakes + 18 mixed balloons, one set of flags, one set of cakes, 12 mixed balloons, 18 mixed balloons, 24 mixed balloons, 30 mixed balloons, 36 mixed balloons Packing list: One set of flags + one set of cakes + 24 mixed balloons/one set of flags + one set of cakes + 18 mixed balloons/one set of flags/one set of cakes/12 mixed balloons/18 mixed balloons/ 24 mixed balloons/ 30 mixed balloons/36 mixed balloons
+  Updated: 2025-11-04T23:25:16Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1fda866f-24e4-42b1-8ea2-29c34f8fd543.jpg?v=1762297552
+  - [Balloons mixed with 18pieces](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336676220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/6087a159-3093-440d-aa23-fd25b468ac1d.jpg?v=1762297562
+    Price: € 11,80 EUR
+  - [Balloons mixed with 24pieces](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336708988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ca6e6899-fa39-462d-b276-638a22ceaebc.jpg?v=1762297562
+    Price: € 14,24 EUR
+  - [Balloons mixed with 30pieces](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336741756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/40c94475-e61a-4fa1-a093-4a23fbc7819b.jpg?v=1762297562
+    Price: € 15,60 EUR
+  - [Balloons mixed with 36pieces](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336774524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/4e9804d6-c11d-4125-9b96-49c370f90241.jpg?v=1762297562
+    Price: € 17,82 EUR
+  - [Pull the flag cake with 12ball](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336807292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/384caae7-70e2-436d-ac94-545ff2ed4652.jpg?v=1762297562
+    Price: € 9,53 EUR
+  - [Pull the flag cake with 18ball](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336840060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/75d8ea7d-116a-4a44-903e-e9f266fe1b0d.jpg?v=1762297563
+    Price: € 21,76 EUR
+  - [Pull the flag cake with 4ball](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts?variant=55942336872828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1fda866f-24e4-42b1-8ea2-29c34f8fd543_5e80233b-3ddb-4898-a126-bcc23a5412eb.jpg?v=1762297562
+    Price: € 21,35 EUR
+- [LED Ramadan Castle Moon Kerosene 3D Hanging Lamp](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp): Overview: Durable material Mainly made of high-quality acrylic material, wear-resistant and durable using long life. Warm light effect Adopting an LED light source, the lamp can bring you a soft and soft light effect, possess good decorative function. Simple installation The lamp back is designed with a hanging hole and sticker, convenient to be fixed on smooth surfaces, such as glass, wall, wood board and so on. Note: 1. Please allow 0.5 ~ 1 cm error of measurement data. 2. Due to shooting angle and shooting light, there may be a little chromatic aberration. Specifications: Product Name: Ramadan 3D Decoration Lamp Color: warm white Size: 16cm/24cm/11.5*16cm Power supply: battery power Material: Acrylic + LED Purpose: Decoration for Ramadan festival Powered by: 2 * AA batteries (not included) Packing Content: 1 x Lamp
+  Updated: 2025-11-04T23:25:16Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628228.jpg?v=1762297796
+  - [3PCS Set / 16cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350078332)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628552.jpg?v=1762297809
+    Price: € 59,95 EUR
+  - [Castle / 16X11.5cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350111100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628255.jpg?v=1762297809
+    Price: € 13,31 EUR
+  - [Castle / 16cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350143868)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628817.jpg?v=1762297809
+    Price: € 21,68 EUR
+  - [Castle / 24cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350176636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628817.jpg?v=1762297809
+    Price: € 30,02 EUR
+  - [Castle / Ornaments](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350209404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628253.jpg?v=1762297809
+    Price: € 14,50 EUR
+  - [Moon / 16X11.5cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350242172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628524.jpg?v=1762297809
+    Price: € 13,31 EUR
+  - [Moon / 16cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350274940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628523.jpg?v=1762297809
+    Price: € 21,68 EUR
+  - [Moon / 24cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350307708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628523.jpg?v=1762297809
+    Price: € 33,10 EUR
+  - [Sesame Oil / 16X11.5cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350340476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628251.jpg?v=1762297809
+    Price: € 12,39 EUR
+  - [Sesame Oil / 16cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350373244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628545.jpg?v=1762297809
+    Price: € 21,68 EUR
+  - [Sesame Oil / 24cm](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350406012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628545.jpg?v=1762297809
+    Price: € 30,02 EUR
+  - [Sesame Oil / Ornaments](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp?variant=55942350438780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628259.jpg?v=1762297809
+    Price: € 14,57 EUR
+- [Eid Mubarak Festival Ramadan Cake Decoration Spray Flower Mould](https://oumich.com/products/eid-mubarak-festival-ramadan-cake-decoration-spray-flower-mould): Product information: Product Category: Cake Mould Shape: Irregular shape material: plastic color: White Packing specification: opp paperback Purpose: Coffee Latte Packing list: 1 x spray pattern
+  Updated: 2025-11-04T23:25:16Z
+  Vendor: null
+  Product Type: 0
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617584924855.jpg?v=1762298106
+  Price: € 10,00 EUR
 
 ## Collections
 
@@ -1853,8 +2108,8 @@ BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 Ramadan cadeaus ?
 Eid decoratie ?
 BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest fashion
-  Updated: 2025-10-05T18:39:51Z
-  Total Products: 7
+  Updated: 2025-11-04T23:15:15Z
+  Total Products: 14
 - [Islamitische kleding voor dames](https://oumich.com/collections/islamitische-kleding-voor-dames): Islamitische kleding voor dames: elegant, bescheiden en stijlvol. Van abaya’s tot modieuze maxi-jurken, ontdek outfits die geloof en mode verenigen.
   Updated: 2025-11-03T12:58:01Z
   Total Products: 9
