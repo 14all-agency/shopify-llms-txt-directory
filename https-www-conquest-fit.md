@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-01T16:00:38.745Z
+- Updated At: 2025-11-05T00:00:48.612Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC920.png?v=1753632495
   Price: $21.99 USD
 - [Brain Vitality Omega 3 Gummies - Boost Brain Health with 60 Gummies](https://www.conquest.fit/products/brain-vitality-omega-3-gummies-60-gummies): Boost your brain health with Brain Vitality Omega 3 Gummies. Enjoy 60 delicious gummies packed with essential Omega-3s for optimal cognitive function and vitality.
-  Updated: 2025-10-30T23:50:44Z
+  Updated: 2025-11-04T10:07:54Z
   Vendor: General Health
   Product Type: 
   Availability: Available
@@ -823,7 +823,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC734.png?v=1753535308
   Price: $39.99 USD
 - [Bone Balance Bone Health Complex - 90 Veggie Capsules for Strong Bones](https://www.conquest.fit/products/bone-balance-bone-health-complex-90-veggie-capsules): Enhance your well-being with Bone Balance Bone Health Complex. This powerful formula in 90 veggie capsules supports optimal bone strength and density. Strengthen your bones today!
-  Updated: 2025-10-28T11:38:27Z
+  Updated: 2025-11-04T05:17:19Z
   Vendor: Platinum Grade Supplements
   Product Type: 
   Availability: Available
@@ -900,7 +900,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/Conquest_Nutrition_Optimus_Plus.png?v=1753534709
   Price: $55.99 USD
 - [Bulk Mode Mass Gainer Chocolate - Low Sugar 6lbs Chocolate Milkshake](https://www.conquest.fit/products/bulk-mode-mass-gainer-chocolate-milkshake-flavor-with-low-sugar-6lbs): Fuel your muscle growth with Bulk Mode Mass Gainer Chocolate. This 6lbs low-sugar chocolate milkshake flavor blend is perfect for rapid energy and size gains.
-  Updated: 2025-10-31T01:10:39Z
+  Updated: 2025-11-04T21:08:53Z
   Vendor: Premium Sports Nutrition
   Product Type: 
   Availability: Available
@@ -1103,6 +1103,9 @@
     Author: Conquest Nutrition
   - [The Science of Exercise and Its Impact on Health and Wellness](https://www.conquest.fit/blogs/news/the-science-of-exercise-and-its-impact-on-health-and-wellness): The Science of Exercise and Its Impact on Health and Wellness
     Updated: 2025-10-31T07:06:20Z
+    Author: Conquest Nutrition
+  - [How Nutrition Affects Fitness and Exercise Routines](https://www.conquest.fit/blogs/news/how-nutrition-affects-fitness-and-exercise-routines): How Nutrition Affects Fitness and Exercise Routines
+    Updated: 2025-11-03T07:05:41Z
     Author: Conquest Nutrition
 
 ## Store Pages
