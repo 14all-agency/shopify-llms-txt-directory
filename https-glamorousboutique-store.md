@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-11-04T00:00:35.904Z
+- Updated At: 2025-11-05T00:00:35.723Z
 
 ## Products
 
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/70a350aac89843baaf8a39745534b037-Max-Origin.webp?v=1761344356
     Price: £25.55 GBP
 - [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique.store/products/side-slit-round-neck-long-sleeve-sweatshirt): Casual Chic with a Modern Twist – The Sweatshirt That Does It All!Elevate your casual wardrobe with the Side Slit Round Neck Long Sleeve Sweatshirt. Featuring trendy side slits and a relaxed fit, this versatile piece effortlessly transitions from lounging to lunch dates.Why This Sweatshirt is a Must-Have:✨ Stylish Side Slits: Modern design detail that adds movement and a fashion-forward edge to a classic sweatshirt.👗 Flattering Round Neckline: Timeless and versatile – pairs beautifully with any necklace or scarf.🌟 Relaxed, Comfortable Fit: Perfect for layering or wearing solo, offering a laid-back yet polished look.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for flexibility and comfort that moves with you.🧺 Easy Maintenance: Machine washable – wash cold and tumble dry low for effortless care.🎨 Versatile Styling: Dress it up with trousers or keep it casual with jeans – this sweatshirt works for any occasion.Perfect For: Casual Fridays at work Weekend brunches with friends Running errands in style Layering during transitional seasons Relaxed evenings at home Styling Ideas:👖 Casual Cool: Pair with high-waisted jeans and trainers👠 Elevated Comfort: Style with tailored trousers and ankle boots🧥 Layered Look: Wear under a blazer or denim jacket for added warmthUpgrade your everyday style! This sweatshirt combines comfort and contemporary design for a look you'll reach for again and again. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Side slits, round neck, long sleeves Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
-  Updated: 2025-11-02T23:57:10Z
+  Updated: 2025-11-04T21:47:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1309,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f3fe6ea348d64c5fb8c17580ef4ff13b-Max-Origin.webp?v=1761344645
     Price: £26.49 GBP
 - [Full Size Zip Up Quilted Bomber Jacket Plus Size](https://glamorousboutique.store/products/full-size-zip-up-quilted-bomber-jacket-plus-size): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.6 41.3 23.2 M 26.2 43.5 23.6 L 26.8 45.7 24 XL 27.4 47.9 24.4 2XL 28 50 24.8 3XL 28.5 52.2 25.2
-  Updated: 2025-11-03T17:12:40Z
+  Updated: 2025-11-04T22:21:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1537,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/57ddf59f-7a71-40ee-971f-cb72dd93d144-Max-Origin.webp?v=1761344696
     Price: £32.51 GBP
 - [Oversized Chunky Knit Open Front Cardigan](https://glamorousboutique.store/products/oversized-chunky-knit-open-front-cardigan): Cozy Layers, Effortless Style – Your New Favourite Cardigan!Wrap yourself in warmth and style with the Oversized Chunky Knit Open Front Cardigan. This beautifully textured piece is the perfect layering essential, combining cozy cable-knit detailing with a relaxed, oversized fit that's both comfortable and chic.Why You'll Love This Cardigan:🧶 Chunky Cable-Knit Texture: Classic cable-knit pattern adds visual interest and a touch of timeless elegance.✨ Oversized, Relaxed Fit: Generous sizing creates a cozy, enveloping feel that's perfect for layering.👗 Versatile Open Front: No buttons or zippers – just easy, effortless styling that works with everything.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 All-Season Layering: Perfect for chilly mornings, air-conditioned offices, or cool autumn evenings.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Layering over dresses or tops Cozy evenings at home Autumn and winter styling Office wear with a relaxed vibe Weekend brunches and casual outings Styling Ideas:👗 Feminine Chic: Layer over a dress with ankle boots👖 Casual Comfort: Pair with jeans and a simple tee🧣 Cozy Layers: Wear over a turtleneck for extra warmthStay warm, look stylish, and feel amazing! This chunky knit cardigan is the ultimate layering piece for your wardrobe. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Cable-knit texture, open front, oversized fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28.3 45.7 18.9 M 28.7 47.2 19.3 L 29.1 48.8 19.7 XL 29.5 50.4 20.1 2XL 29.9 52 20.5
-  Updated: 2025-11-01T12:01:37Z
+  Updated: 2025-11-04T12:50:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
 - [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique.store/products/merry-colorful-dot-detail-christmas-dolman-sweater): Festive Fun Meets Cozy Comfort – The Christmas Sweater You'll Love!Spread holiday cheer with the Merry Colorful Dot Detail Christmas Dolman Sweater. Featuring playful colorful dots and a relaxed dolman sleeve design, this festive jumper is perfect for celebrating the season in style and comfort.Why This Christmas Sweater is a Must-Have:🎄 Festive Colorful Dot Design: Eye-catching multicolored dots add a cheerful, playful touch to your holiday wardrobe.✨ Relaxed Dolman Sleeves: Trendy, loose-fitting sleeves create a comfortable, flattering silhouette that's perfect for all-day wear.🎅 Soft, Cozy Fabric: Made from 55% acrylic and 45% cotton for warmth and breathability during the festive season.💫 Slightly Stretchy: Comfortable fit that moves with you, whether you're hosting or attending holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy nights by the fire.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Ugly Christmas sweater contests (but make it cute!) Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Dressed Up: Style with a skirt and tights for holiday parties🧣 Cozy Layers: Add a scarf and your favourite winter coatMake this Christmas extra special! This cheerful sweater brings festive fun and cozy comfort together. Add to basket now and get ready to celebrate in style!Product Details: Material: 55% acrylic, 45% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful dot design, dolman sleeves, festive style Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-11-03T23:12:21Z
+  Updated: 2025-11-04T17:02:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1665,7 +1665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ade70a20-a577-4650-96b3-96bc4719e743-Max-Origin.webp?v=1761344825
     Price: £43.67 GBP
 - [Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt](https://glamorousboutique.store/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Faith Meets Fashion – The Inspirational Sweatshirt You'll Treasure!Wear your faith with pride in the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Featuring beautiful embroidered lettering and a trendy mineral wash finish, this comfortable sweatshirt is perfect for expressing your beliefs while staying stylishly relaxed.Why You'll Love This Sweatshirt:✝️ Inspirational Letter Embroidery: 'Saved By Grace' message beautifully embroidered for a meaningful, faith-based statement.🎨 Trendy Mineral Wash Finish: Unique, vintage-inspired wash creates a soft, lived-in look with character.👕 Relaxed, Loose Fit: Comfortable oversized silhouette that's perfect for casual, everyday wear.💫 Premium Cotton Blend: Made from 85% cotton and 15% polyester for softness and durability.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Meaningful Gift: Perfect for yourself or as a thoughtful present for someone special in your life.Perfect For: Church services and fellowship gatherings Casual everyday wear Coffee dates with friends Relaxed weekends at home Layering during cooler months Styling Ideas:👖 Casual Comfort: Pair with jeans and trainers for an effortless look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Style: Wear under a denim or leather jacketExpress your faith in style! This inspirational sweatshirt combines meaningful messaging with comfortable, trendy design. Add to basket now!Product Details: Material: 85% cotton, 15% polyester Stretch: No stretch Care: Machine wash cold, tumble dry low Features: Letter embroidery, mineral wash finish, loose fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.7 M 26.2 44.1 20.9 L 27 46.5 21.1 XL 27.8 49.6 21.1
-  Updated: 2025-11-03T14:31:05Z
+  Updated: 2025-11-04T17:02:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1687,13 +1687,13 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761344865
     Price: £44.66 GBP
 - [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique.store/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Gobble Up the Fun – The Perfect Thanksgiving Sweatshirt!Celebrate Thanksgiving in style with the GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt. Featuring playful 'GOBBLE' lettering and a comfortable relaxed fit, this festive sweatshirt is your go-to for turkey day celebrations and autumn gatherings.Why This Thanksgiving Sweatshirt is a Must-Have:🦃 Fun GOBBLE Graphic: Eye-catching letter design that brings festive fun and holiday cheer to your wardrobe.👕 Comfortable Shift Style: Relaxed, easy-fitting silhouette that's perfect for enjoying Thanksgiving dinner without feeling restricted.✨ Slightly Stretchy Fabric: Made from 65% polyester and 35% cotton for comfort and flexibility.🍂 Perfect for Autumn: Ideal weight for cooler autumn days and cozy holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.🎁 Great Gift Idea: Perfect for Thanksgiving hosts, turkey lovers, or anyone who enjoys festive fashion!Perfect For: Thanksgiving dinner with family Friendsgiving celebrations Autumn festivals and events Casual November outings Festive photo opportunities Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🧣 Cozy Layers: Add a scarf and your favourite autumn jacket👟 Relaxed Comfort: Style with leggings and trainers for ultimate comfortMake Thanksgiving extra special! This fun, festive sweatshirt is perfect for celebrating with family and friends. Add to basket now and get ready to gobble!Product Details: Material: 65% polyester, 35% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: GOBBLE letter graphic, shift style, festive design Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
-  Updated: 2025-11-03T06:20:56Z
+  Updated: 2025-11-04T18:14:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/13d740930aa7416cab3bd0ff955411bb-Max-Origin.webp?v=1761345580
   - [Dust Storm / S](https://glamorousboutique.store/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt?variant=55319739466054)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/13d740930aa7416cab3bd0ff955411bb-Max-Origin.webp?v=1761345580
     Price: £34.13 GBP
   - [Dust Storm / M](https://glamorousboutique.store/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt?variant=55319739498822)
@@ -1811,7 +1811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
 - [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique.store/products/camo-print-leopard-trim-button-up-jacket): Wild Meets Edgy – The Statement Jacket That Turns Heads!Make a bold fashion statement with the Camo Print Leopard Trim Button Up Jacket. Combining trendy camouflage with fierce leopard print trim, this unique jacket is perfect for those who love to stand out from the crowd.Why This Jacket is a Must-Have:🐆 Bold Print Combination: Eye-catching camo print with leopard trim creates a unique, fashion-forward look.🔘 Classic Button-Up Front: Traditional button closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.✨ Premium Cotton Blend: Made from 95% cotton and 5% elastane for comfort with a hint of stretch.🌡️ Perfect Weight: Normal thickness – ideal for layering during transitional seasons.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.💫 Versatile Styling: Dress it up or down for any occasion.Perfect For: Casual weekend outings Music festivals and concerts Adding edge to everyday looks Autumn and spring layering Making a fashion statement Styling Ideas:👖 Casual Cool: Pair with black jeans and ankle boots👗 Unexpected Mix: Layer over a feminine dress for contrast👟 Street Style: Style with leggings and trainers for an edgy athleisure lookStand out in style! This bold jacket combines two iconic prints for a look that's uniquely you. Add to basket now and unleash your wild side!Product Details: Material: 95% cotton, 5% elastane Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Camo print, leopard trim, button-up front, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-11-03T06:40:56Z
+  Updated: 2025-11-04T23:21:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1901,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d68aa5521e3b4bd1b4dbdb1521a5b4f2-Max-Origin.webp?v=1761347050
     Price: £23.33 GBP
 - [Letter Round Neck Sweatshirt](https://glamorousboutique.store/products/letter-round-neck-sweatshirt): Classic Comfort with a Message – Your New Everyday Essential!Keep it simple and stylish with the Letter Round Neck Sweatshirt. Featuring eye-catching letter graphics and a comfortable ribbed texture, this versatile sweatshirt is perfect for creating effortless, casual looks all season long.Why You'll Love This Sweatshirt:✍️ Bold Letter Graphics: Eye-catching typography adds personality and a modern edge to your look.🧶 Ribbed Texture: Classic ribbed detailing adds visual interest and a timeless appeal.👕 Classic Round Neckline: Versatile crew neck design that works with any outfit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 Versatile Styling: Perfect for layering or wearing solo – works with jeans, leggings, or skirts.Perfect For: Casual everyday wear Running errands in comfort Weekend outings Layering during cooler months Relaxed, effortless style Styling Ideas:👖 Casual Cool: Pair with jeans and trainers for an easy everyday look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Look: Wear under a denim or bomber jacketEffortless style, all-day comfort! This classic sweatshirt is the perfect addition to your casual wardrobe. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Letter graphics, ribbed texture, round neck Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-11-03T23:11:51Z
+  Updated: 2025-11-04T17:01:52Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1923,7 +1923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/289e6707-47cf-483c-8487-7f9271b2c9a7-Max-Origin.webp?v=1761347069
     Price: £25.31 GBP
 - [Round Toe Flats Loafers](https://glamorousboutique.store/products/round-toe-flats-loafers): Classic Comfort Meets Everyday Style – Your New Go-To Flats!Step into effortless elegance with the Round Toe Flats Loafers. Combining timeless loafer styling with all-day comfort, these versatile flats are perfect for work, weekends, and everything in between.Why You'll Love These Loafers:👞 Classic Loafer Design: Timeless round toe silhouette that never goes out of style.✨ Versatile Styling: Dress them up for the office or keep it casual for weekend outings.💫 All-Day Comfort: Flat heel design provides comfortable support for hours of wear.🌟 Quality Materials: Made from durable PU leather, canvas, and rubber for long-lasting wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Effortlessly Chic: Pairs beautifully with trousers, jeans, skirts, or dresses.Perfect For: Office and professional settings Casual weekend outings Running errands in style Travel and commuting Any occasion requiring comfortable, polished footwear Styling Ideas:👔 Professional Polish: Pair with tailored trousers and a blouse👖 Casual Chic: Style with jeans and a jumper👗 Feminine Touch: Wear with a midi skirt and cardiganStep into comfort and style! These classic loafers are the perfect addition to any wardrobe. Add to basket now!Product Details: Heel Height: Flats Material: PU leather, Canvas, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
-  Updated: 2025-11-01T12:01:39Z
+  Updated: 2025-11-04T15:52:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2931,7 +2931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/108b8e434fef4e24a809b491ac36de6e-Max-Origin.webp?v=1761347435
     Price: £45.60 GBP
 - [Point Toe Block Heels Boots](https://glamorousboutique.store/products/point-toe-block-heels-boots): Sleek Sophistication – Boots That Mean Business!Step into polished elegance with the Point Toe Block Heels Boots. Featuring a sophisticated pointed toe and comfortable block heel, these versatile boots are perfect for adding height and refinement to any outfit.Why You'll Love These Boots:👠 Elegant Pointed Toe: Sophisticated silhouette that elongates your legs and adds instant polish.💫 Comfortable Block Heel: Stable, walkable high heel provides height without sacrificing comfort.✨ Sleek PU Leather: Premium-look finish that's both stylish and easy to maintain.👗 Versatile Design: Perfect for work, special occasions, or elevating everyday outfits.🌟 Professional Polish: Ideal for office wear and formal events.💼 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Office and professional settings Special occasions and events Date nights and dinners Adding sophistication to any outfit Autumn and winter styling Styling Ideas:👔 Professional Power: Pair with tailored trousers and a blazer👗 Elegant Evening: Style with a midi dress for special occasions👖 Smart Casual: Wear with jeans and a silk blouseStep into sophistication! These pointed toe boots are the perfect blend of style and comfort. Add to basket now!Product Details: Heel Height: High heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
-  Updated: 2025-11-01T12:01:40Z
+  Updated: 2025-11-04T14:22:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3307,7 +3307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402a5a42f96e40ee80a82e658775fc0b-Max-Origin.webp?v=1761347580
     Price: £26.51 GBP
 - [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique.store/products/merry-round-neck-christmas-sweatshirt): Spread Christmas Cheer – The Festive Sweatshirt You'll Love!Get into the holiday spirit with the MERRY Round Neck Christmas Sweatshirt. Featuring cheerful 'MERRY' lettering and a comfortable, relaxed fit, this festive sweatshirt is perfect for celebrating the season in style and comfort.Why You'll Love This Christmas Sweatshirt:🎄 Festive MERRY Graphic: Eye-catching holiday lettering that spreads Christmas cheer wherever you go.👕 Classic Round Neckline: Timeless crew neck design that's comfortable and versatile.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.✨ Ribbed Texture: Classic ribbed detailing adds visual interest and a quality feel.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy winter days.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Casual holiday outings Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Cozy Layers: Style with leggings and fuzzy slippers🧣 Winter Ready: Add a scarf and your favourite winter coatMake this Christmas extra merry! This festive sweatshirt brings holiday cheer and cozy comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: MERRY graphic, round neck, ribbed texture Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-11-03T05:41:15Z
+  Updated: 2025-11-04T13:57:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3329,7 +3329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a7f50a94-4159-497a-a29c-e186c65d3a8b-Max-Origin.webp?v=1761347632
     Price: £25.88 GBP
 - [Long-Sleeve Single-Breasted Trench Coat](https://glamorousboutique.store/products/long-sleeve-single-breasted-trench-coat): Timeless Elegance – The Trench Coat Every Wardrobe Needs!Step into sophisticated style with the Long-Sleeve Single-Breasted Trench Coat. Featuring classic trench styling with modern details, this elegant coat is perfect for adding polish and warmth to any outfit.Why You'll Love This Trench Coat:🧥 Classic Trench Design: Timeless silhouette that never goes out of style – a true wardrobe investment piece.🔘 Single-Breasted Front: Elegant button closure adds sophistication and versatility.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Thick, Quality Fabric: Made from 100% polyester for warmth and durability.✨ Perfect Length: Long enough to provide coverage and warmth, short enough to stay practical.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Autumn and winter styling Office and professional settings Special occasions and events Layering over dresses or suits Elevating everyday outfits Styling Ideas:👔 Professional Polish: Pair with tailored trousers and heels👗 Feminine Elegance: Layer over a dress with ankle boots👖 Casual Chic: Wear with jeans and a jumperInvest in timeless style! This classic trench coat is the perfect blend of elegance and practicality. Add to basket now!Product Details: Material: 100% polyester Thickness: Thick Lining: Not lined Care: Machine wash cold, tumble dry low Features: Single-breasted, pockets, long sleeves Size Guide (Measurements in inches): Size Top Length Bust S 38.6 38.6 M 39 40.2 L 39.4 42.5 XL 39.8 44.9 2XL 40.2 47.2
-  Updated: 2025-11-01T12:01:41Z
+  Updated: 2025-11-04T01:25:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3549,7 +3549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761347671
     Price: £23.64 GBP
 - [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique.store/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Sparkle and Shine This Christmas – The Festive Set You'll Love!Celebrate the holidays in style with the Twisted Ribbed Christmas Sequin Patched Top and Shorts Set. Featuring eye-catching sequin details and a comfortable ribbed texture, this festive two-piece set is perfect for Christmas parties and holiday gatherings.Why You'll Love This Christmas Set:✨ Festive Sequin Details: Sparkling sequin patches add holiday glamour and festive cheer.🎄 Twisted Ribbed Design: Trendy twisted detailing and ribbed texture create a flattering, modern look.👕 Two-Piece Versatility: Coordinated top and shorts can be worn together or mixed with other pieces.🎀 Adjustable Drawstring: Comfortable drawstring waist on shorts for a perfect, customizable fit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Christmas parties and celebrations Holiday gatherings with family and friends Festive photo opportunities New Year's Eve celebrations Making a statement at holiday events Styling Ideas:👠 Party Ready: Add heels and statement earrings🧥 Layered Glam: Throw on a blazer for extra polish👟 Casual Festive: Style with trainers for a relaxed holiday lookSparkle through the holidays! This festive set brings glamour and comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Sequin patches, twisted ribbed design, drawstring, two-piece set Number of pieces: 2 (top and shorts) Size Guide (Measurements in inches): Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
-  Updated: 2025-11-03T22:12:41Z
+  Updated: 2025-11-04T21:20:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3575,7 +3575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2d7a240fdccd457b8459c06187bfce90-Max-Origin.webp?v=1761347694
     Price: £45.63 GBP
 - [Drawstring Textured Zip Up Drawstring Hooded Jacket](https://glamorousboutique.store/products/drawstring-textured-zip-up-drawstring-hooded-jacket): Cozy Texture Meets Practical Style – Your New Favourite Jacket!Stay warm and stylish with the Drawstring Textured Zip Up Hooded Jacket. Featuring a beautiful cable-knit texture and convenient zip-up design, this versatile jacket is perfect for layering during cooler months.Why You'll Love This Jacket:🧶 Textured Cable-Knit Design: Eye-catching texture adds visual interest and a quality, handcrafted feel.🤐 Easy Zip-Up Front: Convenient full-length zipper for quick on-and-off styling.🎀 Adjustable Drawstring Hood: Customise your fit and stay cosy when the temperature drops.💫 Perfect Weight: Normal thickness – ideal for layering without feeling bulky.✨ Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Autumn and winter layering Casual weekend outings Running errands in comfort Outdoor activities Transitional season styling Styling Ideas:👖 Casual Cool: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with leggings🧣 Cozy Comfort: Style with joggers and trainersStay cozy in style! This textured jacket is the perfect blend of comfort and fashion. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Cable-knit texture, zip-up front, drawstring hood Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 29.9 38.6 23.6 M 30.3 40.2 24 L 30.7 42.5 24.4 XL 31.1 44.9 24.8 2XL 31.5 47.2 25.2
-  Updated: 2025-11-01T12:01:41Z
+  Updated: 2025-11-04T06:23:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4331,7 +4331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e22fd7b7a6754f539647ee46bfeffb5b-Max-Origin.webp?v=1761386963
     Price: £19.39 GBP
 - [Double Take Button Up Fuzzy Checkered Shacket](https://glamorousboutique.store/products/double-take-button-up-fuzzy-checkered-shacket): Features: Pocketed, Buttoned Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 31.5 22.8 46.1 18.1 M 31.9 24 48.4 18.1 L 32.3 25.2 50.8 18.1 XL 32.7 26.8 53.9 18.1 2XL 33.1 28.3 57.1 18.1
-  Updated: 2025-11-03T14:15:15Z
+  Updated: 2025-11-04T06:00:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4417,7 +4417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ce942485-57ae-4aab-98be-d5dfa7a0b115-Max.webp?v=1761387650
     Price: £44.88 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://glamorousboutique.store/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-11-03T23:45:16Z
+  Updated: 2025-11-05T00:00:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4683,7 +4683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761430178
     Price: £16.79 GBP
 - [Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater](https://glamorousboutique.store/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Features: Basic style, Raw Hem Stretch: Slightly stretchy Material composition: 55% cotton, 45% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 25.6 24.2 39.8 20.5 L/XL 26.4 25.8 43.7 20.5 2XL/3XL 27.2 27.4 47.6 20.5
-  Updated: 2025-11-03T23:21:50Z
+  Updated: 2025-11-04T22:30:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5516,7 +5516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique.store/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-11-03T04:15:15Z
+  Updated: 2025-11-04T17:00:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5622,7 +5622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
 - [Textured Notched Raglan Sleeve Sweatshirt](https://glamorousboutique.store/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-11-03T01:08:21Z
+  Updated: 2025-11-04T02:02:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5768,7 +5768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique.store/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-11-03T02:08:35Z
+  Updated: 2025-11-04T21:47:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7138,7 +7138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/24cddaa4-4a95-4858-bf78-cb5a194d80e1-Max-Origin.webp?v=1761439272
     Price: £63.14 GBP
 - [Double Take Full Size Checkered Dropped Shoulder Cardigan](https://glamorousboutique.store/products/double-take-full-size-checkered-dropped-shoulder-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S/M 24.8 43.3 20.9 24.4 L/XL 25.6 47.2 20.9 26 2XL/3XL 26.4 51.2 20.9 27.6
-  Updated: 2025-11-03T01:00:15Z
+  Updated: 2025-11-04T13:45:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7512,7 +7512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
     Price: £23.66 GBP
 - [Children's Christmas Tree Applique Sweatshirt](https://glamorousboutique.store/products/childrens-christmas-tree-applique-sweatshirt): Features:Basic style Material composition:95% cotton, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length 4T 32.3 10.2 0 5T 34.6 11.4 0 6T 37 12.6 0 7T 38.6 14.2 0
-  Updated: 2025-11-01T12:01:56Z
+  Updated: 2025-11-04T17:10:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7634,7 +7634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
     Price: £32.69 GBP
 - [Children's Spiderman 3-Piece Outfit Set](https://glamorousboutique.store/products/childrens-spiderman-3-piece-outfit-set): Features:Drawstring Number of pieces:Three-piece Material composition:95% cotton, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Bottom Length Hip Top Length 2-3 11.8 11.8 20.5 12.6 0 3-4 12.2 12.6 22 13.4 0 4-5 12.6 13.4 23.6 14.2 0 6-7 13 14.2 25.6 15 0 8-9 13.4 15 27.6 15.7 0
-  Updated: 2025-11-01T12:01:57Z
+  Updated: 2025-11-04T20:47:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7970,7 +7970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
     Price: £45.63 GBP
 - [Ghost & Bow Sweatshirt - Women's Long Sleeve Halloween Top | Glamorous Boutique](https://glamorousboutique.store/products/ghost-bow-round-neck-long-sleeve-sweatshirt): Embrace the spooky season with our ghost and bow print sweatshirt. Comfortable round neck design with long sleeves. Perfect for Halloween and autumn wear.
-  Updated: 2025-11-03T22:11:22Z
+  Updated: 2025-11-04T21:00:58Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7984,7 +7984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
     Price: £25.91 GBP
   - [Blush Pink / L](https://glamorousboutique.store/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327240978758)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
     Price: £25.91 GBP
   - [Blush Pink / XL](https://glamorousboutique.store/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327241011526)
@@ -8162,7 +8162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
     Price: £43.29 GBP
 - [Christmas Santa Print Mesh Top - Festive Long Sleeve Shirt | Glamorous Boutique](https://glamorousboutique.store/products/christmas-santa-print-mesh-long-sleeve-top): Get festive with our Christmas Santa print mesh long sleeve top. Perfect for holiday parties and seasonal celebrations. Lightweight and stylish. Shop now!
-  Updated: 2025-11-03T23:30:36Z
+  Updated: 2025-11-04T17:40:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8184,7 +8184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
     Price: £12.66 GBP
 - [Women's Contrast Trim Hoodie - Kangaroo Pocket Sweatshirt | Glamorous Boutique](https://glamorousboutique.store/products/contrast-trim-drawstring-hoodie-with-kangaroo-pocket): Stay cosy in our women's contrast trim drawstring hoodie featuring a convenient kangaroo pocket. Perfect for casual everyday wear. Shop now at Glamorous Boutique.
-  Updated: 2025-11-03T08:20:50Z
+  Updated: 2025-11-04T10:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8296,7 +8296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3429f608-4180-4c40-aadb-c2b79fbd366f-Max-Origin.webp?v=1761785305
     Price: £24.60 GBP
 - [Christmas Nutcracker Button Up Top and Shorts Lounge Set](https://glamorousboutique.store/products/christmas-nutcracker-button-up-top-and-shorts-lounge-set): Features:Buttoned,Pocketed,Tied Number of pieces:Two-piece Stretch:No stretch Material composition:100% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length S 25.2 40.9 40.2 23.2 M 26 43.3 42.5 23.6 L 26.8 45.7 44.9 24 XL 27.6 48.8 48 24.4
-  Updated: 2025-11-01T12:02:00Z
+  Updated: 2025-11-04T05:12:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8318,7 +8318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c15054a2-e160-4e05-9f0c-4488a770005c-Max-Origin.webp?v=1761837255
     Price: £49.99 GBP
 - [Christmas Tree Pattern Checkered Button V Neck Cardigan](https://glamorousboutique.store/products/christmas-tree-pattern-checkered-button-v-neck-cardigan): Features:Ribbed Stretch:Slightly stretchy Material composition:52% viscose, 26% polyester, 22% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24 40.2 22 M 24.8 42.5 22 L 25.6 44.9 22 XL 26.4 48 22
-  Updated: 2025-11-03T20:10:36Z
+  Updated: 2025-11-04T22:00:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8356,7 +8356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/86e3d47e-67d5-41ac-9e55-a9444c088f47-Max-Origin.webp?v=1761837309
     Price: £47.10 GBP
 - [Christmas Reindeer Rhinestone Earrings](https://glamorousboutique.store/products/christmas-reindeer-rhinestone-earrings): Pieces:1-pair Material:Synthetic Pearl,18K Gold-Plated,Zinc alloy,Rhinestone Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.4
-  Updated: 2025-11-03T01:06:16Z
+  Updated: 2025-11-04T19:09:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8901,7 +8901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/grey-waffle-white-wicker-baby-moses-basket-with-stand-940844.jpg?v=1761998881
   Price: £58.99 GBP
 - [Pink Waffle Grey Wicker Baby Moses Basket With Stand](https://glamorousboutique.store/products/pink-waffle-grey-wicker-baby-moses-basket-with-stand): Welcome to the world of luxurious comfort for your little one with our stunning Pink Waffle Grey Wicker Baby Moses Basket with Stand. This exquisite basket combines elegance and practicality, ensuring your baby experiences the best care from day one. Crafted from high-quality wicker in a gentle grey shade, this Moses basket not only serves as a cosy sleeping space but also enhances your nursery's aesthetic appeal. The thoughtful design features a gently rocking stand that provides soothing motion, helping to lull your baby to sleep. The soft hood and quilt create a warm, comforting environment, ideal for napping. With extra padding and a hypoallergenic mattress, you can rest assured that your baby will be enveloped in comfort while promoting peaceful sleep. Designed with the busy parent in mind, this Moses basket is both practical and stylish. The fabric is machine-washable, making it easy to maintain its pristine appearance, even with the inevitable messes that come with caring for a newborn. The polyester-cotton blend construction ensures breathability and warmth, so your baby stays comfortable throughout all seasons. This basket meets strict EU standards, showcasing our commitment to safety and quality. It is hand-woven with incredible attention to detail, providing a unique, handcrafted touch that sets it apart from mass-produced options. Experience peace of mind knowing your baby rests in a secure and beautiful environment. Key features of the Pink Waffle Grey Wicker Baby Moses Basket include: Hand-woven with Space-Tec padding for enhanced comfort. Hypoallergenic superb mattress, ensuring safety and well-being for your little one. For specifications, please refer below: Wicker Basket Dimensions: 83cm length, 49cm width. Mattress Dimensions: 66cm length, 29cm width. Exceeds latest EU standard EN 1466:2014+AC:2015. Includes sturdy rocking stand for ease of use. Choose the Pink Waffle Grey Wicker Baby Moses Basket with Stand for an extravagant yet functional addition to your baby's nursery.
-  Updated: 2025-11-02T13:33:48Z
+  Updated: 2025-11-04T23:55:38Z
   Vendor: For Your Little One
   Product Type: Wicker Moses Basket
   Availability: Available
@@ -8954,7 +8954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-animal-print-car-seat-footmuff-cosy-toes-fits-all-3-and-5-point-harnesses-fits-all-models-583146.jpg?v=1761998885
     Price: £12.99 GBP
 - [Universal Deluxe Pushchair Footmuff / Cosy Toes - Fits All Pushchairs / Prams And Buggies](https://glamorousboutique.store/products/universal-deluxe-pushchair-footmuff-cosy-toes-fits-all-pushchairs-prams-and-buggies): Grab an extra special and extra cosy footmuff to keep your baby’s feet warm and cosy in the cold, chilly weather of the winter and fall. Universal Deluxe pushchair footmuffs are compatible to be used with all different kinds of strollers and pushchairs which come with a 5-point harness system. Available in many different colours, the footmuff can be colour-coordinated with the design and colour of the pushchairs to keep the style alive. The extra-large size of the footmuffs makes them perfect to be used for both babies and toddlers as well. The extra padding inside the cosy toes foot muffs makes them extra fluffy and snug for the babies. The footmuffs are covered with a waterproof and windproof outer layer that protects the inner warm layers and your baby’s feet from the cold harsh winds and water. The footmuffs are made to be compatible with machine washes so you do not have to worry about damaging the fabric. A zipper is given at the front in the middle which can be used to help your toddlers to fit their feet ideally. Specifications: Universal fit Cosy Toes deluxe footmuff Compatibility: pushchairs, prams and strollers with a 5-point harness system Single zip fasteners on the front Waterproof and windproof outer fabric Available in multiple colours Machine-wash compatible Breathable and soft fabric Dimensions: 100 x 45 (LxW)
-  Updated: 2025-11-02T13:34:39Z
+  Updated: 2025-11-04T23:17:02Z
   Vendor: For Your Little One
   Product Type: Deluxe Footmuff
   Availability: Available
@@ -8999,7 +8999,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-car-seat-raincover-fits-all-models-985337.jpg?v=1761998885
   Price: £10.99 GBP
 - [Universal Rain Cover For Pushchairs Strollers Buggys Prams](https://glamorousboutique.store/products/universal-rain-cover-for-pushchairs-strollers-buggys-prams): Protect your little one from unexpected weather changes with our Universal Rain Cover for Pushchairs, Strollers, Buggies, and Prams. Designed with the needs of both parents and children in mind, this high-quality rain cover keeps your toddler dry and comfortable, no matter how unpredictable the weather may be. Whether it's a sudden downpour or a chilly breeze, this rain cover creates a warm and secure environment for your child while in their stroller or buggy. Constructed from premium 250-micron PVC material, this rain cover is not only durable but also remarkably effective at preventing water penetration. Your child can enjoy the fresh air without the concern of getting soggy or uncomfortable. This breathable design ensures optimal ventilation, so your little one remains cozy, even during windy conditions. Visibility is key for parents, and the clear PVC material allows you to monitor your child easily without needing to remove the cover. Easy to use and maintain, our rain cover can be quickly attached to or removed from your pushchair, making it a must-have accessory for any outing. When it’s not in use, it folds easily for compact storage, ensuring you can always have it on hand without taking up too much space. This universal design is compatible with a wide range of strollers and buggies, making it a versatile addition to your baby gear. Key Benefits: Highly durable, yet lightweight material that provides long-lasting use. Includes excellent visibility and ample ventilation for your child's comfort. Specifications: Made with finest-grade 250-micron PVC material for durability. Ensures optimum visibility and adequate ventilation. Easy to fold and maintain, soft and crack-resistant rain cover for stroller or buggy. Invest in the Universal Rain Cover today, and make rainy days a breeze for you and your little one!
-  Updated: 2025-11-02T13:34:48Z
+  Updated: 2025-11-04T23:17:22Z
   Vendor: For Your Little One
   Product Type: Pushchair Raincover
   Availability: Available
@@ -9044,14 +9044,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/pram-fur-hood-trim-attachment-for-pushchair-590208.jpg?v=1761998885
     Price: £13.95 GBP
 - [Grey Moses Basket Rocking Stand](https://glamorousboutique.store/products/grey-moses-basket-rocking-stand): Introducing the Grey Moses Basket Rocking Stand, designed to provide optimal support for your baby's wicker or palm moses basket, ensuring a restful and peaceful sleep every night. Its beautiful grey colour and elegant curved cross design seamlessly complement any nursery theme, adding a touch of sophistication to the overall decor. Crafted from high-quality pine wood, this stand boasts a smooth rocking motion that lulls your little one into a deep slumber, without disrupting their sleep cycle. The safe and sturdy frame securely accommodates the basket, offering long-lasting durability and peace of mind. With the Grey Moses Basket Rocking Stand, you can be confident that your baby will enjoy the ultimate comfort and relaxation. The stand is compatible with 70-83.5cm x 30-37cm Moses Baskets, making it suitable for both wicker and palm baskets. Key Features: Provides optimal support for wicker or palm moses baskets Smooth rocking motion ensures a deep and uninterrupted sleep Elevate your baby's sleeping experience with the Grey Moses Basket Rocking Stand, offering a perfect blend of aesthetics and functionality. Order yours today and provide your little one with the comfort they deserve. Specifications: Compatible with 70-83.5cm x 30-37cm Moses Baskets Suitable for wicker or palm baskets Colour: Grey
-  Updated: 2025-11-02T13:34:58Z
+  Updated: 2025-11-04T23:55:21Z
   Vendor: For Your Little One
   Product Type: Moses Basket Stands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/grey-moses-basket-rocking-stand-386535.jpg?v=1761998885
   Price: £19.49 GBP
 - [Universal Premium Pushchair Footmuff / Cosy Toes - Fits All Pushchairs / Prams And Buggies](https://glamorousboutique.store/products/universal-premium-pushchair-footmuff-cosy-toes-fits-all-pushchairs-prams-and-buggies): If you are looking for a footmuff with an extra feature such as additional padding. Then look no further because the Premium Footmuff offers you just that and much more. It is the perfect footmuff that you should really have when the weather changes drastically. Don’t want to be caught off guard with that chilly draught? Make sure you get one right now! Here are some of its features; 1. Better quality materials It is made up of better quality material expertly designed with soft fleece, breathable lining and cosy toes, making them super comfortable for your little one. The inside feels warm and snuggly an assurance that your child will be really warm too. No more doing some stressful handwashing or even tense that it might not dry on time. You can simply wash it using your laundry machine. The outer fabric is waterproof and also windproof. 2. Additional padding It has additional padding which makes it deeply padded to offer more warmth making them the perfect choice for the evening walks. 3. Beautiful colours If you are into a colour coordinated accessories that fully complete your pram system, then try the Premium footmuff. It is available with a beautiful array of colours that you can choose from. 4. Compatible with your stroller You don’t have to worry whether it will fit in your pram we at for-your-little-one have done the homework and make sure it fits perfectly. 5. The Zip fasteners The zip fasteners of the premium footmuff are all around that you can easily remove completely or unzip during months that are warmer. It also functions from both edges. It actually unzips and makes a seat liner that is ideal for those hot summer days. 6. Measurements The approximate measurements are a height of 100cm, a width of 40cm and depth of 10cm which ensures that it is compatible with your baby stroller and at the same time cosy for your little child. So, if you are looking for a footmuff to have a stroll down the park, shopping or streets even in windy and chilly days. You know that premium-footmuff will guarantee your baby the warmth and comfort they deserve.
-  Updated: 2025-11-02T13:35:06Z
+  Updated: 2025-11-04T22:42:45Z
   Vendor: For Your Little One
   Product Type: Premium Footmuff
   Availability: Available
@@ -9135,14 +9135,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-baby-parasol-fits-all-pushchairs-prams-strollers-and-buggies-fits-all-models-988616.jpg?v=1761998885
     Price: £10.99 GBP
 - [White Deluxe Moses Basket Rocking Stand](https://glamorousboutique.store/products/white-deluxe-moses-basket-rocking-stand): Transform your nursery into a serene sanctuary with the White Deluxe Moses Basket Rocking Stand. This elegantly designed stand not only enhances the aesthetic appeal of your space but also provides a safe and comfortable sleeping environment for your baby. Crafted with care from high-quality pine, it ensures durability and longevity, making it a wise investment for any parent. The standout feature of this rocking stand is its smooth rocking motion. This gentle sway mimics the comforting feeling of being cradled, helping to soothe your little one to sleep effortlessly. The timeless white finish complements a variety of nursery themes, bringing a touch of sophistication to your child's room. Whether your decor leans towards modern minimalism or classic charm, this stand fits right in. Designed with practicality in mind, the Deluxe Moses Basket Rocking Stand is compatible with a wide range of Moses baskets. It accommodates baskets that measure between 70cm to 83.5cm in length and 30cm to 33.5cm in width. This versatility means you can easily use it with both traditional wicker and stylish palm baskets. Elevate your nursery experience with this deluxe stand, which ensures both style and functionality. Its sturdy construction provides peace of mind for parents, while the elegant design adds a welcoming touch to any room. Key features include: Sturdy and durable pine construction for long-lasting use Smooth rocking motion designed to soothe your baby to sleep When it comes to specifications, this stand is tailored to suit your needs: Compatible with Moses baskets measuring 70cm to 83.5cm long Accommodates baskets of widths 30cm to 33.5cm Versatile enough for use with both wicker and palm baskets Elegant white colour enhances any nursery decor Invest in the White Deluxe Moses Basket Rocking Stand to create a calming environment that promotes restful sleep. Its combination of durability, comfort, and style makes it an essential addition to your nursery.
-  Updated: 2025-11-02T13:35:18Z
+  Updated: 2025-11-04T22:41:07Z
   Vendor: For Your Little One
   Product Type: Moses Basket Stands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/white-deluxe-moses-basket-rocking-stand-858134.jpg?v=1761998886
   Price: £19.49 GBP
 - [Natural Moses Basket Folding Stand](https://glamorousboutique.store/products/natural-moses-basket-folding-stand): Enhance the natural charm of your nursery with our Natural Moses Basket Folding Stand. Crafted from high-quality pine wood, this stand brings a raw and organic touch to your baby's sleeping space. The natural colour perfectly complements any nursery decor theme. Designed for maximum safety and convenience, the balanced footing of our folding stand ensures that your little one's Moses basket is securely mounted. No need to worry about portability - this stand is foldable, making transportation effortless and hassle-free. Constructed from durable pinewood, our stand is built to withstand daily use. It resists abrasion and stays looking fresh, ensuring long-lasting performance. Plus, it provides a stable and sturdy base for your baby's basket, giving you peace of mind while they rest. Here are some key features and benefits of our Natural Moses Basket Folding Stand: Compatible with Moses baskets measuring 70-83.5cm x 30-37cm, providing a perfect fit for most baskets. Suitable for wicker or palm baskets, allowing you to choose the style that suits your preference. With its foldable design and natural pine colour, our Moses Basket Folding Stand seamlessly combines functionality and style. Give your little one a cozy and secure sleeping space while adding a touch of natural beauty to your nursery. Specifications: Compatible with: 70-83.5cm x 30-37cm Moses Baskets Suitable for: Wicker or palm basket Colour: Natural Pine Style: Foldable
-  Updated: 2025-11-02T13:35:19Z
+  Updated: 2025-11-04T20:57:11Z
   Vendor: For Your Little One
   Product Type: Moses Basket Stands
   Availability: Available
@@ -9243,7 +9243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-fleece-pushchair-footmuff-cosy-toes-fits-all-pushchairs-prams-and-buggies-703372.jpg?v=1761998885
     Price: £12.99 GBP
 - [Universal Broderie Anglaise Pushchair Footmuff / Cosy Toes - Fits All Pushchairs / Prams And Buggies](https://glamorousboutique.store/products/universal-broderie-anglaise-pushchair-footmuff-cosy-toes-fits-all-pushchairs-prams-and-buggies): Experience ultimate style and comfort with our Universal Broderie Anglaise Pushchair Footmuff / Cosy Toes - the perfect accessory for all pushchairs, prams, and buggies. Designed to provide exceptional comfort, this footmuff is not only practical but also visually stunning. Featuring a beautiful ruffled design and exquisite embroidery, our Broderie Anglaise footmuff adds a touch of elegance to your baby's stroller. Made with high-quality materials, it ensures durability and can withstand everyday wear and tear. Say goodbye to discomfort with the extra soft padding lining the inner side of the footmuff. Your little one will be snug and cosy, making every outing a comfortable experience. The universal fit allows you to easily set it up in any travel system, and it can even be transformed into a buggy liner for added versatility. Convenience is key, and our footmuff is designed with that in mind. The full-length front zip allows for effortless access, making it quick and easy to slip your toddler into the stroller without any hassle. And when it comes to maintenance, you can simply pop it in the washing machine for easy cleaning. Key Features/Benefits: Universal fit for all pushchairs, prams, and buggies Beautiful ruffled design and intricate embroidery for added style Specifications: Compatibility: most pushchairs, prams, and strollers 2-in-1 footmuff with single zip fasteners on the front Transformable into a buggy liner Machine-wash compatible Breathable and soft fabric Extra heavily padded inner layers Dimensions: 100 x 40 x 10 (HxWxD)
-  Updated: 2025-11-02T13:35:40Z
+  Updated: 2025-11-04T21:49:11Z
   Vendor: For Your Little One
   Product Type: Broderie Anglaise Footmuff
   Availability: Available
@@ -9318,7 +9318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-footmuff-cosy-toes-fits-all-pushchairs-prams-and-buggies-962922.jpg?v=1761998885
     Price: £13.99 GBP
 - [Universal Premium Car Seat Footmuff / Cosy Toes](https://glamorousboutique.store/products/universal-premium-car-seat-footmuff-cosy-toes): Enhance your little one's comfort and warmth during car rides with the Universal Premium Car Seat Footmuff / Cosy Toes. Designed to provide a cosy and secure environment, this footmuff is the perfect accessory for your toddler's car seat. The plush fleece lining and thoughtful quilting ensure that your child's feet stay snug and warm, even in the chilliest of weather conditions. Not only does this footmuff offer superior warmth, but its water-resistant outer cover provides excellent protection against unexpected drizzles or spills, keeping your child comfortably dry throughout the journey. The versatile design of this footmuff allows it to be easily converted into a seat liner during the warmer seasons, making it a practical all-weather accessory for your child's car seat. Machine washable for added convenience, this footmuff is a breeze to clean, ensuring that it stays fresh and hygienic for your little one's everyday use. The vibrant range of shades available allows you to choose the perfect colour to match your toddler's car seat, adding a touch of style to their travel setup. Key Features: Convertible design allows for use as a seat liner Water-resistant outer cover for protection against moisture Whether it's a chilly winter day or a mild summer afternoon, the Universal Premium Car Seat Footmuff / Cosy Toes delivers on both style and functionality, making it an essential addition to your child's car seat ensemble. Invest in their comfort and warmth with this versatile and durable footmuff.
-  Updated: 2025-11-02T13:35:53Z
+  Updated: 2025-11-04T20:19:16Z
   Vendor: For Your Little One
   Product Type: Premium Car Seat Footmuff
   Availability: Available
@@ -9408,7 +9408,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9-ft-maternity-pillow-and-case-white-796109.jpg?v=1761998885
   Price: £24.99 GBP
 - [Universal Rain Cover For All Side By Side Pushchairs - Fits All Models](https://glamorousboutique.store/products/universal-rain-cover-for-all-side-by-side-pushchairs-fits-all-models-1): Protect your little one from unexpected weather changes with our Universal Rain Cover for all side-by-side pushchairs. This versatile rain cover fits all models, ensuring that regardless of your pushchair's make, your child remains dry and comfortable during sudden downpours. Crafted from premium 250-micron PVC material, this cover offers not only robust protection against rain but also shields your child from cold winds, allowing for a more enjoyable outing. Designed with both functionality and convenience in mind, the rain cover guarantees excellent visibility. You can easily keep an eye on your toddler without needing to remove the cover, effortlessly combining safety and functionality. This is particularly beneficial during those busy trips to the park or when navigating through bustling streets. The breathability of the cover ensures that your child doesn’t feel stuffy, providing a cozy environment even during less-than-ideal weather conditions. Installation and storage are simple. The rain cover can be quickly attached or removed, making it a hassle-free accessory to have on hand. Plus, it folds easily, allowing you to store it compactly when it’s not in use. With its soft and crack-resistant material, you can rely on our rain cover as a long-term companion for all your outdoor adventures. In summary, you can enjoy various benefits with our Universal Rain Cover: Durable protection made from high-quality 250-micron PVC. Easy visibility and ventilation for your child's comfort. Specifications: Made with finest-grade 250-micron PVC material for durability. Ensures optimum visibility and adequate ventilation. Easy to fold and maintain, soft and crack-resistant rain cover for side-by-side pushchair. Side by Side Raincover Manual Download the instruction manual PDF using the link below. IMPORTANT — PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE USE AND KEEP FOR FUTURE REFERENCE. Desktop Version Mobile Version
-  Updated: 2025-11-02T13:36:26Z
+  Updated: 2025-11-04T23:08:42Z
   Vendor: For Your Little One
   Product Type: Side by Side Raincover
   Availability: Available
@@ -9422,7 +9422,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-carrycot-raincover-fits-all-models-582337.jpg?v=1761998886
   Price: £12.99 GBP
 - [Wicker Pod Baby Deluxe Moses Basket](https://glamorousboutique.store/products/wicker-pod-baby-deluxe-moses-basket): The Wicker Pod Baby Deluxe Moses Basket is the perfect blend of style and functionality, designed to provide a snug and secure sleep space for your little one. With its elegant hand-woven wicker construction, this moses basket not only looks beautiful but also promises durability and comfort. Your baby deserves the best, and this basket creates a warm and inviting environment, making it ideal for naptime and overnight sleep. This deluxe moses basket features thoughtful additions such as extra padding and a hypoallergenic mattress, ensuring that your little one sleeps soundly in ultimate comfort. The included quilt and dressing add an extra layer of care, giving you peace of mind knowing your baby is cosseted. Made with a blend of cotton and polyester, the materials offer breathability and effective insulation, keeping your baby warm during colder months. With an ergonomic design, the Wicker Pod Baby Deluxe Moses Basket provides ample space for your child's natural movements. Its compact footprint ensures that it easily fits in small bedrooms or living areas without sacrificing style or comfort. The basket exceeds the latest EU standard BSEN1466:2004, making it a safe choice for your baby. Key Features: Classy, aesthetically-pleasing hand-woven design Hand woven Space-Tec Padding for added comfort Hypo-Allergenic superb mattress ensures a safe sleep environment Includes waffle pattern bedding for stylish appeal Easy-clean breathable dressing (cotton and polyester blend) Complies with latest EU standard BSEN1466:2014 What's included? Noah Pod Moses basket Mattress Padding Dressing Quilt Please note: The rocking stand is NOT included. For your convenience, you can find the Pod and Stand Bundle here. Size Specifications: Pod Wicker Basket: 94cm length, 40cm width
-  Updated: 2025-11-02T13:36:48Z
+  Updated: 2025-11-04T23:43:40Z
   Vendor: For Your Little One
   Product Type: Pod Moses Basket
   Availability: Available
@@ -9444,7 +9444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-pod-baby-deluxe-moses-basket-699306.jpg?v=1761998886
     Price: £59.99 GBP
   - [White / Waffle / Grey](https://glamorousboutique.store/products/wicker-pod-baby-deluxe-moses-basket?variant=55364602396998)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-pod-baby-deluxe-moses-basket-205342.jpg?v=1761998886
     Price: £59.99 GBP
   - [White / Dimple / White](https://glamorousboutique.store/products/wicker-pod-baby-deluxe-moses-basket?variant=55364602429766)
@@ -9464,7 +9464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-pod-baby-deluxe-moses-basket-361708.jpg?v=1761998886
     Price: £59.99 GBP
   - [White / Dimple / Grey](https://glamorousboutique.store/products/wicker-pod-baby-deluxe-moses-basket?variant=55364602560838)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-pod-baby-deluxe-moses-basket-227881.jpg?v=1761998886
     Price: £59.99 GBP
   - [Grey / Waffle / White](https://glamorousboutique.store/products/wicker-pod-baby-deluxe-moses-basket?variant=55364602593606)
@@ -9508,7 +9508,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-pod-baby-deluxe-moses-basket-488905.jpg?v=1761998886
     Price: £59.99 GBP
 - [Universal Car Seat Footmuff / Cosy Toes - Fits All 3 And 5 Point Harnesses](https://glamorousboutique.store/products/universal-car-seat-footmuff-cosy-toes-fits-all-3-and-5-point-harnesses-1): Transform your car journeys into a comfortable and enjoyable experience for your little one with our Universal Car Seat Footmuff / Cosy Toes. This essential accessory is designed to fit all 3 and 5-point harnesses, ensuring that your child is secure while staying snug. Whether you're facing a chilly winter day or a breezy summer drive, this versatile footmuff is equipped to handle any weather conditions. The footmuff's water-resistant outer cover keeps your child's feet dry, providing peace of mind during rainy outings. Made with high-quality materials, it effectively protects against the elements, allowing your family to enjoy every ride without worry. The interior features warm fleece lining and extra quilting that wraps your child in comfort, making it the perfect choice for long journeys or quick trips around town. One of the standout benefits of the Universal Car Seat Footmuff is its easy maintenance. Designed for busy parents, it can be conveniently detached for quick washing, ensuring that it stays fresh and clean. Plus, its compatibility with a wide range of car seats makes it a practical addition to any family vehicle. This footmuff is not just about warmth; it also adds a touch of style. Available in a variety of captivating colours, you can choose a design that complements your car's interior or matches your child's personality. Key Features: Includes warm fleece lining and extra quilting for exceptional warmth Water-resistant outer cover, keeping your child's feet dry and safe Compatible with all newborn car seats and designed for 3 and 5-point harnesses Make every car ride a cozy adventure with our Universal Car Seat Footmuff / Cosy Toes. It's not just an accessory—it's a necessity for any parent looking to combine comfort and practicality. Upgrade your travelling experience today!
-  Updated: 2025-11-02T13:36:59Z
+  Updated: 2025-11-04T21:18:56Z
   Vendor: For Your Little One
   Product Type: Car Seat Footmuff
   Availability: Available
@@ -9580,7 +9580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-dimple-footmuff-cosy-toes-fits-all-pushchairs-prams-buggies-442156.jpg?v=1761998886
     Price: £14.99 GBP
 - [Wicker Baby Moses Basket With Stand](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand): Elegant & Comfortable Wicker Moses Basket with Rocking Stand Create a soothing and stylish sleep environment for your little one with this beautifully hand-woven wicker Moses basket. Designed for both comfort and elegance, the natural wicker frame adds a timeless charm, making it a pleasing addition to any nursery. A Perfect Blend of Comfort & Safety ✔ Gently Rocks Your Baby to Sleep: Comes with a rocking stand, ideal for soothing your infant with gentle movements.✔ Hypo-Allergenic & Breathable: Includes a hypo-allergenic mattress, extra padding, and soft exterior dressing, providing ultimate comfort.✔ Meets the Highest Safety Standards: Crafted to exceed EU safety standards EN 1466:2014+AC:2015, ensuring a secure sleep space for your baby.✔ Machine Washable Fabrics: Easy-care polyester-cotton blend offers breathability and insulation for year-round comfort.✔ Universal Compatibility: Designed to work with similar bedding products, giving parents more versatility. Specifications Certified Safe: Exceeds the latest EU safety standard EN 1466:2014+AC:2015 Material: Hand-woven Space-Tec Padding for extra durability and support Mattress: Hypo-allergenic & superb quality for a restful sleep Rocking Stand: Gentle motion to calm and soothe babies Size & Dimensions Wicker Basket: 83cm (L) x 49cm (W) Mattress: 66cm (L) x 29cm (W) If you're looking for an elegant, comfortable, and safe bedding solution for your newborn, this premium wicker Moses basket is the perfect choice. 🛒 Order now and give your baby the best start with ultimate comfort and style!
-  Updated: 2025-11-02T13:37:20Z
+  Updated: 2025-11-04T23:55:37Z
   Vendor: For Your Little One
   Product Type: Wicker Moses Basket
   Availability: Available
@@ -9590,11 +9590,11 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-307763.jpg?v=1761998886
     Price: £58.99 GBP
   - [White / Waffle / Blue](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603150662)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-611944.jpg?v=1761998886
     Price: £58.99 GBP
   - [White / Waffle / Pink](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603183430)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-734754.jpg?v=1761998887
     Price: £58.99 GBP
   - [White / Waffle / Cream](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603216198)
@@ -9610,7 +9610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-483532.jpg?v=1761998887
     Price: £58.99 GBP
   - [White / Dimple / Blue](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603314502)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-243187.jpg?v=1761998886
     Price: £58.99 GBP
   - [White / Dimple / Pink](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603347270)
@@ -9622,7 +9622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-baby-moses-basket-with-stand-971000.jpg?v=1761998887
     Price: £58.99 GBP
   - [White / Dimple / Grey](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603412806)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Grey-Dimple-White-Wicker.jpg?v=1761998886
     Price: £58.99 GBP
   - [Grey / Waffle / White](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603445574)
@@ -9650,7 +9650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/white-dimple-grey-wicker-baby-moses-basket-with-stand-961350.jpg?v=1761998886
     Price: £58.99 GBP
   - [Grey / Dimple / Blue](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603642182)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Blue-Dimple-Grey-Wicker-Master.jpg?v=1761998886
     Price: £58.99 GBP
   - [Grey / Dimple / Pink](https://glamorousboutique.store/products/wicker-baby-moses-basket-with-stand?variant=55364603674950)
@@ -9842,21 +9842,21 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/printed-muslin-squares-100-cotton-80x80cm-753457.jpg?v=1761998888
     Price: £19.99 GBP
 - [Foryourlittleone Xplor 6 in 1 Foldable Trike - Grey Olive (10m-5y)](https://glamorousboutique.store/products/foryourlittleone-xplor-6-in-1-foldable-trike-grey-olive-10m-5y-1): Foryourlittleone Xplor Tricycle – Olive Grey | The Ultimate 8-in-1 Adventure Trike Get this multi-functional Xplor tricycle in Olive Grey for all adventures! With its quick-folding mechanism and travel bag (sold separately), it can be easily stored in any vehicle. The Foryourlittleone trike functions as both a pushchair and a tricycle, giving you full control while supporting your child's growing independence. It starts as a buggy and transforms into a tricycle as they grow. Key Features & Functionality ✔ Suitable from 10 months up to 5 years (Max Weight: 20kg) ✔ Quick Folding Mechanism – Compact and travel-friendly (Folded Size: 33x28x63cm) ✔ Multi-Functional Design – Transforms from a pushchair to a tricycle (detachable parent handle, guard rail, hood) ✔ Puncture-Resistant PU Wheels – Provides a smooth, all-terrain safe commute ✔ Parent-Facing Option – Maintain closeness and supervision during rides ✔ Free-Wheel Function – Allows toddlers to pedal independently without moving the trike ✔ Height-Adjustable Parent Handles – Ensures comfortable steering for parents ✔ Removable Canopy & Foldable Hood – Protects from sun and elements ✔ Engage Pedals or Freewheeling Mode – Choose based on your child’s needs Safety Features ✔ 5-Point Harness – Keeps your child secure at all times ✔ Removable Leather Guard Rail – Extra protection, removable when needed ✔ Rear Brake System – Prevents the trike from moving when your child gets in or out ✔ Full Parental Control – Linked handlebars allow parents to steer effortlessly ✔ Certified Safe – Tested and approved in accordance with European safety standards EN 71-1 ✔ Max Weight Limit – 20kg Product Dimensions Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33x28x63cm Order Yours Today! Upgrade your child’s outdoor adventures with the Foryourlittleone Xplor Tricycle in Olive Grey – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-11-02T13:38:20Z
+  Updated: 2025-11-04T20:25:17Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-foldable-trike-grey-olive-2025-302831_48c393bb-d99b-4aa2-bbbe-ab8d9c6d1865.png?v=1761998889
   Price: £99.99 GBP
 - [Breast Feeding Nursing Pillow  - Grey with Stars (COVER ONLY)](https://glamorousboutique.store/products/breast-feeding-nursing-pillow-grey-with-stars-cover-only): Chic and Functional Nursing Pillow CoverThe Breastfeeding Nursing Pillow Cover in Grey with Stars adds a touch of elegance and practicality to your breastfeeding journey. Designed exclusively to fit your nursing pillow, this cover ensures a snug and secure fit while protecting your pillow from daily wear and tear. Crafted from soft and breathable fabric, it offers a comfortable surface for both you and your baby. The grey color with delicate star patterns complements modern nursery decor and adds a stylish element to your maternity essentials. Whether for feeding, tummy time, or relaxation, this cover enhances the functionality of your nursing pillow with a trendy design. Key Features: Tailored Fit: Specifically designed to fit standard breastfeeding nursing pillows securely. Soft and Durable Material: Provides a comfortable and gentle surface for your baby while ensuring long-lasting use. Stylish Grey Star Design: Features a contemporary grey base adorned with charming white stars, perfect for any nursery theme. Easy Maintenance: Fully machine washable, making it simple to keep clean and fresh for everyday use. Zipper Closure: Equipped with a discreet zipper for easy application and removal. Side to side Width- 63cm Front to back - 50cm
-  Updated: 2025-11-02T13:38:23Z
+  Updated: 2025-11-04T20:17:12Z
   Vendor: For Your Little One
   Product Type: Nursing Pillow Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/breast-feeding-nursing-pillow-grey-with-stars-cover-only-288657.jpg?v=1761998888
   Price: £9.99 GBP
 - [Foryourlittleone Xplor 6 in 1 Foldable Trike - Jet Black (10m-5y)](https://glamorousboutique.store/products/foryourlittleone-xplor-6-in-1-foldable-trike-jet-black-10m-5y): Foryourlittleone Xplor Tricycle – Jet Black | The Ultimate 8-in-1 Adventure Trike Get this multi-functional Xplor tricycle in Jet Black for all adventures! With its quick-folding mechanism and travel bag (sold separately), it can be easily stored in any vehicle. The Foryourlittleone trike functions as both a pushchair and a tricycle, giving you full control while supporting your child's growing independence. It starts as a buggy and transforms into a tricycle as they grow. Key Features & Functionality ✔ Suitable from 10 months up to 5 years (Max Weight: 20kg)✔ Quick Folding Mechanism – Compact and travel-friendly (Folded Size: 33x28x63cm)✔ Multi-Functional Design – Transforms from a pushchair to a tricycle (detachable parent handle, guard rail, hood)✔ Puncture-Resistant PU Wheels – Provides a smooth, all-terrain safe commute✔ Parent-Facing Option – Maintain closeness and supervision during rides✔ Free-Wheel Function – Allows toddlers to pedal independently without moving the trike✔ Height-Adjustable Parent Handles – Ensures comfortable steering for parents✔ Removable Canopy & Foldable Hood – Protects from sun and elements✔ Engage Pedals or Freewheeling Mode – Choose based on your child’s needs Safety Features ✔ 5-Point Harness – Keeps your child secure at all times✔ Removable Leather Guard Rail – Extra protection, removable when needed✔ Rear Brake System – Prevents the trike from moving when your child gets in or out✔ Full Parental Control – Linked handlebars allow parents to steer effortlessly✔ Certified Safe – Tested and approved in accordance with European safety standards EN 71-1✔ Max Weight Limit – 20kg Product Dimensions Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33x28x63cm Order Yours Today! Upgrade your child’s outdoor adventures with the Foryourlittleone Xplor Tricycle in Jet Black – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-11-02T13:38:47Z
+  Updated: 2025-11-04T22:01:06Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
@@ -9877,7 +9877,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/pod-pink-dimple-moses-basket-bedding-set-348629.png?v=1761998889
   Price: £22.99 GBP
 - [FYLO 2x Baby Safety Stair Gate  Pressure Fit 75-86cm (2 pack)](https://glamorousboutique.store/products/fylo-2x-baby-safety-stair-gate-pressure-fit-75-86cm-2-pack): FYLO 2x Baby Safety Stair Gate – Pressure Fit (75-86cm) | Easy & Secure Home Safety Double the Safety, Double the Peace of Mind Keep your little ones safe with the FYLO 2x Baby Safety Stair Gate – Pressure Fit (75-86cm, 2 Pack). Designed for quick and hassle-free installation, this durable stair gate offers a secure barrier without the need for drilling or permanent fixings. Whether for staircases, doorways, or hallways, it provides reliable protection while maintaining a stylish, modern look. Why Parents & Pet Owners Love This Gate ✅ 2-Pack for Extra Coverage – Secure multiple areas of your home with this convenient double pack.✅ Pressure-Fit Installation – No screws or drilling required! Quick and easy setup with no damage to walls or door frames.✅ Strong & Sturdy Build – Made from premium materials, ensuring long-lasting durability for daily use.✅ One-Hand Operation – Easily open and close the gate with one hand, perfect for busy parents.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Modern & Stylish Design – Neutral colour blends effortlessly with any home décor.✅ Multi-Purpose Use – Suitable for staircases, doorways, hallways, and other high-risk areas.✅ Pet-Friendly Barrier – Ideal for keeping pets in designated spaces while allowing easy adult access.✅ Safety-Tested & Certified – Meets strict European safety standards, providing maximum protection for your family. How the FYLO Safety Gate Benefits You ✔ Instantly create a safe environment – Block off hazardous areas like stairs or restricted rooms.✔ No damage to walls – Perfect for rental homes or temporary use.✔ Reliable, worry-free security – Designed for daily use with convenience and safety in mind. Order Today for Complete Home Safety! Ensure your child's safety with the FYLO 2x Baby Safety Stair Gate. Click ‘Add to Basket’ now and enjoy a worry-free home with double the protection!
-  Updated: 2025-11-02T13:39:12Z
+  Updated: 2025-11-04T23:26:00Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -9945,14 +9945,14 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-venture-trike-purple-18-months-6-years-570113_2ee22383-bdf8-462b-9d09-97fc80e8e583.png?v=1761998890
   Price: £29.99 GBP
 - [Foryourlittleone Venture Trike - Green (18 months - 6 years)](https://glamorousboutique.store/products/foryourlittleone-venture-trike-green-18-months-6-years): For Your Little One Venture Trike Adventure Awaits Your Little Explorer Introducing the For Your Little One Venture Trike—a thoughtfully designed tricycle that grows with your child, offering safety, comfort, and endless fun. Whether it's their first ride or they're mastering pedaling, the Venture Trike is the perfect companion for every stage of their journey. Key Features: Enhanced Stability: The trike's smart triangular design with extended rear wheels and a wider wheelbase ensures improved roll-over prevention, providing a stable and secure ride for your toddler. Ergonomic Comfort: Equipped with a comfortable seat featuring soft edges and non-slip handles, the Venture Trike ensures a cosy and secure experience for little riders during their early adventures. Indoor & Outdoor Ready: The silent, shock-absorbing wheels are perfect for both indoor play and outdoor exploration, offering a smooth and quiet ride without damaging indoor floors. Developmental Support: Designed to promote early childhood development, the trike helps enhance direction and coordination skills, boosting self-confidence and muscle strength in young children. Durable Build: Crafted from high-quality carbon steel, the Venture Trike is built to last, ensuring years of reliable use as your child grows. Product Specifications: Recommended Age: 18 months to 6 years Material: Carbon Steel Dimensions: Approximately 71 cm (L) x 46 cm (W) x 58 cm (H) Weight: Approximately 3 kg Colour Options: Available in multiple vibrant colours to suit your child's preference The For Your Little One Venture Trike is more than just a tricycle; it's a gateway to adventure, growth, and cherished memories. Let your child's journey begin with the perfect blend of safety, comfort, and fun.
-  Updated: 2025-11-02T13:39:44Z
+  Updated: 2025-11-04T20:47:38Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-venture-trike-green-18-months-6-years-239721.jpg?v=1761998890
   Price: £29.99 GBP
 - [2x FYLO Baby Safety Stair Gate Pressure Fit 75-114cm Extra Wide](https://glamorousboutique.store/products/2x-fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide): This is for a pack of 2 FYLO Baby Safety Stair Gate – Pressure Fit | No Drilling, Easy & Secure Installation The Ultimate Child & Pet Safety Solution for Your Home Keep your little one safe and give yourself peace of mind with the FYLO Baby Safety Stair Gate – Pressure Fit. Designed for quick and tool-free installation, this sturdy and stylish safety gate creates a secure barrier in your home without the need for drilling or permanent fixings. Perfect for staircases, doorways, hallways, and other high-risk areas, it provides reliable protection while allowing easy access for adults. Why Parents & Pet Owners Love This Gate ✅ Hassle-Free Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes.✅ Durable & Sturdy Design – Built from high-quality materials to withstand daily wear and tear, offering long-lasting protection.✅ One-Hand Operation – Easily open and close the gate with one hand, ideal for busy parents holding a child or carrying items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor for a stylish yet functional safety solution.✅ Multi-Purpose Use – Perfect for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Ideal for keeping dogs and other pets in designated spaces while maintaining accessibility.✅ Safety-Certified – Fully tested to meet strict European safety standards, giving you complete confidence in your home’s protection. How the FYLO Safety Gate Benefits You ✔ Instantly create a child-safe environment – Block off dangerous areas like stairs or rooms with potential hazards.✔ No damage to walls or door frames – Perfect for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed to provide constant protection while being easy to use for parents and carers. Order Now for Ultimate Home Safety! Don’t compromise when it comes to your child’s or pet’s safety. Get the FYLO Baby Safety Stair Gate today and enjoy a worry-free home. Click ‘Add to Basket’ now!
-  Updated: 2025-11-02T13:39:48Z
+  Updated: 2025-11-04T23:26:00Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -9961,10 +9961,10 @@
     Availability: Available
     Price: £41.99 GBP
   - [86-93cm (7cm Extension)](https://glamorousboutique.store/products/2x-fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide?variant=55364606492998)
-    Availability: Available
+    Availability: Not Available
     Price: £51.99 GBP
   - [93-100cm (14cm Extension)](https://glamorousboutique.store/products/2x-fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide?variant=55364606525766)
-    Availability: Available
+    Availability: Not Available
     Price: £61.99 GBP
   - [100-107cm (7cm & 14cm Extensions)](https://glamorousboutique.store/products/2x-fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide?variant=55364606558534)
     Availability: Available
@@ -9994,14 +9994,14 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/6-ft-maternity-cover-white-398125.jpg?v=1761998890
   Price: £6.99 GBP
 - [Pod Blue Waffle Moses Basket Bedding Set](https://glamorousboutique.store/products/pod-blue-waffle-moses-basket-bedding-set): Upgrade your little one's sleeping experience with the Pod Blue Waffle Moses Basket Bedding Set. Crafted with top-notch fabrics, this bedding set offers ultimate comfort, softness, and durability, guaranteeing a good night's sleep for your toddler. The attractive waffle pattern adds a touch of beauty to any moses basket design, making it the perfect addition or upgrade for your little one's sleeping space. The soft and comfortable bedding provides a cozy environment, ensuring your child feels snug and secure. Enhanced Comfort: The Pod Blue Waffle Moses Basket Bedding Set is designed to provide the utmost comfort for your child, ensuring they sleep soundly and wake up refreshed. Durable Quality: Made with exceptional fabrics, this bedding set is built to last, withstanding everyday wear and tear for long-lasting use. The Pod Blue Waffle Moses Basket Bedding Set includes essential pieces to create a complete and stylish sleep space. It comes with an outer bedding and a top quilt, offering both practicality and aesthetics. Please note, the wicker basket is not included in this set. Specifications: Attractive waffle pattern Soft and comfortable bedding for Moses basket Upgrade your little one's sleep space with the Pod Blue Waffle Moses Basket Bedding Set. Order now and give your child the gift of comfort and style.
-  Updated: 2025-11-02T13:40:01Z
+  Updated: 2025-11-04T20:21:48Z
   Vendor: For Your Little One
   Product Type: Moses Basket Bedding Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/pod-blue-waffle-moses-basket-bedding-set-998641.png?v=1761998891
   Price: £22.99 GBP
 - [FYLO 3x Baby Safety Stair Gate  Pressure Fit 75-86cm (3 pack)](https://glamorousboutique.store/products/fylo-3x-baby-safety-stair-gate-pressure-fit-75-86cm-3-pack-1): FYLO 3x Baby Safety Stair Gate – Pressure Fit (75-86cm) | Triple the Safety for Your Home Ultimate Protection for Your Little Ones – 3 Pack for Maximum Coverage Ensure the safety of your child with the FYLO 3x Baby Safety Stair Gate – Pressure Fit (75-86cm, 3 Pack). Designed for hassle-free installation and long-lasting durability, this set of three safety gates provides comprehensive protection for staircases, doorways, and hallways, ensuring your child or pet stays safe at all times. Why Parents & Pet Owners Love This Gate Set ✅ 3-Pack for Full Home Coverage – Secure multiple areas of your home with this convenient set of three safety gates.✅ Pressure-Fit Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes with no wall damage.✅ Strong & Sturdy Build – Made from high-quality materials, ensuring long-lasting durability for daily use.✅ One-Hand Operation – Easily open and close the gate with one hand, making it convenient for parents carrying a child or household items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor, adding safety without compromising style.✅ Versatile Multi-Purpose Use – Ideal for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Perfect for keeping dogs and other pets confined to designated areas while maintaining easy adult access.✅ Certified for Safety – Rigorously tested to meet strict European safety standards, giving you peace of mind. How the FYLO Safety Gate Benefits You ✔ Create a child-safe environment instantly – Block off dangerous areas like staircases and restricted rooms.✔ No damage to walls or door frames – Ideal for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed for daily use while being easy to operate. Order Now for Maximum Home Safety! Protect your family with the FYLO 3x Baby Safety Stair Gate and enjoy full-home coverage. Click ‘Add to Basket’ now
-  Updated: 2025-11-02T13:40:06Z
+  Updated: 2025-11-04T23:28:05Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -10036,7 +10036,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-extension-14cm-white-extension-only-3568686.webp?v=1761998891
   Price: £15.99 GBP
 - [FYLO Baby Safety Stair Gate Pressure Fit 75-86cm](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-86cm): FYLO Baby Safety Stair Gate – Pressure Fit | No Drilling, Easy & Secure Installation The Ultimate Child & Pet Safety Solution for Your Home Keep your little one safe and give yourself peace of mind with the FYLO Baby Safety Stair Gate – Pressure Fit. Designed for quick and tool-free installation, this sturdy and stylish safety gate creates a secure barrier in your home without the need for drilling or permanent fixings. Perfect for staircases, doorways, hallways, and other high-risk areas, it provides reliable protection while allowing easy access for adults. Why Parents & Pet Owners Love This Gate ✅ Hassle-Free Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes.✅ Durable & Sturdy Design – Built from high-quality materials to withstand daily wear and tear, offering long-lasting protection.✅ One-Hand Operation – Easily open and close the gate with one hand, ideal for busy parents holding a child or carrying items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor for a stylish yet functional safety solution.✅ Multi-Purpose Use – Perfect for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Ideal for keeping dogs and other pets in designated spaces while maintaining accessibility.✅ Safety-Certified – Fully tested to meet strict European safety standards, giving you complete confidence in your home’s protection. How the FYLO Safety Gate Benefits You ✔ Instantly create a child-safe environment – Block off dangerous areas like stairs or rooms with potential hazards.✔ No damage to walls or door frames – Perfect for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed to provide constant protection while being easy to use for parents and carers. Order Now for Ultimate Home Safety! Don’t compromise when it comes to your child’s or pet’s safety. Get the FYLO Baby Safety Stair Gate today and enjoy a worry-free home. Click ‘Add to Basket’ now!
-  Updated: 2025-11-02T13:41:11Z
+  Updated: 2025-11-04T23:27:58Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -10064,7 +10064,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9-foot-maternity-pillow-and-case-light-blue-691452.jpg?v=1761998892
   Price: £19.99 GBP
 - [Pod Pink Waffle Moses Basket Bedding Set](https://glamorousboutique.store/products/pod-pink-waffle-moses-basket-bedding-set): Introducing the Pod Pink Waffle Moses Basket Bedding Set, the perfect bedding solution for your precious little one. Designed with comfort and style in mind, this luxurious bedding set offers a soft and gentle surface for extended periods of sleep. Crafted using the finest fabrics, this bedding set features a beautiful dimple pattern that adds a touch of elegance to any moses basket. Rest assured knowing that your baby will be safe and cozy, as this bedding set is resistant to irritation and skin-irritation. With its attractive waffle pattern, this bedding set not only provides a comfortable sleeping environment but also enhances the visual appeal of your moses basket. Give your baby the ultimate sleeping experience without compromising on style. Soft and comfortable bedding for your moses basket. Creates a luxurious and cozy sleeping surface for your little one. What's included in this set? You'll receive the outer bedding and a top quilt - everything you need to create a perfectly cozy nest for your baby. As a friendly reminder, please note that the wicker basket is not included with this bedding set. Specifications: Material: High-quality fabrics Pattern: Waffle Upgrade your moses basket with the Pod Pink Waffle Moses Basket Bedding Set. Provide your little one with the ultimate comfort and style they deserve.
-  Updated: 2025-11-02T13:41:25Z
+  Updated: 2025-11-04T23:51:22Z
   Vendor: For Your Little One
   Product Type: Moses Basket Bedding Set
   Availability: Available
@@ -10326,7 +10326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/12-ft-maternity-pillow-and-case-grey-floral-5086677.png?v=1761998893
   Price: £27.99 GBP
 - [Foryourlittleone Xplor Plus 6 in 1 Foldable Trike - Grey Olive (10m-5y)](https://glamorousboutique.store/products/foryourlittleone-xplor-plus-6-in-1-foldable-trike-grey-olive-10m-5y-1): Foryourlittleone Xplor Tricycle – Grey Olive | The Ultimate 8-in-1 Adventure Trike Get this multi-functional Xplor tricycle in Grey Olive for all adventures! With its quick-folding mechanism and travel bag (sold separately), it can be easily stored in any vehicle. The Foryourlittleone trike functions as both a pushchair and a tricycle, giving you full control while supporting your child's growing independence. It starts as a buggy and transforms into a tricycle as they grow. Key Features & Functionality ✔ Suitable from 10 months up to 5 years (Max Weight: 20kg)✔ Quick Folding Mechanism – Compact and travel-friendly (Folded Size: 33x28x63cm)✔ Multi-Functional Design – Transforms from a pushchair to a tricycle (detachable parent handle, guard rail, hood)✔ Puncture-Resistant PU Wheels – Provides a smooth, all-terrain safe commute✔ Parent-Facing Option – Maintain closeness and supervision during rides✔ Free-Wheel Function – Allows toddlers to pedal independently without moving the trike✔ Height-Adjustable Parent Handles – Ensures comfortable steering for parents✔ Removable Canopy & Foldable Hood – Protects from sun and elements✔ Engage Pedals or Freewheeling Mode – Choose based on your child’s needs Safety Features ✔ 5-Point Harness – Keeps your child secure at all times✔ Removable Leather Guard Rail – Extra protection, removable when needed✔ Rear Brake System – Prevents the trike from moving when your child gets in or out✔ Full Parental Control – Linked handlebars allow parents to steer effortlessly✔ Certified Safe – Tested and approved in accordance with European safety standards EN 71-1✔ Max Weight Limit – 20kg Plus Model Accessories ✅ Raincover – Provides all-weather protection✅ Travel Bag – Conveniently store and transport the tricycle Product Dimensions Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33x28x63cm Order Yours Today! Upgrade your child’s outdoor adventures with the Foryourlittleone Xplor Tricycle in Grey Olive – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-11-02T13:42:06Z
+  Updated: 2025-11-04T20:14:38Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
@@ -10537,7 +10537,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/large-buggy-clip-pink-903217.jpg?v=1761998893
   Price: £4.99 GBP
 - [White Waffle White Wicker Baby Moses Basket With Stand](https://glamorousboutique.store/products/white-waffle-white-wicker-baby-moses-basket-with-stand): Discover the perfect blend of style, safety, and comfort with the White Waffle White Wicker Baby Moses Basket With Stand. Designed thoughtfully for infants, this exquisite basket not only enhances your nursery but also creates a serene environment for your little one. The elegant white wicker frame adds a touch of charm to any room, while its handcrafted nature ensures uniqueness and quality. At the heart of this beautiful moses basket lies a commitment to safety and comfort, meeting and exceeding essential standards set by the EU. The rocking stand is a standout feature that allows parents to gently rock their baby to sleep. This soothing motion helps lull your child into a peaceful slumber, making bedtime a more relaxing experience for both baby and parent. In addition, the basket comes equipped with a hypo-allergenic mattress and extra padding, keeping your infant safe and snug. The basket is adorned with a lovely hood and quilt, further enhancing its cosy appeal. Maintenance is hassle-free, as all the fabrics used are machine washable. This ensures that you can keep the basket fresh and clean with minimal effort. Plus, its universal design means it can accommodate similar bedding products, providing you with versatile options for your nursery. The polyester-cotton blend fabric promotes breathability, ensuring your baby stays comfortable during warmer months while providing warmth when the temperature drops. Invest in your baby's comfort and security with this stunning Moses basket. You’ll find peace of mind knowing that every aspect of its design prioritises your infant’s wellbeing. Additionally, the specifications confirm its quality: Exceeds the latest EU standard EN 1466:2014+AC:2015 Hand woven Space-Tec Padding Hypo-Allergenic Superb mattress Superb quality craftsmanship Includes a rocking stand for gentle motion Wicker basket dimensions: 83cm length, 49cm width Mattress dimensions: 66cm length, 29cm width The White Waffle White Wicker Baby Moses Basket With Stand is the ideal choice for parents seeking a stylish, safe, and comfortable sleeping solution for their newborn. Embrace this beautiful addition to your home and ensure your baby enjoys sweet dreams in serene surroundings.
-  Updated: 2025-11-02T13:43:00Z
+  Updated: 2025-11-04T19:55:21Z
   Vendor: For Your Little One
   Product Type: Wicker Moses Basket
   Availability: Available
@@ -10558,7 +10558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/breast-feeding-nursing-pillow-little-blue-star-cover-only-254063.jpg?v=1761998894
   Price: £9.99 GBP
 - [Foryourlittleone 6 in 1 Trike V3 - Grey (9 months - 5 years)](https://glamorousboutique.store/products/foryourlittleone-6-in-1-trike-v3-grey-9-months-5-years-1): Foryourlittleone Trike V3 – The Ultimate 2-in-1 Stroller & Tricycle for Growing Explorers Give your little one the best of both worlds with the Foryourlittleone Trike V3 in sleek grey. Designed to grow with your child from 9 months to 5 years (up to 25kg), this multi-functional tricycle transforms from a parent-controlled stroller into an independent trike, making every ride safe, fun, and developmentally enriching. Why Choose the Foryourlittleone Trike V3? ✔ 2-in-1 Stroller & Trike: Start with full parental control and gradually transition into a self-riding tricycle as your child gains confidence.✔ Smooth & Secure Rides: Height-adjustable parent handles, a rear brake system, and puncture-resistant EVA foam wheels ensure stability across different terrains.✔ Safety First: Equipped with a lap belt harness, an expandable hood, and a foldable footrest for added comfort and protection.✔ Convenient & Fun Features: Includes a bell on the child handlebar, a handy storage bag, and both front and rear baskets for carrying essentials.✔ Certified Quality: Rigorously tested to meet European safety standards EN 71-1, ensuring a safe and reliable experience for both parent and child. Product Specifications: 👕 Dimensions (LxWxH): 108cm x 52.5cm x 97cm⚖ Weight: 8kg🔧 Adjustable Handlebar Height: 94cm – 97cm Upgrade your child's outdoor adventures with the Foryourlittleone Trike V3 – a stylish, safe, and practical choice for every stage of their journey. 👉 Order yours today and enjoy stress-free strolls and exciting rides!
-  Updated: 2025-11-02T13:43:24Z
+  Updated: 2025-11-04T20:30:16Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
@@ -10640,7 +10640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/12-ft-maternity-pillow-cover-light-blue-879590.jpg?v=1761998893
   Price: £7.99 GBP
 - [Wicker Deluxe Pod Baby Moses Basket With Stand](https://glamorousboutique.store/products/wicker-deluxe-pod-baby-moses-basket-with-stand): Combining style, comfort and safety, the wicker Moses basket would make a great addition to any nursery. It features waffle Moses dressing that adds to the overall visual appeal. This wicker pod is paired with a firm hypo-allergenic mattress that provides necessary support to the baby’s back while sleeping and space-tec padding that offers extra cushioning. The baby Moses basket includes a cosy quilt that ensures optimum comfort. Suitable for use from birth, the infant Moses basket includes a rocking stand which is sure to help you in soothing your little one. The Moses basket stand also makes it easy to reach the baby and keep an eye on him/her. Key Features: Classy, aesthetically-pleasing design Comes with portable rocking stand Includes waffle pattern bedding for stylish appeal Easy-clean breathable dressing (tailored with cotton and polyester blend) Includes dressing, quilt, hypo-allergenic mattress, handwoven space-tec padding Complies with latest EU standard BSEN 1466:2014 Specifications: Pod Wicker Basket: 94cm (L) x 40cm (W)
-  Updated: 2025-11-02T13:44:19Z
+  Updated: 2025-11-04T23:42:47Z
   Vendor: For Your Little One
   Product Type: Pod Moses Basket
   Availability: Available
@@ -10662,7 +10662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-deluxe-pod-baby-moses-basket-with-stand-6405164.png?v=1761998895
     Price: £74.99 GBP
   - [White / Waffle / Grey](https://glamorousboutique.store/products/wicker-deluxe-pod-baby-moses-basket-with-stand?variant=55364613013830)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-deluxe-pod-baby-moses-basket-with-stand-1366805.png?v=1761998895
     Price: £74.99 GBP
   - [White / Dimple / White](https://glamorousboutique.store/products/wicker-deluxe-pod-baby-moses-basket-with-stand?variant=55364613046598)
@@ -10682,7 +10682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-deluxe-pod-baby-moses-basket-with-stand-4777587.png?v=1761998895
     Price: £74.99 GBP
   - [White / Dimple / Grey](https://glamorousboutique.store/products/wicker-deluxe-pod-baby-moses-basket-with-stand?variant=55364613177670)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-deluxe-pod-baby-moses-basket-with-stand-9924299.png?v=1761998895
     Price: £74.99 GBP
   - [Grey / Waffle / White](https://glamorousboutique.store/products/wicker-deluxe-pod-baby-moses-basket-with-stand?variant=55364613210438)
@@ -10725,7 +10725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-deluxe-pod-baby-moses-basket-with-stand-2270607.png?v=1761998895
     Price: £74.99 GBP
 - [FYLO Baby Safety Stair Gate Pressure Fit 75-114cm Extra Wide](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide-1): FYLO Baby Safety Stair Gate – Pressure Fit | No Drilling, Easy & Secure Installation The Ultimate Child & Pet Safety Solution for Your Home Keep your little one safe and give yourself peace of mind with the FYLO Baby Safety Stair Gate – Pressure Fit. Designed for quick and tool-free installation, this sturdy and stylish safety gate creates a secure barrier in your home without the need for drilling or permanent fixings. Perfect for staircases, doorways, hallways, and other high-risk areas, it provides reliable protection while allowing easy access for adults. Why Parents & Pet Owners Love This Gate ✅ Hassle-Free Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes.✅ Durable & Sturdy Design – Built from high-quality materials to withstand daily wear and tear, offering long-lasting protection.✅ One-Hand Operation – Easily open and close the gate with one hand, ideal for busy parents holding a child or carrying items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor for a stylish yet functional safety solution.✅ Multi-Purpose Use – Perfect for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Ideal for keeping dogs and other pets in designated spaces while maintaining accessibility.✅ Safety-Certified – Fully tested to meet strict European safety standards, giving you complete confidence in your home’s protection. How the FYLO Safety Gate Benefits You ✔ Instantly create a child-safe environment – Block off dangerous areas like stairs or rooms with potential hazards.✔ No damage to walls or door frames – Perfect for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed to provide constant protection while being easy to use for parents and carers. Order Now for Ultimate Home Safety! Don’t compromise when it comes to your child’s or pet’s safety. Get the FYLO Baby Safety Stair Gate today and enjoy a worry-free home. Click ‘Add to Basket’ now!
-  Updated: 2025-11-02T13:44:25Z
+  Updated: 2025-11-04T23:28:02Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -10735,15 +10735,15 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-78-114cm-extra-wide-671316_31312944-a85d-4e1a-870f-ea75786620da.webp?v=1761998894
     Price: £22.99 GBP
   - [86-93cm (7cm Extension)](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide-1?variant=55364612751686)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-75-86cm-damaged-box-3994068_f81bc48a-3864-4a7b-9bbf-f3674a4ad4e7.png?v=1761998894
     Price: £26.99 GBP
   - [93-100cm (14cm Extension)](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide-1?variant=55364612784454)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-78-114cm-extra-wide-907574_dc59ee1e-c337-479c-8f25-b3a621e8e186.webp?v=1761998894
     Price: £29.99 GBP
   - [100-107cm (7cm & 14cm Extensions)](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide-1?variant=55364612817222)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-78-114cm-extra-wide-725588_99dc7876-b410-4aa4-a633-c7176a9ab7fa.webp?v=1761998894
     Price: £34.99 GBP
   - [107-114cm  (2x 14cm Extensions)](https://glamorousboutique.store/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide-1?variant=55364612849990)
@@ -10751,7 +10751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-78-114cm-extra-wide-843253_baa601f1-b7ca-487d-ab72-ff621a182695.webp?v=1761998893
     Price: £39.99 GBP
 - [Pod Grey Waffle Moses Basket Bedding Set](https://glamorousboutique.store/products/pod-grey-waffle-moses-basket-bedding-set): Introducing the Pod Grey Waffle Moses Basket Bedding Set, the perfect addition to provide your baby with ultimate comfort and style. This premium bedding set features a beautiful dimple waffle pattern that adds a touch of elegance to any Moses basket. Crafted with the highest quality fabrics, it ensures exceptional softness that is gentle on your baby's delicate skin, allowing them to enjoy peaceful and uninterrupted sleep for extended periods. The Pod Grey Waffle Moses Basket Bedding Set is not only incredibly soft but also designed to keep your baby comfortable throughout the day and night. Its luxurious texture provides a cozy and snug environment, promoting relaxation and a sense of security. Say goodbye to chaffing and rashes - this bedding set is expertly crafted to prioritize your baby's wellbeing. Experience the convenience and versatility of the Pod Grey Waffle Moses Basket Bedding Set. It perfectly complements any Moses basket design, effortlessly enhancing its attractiveness and style. The set includes outer bedding and a top quilt, ensuring that your baby is wrapped in pure comfort and warmth. Key Features: Stunning dimple waffle pattern for an eye-catching look Exceptionally soft and comfortable bedding, ensuring your baby's utmost comfort Invest in this exquisite Pod Grey Waffle Moses Basket Bedding Set, and provide your baby with supreme comfort and style. Please note that the wicker basket is not included.
-  Updated: 2025-11-02T13:44:28Z
+  Updated: 2025-11-04T19:42:46Z
   Vendor: For Your Little One
   Product Type: Moses Basket Bedding Set
   Availability: Available
@@ -10889,7 +10889,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/pink-dimple-moses-basket-bedding-set-260088.jpg?v=1761998895
   Price: £22.99 GBP
 - [Wicker Moses Basket](https://glamorousboutique.store/products/wicker-moses-basket): Elegant & Comfortable Wicker Moses Basket – Lightweight & Portable PLEASE NOTE - THE ROCKING STAND IS NOT INCLUDED! Your little one spends a lot of time sleeping, and with this lightweight and portable Moses basket, you can keep them close as you move about your day. Designed for convenience and comfort, the Foryourlittleone Wicker Moses Basket features durable handles, making it easy to carry your baby from room to room. Comfort & Style in One ✔ Lightweight & Portable: Easy-to-carry design with durable handles for effortless mobility.✔ Ultra-Comfortable Sleeping Space: Comes with a firm hypo-allergenic mattress and super cosy Space-Tec padding to ensure a soothing sleep.✔ Stylish Waffle-Pattern Bedding: The waffle-pattern exterior dressing adds a touch of elegance while keeping your baby snug.✔ Breathable & Easy to Maintain: Machine-washable fabrics made from a tear-resistant cotton and polyester blend for durability and breathability.✔ Versatile Placement: This universal Moses basket can be placed on a stand (sold separately) or directly on a bed to suit your needs. Key Features ✔ Universal Wicker Basket with a classic, timeless design✔ Includes elegant waffle-pattern bedding for a refined look✔ Compatible with wooden rocking stands (sold separately)✔ Breathable & machine-washable fabrics (cotton and polyester blend)✔ Complete Set: Includes dressing, quilt, hood, hypo-allergenic mattress, and handwoven Space-Tec padding✔ Certified Safety: Complies with latest EU standard EN 1466:2014+AC:2015 Specifications Wicker Basket: 83cm (L) x 49cm (W) Mattress: 66cm (L) x 29cm (W) 🛒 Order now and create a cosy, stylish, and portable sleeping space for your little one!
-  Updated: 2025-11-02T13:45:50Z
+  Updated: 2025-11-04T23:55:33Z
   Vendor: For Your Little One
   Product Type: Wicker Moses Basket
   Availability: Available
@@ -10899,11 +10899,11 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-905417.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Waffle / Blue](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364614848838)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-396860.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Waffle / Pink](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364614881606)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-889943.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Waffle / Cream](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364614914374)
@@ -10919,7 +10919,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-859412.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Dimple / Blue](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615012678)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-833551.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Dimple / Pink](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615045446)
@@ -10931,7 +10931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-646147.jpg?v=1761998896
     Price: £42.99 GBP
   - [White / Dimple / Grey](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615110982)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-459412.jpg?v=1761998896
     Price: £42.99 GBP
   - [Grey / Waffle / White](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615143750)
@@ -10959,7 +10959,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-589728.jpg?v=1761998896
     Price: £42.99 GBP
   - [Grey / Dimple / Blue](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615340358)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/wicker-moses-basket-543652.jpg?v=1761998897
     Price: £42.99 GBP
   - [Grey / Dimple / Pink](https://glamorousboutique.store/products/wicker-moses-basket?variant=55364615373126)
@@ -10982,7 +10982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9-ft-maternity-pillow-and-case-cream-963076.jpg?v=1761998896
   Price: £24.99 GBP
 - [Universal Rain Cover For Buggys - Fits All Models](https://glamorousboutique.store/products/universal-rain-cover-for-buggys-fits-all-models): This Universal Rain Cover for Buggys is the perfect accessory to keep your toddler's stroller, buggy, or pram protected from unexpected rain showers. With its durable 250 micron PVC material, this rain cover ensures that no water penetrates while still providing ventilation and breathability for your little one. Designed with utmost convenience in mind, this rain cover is incredibly easy to use and maintain. It can be quickly attached or removed from your stroller or buggy, making it ideal for parents on the go. When not in use, simply fold it up for hassle-free storage and portability. One of the key features of this rain cover is its excellent visibility. You'll never have to worry about losing sight of your child, as this cover offers optimum visibility even when it's protecting them from the rain. This ensures that you can keep an eye on your little one without having to remove the cover. In addition, this rain cover provides protection against cold winds, ensuring utmost comfort for your child during those chilly strolls. Say goodbye to damp and uncomfortable rides, and give your little one a dry and cozy environment. Made with finest-grade 250-micron PVC material for durability. Provides optimum visibility and breathability while protecting your child. With the Universal Rain Cover for Buggys, you can have peace of mind knowing that your child is protected from the elements. Don't let unpredictable weather ruin your plans - invest in this practical and durable rain cover today.
-  Updated: 2025-11-02T13:45:59Z
+  Updated: 2025-11-04T23:17:16Z
   Vendor: For Your Little One
   Product Type: Buggy Raincover
   Availability: Available
@@ -11163,7 +11163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/breast-feeding-maternity-nursing-pillow-little-star-blue-9559096_5ff8d499-5f71-459f-a3ca-5ab3a662ca90.png?v=1761998898
   Price: £15.99 GBP
 - [Twin Pregnancy Nursing Pillow - Pixie](https://glamorousboutique.store/products/twin-pregnancy-nursing-pillow-pixie): For Your Little One - Twin Pregnancy & Nursing Pillow in Pixie Design The Twin Pregnancy Nursing Pillow in Pixie Design is an essential companion for parents of twins, offering superior comfort and support for both pregnancy and tandem feeding. Designed with ergonomic precision, this pillow helps alleviate strain on the back, neck, and shoulders, ensuring a more relaxed experience for parents. Key Benefits & Features: ✔ Perfect for Twins: Provides ample space for tandem breastfeeding or bottle feeding, making nursing more efficient and comfortable.✔ Ergonomic Support: Ideal for pregnancy back support, postpartum recovery, and tummy time for little ones.✔ Soft & Durable Fabric: Gentle against delicate skin while being robust for daily use.✔ Whimsical Pixie Design: Adds a playful charm to your nursery and enhances feeding moments with a delightful touch.✔ Lightweight & Portable: Easy to carry for use at home or on the go, ensuring comfort wherever you need it.✔ Multi-Functional: Also serves as a cushion for propping up babies as they learn to sit. Specifications: Material: Soft, breathable fabric with premium polyester filling Designed For: Pregnancy, tandem nursing, and baby support Design: Eye-catching Pixie motif for a fun and charming aesthetic The For Your Little One Twin Pregnancy Nursing Pillow is an essential, multi-functional parenting tool that provides unmatched comfort and practicality for both you and your little ones.
-  Updated: 2025-11-02T13:46:45Z
+  Updated: 2025-11-04T22:26:51Z
   Vendor: For Your Little One
   Product Type: Twin Nursing Pillows
   Availability: Available
@@ -11223,7 +11223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9-ft-maternity-cover-white-169045.jpg?v=1761998898
   Price: £6.99 GBP
 - [Breast Feeding Maternity Nursing Pillow - Silver Twinkle](https://glamorousboutique.store/products/breast-feeding-maternity-nursing-pillow-silver-twinkle): The Silver Twinkle Breastfeeding Maternity Nursing Pillow combines comfort and elegance, making it the perfect addition to your parenting essentials. Its ergonomic shape provides much-needed support during nursing and pregnancy, reducing strain and enhancing relaxation. Whether you’re feeding your baby or seeking comfort during pregnancy, this pillow is a versatile and stylish solution. Key Features: Ergonomic Comfort: Supports proper posture and reduces back and shoulder strain during nursing and relaxation. Soft and Gentle Fabric: Made with a luxurious, skin-friendly material that’s durable and soft to the touch. Multi-Purpose Design: Ideal for breastfeeding, tummy time, and pregnancy support. Elegant Twinkle Design: Features a sophisticated silver fabric with a subtle twinkle pattern for added charm. Portable and Easy to Clean: Lightweight, portable, and simple to maintain for on-the-go use. Side to side Width- 63cm Front to back - 50cm Height - 15cm
-  Updated: 2025-11-02T13:46:58Z
+  Updated: 2025-11-04T21:06:52Z
   Vendor: For Your Little One
   Product Type: Nursing Pillows
   Availability: Available
@@ -11345,7 +11345,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9ft-maternity-pregnancy-support-pillow-no-case-748616.jpg?v=1761998899
   Price: £19.99 GBP
 - [Extendable Baby Fireguard](https://glamorousboutique.store/products/extendable-baby-fireguard): Keep Your Little One Safe with the Extendable Baby Fireguard Create a safer home environment with our Extendable Baby Fireguard, the essential childproofing accessory for families with young children. Designed to offer maximum protection around open fires and stoves, this premium fireguard ensures peace of mind—without compromising on style. Why Parents Love It ✅ Flexible, Extendable Protection – Features two overlapping panels that easily pull apart to fit your space, adjusting from 96.5cm to 168cm in width for full coverage. ✅ Secure & Stable – Easily mounts to walls or solid surfaces, forming a protective barrier to keep your child safe from open flames or hot surfaces. ✅ Durable Build – Constructed from high-quality materials that withstand daily use and resist wear and tear for long-term performance. ✅ Stylish Black Finish – Timeless black colour blends effortlessly into modern or classic home interiors for a sleek, discreet look. ✅ Easy to Install & Remove – Set it up quickly when needed and detach just as easily for fireplace access or seasonal storage. ✅ Compact & Lightweight – Designed for hassle-free movement and storage, making it ideal for any home setup. Product Specifications Colour: Classic black Dimensions: 46cm (D) x 66cm (H) x 96.5cm–168cm (W) Material: Premium steel construction Assembly: Wall-mountable (fixings not included) Protect what matters most. Add the Extendable Baby Fireguard to your home today and create a safer space for your little one—without sacrificing your style.
-  Updated: 2025-11-02T13:47:26Z
+  Updated: 2025-11-04T22:59:36Z
   Vendor: For Your Little One
   Product Type: Fireguard
   Availability: Available
@@ -11980,7 +11980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign-2025-08-08T145456.340.png?v=1762023775
   Price: £54.99 GBP
 - [Lego City 60451 Emergency Ambulance Playset for Ages 5 and Up](https://glamorousboutique.store/products/lego-city-60451-emergency-ambulance-playset-for-ages-5-and-up): Action-packed rescue missions await with this LEGO City Emergency Ambulance toy (60451) for 5 plus year old boys and girls. This LEGO City set features a toy ambulance with fold-up side panels and opening doors for easy access to the onboard stretcher and medical equipment, including a toy syringe, bandage and medic bag. The educational toy also includes a skateboard and skate ramp setting, plus skateboarder and paramedic LEGO City minifigures for fun storytelling. This doctor role-play toy includes a step-by-step printed construction guide and 3D instructions in the LEGO Builder app. Here kids can explore and save playsets, track their building progress, and zoom and rotate to view building toys from all angles as they build. LEGO City Great Vehicles playsets deliver feature-rich land, air and water toys for imaginative play without limits. Recommended for ages 5+
-  Updated: 2025-11-02T13:58:25Z
+  Updated: 2025-11-04T19:48:20Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
@@ -12358,7 +12358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign-2025-08-09T142246.791.png?v=1762023787
   Price: £22.99 GBP
 - [Lego Jurassic World 76970 Baby Dinosaur Dolores: Aquilops for Ages 7+](https://glamorousboutique.store/products/lego-jurassic-world-76970-baby-dinosaur-dolores-aquilops-for-ages-7): Enchant dinosaur fans with a LEGO Jurassic World set for kids, featuring an Aquilops baby dinosaur toy with moving head, jaw, arms, legs and tail. Adventures await kids and fans who want to start or add to their dinosaur collection with this fun LEGO Jurassic World Baby Dinosaur Dolores: Aquilops (76970) dinosaur toy for 7+ year old girls and boys. This play-and-display Jurassic World toy features a brick-built baby Aquilops dinosaur figure for kids and a buildable plant with flowers. The Baby Dolores dino toy has a movable head, arms and legs that encourage a range of poses, plus a moving tail and an opening jaw to show her delight when she eats her plant meal. Once playtime is over for the day, this cute toy dinosaur figure can be placed on a shelf or desk to show it off. This dinosaur gift for 7+ year old girls and boys is great for imaginative play and can work with other LEGO Jurassic World building sets (sold separately). The role-play toy for kids lets them recreate scenes from the film or indulge in their passion for different Jurassic World dinosaurs. The Baby Dinosaur Dolores: Aquilops buildable toy measures over 11 cm (4.5 in.) high, 20 cm (7.5 in.) long and 15 cm (6 in.) wide. Suitable for children aged 7 and up.
-  Updated: 2025-11-02T14:03:22Z
+  Updated: 2025-11-04T19:52:02Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Jurassic Park
   Availability: Available
@@ -12757,14 +12757,14 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign_86.png?v=1762023812
   Price: £129.99 GBP
 - [Lego Speed Champions 77250 MoneyGram Haas F1 Team VF-24 Race Car 10+](https://glamorousboutique.store/products/lego-speed-champions-77250-moneygram-haas-f1-team-vf-24-race-car-10): LEGO Speed Champions MoneyGram Haas F1 Team VF-24 Race Car toy for 10 plus year old boys and girls (77250) lets kids enjoy all the fun and excitement of Formula 1. Young motorsport fans and adult car collectors can build, display and play out races with an F1 race car model featuring design details from the real-life version that competed in the 2024 Formula 1 season. This F1 car toy features a cockpit that opens by lifting the halo bar, a rear wing, wishbone suspension, sponsor stickers and wider rear tyres imprinted with “Pirelli.” The F1 race car also comes with a driver minifigure wearing a MoneyGram Haas F1 Team outfit and a winged helmet to place inside the cockpit. Builders can create their LEGO vehicle using the included building instructions, or on the LEGO Builder app which will guide you and your kid on a fun-fuelled building adventure. LEGO Speed Champions sets lets kids and racing fans build models of some of the world’s most iconic vehicles, including other Formula 1 cars (sold separately) from the 2024 championship season. This LEGO Haas set makes a great birthday gift for 10 plus year old boys, girls and adult F1 fans. Suitable for children aged 10 and up.
-  Updated: 2025-11-02T14:08:49Z
+  Updated: 2025-11-04T23:08:15Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Speed Champions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign-2025-08-09T140501.466.png?v=1762023812
   Price: £22.99 GBP
 - [Lego Speed Champions 77238 Lamborghini Revuelto & Huracán STO Ages 10+](https://glamorousboutique.store/products/lego-speed-champions-77238-lamborghini-revuelto-huracan-sto-ages-10): LEGO Speed Champions Lamborghini double pack lets kids collect, build, play with and display Revuelto and Huracán STO car models with 2 minifigures. Kids can explore Lamborghini’s distinctive style, engineering and design with this double pack of LEGO Speed Champions Lamborghini Revuelto & Huracán STO (77238) toy cars for 10+ year old boys and girls. The Revuelto, with its V12 engine, is the Italian carmaker’s most powerful model ever and the Huracán STO is designed for both the street and track. Both car models include authentic Lamborghini details from the real-life vehicles, including the air intakes, wings and futuristic Y-shaped headlights and rear lights. Each car toy comes with a LEGO driver minifigure for kids to place behind the wheel and play out races. LEGO Speed Champions car model kits let kids and car fans build replica versions of some of the world’s most iconic vehicles. Each LEGO car can be created using printed building instructions or the LEGO Builder app. This model kit with 2 LEGO race cars to build, display and play out stories with makes a great gift for 10+ year old boys, girls and adult collectors. The 2 Lamborghini toy cars, each measure over 4 cm (1.5 in.) high, 16 cm (6 in.) long and 8 cm (3 in.) wide. Suitable for children aged 10 and up.
-  Updated: 2025-11-02T14:08:54Z
+  Updated: 2025-11-04T22:44:35Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Speed Champions
   Availability: Available
@@ -13043,13 +13043,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign-2025-08-09T155803.601_d993d4f6-0305-4f6f-bd50-1bbcf2b118c7.png?v=1762023823
   Price: £12.99 GBP
-- [Lego Valentine's Day 40711 Hedgehog Picnic Date Gift for Ages 8 and Up](https://glamorousboutique.store/products/lego-valentines-day-40711-hedgehog-picnic-date-gift-for-ages-8-and-up): Celebrate any special occasion with this adorable LEGO Hedgehog Picnic Date animal building toy set. Kids can build, display and stage stories with a playset featuring 2 hedgehog toys sitting beneath a heart-shaped mushroom on a heart-shaped base. This colourful LEGO toy animal set is packed with added play value for kids. The animal figures can be detached from the bench to stand freely, or they can sit and enjoy a picnic with a blanket, rose, cups, pie and a yellow butterfly. They can also hold the cups in their paws. This playset makes a great LEGO gift for 8 plus year old girls and boys to celebrate any special occasion, including Valentine’s Day, and it can be added to other LEGO building sets (sold separately) so kids can enjoy even bigger animal stories. The hedgehogs make an attractive display item on a shelf or bedside table once playtime is over. Recommended for ages 8+
-  Updated: 2025-11-02T14:12:44Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > Other LEGO Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/C021226-lego-40711-hedgehog-picnic-front_20897080-aef2-4ca1-8e2f-bfb2b6060a0b.png?v=1762023823
-  Price: £10.99 GBP
 - [Lego Technic 42209 Volvo L120 Electric Wheel Loader for Ages 9 and Up](https://glamorousboutique.store/products/lego-technic-42209-volvo-l120-electric-wheel-loader-for-ages-9-and-up): Here’s a fun construction toy for 9+ year old boys and girls, with a modern twist. The LEGO Technic Volvo L120 Electric Wheel Loader (42209) encourages kids to think about green energy as they build and play with the feature-packed LEGO vehicle. With this construction vehicle toy, kids can put the loader to work as they test out the articulated steering. Next, they can raise, lower and tilt the shovel then open the engine cover to inspect the 3 spinning gears. The model is not motorised, so kids can use their imaginations as they pretend to charge the loader. LEGO Technic building sets feature realistic movement to introduce young LEGO builders to the universe of engineering. This model kit makes a great gift for 9+ year old boys and girls who love vehicle toys. Give kids an easy and intuitive building adventure with the LEGO Builder app, where they can zoom in and rotate models in 3D, save sets and track their progress. Suitable for children aged 9 and up.
   Updated: 2025-11-02T14:12:48Z
   Vendor: Curious Minds
@@ -13232,13 +13225,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Untitleddesign-2025-08-08T144430.922.png?v=1762023829
   Price: £12.99 GBP
-- [Lego Duplo Town 10994 3 in 1 Family House for Toddlers Ages 2 and Up](https://glamorousboutique.store/products/lego-duplo-town-10994-3-in-1-family-house-for-toddlers-ages-2-and-up): Welcome to the LEGO® DUPLO® Town 3in1 Family House (10994) toy, where a world of kids’ learning awaits. Packed with authentic details, this house lets toddlers aged 2+ and parents play out precious family moments. With 7 figures included, parents can enjoy teaching social skills while kids explore their own self-expression. For kids who love playing house - There’s a huge diversity of early learning opportunities packed into this toy house. Toddlers play out bedtime routines, including toothbrushing and story time tucked up in the toy bunk bed, where they can create a cozy mood using the light brick in the star lamp. They learn about healthy food in the kitchen or by picking the toy tomatoes and carrots in the garden. Inside the garage there’s a buildable electric toy car ‘charged’ by solar panels that has a fun push-and-go function for action play. Truly creative building - The house can be built 3 ways to keep playtimes fresh. Toddlers can make one large 3-story home, a tall toybuilding or 2 smaller dwellings connected by a garden. Suitable for children aged 2 and up.
-  Updated: 2025-11-02T14:15:02Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Duplo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/10994_Box1_v29.png?v=1762023830
-  Price: £124.99 GBP
 - [Lego City 60442 F1 Driver with McLaren Race Car Playset for Age 6 & Up](https://glamorousboutique.store/products/lego-city-60442-f1-driver-with-mclaren-race-car-playset-for-age-6-up): Kids can dive into the excitement of high-speed racing with the LEGO City F1 Driver with McLaren Race Car (60442) toy for 6+ year old boys and girls. Discover the dynamic line-up of F1-themed LEGO sets for kids and adults. Perfect for young race enthusiasts, the mini LEGO F1 car toy features a super-aerodynamic Formula 1 design with slick tyres and comes with an F1 McLaren driver minifigure for imaginative play and storytelling. This kids' building toy includes a step-by-step printed construction guide and digital instructions in the LEGO Builder app. Here, kids can zoom in and rotate models in 3D, track their progress as they build, and explore and save other playsets. Recommended for ages 6+ Children grow up surrounded by amazing vehicles and machines and with LEGO City building toy sets they get to explore them up close with realistic models and fun characters for role play. This race car toy set makes a fun birthday gift for boys and girls aged 6 and over, plus kids can add it to others (sold separately) from the LEGO City F1 range for more exciting race action.Suitable for children aged 6 and up.
   Updated: 2025-11-02T14:15:06Z
   Vendor: Curious Minds
