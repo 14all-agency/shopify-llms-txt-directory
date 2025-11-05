@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-11-04T22:26:34.239Z
+- Updated At: 2025-11-05T00:01:11.337Z
 
 ## Products
 
@@ -540,7 +540,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Full-Machine-Made-Long-Wave-Wigs-26-Brinxx-Couture-1647.jpg?v=1739988357
   Price: $35.00 USD
 - [26'' Blonde Straight Wig Multi Color - Brinxx Couture](https://www.brinxxcouture.com/products/blonde-straight-wig-multi-color): This 26'' Blonde Straight Wig  adds a sleek, classic style to your look. Featuring synthetic hair, the wig provides a natural look and feel also manageability.
-  Updated: 2025-10-29T15:00:43Z
+  Updated: 2025-11-04T23:23:44Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12588,7 +12588,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-11-03T11:10:35Z
+  Updated: 2025-11-04T23:21:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12598,7 +12598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / L](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799532726)
@@ -35611,7 +35611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
     Price: $54.99 USD
 - [Ruched Bodycon Dress with Bow Detail | Brinxx Couture](https://www.brinxxcouture.com/products/ruched-bodycon-dress-bow-detail-long-sleeve): Elegant long sleeve bodycon dress with ruched detail and bow accent. Slim fit, crew neck, polyester fabric. Perfect for dates and parties.
-  Updated: 2025-11-04T14:49:54Z
+  Updated: 2025-11-04T22:47:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35641,7 +35641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN011OyXzX2L3LZxTgfVz__2220598849636-0-cib.jpg?v=1762267793
     Price: $34.99 USD
 - [Hooded Faux Fur Coat - Mid-Length | Brinxx Couture](https://www.brinxxcouture.com/products/hooded-faux-fur-coat-mid-length): Luxurious hooded faux fur coat with mid-length design. Premium artificial mink hair, loose fit, hook closure. Perfect winter warmth and style.
-  Updated: 2025-11-04T14:35:14Z
+  Updated: 2025-11-04T22:47:23Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35675,7 +35675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN017KSDGw1DpQ2dGewiB__3240830265-0-cib_f6f8e6ea-cbfa-40b1-86bd-03e4fac1f554.jpg?v=1761313923
     Price: $139.99 USD
 - [Cotton Zip-Up Track Suit - Loose Fit | Brinxx Couture](https://www.brinxxcouture.com/products/cotton-zip-up-track-suit-loose-fit): Comfortable cotton track suit with zip-up jacket and high-rise pants. Loose fit, practical pockets, breathable fabric. Perfect athleisure set.
-  Updated: 2025-11-04T14:28:47Z
+  Updated: 2025-11-04T22:47:23Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
