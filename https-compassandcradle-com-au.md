@@ -8,12 +8,12 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-01T16:00:39.256Z
+- Updated At: 2025-11-05T00:00:27.928Z
 
 ## Products
 
 - [Requires Snacks Tee| Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/requires-snacks-tee): Requires Snacks tee — soft cotton, oversized fit, fun slogan. Pair with matching “Snack Provider” tee for mum & child. Shop now!
-  Updated: 2025-10-30T11:35:19Z
+  Updated: 2025-11-04T08:40:33Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -43,11 +43,11 @@
     Availability: Available
     Price: $37.00 AUD
 - [Snack Tee | Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/snack-tee-adults): Snack Tee- Embrace your snack hero status with our Snack Provider Adult Tee. Soft, relaxed-fit, and perfect for matching with the kids. Shop now!
-  Updated: 2025-10-30T11:35:18Z
+  Updated: 2025-11-04T08:40:33Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/30813250-0DC6-417E-B4F7-5C0D59FB891A.jpg?v=1761824106
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/30813250-0DC6-417E-B4F7-5C0D59FB891A.jpg?v=1762245632
   - [X-Small](https://compassandcradle.com.au/products/snack-tee-adults?variant=50221941326109)
     Availability: Available
     Price: $43.00 AUD
@@ -64,7 +64,7 @@
     Availability: Available
     Price: $43.00 AUD
 - [Dummy Holder | 100% Food Grade Silicone](https://compassandcradle.com.au/products/dummy-holder): Say goodbye to lost pacifiers and unnecessary plastic exposure! Our Silicone Dummy Holder is made from soft, BPA-free silicone, offering a safe and hygienic way to store pacifiers while on the go
-  Updated: 2025-10-30T11:35:19Z
+  Updated: 2025-11-04T08:39:56Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $8.00 AUD
 - [Quick Drying Terry Towel Set - Cray Cray on Vacay- Sky Blue](https://compassandcradle.com.au/products/cray-cray-on-vacay-quick-drying-terry-towel-set): Made from soft, absorbent terry cotton, this quick drying terry towel set keeps little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-10-30T11:35:18Z
+  Updated: 2025-11-04T08:40:12Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -169,19 +169,52 @@
   - [$223](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion?variant=50552640307485)
     Availability: Available
     Price: $223.36 AUD
-- [Acid Wash Kids Cap (Ages 1-6) | Barefoot Bandit Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Barefoot Bandit Acid Wash Kids Cap (Ages 1–6) Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-10-30T20:11:18Z
+- [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
+  Updated: 2025-11-04T08:38:59Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0773.jpg?v=1761813180
-  Price: $19.99 AUD
-- [Acid Wash Kids Cap (Ages 1–6) | Mums Fan Club Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-ages-1-6-mums-fan-club-light-brown): Mums Fan Club Acid Wash Kids Cap (Ages 1–6) Keep your little one looking cool and comfy with our Acid Wash Kids Cap, designed to fit children aged 1–6 years. Made from soft, breathable cotton, this toddler/kids cap features a stylish acid wash finish for that effortlessly vintage look. With an adjustable back strap, it’s perfect for growing kids and everyday adventures — from park playdates to family outings. A must-have accessory for both boys and girls, this kids hat adds the perfect finishing touch to any outfit. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a snug fit Soft cotton fabric with acid wash color Unisex design for boys and girls Durable, lightweight, and easy to wear
-  Updated: 2025-10-30T22:10:16Z
+  - [Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown?variant=50573837304093)
+    Availability: Available
+    Price: $19.99 AUD
+  - [Red](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown?variant=50573837336861)
+    Availability: Available
+    Price: $19.99 AUD
+- [Kids Cap (Ages 1–6) | Mums Fan Club Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-ages-1-6-mums-fan-club-light-brown): Mums Fan Club Kids Cap (Ages 1–6) Keep your little one looking cool and comfy with our Acid Wash Kids Cap, designed to fit children aged 1–6 years. Made from soft, breathable cotton, this toddler/kids cap features a stylish acid wash finish for that effortlessly vintage look. With an adjustable back strap, it’s perfect for growing kids and everyday adventures — from park playdates to family outings. A must-have accessory for both boys and girls, this kids hat adds the perfect finishing touch to any outfit. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a snug fit Soft cotton fabric with acid wash color Unisex design for boys and girls Durable, lightweight, and easy to wear
+  Updated: 2025-11-04T20:38:58Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0788.jpg?v=1761813157
+  Price: $19.99 AUD
+- [Mum Cap Pink | To the Shore Mi Amor](https://compassandcradle.com.au/products/to-the-shore-mi-amor-mum-cap-pink): To the Shore Mi Amor – Mum Cap Add a splash of coastal charm to your everyday style with the To the Shore Mi Amor Mum Cap — a soft, rose-pink mum hat designed for relaxed, beach-loving souls. Made from breathable, acid washed cotton, this comfy cap features our exclusive seaside-inspired design with pastel shells, starfish, and a mermaid tail — capturing the easy, joyful feel of days spent by the shore. Features: 100% premium cotton for a soft, lived-in feel Adjustable strap for a comfortable, custom fit Exclusive “To the Shore Mi Amor” design by Compass & Cradle Durable and lightweight — perfect for sunny days, coastal walks, and casual outings Pair it with your favourite summer outfit or wear it as a go-to accessory for busy days. This mum cap makes a thoughtful gift or a must-have for anyone who loves a touch of ocean-inspired style. ✨ Coming soon: a matching kids’ short and top set with the same charming seaside logo — perfect for creating that adorable mum and mini moment!
+  Updated: 2025-11-04T20:47:28Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/totheshore5.jpg?v=1762245545
+  Price: $19.99 AUD
+- [Mum Cap Pink | Chill](https://compassandcradle.com.au/products/chill-pink-mum-cap): Chill – Pink Mum Cap Stay cool and carefree with our Chill Mum Cap — the perfect mum hat for relaxed summer days and easy weekend style. Made from soft, Acid washed cotton in a beautiful pastel pink tone, this cap is designed for comfort and fun. The laid-back vibe every mum deserves. 🌴 Features: 100% premium washed cotton for a soft, breathable feel Adjustable strap for the perfect fit Lightweight, durable, and ideal for sunny days Designed by Compass & Cradle, inspired by coastal living Whether you’re heading to the beach, running errands, or just soaking up the sunshine, this mum cap keeps things casual and comfortable while adding a touch of playful personality.
+  Updated: 2025-11-04T20:48:31Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/newchill_a5437bc7-0f3c-4c7b-a405-5edfd9860388.jpg?v=1762245470
+  Price: $19.99 AUD
+- [Mum Cap Blue | Cray](https://compassandcradle.com.au/products/cray-mum-cap-ocean-blue): Mum Cap - Cray Add a pop of fun to your everyday look with our Cray Mum Cap — the perfect mum hat for sunny days, adventures, and everything in between. Crafted from soft, acid washed cotton in a rich blue tone, this cap brings effortless coastal style with a playful crayfish design and bold text. Whether you’re heading to the beach, the park, or brunch, it’s an easy go-to piece that keeps you cool and confident. 🦞 Features: 100% premium acid washed cotton for breathable comfort Adjustable strap for a relaxed, secure fit Lightweight and durable for all-day wear Designed by Compass & Cradle, inspired by relaxed coastal living ✨ Style it your way: The “Cray” design perfectly matches the current Compass & Cradle Cray Cray on Vacay sets, so you can create a coordinated mum and mini look or pair it with your favourite casual outfit.
+  Updated: 2025-11-04T09:22:24Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1762245467
+  Price: $19.99 AUD
+- [Mum Cap Blue | Mamacita](https://compassandcradle.com.au/products/mamacita-mum-cap-blue): Mamacita – Mum Cap Turn up the heat with our Mamacita Mum Cap – a fun, effortless essential for all the spicy mamas out there! Made from soft, acid washed cotton in a coastal blue tone, this cap features a bold red chilli design that adds personality and flair to any outfit. Whether you’re at the beach, on school runs, or just soaking up some sunshine, this cap is your go-to for laidback style and comfort. 🌶️ Features: 100% premium acid washed cotton for a breathable, relaxed fit Adjustable strap for all-day comfort “Mamacita” chilli logo Lightweight and durable – perfect for daily wear Designed by Compass & Cradle, inspired by playful coastal living ✨ Style it your way: Pairs perfectly with your favourite casual looks or as a cheeky statement piece. Coming Soon: A matching kids set featuring the same playful chilli logo – perfect for twinning with your little one!
+  Updated: 2025-11-04T20:54:45Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/Compass_and_cradle_mum_cap.jpg?v=1762245388
   Price: $19.99 AUD
 
 ## Collections
@@ -217,11 +250,11 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-10-28T05:33:28Z
   Total Products: 3
 - [Compass & Cradle Digital Gift Card](https://compassandcradle.com.au/collections/compass-cradle-digital-gift-card)
-  Updated: 2025-10-28T05:33:28Z
+  Updated: 2025-11-02T12:22:01Z
   Total Products: 1
-- [Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-10-30T11:01:39Z
-  Total Products: 2
+- [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
+  Updated: 2025-11-04T08:25:25Z
+  Total Products: 6
 
 ## Blogs
 
