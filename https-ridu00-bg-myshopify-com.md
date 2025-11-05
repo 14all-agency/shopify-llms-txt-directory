@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: America/Vancouver
 - Created At: 2025-05-23T18:47:14Z
-- Updated At: 2025-11-05T12:56:29.601Z
+- Updated At: 2025-11-05T12:58:34.760Z
 
 ## Products
 
