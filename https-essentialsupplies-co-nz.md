@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-03T00:00:37.543Z
+- Updated At: 2025-11-05T00:00:53.281Z
 
 ## Products
 
@@ -3621,7 +3621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/automatic-cut-roll-feed-dispenser-silver-1-roll-capacity-1-dispenser-roll-towel-dispensers-essential-supplies-911450.jpg?v=1719444773
   Price: $199.00 NZD
 - [Automatic Cut Roll Feed Dispenser - Black, 1 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/automatic-cut-roll-feed-dispenser-black-1-roll-capacity-1): Electronic automatic cut roll feed dispenser with no touch automatic paper towel dispensing action. Designed for ultimate hygiene and waste minimisation with no cross contamination between individual towels. Compatible with most roll feed paper towels and available in three colour finishes.
-  Updated: 2025-01-26T03:47:56Z
+  Updated: 2025-11-04T01:46:53Z
   Vendor: Mattews Packaging
   Product Type: Roll Towel Dispensers
   Availability: Available
@@ -6372,7 +6372,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/high-visibility-daynight-safety-vest-yellow-s-120g-polyester-fabric-24-vests-safety-vests-essential-supplies-875146.jpg?v=1719445438
   Price: $199.00 NZD
 - [High Visibility Day/Night Safety Vest - Yellow, M, 120g Polyester Fabric - 24 Vests](https://essentialsupplies.co.nz/products/high-visibility-day-night-safety-vest-yellow-m-120g-polyester-fabric-24): Yellow Hi Visibility safety work vests made of lightweight polyester, that is strong and easily washable. With reflective tape as prescribed by AS/ NZS 4602.1:2011 safety standards. Featuring a strong zip front and long tail for added visibility. Available in a wide range of sizes.
-  Updated: 2025-01-31T02:17:46Z
+  Updated: 2025-11-04T08:22:39Z
   Vendor: Mattews Packaging
   Product Type: Safety Vests
   Availability: Available
