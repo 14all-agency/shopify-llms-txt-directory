@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-11-04T22:26:19.535Z
+- Updated At: 2025-11-05T00:00:40.175Z
 
 ## Products
 
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-White-0.jpg?v=1727658875
   Price: $59.99 NZD
 - [Umbra Sling Sink Caddy - Black](https://everydayhome.co.nz/products/sling-sink-caddy-black): Sling Sink Caddy, Black
-  Updated: 2025-10-29T04:07:10Z
+  Updated: 2025-11-04T23:22:12Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sling-Sink-Caddy-Black-0.jpg?v=1727658913
   Price: $17.99 NZD
 - [Umbra Sling Sink Caddy - White](https://everydayhome.co.nz/products/sling-sink-caddy-white): Sling Sink Caddy  White
-  Updated: 2025-11-02T21:37:12Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-5-Hook-Black-4.jpg?v=1727660062
   Price: $69.99 NZD
 - [Umbra Cubiko 5 Hook - White](https://everydayhome.co.nz/products/cubiko-5-hook-white): Cubiko 5 Hook  White
-  Updated: 2025-10-27T12:31:31Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-11-02T05:22:12Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -872,14 +872,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Dotsy-7-Hook-White-Natural-9.jpg?v=1727658893
   Price: $59.99 NZD
 - [Umbra Picket 5 Hook - Natural](https://everydayhome.co.nz/products/picket-5-hook-natural): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-10-28T01:07:12Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Natural-8.png?v=1727660128
   Price: $99.99 NZD
 - [Umbra Picket 5 Hook - Aged Walnut](https://everydayhome.co.nz/products/picket-5-hook-aged-walnut): Transform any room in your home with the Umbra Picket Wall Hook, a stylish and functional addition that doubles as a piece of art. Crafted from beautifully beveled pine wood, Picket's unique design adds a sophisticated touch to your decor. Picket seamlessly blends utility with elegance. When not in use, the hooks flip back up, maintaining a sleek, art-like appearance. Create an eye-catching display by arranging multiple
-  Updated: 2025-10-27T12:32:25Z
+  Updated: 2025-11-04T23:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1572,7 +1572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $479.99 NZD
 - [Umbra Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-10-30T01:22:11Z
+  Updated: 2025-11-04T23:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1621,7 +1621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Multi-Colour-Lite-UMBRA-2.jpg?v=1731901823
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 White](https://everydayhome.co.nz/products/buddy-hook-set-3-white): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-10-27T12:33:18Z
+  Updated: 2025-11-04T23:22:08Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1684,21 +1684,21 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-18cm-2-8L-Covered-Sauce-0.jpg?v=1731902998
   Price: $209.99 NZD
 - [Circulon Scratchdefense A1 - 21.5/25.4cm Skillet Twin Pack](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5-25-4cm-skillet-twin-pack): The Frypan Twin Pack is your essential kitchen companion for perfecting your cooking skills. This premium set includes two frypans with a generous 21.5cm and 25.4cm diameter, ideal for a variety of culinary tasks.
-  Updated: 2025-10-29T21:37:11Z
+  Updated: 2025-11-04T23:52:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-21-5-25-4cm-Skillet-Twi-2.jpg?v=1731902829
   Price: $249.99 NZD
 - [Circulon Scratchdefense A1 - 21.5cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-21-5cm-open-skillet): Cook with complete confidence using this dishwasher-safe 21.5cm frying pan with a triple-layer nonstick cooking surface that lasts 130X longer than the competition and stands up to laboratory tests simulating 200+ years of daily wear and tear. An aluminium core delivers fast, all-over heat delivery and a thick, induction-suitable stainless steel base boosts durability and heat retention.
-  Updated: 2025-10-31T03:07:10Z
+  Updated: 2025-11-04T23:52:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-21-5cm-Open-Skillet-Cir-8.jpg?v=1731902858
   Price: $129.99 NZD
 - [Circulon Scratchdefense A1 - 24cm/7.6L Covered Stockpot](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-24cm-7-6l-covered-stockpot): Elevate your culinary game with the Covered Stockpot 24cm/7.6L. Crafted for perfection, this nonstick, durable stockpot ensures even cooking and easy cleanup. Ideal for soups, stews, pasta and stocks, it’s a versatile piece of cookware for cooking for a family or entertaining guests.
-  Updated: 2025-10-28T07:37:11Z
+  Updated: 2025-11-04T23:52:11Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2069,7 +2069,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-Black-Walnut-UMBRA-9.jpg?v=1731902602
   Price: $44.99 NZD
 - [Umbra Estique Organiser - White](https://everydayhome.co.nz/products/estique-organiser-white): Estique features a perforated metal basket to store your mail, wallet, cellphone and other small accessories, along with 5 hooks with wooden knobs which are perfect for hanging your keys, lanyards, dog leashes, as well as scarfs, hats and outerwear. Keeping all your belongings in this multipurpose wall-mounted organizer allows you to declutter your entryway while eliminating the hassle of tirelessly searching your home for that one missing item.
-  Updated: 2025-10-27T12:33:50Z
+  Updated: 2025-11-04T23:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2104,7 +2104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Adhesive-Corner-Bin-White-UMBRA-4.jpg?v=1731902547
   Price: $37.99 NZD
 - [Umbra Flex Adhesive Toilet Brush & Holder - White](https://everydayhome.co.nz/products/flex-adhesive-tlt-brush-white): Umbra Adhesive Toilet Brush makes cleaning your toilet a less gruesome chore. With rubberized bristles that are both soft and durable, this toilet brush prevents odor-causing bacteria, mold or mildew for a sanitary and long-lasting brush. Its lid stays open when the brush is removed and automatically closes when putting back in place, all without having to touch anything but the handle. Flex Toilet Brush’s canister neatly stores the brush when not in use and can be secured to the floor or to any smooth surface.
-  Updated: 2025-10-27T12:33:53Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2167,7 +2167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Leana-Ladder-Rack-Black-UMBRA-7.jpg?v=1731902232
   Price: $154.99 NZD
 - [Umbra Leana Ladder - White](https://everydayhome.co.nz/products/leana-ladder-rack-white): Both decorative and functional, Leana Ladder features solid wood posts and 4 metal bars, providing you room to store blankets, clothes, towels and more. Easy to assemble, Leana provides a modern storage solution that can be used in a variety of rooms in your home. With a solid wood construction and powder-coated steel, this innovative storage solution is the ideal towel rack, blanket rack, or clothing organizer.
-  Updated: 2025-11-02T22:07:11Z
+  Updated: 2025-11-04T23:22:07Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2377,7 +2377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Squire-Napkin-Holder-Black-UMBRA-0.jpg?v=1731901911
   Price: $23.99 NZD
 - [Umbra Squire Paper Towel Holder - Black](https://everydayhome.co.nz/products/squire-paper-towel-holder-black): With its sturdy built and convenient features, the Squire paper towel holder makes everyday cleaning tasks effortless. Its tear bar ensures precise dispensing while the built-in handle allows for easy portability throughout your home.
-  Updated: 2025-10-27T12:34:13Z
+  Updated: 2025-11-04T23:22:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2454,7 +2454,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Triflora-Hanging-Planter-Set-of-5-White-UMBRA-1.jpg?v=1731902130
   Price: $99.99 NZD
 - [Trigem Jewelry Stand - White/Brass](https://everydayhome.co.nz/products/trigem-jwl-stand-kd-wht-bras): With the Trigem Jewelry Stand, three plated bars provide plenty of hanging space for all your favorite necklaces; keeping them safe, organized and tangle free. At 19-inches (48 cm) tall, Trigem is ideal for any type of necklace. The base of Trigem doubles as a jewelry holder for added accessory storage. Trigem’s sleek design compliments any modern decor and the protective padded base ensures your counter or table top surface doesn’t get damaged.
-  Updated: 2025-11-02T21:37:12Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2475,7 +2475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Dishrack-Drying-Mat-Charcoal-UMBRA-0.jpg?v=1731903043
   Price: $44.99 NZD
 - [Umbra Udry Dish Rack & Drying Mat - Black](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-black): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-10-27T12:34:20Z
+  Updated: 2025-11-04T23:22:07Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2496,7 +2496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Mini-Drying-Rack-Drying-Mat-Charcoal-UMBRA-1.jpg?v=1731902669
   Price: $21.99 NZD
 - [Umbra Udry Over The Sink Dish Rack - Charcoal](https://everydayhome.co.nz/products/udry-over-the-sink-charcoal): UDry Over the Sink is a versatile 2-in-1 dish drying solution that provides ample storage space for quick drying of dishes and utensils. It features a bpa-free dish rack with 16 slots that can be positioned in the middle or side of the absorbent microfiber mat, or over the sink. When not in use, it easily folds up for compact storage.
-  Updated: 2025-11-02T20:22:11Z
+  Updated: 2025-11-04T23:22:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -3209,7 +3209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-11-04T20:12:41Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4398,7 +4398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/716R7vzKMML._AC_SX679.jpg?v=1756177900
   Price: $37.99 NZD
 - [Umbra Casa Tissue Box Cover - White](https://everydayhome.co.nz/products/umbra-casa-tissue-box-cover-white): Casa's playful design makes your standard square tissue box a lot less boring. Our tissue box holder is shaped like a house with a tiny chimney stack that dispenses your tissue, making it look like a little cloud of smoke. Perfect for disguising standard boutique (cube-shaped) tissue boxes and adding a decorative touch to your bathroom, bedroom, or any other room in your home or office.
-  Updated: 2025-11-02T20:22:12Z
+  Updated: 2025-11-04T23:22:07Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4468,7 +4468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-11-03T04:12:37Z
+  Updated: 2025-11-04T23:22:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
