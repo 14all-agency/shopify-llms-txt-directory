@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-11-01T16:00:44.849Z
+- Updated At: 2025-11-05T00:00:26.951Z
 
 ## Products
 
@@ -63,7 +63,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
 - [Best Anti Wrinkle Face Cream | Aging Skin Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Best anti wrinkle cream & face moisturizer for aging skin. Vegan hyaluronic acid formula reduces fine lines, firms & hydrates mature skin. Natural, cruelty-free Botanic Age Regression Cream. Younger glow in 21 days – shop now!
-  Updated: 2025-11-01T06:18:47Z
+  Updated: 2025-11-04T17:14:51Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
