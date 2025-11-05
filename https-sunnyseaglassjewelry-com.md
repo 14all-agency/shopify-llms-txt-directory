@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-11-02T00:01:03.261Z
+- Updated At: 2025-11-05T00:00:28.460Z
 
 ## Products
 
@@ -3800,7 +3800,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/56c95f24-il_fullxfull.6164338105_ex7b.jpg?v=1756001038
   Price: $59.95 USD
 - [White Opal Necklace,STERLING Silver October Opal Birthstone Necklace,Wire Wrapped Lab Created White Opal Necklace,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-lab-created-white-opal-necklace): This stunning, lightweight teardrop-shaped synthetic opal pendant is expertly wrapped in .925 sterling silver. An ideal gift for those celebrating October birthdays, our high-quality synthetic opal showcases a vibrant spectrum of iridescent colors. Unlike opal-like plastic, this impregnated synthetic opal offers a genuine appearance and prismatic effect. The pendant measures 1.55 inches (40 mm) from the bail to the bottom and 0.60 inches wide, hanging on a sterling silver cable chain. Each piece is handcrafted, so minor variations in design may occur. It ships in a gift box. Engraving is not available. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. * It is shipped in a gift box.
-  Updated: 2025-11-01T22:56:43Z
+  Updated: 2025-11-02T10:55:16Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -4183,7 +4183,7 @@
     Availability: Available
     Price: $57.95 USD
 - [Beach Necklace, Ocean Wave Necklace in Sterling silver, Blue Ocean Wave Lampwork Glass Necklace, Blue Ocean Wave Glass  Necklace,](https://sunnyseaglassjewelry.com/products/beach-necklace-ocean-wave-necklace-in-sterling-silver-blue-ocean-wave-lampwork-glass-necklace-blue-ocean-wave-glass-necklace): Gorgeous Handmade Artisan Lampwork Ocean Wave glass necklace in Leather!! We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand, Dazzling/Shimmering sunlight making the sand sparkle like a thousand tiny jewels, Ocean waves.... This fabulous Lampwork Ocean wave bead is hand wire wrapped with .925 sterling silver wires, Swarovski crystals, & sterling silver spacer bead. This beautiful pendant comes on a .925 sterling silver chain & finished with a lobster clasp. *Bead size: 17 mm x 8 mm thick. *Other Ocean wave design beads are available upon request. *First photo shown: Ocean Blue *Email me for any inquiries. * It is shipped in a gift box. Thank you for visiting my shop!
-  Updated: 2025-11-01T22:57:40Z
+  Updated: 2025-11-02T10:57:45Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Sea glass Necklace
   Availability: Available
@@ -4198,7 +4198,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Aqua Blue Opal Necklace, Wire Wrapped Opal Tree of Life Necklace,](https://sunnyseaglassjewelry.com/products/mothers-day-gift-opal-necklace-aqua-blue-opal-necklace-wire-wrapped-opal-tree-of-life-necklace-october-birthstone-necklace-lab-created): High quality lab created Aqua Blue opal necklace, hand wire wrapped with ‘925 sterling silver wire. It does come with sterling silver chain. A great gift for October birthstone ladies. Indulge in the beauty of this handmade opal jewelry piece, featuring a high quality lab created opal necklace with a stunning tree of life wire wrap design. The sterling silver chain offers a secure 18 inch length with a 2 inch extension, making it perfect for everyday wear. Fast shipping in 1-2 days! *The tree of life pendant measures 1-7/8 inch x 7/8 inch wide. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. Sterling silver necklace featuring a luminous white opal Tree of Life pendant. This meaningful symbol represents growth, balance, and interconnectedness. October's birthstone, opal is believed to enhance creativity and emotional clarity. A beautiful reminder of your connection to nature and personal strength.
-  Updated: 2025-11-01T22:53:54Z
+  Updated: 2025-11-02T10:53:58Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -4219,7 +4219,7 @@
     Availability: Available
     Price: $84.95 USD
 - [White Opal Pendant Necklace, STERLING SILVER  Opal Necklace, October Birthstone Necklace, Opal Tree of Life Necklace](https://sunnyseaglassjewelry.com/products/opal-pendant-fast-ready-ship-in-1-to-2-days-sterling-silver-white-opal-necklace-october-birthstone-necklace-opal-tree-of-life-necklace): High quality lab created white opal necklace, hand wire wrapped with ‘925 sterling silver wire. It does come with sterling silver chain. A great gift for October birthstone ladies. Indulge in the beauty of this handmade opal jewelry piece, featuring a high quality lab created opal necklace with a stunning tree of life wire wrap design. The sterling silver chain offers a secure 18 inch length with a 2 inch extension, making it perfect for everyday wear. Fast shipping in 1-2 days! *The tree of life pendant measures 1-7/8 inch x 7/8 inch wide. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. Sterling silver necklace featuring a luminous white opal Tree of Life pendant. This meaningful symbol represents growth, balance, and interconnectedness. October's birthstone, opal is believed to enhance creativity and emotional clarity. A beautiful reminder of your connection to nature and personal strength.
-  Updated: 2025-11-01T22:53:10Z
+  Updated: 2025-11-02T10:53:14Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -4303,7 +4303,7 @@
     Availability: Available
     Price: $21.95 USD
 - [Ready Ship in 1 to 2 days, Aqua Blue  Opal Necklace, Lab Created Opal Tree of Life Jewelry,  October Birthstone Jewelry,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-aqua-blue-opal-necklace-lab-created-opal-tree-of-life-jewelry-october-birthstone-jewelry): High quality lab created Aqua Blue opal necklace, hand wire wrapped with ‘925 sterling silver wire. It does come with sterling silver chain. A great gift for October birthstone ladies. Indulge in the beauty of this handmade opal jewelry piece, featuring a high quality lab created opal necklace with a stunning tree of life wire wrap design. The sterling silver chain offers a secure 18 inch length with a 2 inch extension, making it perfect for everyday wear. Fast shipping in 1-2 days! *The tree of life pendant measures 1-7/8 inch x 7/8 inch wide. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. Sterling silver necklace featuring a luminous white opal Tree of Life pendant. This meaningful symbol represents growth, balance, and interconnectedness. October's birthstone, opal is believed to enhance creativity and emotional clarity. A beautiful reminder of your connection to nature and personal strength.
-  Updated: 2025-11-01T22:52:45Z
+  Updated: 2025-11-02T10:52:50Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -4479,7 +4479,7 @@
     Availability: Available
     Price: $71.95 USD
 - [Opal jewelry, STERLING SILVER White Opal Tree of Life Necklace, October Birthstone](https://sunnyseaglassjewelry.com/products/opal-jewelry-fast-ready-ship-in-1-to-2-days-sterling-silver-white-opal-necklace-october-birthstone-necklace-opal-tree-of-life-necklace-2): High quality lab created white opal necklace, hand wire wrapped with ‘925 sterling silver wire. It does come with sterling silver chain. A great gift for October birthstone ladies. Indulge in the beauty of this handmade opal jewelry piece, featuring a high quality lab created opal necklace with a stunning tree of life wire wrap design. The sterling silver chain offers a secure 18 inch length with a 2 inch extension, making it perfect for everyday wear. Fast shipping in 1-2 days! *The tree of life pendant measures 1-7/8 inch x 7/8 inch wide. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. Sterling silver necklace featuring a luminous white opal Tree of Life pendant. This meaningful symbol represents growth, balance, and interconnectedness. October's birthstone, opal is believed to enhance creativity and emotional clarity. A beautiful reminder of your connection to nature and personal strength.
-  Updated: 2025-11-01T22:51:54Z
+  Updated: 2025-11-02T10:51:59Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -4698,20 +4698,20 @@
     Availability: Available
     Price: $60.00 USD
 - [Christmas Tree Earrings, Holiday Jewelry Gift Idea Christmas, Crystal Swarovski Design Elegant Christmas Sparkling earrings Holiday Earrings](https://sunnyseaglassjewelry.com/products/tree-earrings): These handmade Christmas Tree Earrings are an ideal holiday gift for anyone who treasures festive, sparkling accessories. Crafted with genuine Swarovski crystals in elegant green and blue hues, topped with a vibrant red crystal star, these sterling silver dangle earrings bring a touch of Christmas charm to any look. Comfortable for sensitive ears and perfectly sized at about 3/4 inch, they add festive sparkle to both casual and formal outfits. Delight your loved ones with this timeless holiday accessory that embodies the joy and elegance of the season.
-  Updated: 2025-11-01T22:45:29Z
+  Updated: 2025-11-02T10:43:11Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/FullSizeRender_4dd7d70d-272b-45a8-a24e-9d1fda7c3143.heic?v=1760806881
   Price: $22.00 USD
 - [Christmas Tree Necklace, Crystal Pendant Sterling Silver Holiday Jewelry, Christmas Gift Festive Accessor, Sparkly Green Crystal Tree Design](https://sunnyseaglassjewelry.com/products/christmas): Celebrate the season with this stunning Christmas tree necklace, featuring a dazzling pendant made from authentic Swarovski crystals suspended on a sterling silver chain. The vibrant green crystal tree is topped with a shimmering iridescent star and accented with a delicate red crystal, creating a sophisticated holiday accessory. Crafted with care, the rhodium-finished pendant measures 1-1/4 inches and hangs from an adjustable 18-inch sterling silver chain. Delivered in a gift-ready box, it’s the perfect festive gift to delight someone special this Christmas. Handcrafted elegance that shines throughout your winter celebrations.
-  Updated: 2025-11-01T22:42:18Z
+  Updated: 2025-11-02T10:42:22Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire wrapped necklace
   Availability: Available
   Price: $35.00 USD
 - [Angel dangling earrings, Sea Glass Angel Guardian Earrings](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings): These beautiful angel dangle earrings make the perfect guardian angel holiday gift for Christmas, featuring handcrafted Lab created Sea glass and sterling silver for a stunning spiritual accessory. Each pair of jewelry pieces showcases delicate sea glass with opalescent wings, creating an ethereal design that symbolizes divine protection and guidance. Heavenly Handcrafted Angel Earrings - A Meaningful Gift • Exquisitely crafted with lab-created sea glass and topped with luminous Swarovski pearl heads• Sterling silver ear wires ensure comfort and quality for sensitive ears• 1-1/4 inch dangle length creates an elegant, eye-catching statement• Beautiful opalescent wings with sparkling rhinestone accents catch the light as they move• Available in four stunning colors: white frosted, periwinkle, peridot green, and aqua blue. Thank you for visiting my shop.
-  Updated: 2025-11-01T22:41:37Z
+  Updated: 2025-11-02T10:41:41Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
@@ -4729,14 +4729,14 @@
     Availability: Available
     Price: $22.95 USD
 - [Red and Green Crystal Dangle Earrings, Holiday Accessory Christmas Gift, Handmade Christmas Crystal Dangling Earrings,](https://sunnyseaglassjewelry.com/products/untitled-nov1_00-04): These crystal dangle earrings are the perfect holiday accessory and make an ideal Christmas gift for someone who appreciates handmade jewelry with festive decoration elements. The sparkly rhinestone drops combined with sterling silver beaded design create an elegant statement piece of jewelry featuring beautiful red teardrops that catch the light magnificently.Elegant Handcrafted Holiday Earrings That Sparkle• Handmade crystal dangle earrings featuring vibrant red teardrop beads and teal faceted accents• Sparkling rhinestone spacers add extra brilliance and festive charm• Crafted with genuine sterling silver ear wires for sensitive ears• Perfect 1-inch drop length provides elegant movement without being too heavy• Versatile design works beautifully for holiday parties, special occasions, or adding a festive touch to everyday outfitsThank you for visiting my shop.
-  Updated: 2025-11-01T19:28:34Z
+  Updated: 2025-11-02T07:26:32Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire wrapped earrimgs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Photoroom_20251031_235254_9a6a148f-7728-499f-8b08-91e5ed9ef577.jpg?v=1762025314
   Price: $22.95 USD
 - [Snowflake Swarovski Crystal Pendant Necklace, Holiday Jewelry, Christmas Gift Idea, Sparkly Crystal Necklace](https://sunnyseaglassjewelry.com/products/christmas-tree-necklace-crystal-pendant-sterling-silver-holiday-jewelry-christmas-gift-festive-accessor-sparkly-green-crystal-tree-design-copy): Elevate your holiday style with this exquisite Swarovski snowflake pendant necklace, showcasing a radiant Swarovski crystal pendant in gleaming shiny tarnish resistant rhodium finished . The sophisticated design captures the magic of the season with its sparkling snowflake designed pendant, suspended gracefully from a rhodium-finished silver chain. The pendant measures about 3/4 inch(20mm), this handcrafted pendant pairs perfectly with the adjustable 18-inch chain plus 2-inch extension, offering versatile styling for any festive occasion. Whether you're treating yourself or surprising someone special, this elegant piece arrives in gift-ready packaging, making it an unforgettable Christmas present that celebrates timeless beauty and seasonal charm. Thank s for visiting my shop.
-  Updated: 2025-11-01T22:39:52Z
+  Updated: 2025-11-02T07:37:49Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
