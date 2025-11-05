@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-11-02T00:01:32.685Z
+- Updated At: 2025-11-05T00:00:45.926Z
 
 ## Products
 
@@ -1366,210 +1366,210 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
     Price: $33.62 USD
 - [Sacred Heart & Chalice Eucharist T-Shirt](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt): This deeply symbolic "Eucharist: Real Power" T-shirt celebrates the profound mystery of the Holy Eucharist. The graphic features the Sacred Heart, radiating divine love and mercy, held within a chalice, representing the Body and Blood of Christ. The phrase "Real Power" emphasizes the central Catholic doctrine of Transubstantiation and the spiritual strength derived from communion. Perfect for those who hold the Eucharist as the source and summit of their faith. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
-  Updated: 2025-07-29T23:17:23Z
+  Updated: 2025-11-04T22:51:08Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-323.webp?v=1753830925
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-328.webp?v=1762295599
   - [Antique Cherry Red / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071147087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-495.webp?v=1753830979
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-505.webp?v=1762295652
     Price: $16.93 USD
   - [Antique Irish Green / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071179855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-120.webp?v=1753830953
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-873.webp?v=1762295626
     Price: $16.93 USD
   - [Ash / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071212623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-754.webp?v=1753830939
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-795.webp?v=1762295613
     Price: $16.93 USD
   - [Charcoal / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071245391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-352.webp?v=1753830966
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-561.webp?v=1762295639
     Price: $16.93 USD
   - [Dark Heather / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071278159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-551.webp?v=1753830987
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
   - [Heather Indigo / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071310927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-292.webp?v=1753830962
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-875.webp?v=1762295634
     Price: $16.93 USD
   - [Heather Navy / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071343695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-387.webp?v=1753830971
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-939.webp?v=1762295643
     Price: $16.93 USD
   - [Light Blue / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071376463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-613.webp?v=1753830957
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-167.webp?v=1762295630
     Price: $16.93 USD
   - [Prairie Dust / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071409231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-769.webp?v=1753830930
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-741.webp?v=1762295604
     Price: $16.93 USD
   - [Red / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071441999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-174.webp?v=1753830975
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-752.webp?v=1762295648
     Price: $16.93 USD
   - [Sand / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071474767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-759.webp?v=1753830944
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-121.webp?v=1762295617
     Price: $16.93 USD
   - [White / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071507535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-721.webp?v=1753830934
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-473.webp?v=1762295609
     Price: $16.93 USD
   - [Black / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071540303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-323.webp?v=1753830925
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-328.webp?v=1762295599
     Price: $16.93 USD
   - [Cardinal Red / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071573071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-324.webp?v=1753830983
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-635.webp?v=1762295656
     Price: $16.93 USD
   - [Ice Grey / S](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071605839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-220.webp?v=1753830948
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-656.webp?v=1762295622
     Price: $16.93 USD
   - [Antique Cherry Red / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071638607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-495.webp?v=1753830979
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-505.webp?v=1762295652
     Price: $16.93 USD
   - [Antique Irish Green / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071671375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-120.webp?v=1753830953
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-873.webp?v=1762295626
     Price: $16.93 USD
   - [Ash / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071704143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-754.webp?v=1753830939
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-795.webp?v=1762295613
     Price: $16.93 USD
   - [Charcoal / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071736911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-352.webp?v=1753830966
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-561.webp?v=1762295639
     Price: $16.93 USD
   - [Dark Heather / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071769679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-551.webp?v=1753830987
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
   - [Heather Indigo / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071802447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-292.webp?v=1753830962
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-875.webp?v=1762295634
     Price: $16.93 USD
   - [Heather Navy / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071835215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-387.webp?v=1753830971
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-939.webp?v=1762295643
     Price: $16.93 USD
   - [Light Blue / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071867983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-613.webp?v=1753830957
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-167.webp?v=1762295630
     Price: $16.93 USD
   - [Prairie Dust / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071900751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-769.webp?v=1753830930
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-741.webp?v=1762295604
     Price: $16.93 USD
   - [Red / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071933519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-174.webp?v=1753830975
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-752.webp?v=1762295648
     Price: $16.93 USD
   - [Sand / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071966287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-759.webp?v=1753830944
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-121.webp?v=1762295617
     Price: $16.93 USD
   - [White / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357071999055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-721.webp?v=1753830934
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-473.webp?v=1762295609
     Price: $16.93 USD
   - [Black / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072031823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-323.webp?v=1753830925
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-328.webp?v=1762295599
     Price: $16.93 USD
   - [Cardinal Red / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072064591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-324.webp?v=1753830983
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-635.webp?v=1762295656
     Price: $16.93 USD
   - [Ice Grey / M](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072097359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-220.webp?v=1753830948
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-656.webp?v=1762295622
     Price: $16.93 USD
   - [Antique Cherry Red / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072130127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-495.webp?v=1753830979
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-505.webp?v=1762295652
     Price: $16.93 USD
   - [Antique Irish Green / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072162895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-120.webp?v=1753830953
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-873.webp?v=1762295626
     Price: $16.93 USD
   - [Ash / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072195663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-754.webp?v=1753830939
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-795.webp?v=1762295613
     Price: $16.93 USD
   - [Charcoal / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072228431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-352.webp?v=1753830966
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-561.webp?v=1762295639
     Price: $16.93 USD
   - [Dark Heather / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072261199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-551.webp?v=1753830987
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
   - [Heather Indigo / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072293967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-292.webp?v=1753830962
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-indigo-s-875.webp?v=1762295634
     Price: $16.93 USD
   - [Heather Navy / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072326735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-387.webp?v=1753830971
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-heather-navy-s-939.webp?v=1762295643
     Price: $16.93 USD
   - [Light Blue / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072359503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-613.webp?v=1753830957
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-light-blue-s-167.webp?v=1762295630
     Price: $16.93 USD
   - [Prairie Dust / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072392271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-769.webp?v=1753830930
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-prairie-dust-s-741.webp?v=1762295604
     Price: $16.93 USD
   - [Red / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072425039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-174.webp?v=1753830975
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-red-s-752.webp?v=1762295648
     Price: $16.93 USD
   - [Sand / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072457807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-759.webp?v=1753830944
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-sand-s-121.webp?v=1762295617
     Price: $16.93 USD
   - [White / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072490575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-721.webp?v=1753830934
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-white-s-473.webp?v=1762295609
     Price: $16.93 USD
   - [Black / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072523343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-323.webp?v=1753830925
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-black-s-328.webp?v=1762295599
     Price: $16.93 USD
   - [Cardinal Red / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43458186510415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-324.webp?v=1753830983
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-cardinal-red-s-635.webp?v=1762295656
     Price: $16.93 USD
   - [Ice Grey / L](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072556111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-220.webp?v=1753830948
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ice-grey-s-656.webp?v=1762295622
     Price: $16.93 USD
   - [Antique Cherry Red / XL](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072588879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-495.webp?v=1753830979
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-cherry-red-s-505.webp?v=1762295652
     Price: $16.93 USD
   - [Antique Irish Green / XL](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072621647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-120.webp?v=1753830953
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-antique-irish-green-s-873.webp?v=1762295626
     Price: $16.93 USD
   - [Ash / XL](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072654415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-754.webp?v=1753830939
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-ash-s-795.webp?v=1762295613
     Price: $16.93 USD
   - [Charcoal / XL](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072687183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-352.webp?v=1753830966
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-charcoal-s-561.webp?v=1762295639
     Price: $16.93 USD
   - [Dark Heather / XL](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt?variant=43357072719951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-551.webp?v=1753830987
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
 - [Trust in God: Padre Pio Inspirational T-Shirt](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt): Let the timeless wisdom of Padre Pio guide your day with our "Pray Like Padre Pio" T-shirt. Featuring a classic image of the saint and his famous quote, "Pray, hope, and don't worry," this shirt is a gentle nudge to live with greater faith and less fear. Crafted for comfort and designed to inspire, it's perfect for personal reflection or as a thoughtful gift for a fellow devotee. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Add both comfort and style to your wardrobe with the Unisex Faded Tee, where effortless elegance meets supreme comfort. Crafted from 100% carded cotton, this tee offers a luxurious softness and breathability for all-day wear. Its boxy, oversized fit and dropped shoulders add a touch of relaxed sophistication. Each tee undergoes garment dyeing, resulting in a unique, faded aesthetic that sets it apart. .: 100% carded cotton.: Heavyweight fabric (7.1 oz/yd² (240.7 g/m²)).: Boxy, oversized fit.: Tear-away label.: Please note: the shirts are dyed after sewing, resulting in more faded edges and a possible hue gradient.: Embroidery decoration method available
   Updated: 2025-07-29T23:17:39Z
@@ -2660,210 +2660,210 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
     Price: $33.62 USD
 - [Pray Hard, Confess Harder Eco-Friendly Crewneck Sweatshirt](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt): Ready to level up your spiritual game? This "Pray Hard. Confess Harder." sweatshirt is the ultimate push. It's got that gym aesthetic, but with rosaries for weights, because real strength comes from within (and from confession!). No shortcuts to spiritual gains. Get yours and put in the work. S M L XL 2XL 3XL 4XL Width, in 20.00 21.97 23.98 25.98 27.99 29.50 31.50 Length, in 26.50 27.48 28.46 29.49 30.00 31.00 31.50 Sleeve length, in 34.00 35.25 35.87 36.62 37.37 38.12 38.87 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Introducing a soft and stylish Unisex EcoSmart® Crewneck Sweatshirt that embodies both comfort and practicality. Made from a blend of cotton and polyester, this sweatshirt is perfect for those who lead an active lifestyle while also being environmentally conscious. The cozy fleece interior feels warm against the skin, making it ideal for chilly winter days or casual evenings out. Whether you're heading to the gym, lounging at home, or attending a gathering, this versatile piece fits seamlessly into your life. Great for fitness enthusiasts, casual wearers, and anyone who loves a blend of comfort and motivation in their wardrobe. Ideal for gifting on special occasions such as holidays, birthdays, or even just to treat yourself!Product features- Made from strong and smooth fabric, perfect for printing.- Ribbed knit collar retains its shape with elastic support.- Durable double-needle cover-seams keep seams strong.- Seamless design reduces fabric waste and enhances attractiveness.- Crafted from 50% cotton and 50% polyester, with variations for different colors.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-07-29T23:31:40Z
+  Updated: 2025-11-04T23:44:36Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
   - [Black / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414835279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $30.05 USD
   - [Deep Red / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592562255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $30.05 USD
   - [Deep Royal / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414868047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $30.05 USD
   - [Deep Forest / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592595023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $30.05 USD
   - [Light Steel / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414900815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-227.webp?v=1753831732
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-979.webp?v=1762299707
     Price: $30.05 USD
   - [Navy / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414933583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-950.webp?v=1753831741
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-685.webp?v=1762299716
     Price: $30.05 USD
   - [Maroon / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414966351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
     Price: $30.05 USD
   - [Purple / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363414999119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-618.webp?v=1753831751
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-311.webp?v=1762299726
     Price: $30.05 USD
   - [Sand / S](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592627791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-807.webp?v=1753831755
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-102.webp?v=1762299730
     Price: $30.05 USD
   - [Black / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415031887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $30.05 USD
   - [Deep Red / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592660559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $30.05 USD
   - [Deep Royal / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415064655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $30.05 USD
   - [Deep Forest / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592693327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $30.05 USD
   - [Light Steel / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415097423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-227.webp?v=1753831732
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-979.webp?v=1762299707
     Price: $30.05 USD
   - [Navy / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415130191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-950.webp?v=1753831741
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-685.webp?v=1762299716
     Price: $30.05 USD
   - [Maroon / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415162959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
     Price: $30.05 USD
   - [Purple / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415195727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-618.webp?v=1753831751
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-311.webp?v=1762299726
     Price: $30.05 USD
   - [Sand / M](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592726095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-807.webp?v=1753831755
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-102.webp?v=1762299730
     Price: $30.05 USD
   - [Black / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415228495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $30.05 USD
   - [Deep Red / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592758863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $30.05 USD
   - [Deep Royal / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415261263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $30.05 USD
   - [Deep Forest / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592791631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $30.05 USD
   - [Light Steel / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415326799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-227.webp?v=1753831732
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-979.webp?v=1762299707
     Price: $30.05 USD
   - [Navy / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415359567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-950.webp?v=1753831741
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-685.webp?v=1762299716
     Price: $30.05 USD
   - [Army Brown / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415392335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-army-brown-l-731.webp?v=1753831723
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-army-brown-l-968.webp?v=1762299698
     Price: $30.05 USD
   - [Maroon / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415425103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
     Price: $30.05 USD
   - [Purple / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415457871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-618.webp?v=1753831751
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-311.webp?v=1762299726
     Price: $30.05 USD
   - [Sand / L](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592824399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-807.webp?v=1753831755
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-102.webp?v=1762299730
     Price: $30.05 USD
   - [Black / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415490639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $30.05 USD
   - [Deep Red / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592857167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $30.05 USD
   - [Deep Royal / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415523407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $30.05 USD
   - [Deep Forest / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592889935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $30.05 USD
   - [Light Steel / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415556175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-227.webp?v=1753831732
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-979.webp?v=1762299707
     Price: $30.05 USD
   - [Navy / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415588943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-950.webp?v=1753831741
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-685.webp?v=1762299716
     Price: $30.05 USD
   - [Maroon / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415621711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
     Price: $30.05 USD
   - [Purple / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415654479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-618.webp?v=1753831751
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-311.webp?v=1762299726
     Price: $30.05 USD
   - [Sand / XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592922703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-807.webp?v=1753831755
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-102.webp?v=1762299730
     Price: $30.05 USD
   - [Black / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415687247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $38.00 USD
   - [Deep Red / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592955471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $38.00 USD
   - [Deep Royal / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415720015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $38.00 USD
   - [Deep Forest / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372592988239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $38.00 USD
   - [Light Steel / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415752783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-227.webp?v=1753831732
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-light-steel-s-979.webp?v=1762299707
     Price: $38.00 USD
   - [Navy / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415785551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-950.webp?v=1753831741
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-navy-s-685.webp?v=1762299716
     Price: $38.00 USD
   - [Maroon / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415818319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-710.webp?v=1753831714
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-maroon-s-247.webp?v=1762299688
     Price: $38.00 USD
   - [Purple / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415851087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-618.webp?v=1753831751
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-purple-s-311.webp?v=1762299726
     Price: $38.00 USD
   - [Sand / 2XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372593021007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-807.webp?v=1753831755
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-sand-s-102.webp?v=1762299730
     Price: $38.00 USD
   - [Black / 3XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415883855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-230.webp?v=1753831746
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-black-s-141.webp?v=1762299721
     Price: $39.62 USD
   - [Deep Forest / 3XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372593053775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-635.webp?v=1753831764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-forest-s-656.webp?v=1762299740
     Price: $39.62 USD
   - [Deep Red / 3XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43372593086543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-589.webp?v=1753831776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-red-s-778.webp?v=1762299752
     Price: $39.62 USD
   - [Deep Royal / 3XL](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt?variant=43363415916623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-634.webp?v=1753831737
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt-deep-royal-s-264.webp?v=1762299711
     Price: $39.62 USD
 - [Funny Workout T-Shirt for Fitness Enthusiasts, Gym Gift, Humor Tee, Leg Day Shirt, Unisex Cotton Top](https://faithbloom.co/products/funny-workout-t-shirt-for-fitness-enthusiasts-gym-gift-humor-tee-leg-day-shirt-unisex-cotton-top): Elevate your casual wardrobe with this Unisex HD Cotton™ T-shirt. Featuring a fun and playful design Perfect for fitness enthusiasts and anyone with a sense of humor, this shirt brings a light-hearted vibe to your everyday look. Whether you're hitting the gym or lounging at home, it’s a versatile piece that adds a touch of personality to any outfit. Ideal for casual outings, birthday celebrations, or even as a unique gift for friends or family, this T-shirt is perfect for anyone who loves to express their passion for fitness. Celebrate your leg day with style or gift it to a friend who values humor in their fitness journey. Perfect for wear all year round, especially during Fitness Month or summer outdoor activities.Product features- Made from 100% preshrunk cotton with varying blends in different colors.- Stretchable 1x1 ribbed collar for a comfortable fit.- Reinforced shoulder seams with twill tape for added durability.- Double-stitched sleeve and bottom hems for longevity.- Sustainably sourced, USA-grown cotton ensuring eco-friendliness.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-07-29T23:32:48Z
@@ -3958,210 +3958,210 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
     Price: $29.92 USD
 - [Hope Candle T-Shirt, Unisex Inspirational Tee, Gift for Encouragement, Spiritual Apparel, Comfort Wear for All Occasions](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions): "Embrace the light with our 'Hope' T-shirt. Featuring a beautifully rendered candle and the powerful scripture from John 1:5, this shirt is a reminder that darkness can never overcome the light. A comfortable and meaningful addition to your wardrobe." S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Experience warmth and inspiration with our Relaxed Fit T-Shirt. Designed for comfort, this versatile tee is perfect for both casual outings and semi-formal occasions. The soft, garment-dyed fabric offers a unique texture, creating a cozy vibe that makes you feel at ease. Ideal for anyone seeking comfort with style, this t-shirt resonates with those who appreciate thoughtful design and sustainability. Perfect for celebrations like birthdays, family gatherings, or simply as a gift of hope during tough times, it adds a meaningful touch to your wardrobe. Suitable for adults who value quality and comfort in their everyday wear.Product features- Available in sizes S to 4XL for a perfect fit.- Durable double-needle stitching on all seams.- Seamless tubular knit design minimizes fabric waste.- Garment-dyed fabric for a soft, unique texture.- Made from ethically sourced 100% US cotton.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:46:13Z
+  Updated: 2025-11-05T00:00:22Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
   - [Black / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819055695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
     Price: $20.30 USD
   - [Navy / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819088463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-284.webp?v=1753832606
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
     Price: $20.30 USD
-  - [Boysenberry / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819121231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-boysenberry-s-244.webp?v=1753832615
-    Price: $23.38 USD
   - [Blue Spruce / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819153999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-668.webp?v=1753832592
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
     Price: $20.30 USD
   - [Chili / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819186767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-109.webp?v=1753832620
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
     Price: $20.30 USD
   - [Graphite / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819219535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-428.webp?v=1753832602
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
     Price: $20.30 USD
   - [Hemp / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819252303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-944.webp?v=1753832582
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
     Price: $20.30 USD
   - [Moss / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819285071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-558.webp?v=1753832587
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
     Price: $20.30 USD
   - [Pepper / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819317839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-187.webp?v=1753832572
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
     Price: $20.30 USD
   - [Sage / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819350607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-950.webp?v=1753832577
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
     Price: $20.30 USD
   - [True Navy / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819383375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-981.webp?v=1753832597
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
     Price: $20.30 USD
   - [Espresso / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819416143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-597.webp?v=1753832567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
     Price: $20.30 USD
   - [Black / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819448911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
     Price: $20.30 USD
   - [Navy / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819481679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-284.webp?v=1753832606
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
     Price: $20.30 USD
-  - [Boysenberry / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819514447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-boysenberry-s-244.webp?v=1753832615
-    Price: $23.38 USD
   - [Blue Spruce / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819547215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-668.webp?v=1753832592
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
     Price: $20.30 USD
   - [Chili / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819579983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-109.webp?v=1753832620
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
     Price: $20.30 USD
   - [Graphite / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819612751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-428.webp?v=1753832602
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
     Price: $20.30 USD
   - [Hemp / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819645519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-944.webp?v=1753832582
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
     Price: $20.30 USD
   - [Moss / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819678287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-558.webp?v=1753832587
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
     Price: $20.30 USD
   - [Pepper / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819711055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-187.webp?v=1753832572
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
     Price: $20.30 USD
   - [Sage / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819743823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-950.webp?v=1753832577
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
     Price: $20.30 USD
   - [True Navy / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819776591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-981.webp?v=1753832597
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
     Price: $20.30 USD
   - [Espresso / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819809359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-597.webp?v=1753832567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
     Price: $20.30 USD
   - [Black / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819842127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
     Price: $20.30 USD
   - [Navy / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819874895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-284.webp?v=1753832606
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
     Price: $20.30 USD
-  - [Boysenberry / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819907663)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-boysenberry-s-244.webp?v=1753832615
-    Price: $23.38 USD
   - [Blue Spruce / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819940431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-668.webp?v=1753832592
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
     Price: $20.30 USD
   - [Chili / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819973199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-109.webp?v=1753832620
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
     Price: $20.30 USD
   - [Graphite / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820005967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-428.webp?v=1753832602
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
     Price: $20.30 USD
   - [Hemp / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820038735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-944.webp?v=1753832582
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
     Price: $20.30 USD
   - [Moss / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820071503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-558.webp?v=1753832587
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
     Price: $20.30 USD
   - [Pepper / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820104271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-187.webp?v=1753832572
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
     Price: $20.30 USD
   - [Sage / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820137039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-950.webp?v=1753832577
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
     Price: $20.30 USD
   - [True Navy / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820169807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-981.webp?v=1753832597
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
     Price: $20.30 USD
   - [Espresso / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820202575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-597.webp?v=1753832567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
     Price: $20.30 USD
   - [Black / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820235343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
     Price: $20.30 USD
   - [Navy / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820268111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-284.webp?v=1753832606
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
     Price: $20.30 USD
-  - [Boysenberry / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820300879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-boysenberry-s-244.webp?v=1753832615
-    Price: $23.38 USD
   - [Blue Spruce / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820333647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-668.webp?v=1753832592
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
     Price: $20.30 USD
   - [Chili / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820366415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-109.webp?v=1753832620
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
     Price: $20.30 USD
   - [Graphite / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820399183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-428.webp?v=1753832602
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
     Price: $20.30 USD
   - [Hemp / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820431951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-944.webp?v=1753832582
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
     Price: $20.30 USD
   - [Moss / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820464719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-558.webp?v=1753832587
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
     Price: $20.30 USD
   - [Pepper / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820497487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-187.webp?v=1753832572
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
     Price: $20.30 USD
   - [Sage / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820530255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-950.webp?v=1753832577
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
     Price: $20.30 USD
   - [True Navy / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820563023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-981.webp?v=1753832597
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
     Price: $20.30 USD
   - [Espresso / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820595791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-597.webp?v=1753832567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
     Price: $20.30 USD
   - [Black / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820628559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-485.webp?v=1753832562
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
     Price: $22.42 USD
   - [Navy / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820661327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-284.webp?v=1753832606
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Price: $22.42 USD
+  - [Blue Spruce / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820726863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Price: $22.42 USD
+  - [Chili / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820759631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Price: $22.42 USD
+  - [Graphite / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820792399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Price: $22.42 USD
+  - [Hemp / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820825167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
     Price: $22.42 USD
 - [Unisex Heavy Faded Tee - Inspirational Grace Upon Grace Shirt, Motivational Gift, Casual Wear, Everyday Comfort, Perfect for Faith and [...]](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and): Celebrate God's endless favor with our 'Grace Upon Grace' T-shirt. This elegant tee showcases the phrase 'Grace upon Grace' in a captivating circular design, symbolizing infinite blessings. Below, the comforting words of John 1:16 remind us: 'From His fullness we have all received, grace upon grace.' Crafted from a soft, comfortable fabric, it's a beautiful way to wear your faith. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Introducing our Unisex Heavy Faded Tee, the perfect blend of comfort and style. Designed for a relaxed silhouette, this tee embraces a laid-back vibe ideal for casual gatherings or cozy nights in. Its oversized fit ensures maximum comfort, making it a go-to piece for anyone looking to express themselves with ease. Suitable for men and women alike, this tee is perfect for birthdays, anniversaries, or simply as a heartfelt gift for someone special. With its unique faded design, it brings a sense of nostalgia and warmth to your wardrobe, making it a meaningful addition to any outfit. Whether you're dressing up for a day out or lounging at home, this tee complements any occasion with effortless style.Product features- Dropped shoulders for a relaxed fit- Double-needle stitching for durability- Ribbed collar for comfort- Heavyweight 100% carded cotton- Boxy, oversized style with unique faded edgesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-07-29T23:47:14Z
