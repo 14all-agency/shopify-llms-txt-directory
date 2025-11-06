@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-05T00:00:27.928Z
+- Updated At: 2025-11-06T00:00:23.791Z
 
 ## Products
 
@@ -203,7 +203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/newchill_a5437bc7-0f3c-4c7b-a405-5edfd9860388.jpg?v=1762245470
   Price: $19.99 AUD
 - [Mum Cap Blue | Cray](https://compassandcradle.com.au/products/cray-mum-cap-ocean-blue): Mum Cap - Cray Add a pop of fun to your everyday look with our Cray Mum Cap — the perfect mum hat for sunny days, adventures, and everything in between. Crafted from soft, acid washed cotton in a rich blue tone, this cap brings effortless coastal style with a playful crayfish design and bold text. Whether you’re heading to the beach, the park, or brunch, it’s an easy go-to piece that keeps you cool and confident. 🦞 Features: 100% premium acid washed cotton for breathable comfort Adjustable strap for a relaxed, secure fit Lightweight and durable for all-day wear Designed by Compass & Cradle, inspired by relaxed coastal living ✨ Style it your way: The “Cray” design perfectly matches the current Compass & Cradle Cray Cray on Vacay sets, so you can create a coordinated mum and mini look or pair it with your favourite casual outfit.
-  Updated: 2025-11-04T09:22:24Z
+  Updated: 2025-11-05T00:35:53Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -253,7 +253,7 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-11-04T08:25:25Z
+  Updated: 2025-11-05T12:18:39Z
   Total Products: 6
 
 ## Blogs
