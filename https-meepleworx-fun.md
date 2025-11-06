@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-06T00:12:35.064Z
+- Updated At: 2025-11-06T00:14:27.232Z
 
 ## Products
 
@@ -6819,6 +6819,11 @@
 
 - [Contact Information](https://meepleworx.fun/policies/contact-information)
   Updated: 2025-09-30T22:26:07+02:00
+
+## Social media
+- https://facebook.com/meepleworx.fun
+- https://instagram.com/meepleworx
+- https://linkedin.com/company/meeple-worx-ltd
 
 ## Optional
 
