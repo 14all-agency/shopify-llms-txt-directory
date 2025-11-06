@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-11-05T18:31:48.185Z
+- Updated At: 2025-11-06T00:00:52.385Z
 
 ## Products
 
@@ -107,12 +107,12 @@
   - [20 lb. Bag - $8.17/lb](https://roastikacoffee.com/products/mexico-chiapas-hg-ep?variant=47000660607220)
     Availability: Available
     Price: $163.40 USD
-- [Colombia Supreme unroasted coffee](https://roastikacoffee.com/products/colombia-supremo): Discover the rich taste of Colombia coffee. Indulge in premium Colombia Supremo beans and elevate your coffee experience today!
-  Updated: 2025-10-25T10:01:46Z
+- [Colombia Supremo Green Coffee Beans -  Natural Process | ROASTIKA](https://roastikacoffee.com/products/colombia-supremo): Explore Roastika's Colombia Supremo green coffee beans from Bucaramanga. Premium Arabica, natural process for rich flavor, perfect for home roasting or cafés.
+  Updated: 2025-11-05T22:10:29Z
   Vendor: Roastika
   Product Type: Arabica
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/5018/9812/files/colombia-supreme-2396789.png?v=1760938998
+  Image: https://cdn.shopify.com/s/files/1/0779/5018/9812/files/colombia-supremo-green-coffee-beans-closeup-raw-unroasted.png?v=1762379875
   - [Lowest](https://roastikacoffee.com/products/colombia-supremo?variant=46943808946420)
     Availability: Not Available
     Price: $8.36 USD
@@ -216,9 +216,10 @@
   - [Exploring the Green Coffee Harvesting Seasons Worldwide](https://roastikacoffee.com/blogs/news/exploring-the-green-coffee-harvesting-seasons-worldwide): Exploring the Green Coffee Harvesting Seasons Worldwide
     Updated: 2025-11-01T02:44:19Z
     Author: Roastika
-  - [The Journey of Unroasted Green Coffee From Harvest to Shipment](https://roastikacoffee.com/blogs/news/the-journey-of-unroasted-green-coffee-from-harvest-to-shipment): The Journey of Unroasted Green Coffee From Harvest to Shipment
-    Updated: 2025-11-02T20:01:00Z
-    Author: Roastika
+  - [Best Home Coffee Roasting Tips: Beginner's Guide to Roasting Green Coffee Beans](https://roastikacoffee.com/blogs/news/best-home-coffee-roasting-tips-beginner-s-guide-to-roasting-green-coffee-beans): Best Home Coffee Roasting Tips: Beginner's Guide to Roasting Green Coffee Beans
+    Updated: 2025-11-05T22:18:12Z
+    Author: ROASTIKA
+    Tags: best home coffee roasting tips, DIY coffee roast profiles, green coffee beans, home coffee roaster, roasting green beans flavor impact, small batch coffee roasting
 
 ## Store Pages
 
