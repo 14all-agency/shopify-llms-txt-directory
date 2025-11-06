@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-05T00:00:43.434Z
+- Updated At: 2025-11-06T00:00:46.341Z
 
 ## Products
 
@@ -3084,7 +3084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a1fabd2c-2de8-496e-a8fa-820eb26a25d8.jpg?v=1732705258
   Price: ₹239.00 INR
 - [POKEMON PIKACHU IN JACKET KEYCHAIN](https://theworldofnerds.com/products/pokemon-pikachu-with-jacket-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-10-31T12:16:00Z
+  Updated: 2025-11-05T13:04:59Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3189,7 +3189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_89e85936-44a3-4b76-aaea-b131e37064c0.jpg?v=1732710107
   Price: ₹239.00 INR
 - [HARRY PATTER & HERMIONE KEYCHAIN](https://theworldofnerds.com/products/harry-patter-hermione-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-11-03T17:38:00Z
+  Updated: 2025-11-05T04:38:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3616,7 +3616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8.jpg?v=1738230366
   Price: ₹2,295.00 INR
 - [MAISTO AUDI R8 SCALE - 1:24](https://theworldofnerds.com/products/maisto-audi-r8-scale-1-24): Introducing the MAISTO AUDI R8 SCALE - 1:24, a highly detailed replica of the iconic Audi R8 sports car. With intricate craftsmanship and a 1:24 scale, this model is perfect for collectors and car enthusiasts alike. Bring the thrill of the Audi R8 into your own home.
-  Updated: 2025-07-29T05:12:23Z
+  Updated: 2025-11-05T11:26:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4722,7 +4722,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_23.jpg?v=1738748735
   Price: ₹249.00 INR
 - [MAISTO JAWA SCALE - 1:18](https://theworldofnerds.com/products/maisto-jawa-scale-1-18-copy): This JAWA DIECAST BIKE'S SCALE - 1:18 features a highly detailed and accurate 1:18 scale replica of the iconic Jawa motorcycle. Crafted with precision and attention to detail, this diecast bike is perfect for collectors and motorcycle enthusiasts alike. Experience the legendary Jawa bike in a whole new way with this stunning scale model. The JAWA CLASSIC 350 SCALE - 1:18 is a highly detailed replica of the iconic motorcycle, perfect for collectors and enthusiasts. With its 1:18 scale, every feature and detail is faithfully reproduced, providing a realistic and immersive experience. Made with precision and quality, it's a must-have for any JAWA fan.
-  Updated: 2025-11-02T10:07:46Z
+  Updated: 2025-11-05T05:16:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5625,7 +5625,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7757copy.jpg?v=1740118331
   Price: ₹1,649.00 INR
 - [BROLY SS GREEN D1 ACTION FIGURE](https://theworldofnerds.com/products/broly-ss-green-d1-action-figure): Upgrade your collection with the BROLY SS GREEN D1 ACTION FIGURE. Crafted with intricate details, this figure captures the powerful and menacing presence of Broly in his Super Saiyan form. Perfect for display or play, this action figure is a must-have for any Dragon Ball Z fan.
-  Updated: 2025-07-29T05:13:40Z
+  Updated: 2025-11-05T09:23:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7228,7 +7228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1340.jpg?v=1742447763
   Price: ₹1,699.00 INR
 - [GOGETA SUPER SAIYAN ACTION FIGURE](https://theworldofnerds.com/products/gogeta-super-saiyan-action-figure): Unleash your inner warrior with the GOGETA SUPER SAIYAN ACTION FIGURE! Crafted with incredible detail and precision, this figure brings to life the powerful fusion of Goku and Vegeta. Perfect for any Dragon Ball Z fan, it's sure to add a touch of strength and awesomeness to your collection.
-  Updated: 2025-07-29T05:14:28Z
+  Updated: 2025-11-05T02:40:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10412,6 +10412,1077 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1ZDtoysdeadpoolwolvrine.jpg?v=1758275059
   Price: ₹3,999.00 INR
+- [Majorette Ford Escort MK II RS1800 Diecast Car Model](https://theworldofnerds.com/products/majorette-ford-escort-mk-ii-rs1800-diecast-car-model): Capture the spirit of rally racing with the Majorette Ford Escort MK II RS1800 diecast car. This collectible model features authentic detailing, vintage rally stripes, and durable metal construction — perfect for car enthusiasts, collectors, and kids aged 3 and up. Ideal for display or play, this Ford Escort RS1800 toy car brings classic motorsport style to your diecast collection.
+  Updated: 2025-11-05T16:47:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96dd8a7c-67ff-42f2-af3a-d10a952800e0.jpg?v=1762323998
+  Price: ₹399.00 INR
+- [Majorette Vintage Yellow Citroën HY Collectible Diecast Model](https://theworldofnerds.com/products/majorette-vintage-yellow-citroen-hy-collectible-diecast-model): Bring vintage charm to your collection with the Majorette Citroën HY Service Van diecast model. Featuring authentic yellow Citroën Service livery, realistic detailing, and sturdy metal construction, this collectible van is perfect for both play and display. A must-have for fans of classic French vehicles and Majorette vintage series collectors, this Citroën HY diecast toy car celebrates automotive history in miniature form.
+  Updated: 2025-11-05T17:22:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7f5604d8-6be1-4f47-ab58-c4c46491cadc.jpg?v=1762324421
+  Price: ₹399.00 INR
+- [Majorette Renault Clio 16S Diecast Model Car](https://theworldofnerds.com/products/majorette-renault-clio-16s-diecast-model-car): Experience the legacy of French performance with the Majorette Renault Clio 16S diecast car. This detailed miniature captures the sporty essence of the iconic hot hatch, featuring a sleek black finish, realistic wheels, and durable metal body. Perfect for display or play, the Renault Clio 16S model by Majorette is a must-have for collectors who love vintage cars and European classics.
+  Updated: 2025-11-05T09:55:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1d830198-14b6-4db9-80f6-9f60e74a4f49.jpg?v=1762324494
+  Price: ₹399.00 INR
+- [Majorette Mercedes-Benz 190E 2.5-16 EVO I Diecast Model](https://theworldofnerds.com/products/majorette-mercedes-benz-190e-2-5-16-evo-i-diecast-model): Celebrate German engineering excellence with the Majorette Mercedes-Benz 190E 2.5-16 EVO I diecast car. Featuring sleek silver detailing, sporty alloy wheels, and a premium metal build, this collectible model captures the timeless spirit of the iconic DTM-era sedan. Perfect for collectors and enthusiasts alike, the Mercedes 190E EVO I Majorette is a standout piece in any vintage diecast car collection.
+  Updated: 2025-11-05T17:34:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3b364f25-d991-48c0-90ae-f4b6e7e4dddf.jpg?v=1762324568
+  Price: ₹399.00 INR
+- [Majorette Citroen 2CV Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-citroen-2cv-vintage-diecast-model-car): Rediscover French automotive heritage with the Majorette Citroën 2CV diecast car. This beautifully crafted miniature features a charming green and white color scheme, realistic body detailing, and sturdy metal construction. Perfect for collectors and enthusiasts, the Citroën 2CV toy model captures the nostalgic elegance of one of France’s most iconic vehicles. Add this Majorette vintage series collectible to your diecast car collection today.
+  Updated: 2025-11-05T08:14:33Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_86721ee7-36d4-4e3a-b067-0514df675e31.jpg?v=1762324647
+  Price: ₹399.00 INR
+- [Majorette Toyota 2000GT Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-2000gt-vintage-diecast-model-car): Celebrate Japanese automotive excellence with the Majorette Toyota 2000GT diecast model car. This iconic red sports car miniature captures the elegance and speed of the legendary 1960s classic, featuring realistic detailing and durable metal construction. Perfect for collectors and enthusiasts, the Toyota 2000GT by Majorette is a must-have piece in any vintage diecast car collection.
+  Updated: 2025-11-05T10:04:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c9e0514f-eb69-44bf-b06b-1dc5fe5e1c8c.jpg?v=1762324710
+  Price: ₹399.00 INR
+- [Majorette Fiat 500 D Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-fiat-500-d-vintage-diecast-model-car): Add Italian charm to your collection with the Majorette Fiat 500 D diecast car. This beautifully crafted light blue miniature showcases the timeless style of the classic Fiat, complete with detailed bodywork and durable metal construction. Ideal for collectors and fans of vintage European cars, the Fiat 500 D by Majorette captures the essence of retro motoring in a compact, display-worthy design.
+  Updated: 2025-11-05T16:25:38Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b92d3907-f4ee-4ca1-9f05-95eeb9939fbe.jpg?v=1762324779
+  Price: ₹399.00 INR
+- [Majorette Volvo 240 GL Estate Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-volvo-240-gl-estate-vintage-diecast-model-car): Celebrate Scandinavian design and durability with the Majorette Volvo 240 GL Estate diecast model car. This detailed red miniature showcases the iconic Volvo station wagon, known for its reliability and timeless style. Perfect for collectors and fans of classic European cars, the Volvo 240 GL Estate by Majorette combines authentic detailing, smooth finish, and premium metal craftsmanship for a must-have addition to your vintage diecast collection.
+  Updated: 2025-11-05T12:34:13Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_77db9118-75f0-46ee-bb7c-1d30809d3b87.jpg?v=1762324844
+  Price: ₹399.00 INR
+- [Majorette Porsche 934 Vintage Blue Diecast Model Car](https://theworldofnerds.com/products/majorette-porsche-934-vintage-blue-diecast-model-car): Experience the thrill of German engineering with the Majorette Porsche 934 diecast model car. This stunning blue collectible captures the spirit of Porsche’s legendary racing heritage with realistic detailing, gold-accented wheels, and a premium metallic finish. Perfect for collectors and enthusiasts, the Majorette Vintage Porsche 934 brings classic motorsport style to your display shelf. Ideal for diecast car collections, vintage car lovers, and Porsche fans alike.
+  Updated: 2025-11-05T10:56:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e7152d92-58cf-4ed5-bb56-6e14750875d9.jpg?v=1762324924
+  Price: ₹399.00 INR
+- [Majorette Chevrolet Corvette 1990 ZR-1 Vintage Diecast Model](https://theworldofnerds.com/products/majorette-chevrolet-corvette-1990-zr-1-vintage-diecast-model): Unleash American muscle power with the Majorette Chevrolet Corvette 1990 ZR-1 diecast model car. Featuring sleek black paint, bold rims, and authentic detailing, this collectible captures the essence of the iconic Corvette era. Perfect for enthusiasts and collectors, the Majorette Vintage Corvette ZR-1 is a must-have for anyone passionate about classic sports cars, diecast vehicles, and Chevrolet models.
+  Updated: 2025-11-05T13:32:29Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e382ee09-b588-4339-8835-156f109ad478.jpg?v=1762324976
+  Price: ₹399.00 INR
+- [Majorette DS 21 Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-ds-21-vintage-diecast-model-car): Experience the elegance of French automotive history with the Majorette DS 21 vintage diecast model car. This finely detailed collectible captures the iconic Citroën DS 21, known for its futuristic design and smooth lines. Perfect for car enthusiasts and diecast collectors, the Majorette DS 21 brings a touch of retro charm and authenticity to any display.
+  Updated: 2025-11-05T10:45:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a35dc7e2-1861-4ac1-b705-0679fe1818d2.jpg?v=1762325052
+  Price: ₹399.00 INR
+- [Majorette Datsun 260Z Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-datsun-260z-vintage-diecast-model-car): Relive the golden era of Japanese sports cars with the Majorette Datsun 260Z vintage diecast model car. This beautifully crafted collectible showcases the sleek design and racing spirit of the iconic Datsun 260Z, finished in a stylish dark green. A perfect addition for diecast enthusiasts and car lovers, the Majorette Datsun 260Z captures the essence of classic performance and automotive heritage.
+  Updated: 2025-11-05T16:19:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_214954db-75ae-4d4c-972f-2e9b0a356346.jpg?v=1762325105
+  Price: ₹399.00 INR
+- [Majorette Toyota GRMN Yaris Premium Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-grmn-yaris-premium-diecast-model-car): Experience pure performance in miniature form with the Majorette Toyota GRMN Yaris Premium Cars diecast model. This sleek black collectible highlights Toyota’s high-performance GRMN division, capturing the sporty design and aggressive stance of the Toyota GRMN Yaris. Perfect for collectors and enthusiasts, this premium Majorette model car brings authentic detailing and dynamic style to any diecast collection.
+  Updated: 2025-11-05T11:04:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_76baafe4-8675-4a8e-b98d-104ec3c53a29.jpg?v=1762325157
+  Price: ₹399.00 INR
+- [Majorette Volvo EX90 Premium Diecast Model Car](https://theworldofnerds.com/products/majorette-volvo-ex90-premium-diecast-model-car): The Majorette Volvo EX90 Premium Diecast Model Car captures the modern elegance of Volvo’s all-electric SUV in stunning detail. Featuring a sleek black finish, premium design, and realistic proportions, this Majorette Premium Cars Volvo EX90 is a must-have for collectors and SUV enthusiasts. Designed for durability and display, it perfectly showcases the innovation and sophistication of Volvo’s electric range.
+  Updated: 2025-11-05T15:59:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a4f0aa77-72bb-4fdb-842e-f6d5f7b49b1d.jpg?v=1762325886
+  Price: ₹399.00 INR
+- [Majorette Range Rover Evoque Premium Diecast Car](https://theworldofnerds.com/products/majorette-range-rover-evoque-premium-diecast-car): The Majorette Range Rover Evoque Premium Diecast Car showcases the bold and refined design of Land Rover’s luxury SUV in a stunning red finish. Built with premium materials and authentic detailing, this Majorette Premium Cars Evoque model is a collector’s favorite. Perfect for car enthusiasts and toy car collections, it combines durability, realism, and the iconic elegance of Range Rover engineering.
+  Updated: 2025-11-05T16:54:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68dfd779-9534-4c71-afdd-ba21e5e055cf.jpg?v=1762325957
+  Price: ₹399.00 INR
+- [Majorette Nissan Z Premium Diecast Car](https://theworldofnerds.com/products/majorette-nissan-z-premium-diecast-car): The Majorette Nissan Z Premium Diecast Car captures the essence of Nissan’s legendary sports coupe in a bold blue finish. With its sleek design, realistic detailing, and durable diecast build, this Majorette Premium Cars Nissan Z model is perfect for collectors and enthusiasts of high-performance vehicles. A must-have addition to any miniature car collection, representing the power and heritage of the Nissan Z series.
+  Updated: 2025-11-05T11:40:51Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f84f5638-2cbb-4da8-b32c-b0091d12b482.jpg?v=1762326014
+  Price: ₹399.00 INR
+- [Majorette Bugatti Chiron Pur Sport Diecast Car](https://theworldofnerds.com/products/majorette-bugatti-chiron-pur-sport-diecast-car): The Majorette Bugatti Chiron Pur Sport Diecast Car showcases the perfect blend of speed, style, and precision. Finished in striking yellow with authentic detailing, this Majorette Premium Cars edition replicates the legendary Bugatti’s aerodynamic design and racing heritage. A premium collectible for car enthusiasts, this miniature model captures the power and luxury of the real Bugatti Chiron Pur Sport, making it a standout piece in any diecast collection.
+  Updated: 2025-11-05T17:05:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e1fdbab9-74d3-469f-9843-0cbb27006947.jpg?v=1762326071
+  Price: ₹399.00 INR
+- [Majorette Volkswagen ID. Buzz Diecast Van](https://theworldofnerds.com/products/majorette-volkswagen-id-buzz-diecast-van): The Majorette Volkswagen ID. Buzz Diecast Van captures the charm of Volkswagen’s futuristic electric van in a stunning yellow-and-white finish. Part of the Majorette Premium Cars collection, this detailed miniature replicates the design of the real VW ID. Buzz, combining nostalgia with modern innovation. Ideal for collectors and VW enthusiasts, this model showcases premium craftsmanship, realistic detailing, and smooth rolling wheels for display or play.
+  Updated: 2025-11-05T12:36:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_54013ade-0e0c-4203-8361-82e22336e657.jpg?v=1762326126
+  Price: ₹399.00 INR
+- [Majorette Jeep Wrangler 4XE Diecast Model](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-diecast-model): The Majorette Jeep Wrangler 4XE Diecast Model showcases the power and ruggedness of the legendary off-roader in a bold yellow finish. As part of the Majorette Premium Cars collection, this detailed miniature captures the hybrid Jeep Wrangler 4XE design with realistic doors, intricate detailing, and durable construction. Perfect for collectors and Jeep fans, this diecast SUV brings adventure to your display shelf or playtime with authentic style and craftsmanship.
+  Updated: 2025-11-05T09:27:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d8fc36f-f100-466d-8296-3102971a5f73.jpg?v=1762326176
+  Price: ₹399.00 INR
+- [Majorette Alpine A110 R Diecast Model](https://theworldofnerds.com/products/majorette-alpine-a110-r-diecast-model): The Majorette Alpine A110 R Diecast Model captures the essence of French racing elegance with its sleek blue design and precision detailing. Part of the Majorette Premium Cars lineup, this miniature features authentic Alpine styling, aerodynamic curves, and realistic wheels that reflect the spirit of performance. Perfect for collectors and enthusiasts, this Alpine A110 R toy car adds a touch of racing heritage and premium craftsmanship to any diecast car collection.
+  Updated: 2025-11-05T10:41:12Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f071f518-ae44-4ee9-a323-60ecf4dfaaf5.jpg?v=1762326269
+  Price: ₹399.00 INR
+- [Majorette Mercedes-AMG GT R Diecast Model](https://theworldofnerds.com/products/majorette-mercedes-amg-gt-r-diecast-model): The Majorette Mercedes-AMG GT R Diecast Model brings the power and precision of German engineering to your collection. Finished in a striking orange hue, this Majorette Premium Cars edition captures the aggressive styling, aerodynamic lines, and sporty stance of the real AMG GT R. A must-have for car enthusiasts and collectors, this miniature model showcases exceptional craftsmanship and premium detailing that reflect the performance legacy of Mercedes-AMG.
+  Updated: 2025-11-05T13:02:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_87c84a89-8b39-4a74-b5aa-565d8e18a22f.jpg?v=1762326324
+  Price: ₹399.00 INR
+- [Majorette Audi Q4 e-tron Diecast Model Car](https://theworldofnerds.com/products/majorette-audi-q4-e-tron-diecast-model-car): The Majorette Audi Q4 e-tron Diecast Model is a sleek and detailed replica of Audi’s cutting-edge electric SUV. Part of the Majorette Premium Cars collection, this silver miniature captures the modern design, aerodynamic shape, and innovative spirit of the real Audi Q4 e-tron. Ideal for collectors and car enthusiasts, it represents the future of electric mobility in a compact, high-quality diecast form that adds style and sophistication to any car collection.
+  Updated: 2025-11-05T09:49:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_32ea0a08-a037-4131-89bd-9f9f3088573c.jpg?v=1762326382
+  Price: ₹399.00 INR
+- [Majorette Chevrolet Camaro Diecast Model Car](https://theworldofnerds.com/products/majorette-chevrolet-camaro-diecast-model-car): The Majorette Chevrolet Camaro Diecast Model Car brings the power and performance of the legendary American muscle car to life. Featuring a sleek silver body with bold red racing stripes, this Majorette Premium Cars edition captures the sporty essence of the Chevrolet Camaro. Perfect for collectors and car enthusiasts, this detailed miniature showcases authentic design elements, durable diecast build, and dynamic styling that make it a must-have in any diecast car collection.
+  Updated: 2025-11-05T09:14:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d1b83ee8-3e69-4eb0-a324-bf7b0e52db0a.jpg?v=1762326458
+  Price: ₹399.00 INR
+- [Majorette McLaren Senna Diecast Model Car](https://theworldofnerds.com/products/majorette-mclaren-senna-diecast-model-car): The Majorette McLaren Senna Diecast Model Car is a stunning miniature tribute to one of the most iconic hypercars ever built. Crafted with precision, this Majorette Premium Cars edition features a sleek metallic green finish, signature aerodynamic details, and authentic design elements that capture the speed and spirit of the real McLaren Senna. Perfect for collectors and automotive enthusiasts, this model showcases Majorette’s commitment to quality and realism in every detail.
+  Updated: 2025-11-05T12:44:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9cacd2cf-6f5a-4def-87ab-b30efa295de4.jpg?v=1762326556
+  Price: ₹399.00 INR
+- [Majorette Ford Mustang Dark Horse Diecast Model Car](https://theworldofnerds.com/products/majorette-ford-mustang-dark-horse-diecast-model-car): The Majorette Ford Mustang Dark Horse Diecast Model Car is a bold representation of American muscle and performance. Part of the Majorette Premium Cars series, this sleek black Ford Mustang Dark Horse miniature captures the essence of raw power and aggressive design. Perfect for collectors and car enthusiasts, this diecast model showcases premium detailing, durable build quality, and authentic styling inspired by the real Mustang Dark Horse.
+  Updated: 2025-11-05T11:14:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b2b75220-0c0f-44f0-bf7e-415941d1df1c.jpg?v=1762326606
+  Price: ₹399.00 INR
+- [Majorette Toyota Tacoma TRD Pro Diecast Model Car](https://theworldofnerds.com/products/majorette-toyota-tacoma-trd-pro-diecast-model-car): The Majorette Toyota Tacoma TRD Pro Diecast Model Car captures the rugged spirit of Toyota’s iconic off-road pickup. From the Majorette Premium Cars collection, this detailed white Tacoma TRD Pro miniature truck features authentic design, durable build quality, and realistic wheels. Perfect for collectors and off-road enthusiasts, this diecast model highlights the strength, style, and adventure-ready essence of the real TRD Pro.
+  Updated: 2025-11-05T10:00:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68172c71-2bd9-4de3-8c41-94ec3e46fece.jpg?v=1762326807
+  Price: ₹399.00 INR
+- [Majorette Land Rover Defender 90 Diecast Model](https://theworldofnerds.com/products/majorette-land-rover-defender-90-diecast-model): The Majorette Land Rover Defender 90 Diecast Model Car is a detailed miniature that embodies the power and prestige of the legendary off-roader. Part of the Majorette Premium Cars lineup, this grey Land Rover Defender 90 features realistic detailing, durable metal construction, and precision wheels. Ideal for collectors and SUV enthusiasts, it captures the rugged elegance and adventure-ready spirit of the Defender 90 in a compact collectible form.
+  Updated: 2025-11-05T18:17:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8d28fff3-4590-4334-a60e-65fc3eb77181.jpg?v=1762326891
+  Price: ₹399.00 INR
+- [Majorette Lamborghini Huracan Avio Diecast Car](https://theworldofnerds.com/products/majorette-lamborghini-huracan-avio-diecast-car): Experience the thrill of Italian engineering with the Majorette Lamborghini Huracán Avio Diecast Model Car. This stunning black Huracán Avio features yellow accent details, capturing the bold aeronautical-inspired design of Lamborghini’s special edition supercar. Part of the Majorette Premium Cars collection, it combines durable diecast metal construction with authentic detailing, perfect for collectors and car enthusiasts.
+  Updated: 2025-11-05T17:04:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c7e3463c-0659-4ee5-a16e-ad1b04d3b999.jpg?v=1762326960
+  Price: ₹399.00 INR
+- [Majorette Mercedes-AMG A35 4MATIC Diecast Car](https://theworldofnerds.com/products/majorette-mercedes-amg-a35-4matic-diecast-car): Unleash luxury and performance with the Majorette Mercedes-AMG A35 4MATIC Diecast Model Car. This premium red AMG A35 miniature captures the sleek design and sporty elegance of the real Mercedes-Benz. Built with detailed interiors, realistic wheels, and durable diecast metal, it’s part of the Majorette Premium Cars lineup—perfect for collectors and automotive fans.
+  Updated: 2025-11-05T16:14:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_53e934bf-36fc-4469-8470-a7058f0d26ae.jpg?v=1762327016
+  Price: ₹399.00 INR
+- [Majorette Jeep Wrangler 4XE Diecast Diecast Car](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-diecast-diecast-car): Explore adventure with the Majorette Jeep Wrangler 4XE Diecast Model Car. This striking red off-road collectible captures the rugged spirit of the iconic Jeep Wrangler 4XE. Designed with detailed interiors, opening parts, and durable metal build, it’s part of the Majorette Premium Cars series, ideal for collectors and kids alike.
+  Updated: 2025-11-05T17:44:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_798cd038-75c7-4cf9-a284-44e1fa3bf4f3.jpg?v=1762327086
+  Price: ₹399.00 INR
+- [Majorette Nissan Z Racing Car Diecast Model](https://theworldofnerds.com/products/majorette-nissan-z-racing-car-diecast-model): black sports car collectible features red detailing, racing decals, and authentic design from the Majorette Racing Cars series. Perfect for car lovers and collectors, the Nissan Z diecast delivers a bold racing aesthetic with precision craftsmanship and durable build quality.
+  Updated: 2025-11-05T10:23:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2b3387f8-c70d-4f2d-9ef7-f357b97994a2.jpg?v=1762327154
+  Price: ₹399.00 INR
+- [Majorette Chevrolet Corvette 1990 ZR-1 Racing Car](https://theworldofnerds.com/products/majorette-chevrolet-corvette-1990-zr-1-racing-car): Experience racing nostalgia with the Majorette Chevrolet Corvette 1990 ZR-1 Diecast Car. This white racing collectible features authentic detailing, classic red-blue striping, and the bold number 55 design. From the Majorette Racing Cars series, it’s perfect for collectors and enthusiasts who appreciate vintage Chevrolet performance cars and high-quality diecast craftsmanship.
+  Updated: 2025-11-05T08:46:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cce6963e-8cac-42ba-94ac-5de312d93f20.jpg?v=1762327217
+  Price: ₹399.00 INR
+- [Majorette Volkswagen ID. Buzz Cargo Racing Van](https://theworldofnerds.com/products/majorette-volkswagen-id-buzz-cargo-racing-van): Add a touch of electric innovation to your collection with the Majorette Volkswagen ID. Buzz Cargo Diecast Model. Featuring a blue and white racing design with the number 94, this detailed miniature captures the futuristic spirit of Volkswagen’s electric van. Part of the Majorette Racing Cars series, it combines sleek styling, collectible value, and premium diecast quality — a must-have for Volkswagen enthusiasts and diecast collectors alike.
+  Updated: 2025-11-05T09:51:48Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_395e4018-27eb-422b-a4bd-c4c83fd02b61.jpg?v=1762327266
+  Price: ₹399.00 INR
+- [Majorette Jeep Wrangler 4XE Racing Edition](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-racing-edition): Unleash off-road power with the Majorette Jeep Wrangler 4XE Racing Car, a premium diecast model featuring an eye-catching purple and blue racing livery with number 41 decals. Part of the Majorette Racing Cars series, this miniature captures the rugged style of the hybrid Jeep 4XE with realistic detailing, sturdy wheels, and sporty graphics — perfect for collectors and Jeep enthusiasts who love adventurous designs.
+  Updated: 2025-11-05T11:34:54Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b65c2251-37f9-497c-a3b3-126ab0572865.jpg?v=1762327354
+  Price: ₹399.00 INR
+- [Majorette Ford F-150 Raptor Racing Edition](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-racing-edition): Experience the thrill of off-road racing with the Majorette Ford F-150 Raptor #7, a stunning diecast model from the Majorette Racing Cars series. Designed in a striking light blue and orange livery, this collectible captures the bold spirit of the legendary Ford F-150 Raptor with realistic detailing, rugged wheels, and sporty graphics. Perfect for collectors, racing fans, and truck enthusiasts who appreciate powerful design and precision craftsmanship.
+  Updated: 2025-11-05T09:21:07Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_99113137-d5ee-4b3a-beb9-0aac7b0778e5.jpg?v=1762327409
+  Price: ₹399.00 INR
+- [Majorette Lamborghini Countach LP400 Racing Edition Diecast Model](https://theworldofnerds.com/products/majorette-lamborghini-countach-lp400-racing-edition-diecast-model): Unleash classic supercar performance with the Majorette Lamborghini Countach LP400 #6, a stunning diecast from the Majorette Racing Cars series. Featuring a bold red body with white racing stripes and gold wheels, this collectible perfectly recreates the legendary design of the Lamborghini Countach LP400, a true icon of speed and style. Ideal for collectors and car enthusiasts who appreciate detailed craftsmanship and timeless automotive history.
+  Updated: 2025-11-05T09:25:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_72002192-2de1-42bb-9b8d-93c378181783.jpg?v=1762327467
+  Price: ₹399.00 INR
+- [Majorette Ford Bronco Wildtrak Diecast Model Car](https://theworldofnerds.com/products/majorette-ford-bronco-wildtrak-diecast-model-car): Take your collection off-road with the Majorette Ford Bronco Wildtrak, a rugged and stylish diecast car built for adventure. Featuring a sleek gray and black design with red racing accents and all-terrain wheels, this collectible captures the true spirit of the Ford Bronco Wildtrak. Perfect for fans of powerful 4x4 vehicles and diecast car collectors alike, this model from the Majorette Racing Cars series combines bold design with detailed craftsmanship.
+  Updated: 2025-11-05T15:15:18Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_13baae50-0d7b-4dca-9c8a-233f25e319e4.jpg?v=1762327523
+  Price: ₹399.00 INR
+- [Majorette Alfa Romeo Tonale Diecast Model Car](https://theworldofnerds.com/products/majorette-alfa-romeo-tonale-diecast-model-car): Experience Italian style and racing passion with the Majorette Alfa Romeo Tonale, a detailed diecast model celebrating Alfa Romeo’s sporty heritage. Featuring a striking red and black geometric livery with the 110th anniversary emblem, this collectible car from the Majorette Racing Cars series embodies performance and elegance. Perfect for collectors and car enthusiasts, the Alfa Romeo Tonale miniature adds a touch of luxury and racing spirit to any diecast display.
+  Updated: 2025-11-05T12:00:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_bb804b98-55a9-4783-95b0-1d35bb89e1c1.jpg?v=1762327577
+  Price: ₹399.00 INR
+- [Majorette Isuzu D-Max Spark Diecast Model Car](https://theworldofnerds.com/products/majorette-isuzu-d-max-spark-diecast-model-car): Unleash power and performance with the Majorette Isuzu D-Max Spark, a finely detailed diecast pickup truck inspired by Isuzu’s legendary D-Max series. Designed in white with blue and red racing graphics, this collectible model captures the spirit of speed and endurance. Part of the Majorette Racing Cars series, it’s a perfect addition for diecast collectors, racing enthusiasts, and fans of rugged pickup designs.
+  Updated: 2025-11-05T12:15:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3cd1765d-5404-408c-bad8-729b5b07b487.jpg?v=1762327636
+  Price: ₹399.00 INR
+- [Majorette Alpine A110 R Diecast Model Car](https://theworldofnerds.com/products/majorette-alpine-a110-r-diecast-model-car): Experience precision and performance with the Majorette Alpine A110 R, a premium diecast model inspired by Alpine’s lightweight racing icon. This collectible features a sleek white body with yellow and black racing stripes, detailed wheels, and authentic racing decals. Perfect for display or play, the Alpine A110 R is part of the Majorette Racing Cars series, combining French design elegance with motorsport spirit.
+  Updated: 2025-11-05T13:38:13Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1010ebdd-484d-4f29-9710-2425dc84e6e8.jpg?v=1762327727
+  Price: ₹399.00 INR
+- [Majorette Renault Megane R.S. Diecast Car](https://theworldofnerds.com/products/majorette-renault-megane-r-s-diecast-car): Unleash the thrill of French engineering with the Majorette Renault Megane R.S. diecast car. Featuring a sleek white finish with dynamic red and black racing graphics, this miniature captures the spirit of Renault Sport’s performance legacy. Complete with red alloy-style wheels and realistic detailing, it’s a must-have for collectors and racing enthusiasts. Part of the Majorette Racing Cars series, this model perfectly combines authenticity and style for display or play.
+  Updated: 2025-11-05T11:31:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6c3fe00c-efe4-49e5-8216-7c19f64b4907.jpg?v=1762327798
+  Price: ₹399.00 INR
+- [Majorette Bugatti Chiron Pur Sport Diecast Car](https://theworldofnerds.com/products/majorette-bugatti-chiron-pur-sport-diecast-car-1): Experience the thrill of speed and precision with the Majorette Bugatti Chiron Pur Sport diecast car. This stunning black racing edition features orange accent wheels and authentic detailing that captures the essence of Bugatti’s performance legacy. Perfect for collectors and supercar fans, this miniature model from the Majorette Racing Cars series embodies power, elegance, and craftsmanship. Display it proudly or add it to your diecast racing collection for a touch of hypercar excellence.
+  Updated: 2025-11-05T08:50:52Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eeb30d58-116e-4588-9b67-96a9de9791b8.jpg?v=1762327863
+  Price: ₹399.00 INR
+- [Majorette Porsche 911 GT3 RS Pink Pig Edition](https://theworldofnerds.com/products/majorette-porsche-911-gt3-rs-pink-pig-edition): The Majorette Porsche 911 GT3 RS Pink Pig Edition is a collector’s dream for Porsche enthusiasts and diecast fans alike. Featuring the iconic #23 Pink Pig livery, this model captures the racing heritage of Porsche’s legendary GT3 RS. Crafted with precision, it showcases authentic detailing, a sporty rear wing, and premium quality construction. Perfect for collectors, display shelves, or racing-themed collections, this Majorette Porsche Edition brings timeless motorsport design to your miniature car lineup.
+  Updated: 2025-11-05T11:38:51Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_deafee9f-6c61-4e32-b2f2-ea49fc496dad.jpg?v=1762327936
+  Price: ₹399.00 INR
+- [Majorette Porsche Cayenne Turbo S E-Hybrid Diecast Car](https://theworldofnerds.com/products/majorette-porsche-cayenne-turbo-s-e-hybrid-diecast-car): The Majorette Porsche Cayenne Turbo S E-Hybrid is a detailed miniature replica of Porsche’s powerful hybrid SUV. Part of the Majorette Porsche Edition, this diecast model features a striking red finish, realistic body lines, and precision detailing that highlights the elegance and strength of the Cayenne Turbo S. Perfect for car enthusiasts and collectors, this scale model combines Porsche’s luxury design with Majorette’s craftsmanship, making it an essential addition to any diecast car collection.
+  Updated: 2025-11-05T09:21:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_107b13bf-4c34-4f65-bdd1-eb22895b9f4d.jpg?v=1762328028
+  Price: ₹399.00 INR
+- [Majorette Porsche 718 Boxster Diecast Car](https://theworldofnerds.com/products/majorette-porsche-718-boxster-diecast-car): The Majorette Porsche 718 Boxster is a beautifully detailed diecast model that captures the elegance and performance of Porsche’s iconic convertible sports car. Part of the Majorette Porsche Edition, this miniature features a sleek green finish, authentic body design, and precision detailing. Ideal for collectors and Porsche enthusiasts, this model showcases the perfect blend of luxury and speed, making it a standout addition to any diecast or model car collection.
+  Updated: 2025-11-05T11:04:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f12ad048-9eac-48ed-bf9e-ea5c3146da3a.jpg?v=1762328124
+  Price: ₹399.00 INR
+- [Majorette Ford Mustang GT Diecast Car – Limited Edition](https://theworldofnerds.com/products/majorette-ford-mustang-gt-diecast-car-limited-edition): The Majorette Ford Mustang GT Limited Edition is a striking diecast model featuring a bold gold finish and authentic detailing that captures the power and style of the legendary muscle car. Part of Majorette’s Series 3 collection, this miniature Ford Mustang GT showcases precision craftsmanship, premium paint, and realistic design — perfect for car enthusiasts and collectors alike. Add this iconic American sports car to your Majorette collection and experience the thrill of Mustang performance in miniature form.
+  Updated: 2025-11-05T12:00:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f06a6ac-ffee-4771-abea-75c037304cfb.jpg?v=1762328189
+  Price: ₹399.00 INR
+- [Majorette Dodge Charger R/T Diecast Car – Limited Edition](https://theworldofnerds.com/products/majorette-dodge-charger-r-t-diecast-car-limited-edition): The Majorette Dodge Charger R/T Limited Edition brings classic American muscle to your collection in a sleek black and gold design. This Series 3 diecast model captures the aggressive styling and vintage power of the legendary Dodge Charger R/T, making it a must-have for collectors and enthusiasts. Featuring detailed graphics, realistic body lines, and premium construction, this Majorette collectible is a perfect showcase of muscle car heritage and craftsmanship.
+  Updated: 2025-11-05T13:15:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c15864db-f4e8-491a-90b7-9c016c1eee5f.jpg?v=1762328244
+  Price: ₹399.00 INR
+- [Majorette Deluxe Cars – Bugatti Chiron Pur Sport Diecast Model](https://theworldofnerds.com/products/majorette-deluxe-cars-bugatti-chiron-pur-sport-diecast-model): Experience the thrill of speed with the Majorette Deluxe Bugatti Chiron Pur Sport, a high-quality diecast model featuring a metal body, rubber tires, suspension, and opening parts. Perfect for collectors and car enthusiasts, this officially licensed miniature captures the power and elegance of the real Bugatti Chiron in stunning detail.
+  Updated: 2025-11-05T09:54:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a1f5898e-14e7-4da6-92f6-5cf5ebfd1d3d.jpg?v=1762328310
+  Price: ₹499.00 INR
+- [Majorette Deluxe Cars – Bugatti Chiron Pur Sport (Blue Edition) Diecast Car](https://theworldofnerds.com/products/majorette-deluxe-cars-bugatti-chiron-pur-sport-blue-edition-diecast-car): Add a touch of speed and luxury to your collection with the Majorette Deluxe Bugatti Chiron Pur Sport (Blue Edition). Featuring a metal body, rubber tires, suspension, and opening parts, this licensed diecast car showcases the stunning blue finish of the Chiron Pur Sport. Perfect for collectors, enthusiasts, and display shelves alike.
+  Updated: 2025-11-05T10:15:19Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2563b078-24b8-48d8-9fbf-fc52d8bf9478.jpg?v=1762328392
+  Price: ₹499.00 INR
+- [Majorette Porsche Taycan Turbo S – Porsche Edition Diecast Car](https://theworldofnerds.com/products/majorette-porsche-taycan-turbo-s-porsche-edition-diecast-car): Experience the power of innovation with the Majorette Porsche Taycan Turbo S – Porsche Edition. Crafted with a metal body, rubber tires, suspension, and opening parts, this officially licensed diecast car brings Porsche’s electric excellence to life. A must-have collectible for Majorette and Porsche enthusiasts alike.
+  Updated: 2025-11-05T17:50:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27d255b7-ba6d-45b4-8048-83666789d229.jpg?v=1762328447
+  Price: ₹499.00 INR
+- [Majorette Porsche Taycan Turbo S Police Edition Diecast Car](https://theworldofnerds.com/products/majorette-porsche-taycan-turbo-s-police-edition-diecast-car): Bring home the thrill of law enforcement with the Majorette Porsche Taycan Turbo S Police Edition. This officially licensed diecast car features a metal body, rubber tires, working suspension, and opening parts. Perfect for collectors, kids, and Porsche enthusiasts, it captures the sleek design and power of the real Taycan Turbo S in miniature form.
+  Updated: 2025-11-05T11:24:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d7df1df0-fb9f-4dca-9129-4ab924e87a3f.jpg?v=1762328509
+  Price: ₹499.00 INR
+- [Hot Wheels Rally Speciale Blue – HW Dirt Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-rally-speciale-blue-hw-dirt-series-diecast-car): Get ready for high-speed off-road fun with the Hot Wheels Rally Speciale from the HW Dirt Series. This striking blue-and-yellow diecast car features bold rally graphics, race-ready tires, and authentic detailing. Inspired by classic rally legends, it’s perfect for collectors and kids who love dirt racing action.
+  Updated: 2025-11-05T12:43:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c81bb089-5637-468d-b745-b9cdf5721a0d.jpg?v=1762335602
+  Price: ₹349.00 INR
+- [Hot Wheels ’83 Chevy Silverado – Then and Now Series Diecast Cars](https://theworldofnerds.com/products/hot-wheels-83-chevy-silverado-then-and-now-series-diecast-cars): Experience classic American power with the Hot Wheels ’83 Chevy Silverado from the Then and Now Series. This stunning blue diecast pickup truck features bold chrome rims, realistic detailing, and a sleek lowrider design. A must-have for Hot Wheels collectors and Chevy fans alike, celebrating the timeless style of the 1983 Silverado.
+  Updated: 2025-11-05T12:30:12Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_128c059d-ea25-4038-8106-79cf2abfe88a.jpg?v=1762335677
+  Price: ₹349.00 INR
+- [Hot Wheels ’91 Mazda MX-5 Miata – HW J-Imports Diecast Car](https://theworldofnerds.com/products/hot-wheels-91-mazda-mx-5-miata-hw-j-imports-diecast-car): Race into style with the Hot Wheels ’91 Mazda MX-5 Miata from the HW J-Imports Series. This bright yellow diecast convertible captures the charm of the iconic lightweight roadster with sleek graphics, detailed rims, and authentic design. Perfect for Hot Wheels collectors and JDM car fans who love sporty, classic imports.
+  Updated: 2025-11-05T16:45:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0981c9bb-4621-41d3-bb8f-d5d07f548b03.jpg?v=1762335758
+  Price: ₹549.00 INR
+- [Hot Wheels Mazda Autozam – HW Dream Garage Diecast Car](https://theworldofnerds.com/products/hot-wheels-mazda-autozam-hw-dream-garage-diecast-car): Unleash the power of the Hot Wheels Mazda Autozam from the HW Dream Garage series. Featuring a bold red body, lifted monster truck design, and rugged detailing, this diecast collectible stands out in any collection. Perfect for Hot Wheels fans and collectors who love off-road inspired mini trucks and unique JDM rides.
+  Updated: 2025-11-05T13:27:19Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_288a9dbe-19d9-4de2-b525-37486c26d24f.jpg?v=1762335958
+  Price: ₹549.00 INR
+- [Hot Wheels ’21 Ford Bronco – HW Hot Trucks Diecast](https://theworldofnerds.com/products/hot-wheels-21-ford-bronco-hw-hot-trucks-diecast): Conquer every terrain with the Hot Wheels ’21 Ford Bronco from the HW Hot Trucks series. This rugged black diecast SUV features bold detailing, off-road tires, and authentic Ford graphics. Perfect for collectors and enthusiasts who love adventure-inspired diecast models and realistic 4x4 trucks.
+  Updated: 2025-11-05T12:23:01Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_66fb2379-a6a7-4901-b5da-0715746fc3d3.jpg?v=1762336058
+  Price: ₹549.00 INR
+- [Hot Wheels ’90 Honda Civic EF – HW 90s Series Diecast](https://theworldofnerds.com/products/hot-wheels-90-honda-civic-ef-hw-90s-series-diecast): Celebrate JDM heritage with the Hot Wheels ’90 Honda Civic EF from the HW 90s series. Featuring a sleek blue finish, detailed VTEC graphics, and sporty wheels, this diecast model captures the iconic street style of the classic Civic hatchback. A must-have for JDM fans and Hot Wheels collectors alike.
+  Updated: 2025-11-05T17:52:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_efe13885-8a6e-4c68-8c6a-99da32a36c7f.jpg?v=1762336128
+  Price: ₹549.00 INR
+- [Hot Wheels ’98 Subaru Impreza 22B-STi Version – HW 90s Series Diecast](https://theworldofnerds.com/products/hot-wheels-98-subaru-impreza-22b-sti-version-hw-90s-series-diecast): Experience rally greatness with the Hot Wheels ’98 Subaru Impreza 22B-STi Version from the HW 90s series. This white diecast model captures the spirit of Subaru’s legendary rally car with detailed STi graphics, racing stripes, and bold wheels. A perfect collectible for JDM and rally fans who love precision, performance, and Hot Wheels heritage.
+  Updated: 2025-11-05T12:57:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_22c3e51c-0e9f-4f40-9671-6da9627d24a8.jpg?v=1762336193
+  Price: ₹549.00 INR
+- [Hot Wheels Bumblebee – Transformers Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-bumblebee-transformers-edition-diecast-car): Bring home cinematic nostalgia with the Hot Wheels Bumblebee from the Transformers x HW Screen Time series. Inspired by the iconic yellow Volkswagen Beetle, this diecast model perfectly captures Bumblebee’s classic look from the Transformers universe. A must-have collectible for movie fans and Hot Wheels enthusiasts alike.
+  Updated: 2025-11-05T15:15:12Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e089e3cb-f24f-4f46-b2f1-6ee6f0de9c66.jpg?v=1762336372
+  Price: ₹549.00 INR
+- [Hot Wheels ’87 Audi Quattro – Factory Fresh Diecast Car](https://theworldofnerds.com/products/hot-wheels-87-audi-quattro-factory-fresh-diecast-car): Experience classic rally heritage with the Hot Wheels ’87 Audi Quattro from the Factory Fresh series. This teal diecast car celebrates the legendary Audi performance icon, featuring detailed body lines, quattro decals, and realistic wheels. A must-have for Audi fans and Hot Wheels collectors who appreciate timeless German engineering.
+  Updated: 2025-11-05T15:16:00Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e6f576b2-41d3-4aae-b229-5b6468d44482.jpg?v=1762336468
+  Price: ₹549.00 INR
+- [Hot Wheels ’90 Acura NSX – HW The 90s Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-90-acura-nsx-hw-the-90s-series-diecast-car): Celebrate 90s performance excellence with the Hot Wheels ’90 Acura NSX from the HW The 90s series. This sleek yellow diecast model pays tribute to the iconic Japanese supercar, combining realistic design, sharp detailing, and collector-grade finish. A perfect addition for JDM enthusiasts and Hot Wheels collectors alike.
+  Updated: 2025-11-05T15:24:44Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e4c9aba1-ada8-488e-8361-9173dd7050c8.jpg?v=1762336914
+  Price: ₹549.00 INR
+- [Hot Wheels Aston Martin DB4 GT High-Speed Edition Diecast car](https://theworldofnerds.com/products/hot-wheels-aston-martin-db4-gt-high-speed-edition-diecast-car): Experience timeless British performance with the Hot Wheels Aston Martin DB4 GT High-Speed Edition from the Muscle Mania series. This sleek silver and red diecast car features detailed racing graphics and aerodynamic styling inspired by classic endurance racers. A must-have for collectors and Aston Martin enthusiasts who appreciate vintage racing legends.
+  Updated: 2025-11-05T15:38:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_027b4db0-acad-4273-a4c2-088e9b1c03b2.jpg?v=1762336999
+  Price: ₹549.00 INR
+- [Hot Wheels Alfa Romeo GTV6 3.0 Factory Fresh Diecast Car](https://theworldofnerds.com/products/hot-wheels-alfa-romeo-gtv6-3-0-factory-fresh-diecast-car): Add Italian elegance to your collection with the Hot Wheels Alfa Romeo GTV6 3.0 from the Factory Fresh series. This stunning blue diecast car captures the sleek design and sporty essence of the iconic Alfa Romeo coupe. Perfect for car lovers and collectors who admire vintage European performance and timeless Hot Wheels craftsmanship.
+  Updated: 2025-11-05T13:30:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ba169c36-7b34-4506-981f-c4f0b60793a9.jpg?v=1762337065
+  Price: ₹549.00 INR
+- [Hot Wheels Tesla Cybertruck Diecast Model](https://theworldofnerds.com/products/hot-wheels-tesla-cybertruck-diecast-model): Experience futuristic design and electric innovation with the Hot Wheels Tesla Cybertruck from the HW Metro series. This sleek diecast model replicates Tesla’s revolutionary electric pickup with sharp angles and metallic detailing. A must-have for collectors and EV enthusiasts, it symbolizes the next generation of performance and sustainability.
+  Updated: 2025-11-05T16:11:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5e5eb9a3-f59e-4291-899f-340a4f9e6100.jpg?v=1762337136
+  Price: ₹549.00 INR
+- [Hot Wheels Shelby Cobra Daytona Coupe Diecast](https://theworldofnerds.com/products/hot-wheels-shelby-cobra-daytona-coupe-diecast): Celebrate racing heritage with the Hot Wheels Shelby Cobra Daytona Coupe – Gulf Edition from the HW Race Day series. This diecast model features the iconic blue and orange Gulf livery, detailed racing decals, and performance-inspired design. A collector’s favorite, it captures the essence of vintage motorsport and American muscle in a sleek 1:64 scale.
+  Updated: 2025-11-05T12:37:15Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2ecc4aae-4a8a-4d18-8825-48951f0741cb.jpg?v=1762337191
+  Price: ₹549.00 INR
+- [Hot Wheels Land Rover Defender 90 Diecast](https://theworldofnerds.com/products/hot-wheels-land-rover-defender-90-diecast): Experience rugged adventure with the Hot Wheels Land Rover Defender 90 from the Then and Now series. This diecast collectible features a beige body, black off-road wheels, and bold “Defender 68” graphics. Perfect for collectors and off-road enthusiasts, this 1:64 scale model captures the classic durability and timeless design of the legendary Land Rover Defender.
+  Updated: 2025-11-05T15:31:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d82e623f-267b-4b62-b450-cb7499f5a254.jpg?v=1762337265
+  Price: ₹399.00 INR
+- [Hot Wheels Ravenger S/T Muscle Mania Diecast](https://theworldofnerds.com/products/hot-wheels-ravenger-s-t-muscle-mania-diecast): Unleash the power of speed with the Hot Wheels Ravenger S/T from the Muscle Mania series. This striking blue diecast model features sleek aerodynamic lines, black racing stripes, and bold detailing for an aggressive muscle car look. A must-have for collectors and Hot Wheels enthusiasts, the Ravenger S/T captures the essence of raw American performance and style.
+  Updated: 2025-11-05T15:20:00Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6895f7c9-73e3-4fc8-975d-5e09fab0ec9d.jpg?v=1762337321
+  Price: ₹399.00 INR
+- [Hot Wheels Custom Kia EV6 2025 Edition](https://theworldofnerds.com/products/hot-wheels-custom-kia-ev6-2025-edition): Experience the future of speed with the Hot Wheels Custom Kia EV6 (2025 Edition) from the HW EV series. This sleek green electric-inspired diecast model showcases bold anime-style graphics and aerodynamic detailing that capture modern EV performance with Hot Wheels flair. Perfect for collectors and fans of futuristic car designs, the Custom Kia EV6 brings style, innovation, and eco-inspired power to your display.
+  Updated: 2025-11-05T13:20:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c4336484-434f-4640-acb9-f3f36d133d26.jpg?v=1762337376
+  Price: ₹399.00 INR
+- [Hot Wheels Ferrari F40 Competizione 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-ferrari-f40-competizione-2025-edition-diecast-car): Unleash legendary performance with the Hot Wheels Ferrari F40 Competizione (2025 Edition) from the Exotics series. This stunning red diecast model captures the fierce spirit of Ferrari’s track-bred icon, featuring aerodynamic styling, racing details, and collector-grade packaging. A must-have for supercar fans and diecast enthusiasts, the Ferrari F40 Competizione represents speed, heritage, and Italian excellence in true Hot Wheels fashion.
+  Updated: 2025-11-05T16:43:29Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_600c77e9-97ae-4f12-82e2-55d212ea1077.jpg?v=1762337418
+  Price: ₹699.00 INR
+- [Hot Wheels Batman Arkham Asylum Batmobile Diecast Car](https://theworldofnerds.com/products/hot-wheels-batman-arkham-asylum-batmobile-diecast-car): Bring the Dark Knight’s power to your collection with the Hot Wheels Batman: Arkham Asylum Batmobile. Inspired by the iconic Batmobile from the Arkham video game series, this sleek black diecast model features detailed sculpting, bold curves, and a menacing design true to Gotham’s protector. Perfect for DC Comics fans and Hot Wheels collectors alike, this Batmobile is a must-have for any superhero car lineup.
+  Updated: 2025-11-05T13:37:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_aba080bc-d0e2-4229-999b-ede88a73af81.jpg?v=1762337487
+  Price: ₹399.00 INR
+- [Hot Wheels Crescendo X-Raycers Green Diecast Car](https://theworldofnerds.com/products/hot-wheels-crescendo-x-raycers-green-diecast-car): Experience futuristic speed with the Hot Wheels Crescendo X-Raycers, a stunning green diecast car that blends style and performance. Featuring a transparent body, aerodynamic design, and golden wheels, this X-Raycers model captures the thrill of high-speed racing. A perfect addition for collectors and young racers, the Hot Wheels Crescendo stands out as a top pick in the 2025 lineup.
+  Updated: 2025-11-05T15:20:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_83f49fb4-eeb7-4f8e-a881-9b1af1e39e26.jpg?v=1762337536
+  Price: ₹299.00 INR
+- [Hot Wheels Slide-Burn 2025 HW Drift Edition Diecast car](https://theworldofnerds.com/products/hot-wheels-slide-burn-2025-hw-drift-edition-diecast-car): Unleash the power of drift with the Hot Wheels Slide-Burn 2025, a striking green and black muscle car designed for speed and style. Featuring red-accented wheels and a bold aerodynamic build, this HW Drift car is a collector’s favorite and a must-have for racing enthusiasts. Perfect for showcasing your Hot Wheels collection or high-octane track battles.
+  Updated: 2025-11-05T13:51:20Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_385e18a1-3ddd-44b9-8531-2c2b291c710e.jpg?v=1762337608
+  Price: ₹299.00 INR
+- [Hot Wheels Custom ’18 Ford Mustang GT 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-custom-18-ford-mustang-gt-2025-edition-diecast-car): Celebrate American muscle with the Hot Wheels Custom ’18 Ford Mustang GT, a bold blue racer with signature white stripes from the Mustang 60th Anniversary series. This diecast car combines raw power and sleek design, making it a must-have for collectors and Ford fans alike. Perfect addition to any Hot Wheels muscle car lineup.
+  Updated: 2025-11-05T13:35:17Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_937d6838-508a-4066-b01c-d9173003d68b.jpg?v=1762337986
+  Price: ₹399.00 INR
+- [Hot Wheels Terra-Tracktyl Off-Road Racer Diecast Car](https://theworldofnerds.com/products/hot-wheels-terra-tracktyl-off-road-racer-diecast-car): Conquer any terrain with the Hot Wheels Terra-Tracktyl, a fierce off-road racer built for adventure. Featuring bold white, yellow, and orange accents, this diecast car from the HW Ride-Ons series is perfect for collectors who love rugged and high-speed designs. A must-have for Hot Wheels fans who crave action-packed performance on and off the track.
+  Updated: 2025-11-05T18:23:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_84152672-9275-40c7-81d0-b0442a1aeb3b.jpg?v=1762338050
+  Price: ₹299.00 INR
+- [Hot Wheels ’69 Dodge Coronet Superbee Diecast Car](https://theworldofnerds.com/products/hot-wheels-69-dodge-coronet-superbee-diecast-car): Experience the raw American muscle power of the Hot Wheels ’69 Dodge Coronet Superbee, a classic from the Muscle Mania series. This striking yellow and black diecast car captures the bold attitude and performance of Dodge’s golden era. Perfect for collectors and Hot Wheels enthusiasts who appreciate authentic muscle car design and vintage detailing.
+  Updated: 2025-11-05T17:16:59Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_077dae0e-ad4d-4391-9acc-ee939d76fced.jpg?v=1762338123
+  Price: ₹399.00 INR
+- [Hot Wheels Exotic Series McLaren Speedtail Diecast](https://theworldofnerds.com/products/hot-wheels-exotic-series-mclaren-speedtail-diecast): Unleash the elegance and performance of the Hot Wheels McLaren Speedtail, a masterpiece from the Exotics series. Finished in stunning red with sleek aerodynamic lines, this diecast model captures the futuristic spirit of McLaren’s fastest hypercar. A must-have collectible for Hot Wheels and supercar enthusiasts, celebrating innovation, luxury, and speed.
+  Updated: 2025-11-05T15:32:03Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e362c5ff-79ce-4f32-a0f9-d8d59a5fa9ff.jpg?v=1762338190
+  Price: ₹699.00 INR
+- [Hot Wheels 2025 Ferrari 365 GTB4 Race Day Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-2025-ferrari-365-gtb4-race-day-edition-diecast-car): Experience the thrill of endurance racing with the Hot Wheels Ferrari 365 GTB4 Competizione (2025 edition). This detailed red diecast car from the Race Day series features authentic racing stripes and the iconic number 64 design. Perfect for collectors and Ferrari fans alike, this model celebrates classic motorsport heritage with unmatched Hot Wheels craftsmanship.
+  Updated: 2025-11-05T13:01:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_436a20f7-7d60-4fe7-85c8-be849b7b0915.jpg?v=1762338276
+  Price: ₹699.00 INR
+- [Hot Wheels Audi 90 Quattro 2025 Diecast Model - Limited Edition](https://theworldofnerds.com/products/hot-wheels-audi-90-quattro-2025-diecast-model-limited-edition): Unleash German engineering power with the Hot Wheels Audi 90 Quattro from the Peak Edition series. This diecast model showcases the classic racing livery with number 25 graphics, aerodynamic detailing, and authentic Quattro styling. A must-have for collectors and racing enthusiasts, it perfectly captures the spirit of Audi’s legendary performance heritage.
+  Updated: 2025-11-05T16:38:49Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c68161f2-e707-4493-9654-3f2a164037be.jpg?v=1762338459
+  Price: ₹399.00 INR
+- [Hot Wheels 2025 VW T3 Custom Diecast](https://theworldofnerds.com/products/hot-wheels-2025-vw-t3-custom-diecast): Experience the perfect blend of retro and racing style with the Hot Wheels VW T3 Custom from the Peak Edition series. This diecast model features a bold beige and blue design with racing decals, wide fenders, and the iconic number 25 graphics. A collector’s favorite, this Volkswagen-inspired Hot Wheels brings nostalgic van vibes with a modern racing twist
+  Updated: 2025-11-05T12:46:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_63c0004f-14e8-48a3-bfdd-e3cc6eed836f.jpg?v=1762338513
+  Price: ₹399.00 INR
+- [Hot Wheels HW Art Cars ’70 Plymouth Superbird Diecast Car](https://theworldofnerds.com/products/hot-wheels-hw-art-cars-70-plymouth-superbird-diecast-car): Add vintage muscle and artistic flair to your collection with the Hot Wheels ’70 Plymouth Superbird from the HW Art Cars series. This bold red diecast car features pop-art graphics, a massive rear wing, and dual-color racing wheels that capture attention on and off the track. Perfect for collectors and fans of iconic American muscle cars, this Hot Wheels edition combines speed, style, and creativity in one striking model.
+  Updated: 2025-11-05T16:39:58Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fa98f588-d7fa-41dd-9d6c-b484d0b73c6f.jpg?v=1762338590
+  Price: ₹499.00 INR
+- [Hot Wheels Mod Mill 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-mod-mill-2025-edition-diecast-car): Unleash raw power and classic speed with the Hot Wheels Mod Mill from the Muscle Mania 2025 series. This bold red open-top hot rod features exposed engine pipes, sleek black wheels, and a dynamic racing stripe design that screams performance. A must-have for collectors and fans of vintage-inspired muscle cars, the Mod Mill combines retro styling with modern Hot Wheels craftsmanship.
+  Updated: 2025-11-05T12:46:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_db3f5e48-0e89-4bbd-8da8-6bab36c0f3bc.jpg?v=1762338650
+  Price: ₹399.00 INR
+- [Hot Wheels 2025 Lotus Cortina Diecast Car](https://theworldofnerds.com/products/hot-wheels-2025-lotus-cortina-diecast-car): Experience vintage racing charm with the Hot Wheels Lotus Cortina from the 2025 Compact Kings series. This cream-colored classic features detailed body lines, black racing stripes, and the iconic #71 marking — a true tribute to old-school motorsport elegance. Perfect for collectors and racing enthusiasts, this diecast car blends historical performance with Hot Wheels’ signature precision and quality
+  Updated: 2025-11-05T13:30:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_299df6e3-fb6c-4e60-9d7a-67113fcdc2f3.jpg?v=1762338704
+  Price: ₹399.00 INR
+- [Hot Wheels Pontiac Aztek Custom 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-pontiac-aztek-custom-2025-edition-diecast-car): The Hot Wheels Pontiac Aztek Custom from the 2025 Wild Widebody series redefines bold design and performance. Featuring a sleek widebody stance, sporty decals, and authentic diecast detailing, this model captures the spirit of innovation behind Pontiac’s iconic SUV. A must-have for Hot Wheels collectors, the Aztek Custom blends rugged style with racing-inspired flair for an unforgettable addition to your diecast lineup.
+  Updated: 2025-11-05T17:16:54Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68c727f3-274f-4863-a050-331c6eb98d30.jpg?v=1762338768
+  Price: ₹399.00 INR
+- [Hot Wheels ’90 Honda Civic EF 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-90-honda-civic-ef-2025-edition-diecast-car): The Hot Wheels ’90 Honda Civic EF from the 80s to 90s series (2025 edition) celebrates the golden era of JDM legends. Finished in vibrant green with bold VTEC side graphics and gold rims, this diecast model perfectly captures the sporty DNA of Honda’s classic hatchback. A must-have for Hot Wheels and Honda enthusiasts, the Civic EF combines nostalgic 90s aesthetics with modern collector appeal.
+  Updated: 2025-11-05T15:38:44Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_bbbdccc4-aa3a-4182-9621-f8721e98d210.jpg?v=1762338829
+  Price: ₹399.00 INR
+- [Hot Wheels Slide Kick 2025 – Experimotors Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-slide-kick-2025-experimotors-series-diecast-car): The Hot Wheels Slide Kick (2025) from the Experimotors series is a fun, interactive diecast car designed for creativity and play. This sleek green racer features a slide-out side seat mechanism, allowing kids to engage in cool stunts and imaginative play. Part of the 1/10 Experimotors collection, the Slide Kick combines innovation with classic Hot Wheels performance — a perfect addition for collectors and kids aged 3+.
+  Updated: 2025-11-05T15:10:23Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8abab31e-e484-4a7b-a295-e0475030b0b0.jpg?v=1762338881
+  Price: ₹299.00 INR
+- [Hot Wheels Quick Chat 2025 – Experimotors Series Diecast Cars](https://theworldofnerds.com/products/hot-wheels-quick-chat-2025-experimotors-series-diecast-cars): The Hot Wheels Quick Chat (2025) from the Experimotors series is a fun and creative diecast car that brings personality to the track. Designed with a friendly face and bright blue wheels, Quick Chat embodies the spirit of playful interaction that defines the Experimotors line. Perfect for collectors and kids aged 3+, this innovative model combines imagination and motion for endless storytelling and stunt fun.
+  Updated: 2025-11-05T17:28:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7b08a397-7246-4931-a473-76aaa897942d.jpg?v=1762338936
+  Price: ₹299.00 INR
+- [Hot Wheels 2025 Honda Civic Custom Red & Blue Edition Diecast Cars](https://theworldofnerds.com/products/hot-wheels-2025-honda-civic-custom-red-blue-edition-diecast-cars): The Hot Wheels Honda Civic Custom from the HW J-Imports series captures the essence of JDM racing culture with its bold red, blue, and white racing livery. Featuring the number 22 and detailed sporty design, this diecast model is a must-have for collectors and fans of Japanese tuner cars. Perfect for ages 3 and up, this edition celebrates performance, precision, and Hot Wheels’ dedication to automotive heritage
+  Updated: 2025-11-05T18:42:27Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5daa4b2d-bcf7-4fd5-bc13-254207fc48f5.jpg?v=1762339099
+  Price: ₹599.00 INR
+- [Hot Wheels Porsche 904 Carrera GTS – HW Race Day Series Diecast Cars](https://theworldofnerds.com/products/hot-wheels-porsche-904-carrera-gts-hw-race-day-series-diecast-cars): The Hot Wheels Porsche 904 Carrera GTS from the HW Race Day series showcases a sleek black racing design inspired by classic motorsport heritage. With detailed Porsche branding, racing number #63, and realistic body lines, this diecast model celebrates the spirit of endurance racing. A perfect addition for collectors and Porsche enthusiasts alike, it combines vintage charm with Hot Wheels precision craftsmanship.
+  Updated: 2025-11-05T13:08:13Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d0df7dbc-bc6a-4405-9304-0dc7037f78b2.jpg?v=1762339210
+  Price: ₹599.00 INR
+- [Hot Wheels Flippin’ Fast – Experimotors Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-flippin-fast-experimotors-series-diecast-car): This Hot Wheels Flippin Fast car is part of the Experimotors series, featuring a striking yellow and red color scheme. The toy car is marked as 2/10 in the collection, showcasing a unique wheel design that stands out. Perfect for collectors and children 3 and up, this Hot Wheels car promises fun and excitement in every spin.
+  Updated: 2025-11-05T14:50:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8c99e53f-ce4f-4f92-9afc-43a0fbf6109e.jpg?v=1762339260
+  Price: ₹299.00 INR
+- [Hot Wheels 2025 Futurismo Purple & Green Racer Diecast Car](https://theworldofnerds.com/products/hot-wheels-2025-futurismo-purple-green-racer-diecast-car): The Hot Wheels Futurismo from the HW Race Day series is a sleek, futuristic racer featuring a striking purple and green color scheme with aerodynamic styling. This diecast collectible delivers high-speed vibes with bold racing stripes and a low-profile design perfect for track action. Ideal for Hot Wheels fans and collectors, the Futurismo showcases Hot Wheels’ signature blend of imagination, design, and performance.
+  Updated: 2025-11-05T14:53:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e5a99d25-4569-45a8-95d5-47ae090f1cd9.jpg?v=1762339463
+  Price: ₹299.00 INR
+- [Hot Wheels 2025 Speed Driver Blue & Gold Car Diecast Car](https://theworldofnerds.com/products/hot-wheels-2025-speed-driver-blue-gold-car-diecast-car): The Hot Wheels Speed Driver from the Experimotors series is a creative blend of function and fun, featuring a blue and gold tool-inspired design. This unique diecast car is part of the 2025 Hot Wheels collection, combining bold looks with interactive elements for hands-on play. Perfect for collectors and kids alike, the Speed Driver stands out with its innovative engineering and signature Hot Wheels detailing.
+  Updated: 2025-11-05T15:44:47Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e2a8a01c-571d-45f1-bc02-61da09780204.jpg?v=1762339491
+  Price: ₹299.00 INR
+- [Hot Wheels 2025 Subaru BRZ White Edition Diecast car](https://theworldofnerds.com/products/hot-wheels-2025-subaru-brz-white-edition-diecast-car): The Hot Wheels Subaru BRZ from the J-Imports series captures the sleek design and racing heritage of Subaru’s iconic sports car. Featuring a white body with bold racing decals, this diecast model is a must-have for collectors and JDM fans. With detailed lines and sporty wheels, the Hot Wheels Subaru BRZ delivers authentic style and performance in miniature form.
+  Updated: 2025-11-05T15:49:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_036c388d-26ba-4744-986a-b88e0f10741e.jpg?v=1762339793
+  Price: ₹599.00 INR
+- [Hot Wheels Monteracer – X-Raycers Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-monteracer-x-raycers-series-diecast-car): The Hot Wheels Monteracer from the X-Raycers series features a sleek transparent green body with bold orange accents and futuristic styling. Designed for speed and style, this diecast car stands out with its semi-clear design and detailed racing aesthetic. Perfect for collectors and Hot Wheels enthusiasts, the Monteracer embodies innovation and high-speed excitement in miniature form.
+  Updated: 2025-11-05T14:27:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e1728f03-7559-49da-8bba-4664860ca792.jpg?v=1762339845
+  Price: ₹299.00 INR
+- [Hot Wheels Green King Kuda with Redline Wheels Diecast Car](https://theworldofnerds.com/products/hot-wheels-green-king-kuda-with-redline-wheels-diecast-car): The Hot Wheels King Kuda from the Muscle Mania series is a bold tribute to American muscle power. Featuring a striking green body, redline wheels, and a massive exposed engine, this diecast car embodies speed and strength. Perfect for collectors and muscle car fans, the King Kuda combines vintage styling with modern performance details for a truly iconic addition to any Hot Wheels collection.
+  Updated: 2025-11-05T16:00:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4723e062-8579-44ed-bc6e-e23a12092c3d.jpg?v=1762339905
+  Price: ₹599.00 INR
+- [Hot Wheels ’66 Buick Riviera – 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-66-buick-riviera-2025-edition-diecast-car): The Hot Wheels ’66 Buick Riviera (2025 Edition) captures the essence of American muscle and luxury in a sleek black finish. Part of the HW Lowriders series, this diecast model showcases elegant curves, chrome detailing, and powerful street presence. A perfect addition for Hot Wheels enthusiasts and collectors, the ’68 Buick Riviera embodies the golden age of performance and style.
+  Updated: 2025-11-05T13:48:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_487e4770-9a0b-4cbb-9bb7-019def039a4f.jpg?v=1762339969
+  Price: ₹399.00 INR
+- [Hot Wheels Street Wiener – Fast Foodie Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-street-wiener-fast-foodie-series-diecast-car): The Hot Wheels Street Wiener from the Fast Foodie series serves up fun and speed in one playful package. Featuring a hot dog–inspired body, bright red and yellow design, and neon green wheels, this 2025 edition brings humor and creativity to any diecast collection. Perfect for kids and collectors alike, the Street Wiener stands out with its unique style and Hot Wheels performance.
+  Updated: 2025-11-05T15:49:58Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f4a177ef-358a-4196-9205-2f2473bc3e8e.jpg?v=1762340017
+  Price: ₹299.00 INR
+- [Hot Wheels Gotta Go – HW Designed By Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-gotta-go-hw-designed-by-series-diecast-car): The Hot Wheels Gotta Go from the HW Designed By series combines humor and horsepower in one unforgettable design. Featuring a bright red body with yellow flame graphics and a quirky toilet seat spoiler, this diecast car is a fan-favorite among collectors. Perfect for display or racing fun, the 2025 edition showcases Hot Wheels’ signature creativity and playful engineering.
+  Updated: 2025-11-05T15:34:58Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03978.jpg?v=1762340078
+  Price: ₹299.00 INR
+- [Hot Wheels Tesla Cyberquad – 2025 HW Dirt Series Diecast](https://theworldofnerds.com/products/hot-wheels-tesla-cyberquad-2025-hw-dirt-series-diecast): The Hot Wheels Tesla Cyberquad (2025 HW Dirt Series) brings futuristic electric power to the world of diecast collectibles. Inspired by Tesla’s real-life Cyberquad, this miniature ATV features a sleek black and bronze design, large off-road tires, and detailed rider sculpting. Perfect for collectors and EV fans alike, this model captures the spirit of innovation and adventure that defines Tesla.
+  Updated: 2025-11-05T16:37:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e679fe29-5e3b-406f-825b-dd482fb066e2.jpg?v=1762340129
+  Price: ₹599.00 INR
+- [Hot Wheels 2013 SRT Viper – Then and Now Series Diecast](https://theworldofnerds.com/products/hot-wheels-2013-srt-viper-then-and-now-series-diecast): The Hot Wheels 2013 SRT Viper (Then and Now Series) captures the bold performance of Dodge’s legendary supercar in a stunning white finish with signature blue racing stripes. This diecast collectible features sleek aerodynamic lines, detailed front design, and authentic Hot Wheels craftsmanship — perfect for car enthusiasts and collectors who love American muscle performance.
+  Updated: 2025-11-05T14:06:00Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_60f09601-eb7d-4fb0-ad02-6d56d48196b5.jpg?v=1762340422
+  Price: ₹599.00 INR
+- [Hot Wheels Monster Dairy Delivery – Alechman’s ’67 Edition Diecast](https://theworldofnerds.com/products/hot-wheels-monster-dairy-delivery-alechman-s-67-edition-diecast): The Hot Wheels Monster Dairy Delivery – Alechman’s ’67 Edition is a powerful fusion of retro design and monster truck performance. Featuring a light blue body, bold red and white graphics, and massive off-road tires, this collectible stands out in the HW Designed By series. Perfect for Hot Wheels collectors and truck enthusiasts, it celebrates classic styling with a rugged modern twist.
+  Updated: 2025-11-05T18:43:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_721c3201-7940-47cf-9a17-cedb16251b20.jpg?v=1762340564
+  Price: ₹399.00 INR
+- [Hot Wheels Ford Escort – Compact Kings Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-ford-escort-compact-kings-series-diecast-car): The Hot Wheels Ford Escort – Compact Kings Series brings classic rally performance to your collection. Finished in a striking purple design with race number 17 and powerful front spotlights, this diecast captures the essence of a true rally legend. A must-have for collectors and fans of vintage racing cars, this Hot Wheels model delivers authentic detailing and high-speed style.
+  Updated: 2025-11-05T15:50:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0bd639e9-8dc8-4ad2-940d-a9ecff2eb996.jpg?v=1762341203
+  Price: ₹499.00 INR
+- [Hot Wheels Arrow Dynamic – X-Raycers Series Diecast](https://theworldofnerds.com/products/hot-wheels-arrow-dynamic-x-raycers-series-diecast): The Hot Wheels Arrow Dynamic – X-Raycers Series is a sleek, futuristic race car featuring a transparent red body and bold blue wheels. Designed for speed and style, this diecast racer embodies cutting-edge aerodynamics and Hot Wheels’ signature flair. A standout piece for collectors and racing enthusiasts alike, the Arrow Dynamic delivers performance-inspired design and vibrant detailing.
+  Updated: 2025-11-05T16:04:59Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_371f2be0-8cc3-4c58-af5d-040bc1379d1b.jpg?v=1762341294
+  Price: ₹299.00 INR
+- [Hot Wheels Blitzspeeder – HW Track Champs Series Diecast](https://theworldofnerds.com/products/hot-wheels-blitzspeeder-hw-track-champs-series-diecast): The Hot Wheels Blitzspeeder – HW Track Champs Series features a bold green and purple aerodynamic design built for top track performance. With gold-accented wheels and a futuristic racer body, this collectible diecast car combines speed, precision, and striking looks. Perfect for Hot Wheels fans and collectors, the Blitzspeeder stands out as one of the most dynamic models from the Track Champs lineup.
+  Updated: 2025-11-05T15:05:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_57989714-5cf0-4918-b010-59c0f7becd9f.jpg?v=1762341357
+  Price: ₹299.00 INR
+- [Hot Wheels Ford Mustang Dark Horse – Then and Now Series Diecast](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse-then-and-now-series-diecast): Experience the power and style of the Hot Wheels Ford Mustang Dark Horse from the Then and Now series. Featuring a sleek white body with bold red racing stripes, this collectible diecast car captures the essence of Ford performance and Hot Wheels craftsmanship. Perfect for collectors and racing fans, this 1:64 scale model adds a fierce touch to any display or track setup.
+  Updated: 2025-11-05T19:25:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a9be5ee9-fbb6-49f0-8173-bfc1a7ae72e8.jpg?v=1762341419
+  Price: ₹299.00 INR
+- [Hot Wheels Drift-Ender – 2025 HW First Response Series Diecast](https://theworldofnerds.com/products/hot-wheels-drift-ender-2025-hw-first-response-series-diecast): The Hot Wheels Drift-Ender (2025) is a rugged off-road inspired diecast truck from the HW First Response series. Designed in striking blue and yellow with bold graphics, this 1:64 scale model combines rescue power with drifting style. A must-have for collectors and Hot Wheels enthusiasts, the Drift-Ender brings action-packed energy and bold design to your display or racing track. Perfect for the 2025 mainline collection!
+  Updated: 2025-11-05T13:55:49Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a2d60bea-645f-4150-a5c5-f152dfddd309.jpg?v=1762341474
+  Price: ₹599.00 INR
+- [Hot Wheels Porsche 911 GT3 RS Pink Edition – Then and Now Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-porsche-911-gt3-rs-pink-edition-then-and-now-series-diecast-car): Experience the thrill of speed with the Hot Wheels Porsche 911 GT3 RS (Pink) from the Then and Now series. Featuring a striking pink body with sleek detailing and black racing decals, this diecast model is a must-have for collectors and car enthusiasts. Perfect for display or play, this Hot Wheels Porsche delivers premium design and iconic sports car energy.
+  Updated: 2025-11-05T22:53:46Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_89a0dce3-6c97-4198-bbf3-a7a38e69a534.jpg?v=1762341529
+  Price: ₹299.00 INR
+- [Red Hot Wheels Alfa Romeo Giulia TI Super Diecast Car](https://theworldofnerds.com/products/red-hot-wheels-alfa-romeo-giulia-ti-super-diecast-car): Unleash Italian racing heritage with the Hot Wheels Alfa Romeo Giulia TI Super (Red) from the 2025 Compact Kings series. This diecast beauty captures the charm of classic motorsport design with detailed body lines, racing decals, and authentic Alfa Romeo styling. A perfect collectible for car lovers and Hot Wheels enthusiasts who appreciate vintage performance and timeless design.
+  Updated: 2025-11-05T15:39:56Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0ca3ff6d-a581-4f28-accf-02c77b50a870.jpg?v=1762341592
+  Price: ₹399.00 INR
+- [Hot Wheels ’75 Chevy Blazer Custom – HW Dirt Series Diecast](https://theworldofnerds.com/products/hot-wheels-75-chevy-blazer-custom-hw-dirt-series-diecast): Celebrate rugged American style with the Hot Wheels ’75 Chevy Blazer Custom from the HW Dirt series. This diecast truck showcases a bold white-and-red design, lifted stance, and authentic Chevrolet detailing that pays tribute to the classic off-road icon. A must-have collectible for vintage truck fans and Hot Wheels enthusiasts who love timeless 4x4 power and retro vibes.
+  Updated: 2025-11-05T17:53:48Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a2fbf890-8159-4c78-9321-5fd893ee51b1.jpg?v=1762341837
+  Price: ₹399.00 INR
+- [Hot Wheels RD-06 – Sleek Green & Purple Race Machine Diecast](https://theworldofnerds.com/products/hot-wheels-rd-06-sleek-green-purple-race-machine-diecast): Unleash futuristic speed with the Hot Wheels RD-06 from the HW Designed By series. This sleek green and purple concept racer features bold aerodynamic styling, wide racing wheels, and detailed futuristic graphics that capture the essence of next-gen performance. Perfect for collectors and racing fans who love unique Hot Wheels fantasy castings and high-speed designs.
+  Updated: 2025-11-05T18:43:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f5907b73-32aa-447b-8f06-87818b9a3189.jpg?v=1762341917
+  Price: ₹299.00 INR
+- [Hot Wheels Dune It Up from HW Trail Champs Series Diecast](https://theworldofnerds.com/products/hot-wheels-dune-it-up-from-hw-trail-champs-series-diecast): Take on any terrain with the Hot Wheels Dune It Up, a rugged off-road buggy from the HW Trail Champs series. Designed in striking red with black detailing, roll cage lights, and massive all-terrain tires, this diecast car is built for desert racing and dune domination. A must-have for Hot Wheels collectors and fans of extreme off-road adventures.
+  Updated: 2025-11-05T16:02:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_557d67e9-2ba6-44a4-8cc4-258d5e07e9cc.jpg?v=1762341957
+  Price: ₹299.00 INR
+- [Hot Wheels Long Bloc – HW Art Cars 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-long-bloc-hw-art-cars-2025-edition-diecast-car): Unleash creativity with the Hot Wheels Long Bloc, a striking diecast from the HW Art Cars 2025 series. This sleek green car with classic wood panel detailing and a white spoiler blends retro charm with modern edge. Perfect for collectors and design enthusiasts, the Long Bloc celebrates the art of automotive imagination.
+  Updated: 2025-11-05T15:19:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_310a2fb3-89b8-4000-b039-d2d351e7eab1.jpg?v=1762342014
+  Price: ₹299.00 INR
+- [Hot Wheels ’94 Bugatti EB110 SS – HW Race Day Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-94-bugatti-eb110-ss-hw-race-day-series-diecast-car): Experience speed and luxury with the Hot Wheels ’94 Bugatti EB110 SS, a standout from the HW Race Day series. Painted in bold purple, this collectible diecast car celebrates one of Bugatti’s most iconic supercars with sleek detailing and racing precision. A must-have for Hot Wheels and supercar enthusiasts alike.
+  Updated: 2025-11-05T11:28:35Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f64f6c57-07e9-46e2-ac6e-a6cee714bb75.jpg?v=1762342074
+  Price: ₹599.00 INR
+- [Hot Wheels Mazda RX-3 – Compact Kings Series 2025 Diecast](https://theworldofnerds.com/products/hot-wheels-mazda-rx-3-compact-kings-series-2025-diecast): Celebrate JDM heritage with the Hot Wheels Mazda RX-3 (Compact Kings Series). This sleek black collectible features detailed racing graphics and authentic Mazda branding, making it a must-have for Japanese car enthusiasts and diecast collectors. Part of the 2025 Compact Kings lineup, it captures the spirit of classic rotary power in miniature form.
+  Updated: 2025-11-05T16:30:33Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f7585d9-3b9d-435f-b47a-89bd65f67a2a.jpg?v=1762342140
+  Price: ₹299.00 INR
+- [Hot Wheels Hype Hauler – DC Comics Edition Truck Diecast](https://theworldofnerds.com/products/hot-wheels-hype-hauler-dc-comics-edition-truck-diecast): Bring superhero power to your collection with the Hot Wheels Hype Hauler (DC Comics Edition) from the Track Fleet Series. This premium hauler truck showcases iconic DC heroes like Superman, Batman, and Wonder Woman in vibrant artwork. Designed for collectors and fans alike, it combines Hot Wheels craftsmanship with legendary comic book style — a perfect collectible for DC fans and diecast truck enthusiasts.
+  Updated: 2025-11-05T13:37:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2b223c3c-4817-4386-927d-402a9526d1b2.jpg?v=1762342208
+  Price: ₹699.00 INR
+- [Hot Wheels Speed Blaster – Track Fleet Series Diecast](https://theworldofnerds.com/products/hot-wheels-speed-blaster-track-fleet-series-diecast): Experience high-speed hauling with the Hot Wheels Speed Blaster from the Track Fleet Series. This sleek blue transporter features bold #52 racing graphics and a futuristic design that combines power and style. A favourite among Hot Wheels collectors, the Speed Blaster showcases top-tier detailing and is perfect for both display and racing collections.
+  Updated: 2025-11-05T18:33:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2a2b28a8-d4a5-4708-9dae-e8faf0b225b2.jpg?v=1762342271
+  Price: ₹699.00 INR
+- [Hot Wheels Racing Convoy – Track Fleet Series Diecast](https://theworldofnerds.com/products/hot-wheels-racing-convoy-track-fleet-series-diecast): Take your collection on the road with the Hot Wheels Racing Convoy from the Track Fleet Series. Featuring a bold green and white color scheme, this diecast transporter blends speed and style, making it a standout for collectors and racing fans alike. Perfect for showcasing your Hot Wheels collection or adding to your display of premium haulers, the Racing Convoy represents the thrill of motorsport in miniature form.
+  Updated: 2025-11-05T16:35:17Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d981ca2f-4acb-4ef2-877d-37419dc8d98c.jpg?v=1762342330
+  Price: ₹699.00 INR
+- [Hot Wheels Porsche 911 Off-Roader – Track Fleet Series Diecast](https://theworldofnerds.com/products/hot-wheels-porsche-911-off-roader-track-fleet-series-diecast): Conquer any terrain with the Hot Wheels Porsche 911 Off-Roader from the Track Fleet Series. Designed in sleek black with gold rims and a rugged trailer, this diecast collectible blends luxury performance with off-road power. A must-have for collectors, this edition captures the adventurous spirit of Porsche engineering and Hot Wheels’ iconic style. Perfect for display or expanding your Track Fleet lineup.
+  Updated: 2025-11-05T16:49:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_63dce4a5-d0ca-416f-a58f-4be4f97b4e31.jpg?v=1762342386
+  Price: ₹699.00 INR
+- [Hot Wheels Optimus Prime – Transformers Track Fleet Series Diecast](https://theworldofnerds.com/products/hot-wheels-optimus-prime-transformers-track-fleet-series-diecast): Experience the ultimate crossover with the Hot Wheels Optimus Prime from the Transformers Track Fleet Series. This detailed diecast truck captures the heroic leader of the Autobots in striking red and silver, complete with trailer and signature Autobot logo. A perfect addition for both Hot Wheels collectors and Transformers fans, this premium hauler showcases quality design, durability, and nostalgic appeal.
+  Updated: 2025-11-05T11:34:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_17d8296a-7738-421a-89ea-c40cb9ed1e5b.jpg?v=1762342445
+  Price: ₹699.00 INR
+- [Hot Wheels Track Fleet Nitro Rail Die-Cast Car](https://theworldofnerds.com/products/hot-wheels-track-fleet-nitro-rail-die-cast-car): Experience high-speed thrills with the Hot Wheels Track Fleet Nitro Rail, a sleek locomotive-inspired racer with bold graffiti graphics and metallic detailing. Perfect for collectors and kids alike, this die-cast car delivers classic Hot Wheels performance and style.
+  Updated: 2025-11-05T16:04:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e1de149e-8ae9-47aa-963c-daa5544cf806.jpg?v=1762342493
+  Price: ₹699.00 INR
+- [Hot Wheels Super Rigs Sweet Delivery Donuts Truck Diecast](https://theworldofnerds.com/products/hot-wheels-super-rigs-sweet-delivery-donuts-truck-diecast): Satisfy your cravings for speed with the Hot Wheels Sweet Delivery Super Rigs truck. Featuring a colorful donut-themed design and detachable trailer, this collectible rig adds fun and flair to any Hot Wheels collection — a must-have for both kids and enthusiasts.
+  Updated: 2025-11-05T18:52:12Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2f4fcaee-7f68-46f3-a682-0069a960e477.jpg?v=1762342546
+  Price: ₹899.00 INR
+- [Hot Wheels Super Rigs Straight Freightin’ Truck Diecast](https://theworldofnerds.com/products/hot-wheels-super-rigs-straight-freightin-truck-diecast): Haul heavy loads in style with the Hot Wheels Super Rigs Straight Freightin’ truck set. Designed with rugged detailing and vibrant graphics, this die-cast hauler is built for action-packed adventures and a standout addition to any Hot Wheels collection.
+  Updated: 2025-11-05T14:10:39Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4738ee77-112b-47ca-a028-f35d320afe97.jpg?v=1762342596
+  Price: ₹899.00 INR
+- [Hot Wheels Super Rigs Road Rally Truck Diecast](https://theworldofnerds.com/products/hot-wheels-super-rigs-road-rally-truck-diecast): Hit the highway with the Hot Wheels Super Rigs Road Rally, featuring a high-performance hauler and a sleek race car. With its orange and blue design, this set captures the essence of speed and excitement, perfect for play or display.
+  Updated: 2025-11-05T14:24:44Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6a57d2cf-5128-4861-8287-9f4679d13fc9.jpg?v=1762342653
+  Price: ₹899.00 INR
+- [Hot Wheels Super Rigs Die-Cast Transporter](https://theworldofnerds.com/products/hot-wheels-super-rigs-die-cast-transporter): Turn up the heat with the Hot Wheels Big Rig Heat Super Rigs set! Featuring a striking orange and green design and a detachable racer, this truck brings bold energy and style to any race track — perfect for collectors and young racers alike.
+  Updated: 2025-11-05T21:49:41Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1bf2dd3c-b2a9-49d9-834a-e09ba39843f6.jpg?v=1762342705
+  Price: ₹899.00 INR
+- [Hot Wheels Pencil Pusher Super Rigs Truck Diecast](https://theworldofnerds.com/products/hot-wheels-pencil-pusher-super-rigs-truck-diecast): Bring creativity to your Hot Wheels collection with the Hot Wheels Pencil Pusher Super Rigs truck set. Featuring a colorful design with a school bus and graffiti-style art, this diecast rig adds fun and speed to your toy collection. Perfect for kids and collectors who love unique Hot Wheels trucks.
+  Updated: 2025-11-05T15:25:33Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_663fae9c-ca92-4d94-9912-4f7f318bc7e3.jpg?v=1762342773
+  Price: ₹899.00 INR
+- [Hot Wheels Recycle Truck Diecast – Trash Basher](https://theworldofnerds.com/products/hot-wheels-recycle-truck-diecast-trash-basher): Keep the city clean with the Hot Wheels Trash Basher Super Rigs truck! This blue and yellow recycling-themed truck features detailed designs and moving wheels. A great addition for Hot Wheels fans and kids who love eco-friendly vehicles and diecast trucks.
+  Updated: 2025-11-05T14:16:22Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b19bef10-711a-4990-bb68-95b5bd7489e8.jpg?v=1762342855
+  Price: ₹899.00 INR
+- [Hot Wheels Chopper Bike Diecast – Twin Flame](https://theworldofnerds.com/products/hot-wheels-chopper-bike-diecast-twin-flame): Race into action with the Hot Wheels Twin Flame Moto, a stylish green chopper motorcycle. Its futuristic black and neon green design makes it a must-have for collectors and bike enthusiasts. Perfect for display or high-speed Hot Wheels races!
+  Updated: 2025-11-05T14:53:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c07116ab-0ea6-4439-8707-4e6487d21f98.jpg?v=1762342898
+  Price: ₹899.00 INR
+- [Hot Wheels Moto Ferenzo Diecast Bike](https://theworldofnerds.com/products/hot-wheels-moto-ferenzo-diecast-bike): Add sleek power to your Hot Wheels collection with the Hot Wheels Ferenzo Moto. This blue and chrome chopper bike blends style and speed for the ultimate ride. Ideal for kids and collectors who love detailed Hot Wheels motorcycles.
+  Updated: 2025-11-05T13:29:11Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c67197fb-d18e-4a20-820f-d2cf6cf03d59.jpg?v=1762343714
+  Price: ₹899.00 INR
+- [Hot Wheels Moto X-Blade Diecast Bike](https://theworldofnerds.com/products/hot-wheels-moto-x-blade-diecast-bike): Unleash speed with the Hot Wheels Moto X-Blade, featuring a sleek black body and blue wheel accents. Designed for performance and style, this diecast motorcycle is perfect for racing fans and Hot Wheels collectors alike.
+  Updated: 2025-11-05T14:12:34Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_246ddb02-567e-4bfb-bdde-1db44cbcd3a7.jpg?v=1762343812
+  Price: ₹899.00 INR
+- [Hot Wheels Moto X-Blade Diecast Bike](https://theworldofnerds.com/products/hot-wheels-moto-x-blade-diecast-bike-1): Feel the thrill of the race with the Hot Wheels X-Blade Red Moto. With a fiery red and black finish, this sporty motorcycle brings bold design and powerful speed to your Hot Wheels Moto collection. A must-have for bike enthusiasts and collectors.
+  Updated: 2025-11-05T20:12:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b022d54f-068a-44d5-b309-d9574990a9b6.jpg?v=1762343881
+  Price: ₹899.00 INR
+- [Hot Wheels Back to the Future Part III Time Machine Die-Cast Car](https://theworldofnerds.com/products/hot-wheels-back-to-the-future-part-iii-time-machine-die-cast-car): Celebrate movie nostalgia with the Hot Wheels Premium Back to the Future Part III Time Machine (1955 Edition). This die-cast collectible features the iconic DeLorean with Real Riders wheels and a detailed metal body, inspired by the film’s classic time-travel adventure. A must-have for Back to the Future fans and Hot Wheels collectors alike, this Pop Culture series release combines cinematic history with Hot Wheels craftsmanship.
+  Updated: 2025-11-05T17:11:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a300ee29-9ec9-45eb-b0e1-4927ad39e269.jpg?v=1762345262
+  Price: ₹849.00 INR
+- [Hot Wheels 2021 BMW M5 – Mission Impossible Dead Reckoning Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-2021-bmw-m5-mission-impossible-dead-reckoning-edition-diecast-car): Experience cinematic speed with the Hot Wheels Mission Impossible: Dead Reckoning 2021 BMW M5. This premium die-cast collectible features a sleek black finish, Real Riders rubber tires, and a Metal/Metal body for authentic detail. Inspired by the thrilling action sequences from the movie, it’s a must-have for Hot Wheels and movie car collectors.
+  Updated: 2025-11-05T17:42:24Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cdcbafc3-90a6-4005-9639-812b73ab21e6.jpg?v=1762345358
+  Price: ₹1,199.00 INR
+- [Hot Wheels 2016 Ford GT Race – Forza Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-2016-ford-gt-race-forza-edition-diecast-car): Unleash gaming power with the Hot Wheels Forza 2016 Ford GT Race. Part of the Pop Culture series, this premium die-cast model showcases stunning Forza Motorsport graphics, a Metal/Metal body, and Real Riders rubber tires. A perfect collectible for Forza fans and car enthusiasts, celebrating the fusion of video game speed and Hot Wheels craftsmanship.
+  Updated: 2025-11-05T15:52:36Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_75ab873a-e0e4-42bd-8f1d-d8540a393424.jpg?v=1762345430
+  Price: ₹1,199.00 INR
+- [Hot Wheels Lamborghini Huracán LP 620-2 Super Trofeo – Gran Turismo Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-lamborghini-huracan-lp-620-2-super-trofeo-gran-turismo-edition-diecast-car): Experience the thrill of racing with the Hot Wheels Gran Turismo Lamborghini Huracán LP 620-2 Super Trofeo. Part of the exclusive Pop Culture series, this premium die-cast car features detailed Gran Turismo graphics, a Metal/Metal body, and Real Riders tires for authenticity. Perfect for collectors and racing fans who love the blend of Italian speed and video game legacy.
+  Updated: 2025-11-05T20:35:59Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8329546b-7c5e-47f9-9d0e-0291d94f77fe.jpg?v=1762345491
+  Price: ₹1,199.00 INR
+- [Hot Wheels Moto Rollin’ Thunder – Orange Die-Cast Motorcycle](https://theworldofnerds.com/products/hot-wheels-moto-rollin-thunder-orange-die-cast-motorcycle): Bring home the thrill of the track with these Hot Wheels collectibles — from sleek motorcycles to bold off-road racers. Each die-cast model showcases premium detailing, durable construction, and signature Hot Wheels packaging. Perfect for collectors, display enthusiasts, and racing fans of all ages, these vehicles capture the speed, style, and excitement that make Hot Wheels legendary.
+  Updated: 2025-11-05T19:21:07Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3b211bd4-eef3-486d-8e9f-8b558c1c7c81.jpg?v=1762345840
+  Price: ₹899.00 INR
+- [Hot Wheels Moto Fat Ride – Green Chopper Bike Collectible](https://theworldofnerds.com/products/hot-wheels-moto-fat-ride-green-chopper-bike-collectible): Bring home the thrill of the track with these Hot Wheels collectibles — from sleek motorcycles to bold off-road racers. Each die-cast model showcases premium detailing, durable construction, and signature Hot Wheels packaging. Perfect for collectors, display enthusiasts, and racing fans of all ages, these vehicles capture the speed, style, and excitement that make Hot Wheels legendary.
+  Updated: 2025-11-05T16:03:06Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6bdbbaa6-07e8-4e1d-8594-02c6276b2063.jpg?v=1762345910
+  Price: ₹899.00 INR
+- [Majorette Land Rover Defender 110 & Jaguar F-Type – Bilstein Racing Edition Diecast Car](https://theworldofnerds.com/products/majorette-land-rover-defender-110-jaguar-f-type-bilstein-racing-edition-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
+  Updated: 2025-11-05T20:19:46Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_30b50b5c-d362-48da-b9d9-bb4a073b34ba.jpg?v=1762346003
+  Price: ₹999.00 INR
+- [Majorette Porsche Taycan Turbo S & 934 – Vaillant Racing Transporter Diecast Car](https://theworldofnerds.com/products/majorette-porsche-taycan-turbo-s-934-vaillant-racing-transporter-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
+  Updated: 2025-11-05T17:12:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9eaf3af6-e1ff-4a55-bfea-aad48a8e2b8f.jpg?v=1762346064
+  Price: ₹999.00 INR
+- [Majorette Ford F-150 Raptor & Mustang GT – Ford Performance Team Edition Diecast Car](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-mustang-gt-ford-performance-team-edition-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
+  Updated: 2025-11-05T17:39:48Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_33508163-8aa0-46fc-aaf4-dbb345f5bcf5.jpg?v=1762346131
+  Price: ₹999.00 INR
+- [Majorette Mack Granite & Nissan GT-R Nismo GT3 – Nismo Racing Edition Diecast Car](https://theworldofnerds.com/products/majorette-mack-granite-nissan-gt-r-nismo-gt3-nismo-racing-edition-diecast-car): Bring home the excitement of motorsport with the Majorette Racing Transporter Collection, featuring officially licensed die-cast vehicles and trailers inspired by top automotive brands. Each set includes a finely detailed transporter and matching race car, showcasing authentic logos, bold color schemes, and precision design. Perfect for collectors and car lovers alike, these Majorette models highlight brands like Bilstein, Vaillant, Ford Performance, and Nismo, making them a standout addition to any miniature car collection or display.
+  Updated: 2025-11-05T15:50:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3f673c5f-95e3-47a9-b4b0-b816bfc5a4b1.jpg?v=1762346192
+  Price: ₹999.00 INR
+- [Majorette Volkswagen Golf MK1 Diecast Model Car](https://theworldofnerds.com/products/majorette-volkswagen-golf-mk1-diecast-model-car): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
+  Updated: 2025-11-05T13:46:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_99b28cf7-0d1e-40cf-bbbe-f63bbe4b995e.jpg?v=1762346259
+  Price: ₹399.00 INR
+- [Majorette Volkswagen Beetle Surf Edition Diecast Toy Car](https://theworldofnerds.com/products/majorette-volkswagen-beetle-surf-edition-diecast-toy-car): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
+  Updated: 2025-11-05T23:33:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c4f20964-8bfb-4e16-8d9e-ac8d516e3d7d.jpg?v=1762346319
+  Price: ₹399.00 INR
+- [Majorette Volkswagen T1 Adventure Bus Diecast Collectible](https://theworldofnerds.com/products/majorette-volkswagen-t1-adventure-bus-diecast-collectible): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
+  Updated: 2025-11-05T19:33:32Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_565c99f9-820a-4697-af33-e64a47f47203.jpg?v=1762346374
+  Price: ₹399.00 INR
+- [Majorette Volkswagen T1 Flames Edition Diecast Vehicle](https://theworldofnerds.com/products/majorette-volkswagen-t1-flames-edition-diecast-vehicle): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
+  Updated: 2025-11-05T20:57:45Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1009c5ef-51cf-4294-8ce3-2eae0e70b4ee.jpg?v=1762346429
+  Price: ₹399.00 INR
+- [Majorette Volkswagen T3 Camper Van Adventure Edition Diecast](https://theworldofnerds.com/products/majorette-volkswagen-t3-camper-van-adventure-edition-diecast): Bring home the charm of classic Volkswagen vehicles with the Majorette Volkswagen Diecast Collection. Each officially licensed model features detailed designs, authentic paintwork, and premium build quality — perfect for collectors and car enthusiasts. Whether it’s the iconic Beetle, the adventurous T1 Bus, or the sporty Golf MK1, these miniature cars capture the timeless spirit of Volkswagen. Ideal for display or gifting, they’re a must-have addition to any diecast car collection.
+  Updated: 2025-11-05T19:21:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e4d73fc8-520a-42d9-bb09-c18c35a38071.jpg?v=1762346531
+  Price: ₹399.00 INR
+- [Majorette Street Cars – Green Sports Car Diecast Model](https://theworldofnerds.com/products/majorette-street-cars-green-sports-car-diecast-model): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
+  Updated: 2025-11-05T16:15:18Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_de71c774-ef1e-4378-bd28-3ce3d59bfede.jpg?v=1762346679
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Yellow Hatchback Diecast Collectible](https://theworldofnerds.com/products/majorette-street-cars-yellow-hatchback-diecast-collectible): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
+  Updated: 2025-11-05T16:26:01Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0dbd691b-eaee-44e5-8d15-3fbd9193c5e6.jpg?v=1762346737
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Red Sedan Diecast Toy Car](https://theworldofnerds.com/products/majorette-street-cars-red-sedan-diecast-toy-car): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
+  Updated: 2025-11-05T16:45:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_70ecd3ba-91e6-4503-807c-99c34eee86bf.jpg?v=1762346864
+  Price: ₹199.00 INR
+- [Majorette 2005 Chevrolet Corvette C6R – Racing Legends Diecast Model](https://theworldofnerds.com/products/majorette-2005-chevrolet-corvette-c6r-racing-legends-diecast-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T21:23:03Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_519a2292-de3e-493a-a412-f5ba3b8513be.jpg?v=1762347037
+  Price: ₹899.00 INR
+- [Majorette 1955 Chevrolet Bel Air – Classic American Icon Miniature Diecast Car](https://theworldofnerds.com/products/majorette-1955-chevrolet-bel-air-classic-american-icon-miniature-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T16:42:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0d2cbf3a-4479-4321-bf6a-a931396db0af.jpg?v=1762347149
+  Price: ₹899.00 INR
+- [Majorette 1965 Shelby GT350 – Collector’s Edition Diecast Muscle Car](https://theworldofnerds.com/products/majorette-1965-shelby-gt350-collector-s-edition-diecast-muscle-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T14:23:04Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_19973d1e-ed13-4df7-bc0e-6732d7fb1bfb.jpg?v=1762347216
+  Price: ₹899.00 INR
+- [Majorette 1975 Porsche 930 Turbo – Vintage German Sports Diecast Car Model](https://theworldofnerds.com/products/majorette-1975-porsche-930-turbo-vintage-german-sports-diecast-car-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T15:34:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_862c8731-7386-4462-9284-940b31b66e50.jpg?v=1762347275
+  Price: ₹899.00 INR
+- [Majorette 1985 Chevrolet Camaro – Retro Blue Collector Diecast Car](https://theworldofnerds.com/products/majorette-1985-chevrolet-camaro-retro-blue-collector-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T17:25:38Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_72179033-664e-4313-ac70-60a623dcc0cf.jpg?v=1762347371
+  Price: ₹899.00 INR
+- [Majorette 1995 Honda NSX-R GT – Premium Diecast Sports Car Model](https://theworldofnerds.com/products/majorette-1995-honda-nsx-r-gt-premium-diecast-sports-car-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2025-11-05T17:11:14Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_62193a16-6741-458d-abf8-b23371006f19.jpg?v=1762347451
+  Price: ₹899.00 INR
 
 ## Collections
 
@@ -10428,8 +11499,8 @@
   Updated: 2025-07-29T05:10:28Z
   Total Products: 29
 - [HOTWHEELS PREMIUM](https://theworldofnerds.com/collections/hotwheels-premium): Rev up your nostalgia with Hot Wheels Premium Pop Culture cars! This exclusive collection features meticulously crafted die-cast vehicles that celebrate iconic moments from movies, TV shows, and music. Each car is adorned with vibrant, high-quality graphics and unique detailing that pays homage to beloved pop culture classics. From legendary films to timeless television series, these cars are not just toys—they're collector's items that capture the essence of your favorite stories. With a focus on realism and artistry, Hot Wheels Premium Pop Culture cars make the perfect addition to any collection, inviting fans of all ages to relive the magic of the moments that shaped their childhoods.
-  Updated: 2025-10-19T11:11:51Z
-  Total Products: 10
+  Updated: 2025-11-05T12:25:24Z
+  Total Products: 21
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
   Updated: 2025-10-26T11:12:48Z
   Total Products: 100
@@ -10437,8 +11508,8 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 5
 - [MAJORETTE](https://theworldofnerds.com/collections/majorette): Explore the vibrant world of Majorette cars! Our high-quality die-cast vehicles feature realistic designs and durable construction, perfect for imaginative play and display. From sleek sports cars to essential emergency vehicles, Majorette offers a diverse collection that captivates automotive enthusiasts of all ages. Ideal for gifts or as a collectible, Majorette cars are sure to spark joy and creativity.
-  Updated: 2025-10-20T11:11:47Z
-  Total Products: 101
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 170
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
   Updated: 2025-11-04T12:12:04Z
   Total Products: 264
@@ -10491,8 +11562,8 @@
   Updated: 2025-11-02T12:11:53Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-10-28T12:20:47Z
-  Total Products: 349
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 448
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
   Updated: 2025-10-26T11:12:48Z
   Total Products: 104
@@ -10557,8 +11628,8 @@
   Updated: 2025-07-29T05:10:30Z
   Total Products: 7
 - [ALL DIECAST BIKES](https://theworldofnerds.com/collections/diecast-bikes): Rev up your collection with our detailed Diecast Bikes! These miniature replicas are crafted with precision and attention to detail, capturing the sleek design and power of iconic motorcycles. From classic cruisers to modern superbikes, each diecast bike is built to impress with high-quality materials and realistic features. Whether you're a motorcycle enthusiast or a collector, these diecast bikes are perfect for displaying your love for two-wheelers. Start your collection today and bring home the perfect addition to your garage or display shelf!
-  Updated: 2025-11-02T12:11:53Z
-  Total Products: 50
+  Updated: 2025-11-05T12:32:18Z
+  Total Products: 58
 - [ACCESSORIES](https://theworldofnerds.com/collections/accessories): Unleash your ninja spirit with our collection of Naruto Rings! Inspired by the iconic symbols and characters from the world of Naruto, these rings are the perfect way to showcase your love for the series. Crafted with intricate details, each ring represents elements from the Hidden Villages, clans, and powerful shinobi, making them a must-have for any true fan. Whether you’re looking for a symbol of the Sharingan, the Akatsuki cloud, or the Leaf Village, our Naruto rings combine style and fandom, letting you carry a piece of the ninja world wherever you go.
   Updated: 2025-09-04T11:12:40Z
   Total Products: 3
@@ -10569,11 +11640,11 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2025-10-27T07:39:48Z
-  Total Products: 135
+  Updated: 2025-11-05T12:32:18Z
+  Total Products: 216
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-11-04T12:12:04Z
-  Total Products: 473
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 626
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
   Total Products: 1
@@ -10584,14 +11655,14 @@
   Updated: 2025-10-19T11:11:51Z
   Total Products: 23
 - [CUSTOM DIECAST](https://theworldofnerds.com/collections/custom-diecast-cars): Custom diecast are modified, hand-painted, or fully customized versions of traditional diecast models. These vehicles go beyond standard mass-produced designs, incorporating unique paint jobs, aftermarket parts, decals, and even performance enhancements like rubber tires and detailed interiors. Enthusiasts and collectors often personalize diecast by repainting, adding custom wheels, weathering for realism, or even swapping parts to create one-of-a-kind models. Some custom diecast artists replicate real-world race cars, classic restorations, or fantasy builds that never existed in production.
-  Updated: 2025-10-19T11:11:51Z
-  Total Products: 32
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 182
 - [JURASSIC WORLD](https://theworldofnerds.com/collections/jurassic-world): "Step into the prehistoric adventure of Jurassic World with our latest collectibles! From realistic dinosaur figures and Funko Pop! collectibles to keychains and must-have memorabilia, relive the excitement of the epic franchise. Whether you're a fan of T-Rex, Blue the Velociraptor, or the Indominus Rex, these high-quality items bring the awe and danger of Jurassic World to life. Perfect for collectors, movie buffs, and dinosaur lovers—add these prehistoric beasts to your collection today!" 🦖🔥🌿
   Updated: 2025-08-04T11:09:26Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2025-11-02T12:11:53Z
-  Total Products: 418
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 568
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
   Updated: 2025-11-04T12:12:04Z
   Total Products: 379
@@ -10650,14 +11721,14 @@
   Updated: 2025-10-30T11:13:12Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-11-04T12:12:04Z
-  Total Products: 959
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 1112
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2025-10-30T11:13:12Z
   Total Products: 105
 - [DC](https://theworldofnerds.com/collections/dc): "Dive into the DC Universe with our latest collection of collectibles! Featuring legendary heroes and villains like Batman, Superman, Wonder Woman, The Joker, and more, our lineup includes action figures, Funko Pop! collectibles, keychains, and epic merchandise. Whether you're a fan of the Justice League, Gotham’s dark knights, or the rogues of Metropolis, these high-quality items bring the iconic battles and stories of DC to life. Add your favorite characters to your collection today!" 🦇⚡🔥
-  Updated: 2025-09-20T07:30:11Z
-  Total Products: 16
+  Updated: 2025-11-05T07:02:35Z
+  Total Products: 17
 - [GAME OF THRONES](https://theworldofnerds.com/collections/game-of-thrones): "Step into the world of Game of Thrones with our latest collectibles! From the mighty House Stark and Targaryen to legendary characters like Jon Snow, Daenerys, and the Night King, our collection features action figures, Funko Pop! collectibles, keychains, and more. Whether you're a loyal fan of the Seven Kingdoms or a collector of epic fantasy memorabilia, these high-quality items bring the drama, power, and intrigue of Westeros to life. Claim your piece of the throne today!" ⚔️🔥🐉
   Updated: 2025-10-13T06:13:25Z
   Total Products: 2
@@ -10668,8 +11739,8 @@
   Updated: 2025-07-29T05:10:33Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-11-04T12:12:04Z
-  Total Products: 281
+  Updated: 2025-11-05T12:58:04Z
+  Total Products: 434
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
   Total Products: 8
@@ -10683,8 +11754,8 @@
   Updated: 2025-10-24T04:57:52Z
   Total Products: 17
 - [ALL ANIME MERCHANDISE](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2025-11-04T12:12:04Z
-  Total Products: 417
+  Updated: 2025-11-05T07:00:47Z
+  Total Products: 418
 
 ## Store Pages
 
