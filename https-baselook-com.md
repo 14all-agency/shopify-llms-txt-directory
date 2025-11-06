@@ -6,7 +6,7 @@
 - Timezone: Asia/Dubai
 - Created At: 2025-10-24T05:25:59Z
 - Contact Email: brandmoxiemanager@gmail.com
-- Updated At: 2025-11-05T00:01:07.161Z
+- Updated At: 2025-11-06T00:00:23.037Z
 
 ## Products
 
