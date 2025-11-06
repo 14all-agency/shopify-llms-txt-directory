@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-04T22:26:28.488Z
+- Updated At: 2025-11-06T00:00:26.543Z
 
 ## Products
 
@@ -1598,7 +1598,7 @@
   Updated: 2025-11-02T12:20:59Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-11-01T11:21:40Z
+  Updated: 2025-11-05T12:22:36Z
   Total Products: 14
 - [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
   Updated: 2025-08-24T11:19:59Z
@@ -1625,7 +1625,7 @@
   Updated: 2025-11-03T12:20:04Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-11-02T12:20:59Z
+  Updated: 2025-11-05T12:22:36Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-10-14T11:18:02Z
