@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-04T00:00:50.971Z
+- Updated At: 2025-11-06T00:00:37.316Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -777,7 +777,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_148ae80b-a2c5-4baf-aa21-93b190c85169.jpg?v=1745852669
   Price: 299,00 € EUR
 - [Infinity IRS Beta gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/infinity-irs-beta-gebraucht-kaufen-1): Infinity IRS Beta gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:20Z
+  Updated: 2025-11-04T04:45:28Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -2219,7 +2219,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-03T22:41:31Z
+  Updated: 2025-11-04T12:22:19Z
   Total Products: 121
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
