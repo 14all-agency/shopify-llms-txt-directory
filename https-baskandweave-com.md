@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-05T00:00:35.062Z
+- Updated At: 2025-11-06T00:00:30.962Z
 
 ## Products
 
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-678cb132c3c77.jpg?v=1737273688
     Price: $37.00 USD
 - [Men's USA Made T-Shirt – Durable & High-Quality Staple](https://baskandweave.com/products/unisex-t-shirt): Experience comfort and craftsmanship with our Men's USA Made T-Shirt. A durable, high-quality staple designed for everyday wear and lasting style.
-  Updated: 2025-11-04T09:08:10Z
+  Updated: 2025-11-05T03:09:51Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -575,7 +575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $28.50 USD
   - [Athletic Heather / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676209914)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
     Price: $32.00 USD
   - [Athletic Heather / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676242682)
@@ -591,7 +591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $28.50 USD
   - [White / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062676340986)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
     Price: $28.50 USD
   - [White / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676373754)
@@ -2131,7 +2131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-heavyweight-tee-vintage-gold-right-front-678e370e6f51e.jpg?v=1737373673
     Price: $41.50 USD
 - [Garment-Dyed T-Shirt Men – Stylish Pocket Cotton Tee](https://baskandweave.com/products/mens-garment-dyed-pocket-t-shirt): Shop our garment-dyed t-shirt men love for its comfort and style. This pocket tee offers a relaxed fit, soft cotton fabric, and a timeless washed look.
-  Updated: 2025-10-29T23:34:47Z
+  Updated: 2025-11-05T15:11:21Z
   Vendor: Bask & Weave
   Product Type: Pocket T-Shirt
   Availability: Available
@@ -2253,7 +2253,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-front-2-678e37bda0387.jpg?v=1737373647
     Price: $33.50 USD
   - [Flo Blue / 2XL](https://baskandweave.com/products/mens-garment-dyed-pocket-t-shirt?variant=47065056248058)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-front-2-678e37bda0387.jpg?v=1737373647
     Price: $37.00 USD
   - [Watermelon / S](https://baskandweave.com/products/mens-garment-dyed-pocket-t-shirt?variant=47065056280826)
@@ -5072,7 +5072,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-6790e92e9c1bc.jpg?v=1737550260
     Price: $46.50 USD
 - [Men's Embroidered T-Shirt USA - Premium Staple Tee Made Here](https://baskandweave.com/products/mens-t-shirt-embroidered): Discover the perfect men's embroidered t-shirt USA made. Crafted for comfort and durability, this premium staple tee adds timeless style to your everyday wear.
-  Updated: 2025-11-04T09:08:15Z
+  Updated: 2025-11-05T03:09:57Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5190,7 +5190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $32.00 USD
   - [Athletic Heather / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873878778)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
     Price: $35.50 USD
   - [Athletic Heather / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873911546)
@@ -5206,7 +5206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $32.00 USD
   - [White / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874009850)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
     Price: $32.00 USD
   - [White / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874042618)
@@ -10657,7 +10657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-6795774311395.jpg?v=1737908014
     Price: $37.00 USD
 - [Women's Staple T-Shirt Made in USA - Soft Everyday Tee](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa): Shop our Women's Staple T-Shirt made in the USA. Crafted from soft, durable cotton for everyday comfort — the perfect essential tee for every wardrobe.
-  Updated: 2025-11-04T09:08:10Z
+  Updated: 2025-11-05T03:09:52Z
   Vendor: Bask & Weave
   Product Type: 
   Availability: Available
@@ -10775,7 +10775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $28.50 USD
   - [Athletic Heather / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078461690)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
     Price: $32.00 USD
   - [Athletic Heather / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078494458)
@@ -10791,7 +10791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $28.50 USD
   - [White / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078592762)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
     Price: $28.50 USD
   - [White / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078625530)
@@ -12019,7 +12019,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-front-67958158e0115.jpg?v=1737908803
     Price: $33.50 USD
 - [Women's Garment-Dyed Pocket T-Shirt – Casual Soft Tee](https://baskandweave.com/products/womens-garment-dyed-pocket-t-shirt): Shop the Women's Garment-Dyed Pocket T-Shirt, crafted for comfort and timeless style. Soft, durable, and perfect for casual days or layering with your look.
-  Updated: 2025-11-02T23:52:23Z
+  Updated: 2025-11-05T15:11:23Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -12141,7 +12141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-front-679581b2ca67f.jpg?v=1737908854
     Price: $33.50 USD
   - [Flo Blue / 2XL](https://baskandweave.com/products/womens-garment-dyed-pocket-t-shirt?variant=47079117062394)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-front-679581b2ca67f.jpg?v=1737908854
     Price: $37.00 USD
   - [Watermelon / S](https://baskandweave.com/products/womens-garment-dyed-pocket-t-shirt?variant=47079117095162)
@@ -14619,7 +14619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-67966f86d1900.jpg?v=1737915665
     Price: $44.50 USD
 - [Women's Embroidered T-Shirt USA – Staple Made in the USA](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa): Discover the women's embroidered t-shirt USA edition — a staple made in the USA for timeless comfort and elegant everyday wear. Shop sustainable style now.
-  Updated: 2025-11-04T09:08:15Z
+  Updated: 2025-11-05T03:09:57Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -14737,7 +14737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $32.00 USD
   - [Athletic Heather / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272789754)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
     Price: $35.50 USD
   - [Athletic Heather / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272822522)
@@ -14753,7 +14753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
     Price: $32.00 USD
   - [White / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272920826)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
     Price: $32.00 USD
   - [White / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272953594)
@@ -15419,7 +15419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-zoomed-in-2-679674c926ba3.jpg?v=1737916738
     Price: $35.50 USD
 - [Women's Garment-Dyed Embroidered T-Shirt with Pocket](https://baskandweave.com/products/womens-garment-dyed-pocket-embroidered-t-shirt): Experience everyday comfort in this women's garment-dyed embroidered t-shirt. Soft, stylish, and practical with a pocket design perfect for casual wear.
-  Updated: 2025-11-03T23:13:48Z
+  Updated: 2025-11-05T15:11:21Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -15541,7 +15541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-back-679675fc1e78b.jpg?v=1737916778
     Price: $36.50 USD
   - [Flo Blue / 2XL](https://baskandweave.com/products/womens-garment-dyed-pocket-embroidered-t-shirt?variant=47080318107898)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-garment-dyed-pocket-t-shirt-flo-blue-back-679675fc1e78b.jpg?v=1737916778
     Price: $40.00 USD
   - [Watermelon / S](https://baskandweave.com/products/womens-garment-dyed-pocket-embroidered-t-shirt?variant=47080318140666)
@@ -20138,8 +20138,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-fleece-pullover-carbon-grey-front-2-67a68a761f683.jpg?v=1738968410
     Price: $49.00 USD
-- [Women's Faux Leather Bomber Jacket](https://baskandweave.com/products/womens-faux-leather-bomber-jacket): If there’s an item that never goes out of style, it’s a leather jacket. Made of 100% PU leather, this classic piece will complement casual, chic, or sporty outfits.• Outside: 100% polyurethane (PU) leather• Lining: 60% cotton, 40% polyester• Embroidery backing: 100% rayon • Fabric weight: 10.6 oz/yd² (359 g/m²)• Regular fit• Rib-knit banding at collar, cuffs, and hem• Side pockets• Utility pocket on the sleeve• Hidden inside access zipper at the back of the design area• Blank product sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) XS 68.6 49.5 63.5 S 69.9 53.3 64.1 M 71.1 58.4 64.8 L 72.4 63.5 65.4 XL 73.7 68.6 66 2XL 75 72.4 66.7 3XL 76.2 76.2 67.3
-  Updated: 2025-10-29T23:04:23Z
+- [Women's Faux Leather Bomber Jacket - Stylish & Trendy Look](https://baskandweave.com/products/womens-faux-leather-bomber-jacket): Elevate your style with our women's faux leather bomber jacket. Designed for comfort and edge, this trendy piece is perfect for a chic and confident look.
+  Updated: 2025-11-05T00:15:22Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -20200,8 +20200,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/faux-leather-bomber-jacket-brown-front-67a68ecc84bfa.jpg?v=1738969805
     Price: $99.00 USD
-- [All-Over Print Women's Bomber Jacket](https://baskandweave.com/products/all-over-print-womens-bomber-jacket): Add a little zing to your wardrobe with this vibrant All-Over Print Bomber Jacket. Wear it on a basic t-shirt, or layer it on top of a warm hoodie—it’ll look great either way. With a brushed fleece inside, and a relaxed fit, this Bomber Jacket is just the stuff of the dreams, so be quick to grab yourself one! • 100% polyester • Fabric weight: 6.49 oz/yd² (220 g/m²), weight may vary by 5% • Brushed fleece fabric inside • Unisex fit • Overlock seams • Sturdy neck tape • Silver YKK zipper • 2 self-fabric pockets • Blank product components sourced from the US and China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
-  Updated: 2025-10-29T23:04:23Z
+- [Women's Bomber Jacket - All-Over Print Stylish Outerwear](https://baskandweave.com/products/all-over-print-womens-bomber-jacket): Express your bold style with our all-over print women's bomber jacket. This fashionable and lightweight outerwear adds flair and comfort to any outfit.
+  Updated: 2025-11-05T00:16:11Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -20234,8 +20234,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-unisex-bomber-jacket-white-front-67a68f4938296.jpg?v=1740877035
     Price: $76.00 USD
-- [Women's Windbreaker](https://baskandweave.com/products/womens-windbreaker): Whether you’re hiking, camping, or just running errands, this casual, sporty windbreaker’s got you covered. It’s very lightweight, durable, and water-repellent. This windbreaker has a zipped closure and elasticated cuffs for a snug fit and comfortable wear. It also has two zipped pockets to store your essentials while on the move. This classic windbreaker will keep you both fashionable and protected on all your adventures. • 100% polyamide • Fabric weight: 7.13 oz./yd.² (202 g/m²) • Regular fit • Hood with a drawstring, zipped closure, elastic cuffs and hem • 2 zipped pockets • This product’s fabric is OEKO-TEX Standard 100 certified and PETA-Approved Vegan This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71 60 83 M 74 64 85 L 78 68 87 XL 81 73 92 2XL 84 79 94
-  Updated: 2025-10-29T23:04:23Z
+- [Women's Windbreaker - Lightweight & Stylish Jacket](https://baskandweave.com/products/womens-windbreaker): Stay protected in style with our women's windbreaker. This lightweight, water-resistant jacket is perfect for outdoor adventures and everyday comfort.
+  Updated: 2025-11-05T00:17:12Z
   Vendor: Bask & Weave
   Product Type: Windbreaker
   Availability: Available
@@ -20300,8 +20300,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-67a68fba68b0c.jpg?v=1738971028
     Price: $45.50 USD
-- [Women's Sherpa Denim Jacket](https://baskandweave.com/products/womens-sherpa-denim-jacket): Be it the 90s or mid 2000s—a classic denim jacket never goes out of style, and now you don’t have to wait for the summer to roll around to wear one! This jacket is lined with wool-like sherpa fabric that’s comfortable to wear and will keep you warm and snug. The lining is made of 100% recycled materials, including plastic bottles. • Denim: 99% cotton, 1% spandex • Sherpa & sleeve lining: 100% recycled polyester • Fabric weight: 12 oz/yd² (406.9 g/m²) • Chest pockets with button flap closure • Two side pockets • Regular fit • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) SLEEVE LENGTH (cm) XS 45.7 64.8 61.6 S 49.5 66 62.2 M 54.6 67.3 62.9 L 59.7 68.6 63.5 XL 64.8 69.9 64.1 2XL 68.6 71.1 64.8 3XL 72.4 72.4 65.4
-  Updated: 2025-10-29T23:04:23Z
+- [Women's Sherpa Denim Jacket - Warm & Stylish Outerwear](https://baskandweave.com/products/womens-sherpa-denim-jacket): Stay cozy and chic with our Women's Sherpa Denim Jacket, blending classic denim with soft sherpa lining for warmth, comfort, and everyday style.
+  Updated: 2025-11-05T00:19:37Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -20362,8 +20362,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-67a691e765e74.jpg?v=1738971162
     Price: $107.00 USD
-- [All-Over Print Women's Wide-Leg Joggers](https://baskandweave.com/products/all-over-print-womens-wide-leg-joggers): Rediscover ’90s fashion with these all-over print wide-leg joggers. Ideal for athleisure looks and casual outings, they offer a fit and handy side pockets. • 95% recycled polyester, 5% spandex • Wide-leg cut • Relaxed fit • Side pockets • Elastic waistband with a drawstring • Tear-away care label Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:24Z
+- [Women's Wide-Leg Joggers - All-Over Print Comfy Style](https://baskandweave.com/products/all-over-print-womens-wide-leg-joggers): Step into comfort with our women's wide-leg joggers. These all-over print joggers offer a perfect blend of relaxed fit, style, and everyday versatility.
+  Updated: 2025-11-05T00:20:50Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -20412,8 +20412,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Wide-Leg_Joggers.jpg?v=1740873269
     Price: $75.50 USD
-- [Women's Joggers](https://baskandweave.com/products/womens-joggers): Get ready for that 10K run or take it slow in your backyard—these joggers are sure to make you feel comfortable either way. • 60% cotton, 40% polyester pre-shrunk fleece • Fabric weight: 7.2 oz/yd² (244 g/m²) • Tapered fit • Lower rise on the front, longer rise on the backside • 1×1 rib cuffs with spandex for stretch and recovery • Elastic waistband with external drawcord • Contrast color drawcord and side pockets (all body colors include charcoal gray contrast detailing except black heather, which has black) • Pilling-resistant • Blank product sourced from El Salvador or HondurasSize guide WAIST WIDTH (cm) INSEAM LENGTH (cm) S 55.9 78.7 M 66 80 L 76.2 81.3 XL 86.4 82.6 2XL 96.5 83.8
-  Updated: 2025-10-29T23:04:24Z
+- [Women's Joggers - Comfortable & Stylish Activewear](https://baskandweave.com/products/womens-joggers): Discover women's joggers made for comfort and style. Perfect for workouts or lounging, our joggers blend soft fabrics with a flattering, relaxed fit.
+  Updated: 2025-11-05T00:21:53Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -20498,8 +20498,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-joggers-athletic-heather-left-leg-67a69a1c0ccd0.jpg?v=1738973381
     Price: $47.00 USD
-- [All-Over Print Recycled Women’s Joggers](https://baskandweave.com/products/all-over-print-recycled-women-s-joggers): Congrats, you’ve found your next favorite sweatpants! Made from recycled polyester and spandex blend, these joggers feel super soft to the touch. These joggers feature a vibrant print that won’t fade, so you can enjoy them for a long time. • 95% recycled polyester, 5% spandex • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Slim fit • Soft cotton-feel fabric face • Brushed fleece fabric inside • Cuffed legs • Practical pockets • Elastic waistband with a white drawstring • Blank components sourced from China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130
-  Updated: 2025-10-29T23:04:24Z
+- [Recycled Women's Joggers - All-Over Print Eco Activewear](https://baskandweave.com/products/all-over-print-recycled-women-s-joggers): Stay stylish and sustainable with our recycled women's joggers. Featuring an all-over print, these eco-friendly joggers offer comfort, quality, and flair.
+  Updated: 2025-11-05T00:22:43Z
   Vendor: Bask & Weave
   Product Type: Joggers
   Availability: Available
@@ -20532,8 +20532,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-recycled-womens-joggers-white-front-67a69ac39fd6e.jpg?v=1738973440
     Price: $64.50 USD
-- [Women's Pigment-Dyed Sweatpants](https://baskandweave.com/products/womens-pigment-dyed-sweatpants): Get the effortless celebrity off-duty look with this pigment-dyed sweatpants. The garment dyeing process makes the sweatpants look washed out and ensures a unique shade for each pair. The sweatpants have two pockets on the front and one on the back, and adjustable drawstrings for a secure fit around the waist. • 80% ring-spun cotton and 20% polyester • 100% cotton face • Yarn diameter: 30 singles • Fabric weight: 9 oz./yd² (305.15 g/m²) • Relaxed fit • Sewn eyelets and fly detail • Elastic waistband • Flat, color-matching drawstrings • 1x1 rib at ankle cuffs • Jersey-lined slash pockets • Back pocket • Woven label • Blank product sourced from ChinaSize guide WAIST (cm) INSEAM LENGTH (cm) S 71.1-78.7 75 M 78.7-83.8 76.2 L 83.8-89 76.2 XL 89-96.5 77.5 2XL 96.5-106.7 77.5
-  Updated: 2025-10-29T23:04:24Z
+- [Women's Sweatpants - Pigment-Dyed Comfortable Joggers](https://baskandweave.com/products/womens-pigment-dyed-sweatpants): Discover our women's sweatpants, crafted with a unique pigment-dyed finish for a soft, vintage feel. Perfect for comfort, lounging, or casual outings.
+  Updated: 2025-11-05T00:23:49Z
   Vendor: Bask & Weave
   Product Type: Sweatpants
   Availability: Available
@@ -20658,8 +20658,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pigment-dyed-sweatpants-pigment-light-blue-front-67a69b49681a5.jpg?v=1738973507
     Price: $69.50 USD
-- [All-Over Print Women's Leggings](https://baskandweave.com/products/all-over-print-womens-leggings): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • Fabric: 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • UPF 50+ • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and Lithuania This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-10-29T23:04:24Z
+- [Women's Leggings - All-Over Print Stylish Activewear](https://baskandweave.com/products/all-over-print-womens-leggings): Upgrade your style with our women's leggings featuring bold all-over prints. These comfortable, high-quality leggings are perfect for workouts or casual wear.
+  Updated: 2025-11-05T00:25:06Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -20684,8 +20684,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Leggings.jpg?v=1740876396
     Price: $39.50 USD
-- [All-Over Print Women's Capri Leggings](https://baskandweave.com/products/all-over-print-womens-capri-leggings): Super soft and comfortable capri leggings. • 82% polyester, 18% spandex • 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • 38–40 UPF • Material has a four-way stretch, which means fabric stretches and recovers on the cross and lengthwise grains • Made with a smooth, comfortable microfiber yarn • Precision-cut and hand-sewn after printing • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and Lithuania This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-10-29T23:04:24Z
+- [Women's Capri Leggings - All-Over Print Activewear](https://baskandweave.com/products/all-over-print-womens-capri-leggings): Stay stylish and comfortable in our women's capri leggings. Featuring vibrant all-over prints, these leggings are perfect for workouts or everyday wear.
+  Updated: 2025-11-05T00:26:00Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -20710,8 +20710,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Capri_Leggings.jpg?v=1740876972
     Price: $39.50 USD
-- [Women's Sports Leggings](https://baskandweave.com/products/womens-sports-leggings): These compression fabric sports leggings are a must for medium to high-intensity workouts. They're soft, comfy, and chic—ideal for anyone who enjoys an active lifestyle. • Fabric composition in Mexico: 75% polyester, 25% lycra (upper part of the leggings) and 75% polyester, 25% spandex (bottom part of the leggings) • Fabric composition in Europe: 57% polyamide, 43% spandex (upper part of the leggings) and 78% polyester, 22% spandex (bottom part of the leggings) • Upper part fabric weight: 5.45 oz/yd² (185 g/m²) • Bottom part fabric weight: 8.25 oz/yd² (280 g/m²) • Compression fabric • Non-see-through and squat-proof • Sewn-in gusset • ⅞ length • High-waisted • Slimming effect and a butt-lifting cut • Double-layered belt • Size up if you’re between sizes as compression fabric can be tight on the body • Pocket in the back part of the belt suitable for top phone models, eg. iPhone 12 • Blank product components sourced from Italy and Spain This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) 2XS 60 86 XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Sports Leggings - High-Performance Activewear](https://baskandweave.com/products/womens-sports-leggings): Experience comfort and flexibility with our women's sports leggings. Designed for performance, these leggings are perfect for workouts and daily wear.
+  Updated: 2025-11-05T00:26:48Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -20748,8 +20748,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/sports-leggings-white-front-67a69d5c88d91.jpg?v=1738973666
     Price: $61.50 USD
-- [All-Over Print Women's Flare Leggings](https://baskandweave.com/products/all-over-print-womens-flare-leggings): Designed to enhance your figure, these trendy leggings feature a high waist and a butt-lifting cut. The flared leg bottoms add a touch of style and make the leggings comfortable. Wear them on a walk, to the gym, or style them up with a bomber jacket or hoodie. • 74% recycled polyester, 26% elastane • Fabric weight (may vary by 5%): 7.37 oz./yd.² (250 g/m²) • Soft and stretchy premium quality fabric with a mild compression feel • Moisture-wicking fabric • UPF 50+ protection • High-waisted with a butt-lifting cut • Flared design from the knee down • Double-layered waistband with a pocket on the inside • The fabric is OEKO-TEX 100 standard certified • Blank product components sourced from China and Turkey Disclaimers: • If body measurements fall between sizes, size up for a comfortable fit and size down for a snug fit. • In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. • Please note that contact with rough surfaces should be avoided since they can pull out the white fibers in the fabric, damaging the leggings. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (cm) HIPS (cm) 2XS 60 86 XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130 4XL 112 138 5XL 120 146 6XL 128 154
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Flare Leggings - All-Over Print Activewear](https://baskandweave.com/products/all-over-print-womens-flare-leggings): Shop women's flare leggings made with soft, stretchy fabric and unique all-over prints. These stylish women’s flare leggings elevate your activewear look.
+  Updated: 2025-11-05T00:27:56Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -20798,8 +20798,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-flare-leggings-white-front-67a69ddc25073.jpg?v=1738973701
     Price: $59.00 USD
-- [All-Over Print Women's Wide-Leg Pants](https://baskandweave.com/products/all-over-print-womens-wide-leg-pants): Get the comfort of pajamas in this stylish pair of wide-leg pants. With the adjustable waist and a smooth, comfortable stretchy fabric, it’s like your favorite sweatpants but better. - Fabric composition in the EU: 96% polyester, 4% spandex- Fabric composition in the US: 93% polyester, 7% spandex- Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²)- Fabric weight in the US: 7.08 oz./yd.² (240 g/m²)- Relaxed unisex fit- Practical side pockets- Elastic waistband with a white drawstring- Can be worn on the waist or on the hips- Premium knit mid-weight jersey fabricDisclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. Size guide WAIST (cm) HIPS (cm) 2XS 72 90 XS 76 94 S 80 98 M 84 102 L 92 110 XL 100 118 2XL 108 126 3XL 116 134 4XL 124 142 5XL 132 150 6XL 140 158
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Wide-Leg Pants | Stylish All-Over Print Fashion](https://baskandweave.com/products/all-over-print-womens-wide-leg-pants): Shop stylish women's wide-leg pants featuring unique all-over prints and a relaxed fit. These comfortable wide-leg pants add flair to any casual outfit.
+  Updated: 2025-11-05T00:29:46Z
   Vendor: Bask & Weave
   Product Type: Pants
   Availability: Available
@@ -20848,8 +20848,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Wide-Leg_Pants.jpg?v=1740870407
     Price: $65.00 USD
-- [All-Over Print Women's Skater Skirt](https://baskandweave.com/products/all-over-print-womens-skater-skirt): The soft fabric and flared cut of this skater skirt are just a few of the reasons why it's bound to become a favorite in your wardrobe. The flattering silhouette looks great on any body type, and thanks to the elastic waistband, you'll feel extra comfy. • 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • Smooth fabric • Mid-thigh length • Elastic waistband • Overlock seams, coverstitch hemline • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and LithuaniaSize guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Skater Skirt - All-Over Print Flared Fashion](https://baskandweave.com/products/all-over-print-womens-skater-skirt): Shop women's skater skirt styles with bold all-over prints and a flattering flared fit. Perfect for everyday wear or casual chic outings.
+  Updated: 2025-11-05T00:30:35Z
   Vendor: Bask & Weave
   Product Type: Skirt
   Availability: Available
@@ -20882,8 +20882,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Women_s_Skater_Skirt.jpg?v=1740872264
     Price: $46.00 USD
-- [Women's Skater Skirt](https://baskandweave.com/products/womens-skater-skirt): The soft fabric and flared cut of this skater skirt are just a few of the reasons why it's bound to become a favorite in your wardrobe. The flattering silhouette looks great on any body type, and thanks to the elastic waistband, you'll feel extra comfy. • 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • Smooth fabric • Mid-thigh length • Elastic waistband • Overlock seams, coverstitch hemline • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and LithuaniaSize guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Skater Skirt – Affordable & Stylish Outfits](https://baskandweave.com/products/womens-skater-skirt): Shop the best women's skater skirt styles online. Discover affordable, flattering, and stylish skater skirts perfect for every occasion.
+  Updated: 2025-11-05T00:31:32Z
   Vendor: Bask & Weave
   Product Type: Skirt
   Availability: Available
@@ -20916,8 +20916,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-skater-skirt-white-front-67a69f9a224ab.jpg?v=1740876164
     Price: $47.50 USD
-- [Women's All-Over Print Skater Skirt](https://baskandweave.com/products/womens-all-over-print-skater-skirt): The soft fabric and flared cut of this skater skirt are just a few of the reasons why it's bound to become a favorite in your wardrobe. The flattering silhouette looks great on any body type, and thanks to the elastic waistband, you'll feel extra comfy. • 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • Smooth fabric • Mid-thigh length • Elastic waistband • Overlock seams, coverstitch hemline • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and LithuaniaSize guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114 2XL 96 122 3XL 104 130
-  Updated: 2025-10-29T23:04:25Z
+- [Women's Skater Skirt – All-Over Print Fashion Style](https://baskandweave.com/products/womens-all-over-print-skater-skirt): Discover our women's skater skirt with all-over print designs. Perfect blend of comfort and fashion for any occasion. Shop stylish skirts now!
+  Updated: 2025-11-05T00:34:01Z
   Vendor: Bask & Weave
   Product Type: Skirt
   Availability: Available
@@ -20950,8 +20950,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-skater-skirt-white-front-67a69feaa4d22.jpg?v=1740876019
     Price: $49.00 USD
-- [Toddler Short Sleeve Staple Tee](https://baskandweave.com/products/toddler-short-sleeve-staple-tee): Let your toddler do their thing while feeling super comfy and looking extra stylish in this short-sleeve jersey t-shirt from 100% cotton with a unique print. The tee is soft, durable, and bound to become the staple of your toddler's wardrobe. • 100% combed and ring-spun cotton • Fabric weight: 4.2 oz/yd² (142 g/m²) • Relaxed fit for extra comfort • Side-seamed construction • Pre-shrunk fabric • Blank product sourced from the US or Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) FITS WEIGHT (LBS) (kg) EUR SIZE YEARS 2T 30.5 39.4 14-15 92 2 3T 33 42 15-16 98 3 4T 35.6 44.5 16-18 104 4 5T 38.1 47 18-20 110 5
-  Updated: 2025-10-29T23:04:26Z
+- [Toddler Short Sleeve Tee – Everyday Staple for Kids](https://baskandweave.com/products/toddler-short-sleeve-staple-tee): Keep your little one comfy with our toddler short sleeve tee. Soft, durable, and perfect for everyday wear. Shop the kids' staple tee today!
+  Updated: 2025-11-05T00:34:47Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21020,8 +21020,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/toddler-staple-tee-white-front-67a6a4d062629.jpg?v=1738975785
     Price: $25.50 USD
-- [Youth Short Sleeve Staple T-Shirt](https://baskandweave.com/products/youth-short-sleeve-staple-t-shirt): This is the tee that you've been looking for, and it's bound to become a favorite in any youngster's wardrobe. It's light, soft, and comes with a unique design that stands out from the crowd wherever you go! • 100% combed and ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz/yd² (142 g/m2) • Pre-shrunk fabric • 32 singles • Relaxed unisex fit • Side-seamed construction • Blank product sourced from Nicaragua, the US, Guatemala, or Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) S 38.7 53 M 41.3 56.2 L 43.8 59.4 XL 46.4 62
-  Updated: 2025-10-29T23:04:26Z
+- [Youth Short Sleeve T-Shirt – Everyday Staple Tee for Kids](https://baskandweave.com/products/youth-short-sleeve-staple-t-shirt): Our youth short sleeve t-shirt is soft, durable, and perfect for daily wear. A must-have staple tee for active kids. Shop quality comfort today!
+  Updated: 2025-11-05T00:35:34Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21226,8 +21226,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/youth-staple-tee-mustard-front-67a6a54e567d0.jpg?v=1738975862
     Price: $26.50 USD
-- [All-Over Print Kids Crew Neck T-Shirt](https://baskandweave.com/products/all-over-print-kids-crew-neck-t-shirt): Get a t-shirt for your kids that has it all—colorful design that looks great, and a fit that allows the kiddos to participate in all of their favorite activities and be comfy the whole time. The ultimate kids tee. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit - Crew neck - Blank product components in the EU sourced from Lithuania - Blank product components in the US and Mexico sourced from the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) 2T 92 52 51 3T 98 54 56.5 4T 104 56 60 5T 110 58 62 6 116 60 64 6X 122 63 66 7 128 66 69
-  Updated: 2025-10-29T23:04:26Z
+- [Kids Crew Neck T-Shirt – All-Over Print Graphic Tee](https://baskandweave.com/products/all-over-print-kids-crew-neck-t-shirt): Shop our kids crew neck t-shirt with vibrant all-over prints. Soft, durable, and perfect for play or everyday wear. Add fun style to your child’s look!
+  Updated: 2025-11-05T00:36:17Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21260,8 +21260,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Kids_Crew_Neck_T-Shirt.jpg?v=1740983136
     Price: $31.50 USD
-- [Youth Classic Tee](https://baskandweave.com/products/youth-classic-tee): Investing in the youth classic tee means investing in a wardrobe staple that effortlessly combines quality, affordability, and versatility. Elevate your kids’ wardrobes with a t-shirt that keeps up with their adventures. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Fabric weight: 5.3 oz./yd² (180 g/m²) • Pre-shrunk fabric • Classic fit • Taped neck and shoulders • Tear-away tag • Made with OEKO-TEX certified low-impact dyes • Blank product sourced from the Dominican Republic, Honduras, Haiti, Nicaragua, or El Salvador This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) CHEST (cm) XS 52 40.6 S 55.9 43.2 M 59.7 45.7 L 63.5 48.3 XL 67.3 50.8
-  Updated: 2025-10-29T23:04:26Z
+- [Youth Classic T-Shirt – Comfortable Everyday T-Shirt](https://baskandweave.com/products/youth-classic-tee): Discover the perfect Youth Classic T-Shirt for everyday wear. Soft, breathable, and stylish — ideal for school, play, or casual outings.
+  Updated: 2025-11-05T00:37:06Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21466,8 +21466,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/youth-classic-tee-white-front-67a6a62a999d9.jpg?v=1738975994
     Price: $25.00 USD
-- [Baby Jersey Short Sleeve Tee](https://baskandweave.com/products/baby-jersey-short-sleeve-tee): It's never too early to look great! So get your baby this short sleeve cotton jersey tee that's not only stylish, but also comfy, durable, and easy to clean. It's a classic that's bound to become the most loved item in your baby's wardrobe. • 100% combed ring-spun cotton • Heather colors are 52% combed ring-spun cotton, 48% polyester • Fabric weight: 4.2 oz/yd² (142 g/m²) • Pre-shrunk fabric • 32 singles • Relaxed fit • Side-seamed construction • Blank product sourced from Nicaragua, the US, or Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) FITS BABY WEIGHT (LBS) (kg) EUR SIZE 6-12m 25.4 30.5 7-10 74 12-18m 28 33 10-12 80 18-24m 28 35.6 12-14 86
-  Updated: 2025-10-29T23:04:26Z
+- [Baby Short Sleeve Tee – Soft & Comfy Jersey T-Shirt](https://baskandweave.com/products/baby-jersey-short-sleeve-tee): Dress your little one in style with our Baby Short Sleeve Tee. Made from soft jersey fabric for all-day comfort — perfect for playtime or outings.
+  Updated: 2025-11-05T00:37:53Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21520,8 +21520,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/baby-staple-tee-white-front-67a6a69ecd8e9.jpg?v=1738976038
     Price: $25.50 USD
-- [All-Over Print Youth Crew Neck T-shirt](https://baskandweave.com/products/all-over-print-youth-crew-neck-t-shirt): Get a t-shirt that your teen will love! This tee is a colorful statement piece that's made of a soft fabric and has an eye-catching design that won't fade. - Fabric composition in the EU: 96% polyester, 4% spandex - Fabric composition in the US: 93% polyester, 7% spandex - Fabric weight in the EU: 6.34 oz./yd.² (215 g/m²) - Fabric weight in the US: 7.08 oz./yd.² (240 g/m²) - Premium knit mid-weight jersey - Smooth, comfortable 2-way stretch fabric that stretches and recovers on the cross and lengthwise grains - Regular fit - Blank product components in the EU sourced from Lithuania - Blank product components in the US sourced from Mexico This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (cm) CHEST (cm) WAIST (cm) 8 134 69 60 10 140 72 62 12 146 75 64 14 152 78 66 16 158 81 67 18 164 84 68 20 170.2 87 69
-  Updated: 2025-10-29T23:04:26Z
+- [Youth Crew Neck T-Shirt – All-Over Print Custom Tee](https://baskandweave.com/products/all-over-print-youth-crew-neck-t-shirt): Express your style with this Youth Crew Neck T-Shirt featuring an all-over print design. Soft, durable, and perfect for everyday wear or creative looks.
+  Updated: 2025-11-05T00:38:34Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21554,8 +21554,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Youth_Crew_Neck_T-shirt.jpg?v=1740982723
     Price: $34.00 USD
-- [Youth Crew Neck Tee | All-Over Print Kids T-Shirt](https://baskandweave.com/products/all-over-print-youth-crew-neck-tee): Discover the All-Over Print Youth Crew Neck Tee soft, breathable, and durable. A stylish kids’ t-shirt for school, play, sports, and casual wear
-  Updated: 2025-10-29T23:04:27Z
+- [Youth Crew Neck Tee | All-Over Print Kid's T-Shirt](https://baskandweave.com/products/all-over-print-youth-crew-neck-tee): This youth crew neck tee combines comfort and creativity with its all-over print design. Soft, durable, and perfect for everyday kids’ casual wear.
+  Updated: 2025-11-05T00:40:16Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21588,8 +21588,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Youth_Crew_Neck_Tee.jpg?v=1740982588
     Price: $34.00 USD
-- [Kids T-Shirt | Organic Cotton Soft Everyday Tee](https://baskandweave.com/products/organic-cotton-kids-t-shirt): Shop the Organic Cotton Kids T-Shirt soft, breathable, and eco-friendly. A durable kids t-shirt perfect for school, play, and everyday wear
-  Updated: 2025-10-29T23:04:27Z
+- [Organic Cotton Kids T-Shirt - Eco-Friendly Soft Wear](https://baskandweave.com/products/organic-cotton-kids-t-shirt): Keep your child comfy and stylish with our organic cotton kids t-shirt. Crafted from soft, breathable fabric—an eco-friendly choice for everyday wear.
+  Updated: 2025-11-05T00:41:29Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
