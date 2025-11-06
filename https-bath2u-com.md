@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-04T22:26:23.897Z
+- Updated At: 2025-11-06T00:00:32.529Z
 
 ## Products
 
@@ -1764,7 +1764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/Haven3.png?v=1675320419
     Price: RM 1,940.00 MYR
 - [ROMAN Matte Black 1900mm Sliding Door Shower Enclosure](https://bath2u.com/products/roman-matte-black-1900mm-sliding-door-enclosure): The Sliding Door really highlights the available showering space, with its clear glass expanse. The stylish sliding doors glide effortlessly on the single unobtrusive top rail and the ‘quick release’ mechanism featured on the bottom rail. It is an ideal solution for when space there are other bathroom obstructions such as sinks and towel rails outside of the enclosure, as the sliding doors do not project out into the bathroom. Specifications : Tempered Glass : Clear / Moru / Reflective Design : Slider, L-shape Slider, Corner Entry Thickness : 6mm Height : 1900mm Size : 1000mm - 1699mm Colour : Matte Black Brass Chrome Knob Handle Frame Materials : Aluminium
-  Updated: 2025-03-10T01:58:53Z
+  Updated: 2025-11-05T00:57:05Z
   Vendor: ROMAN
   Product Type: Sliding Door Enclosure
   Availability: Available
@@ -3600,7 +3600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/294A.png?v=1762241107
   Price: RM 275.00 MYR
 - [DOCASA K404A 500mm Ceramic Counter Top Wall Hung Basin Sinki Tandas Bilik Mandi For Bathroom, Dining Area, And Outdoor](https://bath2u.com/products/docasa-k404a-500mm-ceramic-counter-top-wall-hung-basin-sinki-tandas-bilik-mandi-for-bathroom-dining-area-and-outdoor): Product Features : Material: High-quality ceramic for durability and easy maintenance. Design: Counter top design that saves floor space, giving a modern look to your bathroom or balcony. Included Wall Plug & Screw. **Basin only, without tap** Product Specifications : Size : L 500mm x W 420mm x H 130mm Tap Hole: Yes Overflow Hole: Yes Warranty: 6 Months
-  Updated: 2025-11-04T08:01:44Z
+  Updated: 2025-11-05T02:59:32Z
   Vendor: Bath2u.com
   Product Type: Counter Top Basin
   Availability: Available
@@ -3676,6 +3676,139 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/1092A-1-768x672.png?v=1762248868
   Price: RM 410.00 MYR
+- [GLORY GL7843 780mm Stainless Steel Kitchen Sink Top-Mount Double Bowl Matt Sinki Dapur](https://bath2u.com/products/gl7843): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 340mm*2 x 360mm Outer Dimension: 780mm(L) x 430mm(W) x 190mm(D) Thickness: 1.0mm Warranty: 6 Months Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T09:57:22Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05093016.png?v=1762306653
+  Price: RM 158.00 MYR
+- [GLORY GL8045 800mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/gl8045): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 340mm x 350mm Outer Dimension: 800mm(L) x 450mm(W) x 210mm(D) Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T07:03:23Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05103826.png?v=1762310400
+  Price: RM 167.00 MYR
+- [GLORY GL6045 600mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/gl6045): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 520mm x 380mm Outer Dimension: 600mm(L) x 450mm(W) x 210mm(D) Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T08:23:51Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05105801.png?v=1762311524
+  Price: RM 133.00 MYR
+- [GLORY GL5040 500mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl5040-500mm-stainless-steel-kitchen-sink-top-mount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 440mm x 340mm x 180mm Outer Dimension: 500mm(L) x 400mm(W) x 190mm(D) Thickness: 0.8mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T06:15:31Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05111315.png?v=1762312440
+  Price: RM 117.00 MYR
+- [GLORY GL8245 825mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl8245-825mm-stainless-steel-kitchen-sink-top-mount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 400mm x 355mm Outer Dimension: 825mm(L) x 455mm(W) x 190mm(D) Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T15:10:22Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05141041.png?v=1762323441
+  Price: RM 150.00 MYR
+- [GLORY GL5040-R50 450mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl5040-500mm-stainless-steel-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 420mm x 360mm Outer Dimension: 450mm x 400mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T10:47:55Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05142128.png?v=1762323926
+  Price: RM 167.00 MYR
+- [GLORY GL4944-R50 490mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl4944-50-490mm-stainless-steel-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mounts Sink Size : Bowl Dimension: 450mm x 400mm Outer Dimension: 490mm x 440mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T07:58:25Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05143412.png?v=1762324830
+  Price: RM 183.00 MYR
+- [GLORY GL5045-R50 500mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl5045-50-500mm-stainless-steel-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 460mm x 410mm Outer Dimension: 500mm x 450mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T11:32:40Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05144642.png?v=1762325244
+  Price: RM 183.00 MYR
+- [GLORY GL4541-R20 450mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl4541-r20-450mm-stainless-steel-kitchen-sink-top-mount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 430mm x 390mm Outer Dimension: 450mm x 410mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T11:25:46Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05151536.png?v=1762327108
+  Price: RM 183.00 MYR
+- [GLORY GL5545-R20 450mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl5545-r20-450mm-stainless-steel-kitchen-sink-top-mount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 430mm x 390mm Outer Dimension: 450mm x 410mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T11:03:56Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05152256.png?v=1762327555
+  Price: RM 283.00 MYR
+- [GLORY GL6146-R20 610mm Stainless Steel Kitchen Sink Top-Mount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl6146-r20-610mm-stainless-steel-kitchen-sink-top-mount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel Colour: Silver Type: Top-Mount Sink Size : Bowl Dimension: 570mm x 430mm Outer Dimension: 610mm x 460mm x 210mm Thickness: 1.0mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T08:30:54Z
+  Vendor: Bath2u.com
+  Product Type: Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05153001.png?v=1762327994
+  Price: RM 283.00 MYR
+- [GLORY GL4045 400mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl4045-400mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 350mm x 400mm x 220mm Outer Dimension: 400mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T10:31:43Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05154548.png?v=1762328775
+  Price: RM 467.00 MYR
+- [GLORY GL5545 550mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl5545-550mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 500mm x 400mm x 220mm Outer Dimension: 550mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T13:04:42Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05155737.png?v=1762329998
+  Price: RM 500.00 MYR
+- [GLORY GL6045 600mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl6045-600mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 550mm x 400mm x 220mm Outer Dimension: 600mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T18:40:08Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05161224.png?v=1762330495
+  Price: RM 517.00 MYR
+- [GLORY GL6046 600mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl6046-600mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 550mm x 410mm x 210mm Outer Dimension: 600mm x 460mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T10:26:40Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05162939.png?v=1762331422
+  Price: RM 517.00 MYR
+- [GLORY GL7645 760mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl7645-760mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 710mm x 400mm x 220mm Outer Dimension: 760mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T13:08:45Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05165203.png?v=1762332936
+  Price: RM 533.00 MYR
+- [GLORY GL8045 800mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl8045-800mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 750mm x 400mm x 220mm Outer Dimension: 800mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T12:28:03Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05165951.png?v=1762333517
+  Price: RM 533.00 MYR
+- [GLORY GL9045 900mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl9045-900mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 850mm x 400mm x 220mm Outer Dimension: 900mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T14:17:06Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05170834.png?v=1762333746
+  Price: RM 533.00 MYR
+- [GLORY GL1045 1000mm Stainless Steel 304 Kitchen Sink Undermount Single Bowl Matt Sinki Dapur](https://bath2u.com/products/glory-gl1045-1000mm-stainless-steel-304-kitchen-sink-undermount-single-bowl-matt-sinki-dapur): Product Specifications : Material: Stainless steel 304 Colour: Silver Type: Undermount Sink Size : Bowl Dimension: 950mm x 400mm x 220mm Outer Dimension: 1000mm x 450mm x 230mm Thickness: 1.2mm Warranty: 1 Years Product Specifications : Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion
+  Updated: 2025-11-05T13:54:23Z
+  Vendor: Bath2u.com
+  Product Type: Undermount Kitchen Sinks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-05171533.png?v=1762334572
+  Price: RM 633.00 MYR
 
 ## Collections
 
@@ -3683,8 +3816,8 @@
   Updated: 2025-11-04T08:35:20Z
   Total Products: 375
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2025-11-04T08:35:20Z
-  Total Products: 376
+  Updated: 2025-11-05T09:25:39Z
+  Total Products: 395
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
   Updated: 2025-11-03T04:20:27Z
   Total Products: 28
@@ -3818,8 +3951,8 @@
   Updated: 2023-03-06T06:53:15Z
   Total Products: 8
 - [Kitchen](https://bath2u.com/collections/kitchen): Kitchen fittings are the various fixtures, appliances and accessories that are used in a kitchen to make it more functional and efficient. These can include items such as kitchen sinks, faucets, cabinets, countertops, and built-in appliances like ovens, cooktops, and range hoods. Kitchen fittings can come in a variety of styles, from modern to traditional, and can be made of different materials such as stainless steel, granite, and wood. They can also come in different finishes like polished, matte, and brushed. Kitchen fittings can be customized to fit the specific needs and preferences of the homeowner, and can be used to complement the overall design of the kitchen. They are designed to make kitchen activities such as cooking, cleaning, and food preparation more convenient and enjoyable.
-  Updated: 2025-10-13T11:11:02Z
-  Total Products: 30
+  Updated: 2025-11-05T09:25:39Z
+  Total Products: 49
 - [Doors](https://bath2u.com/collections/doors): Bathroom doors are the doors that are used to enclose a bathroom and provide privacy. They come in different styles and materials, from traditional wooden doors to modern glass or acrylic sliding doors. They can also come in different finishes like polished, matte, and brushed. Bathroom doors can be hinged, sliding or pocket doors and can be designed to match the overall style and decor of the bathroom. They can also be designed with different features such as locks, handles, and peepholes for added security and privacy. Bathroom doors can be made of various materials such as wood, glass, metal, and PVC. They are an important part of any bathroom, providing privacy and security while also enhancing the overall aesthetic of the bathroom.
   Updated: 2023-02-15T02:58:27Z
   Total Products: 0
@@ -3830,8 +3963,8 @@
   Updated: 2023-01-25T01:38:26Z
   Total Products: 0
 - [SALES](https://bath2u.com/collections/sales): For all products under sales promotion including annual sales, promotional items, and clearance stocks. Get the best bargain in town here at Best Bath.
-  Updated: 2025-11-04T09:36:53Z
-  Total Products: 91
+  Updated: 2025-11-05T09:25:39Z
+  Total Products: 110
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
   Updated: 2023-03-06T04:07:10Z
   Total Products: 2
@@ -3881,8 +4014,8 @@
   Updated: 2023-02-09T14:34:23Z
   Total Products: 7
 - [Kitchen Sink](https://bath2u.com/collections/kitchen-sink): A kitchen sink is a plumbing fixture that is installed in a kitchen for the purpose of washing dishes, food preparation, and cleaning. It is typically made of materials such as stainless steel, porcelain, cast iron, or granite. Kitchen sinks come in a wide variety of designs, sizes, and configurations to fit different kitchen layouts and needs. Kitchen sinks can have one, two, or even three bowls, and they can be installed as a drop-in, undermount, or flush mount. Some sinks have a built-in drainer, and others may have a separate drainer that can be placed on the countertop. The sink can be connected to the plumbing with a U-bend pipe and a waste pipe. Kitchen sinks are a practical and essential part of any kitchen, as they are used for a wide range of tasks such as washing dishes, preparing food, and cleaning. They are available in different styles and materials to suit different kitchen decors and preferences. They are also easy to install and maintain, and they can be cleaned with a mild soap and water.
-  Updated: 2023-03-06T15:16:51Z
-  Total Products: 23
+  Updated: 2025-11-05T09:25:40Z
+  Total Products: 42
 - [Kitchen Tap](https://bath2u.com/collections/kitchen-tap): A kitchen tap (or faucet) is a plumbing fixture that is installed in a kitchen for the purpose of providing hot and cold water for washing dishes, food preparation, and cleaning. It is typically made of materials such as stainless steel, chrome, or brass. Kitchen taps come in a wide variety of designs, styles, and configurations to fit different kitchen layouts and needs. Kitchen taps can have one or two handles to control the flow and temperature of the water, and they can have a single or double spout. Some kitchen taps are equipped with a pull-out or pull-down spray head, which allows for more flexibility and convenience when using the tap. They can be mounted on the sink, countertop or wall, depending on the style and design of the tap. Kitchen taps are a practical and essential part of any kitchen, as they are used for a wide range of tasks such as washing dishes, preparing food, and cleaning. They are available in different styles, designs, and materials to suit different kitchen decors and preferences. They are also easy to install and maintain, and they can be cleaned with a mild soap and water.
   Updated: 2023-03-13T04:23:49Z
   Total Products: 17
@@ -3953,8 +4086,8 @@
   Updated: 2025-11-04T06:41:46Z
   Total Products: 89
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2025-11-04T09:36:53Z
-  Total Products: 92
+  Updated: 2025-11-05T09:25:40Z
+  Total Products: 110
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
   Total Products: 6
@@ -4036,6 +4169,12 @@
 - [Docasa](https://bath2u.com/collections/docasa)
   Updated: 2025-11-04T09:36:27Z
   Total Products: 88
+- [GLORY](https://bath2u.com/collections/glory)
+  Updated: 2025-11-05T09:25:13Z
+  Total Products: 18
+- [GLORY](https://bath2u.com/collections/glory-1)
+  Updated: 2025-11-05T04:33:13Z
+  Total Products: 1
 
 ## Blogs
 
