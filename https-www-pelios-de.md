@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-04T22:26:14.283Z
+- Updated At: 2025-11-06T00:00:32.193Z
 
 ## Products
 
 - [Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Kompakter Holzofen mit modernem Design in vier Farben (beige, rot, silber, schwarz)
-  Updated: 2025-11-01T17:26:30Z
+  Updated: 2025-11-05T22:03:12Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -19,21 +19,21 @@
   - [beige](https://www.pelios.de/products/holzofen-77-kw?variant=51247521890643)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_beige.webp?v=1750698347
-    Price: 859,00 € EUR
+    Price: 819,00 € EUR
   - [rot](https://www.pelios.de/products/holzofen-77-kw?variant=51247521923411)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_red.webp?v=1750698346
-    Price: 859,00 € EUR
+    Price: 819,00 € EUR
   - [schwarz](https://www.pelios.de/products/holzofen-77-kw?variant=51247521956179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_black.webp?v=1750698347
-    Price: 859,00 € EUR
+    Price: 819,00 € EUR
   - [silber](https://www.pelios.de/products/holzofen-77-kw?variant=51278446788947)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
-    Price: 859,00 € EUR
+    Price: 819,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-11-01T17:26:30Z
+  Updated: 2025-11-05T22:02:37Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -41,19 +41,19 @@
   - [Schwarz](https://www.pelios.de/products/holzofen-22-kw?variant=51247524217171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_black.webp?v=1751053385
-    Price: 1.994,60 € EUR
+    Price: 1.894,60 € EUR
   - [Beige](https://www.pelios.de/products/holzofen-22-kw?variant=51278228914515)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_beige_flame.webp?v=1751053385
-    Price: 1.994,60 € EUR
+    Price: 1.894,60 € EUR
   - [Rot](https://www.pelios.de/products/holzofen-22-kw?variant=51278228947283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_red.webp?v=1751053385
-    Price: 1.994,60 € EUR
+    Price: 1.894,60 € EUR
   - [Silber](https://www.pelios.de/products/holzofen-22-kw?variant=51278300184915)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
-    Price: 1.994,60 € EUR
+    Price: 1.894,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
   Updated: 2025-11-01T17:26:25Z
   Vendor: Gekas
@@ -230,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/decoration_stone_bioethanol_fireplace_45435.webp?v=1759855680
   Price: 75,00 € EUR
 - [Dakota - 3-seitiger Bio-Ethanol-Wandkamin in schwarz o. weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin): Dreiseitiger Bioethanol-Wandkamin aus schwarzem, pulverbeschichtetem Stahl inkl. 3,5-Liter-Brenner mit breiter Flamme und langer Brenndauer. Hauptspezifikationen Produkttyp Bioethanol Wandkamin Marke ScandiFlames Verwendung Indoor Garantie 2 Jahre Maße & Gewicht Länge/Breite 80 cm Höhe 60 cm Tiefe 30 cm Gewicht 27 kg Technische Spezifikationen Mindestraumgröße 70 m³ Brennstoff Bioethanol Brenndauer bis zu 7,5 Stunden Kapazität 3,5 Liter Wärmeleistung (Max.) 3,3 kW Verbrauch 0,46 L/Stunden Empfohlener Luftaustausch 1 Brennkammerrspezifikationen Einstellbar Ja Steuerung Manuell Flammelänge 45 cm Brennkammermodell 3,5 Liter Superior Fernbedienung Nein Material und Aussehen Material Stahl Farbe Schwarz Form Rechteckig Inklusive Scheibe Ja Installationsdetails Abzug/Schornstein Nicht erforderlich Stromanforderungen Nein
-  Updated: 2025-10-16T03:31:20Z
+  Updated: 2025-11-05T23:02:07Z
   Vendor: ScandiFlames
   Product Type: Bioethanol Wandkamin
   Availability: Available
@@ -238,11 +238,11 @@
   - [Schwarz](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin?variant=52070404915539)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio10049_51655.webp?v=1759858094
-    Price: 1.085,00 € EUR
+    Price: 985,00 € EUR
   - [Weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin?variant=52070404948307)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/tre_sidet_hvid_vaegpejs_80_cm_bio10049wh_1__45320_54f41071-0f9c-4d23-89b7-698446f215b1.webp?v=1759858596
-    Price: 1.085,00 € EUR
+    Price: 985,00 € EUR
 - [Keramikhölzer zur Deko für Muztag Gaskamine](https://www.pelios.de/products/keramikholzer-fur-muztag-gaskamine): ProduktübersichtMöchten Sie Ihrem Muztag Gaskamin einen neuen Look verpassen? Dann haben Sie mit dieser Keramik-Holz Version jetzt die Möglichkeit.
   Updated: 2025-10-31T12:39:10Z
   Vendor: Muztag
@@ -251,32 +251,32 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/muztag_trae_37063_1_41168.webp?v=1759866085
   Price: 119,00 € EUR
 - [Terrassenheizung Ethanol, Muztag Premium Fire Paris schwarz](https://www.pelios.de/products/muztag-premium-fire-paris-schwarz): Terrassenheizung Ethanol von Muztag, freistehender Bio-Ethanol-Kamin für den Außenbereich für 60 m³, Brenndauer bis zu 3 Stunden
-  Updated: 2025-10-27T07:12:07Z
+  Updated: 2025-11-05T23:01:32Z
   Vendor: Muztag
   Product Type: Freistehender Ethanol Kamin für den Außenbereich
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/muztag_premium_fire_paris_outdoor_bioethanol_fireplace_black__10__58456.webp?v=1759866342
-  Price: 749,00 € EUR
+  Price: 719,00 € EUR
 
 ## Collections
 
 - [Kamin Ofen Shop ☝ Kamin aus Handarbeit günstig kaufen](https://www.pelios.de/collections/frontpage): Kamin Ofen Shop ✔ Kamin kaufen hier im Shop ★ mega effizient ✓ geringer Verbrauch ✓ echte Handarbeit ✓ Endecken Sie unser umfangreiches, günstiges Angebot.
-  Updated: 2025-10-25T11:23:36Z
+  Updated: 2025-11-05T22:03:13Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-10-30T18:40:49Z
+  Updated: 2025-11-05T22:03:13Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-10-03T12:21:11Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2025-10-26T19:09:43Z
+  Updated: 2025-11-05T23:02:08Z
   Total Products: 12
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
   Updated: 2025-10-26T19:13:29Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-10-26T19:18:12Z
+  Updated: 2025-11-05T23:01:33Z
   Total Products: 8
 
 ## Blogs
