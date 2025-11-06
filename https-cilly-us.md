@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-03T00:01:09.089Z
+- Updated At: 2025-11-06T00:00:41.710Z
 
 ## Products
 
@@ -30171,6 +30171,540 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/fed384ef-a3e0-4c18-a7aa-c55aff1c2d45.jpg?v=1762034835
     Price: CHF 145.50 CHF
+- [Pet Clothing](https://cilly.us/products/pet-clothing): Product information: Material: polyester Color: white yellow, pink, orange black, blue green, silver black, gold black, black Size: S, M, L, XL, 2XL, 3XL, 4XL, 5XL, 6XL, 7XL Packing list: Cotton coat * 1 Size（cm） Bust Dorsal length Neck circumference S 38 25 28 M 44 30 32 L 50 35 36 XL 56 40 41 XXL 63 45 45 3XL 69 50 49 4XL 76 55 53 5XL 81 60 57 6XL 93 70 61 7XL 108 76 68
+  Updated: 2025-11-04T09:32:21Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0.jpg?v=1762205525
+  - [Green / 2XL](https://cilly.us/products/pet-clothing?variant=51834056704341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/24101b0a-9e04-4352-906c-8187256de5bc.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Green / L](https://cilly.us/products/pet-clothing?variant=51834056737109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/24101b0a-9e04-4352-906c-8187256de5bc.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Green / M](https://cilly.us/products/pet-clothing?variant=51834056769877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/24101b0a-9e04-4352-906c-8187256de5bc.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Green / S](https://cilly.us/products/pet-clothing?variant=51834056802645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/24101b0a-9e04-4352-906c-8187256de5bc.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Green / XL](https://cilly.us/products/pet-clothing?variant=51834056835413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/24101b0a-9e04-4352-906c-8187256de5bc.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Orange / 2XL](https://cilly.us/products/pet-clothing?variant=51834056868181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0_bb368f5e-4143-4d6a-b8b5-f1fea7451562.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Orange / L](https://cilly.us/products/pet-clothing?variant=51834056900949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0_bb368f5e-4143-4d6a-b8b5-f1fea7451562.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Orange / M](https://cilly.us/products/pet-clothing?variant=51834056933717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0_bb368f5e-4143-4d6a-b8b5-f1fea7451562.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Orange / S](https://cilly.us/products/pet-clothing?variant=51834056966485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0_bb368f5e-4143-4d6a-b8b5-f1fea7451562.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Orange / XL](https://cilly.us/products/pet-clothing?variant=51834056999253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9f8ec7f1-1fc8-4c94-8e3d-f806e78eb1d0_bb368f5e-4143-4d6a-b8b5-f1fea7451562.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Pink / 2XL](https://cilly.us/products/pet-clothing?variant=51834057032021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1fc3ee39-48e9-4421-8a1e-1f8d0ac01d41_bd342c5a-b12e-41b0-97a4-951bb30d9b99.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Pink / L](https://cilly.us/products/pet-clothing?variant=51834057064789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1fc3ee39-48e9-4421-8a1e-1f8d0ac01d41_bd342c5a-b12e-41b0-97a4-951bb30d9b99.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Pink / M](https://cilly.us/products/pet-clothing?variant=51834057097557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1fc3ee39-48e9-4421-8a1e-1f8d0ac01d41_bd342c5a-b12e-41b0-97a4-951bb30d9b99.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Pink / S](https://cilly.us/products/pet-clothing?variant=51834057130325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1fc3ee39-48e9-4421-8a1e-1f8d0ac01d41_bd342c5a-b12e-41b0-97a4-951bb30d9b99.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Pink / XL](https://cilly.us/products/pet-clothing?variant=51834057163093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1fc3ee39-48e9-4421-8a1e-1f8d0ac01d41_bd342c5a-b12e-41b0-97a4-951bb30d9b99.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Yellow / 2XL](https://cilly.us/products/pet-clothing?variant=51834057195861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77f8b261-780e-4eed-adf6-fe186175f1de_2edaab0a-603e-46b8-924f-d944160f4a29.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Yellow / L](https://cilly.us/products/pet-clothing?variant=51834057228629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77f8b261-780e-4eed-adf6-fe186175f1de_2edaab0a-603e-46b8-924f-d944160f4a29.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Yellow / M](https://cilly.us/products/pet-clothing?variant=51834057261397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77f8b261-780e-4eed-adf6-fe186175f1de_2edaab0a-603e-46b8-924f-d944160f4a29.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Yellow / S](https://cilly.us/products/pet-clothing?variant=51834057294165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77f8b261-780e-4eed-adf6-fe186175f1de_2edaab0a-603e-46b8-924f-d944160f4a29.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+  - [Yellow / XL](https://cilly.us/products/pet-clothing?variant=51834057326933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/77f8b261-780e-4eed-adf6-fe186175f1de_2edaab0a-603e-46b8-924f-d944160f4a29.jpg?v=1762205531
+    Price: CHF 21.60 CHF
+- [Pet supplies dog clothes](https://cilly.us/products/pet-supplies-dog-clothes): Material: Polyester Product category: sweater style: Casual Applicable gender: general Color: MYD94 red, MYD95 green, MYD96 red, MYD97 blue, MYD99 blue and white, MYD100 red and white, MYD101 black, MYD102 gray, MYD103 red, MYD104 black, MYD105 dark green Size: S, M, L, XL, XXL 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
+  Updated: 2025-11-04T11:05:49Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252.jpg?v=1762205701
+  - [10style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130432341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/334820213086.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [10style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130465109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/334820213086.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [10style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130497877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/334820213086.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [10style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130530645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/334820213086.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [10style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130563413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/334820213086.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [11style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130596181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/584159833135.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [11style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130628949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/584159833135.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [11style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130661717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/584159833135.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [11style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130694485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/584159833135.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [11style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130727253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/584159833135.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [1style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130760021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252_655a27f5-2f50-4bdd-be81-dd48efce1b37.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [1style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130792789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252_655a27f5-2f50-4bdd-be81-dd48efce1b37.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [1style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130825557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252_655a27f5-2f50-4bdd-be81-dd48efce1b37.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [1style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130858325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252_655a27f5-2f50-4bdd-be81-dd48efce1b37.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [1style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130891093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1894869497252_655a27f5-2f50-4bdd-be81-dd48efce1b37.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [2style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130923861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1752199591451.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [2style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130956629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1752199591451.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [2style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834130989397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1752199591451.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [2style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131022165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1752199591451.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [2style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131054933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1752199591451.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [3style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131087701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/192075189493.jpg?v=1762205717
+    Price: CHF 18.60 CHF
+  - [3style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131120469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/192075189493.jpg?v=1762205717
+    Price: CHF 18.60 CHF
+  - [3style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131153237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/192075189493.jpg?v=1762205717
+    Price: CHF 18.60 CHF
+  - [3style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131186005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/192075189493.jpg?v=1762205717
+    Price: CHF 18.60 CHF
+  - [3style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131218773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/192075189493.jpg?v=1762205717
+    Price: CHF 18.60 CHF
+  - [4style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131251541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3152880210347.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [4style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131284309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3152880210347.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [4style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131317077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3152880210347.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [4style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131349845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3152880210347.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [4style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131382613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3152880210347.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [5style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131415381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1611948728256.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [5style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131448149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1611948728256.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [5style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131480917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1611948728256.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [5style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131513685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1611948728256.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [5style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131546453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1611948728256.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [6style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131579221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1415652608021.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [6style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131611989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1415652608021.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [6style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131644757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1415652608021.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [6style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131677525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1415652608021.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [6style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131710293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1415652608021.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [7style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131743061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5616034584122.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [7style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131775829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5616034584122.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [7style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131808597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5616034584122.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [7style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131841365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5616034584122.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [7style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131874133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5616034584122.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [8style / L](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131906901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1606990025825.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [8style / M](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131939669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1606990025825.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [8style / S](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834131972437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1606990025825.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [8style / XL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834132005205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1606990025825.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+  - [8style / XXL](https://cilly.us/products/pet-supplies-dog-clothes?variant=51834132037973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1606990025825.jpg?v=1762205716
+    Price: CHF 18.60 CHF
+- [Pet clothing dog clothing warm waterproof outdoor pet supplies](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies): Material: Polyester Product category: clothing Style: Europe and America Applicable gender: General Applicable season: autumn and winter Please allow 2-3cm differences due to manual measurement. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following imag
+  Updated: 2025-11-04T09:37:25Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/6434792793221.jpg?v=1762205832
+  - [Brown / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834140885333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834140918101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834140950869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834140983637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141016405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141049173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Brown / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141081941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1260423160557.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Navy Blue / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141114709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141147477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141180245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141213013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141245781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141278549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Navy Blue / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141311317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1451563549422.jpg?v=1762205847
+    Price: CHF 19.60 CHF
+  - [Orange / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141344085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141376853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141409621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141442389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141475157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141507925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Orange / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141540693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7018830061171.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141573461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141606229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141638997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141671765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141704533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141737301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Pink / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141770069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/132834861548.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141802837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141835605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141868373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141901141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141933909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141966677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Purple / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834141999445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1493231877449.jpg?v=1762205846
+    Price: CHF 19.60 CHF
+  - [Red / 3XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142032213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / L](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142064981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / M](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142097749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / S](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142130517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / XL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142163285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / XS](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142196053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+  - [Red / XXL](https://cilly.us/products/pet-clothing-dog-clothing-warm-waterproof-outdoor-pet-supplies?variant=51834142228821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/541543275277.jpg?v=1762205845
+    Price: CHF 19.60 CHF
+- [Leak food toys pet supplies](https://cilly.us/products/leak-food-toys-pet-supplies): Product category: educational toys Material: plastic Color: Orange + white
+  Updated: 2025-11-04T09:46:20Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/1654302332220.jpg?v=1762206352
+  Price: CHF 22.40 CHF
+- [Dog Educational Toys To Relieve Boredom Artifact Interactive Feeding](https://cilly.us/products/dog-educational-toys-to-relieve-boredom-artifact-interactive-feeding): Product information: Product name: Whirlwind educational toy slow food plate Product material: PP Product size: 24.5*24.5*6.5cm Specifications: yellow and blue whirlwind, green whirlwind Packing list: Dog educational toy*1
+  Updated: 2025-11-04T09:47:18Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8ff05fd2-833f-4ae5-a5ff-e288090c8416.jpg?v=1762206423
+  - [Green](https://cilly.us/products/dog-educational-toys-to-relieve-boredom-artifact-interactive-feeding?variant=51834240696661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/93d73a90-bc80-4ab5-91e1-502bdb2757c6.jpg?v=1762206429
+    Price: CHF 24.90 CHF
+  - [Orange](https://cilly.us/products/dog-educational-toys-to-relieve-boredom-artifact-interactive-feeding?variant=51834240729429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/56199fd2-ebe8-4fb2-913c-88087062d3cf.jpg?v=1762206429
+    Price: CHF 24.90 CHF
+- [Pet Sniffing Mat Slow Food Puzzle Blanket](https://cilly.us/products/pet-sniffing-mat-slow-food-puzzle-blanket): Overview: PP belt storage Environmental protection felt cloth Specification: Material: Felt cloth Size: Storage: 26*26*13cm Bowl: 30*30*10cm Mat: 48*48*8 Weight: 240g Package Content: 1 x Mat
+  Updated: 2025-11-04T09:49:02Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/12788279145606.jpg?v=1762206538
+  - [Brown](https://cilly.us/products/pet-sniffing-mat-slow-food-puzzle-blanket?variant=51834248429909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/556195351391.jpg?v=1762206542
+    Price: CHF 21.30 CHF
+  - [Grass green](https://cilly.us/products/pet-sniffing-mat-slow-food-puzzle-blanket?variant=51834248462677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/851205651417.jpg?v=1762206543
+    Price: CHF 21.30 CHF
+  - [Pink](https://cilly.us/products/pet-sniffing-mat-slow-food-puzzle-blanket?variant=51834248495445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/364199188302.jpg?v=1762206542
+    Price: CHF 21.30 CHF
+  - [Yellow](https://cilly.us/products/pet-sniffing-mat-slow-food-puzzle-blanket?variant=51834248528213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/60550223423451.jpg?v=1762206542
+    Price: CHF 21.30 CHF
+- [Desk Dispenser Electric Water Gallon Automatic Water Bottle Dispenser Rechargeable Water Dispenser](https://cilly.us/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser): Overview: 1.【Aesthetic & Upgraded Design】 Impress your guests and elevate your home or office with this one-of-a-kind, modern, and magical design. 2.【Ideal for ANY Room and Office】 Perfect for any room or office setting, this water dispenser is a must-have for anyone in need of quick and efficient hydration. 3.【Perfect for On-the-Go】 Perfect for use outdoors or while on the go, providing easy access to clean drinking water whenever you need it. 4.【Rechargeable and Convenient】 With a USB cable, making it is easy to charge and use wherever you go. Product information: Interface: Type-C Rated voltage: 5(V) Rated power: 4(W) Color: white [X115B], blue [X115B] Battery capacity: 1800mAh Packing list: Pumps x1 Pumping pipe x1 Charging line x1 Color box x1 Instructions x1
+  Updated: 2025-11-04T09:56:48Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f036ac17-42b4-4060-b84e-d5b2ec3ff4ac.jpg?v=1762207000
+  - [Blue with gravity / USB](https://cilly.us/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51834272874837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/cc0f1b75-c71e-402a-a760-84b83b94079c.jpg?v=1762207009
+    Price: CHF 29.90 CHF
+  - [Blue / USB](https://cilly.us/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51834272907605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/dfa5e131-8233-4cc6-be9a-134ca37480e0_98fd22ca-c1af-41e6-9e68-aeed1534596f.jpg?v=1762207009
+    Price: CHF 28.50 CHF
+  - [White / USB](https://cilly.us/products/desk-dispenser-electric-water-gallon-automatic-water-bottle-dispenser-rechargeable-water-dispenser?variant=51834272940373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/a64e1649-3529-41b5-9ea4-c976cec60245_81b830b7-c5f6-473b-b37a-a7947aba7d08.jpg?v=1762207009
+    Price: CHF 28.50 CHF
+- [3 In 1 Vegetable Slicer Manual Kitchen Accessories Grater For Vegetable Cutter Round Chopper Mandolin Shredder Potato Home Kitchen Supplies Kitchen Gadgets](https://cilly.us/products/3-in-1-vegetable-slicer-manual-kitchen-accessories-grater-for-vegetable-cutter-round-chopper-mandolin-shredder-potato-home-kitchen-supplies-kitchen-gadgets): Overview: 1. Free your Hands: Make super easy and quick work of creating uniform spirals from fruits and vegetables for curly fries, salads, and pasta within seconds 2. Kitchen Necessity: For vegetable Julienne, Slicing and Grinding, all functions in one piece of equipment mean more room in your kitchen cupboards without mess 3. Humanized Design: A reasonable drum-type rotating vegetable shredder has powerful suction feet for stability on your table. This makes it efficient and easy to operate! 4. Safe and Heavy Duty: BPA-free food grade ABS plastic and 3 Sharp stainless steel blades ensure product longevity for everyday use Roller Vegetable Slicer Slice/shred/grind Product information: Style: Modern and minimalist Material: Plastic Color: White Function: Multi function Packing list: Slicer*1
+  Updated: 2025-11-04T09:58:37Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Küchengeräte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/75588e83-24d2-444c-a67c-63ac453f4605.jpg?v=1762207111
+  Price: CHF 32.50 CHF
 
 ## Collections
 
@@ -30178,11 +30712,11 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-11-01T22:09:03Z
-  Total Products: 373
+  Updated: 2025-11-03T21:50:55Z
+  Total Products: 379
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-11-01T22:09:03Z
-  Total Products: 422
+  Updated: 2025-11-03T21:50:55Z
+  Total Products: 428
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-29T18:43:53Z
   Total Products: 135
@@ -30208,14 +30742,14 @@
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
 - [Küche | Küchenbedarf, Küchengeräte & Zubehör online](https://cilly.us/collections/kuche): Hol dir alles für deine Küche: Küchenhelfer, Küchengeräte, Utensilien & Zubehör. Jetzt bei Alles für deine Haustiere – sicher, einfach & schnell online kaufen.
-  Updated: 2025-10-28T12:56:45Z
-  Total Products: 91
+  Updated: 2025-11-03T22:01:34Z
+  Total Products: 93
 - [Küchengeräte | Elektrogeräte & Küchenmaschinen online](https://cilly.us/collections/kuchengerate): Hol dir Küchengeräte für jede Küche: Mixer, Toaster, Kaffeemaschinen & mehr. Große Auswahl bei Alles für deine Haustiere – schnell & sicher online bestellen.
-  Updated: 2025-10-28T12:56:45Z
-  Total Products: 66
+  Updated: 2025-11-03T22:01:34Z
+  Total Products: 68
 - [Küchenbedarf | Küchenzubehör & Küchenhelfer online](https://cilly.us/collections/kuchenbedarf): Bei Alles für deine Haustiere findest du günstigen Küchenbedarf, Utensilien & Kochzubehör für jeden Haushalt. Qualität günstig online kaufen & genießen.
-  Updated: 2025-10-28T12:56:45Z
-  Total Products: 85
+  Updated: 2025-11-03T22:01:34Z
+  Total Products: 87
 - [Haushalt](https://cilly.us/collections/haushalt)
   Updated: 2025-08-26T08:41:05Z
   Total Products: 0
@@ -30265,14 +30799,14 @@
   Updated: 2025-10-29T20:08:18Z
   Total Products: 118
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
-  Updated: 2025-10-28T13:02:27Z
-  Total Products: 52
+  Updated: 2025-11-03T21:50:55Z
+  Total Products: 55
 - [Hundebett](https://cilly.us/collections/hundebett)
   Updated: 2025-10-27T09:17:37Z
   Total Products: 47
 - [Hundekleider](https://cilly.us/collections/hundekleider)
-  Updated: 2025-10-29T18:28:34Z
-  Total Products: 28
+  Updated: 2025-11-03T21:40:42Z
+  Total Products: 31
 - [Hundefutter](https://cilly.us/collections/hundefutter)
   Updated: 2025-09-27T15:04:36Z
   Total Products: 4
