@@ -8,16 +8,16 @@
 - Contact Email: ravshalum@gmail.com
 - Contact Phone: 12149849947
 - Address: 5893 ashcroft dr
-- Updated At: 2025-11-05T22:39:03.737Z
+- Updated At: 2025-11-06T00:00:45.916Z
 
 ## Products
 
 - [Womens Sports Stripes Black Leggings](https://avshalum.myshopify.com/products/womens-sports-stripes-black-leggings): These premium full length women's leggings offers the perfect combination of performance and comfort.✅ PRECISION CUT, SEWN, and PRINTED in USA/Mexico. We strive for quality and comfort. ✅ SUPER DETAILED GRAPHIC DESIGNING - All our adult leggings and capris are colorful, unique and top rated print designs. No one else will ever have the same outfit as you.✅ NO SEE THROUGH - ALL our woman's leggings and capris are deep squat proof. They are Squats Approved!✅ FOUR-WAY STRETCH - Fabric stretches, flex and recovers both on the cross and lengthwise grains.✅ MICROFIBER YARN - Super smooth, light and comfortable. Quickly pull sweat away from your body to help you stay cool and dry when hot, yet warm when you're cold. Breathable material to help ease the unpleasant smell of a hard workout.✅ EXCELLENT FIT - Designed to fit tightly to your body, our fabric blend allows you a wide range of motion. Nothing but the right level of compression, no restriction on movement. True to size.✅ 82% Polyester + 18% SpandexCrafted from a high performance fabric blend ( 82% Polyester + 18% Spandex ) that has a medium hold waistband for ultra comfort and feels flattering against the skin. Super durable soft fabric has a enhancing four way stretch to allow the legging to hug and move with the body.It is moisture wicking, fully breathable and quick drying.These active leggings are perfect for the following athletic sports / exercise:▶ Surfing and Body Boarding ▶ Wakeboarding and Kite Surf ▶ Stand Up Paddle Boarding ▶ BJJ ( Brazilian JuiJitsu ) ▶ MMA ▶ Judo ▶ Crossfit ▶ Running / Jogging ▶ Rockclimbing ▶ Gym / Workouts / Yoga / Pilates / Dance ▶ Everyday Casual Wear - Athleisure The leggings are bound to become your favorite stylish workout pants! They make a great trendy addition to your work out wardrobe.Turn heads at the gym or wherever you go.Get yours Today!-------------------✅ All our women's printed leggings are made in USA/Mexico. We strive for high quality and comfort.➡️ If you're between sizes we recommend a size up. (Please refer to the last image for the sizing guide).Female Model is wearing size XS. 5'7", 24" waist, 34" hip, 31.5" bust.⚠️ Keep in mind that we print on demand, everything is handmade ( designer color printing, cutting and sewing ) just for you in America/Mexico. Therefore, we can take about 2-5 business days (depending on workload) to create your new leggings.
-  Updated: 2025-10-16T17:49:36Z
+  Updated: 2025-11-05T23:54:20Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/il_570xN.1722845984_7v7b.jpg?v=1760445151
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/il_570xN.1722845984_7v7b.jpg?v=1762386843
   - [S](https://avshalum.myshopify.com/products/womens-sports-stripes-black-leggings?variant=43186986156238)
     Availability: Available
     Price: $69.95 USD
@@ -34,46 +34,46 @@
     Availability: Available
     Price: $69.95 USD
 - [Car Aux Audio Cable 3.5mm Jack Stereo Audio Cable](https://avshalum.myshopify.com/products/car-aux-audio-cable-3-5mm-jack-stereo-audio-cable): Unlock crisp, seamless audio with the Car Aux Audio Cable 3.5mm Jack. This male-to-male stereo cable connects any device with a standard 3.5mm input jack to your car or home stereo, delivering your favorite music with full HiFi stereo. Engineered for durability, the L-style 90-degree aluminum connector minimizes cable bending, protects ports, and extends service life. Two springs guard the connector from breaks, ensuring a long lifespan you can count on. 3.5mm male-to-male stereo cable for seamless audio transmission between devices and stereo systems. L-shaped 90-degree aluminum connector design reduces stress, fits tight spaces, and helps you listen comfortably. Dual-spring protection safeguards the connector against breaks for lasting durability. Pure copper conductor plus aluminum connector deliver secure, quick data transmission and HiFi stereo sound. Red, 1m (3.3ft) length provides flexible setup for car or home use. Wide compatibility works with any device equipped with a standard 3.5mm AUX or headphone jack—ideal for car stereo and home stereo connections. Plug and play—easy to use without drivers or adapters. Package contents includes 1 x 3.5mm Audio Cable. Shipping note Cannot ship to PO boxes. International orders outside the USA will be shipped from our China warehouse.
-  Updated: 2025-10-18T02:57:05Z
+  Updated: 2025-11-05T23:54:20Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/Oberlo-Ali-62cn4b35b2b8-5dc4-4146-af50-d62459fbac5e.jpg?v=1760445158
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/Oberlo-Ali-62cn4b35b2b8-5dc4-4146-af50-d62459fbac5e.jpg?v=1762386851
   Price: $30.00 USD
 - [Bark Agate and Black Green Stone Chip Bracelet, Stretch Bracelet](https://avshalum.myshopify.com/products/bark-agate-and-black-green-stone-chip-bracelet-stretch-bracelet): Embrace a powerful connection to nature with the Bark Agate and Black Green Stone Chip Bracelet. This rugged, earthy stretch bracelet blends textured bark agate chips with smooth green-black natural stone beads for a bold, organic look. Designed for men but perfect for anyone who loves bold, natural jewelry. Grounding properties are the hallmark of Bark Agate — a stone of stability and courage that can provide emotional strength and a deep sense of security. The complementary green-black stones amplify this energy, offering protection and a resilient tie to the earth. Crafted on a strong elastic cord, the bracelet features a secure stretch fit that’s adjustable and comfortable for all-day wear. Its robust, rustic design makes it ideal for masculine styling, while its distinctive look appeals to unisex and boho tastes alike. A thoughtful gift for nature lovers and those who appreciate raw beauty and symbolic healing energy. Materials: Genuine Bark Agate Chips and green-black natural stone beads Closure: Strong elastic stretch cord for an adjustable, slip-on fit Style: Rugged, earthy, masculine, unisex, boho, natural Energy: Grounding, protection, stability, courage Ideal For: Men's jewelry, everyday wear, spiritual grounding, gift for him, nature lovers Bring a touch of rustic elegance to any outfit and carry a reminder of the earth’s resilience wherever you go.
-  Updated: 2025-10-18T02:29:47Z
+  Updated: 2025-11-05T23:54:22Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_43669d20-b5d1-4e7e-baf9-f469d8e72942.png?v=1760445168
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_43669d20-b5d1-4e7e-baf9-f469d8e72942.png?v=1762386854
   Price: $32.00 USD
 - [Dragon RGB Computer Gaming Speakers](https://avshalum.myshopify.com/products/dragon-rgb-computer-gaming-speakers): Meet the Dragon RGB Computer Gaming Speakers — a compact, portable stereo system engineered for immersive gaming and everyday listening. Experience powerful bass, clear mids, and sparkling highs all from a sleek, desk-friendly package that lights up your setup with dynamic RGB ambience. Key Features Breathing RGB lighting with colorful LED effects for immersive gaming ambience USB-powered for easy plug-and-play connectivity Large-diameter full-range speaker delivering deep bass, rich midrange, and clear treble Rear bass trumpet enhances bass thickness and punch High-magnetic speaker design for a more engaging listening experience Wide compatibility — connects to PC, laptop, mobile phone, MP3/MP4, and DVD Performance and Experience With an emphasis on powerful bass and balanced sound, these 2.0 channel speakers bring your games and music to life. The USB power supply and 3.5mm audio plug offer straightforward, universal connectivity, so you can enjoy crisp audio without hassle. Specifications Material: Plastic Color: Black Output power: 3W Connection type: 3.5mm Audio Plug Power supply: USB Frequency response: 25Hz–20kHz Channel: 2.0 Signal to Noise Ratio: ≥80dB Degree of separation: ≥40dB Size: 10 x 6.5 x 7 cm Package includes: 1x Speaker, 1x User Manual, 1x USB cable, 1x Audio cable
-  Updated: 2025-10-18T03:54:44Z
+  Updated: 2025-11-05T23:54:31Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_3f45cb45-98ae-4645-8aee-bab8253a9e0c.jpg?v=1760445169
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_3f45cb45-98ae-4645-8aee-bab8253a9e0c.jpg?v=1762386861
   Price: $59.99 USD
 - [Pun’kin Patch Handmade Organic Soap – Cozy Fall Pumpkin Spice &](https://avshalum.myshopify.com/products/pun-kin-patch-handmade-organic-soap-cozy-fall-pumpkin-spice): Pun'kin Patch Organic Handmade Soap Smells like a blend of Pumpkin Cheesecake, Pumpkin Pie Spice, Pumpkin Bread with a twist of Cinnamon Spice and a splash of all things harvest all rolled into one fabulous organic handmade soap! Drizzled with a blend organic Fall spices! A Fall best seller!! Order early! Holiday soaps are available to order August 15th - Dec. 15th. Order early as orders are filled in the order they are received. You may order right away and just let me know when you need your product in place. Sweet Harvest Farms natural and organic handmade soap is made with saponified Organic oils of Shea Butter, Coconut oil, Olive Oil, Castor Oil, Palm Oil (sustainable) along with Orris Root, Vitamin E and Rosemary Extract, Extra Large 7 oz. Bar will last approximately 8-10 weeks in the shower!
-  Updated: 2025-10-15T00:33:01Z
+  Updated: 2025-11-05T23:54:39Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/750_8162punkinpatch.jpg?v=1760445175
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/750_8162punkinpatch.jpg?v=1762386868
   Price: $15.15 USD
 - [10X HD Optical Monocular Telescope with Phone Clip](https://avshalum.myshopify.com/products/10x-hd-optical-monocular-telescope-with-phone-clip): Discover a versatile 2-in-1 optical companion that combines a high-performance 10X HD monocular with a convenient phone clip. Use it as a standalone monocular for clear, far-reaching views or attach the included phone clip to capture sharp photos and videos with your smartphone or tablet. Perfect for travel, concerts, sports, wildlife, and outdoor adventures. Key features 2-in-1 design: standalone monocular or use with the included phone clip for effortless smartphone photography and video capture. 10X magnification with a 38mm objective diameter for bright, detailed distant views; eyepiece diameter 18mm. High-quality optics: BK4 prism and pure optical lenses with FMC Multicoated Green film coating to boost transmittance, reduce chromatic aberration, restore true color, and deliver higher-definition images. Secure, scratch-resistant clip: anti-slip rubber mat on the phone clip prevents slipping and protects your device from scratches. Stabilized viewing: includes a mini tripod for steady shots during concerts, theater, sports events, hunting, fishing, boating, and more. Compact & portable: foldable design with a fold size of 16 x 5.2 x 7 cm and a net weight of 0.35 kg (12.3 oz). Compatibility & versatility Universal compatibility for most phones and tablets with camera diameters ≤ 11 mm. Phone clip open size is approximately 2.5 cm (1 inch), ensuring a snug fit across a wide range of devices. Technical specifications Type: Monocular Phone Lens Material: Rubber coated metal Color: Black Lens coating: FCM green optical coated Prism: BAK4 Magnification: 10X Objective diameter: 38mm Eyepiece diameter: 18mm Field of view: 1500m / 9500m Phone clip open size: approx. 2.5 cm / 1" Fold size: 16 x 5.2 x 7 cm Net weight: 0.35 kg / 12.3 oz What's in the box 1 Monocular 1 Phone Clip 1 Tripod 1 Cleaning Cloth 1 Strap 1 Storage Bag 1 English & Chinese User Manual 1 Package Box Enhance your outdoor adventures, events, and everyday moments with crisp, high-definition imagery. This 10X HD Optical Monocular Telescope with Phone Clip is your compact, reliable companion for travel, sports, nature watching, and more.
-  Updated: 2025-11-03T13:16:58Z
+  Updated: 2025-11-05T23:54:44Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_ca425948-0cc4-4bc4-aead-a6a0f42ec132.jpg?v=1760445174
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_ca425948-0cc4-4bc4-aead-a6a0f42ec132.jpg?v=1762386869
   Price: $31.00 USD
 - [Macrame Plant Hanger](https://avshalum.myshopify.com/products/macrame-plant-hanger): Show your plants some love with this modern, vintage-inspired macrame plant hanger. Simple, yet meticulously hand-crafted, this beauty would be equally at home gracing a living room corner, or brightening up an office. Designed with 100% natural cotton rope sourced locally within Ontario, this lovely plant hanger is a stylish way to showcase your favourite plants year-round. Suitable for indoor use, and also thoughtful gift for your friends and family who are inspired by nature.This listing is for 1 plant hanger**Pots/bowls and plants not included**Length: (from left to right)-Style 1- 47" from top to end of tassels before plant pot is placed-Style 2- 45" from top to end of tassels before plant pot is placed-Style 3- 51" from top to end of tassels before plant pot is placedPots/Bowls Size: (NOT INCLUDED)-Style 1 -bowl used is 8" in diameter -Style 2 -pot used is 6.5" in diameter-Style 3 -bowl used is 12" in diameter
-  Updated: 2025-10-15T04:36:28Z
+  Updated: 2025-11-05T23:54:35Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/il_570xN.1473198498_k4xp.jpg?v=1760445176
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/il_570xN.1473198498_k4xp.jpg?v=1762386872
   - [All 3 Styles](https://avshalum.myshopify.com/products/macrame-plant-hanger?variant=43186986680526)
     Availability: Available
     Price: $105.00 USD
@@ -87,39 +87,39 @@
     Availability: Available
     Price: $45.00 USD
 - [Quilted Diaper Baby Backpack](https://avshalum.myshopify.com/products/quilted-diaper-baby-backpack): Stylish & handy, Quilted Diaper Bag Backpack has 13 storage pockets, foil insulation, a back pocket, and extra wide opening. Durable oxford fabric, a large base, plus padded straps & handles provide complete functionality for parents on the go. Hang on the stroller with 2 D-ring buckles for hands-free carrying & access items easily from the zippered back pocket. This bag is perfect for parents who want a reliable, comfortable option when they're out with their little ones. It's designed for convenience and flexibility, and its stylish design ensures you'll look great no matter where you go. Durable, easy to clean, and wear resistant. It is stronger than common fabrics, plus waterproof, dustproof, scratch-resistant, and tear-resistant. Material: Premium Oxford Fabric Product Size: 9.5 x 10.6 x 27 in Care Instructions: Machine wash the product, do not dry clean.
-  Updated: 2025-10-15T04:19:12Z
+  Updated: 2025-11-05T23:54:52Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_ec904a6e-d6ab-4fbd-9d80-71bc0be0dd5f.jpg?v=1760445178
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/data_ec904a6e-d6ab-4fbd-9d80-71bc0be0dd5f.jpg?v=1762386875
   - [Pink](https://avshalum.myshopify.com/products/quilted-diaper-baby-backpack?variant=43186986844366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB1Y3rCbdjvK1RjSspiq6AEqXXa3.jpg?v=1760445179
+    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB1Y3rCbdjvK1RjSspiq6AEqXXa3.jpg?v=1762386881
     Price: $55.99 USD
   - [Gray](https://avshalum.myshopify.com/products/quilted-diaper-baby-backpack?variant=43186986877134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB16vO1bh_rK1RkHFqDq6yJAFXaR.jpg?v=1760445179
+    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB16vO1bh_rK1RkHFqDq6yJAFXaR.jpg?v=1762386881
     Price: $55.99 USD
   - [Blue](https://avshalum.myshopify.com/products/quilted-diaper-baby-backpack?variant=43186986909902)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB1Clz3VVzqK1RjSZFvq6AB7VXad.jpg?v=1760445180
+    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/HTB1Clz3VVzqK1RjSZFvq6AB7VXad.jpg?v=1762386882
     Price: $55.99 USD
   - [Black](https://avshalum.myshopify.com/products/quilted-diaper-baby-backpack?variant=43186986942670)
     Availability: Not Available
     Price: $55.99 USD
 - [Long Fitness Leggings Lauma Active Lady Fitness](https://avshalum.myshopify.com/products/long-fitness-leggings-lauma-active-lady-fitness): Long leggings by Lauma Lingerie - Collection Lauma Active.• Classic long - ankle length - leggings.• Comfortable to wear.• Made from elastic fabric for better fit.• Ideally suited for the average intensity workouts, yoga and pilates.Product details:• Use mild wash powders (without "perborate").• Preferably hand wash, cold; line dry.• Do not iron.• Material: 87% Polyester, 13% Elastane.• Sizes: XS, S, M, L, XL, XXL, 3XL.• Color: Black.
-  Updated: 2025-10-16T17:49:39Z
+  Updated: 2025-11-05T23:54:57Z
   Vendor: Avshalum
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/long-leggings-lauma-active-46D55.png?v=1760445181
+  Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/long-leggings-lauma-active-46D55.png?v=1762386882
   - [Black / XXL](https://avshalum.myshopify.com/products/long-fitness-leggings-lauma-active-lady-fitness?variant=43186987008206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/sport-top_07631ee8-ab63-4175-aa61-b473d6b4c7b3.png?v=1760445182
+    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/sport-top_07631ee8-ab63-4175-aa61-b473d6b4c7b3.png?v=1762386888
     Price: $19.00 USD
   - [Black / XL](https://avshalum.myshopify.com/products/long-fitness-leggings-lauma-active-lady-fitness?variant=43186987040974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/sport-top_8e98bc5f-d128-43ed-8d88-7939305eecc3.png?v=1760445182
+    Image: https://cdn.shopify.com/s/files/1/0658/2658/6830/files/sport-top_8e98bc5f-d128-43ed-8d88-7939305eecc3.png?v=1762386888
     Price: $19.00 USD
   - [Black / L](https://avshalum.myshopify.com/products/long-fitness-leggings-lauma-active-lady-fitness?variant=43186987073742)
     Availability: Available
@@ -4419,7 +4419,7 @@
     Availability: Available
     Price: $38.99 USD
 - [15W Fast Wireless Charger Pad](https://avshalum.myshopify.com/products/15w-fast-wireless-charger-pad): Experience effortless, high-speed wireless charging with the 15W Fast Wireless Charger Pad. This ultra-slim charger blends premium aluminum alloy metal construction with smart design to deliver faster power delivery while staying discreet by your bedside or on your desk. Fast, compatible charging — The 15W Fast Charging Mode powers Samsung Galaxy devices (including S10, S9/S9+, S8/S8+, Note 9/8/5, S6 Edge, S7/S7 Edge, and other high-series Galaxy phones) at top speeds. It’s also compatible with iPhone models 14/13/12/11/X/XS/XS Max/XR and iPhone 8/8 Plus. Other Qi-enabled devices will charge at standard wireless speeds, ensuring broad compatibility. Smart, safe design — Built with a focus on protection and convenience, this charger features a low-profile LED indicator that won’t disrupt your night, an anti-slip rubber base to keep your device steady, and a sleek, space-saving silhouette that fits neatly on a nightstand or desk. Durable, heat-conscious build — The metal body not only looks premium but also helps dissipate heat, helping to prevent overheating during charging so you can rest or work with peace of mind. What’s included — 1x Fast Wireless Charger, 1x Micro USB Cable. Color options: Black or Gray. Specifications Input: 5 V/2 A, 9 V/1.2 A Output: 7.5W / 10W / 15W Charge efficiency: >75% Charge indicators: Yes Connector: Micro USB Max output power: 15W Material: Metal (aluminum alloy) FEATURES With Charging Indicator CONNECTOR TYPE Micro USB BUILT-IN COOLING FAN NO MAX. OUTPUT POWER 15W MATERIAL Metal
-  Updated: 2025-11-03T00:35:37Z
+  Updated: 2025-11-05T22:55:18Z
   Vendor: DC-THE CEO
   Product Type: 
   Availability: Available
@@ -4558,7 +4558,7 @@
     Availability: Available
     Price: $42.49 USD
 - [20000mAh External Battery Power Bank Dual USB With LED Flashlight](https://avshalum.myshopify.com/products/20000mah-external-battery-power-bank-dual-usb-with-led-flashlight): Power through your day with the 20000mAh External Battery Power Bank — a compact, durable charger designed for travel, emergencies, and everyday use. Its impressive 20,000mAh high-capacity battery ensures you have multiple full charges for smartphones, tablets, and other USB-powered devices, so you stay connected even on long trips or during outages. 20,000mAh High-Capacity Battery — Provides multiple full charges for smartphones, tablets, and other USB-powered devices, keeping you powered longer between recharges. Dual USB Output — Charge two devices simultaneously, making it perfect for sharing with a friend or keeping both of your devices ready to go. Fast & Efficient Charging — Delivers reliable power quickly when you need it most, so you waste less time plugged in. Built-in LED Flashlight — Convenient for emergencies, nighttime use, or any situation where extra light is helpful. Universal Compatibility — Works with smartphones, tablets, and other USB-powered devices, offering broad versatility for your gear. Compact & Travel-Friendly — Lightweight, durable, and easy to carry in a bag or backpack for on-the-go charging. Experience dependable power wherever you are—whether you’re traveling, commuting, camping, or facing a power outage. This 20000mAh power bank combines massive capacity with practical features to keep you connected and prepared.
-  Updated: 2025-11-03T00:35:36Z
+  Updated: 2025-11-05T23:02:59Z
   Vendor: DC-THE CEO
   Product Type: 
   Availability: Available
@@ -4853,14 +4853,22 @@
 ## Collections
 
 - [Home page](https://avshalum.myshopify.com/collections/frontpage)
-  Updated: 2025-11-03T13:30:02Z
+  Updated: 2025-11-05T22:51:42Z
   Total Products: 113
 - [Digital Goods VAT Tax](https://avshalum.myshopify.com/collections/digital-goods-vat-tax)
   Updated: 2025-11-03T14:00:01Z
   Total Products: 112
 - [All Products (ChatGPT-AI Product Description)](https://avshalum.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2025-11-03T13:30:02Z
+  Updated: 2025-11-05T23:03:36Z
   Total Products: 113
+
+## Blogs
+
+- [News](https://avshalum.myshopify.com/blogs/news)
+  - [my collection](https://avshalum.myshopify.com/blogs/news/my-collection): my collection
+    Updated: 2025-11-05T23:09:15Z
+    Author: Russ Avshalum
+    Tags: collectibles, collecting, collection, curation, showcase
 
 ## Store Pages
 
