@@ -1,12 +1,14 @@
 # Meeple Worx Ltd (https://meepleworx.fun)
 
+> Your source of fun
+
 - Domain: https://meepleworx.fun
 - Locale: en
 - Currency: GBP
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-06T00:08:43.691Z
+- Updated At: 2025-11-06T00:11:31.667Z
 
 ## Products
 
