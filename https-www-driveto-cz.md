@@ -10,7 +10,7 @@
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-05T11:32:04.979Z
+- Updated At: 2025-11-06T00:14:59.876Z
 
 ## Auto které nenabízíme můžete poptat zde
 https://www.driveto.cz/pages/vyberte-si-svoje-auto
@@ -4644,7 +4644,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 7 948,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-automaticka-prevodovka-1): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
-  Updated: 2025-10-29T18:59:04Z
+  Updated: 2025-11-05T11:45:17Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -8309,21 +8309,42 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [30000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/cupra-ateca-2-0-tsi-140-kw-natural-95-4x4-automaticka-prevodovka?variant=62472495759709)
     Availability: Available
     Price: 8 499,00 Kč CZK
+- [Škoda Kodiaq Selection 2.0 TSI 150 kW 4x4 Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-selection-2-0-tsi-150-kw-natural-95-automaticka-prevodovka): Druhá generace Škody Kodiaq přináší výrazný designový i technický posun. Vzhled vozu působí dospěleji a robustněji, široká maska chladiče, ostré LED světlomety a charakteristická zadní světla ve tvaru písmene C mu dodávají moderní, sebevědomý výraz. Interiér prošel výraznou modernizací a posunul se směrem k vyšší třídě, potěší nová ergonomická sedadla, kvalitní materiály, digitální kokpit i intuitivní ovládání přes velký displej infotainmentu. K dispozici je také obrovský zavazadlový prostor o objemu 910 litrů, což je více než nabízí mnohá větší SUV prémiových značek. Pod kapotou se nachází osvědčený čtyřválcový motor 2.0 TSI o výkonu 150 kW, který zajišťuje plynulý a dynamický chod. V kombinaci s automatickou převodovkou DSG a pohonem všech kol nabízí nový Kodiaq vynikající trakci, jistotu na každém povrchu a zároveň kultivovaný projev i na dlouhých trasách. Výsledkem je všestranné rodinné SUV, které zvládá každodenní jízdu stejně dobře jako dálkové přesuny, a to s přehledem, komfortem a dostatkem výkonu.
+  Updated: 2025-11-05T21:49:02Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Skoda_Kodiaq_Selection_2_0_TSI_4x4_foto1_01727514-54f4-4930-bc5b-6159d9fc0b05.webp?v=1762379154
+  - [25000 km / 12 měsíců / Černá Magic metalíza](https://www.driveto.cz/products/skoda-kodiaq-selection-2-0-tsi-150-kw-natural-95-automaticka-prevodovka?variant=62486581018973)
+    Availability: Available
+    Price: 13 450,00 Kč CZK
+  - [25000 km / 12 měsíců / Zlatá Bronx metalíza](https://www.driveto.cz/products/skoda-kodiaq-selection-2-0-tsi-150-kw-natural-95-automaticka-prevodovka?variant=62486580986205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Skoda_Kodiaq_Selection_2_0_TSI_4x4_foto9.webp?v=1762378846
+    Price: 13 450,00 Kč CZK
+  - [25000 km / 12 měsíců / Šedá Graphite metalíza](https://www.driveto.cz/products/skoda-kodiaq-selection-2-0-tsi-150-kw-natural-95-automaticka-prevodovka?variant=62486581051741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Skoda_Kodiaq_Selection_2_0_TSI_4x4_foto7.webp?v=1762378845
+    Price: 13 450,00 Kč CZK
+  - [25000 km / 12 měsíců / Šedá Steel](https://www.driveto.cz/products/skoda-kodiaq-selection-2-0-tsi-150-kw-natural-95-automaticka-prevodovka?variant=62486581084509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Skoda_Kodiaq_Selection_2_0_TSI_4x4_foto8.webp?v=1762378845
+    Price: 13 450,00 Kč CZK
 
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-05T11:01:46Z
+  Updated: 2025-11-06T00:08:35Z
   Total Products: 236
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:03:03Z
+  Updated: 2025-11-06T00:07:58Z
   Total Products: 65
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:05:42Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 30
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:04:27Z
-  Total Products: 159
+  Updated: 2025-11-06T00:07:02Z
+  Total Products: 160
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-16T11:20:53Z
   Total Products: 2
@@ -8340,13 +8361,13 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-27T12:08:11Z
   Total Products: 1
 - [Operativní leasing MG | Driveto.cz](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-10-31T11:19:42Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 4
 - [Operativní leasing Lexus | Driveto.cz](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:04:50Z
+  Updated: 2025-11-05T18:05:56Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-04T14:07:52Z
@@ -8355,16 +8376,16 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-04T12:21:28Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 6
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T00:04:40Z
+  Updated: 2025-11-05T13:05:58Z
   Total Products: 44
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T00:03:25Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:04:38Z
+  Updated: 2025-11-06T00:07:40Z
   Total Products: 13
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-04T12:21:28Z
@@ -8373,13 +8394,13 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-11-04T12:21:28Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T00:08:51Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 7
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-04T10:06:59Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:34:40Z
+  Updated: 2025-11-06T00:05:58Z
   Total Products: 29
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-04T12:21:28Z
@@ -8388,13 +8409,13 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-11-04T12:21:28Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T10:02:08Z
+  Updated: 2025-11-06T00:02:06Z
   Total Products: 238
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-31T11:19:42Z
   Total Products: 9
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-03T12:22:17Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-04T12:21:28Z
@@ -8403,10 +8424,10 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-05T10:02:37Z
+  Updated: 2025-11-06T00:05:37Z
   Total Products: 236
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-04T16:40:40Z
+  Updated: 2025-11-05T12:22:19Z
   Total Products: 3
 
 ## Blogs
