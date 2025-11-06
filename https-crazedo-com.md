@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-11-05T01:44:29.475Z
+- Updated At: 2025-11-06T00:00:40.888Z
 
 ## Collections
 
@@ -78,6 +78,8 @@
   Updated: 2025-09-19T03:28:48Z
 - [FAQ | Crazedo Weekly Google Trends Insights.](https://crazedo.com/pages/faq): Frequently Asked Questions (FAQ) 1.What is Crazedo?Crazedo is a weekly insights hub that highlights the #1 trending Google search of the week. Each...
   Updated: 2025-09-21T03:25:26Z
+- [Search Results](https://crazedo.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if ( window.location.pathname.indexOf(snize_search_res...
+  Updated: 2025-11-05T04:04:06Z
 
 ## Policies
 
