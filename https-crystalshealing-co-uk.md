@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-05T00:00:33.179Z
+- Updated At: 2025-11-06T00:00:30.169Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -1538,7 +1538,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_11_60206905-e1ee-4660-b8d1-80fed49c668d.jpg?v=1739738173
   Price: £16.90 GBP
 - [Chakra Crystal Sphere Set - Balance & Energy Healing](https://crystalshealing.co.uk/products/chakra-crystal-sphere): Align your energy with the Chakra Crystal Sphere Set, crafted to support chakra balance, spiritual growth, and positive energy flow.
-  Updated: 2025-10-01T15:01:04Z
+  Updated: 2025-11-05T12:30:54Z
   Vendor: Crystals Healing
   Product Type: Chakra Set
   Availability: Available
