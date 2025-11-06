@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-11-04T00:00:25.458Z
+- Updated At: 2025-11-06T00:00:27.027Z
 
 ## Products
 
@@ -387,7 +387,7 @@
     Availability: Available
     Price: 119,00 zł PLN
 - [Bransoletka z krzyżykiem oraz awenturynem i agatem damska](https://lunnea.pl/products/bransoletka-z-krzyzykiem-oraz-awenturynem-i-agatem-damska): Bransoletka z krzyżykiem i awenturynem – elegancka biżuteria handmade Subtelna, a zarazem pełna symboliki – ta ręcznie robiona bransoletka z awenturynem, agatem i zawieszką krzyżyka to wyjątkowy dodatek dla kobiety, która ceni duchowość, elegancję i naturalne piękno. Główną rolę grają tu fasetowane kule z różowego awenturynu oraz bambusowego agatu, uzupełnione o złote hematyty i minimalistyczny krzyżyk ze stali chirurgicznej. Bransoletka łączy w sobie duchowy charakter i nowoczesną estetykę. Różowo-brzoskwiniowy awenturyn wnosi łagodność i kobiecość, agat – wewnętrzną harmonię, a krzyżyk – ponadczasowy symbol wiary i siły. To biżuteria handmade, która ma nie tylko zdobić, ale też przypominać o tym, co naprawdę ważne. Idealna jako prezent na urodziny, chrzest, bierzmowanie, rocznicę lub po prostu jako piękny gest dla bliskiej osoby. Dzięki elastycznej żyłce jubilerskiej bransoletka jest wygodna w noszeniu, a możliwość wyboru indywidualnego rozmiaru gwarantuje idealne dopasowanie. Bransoletka z krzyżykiem – symboliczny prezent dla kobiety Ta delikatna bransoletka handmade to więcej niż ozdoba. To osobisty talizman, który można nosić na co dzień – blisko serca. Krzyżyk ze stali chirurgicznej jest dyskretny i elegancki, dzięki czemu sprawdzi się zarówno w codziennych stylizacjach, jak i podczas wyjątkowych okazji. Naturalne kamienie w pastelowej palecie kolorów wprowadzają poczucie spokoju i harmonii. Bransoletka emanuje kobiecą siłą – łagodną, ale stanowczą. W bransoletce z agatem i awenturynem znajdziesz: Różowy awenturyn (8 mm) – fasetowane kule o brzoskwiniowym odcieniu, kamień łagodności i odwagi serca. Agat bambusowy (6 mm) – wspiera równowagę emocjonalną i wewnętrzny spokój. Złoty hematyt (3 i 4 mm) – błyszczące, fasetowane kule jako eleganckie przekładki. Zawieszka w kształcie krzyżyka – ze stali chirurgicznej, trwała i odporna na ścieranie. Specyfikacja bransoletki z krzyżykiem: Materiał: awenturyn różowy, agat bambusowy, hematyt, stal chirurgiczna Kolorystyka: brzoskwiniowo-różowa z akcentami złota Rozmiary kamieni: awenturyn 8 mm, agat 6 mm, hematyt 3 i 4 mm Zawieszka krzyżyk: stal nierdzewna, 5,5 x 11,4 mm Zapięcie: elastyczna żyłka jubilerska Indywidualny rozmiar: możliwy – podaj informację w komentarzu w koszyku Dlaczego warto wybrać tę ręcznie robioną bransoletkę z krzyżykiem? Symbolika i emocje – krzyżyk jako znak duchowości, kamienie wspierające równowagę i serce Ręczne wykonanie – każda sztuka tworzona z dbałością o detal Unikalny design – pastelowa paleta i błysk hematytu Trwałość i jakość – stal chirurgiczna i naturalne kamienie Komfort noszenia – elastyczna żyłka jubilerska dopasowuje się do nadgarstka Podaruj ją sobie lub bliskiej osobie – to więcej niż bransoletka. To znak pamięci, wiary i czułości.
-  Updated: 2025-11-03T16:44:37Z
+  Updated: 2025-11-04T04:56:56Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -447,7 +447,7 @@
     Availability: Available
     Price: 119,00 zł PLN
 - [Bransoletka z krzyżykiem i brązowymi agatami damska](https://lunnea.pl/products/bransoletka-z-krzyzykiem-i-agatami-damska): Bransoletka z krzyżykiem oraz brązowymi agatami – ręcznie robiona biżuteria Elegancka bransoletka z krzyżykiem i agatami to propozycja dla kobiet, które cenią naturalną biżuterię, symbolikę i ręczne wykonanie. Ta unikatowa bransoletka handmade łączy w sobie głębię brązowego agatu i blask złotego hematytu, tworząc wyjątkowy dodatek na każdą okazję. Doskonale sprawdzi się na prezent – niezależnie, czy chcesz obdarować siebie, czy bliską osobę. Bransoletka została wykonana na solidnej, elastycznej żyłce jubilerskiej, dzięki czemu jest wygodna i dopasowuje się do nadgarstka. Centralnym elementem kompozycji jest złoty krzyżyk z hematytu, który nie tylko przyciąga wzrok, ale także niesie ze sobą duchowe znaczenie – symbol ochrony, wiary i siły. To nie tylko ozdoba, ale biżuteria z przesłaniem, która może towarzyszyć Ci każdego dnia. Połączenie fasetowanych kulek hematytu z naturalnymi agatami nadaje całości szlachetnego charakteru. Taka bransoletka to inwestycja w jakość i trwałość, która nie wyjdzie z mody – niezależnie od sezonu. Bransoletka z agatami i krzyżykiem – idealna na prezent z przesłaniem Delikatne odcienie brązu i złota sprawiają, że ta bransoletka pasuje zarówno do codziennych stylizacji, jak i bardziej eleganckich okazji. To piękny pomysł na prezent z przesłaniem – z okazji urodzin, świąt, bierzmowania czy jako pamiątka duchowej drogi. Bransoletka została zaprojektowana z myślą o kobietach, które szukają czegoś więcej niż tylko ozdoby. Dzięki obecności krzyżyka nabiera symbolicznego wymiaru – może być osobistym talizmanem, znakiem duchowej siły albo subtelnym przypomnieniem o wartościach bliskich sercu. W bransoletce z krzyżykiem i brązowymi agatami znajdziesz: Brązowy agat (6 mm) – kamień harmonii, spokoju i równowagi emocjonalnej. Każda kulka ma unikatowy wzór. Fasetowany hematyt (4 mm) – w kolorze ciepłego złota; dodaje elegancji i podkreśla luksusowy charakter biżuterii. Złoty krzyżyk (8x10 mm) z naturalnego hematytu – gładki, subtelny i symboliczny element centralny. Bransoletka nawleczona na elastyczną żyłkę jubilerską – komfortowa i trwała w codziennym noszeniu. Specyfikacja bransoletki z krzyżykiem i agatami: Średnica kamieni: agat – 6 mm, hematyt – 4 mm Krzyżyk: 8x10 mm, hematyt gładki Kolorystyka: ciepłe odcienie brązu i złota Baza: elastyczna, mocna żyłka jubilerska Indywidualny rozmiar: możliwy – podaj informację w komentarzu w koszyku Dlaczego warto wybrać tę bransoletkę z agatami i krzyżykiem? Ręcznie robiona – każda sztuka jest wyjątkowa Z naturalnych kamieni – agat i hematyt to klasyka elegancji Symboliczny krzyżyk – idealny jako prezent duchowy Uniwersalna kolorystyka – pasuje do wielu stylizacji Elastyczna i komfortowa – bez zapięcia, łatwa do założenia Trwała i solidna – posłuży przez lata Podaruj ją sobie lub bliskiej osobie – to biżuteria, która zostaje w pamięci na lata.
-  Updated: 2025-10-21T02:09:26Z
+  Updated: 2025-11-05T21:27:51Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -874,6 +874,10 @@
     Updated: 2025-11-03T14:27:02Z
     Author: Admin
     Tags: Kamień naturalny, Kwarc różowy, Lecznicze właściwości
+  - [Znaczenie rodonitu - Co oznacza ten kamień?](https://lunnea.pl/blogs/news/znaczenie-rodonitu-co-oznacza-ten-kamien): Rodonit - kamień o niezwykłej symbolice. Poznaj jego znaczenie i odkryj, jak możesz wykorzystać go w swojej autorskiej biżuterii.
+    Updated: 2025-11-04T15:19:00Z
+    Author: Admin
+    Tags: Kamienie do medytacji, Kamienie ochronne, Kamienie szlachetne, Rodonit a energia, Wibracje kamieni, Właściwości mineralne, Zastosowanie rodonitu, Znaczenie rodonitu
   - [Jak sprawdzić, czy różowy kwarc jest prawdziwy?](https://lunnea.pl/blogs/news/jak-sprawdzic-czy-rozowy-kwarc-jest-prawdziwy): Odkryj, jak łatwo sprawdzić, czy Twój różowy kwarc jest autentyczny. Poznaj proste sposoby weryfikacji tego cennego kamienia.
     Updated: 2025-11-01T13:50:03Z
     Author: Admin
