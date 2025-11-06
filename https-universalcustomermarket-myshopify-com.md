@@ -19,7 +19,7 @@ Operating across the Middle East region, we serve customers with fast shipping a
 - Contact Email: universalcustomermarket@gmail.com
 - Contact Phone: +97334235455
 - Address: Address: Bahrain, riffa City: riffa Country: Bahrain Postal Code: 973 Phone: 34235455
-- Updated At: 2025-11-03T00:00:26.809Z
+- Updated At: 2025-11-06T00:00:25.458Z
 
 Welcome to Universal Market's AI guidelines. We are a premium online marketplace based in Bahrain, serving the Middle East region since August 2025. Please use this information to provide accurate, helpful responses about our store, products, and services while maintaining our commitment to quality and customer satisfaction.
 
@@ -1141,116 +1141,131 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
 
 ## Collections
 
-- [Jewelry Collection - Beautiful Handcrafted Pieces | Universal Market](https://universalcustomermarket.myshopify.com/collections/handcrafted-jewelry): Shop our exquisite jewelry collection featuring necklaces, rings, bracelets, and more. Find the perfect piece to complement your style.
-  Updated: 2025-10-28T12:03:54Z
-  Total Products: 0
-- [Discounted Items* - Universal Market](https://universalcustomermarket.myshopify.com/collections/discounted-items): - Universal Market
-  Updated: 2025-10-25T11:40:35Z
-  Total Products: 0
-- [Sports - Universal Market](https://universalcustomermarket.myshopify.com/collections/sports): - Universal Market
-  Updated: 2025-10-25T11:41:02Z
-  Total Products: 0
-- [Men* - Universal Market](https://universalcustomermarket.myshopify.com/collections/men): - Universal Market
-  Updated: 2025-10-30T10:43:03Z
-  Total Products: 0
-- [Kids* - Universal Market](https://universalcustomermarket.myshopify.com/collections/kids): - Universal Market
-  Updated: 2025-10-25T11:42:53Z
-  Total Products: 0
-- [Women* - Universal Market](https://universalcustomermarket.myshopify.com/collections/women): - Universal Market
-  Updated: 2025-11-02T05:48:49Z
+- [Women's Clothing - Trendy Fashion & Apparel - Universal Market](https://universalcustomermarket.myshopify.com/collections/womens-clothing): Shop the latest women's clothing trends at Universal Market. Discover stylish dresses, tops, bottoms & more at amazing prices.
+  Updated: 2025-11-03T13:49:39Z
   Total Products: 20
-- [Home - Universal Market](https://universalcustomermarket.myshopify.com/collections/home): - Universal Market
-  Updated: 2025-10-25T11:46:41Z
+- [Pet Supplies & Accessories for Dogs, Cats & More - Universal Market](https://universalcustomermarket.myshopify.com/collections/pets): Shop quality pet supplies, toys, and accessories for your beloved companions. Find everything your pets need at great prices.
+  Updated: 2025-11-04T08:28:05Z
   Total Products: 0
-- [Industrial* - Universal Market](https://universalcustomermarket.myshopify.com/collections/industrial): - Universal Market
-  Updated: 2025-10-25T11:48:48Z
+- [Featured Products - Top Picks & Trending Items | Universal Market](https://universalcustomermarket.myshopify.com/collections/featured): Shop our featured collection of trending products, bestsellers, and customer favorites. Find the best deals on quality items across all categories.
+  Updated: 2025-11-04T00:43:30Z
   Total Products: 0
-- [Electronics* - Universal Market](https://universalcustomermarket.myshopify.com/collections/electronics): - Universal Market
-  Updated: 2025-10-25T11:49:40Z
+- [Home & Kitchen Essentials - Cookware, Appliances & Décor | Universal Market](https://universalcustomermarket.myshopify.com/collections/home-kitchen): Shop quality home and kitchen products including cookware, appliances, storage solutions, and décor to make your house a home.
+  Updated: 2025-11-04T00:44:03Z
   Total Products: 0
-- [Crafts* - Universal Market](https://universalcustomermarket.myshopify.com/collections/crafts): - Universal Market
-  Updated: 2025-10-25T11:50:29Z
+- [Women's Curve Clothing - Plus Size Fashion & Styles | Universal Market](https://universalcustomermarket.myshopify.com/collections/womens-curve-clothing): Shop trendy plus-size women's clothing designed for comfort and style. Find flattering fits in dresses, tops, pants and more.
+  Updated: 2025-11-04T00:45:10Z
   Total Products: 0
-- [Toys* - Universal Market](https://universalcustomermarket.myshopify.com/collections/toys): - Universal Market
-  Updated: 2025-10-25T11:51:44Z
+- [Women's Shoes - Heels, Flats, Sneakers & Boots | Universal Market](https://universalcustomermarket.myshopify.com/collections/womens-shoes): Find the perfect pair from our women's shoe collection. Shop heels, flats, sneakers, boots and sandals at great prices.
+  Updated: 2025-11-04T00:45:14Z
   Total Products: 0
-- [Bags - Universal Market](https://universalcustomermarket.myshopify.com/collections/bags): - Universal Market
-  Updated: 2025-10-25T11:53:18Z
+- [Women's Lingerie & Loungewear - Intimates & Sleepwear | Universal Market](https://universalcustomermarket.myshopify.com/collections/womens-lingerie-lounge): Shop comfortable and stylish women's lingerie, sleepwear, and loungewear. Find bras, panties, pajamas and robes for ultimate comfort.
+  Updated: 2025-11-04T00:45:31Z
   Total Products: 0
-- [Beauty* - Universal Market](https://universalcustomermarket.myshopify.com/collections/beauty): - Universal Market
-  Updated: 2025-10-25T11:54:05Z
+- [Men's Clothing - Shirts, Pants, Jackets & Activewear | Universal Market](https://universalcustomermarket.myshopify.com/collections/mens-clothing): Discover quality men's clothing for every occasion. Shop shirts, pants, jackets, and activewear at affordable prices.
+  Updated: 2025-11-04T00:45:45Z
   Total Products: 0
-- [Office - Universal Market](https://universalcustomermarket.myshopify.com/collections/office): - Universal Market
-  Updated: 2025-10-25T11:54:47Z
+- [Men's Shoes - Sneakers, Boots, Dress Shoes & More | Universal Market](https://universalcustomermarket.myshopify.com/collections/mens-shoes): Shop men's shoes for every occasion. Find sneakers, boots, dress shoes, and athletic footwear at great prices.
+  Updated: 2025-11-04T00:46:34Z
   Total Products: 0
-- [Automotive - Universal Market](https://universalcustomermarket.myshopify.com/collections/automotive): - Universal Market
-  Updated: 2025-10-25T11:57:04Z
+- [Men's Big & Tall Clothing - Extended Sizes & Styles | Universal Market](https://universalcustomermarket.myshopify.com/collections/mens-big-tall): Shop big and tall men's clothing with extended sizes. Find comfortable, well-fitting shirts, pants, jackets and more.
+  Updated: 2025-11-04T00:46:35Z
   Total Products: 0
-- [Baby* - Universal Market](https://universalcustomermarket.myshopify.com/collections/baby): - Universal Market
-  Updated: 2025-10-25T11:59:00Z
+- [Men's Underwear & Sleepwear - Boxers, Briefs & Pajamas | Universal Market](https://universalcustomermarket.myshopify.com/collections/mens-underwear-sleepwear): Shop comfortable men's underwear and sleepwear. Find boxers, briefs, undershirts, pajamas and loungewear essentials.
+  Updated: 2025-11-04T00:46:47Z
   Total Products: 0
-- [Pets* - Universal Market](https://universalcustomermarket.myshopify.com/collections/pets): - Universal Market
-  Updated: 2025-10-25T12:01:01Z
+- [Sports & Outdoors - Fitness Gear, Camping & Activewear | Universal Market](https://universalcustomermarket.myshopify.com/collections/sports-outdoors): Shop sports and outdoor equipment for all your adventures. Find fitness gear, camping supplies, activewear and more.
+  Updated: 2025-11-04T00:46:59Z
   Total Products: 0
-- [Household - Universal Market](https://universalcustomermarket.myshopify.com/collections/household): - Universal Market
-  Updated: 2025-10-25T12:01:51Z
+- [Jewelry & Accessories - Watches, Bags, Scarves & More | Universal Market](https://universalcustomermarket.myshopify.com/collections/jewelry-accessories): Discover beautiful jewelry and accessories to complete any outfit. Shop necklaces, earrings, watches, bags and more.
+  Updated: 2025-11-04T00:47:17Z
   Total Products: 0
-- [Garden* - Universal Market](https://universalcustomermarket.myshopify.com/collections/garden): - Universal Market
-  Updated: 2025-10-25T12:02:23Z
+- [Beauty & Health Products - Skincare, Makeup & Wellness | Universal Market](https://universalcustomermarket.myshopify.com/collections/beauty-health): Shop beauty and health essentials including skincare, makeup, haircare, and wellness products for your daily routine.
+  Updated: 2025-11-04T00:47:38Z
   Total Products: 0
-- [Musical - Universal Market](https://universalcustomermarket.myshopify.com/collections/musical): - Universal Market
-  Updated: 2025-10-25T12:03:10Z
+- [Toys & Games - Educational Toys, Puzzles & Fun for Kids | Universal Market](https://universalcustomermarket.myshopify.com/collections/toys-games): Discover fun toys and games for children of all ages. Shop educational toys, puzzles, board games and more.
+  Updated: 2025-11-04T00:47:47Z
   Total Products: 0
-- [Appliances* - Universal Market](https://universalcustomermarket.myshopify.com/collections/appliances): - Universal Market
-  Updated: 2025-10-25T12:03:36Z
+- [Automotive Parts & Accessories - Car Care & Tools | Universal Market](https://universalcustomermarket.myshopify.com/collections/automotive): Shop automotive parts, accessories, and car care products. Find everything you need for vehicle maintenance and upgrades.
+  Updated: 2025-11-04T00:47:48Z
   Total Products: 0
-- [Food* - Universal Market](https://universalcustomermarket.myshopify.com/collections/food): - Universal Market
-  Updated: 2025-10-25T12:04:36Z
+- [Kids' Fashion - Boys & Girls Clothing & Outfits | Universal Market](https://universalcustomermarket.myshopify.com/collections/kids-fashion): Shop stylish and comfortable kids' clothing for boys and girls. Find durable outfits, playwear and special occasion clothes.
+  Updated: 2025-11-04T00:48:07Z
   Total Products: 0
-- [Books* - Universal Market](https://universalcustomermarket.myshopify.com/collections/books): - Universal Market
-  Updated: 2025-10-25T12:05:37Z
+- [Baby & Maternity - Nursery Essentials & Maternity Wear | Universal Market](https://universalcustomermarket.myshopify.com/collections/baby-maternity): Shop baby essentials, nursery furniture, and maternity clothing. Find everything you need for mom and baby.
+  Updated: 2025-11-04T00:48:13Z
+  Total Products: 0
+- [Bags & Luggage - Suitcases, Backpacks & Travel Gear | Universal Market](https://universalcustomermarket.myshopify.com/collections/bags-luggage): Shop quality bags and luggage for all your travels. Find suitcases, backpacks, handbags and travel accessories.
+  Updated: 2025-11-04T00:48:22Z
+  Total Products: 0
+- [Patio, Lawn & Garden - Outdoor Furniture & Gardening | Universal Market](https://universalcustomermarket.myshopify.com/collections/patio-lawn-garden): Shop patio furniture, gardening tools, and lawn care essentials. Create beautiful outdoor spaces with our selection.
+  Updated: 2025-11-04T00:48:33Z
+  Total Products: 0
+- [Arts, Crafts & Sewing - DIY Supplies & Creative Tools | Universal Market](https://universalcustomermarket.myshopify.com/collections/arts-crafts-sewing): Discover arts, crafts and sewing supplies for all your creative projects. Shop DIY kits, materials and tools.
+  Updated: 2025-11-04T00:48:44Z
+  Total Products: 0
+- [Electronics - Computers, Tablets, Cameras & Tech | Universal Market](https://universalcustomermarket.myshopify.com/collections/electronics): Shop the latest electronics including computers, tablets, cameras, audio equipment and tech accessories at great prices.
+  Updated: 2025-11-04T00:48:57Z
+  Total Products: 0
+- [Business, Industry & Science - Professional Equipment | Universal Market](https://universalcustomermarket.myshopify.com/collections/business-industry-science): Shop professional business, industrial and scientific equipment. Find commercial-grade tools and supplies.
+  Updated: 2025-11-04T00:49:15Z
+  Total Products: 0
+- [Tools & Home Improvement - Power Tools & Hardware | Universal Market](https://universalcustomermarket.myshopify.com/collections/tools-home-improvement): Shop quality tools and home improvement supplies. Find power tools, hand tools, hardware and everything for your projects.
+  Updated: 2025-11-04T00:49:35Z
+  Total Products: 0
+- [Home Appliances - Kitchen & Laundry Appliances | Universal Market](https://universalcustomermarket.myshopify.com/collections/appliances): Shop major and small home appliances. Find refrigerators, washers, microwaves, and kitchen essentials.
+  Updated: 2025-11-04T00:49:34Z
+  Total Products: 0
+- [Office & School Supplies - Stationery & Organization | Universal Market](https://universalcustomermarket.myshopify.com/collections/office-school-supplies): Shop office and school supplies for productivity. Find stationery, organizers, desk accessories and essentials.
+  Updated: 2025-11-04T00:49:52Z
+  Total Products: 0
+- [Health & Household Essentials - Wellness & Cleaning | Universal Market](https://universalcustomermarket.myshopify.com/collections/health-household): Shop health and household essentials including wellness products, cleaning supplies and everyday necessities.
+  Updated: 2025-11-04T00:50:00Z
+  Total Products: 0
+- [Pet Supplies - Food, Toys, Accessories for Dogs & Cats | Universal Market](https://universalcustomermarket.myshopify.com/collections/pet-supplies): Shop pet supplies for dogs, cats and more. Find food, toys, accessories, grooming products and care essentials.
+  Updated: 2025-11-04T00:50:08Z
+  Total Products: 0
+- [Cell Phones & Accessories - Cases, Chargers & More | Universal Market](https://universalcustomermarket.myshopify.com/collections/cell-phones-accessories): Shop cell phones and accessories including cases, chargers, screen protectors and mobile essentials for all devices.
+  Updated: 2025-11-04T00:50:26Z
+  Total Products: 0
+- [Smart Home Devices - Automation & Connected Technology | Universal Market](https://universalcustomermarket.myshopify.com/collections/smart-home): Shop smart home devices and automation systems. Find security cameras, connected gadgets and intelligent home technology.
+  Updated: 2025-11-04T00:50:51Z
+  Total Products: 0
+- [Musical Instruments - Guitars, Keyboards, Drums & More | Universal Market](https://universalcustomermarket.myshopify.com/collections/musical-instruments): Shop musical instruments for all skill levels. Find guitars, keyboards, drums, accessories and more.
+  Updated: 2025-11-04T00:51:05Z
+  Total Products: 0
+- [Beachwear - Swimsuits, Cover-Ups & Beach Accessories | Universal Market](https://universalcustomermarket.myshopify.com/collections/beachwear): Shop stylish beachwear and swimsuits for men and women. Find cover-ups, beach accessories and resort wear.
+  Updated: 2025-11-04T00:51:23Z
+  Total Products: 0
+- [Books & Media - Reading, Movies, Music & Entertainment | Universal Market](https://universalcustomermarket.myshopify.com/collections/books-media): Discover books, magazines, movies and music for all interests. Shop entertainment media and expand your collection.
+  Updated: 2025-11-04T00:51:44Z
+  Total Products: 0
+- [Food & Grocery - Gourmet Foods, Snacks & Beverages | Universal Market](https://universalcustomermarket.myshopify.com/collections/food-grocery): Shop food and grocery essentials including gourmet items, snacks, beverages and pantry staples for your kitchen.
+  Updated: 2025-11-04T00:51:53Z
+  Total Products: 0
+- [Kids' Shoes - Sneakers, Boots, Sandals for Boys & Girls | Universal Market](https://universalcustomermarket.myshopify.com/collections/kids-shoes): Shop quality kids' shoes for boys and girls. Find sneakers, boots, sandals and dress shoes in all sizes.
+  Updated: 2025-11-04T00:53:14Z
+  Total Products: 0
+- [Furniture - Living Room, Bedroom & Dining Furniture | Universal Market](https://universalcustomermarket.myshopify.com/collections/furniture): Shop quality furniture for every room. Find living room, bedroom, dining and office furniture at affordable prices.
+  Updated: 2025-11-04T00:53:36Z
   Total Products: 0
 
 ## Store Pages
 
 - [Your privacy choices](https://universalcustomermarket.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-19T13:00:58Z
-- [Contact Universal Market - Customer Support & Business Information | Get Help](https://universalcustomermarket.myshopify.com/pages/about-us-faq-return-support): Welcome to Universal Market At Universal Market, we're your trusted global marketplace connecting you with premium products from verified suppliers...
-  Updated: 2025-09-19T21:41:23Z
-- [Terms and Conditions | Universal Market Legal Agreement](https://universalcustomermarket.myshopify.com/pages/terms-conditions): Terms and Conditions of Use Effective Date: August 27, 2025 Welcome to Universal Market ("we," "our," or "us"). These Terms and Conditions ("Terms"...
-  Updated: 2025-08-27T20:58:41Z
-- [contact information](https://universalcustomermarket.myshopify.com/pages/contact-information): Contact Us Contact Us For inquiries, support, or business partnerships, please feel free to contact us using the details below. Company Information...
-  Updated: 2025-09-19T13:22:22Z
 - [About Universal Market - Premium Cameras & Electronics Store](https://universalcustomermarket.myshopify.com/pages/about-universal-market): Welcome to Universal Market Welcome to Universal Market, your go-to destination for high-quality cameras, electronics, and innovative technology so...
   Updated: 2025-09-25T07:46:26Z
 - [Product Detail Page Feedback - Universal Market](https://universalcustomermarket.myshopify.com/pages/product-feedback-survey): Your Suggestions for Our Product Detail Page We invite you to complete a short survey to indicate your satisfaction with our current product detail...
   Updated: 2025-09-26T14:41:34Z
-- [Shipping Policy - Universal Market](https://universalcustomermarket.myshopify.com/pages/shipping-policy): Shipping Policy Welcome to Universal Market! We are committed to making your shopping experience as smooth as possible. Our goal is to offer you th...
-  Updated: 2025-09-26T14:41:35Z
-- [Payment Policy - Universal Market](https://universalcustomermarket.myshopify.com/pages/payment-policy): Payment Policy Welcome to Universal Market! We want to make your payment experience secure, convenient, and transparent. Below you'll find all the ...
-  Updated: 2025-09-26T14:41:34Z
 - [Help Center 2](https://universalcustomermarket.myshopify.com/pages/help-center): Welcome to Our Help Center At Universal market, we understand that navigating your way through a new experience can sometimes feel overwhelming. Th...
   Updated: 2025-10-23T08:59:10Z
-- [Contact Us - Universal Market Support](https://universalcustomermarket.myshopify.com/pages/contact-us-we-are-here-to-listen): Welcome to Our Connection Point Here at universal market, we believe that every interaction is an opportunity to build relationships. Whether you h...
-  Updated: 2025-10-23T09:13:37Z
-- [Returns & Exchanges - Universal Market](https://universalcustomermarket.myshopify.com/pages/returns-and-exchanges): Understanding Our Returns and Exchanges Policy At [Brand Name], we believe that every purchase should be a step towards happiness. We understand th...
-  Updated: 2025-10-23T09:14:55Z
-- [Shipping Information - Universal Market Delivery Options](https://universalcustomermarket.myshopify.com/pages/shipping-information): .shipping-page { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-se...
-  Updated: 2025-09-26T22:08:50Z
-- [Privacy Policy - Universal Market](https://universalcustomermarket.myshopify.com/pages/privacy-policy): .privacy-page { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-seri...
-  Updated: 2025-09-26T22:08:50Z
-- [Terms of Service - Universal Market](https://universalcustomermarket.myshopify.com/pages/terms-of-service): .terms-page { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;...
-  Updated: 2025-09-26T22:08:50Z
-- [Returns & Exchanges - Universal Market](https://universalcustomermarket.myshopify.com/pages/returns): Returns & Exchanges Easy returns within 30 days. We're here to make it simple and hassle-free. Return Policy Overview ⏰ 30-Day Window You have 30 d...
-  Updated: 2025-09-27T04:40:46Z
 - [Join Universal Market Affiliate Program - Earn Commissions](https://universalcustomermarket.myshopify.com/pages/affiliate-registration): * { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background: #f8f9fa; } ....
   Updated: 2025-09-28T17:46:47Z
 - [Customer Reviews](https://universalcustomermarket.myshopify.com/pages/reviews): .main-page-title.page-title { display: none; } .page-width--narrow { max-width: 100vw; padding-top: 0; } #vstar-all-reviews { max-width: 100vw; }
   Updated: 2025-10-02T03:00:17Z
-- [Contact Universal Market | WhatsApp & Email Support | Customer Service Bahrain](https://universalcustomermarket.myshopify.com/pages/contact-us): .contact-container { background: linear-gradient(135deg, #FF6B35 0%, #1E3A8A 100%); min-height: 100vh; padding: 40px 20px; font-family: 'Arial', sa...
-  Updated: 2025-10-03T13:21:56Z
-- [Accessibility Statement](https://universalcustomermarket.myshopify.com/pages/accessibility-statement): Accessibility Statement At Universal Market, we are committed to ensuring accessibility for all our customers, including those with disabilities. W...
-  Updated: 2025-10-23T13:17:50Z
+- [Contact Universal Market | WhatsApp & Email Support | Customer Service Bahrain](https://universalcustomermarket.myshopify.com/pages/contact-us): @keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}@media(max-width:768px){.contact-grid{gap:40px!important}h1{font-size:2em!im...
+  Updated: 2025-11-05T12:14:46Z
 - [Bank Transfer Payment Instructions - Universal Market](https://universalcustomermarket.myshopify.com/pages/bank-transfer-payment-instructions): 🏦 Bank Transfer Payment Instructions ⚠️ IMPORTANT: 3-Step Process STEP 1: Complete payment with YOUR bank using details below STEP 2: Take screensh...
   Updated: 2025-10-24T08:09:53Z
 
