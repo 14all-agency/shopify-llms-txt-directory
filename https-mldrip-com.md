@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-05T00:00:31.203Z
+- Updated At: 2025-11-06T00:00:28.273Z
 
 ## Products
 
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09E2E2A1-64D8-4E04-9306-6E6D8E08AAB5.png?v=1761696389
     Price: €115.00 EUR
 - [Men’s Polo Zipper Shirt](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready): Level up your fit with the Polo Zipper Shirt – a fresh twist on the classic polo. Designed with a clean zip-up collar instead of buttons, this piece brings effortless style that works from casual hangouts to late-night vibes. 🔥 Why You Need It: Modern zipper detail for a bold, standout look Breathable fabric – comfy enough for all-day wear Versatile fit – dress it up with chinos or keep it street with jeans/joggers Minimalist design that always looks premium Whether you’re pulling up to class, work, or a night out, this polo zipper keeps you looking sharp without trying too hard.
-  Updated: 2025-10-31T19:55:35Z
+  Updated: 2025-11-05T10:59:42Z
   Vendor: Mldrip
   Product Type: Tops
   Availability: Available
@@ -6577,7 +6577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1902.png?v=1758749166
     Price: €150.00 EUR
 - [Louis Vuitton Skate](https://mldrip.com/products/lv-skate-sneaker): Pull up in pure heat with the Louis Vuitton Skate Sneaker – where high fashion slides straight into streetwear. Designed for those who flex different, these kicks blend bold LV vibes with classic skate culture. Think chunky silhouette, premium materials, and that iconic monogram flex. Key Features: Luxury-grade leather & suede with LV monogram detailing Thick rubber outsole for max grip and street skater energy Padded collar + cushy insole = elite comfort all day Statement sneaker that turns heads wherever you go Whether you're rocking cargos, jeans, or oversized fits, this pair levels up your style game. Cop ‘em now and walk like you're on a Paris runway... or just flexing on the block. Limited pairs available. Real ones don’t wait.
-  Updated: 2025-10-31T19:55:46Z
+  Updated: 2025-11-05T16:51:02Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -14534,7 +14534,7 @@
   Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4BA7076F-F12B-427A-A97D-135C3555708F.jpg?v=1762241854
   Price: €94.99 EUR
 - [Luxury Montcla-Style Puffer Jacket – Premium Winter Coat for Men & Women](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women): Stay warm in style with our Luxury Montcla-Style Puffer Jacket, inspired by high-end European fashion. This premium winter coat blends luxury design, durability, and comfort — making it perfect for cold weather or everyday streetwear looks. Crafted with high-quality down filling and a water-resistant shell, it keeps you cozy even in freezing conditions. The adjustable hood, secure zipper pockets, and sleek tailored fit give it a fashionable edge that matches perfectly with any outfit. Key Features: 🧥 Ultra-Warm Down Padding – Lightweight yet powerful insulation for maximum warmth 💧 Water & Wind Resistant Fabric – Stay protected in all weather conditions 🎯 Tailored Fit – Combines comfort with a modern streetwear silhouette 🎒 Functional Design – Multiple secure pockets and smooth front zipper 🔥 Stylish Look – Inspired by luxury European outerwear trends Why You’ll Love It: Whether you’re dressing up for the city or keeping it casual outdoors, this premium puffer jacket delivers the perfect balance of fashion and functionality. Built to last, it’s your go-to piece for warmth, comfort, and modern style. 🛒 Available Now at Mldrip.com ✅ Fast shipping worldwide ✅ Limited stock – order before it’s sold out!
-  Updated: 2025-11-04T20:24:49Z
+  Updated: 2025-11-05T13:00:46Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14542,92 +14542,154 @@
   - [Black / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523323729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523356497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / M](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268523389265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527026513)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527059281)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527092049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527124817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527157585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Black / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527190353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_4c079f34-5c97-4c25-acd5-5336df42fea9.jpg?v=1762241778
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527223121)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527255889)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527288657)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527321425)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527354193)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [Blue / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527386961)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_3d0b92c1-1545-4965-abfd-b5cfd6f32ab6.jpg?v=1762244494
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / L](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527419729)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527452497)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / 2XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527485265)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / 3XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527518033)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / 4XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527550801)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
   - [White / 5XL](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women?variant=52268527583569)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
-    Price: €158.99 EUR
+    Price: €159.99 EUR
+- [Luxury Fur Hooded Winter Parka Jacket – Black | MLDRIP](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip): Stay warm and stylish all winter long with the Luxury Fur Hooded Winter Parka Jacket from MLDRIP. This high-quality long puffer coat is built to handle cold weather with comfort and drip. Designed with a detachable fur-trimmed hood, deep front pockets, and a windproof, water-resistant outer shell, it gives you the perfect mix of fashion and warmth. Whether you’re heading out for a casual day, winter trip, or city night, this jacket keeps you cozy and confident in every move. Features: Premium puffer design for max warmth Detachable faux fur hood for flexible style Durable front zipper + button closure Two large flap pockets and one chest pocket Soft inner lining for extra comfort Perfect for cold, snowy, or windy days
+  Updated: 2025-11-05T16:22:44Z
+  Vendor: Mldrip
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+  - [Black / XS](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278480372049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [White / XS](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278480404817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [Black / S](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558589265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [Black / M](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558622033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [Black / L](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558654801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [Black / XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558687569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [Black / 2XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558720337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [Black / 3XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558753105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_866bbe07-b540-42f0-be66-0788b758f653.jpg?v=1762336641
+    Price: €159.99 EUR
+  - [White / S](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558785873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [White / M](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558818641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [White / L](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558851409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [White / XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558884177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [White / 2XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558916945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
+  - [White / 3XL](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip?variant=52278558949713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
+    Price: €159.99 EUR
 
 ## Collections
 
 - [Top](https://mldrip.com/collections/top)
-  Updated: 2025-11-03T12:30:49Z
+  Updated: 2025-11-05T12:29:43Z
   Total Products: 20
 - [Tracksuit Sets](https://mldrip.com/collections/tracksuit-sets)
   Updated: 2025-11-04T12:28:31Z
@@ -14642,11 +14704,11 @@
   Updated: 2025-11-03T16:26:31Z
   Total Products: 38
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-11-04T12:28:31Z
-  Total Products: 118
+  Updated: 2025-11-05T13:00:47Z
+  Total Products: 119
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-11-04T07:31:16Z
-  Total Products: 15
+  Updated: 2025-11-05T13:00:47Z
+  Total Products: 16
 
 ## Blogs
 
