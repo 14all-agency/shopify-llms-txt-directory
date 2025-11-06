@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-11-05T00:00:33.325Z
+- Updated At: 2025-11-06T00:00:41.352Z
 
 ## Products
 
@@ -276,7 +276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6189c825-2915-49ea-b28d-6a21b2309496-Max.webp?v=1760855572
     Price: $24.00 USD
 - [Basic Bae Full Size Ribbed T-Shirt | Comfort & Style](https://np0i0a-pm.myshopify.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt): Shop the Basic Bae Full Size Ribbed Round Neck Short Sleeve T-Shirt for a perfect blend of comfort and style. Available in multiple sizes.
-  Updated: 2025-11-03T19:02:58Z
+  Updated: 2025-11-05T01:23:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -378,7 +378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/85e21cf1-1ccf-4a84-b3e8-82025bcf11af-Max.webp?v=1760855625
     Price: $17.00 USD
   - [Yellow-Green / S](https://np0i0a-pm.myshopify.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=51241663234279)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/31b6427a-5816-4b95-b6f7-faa919c92754-Max.webp?v=1760855645
     Price: $17.00 USD
   - [Yellow-Green / M](https://np0i0a-pm.myshopify.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt?variant=51241663267047)
@@ -2038,7 +2038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f05eb87fc8004a68a8a19b48855eb748-Max.jpg?v=1760865873
     Price: $25.00 USD
 - [Big Star Eco Leather Sneakers - Stylish Comfort](https://np0i0a-pm.myshopify.com/products/big-star-eco-leather-sneakers): Discover Big Star Eco Leather Sneakers, eco-friendly and stylish. Perfect fit with insulated warmth for autumn and winter. Elevate your footwear collection!
-  Updated: 2025-10-26T16:04:30Z
+  Updated: 2025-11-05T15:51:02Z
   Vendor: HTO Apparel
   Product Type: Shoes & Bags/Women's Shoes
   Availability: Available
@@ -3447,7 +3447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61666c86-73f5-433b-aa34-a72a49959bee-Max.webp?v=1760856509
     Price: $34.34 USD
 - [Game Day Football Print Long Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/game-day-football-print-long-sleeve-t-shirt): Shop our Game Day Football Print Long Sleeve T-Shirt for perfect comfort and style on game day. Made from high-quality materials, this tee is a must-have for every fan.
-  Updated: 2025-11-04T20:00:46Z
+  Updated: 2025-11-05T09:00:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3465,7 +3465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
 - [Ruffled Wide Leg Pants - Stylish High Waist Pull-On with Pockets](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop our Ruffled Wide Leg for a chic high waist pant with pockets, perfect for comfort and style. Easy to care for, versatile, and high-quality material.
-  Updated: 2025-11-04T21:00:36Z
+  Updated: 2025-11-05T10:31:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3505,7 +3505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c3710a4f27ad43559bff4a258bcbc17f-Max-Origin.webp?v=1760856581
     Price: $31.16 USD
 - [Devine Ruched Ruffled Mini Dress - Elegant & Comfortable Choice](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Shop the Devine Ruched Ruffled Mini Dress for a chic, stylish look. Designed with ruffled details and a perfect fit, it’s ideal for special occasions and casual outings.
-  Updated: 2025-11-01T03:10:42Z
+  Updated: 2025-11-05T22:21:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3551,7 +3551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Deep Red / L](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533135591)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Deep Red / XL](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533168359)
@@ -4271,7 +4271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/00db4409-43b9-4391-a3d3-10528de7369a-Max-Origin.webp?v=1760857117
     Price: $45.00 USD
 - [Round Neck Top and Pants Set - Comfortable Two-Piece Outfit](https://np0i0a-pm.myshopify.com/products/round-neck-top-and-pants-set): Shop the stylish Round Neck Top and Pants Set. This comfortable two-piece outfit features stretchy fabric and convenient pockets. Perfect for casual wear.
-  Updated: 2025-11-03T12:51:37Z
+  Updated: 2025-11-05T09:01:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4467,7 +4467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fa795d7-0669-488e-a782-bc3c9606a0de-Max-Origin.webp?v=1760857159
     Price: $27.08 USD
 - [Double Take Full Size Texture Flounce Sleeve Top and Drawstring Shorts](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-flounce-sleeve-top-drawstring-shorts-set): Shop the stylish Double Take Full Size Texture Flounce Sleeve Top and Drawstring Shorts Set. Perfect for casual outings, this two-piece set offers comfort and chic design.
-  Updated: 2025-10-28T16:43:08Z
+  Updated: 2025-11-05T01:24:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4649,7 +4649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5a124540-675e-4c36-b5b6-f3e10fc0d7bd-Max.webp?v=1760857250
     Price: $39.00 USD
   - [Royal  Blue / L](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-flounce-sleeve-top-drawstring-shorts-set?variant=51275639029991)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5a124540-675e-4c36-b5b6-f3e10fc0d7bd-Max.webp?v=1760857250
     Price: $39.00 USD
   - [Royal  Blue / XL](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-flounce-sleeve-top-drawstring-shorts-set?variant=51275639062759)
@@ -4657,7 +4657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5a124540-675e-4c36-b5b6-f3e10fc0d7bd-Max.webp?v=1760857250
     Price: $39.00 USD
   - [Royal  Blue / 2XL](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-flounce-sleeve-top-drawstring-shorts-set?variant=51275639095527)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5a124540-675e-4c36-b5b6-f3e10fc0d7bd-Max.webp?v=1760857250
     Price: $39.00 USD
   - [Royal  Blue / 3XL](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-flounce-sleeve-top-drawstring-shorts-set?variant=51275639128295)
@@ -4673,7 +4673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fd7442f-1e2f-4710-a540-25c588d491ad-Max.webp?v=1760857255
     Price: $39.00 USD
 - [Double Take Full Size Texture T-Shirt and Shorts Set](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-set): Shop the Double Take Full Size Texture Short Sleeve T-Shirt and Drawstring Shorts Set. Comfortable, stylish, and perfect for casual outings.
-  Updated: 2025-10-27T17:32:19Z
+  Updated: 2025-11-05T01:24:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4731,7 +4731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2b282add-2881-4bae-a2a7-52fa291f3445-Max.webp?v=1760857354
     Price: $33.00 USD
   - [Dusty Pink / M](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-set?variant=51275641290983)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2b282add-2881-4bae-a2a7-52fa291f3445-Max.webp?v=1760857354
     Price: $33.00 USD
   - [Dusty Pink / L](https://np0i0a-pm.myshopify.com/products/double-take-full-size-texture-set?variant=51275641323751)
@@ -5137,7 +5137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-11-04T06:50:52Z
+  Updated: 2025-11-05T06:42:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5181,7 +5181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3193c73b536849599ce4cff756e1f947-Max-Origin.webp?v=1760857603
     Price: $39.82 USD
 - [Double Take Star Pattern Raw Edge Sweater](https://np0i0a-pm.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Shop our Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater. Enjoy comfort and style with a unique design, made from soft, high-quality materials.
-  Updated: 2025-11-04T22:30:20Z
+  Updated: 2025-11-05T22:51:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5219,7 +5219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3f736671-45a2-460f-9069-a4807e9a9ab6-Max.webp?v=1760857638
     Price: $43.98 USD
   - [Blush Pink / 2XL/3XL](https://np0i0a-pm.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater?variant=51275657380071)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3f736671-45a2-460f-9069-a4807e9a9ab6-Max.webp?v=1760857638
     Price: $43.98 USD
 - [Open Front Kimono Cardigan | Stylish Layering](https://np0i0a-pm.myshopify.com/products/open-front-kimono-cardigan): Discover the Open Front Kimono Cardigan, a sheer and lightweight layering piece perfect for any occasion. Made from 100% polyester, it's easy to care for and stylish.
@@ -5307,7 +5307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/28090fce0ec447f986076195d65c09bf-Max.jpg?v=1760857669
     Price: $46.00 USD
 - [Star Print Washed Drawstring High Waist Wide Leg Jeans - Pretty](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans): Shop stylish Star Print Washed Drawstring High Waist Wide Leg Jeans. Comfortable, trendy, and perfect for any occasion.
-  Updated: 2025-11-04T03:54:37Z
+  Updated: 2025-11-05T03:21:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5317,7 +5317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
   - [Medium / 8](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans?variant=51275666620647)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
   - [Medium / 10](https://np0i0a-pm.myshopify.com/products/star-print-washed-drawstring-high-waist-wide-leg-jeans?variant=51275666653415)
@@ -7927,7 +7927,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16480e61bd7548468d21638f1ef4bc0c-Max-Origin.webp?v=1760858615
     Price: $27.08 USD
 - [Leopard Print Contrast Striped V Neck Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-contrast-striped-v-neck-blouse): Shop our Leopard Print Contrast Striped V Neck Blouse for a chic and stylish look. Made from 100% polyester, it features a unique design and is easy to care for.
-  Updated: 2025-11-04T00:30:53Z
+  Updated: 2025-11-05T06:00:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10285,7 +10285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d956bc9c70694de0af706f82080d20ac-Max-Origin.webp?v=1760860023
     Price: $51.74 USD
 - [Metallic Balloon Sleeve Buttoned High Neck Blouse](https://np0i0a-pm.myshopify.com/products/metallic-balloon-sleeve-high-neck-blouse): Shop our Metallic Balloon Sleeve Buttoned High Neck Loose Blouse for a stylish, comfortable fit. Features unique cutouts and sequins, perfect for any occasion.
-  Updated: 2025-11-04T02:32:52Z
+  Updated: 2025-11-05T17:31:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10373,7 +10373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
-  Updated: 2025-11-04T22:20:43Z
+  Updated: 2025-11-05T21:30:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11293,7 +11293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/552904611e4a419eb1ed5aaf0301c0d2-Max-Origin.webp?v=1760860592
     Price: $55.48 USD
 - [Wide Leg Wash Jeans - Stylish and Comfortable](https://np0i0a-pm.myshopify.com/products/wide-leg-wash-jeans): Shop our Wide Leg Wash Jeans for a perfect blend of comfort and style. Made from high-quality materials, these jeans are perfect for any occasion.
-  Updated: 2025-11-03T15:59:06Z
+  Updated: 2025-11-05T01:59:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11510,7 +11510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8602f459-0c66-4fdc-a9f5-05fc4954b539-Max-Origin.webp?v=1760860774
     Price: $39.98 USD
 - [Heart Mock Neck Long Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/heart-mock-neck-long-sleeve-t-shirt): Shop our Heart Mock Neck Long Sleeve T-Shirt featuring a semi-sheer design and slight stretch for comfort. Perfect for layering or wearing alone.
-  Updated: 2025-10-22T09:40:16Z
+  Updated: 2025-11-05T02:51:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11638,7 +11638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bb83087d-f750-40ad-94d9-89f714c14cef-Max.webp?v=1760860871
     Price: $20.70 USD
 - [Color Block Crew Neck Drop Shoulder Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-crew-neck-drop-shoulder-sweater): Shop the Color Block Crew Neck Drop Shoulder Sweater for a stylish, comfortable fit. Made from a soft blend of viscose, polyester, and polyamide. Easy care instructions.
-  Updated: 2025-11-04T23:21:46Z
+  Updated: 2025-11-05T08:41:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12280,7 +12280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-11-04T19:23:32Z
+  Updated: 2025-11-05T01:41:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13125,7 +13125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/92d4e7cc7fa442da863c335dc91bac07-Max-Origin.webp?v=1760862747
     Price: $34.54 USD
 - [Slit Ruched Top and Wide Leg Pants Set - Stylish Two-Piece Outfit](https://np0i0a-pm.myshopify.com/products/slit-ruched-top-wide-leg-pants-set): Shop the Slit Ruched Top and Wide Leg Pants Set for a chic and modern look. This two-piece set is perfect for any occasion and offers effortless style.
-  Updated: 2025-11-02T02:02:07Z
+  Updated: 2025-11-05T15:38:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13469,7 +13469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c0252d2-3240-4b42-a49f-674efbf0d197-Max-Origin.webp?v=1760863118
     Price: $48.76 USD
 - [Bow Embroidered Sweatshirt and Shorts Set - Comfortable & Stylish](https://np0i0a-pm.myshopify.com/products/bow-embroidered-sweatshirt-shorts-set): Discover the Bow Embroidered Sweatshirt and Shorts Set, a chic two-piece outfit made from a soft polyester-cotton blend. Perfect for casual wear, machine washable, and available in multiple sizes.
-  Updated: 2025-11-04T20:00:45Z
+  Updated: 2025-11-05T17:32:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13491,7 +13491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd87266e-e19b-4633-a2d4-699427892690-Max-Origin.webp?v=1760863137
     Price: $62.08 USD
 - [Shop Contrast Trim Crop Top and Wide Leg Pants Set](https://np0i0a-pm.myshopify.com/products/contrast-trim-crop-top-wide-leg-pants-set): Discover the stylish Contrast Trim Crop Top and Wide Leg Pants Set. Perfect for any occasion, this two-piece set offers comfort and modern design.
-  Updated: 2025-10-31T07:57:05Z
+  Updated: 2025-11-05T18:35:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13555,7 +13555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16a2895acdc841f28c35f2e31ed94a58-Max-Origin.webp?v=1760863246
     Price: $42.42 USD
 - [Ribbed Knit Long Sleeve Top - Stylish Sweater Set for Cozy Days](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Discover the Ribbed Knit Long Sleeve Top and Skirt Sweater Set, combining comfort and chic style with a pleated design, perfect for versatile fashion. Shop now!
-  Updated: 2025-11-04T05:37:57Z
+  Updated: 2025-11-05T12:10:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13577,7 +13577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
 - [Zip Collar Long Sleeve Top | Comfortable Two-Piece Set for Casual Wear](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Discover the stylish Zip Collar Long Sleeve Top and Drawstring Pants Set, offering comfort and versatility. Perfect for lounging or running errands.
-  Updated: 2025-11-04T22:20:38Z
+  Updated: 2025-11-05T23:50:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14101,7 +14101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7fbb8695a3f440beb5d6dc1a980a7f36-Max-Origin.webp?v=1760863637
     Price: $32.48 USD
 - [Star Print Top and Drawstring Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/star-print-top-drawstring-pants-set): Shop the stylish Star Print Top and Drawstring Pants Set, perfect for comfort and casual outings. Soft, stretchy fabric and adjustable fit.
-  Updated: 2025-11-04T21:20:55Z
+  Updated: 2025-11-05T09:01:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14123,7 +14123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-11-04T18:00:42Z
+  Updated: 2025-11-05T21:50:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14145,7 +14145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
-  Updated: 2025-11-04T19:37:25Z
+  Updated: 2025-11-05T22:29:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14797,7 +14797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/927b22548f5f4d2f97a49c54b8037a62-Max-Origin.webp?v=1760863936
     Price: $68.46 USD
 - [Leopard Color Block Striped Knit Top - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/leopard-color-block-striped-knit-top): Shop the Leopard Color Block Striped Knit Top for a trendy look. Made from 100% polyester, slightly stretchy, and easy to care for. Perfect for any occasion.
-  Updated: 2025-11-03T14:57:47Z
+  Updated: 2025-11-05T16:09:58Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14883,7 +14883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/937cbe86825b4ffb9803f123c7bfbc92-Max-Origin.webp?v=1760864003
     Price: $27.26 USD
 - [Shop Fringe Turtleneck Long Sleeve Sweater Dress](https://np0i0a-pm.myshopify.com/products/fringe-turtleneck-long-sleeve-sweater-dress): Discover the stylish Fringe Turtleneck Long Sleeve Sweater Dress. Made with premium materials for comfort and elegance.
-  Updated: 2025-11-04T02:10:17Z
+  Updated: 2025-11-05T16:04:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15342,7 +15342,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/28ed1896996347919607189777f32002-Max-Origin.webp?v=1760864366
     Price: $57.34 USD
 - [Long Sleeve Top and Wide Leg Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-top-wide-leg-pants-set): Discover our Long Sleeve Top and Wide Leg Pants Set, perfect for any occasion. Comfortable and stylish with pockets and adjustable drawstring.
-  Updated: 2025-10-31T21:10:05Z
+  Updated: 2025-11-05T18:35:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15664,7 +15664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
-  Updated: 2025-11-04T22:20:42Z
+  Updated: 2025-11-05T17:31:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15686,7 +15686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
 - [Saved By Grace Letter Embroidery Sweatshirt - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Discover the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt, combining faith-inspired style with comfort, perfect for casual wear and everyday style.
-  Updated: 2025-11-04T17:02:37Z
+  Updated: 2025-11-05T18:50:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15747,7 +15747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/45d12a693f404f6cbd2a42ee0eb73411-Max-Origin.webp?v=1760864832
     Price: $26.78 USD
 - [Textured Waffle Knit Three-Quarter Sleeve T-Shirt - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/textured-waffle-knit-three-quarter-sleeve-t-shirt): Shop the Textured Waffle Knit Three-Quarter Sleeve T-Shirt for ultimate comfort and style. Features include a unique waffle texture, buttoned detail, and a stretchy fit. Perfect for any occasion.
-  Updated: 2025-10-24T19:34:53Z
+  Updated: 2025-11-05T18:12:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -16554,7 +16554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/03ead7c0-a729-4925-8230-cefe45087d6a-Max-Origin.webp?v=1760922635
     Price: $41.40 USD
 - [Children's Ribbed Top and Bow Skirt Set with Headband - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrens-ribbed-top-and-bow-skirt-set-with-headband): Features:Bow Number of pieces:Three-piece Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Waist Sleeve Length Hip 6-9M 12.2 18.9 7.9 15.7 0 0 9-12M 13 19.7 8.3 16.5 0 0 12-18M 13.8 20.5 8.7 17.3 0 0 18-24M 14.6 21.3 9.1 18.1 0 0 2-3 15.4 22 9.4 18.9 0 0 - Pretty Melanin Boutique
-  Updated: 2025-11-04T19:18:04Z
+  Updated: 2025-11-05T01:52:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -16572,11 +16572,11 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35b7db3f-3cae-48f5-a651-25e572914af0-Max-Origin.webp?v=1760922656
     Price: $31.04 USD
   - [Black / 18-24M](https://np0i0a-pm.myshopify.com/products/childrens-ribbed-top-and-bow-skirt-set-with-headband?variant=51487543034087)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35b7db3f-3cae-48f5-a651-25e572914af0-Max-Origin.webp?v=1760922656
     Price: $31.04 USD
   - [Black / 2-3](https://np0i0a-pm.myshopify.com/products/childrens-ribbed-top-and-bow-skirt-set-with-headband?variant=51487543066855)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35b7db3f-3cae-48f5-a651-25e572914af0-Max-Origin.webp?v=1760922656
     Price: $31.04 USD
 - [Children's Cow Graphic Ruffle Trim Bodysuit and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrens-cow-graphic-ruffle-trim-bodysuit-and-pants-set): Features:Ruffled,Bow Number of pieces:Three-piece Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Waist Bottom Length Hip Sleeve Length 0-3M 14.6 18.1 7.5 14.2 15 0 0 3-6M 15.4 18.9 7.9 15 15.7 0 0 6-9M 16.1 19.7 8.3 15.7 16.5 0 0 9-12M 16.9 20.5 8.7 16.5 17.3 0 0 12-18M 17.7 21.3 9.1 17.3 18.1 0 0 - Pretty Melanin Boutique
@@ -17202,7 +17202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761265867
     Price: $36.34 USD
 - [Velvet Ribbed Texture Square Neck Slim Puff Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/velvet-ribbed-texture-square-neck-slim-puff-sleeve-top): Features:Basic style Stretch:No stretch Material composition:90% polyester, 10% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 35.4 25.6 M 25.6 37.8 26 L 26.4 40.2 26.4 XL 27.2 43.3 26.8 - Pretty Melanin Boutique
-  Updated: 2025-11-04T20:41:26Z
+  Updated: 2025-11-05T06:21:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17262,7 +17262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/72232c7fe8b4439282466b70c6416317-Max-Origin.webp?v=1761260946
     Price: $80.76 USD
 - [Leopard Print High Neck Shift Mini Sweater Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-high-neck-shift-mini-sweater-dress): Features:Ribbed Stretch:Slightly stretchy Material composition:52% viscose, 26% polyester, 22% polyamide Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length S 33.5 39.4 21.3 M 34.3 41.7 21.3 L 35 44.1 21.3 XL 35.8 47.2 21.3 - Pretty Melanin Boutique
-  Updated: 2025-11-03T15:10:52Z
+  Updated: 2025-11-05T22:10:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17344,7 +17344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dca3d3a287f444fb4614ccf5b1c061f-Max-Origin.webp?v=1761265883
     Price: $64.10 USD
 - [Zip-Up Top and Flare Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zip-up-top-and-flare-pants-set): Features:Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:94% polyester，6% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length Bottom Length Waist Hip S 18.7 29.5 13.4 25.4 39.4 24.4 33.1 M 19.1 31.1 13.8 25.8 39.7 26 34.6 L 19.7 33.5 14.2 26.2 40 28.3 37 - Pretty Melanin Boutique
-  Updated: 2025-10-24T11:43:32Z
+  Updated: 2025-11-05T18:34:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17476,7 +17476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bce0f9c76a143728e6cff22fdc4ec62-Max-Origin.webp?v=1761261238
     Price: $103.56 USD
 - [Fuzzy Zip Up Cropped Outerwear - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/fuzzy-zip-up-cropped-outerwear): Features:Zipper Thickness:Normal Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 21.5 42.5 19.7 22.4 M 21.9 44.1 20.5 22.8 L 22.4 46.5 21.7 23.2 XL 23 48.8 22.8 23.6 - Pretty Melanin Boutique
-  Updated: 2025-10-24T11:47:25Z
+  Updated: 2025-11-05T20:53:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17913,7 +17913,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8b376193-b605-42ad-9750-4d96d444a77c-Max-Origin.webp?v=1761457702
     Price: $33.86 USD
 - [Turtleneck Long Sleeve Slit Maxi Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/turtleneck-long-sleeve-slit-maxi-dress): Features:Slit,Tied Stretch:Slightly stretchy Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Waist Hip Sleeve Length S 56.5 29.5-33.5 22.8-26.8 31.5-35.4 24.4 M 57.1 31.1-35 24.4-28.3 29.1-37 25 L 57.7 32.7-36.6 26-29.9 34.6-38.6 25.6 - Pretty Melanin Boutique
-  Updated: 2025-11-02T15:43:21Z
+  Updated: 2025-11-05T18:34:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17955,7 +17955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/207a0a1a-6f42-46c7-b42f-cb642e72c5b4-Max-Origin.webp?v=1761457710
     Price: $43.36 USD
 - [Long Sleeve Sweatshirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-sweatshirt-and-pants-set): Features:Drawstring Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 26.8 25.1 42.1 40.6 M 28.7 25.8 44.5 40.9 L 30.7 26.6 46.9 41.3 XL 33.5 27.3 50 41.7 - Pretty Melanin Boutique
-  Updated: 2025-11-04T20:00:43Z
+  Updated: 2025-11-05T20:50:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18065,7 +18065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa1bfbe2-c4bb-4e5f-a74c-97e8c4c3ab3c-Max-Origin.webp?v=1761457877
     Price: $57.78 USD
 - [Childrens's Butterfly Print Hoodie & Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrenss-butterfly-print-hoodie-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip 3T 12.6 13 26 12 24.8 16.5 27.2 4T 13.8 13.8 27.6 13.4 26.8 17.3 28.7 5T 15 14.6 29.1 14.8 28.7 18.1 30.3 6T 16.1 15.4 30.7 16.1 30.7 18.9 31.9 7T 17.3 16.3 32.7 17.7 32.3 19.7 33.9 - Pretty Melanin Boutique
-  Updated: 2025-10-29T03:17:04Z
+  Updated: 2025-11-05T18:35:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18510,7 +18510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ead29d03d498434da15b86049ac1052b-Max-Origin.webp?v=1761699468
     Price: $44.14 USD
 - [SO ME Loose Fit Exposed Seam Slouchy Boucle Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/so-me-loose-fit-exposed-seam-slouchy-boucle-sweater): The loose fit exposed seam slouchy bouclé sweater is a relaxed and stylish choice for cozy days. With its exposed seam detailing, this sweater adds a touch of interest and texture to your outfit. The slouchy silhouette offers a comfortable and laid-back look, perfect for casual wear. Made from soft bouclé fabric, this sweater is warm and comfortable for cooler days. Elevate your relaxation style with this chic and effortless loose fit exposed seam slouchy bouclé sweater. Features:Basic style,Exposed seam Stretch:Slightly stretchy Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length S 34 26.5 M 37 27 L 40 27.5 XL 41 28 - Pretty Melanin Boutique
-  Updated: 2025-11-04T22:33:22Z
+  Updated: 2025-11-05T18:45:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18804,7 +18804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761867243
     Price: $22.34 USD
 - [Full Size Hight Waist Bootcut Pants Plus Size - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/full-size-hight-waist-bootcut-pants-plus-size): Features:Basic style Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 28.7 37.4 40.9 M 30.7 39.4 41.3 L 32.7 41.3 41.7 XL 34.6 43.3 42.1 2XL 36.6 45.3 42.5 3XL 38.6 47.2 42.9 - Pretty Melanin Boutique
-  Updated: 2025-11-02T23:57:24Z
+  Updated: 2025-11-05T03:25:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19178,7 +19178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/755c7e2ae37d4561948ea5e40ce88a50-Max-Origin.webp?v=1761867519
     Price: $42.06 USD
 - [Two-Tone Long Sleeve Bodysuit - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/two-tone-long-sleeve-bodysuit): Features:Basic style Stretch:Highly stretchy Material composition:96% polyester, 4% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length Waist Hip S 27.2 30.3 11.8 25.2 25.2-38.6 28.3 M 27.7 33.1 12.2 25.6 26.8-40.2 29.9 L 28.6 34.3 12.6 26 29.1-42.5 32.3 XL 29.4 36.6 13 26.4 31.5-44.9 34.6 - Pretty Melanin Boutique
-  Updated: 2025-10-31T22:47:05Z
+  Updated: 2025-11-05T09:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19230,7 +19230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6bfae969fdb14b0e8f6163e6db679ecc-Max-Origin.webp?v=1761867576
     Price: $70.28 USD
 - [Lace Trim One Shoulder Bodysuit - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/lace-trim-one-shoulder-bodysuit): Features:Lace Detail,Sheer Stretch:Slightly stretchy Material composition:90% polyester, 10% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Waist Hip S 31.5 24.2 25.4-38.6 26.4 M 33.1 24.6 27-40.2 28.7 L 35.4 25 29.3-42.5 30.3 XL 37.8 25.4 31.7-44.9 32.7 - Pretty Melanin Boutique
-  Updated: 2025-11-04T09:20:38Z
+  Updated: 2025-11-05T02:40:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19290,7 +19290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2dc23717d3714b4498f241903bf3ee42-Max-Origin.webp?v=1761867663
     Price: $44.48 USD
 - [Long Sleeve Turtleneck T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/long-sleeve-turtleneck-t-shirt): Features:Basic style Stretch:Stretchy Material composition:93% viscose, 7% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24.4 M 23.6 34.6 24.8 L 24.4 37 25.2 XL 25.2 40.2 25.6 - Pretty Melanin Boutique
-  Updated: 2025-11-04T09:12:28Z
+  Updated: 2025-11-05T01:01:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -19651,18 +19651,1338 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/28f044a8d372446eaa96e590711e1f99-Max-Origin.webp?v=1762042356
     Price: $44.90 USD
+- [Back Bowknot Long Sleeve Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater): Features:Bow Stretch:Slightly stretchy Material composition:65% acrylic, 35% polyamide Care  - Pretty Melanin Boutique
+  Updated: 2025-11-05T23:30:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/204edd24b9464df88c7400cd04328544-Max-Origin.webp?v=1762321861
+  - [Deep Red / S](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533949862119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/204edd24b9464df88c7400cd04328544-Max-Origin.webp?v=1762321861
+    Price: $52.46 USD
+  - [Deep Red / M](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533949894887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/204edd24b9464df88c7400cd04328544-Max-Origin.webp?v=1762321861
+    Price: $52.46 USD
+  - [Deep Red / L](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533949927655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/204edd24b9464df88c7400cd04328544-Max-Origin.webp?v=1762321861
+    Price: $52.46 USD
+  - [Deep Red / XL](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533949960423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/204edd24b9464df88c7400cd04328544-Max-Origin.webp?v=1762321861
+    Price: $52.46 USD
+  - [Green / S](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533949993191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2107d1189dd4411ebfb32c2c911936f1-Max-Origin.webp?v=1762321869
+    Price: $52.46 USD
+  - [Green / M](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533950025959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2107d1189dd4411ebfb32c2c911936f1-Max-Origin.webp?v=1762321869
+    Price: $52.46 USD
+  - [Green / L](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533950058727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2107d1189dd4411ebfb32c2c911936f1-Max-Origin.webp?v=1762321869
+    Price: $52.46 USD
+  - [Green / XL](https://np0i0a-pm.myshopify.com/products/back-bowknot-long-sleeve-sweater?variant=51533950091495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2107d1189dd4411ebfb32c2c911936f1-Max-Origin.webp?v=1762321869
+    Price: $52.46 USD
+- [Solid Color Long Sleeve Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/solid-color-long-sleeve-blouse): Features:Basic style Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5%  - Pretty Melanin Boutique
+  Updated: 2025-11-05T21:50:36Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef4a1b14-e1a8-4afc-ae2a-d95f58960a0c-Max-Origin.webp?v=1762321928
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/solid-color-long-sleeve-blouse?variant=51533950386407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef4a1b14-e1a8-4afc-ae2a-d95f58960a0c-Max-Origin.webp?v=1762321928
+    Price: $22.88 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/solid-color-long-sleeve-blouse?variant=51533950419175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef4a1b14-e1a8-4afc-ae2a-d95f58960a0c-Max-Origin.webp?v=1762321928
+    Price: $22.88 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/solid-color-long-sleeve-blouse?variant=51533950451943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef4a1b14-e1a8-4afc-ae2a-d95f58960a0c-Max-Origin.webp?v=1762321928
+    Price: $22.88 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/solid-color-long-sleeve-blouse?variant=51533950484711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ef4a1b14-e1a8-4afc-ae2a-d95f58960a0c-Max-Origin.webp?v=1762321928
+    Price: $22.88 USD
+- [Cowl Neck Flare Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top): Features:Ribbed,Asymmetrical Stretch:Slightly stretchy Material composition:90% polyester, 10%  - Pretty Melanin Boutique
+  Updated: 2025-11-05T05:55:37Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3780a0bc-7bfe-4a14-afd8-4a0d33872e36-Max-Origin.webp?v=1762322022
+  - [Gray / S](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954580711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/89122ffc41e94fa78dcd4e8fdeb95a90-Max-Origin.webp?v=1762322046
+    Price: $26.06 USD
+  - [Gray / M](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954613479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/89122ffc41e94fa78dcd4e8fdeb95a90-Max-Origin.webp?v=1762322046
+    Price: $26.06 USD
+  - [Gray / L](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954646247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/89122ffc41e94fa78dcd4e8fdeb95a90-Max-Origin.webp?v=1762322046
+    Price: $26.06 USD
+  - [Gray / XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954679015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/89122ffc41e94fa78dcd4e8fdeb95a90-Max-Origin.webp?v=1762322046
+    Price: $26.06 USD
+  - [Gray / 2XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954711783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/89122ffc41e94fa78dcd4e8fdeb95a90-Max-Origin.webp?v=1762322046
+    Price: $26.06 USD
+  - [Khaki / S](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954744551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/384ea9cb-a26a-432d-9042-dbca6c9076aa-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Khaki / M](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954777319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/384ea9cb-a26a-432d-9042-dbca6c9076aa-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Khaki / L](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954810087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/384ea9cb-a26a-432d-9042-dbca6c9076aa-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Khaki / XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954842855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/384ea9cb-a26a-432d-9042-dbca6c9076aa-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Khaki / 2XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954875623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/384ea9cb-a26a-432d-9042-dbca6c9076aa-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954908391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd8e85e116444d05a9d7db70a2c3ffa5-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954941159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd8e85e116444d05a9d7db70a2c3ffa5-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533954973927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd8e85e116444d05a9d7db70a2c3ffa5-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955006695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd8e85e116444d05a9d7db70a2c3ffa5-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955039463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd8e85e116444d05a9d7db70a2c3ffa5-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Green / S](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955072231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b2ed3d88262048cab161efc63269dd81-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Green / M](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955104999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b2ed3d88262048cab161efc63269dd81-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Green / L](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955137767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b2ed3d88262048cab161efc63269dd81-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Green / XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955170535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b2ed3d88262048cab161efc63269dd81-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+  - [Green / 2XL](https://np0i0a-pm.myshopify.com/products/cowl-neck-flare-sleeve-top?variant=51533955203303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b2ed3d88262048cab161efc63269dd81-Max-Origin.webp?v=1762322022
+    Price: $26.06 USD
+- [Deep V-Neck Long Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top): Features:Basic style,Cutout Stretch:Slightly stretchy Material composition:95% polyester, 5%  - Pretty Melanin Boutique
+  Updated: 2025-11-05T05:57:16Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/407d2516b1f948f185785e04823a32ca-Max-Origin.webp?v=1762322133
+  - [Gray/white / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962346727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a41ed1247464452c8ec6b93f08102557-Max-Origin.webp?v=1762322136
+    Price: $18.76 USD
+  - [Gray/white / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962379495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a41ed1247464452c8ec6b93f08102557-Max-Origin.webp?v=1762322136
+    Price: $18.76 USD
+  - [Gray/white / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962412263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a41ed1247464452c8ec6b93f08102557-Max-Origin.webp?v=1762322136
+    Price: $18.76 USD
+  - [Gray/white / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962445031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a41ed1247464452c8ec6b93f08102557-Max-Origin.webp?v=1762322136
+    Price: $18.76 USD
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962477799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/52763528e5bd47248e8671a6717a7052-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962510567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/52763528e5bd47248e8671a6717a7052-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962543335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/52763528e5bd47248e8671a6717a7052-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962576103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/52763528e5bd47248e8671a6717a7052-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962608871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7b1dde81204143d198500762a58d8534-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962641639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7b1dde81204143d198500762a58d8534-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962674407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7b1dde81204143d198500762a58d8534-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962707175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7b1dde81204143d198500762a58d8534-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Brown / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962739943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5900fce3bd8048cda636185b9eeb8bfc-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Brown / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962772711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5900fce3bd8048cda636185b9eeb8bfc-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Brown / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962805479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5900fce3bd8048cda636185b9eeb8bfc-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Brown / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962838247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5900fce3bd8048cda636185b9eeb8bfc-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Apricot / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962871015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/14544eec4cab46a38054050e56625169-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Apricot / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962903783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/14544eec4cab46a38054050e56625169-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Apricot / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962936551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/14544eec4cab46a38054050e56625169-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Apricot / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533962969319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/14544eec4cab46a38054050e56625169-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Dark Blue / S](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533963002087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ca5425b67fcd404eb4679eadd49dcf59-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Dark Blue / M](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533963034855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ca5425b67fcd404eb4679eadd49dcf59-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Dark Blue / L](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533963067623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ca5425b67fcd404eb4679eadd49dcf59-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+  - [Dark Blue / XL](https://np0i0a-pm.myshopify.com/products/deep-v-neck-long-sleeve-top?variant=51533963100391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ca5425b67fcd404eb4679eadd49dcf59-Max-Origin.webp?v=1762322108
+    Price: $18.76 USD
+- [Button Up Long Sleeve Trench Coat - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat): Features:Buttoned,Pocketed Thickness:Normal Body:Lined Material composition:100% polyester Care  - Pretty Melanin Boutique
+  Updated: 2025-11-05T05:56:26Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+  - [Brown / S](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat?variant=51533965787367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+    Price: $118.74 USD
+  - [Brown / M](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat?variant=51533965820135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+    Price: $118.74 USD
+  - [Brown / L](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat?variant=51533965852903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+    Price: $118.74 USD
+  - [Brown / XL](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat?variant=51533965885671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+    Price: $118.74 USD
+  - [Brown / 2XL](https://np0i0a-pm.myshopify.com/products/button-up-long-sleeve-trench-coat?variant=51533965918439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c4c9961aa29f4672afc72b92c86eb40b-Max-Origin.webp?v=1762322161
+    Price: $118.74 USD
+- [Leopard Collared 3/4 Sleeve Shirt and Loose Pants Two Piece Outfit Set](https://np0i0a-pm.myshopify.com/products/leopard-collared-3-4-sleeve-shirt-and-loose-pants-two-piece-outfit-set): Features:Buttoned,Drawstring,Pocketed Number of pieces:Two-piece Stretch:No stretch Material  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:01:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cdc55b27738478597c4152b534f5a1d-Max-Origin.webp?v=1762322471
+  - [Leopard / S](https://np0i0a-pm.myshopify.com/products/leopard-collared-3-4-sleeve-shirt-and-loose-pants-two-piece-outfit-set?variant=51533982236903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cdc55b27738478597c4152b534f5a1d-Max-Origin.webp?v=1762322471
+    Price: $67.78 USD
+  - [Leopard / M](https://np0i0a-pm.myshopify.com/products/leopard-collared-3-4-sleeve-shirt-and-loose-pants-two-piece-outfit-set?variant=51533982269671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cdc55b27738478597c4152b534f5a1d-Max-Origin.webp?v=1762322471
+    Price: $67.78 USD
+  - [Leopard / L](https://np0i0a-pm.myshopify.com/products/leopard-collared-3-4-sleeve-shirt-and-loose-pants-two-piece-outfit-set?variant=51533982302439)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cdc55b27738478597c4152b534f5a1d-Max-Origin.webp?v=1762322471
+    Price: $67.78 USD
+- [Open Front Leather Jacket & Dress Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set): Features:Basic style Number of pieces:Two-piece Stretch:No stretch Material composition:95%  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:02:13Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+  - [Black / S](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998031079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+    Price: $46.06 USD
+  - [Black / M](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998063847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+    Price: $46.06 USD
+  - [Black / L](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998096615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+    Price: $46.06 USD
+  - [Black / XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998129383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+    Price: $46.06 USD
+  - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998162151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a6cfd3365e4048dc9c7bac26bc80cbb0-Max-Origin.webp?v=1762322515
+    Price: $46.06 USD
+  - [Blue / S](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998194919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/135345f608c64b689fc560fbd074bad3-Max-Origin.webp?v=1762322522
+    Price: $46.06 USD
+  - [Blue / M](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998227687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/135345f608c64b689fc560fbd074bad3-Max-Origin.webp?v=1762322522
+    Price: $46.06 USD
+  - [Blue / L](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998260455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/135345f608c64b689fc560fbd074bad3-Max-Origin.webp?v=1762322522
+    Price: $46.06 USD
+  - [Blue / XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998293223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/135345f608c64b689fc560fbd074bad3-Max-Origin.webp?v=1762322522
+    Price: $46.06 USD
+  - [Blue / 2XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998325991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/135345f608c64b689fc560fbd074bad3-Max-Origin.webp?v=1762322522
+    Price: $46.06 USD
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998358759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1762322527
+    Price: $46.06 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998391527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1762322527
+    Price: $46.06 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998424295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1762322527
+    Price: $46.06 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998457063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1762322527
+    Price: $46.06 USD
+  - [Burgundy / 2XL](https://np0i0a-pm.myshopify.com/products/open-front-leather-jacket-dress-set?variant=51533998489831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1762322527
+    Price: $46.06 USD
+- [Casual Cropped Hoodie and Wide Leg Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1): Features:Drawstring,Pocketed,Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:04:31Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+  - [Ivory / S](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998817511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+    Price: $51.46 USD
+  - [Ivory / M](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998850279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+    Price: $46.98 USD
+  - [Ivory / L](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998883047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+    Price: $46.98 USD
+  - [Ivory / XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998915815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+    Price: $46.98 USD
+  - [Ivory / 2XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998948583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/84b58fe131c24627a2363ec70b4513a3-Max-Origin.webp?v=1762322583
+    Price: $46.98 USD
+  - [Pink / S](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533998981351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/88d4c64c-911c-46b7-b191-ba2df47addb8-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Pink / M](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999014119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/88d4c64c-911c-46b7-b191-ba2df47addb8-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Pink / L](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999046887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/88d4c64c-911c-46b7-b191-ba2df47addb8-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Pink / XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999079655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/88d4c64c-911c-46b7-b191-ba2df47addb8-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Pink / 2XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999112423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/88d4c64c-911c-46b7-b191-ba2df47addb8-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Burgundy / S](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999145191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/60147359205a49fbab39b4954a30f5b2-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Burgundy / M](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999177959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/60147359205a49fbab39b4954a30f5b2-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Burgundy / L](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999210727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/60147359205a49fbab39b4954a30f5b2-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Burgundy / XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999243495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/60147359205a49fbab39b4954a30f5b2-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Burgundy / 2XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999276263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/60147359205a49fbab39b4954a30f5b2-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Brown / S](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999309031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/80881c62368e4e52804272eeb828f58e-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Brown / M](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999341799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/80881c62368e4e52804272eeb828f58e-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Brown / L](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999374567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/80881c62368e4e52804272eeb828f58e-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Brown / XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999407335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/80881c62368e4e52804272eeb828f58e-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+  - [Brown / 2XL](https://np0i0a-pm.myshopify.com/products/casual-cropped-hoodie-and-wide-leg-pants-set-1?variant=51533999440103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/80881c62368e4e52804272eeb828f58e-Max-Origin.webp?v=1762322555
+    Price: $46.98 USD
+- [Solid Color Zip Up Hoodie Drawstring Loose Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/solid-color-zip-up-hoodie-drawstring-loose-pants-set): Features:Basic style,Drawstring,Pocketed Number of pieces:Two-piece Stretch:Slightly stretchy  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:04:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d1bb14cd-2b02-4fc7-a77c-418221ec31c0-Max-Origin.webp?v=1762322606
+  - [Dusty Pink / S](https://np0i0a-pm.myshopify.com/products/solid-color-zip-up-hoodie-drawstring-loose-pants-set?variant=51533999636711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d1bb14cd-2b02-4fc7-a77c-418221ec31c0-Max-Origin.webp?v=1762322606
+    Price: $88.90 USD
+  - [Dusty Pink / M](https://np0i0a-pm.myshopify.com/products/solid-color-zip-up-hoodie-drawstring-loose-pants-set?variant=51533999669479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d1bb14cd-2b02-4fc7-a77c-418221ec31c0-Max-Origin.webp?v=1762322606
+    Price: $88.90 USD
+  - [Dusty Pink / L](https://np0i0a-pm.myshopify.com/products/solid-color-zip-up-hoodie-drawstring-loose-pants-set?variant=51533999702247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d1bb14cd-2b02-4fc7-a77c-418221ec31c0-Max-Origin.webp?v=1762322606
+    Price: $88.90 USD
+  - [Dusty Pink / XL](https://np0i0a-pm.myshopify.com/products/solid-color-zip-up-hoodie-drawstring-loose-pants-set?variant=51533999735015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d1bb14cd-2b02-4fc7-a77c-418221ec31c0-Max-Origin.webp?v=1762322606
+    Price: $88.90 USD
+- [Barrel Crossbody Bag with Top Handle - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/barrel-crossbody-bag-with-top-handle): Bag size:Small Material:PU Leather,Suede Imported Product Measurements (Measurements by inches)  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:08:10Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cac6fd57741b4282b978f0724a29d736-Max-Origin.webp?v=1762322846
+  - [Black / One Size](https://np0i0a-pm.myshopify.com/products/barrel-crossbody-bag-with-top-handle?variant=51534001996007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cac6fd57741b4282b978f0724a29d736-Max-Origin.webp?v=1762322846
+    Price: $29.64 USD
+  - [Green / One Size](https://np0i0a-pm.myshopify.com/products/barrel-crossbody-bag-with-top-handle?variant=51534002028775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/25264662ba414d71988c2580cf877127-Max-Origin.webp?v=1762322879
+    Price: $29.64 USD
+- [Vintage Barrel Crossbody Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/vintage-barrel-crossbody-bag): Bag size:Small Material:PU Leather,Suede Imported Product Measurements (Measurements by inches)  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:08:32Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/6509be26b915451cbde9a68b66759980-Max-Origin.webp?v=1762322911
+  Price: $22.94 USD
+- [Two-Tone Bucket Crossbody Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/two-tone-bucket-crossbody-bag): Bag size:Mini Material:PU Leather Imported Product Measurements (Measurements by inches) &amp; Size  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:12:59Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5471eede9b614bd3a44ee4c85c9df4f9-Max-Origin.webp?v=1762323116
+  - [Khaki / onesize](https://np0i0a-pm.myshopify.com/products/two-tone-bucket-crossbody-bag?variant=51534008451303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5471eede9b614bd3a44ee4c85c9df4f9-Max-Origin.webp?v=1762323116
+    Price: $16.26 USD
+  - [Green / onesize](https://np0i0a-pm.myshopify.com/products/two-tone-bucket-crossbody-bag?variant=51534008484071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1d002d7e-f391-46f9-8f4f-d3ca5c394219-Max-Origin.webp?v=1762323147
+    Price: $16.26 USD
+- [Leather Textured Shoulder Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leather-textured-shoulder-bag): Bag size:Medium Material:PU Leather Imported Product Measurements (Measurements by inches) &amp;  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:15:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3e0c41e5-91e2-4968-b887-c7e04e9cd9ba-Max-Origin.webp?v=1762323259
+  - [Black / One Size](https://np0i0a-pm.myshopify.com/products/leather-textured-shoulder-bag?variant=51534009041127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/642b595c-3676-43f0-b418-4fb82b3cad07-Max-Origin.webp?v=1762323284
+    Price: $34.66 USD
+  - [Beige / One Size](https://np0i0a-pm.myshopify.com/products/leather-textured-shoulder-bag?variant=51534009073895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/023adab0-1883-4c2f-970f-a8364a7d001a-Max-Origin.webp?v=1762323286
+    Price: $34.66 USD
+  - [Brown / One Size](https://np0i0a-pm.myshopify.com/products/leather-textured-shoulder-bag?variant=51534009106663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/18e64b57-c61d-42c5-9f0f-354ce61832eb-Max-Origin.webp?v=1762323259
+    Price: $34.66 USD
+- [Letter Adjustable Strap Bucket Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/letter-adjustable-strap-bucket-bag): Bag size:Mini Material:PU Leather Imported Product Measurements (Measurements by inches) &amp; Size  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:15:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/57c91edb-a113-4ac3-bced-b95a0b3a266d-Max-Origin.webp?v=1762323309
+  Price: $29.64 USD
+- [Leather Chelsea Boots with Side Zipper - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper): Fit:True to size, order usual size. Includes:Box not included Heel height:Mid heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:16:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+  - [Brown / 36](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016479463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 37](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016512231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 38](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016544999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 39](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016577767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 40](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016610535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 41](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016643303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 42](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016676071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+  - [Brown / 43](https://np0i0a-pm.myshopify.com/products/leather-chelsea-boots-with-side-zipper?variant=51534016708839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/48ff04ec-37b7-4a9a-b5ae-14f5132e828a-Max-Origin.webp?v=1762323382
+    Price: $55.52 USD
+- [Mesh Point Toe Stiletto Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:26:31Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cf02f466f5d14146822474339255ae39-Max-Origin.webp?v=1762323714
+  - [Black / 36](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038401255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 37](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038434023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 38](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038466791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 39](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038499559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 40](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038532327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 41](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038565095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 42](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038597863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Black / 43](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038630631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b5d5a9a8029546cc944abf7b8faa70fb-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 36](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038663399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 37](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038696167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 38](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038728935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 39](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038761703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 40](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038794471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 41](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038827239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 42](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038860007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Dark Brown / 43](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038892775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/97a8ffb00cfa4c43a9de0941ac5184e3-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 36](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038925543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 37](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038958311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 38](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534038991079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 39](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039023847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 40](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039056615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 41](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039089383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 42](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039122151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Red / 43](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039154919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/473a880defd04957860e562558f97bf5-Max-Origin.webp?v=1762323714
+    Price: $49.02 USD
+  - [Ivory / 36](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039187687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 37](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039220455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 38](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039253223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 39](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039285991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 40](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039318759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 41](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039351527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 42](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039384295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+  - [Ivory / 43](https://np0i0a-pm.myshopify.com/products/mesh-point-toe-stiletto-boots?variant=51534039417063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1cc2bdcf-c342-4551-8477-290fc853e568-Max-Origin.webp?v=1762323741
+    Price: $49.02 USD
+- [Point Toe Block Heels Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:25:53Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+  - [Black / 36](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040203495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 37](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040236263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 38](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040269031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 39](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040301799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 40](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040334567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 41](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040367335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 42](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040400103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Black / 43](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040432871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/112f20c9-9f3a-4d01-bd7f-2a937361ee75-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 36](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040465639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 37](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040498407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 38](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040531175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 39](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040563943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 40](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040596711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 41](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040629479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 42](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040662247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Brown / 43](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040695015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/566ec4d0-d61f-4943-b891-cafe64811f4d-Max-Origin.webp?v=1762323905
+    Price: $69.88 USD
+  - [Beige / 36](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040727783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 37](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040760551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 38](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040793319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 39](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040826087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 40](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040858855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 41](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040891623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 42](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040924391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+  - [Beige / 43](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-1?variant=51534040957159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5c5c2496-5f48-4e32-ac4c-93fc024f777a-Max-Origin.webp?v=1762323936
+    Price: $69.88 USD
+- [Point Toe Block Heels Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:26:12Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+  - [Dark Brown / 36](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041186535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 37](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041219303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 38](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041252071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 39](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041284839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 40](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041317607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 41](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041350375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 42](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041383143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Dark Brown / 43](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041415911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b8f9ea85-dca8-4da8-b52d-bf0afe3b6ba3-Max-Origin.webp?v=1762323968
+    Price: $77.62 USD
+  - [Black / 36](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041448679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 37](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041481447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 38](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041514215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 39](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041546983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 40](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041579751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 41](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041612519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 42](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041645287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+  - [Black / 43](https://np0i0a-pm.myshopify.com/products/point-toe-block-heels-boots-2?variant=51534041678055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/070aed99-d07d-42cc-9e41-6c3f5fc8e646-Max-Origin.webp?v=1762323964
+    Price: $77.62 USD
+- [Lace Up Round Toe Loafers - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:27:47Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+  - [Apricot / 36](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042104039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 37](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042136807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 38](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042169575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 39](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042202343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 40](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042235111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 41](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042267879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 42](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042300647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Apricot / 43](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042333415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/35259443147440899416d3378c385ced-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Red / 36](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042366183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 37](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042398951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 38](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042431719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 39](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042464487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 40](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042497255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 41](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042530023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 42](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042562791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Red / 43](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042595559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5b62e4fb906d468db5fdc5dbfd87e22e-Max-Origin.webp?v=1762324064
+    Price: $41.36 USD
+  - [Yellow / 36](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042628327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 37](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042661095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 38](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042693863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 39](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042726631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 40](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042759399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 41](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042792167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 42](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042824935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Yellow / 43](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042857703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f04b7e7ee93f4e8b970533bbdf83e89d-Max-Origin.webp?v=1762324036
+    Price: $41.36 USD
+  - [Brown / 36](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042890471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 37](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042923239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 38](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042956007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 39](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534042988775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 40](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534043021543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 41](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534043054311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 42](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534043087079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+  - [Brown / 43](https://np0i0a-pm.myshopify.com/products/lace-up-round-toe-loafers?variant=51534043119847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a099e5539ddc4f9dbb49b3127267c544-Max-Origin.webp?v=1762324061
+    Price: $41.36 USD
+- [David Jones Canvas Tote Handbag with Contrast Leather Handles - Pretty](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles): This sophisticated structured canvas handbag features premium brown canvas material with contrasting  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:28:26Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd2ecc5a-2eb4-4b50-bb4f-7763c37d2096-Max-Origin.webp?v=1762324079
+  - [BITTER CHOCOLATE / One Size](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles?variant=51534051344615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd2ecc5a-2eb4-4b50-bb4f-7763c37d2096-Max-Origin.webp?v=1762324079
+    Price: $51.54 USD
+  - [OLIVE BRANCH / One Size](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles?variant=51534051377383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/09e8f9df-ed3c-4e8b-b926-63ee8dbe8657-Max-Origin.webp?v=1762324079
+    Price: $51.54 USD
+  - [OATMEAL BEIGE / One Size](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles?variant=51534051410151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/d8613432-355d-4c57-94a2-d9257dd68cc6-Max-Origin.webp?v=1762324080
+    Price: $51.54 USD
+  - [BLACK / One Size](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles?variant=51534051442919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/642cc1ab-c0b3-441d-8b07-2cd6f6787eb8-Max-Origin.webp?v=1762324079
+    Price: $51.54 USD
+  - [COCOA BROWN / One Size](https://np0i0a-pm.myshopify.com/products/david-jones-canvas-tote-handbag-with-contrast-leather-handles?variant=51534051475687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/5946ed2b-b5bf-4f1d-bd97-540cc4ca2099-Max-Origin.webp?v=1762324079
+    Price: $51.54 USD
+- [Round Toe Block Heels Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:30:24Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/75fae8d9-447c-4310-a1f3-1da4584df795-Max-Origin.webp?v=1762324154
+  - [Black / 35](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064255207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 36](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064287975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 37](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064320743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 38](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064353511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 39](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064386279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 40](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064419047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 41](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064451815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 42](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064484583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Black / 43](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064517351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/afb32826-7321-4786-93d6-f86a3b93bb9a-Max-Origin.webp?v=1762324175
+    Price: $54.30 USD
+  - [Gray / 35](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064550119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 36](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064582887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 37](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064615655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 38](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064648423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 39](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064681191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 40](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064713959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 41](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064746727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 42](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064779495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Gray / 43](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064812263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8bfc321c-2620-46d5-9061-bedf661f1659-Max-Origin.webp?v=1762324167
+    Price: $54.30 USD
+  - [Brown / 35](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064845031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 36](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064877799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 37](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064910567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 38](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064943335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 39](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534064976103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 40](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534065008871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 41](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534065041639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 42](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534065074407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+  - [Brown / 43](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-1?variant=51534065107175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/cecc2bb8-eb62-4551-b176-0fe56b2965a4-Max-Origin.webp?v=1762324159
+    Price: $54.30 USD
+- [Round Toe Block Heels Pumps - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:30:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/177f300326b94a95997d7bc43c83807a-Max-Origin.webp?v=1762324213
+  - [Gold / 35](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075822311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 36](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075855079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 37](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075887847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 38](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075920615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 39](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075953383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 40](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534075986151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 41](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534076018919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 42](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534076051687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+  - [Gold / 43](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-pumps?variant=51534076084455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/aa0793d481194a089aa5360fd48fce69-Max-Origin.webp?v=1762324190
+    Price: $36.90 USD
+- [Round Toe Block Heels Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:30:53Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b3edcc6a4ba94549ab310a996ef2ad5e-Max-Origin.webp?v=1762324243
+  - [Tan / 35](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087454951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 36](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087487719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 37](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087520487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 38](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087553255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 39](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087586023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 40](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087618791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 41](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087651559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+  - [Tan / 42](https://np0i0a-pm.myshopify.com/products/round-toe-block-heels-boots-2?variant=51534087684327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bd87555d01e74db5b47f55b95d1e527c-Max-Origin.webp?v=1762324243
+    Price: $64.68 USD
+- [Round Toe Platform Boots - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1): Fit:True to size, order usual size. Includes:Box not included Heel height:Mid heels Material:PU  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:34:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/95639696-3929-4c4a-b771-65e43f34b62d-Max-Origin.webp?v=1762324437
+  - [Black / 36](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091321575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 37](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091354343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 38](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091387111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 39](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091419879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 40](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091452647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 41](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091485415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+  - [Black / 42](https://np0i0a-pm.myshopify.com/products/round-toe-platform-boots-1?variant=51534091518183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9168bf56-0328-4d67-aeb2-f3ed544db0f0-Max-Origin.webp?v=1762324437
+    Price: $51.74 USD
+- [Cable Knit Raglan Sleeve Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/cable-knit-raglan-sleeve-sweater): Features:Decorative Button Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:38:54Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8ad1f0e-9e6d-4f24-813d-e48ba940398e-Max-Origin.webp?v=1762324705
+  - [White / S](https://np0i0a-pm.myshopify.com/products/cable-knit-raglan-sleeve-sweater?variant=51534093058279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8ad1f0e-9e6d-4f24-813d-e48ba940398e-Max-Origin.webp?v=1762324705
+    Price: $39.06 USD
+  - [White / M](https://np0i0a-pm.myshopify.com/products/cable-knit-raglan-sleeve-sweater?variant=51534093091047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8ad1f0e-9e6d-4f24-813d-e48ba940398e-Max-Origin.webp?v=1762324705
+    Price: $39.06 USD
+  - [White / L](https://np0i0a-pm.myshopify.com/products/cable-knit-raglan-sleeve-sweater?variant=51534093123815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8ad1f0e-9e6d-4f24-813d-e48ba940398e-Max-Origin.webp?v=1762324705
+    Price: $39.06 USD
+  - [White / XL](https://np0i0a-pm.myshopify.com/products/cable-knit-raglan-sleeve-sweater?variant=51534093156583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8ad1f0e-9e6d-4f24-813d-e48ba940398e-Max-Origin.webp?v=1762324705
+    Price: $39.06 USD
+- [Printed Tie-Waist Flounce Sleeve Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/printed-tie-waist-flounce-sleeve-blouse): Features:Tied,Ruffled Stretch:No stretch Material composition:100% polyester Care  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:40:58Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1682e68a8b5b4e8299768c09e838e25d-Max-Origin.webp?v=1762324822
+  - [Khaki / S](https://np0i0a-pm.myshopify.com/products/printed-tie-waist-flounce-sleeve-blouse?variant=51534094860519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1682e68a8b5b4e8299768c09e838e25d-Max-Origin.webp?v=1762324822
+    Price: $33.48 USD
+  - [Khaki / M](https://np0i0a-pm.myshopify.com/products/printed-tie-waist-flounce-sleeve-blouse?variant=51534094893287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1682e68a8b5b4e8299768c09e838e25d-Max-Origin.webp?v=1762324822
+    Price: $33.48 USD
+  - [Khaki / L](https://np0i0a-pm.myshopify.com/products/printed-tie-waist-flounce-sleeve-blouse?variant=51534094926055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1682e68a8b5b4e8299768c09e838e25d-Max-Origin.webp?v=1762324822
+    Price: $33.48 USD
+  - [Khaki / XL](https://np0i0a-pm.myshopify.com/products/printed-tie-waist-flounce-sleeve-blouse?variant=51534094958823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1682e68a8b5b4e8299768c09e838e25d-Max-Origin.webp?v=1762324822
+    Price: $33.48 USD
+- [V-Neck Striped Trim Cable Knit Sweater Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/v-neck-striped-trim-cable-knit-sweater-dress): Features:Basic style Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care  - Pretty Melanin Boutique
+  Updated: 2025-11-05T06:44:02Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/21335629-8aa7-4ce9-982b-d6f4c98b880c-Max-Origin.webp?v=1762324955
+  - [Beige White / S](https://np0i0a-pm.myshopify.com/products/v-neck-striped-trim-cable-knit-sweater-dress?variant=51534096761063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/21335629-8aa7-4ce9-982b-d6f4c98b880c-Max-Origin.webp?v=1762324955
+    Price: $52.88 USD
+  - [Beige White / M](https://np0i0a-pm.myshopify.com/products/v-neck-striped-trim-cable-knit-sweater-dress?variant=51534096793831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/21335629-8aa7-4ce9-982b-d6f4c98b880c-Max-Origin.webp?v=1762324955
+    Price: $52.88 USD
+  - [Beige White / L](https://np0i0a-pm.myshopify.com/products/v-neck-striped-trim-cable-knit-sweater-dress?variant=51534096826599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/21335629-8aa7-4ce9-982b-d6f4c98b880c-Max-Origin.webp?v=1762324955
+    Price: $52.88 USD
 
 ## Collections
 
 - [Home page - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/frontpage): - Pretty Melanin Boutique
-  Updated: 2025-11-02T00:11:22Z
-  Total Products: 384
+  Updated: 2025-11-05T06:42:07Z
+  Total Products: 410
 - [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
-  Updated: 2025-11-03T02:59:32Z
-  Total Products: 389
+  Updated: 2025-11-05T06:43:49Z
+  Total Products: 416
 - [All Products (ChatGPT-AI Product Description) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - Pretty Melanin Boutique
-  Updated: 2025-11-02T00:12:39Z
-  Total Products: 402
+  Updated: 2025-11-05T06:42:36Z
+  Total Products: 429
 
 ## Blogs
 
