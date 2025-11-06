@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-08-22T01:54:20Z
-- Updated At: 2025-11-05T00:00:28.620Z
+- Updated At: 2025-11-06T00:00:26.456Z
 
 ## Products
 
@@ -951,15 +951,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4466545.webp?v=1762081819
   Price: 28,00 $ CAD
-- [Rockcloud Natural Blue Sand Stone Dowsing Pendulum Chakra Crystal Point Pendant Pendulum for Divination Copper Wicca Balancing Meditation Kit - Enchantement Seraphélya](https://enchantementseraphelya.com/products/rockcloud-natural-blue-sand-stone-dowsing-pendulum-chakra-crystal-point-pendant-pendulum-for-divination-copper-wicca-balancing-meditation-kit): Buy Rockcloud Natural Blue Sand Stone Dowsing Pendulum Chakra Crystal Point Pendant Pendulum for Divination Copper Wicca Balancing Meditation Kit for only CA$110.39 at Enchantement Seraphélya!
-  Updated: 2025-11-04T11:54:56Z
+- [Pendule Divinatoire en Pierre Naturelle de Sable Bleu](https://enchantementseraphelya.com/products/rockcloud-natural-blue-sand-stone-dowsing-pendule-chakra): Pendule divinatoire en pierre naturelle de sable bleu avec fil de cuivre - outil spirituel pour radiesthésie, chakras, méditation et rituels wicca. Seraphélya
+  Updated: 2025-11-05T01:57:24Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4427500.webp?v=1762081864
   Price: 35,37 $ CAD
-- [Jovivi Natural Fluorite Crystal Pendulums for Divination Dowsing 6 Facted Crown Hexagonal Pointed Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Pendant Wiccan Witchcraft - Enchantement Seraphélya](https://enchantementseraphelya.com/products/jovivi-natural-fluorite-crystal-pendulums-for-divination-dowsing-6-facted-crown-hexagonal-pointed-resin-chip-stones-healing-reiki-chakra-gemstone-pendulum-pendant-wiccan-witchcraft): Buy Jovivi Natural Fluorite Crystal Pendulums for Divination Dowsing 6 Facted Crown Hexagonal Pointed Resin Chip Stones Healing Reiki Chakra Gemstone Pendulum Pendant Wiccan Witchcraft for only CA$97.55 at Enchantement Seraphélya!
-  Updated: 2025-11-04T11:54:42Z
+- [Pendule en Cristal Naturel de Fluorite – Guérison](https://enchantementseraphelya.com/products/jovivi-natural-fluorite-crystal-pendule-divination-dowsing): Pendule divinatoire en fluorite naturelle - outil de radiesthésie, reiki et guérison énergétique. Pointe hexagonale à six facettes, idéal pour divination.
+  Updated: 2025-11-05T22:48:17Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -986,74 +986,74 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8532674.webp?v=1762081833
   Price: 22,78 $ CAD
-- [English Tarot Deck for Fortune Telling and Divination - Enchantement Seraphélya](https://enchantementseraphelya.com/products/english-tarot-deck-for-fortune-telling-and-divination): Buy English Tarot Deck for Fortune Telling and Divination for only CA$40.49 at Enchantement Seraphélya!
-  Updated: 2025-11-04T11:53:07Z
+- [Tarot en Anglais – Divination et Lecture de la Fortune](https://enchantementseraphelya.com/products/english-tarot-deck-for-fortune-telling-and-divination): Jeu de tarot en anglais - 78 cartes illustrées pour la divination, la méditation et la découverte spirituelle. Idéal pour débutants et praticiens. Seraphélya
+  Updated: 2025-11-05T02:49:27Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8254841.webp?v=1762081784
   Price: 13,49 $ CAD
-- [Crystal Energy Pyramid Tower - Enchantement Seraphélya](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower): Buy Crystal Energy Pyramid Tower for only CA$41.19 at Enchantement Seraphélya!
-  Updated: 2025-11-04T11:52:16Z
+- [Pyramide d’Énergie en Cristal – Guérison et d’Harmonie](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide): Pyramide d'énergie en cristal - décoration moderne en résine époxy. Élégante, spirituelle et minimaliste. Idéale pour la maison, le bureau ou comme cadeau.
+  Updated: 2025-11-05T02:40:26Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4996920.webp?v=1762081816
-  - [A / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438856435)
+  - [A / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983438856435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4996920.webp?v=1762081816
     Price: 20,16 $ CAD
-  - [A / 5cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438889203)
+  - [A / 5cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983438889203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3660450.webp?v=1762081816
     Price: 14,35 $ CAD
-  - [C / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438921971)
+  - [C / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983438921971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6453043.webp?v=1762081818
     Price: 19,85 $ CAD
-  - [B / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438954739)
+  - [B / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983438954739)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5744425.webp?v=1762081817
     Price: 19,85 $ CAD
-  - [D / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983438987507)
+  - [D / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983438987507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2874932.webp?v=1762081817
     Price: 19,85 $ CAD
-  - [E / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439020275)
+  - [E / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439020275)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2765036.webp?v=1762081818
     Price: 19,85 $ CAD
-  - [I / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439053043)
+  - [I / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439053043)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9889866.webp?v=1762081856
     Price: 19,85 $ CAD
-  - [F / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439085811)
+  - [F / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439085811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6324957.webp?v=1762081817
     Price: 19,85 $ CAD
-  - [H / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439118579)
+  - [H / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439118579)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2048057.webp?v=1762081817
     Price: 19,85 $ CAD
-  - [G / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439151347)
+  - [G / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439151347)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7711321.webp?v=1762081817
     Price: 19,85 $ CAD
-  - [J / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower?variant=47983439184115)
+  - [J / 6cm](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide?variant=47983439184115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1883491.webp?v=1762081856
     Price: 19,85 $ CAD
-- [Pyramid Decoration Natural Crystal Gravel Energy Tower - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower): Buy Pyramid Decoration Natural Crystal Gravel Energy Tower for only CA$54.56 at Enchantement Seraphélya!
-  Updated: 2025-11-04T11:49:55Z
+- [Pyramide en Cristal Naturel avec Pierres de Gravelle](https://enchantementseraphelya.com/products/pyramide-decoration-natural-crystal-gravel-energy-tower): Pyramide en cristal naturel avec pierres de gravelle - orgonite spirituelle d'harmonie et de guérison. Idéale pour la méditation, le feng shui, l'autel.
+  Updated: 2025-11-05T02:31:34Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3984603.webp?v=1762081793
-  - [Purple green / 1PC](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower?variant=47983439249651)
+  - [Purple green / 1PC](https://enchantementseraphelya.com/products/pyramide-decoration-natural-crystal-gravel-energy-tower?variant=47983439249651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3984603.webp?v=1762081793
     Price: 27,37 $ CAD
-  - [Green tree / 1PC](https://enchantementseraphelya.com/products/pyramid-decoration-natural-crystal-gravel-energy-tower?variant=47983439282419)
+  - [Green tree / 1PC](https://enchantementseraphelya.com/products/pyramide-decoration-natural-crystal-gravel-energy-tower?variant=47983439282419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4271819.webp?v=1762081793
     Price: 27,61 $ CAD
@@ -1444,63 +1444,63 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4846071.jpg?v=1762081910
   Price: 12,75 $ CAD
 - [Éclat de Vénus - Amour, Beauté et Magnétisme Féminin](https://enchantementseraphelya.com/products/eclat-de-venus-amour-beaute-magnetisme-feminin): Huile magique Éclat de Vénus - amour, beauté et attraction. Infusée de rose, jasmin et ylang-ylang pour révéler ton magnétisme et ton rayonnement intérieur.
-  Updated: 2025-11-04T15:55:26Z
+  Updated: 2025-11-05T06:04:14Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8818212.jpg?v=1762081908
   Price: 15,75 $ CAD
 - [Artémis - Intuition, Force Féminine et Protection Lunaire](https://enchantementseraphelya.com/products/artemis-huile-magique-intuition-force-protection-lunaire): Huile magique Artémis - intuition, protection et force féminine. Infusée de lavande, cyprès et camomille pour guidance lunaire et sérénité spirituelle.
-  Updated: 2025-11-04T20:04:21Z
+  Updated: 2025-11-05T12:00:28Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7769663.jpg?v=1762081910
   Price: 15,75 $ CAD
 - [Mur de Sel - Purification, Protection et Nettoyage](https://enchantementseraphelya.com/products/mur-de-sel-huile-magique-protection-purification-nettoyage): Huile magique Mur de Sel - purification et protection. Infusée de citron, romarin et arbre à thé pour nettoyer l'aura et éloigner les énergies négatives.
-  Updated: 2025-11-04T16:02:02Z
+  Updated: 2025-11-05T08:12:17Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7671862.jpg?v=1762081907
   Price: 12,75 $ CAD
 - [Voix des Ténèbres - Pouvoir, Lucidité et Magie de l'Ombre](https://enchantementseraphelya.com/products/voix-des-tenebres-huile-magique-pouvoir-lucidite-magie-ombre): Huile magique Voix des Ténèbres - pouvoir, lucidité et protection occulte. Infusée de patchouli, poivre noir et cyprès pour canaliser la magie de l'ombre.
-  Updated: 2025-11-04T16:05:14Z
+  Updated: 2025-11-05T07:46:13Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1535934.jpg?v=1762081859
   Price: 12,75 $ CAD
 - [Verrou de Plomb - Protection, Scellement et Défense](https://enchantementseraphelya.com/products/verrou-de-plomb-huile-magique-protection-scellement-defense): Huile magique Verrou de Plomb - protection occulte et scellement énergétique. Composée de cèdre, myrrhe et patchouli pour force et défense spirituelle.
-  Updated: 2025-11-04T15:49:02Z
+  Updated: 2025-11-05T06:58:04Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8962226.jpg?v=1762081907
   Price: 12,75 $ CAD
 - [Hécate - Pouvoir Occulte, Sagesse et Protection Nocturne](https://enchantementseraphelya.com/products/hecate-huile-magique-pouvoir-occulte-protection-nocturne): Huile magique Hécate - pouvoir, sagesse et protection. Infusée de myrrhe, cyprès, patchouli et huile d'olive sombre pour rituels lunaires et occultes.
-  Updated: 2025-11-04T20:19:03Z
+  Updated: 2025-11-05T17:08:03Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3447552.jpg?v=1762081833
   Price: 15,75 $ CAD
 - [Cœur Enchanté - Amour, Guérison et Harmonie Émotionnelle](https://enchantementseraphelya.com/products/coeur-enchante-huile-magique-amour-guerison-harmonie): Huile magique Coeur Enchanté - amour et guérison émotionnelle. Infusée de rose, lavande, camomille et myrrhe pour paix intérieure et harmonie spirituelle.
-  Updated: 2025-11-04T20:11:00Z
+  Updated: 2025-11-05T20:49:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6726064.jpg?v=1762081826
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3014682.png?v=1762375798
   Price: 0,00 $ CAD
 - [Sceau du Néant - Bannissement, transformation et Pouvoir](https://enchantementseraphelya.com/products/sceau-du-neant-huile-magique-pouvoir-bannissement-occulte): Huile magique Sceau du Néant - pour le bannissement, la protection et la renaissance. Dissout les énergies négatives avec cèdre, cyprès et oliban. Serpahélya
-  Updated: 2025-11-04T15:06:33Z
+  Updated: 2025-11-05T08:01:05Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5185921.jpg?v=1762081865
   Price: 12,75 $ CAD
 - [Sang des Ombres - Pouvoir, Transformation et Magie Interdite](https://enchantementseraphelya.com/products/sang-des-ombres-pouvoir-transformation-magie-interdite): Huile magique Sang des Ombres - pouvoir, transformation et protection. Infusée de patchouli, clou de girofle et myrrhe pour activer la magie occulte.
-  Updated: 2025-11-04T15:52:09Z
+  Updated: 2025-11-05T07:33:12Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1514,28 +1514,28 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7513768.jpg?v=1762081826
   Price: 12,75 $ CAD
 - [Morrigan - Pouvoir, protection et victoire des ombres](https://enchantementseraphelya.com/products/morrigan-huiles-magiques-pouvoir-protection-victoire): Huile magique de Morrigan - protection, courage et victoire spirituelle. Invoque la déesse guerrière pour affirmer ton pouvoir intérieur. Seraphélya
-  Updated: 2025-11-04T14:54:58Z
+  Updated: 2025-11-05T06:09:44Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1656879.jpg?v=1762081909
   Price: 15,75 $ CAD
 - [Souffle de Guérison - Régénération, Purification et Harmonie](https://enchantementseraphelya.com/products/souffle-de-guerison-huile-magique-regeneration-purification): Huile magique Souffle de Guérison - purifie et régénère corps et esprit. Infusée de lavande, eucalyptus et oliban pour paix et renouveau spirituel.
-  Updated: 2025-11-04T15:17:36Z
+  Updated: 2025-11-05T07:50:38Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2451848.jpg?v=1762081910
   Price: 12,75 $ CAD
 - [Soleil Doré - Énergie, Joie et Prospérité Rayonnante](https://enchantementseraphelya.com/products/soleil-dore-huile-magique-prosperite-joie-energie): Huile magique Soleil Doré - énergie, joie et prospérité. Infusée de cannelle, gingembre, orange douce et huile de tournesol pour lumière et succès
-  Updated: 2025-11-04T19:53:57Z
+  Updated: 2025-11-05T12:23:57Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6901932.jpg?v=1762081822
   Price: 12,75 $ CAD
 - [Miroir Noir - Protection, Réflexion et Magie de l'Ombre](https://enchantementseraphelya.com/products/miroir-noir-huile-magique-protection-reflexion-magie-ombre): Huile magique Miroir Noir - protection et clarté spirituelle. Infusée de patchouli, myrrhe et sauge pour introspection et transmutation énergétique. Seraphélya
-  Updated: 2025-11-04T20:22:08Z
+  Updated: 2025-11-05T14:34:36Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1554,7 +1554,7 @@
   Availability: Available
   Price: 15,75 $ CAD
 - [Couronne Noire - Pouvoir, Protection et Maîtrise Spirituelle](https://enchantementseraphelya.com/products/couronne-noire-pouvoir-protection-maitrise-spirituelle): Huile magique Couronne Noire - pouvoir, protection et ancrage. Infusée de sauge, patchouli et gingembre pour force intérieure et maîtrise spirituelle.
-  Updated: 2025-11-04T20:07:35Z
+  Updated: 2025-11-05T16:39:46Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1568,49 +1568,49 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3506071.jpg?v=1762081908
   Price: 12,75 $ CAD
 - [Abondance Éternelle - Prospérité, Succès et Richesse](https://enchantementseraphelya.com/products/abondance-eternelle-huile-magique-prosperite-succes-richesse): Huile magique Abondance Éternelle - attire richesse, succès et prospérité. Active la fréquence de l'abondance avec patchouli, cèdre et orange douce. Seraphélya
-  Updated: 2025-11-04T15:02:34Z
+  Updated: 2025-11-05T11:23:29Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5482403.jpg?v=1762081769
   Price: 12,75 $ CAD
 - [Fortune Sacrée - Abondance, Chance et Réussite Divine](https://enchantementseraphelya.com/products/fortune-sacree-huile-magique-abondance-chance-reussite): Huile magique Fortune Sacrée - attire chance, richesse et succès. Infusée de basilic, citron, gingembre et huile de tournesol pour prospérité divine.
-  Updated: 2025-11-04T15:58:43Z
+  Updated: 2025-11-05T20:49:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6021784.jpg?v=1762081781
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1044265.png?v=1762375797
   Price: 12,75 $ CAD
 - [Cascade de Prospérité - Abondance, Chance - Seraphélya](https://enchantementseraphelya.com/products/cascade-de-prosperite-huile-magique-abondance-chance): Huile magique Cascade de Prospérité - attire chance, richesse et succès. Infusée de citron, menthe verte et orange douce pour activer le flux d'abondance.
-  Updated: 2025-11-04T19:41:00Z
+  Updated: 2025-11-05T13:31:43Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8579132.jpg?v=1762081831
   Price: 12,75 $ CAD
 - [Feu du désir - Passion, Attraction et Énergie Sensuelle](https://enchantementseraphelya.com/products/feu-du-desir-huile-magique-passion-attraction-sensuelle): Huile magique Feu du Désir - passion, amour et attraction. Infusée de cannelle, gingembre, ylang-ylang et rose pour éveiller le feu sacré du désir. Seraphélya
-  Updated: 2025-11-04T19:57:31Z
+  Updated: 2025-11-05T20:50:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2257770.jpg?v=1762081822
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7556728.png?v=1762375799
   Price: 12,75 $ CAD
 - [Baiser d’Aphrodite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/baiser-d-aphrodite): Buy Baiser d’Aphrodite for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-04T14:42:02Z
+  Updated: 2025-11-05T22:04:49Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6887220.jpg?v=1762081910
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3757431.png?v=1762375799
   Price: 15,75 $ CAD
 - [Samhain - Portail des Ancêtres, Protection et Transformation](https://enchantementseraphelya.com/products/samhain-huile-magique-portail-ancetres-protection): Huile magique Samhain - connexion aux ancêtres et transformation. Infusée de myrrhe, cyprès, clou de girofle et huile d'olive sombre pour les rituels du voile.
-  Updated: 2025-11-04T19:48:59Z
+  Updated: 2025-11-05T13:22:40Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2362576.jpg?v=1762081798
   Price: 15,75 $ CAD
 - [Porte des richesses - Abondance, Succès et Ouverture](https://enchantementseraphelya.com/products/porte-des-richesses-huile-magique-succes-abondance): Huile magique Porte des Richesses - attire chance et abondance. Infusée de cannelle, citron et menthe verte pour ouvrir les voies du succès et de la prospérité.
-  Updated: 2025-11-04T19:25:53Z
+  Updated: 2025-11-05T09:26:48Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1624,53 +1624,53 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-7741656.jpg?v=1762081772
   Price: 12,75 $ CAD
 - [Trésor Mystique - Attraction, Chance et Manifestation Sacrée](https://enchantementseraphelya.com/products/tresor-mystique-huile-magique-attraction-chance): Huile magique Trésor Mystique - attire chance, richesse et succès. Pour ouvrir les portes de l'abondance. Seraphélya
-  Updated: 2025-11-04T15:22:10Z
+  Updated: 2025-11-05T20:49:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8405214.jpg?v=1762081910
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4486273.png?v=1762375798
   Price: 12,75 $ CAD
 - [Porte du Savoir - Intuition, Clairvoyance et Éveil](https://enchantementseraphelya.com/products/porte-du-savoir-huile-magique-intuition-clairvoyance-eveil): Huile magique Porte du Savoir - ouvre l'intuition et la clarté mentale. Infusée de romarin, menthe verte et sauge pour éveiller la conscience spirituelle.
-  Updated: 2025-11-04T16:08:48Z
+  Updated: 2025-11-05T07:15:39Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6200064.jpg?v=1762081809
   Price: 12,75 $ CAD
 - [Étoile de Prospérité - Enchantement Seraphélya](https://enchantementseraphelya.com/products/etoile-de-prosperite): Buy Étoile de Prospérité for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-04T15:43:05Z
+  Updated: 2025-11-05T20:50:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2454517.jpg?v=1762081910
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3974717.jpg?v=1762375798
   Price: 12,75 $ CAD
 - [Plume de Sagesse - Clarté, Guidance et Illumination](https://enchantementseraphelya.com/products/plume-de-sagesse-huile-magique-clarte-guidance-spirituelle): Huile magique Plume de Sagesse - favorise clarté, intuition et guidance. Infusée de lavande, oliban et citron pour éveiller la conscience spirituelle.
-  Updated: 2025-11-04T15:10:05Z
+  Updated: 2025-11-05T06:15:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1974365.jpg?v=1762081862
   Price: 12,75 $ CAD
 - [Nuit d’Aphrodite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/nuit-d-aphrodite): Buy Nuit d’Aphrodite for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-04T14:46:54Z
+  Updated: 2025-11-05T20:49:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1348715.jpg?v=1762081910
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8620357.png?v=1762375798
   Price: 15,75 $ CAD
 - [Abîme Protecteur - Bouclier Énergétique et Force](https://enchantementseraphelya.com/products/abime-protecteur-huile-magique-bouclier-force-energetique): Huile magique Abîme Protecteur - bouclier énergétique et purification. Protège des énergies sombres avec cyprès, clou de girofle et oliban sacré. Seraphélya
-  Updated: 2025-11-04T15:13:58Z
+  Updated: 2025-11-05T07:56:32Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3468134.jpg?v=1762081908
   Price: 12,75 $ CAD
 - [Vision Lunaire - Intuition, Rêves et Connexion Spirituelle](https://enchantementseraphelya.com/products/vision-lunaire-huile-magique-intuition-reves-connexion): Huile magique Vision Lunaire - favorise intuition, rêves et clairvoyance. Infusée de lavande, oliban, sauge pour guidance spirituelle et connexion lunaire.
-  Updated: 2025-11-04T19:36:28Z
+  Updated: 2025-11-05T20:50:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8739338.jpg?v=1762081811
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9645714.png?v=1762375799
   Price: 12,75 $ CAD
 - [Élixir Érotique - Enchantement Seraphélya](https://enchantementseraphelya.com/products/elixir-erotique): Buy Élixir Érotique for only CA$0.00 at Enchantement Seraphélya!
   Updated: 2025-11-04T10:32:32Z
@@ -1680,7 +1680,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1845491.jpg?v=1762081798
   Price: 12,75 $ CAD
 - [Émeraude des Richesses - Prospérité, Expansion et Réussite](https://enchantementseraphelya.com/products/emeraude-des-richesses-huile-magique-prosperite-reussite): Huile magique Émeraude des Richesses - attire prospérité, chance et succès. Infusée de patchouli, menthe verte, citron et huile de tournesol solaire. Seraphélya
-  Updated: 2025-11-04T15:45:37Z
+  Updated: 2025-11-05T06:33:45Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1708,11 +1708,11 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9074458.jpg?v=1762081772
   Price: 15,75 $ CAD
 - [Oeil d’Améthyste - Intuition, Sérénité et Protection](https://enchantementseraphelya.com/products/oeil-d-amethyste-huile-magique-intuition-serenite-protection): Huile magique Oeil d'Améthyste - intuition et sérénité. Infusée de rose, camomille et oliban pour apaiser l'esprit et renforcer la protection spirituelle.
-  Updated: 2025-11-04T19:45:23Z
+  Updated: 2025-11-05T20:49:59Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1675102.jpg?v=1762081908
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5928200.png?v=1762375798
   Price: 12,75 $ CAD
 - [Pluie d’Or - Enchantement Seraphélya](https://enchantementseraphelya.com/products/pluie-d-or): Buy Pluie d’Or for only CA$0.00 at Enchantement Seraphélya!
   Updated: 2025-11-04T10:36:00Z
@@ -1721,41 +1721,103 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2200879.jpg?v=1762081907
   Price: 12,75 $ CAD
+- [Thym - Enchantement Seraphélya](https://enchantementseraphelya.com/products/thym): Buy Thym for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:26:47Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Cannelle - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cannelle): Buy Cannelle for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:25:14Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5438571.jpg?v=1762210103
+  Price: 0,00 $ CAD
+- [Basilic - Enchantement Seraphélya](https://enchantementseraphelya.com/products/basilic): Buy Basilic for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:27:48Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Gingembre - Enchantement Seraphélya](https://enchantementseraphelya.com/products/gingembre): Buy Gingembre for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:27:14Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-5177877.jpg?v=1762210103
+  Price: 0,00 $ CAD
+- [Lavande - Enchantement Seraphélya](https://enchantementseraphelya.com/products/lavande): Buy Lavande for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:28:27Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2913244.jpg?v=1762210103
+  Price: 0,00 $ CAD
+- [Camomille - Enchantement Seraphélya](https://enchantementseraphelya.com/products/camomille): Buy Camomille for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:26:19Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8470665.jpg?v=1762210103
+  Price: 0,00 $ CAD
+- [Anis étoilé - Enchantement Seraphélya](https://enchantementseraphelya.com/products/anis-etoile): Buy Anis étoilé for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:25:48Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-2920109.jpg?v=1762210103
+  Price: 0,00 $ CAD
+- [Romarin - Enchantement Seraphélya](https://enchantementseraphelya.com/products/romarin): Buy Romarin for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:24:43Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Laurier - Enchantement Seraphélya](https://enchantementseraphelya.com/products/laurier): Buy Laurier for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T00:24:08Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-3817993.jpg?v=1762210103
+  Price: 0,00 $ CAD
 - [Brigid - Guérison, Créativité et Flamme de Renaissance](https://enchantementseraphelya.com/products/brigid-guerison-huile-magique-creativite-renaissance): Huile magique de Brigid - lumière, guérison et inspiration divine. Réveille la flamme intérieure de la déesse du feu sacré et de la créativité. Seraphélya
-  Updated: 2025-11-04T14:58:34Z
+  Updated: 2025-11-05T10:57:09Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Price: 15,75 $ CAD
 - [Esprit Clair - Clarté Mentale, Concentration - Seraphélya](https://enchantementseraphelya.com/products/esprit-clair-clarte-mentale-concentration-energie-positive): Huile magique Esprit Clair - clarté, concentration et énergie positive. Infusée de romarin, citron et menthe verte pour purifier l'esprit.
-  Updated: 2025-11-04T19:29:59Z
+  Updated: 2025-11-05T17:17:40Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Price: 12,75 $ CAD
 - [Pentacle Sacré - Protection, Équilibre et Harmonie](https://enchantementseraphelya.com/products/pentacle-sacre-huile-magique-protection-harmonie-sacre): Huile magique Pentacle Sacré - protection et harmonie spirituelle. Infusée de romarin, menthe verte et oliban pour purifier et équilibrer les énergies sacrées.
-  Updated: 2025-11-04T19:32:28Z
+  Updated: 2025-11-05T10:23:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Price: 12,75 $ CAD
 - [Lien de l’Ombre - Protection, Pouvoir et Connexion Occulte](https://enchantementseraphelya.com/products/lien-de-l-ombre-huile-magique-protection-pouvoir-connexion): Huile magique Lien de l'Ombre - protection et pouvoir spirituel. Infusée de cyprès, cèdre et poivre noir pour ancrage, courage et connexion occulte.
-  Updated: 2025-11-04T20:00:40Z
+  Updated: 2025-11-05T20:50:00Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6263004.png?v=1762375799
   Price: 12,75 $ CAD
 - [Renaissance Sacrée - Purification, Guérison, Transformation](https://enchantementseraphelya.com/products/renaissance-sacree-huile-magique-purification-guerison): Huile magique Renaissance sacrée - purification et renouveau. Infusée de myrrhe, romarin et oliban pour transformation et guérison spirituelle. Seraphélya
-  Updated: 2025-11-04T20:14:39Z
+  Updated: 2025-11-05T15:24:26Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
   Price: 12,75 $ CAD
 - [Clairvoyance Astrale - Enchantement Seraphélya](https://enchantementseraphelya.com/products/clairvoyance-astrale): Buy Clairvoyance Astrale for only CA$12.75 at Enchantement Seraphélya!
-  Updated: 2025-11-04T10:28:43Z
+  Updated: 2025-11-05T20:49:58Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-9669656.png?v=1762375797
   Price: 12,75 $ CAD
 - [Étoile de Réussite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/etoile-de-reussite): Buy Étoile de Réussite for only CA$12.75 at Enchantement Seraphélya!
   Updated: 2025-11-04T10:30:45Z
@@ -1799,8 +1861,158 @@
   Product Type: huiles magiques
   Availability: Available
   Price: 15,75 $ CAD
-- [Force du dragon](https://enchantementseraphelya.com/products/force-du-dragon)
-  Updated: 2025-11-04T23:59:16Z
+- [Force du dragon - Enchantement Seraphélya](https://enchantementseraphelya.com/products/force-du-dragon): Buy Force du dragon for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:24:38Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Éveil Lunaire d’Imbolc - Enchantement Seraphélya](https://enchantementseraphelya.com/products/eveil-lunaire-d-imbolc): Buy Éveil Lunaire d’Imbolc for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T17:19:00Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Clair de Lune d’Artémis - Enchantement Seraphélya](https://enchantementseraphelya.com/products/clair-de-lune-d-artemis): Buy Clair de Lune d’Artémis for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T15:39:43Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Séduction Ardente - Enchantement Seraphélya](https://enchantementseraphelya.com/products/seduction-ardente): Buy Séduction Ardente for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T19:53:25Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Sortilège de Réussite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/sortilege-de-reussite): Buy Sortilège de Réussite for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T15:33:02Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Aura de Victoire - Enchantement Seraphélya](https://enchantementseraphelya.com/products/aura-de-victoire): Buy Aura de Victoire for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T20:03:17Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Marie-Moi - Enchantement Seraphélya](https://enchantementseraphelya.com/products/marie-moi): Buy Marie-Moi for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T19:20:28Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Clé de la Réussite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cle-de-la-reussite): Buy Clé de la Réussite for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T15:45:40Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Flamme de Vie - Enchantement Seraphélya](https://enchantementseraphelya.com/products/flamme-de-vie): Buy Flamme de Vie for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T19:58:45Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Sortilège d’Attirance - Enchantement Seraphélya](https://enchantementseraphelya.com/products/sortilege-d-attirance): Buy Sortilège d’Attirance for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:55:40Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Bouquet d’Équinoxe d’Ostara - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bouquet-d-equinoxe-d-ostara): Buy Bouquet d’Équinoxe d’Ostara for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T17:19:02Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Renaissance Mystique - Enchantement Seraphélya](https://enchantementseraphelya.com/products/renaissance-mystique): Buy Renaissance Mystique for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T19:03:00Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Bouclier Éthéré - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bouclier-ethere): Buy Bouclier Éthéré for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T22:57:36Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Clé des Carrefours (Hécate) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cle-des-carrefours-hecate-1): Buy Clé des Carrefours (Hécate) for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T10:52:34Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Passion Retrouvée - Enchantement Seraphélya](https://enchantementseraphelya.com/products/passion-retrouvee): Buy Passion Retrouvée for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:04:46Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Voile Purificateur - Enchantement Seraphélya](https://enchantementseraphelya.com/products/voile-purificateur): Buy Voile Purificateur for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:52:42Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Cœur Fidèle - Enchantement Seraphélya](https://enchantementseraphelya.com/products/coeur-fidele): Buy Cœur Fidèle for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T15:26:34Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Éveil Intuitif - Enchantement Seraphélya](https://enchantementseraphelya.com/products/eveil-intuitif): Buy Éveil Intuitif for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T10:52:38Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Magnétisme Irrésistible - Enchantement Seraphélya](https://enchantementseraphelya.com/products/magnetisme-irresistible): Buy Magnétisme Irrésistible for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T10:52:38Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Flamme du Leader - Enchantement Seraphélya](https://enchantementseraphelya.com/products/flamme-du-leader): Buy Flamme du Leader for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:16:20Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Porte du Succès - Enchantement Seraphélya](https://enchantementseraphelya.com/products/porte-du-succes): Buy Porte du Succès for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T10:52:40Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Bouclier de Nuit - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bouclier-de-nuit): Buy Bouclier de Nuit for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T10:52:41Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Clé de Prospérité - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cle-de-prosperite): Buy Clé de Prospérité for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T22:08:39Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Clé de Mercure - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cle-de-mercure): Buy Clé de Mercure for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T16:47:20Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Sortilège du Cœur d’Aphrodite - Enchantement Seraphélya](https://enchantementseraphelya.com/products/sortilege-du-coeur-d-aphrodite): Buy Sortilège du Cœur d’Aphrodite for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T17:29:45Z
+  Vendor: Enchantement Seraphélya 
+  Product Type: 
+  Availability: Available
+  Price: 0,00 $ CAD
+- [Patchouli - Enchantement Seraphélya](https://enchantementseraphelya.com/products/patchouli): Buy Patchouli for only CA$0.00 at Enchantement Seraphélya!
+  Updated: 2025-11-05T18:52:52Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -1827,11 +2039,11 @@
   Updated: 2025-10-31T05:44:02Z
   Total Products: 0
 - [Herbes traditionnelles - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/herbes-traditionnelles): Herbes traditionnelles - Enchantement Seraphélya
-  Updated: 2025-11-03T01:09:46Z
-  Total Products: 22
+  Updated: 2025-11-05T00:23:47Z
+  Total Products: 23
 - [Herbes rituelles & magiques - Sorcellerie naturelle | Seraphélya - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/herbes-rituelles-magiques): Les herbes rituelles Seraphélya sont cueillies et préparées avec intention, selon les cycles lunaires et les traditions anciennes de la sorcellerie naturelle. Chaque mélange est une porte vers un royaume d'énergie : purification, protection, amour, prospérité, intuition ou transformation. Lavande, romarin, camomille, sauge, rose, ortie ou cannelle... chaque plante possède son esprit et son pouvoir. Utilise-les pour consacrer un autel, préparer un bain rituel, créer un encens, ou charger une bougie magique. Nos herbes magiques sont vendues seules ou en kits rituels pour chaque sabbat ou intention. Elles sont idéales pour les sorcières modernes, les pratiquant-es wiccans, et toutes les âmes qui honorent la Terre. Éveille ton pouvoir avec la magie végétale. Chaque feuille est un message, chaque parfum un sortilège. Herbes rituelles, herbes magiques, plantes de sorcellerie, herbes de purification, herbes de protection, herbes païennes, sorcellerie naturelle, magie verte. Herbes magiques, encens et mélanges sacrés pour tes rituels. Purifie, protège et manifeste tes intentions avec la nature enchantée de Seraphélya.
-  Updated: 2025-11-04T23:58:49Z
-  Total Products: 1
+  Updated: 2025-11-05T00:22:03Z
+  Total Products: 25
 - [Huiles rituelles magiques - Élixirs sacrés](https://enchantementseraphelya.com/collections/huiles-rituelles-magiques): Découvrez nos huiles magiques artisanales consacrées selon les intentions : amour, protection, abondance et guérison. Des élixirs sacrés signés Seraphélya
   Updated: 2025-11-04T20:22:08Z
   Total Products: 56
@@ -1905,13 +2117,13 @@
   Updated: 2025-11-04T12:27:58Z
   Total Products: 20
 - [Divination et Spiritisme – Oracles, Pendules, Communication](https://enchantementseraphelya.com/collections/divination-et-spiritisme-oracles-pendules-communication): Divination et Spiritisme – Oracles, Pendules, cartes, boules de cristal et accessoires pour communiquer avec l’Invisible et éveiller l'intuition
-  Updated: 2025-11-04T12:34:04Z
+  Updated: 2025-11-05T02:04:45Z
   Total Products: 28
 - [Accessoires et Outils Magiques – Enchantement Seraphélya](https://enchantementseraphelya.com/collections/accessoires-outils-magiques-rituel-pouvoir-spirituel): Découvrez nos accessoires et outils magiques : athamé, chaudrons, baguettes, cloches et pentacles pour enrichir vos rituels sacrés
   Updated: 2025-11-04T12:19:27Z
   Total Products: 20
 - [Tarots et Oracles - Enchantement Seraphélya](https://enchantementseraphelya.com/collections/tarots-et-oracles): Explorez nos tarots et oracles mystiques pour éveiller votre intuition, recevoir des guidances spirituelles et révéler les messages de l'univers.
-  Updated: 2025-11-04T12:34:32Z
+  Updated: 2025-11-05T02:49:27Z
   Total Products: 31
 - [Mortier et pilon - Accessoires de sorcellerie | Seraphélya](https://enchantementseraphelya.com/collections/mortier-et-pilon-broyer-melanges-magiques-seraphelya): Découvrez mortier et pilon rituels pour sorcières et praticiens. En pierre, bois ou fonte, ils servent à broyer les herbes, cristaux et encens. Seraphélya
   Updated: 2025-11-04T11:44:40Z
@@ -1920,7 +2132,7 @@
   Updated: 2025-11-04T12:08:16Z
   Total Products: 6
 - [Pyramides - énergétiques - cristaux & symboles de pouvoir](https://enchantementseraphelya.com/collections/pyramides-energetique-cristaux-protection-energie-seraphelya): Découvrez nos pyramides énergétiques en cristaux et pierres naturelles. Véritables amplificateurs spirituels, elles équilibrent les chakras, purifient l'aura.
-  Updated: 2025-11-04T11:59:06Z
+  Updated: 2025-11-05T02:40:26Z
   Total Products: 9
 - [Les Intentions Magiques - manifestation, Énergies](https://enchantementseraphelya.com/collections/les-intentions-magiques-manifestation-energie-spirituelle): Découvrez la Collection Les Intentions magiques : amour, abondance, protection, guérison et divination. Des rituels magiques pour manifester vos désirs.
   Updated: 2025-11-02T20:20:31Z
