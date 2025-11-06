@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-06T00:11:31.667Z
+- Updated At: 2025-11-06T00:12:03.233Z
 
 ## Products
 
@@ -6817,14 +6817,6 @@
 
 ## Policies
 
-- [Privacy Policy](https://meepleworx.fun/policies/privacy-policy)
-  Updated: 2025-09-29T20:32:34+02:00
-- [Shipping Policy](https://meepleworx.fun/policies/shipping-policy)
-  Updated: 2025-09-29T19:50:57+02:00
-- [Refund Policy](https://meepleworx.fun/policies/refund-policy)
-  Updated: 2025-09-28T00:44:26+02:00
-- [Terms of Service](https://meepleworx.fun/policies/terms-of-service)
-  Updated: 2025-09-30T22:26:36+02:00
 - [Contact Information](https://meepleworx.fun/policies/contact-information)
   Updated: 2025-09-30T22:26:07+02:00
 
