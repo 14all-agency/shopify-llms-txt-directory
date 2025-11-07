@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-08-22T01:54:20Z
-- Updated At: 2025-11-06T00:00:26.456Z
+- Updated At: 2025-11-07T00:00:29.451Z
 
 ## Products
 
@@ -952,7 +952,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-4466545.webp?v=1762081819
   Price: 28,00 $ CAD
 - [Pendule Divinatoire en Pierre Naturelle de Sable Bleu](https://enchantementseraphelya.com/products/rockcloud-natural-blue-sand-stone-dowsing-pendule-chakra): Pendule divinatoire en pierre naturelle de sable bleu avec fil de cuivre - outil spirituel pour radiesthésie, chakras, méditation et rituels wicca. Seraphélya
-  Updated: 2025-11-05T01:57:24Z
+  Updated: 2025-11-06T00:03:07Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -987,14 +987,14 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8532674.webp?v=1762081833
   Price: 22,78 $ CAD
 - [Tarot en Anglais – Divination et Lecture de la Fortune](https://enchantementseraphelya.com/products/english-tarot-deck-for-fortune-telling-and-divination): Jeu de tarot en anglais - 78 cartes illustrées pour la divination, la méditation et la découverte spirituelle. Idéal pour débutants et praticiens. Seraphélya
-  Updated: 2025-11-05T02:49:27Z
+  Updated: 2025-11-06T00:16:24Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-8254841.webp?v=1762081784
   Price: 13,49 $ CAD
 - [Pyramide d’Énergie en Cristal – Guérison et d’Harmonie](https://enchantementseraphelya.com/products/crystal-energy-pyramid-tower-pyramide): Pyramide d'énergie en cristal - décoration moderne en résine époxy. Élégante, spirituelle et minimaliste. Idéale pour la maison, le bureau ou comme cadeau.
-  Updated: 2025-11-05T02:40:26Z
+  Updated: 2025-11-06T01:36:32Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -1044,7 +1044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-1883491.webp?v=1762081856
     Price: 19,85 $ CAD
 - [Pyramide en Cristal Naturel avec Pierres de Gravelle](https://enchantementseraphelya.com/products/pyramide-decoration-natural-crystal-gravel-energy-tower): Pyramide en cristal naturel avec pierres de gravelle - orgonite spirituelle d'harmonie et de guérison. Idéale pour la méditation, le feng shui, l'autel.
-  Updated: 2025-11-05T02:31:34Z
+  Updated: 2025-11-06T04:55:03Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -1638,7 +1638,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/2995/6083/files/bougie-beautevenusienne-6200064.jpg?v=1762081809
   Price: 12,75 $ CAD
 - [Étoile de Prospérité - Enchantement Seraphélya](https://enchantementseraphelya.com/products/etoile-de-prosperite): Buy Étoile de Prospérité for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T20:50:00Z
+  Updated: 2025-11-06T04:00:21Z
   Vendor: Enchantement Seraphélya 
   Product Type: huiles magiques
   Availability: Available
@@ -1940,7 +1940,7 @@
   Availability: Available
   Price: 0,00 $ CAD
 - [Clé des Carrefours (Hécate) - Enchantement Seraphélya](https://enchantementseraphelya.com/products/cle-des-carrefours-hecate-1): Buy Clé des Carrefours (Hécate) for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T10:52:34Z
+  Updated: 2025-11-06T00:57:53Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -1964,13 +1964,13 @@
   Availability: Available
   Price: 0,00 $ CAD
 - [Éveil Intuitif - Enchantement Seraphélya](https://enchantementseraphelya.com/products/eveil-intuitif): Buy Éveil Intuitif for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T10:52:38Z
+  Updated: 2025-11-06T00:43:18Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Price: 0,00 $ CAD
 - [Magnétisme Irrésistible - Enchantement Seraphélya](https://enchantementseraphelya.com/products/magnetisme-irresistible): Buy Magnétisme Irrésistible for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T10:52:38Z
+  Updated: 2025-11-06T00:05:11Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
@@ -1982,13 +1982,13 @@
   Availability: Available
   Price: 0,00 $ CAD
 - [Porte du Succès - Enchantement Seraphélya](https://enchantementseraphelya.com/products/porte-du-succes): Buy Porte du Succès for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T10:52:40Z
+  Updated: 2025-11-06T02:22:36Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
   Price: 0,00 $ CAD
 - [Bouclier de Nuit - Enchantement Seraphélya](https://enchantementseraphelya.com/products/bouclier-de-nuit): Buy Bouclier de Nuit for only CA$0.00 at Enchantement Seraphélya!
-  Updated: 2025-11-05T10:52:41Z
+  Updated: 2025-11-06T00:12:35Z
   Vendor: Enchantement Seraphélya 
   Product Type: 
   Availability: Available
