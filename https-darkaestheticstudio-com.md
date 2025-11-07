@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-06T00:00:23.703Z
+- Updated At: 2025-11-07T00:00:26.029Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1083,6 +1083,9 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
   Updated: 2025-10-31T09:51:43Z
   Total Products: 17
+- [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
+  Updated: 2025-11-06T18:07:28Z
+  Total Products: 52
 
 ## Store Pages
 
