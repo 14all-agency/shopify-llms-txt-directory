@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-11-06T00:00:52.385Z
+- Updated At: 2025-11-07T00:00:25.408Z
 
 ## Products
 
@@ -28,8 +28,8 @@
   - [20 lb. Bag - $8.71/lb](https://roastikacoffee.com/products/kenya-select-plus-aa?variant=47000659984628)
     Availability: Available
     Price: $174.20 USD
-- [Green Coffee Sampler Pack- 4 Origins](https://roastikacoffee.com/products/green-coffee-sampler-pack-4-origins): Select up to 4 origins green coffee for sampler packs (1 lb each origin) . Our green coffee beans are carefully selected and sourced from the finest coffee farms around the world. With this sampler pack, you can discover your favorite coffee flavor. Celebrated for their unmatched taste among coffee  ...
-  Updated: 2025-10-24T19:14:35Z
+- [Green Coffee Sampler Pack – 4 Origins Premium Arabica Beans | ROASTIKA](https://roastikacoffee.com/products/green-coffee-sampler-pack-4-origins): Experience Roastika's Green Coffee Sampler Pack with 4 unique origins. Perfect for home roasting or professional brewing with premium Arabica beans.
+  Updated: 2025-11-06T03:48:24Z
   Vendor: My Store
   Product Type: 
   Availability: Available
