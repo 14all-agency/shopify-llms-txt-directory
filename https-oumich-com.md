@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-05T00:00:50.599Z
+- Updated At: 2025-11-07T00:00:27.428Z
 
 ## Products
 
@@ -923,44 +923,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/buying-hot-jewelery-exquisite-jewelry-luxury-three-rows-of-high-grade-294.webp?v=1752278191
     Price: € 10,95 EUR
-- [Sunflower Jewelry Set Necklace Ring Stud Earrings Bridal Jewelry - BRO Webshop](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry): Product information: Material: Copper Processing technology: diamond Style: Women's Set combination: earrings + necklace + bracelet Circumference: 51cm (inclusive)-80cm (inclusive) Chain style: water wave chain Packing list: Jewelry set*1 (necklace ring earrings) - BRO Webshop
-  Updated: 2025-10-08T19:51:19Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-317.webp?v=1752278215
-  - [Red set size6](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561803132)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-red-size6-987.webp?v=1752278237
-    Price: € 12,95 EUR
-  - [Red set size7](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561835900)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-red-size7-819.webp?v=1752278241
-    Price: € 12,95 EUR
-  - [Red set size8](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561868668)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-red-size8-561.webp?v=1752278246
-    Price: € 12,95 EUR
-  - [Red set size9](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561901436)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-red-size9-530.webp?v=1752278251
-    Price: € 12,95 EUR
-  - [Blue set size6](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561934204)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-blue-size6-957.webp?v=1752278254
-    Price: € 12,95 EUR
-  - [Blue set size7](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561966972)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-blue-size7-431.webp?v=1752278258
-    Price: € 12,95 EUR
-  - [Blue set size8](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445561999740)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-blue-size8-717.webp?v=1752278263
-    Price: € 12,95 EUR
-  - [Blue set size9](https://oumich.com/products/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-jewelry?variant=55445562032508)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sunflower-jewelry-set-necklace-ring-stud-earrings-bridal-blue-size9-858.webp?v=1752278267
-    Price: € 12,95 EUR
 - [Bracelets & Bangles Men Stainless Steel Leather Bracelets Braided Rope Magnetic Clasp Male Bangles Jewelry New - BRO Webshop](https://oumich.com/products/bracelets-bangles-men-stainless-steel-leather-bracelets-braided-rope-magnetic-clasp-male-bangles-jewelry-new): Bracelets & Bangles Men Stainless Steel Leather Bracelets Braided Rope Magnetic Clasp Male Bangles Jewelry 2018 New - BRO Webshop
   Updated: 2025-10-08T19:51:19Z
   Vendor: BRO Webshop
@@ -1220,133 +1182,133 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/national-style-shirt-early-spring-youth-cotton-and-linen-loose-casual-237.webp?v=1752287799
     Price: € 24,96 EUR
 - [Geborduurde jurk dames – elegant & comfortabel | BRO Webshop](https://oumich.com/products/muslim-embroidered-dress): Ontdek deze elegante, geborduurde jurk met trumpetmouwen en ronde hals. Comfortabel katoenmix, diverse kleuren en maten. Shop bij BRO Webshop.
-  Updated: 2025-10-04T22:45:44Z
-  Vendor: BRO Webshop
+  Updated: 2025-11-06T23:45:47Z
+  Vendor: byOumich
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-473.webp?v=1752295817
   - [Zwart / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652603260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-xl-189.webp?v=1752295831
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Paars / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445652636028)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652668796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-3xl-623.webp?v=1752295841
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652701564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-3xl-623.webp?v=1752295841
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit zonder hoofddoek / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445652734332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-without-headscarf-m-746.webp?v=1752295846
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Wit zonder hoofddoek / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445652767100)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-without-headscarf-m-746.webp?v=1752295846
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Wit zonder hoofddoek / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652799868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-without-headscarf-m-746.webp?v=1752295846
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Wit zonder hoofddoek / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652832636)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-without-headscarf-m-746.webp?v=1752295846
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Wit zonder hoofddoek / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652865404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-without-headscarf-m-746.webp?v=1752295846
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Zwart zonder hoofddoek / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445652898172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-without-headscarf-m-885.webp?v=1752295850
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Zwart zonder hoofddoek / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445652930940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-without-headscarf-m-885.webp?v=1752295850
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Zwart zonder hoofddoek / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652963708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-without-headscarf-m-885.webp?v=1752295850
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Zwart zonder hoofddoek / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445652996476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-without-headscarf-m-885.webp?v=1752295850
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Zwart zonder hoofddoek / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653029244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-without-headscarf-m-885.webp?v=1752295850
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars zonder hoofddoek / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445653062012)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-without-headscarf-m-722.webp?v=1752295855
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars zonder hoofddoek / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445653094780)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-without-headscarf-m-722.webp?v=1752295855
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars zonder hoofddoek / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653127548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-without-headscarf-m-722.webp?v=1752295855
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars zonder hoofddoek / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653160316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-without-headscarf-m-722.webp?v=1752295855
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars zonder hoofddoek / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653193084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-without-headscarf-m-722.webp?v=1752295855
-    Price: € 27,57 EUR
+    Price: € 36,70 EUR
   - [Paars / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653225852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit / XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653258620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-3xl-623.webp?v=1752295841
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Zwart / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445653291388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-xl-189.webp?v=1752295831
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445653324156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-3xl-623.webp?v=1752295841
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Paars / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445653356924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Paars / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653389692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Zwart / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653422460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-xl-189.webp?v=1752295831
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Wit / L](https://oumich.com/products/muslim-embroidered-dress?variant=55445653455228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-white-3xl-623.webp?v=1752295841
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Zwart / 3XL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653487996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-xl-189.webp?v=1752295831
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Zwart / M](https://oumich.com/products/muslim-embroidered-dress?variant=55445653520764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-black-xl-189.webp?v=1752295831
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
   - [Paars / XXL](https://oumich.com/products/muslim-embroidered-dress?variant=55445653553532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
-    Price: € 29,30 EUR
+    Price: € 38,70 EUR
 - [Abaya Dubai Turkije Gebedskleed - BRO Webshop](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress): BRO Webshop: Abaya Dubai Turkije one-piece gebedskleed. Polyester hoofdstof samenstelling, diverse kleuren, gemiddelde maat. Productinformatie beschikbaar.
-  Updated: 2025-10-08T19:51:23Z
+  Updated: 2025-11-06T11:25:21Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -1354,44 +1316,44 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Dark Green / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690122620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-green-free-size-580.webp?v=1752302479
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Black / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690155388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-black-free-size-205.webp?v=1752302484
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Khaki / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690188156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-khaki-free-size-635.webp?v=1752302489
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Light Purple / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690220924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-light-purple-free-size-615.webp?v=1752302493
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Dark Purple / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690253692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-purple-free-size-351.webp?v=1752302497
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Dark Coffee / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690286460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-coffee-free-size-654.webp?v=1752302502
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Dark Blue / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690319228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-blue-free-size-102.webp?v=1752302506
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
   - [Gray / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690351996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-gray-free-size-557.webp?v=1752302511
-    Price: € 23,50 EUR
+    Price: € 29,70 EUR
 - [Women's White Patchwork Plus Size Women's Abaya Robe - BRO Webshop](https://oumich.com/products/womens-white-patchwork-plus-size-womens-abaya-robe): Product information: Fabric name: Zou Ice Silk Color: white Sleeve type: conventional sleeve Main fabric composition: Polyester (polyester fiber) Size: free size, S,M,L,XL,XXL Skirt length: long skirt Sleeve length: long sleeve Popular elements: solid color Craft: collage/stitching Fabric: Ice Silk Zou Size: average size Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's robes X1 pc Product Image: - BRO Webshop
-  Updated: 2025-10-08T19:51:23Z
-  Vendor: BRO Webshop
+  Updated: 2025-11-06T23:23:13Z
+  Vendor: byOumich
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/womens-white-patchwork-plus-size-abaya-robe-average-204.webp?v=1752302718
-  Price: € 23,10 EUR
+  Price: € 30,70 EUR
 - [Muslim Women's Wear Modest Modern Fashion Turkish Striped Casual Plus Size Abaya Cardigan Robe - BRO Webshop](https://oumich.com/products/muslim-womens-wear-modest-modern-fashion-turkish-striped-casual-plus-size-abaya-cardigan-robe): Product information: Fabric name: Polyester Fiber Color: light coffee color Sleeve type: batwing sleeve Main fabric composition: Polyester (polyester fiber) Size: average size Skirt length: long skirt Sleeve length: long sleeve Popular elements: stripes Craft: collage/stitching Packing list: Cardigan robe x1pc Product Image: - BRO Webshop
-  Updated: 2025-10-08T19:51:24Z
+  Updated: 2025-11-06T20:46:25Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -1399,99 +1361,99 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Light Coffee Color / Average Size](https://oumich.com/products/muslim-womens-wear-modest-modern-fashion-turkish-striped-casual-plus-size-abaya-cardigan-robe?variant=55445693727100)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-modest-modern-fashion-turkish-striped-casual-plus-896.webp?v=1752303063
-    Price: € 22,50 EUR
+    Price: € 30,70 EUR
   - [Black / Average Size](https://oumich.com/products/muslim-womens-wear-modest-modern-fashion-turkish-striped-casual-plus-size-abaya-cardigan-robe?variant=55445693759868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-modest-modern-fashion-turkish-striped-casual-plus-259.webp?v=1752303067
-    Price: € 21,80 EUR
+    Price: € 29,90 EUR
 - [Muslim Cardigan Coat Chiffon Patchwork - BRO Webshop](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork): Product information: Fabric Name: ice silk crepe Color: white coat, apricot coat, black, white Sleeve type: oversleeves Main fabric composition: Polyester (polyester fiber) Size: S,M,L,XL,XXL Skirt length: long skirt Sleeve length: long sleeve Popular elements: color matching Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coat/dress*1 Product Image: - BRO Webshop
-  Updated: 2025-10-08T19:51:24Z
-  Vendor: BRO Webshop
+  Updated: 2025-11-06T23:10:28Z
+  Vendor: byOumich
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-897.webp?v=1752303146
   - [Apricot Coat / L](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693825404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-apricot-l-970.webp?v=1752303174
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [Apricot Coat / M](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693858172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-apricot-l-970.webp?v=1752303174
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [Apricot Coat / S](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693890940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-apricot-l-970.webp?v=1752303174
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [Apricot Coat / XL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693923708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-apricot-l-970.webp?v=1752303174
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [Apricot Coat / XXL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693956476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-apricot-l-970.webp?v=1752303174
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [Black / L](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445693989244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-black-l-624.webp?v=1752303178
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [Black / M](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694022012)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-black-l-624.webp?v=1752303178
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [Black / S](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694054780)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-black-l-624.webp?v=1752303178
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [Black / XL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694087548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-black-l-624.webp?v=1752303178
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [Black / XXL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694120316)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-black-l-624.webp?v=1752303178
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [White Coat / L](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694153084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-368.webp?v=1752303183
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [White Coat / M](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694185852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-368.webp?v=1752303183
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [White Coat / S](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694218620)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-368.webp?v=1752303183
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [White Coat / XL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694251388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-368.webp?v=1752303183
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [White Coat / XXL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694284156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-368.webp?v=1752303183
-    Price: € 24,30 EUR
+    Price: € 32,70 EUR
   - [White / L](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694316924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [White / M](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694349692)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [White / S](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694382460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [White / XL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694415228)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
   - [White / XXL](https://oumich.com/products/muslim-cardigan-coat-chiffon-patchwork?variant=55445694447996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
-    Price: € 22,90 EUR
+    Price: € 29,70 EUR
 - [Muslim Women's Wear Robe Sequined Embroidery - BRO Webshop](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery): Product information: Color: blue, dark green Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Size: M,L,XL,XXL Skirt length: long skirt Sleeve length: long sleeve Craft: Embroidery Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Robe * 1 Product Image: - BRO Webshop
-  Updated: 2025-10-08T19:51:24Z
+  Updated: 2025-11-06T22:49:14Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -1499,35 +1461,35 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Blauw / M](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699002748)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-blue-m-869.webp?v=1752304707
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Blauw / L](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699035516)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-blue-m-869.webp?v=1752304707
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Blauw / XL](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699068284)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-blue-m-869.webp?v=1752304707
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Blauw / XXL](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699101052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-blue-m-869.webp?v=1752304707
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Donker Groen / M](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699133820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Donker Groen / L](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699166588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Donker Groen / XL](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699199356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
   - [Donker Groen / XXL](https://oumich.com/products/muslim-womens-wear-robe-sequined-embroidery?variant=55445699232124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
-    Price: € 28,50 EUR
+    Price: € 36,70 EUR
 - [Arabische abaya-jurk met kwast – effen & elegant | BRO Webshop](https://oumich.com/products/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress): Ontdek de Arab Dubai-stijl abaya-jurk met kwastdetails. Lange mouwen, vloeiende rok en polyester comfort. Beschikbaar in S-XXL. Shop bij BRO Webshop.
   Updated: 2025-10-08T19:51:25Z
   Vendor: BRO Webshop
@@ -1705,59 +1667,59 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760732591
     Price: € 11,70 EUR
 - [Batwing Jilbaya – Ademend & Elegant | Modest Fashion voor Elke Gelegenheid](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab): Batwing Ademend Jilbaya – een perfecte combinatie van eigentijdse stijl en bescheiden comfort. Met zijn unieke, vloeiende vleermuismouwen voegt hij niet alleen een vleugje verfijning toe, maar zorgt hij ook voor optimale ademendheid, waardoor het een ideale keuze is voor elke gelegenheid.
-  Updated: 2025-11-03T13:27:32Z
-  Vendor: BRO Webshop
+  Updated: 2025-11-06T22:47:51Z
+  Vendor: byOumich
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664850.jpg?v=1760955738
   - [ArmyGreen / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452747644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664841.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Dark Blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452780412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665232.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Dark Green / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452813180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665228.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Fog blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452845948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665233.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Khaki / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452878716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665235.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Light Grey / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452911484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665236.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Light Purple / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452944252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664846.jpg?v=1760955747
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Orange / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452977020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664848.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Peacock blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453009788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618222197940.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Purple / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453042556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664850_eaebe8b2-0260-4a97-af8b-ea5f97a6fbf8.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [Red wine / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453075324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665237.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
   - [White / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453108092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664849.jpg?v=1760955748
-    Price: € 34,95 EUR
+    Price: € 33,70 EUR
 - [Instant Jersey Hijab – Modest Fashion byOumich](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Instant jersey hijab – one size, zacht & ademend, stijlvolle kleuren.  Shop nu jouw modest fashion essential!
   Updated: 2025-11-03T11:52:19Z
   Vendor: byOumich
@@ -1829,7 +1791,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Sc5d5438504d34f88baa9a89dee1e561dc.webp?v=1762053575
     Price: € 11,70 EUR
 - [Muslim Eid Al Fitr Party Decorative Letters Set](https://oumich.com/products/muslim-eid-al-fitr-party-decorative-letters-set): Product information: Material: metal Craft: semi-manual and semi-mechanical Types of props: stage background Applicable festivals: Ramadan festival Applicable gift-giving occasions: parties Packing list： 1 Ramadan letter pull flag 3 18" Ramadan round balloons 2 18-inch golden five-pointed star balloons 10 12-inch latex rugged (5 each for black and gold) 6 12" gold glitter balloons
-  Updated: 2025-11-04T22:46:47Z
+  Updated: 2025-11-05T13:02:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1851,7 +1813,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/0b80b0bd-40d5-492d-b104-9c4af6b2bae2.jpg?v=1762296274
     Price: € 17,00 EUR
 - [Eid Ramadan Decorated Muslim Fabric Wall Calendar](https://oumich.com/products/eid-ramadan-decorated-muslim-fabric-wall-calendar): Product information Composition and content: Chemical fiber Use: Decoration Color: red, blue, chocolate, white, colorful pockets, rose red The calendar has 30 small pockets, you can put small candies, play ialis and so on. Every day there will be surprises before: in the small pocket. Occasion: Eid Mubarak calendar, pockets can be filled with snacks, small gifts, small candies, chocolates, hung on the fireplace, stairs, walls, etc.
-  Updated: 2025-11-04T23:15:32Z
+  Updated: 2025-11-05T13:22:23Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1881,7 +1843,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1615255419660.jpg?v=1762296549
     Price: € 17,70 EUR
 - [Ramadan Festival Decorative Eooden Crafts Ornaments](https://oumich.com/products/ramadan-festival-decorative-eooden-crafts-ornaments): Product Information: Category: Decoration Production process: carving Carving: Open carving/luo carving Material: Boxwood Production method: semi-manual and semi-mechanical 2 AAA batteries, without batteries Size: 24*10
-  Updated: 2025-11-04T23:48:27Z
+  Updated: 2025-11-05T12:30:09Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1899,7 +1861,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617781854237.jpg?v=1762297005
     Price: € 17,00 EUR
 - [Home Muslim Ramadan Decorative Cloth Table Flag](https://oumich.com/products/home-muslim-ramadan-decorative-cloth-table-flag): Product information: Material: Linen with brushed base Style: fashion and simplicity Features:Printing Colour: picture color Packing list: Table flag*1 Product Image:
-  Updated: 2025-11-04T23:25:17Z
+  Updated: 2025-11-05T13:29:42Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1989,7 +1951,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/00d80493-b4b6-432a-ac3d-d2a6a95033e7.jpg?v=1762297220
     Price: € 17,03 EUR
 - [Muslim Ramadan Party Decoration Kit Cake Inserts](https://oumich.com/products/muslim-ramadan-party-decoration-kit-cake-inserts): Product information : Material : Paper Types of props: Scene decoration Size: One set of flags + one set of cakes + 24 mixed balloons, one set of flags + one set of cakes + 18 mixed balloons, one set of flags, one set of cakes, 12 mixed balloons, 18 mixed balloons, 24 mixed balloons, 30 mixed balloons, 36 mixed balloons Packing list: One set of flags + one set of cakes + 24 mixed balloons/one set of flags + one set of cakes + 18 mixed balloons/one set of flags/one set of cakes/12 mixed balloons/18 mixed balloons/ 24 mixed balloons/ 30 mixed balloons/36 mixed balloons
-  Updated: 2025-11-04T23:25:16Z
+  Updated: 2025-11-05T16:38:39Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2023,7 +1985,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1fda866f-24e4-42b1-8ea2-29c34f8fd543_5e80233b-3ddb-4898-a126-bcc23a5412eb.jpg?v=1762297562
     Price: € 21,35 EUR
 - [LED Ramadan Castle Moon Kerosene 3D Hanging Lamp](https://oumich.com/products/led-ramadan-castle-moon-kerosene-3d-hanging-lamp): Overview: Durable material Mainly made of high-quality acrylic material, wear-resistant and durable using long life. Warm light effect Adopting an LED light source, the lamp can bring you a soft and soft light effect, possess good decorative function. Simple installation The lamp back is designed with a hanging hole and sticker, convenient to be fixed on smooth surfaces, such as glass, wall, wood board and so on. Note: 1. Please allow 0.5 ~ 1 cm error of measurement data. 2. Due to shooting angle and shooting light, there may be a little chromatic aberration. Specifications: Product Name: Ramadan 3D Decoration Lamp Color: warm white Size: 16cm/24cm/11.5*16cm Power supply: battery power Material: Acrylic + LED Purpose: Decoration for Ramadan festival Powered by: 2 * AA batteries (not included) Packing Content: 1 x Lamp
-  Updated: 2025-11-04T23:25:16Z
+  Updated: 2025-11-05T17:46:41Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2077,7 +2039,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1614734628259.jpg?v=1762297809
     Price: € 14,57 EUR
 - [Eid Mubarak Festival Ramadan Cake Decoration Spray Flower Mould](https://oumich.com/products/eid-mubarak-festival-ramadan-cake-decoration-spray-flower-mould): Product information: Product Category: Cake Mould Shape: Irregular shape material: plastic color: White Packing specification: opp paperback Purpose: Coffee Latte Packing list: 1 x spray pattern
-  Updated: 2025-11-04T23:25:16Z
+  Updated: 2025-11-06T12:32:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2087,7 +2049,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 ## Collections
 
 - [Halal Accessoires - Collectie voor Moslims](https://oumich.com/collections/halal-accessoires-unieke-collectie-voor-moslims): Halal Accessoires. Vind Stijlvolle Juwelen En Andere Accessoires. Maak Uw Outfit Compleet.
-  Updated: 2025-11-03T13:20:17Z
+  Updated: 2025-11-06T20:38:04Z
   Total Products: 39
 - [Islamitische Woondecoratie.](https://oumich.com/collections/islam-woondecoratie): Islamitische woondecoratie speelt een cruciale rol in het creëren van een sfeervolle thuisomgeving, maar ook een gevoel van rust en spiritualiteit.
   Updated: 2025-10-05T18:39:51Z
@@ -2099,7 +2061,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 Hijab kopen online ?
 Jilbab dames modeshop ?
 BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest fashion
-  Updated: 2025-11-03T13:23:00Z
+  Updated: 2025-11-06T23:45:48Z
   Total Products: 10
 - [Islam beleving : Alles Voor Salat](https://oumich.com/collections/gebedskleed-kopen-online-bij-de-islam-webshop-voor-moslim-tapijt): In onze collectie "Islam beleving" vind je alles voor de salat.  een gebedskleed voor moslims of een Tasbih, je vindt het er allemaal.
   Updated: 2025-11-03T13:19:38Z
@@ -2111,7 +2073,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-11-04T23:15:15Z
   Total Products: 14
 - [Islamitische kleding voor dames](https://oumich.com/collections/islamitische-kleding-voor-dames): Islamitische kleding voor dames: elegant, bescheiden en stijlvol. Van abaya’s tot modieuze maxi-jurken, ontdek outfits die geloof en mode verenigen.
-  Updated: 2025-11-03T12:58:01Z
+  Updated: 2025-11-06T23:45:48Z
   Total Products: 9
 - [Hijab kopen online](https://oumich.com/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
   Updated: 2025-11-03T13:23:00Z
@@ -2129,7 +2091,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-11-03T14:18:09Z
   Total Products: 1
 - [Volumediscounts](https://oumich.com/collections/volumediscounts): Alle producten die in aanmerking komen voor volumediscounts maar niet afgeprijst zijn (of maw vergelijkingsprijs is leeg)
-  Updated: 2025-11-03T14:17:54Z
+  Updated: 2025-11-06T12:13:35Z
   Total Products: 2
 - [Stretchy & comfortabel](https://oumich.com/collections/stretchy-comfortabel-premium-jersey): Een hijab die stretchy en comfortabel is, makkelijk blijft zitten zonder speldjes. Ideaal voor dagelijks gebruik en sport.
   Updated: 2025-11-03T14:17:18Z
@@ -2168,10 +2130,10 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-27T11:13:21Z
   Total Products: 0
 - [Gebedskleding](https://oumich.com/collections/gebedskleding): Maak je gebedsmomenten nog specialer met onze gebedskleding voor vrouwen.
-  Updated: 2025-11-03T12:56:33Z
+  Updated: 2025-11-06T22:46:03Z
   Total Products: 2
 - [Elegant, elke dag.](https://oumich.com/collections/elegant-voor-elke-dag): Elegante kleding voor elke dag.
-  Updated: 2025-10-20T10:25:47Z
+  Updated: 2025-11-06T23:45:48Z
   Total Products: 7
 
 ## Blogs
