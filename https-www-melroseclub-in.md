@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-18T12:19:41Z
 - Contact Email: melroseclubcompany@gmail.com
-- Updated At: 2025-11-04T00:00:31.621Z
+- Updated At: 2025-11-07T00:00:30.754Z
 
 ## Products
 
@@ -410,6 +410,15 @@
 - [Melrose Core Collection: Essentials for Movement | Melrose Club](https://www.melroseclub.in/collections/melrose-core-collection): Discover the Melrose Core Collection at Melrose Club. Essentials made for movement and life, blending modern design with streetwear luxury.
   Updated: 2025-09-26T09:59:31Z
   Total Products: 19
+- [BLACK](https://www.melroseclub.in/collections/black-collection)
+  Updated: 2025-11-06T05:08:58Z
+  Total Products: 11
+- [WHITE](https://www.melroseclub.in/collections/white-collection)
+  Updated: 2025-11-06T05:09:30Z
+  Total Products: 7
+- [CORAL](https://www.melroseclub.in/collections/coral-collection)
+  Updated: 2025-11-06T05:09:16Z
+  Total Products: 2
 
 ## Blogs
 
