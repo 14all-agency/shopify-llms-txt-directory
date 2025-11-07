@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T04:43:21Z
 - Contact Email: marlybest782@gmail.com
-- Updated At: 2025-11-05T00:00:27.391Z
+- Updated At: 2025-11-07T00:00:26.061Z
 
 ## Products
 
@@ -1317,7 +1317,7 @@
 ## Collections
 
 - [Midi Dress Midnight Siren - PROVYLO](https://provylo.com/collections/midi-dress-midnight-siren): La robe midi Midnight Siren disponible en plusieurs couleurs éclatantes, offre un décollé sophistiqué qui sublime la silhoute. Son design élégant  - PROVYLO
-  Updated: 2025-11-04T21:12:00Z
+  Updated: 2025-11-06T21:07:20Z
   Total Products: 4
 - [Maxi Dress Nivellah - PROVYLO](https://provylo.com/collections/maxi-dress): - PROVYLO
   Updated: 2025-11-04T05:32:05Z
@@ -1355,8 +1355,8 @@
 - [Quelle robe porter pour une occasion spéciale - PROVYLO](https://provylo.com/collections/robes-midi-exclusives): Robes midi PROVYLO : designs uniques avec détails raffinés (lacets, sacs assortis). Alternative premium à Shein et Zara. Qualité artisanale Canada.
   Updated: 2025-11-04T05:32:06Z
   Total Products: 2
-- [Midi Dress Midnight Siren](https://provylo.com/collections/midi-dress-midnight-siren-a89e68a001144c489c5f962169d43f24-aftership-apz-version-a-general-1762290719372)
-  Updated: 2025-11-04T21:12:00Z
+- [Midi Dress Midnight Siren](https://provylo.com/collections/midi-dress-midnight-siren-a89e68a001144c489c5f962169d43f24-aftership-apz-version-a-general-1762463239123)
+  Updated: 2025-11-06T21:07:20Z
   Total Products: 4
 
 ## Blogs
