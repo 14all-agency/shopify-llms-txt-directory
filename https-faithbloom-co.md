@@ -6,195 +6,215 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-11-05T00:00:45.926Z
+- Updated At: 2025-11-07T00:00:28.044Z
 
 ## Products
 
-- ["God Is Within Her" Christian Tee](https://faithbloom.co/products/god-is-within-her-christian-tee): Feel empowered and inspired every day with our "God Is Within Her, She Will Not Fall" t-shirt. This unique design features a noble lioness wearing a crown, symbolizing the royalty and strength that comes from God's presence. With the guiding words of Psalm 46:5, this tee serves as a beautiful declaration of faith and resilience. It's not just a shirt; it's a reminder of your inner power and divine protection. Designed for comfort and style, this tee is a must-have for any woman looking to express her faith boldly. S M L XL 2XL Width, in 15.98 16.73 17.76 18.74 19.76 Length, in 26.26 26.73 27.36 27.99 28.62 Sleeve length, in 5.04 5.28 5.51 5.75 5.98 Made to feel like a well-loved favorite, these tees come with a feminine fit that is as stylish as it is comfy. The ribbed knitting makes the collar highly elastic while the twill tape on the shoulder seams stabilizes the back of the shirt and prevents stretching. .: 100% airlume combed and ringspun cotton (fiber content may vary for different colors).: Light fabric (4.2 oz/yd² (142 g/m²)).: Slim fit with longer body length.: Tear away label.: Runs smaller than usual
-  Updated: 2025-09-13T11:35:08Z
+- [Warrior's Prayer T-Shirt](https://faithbloom.co/products/god-is-within-her-christian-tee): The Warrior's Prayer T-Shirt is a bold and empowering statement piece that embodies strength, resilience, and faith. Ideal for anyone seeking a faith-based design that speaks to inner power and divine protection. Perfect for spiritual warriors who find strength in surrender. This design is relevant for religious holidays, spiritual observances, and everyday wear.Product features- Side seams for structural support- Ribbed knit collar for shape retention- Shoulder tape for stability- 100% cotton composition for comfort- Slim fit with longer body length for a modern lookCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+  Updated: 2025-11-06T21:47:04Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
+  - [Baby Blue / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782936920143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-baby-blue-s-622.webp?v=1762464587
+    Price: $18.70 USD
   - [Berry / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569386575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-berry-s-t-shirt-879.webp?v=1753830214
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-berry-s-498.webp?v=1762464583
     Price: $18.70 USD
   - [Black / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337647980623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-black-s-t-shirt-594.webp?v=1753830183
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-black-s-813.webp?v=1762464560
     Price: $18.70 USD
   - [Dark Grey Heather / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648013391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-dark-grey-heather-s-t-shirt-685.webp?v=1753830195
-    Price: $18.70 USD
-  - [Kelly / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569419343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-kelly-s-t-shirt-968.webp?v=1753830203
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-dark-grey-heather-s-910.webp?v=1762464572
     Price: $18.70 USD
   - [Navy / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648046159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-navy-s-t-shirt-820.webp?v=1753830199
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-navy-s-399.webp?v=1762464575
+    Price: $18.70 USD
+  - [Pink / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782936952911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-pink-s-659.webp?v=1762464591
+    Price: $18.70 USD
+  - [Silver / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782936985679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
     Price: $18.70 USD
   - [Soft Cream / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648144463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-soft-cream-s-t-shirt-258.webp?v=1753830187
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-soft-cream-s-969.webp?v=1762464564
     Price: $18.70 USD
   - [Team Purple / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569452111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-team-purple-s-t-shirt-172.webp?v=1753830211
-    Price: $18.70 USD
-  - [True Royal / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569484879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-true-royal-s-t-shirt-220.webp?v=1753830207
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-team-purple-s-683.webp?v=1762464579
     Price: $18.70 USD
   - [White / S](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648177231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-white-s-820.webp?v=1762464556
+    Price: $18.70 USD
+  - [Baby Blue / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937018447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-baby-blue-s-622.webp?v=1762464587
     Price: $18.70 USD
   - [Berry / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569517647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-berry-s-t-shirt-879.webp?v=1753830214
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-berry-s-498.webp?v=1762464583
     Price: $18.70 USD
   - [Black / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648275535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-black-s-t-shirt-594.webp?v=1753830183
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-black-s-813.webp?v=1762464560
     Price: $18.70 USD
   - [Dark Grey Heather / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648308303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-dark-grey-heather-s-t-shirt-685.webp?v=1753830195
-    Price: $18.70 USD
-  - [Kelly / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569550415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-kelly-s-t-shirt-968.webp?v=1753830203
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-dark-grey-heather-s-910.webp?v=1762464572
     Price: $18.70 USD
   - [Navy / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648341071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-navy-s-t-shirt-820.webp?v=1753830199
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-navy-s-399.webp?v=1762464575
+    Price: $18.70 USD
+  - [Pink / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937051215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-pink-s-659.webp?v=1762464591
+    Price: $18.70 USD
+  - [Silver / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937083983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
     Price: $18.70 USD
   - [Soft Cream / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648439375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-soft-cream-s-t-shirt-258.webp?v=1753830187
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-soft-cream-s-969.webp?v=1762464564
     Price: $18.70 USD
   - [Team Purple / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569583183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-team-purple-s-t-shirt-172.webp?v=1753830211
-    Price: $18.70 USD
-  - [True Royal / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569615951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-true-royal-s-t-shirt-220.webp?v=1753830207
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-team-purple-s-683.webp?v=1762464579
     Price: $18.70 USD
   - [White / M](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648472143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-white-s-820.webp?v=1762464556
+    Price: $18.70 USD
+  - [Baby Blue / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937116751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-baby-blue-s-622.webp?v=1762464587
     Price: $18.70 USD
   - [Berry / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569648719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-berry-s-t-shirt-879.webp?v=1753830214
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-berry-s-498.webp?v=1762464583
     Price: $18.70 USD
   - [Black / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648570447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-black-s-t-shirt-594.webp?v=1753830183
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-black-s-813.webp?v=1762464560
     Price: $18.70 USD
   - [Dark Grey Heather / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648603215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-dark-grey-heather-s-t-shirt-685.webp?v=1753830195
-    Price: $18.70 USD
-  - [Kelly / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569681487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-kelly-s-t-shirt-968.webp?v=1753830203
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-dark-grey-heather-s-910.webp?v=1762464572
     Price: $18.70 USD
   - [Navy / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648635983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-navy-s-t-shirt-820.webp?v=1753830199
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-navy-s-399.webp?v=1762464575
+    Price: $18.70 USD
+  - [Pink / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937149519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-pink-s-659.webp?v=1762464591
+    Price: $18.70 USD
+  - [Silver / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937182287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
     Price: $18.70 USD
   - [Soft Cream / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648734287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-soft-cream-s-t-shirt-258.webp?v=1753830187
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-soft-cream-s-969.webp?v=1762464564
     Price: $18.70 USD
   - [Team Purple / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569714255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-team-purple-s-t-shirt-172.webp?v=1753830211
-    Price: $18.70 USD
-  - [True Royal / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569747023)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-true-royal-s-t-shirt-220.webp?v=1753830207
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-team-purple-s-683.webp?v=1762464579
     Price: $18.70 USD
   - [White / L](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648767055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-white-s-820.webp?v=1762464556
+    Price: $18.70 USD
+  - [Baby Blue / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937215055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-baby-blue-s-622.webp?v=1762464587
     Price: $18.70 USD
   - [Berry / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569779791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-berry-s-t-shirt-879.webp?v=1753830214
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-berry-s-498.webp?v=1762464583
     Price: $18.70 USD
   - [Black / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648865359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-black-s-t-shirt-594.webp?v=1753830183
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-black-s-813.webp?v=1762464560
     Price: $18.70 USD
   - [Dark Grey Heather / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648898127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-dark-grey-heather-s-t-shirt-685.webp?v=1753830195
-    Price: $18.70 USD
-  - [Kelly / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569812559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-kelly-s-t-shirt-968.webp?v=1753830203
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-dark-grey-heather-s-910.webp?v=1762464572
     Price: $18.70 USD
   - [Navy / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337648930895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-navy-s-t-shirt-820.webp?v=1753830199
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-navy-s-399.webp?v=1762464575
+    Price: $18.70 USD
+  - [Pink / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937247823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-pink-s-659.webp?v=1762464591
+    Price: $18.70 USD
+  - [Silver / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937280591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
     Price: $18.70 USD
   - [Soft Cream / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649029199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-soft-cream-s-t-shirt-258.webp?v=1753830187
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-soft-cream-s-969.webp?v=1762464564
     Price: $18.70 USD
   - [Team Purple / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569845327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-team-purple-s-t-shirt-172.webp?v=1753830211
-    Price: $18.70 USD
-  - [True Royal / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569878095)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-true-royal-s-t-shirt-220.webp?v=1753830207
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-team-purple-s-683.webp?v=1762464579
     Price: $18.70 USD
   - [White / XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649061967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-white-s-820.webp?v=1762464556
     Price: $18.70 USD
+  - [Baby Blue / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937313359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-baby-blue-s-622.webp?v=1762464587
+    Price: $21.78 USD
   - [Berry / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569910863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-berry-s-t-shirt-879.webp?v=1753830214
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-berry-s-498.webp?v=1762464583
     Price: $21.78 USD
   - [Black / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649160271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-black-s-t-shirt-594.webp?v=1753830183
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-black-s-813.webp?v=1762464560
     Price: $21.78 USD
   - [Dark Grey Heather / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649193039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-dark-grey-heather-s-t-shirt-685.webp?v=1753830195
-    Price: $21.78 USD
-  - [Kelly / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569943631)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-kelly-s-t-shirt-968.webp?v=1753830203
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-dark-grey-heather-s-910.webp?v=1762464572
     Price: $21.78 USD
   - [Navy / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649225807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-navy-s-t-shirt-820.webp?v=1753830199
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-navy-s-399.webp?v=1762464575
+    Price: $21.78 USD
+  - [Pink / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937346127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-pink-s-659.webp?v=1762464591
+    Price: $21.78 USD
+  - [Silver / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43782937378895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-silver-s-992.webp?v=1762464552
     Price: $21.78 USD
   - [Soft Cream / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649324111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-soft-cream-s-t-shirt-258.webp?v=1753830187
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-soft-cream-s-969.webp?v=1762464564
     Price: $21.78 USD
   - [Team Purple / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433569976399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-team-purple-s-t-shirt-172.webp?v=1753830211
-    Price: $21.78 USD
-  - [True Royal / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43433570009167)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-true-royal-s-t-shirt-220.webp?v=1753830207
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-team-purple-s-683.webp?v=1762464579
     Price: $21.78 USD
   - [White / 2XL](https://faithbloom.co/products/god-is-within-her-christian-tee?variant=43337649356879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/god-is-within-her-christian-tee-white-s-t-shirt-127.webp?v=1753830179
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/warriors-prayer-t-shirt-white-s-820.webp?v=1762464556
     Price: $21.78 USD
 - ["Wonderfully Made" Crop Top](https://faithbloom.co/products/wonderfully-made-crop-top): Make a statement with our "I Praise You because I am Fearfully and Wonderfully Made" cropped tee. This stylish top features a captivating floral silhouette design, offering a vibrant and artistic expression of Psalm 139:14. It's the perfect blend of trendy fashion and an empowering spiritual message, designed to bring confidence and joy to your everyday look. Pair it with high-waisted jeans or skirts for a chic and meaningful outfit. XS S M L XL 2XL Width, in 17.00 18.00 19.00 20.00 21.50 23.00 Length, in 18.75 19.75 20.00 20.62 21.25 21.87 Made of 65% polyester, 35%-cotton blend – soft and durable enough to last the whole party weekend. It has that effortlessly stylish fit with raw-edge sleeves and hems and a cropped, relaxed fit. .: 65% polyester, 35% combed, ring-spun cotton.: Extra light fabric (3.5 oz/yd² (118 g/m²)).: Relaxed, modest fit.: Raw sleeve and bottom hems.: Tear-away label
   Updated: 2025-07-30T00:16:03Z
@@ -609,416 +629,416 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/live-the-word-micah-6-8-do-justice-tee-bright-salmon-s-t-shirt-618.webp?v=1753830287
     Price: $20.30 USD
 - ["Walk by Faith, Not by Sight" T-Shirt](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt): Embrace the guiding light of faith with our inspiring "We Walk by Faith, Not By Sight" t-shirt. This captivating design illustrates a winding path of footprints leading towards a luminous cross, representing the divine direction in our lives. The powerful message from II Corinthians 5:7 encourages reliance on spiritual truth over worldly perception. Comfortable and meaningful, this tee is ideal for daily wear or as a thoughtful gift for those on their spiritual journey. S M L XL 2XL 3XL 4XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 Length, in 26.50 28.50 30.50 31.50 32.50 33.50 34.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 The Alstyle 1301 is a unisex tee for every casual outing. Made with 100% cotton (Athletic Heather is 90% cotton, 10% polyester; Charcoal Heather and Safety Green are 50% cotton, 50% polyester; Ash is 99% cotton, 1% polyester), this tee is supremely soft while the classic fit makes it an easy-going choice for a number of occasions. Add your design and create a highly versatile staple for everyday wear. .: 100% cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (203 g/m²)).: Classic Fit.: Tear-away label
-  Updated: 2025-07-29T23:08:49Z
+  Updated: 2025-11-06T20:41:05Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
   - [Black / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832431695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-111.webp?v=1753830428
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-750.webp?v=1762460629
     Price: $22.27 USD
-  - [White / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832464463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-white-s-996.webp?v=1753830398
-    Price: $20.98 USD
   - [Military Green / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832497231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-972.webp?v=1753830403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-139.webp?v=1762460616
+    Price: $23.83 USD
+  - [Red / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804439119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-red-s-148.webp?v=1762460638
     Price: $23.83 USD
   - [Royal / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832529999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-616.webp?v=1762460607
     Price: $22.27 USD
   - [Charcoal Heather / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832562767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-844.webp?v=1753830424
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-910.webp?v=1762460625
     Price: $23.83 USD
   - [Navy / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832661071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-210.webp?v=1753830393
-    Price: $22.27 USD
-  - [Powder Blue / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832726607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-powder-blue-s-820.webp?v=1753830411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-147.webp?v=1762460611
     Price: $22.27 USD
   - [Forest Green / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832759375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-352.webp?v=1753830407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
     Price: $22.27 USD
   - [Burgundy / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832824911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-130.webp?v=1753830433
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-651.webp?v=1762460633
+    Price: $23.83 USD
+  - [Cardinal / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804471887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-cardinal-s-749.webp?v=1762460642
     Price: $23.83 USD
   - [Charcoal / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832890447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-723.webp?v=1753830419
-    Price: $23.83 USD
-  - [Orange / S](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43433534652495)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-orange-s-167.webp?v=1753830437
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
     Price: $23.83 USD
   - [Black / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832955983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-111.webp?v=1753830428
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-750.webp?v=1762460629
     Price: $22.27 USD
-  - [White / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337832988751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-white-s-996.webp?v=1753830398
-    Price: $20.98 USD
   - [Military Green / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833021519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-972.webp?v=1753830403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-139.webp?v=1762460616
+    Price: $23.83 USD
+  - [Red / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804504655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-red-s-148.webp?v=1762460638
     Price: $23.83 USD
   - [Royal / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833054287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-616.webp?v=1762460607
     Price: $22.27 USD
   - [Charcoal Heather / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833087055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-844.webp?v=1753830424
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-910.webp?v=1762460625
     Price: $23.83 USD
   - [Navy / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833185359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-210.webp?v=1753830393
-    Price: $22.27 USD
-  - [Powder Blue / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833250895)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-powder-blue-s-820.webp?v=1753830411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-147.webp?v=1762460611
     Price: $22.27 USD
   - [Forest Green / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833283663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-352.webp?v=1753830407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
     Price: $22.27 USD
   - [Burgundy / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833349199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-130.webp?v=1753830433
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-651.webp?v=1762460633
+    Price: $23.83 USD
+  - [Cardinal / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804537423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-cardinal-s-749.webp?v=1762460642
     Price: $23.83 USD
   - [Charcoal / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833414735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-723.webp?v=1753830419
-    Price: $23.83 USD
-  - [Orange / M](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43433534685263)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-orange-s-167.webp?v=1753830437
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
     Price: $23.83 USD
   - [Black / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833480271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-111.webp?v=1753830428
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-750.webp?v=1762460629
     Price: $22.27 USD
-  - [White / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833513039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-white-s-996.webp?v=1753830398
-    Price: $20.98 USD
   - [Military Green / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833545807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-972.webp?v=1753830403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-139.webp?v=1762460616
+    Price: $23.83 USD
+  - [Red / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804570191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-red-s-148.webp?v=1762460638
     Price: $23.83 USD
   - [Royal / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833578575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-616.webp?v=1762460607
     Price: $22.27 USD
   - [Charcoal Heather / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833611343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-844.webp?v=1753830424
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-910.webp?v=1762460625
     Price: $23.83 USD
   - [Navy / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833709647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-210.webp?v=1753830393
-    Price: $22.27 USD
-  - [Powder Blue / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833775183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-powder-blue-s-820.webp?v=1753830411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-147.webp?v=1762460611
     Price: $22.27 USD
   - [Forest Green / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833807951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-352.webp?v=1753830407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
     Price: $22.27 USD
   - [Burgundy / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833873487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-130.webp?v=1753830433
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-651.webp?v=1762460633
+    Price: $23.83 USD
+  - [Cardinal / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804602959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-cardinal-s-749.webp?v=1762460642
     Price: $23.83 USD
   - [Charcoal / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833906255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-723.webp?v=1753830419
-    Price: $23.83 USD
-  - [Orange / L](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43433534718031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-orange-s-167.webp?v=1753830437
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
     Price: $23.83 USD
   - [Black / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337833971791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-111.webp?v=1753830428
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-750.webp?v=1762460629
     Price: $22.27 USD
-  - [White / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834004559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-white-s-996.webp?v=1753830398
-    Price: $20.98 USD
   - [Military Green / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834037327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-972.webp?v=1753830403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-139.webp?v=1762460616
+    Price: $23.83 USD
+  - [Red / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804635727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-red-s-148.webp?v=1762460638
     Price: $23.83 USD
   - [Royal / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834070095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-616.webp?v=1762460607
     Price: $22.27 USD
   - [Charcoal Heather / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834102863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-844.webp?v=1753830424
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-910.webp?v=1762460625
     Price: $23.83 USD
   - [Navy / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834201167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-210.webp?v=1753830393
-    Price: $22.27 USD
-  - [Powder Blue / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834266703)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-powder-blue-s-820.webp?v=1753830411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-147.webp?v=1762460611
     Price: $22.27 USD
   - [Forest Green / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834299471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-352.webp?v=1753830407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
     Price: $22.27 USD
   - [Burgundy / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834365007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-130.webp?v=1753830433
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-651.webp?v=1762460633
+    Price: $23.83 USD
+  - [Cardinal / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804668495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-cardinal-s-749.webp?v=1762460642
     Price: $23.83 USD
   - [Charcoal / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834397775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-723.webp?v=1753830419
-    Price: $23.83 USD
-  - [Orange / XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43433534750799)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-orange-s-167.webp?v=1753830437
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
     Price: $23.83 USD
   - [Black / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834463311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-111.webp?v=1753830428
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-black-s-750.webp?v=1762460629
     Price: $29.35 USD
-  - [White / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834496079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-white-s-996.webp?v=1753830398
-    Price: $27.68 USD
   - [Military Green / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834528847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-972.webp?v=1753830403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-military-green-s-139.webp?v=1762460616
+    Price: $32.30 USD
+  - [Red / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804701263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-red-s-148.webp?v=1762460638
     Price: $32.30 USD
   - [Royal / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834561615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-807.webp?v=1753830389
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-royal-s-616.webp?v=1762460607
     Price: $29.35 USD
   - [Charcoal Heather / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834594383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-844.webp?v=1753830424
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-heather-s-910.webp?v=1762460625
     Price: $32.30 USD
   - [Navy / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834692687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-210.webp?v=1753830393
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-navy-s-147.webp?v=1762460611
     Price: $29.35 USD
+  - [Forest Green / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834790991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-forest-green-s-243.webp?v=1762460602
+    Price: $29.35 USD
+  - [Burgundy / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834856527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-burgundy-s-651.webp?v=1762460633
+    Price: $32.30 USD
+  - [Cardinal / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43782804734031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-cardinal-s-749.webp?v=1762460642
+    Price: $32.30 USD
+  - [Charcoal / 2XL](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt?variant=43337834889295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
+    Price: $32.30 USD
 - ["He Restores My Soul" Tree of Life Tee - Psalm 23:3](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3): Find peace and comfort in our "He Restores My Soul" t-shirt, inspired by Psalm 23:3. This serene design features a majestic tree, symbolizing life and spiritual growth, with the silhouette of Jesus embraced within its roots. The vibrant colors evoke a sense of calm and renewal, reminding you of God's restorative power. Crafted for ultimate comfort, this tee is a beautiful expression of faith and a perfect reminder of divine peace. XS S M L XL 2XL 3XL Width, in 18.75 19.75 20.75 22.75 24.75 26.75 28.75 Length, in 26.25 27.25 27.75 28.75 29.75 30.25 31.25 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Comfort and style is the name of the game for these custom boxy t-shirts. Their relaxed fit along with the dropped shoulders add that modern aesthetic that can blend into any occasion. All shirts are made with 100% airlume, ring-spun and combed cotton for extra softness. (Athletic Heather is 90% / 10% airlume combed and ring-spun cotton / polyester) .: 100% airlume combed and ring-spun cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (170 g/m²)).: Relaxed fit.: Tear-away label
-  Updated: 2025-07-29T23:10:35Z
+  Updated: 2025-11-06T20:55:15Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
   - [Athletic Heather / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129178703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $29.25 USD
   - [Black / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129211471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $29.25 USD
   - [Dark Grey / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129244239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $29.25 USD
   - [Soft Pink / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129277007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $29.25 USD
   - [Toast / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129309775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $29.25 USD
   - [White / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129342543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
     Price: $29.25 USD
   - [Forest / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129375311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-375.webp?v=1753830536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-102.webp?v=1762461445
     Price: $29.25 USD
   - [Natural / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129408079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-628.webp?v=1753830550
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-884.webp?v=1762461458
     Price: $29.25 USD
   - [Navy / XS](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129440847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-432.webp?v=1753830567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-155.webp?v=1762461475
     Price: $29.25 USD
   - [Athletic Heather / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129473615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $29.25 USD
   - [Black / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129506383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $29.25 USD
   - [Dark Grey / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129539151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $29.25 USD
   - [Soft Pink / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129571919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $29.25 USD
   - [Toast / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129604687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $29.25 USD
   - [White / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129637455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
     Price: $29.25 USD
   - [Forest / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129670223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-375.webp?v=1753830536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-102.webp?v=1762461445
     Price: $29.25 USD
   - [Natural / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129702991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-628.webp?v=1753830550
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-884.webp?v=1762461458
     Price: $29.25 USD
   - [Navy / S](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129735759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-432.webp?v=1753830567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-155.webp?v=1762461475
     Price: $29.25 USD
   - [Athletic Heather / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129768527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $29.25 USD
   - [Black / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129801295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $29.25 USD
   - [Dark Grey / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129834063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $29.25 USD
   - [Soft Pink / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129866831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $29.25 USD
   - [Toast / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129899599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $29.25 USD
   - [White / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129932367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
     Price: $29.25 USD
   - [Forest / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129965135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-375.webp?v=1753830536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-102.webp?v=1762461445
     Price: $29.25 USD
   - [Natural / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338129997903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-628.webp?v=1753830550
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-884.webp?v=1762461458
     Price: $29.25 USD
   - [Navy / M](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130030671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-432.webp?v=1753830567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-155.webp?v=1762461475
     Price: $29.25 USD
   - [Athletic Heather / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130063439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $29.25 USD
   - [Black / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130096207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $29.25 USD
   - [Dark Grey / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130128975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $29.25 USD
   - [Soft Pink / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130161743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $29.25 USD
   - [Toast / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130194511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $29.25 USD
   - [White / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130227279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
     Price: $29.25 USD
   - [Forest / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130260047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-375.webp?v=1753830536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-102.webp?v=1762461445
     Price: $29.25 USD
   - [Natural / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130292815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-628.webp?v=1753830550
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-884.webp?v=1762461458
     Price: $29.25 USD
   - [Navy / L](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130325583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-432.webp?v=1753830567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-155.webp?v=1762461475
     Price: $29.25 USD
   - [Athletic Heather / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130358351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $29.25 USD
   - [Black / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130391119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $29.25 USD
   - [Dark Grey / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130423887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $29.25 USD
   - [Soft Pink / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130456655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $29.25 USD
   - [Toast / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130489423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $29.25 USD
   - [White / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130522191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-854.webp?v=1753830532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-white-xs-t-shirt-549.webp?v=1762461440
     Price: $29.25 USD
   - [Forest / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130554959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-375.webp?v=1753830536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-forest-xs-t-shirt-102.webp?v=1762461445
     Price: $29.25 USD
   - [Natural / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130587727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-628.webp?v=1753830550
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-natural-xs-t-shirt-884.webp?v=1762461458
     Price: $29.25 USD
   - [Navy / XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130620495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-432.webp?v=1753830567
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-navy-xs-t-shirt-155.webp?v=1762461475
     Price: $29.25 USD
   - [Athletic Heather / 2XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130653263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-707.webp?v=1753830563
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-athletic-heather-xs-t-shirt-365.webp?v=1762461471
     Price: $30.55 USD
   - [Black / 2XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130686031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-815.webp?v=1753830545
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-black-xs-t-shirt-725.webp?v=1762461454
     Price: $30.55 USD
   - [Dark Grey / 2XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130718799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-461.webp?v=1753830558
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-dark-grey-xs-t-shirt-399.webp?v=1762461467
     Price: $30.55 USD
   - [Soft Pink / 2XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130751567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-466.webp?v=1753830540
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-soft-pink-xs-t-shirt-723.webp?v=1762461449
     Price: $30.55 USD
   - [Toast / 2XL](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3?variant=43338130784335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-511.webp?v=1753830554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $30.55 USD
 - [Share Your Light Christian T-Shirt](https://faithbloom.co/products/share-your-light-christian-t-shirt): Looking for a way to express your faith and inspire others? Our "Let Your Light Shine" T-shirt is the perfect choice. This impactful design serves as a daily reminder of your purpose to shine brightly, as taught in Matthew 5:16. Beyond its meaningful message, this shirt offers exceptional comfort and a stylish fit, making it a valuable addition to any wardrobe. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
   Updated: 2025-07-29T23:14:37Z
@@ -1227,146 +1247,153 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-olive-s-657.webp?v=1753830677
     Price: $16.93 USD
 - [Be Not Afraid - Isaiah 41:10 T-Shirt](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt): Find strength in faith with this powerful tee. Featuring a majestic lion and a radiant cross, this shirt boldly displays the comforting words of Isaiah 41:10: "Be not afraid." A perfect reminder of divine courage and protection. XS S M L XL 2XL 3XL Width, in 18.75 19.75 20.75 22.75 24.75 26.75 28.75 Length, in 26.25 27.25 27.75 28.75 29.75 30.25 31.25 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Comfort and style is the name of the game for these custom boxy t-shirts. Their relaxed fit along with the dropped shoulders add that modern aesthetic that can blend into any occasion. All shirts are made with 100% airlume, ring-spun and combed cotton for extra softness. (Athletic Heather is 90% / 10% airlume combed and ring-spun cotton / polyester) .: 100% airlume combed and ring-spun cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (170 g/m²)).: Relaxed fit.: Tear-away label
-  Updated: 2025-07-29T23:15:32Z
+  Updated: 2025-11-06T18:19:04Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
   - [Black / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959748175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $29.25 USD
   - [Dark Grey / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959780943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $29.25 USD
+  - [Toast / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166334031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $29.25 USD
   - [Forest / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959813711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $29.25 USD
-  - [Natural / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356486729807)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $29.25 USD
   - [Navy / XS](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959846479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $29.25 USD
   - [Black / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959879247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $29.25 USD
   - [Dark Grey / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959912015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $29.25 USD
+  - [Toast / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166366799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $29.25 USD
   - [Forest / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959944783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $29.25 USD
-  - [Natural / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356486860879)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $29.25 USD
   - [Navy / S](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428959977551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $29.25 USD
   - [Black / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960010319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $29.25 USD
   - [Dark Grey / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960043087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $29.25 USD
+  - [Toast / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166399567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $29.25 USD
   - [Forest / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960075855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $29.25 USD
-  - [Natural / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356486991951)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $29.25 USD
   - [Navy / M](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960108623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $29.25 USD
   - [Black / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960141391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $29.25 USD
   - [Dark Grey / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960174159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $29.25 USD
+  - [Toast / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166432335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $29.25 USD
   - [Forest / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960206927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $29.25 USD
-  - [Natural / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356487123023)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $29.25 USD
   - [Navy / L](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960239695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $29.25 USD
   - [Black / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960272463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $29.25 USD
   - [Dark Grey / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960305231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $29.25 USD
+  - [Toast / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166465103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $29.25 USD
   - [Forest / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960337999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $29.25 USD
-  - [Natural / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356487254095)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $29.25 USD
   - [Navy / XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960370767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $29.25 USD
   - [Black / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960403535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $30.55 USD
   - [Dark Grey / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960436303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $30.55 USD
+  - [Toast / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166497871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $30.55 USD
   - [Forest / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960469071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $30.55 USD
-  - [Natural / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356487385167)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $30.55 USD
   - [Navy / 2XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960501839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $30.55 USD
   - [Black / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960534607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-711.webp?v=1753830884
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-black-xs-244.webp?v=1762452082
     Price: $33.62 USD
   - [Dark Grey / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960567375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-199.webp?v=1753830888
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-dark-grey-xs-715.webp?v=1762452074
+    Price: $33.62 USD
+  - [Toast / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43781166530639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-toast-xs-323.webp?v=1762452091
     Price: $33.62 USD
   - [Forest / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960600143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-963.webp?v=1753830880
-    Price: $33.62 USD
-  - [Natural / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43356487516239)
-    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-forest-xs-895.webp?v=1762452078
     Price: $33.62 USD
   - [Navy / 3XL](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt?variant=43428960632911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-161.webp?v=1753830892
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/be-not-afraid-isaiah-41-10-t-shirt-navy-xs-408.webp?v=1762452086
     Price: $33.62 USD
 - [Sacred Heart & Chalice Eucharist T-Shirt](https://faithbloom.co/products/sacred-heart-chalice-eucharist-t-shirt): This deeply symbolic "Eucharist: Real Power" T-shirt celebrates the profound mystery of the Holy Eucharist. The graphic features the Sacred Heart, radiating divine love and mercy, held within a chalice, representing the Body and Blood of Christ. The phrase "Real Power" emphasizes the central Catholic doctrine of Transubstantiation and the spiritual strength derived from communion. Perfect for those who hold the Eucharist as the source and summit of their faith. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
-  Updated: 2025-11-04T22:51:08Z
+  Updated: 2025-11-05T20:04:16Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1572,196 +1599,172 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
 - [Trust in God: Padre Pio Inspirational T-Shirt](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt): Let the timeless wisdom of Padre Pio guide your day with our "Pray Like Padre Pio" T-shirt. Featuring a classic image of the saint and his famous quote, "Pray, hope, and don't worry," this shirt is a gentle nudge to live with greater faith and less fear. Crafted for comfort and designed to inspire, it's perfect for personal reflection or as a thoughtful gift for a fellow devotee. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Add both comfort and style to your wardrobe with the Unisex Faded Tee, where effortless elegance meets supreme comfort. Crafted from 100% carded cotton, this tee offers a luxurious softness and breathability for all-day wear. Its boxy, oversized fit and dropped shoulders add a touch of relaxed sophistication. Each tee undergoes garment dyeing, resulting in a unique, faded aesthetic that sets it apart. .: 100% carded cotton.: Heavyweight fabric (7.1 oz/yd² (240.7 g/m²)).: Boxy, oversized fit.: Tear-away label.: Please note: the shirts are dyed after sewing, resulting in more faded edges and a possible hue gradient.: Embroidery decoration method available
-  Updated: 2025-07-29T23:17:39Z
+  Updated: 2025-11-06T23:23:05Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
   - [Faded Bone / S](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748527183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / S](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748559951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / S](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748625487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
   - [Faded Bone / M](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748658255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / M](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748691023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / M](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748756559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
   - [Faded Bone / L](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748789327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / L](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748822095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / L](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748887631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
   - [Faded Bone / XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748920399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357748953167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749018703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
   - [Faded Bone / 2XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749051471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / 2XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749084239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / 2XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749149775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
   - [Faded Bone / 3XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749182543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-266.webp?v=1753831050
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-bone-s-255.webp?v=1762470432
     Price: $42.58 USD
   - [Faded Eucalyptus / 3XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749215311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-788.webp?v=1753831046
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-eucalyptus-s-579.webp?v=1762470428
     Price: $42.58 USD
   - [Faded Khaki / 3XL](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt?variant=43357749280847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-101.webp?v=1753831054
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/trust-in-god-padre-pio-inspirational-t-shirt-faded-khaki-s-927.webp?v=1762470435
     Price: $42.58 USD
 - [Pope John Paul II Inspired "Totus Tuus" Ringer Tee](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee): Carry the spirit of devotion with our "Totus Tuus" Ringer T-shirt, inspired by the personal motto of Saint Pope John Paul II. This tee features a reverent image of the Virgin Mary radiating light, paired with the powerful declaration "Totus Tuus," signifying complete dedication to Our Lady. The contrasting neckline and sleeve bands add a stylish touch to this deeply meaningful garment, perfect for those who seek to live out their consecration. XS S M L XL 2XL 3XL Width, in 17.50 19.00 20.50 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 These custom ringer t-shirts are an all-time classic that offers clean style and a whole lotta attitude in one timeless package. Made with 100% ring-spun cotton, each tee comes with a contrasting 1x1 baby rib binding on the collar and sleeves to give it that classic style. Add your designs in high-end color and create versatile wardrobe icons for any occasion. .: 100% combed, ring-spun cotton (fiber content may vary for different colors).: Light fabric (4.3 oz/yd² (146 g/m²)).: Classic fit.: Tear-away label
-  Updated: 2025-07-29T23:18:09Z
+  Updated: 2025-11-06T16:15:36Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
-  - [Heather Grey/Black / XS](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880320079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
-    Price: $26.88 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
   - [Natural/Black / XS](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880352847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $26.88 USD
   - [Natural/Midnight Navy / XS](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880385615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $26.88 USD
   - [White/Black / XS](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880418383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
-    Price: $26.88 USD
-  - [Heather Grey/Black / S](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880451151)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $26.88 USD
   - [Natural/Black / S](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880483919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $26.88 USD
   - [Natural/Midnight Navy / S](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880516687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $26.88 USD
   - [White/Black / S](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880549455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
-    Price: $26.88 USD
-  - [Heather Grey/Black / M](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880582223)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $26.88 USD
   - [Natural/Black / M](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880614991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $26.88 USD
   - [Natural/Midnight Navy / M](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880647759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $26.88 USD
   - [White/Black / M](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880680527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
-    Price: $26.88 USD
-  - [Heather Grey/Black / L](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880713295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $26.88 USD
   - [Natural/Black / L](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880746063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $26.88 USD
   - [Natural/Midnight Navy / L](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880778831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $26.88 USD
   - [White/Black / L](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880811599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
-    Price: $26.88 USD
-  - [Heather Grey/Black / XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880844367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $26.88 USD
   - [Natural/Black / XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880877135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $26.88 USD
   - [Natural/Midnight Navy / XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880909903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $26.88 USD
   - [White/Black / XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880942671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $26.88 USD
-  - [Heather Grey/Black / 2XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357880975439)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
-    Price: $30.87 USD
   - [Natural/Black / 2XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881008207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $30.87 USD
   - [Natural/Midnight Navy / 2XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881040975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $30.87 USD
-  - [Heather Grey/Black / 3XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881106511)
+  - [White/Black / 2XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43778986672207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-heather-grey-black-xs-t-shirt-656.webp?v=1753831066
-    Price: $34.45 USD
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
+    Price: $30.87 USD
   - [Natural/Black / 3XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881139279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-183.webp?v=1753831070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-black-xs-t-shirt-689.webp?v=1762366514
     Price: $34.45 USD
   - [Natural/Midnight Navy / 3XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881172047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-185.webp?v=1753831062
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-natural-midnight-navy-xs-t-shirt-917.webp?v=1762366509
     Price: $34.45 USD
   - [White/Black / 3XL](https://faithbloom.co/products/pope-john-paul-ii-inspired-totus-tuus-ringer-tee?variant=43357881204815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-104.webp?v=1753831073
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/pope-john-paul-ii-inspired-totus-tuus-ringer-tee-white-black-xs-t-shirt-694.webp?v=1762366518
     Price: $34.45 USD
 - [Jesus Took The Wheel Tee](https://faithbloom.co/products/jesus-took-the-wheel-tee): Ready to just cruise through life? Our "Jesus Took The Wheel" shirt is for you! With a cool vintage steering wheel and that awesome crown of thorns detail, this tee is all about letting God lead the way. It's super comfy and sends a clear message: "I'm Just Here For The Ride!" Perfect for anyone who believes in divine direction. S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 26.50 28.50 30.50 31.50 32.50 33.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 The Alstyle 1301 is a unisex tee for every casual outing. Made with 100% cotton (Athletic Heather is 90% cotton, 10% polyester; Charcoal Heather and Safety Green are 50% cotton, 50% polyester; Ash is 99% cotton, 1% polyester), this tee is supremely soft while the classic fit makes it an easy-going choice for a number of occasions. Add your design and create a highly versatile staple for everyday wear. .: 100% cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (203 g/m²)).: Classic Fit.: Tear-away label
   Updated: 2025-07-29T23:18:20Z
@@ -2485,182 +2488,182 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
     Price: $20.02 USD
-- [No Filter, Just Faith (and a Mood): Blessed & Bitter Tee](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee): For those who are keeping it 100% real: you're blessed, but let's not pretend every day is sunshine and rainbows. This "Blessed and a Little Bitter" shirt gets it. With its iconic halo and that subtle side-eye, it's the perfect blend of spiritual truth and everyday reality. Super comfy and a total mood. XS S M L XL 2XL 3XL Width, in 18.75 19.75 20.75 22.75 24.75 26.75 28.75 Length, in 26.25 27.25 27.75 28.75 29.75 30.25 31.25 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Elevate your casual wardrobe with this Unisex Oversized Boxy Tee. Designed for ultimate comfort, this tee offers a relaxed vibe that's perfect for lounging at home or a casual day out with friends. The playful graphic brings a sense of humor and personality, making it a great conversation starter. This versatile piece is perfect for anyone who enjoys a laid-back style. Ideal for holidays like Easter and occasions such as birthdays or lounging on movie nights, this tee fits seamlessly into your lifestyle, making it an excellent gift for friends and family who appreciate comfort and fun in their fashion.Wear it with your favorite jeans, shorts, or over pajama bottoms for the perfect off-duty look!Product features- 100% cotton for solid colors; blend for Athletic Heather for softness and durability.- Relaxed fit with dropped shoulders for a comfy, casual look.- Durable construction with double needle stitching at hem and sleeves.- Soft airlume combed and ring-spun cotton for a smooth feel.- Lightweight medium fabric (6.0 oz/yd²) for year-round wear.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:28:27Z
+- [Blessed Attitude Oversized Tee](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee): This tee is for those who keep it real and embrace both their blessings and their bad days. With an iconic halo and subtle meh emoji face, it's the perfect blend of spiritual truth and everyday reality. Super comfy and a total mood, this tee is perfect for anyone looking to express their true self.Product features- 100% cotton composition for solid colors- Relaxed fit with dropped shoulders for a comfortable feel- Double needle sleeve, neck, and bottom hem for durability- Medium weight fabric for a quality feel- Tear-away label for added comfortCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2025-11-06T12:40:20Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
   - [Athletic Heather / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484133967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $29.25 USD
   - [Black / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362988884047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $29.25 USD
   - [Dark Grey / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362988916815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $29.25 USD
-  - [White / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362988949583)
+  - [Toast / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884299855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $29.25 USD
   - [Forest / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362988982351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $29.25 USD
   - [Navy / XS](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989015119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $29.25 USD
   - [Athletic Heather / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484166735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $29.25 USD
   - [Black / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989047887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $29.25 USD
   - [Dark Grey / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989080655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $29.25 USD
-  - [White / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989113423)
+  - [Toast / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884332623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $29.25 USD
   - [Forest / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989146191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $29.25 USD
   - [Navy / S](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989178959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $29.25 USD
   - [Athletic Heather / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484199503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $29.25 USD
   - [Black / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989211727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $29.25 USD
   - [Dark Grey / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989244495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $29.25 USD
-  - [White / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989277263)
+  - [Toast / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884365391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $29.25 USD
   - [Forest / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989310031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $29.25 USD
   - [Navy / M](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989342799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $29.25 USD
   - [Athletic Heather / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43458161541199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $29.25 USD
   - [Black / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989375567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $29.25 USD
   - [Dark Grey / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989408335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $29.25 USD
-  - [White / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989441103)
+  - [Toast / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884398159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $29.25 USD
   - [Forest / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989473871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $29.25 USD
   - [Navy / L](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989506639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $29.25 USD
   - [Athletic Heather / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484232271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $29.25 USD
   - [Black / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989539407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $29.25 USD
   - [Dark Grey / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989572175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $29.25 USD
-  - [White / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989604943)
+  - [Toast / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884430927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $29.25 USD
   - [Forest / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989637711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $29.25 USD
   - [Navy / XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989670479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $29.25 USD
   - [Athletic Heather / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484265039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $30.55 USD
   - [Black / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989703247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $30.55 USD
   - [Dark Grey / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989736015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $30.55 USD
-  - [White / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989768783)
+  - [Toast / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884463695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $30.55 USD
   - [Forest / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989801551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $30.55 USD
   - [Navy / 2XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989834319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $30.55 USD
   - [Athletic Heather / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43410484297807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-athletic-heather-xs-t-shirt-692.webp?v=1753831660
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-athletic-heather-xs-t-shirt-686.webp?v=1762379731
     Price: $33.62 USD
   - [Black / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989867087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-black-xs-t-shirt-447.webp?v=1753831640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-black-xs-t-shirt-367.webp?v=1762379714
     Price: $33.62 USD
   - [Dark Grey / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989899855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-dark-grey-xs-t-shirt-840.webp?v=1753831648
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-dark-grey-xs-t-shirt-480.webp?v=1762379719
     Price: $33.62 USD
-  - [White / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989932623)
+  - [Toast / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43780884496463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-white-xs-t-shirt-452.webp?v=1753831644
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-toast-xs-t-shirt-241.webp?v=1762379735
     Price: $33.62 USD
   - [Forest / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989965391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-forest-xs-t-shirt-186.webp?v=1753831652
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-forest-xs-t-shirt-814.webp?v=1762379723
     Price: $33.62 USD
   - [Navy / 3XL](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee?variant=43362989998159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/no-filter-just-faith-and-a-mood-blessed-bitter-tee-navy-xs-t-shirt-459.webp?v=1753831656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/blessed-attitude-oversized-tee-navy-xs-t-shirt-499.webp?v=1762379727
     Price: $33.62 USD
 - [Pray Hard, Confess Harder Eco-Friendly Crewneck Sweatshirt](https://faithbloom.co/products/pray-hard-confess-harder-eco-friendly-crewneck-sweatshirt): Ready to level up your spiritual game? This "Pray Hard. Confess Harder." sweatshirt is the ultimate push. It's got that gym aesthetic, but with rosaries for weights, because real strength comes from within (and from confession!). No shortcuts to spiritual gains. Get yours and put in the work. S M L XL 2XL 3XL 4XL Width, in 20.00 21.97 23.98 25.98 27.99 29.50 31.50 Length, in 26.50 27.48 28.46 29.49 30.00 31.00 31.50 Sleeve length, in 34.00 35.25 35.87 36.62 37.37 38.12 38.87 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Introducing a soft and stylish Unisex EcoSmart® Crewneck Sweatshirt that embodies both comfort and practicality. Made from a blend of cotton and polyester, this sweatshirt is perfect for those who lead an active lifestyle while also being environmentally conscious. The cozy fleece interior feels warm against the skin, making it ideal for chilly winter days or casual evenings out. Whether you're heading to the gym, lounging at home, or attending a gathering, this versatile piece fits seamlessly into your life. Great for fitness enthusiasts, casual wearers, and anyone who loves a blend of comfort and motivation in their wardrobe. Ideal for gifting on special occasions such as holidays, birthdays, or even just to treat yourself!Product features- Made from strong and smooth fabric, perfect for printing.- Ribbed knit collar retains its shape with elastic support.- Durable double-needle cover-seams keep seams strong.- Seamless design reduces fabric waste and enhances attractiveness.- Crafted from 50% cotton and 50% polyester, with variations for different colors.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-11-04T23:44:36Z
+  Updated: 2025-11-05T21:05:31Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -3072,416 +3075,416 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-workout-t-shirt-for-fitness-enthusiasts-gym-gift-humor-tee-leg-day-unisex-cotton-top-white-s-296.webp?v=1753831908
     Price: $16.62 USD
 - [Christ-Centered Gamer T-Shirt - God Mode Activated, Unisex Tee for Faith-Based Gamers](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): In the arena of life, are you playing to win with divine guidance? This "GOD MODE: ACTIVATED" t-shirt is for those who understand that true strength comes from above, powering up your journey like never before.This shirt speaks to those who find parallels between the dedication of gaming and the commitment of faith. It's a reminder that with God as your ultimate power source, you can approach life's "game" with confidence, purpose, and a winning spirit. Activate your faith. Activate your "GOD MODE' XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.00 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 7.99 8.23 8.50 8.74 9.02 9.25 9.49 9.72 9.96 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Elevate your wardrobe with this stylish and versatile unisex softstyle t-shirt, designed for comfort and a chic look. With its classic fit and breathable fabric, it’s perfect for everyday wear, whether you’re lounging at home or stepping out with friends. This t-shirt exudes a relaxed vibe, making it a great choice for casual outings, games, or even relaxed gatherings. Ideal for gamers, religious individuals, or anyone who appreciates expressing their style, this shirt is a fantastic gift for birthdays, holidays, or celebration events. Celebrate your faith or passion with this eye-catching piece, perfect for a range of occasions.Product features- Without side seams for a clean look and less waste.- Highly elastic ribbed collar that retains its shape.- Shoulder tape to stabilize the garment and prevent stretching.- Made from 100% ring-spun cotton for a lightweight feel.- Ethically sourced and certified for safety and quality.Care instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
-  Updated: 2025-07-29T23:34:55Z
+  Updated: 2025-11-06T20:07:06Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
   - [XS / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390487429199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $16.07 USD
   - [XS / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435889743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-876.webp?v=1753831994
-    Price: $16.07 USD
-  - [XS / Heather Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435922511)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-heather-navy-462.webp?v=1753832008
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-490.webp?v=1762458581
     Price: $16.07 USD
   - [XS / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435955279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
+    Price: $16.07 USD
+  - [XS / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776782927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-white-389.webp?v=1762458600
     Price: $16.07 USD
   - [XS / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433435988047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-378.webp?v=1753831977
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
     Price: $16.07 USD
   - [XS / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436020815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-623.webp?v=1753831999
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-177.webp?v=1762458586
     Price: $16.07 USD
   - [S / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390487560271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $16.07 USD
   - [S / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436053583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-342.webp?v=1753831986
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-445.webp?v=1762458572
     Price: $16.07 USD
   - [S / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436086351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
     Price: $16.07 USD
   - [S / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436119119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-922.webp?v=1753832012
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
+    Price: $16.07 USD
+  - [S / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776815695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-white-389.webp?v=1762458600
     Price: $16.07 USD
   - [S / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436151887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-378.webp?v=1753831977
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
     Price: $16.07 USD
   - [S / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436184655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-551.webp?v=1753831990
-    Price: $16.07 USD
-  - [S / Heather Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436217423)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-heather-navy-462.webp?v=1753832008
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-108.webp?v=1762458577
     Price: $16.07 USD
   - [S / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436250191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-876.webp?v=1753831994
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-490.webp?v=1762458581
     Price: $16.07 USD
-  - [S / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436282959)
+  - [S / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776848463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-maroon-446.webp?v=1753831981
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-natural-350.webp?v=1762458607
     Price: $16.07 USD
   - [S / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436315727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-623.webp?v=1753831999
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-177.webp?v=1762458586
     Price: $16.07 USD
   - [M / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390488051791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $16.07 USD
   - [M / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436348495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-342.webp?v=1753831986
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-445.webp?v=1762458572
     Price: $16.07 USD
   - [M / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436381263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
     Price: $16.07 USD
   - [M / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436414031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-922.webp?v=1753832012
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
+    Price: $16.07 USD
+  - [M / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776881231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-white-389.webp?v=1762458600
     Price: $16.07 USD
   - [M / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436446799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-378.webp?v=1753831977
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
     Price: $16.07 USD
   - [M / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436479567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-551.webp?v=1753831990
-    Price: $16.07 USD
-  - [M / Heather Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436512335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-heather-navy-462.webp?v=1753832008
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-108.webp?v=1762458577
     Price: $16.07 USD
   - [M / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436545103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-876.webp?v=1753831994
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-490.webp?v=1762458581
     Price: $16.07 USD
-  - [M / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436577871)
+  - [M / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776913999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-maroon-446.webp?v=1753831981
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-natural-350.webp?v=1762458607
     Price: $16.07 USD
   - [M / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436610639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-623.webp?v=1753831999
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-177.webp?v=1762458586
     Price: $16.07 USD
   - [L / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390488543311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $16.07 USD
   - [L / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436643407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-342.webp?v=1753831986
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-445.webp?v=1762458572
     Price: $16.07 USD
   - [L / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436676175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
     Price: $16.07 USD
   - [L / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436708943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-922.webp?v=1753832012
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
+    Price: $16.07 USD
+  - [L / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776946767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-white-389.webp?v=1762458600
     Price: $16.07 USD
   - [L / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436741711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-378.webp?v=1753831977
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
     Price: $16.07 USD
   - [L / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436774479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-551.webp?v=1753831990
-    Price: $16.07 USD
-  - [L / Heather Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436807247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-heather-navy-462.webp?v=1753832008
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-108.webp?v=1762458577
     Price: $16.07 USD
   - [L / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436840015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-876.webp?v=1753831994
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-490.webp?v=1762458581
     Price: $16.07 USD
-  - [L / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436872783)
+  - [L / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782776979535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-maroon-446.webp?v=1753831981
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-natural-350.webp?v=1762458607
     Price: $16.07 USD
   - [L / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436905551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-623.webp?v=1753831999
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-177.webp?v=1762458586
     Price: $16.07 USD
   - [XL / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390489034831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $16.07 USD
   - [XL / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436938319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-342.webp?v=1753831986
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-445.webp?v=1762458572
     Price: $16.07 USD
   - [XL / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433436971087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
     Price: $16.07 USD
   - [XL / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437003855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-922.webp?v=1753832012
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
+    Price: $16.07 USD
+  - [XL / White](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782777012303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-white-389.webp?v=1762458600
     Price: $16.07 USD
   - [XL / Black](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437036623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-378.webp?v=1753831977
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-black-928.webp?v=1762458562
     Price: $16.07 USD
   - [XL / Forest Green](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437069391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-551.webp?v=1753831990
-    Price: $16.07 USD
-  - [XL / Heather Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437102159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-heather-navy-462.webp?v=1753832008
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-forest-green-108.webp?v=1762458577
     Price: $16.07 USD
   - [XL / Dark Heather](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437134927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-876.webp?v=1753831994
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-490.webp?v=1762458581
     Price: $16.07 USD
-  - [XL / Maroon](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437167695)
+  - [XL / Natural](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43782777045071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-maroon-446.webp?v=1753831981
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-natural-350.webp?v=1762458607
     Price: $16.07 USD
   - [XL / Dark Heather Grey](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437200463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-623.webp?v=1753831999
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-dark-heather-grey-177.webp?v=1762458586
     Price: $16.07 USD
   - [2XL / Charcoal](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43390489493583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-575.webp?v=1753831972
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-charcoal-852.webp?v=1762458567
     Price: $18.38 USD
   - [2XL / Dark Chocolate](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437233231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-342.webp?v=1753831986
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-dark-chocolate-445.webp?v=1762458572
     Price: $18.38 USD
   - [2XL / Navy](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437265999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-397.webp?v=1753832004
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-xs-navy-147.webp?v=1762458591
     Price: $18.38 USD
   - [2XL / Purple](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video?variant=43433437298767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-922.webp?v=1753832012
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
     Price: $18.38 USD
 - [Prayer Connection Tee, Spiritual Apparel, Unisex T-Shirt, Faith-Based Clothing, Inspirational Gift, Everyday Wear](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): In a world dependent on Wi-Fi, this tee celebrates the one connection that never drops: "PRAYER: The Original Wireless Connection." This clever design features the word "PRAYER:" above a luminous graphic where a modern Wi-Fi symbol is cradled by celestial light and gentle wings, encapsulating the idea of an eternal, limitless spiritual broadband. Below, the iconic phrase "The Original Wireless Connection" ties it all together. I XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 10.80 11.20 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 t's a witty and profound way to express your faith, perfect for those who appreciate a smart blend of technology and timeless truth. Introducing the ultimate Unisex Jersey Short Sleeve Tee, designed for comfort and style. This tee features a classic crew neckline and a lightweight fabric, making it perfect for layering or wearing on its own. Its vibrant print and message make it a great conversation starter, adding a touch of inspiration to your wardrobe. Ideal for casual outings, gatherings, or just lounging at home, it's the perfect gift for those who appreciate a meaningful statement in their fashion. Celebrate occasions like birthdays, holidays, or any special event with a gift that resonates with spirituality and connection. Whether you’re at a family BBQ, a picnic with friends, or enjoying a quiet moment at home, this tee is a cozy addition to your everyday life.Product features- Made with 100% Airlume combed and ring-spun cotton for a lightweight feel.- Structured side seams for durability and shape retention.- Ribbed knit collar that retains its shape for long-lasting wear.- Vibrant, high-quality printing techniques ensure bold graphics.- Tear-away label minimizes skin irritations for comfort.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-07-29T23:38:44Z
+  Updated: 2025-11-06T19:19:16Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-533.webp?v=1753832098
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-643.webp?v=1762455570
   - [Asphalt / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410643877967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-891.webp?v=1753832125
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-474.webp?v=1762455586
     Price: $18.50 USD
-  - [Athletic Heather / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410643910735)
+  - [Dark Grey Heather / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739034191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-athletic-heather-xs-642.webp?v=1753832121
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-dark-grey-heather-xs-508.webp?v=1762455621
     Price: $18.50 USD
   - [Deep Heather / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644041807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-672.webp?v=1753832105
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-170.webp?v=1762455576
     Price: $18.50 USD
   - [Heather Brown / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941158479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-247.webp?v=1753832145
-    Price: $18.50 USD
-  - [Pebble Brown / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941191247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-pebble-brown-xs-532.webp?v=1753832135
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-292.webp?v=1762455597
     Price: $18.50 USD
   - [Silver / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941224015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-389.webp?v=1753832140
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-194.webp?v=1762455591
     Price: $18.50 USD
-  - [Heather Stone / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644140111)
+  - [Solid Black Blend / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739066959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-stone-xs-658.webp?v=1753832115
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
-  - [Storm / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644238415)
+  - [Solid White Blend / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739099727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-storm-xs-673.webp?v=1753832130
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-white-blend-xs-250.webp?v=1762455603
     Price: $18.50 USD
-  - [Heather Cool Grey / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941256783)
+  - [Heather Maroon / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739132495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-cool-grey-xs-381.webp?v=1753832150
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-maroon-xs-789.webp?v=1762455627
+    Price: $18.50 USD
+  - [Tan / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739165263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-tan-xs-386.webp?v=1762455615
     Price: $18.50 USD
   - [Heather Autumn / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644271183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-912.webp?v=1753832110
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-465.webp?v=1762455581
     Price: $18.50 USD
   - [Solid Athletic Grey / XS](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941289551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-533.webp?v=1753832098
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-643.webp?v=1762455570
     Price: $18.50 USD
   - [Asphalt / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644303951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-891.webp?v=1753832125
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-474.webp?v=1762455586
     Price: $18.50 USD
-  - [Athletic Heather / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644336719)
+  - [Dark Grey Heather / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739198031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-athletic-heather-xs-642.webp?v=1753832121
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-dark-grey-heather-xs-508.webp?v=1762455621
     Price: $18.50 USD
   - [Deep Heather / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644467791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-672.webp?v=1753832105
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-170.webp?v=1762455576
     Price: $18.50 USD
   - [Heather Brown / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941322319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-247.webp?v=1753832145
-    Price: $18.50 USD
-  - [Pebble Brown / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941355087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-pebble-brown-xs-532.webp?v=1753832135
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-292.webp?v=1762455597
     Price: $18.50 USD
   - [Silver / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941387855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-389.webp?v=1753832140
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-194.webp?v=1762455591
     Price: $18.50 USD
-  - [Heather Stone / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644566095)
+  - [Solid Black Blend / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739230799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-stone-xs-658.webp?v=1753832115
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
-  - [Storm / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644664399)
+  - [Solid White Blend / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739263567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-storm-xs-673.webp?v=1753832130
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-white-blend-xs-250.webp?v=1762455603
     Price: $18.50 USD
-  - [Heather Cool Grey / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941420623)
+  - [Heather Maroon / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739296335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-cool-grey-xs-381.webp?v=1753832150
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-maroon-xs-789.webp?v=1762455627
+    Price: $18.50 USD
+  - [Tan / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739329103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-tan-xs-386.webp?v=1762455615
     Price: $18.50 USD
   - [Heather Autumn / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644697167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-912.webp?v=1753832110
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-465.webp?v=1762455581
     Price: $18.50 USD
   - [Solid Athletic Grey / S](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941453391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-533.webp?v=1753832098
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-643.webp?v=1762455570
     Price: $18.50 USD
   - [Asphalt / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644729935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-891.webp?v=1753832125
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-474.webp?v=1762455586
     Price: $18.50 USD
-  - [Athletic Heather / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644762703)
+  - [Dark Grey Heather / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739361871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-athletic-heather-xs-642.webp?v=1753832121
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-dark-grey-heather-xs-508.webp?v=1762455621
     Price: $18.50 USD
   - [Deep Heather / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644893775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-672.webp?v=1753832105
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-170.webp?v=1762455576
     Price: $18.50 USD
   - [Heather Brown / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941486159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-247.webp?v=1753832145
-    Price: $18.50 USD
-  - [Pebble Brown / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941518927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-pebble-brown-xs-532.webp?v=1753832135
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-292.webp?v=1762455597
     Price: $18.50 USD
   - [Silver / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941551695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-389.webp?v=1753832140
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-194.webp?v=1762455591
     Price: $18.50 USD
-  - [Heather Stone / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410644992079)
+  - [Solid Black Blend / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739394639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-stone-xs-658.webp?v=1753832115
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
-  - [Storm / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645090383)
+  - [Solid White Blend / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739427407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-storm-xs-673.webp?v=1753832130
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-white-blend-xs-250.webp?v=1762455603
     Price: $18.50 USD
-  - [Heather Cool Grey / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941584463)
+  - [Heather Maroon / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739460175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-cool-grey-xs-381.webp?v=1753832150
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-maroon-xs-789.webp?v=1762455627
+    Price: $18.50 USD
+  - [Tan / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739492943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-tan-xs-386.webp?v=1762455615
     Price: $18.50 USD
   - [Heather Autumn / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941617231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-912.webp?v=1753832110
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-465.webp?v=1762455581
     Price: $18.50 USD
   - [Solid Athletic Grey / M](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941649999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-533.webp?v=1753832098
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-643.webp?v=1762455570
     Price: $18.50 USD
   - [Asphalt / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645123151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-891.webp?v=1753832125
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-474.webp?v=1762455586
     Price: $18.50 USD
-  - [Athletic Heather / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645155919)
+  - [Dark Grey Heather / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739525711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-athletic-heather-xs-642.webp?v=1753832121
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-dark-grey-heather-xs-508.webp?v=1762455621
     Price: $18.50 USD
   - [Deep Heather / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645286991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-672.webp?v=1753832105
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-170.webp?v=1762455576
     Price: $18.50 USD
   - [Heather Brown / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941682767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-247.webp?v=1753832145
-    Price: $18.50 USD
-  - [Pebble Brown / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941715535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-pebble-brown-xs-532.webp?v=1753832135
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-292.webp?v=1762455597
     Price: $18.50 USD
   - [Silver / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941748303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-389.webp?v=1753832140
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-194.webp?v=1762455591
     Price: $18.50 USD
-  - [Heather Stone / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645385295)
+  - [Solid Black Blend / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739558479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-stone-xs-658.webp?v=1753832115
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
-  - [Storm / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645483599)
+  - [Solid White Blend / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739591247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-storm-xs-673.webp?v=1753832130
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-white-blend-xs-250.webp?v=1762455603
     Price: $18.50 USD
-  - [Heather Cool Grey / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941781071)
+  - [Heather Maroon / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739624015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-cool-grey-xs-381.webp?v=1753832150
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-maroon-xs-789.webp?v=1762455627
+    Price: $18.50 USD
+  - [Tan / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739656783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-tan-xs-386.webp?v=1762455615
     Price: $18.50 USD
   - [Heather Autumn / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941813839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-912.webp?v=1753832110
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-autumn-xs-465.webp?v=1762455581
     Price: $18.50 USD
   - [Solid Athletic Grey / L](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941846607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-533.webp?v=1753832098
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-athletic-grey-xs-643.webp?v=1762455570
     Price: $18.50 USD
   - [Asphalt / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645516367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-891.webp?v=1753832125
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-asphalt-xs-474.webp?v=1762455586
     Price: $18.50 USD
-  - [Athletic Heather / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645549135)
+  - [Dark Grey Heather / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739689551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-athletic-heather-xs-642.webp?v=1753832121
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-dark-grey-heather-xs-508.webp?v=1762455621
     Price: $18.50 USD
   - [Deep Heather / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43410645680207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-672.webp?v=1753832105
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-deep-heather-xs-170.webp?v=1762455576
     Price: $18.50 USD
   - [Heather Brown / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941879375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-247.webp?v=1753832145
-    Price: $18.50 USD
-  - [Pebble Brown / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941912143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-pebble-brown-xs-532.webp?v=1753832135
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-heather-brown-xs-292.webp?v=1762455597
     Price: $18.50 USD
   - [Silver / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43432941944911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-389.webp?v=1753832140
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-silver-xs-194.webp?v=1762455591
+    Price: $18.50 USD
+  - [Solid Black Blend / XL](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear?variant=43782739722319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
 - [Unisex Performance Long Sleeve Shirt - Verified by God Theme, Fitness Apparel, Spiritual Gift, Activewear, Motivational Wear](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): Step out in confidence and comfort with the "Verified by God" long sleeve tee, a stylish declaration of your unshakeable spiritual status. This shirt features a striking minimalist design, showcasing the text "Verified by God" alongside a unique emblem blending a crisp blue checkmark with the revered form of a rosary. The long sleeves offer cozy warmth and a versatile fit, making it ideal for year-round wear – from crisp mornings of reflection to casual evenings out. It's a powerful reminder that true validation comes from above, a timeless truth wrapped in contemporary, comfortable style. XS S M L XL 2XL Width, in 18.50 20.00 21.50 23.00 24.50 26.00 Length, in 25.30 26.30 27.30 28.30 29.30 29.80 Sleeve Length, in 33.00 33.50 34.50 35.50 36.50 37.50 This unisex performance long sleeve shirt is designed for those who value both style and functionality. With a fun and eye-catching print, it adds a playful twist to your athletic wardrobe. The lightweight fabric allows for breathability during workouts, making it perfect for outdoor activities. Enjoy your sun-filled adventures without worry, as this shirt provides UPF 30+ sun protection. Ideal for fitness enthusiasts, this shirt also makes a thoughtful gift for friends or family who love to stay active. Whether you're hitting the gym, going for a run, or enjoying a day at the beach, this shirt will keep you feeling comfortable and looking great. Perfect for occasions such as birthdays, holidays, or just a casual day out.Product features- 100% durable polyester that retains its shape and dries quickly.- Special Direct-to-Film printing for vibrant designs.- Provides UPF 30+ sun protection for outdoor activities.- Moisture-wicking fabric keeps you cool during workouts.- Lightweight at only 3.5 oz/yd², with an athletic fit.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
   Updated: 2025-07-29T23:39:26Z
@@ -3760,728 +3763,688 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
     Price: $31.90 USD
 - [More Holy Spirit T-Shirt, Funny Christian Tee, Anti-Drama Shirt, Faith-Based Fashion, Religious Gift, Casual Wear](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear): Embrace your spirituality with this vibrant Champion T-Shirt, perfect for those seeking to spread a positive message. The playful design featuring doves and a humorous phrase promotes light-heartedness while reminding us of the importance of peace over drama. Ideal for adults who appreciate a blend of comfort and style, this shirt effortlessly fits into casual outings, church gatherings, or community events. It's a wonderful gift for friends and family during holidays, birthdays, or any moment when celebrating life's meaningful connections.Product features- 100% cotton for solid colors, ensuring comfort and breathability.- Twill tape stabilization around neck and shoulders to maintain shape.- Seamless design reduces fabric waste while enhancing durability.- Double-stitched seams for long-lasting wear.- Classic fit with a tag-free neck label for added comfort.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:42:37Z
+  Updated: 2025-11-06T14:13:09Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-622.webp?v=1753832441
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
   - [Black / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786811983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-341.webp?v=1753832469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $25.32 USD
   - [Charcoal Heather / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786844751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-793.webp?v=1762369045
     Price: $25.32 USD
   - [Navy / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786877519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-111.webp?v=1753832465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $25.32 USD
   - [Royal Blue / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786910287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-785.webp?v=1762369059
     Price: $25.32 USD
   - [White / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786943055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-622.webp?v=1753832441
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
     Price: $24.63 USD
   - [Cardinal / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410786975823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-751.webp?v=1753832481
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-837.webp?v=1762369081
     Price: $25.32 USD
   - [Light Blue / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787008591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-760.webp?v=1753832456
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-997.webp?v=1762369055
+    Price: $25.32 USD
+  - [Pink Candy / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018424399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-s-290.webp?v=1762369077
     Price: $25.32 USD
   - [Purple / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787041359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
     Price: $25.32 USD
   - [Dark Green / S](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787074127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-568.webp?v=1762369050
     Price: $25.32 USD
   - [Black / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787106895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-341.webp?v=1753832469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $25.32 USD
   - [Charcoal Heather / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787139663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-793.webp?v=1762369045
     Price: $25.32 USD
   - [Navy / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787172431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-111.webp?v=1753832465
-    Price: $25.32 USD
-  - [Royal Blue / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787205199)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $25.32 USD
   - [White / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787237967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-622.webp?v=1753832441
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
     Price: $24.63 USD
+  - [Cardinal / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018457167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-837.webp?v=1762369081
+    Price: $25.32 USD
   - [Light Blue / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787270735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-760.webp?v=1753832456
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-997.webp?v=1762369055
     Price: $25.32 USD
   - [Purple / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787303503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
     Price: $25.32 USD
   - [Dark Green / M](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787336271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-568.webp?v=1762369050
     Price: $25.32 USD
   - [Black / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787369039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-341.webp?v=1753832469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $25.32 USD
   - [Charcoal Heather / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787401807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-793.webp?v=1762369045
     Price: $25.32 USD
   - [Navy / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787434575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-111.webp?v=1753832465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $25.32 USD
   - [Royal Blue / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787467343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-785.webp?v=1762369059
     Price: $25.32 USD
   - [White / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787500111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-622.webp?v=1753832441
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
     Price: $24.63 USD
   - [Cardinal / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43458156855375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-751.webp?v=1753832481
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-837.webp?v=1762369081
     Price: $25.32 USD
   - [Purple / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787532879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
     Price: $25.32 USD
   - [Dark Green / L](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787565647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-568.webp?v=1762369050
     Price: $25.32 USD
   - [Black / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787598415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-341.webp?v=1753832469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $25.32 USD
   - [Charcoal Heather / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787631183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-793.webp?v=1762369045
     Price: $25.32 USD
   - [Navy / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787663951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-111.webp?v=1753832465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $25.32 USD
   - [Royal Blue / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787696719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-785.webp?v=1762369059
     Price: $25.32 USD
   - [White / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787729487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-622.webp?v=1753832441
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
     Price: $24.63 USD
-  - [Cardinal / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787762255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-751.webp?v=1753832481
-    Price: $25.32 USD
   - [Light Blue / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787795023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-760.webp?v=1753832456
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-997.webp?v=1762369055
+    Price: $25.32 USD
+  - [Pink Candy / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018489935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-s-290.webp?v=1762369077
     Price: $25.32 USD
   - [Purple / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787827791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
     Price: $25.32 USD
   - [Dark Green / XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787860559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-568.webp?v=1762369050
     Price: $25.32 USD
-  - [Charcoal Heather / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787893327)
+  - [Black / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018522703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $29.27 USD
   - [Navy / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787926095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-111.webp?v=1753832465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $29.27 USD
-  - [Royal Blue / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410787958863)
+  - [White / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018555471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
-    Price: $29.27 USD
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
+    Price: $28.60 USD
   - [Light Blue / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788024399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-760.webp?v=1753832456
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-997.webp?v=1762369055
     Price: $29.27 USD
   - [Pink Candy / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788057167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-2xl-219.webp?v=1753832477
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-s-290.webp?v=1762369077
     Price: $29.27 USD
   - [Purple / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788089935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
+    Price: $29.27 USD
+  - [Dark Green / 2XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018588239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-568.webp?v=1762369050
     Price: $29.27 USD
   - [Black / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788155471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-341.webp?v=1753832469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-black-s-474.webp?v=1762369068
     Price: $29.92 USD
   - [Charcoal Heather / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788188239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-670.webp?v=1753832447
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-charcoal-heather-s-793.webp?v=1762369045
+    Price: $29.92 USD
+  - [Navy / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018621007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-navy-s-829.webp?v=1762369064
     Price: $29.92 USD
   - [Royal Blue / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788221007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-246.webp?v=1753832461
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-royal-blue-s-785.webp?v=1762369059
     Price: $29.92 USD
-  - [Cardinal / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788253775)
+  - [White / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43779018653775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-cardinal-s-751.webp?v=1753832481
-    Price: $29.92 USD
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-white-s-522.webp?v=1762369041
+    Price: $29.25 USD
   - [Light Blue / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788286543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-760.webp?v=1753832456
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-light-blue-s-997.webp?v=1762369055
     Price: $29.92 USD
   - [Pink Candy / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788319311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-2xl-219.webp?v=1753832477
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-pink-candy-s-290.webp?v=1762369077
     Price: $29.92 USD
   - [Purple / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788352079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-325.webp?v=1753832473
-    Price: $29.92 USD
-  - [Dark Green / 3XL](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear?variant=43410788384847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-dark-green-s-377.webp?v=1753832451
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-faith-based-fashion-religious-gift-casual-wear-purple-s-594.webp?v=1762369073
     Price: $29.92 USD
 - [Hope Candle T-Shirt, Unisex Inspirational Tee, Gift for Encouragement, Spiritual Apparel, Comfort Wear for All Occasions](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions): "Embrace the light with our 'Hope' T-shirt. Featuring a beautifully rendered candle and the powerful scripture from John 1:5, this shirt is a reminder that darkness can never overcome the light. A comfortable and meaningful addition to your wardrobe." S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Experience warmth and inspiration with our Relaxed Fit T-Shirt. Designed for comfort, this versatile tee is perfect for both casual outings and semi-formal occasions. The soft, garment-dyed fabric offers a unique texture, creating a cozy vibe that makes you feel at ease. Ideal for anyone seeking comfort with style, this t-shirt resonates with those who appreciate thoughtful design and sustainability. Perfect for celebrations like birthdays, family gatherings, or simply as a gift of hope during tough times, it adds a meaningful touch to your wardrobe. Suitable for adults who value quality and comfort in their everyday wear.Product features- Available in sizes S to 4XL for a perfect fit.- Durable double-needle stitching on all seams.- Seamless tubular knit design minimizes fabric waste.- Garment-dyed fabric for a soft, unique texture.- Made from ethically sourced 100% US cotton.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-11-05T00:00:22Z
+  Updated: 2025-11-05T20:57:19Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
   - [Black / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819055695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
     Price: $20.30 USD
   - [Navy / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819088463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-199.webp?v=1762301777
     Price: $20.30 USD
   - [Blue Spruce / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819153999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-916.webp?v=1762301762
     Price: $20.30 USD
   - [Chili / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819186767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-188.webp?v=1762301786
     Price: $20.30 USD
   - [Graphite / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819219535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-262.webp?v=1762301773
     Price: $20.30 USD
   - [Hemp / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819252303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-215.webp?v=1762301752
     Price: $20.30 USD
   - [Moss / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819285071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-303.webp?v=1762301757
     Price: $20.30 USD
   - [Pepper / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819317839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-800.webp?v=1762301742
     Price: $20.30 USD
   - [Sage / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819350607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-213.webp?v=1762301748
     Price: $20.30 USD
   - [True Navy / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819383375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-389.webp?v=1762301768
     Price: $20.30 USD
   - [Espresso / S](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819416143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-577.webp?v=1762301737
     Price: $20.30 USD
   - [Black / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819448911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
     Price: $20.30 USD
   - [Navy / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819481679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-199.webp?v=1762301777
     Price: $20.30 USD
   - [Blue Spruce / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819547215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-916.webp?v=1762301762
     Price: $20.30 USD
   - [Chili / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819579983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-188.webp?v=1762301786
     Price: $20.30 USD
   - [Graphite / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819612751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-262.webp?v=1762301773
     Price: $20.30 USD
   - [Hemp / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819645519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-215.webp?v=1762301752
     Price: $20.30 USD
   - [Moss / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819678287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-303.webp?v=1762301757
     Price: $20.30 USD
   - [Pepper / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819711055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-800.webp?v=1762301742
     Price: $20.30 USD
   - [Sage / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819743823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-213.webp?v=1762301748
     Price: $20.30 USD
   - [True Navy / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819776591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-389.webp?v=1762301768
     Price: $20.30 USD
   - [Espresso / M](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819809359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-577.webp?v=1762301737
     Price: $20.30 USD
   - [Black / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819842127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
     Price: $20.30 USD
   - [Navy / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819874895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-199.webp?v=1762301777
     Price: $20.30 USD
   - [Blue Spruce / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819940431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-916.webp?v=1762301762
     Price: $20.30 USD
   - [Chili / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410819973199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-188.webp?v=1762301786
     Price: $20.30 USD
   - [Graphite / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820005967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-262.webp?v=1762301773
     Price: $20.30 USD
   - [Hemp / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820038735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-215.webp?v=1762301752
     Price: $20.30 USD
   - [Moss / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820071503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-303.webp?v=1762301757
     Price: $20.30 USD
   - [Pepper / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820104271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-800.webp?v=1762301742
     Price: $20.30 USD
   - [Sage / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820137039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-213.webp?v=1762301748
     Price: $20.30 USD
   - [True Navy / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820169807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-389.webp?v=1762301768
     Price: $20.30 USD
   - [Espresso / L](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820202575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-577.webp?v=1762301737
     Price: $20.30 USD
   - [Black / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820235343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
     Price: $20.30 USD
   - [Navy / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820268111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-199.webp?v=1762301777
     Price: $20.30 USD
   - [Blue Spruce / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820333647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-916.webp?v=1762301762
     Price: $20.30 USD
   - [Chili / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820366415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-188.webp?v=1762301786
     Price: $20.30 USD
   - [Graphite / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820399183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-262.webp?v=1762301773
     Price: $20.30 USD
   - [Hemp / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820431951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-215.webp?v=1762301752
     Price: $20.30 USD
   - [Moss / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820464719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15569399481433466736_2048.jpg?v=1762300764
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-moss-s-303.webp?v=1762301757
     Price: $20.30 USD
   - [Pepper / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820497487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/441139335688093066_2048.jpg?v=1762300760
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-pepper-s-800.webp?v=1762301742
     Price: $20.30 USD
   - [Sage / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820530255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7466495546637204765_2048.jpg?v=1762300761
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-sage-s-213.webp?v=1762301748
     Price: $20.30 USD
   - [True Navy / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820563023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18176392847971361103_2048.jpg?v=1762300767
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-true-navy-s-389.webp?v=1762301768
     Price: $20.30 USD
   - [Espresso / XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820595791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/2557521201389050832_2048.jpg?v=1762300758
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-espresso-s-577.webp?v=1762301737
     Price: $20.30 USD
   - [Black / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820628559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4114332987983174616_2048.jpg?v=1762300756
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-black-s-109.webp?v=1762301732
     Price: $22.42 USD
   - [Navy / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820661327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/18387748116232935835_2048.jpg?v=1762300769
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-navy-s-199.webp?v=1762301777
     Price: $22.42 USD
   - [Blue Spruce / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820726863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/14457991670028474327_2048.jpg?v=1762300765
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-blue-spruce-s-916.webp?v=1762301762
     Price: $22.42 USD
   - [Chili / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820759631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17294051810748737925_2048.jpg?v=1762300771
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-chili-s-188.webp?v=1762301786
     Price: $22.42 USD
   - [Graphite / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820792399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16765571371886006335_2048.jpg?v=1762300768
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-graphite-s-262.webp?v=1762301773
     Price: $22.42 USD
   - [Hemp / 2XL](https://faithbloom.co/products/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-for-all-occasions?variant=43410820825167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6080452235785139373_2048.jpg?v=1762300762
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/hope-candle-t-shirt-unisex-inspirational-tee-gift-for-encouragement-spiritual-apparel-comfort-wear-all-occasions-hemp-s-215.webp?v=1762301752
     Price: $22.42 USD
 - [Unisex Heavy Faded Tee - Inspirational Grace Upon Grace Shirt, Motivational Gift, Casual Wear, Everyday Comfort, Perfect for Faith and [...]](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and): Celebrate God's endless favor with our 'Grace Upon Grace' T-shirt. This elegant tee showcases the phrase 'Grace upon Grace' in a captivating circular design, symbolizing infinite blessings. Below, the comforting words of John 1:16 remind us: 'From His fullness we have all received, grace upon grace.' Crafted from a soft, comfortable fabric, it's a beautiful way to wear your faith. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Introducing our Unisex Heavy Faded Tee, the perfect blend of comfort and style. Designed for a relaxed silhouette, this tee embraces a laid-back vibe ideal for casual gatherings or cozy nights in. Its oversized fit ensures maximum comfort, making it a go-to piece for anyone looking to express themselves with ease. Suitable for men and women alike, this tee is perfect for birthdays, anniversaries, or simply as a heartfelt gift for someone special. With its unique faded design, it brings a sense of nostalgia and warmth to your wardrobe, making it a meaningful addition to any outfit. Whether you're dressing up for a day out or lounging at home, this tee complements any occasion with effortless style.Product features- Dropped shoulders for a relaxed fit- Double-needle stitching for durability- Ribbed collar for comfort- Heavyweight 100% carded cotton- Boxy, oversized style with unique faded edgesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:47:14Z
+  Updated: 2025-11-06T13:41:19Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
   - [Faded Black / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410830917711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410830950479)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410830983247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831016015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
-    Price: $42.58 USD
-  - [Faded Grey / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831048783)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Indigo / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831081551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / S](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831114319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
   - [Faded Black / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831147087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831179855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831212623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831245391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Grey / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831278159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-m-t-775.webp?v=1762389798
     Price: $42.58 USD
   - [Faded Indigo / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831310927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / M](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831343695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
   - [Faded Black / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831376463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831409231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831441999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831474767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Grey / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831507535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-m-t-775.webp?v=1762389798
     Price: $42.58 USD
   - [Faded Indigo / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831540303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / L](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831573071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
   - [Faded Black / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831605839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831638607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831671375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831704143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Grey / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831736911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-m-t-775.webp?v=1762389798
     Price: $42.58 USD
   - [Faded Indigo / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831769679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831802447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
   - [Faded Black / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831835215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831867983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831900751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831933519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Grey / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831966287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-m-t-775.webp?v=1762389798
     Price: $42.58 USD
   - [Faded Indigo / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410831999055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / 2XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832031823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
   - [Faded Black / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832064591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-549.webp?v=1753832799
-    Price: $42.58 USD
-  - [Faded Bone / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832097359)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-bone-s-t-166.webp?v=1753832776
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-black-s-t-784.webp?v=1762389812
     Price: $42.58 USD
   - [Faded Brown / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832130127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-389.webp?v=1753832788
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-brown-s-t-932.webp?v=1762389802
     Price: $42.58 USD
   - [Faded Eucalyptus / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832162895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-445.webp?v=1753832792
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-eucalyptus-s-t-934.webp?v=1762389805
     Price: $42.58 USD
   - [Faded Grey / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832195663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-s-t-635.webp?v=1753832784
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-grey-m-t-775.webp?v=1762389798
     Price: $42.58 USD
   - [Faded Indigo / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832228431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-813.webp?v=1753832796
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-indigo-s-t-393.webp?v=1762389809
     Price: $42.58 USD
   - [Faded Khaki / 3XL](https://faithbloom.co/products/unisex-heavy-faded-tee-inspirational-grace-upon-grace-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and?variant=43410832261199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-854.webp?v=1753832780
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-heavy-faded-tee-inspirational-grace-upon-shirt-motivational-gift-casual-wear-everyday-comfort-perfect-for-faith-and-khaki-s-t-269.webp?v=1762389794
     Price: $42.58 USD
 - [Radiant Roots Unisex Sueded T-Shirt | Sun Design, Casual Wear, Gift for Yoga Lovers, Mindfulness Apparel, Summer Style, Festival Tee](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee): Discover profound meaning in our "Golden Roots of Faith" T-shirt. This unique design beautifully illustrates spiritual grounding, showcasing a luminous cross at the heart of a sun-like emblem with roots extending downward. Inspired by Colossians 2:7, this shirt serves as a constant reminder to be "Rooted and built up in Him," offering both style and deep biblical encouragement. S M L XL 2XL 3XL Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Width, in 19.00 20.50 22.00 24.00 26.00 28.00 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 Elevate your wardrobe with this stylish unisex sueded t-shirt, designed to bring comfort and a touch of elegance to your everyday look. With its soft fabric and flattering fit, this tee is perfect for any casual outing or relaxed day at home. It features a ribbed collar that maintains its shape, ensuring you'll always look sharp. Ideal for those who appreciate quality and style, this t-shirt resonates with fashion-forward individuals who embrace a laid-back lifestyle. Whether you’re celebrating a birthday, attending a casual family gathering, or gifting to a friend, this tee is a versatile addition to any wardrobe. Made for adults who love a blend of comfort and sophistication, it’s perfect for seasonal festivities and everyday wear alike.Product features- 60% Combed Ring Spun Cotton and 40% Polyester for a soft, durable feel.- 1x1 Ribbed collar that maintains shape and offers flexibility.- Side seams enhance structure and shape retention.- Lightweight fabric, perfect for layering or as a standalone piece.- Preshrunk to minimize shrinkage after washing.Care instructions- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Machine wash: cold (max 30C or 90F)
-  Updated: 2025-07-29T23:48:10Z
+  Updated: 2025-11-06T14:57:05Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
   - [S / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946031695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $25.50 USD
   - [S / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946064463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $25.50 USD
   - [S / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946097231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
-    Price: $25.50 USD
-  - [S / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946129999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heather-cool-blue-148.webp?v=1753832836
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $25.50 USD
   - [S / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946162767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $25.50 USD
   - [S / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946195535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $25.50 USD
   - [M / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946228303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $25.50 USD
   - [M / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946261071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $25.50 USD
   - [M / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946293839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
-    Price: $25.50 USD
-  - [M / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946326607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heather-cool-blue-148.webp?v=1753832836
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $25.50 USD
   - [M / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946359375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $25.50 USD
   - [M / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946392143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $25.50 USD
   - [L / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946424911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $25.50 USD
   - [L / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946457679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $25.50 USD
   - [L / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946490447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $25.50 USD
   - [L / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946523215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $25.50 USD
   - [L / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946555983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $25.50 USD
   - [XL / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946588751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $25.50 USD
   - [XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946621519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $25.50 USD
   - [XL / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946654287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
-    Price: $25.50 USD
-  - [XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946687055)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heather-cool-blue-148.webp?v=1753832836
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $25.50 USD
   - [XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946719823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $25.50 USD
   - [XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946752591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $25.50 USD
   - [2XL / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946785359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $29.85 USD
   - [2XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946818127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $29.85 USD
   - [2XL / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946850895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
-    Price: $29.85 USD
-  - [2XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43428366123087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heather-cool-blue-148.webp?v=1753832836
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $29.85 USD
   - [2XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946883663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $29.85 USD
   - [2XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946916431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $29.85 USD
   - [3XL / Black](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946949199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-731.webp?v=1753832827
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-black-197.webp?v=1762390157
     Price: $31.10 USD
   - [3XL / Charcoal Heather](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410946981967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-568.webp?v=1753832844
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-charcoal-heather-764.webp?v=1762390165
     Price: $31.10 USD
   - [3XL / Dark Heather Grey](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410947014735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-886.webp?v=1753832847
-    Price: $31.10 USD
-  - [3XL / Heather Cool Blue](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410947047503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heather-cool-blue-148.webp?v=1753832836
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-dark-heather-grey-880.webp?v=1762390169
     Price: $31.10 USD
   - [3XL / Heavy Metal](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410947080271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-459.webp?v=1753832840
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-heavy-metal-789.webp?v=1762390161
     Price: $31.10 USD
   - [3XL / White](https://faithbloom.co/products/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee?variant=43410947113039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-908.webp?v=1753832831
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/radiant-roots-unisex-sueded-t-shirt-sun-design-casual-wear-gift-for-yoga-lovers-mindfulness-apparel-summer-style-festival-tee-s-white-776.webp?v=1762390153
     Price: $31.10 USD
 - [Unisex Inspirational Sweatshirt | Chosen Loved Redeemed | Cozy Christian Apparel | Gift for Faith Lovers | Everyday Wear](https://faithbloom.co/products/unisex-inspirational-sweatshirt-chosen-loved-redeemed-cozy-christian-apparel-gift-for-faith-lovers-everyday-wear): "Declare your identity in Christ with our 'Chosen. Loved. Redeemed.' sweatshirt. Featuring bold white lettering and the empowering scripture Colossians 2:7, this cozy crewneck is a powerful statement of faith and comfort." S M L XL 2XL 3XL Width, in 20.00 22.00 24.00 26.00 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 Sleeve length from center back, in 34.50 35.50 36.50 37.50 38.50 39.00 Experience comfort and style with our Unisex NuBlend® Crewneck Sweatshirt. This cozy sweatshirt radiates warmth and positivity, perfect for any casual occasion. The uplifting message it carries makes it not just a piece of clothing, but a beacon of encouragement and love. Ideal for those who find beauty in faith, this sweatshirt is perfect for youth groups, church gatherings, or casual outings with friends. Its versatile design allows it to seamlessly fit into your everyday wardrobe, providing comfort all year round. Celebrate special occasions, gatherings, or simply enjoy a quiet day at home wearing this meaningful sweatshirt. Perfect for holidays like Easter, Christmas, or any time you want to express your faith and style!Product features- 50% cotton and 50% polyester fleece for a soft and durable feel- 1x1 ribbed collar, cuffs, and hem for a great fit- Double-needle stitching for added durability- Quarter-turned to prevent center creases- Medium-heavy fabric for warmth and comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-07-29T23:51:15Z
@@ -5183,417 +5146,413 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-affirmation-sweatshirt-cozy-crewneck-inspirational-gift-motivational-apparel-spiritual-wear-casual-everyday-style-forest-green-s-320.webp?v=1753833176
     Price: $43.18 USD
-- [Spirit-Led Unisex HD Cotton™ T-Shirt, Christian Apparel, Inspirational Tee, Faith-Based Gift, Scripture Shirt, Casual Everyday Wear](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear): Stand firm in your convictions with our 'Spirit-Led Not Trend-Fed' T-shirt. This tee features a striking design with a powerful message and the grounding words of Romans 12:2: 'Do not conform to the pattern of this world...' It's a reminder to live authentically, guided by your spirit rather than worldly trends. A comfortable and impactful way to express your faith-led life. S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length from center back, in 16.62 17.62 19.12 20.12 21.12 22.62 This Unisex HD Cotton™ T-shirt radiates a warm and empowering vibe. It's perfect for those who want to express their individuality while embracing spiritual messages. Made of breathable, high-quality cotton, it feels comfortable against the skin, making it ideal for daily wear or casual outings. This T-shirt appeals to individuals who appreciate a blend of comfort and style, particularly those who resonate with faith-based themes. It's a thoughtful gift for occasions like Easter, Christmas, or any celebration that honors personal beliefs and connection to community.Product features- Made from a blend of sustainably-sourced, USA-grown cotton for eco-conscious wearers.- 1x1 ribbed collar ensures a snug fit that retains its shape.- Strong shoulder tape adds durability and stability to the seams.- Double needle hems enhance the longevity of the garment.- Lightweight fabric for comfort during any season.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:58:11Z
+- [Compass Tee](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear): Navigate your journey with purpose in this intricate, vintage-style compass tee. Crafted with detailed gold-tone artistry, this design is more than just an emblem—it's a wearable reminder to stay focused on what truly matters. Perfect for travelers, adventurers, and those seeking direction in life. Ideal for gifts on birthdays, Father's Day, graduation, and other special occasions.Product features- Fiber composition: Varies for different colors- 1x1 Ribbed collar for a well-fitted tee- Shoulder tape for stability and prevention of stretching- Double needle sleeve and bottom hems for durability- Made with sustainably-sourced, USA-grown cottonCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2025-11-06T16:41:01Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-maroon-s-267.webp?v=1753833279
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
   - [Admiral Blue / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279779407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-admiral-blue-s-104.webp?v=1753833343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
+    Price: $16.62 USD
+  - [Athletic Heather / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732616783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
     Price: $16.62 USD
   - [Black / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120422991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-s-329.webp?v=1753833319
-    Price: $16.62 USD
-  - [Black Heather / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120455759)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-heather-s-182.webp?v=1753833310
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
     Price: $16.62 USD
   - [Charcoal Grey / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120488527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-charcoal-grey-s-834.webp?v=1753833315
-    Price: $16.62 USD
-  - [Cyber Pink / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279812175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-cyber-pink-s-174.webp?v=1753833357
-    Price: $16.62 USD
-  - [Deep Purple / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120521295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-deep-purple-s-199.webp?v=1753833324
-    Price: $16.62 USD
-  - [Denim / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279844943)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-denim-s-564.webp?v=1753833339
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
     Price: $16.62 USD
   - [Forest Green / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279877711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-forest-green-s-489.webp?v=1753833333
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
     Price: $16.62 USD
   - [J Navy / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279910479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-j-navy-s-364.webp?v=1753833348
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
     Price: $16.62 USD
-  - [Kiwi / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120554063)
+  - [Vintage Heather Navy / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732649551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-kiwi-s-482.webp?v=1753833299
-    Price: $16.62 USD
-  - [Maroon / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279943247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-maroon-s-267.webp?v=1753833279
-    Price: $16.62 USD
-  - [Pacific Blue / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120586831)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-pacific-blue-s-492.webp?v=1753833305
-    Price: $16.62 USD
-  - [Retro Heather Pink / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428279976015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-pink-s-976.webp?v=1753833353
-    Price: $16.62 USD
-  - [Retro Heather Purple / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120619599)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-purple-s-201.webp?v=1753833284
-    Price: $16.62 USD
-  - [Sagestone / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120652367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-sagestone-s-910.webp?v=1753833294
-    Price: $16.62 USD
-  - [True Red / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120717903)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-true-red-s-534.webp?v=1753833329
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
     Price: $16.62 USD
   - [White / S](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120750671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-white-s-506.webp?v=1753833289
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
     Price: $16.62 USD
   - [Admiral Blue / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280008783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-admiral-blue-s-104.webp?v=1753833343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
+    Price: $16.62 USD
+  - [Athletic Heather / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732682319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
     Price: $16.62 USD
   - [Black / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120816207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-s-329.webp?v=1753833319
-    Price: $16.62 USD
-  - [Black Heather / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120848975)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-heather-s-182.webp?v=1753833310
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
     Price: $16.62 USD
   - [Charcoal Grey / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120881743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-charcoal-grey-s-834.webp?v=1753833315
-    Price: $16.62 USD
-  - [Cyber Pink / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280041551)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-cyber-pink-s-174.webp?v=1753833357
-    Price: $16.62 USD
-  - [Deep Purple / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120914511)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-deep-purple-s-199.webp?v=1753833324
-    Price: $16.62 USD
-  - [Denim / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280074319)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-denim-s-564.webp?v=1753833339
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
     Price: $16.62 USD
   - [Forest Green / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280107087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-forest-green-s-489.webp?v=1753833333
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
     Price: $16.62 USD
   - [J Navy / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280139855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-j-navy-s-364.webp?v=1753833348
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
     Price: $16.62 USD
-  - [Kiwi / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120947279)
+  - [Vintage Heather Navy / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732715087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-kiwi-s-482.webp?v=1753833299
-    Price: $16.62 USD
-  - [Maroon / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280172623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-maroon-s-267.webp?v=1753833279
-    Price: $16.62 USD
-  - [Pacific Blue / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411120980047)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-pacific-blue-s-492.webp?v=1753833305
-    Price: $16.62 USD
-  - [Retro Heather Pink / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280205391)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-pink-s-976.webp?v=1753833353
-    Price: $16.62 USD
-  - [Retro Heather Purple / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121012815)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-purple-s-201.webp?v=1753833284
-    Price: $16.62 USD
-  - [Sagestone / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121045583)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-sagestone-s-910.webp?v=1753833294
-    Price: $16.62 USD
-  - [True Red / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121111119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-true-red-s-534.webp?v=1753833329
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
     Price: $16.62 USD
   - [White / M](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121143887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-white-s-506.webp?v=1753833289
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
     Price: $16.62 USD
   - [Admiral Blue / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280238159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-admiral-blue-s-104.webp?v=1753833343
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
+    Price: $16.62 USD
+  - [Athletic Heather / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732747855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
     Price: $16.62 USD
   - [Black / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121209423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-s-329.webp?v=1753833319
-    Price: $16.62 USD
-  - [Black Heather / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121242191)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-black-heather-s-182.webp?v=1753833310
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
     Price: $16.62 USD
   - [Charcoal Grey / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121274959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-charcoal-grey-s-834.webp?v=1753833315
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
     Price: $16.62 USD
   - [Cyber Pink / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280270927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-cyber-pink-s-174.webp?v=1753833357
-    Price: $16.62 USD
-  - [Deep Purple / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121307727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-deep-purple-s-199.webp?v=1753833324
-    Price: $16.62 USD
-  - [Denim / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280303695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-denim-s-564.webp?v=1753833339
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-cyber-pink-l-t-shirt-351.webp?v=1762377228
     Price: $16.62 USD
   - [Forest Green / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280336463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-forest-green-s-489.webp?v=1753833333
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
     Price: $16.62 USD
   - [J Navy / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280369231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-j-navy-s-364.webp?v=1753833348
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
     Price: $16.62 USD
-  - [Kiwi / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121340495)
+  - [Vintage Heather Navy / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732780623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-kiwi-s-482.webp?v=1753833299
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
     Price: $16.62 USD
-  - [Maroon / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280401999)
+  - [White / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121537103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-maroon-s-267.webp?v=1753833279
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
     Price: $16.62 USD
-  - [Pacific Blue / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121373263)
+  - [Admiral Blue / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280467535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-pacific-blue-s-492.webp?v=1753833305
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
     Price: $16.62 USD
-  - [Retro Heather Pink / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280434767)
+  - [Athletic Heather / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732813391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-pink-s-976.webp?v=1753833353
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
     Price: $16.62 USD
-  - [Retro Heather Purple / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121406031)
+  - [Black / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121602639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-retro-heather-purple-s-201.webp?v=1753833284
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
     Price: $16.62 USD
-  - [Sagestone / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121438799)
+  - [Charcoal Grey / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121668175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-sagestone-s-910.webp?v=1753833294
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
     Price: $16.62 USD
-  - [True Red / L](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121504335)
+  - [Forest Green / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280565839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/spirit-led-unisex-hd-cotton-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-casual-everyday-wear-true-red-s-534.webp?v=1753833329
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
     Price: $16.62 USD
+  - [J Navy / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732846159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
+    Price: $16.62 USD
+  - [Vintage Heather Navy / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732878927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
+    Price: $16.62 USD
+  - [White / XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121930319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
+    Price: $16.62 USD
+  - [Admiral Blue / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280696911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
+    Price: $22.42 USD
+  - [Athletic Heather / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732911695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
+    Price: $22.42 USD
+  - [Black / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411121995855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
+    Price: $22.42 USD
+  - [Charcoal Grey / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411122061391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
+    Price: $22.42 USD
+  - [Forest Green / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280762447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
+    Price: $22.42 USD
+  - [J Navy / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280795215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
+    Price: $22.42 USD
+  - [Vintage Heather Navy / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732944463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
+    Price: $22.42 USD
+  - [White / 2XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411122290767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
+    Price: $22.42 USD
+  - [Admiral Blue / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280893519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-admiral-blue-s-t-shirt-938.webp?v=1762377220
+    Price: $24.80 USD
+  - [Athletic Heather / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780732977231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-athletic-heather-s-t-shirt-479.webp?v=1762377232
+    Price: $24.80 USD
+  - [Black / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411122356303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-black-s-t-shirt-474.webp?v=1762377210
+    Price: $24.80 USD
+  - [Charcoal Grey / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411122421839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-charcoal-grey-s-t-shirt-853.webp?v=1762377206
+    Price: $24.80 USD
+  - [Forest Green / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280959055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-forest-green-s-t-shirt-547.webp?v=1762377215
+    Price: $24.80 USD
+  - [J Navy / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43428280991823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-j-navy-s-t-shirt-735.webp?v=1762377224
+    Price: $24.80 USD
+  - [Vintage Heather Navy / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43780733009999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-vintage-heather-navy-s-t-shirt-140.webp?v=1762377237
+    Price: $24.80 USD
+  - [White / 3XL](https://faithbloom.co/products/spirit-led-unisex-hd-cotton™-t-shirt-christian-apparel-inspirational-tee-faith-based-gift-scripture-shirt-casual-everyday-wear?variant=43411122683983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/compass-tee-white-s-t-shirt-794.webp?v=1762377202
+    Price: $24.80 USD
 - [Soft Heart / Solid Rock Unisex T-Shirt, Faith-Based Tee, Christian Apparel, Inspirational Gift, Short-Sleeve Shirt, USA-Made Fashion](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion): Embrace strength and compassion with our "Soft Heart Solid Rock" tee. This powerful design features a vibrant heart fused with rugged rock, symbolizing a spirit open to God's love and a life built on an unshakeable foundation. Inspired by Ezekiel 36:26 ("I will remove from you your heart of stone and give you a heart of flesh") and Matthew 7:25 (building on the "foundation on the rock"), this shirt is a daily reminder of faith that is both tender and enduring. Wear your conviction. XS S M L XL 2XL 3XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Embrace your uniqueness with this captivating unisex short-sleeve jersey t-shirt. Soft and breathable, it elevates your everyday style while making a bold statement. Perfect for casual outings, relaxing at home, or as a thoughtful gift, this t-shirt brings comfort and elegance together. Designed for anyone who values quality and expression, it’s a fitting choice for birthdays, religious events, or simply as a way to uplift one's spirit. Wear it to showcase your personality and inspire others around you!Product features- 100% Cotton: Solid options ensure softness and durability.- Structured Fit: Side seams enhance shape and silhouette.- USA-Made: Crafted in the USA with imported fabric, supporting local production.- Lightweight Fabric: Weighing only 4.2 oz/yd², ideal for all-day wear.- Tear-Away Label: For added comfort and style without itch.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: no heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-30T00:00:44Z
+  Updated: 2025-11-06T13:59:45Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
   - [Asphalt / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181240399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $28.38 USD
   - [Dark Grey Heather / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181305935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $28.38 USD
   - [Military Green / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181404239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $28.38 USD
   - [Natural / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181437007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $28.38 USD
   - [Navy / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181469775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $28.38 USD
   - [Red / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181502543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $28.38 USD
   - [Solid Black Blend / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181535311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $28.38 USD
   - [True Royal / XS](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181568079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-112.webp?v=1753833508
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-690.webp?v=1762387776
     Price: $28.38 USD
   - [Asphalt / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181633615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $28.38 USD
   - [Dark Grey Heather / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181699151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $28.38 USD
   - [Military Green / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181797455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $28.38 USD
   - [Natural / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181830223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $28.38 USD
   - [Navy / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181862991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $28.38 USD
   - [Red / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181895759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $28.38 USD
   - [Solid Black Blend / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181928527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $28.38 USD
   - [True Royal / S](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411181961295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-112.webp?v=1753833508
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-690.webp?v=1762387776
     Price: $28.38 USD
   - [Asphalt / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182026831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $28.38 USD
   - [Dark Grey Heather / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182092367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $28.38 USD
   - [Military Green / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182190671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $28.38 USD
   - [Natural / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182223439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $28.38 USD
   - [Navy / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182256207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $28.38 USD
   - [Red / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182288975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $28.38 USD
   - [Solid Black Blend / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182321743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $28.38 USD
   - [True Royal / M](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182354511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-112.webp?v=1753833508
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-690.webp?v=1762387776
     Price: $28.38 USD
   - [Asphalt / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182420047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $28.38 USD
   - [Dark Grey Heather / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182485583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $28.38 USD
   - [Leaf / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182551119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-389.webp?v=1753833504
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-885.webp?v=1762387772
     Price: $28.38 USD
   - [Military Green / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182616655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $28.38 USD
   - [Natural / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182649423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $28.38 USD
   - [Navy / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182682191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $28.38 USD
   - [Red / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182714959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $28.38 USD
   - [Solid Black Blend / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182747727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $28.38 USD
   - [True Royal / L](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182780495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-112.webp?v=1753833508
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-690.webp?v=1762387776
     Price: $28.38 USD
   - [Asphalt / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182846031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $28.38 USD
   - [Dark Grey Heather / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182911567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $28.38 USD
   - [Leaf / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411182977103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-389.webp?v=1753833504
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-885.webp?v=1762387772
     Price: $28.38 USD
   - [Military Green / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183042639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $28.38 USD
   - [Natural / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183075407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $28.38 USD
   - [Navy / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183108175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $28.38 USD
   - [Red / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183140943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $28.38 USD
   - [Solid Black Blend / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183173711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $28.38 USD
   - [True Royal / XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183206479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-112.webp?v=1753833508
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-true-royal-xs-690.webp?v=1762387776
     Price: $28.38 USD
   - [Asphalt / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183272015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-520.webp?v=1753833512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-asphalt-xs-246.webp?v=1762387780
     Price: $31.67 USD
   - [Dark Grey Heather / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183337551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-844.webp?v=1753833517
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-dark-grey-heather-xs-138.webp?v=1762387785
     Price: $31.67 USD
   - [Leaf / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183403087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-389.webp?v=1753833504
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-leaf-l-885.webp?v=1762387772
     Price: $31.67 USD
   - [Military Green / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183468623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-264.webp?v=1753833495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-military-green-xs-616.webp?v=1762387762
     Price: $31.67 USD
   - [Natural / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183501391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-203.webp?v=1753833530
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-natural-xs-217.webp?v=1762387798
     Price: $31.67 USD
   - [Navy / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183534159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-841.webp?v=1753833522
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-navy-xs-275.webp?v=1762387789
     Price: $31.67 USD
   - [Red / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183566927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-140.webp?v=1753833526
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-red-xs-416.webp?v=1762387794
     Price: $31.67 USD
   - [Solid Black Blend / 2XL](https://faithbloom.co/products/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-shirt-usa-made-fashion?variant=43411183599695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-392.webp?v=1753833499
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $31.67 USD
 - [Heavenly Origin Unisex Tee | Spiritual Comfort Shirt, Casual Outfit, Gift for Believers, Everyday Wear, Inspirational Apparel](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): Celebrate your eternal destination with our "Welcome Home" tee. This design features angels arriving at heavenly gates, carrying spiritual luggage, beneath a comforting "WELCOME HOME" banner. It's a beautiful reminder of our "HEAVENLY ORIGIN" and true identity, echoing Philippians 3:20: "Our citizenship is in heaven." Wear your faith and the hope of your heavenly home. XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 10.80 11.20 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Introducing a stylish and versatile Unisex Jersey Short Sleeve Tee that brings a sense of ease and comfort to your wardrobe. Perfect for casual outings or relaxed days at home, this tee is crafted from 100% Airlume combed and ring-spun cotton, ensuring a lightweight and breathable feel. It features a classic crew neckline and a retail fit, making it suitable for both casual and semi-formal occasions. This tee will effortlessly fit into your life, whether you’re lounging with friends or celebrating special moments such as birthdays, holidays, or even casual get-togethers. Ideal for adults who appreciate quality and style, this tee is a thoughtful gift for those who enjoy unique, stylish apparel. Celebrate life’s moments in comfort and style with this essential wardrobe piece!Product features- Durable side seams for enhanced shape retention and structural support.- Elastic ribbed knit collar that maintains its shape over time.- Shoulder tape for added stability and stretch prevention.- Advanced printing techniques ensure vibrant colors and crisp designs.- Made with soft, 100% Airlume combed and ring-spun cotton for comfort and breathability.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
   Updated: 2025-07-30T00:01:42Z
@@ -7837,284 +7796,344 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-earth-themed-tee-hes-got-the-whole-world-and-me-cute-kids-shirt-gift-for-toddlers-day-apparel-fun-wear-kelly-2t-clothes-789.webp?v=1753834966
     Price: $16.67 USD
 - [Women's Crop Tee](https://faithbloom.co/products/womens-crop-tee): Find inspiration in every wear. Our 'Buried in Faith, Rising in His Light' design, inspired by John 12:24, brings a message of hope and new beginnings to life." XS S M L XL Width, in 18.70 19.69 20.67 21.65 22.64 Length, in 17.32 17.72 18.31 18.70 19.09 .: Medium fabric (5.3 oz/yd² (180 g/m²)).: Relaxed fit.: Sewn-in label.: 100% combed cotton (fiber content varies for different colors)
-  Updated: 2025-07-30T00:24:15Z
+  Updated: 2025-11-06T18:39:05Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
   - [Black / XS](https://faithbloom.co/products/womens-crop-tee?variant=43432910717007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-754.webp?v=1753835043
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-264.webp?v=1762453287
     Price: $29.20 USD
   - [Coal / XS](https://faithbloom.co/products/womens-crop-tee?variant=43432910749775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $29.20 USD
   - [Navy / XS](https://faithbloom.co/products/womens-crop-tee?variant=43432910782543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
+    Price: $29.20 USD
+  - [Red / XS](https://faithbloom.co/products/womens-crop-tee?variant=43782545440847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-red-xs-t-shirt-516.webp?v=1762453291
+    Price: $29.20 USD
+  - [Sage / XS](https://faithbloom.co/products/womens-crop-tee?variant=43782545473615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-sage-xs-t-shirt-836.webp?v=1762453302
+    Price: $29.20 USD
+  - [Hazy Pink / XS](https://faithbloom.co/products/womens-crop-tee?variant=43782545506383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
     Price: $29.20 USD
   - [Black / S](https://faithbloom.co/products/womens-crop-tee?variant=43432910815311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-754.webp?v=1753835043
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-264.webp?v=1762453287
     Price: $29.20 USD
   - [Coal / S](https://faithbloom.co/products/womens-crop-tee?variant=43432910848079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $29.20 USD
   - [Navy / S](https://faithbloom.co/products/womens-crop-tee?variant=43432910880847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
+    Price: $29.20 USD
+  - [Red / S](https://faithbloom.co/products/womens-crop-tee?variant=43782545539151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-red-xs-t-shirt-516.webp?v=1762453291
+    Price: $29.20 USD
+  - [Sage / S](https://faithbloom.co/products/womens-crop-tee?variant=43782545571919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-sage-xs-t-shirt-836.webp?v=1762453302
+    Price: $29.20 USD
+  - [Hazy Pink / S](https://faithbloom.co/products/womens-crop-tee?variant=43782545604687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
     Price: $29.20 USD
   - [Black / M](https://faithbloom.co/products/womens-crop-tee?variant=43432910913615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-754.webp?v=1753835043
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-264.webp?v=1762453287
     Price: $29.20 USD
   - [Coal / M](https://faithbloom.co/products/womens-crop-tee?variant=43432910946383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $29.20 USD
   - [Navy / M](https://faithbloom.co/products/womens-crop-tee?variant=43432910979151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
+    Price: $29.20 USD
+  - [Red / M](https://faithbloom.co/products/womens-crop-tee?variant=43782545637455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-red-xs-t-shirt-516.webp?v=1762453291
+    Price: $29.20 USD
+  - [Sage / M](https://faithbloom.co/products/womens-crop-tee?variant=43782545670223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-sage-xs-t-shirt-836.webp?v=1762453302
+    Price: $29.20 USD
+  - [Hazy Pink / M](https://faithbloom.co/products/womens-crop-tee?variant=43782545702991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
     Price: $29.20 USD
   - [Black / L](https://faithbloom.co/products/womens-crop-tee?variant=43432911011919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-754.webp?v=1753835043
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-264.webp?v=1762453287
     Price: $29.20 USD
   - [Coal / L](https://faithbloom.co/products/womens-crop-tee?variant=43432911044687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $29.20 USD
   - [Navy / L](https://faithbloom.co/products/womens-crop-tee?variant=43432911077455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
+    Price: $29.20 USD
+  - [Red / L](https://faithbloom.co/products/womens-crop-tee?variant=43782545735759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-red-xs-t-shirt-516.webp?v=1762453291
+    Price: $29.20 USD
+  - [Sage / L](https://faithbloom.co/products/womens-crop-tee?variant=43782545768527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-sage-xs-t-shirt-836.webp?v=1762453302
+    Price: $29.20 USD
+  - [Hazy Pink / L](https://faithbloom.co/products/womens-crop-tee?variant=43782545801295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
     Price: $29.20 USD
   - [Black / XL](https://faithbloom.co/products/womens-crop-tee?variant=43432911110223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-754.webp?v=1753835043
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-black-xs-t-shirt-264.webp?v=1762453287
     Price: $29.20 USD
   - [Coal / XL](https://faithbloom.co/products/womens-crop-tee?variant=43432911142991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $29.20 USD
   - [Navy / XL](https://faithbloom.co/products/womens-crop-tee?variant=43432911175759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
+    Price: $29.20 USD
+  - [Red / XL](https://faithbloom.co/products/womens-crop-tee?variant=43782545834063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-red-xs-t-shirt-516.webp?v=1762453291
+    Price: $29.20 USD
+  - [Sage / XL](https://faithbloom.co/products/womens-crop-tee?variant=43782545866831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-sage-xs-t-shirt-836.webp?v=1762453302
+    Price: $29.20 USD
+  - [Hazy Pink / XL](https://faithbloom.co/products/womens-crop-tee?variant=43782545899599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-hazy-pink-xs-t-shirt-992.webp?v=1762453275
     Price: $29.20 USD
   - [Coal / 2XL](https://faithbloom.co/products/womens-crop-tee?variant=43432911208527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-193.webp?v=1753835040
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-coal-xs-t-shirt-558.webp?v=1762453283
     Price: $27.52 USD
   - [Navy / 2XL](https://faithbloom.co/products/womens-crop-tee?variant=43432911241295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-668.webp?v=1753835036
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
     Price: $27.52 USD
 - [Unisex Garment-Dyed T-shirt](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1): A beautiful tribute to Psalm 23:1. Our 'The Lord Is My Shepherd' tee offers comfort and style for everyday wear." S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made 100% with ring-spun cotton. The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice. The double-needle stitching throughout the tee makes it highly durable while the lack of side-seams helps the shirt retain its tubular shape. Discover all 58 colors in our Comfort Colors 1717 color charts below. .: The Comfort Colors 1717 tee is made with medium fabric (6.1 oz/yd² (206.8 g/m²)) consisting of high quality, 100% ring-spun US cotton for long-lasting comfort..: The relaxed fit keeps the wearer comfy in both casual and semi-formal settings while the crew neckline delivers that classic, neat style which makes it perfect for accessorizing. .: The pre-shrunk fabric ensures a consistently great fit. Check all available sizes in our Comfort Colors 1717 size chart. .: All Comfort Colors 1717 shirts feature pre-shrunk cotton for size retention and a signature sewn-in twill label..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production..: Available in 58 colors. Check all available colors in our Comfort Colors 1717 color charts
-  Updated: 2025-07-30T00:28:49Z
+  Updated: 2025-11-06T22:07:17Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
-  - [Black / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623486543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-black-s-248.webp?v=1753835112
-    Price: $20.68 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
   - [White / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623519311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
+    Price: $20.68 USD
+  - [Granite / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958121039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-granite-s-957.webp?v=1762465721
     Price: $20.68 USD
   - [Butter / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623552079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-964.webp?v=1753835076
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-739.webp?v=1762465672
     Price: $20.68 USD
   - [Citrus / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623584847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-681.webp?v=1753835070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-766.webp?v=1762465666
     Price: $20.68 USD
   - [Seafoam / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623617615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-314.webp?v=1753835092
-    Price: $20.68 USD
-  - [Graphite / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623650383)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-graphite-s-513.webp?v=1753835107
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-312.webp?v=1762465687
     Price: $20.68 USD
   - [Grey / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623683151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-224.webp?v=1753835082
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-483.webp?v=1762465677
     Price: $20.68 USD
   - [Ice Blue / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623715919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-225.webp?v=1753835101
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-294.webp?v=1762465697
     Price: $20.68 USD
   - [Ivory / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623748687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-526.webp?v=1753835065
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-750.webp?v=1762465661
     Price: $20.68 USD
   - [Orchid / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623781455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-503.webp?v=1753835122
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-736.webp?v=1762465707
     Price: $20.68 USD
   - [Topaz Blue / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623814223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-topaz-blue-s-576.webp?v=1753835097
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-topaz-blue-s-552.webp?v=1762465692
     Price: $20.68 USD
   - [Violet / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623846991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-378.webp?v=1753835117
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-662.webp?v=1762465702
     Price: $20.68 USD
   - [Island Green / S](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623879759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-528.webp?v=1753835087
-    Price: $20.68 USD
-  - [Black / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623912527)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-black-s-248.webp?v=1753835112
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-678.webp?v=1762465682
     Price: $20.68 USD
   - [White / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623945295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
+    Price: $20.68 USD
+  - [Granite / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958153807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-granite-s-957.webp?v=1762465721
     Price: $20.68 USD
   - [Butter / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433623978063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-964.webp?v=1753835076
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-739.webp?v=1762465672
     Price: $20.68 USD
   - [Citrus / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624010831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-681.webp?v=1753835070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-766.webp?v=1762465666
     Price: $20.68 USD
   - [Seafoam / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624043599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-314.webp?v=1753835092
-    Price: $20.68 USD
-  - [Graphite / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624076367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-graphite-s-513.webp?v=1753835107
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-312.webp?v=1762465687
     Price: $20.68 USD
   - [Grey / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624109135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-224.webp?v=1753835082
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-483.webp?v=1762465677
     Price: $20.68 USD
   - [Ice Blue / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624141903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-225.webp?v=1753835101
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-294.webp?v=1762465697
     Price: $20.68 USD
   - [Ivory / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624174671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-526.webp?v=1753835065
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-750.webp?v=1762465661
     Price: $20.68 USD
   - [Orchid / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624207439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-503.webp?v=1753835122
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-736.webp?v=1762465707
     Price: $20.68 USD
   - [Violet / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624272975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-378.webp?v=1753835117
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-662.webp?v=1762465702
     Price: $20.68 USD
   - [Island Green / M](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624305743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-528.webp?v=1753835087
-    Price: $20.68 USD
-  - [Black / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624338511)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-black-s-248.webp?v=1753835112
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-678.webp?v=1762465682
     Price: $20.68 USD
   - [White / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624371279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
+    Price: $20.68 USD
+  - [Granite / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958186575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-granite-s-957.webp?v=1762465721
     Price: $20.68 USD
   - [Butter / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624404047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-964.webp?v=1753835076
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-739.webp?v=1762465672
     Price: $20.68 USD
   - [Citrus / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624436815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-681.webp?v=1753835070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-766.webp?v=1762465666
     Price: $20.68 USD
   - [Seafoam / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624469583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-314.webp?v=1753835092
-    Price: $20.68 USD
-  - [Graphite / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624502351)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-graphite-s-513.webp?v=1753835107
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-312.webp?v=1762465687
     Price: $20.68 USD
   - [Grey / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624535119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-224.webp?v=1753835082
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-483.webp?v=1762465677
     Price: $20.68 USD
   - [Ice Blue / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624567887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-225.webp?v=1753835101
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-294.webp?v=1762465697
     Price: $20.68 USD
   - [Ivory / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624600655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-526.webp?v=1753835065
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-750.webp?v=1762465661
     Price: $20.68 USD
   - [Orchid / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624633423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-503.webp?v=1753835122
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-736.webp?v=1762465707
     Price: $20.68 USD
   - [Violet / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624666191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-378.webp?v=1753835117
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-662.webp?v=1762465702
     Price: $20.68 USD
   - [Island Green / L](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624698959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-528.webp?v=1753835087
-    Price: $20.68 USD
-  - [Black / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624731727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-black-s-248.webp?v=1753835112
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-678.webp?v=1762465682
     Price: $20.68 USD
   - [White / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624764495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
+    Price: $20.68 USD
+  - [Granite / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958219343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-granite-s-957.webp?v=1762465721
     Price: $20.68 USD
   - [Butter / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624797263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-964.webp?v=1753835076
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-739.webp?v=1762465672
     Price: $20.68 USD
   - [Citrus / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624830031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-681.webp?v=1753835070
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-766.webp?v=1762465666
     Price: $20.68 USD
   - [Seafoam / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624862799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-314.webp?v=1753835092
-    Price: $20.68 USD
-  - [Graphite / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624895567)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-graphite-s-513.webp?v=1753835107
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-312.webp?v=1762465687
     Price: $20.68 USD
   - [Grey / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624928335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-224.webp?v=1753835082
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-grey-s-483.webp?v=1762465677
     Price: $20.68 USD
   - [Ice Blue / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624961103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-225.webp?v=1753835101
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ice-blue-s-294.webp?v=1762465697
+    Price: $20.68 USD
+  - [Ivory / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958252111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-ivory-s-750.webp?v=1762465661
     Price: $20.68 USD
   - [Orchid / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433624993871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-503.webp?v=1753835122
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-orchid-s-736.webp?v=1762465707
     Price: $20.68 USD
   - [Violet / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625026639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-378.webp?v=1753835117
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-violet-s-662.webp?v=1762465702
     Price: $20.68 USD
   - [Island Green / XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625059407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-528.webp?v=1753835087
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-island-green-s-678.webp?v=1762465682
     Price: $20.68 USD
-  - [Black / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625092175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-black-s-248.webp?v=1753835112
-    Price: $22.78 USD
   - [White / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625124943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-182.webp?v=1753835059
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-white-s-286.webp?v=1762465655
+    Price: $22.78 USD
+  - [Granite / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43782958284879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-granite-s-957.webp?v=1762465721
+    Price: $22.78 USD
+  - [Butter / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625157711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-butter-s-739.webp?v=1762465672
+    Price: $22.78 USD
+  - [Citrus / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625190479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-citrus-s-766.webp?v=1762465666
+    Price: $22.78 USD
+  - [Seafoam / 2XL](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1?variant=43433625223247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-garment-dyed-t-shirt-seafoam-s-312.webp?v=1762465687
     Price: $22.78 USD
 - [Motivational Unisex Sweatshirt - "Fiat, Let It Be Done" - Inspirational Apparel for Positive Vibes,Gift for Friends, Casual Wear, [...]](https://faithbloom.co/products/motivational-unisex-sweatshirt-fiat-let-it-be-done-inspirational-apparel-for-positive-vibes-gift-for-friends-casual-wear): A Fiat let it be done Faith based sweatshirt that exudes a sense of peace and spiritual connection. Perfect for those seeking comfort and faith in daily life. Ideal for individuals who celebrate religious holidays and practices.Product features- Side seams for enhanced shape retention- Elastic ribbed knit collar that stays in place- Necktape for added comfort and stability- Diverse fiber composition for a soft feel- Stylish fit that runs true to sizeCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-07-30T00:29:30Z
@@ -8550,11 +8569,11 @@
 ## Collections
 
 - [Massterpeace Teez: Faith That Pops Style That Slaps!](https://faithbloom.co/collections/massterpeace-teez-faith-that-pops-style-that-slaps): Faith Bloom Co. Massterpeace Teez offer vibrant Christian streetwear apparel. Explore unique faith-based graphic tees with bold designs and witty messages.
-  Updated: 2025-09-05T11:19:13Z
-  Total Products: 12
+  Updated: 2025-11-05T21:40:01Z
+  Total Products: 11
 - [The Grace & Glimmer Collection: Scripture-Inspired](https://faithbloom.co/collections/the-grace-glimmer-collection-scripture-inspired-style-for-every-spirit): Faith Bloom Co. presents The Grace & Glimmer Collection. Discover Scripture-inspired jewelry, art, and apparel reflecting faith, hope, and spiritual light for all.
-  Updated: 2025-08-11T08:31:05Z
-  Total Products: 15
+  Updated: 2025-11-05T20:57:45Z
+  Total Products: 14
 - [Little Blooms - Tiny Feet Heaven-Bound](https://faithbloom.co/collections/little-blooms-tiny-feet-heaven-bound): Faith Bloom Co. presents Little Blooms, a collection dedicated to children, celebrating their innocence and spiritual journey with special faith-inspired designs.
   Updated: 2025-08-11T08:31:20Z
   Total Products: 13
