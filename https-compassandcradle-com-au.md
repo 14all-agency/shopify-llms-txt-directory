@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-06T00:00:23.791Z
+- Updated At: 2025-11-07T00:00:25.898Z
 
 ## Products
 
@@ -181,13 +181,6 @@
   - [Red](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown?variant=50573837336861)
     Availability: Available
     Price: $19.99 AUD
-- [Kids Cap (Ages 1–6) | Mums Fan Club Light Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-ages-1-6-mums-fan-club-light-brown): Mums Fan Club Kids Cap (Ages 1–6) Keep your little one looking cool and comfy with our Acid Wash Kids Cap, designed to fit children aged 1–6 years. Made from soft, breathable cotton, this toddler/kids cap features a stylish acid wash finish for that effortlessly vintage look. With an adjustable back strap, it’s perfect for growing kids and everyday adventures — from park playdates to family outings. A must-have accessory for both boys and girls, this kids hat adds the perfect finishing touch to any outfit. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a snug fit Soft cotton fabric with acid wash color Unisex design for boys and girls Durable, lightweight, and easy to wear
-  Updated: 2025-11-04T20:38:58Z
-  Vendor: Compass & Cradle
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0788.jpg?v=1761813157
-  Price: $19.99 AUD
 - [Mum Cap Pink | To the Shore Mi Amor](https://compassandcradle.com.au/products/to-the-shore-mi-amor-mum-cap-pink): To the Shore Mi Amor – Mum Cap Add a splash of coastal charm to your everyday style with the To the Shore Mi Amor Mum Cap — a soft, rose-pink mum hat designed for relaxed, beach-loving souls. Made from breathable, acid washed cotton, this comfy cap features our exclusive seaside-inspired design with pastel shells, starfish, and a mermaid tail — capturing the easy, joyful feel of days spent by the shore. Features: 100% premium cotton for a soft, lived-in feel Adjustable strap for a comfortable, custom fit Exclusive “To the Shore Mi Amor” design by Compass & Cradle Durable and lightweight — perfect for sunny days, coastal walks, and casual outings Pair it with your favourite summer outfit or wear it as a go-to accessory for busy days. This mum cap makes a thoughtful gift or a must-have for anyone who loves a touch of ocean-inspired style. ✨ Coming soon: a matching kids’ short and top set with the same charming seaside logo — perfect for creating that adorable mum and mini moment!
   Updated: 2025-11-04T20:47:28Z
   Vendor: Compass & Cradle
@@ -253,7 +246,7 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-11-05T12:18:39Z
+  Updated: 2025-11-06T04:36:07Z
   Total Products: 6
 
 ## Blogs
