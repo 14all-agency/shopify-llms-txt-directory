@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-11-06T00:00:57.344Z
+- Updated At: 2025-11-07T00:00:46.536Z
 
 ## Products
 
@@ -3615,7 +3615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-sweatshirt-white-front-647eac92beed1.jpg?v=1688094369
     Price: £57.99 GBP
 - [Sitting Bull - Hibiscus Surfwear - Mens ethical hoodie](https://www.hibiscussurfwear.com/products/sitting-bull-hibiscus-surfwear-mens-ethical-hoodie): Sitting Bull - Hibiscus Surfwear - Mens ethical hoodie A soft and comfy unisex hoodie that fits all your hoodie needs. The fleece fabric makes it a great partner all year round, be it a summer evening on the beach, or a Christmas dinner in a mountain cabin. • 52% airlume combed ring-spun cotton, 48% poly fleece • Heather colors are 60% airlume combed ring-spun cotton, 40% poly fleece • Fabric weight: 6.5 oz/yd² (220.4 g/m²) • Regular fit • Side-seamed construction • Blank product sourced from Nicaragua or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST TO FIT (inches) BODY LENGTH (inches) WIDTH (inches) S 34-37 27 19 ¼ M 38-41 28 21 ¼ L 42-45 29 23 ¼ XL 46-49 30 25 ¼ 2XL 50-53 31 27 ¼
-  Updated: 2025-04-24T15:44:42Z
+  Updated: 2025-11-06T10:56:49Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
