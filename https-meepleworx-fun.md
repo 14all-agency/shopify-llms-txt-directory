@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-07T21:49:47.288Z
+- Updated At: 2025-11-08T00:00:34.863Z
 
 ## Products
 
@@ -2221,7 +2221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/no-tip-card-simplify-gratuity-decisions-meeple-worx-ltd-gHB.jpg?v=1760902621
   Price: £14.99 GBP
 - [The Connoisseur's Set - Reserve Glass Edition | Premium Glassware Set](https://meepleworx.fun/products/the-connoisseurs-set-reserve-glass-edition-444897102): Elevate your drinking experience with The Connoisseur's Set - Reserve Glass Edition. Perfect for enthusiasts, this elegant set enhances flavor and presentation.
-  Updated: 2025-11-07T19:59:16Z
+  Updated: 2025-11-07T22:25:06Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2262,7 +2262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-meeple-worx-ltd-VmE.jpg?v=1760888435
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2025-11-07T21:17:11Z
+  Updated: 2025-11-07T23:33:41Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2283,7 +2283,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/secret-safe-indoor-outdoor-thermometer-meeple-worx-ltd-Mq9.jpg?v=1760902487
   Price: £11.99 GBP
 - [The Gentleman's Set - Cigar Aficionado: Sophisticated Essentials](https://meepleworx.fun/products/whiskey-stones-gift-set-with-cigar-cutter-cigar-ashtray-6-handcrafted-round-stones-presentation-storage-tray-luxurious-whiskey-cigar-accessories-gold-foil-gift-box-by-r-o-c-k-s-844829114): Discover sophistication with The Gentleman's Set - Cigar Aficionado. This premium collection enhances your cigar experience. Elevate your style today!
-  Updated: 2025-11-07T19:59:25Z
+  Updated: 2025-11-07T22:25:11Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2958,14 +2958,14 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/harry-potter-race-to-the-triwizard-cup-ultimate-wizarding-adventure-meeple-worx-ltd-Vpk.png?v=1760902357
   Price: £12.99 GBP
 - [Draughts Classic Board Game - Timeless Fun for All Ages, Buy Now!](https://meepleworx.fun/products/draughts-classic-board-game): Discover the Draughts Classic Board Game, a timeless entertainment for all ages. Challenge family and friends with strategic gameplay and enjoy endless fun.
-  Updated: 2025-11-07T20:52:19Z
+  Updated: 2025-11-07T23:26:10Z
   Vendor: PoundFun
   Product Type: Board Games
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/DraughtsBoardGame.png?v=1760902498
   Price: £7.00 GBP
 - [Santa's Driving Licence - Magical Christmas Accessory](https://meepleworx.fun/products/santas-driving-licence): Get your very own Santa's Driving Licence! This magical Christmas accessory adds festive fun to your holiday celebrations. Perfect for gifts or festive decor.
-  Updated: 2025-11-07T20:30:25Z
+  Updated: 2025-11-07T22:01:15Z
   Vendor: PoundFun
   Product Type: Christmas
   Availability: Available
@@ -4389,7 +4389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/buzz-that-elevate-your-senses-with-our-premium-buzzing-experience-meeple-worx-ltd-pnB.png?v=1760901708
   Price: £6.00 GBP
 - [Coloured Dice for All Your Gaming Needs - Perfect for Every Player](https://meepleworx.fun/products/coloured-dice): Elevate your gaming experience with our vibrant coloured dice. Perfect for tabletop games, D&D, and more, these dice will add a splash of color to every roll!
-  Updated: 2025-11-07T20:05:10Z
+  Updated: 2025-11-07T21:50:41Z
   Vendor: PoundFun
   Product Type: Toys and Games
   Availability: Available
@@ -7986,6 +7986,9 @@
     Author: Markus Gothe
   - [Now accepting USDC - Shop with Cryptocurrency Easily at Our Store](https://meepleworx.fun/blogs/news/now-accepting-usdc-crypto-currency): Now accepting USDC - Shop with Cryptocurrency Easily at Our Store
     Updated: 2025-11-02T15:16:10Z
+    Author: Markus Gothe
+  - [Shop Pay Installments: Manage Payments Smartly with Flexible Options](https://meepleworx.fun/blogs/news/shop-pay-installments): Shop Pay Installments: Manage Payments Smartly with Flexible Options
+    Updated: 2025-11-07T23:13:02Z
     Author: Markus Gothe
 - [The missing meeple - A blog on board, strategy and card games](https://meepleworx.fun/blogs/the-missing-meeple): The missing meeple - A blog on board, tabletop, strategy and card gaming.
   - [Timeless Board Games - Discover the Top 10 Reasons They're Forever Fun](https://meepleworx.fun/blogs/the-missing-meeple/timeless-board-games): Timeless Board Games - Discover the Top 10 Reasons They're Forever Fun
