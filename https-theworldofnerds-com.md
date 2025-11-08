@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-11-06T00:00:46.341Z
+- Updated At: 2025-11-08T00:00:56.767Z
 
 ## Products
 
@@ -2734,7 +2734,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_ae8a8c95-037c-4d7a-bca1-42c49c227ef2.png?v=1731331408
   Price: ₹1,999.00 INR
 - [SHINOBU-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/shinobu-nichirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-24T16:56:33Z
+  Updated: 2025-11-06T15:38:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2923,7 +2923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6272406e-9c4b-4146-94b1-5f5bd6e9ada8.jpg?v=1732700127
   Price: ₹239.00 INR
 - [BLEACH ICHIGO KUROSAKI KEYCHAIN](https://theworldofnerds.com/products/bleach-ichigo-kurosaki-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-11-04T03:54:10Z
+  Updated: 2025-11-07T02:17:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5681,7 +5681,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7729copy.jpg?v=1740119398
   Price: ₹599.00 INR
 - [NARUTO DEIDARA ACTION FIGURE](https://theworldofnerds.com/products/deidara-action-figure): This Deidara action figure is expertly crafted to resemble the character from the popular anime series. With lifelike details and poseable limbs, this figure brings your favorite character to life. Made for collectors and fans alike, this figure is a must-have for any collection.
-  Updated: 2025-07-29T05:13:42Z
+  Updated: 2025-11-07T03:36:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8131,21 +8131,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_80e6b60b-e1b5-4f01-a0ea-21c12fb218cf.png?v=1748425627
   Price: ₹899.00 INR
 - [MAJORETTE PORSCHE CAYENNE TURBO S + 918 SPYDER](https://theworldofnerds.com/products/majorette-porsche-cayenne-turbo-s-918-spyder): Majorette Porsche Cayenne Turbo S + 918 Spyder is a premium die-cast car set featuring two iconic Porsche models. With detailed designs, realistic features, and durable build, this set is perfect for collectors and kids alike. Add style and performance to your collection with these 1:64 scale miniatures.
-  Updated: 2025-08-19T04:48:56Z
+  Updated: 2025-11-07T06:29:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_16_03a109cf-be8b-411c-bdbe-ece47a417839.png?v=1748427582
   Price: ₹1,199.00 INR
 - [MAJORETTE PORSCHE TAYCAN TURBO S + 917](https://theworldofnerds.com/products/majorette-porsche-taycan-turbo-s-917): The Majorette Porsche Taycan Turbo S + 917 set features two legendary Porsche models in a premium die-cast finish. From the futuristic electric power of the Taycan Turbo S to the classic racing heritage of the Porsche 917, this 1:64 scale set delivers stunning detail and realism. Ideal for collectors and young car lovers alike, it’s a perfect blend of innovation and history.
-  Updated: 2025-07-29T05:14:58Z
+  Updated: 2025-11-07T06:29:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_4afb3cfc-9532-42ef-a137-d44803464158.png?v=1748427862
   Price: ₹1,199.00 INR
 - [MAJORETTE-PORSCHE EDITION-PANAMERA TURBO +935 K3](https://theworldofnerds.com/products/majorette-porsche-edition-panamera-turbo-935-k3): This Majorette Porsche Edition set includes the sleek Panamera Turbo and the iconic 935 K3, both crafted in 1:64 scale with impressive attention to detail. Featuring premium die-cast construction, authentic designs, and rolling wheels, this set is perfect for Porsche enthusiasts, collectors, and kids who love high-performance cars.
-  Updated: 2025-10-25T08:51:58Z
+  Updated: 2025-11-07T06:27:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9447,7 +9447,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0829ece8-3a05-41d3-b10d-8a9774e3325d.jpg?v=1756451763
   Price: ₹119.00 INR
 - [Attack on Titan Keychains: Eren & Mikasa](https://theworldofnerds.com/products/attack-on-titan-keychains-eren-mikasa): These keychains bring Eren Yeager and Mikasa Ackerman from Attack on Titan to life with bold design and character. Eren’s determined, fierce eyes on the left contrast with Mikasa’s calm yet focused expression on the right. The contrasting designs reflect their different personalities yet shared mission. The vibrant art captures both their physical strength and emotional resolve, making this set a perfect tribute to the bond they share in the face of overwhelming adversity.
-  Updated: 2025-09-01T17:02:51Z
+  Updated: 2025-11-07T16:26:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9776,7 +9776,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27b6a7a2-b5cc-41e6-9c07-230be3ecebae.jpg?v=1756468366
   Price: ₹119.00 INR
 - [Mark of the Brand: Guts and the Eclipse Keychains](https://theworldofnerds.com/products/mark-of-the-brand-guts-and-the-eclipse-keychains): The image of Guts on this keychain speaks to his cursed fate marked by the Brand of Sacrifice. The stark black and white design, with the bold red symbol, represents the unrelenting pain and darkness that Guts faces. This keychain serves as a reminder of his curse and the sacrifices he endures in his quest for vengeance and survival.
-  Updated: 2025-10-20T18:47:46Z
+  Updated: 2025-11-07T16:26:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11071,7 +11071,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4723e062-8579-44ed-bc6e-e23a12092c3d.jpg?v=1762339905
   Price: ₹599.00 INR
 - [Hot Wheels ’66 Buick Riviera – 2025 Edition Diecast Car](https://theworldofnerds.com/products/hot-wheels-66-buick-riviera-2025-edition-diecast-car): The Hot Wheels ’66 Buick Riviera (2025 Edition) captures the essence of American muscle and luxury in a sleek black finish. Part of the HW Lowriders series, this diecast model showcases elegant curves, chrome detailing, and powerful street presence. A perfect addition for Hot Wheels enthusiasts and collectors, the ’68 Buick Riviera embodies the golden age of performance and style.
-  Updated: 2025-11-05T13:48:50Z
+  Updated: 2025-11-07T07:56:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11190,7 +11190,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_310a2fb3-89b8-4000-b039-d2d351e7eab1.jpg?v=1762342014
   Price: ₹299.00 INR
 - [Hot Wheels ’94 Bugatti EB110 SS – HW Race Day Series Diecast Car](https://theworldofnerds.com/products/hot-wheels-94-bugatti-eb110-ss-hw-race-day-series-diecast-car): Experience speed and luxury with the Hot Wheels ’94 Bugatti EB110 SS, a standout from the HW Race Day series. Painted in bold purple, this collectible diecast car celebrates one of Bugatti’s most iconic supercars with sleek detailing and racing precision. A must-have for Hot Wheels and supercar enthusiasts alike.
-  Updated: 2025-11-05T11:28:35Z
+  Updated: 2025-11-06T00:04:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11232,7 +11232,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_63dce4a5-d0ca-416f-a58f-4be4f97b4e31.jpg?v=1762342386
   Price: ₹699.00 INR
 - [Hot Wheels Optimus Prime – Transformers Track Fleet Series Diecast](https://theworldofnerds.com/products/hot-wheels-optimus-prime-transformers-track-fleet-series-diecast): Experience the ultimate crossover with the Hot Wheels Optimus Prime from the Transformers Track Fleet Series. This detailed diecast truck captures the heroic leader of the Autobots in striking red and silver, complete with trailer and signature Autobot logo. A perfect addition for both Hot Wheels collectors and Transformers fans, this premium hauler showcases quality design, durability, and nostalgic appeal.
-  Updated: 2025-11-05T11:34:32Z
+  Updated: 2025-11-06T00:09:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11483,6 +11483,167 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_62193a16-6741-458d-abf8-b23371006f19.jpg?v=1762347451
   Price: ₹899.00 INR
+- [Majorette Mack Granite Nissan GT-R Nismo GT3 Diecast](https://theworldofnerds.com/products/majorette-mack-granite-nissan-gt-r-nismo-gt3-diecast): Bring home the thrill of motorsport with these Majorette Diecast Car and Trailer Sets, featuring officially licensed models from top automotive brands like Porsche, Ford, Nissan, Jaguar, and Land Rover. Each collectible set is crafted with precise detailing, authentic logos, and vibrant racing liveries—perfect for display or play. A must-have for car enthusiasts and collectors, these miniatures celebrate the legacy of performance and design excellence.
+  Updated: 2025-11-07T18:29:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fd157626-81e8-4462-ba55-104815af8494.jpg?v=1762494821
+  Price: ₹999.00 INR
+- [Majorette Porsche Taycan Turbo S + 934 Vaillant Edition](https://theworldofnerds.com/products/majorette-porsche-taycan-turbo-s-934-vaillant-edition): Bring home the thrill of motorsport with these Majorette Diecast Car and Trailer Sets, featuring officially licensed models from top automotive brands like Porsche, Ford, Nissan, Jaguar, and Land Rover. Each collectible set is crafted with precise detailing, authentic logos, and vibrant racing liveries—perfect for display or play. A must-have for car enthusiasts and collectors, these miniatures celebrate the legacy of performance and design excellence.
+  Updated: 2025-11-07T21:39:59Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c230fdae-f5ef-4e4e-b874-e39f4d9bfc2d.jpg?v=1762495458
+  Price: ₹999.00 INR
+- [Majorette Land Rover Defender 110 & Jaguar F-Type Bilstein Set](https://theworldofnerds.com/products/majorette-land-rover-defender-110-jaguar-f-type-bilstein-set): Bring home the thrill of motorsport with these Majorette Diecast Car and Trailer Sets, featuring officially licensed models from top automotive brands like Porsche, Ford, Nissan, Jaguar, and Land Rover. Each collectible set is crafted with precise detailing, authentic logos, and vibrant racing liveries—perfect for display or play. A must-have for car enthusiasts and collectors, these miniatures celebrate the legacy of performance and design excellence.
+  Updated: 2025-11-07T19:01:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5ef13bd2-4a2c-4a94-b93e-00ecc5d1757d.jpg?v=1762496204
+  Price: ₹999.00 INR
+- [Majorette Ford F-150 Raptor + Mustang GT Performance Edition](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-mustang-gt-performance-edition): Bring home the thrill of motorsport with these Majorette Diecast Car and Trailer Sets, featuring officially licensed models from top automotive brands like Porsche, Ford, Nissan, Jaguar, and Land Rover. Each collectible set is crafted with precise detailing, authentic logos, and vibrant racing liveries—perfect for display or play. A must-have for car enthusiasts and collectors, these miniatures celebrate the legacy of performance and design excellence.
+  Updated: 2025-11-07T08:21:21Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b322eaac-d6c8-4041-b376-2268cf5b52f5.jpg?v=1762496277
+  Price: ₹999.00 INR
+- [Majorette Porsche Panamera Turbo Diecast Car – White Racing Edition](https://theworldofnerds.com/products/majorette-porsche-panamera-turbo-diecast-car-white-racing-edition): The Majorette Porsche Panamera Turbo is a sleek white collectible featuring the iconic #59 racing livery. This officially licensed diecast model captures the dynamic spirit of Porsche’s luxury sports sedan, making it a must-have for collectors and car enthusiasts. Perfect for display or play, this premium edition toy car brings authentic Porsche design in miniature form.
+  Updated: 2025-11-07T13:59:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_204090d2-e6c6-41da-9968-b4feac484821.jpg?v=1762497030
+  Price: ₹399.00 INR
+- [Majorette Porsche 911 Carrera S Diecast Car – Metallic Green Edition](https://theworldofnerds.com/products/majorette-porsche-911-carrera-s-diecast-car-metallic-green-edition): This Majorette Porsche 911 Carrera S in metallic green is a stunning diecast collectible inspired by Porsche’s timeless sports car design. With realistic detailing, signature wheels, and authentic branding, this miniature masterpiece is ideal for collectors who appreciate precision and style. A perfect addition to any Porsche or diecast car collection.
+  Updated: 2025-11-07T06:32:16Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96dce933-6a1b-4ff5-b810-d01156d5a6a7.jpg?v=1762497085
+  Price: ₹399.00 INR
+- [Majorette Porsche 917 Diecast Car – Blue Racing Edition](https://theworldofnerds.com/products/majorette-porsche-917-diecast-car-blue-racing-edition): The Majorette Porsche 917 in blue racing colors brings the spirit of Le Mans to your collection. With its detailed #17 design, opening rear engine cover, and realistic build, this diecast model pays homage to Porsche’s iconic endurance racer. A must-have for collectors who appreciate precision, history, and the excitement of classic motorsport.
+  Updated: 2025-11-07T16:21:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96aa7711-8719-4093-9d4a-9ee8b44b29d2.jpg?v=1762497159
+  Price: ₹399.00 INR
+- [Volvo FMX Truck with Loader Diecast Model](https://theworldofnerds.com/products/volvo-fmx-truck-with-loader-diecast-model): Bring the power of construction to your collection with the Majorette Volvo Construction Series. Each model features authentic Volvo FMX truck detailing, durable diecast construction, and realistic accessories that capture the essence of heavy-duty machinery. Perfect for collectors, truck enthusiasts, and kids who love construction vehicles, these models combine quality, realism, and play value in one dynamic set.
+  Updated: 2025-11-07T08:41:19Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_83920bec-c843-40f4-91c4-7236b0f0be86.jpg?v=1762497236
+  Price: ₹749.00 INR
+- [Majorette Volvo FMX Construction Container Truck Diecast](https://theworldofnerds.com/products/majorette-volvo-fmx-construction-container-truck-diecast): Bring the power of construction to your collection with the Majorette Volvo Construction Series. Each model features authentic Volvo FMX truck detailing, durable diecast construction, and realistic accessories that capture the essence of heavy-duty machinery. Perfect for collectors, truck enthusiasts, and kids who love construction vehicles, these models combine quality, realism, and play value in one dynamic set.
+  Updated: 2025-11-07T11:09:36Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a287eedb-e2aa-405e-91c3-b01fdbb3e05e.jpg?v=1762497294
+  Price: ₹749.00 INR
+- [Volvo Construction Equipment Show Trailer by Majorette](https://theworldofnerds.com/products/volvo-construction-equipment-show-trailer-by-majorette): Bring the power of construction to your collection with the Majorette Volvo Construction Series. Each model features authentic Volvo FMX truck detailing, durable diecast construction, and realistic accessories that capture the essence of heavy-duty machinery. Perfect for collectors, truck enthusiasts, and kids who love construction vehicles, these models combine quality, realism, and play value in one dynamic set.
+  Updated: 2025-11-07T08:00:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_db491364-8738-4cad-b252-e69770d64213.jpg?v=1762497348
+  Price: ₹749.00 INR
+- [Majorette Street Cars – Orange Hatchback Diecast Model](https://theworldofnerds.com/products/majorette-street-cars-orange-hatchback-diecast-model): Add a touch of speed and style to your diecast collection with this Majorette Street Cars Orange model. Crafted with detailed precision and realistic design, this collectible car toy captures the spirit of modern street vehicles. Perfect for car enthusiasts, kids, and collectors alike, this Majorette diecast car makes a great display piece or gift.
+  Updated: 2025-11-07T18:24:53Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6e3f3367-6cef-43e2-b6e9-995ac5bf36f0.jpg?v=1762497541
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Orange Pickup Diecast Truck](https://theworldofnerds.com/products/majorette-street-cars-orange-pickup-diecast-truck): Add power and precision to your collection with this Majorette Street Cars Orange Pickup Truck. Designed with authentic detailing, smooth-rolling wheels, and a striking orange finish, this diecast model captures the essence of rugged street style. Perfect for collectors, kids, and automotive enthusiasts, this Majorette pickup toy car makes a great addition to any diecast display or gift collection.
+  Updated: 2025-11-07T22:19:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_225384fb-e6f7-4811-9848-26eedfda09a0.jpg?v=1762497622
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Blue Pickup Diecast Truck](https://theworldofnerds.com/products/majorette-street-cars-blue-pickup-diecast-truck): Experience the perfect blend of style and strength with this Majorette Street Cars Blue Pickup Truck. Featuring realistic details, smooth wheels, and a striking blue finish, this diecast toy car is built for collectors and kids alike. Add this Majorette pickup model to your collection and enjoy the craftsmanship and durability that make Majorette a favorite among car enthusiasts.
+  Updated: 2025-11-07T18:25:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_527b5bf7-6362-4781-9906-e35330aa0fda.jpg?v=1762497676
+  Price: ₹199.00 INR
+- [Majorette Street Cars – White Off-Road SUV Diecast](https://theworldofnerds.com/products/majorette-street-cars-white-off-road-suv-diecast): A studio shot of a white die-cast SUV toy car, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
+  Updated: 2025-11-07T12:24:25Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_599ecaff-a892-4edc-99bd-67751eb4cb9e.jpg?v=1762497739
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Blue Hatchback Model Diecast](https://theworldofnerds.com/products/majorette-street-cars-blue-hatchback-model-diecast): A studio shot of a blue die-cast sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
+  Updated: 2025-11-07T08:38:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8a9f526b-d7b1-463d-a5db-6e2d1404f4b5.jpg?v=1762498173
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Purple Hatchback Diecast](https://theworldofnerds.com/products/majorette-street-cars-purple-hatchback-diecast): A studio shot of a purple die-cast sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
+  Updated: 2025-11-07T13:36:00Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27bf7276-4900-4552-a75f-0e6e01e3aac7.jpg?v=1762498224
+  Price: ₹199.00 INR
+- [Majorette Street Cars – Purple Jeep Off-Roader Diecast](https://theworldofnerds.com/products/majorette-street-cars-purple-jeep-off-roader-diecast): A studio shot of a purple die-cast, Jeep-style SUV toy car, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
+  Updated: 2025-11-07T06:52:36Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_42106ef1-8390-48ed-a49b-fad5e3294503.jpg?v=1762498297
+  Price: ₹199.00 INR
+- [Majorette Street Cars Red Convertible Toy Car in Blister Pack](https://theworldofnerds.com/products/majorette-street-cars-red-convertible-toy-car-in-blister-pack): A studio shot of a red die-cast convertible sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up
+  Updated: 2025-11-07T06:54:55Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9b5263c3-d537-4a42-8061-bbc7f3c0a7fb.jpg?v=1762498460
+  Price: ₹199.00 INR
+- [Majorette Yellow Sports Car Diecast Model in Blister Pack](https://theworldofnerds.com/products/majorette-yellow-sports-car-diecast-model-in-blister-pack): Experience the thrill of racing with this Majorette yellow diecast car from the Speed Series collection. Designed with precision detailing, black racing stripes, and a sporty finish, it’s perfect for both young car lovers and adult collectors. Packaged securely in a display-ready blister pack, this miniature vehicle combines style, durability, and the signature Majorette craftsmanship.
+  Updated: 2025-11-07T06:56:01Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d1d161e4-ca57-4aec-add1-eba726b1eb75.jpg?v=1762498519
+  Price: ₹199.00 INR
+- [Limited Edition Majorette Diecast Car – Pink with Green Wheels](https://theworldofnerds.com/products/limited-edition-majorette-diecast-car-pink-with-green-wheels): Discover the rare Majorette 2025 Chase Car, a stunning pink diecast model with bright green wheels and sporty detailing. Part of the Majorette Street Cars collection, this limited-edition release combines bold design with precision craftsmanship. Perfect for collectors and enthusiasts, this eye-catching toy car adds a vibrant touch to any diecast display or racing collection.
+  Updated: 2025-11-07T11:51:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e95c7c08-7e1b-4a0e-9fc7-90161a72fa2a.jpg?v=1762498592
+  Price: ₹199.00 INR
+- [Majorette Premium Diecast Vehicle – Yellow Compact Coupe](https://theworldofnerds.com/products/majorette-premium-diecast-vehicle-yellow-compact-coupe): Add a touch of city style to your collection with this Majorette Street Cars yellow hatchback diecast model. Designed with realistic detailing and durable metal construction, this compact car captures the charm of urban driving. Perfect for kids aged 3+ and collectors who appreciate everyday classics, it comes sealed in a vibrant Majorette blister pack for display or gifting.
+  Updated: 2025-11-07T08:07:02Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5e9b7346-8be9-4928-8952-776bd84ee1b5.jpg?v=1762498684
+  Price: ₹199.00 INR
+- [Majorette Diecast Vehicle – Sleek White Sports Coupe](https://theworldofnerds.com/products/majorette-diecast-vehicle-sleek-white-sports-coupe): This Majorette white sports car from the Street Cars series blends sleek design with authentic detailing, perfect for collectors and kids alike. With its aerodynamic body, stylish rims, and premium finish, this diecast model captures the thrill of modern racing. Ideal for display or play, it comes securely packaged in an eye-catching Majorette blister pack, suitable for ages 3 and up.
+  Updated: 2025-11-07T08:07:26Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1e261b4e-214b-448e-842b-091ff83d3a95.jpg?v=1762498764
+  Price: ₹199.00 INR
+- [Majorette Street Racer – Glossy Green Sports Car](https://theworldofnerds.com/products/majorette-street-racer-glossy-green-sports-car): Bring racing excitement to your collection with this Majorette Street Cars green sports coupe. Featuring a sleek aerodynamic design, detailed interiors, and durable metal build, this diecast model perfectly blends style and performance. Ideal for collectors and kids aged 3+, it comes in a premium Majorette blister pack — ready for display or playtime action.
+  Updated: 2025-11-07T20:05:59Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2c2237f7-c16f-4783-a930-ec33d413ee02.jpg?v=1762498828
+  Price: ₹199.00 INR
 
 ## Collections
 
@@ -11508,8 +11669,8 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 5
 - [MAJORETTE](https://theworldofnerds.com/collections/majorette): Explore the vibrant world of Majorette cars! Our high-quality die-cast vehicles feature realistic designs and durable construction, perfect for imaginative play and display. From sleek sports cars to essential emergency vehicles, Majorette offers a diverse collection that captivates automotive enthusiasts of all ages. Ideal for gifts or as a collectible, Majorette cars are sure to spark joy and creativity.
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 170
+  Updated: 2025-11-07T07:01:03Z
+  Total Products: 193
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
   Updated: 2025-11-04T12:12:04Z
   Total Products: 264
@@ -11541,13 +11702,13 @@
   Updated: 2025-07-29T05:10:28Z
   Total Products: 27
 - [ALL KATANA](https://theworldofnerds.com/collections/all-katana): A katana toy is like holding a piece of samurai history in your hands! While it's not meant for real combat, these miniature swords are crafted with amazing detail to look just like the real thing. Made from materials like plastic or metal, they usually come with cool features like intricate designs on the hilt and faux blades that shine just like a real katana. Whether you’re into cosplay, love samurai culture, or just think they look awesome, katana toys let you connect with that history and bring a touch of elegance and coolness to your collection or playtime. Perfect for displaying or pretending you’re a legendary warrior!
-  Updated: 2025-11-03T12:11:20Z
+  Updated: 2025-11-07T12:13:54Z
   Total Products: 38
 - [NEON KATANA](https://theworldofnerds.com/collections/neon-katana): Illuminate your collection with our striking Neon Katanas! Combining the traditional elegance of the katana with vibrant, glowing neon colors, these swords are perfect for those who appreciate both art and style. Designed with LED lights that shine brightly in the dark, these neon katanas make an eye-catching display piece or a fun prop for cosplay and themed events. Whether you’re a collector, a fan of futuristic design, or looking for a unique addition to your decor, our neon katanas bring bold, dynamic energy to any space.
   Updated: 2025-10-24T04:50:38Z
   Total Products: 5
 - [WOODEN KATANA](https://theworldofnerds.com/collections/wooden-katana): Unleash the spirit of the samurai with our beautifully crafted Wooden Katanas. Each katana is meticulously made from high-quality wood, designed to resemble the iconic Japanese sword in both style and detail. Perfect for collectors, martial arts enthusiasts, or anyone looking to add a touch of traditional elegance to their space, these wooden katanas offer a safe and striking display piece. Whether you're training, decorating your home, or showcasing your love for Japanese culture, our wooden katanas bring timeless craftsmanship to life.
-  Updated: 2025-10-24T04:57:52Z
+  Updated: 2025-11-07T12:13:54Z
   Total Products: 22
 - [MAISTO BIKE SCALE 1:12](https://theworldofnerds.com/collections/diecast-bikes-2): Bring precision and craftsmanship to your collection with Maisto 1:12 Scale Bikes! Renowned for their attention to detail, these 1:12 scale models offer an impressive representation of iconic motorcycles in miniature form. Each diecast bike features intricate design elements, from realistic engine details to movable parts, capturing the essence of real-world motorcycles. Perfect for collectors and enthusiasts, these Maisto bikes are crafted with durable materials and vibrant finishes, making them ideal for display or as a thoughtful gift. Add a Maisto 1:12 scale bike to your collection and experience the thrill of motorcycling in miniature!
   Updated: 2025-08-29T11:13:28Z
@@ -11562,8 +11723,8 @@
   Updated: 2025-11-02T12:11:53Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 448
+  Updated: 2025-11-07T07:01:03Z
+  Total Products: 470
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
   Updated: 2025-10-26T11:12:48Z
   Total Products: 104
@@ -11643,8 +11804,8 @@
   Updated: 2025-11-05T12:32:18Z
   Total Products: 216
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 626
+  Updated: 2025-11-07T12:13:54Z
+  Total Products: 650
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
   Total Products: 1
@@ -11655,16 +11816,16 @@
   Updated: 2025-10-19T11:11:51Z
   Total Products: 23
 - [CUSTOM DIECAST](https://theworldofnerds.com/collections/custom-diecast-cars): Custom diecast are modified, hand-painted, or fully customized versions of traditional diecast models. These vehicles go beyond standard mass-produced designs, incorporating unique paint jobs, aftermarket parts, decals, and even performance enhancements like rubber tires and detailed interiors. Enthusiasts and collectors often personalize diecast by repainting, adding custom wheels, weathering for realism, or even swapping parts to create one-of-a-kind models. Some custom diecast artists replicate real-world race cars, classic restorations, or fantasy builds that never existed in production.
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 182
+  Updated: 2025-11-07T07:01:03Z
+  Total Products: 206
 - [JURASSIC WORLD](https://theworldofnerds.com/collections/jurassic-world): "Step into the prehistoric adventure of Jurassic World with our latest collectibles! From realistic dinosaur figures and Funko Pop! collectibles to keychains and must-have memorabilia, relive the excitement of the epic franchise. Whether you're a fan of T-Rex, Blue the Velociraptor, or the Indominus Rex, these high-quality items bring the awe and danger of Jurassic World to life. Perfect for collectors, movie buffs, and dinosaur lovers—add these prehistoric beasts to your collection today!" 🦖🔥🌿
   Updated: 2025-08-04T11:09:26Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 568
+  Updated: 2025-11-07T07:01:03Z
+  Total Products: 592
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2025-11-04T12:12:04Z
+  Updated: 2025-11-07T12:13:54Z
   Total Products: 379
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2025-10-27T11:10:40Z
@@ -11721,8 +11882,8 @@
   Updated: 2025-10-30T11:13:12Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 1112
+  Updated: 2025-11-07T12:13:54Z
+  Total Products: 1136
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2025-10-30T11:13:12Z
   Total Products: 105
@@ -11739,8 +11900,8 @@
   Updated: 2025-07-29T05:10:33Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-11-05T12:58:04Z
-  Total Products: 434
+  Updated: 2025-11-07T07:01:03Z
+  Total Products: 458
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
   Total Products: 8
@@ -11751,11 +11912,14 @@
   Updated: 2025-10-29T12:50:43Z
   Total Products: 24
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
-  Updated: 2025-10-24T04:57:52Z
+  Updated: 2025-11-07T12:13:54Z
   Total Products: 17
 - [ALL ANIME MERCHANDISE](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2025-11-05T07:00:47Z
+  Updated: 2025-11-07T12:13:54Z
   Total Products: 418
+- [Matchbox](https://theworldofnerds.com/collections/matchbox)
+  Updated: 2025-11-07T13:16:43Z
+  Total Products: 0
 
 ## Store Pages
 
@@ -11783,6 +11947,8 @@
   Updated: 2025-08-27T09:15:15Z
 - [Wishlist](https://theworldofnerds.com/pages/wishlist)
   Updated: 2025-08-28T05:11:11Z
+- [Affiliate Dashboard](https://theworldofnerds.com/pages/affiliate)
+  Updated: 2025-11-06T07:15:42Z
 
 ## Policies
 
