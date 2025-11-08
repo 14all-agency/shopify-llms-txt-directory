@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-11-05T00:00:27.771Z
+- Updated At: 2025-11-08T00:00:28.553Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -448,7 +448,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $25.99 USD
 - [Unisex Softstyle T-Shirt - Classic & Ultra-Soft Feel](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore): Enjoy casual comfort with the Gildan Softstyle 64000 tee made from 100% ring-spun cotton. Lightweight fabric soft feel and durable ribbed collar for lasting wear.
-  Updated: 2025-11-04T22:26:13Z
+  Updated: 2025-11-05T11:52:34Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1105,34 +1105,28 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-3.jpg?v=1759081600
     Price: $27.98 USD
 - [Personalized Toddler T-Shirt](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore): Keep your toddler comfy with this soft classic-fit tee featuring durable stitching and a vibrant Tiger in Glasses design. Perfect for playtime and everyday wear.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-05T15:13:38Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-1.jpg?v=1759081697
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-6.jpg?v=1759081722
   - [Royal / 2T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399371019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-1.jpg?v=1759081697
     Price: $12.28 USD
   - [Royal / 3T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399403787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-1.jpg?v=1759081697
     Price: $12.28 USD
   - [Red / 4T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399436555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-2.jpg?v=1759081704
     Price: $12.28 USD
   - [Royal / 4T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399469323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-1.jpg?v=1759081697
     Price: $12.28 USD
   - [Charcoal / 5T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399502091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-3.jpg?v=1759081710
     Price: $12.28 USD
   - [Lime / 5T](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore?variant=45359399534859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-4.jpg?v=1759081717
     Price: $12.28 USD
 - [All-Day Hot & Cold Insulated Tumbler – Durable Easy-Clean Drinkware](https://printexplore9.com/products/tumbler-20oz-print-explore): Keep drinks hot or cold all day with this durable 20oz insulated tumbler. Easy to clean and perfect for on-the-go hydration. Stylish and built to last.
   Updated: 2025-10-12T09:53:30Z
