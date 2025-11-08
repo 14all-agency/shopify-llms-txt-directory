@@ -10,7 +10,7 @@
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-07T00:14:47.888Z
+- Updated At: 2025-11-08T00:14:32.935Z
 
 ## Auto které nenabízíme můžete poptat zde
 https://www.driveto.cz/pages/vyberte-si-svoje-auto
@@ -1034,7 +1034,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKaroqSportline1.5foto1_52cf0127-5e4e-4b10-aa41-5365cb52c7cf.webp?v=1761575693
   Price: 10 300,00 Kč CZK
 - [KIA Ceed TOP 1.5 T-GDI ISG 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/kia-ceed-top-1-5-t-gdi-isg-103kw-natural-95-automaticka-prevodovka): Ceed SW je jedním z nejzajímavějších kombíků, který se dá pořídit. Stojí totiž ve srovnání s konkurencí méně peněz, ale v mnoha ohledech nabídne více. Design si zachovává perfektní balanc mezi odvážností a nadčasovostí. Uvnitř potěší hlavně snadné a intuitivní ovládání vozu. Dominují zde klasická tlačítka či kolečka. Použité materiály jsou vzhledem k ceně vozu nadprůměrně kvalitní. Nechybí ani pořádný kufr, který pojme 625 litrů zavazadel. Podvozek je naladěný tak akorát. To znamená, že poskytuje velmi dobrý komfort, ale zároveň není zbytečně houpavý a můžete se na něj spolehnout i při svižnějším průjezdu zatáčkou. Srovnáme-li jej s konkurencí, tak má rozhodně jedny z nejlepších jízdních vlastností, které se zavděčí jak klidným, tak rychlejším řidičům. Pod kapotou se nachází čtyřválcový benzinový motor s turbem. Je velmi dobře odhlučněn a potěší i nízká spotřeba, která se dá držet okolo 6 litrů. Výkon pohonné jednotky činí 103 kW, což vozu dodává solidní dynamiku. Jedná se zkrátka o skvělého parťáka pro každý den. Nechybí zde ani automatická převodovka, která poskytne ještě lepší komfort při každé cestě.
-  Updated: 2025-11-06T13:42:55Z
+  Updated: 2025-11-07T14:22:50Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -8516,7 +8516,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Skoda_Kodiaq_Selection_2_0_TSI_4x4_foto8.webp?v=1762378845
     Price: 13 450,00 Kč CZK
 - [Toyota C-HR Comfort 1.8 Hybrid 140k 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-c-hr-comfort-1-8-hybrid-140k-103-kw-natural-95-automaticka-prevodovka-1): Toyota C-HR s motorem 1.8 Hybrid a výkonem 103 kW ve výbavě Comfort je ideální volbou pro ty, kteří hledají stylové městské SUV s úsporným provozem a moderní hybridní technologií. Design vozu zaujme ostrými liniemi, atletickými proporcemi a celkovým dynamickým vzhledem, který se vymyká tradičnímu pojetí crossoverů. Hybridní pohon kombinuje benzinový motor s elektromotorem, což zajišťuje tichý chod, plynulou jízdu a velmi nízkou spotřebu zejména ve městě. Automatická převodovka e-CVT přispívá k pohodlí při každodenním dojíždění. Interiér je ergonomicky řešený, nabídne kvalitní materiály, přehledný infotainment a dostatek prostoru pro posádku i zavazadla. Toyota C-HR Comfort je tak skvělou volbou pro ty, kdo hledají úsporné, spolehlivé a stylové SUV do každého dne.
-  Updated: 2025-11-06T20:29:26Z
+  Updated: 2025-11-07T12:45:34Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -8605,16 +8605,16 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-07T00:05:14Z
+  Updated: 2025-11-08T00:08:26Z
   Total Products: 237
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:04:59Z
+  Updated: 2025-11-08T00:04:43Z
   Total Products: 65
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T15:39:41Z
+  Updated: 2025-11-07T10:05:28Z
   Total Products: 30
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:02:19Z
+  Updated: 2025-11-08T00:04:17Z
   Total Products: 159
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:39:41Z
@@ -8626,7 +8626,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-26T11:17:59Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T15:01:43Z
+  Updated: 2025-11-07T10:01:31Z
   Total Products: 13
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
@@ -8638,49 +8638,49 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:05:54Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-04T14:07:52Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T12:22:24Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 6
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:02:58Z
+  Updated: 2025-11-08T00:03:17Z
   Total Products: 45
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T12:22:25Z
+  Updated: 2025-11-08T00:05:33Z
   Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:01:32Z
+  Updated: 2025-11-08T00:05:54Z
   Total Products: 13
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:46:03Z
   Total Products: 4
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T12:22:24Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T13:03:39Z
+  Updated: 2025-11-07T16:02:47Z
   Total Products: 7
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T18:04:13Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:04:47Z
+  Updated: 2025-11-08T00:05:07Z
   Total Products: 29
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-04T12:21:28Z
   Total Products: 9
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:05:28Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T00:04:19Z
+  Updated: 2025-11-08T00:03:47Z
   Total Products: 239
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T11:04:59Z
@@ -8689,16 +8689,16 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-11-05T12:22:19Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T12:22:25Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 3
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-07T00:06:09Z
+  Updated: 2025-11-08T00:08:10Z
   Total Products: 237
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-06T12:22:25Z
+  Updated: 2025-11-07T12:22:56Z
   Total Products: 3
 
 ## Blogs
@@ -9668,6 +9668,10 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [Povinná výbava auta 2025: Co musíte mít v autě podle zákona v ČR i v zahraničí](https://www.driveto.cz/blogs/clanky/povinna-vybava-auta-2025-co-musite-mit-v-aute-podle-zakona-v-cr-i-v-zahranici): <p><meta charset="utf-8">Povinná výbava auta 2025 přehledně: co musíte mít v autě v Česku, Rakousku, Německu, Slovensku a Polsku. Aktuální pravidla, srovnávací tabulky a tipy, jak se vyhnout pokutě.</p>
     Updated: 2025-11-06T11:59:27Z
     Author: Jakub Dvoracek
+  - [Jak používat mlhovky: kdy, jak a proč je zapínat](https://www.driveto.cz/blogs/clanky/jak-pouzivat-mlhovky-kdy-jak-a-proc-je-zapinat): <p><meta charset="utf-8">Kdy zapnout mlhovky, jak poznat symboly na palubní desce a proč se zadní mlhovky nesmí používat ve městě. Praktický přehled pravidel a vyhlášek o používání mlhových světel.</p>
+    Updated: 2025-11-07T13:30:07Z
+    Author: Jakub Dvoracek
+    Tags: jak zapnout mlhovky, kdy zapnout mlhovky, mlhová světla, mlhovky, zadní mlhová světla, zadní mlhovky symbol
 
 ## Store Pages
 
