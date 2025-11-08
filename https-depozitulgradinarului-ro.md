@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-06T00:00:52.077Z
+- Updated At: 2025-11-08T00:00:31.703Z
 
 ## Products
 
@@ -1949,263 +1949,263 @@ Livrare rapidă!
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.41.jpg?v=1739735827
   Price: 11,99 lei RON
 - [Seminte Porumb Dulce TITINA F1, Furia Seed - Hibrid Supersweet](https://depozitulgradinarului.ro/products/seminte-porumb-dulce-titina-f1-1): Seminte Porumb Dulce Titina F1, Furia Seed – hibrid timpuriu supersweet, știuleți uniformi 18–22 cm, boabe galben-intense, dulci și fragede, productiv și stabil.
-  Updated: 2025-11-05T15:45:34Z
+  Updated: 2025-11-06T07:33:42Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.42_5.jpg?v=1739736161
   Price: 12,90 lei RON
 - [Seminte Ridichi SAXA 2 F1 (Hibrid), Furia Seed - Roșii, Ferme, Crocante](https://depozitulgradinarului.ro/products/seminte-ridichi-saxa-2-f1): Seminte Ridichi Saxa 2 F1, Furia Seed – hibrid timpuriu, rădăcini rotunde roșii, pulpă albă, crocantă și suculentă, ideal pentru câmp și seră.
-  Updated: 2025-11-05T15:36:25Z
+  Updated: 2025-11-06T12:25:53Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.43_4.jpg?v=1739736464
   Price: 12,90 lei RON
 - [Seminte Tomate ALTAMIRA F1 (Hibrid), Furia Seed | Hibrid Cluster](https://depozitulgradinarului.ro/products/seminte-tomate-altamira-f1): Seminte Tomate Altamira F1, Furia Seed – hibrid cu creștere nedeterminată, fructe roșii omogene de 160–180 g, ideal pentru sere și câmp deschis.
-  Updated: 2025-11-05T15:22:41Z
+  Updated: 2025-11-06T06:43:34Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.40_1.jpg?v=1739736798
   Price: 11,99 lei RON
 - [Seminte Tomate BEEFMASTER VFN F1 (Hibrid), Furia Seed](https://depozitulgradinarului.ro/products/seminte-tomate-beefmaster-vfn-f1): Seminte Tomate Beefmaster VFN F1, Furia Seed – hibrid cu fructe mari, peste 1 kg, pulpă cărnoasă, gustoasă, viguroasă și rezistentă la boli comune.
-  Updated: 2025-11-05T15:16:37Z
+  Updated: 2025-11-06T07:55:37Z
   Vendor: AGROSEM
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.42_6_38874ff7-083b-48f0-858a-762ed350f753.jpg?v=1739736245
   Price: 11,99 lei RON
 - [Seminte Tomate DATTERINO (MINIMARZANO) F1 (Hibrid), Furia Seed](https://depozitulgradinarului.ro/products/seminte-tomate-datterino-minimarzano-f1): Seminte Tomate Datterino F1, Furia Seed – hibrid cherry dulce, fructe alungite, foarte carnoase, viguroase și productive, ideal pentru sere și câmp deschis.
-  Updated: 2025-11-05T15:12:59Z
+  Updated: 2025-11-06T07:51:42Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.42.jpg?v=1739735860
   Price: 11,99 lei RON
 - [Seminte Tomate MONTECARLO F1 (Hibrid), Furia Seed | Fructe Mari, Roșii](https://depozitulgradinarului.ro/products/seminte-tomate-montecarlo-f1): Seminte Tomate Montecarlo F1, Furia Seed – hibrid semi-timpuriu, fructe mari roșii, ferme, rezistente la crăpare, cu rezistență excelentă la Fusarium și Verticilium.
-  Updated: 2025-11-05T15:06:14Z
+  Updated: 2025-11-06T10:46:00Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.42_1.jpg?v=1739735916
   Price: 11,99 lei RON
 - [Seminte Tomate PEARSON SEL D’ALBENGA F1 (Hibrid), Furia Seed](https://depozitulgradinarului.ro/products/seminte-tomate-pearson-sel-d-albenga-f1): Seminte Tomate Pearson Sel D’Albenga F1, Furia Seed – hibrid cu creștere nedeterminată, fructe mari roșii, pulpă fermă și gust bun, productivitate ridicată.
-  Updated: 2025-11-05T15:00:16Z
+  Updated: 2025-11-06T08:43:30Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.43_6.jpg?v=1739736532
   Price: 11,99 lei RON
 - [Seminte Tomate RED CHERRY F1 (Hibrid), Furia Seed - Fructe Mici, Dulci](https://depozitulgradinarului.ro/products/seminte-tomate-red-cherry-f1): Seminte Tomate Red Cherry F1, Furia Seed – hibrid cu fructe cherry, 20–25 g, gustoase și dulci, creștere nedeterminată, ideal pentru grădini și consum proaspăt.
-  Updated: 2025-11-05T14:56:06Z
+  Updated: 2025-11-06T08:11:59Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.43_1.jpg?v=1739736308
   Price: 11,99 lei RON
 - [Seminte Tomate Supermarzano VFFN F1 –  Hibride, Cilindrice, Rezistente](https://depozitulgradinarului.ro/products/seminte-tomate-supermarzano-vffn-f1): Seminte Tomate Supermarzano VFFN F1, Hibrid  – plantă viguroasă, fructe cilindrice cu pulpă consistentă, rezistentă la fusarioză și verticilioză, pentru consum proaspăt.
-  Updated: 2025-11-05T14:51:12Z
+  Updated: 2025-11-06T04:46:20Z
   Vendor: Furia Seed
   Product Type: Seminte Profesionale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-16at21.55.43_3.jpg?v=1739736388
   Price: 11,99 lei RON
 - [Seminte Flori CÂRCIUMĂRESE GIGANTE, AGROSEM – 1.5 GR | Flori Colorate](https://depozitulgradinarului.ro/products/seminte-flori-carciumarese-gigante-agrosem-1-5-gr): Seminte flori Cârciumărese Gigante, Agrosem (1.5 gr) – plantă anuală, flori mari multicolore, 10–60 cm, perfectă pentru grădini, borduri și aranjamente florale.
-  Updated: 2025-11-05T14:12:11Z
+  Updated: 2025-11-06T03:51:46Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_4.jpg?v=1740077905
   Price: 2,99 lei RON
 - [Seminte Flori CÂRCIUMĂRESE MIX, AGROSEM - 1 GR | Flori Colorate](https://depozitulgradinarului.ro/products/seminte-flori-carciumarese-mix-agrosem-1-gr): Seminte flori Cârciumărese Mix, Agrosem (1 gr) – plantă anuală, flori variate, 10–50 cm, înflorește iunie–octombrie, perfectă pentru grădini, borduri și ghivece.
-  Updated: 2025-11-05T14:08:19Z
+  Updated: 2025-11-06T10:43:20Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_15.jpg?v=1740078788
   Price: 2,99 lei RON
 - [Seminte Flori CREASTA COCOŞULUI, AGROSEM – 0.8 GR](https://depozitulgradinarului.ro/products/seminte-flori-creasta-cocosului-agrosem-0-8-gr): Seminte flori Creasta Cocoșului, Agrosem (0.8 gr) – plantă anuală 20–30 cm, ideală pentru grupuri, borduri și jardiniere, preferă locurile însorite.
-  Updated: 2025-11-05T14:05:02Z
+  Updated: 2025-11-06T03:50:33Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.27.jpg?v=1740079536
   Price: 2,99 lei RON
 - [Seminte Flori CRIZANTEME MIX, AGROSEM - 1 GR | Flori Colorate](https://depozitulgradinarului.ro/products/seminte-flori-crizanteme-mix-agrosem-1-gr): Seminte flori Crizanteme Mix, Agrosem (1 gr) – plante anuale, până la 70 cm, flori colorate cu centru purpuriu, perfecte pentru grădini, borduri și aranjamente.
-  Updated: 2025-11-05T14:02:07Z
+  Updated: 2025-11-06T06:59:45Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.27_4.jpg?v=1740079623
   Price: 2,99 lei RON
 - [Seminte Flori DALIE MIX, AGROSEM – 0.4 GR](https://depozitulgradinarului.ro/products/seminte-flori-dalie-mix-agrosem-0-4-gr): Seminte Flori Dalie Mix, Agrosem (0.4 gr) – plantă anuală, înaltă până la 50 cm, înflorește iunie–> toamnă, perfectă pentru grădini, ghivece și aranjamente decorative.
-  Updated: 2025-11-05T13:58:55Z
+  Updated: 2025-11-06T08:23:16Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.27_9.jpg?v=1740079802
   Price: 2,99 lei RON
 - [Seminte Flori FLOAREA MIRESEI, AGROSEM – 1.5 GR | Flori Mici Albe](https://depozitulgradinarului.ro/products/seminte-flori-floarea-miresei-agrosem-1-5-gr): Seminte flori Floarea Miresei, Agrosem (1.5 gr) – plantă anuală 60–80 cm, rezistentă la secetă, atrage albine, ideală pentru borduri, ghivece și buchete.
-  Updated: 2025-11-05T13:53:08Z
+  Updated: 2025-11-06T13:07:55Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.27_7.jpg?v=1740079708
   Price: 2,99 lei RON
 - [Seminte Flori GĂLBENELE MIX, AGROSEM – 3 GR | Plante Anuale Decorative](https://depozitulgradinarului.ro/products/seminte-flori-galbenele-mix-agrosem-3-gr): Seminte flori Gălbenele Mix, Agrosem (3 gr) – plantă anuală 40–60 cm, ramificată, rezistentă la secetă, ideală pentru grădini ornamentale, medicinale și industriale.
-  Updated: 2025-11-05T13:50:02Z
+  Updated: 2025-11-06T07:12:17Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.26.jpg?v=1740079454
   Price: 2,99 lei RON
 - [Seminte Flori GAROAFE MIX, AGROSEM – 0.3 GR | Flori colorate, Bianuale](https://depozitulgradinarului.ro/products/seminte-flori-garoafe-mix-agrosem-0-3-gr): Seminte flori Garoafe Mix, Agrosem (0.3 gr) – plantă bianuală, 60 cm, flori colorate, ideale pentru borduri, grădini și grupuri florale în aer liber.
-  Updated: 2025-11-05T13:46:55Z
+  Updated: 2025-11-06T05:40:45Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.27_2.jpg?v=1740079580
   Price: 2,99 lei RON
 - [Seminte Flori GAROFIŢE DE GRĂDINĂ MIX (Floarea Zeilor) Flori parfumate](https://depozitulgradinarului.ro/products/seminte-flori-garofite-de-gradina-mix-agrosem-0-3-gr): Seminte flori Garofițe de Grădină Mix (Floarea Zeilor), Agrosem (0.3 gr) – plante anuale, 30 cm, flori franjurate, parfumate, ideale pentru ghivece și borduri. Flori parfumate și colorate!
-  Updated: 2025-11-05T13:43:42Z
+  Updated: 2025-11-06T05:52:32Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_1.jpg?v=1740080300
   Price: 2,99 lei RON
 - [Seminte Flori MARGARETE, AGROSEM – 0.1 GR | Flori Perene Colorate](https://depozitulgradinarului.ro/products/seminte-flori-margarete-agrosem-0-1-gr): Seminte flori Margarete, Agrosem (0.1 gr) – plantă perenă, 40–70 cm, viguroasă și decorativă, ideală pentru borduri, grupuri florale și flori tăiate.
-  Updated: 2025-11-05T13:38:44Z
+  Updated: 2025-11-06T07:26:09Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_3.jpg?v=1740080341
   Price: 2,99 lei RON
 - [Seminte Flori OCHIUL BOULUI MIX, AGROSEM – 0.4 GR | Flori Colorate](https://depozitulgradinarului.ro/products/seminte-flori-ochiul-boului-mix-agrosem-0-4-gr): Seminte flori Ochiul Boului Mix, Agrosem (0.4 gr) – plantă anuală, 25–30 cm, flori viu colorate, ideale pentru borduri, grupuri florale și jardiniere.
-  Updated: 2025-11-05T13:34:34Z
+  Updated: 2025-11-06T05:59:40Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_4.jpg?v=1740080384
   Price: 2,99 lei RON
 - [Seminte Flori PETUNIA IBRIDA MIX, AGROSEM – 0.2 GR | Flori Multicolore](https://depozitulgradinarului.ro/products/seminte-flori-petunia-ibrida-mix-agrosem-0-2-gr): Seminte flori Petunia Ibrida Mix, Agrosem (0.2 gr) – plantă anuală cu înflorire abundentă și flori multicolore, ideală pentru jardiniere, ghivece și borduri.
-  Updated: 2025-11-05T13:18:38Z
+  Updated: 2025-11-06T08:59:24Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_5.jpg?v=1740080441
   Price: 2,99 lei RON
 - [Seminte Flori PETUNIA NANA COMPATTA, AGROSEM | Flori Mari, Colorate](https://depozitulgradinarului.ro/products/seminte-flori-petunia-nana-compatta-agrosem-0-2-gr): Seminte flori Petunia Nana Compatta, Agrosem (0.2 gr) – plantă anuală cu flori mari, colorate, ideală pentru ghivece, jardiniere și decorul teraselor. Flori Mari, Colorate!
-  Updated: 2025-11-05T13:14:58Z
+  Updated: 2025-11-06T05:05:24Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_6.jpg?v=1740080487
   Price: 2,99 lei RON
 - [Seminte Flori SALVIE, AGROSEM – 0.1 GR | Flori Roșii Intense](https://depozitulgradinarului.ro/products/seminte-flori-salvie-agrosem-0-1-gr): Seminte flori Salvie, Agrosem (0.1 gr) – plantă anuală, 25–30 cm, flori roșii aprinse, iubitoare de soare, perfectă pentru borduri, jardiniere și ghivece.
-  Updated: 2025-11-05T13:10:58Z
+  Updated: 2025-11-06T03:39:56Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_8.jpg?v=1740080520
   Price: 2,99 lei RON
 - [Seminte Flori TAGHETE ALTA DOPPIA MIX (Craite) | Flori mari galben-portocali](https://depozitulgradinarului.ro/products/seminte-flori-taghete-alta-doppia-mix-agrosem-1-gr): Seminte flori Taghete Alta Doppia Mix (Crăițe), Agrosem (1 gr) – plantă anuală, 70 cm, flori duble galben-portocalii, rezistentă, ideală pentru ronduri și borduri.
-  Updated: 2025-11-05T13:11:14Z
+  Updated: 2025-11-06T03:09:34Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_9.jpg?v=1740080567
   Price: 2,99 lei RON
 - [Seminte Flori TAGHETE NANA MIX , AGROSEM - 1 GR | Flori bicolore](https://depozitulgradinarului.ro/products/seminte-flori-taghete-nana-mix-agrosem-1-gr): Seminte flori Taghete Nana Mix,  Agrosem (1 gr) – plantă anuală, tufă ramificată, 25–30 cm, flori duble, bicolore, rezistentă la secetă, ideală pentru borduri și jardiniere.
-  Updated: 2025-11-05T13:11:23Z
+  Updated: 2025-11-06T22:55:32Z
   Vendor: AGROSEM
   Product Type: Seminte Flori
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_11.jpg?v=1740080612
   Price: 2,99 lei RON
 - [Seminte Fasole Oloaga BERGGOLD, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-cutie-250-gr): Seminte fasole oloaga Berggold Agrosem, (250 gr) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-05T11:39:03Z
+  Updated: 2025-11-06T21:49:27Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44.jpg?v=1739902372
   Price: 14,90 lei RON
 - [Seminte Fasole Oloaga BERGGOLD, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-berggold-agrosem-100-gr): Seminte fasole oloaga Berggold Agrosem, (100 gr) – soi timpuriu, păstăi galbene, drepte, fragede, fără ațe, planta pitică 45–50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-05T11:38:40Z
+  Updated: 2025-11-06T19:22:39Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_3.jpg?v=1740078293
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga BORLOTTO RED, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-borlotto-red-agrosem-100-gr): Seminte fasole oloaga Borlotto Red, Agrosem (100 gr) – soi pitic, păstăi roșu intens pe fond alb, boabe rotund-alungite roșu închis pe fond cream, fasole uscată.
-  Updated: 2025-11-05T11:28:35Z
+  Updated: 2025-11-06T21:32:19Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_8.jpg?v=1740078103
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga CANNELLINO, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-cannelino-agrosem-100-gr): Seminte fasole oloaga Cannellino, Agrosem (100 gr) – soi viguros, păstăi verzi la vegetație, verzi-gălbui la maturitate, potrivit pentru boabe sau consum proaspăt.
-  Updated: 2025-11-05T11:09:55Z
+  Updated: 2025-11-06T22:16:17Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.18_2.jpg?v=1740078997
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga CAPITANO, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-capitano-agrosem-100-gr): Seminte fasole oloaga Capitano, Agrosem (100 gr) – soi pitic, păstăi late, galben-cerate, lungi 15 cm, uniform, planta 50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-05T11:05:48Z
+  Updated: 2025-11-06T13:31:29Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga CAPITANO, AGROSEM – 50 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-capitano-agrosem-50-gr): Seminte fasole oloaga Capitano, Agrosem (50 gr) – soi pitic, păstăi late, galben-cerate, lungi 15 cm, uniform, planta 50 cm, ideal pentru consum și conservare.
-  Updated: 2025-11-05T11:02:52Z
+  Updated: 2025-11-07T00:52:26Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga MAXIDOR, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-maxidor-agrosem-100-gr): Seminte fasole oloaga Maxidor, Agrosem (100 gr) – soi timpuriu, păstăi mari, galbene, ovale, 14 cm lungime, boabe albe, toleranță la boli, consum proaspăt sau conservare.
-  Updated: 2025-11-05T11:00:03Z
+  Updated: 2025-11-06T19:04:15Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_12.jpg?v=1740078686
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga MAXIDOR, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-maxidor-agrosem-cutie-250-gr): Seminte fasole oloaga Maxidor, Agrosem (250 gr) – soi timpuriu, păstăi mari, galbene, ovale, 14 cm lungime, boabe albe, toleranță la boli, consum proaspăt sau conservare.
-  Updated: 2025-11-05T10:57:33Z
+  Updated: 2025-11-06T07:50:02Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.44_1.jpg?v=1739902407
   Price: 16,90 lei RON
 - [Seminte Fasole Oloaga PURPLE QUEEN, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-purple-queen-agrosem-100-gr): Seminte fasole oloaga Purple Queen, Agrosem (100 gr) – soi semi-timpuriu, păstăi violet închis, fără ațe, lungi de 20–25 cm, potrivit pentru consum și gătit.
-  Updated: 2025-11-05T10:52:35Z
+  Updated: 2025-11-07T05:07:28Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_7.jpg?v=1740078056
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga ROCQUENCOURT, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-rocquencourt-agrosem-100-gr): Seminte fasole oloaga Rocquencourt, Agrosem (100 gr) – soi rustic, păstăi galben deschis, cărnoase, fără fir, bob negru și rotund, ideal pentru consum și conservare.
-  Updated: 2025-11-05T10:44:36Z
+  Updated: 2025-11-06T08:05:15Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.18_10.jpg?v=1740079347
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-cutie-250-gr): Seminte fasole oloaga Supernano Yellow, Agrosem (250 gr) – soi pitic, păstăi late, plate, galbene, fără ațe, boabe albe, ideal pentru consum proaspăt sau conservare.
-  Updated: 2025-11-05T10:37:28Z
+  Updated: 2025-11-06T00:48:42Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Price: 0,00 lei RON
 - [Seminte Fasole oloaga SUPERNANO YELLOW, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-100-gr): Seminte fasole oloaga Supernano Yellow, Agrosem (100 gr) – soi pitic, păstăi late, plate, galbene, fără ațe, boabe albe, ideal pentru consum proaspăt sau conservare.
-  Updated: 2025-11-05T10:33:40Z
+  Updated: 2025-11-06T23:57:58Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_1.jpg?v=1740078238
   Price: 7,00 lei RON
 - [Seminte Fasole Oloaga WOTTER, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-wotter-agrosem-100-gr): Seminte fasole oloaga Wotter, Agrosem (100 gr) – soi productiv, păstăi lungi, cilindrice, verzi și foarte cărnoase, potrivit pentru consum proaspăt sau gătit.
-  Updated: 2025-11-05T10:28:00Z
+  Updated: 2025-11-07T03:39:51Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2218,7 +2218,7 @@ Livrare rapidă!
   Availability: Available
   Price: 5,99 lei RON
 - [Seminte Fasole Urcatoare FIACRE GIALLO, AGROSEM – 70 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-fiacre-giallo-agrosem-70-gr): Fasole urcătoare Fiacre Giallo, Agrosem (70 gr) – soi productiv, păstăi galben-aurii tip fideluță, gust excelent, recomandată pentru consum proaspăt și conservare.
-  Updated: 2025-11-05T10:16:15Z
+  Updated: 2025-11-06T14:02:31Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2226,28 +2226,28 @@ Livrare rapidă!
   Price: 5,99 lei RON
 - [Seminte Fasole Urcatoare FIACRE VERDE, AGROSEM – 70 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-fiacre-verde-agrosem-70-gr): Fasole urcătoare Fiacre Verde, AGROSEM 70  gr – soi pitic, păstăi lungi și subțiri, verde plăcut, vegetație 50‑52 zile, consum proaspăt sau conservare. 
 Fasole Pitică cu Păstăi Subțiri
-  Updated: 2025-11-05T10:10:32Z
+  Updated: 2025-11-06T07:44:23Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_4.jpg?v=1740078354
   Price: 5,99 lei RON
 - [Seminte Fasole Urcatoare MARCONI, AGROSEM – 70 GR | Păstăi Verzi](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-marconi-agrosem-70-gr): Fasole urcătoare Marconi, AGROSEM (70 gr) – soi timpuriu, păstăi verzi late și fragede, gust plăcut, recoltare rapidă și productivitate constantă.
-  Updated: 2025-11-05T08:24:20Z
+  Updated: 2025-11-06T03:52:17Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_18.jpg?v=1740078868
   Price: 5,99 lei RON
 - [Seminte Fasole Urcatoare MERAVIGLIA DI VENEZIA, AGROSEM – 70 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-meraviglia-di-venezia-agrosem-70-gr): Semințe fasole urcătoare Meraviglia di Venezia, Agrosem (70 gr) – soi târziu, păstăi plate galbene 20-25 cm, fără aţe, boabe albe. Cultivă ușor şi bucură-te de recoltă mare!
-  Updated: 2025-11-05T07:30:46Z
+  Updated: 2025-11-06T02:53:53Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.18_8.jpg?v=1740079288
   Price: 6,50 lei RON
 - [Seminte Fasole Urcatoare MERAVIGLIA DI VENEZIA, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-meraviglia-di-venezia-agrosem-cutie-250-gr): Semințe fasole urcătoare Meraviglia di Venezia, Agrosem (250 gr) – soi târziu, păstăi plate galbene 20-25 cm, fără aţe, boabe albe. Cultivă ușor şi bucură-te de recoltă mare!
-  Updated: 2025-11-05T07:26:51Z
+  Updated: 2025-11-06T02:43:41Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
