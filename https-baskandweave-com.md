@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-06T00:00:30.962Z
+- Updated At: 2025-11-08T23:43:03.246Z
 
 ## Products
 
@@ -456,156 +456,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-678cb132c3c77.jpg?v=1737273688
     Price: $37.00 USD
-- [Men's USA Made T-Shirt – Durable & High-Quality Staple](https://baskandweave.com/products/unisex-t-shirt): Experience comfort and craftsmanship with our Men's USA Made T-Shirt. A durable, high-quality staple designed for everyday wear and lasting style.
-  Updated: 2025-11-05T03:09:51Z
-  Vendor: Bask & Weave
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740360622
-  - [Black / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062675292410)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Black / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062675325178)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Black / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675357946)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Black / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675390714)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Black / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675423482)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $32.00 USD
-  - [Black / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675456250)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-black-front-678cd2c198ed2.jpg?v=1737282339
-    Price: $35.50 USD
-  - [Navy / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062675489018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Navy / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062675521786)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $29.00 USD
-  - [Navy / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675554554)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Navy / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675587322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Navy / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675620090)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $32.00 USD
-  - [Navy / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675652858)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-678cd2c19dcb3.jpg?v=1737282339
-    Price: $35.50 USD
-  - [Red / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062675685626)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Red / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062675718394)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Red / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675751162)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Red / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675783930)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Red / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675816698)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $32.00 USD
-  - [Red / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675849466)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-678cd2c19fde5.jpg?v=1737282339
-    Price: $35.50 USD
-  - [True Royal / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062675882234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $28.50 USD
-  - [True Royal / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062675915002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $28.50 USD
-  - [True Royal / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062675947770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $28.50 USD
-  - [True Royal / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062675980538)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $28.50 USD
-  - [True Royal / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676013306)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $32.00 USD
-  - [True Royal / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676046074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-678cd2c1a346c.jpg?v=1737282339
-    Price: $35.50 USD
-  - [Athletic Heather / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062676078842)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Athletic Heather / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062676111610)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Athletic Heather / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062676144378)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Athletic Heather / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676177146)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $28.50 USD
-  - [Athletic Heather / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676209914)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $32.00 USD
-  - [Athletic Heather / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676242682)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-678cd2c1a78c0.jpg?v=1737282339
-    Price: $35.50 USD
-  - [White / S](https://baskandweave.com/products/unisex-t-shirt?variant=47062676275450)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $28.50 USD
-  - [White / M](https://baskandweave.com/products/unisex-t-shirt?variant=47062676308218)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $28.50 USD
-  - [White / L](https://baskandweave.com/products/unisex-t-shirt?variant=47062676340986)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $28.50 USD
-  - [White / XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676373754)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $28.50 USD
-  - [White / 2XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676406522)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $32.00 USD
-  - [White / 3XL](https://baskandweave.com/products/unisex-t-shirt?variant=47062676439290)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-678cd2c1ac492.jpg?v=1737282339
-    Price: $35.50 USD
 - [Eco-Friendly Men's T-Shirt – Sustainable Cotton Staple](https://baskandweave.com/products/unisex-staple-eco-t-shirt): Choose sustainability with our Eco-Friendly Men's T-Shirt. Made from organic cotton for comfort, durability, and an eco-conscious lifestyle.
   Updated: 2025-10-29T23:03:56Z
   Vendor: Bask & Weave
@@ -4764,7 +4614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-dark-grey-heather-zoomed-in-6790e7a57298d.jpg?v=1737549866
     Price: $27.00 USD
 - [Men's Heavyweight Embroidered T-Shirt - Garment-Dyed](https://baskandweave.com/products/mens-garment-dyed-heavyweight-embroidered-t-shirt): Shop men's heavyweight embroidered t-shirt with garment-dyed color and premium stitch detailing. Soft, durable fabric for comfort and elevated style.
-  Updated: 2025-10-30T23:50:46Z
+  Updated: 2025-11-07T21:30:10Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5071,156 +4921,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-6790e92e9c1bc.jpg?v=1737550260
     Price: $46.50 USD
-- [Men's Embroidered T-Shirt USA - Premium Staple Tee Made Here](https://baskandweave.com/products/mens-t-shirt-embroidered): Discover the perfect men's embroidered t-shirt USA made. Crafted for comfort and durability, this premium staple tee adds timeless style to your everyday wear.
-  Updated: 2025-11-05T03:09:57Z
-  Vendor: Bask & Weave
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-  - [Black / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070872961274)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $32.00 USD
-  - [Black / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070872994042)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $32.00 USD
-  - [Black / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873026810)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $32.00 USD
-  - [Black / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873059578)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $32.00 USD
-  - [Black / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873092346)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $35.50 USD
-  - [Black / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873125114)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740361242
-    Price: $39.00 USD
-  - [Navy / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873157882)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Navy / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873190650)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $32.50 USD
-  - [Navy / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873223418)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Navy / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873256186)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Navy / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873288954)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $35.50 USD
-  - [Navy / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873321722)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-left-front-6790ea5bb7d57.jpg?v=1737550535
-    Price: $39.00 USD
-  - [Red / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873354490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Red / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873387258)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Red / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873420026)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Red / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873452794)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Red / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873485562)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $35.50 USD
-  - [Red / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873518330)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-left-front-6790ea5bba2c6.jpg?v=1737550535
-    Price: $39.00 USD
-  - [True Royal / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873551098)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $32.00 USD
-  - [True Royal / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873583866)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $32.00 USD
-  - [True Royal / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873616634)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $32.00 USD
-  - [True Royal / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873649402)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $32.00 USD
-  - [True Royal / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873682170)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $35.50 USD
-  - [True Royal / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873714938)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-left-front-6790ea5bbd3ba.jpg?v=1737550535
-    Price: $39.00 USD
-  - [Athletic Heather / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873747706)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Athletic Heather / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873780474)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Athletic Heather / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873813242)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Athletic Heather / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873846010)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $32.00 USD
-  - [Athletic Heather / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873878778)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $35.50 USD
-  - [Athletic Heather / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873911546)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-left-front-6790ea5bc11b1.jpg?v=1737550535
-    Price: $39.00 USD
-  - [White / S](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873944314)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $32.00 USD
-  - [White / M](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070873977082)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $32.00 USD
-  - [White / L](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874009850)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $32.00 USD
-  - [White / XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874042618)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $32.00 USD
-  - [White / 2XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874075386)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $35.50 USD
-  - [White / 3XL](https://baskandweave.com/products/mens-t-shirt-embroidered?variant=47070874108154)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-left-front-6790ea5bc59b7.jpg?v=1737550535
-    Price: $39.00 USD
 - [Men's Lightweight Embroidered T-Shirt - Soft Premium Tee](https://baskandweave.com/products/mens-short-sleeve-embroidered-t-shirt): Our men's lightweight embroidered t-shirt combines breathability and style. This soft premium tee offers everyday comfort and a refined, modern look you'll love
   Updated: 2025-10-30T23:53:57Z
   Vendor: Bask & Weave
@@ -6519,7 +6219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-sherpa-denim-jacket-light-denim-front-679232e1b2654.jpg?v=1737634537
     Price: $121.50 USD
 - [Premium Men's Hoodie – Soft, Stylish & Everyday Comfort](https://baskandweave.com/products/mens-hoodie): Shop the premium men's hoodie for ultimate comfort and timeless style. Crafted with soft fabric, it's perfect for layering and everyday casual wear.
-  Updated: 2025-11-03T15:03:46Z
+  Updated: 2025-11-07T15:15:11Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -7079,7 +6779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/premium-eco-hoodie-white-front-67923c514d64c.jpg?v=1737830229
     Price: $83.00 USD
 - [Men's Heavy Blend Hoodie – Warm & Durable Winter Sweatshirt](https://baskandweave.com/products/mens-heavy-blend-hoodie): Stay cozy with the Men's Heavy Blend Hoodie, a warm and durable hooded sweatshirt perfect for winter comfort and casual everyday wear.
-  Updated: 2025-11-02T00:56:57Z
+  Updated: 2025-11-06T08:04:00Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -10656,156 +10356,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-premium-t-shirt-white-front-6795774311395.jpg?v=1737908014
     Price: $37.00 USD
-- [Women's Staple T-Shirt Made in USA - Soft Everyday Tee](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa): Shop our Women's Staple T-Shirt made in the USA. Crafted from soft, durable cotton for everyday comfort — the perfect essential tee for every wardrobe.
-  Updated: 2025-11-05T03:09:52Z
-  Vendor: Bask & Weave
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-  - [Black / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077544186)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $28.50 USD
-  - [Black / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077576954)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $28.50 USD
-  - [Black / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077609722)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $28.50 USD
-  - [Black / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077642490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $28.50 USD
-  - [Black / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077675258)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $32.00 USD
-  - [Black / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077708026)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_T-Shirt_made_in_the_USA.jpg?v=1740974307
-    Price: $35.50 USD
-  - [Navy / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077740794)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Navy / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077773562)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $29.00 USD
-  - [Navy / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077806330)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Navy / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077839098)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Navy / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077871866)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $32.00 USD
-  - [Navy / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077904634)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-679577b60e12b.jpg?v=1737908061
-    Price: $35.50 USD
-  - [Red / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077937402)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Red / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079077970170)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Red / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078002938)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Red / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078035706)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Red / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078068474)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $32.00 USD
-  - [Red / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078101242)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-679577b60f678.jpg?v=1737908061
-    Price: $35.50 USD
-  - [True Royal / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078134010)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $28.50 USD
-  - [True Royal / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078166778)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $28.50 USD
-  - [True Royal / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078199546)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $28.50 USD
-  - [True Royal / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078232314)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $28.50 USD
-  - [True Royal / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078265082)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $32.00 USD
-  - [True Royal / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078297850)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-679577b610e68.jpg?v=1737908061
-    Price: $35.50 USD
-  - [Athletic Heather / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078330618)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Athletic Heather / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078363386)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Athletic Heather / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078396154)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Athletic Heather / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078428922)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $28.50 USD
-  - [Athletic Heather / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078461690)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $32.00 USD
-  - [Athletic Heather / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078494458)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-679577b612c14.jpg?v=1737908061
-    Price: $35.50 USD
-  - [White / S](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078527226)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $28.50 USD
-  - [White / M](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078559994)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $28.50 USD
-  - [White / L](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078592762)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $28.50 USD
-  - [White / XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078625530)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $28.50 USD
-  - [White / 2XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078658298)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $32.00 USD
-  - [White / 3XL](https://baskandweave.com/products/womens-staple-t-shirt-made-in-the-usa?variant=47079078691066)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-679577b6154bb.jpg?v=1737908061
-    Price: $35.50 USD
 - [Eco-Friendly Women's Staple T-Shirt - Sustainable Style](https://baskandweave.com/products/womens-staple-eco-t-shirt): Discover the Eco-Friendly Women's Staple T-Shirt made from organic cotton. Soft, sustainable, and perfect for everyday wear with a touch of conscious fashion.
   Updated: 2025-11-02T23:44:37Z
   Vendor: Bask & Weave
@@ -14618,156 +14168,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/oversized-faded-t-shirt-faded-bone-front-67966f86d1900.jpg?v=1737915665
     Price: $44.50 USD
-- [Women's Embroidered T-Shirt USA – Staple Made in the USA](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa): Discover the women's embroidered t-shirt USA edition — a staple made in the USA for timeless comfort and elegant everyday wear. Shop sustainable style now.
-  Updated: 2025-11-05T03:09:57Z
-  Vendor: Bask & Weave
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-  - [Black / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271872250)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $32.00 USD
-  - [Black / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271905018)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $32.00 USD
-  - [Black / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271937786)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $32.00 USD
-  - [Black / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080271970554)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $32.00 USD
-  - [Black / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272003322)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $35.50 USD
-  - [Black / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272036090)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Women_s_Staple_Embroidered_T-Shirt_made_in_the_USA.jpg?v=1740958907
-    Price: $39.00 USD
-  - [Navy / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272068858)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Navy / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272101626)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $32.50 USD
-  - [Navy / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272134394)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Navy / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272167162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Navy / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272199930)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $35.50 USD
-  - [Navy / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272232698)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-navy-front-67966ff71dd7a.jpg?v=1737915706
-    Price: $39.00 USD
-  - [Red / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272265466)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Red / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272298234)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Red / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272331002)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Red / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272363770)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Red / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272396538)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $35.50 USD
-  - [Red / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272429306)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-red-front-67966ff71fe7d.jpg?v=1737915706
-    Price: $39.00 USD
-  - [True Royal / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272462074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $32.00 USD
-  - [True Royal / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272494842)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $32.00 USD
-  - [True Royal / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272527610)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $32.00 USD
-  - [True Royal / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272560378)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $32.00 USD
-  - [True Royal / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272593146)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $35.50 USD
-  - [True Royal / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272625914)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-true-royal-front-67966ff7226de.jpg?v=1737915706
-    Price: $39.00 USD
-  - [Athletic Heather / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272658682)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Athletic Heather / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272691450)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Athletic Heather / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272724218)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Athletic Heather / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272756986)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $32.00 USD
-  - [Athletic Heather / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272789754)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $35.50 USD
-  - [Athletic Heather / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272822522)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-athletic-heather-front-67966ff7256e8.jpg?v=1737915706
-    Price: $39.00 USD
-  - [White / S](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272855290)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $32.00 USD
-  - [White / M](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272888058)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $32.00 USD
-  - [White / L](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272920826)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $32.00 USD
-  - [White / XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272953594)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $32.00 USD
-  - [White / 2XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080272986362)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $35.50 USD
-  - [White / 3XL](https://baskandweave.com/products/womens-staple-embroidered-t-shirt-made-in-the-usa?variant=47080273019130)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-staple-t-shirt-_made-in-the-usa_-white-front-67966ff728e1e.jpg?v=1737915706
-    Price: $39.00 USD
 - [Women's Embroidered V-Neck T-Shirt – Relaxed Fit Style](https://baskandweave.com/products/womens-relaxed-v-neck-embroidered-t-shirt): Shop the women's embroidered v-neck t-shirt for a relaxed, casual look. Soft, breathable fabric with elegant embroidery for everyday comfort.
   Updated: 2025-11-03T23:08:57Z
   Vendor: Bask & Weave
@@ -17693,7 +17093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-peach-front-6796a8eb821d4.jpg?v=1737941384
     Price: $56.50 USD
 - [Women's Premium Hoodie – Luxury Comfort & Style Wear](https://baskandweave.com/products/womens-premium-hoodie): Shop the women's premium hoodie for unmatched comfort and style. Crafted from high-quality fabric, this luxury hoodie adds warmth and elegance to your wardrobe.
-  Updated: 2025-11-04T00:05:10Z
+  Updated: 2025-11-07T15:15:15Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -19403,7 +18803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-6796e0f738ec1.jpg?v=1737942196
     Price: $42.50 USD
 - [Women's Cropped Sweatshirt - Trendy & Stylish Everyday Wear](https://baskandweave.com/products/womens-cropped-sweatshirt): Shop the Women's Cropped Sweatshirt for a modern, relaxed look. Soft, stylish, and comfortable—perfect for pairing with jeans or leggings.
-  Updated: 2025-11-04T00:19:21Z
+  Updated: 2025-11-06T15:14:16Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -19453,7 +18853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-mauve-front-67a682fd7f446.jpg?v=1738966548
     Price: $53.50 USD
   - [Mauve / L](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853722362)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-sweatshirt-mauve-front-67a682fd7f446.jpg?v=1738966548
     Price: $53.50 USD
   - [Dusty Blue / S](https://baskandweave.com/products/womens-cropped-sweatshirt?variant=47110853755130)
@@ -21654,8 +21054,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/organic-cotton-kids-t-shirt-white-front-67a6a7d74ab81.jpg?v=1738976168
     Price: $28.00 USD
-- [Youth Rash Guard | All-Over Print UV Swim Shirt](https://baskandweave.com/products/all-over-print-kids-rash-guard): Discover the All-Over Print Youth Rash Guard lightweight, quick-dry, and stretchy. Kids’ UV protection swim shirt for beach, pool, and water sports
-  Updated: 2025-10-29T23:04:27Z
+- [Kids Rash Guard - All-Over Print UV Protection Shirt](https://baskandweave.com/products/all-over-print-kids-rash-guard): Keep your child protected with our kids rash guard featuring all-over prints. Offers UPF 50+ sun protection, quick-dry comfort, and stylish swim-ready design.
+  Updated: 2025-11-07T23:28:11Z
   Vendor: Bask & Weave
   Product Type: Rash Guard
   Availability: Available
@@ -21688,8 +21088,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Kids_Rash_Guard.jpg?v=1740982180
     Price: $36.50 USD
-- [Youth Rash Guard | All-Over Print UV Swim Shirt](https://baskandweave.com/products/all-over-print-youth-rash-guard): Discover the All-Over Print Youth Rash Guard lightweight, quick-dry, and stretchy. Kids’ UV protection swim shirt for beach, pool, and water sports
-  Updated: 2025-10-29T23:04:27Z
+- [Youth Rash Guard - All-Over Print UV Protection Shirt](https://baskandweave.com/products/all-over-print-youth-rash-guard): Stay active and protected with our youth rash guard. Featuring UPF 50+ UV protection, quick-dry fabric, and vibrant all-over prints.
+  Updated: 2025-11-07T23:33:47Z
   Vendor: Bask & Weave
   Product Type: Rash Guard
   Availability: Available
@@ -21722,8 +21122,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-youth-rash-guard-white-front-67a6a8d0b7fa0.jpg?v=1738976278
     Price: $40.50 USD
-- [Youth Rash Guard | UV Protection Swim Shirt for Kids](https://baskandweave.com/products/youth-rash-guard): Shop the Youth Rash Guard lightweight, stretchy, and quick-dry. Perfect UV protection swim shirt for kids at the pool, beach, or water sports
-  Updated: 2025-10-29T23:04:27Z
+- [Youth Rash Guard - UV Protection Swim Shirt for Kids](https://baskandweave.com/products/youth-rash-guard): Keep your child protected and stylish with our youth rash guard. Designed for swimming and outdoor fun with UPF 50+ UV protection and quick-dry comfort.
+  Updated: 2025-11-07T23:34:55Z
   Vendor: Bask & Weave
   Product Type: Rash Guard
   Availability: Available
@@ -21756,8 +21156,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Youth_Rash_Guard.jpg?v=1740981942
     Price: $40.50 USD
-- [Youth Long Sleeve Tee | Soft Cotton Everyday Shirt](https://baskandweave.com/products/youth-long-sleeve-tee): Discover the Youth Long Sleeve Tee soft, breathable, and durable. Perfect for school, play, sports, or casual everyday wear
-  Updated: 2025-10-29T23:04:27Z
+- [Youth Long Sleeve T-Shirt - Soft & Durable Kids Tee](https://baskandweave.com/products/youth-long-sleeve-tee): Keep your child comfy in our Youth Long Sleeve T-Shirt. Made from soft, breathable fabric, this durable kids tee is perfect for everyday wear and outdoor fun.
+  Updated: 2025-11-07T23:36:14Z
   Vendor: Bask & Weave
   Product Type: Long Sleeve Shirt
   Availability: Available
@@ -21822,8 +21222,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/youth-long-sleeve-tee-white-front-67a6a98a83187.jpg?v=1738976440
     Price: $31.50 USD
-- [Youth Hoodie | Heavy Blend Warm Everyday Pullover](https://baskandweave.com/products/youth-heavy-blend-hoodie): Shop the Youth Heavy Blend Hoodie soft, warm, and durable. A classic youth hoodie perfect for school, sports, play, and casual wear
-  Updated: 2025-10-29T23:04:27Z
+- [Youth Heavy Blend Hoodie - Soft and Comfortable Fit](https://baskandweave.com/products/youth-heavy-blend-hoodie): Keep your child cozy and stylish with our Youth Heavy Blend Hoodie. Made from soft, durable fabric, perfect for school, outdoor play, or relaxing days.
+  Updated: 2025-11-07T23:39:55Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -21908,8 +21308,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/youth-heavy-blend-hoodie-white-front-67a6b6851ffe6.jpg?v=1738979605
     Price: $37.50 USD
-- [Kids Eco Hoodie | Sustainable Organic Cotton Pullover](https://baskandweave.com/products/kids-eco-hoodie): Discover the Kids Eco Hoodie soft, warm, and eco-friendly. A sustainable hoodie made with organic cotton for everyday comfort and style
-  Updated: 2025-10-29T23:04:28Z
+- [Kids Eco-Friendly Hoodie - Sustainable Organic Comfort](https://baskandweave.com/products/kids-eco-hoodie): Wrap your child in comfort with our Kids Eco-Friendly Hoodie. Made from sustainable organic cotton, it’s soft, durable, and kind to the planet.
+  Updated: 2025-11-07T23:40:57Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -21974,8 +21374,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/kids-eco-hoodie-burnt-orange-front-67a6b711701ee.jpg?v=1738979664
     Price: $41.50 USD
-- [Kids Fleece Hoodie | Warm & Cozy Everyday Pullover](https://baskandweave.com/products/kids-fleece-hoodie): Shop the Kids Fleece Hoodie soft, warm, and durable. Perfect hoodie for school, sports, play, or casual everyday comfort
-  Updated: 2025-10-29T23:04:28Z
+- [Kids Fleece Hoodie – Cozy, Warm & Stylish Winter Wear](https://baskandweave.com/products/kids-fleece-hoodie): Keep your child warm and stylish with our Kids Fleece Hoodie. Designed for comfort and durability, this cozy winter essential is perfect for everyday wear.
+  Updated: 2025-11-07T23:42:45Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -22044,8 +21444,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/kids-fleece-hoodie-white-front-67a6b7ada0fa0.jpg?v=1738979720
     Price: $39.00 USD
-- [Fleece Hoodie | Kids & Youth Warm Casual Pullover](https://baskandweave.com/products/kids-youth-fleece-hoodie): Discover the Kids/Youth Fleece Hoodie warm, soft, and durable. Perfect fleece hoodie for school, play, sports, or cozy everyday wear
-  Updated: 2025-10-29T23:04:28Z
+- [Kids Fleece Hoodie - Youth Warm & Cozy Winter Sweatshirt](https://baskandweave.com/products/kids-youth-fleece-hoodie): Keep your little ones warm with our Kids Fleece Hoodie. Soft, cozy, and durable, this youth fleece sweatshirt is perfect for everyday wear.
+  Updated: 2025-11-07T23:44:33Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -22082,8 +21482,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Kids_Youth_Fleece_Hoodie.jpg?v=1740978344
     Price: $39.00 USD
-- [Crew Neck Sweatshirt | Youth Cotton Fleece Pullover](https://baskandweave.com/products/youth-crew-neck-sweatshirt): Shop the Youth Crew Neck Sweatshirt soft, warm, and durable. Perfect crew neck sweatshirt for school, sports, or casual everyday wear
-  Updated: 2025-10-29T23:04:28Z
+- [Youth Crew Neck Sweatshirt - Soft & Comfortable Kids Wear](https://baskandweave.com/products/youth-crew-neck-sweatshirt): Stay cozy in our Youth Crew Neck Sweatshirt. Made for comfort and style, this kids sweatshirt is perfect for school, play, or lounging.
+  Updated: 2025-11-07T23:45:20Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -22248,8 +21648,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/youth-crew-neck-sweatshirt-white-front-67a6b88d950c5.jpg?v=1738979807
     Price: $31.00 USD
-- [Kids Leggings | All-Over Print Stretchy Activewear](https://baskandweave.com/products/kids-leggings): Discover All-Over Print Kids Leggings soft, durable, and flexible. Perfect leggings for school, play, sports, or everyday comfort
-  Updated: 2025-10-29T23:04:28Z
+- [Kids Leggings - All-Over Print Colorful Activewear](https://baskandweave.com/products/kids-leggings): These kids leggings feature a fun all-over print design, offering comfort and stretch for playtime or school. Perfect colorful activewear for kids.
+  Updated: 2025-11-07T23:46:10Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -22282,8 +21682,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-kids-leggings-white-front-67a6ba65db387.jpg?v=1738980176
     Price: $32.00 USD
-- [Youth Leggings | All-Over Print Stretch Activewear](https://baskandweave.com/products/all-over-print-youth-leggings): Shop All-Over Print Youth Leggings soft, stretchy, and durable. Perfect leggings for kids’ sports, school, play, and everyday comfort
-  Updated: 2025-10-29T23:04:28Z
+- [Youth Leggings - All-Over Print Stylish Activewear](https://baskandweave.com/products/all-over-print-youth-leggings): These youth leggings combine comfort and vibrant all-over prints, perfect for everyday wear, sports, or dance. Stylish and durable for active youth.
+  Updated: 2025-11-07T23:47:05Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -22316,8 +21716,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Youth_Leggings.jpg?v=1740977044
     Price: $33.00 USD
-- [Baby Onesie | Short Sleeve Organic Cotton One Piece](https://baskandweave.com/products/baby-short-sleeve-one-piece): Discover the Baby Onesie soft, breathable short sleeve one piece made with organic cotton. Perfect for everyday comfort and gentle on skin
-  Updated: 2025-10-29T23:04:28Z
+- [Baby One Piece Outfit - Short Sleeve Infant Bodysuit](https://baskandweave.com/products/baby-short-sleeve-one-piece): Dress your little one in comfort with our baby one piece outfit. This soft short sleeve bodysuit is perfect for everyday wear and gentle on delicate skin.
+  Updated: 2025-11-07T23:48:18Z
   Vendor: Bask & Weave
   Product Type: Baby One Piece
   Availability: Available
@@ -22434,8 +21834,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/baby-short-sleeve-one-piece-white-front-67a6bc16e7b7e.jpg?v=1738980538
     Price: $26.00 USD
-- [Baby Bodysuit | Organic Cotton Soft Infant Wear](https://baskandweave.com/products/organic-cotton-baby-bodysuit): Shop the Organic Cotton Baby Bodysuit soft, breathable, and safe for delicate skin. The perfect baby bodysuit for comfort and everyday wear
-  Updated: 2025-10-29T23:04:29Z
+- [Organic Cotton Baby Bodysuit - Eco-Friendly Infant Wear](https://baskandweave.com/products/organic-cotton-baby-bodysuit): Keep your little one cozy in our organic cotton baby bodysuit. Made from soft, sustainable fabric, this eco-friendly essential is gentle on your baby’s skin.
+  Updated: 2025-11-07T23:49:09Z
   Vendor: Bask & Weave
   Product Type: Baby One Piece
   Availability: Available
@@ -22476,8 +21876,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/organic-cotton-baby-bodysuit-white-front-67a6bc70667dd.jpg?v=1738980574
     Price: $27.00 USD
-- [Kids Swimsuit | All-Over Print One-Piece Swimwear](https://baskandweave.com/products/all-over-print-kids-swimsuit): Discover the All-Over Print Kids Swimsuit fun, durable, and comfortable. Perfect for swimming lessons, beach days, and summer activities
-  Updated: 2025-10-29T23:04:29Z
+- [Kids Swimsuit - All-Over Print Children’s Swimwear](https://baskandweave.com/products/all-over-print-kids-swimsuit): Make a splash with our stylish kids swimsuit! This all-over print swimwear combines comfort, durability, and vibrant colors for endless summer fun.
+  Updated: 2025-11-07T23:50:10Z
   Vendor: Bask & Weave
   Product Type: Swimsuits
   Availability: Available
@@ -22510,8 +21910,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Kids_Swimsuit.jpg?v=1740976322
     Price: $36.50 USD
-- [Swimsuit | All Over Print Youth Swimwear for Kids](https://baskandweave.com/products/all-over-print-youth-swimsuit): Shop the All Over Print Youth Swimsuit fun, durable, and comfortable. Perfect swimsuit for kids’ swimming, beach days, and summer fun
-  Updated: 2025-10-29T23:04:29Z
+- [Youth Swimsuit – All Over Print Colorful Kids Swimwear](https://baskandweave.com/products/all-over-print-youth-swimsuit): Make a splash with our youth swimsuit! Featuring all-over prints and vibrant colors, this comfy kids swimwear is perfect for pool days and beach fun.
+  Updated: 2025-11-07T23:51:28Z
   Vendor: Bask & Weave
   Product Type: Swimsuits
   Availability: Available
@@ -22544,8 +21944,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Youth_Swimsuit.jpg?v=1740976122
     Price: $39.50 USD
-- [Tote Bag | All Over Print Tote with Pocket Storage](https://baskandweave.com/products/all-over-print-large-tote-bag-pocket): Explore the All Over Print Tote Bag with Pocket durable, stylish, and versatile. The perfect tote bag for shopping, school, travel, or daily use
-  Updated: 2025-10-29T23:04:29Z
+- [Tote Bag With Pocket – All Over Print Custom Tote Bag](https://baskandweave.com/products/all-over-print-large-tote-bag-pocket): Carry in style with our tote bag with pocket! This all-over print custom tote offers durable fabric, roomy space, and a stylish look for daily use.
+  Updated: 2025-11-07T23:52:28Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22562,8 +21962,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-tote-bag-yellow-15x15-front-67a6c00327068.jpg?v=1738983801
     Price: $28.00 USD
-- [Eco Tote Bag | Reusable Organic Cotton Shopping Bag](https://baskandweave.com/products/eco-tote-bag): Shop the Eco Tote Bag sustainable, reusable, and durable. Perfect for shopping, travel, work, or everyday essentials with eco-friendly style
-  Updated: 2025-10-29T23:04:29Z
+- [Eco-Friendly Tote Bag – Sustainable & Reusable Shopping Bag](https://baskandweave.com/products/eco-tote-bag): Carry your essentials with our eco-friendly tote bag made from sustainable materials. A durable, reusable shopping bag perfect for everyday use.
+  Updated: 2025-11-07T23:53:15Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22576,8 +21976,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/eco-tote-bag-oyster-front-67a6c55aab296.jpg?v=1752602019
     Price: $30.50 USD
-- [Tote Bag | All Over Print Tote with Pocket Design](https://baskandweave.com/products/all-over-print-large-tote-bag-with-pocket): Discover the All Over Print Tote Bag with Pocket stylish, durable, and practical. A versatile tote bag for shopping, work, school, or travel
-  Updated: 2025-10-29T23:04:29Z
+- [Tote Bag with Pocket – All Over Print Custom Tote Bags](https://baskandweave.com/products/all-over-print-large-tote-bag-with-pocket): Carry your style with our tote bag with pocket, featuring an all-over print design. Durable, spacious, and perfect for everyday essentials.
+  Updated: 2025-11-07T23:54:05Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22594,8 +21994,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-large-tote-bag-w-pocket-yellow-front-67a6c5d523082.jpg?v=1738983893
     Price: $39.50 USD
-- [Tote Bag | Large Organic Eco-Friendly Shopping Bag](https://baskandweave.com/products/large-organic-tote-bag): Shop the Large Organic Tote Bag durable, eco-friendly, and reusable. Perfect tote bag for shopping, travel, work, or everyday use
-  Updated: 2025-10-29T23:04:30Z
+- [Large Organic Tote Bag – Eco-Friendly & Sustainable](https://baskandweave.com/products/large-organic-tote-bag): Shop our large organic tote bag, crafted from eco-friendly materials. Perfect for sustainable shopping, daily errands, or carrying essentials in style.
+  Updated: 2025-11-07T23:54:59Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22608,29 +22008,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/large-eco-tote-oyster-front-67a6c63f138c6.jpg?v=1738983926
     Price: $34.00 USD
-- [Duffle Bag | All-Over Print Travel & Sports Bag](https://baskandweave.com/products/all-over-print-duffle-bag): Shop the All-Over Print Duffle Bag spacious, durable, and stylish. Ideal duffle bag for gym, sports, travel, or weekend getaways
-  Updated: 2025-10-29T23:04:30Z
+- [Duffle Bag – All-Over Print Custom Travel & Gym Bag](https://baskandweave.com/products/all-over-print-duffle-bag): Travel in style with our all-over print duffle bag. Durable, spacious, and trendy, perfect for gym, weekend trips, or everyday use.
+  Updated: 2025-11-07T23:57:15Z
   Vendor: Bask & Weave
   Product Type: Duffle Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Duffle_Bag.jpg?v=1740985841
   Price: $90.50 USD
-- [Gym Bag | All-Over Print Sports & Travel Duffel](https://baskandweave.com/products/all-over-print-gym-bag): Discover the All-Over Print Gym Bag stylish, durable, and spacious. The perfect gym bag for workouts, sports, travel, and daily essentials
-  Updated: 2025-10-29T23:04:30Z
+- [Gym Bag – All-Over Print Custom Workout & Travel Bag](https://baskandweave.com/products/all-over-print-gym-bag): Carry your essentials in style with our all-over print gym bag. Durable, roomy, and trendy – perfect for workouts, travel, or daily use.
+  Updated: 2025-11-07T23:58:06Z
   Vendor: Bask & Weave
   Product Type: Duffle Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Gym_Bag.jpg?v=1740985609
   Price: $76.50 USD
-- [Drawstring Bag | All-Over Print Lightweight Sack](https://baskandweave.com/products/all-over-print-drawstring-bag): Shop the All-Over Print Drawstring Bag lightweight, durable, and stylish. Perfect drawstring bag for gym, sports, school, or casual outings
-  Updated: 2025-10-29T23:04:30Z
+- [Drawstring Bag for Kids & Adults – All-Over Print Backpack](https://baskandweave.com/products/all-over-print-drawstring-bag): Carry your essentials with our stylish drawstring bag. Perfect for school, gym, or travel, featuring durable materials and unique all-over prints.
+  Updated: 2025-11-07T23:59:20Z
   Vendor: Bask & Weave
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Drawstring_Bag.jpg?v=1740985240
   Price: $30.50 USD
-- [Crossbody Bag | All-Over Print Fanny Pack Style](https://baskandweave.com/products/all-over-print-fanny-pack): Discover the All-Over Print Fanny Pack Crossbody Bag lightweight, trendy, and practical. Perfect for travel, festivals, and everyday wear
-  Updated: 2025-10-29T23:04:30Z
+- [Fanny Pack – All-Over Print Crossbody Bag for Travel](https://baskandweave.com/products/all-over-print-fanny-pack): Stay hands-free and stylish with our all-over print fanny pack. Perfect for travel, festivals, or daily use, offering comfort and trendy design.
+  Updated: 2025-11-08T00:00:09Z
   Vendor: Bask & Weave
   Product Type: Fanny Packs
   Availability: Available
@@ -22643,29 +22043,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Fanny_Pack_Crossbody_Bag.jpg?v=1740984961
     Price: $39.00 USD
-- [Crossbody Bag | All-Over Print Utility Shoulder Bag](https://baskandweave.com/products/all-over-print-utility-crossbody-bag): Shop the All-Over Print Utility Crossbody Bag stylish, lightweight, and durable. Perfect crossbody bag for travel, outings, and daily essentials
-  Updated: 2025-10-29T23:04:30Z
+- [Utility Crossbody Bag – All-Over Print Stylish Bag](https://baskandweave.com/products/all-over-print-utility-crossbody-bag): Carry your essentials in style with our utility crossbody bag. Featuring an all-over print design, it's perfect for daily use, travel, or outings.
+  Updated: 2025-11-08T00:01:02Z
   Vendor: Bask & Weave
   Product Type: Cross Body Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Utility_Crossbody_Bag.jpg?v=1740984328
   Price: $35.50 USD
-- [Backpack | All-Over Print Stylish Everyday Bag](https://baskandweave.com/products/all-over-print-backpack): Discover the All-Over Print Backpack durable, lightweight, and stylish. The perfect backpack for school, work, travel, or daily use
-  Updated: 2025-10-29T23:04:31Z
+- [Backpack – All-Over Print Custom & Stylish Design Backpack](https://baskandweave.com/products/all-over-print-backpack): Carry your essentials in style with our all-over print backpack. Perfect for school, travel, or daily use, featuring unique and durable designs.
+  Updated: 2025-11-08T00:03:56Z
   Vendor: Bask & Weave
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Backpack.jpg?v=1740984074
   Price: $58.50 USD
-- [Backpack | All-Over Print Minimalist Travel Bag](https://baskandweave.com/products/all-over-print-minimalist-backpack): Discover the All-Over Print Minimalist Backpack. Perfect for style and function, this backpack offers durability and fashion in one.
-  Updated: 2025-10-29T23:04:31Z
+- [Minimalist Backpack – All-Over Print Stylish Travel Bag](https://baskandweave.com/products/all-over-print-minimalist-backpack): Shop our minimalist backpack with all-over print design. Perfect for travel or daily use, lightweight, durable, and stylish for every adventure.
+  Updated: 2025-11-08T00:04:41Z
   Vendor: Bask & Weave
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Minimalist_Backpack.jpg?v=1740983864
   Price: $58.50 USD
-- [Neck T-Shirt | Unisex Organic Ribbed Cotton Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Neck T-Shirt Organic Ribbed (Unisex) - Shop the Unisex Organic Ribbed Neck T-Shirt – eco-friendly cotton, breathable, and stylish.
-  Updated: 2025-10-29T23:04:31Z
+- [Organic Ribbed Neck T-Shirt – Unisex Eco-Friendly Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Discover our Organic Ribbed Neck T-Shirt, a unisex eco-friendly tee made from soft, sustainable materials. Stylish, comfortable, and perfect for everyday wear.
+  Updated: 2025-11-08T00:05:39Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -22874,130 +22274,130 @@
 ## Collections
 
 - [Men's T-Shirts](https://baskandweave.com/collections/mens-premium-t-shirts): Discover our Premium T-Shirts, where comfort meets style. Each piece is crafted with high-quality fabrics and unique designs, perfect for anyone who values both fashion and quality.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 18
 - [Women's T-Shirts](https://baskandweave.com/collections/womens-t-shirts): Discover our collection of stylish and comfortable women's t-shirts, perfect for every occasion. From classic basics to trendy designs, our t-shirts are crafted with premium fabrics for a soft and flattering fit. Whether you’re dressing up or keeping it casual, find your new favorite tee today
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 23
 - [Women's Jackets & Vests](https://baskandweave.com/collections/womens-jackets-vests): Elevate your wardrobe with our collection of women's jackets and vests, designed for both style and practicality. From chic, tailored jackets to cozy, insulated vests, our pieces are perfect for layering and enhancing any outfit. Stay warm, comfortable, and effortlessly fashionable all year round.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 6
 - [Men's Jackets & Vests](https://baskandweave.com/collections/mens-jackets-vests): Explore our versatile range of jackets and vests, designed to keep you stylish and comfortable in any season. From sleek, lightweight vests to cozy, weather-ready jackets, our collection combines functionality with fashion. Perfect for layering or making a statement, find your ideal outerwear piece today.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 7
 - [Men's Hoodies](https://baskandweave.com/collections/mens-hoodies): Stay comfortable and stylish with our collection of men's hoodies and sweatshirts. Perfect for casual wear or layering, these versatile pieces feature premium fabrics, modern designs, and a relaxed fit. Whether you’re lounging, working out, or on the go, find your new favorite hoodie or sweatshirt today.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 16
 - [Women's Hoodies](https://baskandweave.com/collections/womens-hoodies): Stay cozy and chic with our collection of women's hoodies, designed for ultimate comfort and effortless style. From classic fits to trendy designs, our hoodies are perfect for lounging, working out, or casual outings. Discover your new go-to piece for every season.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 14
 - [Men's Sweatshirts](https://baskandweave.com/collections/mens-sweatshirts): Upgrade your casual wardrobe with our collection of men's sweatshirts. Crafted for comfort and style, these versatile pieces are perfect for layering or wearing on their own. Featuring premium fabrics and modern designs, our sweatshirts are ideal for any occasion, from lounging to heading out.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:43Z
   Total Products: 8
 - [Women's Sweatshirts](https://baskandweave.com/collections/womens-sweatshirts): Discover our collection of women's sweatshirts, where comfort meets style. Perfect for layering or wearing on their own, these versatile pieces feature soft fabrics and modern designs. Whether you're relaxing at home or stepping out, our sweatshirts are your go-to for cozy, effortless fashion.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 6
 - [Men's All-Over Shirts](https://baskandweave.com/collections/mens-all-over-print-shirts): Make a bold statement with our collection of men's all-over print shirts. Featuring eye-catching designs and vibrant patterns, these shirts combine style and comfort for any occasion. Perfect for standing out in casual or creative settings, find your unique look today.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 7
 - [Men's Polo Shirts](https://baskandweave.com/collections/mens-polo-shirts): Elevate your wardrobe with our collection of men's polo shirts. Combining classic style with modern comfort, these versatile shirts are perfect for any occasion, from casual outings to smart-casual events. Explore timeless designs crafted with premium fabrics for a polished and comfortable fit.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 2
 - [Men's Tank Tops](https://baskandweave.com/collections/mens-tank-tops): Stay cool and stylish with our collection of men's tank tops. Perfect for workouts, lounging, or warm-weather days, these versatile tops feature lightweight fabrics and comfortable fits. Choose from a range of designs to suit your active and casual lifestyle.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 4
 - [Men's Long Sleeve Shirts](https://baskandweave.com/collections/mens-long-sleeve-shirts): Upgrade your wardrobe with our collection of men's long sleeve shirts. Perfect for layering or wearing on their own, these shirts combine style and comfort for any occasion. From casual designs to smart-casual options, find the perfect fit for your everyday look.
-  Updated: 2025-11-02T21:48:43Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 8
 - [Men's Embroidered Shirts](https://baskandweave.com/collections/mens-embroidered-shirts): Add a touch of sophistication to your wardrobe with our collection of men's embroidered shirts. Featuring intricate detailing and premium craftsmanship, these shirts blend classic elegance with modern style. Perfect for special occasions or elevating your everyday look.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 11
 - [Men's Bottoms](https://baskandweave.com/collections/mens-bottoms): Explore our collection of men's bottoms, designed for comfort, style, and versatility. From casual shorts to tailored trousers and relaxed joggers, our selection offers the perfect fit for any occasion. Upgrade your wardrobe with pieces that combine functionality and modern design.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 12
 - [Women's Polo Shirts](https://baskandweave.com/collections/womens-polo-shirts): Discover the perfect blend of style and comfort with our collection of women's polo shirts. Designed for versatility, these timeless pieces are ideal for casual outings, active days, or smart-casual looks. Crafted with premium fabrics for a flattering fit and effortless style.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 2
 - [Women's Tank Tops](https://baskandweave.com/collections/womens-tank-tops): Stay cool and stylish with our collection of women's tank tops. Perfect for workouts, lounging, or warm-weather outings, these versatile tops feature breathable fabrics and flattering fits. Explore a range of designs to complement your active and casual lifestyle.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 6
 - [Women's Crop Tops](https://baskandweave.com/collections/womens-crop-tops): Elevate your style with our collection of women's crop tops. Perfect for casual outings, workouts, or layering, these trendy tops feature modern designs and comfortable fits. Pair them with your favorite high-waisted bottoms for a chic and effortless look.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 3
 - [Women's Embroidered Shirts](https://baskandweave.com/collections/womens-embroidered-shirts): Add a touch of elegance to your wardrobe with our collection of women's embroidered shirts. Featuring intricate designs and premium craftsmanship, these shirts blend timeless charm with modern style. Perfect for casual chic or special occasions, they’re a must-have for a refined look.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 13
 - [Women's Long Sleeve Shirts](https://baskandweave.com/collections/womens-long-sleeve-shirts): Stay stylish and comfortable with our collection of women's long sleeve shirts. Perfect for layering or wearing on their own, these versatile shirts feature flattering fits and modern designs. Ideal for any season, they’re a wardrobe essential for effortless everyday style.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 4
 - [Women Dresses](https://baskandweave.com/collections/women-dresses): Step out in style with our collection of women's dresses, designed for every occasion. From casual daywear to elegant evening looks, our dresses feature flattering cuts, premium fabrics, and on-trend designs. Discover the perfect piece to showcase your unique style and confidence.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 4
 - [Women's Sweatpants & Joggers](https://baskandweave.com/collections/womens-sweatpants-joggers): Stay comfortable and stylish with our collection of women's sweatpants and joggers. Perfect for lounging, workouts, or casual outings, these versatile pieces feature soft fabrics and modern designs for a flattering fit. Elevate your everyday look with effortless comfort and style.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 4
 - [Women's Leggings](https://baskandweave.com/collections/womens-leggings): Experience the perfect blend of comfort and style with our collection of women's leggings. Designed for workouts, lounging, or everyday wear, these versatile leggings feature premium fabrics for a flattering fit and all-day comfort. Find your new go-to pair today.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 4
 - [Women's Skirts](https://baskandweave.com/collections/womens-skirts): Elevate your wardrobe with our collection of women's skirts, designed to suit every occasion. From chic and casual styles to elegant and sophisticated looks, our skirts feature flattering fits and premium fabrics. Perfect for dressing up or keeping it effortless, find your favorite style today.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 3
 - [Women's Swimwear & Bras](https://baskandweave.com/collections/womens-swimwear-bras): Make a splash with our collection of women's swimwear and bras, designed for comfort and confidence. From stylish swimsuits to supportive bras, our range combines premium fabrics with flattering designs. Perfect for the beach, pool, or everyday wear, find your ideal fit today.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 18
 - [Kids & Youth All Shirts](https://baskandweave.com/collections/kids-youth-all-shirts): Explore our collection of kids' and youth shirts, crafted for comfort, durability, and style. From playful prints to classic designs, these shirts are perfect for everyday adventures or special occasions. Designed with premium fabrics, they’re a perfect fit for active, growing kids.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 12
 - [Kids & Youth Hoodies & Sweatshirts](https://baskandweave.com/collections/kids-youth-hoodies-sweatshirts): Keep them cozy and stylish with our collection of kids' and youth hoodies and sweatshirts. Designed for comfort and durability, these versatile pieces are perfect for school, play, or lounging. Featuring fun designs and premium fabrics, they’re a must-have for any season.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 5
 - [Kids & Youth Leggings](https://baskandweave.com/collections/kids-youth-leggings): Let them move freely and comfortably with our collection of kids' and youth leggings. Perfect for playtime, sports, or everyday wear, these leggings feature soft, stretchy fabrics and fun designs. Durable and versatile, they’re made to keep up with their active lifestyle.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 2
 - [Baby Bodysuits](https://baskandweave.com/collections/baby-bodysuits): Keep your little one cozy and adorable with our collection of baby bodysuits. Designed with soft, breathable fabrics and snap closures for easy changes, these bodysuits combine comfort, style, and practicality. Perfect for everyday wear or special moments, they’re a must-have for your baby’s wardrobe.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:44Z
   Total Products: 2
 - [Kids & Youth Swimwear](https://baskandweave.com/collections/kids-youth-swimwear): Make a splash with our collection of kids' and youth swimwear, designed for fun and comfort. Featuring vibrant colors, playful patterns, and durable fabrics, our swimwear is perfect for pool days, beach adventures, and water play. Keep them stylish and ready for aquatic fun.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 2
 - [Tote Bags](https://baskandweave.com/collections/tote-bags): Carry your essentials in style with our collection of tote bags. Perfect for everyday use, these spacious and versatile bags feature durable materials and trendy designs. Whether for work, travel, or shopping, our tote bags combine practicality with a chic, modern look.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 5
 - [Duffle Bags](https://baskandweave.com/collections/duffle-bags): Pack in style with our collection of duffle bags, designed for both functionality and fashion. Whether for the gym, weekend getaways, or travel, these spacious bags offer ample storage and durable materials. With sleek designs and comfort in mind, they’re the perfect companion for your on-the-go lifestyle.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 2
 - [Drawstring Bags](https://baskandweave.com/collections/drawstring-bags): Stay effortlessly stylish and organized with our collection of drawstring bags. Lightweight, durable, and versatile, these bags are perfect for the gym, day trips, or casual outings. Featuring trendy designs and convenient storage, they’re the ultimate grab-and-go accessory for any lifestyle.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 1
 - [Fanny Packs](https://baskandweave.com/collections/fanny-packs): Keep your essentials close with our collection of fanny packs. Designed for convenience and style, these compact and versatile bags are perfect for travel, outdoor adventures, or everyday use. Featuring adjustable straps and trendy designs, they’re a must-have accessory for hands-free ease.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 2
 - [Backpacks](https://baskandweave.com/collections/backpacks): Gear up with our collection of backpacks, combining style, durability, and functionality. Perfect for school, work, travel, or adventures, these versatile bags feature spacious compartments and ergonomic designs. Explore trendy and practical options to carry your essentials with ease and comfort.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 2
 - [All Men's Clothing](https://baskandweave.com/collections/all-mens-clothing): Bask & Weave Men's clothing collection, featuring a wide range of styles to suit every occasion. From casual staples to polished looks, our selection includes shirts, hoodies, bottoms, and more. Designed with comfort, durability, and modern fashion in mind, find your perfect fit today.
-  Updated: 2025-11-02T21:48:44Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 93
 - [All Women’s Clothing](https://baskandweave.com/collections/all-women-s-clothing): Women’s clothing collection at Bask & Weave where style meets versatility. From casual essentials to chic statement pieces, our range includes dresses, tops, bottoms, outerwear, and more. Designed with comfort and modern trends in mind, find the perfect look for any occasion.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 111
 - [All Kids & Youth Clothing](https://baskandweave.com/collections/all-kids-youth-clothing): Kids' and youth clothing, designed for comfort, durability, and fun at Bask & Weave. From playful prints to everyday essentials, our range includes shirts, hoodies, leggings, swimwear, and more. Perfect for active lifestyles and growing imaginations, find styles they'll love to wear.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 23
 - [All Bags](https://baskandweave.com/collections/all-bags): Our bags collection, crafted for style and practicality only at Bask & Weave. From spacious tote bags to versatile backpacks, duffle bags, drawstring bags, and fanny packs, we have options for every need. Designed with durability and modern trends in mind, find the perfect bag for any occasion.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 12
 - [Women's Bottoms](https://baskandweave.com/collections/womens-bottoms): Elevate your wardrobe with our collection of women's bottoms. From comfortable leggings and joggers to chic skirts and tailored pants, our selection offers styles for every occasion. Designed with premium fabrics and flattering fits, find the perfect piece to complete your look.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 9
 - [Chosen Products For More To Shop](https://baskandweave.com/collections/best-selling-products-men)
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 16
 - [New Arrivals](https://baskandweave.com/collections/new-arrivals): Discover our New Arrival Products here at Bask & Weave made for you.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 12
 - [Embroidered Collection](https://baskandweave.com/collections/embroidered-collection): Discover our Bask & Weave (Bask And Weave) Embroidered Collection – a perfect blend of elegance and craftsmanship. Featuring beautifully stitched designs on premium fabrics, each piece adds a touch of sophistication to your style. Shop now and elevate your wardrobe with timeless embroidery.
-  Updated: 2025-11-02T21:48:45Z
+  Updated: 2025-11-08T23:41:45Z
   Total Products: 25
 
 ## Store Pages
@@ -23010,8 +22410,8 @@
   Updated: 2025-01-19T04:56:22Z
 - [Return And Refund Policy](https://baskandweave.com/pages/return-and-refund-policy)
   Updated: 2025-01-19T04:57:01Z
-- [FAQ](https://baskandweave.com/pages/faq)
-  Updated: 2025-01-19T05:10:23Z
+- [FAQ](https://baskandweave.com/pages/faq): { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "Why is everyone loving Bask & Weave?", "acc...
+  Updated: 2025-11-08T23:21:48Z
 - [Your privacy choices](https://baskandweave.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-06-30T14:23:02Z
 - [html sitemap products](https://baskandweave.com/pages/html-sitemap-products): Products Men's Premium Cotton T-Shirt Men's Organic Cotton T-Shirt Men's Oversized Faded T-Shirt Men's Premium T-Shirt Men's Staple T-Shirt (made i...
