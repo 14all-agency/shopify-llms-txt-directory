@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-06T00:00:37.316Z
+- Updated At: 2025-11-08T00:00:31.148Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1184,7 +1184,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_450004a8-737f-424c-98ed-abd56f3ba0c8.jpg?v=1749051688
   Price: 199,00 € EUR
 - [Oehlbach NF13 balanced digital interconnect cable 200cm gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/oehlbach-nf13-balanced-digital-interconnect-kabel-200cm-gebraucht-kaufen): Oehlbach NF13 balanced digital interconnect cable 200cm gebraucht kaufen ✅ Geprüftes Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:31Z
+  Updated: 2025-11-06T09:09:36Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1485,19 +1485,12 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9fd86dfb-a2fb-45ce-86b6-fd2bf440d876.jpg?v=1751453532
   Price: 660,00 € EUR
 - [ELV RVV 100 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/elv-rvv-100-gebraucht-kaufen): ELV RVV 100 gebraucht kaufen ✅ Geprüfter Röhrenvorverstärker mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:14Z
+  Updated: 2025-11-07T18:11:29Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9870a96a-646f-4dc7-995b-8c9ccea93f50.jpg?v=1751454724
   Price: 580,00 € EUR
-- [Akai GX-95 Reference Master Stereo Kassettendeck gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/akai-gx-95-reference-master-stereo-kassettendeck-gebraucht-kaufen): Akai GX-95 Reference Master Stereo Kassettendeck gebraucht kaufen ✅ Geprüftes Kassettendeck mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:00Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_dfcc77cc-6849-47a4-852b-3c2f10e745d6.jpg?v=1751377713
-  Price: 980,00 € EUR
 - [Audioquest Blizzard Netzkabel kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioquest-blizzard-neugerat-kaufen-1): Audioquest Blizzard Netzkabel kaufen ✅ Hochwertiges Neugerät für optimale Klangqualität kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-09-15T22:27:03Z
   Vendor: WorldWideHifi
@@ -2107,13 +2100,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_cc4d5908-3b04-43dd-9cb4-6ab18115b345.jpg?v=1759669054
   Price: 649,00 € EUR
-- [KEF R300 Kompakt-Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/kef-r300-kompakt-lautsprecher-gebraucht-kaufen): KEF R300 Kompakt-Lautsprecher gebraucht kaufen ✅ Geprüfte Bookshelf speakers im Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-06T00:57:41Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_b89c82ab-12ce-4319-9109-8a405f0d8211.jpg?v=1759669057
-  Price: 890,00 € EUR
 - [Klipsch Heresy IV Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/klipsch-heresy-iv-gebraucht-kaufen): Klipsch Heresy IV gebraucht kaufen ✅ Geprüfte Lautsprecher fast wie neu mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-06T00:57:45Z
   Vendor: WorldWideHiFi
@@ -2153,7 +2139,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-10-10T11:22:37Z
+  Updated: 2025-11-06T12:19:29Z
   Total Products: 48
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
@@ -2180,7 +2166,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-11-01T11:20:35Z
   Total Products: 37
 - [Gebrauchte Tapedecks kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-tapedecks-kaufen): Gebrauchte Tapedecks kaufen ✓ Gebrauchte Tapedecks / Kassettendecks & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-05T16:01:03Z
+  Updated: 2025-11-06T12:19:29Z
   Total Products: 4
 - [Tonbandgeräte gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/tonbandgeraet-gebraucht-kaufen): Tonbandgeräte gebraucht kaufen ✓ Gebrauchte Tonbandgeräte & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-09-30T17:09:45Z
@@ -2219,8 +2205,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-04T12:22:19Z
-  Total Products: 121
+  Updated: 2025-11-06T12:19:29Z
+  Total Products: 123
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
