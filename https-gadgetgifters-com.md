@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T07:23:58Z
 - Contact Email: bluecubepvtltd@gmail.com
-- Updated At: 2025-11-05T00:00:44.772Z
+- Updated At: 2025-11-08T00:00:32.273Z
 
 ## Products
 
@@ -449,6 +449,15 @@
 - [Home page](https://gadgetgifters.com/collections/frontpage): Welcome to GadgetGifters – Where Innovation Meets Style! At GadgetGifters, we bring you the coolest gadgets, innovative tech accessories, and perfect gift ideas for every occasion. Whether you’re a tech enthusiast, a gadget lover, or searching for the perfect gift, we’ve got you covered. Why Choose GadgetGifters? Wide Range of Products: From smart home devices and wearable tech to quirky gadgets and eco-friendly accessories, we offer something for everyone. Affordable Prices: Enjoy high-quality gadgets at unbeatable prices. We believe innovation shouldn’t break the bank. Fast & Reliable Shipping: Get your orders delivered quickly and securely, right to your doorstep. Curated Collections: Explore our handpicked collections, including Best Sellers, Trending Gadgets, and Gift Ideas for Every Occasion. Customer-Centric Experience: Our easy-to-navigate website, secure payment options, and dedicated customer support ensure a seamless shopping experience.
   Updated: 2025-10-15T07:53:44Z
   Total Products: 15
+- [Vehicle Accessories](https://gadgetgifters.com/collections/vehicle-accessories): Discover the ultimate collection of vehicle accessories for your car, motorcycle, scooter, and bike. We cater to all automotive enthusiasts, providing a wide range of products to customize, protect, and enhance both the interior and exterior of your ride. Why Shop Our Vehicle Accessories Collection? For Your 4-Wheeler (Car/SUV): Find premium car accessories like custom seat covers, all-weather floor mats, advanced dash cams, phone holders, steering wheel covers, and essential car care products to keep your vehicle in showroom condition. For Your 2-Wheeler (Bike/Motorcycle): Explore essential bike and motorcycle accessories including durable helmets, sleek body covers, sturdy luggage carriers, handlebar grips, security locks, and performance-enhancing parts.
+  Updated: 2025-11-07T10:56:12Z
+  Total Products: 5
+- [Home Decore](https://gadgetgifters.com/collections/home-decore)
+  Updated: 2025-11-07T10:58:22Z
+  Total Products: 34
+- [Men's](https://gadgetgifters.com/collections/mens)
+  Updated: 2025-11-07T10:59:29Z
+  Total Products: 3
 
 ## Blogs
 
