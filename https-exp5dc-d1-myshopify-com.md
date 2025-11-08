@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-11-06T00:00:46.075Z
+- Updated At: 2025-11-08T00:00:39.073Z
 
 ## Products
 
@@ -189,7 +189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7110194ae07d4b0286c1abc3519d7fee-Max-Origin.webp?v=1762163775
     Price: $34.74 USD
 - [Basic Bae Asymmetrical Neck Long Sleeve Top](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top): Basic Bae Asymmetrical Neck Long Sleeve Top: modern asymmetrical neckline & slightly stretchy fabric blend. Flash sale ongoing. Buy today!
-  Updated: 2025-11-04T17:53:38Z
+  Updated: 2025-11-06T10:39:49Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -478,7 +478,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ee4e8090-cad8-4761-b225-e59f85e0e71b-Max.webp?v=1762184405
     Price: $15.84 USD
 - [Nicole Lee USA Monogram Pattern Handbag with Rhinestones Decor](https://exp5dc-d1.myshopify.com/products/nicole-lee-usa-monogram-pattern-handbag-with-rhinestones-decor): Nicole Lee USA Monogram Pattern Handbag with Rhinestones Decor: laser-cut monogram & shimmering rhinestones. Versatile design with spacious compartments. Buy today!
-  Updated: 2025-11-03T15:21:13Z
+  Updated: 2025-11-07T15:42:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/15efbaef-a589-48dd-949e-e5a1f98ee7f8-Max.webp?v=1762236790
     Price: $44.06 USD
 - [Beast Fashion Multi-Buckle Straps Studded Platform Sneakers](https://exp5dc-d1.myshopify.com/products/beast-fashion-multi-buckle-straps-studded-platform-sneakers-3): Beast Fashion Multi-Buckle Straps Studded Platform Sneakers: Punk-inspired multi-buckle straps & durable studded PU upper. Elevate your street style. Buy today!
-  Updated: 2025-11-04T06:37:03Z
+  Updated: 2025-11-07T16:35:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -685,7 +685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/6b8b2755-86ec-4449-b82b-8ef18e978e87-Max.webp?v=1762238066
     Price: $44.06 USD
   - [Black / 8.5](https://exp5dc-d1.myshopify.com/products/beast-fashion-multi-buckle-straps-studded-platform-sneakers-3?variant=50143496077559)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/6b8b2755-86ec-4449-b82b-8ef18e978e87-Max.webp?v=1762238066
     Price: $44.06 USD
   - [Black / 9](https://exp5dc-d1.myshopify.com/products/beast-fashion-multi-buckle-straps-studded-platform-sneakers-3?variant=50143496110327)
