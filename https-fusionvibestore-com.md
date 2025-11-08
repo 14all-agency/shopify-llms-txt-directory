@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-07T00:00:26.641Z
+- Updated At: 2025-11-08T00:00:27.634Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-10-27T20:26:18Z
+  Updated: 2025-11-07T08:25:51Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-28T18:26:37Z
+  Updated: 2025-11-07T21:26:17Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-06T23:47:47Z
+  Updated: 2025-11-07T17:15:56Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
