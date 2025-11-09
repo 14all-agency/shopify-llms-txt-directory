@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-11-08T00:00:32.738Z
+- Updated At: 2025-11-09T00:00:56.409Z
 
 ## Products
 
@@ -10108,7 +10108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-apx-hdx-airpods-gen-1-2-case-default-title-realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design-37937727865063.jpg?v=1760274849
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-11-07T22:04:32Z
+  Updated: 2025-11-08T22:08:46Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10122,7 +10122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-fitbit-watch-band-aspect-short-realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory-37937728061671.jpg?v=1760274844
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-11-07T22:04:26Z
+  Updated: 2025-11-08T10:20:11Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10360,7 +10360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-case-bisexual-iphone-11-pride-hd-iphone-11-xr-case-stylish-durable-protection-u-hd1ar11-pri-37937730715879.jpg?v=1760275355
     Price: $24.99 USD
 - [Pickleball iPhone 12 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pickleball-iphone-12-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 12 in style with our Pickleball iPhone 12 Mag-Safe case. Designed for ultimate durability and a unique pickleball aesthetic, this case is perfect for players!
-  Updated: 2025-11-06T22:00:04Z
+  Updated: 2025-11-08T04:06:48Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 12 Case
   Availability: Available
@@ -10564,7 +10564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-apple-iphone-13-case-love-iphone-13-pickleball-iphone-13-mag-safe-case-hd-protection-for-your-device-u-hd3ar13-pb-37937732780263.jpg?v=1760275325
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-11-07T22:05:27Z
+  Updated: 2025-11-08T19:16:53Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10698,7 +10698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733468391.jpg?v=1760275297
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-11-07T22:04:20Z
+  Updated: 2025-11-08T22:08:41Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10848,7 +10848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-edge-42-44-45-49mm-46mm-series-10-short-realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish-rt-hd1-camo-42s-37937735368935.jpg?v=1760275262
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-11-07T22:05:07Z
+  Updated: 2025-11-08T19:16:48Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
@@ -11014,7 +11014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937736319207.jpg?v=1760275228
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-iphone-14-mag-safe-case-hd-protection-for-your-device): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-11-07T03:54:49Z
+  Updated: 2025-11-08T19:16:53Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
