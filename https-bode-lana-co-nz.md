@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2020-08-19T03:32:16Z
 - Contact Email: info@bode-lana.co.nz
-- Updated At: 2025-11-04T22:26:25.585Z
+- Updated At: 2025-11-09T00:00:53.622Z
 
 ## Products
 
@@ -106,21 +106,14 @@
   - [L-XL](https://bode-lana.co.nz/products/bombora-tee-caramel?variant=41289708929180)
     Availability: Available
     Price: $55.00 NZD
-- [All-Natural Sunscreen - 50ml](https://bode-lana.co.nz/products/all-natural-sunscreen-50ml): This all-natural zinc formula creates a moisture-locking barrier to reflect rays and help prevent sun damage and skin cancer. Made with just 9 ingredients, The Kind Sunscreen is a clean, hard-working addition to any skincare routine. Safe for all humans — babies, breastfeeding mums and those with allergies or sensitive skin — and kind to the environment, The Kind Sunscreen is broad spectrum, SPF 30, vegan friendly and made in Australia. Combining the healing properties of nature with the latest in sunscreen science, The Kind Sunscreen is your must-have pocket sun protection. REEF SAFE FORMULA AND PACKAGING The Kind Sunscreen is reef & ocean friendly, cruelty free & vegan. Their tubes are manufactured from existing excess plastic and are recyclable- so they can continue to be reused. The carton is constructed from 100% recycled card. Yep, they’ve done their very best to create a product that is kind in every way. 9 CLEAN INGREDIENTS They believe less is more. They have removed water so they didn’t need to include preservatives or synthetic compounds like others on the market. Their sunscreen is made from high quality ingredients- no chemicals, no emulsifiers, no thickeners, no stabilisers and no water! Zinc Oxide Candelilla Wax Castor Oil Coconut Oil Vitamin E MCT Oil Coco Caprylate Isostearic Acid Polyglyceryl - 3 Polyricinoleate
-  Updated: 2025-11-01T09:56:55Z
-  Vendor: Bode Lana
-  Product Type: Rug
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0457/8266/3324/products/ScreenShot2022-11-13at11.25.49PM.png?v=1668335560
-  Price: $39.00 NZD
 
 ## Collections
 
 - [Oversized Graphic Tees](https://bode-lana.co.nz/collections/graphic-boxy-tees): Locally sourced tees with unique designs created by us! Thick quality cotton with Better Cotton Initiative (BCI). Ready for your summer adventures.
-  Updated: 2025-10-28T11:10:08Z
+  Updated: 2025-11-07T12:10:00Z
   Total Products: 7
 - [Throws](https://bode-lana.co.nz/collections/throws)
-  Updated: 2025-10-28T11:10:08Z
+  Updated: 2025-11-07T12:10:00Z
   Total Products: 7
 - [Featured Collection](https://bode-lana.co.nz/collections/featured-collection)
   Updated: 2025-09-08T11:09:40Z
