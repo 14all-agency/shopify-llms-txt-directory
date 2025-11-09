@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-05T00:00:26.042Z
+- Updated At: 2025-11-09T00:00:51.835Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2679_EST.jpg?v=1750053046
   Price: $54.00 USD
 - [Imagine Picual 500ml](https://verdesmeraldaolive.us/products/imagine-picual-500ml): "Imagine Picual" is a premium extra virgin olive oil, part of Verde Esmeralda Olive’s sophisticated Imagine Line. Crafted exclusively from the prized Picual variety, it is obtained through a cold-pressing process that preserves all of its organoleptic and nutritional properties. This oil stands out for its bold character and intense flavor, presented in a bottle with a refined design, featuring an elegant combination of black and gold—symbols of luxury and authenticity. Made from carefully selected Picual olives grown in the fertile lands of Jaén / Spain, this oil is extracted by the cold-pressing method, a technique that preserves all the organoleptic and nutritional characteristics of the olives, guaranteeing a superior quality product.
-  Updated: 2025-09-30T18:03:37Z
+  Updated: 2025-11-07T08:27:01Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
@@ -86,8 +86,8 @@
 - [Home page](https://verdesmeraldaolive.us/collections/frontpage)
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
-- [EVOO](https://verdesmeraldaolive.us/collections/aove)
-  Updated: 2025-11-01T11:16:07Z
+- [EVOO | Extra Virgin Olive Oil ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
+  Updated: 2025-11-07T21:49:03Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -98,20 +98,20 @@
 - [Wines](https://verdesmeraldaolive.us/collections/vinos): A great meal is never complete without the right wine. We are selecting the best wines from various regions to perfectly complement every dish. Soon, you’ll find our collection, designed to satisfy even the most discerning palates.
   Updated: 2025-09-30T18:02:31Z
   Total Products: 0
-- [Packs Gourmet](https://verdesmeraldaolive.us/collections/packs-gourmet)
-  Updated: 2025-10-31T11:16:28Z
+- [Packs Gourmet Olive Oil  | Gift Sets ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/packs-gourmet): Discover our exclusive Gourmet Packs Olive Oil— the perfect gift for food lovers. Enjoy award-winning extra virgin olive oils beautifully packaged and delivered to your door. Shop now at Verde Esmeralda Olive.
+  Updated: 2025-11-07T21:50:11Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-01T11:16:07Z
+  Updated: 2025-11-06T12:17:03Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-01T11:16:07Z
+  Updated: 2025-11-06T12:17:03Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-01T11:16:07Z
+  Updated: 2025-11-06T12:17:03Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-01T11:16:07Z
+  Updated: 2025-11-06T12:17:03Z
   Total Products: 10
 
 ## Blogs
@@ -163,12 +163,12 @@
   Updated: 2025-10-30T20:31:34Z
 - [Your privacy choices](https://verdesmeraldaolive.us/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-30T18:03:25Z
-- [About Us](https://verdesmeraldaolive.us/pages/about-us)
-  Updated: 2025-09-30T18:03:26Z
+- [About Us](https://verdesmeraldaolive.us/pages/about-us): 
+  Updated: 2025-11-08T13:28:58Z
 - [Cookie Policy](https://verdesmeraldaolive.us/pages/cookie-policy): At Verde Esmeralda Olive, we want to ensure a safe and transparent browsing experience. To do this, we use cookies and similar technologies that al...
   Updated: 2025-09-30T18:03:26Z
-- [FAQ](https://verdesmeraldaolive.us/pages/faqs)
-  Updated: 2025-10-30T20:00:29Z
+- [FAQ](https://verdesmeraldaolive.us/pages/faqs): 
+  Updated: 2025-11-08T13:29:52Z
 - [Giveaway](https://verdesmeraldaolive.us/pages/giveaway): Treat yourself to a taste of excellence — win a Baby Pack with 3 premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Join now!
   Updated: 2025-09-30T18:03:28Z
 - [Giveaway Emerald Day](https://verdesmeraldaolive.us/pages/giveaway-emerald-day): Treat yourself to a taste of excellence — win a Green Emerald- 500ml premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Jo...
