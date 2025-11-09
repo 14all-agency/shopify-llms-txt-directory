@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-06T00:00:32.193Z
+- Updated At: 2025-11-09T00:00:33.891Z
 
 ## Products
 
 - [Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Kompakter Holzofen mit modernem Design in vier Farben (beige, rot, silber, schwarz)
-  Updated: 2025-11-05T22:03:12Z
+  Updated: 2025-11-08T17:42:02Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
     Price: 819,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-11-05T22:02:37Z
+  Updated: 2025-11-08T17:41:38Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -55,7 +55,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.894,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-11-01T17:26:25Z
+  Updated: 2025-11-07T14:17:16Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_2400_pro_2_63316.webp?v=1753912344
   Price: 899,00 € EUR
 - [Muztag Mallorca Gas-Terrassenheizer schwarz 140cm hoch, 50cm breit, bis 7,3 kW Wärmeleistung](https://www.pelios.de/products/muztag-mallorca-terrassenheizer): Muztag Mallorca Terrassenheizer in schwarz, 138 × 48,6 × 48,6 cm, Gewicht 50 kg, Wärmeleistung bis 7,3 kW, Brennstoffverbrauch ca. 0,52 L/Std.
-  Updated: 2025-10-27T07:17:57Z
+  Updated: 2025-11-08T21:57:07Z
   Vendor: Muztag
   Product Type: Outdoor Terrassenheizer
   Availability: Available
@@ -230,7 +230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/decoration_stone_bioethanol_fireplace_45435.webp?v=1759855680
   Price: 75,00 € EUR
 - [Dakota - 3-seitiger Bio-Ethanol-Wandkamin in schwarz o. weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin): Dreiseitiger Bioethanol-Wandkamin aus schwarzem, pulverbeschichtetem Stahl inkl. 3,5-Liter-Brenner mit breiter Flamme und langer Brenndauer. Hauptspezifikationen Produkttyp Bioethanol Wandkamin Marke ScandiFlames Verwendung Indoor Garantie 2 Jahre Maße & Gewicht Länge/Breite 80 cm Höhe 60 cm Tiefe 30 cm Gewicht 27 kg Technische Spezifikationen Mindestraumgröße 70 m³ Brennstoff Bioethanol Brenndauer bis zu 7,5 Stunden Kapazität 3,5 Liter Wärmeleistung (Max.) 3,3 kW Verbrauch 0,46 L/Stunden Empfohlener Luftaustausch 1 Brennkammerrspezifikationen Einstellbar Ja Steuerung Manuell Flammelänge 45 cm Brennkammermodell 3,5 Liter Superior Fernbedienung Nein Material und Aussehen Material Stahl Farbe Schwarz Form Rechteckig Inklusive Scheibe Ja Installationsdetails Abzug/Schornstein Nicht erforderlich Stromanforderungen Nein
-  Updated: 2025-11-05T23:02:07Z
+  Updated: 2025-11-07T05:20:32Z
   Vendor: ScandiFlames
   Product Type: Bioethanol Wandkamin
   Availability: Available
@@ -261,10 +261,10 @@
 ## Collections
 
 - [Kamin Ofen Shop ☝ Kamin aus Handarbeit günstig kaufen](https://www.pelios.de/collections/frontpage): Kamin Ofen Shop ✔ Kamin kaufen hier im Shop ★ mega effizient ✓ geringer Verbrauch ✓ echte Handarbeit ✓ Endecken Sie unser umfangreiches, günstiges Angebot.
-  Updated: 2025-11-05T22:03:13Z
+  Updated: 2025-11-08T17:42:03Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-11-05T22:03:13Z
+  Updated: 2025-11-08T17:42:03Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-10-03T12:21:11Z
@@ -278,6 +278,33 @@
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
   Updated: 2025-11-05T23:01:33Z
   Total Products: 8
+- [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
+  Updated: 2025-11-08T22:34:02Z
+  Total Products: 3
+- [bis 20 qm](https://www.pelios.de/collections/bis-20-qm)
+  Updated: 2025-11-08T22:49:38Z
+  Total Products: 4
+- [bis 30 qm](https://www.pelios.de/collections/bis-25-qm)
+  Updated: 2025-11-08T23:16:59Z
+  Total Products: 8
+- [bis 100qm](https://www.pelios.de/collections/bis-100qm)
+  Updated: 2025-11-08T22:58:43Z
+  Total Products: 2
+- [bis 150 qm](https://www.pelios.de/collections/bis-150-qm)
+  Updated: 2025-11-08T22:58:19Z
+  Total Products: 2
+- [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
+  Updated: 2025-11-08T22:56:06Z
+  Total Products: 1
+- [Wandmontage](https://www.pelios.de/collections/wandmontage)
+  Updated: 2025-11-08T23:02:15Z
+  Total Products: 8
+- [Raumteiler](https://www.pelios.de/collections/raumteiler)
+  Updated: 2025-11-08T23:05:16Z
+  Total Products: 2
+- [außen](https://www.pelios.de/collections/aussen)
+  Updated: 2025-11-08T23:32:29Z
+  Total Products: 7
 
 ## Blogs
 
@@ -297,6 +324,9 @@
   - [Holzöfen und Pelletöfen: Die perfekten Begleiter für gemütliche Wärme](https://www.pelios.de/blogs/news/holzofen-und-pelletofen-die-perfekten-begleiter-fur-gemutliche-warme)
     Updated: 2025-09-06T12:21:41Z
     Author: nova.02 media Webdesign & SEO
+  - [Kamine und Brennstoffe - Wärme und Gemütlichkeit für Ihr Zuhause](https://www.pelios.de/blogs/news/kamine-und-brennstoffe-warme-und-gemutlichkeit-fur-ihr-zuhause)
+    Updated: 2025-11-08T21:22:27Z
+    Author: Pelios Solutions GmbH
 
 ## Store Pages
 
