@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-07T00:00:29.914Z
+- Updated At: 2025-11-09T00:00:58.888Z
 
 ## Products
 
@@ -1256,7 +1256,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Krups-Duchess-2.jpg?v=1751478452
   Price: ₹1,070.00 INR
 - [Buy ​Krups Countess Mechanical Bathroom Weighing Scale - Surgismart](https://surgismart.in/products/krups-countess): The Gold Standard for Mechanical Bathroom Scales. Heavy Mild Steel Body with high precision mechanism for greater accuracy Contemporary round design Clear magnifying break resistant lens encased in a contoured lens holder Beautiful powder coated colours with stylish mats Retractable carrying handle - Surgismart
-  Updated: 2025-10-15T09:37:51Z
+  Updated: 2025-11-07T07:19:42Z
   Vendor: Krups
   Product Type: Mechanical
   Availability: Available
@@ -3280,13 +3280,13 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-06T12:16:39Z
+  Updated: 2025-11-08T12:17:08Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-10-13T11:20:16Z
+  Updated: 2025-11-07T12:17:14Z
   Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
-  Updated: 2025-09-29T08:04:17Z
+  Updated: 2025-11-07T12:17:14Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
   Updated: 2025-10-13T11:20:32Z
@@ -3343,7 +3343,7 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-09-29T07:56:57Z
+  Updated: 2025-11-07T12:17:14Z
   Total Products: 38
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-09-28T11:47:25Z
@@ -3421,7 +3421,7 @@
   Updated: 2025-09-29T07:18:09Z
   Total Products: 3
 - [Buy ​Thermometer - Surgismart](https://surgismart.in/collections/thermometer): - Surgismart
-  Updated: 2025-09-28T11:47:23Z
+  Updated: 2025-11-07T12:17:14Z
   Total Products: 4
 - [Buy ​Hearing Aid - Surgismart](https://surgismart.in/collections/hearing-aid): - Surgismart
   Updated: 2025-08-01T11:05:31Z
@@ -3442,7 +3442,7 @@
   Updated: 2025-08-23T11:16:56Z
   Total Products: 27
 - [Buy ​Doctor's Corner - Surgismart](https://surgismart.in/collections/doctors-corner): - Surgismart
-  Updated: 2025-09-29T07:56:57Z
+  Updated: 2025-11-07T12:17:14Z
   Total Products: 15
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
   Updated: 2025-10-13T11:20:29Z
@@ -3463,7 +3463,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-06T12:16:39Z
+  Updated: 2025-11-08T12:17:08Z
   Total Products: 5
 
 ## Blogs
