@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-11-07T00:00:51.084Z
+- Updated At: 2025-11-09T00:00:31.765Z
 
 ## Products
 
-- [Premium CoQ10 - 60 Capsules (200mg) - £0.27 per capsule](https://www.floridasunshinevitamins.com/products/coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
-  Updated: 2025-11-06T14:13:55Z
+- [Premium CoQ10 - 60 Capsules (200mg) - £0.27 per capsule](https://www.floridasunshinevitamins.com/products/premium-coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
+  Updated: 2025-11-07T14:57:19Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -80,8 +80,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Enhanced_Immunity_Bundle.webp?v=1761300729
   Price: £49.99 GBP
-- [Family Pack](https://www.floridasunshinevitamins.com/products/family-pack): Keep your household stocked with this convenient 4-bottle supply of Liposomal Vitamin C, a highly absorbable form of Vitamin C that supports the normal function of the immune system and provides antioxidant protection. This pack is perfect for families looking for an easy way to incorporate Vitamin C into their daily routine. With four full bottles in one pack, there’s enough for everyone at home or peace of mind knowing you won’t run out soon. Ideal For: Families seeking reliable daily immune support. Individuals who prefer to stock up and avoid frequent reorders. Anyone looking for consistent support in their health routine. The Family Pack makes it easy to prioritize wellness every day for you and your loved ones. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-24T21:17:17Z
+- [Family Pack](https://www.floridasunshinevitamins.com/products/iposomal-vitamin-c-family-pack): Keep your household stocked with this convenient 4-bottle supply of Liposomal Vitamin C, a highly absorbable form of Vitamin C that supports the normal function of the immune system and provides antioxidant protection. This pack is perfect for families looking for an easy way to incorporate Vitamin C into their daily routine. With four full bottles in one pack, there’s enough for everyone at home or peace of mind knowing you won’t run out soon. Ideal For: Families seeking reliable daily immune support. Individuals who prefer to stock up and avoid frequent reorders. Anyone looking for consistent support in their health routine. The Family Pack makes it easy to prioritize wellness every day for you and your loved ones. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
+  Updated: 2025-11-07T14:52:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -91,13 +91,13 @@
 ## Collections
 
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
-  Updated: 2025-11-02T12:20:22Z
+  Updated: 2025-11-07T12:22:12Z
   Total Products: 5
-- [Liposomal Vitamins Collection – Florida Sunshine](https://www.floridasunshinevitamins.com/collections/vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-11-02T12:20:22Z
+- [Liposomal Vitamins Collection – Florida Sunshine](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
+  Updated: 2025-11-07T14:59:19Z
   Total Products: 5
-- [Bundles](https://www.floridasunshinevitamins.com/collections/bundles)
-  Updated: 2025-10-11T05:13:38Z
+- [Bundles](https://www.floridasunshinevitamins.com/collections/vitamin-bundles)
+  Updated: 2025-11-07T14:58:45Z
   Total Products: 6
 - [Bestsellers](https://www.floridasunshinevitamins.com/collections/bestsellers)
   Updated: 2025-10-30T11:21:57Z
