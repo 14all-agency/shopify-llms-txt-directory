@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-11-08T00:01:08.667Z
+- Updated At: 2025-11-09T00:01:29.068Z
 
 ## Products
 
@@ -1750,7 +1750,7 @@ curta e roliça.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-creme-de-peluche-15-cm-amigo-para-criancas-522783024-7340031379571-brincatoys-1178693188.jpg?v=1752818774
   Price: 19,50 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-25-cm): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-11-07T03:47:29Z
+  Updated: 2025-11-08T21:24:14Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -6217,7 +6217,7 @@ acasalmento.Alimentam-se de insetos e outros pequenos invertebrados, mas também
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/peluche-urso-harry-527784322-brincatoys-1178694593.jpg?v=1752859329
   Price: 26,99 € EUR
 - [Piano Mágico](https://brincatoys.pt/products/piano-magico): Este piano mágico permitirá que o seu bebé crie muitas melodias. Feito de madeira, este piano de brinquedo não possui botões e funciona com tecnologia táctil inovadora: basta tocar nele para activar a música. Dois modos de uso: modo compositor, que permite à criança compor melodias, ou modo maestro, para brincar com o acompanhamento de melodias clá
-  Updated: 2025-11-07T22:00:52Z
+  Updated: 2025-11-08T16:53:32Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -7190,7 +7190,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-de-batalha-pokemon-chikorita-abra-jolteon-23234922-pokemon-1178694951.jpg?v=1752811803
   Price: 22,99 € EUR
 - [Pokemon GO V Battle Deck Melmetal](https://brincatoys.pt/products/pokemon-go-v-battle-deck-melmetal): Unleash metal mayhem with a deck led by Melmetal V! Melmetal V brings the crushing power of Metal types, so you can land quick hits turn after turn, keep Energy in play, and master all the tricks of these V Battle Decks! In this box, you’ll find: 1 ready-to-play 60-card deck 3 reference cards 1 rules booklet Single-player playmat Damage counters 1
-  Updated: 2025-11-07T03:48:03Z
+  Updated: 2025-11-08T16:04:47Z
   Vendor: Cartas Pokémon
   Product Type: + 6 anos
   Availability: Available
@@ -9034,7 +9034,7 @@ Idade Recomendada: + de 2 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/trotinete-de-2-rodas-das-princesas-disney-172801422-princesas-disney-1178695568.jpg?v=1752808326
   Price: 44,99 € EUR
 - [Trotinete de 2  Rodas do Cars](https://brincatoys.pt/products/trotinete-de-2-rodas-do-cars): A Trotinete de alumínio do Cars é leve e fácil de manejar, apresentando 2 rodas de silicone, travão na roda traseira, plataforma anti-derrapante, guiador ajustável em altura e estrutura dobrável. O guiador é ajustável em diferentes alturas (72 a 76,5 cm) e a trotinete suporta o peso de uma criança até 50 Kg. A trotinete em alumínio do Cars é ideal
-  Updated: 2025-11-07T03:48:15Z
+  Updated: 2025-11-08T16:09:44Z
   Vendor: Cars
   Product Type: + 5 anos
   Availability: Available
@@ -12857,13 +12857,6 @@ Figura com aproximadamente 10,8 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-pokemon-piplup-electabuzz-vulpix-23268023-pokemon-1178697230.webp?v=1752906971
   Price: 22,99 € EUR
-- [Coelho de peluche Azul 25 cm](https://brincatoys.pt/products/coelho-de-peluche-azul-25-cm): Adorável coelho lindamente macio com orelhas longas e caídas. Maravilhosamente fofinho vem num tom azul pálido com detalhes em branco. Tem 25 cm de comprimento com nariz bordado bege e olhos pretos brilhantes. O coelhinho é perfeito para abraçar e fazer companhia ao seu filho/a enquanto ele/a dorme. Dimensão: 25 cm.Idade Recomendada. + de 6 meses.
-  Updated: 2025-11-07T03:48:42Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 6 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/coelho-de-peluche-azul-25-cm-522203723-7340031318129-brincatoys-1178697231.jpg?v=1752906974
-  Price: 23,99 € EUR
 - [Pinguim de peluche](https://brincatoys.pt/products/pinguim-de-peluche): Lindo e adorável pinguim de peluche feito com materiais sintéticos da melhor qualidade.  Dimensão: 25 cm.Idade Recomendada. + de 6 meses.
   Updated: 2025-11-07T03:48:42Z
   Vendor: Seleção Brincatoys
@@ -18072,7 +18065,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-rapunzel-brilho-real-777903125-5010993779031-princesas-disney-1178701265.jpg?v=1752968531
   Price: 16,99 € EUR
 - [Hot Wheels Edição European Car Culture: Miniaturas Detalhadas](https://brincatoys.pt/products/hot-wheels-edicao-european-car-culture): Em busca de emoção? A Edição European Car Culture da Hot Wheels tem miniaturas de alta qualidade dos carros mais icónicos da Europa.
-  Updated: 2025-11-07T03:49:15Z
+  Updated: 2025-11-08T18:56:16Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -18709,7 +18702,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75402-arc-170-starfighter-para-fas-667540225-5702017817460-lego-1178701669.jpg?v=1752781208
   Price: 69,90 € EUR
 - [Lego Sonic 77001 Confronto no Acampamento do Sonic: Ação](https://brincatoys.pt/products/lego-sonic-77001-confronto-no-acampamento-do-sonic): Revive momentos emocionantes com o Lego Sonic 77001 Confronto no Acampamento do Sonic! Diversão garantida para crianças a partir dos 7 anos!
-  Updated: 2025-11-07T19:20:01Z
+  Updated: 2025-11-08T13:16:17Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -19409,7 +19402,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-minecraft-21274-o-encontro-com-o-guarda-brinquedos-662127425-5702017815480-lego-1200852104.jpg?v=1762076760
   Price: 22,90 € EUR
 - [Lego Technic 42208 Aston Martin Valkyrie - Criatividade](https://brincatoys.pt/products/lego-technic-42208-aston-martin-valkyrie): Construa o seu próprio Lego Technic 42208 Aston Martin Valkyrie e traga a engenharia para a sua casa. Experimente a diversão de montar!
-  Updated: 2025-11-07T04:59:58Z
+  Updated: 2025-11-08T09:31:22Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -19682,7 +19675,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-ninjago-71806-robo-da-terra-elemental-do-cole-667180625-5702017584515-lego-1201627857.jpg?v=1762127285
   Price: 22,90 € EUR
 - [Lego Harry Potter 76424 Ford Anglia Voador e Ação](https://brincatoys.pt/products/lego-harry-potter76424-ford-anglia-voador): Recria momentos icónicos com o Lego Harry Potter 76424 Ford Anglia Voador. Monte as aventuras de Harry e Ron de forma divertida e mágica! ✨
-  Updated: 2025-11-06T21:48:12Z
+  Updated: 2025-11-08T03:37:02Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -19717,7 +19710,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42205-chevrolet-corvette-stingray-aventura-664220525-5702017816289-lego-1203290558.jpg?v=1762491367
   Price: 63,50 € EUR
 - [Lego Creator 31165 Animais Selvagens: Família de Pandas](https://brincatoys.pt/products/lego-creator-31165-animais-selvagens-familia-de-pandas): Desperte a criatividade dos pequenos com o Lego Creator 31165 Animais Selvagens: Família de Pandas. Construa, brinque e decore! 🐼
-  Updated: 2025-11-06T21:48:10Z
+  Updated: 2025-11-08T05:07:27Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -19920,7 +19913,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-rocksteady-com-chopper-cycle-233955925-0043377834472-tartarugas-ninja-1178692477.jpg?v=1752822979
   Price: 39,90 € EUR
 - [Tartarugas Ninja - Mega Mutante](https://brincatoys.pt/products/tartarugas-ninja-mega-mutante): Com o personagem Tartaereugas Ninja - Mega Mutante da série Teenage Mutant Ninja Turtles: Mutant Mayhem, trazes para casa a abominação definitiva do rio Hudson. Primeiramente, esta figura de grandes dimensões (aproximadamente 25 cm) combina traços de várias criaturas aquáticas e terrestres: boca móvel com mandíbula articulada, asas translúcidas de inseto e braços mutantes revestidos por tentáculos e garras que giram livremente. Além disso, as pernas texturizadas simulam lama e algas, enquanto o corpo exibe manchas e sulcos que revelam o verdadeiro poder da mutação. Por outro lado, para oferecer uma experiência ainda mais rica, o Mega Mutante inclui 5 pontos de articulação que permitem posicionar braços, asas e cabeça em várias poses de ataque. Além disso, este vilão gigantesco estimula o jogo criativo e o role-play, pois incentiva a imaginação ao inserir o Mega Mutante em cenários dos rios, esgotos ou rooftops de Nova Iorque. Assim, as crianças desenvolvem a coordenação motora ao mexer nos diversos elementos comixos e ainda exploram narrativas de resgate, invasão ou batalha final contra as próprias Tartarugas Ninja. Ademais, seja para começar ou enriquecer a coleção Mutant Mayhem da Brincatoys, o Mega Mutante é um presente imponente que combina qualidade, autenticidade Nickelodeon e muita diversão. Por fim, graças ao design impressionante e às funcionalidades dinâmicas, este brinquedo torna-se o centro das atenções em qualquer prateleira ou campo de batalha improvisado. Em suma... Figura de grandes dimensões (aprox. 25 cm) com 5 pontos de articulação Boca móvel, asas translúcidas e braços mutantes com tentáculos Pernas texturizadas simulam lama e algas para maior realismo Plástico PVC atóxico, sem ftalatos, conforme normas CE Estimula criatividade, coordenação motora e role-play Dimensão: 25,50 x 31 x 13 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-11-07T03:49:24Z
+  Updated: 2025-11-08T15:51:58Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19969,7 +19962,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesa-disney-branca-de-neve-boneca-encantadora-851202725-0194735120277-princesas-disney-1203105780.jpg?v=1762372074
   Price: 18,90 € EUR
 - [Coelho de Peluche 25 cm - Peluche Fofinho](https://brincatoys.pt/products/coelho-de-peluche-azul-25-cm-copia): Descubra o Coelho de Peluche 25 cm, o amigo de peluche macio e lavável perfeito para aconchegar. Crie momentos de alegria para o seu filho.
-  Updated: 2025-10-31T12:31:07Z
+  Updated: 2025-11-08T21:25:14Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20440,7 +20433,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-bluey-11203-casa-da-familia-da-bluey-em-detalhes-661120325-5702017813448-lego-1199905360.jpg?v=1761558370
   Price: 69,90 € EUR
 - [LEGO Star Wars 75431 Pack de Combate Soldados Clone](https://brincatoys.pt/products/lego-star-wars-75431-pack-de-combate-soldados-clone-do-327-º-corpo-estelar): Entra nas Guerras Clónicas com o LEGO Star Wars 75431 Pack de Combate Soldados Clone do 327.º Corpo Estelar. Prepara-te para a ação intensa!
-  Updated: 2025-11-07T18:57:03Z
+  Updated: 2025-11-08T16:55:29Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -20720,7 +20713,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-gigante-leonardo-acao-e-aventura-233875225-0043377834014-tartarugas-ninja-1184244257.jpg?v=1756214772
   Price: 32,50 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-cleo-de-nile-com-tocador): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-31T12:31:27Z
+  Updated: 2025-11-08T16:00:41Z
   Vendor: Monster High
   Product Type: + 4 anos
   Availability: Available
@@ -21810,449 +21803,449 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 ## Collections
 
 - [Ar livre](https://brincatoys.pt/collections/ar-livre)
-  Updated: 2025-11-04T12:24:33Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 65
 - [Caixas de música](https://brincatoys.pt/collections/caixas-de-musica)
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 62
 - [Blocos de Construção](https://brincatoys.pt/collections/blocos-de-construcao)
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 31
 - [Cozinha e faz-de-conta](https://brincatoys.pt/collections/cozinha-e-faz-de-conta)
-  Updated: 2025-11-06T17:14:41Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-11-06T12:24:05Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 552
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-11-06T12:24:05Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 181
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
-  Updated: 2025-11-06T19:00:21Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 39
 - [Lego Classic](https://brincatoys.pt/collections/lego-classic): LEGO® Classic permite às crianças desenvolverem a sua criatividade. Os conjuntos incluem ideias que as ajudam a começar, juntamente com peças especiais e peças LEGO clássicas que levam a inspiração ainda mais longe. Além disso, como o LEGO Classic abrange tantos grupos etários diferentes, há diversão para toda a família e todas as gerações podem dar largas à sua imaginação.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 11
 - [Lego Creator](https://brincatoys.pt/collections/lego-creator): Os conjuntos LEGO® Creator 3in1 podem inspirar brincadeiras criativas com vários modelos de construção num só. Os detalhados modelos podem ser desmontados e reconstruídos no que os construtores quiserem. Os conjuntos incluem edifícios realistas, veículos incríveis e animais fantásticos.
-  Updated: 2025-11-06T19:32:55Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 13
 - [Lego Disney](https://brincatoys.pt/collections/lego-disney): Celebra 100 anos de encantamento mágico com os conjuntos LEGO® | Disney e as suas personagens icónicas. Os fãs podem recriar as cenas memoráveis, as atrações dos parques de diversões e construir os castelos encantados da Disney. Junta-te ao Mickey e Amigos, às Princesas Disney e a muitas outras personagens em brincadeiras criativas e divertidas.
-  Updated: 2025-11-07T13:23:11Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 18
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 23
 - [Lego Friends](https://brincatoys.pt/collections/lego-friends): Celebra a amizade com um grupo de raparigas unidas que partilham aventuras em Heartlake City. Descobre os conjuntos que incluem novas personagens. Os jovens construtores podem criar histórias divertidas enquanto desenvolvem competências interpessoais e de perceção emocional através de representações.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 35
 - [Lego Harry Potter - Entre no mundo mágico](https://brincatoys.pt/collections/lego-harry-potter): Entra no mundo mágico de LEGO® Harry Potter™ e deixa-te encantar pela magia criativa e constrói modelos encantadores para expores.
-  Updated: 2025-11-07T05:11:13Z
+  Updated: 2025-11-08T12:21:19Z
   Total Products: 20
 - [Lego Hidden Side](https://brincatoys.pt/collections/lego-hidden-side)
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 5
 - [Lego Jurassic World](https://brincatoys.pt/collections/lego-jurassic-world): Desfruta de emocionantes aventuras com dinossauros com os conjuntos de jogo LEGO® Jurassic World™. Junta-te às heroicas personagens e constrói veículos, equipamento científico e laboratórios para tentarem capturar os dinossauros à solta no parque.
-  Updated: 2025-11-01T18:53:52Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 6
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-11-07T04:55:16Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 34
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
-  Updated: 2025-11-02T09:07:17Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 22
 - [Lego Ninjago](https://brincatoys.pt/collections/lego-ninjago): Os conjuntos LEGO® NINJAGO® incluem divertidas representações repletas de ação, com ninjas giratórios, dragões esvoaçantes, poderosos robôs e muito mais. Constrói templos incrivelmente detalhados e veículos fantásticos com infinitas possibilidades de narrativas do bem contra o mal.
-  Updated: 2025-11-06T20:18:08Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 22
 - [Lego Speed Champions](https://brincatoys.pt/collections/lego-speed-champions): Partida, largada, fugida! Os produtos LEGO® Speed Champions oferecem aos fãs de corridas de carros a oportunidade de recriar mini versões dos principais e mais conhecidos veículos do mundo. Constrói e expõe estas réplicas de modelos colecionáveis de marcas, como Ferrari, Aston Martin, Lamborghini, Dodge e Chevrolet.
-  Updated: 2025-11-07T13:47:19Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 26
 - [Lego Star Wars](https://brincatoys.pt/collections/lego-star-wars): Numa galáxia muito distante, existe um mundo repleto de aventuras onde o bem luta contra o mal e os fãs de Star Wars™ podem juntar-se a Luke Skywalker, Han Solo, Mandaloriano, Grogu e muitos outros para recriarem as cenas favoritas da série. Domina a Força para construíres naves e veículos épicos, droides fantásticos e personagens icónicas.
-  Updated: 2025-11-07T14:32:28Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 31
 - [Lego DC](https://brincatoys.pt/collections/lego-dc-comics): Os conjuntos do Universo DC permitem que as crianças brinquem, inventem e criem um mundo colorido de super-heróis. Com estes conjuntos de jogo, as crianças vão poder construir cenas famosas e divertir-se a inventar novas aventuras entre todos os heróis e vilões. Vão poder divertir-se e aprender muito com cada conjunto.
-  Updated: 2025-10-31T12:23:48Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 10
 - [Lego Technic](https://brincatoys.pt/collections/lego-technic): Os conjuntos LEGO® Technic oferecem experiências de construção avançadas e complexas com base em veículos reais grandes e pequenos, como carros desportivos, veículos de construção e motas. Estes veículos estão repletos de detalhes autênticos, como caixas de velocidade, rodas e eixos funcionais.
-  Updated: 2025-11-07T04:32:50Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 26
 - [Outras coleções](https://brincatoys.pt/collections/outras-colecoes)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 14
 - [Trabalhos manuais](https://brincatoys.pt/collections/trabalhos-manuais)
-  Updated: 2025-11-04T00:26:36Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 105
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-11-01T17:18:59Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 109
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-11-06T17:11:18Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 222
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-11-04T14:39:51Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 100
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
-  Updated: 2025-11-05T12:24:39Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 95
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-11-06T17:16:50Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 249
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
-  Updated: 2025-11-01T15:45:41Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 59
 - [Bonecas de Pano](https://brincatoys.pt/collections/bonecas-de-pano)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 24
 - [Mundo Animal](https://brincatoys.pt/collections/bonecos-pvc-mundo-animal)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 191
 - [Casa de Bonecas e acessórios](https://brincatoys.pt/collections/casa-de-bonecas-e-acessorios)
-  Updated: 2025-11-01T14:19:27Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 53
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-11-07T21:28:13Z
-  Total Products: 98
+  Updated: 2025-11-08T21:27:01Z
+  Total Products: 104
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 19
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-11-02T16:16:55Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 118
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-11-06T12:24:05Z
+  Updated: 2025-11-08T12:21:20Z
   Total Products: 207
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-11-05T17:03:41Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 177
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-11-05T11:40:33Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 112
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 12
 - [Lego Animal Crossing](https://brincatoys.pt/collections/lego-animal-crossing): As crianças vão poder construir e personalizar o mundo de Animal Crossing™ com estes conjuntos LEGO® criativos. Conhece a gama completa de brinquedos aqui.
-  Updated: 2025-10-31T12:23:49Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 3
 - [Lego Indiana Jones](https://brincatoys.pt/collections/lego-indiana-jones)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 1
 - [Lego Dreamzzz](https://brincatoys.pt/collections/lego-dreamzzz): Entra no mundo dos sonhos com os amigos Mateo, Izzie, Cooper, Logan e Zoey que usam o poder da imaginação para enfrentarem o malvado Rei Assombroso. Inspirados na série de TV LEGO® DREAMZzz™, estes conjuntos incluem veículos fantásticos, edifícios deslumbrantes e criaturas maravilhosas.
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 8
 - [+ 0 meses](https://brincatoys.pt/collections/0-meses)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 96
 - [+ 10 anos](https://brincatoys.pt/collections/10-anos)
-  Updated: 2025-11-07T13:47:19Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 29
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-11-07T21:28:43Z
-  Total Products: 322
+  Updated: 2025-11-08T21:27:01Z
+  Total Products: 328
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-11-06T17:16:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 1576
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-11-07T13:23:11Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 698
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-11-07T13:47:19Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 335
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 19
 - [+ 6 meses](https://brincatoys.pt/collections/6-meses)
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 54
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-11-06T17:37:42Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-11-06T17:37:42Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 1289
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-11-07T04:55:16Z
-  Total Products: 2409
+  Updated: 2025-11-08T21:26:15Z
+  Total Products: 2408
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-11-07T12:25:55Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3263
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3399
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3481
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3530
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-11-07T21:28:13Z
-  Total Products: 454
+  Updated: 2025-11-08T19:57:08Z
+  Total Products: 457
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
-  Updated: 2025-10-31T12:23:50Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 59
 - [Bluey](https://brincatoys.pt/collections/bluey)
-  Updated: 2025-11-02T16:37:27Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 15
 - [Barbie](https://brincatoys.pt/collections/barbie)
-  Updated: 2025-11-05T22:38:02Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 25
 - [Barbie Signature](https://brincatoys.pt/collections/barbie-signature)
-  Updated: 2025-10-31T16:34:12Z
+  Updated: 2025-11-08T12:21:21Z
   Total Products: 20
 - [Baby Alive](https://brincatoys.pt/collections/baby-alive)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 6
 - [Beyblade](https://brincatoys.pt/collections/beyblade)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 0
 - [UNO](https://brincatoys.pt/collections/uno)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 14
 - [Brawl Stars](https://brincatoys.pt/collections/brawl-stars)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-11-04T12:24:33Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 48
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 2
 - [Patrulha Pata](https://brincatoys.pt/collections/patrulha-pata)
-  Updated: 2025-11-05T11:40:33Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 40
 - [Five Nights at Freddy's](https://brincatoys.pt/collections/five-nights-at-freddys)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 15
 - [Squishville](https://brincatoys.pt/collections/squishville)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 19
 - [DC Comics](https://brincatoys.pt/collections/dc-comics)
-  Updated: 2025-11-04T14:39:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 55
 - [Dragon Ball](https://brincatoys.pt/collections/dragon-ball)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 14
 - [Fortnite](https://brincatoys.pt/collections/fortnite)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 1
 - [FurReal](https://brincatoys.pt/collections/furreal)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 3
 - [Gabby´s Dollhouse](https://brincatoys.pt/collections/gabbys-dollhouse)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 1
 - [Imaginext](https://brincatoys.pt/collections/imaginext)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-11-04T12:24:33Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
-  Updated: 2025-11-05T12:24:39Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 114
 - [My Little Pony](https://brincatoys.pt/collections/my-little-pony)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 18
 - [Monopoly](https://brincatoys.pt/collections/monopoly)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 13
 - [Play-Doh](https://brincatoys.pt/collections/play-doh)
-  Updated: 2025-10-31T12:23:51Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 13
 - [Peppa Pig](https://brincatoys.pt/collections/peppa-pig)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 28
 - [Toy Story](https://brincatoys.pt/collections/toy-story)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 11
 - [Transformers](https://brincatoys.pt/collections/transformers)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 51
 - [Star Wars](https://brincatoys.pt/collections/star-wars)
-  Updated: 2025-11-06T12:24:05Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 31
 - [Trolls](https://brincatoys.pt/collections/trolls)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 3
 - [PJ Masks](https://brincatoys.pt/collections/pj-masks)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:22Z
   Total Products: 3
 - [Enchantimals](https://brincatoys.pt/collections/enchantimals)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 11
 - [Fast & Furious](https://brincatoys.pt/collections/fast-furious)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 5
 - [Firebuds](https://brincatoys.pt/collections/firebuds)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 3
 - [Funko](https://brincatoys.pt/collections/funko)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 1
 - [Hot Wheels](https://brincatoys.pt/collections/hot-wheels)
-  Updated: 2025-11-01T15:40:17Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 36
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-11-07T14:32:28Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 450
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 13
 - [LadyBug](https://brincatoys.pt/collections/ladybug)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 7
 - [Little Live Pets](https://brincatoys.pt/collections/little-live-pets)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 16
 - [Matchbox](https://brincatoys.pt/collections/matchbox)
-  Updated: 2025-11-01T15:41:55Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 2
 - [Minions](https://brincatoys.pt/collections/minions)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-11-04T18:42:47Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 41
 - [Naruto](https://brincatoys.pt/collections/naruto)
-  Updated: 2025-10-31T12:23:52Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 3
 - [Nenuco](https://brincatoys.pt/collections/nenuco)
-  Updated: 2025-11-01T14:19:27Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 5
 - [Nerf](https://brincatoys.pt/collections/nerf)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 12
 - [Overwatch](https://brincatoys.pt/collections/overwatch)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 0
 - [Petronix Defenders](https://brincatoys.pt/collections/petronix-defenders)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 9
 - [Pinypon](https://brincatoys.pt/collections/pinypon)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 14
 - [Playmobil](https://brincatoys.pt/collections/playmobil)
-  Updated: 2025-11-06T17:11:18Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 117
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-11-04T12:24:33Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 93
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 3
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-11-05T19:18:09Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 108
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 20
 - [Roblox](https://brincatoys.pt/collections/roblox)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 4
 - [Robot Trains](https://brincatoys.pt/collections/robot-trains)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 8
 - [Rusty Rivets](https://brincatoys.pt/collections/rusty-rivets)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 5
 - [Sonic The Hedgehog](https://brincatoys.pt/collections/sonic-the-hedgehog)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:23Z
   Total Products: 28
 - [Spidey and Amazing Friends](https://brincatoys.pt/collections/spidey-and-amazing-friends)
-  Updated: 2025-10-31T21:16:18Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 11
 - [Super Mario](https://brincatoys.pt/collections/super-mario)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 6
 - [Tartarugas Ninja](https://brincatoys.pt/collections/tartarugas-ninja)
-  Updated: 2025-11-05T12:24:39Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 39
 - [Vet Squad](https://brincatoys.pt/collections/vet-squad)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 9
 - [Yu-Gi-Oh!](https://brincatoys.pt/collections/yu-gi-oh)
-  Updated: 2025-10-31T12:23:53Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3563
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-11-07T14:32:28Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 290
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-11-07T03:39:55Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 185
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-11-04T12:24:33Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 121
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-11-06T17:21:34Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 1251
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-11-07T13:23:11Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 516
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-10-31T12:23:54Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 137
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-11-06T19:17:00Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 189
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-11-07T14:32:28Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 84
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T12:22:52Z
   Total Products: 229
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
-  Updated: 2025-11-05T12:24:39Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 89
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-11-07T03:39:55Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 88
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3564
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-11-07T21:57:32Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3564
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
-  Updated: 2025-11-03T23:00:07Z
+  Updated: 2025-11-08T12:21:24Z
   Total Products: 21
 - [Godzilla vs Kong](https://brincatoys.pt/collections/godzilla-vs-kong)
-  Updated: 2025-10-31T12:23:54Z
+  Updated: 2025-11-08T12:21:25Z
   Total Products: 18
 - [Stumble Guys](https://brincatoys.pt/collections/stumble-guys)
-  Updated: 2025-10-31T18:07:26Z
+  Updated: 2025-11-08T12:21:25Z
   Total Products: 7
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-11-07T18:59:46Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3062
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
-  Updated: 2025-10-31T12:23:54Z
+  Updated: 2025-11-08T12:21:25Z
   Total Products: 19
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-11-05T11:45:55Z
+  Updated: 2025-11-08T12:21:25Z
   Total Products: 122
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-11-07T18:59:46Z
+  Updated: 2025-11-08T21:27:01Z
   Total Products: 3062
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-11-07T21:28:14Z
-  Total Products: 784
+  Updated: 2025-11-08T21:27:01Z
+  Total Products: 798
 
 ## Blogs
 
