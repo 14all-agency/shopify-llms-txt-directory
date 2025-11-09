@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-08T23:43:03.246Z
+- Updated At: 2025-11-09T00:01:14.526Z
 
 ## Products
 
@@ -21962,8 +21962,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-tote-bag-yellow-15x15-front-67a6c00327068.jpg?v=1738983801
     Price: $28.00 USD
-- [Eco-Friendly Tote Bag – Sustainable & Reusable Shopping Bag](https://baskandweave.com/products/eco-tote-bag): Carry your essentials with our eco-friendly tote bag made from sustainable materials. A durable, reusable shopping bag perfect for everyday use.
-  Updated: 2025-11-07T23:53:15Z
+- [Eco Tote Bag – Sustainable & Reusable Shopping Bag](https://baskandweave.com/products/eco-tote-bag): Discover our Eco Tote Bag made from sustainable materials — a durable, reusable, and eco-friendly shopping bag perfect for everyday essentials.
+  Updated: 2025-11-08T23:48:20Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22064,8 +22064,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Minimalist_Backpack.jpg?v=1740983864
   Price: $58.50 USD
-- [Organic Ribbed Neck T-Shirt – Unisex Eco-Friendly Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Discover our Organic Ribbed Neck T-Shirt, a unisex eco-friendly tee made from soft, sustainable materials. Stylish, comfortable, and perfect for everyday wear.
-  Updated: 2025-11-08T00:05:39Z
+- [Neck T-Shirt – Organic Ribbed Unisex Eco-Friendly Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Discover our Organic Ribbed Neck T-Shirt, a unisex eco-friendly tee made from soft, sustainable materials. Stylish, comfortable, and perfect for everyday wear.
+  Updated: 2025-11-08T23:46:57Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
