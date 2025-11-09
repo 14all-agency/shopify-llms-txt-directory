@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-11-08T00:00:34.959Z
+- Updated At: 2025-11-09T00:00:33.969Z
 
 ## Products
 
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-11-04T23:22:06Z
+  Updated: 2025-11-08T06:37:12Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -305,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-White-6.jpg?v=1727659793
   Price: $399.99 NZD
 - [Brabantia Bo Touch Bin - 2 x 30L White](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-white): Bo Touch Bin, 2 X 30L, White
-  Updated: 2025-11-06T11:22:08Z
+  Updated: 2025-11-08T23:37:07Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -331,13 +331,6 @@
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-Matt-Black-1.png?v=1727658822
-  Price: $599.99 NZD
-- [Brabantia Bo Touch Bin - 60L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-60l-platinum): Bo Touch Bin, 60L, Platinum
-  Updated: 2025-11-07T16:22:11Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-Platinum-3.jpg?v=1727659714
   Price: $599.99 NZD
 - [Brabantia Renew Soap Dispenser - Dark Grey](https://everydayhome.co.nz/products/soap-dispenser-dark-grey): Soap Dispenser, Dark Grey
   Updated: 2025-10-27T12:31:47Z
@@ -1235,13 +1228,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Laundry-Bin-60L-Matt-Black-2.png?v=1727659088
   Price: $279.99 NZD
-- [Brabantia Laundry Bin - 60L White](https://everydayhome.co.nz/products/laundry-bin-60l-white-w-dark-grey-plastic-lid): Change laundry day bigtime with this 60 litre Brabantia Laundry Bin. Its top lid keeps your laundry out of sight, and thanks to its clever Quick-Drop opening, you don’t even have to remove it to put in your laundry. On washdays, take off the lid to easily remove the perfectly fitting cotton laundry bag inside. Of course it is corrosion free, and it has ventilation holes and a protective bottom ring, so it can be used anywhere in your home. Laundry at its loveliest.
-  Updated: 2025-10-27T12:32:48Z
-  Vendor: BRABANTIA
-  Product Type: Laundry Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Laundry-Bin-60L-White-W-Dark-Grey-Lid-0_42cb1e3c-a471-4afe-8692-6fb959c52c2d.png?v=1730849808
-  Price: $279.99 NZD
 - [Brabantia New Touch Bin - 40L Matt Steel Fingerprint Proof](https://everydayhome.co.nz/products/touch-bin-new-40l-matt-steel-fingerprint-proof): Add a touch of design to your home with the Brabantia Touch Bin 40 litre. A great, yet space efficient, organising help that looks the part too. Just touch the lid and it opens smoothly. It also has a timeless design, is easy to clean, and it protects your floor thanks to the protection rim. This touch bin is ready for years of intensive, problem free use!
   Updated: 2025-10-27T12:32:49Z
   Vendor: BRABANTIA
@@ -1327,7 +1313,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Steam-Board-Grey-0.png?v=1727659548
   Price: $139.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Pepper Black](https://everydayhome.co.nz/products/foldable-steaming-board-pepper-black): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-11-06T04:07:11Z
+  Updated: 2025-11-08T00:52:09Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1684,7 +1670,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $49.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Black](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-black): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-11-07T19:52:10Z
+  Updated: 2025-11-08T22:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2902,7 +2888,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattSteel-8710755385285Brabantia_96dpi_1000x1000px_7_NR-24802.png?v=1734469205
   Price: $74.95 NZD
 - [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-10-27T12:34:44Z
+  Updated: 2025-11-08T06:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2937,7 +2923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-White-8710755414664Brabantia_96dpi_1000x1000px_7_NR-20229.png?v=1734478362
   Price: $74.95 NZD
 - [Brabantia Kitchen Utensil Organiser - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-organiser-matt-steel): Struggling to keep it together in the kitchen? Use the Brabantia Profile Gadget Organiser! This Matt Steel organiser always keeps your tools at hand. And thanks to the removable plastic tray inside, it is easy to clean too. A shining example of hands on design!
-  Updated: 2025-10-27T12:34:46Z
+  Updated: 2025-11-08T08:22:07Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3007,7 +2993,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReplacementLine_65mwith16connectors-8710755297243Brabantia_96dpi_1000x1000px_7_NR-3708.png?v=1734573677
   Price: $49.99 NZD
 - [Brabantia Stackable Glass Jar - 1.9L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-9l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-11-06T11:22:09Z
+  Updated: 2025-11-08T02:22:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3063,7 +3049,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $34.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-27T12:34:56Z
+  Updated: 2025-11-08T02:22:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3105,7 +3091,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806_a37b3a9a-dc8f-4293-ab16-6bbdcce3a7d4.png?v=1733865664
   Price: $31.99 NZD
 - [Brabantia Stackable Glass Jar - 0.7L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-7l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-11-01T08:37:11Z
+  Updated: 2025-11-08T20:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3633,7 +3619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Surfmist-Laundryup_70dde68c-1b23-4473-adca-f7d7e02ab5a2.jpg?v=1746478978
     Price: $181.00 NZD
 - [SwiftDry Loft Pulley Airer White (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-urban-loft-pulley-airer): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS White powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: White (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTES A longer 15 meter rope can be purchased here if you have a ceiling higher than 3 meters
-  Updated: 2025-11-02T21:07:07Z
+  Updated: 2025-11-08T19:52:42Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -4090,7 +4076,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoRecycleBin_40L-Grey-8710755251047Brabantia_300dpi_2000x2000px_9_NR-23227_4337f1a9-063e-4e75-94ee-76ef1060ea70.jpg?v=1754541748
   Price: $169.99 NZD
 - [Brabantia Sort & Go Waste Bin - 40L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-40l-grey): Feed your empty packaging, bottles, cans - and anything else you want sorted - to this handy 40 litre Brabantia Sort & Go Recycle Bin. It fits snugly in corners, flat against the wall, and has a large handle for easy carrying and emptying. Just what you need for a smooth running recycling operation at home!
-  Updated: 2025-10-27T16:22:06Z
+  Updated: 2025-11-08T16:07:06Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4125,7 +4111,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewDigitalBathroomScales-White-8710755280146Brabantia_300dpi_2000x2000px_9_NR-20014.jpg?v=1756437715
   Price: $84.95 NZD
 - [Brabantia Roll Top Bread Bin Regular - White](https://everydayhome.co.nz/products/brabantia-roll-top-bread-bin-regular-white): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. It's space efficient too: the lid disappears inside the bin, and you can put your canisters on the partially flat top. A practical and stylish addition to your kitchen!
-  Updated: 2025-11-07T01:52:11Z
+  Updated: 2025-11-08T20:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4545,7 +4531,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023460-1050_FLEXSHOWERCADDY_SLTBLUE_CC02.jpg?v=1755823621
   Price: $39.99 NZD
 - [Umbra Flex Shower Caddy - White](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-white): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-10-27T16:22:11Z
+  Updated: 2025-11-08T04:52:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
