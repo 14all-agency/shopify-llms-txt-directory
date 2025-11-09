@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-11-08T00:01:08.140Z
+- Updated At: 2025-11-09T00:01:01.878Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-11-07T05:49:57Z
+  Updated: 2025-11-08T05:49:21Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
