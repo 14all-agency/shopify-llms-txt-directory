@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-11-07T00:00:33.671Z
+- Updated At: 2025-11-09T00:00:38.394Z
 
 ## Products
 
@@ -1797,7 +1797,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN3815WHITE_1_a5be82c5-c524-413b-ba4a-6925a547b49c.jpg?v=1691757446
     Price: ₹275.00 INR
 - [Bluenixie BN1805 Padded T-Shirt Bra](https://bluenixie.com/products/padded-bra-for-women): Padded bra with removable straps options .Soft molded pads with cotton rich fabric overlapping to minimize the line on tight fitting apparels. Low back sides for all kind of outfits. Free pair of transparent straps with this bra. Available in variety of colors to match your mood.
-  Updated: 2025-11-03T08:21:57Z
+  Updated: 2025-11-07T13:51:40Z
   Vendor: Blue Nixie
   Product Type: T shirt bra
   Availability: Available
@@ -1875,7 +1875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1805PINK_1.jpg?v=1687421908
     Price: ₹375.00 INR
   - [34B / N.Blue](https://bluenixie.com/products/padded-bra-for-women?variant=45354387898682)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1805DARKBLUE_1.jpg?v=1687421821
     Price: ₹375.00 INR
   - [34B / Purple](https://bluenixie.com/products/padded-bra-for-women?variant=45354387931450)
@@ -1887,7 +1887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1805BEIGE_1.jpg?v=1687421944
     Price: ₹375.00 INR
   - [34B / White](https://bluenixie.com/products/padded-bra-for-women?variant=45354387996986)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1805WHITE_1.jpg?v=1687421962
     Price: ₹375.00 INR
   - [34B / Black](https://bluenixie.com/products/padded-bra-for-women?variant=45354388029754)
@@ -6485,10 +6485,10 @@
 ## Collections
 
 - [Home page](https://bluenixie.com/collections/frontpage): Explore Bluenixie for lingerie, bras, shorts, nightwear, and more. Shop a variety of styles for women, men, and kids.
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 79
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -6497,13 +6497,13 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 8
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
   Updated: 2025-11-03T12:10:31Z
@@ -6512,7 +6512,7 @@
   Updated: 2025-10-06T11:09:23Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 65
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
   Updated: 2025-07-09T01:35:02Z
@@ -6638,7 +6638,7 @@
   Updated: 2025-10-30T11:09:16Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 77
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-05-09T12:03:04Z
@@ -6647,13 +6647,13 @@
   Updated: 2025-11-03T12:10:31Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
   Updated: 2025-11-01T11:09:50Z
@@ -6671,13 +6671,13 @@
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [Offers](https://bluenixie.com/collections/offer): Discover irresistible offers on women's & girls' apparel including lingerie, nighties, panties, and shorts, as well as men's & kids' apparel at BlueNixie.in. Explore trendy designs, quality materials, and affordable prices. Elevate your style and enjoy a seamless shopping experience. Visit us now!
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
   Updated: 2025-10-30T11:09:16Z
@@ -6698,7 +6698,7 @@
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-08T12:11:26Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
@@ -6846,8 +6846,6 @@
   Updated: 2023-05-19T16:32:38Z
 - [Terms and Condition](https://bluenixie.com/pages/terms-and-condition): Buyer from this website has to provide accurate shipping and contact details. Please do remember your login information for future login and purcha...
   Updated: 2023-07-24T16:36:05Z
-- [vendor](https://bluenixie.com/pages/vendor)
-  Updated: 2023-06-22T13:01:40Z
 - [Order,Shipping & delivery policy](https://bluenixie.com/pages/shipping-and-delivery): Note:Please always make an unedited unpacking video of the parcel(s) you receive otherwise no claim of "wrong product(s) received" or "short produc...
   Updated: 2025-10-21T09:56:09Z
 - [Track Your Order](https://bluenixie.com/pages/itrack): NEVER ADD ANYTHING here, it can disrupt the proper functioning of iTrack. window.addEventListener("load", function () { const queryString = window....
