@@ -6,277 +6,277 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-11-07T00:00:26.496Z
+- Updated At: 2025-11-09T00:00:52.815Z
 
 ## Products
 
 - [Owala Stainless Steel Pet Bowls | NZ](https://www.owalalife.co.nz/products/pet-bowl): Bow wow. Now this is the tail-wagging product every pet needs. Because our furry friends deserve only the best, our Pet Bowl is made with stainless steel that’s built to last, a non-slip base that makes lapping up water effortless, and a circular design that makes it easy to approach from any angle. With a powerful combo like this, your pets are guaranteed to stay happy and hydrated.
-  Updated: 2025-10-15T02:53:28Z
+  Updated: 2025-11-08T06:41:22Z
   Vendor: My Store
   Product Type: PET BOWL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/petbpwlHyper_Flamingo.webp?v=1760414222
-  - [HYPER FLAMINGO / 1420 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668016797)
+  - [1420 ML / HYPER FLAMINGO / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668016797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/petbpwlHyper_Flamingo.webp?v=1760414222
     Price: $64.99 NZD
-  - [SHY MARSHMALLOW / 1420 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668115101)
+  - [1420 ML / SHY MARSHMALLOW / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668115101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SHYMARSHMALLOW.png?v=1760414227
     Price: $64.99 NZD
-  - [TURQUOISE & CAICOS / 710 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668213405)
+  - [1420 ML / TURQUOISE & CAICOS / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668180637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/TURQUOISE_CAICOS.png?v=1760414231
+    Price: $64.99 NZD
+  - [1420 ML / VERY VERY DARK / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668246173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/verydark.png?v=1760414236
+    Price: $64.99 NZD
+  - [710 ML / TURQUOISE & CAICOS / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668213405)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/TURQUOISE_CAICOS.png?v=1760414231
     Price: $49.99 NZD
-  - [TURQUOISE & CAICOS / 1420 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668180637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/TURQUOISE_CAICOS.png?v=1760414231
-    Price: $64.99 NZD
-  - [VERY VERY DARK / 710 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668278941)
+  - [710 ML / VERY VERY DARK / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668278941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/verydark.png?v=1760414236
     Price: $49.99 NZD
-  - [VERY VERY DARK / 1420 ML / Stainless Steel](https://www.owalalife.co.nz/products/pet-bowl?variant=44016668246173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/verydark.png?v=1760414236
-    Price: $64.99 NZD
 - [Owala SmoothSip Coffee Mug  | NZ](https://www.owalalife.co.nz/products/smoothesip): Experience the perfect cup of coffee with SmoothSip. Our advanced design ensures a silky smooth spout and keeps your drink at the ideal temperature. Plus, with the ability to handle high levels of caffeine, you can power through your day. While not completely leak proof, our product is splash resistant for added convenience. Are you ready to elevate your coffee experience?
-  Updated: 2025-10-15T03:04:39Z
+  Updated: 2025-11-08T06:48:38Z
   Vendor: Owalalife
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Owala_SmoothSip_Watermelon_Breeze-20oz_59df1cc0-1b24-4ebd-9cf6-67dfaa7d4cba.webp?v=1760414240
-  - [TELESCOPE TALES / 595ML / 20oz](https://www.owalalife.co.nz/products/smoothesip?variant=45548991611037)
+  - [595ML / 20oz / TELESCOPE TALES](https://www.owalalife.co.nz/products/smoothesip?variant=45548991611037)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SmoothSipTelescopeTales20oz_fdc58952-484f-4379-af8a-6fe8369333aa.jpg?v=1760414243
     Price: $49.99 NZD
-  - [WATERMELON BREEZE / 595ML / 20oz](https://www.owalalife.co.nz/products/smoothesip?variant=45548991643805)
+  - [595ML / 20oz / WATERMELON BREEZE](https://www.owalalife.co.nz/products/smoothesip?variant=45548991643805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Owala_SmoothSip_Watermelon_Breeze-20oz_a7c89969-143e-4cb2-8de5-9808f6dfc2f4.webp?v=1760414248
     Price: $49.99 NZD
 - [Owala SmoothSip Slider Coffe Mug  | NZ](https://www.owalalife.co.nz/products/smoothsip-slider): Owala SmoothSip Slider coffee mugs in two sizes, 355ml & 590ml. Durable stainless steel construction and insulation, keeps drinks hot or cold for longer.
-  Updated: 2025-11-06T17:52:06Z
+  Updated: 2025-11-08T20:35:46Z
   Vendor: Owalalife
   Product Type: SMOOTHSIP SLIDER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SSC06741-12ozSmoothsipSliderCandyCoated-SC.jpg?v=1760414253
-  - [CANDY COATED / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680099979421)
+  - [355ML / 12oz / CANDY COATED](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680099979421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SSC06741-12ozSmoothsipSliderCandyCoated-SC.jpg?v=1760414253
     Price: $49.99 NZD
-  - [CANDY COATED / 590ML / 20oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100012189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SSC06747-20ozSmoothsipSliderCandyCoated-SC.jpg?v=1760414257
-    Price: $59.99 NZD
-  - [CAMPFIRE NIGHTS / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100044957)
+  - [355ML / 12oz / CAMPFIRE NIGHTS](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100044957)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06742_-_12oz_Smoothsip_Slider_Campfire_Nights_-_SC.jpg?v=1760414260
     Price: $49.99 NZD
-  - [CAMPFIRE NIGHTS / 590ML / 20oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100077725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06748_-_20oz_Smoothsip_Slider_Campfire_Nights_-_SC.jpg?v=1760414265
-    Price: $59.99 NZD
-  - [GOLDEN QUEST / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100110493)
+  - [355ML / 12oz / GOLDEN QUEST](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100110493)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06743-12ozSmoothsipSliderGoldenQuest-SC.jpg?v=1760414269
     Price: $49.99 NZD
-  - [GOLDEN QUEST / 590ML / 20oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100143261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06749-20ozSmoothsipSliderGoldenQuest-SC.jpg?v=1760414273
-    Price: $59.99 NZD
-  - [MOONLIT SHADOW / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680121868445)
+  - [355ML / 12oz / MOONLIT SHADOW](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680121868445)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06746-12ozSmoothsipSliderMoonlitShadow-SC.jpg?v=1760414286
     Price: $49.99 NZD
-  - [MOONLIT SHADOW / 590ML / 20oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122196125)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06752-20ozSmoothsipSliderMoonlitShadow-SC_52a7073b-9e91-4aaf-a2e6-3bbe71967814.jpg?v=1760414290
-    Price: $59.99 NZD
-  - [LAKESIDE / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122622109)
+  - [355ML / 12oz / LAKESIDE](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122622109)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06744-12ozSmoothsipSliderLakeside-SC.jpg?v=1760414295
     Price: $49.99 NZD
-  - [SHY MARSHMALLOW / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680125603997)
+  - [355ML / 12oz / SHY MARSHMALLOW](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680125603997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07054-12ozSmoothsipSliderShyMarshmallow-SC.jpg?v=1760414299
     Price: $49.99 NZD
-  - [VERY, VERY DARK / 355ML / 12oz](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680126324893)
+  - [355ML / 12oz / VERY, VERY DARK](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680126324893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07055-12ozSmoothsipSliderVeryVeryDark-SC.jpg?v=1760414303
     Price: $49.99 NZD
+  - [590ML / 20oz / CANDY COATED](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100012189)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SSC06747-20ozSmoothsipSliderCandyCoated-SC.jpg?v=1760414257
+    Price: $59.99 NZD
+  - [590ML / 20oz / CAMPFIRE NIGHTS](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100077725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06748_-_20oz_Smoothsip_Slider_Campfire_Nights_-_SC.jpg?v=1760414265
+    Price: $59.99 NZD
+  - [590ML / 20oz / GOLDEN QUEST](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680100143261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06749-20ozSmoothsipSliderGoldenQuest-SC.jpg?v=1760414273
+    Price: $59.99 NZD
+  - [590ML / 20oz / MOONLIT SHADOW](https://www.owalalife.co.nz/products/smoothsip-slider?variant=46680122196125)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06752-20ozSmoothsipSliderMoonlitShadow-SC_52a7073b-9e91-4aaf-a2e6-3bbe71967814.jpg?v=1760414290
+    Price: $59.99 NZD
 - [Owala 1185ML Tumbler | NZ](https://www.owalalife.co.nz/products/1185ml-tumbler): Stay hydrated with our 1185ml tumbler with handle! Featuring a removable straw, wide ice-friendly opening, and spill resistance, it's perfect for your busy life.
-  Updated: 2025-11-01T16:01:07Z
+  Updated: 2025-11-08T06:47:40Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/CANDYSTORE.png?v=1760414317
-  - [CANDY STORE / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138678429)
+  - [1185ML / 40oz / CANDY STORE / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138678429)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/CANDYSTORE.png?v=1760414317
     Price: $79.99 NZD
-  - [CLOUDSPACE / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138711197)
+  - [1185ML / 40oz / CLOUDSPACE / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138711197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/CLOUDSPACE.png?v=1760414322
     Price: $79.99 NZD
-  - [HIP CACTUS / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138743965)
+  - [1185ML / 40oz / HIP CACTUS / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138743965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/HIPCACTUS.png?v=1760414327
     Price: $79.99 NZD
-  - [LOST VALLEY / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138776733)
+  - [1185ML / 40oz / LOST VALLEY / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138776733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/LostValley.png?v=1760414334
     Price: $79.99 NZD
-  - [SPLASH ZONE / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138809501)
+  - [1185ML / 40oz / SPLASH ZONE / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138809501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/SplashZone.png?v=1760414341
     Price: $79.99 NZD
-  - [DUNE DRIFTER / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138875037)
+  - [1185ML / 40oz / DUNE DRIFTER / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680138875037)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06975-40ozDuneDrifterTumbler-SC.png?v=1760414357
     Price: $79.99 NZD
-  - [GREEN HOUSE / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680143593629)
+  - [1185ML / 40oz / GREEN HOUSE / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680143593629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07202-40-oz.GreenHouseTumbler-SC.jpg?v=1760414363
     Price: $79.99 NZD
-  - [ROSE QUARTZ / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680144150685)
+  - [1185ML / 40oz / ROSE QUARTZ / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680144150685)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07203-40-oz.RoseQuartzTumbler-SC.jpg?v=1760414368
     Price: $79.99 NZD
-  - [SMELL THE ROSES / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680145297565)
+  - [1185ML / 40oz / SMELL THE ROSES / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680145297565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06974-40ozSmelltheRosesTumbler-SC.jpg?v=1760499778
     Price: $79.99 NZD
-  - [CALM WATERS / 1185ML / 40oz / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680145559709)
+  - [1185ML / 40oz / CALM WATERS / Stainless Steel](https://www.owalalife.co.nz/products/1185ml-tumbler?variant=46680145559709)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07200-40-oz.CalmWatersTumbler-SC.jpg?v=1760499778
     Price: $79.99 NZD
 - [Owala Kids FreeSip Waterbottle | NZ](https://www.owalalife.co.nz/products/kids-freesip): Owala Kids FreeSip waterbottle, fun, colourful and easy to use. Built-in straw, spill-resistant design and a perfect size for school or play. Available now.
-  Updated: 2025-11-04T16:02:06Z
+  Updated: 2025-11-08T07:40:12Z
   Vendor: My Store
   Product Type: FREESIP KIDS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/Kids-MakeWaves-SC-4000x4000-9dc0167.jpg?v=1760414395
   Price: $49.99 NZD
 - [Owala 710ML Tumbler | NZ](https://www.owalalife.co.nz/products/710ml-tumbler): Sip in style with our 710ml tumbler, our insulated stainless steel design will keep your drinks ice-cold or hot for hours. Removable straw & cupholder friendly.
-  Updated: 2025-10-30T16:17:06Z
+  Updated: 2025-11-08T06:47:07Z
   Vendor: My Store
   Product Type: TUMBLER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06239-24ozLostValleyTumbler-SC.png?v=1760489196
-  - [LOST VALLEY / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010601117)
+  - [710ML / 24oz / LOST VALLEY / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010601117)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06239-24ozLostValleyTumbler-SC.png?v=1760489196
     Price: $59.99 NZD
-  - [SPLASH ZONE / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010633885)
+  - [710ML / 24oz / SPLASH ZONE / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010633885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C05632-24ozSplashZoneTumbler-SC.png?v=1760489203
     Price: $59.99 NZD
-  - [LOST IN SPACE / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010666653)
+  - [710ML / 24oz / LOST IN SPACE / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010666653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06999-24ozLostinSpaceTumbler-SC.png?v=1760489209
     Price: $59.99 NZD
-  - [DUNE DRIFTER / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010699421)
+  - [710ML / 24oz / DUNE DRIFTER / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46771010699421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07001-24ozDuneDrifterTumbler-SC.png?v=1760489216
     Price: $59.99 NZD
-  - [HIP CACTUS / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784918388893)
+  - [710ML / 24oz / HIP CACTUS / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784918388893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C05628-24ozHipCactusTumbler-SC.png?v=1760489222
     Price: $59.99 NZD
-  - [CLOUDSCAPE / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784919208093)
+  - [710ML / 24oz / CLOUDSCAPE / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784919208093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C05631-24ozCloudscapeTumbler-SC.png?v=1760489229
     Price: $59.99 NZD
-  - [CANDY STORE / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784920879261)
+  - [710ML / 24oz / CANDY STORE / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784920879261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06265-24ozCandyStoreTumbler-SC.png?v=1760489235
     Price: $59.99 NZD
-  - [SMELL THE ROSES / 710ML / 24oz / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784923828381)
+  - [710ML / 24oz / SMELL THE ROSES / Stainless Steel](https://www.owalalife.co.nz/products/710ml-tumbler?variant=46784923828381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07000-24ozSmelltheRosesTumbler-SC.png?v=1760489241
     Price: $59.99 NZD
 - [Owala Silicone Boot | NZ](https://www.owalalife.co.nz/products/silicone-boot): This silicone bottle boot cover acts like a phone case for your Owala Bottle - protecting it from damage and keeping it looking good as new.
-  Updated: 2025-11-06T22:32:51Z
+  Updated: 2025-11-08T06:41:04Z
   Vendor: My Store
   Product Type: SILICONE BOOT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/black.png?v=1760489249
-  - [BLACK / 710ML / 24oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749214877)
+  - [710ML / 24oz / BLACK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749214877)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/black.png?v=1760489249
     Price: $14.99 NZD
-  - [BLACK / 945ML / 32oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749247645)
+  - [710ML / 24oz / VIOLET](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749477021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07065-32ozBootViolet-SC.jpg?v=1760489262
+    Price: $14.99 NZD
+  - [710ML / 24oz / YELLOW](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802135197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1760489264
+    Price: $14.99 NZD
+  - [710ML / 24oz / BLUE GREEN](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802036893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07063-32ozBootTealGreen-SC.jpg?v=1760489267
+    Price: $14.99 NZD
+  - [710ML / 24oz / BRIGHT PINK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802102429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/bright_pink-removebg-preview.png?v=1760489270
+    Price: $14.99 NZD
+  - [945ML / 32oz / BLACK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749247645)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/black.png?v=1760489249
     Price: $16.99 NZD
-  - [BLACK / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749280413)
+  - [945ML / 32oz / VIOLET](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749509789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07065-32ozBootViolet-SC.jpg?v=1760489262
+    Price: $16.99 NZD
+  - [945ML / 32oz / YELLOW](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749575325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1760489264
+    Price: $16.99 NZD
+  - [945ML / 32oz / BLUE GREEN](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749640861)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07063-32ozBootTealGreen-SC.jpg?v=1760489267
+    Price: $16.99 NZD
+  - [945ML / 32oz / BRIGHT PINK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749706397)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/bright_pink-removebg-preview.png?v=1760489270
+    Price: $16.99 NZD
+  - [1185ML / 40oz / BLACK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749280413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/black.png?v=1760489249
     Price: $19.99 NZD
-  - [GRAY / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749345949)
+  - [1185ML / 40oz / GRAY](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749345949)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/gray.png?v=1760489251
     Price: $19.99 NZD
-  - [MINT / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749378717)
+  - [1185ML / 40oz / MINT](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749378717)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/mint-removebg-preview.png?v=1760489253
     Price: $19.99 NZD
-  - [LIGHT PINK / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749444253)
+  - [1185ML / 40oz / LIGHT PINK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749444253)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07060-24ozBootLightPink-SC_ed350f01-e3a7-44e5-beed-10dd3de7e3e9.jpg?v=1760489259
     Price: $19.99 NZD
-  - [VIOLET / 710ML / 24oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749477021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07065-32ozBootViolet-SC.jpg?v=1760489262
-    Price: $14.99 NZD
-  - [VIOLET / 945ML / 32oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749509789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07065-32ozBootViolet-SC.jpg?v=1760489262
-    Price: $16.99 NZD
-  - [VIOLET / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749542557)
+  - [1185ML / 40oz / VIOLET](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749542557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07065-32ozBootViolet-SC.jpg?v=1760489262
     Price: $19.99 NZD
-  - [YELLOW / 945ML / 32oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749575325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1760489264
-    Price: $16.99 NZD
-  - [YELLOW / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749608093)
+  - [1185ML / 40oz / YELLOW](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749608093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1760489264
     Price: $19.99 NZD
-  - [BLUE GREEN / 945ML / 32oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749640861)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07063-32ozBootTealGreen-SC.jpg?v=1760489267
-    Price: $16.99 NZD
-  - [BLUE GREEN / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749673629)
+  - [1185ML / 40oz / BLUE GREEN](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749673629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07063-32ozBootTealGreen-SC.jpg?v=1760489267
     Price: $19.99 NZD
-  - [BRIGHT PINK / 945ML / 32oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749706397)
-    Availability: Not Available
+  - [1185ML / 40oz / BRIGHT PINK](https://www.owalalife.co.nz/products/silicone-boot?variant=46858799480989)
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/bright_pink-removebg-preview.png?v=1760489270
-    Price: $16.99 NZD
-  - [BRIGHT BLUE / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749739165)
+    Price: $19.99 NZD
+  - [1185ML / 40oz / BRIGHT BLUE](https://www.owalalife.co.nz/products/silicone-boot?variant=46858749739165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/blue-removebg-preview.png?v=1760489257
     Price: $19.99 NZD
-  - [BRIGHT PINK / 1185ML / 40oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858799480989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/bright_pink-removebg-preview.png?v=1760489270
-    Price: $19.99 NZD
-  - [BLUE GREEN / 710ML / 24oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802036893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07063-32ozBootTealGreen-SC.jpg?v=1760489267
-    Price: $14.99 NZD
-  - [BRIGHT PINK / 710ML / 24oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802102429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/bright_pink-removebg-preview.png?v=1760489270
-    Price: $14.99 NZD
-  - [YELLOW / 710ML / 24oz](https://www.owalalife.co.nz/products/silicone-boot?variant=46858802135197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07066-32ozBootYellow-SC.jpg?v=1760489264
-    Price: $14.99 NZD
 - [Owala FreeSip Twist Bottle | NZ](https://www.owalalife.co.nz/products/freesip-twist): FreeSip Twist, available in NZ. Holds hot, cold, and carbonated drinks. Stainless steel, leak proof twist lid, and 2-in-1 straw design. Shop now!
   Updated: 2025-11-06T20:28:31Z
   Vendor: Owalalife
@@ -344,7 +344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1760489350
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-11-06T23:16:05Z
+  Updated: 2025-11-08T23:43:26Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
@@ -553,22 +553,22 @@
 ## Collections
 
 - [Owala's Best Sellers | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/best-selling-products): Shop Owala Best Sellers NZ - our most popular water bottles, tumblers & accessories. Fan favourites and show stoppers, stylish & durable hydration.
-  Updated: 2025-11-06T12:08:20Z
+  Updated: 2025-11-08T12:08:52Z
   Total Products: 28
 - [Owala Accessories NZ | Bottle Boots, Brushes & More](https://www.owalalife.co.nz/collections/accessories): Shop Owala accessories in NZ, silicone bottle boots, 2-in-1 brushes & pet bowls. Durable, practical add-ons to protect, clean & care for your bottles.
-  Updated: 2025-11-06T12:08:20Z
+  Updated: 2025-11-07T12:09:52Z
   Total Products: 5
 - [Shop Owala Drinkware | FreeSip, Twist, Coffee Mugs & Tumblers | NZ](https://www.owalalife.co.nz/collections/drinkware): Shop Owala Drinkware items in NZ - FreeSip, FreeSip Twist, SmoothSip Slider & Kids bottles. Stylish, reusable, BPA-free plastic bottles for everyday hydration.
-  Updated: 2025-11-06T12:08:20Z
+  Updated: 2025-11-08T12:08:52Z
   Total Products: 10
 - [Owala Tumblers | NZ](https://www.owalalife.co.nz/collections/tumblers): Shop Owala Tumblers NZ, 710ml & 1185ml insulated tumblers for hot or cold drinks. Cupholder friendly, perfect for coffee, tea, smoothies & water. Available now
-  Updated: 2025-11-01T11:08:08Z
+  Updated: 2025-11-08T12:08:52Z
   Total Products: 2
 - [Owala Kid's Products | NZ](https://www.owalalife.co.nz/collections/kids-products): Shop Owala Kids FreeSip Bottles & Tumblers in NZ, BPA free plastic & insulated stainless steel. Fun, durable, spill-resistant drinkware for life's adventures.
-  Updated: 2025-11-04T12:08:07Z
+  Updated: 2025-11-08T12:08:52Z
   Total Products: 8
 - [Shop All Owala | Bottles, Tumblers & Accessories | NZ](https://www.owalalife.co.nz/collections/shop-all): Explore all Owala bottles & accessories in NZ, FreeSip, FreeSip Twist, SmoothSip Slider, Kids items & more. Stylish, durable hydration for every lifestyle.
-  Updated: 2025-11-06T12:08:20Z
+  Updated: 2025-11-08T12:08:52Z
   Total Products: 13
 
 ## Store Pages
@@ -583,6 +583,8 @@
   Updated: 2025-09-26T01:41:43Z
 - [Halloween Trick Or Treat T&Cs](https://www.owalalife.co.nz/pages/halloween-trick-or-treat-t-cs): Terms & Conditions: Offer ends Thursday, 30 October 2025 at 11:59pm NZDT. 25% discount applies to 40oz bottles only, price as marked. Cannot be com...
   Updated: 2025-10-27T21:49:09Z
+- [Owala Authorised Retailers | NZ](https://www.owalalife.co.nz/pages/stockists): Stirling Sports KERIKERIStirling Sports WHANGAREIStirling Sports ALBANYStirling Women ALBANYStirling Sports GLENFIELDStirling Sports SILVERDALEStir...
+  Updated: 2025-11-07T00:31:01Z
 
 ## Policies
 
