@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-11-08T00:00:39.073Z
+- Updated At: 2025-11-09T00:00:54.906Z
 
 ## Products
 
@@ -1634,9 +1634,6 @@
 - [Bags & Wallets](https://exp5dc-d1.myshopify.com/collections/dresses-1)
   Updated: 2025-10-27T04:33:27Z
   Total Products: 14
-- [Outerwears](https://exp5dc-d1.myshopify.com/collections/outerwears)
-  Updated: 2025-10-26T15:51:04Z
-  Total Products: 13
 - [Footwears](https://exp5dc-d1.myshopify.com/collections/boots)
   Updated: 2025-10-26T15:51:04Z
   Total Products: 20
