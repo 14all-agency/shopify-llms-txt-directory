@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-10T18:42:45.198Z
+- Updated At: 2025-11-10T18:44:11.467Z
 
 ## Products
 
@@ -2262,7 +2262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-meeple-worx-ltd-VmE.jpg?v=1760888435
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2025-11-10T17:47:11Z
+  Updated: 2025-11-10T18:43:00Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
