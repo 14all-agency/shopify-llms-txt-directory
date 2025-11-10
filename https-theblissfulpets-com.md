@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-06T00:00:26.543Z
+- Updated At: 2025-11-10T00:00:34.730Z
 
 ## Products
 
@@ -670,8 +670,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBUG-BULLDOG-SOAP-2025.jpg?v=1742486577
   Price: $12.95 USD
-- [The Blissful Dog Nose Butter® All Natural Balm For Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Does your dog have a dry or crusty nose? The Blissful Dog Nose Butter® moisturizes all ranges of dry dog noses from just a bit to extreme nasal hyperkeratosis.
-  Updated: 2025-11-03T23:18:33Z
+- [Blissful Nose Butter – Moisturizing Balm for Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Soothe and moisturize your dog’s dry, crusty nose with Blissful Nose Butter – a natural, gentle balm loved by pets of all breeds.
+  Updated: 2025-11-09T00:13:20Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1396,8 +1396,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-VV-GALLON-2024.jpg?v=1711388005
     Price: $72.95 USD
-- [Blissful Cat® Blissful Paw® Butter Good Stuff for Dry Paw Pads](https://theblissfulpets.com/products/blissful-paw-butter): Blissful Cat® Blissful Paw® ButterR provides layers of moisturizing support for your cat's paw pads…naturally! In 4 sizes of tins & tubes.
-  Updated: 2025-10-05T16:21:37Z
+- [Blissful Cat Paw Butter – Moisturizing Balm for Dry Cat Paw Pads](https://theblissfulpets.com/products/blissful-paw-butter): Soothe and moisturize your cat’s rough, dry paw pads with Blissful Paw Butter – a natural, gentle balm cats love and owners trust.
+  Updated: 2025-11-08T03:53:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -1580,22 +1580,22 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-11-03T12:20:04Z
+  Updated: 2025-11-07T15:45:25Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-11-04T12:22:39Z
+  Updated: 2025-11-08T12:26:09Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-04T12:22:39Z
+  Updated: 2025-11-08T12:26:09Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
-  Updated: 2025-11-03T12:20:04Z
+  Updated: 2025-11-08T12:26:09Z
   Total Products: 5
 - [Insect Control](https://theblissfulpets.com/collections/insect-control)
   Updated: 2025-10-11T11:22:00Z
   Total Products: 4
 - [Cat Moisturizing Butters](https://theblissfulpets.com/collections/cat-moisturizing-butters)
-  Updated: 2025-11-02T12:20:59Z
+  Updated: 2025-11-07T15:53:12Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
   Updated: 2025-11-05T12:22:36Z
@@ -1625,13 +1625,13 @@
   Updated: 2025-11-03T12:20:04Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-11-05T12:22:36Z
+  Updated: 2025-11-07T15:53:12Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-10-14T11:18:02Z
   Total Products: 3
 - [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles)
-  Updated: 2025-10-06T11:17:39Z
+  Updated: 2025-11-08T12:26:09Z
   Total Products: 14
 - [Holiday Combos](https://theblissfulpets.com/collections/holiday-combos)
   Updated: 2025-10-06T11:17:39Z
