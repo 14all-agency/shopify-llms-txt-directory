@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-08T00:00:27.634Z
+- Updated At: 2025-11-10T00:00:34.853Z
 
 ## Products
 
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-11-07T21:26:17Z
+  Updated: 2025-11-09T08:26:01Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1108,13 +1108,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
-- [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-07T17:15:56Z
-  Vendor: z60ja0-0n
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
-  Price: $11.00 USD
 - [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to deal with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
   Updated: 2025-10-09T07:25:16Z
   Vendor: z60ja0-0n
