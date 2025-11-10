@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-09T00:01:14.526Z
+- Updated At: 2025-11-10T00:00:34.421Z
 
 ## Products
 
@@ -21717,7 +21717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Youth_Leggings.jpg?v=1740977044
     Price: $33.00 USD
 - [Baby One Piece Outfit - Short Sleeve Infant Bodysuit](https://baskandweave.com/products/baby-short-sleeve-one-piece): Dress your little one in comfort with our baby one piece outfit. This soft short sleeve bodysuit is perfect for everyday wear and gentle on delicate skin.
-  Updated: 2025-11-07T23:48:18Z
+  Updated: 2025-11-09T21:18:46Z
   Vendor: Bask & Weave
   Product Type: Baby One Piece
   Availability: Available
@@ -21787,7 +21787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/baby-short-sleeve-one-piece-athletic-heather-front-67a6bc16e734e.jpg?v=1738980538
     Price: $26.00 USD
   - [Pink / 3-6m](https://baskandweave.com/products/baby-short-sleeve-one-piece?variant=47111065043194)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/baby-short-sleeve-one-piece-pink-front-67a6bc16e75a9.jpg?v=1738980538
     Price: $26.00 USD
   - [Pink / 6-12m](https://baskandweave.com/products/baby-short-sleeve-one-piece?variant=47111065075962)
@@ -22274,130 +22274,130 @@
 ## Collections
 
 - [Men's T-Shirts](https://baskandweave.com/collections/mens-premium-t-shirts): Discover our Premium T-Shirts, where comfort meets style. Each piece is crafted with high-quality fabrics and unique designs, perfect for anyone who values both fashion and quality.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 18
 - [Women's T-Shirts](https://baskandweave.com/collections/womens-t-shirts): Discover our collection of stylish and comfortable women's t-shirts, perfect for every occasion. From classic basics to trendy designs, our t-shirts are crafted with premium fabrics for a soft and flattering fit. Whether you’re dressing up or keeping it casual, find your new favorite tee today
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 23
 - [Women's Jackets & Vests](https://baskandweave.com/collections/womens-jackets-vests): Elevate your wardrobe with our collection of women's jackets and vests, designed for both style and practicality. From chic, tailored jackets to cozy, insulated vests, our pieces are perfect for layering and enhancing any outfit. Stay warm, comfortable, and effortlessly fashionable all year round.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 6
 - [Men's Jackets & Vests](https://baskandweave.com/collections/mens-jackets-vests): Explore our versatile range of jackets and vests, designed to keep you stylish and comfortable in any season. From sleek, lightweight vests to cozy, weather-ready jackets, our collection combines functionality with fashion. Perfect for layering or making a statement, find your ideal outerwear piece today.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 7
 - [Men's Hoodies](https://baskandweave.com/collections/mens-hoodies): Stay comfortable and stylish with our collection of men's hoodies and sweatshirts. Perfect for casual wear or layering, these versatile pieces feature premium fabrics, modern designs, and a relaxed fit. Whether you’re lounging, working out, or on the go, find your new favorite hoodie or sweatshirt today.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 16
 - [Women's Hoodies](https://baskandweave.com/collections/womens-hoodies): Stay cozy and chic with our collection of women's hoodies, designed for ultimate comfort and effortless style. From classic fits to trendy designs, our hoodies are perfect for lounging, working out, or casual outings. Discover your new go-to piece for every season.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 14
 - [Men's Sweatshirts](https://baskandweave.com/collections/mens-sweatshirts): Upgrade your casual wardrobe with our collection of men's sweatshirts. Crafted for comfort and style, these versatile pieces are perfect for layering or wearing on their own. Featuring premium fabrics and modern designs, our sweatshirts are ideal for any occasion, from lounging to heading out.
-  Updated: 2025-11-08T23:41:43Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 8
 - [Women's Sweatshirts](https://baskandweave.com/collections/womens-sweatshirts): Discover our collection of women's sweatshirts, where comfort meets style. Perfect for layering or wearing on their own, these versatile pieces feature soft fabrics and modern designs. Whether you're relaxing at home or stepping out, our sweatshirts are your go-to for cozy, effortless fashion.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 6
 - [Men's All-Over Shirts](https://baskandweave.com/collections/mens-all-over-print-shirts): Make a bold statement with our collection of men's all-over print shirts. Featuring eye-catching designs and vibrant patterns, these shirts combine style and comfort for any occasion. Perfect for standing out in casual or creative settings, find your unique look today.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 7
 - [Men's Polo Shirts](https://baskandweave.com/collections/mens-polo-shirts): Elevate your wardrobe with our collection of men's polo shirts. Combining classic style with modern comfort, these versatile shirts are perfect for any occasion, from casual outings to smart-casual events. Explore timeless designs crafted with premium fabrics for a polished and comfortable fit.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:40Z
   Total Products: 2
 - [Men's Tank Tops](https://baskandweave.com/collections/mens-tank-tops): Stay cool and stylish with our collection of men's tank tops. Perfect for workouts, lounging, or warm-weather days, these versatile tops feature lightweight fabrics and comfortable fits. Choose from a range of designs to suit your active and casual lifestyle.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 4
 - [Men's Long Sleeve Shirts](https://baskandweave.com/collections/mens-long-sleeve-shirts): Upgrade your wardrobe with our collection of men's long sleeve shirts. Perfect for layering or wearing on their own, these shirts combine style and comfort for any occasion. From casual designs to smart-casual options, find the perfect fit for your everyday look.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 8
 - [Men's Embroidered Shirts](https://baskandweave.com/collections/mens-embroidered-shirts): Add a touch of sophistication to your wardrobe with our collection of men's embroidered shirts. Featuring intricate detailing and premium craftsmanship, these shirts blend classic elegance with modern style. Perfect for special occasions or elevating your everyday look.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 11
 - [Men's Bottoms](https://baskandweave.com/collections/mens-bottoms): Explore our collection of men's bottoms, designed for comfort, style, and versatility. From casual shorts to tailored trousers and relaxed joggers, our selection offers the perfect fit for any occasion. Upgrade your wardrobe with pieces that combine functionality and modern design.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 12
 - [Women's Polo Shirts](https://baskandweave.com/collections/womens-polo-shirts): Discover the perfect blend of style and comfort with our collection of women's polo shirts. Designed for versatility, these timeless pieces are ideal for casual outings, active days, or smart-casual looks. Crafted with premium fabrics for a flattering fit and effortless style.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Women's Tank Tops](https://baskandweave.com/collections/womens-tank-tops): Stay cool and stylish with our collection of women's tank tops. Perfect for workouts, lounging, or warm-weather outings, these versatile tops feature breathable fabrics and flattering fits. Explore a range of designs to complement your active and casual lifestyle.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 6
 - [Women's Crop Tops](https://baskandweave.com/collections/womens-crop-tops): Elevate your style with our collection of women's crop tops. Perfect for casual outings, workouts, or layering, these trendy tops feature modern designs and comfortable fits. Pair them with your favorite high-waisted bottoms for a chic and effortless look.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 3
 - [Women's Embroidered Shirts](https://baskandweave.com/collections/womens-embroidered-shirts): Add a touch of elegance to your wardrobe with our collection of women's embroidered shirts. Featuring intricate designs and premium craftsmanship, these shirts blend timeless charm with modern style. Perfect for casual chic or special occasions, they’re a must-have for a refined look.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 13
 - [Women's Long Sleeve Shirts](https://baskandweave.com/collections/womens-long-sleeve-shirts): Stay stylish and comfortable with our collection of women's long sleeve shirts. Perfect for layering or wearing on their own, these versatile shirts feature flattering fits and modern designs. Ideal for any season, they’re a wardrobe essential for effortless everyday style.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 4
 - [Women Dresses](https://baskandweave.com/collections/women-dresses): Step out in style with our collection of women's dresses, designed for every occasion. From casual daywear to elegant evening looks, our dresses feature flattering cuts, premium fabrics, and on-trend designs. Discover the perfect piece to showcase your unique style and confidence.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 4
 - [Women's Sweatpants & Joggers](https://baskandweave.com/collections/womens-sweatpants-joggers): Stay comfortable and stylish with our collection of women's sweatpants and joggers. Perfect for lounging, workouts, or casual outings, these versatile pieces feature soft fabrics and modern designs for a flattering fit. Elevate your everyday look with effortless comfort and style.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 4
 - [Women's Leggings](https://baskandweave.com/collections/womens-leggings): Experience the perfect blend of comfort and style with our collection of women's leggings. Designed for workouts, lounging, or everyday wear, these versatile leggings feature premium fabrics for a flattering fit and all-day comfort. Find your new go-to pair today.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 4
 - [Women's Skirts](https://baskandweave.com/collections/womens-skirts): Elevate your wardrobe with our collection of women's skirts, designed to suit every occasion. From chic and casual styles to elegant and sophisticated looks, our skirts feature flattering fits and premium fabrics. Perfect for dressing up or keeping it effortless, find your favorite style today.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 3
 - [Women's Swimwear & Bras](https://baskandweave.com/collections/womens-swimwear-bras): Make a splash with our collection of women's swimwear and bras, designed for comfort and confidence. From stylish swimsuits to supportive bras, our range combines premium fabrics with flattering designs. Perfect for the beach, pool, or everyday wear, find your ideal fit today.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 18
 - [Kids & Youth All Shirts](https://baskandweave.com/collections/kids-youth-all-shirts): Explore our collection of kids' and youth shirts, crafted for comfort, durability, and style. From playful prints to classic designs, these shirts are perfect for everyday adventures or special occasions. Designed with premium fabrics, they’re a perfect fit for active, growing kids.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 12
 - [Kids & Youth Hoodies & Sweatshirts](https://baskandweave.com/collections/kids-youth-hoodies-sweatshirts): Keep them cozy and stylish with our collection of kids' and youth hoodies and sweatshirts. Designed for comfort and durability, these versatile pieces are perfect for school, play, or lounging. Featuring fun designs and premium fabrics, they’re a must-have for any season.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 5
 - [Kids & Youth Leggings](https://baskandweave.com/collections/kids-youth-leggings): Let them move freely and comfortably with our collection of kids' and youth leggings. Perfect for playtime, sports, or everyday wear, these leggings feature soft, stretchy fabrics and fun designs. Durable and versatile, they’re made to keep up with their active lifestyle.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Baby Bodysuits](https://baskandweave.com/collections/baby-bodysuits): Keep your little one cozy and adorable with our collection of baby bodysuits. Designed with soft, breathable fabrics and snap closures for easy changes, these bodysuits combine comfort, style, and practicality. Perfect for everyday wear or special moments, they’re a must-have for your baby’s wardrobe.
-  Updated: 2025-11-08T23:41:44Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Kids & Youth Swimwear](https://baskandweave.com/collections/kids-youth-swimwear): Make a splash with our collection of kids' and youth swimwear, designed for fun and comfort. Featuring vibrant colors, playful patterns, and durable fabrics, our swimwear is perfect for pool days, beach adventures, and water play. Keep them stylish and ready for aquatic fun.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Tote Bags](https://baskandweave.com/collections/tote-bags): Carry your essentials in style with our collection of tote bags. Perfect for everyday use, these spacious and versatile bags feature durable materials and trendy designs. Whether for work, travel, or shopping, our tote bags combine practicality with a chic, modern look.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 5
 - [Duffle Bags](https://baskandweave.com/collections/duffle-bags): Pack in style with our collection of duffle bags, designed for both functionality and fashion. Whether for the gym, weekend getaways, or travel, these spacious bags offer ample storage and durable materials. With sleek designs and comfort in mind, they’re the perfect companion for your on-the-go lifestyle.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Drawstring Bags](https://baskandweave.com/collections/drawstring-bags): Stay effortlessly stylish and organized with our collection of drawstring bags. Lightweight, durable, and versatile, these bags are perfect for the gym, day trips, or casual outings. Featuring trendy designs and convenient storage, they’re the ultimate grab-and-go accessory for any lifestyle.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 1
 - [Fanny Packs](https://baskandweave.com/collections/fanny-packs): Keep your essentials close with our collection of fanny packs. Designed for convenience and style, these compact and versatile bags are perfect for travel, outdoor adventures, or everyday use. Featuring adjustable straps and trendy designs, they’re a must-have accessory for hands-free ease.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [Backpacks](https://baskandweave.com/collections/backpacks): Gear up with our collection of backpacks, combining style, durability, and functionality. Perfect for school, work, travel, or adventures, these versatile bags feature spacious compartments and ergonomic designs. Explore trendy and practical options to carry your essentials with ease and comfort.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 2
 - [All Men's Clothing](https://baskandweave.com/collections/all-mens-clothing): Bask & Weave Men's clothing collection, featuring a wide range of styles to suit every occasion. From casual staples to polished looks, our selection includes shirts, hoodies, bottoms, and more. Designed with comfort, durability, and modern fashion in mind, find your perfect fit today.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 93
 - [All Women’s Clothing](https://baskandweave.com/collections/all-women-s-clothing): Women’s clothing collection at Bask & Weave where style meets versatility. From casual essentials to chic statement pieces, our range includes dresses, tops, bottoms, outerwear, and more. Designed with comfort and modern trends in mind, find the perfect look for any occasion.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 111
 - [All Kids & Youth Clothing](https://baskandweave.com/collections/all-kids-youth-clothing): Kids' and youth clothing, designed for comfort, durability, and fun at Bask & Weave. From playful prints to everyday essentials, our range includes shirts, hoodies, leggings, swimwear, and more. Perfect for active lifestyles and growing imaginations, find styles they'll love to wear.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:41Z
   Total Products: 23
 - [All Bags](https://baskandweave.com/collections/all-bags): Our bags collection, crafted for style and practicality only at Bask & Weave. From spacious tote bags to versatile backpacks, duffle bags, drawstring bags, and fanny packs, we have options for every need. Designed with durability and modern trends in mind, find the perfect bag for any occasion.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:42Z
   Total Products: 12
 - [Women's Bottoms](https://baskandweave.com/collections/womens-bottoms): Elevate your wardrobe with our collection of women's bottoms. From comfortable leggings and joggers to chic skirts and tailored pants, our selection offers styles for every occasion. Designed with premium fabrics and flattering fits, find the perfect piece to complete your look.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:42Z
   Total Products: 9
 - [Chosen Products For More To Shop](https://baskandweave.com/collections/best-selling-products-men)
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:42Z
   Total Products: 16
 - [New Arrivals](https://baskandweave.com/collections/new-arrivals): Discover our New Arrival Products here at Bask & Weave made for you.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:42Z
   Total Products: 12
 - [Embroidered Collection](https://baskandweave.com/collections/embroidered-collection): Discover our Bask & Weave (Bask And Weave) Embroidered Collection – a perfect blend of elegance and craftsmanship. Featuring beautifully stitched designs on premium fabrics, each piece adds a touch of sophistication to your style. Shop now and elevate your wardrobe with timeless embroidery.
-  Updated: 2025-11-08T23:41:45Z
+  Updated: 2025-11-09T02:56:42Z
   Total Products: 25
 
 ## Store Pages
