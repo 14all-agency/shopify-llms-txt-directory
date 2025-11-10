@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-06T00:00:49.432Z
+- Updated At: 2025-11-10T00:00:29.395Z
 
 ## Products
 
@@ -1766,8 +1766,8 @@
   Updated: 2025-02-07T08:04:26Z
   Total Products: 0
 - [Drone Agricole](https://droneagricole.ro/collections/drone-agricole)
-  Updated: 2025-10-12T13:47:08Z
-  Total Products: 30
+  Updated: 2025-11-07T12:41:10Z
+  Total Products: 31
 - [DJI Agras](https://droneagricole.ro/collections/dji-agras)
   Updated: 2025-10-23T12:12:38Z
   Total Products: 35
