@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-07T00:00:30.422Z
+- Updated At: 2025-11-10T00:00:32.626Z
 
 ## Products
 
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/09E2E2A1-64D8-4E04-9306-6E6D8E08AAB5.png?v=1761696389
     Price: €115.00 EUR
 - [Men’s Polo Zipper Shirt](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready): Level up your fit with the Polo Zipper Shirt – a fresh twist on the classic polo. Designed with a clean zip-up collar instead of buttons, this piece brings effortless style that works from casual hangouts to late-night vibes. 🔥 Why You Need It: Modern zipper detail for a bold, standout look Breathable fabric – comfy enough for all-day wear Versatile fit – dress it up with chinos or keep it street with jeans/joggers Minimalist design that always looks premium Whether you’re pulling up to class, work, or a night out, this polo zipper keeps you looking sharp without trying too hard.
-  Updated: 2025-11-06T12:30:01Z
+  Updated: 2025-11-07T00:14:27Z
   Vendor: Mldrip
   Product Type: Tops
   Availability: Available
@@ -460,7 +460,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/966DB829-D917-4533-BE5E-FEFF5CFEFCDC.png?v=1761696392
     Price: €78.99 EUR
-  - [white-black-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483025233)
+  - [white-black-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483025233)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/966DB829-D917-4533-BE5E-FEFF5CFEFCDC.png?v=1761696392
     Price: €78.99 EUR
@@ -472,7 +472,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21E62EDA-149A-401A-8B59-834F9D3DE63E.png?v=1761696392
     Price: €78.99 EUR
-  - [light-blue-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483123537)
+  - [light-blue-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483123537)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/21E62EDA-149A-401A-8B59-834F9D3DE63E.png?v=1761696392
     Price: €78.99 EUR
@@ -484,7 +484,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6807FEE-9275-4B3F-A035-C3C9B2213BF4.png?v=1761696394
     Price: €78.99 EUR
-  - [black-white-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483221841)
+  - [black-white-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483221841)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/E6807FEE-9275-4B3F-A035-C3C9B2213BF4.png?v=1761696394
     Price: €78.99 EUR
@@ -496,7 +496,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/44FE8BCD-D4C4-4FCC-84E5-EB842AE0777F.png?v=1761696394
     Price: €78.99 EUR
-  - [red-blue-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483320145)
+  - [red-blue-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483320145)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/44FE8BCD-D4C4-4FCC-84E5-EB842AE0777F.png?v=1761696394
     Price: €78.99 EUR
@@ -508,7 +508,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/894A70FC-D7ED-409D-8341-8899FDEB9494.png?v=1761696390
     Price: €78.99 EUR
-  - [red-black-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483418449)
+  - [red-black-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483418449)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/894A70FC-D7ED-409D-8341-8899FDEB9494.png?v=1761696390
     Price: €78.99 EUR
@@ -520,7 +520,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/957A6283-76C4-439C-AB2B-FCFCFD57BD7F.png?v=1761696396
     Price: €78.99 EUR
-  - [black-grey-polo-zipper-shirt / XXL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483516753)
+  - [black-grey-polo-zipper-shirt / 2XL](https://mldrip.com/products/men-s-polo-zipper-shirt-smart-sleek-street-ready?variant=51984483516753)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/957A6283-76C4-439C-AB2B-FCFCFD57BD7F.png?v=1761696396
     Price: €78.99 EUR
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_96dc4c98-615b-402d-9655-ae6e78eefcf2.jpg?v=1761696413
     Price: €125.99 EUR
 - [Polo Ralph Laurens Hoodie-Set](https://mldrip.com/products/untitled-sep10_00-49): Introducing Ralph Lauren's Hoodie-Set, made with premium quality fabric for all-day comfort and durability. The adjustable fit allows for a perfect fit every time while showcasing the iconic red pony emblem. Designed with eco-conscious materials, this sustainable choice makes for an ideal gift for any occasion.
-  Updated: 2025-11-06T12:30:02Z
+  Updated: 2025-11-08T20:12:46Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -14686,7 +14686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
     Price: €159.99 EUR
 - [Unisex Loose Fit Y2K Streetwear Hoodie – Letter Print Hip Hop Sweatshirt](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt): SPECIFICATIONS Collar: O-Neck Decoration: None Material: POLYESTER Sleeve Length(cm): Full Style: Other Thickness: Thick Y2K Streetwear Style Embrace the Y2K era with this trendy streetwear piece, perfect for those who love to stand out. Durable Material Crafted from high-quality polyester, this sweatshirt offers durability and longevity. Comfortable Fit The loose fit of this sweatshirt ensures maximum comfort, ideal for casual wear or lounging at home. Versatile Accessory Whether you're hitting the streets or heading to a casual event, this sweatshirt is a versatile accessory. Unisex Design This versatile garment is designed to fit both men and women, making it a great addition to any wardrobe.
-  Updated: 2025-11-06T17:39:05Z
+  Updated: 2025-11-07T07:08:22Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -14891,6 +14891,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1762450744
     Price: €38.99 EUR
+- [Warm Men's Black Puffer Jacket for Comfort and Cold Weather](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather): Stay warm and stylish all season with this men’s black puffer jacket, designed for ultimate comfort and protection against cold weather. Crafted from premium lightweight materials, it delivers high insulation without feeling bulky — perfect for everyday wear, travel, or outdoor adventures. With its sleek modern fit, zip-up front, and soft inner lining, this jacket combines functionality and streetwear style in one. The water-resistant outer shell helps keep you dry, while the adjustable hood and secure pockets give you practical comfort wherever you go. Features: 🔥 Ultra-warm insulation for freezing temperatures 💧 Water & wind-resistant shell to handle winter weather 🎯 Tailored streetwear fit — stylish yet comfortable 🧥 Lightweight & breathable design for all-day wear 🎒 Multiple zip pockets for your essentials Why You’ll Love It: Whether you’re out in the city or hitting the outdoors, this black puffer jacket keeps you cozy, confident, and on-trend. It’s built for warmth, comfort, and modern street style — a must-have for every winter wardrobe. 🛒 Shop now on Mldrip.com ✅ Fast worldwide shipping ✅ Limited stock available – order before it’s gone!
+  Updated: 2025-11-07T15:09:13Z
+  Vendor: Mldrip
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_82303de1-e705-44a5-9b80-3a6f808bec99.jpg?v=1762473331
+  - [Black / XS](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293633835345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / S](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635047761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / M](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635080529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / L](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635113297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / XL](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635146065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / 2XL](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635178833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
+  - [Black / 3XL](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather?variant=52293635211601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_00e9e661-8d67-408e-871d-52e100757536.jpg?v=1762473377
+    Price: €119.99 EUR
 
 ## Collections
 
@@ -14898,7 +14932,7 @@
   Updated: 2025-11-06T12:30:16Z
   Total Products: 20
 - [Tracksuit Sets](https://mldrip.com/collections/tracksuit-sets)
-  Updated: 2025-11-06T17:16:23Z
+  Updated: 2025-11-09T12:25:46Z
   Total Products: 23
 - [Pants](https://mldrip.com/collections/pants)
   Updated: 2025-11-06T12:30:16Z
@@ -14910,10 +14944,10 @@
   Updated: 2025-11-06T12:30:16Z
   Total Products: 38
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-11-06T23:50:39Z
+  Updated: 2025-11-09T12:25:46Z
   Total Products: 121
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-11-06T23:50:39Z
+  Updated: 2025-11-07T00:02:14Z
   Total Products: 17
 
 ## Blogs
