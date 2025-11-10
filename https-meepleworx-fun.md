@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-10T18:50:23.038Z
+- Updated At: 2025-11-10T20:56:42.224Z
 
 ## Products
 
@@ -2262,7 +2262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-meeple-worx-ltd-VmE.jpg?v=1760888435
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2025-11-10T18:43:00Z
+  Updated: 2025-11-10T20:56:16Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2958,7 +2958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/DraughtsBoardGame.png?v=1760902498
   Price: £7.00 GBP
 - [Santa's Driving Licence - Magical Christmas Accessory](https://meepleworx.fun/products/santas-driving-licence): Get your very own Santa's Driving Licence! This magical Christmas accessory adds festive fun to your holiday celebrations. Perfect for gifts or festive decor.
-  Updated: 2025-11-10T17:33:55Z
+  Updated: 2025-11-10T20:53:55Z
   Vendor: PoundFun
   Product Type: Christmas
   Availability: Available
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/barbie-reusable-shopping-bag-for-sustainable-and-stylish-shopping-meeple-worx-ltd-OMj.png?v=1760902248
   Price: £4.00 GBP
 - [Harry Potter Trivial Pursuit - Ultimate Fan Quiz Challenge Adventure](https://meepleworx.fun/products/harry-potter-trivial-pursuit): Unleash your inner wizard with the Harry Potter Trivial Pursuit! Test your knowledge in the ultimate fan quiz challenge designed for true enthusiasts.
-  Updated: 2025-11-10T17:33:56Z
+  Updated: 2025-11-10T20:47:06Z
   Vendor: PoundFun
   Product Type: Board Games
   Availability: Available
@@ -3918,7 +3918,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/drinkopoly-the-king-of-drinking-games-meeple-worx-ltd-Vyq.jpg?v=1760902154
   Price: £24.99 GBP
 - [Monopoly Cheaters Edition - Play the Game with a Twist and Win!](https://meepleworx.fun/products/monopoly-cheaters-edition-1): Elevate your family game night with the Monopoly Cheaters Edition! Embrace fun deception and strategic gameplay, where sneaky tactics lead to victory.
-  Updated: 2025-11-08T16:16:52Z
+  Updated: 2025-11-10T19:45:07Z
   Vendor: Snaps
   Product Type: 
   Availability: Available
@@ -4382,7 +4382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/buzz-that-elevate-your-senses-with-our-premium-buzzing-experience-meeple-worx-ltd-pnB.png?v=1760901708
   Price: £6.00 GBP
 - [Coloured Dice for All Your Gaming Needs - Perfect for Every Player](https://meepleworx.fun/products/coloured-dice): Elevate your gaming experience with our vibrant coloured dice. Perfect for tabletop games, D&D, and more, these dice will add a splash of color to every roll!
-  Updated: 2025-11-10T17:42:46Z
+  Updated: 2025-11-10T20:33:36Z
   Vendor: PoundFun
   Product Type: Toys and Games
   Availability: Available
@@ -4958,13 +4958,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T103835.430.png?v=1761409498
   Price: £59.99 GBP
-- [Duplo Truck and Tracked Excavator Set for Creative Building Fun](https://meepleworx.fun/products/duplo-truck-and-tracked-excavator-set-for-toddlers-ages-2-up): Unleash creativity with the Duplo Truck and Tracked Excavator Set! Perfect for endless building adventures, this set offers imaginative fun for young builders.
-  Updated: 2025-11-10T17:31:26Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Duplo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/10931_Box1_v29.jpg?v=1761467753
-  Price: £17.99 GBP
 - [Duplo Alphabet Truck Playset - Fun Learning Toy for Kids & Toddlers](https://meepleworx.fun/products/duplo-alphabet-truck-playset-for-toddlers-ages-2-up): Discover the Duplo Alphabet Truck Playset, an engaging learning toy for kids! Perfect for enhancing letters and language skills through fun playtime activities.
   Updated: 2025-11-08T16:17:08Z
   Vendor: Curious Minds
@@ -5498,7 +5491,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T153957.965.png?v=1761468332
   Price: £59.99 GBP
 - [Lego Minecraft Creeper Playset - Buildable Adventure Awaits Today](https://meepleworx.fun/products/lego-minecraft-creeper-playset-buildable-playset-for-ages-10-and-up): Unleash creativity with the Lego Minecraft Creeper Playset! Build your own adventures in the Minecraft universe. Perfect for fans and builders alike. Buy now!
-  Updated: 2025-11-10T15:57:03Z
+  Updated: 2025-11-10T20:09:10Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
@@ -6728,7 +6721,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T164629.941.png?v=1762388365
   Price: £44.99 GBP
 - [Lego City F1 Williams Racing & Haas F1 Race Cars - Speed and Fun](https://meepleworx.fun/products/lego-city-f1-williams-racing-haas-f1-race-cars): Discover excitement with the Lego City F1 Williams Racing & Haas F1 Race Cars! Perfect for racing fans and builders, this set offers endless fun and creativity.
-  Updated: 2025-11-10T10:37:54Z
+  Updated: 2025-11-10T20:14:49Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
@@ -7218,7 +7211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T151826.566.png?v=1762388594
   Price: £69.99 GBP
 - [Lego Harry Potter 76424 Flying Ford Anglia Playset for Ages 7 and Up](https://meepleworx.fun/products/lego-harry-potter-76424-flying-ford-anglia-playset-for-ages-7-and-up): Give kids a magical introduction to the Wizarding World with this buildable model of the Weasleys’ enchanted Flying Ford Anglia™ car. Adventure toy playset featuring 4 LEGO® Harry Potter™ characters – Harry Potter and Ron Weasley™ minifigures, Hedwig™ and Scabbers™ figures, plus a suitcase and 2 wand elements. Ford Anglia toy car – Features opening doors, a removable roof, seats for the 2 minifigures and space behind for Hedwig™, plus an opening trunk with room inside for the suitcase, wands and Scabbers™. Fun building toy for role play – Kids can recreate the iconic Harry Potter and the Chamber of Secrets™ scene where Harry and Ron fly the car to Hogwarts™. Recommended for ages 7+
-  Updated: 2025-11-10T17:01:11Z
+  Updated: 2025-11-10T20:18:36Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Harry Potter
   Availability: Available
@@ -8017,10 +8010,17 @@
 - [Frequently Asked Questions - Find answers to your queries here](https://meepleworx.fun/pages/frequently-asked-questions): Do you ship internationally? While we are a new company and based in the UK we try to focus on our home market as much as possible.However, if our ...
   Updated: 2025-11-09T02:25:23Z
 
+## Policies
+
+- [Privacy Policy](https://meepleworx.fun/policies/privacy-policy)
+  Updated: 2025-09-29T20:32:34+02:00
+- [Contact Information](https://meepleworx.fun/policies/contact-information)
+  Updated: 2025-09-30T22:26:07+02:00
+
 ## Alternate Currencies & Languages
 
-- [International (en / undefined)](https://meepleworx.fun/llms.txt?market=international)
-- [United Kingdom (en / undefined)](https://meepleworx.fun/llms.txt?market=gb)
+- [International (en / GBP)](https://meepleworx.fun/llms.txt?market=international)
+- [United Kingdom (en / GBP)](https://meepleworx.fun/llms.txt?market=gb)
 
 ## Social Media
 Facebook: https://facebook.com/meepleworx.fun
