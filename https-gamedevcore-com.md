@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
-- Updated At: 2025-11-07T00:00:31.217Z
+- Updated At: 2025-11-10T00:00:33.147Z
 
 ## Products
 
