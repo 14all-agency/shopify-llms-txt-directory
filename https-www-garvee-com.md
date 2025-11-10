@@ -8,7 +8,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2023-02-10T01:47:03Z
 - Contact Email: hello@garvee.com
-- Updated At: 2025-11-10T07:27:35.634Z
+- Updated At: 2025-11-10T08:02:39.673Z
 
 Garvee is an e-commerce platform offering a diverse range of products, including home improvement tools, family recreation items, and commercial equipment. They emphasize quality, affordability, and fast delivery, aiming to be a trusted partner for both families and businesses.
 
@@ -64,7 +64,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/20_Gal-Electric-Metal-01_33ca1057-8e11-445a-83d3-3aa9fe7aa2db.jpg?v=1736154643
   Price: $179.99 USD
 - [Garvee Ride - P Series: 3-in-1 Ride-On Tractor, 24V Electric, Excavator & Bulldozer, Remote Control, LED, Music, USB/Bluetooth max 66 lbs - Bright-Yellow](https://www.garvee.com/products/24v-ride-on-tractor-pto-0z2n5mpd): Explore the GARVEE 3-in-1 Ride-On Tractor, perfect for indoor and outdoor play. This versatile electric vehicle offers endless fun with its excavator and bulldozer features!
-  Updated: 2025-11-10T05:57:42Z
+  Updated: 2025-11-10T07:25:42Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
@@ -169,7 +169,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/image_1_9db85986-2637-4780-992e-1fd1ed2a92ac.jpg?v=1718873434
   Price: $259.99 USD
 - [GARVEE Portable AC/Dehumidifier & Fan - 3-In-1, 12000 BTU](https://www.garvee.com/products/12000-btu-air-conditioner-pho-10htzuf4): Experience ultimate comfort with the GARVEE 3-in-1 Portable AC, Dehumidifier, and Fan. Ideal for 450-550 sq. ft, it features fast cooling and a dust filter.
-  Updated: 2025-11-10T01:33:15Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Air Conditioners & Accessories > Portable Air Conditioner > Fixed frequency
   Availability: Available
@@ -561,7 +561,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71wZWNaAIZL.jpg?v=1719628878
   Price: $230.99 USD
 - [GARVEE 48 Inch Pallet Fork Blades for Skid Steers and Tractors](https://www.garvee.com/products/skid-steer-pallet-fork-blades-pho-0zgyivzk): Upgrade your skid steer with GARVEE 48" Pallet Fork Blades. Durable, 4000lbs capacity, adjustable connectors, and easy installation for versatile material handling.
-  Updated: 2025-11-10T06:58:13Z
+  Updated: 2025-11-10T07:25:40Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Pallet Forks
   Availability: Available
@@ -582,7 +582,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61UJFtahHDL.jpg?v=1718948254
   Price: $339.99 USD
 - [GARVEE 48x24 Inch Adjustable Workbench - Heavy-Duty & Versatile](https://www.garvee.com/products/48x24-inch-adjustable-workbench-pho-0zea5rtf): Discover the GARVEE Adjustable Workbench with a solid rubber wood top, 2000 lbs capacity, adjustable height, and built-in power outlets for ultimate convenience.
-  Updated: 2025-11-10T01:43:34Z
+  Updated: 2025-11-10T07:25:44Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Workbenches & Accessories > Adjustable Workbench
   Availability: Available
@@ -680,7 +680,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61yXry7USgL.jpg?v=1718882651
   Price: $129.99 USD
 - [GARVEE Large Outdoor Tall Planter - Versatile Self-Watering Pots](https://www.garvee.com/products/garvee-outdoor-tall-planter-black-high-pho-11gdapzn): Elevate your indoor and outdoor decor with GARVEE's large self-watering planters. Perfect for vibrant plants, these versatile pots ensure optimal hydration effortlessly.
-  Updated: 2025-11-10T04:31:34Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Plant Pots
   Availability: Available
@@ -1086,7 +1086,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/716zjzvrfdL.jpg?v=1718883195
   Price: $169.99 USD
 - [GARVEE Classroom Coat Locker: Versatile Storage Solution for Schools](https://www.garvee.com/products/garvee-classroom-coat-locker-10-cubbies-pho-11bcsc0l): Discover the GARVEE Classroom Coat Locker, perfect for classrooms and daycare centers. Its multifunctional design features ample storage, ensuring organization and safety for kids.
-  Updated: 2025-11-09T17:08:23Z
+  Updated: 2025-11-10T07:58:17Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Cabinets & Shelves
   Availability: Available
@@ -1128,7 +1128,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/c48fbf000ab7756d627a22f8e519c50e.jpg?v=1722330458
   Price: $136.99 USD
 - [GARVEE Kids Art Table & Chairs - Creative Space for Young Artists](https://www.garvee.com/products/garvee-kids-art-table-2-chairs-pto-0yxmgjq6): Transform your child's play area with the GARVEE Kids Art Table & Chairs Set. Perfect for creativity, collaboration, and organized fun for ages 2-10!
-  Updated: 2025-11-10T04:31:30Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Tables & Chairs
   Availability: Available
@@ -1156,7 +1156,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ukOR76nLL.jpg?v=1718883078
   Price: $337.99 USD
 - [Elevate Your Pet's Dining Experience with GARVEE Pet Food Cabinet](https://www.garvee.com/products/garvee-pet-food-cabinet-elevated-bowls-pho-119rjk85): Discover the GARVEE Pet Food Cabinet, a stylish feeding station with ample storage, elevated bowls, and a discreet design perfect for pet owners.
-  Updated: 2025-11-10T04:31:09Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Home & Furniture > Pets' Supplies > Dog Furniture
   Availability: Available
@@ -1198,7 +1198,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CGOyQYqAL.jpg?v=1751353557
   Price: $149.99 USD
 - [GARVEE 360° Rotatable End Table with Charging Station - Versatile for Any Space](https://www.garvee.com/products/garvee-idealhouse-rotating-end-table-360-pho-0zuw88an): Discover the GARVEE 360° Rotatable End Table, perfect for indoor use. This multifunctional table features a charging station and extra storage for ultimate convenience.
-  Updated: 2025-11-10T05:58:41Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > End & Side Tables
   Availability: Available
@@ -1275,7 +1275,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71G2Yh-fLNL._AC_SL1500.jpg?v=1756882915
   Price: $59.99 USD
 - [GARVEE Folding Dining Table - Versatile for Indoor and Outdoor Use](https://www.garvee.com/products/garvee-amyove-folding-dining-table-space-pho-0y5qytni): Discover the GARVEE Folding Dining Table, perfect for dining, working, and entertaining. Its space-saving design makes it ideal for various indoor and outdoor settings.
-  Updated: 2025-11-10T07:04:20Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -1296,7 +1296,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71oyTycGi3L.jpg?v=1718883010
   Price: $67.99 USD
 - [GARVEE Kitchen Table Set - Retro Brown](https://www.garvee.com/products/garvee-kitchen-table-set-retro-cozy-pho-0xjxrll9-2): Discover the GARVEE Kitchen Table Set, perfect for indoor dining or cozy gatherings. Its versatile design suits various uses, combining retro charm with modern functionality.
-  Updated: 2025-11-10T07:03:07Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -1877,7 +1877,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51tUckFEgOL_303fe601-2485-4121-bfcc-bdfb307dbe64.jpg?v=1749001237
   Price: $226.99 USD
 - [GARVEE 10 Ton Porta Power Kit - Reliable Hydraulic Repair Solution](https://www.garvee.com/products/10-ton-porta-power-kit-pau-0jvr73u1): Experience fast shipping and excellent customer service with our GARVEE 10 Ton Porta Power Kit. Enjoy free shipping and easy returns for a hassle-free shopping experience!
-  Updated: 2025-11-05T01:35:48Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Automotive > Hydraulic Rams & Tools > Porta Power Kit
   Availability: Available
@@ -1898,7 +1898,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/7106lDzk29L.jpg?v=1718889022
   Price: $599.98 USD
 - [Garvee Ride - T Series: 36V Kids Electric Dirt Bike, 350W/15.5MPH Brushless Motor, LED, Comfortable Leather Seat, 175lbs Max Load Capacity- Black](https://www.garvee.com/products/kids-electric-bike-pto-0ykg): Experience thrilling outdoor adventures with the GARVEE 36V Kids Electric Dirt Bike. This versatile bike is perfect for various riding scenarios, ensuring endless fun!
-  Updated: 2025-11-10T03:45:15Z
+  Updated: 2025-11-10T07:38:45Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Motorcycles
   Availability: Available
@@ -2121,6 +2121,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1753502189453.png?v=1753502236
   Price: $329.99 USD
+- [Garvee Tow Spike Aerator 48 Inch Galvanized Steel for Lawn Farm Tractor](https://www.garvee.com/products/48-inch-soil-aerator-pho-11adkmn9): Transform your lawn care with the GARVEE 48" Tow Behind Spike Aerator. Durable steel construction, effective soil penetration, and wide coverage ensure vibrant lawns.
+  Updated: 2025-11-10T07:38:49Z
+  Vendor: Garvee
+  Product Type: Power & Hand Tools > Punching Tools > Hydraulic Knockout Punch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/31wkSFlZsML.jpg?v=1718888849
+  Price: $211.99 USD
 - [GARVEE 17 Gallon Swing Open Trash Can - Versatile and Durable](https://www.garvee.com/products/65l-trash-can-with-swing-top-pis-00y6zce8): Discover the GARVEE 17 Gallon Swing Open Trash Can, perfect for indoor and outdoor use. Its multifunctional design suits homes, restaurants, and offices.
   Updated: 2025-11-10T04:30:58Z
   Vendor: Garvee
@@ -2178,7 +2185,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61YjAktMHSL.jpg?v=1718964806
   Price: $159.99 USD
 - [GARVEE 12V Ride on Car for Kids - Multi-Functional Outdoor Fun](https://www.garvee.com/products/12v-ride-on-car-pto-0ysfht3j): Explore the outdoors with the GARVEE 12V Ride on Car, perfect for kids 3+. This multi-functional toy features remote control, MP3, and safety features for endless adventures.
-  Updated: 2025-11-10T03:45:24Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Cars
   Availability: Available
@@ -2262,7 +2269,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71PUU_aVOEL.jpg?v=1718888785
   Price: $663.99 USD
 - [GARVEE 2x 4.80-12 Trailer Tires with Rims - Fast Shipping & Free Returns](https://www.garvee.com/products/garvee-trailer-tires-pau-0fqp3muo): Experience top-notch customer service with fast shipping and quality support. Enjoy free shipping and hassle-free returns for an unbeatable shopping experience!
-  Updated: 2025-11-10T03:04:22Z
+  Updated: 2025-11-10T07:59:15Z
   Vendor: Garvee
   Product Type: Automotive > Tire & Wheel Tools > Trailer Tires
   Availability: Available
@@ -2360,7 +2367,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71gs3tDjItL.jpg?v=1718948272
   Price: $204.99 USD
 - [GARVEE 10x10 FT Pop Up Canopy Tent - Waterproof & UV Resistant Shelter](https://www.garvee.com/products/pop-up-canopy-pho-10au): Experience the GARVEE 10x10 FT Pop Up Canopy Tent, designed for quick setup, 100% waterproof, and UV resistant, perfect for any outdoor event or gathering.
-  Updated: 2025-11-10T05:04:27Z
+  Updated: 2025-11-10T07:57:18Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Shade > Canopy Tents
   Availability: Available
@@ -2563,7 +2570,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81S4EgR_oFL.jpg?v=1718889337
   Price: $146.99 USD
 - [Garvee 2 Cubic Feet Fireproof Home Safe Box, Large Steel Safe with Digital Lock for Cash Jewelry Home Firearm Medicine Valuables](https://www.garvee.com/products/garvee-safe-box-pho-0za0813k): Discover the GARVEE 2 Cu Ft Steel Safe with a digital lock. Fireproof, spacious, and durable—perfect for protecting cash and jewelry at home.
-  Updated: 2025-11-10T07:17:42Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Security > Safes > Biometric Safes
   Availability: Available
@@ -2871,7 +2878,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41kN5PaUSbL.jpg?v=1719302347
   Price: $68.99 USD
 - [GARVEE 1500Lbs Tri-Fold Loading Ramps - Heavy Duty Steel Ramps for Efficient Loading](https://www.garvee.com/products/1000lbs-tri-fold-loading-ramps-pau-0kyknusg): Discover GARVEE's Heavy-Duty Tri-Fold Loading Ramps, crafted from durable aluminum for 1500 lbs capacity. Enjoy quick setup, non-slip surface, and compact storage!
-  Updated: 2025-11-10T04:31:04Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Material Handling > Ramps & Ladders > Loading Ramps
   Availability: Available
@@ -2997,7 +3004,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/418x9hPQUVL.jpg?v=1718889525
   Price: $192.99 USD
 - [Stylish GARVEE 10 Drawer Dresser for Versatile Home Organization](https://www.garvee.com/products/dresser-for-bedroom-pho_0wol50g4): Discover the GARVEE 10 Drawer Dresser, perfect for bedrooms and living rooms. Its multi-functional design offers ample storage for any space.
-  Updated: 2025-11-10T01:39:38Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -3711,7 +3718,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71o3Hl7of6L_cde5bcc1-a428-45a2-a141-8a9b3b0e419f.jpg?v=1718888640
   Price: $306.99 USD
 - [GARVEE 5.3 Cu.Ft. Cake Display - LED, Double Glass, 110v](https://www.garvee.com/products/5-3-cu-cake-display-pho_11yw): Showcase your cakes with GARVEE's 5.3 Cu.Ft. display featuring 360° LED lighting, smart temperature control, and double-layer glass for optimal freshness.
-  Updated: 2025-11-10T04:31:12Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Refrigeration & Ice Equipment > Merchandising Refrigerators
   Availability: Available
@@ -3802,7 +3809,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61vvHO6k3_L.jpg?v=1718948241
   Price: $80.99 USD
 - [GARVEE Electric Bumper Car for Kids - Fun Indoor/Outdoor Ride-On](https://www.garvee.com/products/electric-bumper-car-pto-0yzdt8mk): Discover the GARVEE Electric Bumper Car, perfect for indoor and outdoor fun! This versatile ride-on offers thrilling 360-degree spins and safe play for kids.
-  Updated: 2025-11-10T06:57:05Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Bumper Cars
   Availability: Available
@@ -3914,7 +3921,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41B5cTuc_nL.jpg?v=1718889169
   Price: $100.99 USD
 - [GARVEE 59 inch Farmhouse TV Stand - Versatile Storage for Living Spaces](https://www.garvee.com/products/garvee-modern-farmhouse-sliding-barn-door-tv-stand-pho-0pv82c6j): Discover the GARVEE 59" Farmhouse TV Stand, perfect for indoor use. Its multi-functional design suits various decor styles while providing ample storage.
-  Updated: 2025-11-10T04:31:04Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > TV Stands & Media Consoles
   Availability: Available
@@ -3963,7 +3970,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51A07bFKegL.jpg?v=1738835719
   Price: $79.99 USD
 - [GARVEE 48x24 Inch Stainless Steel Table - Versatile Work Table for Kitchen, Laundry, and Outdoor Cooking](https://www.garvee.com/products/garvee-stainless-steel-prep-table-pho-0x64o428): Discover the GARVEE 48x24 Inch Stainless Steel Work Table, perfect for kitchens, laundries, and outdoor cooking. Its foldable design and adjustable features ensure versatility for any space.
-  Updated: 2025-11-10T06:58:12Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Stainless Steel Work Table
   Availability: Available
@@ -3991,7 +3998,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61wLoaqIvEL_0e40d51e-ce97-4f0e-a17c-3a523dd2e7e1.jpg?v=1736237794
   Price: $204.99 USD
 - [GARVEE 6x5.5 Wheel Spacers for Escalade, Tahoe, Silverado, and More](https://www.garvee.com/products/garvee-wheel-spacers-pau-0he9tvzu): Experience top-notch customer service with fast shipping and quality support. Enjoy free shipping and hassle-free returns on GARVEE wheel spacers!
-  Updated: 2025-11-08T04:31:04Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Automotive > Steering & Suspension Tool > Body & Suspension Lift Kits
   Availability: Available
@@ -4012,7 +4019,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71bvJKTA11L.jpg?v=1736322612
   Price: $1,479.99 USD
 - [Garvee 12'x16' All-Weather Hardtop Gazebo - Double Metal Roof & Aluminum Frame with Net & Curtain for Patio, Deck & Backyard (Grey)](https://www.garvee.com/products/gazebo-outdoor-metal-pavilion-vam_1epvqdr3): GARVEE 12'x16' hardtop gazebo features a durable galvanized steel roof, rustproof aluminum frame, double-layer curtains for privacy, and an advanced gutter system. Perfect for patios, decks, or backyards—enjoy all-weather protection and easy airflow.
-  Updated: 2025-11-10T04:01:37Z
+  Updated: 2025-11-10T07:25:42Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Shade > Gazebos
   Availability: Available
@@ -4131,21 +4138,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/001.png?v=1729750621
   Price: $329.99 USD
 - [Garvee 12'x20' Outdoor Hardtop Gazebo with Netting and Sunshade Curtains for Patio Terrace Lawn Deck Aluminium Grey](https://www.garvee.com/products/steel-hardtop-gazebo-pho_12rw2iim): Attention: 1.Regardless of the surface on which the gazebo is installed, it is essential to use ground nails, ropes, and expansion screws to ensure the stability of the gazebo. This is to prevent the gazebo from collapsing and causing harm to individuals inside or nearby, as well as property damage. 2.Please do not use the gazebo in high winds, heavy snow, or severe weather conditions. The gazebo's design is not intended to withstand strong winds, heavy snow, or other severe weather. Precautions must be taken when wind speeds exceed 25 mph, and accumulated snow exceeds 2 inches. 3.Before use, thoroughly inspect the gazebo to ensure all bolts, nuts, and fasteners are securely tightened and properly fastened. Specifications .responsive-table { border-collapse: collapse; width: 100%; margin-bottom: 20px; } .responsive-table td { border: 1px solid #ddd; padding: 8px; text-align: left; } .responsive-table tr:nth-child(odd) { background-color: #F2F2F2; } .responsive-table tr:nth-child(even) { background-color: #E6E6E6; } .responsive-table tr:hover { background-color: #DDDDDD; } @media screen and (max-width: 600px) { .responsive-table, .responsive-table td { display: block; } .responsive-table td { box-sizing: border-box; width: 100%; text-align: left; padding: 10px; overflow: hidden; text-overflow: ellipsis; white-space: normal; } .responsive-table tr { display: flex; flex-wrap: wrap; } .responsive-table tr td:first-child { width: 40%; } .responsive-table tr td:last-child { width: 60%; } } Frame Material Aluminum Shape Rectangular Water Resistance Level Water Resistant Ultraviolet Light Protection YES Assembly Required YES Color Khaki Item Weight 125.2 pounds
-  Updated: 2025-11-04T09:26:48Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Shade > Gazebos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/PHO_12RW2IIM-1.jpg?v=1742885780
   Price: $2,639.99 USD
 - [GARVEE Trailer Tires Rims - Premium Quality and Service](https://www.garvee.com/products/trailer-tires-rims-pau_0jg5iiva): Experience fast shipping and excellent customer support with GARVEE Trailer Tires. Enjoy free shipping and hassle-free returns for a seamless shopping experience.
-  Updated: 2025-11-10T04:31:15Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Automotive > Tire & Wheel Tools > Trailer Tires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/image_1_036915c1-a713-49f3-8b4e-81803ad6c8ed.jpg?v=1754884731
   Price: $224.99 USD
 - [Garvee Triple Trash Can 60L 15.9Gal Stainless Steel Separated Lid Kitchen Recycle Bin Combo for Kitchen Office](https://www.garvee.com/products/triple-trash-can-pho_11eqicx3): Discover the GARVEE Triple Trash Can, perfect for indoor and outdoor use. Its versatile design features three compartments for efficient waste sorting and recycling.
-  Updated: 2025-11-10T04:31:04Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Improvement & Tools > Cleaning & Janitorial
   Availability: Available
@@ -4257,7 +4264,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Jzk5GR0yL.jpg?v=1718890317
   Price: $1,073.99 USD
 - [GARVEE 196L Single-Door Cake Cooler: Professional Cooling Excellence for Bakeries](https://www.garvee.com/products/196l-single-door-cake-cooler-pho_11ylh9v0): Showcase your cakes with GARVEE's 196L Single-Door Cake Cooler featuring 360° LED lighting, smart temperature control, and spacious 7 cu ft capacity for optimal freshness.
-  Updated: 2025-11-07T04:31:01Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Refrigeration & Ice Equipment > Merchandising Refrigerators
   Availability: Available
@@ -4523,7 +4530,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/image_1_be8418de-576c-46af-8dc2-bfd1ee682a40.jpg?v=1736748320
   Price: $175.99 USD
 - [Garvee 2.4oz 6ft x 300ft Weed Barrier Landscape Fabric - Durable Ground Cover for Garden, Lawn & Landscaping](https://www.garvee.com/products/garvee-gardening-mat-pho-0yzxpanq): Transform your outdoor spaces with GARVEE's versatile weed barrier fabric. Ideal for landscaping and construction, it offers durability and effective weed control.
-  Updated: 2025-11-10T04:31:05Z
+  Updated: 2025-11-10T07:38:41Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -4565,7 +4572,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41bfgTSy99L.jpg?v=1718894982
   Price: $46.99 USD
 - [GARVEE 14-Piece Flex-Head Ratcheting Wrench Set - Durable & Versatile](https://www.garvee.com/products/garvee-flex-head-wrench-set-pho-0ra0wjnp): Discover the GARVEE 14-Piece Ratcheting Wrench Set, crafted from premium Cr-V steel. Features a 180° flex-head and 72-tooth mechanism for precision in tight spaces.
-  Updated: 2025-11-10T04:31:13Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
@@ -4740,14 +4747,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71NiENpCtvL.jpg?v=1718964943
   Price: $205.99 USD
 - [GARVEE 12V Kids Ride on Dump Truck - Versatile Fun for Indoor & Outdoor Play](https://www.garvee.com/products/garvee-kids-ride-on-dump-truck-pto-0z627xgg): The GARVEE 12V Kids Ride on Dump Truck offers versatile fun for indoor and outdoor use. Perfect for imaginative play, it features a realistic design and safety controls.
-  Updated: 2025-11-10T04:31:14Z
+  Updated: 2025-11-10T07:25:43Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71xte1PwvnL.jpg?v=1718931502
   Price: $156.99 USD
 - [Garvee Ride - P Series: 12V Kids Electric Dirt Bike, 25W*2 Motor, Twist Grip Throttle, Spring Suspension, Training Wheels, Ride-On Toy - Green](https://www.garvee.com/products/garvee-kids-electric-dirt-bike-12v-pto-0z46xn3u): The GARVEE 12V Kids Electric Dirt Bike is perfect for outdoor adventures, offering multi-functional fun for kids aged 3-8 with safety features and durable design.
-  Updated: 2025-11-10T05:51:59Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Motorcycles
   Availability: Available
@@ -4816,13 +4823,6 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61j8HPBEt_L_7c45adf7-613b-4fe4-8d13-36b5024c666c.jpg?v=1727341866
   Price: $136.99 USD
-- [GARVEE Heavy Duty Rubber Curb Ramp - Perfect for Driveways](https://www.garvee.com/products/garvee-4-1-heavy-duty-curb-pho-13zgjvng): Experience excellent customer service with fast shipping and quality support. Enjoy free shipping and hassle-free returns for a seamless shopping experience!
-  Updated: 2025-11-10T04:31:08Z
-  Vendor: Garvee
-  Product Type: Electrical > Wire & Cable & Conduit > Cable Ramp
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41KUxTWhOqL.jpg?v=1736407223
-  Price: $53.99 USD
 - [GARVEE Heavy Duty Rubber Curb Ramp - Enhance Accessibility and Safety](https://www.garvee.com/products/garvee-24x42x2-5-inch-heavy-duty-pho-13zggmfz): Discover the GARVEE 24x42x2.5 Inch Heavy Duty Rubber Curb Ramp, designed for durability, safety, and a 2500 lbs capacity, perfect for seamless mobility access.
   Updated: 2025-11-10T04:31:10Z
   Vendor: Garvee
@@ -5468,7 +5468,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918PS0kJu7L_410c132b-15cf-45e2-92c9-e285bae66d49.jpg?v=1718931554
   Price: $54.99 USD
 - [GARVEE Human Size Dog Bed for Adults - Ultimate Comfort & Style](https://www.garvee.com/products/garvee-human-size-dog-bed-foldable-pho-12fj98f6): Discover the GARVEE Human Size Dog Bed, perfect for pet owners seeking comfort. Its spacious design and plush faux fur cover ensure cozy lounging for everyone.
-  Updated: 2025-11-10T01:39:42Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Home & Furniture > Pets' Supplies > Dog Furniture
   Availability: Available
@@ -6525,7 +6525,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1708141969165.jpg?v=1750305484
   Price: $164.99 USD
 - [GARVEE 47 inch Kitchen Island with Storage & Power Outlet](https://www.garvee.com/products/garvee-kitchen-island-with-storage-4-pho-1098ovxr): Transform your kitchen, dining, or living room with the GARVEE 47" Kitchen Island. This multifunctional bar table features ample storage, power outlets, and hooks for versatile use.
-  Updated: 2025-11-10T04:31:12Z
+  Updated: 2025-11-10T07:38:48Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Kitchen Islands & Carts
   Availability: Available
@@ -6602,7 +6602,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81zcybnB_IL_233c8032-7059-4635-9500-5b22b2c997a8.jpg?v=1718932526
   Price: $123.99 USD
 - [GARVEE 5 Tier Farmhouse Bookcase - Versatile Storage Solution](https://www.garvee.com/products/garvee-farmhouse-book-shelf-3-tier-pho-0zzpmteo): Discover the GARVEE 5 Tier Farmhouse Bookcase, perfect for any room! Its sturdy design and ample storage make it ideal for home offices, living rooms, and bedrooms.
-  Updated: 2025-11-10T04:31:01Z
+  Updated: 2025-11-10T07:38:49Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Office > Bookshelves & Bookcases
   Availability: Available
@@ -6686,7 +6686,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Uw5xT8lkL.jpg?v=1740104017
   Price: $58.99 USD
 - [Stylish GARVEE Dresser in Pink - Versatile Storage Solution](https://www.garvee.com/products/garvee-gaomon-dresser-4-drawer-white-pho-0zo8yu0c-1): Elevate your indoor spaces with the GARVEE Dresser in Pink. This multifunctional piece is perfect for bedrooms or living rooms, offering ample storage and style.
-  Updated: 2025-11-10T04:31:14Z
+  Updated: 2025-11-10T08:00:25Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -7183,7 +7183,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81HwE-byunL.jpg?v=1718932613
   Price: $236.99 USD
 - [GARVEE Queen Size Bed Frame with Wave Wood Headboard](https://www.garvee.com/products/garvee-idealhouse-queen-bed-frame-wave-pho-0ymtu4fb): Transform your bedroom with the GARVEE Queen Size Bed Frame, perfect for any indoor space. Enjoy versatile storage and modern style, no box spring needed!
-  Updated: 2025-11-10T04:31:16Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -7407,7 +7407,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RMb52DlCL.jpg?v=1739011682
   Price: $69.99 USD
 - [GARVEE Queen Bed Frame with LED Lights - Versatile Comfort for Any Bedroom](https://www.garvee.com/products/garvee-queen-gaomon-full-bed-frame-pho-0xterj1n): Elevate your indoor space with the GARVEE Queen Bed Frame. Its multifunctional design and ambient LED lights make it perfect for relaxation and style.
-  Updated: 2025-11-10T06:01:27Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -7442,7 +7442,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71LFH0FJh9L.jpg?v=1718932077
   Price: $59.99 USD
 - [GARVEE Entryway Console Table - Versatile Rustic Sofa Table for Any Room](https://www.garvee.com/products/garvee-idealhouse-color-block-console-table-pho-0xsq8e6b): Discover the GARVEE Entryway Console Table, perfect for indoor use. Its multi-functional design and adjustable shelf make it ideal for living rooms, entryways, and more.
-  Updated: 2025-11-10T04:31:09Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Console Tables
   Availability: Available
@@ -7477,7 +7477,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1689297876678.jpg?v=1749533892
   Price: $119.99 USD
 - [GARVEE 5-Piece Dining Table Set - Stylish & Space-Saving for Small Spaces](https://www.garvee.com/products/garvee-kitchen-table-set-retro-cozy-pho-0xjxwixk): Discover the GARVEE Dining Table Set, perfect for indoor dining or casual gatherings. Its versatile design fits compact spaces, offering comfort and style for any occasion.
-  Updated: 2025-11-10T07:11:07Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -7602,6 +7602,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51q-hgFlFWL_285a24bf-185a-46f5-9f3a-55d2cce28423.jpg?v=1718941623
   Price: $322.99 USD
+- [GARVEE Queen Size Upholstered Platform Bed - Versatile Comfort for Your Bedroom](https://www.garvee.com/products/garvee-queen-size-upholstered-platform-bed-pho-0x4t02vv): Transform your bedroom with the GARVEE Queen Size Upholstered Platform Bed. Perfect for any indoor space, it offers multi-functional comfort and style.
+  Updated: 2025-11-10T07:38:44Z
+  Vendor: Garvee
+  Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81pJk8s44qL.jpg?v=1718941606
+  Price: $188.99 USD
 - [GARVEE 6 Inch Low Full Bed Frame - Sturdy Metal Mattress Foundation](https://www.garvee.com/products/garvee-gaomon-6-inch-low-full-pho-0x3glnd2): Elevate your indoor space with the GARVEE 6 Inch Low Full Bed Frame. This versatile, heavy-duty metal design offers exceptional stability for various mattress types.
   Updated: 2025-11-05T22:06:54Z
   Vendor: Garvee
@@ -7680,7 +7687,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/312gjA3Q4XL.jpg?v=1718932031
   Price: $199.99 USD
 - [GARVEE Bakers Rack with Power Outlet - Versatile Kitchen Storage Solution](https://www.garvee.com/products/garvee-kitchen-bakers-rack-coffee-bar-pho-0wlyn85d-4): Discover the GARVEE Bakers Rack, perfect for kitchens and dining areas. This multifunctional piece offers ample storage, integrated power, and rustic charm.
-  Updated: 2025-11-10T04:31:10Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Kitchen Islands & Carts
   Availability: Available
@@ -8023,7 +8030,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1705284288275.jpg?v=1750219029
   Price: $69.99 USD
 - [GARVEE Bar Stools Set of 4 for Kitchen and Home Bar - Stylish & Comfortable](https://www.garvee.com/products/garvee-kitchen-bar-stools-set-of-pho-10bk7zv3): Enhance your indoor space with GARVEE Bar Stools Set of 4. Perfect for kitchens and home bars, these versatile stools offer comfort and style for any occasion.
-  Updated: 2025-11-10T07:11:06Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -8961,7 +8968,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71jlHSl3UML_e3022b8e-a772-45d0-b4ba-b1d8e3fc568f.jpg?v=1718964785
   Price: $289.99 USD
 - [GARVEE ATV 25x10-12 All Terrain Tires](https://www.garvee.com/products/set-of-2-atv-tires-pau_0jgbnatb): Experience exceptional customer service with fast shipping and quality support. Enjoy free shipping and easy returns for a seamless shopping experience!
-  Updated: 2025-11-10T06:08:16Z
+  Updated: 2025-11-10T07:27:56Z
   Vendor: Garvee
   Product Type: Automotive > Tire & Wheel Tools > UTV & ATV Tires
   Availability: Available
@@ -9171,7 +9178,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xzMQIsG0L.jpg?v=1718964871
   Price: $77.99 USD
 - [GARVEE 213 Piece Mechanic Tool Set - Quality Tools for Every Home](https://www.garvee.com/products/garvee-mechanics-tool-set-pho-0wca3axy): Experience exceptional customer service with fast shipping and quality support. Enjoy free shipping and hassle-free returns on the GARVEE 213 Piece Mechanic Tool Set!
-  Updated: 2025-11-10T06:58:12Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
@@ -9241,7 +9248,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71h8AavBDOL_87b0696e-74ba-4175-8538-a2baeb0ad224.jpg?v=1718965069
   Price: $28.99 USD
 - [Garvee 9.5QT(1x1/1+ 2x1/2Pan)Electric Chafing Dish with Temperature Control, Stainless Steel Buffet Servers and Warmers, Electric Chafing Dish Set with Temperature Control for Catering](https://www.garvee.com/products/garvee-electric-chafing-dish-pis-00p9): Perfect for indoor and outdoor events, this versatile electric chafing dish features temperature control and is ideal for catering, parties, and buffets.
-  Updated: 2025-11-10T04:31:10Z
+  Updated: 2025-11-10T07:57:46Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
@@ -9353,7 +9360,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61xzdywMh5L_9fcf4881-7b52-4212-a1a6-cf38c2b5c9bd.jpg?v=1718964975
   Price: $188.99 USD
 - [GARVEE 5.8ft Quad Fold Soft Tonneau for 14-18 Silverado 1500 - Exceptional Service](https://www.garvee.com/products/garvee-soft-quad-fold-truck-bed-pau-0igzx5up): Experience fast shipping and quality after-sales support with GARVEE's Tonneau cover. Enjoy free shipping and hassle-free returns for a seamless shopping experience!
-  Updated: 2025-11-04T09:38:19Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Automotive > Automotive Accessories > Tonneau Cover
   Availability: Available
@@ -9486,7 +9493,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61l64_i8fVL.jpg?v=1718965146
   Price: $86.99 USD
 - [GARVEE Foldable Portable Table Tennis Table - Indoor & Outdoor Fun](https://www.garvee.com/products/garvee-foldable-table-tennis-table-with-pto-0x0rf0jb): Discover the GARVEE Foldable Portable Table Tennis Table, perfect for indoor and outdoor use. Enjoy endless fun and versatility in your game room, apartment, or office.
-  Updated: 2025-11-10T04:31:14Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Sports & Outdoors > Sports > Ping Pong
   Availability: Available
@@ -9570,7 +9577,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71nRrORYcXL_537f2eaa-4147-40cc-a694-8010033f3c17.jpg?v=1718965158
   Price: $339.99 USD
 - [GARVEE Corner Makeup Vanity Desk - Stylish & Functional Beauty Station](https://www.garvee.com/products/garvee-pullafun-corner-makeup-vanity-desk-pho-1047t5ch): Transform your space with the GARVEE Corner Makeup Vanity Desk. Ideal for both indoor use and multifunctional beauty routines, it features ample storage and adjustable lighting.
-  Updated: 2025-11-09T18:15:27Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Dressers & Jewelry
   Availability: Available
@@ -9962,12 +9969,19 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1727256782953DwEvQyI714.jpg?v=1734587516
   Price: $144.99 USD
 - [GARVEE Extra Large Acacia Wood Cutting Board - Versatile Kitchen Essential](https://www.garvee.com/products/extra-large-acacia-wood-cutting-board-pho-0rwu2hp8): Discover the GARVEE Extra Large Acacia Wood Cutting Board, perfect for indoor and outdoor use. Its reversible design and juice groove make it ideal for all cutting and serving tasks.
-  Updated: 2025-11-10T07:11:06Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Cutting Boards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1_cd1d41f9-8b8b-4c30-ae00-b01cac181d43.jpg?v=1718864416
   Price: $43.99 USD
+- [GARVEE Hydraulic Lift Table Cart - Versatile Material Handling Solution](https://www.garvee.com/products/1100lbs-double-scissor-hydraulic-lift-table-30-8-height-500lbs): Discover the GARVEE Hydraulic Lift Table Cart, perfect for indoor and outdoor use. Its multifunctional design supports diverse material handling needs with ease.
+  Updated: 2025-11-10T07:38:44Z
+  Vendor: Garvee
+  Product Type: Material Handling > Carts & Trucks > Hydraulic Scissor Cart
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61J5oOWw-dL_d3601dca-b61b-4cac-8ae0-66863a0d1d80.jpg?v=1719382952
+  Price: $358.99 USD
 - [GARVEE 6V Ride-On Motorcycle for Kids - Multi-Functional Electric Dirt Bike](https://www.garvee.com/products/garvee-6v-ride-on-motorcycle-for-kids-electric-dirt-bike-with-usb-music-headlight-for-toddlers-1-3-pink): Perfect for outdoor fun, this multi-functional GARVEE 6V Ride-On Motorcycle features USB, music, and a headlight, ideal for kids aged 18 months to 5 years.
   Updated: 2025-11-10T04:31:17Z
   Vendor: Garvee
@@ -10795,7 +10809,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71nIdU0yJGL.jpg?v=1719384885
   Price: $399.99 USD
 - [GARVEE 20-Piece Ratcheting Combination Wrench Set - Premium Quality Tools](https://www.garvee.com/products/garvee-20-piece-ratcheting-combination-wrench-pho-0ra1uahx): Discover the GARVEE 20-Piece Ratcheting Wrench Set made from chrome vanadium steel, featuring a 72-tooth ratchet for tight spaces and a durable storage bag.
-  Updated: 2025-11-10T06:55:09Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
@@ -11082,7 +11096,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1_003d3199-ea6f-44b0-8565-41675d6fbd6a.jpg?v=1762238130
   Price: $339.99 USD
 - [GARVEE 72x15 Inch Aluminum Trailer Ramps - Durable and Efficient Loading Solution](https://www.garvee.com/products/garvee-aluminum-loading-ramps-6000lbs-capacity-pis-00yc3dbt): Discover GARVEE's 72x15 inch aluminum ramps, boasting a 6000lbs capacity, lightweight design, and corrosion resistance for safe, efficient loading of ATVs, trucks, and more.
-  Updated: 2025-11-10T07:01:07Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Material Handling > Ramps & Ladders > Loading Ramps
   Availability: Available
@@ -11257,7 +11271,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61De03pg6iL._AC_SL1500.jpg?v=1748434052
   Price: $193.99 USD
 - [GARVEE Heavy-Duty Pipe Jack Stand - Adjustable & Durable for Welding and Construction](https://www.garvee.com/products/garvee-heavy-duty-pipe-jack-stand-pho-12gatfr2): Discover the GARVEE Heavy-Duty Pipe Jack Stand, featuring an adjustable height of 28-52 inches and a robust 2500 lbs capacity, perfect for welding and construction.
-  Updated: 2025-11-09T19:38:52Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Automotive > Lifts & Hoists & Jacks > Jack stands
   Availability: Available
@@ -11278,7 +11292,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41_n2G1G1KL.jpg?v=1719387376
   Price: $100.99 USD
 - [GARVEE Cat Litter Box Enclosure - Stylish and Functional Indoor Cat Furniture](https://www.garvee.com/products/garvee-cat-litter-box-furniture-hidden-pho-0xtogqb5): Discover the GARVEE Cat Litter Box Enclosure, perfect for cat owners seeking privacy and style. With ample storage and easy assembly, it enhances any indoor space.
-  Updated: 2025-11-10T04:31:14Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Home & Furniture > Pets' Supplies > Cat Furniture
   Availability: Available
@@ -11292,7 +11306,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/PHO_0XTO__1724911674725.8163.jpg?v=1754968173
   Price: $149.99 USD
 - [GARVEE 14-Piece Ratcheting Wrench Set - Premium Chrome Vanadium Steel](https://www.garvee.com/products/garvee-metric-ratcheting-wrench-set-6-pho-0v0admew): Discover GARVEE's 14-piece ratcheting wrench set, crafted from durable chrome vanadium steel. Enjoy precision with a 72-tooth mechanism and a convenient storage pouch.
-  Updated: 2025-11-10T04:31:01Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
@@ -11789,7 +11803,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rR9eNb6xL.jpg?v=1719387441
   Price: $317.99 USD
 - [GARVEE 9QT Electric Chafing Dish - Perfect for Catering and Events](https://www.garvee.com/products/garvee-9qt-stainless-steel-electric-chafing-pis-00pkgy3y): Elevate your indoor and outdoor events with the GARVEE Electric Chafing Dish. Its versatile design and precise temperature control make it ideal for catering, parties, and buffets.
-  Updated: 2025-11-10T04:31:05Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
@@ -11922,7 +11936,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/715h5UYTubL.jpg?v=1719387481
   Price: $123.99 USD
 - [GARVEE 14L Coffee Pot - Versatile Hot Beverage Thermos for Indoor and Outdoor Use](https://www.garvee.com/products/garvee-commercial-304-stainless-coffee-urn-pho-0zejbuov): Discover the GARVEE 14L Coffee Pot, perfect for indoor and outdoor events. This versatile hot water dispenser brews up to 90 cups, ideal for any occasion!
-  Updated: 2025-11-09T01:15:43Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Beverage Equipment > Coffee Urn
   Availability: Available
@@ -12580,7 +12594,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rGnDvVi0L.jpg?v=1719387466
   Price: $91.99 USD
 - [GARVEE 18 Inch Extra Large Bamboo Cutting Board for Versatile Kitchen Use](https://www.garvee.com/products/garvee-20-inch-extra-large-bamboo-pho-1301kl1i): Discover the GARVEE 18" Bamboo Cutting Board, perfect for indoor cooking and outdoor gatherings. Its multifunctional design suits all your food prep and serving needs.
-  Updated: 2025-11-09T18:52:18Z
+  Updated: 2025-11-10T07:58:17Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Cutting Boards
   Availability: Available
@@ -12951,7 +12965,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71z0KzNLewL.jpg?v=1719388110
   Price: $247.99 USD
 - [GARVEE Portable AC/Dehumidifier & Fan - 3-In-1, 8000 BTU](https://www.garvee.com/products/garvee-8000-btu-ac-portable-3-pho-10g4s3cz): Experience the GARVEE 3-in-1 Portable AC with 8000 BTU cooling, dehumidifying, and fan functions. Enjoy quiet operation, remote control, and improved air quality!
-  Updated: 2025-11-07T10:29:10Z
+  Updated: 2025-11-10T07:38:49Z
   Vendor: Garvee
   Product Type: Air Conditioners & Accessories > Portable Air Conditioner > Fixed frequency
   Availability: Available
@@ -13560,7 +13574,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71sS6gZBrRL.jpg?v=1719388170
   Price: $218.99 USD
 - [Garvee Ride - P Series: 12V Remote Control Tractor for Kids with 7-LED & Safety Belt - Blue](https://www.garvee.com/products/garvee-12v-remote-control-tractor-for-pto-0ywn3xx2): The GARVEE 12V Remote Control Tractor is perfect for outdoor fun! With 7-LED lights and a safety belt, it offers versatile play for kids aged 12 months to 7 years.
-  Updated: 2025-11-10T04:31:05Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
@@ -14078,7 +14092,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71QQ569FzFL.jpg?v=1742129376
   Price: $168.99 USD
 - [GARVEE Black Dining Table Set for 4 - Versatile and Stylish for Home](https://www.garvee.com/products/garvee-black-dining-table-set-for-pho-0zi7hafs): Discover the GARVEE Black Dining Table Set, perfect for indoor dining, home offices, and small spaces. Its multifunctional design adapts to any setting with elegance.
-  Updated: 2025-11-10T04:00:03Z
+  Updated: 2025-11-10T07:57:20Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -14112,6 +14126,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71E-MqJbG1L.jpg?v=1720081285
   Price: $81.99 USD
+- [GARVEE Natural Rattan 16in Storage Chest: Versatile Organizer for Any Room](https://www.garvee.com/products/garvee-amyove-natural-rattan-16in-storage-pho-0y2ewwwx): Discover the GARVEE Natural Rattan 16in Storage Chest, perfect for indoor use. This multi-functional storage solution enhances your entryway, bedroom, or living room.
+  Updated: 2025-11-10T07:52:32Z
+  Vendor: Garvee
+  Product Type: Home & Furniture > Entryway > Storage Benches
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81e5ECkahVL.jpg?v=1720081293
+  Price: $59.99 USD
 - [GARVEE 1100 LBS Motorcycle Lift Jack - Safe & Easy Maintenance](https://www.garvee.com/products/garvee-motorcycle-lift-with-casters-1100-pau-0jxktw9u): Upgrade your motorcycle maintenance with GARVEE's 1100 lbs lift jack. Its non-slip design, compact storage, and safety features ensure effortless and secure lifting.
   Updated: 2025-11-07T02:34:42Z
   Vendor: Garvee
@@ -14687,7 +14708,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_2Ripr3zL.jpg?v=1720082702
   Price: $42.99 USD
 - [GARVEE Washable Rugs - Soft, Non-Slip, Stain Resistant Area Rug](https://www.garvee.com/products/garvee-washable-rugs-9-x-12-rug-for-living-room-modern-geometric-rug-non-slip-soft-throw-rugs-large-area-rug-stain-resistant-carpet-for-bedroom-office-dining-room-nursery-blue-taupe-9x12-garvee): Discover the GARVEE Washable Rug, a soft, non-slip, and stain-resistant carpet perfect for high-traffic areas. Ideal for homes with kids and pets!
-  Updated: 2025-11-09T23:25:01Z
+  Updated: 2025-11-10T07:59:17Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -15765,7 +15786,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1700472093920.jpg?v=1750415484
   Price: $109.99 USD
 - [GARVEE Folding Dining Table - Versatile Space-Saving Solution for Small Spaces](https://www.garvee.com/products/garvee-amyove-folding-dining-table-drop-pho-0y5prd10): Discover the GARVEE Folding Dining Table, perfect for indoor use. Its multi-functional design adapts to various needs, making it ideal for dining, office, and more.
-  Updated: 2025-11-10T01:36:48Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -15863,7 +15884,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/412As6n3Q3L.jpg?v=1720085321
   Price: $127.99 USD
 - [Garvee Wide 10 Drawer Dresser White Steel Frame Wood Top for Bedroom Hallway Nursery Closets](https://www.garvee.com/products/garvee-jojoka-wide-10-drawer-dresser-pho-11qycdkt): Discover the GARVEE Wide 10 Drawer Dresser, perfect for bedrooms, nurseries, and living rooms. Its multifunctional design offers ample storage for all your needs.
-  Updated: 2025-11-10T01:56:58Z
+  Updated: 2025-11-10T07:38:44Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -16976,7 +16997,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LWDS5f92L.jpg?v=1720089768
   Price: $35.99 USD
 - [GARVEE Washable Vintage Area Rug - 5x7 Traditional Oriental Medallion Floral Design](https://www.garvee.com/products/garvee-washable-vintage-area-rug-5x7-pho-0zoqq77s): Transform your space with the GARVEE Washable Vintage Area Rug. This elegant, stain-resistant rug features a traditional floral design, perfect for any room.
-  Updated: 2025-11-09T04:35:07Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17298,14 +17319,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q8vDfilYL_00c7b511-3236-4b01-a9f6-5f71aee1bb0b.jpg?v=1720091086
   Price: $55.99 USD
 - [GARVEE Kids Vanity Set - Perfect for Creative Play](https://www.garvee.com/products/garvee-shininglove-kids-vanity-set-with-pto-0xmjumxv): Discover the GARVEE Kids Vanity Set, designed for girls aged 4-9. A stylish, safe space for creativity, complete with lights and a mirror for endless imaginative play!
-  Updated: 2025-11-10T04:07:11Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Armoires & Dressers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/512ebMNa-NL.jpg?v=1751942114
   Price: $101.99 USD
 - [GARVEE Kids' Vanity Table and Chair Set - Perfect for Imaginative Play](https://www.garvee.com/products/garvee-kids-vanity-table-and-chair-pto-0xmjy7ma): Transform your child's space with the GARVEE Kids' Vanity Table and Chair Set. Ideal for indoor play, it encourages creativity and multi-functional pretend play for ages 4-9.
-  Updated: 2025-11-10T07:25:42Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Dressers & Jewelry
   Availability: Available
@@ -17893,7 +17914,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81XpOpxQPBL_3cf2f089-d41c-4de6-8406-662265a6301d.jpg?v=1720094790
   Price: $94.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-washable-rug-9x12-living-room-boho-rug-with-tassel-indoor-non-slip-moroccan-bordered-floor-cover-geometric-stain-resistant-bohemian-accent-carpet-rug-for-bedroom-nursery-home-office-blue-garvee): Discover the GARVEE Boho Washable Area Rug, featuring a stain-resistant design, non-slip backing, and stylish tassels. Perfect for any farmhouse decor!
-  Updated: 2025-11-10T04:01:06Z
+  Updated: 2025-11-10T07:59:16Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -18537,7 +18558,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rUceCovuL.jpg?v=1720687757
   Price: $171.99 USD
 - [GARVEE Bull Float Kit - Versatile Concrete Trowel Tool for Indoor and Outdoor Use](https://www.garvee.com/products/garvee-cozony-bull-float-kit-concrete-pho-142s02w5): Discover the GARVEE Bull Float Kit, perfect for indoor and outdoor concrete projects. This versatile tool enhances efficiency for various applications.
-  Updated: 2025-11-10T04:31:35Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Building & Construction > Masonry & Concrete & Tile Tools > Bull Float
   Availability: Available
@@ -19160,7 +19181,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91vn74f1dKL_5d9998aa-1f8a-4fa1-8c12-3eb1d08cda55.jpg?v=1721267817
   Price: $192.99 USD
 - [GARVEE 5ft Artificial Plants Indoor - Premium Simulated Silk Fabric](https://www.garvee.com/products/garvee-sunnyfurn-5ft-artificial-plants-indoor-pho-14pjmmdd): Experience hassle-free shopping with GARVEE's 5ft artificial plants. Enjoy fast shipping, free delivery, and easy returns while enhancing your home or office decor.
-  Updated: 2025-11-10T03:49:49Z
+  Updated: 2025-11-10T07:38:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Decor > Artificial Plants & Flowers
   Availability: Available
@@ -19349,7 +19370,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51pSwgi18dL.jpg?v=1721267946
   Price: $113.99 USD
 - [Garvee 2 Pack RV Slide Out Support Jacks Supports Up to 5,000 lbs, Adjustable Height from 21.06" to 34.25", Heavy-Duty Steel RV Stabilizer Jacks for Camper, Black](https://www.garvee.com/products/garvee-2-pack-rv-slide-out-pau-0l8y0pzg): Discover GARVEE's heavy-duty RV slide-out support jacks, designed to hold up to 5,000 lbs with adjustable heights from 21.06" to 34.25" for ultimate stability.
-  Updated: 2025-11-10T07:00:04Z
+  Updated: 2025-11-10T07:52:35Z
   Vendor: Garvee
   Product Type: Automotive > Rv Parts & Accessories > Trailer Jack
   Availability: Available
@@ -19489,7 +19510,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71teKF_FhmL.jpg?v=1721269502
   Price: $166.99 USD
 - [GARVEE Vanity Desk with Mirror and Lights - Versatile Makeup Station](https://www.garvee.com/products/garvee-garveehome-vanity-desk-with-mirror-pho-14cn7cuq): Transform your bedroom with the GARVEE Vanity Desk, perfect for indoor beauty routines. This multifunctional set features ample storage and adjustable lighting.
-  Updated: 2025-11-06T07:20:30Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Dressers & Jewelry
   Availability: Available
@@ -19517,7 +19538,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jGW20zsRL.jpg?v=1721269535
   Price: $175.99 USD
 - [GARVEE Rattan Shoe Storage Cabinet – Stylish & Versatile Organizer for Entryway](https://www.garvee.com/products/garvee-garveehome-rattan-shoe-storage-cabinet-pho-150wu1v1): Discover the GARVEE Rattan Shoe Storage Cabinet, perfect for indoor spaces like entryways and hallways. Its multifunctional design accommodates various shoe types.
-  Updated: 2025-11-10T04:31:28Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Shoe Organizers
   Availability: Available
@@ -20210,7 +20231,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51K7OsEwwpL.jpg?v=1722404010
   Price: $47.99 USD
 - [GARVEE Metal Queen Bed Frame - Multi-functional & Sturdy for Indoor Use](https://www.garvee.com/products/garvee-metal-platform-bed-frame-with-pho-0pu08v7v-1): Discover the GARVEE Metal Platform Bed Frame, perfect for indoor use. Its sturdy design supports various mattress types and offers ample storage space.
-  Updated: 2025-11-10T04:31:25Z
+  Updated: 2025-11-10T07:38:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -20314,6 +20335,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ZmUHYWU-L_b3b0bb89-3c43-4916-b955-ea10cc516a60.jpg?v=1754904817
   Price: $329.99 USD
+- [GARVEE Tufted Upholstered Platform Bed Frame - King Size](https://www.garvee.com/products/garvee-idealhouse-tufted-upholstered-platform-bed-pho-0wpqajrl-1): Transform your bedroom with the GARVEE Tufted Bed Frame, perfect for indoor use. Its stylish design and sturdy construction make it versatile for all your sleeping needs.
+  Updated: 2025-11-10T07:38:46Z
+  Vendor: Garvee
+  Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/811c7RTppVL_69a498ee-d96d-462b-9c5f-a2d462be2203.jpg?v=1722404146
+  Price: $387.99 USD
 - [GARVEE Tufted Upholstered Platform Bed Frame - Versatile and Elegant Design](https://www.garvee.com/products/garvee-idealhouse-tufted-upholstered-platform-bed-pho-0wpqcyh3): Discover the GARVEE Tufted Upholstered Platform Bed Frame, perfect for indoor use. Its multi-functional design suits various mattress types, ensuring comfort and style.
   Updated: 2025-11-09T04:31:23Z
   Vendor: Garvee
@@ -20637,7 +20665,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/s-l1600_7cdc2c03-f403-4d78-bec3-5b25432b4d0c.png?v=1734674377
   Price: $379.99 USD
 - [GARVEE Foam Climbing Blocks for Active Indoor Play](https://www.garvee.com/products/garvee-gaomon-foam-climbing-blocks-for-pto-0yw84k4q-1): Discover the versatile GARVEE Foam Climbing Blocks, perfect for indoor active play. This 4-piece set promotes climbing, crawling, and sliding for toddlers.
-  Updated: 2025-11-10T06:56:35Z
+  Updated: 2025-11-10T07:29:23Z
   Vendor: Garvee
   Product Type: Toys & Games > Learning & Education Toys > Early Development & Activity Toys
   Availability: Available
@@ -21211,7 +21239,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91AuKh3-ajL_4d1d0cb5-a46e-4c9a-9372-5babd23606a1.jpg?v=1723037229
   Price: $68.99 USD
 - [GARVEE 6 Inch Full Bed Frame - Versatile and Stylish for Any Room](https://www.garvee.com/products/garvee-idealhouse-6-inch-full-bed-pho-0yiouomu): Discover the GARVEE 6 Inch Full Bed Frame, perfect for indoor use. Its sturdy design and noise-free features make it ideal for versatile bedroom setups.
-  Updated: 2025-11-10T04:31:22Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -21995,7 +22023,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51MAKRBRqYL_8a9787aa-38bf-467b-bbda-d9d556ef680c.jpg?v=1736233214
   Price: $147.99 USD
 - [GARVEE 3/8" Skid Steer Attachment Plate - Durable & Universal](https://www.garvee.com/products/garvee-3-8-skid-steer-attachment-pho-11op6nkr-1): Discover GARVEE's 3/8" Skid Steer Attachment Plate, crafted with one-piece stamping for unmatched durability. Compatible with most models, enjoy easy installation and customized thickness options.
-  Updated: 2025-11-10T03:46:34Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Material Handling > Heavy Equipment Accessories > Quick Tach Mount Plate
   Availability: Available
@@ -22317,7 +22345,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51Jz-uqmsLL_b2154f3a-4d79-4193-bf9c-1c07cc7574d6.jpg?v=1723038318
   Price: $129.99 USD
 - [GARVEE Soft Climbing Indoor Set for Toddlers - Safe and Versatile Play](https://www.garvee.com/products/garvee-soft-climbing-indoor-set-foam-pto-0yw7gtee-1): Discover the GARVEE Soft Climbing Indoor Set, perfect for toddlers to climb, crawl, and slide. This versatile 6-piece foam set promotes active play and motor skills indoors.
-  Updated: 2025-11-10T06:56:42Z
+  Updated: 2025-11-10T07:57:20Z
   Vendor: Garvee
   Product Type: Toys & Games > Learning & Education Toys > Early Development & Activity Toys
   Availability: Available
@@ -22415,7 +22443,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71E-XdiiVVL_3f5da23f-179c-418a-af77-a3422b7acd44.jpg?v=1752561860
   Price: $166.99 USD
 - [GARVEE Farmhouse Entryway Table - Versatile Console for Any Space](https://www.garvee.com/products/garvee-gaomon-farmhouse-entryway-table-43-pho-116isiae-1): Discover the GARVEE Farmhouse Entryway Table, perfect for indoor use. This versatile console offers ample storage and complements various decor styles.
-  Updated: 2025-11-10T06:58:13Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Console Tables
   Availability: Available
@@ -22436,7 +22464,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oC3VUlbdL.jpg?v=1723038416
   Price: $157.99 USD
 - [GARVEE Wood Industrial Dining Table for 6~8 People - Versatile & Elegant](https://www.garvee.com/products/garvee-idealhouse-industrial-dining-table-for-pho-120sbruo-1): Elevate your indoor dining experience with the GARVEE Industrial Dining Table. Perfect for gatherings, meetings, and more, it combines style and functionality.
-  Updated: 2025-11-10T05:57:42Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -22954,7 +22982,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81kK7bAI1QL_03fcb0b0-f2a8-42c6-90ac-63a118ba14a8.jpg?v=1754308148
   Price: $95.99 USD
 - [Heavy Duty GARVEE Car Truck Service Ramps for Efficient Vehicle Maintenance](https://www.garvee.com/products/garvee-pullafun-2pcs-auto-car-truck-pau-0k9qojk8-1): Discover GARVEE's heavy-duty car ramps, crafted from premium steel for durability. With a 12,000 lbs load capacity, they ensure safe and easy vehicle access.
-  Updated: 2025-11-10T03:58:39Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Material Handling > Ramps & Ladders > Loading Ramps
   Availability: Available
@@ -23206,7 +23234,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716183564599.jpg?v=1751092291
   Price: $89.99 USD
 - [GARVEE Outdoor Rug - Waterproof Reversible Mats for Patios](https://www.garvee.com/products/garvee-gaomon-outdoor-rug-for-patios-pho-0ztmak34): Discover GARVEE's high-quality, waterproof outdoor rug. Reversible, UV-resistant, and easy to clean, perfect for patios, RVs, and more. Stylish & durable!
-  Updated: 2025-11-10T04:31:24Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Rugs > Outdoor Rugs
   Availability: Available
@@ -23276,7 +23304,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71gLy0d9TUL_d7f369c7-aed5-420a-b6c3-81353bf231bd.jpg?v=1736231907
   Price: $82.99 USD
 - [GARVEE 32 Inch Round Mirror - Modern Multi-Functional Design](https://www.garvee.com/products/garvee-idealhouse-2024-new-32-inch-pho-11qnw0lp-1): Discover the GARVEE 32 Inch Round Mirror, perfect for bathrooms, living rooms, and vanities. Its versatile design and easy installation make it a must-have.
-  Updated: 2025-11-10T05:45:15Z
+  Updated: 2025-11-10T07:38:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bathroom > Bathroom Fixtures
   Availability: Available
@@ -23381,7 +23409,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/917m191WifL_e466bffb-a91a-4808-8474-077f4a6b439c.jpg?v=1723039769
   Price: $123.99 USD
 - [Garvee Farmhouse Console Table 32 Inch Grey Wood with 2 Door Storage Cabinets for Kitchen Hallway Dining Living](https://www.garvee.com/products/garvee-farmhouse-console-table-32-inch-grey-wood-with-2-door-pho-14r2lwlt): GARVEE Farmhouse Console Table with double-door cabinet, and open storage. Made of durable MDF with metal hardware and non-slip legs. Easy assembly. Shop now!
-  Updated: 2025-11-10T06:56:06Z
+  Updated: 2025-11-10T07:57:19Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Console Tables
   Availability: Available
@@ -23962,7 +23990,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jsxwGGwXL_7c8925bd-5eed-422d-af5c-48c69b0015f8.jpg?v=1723040324
   Price: $163.99 USD
 - [GARVEE Machine Washable Area Rug 5x7 - Vintage Distressed Design](https://www.garvee.com/products/garvee-gaomon-machine-washable-area-rug-pho-0zh3md84-2): Elevate your space with the GARVEE 5x7 area rug. This machine washable, non-slip rug features a vintage medallion design, is stain-resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-10T04:31:12Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24949,7 +24977,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61tke9tLz2L.jpg?v=1723041064
   Price: $119.99 USD
 - [GARVEE Toddler Indoor Gym Playset - 7-in-1 Wooden Climbing Toys](https://www.garvee.com/products/garvee-toddler-indoor-gym-playset-7-pto-0yrfi95y-1): Discover the GARVEE Toddler Indoor Gym Playset, a versatile 7-in-1 climbing set perfect for indoor fun. Ideal for kids 3+, it encourages active play and creativity!
-  Updated: 2025-11-10T06:56:47Z
+  Updated: 2025-11-10T08:00:50Z
   Vendor: Garvee
   Product Type: Toys & Games > Learning & Education Toys > Early Development & Activity Toys
   Availability: Available
@@ -25656,7 +25684,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OLUSRxYvL_2cd198e6-0ad9-4306-9c19-4383596ac5a8.jpg?v=1727661861
   Price: $119.99 USD
 - [GARVEE Shaggy Rug 2x6 Runner - Luxurious Softness & Non-Slip Design](https://www.garvee.com/products/garvee-zacoo-shaggy-rug-2x6-runner-pho-10q7vpd5-1): Experience ultimate comfort with the GARVEE Shaggy Rug. Its plush fibers, modern Moroccan design, and non-slip backing make it perfect for any room.
-  Updated: 2025-11-10T01:38:41Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -26153,7 +26181,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91x-mlUlBWL_c0842e09-5679-438a-81f9-363379b453a0.jpg?v=1723044238
   Price: $149.99 USD
 - [GARVEE Large Washable Area Rug - Modern Plaid Design for High Traffic Areas](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-washable-rugs-for-bedroom-modern-plaid-office-floor-carpet-distressed-rug-low-pile-farmhouse-area-rug-non-slip-checkered-floor-cover-green-garvee-1): Discover the GARVEE 9x12 Living Room Rug, featuring a cozy low-pile plaid design, machine washable for easy care, and non-slip for safety in high-traffic spaces.
-  Updated: 2025-11-06T04:31:17Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
@@ -26405,7 +26433,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tpYMQPPrL_238778c8-546a-46aa-a25b-330c95e4c80a.jpg?v=1723044391
   Price: $27.99 USD
 - [GARVEE Boho Rug - Stylish & Washable Area Rug for Your Home](https://www.garvee.com/products/garvee-fashionwu-boho-rug-grey-area-pho-0vej51il-1): Discover the GARVEE Boho Rug, a soft, low-pile, machine washable rug with a slip-resistant backing. Perfect for any room, it combines elegance with practicality.
-  Updated: 2025-11-10T01:39:04Z
+  Updated: 2025-11-10T07:38:41Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -26622,7 +26650,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81HocPy7w8L_d62d3d51-7d2e-4b6a-96e8-fea3ce2ee351.jpg?v=1739011324
   Price: $117.99 USD
 - [GARVEE Shoe Storage Cabinet for Indoor Use - Multi-functional Organizer](https://www.garvee.com/products/garvee-sunnyfurn-shoe-storage-cabinet-freestanding-pho-0yqkjhls): Discover the GARVEE Shoe Storage Cabinet, perfect for indoor spaces like entryways and living rooms. Its multi-functional design accommodates various storage needs.
-  Updated: 2025-11-09T22:39:05Z
+  Updated: 2025-11-10T07:38:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Shoe Organizers
   Availability: Available
@@ -26762,7 +26790,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81SGJOl0F5L_b118516d-90d9-417e-b7f1-86037267f7c5.jpg?v=1753515359
   Price: $219.99 USD
 - [Garvee Queen Size Bed Frame Grey Linen Upholstered 2 Storage Drawers Charging Station Heavy Duty Easy Assemble No Box Spring](https://www.garvee.com/products/garvee-idealhouse-queen-size-bed-frame-pho-10vuzan5-1): Discover the GARVEE Queen Size Bed Frame, perfect for indoor use. Its multifunctional design features storage drawers, a charging station, and a stylish headboard.
-  Updated: 2025-11-09T07:16:33Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -27287,7 +27315,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/21Uh2pbo8YL.jpg?v=1726830315
   Price: $327.99 USD
 - [Garvee Ride - G Series: 6+,24V Drift Kart with 2X200W Strong Motor, 7AH Big Battery, Electric Pedals, Electric Go Kart Outdoor Race Toy - Blue](https://www.garvee.com/products/garvee-garveelife-go-kart-for-kids-pto-0zc5g6sr): Experience thrilling outdoor adventures with the GARVEE Go Kart! This versatile electric kart offers drifting fun and music enjoyment, perfect for kids aged 6 and above.
-  Updated: 2025-11-10T04:31:26Z
+  Updated: 2025-11-10T07:38:45Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Go Kart
   Availability: Available
@@ -27322,7 +27350,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1_e4a71729-1720-4138-88eb-55dfe031ebfa.jpg?v=1762160249
   Price: $259.99 USD
 - [Garvee Ride - G Series: 6+,24V Drift Kart with 2X200W Strong Motor, 7AH Big Battery, Electric Pedals, Electric Go Kart Outdoor Race Toy - Black](https://www.garvee.com/products/garvee-electric-go-kart-for-kids-pto-0zc5w97s-1): Experience outdoor thrills with the GARVEE Electric Go Kart! Perfect for kids aged 6-17, this versatile kart offers exciting racing and drifting adventures.
-  Updated: 2025-11-10T04:31:25Z
+  Updated: 2025-11-10T07:29:49Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Go Kart
   Availability: Available
@@ -28561,7 +28589,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61DUmMC0fKL.jpg?v=1729588359
   Price: $40.99 USD
 - [GARVEE 18 Inch Christmas Wreath - Snow Flocked Winter Decor](https://www.garvee.com/products/garvee-18-inch-christmas-wreath-for-pho-0z37rc24): Elevate your holiday decor with GARVEE's 18" snow flocked Christmas wreath, featuring vibrant red berries, apples, and pine cones for a stunning winter centerpiece.
-  Updated: 2025-11-10T05:47:48Z
+  Updated: 2025-11-10T07:59:15Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -28582,7 +28610,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/04_0399e276-d4bb-4021-a354-33ece620b408.png?v=1760410046
   Price: $31.99 USD
 - [GARVEE 70 Pcs Christmas Ball Ornaments Set - Shatterproof & Versatile Decor](https://www.garvee.com/products/garvee-70-pcs-christmas-ball-ornaments-pho-0zaeqrvz): Elevate your holiday decor with GARVEE's 70 Pcs Christmas Ball Ornaments Set, featuring shatterproof designs and a variety of festive shapes for endless decorating possibilities.
-  Updated: 2025-11-10T06:59:05Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -28631,26 +28659,19 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1695354536120.jpg?v=1756266257
   Price: $46.99 USD
 - [GARVEE 3ft Tabletop Christmas Tree - Pre-lit Mini Xmas Tree for Desk Decoration](https://www.garvee.com/products/garvee-3ft-tabletop-christmas-tree-pre-pho-0za93s39): Elevate your holiday decor with the GARVEE 3ft Tabletop Christmas Tree. Pre-lit with 78 LED lights, it features a realistic design and space-saving charm.
-  Updated: 2025-11-10T04:31:27Z
+  Updated: 2025-11-10T07:57:21Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1695354527556.jpg?v=1756266864
   Price: $46.99 USD
 - [GARVEE Christmas Doormat - Non-Slip & Washable](https://www.garvee.com/products/garvee-front-door-mat-christmas-decorative-pho-0yzl2ix2): Enhance your entryway with the GARVEE Christmas Doormat. Made of durable polyester, it features a festive snowflake design, non-slip backing, and is machine washable.
-  Updated: 2025-11-10T04:31:17Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Rugs > Christmas Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918-YVdfERL_8e751271-cd30-46e0-b172-ccee9d3ce697.jpg?v=1729588381
   Price: $31.99 USD
-- [GARVEE Christmas Kitchen Rugs - Washable & Non-Skid](https://www.garvee.com/products/garvee-kitchen-rugs-and-mats-washable-pho-0yzd2mqs): Elevate your holiday decor with GARVEE's Christmas kitchen rugs. Made from durable polyester, featuring a non-slip backing, they're machine washable and perfect for any space.
-  Updated: 2025-11-10T05:58:43Z
-  Vendor: Garvee
-  Product Type: Rugs > Christmas Rugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51IQdf4wt7L.jpg?v=1729588427
-  Price: $37.99 USD
 - [Illuminate Your Holidays with GARVEE Christmas Wreath](https://www.garvee.com/products/garvee-christmas-wreath-for-front-door-pho-0z3dkcvu): Enhance your festive decor with our 24" GARVEE Christmas Wreath featuring 20 LED lights, elegant gold and white ornaments, and natural pine cones for a magical glow.
   Updated: 2025-11-10T05:48:03Z
   Vendor: Garvee
@@ -28904,7 +28925,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1721716810837.jpg?v=1759134689
   Price: $34.99 USD
 - [GARVEE Snowfake Rug - Soft, Non-Slip, and Machine Washable Christmas Decor](https://www.garvee.com/products/garvee-snowfake-rug-3ft-christmas-rug-pho-15nz8edw): Transform your space with the GARVEE Snowfake Rug. Soft, stain-resistant, and non-slip, it’s perfect for festive decor and easy maintenance this holiday season.
-  Updated: 2025-11-10T04:31:31Z
+  Updated: 2025-11-10T07:38:41Z
   Vendor: Garvee
   Product Type: Rugs > Christmas Rugs
   Availability: Available
@@ -29065,7 +29086,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91fDbaPcqkL_4258db4d-339f-4029-9882-59e75338c06c.jpg?v=1729588670
   Price: $135.99 USD
 - [GARVEE Elegant Brown Lighted Christmas Wreath and Garland Set - Unique British Style Decor](https://www.garvee.com/products/garvee-elegant-brown-lighted-christmas-wreath-pho-0vfx7dwt): Transform your holidays with GARVEE's handcrafted British-style Christmas wreath and garland set. Features 8 light settings and eco-friendly materials for lasting beauty.
-  Updated: 2025-11-10T05:49:59Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29282,7 +29303,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/717r841hi1L.jpg?v=1729588917
   Price: $49.99 USD
 - [GARVEE Prelit Christmas Garland with 20 Lights - Elegant Holiday Decor](https://www.garvee.com/products/garvee-prelit-christmas-garland-with-20-pho-0vgu4fmw): Elevate your holiday decor with GARVEE's 6ft prelit Christmas garland, featuring 20 warm LED lights, gold ornaments, and a timer for effortless elegance.
-  Updated: 2025-11-10T05:51:52Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29296,7 +29317,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91HYOVYy1YL._AC_SL1500.jpg?v=1762152410
   Price: $49.99 USD
 - [GARVEE Christmas Queen Quilt Set - Bohemian Reversible Design](https://www.garvee.com/products/garvee-juego-de-edredon-de-navidad-pho-0vgii7e5): Elevate your bedroom with the GARVEE Christmas Queen Quilt Set, featuring a unique reversible design with festive reindeer and snowflakes for year-round charm.
-  Updated: 2025-11-10T06:39:15Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -29324,7 +29345,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51_bAiOwgkL_6e626390-f62a-4f8b-8f11-3980566fce6b.jpg?v=1729589105
   Price: $36.99 USD
 - [GARVEE 65 PCS Christmas Ball Ornaments - Shatterproof & Stylish](https://www.garvee.com/products/garvee-65-pcs-christmas-ball-ornaments-pho-0zacn81w): Elevate your holiday decor with GARVEE's 65 PCS Christmas Ball Ornaments. Shatterproof, lightweight, and uniquely designed, perfect for festive celebrations!
-  Updated: 2025-11-10T05:52:23Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29338,14 +29359,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/171437309076642QuoxWCLD.jpg?v=1729589107
   Price: $37.99 USD
 - [GARVEE Christmas Duvet Cover Set - Reversible Holiday Comfort](https://www.garvee.com/products/garvee-juego-de-funda-de-edredon-pho-0verh08y): Transform your bedroom with GARVEE's reversible Christmas duvet cover set, featuring ultra-soft microfiber, secure button closure, and festive plaid design.
-  Updated: 2025-11-10T05:31:17Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91lpT2fgNRL_32fb6dc5-0f35-4c3a-abe0-67c57ec3fad8.jpg?v=1729589120
   Price: $78.99 USD
 - [GARVEE Christmas Duvet Cover Set - Reversible Holiday Design](https://www.garvee.com/products/garvee-juego-de-funda-de-edredon-pho-0vermy9i): Transform your bedroom with the GARVEE Christmas Duvet Cover Set. Enjoy ultra-soft microfiber, reversible festive designs, and secure button closures for ultimate comfort.
-  Updated: 2025-11-10T07:25:41Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -29359,14 +29380,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51aEWOmtXUL.jpg?v=1729589124
   Price: $49.99 USD
 - [GARVEE Christmas Duvet Cover King - Reversible Holiday Bedding](https://www.garvee.com/products/garvee-christmas-duvet-cover-king-reversible-pho-0veqi0og): Transform your bedroom this holiday season with the GARVEE Christmas Duvet Cover Set. Enjoy premium microfiber comfort and festive reversible designs featuring reindeer and snowflakes.
-  Updated: 2025-11-10T05:52:50Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bjgOD0C1L_5a65d388-c489-495e-8bca-371c8e23f37c.jpg?v=1729589127
   Price: $52.99 USD
 - [GARVEE 16 Pcs Christmas Balls Ornaments - Shatterproof Red and White Decorations](https://www.garvee.com/products/garvee-16-pcs-christmas-balls-ornaments-pho-15om69de): Enhance your holiday decor with GARVEE's shatterproof Christmas balls. These vibrant red and white ornaments are perfect for festive celebrations and safe for homes with kids.
-  Updated: 2025-11-10T05:52:55Z
+  Updated: 2025-11-10T07:59:18Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29436,7 +29457,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AgMFuxf-L.jpg?v=1754567723
   Price: $79.99 USD
 - [GARVEE 4.5 Ft Pre-Lit Christmas Tree - Perfect Holiday Decor](https://www.garvee.com/products/garvee-4-5-ft-pre-lit-christmas-tree-2-pack-pho-0wipb5e4): Elevate your festive decor with the GARVEE 4.5 Ft Pre-Lit Christmas Tree. Featuring 108 vibrant LED lights and easy assembly, it’s perfect for any space!
-  Updated: 2025-11-10T04:31:16Z
+  Updated: 2025-11-10T07:38:48Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29464,7 +29485,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81g6ALxecPL.jpg?v=1754635958
   Price: $75.99 USD
 - [GARVEE 4.5 Ft Pre-Lit Snow Flocked Christmas Tree with 108 LED Lights](https://www.garvee.com/products/garvee-artificial-christmas-tree-4-5-pho-0wipve74): Elevate your holiday decor with the GARVEE 4.5 Ft pre-lit Christmas tree, featuring lifelike flocked branches, 108 LED lights, and charming red berry clusters for a festive touch.
-  Updated: 2025-11-09T22:39:04Z
+  Updated: 2025-11-10T07:38:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29506,7 +29527,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2_Pack_Snowflake-01.jpg?v=1754465225
   Price: $79.99 USD
 - [Garvee Pre-Lit Snow Flocked Christmas Tree 4.5FT 2 Pack with 200 LED Lights 8 Modes Faux Berries Potted for Yard Home](https://www.garvee.com/products/garvee-4-5ft-pre-lit-snow-pho-0wip8rbo): Elevate your holiday decor with the GARVEE 4.5ft pre-lit Christmas tree featuring 200 LED lights, 8 dynamic modes, and a stunning antique urn base.
-  Updated: 2025-11-10T03:36:53Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29534,7 +29555,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/914Sj_YxqYL.jpg?v=1753250434
   Price: $79.99 USD
 - [GARVEE 3ft Pre-Lit Christmas Tree - Vintage Charm & Modern Convenience](https://www.garvee.com/products/garvee-3ft-christmas-tree-pre-lit-pho-0wigic5c): Elevate your holiday decor with GARVEE's 3ft pre-lit Christmas tree, featuring 70 warm white LED lights, a vintage potted base, and easy setup for instant festive charm.
-  Updated: 2025-11-10T05:56:36Z
+  Updated: 2025-11-10T07:57:22Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29625,7 +29646,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rLSn_67TL.jpg?v=1729589988
   Price: $46.99 USD
 - [GARVEE 30 Inch Christmas Wreath - Prelit with 40 LED Lights](https://www.garvee.com/products/garvee-30-inch-christmas-wreath-prelit-pho-0rc9x2xo): Elevate your holiday decor with GARVEE's 30" Christmas wreath, featuring 40 LED lights, vibrant red and gold accents, and a stunning bow. Perfect for indoor and outdoor use!
-  Updated: 2025-11-10T06:03:08Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29688,14 +29709,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81iFU-1t5rL_73faf087-ed8f-45e3-b0c3-bd020e995caa.jpg?v=1762504473
   Price: $79.99 USD
 - [GARVEE 3ft Mini Christmas Tree(2 Pcs) - Prelit with 78 Warm White LEDs](https://www.garvee.com/products/garvee-3ft-mini-christmas-tree-with-pho-0wihdgue): Elevate your holiday decor with GARVEE's 3FT Mini Christmas Tree featuring 8 lighting modes, a realistic snowy look, and a convenient timer function for effortless ambiance.
-  Updated: 2025-11-10T07:25:42Z
+  Updated: 2025-11-10T07:52:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Snowflake-8Mode3FT2Pack-01.jpg?v=1756179683
   Price: $79.99 USD
 - [Garvee 3FT Mini Prelit Snow Flocked Artificial Christmas Tree Pre-Lit Home Office Party White Base](https://www.garvee.com/products/garvee-3ft-mini-prelit-premium-snow-pho-0wiht3nm): Elevate your holiday decor with GARVEE's 3ft pre-lit snow flocked Christmas tree, featuring realistic branches, 78 warm white LEDs, and a sturdy base for effortless elegance.
-  Updated: 2025-11-10T07:25:42Z
+  Updated: 2025-11-10T07:58:17Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29820,15 +29841,8 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Main-01_2_62142890-3dd3-4007-9c34-74b340f67284.jpg?v=1756205671
   Price: $79.99 USD
-- [Garvee Artificial Berry Stems - Set of 3 Bundles for Home, Wedding, and Party Decoration](https://www.garvee.com/products/garvee-artificial-berry-stems-set-of-fqzol-1sxxunks): Enhance your decor with GARVEE's eco-friendly artificial berry stems. Perfect for weddings and home styling, these versatile bundles add a charming touch.
-  Updated: 2025-11-04T10:24:53Z
-  Vendor: Garvee
-  Product Type: Home & Furniture > Home Decor > Artificial Plants & Flowers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Av_0FZY9L.jpg?v=1729590116
-  Price: $26.99 USD
 - [GARVEE 3 FT Pre-Lit Christmas Tree with 78 LED Lights](https://www.garvee.com/products/garvee-3-ft-christmas-tree-pre-pho-0wihrony): Illuminate your holidays with the GARVEE 3 FT Christmas Tree, featuring a charming base, 78 LED lights, and easy assembly for festive elegance.
-  Updated: 2025-11-10T06:59:07Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29842,21 +29856,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/00_7a9c1e82-1bd4-4da4-8eb9-aa4255dff6a9.webp?v=1762507233
   Price: $79.99 USD
 - [GARVEE 3ft Mini Christmas Tree with 78 LEDs Remote Control - Perfect Xmas Decor](https://www.garvee.com/products/garvee-3-ft-prelit-premium-snow-pho-0wihl1lm): Transform your space with the GARVEE 3 Ft Prelit Christmas Tree featuring 8 lighting modes, realistic snow-flocked branches, and a convenient timer for effortless holiday cheer.
-  Updated: 2025-11-10T04:31:34Z
+  Updated: 2025-11-10T07:38:42Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/3ftElkBase-1pcs-06_5948fd34-94a4-465a-9d25-4163d582dc46.jpg?v=1762503580
   Price: $79.99 USD
 - [GARVEE 3ft Pre Lit Christmas Tree with Burlap Base - Best Choice for Christmas Decor](https://www.garvee.com/products/garvee-3ft-pre-lit-fiber-optic-pho-0wihps89): Elevate your holiday decor with the GARVEE 3ft pre-lit Christmas tree, featuring 8 lighting modes, a burlap base, and beautiful decorations for a stunning festive touch.
-  Updated: 2025-11-10T04:31:15Z
+  Updated: 2025-11-10T07:52:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2pcs-01.jpg?v=1756199228
   Price: $79.99 USD
 - [GARVEE 3ft Pre-Lit Christmas Tree with Snowman Base - A Festive Delight](https://www.garvee.com/products/garvee-3-ft-prelit-premium-snow-pho-0wihhzse): Elevate your holiday decor with GARVEE's 3 Ft prelit Christmas tree featuring 8 lighting modes, realistic snow-flocked branches, and a convenient timer for effortless charm.
-  Updated: 2025-11-10T05:04:25Z
+  Updated: 2025-11-10T07:52:34Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29870,7 +29884,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_IObGH48L.jpg?v=1762506009
   Price: $49.99 USD
 - [Garvee 3FT Prelit Artificial Christmas Tree Set of 2, Snowflake Light Box Base 78 Warm Lights Red Berry for Front Door Porch Entryway Fireside Decor](https://www.garvee.com/products/garvee-3ft-artificial-snow-flocked-christmas-pho-0wih6ip1): Elevate your holiday decor with GARVEE's 2 Set 3FT pre-lit Christmas tree featuring 78 LED lights, a snowflake light box base, and hassle-free maintenance for a festive touch.
-  Updated: 2025-11-10T06:39:15Z
+  Updated: 2025-11-10T07:38:41Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29891,7 +29905,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61zWX139nSL_ad8f47cb-c03d-41d6-8f63-6e67a8f64f82.jpg?v=1729590131
   Price: $50.99 USD
 - [GARVEE 3ft Small Christmas Tree with 78 LEDs Remote Control - Perfect Xmas Decor](https://www.garvee.com/products/garvee-3-ft-prelit-premium-snow-pho-0wihc4px): Transform your space with the GARVEE 3 Ft Prelit Christmas Tree featuring 8 lighting modes, realistic snow-flocked branches, and a convenient timer for effortless holiday cheer.
-  Updated: 2025-11-10T06:39:16Z
+  Updated: 2025-11-10T07:38:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -30066,7 +30080,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17270818975912774_676510ab-268b-4ad1-a4ca-34b6370c1b93.jpg?v=1758092336
   Price: $135.99 USD
 - [GARVEE 6ft Christmas Garland with Lights - Festive Holiday Decor](https://www.garvee.com/products/garvee-6ft-christmas-garland-with-lights-pho-0vcwv23z): Elevate your holiday decor with the GARVEE 6ft Christmas Garland, featuring 20 LED lights, red poinsettias, and a battery-operated design for versatile decorating.
-  Updated: 2025-11-10T05:55:22Z
+  Updated: 2025-11-10T07:59:16Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -30136,7 +30150,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61sqNITzF7L.jpg?v=1729590764
   Price: $59.99 USD
 - [GARVEE Christmas Duvet Cover King - Reversible Comforter Set](https://www.garvee.com/products/garvee-christmas-duvet-cover-king-reversible-pho-0yx1yp55): Transform your bedroom with GARVEE's reversible Christmas duvet cover set. Soft microfiber, secure fit, and easy care make it the perfect festive bedding.
-  Updated: 2025-11-10T05:55:39Z
+  Updated: 2025-11-10T07:38:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -30304,7 +30318,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814SR-RHZYL.jpg?v=1731560925
   Price: $118.99 USD
 - [GARVEE Nesting Boxes for Chickens - Innovative Egg Collection Solution](https://www.garvee.com/products/garvee-nesting-boxes-for-chickens-6-pho-15feq518): Discover GARVEE's 6-compartment nesting boxes with automatic egg collection, sturdy design, and easy cleaning for a safe and comfortable laying environment.
-  Updated: 2025-11-10T05:02:08Z
+  Updated: 2025-11-10T07:52:32Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Livestock & Poultry Supplies > Egg Laying Box
   Availability: Available
