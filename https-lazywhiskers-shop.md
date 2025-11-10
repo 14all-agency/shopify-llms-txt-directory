@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-09T00:00:34.982Z
+- Updated At: 2025-11-10T00:00:37.589Z
 
 ## Products
 
@@ -2478,7 +2478,7 @@
     Availability: Available
     Price: €39.99 EUR
 - [Telekinetic? Nah, Just Dramatic Hoodie | LazyWhiskers](https://lazywhiskers.shop/products/telekinetic-nah-just-dramatic): You say telekinetic — we say dramatic. This LazyWhiskers hoodie blends sarcasm, attitude, and cat-level chaos. Limited edition streetwear.
-  Updated: 2025-11-08T15:22:46Z
+  Updated: 2025-11-09T03:14:03Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2564,7 +2564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
     Price: €39.99 EUR
 - [Friends Don’t Lie. Cats Don’t Care T-Shirt | LazyWhiskers](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care): Friends don’t lie. Cats don’t care. A sarcastic LazyWhiskers tee for unapologetic cat lovers — vintage-style, limited edition, and designed to disobey.
-  Updated: 2025-11-08T15:20:08Z
+  Updated: 2025-11-09T03:14:02Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2590,7 +2590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
     Price: €24.99 EUR
 - [Enter the Nap Side Down T-Shirt — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/products/enter-the-nap-side-down): Step into the Nap Side Down — where naps rule and reality glitches. Retro rebellion meets cat energy in this Limited Edition LazyWhiskers tee.
-  Updated: 2025-11-08T15:17:20Z
+  Updated: 2025-11-09T02:58:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
