@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-11-09T00:00:55.247Z
+- Updated At: 2025-11-10T00:00:34.576Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -27,44 +27,37 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $25.99 USD
 - [Cute Bear Bodysuit Soft and Durable Baby Outfit](https://printexplore9.com/products/baby-ribbed-bodysuit): Soft baby bodysuit with cute bear design gentle cotton fabric unisex fit and lap shoulders for easy changes.
-  Updated: 2025-10-12T09:52:47Z
+  Updated: 2025-11-09T06:37:30Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit.jpg?v=1759082039
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit-printandexplore-2.jpg?v=1759082046
   - [White / 6M](https://printexplore9.com/products/baby-ribbed-bodysuit?variant=45051646574859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit.jpg?v=1759082039
     Price: $27.98 USD
   - [White / 12M](https://printexplore9.com/products/baby-ribbed-bodysuit?variant=45051646607627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit.jpg?v=1759082039
     Price: $27.98 USD
   - [White / 18M](https://printexplore9.com/products/baby-ribbed-bodysuit?variant=45051646640395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit.jpg?v=1759082039
     Price: $27.98 USD
 - [Cute Bear Family  Toddler T-Shirt](https://printexplore9.com/products/toddler-t-shirt-print-explore): Cute bear Family toddler tee, soft cotton built to last. perfect for active kids. Perfect for playtime and daily wear.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-09T06:35:12Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt_blue_Pink_Bears.jpg?v=1759081852
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt-printandexplore-4.jpg?v=1759081373
   - [Navy / 3T](https://printexplore9.com/products/toddler-t-shirt-print-explore?variant=45051648966923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt_blue_Pink_Bears.jpg?v=1759081852
     Price: $28.95 USD
   - [Heather Royal / 3T](https://printexplore9.com/products/toddler-t-shirt-print-explore?variant=45051648999691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt-printandexplore-2.jpg?v=1759081105
     Price: $28.95 USD
   - [Heather Royal / 4T](https://printexplore9.com/products/toddler-t-shirt-print-explore?variant=45051649032459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt-printandexplore-2.jpg?v=1759081105
     Price: $28.95 USD
   - [Heather Royal / 5T](https://printexplore9.com/products/toddler-t-shirt-print-explore?variant=45051649065227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt-printandexplore-2.jpg?v=1759081105
     Price: $28.95 USD
 - [Canvas Lunch Bag with Strap](https://printexplore9.com/products/canvas-lunch-bag-with-strap): Shop our eco-friendly canvas lunch bag with strap. Designed for durability and reusability. best for your daily meals and snacks.
   Updated: 2025-10-12T09:54:42Z
@@ -80,13 +73,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/camping-mug-cute-bears.jpg?v=1759081808
   Price: $16.55 USD
-- [Cotton Tote Bag for Everyday Use](https://printexplore9.com/products/cotton-tote-bag-print-explore): This cotton tote bag is perfect blend of style and eco-friendliness. Made from durable cotton material, these bags are ideal for shopping, errands, and carrying your essentials in an environmentally conscious way.
-  Updated: 2025-10-12T09:52:47Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-tote-bag.jpg?v=1759081843
-  Price: $15.95 USD
 - [Microfiber Tea Towel](https://printexplore9.com/products/microfiber-tea-towel-print-explore): Add charm with our blue flowers tea towel—quick-dry, soft & durable. Perfect for everyday messes or a fresh pop of kitchen style!
   Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
@@ -234,13 +220,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/scented-soy-candle-9oz.jpg?v=1759081828
   Price: $18.65 USD
-- [Organic Canvas Tote Bags – Stay with Green](https://printexplore9.com/products/organic-canvas-tote-bags): Shop our stylish organic canvas tote bags and embrace a greener lifestyle. Perfect for shopping, travel, and everyday use—stay with green!
-  Updated: 2025-10-12T09:52:46Z
-  Vendor: Printify
-  Product Type: Bags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/organic-canvas-tote-bag.jpg?v=1759082147
-  Price: $34.83 USD
 - [Kiss Cute Stickers](https://printexplore9.com/products/kiss-cute-stickers): Add charm with our cute bear kiss-cut stickers! Perfect for personalizing your gear and spreading joy. Grab your favorites now!
   Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
@@ -279,95 +258,29 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/outdoor-drawstring-bag-printandexplore-2.jpg?v=1759081405
   Price: $17.53 USD
 - [Unisex Crewneck Sweatshirt](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore): Stay warm and cozy in our unisex crewneck sweatshirt made from soft 50/50 cotton-poly blend—durable comfort perfect for chilly days.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-09T06:32:18Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081139
   - [S / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051711848715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
   - [M / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051711881483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
   - [L / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051711914251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
   - [XL / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051711947019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
   - [2XL / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051711979787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
   - [3XL / White](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore?variant=45051712012555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
-- [Womens Flowy Racerback Tank](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore): Give the perfect holiday gift! This women's flowy racerback tank flatters every silhouette—stylish -sporty & ultra-comfy!
-  Updated: 2025-10-12T09:54:42Z
-  Vendor: Printify
-  Product Type: Tank Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-  - [White / XS](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051712962827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-  - [White / S](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051712995595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-  - [White / M](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051713028363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-  - [White / L](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051713061131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-  - [White / XL](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051713093899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-  - [White / 2XL](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore?variant=45051713126667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
-    Price: $29.95 USD
-- [Unisex Moisture Wicking Tee](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore): Stay cool and vibrant with our unisex moisture-wicking Sport-Tek® tee—lightweight, breathable  and color-locking for all-day comfort!
-  Updated: 2025-10-12T09:53:31Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-moisture-wicking-tee-_clock_design.jpg?v=1759081919
-  - [White / XS](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714306315)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / S](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714339083)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / M](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714371851)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / L](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714404619)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / XL](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714437387)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / 2XL](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714470155)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / 3XL](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714502923)
-    Availability: Available
-    Price: $29.95 USD
-  - [White / 4XL](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore?variant=45051714535691)
-    Availability: Available
-    Price: $29.95 USD
 - [Cozy Up in Style with Plush Square Pillows](https://printexplore9.com/products/spun-polyester-square-pillow-1): Elevate your space with plush, supportive square pillows—soft-touch feel, lasting shape, and elegant style for ultimate relaxation.
   Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
@@ -383,38 +296,31 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle_pink_flowers.jpg?v=1759081823
   Price: $18.65 USD
 - [Cosmic Bloom Men’s Garment Dyed Cotton T-Shirt](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore): Stay comfortable and stylish in the Cosmic Bloom garment dyed cotton tee with a vibrant purple fractal design relaxed fit and pre-shrunk fabric for lasting shape.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-09T06:27:45Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-1.jpg?v=1759081471
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-5.jpg?v=1759081487
   - [Black / S](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716436235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-1.jpg?v=1759081471
     Price: $26.95 USD
   - [Black / M](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716501771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-1.jpg?v=1759081471
     Price: $26.95 USD
   - [Black / L](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716567307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-1.jpg?v=1759081471
     Price: $26.95 USD
   - [Black / XL](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716600075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-1.jpg?v=1759081471
     Price: $26.95 USD
   - [Ivory / S](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716469003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-2.jpg?v=1759081475
     Price: $26.95 USD
   - [Ivory / M](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716534539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-2.jpg?v=1759081475
     Price: $26.95 USD
   - [Ivory / XL](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore?variant=45051716632843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-2.jpg?v=1759081475
     Price: $26.95 USD
 - [Phone Case](https://printexplore9.com/products/tough-cases-print-explore-1): Shield your phone in style with a  pink heart design dual-layer protection sleek glossy or matte. precise cutouts wireless charging.
   Updated: 2025-10-12T09:54:41Z
@@ -550,30 +456,25 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
     Price: $46.32 USD
 - [Women’s Boxy T-Shirt](https://printexplore9.com/products/womans-t-shirt-print-explore): Stand out in ultra-soft 100% Airlume cotton boxy tee with relaxed fit and dropped shoulders—effortless style and vibrant elegance all day long!
-  Updated: 2025-10-12T09:52:46Z
+  Updated: 2025-11-09T06:53:38Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-printandexplore-2.jpg?v=1759081078
   - [White / XS](https://printexplore9.com/products/womans-t-shirt-print-explore?variant=45051807858955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
   - [White / S](https://printexplore9.com/products/womans-t-shirt-print-explore?variant=45051807891723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
   - [White / L](https://printexplore9.com/products/womans-t-shirt-print-explore?variant=45051807924491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
   - [White / XL](https://printexplore9.com/products/womans-t-shirt-print-explore?variant=45051807957259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
   - [White / 2XL](https://printexplore9.com/products/womans-t-shirt-print-explore?variant=45051807990027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
 - [Pink Heart Personalized Bookmark](https://printexplore9.com/products/bookmark-1): Elevate your reading with a sleek aluminum bookmark featuring a pink heart design and secure top slot the perfect gift for book lovers!
   Updated: 2025-10-12T09:52:47Z
@@ -596,38 +497,31 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Kiss_Cut_Stickers.jpg?v=1759081877
     Price: $2.32 USD
 - [All-Day Comfort – Floral Bloom Tee in Soft Airlume Cotton](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore): Experience unmatched comfort with 100% Airlume cotton. Lightweight fabric keeps you cool. Stunning floral design on a rich purple background. Stylish and soft.
-  Updated: 2025-10-12T09:54:42Z
+  Updated: 2025-11-09T07:26:20Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/flowers-with-purple-background-usa-made-unisex-short-sleeve-jersey-t-shirt.jpg?v=1762673132
   - [White / XS](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818803467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / S](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818836235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / M](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818869003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / L](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818901771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / XL](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818934539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / 2XL](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051818967307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
   - [White / 3XL](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore?variant=45051819000075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
 - [Unisex  Selfcare Priority Cotton T-shirt](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore): Unises Selfcare Priority Cotton T-shirt, Made from 100% combed ring-spun organic cotton, for lasting comfort and durability! Made in USA.
   Updated: 2025-10-12T09:54:48Z
@@ -649,120 +543,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [White / 2XL](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore?variant=45063004061963)
     Availability: Available
-    Price: $29.95 USD
-- [Soft Style T-Shirts](https://printexplore9.com/products/soft-style-t-shirts): Experience unmatched comfort and style with our Soft Style T-Shirts—unisex designs perfect for every wardrobe and all occasions!
-  Updated: 2025-10-12T09:53:31Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-1.jpg?v=1759082165
-  - [Dark Chocolate / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424803083)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-1.jpg?v=1759082165
-    Price: $29.95 USD
-  - [Dark Chocolate / M](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424868619)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-1.jpg?v=1759082165
-    Price: $29.95 USD
-  - [Dark Chocolate / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424966923)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-1.jpg?v=1759082165
-    Price: $29.95 USD
-  - [Navy / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365263627)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-2.jpg?v=1759082171
-    Price: $29.95 USD
-  - [Navy / M](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365394699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-2.jpg?v=1759082171
-    Price: $29.95 USD
-  - [Navy / L](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365525771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-2.jpg?v=1759082171
-    Price: $29.95 USD
-  - [Navy / XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365656843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-2.jpg?v=1759082171
-    Price: $29.95 USD
-  - [Navy / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365787915)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-2.jpg?v=1759082171
-    Price: $29.95 USD
-  - [White / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365296395)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-3.jpg?v=1722871522
-    Price: $29.95 USD
-  - [White / M](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365427467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-3.jpg?v=1722871522
-    Price: $29.95 USD
-  - [White / L](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365558539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-3.jpg?v=1722871522
-    Price: $29.95 USD
-  - [White / XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365689611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-3.jpg?v=1722871522
-    Price: $29.95 USD
-  - [White / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365820683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-3.jpg?v=1722871522
-    Price: $29.95 USD
-  - [Black / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365329163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-4.jpg?v=1759082183
-    Price: $29.95 USD
-  - [Black / M](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365460235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-4.jpg?v=1759082183
-    Price: $29.95 USD
-  - [Black / L](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365591307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-4.jpg?v=1759082183
-    Price: $29.95 USD
-  - [Black / XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365722379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-4.jpg?v=1759082183
-    Price: $29.95 USD
-  - [Black / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365853451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-4.jpg?v=1759082183
-    Price: $29.95 USD
-  - [Heather Irish Green / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424835851)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-5.jpg?v=1759082189
-    Price: $29.95 USD
-  - [Heather Irish Green / L](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424901387)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-5.jpg?v=1759082189
-    Price: $29.95 USD
-  - [Heather Irish Green / XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424934155)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-5.jpg?v=1759082189
-    Price: $29.95 USD
-  - [Heather Irish Green / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063424999691)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-5.jpg?v=1759082189
-    Price: $29.95 USD
-  - [Heather Indigo / S](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365361931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
-    Price: $29.95 USD
-  - [Heather Indigo / M](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365493003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
-    Price: $29.95 USD
-  - [Heather Indigo / L](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365624075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
-    Price: $29.95 USD
-  - [Heather Indigo / XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365755147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
-    Price: $29.95 USD
-  - [Heather Indigo / 2XL](https://printexplore9.com/products/soft-style-t-shirts?variant=45063365886219)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
     Price: $29.95 USD
 - [Men's  Garment Dyed T-Shirt](https://printexplore9.com/products/mens-garment-dyed-t-shirt): Comfortable men’s t-shirt with bold tiger design relaxed fit durable fabric pre-shrunk shape-retaining ethically made perfect for everyday wear.
   Updated: 2025-10-12T09:53:30Z
@@ -872,102 +652,79 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/high-waisted-yoga-leggings.jpg?v=1759082047
   Price: $53.48 USD
 - [Unisex Heavy Blend Crewneck Sweatshirt](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt): Stay cozy and stylish with this durable crewneck sweatshirt made from a warm cotton-polyester blend. Soft, long-lasting, and itch-free comfort for colder days.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-09T06:26:10Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-7.jpg?v=1759082337
   - [S / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350415627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $27.98 USD
   - [S / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350448395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $27.98 USD
   - [S / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350481163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $27.98 USD
   - [M / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350513931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $27.98 USD
   - [M / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350546699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $27.98 USD
   - [M / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350579467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $27.98 USD
   - [M / Black](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350612235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $27.98 USD
   - [L / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350645003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $27.98 USD
   - [L / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350677771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $27.98 USD
   - [L / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350710539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $27.98 USD
   - [L / Black](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350743307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $27.98 USD
   - [XL / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350776075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $27.98 USD
   - [XL / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350808843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $27.98 USD
   - [XL / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350841611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $27.98 USD
   - [XL / Black](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350874379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $27.98 USD
   - [2XL / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350907147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $32.17 USD
   - [2XL / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350939915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $32.17 USD
   - [2XL / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359350972683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $32.17 USD
   - [2XL / Black](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359351005451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $32.17 USD
   - [3XL / Red](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359351038219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/15569291540880508083_2048.jpg?v=1759082308
     Price: $34.23 USD
   - [3XL / Sand](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359351070987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6847022295700919438_2048.jpg?v=1759082316
     Price: $34.23 USD
   - [3XL / Sport Grey](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359351103755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-4.jpg?v=1759082320
     Price: $34.23 USD
   - [3XL / Black](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt?variant=45359351136523)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $34.23 USD
 - [Colorful Love Letter Pillows | Stylish Room Decor](https://printexplore9.com/products/spun-polyester-square-pillow-2): Vibrant double-sided pillows with love-letter designs. 100% polyester, concealed zippers, and available in various sizes to enhance any room.
   Updated: 2025-10-12T09:52:46Z
@@ -997,7 +754,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/insulated-travel-mug-10oz.jpg?v=1759081873
   Price: $32.12 USD
 - [Unisex Heavy Blend™ Crewneck Sweatshirt](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt): Stand out with this Unisex Heavy Blend™ Crewneck Sweatshirt. Soft and cozy fabric for comfort. perfect for casual looks that make a statement.
-  Updated: 2025-10-30T02:40:15Z
+  Updated: 2025-11-09T06:20:12Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -1010,7 +767,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [S / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390916875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [M / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359390949643)
     Availability: Available
@@ -1020,7 +776,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [M / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391015179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [L / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391047947)
     Availability: Available
@@ -1030,7 +785,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [L / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391113483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391146251)
     Availability: Available
@@ -1040,7 +794,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391211787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [2XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391244555)
     Availability: Available
@@ -1050,7 +803,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [2XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391310091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
   - [3XL / Sand](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391342859)
     Availability: Available
@@ -1060,49 +812,39 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $39.95 USD
   - [3XL / White](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt?variant=45359391408395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1761745400
     Price: $39.95 USD
 - [Ultra-Soft & Comfy Infant Baby Rib Bodysuit](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore): Ultra-soft infant bodysuit with easy lap shoulders for quick changes. Made of 100% ring-spun cotton for ultimate comfort and gentle care. Perfect for your baby.
-  Updated: 2025-10-12T09:53:31Z
+  Updated: 2025-11-09T06:19:01Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-1.jpg?v=1759081587
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-6.jpg?v=1759081619
   - [Pink / 6M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359397929227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-1.jpg?v=1759081587
     Price: $27.98 USD
   - [White / 6M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359397961995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-2.jpg?v=1759081594
     Price: $27.98 USD
   - [Natural / 6M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359397994763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-3.jpg?v=1759081600
     Price: $27.98 USD
   - [Pink / 12M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398027531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-1.jpg?v=1759081587
     Price: $27.98 USD
   - [White / 12M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398060299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-2.jpg?v=1759081594
     Price: $27.98 USD
   - [Natural / 12M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398093067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-3.jpg?v=1759081600
     Price: $27.98 USD
   - [Pink / 18M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398125835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-1.jpg?v=1759081587
     Price: $27.98 USD
   - [White / 18M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398158603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-2.jpg?v=1759081594
     Price: $27.98 USD
   - [Natural / 18M](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore?variant=45359398191371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-3.jpg?v=1759081600
     Price: $27.98 USD
 - [Personalized Toddler T-Shirt](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore): Keep your toddler comfy with this soft classic-fit tee featuring durable stitching and a vibrant Tiger in Glasses design. Perfect for playtime and everyday wear.
   Updated: 2025-11-05T15:13:38Z
@@ -1136,18 +878,16 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Tumbler_i_choose_love.jpg?v=1759081889
   Price: $34.60 USD
 - [Oversized Boxy Tee | Effortless Style & comfort](https://printexplore9.com/products/oversized-boxy-tees): Stay chic and comfortable with the Vibrant Elegance oversized boxy tee. Made from 100% Airlume cotton, it offers a soft, breathable fit for ultimate everyday ease.
-  Updated: 2025-10-12T09:52:47Z
+  Updated: 2025-11-09T06:16:44Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-6.jpg?v=1759082105
   - [Athletic Heather / XS](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405269259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / XS](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405302027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / XS](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405334795)
     Availability: Available
@@ -1157,11 +897,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / S](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405400331)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / S](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405433099)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / S](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405465867)
     Availability: Available
@@ -1171,11 +909,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / M](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405531403)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / M](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405564171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / M](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405596939)
     Availability: Available
@@ -1185,11 +921,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / L](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405662475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / L](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405695243)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / L](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405728011)
     Availability: Available
@@ -1199,11 +933,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405793547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405826315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405859083)
     Availability: Available
@@ -1213,11 +945,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / 2XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405924619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / 2XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405957387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / 2XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359405990155)
     Availability: Available
@@ -1227,11 +957,9 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $29.95 USD
   - [Athletic Heather / 3XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359406055691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-1.jpg?v=1759082093
     Price: $26.95 USD
   - [Soft Pink / 3XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359406088459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/mindfulness-unisex-oversized-boxy-tee-printandexplore-2.jpg?v=1759082102
     Price: $29.95 USD
   - [White / 3XL](https://printexplore9.com/products/oversized-boxy-tees?variant=45359406121227)
     Availability: Available
@@ -1280,14 +1008,14 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $49.95 USD
 - [Cute Bears Family Suitcase](https://printexplore9.com/products/suitcase): Travel in style with this cute pink bears suitcase. swivel wheels and built-in lock & comfy handle for smooth and secure adventures!
-  Updated: 2025-10-12T09:54:42Z
+  Updated: 2025-11-09T06:55:42Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/suitcase-Pink_Bears.jpg?v=1759082578
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/suitcase-printandexplore-3.jpg?v=1759082563
   Price: $223.88 USD
 - [Oversized Cotton Shirt | Comfort and Relaxed Fit](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore): Embrace comfort with our oversized boxy tees designed for relaxed fit. perfrect for lounging or casual outings. style meets ease effortlessly.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-11-09T06:17:45Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1298,7 +1026,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / S](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969783051)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Red / S](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969815819)
     Availability: Available
@@ -1310,7 +1037,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / M](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969881355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Red / M](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969914123)
     Availability: Available
@@ -1326,7 +1052,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / L](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377969979659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Red / L](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970012427)
     Availability: Available
@@ -1342,7 +1067,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970077963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Red / XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970110731)
     Availability: Available
@@ -1362,7 +1086,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / 2XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970209035)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Red / 2XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970241803)
     Availability: Available
@@ -1378,7 +1101,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Price: $26.95 USD
   - [Athletic Heather / 3XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45377970307339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-3.jpg?v=1759081445
     Price: $26.95 USD
   - [Cypress / 3XL](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore?variant=45378739470603)
     Availability: Available
@@ -1388,27 +1110,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-heavy-oversized-tee-printandexplore-5.jpg?v=1759081456
     Price: $26.95 USD
-- [Unisex Distressed Cap](https://printexplore9.com/products/unisex-distressed-cap-1): 30 Days Money Back Guarantee💰✅ 🌸 Crafted from 100% cotton twill for unbeatable comfort and durability.🌸 Rock a sleek, low-profile look that fits any style.🌸 Stay cool and protected with an adjustable metal D-ring closure.🌸 Features a bold 2024 design inspired by the US flag colors and last year’s elections.
-  Updated: 2025-08-11T04:34:27Z
-  Vendor: Printify
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-distressed-cap_2024.jpg?v=1735926265
-  - [Black / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455072002315)
-    Availability: Available
-    Price: $23.63 USD
-  - [Dashing Red / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455132754187)
-    Availability: Available
-    Price: $23.63 USD
-  - [Light Olive / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455132786955)
-    Availability: Available
-    Price: $23.63 USD
-  - [Nickel / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455072035083)
-    Availability: Available
-    Price: $23.63 USD
-  - [Stone / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455072067851)
-    Availability: Available
-    Price: $23.63 USD
 - [Explore Custom Suitcase – Lightweight, Durable & Stylish Luggage](https://printexplore9.com/products/suitcase-1): Travel confidently with our custom suitcase—lightweight, secure, and stylish. Smooth wheels and hard-shell design make every trip effortless.
   Updated: 2025-10-19T11:32:22Z
   Vendor: Printify
@@ -2041,62 +1742,8 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hair_Oil.jpg?v=1759081853
   Price: $27.35 USD
-- [Soft Unisex CVC Jersey T Shirt](https://printexplore9.com/products/cvc-jersey-t-shirt): Shop our unisex CVC jersey T-shirt for a blend of softness and classic style. Ideal for daily wear. perfect addition to your wardrobe!
-  Updated: 2025-10-12T19:06:25Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-  - [CVC Midnight Navy / S](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703211745547)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $20.45 USD
-  - [CVC White / S](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703211811083)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $20.45 USD
-  - [CVC Midnight Navy / M](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703211876619)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $20.45 USD
-  - [CVC White / M](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703211909387)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $20.45 USD
-  - [CVC Midnight Navy / L](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703211974923)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $20.45 USD
-  - [CVC White / L](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212007691)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $20.45 USD
-  - [CVC Midnight Navy / XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212040459)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $20.45 USD
-  - [CVC White / XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212105995)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $20.45 USD
-  - [CVC Midnight Navy / 2XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212138763)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $23.05 USD
-  - [CVC White / 2XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212204299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $23.05 USD
-  - [CVC Midnight Navy / 3XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212269835)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisexcvc_Jersey_T-shirt_2024.jpg?v=1759082482
-    Price: $25.65 USD
-  - [CVC White / 3XL](https://printexplore9.com/products/cvc-jersey-t-shirt?variant=45703212302603)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
-    Price: $25.65 USD
 - [Unisex Garment-Dyed Tank Top | 100% US Cotton & Eco-Friendly](https://printexplore9.com/products/unisex-garment-dyed-tank-top-print-explore): Experience ultimate comfort in our unisex garment-dyed tank top made from 100% ring-spun US cotton. eco-friendly dyes and relaxed fit.
-  Updated: 2025-10-17T10:16:25Z
+  Updated: 2025-11-09T06:22:28Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -2280,22 +1927,22 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-11-03T19:44:34Z
+  Updated: 2025-11-09T07:29:52Z
   Total Products: 41
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
-  Updated: 2025-09-28T17:11:35Z
+  Updated: 2025-11-09T06:43:12Z
   Total Products: 10
 - [Sustainable Women's  T-Shirts & Sweatshirts](https://printexplore9.com/collections/womens): Eco friendly womens t-shirts and sweatshirts made from organic cotton. Customize your style with sustainable apparel made for you.
-  Updated: 2025-10-23T18:12:56Z
+  Updated: 2025-11-09T07:29:52Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-11-04T11:48:09Z
+  Updated: 2025-11-09T07:30:30Z
   Total Products: 30
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
   Updated: 2025-10-23T11:57:48Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
-  Updated: 2025-11-04T22:33:08Z
+  Updated: 2025-11-09T06:47:15Z
   Total Products: 11
 - [Candles](https://printexplore9.com/collections/candles)
   Updated: 2025-09-28T17:11:36Z
@@ -2307,16 +1954,16 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-10-18T17:48:44Z
   Total Products: 2
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-11-09T07:30:30Z
   Total Products: 8
 - [Unisex distressed Caps](https://printexplore9.com/collections/unisex-distressed-caps)
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-11-09T06:43:39Z
   Total Products: 1
 - [Home/Room Decor](https://printexplore9.com/collections/home-room-decor): Eco-friendly home decor crafted to enhance your room with natural materials Stylish designs that bring warmth and care.
-  Updated: 2025-11-04T11:48:09Z
+  Updated: 2025-11-09T06:47:33Z
   Total Products: 8
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
-  Updated: 2025-10-12T09:51:12Z
+  Updated: 2025-11-09T07:30:30Z
   Total Products: 12
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
   Updated: 2025-10-18T17:21:39Z
