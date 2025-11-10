@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-05T00:01:14.301Z
+- Updated At: 2025-11-10T00:00:55.409Z
 
 ## Products
 
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-01_3.jpg?v=1690456855
     Price: $889.00 USD
 - [Moissanite 2.90CT Round Diamond Minimalist Handmade Ring](https://ibizjewel.com/products/moissanite-2-90ct-round-diamond-minimalist-handmade-ring): Expertly handcrafted and scientifically designed, this minimalist ring showcases a stunning 2.90CT round diamond made from high-quality, sustainable moissanite. With its elegant simplicity and unparalleled brilliance, this ring is perfect for any occasion and will last a lifetime.
-  Updated: 2025-10-02T10:30:36Z
+  Updated: 2025-11-05T00:44:56Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Round Diamond Ring
   Availability: Available
@@ -13950,7 +13950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-74_1.jpg?v=1709893060
     Price: $841.00 USD
 - [Moissanite 1.80CT Cushion Art Nouveau Engagement Ring](https://ibizjewel.com/products/moissanite-1-80ct-cushion-art-nouveau-engagement-ring): Expertly Crafted In An Art Nouveau Style, This Engagement Ring Features A Stunning 1.80CT Moissanite Cushion Cut Stone. The Perfect Alternative To A Traditional Diamond, Moissanite Offers Exceptional Brilliance And Durability. Make A Statement With This Unique And Elegant Ring.
-  Updated: 2025-10-02T10:30:49Z
+  Updated: 2025-11-05T18:09:15Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
@@ -24636,7 +24636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-128_2.jpg?v=1710924611
     Price: $1,030.00 USD
 - [Natural Salt And Pepper 1.50CT Pear Diamond Boho & Hippie Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-50ct-pear-diamond-boho-hippie-handmade-ring): Enhance Your Bohemian Look With Our Natural Salt And Pepper 1.50ct Pear Diamond Handmade Ring. Handcrafted With Care, This Unique Piece Features A Stunning 1.50ct Baguette Diamond, Adding A Touch Of Sparkle To Any Outfit. Channel Your Inner Hippie With This One-of-a-kind Ring.
-  Updated: 2025-10-02T10:31:00Z
+  Updated: 2025-11-07T23:48:57Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -44634,6 +44634,14 @@
     Updated: 2025-11-03T04:03:08Z
     Author: Heris K.
     Tags: alternative engagement rings, diamonds, eco-friendly rings, ethical gemstones, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry trends
+  - [A Thorough Checklist for Selecting the Perfect Salt and Pepper Diamond Ring](https://ibizjewel.com/blogs/news/a-thorough-checklist-for-selecting-the-perfect-salt-and-pepper-diamond-ring): A Thorough Checklist for Selecting the Perfect Salt and Pepper Diamond Ring
+    Updated: 2025-11-05T02:41:02Z
+    Author: Heris K.
+    Tags: choosing the right diamond ring, diamonds, eco-friendly jewelry, ethical gemstones, jewelry, salt and pepper diamond ring, salt and pepper rings, sustainable, sustainable engagement rings
+  - [An Educational Tour on the Crafting of Salt and Pepper Diamond Rings](https://ibizjewel.com/blogs/news/an-educational-tour-on-the-crafting-of-salt-and-pepper-diamond-rings): An Educational Tour on the Crafting of Salt and Pepper Diamond Rings
+    Updated: 2025-11-09T00:08:59Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly rings, ethical craftsmanship, handcrafted diamond rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry design
 
 ## Store Pages
 
