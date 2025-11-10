@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-09T00:00:28.774Z
+- Updated At: 2025-11-10T00:00:36.254Z
 
 ## Products
 
@@ -1182,7 +1182,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/national-style-shirt-early-spring-youth-cotton-and-linen-loose-casual-237.webp?v=1752287799
     Price: € 24,96 EUR
 - [Geborduurde jurk voor moslima - Elegante stijl voor elke gelegenheid](https://oumich.com/products/geborduurde-jurk-voor-moslima): Ontdek onze geborduurde jurk voor moslima - een elegant en stijlvol ontwerp dat perfect is voor elke gelegenheid. Zie er schitterend uit en voel je zelfverzekerd!
-  Updated: 2025-11-08T00:13:04Z
+  Updated: 2025-11-09T02:27:21Z
   Vendor: byOumich
   Product Type: 0
   Availability: Available
@@ -1517,7 +1517,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress-411.webp?v=1752306804
     Price: € 25,75 EUR
 - [Maxi Jersey hijab – zachte & rekbare jersey hijab | byOumich](https://oumich.com/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Comfortabele jersey hijab met veel lengte voor extra volume. Ideaal voor dagelijks gebruik.
-  Updated: 2025-11-08T20:55:31Z
+  Updated: 2025-11-09T08:55:39Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
