@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-10-27T03:57:54Z
-- Updated At: 2025-11-10T00:00:41.459Z
+- Updated At: 2025-11-11T00:00:54.850Z
 
 ## Products
 
@@ -2987,7 +2987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0586/9374/6770/files/dZpex1mJxH8o85U.jpg?v=1762400613
     Price: $43.14 USD
 - [Sleek Home Meat Processor - CoconutGalleria](https://coconutgalleria.com/products/sleek-home-meat-processor): Make meal prep easy with the Stainless Steel Meat Grinder, designed for home use with powerful performance and a sleek industrial style. This semi-automatic grinder is equipped with adjustable speed settings and a portable charging function, perfect for efficiently grinding meat. Its stainless steel body ensures durability, while the low noise level makes it ideal for quiet use at home.Key Features: Material: High-quality stainless steel for durability and ease of cleaning. Noise Level: Operates below 36dB for quiet operation. Capacity: 5L (inclusive) to 10L (exclusive), ideal for various portion sizes. Energy Efficiency: Rated Level 3 for energy savings. Functionality: Semi-automatic with adjustable speed for custom grinding. Style: Industrial design to complement your kitchen. Cleaning: Non-automatic cleaning method for easy maintenance. Specifications: Color Options: Dark Green Steel-5L and Dark Blue Stainless Steel-5L. Capacity: Suitable for small to medium quantities with a 5L capacity. Packing Includes:1 x Meat Grinder SetSimplify your cooking with this durable, efficient, and quiet meat grinder for your household needs! - CoconutGalleria
-  Updated: 2025-11-06T03:51:15Z
+  Updated: 2025-11-10T10:31:08Z
   Vendor: CoconutGalleria
   Product Type: 
   Availability: Available
@@ -3017,7 +3017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0586/9374/6770/files/gZqS46WgNjLmk71H.webp?v=1762400971
     Price: $129.49 USD
 - [Classic Gamer R36S Handheld Console - CoconutGalleria](https://coconutgalleria.com/products/classic-gamer-r36s-handheld-console): The Retro R36S Portable Video Game Console is a must-have for nostalgic gamers and retro enthusiasts. Featuring a compact and portable design, this console comes pre-loaded with a wide variety of classic games from multiple platforms, allowing you to relive the golden era of gaming on the go. Its high-resolution screen, responsive controls, and long-lasting battery ensure an immersive gaming experience, whether you're at home or traveling. With support for various game formats and a sleek retro design, the R36S is perfect for both casual and serious gamers looking to enjoy timeless classics in a modern, portable form. - CoconutGalleria
-  Updated: 2025-11-06T03:52:13Z
+  Updated: 2025-11-10T10:31:09Z
   Vendor: CoconutGalleria
   Product Type: 
   Availability: Available
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0586/9374/6770/files/Ri8aZvouNsyfRJtA.webp?v=1762401113
     Price: $171.66 USD
 - [Nordic Glass French Press - CoconutGalleria](https://coconutgalleria.com/products/nordic-glass-french-press): Enhance your brewing experience with the Nordic Glass French Press, the epitome of a minimalist Nordic style heat-resistant tea and coffee maker. Crafted from superior-quality glass, this French press fits beautifully in any kitchen setting.• Model A - 350ml【Mario3.1 Fine Edition】• Model B - 600ml【Mario3.1 Fine Edition】• Model C - 350ml【Mario3.1 Double Cup Set】• Model D - 600ml【Mario3.1 Double Cup Set】This French press is equipped with a smooth, hand-operated flusher mechanism for optimal flavor extraction and is designed to safely handle hot beverages, ensuring both safety and durability. Included with your purchase is a stunning coffee pot, ready to enhance your daily tea and coffee rituals. - CoconutGalleria
-  Updated: 2025-11-06T03:53:54Z
+  Updated: 2025-11-10T10:31:09Z
   Vendor: CoconutGalleria
   Product Type: 
   Availability: Available
