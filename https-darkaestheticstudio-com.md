@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-07T00:00:26.029Z
+- Updated At: 2025-11-11T00:00:37.647Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -225,8 +225,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-white-sweatshirt-square-dark-aesthetic.png?v=1761594549
     Price: 399,00 kr SEK
-- [Dark Aesthetics Hoodie](https://darkaestheticstudio.com/products/dark-aesthetics-hoodie): 🖤 Den perfekta hoodien för din mysiga garderob Upptäck vår hoodie, mysig och stilren. Med sin mjuka blandning av 80 % bomull och 20 % polyester känns den lyxig mot huden och passar lika bra för vardagsbruk som för lata hemmadagar. Den avslappnade passformen och justerbara huvan ger en laid-back känsla – perfekt för unga vuxna, studenter och alla som älskar stil med komfort. Oavsett om du är på väg till föreläsningen, hänger med vänner eller njuter av en kylig kväll vid en brasa, är denna hoodie ett måste. Den rymliga kängurufickan håller dig varm och ger plats för dina viktigaste saker. 🎁 En perfekt present till födelsedagar, högtider – eller bara för att skämma bort någon (eller dig själv). ✨ Produktdetaljer Mjuk blandning: 80 % bomull / 20 % polyester Sydda sidosömmar för form och hållbarhet Justerbar huva för personlig komfort Känguruficka för värme och funktion Normal passform för dam med trendig stil för vuxna 🧼 Skötselråd Maskintvätt: 30°C Använd ej blekmedel Torktumla på låg värme Stryk, ånga eller torka med låg värme Ej kemtvätt Leverans: 10-30 arbetsdagar.
-  Updated: 2025-10-28T20:04:41Z
+- [Dark Aesthetics Hoodie](https://darkaestheticstudio.com/products/dark-aesthetics-hoodie): 🖤 Den perfekta hoodien för din mysiga garderob Upptäck vår hoodie, mysig och stilren. Med sin mjuka blandning av 80 % bomull och 20 % polyester känns den lyxig mot huden och passar lika bra för vardagsbruk som för lata hemmadagar. Den figursydda passformen och justerbara huvan ger en snygg och stilren känsla – perfekt för unga vuxna, studenter och alla som älskar stil med komfort. Oavsett om du är på väg till föreläsningen, hänger med vänner eller njuter av en kylig kväll vid en brasa, är denna hoodie ett måste. Den rymliga kängurufickan håller dig varm och ger plats för dina viktigaste saker. 🎁 En perfekt present till födelsedagar, högtider – eller bara för att skämma bort någon (eller dig själv). ✨ Produktdetaljer Mjuk blandning: 80 % bomull / 20 % polyester Sydda sidosömmar för form och hållbarhet Justerbar huva för personlig komfort Känguruficka för värme och funktion Normal passform - figursydd (vill du att den ska sitta lösare så ta en större storlek) 🧼 Skötselråd Maskintvätt: 30°C Använd ej blekmedel Torktumla på låg värme Stryk, ånga eller torka med låg värme Ej kemtvätt Leverans: 10-30 arbetsdagar.
+  Updated: 2025-11-09T05:27:51Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -1065,27 +1065,193 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10327830_large_54c3819e-2967-4c75-933d-c788657d37f9.png?v=1761757809
   Price: 359,00 kr SEK
+- [3D Gotisk Julrosett - Mörk Festlig Dekoration | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/christmas-bow-christmas-decorations-three-dimensional): Tredimensionella julrosetter i djupt vinrött och rutigt. Perfekt för dark aesthetic juldekoration. Flera storlekar tillgängliga. Lätt, dramatisk och unikt gotisk.
+  Updated: 2025-11-10T04:56:58Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Jul
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-wine-red-bow.png?v=1762714561
+  - [Liten](https://darkaestheticstudio.com/products/christmas-bow-christmas-decorations-three-dimensional?variant=52128958021975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-bow-with-measurements-only_9c9fc9f9-464a-4e5b-84a8-73070c28febf.png?v=1762714561
+    Price: 129,00 kr SEK
+  - [Mellan](https://darkaestheticstudio.com/products/christmas-bow-christmas-decorations-three-dimensional?variant=52128958054743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-large-bow-with-measurements_a2527f8f-78e2-4ff0-b957-51ac3f2635f8.png?v=1762714561
+    Price: 139,00 kr SEK
+  - [Stor](https://darkaestheticstudio.com/products/christmas-bow-christmas-decorations-three-dimensional?variant=52128958087511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-extra-large-bow-with-measurements_9d7914e1-f110-4490-937a-a25b3b68058c.png?v=1762714561
+    Price: 149,00 kr SEK
+- [Y2K Denim Benvärmare med Korsdesign - Dark Aesthetic Studio](https://darkaestheticstudio.com/products/y2k-denim-leg-cover-with-cross-design): Trendiga Y2K denim-benvärmare i svart med korsdetalj. Högmidjade med lätt utsvängd form och dragsko. 95% bomull, one size. Perfekt för din dark aesthetic-stil.
+  Updated: 2025-11-10T12:18:16Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Assecesoar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/black-denim-leg-warmers-on-model-full-look.png?v=1762716513
+  - [Svart](https://darkaestheticstudio.com/products/y2k-denim-leg-cover-with-cross-design?variant=52129438433623)
+    Availability: Available
+    Price: 389,00 kr SEK
+  - [Röd](https://darkaestheticstudio.com/products/y2k-denim-leg-cover-with-cross-design?variant=52129438466391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/pink-denim-leg-warmers-with-cross-detail_7e90fc63-63a7-48cc-afc6-8d12233dd1c2.png?v=1762716513
+    Price: 389,00 kr SEK
+  - [Blå](https://darkaestheticstudio.com/products/y2k-denim-leg-cover-with-cross-design?variant=52129438499159)
+    Availability: Available
+    Price: 389,00 kr SEK
+- [Laddningsbar glödlampa i retro design](https://darkaestheticstudio.com/products/decorative-night-light-bulb): En ljuskälla som inte bara lyser upp rummet – den förvandlar det. Denna laddningsbara 5V LED-lampa med retroformad glaskropp är designad som ett kärleksfullt artefakt, formad för att skapa stämning snarare än bara funktion. Perfekt som nattlampa, altarbelysning eller subtilt atmosfärsljus i din studio. 🕯️ Specifikationer: Ström: USB-laddbar 5V, 3W LED med knappströmbrytare Design: Retroformad glaskupa – skulptural och nostalgisk Mått: 70 x 110 mm Certifiering: EU CE – säker och pålitlig Låt den lysa upp dina kreativa rum med låg energi och hög närvaro. Leverans: 6-10 arbetsdagar.
+  Updated: 2025-11-10T07:36:20Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Hem
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-neonlampor-mockup_eed9f67a-7c8e-4887-961a-f861525fcc84.png?v=1762717732
+  - [Hjärta](https://darkaestheticstudio.com/products/decorative-night-light-bulb?variant=52129535099223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-neonlampor-mockup_eed9f67a-7c8e-4887-961a-f861525fcc84.png?v=1762717732
+    Price: 339,00 kr SEK
+  - [Regnbåge](https://darkaestheticstudio.com/products/decorative-night-light-bulb?variant=52129535131991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-neonlampor-mockup_eed9f67a-7c8e-4887-961a-f861525fcc84.png?v=1762717732
+    Price: 339,00 kr SEK
+  - [Stjärna](https://darkaestheticstudio.com/products/decorative-night-light-bulb?variant=52129535164759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-neonlampor-mockup_eed9f67a-7c8e-4887-961a-f861525fcc84.png?v=1762717732
+    Price: 339,00 kr SEK
+- [Halvfingerhandskar i Distressed Svart](https://darkaestheticstudio.com/products/ripped-gothic-half-finger-gloves): Dessa handskar är inte bara accessoarer – de är ett statement.Skapade för att bäras av dem som rör sig mellan subkulturer – hip-hop, punk, goth.🕯️ Specifikationer: Material: 100% polyester (acetic acid fabric) – lätt, följsamt och bekvämt Design: Halvfingerstil med distressed detaljer – rå, ofiltrerad estetik Färg: Svart med sliten finish – en del av den mörka vinden Leverans: 6–10 arbetsdagar
+  Updated: 2025-11-10T07:52:40Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Acessoar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-mockup-handskar-med-nagellack.png?v=1762718642
+  Price: 159,00 kr SEK
+- [Söta Plushies – För Den Som Vill Krama Det Oväntade](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll): Inte alla mjukdjur är sockersöta. Dessa brödformade plushies – från popcorn till baguetter – bär på en charm som är lika udda som den är oemotståndlig. Med sin lekfulla design och mjuka kropp är de perfekta för att bryta upp en annars monokrom estetik med en glimt av humor och värme. 🍞 Specifikationer: Material: Högkvalitativ plysch fylld med PP-bomull – mjuk, tät och kramvänlig Varianter: Finns i flera storlekar och stilar Användning: Perfekt som gåva, dekoration eller som en oväntad detalj i din inredning Låt dem vila på din sammetsoffa, i din studio eller i famnen under kalla kvällar. De är lika mycket konst som komfort. Leverans: 6-10 arbetsdagar.
+  Updated: 2025-11-10T08:09:49Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Kudde
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-croissant-dark-photography_142b5e2b-f428-4b75-a6ec-34cc7ef7404f.png?v=1762720097
+  - [Croissant 19x17cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643495767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-croissant-dark-photography_142b5e2b-f428-4b75-a6ec-34cc7ef7404f.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Toast 18x28cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643528535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-toast-dark-photography_864edda8-a000-4f02-a6b7-81665b2ddce2.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Baguette 39x16cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643594071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-baguette-dark-photography_ba83c89b-a29b-4516-924d-6ab3bf05d0e8.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Strawberry Cake 20cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643626839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-cupcake-dark-photography_23d12b5a-fba9-4434-bab0-9ee413226a9d.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Skull-nyckelring 12cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643692375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-skeleton-keychain-dark-photography_a3866ecd-908f-489a-aeab-9304d3b61296.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Pickled Cucumber 26cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643725143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-pickle-dark-photography_cc0cd03f-68f3-4f5d-ae38-b1ea51c96e40.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [3D Glasses 18cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643790679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-3d-glasses-dark-photography_e9eb5ce9-6c1e-46b6-afc7-097f5175bddd.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Movie Cardboard 20cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643823447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-movie-clapperboard-dark-photography.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Film 13cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643856215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-moon-dark-photography_e2f9f4a8-18d5-4c92-a56d-8366cde8d111.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Coke 21cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643888983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-soda-cup-dark-photography_245d4aa9-2169-48bc-831e-96eebdee134f.png?v=1762720097
+    Price: 189,00 kr SEK
+  - [Popcorn 27cm](https://darkaestheticstudio.com/products/cute-cartoon-plush-doll?variant=52129643921751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-popcorn-dark-photography_02d8662a-7cc9-49f2-afb7-8c3ef62aa516.png?v=1762720097
+    Price: 189,00 kr SEK
+- [Grinch Tomte - Mörk Juldekor | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/christmas-grinch-doll-green-furry-monster-decor): Unik Grinch-tomte med grön lurvigt skägg. Perfekt alternativ juldekor för dig som älskar det annorlunda. Skapar mörk, gotisk julstämning.
+  Updated: 2025-11-10T08:31:35Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Hem
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grinch-tomtar-m-rk-gotisk-jul_f8585d95-15ca-4b25-a0e4-a06a58d05ea7.png?v=1762720531
+  - [Skägg](https://darkaestheticstudio.com/products/christmas-grinch-doll-green-furry-monster-decor?variant=52129702281559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grinch-tomte-mockup-2_e2037781-26c3-4aa7-808a-831f816cfd5b.png?v=1762720654
+    Price: 129,00 kr SEK
+  - [Tofsar](https://darkaestheticstudio.com/products/christmas-grinch-doll-green-furry-monster-decor?variant=52129702314327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/grinch-tomte-mockup-1_ac585ed0-a9ca-4e62-afa7-3492e9c087ce.png?v=1762720667
+    Price: 129,00 kr SEK
+- [Halloween Bitleksak – För Katter med Smak för Det Mörka](https://darkaestheticstudio.com/products/halloween-catnip-toys): Låt din katt fira högtiden med något mer än bara godis.Denna Halloween-inspirerade bitleksak är fylld med kattmynta för maximal stimulans och tillverkad i mjuk plysch som tål både tänder och klor. Med motiv som spetsklädda skelett, fladdermusmonster och faceless figurer blir varje tugga en liten ritual.🕯️ Specifikationer: Material: Mjuk plysch, slitstark och kramvänlig Fyllning: Kattmynta – för lek, jakt och eufori En perfekt gåva till din lilla monsterkompanjon – för en högtid i skuggornas tecken.Leverans: 6–10 arbetsdagar
+  Updated: 2025-11-10T08:59:04Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Djurleksak
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+  - [Skelett](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866809687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+  - [Mumie](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866842455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+  - [Fladdermus](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866875223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+  - [Svart katt](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866907991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+  - [Fiskben](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866940759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+  - [Möss](https://darkaestheticstudio.com/products/halloween-catnip-toys?variant=52129866973527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/halloween-catnip-toys-dark-aesthetic_d572a658-4453-49f2-95dd-81a67b3f76c1.png?v=1762722413
+    Price: 79,00 kr SEK
+- [Kistformad hårklämma](https://darkaestheticstudio.com/products/mysterious-coffin-shaped-shark-clip): Låt din frisyr tala under högtiden. Dessa handgjorda shark clips är inte bara accessoarer – de är små konstverk.Med sina udda tryck, mörka färger och lekfulla motiv ger de varje look en dos av karaktär, vare sig du klär dig för fest, ritual eller bara vill bära något som bryter mot det vanliga.🐾 Specifikationer: Design: Kreativa Halloween-motiv – kusligt söt och mörkt charmig Material: Akryl och PVC – hållbart, glansigt och stilrent Stil: Shark clip – starkt grepp, ikonisk form Perfekt för att sätta pricken över i:et på din mörka look – eller som en oväntad detalj i ett annars neutralt hår.Leverans: 6-10 arbetsdagar.
+  Updated: 2025-11-10T09:16:29Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Acessoar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/purple-coffin-hair-clip-with-book.png?v=1762723201
+  Price: 89,00 kr SEK
 
 ## Collections
 
 - [Överdelar](https://darkaestheticstudio.com/collections/frontpage): 🖤 Utforska våra unika överdelar – designade av oberoende konstnärerVåra tröjor är mer än bara plagg – de är uttryck för identitet, kreativitet och mörk skönhet. Varje design är noggrant utvald för att spegla en djupare känsla och ge dig något att bära med stolthet.
-  Updated: 2025-11-02T11:24:02Z
-  Total Products: 12
+  Updated: 2025-11-09T20:49:28Z
+  Total Products: 13
 - [Presentkort](https://darkaestheticstudio.com/collections/presentkort): Ge någon du tycker om friheten att välja sin egen favorit från Dark Aesthetic Studio.Perfekt för födelsedagar, högtider eller bara för att visa uppskattning.Presentkortet levereras digitalt och kan användas på hela sortimentet – från konstnärliga prints till unika accessoarer. 🖤 Giltigt i 24 månader från köpdatum.🖤 Ingen extra avgift.🖤 Levereras direkt till din e-post
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.com/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-10-28T21:23:40Z
-  Total Products: 4
+  Updated: 2025-11-09T21:45:51Z
+  Total Products: 7
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-10-29T11:26:38Z
   Total Products: 6
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-10-31T09:51:43Z
-  Total Products: 17
+  Updated: 2025-11-09T20:50:26Z
+  Total Products: 19
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-06T18:07:28Z
-  Total Products: 52
+  Updated: 2025-11-09T21:45:51Z
+  Total Products: 60
+- [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
+  Updated: 2025-11-09T20:46:34Z
+  Total Products: 11
+- [Djur](https://darkaestheticstudio.com/collections/djur): I denna kollektion möter våra bästa vänner det märka och nördiga. 🐾 Den här kollektionen är för dig som vill att dina husdjur ska vara mer än bara söta. De ska vara ikoniska. Märkliga. Minnesvärda.
+  Updated: 2025-11-09T21:10:02Z
+  Total Products: 2
 
 ## Store Pages
 
