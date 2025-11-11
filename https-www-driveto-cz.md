@@ -10,7 +10,7 @@
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-10T00:02:06.347Z
+- Updated At: 2025-11-11T00:02:30.971Z
 
 ## Auto které nenabízíme můžete poptat zde
 https://www.driveto.cz/pages/vyberte-si-svoje-auto
@@ -110,7 +110,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 8 805,00 Kč CZK
 - [Toyota Corolla Style 1.8 Hybrid 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-style-1-8-hybrid-103kw-103kw-natural-95-automaticka-prevodovka): Corolla je pojem, který ve světě zná snad každý. První generace vznikla v roce 1968 a celosvětově se jich prodalo přes 50 milionů. Rovněž má na kontě několik vítězství v žebříčcích nejspolehlivějších vozů. Uvnitř Corolla boduje klasickou koncepcí, kde jsou moderní technologie v perfektní harmonii s klasickými tlačítky či kolečky. Díky tomu se velice dobře ovládá. Potěší i dostatek prostoru a kufr, který pojme 596 litrů zavazadel. Výbornou práci odvádí podvozek, který zajišťuje dobrý komfort, ale zároveň jistotu v zatáčkách, čemuž pomáhá i nízká hmotnost. Jedná se o klasický hybrid, což znamená, že je zde benzínový motor, ale také elektromotor, který bere energii z baterie, která se dobíjí brzděním. Jde o velice efektivní systém, který Toyota ve svých vozech používá přes 25 let. Mezi výhody se řadí nízká spotřeba, která se po městě dá držet kolem 4 litrů, ale zároveň nemusíte řešit dobíjení a pouze do vozu tankujete benzín. Nechybí ani automatická bezestupňová převodovka, díky které budou ranní kolony o poznání příjemnější.
-  Updated: 2025-10-29T18:41:47Z
+  Updated: 2025-11-10T12:30:54Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -385,7 +385,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaSuperbIVSportlinefoto1_e0da6aa6-558e-4f73-bd8f-efc47ae2357e.webp?v=1761572408
   Price: 14 590,00 Kč CZK
 - [Škoda Kodiaq Sportline 2.0 TDI 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Nový Kodiaq se světu představil na jaře roku 2024. Inovací proti předchůdci se zde odehrálo opravdu dost, což je viditelné na první pohled. Tento kus je navíc v atraktivní variantě Sportline. Svěží design působí mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s tmavými doplňky - maska, zrcátka, lišty atd. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která se změnila nejvíce. Za zmínku rozhodně stojí pohodlná sportovní sedadla se solidním bočním vedením a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Potěší i klasický dieselový motor s automatickou převodovkou a pohonem všech kol. Všechny tyto atributy z nového Kodiaqu druhé generace dělají fantastické SUV, které je novým českým ideálem.
-  Updated: 2025-10-29T18:43:12Z
+  Updated: 2025-11-10T09:17:38Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1257,7 +1257,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 957,00 Kč CZK
 - [Volvo XC40 Essential 2.0 B3 120 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-xc40-essential-2-0-b3-120kw-natural-95-automaticka-prevodovka): Volvo XC40 je nejmenší z rodiny „XC“ (cross country). Jedná se o charismatické kompaktní SUV s pořádnou dávkou šarmu. Na první pohled vypadá mohutně a honosně. Interiér je bytelný, prostorný a jsou zde použité velice kvalitní materiály, které mohou bez problému konkurovat německým prémiovkám. Kufr pojme solidních 460 litrů. Pod kapotou pracuje benzínový motor, který poskytuje vozu solidní dynamiku. Potěší také pohodlný podvozek, skvělé odhlučnění a automatická převodovka.
-  Updated: 2025-10-29T18:46:15Z
+  Updated: 2025-11-10T09:25:44Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1341,7 +1341,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 17 883,00 Kč CZK
 - [Tesla Model 3 elektro 208 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/tesla-model-3-model-3-elektro-208kw-elektrina-automaticka-prevodovka): Tesla Model 3 je elegantní a technologicky vyspělý sedan, který nabízí perfektní rovnováhu mezi výkonem a efektivitou. Vůz se pyšní minimalistickým designem a čistými liniemi, které zlepšují aerodynamiku a dodávají mu moderní vzhled. Interiér je prostorný a uživatelsky přívětivý. Hlavní dominantou je zde dotykový displej, který slouží jako centrální ovládací panel pro všechny funkce vozu. S dojezdem až 513 km podle cyklu WLTP je Tesla Model 3 RWD skvělou volbou pro každodenní dojíždění i delší cesty. Nabíjení je rychlé a efektivní – na rychlonabíjecí stanici (DC) se baterie nabije z 10 % na 80 % za přibližně 30 minut. Domácí nabíjení pomocí Wallboxu (AC) pak trvá asi 8 hodin pro plné dobití. Díky elektromotoru s výkonem 208 kW poskytuje Tesla Model 3 RWD dynamickou jízdu s okamžitým nástupem výkonu a tichým chodem. Asistenční systémy a pokročilé technologie zajišťují vysokou úroveň bezpečnosti a komfortu na cestách. Tento sedan je ideální pro ty, kteří hledají stylový a ekologický vůz s vynikajícím dojezdem, rychlým nabíjením a pohodlným podvozkem.
-  Updated: 2025-11-06T15:41:37Z
+  Updated: 2025-11-10T09:26:05Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1442,22 +1442,31 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Anemone_metaliza_Volkswagen_Golf_People.webp?v=1761576703
     Price: 7 512,00 Kč CZK
 - [Volvo EX30 Core Single Motor 200 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka): Volvo EX30 ve verzi Core Single Motor je stylový a kompaktní elektromobil, který zaujme moderním designem a skandinávským minimalismem. Vůz nabízí čisté linie, které podtrhují jeho elegantní vzhled, zatímco kompaktní rozměry zajišťují skvělou ovladatelnost, zejména ve městském prostředí. Interiér je útulný a přehledný, zaměřený na jednoduchost a funkčnost. Volvo dbá na kvalitní materiály a intuitivní ovládání, které zpříjemní každý okamžik za volantem. Pod kapotou tohoto modelu se skrývá výkonný elektrický motor s výkonem 200 kW, který poskytuje dostatek síly pro dynamickou jízdu. EX30 také nabízí tichou a hladkou jízdu, což je u elektromobilu samozřejmostí. Díky preciznímu řízení a dobře naladěnému podvozku se vůz chová velmi stabilně a zároveň pohodlně. Tento elektromobil je ideální volbou pro ty, kteří hledají ekologický a stylový způsob, jak se pohybovat ve městě, aniž by museli dělat kompromisy v oblasti výkonu nebo komfortu.
-  Updated: 2025-10-29T18:46:59Z
+  Updated: 2025-11-10T09:26:22Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/VolvoEX30CoreSinglefoto1.webp?v=1761576797
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=57757553983837)
-    Availability: Available
+    Availability: Not Available
     Price: 10 504,00 Kč CZK
+  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=62518224453981)
+    Availability: Available
+    Price: 8 656,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=57757554016605)
-    Availability: Available
+    Availability: Not Available
     Price: 10 946,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=57757554049373)
+  - [20000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=62518224486749)
     Availability: Available
+    Price: 8 948,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=57757554049373)
+    Availability: Not Available
     Price: 11 323,00 Kč CZK
+  - [25000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka?variant=62518224519517)
+    Availability: Available
+    Price: 9 244,00 Kč CZK
 - [Volvo EX30 Plus Extended Range Single Motor 200 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/volvo-ex30-plus-extended-range-single-motor-200kw-elektrina-automaticka-prevodovka): EX30 je stylový a kompaktní elektromobil se zvýšeným podvozkem, který zaujme moderním designem a skandinávským minimalismem. Tento kousek je navíc v hezké výbavě Plus a nechybí ani pár příplatků. Vůz nabízí čisté linie, které podtrhují jeho elegantní vzhled, zatímco kompaktní rozměry zajišťují skvělou ovladatelnost, zejména ve městském prostředí. Interiér je útulný a přehledný, zaměřený na jednoduchost a funkčnost. Volvo dbá na kvalitní materiály a intuitivní ovládání, které zpříjemní každý okamžik za volantem. Pod kapotou tohoto modelu se skrývá výkonný elektrický motor s výkonem 200 kW, který poskytuje dostatek síly pro dynamickou jízdu. EX30 také nabízí tichou a hladkou jízdu, což je u elektromobilu samozřejmostí. Díky preciznímu řízení a dobře naladěnému podvozku se vůz chová velmi stabilně a zároveň pohodlně. Tento elektromobil je ideální volbou pro ty, kteří hledají ekologický a stylový způsob, jak se pohybovat ve městě, aniž by museli dělat kompromisy v oblasti výkonu nebo komfortu.
-  Updated: 2025-11-09T20:41:42Z
+  Updated: 2025-11-10T07:37:46Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1490,7 +1499,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 817,00 Kč CZK
 - [Volvo EX30 Core Single Motor 200 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/volvo-ex30-core-single-motor-200kw-elektrina-automaticka-prevodovka-2): Model EX30 je stylový a kompaktní elektromobil, který zaujme moderním designem a skandinávským minimalismem. Vůz nabízí čisté linie, které podtrhují jeho elegantní vzhled, zatímco kompaktní rozměry zajišťují skvělou ovladatelnost, zejména ve městském prostředí. Interiér je útulný a přehledný, zaměřený na jednoduchost a funkčnost. Volvo dbá na kvalitní materiály a intuitivní ovládání, které zpříjemní každý okamžik za volantem. Pod kapotou tohoto modelu se skrývá výkonný elektrický motor s výkonem 200 kW, který poskytuje dostatek síly pro dynamickou jízdu. EX30 také nabízí tichou a hladkou jízdu, což je u elektromobilu samozřejmostí. Díky preciznímu řízení a dobře naladěnému podvozku se vůz chová velmi stabilně a zároveň pohodlně. Tento elektromobil je ideální volbou pro ty, kteří hledají ekologický a stylový způsob, jak se pohybovat ve městě, aniž by museli dělat kompromisy v oblasti výkonu nebo komfortu.
-  Updated: 2025-11-09T20:41:57Z
+  Updated: 2025-11-10T07:38:07Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1508,7 +1517,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 9 450,00 Kč CZK
 - [Tesla Model Y Standard Range RWD Elektro 220 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/tesla-model-y-standard-range-rwd-elektro-220kw-elektrina-automaticka-prevodovka): Tesla Model Y je moderní elektrické SUV, které kombinuje minimalistický design s pokročilou technologií a výborným dojezdem. Exteriér se vyznačuje čistými liniemi a aerodynamickým tvarem, který zlepšuje efektivitu a dodává vozu futuristický vzhled. Uvnitř najdete prostorný interiér s velkým dotykovým displejem, který slouží jako centrální ovládací panel pro všechny funkce vozu. Tato verze Standard Range s pohonem zadních kol nabízí dojezd až 455 km (dle metodiky WLTP), což je ideální pro každodenní použití i delší cesty. Nabíjení je rychlé a pohodlné – na rychlonabíjecí stanici (DC) se baterie nabije z 10 % na 80 % přibližně za 30 minut. Domácí nabíjení pomocí Wallboxu (AC) pak trvá přibližně 8 hodin pro plné dobití. Elektromotor zajišťuje okamžitý nástup výkonu a tichou jízdu, zatímco pokročilé asistenční systémy přispívají k bezpečnosti a pohodlí na cestách. Potěší také pohodlný podvozek. Model Y je ideální volbou pro ty, kteří hledají ekologické, technologicky vyspělé SUV s dostatečným prostorem, skvělým výkonem a praktickým dojezdem.
-  Updated: 2025-11-06T15:41:23Z
+  Updated: 2025-11-10T09:26:40Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1595,7 +1604,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 13 995,00 Kč CZK
 - [Nissan X-Trail N-CONNECTA e-POWER e-Power e-4ORCE 213k 157 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/nissan-x-trail-n-connecta-e-power-e-power-e-4orce-213k-157kw-natural-95-4x4-automaticka-prevodovka): Nissan X-Trail je atraktivní SUV, kterých není mnoho, takže se perfektně hodí pro někoho, kdo nechce auto, kterých denně potkáme stovky. Tento model disponuje benzínovým motorem o výkonu 157 kW, který spolu s inovativním systémem e-POWER poskytuje plynulou jízdu s nízkou spotřebou paliva. Automatická převodovka přispívá k pohodlnému ovládání, zatímco pohon všech kol E-4ORCE zajišťuje stabilitu a jistotu za všech podmínek. Interiér vozu je precizně zpracovaný, prostorný a nabízí dostatek místa jak pro cestující, tak i pro jejich zavazadla. Díky kvalitním materiálům a modernímu designu působí kabina velmi příjemným dojmem. Potěší snadné a intuitivní ovládání. Pohodlný podvozek se skvěle vypořádává s nerovnostmi, což zajišťuje komfortní jízdu jak ve městě, tak na delších trasách. Nissan X-Trail je navíc dostupný za rozumnou cenu, což z něj dělá skvělou volbu v poměru cena / výkon.
-  Updated: 2025-10-29T18:47:25Z
+  Updated: 2025-11-10T12:30:42Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1625,7 +1634,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 232,00 Kč CZK
 - [Alfa Romeo Tonale 1.5 Turbo e-hybrid 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/alfa-romeo-tonale-tonale-1-5-turbo-e-hybrid-96kw-natural-95-automaticka-prevodovka): Alfa Romeo Tonale představuje elegantní spojení italského designu a moderních technologií. Toto kompaktní SUV nabízí stylový exteriér s typicky ostrými liniemi a charakteristickou přední maskou, která okamžitě zaujme. Interiér je navržen s důrazem na detaily, pohodlí a ergonomii, přičemž poskytuje dostatek prostoru pro všechny cestující. Motor 1.5 Turbo E-Hybrid poskytuje vozu solidní dynamiku a je i příjemně tichý. Hybridní systém přispívá k nižší spotřebě paliva a zároveň umožňuje plynulejší jízdu. Tonale také potěší pokročilými technologiemi a vyspělým podvozkem, který usnadňuje každodenní používání. Nechybí ani automatická převodovka. Tento model je ideální volbou pro ty, kteří hledají stylové SUV, které si hravě poradí s městským provozem, ale i s cestou k moři.
-  Updated: 2025-11-06T15:33:05Z
+  Updated: 2025-11-10T08:08:39Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1883,7 +1892,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 12 849,00 Kč CZK
 - [Alfa Romeo Junior Ibrida 136 1.2 Turbo Hybrid 100 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/alfa-romeo-junior-ibrida-136-1-2-turbo-hybrid-100kw-natural-95-automaticka-prevodovka): Nová Alfa Romeo Junior ve verzi 1.2 Turbo Hybrid Automat přináší moderní spojení elegance a efektivity. Tato varianta kombinuje benzínový motor o objemu 1.2 litru s výkonem 100 kW (přibližně 136 koní) a hybridní technologii, což zajišťuje plynulý a úsporný provoz. Motor je spojen s automatickou převodovkou, která zajišťuje hladké řazení a dynamickou jízdu. Model Junior zůstává věrný designové filozofii Alfa Romeo, která je synonymem pro sportovní linie a charismatický italský vzhled. Díky kompaktním rozměrům a inovativní technologii se tento vůz skvěle hodí do městského prostředí, ale nebojí se ani opustit brány města a vydat se za dobrodružstvím. Interiér vozu nabízí solidní prostornost s kvalitními materiály a intuitivními prvky pro snadné ovládání.
-  Updated: 2025-11-06T15:34:50Z
+  Updated: 2025-11-10T09:27:42Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1915,21 +1924,6 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [25000 km / 36 měsíců / Zelená British Racing IV](https://www.driveto.cz/products/mini-countryman-favoured-elektro-150kw-elektrina-automaticka-prevodovka?variant=57757590815069)
     Availability: Available
     Price: 14 590,00 Kč CZK
-- [Peugeot 2008 Style 1.2 Hybrid 100 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/peugeot-2008-style-1-2-hybrid-100kw-natural-95-automaticka-prevodovka): Peugeot 2008 představuje ideální volbu pro ty, kteří hledají stylové, moderní SUV s nízkou spotřebou a komfortní výbavou. Tento model spojuje elegantní design, efektivní hybridní pohon a praktičnost každodenního využití. Exteriér zaujme výraznými LED světlomety, mohutnou maskou chladiče a dynamickými liniemi, které vozu dodávají atraktivní a sebevědomý vzhled. Kompaktní rozměry umožňují snadnou ovladatelnost ve městě, zatímco zvýšená světlá výška přispívá k pohodlnému pohybu i na polních cestách. Interiér nabízí prostornou kabinu s ergonomicky tvarovanými sedadly a inovativním uspořádáním. Peugeot i-Cockpit s digitálním přístrojovým štítem poskytuje přehled o všech klíčových informacích a dotykový displej umožňuje snadné ovládání infotainmentu i připojení chytrých telefonů pomocí Apple CarPlay nebo Android Auto. Hybridní systém s výkonem 100 kW (136 k) je spojen s automatickou převodovkou e-DCS6, která zajišťuje plynulou a úspornou jízdu. Baterie se automaticky dobíjí během jízdy (při brzdění). Peugeot 2008 je všestranný a moderní vůz, který osloví nejen příznivce ekologičtějšího cestování, ale také rodiny a jednotlivce hledající spolehlivé a stylové SUV.
-  Updated: 2025-11-06T15:46:03Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Peugeot2008Style1.2foto1.webp?v=1761577909
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/peugeot-2008-style-1-2-hybrid-100kw-natural-95-automaticka-prevodovka?variant=57757601464669)
-    Availability: Available
-    Price: 7 632,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/peugeot-2008-style-1-2-hybrid-100kw-natural-95-automaticka-prevodovka?variant=57757601497437)
-    Availability: Available
-    Price: 8 058,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/peugeot-2008-style-1-2-hybrid-100kw-natural-95-automaticka-prevodovka?variant=57757601530205)
-    Availability: Available
-    Price: 8 567,00 Kč CZK
 - [BMW Řada 5 M Sport 20d xdrive 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-m-sport-20d-xdrive-145kw-nafta-4x4-automaticka-prevodovka): BMW 520d je ztělesněním elegance a efektivity ve vyšší střední třídě sedanů. Vůz vyniká čistými liniemi a sportovním vzhledem, který podtrhují charakteristické ledvinky masky chladiče a dynamicky tvarovaná LED světla. Interiér nabízí prostorný a luxusně zpracovaný prostor s prémiovými materiály a moderními technologiemi. Součástí vybavení je nejnovější verze systému iDrive, který umožňuje intuitivní ovládání všech funkcí vozu od navigace až po asistenční prvky. Pod kapotou pracuje úsporný dieselový motor, který kombinuje vysoký výkon s nízkou spotřebou paliva, což oceníte při každodenní jízdě i na dlouhých trasách. Nechybí zde ani pohon všech kol, který oceníte na kluzkém povrchu. BMW 520d je ideální volbou pro ty, kteří hledají spolehlivý a komfortní sedan s dobrou dynamikou a výbavou.
   Updated: 2025-10-29T18:49:42Z
   Vendor: Driveto
@@ -2381,7 +2375,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 17 190,00 Kč CZK
 - [Volkswagen Touareg R-Line 3.0 TDI 170 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/volkswagen-touareg-r-line-3-0-tdi-170kw-nafta-4x4-automaticka-prevodovka): Volkswagen Touareg je luxusní SUV, které kombinuje elegantní design, nejmodernější technologie a špičkové jízdní vlastnosti. Výbava R-Line přidává ke své luxusní povaze i sportovní nádech. S dynamicky tvarovanými nárazníky, lesklými černými detaily a 20" koly si získá pozornost na první pohled. Samozřejmostí jsou pokročilé LED světlomety IQ.Light s vynikajícím dosvitem. Uvnitř vozu na vás čeká sportovně laděný interiér s kvalitními materiály a ambientním osvětlením, které umocňuje moderní atmosféru. Skvělá ergonomie a pohodlná sportovní sedadla zajistí komfort i na delších cestách. Díky sofistikovanému podvozku je jízda velice pohodlná, ať už se vydáte na dlouhou dálniční trasu nebo do města. Pod kapotou pracuje osvědčený třílitrový turbodiesel s výkonem 170 kW (231 koní), který nabízí skvělý poměr mezi výkonem a nízkou spotřebou. S automatickou převodovkou a pohonem všech kol 4Motion je Touareg skvělou volbou pro ty, kteří hledají všestranné, komfortní a prémiové SUV.
-  Updated: 2025-10-29T18:51:21Z
+  Updated: 2025-11-10T08:02:30Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2474,20 +2468,20 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 5 176,00 Kč CZK
 - [Volvo V60 Plus Dark B4 Mild Hybrid 145 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-v60-plus-dark-b4-mild-hybrid-145kw-natural-95-automaticka-prevodovka): Volvo V60 je prémiové kombi, které spojuje elegantní skandinávský design s nejmodernějšími technologiemi a maximálním komfortem. V této verzi Plus Dark přináší sportovnější vzhled díky tmavě laděným detailům exteriéru, zatmavené masce chladiče a nechybí ani černé okenní lišty. Čisté linie karoserie, typická LED světla s motivem "Thorova kladiva" a atraktivní litá kola dělají z V60 nadčasový vůz, který stále upoutá pozornost. Pod kapotou pracuje dvoulitrový mild-hybridní benzínový motor s výkonem 145 kW (197 koní), který zajišťuje plynulý výkon a efektivní spotřebu paliva. Pohodlnou a hladkou jízdu doplňuje automatická převodovka Geartronic, která se skvěle hodí jak pro městský provoz, tak pro dálkové cestování. Interiér je mistrovským dílem minimalistického luxusu – kvalitní materiály, velký dotykový displej infotainmentu a prvotřídní sedadla dělají z každé jízdy pohodlný zážitek. Pokročilé asistenční systémy zajišťují bezpečnost na nejvyšší úrovni. Volvo V60 Plus Dark je perfektní volbou pro ty, kteří hledají kombinaci elegance, praktičnosti a pokročilých technologií v prémiovém balení.
-  Updated: 2025-10-29T18:52:56Z
+  Updated: 2025-11-10T08:25:40Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/VolvoV60PlusDarkfoto1.webp?v=1761617851
   - [15000 km / 36 měsíců / Šedá Vapour metalíza](https://www.driveto.cz/products/volvo-v60-plus-dark-b4-mild-hybrid-145kw-natural-95-automaticka-prevodovka?variant=57757701407069)
     Availability: Available
-    Price: 9 999,00 Kč CZK
+    Price: 9 500,00 Kč CZK
   - [20000 km / 36 měsíců / Šedá Vapour metalíza](https://www.driveto.cz/products/volvo-v60-plus-dark-b4-mild-hybrid-145kw-natural-95-automaticka-prevodovka?variant=57757701439837)
     Availability: Available
-    Price: 10 735,00 Kč CZK
+    Price: 10 187,00 Kč CZK
   - [25000 km / 36 měsíců / Šedá Vapour metalíza](https://www.driveto.cz/products/volvo-v60-plus-dark-b4-mild-hybrid-145kw-natural-95-automaticka-prevodovka?variant=57757701472605)
     Availability: Available
-    Price: 11 348,00 Kč CZK
+    Price: 10 759,00 Kč CZK
 - [BMW X3 M Sport xDrive20d 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145kw-nafta-4x4-automaticka-prevodovka): Tato nová X3 byla představena v polovině roku 2024. Vyznačuje se ještě větší sportovní přitažlivostí, vizuální působivostí a univerzálností než kdykoli předtím a přináší výjimečný klid a jistotu při každodenní jízdě i na delších cestách. Výrazné proporce modelu BMW X poukazují na vynikající všestrannost tohoto vozu. V interiéru nového BMW X3 se snoubí robustní funkčnost, dostatek prostoru a prémiová atmosféra s osobitým stylem. Design palubní desky, obložení dveří a použité materiály představují nový směr pro modelové portfolio BMW. Dieselový motor nového 20d xDrive je hospodárnější a výkonnější než kdykoli předtím, zrychlí z 0 na 100 km/h za 7,7 sekundy. Kombinovaná spotřeba se v klidném režimu pohybuje kolem 6 litrů. Nové BMW X3 je moderní všestranné SUV, které si zamilujete.
   Updated: 2025-11-09T20:42:31Z
   Vendor: Driveto
@@ -2531,7 +2525,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 21 290,00 Kč CZK
 - [BMW M2 3.0i 353 kW Natural 98 Manuální převodovka](https://www.driveto.cz/products/bmw-m2-m-3-0i-353kw-natural-98-manualni-prevodovka): BMW M2 je ikonický sportovní vůz, který v nové generaci přináší ještě více výkonu, preciznosti a emocí za volantem. Kompaktní rozměry, agresivní design a tradiční pohon zadních kol dělají z M2 ryzího zástupce filozofie BMW M. Robustní rozšířené blatníky, výrazná maska chladiče a čtveřice koncovek výfuku jasně naznačují, že tohle auto není jen o vzhledu, ale hlavně o jízdních zážitcích. Pod kapotou pracuje třílitrový řadový šestiválec M TwinPower Turbo s výkonem 480 koní, který v této verzi spolupracuje s klasickou šestistupňovou manuální převodovkou – ideální volbou pro puristy, kteří chtějí mít nad jízdou absolutní kontrolu. Zadní pohon a mechanický samosvorný diferenciál zaručují maximální zážitek z řízení, zatímco podvozek převzatý z větších M modelů nabízí špičkovou stabilitu a přesné řízení. BMW M2 s manuální převodovkou je dokonalým sportovním náčiním pro řidiče, kteří hledají ryzí mechanickou radost z jízdy.
-  Updated: 2025-10-29T18:53:01Z
+  Updated: 2025-11-10T07:39:21Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2564,7 +2558,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 24 790,00 Kč CZK
 - [Volkswagen Caddy 2.0 TDi 75 kW Nafta Manuální převodovka](https://www.driveto.cz/products/volkswagen-caddy-2-0-tdi-75kw-nafta-manualni-prevodovka): Volkswagen Caddy je praktický a spolehlivý vůz, ideální pro rodiny i podnikání. Tento model kombinuje funkční design s kvalitním zpracováním, typickým pro značku Volkswagen. Exteriér Caddy vyniká čistými liniemi a robustním vzhledem, který naznačuje jeho všestrannost a odolnost. Interiér je navržen s ohledem na pohodlí a praktičnost, s dostatkem místa pro cestující i náklad. Sedadla jsou pohodlná a nabízí dobrou oporu, což oceníte na delších cestách. Motor 2.0 TDI poskytuje dostatečný výkon pro každodenní jízdu, přičemž naftový pohon zajišťuje úsporný provoz a dlouhou životnost. Manuální převodovka umožňuje plnou kontrolu nad vozem, což oceníte při jízdě v různorodých podmínkách. Volkswagen Caddy je vybaven základními bezpečnostními a asistenčními systémy, které přispívají k bezpečné a pohodlné jízdě. Tento model je ideální volbou pro ty, kteří hledají praktický a ekonomický vůz s dostatečným výkonem pro každodenní potřeby.
-  Updated: 2025-11-06T15:41:08Z
+  Updated: 2025-11-10T09:28:36Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2579,7 +2573,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 10 247,00 Kč CZK
 - [BMW Řada 1 M Sport 116 90 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-1-m-sport-116-90kw-natural-95-automaticka-prevodovka): Zcela nová generace BMW řady 1 je moderní hatchback s kompaktními rozměry, který se hodí do města, ale díky automatické převodovce se neztratí ani na dálnici, kde stále drží nízké otáčky. Sportovně střižený exteriér je doplněn aerodynamickými liniemi, které zlepšují jízdní stabilitu a spotřebu paliva. Interiér se pyšní prémiovými materiály a intuitivním uspořádáním s pokročilým infotainmentem, jenž zahrnuje ovládání hlasem, navigaci a konektivitu přes Bluetooth. Bezpečnostní prvky, jako jsou asistent jízdy v pruzích a automatické nouzové brzdění, poskytují řidiči i pasažérům jistotu na každé cestě. Tento model disponuje benzínovým motorem, který je navržen tak, aby nabízel optimální rovnováhu mezi efektivitou a dynamikou. BMW 116i je perfektní volbou pro městský provoz i delší cesty, kdy oceníte pohodlí a stabilitu.
-  Updated: 2025-10-29T18:53:09Z
+  Updated: 2025-11-10T07:39:42Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2609,7 +2603,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 390,00 Kč CZK
 - [BMW iX1 M Sport Elektro 150 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/bmw-ix1-m-sport-elektro-150kw-elektrina-automaticka-prevodovka): BMW iX1 je elegantní SUV s elektrickým pohonem, které nabízí velmi dobrý komfort, dynamiku a praktičnost pro každodenní jízdu. Design exteriéru zaujme robustními liniemi a charakteristickými prvky BMW, jako jsou ledvinková maska chladiče a výrazná LED světla. Interiér vozu poskytuje sofistikovaný prostor s prvotřídními materiály, digitálním displejem a multifunkčním volantem. K dispozici je také nejnovější verze systému iDrive, která umožňuje snadné ovládání funkcí vozu. BMW X1 je vybaveno pokročilými bezpečnostními systémy, včetně asistenčního systému pro jízdu v pruzích a zadní kamery, která usnadňuje parkování. Tento model je vybaven elektrickým motorem, jenž zajišťuje dostatečný výkon pro městskou jízdu i víkendové výlety. Jedná se o skvělou volbu pro někoho, kdo shání elektrické SUV, které není přehnaně velké, takže se s ním snadno parkuje, ale zároveň pojme 5 lidí včetně zavazadel. Dojezd na jedno nabití činí až 452 km a doba nabíjení z 10 do 80 % zabere na rychlonabíječce 29 minut.
-  Updated: 2025-10-29T18:53:23Z
+  Updated: 2025-11-10T07:41:24Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2639,13 +2633,13 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 15 990,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2025-11-06T11:42:51Z
+  Updated: 2025-11-10T07:48:52Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
   - [15000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757715890525)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 16 399,00 Kč CZK
   - [15000 km / 24 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757715923293)
@@ -2656,8 +2650,12 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 16 399,00 Kč CZK
-  - [20000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757715988829)
+  - [15000 km / 24 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=62517843886429)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
+    Price: 16 399,00 Kč CZK
+  - [20000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757715988829)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 17 599,00 Kč CZK
   - [20000 km / 24 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716021597)
@@ -2668,8 +2666,12 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 17 599,00 Kč CZK
-  - [25000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716087133)
+  - [20000 km / 24 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=62517843919197)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
+    Price: 17 599,00 Kč CZK
+  - [25000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716087133)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 18 399,00 Kč CZK
   - [25000 km / 24 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716119901)
@@ -2680,8 +2682,12 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 18 399,00 Kč CZK
-  - [30000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716185437)
+  - [25000 km / 24 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=62517843951965)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
+    Price: 18 399,00 Kč CZK
+  - [30000 km / 24 měsíců / Modrá Ultra metalíza](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716185437)
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
     Price: 19 999,00 Kč CZK
   - [30000 km / 24 měsíců / Černá Mythos](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716218205)
@@ -2691,6 +2697,10 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [30000 km / 24 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=57757716250973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
+    Price: 19 999,00 Kč CZK
+  - [30000 km / 24 měsíců / Šedá Tambora](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=62517843984733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
     Price: 19 999,00 Kč CZK
 - [KIA Sorento TOP Nappa 1.6 T-GDI PHEV 186 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/kia-sorento-top-nappa-1-6-t-gdi-phev-186kw-elektrina-4x4-automaticka-prevodovka): Kia Sorento ve verzi TOP Nappa PHEV kombinuje moderní technologie s luxusním zpracováním a praktickým rodinným pojetím. Jako plug-in hybrid nabízí ekologický pohon s možností jízdy na elektřinu, ale nechybí ani spalovací motor pro delší cesty. Elegantní exteriér zdobí výrazná maska chladiče, LED světlomety a chromové prvky, které dodávají vozu prémiový vzhled. Uvnitř potěší komfortní sedadla, digitální přístrojový štít a moderní infotainment systém s dotykovým displejem. Nechybí ani prémiový audiosystém a široká škála asistenčních systémů pro maximální bezpečnost. Pod kapotou pracuje 1,6 litrový přeplňovaný benzínový motor T-GDi doplněný elektromotorem, což dohromady poskytuje systémový výkon 186 kW (253 koní). Pohon všech kol (AWD) a šestistupňová automatická převodovka DCT zajišťují hladkou a stabilní jízdu na různých typech povrchu. Díky baterii o kapacitě 13,8 kWh zvládne čistě elektrický dojezd až 57 km, což je ideální pro městský provoz. Nabíjení z 10 % na 80 % trvá přibližně 3 hodiny při využití rychlonabíječky. Kia Sorento je ideální volbou pro ty, kteří hledají prostorné, komfortní a technologicky vyspělé SUV s možností ekologické jízdy.
   Updated: 2025-10-29T18:53:44Z
@@ -2717,7 +2727,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 22 010,00 Kč CZK
 - [Toyota Yaris Cross Executive 1.5 Hybrid 130 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-executive-1-5-hybrid-130-96kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
-  Updated: 2025-10-29T18:54:07Z
+  Updated: 2025-11-10T12:30:42Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2864,29 +2874,29 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport_2d24b652-5389-4916-89fb-c81c9fb9370a.webp?v=1761732779
     Price: 15 003,00 Kč CZK
 - [Audi A6 S line Elektro 315 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka): Audi A6 Avant e-tron S line definuje novou éru elektrické mobility v segmentu prémiových kombi. Spojuje sportovní eleganci s mimořádnou praktičností a elektrickým výkonem. Elegantní linie, výrazné proporce a typická maska Singleframe podtrhují moderní charakter vozu, zatímco aerodynamika přispívá k vysoké efektivitě. Pohon všech kol quattro a systémový výkon 315 kW přinášejí působivou dynamiku. Akumulátor s vysokou kapacitou umožňuje dojezd až 678 km dle WLTP, což z A6 Avant e-tron činí ideální volbu pro dlouhé cesty. Nabíjení je stejně působivé – z 10 % na 80 % se baterie dobije za přibližně 21 minut, přičemž maximální nabíjecí výkon činí až 270 kW. Za 10 minut lze navíc dobít dojezd až 295 km. Tento model je perfektní ukázkou toho, jak může vypadat prémiové elektrické cestování bez kompromisů.
-  Updated: 2025-10-29T18:54:17Z
+  Updated: 2025-11-10T09:30:17Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/AudiA6Slinefoto1.webp?v=1761732965
   - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740138845)
     Availability: Available
-    Price: 22 022,00 Kč CZK
+    Price: 22 369,00 Kč CZK
   - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740171613)
     Availability: Available
-    Price: 22 809,00 Kč CZK
+    Price: 23 174,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740237149)
     Availability: Available
-    Price: 22 880,00 Kč CZK
+    Price: 23 223,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740204381)
     Availability: Available
-    Price: 23 686,00 Kč CZK
+    Price: 24 048,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740269917)
     Availability: Available
-    Price: 23 644,00 Kč CZK
+    Price: 23 984,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-a6-s-line-elektro-315kw-elektrina-4x4-automaticka-prevodovka?variant=57757740302685)
     Availability: Available
-    Price: 24 600,00 Kč CZK
+    Price: 24 960,00 Kč CZK
 - [Audi Q4 S line Elektro 210 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q4-s-line-elektro-210kw-elektrina-4x4-automaticka-prevodovka): Audi Q4 Sportback e-tron je stylové a plně elektrické SUV, které v sobě spojuje sportovní eleganci, prostorný interiér a nejmodernější technologie. V atraktivní verzi S line působí dynamicky a prémiově, přičemž nadchne nejen designem, ale i jízdními vlastnostmi. Pod kapotou pracuje elektrický pohon quattro o výkonu 220 kW, který zajišťuje tichou a svižnou jízdu s okamžitou odezvou. Vůz je vybaven akumulátorem s využitelnou kapacitou 77 kWh, který umožňuje dojezd až 508 km dle normy WLTP. Maximální nabíjecí výkon činí 175 kW, díky čemuž se baterie dokáže nabít z 10 % na 80 % přibližně za 28 minut na rychlonabíjecí stanici. Interiér nabízí kvalitní zpracování, moderní infotainment a dostatek prostoru pro cestující i zavazadla. Q4 Sportback e-tron je skvělou volbou pro ty, kteří hledají kombinaci designu, praktičnosti a elektrického výkonu v kompaktním SUV.
   Updated: 2025-10-29T18:54:18Z
   Vendor: Driveto
@@ -2911,32 +2921,8 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/audi-q4-s-line-elektro-210kw-elektrina-4x4-automaticka-prevodovka?variant=57757742989661)
     Availability: Available
     Price: 21 613,00 Kč CZK
-- [Renault Austral Techno E-TECH 200 147 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka): Renault Austral je hybridní SUV, které spojuje výkon s efektivitou. Jeho design zaujme na první pohled - je nadčasový, moderní a robustní. Interiér poskytne dostatek prostoru pro posádku a zaujme také kvalitní zpracování s bohatou výbavou. Pohonná jednotka kombinuje 1,2 litrový benzínový motor s elektromotorem, což poskytuje celkový výkon 200 k (147 kW). Díky hybridní technologii nabízí nízkou spotřebu paliva a možnost jízdy v čistě elektrickém režimu na krátké vzdálenosti. Podvozek, jak je tomu u francouzských vozů zvykem, poskytuje odpovídající komfort, což ocení celá rodina. Jedná se o atraktivní SUV, které si oblíbí celá rodina.
-  Updated: 2025-10-29T18:54:22Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultAustralTechnoE-TECHfoto1.webp?v=1761733019
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743612253)
-    Availability: Available
-    Price: 9 303,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743579485)
-    Availability: Available
-    Price: 9 636,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743645021)
-    Availability: Available
-    Price: 9 499,00 Kč CZK
-  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743677789)
-    Availability: Available
-    Price: 9 729,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743710557)
-    Availability: Available
-    Price: 10 112,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-austral-technno-e-tech-200-147kw-natural-95-automaticka-prevodovka?variant=57757743743325)
-    Availability: Available
-    Price: 9 945,00 Kč CZK
 - [Audi Q6 S line Elektro 285 kW Elektřina 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q6-s-line-elektro-285kw-elektrina-4x4-automaticka-prevodovka): Audi Q6 Sportback e-tron je prémiové elektrické SUV, které zaujme nejen svým dynamickým designem, ale také nejnovějšími technologiemi a pokročilou elektrickou platformou PPE. Nabízí sportovní siluetu a ostré linie v kombinaci s elegantním pojetím typickým pro značku Audi. Systémový výkon 285 kW a pohon všech kol quattro zaručují suverénní jízdní dynamiku i na náročnějších trasách. Využitelná kapacita baterie umožňuje dojezd až 625 km dle WLTP. Na rychlonabíjecí stanici lze baterii dobít z 10 % na 80 % přibližně za 21 minut, a to díky maximálnímu nabíjecímu výkonu až 270 kW. Za pouhých 10 minut tak lze získat dojezd až 255 km. Q6 Sportback e-tron je ideální volbou pro náročné řidiče, kteří hledají spojení výkonu, komfortu a elektrické mobility bez kompromisů.
-  Updated: 2025-10-29T18:54:25Z
+  Updated: 2025-11-10T09:30:33Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3074,71 +3060,47 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqExclusiveSelectionfoto8.webp?v=1761733124
     Price: 16 632,00 Kč CZK
 - [Renault Master Extra EV87 105 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka): Renault Master ve verzi EV87 long range je elektrická varianta oblíbené dodávky, ideální pro městskou logistiku. S elektromotorem o výkonu 140 k (103 kW) a baterií o kapacitě 87 kWh nabízí dojezd až 200 km na jedno nabití. Maximální nabíjecí výkon dosahuje 50 kW, což umožňuje nabití z 20 % na 80 % za přibližně 2 hodiny. Prostorný nákladový prostor a tichý provoz činí z tohoto modelu ideálního partnera pro ekologickou přepravu zboží ve městě.
-  Updated: 2025-10-29T18:54:34Z
+  Updated: 2025-11-10T09:32:01Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultMasterExtraEV87foto1.webp?v=1761733320
-  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747904861)
-    Availability: Available
-    Price: 13 334,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747872093)
-    Availability: Available
-    Price: 14 450,00 Kč CZK
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747839325)
     Availability: Available
-    Price: 15 257,00 Kč CZK
-  - [20000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747937629)
+    Price: 15 264,00 Kč CZK
+  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747872093)
     Availability: Available
-    Price: 13 616,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757748003165)
+    Price: 14 454,00 Kč CZK
+  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747904861)
     Availability: Available
-    Price: 14 808,00 Kč CZK
+    Price: 13 330,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747970397)
     Availability: Available
-    Price: 15 669,00 Kč CZK
-  - [25000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637574996317)
+    Price: 15 675,00 Kč CZK
+  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757748003165)
     Availability: Available
-    Price: 13 990,00 Kč CZK
-  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575029085)
-    Availability: Not Available
-    Price: 13 334,00 Kč CZK
+    Price: 14 811,00 Kč CZK
+  - [20000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=57757747937629)
+    Availability: Available
+    Price: 13 611,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575061853)
     Availability: Not Available
     Price: 13 334,00 Kč CZK
-  - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575094621)
-    Availability: Available
-    Price: 14 269,00 Kč CZK
-  - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575127389)
+  - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575029085)
     Availability: Not Available
     Price: 13 334,00 Kč CZK
+  - [25000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637574996317)
+    Availability: Not Available
+    Price: 13 990,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575160157)
     Availability: Not Available
     Price: 13 334,00 Kč CZK
-- [Renault Symbioz Iconic E-Tech 145 105 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka): Renault Symbioz je kompaktní a všestranné rodinné SUV, které kombinuje moderní technologie s komfortem. Na první pohled zaujme díky svému modernímu vzhledu, který se opravdu povedl. Interiér nabízí prostornost, kvalitní materiály a technologicky vyspělé prvky. Pohonná jednotka E-Tech full hybrid o výkonu 145 k (107 kW) umožňuje dojezd až 1 000 km. Ve městě lze jezdit až 80 % času v elektrickém režimu, což přináší úsporu paliva až o 40 %. Baterie se dobíjí automaticky při brzdění či zpomalování díky rekuperačnímu brzdění, bez potřeby nabíjení ze zásuvky. Potěší také komfortní podvozek a automatická převodovka. Jedná se o všestranného parťáka pro každý den.
-  Updated: 2025-10-29T18:54:37Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultSymbiozIconicE-Techfoto1.webp?v=1761733350
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748756829)
-    Availability: Available
-    Price: 7 442,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748724061)
-    Availability: Available
-    Price: 7 855,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748789597)
-    Availability: Available
-    Price: 7 923,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748822365)
-    Availability: Available
-    Price: 8 402,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748887901)
-    Availability: Available
-    Price: 8 478,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-145-105kw-natural-95-automaticka-prevodovka?variant=57757748855133)
-    Availability: Available
-    Price: 8 852,00 Kč CZK
+  - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575127389)
+    Availability: Not Available
+    Price: 13 334,00 Kč CZK
+  - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-extra-ev87-105kw-elektrina-automaticka-prevodovka?variant=58637575094621)
+    Availability: Not Available
+    Price: 14 269,00 Kč CZK
 - [Toyota Yaris GR Dynamic 1.6 Turbo 206 kW Natural 95 4x4 Manuální převodovka](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-manualni-prevodovka): Toyota GR Yaris se sice na první pohled může prezentovat jako malé auto do města, kterým je klasický Yaris, ale sportovní verze GR je zcela jiná. Jedná se o čistokrevné sportovní auto, které bylo kompletně předělané a připomíná rally speciál. Má rozšířenou karoserii, která je podstatně tužší, rozšířil se i rozchod kol. Uvnitř zaujmou fantastická sportovní sedadla a zcela nová palubní deska orientovaná na řidiče. Pod kapotou se nachází silný benzínový motor, který vozu dodává jedinečnou dynamiku. Nechybí ani pohon všech kol a dvojice samosvorných diferenciálů, které zajistí obratnost a rychlost v zatáčkách. Jedná se o velice zábavné auto, které je opravdu rychlé a to bez ohledu na to, zda-li jedete po suché, mokré či zasněžené vozovce. Tento model se zapíše do dějin a stane se pravděpodobně posledním autem tohoto druhu na světě. Aktuálně máte jedinečnou příležitost si tuto kapesní raketu vzít na operativní leasing a užít si toto fenomenální dílo.
   Updated: 2025-10-29T18:54:40Z
   Vendor: Driveto
@@ -3163,72 +3125,48 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [10000 km / 36 měsíců / Bílá](https://www.driveto.cz/products/toyota-yaris-dynamic-1-6-turbo-206kw-natural-95-4x4-automaticka-prevodovka?variant=57757750788445)
     Availability: Available
     Price: 18 098,00 Kč CZK
-- [Renault Mégane Techno 220 Comfort Range 160 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka): Renault Megane ve verzi E-Tech EV60 je elektrický hatchback, který kombinuje elegantní design s pokročilými technologiemi. Zaujme futuristickým designem. Uvnitř je dostatek prostoru pro 4 dospělé a nechybí ani solidní kapacita v zavazadlovém prostoru. Je vybaven elektromotorem o výkonu 220 k (160 kW) a baterií o kapacitě 60 kWh, která poskytuje dojezd až 450 km na jedno nabití. Maximální nabíjecí výkon dosahuje 130 kW, což umožňuje nabití z 10 % na 80 % za přibližně 30 minut. Jedná se o skvělého parťáka do města, ale hravě zvládne i příležitostné delší cesty.
-  Updated: 2025-10-29T18:54:46Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultMeganeTechno220foto1.webp?v=1761733468
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753311581)
-    Availability: Available
-    Price: 10 494,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753344349)
-    Availability: Available
-    Price: 11 296,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753377117)
-    Availability: Available
-    Price: 11 901,00 Kč CZK
-  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753442653)
-    Availability: Available
-    Price: 10 771,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753475421)
-    Availability: Available
-    Price: 11 643,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-techno-220-comfort-range-160kw-elektrina-automaticka-prevodovka?variant=57757753409885)
-    Availability: Available
-    Price: 12 273,00 Kč CZK
 - [Renault Master Advance 2.0 dCi 110 kW Nafta Manuální převodovka](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka): Renault Master je robustní dodávka, která nabídne opravdu hodně prostoru. S 2,0 litrovým dieselovým motorem o výkonu 150 k (110 kW) nabízí spolehlivý výkon pro náročné úkoly. Výhodou je, že nabídne dlouhé dojezd a styl jízdy nijak zvlášť neovlivní efektivitu provozu. Prostorný nákladový prostor a ergonomicky navržená kabina zajišťují pohodlí. Moderní asistenční systémy a technologie zvyšují bezpečnost a usnadňují každodenní provoz. Jedná se o ideální a všestrannou dodávku určenou i na delší vzdálenosti.
-  Updated: 2025-10-29T18:54:55Z
+  Updated: 2025-11-10T09:32:13Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultMasterAdvance2.0foto1.webp?v=1761734427
   - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753606493)
     Availability: Available
-    Price: 8 540,00 Kč CZK
-  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753639261)
-    Availability: Available
-    Price: 8 882,00 Kč CZK
+    Price: 8 883,00 Kč CZK
   - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753573725)
     Availability: Available
-    Price: 8 985,00 Kč CZK
+    Price: 9 272,00 Kč CZK
+  - [15000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753639261)
+    Availability: Available
+    Price: 9 123,00 Kč CZK
   - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753737565)
     Availability: Available
-    Price: 9 032,00 Kč CZK
-  - [20000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753672029)
-    Availability: Available
-    Price: 9 372,00 Kč CZK
+    Price: 9 374,00 Kč CZK
   - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753704797)
     Availability: Available
-    Price: 9 431,00 Kč CZK
+    Price: 9 716,00 Kč CZK
+  - [20000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753672029)
+    Availability: Available
+    Price: 9 611,00 Kč CZK
   - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753835869)
-    Availability: Available
+    Availability: Not Available
     Price: 9 470,00 Kč CZK
-  - [25000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753803101)
-    Availability: Available
-    Price: 9 924,00 Kč CZK
   - [25000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753770333)
-    Availability: Available
+    Availability: Not Available
     Price: 9 905,00 Kč CZK
+  - [25000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753803101)
+    Availability: Not Available
+    Price: 9 924,00 Kč CZK
   - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753868637)
-    Availability: Available
+    Availability: Not Available
     Price: 9 921,00 Kč CZK
-  - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753901405)
-    Availability: Available
-    Price: 10 559,00 Kč CZK
   - [30000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753934173)
-    Availability: Available
+    Availability: Not Available
     Price: 10 416,00 Kč CZK
+  - [30000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-master-advance-2-0-dci-110kw-nafta-manualni-prevodovka?variant=57757753901405)
+    Availability: Not Available
+    Price: 10 559,00 Kč CZK
 - [Toyota Yaris Cross Style 1.5 Hybrid 130 96 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-yaris-cross-style-1-5-hybrid-130-96-kw-natural-95-automaticka-prevodovka): Model Yaris je klasika mezi městskými vozy, která je tu s námi přes 20 let. Poslední roky jsou však podstatně oblíbenější vozy typu Crossovery či SUV a tak vznikl Yaris Cross. Design je líbivý a zásadně se odlišil od klasického Yarisu. Blatníky vozu jsou velmi robustní, což z vozu dělá takového zakrslého svalovce. Uvnitř potěší pohodlná sedadla se slušným bočním vedením a také je potřeba pochválit snadné ovládání a přehledný infotainment. Kufr pojme hezkých 397 litrů nákladu. Pohon vozu zajišťuje primárně benzínový motor o objemu 1,5 litru. Je zde bezestupňová převodovka e-CVT, jak to bývá u hybridů zvykem. Klasický spalovací motor je doplněn o malý elektromotor a akumulátor, který jej pohání a je nabíjen rekuperací. Je příjemné, že pocukávání v kolonách zvládá čistě na elektřinu, takže nehrozí vysoká spotřeba, jak to bývá u čistě spalovacích aut. Po městě zvládá jezdit s trochou snahy i pod 4 litry a to samé platí o okreskách. Na dálnici si nárokuje okolo 6,5 litrů, což je stále slušné. Yaris Cross je stylovka, která je skvělou volbou do města, se kterou se snadno parkuje a navíc nabízí velice nízkou spotřebu.
   Updated: 2025-11-04T11:58:34Z
   Vendor: Driveto
@@ -3353,7 +3291,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 8 002,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-natural-95-manualni-prevodovka-1): Octavia se za dobu jejího působí stala naprostou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Tento konkrétní kousek je kombík, takže nabídne opravdu prostorný kufr - 640 litrů. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s šestistupňovou převodovkou. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky šestému rychlostnímu stupni zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná.
-  Updated: 2025-10-29T18:55:27Z
+  Updated: 2025-11-10T08:02:50Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3371,7 +3309,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 892,00 Kč CZK
 - [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024, karosářská verze liftback byla představena o několik měsíců později. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velice pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:55:37Z
+  Updated: 2025-11-10T07:51:04Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3389,7 +3327,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 15 720,00 Kč CZK
 - [Škoda Superb IV Selection 1.5 TSI m-HEV 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-1-5-tsi-m-hev-110-kw-natural-95-automaticka-prevodovka-1): Nová čtvrtá generace Superbu byla představena světu počátkem roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde velmi pohodlná přední sedadla a pozici za volantem není co vytknout. Jedná se o opravdu velmi příjemné místo, kde budete rádi trávit čas. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice pohodlný.
-  Updated: 2025-10-29T18:55:41Z
+  Updated: 2025-11-10T07:51:20Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3457,84 +3395,6 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [30000 km / 24 měsíců / Červená](https://www.driveto.cz/products/audi-q3-s-line-1-5-tfsi-110-kw-natural-95-automaticka-prevodovka?variant=58865144660317)
     Availability: Available
     Price: 11 990,00 Kč CZK
-- [Renault Mégane Esprit Alpine 220 Comfort Range 160 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka): Renault Megane ve verzi je elektrický hatchback, který kombinuje elegantní design s pokročilými technologiemi. Zaujme futuristickým designem. Uvnitř je dostatek prostoru pro 4 dospělé a nechybí ani solidní kapacita v zavazadlovém prostoru. Je vybaven elektromotorem o výkonu 220 k (160 kW) a baterií o kapacitě 60 kWh, která poskytuje dojezd až 450 km na jedno nabití. Maximální nabíjecí výkon dosahuje 130 kW, což umožňuje nabití z 10 % na 80 % za přibližně 30 minut. Jedná se o skvělého parťáka do města, ale hravě zvládne i příležitostné delší cesty.
-  Updated: 2025-10-29T18:55:48Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultMeganeEspritAlpinefoto1.webp?v=1761734949
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886144004445)
-    Availability: Available
-    Price: 11 050,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886144069981)
-    Availability: Available
-    Price: 11 604,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886144102749)
-    Availability: Available
-    Price: 11 392,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886144168285)
-    Availability: Available
-    Price: 11 969,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886166417757)
-    Availability: Available
-    Price: 11 704,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-megane-esprit-alpine-220-comfort-range-160-kw-elektrina-automaticka-prevodovka?variant=57886166384989)
-    Availability: Available
-    Price: 12 340,00 Kč CZK
-- [Renault Symbioz Iconic E-Tech 160 118 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie): Renault Symbioz je kompaktní a všestranné rodinné SUV, které kombinuje moderní technologie s komfortem. Na první pohled zaujme díky svému modernímu vzhledu, který se opravdu povedl. Interiér nabízí prostornost, kvalitní materiály a technologicky vyspělé prvky. Pohonná jednotka E-Tech o výkonu 118 kW (160 koní) umožňuje vysoký dojezd na jedno natankování. Potěší také skvělé odhlučnění. Ve městě lze jezdit většinu času v elektrickém režimu, což přináší značnou úsporu paliva. Baterie se dobíjí automaticky při brzdění či zpomalování díky rekuperačnímu brzdění, bez potřeby nabíjení ze zásuvky. Potěší také komfortní podvozek a automatická převodovka. Jedná se o všestranného parťáka pro každý den.
-  Updated: 2025-10-29T18:55:52Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/RenaultSymbiozIconicE-Techfoto1_753e4659-14d8-462e-adc4-2e6a00a51acd.webp?v=1761734984
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186471773)
-    Availability: Available
-    Price: 7 141,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186504541)
-    Availability: Available
-    Price: 7 648,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186537309)
-    Availability: Available
-    Price: 7 624,00 Kč CZK
-  - [15000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186570077)
-    Availability: Available
-    Price: 8 198,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186602845)
-    Availability: Available
-    Price: 8 182,00 Kč CZK
-  - [20000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-symbioz-iconic-e-tech-160-118-kw-natural-95-automaticka-prevodovka-kopie?variant=57886186635613)
-    Availability: Available
-    Price: 8 649,00 Kč CZK
-- [Renault 5 E-Tech Techno 120 Urban Range 90 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka): Renault 5 E-Tech Iconiq Cinq je důkazem, že elektromobil nemusí být nudný. Tento vůz navazuje na legendární model Renault 5 z minulého století, ale přináší ho v úplně novém, elektrickém kabátě. Jedná se o ideální volbou pro každého, kdo hledá stylový, praktický a úsporný elektromobil bez kompromisů. S výkonem 90 kW, tichým elektrickým pohonem a automatickou převodovkou je jízda plynulá, svižná a hlavně bezemisní. Výbava Techno sází na moderní technologie – digitální kokpit, pokročilé asistenční systémy, konektivitu a bezpečnostní prvky, které oceníte při každé jízdě. Renault 5 kombinuje atraktivní vzhled s praktickými vlastnostmi, což z něj dělá skvělou volbu pro operativní leasing bez závazků a nečekaných nákladů.
-  Updated: 2025-10-29T18:55:54Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Renault5E-TechTechnofoto1.webp?v=1761735008
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka?variant=57887168889181)
-    Availability: Available
-    Price: 7 914,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka?variant=57887168856413)
-    Availability: Available
-    Price: 8 497,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka?variant=57887168921949)
-    Availability: Available
-    Price: 8 999,00 Kč CZK
-- [Renault 5 E-Tech Iconiq Cinq 120 Urban Range 90 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/renault-5-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka-kopie): Renault 5 E-Tech Iconiq Cinq je důkazem, že elektromobil nemusí být nudný. Tento vůz navazuje na legendární model Renault 5 z minulého století, ale přináší ho v úplně novém, elektrickém kabátě. Stylový retro design doplňuje chytrá technologie, skvělá výbava a plně elektrický pohon o výkonu 90 kW – ideální pro každodenní městské i příměstské ježdění. Verze Iconiq Cinq je vlajkovou lodí řady – nabízí prémiové zpracování interiéru, moderní infotainment, LED světlomety a originální detaily, které z vozu dělají designovou ikonu. Automatická převodovka a Urban Range zajišťují komfortní jízdu, nízkou spotřebu energie a ideální dojezd pro městský provoz. V rámci operativního leasingu je to perfektní volba pro ty, kteří chtějí výjimečný vůz bez starostí.
-  Updated: 2025-10-29T18:55:56Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Renault5E-TechIconiqfoto1.webp?v=1761735036
-  - [10000 km / 60 měsíců / Různé barvy](https://www.driveto.cz/products/renault-5-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka-kopie?variant=57887188746589)
-    Availability: Available
-    Price: 8 263,00 Kč CZK
-  - [10000 km / 48 měsíců / Různé barvy](https://www.driveto.cz/products/renault-5-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka-kopie?variant=57887188713821)
-    Availability: Available
-    Price: 8 874,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/renault-5-e-tech-techno-120-urban-range-90-kw-elektrina-automaticka-prevodovka-kopie?variant=57887188681053)
-    Availability: Available
-    Price: 9 390,00 Kč CZK
 - [BMW X3 M Sport xDrive20d 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka): Nová X3 byla představena v polovině roku 2024. Vyznačuje se ještě větší sportovní přitažlivostí, vizuální působivostí a univerzálností. Přináší výjimečný klid a jistotu při každodenní jízdě i na delších cestách. V interiéru nového BMW X3 se snoubí robustní funkčnost, dostatek prostoru a prémiová atmosféra s osobitým stylem. Design palubní desky, obložení dveří a použité materiály představují nový směr pro modelové portfolio BMW. Dieselový motor 20d xDrive je hospodárnější a výkonnější než kdykoli předtím, zrychlí z 0 na 100 km/h za 7,7 sekundy. Kombinovaná spotřeba se v klidném režimu pohybuje kolem 6 litrů. Nové BMW X3 je moderní všestranné SUV, které si zamilujete.
   Updated: 2025-10-29T18:55:59Z
   Vendor: Driveto
@@ -4603,7 +4463,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 7 714,00 Kč CZK
 - [Škoda Octavia Sportline 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka): Legendární Octavia je naprostou klasikou, kterou zná snad každý. Jedná se už o čtvrtou generaci tohoto mladoboleslavského bestselleru. Nedá se jí upřít, že skvěle a nadčasově vypadá. Tento konkrétní kousek je v karosářské variantě liftback, který má proti kombíku lepší aerodynamiku,vypadá atraktivněji, ale má o něco menší zavazadlový prostor. Ten je ovšem i tak dost velký - 600 litrů a otevírá se včetně zadního skla, takže se dovnitř vejdou třeba dvě jízdní kola. Uvnitř potěší pohodlná sedadla a bohatá výbava. Podvozek zaujme komfortním naladěním a zároveň velmi dobrou jistotou v zatáčkách, kde se chová i díky nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec o výkonu 110 kW. Ten poskytuje tichý a kultivovaný projev. Nová Octavia Sportline je výbornou volbou pro každý den.
-  Updated: 2025-10-29T18:58:51Z
+  Updated: 2025-11-10T07:51:37Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4639,7 +4499,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 464,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-manualni-prevodovka): Škoda Octavia ve výbavě Top Selection s motorem 1.5 TSI a manuální převodovkou je perfektní volba pro řidiče, kteří chtějí mít jízdu pod kontrolou a zároveň ocení komfort, prostor a úspornost. Čtyřválcový motor o výkonu 110 kW nabízí kultivovaný chod, příjemnou dynamiku a díky technologii vypínání dvou válců i velmi rozumnou spotřebu, v klidném tempu klidně kolem šesti litrů. Manuál potěší každého, kdo má rád přímější kontakt s autem, a dobře naladěný podvozek zvládne město i delší dálniční cestu s naprostou jistotou. Octavia v této specifikaci je zkrátka poctivý a spolehlivý kombík na každý den, praktická, prostorná a zároveň dostatečně zábavná, když si to situace žádá.
-  Updated: 2025-10-29T18:58:55Z
+  Updated: 2025-11-10T07:52:01Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4675,7 +4535,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 073,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka): Škoda Octavia ve výbavě Top Selection s motorem 1.5 TSI o výkonu 110 kW a automatickou převodovkou DSG je ideální volbou pro ty, kdo hledají komfortní, prostorný a úsporný vůz s moderní technikou. Čtyřválcový motor se vyznačuje kultivovaným chodem a díky technologii vypínání dvou válců při nízké zátěži dokáže jezdit překvapivě úsporně, spotřeba se běžně pohybuje kolem šesti litrů na 100 km. Automatická převodovka DSG řadí hladce a bez zdržení, což oceníte zejména ve městě nebo při častém popojíždění. Podvozek Octavie je komfortní a zároveň jistý i při svižnější jízdě. Díky své prostornosti, rozumným provozním nákladům a bohaté výbavě v rámci verze Top Selection je Octavia 1.5 TSI DSG skvělým parťákem pro každodenní použití i delší cesty.
-  Updated: 2025-10-29T18:58:58Z
+  Updated: 2025-11-10T07:52:19Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4786,7 +4646,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 10 184,00 Kč CZK
 - [Škoda Octavia Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-top-selection-1-5-tsi-110-kw-natural-95-automaticka-prevodovka-1): Škoda Octavia Combi ve výbavě Top Selection s motorem 1.5 TSI o výkonu 110 kW a automatickou převodovkou DSG je skvělou volbou pro každého, kdo hledá prostorné a pohodlné rodinné auto s moderním a úsporným pohonem. Čtyřválcový benzinový motor nabízí kultivovaný a tichý chod, dostatek síly pro svižnou jízdu a díky systému vypínání dvou válců při nízké zátěži také příjemně nízkou spotřebu, obvykle kolem šesti litrů. Automatická převodovka DSG řadí rychle a hladce, což oceníte hlavně ve městě nebo při delších cestách. Obrovskou předností této verze je velkorysý zavazadlový prostor o objemu 640 litrů, díky kterému Octavia Combi zvládne rodinnou dovolenou, pracovní náklad i každodenní provoz bez kompromisů. V kombinaci s bohatou výbavou Top Selection a nadčasovým designem jde o velmi vyvážený vůz, který jen těžko hledá konkurenci.
-  Updated: 2025-10-29T18:59:07Z
+  Updated: 2025-11-10T07:54:02Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4822,7 +4682,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 348,00 Kč CZK
 - [Škoda Octavia Sportline 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/skoda-octavia-sportline-1-5-tsi-110-kw-natural-95-manualni-prevodovka-1): Škoda Octavia Combi ve sportovně laděné verzi Sportline s motorem 1.5 TSI a manuální převodovkou je ideální volbou pro ty, kteří chtějí prostorné a praktické auto s nádechem dynamiky. Pod kapotou pracuje čtyřválcový benzinový motor o výkonu 110 kW, který nabídne tichý, kultivovaný chod a velmi slušnou dynamiku , a to i při plném naložení. Díky dobře odstupňované manuální převodovce máte vždy pocit přímého kontaktu s autem, což ocení každý, kdo si řízení rád užívá. Verze Sportline přidává ostřejší vzhled, sportovní detaily a vylepšený podvozek, který v zatáčkách působí jistě, ale stále zůstává komfortní i na delších trasách. K tomu připočtěte velký zavazadlový prostor o objemu 640 litrů a dostatek místa pro posádku – vzniká tak kombi, které spojuje praktičnost s radostí z jízdy.
-  Updated: 2025-10-29T18:59:11Z
+  Updated: 2025-11-10T07:54:20Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -5353,16 +5213,16 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-09T23:06:10Z
-  Total Products: 237
+  Updated: 2025-11-10T23:26:44Z
+  Total Products: 227
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T23:01:29Z
+  Updated: 2025-11-10T20:02:22Z
   Total Products: 65
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-08T10:02:40Z
-  Total Products: 30
+  Updated: 2025-11-11T00:02:09Z
+  Total Products: 26
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T23:03:47Z
+  Updated: 2025-11-11T00:02:29Z
   Total Products: 159
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:39:41Z
@@ -5374,7 +5234,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-26T11:17:59Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T10:06:06Z
+  Updated: 2025-11-10T17:03:44Z
   Total Products: 13
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
@@ -5386,50 +5246,50 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-10T21:07:07Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-10T21:05:22Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
-  Total Products: 6
+  Updated: 2025-11-10T15:05:52Z
+  Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T20:01:05Z
+  Updated: 2025-11-10T23:26:44Z
   Total Products: 45
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-08T12:18:46Z
+  Updated: 2025-11-11T00:01:09Z
   Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T19:05:16Z
+  Updated: 2025-11-10T21:02:23Z
   Total Products: 13
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
-  Total Products: 4
+  Updated: 2025-11-10T12:20:25Z
+  Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-09T12:18:58Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T17:05:43Z
+  Updated: 2025-11-10T12:20:25Z
   Total Products: 7
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-10T09:05:01Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T20:04:50Z
-  Total Products: 29
+  Updated: 2025-11-10T23:26:44Z
+  Total Products: 28
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-04T12:21:28Z
-  Total Products: 9
+  Updated: 2025-11-10T17:06:56Z
+  Total Products: 2
 - [Užitkové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-07T12:22:56Z
+  Updated: 2025-11-10T17:07:30Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T23:06:35Z
-  Total Products: 239
+  Updated: 2025-11-10T23:26:44Z
+  Total Products: 229
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T11:04:59Z
   Total Products: 9
@@ -5443,10 +5303,10 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-09T23:04:42Z
-  Total Products: 237
+  Updated: 2025-11-10T23:26:44Z
+  Total Products: 227
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-10T12:20:25Z
   Total Products: 3
 
 ## Store Pages
