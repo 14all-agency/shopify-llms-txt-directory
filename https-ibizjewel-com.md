@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-10T00:00:55.409Z
+- Updated At: 2025-11-11T00:00:47.434Z
 
 ## Products
 
@@ -44642,6 +44642,10 @@
     Updated: 2025-11-09T00:08:59Z
     Author: Heris K.
     Tags: diamonds, eco-friendly rings, ethical craftsmanship, handcrafted diamond rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry design
+  - [The Evolution and Benefits of Salt and Pepper Diamond Rings in Sustainable Jewelry](https://ibizjewel.com/blogs/news/the-evolution-and-benefits-of-salt-and-pepper-diamond-rings-in-sustainable-jewelry): The Evolution and Benefits of Salt and Pepper Diamond Rings in Sustainable Jewelry
+    Updated: 2025-11-10T03:32:42Z
+    Author: Heris K.
+    Tags: diamonds, environmentally friendly diamonds, ethical jewelry, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable rings, unique engagement rings
 
 ## Store Pages
 
