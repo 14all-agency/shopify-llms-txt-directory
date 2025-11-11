@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-11-09T00:01:00.885Z
+- Updated At: 2025-11-11T00:00:49.236Z
 
 ## Collections
 
@@ -65,6 +65,10 @@
     Updated: 2025-11-03T10:25:01Z
     Author: Mohammed Hassen
     Tags: baseball trend data, crazedo analysis, global google trends, google trending topics, los angeles dodgers, mlb 2025, sports search trends, toronto blue jays, world series 2025, world series game 7
+  - [Global Search Trends: India vs Australia & AI in Hong Kong](https://crazedo.com/blogs/weekly-google-trends/global-search-trends-from-india-vs-australia-to-ai-in-hong-kong): Global Search Trends: India vs Australia & AI in Hong Kong
+    Updated: 2025-11-10T13:08:21Z
+    Author: Mohammed Hassen
+    Tags: AI Hong Kong, Argentina Football, Australia Cricket, Boca Juniors, Celebrity News, France Football, Global Trends, India Cricket, PSG, River Plate, South Africa Rugby, Sports Highlights, Technology Trends
 
 ## Store Pages
 
@@ -72,14 +76,16 @@
   Updated: 2025-09-21T03:09:15Z
 - [Privacy Choices | Crazedo Data & Cookie Preferences](https://crazedo.com/pages/privacy-choices): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-16T03:01:18Z
-- [Weekly Google Trends — Exclusive Insights By Crazedo](https://crazedo.com/pages/weekly-google-trends): Weekly Trends – The #1 Google Search, Updated Every Monday At Crazedo, we go beyond Google Trends. Every Monday, we reveal the single hottest searc...
-  Updated: 2025-09-16T03:17:31Z
+- [Weekly Google Trends #1 Live Fashion & AI Signals | Crazedo](https://crazedo.com/pages/weekly-google-trends): “Stay Updated Data Made Simple Weekly Google Trends, Live Fashion & AI Signals” At Crazedo, we go beyond simply showing Google Trends charts. Every...
+  Updated: 2025-11-10T20:09:14Z
 - [About Crazedo — Weekly Google Trends Hub](https://crazedo.com/pages/about-crazedo): About Crazedo Crazedo is a weekly insights hub that tracks the world’s fastest-rising Google search trends. Every Monday, we publish clear, data-dr...
   Updated: 2025-09-19T03:28:48Z
 - [FAQ | Crazedo Weekly Google Trends Insights.](https://crazedo.com/pages/faq): Frequently Asked Questions (FAQ) 1.What is Crazedo?Crazedo is a weekly insights hub that highlights the #1 trending Google search of the week. Each...
   Updated: 2025-09-21T03:25:26Z
 - [Search Results](https://crazedo.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if ( window.location.pathname.indexOf(snize_search_res...
   Updated: 2025-11-05T04:04:06Z
+- [Fashion Trends | Real-Time Style Signals – Crazedo](https://crazedo.com/pages/fashion-trends): 
+  Updated: 2025-11-09T13:46:12Z
 
 ## Policies
 
