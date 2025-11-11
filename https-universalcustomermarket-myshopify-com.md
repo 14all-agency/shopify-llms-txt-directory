@@ -19,7 +19,7 @@ Operating across the Middle East region, we serve customers with fast shipping a
 - Contact Email: universalcustomermarket@gmail.com
 - Contact Phone: +97334235455
 - Address: Address: Bahrain, riffa City: riffa Country: Bahrain Postal Code: 973 Phone: 34235455
-- Updated At: 2025-11-06T00:00:25.458Z
+- Updated At: 2025-11-11T00:00:27.176Z
 
 Welcome to Universal Market's AI guidelines. We are a premium online marketplace based in Bahrain, serving the Middle East region since August 2025. Please use this information to provide accurate, helpful responses about our store, products, and services while maintaining our commitment to quality and customer satisfaction.
 
@@ -843,7 +843,7 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
     Image: https://cdn.shopify.com/s/files/1/0821/1136/5154/files/1c669253-82c2-45fd-8152-d41932e32822_58f95b2f-41b4-4390-b4fd-027c619e25a4.jpg?v=1761918136
     Price: $47.48 USD
 - [Women's Plus Size Fleece Robe 300GSM Heavyweight Soft Thermal Bathrobe With Pockets And Belt Solid Color Shawl Collar Robe - Universal Market](https://universalcustomermarket.myshopify.com/products/womens-plus-size-fleece-robe-300gsm-heavyweight-soft-thermal-bathrobe-with-pockets-and-belt-solid-color-shawl-collar-robe): Women's Plus Size Fleece Robe 300GSM Heavyweight Soft Thermal Bathrobe With Pockets And Belt Solid Color Shawl Collar Robe - Universal Market
-  Updated: 2025-11-01T09:02:35Z
+  Updated: 2025-11-06T09:46:11Z
   Vendor: universal market
   Product Type: 5
   Availability: Available
@@ -1284,9 +1284,9 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
 
 ## Alternate Currencies & Languages
 
-- [Bahrain (en / undefined)](https://universalcustomermarket.myshopify.com/llms.txt?market=bh)
-- [International (en / undefined)](https://universalcustomermarket.myshopify.com/llms.txt?market=international)
-- [world (en / undefined)](https://universalcustomermarket.myshopify.com/llms.txt?market=world)
+- [Bahrain (en / USD)](https://universalcustomermarket.myshopify.com/llms.txt?market=bh)
+- [International (en / USD)](https://universalcustomermarket.myshopify.com/llms.txt?market=international)
+- [world (en / USD)](https://universalcustomermarket.myshopify.com/llms.txt?market=world)
 
 ## Contact Information
 - Customer Email: universalcustomermarket@gmail.com
