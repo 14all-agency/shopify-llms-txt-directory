@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-10-02T13:08:01Z
 - Contact Email: deibiortizcruz93@gmail.com
-- Updated At: 2025-11-07T00:00:27.601Z
+- Updated At: 2025-11-11T00:00:38.452Z
 
 ## Products
 
@@ -1755,8 +1755,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/2319/1678/files/S5d4405b7c45f439fa6d32df6ea4acdb5B.webp?v=1761755017
     Price: 23,89 € EUR
-- [Coat Baseball Jacket Mens Wear Warm Windproof Jacket Male Jackets Simple British Style Mens Cargo New Fashion Bomber Jacket](https://storeservise.myshopify.com/products/coat-baseball-jacket-mens-wear-warm-windproof-jacket-male-jackets-simple-british-style-mens-cargo-new-fashion-bomber-jacket): SPECIFICATIONSApplicable Scene: DailyApplicable Season: Autumn And WinterBomber jacket: jackets for menBomber male: Men's coatBrand Name: MUSTYORKCN: ShaanxiClosure Type: ZipperClothing Length: regularCollar: Turn-Down CollarCraft of Weaving: KnitCuff Style: CONVENTIONALDecoration: NoneDetachable Part: NoneGender: MenHigh-concerned chemical: NoneHooded: NoItem Type: Outerwear & CoatsJackets man jaquetas: jacket menLining Material: COTTONMale jacket: Men's winter jacketMaterial: COTTON,POLYESTERMens windbreakers: chaqueta hombreModel Number: jacket coat bomber jacket brand clothing jacket men windbreaker jacketOrigin: Mainland ChinaOuterwear Type: JACKETSPattern Type: SolidPlace Of Origin: China (mainland)Sleeve Style: regularStyle: CasualThickness: StandardType: Slimbomber jacket mens jackets and coats: brand clothingjacket coat mens bomber jackets: man jacketjackets for men: autumn jacket men casualmotorcycle jacket men jacket: casacas para hombresize_info: {"sizeInfoList":[{"length":{"cm":"KG","inch":"KG"},"size":"ASIAN SIZE","vid":-88},{"length":{"cm":"30 kg-40 kg","inch":"30 kg-40 kg"},"size":"S","vid":-89},{"length":{"cm":"40 kg-52.5 kg","inch":"40 kg-52.5 kg"},"size":"M","vid":-90},{"length":{"cm":"52.5 kg-62.5 kg","inch":"52.5 kg-62.5 kg"},"size":"L","vid":-91},{"length":{"cm":"62.5 kg-70 kg","inch":"62.5 kg-70 kg"},"size":"XL","vid":-92},{"length":{"cm":"70 kg-80 kg","inch":"70 kg-80 kg"},"size":"XXL","vid":-93},{"length":{"cm":"80 kg-90 kg","inch":"80 kg-90 kg"},"size":"3XL","vid":-94},{"length":{"cm":"90 kg-95 kg","inch":"90 kg-95 kg"},"size":"4XL","vid":-95},{"length":{"cm":"95 kg-105 kg","inch":"95 kg-105 kg"},"size":"5XL","vid":-96},{"length":{"cm":"105 kg-115 kg","inch":"105 kg-115 kg"},"size":"6XL","vid":-97}]}whether full opening: Yeswinter jacket men: japanese jacket modname=ckeditor
-  Updated: 2025-11-01T17:08:12Z
+- [Chaqueta Bomber Hombre Cortavientos - Estilo Británico Otoño Invierno](https://storeservise.myshopify.com/products/coat-baseball-jacket-mens-wear-warm-windproof-jacket-male-jackets-simple-british-style-mens-cargo-new-fashion-bomber-jacket): Chaqueta Bomber Cortavientos para Hombre Mantente abregado y con estilo con esta chaqueta bomber de diseño británico. Perfecta para el otoño e invierno, combina funcionalidad y moda. Características principales: ✓ Material: Algodón y poliéster de alta calidad ✓ Forro: Algodón suave y cálido ✓ Diseño: Estilo británico clásico con cierre de cremallera. ✓ Función: Cortavientos y resistente al frío. ✓ Cuello: Cuello vuelto elegante ✓ Temporada: Otoño e invierno ✓ Estilo: Casual y versátil ✓ Tallas: De S a 6XL disponibles ¿Por qué elegir este bombardero? Esta chaqueta bomber es la prenda esencial para los días fríos. Su diseño británico te da un look cómodo mientras te protege del viento y el frío. Perfecta para combinar con jeans, pantalones cargo o chinos. El tejido de algodón y poliéster garantiza durabilidad y comodidad durante todo el día. Guía de tallas según peso: Consulta la tabla de tallas para encontrar tu ajuste perfecto según tu peso corporal.
+  Updated: 2025-11-10T09:53:32Z
   Vendor: Tienda thiem 
   Product Type: 
   Availability: Available
@@ -3041,8 +3041,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/2319/1678/files/Sff394eb973c0454e8266ee7f026564d2G.webp?v=1761757816
     Price: 19,99 € EUR
-- [chaquetas sin manga cuerina Loose short leather jacket Shoulder pad coat American retro leather jacket for men](https://storeservise.myshopify.com/products/chaquetas-sin-manga-cuerina-loose-short-leather-jacket-shoulder-pad-coat-american-retro-leather-jacket-for-men): SPECIFICATIONSApplicable Scene: TripApplicable Season: Four SeasonsBrand Name: NoEnName_NullCN: ZhejiangChoice: yesHigh-concerned chemical: NoneLining Material: Synthetic LeatherMaterial: Faux LeatherOrigin: Mainland ChinaStyle: CasualThickness: Standard
-  Updated: 2025-10-30T05:37:48Z
+- [Chaqueta Cuero Sin Mangas Hombre Retro - Estilo Americano Vintage](https://storeservise.myshopify.com/products/chaquetas-sin-manga-cuerina-loose-short-leather-jacket-shoulder-pad-coat-american-retro-leather-jacket-for-men): Chaqueta de cuero sin mangas para hombre con estilo retro americano. Cuero sintético de calidad, hombreras acolchadas. Perfecta para look casual y moderno. ¡Envío gratis! ✓ Forro: Cuero sintético suave y cómodo ✓ Diseño: Hombreras acolchadas estilo retro. ✓ Estilo: Casual americano vintage ✓ Temporada: Ideal para primavera, verano, otoño e invierno. ✓ Versatilidad: Combina con jeans, camisetas y botas ¿Por qué elegir esta chaqueta? Esta chaqueta sin mangas es perfecta para quienes buscan un estilo único y atrevido. Su diseño retro con hombreras te hará destacar, mientras que el cuero sintético garantiza durabilidad y comodidad. Ideal para salidas casuales, viajes o eventos informales. Tallas disponibles: Consulta la tabla de tallas para encontrar tu ajuste perfecto.
+  Updated: 2025-11-10T08:24:35Z
   Vendor: Tienda thiem 
   Product Type: 
   Availability: Available
