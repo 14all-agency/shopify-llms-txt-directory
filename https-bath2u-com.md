@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-09T00:00:32.942Z
+- Updated At: 2025-11-11T00:00:31.452Z
 
 ## Products
 
@@ -3914,113 +3914,113 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-06140719.png?v=1762409378
   Price: RM 999.00 MYR
-- [GLORY GLWT17041](https://bath2u.com/products/glory-glwt17041): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Wall Mounted
-  Updated: 2025-11-07T16:14:44Z
+- [GLORY GLWT17041  Kitchen Single Water Tap](https://bath2u.com/products/glory-glwt17041): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Wall Mounted
+  Updated: 2025-11-10T13:59:02Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-06150110_e969ff44-e935-4567-8ae4-9dcd8e39188f.png?v=1762413741
   Price: RM 125.00 MYR
-- [GLORY GLWT17046](https://bath2u.com/products/glory-glwt17046): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Wall Mounted
-  Updated: 2025-11-08T04:26:12Z
+- [GLORY GLWT17046  Kitchen Single Water Tap](https://bath2u.com/products/glory-glwt17046): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Wall Mounted
+  Updated: 2025-11-10T13:59:11Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-06155913.png?v=1762416010
   Price: RM 125.00 MYR
-- [GLORY GLPTFP01](https://bath2u.com/products/glory-glptfp01): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Deck Mounted Flexible Hose
-  Updated: 2025-11-07T15:19:12Z
+- [GLORY GLPTFP01 Kitchen Single Water Tap](https://bath2u.com/products/glory-glptfp01): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Cold Tap/ Single Water Tap Deck Mounted Flexible Hose
+  Updated: 2025-11-10T13:57:41Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-06160417.png?v=1762416268
   Price: RM 59.00 MYR
-- [GLORY GLPT17052](https://bath2u.com/products/glory-glpt17052): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double water tap Deck Mounted
-  Updated: 2025-11-08T04:25:46Z
+- [GLORY GLPT17052 Kitchen Double Water Tap](https://bath2u.com/products/glory-glpt17052): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Deck Mounted
+  Updated: 2025-11-10T13:57:27Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07090924.png?v=1762477958
   Price: RM 158.00 MYR
-- [GLORY GLPT17053](https://bath2u.com/products/glory-glpt17053): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
-  Updated: 2025-11-07T18:11:09Z
+- [GLORY GLPT17053 Kitchen Double Water Tap](https://bath2u.com/products/glory-glpt17053): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
+  Updated: 2025-11-10T13:57:10Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07091751.png?v=1762478349
   Price: RM 158.00 MYR
-- [GLORY GLPTFPB01B](https://bath2u.com/products/glory-glptfpb01b): Product Features : Material : S/Steel 304 Colour : Chrome/ Black Hose Type : Kitchen Cold Tap/ Single Water Tap Deck Mounted Flexible Hose
-  Updated: 2025-11-07T14:01:36Z
+- [GLORY GLPTFPB01B Kitchen Single Water Tap](https://bath2u.com/products/glory-glptfpb01b): Product Features : Material : S/Steel 304 Colour : Chrome/ Black Hose Type : Kitchen Cold Tap/ Single Water Tap Deck Mounted Flexible Hose
+  Updated: 2025-11-10T13:56:45Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07094928.png?v=1762480360
   Price: RM 133.00 MYR
-- [GLPTFPB02B](https://bath2u.com/products/glptfpb02b): Product Features : Material : S/Steel 304 Colour : Chrome/ Black Hose Type : Kitchen Cold Tap/ Double Water Tap Deck Mounted Flexible Hose
-  Updated: 2025-11-07T05:46:16Z
+- [GLPTFPB02B Kitchen Double Water Tap](https://bath2u.com/products/glptfpb02b): Product Features : Material : S/Steel 304 Colour : Chrome/ Black Hose Type : Kitchen Cold Tap/ Double Water Tap Deck Mounted Flexible Hose
+  Updated: 2025-11-10T13:56:34Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07100842.png?v=1762481355
   Price: RM 133.00 MYR
-- [GLORY GLWT17054](https://bath2u.com/products/glory-glwt17054): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
-  Updated: 2025-11-07T14:18:59Z
+- [GLORY GLWT17054 Kitchen Double Water Tap](https://bath2u.com/products/glory-glwt17054): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
+  Updated: 2025-11-10T13:56:22Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07102640.png?v=1762482419
   Price: RM 158.00 MYR
-- [GLORY GLWT17050](https://bath2u.com/products/glory-glwt17050): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
-  Updated: 2025-11-07T06:12:28Z
+- [GLORY GLWT17050 Kitchen Double Water Tap](https://bath2u.com/products/glory-glwt17050): Product Features : Material : Brass Colour : Chrome Type : Kitchen Cold Tap/ Double Water Tap Wall Mounted
+  Updated: 2025-11-10T13:56:13Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07103732.png?v=1762483092
   Price: RM 142.00 MYR
-- [GLORY GLKT2022 Pull Out](https://bath2u.com/products/2): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T16:51:29Z
+- [GLORY GLKT2022 Kitchen Pull Out Mixer Tap](https://bath2u.com/products/2): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:55:26Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07104612.png?v=1762483585
   Price: RM 217.00 MYR
-- [GLORY GLKT2021 Pull Out](https://bath2u.com/products/glory-glkt2021): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T22:10:22Z
+- [GLORY GLKT2021 Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2021): Product Features : Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:54:15Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07105455.png?v=1762485841
   Price: RM 217.00 MYR
-- [GLORY GLKT2021-B Pull Out](https://bath2u.com/products/glory-glkt2021-b): Product Features : Material : S/Steel 304 Colour : Black Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T16:03:53Z
+- [GLORY GLKT2021-B Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2021-b): Product Features : Material : S/Steel 304 Colour : Black Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:54:00Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07114055.png?v=1762487001
   Price: RM 233.00 MYR
-- [GLORY GLKT2021-Q Pull Out](https://bath2u.com/products/glory-glkt2021-q-pull-out): Product Features : Material : S/Steel 304 Colour : Gunmetal Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T12:40:54Z
+- [GLORY GLKT2021-Q Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2021-q-pull-out): Product Features : Material : S/Steel 304 Colour : Gunmetal Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:53:28Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot_2025-11-07_115340.png?v=1762487633
   Price: RM 267.00 MYR
-- [GLORY GLKT2025 Pull Out](https://bath2u.com/products/glory-glkt2025-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T22:58:21Z
+- [GLORY GLKT2025 Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2025-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Chrome Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:55:13Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07120032.png?v=1762488497
   Price: RM 200.00 MYR
-- [GLORY GLKT2025-B Pull Out](https://bath2u.com/products/glory-glkt2025-b-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Black Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T13:04:22Z
+- [GLORY GLKT2025-B Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2025-b-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Black Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:55:40Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/files/Screenshot2025-11-07121629.png?v=1762489078
   Price: RM 217.00 MYR
-- [GLORY GLKT2025-Q Pull Out](https://bath2u.com/products/glory-glkt2025-q-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Gunmetal Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
-  Updated: 2025-11-07T06:35:50Z
+- [GLORY GLKT2025-Q Kitchen Pull Out Mixer Tap](https://bath2u.com/products/glory-glkt2025-q-pull-out): Product Features : Four Function With Shower Head Material : S/Steel 304 Colour : Gunmetal Type : Kitchen Pull-out Mixer Tap / C/W GLMC 3 Way Connector To Become Cold Tap Deck Mounted 14" Mixer Flexible Hose
+  Updated: 2025-11-10T13:56:01Z
   Vendor: Bath2u.com
   Product Type: Kitchen Tap
   Availability: Available
@@ -4033,7 +4033,7 @@
   Updated: 2025-11-04T08:35:20Z
   Total Products: 375
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 426
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
   Updated: 2025-11-03T04:20:27Z
@@ -4111,7 +4111,7 @@
   Updated: 2023-02-10T04:12:28Z
   Total Products: 2
 - [Deck Mounted Tap](https://bath2u.com/collections/deck-mounted-tap-1): A deck-mounted tap, also known as a countertop or vanity tap, is a type of bathroom faucet that is installed directly onto the countertop or vanity unit. This type of tap is attached to the bathroom sink or basin by drilling holes into the countertop and then screwing the faucet into place. Deck-mounted taps come in a wide variety of designs and styles, from traditional to modern, and can be made of materials such as chrome, brass, or stainless steel. They can also come in a single-handle or double-handle configuration, allowing for easy control of water flow and temperature. Deck-mounted taps are popular because they are easy to install and maintain, and they also provide a sleek and modern look to the bathroom.
-  Updated: 2025-11-07T04:23:54Z
+  Updated: 2025-11-10T02:09:24Z
   Total Products: 20
 - [Bib Tap](https://bath2u.com/collections/bib-tap): A bib tap is a wall-mounted tap that also offers the ability to connect a hose. They can be operated in all manner of ways, from traditional turn taps and lever taps, to push button taps that emit water for a set period of time before self-closing.
   Updated: 2023-03-13T08:33:40Z
@@ -4168,7 +4168,7 @@
   Updated: 2023-03-06T06:53:15Z
   Total Products: 8
 - [Kitchen](https://bath2u.com/collections/kitchen): Kitchen fittings are the various fixtures, appliances and accessories that are used in a kitchen to make it more functional and efficient. These can include items such as kitchen sinks, faucets, cabinets, countertops, and built-in appliances like ovens, cooktops, and range hoods. Kitchen fittings can come in a variety of styles, from modern to traditional, and can be made of different materials such as stainless steel, granite, and wood. They can also come in different finishes like polished, matte, and brushed. Kitchen fittings can be customized to fit the specific needs and preferences of the homeowner, and can be used to complement the overall design of the kitchen. They are designed to make kitchen activities such as cooking, cleaning, and food preparation more convenient and enjoyable.
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 77
 - [Doors](https://bath2u.com/collections/doors): Bathroom doors are the doors that are used to enclose a bathroom and provide privacy. They come in different styles and materials, from traditional wooden doors to modern glass or acrylic sliding doors. They can also come in different finishes like polished, matte, and brushed. Bathroom doors can be hinged, sliding or pocket doors and can be designed to match the overall style and decor of the bathroom. They can also be designed with different features such as locks, handles, and peepholes for added security and privacy. Bathroom doors can be made of various materials such as wood, glass, metal, and PVC. They are an important part of any bathroom, providing privacy and security while also enhancing the overall aesthetic of the bathroom.
   Updated: 2023-02-15T02:58:27Z
@@ -4180,7 +4180,7 @@
   Updated: 2023-01-25T01:38:26Z
   Total Products: 0
 - [SALES](https://bath2u.com/collections/sales): For all products under sales promotion including annual sales, promotional items, and clearance stocks. Get the best bargain in town here at Best Bath.
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 141
 - [Floor Drainer](https://bath2u.com/collections/floor-drainer): A floor drainer is a type of drain typically used in bathrooms and shower rooms, which allows water to flow away from the floor and into the drain. It is typically installed in the floor and can have a grate or cover to prevent debris or hair from clogging the drain. Floor drainers can come in different sizes and shapes, and can be made of different materials such as stainless steel, brass, and plastic. Some floor drainers also come with removable covers that can be easily cleaned, and some can be adjusted to different floor thicknesses. They are designed to prevent water from pooling on the floor, reducing the risk of slips, falls, and water damage. They are often used in wet rooms, shower rooms, and bathrooms but can also be used in commercial kitchens, industrial plants and other places where the water needs to be drained away from the floor.
   Updated: 2023-03-06T04:07:10Z
@@ -4234,7 +4234,7 @@
   Updated: 2025-11-06T06:14:18Z
   Total Products: 57
 - [Kitchen Tap](https://bath2u.com/collections/kitchen-tap): A kitchen tap (or faucet) is a plumbing fixture that is installed in a kitchen for the purpose of providing hot and cold water for washing dishes, food preparation, and cleaning. It is typically made of materials such as stainless steel, chrome, or brass. Kitchen taps come in a wide variety of designs, styles, and configurations to fit different kitchen layouts and needs. Kitchen taps can have one or two handles to control the flow and temperature of the water, and they can have a single or double spout. Some kitchen taps are equipped with a pull-out or pull-down spray head, which allows for more flexibility and convenience when using the tap. They can be mounted on the sink, countertop or wall, depending on the style and design of the tap. Kitchen taps are a practical and essential part of any kitchen, as they are used for a wide range of tasks such as washing dishes, preparing food, and cleaning. They are available in different styles, designs, and materials to suit different kitchen decors and preferences. They are also easy to install and maintain, and they can be cleaned with a mild soap and water.
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 33
 - [Kitchen Accessories](https://bath2u.com/collections/kitchen-accessories): Kitchen accessories are items that are used to enhance the functionality and appearance of a kitchen. They include a wide range of items such as kitchen organizers, cutting boards, kitchen scales, kitchen timers, and many more. Kitchen accessories can be made of materials such as plastic, wood, metal, or glass and they come in a wide variety of styles and designs to match different kitchen decors. Kitchen accessories serve many purposes. They help to organize and store kitchen essentials, enhance the overall look of the kitchen, and provide additional comfort and convenience for the user. Some accessories like kitchen organizers, cutting boards, and kitchen timers are functional and help to keep kitchen essentials within easy reach. Other accessories like kitchen scales and decorative pieces can add a touch of style and personality to the kitchen. Kitchen accessories are available in various price ranges to suit different budgets and needs. They are also easy to install and maintain, making them a practical and convenient addition to any kitchen. They can be a great addition to any kitchen renovation or remodel and add a touch of personality to the space.
   Updated: 2025-10-13T11:11:02Z
@@ -4273,7 +4273,7 @@
   Updated: 2023-02-11T13:28:34Z
   Total Products: 2
 - [Wall Mounted Tap](https://bath2u.com/collections/wall-mounted-tap-1): A wall mounted tap is a type of faucet that is installed directly onto the wall above a sink, rather than on the sink itself. This type of tap typically has a long spout that extends out from the wall, and is often used in bathrooms or kitchens where the sink is not directly adjacent to the wall. Wall mounted taps can be operated with a handle or lever, and are typically used in conjunction with a drain and a valve that controls the flow of water. Some wall mounted taps also have a built-in spray feature for added convenience.
-  Updated: 2025-11-07T02:42:42Z
+  Updated: 2025-11-10T02:07:09Z
   Total Products: 7
 - [Bottle Trap](https://bath2u.com/collections/bottle-trap): The bottle trap is an essential element of the basin's plumbing that keeps the bathroom hygienic and odor-free. When we use the basin, the used water goes down the basin waste, into the drainage pipe, and then into the sewer, where a lot of other waste and dirt is accumulating.
   Updated: 2023-02-09T15:39:28Z
@@ -4300,10 +4300,10 @@
   Updated: 2025-11-03T04:22:07Z
   Total Products: 56
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 101
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2025-11-07T04:31:50Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 141
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
@@ -4387,7 +4387,7 @@
   Updated: 2025-11-04T09:36:27Z
   Total Products: 88
 - [GLORY](https://bath2u.com/collections/glory)
-  Updated: 2025-11-07T04:31:24Z
+  Updated: 2025-11-10T02:09:41Z
   Total Products: 49
 - [GLORY](https://bath2u.com/collections/glory-1)
   Updated: 2025-11-05T04:33:13Z
