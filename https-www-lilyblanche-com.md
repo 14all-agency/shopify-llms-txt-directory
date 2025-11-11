@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-11-10T00:00:42.877Z
+- Updated At: 2025-11-11T00:00:43.075Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -173,7 +173,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_3c2679ed-9d9c-46e6-aee2-1700745b1bc4.jpg?v=1741874407
   Price: £130.00 GBP
 - [Purple Amethyst  Ring | Silver Amethyst stacking ring | Lily Blanche](https://www.lilyblanche.com/products/purple-amethyst-cocktail-ring-silver): This purple amethyst gemstone ring, the birthstone for February, has fabulous clarity, depth of colour and luminosity. Free ring sizer and jewellery care kit with every order. Browse our extensive collection of genuine amethyst jewellery
-  Updated: 2025-08-21T13:18:45Z
+  Updated: 2025-11-10T10:16:31Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -2101,7 +2101,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £185.00 GBP
 - [Memory Keeper Bracelet Gold | Lily Blanche](https://www.lilyblanche.com/products/memory-keeper-bracelet-gold): The Memory Keeper Bracelet incorporates cutting edge design and traditional jewellery-making techniques to create this stunning, ten link, l bracelet. Free Jewellery care kit worth £20.
-  Updated: 2025-11-03T01:40:20Z
+  Updated: 2025-11-10T20:55:36Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
@@ -2906,7 +2906,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [Memory Keeper Locket Necklace | 6 Photos + Engraving | Premium Quality](https://www.lilyblanche.com/products/memory-keeper-locket-gold): The Memory Keeper Locket keeps loved ones close. This stunning necklace holds 6 photos. Engraveable. Get free photos, jewellery care kit & gift wrap today.
-  Updated: 2025-11-03T19:51:42Z
+  Updated: 2025-11-10T21:02:08Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3111,7 +3111,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a8d01f2d-e24b-4ecb-b5f5-d45953e3578c.jpg?v=1741877713
   Price: £50.00 GBP
 - [Memorial Feather Locket | Round Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/feather-locket-gold): Cherish your precious memories with this beautiful, 18 carat gold vermeil picture locket featuring a wonderfully detailed feather charm in a matching or contrasting precious metal. Fill the locket with 2 of your own photos & engrave a message. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Online Today
-  Updated: 2025-09-01T13:41:32Z
+  Updated: 2025-11-10T16:23:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9869,7 +9869,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Rope Chain | Gold | Lily Blanche](https://www.lilyblanche.com/products/rope-chain-gold): This  extra strong, 18 carat gold vermeil diamond cut rope chain will add interest and texture to any pendant or locket.
-  Updated: 2025-11-06T20:05:11Z
+  Updated: 2025-11-10T21:03:05Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9980,7 +9980,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Rose Gold Twist Chain | Premium Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-rose-gold): This fancy, 18 carat rose gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain will add a decorative effect to any locket or pendant. Free Jewellery Care Kit included & Free UK Shipping. Express Shipping Available. Explore quality chains & necklaces online today.
-  Updated: 2025-10-30T16:06:17Z
+  Updated: 2025-11-10T14:14:35Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -10091,7 +10091,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Belcher Chain  White Gold Premium Quality](https://www.lilyblanche.com/products/belcher-chain-white-gold): This premium quality white gold vermeil belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look.
-  Updated: 2025-11-03T19:55:47Z
+  Updated: 2025-11-10T19:51:56Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -15661,46 +15661,42 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £1,245.00 GBP
 - [Solid Gold Oval Diamond Locket | Premium Quality | Lily Blanche](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket): Looking for a special gift? This solid 9 carat oval gold and diamond locket has been handcrafted in the UK by master goldsmiths. An heirloom locket which can be personalised with photos. Free Jewellery Care Kit included & Free UK Shipping. Express Shipping Available. Explore Personalised Lockets Online Today.
-  Updated: 2025-10-31T13:41:36Z
+  Updated: 2025-11-10T15:05:09Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_afe1662e-8364-40a9-86bd-41830b58d9e3.jpg?v=1741884022
   - [no chain](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=44782881702206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1741884034
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1762787109
     Price: £660.00 GBP
   - [9 carat gold curb chain 18 inches (45 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=49919057789246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/oval_diamond_locket_gold_curb_1080.webp?v=1755252499
     Price: £900.00 GBP
   - [9 carat gold curb chain 20 inches (51 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=49919057822014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/oval_diamond_locket_gold_curb_1080_c2598aa1-9be1-429d-9cfb-bcf4dcfefd62.webp?v=1755252499
     Price: £920.00 GBP
   - [9 carat gold curb chain 22 inches (56 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=49919057854782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/oval_diamond_locket_gold_curb_1080_df069619-f0a5-4f82-a8cb-95c70ed4653b.webp?v=1755252499
     Price: £940.00 GBP
   - [9 carat gold curb chain 24 inches (62 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=49919057887550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/oval_diamond_locket_gold_curb_1080_e16b0ab5-9d81-4f6b-a258-11a20fd3541b.webp?v=1755252499
     Price: £960.00 GBP
   - [9 carat gold rope chain 18 inches (45 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=44782881440062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1741884034
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1762787109
     Price: £945.00 GBP
   - [9 carat gold rope chain 20 inches (51 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=47524597432638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1741884034
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1762787109
     Price: £975.00 GBP
   - [9 carat gold rope chain 22 inches (56 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=49919057756478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1741884034
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1762787109
     Price: £1,005.00 GBP
   - [9 carat gold rope chain 24 inches (62 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=44782881571134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1741884034
+    Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d540be22-9310-4aeb-835f-191f646d1f32.jpg?v=1762787109
     Price: £1,035.00 GBP
   - [9 carat gold belcher chain 18 inches (45 cm)](https://www.lilyblanche.com/products/solid-gold-oval-diamond-locket?variant=55743717802370)
     Availability: Available
@@ -16143,7 +16139,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-11-09T11:20:30Z
+  Updated: 2025-11-10T11:32:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17022,7 +17018,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £250.00 GBP
 - [Personalised Christmas Locket | Gold Diamond Heart Locket Gift](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
 £175
-  Updated: 2025-11-09T18:34:55Z
+  Updated: 2025-11-10T16:38:06Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17214,7 +17210,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-11-06T11:52:41Z
+  Updated: 2025-11-10T17:14:00Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17992,7 +17988,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-11-06T14:47:17Z
+  Updated: 2025-11-10T21:35:39Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19016,7 +19012,7 @@ From £119
     Availability: Available
     Price: £175.00 GBP
 - [Chrysoprase Charm Bangle | Silver | May](https://www.lilyblanche.com/products/chrysoprase-charm-bangle-silver-may): A stunning, real chrysoprase forms the centrepiece of this beautiful May birthstone bracelet which can be customised with additional gemstones or charms. Order today with free shipping and receive a complimentary jewellery care kit.
-  Updated: 2025-10-22T21:10:29Z
+  Updated: 2025-11-10T23:50:34Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21870,7 +21866,7 @@ From £119
     Availability: Available
     Price: £625.00 GBP
 - [Solid Silver Cross Necklace | Handcrafted UK](https://www.lilyblanche.com/products/large-silver-cross-necklace): Satisfaction 100% guaranteed with this stunning solid sterling silver cross necklace. An heirloom piece this silver cross necklace is a classic piece that you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-10-23T06:22:11Z
+  Updated: 2025-11-10T06:19:33Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22971,7 +22967,7 @@ From £190.
     Availability: Not Available
     Price: £380.00 GBP
 - [Men's XL Dog Tag Necklace Gold + Engraving](https://www.lilyblanche.com/products/mens-xl-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-11-09T20:35:45Z
+  Updated: 2025-11-10T17:58:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23220,7 +23216,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-11-08T22:14:00Z
+  Updated: 2025-11-10T21:40:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23628,7 +23624,7 @@ From £95
     Availability: Available
     Price: £115.00 GBP
 - [Large Personalised St Christopher Necklace in Sterling Silver](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver): Travel safely with the Large Personalised St Christopher Necklace in sterling silver. Customise with free engraving & premium chain. Free UK shipping gift wrap & jewellery care kit.
-  Updated: 2025-11-05T21:13:06Z
+  Updated: 2025-11-10T19:48:16Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
