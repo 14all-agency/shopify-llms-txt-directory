@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-02-02T22:58:31Z
 - Contact Email: support@thevinessupply.co
-- Updated At: 2025-11-10T00:00:59.218Z
+- Updated At: 2025-11-11T00:01:37.870Z
 
 ## Products
 
@@ -136,7 +136,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9493/4863/files/glassy-sunglasses-black-glassy-morrison-polarized-black-blue-1183729517.jpg?v=1757439960
   Price: £31.95 GBP
 - [5 Way Ultimate T-Tool For Skateboard | Black](https://thevinessupply.co/products/5-way-ultimate-t-tool-for-skateboard-black): Buy skate tools at The Vines Skate Shop in Solihull or online at www.thevinessupply.co. The perfect accompaniment to any skate session, our 5 way T-Tool is vital for any skateboard adjustments. Works on axel nuts, trucks bolts and kingpin nuts. With fast, free delivery available at www.thevinessupply.co
-  Updated: 2025-11-06T17:24:05Z
+  Updated: 2025-11-10T13:12:31Z
   Vendor: G-Tool
   Product Type: Skate Tool
   Availability: Available
@@ -4751,7 +4751,7 @@
     Availability: Available
     Price: £74.95 GBP
 - [New Balance Numeric 808 Lite NM808LBW Tiago Lemos Skate Shoes | Black & White](https://thevinessupply.co/products/new-balance-numeric-808-lite-nm808lbw-tiago-lemos-skate-shoes-black-white): Buy the New Balance Numeric Tiago Lemos 808 Lite in black and white at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-10-13T21:57:05Z
+  Updated: 2025-11-10T21:01:24Z
   Vendor: New Balance Numeric
   Product Type: Shoes
   Availability: Available
@@ -7534,7 +7534,7 @@
 ## Collections
 
 - [Skate T-Shirts | Skateboard Tees | The Vines](https://thevinessupply.co/collections/skate-t-shirts): Shop skate T-Shirts at The Vines. Buy mens skate tee's from the best UK and international skate t-shirt brands with fast, premium delivery and easy 90 day returns.
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 1519
 - [Skateboard Hardware | The Vines](https://thevinessupply.co/collections/skateboard-hardware): Shop our collection of skateboard hardware at The Vines. From shapes to popsicles, soft wheels to hard... we've got what you need to keep rolling. See our collection of skateboard decks, trucks, wheels, nuts & bolts, protective gear, wax and more.
   Updated: 2025-11-09T12:16:47Z
@@ -7546,7 +7546,7 @@
   Updated: 2025-11-08T12:18:44Z
   Total Products: 324
 - [£20 and under | The Vines](https://thevinessupply.co/collections/20-and-under): Shop our range of skate product under £20 at The Vines, perfect for presents for skateboarders or a present for yourself... you deserve it!
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 1347
 - [Shorts | The Vines](https://thevinessupply.co/collections/shorts): Buy Shorts from skate wear brands at The Vines. Go from the beach to the bar, the skate park to the pub. We've got a curated collection of board and walk shorts from our the finest skate and street wear brands to keep you Summer & Gym ready.
   Updated: 2025-11-07T12:20:58Z
@@ -7555,7 +7555,7 @@
   Updated: 2025-10-11T11:15:50Z
   Total Products: 57
 - [Skate Clothing | Skate Wear | The Vines](https://thevinessupply.co/collections/skate-clothing): Shop Premium Skatewear / Skate Clothing from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 2873
 - [Sunglasses | The Vines](https://thevinessupply.co/collections/sunglasses): Shop our collection of sunglasses has a style to suit every taste at The Vines. Complete your look and stay shaded with a frame from the finest skate & street wear sunglasses brand. Shop Vans Sunglasses, Glassy Eyewear and more from the best in skateboarding.
   Updated: 2025-11-09T12:16:47Z
@@ -7612,7 +7612,7 @@
   Updated: 2025-05-09T15:48:47Z
   Total Products: 123
 - [Polar Skate Co. | Polar Skate Co T-Shirts, Hoodies & Jeans](https://thevinessupply.co/collections/polar-skate-co): Shop our collection of Polar Skate Co t-shirts, hoodies and jorts. Explore Polar Skate Co Big Boy Jeans, the most legendary denim pants in the game!
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 442
 - [Magenta Skateboards | Magenta Clothing, Decks & Accessories](https://thevinessupply.co/collections/magenta-skateboards): Shop Magenta Skateboards Clothing, Decks & Accessories at The Vines. Browse the biggest UK collection and get best price guarantee on all Magenta skate wear.
   Updated: 2025-11-09T12:16:47Z
@@ -7702,8 +7702,8 @@
   Updated: 2025-10-18T12:27:59Z
   Total Products: 11
 - [SALE | Shop Our Discounted Product | Up To 70% Off](https://thevinessupply.co/collections/sale-shop-our-discounted-product-up-to-70-off): Save big with discounts on your favourite skate brands like Polar Skate Co, HUF, Butter Goods, Dime MTL, Magenta Skateboards, Helas, Adidas Skateboarding, Fucking Awesome, Stance, New Balance Numeric, Palace, Vans and Hockey in our skateboard clothing sale UK.
-  Updated: 2025-11-09T12:16:47Z
-  Total Products: 107
+  Updated: 2025-11-10T14:48:57Z
+  Total Products: 109
 - [Butter Goods | Clothing & Accessories](https://thevinessupply.co/collections/butter-goods): Shop Butter Goods Skate Clothing & Accessories at The Vines. Shop Butter Goods T-Shirts, Hoodies, Jeans and Caps with fast, free delivery at www.thevinesupply.co
   Updated: 2025-11-07T12:20:58Z
   Total Products: 384
@@ -7726,10 +7726,10 @@
   Updated: 2025-11-07T12:20:58Z
   Total Products: 165
 - [Jeans, Cargos & Trousers](https://thevinessupply.co/collections/jeans-cargos-trousers): From baggy to classy, shop denim jeans, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 157
 - [Latest Arrivals | The Vines](https://thevinessupply.co/collections/latest-arrivals): Here's the latest goods to arrive at The Vines skate shop. Straight out the box, fresh stock for the masses from the best international. Shop now...
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 5686
 - [Palace Skateboards | Skateboard Decks | The Vines](https://thevinessupply.co/collections/palace-skateboards): Shop the latest collections of Palace Skateboards skateboard decks at The Vines, with quick delivery and a range of griptape options.
   Updated: 2025-10-02T10:47:32Z
@@ -7801,7 +7801,7 @@
   Updated: 2025-11-07T12:20:58Z
   Total Products: 365
 - [Vans Skate | Vans Shoes, T-Shirts & Accessories | The Vines](https://thevinessupply.co/collections/vans): Buy Vans Skateboarding clothing, shoes and accessories at The Vines. Shop Vans T-shirts, hoodies, crewnecks, Vans skate shoes and sunglasses.
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 162
 - [GVNMNT Clothing Co | The Vines](https://thevinessupply.co/collections/gvnmnt-clothing-co): Buy GVNMNT Clothing Co at The Vines. GVNMNT's collections reflect struggles everyday people encounter regardless of their upbringing, surroundings, or circumstances, the company began as a streetwear brand and then entered the skateboarding realm naturally due what the brand stands for... taking outsiders in.
   Updated: 2025-10-20T13:32:06Z
@@ -7837,13 +7837,13 @@
   Updated: 2025-11-06T17:24:33Z
   Total Products: 15
 - [Polar Big Boy Jeans | Polar Skate Co Denim | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-denim-jeans): Buy Polar Big Boy Jeans at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit, high quality denim and tapering at the ankle. Get best price guarantee and fast delivery at The Vines.
-  Updated: 2025-11-08T22:18:16Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 26
 - [Casino Skateboards | The Vines](https://thevinessupply.co/collections/casino-skateboards): Shop Casino Skateboards at The Vines. Fresh out of the West Midlands, Casino Skateboards rolls the dice with memorable graphics, a great team and high quality, affordable decks.
   Updated: 2025-11-06T17:21:58Z
   Total Products: 17
 - [Jeans, Shorts and Trousers | The Vines](https://thevinessupply.co/collections/jeans-shorts-and-trousers): Shop Bottoms, including Denim Jeans, Shorts, Trousers, Chinos and Tracksuit Bottoms at The Vines.From baggy to classy, shop denim jeans, shorts, trousers, tracksuit bottoms and cargos from your favourite skateboard brands, such as Polar Skate Co, Butter Goods, Vans, Santa Cruz and Dickies.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 259
 - [Hoodies and Crewnecks | The Vines](https://thevinessupply.co/collections/hoodies-crews): Our curated collection of hoodies, crewnecks and sweaters from your favourite skateboard brands from the UK and worldwide, including Polar Skate Co, Helas, Magenta, Dime MTL, Vans, Dickies, RIPNDIP, HUF, Santa Cruz, Fucking Awesome, Hockey, Quasi, GVNMNT Clothing Co.
   Updated: 2025-11-08T12:18:44Z
@@ -7888,7 +7888,7 @@
   Updated: 2025-07-10T23:57:12Z
   Total Products: 4
 - [Denim Skate Jeans | The Vines](https://thevinessupply.co/collections/skate-jeans): Shop Denim Jeans from your favourite skateboard brands at The Vines, with fast, premium delivery & easy returns within 90 days
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 148
 - [Cargos, Chinos & Joggers | Skatewear Cargo Pants & Tracksuit Bottoms](https://thevinessupply.co/collections/cargos-chinos-joggers-tracksuit-bottoms): From baggy to classy, shop Cargos, Chinos, Joggers and Tracksuit Bottoms from your favourite skateboard brands at The Vines.
   Updated: 2025-11-07T12:20:58Z
@@ -7993,8 +7993,8 @@
   Updated: 2025-10-18T12:27:02Z
   Total Products: 29
 - [Best Selling Skate Clothing and Accessories | The Vines](https://thevinessupply.co/collections/best-sellers): Browse the past month’s Best Selling Skate Clothing with our best-selling items at The Vines. Featuring deluxe hoodies, graphic tees, denim jeans, and skate shoes. With best price guarantee and same day delivery on orders before 3pm.
-  Updated: 2025-11-09T12:16:47Z
-  Total Products: 3233
+  Updated: 2025-11-10T14:48:57Z
+  Total Products: 3235
 - [Magenta Skateboards T-Shirt's | The Vines](https://thevinessupply.co/collections/magenta-skateboards-t-shirts): Shop Magenta Skateboards T-Shirts in our UK online skate shop. Get best prices on short and long sleeve Magenta tees and fast delivery, with 90 day returns.
   Updated: 2025-11-09T12:16:47Z
   Total Products: 110
@@ -8002,7 +8002,7 @@
   Updated: 2025-11-09T12:16:47Z
   Total Products: 14
 - [Polar Big Boy Jeans & Shorts | Polar Skate Co Denim | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-jeans-shorts): Buy Polar Big Boy Jeans and Shorts at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit, high quality denim and tapering at the ankle. Get best price guarantee and fast delivery at The Vines.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 34
 - [Polar Skate Co Big Boy Shorts | Polar Denim Jorts | The Vines](https://thevinessupply.co/collections/polar-skate-co-big-boy-denim-shorts): Buy Polar Big Boy Shorts at The Vines. Shop the latest colourways as well as the classics, we're always stocked up. Polar Big Boys have an ultra-baggy fit and high quality denim & embroidery. Get best price guarantee and fast delivery at The Vines.
   Updated: 2025-09-18T11:16:53Z
@@ -8032,14 +8032,14 @@
   Updated: 2025-11-08T12:18:44Z
   Total Products: 111
 - [UK 7 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-7-skate-shoes): Shop our curated selection of Skate Shoes in UK 7 at The VInes. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-11-07T12:20:58Z
-  Total Products: 27
+  Updated: 2025-11-10T14:48:58Z
+  Total Products: 28
 - [UK 8 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-8-skate-shoes): Shop our curated selection of Skate Shoes in UK 8. We stock premium pairs of both cupsole and vulcanised skate shoes. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-11-07T12:20:58Z
   Total Products: 26
 - [UK 9 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-9-skate-shoes): Shop our curated selection of Skate Shoes in UK 9 at The Vines. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
-  Updated: 2025-11-09T12:16:47Z
-  Total Products: 25
+  Updated: 2025-11-10T13:06:45Z
+  Total Products: 26
 - [UK 10 Skate Shoes | Skateboarding Shoes | The Vines](https://thevinessupply.co/collections/uk-10-skate-shoes): Shop our curated selection of Skate Shoes. We stock premium pairs of both cupsole and vulcanised skate shoes. Whether looking for suede, leather or canvas skate shoes, find a pair to meet the concrete. Shop footwear from your favourite skate shoes brands such as Vans, Adidas Skateboarding, New Balance Numeric, Last Resort AB and Lakai.
   Updated: 2025-11-07T12:20:58Z
   Total Products: 19
@@ -8077,10 +8077,10 @@
   Updated: 2025-11-07T12:20:58Z
   Total Products: 95
 - [Sale](https://thevinessupply.co/collections/sale)
-  Updated: 2025-11-09T12:16:47Z
-  Total Products: 107
+  Updated: 2025-11-10T14:48:58Z
+  Total Products: 109
 - [Vans T-Shirts](https://thevinessupply.co/collections/vans-t-shirts): Shop Vans T-Shirts at The Vines. Browse our collection of Mens Vans T Shirts, covering all styles from striped to backprint to longsleeve.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 39
 - [Lurpiv Truck Company | Skateboard Trucks UK](https://thevinessupply.co/collections/lurpiv-trucks): Buy Lurpiv Trucks at The Vines. Lurpiv Skateboard Trucks is back! A whole new factory, some tweaks on construction but the same amazing control and feel. All Lurpiv trucks are made with injected aluminium, no gravity pour, which means they last longer and grind faster than other skateboard trucks on the market.
   Updated: 2025-10-05T21:25:15Z
@@ -8098,7 +8098,7 @@
   Updated: 2025-11-06T17:21:24Z
   Total Products: 8
 - [Full Price Items](https://thevinessupply.co/collections/full-price-items)
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 2856
 - [Toy Machine | Skateboard Decks & Clothing | The Vines](https://thevinessupply.co/collections/toy-machine): Shop Toy Machine Skateboard Decks & Clothing at The Vines. Since being founded by Ed Templeton in 1993, Templeton has been the creative force behind Toy Machine, infusing the brand with his distinctive blend of art and humour.
   Updated: 2025-02-20T13:05:21Z
@@ -8107,7 +8107,7 @@
   Updated: 2025-02-20T13:05:21Z
   Total Products: 2
 - [Polar Skate Co Jeans](https://thevinessupply.co/collections/polar-skate-co-jeans): Creators of the most infamous baggy jeans in skate wear, the Polar Skate Co Big Boy, Polar's selection of skate denim is unmatched. Check out the Polar 93 Jeans, 92 Jeans, the new 89 Jean and of course, the original Polar Big Boys Jeans and Cords.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 38
 - [Dime MTL Shorts](https://thevinessupply.co/collections/dime-mtl-shorts): Shop our collection of Dime MTL Shorts. Explore Dime shorts including denim jorts and sport-inspired pieces.
   Updated: 2025-11-07T12:20:58Z
@@ -8140,7 +8140,7 @@
   Updated: 2025-06-18T22:26:01Z
   Total Products: 1
 - [3 For 2 Tees | Add 3 T-shirts, get the 3rd FREE | Skate T-Shirts](https://thevinessupply.co/collections/3-for-2-t-shirts): Get 3 Skate T-shirts for the price of 2 at The Vines, with fast, premium delivery & easy returns within 90 days.
-  Updated: 2025-11-09T12:16:47Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 1519
 - [Magenta](https://thevinessupply.co/collections/magenta)
   Updated: 2025-11-09T12:16:47Z
@@ -8212,7 +8212,7 @@
   Updated: 2025-09-21T11:15:07Z
   Total Products: 3
 - [Denim Jeans & Shorts | Skate Denim Jeans & Shorts](https://thevinessupply.co/collections/denim-jeans-shorts): Shop premium quality Denim Jeans and Denim Shorts from your favourite skate brands at The Vines, with Fast, Premium Delivery & Easy Returns.
-  Updated: 2025-11-07T12:20:58Z
+  Updated: 2025-11-10T12:18:33Z
   Total Products: 133
 - [Magenta Skateboards Hoodies](https://thevinessupply.co/collections/magenta-skateboards-hoodies): Shop our collection of Magenta Skateboards hoodies. Enjoy fast, free UK premium delivery on orders over £70 and best prices, guaranteed.
   Updated: 2025-11-03T16:55:14Z
@@ -8274,6 +8274,9 @@
 - [Wheels & Bearings](https://thevinessupply.co/collections/wheels-bearings)
   Updated: 2025-11-08T12:18:44Z
   Total Products: 287
+- [Black Friday Skateboard Sale](https://thevinessupply.co/collections/black-friday-skateboard-sale): Shop our Black Friday Skateboard Sale, with the best deals on premium skateboard trucks, decks, and wheels. Skate deals with free delivery on order over £70
+  Updated: 2025-11-10T16:29:38Z
+  Total Products: 3109
 
 ## Store Pages
 
@@ -8342,7 +8345,7 @@
 - [West Midlands Skate Parks Guide](https://thevinessupply.co/pages/west-midlands-skate-parks-guide): .skateparks-guide-container { max-width: 1200px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif; } .guide-header { text-align: cente...
   Updated: 2025-09-16T23:33:08Z
 - [The Vines Supply Co Discount Codes | Voucher Codes | Promo Codes (Official)](https://thevinessupply.co/pages/the-vines-supply-co-discount-codes-voucher-codes-promo-codes): Looking for a discount code for The Vines Supply Co? You're in luck, you're about to get one! Here's a few things to know first though: This is the...
-  Updated: 2025-11-09T23:18:17Z
+  Updated: 2025-11-10T12:35:54Z
 
 ## Policies
 
