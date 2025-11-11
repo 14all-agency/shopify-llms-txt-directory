@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-11-03T00:00:37.436Z
+- Updated At: 2025-11-11T00:00:38.746Z
 
 ## Products
 
@@ -1803,7 +1803,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/MASTIFF_225TUBE_BUTTER_VER2_2021-copy.jpg?v=1655825733
     Price: $18.95 USD
 - [Neapolitan Mastiff Nose Butter® for Your Italian Mastiff's Dry Nose](https://theblissfuldog.com/products/neapolitan-mastiff): Neapolitan Mastiff Nose Butter soothes your Neo's dry nose with all natural good stuff.  In tins and tubes with a Neo on the label. Free Shipping in the USA!
-  Updated: 2025-10-30T09:38:04Z
+  Updated: 2025-11-05T08:08:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -3411,7 +3411,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUSSIE_50TUBE_OILS_BOWLS_PERSPECTIVE2copy.jpg?v=1631566490
     Price: $10.95 USD
 - [Boxer Nose Butter® Moisturizer for Your Boxer Dog's Dry, Crusty Nose](https://theblissfuldog.com/products/boxer-nose-butter): Boxer Nose Butter is individually handcrafted using all natural good stuff. Nose Butter soothes your Boxer's nasal hyperkeratosis. Free Shipping in the USA!
-  Updated: 2025-10-16T15:39:41Z
+  Updated: 2025-11-05T02:12:29Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -4353,7 +4353,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/VIZSLA-50TUBE-BOOBOO-ING-2500copy.jpg?v=1738674153
     Price: $11.95 USD
 - [All Natural Herbal Boo Boo Butter for St Bernard Skin Irritations](https://theblissfuldog.com/products/st-bernard-boo-boo-butter): The Blissful Dog Boo Boo Butter for St Bernard skin irritations such as; nicks, cuts, itchy spots, hot spots, brush or clipper abrasions or chafing, scrapes+
-  Updated: 2025-11-01T01:40:11Z
+  Updated: 2025-11-07T09:23:10Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -12940,7 +12940,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/NEO_5TUBE_COMBO.jpg?v=1651437622
   Price: $19.95 USD
 - [Olde English Bulldoggee Skin Care for Dry Noses, Paws & Elbow Calluses](https://theblissfuldog.com/products/olde-english-bulldoggee-tube-combo): Olde English Bulldoggee skin care for dry noses, rough paws, elbow calluses, bug bites and itchy skin issues. Mix and match your dog's tailor-made skin care kit
-  Updated: 2025-10-30T09:37:09Z
+  Updated: 2025-11-05T00:41:40Z
   Vendor: The Blissful Dog® Inc.
   Product Type: TUBE COMBO
   Availability: Available
@@ -12979,7 +12979,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PAP_5TUBE_COMBO.jpg?v=1651164515
   Price: $19.95 USD
 - [The Blissful Dog Pekingese Skin Care for Dry Noses, Paws & Itchy Spots](https://theblissfuldog.com/products/pekingese-tube-combo): Pekingese skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of Butters for your Peke's tailor-made skin care kit.
-  Updated: 2025-10-30T09:40:46Z
+  Updated: 2025-11-04T05:46:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -13870,7 +13870,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CLUMBER-BOOBOO-TIN-DRIZZLE-2500.jpg?v=1738736324
     Price: $11.95 USD
 - [Gordon Setter Skin Care | Dog Skin Irritation Treatment Butter](https://theblissfuldog.com/products/gordon-setter-boo-boo-butter): The Blissful Dog Boo Boo Butter soothes minor Gordon Setter skin irritations. All natural Boo Boo Butter is artisan handcrafted in MN for your Gordon Setter.
-  Updated: 2025-11-01T01:40:11Z
+  Updated: 2025-11-06T11:08:02Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -15913,7 +15913,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PBGV_Combo_1080.jpg?v=1657042595
   Price: $29.95 USD
 - [Rich Bitch & Drama Queen Diva Dog Shampoo for Your Divalicious Dog](https://theblissfuldog.com/products/every-rich-bitch-drama-queen-shampoo-soap): The Blissful Dog Rich Bitch & Drama Queen Diva Dog Shampoo pampers, cleans & refreshes your Diva Dog's coat. Available in bar soap, for luxurious bathing.
-  Updated: 2025-10-16T15:41:38Z
+  Updated: 2025-11-06T11:11:38Z
   Vendor: The Blissful Dog
   Product Type: SHAMPOO
   Availability: Available
@@ -17116,52 +17116,52 @@
 ## Collections
 
 - [THE BLISSFUL DOG ALL NATURAL HANDCRAFTED GOOD STUFF](https://theblissfuldog.com/collections/frontpage)
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 110
 - [Dog Aromatherapy Sprays & Blends | Relaxing Spray for Dogs](https://theblissfuldog.com/collections/relax-dog-aromatherapy): Ease your dog's anxiety during stressful situations like rainstorms with our dog aromatherapy sprays! The essential oils help calm and relax frightened dogs.
-  Updated: 2025-10-16T15:39:26Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-10-31T11:01:43Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 113
 - [Shop The Blissful Dog AMERICAN BULLDOG for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/american-bulldog-collection): EVERYTHING AMERICAN BULLDOG COLLECTION features every product from The Blissful Dog with an American Bulldog on the label, all in one place.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 9
 - [The Blissful Dog Custom Dog Skin Care Kit | Dry Skin Products for Dogs](https://theblissfuldog.com/collections/the-blissful-dog-combos): Mix and Match your dog's custom combo kit to fit their unique needs. Want all Nose Butter? Sure! Need some of each, no problem. Pick and choose for your dog!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-08T12:02:23Z
   Total Products: 228
 - [Shop The Blissful Dog Australian Shepherd Collection Nose to Tail Care](https://theblissfuldog.com/collections/australian-shepherd-collection): Australian Shepherd Collection for Nose to Tail Care. Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety, aging and training.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 12
 - [Shop Bernese Mountain Dog Collection for Your Berner's Care Needs](https://theblissfuldog.com/collections/bernese-mountain-dog-collection): Shop Blissful Dog Bernese Mountain Dog Collection: All natural, handcrafted balms for your Berner's dry nose, rough paws, elbow calluses, aromatherapy & more.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [The Blissful Dog Border Collie Shop for Dry Noses, Rough Paws + more](https://theblissfuldog.com/collections/border-collie-collection): The Blissful Dog Border Collie Shop for your hard-working dog. All natural balms for dry noses, rough, paws, skin irritations + aromatherapy and shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [SHOP The Blissful Dog BOSTON TERRIER Collection for Your Dog's Care](https://theblissfuldog.com/collections/boston-terrier-collection): Boston Terrier Collection features everything blissful for your Boston Terrier's health & well-being. From nose to stumpy tail, we've got your Boston covered.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 13
 - [Shop The Blissful Dog Boxer Dog Collection for Your Boxer's Care](https://theblissfuldog.com/collections/boxer-collection): Shop The Blissful Dog Boxer collection: All natural, handcrafted balms for your Boxer's dry nose, rough paws and skin irritations, plus shampoo & aromatherapy.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Shop The Blissful Dog Bulldog Collection for English Bullie Lovers](https://theblissfuldog.com/collections/bulldog-collection): Bulldog Collection, handcrafted butters for dry noses, rough paws, skin issues and aromatherapy for stress, aging and canine concentration. Plus, shampoos+
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 16
 - [Shop The Blissful Dog Chihuahua Collection Everything Nose To Tail](https://theblissfuldog.com/collections/chihuahua-collection): Chihuahua Collection features everything with Chi labels + products for your Chi's dry nose, rough paws, skin issues, emotional well-being and cleanliness.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 14
 - [Shop Dogue de Bordeaux Collection for Dry Noses & Paws, Elbow Calluses](https://theblissfuldog.com/collections/dogue-de-bordeaux-collection): The Blissful Dog Shop for your Dogue de Bordeaux for For dry noses, elbow calluses, rough paws, skin issues and emotional health, with French Mastiff labels.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 12
 - [Shop The Blissful Dog French Bulldog Collection Frenchies Nose to Tail](https://theblissfuldog.com/collections/french-bulldog-collection): Calling All French Bulldog Fanatics! Everything The Blissful Dog offers with a French Bulldog label is featured right here in one ez to shop spot. Nose Butter+
-  Updated: 2025-10-16T15:39:27Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 17
 - [The Blissful Dog German Shepherd Collection Everything for Your GSD](https://theblissfuldog.com/collections/german-shepherd-collection): Shop German Shepherd Collection for your dog's skin care needs; for dry noses, elbow calluses, rough paws, skin issues, aromatherapy for anxiety & shampoos+
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 9
 - [German Shorthaired & Wirehaired Pointer Products](https://theblissfuldog.com/collections/german-shorthaired-pointer-collection): Shop all of our German Shorthaired and Wirehaired Pointer products to find what your dog needs! We sell lots of fun items that will benefit your pup.
   Updated: 2025-11-01T11:02:18Z
@@ -17173,58 +17173,58 @@
   Updated: 2025-10-16T15:39:27Z
   Total Products: 8
 - [Shop The Blissful Dog Newfoundland Dog Collection From Nose to Toes](https://theblissfuldog.com/collections/newfoundland-dog-collection): Newfoundland Dog Shop Handcrafted balms for dry dog noses, rough paws, elbow calluses and skin issues + aromatherapy for anxiety. And shampoos & conditioners.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Shop The Blissful Dog Springer Spaniel Collection for Nose To Tail](https://theblissfuldog.com/collections/springer-spaniel-collection): The Blissful Dog Springer Spaniel Shop all natural, handcrafted balms for dry noses, rough paws, skin care and aromatherapy for anxiety and aging support.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Shop Pekingese Collection for Your Peke's Complete Skin & Coat Care](https://theblissfuldog.com/collections/pekingese-collection): The Blissful Dog Pekingese Shop All natural balms for dry noses, rough paws, and skin irritations. Aromatherapy for anxieties and aging issues + shampoos & more
   Updated: 2025-10-30T11:01:51Z
   Total Products: 13
 - [Pomeranian Products for Grooming & Dry Skin | The Blissful Dog](https://theblissfuldog.com/collections/pomeranian-collection): Shop all of our Pomeranian products for grooming and dry skin! We sell natural shampoos, conditioners, moisturizers, and more to help keep your Pom blissful.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 16
 - [Shop The Blissful Dog Cavalier King Charles Spaniel Collection](https://theblissfuldog.com/collections/cavalier-king-charles-spaniel-collection): Cavalier King Charles Spaniel Shop for dry noses, rough paws, skin issues, aromatherapy for emotional well-being & complete bath & body collection for shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [Siberian Husky Dry Skin & Coat Care Products | The Blissful Dog](https://theblissfuldog.com/collections/husky-collection): Find natural Siberian Husky dry skin and coat care products online at The Blissful Dog! We sell shampoos, conditioners, balms, and more to keep huskies happy.
-  Updated: 2025-10-26T11:02:10Z
+  Updated: 2025-11-09T12:02:16Z
   Total Products: 9
 - [Shop Rottweiler Collection for Dry Noses, Rough Paws, Elbow Calluses+](https://theblissfuldog.com/collections/rottweiler-collection): The Blissful Dog Rottweiler Shop Handcrafted herbal balms for dry noses, rough paws, elbow calluses and skin irritations. Plus aromatherapy for anxieties.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 8
 - [Shop Japanese Chin Collection for Your Dog's Needs from Nose to Tail](https://theblissfuldog.com/collections/japanese-chin-collection): Shop The Blissful Dog Japanese Chin Collection for everything blissful for your Japanese Chin. All natural handcrafted goodies for dry noses, rough paws, itchy skin issues, emotional support (fears, anxiety, aging) + our complete shampoo and conditioner line. Many items feature the Japanese Chin on the label.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [Shop The Blissful Dog Mastiff Collection for Your Big Dog's Needs](https://theblissfuldog.com/collections/mastiff-collection): The Blissful Dog Mastiff Shop Handcrafted Balms For Dry Noses, Elbow Calluses, Rough Paws, Skin Issues, Aromatherapy for Emotional Well-Being + Shampoos & More.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [Poodle Skin Care, Hair Care, & Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/poodle-collection): Visit the Blissful Dog to find all-natural poodle skin care, hair care, and grooming products! We have everything your poodle needs to stay happy and healthy.
-  Updated: 2025-10-26T11:02:10Z
+  Updated: 2025-11-08T12:02:23Z
   Total Products: 11
 - [The Blissful Dog St Bernard Collection For Your Saint's Skin and Coat](https://theblissfuldog.com/collections/saint-bernard-collection): The Blissful Dog St Bernard Shop All natural balms for dry noses, rough paws, elbow calluses & skin issues, aromatherapy for anxieties and aging and shampoos
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [Shop The Blissful Dog Vizsla Collection for Nose to Tail Care](https://theblissfuldog.com/collections/vizsla-collection): The Blissful Dog Vizsla Shop Handcrafted balms for dry noses, elbow calluses, rough paw pads, skin issues. Plus aromatherapy for anxieties, aging & training.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop Weimaraner Collection for Dry Noses, Rough Paws, Elbow Calluses +](https://theblissfuldog.com/collections/weimaraner-collection): The Blissful Dog Weimaraner Shop Handcrafted balms for dry noses, rough paws, elbow calluses and skin issues. Plus aromatherapy for stress, aging and training.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Yorkie Skin Care & Hair Grooming Products | The Blissful Dog](https://theblissfuldog.com/collections/yorkshire-terrier-collection): Find all the skin care and hair grooming products you need for your spirited little Yorkie! The Blissful Dog sells natural skin balms, shampoos, and more.
   Updated: 2025-10-26T11:02:10Z
   Total Products: 13
 - [Shop The Blissful Dog Brittany Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/brittany-spaniel-collection): Shop everything featuring the Brittany dog from our Brittany Collection. Nose Butter® for dry noses, rough paws, itchy skin issues and elbow calluses.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 12
 - [The Blissful Dog Shop American Staffordshire Terrier Collection](https://theblissfuldog.com/collections/american-staffordshire-terrier): The Blissful Dog American Staffordshire Terrier Collection showcases everything blissful for your AmStaff. For dry noses, rough, paws, elbow calluses and more.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 9
 - [Affenpinscher Dog Skin Care & Grooming Supplies Online](https://theblissfuldog.com/collections/affenpinscher-collection): Shop our selection of Affenpinscher dog skin care and grooming supplies! From gentle shampoos to moisturizers, we have all you need to keep your Affie happy.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 13
 - [Maltese Grooming Supplies & Dog Skin Care Products](https://theblissfuldog.com/collections/maltese-collection): Shop our site for all-natural Maltese grooming supplies and skin care products! We sell everything from shampoos to gentle touch puppy bar soaps.
-  Updated: 2025-10-23T11:01:38Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 12
 - [The Blissful Dog Handcrafted Balms For Your Dog From Nose to Tail](https://theblissfuldog.com/collections/just-a-nose-collection): Shop The Blissful Dog Collection - NOSE BUTTER for dry dog noses, PAW BUTTER for rough paws, ELBOW BUTTER for elbow calluses & Boo Boo Butter for skin issues..
   Updated: 2025-11-02T12:01:30Z
@@ -17236,82 +17236,82 @@
   Updated: 2025-10-26T11:02:10Z
   Total Products: 12
 - [Rhodesian Ridgeback Dog Care & Grooming Supplies for Sale](https://theblissfuldog.com/collections/rhodesian-ridgeback-collection): Shop our Rhodesian Ridgeback dog care and grooming supplies  for handcrafted, all natural goodies for your Ridgie. Many have Ridgie label options!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Shop Staffordshire Bull Terrier Collection for Your Pit Head to Tail](https://theblissfuldog.com/collections/staffordshire-bull-terrier-collection): Staffordshire Bull Terrier Shop Pit Bull Terrier natural balms for dry noses, rough paws, elbow calluses and skin issues, + aromatherapy for aging & anxieties.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop The Blissful Dog Collie Dog Collection for Skin & Coat Care](https://theblissfuldog.com/collections/collie-collection): The Blissful Dog Collie Dog Shop - Handcrafted balms for dry noses, rough paws, skin issues and aromatherapy for anxiety and aging. Plus, Complete shampoo line.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [Shop Shetland Sheepdog Collection for Your Sheltie's Bath & Body Needs](https://theblissfuldog.com/collections/shetland-sheepdog-collection): The Blissful Dog Shetland Sheepdog Shop handcrafted, all natural balms for dry Sheltie noses, rough paws and itchy skin issues, aromatherapy for anxiety.
-  Updated: 2025-10-30T11:01:51Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [Shop Everything Shiba Inu for Your Dog's Skin and Coat Care Needs](https://theblissfuldog.com/collections/shiba-inu-collection): The Blissful Dog Shiba Inu Shop All natural, handcrafted balms for dry dog noses, rough paws & skin issues. Aromatherapy for anxieties, plus soaps & shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop The Blissful Dog Samoyed Collection for Skin & Coat Care](https://theblissfuldog.com/collections/samoyed-collection): Samoyed Collection - Handcrafted balms for dry noses, rough paws and skin irritations, aromatherapy for stress, plus shampoos, conditioners and sprays.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Shop Great Pyrenees Dog Collection for Dry Noses, Paws, Skin & Bath](https://theblissfuldog.com/collections/great-pyrenees-collection): For your Great Pyrenees dog - All natural, handcrafted balms for dry nose, rough paws, skin irritations and Relax Dog Aromatherapy for anxiety and stress.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 11
 - [Shop Parson Russell Terrier Collection for Skin & Coat Care](https://theblissfuldog.com/collections/jack-russell-terrier-collection): The Blissful Dog Parson Russell Terrier shop - handcrafted balms for dry noses, rough paws, elbow, minor skin irritations, aromatherapy for anxiety & shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 8
 - [The Blissful Dog Alaskan Malamute Shop for Your Mal's Skin & Coat Care](https://theblissfuldog.com/collections/malamute-collection): Alaskan Malamute Shop all natural balms for your Mal's dry nose, rough paws, elbow calluses & skin issues. Aromatherapy for anxiety + shampoos and conditioners.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-09T12:02:16Z
   Total Products: 11
 - [Basset Collection for Your Basset's Nose, Paws, Elbows & Stress](https://theblissfuldog.com/collections/basset-hound-collection): Everything Blissful for your Basset! The Blissful Dog takes care of your Basset's dry nose, rough paws, elbow calluses and random itchy skin issues…naturally!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 9
 - [Shop The Blissful Dog Beagle Collection from Nose to Toes and Elbows](https://theblissfuldog.com/collections/beagle-collection): Shop The Blissful Dog Beagle Collection All Natural, Handcrafted in USA Balms for your Beagle's Dry Nose, Rough Paws, Elbow Calluses and Itchy Discomforts.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 9
 - [Shop The Blissful Dog Bloodhound Collection From Nose To Tail](https://theblissfuldog.com/collections/bloodhound-collection): Shop Blissful Bloodhound Collection. All Natural, handcrafted in USA balms for your Bloodhound's dry nose, rough paws, elbow calluses and minor skin issues.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 11
 - [Shop The Blissful Dog Belgian Malinois Collection From Nose to Toes](https://theblissfuldog.com/collections/belgian-malinois): Shop our Belgian Malinois Collection. All natural, handcrafted in USA balms for your Belgian Malinois' dry nose, rough paws, elbow calluses and itchy skin.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Shop The Blissful Dog AMERICAN ESKIMO DOG Collection](https://theblissfuldog.com/collections/american-eskimo-dog-collection): Shop All natural, handcrafted balms for your American Eskimo Dog - for dry nose, paws, itchy discomforts and anxieties. Plus shampoos & conditioners.
   Updated: 2025-10-30T11:01:51Z
   Total Products: 9
 - [The Blissful Dog Bull Terrier Shop for Dry Noses, Rough Paws & Anxiety](https://theblissfuldog.com/collections/bull-terrier-collection): The Blissful Dog Bull Terrier Shop All natural, handcrafted balms for dry noses, rough paws, skin irritations and Relax Dog Aromatherapy to help calm your dog
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [Shop The Blissful Dog Bullmastiff Collection From Nose to Tail](https://theblissfuldog.com/collections/bullmastiff-collection): The Blissful Dog Bullmastiff Shop All Natural Handcrafted Balms for Your Bullmastiff's Nose, Paws, Elbows and Skin Irritations. Plus aromatherapy & shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Cane Corso Skin Care & Bathing Products | The Blissful Dog](https://theblissfuldog.com/collections/cane-corso-collection): Shop our selection of Cane Corso pet skin care and bathing products! From Nose Butter to shampoo, we sell everything you need to keep your dog happy & healthy.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop Chinese Crested Collection For Skin & Coat Care](https://theblissfuldog.com/collections/chinese-crested-collection): The Blissful Dog Chinese Crested Shop for your dog's skin, coat and emotional needs + shampoos. Chinese Crested dogs are featured on over a dozen labels.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 9
 - [Shar-Pei Products for Grooming & Skin Problems](https://theblissfuldog.com/collections/chinese-shar-pei-collection): Visit The Blissful Dog to find all the Shar-Pei products for grooming and skin problem treatment you need! We offer everything from aromatherapy to shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 9
 - [The Blissful Dog Chow Dog Collection Shop for Dry Noses, Rough Paws +](https://theblissfuldog.com/collections/chow-collection): The Blissful Dog Chow Dog Collection All Natural, Handcrafted Balms for Your Chow's Dry Nose, Rough Paws, Skin Irritations and Emotional Stress & Anxieties.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 14
 - [The Blissful Dog Doberman Pinscher Collection from  Nose to Tail](https://theblissfuldog.com/collections/doberman-pinscher-collection): Doberman Pinscher Shop for your Dobie's dry nose, rough paws, elbow calluses, skin issues & emotional well-being. Plus, shampoos for your dog's skincare needs.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [The Blissful Dog Dachshund Shop Collection for Your Doxie Nose to Tail](https://theblissfuldog.com/collections/dachshund-collection): Blissful Dog Dachshund Shop - balms for dry noses, rough paws, elbow calluses & skin issues, aromatherapy for stress & aging + shampoo to keep your Doxie clean.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [English Toy Spaniel Dog Health & Beauty Grooming Supplies for Your ETS](https://theblissfuldog.com/collections/english-toy-spaniel-collection): The Blissful Dog all natural English Toy Spaniel products help keep your sweet dog looking and feeling their royal best.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 12
 - [English Cocker Spaniel Dog Care & Grooming Supplies Online](https://theblissfuldog.com/collections/english-cocker-spaniel): Keep your English Cocker Spaniel happy with our natural dog care and grooming supplies! From shampoo to nose butter, you can find everything you need online.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 11
 - [Goldendoodle Dog Care & Grooming Products Online](https://theblissfuldog.com/collections/goldendoodle-collection): Buy Goldendoodle dog care and grooming products online at The Blissful Dog! We sell all-natural shampoos, conditioners, soaps, and more to keep your pup happy.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 11
 - [Shop Greater Swiss Mountain Dog Skin & Coat Care Collection](https://theblissfuldog.com/collections/greater-swiss-mountain-dog-collection): The Blissful Dog Greater Swiss Mountain Dog Shop All natural, handcrafted balms for your Swissie's nose, paws, elbows, skin irritations, stress and anxieties.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Shop Havanese Dog Collection for Everything From Nose to Tail](https://theblissfuldog.com/collections/havanese-collection): Havanese Dog Collection - All natural balms for dry noses, rough paws, skin irritations. Plus, aromatherapy for stress and anxiety and shampoos, conditioners.
   Updated: 2025-10-26T11:02:10Z
@@ -17329,7 +17329,7 @@
   Updated: 2025-11-01T11:02:18Z
   Total Products: 8
 - [Shop Papillon Dog Collection for Your Dog's Skin & Coat Care Needs](https://theblissfuldog.com/collections/papillon-collection): The Blissful Dog Papillon Dog Shop - All Natural Balms for your Papillon's dry nose, rough paws and skin issues, aromatherapy for anxieties and shampoos.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [The Blissful Dog Shop for Your Tibetan Mastiff Skin Care](https://theblissfuldog.com/collections/tibetan-mastiff-collection): Tibetan Mastiff Shop - All Natural, Handcrafted Balms for dry dog noses, rough paws, elbow calluses & aromatherapy for anxiety. Shampoos, conditioners & sprays.
   Updated: 2025-11-01T11:02:18Z
@@ -17338,7 +17338,7 @@
   Updated: 2025-10-26T11:02:10Z
   Total Products: 9
 - [The Blissful Dog Shop Dogo Argentino Collection for Your Dog's Care](https://theblissfuldog.com/collections/dogo-argentino-collection): Everything for Your Blissful Dogo Argentino All Natural, Handcrafted in the USA Balms for your Dogo's dry nose, rough paws, elbow calluses and skin irritations.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Essential Oils for Senior Dogs | Cognitive Support for Aging Dogs](https://theblissfuldog.com/collections/age-well-dog-aromatherapy): Support your dog's aging process with our natural essential oils. Age Well Dog Aromatherapy provides cognitive support for your aging dog to keep them calm and peaceful.
   Updated: 2025-10-16T15:39:31Z
@@ -17347,40 +17347,40 @@
   Updated: 2025-11-01T11:02:18Z
   Total Products: 11
 - [Dog Lust Buster for Help In Keeping Boys At Bay - For Short Periods](https://theblissfuldog.com/collections/lust-buster-butter): DOG LUST BUSTER BUTTER Easy to use LUST BUSTER distracts boy dog's from girl dogs in heat for short periods of time, such as dog shows, obedience trials, etc
-  Updated: 2025-10-23T11:01:38Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 1
 - [The Blissful Dog | Natural Dog Skin Care for your Puggle](https://theblissfuldog.com/collections/puggle-collection): Find everything your Puggle needs from moisturizers for nose, paws, elbows and skin irritations to shampoos, colognes and aromatherapy for a balanced Puggle.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 11
 - [Focus Dog Aromatherapy Helps Turn Energy Into Concentration](https://theblissfuldog.com/collections/dog-aromatherapy-focus): The Blissful Dog Focus Dog Aromatherapy helps turn canine chaos into canine concentration. Our gentle blend of essential oils helps your dog focus on their task
   Updated: 2025-10-16T15:39:31Z
   Total Products: 13
 - [Westie Dog Skin & Coat Care Products | West Highland Terrier Care](https://theblissfuldog.com/collections/west-highland-white-terrier-collection): Shop our selection of all-natural Westie dog skin and coat care products! We have everything you need to keep your West Highland Terrier happy and healthy.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Australian Cattle Dog Shop for Your Cattle Dog's Care - Nose to Tail](https://theblissfuldog.com/collections/australian-cattle-dog): The Blissful Dog Australian Cattle Dog Collection - Handcrafted balms for dry noses, rough paws, elbow calluses, skin issues and aromatherapy for anxieties.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [All-Natural Dog Soaps and Shampoos | Dog Bath Products](https://theblissfuldog.com/collections/blissfully-clean-dogs): Find all-natural dog soaps and shampoos that best suit your pet! The Blissful Dog sells a variety of bath products that blissfully clean all types of dog coats.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 26
 - [Dog Itch Relief Products | Natural Dog Skin Treatments](https://theblissfuldog.com/collections/bye-bye-boo-boo): Our Bye Bye Boo Boo dog skin care products provide relief for minor irritations and itches. Browse these natural shampoos, soaps, and other treatments today!
-  Updated: 2025-10-23T11:01:38Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 5
 - [Nova Scotia Duck Tolling Retriever Dog Grooming Supplies for Sale](https://theblissfuldog.com/collections/nova-scotia-duck-tolling-retriever): Get everything your Toller needs at The Blissful Dog! We offer a wide selection of Nova Scotia Duck Tolling Retriever dog grooming and care supplies for sale.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 10
 - [The Blissful Dog Xoloitzcuintli Skin Care Collection](https://theblissfuldog.com/collections/xoloitzcuintli): The Blissful Dog Xoloitzcuintli Collection - Keep your Xolo looking and feeling their best with handcrafted, all natural; balms and shampoos for your Xolo.
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 8
 - [Shop The Blissful Dog Cocker Spaniel Collection for Nose to Tail Care](https://theblissfuldog.com/collections/cocker-spaniel-collection): The Blissful Dog Cocker Spaniel Shop Handcrafted balms for dry noses, rough paws, skin issues, aromatherapy for emotional issues, plus, complete shampoo line.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [Shop The Blissful Dog Portuguese Water Dog Collection](https://theblissfuldog.com/collections/portuguese-water-dog): The Blissful Dog Portuguese Water Dog Shop All natural balms for dry noses, rough paws and skin issues. Aromatherapy for anxiety + shampoos & conditioners.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 11
 - [Shop Fila Brasileiro Collection for Your Fila From Nose To Tail Care](https://theblissfuldog.com/collections/fila-brasileiro-collection): Fila Brasileiro Collection all natural balms soothe your Fila's dry nose, rough paws, elbow calluses and skin issues, plus, aromatherapy for stress and anxiety.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [The Blissful Dog Pet Safe Insect Repellents for Dogs | Bye Bye Bugs](https://theblissfuldog.com/collections/bug-off-collection): Bye Bye Bugs! Keep pesky pests away from your dog with these safe & natural bug repellent products! Our dog insect repellents are free of harmful chemicals.
   Updated: 2025-10-16T15:39:32Z
@@ -17392,7 +17392,7 @@
   Updated: 2025-11-01T11:02:18Z
   Total Products: 2
 - [Shampoos, Soap, Conditioners for Your Blissfully Clean Dog](https://theblissfuldog.com/collections/blissfully-clean-dog): Doesn't your dog deserve to be a blissfully clean dog? The Blissful Dog has dozens of shampoos, soaps, conditioners, sprays and more to pamper your pup!
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 57
 - [Gentle Touch Puppy Shampoo & Soap for Puppies, Seniors, Sensitive Dogs](https://theblissfuldog.com/collections/gentle-touch-collection): Gentle Touch Puppy Shampoo & Soap for puppies, senior dogs and dogs with more sensitive skin, tenderly cleans your best friend with no-tears sudsing.
   Updated: 2025-10-30T11:01:51Z
@@ -17404,52 +17404,52 @@
   Updated: 2025-10-16T15:39:32Z
   Total Products: 0
 - [Shop The Blissful Dog Flat-Coated Retriever Collection](https://theblissfuldog.com/collections/flat-coated-retriever-collection): Flat-Coated Retriever Shop Balms for your dog's dry nose, rough paws, elbow calluses, skin issues, aromatherapy for mental well-being & complete shampoo line.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop The Blissful Dog Curly-Coated Retriever Curated Collection](https://theblissfuldog.com/collections/curly-coated-retriever-collection): Shop Curly-Coated Retriever Collection - Nose Butter for dry noses, Boo Boo Butter for skin issues, Relax Dog Aromatherapy for anxiety with Curly-Coat labels.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [HOME PAGE COLLECTIONS](https://theblissfuldog.com/collections/home-page-collections)
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 9
 - [Shop The Blissful Dog Italian Greyhound Collections From Nose to Tail](https://theblissfuldog.com/collections/italian-greyhound): The Blissful Dog Italian Greyhound Shop all natural balms for dry noses, rough paws, skin issues & aromatherapy for anxiety, plus shampoos+ for your IG's care.
-  Updated: 2025-10-30T11:01:51Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 8
 - [Basenji Grooming & Dog Care Products Online | The Blissful Dog](https://theblissfuldog.com/collections/basenji): Find Basenji grooming and dog care products online at The Blissful Dog! From nose butter to calming sprays, we sell everything you need to keep your dog happy.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 9
 - [Shop Everything Blissful For Your Whippet Curated Collection](https://theblissfuldog.com/collections/whippet-collection): The Blissful Dog Whippet Shop all natural balms for dry noses, rough paws and skin irritation, aromatherapy for anxiety and shampoos, soaps and sprays.
   Updated: 2025-10-30T11:01:51Z
   Total Products: 8
 - [Shop The Blissful Dog Noes to Tail Greyhound Collection](https://theblissfuldog.com/collections/greyhound-collection): The Blissful Dog Greyhound Shop all natural balms for dry noses, rough paws, elbow calluses, skin care, aromatherapy for anxiety and shampoos and skin sprays.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [Shop Olde English Bulldogge Collection for Your Bully - Nose to Tail](https://theblissfuldog.com/collections/olde-english-bulldogge-collection): Olde English Bulldogge Shop All natural handcrafted balms for dry noses, rough paws, elbow calluses & skin issues. Plus, aromatherapy to calm Bully stress.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 12
 - [Shop The Blissful Dog Dalmatian Collection for Everything Nose to Tail](https://theblissfuldog.com/collections/dalmatian-collection): The Blissful Dog Dalmatian Shop for handcrafted balms for dry noses, rough paws, elbow calluses and skin issues, plus, aromatherapy for stress and anxieties.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 10
 - [Everything Blissful for Your Dog All Products](https://theblissfuldog.com/collections/all): Shop Everything Blissful for Your Dog - Having a happy, healthy dog who looks and feels their very best is bliss for dog lovers. Enjoy finding your dog's bliss!
   Updated: 2025-10-16T15:39:33Z
   Total Products: 0
 - [Shop Chesapeake Bay Retriever Collection for Your Chessie](https://theblissfuldog.com/collections/chesapeake-bay-retriever): Chesapeake Bay Retriever Collection for Your Chessie's dry nose, minor skin issues, rough paws, elbow calluses & Blissfully Clean Dog Shampoo for a clean dog.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 10
 - [Shop The Blissful Dog Bichon Frise Nose to Tail Collection](https://theblissfuldog.com/collections/bichon-frise-collection): Shop Everything Blissful For Your Bichon Frise! From NOSE BUTTER® for healthy noses to BOO BOO BUTTER for skin irritations, to shampoos and conditioners.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 15
 - [Shop The Blissful Dog Corgi Collection For Your Blissful Corgi's Needs](https://theblissfuldog.com/collections/corgi-collection): Shop The Blissful Dog Corgi Collection for your Corgi's skin care, bath and body and emotional needs. First Sniff Dog Cologne features a Corgi as the spokesdog.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [Shop The Blissful Dog COTON DE TULEAR Collection](https://theblissfuldog.com/collections/coton-de-tulear): The Blissful Dog offers everything blissful for your Coton de Tulear. Featuring a Cotton de Tulear label! All natural, handcrafted goodness for your best friend
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [French Bulldog Nose Butter Collection for Your Frenchie's Dry Nose](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection): The Blissful Dog French Bulldog Nose Butter® For Your Frenchie's Rough, Dry Nose. Many Frenchies have dry noses or nasal hyperkeratosis and Nose Butter helps!
-  Updated: 2025-10-16T15:39:33Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 2
 - [Shop The Blissful Dog Coonhound Collection from Nose to Tail Care](https://theblissfuldog.com/collections/coonhound): The Blissful Dog Coonhound Shop has handcrafted balms for dry noses, rough paws, elbow calluses, skin irritations, plus aromatherapy for stress and anxiety.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [Shop The Blissful Dog Pug Collection for Pugs From Nose To Tail](https://theblissfuldog.com/collections/pug-collection): The Blissful Dog Pug Shop herbal balms for Pug noses, paws and skin issues. Aromatherapy for anxieties and aging issues to bath & body for a fresh, clean Pug.
   Updated: 2025-11-01T11:02:18Z
@@ -17464,71 +17464,71 @@
   Updated: 2025-10-16T15:39:34Z
   Total Products: 0
 - [Blissful Dog Elbow Butter | Dog Elbow Callus Treatment](https://theblissfuldog.com/collections/elbow-butter-collection): Dog Elbow Butter conditions and moisturizes dog elbow calluses.. The all-natural treatment helps to alleviate callus tightening and prevent skin cracking.
-  Updated: 2025-10-30T11:01:51Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 2
 - [Paw Butter for Dogs | Paw Moisturizer | The Blissful Dog](https://theblissfuldog.com/collections/paw-butter): Soothe and moisturize your dog's rough, dry paws! Our Paw Butter helps make paw pads comfortably soft while still keeping them strong enough to hit pavement.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 3
 - [Blissfully Brand New Products for Your Dog's Health & Happiness](https://theblissfuldog.com/collections/blissfully-brand-new): Blissfully Brand New Products for Your Dog's Health & Happiness - When was the last time someone was on their way over to visit and one of your dogs had a heinous, smelly accident? An awful eye-watering smelly mess! We can handle that disastrous event - FAST! Simply Everything Fresh Deodorizing Spray & NO H20 Shampoo.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 32
 - [French Bulldog Nose Butter Collection](https://theblissfuldog.com/collections/french-bulldog-nose-butter-collection-1): French Bulldog Nose Butter Collection
-  Updated: 2025-09-23T11:02:06Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
-  Updated: 2025-10-16T15:39:34Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 3
 - [The Blissful Dog Helps You Support Your Senior Dog](https://theblissfuldog.com/collections/support-your-senior-dog): Support Your Senior Dog Physically, Mentally and Emotionally with aromatherapy, shampoos, sprays and our balms. Plus articles on how to support your senior.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 34
 - [The AMP for Shopify Collection](https://theblissfuldog.com/collections/the-amp-for-shopify-collection): This is just a sample collection ----This collection is not published. Edit this collection Feel free to edit this collection and play around with it. If you need any help, just reach out to our team. We're excited to help you get started with AMP! Note: This is the only collection that will contain unpublished products from your Shopify Online Store. It is just for example purposes :) ---- Every product in the AMP by Shop Sheriff collection comes with the finest materials 14% suede 3% elastane 77% organic cotton
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 34
 - [Kuvasz Collection for Your Dog's Skin Care & Cleanliness](https://theblissfuldog.com/collections/kuvasz-collection): The Blissful Dog Kuvasz Collection showcases products featuring the Kuvasz on the label & those geared toward keeping these magnificent dogs looking their best.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 11
 - [Anatolian Shepherd Collection - Everything for Anatolian's Bliss](https://theblissfuldog.com/collections/anatolian-shepherd-collection): The Blissful Dog The Anatolian Shepherd Collections features skin care for your dog. Nose Butter, Boo Boo Butter and Relax Aromatherapy with Anatolian labels.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 12
 - [Tibetan Terrier Collection for Your TT's Blissful Best](https://theblissfuldog.com/collections/tibetan-terrier-collection): The Blissful Dog Tibetan Terrier Collection offers several products with Tibetan Terrier labels, plus products to help your TT look & feel their Blissful Best!
   Updated: 2025-10-26T11:02:10Z
   Total Products: 8
 - [The Blissful Dog Apothecary | All Natural, Handcrafted Balms](https://theblissfuldog.com/collections/apothecary): The Blissful Dog Apothecary Showcases Skin Care Products for Your Blissful Dog 
 Individually handcrafted in far, far northern Minnesota.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 7
 - [Shop The Blissful Dog Soft Coated Wheaten Terrier Collection](https://theblissfuldog.com/collections/soft-coated-wheaten-terrier): Shop our Soft Coated Wheaten Terrier Collection for everything your Wheaten needs to look and feel their blissful best - from nose to toes!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [The Blissful Dog Akita Collections for Your Akita's Health & Wellness](https://theblissfuldog.com/collections/akita): The Blissful Dog Akita Collection showcases curated products to keep your Akita looking & feeling their Blissful Best. Many items feature Akita labels.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 15
 - [Shop The Blissful Dog Bearded Collie Collection for Your Beardie](https://theblissfuldog.com/collections/bearded-collie): Bearded Collie Collection | For Your Beardie's Bliss. Our Beardie Collection showcases products featuring the Beardie on the label + recommendations for others.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 14
 - [The Blissful Dog Scottish Terrier Collection for the Scottie's Bliss](https://theblissfuldog.com/collections/scottish-terrier): Scottish Terrier Collection is our curated selection of products that feature the Scottie on the labels and are recommended for their health and wellness.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 11
 - [Shop The Blissful Dog Icelandic Sheepdog Curated Collection](https://theblissfuldog.com/collections/icelandic-sheepdog): The Icelandic Sheepdog  Collection features products showcasing an Icelandic Sheepdog on the label and others created to help you keep your Icie blissful.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [The Blissful Dog Irish Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/irish-setter): Irish Setter Curated Collection for Your Dog's Health & Well-Being - Your Irish Setter collection showcases products that feature Irish Setter labels +
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [The Blissful Dog Irish Wolfhound Collection for Your IW's Bliss](https://theblissfuldog.com/collections/irish-wolfhound): The Irish Wolfhound Collection | Handpicked to keep your stalwart Irish Wolfhound looking and feeling their blissful best! Complete bath & body products!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [The Blissful Dog Gordon Setter Collection for Your Dog's Bliss](https://theblissfuldog.com/collections/gordon-setter): Gordon Setter Collection Keeps Your Gordon Setter Looking & Feeling Their Blissful Best. Featuring products with Gordon Setter labels and those we recommend.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [The Blissful Dog Clumber Spaniel Collection for Your Blissful Clumber](https://theblissfuldog.com/collections/clumber-spaniel): Clumber Spaniel Collection Keeps Your Clumber Looking & Feeling Their Blissful Best. Many products have Clumber Spaniels on labels + shampoos for their needs.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 16
 - [The Blissful Dog Petit Basset Griffon Vendéen Collection](https://theblissfuldog.com/collections/petit-basset-griffon-vendeen): Petit Basset Griffon Vendéen Collection keeps your PBGV looking and feeling their Blissful Best. Many items feature PBGV labels + more!
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 13
 - [The Blissful Dog Shop by Breed Curated Collections Makes Shopping FAST](https://theblissfuldog.com/collections/collection-of-collections): The Blissful Dog Shop by Breed - Shop curated collections of what your dog needs to look & feel their blissful best! Shop Apothecary, Aromatherapy + Bath & Body
   Updated: 2025-10-16T15:39:35Z
@@ -17537,16 +17537,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:35Z
   Total Products: 1
 - [Candy By The Cash Register | Dog Care With A Click](https://theblissfuldog.com/collections/candy-by-the-cash-register): Dog Care with a click is our version of how candy, magazines and must-have-stuff is right by the register in stores Wasn't it nice of them to put candy there?
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 33
 - [Blissfully Clean Dog Shampoos, Soaps & Conditioner](https://theblissfuldog.com/collections/shampoo-soap): Blissfully Clean Dog Shampoos, Soaps & Conditioner offers a complete range of shampoos, soap, and one heckuva conditioner to get your filthy dog clean.
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 51
 - [Specialty Dog Grooming Sprays](https://theblissfuldog.com/collections/specialty-sprays): Spritz & Spray The Funk Away Simply Everything Fresh Deodorizing Spray - Simply Fresh doesn't mask odors, it busts smells apart & gets your abode fresh-smelling FAST.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-10-26T11:02:10Z
@@ -17561,7 +17561,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-10-16T15:39:36Z
   Total Products: 0
 - [The Blissful Puppy Collection of Curated Goodies](https://theblissfuldog.com/collections/blissful-puppy-curated-collection): Your Blissful puppy is a bundle of mischief, love, and potential!  It is our job to make sure they are safe, happy, healthy and their minds and bodies are cared for properly.
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 14
 - [The Blissful Dog Bonus Bucks Rewards Collection](https://theblissfuldog.com/collections/the-blissful-dog-bonus-bucks-rewards-collection): Exclusive Collection For The Blissful Dog Bonus Bucks Reward Program Members This collection was hand-picked and created just for our Blissful Dog Bonus Bucks members. There may be items you need to let us know which label you want, for example, Rich Bitch or Drama Queen Dog Shampoo. Leave your choice in the Notes box at checkout or contact us via email. Enjoy shopping and if you have any questions contact us. Not a Blissful Dog Rewards Member yet? Check out all the scoop here.
   Updated: 2024-02-06T19:06:23Z
@@ -17570,16 +17570,16 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 11
 - [The Blissful Dog Brussels Griffon Collection for Your Griff's Needs](https://theblissfuldog.com/collections/brussels-griffon): Shop The Blissful Dog Everything Brussels Griffon Collection for your born to be spoiled Griff. Everything you need for the Brussels Griffon in your life
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-05T12:01:41Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-11-02T12:01:30Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-10-26T11:02:10Z
   Total Products: 8
 - [Blissfully Fresh® Face Wash Keeps Your Dog Kissably Fresh](https://theblissfuldog.com/collections/fresh-face-wash-for-blissfully-clean-faces): Blissfully Fresh® Face Wash for Blissfully Clean, Kissably Cuddly, Fresh Faces -  when your dog needs a quick freshen-up to feel and smell great again
-  Updated: 2025-11-01T11:02:18Z
+  Updated: 2025-11-10T12:02:08Z
   Total Products: 32
 - [Grooming](https://theblissfuldog.com/collections/grooming)
   Updated: 2025-10-16T15:39:36Z
@@ -17593,1210 +17593,6 @@ Individually handcrafted in far, far northern Minnesota.
 - [Rich Bitch Holiday Combo](https://theblissfuldog.com/collections/rich-bitch-holiday-combo): Naughty AND Nice! Is there someone on your shopping list who you KNOW will get a kick out of this shampoo? Everyone on my list would love it, so my shopping is done! Of course, it's a hardworking, professional shampoo, we just had a little fun with the name. We stumbled upon these squeaky toys and HAD to do something fun with them. Hence, our Rich Bitch Happy Holidays Gift Combo! Our Rich Bitch Holiday Combo Includes 4 oz Bottle of Rich Bitch Shampoo with your choice of Rich Bitches gracing the label 11.95 value3.5 oz Rich Bitch Soap in a black, luxury gift box with the same label as the Shampoo 12.95 valueA Fabulous Rich Bitch Canine Couture Squeaky Toy Handbag (retail averages $20.00 alone!) All this for $14.95. We're clutching our own pearls at this great bargain! Shipping is, as always, free! While supplies last, we don't have an infinite supply of the squeak toy handbag toys!
   Updated: 2025-11-02T12:01:30Z
   Total Products: 26
-
-## Blogs
-
-- [The Blissful Dog Blog | All The News That's Fit to Sniff](https://theblissfuldog.com/blogs/news): There's always something happening here at The Blissful Dog Blog …new products, dog shows, crazy dog people stuff and maybe a heart-warming story to tell.
-  - [KEEPING YOU IN THE LOOP ON THE BLISSFUL DOG SHOP](https://theblissfuldog.com/blogs/news/86041603-keeping-you-in-the-blissful-loop): KEEPING YOU IN THE LOOP ON THE BLISSFUL DOG SHOP
-    Updated: 2019-07-18T00:53:20Z
-    Author: Kathy Dannel Vitcak
-    Tags: shop the blissful dog, the blissful dog shopify, the blissful dog store
-  - [Old Friends Can Be the Best Friends | Adopting An Older Dog](https://theblissfuldog.com/blogs/news/91473859-old-friends-can-be-the-best-friends-adopting-an-older-dog): <p>Taking A Chance On Love... A customer called an order in the other day and as we began to chat (which is gonna happen if you call ME), she shared that her new dog was a 14-year old Lab cross who came from a neglectful and abusive situation. […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/adopting-an-older-dog/">OLD FRIENDS CAN BE THE BEST FRIENDS | ADOPTING AN OLDER DOG</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T16:01:07Z
-    Author: Kathy Dannel Vitcak
-  - [Tibetan Spaniel | No, Not a Pekingese, Not a Lhasa Apso](https://theblissfuldog.com/blogs/news/91474691-tibetan-spaniel-our-newest-breed): <p>THE TIBETAN SPANIEL THE LITTLE LION DOG No, he’s not a tall Pekingese and no. he’s not a Lhasa Apso with a funny haircut! The Tibetan Spaniel is his own dog and one with a rich heritage. Of course, the Tibbie, as his many fans refer to him, is related to the Pekingese, the Japanese […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/tibetan-spaniel/">TIBETAN SPANIEL OUR NEWEST BREED</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T15:36:39Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Affenpinscher Facts: History & Temperament | The Blissful Dog](https://theblissfuldog.com/blogs/news/91474819-the-affenpinscher-dog-aka-monkey-face-dog): Affenpinscher Facts: History & Temperament | The Blissful Dog
-    Updated: 2019-07-18T01:53:03Z
-    Author: Kathy Dannel Vitcak
-  - [Boston Terrier Nose Butter Review](https://theblissfuldog.com/blogs/news/91482499-boston-terrier-nose-butter-review): <p>BOSTON TERRIER NOSE BUTTER REVIEW Never even heard of NOSE BUTTER until about two weeks ago. Once we started searching for something to help my Boston terrier we luckily stumbled upon it. The pictures below are over a four day time frame. Never in a million year would I have thought that the nose butter […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/boston-terrier-nose-butter-review/">BOSTON TERRIER NOSE BUTTER REVIEW</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:31:47Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Alexander the Great's Dog, Peritas, Changed History By Biting an Elephant](https://theblissfuldog.com/blogs/news/91483011-alexander-the-greats-dog-changed-history-by-biting-an-elephant): <p>DOGS WHO CHANGED THE HISTORY OF THE WORLD  Your dog has changed YOUR personal history, hasn’t he or she? I know my life is totally different due to my involvement in the world of dogs. […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/alexander-great-dog/">ALEXANDER THE GREAT’S DOG CHANGED HISTORY BY BITING AN ELEPHANT</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-05-16T14:04:50Z
-    Author: Kathy Dannel Vitcak
-  - [Is Your Dog Afraid of Fireworks? Get Ready - 4th of July Is Coming!](https://theblissfuldog.com/blogs/news/91483075-the-4th-of-july-is-coming-how-to-prepare-your-dog-for-4th-of-july-fireworks): Is Your Dog Afraid of Fireworks? Get Ready - 4th of July Is Coming!
-    Updated: 2019-07-18T01:51:06Z
-    Author: Kathy Dannel Vitcak
-  - [DOGS & 4TH OF JULY FIREWORKS…NOT A GREAT COMBO](https://theblissfuldog.com/blogs/news/91483139-dogs-4th-of-july-fireworks-not-a-great-combo): DOGS & 4TH OF JULY FIREWORKS…NOT A GREAT COMBO
-    Updated: 2019-07-18T01:49:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Yorkie](https://theblissfuldog.com/blogs/news/91483331-the-blissful-dog-of-the-day-yorkshire-terrier-history): <p>A Bit of Yorkie History - The Yorkshire Terrier aka Yorkie is a diminutive dog, but one that is FULL of big dog attitude. You may have seen them in the dog show ring, in person or on tv, and marveled at their perfect silky coats and that jaunty topknot (with […]</p>
-    Updated: 2022-04-24T18:56:52Z
-    Author: Kathy Dannel Vitcak
-    Tags: yorkie, yorkshire terrier
-  - [Nasak Hyperkeratosis in Dogs](https://theblissfuldog.com/blogs/news/91484867-nasal-hyperkeratosis-in-dogs): <p>WARM NOSE = SICK DOG Nasal Hyperkeratosis in Dogs “Your dog’s nose is dry, he must be sick.” As kids we all had some well-meaning relative who took it upon themselves to be the dog know-it-all in the family. They would make statements about your dog, the neighbors dog,  heck, about all dogs in such […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/nasal-hyperkeratosis/">NASAL HYPERKERATOSIS IN DOGS</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-03-24T00:20:00Z
-    Author: Kathy Dannel Vitcak
-  - [KRISER’S All-Natural Pet Store Partner](https://theblissfuldog.com/blogs/news/91485187-kriser-s-all-natural-pet-store-partner): <p>KRISER’S ALL-NATURAL PET STORE PARTNER The Blissful Dog is tickled to announce that NOSE BUTTER® is available at all KRISER’s locations. I met the KRISER’s Buying team at the 2014 Backer Show (Pet Industry Trade Show) and was so impressed with their dedication to bringing the best to their customers (people and pets). I was […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/krisers-natural-pet-store-partner/">KRISER’S All-Natural Pet Store Partner</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T17:49:39Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog in Nordstrom Department Stores Holiday Pop-Ups](https://theblissfuldog.com/blogs/news/91485763-the-blissful-dog-in-nordstrom): <p>The Blissful Dog NOSE BUTTER &amp; RELAX ROLL-ON in NORDSTROM STORES &amp; ONLINE Yes, you read that right. We are giddy over being featured in the Wit &amp; Wisdom section of Nordstrom. Not only are NOSE BUTTER and RELAX available on line via NORDSTROM website, but also in 55 stores. (I will have the complete […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/nose-butter-nordstrom/">THE BLISSFUL DOG IN NORDSTROM</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T23:03:03Z
-    Author: Kathy Dannel Vitcak
-  - [Safe & Creative Halloween Dog Costumes Are EZ To Create](https://theblissfuldog.com/blogs/news/91485827-safe-halloween-dog-costumes): Safe & Creative Halloween Dog Costumes Are EZ To Create
-    Updated: 2019-07-18T01:59:03Z
-    Author: Kathy Dannel Vitcak
-    Tags: dogs halloween, halloween dog safety, Ponderings & Posts
-  - [Halloween Dog Tips Keep Halloween from Being HELL-O-WEEN for Your Dog](https://theblissfuldog.com/blogs/news/91485891-halloween-tips-for-dogs): Halloween Dog Tips Keep Halloween from Being HELL-O-WEEN for Your Dog
-    Updated: 2019-07-18T02:01:02Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Frankie the Pug Pees While Standing on Front Paws](https://theblissfuldog.com/blogs/news/91485955-frankie-the-pug-pees-while-standing-on-front-paws): <p>PUG PEES WHILE STANDING ON FRONT LEGS I have now seen it all…forget a Bucket List, to heck with being on Oprah (damn her for canceling the show before she had me on it), who needs to be on Dancing With The Stars. I have now spent two minutes of my life watching Frankie the […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/pug-pees-standing-front-paws/">Frankie the Pug Pees While Standing on Front Paws</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T14:13:24Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog Quote for the Day – Pug Bling It Out](https://theblissfuldog.com/blogs/news/91486467-the-blissful-dog-quote-for-the-day-bling-it-out): The Blissful Dog Quote for the Day – Pug Bling It Out
-    Updated: 2020-08-03T23:17:45Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog Celebrity Watching at the 2014 Emmys!](https://theblissfuldog.com/blogs/news/91486595-the-blissful-dog-at-the-emmys): The Blissful Dog Celebrity Watching at the 2014 Emmys!
-    Updated: 2020-08-01T16:31:25Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [DOG WATER SAFETY TIPS](https://theblissfuldog.com/blogs/news/91487555-dog-water-safety-tips): <p>DOG WATER SAFETY TIPS It is finally summer here in northern Minnesota, after the winter that would not end, and our dogs are all enjoying toasting their tummies to the sun. While it feels fabulous to them (and me), too much summer fun is no good for anyone – two-legged or four! Let’s hit some […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/dog-water-safety-tips/">DOG WATER SAFETY TIPS</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>. May 30, 2014</p>
-    Updated: 2019-07-18T01:59:03Z
-    Author: Kathy Dannel Vitcak
-    Tags: water safety
-  - [Pug Colors](https://theblissfuldog.com/blogs/news/91488259-pug-colors): <p>What Color IS Your Pug? The American Kennel Club only recognizes fawn and black. Each color has a “black mask” which should be very distinct on a fawn colored Pug and not so much on a black Pug (it is there-just masked-hehe). There is a “rare” silver color that supposedly dates back to the mid-1800s. […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/pug-colors/">Pug Colors</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-01-21T21:47:48Z
-    Author: Kathy Dannel Vitcak
-  - [Adopting a Rescue Dog](https://theblissfuldog.com/blogs/news/91488323-adopting-a-rescue-dog): <p>Are You Considering Adopting a Rescue Dog? Adopting a dog through a rescue organization can be a life-changing experience. Not only are you literally saving a LIFE, you are also enriching the lives of your entire family. As they say, “You may not be able to make all dogs have better lives, but you can […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/adopting-rescue-dog/">Adopting a Rescue Dog</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T23:09:36Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Most Interesting French Bulldog in the World](https://theblissfuldog.com/blogs/news/91489027-the-most-interesting-french-bulldog-in-the-world): <p>Introducing The Most Interesting French Bulldog in the World Have you ever met a dog that just captivated everyone he met? A dog who seemed to hold the wisdom of the world right in his paw? Was he possibly The Most Interesting Dog in the World? Just for fun, we are sharing The Most Interesting French […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/interesting-french-bulldog/">The Most Interesting French Bulldog in the World</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T21:57:47Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog of the Day | Bull Terrier](https://theblissfuldog.com/blogs/news/91489539-the-blissful-dog-of-the-day-bull-terrier): <p>The Blissful Dog of the Day | Bull Terrier Bull Terrier Overview The Bull Terrier has a VERY distinctive look. There is no confusing this unique terrier with any other breed! The head is large, egg-shaped with small triangular eyes. This oval head allows for greater jaw strength and a powerful bite. Bull Terriers carry themselves […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/blissful-dog-day-bull-terrier/">The Blissful Dog of the Day | Bull Terrier</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:56:31Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts, The Blissful Dog of The Day
-  - [The Boxer History | Exuberant Happy Dog](https://theblissfuldog.com/blogs/news/91491267-the-blissful-dog-of-the-day-the-boxer-dog): The Boxer History | Exuberant Happy Dog
-    Updated: 2020-08-03T15:42:13Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog of the Day The Brussels Griffon](https://theblissfuldog.com/blogs/news/91491715-the-blissful-dog-of-the-day-the-brussels-griffon): <p>The Brussels Griffon – Delightful Little Imps The Brussels Griffon is absolutely a well-kept secret. Faces that you cannot help but smile at, a variety of coat types – from smooth to rough, and sass galore! Plus, they are small and easy to take with on any adventure. The Brussels Griffon was named for their […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/brussels-griffon/">The Blissful Dog of the Day The Brussels Griffon</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2019-10-11T13:58:25Z
-    Author: Kathy Dannel Vitcak
-  - [How Much Chocolate Is Too Much for Your Dog?](https://theblissfuldog.com/blogs/news/91492867-chocolate-and-dogs-spooky-combo): How Much Chocolate Is Too Much for Your Dog?
-    Updated: 2022-10-03T20:24:30Z
-    Author: Kathy Dannel Vitcak
-    Tags: dogs chocolate, halloween dogs, Ponderings & Posts
-  - [On the Road Again – Traveling With Your Dog](https://theblissfuldog.com/blogs/news/91492995-on-the-road-again-traveling-with-dogs): On the Road Again – Traveling With Your Dog
-    Updated: 2020-08-03T18:39:57Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Elbow Problems in Dogs | Calluses on Dog Elbows](https://theblissfuldog.com/blogs/news/91493123-dog-elbow-callus-help-cracked-ugly-mess): Elbow Problems in Dogs | Calluses on Dog Elbows
-    Updated: 2019-07-18T01:07:10Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog elbow callus, dog elbow calluses, dogue de bordeaux elbow callus
-  - [Your Blissful Senior Dog Care](https://theblissfuldog.com/blogs/news/91493635-your-blissful-senior-dog-care): <p>Getting Older – Having a Blissful Senior Dog On July 24th I tuned 57 and realized I am now in the demographic known as pre-senior…really. Yes, REALLY! I don’t think of myself as a pre-senior and am pretty sure I don’t act like one. But I am and there is no getting around that fact. […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/your-blissful-senior-dog-care/">Your Blissful Senior Dog Care</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>. in 2013</p>
-    Updated: 2020-09-04T20:28:44Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Goodbye to a Dear Friend, Steve's Dog Mudd](https://theblissfuldog.com/blogs/news/91493763-goodbye-to-a-dear-friend): <p>Goodbye to our French Bulldog, Mudd Today Steve and I said goodbye to Mudd, his best friend and the queen of the house. I admit, I deferred to her on that title and pretty much everything else. Mudd, aka Jackpot! Makin’ Mudd Pieds, CGC, ruled the roost. She allowed no other dogs to lick an […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/goodbye-to-a-dear-friend/">Goodbye to a Dear Friend</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T18:53:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog | New Dog Breed Label the Xoloitzcuintli](https://theblissfuldog.com/blogs/news/91494339-new-breed-label-the-xoloitzcuintli): The Blissful Dog | New Dog Breed Label the Xoloitzcuintli
-    Updated: 2020-08-03T19:09:31Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [The Blissful Dog In Cesar's Way Magazine Featured Products](https://theblissfuldog.com/blogs/news/91496259-cesar-s-way-magazine-featured-products): The Blissful Dog In Cesar's Way Magazine Featured Products
-    Updated: 2020-08-01T16:26:14Z
-    Author: Kathy Dannel Vitcak
-    Tags: cesar milan, cesar's way dog magazine, dog whisperer magazine, new york dog fashion show, new york pet fashion week, Ponderings & Posts
-  - [Judging the Top Twenty at Frenchie Nationals](https://theblissfuldog.com/blogs/news/91498051-judging-the-top-twenty-at-frenchie-nationals): <p>WHEW! I have been in Portland, OR for the last few days immersed in absolutely everything French Bulldog. I had the huge honor of judging the Top Twenty competition at the French Bulldog 2012 National Specialty. The judges are sworn to secrecy and we could not squeak a word to anyone (I did tell Steve) […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/judging-at-frenchie-nationals/">Judging the Top Twenty at Frenchie Nationals</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>. October 27, 2012</p>
-    Updated: 2020-08-01T17:40:23Z
-    Author: Kathy Dannel Vitcak
-    Tags: fbdca top 20 2012, french bulldog national specialty 2012, french bulldog top twenty, frenchie nationals, judging the top twenty, Ponderings & Posts
-  - [What the Heck is Up With All the Little ™ Trademark Symbols](https://theblissfuldog.com/blogs/news/91498307-what-the-heck-is-up-with-all-the-little-trademark-symbols): <p>Trademarking 101 Have you ever read an article or been to a website and it seemed like every other word had a trademark symbol (™) riding along like a tacky little caboose? I admit to having it be one of those things that bugs me (Am I weird? Don’t answer that). The overuse of the […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/what-the-heck-is-up-with-all-the-little-trademark-symbols/">What the Heck is Up With All the Little ™ Trademark Symbols</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:54:21Z
-    Author: Kathy Dannel Vitcak
-    Tags: nose butter, Ponderings & Posts, trademark nose butter
-  - [The Blissful Dog Relax Aromatherapy French Bulldog Calming Spray](https://theblissfuldog.com/blogs/news/91499203-new-labels-for-the-relax-aromatherapy-roll-on): The Blissful Dog Relax Aromatherapy French Bulldog Calming Spray
-    Updated: 2020-08-03T19:29:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: bulldog, french bulldog, french bulldog relax, Ponderings & Posts, relax aromatherapy, relax dog thunderstorm, relax your dog, roll-on aromatherapy dogs, thunderstorm dog, thunderstorms
-  - [Ramblings on Nose Butter Tins](https://theblissfuldog.com/blogs/news/91499331-ramblings-on-tins): Ramblings on Nose Butter Tins
-    Updated: 2020-08-01T16:13:32Z
-    Author: Kathy Dannel Vitcak
-    Tags: crusty dog noses, dry dog noses, shea butter summer, the blissful dog
-  - [Nose Butter for Bulldogs](https://theblissfuldog.com/blogs/news/91500803-nose-butter-for-bulldogs): <p>NOSE BUTTER FOR BULLDOGS great stuff – works much better than A&amp;D! c ETSY Apr 8, 2011 Bulldog Nose Butter for Dry, Crusty, Yukky Noses 1 oz.</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/testimonial/nose-butter-for-bulldogs/">NOSE BUTTER FOR BULLDOGS</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-03-23T18:42:10Z
-    Author: Kathy Dannel Vitcak
-  - [Our New Boy Gio | English Toy Spaniel](https://theblissfuldog.com/blogs/news/91501443-our-new-boy): Our New Boy Gio | English Toy Spaniel
-    Updated: 2020-08-03T19:13:56Z
-    Author: Kathy Dannel Vitcak
-    Tags: black and tan english toy spaniel, dog show, dog show national specialty, english toy spaniel, king charles spaniel, paws and tails, paws and tails too, Ponderings & Posts
-  - [BRRRR…Cold Weather Tips for Your Dog](https://theblissfuldog.com/blogs/news/91501571-brrrr-cold-weather-tips-for-you-and-your-blissful-dog): BRRRR…Cold Weather Tips for Your Dog
-    Updated: 2020-08-01T17:05:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine winter care, dancing bear resort, dog feet protection, dog pad balm, dog pad butter, dog pad protection, dog tips for winter, french bulldog winter tips, paw pad protection, Ponderings & Posts
-  - [EZBoy May He Rest In Peace](https://theblissfuldog.com/blogs/news/91501635-ezboy-may-he-rest-in-peace): <p>Well, my dear friends, I have just not had it in me to blog about this, but I want to share with you the news that our EZBoy passed as a result of the bladder stone surgery. It has been a week or so, I am sure you all understand. He was such a warrior, […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboy-may-he-rest-in-peace/">EZBoy May He Rest In Peace</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:19:43Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story, Ponderings & Posts
-  - [Black Pug Nose Butter Rave Review](https://theblissfuldog.com/blogs/news/91501699-black-pug-nose-butter): Black Pug Nose Butter Rave Review
-    Updated: 2020-08-03T14:49:35Z
-    Author: Kathy Dannel Vitcak
-  - [EZBoy Made It Through Surgery!!!](https://theblissfuldog.com/blogs/news/91501763-ezboy-made-it-through-surgery): <p>EZBoy made it through the surgery. He had 40+ kidney stones and it was not an easy surgery. Thank you all for the amazing thoughts and good wishes. We pick him up tomorrow and am hoping the recovery will be good. He is a true warrior spirit and we honor that in this little dude. […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboy-made-it-through-surgery/">EZBoy Made It Through Surgery!!!</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:21:24Z
-    Author: Kathy Dannel Vitcak
-    Tags: back injury dog cart, french bulldog paralyzed, kidney stones dog, Ponderings & Posts
-  - [EZBoy At The Vet](https://theblissfuldog.com/blogs/news/91501891-ezboy-at-the-vet): <p>Hey all my The Blissful Dog friends…EZBoy, the amazing little dude in the cart that is my logo is at the vet as we speak…he has kidney stones that are having to be removed surgically. We tried to handle them not surgically, but that was not to be. So…any of those good old fashioned (or […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboy-at-the-vet/">EZBoy At The Vet</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T19:20:40Z
-    Author: Kathy Dannel Vitcak
-    Tags: french bulldog kidney stones, Ponderings & Posts
-  - [EZBoy’s Wheels Got  Re-Tooled! Our French Bulldog Wheelchair Saga](https://theblissfuldog.com/blogs/news/91502147-ezboy-s-wheels-got-re-tooled): EZBoy’s Wheels Got  Re-Tooled! Our French Bulldog Wheelchair Saga
-    Updated: 2020-08-03T19:18:40Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Awareness & Prevention During Dog Cancer Awareness Month](https://theblissfuldog.com/blogs/news/91502339-awareness-and-prevention-for-our-best-friends-during-pet-cancer-awareness-month): Awareness & Prevention During Dog Cancer Awareness Month
-    Updated: 2020-08-03T20:14:27Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog cancer, dr. mona rosenberg, pet cancer awareness month, pet cancer month, Ponderings & Posts, veterinary cancer group
-  - [Dog Licks Feet aka The Foot Licking Blues…](https://theblissfuldog.com/blogs/news/91502787-foot-licking-blues): Dog Licks Feet aka The Foot Licking Blues…
-    Updated: 2020-01-16T22:41:16Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog anxiety, dog emotions, dog issues, dog licking feet, dog self soothing, Ponderings & Posts
-  - [Yaks and Bears and Dogs, Oh My!](https://theblissfuldog.com/blogs/news/91502915-yaks-and-bears-and-dogs-oh-my): Yaks and Bears and Dogs, Oh My!
-    Updated: 2020-08-03T22:56:18Z
-    Author: Kathy Dannel Vitcak
-    Tags: black bear, dog friendly resort, great pyrenees, Ponderings & Posts, yak, yaks
-  - [The Blissful Dog | Cognitive Dysfunction Syndrome in Dogs](https://theblissfuldog.com/blogs/news/cognitive-dysfunction-syndrome-in-dogs): The Blissful Dog | Cognitive Dysfunction Syndrome in Dogs
-    Updated: 2020-09-04T20:48:46Z
-    Author: Kathy Dannel Vitcak
-  - [From His Holiness the Dalai Lama Quote for the Week](https://theblissfuldog.com/blogs/news/91503171-great-quote-from-his-holiness-the-dalai-lama): From His Holiness the Dalai Lama Quote for the Week
-    Updated: 2022-09-26T19:04:34Z
-    Author: Kathy Dannel Vitcak
-    Tags: dalai lama, Ponderings & Posts
-  - [GoodBye Dear Friend | Deuce My Newfoundland](https://theblissfuldog.com/blogs/news/91503427-goodbye-dear-friend): GoodBye Dear Friend | Deuce My Newfoundland
-    Updated: 2020-08-03T18:50:35Z
-    Author: Kathy Dannel Vitcak
-    Tags: dancing bear resort, deuce, newfoundland, pet loss, Ponderings & Posts, rainbow bridge
-  - [Is Your Dog Afraid of Fireworks? Is the 4th of July Their Worst Day?](https://theblissfuldog.com/blogs/news/91503683-fear-of-the-4th-of-july-thunderstorms): Is Your Dog Afraid of Fireworks? Is the 4th of July Their Worst Day?
-    Updated: 2020-08-01T13:28:43Z
-    Author: Kathy Dannel Vitcak
-    Tags: 4th of july dog, canine stress, dog stress thunderstorms, fear of fireworks dogs, help dog afraid storms
-  - [NEW Cancer Drug Approved for DOGS!!!!](https://theblissfuldog.com/blogs/news/91503811-new-cancer-drug-approved-for-dogs): <p>Many years ago, I lost an absolutely adored bear coat Chinese Shar-Pei to mast cell cancer. It was so fast, so furious and such a heinous blow to me, I have had a huge fear of mast cell cancer as a diagnosis since that day. Needless to say, I was ecstatic to read the news […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/new-cancer-drug-approved-for-dogs/">NEW Cancer Drug Approved for DOGS!!!!</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T20:09:04Z
-    Author: Kathy Dannel Vitcak
-    Tags: cancer drug canine, dog cancer drug, Health Tips, mast cell cancer dog, Ponderings & Posts
-  - [SHEA BUTTER…all the scoop on this glorious butter](https://theblissfuldog.com/blogs/news/91504003-shea-butter-all-the-scoop): SHEA BUTTER…all the scoop on this glorious butter
-    Updated: 2020-08-03T19:02:34Z
-    Author: Kathy Dannel Vitcak
-    Tags: crusty dog nose, dry french bulldog nose, dry nose, dry pug nose, Health Tips, Nasodigital Hyperkeratosis, Ponderings & Posts, shea butter, shea butter nose butter, the blissful dog chakra kit, unrefined shea butter
-  - [Dogs and Kids](https://theblissfuldog.com/blogs/news/91504195-dogs-and-kids): <p>As you probably know, we also have a wonderful little resort nestled in the big woods of NW Minnesota, Dancing Bear Resort. We are blessed to have many, many guests that return year and year…and their first questions are always, “How is Mudd? How is Deuce? Where is Zoe?” They ask about our pets before […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/dogs-and-kids/">Dogs and Kids</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T20:01:42Z
-    Author: Kathy Dannel Vitcak
-    Tags: great pyrenees, Health Tips, Ponderings & Posts, zoe dog
-  - [Brachycephalic syndrome French Bulldogs, Pugs, Pekingese, Bulldogs+](https://theblissfuldog.com/blogs/news/91504835-brachycephalic-syndrome-common-in-french-bulldogs-pugs-etc): Brachycephalic syndrome French Bulldogs, Pugs, Pekingese, Bulldogs+
-    Updated: 2019-10-11T14:00:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: brachycephalic syndrome french bulldogs, bracychephalic syndrome pugs, ELONGATED SOFT PALATE, EVERTED LARYNGEAL SACCULES, Health Tips, Ponderings & Posts, STENOTIC NARES
-  - [Off #@$% Tick](https://theblissfuldog.com/blogs/news/91504963-off-tick): <p>Ticks are the bane of my existence, right after CNN, and this time of the year they are heinous here in the big woods of MInnesota. My Great Pyrenees, Zoe, is a true tick magnet and the pour-on stuff I have tried has not done a thing. Plus, it scares me to pour chemicals right […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/off-tick/">Off #@$% Tick</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T18:56:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: Health Tips, Ponderings & Posts
-  - [Traveling With Flat Faced Dogs Can Be OK With a Few Cautions](https://theblissfuldog.com/blogs/news/91505091-traveling-with-your-flat-faced-dog-friend): Traveling With Flat Faced Dogs Can Be OK With a Few Cautions
-    Updated: 2019-10-11T14:00:17Z
-    Author: Kathy Dannel Vitcak
-    Tags: car travel, dogs in cars, french bulldog travel, french bulldog trip, Health Tips, pet travel, Ponderings & Posts, pug ride, pug travel, pug trip, the blissful dog relax essence, travel with dog
-  - [Dogs and Crystals – The First Steps](https://theblissfuldog.com/blogs/news/91505219-pets-and-crystals-the-first-steps): Dogs and Crystals – The First Steps
-    Updated: 2020-08-03T17:20:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: crystal dog, crystal energy dog, crystal healing dog, crystals dog, healing energy dog, Ponderings & Posts, reiki dg
-  - [The Blissful Dog - Reiki For Dogs Is Mainstream Now](https://theblissfuldog.com/blogs/news/91505347-reiki-for-your-dog-not-as-crazy-as-it-sounds): The Blissful Dog - Reiki For Dogs Is Mainstream Now
-    Updated: 2019-10-11T14:02:06Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog chakras, dog emotions, dog issues, reiki canine, reiki dogs
-  - [More on EZBoy’s Wheels | French Bulldog Wheelchair DIY](https://theblissfuldog.com/blogs/news/91505795-more-on-ezboy-s-wheels): More on EZBoy’s Wheels | French Bulldog Wheelchair DIY
-    Updated: 2020-08-03T18:47:46Z
-    Author: Kathy Dannel Vitcak
-    Tags: back injury dog cart, french bulldog hurt back, french bulldog paralyzed, french bulldog spinal injury, wheelchair
-  - [Intense Name for a Crusty, Yukky Nose Condition](https://theblissfuldog.com/blogs/news/91505923-intense-name-for-a-crusty-yukky-nose-condition): <p>Nasodigital Hyperkeratosis There are a variety of different conditions that can affect our dear little flatter faces ones noses. Some of them can just plain have a dirt, encrusted nose. Some get a buildup of food (and treats) on their noses, which can be a really ugly mess. Both of these can be frustrating to […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/intense-name-for-a-crusty-yukky-nose-condition/">Intense Name for a Crusty, Yukky Nose Condition</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T15:02:43Z
-    Author: Kathy Dannel Vitcak
-    Tags: crusty dog nose, dry french bulldog nose, dry nose, dry pug nose, Nasodigital Hyperkeratosis, Ponderings & Posts
-  - [What Do I FEED MY Dog?](https://theblissfuldog.com/blogs/news/91506243-what-do-i-feed-my-dog): <p>Have you been to the pet food store lately and looked, I mean REALLY looked at all the choices available? Row after row after row of food for your beloved dog…each one promising to be all they need and yummy to boot. Where do you start and how do you pick the best one for […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/what-do-i-feed-my-dog/">What Do I FEED MY Dog?</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T15:01:36Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [What Is A Blissful Dog?](https://theblissfuldog.com/blogs/news/91506371-what-is-a-blissful-dog): <p>A Blissful Dog is a happy, healthy dog whose owner is their best friend, caretaker, companion and advocate. A Blissful Dog eats a carefully chosen diet that best suits their personal needs. A Blissful Dog has a life filled with love, enough exercise and rest, and then more love. A Blissful Dig can be any […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/nose-butterwhat-the-heck/">What Is A Blissful Dog?</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T15:00:25Z
-    Author: Kathy Dannel Vitcak
-    Tags: crusty dog nose, dog emotions, dry french bulldog nose, dry pug nose, healing energy dog, Nasodigital Hyperkeratosis, nose butter, Ponderings & Posts, reiki canine, shea butter nose butter, the blissful dog nose butter
-  - [Love Pug Nose Butter!](https://theblissfuldog.com/blogs/news/91506435-pug-nose-butter-love-it): <p>PUG NOSE BUTTER Love it! ETSY bbc 7.15.2010 Pug Nose Butter 4 ounce</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/testimonial/pug-nose-butter-love-it/">PUG NOSE BUTTER LOVE IT!</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2022-05-29T17:30:01Z
-    Author: Kathy Dannel Vitcak
-  - [French Bulldog Nose Butter Review](https://theblissfuldog.com/blogs/news/91506499-french-bulldog-nose-butter): <h4>French Bulldog Nose Butter</h4>
-<p>Great stuff! Thanks for the fast shipping too! ETSY glb 7.15.2010 French Bulldog Nose Butter 1 ounce</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/testimonial/french-bulldog-nose-butter-2/">FRENCH BULLDOG NOSE BUTTER</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>. | Etsy Import</p>
-    Updated: 2022-05-31T17:30:01Z
-    Author: Kathy Dannel Vitcak
-    Tags: french bulldog, nose butter review
-  - [EZBoy’s REHAB](https://theblissfuldog.com/blogs/news/91506563-ezboy-s-rehab): <p>EZBoy and I are still in Crystal Lake, Il with Kelly. We visited TOPS Veterinary Rehabilitation Clinic twice this past week. FIRST…we met our dear friend Kathi Luljak and her girl, Demi, and got to see Demi do her exercises. Demi was down in a swim tank and walking on a treadmill. We could even […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboys-rehab/">EZBoy’s REHAB</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T17:19:31Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [French Bulldog Nose Butter Exactly As Promised](https://theblissfuldog.com/blogs/news/91506755-nose-butter-as-promised): <p>FRENCH BULLDOG NOSE BUTTER Good transaction: quick delivery &amp; the NOSE BUTTER was exactly as promised. Thanks so much! Mrs B. 7.01.2010 French Bulldog Nose Butter 4 ounce</p>
-<p><em>Import from Etsy Reviews</em></p>
-    Updated: 2022-06-01T18:00:02Z
-    Author: Kathy Dannel Vitcak
-  - [Hmmm, can EZBoy WALK?](https://theblissfuldog.com/blogs/news/91506819-hmmm-can-ezboy-walk): <p>Like I mentioned, we just do not have access to a physical therapist for dogs here in the big woods, but we have been working with him. Like using the Young Living Oils. As time has gone by, we noticed him using more and more of his back legs…but mostly to balance. Like when he […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/hmmm-can-ezboy-walk/">Hmmm, can EZBoy WALK?</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2022-05-06T16:08:31Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [French Bulldog Nose Butter Works Well](https://theblissfuldog.com/blogs/news/91506883-french-bulldog-works-well): <p>FRENCH BULLDOG NOSE BUTTER Thanks. Works well and the dogs love it. EV 7.01.2010 French Bulldog Nose Butter 1 ounce</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/testimonial/french-bulldog-works-well/">FRENCH BULLDOG WORKS WELL</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2022-05-23T17:26:07Z
-    Author: Kathy Dannel Vitcak
-  - [Bulldog Nose Butter Review |  No More Yucky Noses](https://theblissfuldog.com/blogs/news/91506947-bulldog-nose-butter-no-more-yucky-noses): <p>BULLDOG NOSE BUTTER REVIEW No more yukky noses here. Clean, smooth, and easy to apply. Highly recommend. From ETSY…bwg 6.16.2010 Bulldog Nose Butter for Dry, Crusty, Yukky Noses 1 oz.  </p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/testimonial/bulldog-nose-butter-no-more-yucky-noses/">BULLDOG NOSE BUTTER No More Yucky Noses</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2022-05-06T16:11:02Z
-    Author: Kathy Dannel Vitcak
-  - [EZBoy…Scrappy Dude | Wheelchair French Bulldog](https://theblissfuldog.com/blogs/news/91507011-ezboy-scrappy-dude): EZBoy…Scrappy Dude | Wheelchair French Bulldog
-    Updated: 2020-08-03T14:10:57Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [Our Wheelchair French Bulldog EZBoy SCOOTS….](https://theblissfuldog.com/blogs/news/91507139-ezboy-scoots): Our Wheelchair French Bulldog EZBoy SCOOTS….
-    Updated: 2020-08-01T17:14:18Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [EZBoy Continued…](https://theblissfuldog.com/blogs/news/91507203-ezboy-continued): <p> Today I will chat about some of the things we did to work with EZBoy in the initial stages of his recovery. Once the incision had healed and stitches were out, we started letting him scoot around more to keep his muscles toned. He lost quite a bit of weight (for a little dog) and […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboy-continued/">EZBoy Continued…</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T17:11:14Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [EZBoy…Our Blissful Dog Mascot](https://theblissfuldog.com/blogs/news/91507395-ezboy-our-blissful-dog-mascot): <p>EZ Boy, CH. Meneer Jackpot! Du Petit Fripon was a happy, scrappy, healthy French Bulldog until one day about two years ago. He just did not get up one morning. Nothing dramatic, no injury, we will probably never know, he just could not stand on his rear legs. All we know is he went to […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/ezboyour-blissful-dog-mascot/">EZBoy…Our Blissful Dog Mascot</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-01T13:26:54Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story
-  - [EVIL French Bulldogs…Yes…EVIL!](https://theblissfuldog.com/blogs/news/91507523-evil-french-bulldogs-yes-evil): <p>It is still pretty dismal outside here…some snow, lots of mud and kinda just dreary. But we actually had a nice sunny day and the temps were in the 40s. So I decided to bring the Frenchies out and let them play while I fed the alpacas. What was I thinking? Of course, Money, Mudd […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/evil-french-bulldogsyesevil/">EVIL French Bulldogs…Yes…EVIL!</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T14:03:54Z
-    Author: Kathy Dannel Vitcak
-    Tags: Ponderings & Posts
-  - [Eckhart Tolle and Dogs by Connie Wilson](https://theblissfuldog.com/blogs/news/91507651-eckhart-tolle-and-dogs-by-connie-wilson): <p>Eckhart Tolle – Dog Maya and More I was Googling around and found this delightful interview with Eckhart Tolle by the editor of Modern Dog, Connie Wilson.If you do not subscribe to this wonderful magazine, I urge you to. It is fun, free-spirited and has fabulous articles!  Being Our dogs, our guides: an interview with […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/eckhart-tolle/">Eckhart Tolle and Dogs by Connie Wilson</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-08-03T13:59:26Z
-    Author: Kathy Dannel Vitcak
-  - [Chocolate Poisoning for Dogs is REAL!](https://theblissfuldog.com/blogs/news/91507715-chocolate-poisoning-for-dogs-is-real): <p>Ok, we have all heard that your dog’s should not eat chocolate and all that. I will admit I have always though all that was being a little melodramatic and over the top. Guess what, it is NOT!  A VERY dear friend called me and told me that her dogs had eaten some super all […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/chocolate-poisoning-for-dogs-is-real/">Chocolate Poisoning for Dogs is REAL!</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>. October 2009</p>
-    Updated: 2020-08-03T13:38:44Z
-    Author: Kathy Dannel Vitcak
-    Tags: Health Tips, Ponderings & Posts
-  - [Cold Weather Tips for Dogs](https://theblissfuldog.com/blogs/news/91507779-cold-weather-tips): Cold Weather Tips for Dogs
-    Updated: 2019-10-11T14:02:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: Health Tips
-  - [Caring For Our Senior Dogs](https://theblissfuldog.com/blogs/news/91507843-caring-for-the-seniors): <p>I am sitting here looking at a gaggle of old French Bulldogs. A couple have grey faces, one has grey LEGS, Vegas just looks like a little granny dog and a couple just are not moving as fast as they used to (I can sympathize!). Like many breeders, I have reached a stage where I […]</p>
-<p>The post <a rel="nofollow" href="https://theblissfuldog.com/caring-for-the-seniors/">Caring For the Seniors</a> appeared first on <a rel="nofollow" href="https://theblissfuldog.com">The Blissful Dog® Inc.</a>.</p>
-    Updated: 2020-09-04T20:26:23Z
-    Author: Kathy Dannel Vitcak
-    Tags: Health Tips, Ponderings & Posts
-  - [Kelly…Animal Communicator Saves the Day!](https://theblissfuldog.com/blogs/news/91508035-kelly-animal-communicator-saves-the-day): <p>My dear friend, Kelly, sent me this email. Her excitement and relief is just palpable…"My mom called about 4 pm this afternoon in hysterics.  Her 17 year old terrier mix, Harley was missing."</p>
-    Updated: 2019-10-11T14:04:06Z
-    Author: Kathy Dannel Vitcak
-    Tags: EZBoy's Story, In the News, Ponderings & Posts
-  - [Judging French Bulldogs National Specialty Sweeps Was An Honor](https://theblissfuldog.com/blogs/news/91508099-french-bulldog-national-specialty-sweeps-judging-honor): Judging French Bulldogs National Specialty Sweeps Was An Honor
-    Updated: 2019-10-11T14:04:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: french bulldog dog show, judging french bulldog, Ponderings & Posts
-  - [Doberman Pinscher Zombie Dogs](https://theblissfuldog.com/blogs/news/113317379-doberman-pinscher-zombie-dogs): Doberman Pinscher Zombie Dogs
-    Updated: 2020-09-29T20:05:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: doberman pinscher, zombie dogs
-  - [About Yorkshire Terrier Dogs: Traits & History | The Blissful Dog](https://theblissfuldog.com/blogs/news/114246083-yorkshire-terrier-from-ratter-to-best-in-show): About Yorkshire Terrier Dogs: Traits & History | The Blissful Dog
-    Updated: 2019-07-18T00:53:20Z
-    Author: Kathy Dannel Vitcak
-  - [PACHON NAVARRO The Double-Nosed Dog…Really!](https://theblissfuldog.com/blogs/news/115582019-pachon-navarro-the-double-nosed-dog-really)
-    Updated: 2019-07-18T00:55:19Z
-    Author: Kathy Dannel Vitcak
-    Tags: pachon navarro
-  - [Judging French Bulldogs for the Great Lakes French Bulldog Club](https://theblissfuldog.com/blogs/news/119948739-judging-french-bulldogs): Judging French Bulldogs for the Great Lakes French Bulldog Club
-    Updated: 2019-07-18T00:55:22Z
-    Author: Kathy Dannel Vitcak
-    Tags: great lakes french bulldog club, judging french bulldog
-  - [The Blissful Dog | Caring for Our Senior Dogs As They Age](https://theblissfuldog.com/blogs/news/120288195-celebrating-seniors-caring-for-our-aging-dogs): The Blissful Dog | Caring for Our Senior Dogs As They Age
-    Updated: 2020-09-04T20:56:00Z
-    Author: Kathy Dannel Vitcak
-    Tags: caring for old old, old french bulldog, senior dogs
-  - [GREAT LAKES FRENCH BULLDOG CLUB SPECIALTY](https://theblissfuldog.com/blogs/news/124158723-great-lakes-french-bulldog-club-specialty)
-    Updated: 2019-07-18T00:57:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: great lakes french bulldog club, judging french bulldog
-  - [GREAT LAKES FRENCH BULLDOG CLUB JUDGING FRENCHIES](https://theblissfuldog.com/blogs/news/124319043-great-lakes-french-bulldog-club-judging-frenchies)
-    Updated: 2019-07-18T00:57:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: great lakes french bulldog club, judging french bulldog
-  - [Greater Swiss Mountain Dog History How One Man Saved Them](https://theblissfuldog.com/blogs/news/124759555-saving-the-swiss-mountain-dogs-without-facebook-twitter-or-instagram): Greater Swiss Mountain Dog History How One Man Saved Them
-    Updated: 2019-07-18T00:59:14Z
-    Author: Kathy Dannel Vitcak
-    Tags: bernese mountain dog, bernese mountain dog history, Franz Schertenleib, greater swiss mountain dog, Professor Albert Heim
-  - [LUST BUSTER BUTTER](https://theblissfuldog.com/blogs/news/127154435-lust-buster-butter)
-    Updated: 2019-07-18T00:59:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog distration, dog shows, dogs in heat dog shows
-  - [GREY FACES...WHEN IS YOUR DOG A SENIOR?](https://theblissfuldog.com/blogs/news/131345731-grey-faces-when-is-your-dog-a-senior)
-    Updated: 2019-07-18T00:59:20Z
-    Author: Kathy Dannel Vitcak
-  - [BLASTED #$%@ TICKS](https://theblissfuldog.com/blogs/news/131494979-blasted-ticks)
-    Updated: 2019-07-18T01:01:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: natural tick repellant, ticks
-  - [STILL RANTING ABOUT TICKS](https://theblissfuldog.com/blogs/news/131497603-still-ranting-about-ticks)
-    Updated: 2019-07-18T01:01:14Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog ticks, identify ticks, tick rant, ticks
-  - [DOG SHOW FAIL](https://theblissfuldog.com/blogs/news/131797059-dog-show-fail)
-    Updated: 2019-07-18T01:01:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog show fail, dog shows, show french bulldogs
-  - [Flat-Faced Dogs - Love 'em Laugh at 'em?](https://theblissfuldog.com/blogs/news/flat-faced-dogs-love-em-laugh-at-em-french-bulldogs-pugs-bulldogs-et-al-are-stealing-hearts)
-    Updated: 2022-09-22T22:47:19Z
-    Author: Kathy Dannel Vitcak
-    Tags: brussels griffon, flat-faced dogs, french bulldog, frenchie, pug
-  - [PATCH, THE 14-YEAR-OLD BRITTANY IS FEELING GREAT AGAIN](https://theblissfuldog.com/blogs/news/patch-the-14-year-old-brittany-is-feeling-great-again)
-    Updated: 2019-07-18T01:03:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: before after, brittany
-  - [What Exactly IS A Blissful Dog?](https://theblissfuldog.com/blogs/news/what-is-a-blissful-dog): What Exactly IS A Blissful Dog?
-    Updated: 2019-07-18T01:03:11Z
-    Author: Kathy Dannel Vitcak
-  - [FOOT LICKING FRUSTRATIONS](https://theblissfuldog.com/blogs/news/foot-licking-frustrations): FOOT LICKING FRUSTRATIONS
-    Updated: 2019-07-18T01:05:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog licks foot, french bulldog licking feet
-  - [Bloodhound Information, Traits, & History | The Blissful Dog](https://theblissfuldog.com/blogs/news/bloodhound-this-nose-was-made-for-sniffing): Bloodhound Information, Traits, & History | The Blissful Dog
-    Updated: 2019-07-18T01:05:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: bloodhound, bloodhound dog of the day, bloodhound nose
-  - [SNIFF IT, SNIFF IT GOOD, SNIFF IT REAL GOOD | WHY DOG'S SNIFF BUTTS](https://theblissfuldog.com/blogs/news/sniff-it-sniff-it-good-sniff-it-real-good-why-dogs-sniff-butts)
-    Updated: 2019-07-18T01:05:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog phermones, dogs sniff butts, jacobsen's gland, why dogs sniff butts
-  - [THE BLISSFUL DOG OF THE DAY | AMERICAN BULLDOG](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-american-bulldog)
-    Updated: 2019-07-18T01:07:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: american bulldog, american bulldog history, american bulldog johnson
-  - [English Toy Spaniel Temperament & Dog Breed History](https://theblissfuldog.com/blogs/news/the-english-toy-spaniel-confidant-to-kings-and-queens): English Toy Spaniel Temperament & Dog Breed History
-    Updated: 2019-07-18T01:07:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: english toy spaniel, english toy spaniel dog, english toy spaniel history, king charles spaniel
-  - [PHILOSOPHICAL PONDERINGS AKA WHY DOGS EAT HORSE POO](https://theblissfuldog.com/blogs/news/philosophical-ponderings-aka-why-dogs-eat-horse-poo): PHILOSOPHICAL PONDERINGS AKA WHY DOGS EAT HORSE POO
-    Updated: 2022-09-23T13:49:03Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog eats horse manure, dogs eat horse poop, dogs eating cow poo, why dogs eat horse poo
-  - [PHILOSOPHICAL POO PONDERINGS | THE EXISTENTIAL DOG](https://theblissfuldog.com/blogs/news/philosophical-poo-ponderings-the-existential-dog): PHILOSOPHICAL POO PONDERINGS | THE EXISTENTIAL DOG
-    Updated: 2019-07-18T01:09:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog poops in house, existential dog, existentialism and dogs, philosophy of dog housetraining
-  - [PHILOSOPHICAL POO PONDERINGS | THE NIHILIST DOG](https://theblissfuldog.com/blogs/news/philosophical-poo-ponderings-the-nihilist-dog): PHILOSOPHICAL POO PONDERINGS | THE NIHILIST DOG
-    Updated: 2019-07-18T03:23:50Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog poops in house, nihilistic dog, nihilistic dog popps in house, nihilistic french bulldog, nihilistic pug
-  - [PHILOSOPHICAL POO PONDERINGS | THE SOLIPSISTIC DOG](https://theblissfuldog.com/blogs/news/philosophical-poo-ponderings-thesolipsistic-dog): PHILOSOPHICAL POO PONDERINGS | THE SOLIPSISTIC DOG
-    Updated: 2021-02-16T17:17:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog poops in house, solipsistic philosophy, so[ilistic dog
-  - [Why Dudeist Dogs Poop in the House, Man](https://theblissfuldog.com/blogs/news/philosophical-poo-ponderings-the-dudeist-dog): Why Dudeist Dogs Poop in the House, Man
-    Updated: 2020-11-01T16:35:53Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog poops in house, dudeism, dudes dog poops in house, duseism dog, the big lebowski, the dude abides
-  - [PHILOSOPHICAL POO PONDERINGS | THE UTILITARIANISM DOG](https://theblissfuldog.com/blogs/news/philosophical-poo-ponderings-the-utilitarianism-dog): PHILOSOPHICAL POO PONDERINGS | THE UTILITARIANISM DOG
-    Updated: 2020-11-01T16:36:48Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog poops in house, ends justifies means, john stuart mill, utilitarian dog
-  - [Paws Pampering](https://theblissfuldog.com/blogs/news/paws-pamperings)
-    Updated: 2020-11-01T16:38:57Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog paw care, dog paw care tips, dog paw pads, dog paw support, paw butter
-  - [Blissful Dog Balm Semantics](https://theblissfuldog.com/blogs/news/blissful-semantics)
-    Updated: 2021-08-12T23:18:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog  butter, dog balm, dog ointment, dog unguent, nose  butter
-  - [CANINE SUPERPOWER #1](https://theblissfuldog.com/blogs/news/canine-superpower-1)
-    Updated: 2020-11-01T16:46:38Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine superpower, dog nose power, dog superpower, dogs smell
-  - [It's OK To Go](https://theblissfuldog.com/blogs/news/its-ok-to-go)
-    Updated: 2020-11-01T16:47:21Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog euthanasia, dog passing away, french bulldog died, saying goodbye to dog
-  - [DUDE, WHERE'S MY CAR?](https://theblissfuldog.com/blogs/news/dude-wheres-my-car): DUDE, WHERE'S MY CAR?
-    Updated: 2020-11-01T16:48:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog travel tips, travel french bulldog, travel with frenchie, travel with pug, traveling with dog
-  - [The Blissful Dog of the Day | BRUSSELS GRIFFON](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-brussels-griffon)
-    Updated: 2020-11-01T16:55:54Z
-    Author: Kathy Dannel Vitcak
-    Tags: brussels griffon, smooth brussels griffon, spin city brussels griffon
-  - [The Blissful Dog | Free Dog Coloring Book](https://theblissfuldog.com/blogs/news/the-blissful-dog-dog-coloring-book)
-    Updated: 2020-11-01T16:57:06Z
-    Author: Kathy Dannel Vitcak
-    Tags: adult coloring, adult coloring book, dog coloring book, free dog coloring book, french bulldog coloring book, national coloring day
-  - [The Blissful Dog of the Day | The Bull Terrier](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-the-bull-terrier)
-    Updated: 2020-11-01T16:58:55Z
-    Author: Kathy Dannel Vitcak
-    Tags: bull terrier, bull terrier history, bull terrier ocd, spuds mckenzie, target dog
-  - [The Blissful Dog Review: Grace Before & After Nose Butter](https://theblissfuldog.com/blogs/news/before-after-nose-butter): The Blissful Dog Review: Grace Before & After Nose Butter
-    Updated: 2020-11-01T17:00:34Z
-    Author: Kathy Dannel Vitcak
-    Tags: before after nose butter mastiff, english mastiff dry nose, mastiff, mastiff nose butter
-  - [The Blissful Dog On The Road Again](https://theblissfuldog.com/blogs/news/the-blissful-dog-on-the-road)
-    Updated: 2020-11-01T17:01:55Z
-    Author: Kathy Dannel Vitcak
-    Tags: exhibiting at superzoom tips, packing for trade show, superzoo, trade shows
-  - [SENIOR DOG SUPPORT 4 QUICK TIPS](https://theblissfuldog.com/blogs/news/senior-dog-support-4-quick-tips): SENIOR DOG SUPPORT 4 QUICK TIPS
-    Updated: 2020-09-04T20:34:38Z
-    Author: Kathy Dannel Vitcak
-    Tags: aging dog, old dog, old dog grooming tips, senior dog care, senior poodle
-  - [Keeping Your Senior Dog Comfortable in Winter](https://theblissfuldog.com/blogs/news/keeping-your-senior-dog-comfortable): Keeping Your Senior Dog Comfortable in Winter
-    Updated: 2020-09-04T20:40:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: aging dog, old dog, old pug, senior dog care
-  - [The Blissful Dog Tip | Help Your Senior Dog Get a Grip](https://theblissfuldog.com/blogs/news/senior-dog-care-get-a-grip): The Blissful Dog Tip | Help Your Senior Dog Get a Grip
-    Updated: 2020-09-04T20:45:14Z
-    Author: Kathy Dannel Vitcak
-    Tags: aging dog, old dog, senior dog care
-  - [THE GAMEKEEPER'S DOG The Bullmastiff](https://theblissfuldog.com/blogs/news/the-gamekeepers-dog): THE GAMEKEEPER'S DOG The Bullmastiff
-    Updated: 2020-11-01T17:02:31Z
-    Author: Kathy Dannel Vitcak
-    Tags: bullmastiff, bullmastiff history, gamekeeper's dog
-  - [GENTLE TOUCH DOG SOAP](https://theblissfuldog.com/blogs/news/gentle-touch-dog-soap): GENTLE TOUCH DOG SOAP
-    Updated: 2020-11-01T17:08:08Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog soap, puppy soap
-  - [Poodle Rich Bitch Soap for Your Diva Dog](https://theblissfuldog.com/blogs/news/poodle-rich-bitch-soap): Poodle Rich Bitch Soap for Your Diva Dog
-    Updated: 2020-11-01T17:16:54Z
-    Author: Kathy Dannel Vitcak
-    Tags: poodle, rich bitch, rich bitch dog doap
-  - [Jonathan S. Foer | Dog Quote](https://theblissfuldog.com/blogs/news/jonathan-s-foer-dog-quote): Jonathan S. Foer | Dog Quote
-    Updated: 2019-07-18T03:30:49Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog quotes, eating animals, jonathan safaran foer, watching a dog be a dog
-  - [FREE 2017 CALENDAR](https://theblissfuldog.com/blogs/news/free-2017-calendar)
-    Updated: 2019-07-18T03:30:49Z
-    Author: Kathy Dannel Vitcak
-    Tags: free 2017 calendar, the blissful dog 2017 calendar
-  - [My Dog ASHES to ASHES OOPS! Story](https://theblissfuldog.com/blogs/news/ashes-to-ashes-oops): My Dog ASHES to ASHES OOPS! Story
-    Updated: 2019-07-18T01:11:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: ashes fail, ch jackpot! money money money, dog ashes, french bulldog ashes
-  - [BULLDOG COLLECTIBLES](https://theblissfuldog.com/blogs/news/bulldog-collectibles)
-    Updated: 2019-07-18T03:30:50Z
-    Author: Kathy Dannel Vitcak
-    Tags: bulldog collectibles, french bulldogs ebay
-  - [When Is It Too Cold Outside for Dogs? Some Guidelines](https://theblissfuldog.com/blogs/news/brrrrrr-when-is-it-too-cold-outside-for-dogs): When Is It Too Cold Outside for Dogs? Some Guidelines
-    Updated: 2020-08-01T16:40:08Z
-    Author: Kathy Dannel Vitcak
-    Tags: cold for dogs, cold weather dog, cold weather dog tips, too cold for dogs
-  - [DOGO ARGENTINO THE ARGENTINIAN MASTIFF](https://theblissfuldog.com/blogs/news/dogo-argentino-the-argentinian-mastiff): DOGO ARGENTINO THE ARGENTINIAN MASTIFF
-    Updated: 2019-07-18T03:31:58Z
-    Author: Kathy Dannel Vitcak
-    Tags: doggo argentino history, dogo argentino
-  - [Nova Scotia Duck Tolling Retriever Temperament & History](https://theblissfuldog.com/blogs/news/nova-scotia-duck-tolling-retriever): Nova Scotia Duck Tolling Retriever Temperament & History
-    Updated: 2019-07-18T01:09:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: canadian dogs, Nova Scotia Duck Tolling Retriever, Toller, Toller dog
-  - [FREE SHIPPING](https://theblissfuldog.com/blogs/news/free-shipping): FREE SHIPPING
-    Updated: 2019-07-18T01:09:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: free shipping, priority mail
-  - [WHY 100+ DOG BREED LABELS?](https://theblissfuldog.com/blogs/news/why-100-dog-breed-labels): WHY 100+ DOG BREED LABELS?
-    Updated: 2019-07-18T01:11:10Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine diversity, dog diversity
-  - [SO MANY DOG BREEDS...SO LITTLE TIME](https://theblissfuldog.com/blogs/news/so-many-dog-breeds-so-little-time): SO MANY DOG BREEDS...SO LITTLE TIME
-    Updated: 2019-07-18T01:13:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: akc, dog breeds, fci, how many dog breeds
-  - [NEEM OIL NATURE'S MULTI-FACETED GIFT](https://theblissfuldog.com/blogs/news/neem-oil-natures-multi-faceted-gift): NEEM OIL NATURE'S MULTI-FACETED GIFT
-    Updated: 2019-07-18T01:13:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: neem oil
-  - [JUST A DOG, I'M JUST A DOG....](https://theblissfuldog.com/blogs/news/just-a-dog-im-just-a-dog): JUST A DOG, I'M JUST A DOG....
-    Updated: 2019-07-18T01:13:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: JUST A DOG
-  - [NEVER GETS ANY EASIER](https://theblissfuldog.com/blogs/news/never-gets-any-easier)
-    Updated: 2019-07-18T01:19:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: great pyrenees, saying goodbye, zoe
-  - [JOURNEY THROUGH YOUR DOG'S CHAKRA SYSTEM](https://theblissfuldog.com/blogs/news/dog-chakras): JOURNEY THROUGH YOUR DOG'S CHAKRA SYSTEM
-    Updated: 2019-07-18T01:15:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras
-  - [YOUR DOG'S ROOT CHAKRA Center of Balance and Being Grounded](https://theblissfuldog.com/blogs/news/your-dogs-root-chakra): YOUR DOG'S ROOT CHAKRA Center of Balance and Being Grounded
-    Updated: 2019-07-18T01:15:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras, dog root chakra
-  - [YOUR DOG'S SACRAL CHAKRA](https://theblissfuldog.com/blogs/news/your-dogs-sacral-chakra): YOUR DOG'S SACRAL CHAKRA
-    Updated: 2019-07-18T01:15:12Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog chakra, dog chakras, dog sacral chakra
-  - [YOUR DOG'S SOLAR PLEXUS CHAKRA IS THE SOCIAL CENTER](https://theblissfuldog.com/blogs/news/your-dogs-solar-plexus-chakra): YOUR DOG'S SOLAR PLEXUS CHAKRA IS THE SOCIAL CENTER
-    Updated: 2019-07-18T01:17:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog chakra, dog chakras, dog sacral chakra
-  - [YOUR DOG'S HEART CHAKRA CENTER OF LOVE](https://theblissfuldog.com/blogs/news/your-dogs-heart-chakra): YOUR DOG'S HEART CHAKRA CENTER OF LOVE
-    Updated: 2019-07-18T01:17:11Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras, dog heart chakra
-  - [YOUR DOG'S THROAT CHAKRA COMMUNICATION CENTER](https://theblissfuldog.com/blogs/news/your-dogs-throat-chakra): YOUR DOG'S THROAT CHAKRA COMMUNICATION CENTER
-    Updated: 2019-07-18T01:17:10Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog chakra, dog chakras, dog throat chakra
-  - [YOUR DOG'S THIRD EYE CHAKRA CENTER OF SELF-AWARENESS](https://theblissfuldog.com/blogs/news/your-dogs-third-eye-chakra): YOUR DOG'S THIRD EYE CHAKRA CENTER OF SELF-AWARENESS
-    Updated: 2019-07-18T01:19:09Z
-    Author: Kathy Dannel Vitcak
-  - [YOUR DOG'S CROWN CHAKRA THE WISDOM CENTER](https://theblissfuldog.com/blogs/news/your-dogs-crown-chakra): YOUR DOG'S CROWN CHAKRA THE WISDOM CENTER
-    Updated: 2019-07-18T01:19:10Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras, dog crown chakra
-  - [YOUR DOG'S EAR CHAKRAS CENTER OF CONNECTION](https://theblissfuldog.com/blogs/news/your-dogs-ear-chakras): YOUR DOG'S EAR CHAKRAS CENTER OF CONNECTION
-    Updated: 2019-07-18T01:21:08Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras, dog ear chakras
-  - [YOUR DOG'S PAW CHAKRAS GROUNDED CONNECTION](https://theblissfuldog.com/blogs/news/your-dogs-paw-chakras): YOUR DOG'S PAW CHAKRAS GROUNDED CONNECTION
-    Updated: 2019-07-18T01:21:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: canine chakras, dog chakra, dog chakras, dog paw chkakras
-  - [YOUR DOG'S TAIL CHAKRA SUPPORTS COMMUNICATION](https://theblissfuldog.com/blogs/news/your-dogs-tail-chakra): YOUR DOG'S TAIL CHAKRA SUPPORTS COMMUNICATION
-    Updated: 2019-07-18T01:23:07Z
-    Author: Kathy Dannel Vitcak
-  - [YOUR DOG'S NOSE CHAKRA INFO GATHERING CENTER](https://theblissfuldog.com/blogs/news/your-dogs-nose-chakra): YOUR DOG'S NOSE CHAKRA INFO GATHERING CENTER
-    Updated: 2019-07-18T01:23:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog chakra, dog chakras, DOG NOSE CHAKRA
-  - [The Blissful Dog BUG OFF 3-STEP PLAN Soap, Spray & Balm for Your Dog](https://theblissfuldog.com/blogs/news/bug-off-collection-intro): The Blissful Dog BUG OFF 3-STEP PLAN Soap, Spray & Balm for Your Dog
-    Updated: 2019-07-18T01:21:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: bug off, insect repellant
-  - [THE 4TH OF JULY IS COMING!](https://theblissfuldog.com/blogs/news/the-4th-of-july-is-coming): <span>Ah, the 4th of July...the most dreaded of holidays for dog lovers here in the USA. While picnics, grilling outdoors and enjoying a frosty beverage are all part of the fun, fireworks can make a fun miserable for many dog parents.</span>
-    Updated: 2019-07-18T01:23:13Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog 4th of july.dog care 4th july, dog afraid fireworks, dogs scared fireworks
-  - [The Blissful Dog | TIPS FOR SURVIVING THE 4TH WITH AN ANXIOUS DOG](https://theblissfuldog.com/blogs/news/tips-for-surviving-the-4th-with-an-anxious-dog): The Blissful Dog | TIPS FOR SURVIVING THE 4TH WITH AN ANXIOUS DOG
-    Updated: 2019-07-18T01:25:07Z
-    Author: Kathy Dannel Vitcak
-  - [NOSE BUTTER MAKES YOUR DOG SMARTER...REALLY!](https://theblissfuldog.com/blogs/news/nose-butter-makes-your-dog-smarter-really): <p>Your Dog's Sense of Smell is Their #1 Method of Gathering Info</p>
-<ul>
-<li>A healthy, wet nose helps your dog get more info…</li>
-<li>NOSE BUTTER keeps your dog’s nose moist and healthy…</li>
-<li>So…NOSE BUTTER actually does make your dog smarter!</li>
-</ul>
-    Updated: 2019-07-18T01:25:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: DOG HAS DRY NOSE, DRY DOG NOSE, NASAL HYPERKERATOSIS
-  - [NOSE BUTTER - RESULTS ARE PHENOMENAL!](https://theblissfuldog.com/blogs/news/nose-butter-results-are-phenomenal)
-    Updated: 2019-07-18T01:25:15Z
-    Author: Kathy Dannel Vitcak
-  - [THE BLISSFUL DOG CHARITABLE MISSION HELPING ONE DOG](https://theblissfuldog.com/blogs/news/one-blissful-dog): <span>Isn't it frustrating and overwhelming to think about ALL the dogs that need help? The hungry dogs. The dogs who don't have a loving family, like your dog does. The dogs who were in the wrong place at the wrong time. I know it is for me.</span>
-    Updated: 2019-07-18T01:27:07Z
-    Author: Kathy Dannel Vitcak
-  - [101 Dalmatian Facts: Breed History & Traits | The Blissful Dog](https://theblissfuldog.com/blogs/news/101-cool-dalmatian-facts): 101 Dalmatian Facts: Breed History & Traits | The Blissful Dog
-    Updated: 2019-07-18T01:27:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: dalmatian, dalmatian faqs, dalmatian history, dalmatian info
-  - [SEEING SPOTS...](https://theblissfuldog.com/blogs/news/seeing-spots): <span>What do you think of when someone says, "DALMATIAN." Spots, of course! More so than any other dog breed, the Dalmatian is famous for their spots.</span>
-    Updated: 2019-07-18T01:27:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: dalmatian, dalmatian colors, dalmatian spots
-  - [WE WELCOME MIKALA TO OUR BLISSFUL TEAM](https://theblissfuldog.com/blogs/news/welcoming-mikala-to-our-blissful-team)
-    Updated: 2019-07-18T01:29:07Z
-    Author: Kathy Dannel Vitcak
-  - [African Basenji Dog: Temperament & Info | Barkless Dog Breeds](https://theblissfuldog.com/blogs/news/the-basenji-african-barkless-dog): African Basenji Dog: Temperament & Info | Barkless Dog Breeds
-    Updated: 2019-07-18T01:29:09Z
-    Author: Kathy Dannel Vitcak
-    Tags: BASENJI
-  - [WHAT ARE THE OLDEST PURE DOG BREEDS???](https://theblissfuldog.com/blogs/news/what-are-the-oldest-pure-dog-breeds): A dog breed resembling today's Alaskan Malamute was in existence 9000 years ago in Siberia.
-    Updated: 2019-07-18T01:29:09Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Places 2nd at 2017 UPS X-PORT CHALLENGE Great Plains](https://theblissfuldog.com/blogs/news/ups-x-port-challenge): The Blissful Dog Places 2nd at 2017 UPS X-PORT CHALLENGE Great Plains
-    Updated: 2019-07-18T01:31:08Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Staffordshire Bull Terrier Nose Butter Review](https://theblissfuldog.com/blogs/news/the-blissful-dog-french-bulldog-nose-butter-review-from-wilbur-1)
-    Updated: 2022-05-25T17:30:01Z
-    Author: Kathy Dannel Vitcak
-  - [Jack Russell Terrier? Parson Russell? Russell Terrier? What's in Name?](https://theblissfuldog.com/blogs/news/jack-russell-parson-russell-russell-terrier): Jack Russell Terrier? Parson Russell? Russell Terrier? What's in Name?
-    Updated: 2019-07-18T01:35:12Z
-    Author: Kathy Dannel Vitcak
-  - [Did You Know...Labrador Retrievers Do Not Come From Labrador!](https://theblissfuldog.com/blogs/news/did-you-know-labrador-retrievers-do-not-come-from-labrador): Did You Know...Labrador Retrievers Do Not Come From Labrador!
-    Updated: 2019-07-18T01:35:07Z
-    Author: Kathy Dannel Vitcak
-  - [A Bit of Neapolitan Mastiff History Truly THE Gladiator Dog](https://theblissfuldog.com/blogs/news/the-neapolitan-mastiff-truly-the-gladiator-dog): A Bit of Neapolitan Mastiff History Truly THE Gladiator Dog
-    Updated: 2019-07-18T01:35:07Z
-    Author: Kathy Dannel Vitcak
-  - [French Bulldog Dies In Overhead Bin on United Airlines](https://theblissfuldog.com/blogs/news/french-bulldog-dies-in-overhead-bin-on-united-airlines): <span>Yes, you read that appalling headline correctly. United Airline did it again and displayed the most appalling disregard for an animal's life and forced a distraught young mom to put her French Bulldog in the overhead bin.</span>
-    Updated: 2019-07-18T01:37:05Z
-    Author: Kathy Dannel Vitcak
-  - [Dachshunds Are Not One Size Fits All](https://theblissfuldog.com/blogs/news/dachshund-are-not-one-size-fits-all): Dachshunds Are Not One Size Fits All
-    Updated: 2019-07-18T01:37:06Z
-    Author: Kathy Dannel Vitcak
-  - [Is a Basenji the Right Dog For You?](https://theblissfuldog.com/blogs/news/is-a-basenji-the-right-dog-for-you): Is a Basenji the Right Dog For You?
-    Updated: 2019-07-18T01:37:04Z
-    Author: Kathy Dannel Vitcak
-  - [Tibetan Spaniel  No, Not A Pekingese, Not a Lhasa Apso, Not a Shih Tzu](https://theblissfuldog.com/blogs/news/the-tibetan-spaniel-no-not-a-pekingese-not-a-lhasa-apso-not-a-shih-tzu): Tibetan Spaniel  No, Not A Pekingese, Not a Lhasa Apso, Not a Shih Tzu
-    Updated: 2019-07-18T01:39:08Z
-    Author: Kathy Dannel Vitcak
-  - [The Tibetan Mastiff Guardian of the Tibetan Galaxy](https://theblissfuldog.com/blogs/news/the-tibetan-mastiff-guardian-of-the-tibetan-galaxy): The Tibetan Mastiff Guardian of the Tibetan Galaxy
-    Updated: 2023-03-04T17:59:44Z
-    Author: Kathy Dannel Vitcak
-  - [The Basenji - Is This Active, Intelligent Dog For You?](https://theblissfuldog.com/blogs/news/the-basenji-is-this-active-intelligent-dog-for-you)
-    Updated: 2020-08-03T14:43:58Z
-    Author: Kathy Dannel Vitcak
-  - [Puggle, Puggle, Puggle](https://theblissfuldog.com/blogs/news/puggle-puggle-puggle): <span>Puggles are a the result of breeding a Beagle and a pug. In theory you would get a small, short-coated dog with more energy than a Pug and less desire to sniff a trail than a Beagle.</span>
-    Updated: 2019-07-18T01:41:05Z
-    Author: Kathy Dannel Vitcak
-  - [Pekingese From Imperial Palace to Buckingham Palace](https://theblissfuldog.com/blogs/news/pekingese-from-imperial-palace-to-buckingham-palace): <span>Pekes look like someone ready to guffaw and heart laugh and they have a secret that is a wee bit naughty. </span>
-    Updated: 2019-07-18T01:41:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: pekingese
-  - [The Olde English Bulldogge History - The Realization of a Dream](https://theblissfuldog.com/blogs/news/the-olde-english-bulldogge-the-realization-of-a-dream): The Olde English Bulldogge History - The Realization of a Dream
-    Updated: 2019-07-18T01:43:06Z
-    Author: Kathy Dannel Vitcak
-  - [Rhodesian Ridgeback Breed History & Facts | The Blissful Dog](https://theblissfuldog.com/blogs/news/rhodesian-ridgeback-back-story): Rhodesian Ridgeback Breed History & Facts | The Blissful Dog
-    Updated: 2019-07-18T01:45:08Z
-    Author: Kathy Dannel Vitcak
-    Tags: rhodesian ridgebacl
-  - [Smoky The Yorkshire Terrier War Hero...All Four Pounds of Her!](https://theblissfuldog.com/blogs/news/smoky-the-yorkshire-terrier-war-hero-all-four-pounds-of-her): <p><span>Smoky brings new meaning to Shakespeare's often quoted phrase…</span></p>
-<blockquote>
-<h3><span><em>And though she be but little, she is fierce</em></span></h3>
-</blockquote>
-    Updated: 2019-07-18T01:39:07Z
-    Author: Ashley Hoffman
-  - [G-Rated Dog Bathing, Please!](https://theblissfuldog.com/blogs/news/g-rated-dog-bathing-please): <span>Many of you have asked for a more SFW version of Rich Bitch Dog Shampoo. S</span><span>everal of our wholesale customers request a family shopping friendly version </span><span>and we heard you!</span>
-    Updated: 2019-07-18T01:41:07Z
-    Author: Kathy Dannel Vitcak
-    Tags: chinese crested, chinese crested tattoo
-  - [Greyhounds Are So Much More Than FAST!](https://theblissfuldog.com/blogs/news/greyhounds-are-so-much-more-than-fast): Greyhounds Are So Much More Than FAST!
-    Updated: 2019-07-18T01:43:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: greyhound
-  - [Tell-Tail Signs of an Anxious Dog - From Stress Yawning to Stink-Eye](https://theblissfuldog.com/blogs/news/tell-tail-signs-your-dog-is-anxious): Tell-Tail Signs of an Anxious Dog - From Stress Yawning to Stink-Eye
-    Updated: 2019-07-18T01:43:06Z
-    Author: Kathy Dannel Vitcak
-  - [How Would You Like An Extra Hour? No H20 Waterless Dog Shampoo is How!](https://theblissfuldog.com/blogs/news/how-would-you-like-an-extra-hour): How Would You Like An Extra Hour? No H20 Waterless Dog Shampoo is How!
-    Updated: 2021-11-30T22:06:07Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog - 50 Things To Do With Your Dog In An Hour](https://theblissfuldog.com/blogs/news/50-things-to-do-with-your-dog-in-an-hour): The Blissful Dog - 50 Things To Do With Your Dog In An Hour
-    Updated: 2019-07-18T01:45:10Z
-    Author: Kathy Dannel Vitcak
-    Tags: things to do with your dog
-  - [Fila Brasileiro Big, Bold, Brazilian Beast of a Mastiff](https://theblissfuldog.com/blogs/news/fila-brasiliero-big-bold-brazilian): Fila Brasileiro Big, Bold, Brazilian Beast of a Mastiff
-    Updated: 2019-07-18T01:47:07Z
-    Author: Kathy Dannel Vitcak
-  - [Your Lab is NOT From Labrador - A Bit of Labrador Retriever History](https://theblissfuldog.com/blogs/news/your-labrador-retriever-is-not-from-labrador): Your Lab is NOT From Labrador - A Bit of Labrador Retriever History
-    Updated: 2019-07-18T01:47:05Z
-    Author: Kathy Dannel Vitcak
-  - [Tell Your Dog the 4th of July Is Coming, But It Is Gonna Be OK](https://theblissfuldog.com/blogs/news/your-dogs-least-favorite-day-of-the-year): Tell Your Dog the 4th of July Is Coming, But It Is Gonna Be OK
-    Updated: 2019-07-18T01:47:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Nose Butter DAB & DASH](https://theblissfuldog.com/blogs/news/the-nose-butter-dab-dash): The Nose Butter DAB & DASH
-    Updated: 2019-07-18T01:49:06Z
-    Author: Kathy Dannel Vitcak
-  - [Now You Can Easily See All The Blissful Dog Nose Butter Reviews](https://theblissfuldog.com/blogs/news/easily-see-all-dog-nose-butter-reviews): Now You Can Easily See All The Blissful Dog Nose Butter Reviews
-    Updated: 2019-07-18T01:49:05Z
-    Author: Kathy Dannel Vitcak
-  - [French Bulldog #1 UK Most Popular Dog Lab Slips to #2](https://theblissfuldog.com/blogs/news/french-bulldog-is-1-in-the-united-kingdom): French Bulldog #1 UK Most Popular Dog Lab Slips to #2
-    Updated: 2019-07-18T01:51:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Featured on High 50 Blog](https://theblissfuldog.com/blogs/news/the-blissful-dog-featured-on-high-50-blog): <span>As any entrepreneur knows, it is one of those "gotta do" things to have Google Alerts to let us know when our business is mentioned online. This morning I was delighted to have a Google Alert pop up. Of course, I clicked as fast as my not-enough caffeine yet self could.</span>
-    Updated: 2019-07-18T01:53:03Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day ~ Hope a Poodle Service Dog](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-hope): The Blissful Dog of the Day ~ Hope a Poodle Service Dog
-    Updated: 2019-07-18T01:53:04Z
-    Author: Kathy Dannel Vitcak
-  - [Sniffing Irresistible Three New Dog Cologne Options for Your Dog](https://theblissfuldog.com/blogs/news/sniffing-irresistible-new-dog-colognes): Sniffing Irresistible Three New Dog Cologne Options for Your Dog
-    Updated: 2019-07-18T01:55:02Z
-    Author: Kathy Dannel Vitcak
-  - [Ancient Egyptian Burial Site found with 8,000,000 Dog Mummies](https://theblissfuldog.com/blogs/news/ancient-egyptian-burial-site-found-with-8-000-000-dog-mummies): Ancient Egyptian Burial Site found with 8,000,000 Dog Mummies
-    Updated: 2019-07-18T01:55:04Z
-    Author: Kathy Dannel Vitcak
-  - [Chinese Shar-Pei Temperament & My Husband](https://theblissfuldog.com/blogs/news/chinese-shar-pei-temperament-my-husband): <span>The Chinese Shar-Pei is typical of many Asian dog breeds. Suspicious of strangers, but fiercely loyal when they decide someone is worthy of their trust. </span>
-    Updated: 2019-07-18T01:55:02Z
-    Author: Kathy Dannel Vitcak
-  - [Connecting With Veterinarians](https://theblissfuldog.com/blogs/news/connecting-with-veterinarians): <span>Dr. Deneen Fasano, whom we met at the American Holistic Veterinarian Conference in Columbus, Ohio, has her own aromatherapy line and busy blog. To our delight, she mentioned The Blissful Dog in a recent blog post...enjoy!</span>
-    Updated: 2019-07-18T01:57:01Z
-    Author: Kathy Dannel Vitcak
-  - [Year of the French Bulldog Calendar for 2019 Now Available](https://theblissfuldog.com/blogs/news/year-of-the-french-bulldog-calendar-for-2019-now-available): <span>Of course, your Frenchie would say that every year is the Year of the French Bulldog. And for those of us who are besotted with this breed, it definitely is! Now you can enjoy a new French Bulldog every month of 2019 with The Blissful Dog 2019 Year of the French Bulldog Calendar.</span>
-    Updated: 2019-07-18T01:57:01Z
-    Author: Kathy Dannel Vitcak
-    Tags: french bulldog, french bulldog calendar
-  - [How To Apply Nose Butter](https://theblissfuldog.com/blogs/news/how-to-apply-nose-butter)
-    Updated: 2019-07-18T01:59:02Z
-    Author: Kathy Dannel Vitcak
-  - [What Is Bliss? Friendship? Love? A Warm Puppy?](https://theblissfuldog.com/blogs/news/the-bliss-of-friendship): What Is Bliss? Friendship? Love? A Warm Puppy?
-    Updated: 2019-07-18T02:01:05Z
-    Author: Kathy Dannel Vitcak
-  - [Announcing The Blissful Dog Breeders Program](https://theblissfuldog.com/blogs/news/announcing-the-blissful-dog-breeders-program): Announcing The Blissful Dog Breeders Program
-    Updated: 2019-07-18T02:03:00Z
-    Author: Kathy Dannel Vitcak
-  - [Pug Nose Butter Review - Nose Butter Saved This Pug From Surgery!](https://theblissfuldog.com/blogs/news/nose-butter-saved-this-pug-from-surgery): Pug Nose Butter Review - Nose Butter Saved This Pug From Surgery!
-    Updated: 2019-07-18T02:03:01Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Dogue de Bordeaux Nose Butter Review](https://theblissfuldog.com/blogs/news/thank-you-for-a-product-that-is-not-just-hype): The Blissful Dog Dogue de Bordeaux Nose Butter Review
-    Updated: 2019-07-18T02:03:00Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Sniffing Irresistible Dog Colognes 3 Signature Scents](https://theblissfuldog.com/blogs/news/sniffing-irresistible-dog-colognes): The Blissful Dog Sniffing Irresistible Dog Colognes 3 Signature Scents
-    Updated: 2019-07-18T02:05:01Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Shipping Rates New Lower FREE Shipping Threshold](https://theblissfuldog.com/blogs/news/new-free-shipping-rates): The Blissful Dog Shipping Rates New Lower FREE Shipping Threshold
-    Updated: 2019-07-18T02:05:00Z
-    Author: Kathy Dannel Vitcak
-  - [French Bulldog Dry Nose Info Compilation](https://theblissfuldog.com/blogs/news/french-bulldog-nose-butter-compilation): French Bulldog Dry Nose Info Compilation
-    Updated: 2019-07-18T02:05:01Z
-    Author: Kathy Dannel Vitcak
-  - [Discover Your Inner Dog QUIZ](https://theblissfuldog.com/blogs/news/discover-your-inner-dog-quiz): Discover Your Inner Dog QUIZ
-    Updated: 2019-07-18T02:06:59Z
-    Author: Kathy Dannel Vitcak
-  - [How To Clean Your Bulldog's Face](https://theblissfuldog.com/blogs/news/how-to-clean-your-flat-faced-dogs-face): How To Clean Your Bulldog's Face
-    Updated: 2019-07-18T02:06:59Z
-    Author: Kathy Dannel Vitcak
-  - [Canine Self-Actualization Your Dog's Hierarchy of Needs](https://theblissfuldog.com/blogs/news/canine-hierarchy-of-needs): Canine Self-Actualization Your Dog's Hierarchy of Needs
-    Updated: 2019-07-18T02:06:59Z
-    Author: Kathy Dannel Vitcak
-  - [Evaluate Your Dog's Wellness with Our Dog Quality of Life Chart](https://theblissfuldog.com/blogs/news/your-dog-quality-of-life): Evaluate Your Dog's Wellness with Our Dog Quality of Life Chart
-    Updated: 2019-07-18T02:08:00Z
-    Author: Kathy Dannel Vitcak
-  - [Brows The Most Blissful Berner is The Blissful Dog of the Day](https://theblissfuldog.com/blogs/news/brows): <span>Brows generously took time out of his Berner day to share a bit of what makes Brows so Berner bodacious. We're very grateful Melissa was kind enough to share Brows story, as Brows was occupied with a cookie on his nose. Grab a cup of tea and get to know Brows.</span>
-    Updated: 2019-07-18T02:08:00Z
-    Author: Kathy Dannel Vitcak
-  - [A Doubly Blissful Dog of the Day Kinda Day! Jammer & Eli!](https://theblissfuldog.com/blogs/news/eli-jammer): <p><strong>The Blissful Dog of the Day Duo Eli &amp; Jammer!</strong></p>
-<p><strong>The Blissful Dog:</strong> We got lucky today with not one, but TWO, Blissful Dogs for today.</p>
-    Updated: 2019-07-18T02:08:00Z
-    Author: Kathy Dannel Vitcak
-  - [Hugo Von Ulysses - The Blissful Dog of the Day December 28, 2018](https://theblissfuldog.com/blogs/news/hugo-von-ulysses): <span>Today we are honored to chat with Hugo Von Ulysses, as our most esteemed Blissful Dog of the Day. His odyssey is a fascinating one and he truly lives up to his name.</span>
-    Updated: 2019-07-18T02:10:05Z
-    Author: Kathy Dannel Vitcak
-  - [Simply Everything Fresh Deodorizing Spray For the Stinkiest of Stinks](https://theblissfuldog.com/blogs/news/eliminate-the-stinkiest-of-stinks-with-simply-fresh-deodorizing-spray): Simply Everything Fresh Deodorizing Spray For the Stinkiest of Stinks
-    Updated: 2019-07-18T02:10:01Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day is a Cat! Meet Caysee the Blissful Cat!](https://theblissfuldog.com/blogs/news/caysee): The Blissful Dog of the Day is a Cat! Meet Caysee the Blissful Cat!
-    Updated: 2019-07-18T02:10:08Z
-    Author: Kathy Dannel Vitcak
-  - [Foster Frenchie Shows Off His New Nose](https://theblissfuldog.com/blogs/news/foster-frenchie-shows-off-his-new-nose): <h2><span>2019 Is Off TO A Great Start!</span></h2>
-<p><span>One of our customers posted this on Facebook... </span><span>"Amazing! I am fostering a dog from the SPCA and Nose Butter healed him in 4 days! N.A."</span></p>
-    Updated: 2019-07-18T02:12:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day ~ Ari Mays](https://theblissfuldog.com/blogs/news/ari): <strong>The Blissful Dog:</strong><span> Today we are honored to have a most elegant Pomeranian, Ari Mays, as The Blissful Dog of the Day.</span>
-    Updated: 2019-07-18T02:12:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Of The Day - Marna - Guide Dog & Best Friend](https://theblissfuldog.com/blogs/news/marna): The Blissful Dog Of The Day - Marna - Guide Dog & Best Friend
-    Updated: 2019-07-18T02:12:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day Rocket](https://theblissfuldog.com/blogs/news/rocket): The Blissful Dog of the Day Rocket
-    Updated: 2019-07-18T02:14:01Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day is Scout](https://theblissfuldog.com/blogs/news/scout): <h2>Scout is The Blissful Dog of the Day</h2>
-<p>January 28, 2019 - Today's Blissful Dog of the Day is Scout, a loyal and dependable German Shepherd who does his best to protect and serve his family.</p>
-    Updated: 2019-07-18T02:14:03Z
-    Author: Kathy Dannel Vitcak
-  - [Now THAT'S Cold](https://theblissfuldog.com/blogs/news/now-thats-cold): <span>Every dog related website will be saying this, but we gotta chime in. This cold snap is a BRUTALLY cold one. Any outside dogs need to be inside. Period. </span>
-    Updated: 2019-07-18T02:14:01Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day - Ryder](https://theblissfuldog.com/blogs/news/ryder): <h2>The Blissful Dog of the Day - RYDER</h2>
-<p>Today's Blissful Dog of the Day has a very unique story. She is one of those who is able to see/know what needs to be done...and just does it. Keep reading and be ready for the last two questions....</p>
-    Updated: 2019-07-18T02:16:05Z
-    Author: Kathy Dannel Vitcak
-  - [Week 2 Take Your Dog For a Ride!](https://theblissfuldog.com/blogs/news/week-2-take-your-dog-for-a-ride): <span>Not that the frigid temps are behind us, you can shake off the cabin fever and take your dog for a ride.* Throw a couple of extra blankets in the car, just in case, and head out on the highway! </span>
-    Updated: 2019-07-18T02:16:04Z
-    Author: Kathy Dannel Vitcak
-  - [Week 3 Go For A Walk](https://theblissfuldog.com/blogs/news/week-3-go-for-a-walk): <h2>A Year of Bliss With Your Dog Week 3 - Go For A Walk</h2>
-<p>For many in the northern hemisphere, it will be an unusually chilly walk. For those of us who are more acclimated to winter weather it is just another science fiction cold day. </p>
-    Updated: 2019-07-18T02:16:10Z
-    Author: Kathy Dannel Vitcak
-  - [Ska∂I Wants A Graham Cracker](https://theblissfuldog.com/blogs/news/ska-i-wants-a-graham-cracker): Ska∂I has developed quite the fondness for graham crackers…honey, cinnamon, she has no preference. All Ska∂I cares about is that sweet, sweet graham cracker goodness.
-    Updated: 2019-07-18T02:18:05Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day - Chloe](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-chloe): <p class="freebirdFormviewerViewItemsItemItemTitle exportItemTitle freebirdCustomFont" dir="auto" role="heading" aria-level="2" aria-describedby="i.desc.855957383">Y'all are in for a treat today! We are honored and delighted to present none other than Chloe or The Royal Princess Chloe Anne.</p>
-<div class="freebirdFormviewerViewItemsItemItemTitle exportItemTitle freebirdCustomFont" dir="auto" role="heading" aria-level="2" aria-describedby="i.desc.855957383">
-<strong>The Blissful Dog:</strong> May we refer to her in the familiar?</div>
-<div class="freebirdFormviewerViewItemsItemItemTitle exportItemTitle freebirdCustomFont" dir="auto" role="heading" aria-level="2" aria-describedby="i.desc.855957383"></div>
-<div class="freebirdFormviewerViewItemsItemItemTitle exportItemTitle freebirdCustomFont" dir="auto" role="heading" aria-level="2" aria-describedby="i.desc.855957383">
-<strong>C.M. (Chloe's Mom):</strong> Yes, you may, she is putting protocol aside to allow an inside peek at her life.</div>
-    Updated: 2019-07-18T02:18:08Z
-    Author: Kathy Dannel Vitcak
-  - [New Logo Look, Same Blissful Dog](https://theblissfuldog.com/blogs/news/new-look-same-blissful-dog): New Logo Look, Same Blissful Dog
-    Updated: 2019-07-18T02:18:07Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day is Rosie](https://theblissfuldog.com/blogs/news/rosie): <p><strong>Rosie Is One of the Most Blissful of Boxers... </strong></p>
-<p>The Blissful Dog of the Day is none other than ROSIE! Otherwise known as Rosie Bella Wise. We are honored to be able to call her Rosie. </p>
-    Updated: 2019-07-18T02:20:09Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day - Major Payne](https://theblissfuldog.com/blogs/news/major-payne): <p><strong>ATTENTION - Presenting The Blissful Dog of the Day Major Payne</strong></p>
-<p><span>Major Payne is today's honoree of The Blissful Dog of the Day. He's taken time from his busy schedule of guarding his property from any squirrel attacks to be our Blissful Dog of the Day. </span></p>
-    Updated: 2019-07-18T02:20:09Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day Lexi](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-lexi): <h2><span>The Blissful Dog of the Day...LEXI</span></h2>
-<p><span>Today we are honored to announce Lexi has been anointed The Blissful Dog of the Day. Lexi is one photogenic French Bulldog who has won the heart of her family (and ours).</span></p>
-    Updated: 2019-07-18T02:20:08Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog of the Day is Mercie a Brussels Griffon](https://theblissfuldog.com/blogs/news/the-blissful-dog-of-the-day-is-mercie): The Blissful Dog of the Day is Mercie a Brussels Griffon
-    Updated: 2019-07-18T02:22:04Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Friday Freebie Pup Basket](https://theblissfuldog.com/blogs/news/the-blissful-dog-friday-freebie-pup-basket)
-    Updated: 2019-07-18T02:22:05Z
-    Author: Kathy Dannel Vitcak
-  - [Happy Mother of Dogs Day](https://theblissfuldog.com/blogs/news/happy-mother-of-dogs-day): Happy Mother of Dogs Day
-    Updated: 2019-07-18T02:22:05Z
-    Author: Kathy Dannel Vitcak
-  - [Respect the Pugness aka Pug Summer Care](https://theblissfuldog.com/blogs/news/respect-the-pugness): Respect the Pugness aka Pug Summer Care
-    Updated: 2019-07-18T02:24:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: pug
-  - [Why Do Fireworks Terrify Dogs? Is Your Dog Afraid of Fireworks?](https://theblissfuldog.com/blogs/news/why-are-fireworks-such-a-trigger-for-so-many-dogs): Why Do Fireworks Terrify Dogs? Is Your Dog Afraid of Fireworks?
-    Updated: 2019-07-18T02:24:05Z
-    Author: Kathy Dannel Vitcak
-  - [Kuvasz Dog History - Ancient Ku Assa Dog of Hungary](https://theblissfuldog.com/blogs/news/the-kuvasz): Kuvasz Dog History - Ancient Ku Assa Dog of Hungary
-    Updated: 2019-07-18T02:24:05Z
-    Author: Kathy Dannel Vitcak
-    Tags: kuvasz
-  - [The Mac Talks...About Boston Terrier Nose Butter](https://theblissfuldog.com/blogs/news/the-mac-talks-about-boston-terrier-nose-butter): The Mac Talks...About Boston Terrier Nose Butter
-    Updated: 2019-07-27T00:52:42Z
-    Author: Kathy Dannel Vitcak
-  - [The Dude Abides and Always Will](https://theblissfuldog.com/blogs/news/the-dude-does-abide-and-always-will): The Dude Abides and Always Will
-    Updated: 2019-08-04T00:52:44Z
-    Author: Kathy Dannel Vitcak
-  - [Glamping With Dogs | Yes, You Can Now Take Your Dog on a Posh Holiday](https://theblissfuldog.com/blogs/news/glamping-with-your-dog): Glamping With Dogs | Yes, You Can Now Take Your Dog on a Posh Holiday
-    Updated: 2019-08-21T00:51:45Z
-    Author: Kathy Dannel Vitcak
-  - [I Was Honored To Be Interviewed For This Series by Gretchen Westerhoff](https://theblissfuldog.com/blogs/news/i-was-honored-to-be-interviewed-for-this-series): I Was Honored To Be Interviewed For This Series by Gretchen Westerhoff
-    Updated: 2019-09-03T22:33:18Z
-    Author: Kathy Dannel Vitcak
-  - [Meet Larccán - Our Newest Smooth Brussels Griffon Blissful Buddy](https://theblissfuldog.com/blogs/news/meet-larccan-our-newest-blissful-buddy): Meet Larccán - Our Newest Smooth Brussels Griffon Blissful Buddy
-    Updated: 2019-08-31T00:51:47Z
-    Author: Kathy Dannel Vitcak
-  - [Larccán & The Floofers](https://theblissfuldog.com/blogs/news/larccan-the-floofers): Larccan and the Floofers!
-    Updated: 2019-10-03T18:50:52Z
-    Author: Kathy Dannel Vitcak
-  - [Costume Tips for a Fun Halloween for You and Your Dog](https://theblissfuldog.com/blogs/news/costume-tips-for-a-fun-halloween-for-you-and-your-dog): <span>#1 – If your dog absolutely HATES being dressed up, don't make them. Take one picture and take it off of them. Tell people your dog's a selfie magnet and invite them to snap a pic with them.</span>
-    Updated: 2019-10-24T19:09:19Z
-    Author: Kathy Dannel Vitcak
-  - [Chocolate and Dogs - How Much Is REALLY Too Much for Dogs?](https://theblissfuldog.com/blogs/news/chocolate-how-much-is-really-too-much-for-dogs): Chocolate and Dogs - How Much Is REALLY Too Much for Dogs?
-    Updated: 2019-10-24T13:30:00Z
-    Author: Kathy Dannel Vitcak
-  - [Fresh Flat Face Wash - No More Funky Faces](https://theblissfuldog.com/blogs/news/fresh-flat-face-wash-no-more-funky-faces)
-    Updated: 2019-12-16T17:46:39Z
-    Author: Kathy Dannel Vitcak
-  - [Have a Blissful Holiday Season!](https://theblissfuldog.com/blogs/news/have-a-blissful-holiday-season): Snag our Blissful Holiday Greetings and heave a sigh of relief!
-    Updated: 2019-12-19T22:07:12Z
-    Author: Kathy Dannel Vitcak
-  - [Be In the Know About Your Dog's Nose](https://theblissfuldog.com/blogs/news/be-in-the-know-about-your-dogs-nose): <meta charset="utf-8">
-<p><strong>You, Too, Can Be the Dog Nose Knows Smell Master</strong></p>
-<p>Astound Your Friends and Co-workers With These Nuggets of Info</p>
-<ul>
-<li>Your dog’s sense of smell is their #1 method of info gathering</li>
-<li>Your dog’s olfactory smell center is 40x bigger than yours </li>
-</ul>
-    Updated: 2020-04-07T17:51:56Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Won #9 on Brandable Boxes Environmental Leaderboard](https://theblissfuldog.com/blogs/news/the-blissful-dog-awarded-9-spot-on-brandable-boxs-environmental-leaderboard): The Blissful Dog Won #9 on Brandable Boxes Environmental Leaderboard
-    Updated: 2020-04-07T17:47:21Z
-    Author: Kathy Dannel Vitcak
-    Tags: brand able boxes, brandable boxes
-  - [Be a Nose Butter Ninja](https://theblissfuldog.com/blogs/news/be-a-nose-butter-ninja): <span>Some dogs could care less what you do to them. Those are the dogs you see on Instagram dressed as Marie Antoinette for Halloween. And then there are those who do NOT want to be messed with. You know the ones.</span>
-    Updated: 2020-01-27T23:28:52Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Valentine Day Card Download is Here!](https://theblissfuldog.com/blogs/news/happy-valentines-day-2020): The Blissful Dog Valentine Day Card Download is Here!
-    Updated: 2020-02-07T17:34:04Z
-    Author: Kathy Dannel Vitcak
-  - [WOWZA! Nose Butter Is Best!](https://theblissfuldog.com/blogs/news/wowza-this-product-is-the-best): <meta charset="utf-8"><span>When I adopted my French Bulldog she had quite a few issues, one being her nose was crusty &amp; dry and ...</span>
-    Updated: 2020-07-22T18:50:35Z
-    Author: Kathy Dannel Vitcak
-  - [Have Used for YEARS!](https://theblissfuldog.com/blogs/news/american-bulldog-nose-butter-review): <meta charset="utf-8"><span>Have brought this product a few times over the years and I’m literally still amazed at how quickly it works...</span>
-    Updated: 2020-08-03T14:39:35Z
-    Author: Kathy Dannel Vitcak
-  - [I Can See a BIG Difference](https://theblissfuldog.com/blogs/news/french-bulldog-nose-butter): <meta charset="utf-8"><span>I have been using it for 3 days now and it really works. I can see a big difference in Boe’s nose and ...</span>
-    Updated: 2020-08-03T14:39:18Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog | French Bulldog Nose Butter Outstanding Product!!](https://theblissfuldog.com/blogs/news/outstanding-product): The Blissful Dog | French Bulldog Nose Butter Outstanding Product!!
-    Updated: 2020-08-03T14:32:53Z
-    Author: Kathy Dannel Vitcak
-  - [Nose Looks Amazing!](https://theblissfuldog.com/blogs/news/staffy-bull-nose-butter-i-highly-recommend-the-blissful-dog-products): <span>I ordered the Nose Butter, received it yesterday, I have applied it on his nose 3 times and already the dry skin is coming off and his nose looks amazing...</span>
-    Updated: 2020-07-22T18:55:25Z
-    Author: Kathy Dannel Vitcak
-  - [Nose Butter Works Wonders](https://theblissfuldog.com/blogs/news/nose-butter-amazing-product-that-works-wonders): <span>Our dog Winter developed a bad case of hyperkeratosis over the past year or so. The Blissful Dog's Nose Butter helped heal the large layer of crust over her nose within a week...</span>
-    Updated: 2020-07-22T18:56:08Z
-    Author: Kathy Dannel Vitcak
-  - [Thank You, Blissful Dog!](https://theblissfuldog.com/blogs/news/pomeranian-nose-butter-you-have-to-try-it-to-believe-it): <p>You have to try it, to believe it! Our 6-year old Pom’s nose was flaking &amp; rough...</p>
-    Updated: 2020-07-22T18:43:57Z
-    Author: Kathy Dannel Vitcak
-  - [We 💕Frenchie Nose Butter!](https://theblissfuldog.com/blogs/news/frenchie-nose-butter-loved-nose-butter): <span>Our girls nose was better after just one use! We love the Nose Butter!  </span><span>💕🐾</span>
-    Updated: 2020-07-22T18:57:48Z
-    Author: Kathy Dannel Vitcak
-  - [Wonderful stuff, thank you!](https://theblissfuldog.com/blogs/news/st-bernard-nose-butter-wonderful-stuff-thank-you): <p>After 5 days of applying it twice a day just see the difference!....</p>
-    Updated: 2022-05-24T18:00:01Z
-    Author: Kathy Dannel Vitcak
-  - [Wrigley Before & After](https://theblissfuldog.com/blogs/news/cocker-spaniel-nose-butter-wrigley-before-after): <span>Our Cocker Spaniel has had an issue with cocker nose for awhile, and we decided to try The Blissful Dog Nose Butter.</span>
-    Updated: 2020-07-22T18:54:10Z
-    Author: Kathy Dannel Vitcak
-  - [Improvements Every Day!](https://theblissfuldog.com/blogs/news/french-bulldog-nose-butter-improvements-every-day): <span>French Bulldog Nose Butter is certainly helping. Improvements every day...</span>
-    Updated: 2020-07-22T18:50:08Z
-    Author: Kathy Dannel Vitcak
-  - [Boxer Combo Review](https://theblissfuldog.com/blogs/news/boxer-combo-review): <span>Boxer Heaven - </span><span>She plays more now and runs faster thank you!</span>
-    Updated: 2020-08-29T18:46:20Z
-    Author: Kathy Dannel Vitcak
-  - [Bullmastiff Nose Butter Is Amazing!](https://theblissfuldog.com/blogs/news/bullmastiff-nose-butter-is-amazing): <span>Using this product 3x daily for the first week, we noticed an incredible difference in the texture and color...</span>
-    Updated: 2020-08-29T18:29:50Z
-    Author: Kathy Dannel Vitcak
-  - [Moe Is Giddy Over Nose Butter](https://theblissfuldog.com/blogs/news/moe-is-giddy): Moe Is Giddy Over Nose Butter
-    Updated: 2020-08-29T18:38:07Z
-    Author: Kathy Dannel Vitcak
-  - [Malamute Nose Butter 👍](https://theblissfuldog.com/blogs/news/malamute-nose-butter): <span>Malamute Nose Butter is working well on his nose so far. Better than anything else we have tried.</span>
-    Updated: 2020-08-29T18:42:25Z
-    Author: Kathy Dannel Vitcak
-  - [REVIEW The Blissful Dog Poodle Nose Butter Works!](https://theblissfuldog.com/blogs/news/surprise-poodle-nose-butter-works): REVIEW The Blissful Dog Poodle Nose Butter Works!
-    Updated: 2020-08-29T19:01:13Z
-    Author: Kathy Dannel Vitcak
-  - [Elbow Butter Is Good Stuff!](https://theblissfuldog.com/blogs/news/elbow-butter-is-good-stuff): <span>Blue had really bad </span><span>calluses.</span><span class="Apple-converted-space"> </span><span>I waited too long before I bought something, but it works. I've seen </span><span>improvements daily. </span>
-    Updated: 2020-08-29T18:58:10Z
-    Author: Kathy Dannel Vitcak
-  - [Review for The Blissful Dog Pug Nose Butter | One Happy Pug Nose](https://theblissfuldog.com/blogs/news/one-happy-pug-nose): Review for The Blissful Dog Pug Nose Butter | One Happy Pug Nose
-    Updated: 2020-08-29T18:28:41Z
-    Author: Kathy Dannel Vitcak
-  - [Bella, the Boston, Has a Happy Nose](https://theblissfuldog.com/blogs/news/bella-the-boston-has-a-happy-nose): <span>Great product! Turns a dry, cracked nose into a soft, supple one! :) and a very comfortable Bella!</span>
-    Updated: 2020-08-29T18:21:52Z
-    Author: Kathy Dannel Vitcak
-  - [American Staffordshire Bull Terrier Nose Butter](https://theblissfuldog.com/blogs/news/american-staffordshire-bull-terrier-nose-butter): <span>Amazing product look at the difference in just two weeks!...</span>
-    Updated: 2020-08-29T18:21:23Z
-    Author: Kathy Dannel Vitcak
-  - [Review Bug Off French Bulldog | Awesome Products!](https://theblissfuldog.com/blogs/news/awesome-products): Review Bug Off French Bulldog | Awesome Products!
-    Updated: 2020-08-29T18:20:49Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Review | Flawless Finish Dog Coat Conditioner](https://theblissfuldog.com/blogs/news/flawless-finish-dog-coat-conditioner): The Blissful Dog Review | Flawless Finish Dog Coat Conditioner
-    Updated: 2020-08-29T18:59:53Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Review | Boxer Nose Made It Better](https://theblissfuldog.com/blogs/news/boxer-nose-made-it-better): The Blissful Dog Review | Boxer Nose Made It Better
-    Updated: 2020-08-29T18:12:29Z
-    Author: Kathy Dannel Vitcak
-  - [Crusty Pug Nose no more](https://theblissfuldog.com/blogs/news/crusty-pug-nose-no-more): <span>Crusty Pug nose no more. </span><span>My Pug lets me put this on her nose and comes to me when she sees it. </span>
-    Updated: 2020-08-29T18:15:02Z
-    Author: Kathy Dannel Vitcak
-  - [Nose Butter Review | Pooga's Dry Nose After Two Days](https://theblissfuldog.com/blogs/news/poogas-dry-nose-after-two-days): <span>I HIGHLY recommend this to anyone who has flat-face dogs or dogs with dry noses! I'd done everything for my little Pooga's dry, scaley itchy nose from coconut oil...</span>
-    Updated: 2020-10-27T18:34:56Z
-    Author: Kathy Dannel Vitcak
-  - [Fixing the Shih-Tzu Shakes | Review for Relax Dog Aromatherapy](https://theblissfuldog.com/blogs/news/fixing-the-shih-tzu-shakes): Fixing the Shih-Tzu Shakes | Review for Relax Dog Aromatherapy
-    Updated: 2020-10-27T18:38:43Z
-    Author: Kathy Dannel Vitcak
-  - [Review for Bulldog Nose Butter | Only the Best for Duchess](https://theblissfuldog.com/blogs/news/review-for-bulldog-nose-butter-only-the-best-for-duchess): Review for Bulldog Nose Butter | Only the Best for Duchess
-    Updated: 2020-10-27T18:34:33Z
-    Author: Kathy Dannel Vitcak
-  - [WOW! WOW! WOW! | Labrador Retriever Nose Butter](https://theblissfuldog.com/blogs/news/wow-wow-wow): WOW! WOW! WOW! | Labrador Retriever Nose Butter
-    Updated: 2020-10-27T18:34:11Z
-    Author: Kathy Dannel Vitcak
-  - [Chihuahua Nose Butter Review | Pretty Nose is Back](https://theblissfuldog.com/blogs/news/review-chihuahua-nose-butter-pretty-nose-is-back): <span>After taking my dog to the vet for a dental, I noticed a week later she had a crusty nose. I had never seen this before...</span>
-    Updated: 2020-10-27T18:38:21Z
-    Author: Kathy Dannel Vitcak
-  - [Boxer Nose Butter Review | Love the Nose Butter!!!](https://theblissfuldog.com/blogs/news/review-for-boxer-nose-butter-love-the-nose-butter): <span>Gucci doesn’t like it, but he doesn’t like his nose touched. It really worked. His nose was like “spiky”, now all the spikes are gone.</span>
-    Updated: 2020-10-27T18:33:43Z
-    Author: Kathy Dannel Vitcak
-  - [Bye Bye Boo Boo Shampoo Review | Bye Bye Itchies](https://theblissfuldog.com/blogs/news/bye-bye-boo-boo-shampoo-review-bye-bye-itchies): <span>Very pleased with Bye Bye Boo Boo shampoo.After just one wash, no more licking! </span>
-    Updated: 2020-12-27T22:17:03Z
-    Author: Kathy Dannel Vitcak
-  - [Pomeranian Nose Butter Review | My Little Bundle of Joy](https://theblissfuldog.com/blogs/news/pomeranian-nose-butter-review-my-little-bundle-of-joy): <span>I used the Pomeranian Nose Butter on my little bundle of joy. Was skeptical but the Nose Butter did clear up her dry crusty nose...</span>
-    Updated: 2020-10-27T18:35:18Z
-    Author: Kathy Dannel Vitcak
-  - [Boo Boo Butter Review | Koko Is Happy!](https://theblissfuldog.com/blogs/news/boo-boo-butter-review-koko-is-happy): <span>My Rottweiler “Koko” is happy and if she is happy, I am.  I started using the Boo Boo butter on a couple of scrapes on her rear right leg at the knee level...</span>
-    Updated: 2020-12-27T22:40:34Z
-    Author: Kathy Dannel Vitcak
-  - [Age Well Aromatherapy Review | Puffo the Gentleman](https://theblissfuldog.com/blogs/news/age-well-aromatherapy-review-puffo-the-gentleman): <span>Puffo is 13-years old and started the Schnauzer Age Well Dog Aromatherapy last week.  He is getting better so far...</span>
-    Updated: 2020-10-27T18:37:35Z
-    Author: Kathy Dannel Vitcak
-  - [Bug Off Spray Review | Be Off Bugs!](https://theblissfuldog.com/blogs/news/bug-off-spray-review-be-off-bugs): <span>Living in the South means bugs are a bother!! The </span><strong><a href="/collections/bug-off-collection" title="BUG OFF">Bug Off Spray</a></strong><span> dabbed around my chin and ears means I don’t get bothered at all!!!</span>
-    Updated: 2020-12-27T22:47:18Z
-    Author: Kathy Dannel Vitcak
-  - [My Pup Loves Relax!](https://theblissfuldog.com/blogs/news/my-pup-loves-relax): <meta charset="UTF-8"><span>It's my second purchase of Relax Roll-on and my pup loves it! </span>
-    Updated: 2020-12-27T22:41:55Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog aromatherapy, pomeranian
-  - [Scottish Terrier Boo Boo Butter | Excellent!](https://theblissfuldog.com/blogs/news/scottish-terrier-boo-boo-butter-excellent): <meta charset="UTF-8"><span>Excellent! </span><span>my Scotties are very happy!</span>
-    Updated: 2022-05-12T16:50:29Z
-    Author: Kathy Dannel Vitcak
-    Tags: boo boo butter, scottish terrier
-  - [Chinese Shar-Pei Nose Butter | Over the Moon](https://theblissfuldog.com/blogs/news/chinese-shar-pei-nose-butter-over-the-moon): <meta charset="UTF-8"><span>Over the moon! </span><span>Boris had a huge mountain of nose crust a few days ago!! </span>
-    Updated: 2022-05-12T16:54:52Z
-    Author: Kathy Dannel Vitcak
-  - [American Staffordshire Terrier Nose Butter | WOW!](https://theblissfuldog.com/blogs/news/american-staffordshire-terrier-nose-butter-wow): <meta charset="UTF-8"><span>All I can say is WOW. Her nose is better and I think she can smell better!</span>
-    Updated: 2022-05-12T17:11:15Z
-    Author: Kathy Dannel Vitcak
-  - [Tibetan Terrier Relax Aromatherapy = Happiness!](https://theblissfuldog.com/blogs/news/tibetan-terrier-relax-aromatherapy-_-happiness): <meta charset="UTF-8"><strong>Happiness</strong><span>! </span><span>Dolly and I both love your products.</span>
-    Updated: 2022-05-26T17:30:00Z
-    Author: Kathy Dannel Vitcak
-  - [Elbow Butter Review](https://theblissfuldog.com/blogs/news/elbow-butter-i-cant-believe-this-product): <span>This is an amazing product. Would buy again.</span>
-    Updated: 2022-05-12T17:21:16Z
-    Author: Kathy Dannel Vitcak
-  - [Elbow Butter | Elbow Saver!](https://theblissfuldog.com/blogs/news/elbow-butter-elbow-saver): <meta charset="UTF-8"><span>Elbow Saver! My dog has been scratching his front elbows with his back feet until they bled for over a year. </span>
-    Updated: 2020-12-27T22:45:45Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog | Nose Butter News](https://theblissfuldog.com/blogs/news/nose-butter-news): The Blissful Dog | Nose Butter News
-    Updated: 2020-11-01T18:48:52Z
-    Author: Kathy Dannel Vitcak
-  - [The Brussels Griffon Elf on the Shelf | Larccan](https://theblissfuldog.com/blogs/news/happy-holidays-from-larccan): The Brussels Griffon Elf on the Shelf | Larccan
-    Updated: 2020-11-26T22:30:44Z
-    Author: Kathy Dannel Vitcak
-  - [Brussels Griffon Face Wash Extraordinaire!!](https://theblissfuldog.com/blogs/news/face-wash-extraordinaire): Brussels Griffon Face Wash Extraordinaire!!
-    Updated: 2022-05-30T17:30:00Z
-    Author: Kathy Dannel Vitcak
-  - [The Blissful Dog Nose Butter Review | Greyhound Nose Butter](https://theblissfuldog.com/blogs/news/welcome-back-wet-nose): The Blissful Dog Nose Butter Review | Greyhound Nose Butter
-    Updated: 2020-12-27T22:43:09Z
-    Author: Kathy Dannel Vitcak
-  - [Roto-Rooter Saving Lives! Yes, Really!](https://theblissfuldog.com/blogs/news/roto-rooter-saving-lives): <h2>Did You Know Roto-Rooter Has A Division Devoted To Pet Rescues???</h2>
-<p>As a business owner, I get a LOT of requests for guest blog posts. As I rule I don't do them for lots of reasons, but this one caught me eye. Maria, from Roto-Rooter, emailed and shared some info on their Pet Rescue program and I was all in!</p>
-    Updated: 2021-02-12T15:04:48Z
-    Author: Kathy Dannel Vitcak
-  - [Be Prepared - Keeping Calm & Carrying On](https://theblissfuldog.com/blogs/news/be-prepared-keeping-calm-carrying-on): <h4>Surviving Natural Disasters With Our Pets</h4>
-<p>There seems to be another weather-related emergency virtually every day now. From fires to droughts to hurricanes, it seems it never ends and is probably going to get worse.<span class="Apple-converted-space"> When we watch news clips and see </span>people abandoning their homes with their dogs clutched in their arms, most of us think, “What would I do?” </p>
-    Updated: 2022-08-16T15:55:55Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog emergency
-  - [Welcome to the Keeshond | Cornelis de Gyselaer](https://theblissfuldog.com/blogs/news/welcome-to-the-keeshond): <meta charset="utf-8"><span>Keeshond history is fascinating and runs the gamut from their hard-working, sea-faring roots to political intrigue to family dog extraordinaire! Read more...</span>
-    Updated: 2022-04-10T17:38:58Z
-    Author: Kathy Dannel Vitcak
-  - [The Dutch Barge Dog | The Keeshond](https://theblissfuldog.com/blogs/news/the-dutch-barge-dog-the-keeshond): <strong>The Dutch Barge Dog  </strong><span>Early Keeshond were known as the Dutch Barge Dog. As you may have guessed, they lived on the Dutch barges and were prized as companions and as an alert or alarm dog.</span>
-    Updated: 2022-07-27T17:54:15Z
-    Author: Kathy Dannel Vitcak
-    Tags: keeshond
-  - [Our Newest Drama Queen & Rich Bitch Breed...the Chinese Shar-Pei](https://theblissfuldog.com/blogs/news/our-newest-drama-queen-rich-bitch-breed-the-chinese-shar-pei): Our Newest Drama Queen & Rich Bitch Breed...the Chinese Shar-Pei
-    Updated: 2022-12-09T00:02:36Z
-    Author: Kathy Dannel Vitcak
-    Tags: chinese shar-pei
-  - [2023 Blissful Dog Calendar FREE Downloads](https://theblissfuldog.com/blogs/news/free-2023-blissful-dog-calendar-downloads): 2023 Blissful Dog Calendar FREE Downloads
-    Updated: 2023-01-01T19:19:37Z
-    Author: Kathy Dannel Vitcak
-    Tags: 2023 calendar, dog calendar
-  - [Thanksgiving Vet Visits Are Not Blissful!](https://theblissfuldog.com/blogs/news/thanksgiving-vet-visits-are-not-blissful): <meta charset="utf-8">
-<p class="rUXT_" data-mce-fragment="1"><strong>Thanksgiving Vet Visits Are Not Blissful! </strong>Sharing a huge feast of turkey, ham, stuffing/dressing, rolls, butter, more butter, pecan pie, sweet potato pie, cakes galore is a carved-in-stone tradition for many. One that can be deadly for your dog. Read More...</p>
-    Updated: 2023-11-19T17:58:43Z
-    Author: Kathy Dannel Vitcak
-    Tags: dog thanksgiving, thanksgiving dogs
-  - [My First Chinese Shar-Pei, Texas & Strippers](https://theblissfuldog.com/blogs/news/my-first-chinese-shar-pei-texas-strippers): <p>How I started showing dogs. A TRUE Story! It all started with a stripper, a Chinese Shar-Pei puppy and brotherly love!</p>
-<p> </p>
-    Updated: 2025-08-25T17:29:58Z
-    Author: Kathy Dannel Vitcak
-    Tags: 80s Dallas, chinese shar-pei, shar-pei
-- [The Blissful Dog Rave Reviews](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews): The Blissful Dog is honored to receive so many glowing rave reviews. Nothing makes our hearts expand like knowing our products have helped dogs look and feel better!
-  - [Nose Butter Miracle](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/australian-cattle-dog-nose-butter-nose-butter-miracle): <span>My grandpuppy, who is a husky heeler mix, has been struggling with his nose for a bit. It was dry and cracking, and looked like it was bleeding at times.</span>
-    Updated: 2022-09-21T22:10:20Z
-    Author: Kathy Dannel Vitcak
-  - [Oscar Says, Thank You!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/oscar-says-thank-you)
-    Updated: 2022-09-21T22:13:03Z
-    Author: Kathy Dannel Vitcak
-  - [Great Stuff for Frenchies!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/french-bulldog-custom-combo-great-stuff): <meta charset="UTF-8"><meta charset="utf-8">
-<p>French Bulldog Custom Combo Review | Great stuff! My Frenchies love it Nose Butter is fantastic for their dry noses. </p>
-<strong><a href="https://theblissfuldog.com/collections/french-bulldog-collection" class="action_button cc-button">Shop Everything French Bulldog Here</a></strong>
-    Updated: 2022-09-23T17:00:55Z
-    Author: Kathy Dannel Vitcak
-    Tags: French bulldog, Frenchies
-  - [A Miracle](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/nose-butter-is-a-miracle): <meta charset="utf-8"><meta charset="utf-8">
-<p><strong>Nose Butter is a Miracle</strong>! So Much Better! I never knew this existed. A friend saw a picture of Nina and gifted me a tin of Nose Butter. Before and after only ten days! It's a miracle!</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T17:08:39Z
-    Author: Kathy Dannel Vitcak
-    Tags: nose butter, nose butter review
-  - [Vote Nose Butter!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/four-paws-up-for-nose-butter): <meta charset="utf-8"><span>Our Frenchie and Boston Terrier would like to give this product both paws up! Their noses have never felt or looked better! </span>
-    Updated: 2022-09-23T16:59:18Z
-    Author: Kathy Dannel Vitcak
-    Tags: boston terrier, french bulldog, nose butter
-  - [I'm Very Impressed](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/age-well-dog-aromatherapy-for-elderly-great-dane-im-very-impressed): <meta charset="utf-8"><meta charset="utf-8">
-<p><b class="jdgm-rev__title">Age Well Dog Aromatherapy Support for Elderly Great Dane </b>This is an absolutely fabulous product. I was quite leery at first but it is amazing. She’s starting to get a little bit of dementia and is even more clingy than before. And great Danes are already known as Velcro dogs. This relaxes her within minutes and lets her rest comfortably. I’m very impressed.</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="Age Well Dog Aromatherapy Review">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T16:51:37Z
-    Author: Kathy Dannel Vitcak
-  - [4 Paws Up!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/boston-terrier-nose-butter-4-paws-up): <meta charset="utf-8">
-<p><b class="jdgm-rev__title">Boston Terrier Nose Butter gets Four Paws Up! </b>Our Frenchie and Boston Terrier would like to give this product both paws up! Their noses have never felt or looked better! Mom also likes the easy application that the twist up lip balm style container offers. All around, great product!</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T17:07:30Z
-    Author: Kathy Dannel Vitcak
-    Tags: boston terrier, nose butter, nose butter review
-  - [Awful Stinky Dogs!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/stinky-filthy-dog-shampoo-awful-stinky-dogs): <meta charset="utf-8"><meta charset="utf-8">
-<p><span><strong>Stinky Filthy Dog Shampoo Review</strong> If it stinks my dogs will find it! They roll in dead armadillos… fresh green horse poop .. chicken poop.. (their favorite)! Then they want to come in if there’s a thunderstorm! Bathed them with Stinky Filthy Dog shampoo and dang they smell good! They are sitting proudly on the couch right now as it storms outside! Thanks Blissful Dog!</span></p>
-<p><span><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></span></p>
-    Updated: 2022-09-23T16:24:37Z
-    Author: Kathy Dannel Vitcak
-    Tags: australian shepherd, dog shampoo, stinky filthy dog
-  - [Razzle Dazzle White Dog Shampoo](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/razzle-dazzle-white-dog-shampoo-bish-is-truly-white): <meta charset="utf-8"><meta charset="utf-8">
-<p><b class="jdgm-rev__title">Bish is truly White!!! </b>NO EXTRA SCRUBBING REQUIRED! When I tell you my dog is white …is no joke! I was amazed at how great it works!! Definitely will continue using this product for a long time!!</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More of this Blissful Review</a></strong></p>
-    Updated: 2022-09-23T17:02:43Z
-    Author: Kathy Dannel Vitcak
-  - [Poodle Nose Butter](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/poodle-nose-butter-before-after): <meta charset="utf-8"><meta charset="utf-8">
-<p><b class="jdgm-rev__title">Poodle Nose Butter Before &amp; After - It works </b>Great improvement after one week. See before and after pics after only one week.</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T17:04:14Z
-    Author: Kathy Dannel Vitcak
-  - [Nose Butter Review](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/nose-butter-review-great-stuff): <meta charset="utf-8">
-<p><b class="jdgm-rev__title">Great Stuff </b><span>After a few applications on his nose and snout &amp; some sores on his ears they looked good, now I only apply the</span><span> </span><span>Nose Butter</span><span> every couple of days. </span></p>
-<meta charset="utf-8">
-<p><span><strong><a href="/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></span></p>
-    Updated: 2022-09-23T17:05:39Z
-    Author: Kathy Dannel Vitcak
-  - [No More Stinky Dog!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/stinky-filthy-dog): <meta charset="utf-8"><meta charset="utf-8">
-<p><b class="jdgm-rev__title">He's not so stinky<span> </span>anymore. :) </b>I love the<span> </span><strong>Stinky Filthy Dog shampoo</strong>. It lathers great and goes a long way. It leaves his coat and skin beautifully shiny and clean. He smells great, until he finds more dirt to lay in to stay cool. But this shampoo goes further than any I've used.</p>
-<p><strong><a href="/blogs/the-blissful-dog-rave-reviews" title="More Blissful Dog Rave Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T16:54:25Z
-    Author: Kathy Dannel Vitcak
-  - [Blueberry the Bulldog](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/razzle-dazzle-white-dog-shampoo-a-white-blueberry): <meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
-<p><strong>Razzle Dazzle White Dog Shampoo Review</strong><b class="jdgm-rev__title"> </b>A White Blueberry - I have been using Blissful Dog's Razzle Dazzle white for some time, now. The shampoo does a beautiful job at keeping his coat nice and white. He goes for a bath every few weeks, and the Razzle Dazzle goes with him. Love the product!</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T17:09:36Z
-    Author: Kathy Dannel Vitcak
-    Tags: bulldog, razzle dazzle white dog shampoo
-  - [4 Paws Up!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/french-bulldog-nose-butter-4-paws-up): <meta charset="utf-8"><meta charset="utf-8">
-<p><b>Four Paws Up For Nose Butter </b>Our Frenchie and Boston Terrier would like to give Nose Butter both paws up! Their noses have never felt or looked better! Mom also likes the easy application that the twist up lip balm style container offers. All around, great product!</p>
-<p><strong><a href="https://the-blissful-dog.myshopify.com/blogs/the-blissful-dog-rave-reviews" title="More Blissful Reviews">Read More Blissful Reviews</a></strong></p>
-    Updated: 2022-09-23T16:22:20Z
-    Author: Kathy Dannel Vitcak
-    Tags: french bulldog, nose butter review, the blissful dog nose butter
-  - [Love This Product!](https://theblissfuldog.com/blogs/the-blissful-dog-rave-reviews/french-bulldog-nose-butter-love-this-product): <meta charset="utf-8">
-<p><b class="jdgm-rev__title">French Bulldog Nose Butter</b></p>
-<div class="jdgm-rev__body">
-<p>Love this Product. No crusty noses is in this house!!!</p>
-<p><a href="/blogs/the-blissful-dog-rave-reviews" title="More Blissful Rave Reviews"><strong>Read More Blissful Reviews</strong></a></p>
-</div>
-    Updated: 2022-09-23T17:10:18Z
-    Author: Kathy Dannel Vitcak
 
 ## Store Pages
 
