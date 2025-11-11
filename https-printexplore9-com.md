@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-11-10T00:00:34.576Z
+- Updated At: 2025-11-11T00:00:27.111Z
 
 # Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts
 Print & Explore 9 is your destination for sustainable fashion, natural skincare, and meaningful custom gifts. We create eco-friendly apparel, organic skincare essentials, and personalized items designed to inspire wellness, creativity, and conscious living. Discover sustainable products that celebrate self-care and mindful style.
@@ -27,7 +27,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $25.99 USD
 - [Cute Bear Bodysuit Soft and Durable Baby Outfit](https://printexplore9.com/products/baby-ribbed-bodysuit): Soft baby bodysuit with cute bear design gentle cotton fabric unisex fit and lap shoulders for easy changes.
-  Updated: 2025-11-09T06:37:30Z
+  Updated: 2025-11-10T02:46:37Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -42,7 +42,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $27.98 USD
 - [Cute Bear Family  Toddler T-Shirt](https://printexplore9.com/products/toddler-t-shirt-print-explore): Cute bear Family toddler tee, soft cotton built to last. perfect for active kids. Perfect for playtime and daily wear.
-  Updated: 2025-11-09T06:35:12Z
+  Updated: 2025-11-10T02:46:37Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -110,24 +110,6 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/youth-pu-slide-sandals-cute_bears.jpg?v=1759082059
     Price: $29.99 USD
-- [Baby Ribbed Bodysuit - Comfort and style](https://printexplore9.com/products/baby-rib-bodysuit-bears-adorable-comfort-for-your-little-one-print-explore): Made from gentle -stretchy fabric.  this Baby Rib Bodysuit provides comfort all day. Ideal for newborns with easy-snap closures.
-  Updated: 2025-10-12T09:53:31Z
-  Vendor: Printify
-  Product Type: Kids clothes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/baby-rib-bodysuit-bears.jpg?v=1759081793
-  - [White / 6M](https://printexplore9.com/products/baby-rib-bodysuit-bears-adorable-comfort-for-your-little-one-print-explore?variant=45051661451531)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/baby-rib-bodysuit-bears-printandexplore-3.jpg?v=1759081626
-    Price: $27.98 USD
-  - [White / 12M](https://printexplore9.com/products/baby-rib-bodysuit-bears-adorable-comfort-for-your-little-one-print-explore?variant=45051661484299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/baby-rib-bodysuit-bears-printandexplore-3.jpg?v=1759081626
-    Price: $27.98 USD
-  - [White / 18M](https://printexplore9.com/products/baby-rib-bodysuit-bears-adorable-comfort-for-your-little-one-print-explore?variant=45051661517067)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/baby-rib-bodysuit-bears-printandexplore-3.jpg?v=1759081626
-    Price: $27.98 USD
 - [Blue Flowers Makeup Accessory Pouch Durable Lightweight](https://printexplore9.com/products/accessory-pouch-print-explore): Durable lightweight makeup pouch with blue flowers design secure zipper multiple sizes eco-friendly and made in the USA.
   Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
@@ -258,7 +240,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/outdoor-drawstring-bag-printandexplore-2.jpg?v=1759081405
   Price: $17.53 USD
 - [Unisex Crewneck Sweatshirt](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore): Stay warm and cozy in our unisex crewneck sweatshirt made from soft 50/50 cotton-poly blend—durable comfort perfect for chilly days.
-  Updated: 2025-11-09T06:32:18Z
+  Updated: 2025-11-10T02:46:37Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -456,7 +438,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
     Price: $46.32 USD
 - [Women’s Boxy T-Shirt](https://printexplore9.com/products/womans-t-shirt-print-explore): Stand out in ultra-soft 100% Airlume cotton boxy tee with relaxed fit and dropped shoulders—effortless style and vibrant elegance all day long!
-  Updated: 2025-11-09T06:53:38Z
+  Updated: 2025-11-10T02:46:38Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -497,7 +479,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Kiss_Cut_Stickers.jpg?v=1759081877
     Price: $2.32 USD
 - [All-Day Comfort – Floral Bloom Tee in Soft Airlume Cotton](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore): Experience unmatched comfort with 100% Airlume cotton. Lightweight fabric keeps you cool. Stunning floral design on a rich purple background. Stylish and soft.
-  Updated: 2025-11-09T07:26:20Z
+  Updated: 2025-11-10T02:46:37Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1008,7 +990,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
     Availability: Available
     Price: $49.95 USD
 - [Cute Bears Family Suitcase](https://printexplore9.com/products/suitcase): Travel in style with this cute pink bears suitcase. swivel wheels and built-in lock & comfy handle for smooth and secure adventures!
-  Updated: 2025-11-09T06:55:42Z
+  Updated: 2025-11-10T02:46:37Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1927,11 +1909,11 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-11-09T07:29:52Z
+  Updated: 2025-11-10T20:38:09Z
   Total Products: 41
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
-  Updated: 2025-11-09T06:43:12Z
-  Total Products: 10
+  Updated: 2025-11-10T20:37:04Z
+  Total Products: 9
 - [Sustainable Women's  T-Shirts & Sweatshirts](https://printexplore9.com/collections/womens): Eco friendly womens t-shirts and sweatshirts made from organic cotton. Customize your style with sustainable apparel made for you.
   Updated: 2025-11-09T07:29:52Z
   Total Products: 23
@@ -1939,7 +1921,7 @@ Print & Explore 9 is your destination for sustainable fashion, natural skincare,
   Updated: 2025-11-09T07:30:30Z
   Total Products: 30
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
-  Updated: 2025-10-23T11:57:48Z
+  Updated: 2025-11-10T20:38:09Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
   Updated: 2025-11-09T06:47:15Z
