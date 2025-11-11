@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2017-10-24T19:06:01Z
 - Contact Email: support@moonglow.com
-- Updated At: 2025-11-08T00:00:34.411Z
+- Updated At: 2025-11-11T00:00:33.789Z
 
 ## Products
 
 - [Lunar Twin Charm Necklace](https://www.moonglow.com/products/lunar-twin-charm-necklace): Moonglow’s Lunar Twin Charm Necklace can be worn every day to bring good fortune and happiness. Featuring two moons from any special dates of your choice on a silver plated pendant. No matter the time of day or the weather outside, you can shine a spotlight on your special memories with these luminous lunar twin charms.
-  Updated: 2025-11-07T14:18:06Z
+  Updated: 2025-11-10T22:08:42Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Lunattwin.png?v=1755283933
   Price: $75.00 USD
 - [Silver Link Bracelet](https://www.moonglow.com/products/silver-link-bracelet): Classic, timeless, and uniquely personal, the Silver Link Bracelet is the perfect everyday bracelet. Wear it alone or pair it with other Moonglow bracelets.
-  Updated: 2025-11-07T21:50:20Z
+  Updated: 2025-11-09T14:05:31Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -83,15 +83,8 @@
   - [SE](https://www.moonglow.com/products/silver-link-bracelet?variant=12563168985193)
     Availability: Available
     Price: $48.00 USD
-- [Twin Moon Soulmate Charm Bracelet](https://www.moonglow.com/products/twin-moon-soulmate-charm-custom-bracelet): The Twin Moon Soulmate Charm Bracelet features silver-plated links and 2 personalized charms, custom-made using the moon phases from your chosen dates.
-  Updated: 2025-11-07T23:19:25Z
-  Vendor: Moonglow Jewelry
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FTwin_Moon_Soulmate_Charm_Bracelet-_p-2FEcomTwinMoonBraceletNEW__cld.jpg?v=1758568127
-  Price: $69.00 USD
 - [Trinity Moon Charm Bracelet](https://www.moonglow.com/products/trinity-moon-charm-bracelet): Add a little magic to your look with this Trinity Moon Charm Bracelet. It is adjustable and features three hand-finished silver-plated pendants.
-  Updated: 2025-11-06T20:04:31Z
+  Updated: 2025-11-10T22:06:28Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -105,7 +98,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FTri-Mare_Charm_Necklace-_p-2FEcomTriMareNecklaceNEW__cld.jpg?v=1758568125
   Price: $91.00 USD
 - [Charmed Simplicity Unisex Necklace](https://www.moonglow.com/products/charmed-simplicity-necklace): Make the perfect gift with one of these beautiful charmed necklaces, designed to wow. Featuring the moon from the date of your choice, the simplicity necklace is a unisex necklace easy to wear and style. Silver-plated charm, 16"-19" adjustable stainless steel chain (40-48 cm)
-  Updated: 2025-11-07T22:24:02Z
+  Updated: 2025-11-10T23:57:28Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -171,7 +164,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Classic Necklace With Black Crystal](https://www.moonglow.com/products/classic-necklace-with-black-crystal): Edgy yet elegant, our Classic Necklace combines an awe-inspiring moon phase charm with the luxe sparkle of black crystal. Crafted with a vintage feel in hand-finished pewter, each pendant is uniquely original to the wearer.
-  Updated: 2025-11-07T21:51:57Z
+  Updated: 2025-11-10T22:08:03Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -237,7 +230,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Silver Charm | Moonglow](https://www.moonglow.com/products/silver-charm): This elegant, yet simple Silver Charm featuring your personalized moon phase makes for the perfect crossover piece. It is ideal for daily wear as well as for special occasions.
-  Updated: 2025-11-06T20:02:31Z
+  Updated: 2025-11-08T22:06:21Z
   Vendor: Moonglow Jewelry
   Product Type: Charms & Pendants
   Availability: Available
@@ -282,7 +275,7 @@
     Availability: Not Available
     Price: $38.00 USD
   - [3D](https://www.moonglow.com/products/silver-charm?variant=12563154010217)
-    Availability: Available
+    Availability: Not Available
     Price: $38.00 USD
   - [2D](https://www.moonglow.com/products/silver-charm?variant=12563154042985)
     Availability: Available
@@ -302,36 +295,29 @@
   - [SE](https://www.moonglow.com/products/silver-charm?variant=12563154206825)
     Availability: Not Available
     Price: $38.00 USD
-- [Lovers In The Locket Necklace](https://www.moonglow.com/products/lovers-locket-necklace): The Lovers in The Locket Necklace is a perfect symbol of your love. A unique and thoughtful gift, it is perfect for couples who share a deep connection.
-  Updated: 2025-11-06T20:09:31Z
-  Vendor: Moonglow Jewelry
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Lovers_in_the_Locket_SS.jpg?v=1759439314
-  Price: $85.00 USD
 - [The Maginus Cufflinks in Stainless Steel](https://www.moonglow.com/products/maginus-cufflinks-stainless-steel): Our personalized cufflinks make just the style statement you’re looking for. Let The Maginus Cufflinks in Stainless Steel capture your imagination and forever mark a significant day for you or someone special in your life.
-  Updated: 2025-11-05T15:55:52Z
+  Updated: 2025-11-10T19:12:07Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FThe_Maginus_Cufflinks_in_Silver_Stainless_Steel-_p-2Fnew-ecomcufflinks-stainlesssteel__cld.jpg?v=1758301734
   Price: $63.20 USD
 - [Family Locket Necklace](https://www.moonglow.com/products/family-locket-necklace): Moonglow’s Family Locket Necklace cradles a trio of moon phase charms that capture your story. Makes a unique and meaningful family heirloom.
-  Updated: 2025-11-06T20:07:45Z
+  Updated: 2025-11-10T22:07:07Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Family_Locket_SS.jpg?v=1759439313
   Price: $105.00 USD
 - [Mini Ituri Necklace in Stainless Steel](https://www.moonglow.com/products/mini-ituri-necklace-stainless-steel): The Ituri Necklace is a silver double moon pendant. It is a classic and elegant reminder of some of your most cherished people and moments! Select two special dates and display your cherished moon phases near your heart.
-  Updated: 2025-11-07T16:16:22Z
+  Updated: 2025-11-10T22:07:12Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/10_05ba3131-78ca-4281-a265-76ef1b124740.png?v=1761952110
   Price: $85.00 USD
 - [Pallene Bracelet In stainless steel](https://www.moonglow.com/products/pallene-bracelet-in-silver): Classic and elegant, the Pallene Bracelet circles the wrist, embracing your own personal moon phase or that of someone special. It is perfect for the business professional who wants a little sass in their work attire, or the fashionista who needs something spectacular but not too over-the-top.
-  Updated: 2025-11-07T21:52:06Z
+  Updated: 2025-11-10T22:07:55Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -397,21 +383,21 @@
     Availability: Available
     Price: $45.00 USD
 - [Elegant Sterling Silver Link Chain | Moonglow](https://www.moonglow.com/products/elegant-sterling-silver-moon-necklace-link-chain): Pair this sterling silver moon necklace with your favorite mini moon phase charm for a fully customizable statement piece! The elegant styling of this necklace makes it perfect for minimalist, modern looks, and the rhodium-coated chain offers top quality.
-  Updated: 2025-11-07T22:24:02Z
+  Updated: 2025-11-10T22:22:56Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FElegant_Stainless_Steel_Link_Chain-_p-2Fnew-ecom6S0A2695__cld.jpg?v=1758200915
   Price: $18.00 USD
 - [Classic Black Link Chain | Moonglow](https://www.moonglow.com/products/classic-black-link-chain): Pair this classic Black Stainless Steel link chain with your favorite mini moon charm to keep your most important dates close to your heart. The simple styling of this chain makes it perfect for pairing with the most elaborate or simple designs.
-  Updated: 2025-11-07T21:50:57Z
+  Updated: 2025-11-10T22:23:11Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecom6S0A2692.jpg?v=1758135362
   Price: $20.00 USD
 - [Classic Choker Necklace](https://www.moonglow.com/products/classic-choker-necklace): Edgy yet elegant, our Moonglow Classic Choker Necklace combines an awe-inspiring moon phase charm with the sparkle of black crystal.
-  Updated: 2025-11-07T21:51:46Z
+  Updated: 2025-11-10T22:07:52Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -477,7 +463,7 @@
     Availability: Available
     Price: $42.00 USD
 - [Simplicity Choker Necklace](https://www.moonglow.com/products/simplicity-choker-necklace): Give in to your dreams with the Simplicity Choker Necklace. Perfect for everyday wear, this moon choker is a unique reminder of what and who is important to you.
-  Updated: 2025-11-07T21:50:13Z
+  Updated: 2025-11-10T22:07:52Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -543,7 +529,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Sky Light Necklace In Silver](https://www.moonglow.com/products/sky-light-necklace-stainless-steel): Wear your moon anywhere you go with our Sky Light Necklace in silver. Designed for special occasions - a birthday, anniversary, or any moment you treasure.
-  Updated: 2025-11-07T21:51:42Z
+  Updated: 2025-11-10T23:47:35Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -609,14 +595,14 @@
     Availability: Available
     Price: $49.00 USD
 - [Large Family Locket](https://www.moonglow.com/products/large-family-locket): Keep dear ones close to your heart with our Large Family Locket featuring four mini-moons. Crafted in stainless steel and paired with a 28-inch beaded chain.
-  Updated: 2025-11-07T15:21:03Z
+  Updated: 2025-11-10T22:07:16Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FLarge_Family_Locket-_p-2FFamilylocket-metalback__cld.jpg?v=1758200934
   Price: $135.00 USD
 - [Sky Light Necklace in Gold](https://www.moonglow.com/products/sky-light-gold-necklace): Moonglow’s Sky Light Necklace in Gold captures both the imagination and heart of its wearer. One of our best sellers featuring the moon from the date of your choice!
-  Updated: 2025-11-07T21:51:45Z
+  Updated: 2025-11-10T22:06:37Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -682,28 +668,28 @@
     Availability: Available
     Price: $95.00 USD
 - [Family Locket in Gold | Moonglow](https://www.moonglow.com/products/family-locket-gold): Fill your locket with the moments you treasure with those you love -- the birthdays of your three-member family, your three children, or a trilogy of events that are most meaningful to you. Each charm is aligned with the moon phase on your sacred date and illuminates by night to light your journey forward.
-  Updated: 2025-11-07T02:06:46Z
+  Updated: 2025-11-08T15:11:45Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Family_Locket_YG.jpg?v=1759439312
   Price: $108.00 USD
 - [Lovers In The Locket Necklace In Gold](https://www.moonglow.com/products/lovers-locket-gold): The Lovers in the Locket Necklace in Gold features a pair of engravable, mini-moon phase charms from the dates of your choice. Style it alone, or mix and match it with other necklaces.
-  Updated: 2025-11-06T20:09:37Z
+  Updated: 2025-11-10T22:07:42Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Lovers_in_the_Locket_YG.jpg?v=1759439313
   Price: $115.00 USD
 - [Mini Ituri in Gold | Moonglow](https://www.moonglow.com/products/mini-ituri-gold-couples-necklace): Commemorate a valuable human connection with the Mini Ituri in gold, a couples' necklace with interlocked twin moons. Make this necklace extra-personal with the addition of custom moon pendants for the lunar signs of your choice. Don't wait to get yours!
-  Updated: 2025-11-07T19:21:15Z
+  Updated: 2025-11-10T22:07:46Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/11_939aa395-38ad-4ada-b08a-ad9acf1d2621.png?v=1761952112
   Price: $140.00 USD
 - [Mini Usambara in Gold | Moonglow](https://www.moonglow.com/products/mini-usambara-gold): Instant glamour. Feel the energetic effects of a trilogy of moons that tell your personal story with the uniquely beautiful Usambara necklace wrapped in the luxury of gold.
-  Updated: 2025-11-04T11:55:41Z
+  Updated: 2025-11-10T22:07:46Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -717,7 +703,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/products/MAIN_IMAGE_2_option_1.jpg?v=1753407407
   Price: $0.00 USD
 - [Classic Birthstone Necklace](https://www.moonglow.com/products/classic-pewter-birthstone-necklace): Moonglow’s Birthstone Necklace makes the perfect gift for yourself or a loved one. Featuring the moon from the date of your choice accented with a birthstone crystal. Edgy and elegant, this pewter necklace rises beautifully to every occasion.
-  Updated: 2025-11-07T23:28:15Z
+  Updated: 2025-11-10T22:52:49Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -874,7 +860,7 @@
     Availability: Available
     Price: $500.00 USD
 - [Pallene Bracelet in Gold | Moonglow](https://www.moonglow.com/products/pallene-bracelet-in-gold): Beautifully crafted in luminous gold plate, the adjustable chain link bracelet circles the wrist reminding you of the moment you were forever connected to the moon. It’s playful, yet personal and always memorable.
-  Updated: 2025-11-07T21:52:02Z
+  Updated: 2025-11-10T22:08:57Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -940,14 +926,14 @@
     Availability: Available
     Price: $95.00 USD
 - [Mini Usambara in Rose Gold | Moonglow](https://www.moonglow.com/products/mini-usambara-in-rose-gold): Every woman needs a dramatic necklace to reinforce her signature style. Here, a trilogy of moons wrapped in the luxury of rose gold, express your uniquely beautiful style while sharing what’s held in your heart. Choose three personal moments that matter to you or someone you love and we’ll do the rest. Your pendant will arrive in our signature gift box complete with a card describing the moon phases you’ve selected. Whether for special occasions or every day wear, this golden talisman is certain to inspire awe and conversation. Rose gold plated triple pendant Rose gold plated chain 10mm moon images
-  Updated: 2025-11-03T22:53:22Z
+  Updated: 2025-11-10T22:05:52Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Usambara_in_Rose_Gold-_p-2FNEWECOMUsambarainRoseGold_4ea47e5e-afec-49e2-9434-8bf6b50e1247__cld.jpg?v=1758215325
   Price: $111.00 USD
 - [Mini Ituri in Rose Gold | Moonglow](https://www.moonglow.com/products/mini-ituri-in-rose-gold): Double your Moonglow experience with the enchanting couples’ necklace from our Golden Memories collection. Designed in the must-have contemporary color of rose gold, this dramatic pendant makes a bold statement of your love with two awe-inspiring mini moon charms that glow in darkness like the moon itself. Simply select two dates that matter to you and your beloved and the chain length desired and we’ll do the rest. Your necklace will arrive in its own signature gift box with a card describing the moon phases you’ve chosen. Wear it close to your heart and feel the magic. It’s beautiful and timeless, like the love you share. Rose gold plated double pendant Rose gold plated chain 10mm moon images
-  Updated: 2025-11-07T23:02:27Z
+  Updated: 2025-11-10T22:07:07Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1020,21 +1006,21 @@
     Availability: Available
     Price: $95.00 USD
 - [Double Moon Pallene Bracelet in Gold | Moonglow](https://www.moonglow.com/products/double-moon-pallene-bracelet-in-gold): Beautifully crafted in elegant gold plate, the adjustable chain link bracelet holds two eye-catching mini lunar charms that glow in darkness like the moon itself. And like a magnet for all good things, it inspires wonder and conversation every time you wear it.
-  Updated: 2025-11-06T20:28:41Z
+  Updated: 2025-11-09T19:15:42Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FDouble_Moon_Pallene_Bracelet_in_Gold-_p-2FEcom_DoubleMoonpalleneGold_NEW__cld.jpg?v=1758200913
   Price: $140.00 USD
 - [Double Moon Pallene Bracelet in Rose Gold | Moonglow](https://www.moonglow.com/products/double-moon-pallene-bracelet-in-rose-gold): Beautifully crafted in dramatic rose gold plate, the adjustable chain link bracelet holds two eye-catching mini lunar charms that glow in darkness like the moon itself. And like a magnet for all good things, it inspires wonder and conversation every time you wear it.
-  Updated: 2025-11-07T20:25:34Z
+  Updated: 2025-11-10T22:09:08Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FDouble_Moon_Pallene_Bracelet_in_Rose_Gold-_p-2F148__cld.jpg?v=1758200913
   Price: $140.00 USD
 - [Moonstone Beaded Bracelet](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white): Moonstone has been worn over the ages to encourage inner growth and strength. Beaded with genuine moonstone beads, this bracelet features a picture of the moon from any meaningful date of your choice.
-  Updated: 2025-11-07T14:05:39Z
+  Updated: 2025-11-10T22:08:23Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1067,7 +1053,7 @@
     Availability: Available
     Price: $49.00 USD
   - [7D](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white?variant=12561809080425)
-    Availability: Not Available
+    Availability: Available
     Price: $49.00 USD
   - [6D](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white?variant=12561809113193)
     Availability: Available
@@ -1085,7 +1071,7 @@
     Availability: Available
     Price: $49.00 USD
   - [1D](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white?variant=12561809277033)
-    Availability: Not Available
+    Availability: Available
     Price: $49.00 USD
   - [CD](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white?variant=12561809309801)
     Availability: Available
@@ -1097,7 +1083,7 @@
     Availability: Available
     Price: $49.00 USD
   - [SE](https://www.moonglow.com/products/moonstone-beaded-bracelet-in-white?variant=12561809408105)
-    Availability: Not Available
+    Availability: Available
     Price: $49.00 USD
 - [Mini Satellite Bracelet in Gold](https://www.moonglow.com/products/mini-satellite-bracelet-in-gold): Here, the new slim profile of our latest mini moon bracelet is perfect for layering, giving you plenty of creative options to speak your style. This artfully-crafted bracelet designed in luminous gold circles the wrist, holding an awe-inspiring lunar charm featuring the moon from any special date of your choice.
   Updated: 2025-11-06T20:28:57Z
@@ -1166,7 +1152,7 @@
     Availability: Available
     Price: $71.20 USD
 - [One Moon Locket in Gold](https://www.moonglow.com/products/one-moon-locket-in-gold): One memory to remember. One love to hold close to your heart. Our enchanting One Moon Locket captures a memory or moment in time uniquely personal to you or someone you love. In gold plate, the spellbinding mini moon lunar charm suspended on a classic beaded chain inspires wonder.
-  Updated: 2025-11-06T20:29:37Z
+  Updated: 2025-11-08T22:06:10Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1232,7 +1218,7 @@
     Availability: Available
     Price: $95.00 USD
 - [One Moon Locket in Stainless Steel](https://www.moonglow.com/products/one-moon-locket-in-stainless-steel): One memory to remember. One love to hold close to your heart. Our enchanting One Moon Locket captures a memory or moment in time uniquely personal to you or someone you love. In luminous stainless steel, the mini moon lunar charm suspended on a classic beaded chain inspires wonder.
-  Updated: 2025-11-07T18:07:41Z
+  Updated: 2025-11-10T22:09:08Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1298,21 +1284,14 @@
     Availability: Available
     Price: $65.00 USD
 - [Mini Usambara Necklace In Stainless Steel](https://www.moonglow.com/products/mini-usambara-necklace): Bring your fondest memories to light with our newest addition to the Mini Moon Collection. With its modern design and sophisticated style the mini Usambara features a trio of 10mm lunar charms cradled in luminous silver plate and held close to the heart on its own silver chain. Wear it to remember those indelible moments shared with family and friends or life’s milestones that bring you comfort and happiness. So uniquely yours, the Usambara is sure to invite conversation and inspire awe when it lights in darkness like the moon itself. Whether you choose to make it yours or give it to someone special, the necklace will arrive in its own signature gift box with a card describing the moon phases you’ve selected. 3 mini moon pendants silver plated 16-19" stainless steel chain
-  Updated: 2025-11-07T21:39:36Z
+  Updated: 2025-11-10T22:08:17Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/8_76c13dc0-a252-4592-b95f-7243802a4e72.png?v=1761952111
   Price: $110.00 USD
-- [Moon Message - Happy Birthday](https://www.moonglow.com/products/moon-message-happy-birthday): Send a little extra love with every gift you give. Moonglow’s lunar-themed notecard designed with fresh modern graphics takes the cake when it comes to sending your sincerest birthday wishes. Crafted in high-quality paper, this 5 x 7 inch card comes with a vibrant blue envelop as dark as the night sky.
-  Updated: 2025-10-15T04:14:56Z
-  Vendor: Moonglow Jewelry
-  Product Type: Gift Wrap
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMoon_Message_-_Happy_Birthday-_p-2FHappybday2__cld.jpg?v=1758287312
-  Price: $5.00 USD
 - [Moon Memory Key Ring](https://www.moonglow.com/products/moon-memory-key-ring): Our personalized moon key ring features a full-sized lunar charm that recalls a special moment in time. Perfect for yourself or a loved one. Featuring the moon from the date of your choice.
-  Updated: 2025-11-07T22:05:47Z
+  Updated: 2025-11-10T22:09:07Z
   Vendor: Moonglow Jewelry
   Product Type: Keychains
   Availability: Available
@@ -1378,7 +1357,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Moon & Crystal Tie Bar in Black](https://www.moonglow.com/products/moon-crystal-tie-bar-in-black-matte): More personal than initials. More modern than traditional clips. Our slim moon phase tie bar makes an eye-catching style statement for the fashion-forward and comfortably casual alike. Artfully crafted in black matte or brushed stainless steel, it features a lunar phase charm that recalls a special moment in time.
-  Updated: 2025-11-07T18:07:38Z
+  Updated: 2025-11-10T22:06:27Z
   Vendor: Moonglow Jewelry
   Product Type: Tie Clips
   Availability: Available
@@ -1444,7 +1423,7 @@
     Availability: Available
     Price: $48.00 USD
 - [Crépuscule Cuff In Stainless Steel](https://www.moonglow.com/products/crepuscule-cuff-in-stainless-steel): The Crépuscule Cuff in Stainless Steel features a mini Moon from the date of your choice on one end and a beautiful star accent on the other. This bracelet adds a finishing touch to any outfit. Adjustable fit for any wrist size.
-  Updated: 2025-11-06T20:29:22Z
+  Updated: 2025-11-09T02:08:01Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1576,7 +1555,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring In Rhodium](https://www.moonglow.com/products/cosmic-spiral-ring-in-rhodium): The Cosmic Spiral Ring in Rhodium is the right piece for those looking for a path to their future. A classic, beautiful and unique adjustable ring. Featuring a picture of the moon from the date of your choice.
-  Updated: 2025-11-07T21:52:02Z
+  Updated: 2025-11-10T22:25:37Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1642,7 +1621,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring in Gold](https://www.moonglow.com/products/cosmic-spiral-ring-in-gold): A classic, beautiful and unique adjustable ring to brilliantly display your special date. Let your moment shine with Moonglow and this brilliant, adjustable ring! Featuring the moon from the date of your choice.
-  Updated: 2025-11-07T18:07:16Z
+  Updated: 2025-11-10T22:08:25Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1708,7 +1687,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring In Rose Gold](https://www.moonglow.com/products/cosmic-spiral-ring-in-rose-gold): Engrave your Cosmic Spiral Ring In Rose Gold with your special date and keep your story alive forever. Features the moon from the date of your choice accented with a mini crystal and adjustable band.
-  Updated: 2025-11-07T18:07:17Z
+  Updated: 2025-11-10T22:09:15Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1774,7 +1753,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Sea Moon Necklace](https://www.moonglow.com/products/sea-moon-necklace-in-silver): The Sea Moon Necklace brings together these wonders of nature that go hand in hand, bringing peace to its wearer. Featuring the moon from the date of your choice, set in the Stainless-Steel sea turtle pendant that gathers light all day long to produce a soft glow in the dark, making your moon shine.
-  Updated: 2025-11-07T21:51:51Z
+  Updated: 2025-11-09T14:06:25Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1840,7 +1819,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Moon & Crystal Tie Bar in Stainless Steel](https://www.moonglow.com/products/moon-crystal-tie-bar-in-stainless-steel): More personal than initials. More modern than traditional clips. Our slim moon phase tie bar makes an eye-catching style statement for the fashion-forward and comfortably casual alike. Artfully crafted in black matte or brushed stainless steel, it features a lunar phase charm that recalls a special moment in time.
-  Updated: 2025-11-06T20:10:06Z
+  Updated: 2025-11-10T22:05:47Z
   Vendor: Moonglow Jewelry
   Product Type: Tie Clips
   Availability: Available
@@ -1906,21 +1885,21 @@
     Availability: Available
     Price: $48.00 USD
 - [Moonrise Cufflinks in Matte Black](https://www.moonglow.com/products/the-maginus-cufflinks-in-black-matte-stainless-stee): Our personalized cufflinks make just the style statement you’re looking for – and in a cool matte black finish! Let our Moonrise Cufflinks capture your imagination and forever mark a significant day for you or someone special in your life. With two unique moon phases, celebrate one or two special memories.
-  Updated: 2025-11-03T15:29:57Z
+  Updated: 2025-11-10T19:12:06Z
   Vendor: Moonglow Jewelry
   Product Type: Cufflinks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FThe_Maginus_Cufflinks_in_Black_Matte-_p-2Fnew-ecomIMG_2127__cld.jpg?v=1758301731
   Price: $79.00 USD
 - [Rose Gold Cosmic Spiral Ring and Pallene Bundle](https://www.moonglow.com/products/rose-gold-cosmic-spiral-ring-and-pallene-bundle): With a little Swarovski sparkle and the image of the moon, this adjustable ring is all things cosmic. Paired with the mini satellite bracelet featuring the moon from the date of your choice for the ultimate cosmic combo. Rose gold finish.
-  Updated: 2025-11-07T20:33:21Z
+  Updated: 2025-11-10T22:47:16Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/11_41e1951e-7ab1-47cb-9483-ff1621b3176a.png?v=1762384112
   Price: $128.00 USD
 - [Solar Link Bracelet in Stainless Steel](https://www.moonglow.com/products/solar-link-bracelet-in-stainless-steel): Fun and trendy, wearing your initial is that super personal detail that can complete any layered look. Not your traditional take on a link chain band, instead featuring long and elegant links with a small charm that showcases your initial in Stainless Steel.
-  Updated: 2025-11-06T20:03:32Z
+  Updated: 2025-11-09T22:05:31Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2073,14 +2052,14 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecom5_d20ba373-bbbc-4b8b-b86f-1d388982ca4d.jpg?v=1730925871
   Price: $14.00 USD
 - [Moonglow Gift Bag](https://www.moonglow.com/products/moonglow-gift-bag): Elevate your gifting game with Moonglow gift wrapping. Featuring the perfect bag and tissue to make any Moonglow piece extra special.
-  Updated: 2025-11-07T23:19:27Z
+  Updated: 2025-11-10T23:42:00Z
   Vendor: Moonglow Jewelry
   Product Type: Gift Wrap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Ecom_Gift_bag.jpg?v=1758553708
   Price: $8.00 USD
 - [Luna Mia Necklace](https://www.moonglow.com/products/the-luna-mia-necklace): Our all new moon phase necklace is the perfect everyday staple to celebrate your special dates close to your heart! Featuring the moon from the date of your choice.
-  Updated: 2025-11-07T22:05:41Z
+  Updated: 2025-11-10T22:08:56Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2146,7 +2125,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Harper Bracelet](https://www.moonglow.com/products/harper-bracelet): Celebrating rainbow babies and mommies alike, the Harper Bracelet pays homage to those we welcomed into this world, and those we loved but never had the chance to meet. This bracelet embodies the idea that even after the darkest storm, a rainbow can brighten the sky. Featuring the moon from the date of your choice.
-  Updated: 2025-11-06T20:08:38Z
+  Updated: 2025-11-08T22:07:58Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2212,7 +2191,7 @@
     Availability: Available
     Price: $65.00 USD
 - [The Titan Bracelet](https://www.moonglow.com/products/the-titan-bracelet-1): The Titan Bracelet is crafted with black matte finish to give it a sophisticated look. Wear it on its own or pair it with one of your other Moonglow favorites.
-  Updated: 2025-11-07T21:51:33Z
+  Updated: 2025-11-10T23:37:12Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2278,7 +2257,7 @@
     Availability: Available
     Price: $55.00 USD
 - [The Orion Necklace](https://www.moonglow.com/products/the-orion-mens-necklace): The Orion Necklace draws its inspiration from the classic star pattern that adorns our winter night sky. Made of stainless steel with a black matte coating, this necklace features a 24-inch round box chain with lobster clasp and 10mm moon image. Wear it to remind yourself of your most beautiful memories. - 10mm moon image - Extended: 24-inch round box chain with lobster clasp (non adjustable) - Standard: 18-19-inch round box chain with lobster clasp
-  Updated: 2025-11-07T21:51:33Z
+  Updated: 2025-11-10T23:59:36Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2403,15 +2382,8 @@
   - [SE / Short adjustable-18.5in-20in](https://www.moonglow.com/products/the-orion-mens-necklace?variant=42312911913065)
     Availability: Available
     Price: $55.00 USD
-- [Double Moon Memory Key Ring in Stainless Steel](https://www.moonglow.com/products/double-moon-memory-key-ring-in-stainless-steel): The Double Moon Memory Key Ring lets two of your most precious Moments shine bright! Featuring two moons from any special dates of your choice on a stainless steel key ring.
-  Updated: 2025-11-06T20:10:17Z
-  Vendor: Moonglow Jewelry
-  Product Type: Keychains
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FDouble_Moon_Memory_Key_Ring_in_Stainless_Steel-_p-2Fnew-ecom6S0A6372__cld.jpg?v=1758200906
-  Price: $59.00 USD
 - [Carina Twist Bracelet in Stainless Steel](https://www.moonglow.com/products/carina-twist-bracelet-stainless-steel): Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice.
-  Updated: 2025-11-07T14:07:08Z
+  Updated: 2025-11-10T02:07:51Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2477,7 +2449,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Carina Twist Bracelet in Gold](https://www.moonglow.com/products/carina-twist-bracelet-gold): This nautical summer style features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice.
-  Updated: 2025-11-07T21:52:11Z
+  Updated: 2025-11-10T22:09:18Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2550,7 +2522,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/10_e5a49fc9-0d2d-41a9-9503-a4aff64c94b6.png?v=1762384111
   Price: $94.40 USD
 - [Theia Necklace in Sterling Silver](https://www.moonglow.com/products/theia-necklace-in-sterling-silver): The Theia necklace in Sterling Silver is a must-have for moon lovers. As the Titan goddess of the shining sky, and mother of moon goddess Selene, Theia embodied precious metals and brilliant light. Made of genuine 925 sterling silver, the Theia Necklace features a picture of the moon from any significant date of your choice. Set in a 14mm sterling silver pendant on a sterling silver square box chain that is adjustable from 16.5" up to 18" so you can wear it at the perfect length. - 10mm moon image - 14mm sterling silver pendant - Sterling silver square box chain, adjustable from 16.5" up to 18"
-  Updated: 2025-11-07T18:07:43Z
+  Updated: 2025-11-10T14:07:22Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2683,7 +2655,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Moonglow_Jewelry_Travel_Case-_p-2Fnew-ecom1_15_80531dc7-146b-4f74-b8e4-06f170b5e7ce__cld.jpg?v=1758215316
   Price: $25.00 USD
 - [The “To the Moon and Back” Bar Bracelet](https://www.moonglow.com/products/the-to-the-moon-and-back-bar-bracelet): Show your special someone that you love them to the moon and back! This stackable, minimal bracelet is the perfect way to express your love. Stack it with the custom engravable bar bracelet, or with another one of our signature styles featuring a picture of the moon from the date of your choice. Stainless steel or 14k gold 6 ¾” in length (adjustable) Engraved with "to the moon and back"
-  Updated: 2025-11-06T21:31:32Z
+  Updated: 2025-11-08T19:32:36Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2910,7 +2882,7 @@
     Availability: Available
     Price: $63.20 USD
 - [Carina Twist Bracelet in Black Matte](https://www.moonglow.com/products/carina-twist-bracelet-in-black-matte): Introducing our best selling Carina Twist Bracelet now in Black Matte – a captivating blend of modern elegance and trendy detailing. This bracelet features a sleek black matte finish that serves as a striking backdrop for the moon from a meaningful date of your choice. The Carina Twist bracelet is more than just an accessory; it's a statement piece that effortlessly combines bold style with understated sophistication. The matte black surface exudes a sense of mystery and refinement, while the moon adds a touch of celestial allure to your wrist. Crafted with meticulous attention to detail, this bracelet is perfect for those who appreciate the beauty of contrasts. Elevate your look with a unique and timeless addition to your jewelry collection. Let the night sky's elegance grace your every movement. - 10mm moon image- Black matte finish- Adjustable from 6" - 9.5"- Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-11-06T20:12:32Z
+  Updated: 2025-11-10T22:06:28Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3042,7 +3014,7 @@
     Availability: Not Available
     Price: $44.00 USD
 - [Luna Love Necklace in Gold](https://www.moonglow.com/products/luna-love-necklace-in-gold): Presenting our enchanting Luna Love Necklace in Gold, a piece that weaves the magic of the moon into the timeless word of love. Crafted with precision and artistry, the necklace elegantly incorporates a moon from the special date of your choice seamlessly creating a romantic piece.
-  Updated: 2025-11-05T15:58:08Z
+  Updated: 2025-11-08T22:08:15Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3193,7 +3165,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/2_534b4489-7c83-4101-a845-ebbcbd87163d.png?v=1762384111
   Price: $115.20 USD
 - [Cosmos Sky Light Necklace in Gold](https://www.moonglow.com/products/cosmos-sky-light-necklace-in-gold): Illuminate your path with the Cosmos Skylight Necklace in Gold. This elegant necklace features a delicate silver pendant inspired by the wonders of the cosmos, paired with a durable stainless steel chain.Symbolizing individual aspirations and goals, it serves as a constant reminder of inner light and limitless potential. Customize it with planetary options aligned with your zodiac sign or intentions for positivity, purpose, and boundless possibilities. - 14k gold plated- 10mm planet image- Engravable on back of planet charm- 16"-19" adjustable chain - 3 ways to buy, shop by either planet, intention, zodiac.
-  Updated: 2025-11-07T18:07:15Z
+  Updated: 2025-11-10T22:08:30Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3232,7 +3204,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Cosmos Orion Necklace](https://www.moonglow.com/products/cosmos-orion-necklace): Illuminate your path with the Cosmos Orion Necklace. The Orion Necklace draws its inspiration from the classic star pattern that adorns our winter night sky. Made of stainless steel with a black matte coating, this necklace features a 24-inch round box chain with lobster clasp.Symbolizing individual aspirations and goals, it serves as a constant reminder of inner light and limitless potential. Customize it with planetary options aligned with your zodiac sign or intentions for positivity, purpose, and boundless possibilities. - 10mm planet image- Engravable on back of planet charm- 24-inch round box chain with lobster clasp (non adjustable) - 3 ways to buy, shop by either planet, intention, zodiac.
-  Updated: 2025-11-06T20:28:30Z
+  Updated: 2025-11-10T21:12:15Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3250,7 +3222,7 @@
     Availability: Available
     Price: $55.00 USD
   - [Jupiter](https://www.moonglow.com/products/cosmos-orion-necklace?variant=41536436338793)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 USD
   - [Saturn](https://www.moonglow.com/products/cosmos-orion-necklace?variant=41536436371561)
     Availability: Available
@@ -3271,7 +3243,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Sky Light Necklace In Silver](https://www.moonglow.com/products/lunar-tide-necklace-in-stainless-steel): Wear your moon anywhere you go with our Sky Light Necklace in silver. Designed for special occasions - a birthday, anniversary, or any moment you treasure.
-  Updated: 2025-11-07T17:10:31Z
+  Updated: 2025-11-10T22:57:06Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3337,7 +3309,7 @@
     Availability: Available
     Price: $46.75 USD
 - [Midnight Eclipse Terra Luna Bracelet](https://www.moonglow.com/products/midnight-eclipse-terra-luna-bracelet): Step into a world of grounded elegance with our Terra Luna Bracelets, available in a harmonious selection of black, white, cream, and beige, each bracelet captures the essence of earthly tones while adding a sophisticated touch to your ensemble.The subtle yet striking color options allow you to choose the shade that best resonates with your personal style, making these bracelets versatile companions for any occasion.At the heart of each Terra Luna Bracelet lies a luminous moon charm, which can be personalized to represent the moon from a date that holds special significance to you. Whether it's the day you were born, a memorable milestone, or a cherished moment, this celestial symbol keeps that memory close, bringing a sense of calm and tranquility to your everyday life. The adjustable design ensures a comfortable fit for any wrist, allowing you to wear it with ease and confidence. Perfect for those who seek a blend of natural beauty and cosmic grace, the Terra Luna Bracelet serves as a versatile addition to your jewelry collection. - 10mm moon image- stainless steel charm- wax-coated bracelet cord - Adjustable up to approximately 3.5 inch in diameter- stainless steel branded tag- engravable on the back of the charm
-  Updated: 2025-11-07T14:06:17Z
+  Updated: 2025-11-10T22:07:22Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3403,7 +3375,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Luxe Steel Beaded Necklace](https://www.moonglow.com/products/luxe-steel-beaded-necklace): Introducing the Luxe Steel Beaded Necklace, a radiant fusion of celestial allure and contemporary elegance. Crafted with precision and passion, this exquisite piece encapsulates the beauty of the cosmos while exuding a sense of refined sophistication.
-  Updated: 2025-11-07T21:51:28Z
+  Updated: 2025-11-10T22:52:52Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3468,15 +3440,8 @@
   - [SE](https://www.moonglow.com/products/luxe-steel-beaded-necklace?variant=41897228992617)
     Availability: Available
     Price: $69.30 USD
-- [Moon and Crystal Tie Bar and Cufflinks Bundle](https://www.moonglow.com/products/moon-and-crystal-tie-bar-and-cufflinks-bundle): This cosmic duo includes the Moon & Crystal Tie Bar in Stainless Steel with the Timeless Moon Pin. Featuring the moons from any special dates of your choice, this combo makes the perfect gift or self purchase.
-  Updated: 2025-11-06T16:26:05Z
-  Vendor: Moonglow Jewelry
-  Product Type: Jewelry Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/7_2b64d631-ba55-4523-91f8-6bc15f1e4152.png?v=1762384107
-  Price: $101.60 USD
 - [Pallene and Solar Link Bracelet bundle](https://www.moonglow.com/products/pallene-and-solar-link-bracelet-bundle): Make the perfect gift with one of these beautiful charmed necklaces, designed to wow. Featuring the moon from the date of your choice, the simplicity necklace is easy to wear and style. Silver-plated charm, 16"-19" adjustable stainless steel chain (40-48 cm)
-  Updated: 2025-11-07T21:51:56Z
+  Updated: 2025-11-10T22:08:19Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
@@ -3872,7 +3837,7 @@
     Availability: Available
     Price: $67.50 USD
 - [Lunar Sparkle Studs](https://www.moonglow.com/products/lunar-sparkle-studs): Elevate your look with our enchanting Lunar Sparkle Studs. Each classic and sophisticated earring features a beautiful moon adorned with shimmering crystals, with the Lunar Sparkle Studs, your style will always shine bright!These exquisite earrings are perfect for adding a touch of sparkle to any look, from day to night. Their timeless allure makes them a cherished addition to your jewelry collection. 14K gold plated Size: 10mm diameter
-  Updated: 2025-11-07T23:02:26Z
+  Updated: 2025-11-10T22:52:47Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
@@ -3893,56 +3858,49 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FShadow_Chain-_p-2F253__cld.jpg?v=1758294526
   Price: $35.00 USD
 - [Mercury Retrograde Carina Twist Bracelet in Black](https://www.moonglow.com/products/mercury-retrograde-carina-twist-bracelet-in-black): Introducing our enchanting Mercury Retrograde Carina Twist Bracelet in Black– your ultimate cosmic companion during those celestial moments of reflection and rejuvenation. Crafted with care and infused with positive energies, this exquisite bracelet is designed to help you navigate Mercury's retrograde periods with grace and tranquility Let its presence on your wrist be a source of comfort, guiding you to pause, reflect, and realign. Whether you're seeking to enhance your self-awareness or simply love the beauty of the bracelet, our Mercury Retrograde Bracelet is here to accompany you on your journey. - Black matte finish- 10mm mercury planet image- Engravable on back of planet charm- Adjustable from 6" - 9.5"
-  Updated: 2025-11-06T17:10:28Z
+  Updated: 2025-11-10T14:06:10Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/MercecomTwistBlack.png?v=1742242228
   Price: $55.00 USD
 - [Mercury Retrograde Galactic Ring](https://www.moonglow.com/products/mercury-retrograde-galctic-ring): Introducing our enchanting Mercury Retrograde Galctic Ring– your ultimate cosmic companion during those celestial moments of reflection and rejuvenation. The spiral represents the paths that life takes and how our destinies cross. We designed this adjustable Galactic Spiral Ring Rhodium for those looking for a path to their future, to new beginnings. It is a reminder to keep moving forward and seek new experiences — no matter how uncertain they seem. - Rhodium plated- 10mm mercury planet image- Mini crystal- Adjustable between size 6-10
-  Updated: 2025-11-06T17:10:36Z
+  Updated: 2025-11-10T20:14:43Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/23_1.jpg?v=1729111231
   Price: $79.00 USD
-- [Mercury Retrograde Orion Necklace](https://www.moonglow.com/products/mercury-retrograde-orion-necklace): Celebrate the Lunar Eclipse with our Asterism Bracelet. This lovely link chain bracelet features a Lunar Eclipse pendant surrounded by tiny sparkles that resemble the stars overhead.
-  Updated: 2025-11-06T16:26:31Z
+- [Mercury Orion Necklace](https://www.moonglow.com/products/mercury-retrograde-orion-necklace): Celebrate the Lunar Eclipse with our Asterism Bracelet. This lovely link chain bracelet features a Lunar Eclipse pendant surrounded by tiny sparkles that resemble the stars overhead.
+  Updated: 2025-11-10T22:32:07Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Mercecomorion.png?v=1742242230
   Price: $55.00 USD
-- [Mercury Retrograde Sky Light Necklace](https://www.moonglow.com/products/mercury-retrograde-sky-light-necklace): Introducing our enchanting Mercury Retrograde Sky Light Necklace– your ultimate cosmic companion during those celestial moments of reflection and rejuvenation. With our Sky Light Necklace, you can add a unique and gorgeous touch to any outfit. Wear this elegant and versatile moon necklace with anything, from a t-shirt to your evening gown. - 10mm mercury planet image - Silver plated pendant - 16-19" stainless steel adjustable chain
-  Updated: 2025-11-06T17:10:41Z
-  Vendor: Moonglow Jewelry
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/MercecomSkylight.png?v=1742242231
-  Price: $49.00 USD
 - [Mercury Retrograde Sky Light Necklace in Gold](https://www.moonglow.com/products/mercury-retrograde-sky-light-necklace-in-gold): Introducing our enchanting Mercury Retrograde Sky Light Necklace in gold– your ultimate cosmic companion during those celestial moments of reflection and rejuvenation. With our Sky Light Necklace, you can add a unique and gorgeous touch to any outfit. Wear this elegant and versatile moon necklace with anything, from a t-shirt to your evening gown. - 10mm mercury planet image - 14K gold plated pendant - 16-19" stainless steel adjustable chain
-  Updated: 2025-11-06T17:10:49Z
+  Updated: 2025-11-10T22:07:22Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Mercecomgoldskylight.png?v=1742242233
   Price: $95.00 USD
 - [Gift Bag + Greeting Card Bundle](https://www.moonglow.com/products/gift-bag-greeting-card-bundle): Gift Bag + Greeting Card Bundle
-  Updated: 2025-11-07T17:27:02Z
+  Updated: 2025-11-10T18:01:11Z
   Vendor: Moonglow Jewelry
   Product Type: Gift Wrap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FGift_Bag_-_p-2B_Greeting_Card_Bundle-_p-2F132__cld.jpg?v=1758200924
   Price: $12.00 USD
 - [Moonshine Stud Earrings in Stainless Steel](https://www.moonglow.com/products/moonshine-stud-earrings-in-ss): A balance between bold and beautiful, our newest Moonshine Studs are the earrings you didn’t know you needed. Each stud can be customized, either choose a single date for both studs, alternatively, you can pick two different dates for a sweet asymmetrical look.
-  Updated: 2025-11-06T15:01:12Z
+  Updated: 2025-11-10T19:12:06Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMoonshine_Stud_Earrings_in_Stainless_Steel-_p-2FEcommerceshoot1789__cld.jpg?v=1758287323
   Price: $95.00 USD
 - [Celestial Light Bracelet](https://www.moonglow.com/products/celestial-light-bracelet): Moonstone has been worn over the ages to encourage inner growth and strength. Beaded with genuine moonstone beads, this bracelet features a picture of the moon from any meaningful date of your choice. Ships around August 4th-11th.
-  Updated: 2025-11-07T21:51:42Z
+  Updated: 2025-11-10T22:08:36Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4008,7 +3966,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Lunar Shadow Bracelet](https://www.moonglow.com/products/lunar-shadow-bracelet): Lunar Shadow Bracelet Embrace the quiet mystery of the new moon with the Lunar Shadow Bracelet. Crafted withlabradorite beads known for their shifting, iridescent glow, this bracelet channels the energy of newbeginnings and hidden potential - perfect for setting intentions and welcoming fresh starts. Details:- 10mm moon phase charm- 7" diameter- 6mm labradorite beads
-  Updated: 2025-11-07T22:05:38Z
+  Updated: 2025-11-10T23:03:12Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4110,7 +4068,7 @@
   Availability: Available
   Price: $0.00 USD
 - [FS13-DROP](https://www.moonglow.com/products/fs13-drop)
-  Updated: 2025-11-07T22:05:42Z
+  Updated: 2025-11-10T22:57:07Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4175,7 +4133,7 @@
     Availability: Available
     Price: $0.00 USD
 - [CHARM2SPL-E](https://www.moonglow.com/products/charm2spl-e)
-  Updated: 2025-11-07T14:06:30Z
+  Updated: 2025-11-08T14:06:04Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4187,7 +4145,7 @@
   Availability: Available
   Price: $0.00 USD
 - [FS10-DROP](https://www.moonglow.com/products/fs10-drop)
-  Updated: 2025-11-07T21:51:52Z
+  Updated: 2025-11-10T22:38:12Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4285,13 +4243,13 @@
     Availability: Available
     Price: $0.00 USD
 - [GEM-LAB-BRA-SS](https://www.moonglow.com/products/gem-lab-bra-ss)
-  Updated: 2025-11-07T21:48:46Z
+  Updated: 2025-11-10T22:06:47Z
   Vendor: Moonglow Jewelry
   Product Type: test
   Availability: Available
   Price: $0.00 USD
 - [GEM-MNST-BRA-SS](https://www.moonglow.com/products/gem-mnst-bra-ss)
-  Updated: 2025-11-07T21:49:26Z
+  Updated: 2025-11-10T02:06:41Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4303,7 +4261,7 @@
   Availability: Available
   Price: $0.00 USD
 - [MEN-PDT-BL](https://www.moonglow.com/products/men-pdt-bl)
-  Updated: 2025-11-06T20:14:08Z
+  Updated: 2025-11-10T15:05:57Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4315,7 +4273,7 @@
   Availability: Available
   Price: $0.00 USD
 - [LOVE-NECK-YG](https://www.moonglow.com/products/love-neck-yg)
-  Updated: 2025-11-06T20:03:15Z
+  Updated: 2025-11-08T22:05:56Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4351,49 +4309,49 @@
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-SS-2R](https://www.moonglow.com/products/cm10-007-sp-2r)
-  Updated: 2025-11-07T21:47:46Z
+  Updated: 2025-11-10T14:05:52Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [TWIST-BRA-YG](https://www.moonglow.com/products/twist-bra-yg)
-  Updated: 2025-11-07T21:49:21Z
+  Updated: 2025-11-10T22:07:13Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [925-PDT](https://www.moonglow.com/products/925-pdt)
-  Updated: 2025-11-07T18:05:46Z
+  Updated: 2025-11-10T14:05:57Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CHOKER](https://www.moonglow.com/products/choker)
-  Updated: 2025-11-07T14:06:11Z
+  Updated: 2025-11-09T02:06:35Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $15.00 USD
 - [TWIST-BRA-SS](https://www.moonglow.com/products/twist-bra-ss)
-  Updated: 2025-11-07T14:06:30Z
+  Updated: 2025-11-10T02:07:07Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [HARP-BRA](https://www.moonglow.com/products/harp-bra)
-  Updated: 2025-11-06T20:10:31Z
+  Updated: 2025-11-08T22:07:45Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [MEN-BRA-CURB-BK](https://www.moonglow.com/products/men-bra-curb-bk)
-  Updated: 2025-11-07T21:49:36Z
+  Updated: 2025-11-10T02:06:47Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-SS-1R](https://www.moonglow.com/products/cm10-007-ss-1r)
-  Updated: 2025-11-07T21:50:56Z
+  Updated: 2025-11-10T22:08:25Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4423,25 +4381,25 @@
   Availability: Available
   Price: $0.00 USD
 - [TUR-PDT](https://www.moonglow.com/products/tur-pdt)
-  Updated: 2025-11-07T21:48:30Z
+  Updated: 2025-11-09T14:05:41Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [ADJ-RING-RG](https://www.moonglow.com/products/adj-ring-rg)
-  Updated: 2025-11-07T18:07:16Z
+  Updated: 2025-11-08T18:07:36Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [ADJ-RING-YG](https://www.moonglow.com/products/adj-ring-yg)
-  Updated: 2025-11-07T14:06:07Z
+  Updated: 2025-11-08T18:06:35Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [ADJ-RING-RH](https://www.moonglow.com/products/adj-ring-rh)
-  Updated: 2025-11-07T21:51:16Z
+  Updated: 2025-11-10T22:25:36Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4453,7 +4411,7 @@
   Availability: Available
   Price: $0.00 USD
 - [STAR-CUFF-SS](https://www.moonglow.com/products/star-cuff-ss)
-  Updated: 2025-11-06T20:29:46Z
+  Updated: 2025-11-09T02:08:06Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4465,19 +4423,19 @@
   Availability: Available
   Price: $0.00 USD
 - [Charm1SS-B-KEYC](https://www.moonglow.com/products/charm1ss-b-keyc)
-  Updated: 2025-11-07T22:05:47Z
+  Updated: 2025-11-10T22:08:52Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [SS-LOCKET](https://www.moonglow.com/products/ss-locket)
-  Updated: 2025-11-07T18:06:26Z
+  Updated: 2025-11-10T22:07:16Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [SS-BEAD-28](https://www.moonglow.com/products/ss-bead-28)
-  Updated: 2025-11-07T18:07:28Z
+  Updated: 2025-11-10T22:08:48Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4489,7 +4447,7 @@
   Availability: Available
   Price: $0.00 USD
 - [YG-BEAD-28](https://www.moonglow.com/products/yg-bead-28)
-  Updated: 2025-11-06T20:10:40Z
+  Updated: 2025-11-08T22:07:48Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4513,7 +4471,7 @@
   Availability: Available
   Price: $0.00 USD
 - [RG-BRA-CURB](https://www.moonglow.com/products/rg-bra-curb)
-  Updated: 2025-11-06T20:14:12Z
+  Updated: 2025-11-10T22:08:38Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4525,7 +4483,7 @@
   Availability: Available
   Price: $0.00 USD
 - [CHARM1SPL](https://www.moonglow.com/products/charm1spl-1)
-  Updated: 2025-11-07T22:27:47Z
+  Updated: 2025-11-10T22:34:47Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4596,13 +4554,13 @@
   Availability: Available
   Price: $0.00 USD
 - [PE10-029-GP](https://www.moonglow.com/products/pe10-029-gp)
-  Updated: 2025-11-07T18:07:02Z
+  Updated: 2025-11-10T22:08:12Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [YG-SKCABLE-16-19](https://www.moonglow.com/products/yg-skcable-16-19)
-  Updated: 2025-11-07T18:07:23Z
+  Updated: 2025-11-10T22:08:38Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4614,19 +4572,19 @@
   Availability: Available
   Price: $0.00 USD
 - [RG-SKCABLE-16-19](https://www.moonglow.com/products/rg-skcable-16-19)
-  Updated: 2025-11-06T20:03:02Z
+  Updated: 2025-11-10T22:06:07Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [SPL-BRA-2020](https://www.moonglow.com/products/spl-bra-2020)
-  Updated: 2025-11-07T14:06:26Z
+  Updated: 2025-11-08T14:05:57Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [TERRA-BRA-BL](https://www.moonglow.com/products/terra-bra-bl)
-  Updated: 2025-11-06T20:28:51Z
+  Updated: 2025-11-10T02:07:40Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4655,7 +4613,7 @@
     Availability: Available
     Price: $0.00 USD
 - [ORION CHAIN](https://www.moonglow.com/products/orion)
-  Updated: 2025-11-06T20:10:36Z
+  Updated: 2025-11-10T15:05:58Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4713,7 +4671,7 @@
   Availability: Available
   Price: $0.00 USD
 - [LET001](https://www.moonglow.com/products/let001)
-  Updated: 2025-11-07T21:51:45Z
+  Updated: 2025-11-10T22:23:07Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4778,7 +4736,7 @@
     Availability: Available
     Price: $0.00 USD
 - [SS-BRA-CURB](https://www.moonglow.com/products/ss-bra-curb)
-  Updated: 2025-11-06T23:05:37Z
+  Updated: 2025-11-10T14:06:22Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4868,7 +4826,7 @@
   Availability: Available
   Price: $0.00 USD
 - [FS10-DROP-PK](https://www.moonglow.com/products/fs10-drop-pk)
-  Updated: 2025-11-07T21:48:56Z
+  Updated: 2025-11-10T22:06:56Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -4945,25 +4903,25 @@
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-GP-1R](https://www.moonglow.com/products/cm10-007-gp-1r)
-  Updated: 2025-11-07T21:52:02Z
+  Updated: 2025-11-10T02:07:47Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-RGP-1R](https://www.moonglow.com/products/cm10-007-rgp-1r)
-  Updated: 2025-11-06T20:04:10Z
+  Updated: 2025-11-09T02:06:01Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [LG-SS-LOCKET](https://www.moonglow.com/products/lg-ss-locket)
-  Updated: 2025-11-06T20:09:05Z
+  Updated: 2025-11-08T00:21:33Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Mini Satellite Bracelet in Stainless Steel](https://www.moonglow.com/products/mini-satellite-bracelet-in-gold-copy): Here, the new slim profile of our latest mini moon bracelet is perfect for layering, giving you plenty of creative options to speak your style. This artfully-crafted bracelet designed in luminous gold circles the wrist, holding an awe-inspiring lunar charm featuring the moon from any special date of your choice.
-  Updated: 2025-11-07T21:51:56Z
+  Updated: 2025-11-10T22:08:55Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -5029,7 +4987,7 @@
     Availability: Available
     Price: $49.00 USD
 - [SAT-SS](https://www.moonglow.com/products/sat-ss)
-  Updated: 2025-11-07T02:06:01Z
+  Updated: 2025-11-10T02:06:12Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5047,9 +5005,9 @@
   Availability: Available
   Price: $0.00 USD
 - [Simplicity Spark Necklace in Stainless Steel](https://www.moonglow.com/products/simplicity-spark-necklace-in-stainless-steel): A delicate reimagining of our bestselling Simplicity design, the Simplicity Spark Necklace brings a new level of elegance with its fine Satellite chain. Each subtle glimmer catches the light, creating a soft, sparkling effect that enhances the mini pendant’s timeless charm. Available in stainless steel, 14k gold plated, and 14k rose gold plated, this versatile piece layers beautifully or shines on its own, perfect for everyday wear or adding a refined sparkle to any look. Details:- 10mm moon image- Available in Stainless steel, 14K Gold Plated or Rose Gold Plated- Branded Satellite Chain (Adjustable 16-18”)
-  Updated: 2025-11-07T21:52:05Z
+  Updated: 2025-11-10T22:09:09Z
   Vendor: Moonglow Jewelry
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/EcomSimplicitySparkNecklaceSS.jpg?v=1761772109
   - [CA](https://www.moonglow.com/products/simplicity-spark-necklace-in-stainless-steel?variant=42655575638121)
@@ -5113,9 +5071,9 @@
     Availability: Available
     Price: $55.00 USD
 - [Simplicity Spark Necklace in Gold](https://www.moonglow.com/products/simplicity-spark-necklace-in-gold): A delicate reimagining of our bestselling Simplicity design, the Simplicity Spark Necklace brings a new level of elegance with its fine Satellite chain. Each subtle glimmer catches the light, creating a soft, sparkling effect that enhances the mini pendant’s timeless charm. Available in stainless steel, 14k gold plated, and 14k rose gold plated, this versatile piece layers beautifully or shines on its own, perfect for everyday wear or adding a refined sparkle to any look. Details:- 10mm moon image- Available in Stainless steel, 14K Gold Plated or Rose Gold Plated- Branded Satellite Chain (Adjustable 16-18”)
-  Updated: 2025-11-07T18:07:47Z
+  Updated: 2025-11-10T16:49:28Z
   Vendor: Moonglow Jewelry
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/EcomSimplicitySparkNecklaceGold.jpg?v=1761772112
   - [CA](https://www.moonglow.com/products/simplicity-spark-necklace-in-gold?variant=42655576653929)
@@ -5179,9 +5137,9 @@
     Availability: Available
     Price: $85.00 USD
 - [Simplicity Spark Necklace in Rose Gold](https://www.moonglow.com/products/simplicity-spark-necklace-in-rose-gold): A delicate reimagining of our bestselling Simplicity design, the Simplicity Spark Necklace brings a new level of elegance with its fine Satellite chain. Each subtle glimmer catches the light, creating a soft, sparkling effect that enhances the mini pendant’s timeless charm. Available in stainless steel, 14k gold plated, and 14k rose gold plated, this versatile piece layers beautifully or shines on its own, perfect for everyday wear or adding a refined sparkle to any look. Details:- 10mm moon image- Available in Stainless steel, 14K Gold Plated or Rose Gold Plated- Branded Satellite Chain (Adjustable 16-18”)
-  Updated: 2025-11-07T21:50:07Z
+  Updated: 2025-11-10T16:49:28Z
   Vendor: Moonglow Jewelry
-  Product Type: 
+  Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/EcomSimplicitySparkNecklaceRoseGold.jpg?v=1761772116
   - [CA](https://www.moonglow.com/products/simplicity-spark-necklace-in-rose-gold?variant=42655578914921)
@@ -5245,14 +5203,14 @@
     Availability: Available
     Price: $85.00 USD
 - [Mercury Simplicity Choker](https://www.moonglow.com/products/mercury-retrograde-simplicity-choker): Celebrate the Lunar Eclipse with our Asterism Bracelet. This lovely link chain bracelet features a Lunar Eclipse pendant surrounded by tiny sparkles that resemble the stars overhead.
-  Updated: 2025-11-07T09:13:40Z
+  Updated: 2025-11-10T22:08:47Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/EcomMercurySimplicityChoker.jpg?v=1762448906
   Price: $45.00 USD
 - [Mercury Hairpin](https://www.moonglow.com/products/mercury-hairpin): Channel the cosmic elegance of Mercury Retrograde with our Limited Edition Mercury Hairpin. Crafted from durable stainless steel, this celestial accessory features a radiant 10mm image of the Mercury planet, encircled by sparkling zirconia crystals that capture the light like stardust. Designed to bring a touch of the universe to your hairstyle, this piece celebrates Mercury’s reflective power and shimmering beauty during its retrograde phase in November.
-  Updated: 2025-11-07T06:46:19Z
+  Updated: 2025-11-10T20:13:46Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -5261,1927 +5219,48 @@
 - [Cosmic Cocktail Locket Necklace](https://www.moonglow.com/products/cosmic-cocktail-locket-necklace): celestial trio. The harmonious pink-and-purple tones shimmer together like a galactic cocktail, symbolizing the fluid beauty and mystery of Mercury’s dance through the stars.
 
 Each miniature moon and planet is a detailed 10mm image set within a sleek locket design, evoking wonder every time it catches the light. Perfect for star lovers, mystics, and anyone drawn to the universe’s luminous side.
-  Updated: 2025-11-07T06:04:11Z
+  Updated: 2025-11-10T12:31:49Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Ecom_Cosmic_Cocktail_Necklace.jpg?v=1762456110
   Price: $135.00 USD
 - [DOT-CH-RG](https://www.moonglow.com/products/dot-ch-rg)
-  Updated: 2025-11-07T18:05:57Z
+  Updated: 2025-11-09T02:05:57Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [DOT-CH-YG](https://www.moonglow.com/products/dot-ch-yg)
-  Updated: 2025-11-07T18:07:34Z
+  Updated: 2025-11-10T02:07:37Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [DOT-CH-SS](https://www.moonglow.com/products/dot-ch-ss)
-  Updated: 2025-11-07T18:06:26Z
+  Updated: 2025-11-10T22:07:20Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
-
-## Collections
-
-- [*Old - Home page](https://www.moonglow.com/collections/home-page)
-  Updated: 2025-09-08T04:42:01Z
-  Total Products: 0
-- [Jewelry For Women | Moonglow Jewelry](https://www.moonglow.com/collections/women): Unique and special jewelry for women. Celebrate a milestone or an everyday occasion with a Moonglow piece of jewelry that fits your personality and style.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 232
-- [Necklaces, Bracelets & Key Rings | Men’s](https://www.moonglow.com/collections/men): Browse our men's moon jewelry collection featuring chains, bracelets, cufflinks, and key rings. The perfect gift for adventurous men who dare to be different.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 29
-- [Moonlight Jewelry Collection | Moonglow](https://www.moonglow.com/collections/moonlight-collection): Moonlight jewelry collection of pendants, necklaces, and chain are easy to customize. Simply select a special day you want to remember like a birthday, wedding, or anniversary, and then order in seconds.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 4
-- [Mini And Skinny Moon Jewelry | Moonglow](https://www.moonglow.com/collections/mini-moon-collection): Mini Moon Collection, earrings, necklaces, and rings--oh my! Our mini moon collection is out of this world, and it's the perfect way to bring your style to the next level. Accessorizing has never been easier than it is now with these customizable jewelry pieces.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 30
-- [Womens Choker Necklaces | Moonglow Jewelry](https://www.moonglow.com/collections/choker-necklaces): With Moonglow’s women’s choker necklaces collection, you can wear a necklace that is stylish, trendy, and has a special meaning that only you know.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Unique Birthstone Jewelry](https://www.moonglow.com/collections/unique-birthstone-jewelry): Unique Birthstone Jewelry designed to suit your style. Available in stainless steel or silver, each piece features a moon phase from a date of your choice.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 4
-- [Gold Moon Jewelry](https://www.moonglow.com/collections/gold-jewelry): Uncover the beauty and meaning of gold jewelry with Moonglow's Golden Memories collection. Perfect for cherished memories and unique moments.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 41
-- [Jewelry Gift For Special Moment | Moonglow](https://www.moonglow.com/collections/jewelry-gifts): Select the perfect moon phase jewelry gift for special moments. Moonglow offers meaningful moment with our artisan-crafted moon jewelry gift for men and women.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 109
-- [Personalized Women’s Moon Necklaces](https://www.moonglow.com/collections/womens-necklaces-old): Moon Necklaces are perfect gifts for women who have everything, even a deep connection with the cosmos. Personalized with the moon from any date of your choice.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 59
-- [Charm Bracelets For Women](https://www.moonglow.com/collections/womens-bracelets): We offer a wide range of moon charm bracelets for women that are perfect for any occasion. Choose from stainless steel, pewter, gold, silver, or rose gold.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 93
-- [Get a Moon Ring With Your Chosen Moon Phase](https://www.moonglow.com/collections/rings): Indulge your wanderlust with a Moonglow ring. Simple yet timeless, our moon rings mix art and utility. Get one for yourself or gift it to someone special.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 23
-- [Moon Chains Collection](https://www.moonglow.com/collections/chains): Our timeless moon chain collection features pieces made with outstanding attention to detail. Find chains in a variety of lengths, designs, and finishings.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Moon Phases Earrings](https://www.moonglow.com/collections/earrings): Adorn your ears with these beautiful moon phases earrings. Our moon earrings are perfect for any occasion and will be cherished for years to come.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 17
-- [Moon Phase Jewelry Sets And Pendant Sets | Moonglow](https://www.moonglow.com/collections/moon-pendant-sets): Customized moon phase jewelry sets and pendant sets for women. Giving the perfect gift may seem like an intimidating task, but it’s actually easier than you’d think with these women’s jewelry sets and pendant sets!
-  Updated: 2025-09-08T04:42:02Z
-  Total Products: 3
-- [Bangle Moon Bracelets](https://www.moonglow.com/collections/bangle-bracelets): A moon bracelet adds a perfect accent to any outfit. Delicate and subtle, these jewelry bracelets are a statement of love, style, and affection.
-  Updated: 2025-11-07T16:16:55Z
-  Total Products: 95
-- [Custom Mens Necklaces With Moon Phase | Moonglow](https://www.moonglow.com/collections/mens-necklaces): Modern, masculine and uniquely personal collection of mens necklaces with moon phase at Moonglow. These personalized mens necklaces are designed to inspire the imagination and stir the soul.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 21
-- [Custom Mens Bracelets With Moon Phase | Moonglow](https://www.moonglow.com/collections/mens-bracelets): Choose from Moonglow's custom mens bracelet collection with moon phase for the perfect gift to your masculine yet sensitive guy. These personalized bracelets for men are stylish, trendy, and classic enough to stand the test of time.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Custom Anniversary Jewelry | Moonglow](https://www.moonglow.com/collections/anniversary-2): All of our custom anniversary jewelry gift options have some serious flair-matching to any style and making it easier than ever for you to choose the best-ever anniversary gift for that special someone.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 38
-- [Gift Guide | Moonglow](https://www.moonglow.com/collections/gift-guide): If you want to surprise that special person in your life with a cool Christmas gift, there is no better way to achieve that goal than to give them a custom made piece of Moonglow jewelry. You can present your loved one with an expertly crafted piece of jewelry that depicts a special moment in your history together. Moonglow gift jewelry is the perfect way to avoid the same old cliché Christmas gifts. Our unique pieces of jewelry are cool gifts for Christmas. Every necklace, ring and set of earrings our artisans create is original and unique to you and the one you love. Each handcrafted piece of Christmas gift jewelry is more than just an object; it is a symbol of the precious moments you have shared with your loved ones. Moonglow jewelry is a great way to show your love that you care on Christmas. Our expert designers and staff would be thrilled to help you create a beautiful, cool Christmas gift.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 109
-- [Personalized Jewelry For The One You Love | Moonglow](https://www.moonglow.com/collections/love): Shop our personalized jewelry for the one you love. There’s no better way to show off style and love at the same time with a customized moon jewelry gift.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 70
-- [Moonglow Collections | Moonglow](https://www.moonglow.com/collections/collections): Looking for a customized moon phase jewelry collection you love? Browse the list below to explore our favorite Moonglow collection jewelry as you like.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 65
-- [Womens Necklaces | Moonglow](https://www.moonglow.com/collections/womens-necklaces): Moon phase necklaces that hold your moments.
-  Updated: 2025-11-07T21:47:47Z
-  Total Products: 92
-- [Moonphase | Moonglow](https://www.moonglow.com/collections/moon-phase)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 4
-- [Astrological Signs | Moonglow](https://www.moonglow.com/collections/astrological-signs)
-  Updated: 2025-09-08T04:42:02Z
-  Total Products: 4
-- [Flowers | Moonglow](https://www.moonglow.com/collections/flowers)
-  Updated: 2025-09-08T04:42:02Z
-  Total Products: 2
-- [Constellations | Moonglow](https://www.moonglow.com/collections/constellations)
-  Updated: 2025-11-03T12:04:35Z
-  Total Products: 48
-- [Chinese Astrology | Moonglow](https://www.moonglow.com/collections/chinese-astrology)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 5
-- [Celestial Planets | Moonglow](https://www.moonglow.com/collections/celestial-planets)
-  Updated: 2025-10-06T21:14:26Z
-  Total Products: 4
-- [Summer Styles | Moonglow](https://www.moonglow.com/collections/summer-styles)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [Love and Honor Pendants | Moonglow](https://www.moonglow.com/collections/love-and-honor-pendants)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 1
-- [Reflection Collection | Moonglow](https://www.moonglow.com/collections/reflection-collection)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 1
-- [CYBER MONDAY DEALS | Moonglow](https://www.moonglow.com/collections/cyber-monday-deals)
-  Updated: 2025-09-25T11:56:18Z
-  Total Products: 3
-- [*Old - Breast Cancer Jewelry](https://www.moonglow.com/collections/breast-cancer-jewellery): Explore our Breast Cancer Jewelry collection, created to inspire strength and love. Choose a classic, timeless, and uniquely personal piece of jewelry.
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 16
-- [Homepage Best Sellers | Moonglow](https://www.moonglow.com/collections/homepage-bestsellers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 47
-- [Shop + Save | Moonglow](https://www.moonglow.com/collections/shop-and-save): Shop and use your discount code to save.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 151
-- [POS | Moonglow](https://www.moonglow.com/collections/pos)
-  Updated: 2025-09-25T11:56:19Z
-  Total Products: 5
-- [Openers | Moonglow](https://www.moonglow.com/collections/openers)
-  Updated: 2025-09-25T11:56:19Z
-  Total Products: 0
-- [Custom Anklets](https://www.moonglow.com/collections/anklets): Unlock your personal story with our custom anklet collection. We offer a wide range of custom anklets from classic link or snake chains to modern designs.
-  Updated: 2025-10-14T11:05:15Z
-  Total Products: 5
-- [Moon Phase Jewelry](https://www.moonglow.com/collections/jewelry): Moonglow’s moon phase jewelry is a unique and exciting way to connect with the moon and everyone around us. Designed to keep your memories alive.
-  Updated: 2025-11-07T21:09:35Z
-  Total Products: 319
-- [Many Moments | Moonglow](https://www.moonglow.com/collections/many-moments): Every Moon, a Different Meaning.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 51
-- [Gift Cards | Moonglow](https://www.moonglow.com/collections/gift-card-collection)
-  Updated: 2025-10-15T11:04:41Z
-  Total Products: 2
-- [Active Products | Moonglow](https://www.moonglow.com/collections/active-products): All products that are active on the Online Store Excludes upcoming discontinued list
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 124
-- [Friday the 13th | Moonglow](https://www.moonglow.com/collections/friday-the-13th)
-  Updated: 2025-10-21T13:21:31Z
-  Total Products: 3
-- [password protected | Moonglow](https://www.moonglow.com/collections/password-protected)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 13
-- [*Old - BFF](https://www.moonglow.com/collections/bff)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 0
-- [Just Landed | New Products | Moonglow](https://www.moonglow.com/collections/just-landed): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 76
-- [We Think You'd Like | Moonglow](https://www.moonglow.com/collections/we-think-youd-like)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 1
-- [Lunar Boutique | Moonglow](https://www.moonglow.com/collections/lunar-boutique)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [Top Selling Jewelry | Moonglow](https://www.moonglow.com/collections/top-selling-jewelry): Choose from any of our top selling jewelry items. Necklaces, bracelets, chains, pendants and more!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 39
-- [Engraving | Moonglow](https://www.moonglow.com/collections/engraving)
-  Updated: 2025-09-08T04:42:03Z
-  Total Products: 0
-- [*Old - Lunar Boutique](https://www.moonglow.com/collections/lunar-boutique-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 8
-- [Rose Gold | Moonglow](https://www.moonglow.com/collections/rose-gold): On Wednesdays we wear pink...and every other day. Shop custom moon phase necklaces and bracelets in a jaw-dropping rose gold finish.
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 9
-- [48 Hour Flash Sale](https://www.moonglow.com/collections/flash-sale): Enjoy your long weekend with 15% off some of our most desired pieces!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Halloween Sale](https://www.moonglow.com/collections/halloween-sale)
-  Updated: 2025-09-25T11:56:19Z
-  Total Products: 0
-- [Black Friday Deals](https://www.moonglow.com/collections/black-friday-deals): Moonglow's Black Friday Deals and more!
-  Updated: 2025-09-25T11:56:20Z
-  Total Products: 0
-- [For Us](https://www.moonglow.com/collections/for-us)
-  Updated: 2025-11-07T16:27:58Z
-  Total Products: 34
-- [Black Friday 25](https://www.moonglow.com/collections/black-friday-25)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 76
-- [SHOP Holiday Deals](https://www.moonglow.com/collections/christmas-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 7
-- [Valentine's Day](https://www.moonglow.com/collections/valentines-day): Spoil your loved ones with custom moon phase jewelry, remembering your special moment. Free shipping on US orders over $50.
-  Updated: 2025-09-25T11:56:20Z
-  Total Products: 0
-- [Valentine's Day Sale](https://www.moonglow.com/collections/valentines-day-sale)
-  Updated: 2025-09-25T11:56:20Z
-  Total Products: 0
-- [*Old - Sale items](https://www.moonglow.com/collections/sale-items)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 27
-- [End of Winter Sale](https://www.moonglow.com/collections/end-of-winter-sale)
-  Updated: 2025-09-25T11:56:20Z
-  Total Products: 0
-- [St. Patrick's Day Sale](https://www.moonglow.com/collections/st-patricks-day-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 322
-- [*Old - Beaded Bracelets](https://www.moonglow.com/collections/beaded-bracelets)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 7
-- [Mother’s Day Jewelry](https://www.moonglow.com/collections/mothers-day-sale): On this Mother’s Day, show your mom how much you care with beautiful Moonglow jewelry. Make your gift extra special by engraving it with a special date.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [Engravable Jewelry](https://www.moonglow.com/collections/engravable-leg): Moonglow’s engravable jewelry is the perfect way to celebrate meaningful moments. Customize your piece with an engravable word or date and a lunar phase.
-  Updated: 2025-11-07T18:06:27Z
-  Total Products: 146
-- [*Old - Summer Sale](https://www.moonglow.com/collections/summer-sale)
-  Updated: 2025-09-08T04:42:04Z
-  Total Products: 0
-- [Sitewide Sale](https://www.moonglow.com/collections/sitewide-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 322
-- [Gifts Under $50](https://www.moonglow.com/collections/gifts-under-50)
-  Updated: 2025-11-07T21:09:35Z
-  Total Products: 257
-- [Engravables-old](https://www.moonglow.com/collections/engravables-old)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 21
-- [Deal of the Week](https://www.moonglow.com/collections/deal-of-the-week)
-  Updated: 2025-11-05T12:05:25Z
-  Total Products: 1
-- [Moon Gifts For Her](https://www.moonglow.com/collections/gift-collection): The Moonglow Gift Collection is the perfect gift for her. Each piece is carefully crafted and can be personalized with a date of your choice.
-  Updated: 2025-11-02T12:04:39Z
-  Total Products: 5
-- [*Old - National Family Day](https://www.moonglow.com/collections/national-family-day-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 46
-- [Beautiful Jewelry For Boyfriend’s Day](https://www.moonglow.com/collections/national-boyfriends-day): On National Boyfriend's Day, show your man how much you appreciate him with a jewelry gift from Moonglow. Personalize your piece with a date of your choice.
-  Updated: 2025-11-05T15:55:53Z
-  Total Products: 6
-- [Holiday Gift Guide](https://www.moonglow.com/collections/holiday-gift-guide): Every moment has a moon, and every person on your holiday shopping list has a special moment to be cherished. Whether it’s gifting your spouse with the moon from the day you said “I do”,  group-gifting for your grandchildren, or celebrating your baby’s first Christmas, Moonglow jewelry Holiday Gift Guide Collection offers the perfect gifts to commemorate the people and moments you hold closest to your heart. Enjoy free holiday gift wrapping with every purchase all holiday season, so you can spend less time on wrapping presents and more time on what matters most.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 74
-- [Holiday Sale Best Sellers](https://www.moonglow.com/collections/holiday-sale-best-sellers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 25
-- [*Old - Sitewide Black Friday Sale Collection](https://www.moonglow.com/collections/sitewide-black-friday-sale-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 82
-- [Holiday Deals | Jewelry On Sale](https://www.moonglow.com/collections/holiday-deals): Introducing our latest stylish pieces, now on holiday sale. All our jewelry pieces feature unique designs that are sure to turn heads. Shop yours here!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 30
-- [Aurelie's Sale](https://www.moonglow.com/collections/aurelies-sale)
-  Updated: 2025-09-08T04:42:05Z
-  Total Products: 1
-- [Free Birthstone Bracelet with Purchase of $100+](https://www.moonglow.com/collections/free-birthstone-bracelet-with-purchase-of-100)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 136
-- [Waning Gibbous](https://www.moonglow.com/collections/waning-gibbous)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 114
-- [Waxing Gibbous Collection | Moon Necklaces & More](https://www.moonglow.com/collections/waxing-gibbous): Experience the magic of the lunar cycle with Moonglow's waxing gibbous necklace. Perfect for gifting or treating yourself to celestial elegance.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 116
-- [New Moon Jewelry | Necklaces, Bracelets, Rings & More](https://www.moonglow.com/collections/new-moon): Explore Moonglow's New Moon Jewelry Collection. Embrace new beginnings with our unique new moon necklaces and more. Wear the magic of the moon!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 93
-- [Full Moon Collection](https://www.moonglow.com/collections/full-moon): Indulge in the allure of the moon with our Full Moon jewelry collection. Connect with the moon’s cosmic energy and symbolism every day.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 124
-- [Waxing Crescent Moon Collection | Moonglow Jewelry](https://www.moonglow.com/collections/waxing-crescent): Moonglow's Waxing Crescent jewelry is a symbol of personal growth, love, and curiosity. Delve into the captivating allure of this jewelry collection today.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 122
-- [Lunar Eclipse](https://www.moonglow.com/collections/lunar-eclipse)
-  Updated: 2025-10-06T21:14:27Z
-  Total Products: 12
-- [Solar Eclipse Jewelry | Necklaces, Rings & More](https://www.moonglow.com/collections/solar-eclipse): Explore Moonglow’s unique solar eclipse jewelry. Our Solar Eclipse Collection includes necklaces, rings and more. Each piece captures celestial magic!
-  Updated: 2025-10-02T11:04:44Z
-  Total Products: 14
-- [Waning Crescent Moon Jewelry | Moonglow Jewelry](https://www.moonglow.com/collections/waning-crescent): Moonglow's Waning Crescent Moon jewelry celebrates the beauty of the waning crescent moon. A collection for dreamers and creatives that's sure to impress.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 113
-- [Birthday Gift Guide](https://www.moonglow.com/collections/birthday): Looking for a birthday gift for the moon lover in your life? Moonglow's Birthday Gift Guide has curated some of our favorite pieces to make their birth moons glow bright! Whether you choose a birth moon and birthstone necklace or an astrological constelation ring – find the perfect gift here.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 24
-- [Celebrate Friendship](https://www.moonglow.com/collections/friendship)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 42
-- [New Mom](https://www.moonglow.com/collections/new-mom)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Anniversary Jewelry Gift Guide](https://www.moonglow.com/collections/anniversary-engagement): Moonglow's Anniversary Jewelry is the perfect way to celebrate and surprise someone you love. Wear these beautiful pieces as a symbol of your commitment.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 38
-- [Achievement](https://www.moonglow.com/collections/achievement)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [Memorial Jewelry Collection](https://www.moonglow.com/collections/memorial): Celebrate the beauty in all things and how we're all connected with Moonglow’s Memorial jewelry. Personalize each piece with a date you cherish.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 23
-- [Pet Lovers](https://www.moonglow.com/collections/pets)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Spiritual](https://www.moonglow.com/collections/spiritual)
-  Updated: 2025-10-21T13:21:31Z
-  Total Products: 2
-- [shop-all](https://www.moonglow.com/collections/shop-all)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 484
-- [*Old - soldout](https://www.moonglow.com/collections/soldout)
-  Updated: 2025-11-07T21:52:35Z
-  Total Products: 209
-- [Smart Products Filter Index - Do not delete](https://www.moonglow.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-11-07T21:08:38Z
-  Total Products: 594
-- [Bundle & Save](https://www.moonglow.com/collections/bundles)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 42
-- [Gifts Under $100](https://www.moonglow.com/collections/gifts-under-100)
-  Updated: 2025-11-07T21:09:36Z
-  Total Products: 353
-- [Gifts Under $200](https://www.moonglow.com/collections/under-200)
-  Updated: 2025-11-07T21:09:36Z
-  Total Products: 416
-- [Engravable Pendant](https://www.moonglow.com/collections/engraved-on-back)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 30
-- [Celestial Muse](https://www.moonglow.com/collections/celestial-muse-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 35
-- [Key Chains](https://www.moonglow.com/collections/key-chains)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Inspired By Virgo | Moonglow Jewelry](https://www.moonglow.com/collections/virgo): The Inspired By Virgo jewelry collection features delicate necklaces, rings, and bracelets. Captivate those around you with the power of Virgo!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 52
-- [Pink Jewelry Necklaces & Chokers](https://www.moonglow.com/collections/pink-moon-collection): Moonglow’s pink jewelry necklaces serve as a reminder to find beauty in even the darkest times. Choose our pink moons to embrace hope and love.
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 24
-- [Inspired by Libra](https://www.moonglow.com/collections/libra): Custom moon phase jewelry designed for Libras. Featuring the moon from the date of your choice.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 45
-- [Warmth & Wane Collection](https://www.moonglow.com/collections/fall2020)
-  Updated: 2025-11-05T15:55:53Z
-  Total Products: 6
-- [Inspired By Scorpio | Moonglow Jewelry Collection](https://www.moonglow.com/collections/scorpio): Be inspired by the power of Scorpio with this stunning jewelry collection by Moonglow. This collection offers necklaces, keychains, rings, and bracelets.
-  Updated: 2025-11-03T15:29:34Z
-  Total Products: 49
-- [Inspired by Sagittarius](https://www.moonglow.com/collections/inspired-by-sagittarius)
-  Updated: 2025-11-05T12:05:25Z
-  Total Products: 45
-- [The Toujours Collection](https://www.moonglow.com/collections/the-toujours-collection)
-  Updated: 2025-10-27T15:31:37Z
-  Total Products: 3
-- [Valentine's Gift Guide](https://www.moonglow.com/collections/valentines-gift-guide): Your go-to Moonglow gift guide for the love(s) in your life! From parents, to galentines, to your Valentine – give the gift of Moonglow.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 59
-- [Inspired by Capricorns](https://www.moonglow.com/collections/capricorn)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 14
-- [Inspired by Taurus](https://www.moonglow.com/collections/taurus)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Inspired by Aries](https://www.moonglow.com/collections/aries)
-  Updated: 2025-11-03T12:04:35Z
-  Total Products: 38
-- [Inspired by Geminis](https://www.moonglow.com/collections/gemini)
-  Updated: 2025-10-06T21:14:28Z
-  Total Products: 1
-- [Inspired by Cancers](https://www.moonglow.com/collections/astrology-cancer)
-  Updated: 2025-10-06T21:14:28Z
-  Total Products: 0
-- [Inspired by Leos](https://www.moonglow.com/collections/leo)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 4
-- [Inspired by Aquarius](https://www.moonglow.com/collections/aquarius)
-  Updated: 2025-11-03T15:26:21Z
-  Total Products: 43
-- [Inspired by Pisces](https://www.moonglow.com/collections/pisces)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Stellar Sky Collection](https://www.moonglow.com/collections/stellar-collection): Meet our latest celestial obsession, “The Stellar Sky Collection”. The pieces you know and love now reintroduced with a twist that was written in the stars. For our astrology and star-crossed lovers alike, we present the 12 zodiac constellations in place of the Moon. Look for the “Astral” to know it’s a piece from the Stellar Sky Collection.
-  Updated: 2025-10-06T21:14:28Z
-  Total Products: 33
-- [Boost All](https://www.moonglow.com/collections/boost-all)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 484
-- [Moon and Stars](https://www.moonglow.com/collections/my-moon-and-stars): Combine your moon phase and ruling constellation to capture the night sky from the date you were born with the Moon and Stars collection! Our signature beautiful moon phase jewelry combines with the constellation of your astrological sign to make you birth date glow!
-  Updated: 2025-10-06T21:14:28Z
-  Total Products: 7
-- [Gifts for Mother's Day](https://www.moonglow.com/collections/gifts-for-mothers-day): Celebrate the Moms in your life with the original moon phase jewelry. From dog moms, adoptive moms, to grand-moms celebrate their bond with a moon phase necklace or moon ring with a date closest to their hearts.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 62
-- [Layers of Love](https://www.moonglow.com/collections/layers-of-love)
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 0
-- [Choose Your Layered Choker Necklace](https://www.moonglow.com/collections/chokers-layers): Looking for a way to freshen up your look with a layered choker necklace? The Chokers + Layers collection includes everything you need for a stylish look.
-  Updated: 2025-10-29T11:04:15Z
-  Total Products: 2
-- [Graduation](https://www.moonglow.com/collections/graduation)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 20
-- [Memorial 2021](https://www.moonglow.com/collections/memorial-2021)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 38
-- [core](https://www.moonglow.com/collections/core)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 72
-- [Father's Day](https://www.moonglow.com/collections/fathers-day)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 17
-- [*Old - Prime Deals](https://www.moonglow.com/collections/prime-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 8
-- [Earthglow Collection](https://www.moonglow.com/collections/earth-glow-mini-collection)
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 8
-- [Endless Summer Collection](https://www.moonglow.com/collections/endless-summer-collection): Meet the Endless Collection, inspired by our wish to have one of the best summersyet, to soak in the sun, to bask in the moon and stars and be together again.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 13
-- [*Old - Labor Day Sale 2021](https://www.moonglow.com/collections/labor-day-sale-2021)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [Precious Paw Collection | Paw Printed Pieces | Moonglow Jewelry](https://www.moonglow.com/collections/precious-paw-collection): Moonglow's Precious Paw Collection is a meaningful collection of paw printed jewelry celebrating the connection that unites us with the moon and our pets.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Many Moon Bracelets](https://www.moonglow.com/collections/many-moon-bracelets): Celebrate all of life's Moments with bracelets that capture more than just one special day!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 30
-- [Astral Bracelets](https://www.moonglow.com/collections/astral-bracelets): Celebrate the astrology lover in your life with our Astral Bracelets! Capture their constellation from their moon sign.
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 14
-- [Gold & Rose Gold Bracelets](https://www.moonglow.com/collections/gold-rose-gold-bracelets): Have a gold lover in your life? Treat them to golden memories with golden bracelets!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 13
-- [Julien's Gift Guide](https://www.moonglow.com/collections/juliens-gift-guide): Our CEO and Co-Founder Julien has put together his favorite Moonglow gifts from over the years to help you make your 2021 gifting dreams come true!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Aurelie's Gift Guide](https://www.moonglow.com/collections/aurelies-gift-guide): Our visionary, Creative Director, and Co-Founder Aurelie brings us her favorite pieces to make your 2021 holidays extra special with a gift from the heart.
-  Updated: 2025-11-02T12:04:39Z
-  Total Products: 4
-- [Many Moments Gift Guide](https://www.moonglow.com/collections/many-moments-gift-guide): Celebrate someone who has a lifetime of memories with the Many Moments Gift Guide! From birthdays of all of their family, to Moments that mark the milestones of a relationship, find your moons now.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 26
-- [Gifting For Him](https://www.moonglow.com/collections/gifting-for-him): Shop Moments for him!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [Golden Gift Guide](https://www.moonglow.com/collections/golden-gift-guide): Have a gold lover in your life? Give them the gift a Moment that makes their heart glow in jewelry that they will want to wear all year long!
-  Updated: 2025-11-05T12:05:25Z
-  Total Products: 6
-- [Gifts for Them](https://www.moonglow.com/collections/gifts-for-them): Bundle and save for your gifts! Celebrate siblings, best friends, or a couple close to your heart because sometimes two Moments are better than one.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 35
-- [$100 Gift Bundles](https://www.moonglow.com/collections/100-holiday-bundles): Get your holiday shopping done with our $100 gifting bundles! Receive a special Moonglow Moment, gift bag, and accessory for our flat rate and be holiday ready.
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 0
-- [$50 Gift Bundles](https://www.moonglow.com/collections/50-holiday-bundles): Get everything you need for your holiday season with Moonglow's $50 Holiday Bundles.
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 0
-- [Gift Bundles](https://www.moonglow.com/collections/holiday-bundles): For a set price of $50 or $100 get a Moment bundled up with everything you need for the perfect gift. Give them the moon this holiday season from a date close to the heart and make their holidays glow.
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 0
-- [Last Call](https://www.moonglow.com/collections/last-call): Some of our favorite moon phase jewelry is in its final phase. Get your favorite moments while you can!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Be My Valentine](https://www.moonglow.com/collections/be-my-valentine): Find the perfect moon phase gift for your Valentine – or Galentine! – with Moonglow! From new perfectly paired his and hers moon jewelry sets to our most loved styles, find the perfect gift or be inspired today!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 72
-- [Astral Necklaces](https://www.moonglow.com/collections/astral-necklaces): Capture your star sign with our astrological constellation necklaces! With beautiful blue sky and bright stars let your ruling constelation glow bright.
-  Updated: 2025-10-11T11:04:30Z
-  Total Products: 8
-- [Many Moon Necklaces](https://www.moonglow.com/collections/many-moon-necklaces): Celebrate all of your memories with the many moon necklaces! From two moons to five moon necklaces celebrate them all!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 11
-- [Gold & Rose Gold Necklaces](https://www.moonglow.com/collections/gold-rose-gold-necklaces): Celebrate your moon moment with gold and rose gold moon phase necklaces.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 7
-- [Astral Rings](https://www.moonglow.com/collections/astral-rings): Celebrate your celestial soul with the constellation that ruled the sky when you were born! Capture you moon and star sign with an astrology ring today.
-  Updated: 2025-10-06T21:14:29Z
-  Total Products: 0
-- [Gold & Rose Gold Rings](https://www.moonglow.com/collections/gold-rose-gold-rings): Celebrate your deaest memories with custom moon phase jewelry. Find the date closest to your heart and select one of our beautiful moon phase rings in gold to make it shine extra bright!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 23
-- [Ring Bundles](https://www.moonglow.com/collections/ring-bundles): Want to celebrate many moments, or find a matching set for you and a loved one to share? With bundles get two precious moon phase jewelry pieces and save up to 10% off!
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 0
-- [Hoop Earrings](https://www.moonglow.com/collections/hoop-earrings): Celebrate one or two special memories with your personal flare with our beautiful moon phase hoop earrings!
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 3
-- [Stud Earrings](https://www.moonglow.com/collections/stud-earrings): From one Moment to two, celebrate the memories closest to your heart with moon phase stud earrings.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 3
-- [Astral Earrings](https://www.moonglow.com/collections/astral-earrings): Show off your star sign with beautiful customizable stud earrings!
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 1
-- [Engravable](https://www.moonglow.com/collections/engravable): Customize your moon phase jewelry with words from the heart with our engravable tags!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 233
-- [Engravable Gold Jewelry](https://www.moonglow.com/collections/engravable-gold-jewelry)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 35
-- [Men's Accessories](https://www.moonglow.com/collections/mens-accessories)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 28
-- [Gifts for Men](https://www.moonglow.com/collections/gifts-for-men)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 8
-- [Core Products](https://www.moonglow.com/collections/core-products)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 74
-- [Retailer Friendly](https://www.moonglow.com/collections/retailer-friendly)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 20
-- [Bangles](https://www.moonglow.com/collections/bangles)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 9
-- [Furry Friends](https://www.moonglow.com/collections/furry-friends)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 4
-- [SMS Exclusive Savings](https://www.moonglow.com/collections/sms-exclusive-savings)
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 3
-- [Non core](https://www.moonglow.com/collections/non-core)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 322
-- [Anniversary Sale](https://www.moonglow.com/collections/anniversary-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 136
-- [Nautical Summer](https://www.moonglow.com/collections/nautical-summer)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 28
-- [His & Hers](https://www.moonglow.com/collections/his-hers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Back to School](https://www.moonglow.com/collections/back-to-school): Give them the best gift under the moon to celebrate another year of school! Whether counting down the days to graduation, beginning college, or their first day as a teacher – honor their BIG Moments!
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 66
-- [Virgo](https://www.moonglow.com/collections/virgo-1)
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 1
-- [Moonglow Birthday Box](https://www.moonglow.com/collections/moonglow-birthday-box)
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 0
-- [Pink Ribbon](https://www.moonglow.com/collections/pink-ribbon)
-  Updated: 2025-11-03T15:26:13Z
-  Total Products: 3
-- [Black Matte and Vintage](https://www.moonglow.com/collections/black-matte-and-vintage)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [SOLAR](https://www.moonglow.com/collections/solar)
-  Updated: 2025-10-06T21:14:30Z
-  Total Products: 15
-- [Gifts Under $40](https://www.moonglow.com/collections/under-40)
-  Updated: 2025-11-07T21:08:38Z
-  Total Products: 233
-- [thanks](https://www.moonglow.com/collections/thanks)
-  Updated: 2025-11-06T17:00:54Z
-  Total Products: 7
-- [Thanksgiving Promo Deals](https://www.moonglow.com/collections/thanksgiving-promo-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 33
-- [The Chloé Caroline Edit](https://www.moonglow.com/collections/the-chloe-caroline-edit)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 11
-- [Soulmate](https://www.moonglow.com/collections/soulmate)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 31
-- [Product Feed Collection](https://www.moonglow.com/collections/product-feed-collection): Our collection for our Moonglow product feeds.
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 95
-- [Shop All](https://www.moonglow.com/collections/gemstone-jewelry)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Wedding](https://www.moonglow.com/collections/wedding)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 89
-- [Secret](https://www.moonglow.com/collections/secret)
-  Updated: 2025-11-03T15:26:46Z
-  Total Products: 15
-- [Solid Gold + Sterling Silver](https://www.moonglow.com/collections/solid-gold-sterling-silver)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 2
-- [Purple Moon Collection](https://www.moonglow.com/collections/purple)
-  Updated: 2025-10-06T21:14:31Z
-  Total Products: 11
-- [Ornaments](https://www.moonglow.com/collections/ornaments)
-  Updated: 2025-09-25T11:56:21Z
-  Total Products: 0
-- [Greeting Cards](https://www.moonglow.com/collections/greeting-cards)
-  Updated: 2025-10-15T11:04:43Z
-  Total Products: 4
-- [Accessories](https://www.moonglow.com/collections/accessories)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 8
-- [Gemstones](https://www.moonglow.com/collections/summer-gemstones)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [Products](https://www.moonglow.com/collections/all)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 484
-- [The Blue Moon](https://www.moonglow.com/collections/the-blue-moon)
-  Updated: 2025-09-25T11:56:50Z
-  Total Products: 13
-- [The Astral Bhavana Collection](https://www.moonglow.com/collections/the-astral-bhavana-collection)
-  Updated: 2025-09-25T11:56:51Z
-  Total Products: 3
-- [Fall 2023](https://www.moonglow.com/collections/fall-2023)
-  Updated: 2025-10-20T13:31:02Z
-  Total Products: 12
-- [*Old - Bundles](https://www.moonglow.com/collections/couples)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 16
-- [Ornaments](https://www.moonglow.com/collections/ornaments-1)
-  Updated: 2025-09-25T11:56:21Z
-  Total Products: 0
-- [Holiday Gift Boxes](https://www.moonglow.com/collections/holiday-gift-boxes)
-  Updated: 2025-09-25T11:56:21Z
-  Total Products: 1
-- [Christmas Best Sellers](https://www.moonglow.com/collections/christmas-best-sellers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 35
-- [Cyber Monday Sale](https://www.moonglow.com/collections/bf-2023)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 457
-- [SALE 40% OFF AND ABOVE](https://www.moonglow.com/collections/40off)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 38
-- [OVER40](https://www.moonglow.com/collections/over40)
-  Updated: 2025-09-25T11:56:51Z
-  Total Products: 1
-- [Trending](https://www.moonglow.com/collections/trending)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 64
-- [*Old - Holiday Best Sellers](https://www.moonglow.com/collections/holiday-best-sellers)
-  Updated: 2025-11-03T15:24:25Z
-  Total Products: 8
-- [20-30% OFF](https://www.moonglow.com/collections/20-30-off)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 42
-- [40 & 50 % OFF](https://www.moonglow.com/collections/40-50-off)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 15
-- [60% OFF](https://www.moonglow.com/collections/60-off)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 14
-- [Black Matte](https://www.moonglow.com/collections/black-matte)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 22
-- [One sku](https://www.moonglow.com/collections/one-sku)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [This Month's Best Sellers](https://www.moonglow.com/collections/valentine2024)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 69
-- [Any 2 items for $80](https://www.moonglow.com/collections/any-2-items-for-80)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 14
-- [BOGO](https://www.moonglow.com/collections/bogo)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 17
-- [San Francisco 49ers](https://www.moonglow.com/collections/san-francisco-49ers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 19
-- [Kansas City Chiefs](https://www.moonglow.com/collections/kansas-city-cheifs)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 16
-- [Cosmic Intentions Collection](https://www.moonglow.com/collections/cosmos-intentions-collection)
-  Updated: 2025-11-06T12:05:39Z
-  Total Products: 7
-- [Planets](https://www.moonglow.com/collections/planets)
-  Updated: 2025-11-06T17:10:35Z
-  Total Products: 8
-- [Buy one get one half off](https://www.moonglow.com/collections/buy-one-get-one-half-off)
-  Updated: 2025-09-25T11:56:52Z
-  Total Products: 1
-- [Spring 2024 Sale Collection](https://www.moonglow.com/collections/buy-one-get-one-half-off-1)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 13
-- [Mother's Day Bundles 2024](https://www.moonglow.com/collections/mothers-day-bundles-2024)
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 9
-- [Mother's Day Sale](https://www.moonglow.com/collections/mothers-day-sale-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 29
-- [*Old - Pets](https://www.moonglow.com/collections/pets-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 6
-- [Purple and Blue Moon Collection](https://www.moonglow.com/collections/purple-and-blue-moon-collection)
-  Updated: 2025-10-06T21:14:31Z
-  Total Products: 23
-- [Pride Month Collection](https://www.moonglow.com/collections/pride-month-collection)
-  Updated: 2025-11-05T15:58:09Z
-  Total Products: 6
-- [Summer Collection](https://www.moonglow.com/collections/summer-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 60
-- [Prime Deals](https://www.moonglow.com/collections/prime-deals-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 43
-- [Xmas in July](https://www.moonglow.com/collections/xmas-in-july)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 26
-- [Labor Day Sale old](https://www.moonglow.com/collections/labor-day-sale-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 64
-- [Terra Luna Collection](https://www.moonglow.com/collections/terra-luna-collection)
-  Updated: 2025-11-05T12:05:25Z
-  Total Products: 16
-- [Friendship Jewelry](https://www.moonglow.com/collections/friendship-jewelry)
-  Updated: 2025-10-09T01:48:14Z
-  Total Products: 7
-- [Harvest Moon Deals](https://www.moonglow.com/collections/harvest-moon-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 17
-- [Halloween Collection](https://www.moonglow.com/collections/halloween-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 20
-- [Breast Cancer Awareness](https://www.moonglow.com/collections/breast-cancer-awareness)
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 17
-- [Holiday Best Sellers](https://www.moonglow.com/collections/holiday-best-sellers-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 41
-- [Holiday Gift Sets](https://www.moonglow.com/collections/holiday-gift-sets)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 33
-- [Stocking Stuffers](https://www.moonglow.com/collections/stocking-stuffers)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 18
-- [Gifts for Her](https://www.moonglow.com/collections/gifts-for-her)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 31
-- [Gifts for Him](https://www.moonglow.com/collections/gifts-for-him)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 22
-- [Best Seller Couple Sets](https://www.moonglow.com/collections/best-seller-couple-sets)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 20
-- [Cyber Monday Deals](https://www.moonglow.com/collections/cyber-monday-deals-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 50
-- [Last Chance Deals](https://www.moonglow.com/collections/last-chance-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 28
-- [moonstone-jewelry](https://www.moonglow.com/collections/moonstone-jewelry)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 9
-- [jewelry](https://www.moonglow.com/collections/jewelry-1)
-  Updated: 2025-10-06T21:14:32Z
-  Total Products: 0
-- [opal-jewelry](https://www.moonglow.com/collections/opal-jewelry)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 13
-- [black onyx jewelry](https://www.moonglow.com/collections/black-onyx-jewelry)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 15
-- [Rose Quartz Ring](https://www.moonglow.com/collections/rose-quartz-ring)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Moonstone Rings](https://www.moonglow.com/collections/moonstone-rings)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [End of Year Sale](https://www.moonglow.com/collections/end-of-year-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 48
-- [Create Your Own](https://www.moonglow.com/collections/create-your-own)
-  Updated: 2025-11-03T12:04:35Z
-  Total Products: 18
-- [VALENTINE'S DAY COLLECTION](https://www.moonglow.com/collections/valentine25)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 56
-- [Chains](https://www.moonglow.com/collections/chains-1)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 5
-- [Lucky Glow Collection](https://www.moonglow.com/collections/st-patricks-day-2025)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 24
-- [Mother's Day UK](https://www.moonglow.com/collections/mothers-day-uk)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 41
-- [Mercury](https://www.moonglow.com/collections/mercury)
-  Updated: 2025-10-06T21:14:32Z
-  Total Products: 0
-- [Mercury Retrograde](https://www.moonglow.com/collections/mercury-retrograde)
-  Updated: 2025-11-06T17:10:48Z
-  Total Products: 9
-- [Luxury Collection](https://www.moonglow.com/collections/luxury)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [Mother's Day Sale 2025](https://www.moonglow.com/collections/mothers-day-sale-2025)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 38
-- [Mother's Day Gift Guide](https://www.moonglow.com/collections/forever-connected)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 40
-- [Shine Within](https://www.moonglow.com/collections/shine-within)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 42
-- [Graduation](https://www.moonglow.com/collections/graduation-1)
-  Updated: 2025-10-06T21:14:32Z
-  Total Products: 1
-- [Graduation Gifts Collection](https://www.moonglow.com/collections/graduation-gifts-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 25
-- [Wedding Gift Bundles](https://www.moonglow.com/collections/wedding-gifts-collection)
-  Updated: 2025-11-06T12:05:38Z
-  Total Products: 11
-- [Wedding Gift Collection](https://www.moonglow.com/collections/wedding-gift-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 36
-- [Memorial Day](https://www.moonglow.com/collections/memorial-day)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 46
-- [Memorial Day 5/23 - 5/25](https://www.moonglow.com/collections/memorial-day-5-23-5-25)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 10
-- [Father's Day 2025](https://www.moonglow.com/collections/fathers-day-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 34
-- [Stainless Steel](https://www.moonglow.com/collections/stainless-steel)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 21
-- [4th of July SALE](https://www.moonglow.com/collections/4th-of-july-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 25
-- [Moonglow Prime Deals](https://www.moonglow.com/collections/moonglow-prime-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 37
-- [free travel case collection](https://www.moonglow.com/collections/free-travel-case-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 117
-- [In Memory](https://www.moonglow.com/collections/in-memory)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 26
-- [Active Products Inteligent](https://www.moonglow.com/collections/active-products-inteligent)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 484
-- [back-to-school-favorite](https://www.moonglow.com/collections/back-to-school-favorite)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 7
-- [NEW MOON SALE](https://www.moonglow.com/collections/new-moon-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 12
-- [Gifts](https://www.moonglow.com/collections/gifts)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 35
-- [Labor Day Sale](https://www.moonglow.com/collections/labor-day-sale)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 29
-- [Harvest Glow Collection](https://www.moonglow.com/collections/harvest-glow-collection-page)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 14
-- [Halloween Collection 2025](https://www.moonglow.com/collections/halloween-collection2025)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 16
-- [ALL ACTIVE PRODCTS - NOT PINK](https://www.moonglow.com/collections/all-active-prodcts-not-pink)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 463
-- [Glow In The Dark Collection](https://www.moonglow.com/collections/glow-in-the-dark-collection)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 39
-- [Pink Moon Collection 2025](https://www.moonglow.com/collections/pink-moon-collection-2025)
-  Updated: 2025-11-04T12:05:06Z
-  Total Products: 24
-- [Engravable or gift products - for sitemap don't delete](https://www.moonglow.com/collections/no-engravable-or-gift-products-for-sitemap)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 14
-- [+$99 USD products - not pink](https://www.moonglow.com/collections/99-usd-products-not-pink)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 61
-- [Lunar Phases Collection](https://www.moonglow.com/collections/lunar-phases-collection)
-  Updated: 2025-10-03T21:30:22Z
-  Total Products: 8
-- [On Sale](https://www.moonglow.com/collections/on-sale): Sparkle & Shine At Affordable Prices Welcome to Moonglow, where we believe jewelry should be as unique as the person wearing it. We are proud to introduce our latest stylish pieces, now on holiday sale. At Moonglow, we understand that jewelry is more than just an accessory. It is an expression of your unique style and personality and should be chosen accordingly. Whether it's a statement piece or an everyday staple, we have something that will capture your heart. This jewelry selection is not only stylish but also affordable. With our current holiday season sale, you can get the perfect piece without breaking the bank. Whether you had your eyes set on a cuff in stainless steel, a necklace in gold, or a moon pin, each item is crafted from the finest materials, featuring a unique design that is sure to turn heads. Save Big With Our Special Sale All our pieces can be customized with a date of your choice, allowing you to capture a special moment you can keep close to your heart wherever you go. Whether it's a wedding anniversary, a birthday, or a meaningful event from your past, our personalized jewelry makes the perfect gift for yourself or someone you love. And with our special holiday sale prices, you can save while still creating a truly unique and special piece. So why wait? Browse our collection today and start personalizing your jewelry with Moonglow. With our exquisite designs and affordable prices, you're sure to find something that speaks to your heart. And with our special holiday sale, there's never been a better time to shop. Read More
-  Updated: 2025-10-06T23:33:18Z
-  Total Products: 0
-- [New Arrivals](https://www.moonglow.com/collections/new-arrivals): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 80
-- [Holiday Gift Guide](https://www.moonglow.com/collections/holiday-gifting-campaign)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 29
-- [EARLY BLACK FRIDAY DEALS](https://www.moonglow.com/collections/early-black-friday-deals)
-  Updated: 2025-11-07T12:05:44Z
-  Total Products: 14
-- [Mercury Retrograde 2025](https://www.moonglow.com/collections/mercury-retrograde-2025)
-  Updated: 2025-11-06T18:26:37Z
-  Total Products: 8
-
-## Blogs
-
-- [Musings from the Moon | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog): Moonglow is all about incorporating the moon and its phases in your day to day. From astrology to journalling and DIY, we've got you covered. Our Moonglow lifestyle blog describes everything lunar and how it fits into your life.
-  - [Inspiration of the day](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/inspiration-of-the-day)
-    Updated: 2019-07-17T19:56:29Z
-    Author: Angel de la Vega
-  - [Beyond the Moon: Fan Stories from Moonglow Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/beyond-the-moon-fan-stories-from-moonglow-jewelry)
-    Updated: 2021-04-13T14:47:16Z
-    Author: Julien Plouffe
-  - [Moon phase Personality Descriptions](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phase-personality-descriptions)
-    Updated: 2019-07-17T19:58:33Z
-    Author: Julien Plouffe
-  - [A Little Anniversary Romance: Moonglow Fans' Experiences](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/a-little-anniversary-romance-moonglow-fans-experiences)
-    Updated: 2021-04-13T14:47:16Z
-    Author: Julien Plouffe
-  - [Moonglow Classic Necklace](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonglow-classic-necklace)
-    Updated: 2021-04-13T14:47:16Z
-    Author: Julien Plouffe
-  - [Summer Birthstone Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/summer-birthstone-jewelry)
-    Updated: 2021-04-13T14:47:16Z
-    Author: Julien Plouffe
-  - [Moonglow Tajitu Balance](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonglow-tajitu-balance)
-    Updated: 2021-04-13T14:47:15Z
-    Author: Julien Plouffe
-  - [Daughters be good to your fathers](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/daughters-be-good-to-your-fathers)
-    Updated: 2021-04-13T14:47:15Z
-    Author: Aurelie Dudziak
-  - [Our top 5 Moon Necklaces](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/our-top-5-moon-necklaces)
-    Updated: 2021-04-13T14:47:14Z
-    Author: Julien Plouffe
-  - [Rachel & Johnny](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/rachel-johnny)
-    Updated: 2021-04-13T14:47:14Z
-    Author: Julien Plouffe
-  - [INSPIRED BY THE MOON](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/inspired-by-the-moon)
-    Updated: 2021-04-13T14:47:14Z
-    Author: Aurelie Dudziak
-  - [Sacred connections-Talking about all things lunar that link us](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/sacred-connections): Sacred connections-Talking about all things lunar that link us
-    Updated: 2021-04-13T14:47:13Z
-    Author: Aurelie Dudziak
-  - [REFLECTIVE ENERGY](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/reflective-energy)
-    Updated: 2021-04-13T14:47:13Z
-    Author: Aurelie Dudziak
-  - [THE MOONFIRE WITHIN](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moonfire-within)
-    Updated: 2021-04-13T14:47:13Z
-    Author: Aurelie Dudziak
-  - [FEEL THE LOVE](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/feel-the-love)
-    Updated: 2021-04-13T14:47:12Z
-    Author: Aurelie Dudziak
-  - [MYSTERIOUS WAYS](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/mysterious-ways)
-    Updated: 2021-04-13T14:47:12Z
-    Author: Aurelie Dudziak
-  - [TWELVE DAYS OF MOONGLOW](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/twelve-days-moonglow)
-    Updated: 2021-04-13T14:47:12Z
-    Author: Aurelie Dudziak
-  - [DIVINE VIBRATIONS](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/divine-vibrations)
-    Updated: 2021-04-13T14:47:12Z
-    Author: Aurelie Dudziak
-  - [FLY ME TO THE MOON](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/fly-me-to-the-moon)
-    Updated: 2021-04-13T14:47:11Z
-    Author: Aurelie Dudziak
-  - [IMAGINE how the Moon rules your personality: Moon Fan Stories](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/imagine-how-the-moon-rules-your-personality-moon-fan-stories)
-    Updated: 2025-10-06T17:27:45Z
-    Author: Aurelie Dudziak
-  - [SOMETHING BLUE](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/something-blue)
-    Updated: 2021-04-13T14:47:11Z
-    Author: Aurelie Dudziak
-  - [VALENTINE MOON](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/valentine-moon)
-    Updated: 2025-10-06T20:59:21Z
-    Author: Aurelie Dudziak
-  - [JOELLEN FAVS MOONGLOW](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/joellen-favs-moonglow)
-    Updated: 2019-07-17T20:10:24Z
-    Author: Angel de la Vega
-  - [Lover's Moon: Talking About All Things Lunar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/lovers-moon-talking-about-all-things-lunar)
-    Updated: 2021-08-09T15:18:08Z
-    Author: Aurelie Dudziak
-  - [MODERN ROMANCE](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/modern-romance)
-    Updated: 2021-04-13T14:47:10Z
-    Author: Aurelie Dudziak
-  - [MOONWISE: Moon Lovers Stories from Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonwise-moon-lovers-stories-from-moonglow)
-    Updated: 2021-04-13T14:47:10Z
-    Author: Aurelie Dudziak
-  - [SEE THE LIGHT](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/see-light)
-    Updated: 2021-04-13T14:47:09Z
-    Author: Aurelie Dudziak
-  - [Don't get pinched on St. Paddy's Day! We have got the perfect outfit for you!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/dont-get-pinched-on-st-paddys-day-we-have-got-the-perfect-outfit-for-you)
-    Updated: 2019-07-17T20:14:20Z
-    Author: Angel de la Vega
-  - [Have you Tried Gardening by the Moon?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/have-you-tried-gardening-by-the-moon)
-    Updated: 2021-04-13T14:47:09Z
-    Author: Aurelie Dudziak
-  - [Bake the Best Frostbitten Raspberry Cake this Mother’s Day](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/bake-the-best-frostbitten-raspberry-cake-this-mothers-day)
-    Updated: 2021-04-13T14:47:09Z
-    Author: Aurelie Dudziak
-  - [Not all Heroes wear Capes, some wear Moonglow! Start shopping for Father's Day now!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/not-all-heroes-wear-capes-some-wear-moonglow-start-shopping-for-fathers-day-now)
-    Updated: 2021-04-13T14:47:09Z
-    Author: Aurelie Dudziak
-  - [One Small Step for Man, One Giant Leap for Mankind](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/one-small-step-for-man-one-giant-leap-for-mankind): One Small Step for Man, One Giant Leap for Mankind
-    Updated: 2021-04-13T14:47:11Z
-    Author: Aurelie Dudziak
-  - [Luna Love is in the Air...](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/luna-love-is-in-the-air)
-    Updated: 2021-04-13T14:47:07Z
-    Author: Aurelie Dudziak
-  - [This is the Month of the Supermoon!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/this-is-the-month-of-the-supermoon)
-    Updated: 2025-09-29T16:26:02Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [Custom Black Moon Pendant Necklace with Swarovski Crystal](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/custom-black-moon-pendant-necklace-with-swarovski-crystal)
-    Updated: 2025-09-29T16:24:10Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [Mommy Misses You...](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/mommy-misses-you)
-    Updated: 2025-09-29T16:23:18Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [CRAZY IN LOVE WITH CELESTIAL STYLE](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/crazy-in-love-with-celestial-style)
-    Updated: 2025-09-29T16:22:46Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [What a July Birthstone Necklace Says About You | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-july-birthstone-necklace-says-about-you): What a July Birthstone Necklace Says About You | Moonglow
-    Updated: 2025-10-06T20:08:07Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [What's the Moon Phase Today? An Easy Guide to Moon Phases | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/covering-the-basics-moon-phasesexplained): What's the Moon Phase Today? An Easy Guide to Moon Phases | Moonglow
-    Updated: 2025-09-29T18:03:42Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [How Can a Moon Ring Mark a Special Occasion?  | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-can-a-moon-ring-mark-a-special-occasion): How Can a Moon Ring Mark a Special Occasion?  | Moonglow
-    Updated: 2025-09-29T16:20:31Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments, Moonphase
-  - [Express Your True Self With Unique Birthstone Jewelry By Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/express-your-true-self-with-unique-birthstone-jewelry-by-moonglow)
-    Updated: 2025-09-29T16:20:07Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [Can The Moon Affect Your Behavior?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/can-the-moon-affect-your-behavior)
-    Updated: 2025-10-01T14:21:23Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [What an August Birthstone Necklace Says About You](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-august-birthstone-necklace-says-about-you)
-    Updated: 2025-10-06T20:05:45Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [The Perfect Bracelet Gift & Customized Wristbands at Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-perfect-bracelet-gift-customized-wristbands-at-moonglow)
-    Updated: 2025-09-29T16:17:35Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [The 2017 Guide for Blending Your Alternative Fashion into a Mainstream World](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-guide-for-blending-your-alternative-fashion-into-a-mainstream-world)
-    Updated: 2025-10-06T17:38:42Z
-    Author: Angel de la Vega
-  - [Guide to Understanding a Moon Phase Calendar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/guide-to-understanding-a-moon-phase-calendar)
-    Updated: 2025-09-29T18:03:42Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [What Makes Sun and Moon Jewelry Unique?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-makes-sun-and-moon-jewelry-unique)
-    Updated: 2025-09-29T16:16:32Z
-    Author: Aurelie Dudziak
-  - [The Moon Phase Calendar Through History](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-phase-calendar-through-history): The Moon Phase Calendar Through History
-    Updated: 2025-10-01T14:29:47Z
-    Author: Aurelie Dudziak
-    Tags: Moonglow Moments
-  - [Your Moon Sign - A Fun and Informative Guide to Completing your Zodiac Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-your-moon-sign-says-about-you): Like a locket, your sun and moon signs reveal both the outside and secret inner elements of your zodiac personality.
-    Updated: 2025-09-29T16:15:42Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [3 Reasons to Buy a Birthstone Necklace for Mom](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/reasons-to-buy-a-birthstone-necklace-for-mom)
-    Updated: 2025-09-29T16:14:47Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [Can Jewelry Really Heal? A Guide To the Healing Powers of Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/can-jewelry-really-heal-a-guide-to-the-healing-powers-of-jewelry)
-    Updated: 2025-09-29T16:13:06Z
-    Author: Angel de la Vega
-    Tags: Moonglow Moments
-  - [The Full Moon and Solar Eclipse, folklore, magic, and insanity.](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-full-moon-and-solar-eclipse-folklore-magic-and-insanity): <br data-mce-bogus="1">
-    Updated: 2019-07-17T20:34:00Z
-    Author: Angel de la Vega
-  - [How a Custom Necklace Can Reflect Your Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-a-custom-necklace-can-reflect-your-personality)
-    Updated: 2019-07-12T20:40:10Z
-    Author: Angel de la Vega
-  - [Myths and Legends of the Full Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/myths-and-legends-of-the-full-moon-phase)
-    Updated: 2019-07-17T20:36:04Z
-    Author: Angel de la Vega
-  - [The Best Relationship Milestones that Call for a Moon Locket](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-best-relationship-milestones-that-call-for-a-moon-locket)
-    Updated: 2019-07-17T20:38:05Z
-    Author: Angel de la Vega
-  - [Rocking a Celestial Style with Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/rocking-a-celestial-style-with-jewelry)
-    Updated: 2021-04-13T14:47:02Z
-    Author: Aurelie Dudziak
-  - [How to Use Custom Charm Bracelets to Express Yourself](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-use-custom-charm-bracelets-to-express-yourself)
-    Updated: 2021-04-13T14:47:02Z
-    Author: Aurelie Dudziak
-  - [The Moon and Theology: The Lunar Goddesses That Started it All](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-and-theology-the-lunar-goddesses-that-started-it-all)
-    Updated: 2020-04-02T17:35:08Z
-    Author: Angel de la Vega
-  - [Who’s the Man on the Moon?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/whos-the-man-on-the-moon)
-    Updated: 2025-10-06T20:22:10Z
-    Author: Angel de la Vega
-  - [5 Tips to help Segway your Alternative Wardrobe into the Fall Season](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/tips-to-help-segway-your-alternative-wardrobe-into-the-fall-season)
-    Updated: 2021-04-13T14:47:02Z
-    Author: Aurelie Dudziak
-  - [A Guide to the Significance of the New Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/a-guide-to-the-significance-of-the-new-moon-phase)
-    Updated: 2021-04-13T14:47:01Z
-    Author: Aurelie Dudziak
-  - [Wondering What Makes Something Qualify As A Harvest Moon in 2017?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-magic-of-the-harvest-moon): Wondering What Makes Something Qualify As A Harvest Moon in 2017?
-    Updated: 2021-04-13T14:47:01Z
-    Author: Aurelie Dudziak
-  - [Why Star and Moon Necklaces Make Great Birthday Gifts](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/why-star-and-moon-necklaces-make-great-birthday-gifts)
-    Updated: 2021-04-13T14:47:00Z
-    Author: Aurelie Dudziak
-  - [Do You Know Your Lunar Personality?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/do-you-know-your-lunar-personality)
-    Updated: 2021-04-13T14:47:00Z
-    Author: Aurelie Dudziak
-  - [How to Choose The Perfect Children's Birthstone Necklace](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-choose-the-perfect-childrens-birthstone-necklace)
-    Updated: 2019-07-17T20:45:54Z
-    Author: Angel de la Vega
-  - [How to Meditate With The Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-meditate-with-the-moon)
-    Updated: 2021-04-13T14:46:59Z
-    Author: Aurelie Dudziak
-  - [What’s the Moon Phase this Halloween?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/whats-the-moon-phase-this-halloween)
-    Updated: 2019-07-17T20:47:52Z
-    Author: Angel de la Vega
-  - [The Top Custom Necklaces: Names, Moon Phases, and More!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-top-custom-necklaces-names-moon-phases-and-more)
-    Updated: 2019-07-17T20:47:52Z
-    Author: Angel de la Vega
-  - [How to Style Large Moon Earrings to Frame Your Face](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-style-large-moon-earrings-to-frame-your-face)
-    Updated: 2021-04-13T14:46:59Z
-    Author: Aurelie Dudziak
-  - [What a November Birthstone Necklace Says About You](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-a-november-birthstone-necklace-says-about-you)
-    Updated: 2019-07-17T20:49:51Z
-    Author: Angel de la Vega
-  - [The Meaning of Moon Phase Names](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-meaning-of-moon-phase-names)
-    Updated: 2019-07-17T20:49:51Z
-    Author: Angel de la Vega
-  - [Learn the Phases of the Moon with an Easy-to-Use Moon Phase Diagram](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/learn-the-phases-of-the-moon-with-an-easytouse-moon-phase-diagram)
-    Updated: 2021-04-13T14:46:59Z
-    Author: Aurelie Dudziak
-  - [The Guide to New Moon Rituals For Manifestation](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-guide-to-new-moon-rituals-for-manifestation)
-    Updated: 2021-04-13T14:46:59Z
-    Author: Aurelie Dudziak
-  - [Custom Jewelry You Don't See Everyday: Personalized Interlocking Moon Necklaces and More](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/custom-jewelry-you-dont-see-everyday-personalized-interlocking-moon-necklaces-and-more)
-    Updated: 2019-07-12T20:58:01Z
-    Author: Angel de la Vega
-  - [What Moon Phase Are We In? How To Read a Moon Phase Calendar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-moon-phase-are-we-in-how-to-read-a-moon-phase-calendar-what-moon-phase-are-we-in-how-to-read-moon-phase-calendar)
-    Updated: 2021-04-13T14:46:58Z
-    Author: Aurelie Dudziak
-  - [Why a Family Birthstone Necklace is the Perfect 2017 Christmas Gift](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/why-a-family-birthstone-necklace-is-the-perfect-christmas-gift)
-    Updated: 2019-07-17T20:53:28Z
-    Author: Angel de la Vega
-  - [Getting Married? Let the Moon Phases Inspire Your Special Day!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/getting-married-let-the-moon-phases-inspire-your-special-day)
-    Updated: 2019-07-17T20:53:29Z
-    Author: Angel de la Vega
-  - [How to Style Full Moon Jewelry Year Round](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-style-full-moon-jewelry-year-round)
-    Updated: 2019-07-17T20:53:30Z
-    Author: Angel de la Vega
-  - [How to Pair Healing Crystals with Healing Moon Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-pair-healing-crystals-with-healing-moon-jewelry)
-    Updated: 2025-10-06T17:08:39Z
-    Author: Angel de la Vega
-  - [Moon Tarot: Can moon phases affect your tarot reading?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/tarot-of-the-moon-can-moon-phases-affect-your-tarot-readingtarot-moon-can-moon-phases-affect-your-tarot-reading): Moon Tarot: Can moon phases affect your tarot reading?
-    Updated: 2021-04-13T14:46:58Z
-    Author: Kim Hutchings
-  - [Find the Perfect Birthstone Necklace for Grandma here at Moonglow!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/perfect-birthstone-necklace-grandma): Find the Perfect Birthstone Necklace for Grandma here at Moonglow!
-    Updated: 2021-04-13T14:46:57Z
-    Author: Aurelie Dudziak
-  - [The Moon and Astrology: How the Moon Affects Your Future](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-and-astrology-how-the-moon-affects-your-future)
-    Updated: 2021-04-13T14:46:57Z
-    Author: Aurelie Dudziak
-  - [5 Reasons Custom Sun and Moon Bracelets Are a Great Holiday Gift](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/reasons-custom-sun-and-moon-bracelets-are-a-great-holiday-gift)
-    Updated: 2019-07-17T20:59:25Z
-    Author: Angel de la Vega
-  - [Moonglow Jewelry at this year’s America’s Mart!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonglow-jewelry-at-this-years-americas-mart)
-    Updated: 2019-07-17T20:59:21Z
-    Author: Angel de la Vega
-  - [The Cold Moon: The Magic of December’s Full Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-cold-moon-the-magic-of-decembers-full-moon-phase)
-    Updated: 2021-04-13T14:46:56Z
-    Author: Aurelie Dudziak
-  - [Phase of The Moon Jewelry for BFFs To Give This Christmas](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/phase-of-the-moon-jewelry-for-bffs-to-give-this-christmas)
-    Updated: 2019-07-17T21:01:18Z
-    Author: Angel de la Vega
-  - [What is a phase of the moon? Definitions, History & Calendar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-is-a-phase-of-the-moon-definitions-history-calendar)
-    Updated: 2019-07-17T21:01:19Z
-    Author: Angel de la Vega
-  - [The Winter Solstice and the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-winter-solstice-and-the-moon)
-    Updated: 2019-07-17T21:01:19Z
-    Author: Angel de la Vega
-  - [Getting in touch with Nature: Stars, Wolf, and Moon Jewelry Trends](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/getting-in-touch-with-nature-stars-wolf-and-moon-jewelry-trends)
-    Updated: 2021-04-13T14:46:56Z
-    Author: Aurelie Dudziak
-  - [13 Perfect Songs About the Moon!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/perfect-songs-about-the-moon)
-    Updated: 2020-11-03T07:20:18Z
-    Author: Angel de la Vega
-  - [Out of Gift Ideas? Try A Custom Birthstone Necklace For Moms](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/out-of-gift-ideas-try-a-custom-birthstone-necklace-for-moms)
-    Updated: 2021-04-13T14:47:03Z
-    Author: Aurelie Dudziak
-  - [Born Under the Waning Gibbous Moon Phase? Here's Your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-waning-gibbous-moon-phase-heres-your-lunar-personality)
-    Updated: 2021-07-21T16:53:27Z
-    Author: Kim Hutchings
-  - [Have You Ever Wondered if the Blue Moon is Really Blue?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/once-in-a-blue-moon-how-often-is-it-reallyonce-blue-moon-how-often-it-really): Have You Ever Wondered if the Blue Moon is Really Blue?
-    Updated: 2021-04-13T14:46:55Z
-    Author: Aurelie Dudziak
-  - [DIY Your Own Moon Phase Chart! Check Out Our Favorite Pinterest Ideas](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/diy-your-own-moon-phase-chart-check-out-our-favorite-pinterest-ideas)
-    Updated: 2019-07-17T21:07:15Z
-    Author: Angel de la Vega
-  - [Custom One Moon Jewelry for Men: Find the Perfect Necklaces for Him!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/where-to-find-custom-one-moon-jewelry-for-men): Custom One Moon Jewelry for Men: Find the Perfect Necklaces for Him!
-    Updated: 2021-04-13T14:46:55Z
-    Author: Aurelie Dudziak
-  - [Prepare for the New Year With the 2018 Lunar Calendar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/prepare-for-the-new-year-with-the-lunar-calendar)
-    Updated: 2019-07-17T21:09:17Z
-    Author: Angel de la Vega
-  - [Top 15 "Stellar" Movies About the Moon that You've Just Got to See!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/top-stellar-movies-about-the-moon): Top 15 "Stellar" Movies About the Moon that You've Just Got to See!
-    Updated: 2025-10-06T16:43:58Z
-    Author: Aurelie Dudziak
-  - [Custom Moon Charms That Moms (And Their Kids!) Will Love](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/custom-moon-charms-that-moms-and-their-kids-will-love)
-    Updated: 2019-07-17T21:09:17Z
-    Author: Angel de la Vega
-  - [Wondering What the Lunar Cycle Definition is? Moonglow Has the Answer!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-lunar-cycle-and-its-moon-phase-meanings): Wondering What the Lunar Cycle Definition is? Moonglow Has the Answer!
-    Updated: 2021-09-28T20:12:00Z
-    Author: Aurelie Dudziak
-  - [Sticking to Your Guns: Moonglow’s Guide to Keeping Your New Year’s Resolutions with the Help of the Moon Phase Calendar](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/sticking-to-your-guns-moonglows-guide-to-keeping-your-new-years-resolutions-with-the-help-of-the-moon-phase-calendar)
-    Updated: 2025-10-27T10:58:59Z
-    Author: Angel de la Vega
-  - [How The Moon Phase This Weekend Could Affect Your Vacation](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-the-moon-phase-this-weekend-could-affect-your-vacation)
-    Updated: 2019-07-17T21:11:12Z
-    Author: Angel de la Vega
-  - [Gifts for Teens: From Birthstone Necklace Charms and Beyond!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/gifts-for-teens-from-birthstone-necklace-charms-and-beyond)
-    Updated: 2019-07-17T21:13:09Z
-    Author: Angel de la Vega
-  - [The Meaning Behind a February Birthstone Necklace](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-meaning-behind-a-february-birthstone-necklace)
-    Updated: 2021-04-13T14:46:53Z
-    Author: Aurelie Dudziak
-  - [Style Guide: Steal The Spotlight With Crescent Moon Earrings](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/style-guide-crescent-moon-earrings)
-    Updated: 2021-04-13T14:46:53Z
-    Author: Angel de la Vega
-  - [How Does a Moon Phase Calculator Work?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-does-a-moon-phase-calculator-work)
-    Updated: 2021-04-13T14:46:53Z
-    Author: Angel de la Vega
-  - [Holiday Shopping Guide: Personalized Gifts Edition](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/holiday-shopping-guide-personalized-gifts)
-    Updated: 2021-04-13T14:46:52Z
-    Author: Angel de la Vega
-  - [Dark Side of the Moon: The Mysteries of the Invisible Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/dark-side-of-the-moon-the-mysteries-of-the-invisible-moon-phase): <span>The way the moon moves around the Earth there is never a moon phase that isn’t the same face pointed at us. The part of the moon that faces away from us is sometimes referred to as “The Dark Side of The Moon”, even though that’s more of a misnomer. It’s more proper to refer to it as “the far side” of the moon, because it will face the Sun more than it will ever face the Earth.</span>
-    Updated: 2025-10-27T10:50:46Z
-    Author: Haley Spence
-  - [What Phase of the Moon Was I Born Under?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-moon-phase-was-i-born-under-find-out-what-your-moon-phase-means): What Phase of the Moon Was I Born Under?
-    Updated: 2025-10-06T20:10:52Z
-    Author: Haley Spence
-  - [What Moon Phase is it Today? How Does it Influence Lunar Personality?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-moon-phase-is-it-today-and-how-will-it-interact-with-my-lunar-personality): What Moon Phase is it Today? How Does it Influence Lunar Personality?
-    Updated: 2025-09-29T16:44:19Z
-    Author: Haley Spence
-  - [How Does Celestial Sun and Moon Jewelry Impact Your Mood?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-does-celestial-sun-and-moon-jewelry-impact-your-mood)
-    Updated: 2021-04-13T14:46:52Z
-    Author: Haley Spence
-  - [What the Elon Musk Space X Launch Means for the Future on the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-the-elon-musk-space-x-launch-means-for-the-future-on-the-moon)
-    Updated: 2019-07-17T21:19:10Z
-    Author: Haley Spence
-  - [Find out how connected you are to the moon with this moon phase quiz!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/find-out-how-connected-you-are-to-the-moon-with-this-moon-phase-quiz)
-    Updated: 2019-07-17T21:19:10Z
-    Author: Haley Spence
-  - [Moon Phases 101: A Complete Guide to the Waxing Gibbous](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phases-101-waxing-gibbousmoon)
-    Updated: 2025-10-06T20:16:14Z
-    Author: Kim Hutchings
-  - [Mix and Match Birth date moon pendants with formal wear](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/mix-and-match-birth-date-moon-pendants-with-formal-wear)
-    Updated: 2019-07-17T21:21:08Z
-    Author: Haley Spence
-  - [Full Moon vs. New Moon Jewelry: Which Matches Your Personality?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/full-moon-new-moon-jewelry-which-matches-your-personality)
-    Updated: 2021-04-13T14:46:50Z
-    Author: Angel de la Vega
-  - [From the Wolf Moon to the Blood Moon: Cultural Meanings of the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/from-the-wolf-moon-to-the-blood-moon-cultural-meanings-of-the-moon)
-    Updated: 2021-04-13T14:46:50Z
-    Author: Angel de la Vega
-  - [Born Under the Waxing Crescent Moon Phase? Here’s Your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-waxing-crescent-moon-phase-here-s-your-lunar-personality)
-    Updated: 2021-07-21T16:53:09Z
-    Author: Kim Hutchings
-  - [Why she’ll love custom moon earrings in silver for your Anniversary!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/why-she-ll-love-custom-moon-earrings-in-silver-for-your-anniversary)
-    Updated: 2019-07-17T21:23:08Z
-    Author: Haley Spence
-  - [A Guide to Dream Interpretation](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/a-guide-to-dream-interpretationa-guide-to-dream-interpretation-infographic)
-    Updated: 2021-04-13T14:46:49Z
-    Author: Angel de la Vega
-  - [A Comprehensive Moon Phase Calendar Guide to Planning Your 2019 Garden!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/gardening-with-the-moon-how-to-use-a-moon-phase-calendar-to-plan-your-2018-garden): Use the moon phase calendar to learn the ideal times to seed, plant, prune and harvest your garden for a successful bounty.
-    Updated: 2019-07-17T21:25:08Z
-    Author: Christine Hatfield
-  - [Moon Phase Wallpapers that Will Take You Out of this World](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phase-wallpapers-that-will-take-you-out-of-this-world)
-    Updated: 2019-07-17T21:25:07Z
-    Author: Haley Spence
-  - [How to Style a Classy but Edgy Look](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-style-a-classy-but-edgy-look)
-    Updated: 2019-07-17T21:37:06Z
-    Author: Angel de la Vega
-  - [7 Ways to Wear Goddess Moon Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/7-ways-to-wear-goddess-moon-jewelry)
-    Updated: 2019-07-17T21:39:04Z
-    Author: Angel de la Vega
-  - [Moon Phase 101: A Complete Guide to the Waxing Crescent](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phase-101-a-complete-guide-to-the-waxing-crescent)
-    Updated: 2021-07-19T19:56:39Z
-    Author: Angel de la Vega
-  - [How to Know What the Moon Phase on my Birthday will be](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-know-what-the-moon-phase-on-my-birthday-will-be)
-    Updated: 2019-07-17T21:39:03Z
-    Author: Angel de la Vega
-  - [Everything You Need to Know About Ordering Custom Moon Jewelry Online](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/everything-you-need-to-know-about-ordering-custom-moon-jewelry-online)
-    Updated: 2019-07-17T21:41:06Z
-    Author: Haley Spence
-  - [Missed Mother’s Day? Gift Ideas Guaranteed to Earn Her Forgiveness](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/missed-mother-s-day-gift-ideas-guaranteed-to-earn-her-forgiveness)
-    Updated: 2019-07-17T21:39:09Z
-    Author: Angel de la Vega
-  - [Perception – Beyond Yanny and Laurel | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/perception-beyond-yanny-and-laurel): Perception – Beyond Yanny and Laurel | Moonglow
-    Updated: 2021-04-13T14:46:47Z
-    Author: Christine Hatfield
-  - [Night Blooms – Creating a Midnight Garden | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/night-blooms): Night Blooms – Creating a Midnight Garden | Moonglow
-    Updated: 2025-10-27T10:57:07Z
-    Author: Christine Hatfield
-  - [Your Perfect Moonglow According to Your Favorite Netflix Series | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/your-perfect-moonglow-according-to-your-favorite-netflix-series): Your Perfect Moonglow According to Your Favorite Netflix Series | Moonglow
-    Updated: 2021-04-13T14:46:45Z
-    Author: Christine Hatfield
-  - [One Giant Leap – Your Favorite Moon-Landing Conspiracy Theories](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/one-giant-leap): Sharpen up your tinfoil hat and figure out which moon landing conspiracy reveals your personality.
-    Updated: 2021-04-13T14:46:44Z
-    Author: Christine Hatfield
-  - [Legends of the Lunar Eclipse | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/legends-of-the-lunar-eclipse): Legends of the Lunar Eclipse | Moonglow
-    Updated: 2021-04-13T14:46:44Z
-    Author: Christine Hatfield
-  - [Life on Mars?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/life-on-mars): The possibility of life on Mars has never been more real.
-    Updated: 2019-07-17T21:37:10Z
-    Author: Amritpal kaur Collaborator
-  - [Types of People You’ll Find at Every Holiday Party this Season](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/types-of-people-you-ll-find-at-every-holiday-party-this-season)
-    Updated: 2019-07-17T21:43:19Z
-    Author: Angel de la Vega
-  - [Ultimate Valentine’s Day Dinner Menu and Gift Guide](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/ultimate-valentine-s-day-dinner-menu-and-gift-guide)
-    Updated: 2025-10-27T11:00:03Z
-    Author: Angel de la Vega
-  - [The Moon’s Effect On Your Sleep | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-s-effect-on-your-sleep): The Moon’s Effect On Your Sleep | Moonglow
-    Updated: 2021-04-13T14:46:42Z
-    Author: Kim Hutchings
-  - [How to Set Intentions and Manifest Your Goals During the New Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-intentions-and-goals-during-new-moon)
-    Updated: 2025-10-27T10:52:59Z
-    Author: Kim Hutchings
-  - [Lunar Love: Moon Myths and Legends for Valentine's Day](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/lunar-love-moon-myths-and-legends-for-valentines-day): Lunar Love: Moon Myths and Legends for Valentine's Day
-    Updated: 2021-04-13T14:46:42Z
-    Author: Kim Hutchings
-  - [Why the Full Moon is the Best Time for Making Decisions](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/full-moon-and-making-decisions)
-    Updated: 2021-04-13T14:46:41Z
-    Author: Kim Hutchings
-  - [The Best Way to Spot Mercury in the Night Sky | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-best-way-to-spot-mercury): The Best Way to Spot Mercury in the Night Sky | Moonglow
-    Updated: 2021-04-13T14:46:41Z
-    Author: Kim Hutchings
-  - [The Beginner’s Guide to Tarot Cards](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-beginner-s-guide-to-tarot-cards)
-    Updated: 2021-04-13T14:46:41Z
-    Author: Kim Hutchings
-  - [New Moon Rituals to Foster Abundance This Month | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/new-moon-rituals-to-foster-abundance): New Moon Rituals to Foster Abundance This Month | Moonglow
-    Updated: 2021-04-13T14:46:40Z
-    Author: Kim Hutchings
-  - [Everything You Need To Know About The March Equinox](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/everything-you-need-to-know-about-the-march-equinox)
-    Updated: 2019-07-17T21:49:36Z
-    Author: Kim Hutchings
-  - [The Moon of Many Names: Cultural Variations of Names for the Full Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-of-many-names-cultural-variations-of-names-for-the-full-moon)
-    Updated: 2019-07-17T21:49:11Z
-    Author: Kim Hutchings
-  - [Meditation & The Moon: The Beginner’s Guide to Lunar Self-Care | Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-beginner-s-guide-to-lunar-self-care): Meditation & The Moon: The Beginner’s Guide to Lunar Self-Care | Moonglow
-    Updated: 2021-04-13T14:46:40Z
-    Author: Kim Hutchings
-  - [What Your Birthstone Says About You](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-your-birthstone-says-about-you)
-    Updated: 2021-04-13T14:46:39Z
-    Author: Kim Hutchings
-  - [Yoga & The Moon: How the Moon Influences Yoga Practices](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/yoga-the-moon-how-the-moon-influences-yoga-practices)
-    Updated: 2021-04-13T14:46:40Z
-    Author: Kim Hutchings
-  - [Lyrid Meteor Shower: Fast Facts About April's Celestial Show in the Sky](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/lyrid-meteor-shower-fast-facts-about-aprils-celestial-show-in-the-sky)
-    Updated: 2019-07-17T21:53:36Z
-    Author: Kim Hutchings
-  - [What You Need to Know Before Starting a Crystal Collection](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-you-need-to-know-before-starting-a-crystal-collection)
-    Updated: 2021-04-13T14:46:38Z
-    Author: Kim Hutchings
-  - [The Minimalist Mindset: How Spring Cleaning Can Improve Your Mental Health](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-minimalist-mindset-how-spring-cleaning-can-improve-your-mental-health)
-    Updated: 2021-04-13T14:46:38Z
-    Author: Kim Hutchings
-  - [Why Mother’s Day Is About Celebrating Non-Biological Mums Too](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/why-mother-s-day-is-about-celebrating-non-biological-mums-too)
-    Updated: 2021-04-13T14:46:38Z
-    Author: Kim Hutchings
-  - [Can Your Journaling Practice Really Boost Creativity?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/can-your-journaling-practice-really-boost-creativity)
-    Updated: 2021-04-13T14:46:38Z
-    Author: Kim Hutchings
-  - [Manifesting Your Dream Job After Graduation](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/manifesting-your-dream-job-after-graduation)
-    Updated: 2021-04-13T14:46:39Z
-    Author: Kim Hutchings
-  - [The Beginner's Guide to Essential Oils](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-beginners-guide-to-essential-oils)
-    Updated: 2021-04-13T14:46:37Z
-    Author: Kim Hutchings
-  - [The Ultimate Father’s Day Gift Guide](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-ultimate-father-s-day-gift-guide-for-the-dad-who-s-impossible-to-shop-for): The Ultimate Father’s Day Gift Guide
-    Updated: 2025-10-06T19:55:58Z
-    Author: Kim Hutchings
-  - [Eight Signs You’ll Actually Be Best Friends Forever](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/eight-signs-you-ll-actually-be-best-friends-forever)
-    Updated: 2021-04-13T14:46:37Z
-    Author: Kim Hutchings
-  - [The Lunar Guide to Gardening: How to Plant by the Phases of the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-lunar-guide-to-gardening-how-to-plant-by-the-phases-of-the-moon)
-    Updated: 2021-04-13T14:46:37Z
-    Author: Kim Hutchings
-  - [The Real Meaning Of Mercury In Retrograde](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-real-meaning-of-mercury-in-retrograde)
-    Updated: 2019-07-17T21:59:22Z
-    Author: Kim Hutchings
-  - [Perfecting Your Morning Routine (And Why You Need One)](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/perfecting-your-morning-routine-and-why-you-need-one)
-    Updated: 2021-04-13T14:46:36Z
-    Author: Kim Hutchings
-  - [Long-Distance Friendships: How to Stay Close When You’re Far Apart](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/long-distance-friendships-how-to-stay-close-when-you-re-far-apart)
-    Updated: 2021-04-13T14:46:35Z
-    Author: Kim Hutchings
-  - [The Many Moon Style Guide: How to Style Your Multiple Moon Looks](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-many-moon-style-guide-how-to-style-your-multiple-moon-looks)
-    Updated: 2021-04-13T14:46:35Z
-    Author: Kim Hutchings
-  - [8 Journal Prompts for Clarity and Connection for the Full Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/five-journal-prompts-for-clarity-and-connection-during-the-full-moon): 8 Journal Prompts for Clarity and Connection for the Full Moon
-    Updated: 2021-04-13T14:46:35Z
-    Author: Kim Hutchings
-  - [Digital Detox: Tips for Turning Off in a World That’s Always On](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/digital-detox-tips-for-turning-off-in-a-world-that-s-always-on)
-    Updated: 2021-04-13T14:46:35Z
-    Author: Kim Hutchings
-  - [Encouragement for the College Freshman](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/encouragement-for-the-college-freshman): Encouragement for the College Freshman
-    Updated: 2021-04-13T14:46:35Z
-    Author: Kim Hutchings
-  - [New Moons and New Seasons: Why the Fall Reminds Us It’s Not Too Late for a Fresh Start](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/freshstartsinfall)
-    Updated: 2021-04-13T14:46:32Z
-    Author: Kim Hutchings
-  - [Beyond Birthstones: Understanding the Colours Behind Each Birth Month](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/beyond-birthstones): <meta charset="utf-8"><em><strong><span class="s1">Rubies, diamonds, and emeralds, oh my!</span></strong></em>
-    Updated: 2021-04-13T14:46:32Z
-    Author: Kim Hutchings
-  - [Manifest Your New Year’s Resolutions By The Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/manifest-your-new-years-resolutions): Manifest Your New Year’s Resolutions By The Moon
-    Updated: 2021-04-13T14:46:30Z
-    Author: Kim Hutchings
-  - [In Celebration of Female Friendship](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/in-celebration-of-female-friendship): In Celebration of Female Friendship
-    Updated: 2021-04-13T14:46:29Z
-    Author: Kim Hutchings
-  - [In a Creative Rut? Harness the Imaginative Energy of the Waning Crescent This Lunar Cycle](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/creative-rut-waning-crescent)
-    Updated: 2021-04-13T14:46:28Z
-    Author: Kim Hutchings
-  - [Spring 2020 Jewelry Trends](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/spring-2020-jewelry-trends): <p class="p1"><span class="s1">How to wear this season's most popular styles.</span></p>
-    Updated: 2020-07-17T12:28:45Z
-    Author: Kim Hutchings
-  - [Small Changes for a More Sustainable You: Living Consciously This Earth Month](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/earth-month-small-changes)
-    Updated: 2021-04-13T14:46:27Z
-    Author: Kim Hutchings
-  - [One World, One Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/one-world-one-moon): One World, One Moon
-    Updated: 2021-04-13T14:46:28Z
-    Author: Kim Hutchings
-  - [Moonglow for Every Love Language: How to Find a Gift They’ll Love](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-five-love-languages)
-    Updated: 2021-04-13T14:46:26Z
-    Author: Kim Hutchings
-  - [Catching Up With @Luna.Lindsay](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/catching-up-with-luna-lindsay)
-    Updated: 2021-04-13T14:46:25Z
-    Author: Kim Hutchings
-  - [A Spring Garden (Indoors) – 5 Beginner Friendly Plants for Gardening at Home](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/home-garden-tips)
-    Updated: 2021-04-13T14:46:25Z
-    Author: Kim Hutchings
-  - [How Do We Take Our Tea? Very Seriously.](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/our-favorite-teas)
-    Updated: 2021-04-13T14:46:25Z
-    Author: Kim Hutchings
-  - [Understanding Astrology Basics – Sun Signs, Moons Signs and Beyond](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/understanding-astrology-basics)
-    Updated: 2021-04-13T14:46:25Z
-    Author: Kim Hutchings
-  - [Moon Milestones: 5 Facts About Travel to the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/5-facts-about-moon-travel): Moon Milestones: 5 Facts About Travel to the Moon
-    Updated: 2021-04-13T14:46:24Z
-    Author: Kim Hutchings
-  - [Our Favorite Gold Jewelry for Celebrating Summer's Golden Hour](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/golden-hour-moments): Our Favorite Gold Jewelry for Celebrating Summer's Golden Hour
-    Updated: 2021-04-13T14:46:23Z
-    Author: Kim Hutchings
-  - [The Moon, Tides and Our Mood](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-tides-and-our-mood)
-    Updated: 2021-04-13T14:46:23Z
-    Author: Kim Hutchings
-  - [The Libra Edit: The Perfect Gifts for Your Favorite Libra](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/libra-gift-ideas)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kim Hutchings
-  - [Tarot Basics: Symbolism + Interpretation in the Major Arcana](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/tarot-basics)
-    Updated: 2021-04-13T14:46:22Z
-    Author: Kim Hutchings
-  - [What’s My Moon Sign? Discovering Your Zodiac Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/astrology-moon-sign-basic)
-    Updated: 2021-04-13T14:46:22Z
-    Author: Kim Hutchings
-  - [Numerology + Multi-Moon Pieces](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/numerology-basics)
-    Updated: 2021-04-13T14:46:22Z
-    Author: Kim Hutchings
-  - [Born Under the Waxing Gibbous Moon Phase? Here’s your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-waxing-gibbous-moon-phase-here-s-your-lunar-personality)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kim Hutchings
-  - [The Scorpio Edit: The Perfect Gifts for Your Favorite Scorpio](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/scorpio-gift-ideas)
-    Updated: 2025-09-29T18:04:54Z
-    Author: Kim Hutchings
-  - [The Sagittarius Edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-sagittarius-edit): <meta charset="utf-8">
-<p>An ode to all Sagittarius Moonbabes! we compiled our favorite pieces that you will be obsessed with and want to add to your collection ASAP! </p>
-    Updated: 2025-09-29T18:04:46Z
-    Author: nicole hidalgo
-  - [Born Under a Lunar Eclipse? Here’s your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-a-lunar-eclipse-heres-your-lunar-personality): <meta charset="utf-8">
-<p>Those positions are uniquely yours and can help you learn about different aspects of your personality that have been written in the stars. Everyone knows about their zodiac or sun sign traits but not as many know that their Lunar personality is based on what Moon you were born under. </p>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [Moon Magic: The Moon’s Influence in Movies + Pop Culture](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-magic-the-moon-s-influence-in-movies-pop-culture): <meta charset="utf-8">
-<p><span style="color: #000000;"><em><span style="font-weight: 400;">We’ve all been obsessed with the Moon for a really long time. Like really long - </span></em><em>When we look at prehistoric paintings from 15000 years ago, we see the first lunar calendar. </em></span></p>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [The Capricorn edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-capricorn-edit): <meta charset="utf-8">Welcome to our Capricorn edit – where we’ve handpicked 10 pieces that we know are perfect for any and every Capricorn!
-    Updated: 2025-09-29T18:04:47Z
-    Author: Nicole Hidalgo
-  - [Born Under a Full moon? Here’s your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-a-full-moon-here-s-your-lunar-personality): <meta charset="utf-8"><span>Knowing your Moon phases is important, but you know what’s even more so? Knowing your Lunar personality, (if you read that and thought pardon??) then you’re going to enjoy this. Just like you have a Sun-sign or a zodiac sign that was assigned to you the day you were born, the Moon was also high in the sky in a particular phase. </span>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [New Year, New Us – A Look at Your 2021 Horoscope](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/new-year-new-us-a-look-at-your-2021-horoscope): <meta charset="utf-8">You know the feeling when you get home after a long day of wearing uncomfortable pants and you finally swap them for something comfy and it couldn’t feel better? Well, that’s how we are feeling about 2020 ending and 2021 beginning. Entering into a new year doesn’t magically start you off with a clean slate but it does give you the opportunity for something fresh, and we could all use something fresh and positive this year.
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [The Aquarius edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-aquarius-edit): <meta charset="utf-8"><em><span style="color: #1f3a68;">Throw your hands up in the air and celebrate that 2021 is finally here. Pop your champagne, exhale in relief and let’s celebrate our independent, unique, and humanitarian Aquarius babies!</span></em>
-    Updated: 2025-09-29T18:04:47Z
-    Author: Nicole Hidalgo
-  - [Moonglow presents: The Toujours Collection](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-toujours-collection): <meta charset="utf-8">No need to double take, you read that right, we are so excited to welcome and introduce you to our Winter Collection debut. The Toujours collection is unveiled with some of our favorite pieces to date, with new styles, new product sets but the same authentic and personal feeling!
-    Updated: 2025-09-29T16:30:43Z
-    Author: Nicole Hidalgo
-  - [Born Under the First Quarter Moon Phase? Here’s Your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-first-quarter-moon-phase-here-s-your-lunar-personality): <meta charset="utf-8"><em>Who here spends way too much time on TikTok watching life and home hacks? Is it just us? We love learning little things that seem to make life easier. You know what they say, “the more you know” and we think that also applies to knowing and understanding yourself and your personality as well!<strong>  </strong></em>
-    Updated: 2025-09-29T16:56:54Z
-    Author: Nicole Hidalgo
-  - [Moonglow Presents: The Gift Guide for Everyone We Love in Our Life](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonglow-presents-the-gift-guide-for-everyone-we-love-in-our-life)
-    Updated: 2025-09-29T16:28:20Z
-    Author: Nicole Hidalgo
-  - [The Moon this Valentine’s Day: Here’s what the Phase Could Mean for You](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-moon-this-valentine-s-day-here-s-what-the-phase-could-mean-for-you): <meta charset="utf-8">We could all use a little more chocolate this Valentine’s Day after the last year we’ve all been surviving. It’s been a weird one, to say the least. With Valentine’s Day fast approaching you’re either going to be rolling your eyes or thinking about what to surprise a loved one with
-    Updated: 2025-09-29T16:57:39Z
-    Author: Nicole Hidalgo
-  - [(Self) Love is in the Air: 5 Pieces to Spoil Yourself With](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/self-love-is-in-the-air-5-pieces-to-spoil-yourself-with): <meta charset="utf-8"><em><span style="font-weight: 400;">It’s that time of year when flower prices raise the roof, chocolate seems to be everywhere, and love may or may not be in the air. Either way, if you need a little break from the typical mid-February celebrations, we have a pretty good solution for you. </span></em>
-    Updated: 2025-09-29T18:04:45Z
-    Author: Nicole Hidalgo
-    Tags: moonglow
-  - [Aligning Yourself with the Moon Phases 101](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/aligning-yourself-with-the-moon-phases-101): <meta charset="utf-8"><em>Here at Moonglow, we love the Moon – obviously right? But we don’t just love it for being the most beautiful thing in the sky or because we know it’s always with us. We are also big fans because we feel like when we are aligned with its phases we thrive. </em>
-    Updated: 2025-09-29T16:58:23Z
-    Author: Nicole Hidalgo
-    Tags: moonglow
-  - [The Pisces edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-pisces-edit): <meta charset="utf-8"><em>If you were born between February 19th and March 20th then this is the post for you! Welcome to our Pisces Edit; we wanted to take some time to celebrate the generous, creative water signs that wrap up the winter season. Unlike your fellow water signs Cancers and Scorpios, you are generally seen as a bit less emotional and more laid back. </em>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-    Tags: moonglow
-  - [Constellations 101: Stars & Signs in the night sky](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/constellations-101-stars-signs-in-the-night-sky): <meta charset="utf-8"><em>Here at Moonglow, we are obsessed with all things celestial. Of course, the Moon takes the number one spot, but the stars in their dainty and shining glory are a close second. </em>
-    Updated: 2025-09-29T16:57:55Z
-    Author: Nicole Hidalgo
-  - [Spring Cleaning: Your Guide to Freshening up your Self-Care Routines](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/spring-cleaning-your-guide-to-freshening-up-your-self-care-routines): <meta charset="utf-8"><span>This year, we thought it would be fun to focus on our self-care routines. After the last year we’ve all dealt with, we think it’s more important than ever to pay attention to what we are doing for ourselves. *Self-care enters the chat*.</span>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [The Aries edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-aries-edit): <meta charset="utf-8">We are saying BYE to the blues of winter and HELLO to the remerging sun of springtime. With the start of Spring, we are also welcoming the season of our Aries babies! If you were born between March 21st and April 19th you are a passionate and optimistic person that is filled with an energy that the rest of us are downright envious of
-    Updated: 2025-10-01T17:08:10Z
-    Author: Nicole Hidalgo
-    Tags: Moonphase
-  - [Dreaming of the Blue moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/dreaming-of-the-blue-moon): <meta charset="utf-8"><em>Whether you’ve heard it in a song, mentioned in a movie, or had one of your parents explain that something only happens once in Blue Moon, the phrase has slowly made its way into pop culture and our daily lives. Usually meaning rare, or maybe a tad absurd, the point is we can bet you’ve heard it one way or another. But pause. You may find yourself questioning whether or not there ever is an actual blue Moon? </em>
-    Updated: 2025-09-29T18:02:39Z
-    Author: Nicole Hidalgo
-  - [The Taurus edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-taurus-edit): <meta charset="utf-8"><em><strong>﻿</strong>“I said Brr! It’s cold in here, I said there must be some Toro’s in the atmosphere” Anyone remembers that very famous cheer from the pop culture classic Bring it On? If you haven’t seen it, it features cheerleading, dualling squads, and a whole lot of late 90s/early 2000s energy. So, we are calling all of our Toro’s (those born under Taurus) to celebrate you and your upcoming season! </em>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [Your Guide to Layers of Love](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/layers-of-love-101): <meta charset="utf-8"><span>Let’s discuss layers. We see layered jewelry everywhere, and it is a trend that has no intention of ever stopping. In true Moonglow fashion, we wanted to give this trend a new meaningful twist. And this past week, we unveiled our latest collection: Layers of Love. This collection which is available in three different finishes features a curation of new chokers and engravable necklaces paired with your favorite Moonglow pieces!</span>
-    Updated: 2025-09-29T18:04:46Z
-    Author: Nicole Hidalgo
-  - [Your Moonglow Style Guide](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/your-moonglow-style-guide): <meta charset="utf-8"><span>We’ve pulled some of our favorite pieces that coincide with popular styles for the upcoming summer season. If you’re looking for a sign to treat yourself, a loved one, or your bestie then this is it. Get inspired by your personal style. </span>
-    Updated: 2025-10-07T12:33:08Z
-    Author: Nicole Hidalgo
-  - [The Gemini Edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-gemini-edit)
-    Updated: 2025-09-29T18:04:47Z
-    Author: Nicole Hidalgo
-  - [Power of Pride: A History, Our New Partners and An All-New Piece!](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/power-of-pride-a-history-our-new-partners-and-an-all-new-piece)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kaylee Perez
-  - [The Cancer Edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-cancer-edit): <meta charset="utf-8"><span>The height of summer is upon on. And we can’t get enough of it this year. From being able to socialize again and soaking in the sun, we want to enjoy an endless summer. We know our Moonbabes would agree that we are all happy to welcome the Cancer szn. </span>
-    Updated: 2025-09-29T18:03:40Z
-    Author: Kaylee Perez
-  - [Let’s Help the Surfside Community](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/let-s-help-the-surfside-community): <meta charset="utf-8"><span>As you may know, tragedy has struck the Surfside, Florida community due to the partial collapse of the Champlain Towers. We want to make sure we do our part and help those that are currently affected by this tragedy.</span>
-    Updated: 2021-07-02T17:00:50Z
-    Author: Kaylee Perez
-  - [Born Under the New Moon? Here is Your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-new-moon-here-is-your-lunar-personality)
-    Updated: 2021-07-21T16:52:47Z
-    Author: Kaylee Perez
-  - [Born Under the Third Quarter? Here’s Your Lunar Personality](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/born-under-the-third-quarter-here-s-your-lunar-personality)
-    Updated: 2025-09-29T16:33:34Z
-    Author: Kaylee Perez
-  - [The Leo Edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-leo-edit)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kaylee Perez
-  - [Moonphases 101: The Complete Guide to the Full Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moonphases-101-the-complete-guide-to-the-full-moon)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kaylee Perez
-  - [Moon phases 101: The Complete Guide to the Waning Gibbous](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phases-101-the-complete-guide-to-the-waning-gibbous)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kaylee Perez
-  - [The Virgo Edit](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-virgo-edit)
-    Updated: 2025-09-29T18:04:46Z
-    Author: Kaylee Perez
-  - [Moon Phases 101: The Complete Guide To The Third Quarter](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phases-101-the-complete-guide-to-the-third-quarter)
-    Updated: 2025-09-29T16:32:05Z
-    Author: Kaylee Perez
-  - [The Libra Essentials](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-libra-essentials)
-    Updated: 2025-10-01T17:12:40Z
-    Author: Kaylee Perez
-    Tags: moon
-  - [Julien's Moonglow Moment](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/juliens-moonglow-moment)
-    Updated: 2025-09-29T16:31:41Z
-    Author: Kaylee Perez
-  - [The Scorpio Essentials](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-scorpio-essentials)
-    Updated: 2025-09-29T16:31:21Z
-    Author: Kaylee Perez
-  - [Holiday Gifting + Shipping FAQ](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/holiday-gifting-shipping-faq)
-    Updated: 2025-09-29T16:30:28Z
-    Author: Kaylee Perez
-  - [Moon Phases 101: Your Guide to the Waning Crescent](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phases-101-your-guide-to-the-waning-crescent)
-    Updated: 2025-09-29T18:04:45Z
-    Author: Kaylee Perez
-  - [Moon Phases 101: Your Guide to the New Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/moon-phases-101-your-guide-to-the-new-moon)
-    Updated: 2025-09-29T16:31:05Z
-    Author: Fiorella Aldunate
-  - [The Sagittarius Essentials](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-sagittarius-essentials)
-    Updated: 2025-09-29T16:30:55Z
-    Author: Fiorella Aldunate
-    Tags: Astrology
-  - [The Capricorn Essentials](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-capricorn-essentials): <meta charset="utf-8"><span>You set goals, both large and small and are always striving to succeed. Your accomplishments are endless and in honour of you, we’ve put together our Capricorn Essentials.</span>
-    Updated: 2022-05-11T19:22:35Z
-    Author: Fiorella Aldunate
-  - [The Moon and Love: How to Find the Best Match for Your Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/compatibility-how-to-find-the-best-match-for-your-moon-phase): <meta charset="utf-8"><span>Finding the right partner is one of the most important decisions we make in our lives. However, it can be hard to find the right match. Fortunately, there are ways to narrow down your search and find a compatible match.</span>
-    Updated: 2025-09-29T18:04:48Z
-    Author: nicole hidalgo
-    Tags: Moonphase
-  - [Something for Everyone: Moonglow’s Valentine’s Day Gift Guide](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/something-for-everyone-moonglow-s-valentine-s-day-gift-guide)
-    Updated: 2025-09-29T18:04:47Z
-    Author: nicole hidalgo
-    Tags: Moonphase
-  - [Super Flower Blood Moon: Everything You Need To Know](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/super-flower-blood-moon-everything-you-need-to-know)
-    Updated: 2022-05-14T22:02:28Z
-    Author: nicole hidalgo
-  - [10 Years Under the Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/10-years-under-the-moon)
-    Updated: 2022-07-27T20:14:26Z
-    Author: Morgan Rogers
-  - [How to Stack Bracelets in 5 Easy Steps - The  Definitive Guide to Rocking Your Style](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-stack-bracelets-in-5-easy-steps-the-definitive-guide-to-rocking-your-style)
-    Updated: 2022-11-17T18:20:27Z
-    Author: Riaz Ali
-  - [The Essential Guide to Maintaining the Shine of Your Gold Plated Jewelry](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-5-step-guide-to-care-for-gold-plated-jewelry)
-    Updated: 2025-10-13T16:31:07Z
-    Author: Riaz Ali
-  - [The Ultimate Guide to Layering Necklaces: A New Way To Spice Up Your Style](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-ultimate-guide-to-layering-necklaces-a-new-way-to-spice-up-your-style)
-    Updated: 2022-11-17T18:20:04Z
-    Author: Riaz Ali
-  - [The Latest Jewelry Trends For Romantic Souls](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-latest-jewelry-trends-for-romantic-souls)
-    Updated: 2022-11-17T18:19:47Z
-    Author: Riaz Ali
-  - [Unique Valentine's Day Jewelry Ideas For Him And Her](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/unique-valentines-day-jewelry-ideas-for-him-and-her)
-    Updated: 2022-11-17T18:18:07Z
-    Author: Riaz Ali
-  - [Because Mom Deserves It: Top 5 Gifts for Mother’s Day](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/because-mom-deserves-it-top-5-gifts-for-mother-s-day)
-    Updated: 2025-10-06T17:02:38Z
-    Author: Dora Sobze
-  - [Embracing the Barbiecore Fashion Trend: How Moonglow was Inspired by the Fashion Icon Doll](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/embracing-the-barbiecore-fashion-trend-how-moonglow-was-inspired-by-the-fashion-icon-doll)
-    Updated: 2023-07-12T17:39:07Z
-    Author: Riaz Ali
-  - [The Gemstone Behind Wisdom, Spiritual Growth, and Emotional Balance](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-gemstone-behind-wisdom-spiritual-growth-and-emotional-balance)
-    Updated: 2023-08-17T20:26:35Z
-    Author: Riaz Ali
-  - [Once in a Blue Moon](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/once-in-a-blue-moon)
-    Updated: 2023-08-01T23:40:00Z
-    Author: Riaz Ali
-  - [How to Navigate the Mercury Retrograde](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-to-navigate-the-mercury-retrograde)
-    Updated: 2023-08-08T18:58:58Z
-    Author: Riaz Ali
-  - [How Close do you Relate to Your Sign?](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-close-do-you-relate-to-your-sign)
-    Updated: 2023-08-17T20:18:15Z
-    Author: Riaz Ali
-  - [Painting October Pink - The Pink Fund & Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/painting-october-pink-the-pink-fund-moonglow)
-    Updated: 2023-10-05T20:36:41Z
-    Author: Riaz Ali
-  - [Your Birthstone's Impact on Personal Energy](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/your-birthstones-impact-on-personal-energy)
-    Updated: 2025-09-29T18:04:45Z
-    Author: Ariel Gatica
-  - [All you need to know about the Lunar Eclipse in Virgo happening on March, 2025](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/all-you-need-to-know-about-the-lunar-eclipse-in-virgo-happening-on-march-2025)
-    Updated: 2025-09-29T18:04:48Z
-    Author: Paloma Sosa
-  - [Empowering Women this 8M: A Conversation with Moonglow Co-Founder Aurelie Dudziak](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/empowering-women-a-conversation-with-moonglow-co-founder-aurelie-dudziak)
-    Updated: 2025-05-23T18:41:00Z
-    Author: Paloma Sosa
-  - [How Jewelry Can Be a Tool for Mental Wellness](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/how-jewelry-can-be-a-tool-for-mental-wellness)
-    Updated: 2025-05-23T18:56:44Z
-    Author: Paloma Sosa
-  - [Golden Hour, Golden Jewelry: How to Style Your Jewelry This Summer](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/golden-hour-golden-jewelry-how-to-style-sentimental-pieces-this-summer)
-    Updated: 2025-06-23T20:33:34Z
-    Author: Paloma Sosa
-  - [What the Moon Phases Say About Your Moment](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/what-the-moon-phases-say-about-your-moment)
-    Updated: 2025-07-23T19:22:12Z
-    Author: Paloma Sosa
-  - [Lunar Wisdom: The Energy Behind Every Moon Phase](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/lunar-wisdom-the-energy-behind-every-moon-phase)
-    Updated: 2025-07-23T20:00:43Z
-    Author: Paloma Sosa
-  - [Founder’s Favorite Moonglow Pieces to Celebrate Your Moments](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/founder-s-picks-the-moonglow-jewelry-they-never-take-off): <p><meta charset="utf-8">Discover Moonglow’s co-founders' favorite jewelry picks—each piece holds a moon from your special moment. Shop sentimental, meaningful pieces today.</p>
-    Updated: 2025-09-29T16:06:55Z
-    Author: Paloma Sosa
-    Tags: Meaningful Moments, Personalized Jewelry
-  - [Meaningful Jewelry for Every Back-to-School Moment](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/meaningful-jewelry-for-every-back-to-school-moment)
-    Updated: 2025-08-15T17:51:11Z
-    Author: Paloma Sosa
-  - [The Harvest Moon 2025: What It Means for Your Zodiac Sign](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/the-harvest-moon-2025-what-it-means-for-your-zodiac-sign): <p data-start="4413" data-end="4558">Discover the energy of the Harvest Moon 2025 for your zodiac sign. Explore Moonglow’s limited Harvest Moon jewelry collection before it’s gone.</p>
-    Updated: 2025-09-29T15:37:40Z
-    Author: Paloma Sosa
-  - [Holiday Gift Guide 2025 | Meaningful Jewelry Gifts from Moonglow](https://www.moonglow.com/blogs/shoot-for-the-moon-blog/gifts-that-shine-moonglow-s-2025-holiday-gift-guide): Holiday Gift Guide 2025 | Meaningful Jewelry Gifts from Moonglow
-    Updated: 2025-10-30T20:44:16Z
-    Author: Paloma Sosa
-- [Moonglow News](https://www.moonglow.com/blogs/news): Check out the latest news and updates about custom made necklaces, bracelets and many more with Moonglow Jewelry.
-  - [Born Under the Waning Crescent Moon Phase? Here’s Your Lunar Personality](https://www.moonglow.com/blogs/news/born-under-the-waning-crescent-moon-phase-heres-your-lunar-personality)
-    Updated: 2021-07-21T16:54:52Z
-    Author: nicole hidalgo
-  - [One Million Moments Under the Moon](https://www.moonglow.com/blogs/news/one-million-moments-under-the-moon)
-    Updated: 2025-09-29T16:29:29Z
-    Author: Morgan Rogers
-  - [Manifesting with August's Meteor Shower and Full Moon](https://www.moonglow.com/blogs/news/manifesting-with-augusts-meteor-shower-and-full-moon)
-    Updated: 2022-08-08T19:53:16Z
-    Author: Morgan Rogers
-  - [The Meaning of Moonstone: Why It's So Special](https://www.moonglow.com/blogs/news/the-meaning-of-moonstone-why-its-so-special)
-    Updated: 2025-09-29T15:56:05Z
-    Author: Julien Plouffe
-- [Astrology Results](https://www.moonglow.com/blogs/astrology-results)
-  - [Full Moon + Aries](https://www.moonglow.com/blogs/astrology-results/full-moon-aries)
-    Updated: 2021-04-13T14:46:12Z
-    Author: Dora Sobze
-  - [Full Moon + Taurus](https://www.moonglow.com/blogs/astrology-results/full-moon-taurus)
-    Updated: 2021-04-13T14:46:16Z
-    Author: Morgan Rogers
-  - [Full Moon + Gemini](https://www.moonglow.com/blogs/astrology-results/full-moon-gemini)
-    Updated: 2021-04-13T14:46:08Z
-    Author: Morgan Rogers
-  - [Full Moon + Cancer](https://www.moonglow.com/blogs/astrology-results/full-moon-cancer)
-    Updated: 2021-04-13T14:45:25Z
-    Author: Morgan Rogers
-  - [Full Moon + Leo](https://www.moonglow.com/blogs/astrology-results/full-moon-leo)
-    Updated: 2021-04-13T14:45:30Z
-    Author: Morgan Rogers
-  - [Full Moon + Virgo](https://www.moonglow.com/blogs/astrology-results/full-moon-leo-1)
-    Updated: 2021-04-13T14:45:34Z
-    Author: Morgan Rogers
-  - [Full Moon + Libra](https://www.moonglow.com/blogs/astrology-results/full-moon-libra)
-    Updated: 2021-04-13T14:45:44Z
-    Author: Morgan Rogers
-  - [Full Moon + Scorpio](https://www.moonglow.com/blogs/astrology-results/full-moon-scorpio)
-    Updated: 2021-04-13T14:45:38Z
-    Author: Morgan Rogers
-  - [Full Moon + Sagittarius](https://www.moonglow.com/blogs/astrology-results/full-moon-sagittarius)
-    Updated: 2021-04-13T14:46:02Z
-    Author: Morgan Rogers
-  - [Full Moon + Capricorn](https://www.moonglow.com/blogs/astrology-results/full-moon-capricorn)
-    Updated: 2021-04-13T14:45:48Z
-    Author: Morgan Rogers
-  - [Full Moon + Aquarius](https://www.moonglow.com/blogs/astrology-results/full-moon-aquarius)
-    Updated: 2021-04-13T14:45:53Z
-    Author: Morgan Rogers
-  - [Full Moon + Pisces](https://www.moonglow.com/blogs/astrology-results/full-moon-pisces)
-    Updated: 2021-04-13T14:45:57Z
-    Author: Morgan Rogers
-  - [New Moon + Aries](https://www.moonglow.com/blogs/astrology-results/new-moon-aries)
-    Updated: 2021-04-13T14:45:16Z
-    Author: Morgan Rogers
-  - [New Moon + Taurus](https://www.moonglow.com/blogs/astrology-results/new-moon-taurus)
-    Updated: 2021-04-13T14:45:20Z
-    Author: Morgan Rogers
-  - [New Moon + Gemini](https://www.moonglow.com/blogs/astrology-results/new-moon-gemini)
-    Updated: 2021-04-13T14:45:11Z
-    Author: Morgan Rogers
-  - [New Moon + Cancer](https://www.moonglow.com/blogs/astrology-results/new-moon-cancer)
-    Updated: 2021-04-13T14:44:30Z
-    Author: Morgan Rogers
-  - [New Moon + Leo](https://www.moonglow.com/blogs/astrology-results/new-moon-leo)
-    Updated: 2021-04-13T14:44:33Z
-    Author: Morgan Rogers
-  - [New Moon + Virgo](https://www.moonglow.com/blogs/astrology-results/new-moon-virgo)
-    Updated: 2021-04-13T14:44:38Z
-    Author: Morgan Rogers
-  - [New Moon + Libra](https://www.moonglow.com/blogs/astrology-results/new-moon-libra)
-    Updated: 2021-04-13T14:44:48Z
-    Author: Morgan Rogers
-  - [New Moon + Scorpio](https://www.moonglow.com/blogs/astrology-results/new-moon-scorpio)
-    Updated: 2021-04-13T14:44:43Z
-    Author: Morgan Rogers
-  - [New Moon + Sagittarius](https://www.moonglow.com/blogs/astrology-results/new-moon-sagittarius)
-    Updated: 2021-04-13T14:45:06Z
-    Author: Morgan Rogers
-  - [New Moon + Capricorn](https://www.moonglow.com/blogs/astrology-results/new-moon-capricorn)
-    Updated: 2021-04-13T14:44:53Z
-    Author: Morgan Rogers
-  - [New Moon + Aquarius](https://www.moonglow.com/blogs/astrology-results/new-moon-aquarius)
-    Updated: 2021-04-13T14:44:57Z
-    Author: Morgan Rogers
-  - [New Moon + Pisces](https://www.moonglow.com/blogs/astrology-results/new-moon-pisces)
-    Updated: 2021-04-13T14:45:03Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Pisces](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-pisces)
-    Updated: 2021-04-13T14:41:22Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Libra](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-libra)
-    Updated: 2021-04-13T14:41:15Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Aries](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-aries)
-    Updated: 2021-04-13T14:41:34Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Leo](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-leo)
-    Updated: 2021-06-09T14:27:57Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Cancer](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-cancer)
-    Updated: 2021-04-13T14:41:04Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Scorpio](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-scorpio)
-    Updated: 2021-04-13T14:41:12Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Taurus](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-taurus)
-    Updated: 2021-04-13T14:41:39Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Sagittarius](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-sagittarius)
-    Updated: 2021-04-13T14:41:25Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Gemini](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-gemini)
-    Updated: 2021-04-13T14:41:30Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Virgo](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-virgo)
-    Updated: 2021-04-13T14:41:09Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Capricorn](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-capricorn)
-    Updated: 2021-04-13T14:41:17Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Pisces](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-pisces)
-    Updated: 2021-04-13T14:44:05Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Libra](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-libra)
-    Updated: 2021-04-14T14:07:48Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Aries](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-aries)
-    Updated: 2021-04-13T14:44:18Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Leo](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-leo)
-    Updated: 2021-04-13T14:43:38Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Cancer](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-cancer)
-    Updated: 2021-04-13T14:43:32Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Scorpio](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-scorpio)
-    Updated: 2021-04-13T14:43:46Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Taurus](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-taurus)
-    Updated: 2021-04-13T14:44:23Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Sagittarius](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-sagittarius)
-    Updated: 2021-04-13T14:44:09Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Gemini](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-gemini)
-    Updated: 2021-04-13T14:44:14Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Virgo](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-virgo)
-    Updated: 2021-04-13T14:43:41Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Capricorn](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-capricorn)
-    Updated: 2021-04-13T14:43:55Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Pisces](https://www.moonglow.com/blogs/astrology-results/waning-crescent-pisces)
-    Updated: 2021-04-13T14:43:09Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Libra](https://www.moonglow.com/blogs/astrology-results/waning-crescent-libra)
-    Updated: 2021-04-20T08:42:12Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Aries](https://www.moonglow.com/blogs/astrology-results/waning-crescent-aries)
-    Updated: 2021-04-13T14:43:23Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Leo](https://www.moonglow.com/blogs/astrology-results/waning-crescent-leo)
-    Updated: 2021-04-13T14:42:43Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Cancer](https://www.moonglow.com/blogs/astrology-results/waning-crescent-cancer)
-    Updated: 2021-04-13T14:42:38Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Scorpio](https://www.moonglow.com/blogs/astrology-results/waning-crescent-scorpio)
-    Updated: 2021-04-13T14:43:03Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Taurus](https://www.moonglow.com/blogs/astrology-results/waning-crescent-taurus)
-    Updated: 2021-04-13T14:43:27Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Sagittarius](https://www.moonglow.com/blogs/astrology-results/waning-crescent-sagittarius)
-    Updated: 2021-07-12T12:13:42Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Gemini](https://www.moonglow.com/blogs/astrology-results/waning-crescent-gemini)
-    Updated: 2021-04-13T14:43:19Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Virgo](https://www.moonglow.com/blogs/astrology-results/waning-crescent-virgo)
-    Updated: 2021-04-13T14:42:46Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Capricorn](https://www.moonglow.com/blogs/astrology-results/waning-crescent-capricorn)
-    Updated: 2021-07-15T10:24:10Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Pisces](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-pisces)
-    Updated: 2021-04-13T14:42:16Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Libra](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-libra)
-    Updated: 2021-04-13T14:42:05Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Aries](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-aries)
-    Updated: 2021-04-13T14:42:28Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Leo](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-leo)
-    Updated: 2021-04-13T14:41:49Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Cancer](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-cancer)
-    Updated: 2021-04-13T14:41:44Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Scorpio](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-scorpio)
-    Updated: 2021-04-13T14:41:57Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Taurus](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-taurus)
-    Updated: 2021-04-13T14:42:33Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Sagittarius](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-sagittarius)
-    Updated: 2021-04-13T14:42:20Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Gemini](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-gemini)
-    Updated: 2021-04-13T14:42:25Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Virgo](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-virgo)
-    Updated: 2021-04-13T14:41:54Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Capricorn](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-capricorn)
-    Updated: 2021-04-13T14:42:08Z
-    Author: Morgan Rogers
-  - [Waxing Crescent + Aquarius](https://www.moonglow.com/blogs/astrology-results/waxing-crescent-aquarius)
-    Updated: 2021-04-13T14:44:01Z
-    Author: Morgan Rogers
-  - [Waning Crescent + Aquarius](https://www.moonglow.com/blogs/astrology-results/waning-crescent-aquarius)
-    Updated: 2021-04-13T14:43:04Z
-    Author: Morgan Rogers
-  - [Waning Gibbous + Aquarius](https://www.moonglow.com/blogs/astrology-results/waning-gibbous-aquarius)
-    Updated: 2021-04-13T14:42:11Z
-    Author: Morgan Rogers
-  - [Waxing Gibbous + Aquarius](https://www.moonglow.com/blogs/astrology-results/waxing-gibbous-aquarius)
-    Updated: 2021-04-13T14:41:20Z
-    Author: Morgan Rogers
+- [FS13-DROP (generic)](https://www.moonglow.com/products/fs13-drop-generic)
+  Updated: 2025-11-10T22:08:46Z
+  Vendor: Moonglow Jewelry
+  Product Type: 
+  Availability: Available
+  Price: $0.00 USD
+- [FS10-DROP (generic)](https://www.moonglow.com/products/fs10-drop-generic)
+  Updated: 2025-11-10T22:06:50Z
+  Vendor: Moonglow Jewelry
+  Product Type: 
+  Availability: Available
+  Price: $0.00 USD
+- [CHARM1SPL (generic)](https://www.moonglow.com/products/charm1spl-generic)
+  Updated: 2025-11-10T22:06:31Z
+  Vendor: Moonglow Jewelry
+  Product Type: 
+  Availability: Available
+  Price: $0.00 USD
 
 ## Store Pages
 
