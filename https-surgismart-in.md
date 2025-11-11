@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-09T00:00:58.888Z
+- Updated At: 2025-11-11T00:00:31.124Z
 
 ## Products
 
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic New Gen Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
-  Updated: 2025-11-03T21:13:02Z
+  Updated: 2025-11-10T10:07:44Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3191,9 +3191,6 @@
     Availability: Available
     Price: ₹899.00 INR
   - [XXL](https://surgismart.in/products/lab-coat-apron?variant=50546605097240)
-    Availability: Available
-    Price: ₹899.00 INR
-  - [3XL](https://surgismart.in/products/lab-coat-apron?variant=50546605130008)
     Availability: Available
     Price: ₹899.00 INR
 - [Classic Face Mask](https://surgismart.in/products/classic-face-mask)
@@ -3280,13 +3277,13 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-08T12:17:08Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-11-07T12:17:14Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
-  Updated: 2025-11-07T12:17:14Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
   Updated: 2025-10-13T11:20:32Z
@@ -3343,7 +3340,7 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-11-07T12:17:14Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 38
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-09-28T11:47:25Z
@@ -3421,7 +3418,7 @@
   Updated: 2025-09-29T07:18:09Z
   Total Products: 3
 - [Buy ​Thermometer - Surgismart](https://surgismart.in/collections/thermometer): - Surgismart
-  Updated: 2025-11-07T12:17:14Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 4
 - [Buy ​Hearing Aid - Surgismart](https://surgismart.in/collections/hearing-aid): - Surgismart
   Updated: 2025-08-01T11:05:31Z
@@ -3442,7 +3439,7 @@
   Updated: 2025-08-23T11:16:56Z
   Total Products: 27
 - [Buy ​Doctor's Corner - Surgismart](https://surgismart.in/collections/doctors-corner): - Surgismart
-  Updated: 2025-11-07T12:17:14Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 15
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
   Updated: 2025-10-13T11:20:29Z
@@ -3463,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-08T12:17:08Z
+  Updated: 2025-11-10T12:17:21Z
   Total Products: 5
 
 ## Blogs
