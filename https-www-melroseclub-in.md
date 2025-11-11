@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-18T12:19:41Z
 - Contact Email: melroseclubcompany@gmail.com
-- Updated At: 2025-11-08T00:00:26.913Z
+- Updated At: 2025-11-11T00:00:51.304Z
 
 ## Products
 
@@ -467,7 +467,7 @@
 - [Melrose Club Exclusive Sale FAQ | Limited-Time Access to Past Collections | Melrose Club](https://www.melroseclub.in/pages/archive-sale-faq): What is the Exclusive The Melrose Club Exclusive Sale is a limited-time event where we reopen access to select pieces from past collections—availab...
   Updated: 2025-07-13T06:08:50Z
 - [Shipping & Return Policies with Exclusive Sale FAQs | Melrose Club](https://www.melroseclub.in/pages/shipping-return): For information on our limited-time promotions, including the Exclusive Sale, please click here to view our Exclusive FAQ. Shipping Information Onc...
-  Updated: 2025-07-13T06:09:05Z
+  Updated: 2025-11-08T06:15:57Z
 - [Melrose Club Privacy Policy: Your Data Protection & Privacy](https://www.melroseclub.in/pages/privacy-policy): This Privacy Policy outlines how Melrose Club (“we,” “us,” or “our”) collects, uses, and protects your personal information when you use our servic...
   Updated: 2025-07-13T06:09:20Z
 
