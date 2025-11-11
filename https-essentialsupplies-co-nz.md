@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-05T00:00:53.281Z
+- Updated At: 2025-11-11T00:00:38.111Z
 
 ## Products
 
@@ -2041,7 +2041,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sws-polyethylene-tubing-clear-600mm-x-25kg-x-80mu-1-roll-polyethylene-tubing-essential-supplies-674837.jpg?v=1719445814
   Price: $201.00 NZD
 - [SWS Polyethylene Tubing - White, 900mm x 30kg x 120mu - 1 Roll](https://essentialsupplies.co.nz/products/sws-polyethylene-tubing-white-900mm-x-30kg-x-120mu-1): Polyethylene tubing is a low density polyethylene film made into a continuous tubular form, suitable for creating the exact size bag required for protection, storage or transportation. The tubing is available in opaque white or transparent clear with a large range of size options, ideal for protecting anything from small toys to large curtains or equipment. Create the exact bag size you require Polyethylene film made into a continuous tubular form Suitable for creating the exact size bag required for protection, storage or transportation Size: 900mm x 30kg x 120mu Colour: White
-  Updated: 2025-01-08T21:43:14Z
+  Updated: 2025-11-05T08:41:44Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Tubing
   Availability: Available
@@ -2426,7 +2426,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-urgent-whitered-48mm-x-100m-x-50mu-printed-message-tape-essential-supplies-444850.jpg?v=1719445312
   Price: $6.00 NZD
 - [Message Tape Security Seal - White/Red, 48mm x 100m x 50mu](https://essentialsupplies.co.nz/products/message-tape-security-seal-white-red-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print. Dual purpose packaging to keep items safe and protected while communicating your message clearly.Great for providing instruction to couriers about fragile or other contents. Typical Applications: Dual purpose alternative to stickers or labels Great for providing instruction to couriers about fragile or other contents Colour: Red print on White tape Printed: SECURITY SEAL Size: 48mm x 100mt
-  Updated: 2025-07-07T00:50:52Z
+  Updated: 2025-11-05T04:54:48Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -3343,7 +3343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/vertical-toilet-roll-dispenser-white-3-roll-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-273380.jpg?v=1719445909
   Price: $68.00 NZD
 - [Virgin Jumbo Toilet Tissue Boxed - White, 1 Ply, 500m, FSC Mix® - 8 Rolls](https://essentialsupplies.co.nz/products/virgin-jumbo-toilet-tissue-boxed-white-1-ply-500m-fsc-mix®-8): Virgin jumbo toilet tissue is a premium quality, affordable and consistent tissue, ideal for high traffic bathroom use.Combining softness and strength at a competitive price for all industry requirements, these rolls are FSC certified which ensures you are making a sustainable paper choice. Maximum cost economy FSC certified Non perforated Ply: 1 Roll length: 500 metres Pack of 8 rolls Colour: White
-  Updated: 2025-01-19T04:32:48Z
+  Updated: 2025-11-07T07:00:08Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
@@ -5567,7 +5567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/plastic-insect-swat-red-1-swat-pest-control-essential-supplies-842022.jpg?v=1719445579
   Price: $3.00 NZD
 - [Black Flag Insect Spray Rapid Kill - Black, 300g - 1 Can](https://essentialsupplies.co.nz/products/black-flag-insect-spray-rapid-kill-black-300g-1): Pyrethoid insecticide for premium flying and crawling insect control. Rapid Kill is manufactured to blow-fly strength, with a fast acting and powerful insecticide.
-  Updated: 2025-02-12T23:50:20Z
+  Updated: 2025-11-06T05:47:10Z
   Vendor: Mattews Packaging
   Product Type: Pest Control
   Availability: Available
@@ -7448,7 +7448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/bolt-stretch-film-dispenser-silver-fits-bolt-prestretch-rolls-1-dispenser-use-with-mph8005-mph8015-hand-stretch-film-essential-supplies-104636.jpg?v=1719444774
   Price: $201.00 NZD
 - [Bolt Prestretch Hand Stretch Film - Clear, 390mm x 480m x 5mu - 4 rolls *Dispenser Film](https://essentialsupplies.co.nz/products/bolt-prestretch-hand-stretch-film-clear-390mm-x-480m-x-5mu-4-dispenser-film)
-  Updated: 2025-01-09T05:45:26Z
+  Updated: 2025-11-07T13:50:19Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
