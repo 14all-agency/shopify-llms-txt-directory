@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-10T00:00:30.786Z
+- Updated At: 2025-11-11T00:00:31.919Z
 
 ## Products
 
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-08T19:58:40Z
+  Updated: 2025-11-10T20:07:21Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -349,7 +349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-HUNTER-57-1_1.jpg?v=1757517138
     Price: $1.00 USD
   - [Maroon / Cut by the Yard](https://fabricsstar.com/products/soft-velvet-fabric-1?variant=46692946477337)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT118-MAROON-U01.jpg?v=1757517160
     Price: $22.00 USD
   - [Maroon / Sample 3x3 Inch](https://fabricsstar.com/products/soft-velvet-fabric-1?variant=46692946215193)
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-11-07T02:59:44Z
+  Updated: 2025-11-10T12:02:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2081,7 +2081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEWPORT-BEACH-TOBBACO-5.jpg?v=1757517441
     Price: $1.00 USD
 - [Newport Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/newport-1): Elevate your sewing projects with the Newport 1 Fabric Collection at Fabrics Star. Explore a diverse range of premium textiles, from elegant patterns to modern designs.
-  Updated: 2025-10-23T20:17:12Z
+  Updated: 2025-11-10T16:04:41Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2227,7 +2227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ROWLEY-NAVY-GOLD_5.jpg?v=1757517463
     Price: $1.00 USD
 - [CREATION Glitter Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/creation-glitter-embroidered-mesh-fabric): This CREATION Glitter Embroidered Mesh Fabric features a mesh backing with beautiful embroidery. Its luxurious look makes it the ideal fabric for all your elegant needs.
-  Updated: 2025-10-23T20:17:05Z
+  Updated: 2025-11-10T16:02:47Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VAILS-WHITE.jpg?v=1757517637
     Price: $1.00 USD
 - [Gate Brocade Velvet Fabric, 72 Inch Width](https://fabricsstar.com/products/gate-brocade-velvet-fabric-72-inch-in-width-ideal-embossed-material-for-home-decor): Discover premium Gate Brocade Velvet Fabric, 72 inches wide. Perfect for home decor, sold by the yard, and customizable to fit your needs.
-  Updated: 2025-10-28T21:23:35Z
+  Updated: 2025-11-10T00:17:13Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9688,7 +9688,7 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-09T12:15:25Z
+  Updated: 2025-11-10T12:13:33Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
@@ -9703,19 +9703,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-09T12:15:25Z
+  Updated: 2025-11-10T12:13:33Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-09T12:15:25Z
+  Updated: 2025-11-10T12:13:33Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-11-09T12:15:25Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-07T12:15:21Z
+  Updated: 2025-11-10T12:13:33Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-09T12:15:25Z
+  Updated: 2025-11-10T12:13:33Z
   Total Products: 666
 
 ## Blogs
@@ -9798,6 +9798,9 @@
     Author: User
   - [A Complete Guide to Decorating with Velvet for a Luxurious Look](https://fabricsstar.com/blogs/news/a-complete-guide-to-decorating-with-velvet-for-a-luxurious-look): A Complete Guide to Decorating with Velvet for a Luxurious Look
     Updated: 2025-11-09T00:08:34Z
+    Author: User
+  - [Five Often Overlooked Fabrics That Deserve More Recognition](https://fabricsstar.com/blogs/news/five-often-overlooked-fabrics-that-deserve-more-recognition): Five Often Overlooked Fabrics That Deserve More Recognition
+    Updated: 2025-11-10T03:32:14Z
     Author: User
 
 ## Store Pages
