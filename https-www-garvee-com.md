@@ -8,7 +8,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2023-02-10T01:47:03Z
 - Contact Email: hello@garvee.com
-- Updated At: 2025-11-11T08:02:30.072Z
+- Updated At: 2025-11-11T12:02:52.368Z
 
 Garvee is an e-commerce platform offering a diverse range of products, including home improvement tools, family recreation items, and commercial equipment. They emphasize quality, affordability, and fast delivery, aiming to be a trusted partner for both families and businesses.
 
@@ -57,14 +57,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/20_Gallon-01_4f51642f-c404-4795-b6d2-4e01102647fd.jpg?v=1718827668
   Price: $152.99 USD
 - [Garvee 20 Gallon Electric Oil Drain Pan with 110V Pump & 8 Ft Hose, Low Profile & T Folding Handle Oil Drain Cart for Truck Cars SUVs](https://www.garvee.com/products/garvee-electric-oil-drain-pan-pau-0hsm): Experience hassle-free oil changes with GARVEE's 20-gallon electric drain pan, featuring a powerful pump, low profile design, and easy maneuverability for efficient fluid collection.
-  Updated: 2025-11-11T06:06:32Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Automotive > Fuel Transfer & Lubrication > Oil Drain Pan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/20_Gal-Electric-Metal-01_33ca1057-8e11-445a-83d3-3aa9fe7aa2db.jpg?v=1736154643
   Price: $179.99 USD
 - [Garvee Ride - P Series: 3-in-1 Ride-On Tractor, 24V Electric, Excavator & Bulldozer, Remote Control, LED, Music, USB/Bluetooth max 66 lbs - Bright-Yellow](https://www.garvee.com/products/24v-ride-on-tractor-pto-0z2n5mpd): Explore the GARVEE 3-in-1 Ride-On Tractor, perfect for indoor and outdoor play. This versatile electric vehicle offers endless fun with its excavator and bulldozer features!
-  Updated: 2025-11-11T07:58:44Z
+  Updated: 2025-11-11T11:02:30Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
@@ -232,7 +232,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61N2sA1uTaL_db1734f1-c39e-409c-bdb7-b7145187be1c.jpg?v=1751357457
   Price: $369.99 USD
 - [Garvee 16-Inch Variable Speed Scroll Saw With Extra-Large Adjustable Tilting Work Table](https://www.garvee.com/products/garvee-variable-speed-scroll-saw-extra-pho-12j2v19m): Discover the GARVEE 16-Inch Variable Speed Scroll Saw, featuring an adjustable tilting table, hold-down shoe, and integrated dust port for efficient, precise woodworking.
-  Updated: 2025-11-11T02:01:50Z
+  Updated: 2025-11-11T08:16:25Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Saws > Band Saw
   Availability: Available
@@ -365,7 +365,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61eCvfuQqRL_fd18b71f-e2f8-4683-b9ba-2b8e9a714481.jpg?v=1718889176
   Price: $57.99 USD
 - [GARVEE 24x18 Inch Acacia Wood Cutting Board - Versatile Kitchen Essential](https://www.garvee.com/products/large-acacia-wood-cutting-boards-pho_0rwu): Discover the GARVEE 24x18" Acacia Wood Cutting Board, perfect for outdoor and indoor use. Its reversible design offers multi-functional capabilities for all your food prep needs.
-  Updated: 2025-11-11T06:06:33Z
+  Updated: 2025-11-11T12:00:10Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Cutting Boards
   Availability: Available
@@ -442,7 +442,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51LQViCG6lL.jpg?v=1719383000
   Price: $229.99 USD
 - [Garvee Ride - G Series: 24V Go Kart for Kids 8-12, 300W*2 Motors, 9Ah Battery, 8MPH Speed, Music, Horn, 175lbs Max Load - Blue](https://www.garvee.com/products/24v-go-kart-pto-0yqi72rw): Experience thrilling rides with the GARVEE 24V Go Kart! Perfect for kids aged 8-12, this versatile kart is ideal for both indoor and outdoor adventures.
-  Updated: 2025-11-11T04:31:11Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Go Kart
   Availability: Available
@@ -687,7 +687,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61yXry7USgL.jpg?v=1718882651
   Price: $129.99 USD
 - [GARVEE Large Outdoor Tall Planter - Versatile Self-Watering Pots](https://www.garvee.com/products/garvee-outdoor-tall-planter-black-high-pho-11gdapzn): Elevate your indoor and outdoor decor with GARVEE's large self-watering planters. Perfect for vibrant plants, these versatile pots ensure optimal hydration effortlessly.
-  Updated: 2025-11-11T04:31:16Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Plant Pots
   Availability: Available
@@ -960,7 +960,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61McWI-pRqL.jpg?v=1736387529
   Price: $326.99 USD
 - [GARVEE 2x 480-8.5 6PR Trailer Tires - Quality and Service Guaranteed](https://www.garvee.com/products/garvee-trailer-tires-4-80-8-pau-0i7v2qfh): Experience fast shipping and excellent customer service with GARVEE trailer tires. Enjoy free shipping and hassle-free returns for a seamless shopping experience!
-  Updated: 2025-11-11T04:39:01Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Automotive > Tire & Wheel Tools > Trailer Tires
   Availability: Available
@@ -1002,7 +1002,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/516medNTlgL.jpg?v=1718882852
   Price: $82.99 USD
 - [GARVEE Vintage Washable Area Rug 9x12 - Bohemian Floral Design](https://www.garvee.com/products/garvee-vintage-washable-area-rug-9x12-bohemian-floral-non-slip-tpr-backing-stain-resistant-polyester-ideal-for-living-room-bedroom-office-classroom-blue-multi-garvee): Discover the GARVEE Vintage Washable Area Rug, featuring non-slip TPR backing, stain-resistant polyester, and a chic bohemian design, perfect for any space.
-  Updated: 2025-11-11T04:18:36Z
+  Updated: 2025-11-11T09:25:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -1023,28 +1023,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71QaKwDGjuL.jpg?v=1718882804
   Price: $87.99 USD
 - [GARVEE Modern Geometric Washable Rug - Soft, Non-Slip Indoor Carpet](https://www.garvee.com/products/garvee-royhome-modern-geometric-washable-rug-pho-10m990sc): Enhance your home with the GARVEE 4x6 washable rug. Its non-slip backing, stain resistance, and pet-friendly design make it perfect for busy households.
-  Updated: 2025-11-11T04:18:37Z
+  Updated: 2025-11-11T09:26:00Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704361157774.jpg?v=1761718032
   Price: $30.99 USD
 - [GARVEE Washable Moroccan Geometric Rug 9x12 - Vintage Boho Design](https://www.garvee.com/products/garvee-washable-moroccan-geometric-rug-9x12-vintage-boho-design-soft-faux-wool-non-slip-low-pile-foldable-living-room-bedroom-garvee): Transform your space with the GARVEE 9x12 Moroccan rug! Soft faux wool, machine washable, non-slip, and foldable for easy care. Perfect for any room!
-  Updated: 2025-11-11T04:18:38Z
+  Updated: 2025-11-11T09:26:01Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61IxIi7k4sL.jpg?v=1756196188
   Price: $108.99 USD
 - [GARVEE Bohemian Washable Rug – Stylish & Practical](https://www.garvee.com/products/garvee-bohemian-washable-rug-6x9-geometric-pho-0zufvy29): Transform your space with the GARVEE 6x9 Bohemian rug. Made from durable, machine-washable polyester, it features a non-slip backing and elegant geometric design.
-  Updated: 2025-11-11T04:18:39Z
+  Updated: 2025-11-11T09:26:02Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91R0xOUJXVL.jpg?v=1718941557
   Price: $43.99 USD
 - [GARVEE Grey Area Rug - Stylish & Functional 5x7 Chenille Rug](https://www.garvee.com/products/garvee-iminrome-grey-area-rug-geometric-pho-0yfxkdfo): Enhance your living space with the GARVEE Grey Area Rug. This 5x7 machine washable rug features a geometric pattern, anti-slip backing, and is foldable for easy care.
-  Updated: 2025-11-11T04:18:42Z
+  Updated: 2025-11-11T09:26:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -1212,7 +1212,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CGOyQYqAL.jpg?v=1751353557
   Price: $149.99 USD
 - [GARVEE 360° Rotatable End Table with Charging Station - Versatile for Any Space](https://www.garvee.com/products/garvee-idealhouse-rotating-end-table-360-pho-0zuw88an): Discover the GARVEE 360° Rotatable End Table, perfect for indoor use. This multifunctional table features a charging station and extra storage for ultimate convenience.
-  Updated: 2025-11-11T04:31:04Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > End & Side Tables
   Availability: Available
@@ -1457,7 +1457,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/image_1_51ad690d-f39f-4357-8ca0-18c978e3f58e.jpg?v=1751369390
   Price: $126.99 USD
 - [Garvee 6FT*13.1FT Boat Marine Carpet,Stripe Brown Marine Carpet, Indoor/Outdoor Rug, TPR Non-Slip, Waterproof, for Patio Deck, Outdoor Use, Camping](https://www.garvee.com/products/garvee-marine-carpet-stripe-brown-non-pho-11zmo8h0): Experience quick shipping and top-notch customer service with GARVEE's waterproof marine carpet. Enjoy free shipping and easy returns for a hassle-free shopping experience!
-  Updated: 2025-11-07T05:19:26Z
+  Updated: 2025-11-11T09:08:06Z
   Vendor: Garvee
   Product Type: Automotive > Boat Parts & Accessories > Marine Carpet
   Availability: Available
@@ -1520,28 +1520,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71PUeGiIv3L_0ffbab0f-e926-4091-a63e-1fa07397d3ed.jpg?v=1727691595
   Price: $79.99 USD
 - [GARVEE Vintage Boho Area Rug 8x10 | Moroccan Design, Soft Washable | Non-Slip](https://www.garvee.com/products/garvee-vintage-boho-area-rug-8x10-pho-0zufzy99): Transform your space with the GARVEE Vintage Boho Area Rug. This machine-washable, non-slip rug features a stunning Moroccan design and is made from durable synthetic fibers.
-  Updated: 2025-11-11T04:18:43Z
+  Updated: 2025-11-11T09:26:06Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815kNUuUMJL.jpg?v=1718941440
   Price: $101.99 USD
 - [GARVEE 4x6 Vintage Boho Rug - Soft, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-moroccan-rug-4x6-vintage-boho-pho-0zufznuj): Transform your space with the GARVEE 4x6 Vintage Boho Rug. Made from durable polyester, it's machine washable, non-slip, and perfect for high traffic areas.
-  Updated: 2025-11-11T04:18:44Z
+  Updated: 2025-11-11T09:26:07Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CKrcZNHDL.jpg?v=1718941446
   Price: $33.99 USD
 - [GARVEE Washable Moroccan Geometric Area Rug 9x12 - Vintage Boho Faux Wool](https://www.garvee.com/products/garvee-washable-moroccan-geometric-area-rug-9x12-vintage-boho-faux-wool-non-slip-soft-foldable-low-pile-ideal-for-living-room-bedroom-nursery-garvee): Transform your space with the GARVEE 9x12 Moroccan Area Rug. This machine-washable, non-slip rug is soft, durable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:18:44Z
+  Updated: 2025-11-11T09:26:07Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51H8JiiRsoL.jpg?v=1718941763
   Price: $73.99 USD
 - [GARVEE Trellis Area Rug 3x5 - Stylish & Practical](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-3x5-pho-0zufp4d2): Transform your space with the GARVEE Trellis Area Rug. This washable, non-slip rug features a chic geometric design, durable faux wool, and is perfect for high-traffic areas.
-  Updated: 2025-11-11T04:18:45Z
+  Updated: 2025-11-11T09:26:08Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -1667,7 +1667,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815_EkjKVkL.jpg?v=1718948354
   Price: $632.99 USD
 - [GARVEE Heavy Duty Log Lifting Tongs - 28" 4 Claw Grapple](https://www.garvee.com/products/log-lifting-tongs-4-claw-pho-0zj3): Revolutionize your logging with GARVEE's 28" Heavy Duty Log Grapple. Featuring eagle claw design for secure gripping, it handles logs up to 4409-5500 lbs effortlessly.
-  Updated: 2025-11-11T04:30:57Z
+  Updated: 2025-11-11T11:58:19Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Log Tongs
   Availability: Available
@@ -1715,13 +1715,6 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61VZhNuKPiL.jpg?v=1718948349
   Price: $277.99 USD
-- [GARVEE Propane Tank Cover Table for Outdoor Spaces](https://www.garvee.com/products/propane-tank-cover-table-storage-pho_0wdtx2cj): Elevate your outdoor area with the GARVEE Propane Tank Cover Table. Stylish, durable, and functional, it hides your propane tank while providing extra table space.
-  Updated: 2025-11-11T04:30:58Z
-  Vendor: Garvee
-  Product Type: Lawn & Garden > Fire Pits > Outdoor Fire Tables
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Tv8q0YMWL.jpg?v=1718888896
-  Price: $65.99 USD
 - [GARVEE Portable AC/Dehumidifier & Fan - 3-In-1, 8000 BTU 115V](https://www.garvee.com/products/8000-btu-air-conditioner-pho-10wms3th): Experience fast cooling with the GARVEE 3-in-1 Portable AC, Dehumidifier & Fan. Perfect for 250-350 sq. ft., it combines efficiency and convenience in one compact unit.
   Updated: 2025-11-09T07:52:08Z
   Vendor: Garvee
@@ -2304,7 +2297,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51kCGeY2WjL.jpg?v=1751366008
   Price: $139.99 USD
 - [GARVEE 2.5Amp 8 Inch Benchtop Drill Press - Precision & Power](https://www.garvee.com/products/garvee-benchtop-drill-press-pho-0xzl3fuj): Discover the GARVEE Benchtop Drill Press with a powerful 2.5Amp motor, adjustable 5-speed settings, and a tilting table for precise woodworking projects.
-  Updated: 2025-11-11T04:31:11Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Drills & Drivers > Drill Press
   Availability: Available
@@ -2325,7 +2318,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61ZwwHs-G5L.jpg?v=1718889392
   Price: $252.99 USD
 - [GARVEE Washable Rug 8x10 - Vintage Floral Design for Home Decor](https://www.garvee.com/products/rug-vintage-persian-pho_0yg4): Elevate your space with the GARVEE Washable Rug. Lightweight, durable, and non-slip, it's perfect for high-traffic areas. Eco-friendly and easy to maintain!
-  Updated: 2025-11-11T04:18:49Z
+  Updated: 2025-11-11T09:26:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -2353,7 +2346,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71GyLBVRFlL.jpg?v=1718948302
   Price: $446.99 USD
 - [GARVEE Electric Fireplace TV Stand - Stylish & Functional](https://www.garvee.com/products/electric-fireplace-tv-stand-pho-10p81rha): Elevate your living room with the GARVEE Electric Fireplace TV Stand. Designed for TVs up to 65 inches, it features a stylish black finish, remote-controlled 23-inch fireplace, and open storage shelves.
-  Updated: 2025-11-11T05:06:21Z
+  Updated: 2025-11-11T09:05:30Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > TV Stands & Media Consoles
   Availability: Available
@@ -2374,7 +2367,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/6162ea6dc3L.jpg?v=1718889283
   Price: $286.99 USD
 - [GARVEE Kids Ride On Truck Car - Versatile Fun for Indoor and Outdoor Adventures](https://www.garvee.com/products/ride-on-truck-car-pto-0yuv76gd): Discover the GARVEE Kids Ride On Truck, perfect for indoor and outdoor fun! This versatile electric car features remote control, LED lights, and 3 speeds.
-  Updated: 2025-11-11T05:06:21Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
@@ -3130,7 +3123,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1725524682053.jpg?v=1725524729
   Price: $147.99 USD
 - [GARVEE 2020-2023 Tesla Model Y Custom Fit Floor Mats - Quality Service & Shopping Experience](https://www.garvee.com/products/2020-2023-custom-fit-floor-mats-pau-0j5m): Experience fast shipping and excellent customer service with GARVEE floor mats for Tesla Model Y. Enjoy free shipping and easy returns for a hassle-free shopping experience!
-  Updated: 2025-11-04T09:24:31Z
+  Updated: 2025-11-11T08:05:40Z
   Vendor: Garvee
   Product Type: Automotive > Automotive Accessories > Floor Mats
   Availability: Available
@@ -3410,14 +3403,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/31gtiu-6VtL.jpg?v=1718889026
   Price: $79.99 USD
 - [GARVEE Heavy Duty Weed Block Landscape Fabric](https://www.garvee.com/products/garvee-gardening-mat-pho-0xkw4id4): Ideal for outdoor use, GARVEE's versatile weed barrier fabric is perfect for gardens, effectively blocking weeds while allowing air and water to nourish your plants.
-  Updated: 2025-11-10T20:59:28Z
+  Updated: 2025-11-11T09:03:07Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81pHyGaotNL.jpg?v=1718889784
   Price: $79.99 USD
 - [GARVEE Heavy Duty 5oz Weed Barrier for Outdoor and Indoor Use](https://www.garvee.com/products/garvee-gardening-mat-pho-0xkxzj6h): Discover GARVEE's Heavy Duty Weed Barrier, perfect for outdoor and indoor gardening. Its multi-functional design inhibits weeds and supports plant growth.
-  Updated: 2025-11-11T04:31:04Z
+  Updated: 2025-11-11T09:09:03Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -3606,7 +3599,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710_OySEOUL.jpg?v=1718948338
   Price: $125.99 USD
 - [GARVEE 6 Drawer Dresser with LED Lights and Power Outlet - Modern Bedroom Storage Solution](https://www.garvee.com/products/baby-changing-table-dresser-pho-12a78cl5): Discover the GARVEE 6 Drawer Dresser, perfect for parents and modern homes. With LED lights, a power outlet, and versatile design, it's ideal for organized living.
-  Updated: 2025-11-11T04:30:59Z
+  Updated: 2025-11-11T09:40:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Nursery & Baby Care
   Availability: Available
@@ -3711,7 +3704,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71fgaIc4nWL.jpg?v=1718965089
   Price: $399.99 USD
 - [GARVEE 22-Inch Commercial Electric Grill - Versatile Cooking for Home & Restaurant](https://www.garvee.com/products/22-inch-electric-countertop-grill-pho-0zwvyqmh): Discover the GARVEE 22-Inch Electric Grill, perfect for indoor and outdoor use. Its adjustable temperature and non-stick surface make it ideal for various dishes.
-  Updated: 2025-11-11T07:05:33Z
+  Updated: 2025-11-11T08:05:40Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Cooking Equipment > Flat Top Griddle
   Availability: Available
@@ -3731,6 +3724,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71B-gXduW7L.jpg?v=1718948388
   Price: $779.98 USD
+- [GARVEE 6.5 Cu.Ft Countertop Pastry Case - LED & Auto-Defrost](https://www.garvee.com/products/5-3-cu-ft-refrigerated-pho_11yy): Discover the GARVEE 6.5 Cu.Ft Countertop Pastry Case with LED lighting and automatic defrost. Perfect for displaying pastries, it features glass panels and digital controls.
+  Updated: 2025-11-11T10:11:50Z
+  Vendor: Garvee
+  Product Type: Restaurant & Food Service > Refrigeration & Ice Equipment > Beverage Refrigerator
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71PGt3_zNSL.jpg?v=1718948287
+  Price: $1,241.99 USD
 - [GARVEE 55 Gallon Drum Dolly - Heavy Duty & Versatile](https://www.garvee.com/products/55gallon-drum-dolly-pis_00ufitty): Ideal for both indoor and outdoor use, the GARVEE 55 Gallon Drum Dolly supports up to 2000 lbs, making it perfect for various tasks with its sturdy design.
   Updated: 2025-11-09T16:30:57Z
   Vendor: Garvee
@@ -3802,7 +3802,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61rMhbfTW9L.jpg?v=1718948234
   Price: $61.99 USD
 - [GARVEE Boho Rug 5x7 - Ultra-Thin Washable Vintage Area Rug](https://www.garvee.com/products/bohemian-floral-medallion-area-rug-pho_0yzm): Discover the GARVEE Boho Rug 5x7, featuring a non-slip, lightweight design with premium polyester for comfort, vintage charm, and child & pet-friendly durability.
-  Updated: 2025-11-11T04:18:52Z
+  Updated: 2025-11-11T09:26:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -3830,7 +3830,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71b7SlfhpFL.jpg?v=1718889241
   Price: $859.99 USD
 - [GARVEE Automatic Wire Stripping Machine - Versatile Tool for Indoor and Outdoor Use](https://www.garvee.com/products/garvee-automatic-wire-removal-machine-pho-0xyjtf00): Discover the GARVEE Automatic Wire Stripping Machine, perfect for indoor and outdoor projects. Its multifunctionality ensures efficient wire stripping for various applications.
-  Updated: 2025-11-07T19:01:53Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Electrical > Electrical Tools > Electric Wire Stripping Machine
   Availability: Available
@@ -3886,11 +3886,11 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71YLv0PFVOL.jpg?v=1762392364
   Price: $2,831.99 USD
 - [GARVEE 5.3 Qts Electric Wax Melter - Ideal for Candle Making](https://www.garvee.com/products/garvee-electric-wax-melter-pho-0wvb): Discover the GARVEE 5.3 Qts Electric Wax Melter with precise temperature control, fast melting, and easy-clean stainless steel design, perfect for home and small businesses.
-  Updated: 2025-11-07T08:52:19Z
+  Updated: 2025-11-11T10:30:36Z
   Vendor: Garvee
   Product Type: Arts & Crafts & Sewing > Jewelry Making & Repair > Melting Furnace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61rr1GDWwPL_7b6724c0-3f6f-4de4-8b45-36afc5d46f45.jpg?v=1730791073
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/6_3bccd2f3-d521-4908-a66b-30fcb453bb1b.jpg?v=1762851848
   Price: $92.99 USD
 - [Garvee 3oz Heavy Duty Weed Barrier Fabric - 6.5ft x 300ft Premium Landscape Fabric for Garden, Lawn, and Weed Control](https://www.garvee.com/products/garvee-gardening-mat-pho-0xkvi50x): Discover GARVEE's 3oz weed barrier fabric, perfect for outdoor and indoor gardening. Its multifunctional design inhibits weeds while allowing air and water.
   Updated: 2025-11-11T04:31:04Z
@@ -3921,7 +3921,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41B5cTuc_nL.jpg?v=1718889169
   Price: $100.99 USD
 - [GARVEE 59 inch Farmhouse TV Stand - Versatile Storage for Living Spaces](https://www.garvee.com/products/garvee-modern-farmhouse-sliding-barn-door-tv-stand-pho-0pv82c6j): Discover the GARVEE 59" Farmhouse TV Stand, perfect for indoor use. Its multi-functional design suits various decor styles while providing ample storage.
-  Updated: 2025-11-11T04:31:13Z
+  Updated: 2025-11-11T09:08:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > TV Stands & Media Consoles
   Availability: Available
@@ -4096,7 +4096,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71BfH3J_DOL_1f0ec21d-7cdd-4f1c-8e71-d87662d2099d.jpg?v=1718948299
   Price: $329.99 USD
 - [Garvee Officially-licensed Land Rover Ride-On Car 12V ASTM Certified Bluetooth Remote for Kids 3-8 Indoor Fun](https://www.garvee.com/products/ride-on-cars-pto-0ypd7pby): The GARVEE Ride on Car offers versatile fun for kids aged 3-8, perfect for indoor and outdoor adventures with features like remote control, music player, and rocking function.
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T09:21:02Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Cars
   Availability: Available
@@ -4418,7 +4418,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41jtHDO3p2L.jpg?v=1718895038
   Price: $175.99 USD
 - [Garvee 3'x300' 5.8oz Double Layer Woven Weed Barrier Fabric - Heavy Duty for Gardens, Driveways & Commercial Landscaping](https://www.garvee.com/products/garvee-woven-landscape-fabric-pho-0yzn899u): Specifications Brand GARVEE Color Black Size 3 x 300FT 5.8oz Package Dimensions 37.4 x 7.08 x 7.08 inches Item Weight 28.4 pounds
-  Updated: 2025-11-11T06:57:26Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -4495,7 +4495,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Aek_D2fHL.jpg?v=1718895120
   Price: $81.99 USD
 - [Garvee 42" Clamp on Debris Forks with Double Nuts, 2500 LBS Pallet Forks for Loader Bucket Skidsteer Tractor](https://www.garvee.com/products/garvee-debris-forks-pis-00vag0c6): Upgrade your tractor with GARVEE's 2500 LBS Clamp-On Debris Forks. Durable, anti-corrosion design ensures long-lasting performance for all heavy-duty tasks.
-  Updated: 2025-11-11T04:31:06Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Pallet Forks
   Availability: Available
@@ -4523,7 +4523,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/image_1_be8418de-576c-46af-8dc2-bfd1ee682a40.jpg?v=1736748320
   Price: $175.99 USD
 - [Garvee 2.4oz 6ft x 300ft Weed Barrier Landscape Fabric - Durable Ground Cover for Garden, Lawn & Landscaping](https://www.garvee.com/products/garvee-gardening-mat-pho-0yzxpanq): Transform your outdoor spaces with GARVEE's versatile weed barrier fabric. Ideal for landscaping and construction, it offers durability and effective weed control.
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T09:21:02Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -4565,14 +4565,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41bfgTSy99L.jpg?v=1718894982
   Price: $46.99 USD
 - [GARVEE 14-Piece Flex-Head Ratcheting Wrench Set - Durable & Versatile](https://www.garvee.com/products/garvee-flex-head-wrench-set-pho-0ra0wjnp): Discover the GARVEE 14-Piece Ratcheting Wrench Set, crafted from premium Cr-V steel. Features a 180° flex-head and 72-tooth mechanism for precision in tight spaces.
-  Updated: 2025-11-11T05:54:21Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71P2ATUT6sL.jpg?v=1718895155
   Price: $36.99 USD
 - [GARVEE Metric Ratcheting Wrench Set - Durable & Versatile](https://www.garvee.com/products/garvee-wrench-set-pho-0v0c): Discover the GARVEE Metric Ratcheting Wrench Set, crafted from premium Cr-V steel with a 180° flex-head design for easy access. Perfect for professionals and DIY enthusiasts!
-  Updated: 2025-11-11T04:31:07Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Power & Hand Tools > Wrenches > Wrench Sets
   Availability: Available
@@ -4586,7 +4586,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41sswo1CQZL.jpg?v=1718948232
   Price: $257.99 USD
 - [Garvee 4ft x 50ft 6oz Geotextile Landscape Fabric - PP Drainage with 350N Tensile Strength & 440N Load Capacity for Driveway Stabilization & Erosion Control](https://www.garvee.com/products/garvee-geotextile-landscape-pho-0yqroz6k): Discover GARVEE Geotextile Fabric, perfect for outdoor projects like erosion control and drainage. Its multi-functional design suits various landscaping needs.
-  Updated: 2025-11-11T06:59:27Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -4600,7 +4600,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61YkgsPxi1L.jpg?v=1718895046
   Price: $45.99 USD
 - [Garvee 5.8oz Premium Weed Barrier Fabric - 4ft x 300ft Landscape & Garden Mat for Effective Weed Control](https://www.garvee.com/products/garvee-gardening-mat-pho-0yzpi69u): Discover GARVEE's 5.8oz Premium Weed Barrier, ideal for outdoor gardens and landscapes. Its multi-functional design ensures effective weed control and excellent permeability.
-  Updated: 2025-11-11T04:30:57Z
+  Updated: 2025-11-11T09:10:02Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
@@ -4768,12 +4768,12 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71tJRh0FSRL.jpg?v=1718964876
   Price: $77.99 USD
 - [GARVEE 4.5’x2’x1’ Raised Garden Bed, Galvanized Steel Rust-Resistant, Open Base & Rubber Edges, Quick Assembly Outdoor Planter Box, Silver](https://www.garvee.com/products/garvee-4-5-2-1ft-2pcs-pho-0ymczgqz-1): Discover the GARVEE Silver Raised Garden Bed, ideal for outdoor use. Its versatile design accommodates vegetables, herbs, and flowers, making gardening easy and enjoyable.
-  Updated: 2025-11-11T01:57:36Z
+  Updated: 2025-11-11T09:56:37Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Raised Garden Beds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1719556988159.jpg?v=1754460503
-  Price: $68.99 USD
+  Price: $69.99 USD
 - [GARVEE Hydraulic Hitch-Mount Truck Crane - Professional Lifting Power](https://www.garvee.com/products/garvee-hydraulic-hitch-mount-crane-2-pou-0a2jncnc): Elevate your lifting game with GARVEE's Hydraulic Hitch-Mount Truck Crane. With adjustable capacities up to 1000 lbs, 360° swivel, and durable metal construction, it's your go-to solution for heavy-duty tasks.
   Updated: 2025-11-11T04:31:28Z
   Vendor: Garvee
@@ -4901,7 +4901,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Opkoc2JsL_6183dcd8-7250-43f9-9e07-df7a183f1082.jpg?v=1718931684
   Price: $112.99 USD
 - [GARVEE Telescoping Aluminum Work Plank - Versatile Indoor/Outdoor Use](https://www.garvee.com/products/garvee-8ft-13ft-telescoping-work-plank-pho-140cr3r0): Discover the GARVEE Telescoping Aluminum Work Plank, perfect for indoor and outdoor projects. Its adjustable length and 440LBS capacity ensure versatile functionality for all your work needs.
-  Updated: 2025-11-11T05:06:21Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Building & Construction > Scaffolds & Mobile Bases > Aluminum Work Plank
   Availability: Available
@@ -4985,7 +4985,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Ng1VUcKzL_bd95736b-e19c-4dab-ba3a-eb518936c766.jpg?v=1718932299
   Price: $97.99 USD
 - [Garvee 42"x36" Heavy Duty Solid Steel Fire Pit Ring Insert - Outdoor Backyard Fire Ring Liner for DIY Campfire](https://www.garvee.com/products/garvee-fire-pit-ring-spacious-durable-pho-12lhqkmm): Transform your backyard with the GARVEE 42" Fire Pit Ring. Perfect for outdoor enthusiasts, this sturdy steel fire pit creates a cozy gathering space for friends.
-  Updated: 2025-11-11T02:21:13Z
+  Updated: 2025-11-11T09:40:46Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Fire Pits > Patio Fire Pit Sets
   Availability: Available
@@ -5034,7 +5034,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61uO_52ebfL.jpg?v=1718931514
   Price: $69.99 USD
 - [GARVEE Single Folding Security Door - Steel Accordion Gate with 360° Rolling Wheel](https://www.garvee.com/products/garvee-85-h-x-95-w-pho-12fg0orq): Discover the GARVEE Single Folding Security Door, featuring a unique 360° rolling wheel for easy mobility and a durable steel design for ultimate protection.
-  Updated: 2025-11-11T02:09:27Z
+  Updated: 2025-11-11T09:08:06Z
   Vendor: Garvee
   Product Type: Security > Access Barriers & Crowd Control > Folding Security Gate
   Availability: Available
@@ -5048,7 +5048,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Dingtalk_20240725163929.jpg?v=1721896835
   Price: $182.99 USD
 - [GARVEE TV Stand with Charging Station - Versatile Storage Solution](https://www.garvee.com/products/garvee-tv-stand-charging-station-9-pho-12dbxuoa): Transform your living space with the GARVEE TV Stand. Ideal for living rooms and bedrooms, it features 9 drawers and a built-in charging station for ultimate convenience.
-  Updated: 2025-11-09T19:54:27Z
+  Updated: 2025-11-11T08:16:26Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -5251,28 +5251,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/515mmLBo3FL.jpg?v=1718931781
   Price: $86.99 USD
 - [GARVEE Washable Boho Area Rug 5x7 - Non-Slip, Stain Resistant, Wool-like Polyester](https://www.garvee.com/products/garvee-washable-boho-area-rug-5x7-pho-14znpl07): Discover the GARVEE Washable Boho Area Rug: a soft, non-slip, and stain-resistant addition to your home. Perfect for high-traffic areas, it combines style and functionality.
-  Updated: 2025-11-11T04:18:57Z
+  Updated: 2025-11-11T09:26:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717144857091_6395b494-af1c-42f3-9212-9a71b1bfea37.jpg?v=1756704047
   Price: $42.99 USD
 - [GARVEE Boho Tribal Washable Runner Rug 2x6 - Non-Slip, Vintage Distressed](https://www.garvee.com/products/garvee-garveehome-boho-floral-rug-soft-pho-14zn7ujo): Discover the GARVEE Boho Tribal Runner Rug: washable, stain-resistant, and non-slip with a soft faux wool surface. Perfect for high-traffic areas, pet-friendly!
-  Updated: 2025-11-11T04:19:00Z
+  Updated: 2025-11-11T10:11:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717145321233.jpg?v=1756703897
   Price: $40.99 USD
 - [GARVEE Washable Modern Geometric Rug 8x10 - Non-Slip and Stain Resistant](https://www.garvee.com/products/garvee-washable-modern-geometric-rug-8x10-pho-14mes7vy): Discover the GARVEE Washable Rug: soft faux wool, non-slip backing, and stain resistance make it perfect for homes with kids and pets. Elevate your decor!
-  Updated: 2025-11-11T04:19:04Z
+  Updated: 2025-11-11T09:26:26Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91IeveR-JWL_babba260-2362-44ab-a00d-775666f1673a.jpg?v=1753616696
   Price: $98.99 USD
 - [GARVEE Washable 9x12 Modern Geometric Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-9x12-modern-geometric-rug-non-slip-soft-polyester-stain-resistant-versatile-for-living-room-bedroom-office-garvee): Discover the GARVEE Washable Rug: soft faux wool, non-slip backing, and stain resistant, perfect for kids and pets. Ideal for any room in your home!
-  Updated: 2025-11-11T04:19:05Z
+  Updated: 2025-11-11T09:26:27Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -5300,35 +5300,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8159PO4PZaL.jpg?v=1740556238
   Price: $179.99 USD
 - [GARVEE Vintage Floral Soft Rug - Light Blue, 9' x 12' Area Rug](https://www.garvee.com/products/garvee-vintage-floral-soft-rug-low-pile-washable-area-rug-for-living-room-light-blue-garvee): Transform your space with the GARVEE Vintage Floral Soft Rug. Made from durable polyester, this low-pile, washable rug is perfect for any room and offers effortless elegance.
-  Updated: 2025-11-11T04:19:06Z
+  Updated: 2025-11-11T09:26:28Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51R1IayRIeL.jpg?v=1718948306
   Price: $135.99 USD
 - [GARVEE Modern Washable Boho Area Rug 9x12 - Ultra Soft Pearl Velvet](https://www.garvee.com/products/garvee-modern-washable-boho-area-rug-9x12-ultra-soft-pearl-velvet-non-slip-tpr-backing-ombre-design-machine-washable-no-shedding-ideal-for-living-room-bedroom-office-blue-beige-garvee): Discover the GARVEE Modern Washable Area Rug, featuring ultra-soft pearl velvet, non-slip backing, and stunning ombre design. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:19:07Z
+  Updated: 2025-11-11T09:26:29Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_G7wdOPjL_d56ecfaa-3324-4ccb-8f3b-7c8d70671fe2.jpg?v=1718941640
   Price: $125.99 USD
 - [GARVEE Modern Washable 8x10 Boho Ombre Rug - Soft, Non-Slip Pearl Velvet](https://www.garvee.com/products/garvee-modern-washable-8x10-boho-ombre-pho-13emuezo): Transform your space with the GARVEE 8x10 rug, featuring soft pearl velvet, non-slip backing, and machine washability for easy maintenance and style.
-  Updated: 2025-11-11T04:19:08Z
+  Updated: 2025-11-11T09:26:30Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_G7wdOPjL_6a977db2-eda3-46d2-87c7-af4289b8d542.jpg?v=1718941411
   Price: $116.99 USD
 - [GARVEE Washable 5x7 Living Room Rug - Modern Boho Ombre](https://www.garvee.com/products/garvee-washable-5x7-living-room-rug-pho-13emqzdc): Transform your space with the GARVEE 5x7 rug, featuring ultra-soft pearl velvet, non-slip backing, and easy care. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:19:09Z
+  Updated: 2025-11-11T09:26:30Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_G7wdOPjL_243a1336-4d94-414f-914d-afa4aae6a8ee.jpg?v=1718941413
   Price: $52.99 USD
 - [GARVEE Modern Washable Ombre Rug 8x10 - Luxuriously Soft and Non-Slip](https://www.garvee.com/products/garvee-modern-washable-rugs-luxurious-soft-pho-13ema601-1): Discover the GARVEE 8x10 Ombre Rug, crafted from ultra-soft pearl velvet. Machine washable, non-slip, and perfect for any room, it combines luxury with practicality.
-  Updated: 2025-11-11T04:19:12Z
+  Updated: 2025-11-11T09:26:33Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -5426,28 +5426,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51RvwnMeiKL_d64fe605-1b4f-4acc-be74-a7bcef7c301a.jpg?v=1718931556
   Price: $49.99 USD
 - [GARVEE Modern Abstract Washable Rug 5x7 - Cozy and Durable](https://www.garvee.com/products/garvee-modern-abstract-washable-rug-5x7-pho-12zqhhrc): Discover the GARVEE Modern Abstract Washable Rug, a cozy, low-pile, non-slip floor cover made of durable polyester. Ideal for high-traffic areas, easy to clean!
-  Updated: 2025-11-11T04:19:16Z
+  Updated: 2025-11-11T09:26:37Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51kyRW-Em8L.jpg?v=1718931542
   Price: $57.99 USD
 - [GARVEE Runner Rug - Luxurious Non-Slip Moroccan Pattern for Home](https://www.garvee.com/products/garvee-runner-rug-2x8-high-low-pho-12xqxhkl): Elevate your space with the GARVEE Runner Rug. Its high-low pile, stain-resistant, non-slip design is perfect for bedrooms, nurseries, and more.
-  Updated: 2025-11-11T04:19:21Z
+  Updated: 2025-11-11T10:11:48Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814e13TNooL.jpg?v=1718931903
   Price: $41.99 USD
 - [GARVEE 9x12FT Washable Area Rug - Stylish and Practical Bedroom Decor](https://www.garvee.com/products/garvee-area-rug-9x12ft-rug-bedroom-decor-washable-rugs-for-living-room-office-yoga-room-rug-throw-rugs-classic-gothic-rug-black-and-white-rug-snake-rug-modern-area-rug-for-bedroom-beige-garvee): Transform your space with the GARVEE 9x12FT area rug. Machine washable, pet-friendly, and featuring a striking black and white snake pattern for modern elegance.
-  Updated: 2025-11-11T04:31:11Z
+  Updated: 2025-11-11T09:26:46Z
   Vendor: Garvee
   Product Type: Rugs > Animal Print Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81JB-k9PfbL_d27f1cc3-1f3e-4875-9bca-808b91c76203.jpg?v=1725512106
   Price: $129.99 USD
 - [GARVEE Washable Area Rug - Classic Gothic Black and White Snake Pattern](https://www.garvee.com/products/garvee-washable-area-rug-4x6-bedroom-pho-12j089wy): Elevate your space with GARVEE's 4x6 washable area rug. Crafted from durable polyester, it's soft, stain-resistant, and perfect for any room. Enjoy easy maintenance!
-  Updated: 2025-11-11T04:31:05Z
+  Updated: 2025-11-11T09:26:47Z
   Vendor: Garvee
   Product Type: Rugs > Animal Print Rugs
   Availability: Available
@@ -5461,28 +5461,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81HoSBVQOrL.jpg?v=1718932244
   Price: $107.99 USD
 - [GARVEE Boho Vintage 8x10 Area Rug - Soft, Durable, and Machine Washable](https://www.garvee.com/products/garvee-boho-area-rug-soft-vintage-pho-128fw97p): Enhance your living space with the GARVEE Boho Vintage 8x10 Area Rug. Made from 100% polyester, it's soft, durable, non-slip, and machine washable for easy care.
-  Updated: 2025-11-11T04:31:06Z
+  Updated: 2025-11-11T09:26:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51pL8PyiauL_e49c6553-c1ab-4aaa-8fe5-132626d7e9b8.jpg?v=1718932500
   Price: $144.99 USD
 - [GARVEE 4'x6' Vintage Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-4-x6-vintage-area-pho-128fv009): Enhance your living space with the GARVEE 4'x6' Vintage Area Rug. This stylish, machine washable rug features a vibrant orange tribal medallion design, low pile, and stain resistance for easy care.
-  Updated: 2025-11-11T04:19:27Z
+  Updated: 2025-11-11T09:26:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WYWc82-pL.jpg?v=1718931624
   Price: $47.99 USD
 - [GARVEE 9x12 Washable Boho Area Rug - Soft Polyester, Distressed Vintage Design](https://www.garvee.com/products/garvee-9x12-washable-boho-area-rug-soft-polyester-distressed-vintage-design-non-slip-low-pile-ideal-for-living-room-bedroom-garvee): Discover the GARVEE 9x12 Washable Boho Area Rug, made from soft polyester with a vintage design. Non-slip, low pile, perfect for your living room or bedroom.
-  Updated: 2025-11-11T04:19:28Z
+  Updated: 2025-11-11T09:26:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WYWc82-pL_eb376dc9-c93f-47ed-b505-ba621b273143.jpg?v=1718932547
   Price: $167.99 USD
 - [GARVEE Washable 5x7 Boho Rug - Soft, Non-Slip Vintage Polyester](https://www.garvee.com/products/garvee-washable-5x7-boho-rug-for-pho-128f8360): Transform your space with the GARVEE Washable 5x7 Boho Rug. Soft, non-slip, and machine washable, it's perfect for living rooms, bedrooms, and kitchens.
-  Updated: 2025-11-11T04:19:29Z
+  Updated: 2025-11-11T09:26:49Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -5545,42 +5545,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61raEHSBYuL.jpg?v=1718931579
   Price: $719.99 USD
 - [GARVEE Soft 5' x 7' Area Rug - Anti Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-soft-5-x-7-area-pho-125fx0y3): Discover the GARVEE Soft 5' x 7' Area Rug, featuring a non-slip design, washable microfiber material, and a stylish boho look, perfect for your living room.
-  Updated: 2025-11-11T04:19:30Z
+  Updated: 2025-11-11T09:26:50Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Msw2hGpQL_9482ba1a-eca0-498a-9ea6-e69e7742d04f.jpg?v=1718932570
   Price: $47.99 USD
 - [GARVEE Soft 9' x 12' Area Rug - Anti Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-soft-9-x-12-area-rug-anti-slip-washable-pet-friendly-boho-modern-carpet-for-living-room-bedroom-grey-garvee): Discover the GARVEE Soft 9' x 12' Area Rug, featuring a non-slip design, washable microfiber material, and a stylish boho look, perfect for any living space.
-  Updated: 2025-11-11T04:19:30Z
+  Updated: 2025-11-11T09:26:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Msw2hGpQL.jpg?v=1718931811
   Price: $124.99 USD
 - [GARVEE Soft 8' x 10' Area Rug - Anti Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-soft-8-x-10-area-pho-125filzd): Transform your space with the GARVEE Soft Area Rug. This stylish, pet-friendly, and washable rug features a non-slip design, perfect for any living room.
-  Updated: 2025-11-11T04:19:31Z
+  Updated: 2025-11-11T09:26:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nDt_5x_AL_5279d064-a4ba-4a46-be14-c7ea4787b042.jpg?v=1718964918
   Price: $95.99 USD
 - [GARVEE Soft 9' x 12' Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-soft-9-x-12-area-rug-anti-slip-washable-pet-friendly-boho-modern-carpet-for-living-room-bedroom-blue-garvee): Discover the GARVEE Soft Area Rug, featuring a non-slip, washable design perfect for pet-friendly homes. Elevate your living space with its modern boho style!
-  Updated: 2025-11-11T04:19:32Z
+  Updated: 2025-11-11T09:26:52Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91iQUYR8AVL_c846c4f6-68a0-43cc-84fd-d56c0d0e51bc.jpg?v=1718941503
   Price: $124.99 USD
 - [GARVEE Soft 8' x 10' Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-boho-modern-area-rug-pet-pho-125fatrj): Discover the GARVEE Soft Area Rug, featuring a non-slip, washable design perfect for pet-friendly homes. Boho modern style enhances any living space.
-  Updated: 2025-11-11T04:19:32Z
+  Updated: 2025-11-11T09:26:53Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Msw2hGpQL_ba2cccea-5a76-4688-8fe8-0121a6e4aa68.jpg?v=1718932393
   Price: $95.99 USD
 - [GARVEE Soft 9' x 12' Area Rug - Anti Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-soft-9-x-12-area-rug-anti-slip-washable-pet-friendly-boho-modern-carpet-for-living-room-bedroom-black-garvee): Elevate your space with the GARVEE Soft 9' x 12' Area Rug. This pet-friendly, machine-washable rug features a stylish boho design and non-slip backing.
-  Updated: 2025-11-11T04:19:33Z
+  Updated: 2025-11-11T09:26:53Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -5608,7 +5608,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51Q0CFEI8ZL.jpg?v=1718931489
   Price: $319.99 USD
 - [GARVEE Area Rugs 8x10 - Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-kunram-area-rugs-8x10-washable-pho-11dhtdtf): Discover the GARVEE 8x10 Area Rug, featuring soft Pearl Plush material, non-slip backing, and stain resistance. Perfect for your living room, washable for easy care.
-  Updated: 2025-11-11T04:19:35Z
+  Updated: 2025-11-11T09:26:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -5629,35 +5629,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SStqbT7yL_44c71679-6eba-4495-b1b0-ee5918669ce2.jpg?v=1718932429
   Price: $162.99 USD
 - [GARVEE Washable 9x12 Moroccan Geometric Rug - Modern, Non-Slip, Low Pile, Polyester](https://www.garvee.com/products/garvee-washable-9x12-moroccan-geometric-rug-modern-non-slip-low-pile-polyester-ideal-for-bedroom-living-room-garvee): Discover the GARVEE 9x12 Moroccan Geometric Rug, crafted from soft polyester, non-slip, and machine washable. Perfect for any room, it's durable and easy to maintain.
-  Updated: 2025-11-11T04:19:38Z
+  Updated: 2025-11-11T09:26:58Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/818ebw5xEML.jpg?v=1759886387
   Price: $63.99 USD
 - [Garvee Washable Rugs Bordered Area 6x9 Navy Blue Foldable Non-Slip Bedroom Office Nursery](https://www.garvee.com/products/garvee-braided-rug-6x9-washable-boho-pho-1168z2hs): Discover the GARVEE Braided Rug, a 6x9 washable accent rug with a non-slip backing, low pile design, and vibrant patterns, perfect for any space!
-  Updated: 2025-11-11T04:19:42Z
+  Updated: 2025-11-11T09:27:01Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41kOluBVvgL.jpg?v=1749780692
   Price: $69.99 USD
 - [GARVEE Washable Boho Braided Rug - Non-Slip, Low Pile, Polyester, Blue](https://www.garvee.com/products/garvee-washable-10x13-rug-boho-braided-pho-1168vyly): Transform your space with GARVEE's washable Boho braided rug. Featuring a non-slip backing, low pile design, and vibrant colors, it's perfect for any room!
-  Updated: 2025-11-11T04:19:42Z
+  Updated: 2025-11-11T09:27:02Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91bqaLZUl2L.jpg?v=1727661650
   Price: $149.99 USD
 - [GARVEE Boho Braided Area Rug - Washable Vintage Low-Pile Carpet](https://www.garvee.com/products/garvee-braided-rug-6x9-washable-boho-pho-1168sisd): Discover the GARVEE Boho Braided Area Rug, featuring a vibrant braided design, non-slip TPR backing, and easy care. Perfect for any room, it combines style with functionality.
-  Updated: 2025-11-11T04:19:44Z
+  Updated: 2025-11-11T09:27:04Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NJYyTCWRL.jpg?v=1727661647
   Price: $69.99 USD
 - [GARVEE Washable 10x13 Rug - Boho Braided Print, Non-Slip, Low Pile, Foldable](https://www.garvee.com/products/garvee-washable-10x13-rug-for-living-pho-1168qin7): Enhance your space with the GARVEE washable rug featuring a stylish Boho braided print. Its non-slip backing, low pile, and easy care make it perfect for any room.
-  Updated: 2025-11-11T04:19:47Z
+  Updated: 2025-11-11T09:27:06Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -5671,182 +5671,182 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457143198783436_501afe87-17eb-4cc5-afcf-c77cf1a672e6.jpg?v=1748583587
   Price: $42.99 USD
 - [GARVEE Braided Collection Area Rug - Modern Washable Non-Slip Carpet](https://www.garvee.com/products/garvee-braided-collection-area-rug-5x7-pho-1168ou0l): Transform your space with the GARVEE Braided Collection Area Rug. This 5x7 washable rug features a low pile, non-slip backing, and vibrant patterns, perfect for any room.
-  Updated: 2025-11-11T04:19:47Z
+  Updated: 2025-11-11T09:27:07Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815aCeZ7omL.jpg?v=1718941405
   Price: $59.99 USD
 - [GARVEE Modern Boho Rug - Stylish & Functional](https://www.garvee.com/products/garvee-modern-boho-rug-2x8-runner-pho-1168my5t): Enhance your space with the GARVEE Modern Boho Rug. This washable, non-slip rug features a vibrant braided print, low pile design, and durable polyester for easy maintenance.
-  Updated: 2025-11-11T04:39:03Z
+  Updated: 2025-11-11T10:11:52Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457142722586948_6c87c12c-4ce5-4a6b-9484-668434be2cec.jpg?v=1748590008
   Price: $49.99 USD
 - [GARVEE Boho Braided Area Rug - Washable Vintage Low-Pile Carpet](https://www.garvee.com/products/garvee-area-rug-braided-print-non-pho-1168mx8f): Discover the GARVEE Boho Braided Area Rug, featuring a vibrant braided print, non-slip TPR backing, and washable polyester for easy care, perfect for any room.
-  Updated: 2025-11-11T04:19:49Z
+  Updated: 2025-11-11T09:27:08Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81IDAOFmWvL_92434b5c-396e-41d9-b5b5-72a1b5d95d96.jpg?v=1749776858
   Price: $99.99 USD
 - [GARVEE Modern Washable 4x6 Navy Rug - Non-Slip, Low Pile, Polyester](https://www.garvee.com/products/garvee-modern-washable-4x6-navy-rug-pho-1168ihr1): Discover the GARVEE 4x6 Navy Rug, featuring a stylish braided design, non-slip backing, and easy care. Perfect for any room, it combines elegance with practicality.
-  Updated: 2025-11-11T04:19:51Z
+  Updated: 2025-11-11T09:27:11Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457140231519496.jpg?v=1748507066
   Price: $54.99 USD
 - [GARVEE Washable 9x12 Area Rug - Modern Braided Print Non-Slip Soft Boho](https://www.garvee.com/products/garvee-washable-9x12-area-rug-modern-braided-print-non-slip-soft-boho-low-pile-foldable-thin-polyester-for-bedroom-dining-room-nursery-garvee): Elevate your space with the GARVEE 9x12 Area Rug, featuring a vibrant braided print, non-slip backing, and low pile for easy care and style.
-  Updated: 2025-11-11T04:19:52Z
+  Updated: 2025-11-11T09:27:11Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91BdMJhe-AL_ad3b9672-d368-4af1-84c5-be77062df641.jpg?v=1749172883
   Price: $119.99 USD
 - [GARVEE 2x6 Washable Non-Slip Runner Rug - Farmhouse Style](https://www.garvee.com/products/garvee-area-rug-braided-print-non-pho-1168fmii-1): Elevate your space with GARVEE's 2x6 washable non-slip runner rug. Featuring a vibrant braided print, low pile design, and TPR backing for safety and style.
-  Updated: 2025-11-11T04:19:53Z
+  Updated: 2025-11-11T10:11:53Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81TUPxnRyTL_f8247073-ab84-468e-bbc5-8cf116e76964.jpg?v=1718941472
   Price: $49.99 USD
 - [GARVEE Braided Rug 6x9 - Washable, Non-Slip, Cozy Texture](https://www.garvee.com/products/garvee-braided-rug-6x9-washable-low-pho-1168ess4): Enhance your space with the GARVEE 6x9 braided rug. Its washable, low-pile polyester design features a non-slip backing, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:19:54Z
+  Updated: 2025-11-11T09:27:13Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91JOyxoF3SL_2078c4aa-d82e-4225-af20-1d87193495f7.jpg?v=1718932146
   Price: $69.99 USD
 - [GARVEE Braided Collection Modern Washable Rug 5x7 - Non-Slip, Low Pile Polyester, Vintage Country Cottage](https://www.garvee.com/products/garvee-braided-collection-modern-washable-rug-pho-1168bpxw): Enhance your living space with the GARVEE Braided Rug. Its non-slip, low pile design offers safety and easy maintenance, while the vibrant braided pattern adds rustic charm.
-  Updated: 2025-11-11T04:19:54Z
+  Updated: 2025-11-11T09:27:13Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81IDAOFmWvL.jpg?v=1752217030
   Price: $64.99 USD
 - [GARVEE Braided Collection Area Rug - Modern, Washable, Non-Slip](https://www.garvee.com/products/garvee-braided-collection-area-rug-5x7-pho-11689dof): Elevate your home with the GARVEE Braided Area Rug. This washable, non-slip rug features a low pile polyester design, perfect for any room, combining style and practicality.
-  Updated: 2025-11-11T04:31:05Z
+  Updated: 2025-11-11T09:27:15Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91epsFEldcL.jpg?v=1749781076
   Price: $64.99 USD
 - [GARVEE Boho Washable Rug 8x10 - Modern Braided, Non-Slip, Low Pile, Polyester](https://www.garvee.com/products/garvee-boho-washable-rug-8x10-modern-pho-11684mfg): Discover the GARVEE Boho Washable Rug 8x10, featuring a non-slip backing, low pile, and vibrant braided design. Perfect for any room, easy to clean, and stylish!
-  Updated: 2025-11-11T04:19:57Z
+  Updated: 2025-11-11T09:27:16Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919fX4UJFKL.jpg?v=1718941405
   Price: $99.99 USD
 - [GARVEE Boho Washable Runner Rug - Distressed Farmhouse Print](https://www.garvee.com/products/garvee-modern-boho-runner-rug-2x8-pho-11682lzs): Elevate your home decor with the GARVEE Boho Runner Rug. This ultra-thin, non-slip polyester mat features a cozy texture, vibrant braided print, and easy maintenance.
-  Updated: 2025-11-11T04:31:02Z
+  Updated: 2025-11-11T10:11:54Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457141444118805.jpg?v=1748513668
   Price: $39.99 USD
 - [GARVEE 4x6 Washable Non-Slip Area Rug - Traditional Braided Design](https://www.garvee.com/products/garvee-area-rug-4x6-washable-non-pho-11681eis): Elevate your space with the GARVEE 4x6 area rug, featuring a stylish braided print, non-slip backing, and low pile for easy maintenance and safety.
-  Updated: 2025-11-11T04:19:59Z
+  Updated: 2025-11-11T09:27:18Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91JOyxoF3SL.jpg?v=1718932118
   Price: $49.99 USD
 - [GARVEE 8x10ft Green Area Rug - Non-Slip, Washable, Soft Polypropylene](https://www.garvee.com/products/garvee-8x10ft-green-area-rug-for-pho-10voqpm1): Elevate your space with the GARVEE 8x10ft Green Area Rug. Non-slip, washable, and crafted from soft polypropylene, it's perfect for kids' rooms and adds a touch of ethnic style.
-  Updated: 2025-11-11T04:20:07Z
+  Updated: 2025-11-11T09:27:26Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91b-gYRlOiL_f1e13c51-5acc-4cf0-b9bc-a006bfb094ef.jpg?v=1748499374
   Price: $49.99 USD
 - [GARVEE 8x10ft Area Rug - Soft, Non-Slip, Washable Design for Kids' Rooms](https://www.garvee.com/products/garvee-8x10ft-area-rug-for-living-pho-10vopvni): Discover the GARVEE 8x10ft Area Rug, featuring a soft polypropylene material, low pile, and non-slip design. Perfect for living rooms and kids' spaces!
-  Updated: 2025-11-11T04:20:09Z
+  Updated: 2025-11-11T09:27:28Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1724231498622.jpg?v=1753518923
   Price: $108.99 USD
 - [GARVEE 9x12ft Area Rug - Soft, Non-Slip & Washable for Living Room](https://www.garvee.com/products/garvee-9x12ft-area-rug-for-living-room-bedroom-low-pile-non-slip-washable-soft-polypropylene-snowflake-print-ethnic-style-green-carpet-for-kids-dorm-nursery-garvee): Transform your space with the GARVEE 9x12ft Area Rug. Soft polypropylene, low-pile, and non-slip design make it perfect for kids' rooms and nurseries.
-  Updated: 2025-11-11T04:20:10Z
+  Updated: 2025-11-11T09:27:29Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91b-gYRlOiL_ae81f907-b947-4301-8e11-807bdf455c1e.jpg?v=1718932590
   Price: $95.99 USD
 - [GARVEE 8x10ft Area Rug - Soft, Non-Slip, Washable Carpet for Home Decor](https://www.garvee.com/products/garvee-soft-area-rugs-snowflake-print-pho-10vo5124): Discover the GARVEE 8x10ft Area Rug, crafted from soft polypropylene. This low pile, non-slip, and washable rug adds vintage charm to any living space.
-  Updated: 2025-11-11T04:20:11Z
+  Updated: 2025-11-11T09:27:30Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RTj1BT-lL_baa881b8-fc07-42e1-971a-10ffdb605dd2.jpg?v=1718932605
   Price: $108.99 USD
 - [GARVEE Washable Moroccan Rug 4x6 - Soft, Non-Slip, Faux Wool](https://www.garvee.com/products/garvee-washable-moroccan-rug-4x6-soft-pho-10ojwilz): Elevate your space with the GARVEE Washable Moroccan Rug. Soft faux wool, stain-resistant, and non-slip backing make it perfect for any room.
-  Updated: 2025-11-11T04:20:14Z
+  Updated: 2025-11-11T09:27:33Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mYAaJCl2L.jpg?v=1718941456
   Price: $59.99 USD
 - [GARVEE Runner Rug 2x6 - Washable Non-Slip Moroccan Floral Ultra-Thin Rug](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x6-washable-pho-10ojsu9h): Discover the GARVEE Runner Rug, crafted from ultra-soft faux wool with a non-slip TPR backing. Perfect for high-traffic areas, it's washable and stain-resistant.
-  Updated: 2025-11-11T04:20:15Z
+  Updated: 2025-11-11T10:11:56Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Vd-uyp45L.jpg?v=1727662588
   Price: $54.99 USD
 - [GARVEE Trellis Runner Rug - Non-Slip, Washable Faux Wool](https://www.garvee.com/products/garvee-moroccan-trellis-runner-rug-2x6-pho-10ojp7f1): Discover the GARVEE Trellis Runner Rug, featuring ultra-soft faux wool, non-slip backing, and machine washable for easy care. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:20:16Z
+  Updated: 2025-11-11T10:11:57Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/818v59T1GeL.jpg?v=1718932187
   Price: $45.99 USD
 - [GARVEE Washable Moroccan Area Rug 9x12 - Ultra-Soft Faux Wool, Non-Slip TPR Backing](https://www.garvee.com/products/garvee-washable-moroccan-area-rug-9x12-ultra-soft-faux-wool-non-slip-tpr-backing-stain-resistant-child-pet-friendly-vintage-floral-design-suitable-for-living-room-bedroom-office-classroom-garvee): Experience luxury with the GARVEE Washable Moroccan Area Rug. Its ultra-soft faux wool, non-slip backing, and stain resistance make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:20:18Z
+  Updated: 2025-11-11T09:27:37Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704771489258.jpg?v=1749031803
   Price: $116.99 USD
 - [GARVEE Trellis Area Rug - Ultra-Soft, Washable & Non-Slip](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-5x7-pho-10ojjze7): Discover the GARVEE Trellis Area Rug, featuring ultra-soft faux wool, stain resistance, and a non-slip TPR backing, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:20:19Z
+  Updated: 2025-11-11T09:27:37Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61MioVWCJdL.jpg?v=1718931697
   Price: $72.99 USD
 - [GARVEE 9x12 Washable Moroccan Rug - Vintage Style & Non-Slip](https://www.garvee.com/products/garvee-9x12-washable-moroccan-rug-for-living-room-vintage-style-non-slip-stain-resistant-faux-wool-ideal-for-bedrooms-offices-garvee): Discover the GARVEE 9x12 Washable Moroccan Rug, featuring soft faux wool, stain resistance, and a non-slip backing, perfect for any room in your home.
-  Updated: 2025-11-11T04:20:23Z
+  Updated: 2025-11-11T09:27:41Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_KY-RP08L_2225c2f5-1828-49b3-8543-982d5d2f7393.jpg?v=1718931706
   Price: $146.99 USD
 - [GARVEE Rugs 8x10 - Ultra-Thin Soft Carpet for Living Room](https://www.garvee.com/products/garvee-moroccan-rugs-8x10-for-living-pho-10ojae06): Discover the GARVEE 8x10 rug, a pet-friendly, washable faux wool carpet with a non-slip backing. Perfect for high-traffic areas, it combines style and durability.
-  Updated: 2025-11-11T04:20:23Z
+  Updated: 2025-11-11T09:27:42Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91yMpYkz8OL.jpg?v=1718931697
   Price: $112.99 USD
 - [GARVEE 9x12 Washable Bohemian Area Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-9x12-washable-bohemian-area-rug-faux-wool-non-slip-stain-resistant-for-living-room-bedroom-office-pink-brown-garvee): Transform your space with the GARVEE 9x12 washable area rug. Made from ultra-soft faux wool, it's non-slip, stain-resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:20:25Z
+  Updated: 2025-11-11T09:27:44Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SmABIhf6L_79dd4fea-0b1b-4880-a933-ffdbf56ae4f7.jpg?v=1718941579
   Price: $153.99 USD
 - [GARVEE Washable Moroccan Area Rug - Soft, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-washable-moroccan-area-rug-5x7-pho-10oj2yl4): Discover the GARVEE Washable Moroccan Area Rug: ultra-soft faux wool, non-slip backing, machine washable, and perfect for high-traffic areas in your home.
-  Updated: 2025-11-11T04:20:26Z
+  Updated: 2025-11-11T09:27:45Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/916bvVwmh1L.jpg?v=1718941719
   Price: $69.99 USD
 - [GARVEE Trellis Area Rug 4x6 - Washable, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-4x6-pho-10oj1shz): Discover the GARVEE Trellis Area Rug, featuring soft faux wool, a non-slip TPR backing, and a beautiful floral design. Perfect for any indoor space!
-  Updated: 2025-11-11T04:20:28Z
+  Updated: 2025-11-11T09:27:47Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -5860,7 +5860,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91KTSkeFakL_861f5702-95f3-44f3-8ff7-b7606441ee46.jpg?v=1718932519
   Price: $73.99 USD
 - [GARVEE Washable Boho Floral Medallion Area Rug - Soft, Non-Slip, Elegant Design](https://www.garvee.com/products/garvee-washable-boho-floral-medallion-area-rug-non-slip-soft-low-pile-printed-carpet-indoor-home-decor-yellow-9x12-entryway-bedroom-living-room-garvee): Transform your space with the GARVEE Washable Boho Floral Medallion Area Rug. Its vibrant yellow color, soft low-pile, and non-slip backing make it perfect for any room.
-  Updated: 2025-11-11T04:20:29Z
+  Updated: 2025-11-11T09:27:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -5881,63 +5881,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91KTSkeFakL_fbd865ca-0460-4cff-95f9-062cfe7228a7.jpg?v=1718932469
   Price: $56.99 USD
 - [GARVEE Hallway Runner Rug - Washable, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-moroccan-hallway-runner-low-pile-pho-1059i0us): Enhance your entryway with the GARVEE Hallway Runner Rug. This modern, grey rug is washable, stain-resistant, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:20:30Z
+  Updated: 2025-11-11T10:11:58Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CastoEKZL.jpg?v=1718932254
   Price: $41.99 USD
 - [GARVEE Runner Rug - Stylish, Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-moroccan-hallway-runner-entryway-rug-pho-10596n3u): Transform your space with the GARVEE Runner Rug. This navy, washable rug features a non-slip design and stain resistance, perfect for busy areas like entryways and kitchens.
-  Updated: 2025-11-11T04:20:31Z
+  Updated: 2025-11-11T10:11:59Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91oQQODxreL.jpg?v=1718932256
   Price: $39.99 USD
 - [GARVEE Bohemian Washable Rug 9x12 - Vintage Design, Non-Slip, Polyester](https://www.garvee.com/products/garvee-bohemian-washable-rug-9x12-vintage-moroccan-design-non-slip-polyester-stain-resistant-living-room-bedroom-garvee): Discover the GARVEE Bohemian Washable Rug, featuring a vintage design, stain resistance, and non-slip backing. Perfect for any room, easy to clean, and stylish!
-  Updated: 2025-11-11T04:20:35Z
+  Updated: 2025-11-11T09:27:53Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SHLUkchAL.jpg?v=1718932565
   Price: $119.99 USD
 - [GARVEE Trellis Rug - Stylish & Functional 4x6 Grey Boho Area Rug](https://www.garvee.com/products/garvee-moroccan-trellis-rug-boho-style-pho-0zumj2he): Discover the GARVEE Trellis Rug, a machine washable, non-slip faux wool rug perfect for high traffic areas. Enjoy its stain-resistant, low pile design for ultimate comfort.
-  Updated: 2025-11-11T04:20:47Z
+  Updated: 2025-11-11T09:28:05Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Jtgoex4aL.jpg?v=1718931763
   Price: $39.99 USD
 - [Garvee Washable Floral Area Rug 5x7 - Modern Botanical Design, Non-Slip TPR Backing, Low Pile Polyester, Easy Care, Grey/Multi](https://www.garvee.com/products/garvee-nanan-washable-floral-area-rug-pho-0zul2sj0): Elevate your home with the GARVEE Washable Floral Area Rug. Its modern design, low pile, and non-slip backing offer style, comfort, and easy maintenance.
-  Updated: 2025-11-11T04:20:52Z
+  Updated: 2025-11-11T09:28:10Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81xp5E9AqWL.jpg?v=1718941580
   Price: $48.99 USD
 - [GARVEE Vintage Boho Area Rug 8x10 - Stylish, Durable, and Washable](https://www.garvee.com/products/garvee-vintage-boho-area-rug-8x10-pho-0zufktko): Transform your space with the GARVEE Vintage Boho Area Rug. Made from durable synthetic fibers, it's machine washable, non-slip, and perfect for any room.
-  Updated: 2025-11-11T04:20:57Z
+  Updated: 2025-11-11T09:28:15Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91qSpNO87AL.jpg?v=1718941506
   Price: $95.99 USD
 - [GARVEE Vintage Geometric Runner Rug - Stylish & Practical](https://www.garvee.com/products/garvee-vintage-geometric-runner-rug-faux-pho-0zuf694p): Transform your space with the GARVEE Vintage Geometric Runner Rug. Made from durable polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:20:58Z
+  Updated: 2025-11-11T10:12:06Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q3T6IU5pL.jpg?v=1718941431
   Price: $37.99 USD
 - [GARVEE Vintage 2x6 Geometric Runner Rug - Stylish & Practical](https://www.garvee.com/products/garvee-vintage-2x6-geometric-runner-rug-pho-0zuf62xw): Transform your space with the GARVEE Vintage Runner Rug. Made from durable polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:20:58Z
+  Updated: 2025-11-11T10:12:07Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51ir3upB3zL.jpg?v=1718941595
   Price: $44.99 USD
 - [GARVEE Boho Area Rug - Vintage Washable Geometric Design](https://www.garvee.com/products/garvee-boho-area-rug-5x7-vintage-pho-0zuf2h33): Transform your space with the GARVEE Boho Area Rug. This machine-washable, non-slip rug is made from durable polyester, perfect for high traffic areas.
-  Updated: 2025-11-11T04:20:59Z
+  Updated: 2025-11-11T09:28:17Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -6000,14 +6000,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81BjrsBFDQL.jpg?v=1753837326
   Price: $42.99 USD
 - [GARVEE 8'x10' Washable Bohemian Area Rug - Durable & Non-Slip](https://www.garvee.com/products/garvee-8-x10-alfombra-marroqui-lavable-pho-0zr4s83g): Discover the GARVEE 8'x10' washable rug, crafted from stain-resistant polyester. Its low pile design ensures safety and comfort, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:21:00Z
+  Updated: 2025-11-11T09:28:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Ov3jMDWcL.jpg?v=1718932420
   Price: $58.99 USD
 - [GARVEE 4'x6' Washable Bohemian Area Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-4-x6-alfombra-marroqui-lavable-pho-0zr4p4yj): Discover the GARVEE 4'x6' washable rug, crafted from durable polyester, featuring a low pile for comfort and safety. Perfect for high-traffic areas, easy to clean!
-  Updated: 2025-11-11T04:21:01Z
+  Updated: 2025-11-11T09:28:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -6021,21 +6021,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41aHajXISQL.jpg?v=1718931613
   Price: $292.99 USD
 - [GARVEE Modern Floral Runner Rug - Soft, Durable, and Washable](https://www.garvee.com/products/garvee-modern-floral-hallway-rug-soft-pho-0zm34ke7-1): Transform your space with the GARVEE Modern Floral Runner Rug. Made from high-quality polyester, it's soft, durable, washable, and pet-friendly, perfect for any room.
-  Updated: 2025-11-11T04:21:17Z
+  Updated: 2025-11-11T10:12:15Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LQz1A3v7L_b96a317c-a7b8-4006-a06d-02ece5501952.jpg?v=1718941456
   Price: $25.99 USD
 - [GARVEE 4x6 Farmhouse Floral Rug - Non-Slip, Washable, Durable](https://www.garvee.com/products/garvee-caremee-4x6-farmhouse-floral-rug-pho-0zm30xae): Transform your space with the GARVEE 4x6 Floral Rug. Made from high-quality recycled polyester, it's non-slip, machine washable, and perfect for high traffic areas.
-  Updated: 2025-11-11T04:21:18Z
+  Updated: 2025-11-11T09:28:34Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81aK0Jsr3_L.jpg?v=1727661590
   Price: $53.99 USD
 - [GARVEE Modern Ombre Non-Slip Washable Rug - Perfect for Any Room](https://www.garvee.com/products/garvee-modern-ombre-non-slip-washable-rug-low-pile-polyester-stain-resistant-9x12-for-living-room-bedroom-nursery-garvee): Discover the GARVEE Modern Ombre Rug: stain-resistant, low-pile polyester, and washable. Ideal for living rooms, bedrooms, and nurseries. Free shipping!
-  Updated: 2025-11-11T04:21:19Z
+  Updated: 2025-11-11T09:28:35Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -6049,7 +6049,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814bmL3ma5L.jpg?v=1727661585
   Price: $40.99 USD
 - [GARVEE Washable Oriental Medallion Area Rug 5x7 - Stain Resistant & Kid Friendly](https://www.garvee.com/products/garvee-5x7-traditional-area-rug-oriental-pho-0zfd98j5): Discover the GARVEE 5x7 Washable Oriental Medallion Area Rug. Stain-resistant, durable, and kid & pet friendly, it enhances any space with timeless elegance.
-  Updated: 2025-11-11T04:21:32Z
+  Updated: 2025-11-11T09:28:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -6133,56 +6133,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Zo5ZJFZJL_a2e9d7d9-0986-42f5-a982-51dd1de86415.jpg?v=1753840460
   Price: $72.99 USD
 - [GARVEE Abstract Modern Yellow Washable Rug 9x12 - Stylish & Practical](https://www.garvee.com/products/garvee-abstract-modern-yellow-washable-rug-9x12-foldable-non-slip-stain-resistant-non-shedding-soft-floor-mat-for-living-room-bedroom-dining-room-office-garvee): Transform your space with the GARVEE Abstract Modern Yellow Rug. Washable, non-slip, and stain-resistant, it offers comfort and style for any room.
-  Updated: 2025-11-11T04:21:43Z
+  Updated: 2025-11-11T09:28:58Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Zo5ZJFZJL_2c6c278c-610e-415c-a064-84ddb4069e00.jpg?v=1718932361
   Price: $73.99 USD
 - [GARVEE Blue 9x12 Area Rug - Non-Slip & Stain Resistant](https://www.garvee.com/products/garvee-blue-9x12-area-rugs-for-living-room-luxury-extra-large-area-rug-for-bedroom-modern-abstract-design-non-slip-garvee): Transform your living space with the GARVEE Blue 9x12 Area Rug. This luxury rug features a modern abstract design, is water-resistant, stain-resistant, and non-slip.
-  Updated: 2025-11-11T04:21:44Z
+  Updated: 2025-11-11T09:28:59Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xaFaFi8mL_8b9675a9-cb75-4c9c-8351-4c5f789fb294.jpg?v=1718932586
   Price: $679.99 USD
 - [GARVEE Modern Abstract Area Rug - Non-Shedding, Non-Slip, Perfect for Any Room](https://www.garvee.com/products/garvee-modern-abstract-area-rug-4x6-non-shedding-non-slip-synthetic-fibers-machine-woven-for-living-room-bedroom-kitchen-nursery-garvee): Elevate your space with the GARVEE Modern Abstract Area Rug. Made from durable synthetic fibers, it offers comfort, safety, and a stylish touch for your home.
-  Updated: 2025-11-11T04:21:46Z
+  Updated: 2025-11-11T09:29:01Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81d0z6irLBL.jpg?v=1718931775
   Price: $539.99 USD
 - [GARVEE Modern Abstract Area Rug - Non-Slip, Durable, Stylish](https://www.garvee.com/products/garvee-modern-abstract-area-rug-4x6-pho-0yn98o02): Enhance your space with the GARVEE Modern Abstract Area Rug. Made from durable synthetic fibers, it's non-slip, non-shedding, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:21:47Z
+  Updated: 2025-11-11T09:29:02Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Q2-JcnCeL.jpg?v=1718932171
   Price: $96.99 USD
 - [GARVEE Modern Abstract Area Rug 10x13 - Non-Shedding, Non-Slip, Boho Design](https://www.garvee.com/products/garvee-westloom-abstract-area-rug-non-pho-0yn964as): Elevate your space with the GARVEE Modern Abstract Area Rug. Crafted from durable synthetic fibers, this non-slip rug offers comfort, safety, and style for any room.
-  Updated: 2025-11-11T04:21:48Z
+  Updated: 2025-11-11T09:29:03Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61LQjSWs_UL_c182fe62-2355-4b41-bb2e-17fefc29b8ba.jpg?v=1718932128
   Price: $599.99 USD
 - [GARVEE Ultra Soft Grey Shag Runner Rug - Perfect for Hallways & Kitchens](https://www.garvee.com/products/garvee-ultra-soft-grey-shag-runner-pho-0xuidbys): Experience luxury with the GARVEE Ultra Soft Grey Shag Runner Rug. Its plush, non-slip design is kid & pet-friendly, easy to clean, and ideal for high-traffic areas.
-  Updated: 2025-11-11T04:21:55Z
+  Updated: 2025-11-11T10:12:22Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91j6Nt8beyL.jpg?v=1718941588
   Price: $62.99 USD
 - [GARVEE Modern Runner Rug - Soft & Non-Slip](https://www.garvee.com/products/garvee-cozyloom-modern-runner-rug-2-pho-0rqyl19m): Discover the GARVEE Modern Runner Rug, featuring a plush, high-pile design with rubber backing for non-slip comfort. Perfect for hallways and kitchens.
-  Updated: 2025-11-11T04:22:06Z
+  Updated: 2025-11-11T10:12:26Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91IC4zeYe7L.jpg?v=1718941476
   Price: $48.99 USD
 - [GARVEE Stainless Steel Table: Versatile Work Solution for Any Space](https://www.garvee.com/products/garvee-stainless-steel-table-commercial-work-pho-1296smsx): Discover the GARVEE Stainless Steel Table, perfect for kitchens, garages, and more. Its multifunctional design and dual overshelves enhance workspace efficiency.
-  Updated: 2025-11-11T04:31:05Z
+  Updated: 2025-11-11T12:00:19Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Stainless Steel Work Table
   Availability: Available
@@ -6581,7 +6581,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81zcybnB_IL.jpg?v=1718931950
   Price: $131.99 USD
 - [GARVEE 5 Tier Bookcase - Versatile Storage for Any Room](https://www.garvee.com/products/garvee-5-tier-bookcase-farmhouse-style-pho-0zzp8o70): Discover the GARVEE 5 Tier Bookcase, perfect for living rooms, bedrooms, or offices. Its multifunctional design offers ample storage with rustic charm.
-  Updated: 2025-11-10T01:33:58Z
+  Updated: 2025-11-11T09:15:50Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Office > Bookshelves & Bookcases
   Availability: Available
@@ -6805,7 +6805,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/916Un_zaMxL.jpg?v=1757494574
   Price: $119.99 USD
 - [GARVEE Modern Rattan Buffet Cabinet: Stylish & Multifunctional Storage Solution](https://www.garvee.com/products/garvee-accent-storage-cabinet-modern-rattan-pho-0zddv027): Discover the GARVEE Modern Rattan Buffet Cabinet, perfect for dining rooms, kitchens, and living spaces. Its multifunctional design offers ample storage and elegance.
-  Updated: 2025-11-11T06:25:51Z
+  Updated: 2025-11-11T09:09:03Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -6980,7 +6980,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1693300094453.jpg?v=1753176269
   Price: $119.99 USD
 - [GARVEE Floor Mattress - Ultimate Comfort and Versatility](https://www.garvee.com/products/garvee-foldable-japanese-floor-mattress-queen-pho-0yxd9l12): Discover the GARVEE Floor Mattress, featuring premium memory foam, a breathable cover, and a foldable design for ultimate comfort and convenience anywhere.
-  Updated: 2025-11-10T05:38:54Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -6994,7 +6994,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/713jD3SlQXL.jpg?v=1718931849
   Price: $49.99 USD
 - [GARVEE Japanese Futon Mattress - Comfort & Versatility](https://www.garvee.com/products/garvee-japanese-futon-mattress-full-size-pho-0yxb11wu): Experience ultimate comfort with GARVEE's 5-layer support futon mattress. Foldable, rollable, and made from luxurious microfiber cotton, it's perfect for any space.
-  Updated: 2025-11-11T03:55:22Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -7036,7 +7036,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81DNuwWoWOL.jpg?v=1718931658
   Price: $189.99 USD
 - [GARVEE Rustic Microwave Stand - Versatile 5-Tier Kitchen Bakers Rack](https://www.garvee.com/products/garvee-rustic-microwave-stand-5-tier-pho-0ysyx7ks): Discover the GARVEE Rustic Microwave Stand, a 5-tier storage rack perfect for indoor use. Its versatile design accommodates microwaves and more, enhancing your kitchen organization.
-  Updated: 2025-11-10T22:55:43Z
+  Updated: 2025-11-11T08:57:30Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Kitchen Islands & Carts
   Availability: Available
@@ -7245,6 +7245,13 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1723599226856.jpg?v=1756967151
   Price: $99.99 USD
+- [GARVEE Bar Stools Set of 2 - Versatile Seating for Kitchen and Dining](https://www.garvee.com/products/garvee-dining-bar-table-set-with-pho-0yddlk9u-2): Discover the GARVEE Bar Stools Set of 2, perfect for indoor use. These multi-functional stools blend style and comfort, ideal for kitchen islands and dining rooms.
+  Updated: 2025-11-11T08:03:17Z
+  Vendor: Garvee
+  Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/516H4a6KkhL.jpg?v=1751451535
+  Price: $64.99 USD
 - [GARVEE Bar Stools Set of 2 - 25.5" Velvet Cushions Upholstered Chairs Versatile Indoor Seating](https://www.garvee.com/products/garvee-dining-bar-table-set-with-pho-0yddhczr-1): Elevate your indoor space with GARVEE Bar Stools. Perfect for kitchens or dining areas, these versatile stools combine comfort, style, and easy maintenance.
   Updated: 2025-11-11T06:15:40Z
   Vendor: Garvee
@@ -7316,7 +7323,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41K7QsoB_TL.jpg?v=1718931885
   Price: $149.99 USD
 - [GARVEE Natural Rattan Shoe Cabinet - Stylish & Versatile Storage Solution](https://www.garvee.com/products/garvee-gaomon-natural-rattan-shoe-cabinet-pho-0y1vywgj): Discover the GARVEE Natural Rattan Shoe Cabinet, perfect for indoor spaces. With 4 flip drawers, it's a multifunctional storage solution for shoes and accessories.
-  Updated: 2025-11-11T04:39:01Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Shoe Organizers
   Availability: Available
@@ -7372,7 +7379,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81VQ_MWoDSL_a185358d-2bab-4152-a58a-37b9de7a9e7f.jpg?v=1718941527
   Price: $58.99 USD
 - [GARVEE Console Table - Vintage Wood Grain & Metal Frame](https://www.garvee.com/products/garvee-console-table-vintage-wood-grain-pho-0xw17hfa): Discover the GARVEE Console Table, perfect for indoor use in entryways or living rooms. Its versatile design and open shelves make it ideal for multiple purposes.
-  Updated: 2025-11-11T00:39:47Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Console Tables
   Availability: Available
@@ -7386,7 +7393,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RMb52DlCL.jpg?v=1739011682
   Price: $69.99 USD
 - [GARVEE Queen Bed Frame with LED Lights - Versatile Comfort for Any Bedroom](https://www.garvee.com/products/garvee-queen-gaomon-full-bed-frame-pho-0xterj1n): Elevate your indoor space with the GARVEE Queen Bed Frame. Its multifunctional design and ambient LED lights make it perfect for relaxation and style.
-  Updated: 2025-11-11T04:31:03Z
+  Updated: 2025-11-11T11:47:05Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -8016,7 +8023,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41VEECzpCPL.jpg?v=1718932503
   Price: $153.99 USD
 - [GARVEE Foldable Dining Table Set for 2 - Space-Saving & Versatile](https://www.garvee.com/products/garvee-dining-table-set-expandable-2-pho-10be0zdb-1): Discover the GARVEE Dining Table Set for 2, perfect for small spaces. Its expandable design and storage shelves make it ideal for various indoor settings.
-  Updated: 2025-11-11T05:58:21Z
+  Updated: 2025-11-11T09:21:04Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -8044,7 +8051,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41SWPQFH8TL.jpg?v=1736231943
   Price: $77.99 USD
 - [Elevate Your Space with GARVEE Gold Circle Mirror - Versatile & Eco-Friendly](https://www.garvee.com/products/garvee-gold-circle-mirror-24-inch-pho-11qnuyjk): Transform any room with the GARVEE 24" HD Eco-Friendly Round Mirror. Perfect for bathrooms, bedrooms, and more, its stylish design is multifunctional and easy to install.
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bathroom > Bathroom Fixtures
   Availability: Available
@@ -8219,7 +8226,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61j8HPBEt_L_7c45adf7-613b-4fe4-8d13-36b5024c666c.jpg?v=1727341866
   Price: $109.99 USD
 - [GARVEE Modern Washable 9x12 Rug - Soft Ombre Velvet & Non-Slip Design](https://www.garvee.com/products/garvee-modern-washable-9x12-rug-for-living-room-soft-ombre-velvet-non-slip-machine-washable-brown-grey-ideal-for-high-traffic-areas-garvee): Transform your space with the GARVEE 9x12 rug, featuring ultra-soft pearl velvet, non-slip backing, and machine washable convenience—perfect for high traffic areas.
-  Updated: 2025-11-11T04:22:10Z
+  Updated: 2025-11-11T09:29:25Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -8247,7 +8254,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81YBsQKyJ_L.jpg?v=1718932310
   Price: $41.99 USD
 - [GARVEE Runner Rug 2x6 - Ultra Soft & Non-Slip](https://www.garvee.com/products/garvee-moroccan-runner-rug-2x6-high-pho-12xqm98j): Elevate your space with the GARVEE Runner Rug. Its high-low pile offers softness, stain resistance, and non-slip backing, perfect for any room.
-  Updated: 2025-11-11T04:22:13Z
+  Updated: 2025-11-11T10:12:27Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
@@ -8261,14 +8268,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71-UjkFnYNL.jpg?v=1749032998
   Price: $89.99 USD
 - [GARVEE Large 9x12 Vintage Washable Rug - Non-Slip, Low Pile, Grey](https://www.garvee.com/products/garvee-large-9x12-vintage-washable-rug-oriental-distressed-polyester-non-slip-low-pile-living-room-bedroom-grey-garvee): Discover the GARVEE Large 9x12 Vintage Washable Rug, crafted from high-quality polyester. Enjoy its non-slip, low pile design, perfect for any living space!
-  Updated: 2025-11-11T04:22:15Z
+  Updated: 2025-11-11T09:29:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Ipd9rxNkL_b13c77ca-137d-4121-9860-bfd79ff74b8c.jpg?v=1718932580
   Price: $157.99 USD
 - [GARVEE 2x6 Hallway Runner Rug - Vintage & Machine Washable](https://www.garvee.com/products/garvee-caromio-2x6-hallway-runner-rug-pho-11vv1xjy): Enhance your home with the GARVEE 2x6 Hallway Runner Rug. This vintage, machine washable rug features a low pile, stain resistance, and a non-slip back for safety.
-  Updated: 2025-11-11T04:22:16Z
+  Updated: 2025-11-11T10:12:28Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -8289,7 +8296,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CufJN3wdL.jpg?v=1749798503
   Price: $99.99 USD
 - [GARVEE 4x6 Washable Braided Area Rug - Non-Slip, Low Pile Polyester](https://www.garvee.com/products/garvee-area-rug-4x6-washable-modern-pho-1168hshv): Enhance your space with the GARVEE 4x6 Area Rug. Its non-slip backing, low pile design, and vibrant braided print make it perfect for any room, easy to clean, and stylish.
-  Updated: 2025-11-11T04:22:19Z
+  Updated: 2025-11-11T09:29:34Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -8310,21 +8317,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91KTSkeFakL.jpg?v=1756706679
   Price: $138.99 USD
 - [GARVEE Modern Floral Washable Area Rug - Non-Slip, Low Pile, Premium Polyester](https://www.garvee.com/products/garvee-nanan-boho-floral-rug-washable-pho-0zuluxk6): Elevate your space with the GARVEE Modern Floral Area Rug. Made from premium polyester, it's stain-resistant, non-slip, and machine washable for easy maintenance.
-  Updated: 2025-11-11T04:22:26Z
+  Updated: 2025-11-11T09:29:40Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81kqVI42YXL_b7b4c8a6-65ab-4be6-b8b8-1e3690453ca7.jpg?v=1718932389
   Price: $103.99 USD
 - [GARVEE Boho Area Rug 5x7 - Vintage Washable Geometric Faux Wool](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-soft-pho-0zufqg7v): Transform your space with the GARVEE 5x7 Boho Area Rug. Soft, non-slip, and machine washable, it's perfect for high traffic areas and easy to maintain.
-  Updated: 2025-11-11T04:22:27Z
+  Updated: 2025-11-11T09:29:41Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/519_I0Xtm-L.jpg?v=1718932200
   Price: $59.99 USD
 - [GARVEE Modern Floral Runner Rug 2x6 - Washable & Non-Slip](https://www.garvee.com/products/garvee-modern-floral-hallway-rug-soft-pho-0zm3ljfg): Transform your space with the GARVEE Modern Floral Runner Rug. Made of durable, stain-resistant polyester, it's washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:22:32Z
+  Updated: 2025-11-11T10:12:30Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -8338,14 +8345,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81vcLf2nwwL.jpg?v=1718932406
   Price: $37.99 USD
 - [GARVEE Boho Geometric Area Rug - Soft, Washable, and Durable](https://www.garvee.com/products/garvee-cozyloom-moroccan-area-rug-boho-pho-0yv99yyd): Discover the GARVEE Area Rug featuring a chic geometric design, soft polyester material, and anti-slip backing. Perfect for any room, it's machine washable and stain-resistant!
-  Updated: 2025-11-11T04:22:37Z
+  Updated: 2025-11-11T09:29:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81yCH0ltYPL_81ced415-9411-4486-abc9-75c71b82e71c.jpg?v=1718932282
   Price: $58.99 USD
 - [GARVEE Vintage Floral Rug - Durable & Washable Chenille Area Rug for Home](https://www.garvee.com/products/garvee-vintage-floral-rug-9x12-non-slip-washable-chenille-low-pile-foldable-for-living-room-bedroom-dining-room-garvee): Transform your space with the GARVEE Vintage Floral Rug. Made from soft, durable chenille, it's non-slip, machine washable, and perfect for any room.
-  Updated: 2025-11-11T04:22:42Z
+  Updated: 2025-11-11T09:29:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -8492,7 +8499,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71UUcq3pSSL.jpg?v=1718964968
   Price: $347.99 USD
 - [Garvee Photography Lighting Kit, 8.5x10ft Backdrop Stand 5 Tripod Stands Bulb Umbrella Softbox Continuous Lighting for Portrait Product Photos](https://www.garvee.com/products/8-5x10ft-photography-kit-pho-0xwnu6w6): Transform your photography with the GARVEE 8.5x10ft Kit. Enjoy professional lighting, adjustable backdrops, and energy-saving LED bulbs for stunning portraits.
-  Updated: 2025-11-11T06:25:52Z
+  Updated: 2025-11-11T09:21:01Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Office > Office Stands
   Availability: Available
@@ -8583,7 +8590,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/screenshot_2025-09-04_11-28-21_8f577008-7376-467b-a5ab-2b717aedc218.png?v=1757319232
   Price: $489.99 USD
 - [GARVEE 10x13FT Dark Grey Fluffy Area Rug - Plush, Non-Slip, Perfect for Any Room](https://www.garvee.com/products/dark-grey-fluffy-area-rug-pho_0pw2s4tm): Experience ultimate comfort with the GARVEE 10x13FT dark grey fluffy area rug. Its plush, thick shag design is non-slip and perfect for living rooms and bedrooms.
-  Updated: 2025-11-11T07:02:26Z
+  Updated: 2025-11-11T09:29:58Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -8611,7 +8618,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61eX5i5BdKL.jpg?v=1742450281
   Price: $49.99 USD
 - [GARVEE 50x76 Inch Aluminum Tri-Fold Ramp - Durable & Versatile](https://www.garvee.com/products/fold-ramp-with-treads-pau_0jlu6ewj): Discover the GARVEE 50x76 Inch Aluminum Tri-Fold Ramp, designed for strength with a 1500 lbs capacity. Perfect for ATVs, motorcycles, and more!
-  Updated: 2025-11-11T04:31:22Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Material Handling > Ramps & Ladders > Loading Ramps
   Availability: Available
@@ -8639,7 +8646,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71pKRx_hKgL.jpg?v=1718964547
   Price: $1,499.99 USD
 - [GARVEE 8x10FT Modern Area Rug - Stylish & Machine Washable](https://www.garvee.com/products/garvee-8x10ft-area-rug-pho-0zgqlxjr): Elevate your home decor with GARVEE's 8x10FT area rug. Machine washable, stain resistant, and non-slip, it's perfect for any room while being pet-friendly.
-  Updated: 2025-11-11T04:22:47Z
+  Updated: 2025-11-11T09:29:59Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -8653,7 +8660,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81W6Z8SbAVL.jpg?v=1718964627
   Price: $189.98 USD
 - [GARVEE Washable Area Rug - Modern Dark Grey 9x12 Rug for Home](https://www.garvee.com/products/garvee-washable-area-rug-9x12-modern-rug-for-living-room-contemporary-solid-textured-rug-indoor-carpet-easy-cleaning-foldable-rug-boho-non-slip-accent-throw-carpet-for-bedroom-home-office-dark-grey-garvee): Discover the GARVEE Washable Area Rug, featuring a soft chenille surface, non-slip backing, and easy cleaning for high-traffic areas in your home.
-  Updated: 2025-11-11T04:31:02Z
+  Updated: 2025-11-11T09:30:00Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
@@ -8947,7 +8954,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41zHp9dIO0L.jpg?v=1718964765
   Price: $193.99 USD
 - [GARVEE Washable Rug Area Rug 5x7 - Boho Traditional Carpet](https://www.garvee.com/products/garvee-area-rug-machine-pho-0xt1hyvc): Enhance your indoor decor with the GARVEE Washable Rug. This 5x7 blue area rug features a floral pattern, low pile, and is machine washable for easy care.
-  Updated: 2025-11-11T04:31:10Z
+  Updated: 2025-11-11T09:30:03Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -8968,14 +8975,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/811MtP7jT5L.jpg?v=1718964803
   Price: $178.99 USD
 - [GARVEE 30000mAh 65W Power Bank - Your Ultimate Charging Companion](https://www.garvee.com/products/30000mah-65w-power-bank-pcl-01nasz5b): Power up with GARVEE's 30000mAh power bank featuring 65W fast charging, smart IPS display, and 3 ports for multiple devices. Compact, stylish, and efficient!
-  Updated: 2025-11-10T08:06:26Z
+  Updated: 2025-11-11T10:11:05Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Office > Office Electronics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71LpjMicS8L.jpg?v=1718964713
   Price: $79.99 USD
+- [GARVEE Commercial Glass Polisher - Efficient & Versatile for Bars and Restaurants](https://www.garvee.com/products/electric-wine-glass-polisher-pho-0y4t4e5l): Discover the GARVEE Commercial Glass Polisher, perfect for bars, restaurants, and wineries. Its multifunctional design quickly polishes various glassware for spotless results.
+  Updated: 2025-11-11T09:10:26Z
+  Vendor: Garvee
+  Product Type: Restaurant & Food Service > Storage & Organization > Janitorial Supplies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61kOZH8xrSL_3b63c4d7-e8fd-486a-82d1-3ea896395d49.jpg?v=1735637901
+  Price: $468.99 USD
 - [Garvee Stand Airless HVLP Paint Sprayer 1050W Adjustable 0.33GPM 24.6ft Hose](https://www.garvee.com/products/garvee-paint-sprayer-pho-0ymb3mpa): Transform your indoor and outdoor painting projects with the GARVEE Stand Airless HVLP Paint Sprayer, offering high efficiency and versatility for all your DIY needs.
-  Updated: 2025-11-11T04:31:08Z
+  Updated: 2025-11-11T11:44:55Z
   Vendor: Garvee
   Product Type: Arts & Crafts & Sewing > Painting Equipment & Supplies > Powder Coating Machine
   Availability: Available
@@ -8989,21 +9003,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61oNkNMq7AL_4b3e79a4-4171-413e-9192-847b01e43f9e.jpg?v=1736318280
   Price: $548.99 USD
 - [GARVEE Vintage Floral Washable Rug 2x6 - Soft Oriental Runner](https://www.garvee.com/products/garvee-vintage-floral-washable-rug-2x6-pho-13gdbero): Discover the GARVEE Vintage Floral Washable Rug, featuring a non-slip backing and low pile, perfect for high traffic areas. Easy to maintain and stylish!
-  Updated: 2025-11-11T04:22:51Z
+  Updated: 2025-11-11T10:12:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/911kgDI-lZL.jpg?v=1718964771
   Price: $36.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Soft, Non-Slip, High Density Polyester](https://www.garvee.com/products/garvee-vintage-floral-washable-area-rug-pho-13gd935g): Discover the GARVEE Vintage Floral Area Rug, featuring a soft, non-slip backing and low pile design, perfect for high traffic areas. Durable and washable!
-  Updated: 2025-11-11T04:22:51Z
+  Updated: 2025-11-11T10:12:35Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81BvfKOJlXL.jpg?v=1718965061
   Price: $28.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Perfect for High Traffic Areas](https://www.garvee.com/products/garvee-vintage-floral-washable-area-rug-pho-13gd1qrv): Discover the GARVEE Vintage Floral Area Rug, crafted from high-density polyester with non-slip TPR backing. Ideal for high-traffic areas, it's washable and stylish.
-  Updated: 2025-11-11T04:22:52Z
+  Updated: 2025-11-11T10:12:36Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -9094,14 +9108,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/619luMMAzcL.jpg?v=1718965130
   Price: $62.99 USD
 - [GARVEE Living Room Washable Rug 5x7 - Vintage Oriental Floral Print](https://www.garvee.com/products/garvee-living-room-washable-rug-5x7-pho-13gdnalx): Discover the GARVEE 5x7 Living Room Rug, featuring a vintage floral design, soft polyester, non-slip backing, and easy maintenance for any room.
-  Updated: 2025-11-11T04:22:53Z
+  Updated: 2025-11-11T09:30:05Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915h92v7oiL_224fe8be-979d-44e1-9e57-4f16193f7652.jpg?v=1718965172
   Price: $42.99 USD
 - [GARVEE Washable Vintage Oriental Floral Print Rug - 5x7 Non-Slip Soft Polyester](https://www.garvee.com/products/garvee-living-room-rug-5x7-washable-pho-13gdcfbe): Enhance your space with the GARVEE 5x7 rug. Made of soft polyester, it's non-slip and washable, perfect for any room. Enjoy free shipping and fast delivery!
-  Updated: 2025-11-11T04:22:53Z
+  Updated: 2025-11-11T09:30:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -9143,7 +9157,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61eqrcG8aWL.jpg?v=1718964580
   Price: $61.99 USD
 - [GARVEE Washable Vintage Rug - Soft, Non-Slip Floral Design for Any Room](https://www.garvee.com/products/garvee-washable-6x9-vintage-rug-non-pho-13gd3g1m): Transform your space with the GARVEE 6x9 Vintage Rug. Made from soft polyester, this low-pile, non-slip rug is machine washable and perfect for any room.
-  Updated: 2025-11-11T04:22:56Z
+  Updated: 2025-11-11T09:30:08Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -9262,14 +9276,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41vIZNjoKnL.jpg?v=1718964560
   Price: $159.99 USD
 - [GARVEE ATV/UTV 3-Position Blade - Versatile Grading Solution](https://www.garvee.com/products/garvee-3-position-blade-pho-10eavkly): Transform your UTV/ATV with the GARVEE 42-inch Scrape Blade featuring 5 adjustable angles for efficient grading, snow plowing, and soil leveling. Durable and easy to install!
-  Updated: 2025-11-11T05:06:22Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Driveway Drag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61oTmZL_oRL.jpg?v=1718965212
   Price: $169.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Perfect for Any Room](https://www.garvee.com/products/garvee-vintage-floral-washable-area-rug-9x12-soft-low-pile-non-slip-tpr-backing-polyester-easy-maintenance-perfect-for-living-room-bedroom-office-garvee): Discover the GARVEE Vintage Floral Area Rug, featuring soft low pile, non-slip TPR backing, and easy maintenance. Ideal for living rooms, bedrooms, and offices.
-  Updated: 2025-11-11T04:22:58Z
+  Updated: 2025-11-11T09:30:10Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -9402,7 +9416,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61g3jb6nG6L.jpg?v=1718965063
   Price: $95.99 USD
 - [GARVEE Soft Quad Fold Truck Bed Tonneau Cover for Dodge Ram 1500, 2500, 3500](https://www.garvee.com/products/garvee-soft-folding-truck-bed-pau-0ihpwox0): Experience exceptional customer service with fast shipping and quality support. Enjoy free shipping and hassle-free returns for a seamless shopping experience!
-  Updated: 2025-11-11T04:31:06Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Automotive > Automotive Accessories > Tonneau Cover
   Availability: Available
@@ -9682,7 +9696,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Q_s9LDs3L_27bb4333-367a-4e7b-8810-0cbccb2adc05.jpg?v=1719297441
   Price: $102.99 USD
 - [GARVEE 49" Hay Bale Spear - Revolutionize Your Farming](https://www.garvee.com/products/garvee-49-with-sleeves-gaomon-hay-pho-0zgws3am): Experience unmatched strength and efficiency with GARVEE's 49" Hay Bale Spear. Designed for durability and quick attachment, it handles 4000 lbs effortlessly!
-  Updated: 2025-11-11T02:58:10Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Hay Spear
   Availability: Available
@@ -9766,7 +9780,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Q_s9LDs3L_b49d5680-02ed-4d0b-b94c-86a647cce6cd.jpg?v=1719297374
   Price: $115.99 USD
 - [GARVEE Outdoor Electrical Box - Premium Steel Junction Box for Indoor & Outdoor Use](https://www.garvee.com/products/garvee-24x24x8-steel-electrical-box-waterproof-pho-122hwylk): Discover GARVEE's 24x24x8" steel junction box, featuring IP66 waterproof protection, enhanced durability, and advanced security for all your electrical needs.
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T08:16:26Z
   Vendor: Garvee
   Product Type: Electrical > Electrical Boxes & Panels & Fittings > Electrical Enclosure
   Availability: Available
@@ -9920,7 +9934,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71f9iSkdLqL.jpg?v=1719382943
   Price: $88.99 USD
 - [GARVEE Extra Large Acacia Wood Cutting Board - Versatile Kitchen Essential](https://www.garvee.com/products/extra-large-acacia-wood-cutting-board-pho-0rwu2hp8): Discover the GARVEE Extra Large Acacia Wood Cutting Board, perfect for indoor and outdoor use. Its reversible design and juice groove make it ideal for all cutting and serving tasks.
-  Updated: 2025-11-11T04:31:12Z
+  Updated: 2025-11-11T11:58:09Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Cutting Boards
   Availability: Available
@@ -9983,14 +9997,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/B0D3F8HLRW_0_7fd6fccb-8f56-4f7c-9f96-da4649885085.jpg?v=1761699852
   Price: $199.99 USD
 - [GARVEE Kids Electric Motorcycle - Fun & Safe Outdoor Riding](https://www.garvee.com/products/kids-electric-motorcycle-for-kids-red-pto-0ypcpqke): Explore the GARVEE Kids Electric Motorcycle, perfect for outdoor fun! This versatile ride features a bubble machine, easy controls, and safety features for endless enjoyment.
-  Updated: 2025-11-11T04:31:05Z
+  Updated: 2025-11-11T09:05:30Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Motorcycles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/712plCJQkAL.jpg?v=1719382928
   Price: $79.99 USD
 - [Garvee Ride - P Series: 6V Battery-Powered Electric Motorcycle with 1.9 Mph Speed, Led Headlights, Music, Pedal, Forward/Reverse, 3 Wheels | Motorbike Toy Gift for Toddlers 3 and Up - Green](https://www.garvee.com/products/kids-electric-motorcycle-for-kids-green-pto-0ypc5lvb): Explore the GARVEE Kids Electric Motorcycle, perfect for outdoor fun! This versatile 3-wheel ride features a bubble machine, music player, and easy controls.
-  Updated: 2025-11-11T04:31:09Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Motorcycles
   Availability: Available
@@ -10157,8 +10171,8 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61t5lkcAwuL.jpg?v=1719382873
   Price: $379.99 USD
-- [GARVEE 3-in-1 Ride-On Tractor - Bright Blue Adventure for Kids](https://www.garvee.com/products/garvee-3-in-1-ride-on-tractor-24v-electric-excavator-bulldozer-remote-control-led-music-usb-bluetooth-bright-blue): Explore outdoor fun with the GARVEE 3-in-1 Ride-On Tractor! This versatile electric vehicle combines excavation and bulldozing for endless adventures.
-  Updated: 2025-11-11T04:31:08Z
+- [Garvee Ride - P Series: 3-in-1 Ride-On Tractor, 24V Electric, Excavator & Bulldozer, Remote Control, LED, Music, USB/Bluetooth max 66 lbs - Bright-blue](https://www.garvee.com/products/garvee-3-in-1-ride-on-tractor-24v-electric-excavator-bulldozer-remote-control-led-music-usb-bluetooth-bright-blue): Explore outdoor fun with the GARVEE 3-in-1 Ride-On Tractor! This versatile electric vehicle combines excavation and bulldozing for endless adventures.
+  Updated: 2025-11-11T09:42:11Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
@@ -10459,91 +10473,91 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61ktUG59S3L_86b70801-a6db-41d1-a870-033574023499.jpg?v=1739172087
   Price: $319.99 USD
 - [GARVEE Vintage Persian Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-area-rug-vintage-persian-rug-pho-0yg4lj3h): Enhance your home with the GARVEE Vintage Persian Area Rug. This 8x10 ft soft chenille rug features a floral design, low pile, and is stain resistant, perfect for any indoor space.
-  Updated: 2025-11-11T04:23:11Z
+  Updated: 2025-11-11T09:30:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91wtd8X5LWL_bf5c6da0-38fc-47ef-97b4-f84a2115c305.jpg?v=1719384737
   Price: $86.99 USD
 - [GARVEE Vintage Persian Area Rug - Soft and Stylish for Every Room](https://www.garvee.com/products/garvee-area-rug-vintage-persian-rug-pho-0yg4ue2x): Elevate your space with the GARVEE Vintage Persian Area Rug. This soft, stain-resistant rug features a beautiful floral pattern, perfect for any indoor setting.
-  Updated: 2025-11-11T04:23:17Z
+  Updated: 2025-11-11T09:30:29Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NmPL-WHKL.jpg?v=1719384735
   Price: $95.99 USD
 - [GARVEE 8x10 Modern Geometric Area Rug - Washable & Non-Slip](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfi6mpe): Elevate your home decor with GARVEE's 8x10 area rug. Made from premium polyester, it's machine washable, stain-resistant, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:23:19Z
+  Updated: 2025-11-11T09:30:31Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91wd0no5ZoL_921cb691-17d1-42de-8883-88ebbf9d350e.jpg?v=1719384898
   Price: $106.99 USD
 - [GARVEE 9x12 Modern Geometric Area Rug - Stylish & Washable](https://www.garvee.com/products/garvee-9x12-area-rug-modern-geometric-machine-washable-area-rug-for-living-room-bedroom-contemporary-moroccan-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-floor-decoration-taupe-garvee): Discover the GARVEE 9x12 Area Rug, featuring a modern geometric design, non-slip backing, and stain resistance. Perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:23:20Z
+  Updated: 2025-11-11T09:30:31Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91t0v6dDEWL.jpg?v=1719384905
   Price: $122.99 USD
 - [GARVEE Washable Area Rug - Modern Geometric Design for Home](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfifvvc): Discover the GARVEE Washable Area Rug with non-slip, stain-resistant features. Perfect for high-traffic areas, it's lightweight, pet-friendly, and machine washable.
-  Updated: 2025-11-11T04:23:21Z
+  Updated: 2025-11-11T09:30:32Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91vpUOqC97L.jpg?v=1719384773
   Price: $36.99 USD
 - [GARVEE Machine Washable Area Rug - Modern Geometric Design for Home Decor](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfijd9s): Transform your space with the GARVEE Machine Washable Area Rug. Durable, stain-resistant, and non-slip, it's perfect for high-traffic areas and easy to maintain.
-  Updated: 2025-11-11T04:23:21Z
+  Updated: 2025-11-11T09:30:33Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zebQUm3CL.jpg?v=1719384735
   Price: $41.99 USD
 - [GARVEE Washable Area Rug - Modern Geometric Design](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfijya0): Discover the GARVEE Washable Area Rug, featuring a stylish geometric design, non-slip backing, and stain-resistant fabric, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:11Z
+  Updated: 2025-11-11T09:30:34Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XjB8h09FL_96cb606f-3fe8-4405-a8c9-8004cf096346.jpg?v=1719384750
   Price: $46.99 USD
 - [GARVEE Machine Washable Area Rug - Modern Geometric 5x7](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfinsvu): Elevate your space with the GARVEE 5x7 area rug. Made from durable, stain-resistant polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:23:23Z
+  Updated: 2025-11-11T09:30:34Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XjB8h09FL_f4148271-5111-4b93-b8d6-16521a96241a.jpg?v=1719384782
   Price: $41.99 USD
 - [GARVEE 9x12 Area Rug - Modern Geometric Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-modern-geometric-machine-washable-area-rug-for-living-room-bedroom-contemporary-moroccan-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-floor-decoration-blue-garvee): Discover the GARVEE 9x12 Area Rug, featuring a stylish geometric design, stain resistance, and non-slip backing. Perfect for high-traffic areas and easy to maintain!
-  Updated: 2025-11-11T04:23:24Z
+  Updated: 2025-11-11T09:30:35Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91wd0no5ZoL_6e71b53e-eb20-461f-af6f-b73327be5bda.jpg?v=1719384752
   Price: $91.99 USD
 - [GARVEE Machine Washable Area Rug 5x7 - Modern Geometric Design](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfit0gg): Transform your space with the GARVEE 5x7 area rug. Soft, stain-resistant, and machine washable, it combines contemporary style with practical non-slip functionality.
-  Updated: 2025-11-11T04:23:24Z
+  Updated: 2025-11-11T09:30:36Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91vpUOqC97L_566f8d4f-7eb7-455f-a87f-8cca0cb1df87.jpg?v=1719384909
   Price: $53.99 USD
 - [GARVEE Large Area Rug 9x12 - Soft, Washable, and Non-Slip](https://www.garvee.com/products/garvee-large-area-rug-9x12-moroccan-boho-living-room-rug-washable-rug-with-anti-slip-backing-non-shedding-stain-resistant-soft-geometric-carpet-for-bedroom-dining-room-nursery-home-office-garvee): Transform your space with the GARVEE 9x12 Moroccan Boho rug. Soft, stain-resistant, and machine washable, it offers style and functionality with a non-slip backing.
-  Updated: 2025-11-11T04:23:25Z
+  Updated: 2025-11-11T09:30:37Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aKHgL8LAL.jpg?v=1719384787
   Price: $113.99 USD
 - [GARVEE 8x10 Modern Geometric Area Rug - Stain Resistant & Washable](https://www.garvee.com/products/garvee-8x10-area-rug-moroccan-machine-pho-0zfitint): Transform your space with the GARVEE 8x10 Area Rug. Durable, non-slip, and machine washable, it's perfect for high-traffic areas. Enjoy stylish comfort!
-  Updated: 2025-11-11T04:23:26Z
+  Updated: 2025-11-11T09:30:37Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91vpUOqC97L_cc051b60-5ac8-45d5-876d-82bfd1429307.jpg?v=1719384805
   Price: $105.99 USD
 - [GARVEE 8x10 Vintage Distressed Area Rug - Non-Slip, Machine Washable, Stain Resistant](https://www.garvee.com/products/garvee-8x10-area-rug-machine-washable-pho-0z80kp3m): Discover the GARVEE 8x10 Area Rug, featuring a non-slip, stain-resistant design. Made from durable polyester, it's machine washable and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:23:27Z
+  Updated: 2025-11-11T09:30:38Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -10648,7 +10662,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71NXDpf9esL_109c63ba-8d53-4d1f-99d6-5da329ed3056.jpg?v=1719384869
   Price: $206.99 USD
 - [Garvee Ride - P Series: 360 Degrees Rotating Ride On Drift Car,Electric Drifting Go Kart,24V Ride On Race Car,Variable Speed for Kids,Simplified Drift System,Flashing Lights, Flag, Music - Red](https://www.garvee.com/products/garvee-360-degrees-rotating-ride-on-pto-0z44w8xz): Perfect for indoor and outdoor fun, this versatile electric drifting go-kart features flashing lights, music, and a simplified drift system for endless adventures.
-  Updated: 2025-11-11T04:30:58Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Go Kart
   Availability: Available
@@ -10788,28 +10802,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Xi7GiLe1L.jpg?v=1739794524
   Price: $119.99 USD
 - [GARVEE 9x12 Area Rug - Modern Abstract Design, Machine Washable & Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-large-modern-abstract-machine-washable-area-rug-for-living-room-contemporary-non-slip-stain-resistant-accent-rug-carpet-for-dining-room-office-bedroom-decoration-blue-garvee): Elevate your space with the GARVEE 9x12 Area Rug. This non-slip, stain-resistant rug features a modern abstract design, perfect for any room. Machine washable for easy care!
-  Updated: 2025-11-11T04:23:28Z
+  Updated: 2025-11-11T09:30:39Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tzHb2GIbL.jpg?v=1719384845
   Price: $99.99 USD
 - [GARVEE 8x10 Modern Abstract Area Rug - Stain Resistant & Machine Washable](https://www.garvee.com/products/garvee-modern-abstract-area-rug-5x7-pho-0zgqd5gl): Enhance your home with the GARVEE 8x10 area rug, featuring a modern abstract design, stain resistance, and non-slip backing for safety and style.
-  Updated: 2025-11-11T04:23:29Z
+  Updated: 2025-11-11T09:30:40Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tzHb2GIbL_a287b316-2888-4ddd-8524-e078dceebd9f.jpg?v=1719384915
   Price: $86.99 USD
 - [GARVEE Runner Rug 2x6 - Stylish, Non-Slip, and Washable Area Rug](https://www.garvee.com/products/garvee-modern-abstract-area-rug-5x7-pho-0zgqksuf): Elevate your space with the GARVEE Runner Rug. Made from durable polyester, it's stain-resistant, machine washable, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:23:30Z
+  Updated: 2025-11-11T10:12:41Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91vD0T1X-_L.jpg?v=1719384846
   Price: $29.99 USD
 - [GARVEE Runner Rug - Stylish & Non-Slip 2'x6' Area Rug](https://www.garvee.com/products/garvee-modern-abstract-area-rug-5x7-pho-0zgqmonv): Discover the GARVEE Runner Rug: a washable, stain-resistant, and non-slip rug crafted from premium materials, perfect for any indoor space. Order now!
-  Updated: 2025-11-11T04:23:30Z
+  Updated: 2025-11-11T10:12:42Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -10823,7 +10837,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71BisKrDZSL.jpg?v=1719384758
   Price: $858.99 USD
 - [GARVEE 9x12 Area Rug - Modern Abstract Design](https://www.garvee.com/products/garvee-9x12-area-rug-large-modern-abstract-machine-washable-area-rug-for-living-room-contemporary-non-slip-stain-resistant-accent-rug-carpet-for-dining-room-office-bedroom-decoration-blue-yellow-garvee): Transform your space with the GARVEE 9x12 Area Rug. This machine washable, non-slip rug features a stunning abstract design, stain resistance, and durability, perfect for any room.
-  Updated: 2025-11-11T04:23:31Z
+  Updated: 2025-11-11T09:30:42Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -10837,7 +10851,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61sI3xECNML.jpg?v=1719384908
   Price: $60.99 USD
 - [GARVEE Heavy Duty Log Lifting Tongs - 36" 4 Claw Grapple](https://www.garvee.com/products/log-lifting-tongs-4-claw-pho-0zj3-sold-out-1): Transform your logging with GARVEE's 36" Heavy Duty Log Grapple. Featuring eagle claw design for secure grip, it handles logs up to 36" with ease.
-  Updated: 2025-11-11T05:01:41Z
+  Updated: 2025-11-11T12:00:18Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Log Tongs
   Availability: Available
@@ -10886,7 +10900,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71jfZ7wAjAL.jpg?v=1727497229
   Price: $97.99 USD
 - [GARVEE Large Storage Wine Cabinet - Multifunctional and Stylish](https://www.garvee.com/products/garvee-large-storage-wine-cabinet-with-pho-0wlqb0w4): Discover the GARVEE Large Storage Wine Cabinet, perfect for indoor living and dining areas. Its multifunctional design offers ample storage for wine and accessories.
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T08:06:37Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Wine Cabinets & Racks
   Availability: Available
@@ -10977,7 +10991,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rVjH7wC8L.jpg?v=1719384817
   Price: $199.99 USD
 - [Garvee Ride - P Series: 12V Kids Electric Vehicles with Remote Control Spring Suspension, LED Lights, Bluetooth, 2 Speeds - Pink](https://www.garvee.com/products/garvee-ride-on-truck-car-12v-pto-0y54cgzo): The GARVEE Ride on Truck is perfect for indoor and outdoor adventures, offering multi-functional fun with remote control, Bluetooth, and spring suspension.
-  Updated: 2025-11-11T04:31:02Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
@@ -11124,7 +11138,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/7144nqw9EdL.jpg?v=1719384687
   Price: $80.99 USD
 - [Garvee 36V Kids Electric Dirt Bike 500W Motor Ages 8-16 Max Speed 15.5MPH](https://www.garvee.com/products/garvee-36v-kids-electric-dirt-bike-pto-0ykgdv6c): Discover the GARVEE 36V Kids Electric Dirt Bike, perfect for outdoor fun! With a powerful motor, it offers versatile use for various terrains and thrilling rides.
-  Updated: 2025-11-10T22:01:41Z
+  Updated: 2025-11-11T08:16:27Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Motorcycles
   Availability: Available
@@ -11488,7 +11502,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71P4L_DnC4L.jpg?v=1719387428
   Price: $453.99 USD
 - [GARVEE 7.5 QT Professional Electric Stand Mixer - Versatile Kitchen Mixer](https://www.garvee.com/products/garvee-mc1-660w-mixer-7-5qt-pho-0pqzfl52): Elevate your cooking experience with the GARVEE 7.5 QT Electric Stand Mixer. Ideal for both indoor and outdoor use, it offers 10-speed versatility for all your culinary needs.
-  Updated: 2025-11-10T17:37:37Z
+  Updated: 2025-11-11T10:15:05Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Preparation Equipment > Commercial Mixers
   Availability: Available
@@ -11656,7 +11670,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61OJlDE6MKL_a99e0352-4ce0-40db-a793-2dc2ac5205c0.jpg?v=1731410329
   Price: $144.99 USD
 - [GARVEE 12.7 Qts Electric Wax Melter - Ideal for Candle Making](https://www.garvee.com/products/garvee-5qt-large-electric-wax-melter-pho-0wvbsyzk): Experience quick melting with GARVEE's 12.7 Qts Electric Wax Melter. Featuring precise temperature control, safety features, and easy-clean stainless steel design.
-  Updated: 2025-11-10T04:31:09Z
+  Updated: 2025-11-11T10:31:48Z
   Vendor: Garvee
   Product Type: Arts & Crafts & Sewing > Jewelry Making & Repair > Melting Furnace
   Availability: Available
@@ -11719,21 +11733,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rR9eNb6xL.jpg?v=1719387441
   Price: $317.99 USD
 - [GARVEE 9QT Electric Chafing Dish - Perfect for Catering and Events](https://www.garvee.com/products/garvee-9qt-stainless-steel-electric-chafing-pis-00pkgy3y): Elevate your indoor and outdoor events with the GARVEE Electric Chafing Dish. Its versatile design and precise temperature control make it ideal for catering, parties, and buffets.
-  Updated: 2025-11-11T02:08:52Z
+  Updated: 2025-11-11T11:25:57Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61xxtseqjJL.jpg?v=1738845139
   Price: $94.99 USD
 - [GARVEE 9QT Electric Chafing Dish Set for Versatile Catering](https://www.garvee.com/products/garvee-electric-chafer-set-temp-control-pis-00p9mewa): Discover the GARVEE 9QT Electric Chafing Dish Set, perfect for indoor and outdoor events. Its adjustable temperature and durable design make it ideal for catering and parties.
-  Updated: 2025-11-11T00:39:27Z
+  Updated: 2025-11-11T08:30:31Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61BBxg6F8jL_cfd35d70-12d0-4be0-bde8-ca1c3dcfb8e7.webp?v=1760610249
   Price: $105.97 USD
 - [Garvee 9.5QT(2×1/2Pan)Electric Chafing Dish with Temperature Control, Stainless Steel Buffet Servers and Warmers, Electric Chafing Dish Set with Temperature Control for Catering](https://www.garvee.com/products/garvee-electric-chafer-set-temp-control-pis-00p94893): Perfect for indoor and outdoor events, this multi-functional electric chafing dish offers temperature control and a large capacity, ideal for catering, parties, and buffets.
-  Updated: 2025-11-11T04:30:57Z
+  Updated: 2025-11-11T09:05:30Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
@@ -11887,7 +11901,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710bisEzQTL.jpg?v=1719387261
   Price: $213.99 USD
 - [GARVEE BBQ Access Door Grill Door - Versatile Outdoor Kitchen Solution](https://www.garvee.com/products/garvee-bbq-access-door-grill-door-pho-0zjm8kk0): Enhance your indoor/outdoor kitchen with the GARVEE BBQ Access Door. This durable, stainless steel door is perfect for various barbecue setups and outdoor cooking.
-  Updated: 2025-11-07T04:31:00Z
+  Updated: 2025-11-11T11:27:39Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Outdoor Kitchen Door
   Availability: Available
@@ -12069,49 +12083,49 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81M8F31gX2L.jpg?v=1737450957
   Price: $129.99 USD
 - [GARVEE Fluffy Area Rugs - Modern Plush Faux Fur Shag Rug](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2znsv): Discover the GARVEE Fluffy Area Rug, featuring a soft faux fur design, non-slip backing, and easy maintenance. Perfect for any room, including kids' nurseries!
-  Updated: 2025-11-11T04:31:07Z
+  Updated: 2025-11-11T09:30:44Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407295785592610_26d78e3e-9e9e-42e2-9406-2756adfd20b0.jpg?v=1755240566
   Price: $91.99 USD
 - [GARVEE Shag Area Rug - Plush & Fluffy for Kids & Living Rooms](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw219w3): Transform your space with the GARVEE Shag Area Rug. Ultra-soft faux fur, non-slip backing, and fade-resistant design make it perfect for any indoor area.
-  Updated: 2025-11-11T04:31:06Z
+  Updated: 2025-11-11T09:30:45Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51Ba3hq_M4L_9bc2ed2f-5bc2-4d2a-a270-f8e3bcefdfe7.jpg?v=1719387530
   Price: $71.99 USD
 - [GARVEE 9x12 Fluffy Area Rug - Soft, Stylish, and Easy to Clean for Your Home](https://www.garvee.com/products/garvee-9x12-fluffy-area-rugs-pho-0pw21qzi): Transform your space with GARVEE's 9x12 Fluffy Area Rug. Made from safe, durable materials, this low-pile rug is perfect for any room, easy to clean, and adds a modern touch.
-  Updated: 2025-11-11T04:31:03Z
+  Updated: 2025-11-11T09:30:46Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91iIu72T0iL_c0fd151b-a7cd-47bc-a6f1-d741d5504354.jpg?v=1719387535
   Price: $104.99 USD
 - [GARVEE Fluffy Area Rugs - Modern Plush Non-Slip Design](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw21vbs): Transform your space with GARVEE's plush, dark gray shag rug. Soft, non-slip, and easy to clean, it's perfect for living rooms or nurseries. Enjoy comfort and style!
-  Updated: 2025-11-11T04:23:36Z
+  Updated: 2025-11-11T10:12:43Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81gdy-6GchL.jpg?v=1719387532
   Price: $40.99 USD
 - [GARVEE 2x8 Pink Runner Rug - Soft, Non-Slip, and Easy to Clean](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw23kx4): Discover the GARVEE 2x8 Pink Runner Rug, featuring a non-slip design, soft polyester material, and easy maintenance, perfect for any indoor space.
-  Updated: 2025-11-11T04:23:37Z
+  Updated: 2025-11-11T10:12:45Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CmdrKG2PL.jpg?v=1748570770
   Price: $40.99 USD
 - [GARVEE Fluffy Area Rugs for Living Room - Modern Plush Faux Fur Shag Rug](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-room-9-x-12-modern-plush-and-thick-faux-fur-shag-rug-non-slip-tie-dye-carpet-for-bedroom-fuzzy-shaggy-rugs-for-kids-nursery-dorm-black-9-x-12-feet-garvee): Transform your space with GARVEE's 9' x 12' plush faux fur rug. Soft, stain-resistant, and non-slip, it's perfect for kids and pets, adding comfort and style.
-  Updated: 2025-11-11T04:30:57Z
+  Updated: 2025-11-11T09:30:50Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81n6pFxXBYL_7c450cf2-1ee3-497a-8b46-66e42eae9561.jpg?v=1719387552
   Price: $99.99 USD
 - [GARVEE Luxury Large Area Rug - Soft, Non-Shedding, Anti-Slip](https://www.garvee.com/products/garvee-luxury-large-area-rug-9-12-shaggy-area-rug-fluffy-carpet-for-bedroom-modern-area-rug-tie-dyed-area-rugs-for-living-room-nursery-non-shedding-soft-rug-non-slip-floor-carpet-navy-garvee): Discover the GARVEE Luxury Large Area Rug, featuring ultra-soft, non-shedding polyester, perfect for any room. Enjoy its anti-slip design and easy maintenance!
-  Updated: 2025-11-11T04:39:03Z
+  Updated: 2025-11-11T09:30:53Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12125,42 +12139,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AMtWOjDQL.jpg?v=1719387552
   Price: $58.99 USD
 - [GARVEE Shag Rug: Soft, Non-Slip, and Easy to Clean Area Rug for Modern Homes](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw29vs0): Discover the GARVEE Shag Rug, a plush, non-slip area rug made from soft polyester. Ideal for bedrooms and living rooms, it's easy to clean and adds modern elegance.
-  Updated: 2025-11-11T04:23:43Z
+  Updated: 2025-11-11T10:12:46Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407298774419119.jpg?v=1755849497
   Price: $36.99 USD
 - [Garvee Fluffy & Sheepskin Light Grey 2x8 Area Rug for Living Room Plush Shag Rugs for Bedroom Nursery Room Soft Shaggy Rug Anti-Slip Kids Playroom Fuzzy Rugs for Dining Room Decor Floor Carpet](https://www.garvee.com/products/garvee-fluffy-area-rugs-light-grey-pho-0pw2afwk): GARVEE large fluffy light grey 2x8 area rug offers plush shag comfort and anti-slip backing, perfect for living rooms, bedrooms, nurseries, or kids' playrooms. Soft, fuzzy, and stylish, this rug adds cozy elegance to dining rooms and home décor!
-  Updated: 2025-11-11T04:23:44Z
+  Updated: 2025-11-11T10:12:47Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407298879952322.jpg?v=1751255893
   Price: $39.99 USD
 - [GARVEE Fluffy Faux Fur Area Rug - Modern Tie Dye Design](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2bgli): Transform your space with GARVEE's 6' x 9' faux fur area rug. Its thick, soft texture and non-slip backing ensure comfort and safety in any room.
-  Updated: 2025-11-11T04:23:45Z
+  Updated: 2025-11-11T09:30:58Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rO5OvcccL._AC_SL1500.jpg?v=1741748866
   Price: $73.99 USD
 - [GARVEE Fluffy Area Rug - Soft, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2cdet): Experience luxury with GARVEE's 6' x 9' fluffy area rug. Its ultra-soft faux fur and anti-skid backing ensure comfort and safety, perfect for any indoor space.
-  Updated: 2025-11-11T04:23:46Z
+  Updated: 2025-11-11T09:30:59Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91pHD4_W4BS.jpg?v=1719387323
   Price: $73.99 USD
 - [Fluffy Area Rugs - Modern Plush Non-Slip Shag Rug | GARVEE](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2cltm): Transform your space with GARVEE's 6x9 ft fluffy area rug. Soft, non-slip, and easy to clean, it adds comfort and style to any room.
-  Updated: 2025-11-11T04:23:47Z
+  Updated: 2025-11-11T09:30:59Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71LkEecirQL.jpg?v=1719387573
   Price: $69.99 USD
 - [GARVEE Fluffy Fur Rug - Soft, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2da3s): Transform your space with the GARVEE Fluffy Fur Rug. This 5x8 ft plush shag rug features a non-slip backing, ultra-soft faux fur, and a unique tie-dye pattern, perfect for any indoor room.
-  Updated: 2025-11-11T04:23:50Z
+  Updated: 2025-11-11T09:31:02Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12174,49 +12188,49 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QrPIvs5BL.jpg?v=1719387549
   Price: $70.99 USD
 - [GARVEE Large Fluffy Area Rug - Soft, Stylish, and Non-Slip](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2eeq9): Transform your space with GARVEE's 6x9 ft navy shag rug. Its ultra-soft faux fur, anti-slip backing, and vibrant tie-dye design add comfort and style to any room.
-  Updated: 2025-11-11T04:23:51Z
+  Updated: 2025-11-11T09:31:03Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81cmVN0aLOL_1726ab59-313f-4cf8-9305-c8cb15720fc8.jpg?v=1727662510
   Price: $74.99 USD
 - [GARVEE Fluffy Fur Rug - Soft, Non-Slip, Easy to Clean](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2eig8): Transform your space with GARVEE's plush shag area rug. Soft, skin-friendly polyester, non-slip backing, and easy maintenance make it perfect for any room.
-  Updated: 2025-11-11T04:23:51Z
+  Updated: 2025-11-11T10:12:50Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/515qTkPGYYL.jpg?v=1727662566
   Price: $41.99 USD
 - [GARVEE Area Rug 2x6 Runner - Plush, Non-Slip, and Easy to Clean](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2i8zb): Enhance your home with the GARVEE 2x6 Runner Rug. Made from safe, soft microfiber, this low-pile rug is perfect for any room and easy to maintain.
-  Updated: 2025-11-11T04:23:54Z
+  Updated: 2025-11-11T10:12:51Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407298877861326_d043a14e-d700-4e2f-81e0-a0696987c193.jpg?v=1755849430
   Price: $39.99 USD
 - [GARVEE Shag Area Rug - Soft, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2iqvn): Discover the GARVEE Shag Area Rug in Dark Navy. Its ultra-soft faux fur and anti-skid backing ensure comfort and safety, perfect for any indoor space.
-  Updated: 2025-11-11T04:31:00Z
+  Updated: 2025-11-11T09:31:07Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51Nnt3UePpL.jpg?v=1719387458
   Price: $61.99 USD
 - [GARVEE Large Area Rugs - Soft, Cozy, and Non-Slip for Your Home](https://www.garvee.com/products/garvee-large-area-area-rugs-9x12-large-area-living-room-under-100-rugs-for-bedroom-carpet-fuzzy-rug-soft-rugs-for-bedroom-decor-blue-garvee): Transform your space with GARVEE's 9x12 large area rug. Made from soft microfiber, it offers a cozy touch, non-slip backing, and is perfect for any room.
-  Updated: 2025-11-11T04:23:56Z
+  Updated: 2025-11-11T09:31:08Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1679623042127.jpg?v=1749450350
   Price: $107.99 USD
 - [Garvee Shag Area Rug - Soft, Thick, and Non-Slip for Kids and Pets](https://www.garvee.com/products/garvee-shag-area-rug-9x12-soft-thick-fuzzy-area-rug-plush-large-area-rug-for-playroom-fluffy-area-rug-shaggy-floor-carpet-for-bedroom-nursery-kids-room-light-grey-9-12-garvee): Discover the GARVEE Shag Area Rug, a plush, non-slip carpet perfect for playrooms and bedrooms. Its stain-resistant design ensures safety and easy cleaning.
-  Updated: 2025-11-11T04:23:57Z
+  Updated: 2025-11-11T09:31:09Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407295785592610_e89fca4e-b12a-4507-b2d7-d790d889c3f7.jpg?v=1757383622
   Price: $105.99 USD
 - [GARVEE Shag Rug - Plush Non-Slip Area Rug for Modern Homes](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2lbe2): Experience ultimate comfort with the GARVEE Shag Rug. Soft, fluffy, and non-slip, this 5x8 rug is perfect for any indoor space and easy to clean.
-  Updated: 2025-11-11T04:31:04Z
+  Updated: 2025-11-11T09:31:09Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12230,14 +12244,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81L_VZkjPUL.jpg?v=1719387444
   Price: $69.99 USD
 - [GARVEE 8x10 Area Rugs - Plush, Non-Slip, and Stylish for Any Room](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2lqzp): Discover the GARVEE 8x10 Area Rug, featuring a non-slip design, plush texture, and stain resistance. Perfect for homes with kids and pets, enhancing any space.
-  Updated: 2025-11-11T04:26:18Z
+  Updated: 2025-11-11T09:31:10Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rO5OvcccL._AC_SL1500.jpg?v=1741748866
   Price: $91.99 USD
 - [GARVEE Area Rug - Stylish & Non-Slip Runner for Home](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2lz67): Discover the GARVEE 2x6 Runner Rug, crafted from safe, soft polyester. Its low-pile design ensures easy cleaning and seamless fit under furniture, perfect for any room.
-  Updated: 2025-11-11T04:23:59Z
+  Updated: 2025-11-11T10:12:52Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12258,7 +12272,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41BSDbbHvRL.jpg?v=1719387465
   Price: $59.99 USD
 - [GARVEE Large Area Rugs - Soft, Modern, and Easy to Clean](https://www.garvee.com/products/garvee-large-area-area-rugs-9x12-large-area-living-room-under-100-rugs-for-bedroom-carpet-fuzzy-rug-soft-rugs-for-bedroom-decor-grey-garvee): Enhance your home with GARVEE's 9x12 area rug, crafted from safe, non-toxic materials. This low-pile, machine washable rug is perfect for any room decor.
-  Updated: 2025-11-11T04:23:59Z
+  Updated: 2025-11-11T09:31:12Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12272,7 +12286,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8185tQtaOjL.jpg?v=1719387554
   Price: $87.99 USD
 - [GARVEE 2x8 Runner Rugs - Soft, Durable, and Stylish for Any Room](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2tro4): Transform your space with GARVEE's 2x8 runner rug, crafted from safe, soft polyester. Its low pile design ensures easy cleaning and seamless placement under furniture.
-  Updated: 2025-11-11T04:24:01Z
+  Updated: 2025-11-11T10:12:53Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12286,7 +12300,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8185tQtaOjL_04352cf0-2f42-40ce-a03d-e7b7c3d74137.jpg?v=1719387582
   Price: $106.99 USD
 - [GARVEE Fluffy Area Rug - Soft, Non-Shedding, Anti-Slip Carpet for Home Decor](https://www.garvee.com/products/garvee-fluffy-area-rugs-for-living-pho-0pw2vael): Experience the ultimate comfort with GARVEE's soft faux fur area rug. Non-slip, easy to clean, and perfect for kids' playrooms and dining rooms.
-  Updated: 2025-11-11T04:24:02Z
+  Updated: 2025-11-11T10:12:53Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -12349,77 +12363,77 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/618CxkySuYL.jpg?v=1719387361
   Price: $102.99 USD
 - [GARVEE Machine Washable Area Rug - Stylish & Durable 5x7 Boho Design](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vej092y): Transform your space with the GARVEE 5x7 machine washable area rug. Its stylish Moroccan design, low pile, and non-slip features ensure durability and safety.
-  Updated: 2025-11-11T04:24:03Z
+  Updated: 2025-11-11T09:31:15Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91t_5NtV0xL_78fa33e4-ac1f-4a0b-8fb4-876f12e4aac2.jpg?v=1719387219
   Price: $55.99 USD
 - [GARVEE Large Area Rug 9x12 - Modern Non-Slip & Washable](https://www.garvee.com/products/garvee-large-area-rug-9x12-modern-geometric-floor-cover-non-slip-washable-living-room-rug-boho-indoor-non-shedding-area-rug-bedroom-home-office-kitchen-dining-room-throw-carpet-navy-garvee): Enhance your home with the GARVEE 9x12 area rug featuring a chic Moroccan design, durable low pile, non-slip backing, and easy machine washability.
-  Updated: 2025-11-11T04:24:04Z
+  Updated: 2025-11-11T09:31:16Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91eDq3SXz2L_9144a7fd-dc45-4a6b-81de-7b14319f17b9.jpg?v=1719387387
   Price: $123.99 USD
 - [Stylish GARVEE Geometric Boho Round Rug - Non-Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vej2f69): Discover the GARVEE Geometric Boho Round Rug, featuring a stylish design, non-slip backing, and easy machine washability. Perfect for family and pets!
-  Updated: 2025-11-11T04:24:05Z
+  Updated: 2025-11-11T10:12:55Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91h8w3DBuWL.jpg?v=1719387491
   Price: $30.99 USD
 - [GARVEE Modern Geometric Area Rug 8x10 - Stylish & Non-Slip](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vej2t9u): Enhance your space with the GARVEE 8x10 area rug, featuring a modern geometric design, non-slip backing, and easy machine wash for family-friendly living.
-  Updated: 2025-11-11T04:24:06Z
+  Updated: 2025-11-11T09:31:18Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91gbD5qE6hL_94b2552a-a2d5-4b52-aa0a-8b491dd2d68c.jpg?v=1761034079
   Price: $74.99 USD
 - [Stylish GARVEE Moroccan Runner Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vej3e16): Enhance your home with the GARVEE Moroccan Runner Rug. This low-pile, machine-washable rug features a chic design, anti-slip backing, and durable polyester material.
-  Updated: 2025-11-11T04:24:07Z
+  Updated: 2025-11-11T10:12:56Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81s7zat-cOL_363182e4-5779-4562-b332-02633636ba21.jpg?v=1719387264
   Price: $57.99 USD
 - [Stylish GARVEE Runner Rug - Moroccan Design, Non-Slip, Washable](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vej4psu): Discover the GARVEE Runner Rug with a chic Moroccan design, non-slip backing, and machine washable features. Perfect for any indoor space, durable and stylish!
-  Updated: 2025-11-11T04:24:08Z
+  Updated: 2025-11-11T10:12:56Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81a2bhC5U4L_8fdccba3-d516-4d65-9197-6c98f98f06a8.jpg?v=1719387354
   Price: $32.99 USD
 - [Stylish and Functional GARVEE 2x8 Long Hallway Runner Rug](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vejcntw): Discover the GARVEE 2x8 Long Hallway Runner Rug, featuring a modern boho design, stain resistance, non-slip backing, and machine washable for easy care.
-  Updated: 2025-11-11T04:24:10Z
+  Updated: 2025-11-11T10:12:58Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81zgmEzZoKL.jpg?v=1719387252
   Price: $31.99 USD
 - [GARVEE Black Boho Rug - Stylish, Washable, Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-black-boho-rug-9-x-12-washable-rug-large-area-rug-with-non-slip-backing-for-dining-room-bedroom-low-pile-rug-non-shedding-rugs-for-living-room-home-office-area-rug-black-and-white-garvee): Transform your space with the GARVEE Black Boho Rug. This stylish, machine washable rug features a non-slip backing, low pile design, and is perfect for any room.
-  Updated: 2025-11-11T04:24:11Z
+  Updated: 2025-11-11T09:31:23Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91t_5NtV0xL_b22c0157-cfd0-41af-969e-391b12d1772b.jpg?v=1719387223
   Price: $90.99 USD
 - [GARVEE Washable 5x7 Area Rug - Stylish, Non-Slip, Family-Friendly](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vejjij4): Discover the GARVEE Washable 5x7 Area Rug, featuring a modern geometric design, non-slip backing, and easy machine washability, perfect for family and pet-friendly homes.
-  Updated: 2025-11-11T04:24:12Z
+  Updated: 2025-11-11T09:31:24Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jyPUC1s0L_9eb6b280-49a5-48e5-b11e-d7a56e087f2e.jpg?v=1719387395
   Price: $44.99 USD
 - [Discover the GARVEE Moroccan Area Rug - Soft, Durable, and Stylish](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vejory9): Elevate your space with the GARVEE Moroccan Area Rug. Made of premium chenille, it's soft, machine washable, and non-slip, perfect for any indoor room.
-  Updated: 2025-11-11T04:31:03Z
+  Updated: 2025-11-11T09:31:28Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91t_5NtV0xL.jpg?v=1719387215
   Price: $39.99 USD
 - [GARVEE Boho Area Rug - Stylish and Functional](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vejwgxw): Discover the GARVEE Boho Area Rug, featuring a stain-resistant, non-slip design. Perfect for any room, it's machine washable and adds a modern touch to your decor.
-  Updated: 2025-11-11T04:24:20Z
+  Updated: 2025-11-11T10:13:04Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -12433,56 +12447,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Yxqf8iAiL.jpg?v=1719387207
   Price: $48.99 USD
 - [Stylish GARVEE Runners - Washable Blue and White Geometric Rug](https://www.garvee.com/products/garvee-boho-machine-washable-area-rug-pho-0vejxn4n): Discover the GARVEE Runners: a chic, washable rug featuring a non-slip design, low pile for durability, and elegant Moroccan patterns. Perfect for any room!
-  Updated: 2025-11-11T04:31:01Z
+  Updated: 2025-11-11T10:13:04Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91eDq3SXz2L_b89d57da-2fd7-416e-8ac3-46f70a5f7633.jpg?v=1719387514
   Price: $41.99 USD
 - [GARVEE Bohemian Area Rug Runner 2x6 - Stylish, Non-Slip, Washable](https://www.garvee.com/products/garvee-bohemian-floral-medallion-area-rug-pho-0yzm88s0): Transform your space with the GARVEE Bohemian Area Rug Runner. Soft, stain-resistant, and non-slip, it's perfect for busy areas. Machine washable for easy care!
-  Updated: 2025-11-11T04:24:23Z
+  Updated: 2025-11-11T10:13:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91t3Wo6qSsL.jpg?v=1719387206
   Price: $28.99 USD
 - [GARVEE Washable Area Rug - Soft, Stylish, and Stain-Resistant](https://www.garvee.com/products/garvee-washable-area-rug-9x12-large-boho-living-room-rug-large-indoor-rugs-soft-oriental-rug-vintage-rugs-non-slip-backing-stain-resistant-rug-for-farmhouse-nursery-9x12-garvee): Transform your space with the GARVEE 9x12 Boho Area Rug. Soft, machine washable, and stain-resistant, it's perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:24:25Z
+  Updated: 2025-11-11T09:31:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/515p2lSepbL.jpg?v=1719387510
   Price: $148.99 USD
 - [GARVEE Washable Area Rug 8x10 - Bohemian Style & Non-Slip Design](https://www.garvee.com/products/garvee-bohemian-floral-medallion-area-rug-pho-0yzmm0xr): Enhance your space with the GARVEE 8x10 Bohemian rug. Soft, machine washable, stain-resistant, and non-slip, it’s perfect for living rooms and bedrooms.
-  Updated: 2025-11-11T04:24:27Z
+  Updated: 2025-11-11T09:31:40Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91oLkPAdLzL_547d9d89-e09a-4343-bf6b-13c96527327a.jpg?v=1719387473
   Price: $120.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Stylish, and Durable](https://www.garvee.com/products/garvee-bohemian-floral-medallion-area-rug-pho-0yzmoroz): Discover the GARVEE Vintage Washable Area Rug, featuring a soft faux wool design, stain resistance, and non-slip backing. Perfect for any indoor space!
-  Updated: 2025-11-11T04:24:27Z
+  Updated: 2025-11-11T09:31:40Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uLkkeDt4L_c4802619-f449-493f-99f7-4bac31a05bc6.jpg?v=1719387214
   Price: $67.99 USD
 - [GARVEE Bohemian Washable Area Rug 5x7 - Stylish & Functional](https://www.garvee.com/products/garvee-bohemian-floral-medallion-area-rug-pho-0yzmp4ie): Transform your space with the GARVEE Bohemian 5x7 Area Rug. Soft, machine washable, non-slip, and stain-resistant, it's perfect for busy homes and adds a cozy touch.
-  Updated: 2025-11-11T04:24:28Z
+  Updated: 2025-11-11T09:31:41Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uLkkeDt4L.jpg?v=1719387203
   Price: $79.99 USD
 - [GARVEE Washable Boho Area Rug 9x12 - Soft, Stain-Resistant & Non-Slip](https://www.garvee.com/products/garvee-washable-boho-area-rug-9x12-large-bedroom-living-room-large-indoor-rugs-soft-oriental-vintage-rugs-non-slip-backing-stain-resistant-rug-for-farmhouse-nursery-blue-9x12-garvee): Transform your space with the GARVEE 9x12 Boho Area Rug. Soft faux wool, stain-resistant, machine washable, and non-slip backing make it perfect for busy homes.
-  Updated: 2025-11-11T04:24:29Z
+  Updated: 2025-11-11T09:31:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91oLkPAdLzL_56c587d0-d79c-4ded-b734-ac41e4e22acb.jpg?v=1719387606
   Price: $122.99 USD
 - [GARVEE Bohemian Area Rug Runner - Soft, Washable & Non-Slip](https://www.garvee.com/products/garvee-bohemian-floral-medallion-area-rug-pho-0yzmy4z7): Enhance your space with the GARVEE Bohemian Area Rug Runner. This pink, machine-washable rug features a soft, plush design, stain resistance, and non-slip backing for safety.
-  Updated: 2025-11-11T04:24:31Z
+  Updated: 2025-11-11T10:13:07Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -12496,7 +12510,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Ir_o5jzrL.jpg?v=1736850856
   Price: $430.99 USD
 - [GARVEE 5x8 Boho Tribal Area Rug - Non-Shedding & Fluffy](https://www.garvee.com/products/garvee-area-rug-5x8-bedroom-area-rug-large-area-rug-boho-tribal-area-rug-non-shedding-high-low-pile-fluffy-rug-moroccan-accent-carpet-rug-for-living-room-bedroom-nursery-ivory-9-x-12-feet-garvee): Transform your space with the GARVEE 5x8 Area Rug. This non-shedding, fluffy rug features a unique high-low pile for added texture and is perfect for any room.
-  Updated: 2025-11-11T04:24:37Z
+  Updated: 2025-11-11T09:31:49Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
@@ -12664,7 +12678,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71X59si-9FL_bca172a6-43b8-4a43-a3af-c99717d54391.jpg?v=1719387988
   Price: $142.99 USD
 - [GARVEE 6x9 Grey Vintage Distressed Area Rug - Soft & Machine Washable](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1fsus): Discover the GARVEE 6x9 Grey Vintage Area Rug, crafted from premium polyester. This non-slip, machine washable rug enhances any room with its elegant paisley design.
-  Updated: 2025-11-11T04:24:42Z
+  Updated: 2025-11-11T09:31:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -12685,84 +12699,84 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1_52db059c-0305-4797-b40a-bb755c043951.jpg?v=1762237329
   Price: $339.99 USD
 - [GARVEE Vintage Taupe Area Rug - Machine Washable, Non-Slip, Lightweight](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-washable-rug-for-bedroom-living-room-indoor-floor-cover-foldable-lightweight-thin-rug-distressed-carpet-non-slip-chenille-rug-taupe-9x12-garvee): Elevate your space with the GARVEE Vintage Taupe Area Rug. This lightweight, machine washable rug features a non-slip design, perfect for any indoor setting.
-  Updated: 2025-11-11T04:31:04Z
+  Updated: 2025-11-11T09:31:56Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1678346827131.jpg?v=1753775839
   Price: $109.99 USD
 - [GARVEE 6x9 Blue Vintage Distressed Area Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1kdx4): Enhance your home with the GARVEE 6x9 Blue Vintage Area Rug. Made from premium polyester, it's soft, machine washable, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:24:45Z
+  Updated: 2025-11-11T09:31:57Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zJ-SDVr0L_d4ebc3f7-cd55-4001-a027-76ff7dd32c15.jpg?v=1719388004
   Price: $90.99 USD
 - [GARVEE Runner Rug - Soft, Washable, and Non-Slip Vintage Design for Hallways](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1keuc): Discover the GARVEE Runner Rug: a soft, machine washable, non-slip rug featuring a classic paisley design. Perfect for high traffic areas, stylish and durable!
-  Updated: 2025-11-11T04:24:45Z
+  Updated: 2025-11-11T10:13:13Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tmdWrsbpL_34bd1163-e6ad-486c-8d74-e59f1027ca38.jpg?v=1719388080
   Price: $25.99 USD
 - [GARVEE Vintage Rug 2x8 - Soft Chenille Non-Slip Runner](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1lx3r): Enhance your home with the GARVEE Vintage Rug. Made of premium soft chenille, this non-slip, washable runner features a beautiful floral design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:24:46Z
+  Updated: 2025-11-11T10:13:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81lM2064QUL.jpg?v=1719387981
   Price: $48.99 USD
 - [GARVEE Vintage Rug - Soft Velvet, Washable, Stain Resistant, Perfect for Living Room](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1mtq1): Discover the GARVEE Vintage Rug, an 8x10 soft velvet area rug in blue. Machine washable, stain resistant, and perfect for any room. Enjoy free shipping!
-  Updated: 2025-11-11T04:24:47Z
+  Updated: 2025-11-11T09:31:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zJ-SDVr0L_37de234c-7ccf-416e-bb1d-71198208a762.jpg?v=1719388079
   Price: $109.99 USD
 - [GARVEE 4x6 Washable Grey Vintage Area Rug - Soft, Non-Slip & Stylish](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1ndic): Discover the GARVEE 4x6 Washable Area Rug, crafted from premium polyester. Its non-slip backing and classic design enhance any room while ensuring easy maintenance.
-  Updated: 2025-11-11T04:24:48Z
+  Updated: 2025-11-11T09:32:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91o1onPNt7L_c75c448e-ab69-4c3f-a599-3df23f64ca39.jpg?v=1719388021
   Price: $58.99 USD
 - [GARVEE Vintage Machine Washable Area Rug - Blue 2'x6'](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1pief): Discover the GARVEE Vintage Area Rug: lightweight, non-slip, and machine washable. Perfect for your living room or bedroom with a stylish floral design.
-  Updated: 2025-11-11T04:24:48Z
+  Updated: 2025-11-11T10:13:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91s_OoFv-kL.jpg?v=1719387983
   Price: $43.99 USD
 - [GARVEE 9x12 Machine Washable Area Rug - Blue Vintage Design](https://www.garvee.com/products/garvee-area-rug-9x12-machine-washable-area-rug-blue-vintage-distressed-area-rugs-indoor-floor-cover-carpet-rug-soft-velvet-mat-foldable-accent-rug-for-living-room-dining-room-9-x-12-blue-garvee): Discover the GARVEE 9x12 Area Rug, crafted from premium polyester for durability. Its non-slip, washable design and classic paisley pattern enhance any room effortlessly.
-  Updated: 2025-11-11T04:31:08Z
+  Updated: 2025-11-11T09:32:01Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1699575581863.jpg?v=1745379521
   Price: $127.99 USD
 - [GARVEE 9x12 Machine Washable Area Rug - Soft Velvet, Non-Slip, Vintage Design](https://www.garvee.com/products/garvee-area-rug-9x12-machine-washable-area-rug-grey-vintage-distressed-area-rugs-indoor-floor-cover-carpet-rug-soft-velvet-mat-foldable-accent-rug-for-living-room-dining-room-9-x-12-grey-garvee): Discover the GARVEE 9x12 Area Rug, crafted from premium polyester, machine washable, and featuring a non-slip backing. Perfect for high traffic areas!
-  Updated: 2025-11-11T04:24:50Z
+  Updated: 2025-11-11T09:32:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91o1onPNt7L_efbce7bf-c863-44ea-9044-a26daed6e3b6.jpg?v=1719388031
   Price: $134.99 USD
 - [GARVEE Vintage Rug 8x10 - Soft, Machine Washable, Non-Slip Grey Area Rug](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1symc): Discover elegance with GARVEE's 8x10 vintage rug. Made from premium polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:24:51Z
+  Updated: 2025-11-11T09:32:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91o1onPNt7L_1ef2237b-2ea8-44a6-be9c-41cd3ab9f10c.jpg?v=1719388078
   Price: $99.99 USD
 - [GARVEE Runner Rug - Stylish & Machine Washable](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1wmit): Discover the GARVEE Runner Rug, made from premium polyester with a non-slip backing. This vintage paisley rug is machine washable, perfect for high traffic areas.
-  Updated: 2025-11-11T04:24:53Z
+  Updated: 2025-11-11T10:13:16Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91s_OoFv-kL_f6e84676-df3a-4636-9235-064d4d4a9971.jpg?v=1719388136
   Price: $48.99 USD
 - [GARVEE 5x7 Grey Vintage Distressed Area Rug - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-area-rug-vintage-rug-machine-pho-0xt1wqd4): Discover the GARVEE 5x7 Grey Vintage Distressed Area Rug, crafted from premium polyester, machine washable, and non-slip for safety. Perfect for any room!
-  Updated: 2025-11-11T04:24:54Z
+  Updated: 2025-11-11T09:32:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -12776,21 +12790,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71vZadEXT3L.jpg?v=1723434674
   Price: $230.99 USD
 - [GARVEE Area Rug - Modern Abstract Design](https://www.garvee.com/products/garvee-area-rug-living-room-3x5-pho-0xt4050j): Elevate your space with GARVEE's 5x7 modern abstract area rug. Soft chenille, low pile, and anti-slip, it's perfect for high traffic areas. Machine washable and foldable for easy storage.
-  Updated: 2025-11-11T04:24:55Z
+  Updated: 2025-11-11T09:32:07Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81xam5yl5NL_657f04be-2efb-40ff-8a8c-eaf2fe079ef8.jpg?v=1719388048
   Price: $43.99 USD
 - [GARVEE Kitchen Rug - Modern Abstract Design, Washable & Non-Slip](https://www.garvee.com/products/garvee-area-rug-living-room-3x5-pho-0xt43ofk): Discover the GARVEE Kitchen Rug: a stylish, washable runner with anti-slip backing, perfect for homes with kids and pets. Enjoy comfort and elegance in any space!
-  Updated: 2025-11-11T04:24:56Z
+  Updated: 2025-11-11T10:13:17Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81uLB89GqsL.jpg?v=1719387996
   Price: $28.99 USD
 - [GARVEE Modern Abstract Area Rug - Washable & Non-Slip](https://www.garvee.com/products/garvee-area-rug-living-room-3x5-pho-0xt4b4nl): Discover the GARVEE Living Room Rug, made of premium polyester for comfort and durability. Its anti-slip backing ensures safety, while the washable design makes maintenance easy.
-  Updated: 2025-11-11T04:24:59Z
+  Updated: 2025-11-11T09:32:11Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -12818,7 +12832,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/575311701418297_144b0cde-038e-4652-aa88-5a1d400df620.jpg?v=1752223626
   Price: $272.99 USD
 - [GARVEE Modern Runner Rug - Stylish and Functional Floor Covering](https://www.garvee.com/products/garvee-area-rug-living-room-3x5-pho-0xt4g3lv): Discover the GARVEE Modern Runner Rug: a soft, washable, and anti-slip rug perfect for any room. Its stylish abstract design complements your decor while being child and pet-friendly.
-  Updated: 2025-11-11T04:25:01Z
+  Updated: 2025-11-11T10:13:19Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -13266,7 +13280,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71yQ2Tp186L.jpg?v=1719387955
   Price: $317.99 USD
 - [GARVEE 1450W Espresso Machine - Perfect for Home or Office](https://www.garvee.com/products/garvee-1450w-120v-20-bar-espresso-pho-11bbjwzh): Experience café-quality espresso at home with the GARVEE 1450W Espresso Machine. Ideal for indoor use, it offers multi-functionality for lattes, cappuccinos, and more.
-  Updated: 2025-11-11T05:09:56Z
+  Updated: 2025-11-11T08:53:26Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Beverage Equipment > Coffee Makers
   Availability: Available
@@ -13630,7 +13644,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/535458.png?v=1762839809
   Price: $209.99 USD
 - [Garvee Ride - P Series: 12V Electric Tractor & Trailer for Kids, 3-6 Yrs - With RC - Green / 25W](https://www.garvee.com/products/garvee-12v-electric-tractor-trailer-for-pto-0wmiu89i): Discover the GARVEE 12V Electric Tractor & Trailer, perfect for outdoor adventures! Multi-functional for transporting toys and more, designed for kids aged 3-6.
-  Updated: 2025-11-11T07:21:14Z
+  Updated: 2025-11-11T08:07:33Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Tractors
   Availability: Available
@@ -13903,14 +13917,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51G8NbV7BpL.jpg?v=1727663309
   Price: $197.98 USD
 - [Garvee Bubble Waffle Maker 2800W Commercial Bubble Waffle Maker Machine Non-Stick Egg Waffle Maker Electric Bubble Waffle Baker for Home or Commercial Use](https://www.garvee.com/products/garvee-garveehome-bubble-waffle-maker-2800w-pho-14k9jm5f): Discover the GARVEE Bubble Waffle Maker, perfect for indoor and outdoor use. This versatile machine is ideal for creating delicious bubble waffles for any occasion.
-  Updated: 2025-11-11T07:14:21Z
+  Updated: 2025-11-11T08:09:14Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Cooking Equipment > Commercial Waffle Makers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71T4jEbM2BL.jpg?v=1720080759
   Price: $182.99 USD
 - [GARVEE Bubble Waffle Maker - Versatile for Home & Commercial Use](https://www.garvee.com/products/garvee-garveehome-bubble-waffle-maker-1400w-pho-14k953qd): Create delicious bubble waffles at home or in commercial settings with the GARVEE Bubble Waffle Maker. Perfect for various occasions, it's easy to use and safe!
-  Updated: 2025-11-11T07:16:31Z
+  Updated: 2025-11-11T08:09:14Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Cooking Equipment > Commercial Waffle Makers
   Availability: Available
@@ -13980,14 +13994,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1708221789210.jpg?v=1736851067
   Price: $89.99 USD
 - [Garvee Pressure Washer Power Washer 20 Inch Stainless Steel 4000 PSI Dual Handle 4 Wheels Outdoor Cleaning](https://www.garvee.com/products/garvee-kiarixo-20-pressure-washer-surface-pho-141oxv8b): Experience powerful cleaning with GARVEE's 20" Surface Cleaner. Made of durable stainless steel, it features dual nozzles, adjustable handles, and universal wheels for effortless outdoor cleaning.
-  Updated: 2025-11-11T01:11:21Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Cleaning > Pressure Washers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rmWDi-mQL.jpg?v=1720081094
   Price: $239.99 USD
 - [Garvee 24" Heavy-Duty Pressure Washer Surface Cleaner with Dual Handle 4 Wheels, 3/8" Connector & 2 Nozzles for Driveway Deck Patio Sidewalk Cleaning](https://www.garvee.com/products/garvee-kiarixo-24-pressure-washer-surface-pho-141outib): Effortlessly clean driveways, decks, and patios with GARVEE’s 24" heavy-duty surface cleaner—dual handle, 4 wheels, 2 nozzles, and rust-resistant stainless steel. Quick-connect for efficient cleaning!
-  Updated: 2025-11-09T06:52:29Z
+  Updated: 2025-11-11T08:36:23Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Cleaning > Pressure Washers
   Availability: Available
@@ -14092,7 +14106,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61frGwoBMAL.jpg?v=1720081451
   Price: $68.99 USD
 - [GARVEE Thin Washable Area Rug - Lightweight Vintage Design](https://www.garvee.com/products/garvee-gaomon-thin-washable-area-rug-pho-12lo4zh5): Discover the GARVEE Thin Washable Area Rug, a lightweight, stain-resistant, and anti-slip addition to your home decor. Perfect for living rooms and bedrooms!
-  Updated: 2025-11-11T04:25:06Z
+  Updated: 2025-11-11T09:32:19Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -14148,7 +14162,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61ATtzqOQDL.jpg?v=1720081496
   Price: $126.99 USD
 - [GARVEE Rectangular Kids Table and Chair Set for Ages 2-10](https://www.garvee.com/products/garvee-kids-table-and-chair-set-pto-0yxpoaj5): Discover the GARVEE Kids Table and Chair Set, featuring height adjustability, a graffiti desktop, and a safe design for endless arts and crafts fun!
-  Updated: 2025-11-10T01:36:47Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Tables & Chairs
   Availability: Available
@@ -14176,14 +14190,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bavvdjxEL_6923c870-cf96-4026-98d2-b7ea1102eaef.jpg?v=1720081573
   Price: $112.99 USD
 - [GARVEE Washable 9x12 Boho Area Rug - Soft, Anti-Slip, Vintage Design](https://www.garvee.com/products/garvee-washable-rug-large-9x12-area-rugs-boho-rugs-for-bedroom-indoor-soft-anti-slip-rug-vintage-distressed-floor-carpet-low-pile-non-shedding-foldable-thin-rug-for-living-room-home-office-multi-garvee): Discover the GARVEE 9x12 Washable Rug, crafted from durable polyester with a soft, low-pile surface. Ideal for kids and pets, it's machine washable and anti-slip!
-  Updated: 2025-11-11T04:25:07Z
+  Updated: 2025-11-11T09:32:19Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81z2mUFSxZL.jpg?v=1720081601
   Price: $139.99 USD
 - [GARVEE Hallway Runner Rug - Vintage Distressed Non-Slip](https://www.garvee.com/products/garvee-garveehome-hallway-runner-rug-2x6-pho-14jiej7s): Enhance your home with the GARVEE Hallway Runner Rug. Soft, washable, and durable, it features a low pile design and anti-slip backing, perfect for kids and pets.
-  Updated: 2025-11-11T04:25:08Z
+  Updated: 2025-11-11T10:13:22Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14197,7 +14211,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81amPJvVk5L.jpg?v=1720081601
   Price: $109.99 USD
 - [GARVEE Boho Washable Area Rugs - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-luxloom-boho-washable-area-rugs-pho-14ji0ura): Discover the GARVEE Boho Washable Area Rug, crafted from soft faux wool. Enjoy its non-slip backing, trendy Moroccan design, and stain resistance for everyday elegance.
-  Updated: 2025-11-11T04:25:11Z
+  Updated: 2025-11-11T09:32:22Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14211,14 +14225,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ZSznf91AL.jpg?v=1720081601
   Price: $69.99 USD
 - [GARVEE 8x10 Washable Area Rug - Soft, Non-Slip, Vintage Design](https://www.garvee.com/products/garvee-garveehome-area-rug-8x10-washable-pho-14jir120): Discover the GARVEE 8x10 Washable Area Rug, crafted from durable polyester with a soft, low-pile surface. Perfect for kids and pets, it's easy to clean and non-slip.
-  Updated: 2025-11-11T04:25:11Z
+  Updated: 2025-11-11T09:32:23Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91eQ4XdYDDL_7d3ada65-5acc-4082-9354-382e529be0e4.jpg?v=1750061694
   Price: $109.99 USD
 - [GARVEE 5x7 Boho Distressed Washable Rug - Soft, Durable, Anti-Slip](https://www.garvee.com/products/garvee-garveehome-5x7-rugs-for-living-pho-14jik4t5): Discover the GARVEE 5x7 rug, crafted from high-quality polyester for softness and durability. Machine washable, low pile, and anti-slip, it's perfect for any room.
-  Updated: 2025-11-11T04:25:12Z
+  Updated: 2025-11-11T09:32:24Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14239,14 +14253,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81poNqjGKEL_f5311e99-c91d-415b-b0e6-4616edbda472.jpg?v=1742347272
   Price: $139.99 USD
 - [GARVEE Washable 8x10 Area Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-luxloom-washable-rugs-8x10-area-pho-14ji6jm4): Transform your space with GARVEE's Moroccan beige rug, featuring soft faux wool, non-slip backing, and easy machine wash for lasting beauty and comfort.
-  Updated: 2025-11-11T04:25:13Z
+  Updated: 2025-11-11T09:32:25Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81poNqjGKEL.jpg?v=1720081605
   Price: $109.99 USD
 - [GARVEE Washable Rugs 8x10 - Soft, Non-Slip, and Stain Resistant](https://www.garvee.com/products/garvee-luxloom-washable-rugs-8x10-rug-pho-14ji7oop): Discover the GARVEE 8x10 Moroccan Blue Rug, crafted from soft faux wool with a non-slip backing. Machine washable, stain-resistant, and perfect for any room!
-  Updated: 2025-11-11T04:25:14Z
+  Updated: 2025-11-11T09:32:25Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14274,28 +14288,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/6135CHn3-0L.jpg?v=1720081883
   Price: $269.99 USD
 - [GARVEE 5x7 Vintage Boho Tribal Washable Rugs - Durable & Stylish](https://www.garvee.com/products/garvee-cozyloom-washable-area-rugs-5x7-pho-13fw3ki9): Discover GARVEE's 5x7 Vintage Boho Tribal Rug, featuring a stain-resistant, non-slip chenille surface, perfect for high-traffic areas. Machine washable and pet-friendly!
-  Updated: 2025-11-11T04:25:16Z
+  Updated: 2025-11-11T09:32:27Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91kJ8-iCfNL_e40c853d-fffa-4fbe-9bf3-b284c2537150.jpg?v=1720081906
   Price: $55.99 USD
 - [GARVEE Washable Area Rug - Vintage Boho Design, Non-Slip, Stain Resistant, Lightweight](https://www.garvee.com/products/garvee-cozyloom-washable-area-rug-8x10-pho-13fw66ix): Transform your space with the GARVEE 8x10 Washable Area Rug. Featuring a vintage boho design, non-slip backing, and stain resistance, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:25:21Z
+  Updated: 2025-11-11T09:32:33Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91B6fN8KRlL_1012d0c3-35d7-4262-9f50-c5ac618211a9.jpg?v=1720081909
   Price: $120.99 USD
 - [GARVEE Washable Area Rugs 5x7 - Non-Slip, Stain Resistant, Vintage Design](https://www.garvee.com/products/garvee-cozyloom-washable-area-rugs-5x7-pho-13fwgzvr): Transform your space with GARVEE's 5x7 washable area rug. Featuring a non-slip TPR backing, stain resistance, and a vintage design, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:25:21Z
+  Updated: 2025-11-11T09:32:33Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CiP3YHM2L_436d490e-0b5e-4ba9-9040-90a936732c96.jpg?v=1720081910
   Price: $72.99 USD
 - [GARVEE Washable Area Rugs - Non-Slip, Stain Resistant, Vintage Design](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-living-room-non-slip-large-area-rugs-for-bedroom-vintage-boho-rug-distressed-blue-rug-chenille-carpet-stain-resistant-throw-rugs-for-dining-room-blue-9x12-garvee): Discover GARVEE's 9x12 washable area rug with a non-slip TPR backing, stain-resistant chenille surface, and vintage boho design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:25:24Z
+  Updated: 2025-11-11T09:32:36Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14309,14 +14323,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91sbCEFP5GL_50eb33f7-e498-471e-9888-29bec882e839.jpg?v=1720081909
   Price: $118.99 USD
 - [GARVEE 9x12 Area Rug - Modern, Washable, Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-large-machine-washable-modern-solid-textured-area-rug-contemporary-stain-resistant-non-slip-accent-rug-foldable-floor-cover-carpet-rug-for-living-room-decor-cream-garvee): Transform your living room with the GARVEE 9x12 Area Rug. This machine washable, stain-resistant rug features a non-slip backing and soft, sustainable fibers for comfort and durability.
-  Updated: 2025-11-11T04:25:26Z
+  Updated: 2025-11-11T09:32:38Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81-vdOdN-6L.jpg?v=1720081977
   Price: $136.99 USD
 - [GARVEE 36"L x 24"W x 55"H Stainless Steel Table with Overshelves - Commercial Work Table with 36" x 12" Shelf, Kitchen Prep Table & Shelving Combo](https://www.garvee.com/products/garvee-garvee-stainless-steel-table-with-pho-1296v4w0): Discover the GARVEE Stainless Steel Table, perfect for both indoor and outdoor use. This multi-functional work table is ideal for commercial kitchens and home chefs.
-  Updated: 2025-11-10T05:10:32Z
+  Updated: 2025-11-11T11:58:21Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Stainless Steel Work Table
   Availability: Available
@@ -14379,42 +14393,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51S9aMYuFQL_ac285591-f637-4cd9-a0b5-6a5088f5f35e.jpg?v=1720082125
   Price: $219.99 USD
 - [GARVEE 9x12 Area Rug - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rugs-machine-washable-rug-large-boho-living-room-rugs-bedroom-area-rug-soft-large-vintage-bohemian-rugs-distressed-area-rug-non-slip-low-pile-floor-carpet-grey-garvee): Discover the GARVEE 9x12 Area Rug, crafted from soft polyester with a low pile design. This vintage bohemian rug is machine washable, non-slip, and perfect for any living space.
-  Updated: 2025-11-11T04:25:27Z
+  Updated: 2025-11-11T09:32:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zQvdE3DYL.jpg?v=1720082222
   Price: $89.99 USD
 - [GARVEE 8x10 Area Rugs - Soft, Machine Washable, Non-Slip Bohemian Design](https://www.garvee.com/products/garvee-caromio-8x10-area-rugs-machine-pho-13kabn7s): Transform your living space with GARVEE's 8x10 area rug. Made from soft polyester, this machine washable, non-slip rug features a stunning blue leaf pattern, perfect for any room.
-  Updated: 2025-11-11T04:25:28Z
+  Updated: 2025-11-11T09:32:40Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WkACCeWkL_93916001-a08c-4105-9b95-6d3b57be7f30.jpg?v=1720082229
   Price: $98.99 USD
 - [GARVEE Washable Rug - Soft Vintage Non-Slip Area Rug for Living Room](https://www.garvee.com/products/garvee-caromio-washable-rug-6x9-area-pho-13kaxyse): Discover the GARVEE Washable Rug, a soft, vintage-style, non-slip area rug perfect for any room. Made from durable polyester, it's machine-made for easy care.
-  Updated: 2025-11-11T04:25:29Z
+  Updated: 2025-11-11T09:32:41Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WkACCeWkL_d5bbf45e-088c-4b57-9faf-c470032ad6d7.jpg?v=1720082225
   Price: $67.99 USD
 - [GARVEE 9x12 Area Rugs - Soft, Washable, Non-Slip Bohemian Design](https://www.garvee.com/products/garvee-9x12-area-rugs-machine-washable-rug-large-boho-living-room-rugs-bedroom-area-rug-soft-large-vintage-bohemian-rugs-distressed-area-rug-non-slip-low-pile-floor-carpet-blue-garvee): Discover GARVEE's 9x12 Area Rug, featuring soft polyester, low pile, and a vintage bohemian design. Machine washable and non-slip, perfect for any room!
-  Updated: 2025-11-11T04:25:29Z
+  Updated: 2025-11-11T09:32:41Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WkACCeWkL_15b505e0-5ffa-475c-820f-b5309b004c70.jpg?v=1720082220
   Price: $148.99 USD
 - [GARVEE Washable Rug - Soft Vintage Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-caromio-washable-rug-6x9-area-pho-13ka27se): Discover the GARVEE Washable Rug, a 6x9 soft polyester rug with a non-slip rubber backing. Perfect for any room, it combines style and functionality!
-  Updated: 2025-11-11T04:25:31Z
+  Updated: 2025-11-11T09:32:43Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zQvdE3DYL_9f034dbb-0d92-4ee5-983a-4e39b6737dfa.jpg?v=1720082237
   Price: $51.99 USD
 - [GARVEE 8x10 Area Rugs - Soft, Machine Washable Boho Rugs](https://www.garvee.com/products/garvee-caromio-8x10-area-rugs-machine-pho-13ka6axe): Transform your space with GARVEE's 8x10 area rug. Soft, vintage bohemian design, machine washable, non-slip, and perfect for any room. Free shipping!
-  Updated: 2025-11-11T04:25:31Z
+  Updated: 2025-11-11T09:32:43Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -14456,175 +14470,175 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61h_rYWzzHL.jpg?v=1720082251
   Price: $149.99 USD
 - [GARVEE Washable Vintage Floral Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-washable-rug-9x12-vintage-floral-area-rug-stain-resistant-rug-non-slip-accent-rug-low-pile-thin-rug-ultra-soft-throw-rug-bedroom-dining-room-office-grey-garvee): Discover the GARVEE Washable Rug: ultra-soft, stain-resistant, and non-slip. Perfect for family homes, this low-pile rug combines style with safety.
-  Updated: 2025-11-11T04:25:33Z
+  Updated: 2025-11-11T09:32:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91T9McN28eL_f4f0d366-bfba-41a8-ab06-7ff5ecf87447.jpg?v=1721212389
   Price: $118.99 USD
 - [GARVEE Large Area Rug 8x10 - Boho Vintage Floral Non-Slip Carpet](https://www.garvee.com/products/garvee-garveehome-large-area-rug-8x10-pho-14aiu252): Discover comfort and style with the GARVEE 8x10 rug. Machine washable, low pile, and non-slip, it's perfect for family homes. Enjoy durability and warmth!
-  Updated: 2025-11-11T04:25:33Z
+  Updated: 2025-11-11T09:32:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91T9McN28eL_735ea8b0-8cd2-4c02-9b09-91e63edc30e6.jpg?v=1721212381
   Price: $91.99 USD
 - [GARVEE Large Area Rug - Boho Vintage Floral Design](https://www.garvee.com/products/garvee-garveehome-large-area-rug-8x10-pho-14ait74p): Discover the GARVEE 8x10 Machine Washable Rug featuring a low pile, non-slip design, perfect for family homes. Soft, durable, and stylish in brick red!
-  Updated: 2025-11-11T04:25:35Z
+  Updated: 2025-11-11T09:32:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91yLnLOBfTL_34a8b18f-caea-454f-b06b-1a3233c76758.jpg?v=1721212452
   Price: $120.99 USD
 - [GARVEE Washable Area Rug - Soft, Non-Slip, and Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-5x7-pho-14aifz2l): Discover the GARVEE Washable Area Rug, featuring a low pile design, non-slip backing, and stain resistance, perfect for family-friendly spaces.
-  Updated: 2025-11-11T04:25:36Z
+  Updated: 2025-11-11T09:32:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91T9McN28eL_57eac707-f7f5-4d0e-9e2e-5362facda5a7.jpg?v=1721212464
   Price: $61.99 USD
 - [GARVEE Vintage Washable Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-rugsreal-vintage-washable-area-rug-pho-14ij1dnb): Transform your space with the GARVEE Vintage Washable Area Rug. Featuring a charming distressed pattern, non-slip backing, and pet-friendly design, it's perfect for any room.
-  Updated: 2025-11-11T04:31:20Z
+  Updated: 2025-11-11T09:32:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ZVkvRGdGL_8d7add78-82a8-49f9-8494-ff62868ea774.jpg?v=1720082261
   Price: $36.99 USD
 - [GARVEE 5x7 Vintage Distressed Rug - Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-rugsreal-5x7-bedroom-rug-machine-pho-14ijaczl): Elevate your home decor with the GARVEE 5x7 Vintage Distressed Rug. Machine washable, non-slip, and stain resistant, it's perfect for families with pets and kids.
-  Updated: 2025-11-11T04:31:14Z
+  Updated: 2025-11-11T09:32:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ZVkvRGdGL.jpg?v=1720082261
   Price: $56.99 USD
 - [GARVEE Washable Vintage Distressed Area Rug 8x10 - Perfect for Any Room](https://www.garvee.com/products/garvee-rugsreal-washable-rug-large-living-pho-14ij1lqk): Transform your space with the GARVEE 8x10 washable rug featuring a vintage distressed design, non-slip backing, and pet-friendly material, ensuring elegance and safety.
-  Updated: 2025-11-11T04:25:44Z
+  Updated: 2025-11-11T09:32:56Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ZVkvRGdGL_c9439154-81c7-480f-805d-43da1db6c2ae.jpg?v=1720082265
   Price: $98.99 USD
 - [GARVEE 9x12 Vintage Distressed Rug - Stylish, Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-living-room-rug-vintage-distressed-floor-cover-indoor-non-slip-large-throw-carpet-rug-oriental-boho-accent-rug-washable-stain-resistant-rug-for-bedroom-nursery-home-office-decor-grey-garvee): Enhance your home with the GARVEE 9x12 Vintage Distressed Rug. This stylish, machine washable rug is pet-friendly, stain-resistant, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:25:47Z
+  Updated: 2025-11-11T09:32:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Yxd08DK8L_4302e34d-e9bb-4d2e-886a-56425bf11d72.jpg?v=1720082266
   Price: $122.99 USD
 - [GARVEE Washable Vintage Distressed Area Rug 8x10 - Elegant and Practical](https://www.garvee.com/products/garvee-rugsreal-washable-rug-large-living-pho-14ijbnm9): Transform your space with the GARVEE 8x10 Washable Rug featuring a vintage distressed design, non-slip backing, and pet-friendly materials for easy maintenance.
-  Updated: 2025-11-11T04:25:50Z
+  Updated: 2025-11-11T09:33:01Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zLt-oFjaL_62aa5685-88df-4499-a2d7-d1aea610cf22.jpg?v=1720082267
   Price: $111.99 USD
 - [GARVEE 3x5 Traditional Area Rug - Washable, Non-Slip, Boho Design](https://www.garvee.com/products/garvee-nanan-area-rug-3x5-traditional-pho-0xt310c0): Enhance your home with the GARVEE 3x5 Area Rug. Made from durable polyester, it's washable and features a stylish floral pattern, perfect for any room.
-  Updated: 2025-11-11T04:25:52Z
+  Updated: 2025-11-11T09:33:04Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WQCvFsmWL.jpg?v=1720082314
   Price: $30.99 USD
 - [GARVEE 2x10 Runner Rug - Soft, Washable, Non-Slip Boho Accent for Your Home](https://www.garvee.com/products/garvee-nanan-area-rug-2x10-runner-pho-0xt3aup9): Enhance your space with the GARVEE 2x10 Runner Rug. Soft polyester, washable, and non-slip, this light brown floral rug adds a bohemian touch to any room.
-  Updated: 2025-11-11T04:25:55Z
+  Updated: 2025-11-11T10:13:32Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CbraLaFZL_ae51179a-c46a-4580-8ba5-2aa338cc9264.jpg?v=1720082314
   Price: $38.99 USD
 - [GARVEE 2x8 Washable Bohemian Area Rug - Non-Slip Kitchen Runner](https://www.garvee.com/products/garvee-nanan-area-rug-2x8-washable-pho-0xt3cbgd): Transform your space with the GARVEE 2x8 Washable Bohemian Area Rug. Made from durable polyester, this non-slip kitchen runner features a beautiful floral design and is machine washable for easy care.
-  Updated: 2025-11-11T04:25:56Z
+  Updated: 2025-11-11T10:13:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CbraLaFZL_3709f69c-9db8-4c55-b47d-ef83e0dff474.jpg?v=1720082317
   Price: $33.99 USD
 - [GARVEE Area Rug - Machine Washable, Non-Slip, Floral Design for Home Decor](https://www.garvee.com/products/garvee-nanan-area-rug-for-bedroom-pho-0xt3di8n): Elevate your space with the GARVEE 4x6 Area Rug. Made from durable polyester, it's machine washable and features a non-slip TPR backing for safety.
-  Updated: 2025-11-11T04:25:58Z
+  Updated: 2025-11-11T09:33:09Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WQCvFsmWL_f8bc8de0-b1b8-46cc-9cc3-5259ff19611b.jpg?v=1720082317
   Price: $42.99 USD
 - [GARVEE Washable Rug Area Rug 5x7 - Bohemian Grey Carpet for Indoor Spaces](https://www.garvee.com/products/garvee-nanan-washable-rug-area-rug-pho-0xt3y9bz): Discover the GARVEE Washable Rug, a versatile 5x7 area rug made from durable polyester. Perfect for living rooms, bedrooms, and kitchens, it boasts a stylish floral design and is machine washable for easy care.
-  Updated: 2025-11-11T04:25:59Z
+  Updated: 2025-11-11T09:33:11Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81n148V5yFL_69d94769-a368-4bba-888a-e77f5c78b9e7.jpg?v=1720082318
   Price: $59.99 USD
 - [GARVEE 9x12 Boho Area Rug - Non-Slip & Washable for Living Room](https://www.garvee.com/products/garvee-area-rug-9x12-boho-rug-traditional-carpet-for-living-room-bedroom-rug-non-slip-washable-rug-for-indoor-floor-farmhouse-decor-garvee): Enhance your space with the GARVEE 9x12 Boho Area Rug. Made from durable polyester, this non-slip, washable rug features a beautiful floral design, perfect for any indoor decor.
-  Updated: 2025-11-11T04:26:00Z
+  Updated: 2025-11-11T09:33:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WQCvFsmWL_61095257-cd11-4880-99a8-d40b384a2bde.jpg?v=1720082318
   Price: $135.99 USD
 - [GARVEE 8x10 Area Rug - Washable, Non-Slip, Boho Style](https://www.garvee.com/products/garvee-nanan-8x10-area-rugs-large-pho-0xt3mahn): Discover the GARVEE 8x10 Area Rug, featuring a washable, non-slip design in light brown. Perfect for your living room or bedroom, adding a bohemian touch.
-  Updated: 2025-11-11T04:26:00Z
+  Updated: 2025-11-11T09:33:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WQCvFsmWL_0c7cc074-d4e1-463f-8fc4-13363b4de627.jpg?v=1720082318
   Price: $120.99 USD
 - [GARVEE 9x12 Area Rugs - Soft, Washable, Non-Slip Vintage Decor](https://www.garvee.com/products/garvee-9x12-area-rugs-for-living-room-large-washable-boho-rugs-for-bedroom-non-slip-throw-carpet-for-bedside-dining-room-big-vintage-indoor-soft-home-decor-orange-garvee): Discover GARVEE's 9x12 area rug, featuring soft, stain-resistant polyester, perfect for living rooms and bedrooms. Enjoy comfort and style with easy maintenance!
-  Updated: 2025-11-11T04:26:02Z
+  Updated: 2025-11-11T09:33:14Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NeFXcsl3L_82132d8d-ef4e-4033-ace1-76519667d434.jpg?v=1720082575
   Price: $127.99 USD
 - [GARVEE 8x10 Area Rug - Soft, Washable, Non-Slip Boho Design](https://www.garvee.com/products/garvee-cozyloom-8x10-area-rugs-for-pho-142wb21j): Transform your space with the GARVEE 8x10 Area Rug. Soft, washable, and non-slip, it's perfect for living rooms and bedrooms. Enjoy comfort and style!
-  Updated: 2025-11-11T04:26:02Z
+  Updated: 2025-11-11T09:33:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CDHywSmfL.jpg?v=1720082563
   Price: $74.99 USD
 - [GARVEE 9x12 Area Rugs - Soft, Washable, Non-Slip for Living Room](https://www.garvee.com/products/garvee-9x12-area-rugs-for-living-room-large-washable-boho-rugs-for-bedroom-non-slip-throw-carpet-for-bedside-dining-room-big-vintage-indoor-soft-home-decor-blue-garvee): Discover the GARVEE 9x12 Area Rug, crafted from soft, stain-resistant polyester. Perfect for living rooms, it's washable, non-slip, and adds a vintage touch.
-  Updated: 2025-11-11T04:26:03Z
+  Updated: 2025-11-11T09:33:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91UmxkesejL_846295de-e16d-445c-bba4-b39c44e22d8e.jpg?v=1742544429
   Price: $63.99 USD
 - [GARVEE 5x7 Boho Area Rug - Washable, Non-Slip, Vintage Design](https://www.garvee.com/products/garvee-cozyloom-5x7-area-rugs-boho-pho-142wf4v0): Discover the GARVEE 5x7 Boho Area Rug, featuring soft, stain-resistant polyester, a non-slip rubber backing, and a washable design perfect for any room.
-  Updated: 2025-11-11T04:26:04Z
+  Updated: 2025-11-11T09:33:16Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NeFXcsl3L_d33e3e71-dddd-40b1-a4a9-fa7f535c4985.jpg?v=1720082576
   Price: $67.99 USD
 - [GARVEE 8x10 Area Rugs - Soft, Washable, Non-Slip Vintage Decor](https://www.garvee.com/products/garvee-cozyloom-8x10-area-rugs-for-pho-142wbofx): Discover GARVEE's 8x10 washable area rug, featuring soft, stain-resistant polyester, perfect for living rooms and bedrooms. Enjoy comfort and style!
-  Updated: 2025-11-11T04:26:06Z
+  Updated: 2025-11-11T09:33:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NeFXcsl3L.jpg?v=1720082573
   Price: $92.99 USD
 - [GARVEE High-Low Pile Area Rug - Modern Beige Geometric Design](https://www.garvee.com/products/garvee-westloom-bedroom-area-rug-high-pho-12xh6dfg): Elevate your living space with the GARVEE High-Low Pile Area Rug. This stain-resistant, non-slip rug features a unique geometric wave design, perfect for adding comfort and style.
-  Updated: 2025-11-11T04:26:07Z
+  Updated: 2025-11-11T09:33:19Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91dmCKQ39ML_ca16237f-dff1-4f58-a3e9-7dc3812a94be.jpg?v=1727662554
   Price: $38.99 USD
 - [GARVEE 8x10 Modern Abstract Area Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-caromio-8x10-modern-abstract-area-pho-13ovb8b8): Elevate your space with the GARVEE 8x10 area rug. Its ultra-soft velvet surface is machine washable, waterproof, and non-slip, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:26:24Z
+  Updated: 2025-11-11T09:33:36Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NmvQRNDAL_5b9ec2c0-95fd-45e7-821c-8e3e65128b85.jpg?v=1720082690
   Price: $108.99 USD
 - [GARVEE 8x10 Modern Abstract Area Rug - Stylish & Washable](https://www.garvee.com/products/garvee-caromio-8x10-modern-abstract-area-pho-13ovbynz): Discover the GARVEE 8x10 Modern Abstract Area Rug, featuring a soft, non-slip surface. Machine washable and stain-resistant, it's perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:26:26Z
+  Updated: 2025-11-11T09:33:38Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91y7zqk86DL_06b4b809-780e-4066-bff8-f5833daea8f9.jpg?v=1720082693
   Price: $82.99 USD
 - [GARVEE Washable Runner Rug - Modern Geometric Design](https://www.garvee.com/products/garvee-garveehome-washable-runner-rug-2x6-pho-14t2gkl0): Enhance your home with GARVEE's 2x6 washable runner rug. Soft, stain-resistant, and non-slip, it's perfect for high-traffic areas, adding comfort and style.
-  Updated: 2025-11-11T04:26:28Z
+  Updated: 2025-11-11T10:13:40Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -14638,7 +14652,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8163Ebem15L_5f07b1fb-40e1-454f-84de-3aa2b9ee0f6e.jpg?v=1720082703
   Price: $119.99 USD
 - [GARVEE Washable 8x10 Rugs - Soft, Stain Resistant, Non-Slip Area Rug](https://www.garvee.com/products/garvee-garveehome-washable-rugs-8-x-pho-14t2nlot): Transform your space with GARVEE's 8x10 washable rug. Soft, stain-resistant, and non-slip, it's perfect for high-traffic areas and kid-friendly homes.
-  Updated: 2025-11-11T04:26:32Z
+  Updated: 2025-11-11T09:33:44Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -14673,14 +14687,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OE2Nj6A9L_e6019149-0179-46ff-a6e1-047c67f82b5e.jpg?v=1720082707
   Price: $74.99 USD
 - [GARVEE Area Rug 9x12 - Modern Non-Slip Machine Washable Rug](https://www.garvee.com/products/garvee-area-rug-9x12-modern-rugs-for-living-room-non-slip-large-rugs-for-bedroom-machine-washable-geometric-area-rug-vintage-carpet-for-office-dining-room-indoor-grey-garvee): Enhance your space with the GARVEE 9x12 Area Rug. Made from durable polyester, it features a non-slip design and is machine washable, perfect for any room.
-  Updated: 2025-11-11T04:26:37Z
+  Updated: 2025-11-11T09:33:49Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81FUYdQoESL.jpg?v=1720083585
   Price: $109.99 USD
 - [GARVEE Washable Area Rugs - Soft, Stain-Resistant & Non-Shedding](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-large-rug-boho-vintage-carpet-medallion-rug-stain-resistant-non-shedding-living-room-bedroom-dining-room-soft-accent-rug-farmhouse-office-home-decor-blue-9x12-garvee): Discover GARVEE's 9x12 washable area rug, featuring soft, stain-resistant polyester, non-slip backing, and easy maintenance—perfect for high-traffic areas!
-  Updated: 2025-11-11T04:26:39Z
+  Updated: 2025-11-11T09:33:51Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -14694,7 +14708,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Xv_L7SkJL_2f8e9089-3f47-4a11-8592-8180033c852e.jpg?v=1720083588
   Price: $42.99 USD
 - [GARVEE 9x12 Modern Area Rug - Non-Slip & Machine Washable](https://www.garvee.com/products/garvee-area-rug-9x12-modern-rugs-for-living-room-non-slip-large-rugs-for-bedroom-machine-washable-geometric-area-rug-vintage-carpet-for-office-dining-room-indoor-pink-garvee): Elevate your space with the GARVEE 9x12 modern area rug. Made from durable polyester, it's non-slip, machine washable, and perfect for any room!
-  Updated: 2025-11-11T04:26:40Z
+  Updated: 2025-11-11T09:33:52Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -14715,14 +14729,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91bedPkc9LL.jpg?v=1720083625
   Price: $125.99 USD
 - [GARVEE Large 8x10 Vintage Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-rugsreal-large-rug-8x10-vintage-pho-13tam02d): Transform your space with the GARVEE 8x10 Vintage Area Rug. Ultra-soft, stain-resistant, and non-slip, it offers style and comfort for any room.
-  Updated: 2025-11-11T04:26:42Z
+  Updated: 2025-11-11T09:33:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91dtXdkZV7L.jpg?v=1720083625
   Price: $125.99 USD
 - [GARVEE Oriental Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-rugsreal-oriental-area-rug-5x7-pho-13ta8gbp): Discover the GARVEE 5x7 Oriental Area Rug, featuring a soft, washable design that's stain resistant and non-slip, perfect for any indoor space.
-  Updated: 2025-11-11T04:26:43Z
+  Updated: 2025-11-11T09:33:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -14743,7 +14757,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81fE8W-5HNL_8afabf5e-0f30-4b7f-8488-c1110f63991e.jpg?v=1720083625
   Price: $37.99 USD
 - [GARVEE 5x7 Washable Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-rugsreal-oriental-area-rug-5x7-pho-13tajemc): Transform your space with the GARVEE 5x7 Washable Area Rug. Soft, stain resistant, and non-slip, this durable rug combines style and functionality for any room.
-  Updated: 2025-11-11T04:26:44Z
+  Updated: 2025-11-11T09:33:56Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -14764,7 +14778,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91a0kDXBRAL_b7804d29-6bd2-4258-aefb-c9c06d77fb45.jpg?v=1720083626
   Price: $46.99 USD
 - [GARVEE Washable Rug 9x12 - Vintage Oriental Non Slip Area Rug](https://www.garvee.com/products/garvee-washable-rug-9x12-vintage-oriental-rug-non-slip-indoor-carpet-ultra-thin-stain-resistant-area-rug-low-pile-distressed-vintage-soft-carpet-for-living-room-bedroom-blue-garvee): Discover the GARVEE Washable Rug, featuring a soft, stain-resistant design. Perfect for high-traffic areas, its low pile ensures easy maintenance and comfort.
-  Updated: 2025-11-11T04:26:45Z
+  Updated: 2025-11-11T09:33:57Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -14799,7 +14813,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OksWk4s5L_79b76517-fc1d-4d40-8fa4-0365120627ce.jpg?v=1720083629
   Price: $36.99 USD
 - [GARVEE Area Rug for Living Room - Vintage Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-gaomon-area-rug-for-living-pho-147l6tqv): Enhance your space with the GARVEE Area Rug. This 8x10 ft vintage rug is machine washable, non-slip, and features a stylish grey-blue design, perfect for any room.
-  Updated: 2025-11-11T04:26:46Z
+  Updated: 2025-11-11T09:33:58Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -14813,21 +14827,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/914cqKesr9L_ccff64ca-ed8b-474c-a173-1e4bc79062fb.jpg?v=1720083630
   Price: $147.99 USD
 - [GARVEE Vintage Area Rug 9x12 - Non-Slip, Washable, Stain Resistant](https://www.garvee.com/products/garvee-area-rug-9x12-non-slip-vintage-low-pile-rugs-washable-rug-indoor-floor-cover-print-distressed-carpet-non-shedding-oriental-area-rug-for-living-room-bedroom-9-x12-grey-garvee): Enhance your home with the GARVEE 9x12 vintage area rug, featuring non-slip backing, stain resistance, and a low pile design, perfect for families with pets.
-  Updated: 2025-11-11T04:26:50Z
+  Updated: 2025-11-11T09:34:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/812QK3JDdyL.jpg?v=1720083651
   Price: $179.99 USD
 - [GARVEE 5x8 Boho Tribal Area Rug - Non-Shedding & Fluffy](https://www.garvee.com/products/garvee-westloom-area-rug-5x8-bedroom-pho-0z2zw29g): Enhance your space with the GARVEE 5x8 Area Rug. This non-shedding, fluffy rug features a unique high-low pile for added texture, perfect for any room.
-  Updated: 2025-11-11T04:26:51Z
+  Updated: 2025-11-11T09:34:03Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RTNeIniHL_8661b354-8252-49dc-a028-3b8b6e965191.jpg?v=1720083769
   Price: $112.99 USD
 - [GARVEE 9x12 Area Rug - Modern Geometric Design](https://www.garvee.com/products/garvee-9x12-area-rug-machine-washable-rug-modern-geometric-rug-indoor-floor-cover-diamond-distressed-carpet-rug-stain-resistant-foldable-accent-rug-for-living-room-bedroom-dining-room-blue-garvee): Transform your space with the GARVEE 9x12 Area Rug. This machine washable, stain-resistant rug features a stylish geometric design, perfect for any room.
-  Updated: 2025-11-11T04:26:52Z
+  Updated: 2025-11-11T09:34:04Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -14841,63 +14855,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/7166P1KNrlL.jpg?v=1720083804
   Price: $899.98 USD
 - [Discover the GARVEE Boho Runner Rug: Stylish, Non-Slip, and Washable](https://www.garvee.com/products/garvee-rugsreal-boho-runner-rug-2x6-pho-118bafr8): Elevate your space with the GARVEE Boho Runner Rug. Made from durable, stain-resistant polyester, this soft, geometric rug is perfect for high-traffic areas and is machine washable.
-  Updated: 2025-11-11T04:26:57Z
+  Updated: 2025-11-11T10:13:42Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91TmLKH76CL.jpg?v=1720083820
   Price: $41.99 USD
 - [GARVEE Washable 8x10 Moroccan Area Rug - Easy-Cleaning, Non-Slip, Durable](https://www.garvee.com/products/garvee-rugsreal-washable-rug-8x10-moroccan-pho-118bnw4t): Discover the GARVEE 8x10 Moroccan Area Rug, made from stain-resistant polyester. This washable, non-slip rug is perfect for high-traffic areas, ensuring safety and style.
-  Updated: 2025-11-11T04:26:59Z
+  Updated: 2025-11-11T09:34:12Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ggzBJiPDL_aa7c7b62-e1eb-430c-a4c7-924d7d552282.jpg?v=1720083816
   Price: $117.99 USD
 - [GARVEE Runner Rug 2x8 - Soft, Non-Slip Shaggy Rug for Modern Spaces](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x8-shag-pho-0zcwdkwc): Transform your space with the GARVEE Runner Rug. This plush, non-slip rug features luxurious faux fur and memory foam for ultimate comfort and style.
-  Updated: 2025-11-11T04:27:01Z
+  Updated: 2025-11-11T10:13:43Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81HHxwARR4L.jpg?v=1720083833
   Price: $41.99 USD
 - [GARVEE Shag Rug - Soft, Non-Skid, Modern Area Rug for Living Room](https://www.garvee.com/products/garvee-zacoo-shag-rug-for-living-pho-0zcwkyws): Transform your space with the GARVEE Shag Rug. This plush, non-skid rug features a luxurious faux fur and memory foam for ultimate comfort and style.
-  Updated: 2025-11-11T04:27:02Z
+  Updated: 2025-11-11T09:34:15Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F2vdzi7JL_93b73f8c-cd78-498a-91c5-302ecfb7e7ed.jpg?v=1720083833
   Price: $46.99 USD
 - [GARVEE 9x12 Shag Rug - Soft, Non-Slip, Modern Design for Living Room & Kids](https://www.garvee.com/products/garvee-9x12-rug-shag-rug-for-living-room-shaggy-rug-kids-rug-plush-rug-cow-printed-carpet-bedroom-fluffy-rug-bedside-rug-soft-rug-non-skid-rug-modern-area-rug-large-black-white-9x12-garvee): GARVEE Ultra-soft, non-slip shag rug made with safe polyester. Modern design suits any space; easy to clean and perfect for families or dorms.
-  Updated: 2025-11-11T04:27:03Z
+  Updated: 2025-11-11T09:34:16Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F2vdzi7JL_bf71e06d-0db6-4adc-879a-daff890f3e9a.jpg?v=1720083833
   Price: $118.99 USD
 - [GARVEE 6x9 Shag Rug - Soft, Non-Skid, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-6x9-rug-shag-rug-pho-0zcwrmxs): Transform your space with the GARVEE 6x9 Shag Rug. Ultra-soft, non-skid, and stylish, it's perfect for living rooms, bedrooms, and nurseries. Enjoy comfort and elegance!
-  Updated: 2025-11-11T04:27:04Z
+  Updated: 2025-11-11T09:34:17Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F2vdzi7JL_9445e136-734f-4866-ab69-73fcbb0a59cb.jpg?v=1720083833
   Price: $74.99 USD
 - [GARVEE 5x8 Shag Rug - Soft, Non-Slip, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-5x8-rug-shag-rug-pho-0zcwddss): Transform your space with the GARVEE 5x8 Shag Rug. Featuring plush memory foam, a non-slip backing, and stylish black/white design, it's perfect for kids and living rooms.
-  Updated: 2025-11-11T04:27:06Z
+  Updated: 2025-11-11T09:34:18Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F2vdzi7JL_e5847fbe-a28b-4fad-a94c-5a5c9727ccf0.jpg?v=1749709636
   Price: $49.99 USD
 - [GARVEE 9x12 Shag Rug - Plush Rainbow Area Rug for Living Room & Kids](https://www.garvee.com/products/garvee-9x12-rug-shag-rug-for-living-room-shaggy-rug-kids-rug-plush-rug-rainbow-colorful-carpet-bedroom-fluffy-rug-bedside-rug-soft-rug-non-skid-rug-modern-area-rug-large-pink-sky-blue-9x12-garvee): Transform your space with the GARVEE 9x12 Shag Rug. Made from luxury synthetic fur and memory foam, this non-slip, fluffy rug offers comfort and style in vibrant colors.
-  Updated: 2025-11-11T04:27:07Z
+  Updated: 2025-11-11T09:34:19Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815YZsHMOgL_20a6bd7b-2ae3-450c-aed1-3d1509c6229e.jpg?v=1720083924
   Price: $116.99 USD
 - [GARVEE 8x10 Shag Rug - Soft, Colorful, Non-Skid Area Rug for Modern Homes](https://www.garvee.com/products/garvee-zacoo-8x10-rug-shag-rug-pho-0wwr6186): Transform your space with GARVEE's 8x10 shag rug. Made from plush memory foam, it offers luxurious softness, vibrant colors, and a non-slip design for safety.
-  Updated: 2025-11-11T04:27:07Z
+  Updated: 2025-11-11T09:34:20Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -14911,28 +14925,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91gYCJN_wGL.jpg?v=1720083952
   Price: $34.99 USD
 - [GARVEE Vintage Distressed Area Rug - Stylish & Practical for Any Home](https://www.garvee.com/products/garvee-garveehome-vintage-distressed-area-rug-pho-13rj2zpd): Discover the GARVEE Vintage Area Rug: machine washable, stain-resistant, and non-slip. Perfect for busy homes, adding comfort and style to your decor.
-  Updated: 2025-11-11T04:27:13Z
+  Updated: 2025-11-11T09:34:25Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F44W7aQzL_da12a705-ddb2-4803-b345-8adf0b808c16.jpg?v=1720083963
   Price: $46.99 USD
 - [GARVEE 9x12 Living Room Rug - Stylish, Washable, and Durable](https://www.garvee.com/products/garvee-9x12-living-room-rug-non-slip-stain-resistant-vintage-distressed-area-rug-indoor-throw-floor-cover-boho-accent-area-rug-paisley-large-carpet-washable-area-rug-for-nursery-home-decor-brown-garvee): Transform your living space with the GARVEE 9x12 rug. This non-slip, stain-resistant area rug is machine washable, pet-friendly, and perfect for any home decor.
-  Updated: 2025-11-11T04:27:14Z
+  Updated: 2025-11-11T09:34:26Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F44W7aQzL.jpg?v=1720083951
   Price: $169.99 USD
 - [GARVEE Area Rug 8x10 - Stylish & Practical for Any Home](https://www.garvee.com/products/garvee-garveehome-area-rug-8x10-large-pho-13rjgxze): Transform your space with the GARVEE 8x10 Area Rug. Machine washable, stain resistant, and non-slip, it's perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:27:14Z
+  Updated: 2025-11-11T09:34:27Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OgT8agyEL.jpg?v=1720083951
   Price: $88.99 USD
 - [GARVEE Area Rug - Stylish, Washable, and Non-Slip Rug for Your Home](https://www.garvee.com/products/garvee-garveehome-area-rug-8x10-large-pho-13rjzi4o): Transform your space with the GARVEE 8x10 area rug. This washable, stain-resistant rug features a non-slip backing, perfect for kids and pets!
-  Updated: 2025-11-11T04:27:18Z
+  Updated: 2025-11-11T09:34:30Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -14946,35 +14960,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OgT8agyEL_19cf0fb8-852d-4bdf-8be8-34c7e7fa6236.jpg?v=1720083974
   Price: $57.99 USD
 - [GARVEE Machine Washable Area Rug - Stylish & Durable](https://www.garvee.com/products/garvee-garveehome-machine-washable-rug-5x7-pho-13rjis92): Discover the GARVEE 5x7 vintage area rug, machine washable with non-slip backing, perfect for busy homes. Pet-friendly, durable, and stylish for any decor.
-  Updated: 2025-11-11T04:27:20Z
+  Updated: 2025-11-11T09:34:32Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SxA0HiD9L_01a89941-42db-4e5b-8ee6-f54a0d728282.jpg?v=1720083974
   Price: $54.99 USD
 - [GARVEE Soft 8' x 10' Area Rug - Boho Modern Design, Pet Friendly & Washable](https://www.garvee.com/products/garvee-soft-8-x-10-area-pho-125f6opf): Discover the GARVEE Soft 8' x 10' Area Rug, featuring a non-slip, washable design perfect for pet-friendly homes. Elevate your living space with its stylish blue bohemian aesthetic.
-  Updated: 2025-11-11T04:27:23Z
+  Updated: 2025-11-11T09:34:35Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91iQUYR8AVL_9134e84e-03c1-4636-9b67-02fcc555ba0e.jpg?v=1720084019
   Price: $96.99 USD
 - [GARVEE Soft 5' x 7' Area Rug - Anti Slip, Washable, Pet Friendly](https://www.garvee.com/products/garvee-soft-5-x-7-area-pho-125flhcl): Discover the GARVEE Soft Area Rug, a stylish and functional addition to your home. Made from durable microfiber, it's anti-slip, washable, and pet-friendly.
-  Updated: 2025-11-11T04:27:23Z
+  Updated: 2025-11-11T09:34:35Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91TEXNSZoHL_faf431df-0c82-4a09-813b-70d502c206b3.jpg?v=1720084019
   Price: $57.99 USD
 - [GARVEE Washable Large Soft Neutral Boho Moroccan Rug - Perfect for Home Decor](https://www.garvee.com/products/garvee-washable-large-soft-neutral-boho-pho-10x8wu5a): Discover the GARVEE Washable Rug, featuring soft Pearl Plush material, geometric patterns, and stain resistance. Ideal for bedrooms and dining areas.
-  Updated: 2025-11-11T06:25:50Z
+  Updated: 2025-11-11T09:34:36Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918JMogPKzL.jpg?v=1720084031
   Price: $62.99 USD
 - [GARVEE Washable Large Soft Neutral Boho Moroccan Rug - Perfect for Any Room](https://www.garvee.com/products/garvee-washable-large-soft-neutral-boho-pho-10x8u4yz): Enhance your space with the GARVEE washable Moroccan rug. Made from plush material, it's stain-resistant, stylish, and perfect for bedrooms or dining areas.
-  Updated: 2025-11-11T04:27:25Z
+  Updated: 2025-11-11T09:34:37Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -14988,119 +15002,119 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918JMogPKzL_d72e5ba0-5851-4d8b-85fb-cf2bef6813bc.jpg?v=1720084031
   Price: $54.99 USD
 - [GARVEE Washable Large Soft Neutral Boho Moroccan Rug - Perfect for Home Decor](https://www.garvee.com/products/garvee-washable-large-soft-neutral-boho-moroccan-bohemian-farmhouse-rug-indoor-floor-carpet-for-bedroom-under-dining-table-home-office-decor-cream-brown-garvee): Transform your space with the GARVEE Washable Moroccan Rug. Made from plush materials, it's stain-resistant, stylish, and perfect for any room.
-  Updated: 2025-11-11T04:27:26Z
+  Updated: 2025-11-11T09:34:38Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1703835843763.jpg?v=1761622775
   Price: $137.99 USD
 - [GARVEE 2x8 Long Hallway Runner Rug - Stylish & Washable](https://www.garvee.com/products/garvee-royhome-2x8-long-hallway-runner-pho-0yv911s7): Discover the GARVEE 2x8 Runner Rug, made from stain-resistant polyester. Lightweight and machine washable, it's perfect for any hallway or kitchen!
-  Updated: 2025-11-11T04:27:26Z
+  Updated: 2025-11-11T10:13:46Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Zxgx6E5_L.jpg?v=1753085163
   Price: $39.99 USD
 - [GARVEE 8x10 Washable Rug - Modern Geometric Design](https://www.garvee.com/products/garvee-royhome-8x10-washable-rug-for-pho-0yv9m5lu): Discover the GARVEE 8x10 Washable Rug, featuring stain and water resistance, low pile for easy cleaning, and a stylish geometric design perfect for any room.
-  Updated: 2025-11-11T04:27:28Z
+  Updated: 2025-11-11T09:34:40Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716453236713.jpg?v=1755572709
   Price: $94.99 USD
 - [GARVEE 3x5 Boho Geometric Area Rug - Soft, Washable & Non-Shedding](https://www.garvee.com/products/garvee-cozyloom-moroccan-area-rug-3x5-pho-0yv9dlz8): Discover the GARVEE 3x5 Boho Area Rug, featuring a soft, durable polyester design with anti-slip backing. Perfect for high traffic areas, it's machine washable and stain resistant.
-  Updated: 2025-11-11T04:27:29Z
+  Updated: 2025-11-11T09:34:41Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81sw7tCufKL_d1e9b436-6b8c-47b1-b0b0-54258c10791a.jpg?v=1720084056
   Price: $46.99 USD
 - [GARVEE 9x12 Washable Rug - Stain Resistant & Easy Care](https://www.garvee.com/products/garvee-9x12-washable-rug-for-living-room-bohemian-farmhouse-area-rug-stain-resistant-area-rug-modern-geometric-area-rug-for-bedroom-dining-room-home-office-9-x-12-blue-garvee): Discover the GARVEE 9x12 Washable Rug, featuring stain-resistant polyester, a low pile for easy cleaning, and a modern geometric design, perfect for any room.
-  Updated: 2025-11-11T04:27:30Z
+  Updated: 2025-11-11T09:34:42Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716453246397_c2990078-4616-494b-a251-c9aaa29f0700.jpg?v=1755572757
   Price: $116.99 USD
 - [GARVEE 5x7 Washable Area Rug - Bohemian Grey Design](https://www.garvee.com/products/garvee-zacoo-moroccan-area-rugs-5x7-pho-0zumqj9h): Discover the GARVEE 5x7 Washable Area Rug, featuring soft faux wool, non-slip backing, and stain resistance, perfect for high-traffic areas in your home.
-  Updated: 2025-11-11T04:27:32Z
+  Updated: 2025-11-11T09:34:43Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/810yXQ09vEL.jpg?v=1720084102
   Price: $56.99 USD
 - [GARVEE Washable Rug - Stylish and Durable Area Rug for Your Home](https://www.garvee.com/products/garvee-nanan-washable-rug-8x10-large-pho-117ucigq): Transform your space with the GARVEE Washable Rug. Its non-slip, low-pile design is perfect for homes with kids and pets, ensuring safety and easy cleaning.
-  Updated: 2025-11-11T04:27:35Z
+  Updated: 2025-11-11T09:34:46Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91suuEYBHdL.jpg?v=1720084140
   Price: $53.99 USD
 - [GARVEE Living Room Rug - Stylish, Washable, Non-Slip Design](https://www.garvee.com/products/garvee-nanan-living-room-rug-5x7-pho-117upble): Transform your space with the GARVEE 5x7 Boho rug. Durable, washable, and non-slip, it's perfect for homes with kids and pets, adding style and comfort.
-  Updated: 2025-11-11T04:27:37Z
+  Updated: 2025-11-11T09:34:49Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81KerSbe_ZL.jpg?v=1727662242
   Price: $51.99 USD
 - [GARVEE Modern Rugs for Bedroom - Washable, Non-Slip, Floral Design](https://www.garvee.com/products/garvee-caromio-modern-rugs-for-bedroom-pho-0zxuaysn): Transform your space with GARVEE's 5x7 washable rug. Made of durable polyester, this non-slip, low-pile carpet features a beautiful floral design, perfect for any room.
-  Updated: 2025-11-11T04:27:38Z
+  Updated: 2025-11-11T09:34:49Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91YGw-awTmL.jpg?v=1720084144
   Price: $45.99 USD
 - [GARVEE Modern Floral Area Rug - Washable & Non-Slip](https://www.garvee.com/products/garvee-modern-floral-area-rug-9x12-washable-rug-non-slip-colorful-accent-rug-distressed-throw-carpet-boho-floral-living-room-rug-vintage-foldable-thin-rug-for-bedroom-home-office-floor-decor-blue-garvee): Transform your space with the GARVEE 9x12 Floral Area Rug. Its washable, non-slip design ensures durability and style, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:27:39Z
+  Updated: 2025-11-11T09:34:51Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RHCJ64z7L.jpg?v=1720084144
   Price: $118.99 USD
 - [GARVEE Modern Floral Distressed Area Rug - Machine Washable, Non-Slip, Low Pile](https://www.garvee.com/products/garvee-caromio-area-rugs-8x10-modern-pho-0zxumg9k): Transform your space with the GARVEE 8x10 Area Rug. Made from high-quality polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:27:42Z
+  Updated: 2025-11-11T09:34:55Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/9191sp0DYWL_d411da91-0207-4066-8c41-4370e54cc401.jpg?v=1720084220
   Price: $76.99 USD
 - [GARVEE Modern 5x7 Washable Floral Print Rug - Non-Slip & Easy-Clean](https://www.garvee.com/products/garvee-caromio-modern-rugs-for-bedroom-pho-0zxuepnx): Transform your space with GARVEE's 5x7 washable rug. Made of durable polyester, it features a stunning floral design and non-slip backing for safety.
-  Updated: 2025-11-11T04:27:43Z
+  Updated: 2025-11-11T09:34:55Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/9191sp0DYWL_1213d5b1-0464-42e7-9393-f12442315539.jpg?v=1720084198
   Price: $56.99 USD
 - [GARVEE 8x10 Modern Floral Distressed Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-caromio-area-rugs-8x10-modern-pho-0zxuli52): Transform your space with the GARVEE 8x10 floral area rug. Made of durable polyester, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:27:44Z
+  Updated: 2025-11-11T09:34:56Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RHCJ64z7L_a5ca7e92-6a59-4b1e-a21c-423721eae90c.jpg?v=1720084167
   Price: $93.99 USD
 - [GARVEE Washable Rug - Stylish and Durable Area Rug for Home](https://www.garvee.com/products/garvee-nanan-washable-rug-8x10-large-pho-117u7s5y): Discover the GARVEE Washable Rug, featuring a non-slip design, low-pile comfort, and easy maintenance. Perfect for families with kids and pets!
-  Updated: 2025-11-11T04:27:45Z
+  Updated: 2025-11-11T09:34:57Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_X4SMQ5HL_06a26b5e-ce2d-4fe2-a512-fa5072c1cab7.jpg?v=1720084221
   Price: $53.99 USD
 - [GARVEE Modern Washable Area Rug - Stylish, Non-Slip, and Family Friendly](https://www.garvee.com/products/garvee-modern-rug-9x12-large-washable-rugs-for-living-room-bedroom-boho-trellis-rug-low-pile-moroccan-office-floor-carpet-non-slip-dining-room-rug-geometric-distressed-area-rugs-farmhouse-rug-blue-garvee): Transform your space with the GARVEE 9x12 washable area rug. Its non-slip design, low-pile comfort, and geometric pattern make it perfect for family homes.
-  Updated: 2025-11-11T04:27:49Z
+  Updated: 2025-11-11T09:35:01Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_X4SMQ5HL_26e2016c-250d-43c2-9e94-30ecb1f08104.jpg?v=1720084210
   Price: $99.99 USD
 - [GARVEE Washable Area Rug - Elegant Non-Slip Design for Home Decor](https://www.garvee.com/products/garvee-iminrome-moroccan-washable-area-rug-pho-0zbijzoi): Elevate your space with GARVEE's 5x8 washable area rug. Featuring a stylish geometric pattern, it's soft, non-slip, stain-resistant, and easy to maintain.
-  Updated: 2025-11-11T04:27:53Z
+  Updated: 2025-11-11T09:35:05Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QFijNMFnL_be47fa0f-126c-4ceb-9018-b7019261a416.jpg?v=1720084166
   Price: $64.99 USD
 - [GARVEE Machine Washable Runner Rug - 2x8 Geometric Kitchen Rug](https://www.garvee.com/products/garvee-iminrome-moroccan-machine-washable-runner-pho-0zbimmpq): Discover the GARVEE Machine Washable Runner Rug, featuring a soft, non-slip design, geometric patterns, and stain resistance for effortless elegance in any room.
-  Updated: 2025-11-11T04:27:54Z
+  Updated: 2025-11-11T10:13:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -15114,35 +15128,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LIFoDp3vL.jpg?v=1720084152
   Price: $81.99 USD
 - [GARVEE 5x7 Boho Rug - Modern, Washable & Non-Slip Area Rug](https://www.garvee.com/products/garvee-nanan-living-room-rug-5x7-pho-117ufzxc): Elevate your space with the GARVEE 5x7 Boho Rug. This washable, non-slip rug features a low pile and geometric design, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:27:58Z
+  Updated: 2025-11-11T09:35:11Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51iC9bFmaXL_722ed506-37c5-4897-8a74-cbc92470bc7d.jpg?v=1720084207
   Price: $61.99 USD
 - [GARVEE Washable Rug - 8x10 Large Living Room Rug with Non-Slip Design](https://www.garvee.com/products/garvee-nanan-washable-rug-8x10-large-pho-117uob2s): Elevate your space with the GARVEE washable rug. Its low-pile, geometric design is perfect for homes with kids and pets, ensuring durability and easy cleaning.
-  Updated: 2025-11-11T04:28:00Z
+  Updated: 2025-11-11T09:35:13Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mR1rQS_6L_35e3442d-bc6b-48a9-a14c-86762163f657.jpg?v=1720084155
   Price: $80.99 USD
 - [GARVEE 8x10 Contemporary Area Rug - Modern Abstract Design](https://www.garvee.com/products/garvee-rugsreal-8x10-living-room-area-pho-0zljt6bw): Transform your space with the GARVEE 8x10 Area Rug. Made from durable polyester, it's machine washable, stain-resistant, and non-slip, perfect for any room!
-  Updated: 2025-11-11T04:28:05Z
+  Updated: 2025-11-11T09:35:17Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81KYYVoGZOL.jpg?v=1720084204
   Price: $116.99 USD
 - [GARVEE 8x10 Modern Floral Distressed Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-caromio-area-rugs-8x10-modern-pho-0zxudlkv): Transform your space with the GARVEE 8x10 rug, featuring a stunning floral design. Made of durable, machine-washable polyester, it's non-slip and perfect for any room.
-  Updated: 2025-11-11T04:28:07Z
+  Updated: 2025-11-11T09:35:20Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91YGw-awTmL_72c65528-3ebd-4f76-a9a2-512a30a13aa2.jpg?v=1720084159
   Price: $100.99 USD
 - [GARVEE Vintage Washable Rug - Stylish & Practical Home Decor](https://www.garvee.com/products/garvee-caromio-vintage-rugs-2x8-washable-pho-0zxuoid6): Transform your space with GARVEE's 2x8 washable rug. Durable, non-slip, and stain-resistant, this floral runner is perfect for high-traffic areas and easy to maintain.
-  Updated: 2025-11-11T04:28:10Z
+  Updated: 2025-11-11T10:13:58Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -15156,21 +15170,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91E50_RRXGL_d405d1fe-0ab5-43ef-bd16-f898456c17e5.jpg?v=1720084187
   Price: $141.99 USD
 - [GARVEE Runner Rug - Stylish, Washable, Non-Slip Design for Any Room](https://www.garvee.com/products/garvee-nanan-runner-rug-2x6-boho-pho-117uibul): Elevate your space with the GARVEE Runner Rug. Its low-pile, washable design, non-slip backing, and kid-friendly material make it perfect for any home.
-  Updated: 2025-11-11T04:28:15Z
+  Updated: 2025-11-11T10:14:00Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704866937268.jpg?v=1758074799
   Price: $37.99 USD
 - [GARVEE 5x7 Boho Living Room Rug - Modern, Washable, Non-Slip](https://www.garvee.com/products/garvee-nanan-living-room-rug-5x7-pho-117usukj): Elevate your space with the GARVEE 5x7 Boho rug. Washable, non-slip, and durable, it's perfect for homes with kids and pets, combining style and practicality.
-  Updated: 2025-11-11T04:28:15Z
+  Updated: 2025-11-11T09:35:28Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51eTY6XAF3L_a6116665-eff7-4cd8-96df-3c7ee4fabc19.jpg?v=1727662511
   Price: $35.99 USD
 - [GARVEE 9x12 Washable Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rugs-modern-area-rug-for-bedroom-abstract-rug-non-slip-carpet-throw-rugs-large-area-rug-stain-resistant-office-rug-classroom-rug-9x12-gold-multi-garvee): Transform your space with the GARVEE 9x12 area rug. Its stain-resistant, non-slip design ensures safety and durability, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:28:22Z
+  Updated: 2025-11-11T09:35:34Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -15191,91 +15205,91 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51RvwnMeiKL_0d3bb3a2-fb4b-45bf-8b3a-cafee0abec14.jpg?v=1720084339
   Price: $45.99 USD
 - [GARVEE 10x13 Fluffy Area Rug - Soft, Non-Slip, and Durable](https://www.garvee.com/products/garvee-caromio-10x13-fluffy-area-rugs-pho-0pw2qs9j): Experience ultimate comfort with GARVEE's 10x13 fluffy area rug. Its plush, non-slip design and high-density pile provide warmth and coziness for any room.
-  Updated: 2025-11-11T04:28:24Z
+  Updated: 2025-11-11T09:35:37Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407295780801578_46f7432c-0b2a-477a-ac2e-f2a5f635f157.jpg?v=1754475310
   Price: $119.99 USD
 - [GARVEE Modern Fluffy Area Rug - Plush, Non-Slip & Extra Large](https://www.garvee.com/products/garvee-caromio-fluffy-area-rugs-10x13-pho-0pw26ehq): Transform your space with the GARVEE Modern Fluffy Area Rug. This plush, non-slip rug offers comfort and style, perfect for living rooms, bedrooms, and nurseries.
-  Updated: 2025-11-11T04:28:25Z
+  Updated: 2025-11-11T09:35:38Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81lhSulF_tL_70e5ec94-3297-4ed1-8bdb-5522f7e36c1c.jpg?v=1720084344
   Price: $117.99 USD
 - [GARVEE 63"×79" Shaggy Area Rug - Non-Slip, Plush Comfort for Any Room](https://www.garvee.com/products/garvee-nanan-63-79-area-rugs-pho-0pw2ct0q): Discover the GARVEE 63"×79" shaggy rug, crafted from soft polyester for ultimate comfort. Non-slip backing ensures safety, while easy maintenance keeps it looking new.
-  Updated: 2025-11-11T04:28:26Z
+  Updated: 2025-11-11T09:35:39Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17407295919282688.jpg?v=1754471560
   Price: $54.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Non-Slip, Low Pile, Durable Design](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xa9z5p): Discover the GARVEE Vintage Medallion Area Rug, crafted from high-density polypropylene for comfort and durability. Non-slip backing ensures safety on any floor.
-  Updated: 2025-11-11T04:28:29Z
+  Updated: 2025-11-11T09:35:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91utYBv-MNL.jpg?v=1720084373
   Price: $156.99 USD
 - [GARVEE Vintage Medallion Area Rug - Comfort & Style for Your Home](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xa4nvw): Discover the GARVEE Vintage Medallion Area Rug, crafted from high-density polypropylene for durability and comfort. Non-slip, low pile, and easy to clean!
-  Updated: 2025-11-11T04:28:30Z
+  Updated: 2025-11-11T10:14:02Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91pOB-IvErL.jpg?v=1720084377
   Price: $50.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Comfort and Style](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xayyu3): Discover the GARVEE Vintage Medallion Area Rug, crafted from high-density polypropylene for a soft, durable, and non-slip experience, perfect for any room.
-  Updated: 2025-11-11T04:28:31Z
+  Updated: 2025-11-11T10:14:03Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81kZTcCMUML_30a43362-c8d1-4df8-8126-835dbab1ad6e.jpg?v=1720084380
   Price: $51.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Non-Slip, Durable, Stylish](https://www.garvee.com/products/garvee-vintage-medallion-textured-area-rug-for-living-room-traditional-indoor-low-pile-floor-cover-non-slip-backing-non-shedding-throw-carpet-for-bedroom-dining-room-home-office-floor-decor-garvee): Discover the GARVEE Vintage Medallion Area Rug, featuring a soft polypropylene surface, non-slip backing, and easy maintenance, perfect for any room.
-  Updated: 2025-11-11T04:28:31Z
+  Updated: 2025-11-11T09:35:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91utYBv-MNL_e7da37c8-b751-40a5-878f-cf5a49e422ae.jpg?v=1720084382
   Price: $146.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug – Non-Slip, Low Pile, Durable Design](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xaa1yq): Enhance your home with the GARVEE Vintage Medallion Area Rug, featuring a soft polypropylene surface, non-slip backing, and easy maintenance for lasting beauty.
-  Updated: 2025-11-11T04:28:32Z
+  Updated: 2025-11-11T09:35:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91br4BDWGXL_13a424d8-084a-4349-ac61-8a01f9969e54.jpg?v=1720084375
   Price: $77.99 USD
 - [GARVEE Vintage Medallion Area Rug - Comfort and Style for Your Home](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xarhul): Discover the GARVEE Vintage Medallion Area Rug, crafted from high-density polypropylene for durability and comfort. Non-slip, low pile design perfect for any room.
-  Updated: 2025-11-11T04:28:33Z
+  Updated: 2025-11-11T09:35:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912xiqbB_BL_c5b72504-0f6b-4702-a845-3cbdcf8c91fa.jpg?v=1760070173
   Price: $80.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Comfort and Style](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xamo8t): Elevate your home decor with GARVEE's vintage medallion area rug. Crafted from durable polypropylene, it offers a soft touch, non-slip backing, and easy maintenance.
-  Updated: 2025-11-11T04:28:34Z
+  Updated: 2025-11-11T10:14:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XNGfbvRBL.jpg?v=1720084373
   Price: $57.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Comfort & Style](https://www.garvee.com/products/garvee-vintage-medallion-textured-area-rug-for-living-room-traditional-indoor-low-pile-floor-cover-non-slip-backing-non-shedding-throw-carpet-for-bedroom-dining-room-home-office-floor-decor-garvee-1): Discover the GARVEE Vintage Medallion Area Rug, crafted from high-density polypropylene for softness and durability. Non-slip backing ensures safety, perfect for any room.
-  Updated: 2025-11-11T04:28:35Z
+  Updated: 2025-11-11T09:35:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912xiqbB_BL.jpg?v=1720084375
   Price: $223.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Comfort & Style](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xasgjx): Discover the GARVEE Vintage Medallion Area Rug, featuring soft polypropylene fibers, non-slip backing, and easy maintenance for a stylish and safe home.
-  Updated: 2025-11-11T04:28:35Z
+  Updated: 2025-11-11T09:35:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912xiqbB_BL_fa06b4cf-c458-4508-8206-97412bd6f9f9.jpg?v=1720084378
   Price: $133.99 USD
 - [GARVEE Vintage Medallion Textured Area Rug - Non-Slip, Low Pile, Durable](https://www.garvee.com/products/garvee-cozyloom-vintage-medallion-textured-area-pho-12xap050): Enhance your home with the GARVEE Vintage Medallion Area Rug. Made from high-density polypropylene, it offers comfort, durability, and slip-resistance for any room.
-  Updated: 2025-11-11T04:28:36Z
+  Updated: 2025-11-11T10:14:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -15331,7 +15345,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71-CBNRFB8L_c83cb274-22d6-4f9c-a49e-c01e7df4d530.jpg?v=1720084474
   Price: $49.99 USD
 - [GARVEE Foldable Japanese Floor Mattress - Versatile Comfort for Every Occasion](https://www.garvee.com/products/garvee-luluway-foldable-japanese-floor-mattress-pho-0yxd3edt): Experience ultimate comfort with the GARVEE Foldable Japanese Floor Mattress. Soft microfiber, supportive sponge, and foldable design make it perfect for camping, RVs, or home use.
-  Updated: 2025-11-10T21:53:50Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -15345,7 +15359,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71LfQUX8ULL_632c6f4d-f006-40fd-b885-616f7d35dc65.jpg?v=1741329424
   Price: $1,989.89 USD
 - [GARVEE Washable Rugs - Soft, Non-Shedding, Stain Resistant 8x10 Area Rug](https://www.garvee.com/products/garvee-garveehome-washable-rugs-8x10-area-pho-13p9s8jt): Discover GARVEE's 8x10 washable rug, featuring a soft faux wool surface, non-slip backing, and stain resistance, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:28:40Z
+  Updated: 2025-11-11T09:35:52Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -15555,7 +15569,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71PFHGyCBwL.jpg?v=1720084764
   Price: $62.99 USD
 - [GARVEE Bedroom Rug - Modern Abstract Design for Home](https://www.garvee.com/products/garvee-caromio-bedroom-rug-4x6-washable-pho-12zqea47): Discover the GARVEE Bedroom Rug, a washable, non-slip, and stain-resistant carpet. Perfect for high-traffic areas, it blends modern aesthetics with durability.
-  Updated: 2025-11-11T04:28:54Z
+  Updated: 2025-11-11T09:36:06Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -15618,21 +15632,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41x0pL9T4uL.jpg?v=1720084864
   Price: $399.99 USD
 - [GARVEE Boho Rug 9x12 - Vintage Washable Area Rug for Living Room](https://www.garvee.com/products/garvee-boho-rug-9x12-vintage-rug-washable-living-room-rugs-for-bedroom-non-slip-tribal-carpet-throw-rugs-large-area-rug-stain-resistant-office-rug-farmhouse-rug-orange-garvee): Transform your space with the GARVEE Boho Rug! This non-slip, stain-resistant, and washable rug is perfect for families and pets, adding style and comfort.
-  Updated: 2025-11-11T04:29:01Z
+  Updated: 2025-11-11T09:36:13Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rxESP4DML_a5ab1478-a8d9-4f15-ab88-0d948da390bf.jpg?v=1720084878
   Price: $130.99 USD
 - [GARVEE Runner Rug - Vintage Washable Hallway Rug](https://www.garvee.com/products/garvee-nanan-runner-rug-2x6-washable-pho-0ztb0nkl): Enhance your space with the GARVEE Runner Rug. This non-slip, washable rug features a floral design, low pile, and durable materials, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:29:02Z
+  Updated: 2025-11-11T10:14:08Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91To6zKTlBL.jpg?v=1720084878
   Price: $37.99 USD
 - [GARVEE Area Rugs for Living Room - Stylish and Functional](https://www.garvee.com/products/garvee-nanan-area-rugs-for-living-pho-0ztb3ivi): Transform your space with GARVEE's 8x10 washable area rug. Non-slip, stain-resistant, and kid-friendly, it's perfect for any room in your home!
-  Updated: 2025-11-11T04:29:03Z
+  Updated: 2025-11-11T09:36:15Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -15653,7 +15667,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Tm8_BcM9L.jpg?v=1727662544
   Price: $117.99 USD
 - [GARVEE 2 in 1 Kids Vanity Table with Lights - Enchant Your Little Princess](https://www.garvee.com/products/garvee-hobbyfield-kids-vanity-table-girls-pho-0zl4ngyu): Transform your little girl's room with the GARVEE Kids Vanity Table. This multifunctional vanity and desk set features a touch light and detachable mirror, perfect for beauty and study.
-  Updated: 2025-11-10T02:27:53Z
+  Updated: 2025-11-11T08:05:43Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Armoires & Dressers
   Availability: Available
@@ -15737,7 +15751,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71DbzK7Ar_L.jpg?v=1720085085
   Price: $260.99 USD
 - [GARVEE 59 inch Farmhouse TV Stand - Stylish & Versatile Media Console](https://www.garvee.com/products/garvee-idealhouse-farmhouse-tv-stand-entertainment-pho-0pv8xq0k): Discover the GARVEE 59 inch Farmhouse TV Stand, perfect for indoor use. This multifunctional media console offers ample storage and rustic charm for any room.
-  Updated: 2025-11-11T05:06:21Z
+  Updated: 2025-11-11T08:05:40Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > TV Stands & Media Consoles
   Availability: Available
@@ -15772,7 +15786,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81eilX9MQCL.jpg?v=1720085197
   Price: $82.99 USD
 - [GARVEE Bar Table Set - Versatile Dining & Bar Solution for Small Spaces](https://www.garvee.com/products/garvee-idealhouse-bar-table-set-of-pho-12drr1pv): Discover the GARVEE Bar Table Set, perfect for indoor use. Its multi-functional design suits dining or bar needs, ideal for compact living spaces.
-  Updated: 2025-11-04T09:52:49Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -15814,7 +15828,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/31KRFiP7h7L.jpg?v=1751855861
   Price: $109.99 USD
 - [GARVEE Wide 10 Drawer Dresser - Versatile Storage Solution for Any Room](https://www.garvee.com/products/garvee-jojoka-wide-10-drawer-dresser-pho-11qytalp): Discover the GARVEE Wide 10 Drawer Dresser, perfect for bedrooms, hallways, and nurseries. This multifunctional storage solution serves as a TV stand and more!
-  Updated: 2025-11-10T19:38:48Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > TV Stands & Media Consoles
   Availability: Available
@@ -15947,14 +15961,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61otPR0j4QL.jpg?v=1720085579
   Price: $141.99 USD
 - [GARVEE 8x10 Bohemian Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-zacoo-8x10-rug-for-bedroom-pho-0zhvnhqp): Elevate your space with GARVEE's 8x10 Bohemian rug. Soft faux wool, machine washable, and non-slip design make it perfect for any room. Enjoy comfort and style!
-  Updated: 2025-11-11T04:29:09Z
+  Updated: 2025-11-11T09:36:20Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rv3Xjk-uL.jpg?v=1720085591
   Price: $97.99 USD
 - [GARVEE Machine Washable Area Rug - Vintage Boho Style](https://www.garvee.com/products/garvee-machine-washable-9x12-area-rug-for-living-room-bedroom-farmhouse-home-office-decor-carpet-vintage-boho-style-ultra-soft-with-non-slip-backing-grey-tan-garvee): Discover the GARVEE 9x12 area rug, featuring ultra-soft polyester, non-slip backing, and stain resistance, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:29:17Z
+  Updated: 2025-11-11T09:36:28Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16003,7 +16017,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61X0WndRYNL_ee732a5a-1bc0-4240-b9a0-b7475de892d0.jpg?v=1720085717
   Price: $1,399.99 USD
 - [GARVEE 8x10 Area Rugs - Bohemian Style for Living Room & Bedroom](https://www.garvee.com/products/garvee-zacoo-8x10-area-rugs-for-pho-0yn98kdz): Transform your space with GARVEE's 8x10 area rug. Soft, stain-resistant, and non-slip, this low-pile rug features a vibrant geometric design, perfect for any room.
-  Updated: 2025-11-11T04:29:19Z
+  Updated: 2025-11-11T09:36:30Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -16024,28 +16038,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71s6Y8-m4ML_a7608425-3518-48bd-80fc-5a6c6074733a.jpg?v=1735522339
   Price: $226.99 USD
 - [Transform Your Space with GARVEE's 8x10 Washable Boho Rug](https://www.garvee.com/products/garvee-rugsreal-living-room-rug-8x10-pho-1192de6i): Elevate your home decor with GARVEE's 8x10 washable rug, featuring a non-slip design, vibrant red color, and vintage pattern, perfect for any room.
-  Updated: 2025-11-11T04:29:21Z
+  Updated: 2025-11-11T09:36:32Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MP6ez8kCL.jpg?v=1753434089
   Price: $119.99 USD
 - [GARVEE Living Room Rug 8x10 - Stylish and Functional](https://www.garvee.com/products/garvee-rugsreal-living-room-rug-8x10-pho-1192vr90): Transform your space with the GARVEE 8x10 washable rug. Its non-slip, fluffy design offers safety and comfort, while the vintage pattern enhances any room's style.
-  Updated: 2025-11-11T04:29:23Z
+  Updated: 2025-11-11T09:36:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rO3YrtWCL.jpg?v=1737365828
   Price: $86.99 USD
 - [Garvee Canopy Tent 10x10 Pop Up Commercial 210D Oxford UV50 Waterproof 3 Sidewalls Outdoor](https://www.garvee.com/products/garvee-10x10-ft-pop-up-pho-10se02ne): Experience effortless outdoor events with the GARVEE Pop Up Canopy. Waterproof, UPF 50+ fabric, quick setup, and three-sided design ensure comfort and privacy.
-  Updated: 2025-11-11T04:31:31Z
+  Updated: 2025-11-11T09:15:50Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Shade > Canopy Tents
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71o3hTN9uiL.jpg?v=1735802974
   Price: $139.99 USD
 - [Garvee 10'x10' Pop-Up Canopy Tent with 3 Removable Sidewalls - Heavy Duty Commercial Instant Tent for Farmers Market, Craft Fair, Event, Vendor, Blue](https://www.garvee.com/products/garvee-10-x-10-pop-pho-10seia8n): GARVEE 10'x10' pop-up canopy tent with 3 removable sidewalls offers waterproof, flame-resistant, UPF 50+ sun protection. Covers 100 sq ft, easy tool-free setup, and includes stakes, sandbags, and roller bag—ideal for markets, events, camping, and more.
-  Updated: 2025-11-11T02:07:57Z
+  Updated: 2025-11-11T08:16:25Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Outdoor Shade > Canopy Tents
   Availability: Available
@@ -16073,7 +16087,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61MOzx6ks_L.jpg?v=1720085989
   Price: $487.99 USD
 - [GARVEE Runner Rugs - Stylish & Washable Area Rug for Hallways](https://www.garvee.com/products/garvee-nanan-runner-rugs-2x6-border-pho-0zw7fga8): Discover the GARVEE Runner Rug, featuring a non-slip design and low-pile, machine-washable fabric. Perfect for kids and pets, it combines style with practicality.
-  Updated: 2025-11-11T04:29:38Z
+  Updated: 2025-11-11T10:14:14Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -16101,7 +16115,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81A1j6VoAuL.jpg?v=1720086110
   Price: $99.99 USD
 - [GARVEE 6x9 Washable Boho Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-zacoo-6x9-rug-for-living-pho-0ztacs1r): Transform your space with the GARVEE 6x9 Rug. This soft, washable, and non-slip rug is perfect for high-traffic areas, offering durability and style.
-  Updated: 2025-11-11T04:29:52Z
+  Updated: 2025-11-11T09:37:01Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -16241,35 +16255,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61STHUUF2oL.jpg?v=1721212387
   Price: $568.99 USD
 - [GARVEE Modern Area Rug - Washable & Durable 6x9 Floor Cover](https://www.garvee.com/products/garvee-nanan-living-room-rug-modern-pho-10rrysi7): Elevate your space with the GARVEE 6x9 area rug. Its low pile, washable design is perfect for homes with kids and pets, combining style and practicality.
-  Updated: 2025-11-11T04:30:00Z
+  Updated: 2025-11-11T09:37:10Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NkcfaIIML.jpg?v=1720086409
   Price: $73.99 USD
 - [GARVEE Modern Area Rug - Washable, Non-Slip, Stylish Design](https://www.garvee.com/products/garvee-nanan-living-room-rug-modern-pho-10rrc33s): Elevate your space with the GARVEE modern area rug. Washable, low-pile, and durable, it's perfect for homes with kids and pets. Enjoy comfort and style!
-  Updated: 2025-11-11T04:30:01Z
+  Updated: 2025-11-11T09:37:11Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81DvzlRYjzL.jpg?v=1720086410
   Price: $73.99 USD
 - [GARVEE Modern Area Rug - Stylish & Washable for Any Room](https://www.garvee.com/products/garvee-nanan-living-room-rug-modern-pho-10rrkico): Elevate your space with the GARVEE 6x9 area rug. Its low pile, washable design is perfect for homes with kids and pets, offering durability and style.
-  Updated: 2025-11-11T04:30:02Z
+  Updated: 2025-11-11T09:37:12Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51yAkPAJvnL.jpg?v=1720086413
   Price: $65.99 USD
 - [GARVEE 9x12 Large Abstract Rug - Modern & Washable](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-abstract-rug-modern-rug-distressed-area-rugs-for-bedroom-office-washable-dining-room-carpet-vintage-border-area-rugs-grey-low-pile-non-slip-floor-cover-garvee): Transform your space with the GARVEE 9x12 rug. Its low-pile, non-slip design is perfect for families, while being stylish, durable, and easy to clean.
-  Updated: 2025-11-11T04:30:03Z
+  Updated: 2025-11-11T09:37:12Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NkcfaIIML_5e27b063-cf23-45ec-a339-c01c2e14e053.jpg?v=1720086413
   Price: $122.99 USD
 - [GARVEE 5x7 Modern Abstract Area Rug - Stylish & Washable](https://www.garvee.com/products/garvee-nanan-area-rugs-5x7-modern-pho-10rr57t7): Elevate your space with the GARVEE 5x7 Area Rug. This stylish, washable rug features a low pile, non-slip backing, and is perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:30:05Z
+  Updated: 2025-11-11T09:37:14Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
@@ -16290,7 +16304,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1691390797396.jpg?v=1750835764
   Price: $134.99 USD
 - [GARVEE Washable Area Rug - Modern Abstract Design for Any Room](https://www.garvee.com/products/garvee-washable-area-rug-modern-abstract-rug-foldable-soft-indoor-carpet-with-non-slip-backing-low-pile-non-shedding-floor-mat-for-living-room-bedroom-dining-room-office-9x12-garvee): Elevate your space with the GARVEE Washable Area Rug. Featuring a stylish abstract design, non-slip backing, and low pile for easy maintenance. Perfect for any indoor setting!
-  Updated: 2025-11-11T04:30:09Z
+  Updated: 2025-11-11T09:37:17Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16325,7 +16339,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ZXiNIGTaL_3195ff4e-c520-4340-a262-83e1000dc283.jpg?v=1720087859
   Price: $53.99 USD
 - [GARVEE Washable Area Rug - Modern Abstract Design for Any Room](https://www.garvee.com/products/garvee-washable-area-rug-modern-abstract-pho-0zfjc2uo): Discover the GARVEE Washable Area Rug, featuring a stylish abstract design, low pile for minimal shedding, and non-slip backing for safety. Perfect for any indoor space!
-  Updated: 2025-11-11T04:30:09Z
+  Updated: 2025-11-11T09:37:18Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16353,14 +16367,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/515ThBZGx-L.jpg?v=1720087907
   Price: $45.99 USD
 - [GARVEE Modern Abstract Beige Blue Area Rug - Stylish & Practical](https://www.garvee.com/products/garvee-modern-abstract-beige-blue-area-rug-9x12-stain-resistant-washable-floor-mat-non-shedding-non-slip-backing-carpet-for-living-room-bedroom-dining-room-office-garvee): Transform your space with the GARVEE Beige Blue Area Rug. Stain-resistant, washable, and non-slip, it combines elegance and functionality for any room.
-  Updated: 2025-11-11T04:30:10Z
+  Updated: 2025-11-11T09:37:19Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ZpzxrEYiL_737223a5-073c-4bcc-8649-7e2377c15a4a.jpg?v=1720087907
   Price: $104.99 USD
 - [GARVEE Modern Abstract Beige Blue Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-modern-abstract-beige-blue-area-pho-0z3pglf6): Elevate your space with the GARVEE Modern Abstract Beige Blue Rug. Stain-resistant, washable, and non-slip, it's perfect for any room while ensuring easy maintenance.
-  Updated: 2025-11-11T04:30:11Z
+  Updated: 2025-11-11T10:14:23Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16381,7 +16395,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ZpzxrEYiL_54af8cd8-7b22-480f-95c9-bcb4f015e19b.jpg?v=1720087907
   Price: $78.99 USD
 - [GARVEE Modern Abstract Beige Blue Area Rug - Stylish, Stain Resistant & Washable](https://www.garvee.com/products/garvee-modern-abstract-beige-blue-area-pho-0z3pc50q): Elevate your space with GARVEE's modern abstract beige-blue rug. Stain-resistant, washable, and non-slip, it's perfect for any indoor room.
-  Updated: 2025-11-11T04:30:12Z
+  Updated: 2025-11-11T09:37:20Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16395,7 +16409,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81EMjoadLsL.jpg?v=1720087907
   Price: $58.99 USD
 - [GARVEE Washable Soft Area Rug - Modern Abstract Design, Stain Resistant, Non-Slip Backing](https://www.garvee.com/products/garvee-washable-soft-area-rug-8x10-pho-0z3qktpc): Discover the GARVEE 8x10 Washable Area Rug with a modern abstract design. Stain-resistant, foldable, and non-slip, it's perfect for any room!
-  Updated: 2025-11-11T04:30:12Z
+  Updated: 2025-11-11T09:37:21Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16430,7 +16444,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QWP0o-66L_b724cefc-542c-4f48-a3be-bb78b7ebf808.jpg?v=1720087922
   Price: $71.99 USD
 - [GARVEE Large Area Rug: Modern, Washable, Non-Slip Design for Any Room](https://www.garvee.com/products/garvee-large-area-rug-for-bedroom-modern-accent-rug-machine-washable-rug-non-slip-9x12-carpet-for-living-room-bedroom-dining-room-kitchen-rug-garvee): Transform your space with GARVEE's 9x12 modern area rug. Made from durable polyester, it's machine washable, non-slip, and perfect for living rooms, bedrooms, and kitchens.
-  Updated: 2025-11-11T04:30:13Z
+  Updated: 2025-11-11T09:37:22Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -16549,7 +16563,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61TPtuDrZ0L_57bb1050-b8bb-4d34-80c6-fd69b83ec7d4.jpg?v=1720088100
   Price: $216.99 USD
 - [GARVEE Full Size Platform Bed Frame - Stylish & Versatile](https://www.garvee.com/products/garvee-gaomon-full-size-platform-bed-pho-10jw9k75): Discover the GARVEE Full Size Platform Bed Frame, perfect for indoor use. Its adjustable headboard and elegant design offer multi-functional comfort for any bedroom.
-  Updated: 2025-11-11T06:25:53Z
+  Updated: 2025-11-11T09:21:01Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -16584,21 +16598,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51-_HRRdofL.jpg?v=1720088141
   Price: $61.99 USD
 - [GARVEE Washable Area Rugs 9x12 - Vintage Floral Design](https://www.garvee.com/products/garvee-washable-area-rugs-9-x-12-rug-for-bedroom-non-slip-large-area-rugs-for-living-room-vintage-floral-rug-distressed-chenille-carpet-stain-resistant-throw-rugs-for-dining-room-brown-9x12-garvee): Enhance your space with GARVEE's 9x12 washable area rug. Featuring a non-slip TPR backing, stain resistance, and soft chenille, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:30:18Z
+  Updated: 2025-11-11T09:37:26Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mFL8X5xTL_908c0713-aebd-4e21-9ebf-0d6cea7ac5a8.jpg?v=1720088190
   Price: $67.99 USD
 - [GARVEE Washable Area Rugs - Non Slip, Stain Resistant, Vintage Floral Design](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-living-room-non-slip-large-area-rugs-for-bedroom-vintage-floral-rug-distressed-blue-rug-chenille-carpet-stain-resistant-throw-rugs-for-dining-room-blue-9x12-garvee): Transform your space with GARVEE's 9x12 washable area rug, featuring a non-slip TPR backing, stain resistance, and soft chenille for comfort and style.
-  Updated: 2025-11-11T04:30:21Z
+  Updated: 2025-11-11T09:37:29Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91eYkRTNzDL_0154f832-6876-41b1-9954-8c526f8cb18e.jpg?v=1720088190
   Price: $103.99 USD
 - [GARVEE 6x9 Washable Area Rug - Non-Slip, Stain Resistant, Vintage Design](https://www.garvee.com/products/garvee-cozyloom-washable-area-rug-6x9-pho-13fyp9do): Revamp your space with GARVEE's 6x9 washable area rug. Featuring a non-slip TPR backing, stain resistance, and soft chenille, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:30:23Z
+  Updated: 2025-11-11T09:37:30Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -16619,21 +16633,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Pdcf0RjDL.jpg?v=1720088213
   Price: $277.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Floral Design, Machine Washable & Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-machine-washable-area-rug-vintage-distressed-accent-rug-traditional-floral-medallion-stain-resistant-non-slip-floor-cover-carpet-rug-for-living-room-home-decor-pink-garvee): Transform your living space with the GARVEE 9x12 Area Rug. This vintage floral rug is machine washable, stain resistant, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:30:26Z
+  Updated: 2025-11-11T09:37:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91BWTJ5AgmL_234bc34e-847a-4f96-9343-a3a7596c2fd8.jpg?v=1753500860
   Price: $125.99 USD
 - [GARVEE Vintage Area Rug - Stylish, Machine Washable & Stain Resistant](https://www.garvee.com/products/garvee-rugsreal-vintage-area-rug-5x7-pho-105j6fko): Discover the GARVEE Vintage Area Rug, a 5x7 machine washable, stain-resistant, and non-slip rug. Perfect for any decor, it combines style with practicality!
-  Updated: 2025-11-11T04:30:27Z
+  Updated: 2025-11-11T09:37:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91PlSGvxtkL.jpg?v=1720088302
   Price: $57.99 USD
 - [GARVEE 9x12 Machine Washable Area Rug - Vintage Floral Medallion](https://www.garvee.com/products/garvee-9x12-area-rug-machine-washable-area-rug-vintage-distressed-accent-rug-traditional-floral-medallion-stain-resistant-non-slip-floor-cover-carpet-rug-for-living-room-home-decor-black-grey-garvee): Transform your living space with the GARVEE 9x12 Area Rug. This machine washable, stain-resistant rug features a vintage floral design, non-slip backing, and is perfect for high-traffic areas.
-  Updated: 2025-11-11T04:30:27Z
+  Updated: 2025-11-11T09:37:35Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16675,7 +16689,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61zRoNzBUeL.jpg?v=1720088326
   Price: $204.99 USD
 - [GARVEE Geometric Area Rug - Stylish and Practical for Any Room](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-2x3-pho-0zuakq1m): Enhance your home with the GARVEE Geometric Area Rug. Machine washable, stain resistant, and non-slip, it's perfect for high-traffic areas and easy to maintain.
-  Updated: 2025-11-11T04:30:32Z
+  Updated: 2025-11-11T10:14:25Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -16794,63 +16808,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91fSIHfGgYL.jpg?v=1720089283
   Price: $34.99 USD
 - [GARVEE Console Table - Versatile 3-Tier Entryway Table for Home](https://www.garvee.com/products/garvee-idealhouse-console-table-3-tier-pho-0zpj8wki): Discover the GARVEE Console Table, perfect for indoor spaces like living rooms and hallways. Its multi-functional design offers stylish storage for any room.
-  Updated: 2025-11-10T17:35:27Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Console Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41O28He0bYL.jpg?v=1740100948
   Price: $86.99 USD
 - [GARVEE Vintage Area Rug 5x7 - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-haperlare-vintage-area-rug-5x7-pho-13gaotj7): Discover the GARVEE Vintage Area Rug: a soft, washable, stain-resistant rug perfect for high-traffic areas. Ideal for kids and pets, with a non-slip backing.
-  Updated: 2025-11-11T04:30:38Z
+  Updated: 2025-11-11T09:37:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tUquVeQjL.jpg?v=1720089313
   Price: $43.99 USD
 - [GARVEE Runner Rug 2x6 - Vintage Print, Washable & Non-Slip](https://www.garvee.com/products/garvee-haperlare-runner-rug-2x6-washable-pho-13ga22j1): Discover the GARVEE Runner Rug! Soft, stain-resistant, and washable with a non-slip backing, perfect for kids and pets. Elevate your home decor effortlessly!
-  Updated: 2025-11-11T04:30:39Z
+  Updated: 2025-11-11T10:14:27Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81kc7FbXYwL.jpg?v=1720089313
   Price: $40.99 USD
 - [GARVEE Vintage Area Rug 5x7 - Soft, Washable, Stain Resistant](https://www.garvee.com/products/garvee-haperlare-vintage-area-rug-5x7-pho-13gaav9t): Discover the GARVEE Vintage Area Rug, a soft, stain-resistant, and washable rug perfect for high traffic areas. Ideal for kids and pets, ensuring safety and comfort.
-  Updated: 2025-11-11T04:30:41Z
+  Updated: 2025-11-11T09:37:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91YdUzHzK5L.jpg?v=1720089313
   Price: $54.99 USD
 - [GARVEE Washable Rug 8x10 - Vintage Light Orange Area Rug with Non-Slip Backing](https://www.garvee.com/products/garvee-haperlare-washable-rug-8x10-ultra-pho-13gau5q2): Discover the GARVEE Washable Rug: a stain-resistant, ultra-thin area rug perfect for kids and pets. Enjoy easy cleaning and a non-slip design for safety.
-  Updated: 2025-11-11T04:30:42Z
+  Updated: 2025-11-11T09:37:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915pxgg0pRL.jpg?v=1720089313
   Price: $115.99 USD
 - [GARVEE Large Area Rug 9x12 - Vintage Distressed Non-Slip Washable Rug](https://www.garvee.com/products/garvee-large-area-rug-9x12-vintage-distressed-rug-non-slip-washable-rug-ultra-thin-soft-rug-stain-resistant-area-rug-low-pile-throw-carpet-for-farmhouse-office-navy-garvee): Discover the GARVEE 9x12 Vintage Area Rug, featuring soft, stain-resistant polyester, non-slip backing, and easy machine wash care, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:30:43Z
+  Updated: 2025-11-11T09:37:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91JetaP-XoL.jpg?v=1720089313
   Price: $142.99 USD
 - [GARVEE Washable Rug 8x10 - Stylish and Durable](https://www.garvee.com/products/garvee-haperlare-washable-rug-8x10-ultra-pho-13gam2gq): Discover the GARVEE Washable Rug, featuring a non-slip backing, stain resistance, and soft polyester material. Perfect for kids and pets, easy to clean!
-  Updated: 2025-11-11T04:30:44Z
+  Updated: 2025-11-11T09:37:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91y_VikFDKL.jpg?v=1720089313
   Price: $112.99 USD
 - [GARVEE Large Area Rug 9x12 - Vintage Distressed Non-Slip Washable](https://www.garvee.com/products/garvee-large-area-rug-9x12-vintage-distressed-rug-non-slip-washable-rug-ultra-thin-soft-rug-stain-resistant-area-rug-low-pile-throw-carpet-for-farmhouse-office-light-orange-garvee): Discover the GARVEE 9x12 Vintage Distressed Rug, perfect for homes with kids and pets. Soft, stain-resistant, and easy to clean, it enhances any space.
-  Updated: 2025-11-11T04:30:45Z
+  Updated: 2025-11-11T09:37:51Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51v2ZvS9umL.jpg?v=1720089314
   Price: $141.99 USD
 - [GARVEE Large Area Rug 9x12 - Vintage Distressed Non-Slip Washable Rug](https://www.garvee.com/products/garvee-large-area-rug-9x12-vintage-distressed-rug-non-slip-washable-rug-ultra-thin-soft-rug-stain-resistant-area-rug-low-pile-throw-carpet-for-farmhouse-office-grey-garvee): Discover the GARVEE 9x12 area rug, featuring soft, stain-resistant polyester, a non-slip backing, and easy machine washability, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:30:46Z
+  Updated: 2025-11-11T09:37:52Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16864,7 +16878,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/611NvsSFAmL.jpg?v=1720089767
   Price: $56.99 USD
 - [GARVEE Washable Vintage Area Rug - 9x12 Traditional Oriental Medallion Floral Design](https://www.garvee.com/products/garvee-washable-vintage-area-rug-9x12-traditional-oriental-medallion-floral-design-stain-resistant-indoor-print-carpet-for-entryway-bedroom-living-room-office-kitchen-kid-pet-friendly-grey-garvee): Discover the GARVEE Washable Vintage Area Rug, featuring a stain-resistant, kid & pet-friendly design. Perfect for any indoor space, this stylish grey rug combines functionality with elegance.
-  Updated: 2025-11-11T04:30:47Z
+  Updated: 2025-11-11T09:37:53Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16878,7 +16892,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81p-Jriqh4L.jpg?v=1720089768
   Price: $35.99 USD
 - [GARVEE Washable Vintage Area Rug - 5x7 Traditional Oriental Medallion](https://www.garvee.com/products/garvee-washable-vintage-area-rug-5x7-pho-0zoqo6ag): Enhance your space with the GARVEE Washable Vintage Area Rug. Stain-resistant, kid & pet-friendly, this grey floral rug is perfect for any room and easy to maintain.
-  Updated: 2025-11-11T04:30:47Z
+  Updated: 2025-11-11T09:37:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16906,7 +16920,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LWDS5f92L.jpg?v=1720089768
   Price: $35.99 USD
 - [GARVEE Washable Vintage Area Rug - 5x7 Traditional Oriental Medallion Floral Design](https://www.garvee.com/products/garvee-washable-vintage-area-rug-5x7-pho-0zoqq77s): Transform your space with the GARVEE Washable Vintage Area Rug. This elegant, stain-resistant rug features a traditional floral design, perfect for any room.
-  Updated: 2025-11-11T04:30:48Z
+  Updated: 2025-11-11T09:37:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16927,7 +16941,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AN-AMquzL.jpg?v=1720089768
   Price: $46.99 USD
 - [GARVEE Washable Vintage Area Rug - 9x12 Stain Resistant Floral Design](https://www.garvee.com/products/garvee-washable-vintage-area-rug-9x12-traditional-oriental-medallion-floral-design-stain-resistant-indoor-print-carpet-for-entryway-bedroom-living-room-office-kitchen-kid-pet-friendly-beige-garvee): Transform your space with the GARVEE Washable Vintage Area Rug. This 9x12 beige rug features a stunning floral medallion design, is stain resistant, and kid & pet friendly.
-  Updated: 2025-11-11T04:30:50Z
+  Updated: 2025-11-11T09:37:57Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -16969,28 +16983,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rTgam8JML.jpg?v=1720090326
   Price: $198.99 USD
 - [Discover the GARVEE 4x6 Washable Area Rug - Modern, Soft, and Non-Slip](https://www.garvee.com/products/garvee-zacoo-geometric-area-rug-4x6-pho-0zesbzwl): Elevate your space with the GARVEE 4x6 washable rug. Featuring a fluffy low-pile design, non-slip backing, and stylish geometric patterns, it's perfect for any room.
-  Updated: 2025-11-11T04:30:54Z
+  Updated: 2025-11-11T09:38:01Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81NFNE76BjL.jpg?v=1720090519
   Price: $41.99 USD
 - [GARVEE 5x7 Fluffy Non-Slip Rug - Machine Washable & Stain Resistant](https://www.garvee.com/products/garvee-zacoo-5x7-rug-for-bedroom-pho-0zes6nof): Transform your space with GARVEE's 5x7 fluffy rug. Machine washable, non-slip, and stain-resistant, it adds comfort and style to any room effortlessly.
-  Updated: 2025-11-11T04:30:56Z
+  Updated: 2025-11-11T09:38:02Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81NFNE76BjL_fbd10355-5e67-444c-8d0d-8f84be0b1707.jpg?v=1720090519
   Price: $49.99 USD
 - [GARVEE Vintage Area Rug - Stylish & Machine Washable](https://www.garvee.com/products/garvee-vintage-area-rug-machine-washable-extral-large-9-x-12-boho-distressed-area-rugs-traditional-chic-carpet-coffee-table-rug-farmhouse-dining-table-rug-office-bedroom-decor-medallion-peach-garvee): Elevate your space with the GARVEE Vintage Area Rug. This 9' x 12' rug features a chic boho design, is machine washable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:30:58Z
+  Updated: 2025-11-11T09:38:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51JmS6jE-xL.jpg?v=1727691574
   Price: $105.99 USD
 - [GARVEE Washable 8x10 Distressed Black Area Rug - Non-Slip, Stain Resistant, Pet Friendly](https://www.garvee.com/products/garvee-gaomon-washable-rugs-8x10-rug-pho-12gfu94x): Discover the GARVEE Washable 8x10 Distressed Black Area Rug, featuring non-slip backing, stain resistance, and a durable chenille surface, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:00Z
+  Updated: 2025-11-11T09:38:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17004,28 +17018,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cNN3yekkL.jpg?v=1720090813
   Price: $142.99 USD
 - [GARVEE Washable Area Rugs - Luxurious & Stain Resistant](https://www.garvee.com/products/garvee-gaomon-washable-area-rugs-4x6-pho-12gfvk75): Discover the GARVEE 4x6 Washable Area Rug, featuring a non-slip backing, stain resistance, and premium chenille for a cozy, vintage touch in any room.
-  Updated: 2025-11-11T04:31:02Z
+  Updated: 2025-11-11T09:38:07Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cNN3yekkL_086a6e2a-ed70-4bd4-b666-4d9fcb214b59.jpg?v=1720090813
   Price: $54.99 USD
 - [GARVEE Washable 8x10 Vintage Area Rug - Non-Slip & Stain Resistant](https://www.garvee.com/products/garvee-gaomon-washable-rugs-8x10-rug-pho-12gfshex): Discover the GARVEE 8x10 vintage area rug, featuring a soft chenille surface, non-slip backing, and stain resistance, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:07Z
+  Updated: 2025-11-11T09:38:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cNN3yekkL_8875de63-9c4e-4049-8abe-139e03f6f6cd.jpg?v=1720090817
   Price: $116.99 USD
 - [GARVEE Washable 5x7 Vintage Boho Area Rug - Soft, Non-Slip & Stain Resistant](https://www.garvee.com/products/garvee-cozyloom-washable-5x7-area-rugs-pho-13gbyw8j): Transform your space with GARVEE's ultra-soft, washable 5x7 area rug. Featuring non-slip backing and stain resistance, it's perfect for kids and pets.
-  Updated: 2025-11-11T04:31:09Z
+  Updated: 2025-11-11T09:38:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jnU9iMCOL.jpg?v=1720090890
   Price: $34.99 USD
 - [GARVEE Vintage Boho Rug - Super Soft & Washable 9x12 Indoor Carpet](https://www.garvee.com/products/garvee-vintage-boho-rug-9x12-super-soft-washable-rugs-for-living-room-non-slip-non-shedding-indoor-carpet-low-pile-accent-rug-large-rug-for-home-decor-office-light-orange-garvee): Discover the GARVEE Vintage Boho Rug, a 9x12 super soft, washable, and stain-resistant carpet with non-slip backing, perfect for homes with pets and kids.
-  Updated: 2025-11-11T04:31:09Z
+  Updated: 2025-11-11T09:38:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17039,42 +17053,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81163QmFJ-L.jpg?v=1720090890
   Price: $25.99 USD
 - [GARVEE Large Area Rug - Stylish, Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-cozyloom-large-area-rug-8x10-pho-13gbb7mn): Discover the GARVEE 8x10 Bohemian Rug, featuring a soft, stain-resistant polyester design, non-slip backing, and pet-friendly materials. Perfect for any space!
-  Updated: 2025-11-11T04:31:10Z
+  Updated: 2025-11-11T09:38:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jnU9iMCOL_f209d83a-3837-4f31-9e79-b01902eae62f.jpg?v=1720090890
   Price: $120.99 USD
 - [GARVEE Washable Runner Rug 2x6 - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-cozyloom-washable-runner-rug-2x6-pho-13gb1lb7): Discover the GARVEE Washable Runner Rug, featuring stain resistance, non-slip backing, and safe materials for kids and pets. Perfect for any indoor space!
-  Updated: 2025-11-11T04:31:12Z
+  Updated: 2025-11-11T10:14:32Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81D6bCI8f_L.jpg?v=1720090890
   Price: $46.99 USD
 - [GARVEE Large Area Rug 8x10 - Stylish and Functional](https://www.garvee.com/products/garvee-cozyloom-large-area-rug-8x10-pho-13gbqc7q): Discover the GARVEE 8x10 Large Area Rug, featuring stain-resistant polyester, non-slip backing, and a pet-friendly design, perfect for any bedroom.
-  Updated: 2025-11-11T04:31:12Z
+  Updated: 2025-11-11T09:38:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91-SFdsXVVL_f7a397ab-6045-4a8c-9b34-b98e2312a042.jpg?v=1720090890
   Price: $92.99 USD
 - [GARVEE Vintage Boho Rug - Soft, Washable, Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-vintage-boho-rug-9x12-super-soft-washable-rugs-for-living-room-non-slip-non-shedding-indoor-carpet-low-pile-accent-rug-large-rug-for-home-decor-office-beige-grey-garvee): Discover the GARVEE Vintage Boho Rug: super soft, washable, non-slip, and stain-resistant. Perfect for kids and pets, enhancing your living space with style!
-  Updated: 2025-11-11T04:31:13Z
+  Updated: 2025-11-11T09:38:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EUH23-dzL_abdfddc8-29d0-47bd-82ca-4cdd7bc39219.jpg?v=1720090890
   Price: $122.99 USD
 - [GARVEE Large Area Rug - Stylish & Functional Home Decor](https://www.garvee.com/products/garvee-cozyloom-large-area-rug-8x10-pho-13gb3heb): Discover the GARVEE 8x10 Large Area Rug, featuring a stain-resistant, ultra-thin design with a non-slip backing. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:31:15Z
+  Updated: 2025-11-11T09:38:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EUH23-dzL_b2d985cc-7268-402a-b5c8-bab20e7bd801.jpg?v=1720090894
   Price: $120.99 USD
 - [GARVEE Washable Runner Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-cozyloom-washable-runner-rug-2x6-pho-13gbarrr): Discover the GARVEE Washable Runner Rug, featuring stain resistance, non-slip backing, and a soft texture, perfect for homes with kids and pets. Enjoy free shipping!
-  Updated: 2025-11-11T04:31:15Z
+  Updated: 2025-11-11T10:14:32Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17116,14 +17130,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91L9UQP7VJL.jpg?v=1720091077
   Price: $129.99 USD
 - [GARVEE Area Rugs for Living Room 9x12 - Vintage Boho Floral Design](https://www.garvee.com/products/garvee-area-rugs-for-living-room-9x12-bedroom-rug-machine-washable-vintage-rug-boho-floral-distressed-rug-anti-slip-low-pile-non-shedding-throw-carpet-for-nursery-office-oriental-accent-rug-orange-garvee): Transform your space with the GARVEE 9x12 area rug. Made of durable polyester, it's machine washable, anti-slip, and features a beautiful floral design.
-  Updated: 2025-11-11T04:31:28Z
+  Updated: 2025-11-11T09:38:32Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/9197dgrkezL_01aebe0b-5659-457f-ad31-47457db812fe.jpg?v=1720091077
   Price: $145.99 USD
 - [GARVEE Washable 8x10 Area Rug - Soft Floral Design for Living Room](https://www.garvee.com/products/garvee-cozyloom-washable-rug-8x10-large-pho-112xmzyi): Discover the GARVEE Washable Rug, featuring a soft, vintage floral design. Its non-slip, low pile construction ensures safety and comfort in any room.
-  Updated: 2025-11-11T04:31:29Z
+  Updated: 2025-11-11T09:38:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17165,70 +17179,70 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91L9UQP7VJL_df4fc93f-1d2a-4667-b7f6-52fb776a6477.jpg?v=1720091080
   Price: $109.99 USD
 - [GARVEE Vintage Runner Rug - Boho Floral Design, Non-Slip & Washable](https://www.garvee.com/products/garvee-cozyloom-area-rug-2x6-vintage-pho-112x0usp): Enhance your space with the GARVEE 2x6 Vintage Runner Rug. Made from durable polyester, this non-slip, washable rug features a beautiful floral design, perfect for any hallway.
-  Updated: 2025-11-11T04:31:30Z
+  Updated: 2025-11-11T10:14:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91LGZZ4GjzL.jpg?v=1720091080
   Price: $43.99 USD
 - [GARVEE Washable 9x12 Vintage Rug - Non-Slip, Stain Resistant, Chenille](https://www.garvee.com/products/garvee-washable-rugs-9x12-rug-vintage-rugs-for-bedroom-bohemian-living-room-rugs-non-slip-carpet-non-shedding-chenille-thin-throw-rugs-large-area-rug-stain-resistant-office-classroom-rug-9x12-grey-garvee): Discover the GARVEE 9x12 Vintage Rug, featuring a non-slip backing, stain resistance, and machine washability. Perfect for high-traffic areas, stylish and durable!
-  Updated: 2025-11-11T04:31:30Z
+  Updated: 2025-11-11T09:38:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RYFPauOGL_a6f0534e-a0a0-48b6-87b6-becf4e776517.jpg?v=1720091083
   Price: $109.99 USD
 - [GARVEE Washable 4x6 Rug - Vintage Bohemian Area Rug](https://www.garvee.com/products/garvee-zacoo-washable-rug-4x6-rug-pho-13a5ugnb): Transform your space with the GARVEE 4x6 washable rug. Its stain-resistant chenille fabric and non-slip backing make it perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:32Z
+  Updated: 2025-11-11T09:38:36Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RYFPauOGL.jpg?v=1720091082
   Price: $37.99 USD
 - [GARVEE Washable 8x10 Vintage Area Rug - Durable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-zacoo-washable-rugs-8x10-rug-pho-13a5hij7): Discover the GARVEE Washable 8x10 Rug, featuring a durable chenille surface, non-slip backing, and stain resistance. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:31:33Z
+  Updated: 2025-11-11T09:38:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912dxhwux1L.jpg?v=1720091082
   Price: $101.99 USD
 - [GARVEE Washable Area Rugs - Vintage Bohemian Design](https://www.garvee.com/products/garvee-zacoo-washable-area-rugs-5x7-pho-13a5q9y3): Discover GARVEE's 5x7 washable area rug, featuring a non-slip backing, stain resistance, and soft chenille material, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:34Z
+  Updated: 2025-11-11T09:38:38Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912dxhwux1L_7ec47039-36a7-4691-a91a-8ebe9d6ee5e8.jpg?v=1720091082
   Price: $50.99 USD
 - [GARVEE Washable Area Rugs 5x7 - Vintage Grey Floral Bohemian Rug](https://www.garvee.com/products/garvee-zacoo-washable-area-rugs-5x7-pho-13a5naov): Discover the GARVEE 5x7 Washable Area Rug, featuring stain resistance, non-slip backing, and a chic vintage design, perfect for any high-traffic space.
-  Updated: 2025-11-11T04:31:35Z
+  Updated: 2025-11-11T09:38:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91RYFPauOGL_4b793709-c516-4aa5-a250-eee6e37bf124.jpg?v=1720091082
   Price: $53.99 USD
 - [GARVEE Washable 8x10 Rug - Vintage Bohemian Style](https://www.garvee.com/products/garvee-zacoo-washable-rugs-8-x-pho-13a5yt7t): Discover the GARVEE Washable 8x10 Rug, featuring stain-resistant chenille, non-slip backing, and a vintage bohemian design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:36Z
+  Updated: 2025-11-11T09:38:40Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q8vDfilYL_773fc15a-71b7-4970-a906-abb315941bf6.jpg?v=1720091083
   Price: $106.99 USD
 - [GARVEE Washable 9x12 Vintage Floral Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-washable-rugs-9-x-12-rug-for-living-room-vintage-rugs-for-bedroom-boho-floral-non-slip-carpet-non-shedding-throw-rugs-large-area-rug-stain-resistant-office-rug-classroom-rug-9x12-browm-multi-garvee): Discover the GARVEE 9x12 Washable Rug, featuring a stain-resistant chenille surface, non-slip backing, and a beautiful floral design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:31:36Z
+  Updated: 2025-11-11T09:38:40Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q8vDfilYL_2c20cdad-4bbd-41fd-a96f-0a1eaaef0e15.jpg?v=1720091083
   Price: $123.99 USD
 - [GARVEE Washable Area Rugs - Stylish & Functional 5x7 Vintage Floral Rug](https://www.garvee.com/products/garvee-zacoo-washable-area-rugs-5x7-pho-13a5eqfo): Discover the GARVEE 5x7 Washable Area Rug, featuring a non-slip, stain-resistant design perfect for high-traffic areas. Lightweight and machine washable, it's ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:31:38Z
+  Updated: 2025-11-11T09:38:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q8vDfilYL_00c7b511-3236-4b01-a9f6-5f71aee1bb0b.jpg?v=1720091086
   Price: $55.99 USD
 - [GARVEE Kids Vanity Set - Perfect for Creative Play](https://www.garvee.com/products/garvee-shininglove-kids-vanity-set-with-pto-0xmjumxv): Discover the GARVEE Kids Vanity Set, designed for girls aged 4-9. A stylish, safe space for creativity, complete with lights and a mirror for endless imaginative play!
-  Updated: 2025-11-11T07:05:33Z
+  Updated: 2025-11-11T08:56:37Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Armoires & Dressers
   Availability: Available
@@ -17256,49 +17270,49 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/818_vzHOzwL.jpg?v=1720091302
   Price: $152.99 USD
 - [GARVEE 9x12 Large Area Rug - Vintage Distressed Design](https://www.garvee.com/products/garvee-9x12-large-area-rugs-for-living-room-brown-vintage-distressed-washable-rug-with-non-slip-backing-ultra-thin-soft-area-rug-for-bedroom-dining-room-brown-9x12-garvee): Transform your space with GARVEE's 9x12 vintage area rug, featuring a non-slip backing, washable material, and classic floral pattern. Perfect for any room!
-  Updated: 2025-11-11T04:31:40Z
+  Updated: 2025-11-11T09:38:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91oS5HrzV4L.jpg?v=1720091347
   Price: $129.99 USD
 - [GARVEE Vintage Area Rug - 5x7 Washable Non-Slip Carpet for Living Room](https://www.garvee.com/products/garvee-vintage-area-rug-5x7-large-pho-13qs7g5o): Discover the GARVEE Vintage Area Rug, featuring a low pile, stain-resistant polypropylene design. Perfect for any room, it's washable, non-slip, and stylish!
-  Updated: 2025-11-11T04:31:40Z
+  Updated: 2025-11-11T09:38:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91L3a6o-0bL.jpg?v=1720091347
   Price: $43.99 USD
 - [GARVEE Vintage Area Rug - Stylish and Functional](https://www.garvee.com/products/garvee-vintage-area-rug-5x7-large-pho-13qs1iql): Discover the GARVEE Vintage Area Rug, a 5x7 washable, non-slip rug perfect for any room. Its low pile, floral design is stain-resistant and adds elegance to your home.
-  Updated: 2025-11-11T04:31:42Z
+  Updated: 2025-11-11T09:38:46Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91JT_OioD9L.jpg?v=1720091347
   Price: $63.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Green Soft Washable Non-Slip Rug](https://www.garvee.com/products/garvee-9x12-area-rug-for-living-room-green-vintage-distressed-washable-non-slip-bedroom-rug-ultra-thin-soft-large-area-rug-for-bedroom-dining-room-green-9x12-garvee): Enhance your living space with the GARVEE 9x12 Area Rug. This green vintage rug is ultra-thin, soft, washable, and non-slip, perfect for any room.
-  Updated: 2025-11-11T04:31:43Z
+  Updated: 2025-11-11T09:38:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61ZaL1B0yiL.jpg?v=1720091347
   Price: $99.99 USD
 - [GARVEE Washable Area Rug 8x10 - Vintage Distressed Non-Slip](https://www.garvee.com/products/garvee-caromio-washable-area-rug-8x10-pho-1433vaq4): Discover the GARVEE 8x10 Washable Area Rug, featuring stain resistance, non-slip backing, and ultra-soft texture, perfect for any room in your home.
-  Updated: 2025-11-11T04:31:44Z
+  Updated: 2025-11-11T09:38:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MSGwGxkcL.jpg?v=1720091469
   Price: $112.99 USD
 - [GARVEE Washable Area Rug 5x7 - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-caromio-washable-area-rug-5x7-pho-143383mg): Transform your space with the GARVEE 5x7 Washable Area Rug. Its soft, stain-resistant surface and non-slip backing make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:31:45Z
+  Updated: 2025-11-11T09:38:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MSGwGxkcL_a428ab07-0d38-4e14-bd10-a19e9ff4a3e7.jpg?v=1720091469
   Price: $61.99 USD
 - [GARVEE 9x12 Living Room Area Rug - Vintage & Washable](https://www.garvee.com/products/garvee-9x12-living-room-area-rug-washable-rug-vintage-distressed-indoor-non-slip-stain-resistant-floor-carpet-traditional-accent-rug-for-bedroom-home-office-blue-garvee): Discover the GARVEE 9x12 Living Room Area Rug, featuring a stain-resistant, ultra-soft surface. Perfect for homes with kids or pets, it's machine washable and non-slip.
-  Updated: 2025-11-11T04:31:47Z
+  Updated: 2025-11-11T09:38:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17417,7 +17431,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71byuj_UuL.jpg?v=1720092194
   Price: $179.99 USD
 - [GARVEE Boho Area Rug 6x9 - Stylish and Practical](https://www.garvee.com/products/garvee-rugsreal-boho-area-rug-6x9-pho-0vej5s10): Transform your space with the GARVEE Boho Area Rug. This machine-washable, stain-resistant rug offers safety for kids and pets, perfect for any indoor room.
-  Updated: 2025-11-11T04:31:53Z
+  Updated: 2025-11-11T09:38:56Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -17431,14 +17445,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91-2kPa4HBL.jpg?v=1754649564
   Price: $159.99 USD
 - [GARVEE Monaco Collection Area Rug - Boho Chic Design](https://www.garvee.com/products/garvee-gaomon-monaco-collection-area-rug-pho-0z5e51fc): Elevate your space with the GARVEE Monaco Area Rug. This 4' x 6' rug features a stunning navy blue and orange medallion design, is stain-resistant, non-shedding, and perfect for high traffic areas.
-  Updated: 2025-11-11T04:31:55Z
+  Updated: 2025-11-11T09:38:58Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rKiW_oNnL_06f1f097-035a-4a3f-9f70-2197b446c0b3.jpg?v=1720092311
   Price: $109.99 USD
 - [GARVEE Monaco Collection Runner Rug - Chic & Durable](https://www.garvee.com/products/garvee-gaomon-monaco-collection-runner-rug-pho-0z5egbcg): Elevate your space with the GARVEE Monaco Runner Rug. This navy blue and orange rug features a boho chic design, is stain-resistant, non-shedding, and easy to care for.
-  Updated: 2025-11-11T04:31:55Z
+  Updated: 2025-11-11T10:14:41Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17452,21 +17466,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81JbWAXbvsL.jpg?v=1720092318
   Price: $34.99 USD
 - [GARVEE Vintage Area Rugs - Boho Floral Print Carpet for Home](https://www.garvee.com/products/garvee-vintage-area-rugs-boho-traditional-pho-0zxc3h74): Elevate your space with GARVEE Vintage Area Rugs. Featuring a stunning floral print, low pile, and non-slip rubber backing, this washable rug is perfect for any room.
-  Updated: 2025-11-11T04:31:56Z
+  Updated: 2025-11-11T09:38:59Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/917CO_YyviL_e3596f59-8277-4b1b-bbe0-50d4b12fea86.jpg?v=1720092318
   Price: $53.99 USD
 - [GARVEE Vintage Area Rugs - Boho Floral Print Carpet, 8x10, Non-Slip, Washable](https://www.garvee.com/products/garvee-vintage-area-rugs-boho-traditional-pho-0zxcpf92): Transform your space with GARVEE's 8x10 vintage area rug. Featuring a floral print, low pile, and non-slip rubber backing, it's perfect for any room.
-  Updated: 2025-11-11T04:31:57Z
+  Updated: 2025-11-11T09:39:00Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51_4zCm6WbL.jpg?v=1720092318
   Price: $79.99 USD
 - [GARVEE Boho Vintage 2x6 Runner Rug - Elegant Floral Design](https://www.garvee.com/products/garvee-boho-vintage-2x6-runner-rug-pho-0zxcsqwx): Enhance your space with the GARVEE Boho Vintage Runner Rug. This washable, low-pile carpet features a non-slip rubber backing and intricate floral patterns, perfect for any room.
-  Updated: 2025-11-11T04:31:58Z
+  Updated: 2025-11-11T10:14:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17480,7 +17494,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51_4zCm6WbL_99c6648c-36a8-4e07-aa5d-8c261abf15b8.jpg?v=1720092318
   Price: $43.99 USD
 - [GARVEE Vintage Area Rugs - Boho Floral Print Carpet](https://www.garvee.com/products/garvee-vintage-area-rugs-boho-traditional-pho-0zxc3n6q): Elevate your space with GARVEE Vintage Area Rugs featuring intricate floral designs and a non-slip rubber backing. Perfect for any room, washable, and foldable.
-  Updated: 2025-11-11T04:31:59Z
+  Updated: 2025-11-11T09:39:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17501,7 +17515,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/716Y6rnXBhL.jpg?v=1720092376
   Price: $251.99 USD
 - [GARVEE 5 Tier Bookcase - Versatile Storage Solution for Home and Office](https://www.garvee.com/products/garvee-idealhouse-5-tier-bookcase-farmhouse-pho-0zzpig95): Discover the GARVEE 5 Tier Bookcase, perfect for indoor use. Its versatile design suits any room, offering ample storage for books and decor.
-  Updated: 2025-11-11T00:26:11Z
+  Updated: 2025-11-11T09:40:48Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Office > Bookshelves & Bookcases
   Availability: Available
@@ -17578,14 +17592,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51AnlBenTrL_fa01f5bf-49e5-4133-bc0b-675638dfe4a5.jpg?v=1720092737
   Price: $68.99 USD
 - [GARVEE Boho Washable Rug - Stylish & Non-Slip](https://www.garvee.com/products/garvee-zacoo-boho-rug-washable-rugs-pho-10gvt2tz): Discover the GARVEE Boho Rug, crafted from ultra-soft pearl velvet. This 2x6' washable, non-slip rug is perfect for high-traffic areas, adding charm and comfort.
-  Updated: 2025-11-11T04:32:07Z
+  Updated: 2025-11-11T10:14:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Z-lA3Sb3L.jpg?v=1720092820
   Price: $30.99 USD
 - [GARVEE Washable Area Rugs - 9x12 Boho Living Room Rug](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-living-room-boho-rug-non-slip-living-room-rug-office-rug-distressed-vintage-oriental-area-rugs-classroom-throw-rugs-large-area-rug-9x12-pink-blue-garvee): Elevate your space with GARVEE's 9x12 washable area rug. Made of ultra-soft pearl velvet, it's stain-resistant, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:32:08Z
+  Updated: 2025-11-11T09:39:11Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17662,7 +17676,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Jk5SJ5jeL.jpg?v=1720093387
   Price: $79.99 USD
 - [GARVEE Vintage Floral Medallion Area Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-zacoo-area-rug-4x6-vintage-pho-0z5yjo4n): Discover the GARVEE 4x6 Vintage Floral Medallion Rug, machine washable, non-slip, and durable. Perfect for any room, it's soft underfoot and easy to clean!
-  Updated: 2025-11-11T04:32:09Z
+  Updated: 2025-11-11T09:39:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17676,28 +17690,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61j8A--wXzL.jpg?v=1720093528
   Price: $429.99 USD
 - [GARVEE Area Rug - Stylish & Machine Washable](https://www.garvee.com/products/garvee-area-rug-machine-washable-extral-large-9-x-12-boho-distressed-area-rugs-traditional-chic-carpet-coffee-table-rug-farmhouse-vintage-dining-table-rug-office-bedroom-decor-blue-garvee): Transform your space with the GARVEE Area Rug. This 9' x 12' machine washable rug features a chic boho design, durable materials, and a cozy feel, perfect for any room.
-  Updated: 2025-11-11T04:32:14Z
+  Updated: 2025-11-11T09:39:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tSdpOeXuL.jpg?v=1720093771
   Price: $69.99 USD
 - [GARVEE 8x10 Area Rug - Vintage Boho Style for Living Room](https://www.garvee.com/products/garvee-iminrome-area-rug-living-room-pho-0yicobps): Transform your space with the GARVEE 8x10 Area Rug. Soft, non-slip, and machine washable, this vintage green rug adds a touch of elegance to any room.
-  Updated: 2025-11-11T04:32:16Z
+  Updated: 2025-11-11T09:39:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918AF4TjZmL_4a1398e2-94ab-4844-8130-e6d22fc830b9.jpg?v=1720093994
   Price: $127.99 USD
 - [GARVEE Large Area Rug - Non-Shedding, Washable, Boho Design](https://www.garvee.com/products/garvee-large-area-rug-for-bedroom-non-shedding-washable-rug-9x12-carpet-boho-accent-rug-for-living-room-bedroom-dining-room-rug-garvee): Transform your space with GARVEE's 9x12 non-shedding, washable area rug. Made from premium polyester, it's perfect for bedrooms and living rooms, combining beauty and comfort.
-  Updated: 2025-11-11T04:32:17Z
+  Updated: 2025-11-11T09:39:20Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915s_8kYW-L_064546c6-2408-4a74-b371-b66b877b0880.jpg?v=1720093994
   Price: $159.99 USD
 - [GARVEE Vintage Floral Area Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-iminrome-area-rug-4x6-rug-pho-0yicrxy5): Enhance your space with the GARVEE Vintage Floral Area Rug. This soft, non-slip rug features a low pile, stain-resistant polyester design ideal for any room.
-  Updated: 2025-11-11T04:32:18Z
+  Updated: 2025-11-11T09:39:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17732,21 +17746,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/714v5OBwgLL.jpg?v=1720094605
   Price: $59.99 USD
 - [GARVEE Vintage Area Rug - Stylish & Durable 5x7 Machine Washable Carpet](https://www.garvee.com/products/garvee-royhome-vintage-area-rug-5x7-pho-10q4m07t): Transform your space with the GARVEE Vintage Area Rug. This 5x7 rug features a floral distressed design, is machine washable, stain-resistant, and non-slip.
-  Updated: 2025-11-11T04:32:19Z
+  Updated: 2025-11-11T09:39:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tpUAYCE-L.jpg?v=1720094778
   Price: $45.99 USD
 - [GARVEE Runner Rug - Vintage Hallway Accent Rug](https://www.garvee.com/products/garvee-royhome-runner-rug-vintage-hallway-pho-10q4h5dy): Discover the GARVEE Runner Rug, a stylish and durable addition to your home. Machine washable, stain resistant, and non-slip, it offers comfort and elegance.
-  Updated: 2025-11-11T04:32:21Z
+  Updated: 2025-11-11T10:14:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OySFSiMJL.jpg?v=1720094778
   Price: $29.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Distressed Floral Design](https://www.garvee.com/products/garvee-9x12-area-rug-large-machine-washable-area-rug-vintage-distressed-accent-rug-traditional-medallion-floral-floor-cover-stain-resistant-non-slip-carpet-rug-for-living-room-decor-brick-red-garvee): Discover the GARVEE 9x12 Area Rug, a machine washable, stain-resistant, and non-slip carpet perfect for living rooms. Its vintage floral design adds elegance while providing comfort.
-  Updated: 2025-11-11T04:32:22Z
+  Updated: 2025-11-11T09:39:25Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -17760,77 +17774,77 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91LJFJAZopL.jpg?v=1720094778
   Price: $56.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-large-living-room-rug-pho-14al955e): Discover the GARVEE Boho Washable Area Rug, featuring a non-slip design, stain resistance, and stylish tassels. Perfect for your living room!
-  Updated: 2025-11-11T04:32:24Z
+  Updated: 2025-11-11T09:39:27Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81hTdclNBDL.jpg?v=1727691514
   Price: $128.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-bedroom-rug-4x6-washable-pho-14alkafe): Transform your space with the GARVEE Boho Area Rug, featuring a stain-resistant, non-slip design, soft polyester material, and stylish tassels. Perfect for any room!
-  Updated: 2025-11-11T04:32:27Z
+  Updated: 2025-11-11T09:39:30Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LjBhoNuML_f28d6461-36ca-4e68-91d3-8289f50a89c3.jpg?v=1720094786
   Price: $50.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-large-living-room-rug-pho-14alrnch): Discover the GARVEE Boho Washable Area Rug, featuring a non-slip design, stain resistance, and stylish tassels. Perfect for any living room!
-  Updated: 2025-11-11T04:32:27Z
+  Updated: 2025-11-11T09:39:31Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81XpOpxQPBL.jpg?v=1720094786
   Price: $74.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-bedroom-rug-4x6-washable-pho-14alhrfl): Discover the GARVEE Boho Area Rug, featuring a stain-resistant, non-slip design with stylish tassels. Perfect for any room, it combines durability and elegance.
-  Updated: 2025-11-11T04:32:28Z
+  Updated: 2025-11-11T09:39:32Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81-NgxatHbL.jpg?v=1720094785
   Price: $45.99 USD
 - [GARVEE Boho Washable Runner Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-boho-runner-rug-2x6-pho-14alf3gb): Enhance your space with the GARVEE Boho Washable Runner Rug. This stain-resistant, non-slip rug features a stylish geometric design and tassels, perfect for any hallway.
-  Updated: 2025-11-11T04:32:29Z
+  Updated: 2025-11-11T10:14:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81GxbDu3E6L.jpg?v=1720094786
   Price: $45.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-large-living-room-rug-pho-14al9wro): Transform your living space with the GARVEE Boho Area Rug. This stain-resistant, non-slip carpet features a beautiful geometric design and is easy to clean.
-  Updated: 2025-11-11T04:32:29Z
+  Updated: 2025-11-11T09:39:33Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LcqZYR4XL_4445cb82-fea2-4c2f-a7c6-97ffe91af118.jpg?v=1720094786
   Price: $79.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-bedroom-rug-4x6-washable-pho-14aluhs3): Discover the GARVEE Boho Washable Area Rug, featuring a stain-resistant, non-slip design with stylish tassels. Perfect for any room, it combines durability and elegance.
-  Updated: 2025-11-11T04:32:30Z
+  Updated: 2025-11-11T09:39:34Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81r5qseJGUL.jpg?v=1720094785
   Price: $39.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-washable-boho-rug-with-pho-14alwzds): Discover the GARVEE Boho Washable Area Rug, featuring a non-slip design, stain resistance, and stylish tassels. Perfect for any room, it combines functionality with elegance.
-  Updated: 2025-11-11T04:32:31Z
+  Updated: 2025-11-11T09:39:35Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81r5qseJGUL_7c188432-aff0-41ac-a0b1-43952a2676a2.jpg?v=1720094789
   Price: $70.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-washable-rug-9x12-living-room-boho-rug-with-tassel-indoor-non-slip-moroccan-bordered-floor-cover-geometric-stain-resistant-bohemian-accent-carpet-rug-for-bedroom-nursery-home-office-pink-garvee): Enhance your space with the GARVEE Boho Area Rug. This pink, stain-resistant carpet features a non-slip design, tassels, and is machine washable for easy care.
-  Updated: 2025-11-11T04:32:32Z
+  Updated: 2025-11-11T09:39:35Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81XpOpxQPBL_3cf2f089-d41c-4de6-8406-662265a6301d.jpg?v=1720094790
   Price: $94.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-washable-rug-9x12-living-room-boho-rug-with-tassel-indoor-non-slip-moroccan-bordered-floor-cover-geometric-stain-resistant-bohemian-accent-carpet-rug-for-bedroom-nursery-home-office-blue-garvee): Discover the GARVEE Boho Washable Area Rug, featuring a stain-resistant design, non-slip backing, and stylish tassels. Perfect for any farmhouse decor!
-  Updated: 2025-11-11T04:32:32Z
+  Updated: 2025-11-11T09:39:36Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LcqZYR4XL_43472336-1562-43e5-a479-292ef35fe2fd.jpg?v=1720094789
   Price: $94.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-washable-rug-9x12-living-room-boho-rug-with-tassel-indoor-non-slip-moroccan-bordered-floor-cover-geometric-stain-resistant-bohemian-accent-carpet-rug-for-bedroom-nursery-home-office-taupe-garvee): Elevate your space with the GARVEE Boho Area Rug. This stain-resistant, non-slip carpet features a stylish geometric design, perfect for any farmhouse decor.
-  Updated: 2025-11-11T04:32:33Z
+  Updated: 2025-11-11T09:39:37Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -17844,14 +17858,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81g1oZD92JL.jpg?v=1720094789
   Price: $29.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-washable-rug-9x12-living-room-boho-rug-with-tassel-indoor-non-slip-moroccan-bordered-floor-cover-geometric-stain-resistant-bohemian-accent-carpet-rug-for-bedroom-nursery-home-office-grey-garvee): Transform your space with the GARVEE Boho Washable Area Rug. This stain-resistant, non-slip rug features a stylish Moroccan design and soft polyester material.
-  Updated: 2025-11-11T04:32:34Z
+  Updated: 2025-11-11T09:39:38Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81KfbMqrlGL_924a4f21-2df8-4647-bc69-64268ba458dd.jpg?v=1720094790
   Price: $94.99 USD
 - [GARVEE Boho Washable Runner Rug - Non-Slip & Stain-Resistant](https://www.garvee.com/products/garvee-rugsreal-boho-runner-rug-2x6-pho-14al77yz): Discover the GARVEE Boho Runner Rug, featuring a non-slip design, stain-resistant polyester, and stylish tassels. Perfect for any hallway, delivered free in 5 days!
-  Updated: 2025-11-11T04:32:35Z
+  Updated: 2025-11-11T10:14:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -17865,14 +17879,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bK1qtGx7L_451d621a-6964-43d4-bb95-c67b3b8b4b71.jpg?v=1720094790
   Price: $58.99 USD
 - [GARVEE Boho Washable Area Rug - Non-Slip Moroccan Tribal Carpet](https://www.garvee.com/products/garvee-rugsreal-large-living-room-rug-pho-14alqnqs): Transform your living space with the GARVEE Boho Area Rug. Made from stain-resistant polyester, this non-slip rug features stylish tassels and geometric patterns.
-  Updated: 2025-11-11T04:32:36Z
+  Updated: 2025-11-11T09:39:39Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51lRTVwIXhL.jpg?v=1720094790
   Price: $103.99 USD
 - [GARVEE Trellis Area Rug - Stylish, Washable, Non-Slip Design](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-2x3-pho-0zoo1zud): Enhance your home with the GARVEE Trellis Area Rug. This 2x3 washable rug features a stunning beige-blue vintage floral print, perfect for any indoor space.
-  Updated: 2025-11-11T04:32:37Z
+  Updated: 2025-11-11T10:14:52Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -17886,7 +17900,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Lyz885MUL_6aa4c605-689c-46e3-933b-21dcd8057db7.jpg?v=1720095024
   Price: $42.99 USD
 - [GARVEE Vintage Floral Print Rugs - Washable Boho Non Slip Indoor Carpet](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-8x10-pho-0zookzlu): Elevate your space with GARVEE's washable, non-slip floral rugs. Perfect for any room, featuring a calming beige and blue design, durable polyester material.
-  Updated: 2025-11-11T04:32:37Z
+  Updated: 2025-11-11T09:39:41Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -17907,70 +17921,70 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91fkDd2q_-L_45871836-698b-4231-900d-454f70b33004.jpg?v=1720095024
   Price: $56.99 USD
 - [GARVEE Trellis Area Rug 9x12 - Vintage Floral Print](https://www.garvee.com/products/garvee-trellis-area-rug-9x12-washable-vintage-floral-print-rugs-boho-non-slip-indoor-carpet-for-entryway-living-room-kitchen-bedroom-laundry-room-beige-blue-garvee): Enhance your home with the GARVEE Trellis Area Rug. This washable, non-slip rug features a calming beige and blue design, perfect for any indoor space.
-  Updated: 2025-11-11T04:32:38Z
+  Updated: 2025-11-11T09:39:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51JwAzbtxvL.jpg?v=1720095024
   Price: $119.99 USD
 - [GARVEE Washable Rugs 9x12 - Soft, Non-Slip Area Rug for Every Room](https://www.garvee.com/products/garvee-washable-rugs-9x12-soft-large-living-room-rugs-arch-pattern-moroccan-trellis-area-rug-non-slip-indoor-floor-carpet-for-bedroom-nursery-kitchen-dining-room-brown-garvee): Discover the GARVEE Washable Rugs, featuring a soft polyester material, non-slip rubber backing, and elegant Moroccan trellis design, perfect for any indoor space.
-  Updated: 2025-11-11T04:32:39Z
+  Updated: 2025-11-11T09:39:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mt3QEypaL_beedb07f-52dc-409a-97e2-68fc242759d5.jpg?v=1720095391
   Price: $126.99 USD
 - [GARVEE Area Rug 8x10 - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-carmio-area-rug-8x10-machine-pho-13je71re): Transform your space with the GARVEE 8x10 Area Rug. Soft, machine washable, and non-slip, it's perfect for any room. Enjoy free shipping and fast delivery!
-  Updated: 2025-11-11T04:32:40Z
+  Updated: 2025-11-11T09:39:43Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ngol_k1sL.jpg?v=1720095391
   Price: $90.99 USD
 - [GARVEE Area Rug 6x9 - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-carmio-area-rug-6x9-machine-pho-13jewjzg): Discover the GARVEE 6x9 Area Rug, crafted from soft polyester with a Moroccan trellis print. Machine washable and non-slip, it's perfect for any room!
-  Updated: 2025-11-11T04:32:41Z
+  Updated: 2025-11-11T09:39:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mt3QEypaL_aef2f40b-7de6-4aef-b034-a947fa657fbf.jpg?v=1720095391
   Price: $51.99 USD
 - [GARVEE Area Rug 8x10 - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-carmio-area-rug-8x10-machine-pho-13je7ffk): Enhance your space with the GARVEE 8x10 Area Rug. Made from soft polyester, it's machine washable and features a non-slip rubber backing, perfect for any room.
-  Updated: 2025-11-11T04:32:42Z
+  Updated: 2025-11-11T09:39:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mt3QEypaL.jpg?v=1720095391
   Price: $85.99 USD
 - [GARVEE Washable Rugs 9x12 - Soft, Non-Slip Indoor Carpet](https://www.garvee.com/products/garvee-washable-rugs-9x12-soft-large-living-room-rugs-arch-pattern-moroccan-trellis-area-rug-non-slip-indoor-floor-carpet-for-bedroom-nursery-kitchen-dining-room-grey-garvee): Discover the GARVEE 9x12 Washable Rug, featuring a stylish Moroccan trellis design. Made from soft polyester, it's perfect for any room and easy to clean!
-  Updated: 2025-11-11T04:32:43Z
+  Updated: 2025-11-11T09:39:46Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ngol_k1sL_aa20df0d-f6da-4760-9790-e24e668cf830.jpg?v=1720095391
   Price: $113.99 USD
 - [GARVEE Area Rug 6x9 - Soft, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-carmio-area-rug-6x9-machine-pho-13jee3ni): Discover the GARVEE 6x9 Area Rug, made of soft polyester with a stylish Moroccan trellis print. Machine washable and non-slip, it's perfect for any room.
-  Updated: 2025-11-11T04:32:44Z
+  Updated: 2025-11-11T09:39:46Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ngol_k1sL_e0985993-0b47-424c-ae06-7c06595953be.jpg?v=1720095391
   Price: $65.99 USD
 - [GARVEE Machine Washable Rugs - 5x7 Area Rug for Living Room](https://www.garvee.com/products/garvee-caromio-machine-washable-rugs-5x7-pho-13jeue4i): Discover the GARVEE 5x7 area rug, made of durable polyester with a non-slip rubber backing. Perfect for any room, it's machine washable and offers style and comfort.
-  Updated: 2025-11-11T04:32:44Z
+  Updated: 2025-11-11T09:39:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mt3QEypaL_a018a66d-1d0a-4088-ab5a-c31a0ea6d8cf.jpg?v=1720095391
   Price: $40.99 USD
 - [GARVEE Boho Tribal Area Rug - Soft, Non-Slip, and Machine Washable](https://www.garvee.com/products/garvee-zacoo-boho-tribal-area-rug-pho-0yjvou59): Discover the GARVEE Boho Tribal Area Rug, featuring ultra-soft faux wool, a non-slip TPR backing, and machine washability for easy care. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:32:47Z
+  Updated: 2025-11-11T10:14:53Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91JXfZsDtDL_890b61a6-b591-4670-936a-3df279c57a89.jpg?v=1720096545
   Price: $37.99 USD
 - [GARVEE 9x12 Abstract Area Rug - Ultra Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-area-rug-9x12-abstract-contemporary-area-rugs-non-slip-washable-rug-ultra-soft-rug-colorful-overdyed-mat-low-pile-thin-rug-stain-resistant-distressed-rugs-for-living-room-bedroom-navy-multi-garvee): Discover the GARVEE 9x12 Abstract Area Rug, featuring ultra-soft polyester, non-slip backing, and stain resistance, perfect for any living space.
-  Updated: 2025-11-11T04:32:48Z
+  Updated: 2025-11-11T09:39:51Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -17984,35 +17998,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91lRtckfa1L.jpg?v=1720106029
   Price: $59.99 USD
 - [GARVEE Runner Rug - Abstract Sketch Distressed Design](https://www.garvee.com/products/garvee-rugsreal-runner-rug-2x6-abstract-pho-139uuh7j): Discover the GARVEE Runner Rug: a soft, machine-washable, non-slip rug that is stain-resistant and perfect for high-traffic areas. Ideal for kitchens and hallways!
-  Updated: 2025-11-11T04:32:50Z
+  Updated: 2025-11-11T10:14:53Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81XyYh_KfWL.jpg?v=1720106030
   Price: $43.99 USD
 - [GARVEE Abstract Washable Area Rug - Modern Non-Slip Carpet](https://www.garvee.com/products/garvee-rugsreal-abstract-washable-area-rug-pho-139umni7): Discover the GARVEE Abstract Washable Area Rug, featuring a soft, stain-resistant design that's perfect for high-traffic areas. Enjoy comfort and style in every room!
-  Updated: 2025-11-11T04:32:51Z
+  Updated: 2025-11-11T09:39:53Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91lUCOJjCTL.jpg?v=1720106030
   Price: $96.99 USD
 - [GARVEE 9x12 Abstract Area Rug - Ultra Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-area-rug-9x12-abstract-contemporary-area-rugs-non-slip-washable-rug-ultra-soft-rug-colorful-overdyed-mat-low-pile-thin-rug-stain-resistant-distressed-rugs-for-living-room-bedroom-green-multi-garvee): Discover the GARVEE 9x12 Abstract Area Rug, featuring ultra-soft polyester, non-slip backing, and stain resistance. Perfect for living rooms and bedrooms!
-  Updated: 2025-11-11T04:32:52Z
+  Updated: 2025-11-11T09:39:54Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919tWH5cdXL.jpg?v=1720106030
   Price: $164.99 USD
 - [GARVEE Washable Area Rugs - Soft, Non-Slip, and Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-living-room-modern-rugs-for-bedroom-abstract-distressed-rug-soft-large-area-rug-non-slip-throw-rugs-stain-resistant-carpet-for-nursery-dining-room-9x12-red-blue-garvee): Discover GARVEE's 9x12 washable area rugs, featuring ultra-soft faux wool, a non-slip TPR backing, and stain resistance, perfect for any room in your home.
-  Updated: 2025-11-11T04:32:53Z
+  Updated: 2025-11-11T09:39:55Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91BQ6ZuMIIL.jpg?v=1720106034
   Price: $119.99 USD
 - [GARVEE Modern Washable Rugs - Soft, Non-Slip, Stain Resistant Area Rug](https://www.garvee.com/products/garvee-luxloom-modern-washable-rugs-8x10-pho-139uei4k): Discover GARVEE's 8x10 washable rugs, crafted from ultra-soft faux wool. Non-slip, stain-resistant, and perfect for high-traffic areas. Elevate your home decor!
-  Updated: 2025-11-11T04:32:54Z
+  Updated: 2025-11-11T09:39:56Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -18033,7 +18047,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jSiDeXIVL_e861628a-ae8d-4894-a285-03aac5fac990.jpg?v=1720106035
   Price: $36.99 USD
 - [GARVEE Washable Area Rugs - Soft, Non-Slip, Stain Resistant 5x7 Rug](https://www.garvee.com/products/garvee-luxloom-washable-area-rugs-5x7-pho-139uchi0): GARVEE Non-slip, soft, durable, pet/kid-friendly washable rug with a modern abstract design. Easy to clean, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:32:56Z
+  Updated: 2025-11-11T09:39:58Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -18047,7 +18061,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jSiDeXIVL.jpg?v=1720106035
   Price: $48.99 USD
 - [GARVEE Washable Area Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-rug-living-room-rug-modern-rugs-for-bedroom-distressed-soft-large-area-rug-non-slip-throw-rugs-stain-resistant-carpet-for-nursery-dining-room-office-9x12-grey-taupe-garvee): Discover the GARVEE 9x12 Washable Area Rug, featuring ultra-soft faux wool, a non-slip backing, and stain resistance—perfect for any high-traffic room.
-  Updated: 2025-11-11T04:32:57Z
+  Updated: 2025-11-11T09:39:58Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -18215,84 +18229,84 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ZobjEUZZL.jpg?v=1753699816
   Price: $125.99 USD
 - [GARVEE Vintage Area Rug - 8x10 Low-Pile, Washable, Non-Shedding, Stain Resistant](https://www.garvee.com/products/garvee-garveehome-vintage-area-rug-for-pho-14zcms5q): Transform your space with the GARVEE Vintage Area Rug. This 8x10, machine washable rug features a non-slip, stain-resistant design, perfect for busy homes.
-  Updated: 2025-11-11T04:32:58Z
+  Updated: 2025-11-11T09:40:00Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zJIc-4DnL_b81cf70b-3a8d-462a-a13e-c48226adbeff.jpg?v=1720687513
   Price: $117.99 USD
 - [GARVEE Vintage Area Rug - Low-Pile, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-garveehome-vintage-area-rug-for-pho-14zcwuy7): Transform your space with the GARVEE Vintage Area Rug. This 5x7 low-pile rug is machine washable, stain-resistant, and features a non-slip rubber backing for safety.
-  Updated: 2025-11-11T04:32:59Z
+  Updated: 2025-11-11T09:40:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91zJIc-4DnL_c945c669-8597-43c9-90ce-9da37a64f52a.jpg?v=1720687513
   Price: $60.99 USD
 - [GARVEE Vintage Area Rug - Stylish & Practical for Any Room](https://www.garvee.com/products/garvee-garveehome-vintage-area-rug-for-pho-14zcrpue): Discover the GARVEE Vintage Area Rug, an 8x10 low-pile, machine washable rug with stain resistance and non-slip backing, perfect for busy households.
-  Updated: 2025-11-11T04:33:00Z
+  Updated: 2025-11-11T09:40:01Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91culs4XqfL_4a09bd2c-fbd3-4ebf-887b-4a791b7d834b.jpg?v=1720687513
   Price: $79.99 USD
 - [GARVEE Vintage Area Rug - Low-Pile, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-vintage-area-rug-for-living-room-9x12-low-pile-machine-washable-rug-non-shedding-ultra-thin-stain-resistant-indoor-floor-rugs-with-non-slip-rubber-backing-for-dining-room-bedroom-grey-garvee): Discover the GARVEE Vintage Area Rug, a low-pile, stain-resistant, and machine-washable rug with non-slip backing. Perfect for living rooms and bedrooms!
-  Updated: 2025-11-11T04:33:00Z
+  Updated: 2025-11-11T09:40:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91culs4XqfL.jpg?v=1720687513
   Price: $89.99 USD
 - [GARVEE Washable Area Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-8x10-pho-14z8n6r6): Transform your space with the GARVEE Washable Area Rug. This ultra-thin, stain-resistant rug features a non-slip backing, making it perfect for busy homes.
-  Updated: 2025-11-11T04:33:02Z
+  Updated: 2025-11-11T09:40:03Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91S5IQ-pHbL_1726c4c0-a208-4d71-823d-1f5453fa9a45.jpg?v=1720687533
   Price: $123.99 USD
 - [GARVEE Washable Area Rug - Stylish, Stain Resistant, and Easy to Maintain](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-8x10-pho-14z8rtmf): Transform your space with the GARVEE Washable Area Rug. This ultra-thin, stain-resistant rug features a non-slip backing, perfect for busy households.
-  Updated: 2025-11-11T04:33:03Z
+  Updated: 2025-11-11T09:40:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EDMRPExOL.jpg?v=1720687533
   Price: $104.99 USD
 - [GARVEE Washable Area Rug - Stylish and Practical Home Decor](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-8x10-pho-14z8cvf8): Transform your space with the GARVEE Washable Area Rug. Stain-resistant, non-slip, and ultra-thin, it's perfect for busy households. Enjoy easy maintenance and vintage charm!
-  Updated: 2025-11-11T04:33:03Z
+  Updated: 2025-11-11T09:40:05Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919E4-cOcSL_c9673cbe-9a66-4ebd-8d44-622b4c90d6cc.jpg?v=1720687533
   Price: $82.99 USD
 - [GARVEE Washable Area Rug 9x12 - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-washable-area-rug-9x12-rugs-for-living-room-bedroom-dining-room-ultra-thin-vintage-large-area-rug-for-home-office-floor-decor-stain-resistant-non-slip-backing-carpet-grey-garvee): Transform your space with GARVEE's 9x12 washable area rug. Ultra-thin, stain-resistant, and non-slip, it combines vintage charm with easy maintenance for busy homes.
-  Updated: 2025-11-11T04:33:05Z
+  Updated: 2025-11-11T09:40:06Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EDMRPExOL_cc231494-3ef4-4012-b763-1a2ff51b9864.jpg?v=1720687533
   Price: $138.99 USD
 - [GARVEE Washable Area Rug - Ultra-Thin Vintage Design](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-5x7-pho-14z8tuo0): Transform your space with the GARVEE Washable Area Rug. Stain-resistant, non-slip, and machine washable, it combines vintage charm with practicality for any room.
-  Updated: 2025-11-11T04:33:06Z
+  Updated: 2025-11-11T09:40:07Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919E4-cOcSL.jpg?v=1720687533
   Price: $60.99 USD
 - [GARVEE Washable Area Rug - Ultra-Thin Vintage Design](https://www.garvee.com/products/garvee-washable-area-rug-9x12-rugs-for-living-room-bedroom-dining-room-ultra-thin-vintage-large-area-rug-for-home-office-floor-decor-stain-resistant-non-slip-backing-carpet-blue-garvee): Transform your space with the GARVEE Washable Area Rug. Stain-resistant, non-slip, and easy to clean, it combines vintage charm with practicality for any room.
-  Updated: 2025-11-11T04:33:06Z
+  Updated: 2025-11-11T09:40:08Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91S5IQ-pHbL_06cf5bbd-cf33-45d9-aaa2-3c146ca0fc8b.jpg?v=1720687533
   Price: $138.99 USD
 - [GARVEE Washable Area Rug - Ultra-Thin Vintage Design for Home](https://www.garvee.com/products/garvee-garveehome-washable-area-rug-5x7-pho-14z8h9vq): Transform your space with GARVEE's 5x7 washable area rug. Stain-resistant, non-slip, and easy to clean, it combines vintage charm with practicality.
-  Updated: 2025-11-11T04:33:07Z
+  Updated: 2025-11-11T09:40:09Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EDMRPExOL_059df02c-3c22-4b31-bc8d-c227f4025c11.jpg?v=1720687533
   Price: $65.99 USD
 - [GARVEE Washable Area Rug - Stylish & Practical Home Decor](https://www.garvee.com/products/garvee-washable-area-rug-9x12-rugs-for-living-room-bedroom-dining-room-ultra-thin-vintage-large-area-rug-for-home-office-floor-decor-stain-resistant-non-slip-backing-carpet-pink-garvee): Transform your space with the GARVEE Washable Area Rug. Stain-resistant, non-slip, and ultra-thin, it offers vintage charm and easy maintenance for busy homes.
-  Updated: 2025-11-11T04:33:08Z
+  Updated: 2025-11-11T09:40:09Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -18376,7 +18390,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81okEJ33hjL_a2da2ed3-18eb-467e-9f9a-1018dd962867.jpg?v=1736827114
   Price: $170.99 USD
 - [Garvee Spider 49"x 36"x 5" Roof Rack Basket Rooftop Cargo Carrier with Extension Black Car Top Luggage Holder Universal for SUV Cars](https://www.garvee.com/products/garvee-kybolt-spider-49-x-36-pau-0l2wq3vp): Experience fast shipping and excellent customer service with GARVEE's Roof Rack. Enjoy free shipping and hassle-free returns for a smooth shopping experience!
-  Updated: 2025-11-11T03:57:11Z
+  Updated: 2025-11-11T09:21:04Z
   Vendor: Garvee
   Product Type: Automotive > Cargo Management > Cargo Rack
   Availability: Available
@@ -18530,14 +18544,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91k1_VWTBEL.jpg?v=1720687879
   Price: $147.99 USD
 - [GARVEE Large Machine Washable Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-large-machine-washable-area-rug-pho-14mj8jkv): Discover the GARVEE 5x7 area rug, featuring a soft floral design, stain resistance, and non-slip safety. Perfect for any room, easy to clean, and stylish!
-  Updated: 2025-11-11T04:33:09Z
+  Updated: 2025-11-11T09:40:10Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uajA6jvIL.jpg?v=1720687879
   Price: $54.99 USD
 - [GARVEE Large Machine Washable Area Rug - Soft, Stain Resistant, Non-Slip](https://www.garvee.com/products/garvee-large-machine-washable-area-rug-pho-14mjwnpt): Discover the GARVEE 5x7 area rug, featuring a soft floral design, stain resistance, and non-slip safety. Perfect for any room, easy to clean, and stylish!
-  Updated: 2025-11-11T04:33:09Z
+  Updated: 2025-11-11T09:40:11Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -18600,28 +18614,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81VUc8dLroL.jpg?v=1720691276
   Price: $201.99 USD
 - [GARVEE Modern Washable Area Rug – Soft Green and White Wave Pattern](https://www.garvee.com/products/garvee-garveehome-5x7-area-rugs-for-pho-146x3x5q): Discover the GARVEE Modern Washable Area Rug, featuring a soft low pile, non-slip backing, and machine washable convenience, perfect for any room in your home.
-  Updated: 2025-11-11T04:33:12Z
+  Updated: 2025-11-11T09:40:13Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81d0F91UfaL_99b6abd3-188c-48d1-a74e-ac38fb688289.jpg?v=1720691299
   Price: $53.99 USD
 - [GARVEE Modern Area Rug - Soft, Washable, Non-Slip, Durable Design](https://www.garvee.com/products/garvee-garveehome-modern-area-rug-8x10-pho-146x16i9): Discover the GARVEE Modern Area Rug: soft, low-pile, and machine washable with non-slip backing. Perfect for high-traffic areas in any room!
-  Updated: 2025-11-11T04:33:13Z
+  Updated: 2025-11-11T09:40:14Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81prA8lOgpL.jpg?v=1720691299
   Price: $135.99 USD
 - [GARVEE Washable Rug - Soft, Non-Slip, and Durable Area Rug for Your Home](https://www.garvee.com/products/garvee-washable-rug-9x12-area-rug-large-soft-living-room-rug-modern-wave-distressed-carpet-non-slip-low-pile-accent-rug-non-shedding-foldable-throw-carpet-for-bedroom-dining-office-nursery-green-garvee): Discover the GARVEE Washable Rug: a soft, low-pile, non-slip rug crafted from durable polyester. Ideal for high-traffic areas, it's machine washable and stylish.
-  Updated: 2025-11-11T04:33:16Z
+  Updated: 2025-11-11T09:40:17Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81EUpCKqAXL_cb412889-1bef-4abd-8c63-19985be370b0.jpg?v=1720691299
   Price: $100.99 USD
 - [GARVEE Modern Area Rug - Soft, Washable, Non-Slip Design for Any Room](https://www.garvee.com/products/garvee-garveehome-modern-area-rug-8x10-pho-146xb2n0): Discover the GARVEE 8x10 Modern Area Rug, featuring a soft low pile, non-slip backing, and machine washable convenience. Perfect for living rooms, bedrooms, and more!
-  Updated: 2025-11-11T04:33:17Z
+  Updated: 2025-11-11T09:40:17Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -18761,56 +18775,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/615VdnURE4L_6fd1eb5a-3be8-4d61-83fb-ad4a244fe800.jpg?v=1761653799
   Price: $123.99 USD
 - [GARVEE Washable Area Rugs - Stylish, Soft, and Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rugs-for-living-room-9x12-stain-resistant-no-slip-large-area-rug-ultra-thin-vintage-moroccan-soft-carpet-for-bedroom-dining-room-black-grey-garvee): Elevate your home with GARVEE's 9x12 washable area rug. Featuring a vintage design, it's stain-resistant, non-slip, and ultra-thin for comfort.
-  Updated: 2025-11-11T04:33:20Z
+  Updated: 2025-11-11T09:40:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MEsQHerOL_a3171e21-b042-44d7-a268-c1561f0ed349.jpg?v=1720691419
   Price: $89.99 USD
 - [GARVEE Washable Area Rugs - Stylish & Functional](https://www.garvee.com/products/garvee-garveehome-washable-area-rugs-for-pho-14z7mugu): Discover GARVEE's ultra-thin, stain-resistant area rug in dark blue. Easy to clean, non-slip, and perfect for any room. Elevate your home decor effortlessly!
-  Updated: 2025-11-11T04:33:21Z
+  Updated: 2025-11-11T09:40:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915Ka1UWHOL.jpg?v=1720691419
   Price: $69.99 USD
 - [GARVEE Washable Area Rugs - Vintage Moroccan Design, Stain Resistant, Non-Slip, Ultra-Thin](https://www.garvee.com/products/garvee-garveehome-washable-area-rugs-for-pho-14z7qxd2): Discover the GARVEE Washable Area Rug: a stylish, stain-resistant, non-slip carpet in dark blue. Perfect for any room, it's easy to clean and ultra-thin!
-  Updated: 2025-11-11T04:33:21Z
+  Updated: 2025-11-11T09:40:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915Ka1UWHOL_2b3abbe3-0abe-4a38-8dc0-b3530780d30b.jpg?v=1720691419
   Price: $33.99 USD
 - [GARVEE Washable Area Rugs - Stain Resistant, No Slip, Ultra-Thin Vintage Design](https://www.garvee.com/products/garvee-garveehome-washable-area-rugs-for-pho-14z7ienx): Transform your space with GARVEE's 5x7 washable area rug. Stain-resistant, no-slip, and ultra-thin, it combines elegance and practicality for any room.
-  Updated: 2025-11-11T04:33:22Z
+  Updated: 2025-11-11T09:40:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MEsQHerOL_5ff85c0c-e3b6-4f41-9f2a-56abe292033a.jpg?v=1720691420
   Price: $44.99 USD
 - [GARVEE Washable Area Rugs: Stylish, Soft & Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-area-rugs-for-pho-14z7b5td): Transform your space with GARVEE's 8x10 washable area rug. Its vintage design, stain resistance, and ultra-thin softness ensure elegance and safety in any room.
-  Updated: 2025-11-11T04:33:23Z
+  Updated: 2025-11-11T09:40:23Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MEsQHerOL.jpg?v=1720691419
   Price: $69.99 USD
 - [GARVEE Washable Area Rugs - Stain Resistant & No Slip](https://www.garvee.com/products/garvee-washable-area-rugs-for-living-room-9x12-stain-resistant-no-slip-large-area-rug-ultra-thin-vintage-moroccan-soft-carpet-for-bedroom-dining-room-dark-blue-garvee): Discover the elegance of GARVEE's ultra-thin, vintage Moroccan area rug. Stain-resistant, washable, and non-slip, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:33:23Z
+  Updated: 2025-11-11T09:40:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915Ka1UWHOL_a64d5bf0-ae9e-4a4c-951e-8feafbcbc962.jpg?v=1720691420
   Price: $89.99 USD
 - [GARVEE Washable Area Rugs - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-washable-area-rugs-for-living-room-9x12-stain-resistant-no-slip-large-area-rug-ultra-thin-vintage-moroccan-soft-carpet-for-bedroom-dining-room-rusty-red-garvee): Transform your space with GARVEE's 9x12 washable area rug. Soft, stain-resistant, and ultra-thin, this vintage Moroccan design adds elegance and comfort.
-  Updated: 2025-11-11T04:33:24Z
+  Updated: 2025-11-11T09:40:25Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91q9-jUD3YL_5408813c-3e00-4241-a3d2-6b4bc170ea08.jpg?v=1720691421
   Price: $99.99 USD
 - [GARVEE Washable Area Rugs - Stylish & Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-area-rugs-for-pho-14z7m7pr): Transform your space with GARVEE's 8x10 washable area rug. This ultra-thin, stain-resistant carpet features a vintage Moroccan design, ensuring comfort and style.
-  Updated: 2025-11-11T04:33:25Z
+  Updated: 2025-11-11T09:40:26Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -18838,42 +18852,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61Hj-zOOdML_c3af717f-29b6-4a67-9c5a-ff734e4f2b8c.jpg?v=1720691440
   Price: $97.99 USD
 - [GARVEE Washable 8x10 Rug - Soft, Non-Slip & Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-rug-pho-14b2g2rf): Transform your living space with the GARVEE Washable 8x10 Rug. Soft faux wool, non-slip backing, and stain-resistant features make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:33:26Z
+  Updated: 2025-11-11T09:40:27Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81IAyDlO8ML.jpg?v=1720691462
   Price: $123.99 USD
 - [GARVEE Washable 9x12 Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-rugs-9x12-rug-for-living-room-checkered-rug-non-slip-black-plaid-rug-soft-large-area-rug-for-bedroom-stain-resistant-throw-rugs-foldable-carpet-for-dining-room-nursery-black-9x12-garvee): Discover the GARVEE Washable 9x12 Rug, featuring a soft faux wool design, non-slip backing, and stain resistance, perfect for any room in your home.
-  Updated: 2025-11-11T04:33:27Z
+  Updated: 2025-11-11T09:40:28Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81IAyDlO8ML_65580f72-fed3-494f-b3a2-1a558c6efe4d.jpg?v=1740574274
   Price: $167.99 USD
 - [GARVEE Washable Area Rugs 9x12 - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rugs-9x12-living-room-checkered-rug-non-slip-grey-plaid-rug-soft-large-area-rug-for-bedroom-stain-resistant-throw-rugs-foldable-carpet-for-dining-room-nursery-grey-9x12-garvee): Discover the GARVEE 9x12 Washable Area Rug, featuring soft faux wool, non-slip backing, and stain resistance. Perfect for living rooms, bedrooms, and more!
-  Updated: 2025-11-11T04:33:28Z
+  Updated: 2025-11-11T09:40:29Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Z4YxHmabL_3e6c3cb2-62dc-4719-a3ae-7f77115fc50c.jpg?v=1720691462
   Price: $109.99 USD
 - [GARVEE Washable 8x10 Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-rug-8-x-pho-14b26elq): Discover the GARVEE Washable Rug, featuring a soft faux wool design, non-slip backing, and stain resistance. Perfect for any room, including bedrooms and living areas!
-  Updated: 2025-11-11T04:33:29Z
+  Updated: 2025-11-11T09:40:29Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81inKfbhyuL_89f81541-d21a-4472-9e37-f88578d74bdf.jpg?v=1720691463
   Price: $125.99 USD
 - [GARVEE Modern Checkered Rug - Soft, Non-Slip, Washable Area Rug](https://www.garvee.com/products/garvee-modern-checkered-rug-9-x-12-rug-washable-area-rug-for-bedroom-non-slip-brown-plaid-rug-soft-large-rugs-for-living-room-stain-resistant-throw-rugs-carpet-for-dining-room-nursery-brown-9x12-garvee): Discover the GARVEE 9x12 modern checkered rug, featuring soft faux wool, non-slip backing, and stain resistance. Perfect for any room, easy to clean!
-  Updated: 2025-11-11T04:33:29Z
+  Updated: 2025-11-11T09:40:30Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81inKfbhyuL.jpg?v=1720691462
   Price: $62.99 USD
 - [GARVEE Washable 8x10 Area Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-area-pho-14b2sx3h): Elevate your space with GARVEE's 8x10 washable rug. Soft faux wool, non-slip backing, and stain-resistant features make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:33:31Z
+  Updated: 2025-11-11T09:40:32Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
@@ -18943,63 +18957,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71k39NSrhAL.jpg?v=1720691543
   Price: $41.99 USD
 - [GARVEE Large Moroccan Area Rug - Soft, Anti-Slip, Machine Washable](https://www.garvee.com/products/garvee-large-moroccan-area-rug-9x12-super-soft-ultra-thin-boho-indoor-floor-carpet-anti-slip-foldable-machine-washable-geometric-rug-for-living-room-under-dining-table-home-office-house-decor-blue-garvee): Discover the GARVEE Large Moroccan Area Rug, featuring ultra-soft comfort, anti-slip backing, and machine washable convenience. Perfect for any home decor.
-  Updated: 2025-11-11T04:33:33Z
+  Updated: 2025-11-11T09:40:33Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91omd7rvLiL.jpg?v=1720691596
   Price: $68.99 USD
 - [GARVEE Large Moroccan Area Rug - Super Soft, Anti-Slip, Machine Washable](https://www.garvee.com/products/garvee-large-moroccan-area-rug-8x10-pho-14nybshy): Transform your space with the GARVEE Large Moroccan Area Rug. Enjoy ultra-soft comfort, anti-slip safety, and easy maintenance, perfect for any home.
-  Updated: 2025-11-11T04:33:33Z
+  Updated: 2025-11-11T09:40:34Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uWXSw0F6L_0bea3a69-8179-42d3-9284-78bd973881e0.jpg?v=1720691596
   Price: $124.99 USD
 - [GARVEE Large Moroccan Area Rug - Super Soft, Anti-Slip, Machine Washable](https://www.garvee.com/products/garvee-large-moroccan-area-rug-5x7-pho-14nysnrs): Transform your space with the GARVEE Large Moroccan Area Rug. Super soft, anti-slip, and machine washable, it's perfect for comfort and style in any room.
-  Updated: 2025-11-11T04:33:35Z
+  Updated: 2025-11-11T09:40:35Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91bHyDnUVdL_77ad9db3-213b-411a-95aa-06df46183dd0.jpg?v=1727691509
   Price: $62.99 USD
 - [GARVEE Large Moroccan Area Rug - Soft, Anti-Slip, Machine Washable](https://www.garvee.com/products/garvee-large-moroccan-area-rug-8x10-pho-14nyjol1): Transform your space with the GARVEE 8x10 Moroccan Area Rug. Enjoy its super soft, anti-slip design, and machine washable convenience for easy maintenance.
-  Updated: 2025-11-11T04:33:36Z
+  Updated: 2025-11-11T09:40:36Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91omd7rvLiL_9d89acc8-4344-4968-bf71-1c7befebba72.jpg?v=1720691597
   Price: $117.99 USD
 - [GARVEE Large Moroccan Area Rug - Super Soft & Anti-Slip](https://www.garvee.com/products/garvee-large-moroccan-area-rug-9x12-super-soft-ultra-thin-boho-indoor-floor-carpet-anti-slip-foldable-machine-washable-geometric-rug-for-living-room-under-dining-table-home-office-house-decor-grey-garvee): Discover the GARVEE Large Moroccan Area Rug, featuring ultra-soft comfort, anti-slip backing, and machine washable convenience. Perfect for any home decor!
-  Updated: 2025-11-11T04:33:36Z
+  Updated: 2025-11-11T09:40:36Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uWXSw0F6L.jpg?v=1720691596
   Price: $147.99 USD
 - [GARVEE 8x10 Washable Non-Slip Rug - Modern Boho Design](https://www.garvee.com/products/garvee-jolene-k-8x10-rug-washable-pho-156ozw7d): Discover the GARVEE 8x10 rug, crafted from durable polyester. This washable, non-slip rug features a soft texture and is kid and pet-friendly, perfect for any room.
-  Updated: 2025-11-11T04:33:37Z
+  Updated: 2025-11-11T09:40:37Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WnSUr8OxL.jpg?v=1720692113
   Price: $57.99 USD
 - [GARVEE 9x12 Washable Non-Slip Rug - Modern Boho Design](https://www.garvee.com/products/garvee-9x12-rug-washable-throw-rugs-non-slip-modern-rugs-boho-office-rug-tropics-palm-leaves-rug-for-living-room-neutral-nursery-rug-botanical-area-rug-for-bedroom-farmhouse-floor-cover-green-garvee): Discover the GARVEE 9x12 rug, crafted from soft, durable polyester. This machine-washable, non-slip rug is perfect for any room, offering style and comfort.
-  Updated: 2025-11-11T04:33:39Z
+  Updated: 2025-11-11T09:40:39Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WnSUr8OxL_62506395-a401-4b0f-a525-db54846a2c30.jpg?v=1720692114
   Price: $95.99 USD
 - [GARVEE 5x7 Washable Area Rugs - Stylish & Durable](https://www.garvee.com/products/garvee-jolene-k-area-rugs-5x7-pho-156o6a31): Discover GARVEE's 5x7 washable area rugs, designed for comfort and style. Stain-resistant, non-slip, and kid-friendly, perfect for any room.
-  Updated: 2025-11-11T04:33:40Z
+  Updated: 2025-11-11T09:40:40Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81aFl2EYmSL.jpg?v=1720692113
   Price: $48.99 USD
 - [GARVEE 9x12 Area Rug - Washable, Non-Slip, Kid & Pet Friendly](https://www.garvee.com/products/garvee-9x12-area-rug-washable-rugs-for-bedroom-boho-throw-rugs-non-slip-living-room-rugs-modern-office-rug-neutral-nursery-rug-farmhouse-floor-cover-tropics-palm-leaves-rug-botanical-area-rug-blue-garvee): Discover the GARVEE 9x12 Area Rug, featuring a soft polyester texture, stain resistance, and a stylish botanical design, perfect for any room in your home.
-  Updated: 2025-11-11T04:33:41Z
+  Updated: 2025-11-11T09:40:41Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -19279,7 +19293,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61kLOgDhQsL.jpg?v=1721267952
   Price: $79.99 USD
 - [Efficient 8 Gallon Rectangular Recycling Trash Can for Indoor & Outdoor Use](https://www.garvee.com/products/garvee-garveehome-8-gallons-rectangular-recycling-pho-15be54p5): Discover the GARVEE 8 Gallons Rectangular Recycling Trash Can, perfect for indoor and outdoor settings. Its dual compartments offer versatile waste management solutions.
-  Updated: 2025-11-10T19:55:24Z
+  Updated: 2025-11-11T09:40:48Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Improvement & Tools > Cleaning & Janitorial
   Availability: Available
@@ -19307,7 +19321,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/615V4xBwtML.jpg?v=1721267973
   Price: $116.99 USD
 - [GARVEE Marble Abstract Area Rug - Luxury Modern Design](https://www.garvee.com/products/garvee-caromio-marble-abstract-area-rug-pho-14bfu7wx): Elevate your space with the GARVEE Marble Abstract Area Rug. Made from durable polyester, this 6'x9' rug features a non-slip rubber backing and a stylish grey abstract design, perfect for any room.
-  Updated: 2025-11-11T07:57:31Z
+  Updated: 2025-11-11T09:40:44Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -19321,7 +19335,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ur9tjVrBL_dc509910-ea34-49dc-8ce3-3fa5b927bdcd.jpg?v=1721267995
   Price: $65.99 USD
 - [GARVEE Washable Modern Marble Rug - 8'x10' Abstract Area Rug for Living Room](https://www.garvee.com/products/garvee-caromio-washable-rug-modern-marble-pho-14bfm73k): Elevate your space with the GARVEE Washable Rug. This 8'x10' blue abstract area rug features a non-slip backing, low pile, and stylish boho marble pattern, perfect for any room.
-  Updated: 2025-11-11T04:33:45Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -19335,56 +19349,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815A1X5naZL_0b277d5e-f89b-4cf4-b095-3af81a9cd001.jpg?v=1735633393
   Price: $139.99 USD
 - [GARVEE 8x10 Vintage Washable Area Rug - Ultra-Soft & Non-Slip](https://www.garvee.com/products/garvee-garveehome-8x10-area-rugs-for-pho-154dbb2n): Discover the GARVEE 8x10 Vintage Washable Area Rug, featuring a non-slip backing, ultra-soft faux wool, and easy maintenance for any room in your home.
-  Updated: 2025-11-11T04:33:46Z
+  Updated: 2025-11-11T09:40:46Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WIvKMi4HL.jpg?v=1721268022
   Price: $56.99 USD
 - [GARVEE Washable 5x7 Area Rug - Ultra-Soft, Non-Slip, Vintage Design](https://www.garvee.com/products/garvee-cozyloom-washable-rug-5x7-area-pho-154dhmxl): Discover the GARVEE 5x7 Washable Rug, featuring a premium faux wool surface, low pile design, and non-slip backing for safety and style in any room.
-  Updated: 2025-11-11T04:33:47Z
+  Updated: 2025-11-11T09:40:46Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MpmT8ZkmL_648e0047-82b9-4300-bd56-69957918ba84.jpg?v=1721268022
   Price: $89.99 USD
 - [GARVEE Area Rug 9x12 - Vintage Non-Slip Soft Faux Wool Rug](https://www.garvee.com/products/garvee-area-rug-9x12-rugs-for-living-room-large-vintage-rug-non-slip-oriental-soft-bedroom-rugs-low-pile-non-shedding-floor-cover-faux-wool-farmhouse-rug-for-dining-room-playroom-office-blue-garvee): Transform your space with the GARVEE 9x12 Area Rug. Its non-slip, low pile design ensures safety and comfort, while the vintage faux wool is easy to clean and maintain.
-  Updated: 2025-11-11T04:33:48Z
+  Updated: 2025-11-11T09:40:47Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MpmT8ZkmL.jpg?v=1721268022
   Price: $119.99 USD
 - [GARVEE Washable 5x7 Vintage Rug - Ultra-Soft, Non-Slip, Easy Care](https://www.garvee.com/products/garvee-cozyloom-washable-rug-5x7-area-pho-154dhpak): Discover the GARVEE Washable Rug: ultra-soft faux wool, low pile design, non-slip backing, and machine washable for easy care. Perfect for any room!
-  Updated: 2025-11-11T04:33:49Z
+  Updated: 2025-11-11T09:40:49Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/9143NOFrsuL_fba61a2d-a85c-47c0-8897-557bf465eca7.jpg?v=1721268022
   Price: $47.99 USD
 - [GARVEE 6x9 Washable Vintage Area Rug - Soft, Non-Slip, Durable Design](https://www.garvee.com/products/garvee-garveehome-area-rug-6x9-washable-pho-154deew5): Transform your space with the GARVEE 6x9 Washable Area Rug. Featuring a vintage design, non-slip backing, and machine washable convenience, it’s perfect for any room!
-  Updated: 2025-11-11T04:33:50Z
+  Updated: 2025-11-11T09:40:49Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91NR7qZvmUL.jpg?v=1721268022
   Price: $79.99 USD
 - [GARVEE Washable Rug - Vintage Ultra-Soft Low Pile Area Rug for Home](https://www.garvee.com/products/garvee-cozyloom-washable-rug-5x7-area-pho-154dfp33): Discover the GARVEE Washable Rug: a soft, low-pile, non-slip floral rug perfect for high-traffic areas. Easy to clean, durable, and stylish for any room.
-  Updated: 2025-11-11T04:33:52Z
+  Updated: 2025-11-11T09:40:51Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91H_QarGbtL_07d82dc3-7237-449d-82d6-6256c74bcf86.jpg?v=1721268022
   Price: $89.99 USD
 - [GARVEE 8x10 Vintage Washable Area Rug - Ultra-Soft, Non-Slip, Durable](https://www.garvee.com/products/garvee-garveehome-8x10-area-rugs-for-pho-154di85v): Discover the GARVEE 8x10 Vintage Washable Rug, featuring a soft faux wool surface, non-slip backing, and machine washable convenience, perfect for any room.
-  Updated: 2025-11-11T04:33:54Z
+  Updated: 2025-11-11T09:40:53Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91QJ4RmunOL.jpg?v=1721268025
   Price: $109.99 USD
 - [GARVEE Area Rug 9x12 - Vintage Non-Slip Faux Wool Rug for Home](https://www.garvee.com/products/garvee-area-rug-9x12-rugs-for-living-room-large-vintage-rug-non-slip-oriental-soft-bedroom-rugs-low-pile-non-shedding-floor-cover-faux-wool-farmhouse-rug-for-dining-room-playroom-office-rust-garvee): Discover the GARVEE 9x12 Area Rug, crafted from premium faux wool for a soft, non-shedding surface. Perfect for high-traffic areas, it's easy to clean and stays securely in place.
-  Updated: 2025-11-11T04:33:55Z
+  Updated: 2025-11-11T09:40:53Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -19461,35 +19475,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61780oy-XhL.jpg?v=1727662584
   Price: $95.99 USD
 - [GARVEE 4x6 Area Rugs - Stylish & Functional for Any Room](https://www.garvee.com/products/garvee-haperlare-4x6-area-rugs-for-pho-155odj45): Discover the GARVEE 4x6 Area Rug, made from durable polypropylene. This machine washable, non-slip rug is perfect for your living room, bedroom, or office.
-  Updated: 2025-11-11T04:34:00Z
+  Updated: 2025-11-11T09:40:58Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91UY68-wKkL_ed39008a-a911-4e94-aee9-29437b89ff4b.jpg?v=1721614342
   Price: $52.99 USD
 - [GARVEE 8x10 Moroccan Blythe Area Rug - Soft, Non-Shedding, Easy to Clean](https://www.garvee.com/products/garvee-haperlare-8x10-moroccan-blythe-area-pho-155o9vkm): Discover the GARVEE 8x10 Moroccan Blythe Area Rug. Made from ultra-soft polypropylene, this non-shedding rug is easy to clean, perfect for any room!
-  Updated: 2025-11-11T04:34:01Z
+  Updated: 2025-11-11T09:40:59Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81S-LaLW2jL.jpg?v=1721614311
   Price: $107.99 USD
 - [GARVEE Large Area Rug - Boho Moroccan Style for Living Room](https://www.garvee.com/products/garvee-large-area-rug-living-room-rugs-9x12-large-soft-machine-washable-boho-moroccan-neutral-stain-resistant-indoor-floor-rug-carpet-for-bedroom-under-dining-table-house-decor-black-garvee): Transform your space with the GARVEE 9x12 area rug. Soft, machine washable, and stain resistant, it’s perfect for any room. Enjoy free shipping and fast delivery!
-  Updated: 2025-11-11T04:34:02Z
+  Updated: 2025-11-11T09:41:01Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91jCjRbnj6L.jpg?v=1721614309
   Price: $162.99 USD
 - [GARVEE 8x10 Moroccan Blythe Area Rug - Ultra Soft & Easy to Clean](https://www.garvee.com/products/garvee-haperlare-8x10-moroccan-blythe-area-pho-155ol409): Transform your space with the GARVEE 8x10 Moroccan Blythe Area Rug. This ultra-soft, non-shedding rug is easy to clean, perfect for any room.
-  Updated: 2025-11-11T04:34:04Z
+  Updated: 2025-11-11T09:41:03Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815Fdm0IjuL.jpg?v=1721614311
   Price: $174.99 USD
 - [GARVEE Large Area Rug - Soft, Washable, Stain Resistant](https://www.garvee.com/products/garvee-large-area-rug-living-room-rugs-9x12-large-soft-machine-washable-boho-moroccan-neutral-stain-resistant-indoor-floor-rug-carpet-for-bedroom-under-dining-table-house-decor-cream-brown-garvee): Transform your space with the GARVEE 9x12 area rug. Soft, machine washable, and stain resistant, it's perfect for any room. Enjoy free shipping and fast delivery!
-  Updated: 2025-11-11T04:34:05Z
+  Updated: 2025-11-11T09:41:03Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -19524,168 +19538,168 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41ryQzwBAIL.jpg?v=1721269587
   Price: $203.99 USD
 - [GARVEE Washable Modern Area Rug - Stylish, Non-Slip, and Stain Resistant](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v65xmm): Transform your space with the GARVEE Washable Modern Area Rug. Enjoy its stylish geometric design, non-slip safety, and stain-resistant durability for easy maintenance.
-  Updated: 2025-11-11T04:34:06Z
+  Updated: 2025-11-11T09:41:04Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LF1lFmvpL.jpg?v=1721269597
   Price: $69.99 USD
 - [GARVEE Washable Modern Area Rug - Soft Moroccan Geometric Design](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v6og7s): Discover the GARVEE Washable Modern Area Rug, featuring stain-resistant, non-slip safety and ultra-thin low pile for easy maintenance and stylish decor.
-  Updated: 2025-11-11T04:34:06Z
+  Updated: 2025-11-11T09:41:05Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81erUxyCa_L_d3188e4c-50a5-425f-a213-5f313667cb85.jpg?v=1721269597
   Price: $49.99 USD
 - [GARVEE Washable Modern Area Rug - Soft Moroccan Geometric Design](https://www.garvee.com/products/garvee-washable-modern-area-rug-9x12-soft-moroccan-geometric-rugs-for-living-room-ultra-thin-low-pile-large-carpet-for-bedroom-stain-resistant-non-slip-indoor-floor-mat-for-dining-room-black-garvee): Discover the GARVEE Washable Area Rug, featuring stylish geometric designs, stain resistance, and a non-slip backing for safety. Perfect for any indoor space!
-  Updated: 2025-11-11T04:34:07Z
+  Updated: 2025-11-11T09:41:06Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LF1lFmvpL_bb362452-3af1-497f-aab5-eaa1bdc24abc.jpg?v=1721269597
   Price: $89.99 USD
 - [GARVEE Washable Modern Area Rug - Soft Moroccan Geometric Design](https://www.garvee.com/products/garvee-washable-modern-area-rug-9x12-soft-moroccan-geometric-rugs-for-living-room-ultra-thin-low-pile-large-carpet-for-bedroom-stain-resistant-non-slip-indoor-floor-mat-for-dining-room-grey-garvee): Discover the GARVEE Washable Modern Area Rug, featuring stain-resistant, non-slip backing, and ultra-thin design for effortless style and safety in any room.
-  Updated: 2025-11-11T04:34:08Z
+  Updated: 2025-11-11T09:41:06Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81erUxyCa_L.jpg?v=1721269597
   Price: $89.99 USD
 - [GARVEE Washable Modern Area Rug - Soft Moroccan Geometric Design](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v6rj5q): Discover the GARVEE Washable Area Rug, featuring stain-resistant, non-slip design, ultra-thin low pile for easy maintenance, and stylish geometric patterns perfect for any room.
-  Updated: 2025-11-11T04:34:09Z
+  Updated: 2025-11-11T09:41:07Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919vv-6g_6L_a5611b5c-9ed9-4870-9759-365e6d7d6361.jpg?v=1721269597
   Price: $49.99 USD
 - [Geometric Rugs - Non-Slip Washable Low Pile & Moroccan Farmhouse | GARVEE](https://www.garvee.com/products/garvee-washable-modern-area-rug-9x12-soft-moroccan-geometric-rugs-for-living-room-ultra-thin-low-pile-large-carpet-for-bedroom-stain-resistant-non-slip-indoor-floor-mat-for-dining-room-blue-garvee): Transform your space with the GARVEE Washable Area Rug. Features machine washable convenience, non-slip safety, and stain-resistant durability in a chic geometric design.
-  Updated: 2025-11-11T04:34:09Z
+  Updated: 2025-11-11T09:41:08Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919vv-6g_6L.jpg?v=1745217358
   Price: $94.99 USD
 - [GARVEE Washable Modern Area Rug - Soft Moroccan Geometric Design](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v63xg3): Discover the GARVEE Washable Modern Area Rug: stain-resistant, non-slip, and ultra-thin for easy maintenance. Perfect for any indoor space, it combines style and safety.
-  Updated: 2025-11-11T04:34:10Z
+  Updated: 2025-11-11T09:41:08Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LF1lFmvpL_55cddd0c-14d2-4b8a-94f4-43e92db9f528.jpg?v=1721269597
   Price: $49.99 USD
 - [GARVEE Washable Modern Area Rug - Stylish & Durable](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v6ct1l): Transform your space with the GARVEE Washable Modern Area Rug. Enjoy stain resistance, non-slip safety, and easy machine washing for busy homes.
-  Updated: 2025-11-11T04:34:11Z
+  Updated: 2025-11-11T09:41:09Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/919vv-6g_6L_0a7bd0e6-ebce-4329-82f9-cd2ac57e0d03.jpg?v=1721269597
   Price: $69.99 USD
 - [GARVEE Washable Modern Area Rug - Stylish, Stain-Resistant & Non-Slip](https://www.garvee.com/products/garvee-garveehome-washable-modern-area-rug-pho-14v60r4y): Discover the GARVEE Washable Modern Area Rug: machine washable, ultra-thin, and stain-resistant. Perfect for any room, it combines safety and style effortlessly.
-  Updated: 2025-11-11T04:34:12Z
+  Updated: 2025-11-11T09:41:10Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81erUxyCa_L_705109d9-c76c-4f12-a88b-1424b40198d1.jpg?v=1721269597
   Price: $69.99 USD
 - [GARVEE 5x7 Washable Rug - Ultra-Soft Vintage Floral Design for Living Room & Bedroom](https://www.garvee.com/products/garvee-garveehome-rug-5x7-living-room-pho-14tnovki): Discover the GARVEE 5x7 Washable Rug with a vintage floral design. Enjoy ultra-soft faux wool, non-slip backing, and easy machine wash for effortless maintenance.
-  Updated: 2025-11-11T04:34:12Z
+  Updated: 2025-11-11T09:41:11Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915ZHTLWyiL.jpg?v=1721269619
   Price: $53.99 USD
 - [GARVEE Washable Rug - Vintage 8x10 Area Rug for Living Room](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-area-pho-14tndgb6): Discover the GARVEE Washable Rug, featuring a vintage design, ultra-soft faux wool, non-slip backing, and machine washable convenience—perfect for any room!
-  Updated: 2025-11-11T04:34:13Z
+  Updated: 2025-11-11T09:41:11Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915ZHTLWyiL_e47dc6cf-ad28-4ddb-a7fe-d747350c09e3.jpg?v=1721269619
   Price: $91.99 USD
 - [GARVEE 9x12 Vintage Washable Area Rug - Soft, Non-Slip, Durable](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-washable-rugs-for-living-room-non-slip-backing-soft-indoor-carpet-low-pile-non-shedding-foldable-rug-boho-distressed-accent-rug-for-bedroom-nursery-dorm-office-rust-garvee): Discover the GARVEE 9x12 Area Rug with a vintage design, soft faux wool, non-slip backing, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:34:14Z
+  Updated: 2025-11-11T09:41:12Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915ZHTLWyiL_fbb21af4-9605-4645-8d8f-1914fcd04e88.jpg?v=1721269619
   Price: $116.99 USD
 - [GARVEE 6x9 Soft Washable Area Rug - Vintage Non-Slip Carpet](https://www.garvee.com/products/garvee-garveehome-area-rug-6x9-soft-pho-14tnghe3): Discover the GARVEE 6x9 Area Rug featuring a vintage design, soft faux wool, non-slip backing, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:34:14Z
+  Updated: 2025-11-11T09:41:13Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/915ZHTLWyiL_03ed7fef-7579-46a7-b7aa-3c25e3c13cf7.jpg?v=1721269619
   Price: $56.99 USD
 - [GARVEE 5x7 Washable Rug - Ultra-Soft Vintage Floral Design for Any Room](https://www.garvee.com/products/garvee-garveehome-rug-5x7-living-room-pho-14tn9jjf): Transform your space with the GARVEE 5x7 rug featuring a vintage floral design, non-slip backing, and machine washable convenience for easy maintenance.
-  Updated: 2025-11-11T04:34:15Z
+  Updated: 2025-11-11T09:41:14Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Mxh_yd8AL_d0de2bf6-04fa-4269-884c-4d86239e28e7.jpg?v=1721269620
   Price: $45.99 USD
 - [GARVEE 6x9 Soft Washable Area Rug - Vintage Non-Slip Design](https://www.garvee.com/products/garvee-garveehome-area-rug-6x9-soft-pho-14tnl9sw): Discover the GARVEE 6x9 area rug, featuring a vintage print, soft faux wool, non-slip backing, and machine washable convenience for easy maintenance.
-  Updated: 2025-11-11T04:34:16Z
+  Updated: 2025-11-11T09:41:15Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51fdguu4NPL.jpg?v=1721269619
   Price: $70.99 USD
 - [GARVEE 5x7 Washable Rug - Ultra-Soft Vintage Floral Design](https://www.garvee.com/products/garvee-garveehome-rug-5x7-living-room-pho-14tn6cbm): Discover the GARVEE 5x7 rug, featuring a vintage floral design, ultra-soft faux wool, non-slip backing, and machine washable convenience, perfect for any room.
-  Updated: 2025-11-11T04:34:17Z
+  Updated: 2025-11-11T09:41:16Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aZK1-w_FL.jpg?v=1721269619
   Price: $56.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Non-Slip, Durable](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-washable-rugs-for-living-room-non-slip-backing-soft-indoor-carpet-low-pile-non-shedding-foldable-rug-boho-distressed-accent-rug-for-bedroom-nursery-dorm-office-yellow-garvee): Discover the GARVEE 9x12 Vintage Washable Rug with a soft faux wool surface, non-slip backing, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:34:17Z
+  Updated: 2025-11-11T09:41:16Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Mxh_yd8AL.jpg?v=1721269619
   Price: $116.99 USD
 - [GARVEE Washable Rug - Vintage Soft Indoor Carpet](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-area-pho-14tn4zuv): Enhance your home with the GARVEE Washable Rug. Its vintage design, ultra-soft faux wool, non-slip backing, and machine washable feature make it perfect for any room.
-  Updated: 2025-11-11T04:34:18Z
+  Updated: 2025-11-11T09:41:17Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Mxh_yd8AL_d3de290f-3c1b-40ef-a474-10b26658d5ae.jpg?v=1721269619
   Price: $79.99 USD
 - [GARVEE Washable Rug - Vintage 8x10 Area Rug for Home](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-area-pho-14tnnsim): Discover the GARVEE Washable Rug: a vintage, ultra-soft, non-slip area rug perfect for any room. Durable, machine washable, and designed for comfort.
-  Updated: 2025-11-11T04:34:19Z
+  Updated: 2025-11-11T09:41:18Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aZK1-w_FL_e65985e0-7297-4fa5-a62a-70090ee2c68b.jpg?v=1721269622
   Price: $91.99 USD
 - [GARVEE 9x12 Vintage Washable Area Rug - Soft, Non-Slip, Durable](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-washable-rugs-for-living-room-non-slip-backing-soft-indoor-carpet-low-pile-non-shedding-foldable-rug-boho-distressed-accent-rug-for-bedroom-nursery-dorm-office-grey-garvee): Discover the GARVEE 9x12 Area Rug, featuring a vintage design, soft faux wool, non-slip backing, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:34:21Z
+  Updated: 2025-11-11T09:41:20Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aZK1-w_FL_dc92fb9f-e870-401b-89b8-02005c79069c.jpg?v=1721269622
   Price: $116.99 USD
 - [GARVEE 6x9 Soft Washable Area Rug - Vintage Non-Slip Carpet](https://www.garvee.com/products/garvee-garveehome-area-rug-6x9-soft-pho-14tnfq94): Discover the GARVEE 6x9 Area Rug, featuring a soft faux wool surface, vintage design, and non-slip backing. Machine washable for easy maintenance!
-  Updated: 2025-11-11T04:34:22Z
+  Updated: 2025-11-11T09:41:21Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ABTbBcFPL_b35638b9-a78a-4b10-bff7-23ea8c353781.jpg?v=1721269623
   Price: $55.99 USD
 - [GARVEE 5x7 Washable Rug - Ultra-Soft Vintage Floral Design](https://www.garvee.com/products/garvee-garveehome-rug-5x7-living-room-pho-14tnks43): Discover the GARVEE 5x7 rug with a vintage floral design, ultra-soft faux wool, non-slip backing, and machine washable convenience—perfect for any room!
-  Updated: 2025-11-11T04:34:22Z
+  Updated: 2025-11-11T09:41:21Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51dX-bjLDhL.jpg?v=1721269622
   Price: $56.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Non-Slip, Durable, and Stylish](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-washable-rugs-for-living-room-non-slip-backing-soft-indoor-carpet-low-pile-non-shedding-foldable-rug-boho-distressed-accent-rug-for-bedroom-nursery-dorm-office-blue-garvee): Discover the GARVEE 9x12 Area Rug, featuring a vintage design, soft faux wool, non-slip backing, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:34:23Z
+  Updated: 2025-11-11T09:41:22Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ABTbBcFPL.jpg?v=1721269622
   Price: $122.99 USD
 - [GARVEE Washable Rug 8x10 Area Rug - Vintage Soft Non-Slip Carpet](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-area-pho-14tn7nvr): Transform your space with the GARVEE Washable Rug. This ultra-soft, vintage design features non-slip backing and is machine washable, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:24Z
+  Updated: 2025-11-11T09:41:23Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -19713,28 +19727,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71CNP7IE-_L.jpg?v=1721269638
   Price: $159.99 USD
 - [GARVEE Moroccan Trellis Area Rug - Stylish & Washable 5x7](https://www.garvee.com/products/garvee-garveehome-moroccan-trellis-area-rug-pho-14vaptnp): Transform your home with the GARVEE Moroccan Trellis Area Rug. This ultra-thin, non-slip, and machine washable rug combines elegance and practicality for any space.
-  Updated: 2025-11-11T04:34:25Z
+  Updated: 2025-11-11T09:41:24Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rH0MrB04L_36f03431-bd98-448e-9c1e-c160185cfc0b.jpg?v=1721269651
   Price: $61.99 USD
 - [GARVEE Moroccan Trellis Area Rug 8x10 - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-garveehome-moroccan-trellis-area-rug-pho-14varifl): Discover the GARVEE Moroccan Trellis Area Rug 8x10, featuring ultra-thin, machine washable, non-slip design. Perfect for any room, adding vintage charm effortlessly.
-  Updated: 2025-11-11T04:34:27Z
+  Updated: 2025-11-11T09:41:26Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rH0MrB04L.jpg?v=1721269651
   Price: $78.99 USD
 - [GARVEE Moroccan Trellis Area Rug 9x12 - Stylish & Washable](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-9x12-for-living-room-washable-ultra-thin-soft-rugs-9x12-for-bedroom-9x12-large-non-slip-non-shedding-carpet-for-dining-room-office-blue-garvee): Discover the GARVEE Moroccan Trellis Area Rug 9x12, featuring a soft, non-slip design that's machine washable and stain-resistant, perfect for any room.
-  Updated: 2025-11-11T04:34:28Z
+  Updated: 2025-11-11T09:41:26Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/911vcKNeMOL_d1d656d9-3446-4090-ac86-1548b45356c9.jpg?v=1721269652
   Price: $104.99 USD
 - [GARVEE Moroccan Trellis Area Rug - Washable & Non-Slip 9x12](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-9x12-for-living-room-washable-ultra-thin-soft-rugs-9x12-for-bedroom-9x12-large-non-slip-non-shedding-carpet-for-dining-room-office-brown-garvee): Transform your space with the GARVEE Moroccan Trellis Area Rug. This washable, ultra-thin, non-slip rug is soft, stain-resistant, and perfect for busy households.
-  Updated: 2025-11-11T04:34:28Z
+  Updated: 2025-11-11T09:41:27Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
@@ -19804,63 +19818,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1722247325492NrtqZpw5oy_92b88ad9-218e-4203-ba8d-7a2ccbba5d74.jpg?v=1731053326
   Price: $50.99 USD
 - [GARVEE Machine Washable 5x7 Area Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-garveehome-machine-washable-5x7-area-pho-14v9unhv): Transform your home with the GARVEE 5x7 area rug. Its elegant floral design, stain-resistant, machine washable fabric, and non-slip backing ensure style and safety.
-  Updated: 2025-11-11T04:34:36Z
+  Updated: 2025-11-11T09:41:35Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EyhJxMLpL.jpg?v=1721269715
   Price: $61.99 USD
 - [GARVEE Machine Washable Area Rug - 9x12 Floral Print](https://www.garvee.com/products/garvee-machine-washable-9x12-area-rug-for-living-room-9x12-ultra-thin-large-floral-print-rugs-for-dining-room-home-office-stain-resistant-non-slip-backing-carpet-multicolor-garvee): Transform your space with the GARVEE 9x12 area rug. Its stain-resistant, machine-washable design features an elegant floral print and non-slip backing, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:37Z
+  Updated: 2025-11-11T09:41:36Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/914HnOd40SL_af19e2a6-d841-4685-888a-b0f2bf78ef4f.jpg?v=1721269715
   Price: $144.99 USD
 - [GARVEE Machine Washable 8x10 Area Rug - Elegant Floral Design](https://www.garvee.com/products/garvee-garveehome-machine-washable-8x10-area-pho-14v94mhg): Transform your home with the GARVEE 8x10 area rug. Stain-resistant, machine washable, and non-slip, it combines style and practicality for any space.
-  Updated: 2025-11-11T04:34:38Z
+  Updated: 2025-11-11T09:41:36Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/914HnOd40SL.jpg?v=1721269715
   Price: $107.99 USD
 - [GARVEE Machine Washable 9x12 Area Rug - Stylish & Practical](https://www.garvee.com/products/garvee-machine-washable-9x12-area-rug-for-living-room-9x12-ultra-thin-large-floral-print-rugs-for-dining-room-home-office-stain-resistant-non-slip-backing-carpet-dark-grey-garvee): Transform your space with the GARVEE 9x12 area rug. Its floral design, stain resistance, and machine washable feature ensure elegance and ease for any home.
-  Updated: 2025-11-11T04:34:39Z
+  Updated: 2025-11-11T09:41:37Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EyhJxMLpL_7ee8f30f-06c2-4eb1-8b03-3806f9f47a6a.jpg?v=1721269715
   Price: $144.99 USD
 - [GARVEE Machine Washable 5x7 Area Rug - Elegant Floral Design](https://www.garvee.com/products/garvee-garveehome-machine-washable-5x7-area-pho-14v9l4so): Transform your space with the GARVEE 5x7 area rug. Machine washable, stain resistant, and featuring a stunning floral print, it’s perfect for any home.
-  Updated: 2025-11-11T04:34:39Z
+  Updated: 2025-11-11T09:41:38Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/914HnOd40SL_e6aac1b2-1116-49b4-9530-ffdebd4beb8b.jpg?v=1721269715
   Price: $62.99 USD
 - [GARVEE Machine Washable 8x10 Area Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-garveehome-machine-washable-8x10-area-pho-14v9x5pw): Transform your living space with GARVEE's 8x10 machine washable area rug. Featuring a stunning floral design, it's stain resistant, non-slip, and easy to clean.
-  Updated: 2025-11-11T04:34:40Z
+  Updated: 2025-11-11T09:41:39Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91foU0VSOkL.jpg?v=1721269715
   Price: $65.99 USD
 - [GARVEE Machine Washable 8x10 Area Rug - Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-garveehome-machine-washable-8x10-area-pho-14v9s9e8): Discover the GARVEE 8x10 area rug featuring a stunning floral design. Machine washable, stain resistant, and non-slip, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:41Z
+  Updated: 2025-11-11T09:41:39Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EyhJxMLpL_a87aade5-3835-40c8-b41d-5497932191df.jpg?v=1721269715
   Price: $107.99 USD
 - [GARVEE Machine Washable Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-garveehome-machine-washable-5x7-area-pho-14v9zp8n): Discover the GARVEE 5x7 Area Rug, featuring a stunning floral design, stain resistance, and machine washability. Perfect for high-traffic areas and homes with pets!
-  Updated: 2025-11-11T04:34:41Z
+  Updated: 2025-11-11T09:41:40Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91foU0VSOkL_9d6a6b20-68dc-466c-9202-7ecbaf71b4ae.jpg?v=1721269715
   Price: $53.99 USD
 - [GARVEE Machine Washable 9x12 Area Rug - Elegant Floral Design](https://www.garvee.com/products/garvee-machine-washable-9x12-area-rug-for-living-room-9x12-ultra-thin-large-floral-print-rugs-for-dining-room-home-office-stain-resistant-non-slip-backing-carpet-red-brown-garvee): Discover the GARVEE 9x12 area rug, featuring a stunning floral print, stain resistance, and machine washability. Perfect for high-traffic areas, it's stylish and practical.
-  Updated: 2025-11-11T04:34:42Z
+  Updated: 2025-11-11T09:41:41Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -20077,7 +20091,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71KjTSpCcTL.jpg?v=1722403914
   Price: $54.99 USD
 - [GARVEE 16 Pack Mini Jam Jars - Versatile Glass Preserve Pots](https://www.garvee.com/products/garvee-cibeat-16-pack-mini-jam-pho-0qcx8as1): Discover the GARVEE Mini Jam Jars, perfect for indoor and outdoor use. These versatile jars are ideal for storing jams, honey, and baby food, enhancing your preserving experience.
-  Updated: 2025-11-08T14:39:11Z
+  Updated: 2025-11-11T12:01:32Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Kitchen Utensils & Gadgets
   Availability: Available
@@ -20112,7 +20126,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41gGpadE1OL_1dddf92c-ad2e-4829-9737-f07d072ca100.jpg?v=1722403960
   Price: $99.99 USD
 - [GARVEE 10 Ounce Porcelain Bowls Set - Versatile and Elegant](https://www.garvee.com/products/garvee-cibeat-10-ounce-porcelain-bowls-pho-0q7xhe56): Discover the GARVEE 10 Ounce Porcelain Bowls Set, perfect for indoor dining. Ideal for cereal, soup, salad, and more, these versatile bowls are microwave and dishwasher safe.
-  Updated: 2025-11-11T04:26:12Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Tableware
   Availability: Available
@@ -20126,7 +20140,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61QwMxrQJNL.jpg?v=1722403972
   Price: $49.99 USD
 - [GARVEE Weighted Heating Pad with Massagers - Ultimate Comfort and Relief](https://www.garvee.com/products/garvee-roygrow-almohadilla-termica-con-peso-pbe-0bhk32tw): Experience soothing relief with GARVEE's 5-pound weighted heating pad. Enjoy 3 massage settings, quick heating, and soft flannel for ultimate comfort.
-  Updated: 2025-11-11T00:10:31Z
+  Updated: 2025-11-11T08:11:47Z
   Vendor: Garvee
   Product Type: Home & Furniture > Health & Household > Infrared & Heating
   Availability: Available
@@ -20168,7 +20182,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71kVz5FWjML_80fabb36-3e99-4211-80f3-c71478674268.jpg?v=1737105712
   Price: $60.99 USD
 - [GARVEE Machine Washable Area Rug - Stylish and Durable 5x7 Boho Design](https://www.garvee.com/products/garvee-zacoo-machine-washable-area-rug-pho-0vejcynh): Discover the GARVEE 5x7 Machine Washable Area Rug, featuring a chic boho design, non-slip backing, and pet-friendly durability, perfect for any indoor space.
-  Updated: 2025-11-11T04:34:43Z
+  Updated: 2025-11-11T09:41:41Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -20210,21 +20224,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1631245953805.jpg?v=1762334690
   Price: $42.99 USD
 - [GARVEE 9x12 Area Rug - Modern Abstract Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-large-modern-abstract-machine-washable-area-rug-for-living-room-contemporary-non-slip-stain-resistant-accent-rug-carpet-for-dining-room-office-bedroom-decoration-grey-garvee-1): Elevate your space with the GARVEE 9x12 Area Rug. Its modern abstract design, stain resistance, and non-slip backing make it perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:43Z
+  Updated: 2025-11-11T09:41:42Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81NGd-X7tJL_51c96769-bfc3-4d65-bc53-bf88cd2ef7b2.jpg?v=1722404115
   Price: $71.99 USD
 - [GARVEE 8x10 Modern Abstract Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-modern-pho-0zgqvu6w-1): Discover the GARVEE 8x10 Area Rug, a modern, machine washable, stain-resistant accent rug. Ideal for living rooms and offices, it features a non-slip design and low pile for comfort.
-  Updated: 2025-11-11T04:34:44Z
+  Updated: 2025-11-11T09:41:43Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81NGd-X7tJL_cee30e60-7c93-43a5-8585-dfb6bf6c383f.jpg?v=1742347238
   Price: $79.99 USD
 - [GARVEE 9x12 Area Rug - Modern Abstract Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-large-modern-abstract-machine-washable-area-rug-for-living-room-contemporary-non-slip-stain-resistant-accent-rug-carpet-for-dining-room-office-bedroom-decoration-grey-brown-garvee-1): Elevate your space with the GARVEE 9x12 Area Rug. This durable, stain-resistant rug features a contemporary abstract design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:45Z
+  Updated: 2025-11-11T12:01:27Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -20329,7 +20343,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/715x4OaxUwL.jpg?v=1744792810
   Price: $110.99 USD
 - [GARVEE Bathroom Cabinet - Versatile Storage for Every Room](https://www.garvee.com/products/garvee-idealhouse-bathroom-cabinet-freestanding-floor-pho-0z555nfp-1): Discover the GARVEE Bathroom Cabinet, perfect for indoor use. This multifunctional storage solution is ideal for bathrooms, kitchens, and living rooms.
-  Updated: 2025-11-11T04:31:23Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Living Room > Cabinets & Chests
   Availability: Available
@@ -20532,7 +20546,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71cjQRz6j9L.jpg?v=1723036414
   Price: $469.99 USD
 - [GARVEE 88 Key Digital Piano - Exceptional Service & Shopping Experience](https://www.garvee.com/products/garvee-88-key-digital-piano-protable-pel-0qrlyjoz-1): Experience the GARVEE 88 Key Digital Piano with fast shipping, quality after-sales support, free shipping, and hassle-free returns for a delightful shopping experience!
-  Updated: 2025-11-11T04:31:12Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Toys & Games > Musical Instruments > Musical Instrument Keyboards
   Availability: Available
@@ -20749,14 +20763,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/White-08_4dbeede1-9a04-421d-894e-3c65570b5240.jpg?v=1752633712
   Price: $127.99 USD
 - [GARVEE Ultra-Thin Washable Rug 5x7 - Non-Slip Indoor Carpet](https://www.garvee.com/products/garvee-cozyloom-ultra-thin-washable-rug-pho-0ywvzwo5-1): Discover the GARVEE Ultra-Thin Washable Rug, crafted from premium polyester. This non-slip, low-pile rug is stain-resistant and easy to clean, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:34:46Z
+  Updated: 2025-11-11T09:41:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oage_Xm4L_30222b95-5851-4693-9570-88e4913f990c.jpg?v=1723036633
   Price: $32.99 USD
 - [GARVEE 4x6 Washable Tribal Medallion Area Rug - Non-Slip & Durable](https://www.garvee.com/products/garvee-iminrome-area-rug-4x6-washable-pho-0ywvmtzp-1): Discover the GARVEE 4x6 Washable Area Rug, crafted from premium polyester for durability. Non-slip, pet-friendly, and machine washable, it's perfect for any home.
-  Updated: 2025-11-11T04:34:49Z
+  Updated: 2025-11-11T09:41:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -20945,28 +20959,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61wE61jiBzL.jpg?v=1723036915
   Price: $362.99 USD
 - [GARVEE Washable Moroccan Rug - Stylish & Durable 5x7 Area Rug](https://www.garvee.com/products/garvee-zacoo-washable-rugs-5x7-rug-pho-11w60q7r-1): Discover the GARVEE 5x7 Washable Moroccan Rug, crafted from premium polyester for durability. Stain-resistant, non-slip, and machine washable, it's perfect for any room.
-  Updated: 2025-11-11T04:35:01Z
+  Updated: 2025-11-11T09:41:59Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81sYC5fiVlL_4a598efe-fd0d-410f-888a-6e13c150ca9b.jpg?v=1723036922
   Price: $58.99 USD
 - [Moroccan Geometric Large 8x10 Rug - Non-Slip, Washable & Durable | GARVEE](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-moroccan-pho-11w6y01l-1): Discover the GARVEE Large Rug, featuring a plush, durable design with non-slip backing, perfect for homes with kids and pets. Easy to clean and stylish!
-  Updated: 2025-11-11T04:35:01Z
+  Updated: 2025-11-11T09:42:00Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81YA96gkvmL.jpg?v=1745205654
   Price: $54.99 USD
 - [GARVEE Area Rug 9x12 - Stylish, Washable, Non-Slip Rug for Home](https://www.garvee.com/products/garvee-area-rug-9x12-machine-washable-rug-large-modern-rug-bohemian-carpet-non-slip-low-pile-stain-resistant-rug-accent-rug-for-entryway-office-beige-light-brwon-garvee-1): Discover the GARVEE 9x12 Area Rug: a durable, machine-washable, non-slip rug that combines modern design with child and pet-friendly features. Perfect for any room!
-  Updated: 2025-11-11T04:35:06Z
+  Updated: 2025-11-11T09:42:04Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81emRdkBEzL_147c9ccd-df4a-4e28-af7d-95caa4232217.jpg?v=1723036926
   Price: $67.99 USD
 - [GARVEE Modern Moroccan Area Rug - Stylish, Washable, Non-Slip, Stain-Resistant](https://www.garvee.com/products/garvee-area-rug-9x12-machine-washable-rug-large-modern-rug-bohemian-carpet-non-slip-low-pile-stain-resistant-rug-accent-rug-for-entryway-office-light-grey-garvee-1): Discover the GARVEE Modern Moroccan Area Rug, featuring durable polyester, a trendy low pile design, and easy machine washability—perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:35:08Z
+  Updated: 2025-11-11T09:42:05Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
@@ -21043,21 +21057,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41seg9B862L_622050d3-00b1-4dab-8b5a-d57203ff4758.jpg?v=1723037029
   Price: $93.99 USD
 - [GARVEE Large Area Rug 9x12 Boho Grey - Non-Slip, Washable, Soft and Durable](https://www.garvee.com/products/garvee-large-area-rug-9x12-boho-rug-non-slip-washable-low-pile-bedroom-mat-floor-accent-carpet-soft-foldable-distressed-rug-for-bedroom-living-room-9-x12-boho-grey-garvee-1): Transform your space with GARVEE's 9x12 Boho Grey rug. Non-slip, washable, and child-friendly, it combines vintage charm with durability for high-traffic areas.
-  Updated: 2025-11-11T04:35:20Z
+  Updated: 2025-11-11T09:42:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71wIHY7V9sL_40c57682-0fb5-4d84-938d-ea95a18e4e47.jpg?v=1723037072
   Price: $104.99 USD
 - [GARVEE 5x7 Washable Vintage Area Rug - Taupe Multi Floral Print](https://www.garvee.com/products/garvee-zacoo-area-rugs-5x7-washable-pho-10bjbwhc-1): Discover the GARVEE 5x7 Washable Rug, featuring a non-slip backing, stain resistance, and a stylish floral design. Perfect for high-traffic areas and easy to clean!
-  Updated: 2025-11-11T04:35:26Z
+  Updated: 2025-11-11T09:42:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91TBOnggi1L_2659fe92-b108-4d5c-a651-a2469aa6d1d1.jpg?v=1741747706
   Price: $58.99 USD
 - [GARVEE Boho Tribal Area Rug - Stylish & Functional 6x9 Washable Rug](https://www.garvee.com/products/garvee-zacoo-boho-tribal-area-rug-pho-10bjaev7-1): Discover the GARVEE Boho Tribal Area Rug, a stylish, machine-washable, non-slip rug perfect for high-traffic areas. Durable, stain-resistant, and kid-friendly.
-  Updated: 2025-11-11T04:35:27Z
+  Updated: 2025-11-11T09:42:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21155,7 +21169,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81cWdacwPDL_77a0fe7e-bc62-4ae3-971e-4dfd83cb9bff.jpg?v=1727661987
   Price: $224.99 USD
 - [GARVEE Bohemian Washable Area Rug 5x7 - Vintage Style and Practicality](https://www.garvee.com/products/garvee-gaomon-bohemian-washable-area-rug-pho-0z87jlv3-1): Discover the GARVEE Bohemian Washable Area Rug 5x7, featuring a soft, stain-resistant design, vibrant colors, and a non-slip backing for safety and style.
-  Updated: 2025-11-11T04:35:29Z
+  Updated: 2025-11-11T09:42:23Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21232,7 +21246,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1714443410107.jpg?v=1749464656
   Price: $71.99 USD
 - [GARVEE 24 Inch Grey Backless Saddle Barstools Set of 2 - Versatile & Stylish](https://www.garvee.com/products/garvee-idealhouse-24-inch-backless-saddle-pst-02uru5cz-1): Discover the GARVEE 24 inch backless barstools, perfect for indoor and outdoor settings. Their versatile design suits kitchens, bars, and cafes, adding modern elegance.
-  Updated: 2025-11-10T14:31:17Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -21267,21 +21281,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71_nDJaQLJL_b3f409b9-21cc-49ae-9a81-810673d52161.jpg?v=1723037460
   Price: $195.99 USD
 - [GARVEE Washable Rug 4x6 - Chic Non-Slip Floral Area Rug](https://www.garvee.com/products/garvee-gaomon-washable-rug-4x6-boho-pho-0ygdcfwa-1): Discover the GARVEE Washable Rug, a stylish 4x6 area rug with a non-slip backing, premium polyester material, and stain-resistant features, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:35:32Z
+  Updated: 2025-11-11T09:42:25Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rG5OpTHTL_74c57a8f-b2cc-4c72-b613-90bef9932d98.jpg?v=1723037457
   Price: $28.99 USD
 - [GARVEE Washable Rug 9x12 - Non-Slip, Vintage Floral Design](https://www.garvee.com/products/garvee-washable-rug-9x12-boho-floral-oriental-large-area-rugs-vintage-distressed-carpet-accent-rugs-non-slip-low-pile-indoor-rug-for-bedroom-dinning-room-office-red-beige-garvee-1): Enhance your space with the GARVEE Washable Rug. Featuring a non-slip, durable design, premium polyester, and easy care, it's perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:35:32Z
+  Updated: 2025-11-11T09:42:26Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rG5OpTHTL_4e026816-6a00-444c-8892-aae532124966.jpg?v=1723037458
   Price: $146.99 USD
 - [GARVEE Large Vintage Distressed Area Rug 8x10 - Non-Slip, Soft, Pet-Friendly](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-vintage-pho-0ygd7acu-1): Discover the GARVEE 8x10 Vintage Distressed Rug, featuring non-slip backing, premium polyester for softness, and stain resistance, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:35:33Z
+  Updated: 2025-11-11T09:42:27Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21337,14 +21351,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91GYk3sa2hL_dfb073e9-8139-4ec9-bea2-36faf3529a01.jpg?v=1723037465
   Price: $131.99 USD
 - [GARVEE Moroccan Trellis Area Rug - Washable Boho Non-Slip Carpet](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-4x6-pho-0zoorhuk-1): Elevate your space with the GARVEE Moroccan Trellis Area Rug. Its vintage floral print, non-slip design, and washable durability make it perfect for any indoor area.
-  Updated: 2025-11-11T04:35:36Z
+  Updated: 2025-11-11T09:42:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91GYk3sa2hL_8be96d79-5721-45b9-bfe0-4d3ce8f414b2.jpg?v=1723037466
   Price: $49.99 USD
 - [GARVEE Moroccan Trellis Area Rug - Stylish and Practical](https://www.garvee.com/products/garvee-moroccan-trellis-area-rug-9x12-washable-vintage-floral-print-rugs-boho-non-slip-indoor-carpet-for-entryway-living-room-kitchen-bedroom-laundry-room-grey-green-garvee-1): Discover the GARVEE Moroccan Trellis Area Rug, featuring a vintage floral design, non-slip backing, and washable durability, perfect for any indoor space.
-  Updated: 2025-11-11T04:35:37Z
+  Updated: 2025-11-11T09:42:31Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21512,7 +21526,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/711Ydt56B0L_54e5e3f7-66f3-4679-a9b4-6ae341f8de44.jpg?v=1723037700
   Price: $183.99 USD
 - [GARVEE Running Boards - Enhance Your Jeep with Quality and Convenience](https://www.garvee.com/products/garvee-running-boards-w-two-stairs-pau-0imr3hp2-1): Experience exceptional customer service with fast shipping and quality after-sales support. Enjoy free shipping and easy returns for a seamless shopping experience!
-  Updated: 2025-11-11T06:08:20Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Automotive > Exterior Accessories > Running Boards
   Availability: Available
@@ -21554,7 +21568,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61yhDRrU5zL.jpg?v=1723037732
   Price: $198.99 USD
 - [GARVEE Washable Runner Rug - Stylish & Durable](https://www.garvee.com/products/garvee-gaomon-washable-runner-rug-2x6-pho-0ygm35gc-1): Discover the GARVEE Washable Runner Rug, featuring a chic boho design, stain resistance, and non-slip backing. Perfect for high-traffic areas and easy to clean!
-  Updated: 2025-11-11T04:35:40Z
+  Updated: 2025-11-11T10:15:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21596,7 +21610,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61BoWx7ZzlL.jpg?v=1723037788
   Price: $349.99 USD
 - [Garvee Ice Maker Machine with 33LBS Storage Bin& Ice Scoops 100LBS/24H Ice Maker Stainless Steel Freestanding Ice Machine for Restaurant Home Bars Coffee Shop](https://www.garvee.com/products/garvee-eastvita-commercial-ice-maker-machine-pho-0x7cgwxi): Experience the GARVEE Ice Maker Machine, producing 100 lbs of chewable nugget ice daily. Ideal for bars and homes, featuring smart sensors and self-cleaning.
-  Updated: 2025-11-10T20:31:17Z
+  Updated: 2025-11-11T10:43:03Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Refrigeration & Ice Equipment > Ice Machines
   Availability: Available
@@ -21666,63 +21680,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/GUEST_d675039e-21d4-4ae7-8c4b-4bead5b5c093.png?v=1738826474
   Price: $129.99 USD
 - [GARVEE Shag Rug - Soft, Non-Slip, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-shag-rug-for-living-pho-10o3rcq9-1): Experience ultimate softness with GARVEE's 2x8 shag rug. Non-slip, easy to maintain, and featuring stylish geometric patterns, it's perfect for any space.
-  Updated: 2025-11-11T04:35:45Z
+  Updated: 2025-11-11T10:15:09Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81i_jyoG2EL_a733a41e-dcf8-4042-ae8a-9abb249eb393.jpg?v=1723037946
   Price: $28.99 USD
 - [GARVEE Runner Rug - Soft, Non-Slip Geometric Area Rug for Modern Homes](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x6-shag-pho-10o34cdm-1): Experience ultimate softness with GARVEE's 2x6 shag rug. Its non-slip design and stylish geometric patterns make it perfect for any room, ensuring comfort and safety.
-  Updated: 2025-11-11T04:35:46Z
+  Updated: 2025-11-11T10:15:10Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ODVl-ry6L_30e78bc2-c4fd-4afc-aa5f-91c1543eefd2.jpg?v=1723037946
   Price: $23.99 USD
 - [GARVEE Ultra Soft Plush Shag Area Rug - Perfect for Home Decor](https://www.garvee.com/products/garvee-cozyloom-area-rug-5x8-indoor-pho-10o3m2ko-1): Discover the GARVEE 5x8 Indoor Shag Area Rug, featuring ultra-soft plush fibers, anti-slip backing, and easy care. Ideal for cozy living spaces and nurseries.
-  Updated: 2025-11-11T04:35:47Z
+  Updated: 2025-11-11T09:42:40Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81D9S9BeUyL_a2901480-0fe1-4001-8e22-1d38b47536a7.jpg?v=1723037946
   Price: $57.99 USD
 - [GARVEE Runner Rug - Soft, Non-Slip, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x6-shag-pho-10o3i4dq-1): Experience ultimate softness with GARVEE's 2x6 shag rug. Its plush fibers, non-slip design, and geometric patterns make it perfect for any room in your home.
-  Updated: 2025-11-11T04:35:48Z
+  Updated: 2025-11-11T10:15:10Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81i_jyoG2EL_3d823dd5-4164-4b6d-b324-562004454d02.jpg?v=1723037946
   Price: $24.99 USD
 - [GARVEE Runner Rug - Luxurious Softness and Stylish Design](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x6-shag-pho-10o3hp72-1): Experience ultimate softness with the GARVEE Runner Rug. Its non-slip design, geometric patterns, and easy maintenance make it perfect for any room.
-  Updated: 2025-11-11T04:35:50Z
+  Updated: 2025-11-11T10:15:11Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RI_cMuPhL_f088e2c5-03ae-455d-b6e7-b8b47c1ed826.jpg?v=1723037946
   Price: $37.99 USD
 - [GARVEE 8x10 Area Rug - Soft, Non-Slip, Modern Design for Living Room & Bedroom](https://www.garvee.com/products/garvee-zacoo-8x10-area-rugs-for-pho-10o37tp8-1): Experience ultimate softness with GARVEE's 8x10 plush area rug featuring a non-slip design and modern geometric patterns, perfect for any room.
-  Updated: 2025-11-11T04:35:51Z
+  Updated: 2025-11-11T09:42:43Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81JcrR8SFRL_2eaa3293-32c8-4795-a585-da74121ce623.jpg?v=1723037946
   Price: $94.99 USD
 - [GARVEE Runner Rug 2x8 - Soft, Non-Slip, and Stylish](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x8-shag-pho-10o39ba4-1): Experience cloud-like softness with the GARVEE 2x8 Runner Rug. Its modern geometric design, non-slip backing, and easy maintenance make it perfect for any room.
-  Updated: 2025-11-11T04:35:52Z
+  Updated: 2025-11-11T10:15:12Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RI_cMuPhL_18a769c7-4577-405f-ba4f-3b7df76ded3b.jpg?v=1723037946
   Price: $24.99 USD
 - [GARVEE Shag Area Rug - Soft Plush, Non-Slip, Perfect for Kids' Rooms](https://www.garvee.com/products/garvee-cozyloom-shag-rug-8x10-modern-pho-10o3hk8s-1): Discover the GARVEE Shag Rug: a luxurious, super soft area rug with high pile, non-slip backing, perfect for cozy living spaces. Easy to clean and stylish!
-  Updated: 2025-11-11T04:35:53Z
+  Updated: 2025-11-11T09:42:46Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81OXUejh4PL_b3fb76c2-1934-4d9f-b4fa-159f38dc2463.jpg?v=1723037950
   Price: $87.99 USD
 - [GARVEE Runner Rug - Soft, Non-Slip, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x8-shag-pho-10o3daai-1): Experience ultimate softness with the GARVEE Runner Rug. Its non-slip design and geometric patterns make it perfect for living rooms, bedrooms, and nurseries.
-  Updated: 2025-11-11T04:35:54Z
+  Updated: 2025-11-11T10:15:13Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -21735,22 +21749,15 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LFAZtGxNL_710173eb-6a35-4eac-98ef-67e9a1b25920.jpg?v=1723037964
   Price: $124.99 USD
-- [GARVEE Washable Rugs for Living Room - Stylish & Durable Area Rug](https://www.garvee.com/products/garvee-zacoo-washable-rugs-for-living-pho-0ztbacib-1): Discover the GARVEE 3x5 Washable Rug with non-slip backing. Perfect for high-traffic areas, it's soft, stain-resistant, and machine washable for easy care.
-  Updated: 2025-11-10T04:31:24Z
-  Vendor: Garvee
-  Product Type: Rugs > Persian Rugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xOsfHqz6L_840c8fb9-874d-4205-baaa-c410558eb51a.jpg?v=1723037979
-  Price: $41.99 USD
 - [Stylish GARVEE 4x6 Floral Rug for Living Room - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-zacoo-4x6-rug-for-living-pho-0ztbszjf-1): Elevate your space with the GARVEE 4x6 rug. Soft, washable, and non-slip, this vintage floral rug is perfect for high-traffic areas, pet-friendly, and easy to maintain.
-  Updated: 2025-11-11T04:35:59Z
+  Updated: 2025-11-11T09:42:52Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xOsfHqz6L_1fa32887-3883-4e7f-8dbb-1fb7a722824f.jpg?v=1723037979
   Price: $59.99 USD
 - [GARVEE 6x9 Washable Boho Rug - Soft, Non-Slip, Stain-Resistant](https://www.garvee.com/products/garvee-zacoo-6x9-rug-for-living-pho-0ztb4iof-1): Elevate your space with GARVEE's 6x9 washable rug. Soft, stylish, and non-slip, this vintage boho rug is perfect for high-traffic areas and easy to clean.
-  Updated: 2025-11-11T04:36:00Z
+  Updated: 2025-11-11T09:42:53Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -21792,28 +21799,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61NWe3SQstL._SX522.jpg?v=1723427452
   Price: $116.99 USD
 - [GARVEE Vintage Area Rug 5x7 - Non-Slip, Washable, Soft & Stylish](https://www.garvee.com/products/garvee-elitez-area-rug-5x7-rugs-pho-1181plp9): Discover the GARVEE 5x7 Area Rug with a vintage tribal design. Non-slip, low-pile, and washable, it’s perfect for any room, ensuring comfort and style.
-  Updated: 2025-11-11T04:36:01Z
+  Updated: 2025-11-11T09:42:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716344114639.jpg?v=1756707516
   Price: $62.99 USD
 - [GARVEE Vintage Area Rug - Soft, Non-Slip & Washable](https://www.garvee.com/products/garvee-elitez-area-rug-6x9-rugs-pho-1181z4u0): Discover GARVEE's 6x9 vintage area rug, featuring a non-slip backing, soft low-pile design, and easy machine wash care. Perfect for any room!
-  Updated: 2025-11-11T04:36:02Z
+  Updated: 2025-11-11T09:42:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716344164165_a86887d8-11dc-40fa-8d27-bffbfbd91faf.jpg?v=1756707975
   Price: $85.99 USD
 - [GARVEE Vintage Area Rug - Non-Slip, Washable, Soft & Stylish](https://www.garvee.com/products/garvee-area-rug-9x12-rugs-for-living-room-vintage-rug-for-living-room-bedroom-dinning-room-boho-distressed-tribal-area-rug-low-pile-non-slip-washable-indoor-door-mat-for-kitchen-entryway-bathroom-red-garvee): Discover the GARVEE 9x12 area rug featuring a soft low-pile, non-slip backing, and a vintage tribal design. Perfect for living rooms, bedrooms, and more!
-  Updated: 2025-11-11T04:36:03Z
+  Updated: 2025-11-11T09:42:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716344114639_f2f8f05e-33cc-4d36-99e6-dc2b21d278a6.jpg?v=1756707622
   Price: $145.99 USD
 - [GARVEE Vintage Area Rug 4x6 - Non-Slip, Washable, Soft Design](https://www.garvee.com/products/garvee-elitez-area-rug-4x6-rugs-pho-11812svy): Discover the GARVEE 4x6 Area Rug, featuring a non-slip backing and ultra-soft fibers. Its vintage tribal design enhances any room while being washable and easy to maintain.
-  Updated: 2025-11-11T04:36:04Z
+  Updated: 2025-11-11T09:42:56Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21855,28 +21862,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71IaeAXr7qL_d395be04-ef78-467a-90a0-ae55611b129e.jpg?v=1723038071
   Price: $140.99 USD
 - [GARVEE 9x12 Area Rug - Modern Geometric Non-Slip Design](https://www.garvee.com/products/garvee-9x12-area-rug-modern-geometric-throw-rugs-washable-extra-large-area-rug-for-bedroom-living-room-non-slip-non-shedding-home-decor-mat-contemporary-floor-cover-for-dining-room-office-dorm-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a non-slip backing, soft microfiber material, and easy machine wash care. Perfect for any room decor!
-  Updated: 2025-11-11T04:36:06Z
+  Updated: 2025-11-11T09:42:58Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1677218537405.jpg?v=1761554465
   Price: $140.99 USD
 - [GARVEE Machine Washable Area Rug 4x6 - Soft, Non-Slip, and Stylish](https://www.garvee.com/products/garvee-zacoo-machine-washable-area-rug-pho-0vufxx89-1): Discover the GARVEE 4x6 Area Rug featuring a soft microfiber surface and non-slip backing. Machine washable and stylish, perfect for any indoor space.
-  Updated: 2025-11-11T04:36:07Z
+  Updated: 2025-11-11T09:42:59Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/817CebSXfoL_d56bfb0e-e71f-4dd0-bdf8-088b9276b115.jpg?v=1723038080
   Price: $41.99 USD
 - [GARVEE Washable Rug Runners for Hallways - Stylish & Functional](https://www.garvee.com/products/garvee-zacoo-washable-rug-runners-for-pho-10vwmevs-1): Elevate your space with GARVEE's 2x6 washable rug runners. Stain-resistant, non-slip, and easy to maintain, these vintage medallion rugs blend style and practicality.
-  Updated: 2025-11-11T04:36:09Z
+  Updated: 2025-11-11T10:15:14Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/A1eoDQgx03L_94cf894b-2b9a-4034-abcb-96231f980f0b.jpg?v=1723038083
   Price: $40.99 USD
 - [GARVEE Boho Rugs - Soft, Stain Resistant, and Washable Area Rug](https://www.garvee.com/products/garvee-zacoo-boho-rugs-for-living-pho-10vwv853-1): Elevate your space with GARVEE's 5x7 Boho rug. Soft, stain-resistant, and machine washable, it combines vintage charm with non-slip safety for any room.
-  Updated: 2025-11-11T04:36:10Z
+  Updated: 2025-11-11T09:43:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21897,7 +21904,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51MAKRBRqYL_8a9787aa-38bf-467b-bbda-d9d556ef680c.jpg?v=1736233214
   Price: $126.99 USD
 - [GARVEE Kids Wooden Toy Box - Safe, Stylish Storage Solution](https://www.garvee.com/products/garvee-takywep-kids-wooden-toy-box-pto-0yy678ko): Experience quick shipping and excellent customer service with our GARVEE Kids Wooden Toy Box. Enjoy free shipping and easy returns for a seamless shopping experience!
-  Updated: 2025-11-10T06:29:05Z
+  Updated: 2025-11-11T08:16:27Z
   Vendor: Garvee
   Product Type: Toys & Games > Kids' Dress Up & Pretend Play > Toy Kitchen Products
   Availability: Available
@@ -21925,14 +21932,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ltF8AbI3L_2bf177aa-68da-421d-99f4-0f0e04ddac83.jpg?v=1753615939
   Price: $42.99 USD
 - [GARVEE Classic Washable Rug - Elegant Abstract Design for Any Room](https://www.garvee.com/products/garvee-cremore-alfombra-clasico-lavable-con-pho-0z3rrojw-1): Discover the GARVEE Classic Washable Rug with a low-pile, stain-resistant design and non-slip backing. Perfect for living rooms, dining areas, and offices.
-  Updated: 2025-11-11T04:36:11Z
+  Updated: 2025-11-11T09:43:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_Z6JHL8sL_60967b18-5e91-4066-8c3a-4357077f8a17.jpg?v=1753679516
   Price: $70.99 USD
 - [GARVEE Classic Washable Area Rug - Elegant Beige with Low Pile Design](https://www.garvee.com/products/garvee-alfombra-clasico-lavable-con-estampado-de-medallon-oriental-con-respaldo-de-goma-de-perfil-bajo-ideal-para-sala-de-estar-comedor-recamara-oficina-color-beige-9-x-12-pulgadas-garvee-1): Discover the GARVEE Classic Washable Area Rug, featuring a stunning abstract pattern, soft texture, stain resistance, and a non-slip backing for safety.
-  Updated: 2025-11-11T04:36:13Z
+  Updated: 2025-11-11T09:43:05Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -21967,14 +21974,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91UQyBWwIhL_ad98d7de-f5e2-4908-8b67-89750629473e.jpg?v=1723038184
   Price: $65.99 USD
 - [GARVEE Machine Washable Area Rug 5x7 - Vintage Distressed Design](https://www.garvee.com/products/garvee-gaomon-machine-washable-area-rug-pho-0zh2bnpl-1): Elevate your home decor with the GARVEE 5x7 area rug. This machine washable, stain-resistant rug features a vintage medallion design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:36:20Z
+  Updated: 2025-11-11T09:43:11Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91j3kAd8UHL_4ec19d0b-3e03-4444-826c-76e718bbc141.jpg?v=1723038185
   Price: $45.99 USD
 - [GARVEE Vintage Distressed Area Rug - 8x10 Machine Washable, Non-Slip, Stain Resistant for Living Room](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-vintage-pho-0zh2vose-1): Discover the GARVEE 8x10 Area Rug, featuring vintage medallion patterns, durable polyester, and non-slip backing. Perfect for high-traffic areas and easy to clean!
-  Updated: 2025-11-11T04:36:26Z
+  Updated: 2025-11-11T09:43:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -22016,14 +22023,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51S9Rs4y6jL.jpg?v=1723038226
   Price: $175.99 USD
 - [GARVEE Modern Bordered Area Rug - Stylish & Durable 8x10 Indoor Rug](https://www.garvee.com/products/garvee-modern-bordered-area-rug-8x10-pho-11iokup8): Discover the GARVEE Modern Bordered Area Rug, featuring a non-slip, stain-resistant design. Soft, machine washable, and perfect for any room. Enjoy free shipping!
-  Updated: 2025-11-11T04:36:34Z
+  Updated: 2025-11-11T09:43:25Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91QKgCsgD5L_9df7fd81-5d3b-4b26-9f73-9b8d894ebd00.jpg?v=1723038243
   Price: $84.99 USD
 - [GARVEE Modern Bordered Area Rug - Soft, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-modern-bordered-area-rug-9x12-large-soft-indoor-machine-washable-rugs-for-living-room-bedroom-kitchen-non-slip-stain-resistant-easy-cleaning-non-shedding-grey-garvee): Discover the GARVEE Modern Bordered Area Rug, a stylish, soft, and stain-resistant addition to any room. Non-slip and easy to clean, perfect for families.
-  Updated: 2025-11-11T04:36:35Z
+  Updated: 2025-11-11T09:43:25Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -22051,7 +22058,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81FFw6cVOkL.jpg?v=1723038260
   Price: $140.99 USD
 - [GARVEE Washable Runner Rug - Stylish and Functional Home Decor](https://www.garvee.com/products/garvee-gaomon-washable-runner-rug-2x6-pho-0z9u3y5r-1): Discover the GARVEE Washable Runner Rug, featuring a non-slip design, premium polyester material, and a charming Moroccan pattern. Perfect for high traffic areas!
-  Updated: 2025-11-11T04:36:36Z
+  Updated: 2025-11-11T10:15:17Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -22107,98 +22114,98 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716444132415.jpg?v=1725005747
   Price: $359.99 USD
 - [GARVEE 5x7 Washable Vintage Area Rug - Boho Floral Design](https://www.garvee.com/products/garvee-gaomon-bedroom-area-rug-5x7-pho-0zp11zh3-1): Discover the GARVEE 5x7 washable area rug, featuring a stylish vintage floral design, durable low-pile fibers, and non-slip backing, perfect for any room.
-  Updated: 2025-11-11T04:36:44Z
+  Updated: 2025-11-11T09:43:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91r2L4mDbbL_46247469-a8e7-4b96-b9d6-81ba8086b23e.jpg?v=1723038302
   Price: $44.99 USD
 - [GARVEE Hallway Runner Rug - Vintage Floral Print, Non-Slip & Washable](https://www.garvee.com/products/garvee-gaomon-hallway-runner-rug-2x6-pho-0yfzwrc8-1): Discover the GARVEE Hallway Runner Rug, featuring a vibrant floral design, non-slip backing, and machine washable convenience. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:36:48Z
+  Updated: 2025-11-11T10:15:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81b2DfXMzVL_03b120c4-8781-4589-b032-7ad4150cbc37.jpg?v=1723038307
   Price: $28.99 USD
 - [GARVEE Vintage Distressed Area Rug - Machine Washable, Non-Slip, Durable](https://www.garvee.com/products/garvee-gaomon-area-rug-8x10-living-pho-0zp19uto-1): Discover the GARVEE 8x10 Area Rug, featuring a vintage design, machine washable fabric, and durable, pet-friendly low pile for high-traffic areas.
-  Updated: 2025-11-11T04:36:54Z
+  Updated: 2025-11-11T09:43:44Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91r2L4mDbbL_f0678592-631e-4dac-97a7-1b8bf60db9d2.jpg?v=1723038311
   Price: $83.99 USD
 - [GARVEE Vintage Distressed Area Rug - 8x10 Washable Non-Slip Rug for Living Room & Bedroom](https://www.garvee.com/products/garvee-gaomon-area-rug-8x10-living-pho-0zp15zlp-1): Discover the GARVEE 8x10 Area Rug, featuring a vintage design, machine washable for easy care, pet-friendly, and non-slip for safety in high traffic areas.
-  Updated: 2025-11-11T04:36:55Z
+  Updated: 2025-11-11T09:43:45Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91lQT8EKv-L_4fb7756f-0ce5-4e67-aed0-491764df93a1.jpg?v=1723038311
   Price: $77.99 USD
 - [GARVEE 5x7 Area Rug - Soft, Non-Slip, Machine Washable Floral Design](https://www.garvee.com/products/garvee-gaomon-5x7-area-rugs-living-pho-1165gr1q-1): Discover the GARVEE 5x7 Area Rug, crafted from premium faux wool with a chic floral pattern. Non-slip, machine washable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:36:57Z
+  Updated: 2025-11-11T09:43:47Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81g520eUtoL_793940cf-afd9-4cc3-b65b-4f4d3b740fbf.jpg?v=1723038315
   Price: $58.99 USD
 - [GARVEE Vintage Floral Area Rug - Soft, Non-Slip & Washable Runner](https://www.garvee.com/products/garvee-gaomon-vintage-floral-area-rug-pho-11658ev8-1): Discover the GARVEE Vintage Floral Area Rug, featuring premium faux wool, non-slip backing, and easy maintenance. Perfect for high-traffic areas and stylish decor.
-  Updated: 2025-11-11T04:36:58Z
+  Updated: 2025-11-11T10:15:21Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8133Uy9JCFL.jpg?v=1727691573
   Price: $41.99 USD
 - [GARVEE Vintage Floral Area Rug - Soft, Non-Slip, and Washable Runner for Your Home](https://www.garvee.com/products/garvee-gaomon-vintage-floral-area-rug-pho-1165hoy2-1): Elevate your space with the GARVEE Vintage Floral Area Rug. Soft faux wool, non-slip design, and machine washable for easy maintenance. Perfect for high traffic areas!
-  Updated: 2025-11-11T04:36:59Z
+  Updated: 2025-11-11T10:15:23Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51k03Jaj-RL_f18d7399-7037-4398-bbe7-c8ff4cd02a55.jpg?v=1723038314
   Price: $41.99 USD
 - [GARVEE Modern Floral Area Rugs - Soft, Non-Slip & Washable](https://www.garvee.com/products/garvee-gaomon-modern-floral-area-rugs-pho-1165nnos-1): Elevate your space with GARVEE's 6x9 floral area rug. Made from premium faux wool, it's soft, non-slip, and machine washable, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:37:01Z
+  Updated: 2025-11-11T09:43:50Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81YY70ApWuL.jpg?v=1727691619
   Price: $93.99 USD
 - [GARVEE 5x7 Area Rugs - Soft Faux Wool Floral Design](https://www.garvee.com/products/garvee-gaomon-5x7-area-rugs-living-pho-1165ffsy-1): Transform your space with GARVEE's 5x7 area rug. Crafted from premium faux wool, it's non-slip, machine washable, and perfect for high traffic areas.
-  Updated: 2025-11-11T04:37:02Z
+  Updated: 2025-11-11T09:43:51Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81B_5ohWRwL.jpg?v=1727691535
   Price: $69.99 USD
 - [GARVEE 9x12 Area Rugs - Modern Floral Design, Non-Slip & Washable](https://www.garvee.com/products/garvee-9x12-area-rugs-large-machine-washable-rug-living-room-rugs-modern-floral-rugs-for-bedroom-non-slip-soft-indoor-carpet-vintage-print-accent-rug-non-shedding-dining-room-office-throw-carpet-blue-garvee-1): Discover GARVEE's 9x12 area rug, crafted from high-density polyester for a soft, luxurious feel. Non-slip and machine washable, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:37:03Z
+  Updated: 2025-11-11T09:43:52Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81g520eUtoL_2f21acce-2df9-4683-a834-2b993ba787d0.jpg?v=1723038318
   Price: $130.99 USD
 - [GARVEE 9x12 Area Rugs - Modern Floral Design for Every Room](https://www.garvee.com/products/garvee-9x12-area-rugs-large-machine-washable-rug-living-room-rugs-modern-floral-rugs-for-bedroom-non-slip-soft-indoor-carpet-vintage-print-accent-rug-non-shedding-dining-room-office-throw-carpet-pink-garvee-1): Discover GARVEE's 9x12 area rug, featuring premium soft fibers, non-slip safety, and easy machine wash care. Perfect for high-traffic areas and stylish decor.
-  Updated: 2025-11-11T04:37:04Z
+  Updated: 2025-11-11T09:43:53Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/816uWoYDMjL_362d658f-08e5-44a1-a292-399496c3afbf.jpg?v=1723038318
   Price: $170.99 USD
 - [GARVEE Washable Rugs - Non-Slip Floral Print Area Rug for Home](https://www.garvee.com/products/garvee-gaomon-washable-rugs-8x10-large-pho-1165ux8q-1): Experience luxury with GARVEE's 8x10 washable rug, featuring a soft faux wool design, non-slip backing, and easy maintenance for high-traffic areas.
-  Updated: 2025-11-11T04:37:05Z
+  Updated: 2025-11-11T09:43:54Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/816uWoYDMjL_21e321b7-4343-4427-98ae-96af8cfec63a.jpg?v=1723038318
   Price: $125.99 USD
 - [GARVEE Washable Rugs - Premium Quality & Non-Slip Design](https://www.garvee.com/products/garvee-gaomon-washable-rugs-8x10-large-pho-1165rcix-1): Discover GARVEE's 8x10 washable rugs, featuring soft faux wool, a non-slip backing for safety, and easy maintenance. Perfect for any room in your home!
-  Updated: 2025-11-11T04:37:05Z
+  Updated: 2025-11-11T09:43:54Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RHMeK310L_30a4e085-4f5b-457a-bb14-cff37e9f071e.jpg?v=1723038318
   Price: $101.99 USD
 - [GARVEE 9x12 Area Rugs - Modern Floral Design for Living Room](https://www.garvee.com/products/garvee-9x12-area-rugs-large-machine-washable-rug-living-room-rugs-modern-floral-rugs-for-bedroom-non-slip-soft-indoor-carpet-vintage-print-accent-rug-non-shedding-dining-room-office-throw-carpet-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a non-slip, machine washable design. Made from premium polyester, it offers a soft, low-pile surface perfect for high traffic areas.
-  Updated: 2025-11-11T04:37:06Z
+  Updated: 2025-11-11T09:43:55Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
@@ -22359,7 +22366,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61KAlAJhPkL_5105ab50-f7e9-4a54-b506-c7208f213799.jpg?v=1723038475
   Price: $82.99 USD
 - [GARVEE 2024 New Queen Bed Frame - Multi-functional Metal Platform with Rustic Wood Headboard](https://www.garvee.com/products/garvee-idealhouse-2024-new-bed-frame-pho-0xeaavw9-1): Elevate your bedroom with the GARVEE queen bed frame, perfect for indoor use. Its multifunctional design includes storage and a rustic wood headboard.
-  Updated: 2025-11-05T03:06:47Z
+  Updated: 2025-11-11T09:54:14Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -22387,14 +22394,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91E4YoF2mqL_e458dd63-6b8a-4919-8e25-df6d9ba46f4d.jpg?v=1723038622
   Price: $43.99 USD
 - [GARVEE Machine Wash Rug - Bohemian Accent Rug for Living Room & Bedroom](https://www.garvee.com/products/garvee-fashionwu-machine-wash-rug-area-pho-0zxqqdwu-1): Discover the GARVEE Machine Wash Rug, a durable, non-slip, and easy-to-clean 4x6 bohemian accent rug perfect for homes with kids and pets. Stylish and functional!
-  Updated: 2025-11-11T04:37:09Z
+  Updated: 2025-11-11T09:43:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91E4YoF2mqL_abd11b44-6cb4-4e7f-aa4f-3c9b74097a4a.jpg?v=1723038622
   Price: $56.99 USD
 - [GARVEE Non-Slip Boho Area Rug - 8x10, Washable, Durable, Kid & Pet-Friendly](https://www.garvee.com/products/garvee-fashionwu-area-rug-for-bedroom-pho-0zxqqchm-1): Discover the GARVEE 8x10 Area Rug, featuring a durable, non-slip design that's easy to clean. Perfect for homes with kids and pets, it combines style and functionality.
-  Updated: 2025-11-11T04:37:10Z
+  Updated: 2025-11-11T09:43:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -22408,7 +22415,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81yw5yVSpZL_eb0b01f8-17a1-4a05-894d-d34d7a9a6cab.jpg?v=1723038622
   Price: $47.99 USD
 - [GARVEE Large Area Rug - Vintage Boho Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-large-area-rug-9x12-washable-rug-vintage-carpet-for-living-room-bedroom-dining-room-and-kitchen-office-nursery-boho-rug-non-slip-rug-indoor-floor-room-decor-garvee-1): Discover the GARVEE 9x12 Large Area Rug, featuring a durable, machine washable design that's kid and pet-friendly. Perfect for any room, it combines style and safety.
-  Updated: 2025-11-11T04:37:10Z
+  Updated: 2025-11-11T09:44:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -22429,7 +22436,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91E4YoF2mqL_ec6c8af1-1fdb-4f51-bb36-3629b41ada59.jpg?v=1723038623
   Price: $95.99 USD
 - [GARVEE 6x9 Washable Area Rug - Modern Geometric Design](https://www.garvee.com/products/garvee-nanan-area-rugs-6x9-washable-pho-0zuf11hx-1): Elevate your space with GARVEE's 6x9 washable area rug. Soft, durable, and non-slip, it's perfect for high-traffic areas and easy to clean. Ideal for any room!
-  Updated: 2025-11-11T04:37:12Z
+  Updated: 2025-11-11T09:44:02Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -22443,14 +22450,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1701747857678.jpg?v=1750657294
   Price: $65.99 USD
 - [GARVEE Heavy Duty Metal Platform Bed Frame - Versatile Indoor Solution](https://www.garvee.com/products/garvee-idealhouse-6-inch-queen-size-pho-11ak1ugc-1): Discover the GARVEE 6 Inch Queen Size Bed Frame, perfect for indoor use. Its sturdy design offers multi-functional support without a box spring, ensuring a noise-free sleep.
-  Updated: 2025-11-11T04:31:22Z
+  Updated: 2025-11-11T09:21:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81WkvcY_mqL_805fecd4-fa99-44be-81f8-1aed83101127.jpg?v=1723038672
   Price: $97.99 USD
 - [GARVEE 6 Inch Full Size Metal Platform Bed Frame](https://www.garvee.com/products/garvee-idealhouse-6-inch-full-size-pho-11akq52f-1): Discover the GARVEE 6 Inch Metal Platform Bed Frame, perfect for indoor use. Its versatile design suits various mattress types, providing robust support and easy assembly.
-  Updated: 2025-11-11T04:31:27Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -22513,21 +22520,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51T62mhVcVL_b511029e-0eae-4485-adfc-ee947cad2d09.jpg?v=1752666182
   Price: $247.99 USD
 - [GARVEE Washable Area Rug - Soft, Non-Slip, and Stain-Resistant for Any Room](https://www.garvee.com/products/garvee-cozyloom-washable-area-rug-10x13-pho-10ojkf0w): Discover the GARVEE Washable Area Rug, featuring soft faux wool, non-slip backing, and easy maintenance. Perfect for kids and pets, this stylish rug enhances any space.
-  Updated: 2025-11-11T04:37:15Z
+  Updated: 2025-11-11T09:44:05Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704771470338.jpg?v=1750920549
   Price: $159.99 USD
 - [GARVEE 10x13 Area Rug - Stylish, Durable, and Washable](https://www.garvee.com/products/garvee-royhome-10x13-area-rug-extra-pho-10ojnc36-1): Discover the GARVEE 10x13 Area Rug, featuring a vintage Moroccan design, stain resistance, and non-slip backing. Perfect for families with kids and pets!
-  Updated: 2025-11-11T04:37:16Z
+  Updated: 2025-11-11T09:44:05Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91WtrLanpIL.jpg?v=1727691623
   Price: $159.99 USD
 - [GARVEE 10x13 Area Rug - Vintage Moroccan Trellis Design](https://www.garvee.com/products/garvee-royhome-10x13-area-rug-extra-pho-10ojdyt4-1): Discover the GARVEE 10x13 Area Rug, featuring a vintage Moroccan design, stain resistance, and machine washability. Perfect for kids and pets!
-  Updated: 2025-11-11T04:37:17Z
+  Updated: 2025-11-11T09:44:07Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -22611,14 +22618,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81J_4EyMLcL_d8fc0d4a-586a-4958-983f-a44b533b9d0a.jpg?v=1723038872
   Price: $34.99 USD
 - [GARVEE Vintage Boho Floral Area Rug - Stylish, Washable & Non-Slip](https://www.garvee.com/products/garvee-vintage-boho-floral-area-rug-pho-0zxss865-1): Enhance your space with the GARVEE Vintage Boho Floral Area Rug. This washable, non-shedding rug features a non-slip backing, perfect for any room.
-  Updated: 2025-11-11T04:37:19Z
+  Updated: 2025-11-11T09:44:08Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81OtHidDD1L_f8640aa2-069a-41f9-87f1-bdff2843f339.jpg?v=1723038871
   Price: $46.99 USD
 - [GARVEE Vintage Boho Floral Area Rug - Stylish & Practical](https://www.garvee.com/products/garvee-vintage-boho-floral-area-rug-pho-0zxsn89o-1): Elevate your space with the GARVEE Vintage Boho Floral Area Rug. Washable, non-shedding, and featuring a non-slip backing, it's perfect for any room.
-  Updated: 2025-11-11T04:37:22Z
+  Updated: 2025-11-11T09:44:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -22653,14 +22660,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rTPp0yX1L_4790e901-17a8-4866-a219-169b67ff0414.jpg?v=1737101133
   Price: $113.99 USD
 - [Discover the GARVEE Tribal Rug - Vintage Floral Design](https://www.garvee.com/products/garvee-tribal-rug-9x12-large-vintage-rug-washable-rug-oriental-floral-print-farmhouse-thin-rug-non-slip-backing-foldable-rug-indoor-bedroom-rug-carpet-low-pile-non-shedding-throw-carpet-antique-green-garvee-1): Elevate your space with the GARVEE Tribal Rug. This washable, non-slip rug features a low pile for easy maintenance, perfect for high traffic areas. Stylish and safe!
-  Updated: 2025-11-11T04:37:23Z
+  Updated: 2025-11-11T09:44:13Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Yz7O61TmL.jpg?v=1727691630
   Price: $122.99 USD
 - [GARVEE Vintage Oriental Runner Rug - Premium Quality & Non-Slip](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-vintage-pho-0zta3qca-1): Discover the GARVEE 2x6 Vintage Oriental Runner Rug. Made of high-density polyester, it's non-slip, washable, and perfect for high traffic areas. Ideal for any room.
-  Updated: 2025-11-11T06:06:32Z
+  Updated: 2025-11-11T10:15:26Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -22674,21 +22681,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51nzC0FFinL_1b309a58-594d-4886-9708-60cabb2bf5e3.jpg?v=1723038917
   Price: $207.99 USD
 - [GARVEE Tribal Area Rug - Vintage Floral Design, Non-Slip & Washable](https://www.garvee.com/products/garvee-gaomon-tribal-area-rug-5x7-pho-0ztadszm-1): Enhance your space with the GARVEE Tribal Area Rug. Made from premium polyester, it's non-slip, low pile, and machine washable, perfect for high traffic areas.
-  Updated: 2025-11-11T04:37:30Z
+  Updated: 2025-11-11T09:44:20Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717637185800.jpg?v=1728631045
   Price: $56.99 USD
 - [GARVEE Vintage Rug - Stylish & Washable 8x10 Area Rug](https://www.garvee.com/products/garvee-gaomon-vintage-rug-8x10-washable-pho-0ztahd15-1): Discover the GARVEE Vintage Rug: a non-slip, low-pile, and machine-washable accent rug. Perfect for high-traffic areas, it combines style and safety effortlessly.
-  Updated: 2025-11-11T04:37:31Z
+  Updated: 2025-11-11T09:44:21Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91K-GCt8q4L_ba016fdf-54b7-4d22-a920-f32a12661f4e.jpg?v=1750390295
   Price: $122.99 USD
 - [GARVEE Vintage Rug 8x10 - Stylish and Functional Indoor Accent Rug](https://www.garvee.com/products/garvee-gaomon-vintage-rug-8x10-washable-pho-0ztaqmfo-1): Discover the GARVEE Vintage Rug: a low-pile, non-slip rug made from premium polyester. Easy to maintain, it's perfect for high-traffic areas in any room.
-  Updated: 2025-11-11T04:37:32Z
+  Updated: 2025-11-11T09:44:22Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -22751,7 +22758,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71SfkyxBOiL_d651c4eb-1f7e-47db-ab60-f6d1608e2e16.jpg?v=1736317012
   Price: $629.99 USD
 - [Professional Dog Grooming Bathtub for Small & Medium Pets](https://www.garvee.com/products/garvee-gaomon-38-dog-grooming-bathtub-pho-143mnn7z): Transform pet grooming with the GARVEE 38" stainless steel bathtub. Ideal for pet owners seeking professional quality at home, featuring easy access and complete accessories.
-  Updated: 2025-11-05T03:09:30Z
+  Updated: 2025-11-11T11:36:22Z
   Vendor: Garvee
   Product Type: Home & Furniture > Pets' Supplies > Pet Grooming Products
   Availability: Available
@@ -22772,21 +22779,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2-1.jpg?v=1750831454
   Price: $148.99 USD
 - [GARVEE Large Throw Rugs - Vintage Washable Non-Slip Carpet for Living Room](https://www.garvee.com/products/garvee-haperlare-large-throw-rugs-for-pho-10vo59xq): Discover the GARVEE Large Throw Rug, a stylish and practical addition to your home. Machine washable, non-slip, and kid & pet-friendly, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:37:39Z
+  Updated: 2025-11-11T09:44:28Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1724231581023.jpg?v=1753516146
   Price: $139.99 USD
 - [GARVEE Large Throw Rugs - Vintage Washable, Non-Slip, Soft & Durable](https://www.garvee.com/products/garvee-haperlare-large-throw-rugs-for-pho-10vokwam): Discover the GARVEE Large Throw Rug, featuring a soft chenille surface, non-slip rubber backing, and machine washable design. Ideal for high-traffic areas!
-  Updated: 2025-11-11T04:37:39Z
+  Updated: 2025-11-11T09:44:29Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1724231448870.jpg?v=1753518851
   Price: $121.99 USD
 - [GARVEE Large Throw Rugs - Vintage, Washable, Non-Slip](https://www.garvee.com/products/garvee-haperlare-large-throw-rugs-for-pho-10voynm6): Discover GARVEE's large 10x13 vintage throw rug, featuring a soft rubber backing, machine washable convenience, and kid & pet-friendly design for ultimate comfort.
-  Updated: 2025-11-11T04:37:40Z
+  Updated: 2025-11-11T09:44:30Z
   Vendor: Garvee
   Product Type: Rugs > Medallion & Damask Rugs
   Availability: Available
@@ -22856,14 +22863,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81GwueznepL.jpg?v=1727691594
   Price: $34.99 USD
 - [GARVEE Runner Rug - Traditional Medallion Area Rug 2' x 8'](https://www.garvee.com/products/garvee-caromio-runner-rug-traditional-medallion-pho-0u94ns0x-1): Enhance your space with the GARVEE Runner Rug, featuring a soft polyester surface, non-slip backing, and elegant geometric patterns. Perfect for any indoor area!
-  Updated: 2025-11-11T04:37:46Z
+  Updated: 2025-11-11T10:15:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51A8glut_eL_a5ff7e0a-e1a8-4820-8b73-b39b57da09e3.jpg?v=1727691614
   Price: $40.99 USD
 - [GARVEE Machine Washable Area Rug - Vintage Medallion Design](https://www.garvee.com/products/garvee-gaomon-machine-washable-area-rug-pho-0u94hc4p): Elevate your space with the GARVEE 5x8 area rug. Machine washable, non-slip, and eco-friendly, it features a vintage medallion design perfect for high-traffic areas.
-  Updated: 2025-11-11T04:37:48Z
+  Updated: 2025-11-11T09:44:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -22884,7 +22891,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91gnXYBPp1L.jpg?v=1753593574
   Price: $62.99 USD
 - [GARVEE Washable Rug 9x12 - Modern Geometric Design for Living Room](https://www.garvee.com/products/garvee-washable-rug-9x12-modern-geometric-area-rug-non-slip-large-area-rug-low-pile-farmhouse-rug-non-shedding-distressed-throw-rugs-floor-carpet-for-living-room-bedrooms-grey-garvee-2): Discover the GARVEE Washable Rug: a non-slip, child and pet-friendly area rug made from premium polyester. Perfect for high-traffic areas with a stylish geometric design.
-  Updated: 2025-11-11T04:38:03Z
+  Updated: 2025-11-11T09:44:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -22898,56 +22905,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/916wzdaBwnL_97a92dcb-917a-4a0a-b6ca-0a71d4fbbe51.jpg?v=1723039415
   Price: $76.99 USD
 - [Stylish GARVEE Runner Rug - Non-Slip, Machine Washable, Stain Resistant](https://www.garvee.com/products/garvee-zacoo-runner-rug-for-hallway-pho-11wlffs1-1): Elevate your space with the GARVEE Runner Rug. Its modern geometric design, non-slip backing, and machine washable, stain-resistant fabric make it perfect for any home.
-  Updated: 2025-11-11T04:38:06Z
+  Updated: 2025-11-11T10:15:33Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1703837574893.jpg?v=1758866890
   Price: $43.99 USD
 - [Stylish GARVEE Geometric Modern Rug - Soft, Washable, Non-Slip Design](https://www.garvee.com/products/garvee-zacoo-geometric-modern-rug-4x6-pho-11wldoir-1): Elevate your space with the GARVEE 4x6 rug. Its stain-resistant Belgian velvet and non-slip backing ensure safety and style in any room. Perfect for families!
-  Updated: 2025-11-11T04:38:09Z
+  Updated: 2025-11-11T09:44:57Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51p6ZFrNEVL_47495278-00d6-457a-b874-3f97699dd75a.jpg?v=1723039428
   Price: $50.99 USD
 - [GARVEE Runner Rug - Stylish & Washable Area Rug for Modern Homes](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-modern-pho-11wl4ixk-1): Discover the GARVEE Runner Rug: a durable, soft, and stylish addition to your home. Non-slip, washable, and perfect for kids and pets!
-  Updated: 2025-11-11T04:38:09Z
+  Updated: 2025-11-11T10:15:34Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Fy4vI4byL_cd8adad4-27bb-4928-88dd-a6a99897ba95.jpg?v=1723039432
   Price: $34.99 USD
 - [GARVEE Large Area Rug 8x10 - Stylish, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-zacoo-large-area-rug-8x10-pho-11wlon3o-1): Discover the GARVEE 8x10 Area Rug, featuring a modern geometric design, non-slip backing, and easy machine washability. Perfect for families and pets!
-  Updated: 2025-11-11T04:38:12Z
+  Updated: 2025-11-11T09:45:01Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81iFR6XyyoL_3b623a15-8ab7-4ce6-a474-59d034713e5d.jpg?v=1723039432
   Price: $102.99 USD
 - [GARVEE Modern 9x12 Machine Washable Rug - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-modern-rug-9x12-rug-for-living-room-machine-washable-rugs-geometric-non-slip-rug-contemporary-carpet-for-bedroom-soft-large-rug-stain-resistant-floor-mats-classroom-office-rug-sky-blue-9x12-garvee-1): Discover the GARVEE 9x12 modern rug, featuring a stylish geometric design, soft Belgian velvet, and a non-slip backing. Perfect for families, machine washable, and stain resistant!
-  Updated: 2025-11-11T04:38:13Z
+  Updated: 2025-11-11T09:45:02Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81iFR6XyyoL_13b62cda-342a-4fd5-9d09-788b9dac4409.jpg?v=1723039432
   Price: $129.99 USD
 - [GARVEE Washable 9x12 Floral Area Rug - Durable, Non-Slip, and Machine Washable](https://www.garvee.com/products/garvee-washable-rug-9x12-modern-floral-area-rug-non-slip-large-area-rug-low-pile-farmhouse-rug-non-shedding-distressed-throw-rugs-floor-carpet-for-living-room-bedrooms-blue-light-grey-garvee-1): Discover the GARVEE 9x12 washable rug, crafted from premium polyester for durability. Non-slip, pet-friendly, and machine washable, it enhances any space.
-  Updated: 2025-11-11T04:38:17Z
+  Updated: 2025-11-11T09:45:06Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81k3TZhnU2L_8dd48db9-00bc-43be-88f5-c835fca53a0a.jpg?v=1723039474
   Price: $98.99 USD
 - [GARVEE Washable Area Rugs - Soft, Non-Slip, and Eco-Friendly](https://www.garvee.com/products/garvee-gaomon-washable-area-rugs-4x6-pho-10jt6tcb-1): Discover the GARVEE 4x6 Bohemian area rug, featuring a soft, non-slip design, machine washable convenience, and vibrant geometric patterns for any room.
-  Updated: 2025-11-11T04:38:22Z
+  Updated: 2025-11-11T09:45:11Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81W9Ke-DeeL_30093b4e-f04f-45f2-b42f-25e9879db418.jpg?v=1723039478
   Price: $41.99 USD
 - [GARVEE 9x12 Bohemian Modern Rug - Soft, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-9x12-rug-for-bedroom-throw-rugs-for-living-room-rug-bohemian-modern-rug-fluffy-rug-soft-large-area-rug-moroccan-geometric-nursery-rug-room-carpet-classroom-rug-grey-9x12-garvee-1): Transform your space with the GARVEE 9x12 rug. Luxuriously soft, stain-resistant, and eco-friendly, it's perfect for families and pets. Enjoy easy maintenance and vibrant Moroccan design!
-  Updated: 2025-11-11T04:38:29Z
+  Updated: 2025-11-11T09:45:18Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -22975,84 +22982,84 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71QHdFViv8L.jpg?v=1723039544
   Price: $145.99 USD
 - [GARVEE Vintage Washable Area Rug - Stylish & Durable Runner for Any Room](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvz8sw-1): Discover the GARVEE Vintage Washable Area Rug, crafted from ultra-soft faux cashmere. Perfect for high traffic areas, it's stain-resistant, non-slip, and easy to clean.
-  Updated: 2025-11-11T04:38:33Z
+  Updated: 2025-11-11T10:15:38Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Nz1x0smUL_d747ba64-32b4-4837-9a03-b06d4dbfac1a.jpg?v=1723039554
   Price: $40.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Durable, and Stylish](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvjrsx-1): Discover the GARVEE Vintage Washable Area Rug, a soft, non-slip, and stain-resistant runner perfect for high-traffic areas. Ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:38:34Z
+  Updated: 2025-11-11T10:15:40Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ke5pg6l3L_ea8e9942-43c3-4801-bcf2-9f76f00f8f51.jpg?v=1723039554
   Price: $42.99 USD
 - [GARVEE Oriental Runner Rug - Stylish & Washable](https://www.garvee.com/products/garvee-fashionwu-oriental-runner-rug-2x6-pho-0yjvr336-1): Enhance your space with the GARVEE Oriental Runner Rug. Soft, machine washable, and non-slip, it's perfect for high-traffic areas and adds a unique boho touch.
-  Updated: 2025-11-11T04:38:37Z
+  Updated: 2025-11-11T10:15:40Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61QHoTC2zJL_dd4415f4-ad5d-4245-af44-176c9841fc7e.jpg?v=1723039558
   Price: $46.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Stylish, and Durable](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvxb8b-1): Discover the GARVEE Vintage Washable Area Rug. Made from ultra-soft faux cashmere, it's perfect for kids and pets, stain-resistant, and easy to clean.
-  Updated: 2025-11-11T04:38:37Z
+  Updated: 2025-11-11T09:45:26Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91QOWaa68PL_6a820538-c5db-41ba-bc71-27b3f7a27063.jpg?v=1723039558
   Price: $48.99 USD
 - [GARVEE 8x10 Vintage Boho Area Rug - Stylish, Durable & Machine Washable](https://www.garvee.com/products/garvee-gaomon-8x10-area-rugs-for-pho-0yjvrsy6-1): Discover the GARVEE 8x10 Vintage Boho Area Rug, perfect for high-traffic areas. Machine washable, pet-friendly, and non-slip, it adds style and comfort to any room.
-  Updated: 2025-11-11T04:38:39Z
+  Updated: 2025-11-11T09:45:27Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Xv40hHAIL_45a96a0b-d975-4ef8-8e84-b05d38733065.jpg?v=1723039558
   Price: $119.99 USD
 - [GARVEE Vintage Washable Area Rug - Boho Faux Cashmere Rug](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjv7jcs-1): Discover the GARVEE Vintage Washable Area Rug, featuring soft faux cashmere, stain resistance, and a stylish geometric design. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:38:40Z
+  Updated: 2025-11-11T09:45:28Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1689847195301_aba8e193-8414-4b4d-b90a-3db0107a1f17.jpg?v=1762134196
   Price: $44.99 USD
 - [GARVEE Vintage Washable Area Rug - Boho Faux Cashmere Rug](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvkph1-1): Discover the GARVEE Vintage Washable Area Rug, a stylish and durable faux cashmere rug. Perfect for kids and pets, it's machine washable, stain-resistant, and non-slip.
-  Updated: 2025-11-11T04:38:41Z
+  Updated: 2025-11-11T09:45:30Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91p9tcZiYCL_39944068-a6f2-4ac8-972c-435be33db571.jpg?v=1723039560
   Price: $71.99 USD
 - [GARVEE Machine Washable Boho Area Rug - Stylish & Durable 8x10 Indoor Carpet](https://www.garvee.com/products/garvee-gaomon-machine-washable-rug-8x10-pho-0yjv9gib-1): Discover the GARVEE Machine Washable Rug, a stylish, durable, and pet-friendly 8x10 area rug. Perfect for high-traffic areas, it combines modern design with easy cleaning.
-  Updated: 2025-11-11T04:38:42Z
+  Updated: 2025-11-11T09:45:30Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91U9bCNwX9L_6f33204b-b694-423f-9b0b-db98ff87d985.jpg?v=1756718252
   Price: $129.99 USD
 - [GARVEE 9x12 Large Area Rug - Stylish, Durable, and Washable](https://www.garvee.com/products/garvee-9x12-large-area-rug-living-room-rug-oriental-indoor-rug-boho-floor-cover-vintage-tribal-area-rugs-non-slip-area-rug-distressed-carpet-for-bedroom-kitchen-home-office-pink-9-x-12-garvee-2): Discover the GARVEE 9x12 Large Area Rug, featuring a vintage Boho design, durable low-pile polyester, and machine washable for easy care. Non-slip and pet-friendly!
-  Updated: 2025-11-11T04:38:43Z
+  Updated: 2025-11-11T09:45:31Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Vzmz3DY0L_ae341af7-c62a-4d97-89f9-3483189c2e31.jpg?v=1723039562
   Price: $162.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Durable, Non-Slip Design](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvtm7o-1): Discover the GARVEE Vintage Washable Area Rug, featuring ultra-soft faux cashmere, stain resistance, and non-slip backing, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:38:44Z
+  Updated: 2025-11-11T09:45:32Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nrC7Qje6L_24354893-4abc-42b6-9124-3bc8c054bbcb.jpg?v=1723039562
   Price: $74.99 USD
 - [GARVEE Vintage Washable Area Rug - Soft, Durable, and Stylish](https://www.garvee.com/products/garvee-zacoo-vintage-washable-area-rug-pho-0yjvk61f-1): Discover the GARVEE Vintage Washable Area Rug, featuring ultra-soft faux cashmere, stain resistance, and a non-slip design, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:38:44Z
+  Updated: 2025-11-11T09:45:33Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91BwFkBjlQL_5a0188a2-886a-4c5d-bf7a-5a77cd5c1bde.jpg?v=1723039562
   Price: $78.99 USD
 - [GARVEE 9x12 Large Area Rug - Stylish & Durable](https://www.garvee.com/products/garvee-9x12-large-area-rug-living-room-rug-oriental-indoor-rug-boho-floor-cover-vintage-tribal-area-rugs-non-slip-area-rug-distressed-carpet-for-bedroom-kitchen-home-office-grey-9-x-12-garvee-1): Discover the GARVEE 9x12 Large Area Rug, featuring a vintage Boho design, machine washable, pet-friendly, and non-slip for ultimate comfort in any room.
-  Updated: 2025-11-11T04:38:46Z
+  Updated: 2025-11-11T09:45:34Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -23185,77 +23192,77 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/511ixrBSNQL_8fec3613-7af2-4f08-9a39-80b59ec77fec.jpg?v=1723039710
   Price: $42.99 USD
 - [GARVEE Acacia Wood Noodle Board - Versatile Kitchen Essential](https://www.garvee.com/products/garvee-30-x-22-inch-acacia-pho-10yfto9z-1): Enhance your kitchen with the GARVEE 30x22 inch Acacia Wood Stove Cover. Perfect for indoor use, it offers multi-functional benefits as a cutting board or decorative tray.
-  Updated: 2025-11-11T04:31:22Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Cutting Boards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/41UTNHHHYCL_5675a974-d572-4ba0-a786-05efe7c18962.jpg?v=1723039731
   Price: $73.99 USD
 - [GARVEE Living Room Rugs - Premium Washable Vintage Floral Area Rug](https://www.garvee.com/products/garvee-gaomon-living-room-rugs-8x10-pho-0zw1khk4-1): Discover the GARVEE 8x10 washable rug, featuring high-density chenille, a non-slip design, and easy maintenance, perfect for any room's aesthetic.
-  Updated: 2025-11-11T04:38:57Z
+  Updated: 2025-11-11T09:45:44Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81u8t2tfMXL.jpg?v=1727691640
   Price: $96.99 USD
 - [GARVEE Living Room Rugs - 8x10 Washable Vintage Floral Design](https://www.garvee.com/products/garvee-gaomon-living-room-rugs-8x10-pho-0zw11yev-1): Discover the GARVEE 8x10 washable rug featuring premium chenille fibers, non-slip backing, and low pile design. Perfect for high traffic areas, easy to maintain!
-  Updated: 2025-11-11T04:38:57Z
+  Updated: 2025-11-11T09:45:45Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91gEN32lB3L.jpg?v=1727691648
   Price: $78.99 USD
 - [GARVEE Boho Runner Rugs - Premium Washable Non-Slip Floral Area Rug](https://www.garvee.com/products/garvee-gaomon-boho-runner-rugs-2x6-pho-0zw1ya5u-1): Discover GARVEE's 2x6 Boho Runner Rugs, crafted from high-density chenille for comfort and style. Non-slip, low pile, and machine washable for easy maintenance.
-  Updated: 2025-11-11T04:38:59Z
+  Updated: 2025-11-11T10:15:45Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91YoOGZ9uXL.jpg?v=1727691608
   Price: $37.99 USD
 - [GARVEE Boho Runner Rugs - Stylish and Functional](https://www.garvee.com/products/garvee-gaomon-boho-runner-rugs-2x6-pho-0zw15y96-1): Discover GARVEE's 2x6 Boho Runner Rug, featuring premium chenille, non-slip safety, and easy maintenance. Perfect for high-traffic areas and any room.
-  Updated: 2025-11-11T04:39:00Z
+  Updated: 2025-11-11T10:15:47Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oOMvZdpYL_a86c6457-6d50-4046-9796-df6d7207337c.jpg?v=1723039760
   Price: $25.99 USD
 - [GARVEE 3x5 Entryway Rug - Washable, Non-Slip, Vintage Style](https://www.garvee.com/products/garvee-gaomon-3x5-entryway-rug-washable-pho-0zw1vtpg-1): Discover the GARVEE 3x5 Entryway Rug, crafted from premium chenille for softness and durability. Its non-slip design ensures safety, while easy maintenance keeps it looking new.
-  Updated: 2025-11-11T04:39:02Z
+  Updated: 2025-11-11T09:45:49Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51SCI4QCvSL.jpg?v=1727691607
   Price: $30.99 USD
 - [GARVEE 3x5 Washable Entryway Rug - Ultra-Thin Non-Slip Vintage Carpet](https://www.garvee.com/products/garvee-gaomon-3x5-entryway-rug-washable-pho-0zw1u4oz-1): Discover the GARVEE 3x5 Entryway Rug, crafted from premium chenille for softness and durability. Its non-slip design ensures safety, while easy maintenance keeps it looking new.
-  Updated: 2025-11-11T04:39:04Z
+  Updated: 2025-11-11T09:45:51Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/917m191WifL_0e651b97-a43a-40b1-9ecb-1056ea169f19.jpg?v=1723039764
   Price: $30.99 USD
 - [GARVEE Washable 5x7 Boho Tribal Area Rug - Premium Quality & Non-Slip](https://www.garvee.com/products/garvee-gaomon-washable-rug-5x7-boho-pho-0zw1h2ww-1): Discover the GARVEE Washable Rug, featuring premium chenille fibers, a non-slip design, and easy maintenance. Perfect for high-traffic areas in your home!
-  Updated: 2025-11-11T04:39:04Z
+  Updated: 2025-11-11T09:45:52Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mLDWihDqL_ec69462f-9225-43a2-be6f-d0fdf3078feb.jpg?v=1723039764
   Price: $35.99 USD
 - [GARVEE Washable Rug - Premium Quality Boho Tribal Area Rug](https://www.garvee.com/products/garvee-gaomon-washable-rug-5x7-boho-pho-0zw12gdb-1): Discover the GARVEE Washable Rug, featuring high-density chenille fibers, non-slip backing, and easy maintenance. Perfect for high-traffic areas, it adds elegance to any room.
-  Updated: 2025-11-11T04:39:05Z
+  Updated: 2025-11-11T09:45:53Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/917m191WifL_b6785863-f602-46a3-8db0-a1beafdf5e6c.jpg?v=1723039764
   Price: $57.99 USD
 - [GARVEE Large Area Rug 9x12 - Boho Floral Print, Washable, Non-Slip](https://www.garvee.com/products/garvee-large-area-rug-9x12-washable-rug-tribal-patchwork-bedroom-rug-ultra-thin-living-room-rugs-boho-floral-print-vintage-rug-oriental-distressed-low-pile-floor-carpet-for-nursery-home-office-blue-garvee-1): Discover the GARVEE 9x12 Large Area Rug, featuring premium chenille fibers, a vintage floral design, and non-slip backing for safety. Perfect for any room!
-  Updated: 2025-11-11T04:39:11Z
+  Updated: 2025-11-11T09:45:59Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91mLDWihDqL_7b546573-542a-4ab7-aef7-d3e46ea31f18.jpg?v=1723039768
   Price: $146.99 USD
 - [GARVEE Large Area Rug - Premium Washable Tribal Patchwork Design](https://www.garvee.com/products/garvee-large-area-rug-9x12-washable-rug-tribal-patchwork-bedroom-rug-ultra-thin-living-room-rugs-boho-floral-print-vintage-rug-oriental-distressed-low-pile-floor-carpet-for-nursery-home-office-grey-garvee-1): Discover the GARVEE 9x12 Large Area Rug, crafted from high-density chenille for a soft touch. Non-slip, low pile, and machine washable, it's perfect for any room.
-  Updated: 2025-11-11T04:39:13Z
+  Updated: 2025-11-11T09:46:00Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
@@ -23276,84 +23283,84 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/715Guw5VU9L_d02846e0-b2b1-49b4-980d-946c9fc03dc4.jpg?v=1723039828
   Price: $247.99 USD
 - [GARVEE 9'x12' Area Rug - Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-9x12-rug-area-rug-with-anti-slip-backing-abstract-machine-washable-stain-resistant-rugs-for-living-room-kids-room-foldable-area-rug-navy-garvee-1): Discover the GARVEE 9'x12' rug with a stunning abstract design. Machine washable, stain-resistant, and featuring an anti-slip backing, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:39:18Z
+  Updated: 2025-11-11T09:46:05Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710Wwd9T3aL_d35a6845-a97b-456d-98d7-feba6efb461f.jpg?v=1748934937
   Price: $139.99 USD
 - [GARVEE 8'x10' Abstract Area Rug - Machine Washable & Anti-Slip](https://www.garvee.com/products/garvee-towallmark-8-x10-rug-area-pho-10dwqq97-1): Discover the GARVEE 8'x10' area rug with a stylish abstract design. Its machine washable, stain-resistant, and anti-slip features make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:39:18Z
+  Updated: 2025-11-11T09:46:06Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71o0lKLA0dL_38cd6c23-cc07-4efa-9e59-b245c987ee25.jpg?v=1750909587
   Price: $67.99 USD
 - [GARVEE 5'x7' Abstract Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-pioneerworks-5-x7-rug-anti-pho-10dwfzy6-1): Discover the GARVEE 5'x7' rug with anti-slip backing, stain resistance, and machine washability. Perfect for high-traffic areas, it combines comfort and trendy design.
-  Updated: 2025-11-11T04:39:19Z
+  Updated: 2025-11-11T09:46:06Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710Wwd9T3aL_bb2e64b0-f9be-4ae8-b5be-a250ecf8709b.jpg?v=1748935640
   Price: $64.99 USD
 - [GARVEE 5'x7' Abstract Area Rug - Soft, Stain Resistant & Non-Slip](https://www.garvee.com/products/garvee-pioneerworks-5-x7-rug-anti-pho-10dwc5ii-1): Discover the GARVEE 5'x7' rug featuring a trendy abstract design, soft feel, anti-slip backing, and machine washable for easy maintenance. Perfect for any room!
-  Updated: 2025-11-11T04:39:20Z
+  Updated: 2025-11-11T09:46:07Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1718596109688.jpg?v=1750909846
   Price: $70.99 USD
 - [GARVEE 9'x12' Abstract Area Rug - Machine Washable & Anti-Slip](https://www.garvee.com/products/garvee-9x12-rug-area-rug-with-anti-slip-backing-abstract-machine-washable-stain-resistant-rugs-for-living-room-kids-room-foldable-area-rug-gray-garvee-1): Discover the GARVEE 9'x12' rug with anti-slip backing, machine washable, and stain resistant. Perfect for high-traffic areas, kids, and pets!
-  Updated: 2025-11-11T04:39:20Z
+  Updated: 2025-11-11T09:46:08Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71o0lKLA0dL_19570227-b13a-4cac-b3e6-5aa7b52147c8.jpg?v=1750909495
   Price: $73.99 USD
 - [GARVEE 8'x10' Abstract Area Rug - Soft, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-pioneerworks-8-x10-rug-anti-pho-10dwsiga-1): Discover the GARVEE 8'x10' rug with a trendy abstract design. Soft, stain-resistant, and machine washable, it’s perfect for high-traffic areas and families.
-  Updated: 2025-11-11T04:39:21Z
+  Updated: 2025-11-11T09:46:09Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710Wwd9T3aL_078106f3-3264-4da2-8471-89ec401fd8f2.jpg?v=1747732554
   Price: $123.99 USD
 - [GARVEE 5x7 Modern Abstract Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-gaomon-5x7-modern-abstract-area-pho-13fuows1-1): Discover the GARVEE 5x7 Modern Abstract Area Rug: machine washable, non-slip, stain resistant, and perfect for high traffic areas. Ideal for family and pets!
-  Updated: 2025-11-11T04:39:25Z
+  Updated: 2025-11-11T09:46:13Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81ZA-MJFndL_03e2f35e-d87c-43b1-8e61-584e3189a071.jpg?v=1723039864
   Price: $63.99 USD
 - [GARVEE Runner Rug - Modern Moroccan Design for Kitchen & Hallway](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-moroccan-pho-10m9wr9b-2): Discover the GARVEE Runner Rug: a washable, non-slip rug made from premium polyester, perfect for high-traffic areas. Child and pet-friendly, it combines style with durability.
-  Updated: 2025-11-11T04:39:32Z
+  Updated: 2025-11-11T10:15:51Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81aorvXMdCL.jpg?v=1727691535
   Price: $46.99 USD
 - [GARVEE Runner Rug - Stylish, Non-Slip, Washable Kitchen Runner](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-moroccan-pho-10m967gm-1): Discover the GARVEE Runner Rug: a modern, non-slip, and washable rug made from premium polyester. Perfect for high traffic areas, it's child and pet-friendly!
-  Updated: 2025-11-11T04:39:35Z
+  Updated: 2025-11-11T10:15:52Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81D2MXdyaKL_3b0e83d5-c804-463d-9552-7f9e5e7a1ee0.jpg?v=1723039896
   Price: $25.99 USD
 - [GARVEE Modern Rug 4x6 - Stylish, Non-Slip, Washable Area Rug for Home](https://www.garvee.com/products/garvee-gaomon-modern-rug-4x6-washable-pho-10m9j8q8-1): Discover the GARVEE Modern Rug 4x6, crafted from premium polyester. This non-slip, washable rug is perfect for high-traffic areas, child and pet-friendly.
-  Updated: 2025-11-11T04:39:38Z
+  Updated: 2025-11-11T09:46:26Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81eGUnl3vVL.jpg?v=1727691603
   Price: $44.99 USD
 - [GARVEE Washable Rug 5x7 - Modern Moroccan Design](https://www.garvee.com/products/garvee-gaomon-washable-rug-5x7-modern-pho-10m9ahrb-1): Discover the GARVEE Washable Rug: a non-slip, child & pet-friendly area rug made of premium polyester. Perfect for high traffic areas, it combines style and functionality.
-  Updated: 2025-11-11T04:39:38Z
+  Updated: 2025-11-11T09:46:26Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81S-cAmUxTL_7f5ab645-f1dc-4d0b-8621-ec1c95860e83.jpg?v=1723039901
   Price: $58.99 USD
 - [GARVEE Washable Rug 5x7 - Modern Moroccan Design](https://www.garvee.com/products/garvee-gaomon-washable-rug-5x7-modern-pho-10m9k06m-2): Discover the GARVEE Washable Rug: a non-slip, child and pet-friendly carpet made from premium polyester. Its modern geometric design adds style to any room.
-  Updated: 2025-11-11T04:39:41Z
+  Updated: 2025-11-11T09:46:29Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -23374,231 +23381,231 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81zudM2EOEL_e7bf2bab-9e2f-46a3-b45f-53b0562965aa.jpg?v=1723039957
   Price: $219.99 USD
 - [GARVEE Washable 5x7 Bohemian Area Rug - Soft, Stylish, and Non-Slip](https://www.garvee.com/products/garvee-gaomon-washable-area-rug-5x7-pho-0yzm1pld): Discover the GARVEE Washable 5x7 Bohemian Area Rug, featuring a soft, stain-resistant design, vibrant colors, and non-slip backing. Perfect for any indoor space!
-  Updated: 2025-11-11T04:39:46Z
+  Updated: 2025-11-11T09:46:33Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51oxZdt4vBL_4b539e02-4ce2-401b-a440-a73ea6a84458.jpg?v=1727691641
   Price: $67.99 USD
 - [GARVEE Washable Area Rug - Soft, Non-Slip, and Stylish for Any Room](https://www.garvee.com/products/garvee-gaomon-washable-area-rug-8x10-pho-0yzmhnbv-1): Transform your space with the GARVEE 8x10 Bohemian rug. Soft, washable, and stain-resistant, it features a non-slip backing for safety and durability.
-  Updated: 2025-11-11T04:39:46Z
+  Updated: 2025-11-11T09:46:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uLkkeDt4L_e7321d1e-3cfd-4b6f-9d91-bff3f23ab85e.jpg?v=1723039974
   Price: $126.99 USD
 - [GARVEE Living Room Rug - Soft, Washable, Non-Slip 8x10 Area Rug](https://www.garvee.com/products/garvee-living-room-rug-washable-rug-pho-14dfbur0-2): Transform your space with the GARVEE 8x10 washable rug. Made of soft polyester, it's non-slip and perfect for any room. Enjoy free shipping and fast delivery!
-  Updated: 2025-11-11T04:39:47Z
+  Updated: 2025-11-11T09:46:35Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81TYFnxBa0L_9b74499e-cda0-45f3-b5e9-d2b31db85285.jpg?v=1723702719
   Price: $72.99 USD
 - [GARVEE Large Monaco Collection Area Rug - 9' x 12'](https://www.garvee.com/products/garvee-large-monaco-collection-area-rug-9-x-12-navy-blue-orange-boho-chic-medallion-distressed-design-non-shedding-easy-care-ideal-for-high-traffic-areas-in-living-room-bedroom-garvee-1): Elevate your space with the GARVEE Large Monaco Area Rug. Its vibrant blue and orange Moroccan design is durable, stain-resistant, and easy to maintain, perfect for high traffic areas.
-  Updated: 2025-11-11T04:39:48Z
+  Updated: 2025-11-11T09:46:35Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MQC7sMCxL_49062b87-9776-42aa-bdcb-24907a668868.jpg?v=1750987506
   Price: $649.99 USD
 - [GARVEE Monaco Collection Area Rug - Stylish and Durable](https://www.garvee.com/products/garvee-gaomon-monaco-collection-area-rug-pho-0z5eqgr5-1): Transform your space with the GARVEE Monaco Area Rug. Its vibrant blue and orange Moroccan design is durable, stain-resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:39:49Z
+  Updated: 2025-11-11T09:46:36Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rKiW_oNnL_2fefdba7-a5b0-42e5-a7c3-2baf5b7f3c8a.jpg?v=1723039993
   Price: $124.99 USD
 - [GARVEE Monaco Collection Area Rug - 8' x 10'](https://www.garvee.com/products/garvee-gaomon-monaco-collection-area-rug-pho-0z5e6w7s-1): Elevate your space with the GARVEE Monaco Collection Area Rug. Its vibrant blue and orange Moroccan design is durable, stain-resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:39:49Z
+  Updated: 2025-11-11T09:46:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rKiW_oNnL_cd375446-f980-43a2-8a35-757adff0a6a5.jpg?v=1723039993
   Price: $450.99 USD
 - [GARVEE Monaco Collection Runner Rug - Stylish & Durable](https://www.garvee.com/products/garvee-gaomon-monaco-collection-runner-rug-pho-0z5e1sp7-1): Elevate your space with the GARVEE Monaco Runner Rug. Featuring a vibrant blue and orange design, it's durable, stain-resistant, and easy to maintain, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:39:50Z
+  Updated: 2025-11-11T10:15:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91rKiW_oNnL_47648d84-4eb0-4a60-950b-a5fdc128f654.jpg?v=1723039993
   Price: $61.99 USD
 - [GARVEE Machine Washable 8x10 Floral Area Rug - Non-Slip & Stain Resistant](https://www.garvee.com/products/garvee-glowsol-machine-washable-rugs-8x10-pho-0zcczqfl-1): Transform your space with GARVEE's 8x10 machine washable floral rug. Non-slip, stain-resistant, and perfect for high-traffic areas, it combines style and safety.
-  Updated: 2025-11-11T04:39:52Z
+  Updated: 2025-11-11T09:46:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ualclzNxL_444c010c-c781-4ba8-a6c3-7201af74c3e8.jpg?v=1723040027
   Price: $86.99 USD
 - [GARVEE Large Area Rug 9X12 - Modern, Washable, Non-Slip, Pet Friendly](https://www.garvee.com/products/garvee-large-area-rug-9x12-abstract-area-rug-washable-rug-thin-living-room-rug-modern-indoor-carpet-soft-low-pile-rug-reversible-bedroom-rug-for-nursery-room-dining-room-navy-garvee-1): Discover the GARVEE Large Area Rug, featuring a soft, durable polyester design. Machine washable, non-slip, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:40:00Z
+  Updated: 2025-11-11T09:46:48Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/8129kfVUXvL_611cc1b2-a079-4bc4-8560-325f03065330.jpg?v=1723040050
   Price: $74.99 USD
 - [GARVEE Living Room Rugs - Modern Abstract Design](https://www.garvee.com/products/garvee-cozyloom-living-room-rugs-8x10-pho-10unip8n-1): Transform your space with GARVEE's 8x10 large soft rug. Made from washable polyester, it features a non-slip backing and contemporary abstract design, ideal for any room.
-  Updated: 2025-11-11T04:40:02Z
+  Updated: 2025-11-11T09:46:49Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81SGW5tPoBL_3bd8d9dc-79a9-4a71-9b40-e75873fba92c.jpg?v=1723040055
   Price: $134.99 USD
 - [GARVEE Washable Rug - Modern Area Rug for Living Room](https://www.garvee.com/products/garvee-gaomon-washable-rug-4x6-modern-pho-10un18or-1): Discover the GARVEE Washable Rug, featuring a soft low-pile design, non-slip backing for safety, and easy maintenance. Perfect for any room and available in multiple sizes.
-  Updated: 2025-11-11T04:40:03Z
+  Updated: 2025-11-11T09:46:50Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/719v4jvxuyL_b03ca586-32a0-4abc-9071-147aa66e31b3.jpg?v=1723040055
   Price: $52.99 USD
 - [GARVEE Washable 4x6 Modern Rug - Soft, Non-Slip, Easy Care](https://www.garvee.com/products/garvee-cozyloom-washable-rug-4x6-modern-pho-10un5hu8-1): Discover the GARVEE 4x6 Washable Rug, crafted from premium fabric for softness and durability. Its low pile design ensures safety and easy cleaning, perfect for high traffic areas.
-  Updated: 2025-11-11T04:40:03Z
+  Updated: 2025-11-11T09:46:51Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51paUHfRLyL_6e8ae74f-c591-4e65-a069-d92ec37e51de.jpg?v=1723040054
   Price: $52.99 USD
 - [GARVEE 6x9 Large Area Rug - Modern Washable Non-Slip Design](https://www.garvee.com/products/garvee-gaomon-6x9-large-area-rug-pho-10un195m-1): Transform your space with the GARVEE 6x9 Large Area Rug. Made from premium polyester, this stylish, non-slip rug is washable and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:40:04Z
+  Updated: 2025-11-11T09:46:51Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704683225922.jpg?v=1728630945
   Price: $80.99 USD
 - [GARVEE Modern Area Rug Runner - Soft Faux Wool & Non-Slip Design](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-modern-pho-10un6xwo-1): Elevate your space with the GARVEE 2x6 Area Rug. Made from premium faux wool, it's soft, washable, and features a non-slip backing for safety and style.
-  Updated: 2025-11-11T04:40:06Z
+  Updated: 2025-11-11T10:16:00Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51wtGc3DJfL.jpg?v=1727691577
   Price: $41.99 USD
 - [GARVEE Washable Rug - Soft, Non-Slip, and Easy to Maintain Area Rug](https://www.garvee.com/products/garvee-gaomon-washable-rug-4x6-modern-pho-10un6a7r-1): Discover the GARVEE Washable Rug, a premium quality, low pile, non-slip area rug that’s lightweight and easy to clean, perfect for any room in your home.
-  Updated: 2025-11-11T04:40:07Z
+  Updated: 2025-11-11T09:46:54Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/813UQqdcKjL.jpg?v=1727691644
   Price: $37.99 USD
 - [GARVEE 6x9 Large Area Rug - Modern Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-6x9-large-area-rug-pho-10un8vtb-1): Elevate your space with GARVEE's 6x9 washable area rug. Crafted from premium polyester, it features a chic checkered design, non-slip backing, and easy maintenance.
-  Updated: 2025-11-11T04:40:08Z
+  Updated: 2025-11-11T09:46:55Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oen_gjB-L_32e8b715-0150-4abc-bc91-751e5514aefa.jpg?v=1723040055
   Price: $86.99 USD
 - [GARVEE 6x9 Large Area Rug - Modern Washable Checkered Print](https://www.garvee.com/products/garvee-gaomon-6x9-large-area-rug-pho-10unx8jz-1): Discover the GARVEE 6x9 Large Area Rug, featuring premium polyester, non-slip safety, low-pile comfort, and easy maintenance. Perfect for any room!
-  Updated: 2025-11-11T04:40:10Z
+  Updated: 2025-11-11T09:46:57Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91wdb5-SfBL.jpg?v=1727691608
   Price: $80.99 USD
 - [GARVEE 2x6 Modern Runner Rug - Abstract Design, Non-Slip & Washable](https://www.garvee.com/products/garvee-cozyloom-area-rug-2x6-modern-pho-10un8olf-1): Discover the GARVEE 2x6 Modern Runner Rug, featuring a soft, low-pile design that’s non-slip and machine washable. Perfect for any room, it adds a stylish touch!
-  Updated: 2025-11-11T04:40:12Z
+  Updated: 2025-11-11T10:16:02Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oqve2kSLL_11ef8fa1-a9cd-4085-b264-6ad6eb978d32.jpg?v=1723040059
   Price: $40.99 USD
 - [GARVEE 2x6 Modern Rug Runner - Soft Faux Wool, Non-Slip, Washable](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-modern-pho-10untqco-1): Discover the GARVEE 2x6 modern rug runner! Made from soft faux wool, this non-slip, washable rug is perfect for high-traffic areas, ensuring safety and style.
-  Updated: 2025-11-11T04:40:12Z
+  Updated: 2025-11-11T10:16:03Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71go_dXpqFL_994b5298-9430-4b7c-a375-f9ade66a6b53.jpg?v=1723040060
   Price: $47.99 USD
 - [GARVEE 2x6 Modern Washable Rug Runner - Soft Faux Wool & Non-Slip Design](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-modern-pho-10unrytm-1): Discover the GARVEE 2x6 modern rug runner, crafted from premium faux wool, featuring a non-slip design for safety, easy maintenance, and stylish decor for any room.
-  Updated: 2025-11-11T04:40:13Z
+  Updated: 2025-11-11T10:16:04Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/719v4jvxuyL_81081868-5fdf-402f-b2b0-8d412c4b0c47.jpg?v=1723040059
   Price: $43.99 USD
 - [GARVEE 5x7 Washable Non-Slip Rug - Soft Faux Wool for Modern Interiors](https://www.garvee.com/products/garvee-gaomon-5x7-washable-rug-non-pho-10un2y8k-1): Discover the GARVEE 5x7 Washable Rug, featuring a non-slip design, low pile faux wool, and easy maintenance, perfect for any room in your home.
-  Updated: 2025-11-11T04:40:14Z
+  Updated: 2025-11-11T09:47:01Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/819HNQlFaBL_15e0e312-0a2d-4b2b-9c40-501c98008e50.jpg?v=1723040060
   Price: $67.99 USD
 - [GARVEE 5x7 Washable Non-Slip Rug - Soft Faux Wool for Modern Homes](https://www.garvee.com/products/garvee-gaomon-5x7-washable-rug-non-pho-10ungky3-1): Discover the GARVEE 5x7 washable rug, featuring a non-slip design, low pile faux wool, and easy maintenance. Perfect for high-traffic areas in any room!
-  Updated: 2025-11-11T04:40:15Z
+  Updated: 2025-11-11T09:47:02Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81w-FTtQFtL_00b4c91b-bc71-46d5-b58a-3772193d3549.jpg?v=1723040060
   Price: $69.99 USD
 - [GARVEE Washable Rug - Modern Abstract Design for Home](https://www.garvee.com/products/garvee-cozyloom-washable-rug-4x6-modern-pho-10un80jr-1): Discover the GARVEE Washable Rug, featuring a soft, low-pile design and non-slip backing. Perfect for high-traffic areas, it's easy to clean and ideal for any room.
-  Updated: 2025-11-11T04:40:15Z
+  Updated: 2025-11-11T09:47:02Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AxBYFKOaL_f13225b1-59ae-44f7-8506-65db2bdf5eac.jpg?v=1723040063
   Price: $37.99 USD
 - [GARVEE 6x9 Large Area Rug - Modern Washable Checkered Design](https://www.garvee.com/products/garvee-gaomon-6x9-large-area-rug-pho-10unv3uz-1): Discover the GARVEE 6x9 Large Area Rug, featuring premium non-slip, washable fabric, low pile for easy maintenance, and a chic plaid design perfect for any room.
-  Updated: 2025-11-11T04:40:16Z
+  Updated: 2025-11-11T09:47:03Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81TQEMu0EEL.jpg?v=1727691666
   Price: $90.99 USD
 - [GARVEE 5x7 Washable Non Slip Rug - Soft Faux Wool Indoor Carpet](https://www.garvee.com/products/garvee-gaomon-5x7-washable-rug-non-pho-10unehf4-1): Discover the GARVEE 5x7 Washable Rug, featuring a non-slip design, low pile faux wool for comfort, and easy maintenance—perfect for any room in your home!
-  Updated: 2025-11-11T04:40:17Z
+  Updated: 2025-11-11T09:47:04Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51XBdXLs1nL_c5881b73-37c5-45d2-be2b-7bf1f12a1557.jpg?v=1723040063
   Price: $70.99 USD
 - [GARVEE 5x7 Washable Non Slip Rug - Soft Faux Wool Carpet for Modern Interiors](https://www.garvee.com/products/garvee-gaomon-5x7-washable-rug-non-pho-10un1sv5-1): Discover the GARVEE 5x7 washable rug featuring non-slip safety, low pile faux wool, and easy maintenance. Perfect for high traffic areas in your home!
-  Updated: 2025-11-11T04:40:17Z
+  Updated: 2025-11-11T09:47:04Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Y1HAviwEL_adc8c68b-d750-4c0f-92ae-b3d265b31d14.jpg?v=1723040063
   Price: $72.99 USD
 - [GARVEE 9x12 Washable Rug - Modern Checkered Area Rug for Living Room](https://www.garvee.com/products/garvee-9x12-washable-rug-modern-checkered-area-rug-indoor-plaid-print-floor-cover-soft-faux-wool-throw-carpet-aesthetic-rug-foldable-thin-rug-non-slip-accent-rug-for-living-room-bedroom-teal-garvee-1): Discover the GARVEE 9x12 Washable Rug, featuring a soft faux wool surface, non-slip backing, and easy maintenance. Perfect for high-traffic areas in your home.
-  Updated: 2025-11-11T04:40:18Z
+  Updated: 2025-11-11T09:47:05Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51AOmh4OTOL_0715f728-964a-4fb4-8a96-f30b42fd272e.jpg?v=1723040063
   Price: $168.99 USD
 - [GARVEE Washable Rug 8x10 - Modern Checkered Area Rug for Living Room](https://www.garvee.com/products/garvee-gaomon-washable-rug-8x10-modern-pho-10unh8vd-1): Discover the GARVEE Washable Rug 8x10, featuring a non-slip backing, lightweight design, and easy maintenance. Perfect for any room, it adds a chic touch!
-  Updated: 2025-11-11T04:40:19Z
+  Updated: 2025-11-11T09:47:06Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/819HNQlFaBL_65f6b597-91e7-474c-af58-aeee2999857b.jpg?v=1723040064
   Price: $75.99 USD
 - [GARVEE Washable Rug 8x10 - Modern Checkered Area Rug for Living Room](https://www.garvee.com/products/garvee-gaomon-washable-rug-8x10-modern-pho-10unbh2n-1): Discover the GARVEE Washable Rug: a premium, lightweight, non-slip area rug with a chic plaid design. Perfect for high-traffic areas, easy to maintain, and machine washable.
-  Updated: 2025-11-11T04:40:20Z
+  Updated: 2025-11-11T09:47:07Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81w-FTtQFtL_34a74869-2100-40e4-9f84-520d28375028.jpg?v=1723040064
   Price: $122.99 USD
 - [GARVEE Washable Rug 8x10 - Modern Checkered Area Rug for Home](https://www.garvee.com/products/garvee-gaomon-washable-rug-8x10-modern-pho-10un8fg7-1): Discover the GARVEE Washable Rug, featuring a non-slip backing, soft low-pile surface, and easy maintenance. Perfect for high-traffic areas, it adds style and comfort.
-  Updated: 2025-11-11T04:40:21Z
+  Updated: 2025-11-11T09:47:08Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Y1HAviwEL_5f56862d-5ffa-4d83-9821-adbee97d72b8.jpg?v=1723040064
   Price: $122.99 USD
 - [GARVEE 9x12 Area Rug - Modern Washable Soft Floor Cover](https://www.garvee.com/products/garvee-9x12-area-rug-modern-washable-rug-abstract-rug-lines-print-non-slip-accent-rug-indoor-soft-floor-cover-black-lines-contemporary-rug-carpet-living-room-bedroom-kitchen-dining-room-black-garvee-1): Discover the GARVEE 9x12 Area Rug, crafted from premium fabric for a soft, non-shedding surface. Ideal for high-traffic areas, it's machine washable and slip-resistant.
-  Updated: 2025-11-11T04:40:22Z
+  Updated: 2025-11-11T09:47:09Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81nQMBiJGrL_20c1b4d0-8116-4e7f-b9d1-ea482b7e6e37.jpg?v=1723040066
   Price: $156.99 USD
 - [GARVEE 9x12 Washable Rug - Soft Faux Wool Area Rug for Living Room](https://www.garvee.com/products/garvee-9x12-washable-rug-modern-checkered-area-rug-indoor-plaid-print-floor-cover-soft-faux-wool-throw-carpet-aesthetic-rug-foldable-thin-rug-non-slip-accent-rug-for-living-room-bedroom-yellow-garvee-1): Discover the GARVEE 9x12 Washable Rug, crafted from soft faux wool. Non-slip, easy to maintain, and perfect for high traffic areas. Elevate your space today!
-  Updated: 2025-11-11T04:40:23Z
+  Updated: 2025-11-11T09:47:10Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51AiUyEeVFL_1829a8e3-5a13-4978-8ffa-0649a18b4a59.jpg?v=1723040067
   Price: $156.99 USD
 - [Modern Washable 9x12 Area Rug - GARVEE](https://www.garvee.com/products/garvee-9x12-area-rug-modern-washable-rug-abstract-rug-lines-print-non-slip-accent-rug-indoor-soft-floor-cover-black-lines-contemporary-rug-carpet-living-room-bedroom-kitchen-dining-room-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a soft polyester material, abstract design, and non-slip backing. Perfect for any room, machine washable for easy care!
-  Updated: 2025-11-11T04:40:23Z
+  Updated: 2025-11-11T09:47:10Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
@@ -23612,49 +23619,49 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61rUnpdN32L_4c1b7c9d-aaff-4850-b399-7ced4654b870.jpg?v=1723040072
   Price: $126.99 USD
 - [GARVEE Runner Rug 2x6 - Modern Washable Area Rug for Entryway](https://www.garvee.com/products/garvee-garveehome-runner-rug-2x6-washable-pho-13tbf1w9-1): Discover the GARVEE Runner Rug: a soft, low-pile, non-slip rug that's machine washable, durable, and perfect for high-traffic areas in your home.
-  Updated: 2025-11-11T04:40:26Z
+  Updated: 2025-11-11T10:16:05Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71SwX-9346L_5820b2a4-613d-4bde-aef7-4c0d8b002343.jpg?v=1723040124
   Price: $40.99 USD
 - [GARVEE 8x10 Modern Washable Rug - Non-Slip, Low Pile, Durable](https://www.garvee.com/products/garvee-garveehome-8x10-living-room-rug-pho-13tbsb2u-1): Transform your space with the GARVEE 8x10 rug. Its soft, low-pile design, non-slip backing, and machine washable feature make it perfect for high-traffic areas.
-  Updated: 2025-11-11T04:40:28Z
+  Updated: 2025-11-11T09:47:15Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81b40cDt4kL_ade041ed-a52d-49ec-9922-bbd11186aea0.jpg?v=1723040125
   Price: $109.99 USD
 - [GARVEE 9x12 Area Rug - Modern, Washable, Non-Slip, Durable](https://www.garvee.com/products/garvee-9x12-area-rug-large-washable-rug-modern-bordered-area-rug-for-living-room-contemporary-bedroom-rug-low-pile-anti-slip-backing-indoor-carpet-aesthetic-foldable-rug-for-dining-office-grey-garvee-1): Transform your space with the GARVEE 9x12 Area Rug. This soft, low-pile, machine washable rug features a non-slip backing and classic design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:40:28Z
+  Updated: 2025-11-11T09:47:16Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81n69Z1PpkL_7bbebd67-be14-45a6-ac11-5e6d0db85d89.jpg?v=1723040125
   Price: $92.99 USD
 - [GARVEE 9x12 Area Rug - Modern Washable Design for Any Room](https://www.garvee.com/products/garvee-9x12-area-rug-large-washable-rug-modern-bordered-area-rug-for-living-room-contemporary-bedroom-rug-low-pile-anti-slip-backing-indoor-carpet-aesthetic-foldable-rug-for-dining-office-blue-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a classic bordered design, soft low pile, non-slip backing, and machine washable convenience, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:40:29Z
+  Updated: 2025-11-11T09:47:17Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81qjAobqwUL_1ca75ea9-4f92-4db0-887d-ff3079e8d6aa.jpg?v=1723040125
   Price: $119.99 USD
 - [GARVEE 8x10 Modern Washable Rug - Non-Slip, Low Pile, Durable](https://www.garvee.com/products/garvee-garveehome-8x10-living-room-rug-pho-13tb1gcr-1): Discover the GARVEE 8x10 Living Room Rug, featuring a classic design, non-slip backing, and machine washable convenience. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:40:30Z
+  Updated: 2025-11-11T09:47:17Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81uetGqra6L_0e48b88f-1830-417c-9c3d-587a0ae56841.jpg?v=1723040125
   Price: $93.99 USD
 - [GARVEE Washable Rug - Modern Low Pile Non-Slip Carpet for Every Room](https://www.garvee.com/products/garvee-garveehome-washable-rug-5x7-washable-pho-13tb1y04-1): Discover the GARVEE Washable Rug: a stylish, non-slip, low-pile carpet perfect for any room. Machine washable and durable, ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:40:30Z
+  Updated: 2025-11-11T09:47:18Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81uetGqra6L_d4f78785-8a6a-4e3e-b649-4141bc093f27.jpg?v=1723040125
   Price: $60.99 USD
 - [GARVEE Runner Rug - Modern, Washable, Non-Slip Area Rug for Any Room](https://www.garvee.com/products/garvee-garveehome-runner-rug-2x6-washable-pho-13tb2mwn-1): Discover the GARVEE Runner Rug: a low-pile, non-slip, and machine washable rug perfect for high-traffic areas. Stylish, durable, and easy to maintain!
-  Updated: 2025-11-11T04:40:31Z
+  Updated: 2025-11-11T10:16:06Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -23667,176 +23674,183 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457143198783436.jpg?v=1748582450
   Price: $44.99 USD
+- [Stylish GARVEE Braided Rug - Washable, Non-Slip, Vintage Design](https://www.garvee.com/products/garvee-gaomon-braided-rug-6x9-washable-pho-1168i6lt): Transform your space with the GARVEE Braided Rug. This washable, low-pile rug features a non-slip backing, vibrant colors, and a charming braided design, perfect for any room.
+  Updated: 2025-11-11T11:47:07Z
+  Vendor: Garvee
+  Product Type: Rugs > Bordered Rugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_QoDwylML_a27d826c-d4b8-4e05-b2c2-af94cb95afb5.jpg?v=1723040126
+  Price: $69.99 USD
 - [GARVEE 4x6 Braided Print Area Rug - Non-Slip, Washable, Low Pile](https://www.garvee.com/products/garvee-gaomon-area-rug-4x6-entryway-pho-1168o0qq): Elevate your space with the GARVEE 4x6 Area Rug. Its non-slip design, washable fabric, and stylish braided print make it perfect for any room, combining functionality with aesthetic appeal.
-  Updated: 2025-11-11T04:40:33Z
+  Updated: 2025-11-11T09:47:20Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91CjoOHV3TL_5a8f0e50-1127-48fc-bb8d-6463dfb88c73.jpg?v=1723040127
   Price: $59.99 USD
 - [GARVEE Washable Rug - Stylish and Functional Area Rug for Your Home](https://www.garvee.com/products/garvee-gaomon-washable-rug-10x13-large-pho-1168wxv8): Discover the GARVEE Washable Rug, featuring a non-slip TPR backing, low-pile design, and vibrant braided print. Perfect for any room, easy to care for!
-  Updated: 2025-11-11T04:40:35Z
+  Updated: 2025-11-11T09:47:22Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/fe17457138507793275.jpg?v=1760089173
   Price: $139.99 USD
 - [Stylish GARVEE Washable 9x12 Area Rugs - Soft Boho Design for Any Room](https://www.garvee.com/products/garvee-washable-9x12-area-rugs-modern-braided-print-rug-washable-rug-soft-boho-bedroom-rug-non-slip-non-shedding-floor-carpet-low-pile-foldable-thin-rug-for-dining-room-home-office-nursery-grey-garvee): GARVEE Boho washable rug with durable low pile, non-slip TPR backing, pet-friendly, easy to clean, and perfect for any room or high-traffic area.
-  Updated: 2025-11-11T04:40:36Z
+  Updated: 2025-11-11T09:47:23Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/PHO_11689FS9_PHO_11681EIS_PHO_11689DOF_PHO_1168ESS4_PHO_1168OD0S_PHO_1168WXV8__1725582627164.4363_17e94e9e-5083-4ca6-974d-3076378904ce.jpg?v=1760089173
   Price: $119.99 USD
 - [GARVEE 6x9 Area Rugs - Stylish, Non-Slip, and Washable](https://www.garvee.com/products/garvee-caremee-6x9-area-rugs-for-pho-14or1wc3): Discover the GARVEE 6x9 Area Rug, featuring a modern plaid design, low pile for comfort, and a non-slip backing. Perfect for any room, easy to clean!
-  Updated: 2025-11-11T04:40:37Z
+  Updated: 2025-11-11T09:47:24Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81G-zwWwqDL_1aa5902e-3c0f-4587-8e7c-d9170ef98bfe.jpg?v=1723702716
   Price: $60.99 USD
 - [GARVEE Area Rugs 5x7 - Modern Plaid Washable Rug for Home](https://www.garvee.com/products/garvee-caremee-area-rugs-5x7-rugs-pho-14orbi33): Discover the GARVEE 5x7 Area Rug, featuring a soft, low pile polyester design. This washable, non-slip rug is perfect for any room, ensuring comfort and style.
-  Updated: 2025-11-11T04:40:38Z
+  Updated: 2025-11-11T09:47:25Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RxpMaooaL_8a10ce35-0b0c-47b9-b827-ce31483cdfba.jpg?v=1723702716
   Price: $44.99 USD
 - [GARVEE 8x10 Area Rug - Modern Plaid Design, Washable, Non-Slip, Soft](https://www.garvee.com/products/garvee-caremee-area-rugs-8x10-living-pho-14orfm1s): Elevate your space with the GARVEE 8x10 Area Rug. Made from durable, stain-resistant polyester, this stylish rug is machine washable, non-slip, and ultra-soft.
-  Updated: 2025-11-11T04:40:38Z
+  Updated: 2025-11-11T09:47:26Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81msodEi93L.jpg?v=1723702719
   Price: $69.99 USD
 - [GARVEE 9x12 Living Room Washable Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-plaid-rug-low-pile-non-slip-cross-lines-print-carpet-indoor-soft-bedroom-rug-foldable-thin-rug-for-dining-room-home-office-nursery-light-grey-garvee): Discover the GARVEE 9x12 Living Room Rug, featuring a soft low pile, non-slip backing, and machine washable design. Perfect for comfort and style in any room.
-  Updated: 2025-11-11T04:40:39Z
+  Updated: 2025-11-11T09:47:27Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81SfedUFcfL.jpg?v=1723702719
   Price: $84.99 USD
 - [GARVEE Runner Rug - Soft, Washable, Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-caremee-runner-rug-2x6-modern-pho-14or5pv6): Discover the GARVEE Runner Rug, a stylish, washable, and non-slip addition to your home. Crafted from soft polyester, it offers comfort and elegance with a modern plaid design.
-  Updated: 2025-11-11T06:25:51Z
+  Updated: 2025-11-11T10:16:07Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81nXQBijhdL.jpg?v=1723702719
   Price: $34.99 USD
 - [GARVEE Runner Rug - Modern Plaid Area Rug for Indoor Use](https://www.garvee.com/products/garvee-caremee-runner-rug-2x6-modern-pho-14or2z4g): Discover the GARVEE Runner Rug: a stylish, washable, non-slip rug made from soft polyester. Perfect for any space, combining elegance with easy maintenance.
-  Updated: 2025-11-11T04:40:41Z
+  Updated: 2025-11-11T10:16:08Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81gA_Fnd4PL.jpg?v=1723702719
   Price: $36.99 USD
 - [GARVEE Runner Rug - Stylish and Functional Plaid Area Rug](https://www.garvee.com/products/garvee-caremee-runner-rug-2x6-modern-pho-14orcr8k): Discover the GARVEE Runner Rug: a washable, non-slip, and soft polyester rug with a modern plaid design. Perfect for any indoor space, combining style and comfort!
-  Updated: 2025-11-11T04:40:41Z
+  Updated: 2025-11-11T10:16:09Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Os_InBFmL.jpg?v=1723702723
   Price: $34.99 USD
 - [GARVEE 8x10 Washable Area Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-caremee-area-rugs-8x10-living-pho-14or4ace): Discover the GARVEE 8x10 Area Rug, featuring a soft, low-pile design with a non-slip backing. This machine-washable, stylish rug is perfect for any home.
-  Updated: 2025-11-11T04:40:42Z
+  Updated: 2025-11-11T09:47:29Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Tp_-xTj3L.jpg?v=1723702723
   Price: $76.99 USD
 - [GARVEE 9x12 Washable Area Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-plaid-blue-rug-low-pile-non-slip-cross-lines-print-carpet-indoor-soft-bedroom-rug-foldable-thin-rug-for-dining-room-home-office-nursery-blue-garvee): Discover the GARVEE 9x12 area rug, featuring a low pile, soft synthetic wool, and a non-slip backing. Perfect for any room, it's machine washable and foldable.
-  Updated: 2025-11-11T04:40:44Z
+  Updated: 2025-11-11T09:47:31Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jwf3o8p5L_0b9c315c-6ebe-4ae5-aa9b-fd3531008468.jpg?v=1723702751
   Price: $84.99 USD
 - [GARVEE Runner Rug - Modern Plaid Area Rug for Indoor Use](https://www.garvee.com/products/garvee-caremee-runner-rug-2x6-modern-pho-14ormqzk): Discover the GARVEE Runner Rug, a stylish, washable, and non-slip rug made of soft polyester. Perfect for entryways and kitchens, it combines elegance with practicality.
-  Updated: 2025-11-11T04:40:44Z
+  Updated: 2025-11-11T10:16:09Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81KE_Qdn2tL.jpg?v=1723702760
   Price: $25.99 USD
 - [GARVEE 8x10 Washable Area Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-caremee-area-rugs-8x10-living-pho-14orpxnp): Discover the GARVEE 8x10 Area Rug featuring a soft, low-pile polyester surface, non-slip backing, and stylish plaid design. Perfect for living rooms, bedrooms, and nurseries.
-  Updated: 2025-11-11T04:40:45Z
+  Updated: 2025-11-11T09:47:32Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jwf3o8p5L.jpg?v=1723702722
   Price: $69.99 USD
 - [GARVEE 9x12 Washable Area Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-plaid-coffee-rug-low-pile-non-slip-cross-lines-print-carpet-indoor-soft-bedroom-rug-foldable-thin-rug-for-dining-room-home-office-nursery-coffee-garvee): Discover the GARVEE 9x12 Area Rug, featuring a stylish plaid design, low pile for comfort, and a non-slip backing. Perfect for any room, it's machine washable for easy care!
-  Updated: 2025-11-11T04:40:46Z
+  Updated: 2025-11-11T09:47:33Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81msodEi93L_28e014a1-f46c-47e2-bc9b-bbd49271e5c4.jpg?v=1723702773
   Price: $84.99 USD
 - [GARVEE 9x12 Washable Area Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-plaid-black-rug-low-pile-non-slip-cross-lines-print-carpet-indoor-soft-bedroom-rug-foldable-thin-rug-for-dining-room-home-office-nursery-black-garvee): Elevate your space with the GARVEE 9x12 washable area rug. Made from soft, stain-resistant polyester, this low-pile, non-slip rug adds style and comfort to any room.
-  Updated: 2025-11-11T04:40:48Z
+  Updated: 2025-11-11T09:47:36Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QlXgG29IL.jpg?v=1723702725
   Price: $84.99 USD
 - [GARVEE Area Rugs - Modern Plaid Design for Comfort and Style](https://www.garvee.com/products/garvee-caremee-area-rugs-5x7-rugs-pho-14orwbjy): Discover the GARVEE 5x7 Area Rug, featuring a soft low-pile, non-slip design. Machine washable, foldable, and perfect for any room, it combines elegance with practicality.
-  Updated: 2025-11-11T04:40:49Z
+  Updated: 2025-11-11T09:47:36Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nw0tcGJOL_ebc886ff-88f4-4256-aec5-5c68e6590ccb.jpg?v=1723702726
   Price: $44.99 USD
 - [GARVEE 8x10 Living Room Rug - Modern Plaid Design](https://www.garvee.com/products/garvee-caremee-area-rugs-8x10-living-pho-14ory43k): Discover the GARVEE 8x10 Area Rug, featuring a stylish plaid design, soft low-pile polyester, and non-slip backing. Machine washable for easy care!
-  Updated: 2025-11-11T04:40:50Z
+  Updated: 2025-11-11T09:47:37Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LlLNlPD4L_566fc397-1829-432e-979a-fa3e52fac8f6.jpg?v=1723702767
   Price: $89.99 USD
 - [GARVEE 5x7 Area Rugs - Modern Plaid Washable Indoor Soft Rug](https://www.garvee.com/products/garvee-caremee-area-rugs-5x7-rugs-pho-14orvaeg): Discover the GARVEE 5x7 Area Rug, featuring a stylish plaid design, low pile for comfort, and machine washable for easy care. Perfect for any room!
-  Updated: 2025-11-11T04:40:51Z
+  Updated: 2025-11-11T09:47:38Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Wckweu9XL.jpg?v=1723702726
   Price: $32.99 USD
 - [GARVEE 6x9 Area Rug - Stylish, Non-Slip, and Washable](https://www.garvee.com/products/garvee-caremee-6x9-area-rugs-for-pho-14orputr): Discover the GARVEE 6x9 Area Rug, a modern plaid design made from durable polyester. It's soft, low-pile, machine washable, and features a non-slip backing for safety.
-  Updated: 2025-11-11T04:40:51Z
+  Updated: 2025-11-11T09:47:39Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Wckweu9XL_c6cc8be4-e402-47a5-b606-ad0c4f70532b.jpg?v=1723702743
   Price: $38.99 USD
 - [GARVEE 9x12 Washable Area Rug - Vintage Distressed Design](https://www.garvee.com/products/garvee-9x12-living-room-area-rug-washable-large-throw-rug-traditional-non-slip-floor-cover-vintage-distressed-rug-low-pile-stain-resistant-oriental-rug-carpet-for-bedroom-home-office-orange-garvee-1): Discover the GARVEE 9x12 Living Room Area Rug, featuring a vintage distressed pattern, machine washable convenience, non-slip design, and durable, stain-resistant material.
-  Updated: 2025-11-11T04:41:10Z
+  Updated: 2025-11-11T09:47:58Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/PHO_14336I42-7.jpg?v=1739843065
   Price: $109.99 USD
 - [GARVEE Machine Washable Vintage Distressed Rug - Perfect for Home](https://www.garvee.com/products/garvee-garveehome-machine-washable-rug-5x7-pho-1433pk6c-1): Discover the GARVEE 5x7 vintage distressed rug, machine washable, non-slip, and pet-friendly. Durable and stylish, it enhances any room while ensuring easy maintenance.
-  Updated: 2025-11-11T04:41:12Z
+  Updated: 2025-11-11T09:48:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717034624826_1df8a4ac-38b5-4a56-aa92-2e5bb4a0a253.jpg?v=1751623961
   Price: $62.99 USD
 - [GARVEE Washable Rug - Vintage Distressed Design, Stain Resistant, Non-Slip, Perfect for Pets and Kids](https://www.garvee.com/products/garvee-garveehome-washable-rug-8x10-large-pho-1433rtts-1): Discover the GARVEE Washable Rug, featuring a vintage distressed pattern, stain resistance, and a non-slip design, perfect for high-traffic areas and family-friendly homes.
-  Updated: 2025-11-11T04:41:13Z
+  Updated: 2025-11-11T09:48:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717034620396.jpg?v=1751623714
   Price: $89.99 USD
 - [GARVEE Traditional Bedroom Rug - Vintage Stain Resistant Non-Slip Rug](https://www.garvee.com/products/garvee-garveehome-traditional-bedroom-rug-4x6-pho-1433w5bq-1): Discover the GARVEE Traditional Bedroom Rug, a machine washable, non-slip, and durable rug with a vintage design. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:41:16Z
+  Updated: 2025-11-11T09:48:04Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1717034615025_0a6c5f72-bf9a-40d5-9b18-ddf013060406.jpg?v=1751623801
   Price: $42.99 USD
 - [GARVEE Modern Berber Stripe Area Rug - Soft, Non-Slip, and Washable](https://www.garvee.com/products/garvee-area-rug-9x12-modern-berber-stripe-indoor-farmhouse-area-rug-low-pile-non-slip-throw-rug-machine-washable-rug-stain-resistant-carpet-for-bedroom-living-room-cream-blue-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring premium polyester, non-slip backing, and stain resistance. Perfect for high-traffic areas, kids, and pets.
-  Updated: 2025-11-11T04:41:17Z
+  Updated: 2025-11-11T09:48:05Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -23871,7 +23885,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51i5SoY_opL_a9b9321c-b9dd-4aa9-8268-92c9540d1b90.jpg?v=1723040333
   Price: $94.99 USD
 - [GARVEE 8x10 Vintage Distressed Area Rug - Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-vintage-pho-0zh3caon-1): Elevate your space with the GARVEE 8x10 Area Rug, featuring vintage medallion patterns, machine washable convenience, and a non-slip design for safety.
-  Updated: 2025-11-11T04:41:19Z
+  Updated: 2025-11-11T09:48:07Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -23892,7 +23906,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XlIY1uVxL_dda1a25b-d298-4f3c-bf80-b8bcc3e2677a.jpg?v=1759823656
   Price: $113.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Distressed Design](https://www.garvee.com/products/garvee-9x12-area-rug-large-vintage-distressed-machine-washable-area-rug-for-living-room-traditional-medallion-non-slip-stain-resistant-accent-rug-carpet-for-bedroom-decoration-grey-garvee-1): Elevate your space with the GARVEE 9x12 Area Rug. This machine washable, non-slip rug features a vintage medallion design, is stain resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:41:21Z
+  Updated: 2025-11-11T09:48:09Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -23906,7 +23920,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71b7y_dEMIL.jpg?v=1727691656
   Price: $75.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Distressed & Washable](https://www.garvee.com/products/garvee-9x12-area-rug-large-vintage-distressed-machine-washable-area-rug-for-living-room-traditional-medallion-non-slip-stain-resistant-accent-rug-carpet-for-bedroom-decoration-orange-garvee-3): Elevate your space with the GARVEE 9x12 Area Rug. Featuring a vintage medallion design, it's machine washable, stain-resistant, and non-slip, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:41:21Z
+  Updated: 2025-11-11T09:48:09Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -23948,14 +23962,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/812k474CnOL_1f85367a-8520-4540-8e52-f677eceea4e3.jpg?v=1723040354
   Price: $41.99 USD
 - [GARVEE Washable Vintage Floral Area Rug 4x6 - Non-Slip, Soft, and Stylish](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-pho-0zucqeyf-1): Discover the GARVEE 4x6 Washable Vintage Floral Area Rug. Non-slip, non-shedding, and soft, it's perfect for any room. Easy to clean and store, enhancing your home decor.
-  Updated: 2025-11-11T04:41:26Z
+  Updated: 2025-11-11T09:48:13Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51SZH3J8bWL_54dc12f0-3d61-4ebe-a34d-20fb7a01edd8.jpg?v=1723040354
   Price: $53.99 USD
 - [GARVEE Washable Vintage Floral Area Rug - 4x6 Non-Slip, Soft, Durable](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-pho-0zucfb9i-1): Discover the GARVEE Vintage Floral Area Rug: machine washable, non-slip, non-shedding, and soft. Perfect for any room, adding style and comfort effortlessly.
-  Updated: 2025-11-11T04:41:26Z
+  Updated: 2025-11-11T09:48:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -23969,7 +23983,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81HfJNIuv8L_2d9f5752-6641-48d4-b221-57a4bf2479f4.jpg?v=1723040355
   Price: $37.99 USD
 - [GARVEE Washable Vintage Floral Area Rug - Soft, Non-Slip, and Non-Shedding](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-pho-0zuc904p-1): Discover the GARVEE Vintage Floral Area Rug, 8x10, featuring machine washability, non-slip safety, and a soft, foldable design for effortless elegance in any room.
-  Updated: 2025-11-11T04:41:27Z
+  Updated: 2025-11-11T09:48:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -23990,21 +24004,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/816n7yNMHbL_f5bee574-0be8-474e-8db9-3c699ef60bc3.jpg?v=1723040356
   Price: $41.99 USD
 - [GARVEE Washable Vintage Floral Area Rug 5x7 - Non-Slip, Soft, and Stylish](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-pho-0zuc8dbp-1): Discover the GARVEE Washable Vintage Floral Area Rug 5x7. Enjoy non-slip safety, non-shedding quality, and a soft texture, perfect for any room!
-  Updated: 2025-11-11T04:41:28Z
+  Updated: 2025-11-11T09:48:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rS4NTi0fL_6693243d-2f4b-460a-b176-3faed16da89b.jpg?v=1723040355
   Price: $61.99 USD
 - [GARVEE Washable Vintage Floral Area Rug 3x5 - Soft, Non-Slip, and Durable](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-pho-0zucpka3-1): Discover the GARVEE 3x5 Vintage Floral Area Rug, featuring a washable, non-slip design for safety and easy maintenance. Soft, foldable, and stylish for any room.
-  Updated: 2025-11-11T04:41:29Z
+  Updated: 2025-11-11T09:48:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XNREuTsnL_151457b5-1da9-4cbf-a4f9-4b13cb8a3df0.jpg?v=1723040359
   Price: $52.99 USD
 - [GARVEE Washable Vintage Floral Area Rug 9x12 - Non-Slip, Non-Shedding, Soft Carpets](https://www.garvee.com/products/garvee-washable-vintage-floral-area-rug-9x12-non-slip-print-non-shedding-soft-foldable-carpets-for-dining-room-bedroom-living-room-kitchen-entryway-grey-garvee-1): Experience the elegance of the GARVEE Vintage Floral Area Rug. Machine washable, non-slip, and non-shedding, it's perfect for any room, offering comfort and style.
-  Updated: 2025-11-11T04:41:30Z
+  Updated: 2025-11-11T09:48:18Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -24018,56 +24032,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91XNREuTsnL_91223053-fd27-417e-83ab-6db07e75ed84.jpg?v=1723040359
   Price: $89.99 USD
 - [GARVEE Modern Rug 3x5 Pink - Stylish & Washable](https://www.garvee.com/products/garvee-nanan-modern-rug-3x5-pink-pho-0ynig1jx-1): Discover the GARVEE 3x5 Pink Washable Rug, featuring a cozy low pile, non-slip design, and timeless boho charm. Perfect for high-traffic areas and easy to clean!
-  Updated: 2025-11-11T04:41:31Z
+  Updated: 2025-11-11T09:48:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91efodQfCPL_85069575-b45d-4af6-9915-be67c00a719a.jpg?v=1723040373
   Price: $48.99 USD
 - [GARVEE Pink Runner Rugs - Stylish & Washable for Any Space](https://www.garvee.com/products/garvee-nanan-pink-runner-rugs-2x6-pho-0ynioo9u-1): Discover GARVEE's 2x6 Pink Runner Rugs, featuring a soft, non-slip design perfect for high-traffic areas. Washable and durable, ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:41:32Z
+  Updated: 2025-11-11T10:16:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91UzjRyf8FL_e7e43e51-490e-4cf5-afd9-2c3a2749e756.jpg?v=1723040373
   Price: $41.99 USD
 - [GARVEE Vintage Medallion Area Rug - 5x7 Machine Washable, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-5x7-vintage-pho-0yni6m64-1): Transform your space with the GARVEE 5x7 Vintage Medallion Rug. Made from premium polyester, it's machine washable, non-slip, and perfect for kids and pets.
-  Updated: 2025-11-11T04:41:35Z
+  Updated: 2025-11-11T09:48:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EhW2RvjRL_82dcf854-f397-467a-8f38-c30ae9283067.jpg?v=1723040373
   Price: $65.99 USD
 - [GARVEE Living Room 4x6 Modern Rug - Boho Washable Area Rug](https://www.garvee.com/products/garvee-nanan-living-room-4x6-modern-pho-0yniq41r-1): Transform your space with GARVEE's 4x6 modern rug. Soft, durable, and washable, it's perfect for high-traffic areas, adding comfort and style effortlessly.
-  Updated: 2025-11-11T04:41:36Z
+  Updated: 2025-11-11T09:48:23Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61yOaNyAaHL_710d20ed-0b4b-4605-9eae-240411d976bc.jpg?v=1723040377
   Price: $57.99 USD
 - [GARVEE Pink Rug 9x12 - Vintage Bohemian Area Rug for Any Space](https://www.garvee.com/products/garvee-pink-rug-9x12-large-vintage-area-rugs-for-living-room-bedroom-office-washable-dining-room-rug-boho-distressed-carpet-modern-bohemian-rug-low-pile-non-slip-farmhouse-rug-medallion-rug-garvee-1): Transform your home with GARVEE's 9x12 Pink Rug. Washable, non-slip, and durable, it's perfect for high-traffic areas, offering a cozy, stylish touch.
-  Updated: 2025-11-11T04:41:43Z
+  Updated: 2025-11-11T09:48:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91efodQfCPL_b087568d-8c7a-42bf-86e3-5fc2ca80816d.jpg?v=1723040380
   Price: $156.99 USD
 - [GARVEE 9x12 Washable Vintage Rug - Stylish, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-large-living-room-rug-9x12-washable-rug-vintage-rug-non-slip-indoor-floor-carpet-stain-resistant-boho-accent-rug-tranditional-rug-for-bedroom-nursery-home-office-beige-garvee-1): Discover the GARVEE 9x12 Vintage Rug: machine washable, non-slip, and stain resistant. Perfect for family and pets, enhancing any room with style.
-  Updated: 2025-11-11T04:41:48Z
+  Updated: 2025-11-11T09:48:34Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ollnYaqxL_87902442-5dea-4a14-8743-15a6b0504092.jpg?v=1737365802
   Price: $95.99 USD
 - [GARVEE 4x6 Pink Modern Rug - Stylish, Washable, Non-Slip Area Rug](https://www.garvee.com/products/garvee-nanan-living-room-4x6-pink-pho-0yniuwqc-1): Enhance your space with GARVEE's 4x6 pink modern rug. Washable, non-slip, and soft, it's perfect for high-traffic areas, adding style and comfort.
-  Updated: 2025-11-11T04:41:50Z
+  Updated: 2025-11-11T09:48:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91efodQfCPL_dae220a6-ce58-4f52-8ac8-809d07ae9c21.jpg?v=1723040382
   Price: $31.99 USD
 - [GARVEE Large Living Room Rug - Stylish, Washable, and Non-Slip](https://www.garvee.com/products/garvee-large-living-room-rug-9x12-washable-rug-vintage-rug-non-slip-indoor-floor-carpet-stain-resistant-boho-accent-rug-tranditional-rug-for-bedroom-nursery-home-office-grey-garvee-1): Discover the GARVEE 9x12 Large Living Room Rug, featuring a vintage design, machine washable, non-slip backing, and stain-resistant material, perfect for any home.
-  Updated: 2025-11-11T04:41:52Z
+  Updated: 2025-11-11T09:48:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24081,77 +24095,77 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71T0vln0pEL.jpg?v=1749110052
   Price: $94.99 USD
 - [GARVEE Vintage Distressed Area Rug - 8x10 Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-vintage-pho-11qjw06u-1): Elevate your home decor with the GARVEE 8x10 area rug. Machine washable, durable, and non-slip, this vintage floral rug is perfect for high-traffic areas.
-  Updated: 2025-11-11T04:42:00Z
+  Updated: 2025-11-11T09:48:47Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51dQDpspjoL_3bb6270a-7917-40ce-9a45-4c14306a0e07.jpg?v=1723040465
   Price: $84.99 USD
 - [GARVEE 9x12 Vintage Distressed Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-distresse-machine-washable-area-rug-for-living-room-bedroom-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-brown-garvee-1): Elevate your home decor with the GARVEE 9x12 Area Rug. This vintage floral rug is machine washable, stain-resistant, and perfect for high traffic areas, ensuring durability and style.
-  Updated: 2025-11-11T04:42:01Z
+  Updated: 2025-11-11T09:48:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51OoXqic1vL_9b6f84ad-edad-4b7f-9cec-d2d77d233e47.jpg?v=1723040466
   Price: $109.99 USD
 - [GARVEE 9x12 Vintage Distressed Area Rug - Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-distresse-machine-washable-area-rug-for-living-room-bedroom-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-terracotta-garvee-1): Elevate your home decor with the GARVEE 9x12 Area Rug. This vintage-inspired, machine washable rug is durable, lightweight, non-slip, and stain-resistant, perfect for high-traffic areas.
-  Updated: 2025-11-11T06:06:32Z
+  Updated: 2025-11-11T09:48:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91feHbFj1rL_67c95625-35cb-43e8-81bc-e1869784a050.jpg?v=1723040466
   Price: $119.99 USD
 - [GARVEE 9x12 Vintage Distressed Area Rug - Durable & Washable](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-distresse-machine-washable-area-rug-for-living-room-bedroom-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-blue-brown-garvee-1): Elevate your home decor with the GARVEE 9x12 Area Rug. This vintage floral rug is machine washable, stain-resistant, and features a non-slip backing, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:42:04Z
+  Updated: 2025-11-11T09:48:52Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91O7zuKUFpL_8be71d1b-75ab-4f92-b917-5215cdc2fec4.jpg?v=1723040466
   Price: $130.99 USD
 - [GARVEE 8x10 Vintage Distressed Area Rug - Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-vintage-pho-11qj30el-1): Elevate your home decor with the GARVEE 8x10 Area Rug. Made from durable, stain-resistant polyester, this vintage-inspired rug is machine washable and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:42:05Z
+  Updated: 2025-11-11T09:48:52Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tOu-_yUSL_54cb0e40-9b7d-4b80-b3c7-ff53d17f6c07.jpg?v=1723040467
   Price: $120.99 USD
 - [GARVEE Vintage Distressed Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-distresse-machine-washable-area-rug-for-living-room-bedroom-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-teal-multi-garvee-1): GARVEE Vintage Floral Rug – Machine-washable & stain-proof! Non-slip grip rooms/bedrooms. Refresh your décor risk-free – 30-day returns + free shipping!
-  Updated: 2025-11-11T04:42:06Z
+  Updated: 2025-11-11T09:48:53Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Phurll_xL_5896f848-d718-452f-bd3e-3098c1c049e3.jpg?v=1745384776
   Price: $149.99 USD
 - [GARVEE 8x10 Vintage Area Rug - Soft, Non-Slip, Washable for Living Room](https://www.garvee.com/products/garvee-elitez-area-rug-8x10-rugs-pho-129ylpnd): Discover the GARVEE 8x10 area rug featuring a vintage tribal design. Soft, low-pile, non-slip, and washable, it enhances any room while ensuring safety.
-  Updated: 2025-11-11T04:42:06Z
+  Updated: 2025-11-11T09:48:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343680494_62541c5b-830f-4015-9f9f-a4fea73781ad.jpg?v=1748917772
   Price: $80.99 USD
 - [GARVEE Vintage Area Rug 4x6 - Soft, Non-Slip, Washable](https://www.garvee.com/products/garvee-elitez-area-rug-4x6-rugs-pho-129yajxc): Discover the GARVEE 4x6 vintage area rug, featuring a soft low-pile design, non-slip backing, and easy-care washable fabric, perfect for any room.
-  Updated: 2025-11-11T04:42:07Z
+  Updated: 2025-11-11T09:48:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343680494_62541c5b-830f-4015-9f9f-a4fea73781ad.jpg?v=1748917772
   Price: $44.99 USD
 - [GARVEE 5x7 Vintage Area Rug - Soft, Non-Slip, Washable for Living Room](https://www.garvee.com/products/garvee-elitez-area-rug-5x7-rugs-pho-129yxyv4): Discover the GARVEE 5x7 Area Rug with a vintage tribal design. Enjoy its soft, low-pile, non-slip backing, and easy-care washable material for any room.
-  Updated: 2025-11-11T04:42:08Z
+  Updated: 2025-11-11T09:48:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343670260.jpg?v=1748916959
   Price: $46.99 USD
 - [GARVEE Vintage Area Rug 9x12 - Soft, Non-Slip, Washable for Living Room](https://www.garvee.com/products/garvee-area-rug-9x12-rugs-for-living-room-vintage-rug-for-living-room-bedroom-dinning-room-boho-distressed-tribal-area-rug-low-pile-non-slip-washable-indoor-door-mat-for-kitchen-entryway-bathroom-red-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a soft low-pile, non-slip backing, and vintage tribal design. Perfect for any indoor space, easy to clean!
-  Updated: 2025-11-11T04:42:09Z
+  Updated: 2025-11-11T09:48:56Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343680496_3fbbeff7-288e-4091-91da-b2e54611775f.jpg?v=1748918197
   Price: $121.99 USD
 - [GARVEE Vintage Area Rug 6x9 - Soft, Non-Slip, Washable for Living Room](https://www.garvee.com/products/garvee-elitez-area-rug-6x9-rugs-pho-129ybra3): Discover the GARVEE 6x9 area rug, featuring a soft low-pile design, non-slip backing, and vintage tribal style. Perfect for any indoor space, easy to clean!
-  Updated: 2025-11-11T04:42:10Z
+  Updated: 2025-11-11T09:48:56Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24221,35 +24235,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81DfEJ9NypL_028f63dd-9290-4216-8365-3139f8c67854.jpg?v=1723040532
   Price: $369.99 USD
 - [GARVEE Washable Rug - Soft, Durable, and Non-Slip for Any Room](https://www.garvee.com/products/garvee-garveehome-washable-rug-5x7-rugs-pho-13gd1sre-1): Transform your space with the GARVEE Washable Rug. Featuring a soft low pile, non-slip backing, and elegant floral design, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:42:10Z
+  Updated: 2025-11-11T09:48:57Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xzMQIsG0L_7361cb78-afed-4e5c-acd6-9525ede73c00.jpg?v=1723040543
   Price: $46.99 USD
 - [GARVEE 8x10 Washable Boho Rug - Soft & Non-Slip for Every Room](https://www.garvee.com/products/garvee-garveehome-8x10-rug-washable-rug-pho-13gdyb2z-1): Discover the GARVEE 8x10 Washable Rug, featuring a soft low pile, non-slip backing, and vintage floral design. Perfect for any room, easy to clean!
-  Updated: 2025-11-11T04:42:11Z
+  Updated: 2025-11-11T09:48:58Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xzMQIsG0L_03f4034a-9bc8-40c6-b9da-c5013304c895.jpg?v=1723040543
   Price: $95.99 USD
 - [GARVEE 8x10 Washable Boho Rug - Soft, Non-Slip, Durable Area Rug for Any Room](https://www.garvee.com/products/garvee-garveehome-8x10-rug-washable-rug-pho-13gdgvz0-1): Discover the GARVEE 8x10 Washable Rug, featuring a soft low pile, non-slip backing, and a vintage floral design. Perfect for high-traffic areas in your home!
-  Updated: 2025-11-11T04:42:12Z
+  Updated: 2025-11-11T09:48:59Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Av33tlIPL_233236ec-e5c3-4d9a-9cf0-adc5acca08a1.jpg?v=1723040543
   Price: $103.99 USD
 - [GARVEE 9x12 Washable Rug - Soft, Non-Slip, Vintage Design for Home](https://www.garvee.com/products/garvee-9x12-washable-rug-boho-rugs-for-living-room-indoor-soft-large-area-rug-low-pile-non-shedding-accent-rug-non-slip-vintage-rug-traditional-foldable-throw-carpet-for-bedroom-home-office-green-garvee-1): Discover the GARVEE 9x12 Washable Rug, featuring a soft low pile, non-slip backing, and elegant vintage design. Perfect for any room, easy to clean!
-  Updated: 2025-11-11T04:42:13Z
+  Updated: 2025-11-11T09:49:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91eE0OrkoFL_a92be9ba-283a-453f-a533-d75cd86fa3ec.jpg?v=1723040543
   Price: $100.99 USD
 - [GARVEE 9x12 Washable Rug - Soft, Non-Shedding, Non-Slip & Vintage Design](https://www.garvee.com/products/garvee-9x12-washable-rug-boho-rugs-for-living-room-indoor-soft-large-area-rug-low-pile-non-shedding-accent-rug-non-slip-vintage-rug-traditional-foldable-carpet-for-bedroom-home-office-turquoise-garvee-1): Transform your space with GARVEE's 9x12 Washable Rug. Soft, non-shedding, and featuring a non-slip backing, it's perfect for high-traffic areas and easy to clean.
-  Updated: 2025-11-11T04:42:14Z
+  Updated: 2025-11-11T09:49:00Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24263,42 +24277,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71YvmeIftZL_2c796a13-c33e-4a38-aefe-32b67edc653f.jpg?v=1723040561
   Price: $122.99 USD
 - [GARVEE Vintage Area Rug - Soft, Non-Slip, Washable Design for Any Room](https://www.garvee.com/products/garvee-elitez-area-rug-5x7-rugs-pho-129tom2f): Discover the GARVEE 5x7 Area Rug, featuring a non-slip backing, soft low-pile fibers, and a vintage tribal design. Perfect for living rooms and easy to clean!
-  Updated: 2025-11-11T04:42:15Z
+  Updated: 2025-11-11T09:49:01Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71raNF8EMaL.jpg?v=1727691573
   Price: $52.99 USD
 - [GARVEE Vintage Area Rug - Soft, Non-Slip, Washable 8x10 Rug for Living Room](https://www.garvee.com/products/garvee-elitez-area-rug-8x10-rugs-pho-129tqr1s): Discover the GARVEE 8x10 Area Rug, featuring a soft low-pile design, non-slip backing, and easy-care washable material, perfect for any room's decor.
-  Updated: 2025-11-11T04:42:15Z
+  Updated: 2025-11-11T09:49:02Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343481928_9ab55635-c812-433d-a215-a3245a16644d.jpg?v=1757311408
   Price: $91.99 USD
 - [GARVEE 6x9 Vintage Area Rug - Soft, Non-Slip, Washable](https://www.garvee.com/products/garvee-elitez-area-rug-6x9-rugs-pho-129trfcq): Discover the GARVEE 6x9 Vintage Area Rug, featuring a soft low-pile design, non-slip backing, and easy care. Perfect for any room, it enhances your decor effortlessly.
-  Updated: 2025-11-11T04:42:17Z
+  Updated: 2025-11-11T09:49:03Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343425666_c76b8f89-7ebb-41a9-965e-edda52d27f67.jpg?v=1757310925
   Price: $71.99 USD
 - [GARVEE Vintage Area Rug - Non-Slip, Washable & Soft](https://www.garvee.com/products/garvee-elitez-area-rug-6x9-rugs-pho-129twkk9): Discover the GARVEE 6x9 Vintage Area Rug, featuring a non-slip backing, soft low-pile design, and easy maintenance. Perfect for any room, it combines style and functionality.
-  Updated: 2025-11-11T04:42:20Z
+  Updated: 2025-11-11T09:49:05Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343481928_0d506399-cfae-4778-bba2-1cf9b61a5d33.jpg?v=1757311578
   Price: $75.99 USD
 - [GARVEE Vintage Area Rug 9x12 - Non-Slip & Washable](https://www.garvee.com/products/garvee-area-rug-9x12-rugs-for-living-room-vintage-rug-for-living-room-bedroom-dinning-room-boho-distressed-tribal-area-rug-low-pile-non-slip-washable-indoor-door-mat-for-kitchen-entryway-bathroom-garvee): Discover the GARVEE 9x12 Area Rug with non-slip backing, soft low-pile fibers, and vintage tribal design. Perfect for living rooms, washable, and easy to maintain!
-  Updated: 2025-11-11T04:42:21Z
+  Updated: 2025-11-11T09:49:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1716343481928_a0966ef8-5d4c-4a98-9ee4-71f14d1b9694.jpg?v=1757311524
   Price: $129.99 USD
 - [GARVEE Vintage Area Rug - Stylish, Non-Slip & Washable](https://www.garvee.com/products/garvee-elitez-area-rug-4x6-rugs-pho-129tn0bd): Discover the GARVEE 4x6 Area Rug, featuring a soft low-pile design, non-slip backing, and easy care. Perfect for any room, it enhances your decor effortlessly.
-  Updated: 2025-11-11T04:42:22Z
+  Updated: 2025-11-11T09:49:08Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24326,98 +24340,98 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71VEP9AWuXL.jpg?v=1723040580
   Price: $163.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Soft, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-area-rug-floral-washable-carpet-vintage-soft-rugs-garvee-2): Discover the GARVEE Vintage Floral Area Rug, featuring a non-slip backing, soft polyester material, and easy maintenance. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:42:26Z
+  Updated: 2025-11-11T09:49:11Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91yLnLOBfTL_b075fa50-735a-41df-98ce-a58adc263af1.jpg?v=1723040660
   Price: $130.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Soft, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-cozyloom-area-rug-floral-washable-pho-14aiyzxh-1): Transform your space with GARVEE's vintage floral area rug. Soft, non-slip, and easy to clean, it's perfect for high-traffic areas and pet-friendly homes.
-  Updated: 2025-11-11T04:42:26Z
+  Updated: 2025-11-11T09:49:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91yLnLOBfTL_66da6880-ec4c-4969-80f2-11eb21ba186d.jpg?v=1723040659
   Price: $64.99 USD
 - [GARVEE Vintage Floral Washable Area Rug - Soft, Non-Slip, and Easy to Clean](https://www.garvee.com/products/garvee-cozyloom-area-rug-floral-washable-pho-14aiimil-1): Discover the GARVEE Vintage Floral Area Rug, featuring a non-slip backing, soft polyester fabric, and stain resistance, perfect for high-traffic areas and easy maintenance.
-  Updated: 2025-11-11T04:42:29Z
+  Updated: 2025-11-11T09:49:14Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91T9McN28eL_66e3f9b2-7a96-425c-819c-f97c3fdce081.jpg?v=1723040659
   Price: $91.99 USD
 - [GARVEE 4x6 Distressed Floral Area Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-gaomon-area-rug-4x6-distressed-pho-0xt3tpu9-1): Discover the GARVEE 4x6 Area Rug, featuring premium polyester, a classic paisley design, and machine washable convenience. Perfect for any room!
-  Updated: 2025-11-11T04:42:32Z
+  Updated: 2025-11-11T09:49:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81v8Tj2F8PL_a907f471-a447-4696-bbd8-aa83e11759e7.jpg?v=1723040665
   Price: $50.99 USD
 - [GARVEE 5x7 Machine Washable Vintage Area Rug - Soft Velvet, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-gaomon-area-rug-5x7-machine-pho-0xt3ctmv-1): Discover the GARVEE 5x7 area rug, crafted from premium polyester for durability. Its non-slip design and machine washable feature make it perfect for high traffic areas.
-  Updated: 2025-11-11T04:42:33Z
+  Updated: 2025-11-11T09:49:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Ox2T5DptL_8afa23f9-5c4b-4a69-977a-566a76f905e5.jpg?v=1723040666
   Price: $59.99 USD
 - [GARVEE Large Area Rug - Soft, Washable, and Vintage Design for Your Home](https://www.garvee.com/products/garvee-iminrome-large-area-rug-8x10-pho-0xt3399w-1): Discover the GARVEE 8x10 Large Area Rug, featuring soft polyester, vintage charm, and easy machine washability. Perfect for kids and pets!
-  Updated: 2025-11-11T04:42:33Z
+  Updated: 2025-11-11T09:49:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91IgspjihXL_641fe758-288f-4465-a33e-48f71a35d388.jpg?v=1723040666
   Price: $92.99 USD
 - [GARVEE Washable Rug - Stylish and Easy to Clean](https://www.garvee.com/products/garvee-gaomon-washable-rug-4x6-bedroom-pho-108aiskx): Discover the GARVEE Washable Rug, a stylish, low-pile area rug that is machine washable, non-slip, and perfect for homes with kids and pets. Easy care and vintage design!
-  Updated: 2025-11-11T04:42:35Z
+  Updated: 2025-11-11T09:49:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81lA6b2EKIL.jpg?v=1727691539
   Price: $30.99 USD
 - [GARVEE 9x12 Large Living Room Area Rug - Vintage Washable Non-Slip Design](https://www.garvee.com/products/garvee-9x12-large-living-room-area-rug-washable-rug-vintage-accent-floor-cover-retro-distressed-area-rug-non-slip-indoor-area-rug-for-bedroom-home-office-grey-garvee): Discover the GARVEE 9x12 area rug, featuring a vintage design, machine washable convenience, non-slip backing, and stain resistance, perfect for family and pets.
-  Updated: 2025-11-11T04:42:37Z
+  Updated: 2025-11-11T09:49:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81fcyvkJMVL.jpg?v=1727691650
   Price: $145.99 USD
 - [Stylish GARVEE 2x6 Long Hallway Runner Rug - Vintage & Washable](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-long-pho-108aaxjg): Discover the GARVEE 2x6 Long Hallway Runner Rug, a stylish, machine washable, non-slip rug made from premium polyester. Perfect for high traffic areas, family, and pets.
-  Updated: 2025-11-11T04:42:38Z
+  Updated: 2025-11-11T10:16:27Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81GnB4PWO0L.jpg?v=1723040674
   Price: $40.99 USD
 - [GARVEE 8x10 Vintage Machine Washable Area Rug - Stylish & Family Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-8x10-large-pho-108a2y32): Discover the GARVEE 8x10 vintage area rug, machine washable, non-slip, and stain-resistant. Perfect for high traffic areas, stylish for any room!
-  Updated: 2025-11-11T04:42:39Z
+  Updated: 2025-11-11T09:49:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AgdJMh-AL.jpg?v=1727691555
   Price: $100.99 USD
 - [GARVEE 9x12 Large Washable Area Rug - Vintage Design for Home](https://www.garvee.com/products/garvee-9x12-large-living-room-area-rug-washable-rug-vintage-accent-floor-cover-retro-distressed-area-rug-non-slip-indoor-area-rug-for-bedroom-home-office-blue-garvee): Discover the GARVEE 9x12 Large Area Rug, featuring a stylish vintage design, machine washable convenience, non-slip backing, and family-friendly durability.
-  Updated: 2025-11-11T04:42:39Z
+  Updated: 2025-11-11T09:49:24Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1705115957120.jpg?v=1745380787
   Price: $129.99 USD
 - [GARVEE 9x12 Large Washable Vintage Area Rug - Stylish & Non-Slip](https://www.garvee.com/products/garvee-9x12-large-living-room-area-rug-washable-rug-vintage-accent-floor-cover-retro-distressed-area-rug-non-slip-indoor-area-rug-for-bedroom-home-office-pink-garvee): Discover the GARVEE 9x12 Large Vintage Area Rug, machine washable, non-slip, and perfect for high traffic areas. Family and pet friendly with a stylish design!
-  Updated: 2025-11-11T04:42:40Z
+  Updated: 2025-11-11T09:49:25Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1704866158663_d9b10256-a60f-4956-8aa8-ab9744a879b9.jpg?v=1753852158
   Price: $126.99 USD
 - [GARVEE 9x12 Area Rug - Stylish, Washable, Non-Slip Boho Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-non-slip-boho-rug-floor-mats-throw-rugs-for-dining-room-oriental-carpet-stain-resistant-no-shedding-classroom-office-rug-9x12-grey-blush-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a chic boho design, stain-resistant faux wool, and non-slip backing. Perfect for high-traffic areas, it's machine washable!
-  Updated: 2025-11-11T04:42:47Z
+  Updated: 2025-11-11T09:49:32Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xtsWy2F5L_0a17e752-00b7-4280-a0ca-6304ac487fe8.jpg?v=1723040681
   Price: $100.99 USD
 - [GARVEE 9x12 Non-Slip Washable Area Rug - Vintage Boho Floral Design](https://www.garvee.com/products/garvee-rug-9x12-living-room-bedroom-non-slip-washable-indoor-area-rug-rug-vintage-distressed-area-rug-boho-floral-carpet-for-living-room-bedroom-kitchen-home-office-ivory-black-garvee-1): Enhance your home with the GARVEE 9x12 area rug. Durable, non-slip, and machine washable, it's perfect for high-traffic areas. Stylish floral design adds elegance.
-  Updated: 2025-11-11T04:42:50Z
+  Updated: 2025-11-11T09:49:35Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24438,7 +24452,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91LCQsVpzkL_4dd74543-93b7-4dfe-bdb7-08b0f36f8b55.jpg?v=1723040730
   Price: $54.99 USD
 - [GARVEE 9x12 Boho Chic Abstract Watercolor Design Rug - Soft, Non-Slip, Washable](https://www.garvee.com/products/garvee-large-area-rug-9x12-boho-chic-abstract-watercolor-design-rug-washable-rug-low-pile-thin-rug-non-slip-soft-rug-contemporary-accent-carpet-for-dining-room-pink-multi-garvee-1): Discover the GARVEE 9x12 area rug with a stunning abstract design. Made from premium polyester, it's non-slip, washable, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:43:09Z
+  Updated: 2025-11-11T09:49:53Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -24466,112 +24480,112 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81dNJTumKJL.jpg?v=1727691617
   Price: $45.99 USD
 - [GARVEE Large 8x10 Abstract Modern Geometric Area Rug - Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-iminrome-large-rug-8x10-abstract-pho-1175f8ry-1): Discover the GARVEE 8x10 Abstract Area Rug, crafted from premium polyester with a non-slip backing. Perfect for kids and pets, machine washable, and stylish!
-  Updated: 2025-11-11T04:43:20Z
+  Updated: 2025-11-11T09:50:04Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tNB8UucaL_c64443cf-0c2b-4272-9e62-9e6d04fada70.jpg?v=1723040822
   Price: $120.99 USD
 - [GARVEE Washable Rug 9x12 - Modern Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-washable-rug-9x12-modern-geometric-distressed-rug-abstract-rug-non-slip-non-shedding-area-rug-machine-washable-indoor-carpet-for-bedroom-living-room-brown-garvee-1): Discover the GARVEE Washable Rug, featuring a non-slip design, premium polyester material, and child-friendly features. Perfect for high traffic areas!
-  Updated: 2025-11-11T04:43:24Z
+  Updated: 2025-11-11T09:50:09Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tNB8UucaL_e697a4f3-256f-4ab3-9dba-8866e161b229.jpg?v=1723040827
   Price: $146.99 USD
 - [GARVEE 5x7 Abstract Modern Geometric Area Rug - Washable & Non-Slip](https://www.garvee.com/products/garvee-iminrome-area-rug-5x7-abstract-pho-1175cog1-1): Discover the GARVEE 5x7 Abstract Area Rug, crafted from premium polyester, non-slip, washable, and perfect for kids and pets. Elevate your home decor!
-  Updated: 2025-11-11T04:43:25Z
+  Updated: 2025-11-11T09:50:09Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91tNB8UucaL_1d10a273-61af-4f5e-95bd-08f0786dcee6.jpg?v=1723040828
   Price: $73.99 USD
 - [GARVEE Washable Area Rug - Non-Slip, Vintage Design, Perfect for Kids & Pets](https://www.garvee.com/products/garvee-iminrome-area-rug-2x6-washable-pho-0zuea8t6-1): Discover the GARVEE Area Rug, featuring a non-slip backing, premium polyester, and a vintage geometric design. Ideal for high traffic areas, it's child and pet-friendly!
-  Updated: 2025-11-11T04:43:28Z
+  Updated: 2025-11-11T10:16:38Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/811vApe5S9L_ffce1fef-a37a-485f-9468-f66d484ac0af.jpg?v=1723040832
   Price: $39.99 USD
 - [GARVEE Round Rug - Vintage Medallion Area Rug with Non-Slip Backing](https://www.garvee.com/products/garvee-iminrome-round-rug-4-diameter-pho-0zuejr6e-1): Discover the GARVEE Round Rug, a 4' vintage medallion area rug featuring non-slip backing, premium polyester, and child & pet-friendly design. Perfect for any room!
-  Updated: 2025-11-11T04:43:28Z
+  Updated: 2025-11-11T10:16:38Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AAN73QtCL_4bc11916-b129-42cc-9f49-cc35f462e99f.jpg?v=1723040833
   Price: $45.99 USD
 - [GARVEE 2x6 Washable Rug Runner - Vintage Design & Non-Slip](https://www.garvee.com/products/garvee-iminrome-area-rug-2x6-washable-pho-0zuero6h-1): Discover the GARVEE 2x6 Washable Rug Runner, featuring a vintage geometric design, premium polyester material, and non-slip backing, perfect for high traffic areas.
-  Updated: 2025-11-11T04:43:29Z
+  Updated: 2025-11-11T10:16:39Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81Qr7oI5F0L_c93a3e74-6ec5-478c-a159-de954072c4d1.jpg?v=1723040832
   Price: $34.99 USD
 - [GARVEE Washable Rug 5x7 Vintage Medallion Area Rug - Perfect for Home](https://www.garvee.com/products/garvee-iminrome-washable-rug-5x7-vintage-pho-0zue930t-1): Discover the GARVEE Washable Rug, featuring a non-slip, child-friendly design with premium polyester for comfort. Its vintage geometric pattern adds elegance to any room.
-  Updated: 2025-11-11T04:43:30Z
+  Updated: 2025-11-11T09:50:14Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91p85iif0nL_b2b2219b-2e57-4961-817b-ddb7c3cac450.jpg?v=1723040833
   Price: $55.99 USD
 - [GARVEE Washable Area Rug 9x12 - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rug-9x12-large-indoor-rugs-soft-vintage-medallion-rugs-non-slip-backing-stain-resistant-for-farmhouse-office-grey-beige-garvee-1): Discover the GARVEE 9x12 Washable Area Rug, featuring a vintage design, premium polyester fibers, and non-slip backing. Ideal for homes with kids and pets!
-  Updated: 2025-11-11T04:43:31Z
+  Updated: 2025-11-11T09:50:15Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81PJk8BpDoL.jpg?v=1727691718
   Price: $118.99 USD
 - [GARVEE Washable Vintage Medallion Area Rug - Soft, Non-Slip, Child & Pet Friendly](https://www.garvee.com/products/garvee-iminrome-washable-rug-5x7-vintage-pho-0zueh016-1): Discover the GARVEE Washable Rug, featuring a vintage design, premium polyester material, and non-slip backing. Perfect for high traffic areas, child and pet friendly!
-  Updated: 2025-11-11T04:43:32Z
+  Updated: 2025-11-11T09:50:16Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815APtzaF4L_951aed3f-51ee-4341-9b3f-59aa996ba08a.jpg?v=1723040837
   Price: $46.99 USD
 - [GARVEE Vintage Rug 4x6 - Soft, Non-Slip, and Washable Area Rug](https://www.garvee.com/products/garvee-iminrome-vintage-rug-4x6-machine-pho-0zuen6jv-1): Discover the GARVEE Vintage Rug, a soft, non-slip, and machine washable area rug perfect for high traffic areas. Ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:43:33Z
+  Updated: 2025-11-11T09:50:17Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91p85iif0nL_12e7e064-4071-46f7-b820-58cbded4851c.jpg?v=1723040838
   Price: $59.99 USD
 - [GARVEE Large Area Rug 8x10 Vintage Medallion - Non-Slip & Washable](https://www.garvee.com/products/garvee-iminrome-large-area-rug-8x10-pho-0zuexn50-1): Discover the GARVEE 8x10 Vintage Medallion Rug, featuring a non-slip design, premium polyester material, and pet-friendly qualities, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:43:33Z
+  Updated: 2025-11-11T09:50:18Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91p85iif0nL_f3ac5a61-310d-44e8-9039-a23d5e62cb69.jpg?v=1723040837
   Price: $86.99 USD
 - [GARVEE Large Area Rug 8x10 Vintage Medallion Non Slip](https://www.garvee.com/products/garvee-iminrome-large-area-rug-8x10-pho-0zue0mn1-1): Discover the GARVEE 8x10 vintage rug, featuring a non-slip, washable design, premium polyester material, and child & pet-friendly features, perfect for high traffic areas.
-  Updated: 2025-11-11T04:43:34Z
+  Updated: 2025-11-11T09:50:19Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81H9QPU5FmL.jpg?v=1727691700
   Price: $98.99 USD
 - [GARVEE Washable Area Rug 9x12 - Soft, Vintage, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-washable-area-rug-9x12-large-indoor-rugs-soft-vintage-medallion-rugs-non-slip-backing-stain-resistant-for-farmhouse-office-navy-garvee-1): Discover the GARVEE Washable Area Rug, featuring a soft vintage design, non-slip backing, and stain resistance. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:43:35Z
+  Updated: 2025-11-11T09:50:19Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91p85iif0nL_b79f1f7b-1659-4b52-a785-53849790f53b.jpg?v=1723040837
   Price: $146.99 USD
 - [GARVEE Vintage Rug 4x6 - Soft, Washable, Non-Slip Area Rug for Home](https://www.garvee.com/products/garvee-iminrome-vintage-rug-4x6-machine-pho-0zue4xcv-1): Elevate your space with the GARVEE Vintage Rug. Soft, non-slip, and machine washable, it's perfect for kids and pets, combining style and durability.
-  Updated: 2025-11-11T04:43:36Z
+  Updated: 2025-11-11T09:50:20Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51UCBScMhUL_c96099c8-87c3-4a32-ae14-bcf12a1c0701.jpg?v=1727691721
   Price: $67.99 USD
 - [GARVEE Runner Rug - Vintage Floral Design, Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-feet-pho-105jdmza-1): Discover the GARVEE Runner Rug, featuring a vintage floral design, washable, non-slip, and stain-resistant for high-traffic areas. Perfect for any room!
-  Updated: 2025-11-11T04:43:39Z
+  Updated: 2025-11-11T10:16:42Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Z_ZNrUIqL_db76be2f-d50a-4b48-81bf-bbb2bd1229f5.jpg?v=1723040865
   Price: $41.99 USD
 - [GARVEE 8x10 Vintage Floral Area Rug - Non-Slip, Washable, Stain Resistant](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-vintage-pho-105juar9-1): Elevate your space with GARVEE's 8x10 vintage floral area rug. Durable, non-slip, and machine washable, it's perfect for high-traffic areas and pet-friendly homes.
-  Updated: 2025-11-11T04:43:41Z
+  Updated: 2025-11-11T09:50:25Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24648,7 +24662,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1714619073135.jpg?v=1750741585
   Price: $118.99 USD
 - [GARVEE Area Rug - Vintage Design, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-gaomon-area-rug-for-living-pho-147lepis-2): Transform your space with the GARVEE Area Rug. Its vintage distressed design, machine washable feature, and non-slip backing offer style and convenience for any room.
-  Updated: 2025-11-11T04:43:54Z
+  Updated: 2025-11-11T09:50:38Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24662,7 +24676,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1714619088915.jpg?v=1750741574
   Price: $147.99 USD
 - [GARVEE Vintage Print Area Rug - 4x6 Washable Chenille Rug](https://www.garvee.com/products/garvee-rugsreal-area-rug-4x6-washable-pho-0xt1cwbu-1): Discover the GARVEE 4x6 Vintage Print Rug, featuring soft, washable fabric and non-slip backing, perfect for adding elegance and comfort to any room.
-  Updated: 2025-11-11T04:43:56Z
+  Updated: 2025-11-11T09:50:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24718,42 +24732,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Ifo3HUnGL_76378a2e-91a2-450f-bdbf-c3010115ad5d.jpg?v=1723040984
   Price: $139.99 USD
 - [Garvee Washable Rug 6x9 Boho Soft Living Room Rugs Indoor Distressed Floor Carpet Vintage Rustic Farmhouse Area Rugs for Bedroom Non Slip Foldable Thin Rug for Kitchen Dining Room Kids Room Blue](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-boho-pho-11qdmtf6-1): PREMIUM QUALITY - Our vintage area rug made with high density polyester fibers, with traditional medallion pattern, chic and classic, with soft and light luxury, will bring a high-end feel to your home. NON SLIP - Stays stable where you place it, the washable rug prevent dangerous slides and slips, safety for daily use, especially for high traffic areas. The TPR backing helps the rug stays in place well. For children playing on the floor is a great choice, it can give them more comfy feeling and security. Actual colors and size may vary from the image(s) shown due to manufacturing limitations, please kindly notice that. LOW PILE - Our GARVEE Oriental Printed Area Rugs designed with low pile non-shedding soft surface, ideal for daily use and high traffic areas. Enter this stylish rug, keeping a rug clean is no longer difficult. EASY MAINTENANCE - Our machine washable area rug can be kept looking its best by vacuuming regularly and spot treating any mild stains. For a deep clean, you can throw it into the wash machine to wash it. Making care convenient and keeping rug look good as new, easy to treat. MULTI-SIZES FOR YOU TO CHOOSE - Our boho rugs have various colors and sizes for your different needs. Each rug is suitable for most interior designs and makes for a subtle yet profound addition to any room. Perfect for living room, dining room, bedroom, entryway, nursery, dorm room, study, home office, or eat-in kitchen. Specifications Brand GARVEE Size 6 x 9 ft Material Polyester Weave Type Machine Made Pile Height Low Pile Construction Type Machine Made Back Material Type Thermoplastic Rubber (TPR) Color Blue Is Stain Resistant No Product Care Instructions Machine Wash Pattern Floral Shape Rectangular Special Feature Non Slip, Washable Room Type Multiple Rug Form Type Runner Number of Pieces 1 Model Name Area Rug UPC 198290269075 Item Weight 2.93 pounds .aplus_module STANDARD_PRODUCT_ATTRIBUTES h3{ margin-bottom: 10px; } .responsive-table { border-collapse: collapse; width: 100%; margin-bottom: 20px; } .responsive-table td { border: 1px solid #ddd; padding: 8px; text-align: left; } .responsive-table tr:nth-child(odd) { background-color: #F2F2F2; } .responsive-table tr:nth-child(even) { background-color: #E6E6E6; } .responsive-table tr:hover { background-color: #DDDDDD; } @media screen and (max-width: 800px) { .responsive-table td { box-sizing: border-box; width: 100%; text-align: left; padding: 10px; } .responsive-table tr:nth-child(odd) td { background-color: #F2F2F2; } .responsive-table tr:nth-child(even) td { background-color: #E6E6E6; } .responsive-table tr:hover td { background-color: #DDDDDD; } } .aplus_module{ margin-bottom:24px; } .aplus_module img{ width:100%; } .aplus_module h1,h2,h3,h4,h5,h6{ margin:0 !important; } .count_imgs_wrap{ display:flex; } .count_imgs_wrap>div{ flex: 1; margin-right: 30px; } .count_imgs_wrap>div:last-child { margin-right: 0; } @media screen and (max-width:800px){ .count_imgs_wrap{ flex-direction: column; } .count_imgs_wrap>div{ margin-right: 0; } .count_imgs{ display:flex; justify-content: center; } .count_imgs>img{ width:auto; max-width:100%; } } .img_floatleft{ display:flex; justify-content:space-between; } .leftwrap{ flex:3; display:flex; } .lefttext{ margin:0 30px; } .lefttext>ul{ padding:0; } .lefttext>ul>li{ padding-bottom:18px; } .rightwrap{ flex:1; } .rightwrap_inner{ border-left:1px solid #dddddd; padding-left:30px; } .rightwrap_inner>ul{ background-color: white; padding:18px 32px; border-radius: 8px; } @media screen and (max-width:800px){ .img_floatleft{ flex-direction: column; } .leftwrap{ flex-direction: column; flex: initial; } .leftimage{ display:flex; justify-content: center; } .leftimage>img{ max-width:100%; width:auto; } .lefttext{ margin:0; } .lefttext>ul{ padding-left:32px; } .rightwrap{ flex: initial; } .rightwrap_inner{ border-left:0; padding-left:0; } .rightwrap_inner>ul{ padding-right:0; } }
-  Updated: 2025-11-11T04:44:02Z
+  Updated: 2025-11-11T09:50:45Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1708132595285_5be8230c-26b6-4792-a91e-0ff107d2632f.jpg?v=1749793572
   Price: $79.99 USD
 - [GARVEE Washable Rug - Premium Quality & Non-Slip Design for Every Room](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-boho-pho-11qd234d-1): Discover the GARVEE Washable Rug, crafted from high-density polyester with a non-slip backing. Perfect for high-traffic areas, easy to maintain, and stylish.
-  Updated: 2025-11-11T04:44:04Z
+  Updated: 2025-11-11T09:50:47Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1708132650987.jpg?v=1749793426
   Price: $59.99 USD
 - [GARVEE Vintage Medallion Area Rug - Soft, Non-Slip & Washable](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-vintage-medallion-rug-indoor-distressed-print-rug-soft-non-slip-throw-carpet-oriental-aesthetic-rug-boho-foldable-thin-rug-for-bedroom-home-office-grey-garvee-1): Discover the GARVEE 9x12 area rug, featuring a vintage medallion design, soft polyester material, non-slip backing, and easy maintenance, perfect for any room.
-  Updated: 2025-11-11T04:44:08Z
+  Updated: 2025-11-11T09:50:50Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xapgxS-hL_33406ff7-ee8d-4e1a-88a1-ab88d53f11d9.jpg?v=1723041024
   Price: $139.99 USD
 - [GARVEE Vintage Floral Area Rug - Soft, Non-Slip, Washable 5x7 Indoor Mat](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-11qdxbvx-1): Transform your space with GARVEE's 5x7 vintage floral rug. Made from premium polyester, it's soft, non-slip, and machine washable, perfect for any room.
-  Updated: 2025-11-11T04:44:08Z
+  Updated: 2025-11-11T09:50:51Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Vr77KXKGL_cf83d87f-5057-4a40-9575-def0c0242850.jpg?v=1723041023
   Price: $53.99 USD
 - [GARVEE 8x10 Vintage Washable Area Rug - Non-Slip Floral Design](https://www.garvee.com/products/garvee-gaomon-8x10-area-rugs-for-pho-11qdohj1-1): Discover the GARVEE 8x10 Area Rug, crafted from premium polyester with a chic floral design. Lightweight, non-slip, and machine washable for easy maintenance!
-  Updated: 2025-11-11T04:44:09Z
+  Updated: 2025-11-11T09:50:52Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xapgxS-hL_9fe10c17-c0c9-4bcf-b5ff-bd46f25e7678.jpg?v=1723041024
   Price: $96.99 USD
 - [GARVEE 8x10 Vintage Washable Area Rug - Non-Slip, Lightweight, Floral Design](https://www.garvee.com/products/garvee-gaomon-8x10-area-rugs-for-pho-11qd6qsx-1): Discover the GARVEE 8x10 area rug, featuring a vintage floral design, non-slip backing, and easy maintenance. Perfect for any room, it combines style and safety!
-  Updated: 2025-11-11T04:44:10Z
+  Updated: 2025-11-11T09:50:53Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -24767,28 +24781,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71oWZ_QMKqL_3ae77742-a551-4168-9718-b2424dc6554b.jpg?v=1723702771
   Price: $569.99 USD
 - [GARVEE 9x12 Washable Area Rug - Vintage Medallion Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-vintage-medallion-rug-indoor-distressed-print-rug-soft-non-slip-throw-carpet-oriental-aesthetic-rug-boho-foldable-thin-rug-for-bedroom-home-office-blue-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a soft, non-slip design and easy maintenance. Perfect for high-traffic areas, it combines style and safety effortlessly.
-  Updated: 2025-11-11T04:44:11Z
+  Updated: 2025-11-11T09:50:54Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/817gWC7Zc7L_1f3637b3-3ded-4ad5-8097-9b76d37e05f0.jpg?v=1723041024
   Price: $120.99 USD
 - [GARVEE Vintage Floral Area Rug - Soft, Non-Slip, Washable 5x7 Rug for Home](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-11qdym5w-1): Discover GARVEE's 5x7 Vintage Floral Area Rug, crafted from high-density polyester. Non-slip, washable, and low pile, perfect for high traffic areas!
-  Updated: 2025-11-11T04:44:12Z
+  Updated: 2025-11-11T09:50:55Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91xapgxS-hL_678671a9-7339-4bd8-b0af-775e4d4f7d11.jpg?v=1723041024
   Price: $54.99 USD
 - [Garvee Non Slip Washable Area Rugs 6x9 Grey Boho Persian Living Room Bedroom](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-boho-pho-11qdnsut-1): Discover the GARVEE Washable Rug: a soft, non-slip, low-pile carpet perfect for high-traffic areas. Easy to maintain, stylish, and available in multiple sizes.
-  Updated: 2025-11-11T04:44:19Z
+  Updated: 2025-11-11T09:51:01Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91U3pdf11XL.jpg?v=1727691726
   Price: $59.99 USD
 - [GARVEE 9x12 Vintage Medallion Area Rug - Soft, Non-Slip, Washable for Home](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-vintage-medallion-rug-indoor-distressed-print-rug-soft-non-slip-throw-carpet-oriental-aesthetic-rug-boho-foldable-thin-rug-for-bedroom-home-office-red-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring premium polyester, a non-slip design, and easy maintenance. Perfect for any room, adding style and comfort.
-  Updated: 2025-11-11T04:44:20Z
+  Updated: 2025-11-11T09:51:02Z
   Vendor: Garvee
   Product Type: Rugs > Persian Rugs
   Availability: Available
@@ -24858,70 +24872,70 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Oo8awaubL_722f67bf-67bc-4dd1-90a9-9e72d74d72e3.jpg?v=1723041115
   Price: $448.99 USD
 - [GARVEE Vintage Floral Runner Rug - Stylish & Washable](https://www.garvee.com/products/garvee-westloom-vintage-floral-runner-rug-pho-134lxvxg-1): Discover the GARVEE Vintage Floral Runner Rug, featuring a soft, non-slip design and easy machine washability. Perfect for high-traffic areas, it adds elegance to any room.
-  Updated: 2025-11-11T04:44:33Z
+  Updated: 2025-11-11T10:16:54Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81zGdUHpZsL_dc21439f-132a-4836-b061-a3001edd3114.jpg?v=1723041143
   Price: $42.99 USD
 - [GARVEE Washable Vintage Floral Rug - Soft, Non-Slip, Easy Maintenance](https://www.garvee.com/products/garvee-gaomon-washable-rug-2x6-vintage-pho-134ljon5-1): Discover the GARVEE Washable Rug, featuring premium polyester, non-slip backing, and low pile design. Perfect for high traffic areas, easy to clean, and stylish!
-  Updated: 2025-11-11T04:44:34Z
+  Updated: 2025-11-11T10:16:55Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81b6sUrwyuL_e3157b8d-45a7-429a-b849-48633727f501.jpg?v=1723041147
   Price: $42.99 USD
 - [GARVEE Vintage Washable Rug - Soft, Non-Slip, and Easy to Maintain](https://www.garvee.com/products/garvee-gaomon-vintage-washable-rug-5x7-pho-134libnk-1): Discover the GARVEE Vintage Washable Rug, featuring premium polyester, non-slip backing, and low pile design for comfort and style. Perfect for any room!
-  Updated: 2025-11-11T04:44:35Z
+  Updated: 2025-11-11T09:51:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aukn2SIlL_9c02bc6e-03a3-41b9-8e90-a54801b1fece.jpg?v=1723041147
   Price: $70.99 USD
 - [GARVEE Vintage Washable Rug - Boho Tribal Area Rug for Living Room](https://www.garvee.com/products/garvee-gaomon-vintage-washable-rug-5x7-pho-134l6cna-1): Discover the GARVEE Vintage Washable Rug, featuring premium polyester, non-slip design, and low pile for easy maintenance. Perfect for any room!
-  Updated: 2025-11-11T04:44:36Z
+  Updated: 2025-11-11T09:51:16Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91j5SuswN_L_907a3d33-9d61-4154-9fcf-e68c445edf48.jpg?v=1723041148
   Price: $60.99 USD
 - [Premium GARVEE 9x12 Area Rug - Soft, Non-Slip & Washable](https://www.garvee.com/products/garvee-area-rug-9x12-living-room-rugs-washable-rug-large-boho-bedroom-rug-soft-floral-distressed-rug-indoor-non-slip-non-shedding-aesthetic-carpet-for-dining-room-nursery-kids-room-playroom-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, made from high-density polyester, featuring a soft floral design. Non-slip, low pile, and easy to maintain, perfect for any room.
-  Updated: 2025-11-11T04:44:36Z
+  Updated: 2025-11-11T09:51:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91aukn2SIlL_f53fc07a-8510-48b3-845f-acfc0cfe61d3.jpg?v=1723041150
   Price: $159.99 USD
 - [GARVEE Vintage Floral Washable Rug - 8x10 Large Non-Slip Carpet](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-134lb4gs-1): Enhance your space with GARVEE's 8x10 vintage floral rug. Soft, low pile, non-slip design ensures safety and easy maintenance, perfect for high traffic areas.
-  Updated: 2025-11-11T04:44:37Z
+  Updated: 2025-11-11T09:51:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91j5SuswN_L_a2d46ab9-f42c-43f8-a269-9201d634f5d7.jpg?v=1723041147
   Price: $103.99 USD
 - [GARVEE 8x10 Vintage Area Rug - Non-Slip & Washable](https://www.garvee.com/products/garvee-westloom-8x10-area-rugs-for-pho-134lbu63-1): Transform your space with GARVEE's 8x10 vintage floral area rug. Durable, non-slip, and machine washable, it combines elegance with practicality for any room.
-  Updated: 2025-11-11T04:44:38Z
+  Updated: 2025-11-11T09:51:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nT8XzZEyL_bd7b2bb5-6cc1-4c0a-979c-32fcce5b9e19.jpg?v=1723041148
   Price: $103.99 USD
 - [GARVEE 9x12 Area Rug - Soft Floral Non-Slip Washable Carpet](https://www.garvee.com/products/garvee-area-rug-9x12-living-room-rugs-washable-rug-large-boho-bedroom-rug-soft-floral-distressed-rug-indoor-non-slip-non-shedding-aesthetic-carpet-for-dining-room-nursery-kids-room-playroom-orange-garvee-1): Elevate your space with GARVEE's 9x12 area rug. Made from premium polyester, this non-slip, low-pile rug is easy to maintain and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:44:39Z
+  Updated: 2025-11-11T09:51:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91j5SuswN_L_5d2f2010-0eea-4aa8-99d2-2856ff0ef6b9.jpg?v=1723041148
   Price: $99.99 USD
 - [GARVEE 9x12 Washable Area Rug – Soft Floral Design for Every Room](https://www.garvee.com/products/garvee-area-rug-9x12-living-room-rugs-washable-rug-large-boho-bedroom-rug-soft-floral-distressed-rug-indoor-non-slip-non-shedding-aesthetic-carpet-for-dining-room-nursery-kids-room-playroom-teal-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a soft, non-slip, low-pile design. Perfect for high-traffic areas, it's machine washable and adds a vintage touch to any space.
-  Updated: 2025-11-11T04:44:39Z
+  Updated: 2025-11-11T09:51:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91uMiZihSLL_b723276e-dd99-4a34-8807-d64343644eac.jpg?v=1723041147
   Price: $155.99 USD
 - [GARVEE Vintage Floral Washable Rug - Soft, Non-Slip, Easy Care](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-134lbjov-1): Enhance your space with GARVEE's vintage floral rug. Made of premium polyester, it's soft, non-slip, and machine washable for easy maintenance. Perfect for any room!
-  Updated: 2025-11-11T04:44:40Z
+  Updated: 2025-11-11T09:51:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -24949,7 +24963,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51-vILSTqYL_d40919bb-08d8-4d31-8fe2-6028ddffe3b3.jpg?v=1762743895
   Price: $155.99 USD
 - [GARVEE Stainless Steel Work Table - Versatile for Indoor and Outdoor Use](https://www.garvee.com/products/garvee-gaomon-stainless-steel-work-table-pho-10al2tel-1): Discover the GARVEE Stainless Steel Work Table, perfect for kitchens, garages, and more. Its multifunctional design supports various tasks with ease.
-  Updated: 2025-11-11T03:09:52Z
+  Updated: 2025-11-11T09:10:02Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Restaurant Furniture > Stainless Steel Work Table
   Availability: Available
@@ -24998,7 +25012,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/519P6KwkpqL_424c02e0-5e4d-45c1-a5d3-aab214459d47.jpg?v=1723041395
   Price: $339.99 USD
 - [GARVEE Modern Runner Rugs - Stylish & Functional Area Rugs](https://www.garvee.com/products/garvee-zacoo-modern-runner-rugs-for-pho-11g38vk5-1): Discover GARVEE's 2x6 Modern Runner Rug, featuring soft faux wool, non-slip backing, and easy maintenance. Perfect for any room, pet-friendly, and machine washable!
-  Updated: 2025-11-11T04:44:51Z
+  Updated: 2025-11-11T10:16:58Z
   Vendor: Garvee
   Product Type: Rugs > Floral & Paisley Rugs
   Availability: Available
@@ -25068,7 +25082,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/713pLx4BSsL_ec06c49a-d0a5-49c9-9966-c8b0de750f59.jpg?v=1723041860
   Price: $102.99 USD
 - [GARVEE Machine Washable Area Rug - Modern Moroccan Design for Home Decor](https://www.garvee.com/products/garvee-gaomon-machine-washable-area-rug-pho-1059wb75-1): Upgrade your space with the GARVEE 5x7 area rug, featuring stain-resistant, non-slip, and machine washable design. Perfect for high-traffic areas, pets, and kids!
-  Updated: 2025-11-11T04:44:55Z
+  Updated: 2025-11-11T09:51:35Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
@@ -25082,56 +25096,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/918uc7AcFML_9adac942-b09f-4be7-ac68-be9dc93a0932.jpg?v=1723041866
   Price: $97.99 USD
 - [GARVEE 8x10 Modern Moroccan Area Rug - Durable, Washable, Non-Slip](https://www.garvee.com/products/garvee-gaomon-8x10-area-rug-modern-pho-1059ebxq-1): Elevate your home decor with the GARVEE 8x10 Area Rug. This modern, machine washable rug features a geometric design, is stain-resistant, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:44:58Z
+  Updated: 2025-11-11T09:51:38Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81wJ274j_JL_35596246-3fc4-427e-b5ac-498da1a02df3.jpg?v=1723041866
   Price: $75.99 USD
 - [GARVEE 9x12 Area Rug - Modern Moroccan Design](https://www.garvee.com/products/garvee-9x12-area-rug-modern-moroccan-machine-washable-area-rug-for-living-room-bedroom-contemporary-geometric-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-floor-decoration-navy-garvee-1): Transform your space with GARVEE's 9x12 Area Rug. Durable, stain-resistant, and machine washable, this non-slip rug features a stylish geometric pattern, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:44:59Z
+  Updated: 2025-11-11T09:51:39Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91MtnvPwm4L_bfb1c797-4b43-4a10-9445-3793913001cb.jpg?v=1723041870
   Price: $99.99 USD
 - [GARVEE Moroccan Area Rug - Soft, Washable, Non-Slip, Elegant Design](https://www.garvee.com/products/garvee-moroccan-area-rug-for-living-room-9x12-ultra-thin-soft-large-rug-for-bedroom-washable-non-slip-carpet-with-rubble-backing-for-dining-room-office-blue-garvee): Discover the GARVEE Moroccan Area Rug: ultra-thin, machine washable, non-slip, and stain-resistant. Perfect for any room, adding elegance and comfort.
-  Updated: 2025-11-11T04:45:02Z
+  Updated: 2025-11-11T09:51:42Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912U2D0_FAL_9bfabab4-f435-42c5-92df-b8088fed12a9.jpg?v=1723041884
   Price: $94.99 USD
 - [GARVEE Moroccan Area Rug - Soft, Washable, Non-Slip](https://www.garvee.com/products/garvee-garveehome-moroccan-area-rug-for-pho-13jrnzud): Enhance your home with the GARVEE Moroccan Area Rug. This ultra-thin, machine washable rug features a non-slip backing, is stain resistant, and offers vintage charm.
-  Updated: 2025-11-11T04:45:03Z
+  Updated: 2025-11-11T09:51:42Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912U2D0_FAL.jpg?v=1723041884
   Price: $74.99 USD
 - [GARVEE Moroccan Area Rug - Ultra-Thin, Washable, Non-Slip](https://www.garvee.com/products/garvee-moroccan-area-rug-for-living-room-9x12-ultra-thin-soft-large-rug-for-bedroom-washable-non-slip-carpet-with-rubble-backing-for-dining-room-office-brown-garvee): Transform your space with the GARVEE Moroccan Area Rug. This 9x12 ultra-thin, machine-washable rug offers non-slip safety, vintage charm, and easy maintenance.
-  Updated: 2025-11-11T04:45:04Z
+  Updated: 2025-11-11T09:51:43Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51AexlNC0OL.jpg?v=1723041884
   Price: $99.99 USD
 - [GARVEE Moroccan Area Rug - Washable, Non-Slip, Soft & Stylish](https://www.garvee.com/products/garvee-garveehome-moroccan-area-rug-for-pho-13jrdhrb): Transform your space with the GARVEE Moroccan Area Rug. This ultra-thin, machine-washable rug features a non-slip backing and vintage design, perfect for any room.
-  Updated: 2025-11-11T04:45:05Z
+  Updated: 2025-11-11T09:51:44Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91f_hLWujlL.jpg?v=1723041884
   Price: $60.99 USD
 - [GARVEE Moroccan Area Rug - Soft, Washable, Non-Slip Design](https://www.garvee.com/products/garvee-garveehome-moroccan-area-rug-for-pho-13jr21bq): Transform your space with the GARVEE Moroccan Area Rug. This ultra-thin, machine-washable rug features a non-slip backing and is perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:05Z
+  Updated: 2025-11-11T09:51:45Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912U2D0_FAL_e4d83442-2bf1-4755-9147-78e8ac5ceb2d.jpg?v=1723041884
   Price: $43.99 USD
 - [GARVEE Moroccan Area Rug - Stylish & Washable 8x10 Rug for Home](https://www.garvee.com/products/garvee-garveehome-moroccan-area-rug-for-pho-13jrw51h): Transform your space with the GARVEE Moroccan Area Rug. This ultra-thin, machine-washable rug features a non-slip backing, vintage charm, and easy maintenance.
-  Updated: 2025-11-11T04:45:06Z
+  Updated: 2025-11-11T09:51:45Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
@@ -25159,21 +25173,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81txXWyUx5L_597d1c19-6d57-40e7-bb13-36eebdb63976.jpg?v=1723041938
   Price: $85.99 USD
 - [GARVEE Vintage Area Rug 5x7 - Soft, Non-Slip, and Washable](https://www.garvee.com/products/garvee-glowsol-area-rug-5x7-vintage-pho-0yi47mz6-1): Discover the GARVEE Vintage Area Rug 5x7, crafted from premium polyester for a soft touch. Non-slip, child and pet-friendly, perfect for high traffic areas.
-  Updated: 2025-11-11T04:45:10Z
+  Updated: 2025-11-11T09:51:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81txXWyUx5L_5d94d95e-899a-479d-9490-f8d8dd954690.jpg?v=1723041938
   Price: $60.99 USD
 - [GARVEE Vintage Area Rug - Machine Washable, Non-Slip, Child & Pet Friendly](https://www.garvee.com/products/garvee-glowsol-area-rug-4x6-vintage-pho-0yi4xuxo-1): Discover the GARVEE Vintage Area Rug, featuring premium polyester, a non-slip design, and machine washability. Perfect for high traffic areas and family-friendly.
-  Updated: 2025-11-11T04:45:11Z
+  Updated: 2025-11-11T09:51:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81txXWyUx5L_862aa69a-b8ee-4436-ba96-ca217a6d40c0.jpg?v=1723041937
   Price: $54.99 USD
 - [GARVEE Vintage Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-glowsol-area-rug-8x10-vintage-pho-0yi4zm2i-1): Discover the GARVEE Vintage Area Rug, crafted from premium polyester, featuring a non-slip backing, child and pet-friendly design, and easy machine washability.
-  Updated: 2025-11-11T04:45:12Z
+  Updated: 2025-11-11T09:51:51Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25250,7 +25264,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61cAdpCYqtL_039e4a13-8a9f-43e1-b08b-ffe31456de70.jpg?v=1723042170
   Price: $170.99 USD
 - [GARVEE Area Rugs: Stylish, Durable & Machine Washable](https://www.garvee.com/products/garvee-nanan-area-rugs-8x10-large-pho-11vvlv7j-1): Discover the GARVEE 8x10 Boho Area Rug, perfect for high-traffic areas. Soft, non-slip, and machine washable, it adds a cozy touch to any room.
-  Updated: 2025-11-11T04:45:18Z
+  Updated: 2025-11-11T09:51:57Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25292,63 +25306,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/514T8jiYHzL_12733204-2e01-48b2-8d61-2d4f14419f14.jpg?v=1723042283
   Price: $83.99 USD
 - [GARVEE 9x12 Washable Area Rug - Soft, Non-Slip, Modern Design for Home](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-rug-indoor-lines-print-rug-contemporary-abstract-soft-rug-aesthetic-rug-foldable-thin-rug-non-slip-throw-carpet-for-bedroom-home-office-orange-garvee-1): Transform your space with the GARVEE 9x12 washable area rug. Featuring a soft, low-pile design and non-slip backing, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:19Z
+  Updated: 2025-11-11T09:51:57Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81A1vqluR1L_e474f8d2-bd13-49d8-ab7f-5605ad050d31.jpg?v=1723042283
   Price: $169.99 USD
 - [GARVEE Washable 6x9 Area Rug - Soft, Non-Shedding, Modern Design](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-area-pho-120cu083-1): Elevate your home decor with the GARVEE Washable Rug. Made from high-density polyester, it features a non-slip backing for safety, easy maintenance, and a chic geometric design.
-  Updated: 2025-11-11T04:45:20Z
+  Updated: 2025-11-11T09:51:58Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51u88V6GX5L_586c2f37-79f6-42a0-9f97-f500611da6cc.jpg?v=1723042283
   Price: $58.99 USD
 - [GARVEE 5x7 Washable Non-Slip Area Rug - Modern Soft Indoor Carpet](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-120cghzg-1): Discover the GARVEE 5x7 Washable Rug, featuring premium polyester fibers, non-slip backing, and low pile design for easy maintenance and safety in high traffic areas.
-  Updated: 2025-11-11T04:45:21Z
+  Updated: 2025-11-11T09:51:59Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81A1vqluR1L_ee4cedb1-0c0e-42f1-b015-94f2f1bfe80e.jpg?v=1723042283
   Price: $68.99 USD
 - [GARVEE Runner Rug - Modern Washable Non-Slip Indoor Rug](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-washable-pho-120cuclq-1): Discover the GARVEE Runner Rug, crafted from high-density polyester for a soft, luxurious feel. Non-slip design ensures safety, while easy maintenance keeps it looking new.
-  Updated: 2025-11-11T04:45:21Z
+  Updated: 2025-11-11T10:17:02Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51rmqBwxCgL_f1a4dc84-87bd-4f99-aa2e-b96aaf9174dc.jpg?v=1723042283
   Price: $43.99 USD
 - [GARVEE Runner Rug - Modern Washable Indoor Rug for Hallways and Kitchens](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-washable-pho-120cp0or-1): Discover the GARVEE Runner Rug: a soft, non-slip, and washable rug made from high-density polyester, perfect for high-traffic areas. Available in various sizes.
-  Updated: 2025-11-11T04:45:22Z
+  Updated: 2025-11-11T10:17:03Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/917Lpdj3YaL_7fb65766-fc3d-41c5-bb08-0441a6b78b29.jpg?v=1723042283
   Price: $46.99 USD
 - [GARVEE 5x7 Washable Non-Slip Rug - Modern Indoor Carpet](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-120cqbvu-1): Discover the GARVEE 5x7 Washable Rug, featuring a non-slip design, low pile, and chic stripes. Perfect for any room, it's easy to maintain and adds luxury to your decor.
-  Updated: 2025-11-11T04:45:23Z
+  Updated: 2025-11-11T09:52:01Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814yZ2B27ML_7a650725-c5a2-418f-88ce-74c961cdf6d8.jpg?v=1723042282
   Price: $68.99 USD
 - [GARVEE Runner Rug - Soft, Non-Slip, Washable Modern Area Rug for Home](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-washable-pho-120cm03u-1): Discover the GARVEE Runner Rug, crafted from premium polyester with a chic geometric design. Non-slip, low pile, and machine washable for easy maintenance.
-  Updated: 2025-11-11T04:45:24Z
+  Updated: 2025-11-11T10:17:04Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91d8n3hYYVL_ba317aba-efe5-4f14-b5b6-42e6d7b72290.jpg?v=1723042283
   Price: $47.99 USD
 - [GARVEE 8x10 Living Room Rug - Premium Quality Non-Slip Washable Area Rug](https://www.garvee.com/products/garvee-gaomon-8x10-living-room-rug-pho-120c4kws-1): Elevate your space with the GARVEE 8x10 rug, featuring a soft low pile, non-slip backing, and easy maintenance. Perfect for high traffic areas and stylish decor.
-  Updated: 2025-11-11T04:45:24Z
+  Updated: 2025-11-11T09:52:03Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814yZ2B27ML_26ea1eee-0893-42f5-8d10-e7067de9bacc.jpg?v=1723042282
   Price: $99.99 USD
 - [GARVEE 9x12 Washable Area Rug - Modern Soft Non-Slip Design](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-rug-indoor-lines-print-rug-contemporary-abstract-soft-rug-aesthetic-rug-foldable-thin-rug-non-slip-throw-carpet-for-bedroom-home-office-navy-garvee-1): Elevate your home with GARVEE's 9x12 washable area rug. Crafted from premium polyester, it features a chic geometric pattern, non-slip backing, and easy maintenance.
-  Updated: 2025-11-11T04:45:25Z
+  Updated: 2025-11-11T09:52:03Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -25362,42 +25376,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71m8Gfgv_vL_6a5ecc3c-6762-4532-b378-3c00869ac66b.jpg?v=1723042283
   Price: $272.99 USD
 - [GARVEE Large Area Rugs 8x10 - Modern, Washable, and Durable](https://www.garvee.com/products/garvee-gaomon-large-area-rugs-8x10-pho-0zeslurh-1): Elevate your space with GARVEE's 8x10 light grey area rug. Made from eco-friendly materials, it's washable, durable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:26Z
+  Updated: 2025-11-11T09:52:04Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81-qQzHZi_L_f996a4cd-8f0f-4518-a865-f14cfe2f199c.jpg?v=1723042287
   Price: $135.99 USD
 - [GARVEE Runner Rug - Stylish & Durable Washable Area Rug for Modern Homes](https://www.garvee.com/products/garvee-gaomon-runner-rug-carpet-runners-pho-0zes467r-1): Discover the GARVEE Runner Rug, featuring modern geometric patterns, eco-friendly materials, and a non-slip design, perfect for high-traffic areas and easy maintenance.
-  Updated: 2025-11-11T04:45:27Z
+  Updated: 2025-11-11T10:17:06Z
   Vendor: Garvee
   Product Type: Rugs > Moroccan Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81-qQzHZi_L_e4446bbc-7422-40b0-8d02-7017a80a2340.jpg?v=1723042287
   Price: $48.99 USD
 - [Discover the GARVEE Washable Rug - Soft, Non-Slip, and Stylish](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-area-pho-120cq12d-1): Elevate your home decor with the GARVEE Washable Rug. Made from premium polyester, this non-slip, low-pile rug is easy to maintain and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:28Z
+  Updated: 2025-11-11T09:52:06Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81srEJMUZjL_d2fe59ed-1f44-4376-826b-c5188541d084.jpg?v=1723042286
   Price: $87.99 USD
 - [GARVEE Area Rugs 9x12 - Modern Washable Rug for Home](https://www.garvee.com/products/garvee-area-rugs-9x12-living-room-washable-rug-modern-rug-indoor-lines-print-rug-contemporary-abstract-soft-rug-aesthetic-rug-foldable-thin-rug-non-slip-throw-carpet-for-bedroom-home-office-black-garvee-1): Transform your space with the GARVEE 9x12 area rug. Made from premium polyester, it's soft, non-slip, and easy to maintain, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:29Z
+  Updated: 2025-11-11T09:52:07Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/814yZ2B27ML_6ba617d4-fd01-4f4e-89e0-71b547086462.jpg?v=1723042286
   Price: $140.99 USD
 - [GARVEE 5x7 Washable Non-Slip Rug - Modern Soft Indoor Carpet](https://www.garvee.com/products/garvee-gaomon-rugs-for-living-room-pho-120cfqvd-1): Discover the GARVEE 5x7 washable rug, featuring premium polyester fibers, non-slip backing, and low pile design for easy maintenance and comfort in any room.
-  Updated: 2025-11-11T04:45:30Z
+  Updated: 2025-11-11T09:52:08Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91D_M7PXYL.jpg?v=1727691533
   Price: $39.99 USD
 - [GARVEE 8x10 Living Room Rug - Washable, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-gaomon-8x10-living-room-rug-pho-120c30yf-1): Discover the GARVEE 8x10 Living Room Rug, crafted from high-density polyester with a chic geometric design. Non-slip, washable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:45:31Z
+  Updated: 2025-11-11T09:52:09Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -25467,35 +25481,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1698282587508.jpg?v=1728630990
   Price: $42.99 USD
 - [GARVEE Runner Rug - Durable, Non-Slip, and Washable Floral Area Rug](https://www.garvee.com/products/garvee-zacoo-runner-rug-entry-rug-pho-0zkxwhra-1): Discover the GARVEE Runner Rug: a durable, non-slip, and washable rug featuring a beautiful floral design. Perfect for high-traffic areas, kids, and pets!
-  Updated: 2025-11-11T04:45:33Z
+  Updated: 2025-11-11T10:17:08Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ua2217WzL_4c3117cd-a113-4b91-8e49-63b19f8b988a.jpg?v=1752205541
   Price: $38.99 USD
 - [GARVEE 4x6 Vintage Floral Rug - Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-zacoo-4x6-rug-for-living-pho-0zkxowum-1): Discover the GARVEE 4x6 Vintage Floral Rug, crafted from premium polyester. This soft, washable rug is non-slip, stain-resistant, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:45:34Z
+  Updated: 2025-11-11T09:52:12Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91VcpBvBHdL_fe930c5a-0dbb-48dd-962f-0f215cf9af11.jpg?v=1723042467
   Price: $54.99 USD
 - [GARVEE 5x7 Washable Area Rugs - Durable, Non-Slip, Vintage Floral Design](https://www.garvee.com/products/garvee-zacoo-5x7-area-rugs-for-pho-0zkxlsf4-1): Discover GARVEE's 5x7 washable area rugs, crafted from premium polyester. Stain-resistant, non-slip, and perfect for kids and pets, these rugs blend vintage charm with easy maintenance.
-  Updated: 2025-11-11T04:45:35Z
+  Updated: 2025-11-11T09:52:13Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51mjdK2jbPL_42672517-39f3-4108-8e8f-6dae22a227f5.jpg?v=1723042467
   Price: $71.99 USD
 - [GARVEE 5x7 Washable Rug - Stylish & Durable Floral Design](https://www.garvee.com/products/garvee-zacoo-5x7-rug-for-living-pho-0zkxjxg2-1): Discover the GARVEE 5x7 Rug with a vintage floral design. Made from durable polyester, it's non-slip, stain-resistant, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:45:35Z
+  Updated: 2025-11-11T09:52:13Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81nUvidpoqL_5525c08e-5d8e-4333-a01d-b993c9098808.jpg?v=1752205509
   Price: $72.99 USD
 - [GARVEE 9x12 Area Rug - Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-for-living-room-washable-rugs-boho-rug-for-bedroom-vintage-rug-non-slip-carpet-floral-throw-rugs-large-area-rug-stain-resistant-office-rug-classroom-rug-9x12-light-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, a durable, washable, and stain-resistant rug perfect for families. Its vintage floral design and non-slip backing ensure safety and style.
-  Updated: 2025-11-11T04:45:39Z
+  Updated: 2025-11-11T09:52:17Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25516,7 +25530,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71K-v7vFbuL_04d1b118-4585-4343-9086-4a7026b39455.jpg?v=1723042490
   Price: $153.99 USD
 - [GARVEE Twin Metal Daybed Frame with Trundle - Versatile Sofa Bed for Any Room](https://www.garvee.com/products/garvee-gaomon-twin-metal-daybed-with-pho-108jxulz-1): Discover the GARVEE Twin Metal Daybed with Trundle, perfect for indoor use. This multifunctional bed easily transforms from a stylish sofa to a comfortable sleeping space.
-  Updated: 2025-11-11T04:31:20Z
+  Updated: 2025-11-11T08:56:25Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -25530,77 +25544,77 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OLUSRxYvL_2cd198e6-0ad9-4306-9c19-4383596ac5a8.jpg?v=1727661861
   Price: $119.99 USD
 - [GARVEE Shaggy Rug 2x6 Runner - Luxurious Softness & Non-Slip Design](https://www.garvee.com/products/garvee-zacoo-shaggy-rug-2x6-runner-pho-10q7vpd5-1): Experience ultimate comfort with the GARVEE Shaggy Rug. Its plush fibers, modern Moroccan design, and non-slip backing make it perfect for any room.
-  Updated: 2025-11-11T04:45:41Z
+  Updated: 2025-11-11T10:17:09Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/816DNBt9rgL_c5367ac4-f585-48aa-b8d1-59f83e71e4e8.jpg?v=1753690674
   Price: $23.99 USD
 - [GARVEE Shag Area Rug - Ultra Soft Runner Rug for Comfort and Style](https://www.garvee.com/products/garvee-cozyloom-shag-area-rug-2x6-pho-10q75v8x-1): Discover the GARVEE Shag Area Rug, featuring ultra-soft shaggy velvet, anti-slip backing, and a luxurious feel. Perfect for any room, it adds warmth and elegance.
-  Updated: 2025-11-11T08:00:41Z
+  Updated: 2025-11-11T10:17:09Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/813fR8qCRGL_46368344-b2ac-4040-992e-248b9ac841ef.jpg?v=1723042753
   Price: $36.99 USD
 - [GARVEE Shag Area Rugs - Soft, Stylish, and Safe for Your Home](https://www.garvee.com/products/garvee-zacoo-shag-area-rugs-modern-pho-10q7yg2y-1): Experience ultimate softness with GARVEE's plush shag rug. Featuring non-slip design and elegant Moroccan patterns, it's perfect for any room in your home.
-  Updated: 2025-11-11T04:45:42Z
+  Updated: 2025-11-11T09:52:20Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LMoWPDDZL_a7794e8f-298a-4fc0-9f09-b9ba5c5d83eb.jpg?v=1749787061
   Price: $57.99 USD
 - [GARVEE Shag Rug - Soft, Non-Slip, Modern Design for Home](https://www.garvee.com/products/garvee-zacoo-shag-rug-for-living-pho-10q7f82j-1): Discover the GARVEE Shag Rug, featuring luxurious plush fibers, geometric patterns, and a secure non-slip design. Perfect for any room, easy to maintain!
-  Updated: 2025-11-11T08:01:29Z
+  Updated: 2025-11-11T10:17:10Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81KQ_AGe26L_b990de50-838c-4e8c-8d3a-0eb4eaf54343.jpg?v=1753690243
   Price: $28.99 USD
 - [GARVEE Runner Rug - Luxurious Softness and Modern Design](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x6-shag-pho-10q7yqg3-1): Experience ultimate comfort with the GARVEE Runner Rug. Its plush fibers, non-slip backing, and elegant Moroccan design make it perfect for any room.
-  Updated: 2025-11-11T04:45:44Z
+  Updated: 2025-11-11T10:17:11Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tLZtj0ZVL_978a8625-59fd-4ad5-8225-dc716c01ffe3.jpg?v=1753690191
   Price: $32.99 USD
 - [GARVEE Shag Rug - Soft, Non-Slip, Modern Design for Any Room](https://www.garvee.com/products/garvee-zacoo-shag-rug-5x8-rug-pho-10q7k2r9-1): Experience ultimate softness with the GARVEE 5x8 Shag Rug. Its non-slip design and stylish Moroccan patterns make it perfect for living rooms, bedrooms, and more.
-  Updated: 2025-11-11T04:45:45Z
+  Updated: 2025-11-11T09:52:22Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cESPCE0ML_18bd4646-2cb9-43d2-963d-9b41737d841e.jpg?v=1749786967
   Price: $43.99 USD
 - [GARVEE 5x8 Shag Rug - Luxurious Softness & Modern Design](https://www.garvee.com/products/garvee-zacoo-5x8-rug-shag-rug-pho-10q7q2qq-1): Experience ultimate comfort with GARVEE's 5x8 black shag rug. Its plush fibers, non-slip design, and elegant Moroccan patterns enhance any space effortlessly.
-  Updated: 2025-11-11T04:45:45Z
+  Updated: 2025-11-11T09:52:23Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81pfL1cb7uL_447cc2d0-024e-43b1-8173-48b31e594bd5.jpg?v=1749786988
   Price: $58.99 USD
 - [GARVEE 6x9 Area Rugs - Soft, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-zacoo-6x9-area-rugs-for-pho-10q7k0j8-1): Experience ultimate softness with GARVEE's 6x9 area rug. Its plush, non-slip design and elegant Moroccan patterns make it perfect for any room.
-  Updated: 2025-11-11T07:59:59Z
+  Updated: 2025-11-11T09:52:24Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LMoWPDDZL_047f011c-07f8-468f-962b-e2e9d75794f3.jpg?v=1753690164
   Price: $67.99 USD
 - [Soft and Stylish GARVEE 6x9 Shag Area Rug - Perfect for Any Room](https://www.garvee.com/products/garvee-zacoo-area-rug-6x9-rug-pho-10q7qmyv-1): Experience luxury with the GARVEE 6x9 shag rug, featuring non-slip safety, easy maintenance, and a plush feel. Ideal for living rooms, bedrooms, and more!
-  Updated: 2025-11-11T07:56:36Z
+  Updated: 2025-11-11T09:52:27Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81pfL1cb7uL_76f72e81-e6aa-4f0c-b5db-4de54e0ca3ec.jpg?v=1749786920
   Price: $69.99 USD
 - [GARVEE Runner Rug 2x8 - Luxurious Softness & Non-Slip Design](https://www.garvee.com/products/garvee-zacoo-runner-rug-2x8-shag-pho-10q735yo-1): Experience ultimate comfort with the GARVEE 2x8 Runner Rug. Its plush fibers, modern geometric design, and non-slip backing make it perfect for any room.
-  Updated: 2025-11-11T04:45:51Z
+  Updated: 2025-11-11T10:17:12Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/816DNBt9rgL_3a13a015-4ca1-4d1b-8b7c-d1d1bac4d608.jpg?v=1749786874
   Price: $38.99 USD
 - [GARVEE 8x10 Shaggy Area Rug - Soft, Non-Slip, Modern Design](https://www.garvee.com/products/garvee-zacoo-area-rugs-8x10-living-pho-10q7duzk-1): Experience ultimate softness with GARVEE's 8x10 shaggy area rug. Its non-slip design and elegant Moroccan patterns enhance any room while ensuring safety and comfort.
-  Updated: 2025-11-11T07:59:05Z
+  Updated: 2025-11-11T09:52:29Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -25642,7 +25656,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61W3jyeccgL_4ce6acb2-0f7e-48a5-b955-08e41583712e.jpg?v=1737108775
   Price: $105.99 USD
 - [GARVEE Artificial Bird of Paradise Plant - Perfect for Home & Office Decor](https://www.garvee.com/products/garvee-artificial-bird-of-paradise-plant-pho-11j6mrmb-1): Enjoy fast shipping and excellent customer service with our 7FT artificial Bird of Paradise plant. Free shipping and easy returns enhance your shopping experience!
-  Updated: 2025-11-09T10:37:26Z
+  Updated: 2025-11-11T09:40:46Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Decor > Artificial Plants & Flowers
   Availability: Available
@@ -25656,56 +25670,56 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61gveoXruIL_f9bbcebf-6cd4-428d-b061-cba9f67c1b83.jpg?v=1723042919
   Price: $74.99 USD
 - [GARVEE Bordered Rug 5x7 - Stylish & Pet-Friendly Area Rug](https://www.garvee.com/products/garvee-fashionwu-bodered-rug-5x7-geometric-pho-0xg8ho9d-1): Discover the GARVEE 5x7 Geometric Area Rug, a durable, machine-washable, and pet-friendly addition to your home. Perfect for any room, easy to maintain!
-  Updated: 2025-11-11T06:50:11Z
+  Updated: 2025-11-11T09:52:39Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81TqIc9QgCL_d3cac64d-45c2-4086-9a64-111b39439af0.jpg?v=1723043015
   Price: $47.99 USD
 - [GARVEE Runner Rug - Modern & Washable 2x6 Area Rug for High Traffic Spaces](https://www.garvee.com/products/garvee-nanan-runner-rug-modern-rugs-pho-11swez1u-1): Discover the GARVEE Runner Rug, a stylish, washable, and durable solution for high-traffic areas. Soft polyester with rubber backing ensures comfort and safety.
-  Updated: 2025-11-11T04:46:08Z
+  Updated: 2025-11-11T10:17:17Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RGA9XwoEL_ca191371-13a6-4f24-9083-4373b5e86750.jpg?v=1749198729
   Price: $25.99 USD
 - [GARVEE Washable Rug - Modern, Durable & Stylish Area Rug for Living Room](https://www.garvee.com/products/garvee-nanan-washable-rug-modern-rugs-pho-11sw6r81-1): Discover the GARVEE washable rug, featuring a soft, low-pile texture and rubber backing for safety. Ideal for high-traffic areas, it's easy to clean and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:46:12Z
+  Updated: 2025-11-11T09:52:48Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81qjGosLu8L_7a42802e-1a2d-4d79-bead-e2569f140ec8.jpg?v=1723043196
   Price: $34.99 USD
 - [GARVEE 8x10 Soft Fluffy Area Rug - Non-Slip Modern Home Decor](https://www.garvee.com/products/garvee-gaomon-area-rug-8x10-soft-pho-0zcwe36s-1): Transform your space with the GARVEE 8x10 area rug featuring plush faux fur, non-slip backing, and a stylish tie-dye design. Perfect for kids and pets!
-  Updated: 2025-11-11T04:46:13Z
+  Updated: 2025-11-11T09:52:49Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/813gmu73AWL_696b5f71-6cea-4652-9f0c-1bcdaead33a6.jpg?v=1723043198
   Price: $92.99 USD
 - [GARVEE 4x6 Pink Washable Area Rug - Modern Ombre Design](https://www.garvee.com/products/garvee-nanan-4x6-pink-rugs-for-pho-11sw0tg8-1): Elevate your space with GARVEE's 4x6 pink rug, featuring a cozy texture, durable rubber backing, and easy care. Perfect for high-traffic areas and stylish decor.
-  Updated: 2025-11-11T04:46:18Z
+  Updated: 2025-11-11T09:52:55Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81H5ADpPl-L_885e1428-567d-49af-b9c9-7278cf95e3c4.jpg?v=1723043199
   Price: $54.99 USD
 - [GARVEE 9x12 Large Modern Rug - Grey Ombre Washable Area Rug](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-modern-rug-grey-ombre-rugs-for-bedroom-washable-abstract-rugs-with-rubber-backing-low-pile-area-rugs-non-slip-office-carpet-indoor-farmhouse-floor-cover-garvee-1): Discover the GARVEE 9x12 Large Modern Rug, featuring a cozy polyester texture, non-slip rubber backing, and machine washable design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:46:19Z
+  Updated: 2025-11-11T09:52:56Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jBT9Av2gL_c458dd5b-5d69-41f5-a543-cc14ea2e4895.jpg?v=1723043199
   Price: $122.99 USD
 - [GARVEE 9x12 Area Rug - Modern Abstract Design, Washable & Durable](https://www.garvee.com/products/garvee-area-rugs-for-living-room-9x12-large-modern-abstract-rug-washable-dining-room-rug-vintage-ombre-carpet-low-pile-bedroom-rug-aesthetic-office-floor-cover-blue-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a soft, low-pile texture, stylish abstract design, and machine washable for easy care. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:46:20Z
+  Updated: 2025-11-11T09:52:56Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81EnBo7KJ9L_bc9c54da-93d7-4ee3-9f88-dfcf6629548a.jpg?v=1723043200
   Price: $116.99 USD
 - [GARVEE Modern Flamingo Pink Ombre Rug - Stylish & Washable Area Rug](https://www.garvee.com/products/garvee-washable-living-room-rug-9x12-pink-ombre-rugs-for-bedroom-modern-abstract-carpet-vintage-area-rugs-non-slip-office-rug-low-pile-farmhouse-rug-aesthetic-rugs-with-rubber-backing-garvee-1): Discover the GARVEE Modern Flamingo Pink Ombre Rug, a soft, washable, and non-slip area rug perfect for high-traffic spaces. Ideal for homes with kids and pets!
-  Updated: 2025-11-11T04:46:21Z
+  Updated: 2025-11-11T09:52:57Z
   Vendor: Garvee
   Product Type: Rugs > Modern Rugs
   Availability: Available
@@ -25726,70 +25740,70 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71aiZS6uL_L_82b6acc1-0c0d-420e-9664-92dfebe4b7e9.jpg?v=1723043332
   Price: $316.99 USD
 - [GARVEE Runner Rug - Vintage Hallway Rug, Non-Shedding, Anti-Slip, Washable](https://www.garvee.com/products/garvee-fashionwu-runner-rug-2-x-pho-0yhk6631-1): Enhance your space with the GARVEE Runner Rug. This soft, non-shedding rug is perfect for any room, featuring a cozy texture and anti-slip backing for safety.
-  Updated: 2025-11-11T04:46:22Z
+  Updated: 2025-11-11T10:17:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_yoAKrTHL_dd13559a-59f9-41ec-8e52-f16f1cd74210.jpg?v=1723043344
   Price: $41.99 USD
 - [GARVEE Oriental Runner Rug 2x6 - Modern and Cozy Floor Mat](https://www.garvee.com/products/garvee-fashionwu-oriental-runner-rug-2x6-pho-0yhkxkod-1): Discover the GARVEE Oriental Runner Rug, a soft, machine washable, non-slip mat perfect for any room. Its durable, non-shedding fibers ensure lasting luxury and comfort.
-  Updated: 2025-11-11T04:46:24Z
+  Updated: 2025-11-11T10:17:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81N4uaeYb6L_14dd8866-08f2-4dfb-ab55-652dc5dd6ccb.jpg?v=1723043344
   Price: $29.99 USD
 - [GARVEE Runner Rug 2x6 - Modern Abstract Non-Slip Area Rug](https://www.garvee.com/products/garvee-glowsol-runner-rug-2x6-non-pho-0zj0abjy-1): Discover the GARVEE Runner Rug 2x6, featuring a non-slip backing, pet-friendly durability, and machine washable convenience. Perfect for any modern space!
-  Updated: 2025-11-11T04:46:24Z
+  Updated: 2025-11-11T10:17:22Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81BxSFLdRML_c316d6d6-7eb8-4f39-acbc-8745dfb52460.jpg?v=1723043344
   Price: $28.99 USD
 - [GARVEE Modern Abstract Runner Rug - Soft, Non-Slip & Washable](https://www.garvee.com/products/garvee-zacoo-modern-abstract-runner-rug-pho-0zj0m3uh-1): Transform your space with the GARVEE Modern Abstract Runner Rug. This vibrant, low-pile rug features a non-slip design and is machine washable for easy maintenance.
-  Updated: 2025-11-11T04:46:25Z
+  Updated: 2025-11-11T10:17:23Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/813Ni_xDRmL_f3ab1832-3fce-4db2-9416-5de11ce92f43.jpg?v=1723043344
   Price: $28.99 USD
 - [GARVEE 4x6 Non-Shedding Area Rug - Modern Abstract Design](https://www.garvee.com/products/garvee-glowsol-area-rug-4x6-non-pho-0zj0nvpz-1): Discover the GARVEE 4x6 area rug with a non-slip backing, pet-friendly durability, and machine washable convenience. Elevate your living space with its vibrant abstract design!
-  Updated: 2025-11-11T04:46:26Z
+  Updated: 2025-11-11T09:53:01Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71G9dvWDo2L_b56071b2-0c35-45f2-b273-2533c87538e4.jpg?v=1723043344
   Price: $36.99 USD
 - [GARVEE Vintage Floral Washable Rug - Soft, Non-Slip, Versatile Home Decor](https://www.garvee.com/products/garvee-fashionwu-vintage-rug-for-bedroom-pho-0yhkygud-1): Discover the GARVEE Vintage Rug, a stylish, washable, and non-slip addition to any room. Soft polyester fabric ensures comfort, perfect for busy households.
-  Updated: 2025-11-11T04:46:27Z
+  Updated: 2025-11-11T09:53:03Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bigkFTpBL_a2fb17b6-1a80-4959-8d92-da472555487f.jpg?v=1723043347
   Price: $82.99 USD
 - [GARVEE 5x7 Vintage Floral Area Rug - Machine Washable & Soft](https://www.garvee.com/products/garvee-fashionwu-area-rug-5x7-vintage-pho-0yhk6xeb-1): Enhance your home with the GARVEE 5x7 Vintage Floral Area Rug. Soft, machine washable, and perfect for high traffic areas, it's ideal for families.
-  Updated: 2025-11-11T04:46:30Z
+  Updated: 2025-11-11T09:53:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bigkFTpBL_2116ae27-81eb-4f74-9857-2853ea4bc71b.jpg?v=1723043348
   Price: $60.99 USD
 - [GARVEE Grey Area Rug - Soft, Washable, and Stylish for Any Room](https://www.garvee.com/products/garvee-fashionwu-grey-area-rug-8x10-pho-0yhkchkb-1): Discover the GARVEE Grey Area Rug: machine washable, soft, and non-slip. Perfect for high traffic areas, it adds style and comfort to any space.
-  Updated: 2025-11-11T04:46:31Z
+  Updated: 2025-11-11T09:53:06Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/614dN9UxtCL_e46c558f-50f9-4681-aac5-6b2d2d24192c.jpg?v=1723043348
   Price: $111.99 USD
 - [GARVEE 4x6 Non-Shedding Area Rug - Modern Abstract Design](https://www.garvee.com/products/garvee-glowsol-area-rug-4x6-non-pho-0zj0vue9-1): Discover the GARVEE 4x6 area rug featuring a non-slip, machine washable design. Soft, durable polyester ensures safety for kids and pets while enhancing your decor.
-  Updated: 2025-11-11T04:46:35Z
+  Updated: 2025-11-11T09:53:10Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81sVIbvEG_L_1fe9d93b-5111-481d-acab-f35aba632431.jpg?v=1723043348
   Price: $42.99 USD
 - [GARVEE 9x12 Vintage Distressed Area Rug - Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-9x12-area-rug-vintage-distressed-machine-washable-area-rug-for-living-room-bedroom-traditional-medallion-non-slip-stain-resistant-accent-rug-carpet-for-home-decor-floor-decoration-grey-garvee-1): Discover the GARVEE 9x12 Area Rug, featuring a vintage medallion design, durable polyester material, and non-slip backing. Perfect for high-traffic areas.
-  Updated: 2025-11-11T04:46:40Z
+  Updated: 2025-11-11T09:53:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25838,28 +25852,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71QhYGOYf3L.jpg?v=1723043582
   Price: $166.99 USD
 - [GARVEE Runner Rug - Vintage Medallion Design, Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-feet-pho-11fzeim7-1): Discover the GARVEE Runner Rug: a 2x6 feet washable, non-slip rug with vintage medallion patterns, perfect for high-traffic areas. Stain-resistant and pet-friendly!
-  Updated: 2025-11-11T04:46:43Z
+  Updated: 2025-11-11T10:17:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81hN6TgfMOL_3b7137d4-c954-4d28-9454-6e25a6f54c2e.jpg?v=1723043877
   Price: $40.99 USD
 - [GARVEE 9x12 Vintage Distressed Area Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-large-vintage-distressed-machine-washable-area-rug-for-living-room-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decoration-grey-garvee-1): Enhance your home with GARVEE's 9x12 vintage area rug. Durable, stain-resistant, and machine washable, it's perfect for high-traffic areas and safe for kids and pets.
-  Updated: 2025-11-11T04:46:47Z
+  Updated: 2025-11-11T09:53:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/912uTu0wD5L_e1caa52d-068f-4981-9a56-e3a7a96b370d.jpg?v=1723043877
   Price: $163.99 USD
 - [GARVEE Runner Rug - Vintage Medallion Design](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-feet-pho-11fz953g-1): Discover the GARVEE Runner Rug, a washable, non-slip floral area rug perfect for high-traffic areas. Made from durable recycled polyester, it's stain-resistant and kid-friendly.
-  Updated: 2025-11-11T04:46:50Z
+  Updated: 2025-11-11T10:17:26Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nMMK90rRL_8a01126b-3a74-4659-a9eb-7938aaae1102.jpg?v=1723043878
   Price: $44.99 USD
 - [GARVEE 9x12 Area Rug - Vintage Distressed Washable Carpet](https://www.garvee.com/products/garvee-9x12-area-rug-large-vintage-distressed-machine-washable-area-rug-for-living-room-traditional-medallion-floral-non-slip-stain-resistant-accent-rug-carpet-for-home-decoration-blue-garvee-1): Discover the GARVEE 9x12 Area Rug with vintage floral patterns. Durable, washable, and non-slip, it's perfect for high-traffic areas. Enjoy free shipping!
-  Updated: 2025-11-11T04:46:53Z
+  Updated: 2025-11-11T09:53:27Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25887,7 +25901,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/619xNxpTdlL_8a8417a6-134e-4004-892b-c96ca358e290.jpg?v=1737536239
   Price: $88.99 USD
 - [GARVEE Vintage Area Rugs - Boho Floral Print, Washable, Non-Slip](https://www.garvee.com/products/garvee-vintage-area-rugs-boho-traditional-pho-0zxck472-1): Transform your space with GARVEE Vintage Area Rugs. Featuring a stunning floral print, low pile, and non-slip rubber backing, these rugs are both stylish and functional.
-  Updated: 2025-11-11T04:47:06Z
+  Updated: 2025-11-11T09:53:39Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -25929,224 +25943,224 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91LNXf3KjmL_ff118359-2f00-4bd6-8161-5dd1b51c4007.jpg?v=1723044064
   Price: $124.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-pho-0zuad61i-1): Discover the GARVEE Moroccan Geometric Area Rug, featuring a stylish design, machine washable convenience, non-shedding, and stain-resistant properties for easy care.
-  Updated: 2025-11-11T04:47:07Z
+  Updated: 2025-11-11T10:17:29Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51zDJg_8lPL_001c4aa2-6510-4ee9-a907-37f9d109c1fa.jpg?v=1723044084
   Price: $34.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish & Practical](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-pho-0zuapsjs-1): Enhance your space with the GARVEE Moroccan Area Rug. Machine washable, stain-resistant, and non-slip, it's perfect for busy homes. Available in grey, 4x6 size.
-  Updated: 2025-11-11T04:47:08Z
+  Updated: 2025-11-11T09:53:41Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61p_0XklQWL_a03f2c70-8903-4af0-8c24-c33e056d231c.jpg?v=1723044084
   Price: $53.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish & Easy to Clean](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-pho-0zuav735-1): Discover the GARVEE Moroccan Geometric Area Rug, featuring a stain-resistant, non-shedding design that's machine washable and non-slip, perfect for any room.
-  Updated: 2025-11-11T04:47:09Z
+  Updated: 2025-11-11T09:53:42Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91hjUqnBZgL_45669355-126b-4eaf-a8e9-9bba06e51c7b.jpg?v=1723044084
   Price: $76.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish & Practical](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-washable-easy-to-clean-non-shedding-stain-resistant-non-slip-foldable-indoor-mat-for-living-room-bedroom-kitchen-entryway-bathroom-blue-9-x-12-garvee-1): Enhance your space with the GARVEE Moroccan Geometric Area Rug. Machine washable, stain-resistant, and non-slip, it's perfect for busy homes. Available in blue, 9x12.
-  Updated: 2025-11-11T04:47:09Z
+  Updated: 2025-11-11T09:53:43Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91hjUqnBZgL_797e8ad6-b8a0-410c-b2b9-387adf123e79.jpg?v=1723044084
   Price: $89.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish & Easy Care](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-pho-0zualvrm-1): Transform your space with the GARVEE Moroccan Geometric Area Rug. Machine washable, stain-resistant, and non-slip, it's perfect for busy households.
-  Updated: 2025-11-11T04:47:10Z
+  Updated: 2025-11-11T09:53:43Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61p_0XklQWL_d53804f8-c5d8-44ad-a67b-2a83a8641f37.jpg?v=1723044084
   Price: $109.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish, Machine Washable, Non-Slip](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-pho-0zua9h2d-1): Discover the GARVEE Moroccan Geometric Area Rug, featuring a stylish design, machine washable convenience, non-shedding, stain-resistant durability, and non-slip safety.
-  Updated: 2025-11-11T04:47:11Z
+  Updated: 2025-11-11T09:53:44Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61p_0XklQWL_d843a6bb-9da8-41e1-b6b0-48eb26619759.jpg?v=1723044083
   Price: $64.99 USD
 - [GARVEE Moroccan Geometric Area Rug - Stylish, Washable & Non-Slip](https://www.garvee.com/products/garvee-moroccan-geometric-area-rug-machine-washable-easy-to-clean-non-shedding-stain-resistant-non-slip-foldable-indoor-mat-for-living-room-bedroom-kitchen-entryway-bathroom-grey-9-x-12-garvee-1): Elevate your space with the GARVEE Moroccan Geometric Area Rug. It's machine washable, stain-resistant, and non-slip, perfect for busy homes. Available in grey, 9x12.
-  Updated: 2025-11-11T04:47:12Z
+  Updated: 2025-11-11T09:53:45Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61p_0XklQWL_b6e04f0a-9908-4607-b94d-17da7c70ab92.jpg?v=1723044084
   Price: $89.99 USD
 - [GARVEE Vintage Floral Print Runner Rug - Machine Washable & Non-Slip](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-runner-pho-0ygaix1j-1): Elevate your space with GARVEE's 2x6 runner rug. Made from eco-friendly materials, it's machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:15Z
+  Updated: 2025-11-11T10:17:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81FIXuxW4qL_9e1a621d-51ae-437c-a791-8541b31d05ab.jpg?v=1755671535
   Price: $43.99 USD
 - [GARVEE Machine Washable Vintage Rug - Non-Slip Floral Print Area Rug for Living Room](https://www.garvee.com/products/garvee-machine-washable-rug-9x12-vintage-design-area-rugs-with-non-slip-rugs-for-living-room-bedroom-floral-print-rug-carpet-stain-resistant-green-garvee): Elevate your space with the GARVEE Vintage Rug. This machine-washable, non-slip rug offers boho elegance, durability, and comfort, perfect for any room.
-  Updated: 2025-11-11T04:47:15Z
+  Updated: 2025-11-11T09:53:48Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1712620608633.jpg?v=1755672428
   Price: $84.99 USD
 - [GARVEE Machine Washable Vintage Rug - Non-Slip, Stain Resistant, Boho Elegance](https://www.garvee.com/products/garvee-machine-washable-rug-9x12-vintage-design-area-rugs-with-non-slip-rugs-for-living-room-bedroom-floral-print-rug-carpet-stain-resistant-grey-garvee): Elevate your space with GARVEE's machine washable vintage rug. Non-slip, stain-resistant, and crafted from durable polyester for comfort and style.
-  Updated: 2025-11-11T04:47:17Z
+  Updated: 2025-11-11T09:53:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1712620671099_f4c46ca5-cea2-4978-ba31-2a8d35a140ae.jpg?v=1755673227
   Price: $62.99 USD
 - [GARVEE Washable Runner Rug - Non-Skid, Soft & Durable](https://www.garvee.com/products/garvee-faironly-washable-runner-rug-2x6-pho-0yga8f5d): Elevate your space with the GARVEE Washable Runner Rug. Non-slip, machine-washable, and crafted from durable polyester for comfort and style in any room.
-  Updated: 2025-11-11T04:47:18Z
+  Updated: 2025-11-11T10:17:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1712620675088.jpg?v=1755672484
   Price: $24.99 USD
 - [GARVEE Modern Runner Rug - Soft, Washable, Non-Slip for Any Room](https://www.garvee.com/products/garvee-glowsol-modern-runner-rug-2x6-pho-13cg7dwg-1): Discover the GARVEE Modern Runner Rug, featuring a stylish plaid design, soft pearl velvet material, and non-slip backing. Perfect for any room, machine washable for easy care.
-  Updated: 2025-11-11T04:47:22Z
+  Updated: 2025-11-11T10:17:32Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/910UBjcFYoL_ab3480ec-6825-485e-99b1-56e405a46825.jpg?v=1723044238
   Price: $39.99 USD
 - [GARVEE Modern Area Rugs - Stylish, Soft, and Washable 4x6 Rugs](https://www.garvee.com/products/garvee-glowsol-modern-area-rugs-4x6-pho-13cg3y2b-1): Discover GARVEE's 4x6 modern area rug, featuring a minimalist plaid design, soft pearl velvet, and non-slip backing. Machine washable for easy care!
-  Updated: 2025-11-11T04:47:22Z
+  Updated: 2025-11-11T09:53:56Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91iXb47i-aL_ec9201e6-99a5-4a7a-aaf8-5a2a74c7d728.jpg?v=1723044238
   Price: $54.99 USD
 - [GARVEE Living Room Rug - Large Washable Area Rug for Modern Spaces](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-washable-rugs-for-bedroom-modern-plaid-office-floor-carpet-distressed-rug-low-pile-farmhouse-area-rug-non-slip-checkered-floor-cover-red-garvee-1): Discover the GARVEE 9x12 Living Room Rug, featuring a cozy low-pile design, easy machine wash care, and non-slip backing, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:23Z
+  Updated: 2025-11-11T09:53:56Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91x-mlUlBWL_c0842e09-5679-438a-81f9-363379b453a0.jpg?v=1723044238
   Price: $149.99 USD
 - [GARVEE Large Washable Area Rug - Modern Plaid Design for High Traffic Areas](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-washable-rugs-for-bedroom-modern-plaid-office-floor-carpet-distressed-rug-low-pile-farmhouse-area-rug-non-slip-checkered-floor-cover-green-garvee-1): Discover the GARVEE 9x12 Living Room Rug, featuring a cozy low-pile plaid design, machine washable for easy care, and non-slip for safety in high-traffic spaces.
-  Updated: 2025-11-11T04:47:24Z
+  Updated: 2025-11-11T09:53:57Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SKxsh59FL_523b59f9-8e02-46aa-83db-1b4f4aee996c.jpg?v=1723044242
   Price: $149.99 USD
 - [GARVEE 9x12 Washable Living Room Rug - Stylish & Durable](https://www.garvee.com/products/garvee-living-room-rug-9x12-large-washable-rugs-for-bedroom-modern-plaid-office-floor-carpet-distressed-rug-low-pile-farmhouse-area-rug-non-slip-checkered-floor-cover-blue-garvee-1): Discover the GARVEE 9x12 Large Washable Rug, featuring a cozy low-pile plaid design, non-slip backing, and easy care for high-traffic areas. Perfect for any room!
-  Updated: 2025-11-11T04:47:25Z
+  Updated: 2025-11-11T09:53:58Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91i-kaJ38ML_8704de7d-66b2-4f65-91fc-94d471cd6c24.jpg?v=1723044241
   Price: $139.99 USD
 - [GARVEE Runner Rug - Stylish, Non-Slip, and Washable for Every Room](https://www.garvee.com/products/garvee-glowsol-runner-rug-non-slip-pho-13cg4005-1): Discover the GARVEE Runner Rug, featuring a soft pearl velvet material, non-slip backing, and machine washable convenience. Perfect for hallways and kitchens!
-  Updated: 2025-11-11T04:47:25Z
+  Updated: 2025-11-11T10:17:33Z
   Vendor: Garvee
   Product Type: Rugs > Plaid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91BqI1thAWL_743980d4-8fb8-410f-bb06-0d2c63526084.jpg?v=1723044242
   Price: $39.99 USD
 - [GARVEE Washable Bordered Area Rugs - Non Slip & Modern Design](https://www.garvee.com/products/garvee-gaomon-washable-bordered-area-rugs-pho-10rrig8v-1): Discover GARVEE's 5x7 washable area rug, featuring a chic bordered design, non-slip backing for safety, and easy maintenance, perfect for any room.
-  Updated: 2025-11-11T04:47:33Z
+  Updated: 2025-11-11T09:54:06Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/817q-t-fN1L_e8d2dd54-4b88-4fd5-abf7-2ac32204904f.jpg?v=1723044260
   Price: $46.99 USD
 - [GARVEE Bordered Area Rug - Modern Washable Non-Slip Runner](https://www.garvee.com/products/garvee-gaomon-bordered-area-rug-2x6-pho-10rrypl1-1): Discover the GARVEE Bordered Area Rug, crafted from high-density polyester, featuring a non-slip design, easy maintenance, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:35Z
+  Updated: 2025-11-11T10:17:36Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71lVTl8CweL_34d81659-4f22-46e6-a764-1f909e1473ea.jpg?v=1723044268
   Price: $25.99 USD
 - [GARVEE Washable Non-Slip Area Rug - Premium Quality for Home](https://www.garvee.com/products/garvee-gaomon-washable-bordered-area-rugs-pho-10rr4xi4-1): Elevate your space with the GARVEE 5x7 washable area rug. Crafted from high-density polyester, it features a non-slip design and low pile for easy maintenance.
-  Updated: 2025-11-11T04:47:36Z
+  Updated: 2025-11-11T09:54:10Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QmQyQE0UL_116a0d95-5c92-40a2-9422-1e6a7eda6e65.jpg?v=1723044268
   Price: $34.99 USD
 - [GARVEE 8x10 Modern Bordered Area Rug - Stylish & Washable](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-modern-pho-10rr35v3-1): Discover the GARVEE 8x10 Modern Bordered Area Rug, featuring premium non-slip backing, low pile design, and easy maintenance. Perfect for high-traffic areas!
-  Updated: 2025-11-11T04:47:37Z
+  Updated: 2025-11-11T09:54:11Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81a-uVJz-vL_55d1fa7b-8f37-4bbd-9098-7161dbe2361d.jpg?v=1723044269
   Price: $100.99 USD
 - [GARVEE Large 8x10 Modern Area Rug - Non-Slip, Washable & Stylish](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-modern-pho-10rrz0qd-1): Discover the GARVEE 8x10 area rug, crafted from high-density polyester with a chic border design. Non-slip, washable, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:38Z
+  Updated: 2025-11-11T09:54:11Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tqlW2eRdL_cf5d0fbf-f238-4644-95b9-9a2bf3db48e4.jpg?v=1723044269
   Price: $98.99 USD
 - [GARVEE 9x12 Area Rug - Modern, Washable, Non-Slip](https://www.garvee.com/products/garvee-9x12-area-rug-washable-rug-modern-bordered-living-room-rug-indoor-distressed-print-floor-cover-non-slip-throw-carpet-aesthetic-rug-foldable-thin-rug-accent-rug-for-living-room-bedroom-teal-garvee-1): Discover the GARVEE 9x12 Area Rug, crafted from premium polyester for softness and durability. Non-slip and washable, it's perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:38Z
+  Updated: 2025-11-11T09:54:12Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QmQyQE0UL_f6b954dc-76b7-4a68-b714-8959480349d4.jpg?v=1723044269
   Price: $104.99 USD
 - [GARVEE Large 8x10 Washable Area Rug - Non-Slip, Low Pile, Modern Design](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-modern-pho-10rrliuk-1): Discover the GARVEE Large 8x10 Area Rug, featuring a chic bordered design, non-slip backing, and easy maintenance. Perfect for any room in your home!
-  Updated: 2025-11-11T04:47:39Z
+  Updated: 2025-11-11T09:54:13Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81QmQyQE0UL_edd87793-0de2-4cea-a92d-13d5b80f222a.jpg?v=1723044271
   Price: $102.99 USD
 - [GARVEE Large Rug 8x10 - Modern, Washable, Non-Slip Area Rug for Any Room](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-modern-pho-10rrd1lx-1): Transform your space with the GARVEE 8x10 Large Rug. Made from premium polyester, it's non-slip, washable, and perfect for high traffic areas. Enjoy style and safety!
-  Updated: 2025-11-11T04:47:41Z
+  Updated: 2025-11-11T09:54:14Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/817q-t-fN1L_3637e6b8-8df8-4260-ac70-4317454d2583.jpg?v=1723044271
   Price: $92.99 USD
 - [GARVEE 9x12 Washable Area Rug - Modern Non-Slip Design for Living Room](https://www.garvee.com/products/garvee-gaomon-9x12-area-rug-washable-pho-10rr17mw-1): Elevate your space with the GARVEE 9x12 Area Rug. Crafted from premium polyester, this non-slip, low-pile rug is washable and perfect for high traffic areas.
-  Updated: 2025-11-11T04:47:41Z
+  Updated: 2025-11-11T09:54:15Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tqlW2eRdL_917de639-6a78-4044-ad15-1770a1903791.jpg?v=1723044272
   Price: $124.99 USD
 - [GARVEE 9x12 Area Rug - Premium Washable Non-Slip Rug for Living Room](https://www.garvee.com/products/garvee-9x12-area-rug-washable-rug-modern-bordered-living-room-rug-indoor-distressed-print-floor-cover-non-slip-throw-carpet-aesthetic-rug-foldable-thin-rug-accent-rug-for-living-room-bedroom-yellow-garvee-1): Enhance your space with the GARVEE 9x12 Area Rug. Made from high-density polyester, it's non-slip, washable, and perfect for high-traffic areas. Ideal for any room.
-  Updated: 2025-11-11T04:47:42Z
+  Updated: 2025-11-11T09:54:16Z
   Vendor: Garvee
   Product Type: Rugs > Bordered Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/817q-t-fN1L_5cbf940c-9173-4a3b-9267-18e74f290cca.jpg?v=1723044272
   Price: $71.99 USD
 - [GARVEE Runner Rug - Vintage Non-Slip & Washable Area Rug](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-machine-pho-107ugj5g-1): Discover the GARVEE Runner Rug: a stylish, non-slip, and machine washable vintage area rug made from premium polyester, perfect for high-traffic areas and pet-friendly.
-  Updated: 2025-11-11T04:47:43Z
+  Updated: 2025-11-11T10:17:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/815YQbeRGEL.jpg?v=1727661798
   Price: $41.99 USD
 - [GARVEE Runner Rug - Non-Slip, Washable Vintage Area Rug for High Traffic Areas](https://www.garvee.com/products/garvee-gaomon-runner-rug-2x6-machine-pho-107upcly-1): Discover the GARVEE Runner Rug: a 2x6 non-slip, machine washable rug made of premium polyester. Perfect for kitchens and laundry rooms, it's child and pet-friendly!
-  Updated: 2025-11-11T04:47:43Z
+  Updated: 2025-11-11T10:17:37Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81h2p3er69L_5f671558-fe63-4b15-8738-815d2f57e901.jpg?v=1723044288
   Price: $27.99 USD
 - [GARVEE Large Vintage Area Rug - Non-Slip, Washable, Child & Pet Friendly](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-vintage-pho-107umk5n-1): Discover the GARVEE 8x10 Vintage Area Rug, featuring a non-slip design, premium polyester material, and child & pet-friendly durability. Perfect for high traffic areas!
-  Updated: 2025-11-11T04:47:45Z
+  Updated: 2025-11-11T09:54:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81LPCsoizHL_5f821ef5-f9fa-4c68-b30f-41b113c4006d.jpg?v=1723044288
   Price: $81.99 USD
 - [GARVEE Vintage Non-Slip Area Rug 4x6 - Soft, Washable, and Child-Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-4x6-vintage-pho-107u5a1h-1): Discover the GARVEE 4x6 Vintage Area Rug, featuring a non-slip, washable design made from premium polyester. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:47:46Z
+  Updated: 2025-11-11T09:54:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61orFNowKiL.jpg?v=1727661777
   Price: $37.99 USD
 - [GARVEE Vintage Area Rug 5x7 - Machine Washable, Non-Slip, Pet Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-5x7-vintag-pho-107ujn73-1): Discover the GARVEE Vintage Area Rug 5x7, featuring a soft, durable polyester design. Non-slip, machine washable, and perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:47:47Z
+  Updated: 2025-11-11T09:54:21Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26160,140 +26174,140 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81RAkLjr2SL.jpg?v=1723044289
   Price: $304.99 USD
 - [GARVEE Large Vintage Area Rug 8x10 - Non-Slip, Washable, Child & Pet Friendly](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-vintage-pho-107u5mqh-1): Discover the GARVEE 8x10 Vintage Area Rug, crafted from premium polyester, non-slip, machine washable, and perfect for high traffic areas. Ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:47:48Z
+  Updated: 2025-11-11T09:54:22Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rnS1hibNL_009fce0d-f53e-484b-ba7d-8953c8bc5416.jpg?v=1723044291
   Price: $102.99 USD
 - [GARVEE Vintage Area Rug - Non Slip & Washable 4x6](https://www.garvee.com/products/garvee-gaomon-area-rug-4x6-vintage-pho-107uvhz3-1): Discover the GARVEE 4x6 Vintage Area Rug, featuring a non-slip, washable design made from premium polyester. Perfect for homes with kids and pets!
-  Updated: 2025-11-11T04:47:49Z
+  Updated: 2025-11-11T09:54:23Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SnV4IN7zL_3aa78a76-2718-4ae4-83b9-ebfd5965ba04.jpg?v=1723044291
   Price: $44.99 USD
 - [GARVEE Washable Rug 9x12 - Vintage Non-Slip Area Rug](https://www.garvee.com/products/garvee-washable-rug-9x12-vintage-distressed-rug-non-slip-non-shedding-area-rug-machine-washable-indoor-carpet-foldable-accent-rug-low-pile-rug-for-bedroom-living-room-navy-garvee-1): Discover the GARVEE 9x12 Vintage Distressed Rug, crafted from premium polyester, non-slip, washable, and perfect for kids and pets. Elevate your space today!
-  Updated: 2025-11-11T04:47:49Z
+  Updated: 2025-11-11T09:54:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SnV4IN7zL_52be5646-30e9-4dad-b921-af386711b643.jpg?v=1723044292
   Price: $115.99 USD
 - [GARVEE Large Vintage Area Rug - Non-Slip, Washable, Child & Pet Friendly](https://www.garvee.com/products/garvee-gaomon-large-rug-8x10-vintage-pho-107u2xon-1): Discover the GARVEE 8x10 Vintage Area Rug, featuring a non-slip design, premium polyester material, and a charming medallion pattern, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:47:50Z
+  Updated: 2025-11-11T09:54:24Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91SnV4IN7zL_827f7afb-1d8f-48d1-857c-664319d7edd1.jpg?v=1723044291
   Price: $102.99 USD
 - [GARVEE Washable Vintage Distressed Rug - Non Slip, Child & Pet Friendly](https://www.garvee.com/products/garvee-washable-rug-9x12-vintage-distressed-rug-non-slip-non-shedding-area-rug-machine-washable-indoor-carpet-foldable-accent-rug-low-pile-rug-for-bedroom-living-room-grey-garvee-1): Discover the GARVEE 9x12 Vintage Distressed Rug, crafted from premium polyester for softness and durability. Non-slip, machine washable, and perfect for high traffic areas.
-  Updated: 2025-11-11T04:47:51Z
+  Updated: 2025-11-11T09:54:26Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51KI6fpeaFL_8a7ed749-8b64-48c2-9586-5124b98a5438.jpg?v=1723044292
   Price: $124.99 USD
 - [GARVEE Vintage Area Rug - 5x7 Machine Washable, Non-Slip, Pet-Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-5x7-vintag-pho-107upu2a-1): Discover the GARVEE 5x7 Vintage Area Rug, featuring a non-slip, washable design. Perfect for homes with kids and pets, it combines elegance with durability.
-  Updated: 2025-11-11T04:47:52Z
+  Updated: 2025-11-11T09:54:26Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91v97geunAL.jpg?v=1727662564
   Price: $61.99 USD
 - [GARVEE 5x7 Vintage Area Rug - Machine Washable, Non-Slip, Pet Friendly](https://www.garvee.com/products/garvee-gaomon-area-rug-5x7-vintag-pho-107unfr3-1): Discover the GARVEE 5x7 Vintage Area Rug, crafted from premium polyester for softness and durability. Non-slip, machine washable, and ideal for kids and pets!
-  Updated: 2025-11-11T04:47:53Z
+  Updated: 2025-11-11T09:54:27Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91EhW2RvjRL_e97378d2-8800-4b85-98ac-94f03be5e16f.jpg?v=1723044291
   Price: $81.99 USD
 - [GARVEE Washable Rug 2x12 - Premium Chenille Boho Runner](https://www.garvee.com/products/garvee-cozyloom-washable-rug-2x12-vintage-pho-0vejt6qw-1): Elevate your space with the GARVEE 2x12 Washable Rug. Made of soft, durable chenille, this non-slip rug features a stunning geometric design, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:47:56Z
+  Updated: 2025-11-11T10:17:39Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/819GzVkc_BL_855327c7-0bbb-44ef-af5a-57aac0240045.jpg?v=1723044387
   Price: $37.99 USD
 - [Stylish GARVEE Boho Area Rug - 6x9 Navy Moroccan Design](https://www.garvee.com/products/garvee-zacoo-boho-area-rug-6x9-pho-0vejm9ba-1): Enhance your space with the GARVEE Boho Area Rug. This stylish, machine washable, non-slip rug is stain resistant and perfect for any room in your home.
-  Updated: 2025-11-11T04:47:56Z
+  Updated: 2025-11-11T09:54:31Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91_kQOOIsPL_cbd82c93-560e-47bf-a6f5-e7b74479e85e.jpg?v=1723044387
   Price: $74.99 USD
 - [GARVEE 5x7 Machine Washable Area Rug - Stylish & Non-Slip](https://www.garvee.com/products/garvee-fashionwu-area-rug-5x7-machine-pho-0vej10ol-1): Discover the GARVEE 5x7 Area Rug, designed with low pile and non-slip backing for safety. Machine washable and stylish, perfect for any indoor space!
-  Updated: 2025-11-11T04:47:57Z
+  Updated: 2025-11-11T09:54:31Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91gwegj11rL_2cbc9239-12e6-43d3-b478-58cd684fec83.jpg?v=1723044387
   Price: $55.99 USD
 - [Stylish GARVEE Moroccan Rug - Machine Washable, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-zacoo-moroccan-rug-4x4-round-pho-0vej2vgp-1): Enhance your space with the GARVEE Moroccan Rug. This 4x4 round rug features a chic design, is machine washable, non-slip, and stain resistant for lasting beauty.
-  Updated: 2025-11-11T04:47:58Z
+  Updated: 2025-11-11T10:17:40Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tpYMQPPrL_0a5635b5-e5fc-4d70-a5d5-83272c3e91cf.jpg?v=1723044387
   Price: $37.99 USD
 - [Stylish and Stain-Resistant GARVEE Washable Runner Rug for Your Home](https://www.garvee.com/products/garvee-gaomon-washable-runner-rug-2x7-pho-0vejemjj-1): Discover the GARVEE Washable Runner Rug, featuring a colorful boho design, non-slip backing, and easy machine washability—perfect for high-traffic areas!
-  Updated: 2025-11-11T04:48:00Z
+  Updated: 2025-11-11T10:17:41Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81AkR6WvbOL_8cc1aba1-b258-49f5-9cb0-abd2445cc2d0.jpg?v=1723044387
   Price: $29.99 USD
 - [GARVEE Boho Geometric Area Rug - Stylish & Durable](https://www.garvee.com/products/garvee-cozyloom-area-rug-2x4-boho-pho-0vej4u6h-1): Elevate your home decor with the GARVEE Boho Geometric Area Rug. Made of soft, durable chenille, it's machine washable and non-slip, perfect for any indoor space.
-  Updated: 2025-11-11T04:48:00Z
+  Updated: 2025-11-11T10:17:42Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/715fuOwGNWL_1263d49f-e37a-4c1f-84aa-53f90fb0f41b.jpg?v=1723044388
   Price: $33.99 USD
 - [GARVEE Geometric Boho Round Rug - Premium Chenille, Non-Slip, Machine Washable](https://www.garvee.com/products/garvee-cozyloom-geometric-boho-round-rug-pho-0vejncl5-1): Discover the GARVEE Geometric Boho Round Rug, crafted from premium chenille for softness and durability. Non-slip, low pile, and machine washable, it's perfect for any room.
-  Updated: 2025-11-11T04:48:02Z
+  Updated: 2025-11-11T10:17:43Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81H978CAL_L_37b26797-771a-483e-943b-5f9315903c79.jpg?v=1723044391
   Price: $33.99 USD
 - [GARVEE Moroccan Area Rug - Soft Chenille Indoor Rug for Living Room](https://www.garvee.com/products/garvee-cozyloom-moroccan-area-rug-4x6-pho-0vejxtmo-1): Discover the GARVEE Moroccan Area Rug, crafted from premium chenille for a soft, durable finish. Machine washable and non-slip, it's perfect for any indoor space.
-  Updated: 2025-11-11T04:48:03Z
+  Updated: 2025-11-11T09:54:38Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91fD2o0L3PL_0ebc3529-714b-40c7-b624-58f259962706.jpg?v=1723044390
   Price: $54.99 USD
 - [GARVEE Black Boho Runner Rug - Stylish & Washable](https://www.garvee.com/products/garvee-fashionwu-black-boho-runner-rug-pho-0vejp78o-1): Discover the GARVEE Black Boho Runner Rug, featuring a slip-resistant design, machine washable convenience, and timeless Moroccan patterns to elevate your home decor.
-  Updated: 2025-11-11T04:48:04Z
+  Updated: 2025-11-11T10:17:44Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81a2bhC5U4L_e17a5bc9-0ae2-45e1-8467-7a7fc35c0e8a.jpg?v=1723044391
   Price: $41.99 USD
 - [GARVEE Moroccan Rug - Stylish, Non-Slip, and Machine Washable](https://www.garvee.com/products/garvee-zacoo-moroccan-rug-3x3-round-pho-0vejphzz-1): Elevate your space with the GARVEE Moroccan Rug. Stylish, stain-resistant, and machine washable, this non-slip rug is perfect for any room, ensuring safety and durability.
-  Updated: 2025-11-11T04:48:05Z
+  Updated: 2025-11-11T10:17:45Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81tpYMQPPrL_238778c8-546a-46aa-a25b-330c95e4c80a.jpg?v=1723044391
   Price: $27.99 USD
 - [GARVEE Boho Rug - Stylish & Washable Area Rug for Your Home](https://www.garvee.com/products/garvee-fashionwu-boho-rug-grey-area-pho-0vej51il-1): Discover the GARVEE Boho Rug, a soft, low-pile, machine washable rug with a slip-resistant backing. Perfect for any room, it combines elegance with practicality.
-  Updated: 2025-11-11T04:48:07Z
+  Updated: 2025-11-11T09:54:42Z
   Vendor: Garvee
   Product Type: Rugs > Boho Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1670239257789.jpg?v=1762332724
   Price: $56.99 USD
 - [GARVEE 2x6 Ombre Runner Rugs - Non Slip, Stylish, and Easy to Clean](https://www.garvee.com/products/garvee-nanan-2x6-ombre-runner-rugs-pho-0zli8ea5-1): Elevate your space with GARVEE's 2x6 Ombre Runner Rugs. Soft, durable, and machine washable, perfect for high-traffic areas. Enjoy free shipping in the USA!
-  Updated: 2025-11-11T04:48:08Z
+  Updated: 2025-11-11T10:17:47Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/710Uxbf4CGL_aa61859d-3d98-4ae0-b034-c575ecd5f4c7.jpg?v=1723044552
   Price: $41.99 USD
 - [GARVEE 2x6 Ombre Runner Rugs - Modern Non-Slip Indoor Rug](https://www.garvee.com/products/garvee-nanan-2x6-ombre-runner-rugs-pho-0zli7twj-1): GARVEE Stylish ombre rugs with a soft texture, durable for high-traffic areas, versatile for any space, and machine washable for easy care.
-  Updated: 2025-11-11T04:48:09Z
+  Updated: 2025-11-11T10:17:49Z
   Vendor: Garvee
   Product Type: Rugs > Abstract Rugs
   Availability: Available
@@ -26321,14 +26335,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51xaJaDwRlL_eb5fd7f5-5dd5-41ef-ae6f-7dd94be740e0.jpg?v=1723044655
   Price: $45.99 USD
 - [GARVEE Washable Floral Print Area Rug - 5x7 Traditional Vintage Boho Design](https://www.garvee.com/products/garvee-washable-floral-print-area-rug-pho-0zxrg5hi-1): Elevate your space with the GARVEE washable floral print area rug. Its non-slip backing ensures safety, while the low-pile design resists shedding for easy maintenance.
-  Updated: 2025-11-11T04:48:14Z
+  Updated: 2025-11-11T09:54:49Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91nSxW-BVpL_2b36a19f-b893-4db7-83ca-7f48c6b6418b.jpg?v=1723044655
   Price: $65.99 USD
 - [GARVEE Washable Floral Print Area Rug - 6x9 Vintage Boho Design](https://www.garvee.com/products/garvee-washable-floral-print-area-rug-pho-0zxrcefd-1): Discover the GARVEE 6x9 Washable Floral Print Area Rug, featuring a non-slip rubber backing and low-pile design for easy maintenance and lasting elegance in any room.
-  Updated: 2025-11-11T04:48:15Z
+  Updated: 2025-11-11T09:54:50Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26349,42 +26363,42 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81wAHD2vkTL_347f52b0-8558-4a63-9642-350a31a4f395.jpg?v=1723044932
   Price: $53.99 USD
 - [GARVEE 8x10 Area Rug - Modern Chenille, Easy-Clean, Non-Slip](https://www.garvee.com/products/garvee-cozyloom-8x10-area-rug-for-pho-10n5fd8h-1): Discover the GARVEE 8x10 Area Rug, crafted from premium chenille for softness and durability. Machine washable and non-slip, perfect for high-traffic areas.
-  Updated: 2025-11-11T04:48:21Z
+  Updated: 2025-11-11T09:54:55Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91dzuhau0hL_473bf978-9fd5-4e1f-a632-9d540fe0ed42.jpg?v=1723044932
   Price: $98.99 USD
 - [GARVEE 8x10 Area Rug - Modern Chenille Carpet for Easy Cleaning](https://www.garvee.com/products/garvee-cozyloom-8x10-area-rug-for-pho-10n5teky-1): Discover the GARVEE 8x10 Area Rug, crafted from premium chenille for softness and durability. Machine washable, non-slip, and perfect for high-traffic areas.
-  Updated: 2025-11-11T04:48:21Z
+  Updated: 2025-11-11T09:54:55Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91-0yUq3P6L_02434c1a-185a-46db-830d-d1ddcda20b37.jpg?v=1723044933
   Price: $131.99 USD
 - [GARVEE Washable Area Rug 9x12 - Modern Light Grey Non-Slip Rug for Home](https://www.garvee.com/products/garvee-washable-area-rug-9x12-modern-rug-for-living-room-contemporary-solid-textured-rug-indoor-carpet-easy-cleaning-foldable-rug-boho-non-slip-accent-throw-carpet-for-bedroom-home-office-light-grey-garvee-1): Discover the GARVEE Washable Area Rug, featuring a soft chenille surface, easy cleaning, and non-slip backing. Perfect for high-traffic areas in your home.
-  Updated: 2025-11-11T04:48:22Z
+  Updated: 2025-11-11T09:54:56Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81bkzoeV6vL_f2d2843f-fe0d-4fa7-a3f9-52b97bc1a6ea.jpg?v=1723044932
   Price: $147.99 USD
 - [GARVEE Washable Area Rug - Modern 9x12 Indoor Carpet](https://www.garvee.com/products/garvee-washable-area-rug-9x12-modern-rug-for-living-room-contemporary-solid-textured-rug-indoor-carpet-easy-cleaning-foldable-rug-boho-non-slip-accent-throw-carpet-for-bedroom-home-office-khaki-garvee-1): Discover the GARVEE Washable Area Rug, a premium, non-shedding chenille rug. Easy to clean, foldable, and non-slip, it's perfect for any room in your home.
-  Updated: 2025-11-11T04:48:23Z
+  Updated: 2025-11-11T09:54:57Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91-0yUq3P6L_c785b76d-87fb-4994-a2b8-bb482cc3c6b1.jpg?v=1723044932
   Price: $102.99 USD
 - [GARVEE 4x6 Shag Rug - Soft, Non-Slip, Stain Resistant Area Rug for Modern Homes](https://www.garvee.com/products/garvee-zacoo-area-rug-4x6-shag-pho-0rqykjkg-1): Discover the GARVEE 4x6 Shag Rug, crafted from premium synthetic fibers for ultimate softness. Non-slip, stain-resistant, and perfect for any room!
-  Updated: 2025-11-11T04:48:31Z
+  Updated: 2025-11-11T09:55:06Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91ItCGFP2OL_02f9d33d-7f47-429b-8f0a-534635cdc36d.jpg?v=1723044987
   Price: $86.99 USD
 - [GARVEE Tribal Area Rug - Premium Vintage Floral Design](https://www.garvee.com/products/garvee-tribal-area-rug-9x12-large-vintage-rug-washable-rug-oriental-floral-print-farmhouse-thin-rug-non-slip-backing-foldable-rug-indoor-bedroom-rug-carpet-low-pile-non-shedding-throw-carpet-taupe-garvee-2): Discover the GARVEE Tribal Area Rug: a 9x12 washable, non-slip rug with a low pile design, perfect for high traffic areas. Enjoy easy maintenance and a luxurious feel.
-  Updated: 2025-11-11T04:48:40Z
+  Updated: 2025-11-11T09:55:15Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26405,7 +26419,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cfRshrkVL_77fee428-8eea-4dec-8580-86b94e02c6c9.jpg?v=1723046106
   Price: $74.99 USD
 - [GARVEE Vintage Medallion Print Boho Area Rug - 4x6 Non-Slip, Washable](https://www.garvee.com/products/garvee-vintage-medallion-print-boho-area-pho-0zxprh10-1): Discover the GARVEE Vintage Medallion Print Area Rug! This washable, non-slip rug features a stylish grey-green design, perfect for any room. Enjoy easy maintenance and safety.
-  Updated: 2025-11-11T04:48:43Z
+  Updated: 2025-11-11T09:55:18Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26419,21 +26433,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81TlkxMyMVL_2e33a226-cadd-4fc5-ac75-0d9ecf0183e9.jpg?v=1723046106
   Price: $34.99 USD
 - [GARVEE Vintage Medallion Print Area Rug - Stylish & Functional](https://www.garvee.com/products/garvee-vintage-medallion-print-area-rug-pho-0zxpni1o-1): Elevate your space with the GARVEE Vintage Medallion Print Area Rug. Washable, non-slip, and foldable, it's perfect for dining rooms, offices, and more!
-  Updated: 2025-11-11T04:48:43Z
+  Updated: 2025-11-11T09:55:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cfRshrkVL_bafa71ca-9955-4210-91f8-13f1dd5ac668.jpg?v=1723046106
   Price: $74.99 USD
 - [GARVEE Vintage Medallion Print Area Rug - Boho Style, Washable, Non-Slip](https://www.garvee.com/products/garvee-vintage-medallion-print-area-rug-pho-0zxpqs18-1): Enhance your space with the GARVEE Vintage Medallion Print Area Rug. This 6x9 washable rug features a non-slip backing, low pile comfort, and elegant boho design.
-  Updated: 2025-11-11T04:48:44Z
+  Updated: 2025-11-11T09:55:19Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51o6iRORCnL_bd1c52c9-050d-43f2-bff8-81116c78cfae.jpg?v=1723046106
   Price: $94.99 USD
 - [GARVEE Vintage Medallion Print Area Rug - Elegant Boho Design](https://www.garvee.com/products/garvee-vintage-medallion-print-area-rug-9x12-boho-traditional-washable-carpet-with-low-pile-non-slip-rubber-backing-foldable-ideal-for-dining-room-office-bedroom-living-room-green-beige-garvee-1): Enhance your space with the GARVEE Vintage Medallion Print Area Rug. Washable, non-slip, and foldable, this 9x12 rug offers style and safety for any room.
-  Updated: 2025-11-11T04:48:45Z
+  Updated: 2025-11-11T09:55:20Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26545,7 +26559,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61pRkgjThmL.jpg?v=1723046334
   Price: $125.99 USD
 - [GARVEE 9x12 Washable Non-Slip Boho Rug - Stylish & Stain Resistant](https://www.garvee.com/products/garvee-9x12-rug-for-living-room-washable-rug-non-slip-boho-rug-floor-mats-throw-rugs-for-dining-room-oriental-carpet-stain-resistant-no-shedding-classroom-office-rug-9x12-sage-green-grey-garvee-1): Transform your space with the GARVEE 9x12 washable rug. Its soft faux wool, non-slip backing, and stain resistance make it perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:48:51Z
+  Updated: 2025-11-11T09:55:25Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26559,28 +26573,28 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81cMaXuX3lL_001abd6f-3275-4fec-a14c-0b137f17e0f2.jpg?v=1723046357
   Price: $123.99 USD
 - [GARVEE Boho Washable Area Rugs - Soft, Non-Slip, Stain Resistant](https://www.garvee.com/products/garvee-luxloom-boho-washable-area-rugs-pho-13gakhvs-1): Transform your space with GARVEE's 5x7 boho area rug. Made from soft faux wool, it features a non-slip backing and is machine washable for easy care.
-  Updated: 2025-11-11T04:48:56Z
+  Updated: 2025-11-11T09:55:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91DzNZ8SWzL_6a132ff3-2cf6-4b1c-b3f9-5be9ae184d9b.jpg?v=1723046362
   Price: $55.99 USD
 - [GARVEE 6 Inch Queen Size Metal Platform Bed Frame - Multi-functional and Stylish](https://www.garvee.com/products/garvee-gaomon-6-inch-queen-size-pho-11aykf3l-1): Discover the GARVEE 6 Inch Queen Size Metal Platform Bed Frame, perfect for indoor use. Its unique wave design and sturdy construction make it versatile for various needs.
-  Updated: 2025-11-10T04:31:16Z
+  Updated: 2025-11-11T09:43:50Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81D-xlyu_tL_d0545f0e-4ec2-47a6-bc41-e43bc873e42f.jpg?v=1723046363
   Price: $108.99 USD
 - [GARVEE 6 Inch Full Size Metal Platform Bed Frame with Wavy Pattern](https://www.garvee.com/products/garvee-idealhouse-6-inch-full-size-pho-11aynth2-1): Discover the GARVEE Full Size Metal Platform Bed Frame, perfect for indoor use. Its sturdy design and unique wave pattern make it a versatile choice for any bedroom.
-  Updated: 2025-11-10T14:31:18Z
+  Updated: 2025-11-11T09:43:50Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91OY6UCIvrL_4c0c61da-8454-4562-89a3-d669a6b7e94d.jpg?v=1723046362
   Price: $101.99 USD
 - [GARVEE 6 Inch King Size Metal Platform Bed Frame - Versatile & Stylish](https://www.garvee.com/products/garvee-idealhouse-6-inch-king-size-pho-11aykuk2-1): Discover the GARVEE King Size Metal Platform Bed Frame, perfect for indoor use. Its sturdy design and unique wave pattern make it a versatile choice for any bedroom.
-  Updated: 2025-11-11T03:55:22Z
+  Updated: 2025-11-11T09:40:09Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -26608,21 +26622,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61JDfH0vnYL_d1f36b9a-a929-4f9a-99fd-79cb75a87ed9.jpg?v=1723081311
   Price: $56.99 USD
 - [GARVEE Boho Vintage Medallion Area Rug - 8x10 Washable Floral Print Rug](https://www.garvee.com/products/garvee-boho-vintage-medallion-area-rug-pho-0zu4k0z0-1): Discover the GARVEE Boho Vintage Medallion Area Rug. This washable, low-pile, non-shedding rug offers easy cleaning and a non-slip design, perfect for any room.
-  Updated: 2025-11-11T04:48:56Z
+  Updated: 2025-11-11T09:55:31Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91DddQsUA4L_15138afa-9cdd-48d0-878e-dcf4fd4988ff.jpg?v=1723081311
   Price: $84.99 USD
 - [GARVEE Boho Vintage Medallion Area Rug - 9x12 Washable Floral Print Rug](https://www.garvee.com/products/garvee-boho-vintage-medallion-area-rug-9x12-washable-floral-print-rug-easy-cleaning-low-pile-non-shedding-non-slip-soft-accent-carpet-for-dining-room-home-office-bedroom-entryway-garvee-1): Discover the GARVEE Boho Vintage Medallion Area Rug, a washable, low-pile, non-shedding carpet perfect for high-traffic areas. Enjoy its non-slip, soft texture and vibrant floral design.
-  Updated: 2025-11-11T04:48:57Z
+  Updated: 2025-11-11T09:55:31Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91DddQsUA4L_ab688cd2-b9d6-4607-9994-658f0ea67420.jpg?v=1723081311
   Price: $104.99 USD
 - [GARVEE Boho Vintage Medallion Area Rug - 5x7 Washable Floral Print Rug](https://www.garvee.com/products/garvee-boho-vintage-medallion-area-rug-pho-0zu44cs0-1): Discover the GARVEE Boho Vintage Medallion Area Rug: washable, low-pile, non-shedding, and non-slip. Perfect for dining rooms, home offices, and bedrooms.
-  Updated: 2025-11-11T04:48:58Z
+  Updated: 2025-11-11T09:55:32Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26643,7 +26657,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81SGJOl0F5L_42647109-61ee-42ff-a24f-fe81a11f95c0.jpg?v=1753515495
   Price: $235.99 USD
 - [Garvee Twin Size Bed Frame with 2 Storage Drawers and Charging Station, Rustic Linen Upholstered Platform Bedframe with Storage Headboard, Heavy Duty, Easy to Assemble for Kids, Grey](https://www.garvee.com/products/garvee-gaomon-twin-size-bed-frame-pho-10vu8z60-1): Discover the GARVEE Twin Size Bed Frame, perfect for indoor use. This multifunctional bed features storage drawers and a charging station, ideal for any space.
-  Updated: 2025-11-11T04:31:20Z
+  Updated: 2025-11-11T08:16:27Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -26692,63 +26706,63 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/713SvOSe1vL_d97a0e2e-c8d2-4b08-b63e-700e0c5036a2.jpg?v=1727662558
   Price: $55.99 USD
 - [GARVEE Washable Rug - Soft, Non-Slip, and Stylish for Any Room](https://www.garvee.com/products/garvee-gaomon-washable-rug-6x9-rugs-pho-11tkozpw-1): Discover the GARVEE Washable Rug, featuring a chic geometric design, soft low-pile surface, and non-slip backing. Ideal for high traffic areas, easy to maintain!
-  Updated: 2025-11-11T04:49:11Z
+  Updated: 2025-11-11T09:55:46Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81W6zrHm6rL_48d738ab-3479-45e5-8c72-a7ad4b6e0634.jpg?v=1723080950
   Price: $93.99 USD
 - [GARVEE 6x9 Grey Block Pattern Rug - Stylish & Washable](https://www.garvee.com/products/garvee-nanan-living-room-rug-6x9-pho-11tkfwgc-1): Elevate your home with GARVEE's 6x9 washable rug featuring a modern block pattern. Soft, durable, and perfect for high-traffic areas, it's easy to maintain and adds comfort.
-  Updated: 2025-11-11T04:49:12Z
+  Updated: 2025-11-11T09:55:47Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51wtHDdhTnL_83715244-0617-4a60-be48-9cb4b899a1b6.jpg?v=1723080950
   Price: $87.99 USD
 - [GARVEE 2x6 Runner Rug - Stylish & Non-Slip Washable Area Rug for Any Room](https://www.garvee.com/products/garvee-gaomon-area-rug-2x6-runner-pho-11tkdjsl-1): Discover the GARVEE 2x6 Runner Rug, featuring premium polyester, non-slip backing, and easy maintenance. Perfect for high traffic areas, adding style and safety!
-  Updated: 2025-11-11T04:49:12Z
+  Updated: 2025-11-11T10:18:04Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81JCLkrVbmL_bd63f1d8-2cb9-4a41-9b56-5f53f39b4ed6.jpg?v=1723080950
   Price: $41.99 USD
 - [GARVEE Washable Rug 3x5 - Stylish & Durable Indoor/Outdoor Floor Cover](https://www.garvee.com/products/garvee-nanan-washable-rug-3x5-geometric-pho-11tktaj4-1): Transform your space with GARVEE's washable rug. Its cozy texture, modern geometric design, and easy maintenance make it perfect for high-traffic areas.
-  Updated: 2025-11-11T04:49:14Z
+  Updated: 2025-11-11T09:55:49Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81CUQig399L_0909b7bb-d3a9-4700-a846-92fd9cf20d9b.jpg?v=1723080950
   Price: $39.99 USD
 - [GARVEE Bedroom Rug 8x10 - Modern, Machine Washable, Durable & Cozy](https://www.garvee.com/products/garvee-nanan-bedroom-rug-8x10-large-pho-11tkbliq-1): Transform your space with GARVEE's 8x10 washable rug. Its stylish patchwork design is perfect for high-traffic areas, providing comfort and easy care.
-  Updated: 2025-11-11T04:49:15Z
+  Updated: 2025-11-11T09:55:51Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91HF6n8MObL_fb4ed47f-7ac4-4f13-b5f2-27f85da5b1d4.jpg?v=1723080950
   Price: $135.99 USD
 - [Garvee Washable Geometric Rug 5x7 Brown Low Pile Non Slip Bedroom Living Room](https://www.garvee.com/products/garvee-nanan-bedroom-rug-5x7-machine-pho-11tkn5cu-1): Transform your space with GARVEE's 5x7 washable rug, featuring a cozy texture and durable design, perfect for high-traffic areas. Stylish and easy to maintain!
-  Updated: 2025-11-11T04:49:16Z
+  Updated: 2025-11-11T09:55:52Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81jevleRdWL_bd37f525-3b58-4428-b8e9-b26f340b9349.jpg?v=1723080950
   Price: $71.99 USD
 - [GARVEE Area Rugs - Stylish, Washable, Non-Slip Rugs for Modern Homes](https://www.garvee.com/products/garvee-area-rugs-9x12-washable-rug-large-rugs-for-living-room-modern-rug-indoor-geometric-print-rug-contemporary-boxes-patchwork-rug-aesthetic-rug-non-slip-foldable-rug-for-bedroom-home-office-brown-garvee-1): Discover GARVEE's 9x12 washable area rug, featuring a chic geometric design, non-slip backing, and easy maintenance—perfect for any room in your home.
-  Updated: 2025-11-11T04:49:17Z
+  Updated: 2025-11-11T09:55:53Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81W6zrHm6rL_38800818-dfcf-48f9-8aa0-6458d1944cb4.jpg?v=1723080950
   Price: $158.99 USD
 - [GARVEE Indoor Rug - Stylish & Durable Area Rug for Home and Office](https://www.garvee.com/products/garvee-nanan-indoor-rug-8x10-large-pho-11tk3hom-1): Discover the GARVEE Indoor Rug: machine washable, non-slip, and perfect for high-traffic areas. Enjoy a cozy texture and timeless block pattern for any space.
-  Updated: 2025-11-11T04:49:18Z
+  Updated: 2025-11-11T09:55:54Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91-ex9KB6VL_7ad54434-286d-4c93-9bba-2cfdcc2f924c.jpg?v=1723080954
   Price: $124.99 USD
 - [GARVEE Washable Rugs - Stylish & Durable Area Rugs for Any Room](https://www.garvee.com/products/garvee-washable-rugs-for-living-room-9x12-large-geometric-area-rugs-patchwork-pattern-carpet-non-slip-bedroom-rug-block-pattern-dining-room-rug-modern-office-rug-grey-floor-cover-garvee-1): Discover GARVEE's washable rugs with a modern geometric design. Perfect for high-traffic areas, they're cozy, easy to clean, and ideal for homes with kids and pets.
-  Updated: 2025-11-11T04:49:19Z
+  Updated: 2025-11-11T09:55:54Z
   Vendor: Garvee
   Product Type: Rugs > Geometric Rugs
   Availability: Available
@@ -26762,7 +26776,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91n0LZsOcJL_68b4c4b9-65fc-4579-bc6e-371a90b7022d.jpg?v=1754649100
   Price: $109.99 USD
 - [GARVEE King Size Bed Frame(Adjustable Headboard) - Versatile & Stylish](https://www.garvee.com/products/garvee-idealhouse-king-size-bed-frame-pho-108yy2ed-1): Transform your bedroom with the GARVEE King Size Bed Frame. Perfect for indoor use, its adjustable headboard and sturdy design offer multi-functional comfort.
-  Updated: 2025-11-11T04:54:45Z
+  Updated: 2025-11-11T09:40:45Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Beds & Bed Frames
   Availability: Available
@@ -26776,35 +26790,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81IXVITZS_L_5b69d284-f0b8-44b6-8f33-84d8480652c5.jpg?v=1723081311
   Price: $53.99 USD
 - [GARVEE Living Room Rug 8X10 - Soft, Non-Slip & Machine Washable Grey Rug](https://www.garvee.com/products/garvee-glowsol-living-room-rug-8x10-pho-104stewq-1): Discover the GARVEE 8X10 Living Room Rug, crafted from premium polyester, featuring a non-slip design, low pile, and stain resistance, perfect for homes with kids and pets.
-  Updated: 2025-11-11T04:49:38Z
+  Updated: 2025-11-11T09:56:16Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81qvi8Z6j7L_56d45d91-14d5-4cba-8a63-97bef6c4acf2.jpg?v=1723081573
   Price: $93.99 USD
 - [GARVEE Living Room Rug - Soft, Non-Slip, and Machine Washable](https://www.garvee.com/products/garvee-glowsol-living-room-rug-8x10-pho-104sm4tj-1): Discover the GARVEE Living Room Rug: a soft, non-slip, and machine washable rug in brick red. Perfect for high-traffic areas, child and pet-friendly!
-  Updated: 2025-11-11T04:49:39Z
+  Updated: 2025-11-11T09:56:16Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91A08MrAoCL_110ec664-82e6-435b-8019-d8551a838696.jpg?v=1723081573
   Price: $79.99 USD
 - [GARVEE Large 9X12 Brick Red Rug - Soft, Washable, Non-Slip Area Rug for Living Room](https://www.garvee.com/products/garvee-large-rug-9x12-solid-contemporary-area-rug-washable-rug-brick-red-rug-thin-living-room-rug-indoor-carpet-soft-low-pile-rug-reversible-bedroom-rug-for-nursery-room-brick-red-garvee-1): Discover the GARVEE 9X12 Brick Red Rug, crafted from premium polyester for softness and durability. Non-slip, stain-resistant, and perfect for kids and pets!
-  Updated: 2025-11-11T04:49:44Z
+  Updated: 2025-11-11T09:56:21Z
   Vendor: Garvee
   Product Type: Rugs > Solid Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91A08MrAoCL_3b11735b-89e0-4b47-945c-8d6ad640c920.jpg?v=1723081575
   Price: $104.99 USD
 - [GARVEE 10x13 Fluffy Area Rug - Soft, Non-Slip, and Durable](https://www.garvee.com/products/garvee-caromio-10x13-fluffy-area-rugs-pho-0pw2o62g-2): Experience ultimate comfort with the GARVEE 10x13 Fluffy Area Rug. Its ultra-soft faux fur, non-slip design, and easy maintenance make it perfect for any room.
-  Updated: 2025-11-11T04:49:49Z
+  Updated: 2025-11-11T09:56:27Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71Qxy_kuEZL_9cb9359a-09d7-4714-9570-8843401b99af.jpg?v=1723082771
   Price: $125.99 USD
 - [GARVEE Large Area Rug 10x13 - Fluffy, Non-Shedding, Easy Care](https://www.garvee.com/products/garvee-nanan-large-area-rug-10x13-pho-0pw2xq4b-2): Discover the GARVEE 10x13 Fluffy Rug, designed with a non-slip rubber backing for safety. Perfect for kids and pets, it's stain-resistant, easy to clean, and adds a touch of luxury to any room.
-  Updated: 2025-11-11T04:49:50Z
+  Updated: 2025-11-11T09:56:28Z
   Vendor: Garvee
   Product Type: Rugs > Fluffy & Sheepskin Rugs
   Availability: Available
@@ -26818,14 +26832,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71rXsNX5dOL_958faa0d-24c1-4fd6-a690-ed6334749fcc.jpg?v=1753247857
   Price: $119.99 USD
 - [GARVEE 4x6 Vintage Area Rug - Non-Slip, Lightweight, and Stylish](https://www.garvee.com/products/garvee-glowsol-area-rug-4x6-vintage-pho-0z8diufa-1): Enhance your home with the GARVEE 4x6 Vintage Rug. Made from premium polyester, this non-slip, lightweight rug is perfect for high traffic areas and is child and pet-friendly.
-  Updated: 2025-11-11T04:49:50Z
+  Updated: 2025-11-11T09:56:28Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51kwYiO1JML_c9e11491-87c0-45d5-952d-42ce572ec4a9.jpg?v=1723086204
   Price: $46.99 USD
 - [GARVEE Vintage Area Rug 4x6 - Non-Slip, Lightweight, Boho Design](https://www.garvee.com/products/garvee-glowsol-area-rug-4x6-vintage-pho-0z8dx2h3-1): Discover the GARVEE 4x6 Vintage Area Rug, featuring a non-slip, lightweight design. Perfect for high traffic areas, it's child and pet-friendly, adding elegance to any room.
-  Updated: 2025-11-11T04:49:52Z
+  Updated: 2025-11-11T09:56:30Z
   Vendor: Garvee
   Product Type: Rugs > Oriental Rugs
   Availability: Available
@@ -26930,35 +26944,35 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71wm5WrBvQL.jpg?v=1726829863
   Price: $108.99 USD
 - [GARVEE 24V 4WD Ride on Car for Kids - Versatile Fun for Ages 3-8](https://www.garvee.com/products/garvee-24v-4wd-ride-on-car-pto-0zc84pdg): Discover the GARVEE 24V Ride-On Car, perfect for outdoor adventures! With 6 EVA wheels and multiple speed settings, it’s ideal for various terrains and activities.
-  Updated: 2025-11-11T04:31:28Z
+  Updated: 2025-11-11T09:16:28Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71iZeVQz7gL.jpg?v=1726829878
   Price: $328.99 USD
 - [Garvee Ride - P Series: 24V 4WD Ride on Car Kids Ages 3-8, with 6 EVA Wheels, Battery Powered & Remote Control, 3 Adjustable Speeds, Soft Start, Battery Display, Music - White](https://www.garvee.com/products/garvee-24v-4wd-ride-on-car-pto-0zc8i8iu): Explore the outdoors with the GARVEE 24V Ride-On Car! Perfect for ages 3-8, it offers versatile fun on various terrains, ensuring endless adventures.
-  Updated: 2025-11-10T15:45:18Z
+  Updated: 2025-11-11T09:16:28Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71mAgJ6z2uL.jpg?v=1726829878
   Price: $328.99 USD
 - [GARVEE 24V 4WD Ride on Car for Kids - Fun & Safe Adventure](https://www.garvee.com/products/garvee-24v-4wd-ride-on-car-pto-0zc8h8uh): Discover the GARVEE 24V Ride-On Car, perfect for outdoor adventures. This versatile vehicle offers multiple functions for kids aged 3-8, ensuring endless fun!
-  Updated: 2025-11-10T15:53:32Z
+  Updated: 2025-11-11T09:16:28Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71OnO3BSrOL.jpg?v=1726829878
   Price: $328.99 USD
 - [GARVEE 24V 4WD Ride on Car for Kids - Versatile Fun](https://www.garvee.com/products/garvee-24v-4wd-ride-on-car-pto-0zc84km3): The GARVEE 24V Ride-On Car is perfect for outdoor adventures and indoor fun. With remote control and multiple speeds, it offers versatile play for kids ages 3-8.
-  Updated: 2025-11-10T15:45:36Z
+  Updated: 2025-11-11T09:14:27Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71o0xGDsV-L.jpg?v=1726829879
   Price: $328.99 USD
 - [GARVEE 24V 4WD Ride on Car for Kids - Versatile Fun for Ages 3-8](https://www.garvee.com/products/garvee-24v-4wd-ride-on-car-pto-0zc8t9cf): Explore the outdoors or indoors with the GARVEE 24V Ride-On Car. This versatile, battery-powered vehicle offers multiple features for endless fun and adventure!
-  Updated: 2025-11-10T15:51:30Z
+  Updated: 2025-11-11T09:16:28Z
   Vendor: Garvee
   Product Type: Ride On Toys > Ride On Jeeps
   Availability: Available
@@ -27497,14 +27511,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71KsT5qpMdL.jpg?v=1726832219
   Price: $155.99 USD
 - [GARVEE 60" 4000lbs Clamp on Pallet Forks - Heavy Duty Tractor Forks](https://www.garvee.com/products/garvee-gaomon-60-4000lbs-clamp-on-pho-15g5ugrf): Discover GARVEE's 60" Clamp on Pallet Forks with 4000lbs capacity. Adjustable stabilizer bar ensures stability, perfect for lifting logs and debris.
-  Updated: 2025-11-11T00:54:23Z
+  Updated: 2025-11-11T08:56:26Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Pallet Forks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51oVF4osL_L.jpg?v=1726832280
   Price: $169.99 USD
 - [Garvee 43" 2500lbs Clamp on Pallet Forks Heavy Duty Tractor Forks with Adjustable Stabilizer Bar Quick Attach Pallet Fork for Bucket Tractor Loader Skid Steer](https://www.garvee.com/products/garvee-garveetech-43-2500lbs-clamp-on-pho-15g5s31x): Transform your tractor with GARVEE's 43" clamp-on pallet forks, offering a robust 2500lbs capacity, universal compatibility, and versatile applications for all your material handling needs.
-  Updated: 2025-11-10T21:31:42Z
+  Updated: 2025-11-11T10:18:15Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Equipment Parts & Accessories > Pallet Forks
   Availability: Available
@@ -27630,12 +27644,12 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91F8c5zgI1L.jpg?v=1726832591
   Price: $131.99 USD
 - [GARVEE Driveway Fabric: Heavy Duty Weed Control & Drainage Solution](https://www.garvee.com/products/garvee-tropow-driveway-fabric-13x108ft-woven-pho-11ie4b6e): Discover GARVEE Driveway Fabric, perfect for outdoor use. This versatile, heavy-duty fabric controls weeds and ensures proper drainage for various landscaping needs.
-  Updated: 2025-11-11T04:31:27Z
+  Updated: 2025-11-11T09:40:17Z
   Vendor: Garvee
   Product Type: Lawn & Garden > Garden Supplies > Landscape Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/31j4vcwdZTL.jpg?v=1726832594
-  Price: $59.99 USD
+  Price: $69.99 USD
 - [GARVEE Artificial Fiddle Leaf Fig Tree - Enhance Your Home Decor](https://www.garvee.com/products/garvee-garveehome-artificial-fiddle-leaf-fig-pho-14lcoc1y-1): Experience exceptional customer service with fast shipping and quality support. Enjoy a hassle-free shopping experience with free shipping and easy returns!
   Updated: 2025-11-10T05:46:40Z
   Vendor: Garvee
@@ -27791,7 +27805,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71vwNdLi09L_24d088ba-1cc0-4048-902b-f87edbdde5e7.jpg?v=1726833104
   Price: $322.99 USD
 - [GARVEE Chafing Dish Buffet Set - Perfect for Any Event](https://www.garvee.com/products/garvee-garveehome-chafing-dish-buffet-set-pho-15f35nlx): Elevate your indoor and outdoor gatherings with the GARVEE Chafing Dish Buffet Set. Ideal for parties, weddings, and camping, it offers versatile serving solutions.
-  Updated: 2025-11-11T06:06:32Z
+  Updated: 2025-11-11T10:43:03Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Holding & Warming Equipment > Chafing Dishes & Accessories
   Availability: Available
@@ -28022,14 +28036,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81oAYwd78YL.jpg?v=1747818884
   Price: $148.99 USD
 - [GARVEE Shoe Cabinet with 3 Flip Drawers- Stylish and Functional Storage Solution](https://www.garvee.com/products/garvee-gaomon-shoe-cabinet-with-3-pho-15g05qfb): Discover the GARVEE Shoe Cabinet, a versatile storage solution perfect for entryways and living rooms. Its modern design accommodates 18-24 pairs of shoes, keeping spaces organized and stylish.
-  Updated: 2025-11-11T00:26:07Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Entryway > Shoe Organizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71kWRkC90dL.jpg?v=1747818774
   Price: $133.99 USD
 - [GARVEE Modular Kids Couch - Creative Play for Kids](https://www.garvee.com/products/garvee-garveehome-modular-kids-couch-13pcs-pto-0z8hf3ym): Transform playtime with the GARVEE Modular Kids Couch! Perfect for toddlers, this versatile couch inspires creativity and comfort with 13 soft, durable pieces.
-  Updated: 2025-11-11T04:39:01Z
+  Updated: 2025-11-11T09:10:03Z
   Vendor: Garvee
   Product Type: Home & Furniture > Baby & Kids > Kids' Sofas
   Availability: Available
@@ -28302,7 +28316,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61cV9swK77L_74af734c-574f-4786-bc5e-9ed4965a03e2.jpg?v=1734588761
   Price: $169.99 USD
 - [GARVEE Dining Table Bench Set for 4 - Versatile Space-Saving Dining Solution](https://www.garvee.com/products/garvee-dining-table-bench-set-for-pho-14ytr856): Discover the GARVEE Dining Table Bench Set, perfect for indoor gatherings. This versatile set serves as a dining table or study desk, maximizing space and functionality.
-  Updated: 2025-11-10T02:59:05Z
+  Updated: 2025-11-11T09:04:05Z
   Vendor: Garvee
   Product Type: Home & Furniture > Kitchen & Dining > Dining Tables & Seating
   Availability: Available
@@ -28379,14 +28393,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2SetSleighRideBase-02.jpg?v=1762507640
   Price: $139.99 USD
 - [Garvee 3ft Christmas Tree with 78 Lights, Perfect for Tabletops & Small Spaces](https://www.garvee.com/products/garvee-3ft-christmas-tree-with-78-lights-1-pcs-pho-0zgxe8jk): GARVEE 3ft Prelit Christmas Tree with 78 warm LEDs and stable sled base. Realistic, flame-retardant design with easy setup. Bring home festive cheer - shop now!
-  Updated: 2025-11-11T05:56:37Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Main-02_3935ec15-b52d-4456-a26e-16a5fc82dd1b.jpg?v=1762752943
   Price: $56.99 USD
 - [Garvee 3ft Christmas Tree with 78 Lights, Perfect for Tabletops & Small Spaces](https://www.garvee.com/products/garvee-3ft-christmas-tree-with-78-lights-2-pcs-pho-0zgxks97): GARVEE 3ft Prelit Christmas Tree with 78 warm LEDs and stable sled base. Realistic, flame-retardant design with easy setup. Bring home festive cheer - shop now!
-  Updated: 2025-11-11T02:58:06Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -28414,7 +28428,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61DUmMC0fKL.jpg?v=1729588359
   Price: $59.99 USD
 - [GARVEE 18 Inch Christmas Wreath - Snow Flocked Winter Decor](https://www.garvee.com/products/garvee-18-inch-christmas-wreath-for-pho-0z37rc24): Elevate your holiday decor with GARVEE's 18" snow flocked Christmas wreath, featuring vibrant red berries, apples, and pine cones for a stunning winter centerpiece.
-  Updated: 2025-11-11T06:50:18Z
+  Updated: 2025-11-11T12:01:33Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -28715,7 +28729,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91B4JP7MMcL_3c7cf8ed-55cd-46c5-83a3-71f53fe54659.jpg?v=1729588593
   Price: $99.99 USD
 - [GARVEE Bedroom Area Rug - Festive Christmas Decor](https://www.garvee.com/products/garvee-bedroom-area-rug-3x5-small-pho-15rarejk): Transform your space with the GARVEE 3x5 Christmas rug. Featuring a charming rustic design, it's machine washable, non-slip, and perfect for families.
-  Updated: 2025-11-10T21:58:43Z
+  Updated: 2025-11-11T09:21:02Z
   Vendor: Garvee
   Product Type: Rugs > Christmas Rugs
   Availability: Available
@@ -28904,7 +28918,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91fDbaPcqkL_4258db4d-339f-4029-9882-59e75338c06c.jpg?v=1729588670
   Price: $135.99 USD
 - [GARVEE Elegant Brown Lighted Christmas Wreath and Garland Set - Unique British Style Decor](https://www.garvee.com/products/garvee-elegant-brown-lighted-christmas-wreath-pho-0vfx7dwt): Transform your holidays with GARVEE's handcrafted British-style Christmas wreath and garland set. Features 8 light settings and eco-friendly materials for lasting beauty.
-  Updated: 2025-11-11T06:38:34Z
+  Updated: 2025-11-11T09:10:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -28932,7 +28946,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51utLMlUd_L.jpg?v=1729588780
   Price: $24.99 USD
 - [GARVEE 6ft Prelit Snow Flocked Christmas Tree - Perfect Xmas Decor](https://www.garvee.com/products/garvee-6-ft-snow-flocked-artificial-christmas-tree-pho-336x7kcb): Elevate your holiday decor with GARVEE's 6ft prelit snow flocked Christmas tree, featuring 250 dual color lights, 8 lighting modes, and easy assembly for a festive touch.
-  Updated: 2025-11-10T19:55:24Z
+  Updated: 2025-11-11T09:05:30Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -28953,7 +28967,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1665656177751.jpg?v=1729588789
   Price: $22.99 USD
 - [GARVEE 25Pcs Shatterproof Christmas Balls - Black & Gold](https://www.garvee.com/products/garvee-25pcs-2-36-inch-christmas-pho-15ozr1og): Elevate your holiday decor with GARVEE's 25 shatterproof Christmas balls. Featuring diverse styles and easy hanging design, these ornaments ensure a festive atmosphere without worry.
-  Updated: 2025-11-11T04:31:16Z
+  Updated: 2025-11-11T11:47:08Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -28967,7 +28981,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/51psl0U2a3L.jpg?v=1729588787
   Price: $36.99 USD
 - [GARVEE 25 Pcs Shatterproof Christmas Ornament Balls - Champagne Gold](https://www.garvee.com/products/garvee-25-pcs-christmas-tree-ornament-pho-15ozmcdq): Elevate your holiday decor with GARVEE's 25 shatterproof Christmas ornament balls. Featuring vibrant designs, they're durable, versatile, and perfect for any festive setting.
-  Updated: 2025-11-11T06:50:48Z
+  Updated: 2025-11-11T08:57:31Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29163,14 +29177,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/171437309076642QuoxWCLD.jpg?v=1729589107
   Price: $37.99 USD
 - [GARVEE Christmas Duvet Cover Set - Reversible Holiday Comfort](https://www.garvee.com/products/garvee-juego-de-funda-de-edredon-pho-0verh08y): Transform your bedroom with GARVEE's reversible Christmas duvet cover set, featuring ultra-soft microfiber, secure button closure, and festive plaid design.
-  Updated: 2025-11-11T04:39:02Z
+  Updated: 2025-11-11T09:40:47Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91lpT2fgNRL_32fb6dc5-0f35-4c3a-abe0-67c57ec3fad8.jpg?v=1729589120
   Price: $78.99 USD
 - [GARVEE Christmas Duvet Cover Set - Reversible Holiday Design](https://www.garvee.com/products/garvee-juego-de-funda-de-edredon-pho-0vermy9i): Transform your bedroom with the GARVEE Christmas Duvet Cover Set. Enjoy ultra-soft microfiber, reversible festive designs, and secure button closures for ultimate comfort.
-  Updated: 2025-11-11T04:54:46Z
+  Updated: 2025-11-11T09:21:04Z
   Vendor: Garvee
   Product Type: Home & Furniture > Bedroom > Bedding Accessories
   Availability: Available
@@ -29198,7 +29212,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81kolNF_ltL.jpg?v=1729589163
   Price: $35.99 USD
 - [GARVEE Merry Christmas Window Curtains - Festive Elegance for Your Home](https://www.garvee.com/products/garvee-merry-christmas-window-curtains-52wx84l-pho-0z21n80a): Experience premium customer service with fast shipping and quality support. Enjoy free shipping and easy returns for a delightful shopping experience!
-  Updated: 2025-11-10T05:52:59Z
+  Updated: 2025-11-11T10:33:54Z
   Vendor: Garvee
   Product Type: Home & Furniture > Home Decor > Curtains & Drapes
   Availability: Available
@@ -29268,7 +29282,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91cu75gbgRL._AC_SL1500.jpg?v=1754473538
   Price: $129.99 USD
 - [Garvee Pre-Lit Fiber Optic Christmas Tree 4.5FT with 300 LEDs 8 Modes Artificial Pine for Yard Home Entrances - 1 PCS](https://www.garvee.com/products/garvee-4-5-ft-artificial-fiber-pho-0wip7lhp): Elevate your holiday decor with the GARVEE 4.5 Ft Artificial Christmas Tree, featuring 300 pre-lit LED lights and 8 dynamic modes for a festive glow.
-  Updated: 2025-11-11T06:15:40Z
+  Updated: 2025-11-11T10:43:03Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29296,7 +29310,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81g6ALxecPL.jpg?v=1754635958
   Price: $75.99 USD
 - [GARVEE 4.5 Ft Pre-Lit Snow Flocked Christmas Tree with 108 LED Lights](https://www.garvee.com/products/garvee-artificial-christmas-tree-4-5-pho-0wipve74): Elevate your holiday decor with the GARVEE 4.5 Ft pre-lit Christmas tree, featuring lifelike flocked branches, 108 LED lights, and charming red berry clusters for a festive touch.
-  Updated: 2025-11-11T03:55:23Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29317,7 +29331,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/1715752829335LX5s2xYwxB_24db3872-f2ed-4e21-8eab-1981c8ce48fd.jpg?v=1730772153
   Price: $79.99 USD
 - [GARVEE 4.5ft Artificial Christmas Tree - A Thoughtful Holiday Decor](https://www.garvee.com/products/garvee-4-5ft-prelit-premium-snow-pho-0wipdyzp): Experience the magic of Christmas with GARVEE's 4.5ft pre-lit tree featuring 8 lighting modes, realistic foliage, and a sturdy design for festive joy indoors and outdoors.
-  Updated: 2025-11-11T03:55:21Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29359,7 +29373,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2_pcs_Antique_Urn-01.jpg?v=1754639328
   Price: $156.99 USD
 - [GARVEE 3ft Pre-Lit Christmas Tree - Elegant Holiday Decor](https://www.garvee.com/products/garvee-3ft-christmas-tree-2-set-pho-0wigdqvy): Elevate your holiday decor with GARVEE's 3ft Christmas Tree, featuring 78 warm white LED lights, snow-flocked branches, and a charming vintage base for easy setup.
-  Updated: 2025-11-11T04:39:02Z
+  Updated: 2025-11-11T11:47:07Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29450,14 +29464,14 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61bgTmJsH8L.jpg?v=1729589987
   Price: $31.99 USD
 - [GARVEE Christmas Duvet Cover King - Festive Reindeer Plaid Bedding](https://www.garvee.com/products/garvee-christmas-duvet-cover-king-soft-pho-0ywzuiiq): Transform your bedroom this holiday season with GARVEE's soft brushed microfiber duvet cover featuring a reversible reindeer plaid design for stylish comfort.
-  Updated: 2025-11-11T05:06:22Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81rLSn_67TL.jpg?v=1729589988
   Price: $46.99 USD
 - [GARVEE 30 Inch Christmas Wreath - Prelit with 40 LED Lights](https://www.garvee.com/products/garvee-30-inch-christmas-wreath-prelit-pho-0rc9x2xo): Elevate your holiday decor with GARVEE's 30" Christmas wreath, featuring 40 LED lights, vibrant red and gold accents, and a stunning bow. Perfect for indoor and outdoor use!
-  Updated: 2025-11-11T06:45:48Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Decorations
   Availability: Available
@@ -29513,21 +29527,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61c8zty2d3L.jpg?v=1729590089
   Price: $40.99 USD
 - [Garvee 3FT Pre-Lit Christmas Tree 78 LED Lights Battery-Powered Illuminated Base Artificial Christmas Tree Ideal Decor](https://www.garvee.com/products/garvee-3-ft-christmas-tree-pre-pho-0wihcm0z): Illuminate your holidays with the GARVEE 3 FT Christmas Tree featuring 78 LED lights and an elegant base design. Easy assembly and exquisite ornaments enhance festive charm.
-  Updated: 2025-11-11T05:09:56Z
+  Updated: 2025-11-11T12:01:28Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81iFU-1t5rL_73faf087-ed8f-45e3-b0c3-bd020e995caa.jpg?v=1762504473
   Price: $79.99 USD
 - [GARVEE 3ft Mini Christmas Tree(2 Pcs) - Prelit with 78 Warm White LEDs](https://www.garvee.com/products/garvee-3ft-mini-christmas-tree-with-pho-0wihdgue): Elevate your holiday decor with GARVEE's 3FT Mini Christmas Tree featuring 8 lighting modes, a realistic snowy look, and a convenient timer function for effortless ambiance.
-  Updated: 2025-11-11T07:56:27Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Snowflake-8Mode3FT2Pack-01.jpg?v=1756179683
   Price: $79.99 USD
 - [Garvee 3FT Mini Prelit Snow Flocked Artificial Christmas Tree Pre-Lit Home Office Party White Base](https://www.garvee.com/products/garvee-3ft-mini-prelit-premium-snow-pho-0wiht3nm): Elevate your holiday decor with GARVEE's 3ft pre-lit snow flocked Christmas tree, featuring realistic branches, 78 warm white LEDs, and a sturdy base for effortless elegance.
-  Updated: 2025-11-11T07:57:30Z
+  Updated: 2025-11-11T12:01:27Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29562,7 +29576,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/Snowelk3FT2Pack-01.jpg?v=1756195017
   Price: $79.99 USD
 - [GARVEE 3ft Pre-Lit Christmas Tree with Snowman Base - A Festive Delight](https://www.garvee.com/products/garvee-3-ft-prelit-premium-snow-pho-0wih7hlg): Experience the magic of Christmas with GARVEE's 3 Ft prelit tree featuring 8 lighting modes and realistic snow-flecked branches, perfect for any festive decor.
-  Updated: 2025-11-11T06:57:26Z
+  Updated: 2025-11-11T09:08:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29632,7 +29646,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/812_gPudc8L_6fd95823-312d-4b98-b1ba-0ea1e0cddbe7.jpg?v=1729590093
   Price: $32.99 USD
 - [GARVEE 3ft Pre Lit Christmas Tree with Burlap Base - Best Choice for Christmas Decor](https://www.garvee.com/products/garvee-3ft-pre-lit-fiber-optic-pho-0wihzvdd): Elevate your holiday decor with the GARVEE 3ft Pre Lit Fiber Optic Christmas Tree, featuring 8 lighting modes, realistic design, and a charming burlap base.
-  Updated: 2025-11-11T04:57:52Z
+  Updated: 2025-11-11T10:43:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29660,7 +29674,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/91Hyyl3M1SL._AC_SL1500.jpg?v=1758615885
   Price: $79.99 USD
 - [GARVEE 3 FT Pre-Lit Christmas Tree with 78 LED Lights - Ideal Holiday Decor](https://www.garvee.com/products/garvee-3-ft-christmas-tree-pre-pho-0wihp2sz): Illuminate your holidays with the GARVEE 3 FT Christmas Tree, featuring a charming base, 78 LED lights, and easy assembly for festive celebrations.
-  Updated: 2025-11-11T06:57:26Z
+  Updated: 2025-11-11T09:10:03Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29674,21 +29688,21 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/2pcs-01.jpg?v=1756199228
   Price: $79.99 USD
 - [GARVEE 3ft Pre-Lit Christmas Tree with Snowman Base - A Festive Delight](https://www.garvee.com/products/garvee-3-ft-prelit-premium-snow-pho-0wihhzse): Elevate your holiday decor with GARVEE's 3 Ft prelit Christmas tree featuring 8 lighting modes, realistic snow-flocked branches, and a convenient timer for effortless charm.
-  Updated: 2025-11-11T04:54:45Z
+  Updated: 2025-11-11T09:09:02Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/3ftSnowmanBase-1pcs-06_cf9e1455-fdd9-4ea0-a584-3f3102dd578c.jpg?v=1762507437
   Price: $79.99 USD
 - [GARVEE 3 FT Pre-Lit Christmas Tree with 78 LED White Lights](https://www.garvee.com/products/garvee-3-ft-pre-lit-christmas-pho-0wihopf9): Transform your holiday decor with GARVEE's 3ft pre-lit Christmas tree, featuring lifelike snow-flocked branches, 78 LED lights, and customizable display options.
-  Updated: 2025-11-11T06:06:32Z
+  Updated: 2025-11-11T08:53:26Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/81_IObGH48L.jpg?v=1762506009
   Price: $49.99 USD
 - [Garvee 3FT Prelit Artificial Christmas Tree Set of 2, Snowflake Light Box Base 78 Warm Lights Red Berry for Front Door Porch Entryway Fireside Decor](https://www.garvee.com/products/garvee-3ft-artificial-snow-flocked-christmas-pho-0wih6ip1): Elevate your holiday decor with GARVEE's 2 Set 3FT pre-lit Christmas tree featuring 78 LED lights, a snowflake light box base, and hassle-free maintenance for a festive touch.
-  Updated: 2025-11-11T07:54:37Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Home & Furniture > Seasonal & Holiday > Christmas Trees
   Availability: Available
@@ -29737,7 +29751,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/02red2x6_Runner__01.png?v=1758099018
   Price: $41.99 USD
 - [GARVEE Christmas Area Rug - Festive & Functional Home Decor](https://www.garvee.com/products/garvee-christmas-area-rug-5x7-feet-pho-15lwsrwn): Transform your home with the GARVEE Christmas Area Rug. Featuring a snowflake pattern, it's machine washable, non-slip, and perfect for any room!
-  Updated: 2025-11-10T14:31:22Z
+  Updated: 2025-11-11T09:21:01Z
   Vendor: Garvee
   Product Type: Rugs > Christmas Rugs
   Availability: Available
@@ -29989,7 +30003,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/61FLIIYEp1L.jpg?v=1731560601
   Price: $209.99 USD
 - [Garvee Large Metal Chicken Coop, Walk-in Poultry Cage, Large Outdoor Chicken Coop with Waterproof Cover for Outdoor Yard Farm Use (9.8x6.5x6.5FT)](https://www.garvee.com/products/garvee-large-metal-chicken-coop-walk-pho-12vj3kpd): Discover the GARVEE Large Metal Chicken Coop featuring a waterproof Oxford cloth cover, robust galvanized steel frame, and predator-proof mesh for ultimate safety.
-  Updated: 2025-11-10T17:54:08Z
+  Updated: 2025-11-11T09:04:56Z
   Vendor: Garvee
   Product Type: Agriculture & Forestry Equipment > Livestock & Poultry Supplies > Chicken Coop
   Availability: Available
@@ -30122,7 +30136,7 @@ Garvee is an e-commerce platform offering a diverse range of products, including
   Image: https://cdn.shopify.com/s/files/1/0724/6698/9369/files/71cwlpPHaBL.jpg?v=1751079181
   Price: $1,199.99 USD
 - [Versatile GARVEE Stainless Steel Sausage Maker for Home and Restaurant Use](https://www.garvee.com/products/garvee-stainless-steel-sausage-maker-fast-pho-14uqzzfs): Discover the GARVEE Stainless Steel Sausage Maker, perfect for both indoor and outdoor cooking. Its versatile speed settings and easy cleanup make it ideal for various sausage types.
-  Updated: 2025-11-11T06:25:51Z
+  Updated: 2025-11-11T11:47:06Z
   Vendor: Garvee
   Product Type: Restaurant & Food Service > Food Preparation Equipment > Commercial Sausage Stuffers & Jerky Shooters
   Availability: Available
