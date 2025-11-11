@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-11-10T00:03:03.458Z
+- Updated At: 2025-11-11T00:02:52.546Z
 
 ## Products
 
@@ -49,7 +49,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-04T18:48:00Z
   Price: $1,886.99 USD — $3,502.99 USD
 - [Counter Height Dining Set Gabriel 100438 | Coaster](https://homeeleganceusa.com/products/gabriel-counter-height-dining-set-by-coaster-home-furnishings-cappuccino-and-tan): Coaster  Description The Rich Cappuccino Counter Height Dinette by Coaster is manufactured in contemporary style. It features the convenient counter height...
-  Updated: 2025-11-09T06:04:38Z
+  Updated: 2025-11-10T06:06:47Z
   Price: $921.99 USD — $994.99 USD
 - [Server With Faux Marble Top In Brown ‎Russian Hill 1808-40](https://homeeleganceusa.com/products/russian-hill-server-in-brown-by-homelegance): Blending the classic aesthetic of traditional design is the Russian Hill Collection. The nod to Old World styling comes in elements such as dental, rope ...
   Updated: 2025-11-04T18:48:01Z
@@ -424,7 +424,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-04T18:52:09Z
   Price: $1,381.99 USD — $1,644.99 USD
 - [Briscoe Double Reclining Sofa With Drop-Down Cup Holders](https://homeeleganceusa.com/products/briscoe-double-reclining-sofa-by-homelegance): Briscoe Reclining Sofa With well-appointed features that create not only a comfortable seating experience but a functional one as well, the Briscoe Collection..
-  Updated: 2025-11-04T18:52:10Z
+  Updated: 2025-11-10T11:27:11Z
   Price: $1,028.99 USD
 - [Montage 5-Year Premium Protection Plan - Home Elegance USA](https://homeeleganceusa.com/products/montage-5-year-premium-protection-plan): Montage 5-Year Premium Protection Plan by Montage Furniture Services (MFS) allows you to live by its motto - "Go on…live a little" - and enjoy your new furniture. When you have chosen just the right furniture for your home - you want to keep your investment looking great, but you don’t want to worry about spots and spills once your furniture is delivered. When covered mishaps
   Updated: 2025-08-30T19:33:14Z
@@ -2062,7 +2062,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-04T19:04:46Z
   Price: $1,459.99 USD
 - [Divani Casa Sheila Transitional Emerald Green Fabric Loveseat Vgca1346-Em-Grn-L](https://homeeleganceusa.com/products/vig-furniture-divani-casa-sheila-transitional-emerald-green-fabric-loveseat-vgca1346-em-grn-l): Divani Casa Sheila - Transitional Emerald Green Fabric Loveseat - VGCA1346-EM-GRN-L | VIGDescription:The Sheila Green Loveseat is a beautiful transitional, glam
-  Updated: 2025-11-04T19:04:46Z
+  Updated: 2025-11-10T11:26:42Z
   Price: $2,138.99 USD
 - [Divani Casa Sheila Transitional Emerald Green Fabric Chair Vgca1346-Em-Grn-Ch](https://homeeleganceusa.com/products/vig-furniture-divani-casa-sheila-transitional-emerald-green-fabric-chair-vgca1346-em-grn-ch): Divani Casa Sheila - Transitional Emerald Green Fabric Chair - VGCA1346-EM-GRN-CH | VIGDescription:The Sheila Green Chair is a beautiful transitional, glam
   Updated: 2025-11-04T19:04:47Z
@@ -3702,6 +3702,9 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
 - [Modrest Pyrite Modern Glass End Table Vgewf1143-1Ba](https://homeeleganceusa.com/products/vig-furniture-modrest-pyrite-modern-glass-end-table-vgewf1143-1ba): Modrest Pyrite Modern Glass End Table - VGEWF1143-1BA | VIGDescription:The Modrest Pyrite Modern Glass End Table features a trendy thick 10mm clear glass top
   Updated: 2025-11-04T19:14:40Z
   Price: $837.99 USD
+- [Rackham Walnut Round Dining Table with Smoked Glass - VGBBMI1501 | VIG](https://homeeleganceusa.com/products/vig-furniture-modrest-rackham-modern-walnut-round-dining-table-vgbbmi1501): The Rackham Walnut Round Dining Table features a smoked glass top, geometric walnut base, and mid-century design—luxury craftsmanship by VIG. VGBBMI1501
+  Updated: 2025-11-10T22:54:14Z
+  Price: $1,949.00 USD
 - [Modrest Pacer Modern Ebony And Taupe Dining Chair Vgcsch-13107](https://homeeleganceusa.com/products/vig-furniture-modrest-pacer-modern-ebony-and-taupe-dining-chair-vgcsch-13107): Modrest Pacer - Modern Taupe & Ebony Dining Chair (Set of 2) - VGCSCH-13107 | VIGDescription:An unbroken curvilinear silhouette creates the minimalist marvel of
   Updated: 2025-11-04T19:14:40Z
   Price: $1,281.99 USD
@@ -8212,7 +8215,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-08T14:24:38Z
   Price: $6,701.99 USD
 - [Ronda Dali 3 Piece Eastern King Bedroom Set - Rondadekb-3Set | ESF](https://homeeleganceusa.com/products/esf-furniture-ronda-dali-3-piece-eastern-king-bedroom-set-rondadekb-3set): ESF Furniture - Ronda Dali 3 Piece Eastern King Bedroom Set - RONDADEKB-3SET Features: Set Includes: Eastern King Bed and 2 Nightstand Ronda Collection Eastern
-  Updated: 2025-11-08T14:24:39Z
+  Updated: 2025-11-10T23:32:33Z
   Price: $4,705.99 USD
 - [Ronda Dali 7 Piece Eastern King Bedroom Set - Rondadekb-7Set | ESF](https://homeeleganceusa.com/products/esf-furniture-ronda-dali-7-piece-eastern-king-bedroom-set-rondadekb-7set): ESF Furniture - Ronda Dali 7 Piece Eastern King Bedroom Set - RONDADEKB-7SET Features: Set Includes: Eastern King Bed, 2 Nightstand, Single Dresser, Mirror,
   Updated: 2025-11-08T14:24:39Z
@@ -12688,7 +12691,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-08T15:16:00Z
   Price: $1,461.99 USD
 - [Melody Velvet Sofa In Grey - 647Grey-S | Meridian](https://homeeleganceusa.com/products/meridian-furniture-melody-velvet-sofa-in-grey-647grey-s): Meridian Furniture - Melody Velvet Sofa in Grey - 647Grey-SGive a nod to mod when you bring home this sleek Melody velvet sofa. Designed to integrate easily
-  Updated: 2025-11-08T15:16:01Z
+  Updated: 2025-11-10T11:25:59Z
   Price: $1,417.99 USD
 - [Melody Velvet Sofa In Cream - 647Cream-S | Meridian](https://homeeleganceusa.com/products/meridian-furniture-melody-velvet-sofa-in-cream-647cream-s): Meridian Furniture - Melody Velvet Sofa in Cream - 647Cream-SGive a nod to mod when you bring home this sleek Melody velvet sofa. Designed to integrate easily
   Updated: 2025-11-08T15:16:02Z
@@ -13156,7 +13159,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-08T15:18:37Z
   Price: $5,558.99 USD
 - [Arabella 3 Piece Living Room Set In Black - 617Black-S-3Set | Meridian](https://homeeleganceusa.com/products/meridian-furniture-arabella-3-piece-living-room-set-in-black-617black-s-3set): Meridian Furniture - Arabella 3 Piece Living Room Set in Black - 617Black-S-3SETMake the Arabella Black Velvet living room collection your favorite naptime
-  Updated: 2025-11-08T15:18:38Z
+  Updated: 2025-11-10T11:25:40Z
   Price: $5,558.99 USD
 - [Arabella 3 Piece Living Room Set In Grey - 617Grey-S-3Set | Meridian](https://homeeleganceusa.com/products/meridian-furniture-arabella-3-piece-living-room-set-in-grey-617grey-s-3set): Meridian Furniture - Arabella 3 Piece Living Room Set in Grey - 617Grey-S-3SETMake the Arabella Grey Velvet living room collection your favorite naptime spot.
   Updated: 2025-11-08T15:18:38Z
@@ -19966,40 +19969,40 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-04T20:41:55Z
   Price: $2,140.99 USD
 - [Wittenberry Dresser In Gray 1573-5 | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-dresser-in-gray-1573-5): Homelegance - Wittenberry Dresser in Gray - 1573-5 Features: Wittenberry Collection Dresser Finish Gray Material Wood Made of okume veneer, wood and engineered
-  Updated: 2025-11-04T20:41:55Z
-  Price: $989.00 USD
+  Updated: 2025-11-10T19:48:41Z
+  Price: $1,089.00 USD
 - [Wittenberry Dresser With Mirror In Gray 1573-Dm | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-dresser-with-mirror-in-gray-1573-dm): Homelegance - Wittenberry Dresser with Mirror in Gray - 1573-DM Features: Wittenberry Collection Dresser with Mirror Finish Gray Material Wood Made of okume
-  Updated: 2025-11-04T20:41:56Z
-  Price: $1,190.99 USD
+  Updated: 2025-11-10T19:44:43Z
+  Price: $1,299.99 USD
 - [Wittenberry Chest In Gray 1573-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-chest-in-gray-1573-9): Homelegance - Wittenberry Chest in Gray - 1573-9 Features: Wittenberry Collection Chest Finish Gray Material Wood Made of okume veneer, wood and engineered wood
-  Updated: 2025-11-04T20:41:58Z
-  Price: $899.00 USD
+  Updated: 2025-11-10T19:46:03Z
+  Price: $999.00 USD
 - [Wittenberry Night Stand In Gray 1573-4 | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-night-stand-in-gray-1573-4): Homelegance - Wittenberry Night Stand in Gray - 1573-4 Features: Wittenberry Collection Night Stand Finish Gray Material Wood Made of okume veneer, wood and
-  Updated: 2025-11-04T20:41:59Z
-  Price: $399.00 USD
+  Updated: 2025-11-10T19:42:01Z
+  Price: $499.00 USD
 - [Wittenberry Eastern King Platform Bed In Gray 1573K-1Ek* | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-eastern-king-platform-bed-in-gray-1573k-1ek): Homelegance - Wittenberry Eastern King Platform Bed in Gray - 1573K-1EK* Features: Wittenberry Collection Eastern King Platform Bed Finish Gray Color Pebble
-  Updated: 2025-11-04T20:41:59Z
+  Updated: 2025-11-10T19:30:04Z
   Price: $1,532.99 USD
 - [Wittenberry 3 Piece Queen Platform Bedroom Set In Gray 1573-1-3Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-3-piece-queen-platform-bedroom-set-in-gray-1573-1-3set): Homelegance - Wittenberry 3 Piece Queen Platform Bedroom Set in Gray - 1573-1-3SETModern convenience is paired with transitional style to create the versatile
-  Updated: 2025-11-04T20:42:01Z
+  Updated: 2025-11-10T19:53:48Z
   Price: $1,899.00 USD
 - [Wittenberry Queen Platform Bed In Gray 1573-1* | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-queen-platform-bed-in-gray-1573-1): Homelegance - Wittenberry Queen Platform Bed in Gray - 1573-1* Features: Wittenberry Collection Queen Platform Bed Finish Gray Color Pebble Material Wood,
-  Updated: 2025-11-04T20:42:01Z
+  Updated: 2025-11-10T19:28:55Z
   Price: $1,326.99 USD
 - [Wittenberry 3 Piece Eastern King Platform Bedroom Set In Gray 1573K-1Ek-3Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-3-piece-eastern-king-platform-bedroom-set-in-gray-1573k-1ek-3set): Homelegance - Wittenberry 3 Piece Eastern King Platform Bedroom Set in Gray - 1573K-1EK-3SETModern convenience is paired with transitional style to create the
-  Updated: 2025-11-04T20:42:02Z
+  Updated: 2025-11-10T19:53:13Z
   Price: $2,099.00 USD
 - [Wittenberry 6 Piece Queen Platform Bedroom Set In Gray 1573-1-6Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-6-piece-queen-platform-bedroom-set-in-gray-1573-1-6set): Homelegance - Wittenberry 6 Piece Queen Platform Bedroom Set in Gray - 1573-1-6SETModern convenience is paired with transitional style to create the versatile
-  Updated: 2025-11-04T20:42:03Z
+  Updated: 2025-11-10T20:23:28Z
   Price: $3,399.00 USD
 - [Wittenberry 6 Piece Eastern King Platform Bedroom Set In Gray 1573K-1Ek-6Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-6-piece-eastern-king-platform-bedroom-set-in-gray-1573k-1ek-6set): Homelegance - Wittenberry 6 Piece Eastern King Platform Bedroom Set in Gray - 1573K-1EK-6SETModern convenience is paired with transitional style to create the
-  Updated: 2025-11-04T20:42:05Z
+  Updated: 2025-11-10T20:25:43Z
   Price: $3,599.00 USD
 - [Wittenberry 5 Piece Eastern King Platform Bedroom Set In Gray 1573K-1Ek-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-5-piece-eastern-king-platform-bedroom-set-in-gray-1573k-1ek-5set): Homelegance - Wittenberry 5 Piece Eastern King Platform Bedroom Set in Gray - 1573K-1EK-5SETModern convenience is paired with transitional style to create the
-  Updated: 2025-11-04T20:42:05Z
+  Updated: 2025-11-10T20:21:11Z
   Price: $2,899.00 USD
 - [Wittenberry 5 Piece Queen Platform Bedroom Set In Gray 1573-1-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-wittenberry-5-piece-queen-platform-bedroom-set-in-gray-1573-1-5set): Homelegance - Wittenberry 5 Piece Queen Platform Bedroom Set in Gray - 1573-1-5SETModern convenience is paired with transitional style to create the versatile
-  Updated: 2025-11-04T20:42:06Z
+  Updated: 2025-11-10T20:19:24Z
   Price: $2,799.00 USD
 - [Hodgin Chest In Dark Charcoal 1575-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-hodgin-chest-in-dark-charcoal-1575-9): Homelegance - Hodgin Chest in Dark Charcoal - 1575-9 Features: Hodgin Collection Chest Finish Dark Charcoal Material Wood Country of Origin: Vietnam Traditional
   Updated: 2025-11-04T20:42:08Z
@@ -25509,7 +25512,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-04T21:12:59Z
   Price: $4,818.99 USD
 - [Arteriors Herbie Accent Table | Arteriors](https://homeeleganceusa.com/products/arteriors-herbie-accent-table): A jade faux-marble finish instantly transforms the lightweight concrete construction of this Arteriors accent table into a functional work of art. Light to
-  Updated: 2025-11-04T21:13:00Z
+  Updated: 2025-11-10T23:31:15Z
   Price: $1,699.99 USD
 - [Arteriors Hamza Accent Chair | Arteriors](https://homeeleganceusa.com/products/arteriors-hamza-accent-chair): FREE White Glove Upgrade Enjoy FREE White Glove shipping upgrade. Includes Room of Choice setup & assembly and removal of packaging at no additional cost.
   Updated: 2025-11-04T21:13:02Z
