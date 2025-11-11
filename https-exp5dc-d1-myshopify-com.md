@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-11-09T00:00:54.906Z
+- Updated At: 2025-11-11T00:00:51.815Z
 
 ## Products
 
@@ -307,24 +307,6 @@
   - [Black / L](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-1?variant=50143289639159)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/c3000f8c-01a9-4f61-a371-2c32a71b9291-Max.webp?v=1762168990
-    Price: $58.62 USD
-- [Umgee Polka Dot Lace Long Sleeve Round Neck Blouse](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-2): Umgee Polka Dot Lace Long Sleeve Round Neck Blouse: delicate lace & playful polka dots. Offers all-day comfort with stretchy fabric. Buy today!
-  Updated: 2025-11-03T23:25:23Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/74b89e7b-a2ba-4b5d-96c0-e5068919a215-Max.webp?v=1762169177
-  - [Olive / S](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-2?variant=50143289704695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/64809229-c339-4fc4-8f4f-7d996c306690-Max.webp?v=1762169245
-    Price: $58.62 USD
-  - [Olive / M](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-2?variant=50143289737463)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/64809229-c339-4fc4-8f4f-7d996c306690-Max.webp?v=1762169245
-    Price: $58.62 USD
-  - [Olive / L](https://exp5dc-d1.myshopify.com/products/umgee-polka-dot-lace-long-sleeve-round-neck-blouse-2?variant=50143289770231)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/64809229-c339-4fc4-8f4f-7d996c306690-Max.webp?v=1762169245
     Price: $58.62 USD
 - [Mittoshop Chiffon Ruffle Layer Elastic Waist Midi Skirt](https://exp5dc-d1.myshopify.com/products/mittoshop-chiffon-ruffle-layer-elastic-waist-midi-skirt): Mittoshop Chiffon Ruffle Layer Elastic Waist Midi Skirt: flowy cascading ruffle layers & comfortable adjustable elastic waistband. Versatile style. Buy today!
   Updated: 2025-11-03T08:37:39Z
@@ -1647,7 +1629,7 @@
   Updated: 2025-10-27T15:37:23Z
   Total Products: 12
 - [Feature Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections-1): Stylish Feature Apparels Collections deliver unmatched comfort and modern fashion. Innovative fabrics for work, leisure, or travel. Designed to fit and perform all day.
-  Updated: 2025-10-27T15:37:25Z
+  Updated: 2025-11-09T07:12:34Z
   Total Products: 13
 - [Feature Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/premium-bags-boots-collections): Stylish Feature Bags & Boots Collections enhance your daily routine. Durable bags and boots for work, travel, and more. Designed for comfort and lasting quality.
   Updated: 2025-10-27T15:37:28Z
@@ -1672,14 +1654,16 @@
 
 - [聯絡](https://exp5dc-d1.myshopify.com/pages/contact)
   Updated: 2025-10-06T04:18:29Z
-- [Your privacy choices](https://exp5dc-d1.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-06T04:52:43Z
 - [FAQ](https://exp5dc-d1.myshopify.com/pages/md-help-center)
-  Updated: 2025-10-27T08:13:55Z
-- [關於我們](https://exp5dc-d1.myshopify.com/pages/關於我們)
-  Updated: 2025-10-27T07:53:07Z
-- [Features](https://exp5dc-d1.myshopify.com/pages/features)
-  Updated: 2025-10-27T08:00:27Z
+  Updated: 2025-11-10T17:36:02Z
+- [Shipping Policy](https://exp5dc-d1.myshopify.com/pages/shipping-policy)
+  Updated: 2025-11-10T17:38:49Z
+- [Category](https://exp5dc-d1.myshopify.com/pages/category)
+  Updated: 2025-11-10T17:23:13Z
+- [Recommendations](https://exp5dc-d1.myshopify.com/pages/recommendations)
+  Updated: 2025-11-10T17:14:25Z
+- [Bundles](https://exp5dc-d1.myshopify.com/pages/bundles)
+  Updated: 2025-11-10T17:45:10Z
 
 ## Policies
 
@@ -1691,10 +1675,6 @@
   Updated: 2025-10-26T22:43:28+08:00
 - [Contact Information](https://exp5dc-d1.myshopify.com/policies/contact-information)
   Updated: 2025-10-09T01:53:02+08:00
-
-## Alternate Currencies & Languages
-
-- [美國 (en / undefined)](https://exp5dc-d1.myshopify.com/llms.txt?market=jp)
 
 ## Optional
 
