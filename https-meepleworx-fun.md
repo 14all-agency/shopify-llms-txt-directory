@@ -8,7 +8,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-09-10T10:53:13Z
 - Contact Email: info@meepleworx.fun
-- Updated At: 2025-11-10T20:57:50.266Z
+- Updated At: 2025-11-11T00:01:05.714Z
 
 ## Products
 
@@ -2221,7 +2221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/no-tip-card-simplify-gratuity-decisions-meeple-worx-ltd-gHB.jpg?v=1760902621
   Price: £14.99 GBP
 - [The Connoisseur's Set - Reserve Glass Edition | Premium Glassware Set](https://meepleworx.fun/products/the-connoisseurs-set-reserve-glass-edition-444897102): Elevate your drinking experience with The Connoisseur's Set - Reserve Glass Edition. Perfect for enthusiasts, this elegant set enhances flavor and presentation.
-  Updated: 2025-11-10T15:01:47Z
+  Updated: 2025-11-10T22:35:55Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2262,7 +2262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/hidden-book-safe-discreet-storage-for-valuables-meeple-worx-ltd-VmE.jpg?v=1760888435
   Price: £18.99 GBP
 - [The Original Rocks - Premium Quality Natural Whisky Stones for Chill](https://meepleworx.fun/products/the-original-rocks-1756183694): Experience the purest taste with The Original Rocks - Premium Quality Natural Whisky Stones. Chill your whisky without dilution. Perfect for connoisseurs.
-  Updated: 2025-11-10T20:56:16Z
+  Updated: 2025-11-10T22:20:06Z
   Vendor: Apricot Pontus
   Product Type: Drinkware
   Availability: Available
@@ -2958,7 +2958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/DraughtsBoardGame.png?v=1760902498
   Price: £7.00 GBP
 - [Santa's Driving Licence - Magical Christmas Accessory](https://meepleworx.fun/products/santas-driving-licence): Get your very own Santa's Driving Licence! This magical Christmas accessory adds festive fun to your holiday celebrations. Perfect for gifts or festive decor.
-  Updated: 2025-11-10T20:53:55Z
+  Updated: 2025-11-10T22:53:02Z
   Vendor: PoundFun
   Product Type: Christmas
   Availability: Available
@@ -2979,7 +2979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/barbie-reusable-shopping-bag-for-sustainable-and-stylish-shopping-meeple-worx-ltd-OMj.png?v=1760902248
   Price: £4.00 GBP
 - [Harry Potter Trivial Pursuit - Ultimate Fan Quiz Challenge Adventure](https://meepleworx.fun/products/harry-potter-trivial-pursuit): Unleash your inner wizard with the Harry Potter Trivial Pursuit! Test your knowledge in the ultimate fan quiz challenge designed for true enthusiasts.
-  Updated: 2025-11-10T20:47:06Z
+  Updated: 2025-11-10T22:53:01Z
   Vendor: PoundFun
   Product Type: Board Games
   Availability: Available
@@ -3253,7 +3253,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/42in-folding-foosball-table-standard-size-indoor-family-game-table-for-home-use-meeple-worx-ltd-E42.webp?v=1760901991
   Price: £227.99 GBP
 - [Battle In The Deep Board Game - Dive into Underwater Adventures Today!](https://meepleworx.fun/products/battle-in-the-deep-board-game): Meta description: Dive into excitement with the Battle In The Deep Board Game! Experience thrilling underwater adventures that engage friends and family.
-  Updated: 2025-11-08T16:16:40Z
+  Updated: 2025-11-10T23:02:00Z
   Vendor: PoundFun
   Product Type: Board Games
   Availability: Available
@@ -5302,7 +5302,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-22T164227.799.jpg?v=1761468120
   Price: £3.49 GBP
 - [Lego Christmas Santa's Truck - Fun Holiday Delivery Playset Adventure](https://meepleworx.fun/products/lego-christmas-santas-truck-playset-for-ages-8-and-up): Meta description: Experience holiday joy with the Lego Christmas Santa's Truck! This delightful playset brings festive fun and adventure to your celebrations.
-  Updated: 2025-11-09T20:18:16Z
+  Updated: 2025-11-10T23:22:35Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > Other LEGO Sets
   Availability: Available
@@ -5491,7 +5491,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T153957.965.png?v=1761468332
   Price: £59.99 GBP
 - [Lego Minecraft Creeper Playset - Buildable Adventure Awaits Today](https://meepleworx.fun/products/lego-minecraft-creeper-playset-buildable-playset-for-ages-10-and-up): Unleash creativity with the Lego Minecraft Creeper Playset! Build your own adventures in the Minecraft universe. Perfect for fans and builders alike. Buy now!
-  Updated: 2025-11-10T20:09:10Z
+  Updated: 2025-11-10T22:36:16Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
@@ -6846,106 +6846,106 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T144658.553.png?v=1762388366
   Price: £69.99 GBP
-- [Lego Jurassic World 76969 Dinosaur Fossils: Triceratops Skull Ages 9+](https://meepleworx.fun/products/lego-jurassic-world-76969-dinosaur-fossils-triceratops-skull-ages-9): Young palaeontologists can enjoy imaginative Jurassic World play by collecting dinosaur fossils with this LEGO Jurassic World Dinosaur Fossils: Triceratops Skull (76969) building toy for 9 plus year old girls and boys. This playset in the Dinosaur Fossils display series features a Triceratops skull with an opening jaw, a stand with a rock base and a dig site plate with mini-fossils and excavating tools. The dinosaur toy also includes a LEGO Jurassic World minifigure, an information plaque and an ‘amber’ piece with an encased mosquito. The LEGO Builder app will guide dinosaur fans on an intuitive building adventure, letting them zoom in and rotate models in 3D, save sets and track progress. As they build, maybe they will feel the same thrills real palaeontologists feel during a discovery! Find other LEGO Jurassic World sets (sold separately) to inspire kids’ imaginative play, with dinosaur toys to recreate classic scenes, or dinosaur models to build and show off their passion. This dino toy set makes a fun gift for 9 plus year old boys, girls, dinosaur-lovers and Jurassic World fans of all ages. Recommended for ages 9+
-  Updated: 2025-11-08T16:17:36Z
+- [Lego Jurassic World Dinosaur Fossils: Triceratops Skull - Build Fun!](https://meepleworx.fun/products/lego-jurassic-world-dinosaur-fossils-triceratops-skull): Discover the Lego Jurassic World Dinosaur Fossils: Triceratops Skull set! Assemble this iconic fossil replica and dive into a world of adventure and creativity.
+  Updated: 2025-11-10T22:07:17Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Jurassic Park
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T145752.675.png?v=1762388365
   Price: £39.99 GBP
-- [Lego Star Wars 75405 Home One Starcruiser for Adults Ages 18 and Up](https://meepleworx.fun/products/lego-star-wars-75405-home-one-starcruiser-for-adults-ages-18-and-up): Spark nostalgia for Star Wars: Return of the Jedi with the first-ever LEGO Star Wars set to feature the Home One Starcruiser (75405) commanded by Admiral Ackbar at the Battle of Endor. A fun Star Wars gift for men women, and teens, this buildable starship model kit offers a complex, rewarding creative experience. Recreate authentic features of the Rebel Alliance fleet’s flagship frigate and display it on the buildable stand with a nameplate. The side section can be detached to view interior details, and the set also includes a small, brick-built Nebulon-B Medical Frigate that can be displayed ‘flying’ alongside Home One. Get the most out of this LEGO Star Wars vehicle set with the LEGO Builder app, which lets you zoom in and rotate a 3D version of your starship model as you build and more. This collectible model kit for adults to build is part of the mid-scale LEGO Star Wars Starship Collection and makes impressive room decor in any Star Wars fan’s home.Suitable for ages 18 and up.
-  Updated: 2025-11-08T16:17:36Z
+- [Lego Star Wars Home One Starcruiser - Ultimate Build & Play Set](https://meepleworx.fun/products/lego-star-wars-home-one-starcruiser): Discover the Lego Star Wars Home One Starcruiser, an exciting build that brings the iconic Rebel Alliance starship to life. Ideal for fans and collectors alike!
+  Updated: 2025-11-10T22:08:16Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Star Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign_49.png?v=1762388366
   Price: £59.99 GBP
-- [Lego Fortnite 77070 Durrr Burger Video Game Playset for Ages 9 and Up](https://meepleworx.fun/products/lego-fortnite-77070-durrr-burger-video-game-playset-for-ages-9-and-up): Feed creativity with the LEGO Fortnite Durrr Burger (77070) building toy for 9 plus year old boys and girls, an awesome video game building set for gamers. Based on the LEGO Fortnite video game, the creative toy lets fans build a display model of Durrr Burger, the iconic restaurant mascot from the Fortnite universe. Young gamers will have loads of fun and victory well done by building the Fortnite toy before discovering its exciting details, including the instantly recognisable eyes, tongue and olive on a toothpick. Once complete, the Fortnite character model becomes a cool collectible display toy that kids can showcase proudly in their bedroom or games room. A great gift for 9 plus year old boys, girls, gamers, and Fortnite fans of all ages, it’s sure to become a piece of treasured LEGO decor that unlocks gaming joy wherever it’s placed. Recommended for ages 9+
-  Updated: 2025-11-10T15:49:52Z
+- [Lego Fortnite Durrr Burger Video Game - Build Iconic Fortnite Fun!](https://meepleworx.fun/products/lego-fortnite-durrr-burger-video-game): Unleash your creativity with the Lego Fortnite Durrr Burger Video Game set! Build iconic structures and battle with friends in this exciting crossover.
+  Updated: 2025-11-10T22:10:55Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > Other LEGO Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T145405.504.png?v=1762388366
   Price: £12.99 GBP
-- [Lego Minecraft Movie 21273 The Ghast Balloon Village Attack Ages 10+](https://meepleworx.fun/products/lego-minecraft-movie-21273-the-ghast-balloon-village-attack-ages-10): LEGO Minecraft The Ghast Balloon Village Attack (21273) building toy for 10+ year old boys and girls is a fun building set based on a scene from the Minecraft movie. This high-quality LEGO Minecraft toy features explosive action when an attack is launched from a Ghast balloon. The building set features popular characters from the Minecraft movie: Steve, Natalie, Dawn, 2 piglins, a ghast balloon, villager, baby chicken and a posable iron golem LEGO Minecraft figure. The balloon has room for the piglins and incorporates a disc shooter. Set amongst the village are market stalls, Steve's fried chicken restaurant, his crafting shack and a fountain, which kids can ‘explode’ using a built-in feature. The restaurant’s roof is topped with a large chicken model that includes a fun egg-laying function. For digital fun, the LEGO Builder app lets kids zoom in, rotate models in 3D and track their progress. This building toy, set in a fun Minecraft village, combines with other LEGO sets (sold separately) in the range. A great Minecraft-themed birthday gift for 10+ year old boys, girls and teens, this fun building set is sure to delight fans of the movie and the iconic video game. Suitable for children aged 10 and up.
-  Updated: 2025-11-08T16:17:36Z
+- [Lego Minecraft Movie The Ghast Balloon Village Attack - Exciting Set!](https://meepleworx.fun/products/lego-minecraft-movie-the-ghast-balloon-village-attack): Unleash your creativity with the Lego Minecraft Movie The Ghast Balloon Village Attack set! Build epic battles and adventures in the Minecraft universe.
+  Updated: 2025-11-10T22:13:43Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T143529.655.png?v=1762388366
   Price: £59.99 GBP
-- [Lego City 60459 Airplane Vs. Hospital Bed Race Car Pack for Ages 5+](https://meepleworx.fun/products/lego-city-60459-airplane-vs-hospital-bed-race-car-pack-for-ages-5): Treat your little race fan to the LEGO City Airplane vs. Hospital Bed Race Car Pack (60459) building toy for 5 plus year old boys and girls. This LEGO City vehicle set comes with 2 soapbox race car toys and 2 minifigures. Kids can pit the pilot in the soaring aeroplane against the patient in the surprisingly speedy hospital bed. Who’ll win? Take your seat for epic urban race action! This LEGO soapbox race car set includes a step-by-step printed construction guide. Kids can also enjoy a fun building adventure with the LEGO Builder app, where they can zoom in, rotate the models in 3D, track their progress as they build, and explore and save other playsets. LEGO City playsets feature cool vehicles, realistic structures and fun characters that inspire imaginative play without limits. Recommended for ages 5+
-  Updated: 2025-11-08T16:17:36Z
+- [Lego City Airplane Vs. Hospital Bed Race Car Pack - Fun Build Set](https://meepleworx.fun/products/lego-city-airplane-vs-hospital-bed-race-car-pack): Experience the thrill of the Lego City Airplane Vs. Hospital Bed Race Car Pack! This unbeatable set combines high-speed action with emergency rescue fun.
+  Updated: 2025-11-10T22:15:09Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/60459_Box1_v29_1.png?v=1762388382
   Price: £8.99 GBP
-- [Lego City 60458 Pizza Vs. Fire Truck Race Car Pack for Ages 5 and Up](https://meepleworx.fun/products/lego-city-60458-pizza-vs-fire-truck-race-car-pack-for-ages-5-and-up): Treat a young race fan to the LEGO City Pizza vs. Fire Truck Race Car Pack (60458) building toy for 5 plus year old boys and girls. This fun LEGO City set features 2 soapbox race car toys and 2 minifigures. Kids can pit the chef in the sizzling pizza slice against the firefighter in the red-hot fire truck toy. Who’ll win? Take your seat for epic urban race action! This LEGO race car toy set includes a step-by-step printed construction guide. Kids can also enjoy a fun building adventure with the LEGO Builder app, where they can zoom in, rotate the models in 3D, track their progress as they build, and explore and save other playsets. LEGO City playsets feature cool vehicles, realistic structures and fun characters that inspire play without limits. Recommended for ages 5+
-  Updated: 2025-11-08T16:17:37Z
+- [Lego City Pizza Vs. Fire Truck Race Car Pack - Exciting Building Fun!](https://meepleworx.fun/products/lego-city-pizza-vs-fire-truck-race-car-pack): Join the fun with the Lego City Pizza Vs. Fire Truck Race Car Pack! Experience thrilling races and delicious pizza delivery adventures in this exciting set.
+  Updated: 2025-11-10T22:16:53Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T155126.763.png?v=1762388382
   Price: £8.99 GBP
-- [LEGO Star Wars 75396 Desert Skiff & Sarlacc Pit Playset for Age 9 & Up](https://meepleworx.fun/products/lego-star-wars-75396-desert-skiff-sarlacc-pit-playset-for-age-9-up): Replay a thrilling Star Wars: Return of the Jedi scene and create new adventure stories with this LEGO brick-built Desert Skiff & Sarlacc Pit! The desert skiff in this Star Wars building toy features translucent elements for a hover effect and has playful details such as a push-out plank for Luke Skywalker to walk and the foldout railing where Han Solo nearly fell off. The pit has levers to move the Sarlacc’s tentacles, and the Sarlacc has space in its mouth for a LEGO minifigure. A cool Star Wars-themed gift for boys, girls and any fans of the classic Star Wars saga, this collectible building toy set features 6 LEGO Star Wars minifigures, including characters, Luke Skywalker, Han Solo, Chewbacca, Lando Calrissian and Boba Fett, plus authentic accessories. The other character in the set is a special LEGO Star Wars 25th anniversary minifigure of Nien Nunb. Find step-by-step instructions in the box and download the LEGO Builder app for digital viewing tools to make the creative experience even more fun. Recommended for ages 9+
-  Updated: 2025-11-08T16:17:37Z
+- [LEGO Star Wars Desert Skiff & Sarlacc Pit - Epic Build & Adventure Set](https://meepleworx.fun/products/lego-star-wars-desert-skiff-sarlacc-pit): Discover the adventure with the LEGO Star Wars Desert Skiff & Sarlacc Pit set. Build iconic scenes from the Star Wars saga and unleash your creativity today!
+  Updated: 2025-11-10T22:22:26Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Star Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign_58.png?v=1762388388
   Price: £69.99 GBP
-- [Lego Star Wars 75386 Paz Vizsla and Moff Gideon Battle for Ages 7 & Up](https://meepleworx.fun/products/lego-star-wars-75386-paz-vizsla-and-moff-gideon-battle-for-ages-7-up): LEGO® Star Wars: The Mandalorian buildable toy playset for kids. Relive a dramatic confrontation from Star Wars: The Mandalorian Season 3 with this the Paz Vizsla and Moff Gideon Battle set. 4 collectible LEGO® Star Wars: The Mandalorian minifigures – Paz Vizsla, Moff Gideon and 2 Imperial Praetorian Guards. Star Wars™ building toy for kids – The Mandalorian base in this set features a heavily armored door with a slam-shut trigger and control panels, plus a rotating, stud-shooting turret. Playful accessories – There’s a brick-built heavy blaster for Paz Vizsla, a jetpack for Moff Gideon, weapons for the Praetorian Guards, plus a storage box containing a thermal detonator element. Star Wars: The Mandalorian fantasy gift idea for kids aged 7 and up – Give this LEGO® brick-built toy as a birthday or holiday gift to creative boys, girls and any young Star Wars: The Mandalorian fan. A helping hand – Using the LEGO® Builder app, kids can zoom, rotate and visualize a digital version of this construction model as they build, track their progress and save sets. Build and connect – The Mandalorian base in this LEGO® Star Wars: The Mandalorian collectible set connects to the buildable rock/cave in the 75373 Ambush on Mandalore Battle Pack, sold separately. Suitable for children aged 7 and up.
-  Updated: 2025-11-08T16:17:37Z
+- [Lego Star Wars Paz Vizsla and Moff Gideon Battle - Epic Building Set](https://meepleworx.fun/products/lego-star-wars-paz-vizsla-and-moff-gideon-battle): Unleash epic adventures with the Lego Star Wars Paz Vizsla and Moff Gideon Battle set! Build, battle, and recreate iconic scenes from the galaxy far, far away.
+  Updated: 2025-11-10T22:23:34Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Star Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign_61.png?v=1762388388
   Price: £34.99 GBP
-- [Lego Star Wars 75398 C-3PO Model 25th Anniversary Set for Ages 18 & Up](https://meepleworx.fun/products/lego-star-wars-75398-c-3po-model-25th-anniversary-set-for-ages-18-up): Build and display this intricately detailed LEGO Star Wars C-3PO figure building set for adults. A nostalgic Star Wars-themed gift idea for men, women and fans of the classic Star Wars saga, this collectible set offers an immersive and rewarding creative challenge. Recreate every detail of the beloved Star Wars character and turn his head or move his arms to create familiar poses. This model kit for adults to build also features a stand with a C-3PO information plaque and space for the included C-3PO LEGO Star Wars minifigure, plus a LEGO Star Wars 25th anniversary brick to complete an eye-catching centrepiece. Enjoy an intuitive building experience with the LEGO Builder app, where you can zoom in and rotate your construction model in 3D, track your progress and save all your sets in one place. To add to this striking display piece, show off your creation alongside LEGO Star Wars R2-D2 (set 75379, sold separately) and simply reconfigure one of C-3PO’s arms to recreate the way he pats his old friend on the head. For ages 18 and up.
-  Updated: 2025-11-08T16:17:37Z
+- [Lego Star Wars C-3PO Model 25th Anniversary Set - Celebrate the Legacy](https://meepleworx.fun/products/lego-star-wars-c-3po-model-25th-anniversary-set): Celebrate 25 years of adventure with the Lego Star Wars C-3PO Model 25th Anniversary Set. This detailed collector's item is perfect for fans and builders alike.
+  Updated: 2025-11-10T22:27:10Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Star Wars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign_59.png?v=1762388388
   Price: £124.99 GBP
-- [Lego Minecraft 21259 The Pirate Ship Voyage Toy Playset for Ages 8+](https://meepleworx.fun/products/lego-minecraft-21259-the-pirate-ship-voyage-toy-playset-for-ages-8): Treat Minecraft® players to LEGO® Minecraft The Pirate Ship Voyage, a versatile, hands-on kids’ toy for boys and girls aged 8 and up. Minecraft® playset with toy boat – This pirate ship toy is a buildable vehicle playset featuring a squid, camel, 2 pirate figures (a Swashbuckler and a Buccaneer), plus accessories. Building adventure set – This pirate toy can be played with on its own or combined with other LEGO® Minecraft® sets (sold separately) to expand the fun. Role-play toy – Accessories include a fish, map, iron sword and a cactus, which can be held by a pirate figure. Gamer gift – Treat boys and girls who are fans of Minecraft®, pirates and LEGO® ship sets to this versatile building toy for kids. Expand the fun – This set combines easily with other sets (sold separately) in the LEGO® Minecraft® range, giving kids even more ways to play. Minecraft® made real – LEGO® Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks. Big fun – The boat in this 166-piece set measures over 4 in. (10 cm) high, 5.5 in. (14 cm) long and 2 in. (5 cm) wide. Suitable for children aged 8 and up.
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Minecraft The Pirate Ship Voyage - Build, Explore & Adventure!](https://meepleworx.fun/products/lego-minecraft-the-pirate-ship-voyage): Embark on an exciting adventure with the Lego Minecraft The Pirate Ship Voyage! Build your own pirate ship, explore the high seas, and create endless fun.
+  Updated: 2025-11-10T22:28:38Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/21259_Box1_v29_1.png?v=1762388388
   Price: £12.99 GBP
-- [Lego Creator 3 in 1 31165 Wild Animals: Panda Family for Ages 8 and Up](https://meepleworx.fun/products/lego-creator-3-in-1-31165-wild-animals-panda-family-for-ages-8-and-up): Kids can share in the love and fun of 3 animal families with this Wild Animals: Panda Family (31165) playset. The panda toy for 8+ year old girls and boys features an adult animal figure with a posable mouth, head, neck and paws, and a cute baby panda accompanied by a bamboo shoot to eat as a snack. With this animal playset, kids choose to build 3 different LEGO animal playsets with the same set of bricks: Young builders can start by building the posable panda figure, then rebuild it into a posable orca toy with its calf, which can be displayed together on transparent stands; or a posable penguin toy and its chick on a patch of ice and water. All 3 scenes make great LEGO display models for creative kids to proudly show off. This LEGO Creator 3in1 set makes a fun birthday gift idea for 8 plus year old girls and boys. With a choice of 3 different building toys to assemble in every box for young builders to build, rebuild and build again. 3in1 sets offer a range that appeals to kids’ biggest passions, including superfast vehicles, amazing animals and houses. Please note that the models cannot be built simultaneously. Recommended for ages 8+
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Creator Wild Animals: Panda Family - Build Your Own Panda Fun!](https://meepleworx.fun/products/lego-creator-wild-animals-panda-family): Discover the fun of the Lego Creator Wild Animals: Panda Family. Build and enjoy this adorable panda set, perfect for creative play and animal lovers.
+  Updated: 2025-11-10T22:30:16Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Creator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/C021223-lego-creator-31165-panda-family-front_50350025-87e6-40c7-8d2e-92ec6e09b8a8.png?v=1762388388
   Price: £34.99 GBP
-- [Lego Minecraft 21264 The Ender Dragon and End Ship for Ages 8 and Up](https://meepleworx.fun/products/lego-minecraft-21264-the-ender-dragon-and-end-ship-for-ages-8-and-up): This LEGO® Minecraft® video-game building toy for boys and girls aged 8+ is packed with Minecraft figures so kids can act out dragon action and adventures aboard a ship. LEGO® Minecraft® video-game playset – Includes a buildable dragon toy and ship, plus an Ender Explorer, Ender Knight and a Minecraft Enderman. Imaginative, independent play – Kids battle a fully jointed dragon, then explore a ship with a removable roof and opening sides to allow access to the fully equipped interior. Building set for dragon fans – This LEGO® Minecraft® kids’ toy includes authentic details, such as weapons, the Ender Explorer’s elytra wings, a firework rocket and the prized dragon’s egg. Minecraft® gift idea – LEGO® Minecraft The Ender Dragon and End Ship is an imaginative playset for kids aged 8 and up who enjoy building-brick explorer toys. 3D building instructions – Kids can download the LEGO® Builder app for an immersive building experience, with digital tools to zoom in and rotate models in 3D, save sets and track progress. Minecraft® made real – LEGO® Minecraft building toys for kids give players a different way to enjoy the game, with mobs, scenes and features brought to life with the hands-on creativity of LEGO bricks.Suitable for children aged 8 and up.
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Minecraft The Ender Dragon and End Ship Set for Epic Adventures](https://meepleworx.fun/products/lego-minecraft-the-ender-dragon-and-end-ship): Unleash your creativity with the Lego Minecraft The Ender Dragon and End Ship set. Build your own Minecraft adventures and battle the Ender Dragon today!
+  Updated: 2025-11-10T22:31:11Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/21264_Box1_v29_1.png?v=1762388388
   Price: £69.99 GBP
-- [Lego Botanicals 10342 Pretty Pink Flower Bouquet for Adults Ages 18+](https://meepleworx.fun/products/lego-botanicals-10342-pretty-pink-flower-bouquet-for-adults-ages-18): Cultivate creativity with the LEGO Botanicals Pretty Pink Flower Bouquet (10342) building set for adults. Bursting with authentic blooms and lovely colours that will never fade, this LEGO flower home decor set is a delightful birthday gift for women, men and nature lovers. Budding florists can relax and unwind as they build the faux flower bouquet, which consists of 15 LEGO flower stems, including roses, daisies, cornflowers, eucalyptus, elderflowers, ranunculus, cymbidium orchids, a waterlily dahlia and a campanula. All the stems of the artificial flowers are adjustable, encouraging builders to arrange a bespoke bouquet that they can use as floral home or office decor. For added customisation, the flowers can be arranged with other LEGO bouquets from the Botanical Collection, sold separately, to create a larger, unique floral display. A thoughtful Mother’s Day gift, Valentine’s Day gift or housewarming gift, these customisable LEGO flowers are sure to be treasured forever by loved ones. Suitable for ages 18+
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Botanicals Pretty Pink Flower Bouquet - Beautiful Floral Display](https://meepleworx.fun/products/lego-botanicals-pretty-pink-flower-bouquet): Brighten your space with the Lego Botanicals Pretty Pink Flower Bouquet. This stunning, versatile set is perfect for flower lovers and builders alike.
+  Updated: 2025-11-10T22:35:31Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Flowers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T143422.087.png?v=1762388388
   Price: £54.99 GBP
-- [Lego Minecraft 21267 The Illager Desert Patrol Playset for Ages 7 & Up](https://meepleworx.fun/products/lego-minecraft-21267-the-illager-desert-patrol-playset-for-ages-7-up): There’s big fun for fans with this small LEGO Minecraft building toy set. With 4 LEGO Minecraft figures, fun features and authentic accessories, The Illager Desert Patrol (21267) is a mini set with mega Minecraft action. Set in a Minecraft desert outpost, kids role-play being a Cactus Knight, with its diamond armour and shield and sword. When 3 Minecraft illager figures arrive to steal treasure, kids must defend the outpost. Great for pretend play, the set includes missiles that kids can launch with a flick of their finger, a variety of weapons and a barrel that holds the treasure. For extra digital fun, the LEGO Builder app lets kids zoom in and rotate models in 3D using their device. This engaging playset combines easily with other LEGO Minecraft sets (sold separately) for even more play possibilities, and makes a great Minecraft-themed gift for 7 plus year old girls, boys and gamers who love the video game and LEGO building toys.Recommended for ages 7+
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Minecraft The Illager Desert Patrol - Build Exciting Adventures!](https://meepleworx.fun/products/lego-minecraft-the-illager-desert-patrol): Explore the adventure with Lego Minecraft The Illager Desert Patrol! Build, battle, and enjoy endless creativity in this exciting Minecraft-themed set.
+  Updated: 2025-11-10T22:37:00Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Minecraft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/C021213-lego-minecraft-21267-illager-desert-front_a41ba743-6d7e-44ca-8f80-6046273c5ed5.png?v=1762388388
   Price: £12.99 GBP
-- [Lego Creator 3 in 1 31151 T. Rex Rebuildable Playset for Ages 9 and Up](https://meepleworx.fun/products/lego-creator-3-in-1-31151-t-rex-rebuildable-playset-for-ages-9-and-up): 3 dinosaur toys for kids in 1 set. LEGO® Creator T. rex dino playset lets boys and girls aged 9+ build and rebuild 3 different animal toys using the same set of bricks. Endless play possibilities – Kids role-play stories with 3 different dino toys: roaming the jungle with the T. rex, charging around with the triceratops or flying high with the pterodactyl. Posable dinosaur figures – The T. rex has a movable head, tail, jaw, feet, legs, arms, toes and heels, the triceratops has movable legs and head, and the pterodactyl has movable wings. Display models – All 3 LEGO® dinosaur toys can stand alone and be displayed by kids in their bedrooms after playtime. Gifts for dinosaur-lovers – 3in1 toy provides a fun build-and-play experience and can be given as a birthday gift for kids who love staging action with dinosaurs. More 3in1 fun – Expand the fun with other sets (sold separately) from the LEGO® Creator 3in1 range, including vehicles, animals and buildings. LEGO® Creator toys – Every 3in1 set lets kids enjoy countless hours of fun as they build 3 different models using the same set of bricks. Measurements – 626-piece LEGO® building set features a buildable Tyrannosaurus rex toy standing over 6 in. (15 cm) high. Suitable for children aged 9 and up.
-  Updated: 2025-11-08T16:17:38Z
+- [Lego Creator T. Rex Rebuildable Playset - Ultimate Building Adventure](https://meepleworx.fun/products/lego-creator-t-rex-rebuildable-playset): Discover the Lego Creator T. Rex Rebuildable Playset! Unleash creativity with this versatile set that lets you build and rebuild your own dinosaur adventures.
+  Updated: 2025-11-10T22:38:52Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Creator
   Availability: Available
@@ -7120,7 +7120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-09T161854.737.png?v=1762388388
   Price: £10.99 GBP
 - [Lego City 60447 Off-Road 4x4 Mountain Truck Playset for Ages 6 and Up](https://meepleworx.fun/products/lego-city-60447-off-road-4x4-mountain-truck-playset-for-ages-6-and-up): Kids can head for the hills with the LEGO City Off-Road 4x4 Mountain Truck (60447) building toy for 6 plus year old boys and girls. This tough toy truck is loaded with cool features and equipment for off-road exploration, including roof storage boxes, tools, rugged tyres and a working winch for tackling steep inclines. Flip the vehicle snorkel and up pops the bonnet for engine repairs! Just add the adventurer minifigure and let the play begin. This LEGO vehicle set includes a step-by-step printed construction guide and digital instructions in the LEGO Builder app. Here, kids can zoom in and rotate models in 3D, save sets and track their progress as they build. LEGO City Great Vehicles playsets deliver feature-rich land, air and water toys for imaginative play without limits. Recommended for ages 6+
-  Updated: 2025-11-10T16:53:21Z
+  Updated: 2025-11-10T21:44:35Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
   Availability: Available
@@ -7211,7 +7211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/Untitleddesign-2025-08-08T151826.566.png?v=1762388594
   Price: £69.99 GBP
 - [Lego Harry Potter 76424 Flying Ford Anglia Playset for Ages 7 and Up](https://meepleworx.fun/products/lego-harry-potter-76424-flying-ford-anglia-playset-for-ages-7-and-up): Give kids a magical introduction to the Wizarding World with this buildable model of the Weasleys’ enchanted Flying Ford Anglia™ car. Adventure toy playset featuring 4 LEGO® Harry Potter™ characters – Harry Potter and Ron Weasley™ minifigures, Hedwig™ and Scabbers™ figures, plus a suitcase and 2 wand elements. Ford Anglia toy car – Features opening doors, a removable roof, seats for the 2 minifigures and space behind for Hedwig™, plus an opening trunk with room inside for the suitcase, wands and Scabbers™. Fun building toy for role play – Kids can recreate the iconic Harry Potter and the Chamber of Secrets™ scene where Harry and Ron fly the car to Hogwarts™. Recommended for ages 7+
-  Updated: 2025-11-10T20:18:36Z
+  Updated: 2025-11-10T23:00:50Z
   Vendor: Curious Minds
   Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO Harry Potter
   Availability: Available
@@ -7427,13 +7427,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/21260_Box1_v29_1.png?v=1762389533
   Price: £22.99 GBP
-- [Lego City 60415 Police Car & Muscle Car Chase Playset for Ages 6 & Up](https://meepleworx.fun/products/lego-city-60415-police-car-muscle-car-chase-playset-for-ages-6-up): Police car toy for tire-screeching action. Police pursuits await with the LEGO® City Police Car and Muscle Car Chase playset. Everything kids need to build a police interceptor and a getaway muscle car, plus a police officer and crook minifigures for fun role play. Pop the police officer and crook minifigures into their vehicles to unleash a world of creative play and storytelling. Includes a ’wanted’ poster – With an adult’s permission, kids can scan the QR code in the building instructions or on the box for a fun LEGO® City Police video adventure. Recommended for ages 6+
-  Updated: 2025-11-08T16:17:48Z
-  Vendor: Curious Minds
-  Product Type: Toys & Games > Toys > Construction Toys > Interlocking Blocks > LEGO > LEGO City
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/5566/0629/files/60415_Box1_v29_8b864388-e4f4-4e89-bb3a-dfdca6bc5ca8.png?v=1762389539
-  Price: £17.99 GBP
 - [Lego City Space 60430 Interstellar Spaceship Playset for Ages 6 and Up](https://meepleworx.fun/products/lego-city-space-60430-interstellar-spaceship-playset-for-ages-6-and-up): Spaceship toy for imaginative play. Young space enthusiasts can blast off for intergalactic action with this LEGO® City Interstellar Spaceship playset. This fun building toy includes everything kids need to build an interstellar spaceship, drone bot and space crew minifigure. Kids insert a toy battery pack to engage the spaceship’s fold-out main thrusters for lightning-fast space travel and convert the drone bot into a jetpack. Recommended for ages 6+
   Updated: 2025-11-08T16:17:48Z
   Vendor: Curious Minds
@@ -7916,7 +7909,7 @@
   Updated: 2025-11-09T02:22:44Z
   Total Products: 51
 - [Lego and Duplo: Explore Creative Building Sets for Endless Fun](https://meepleworx.fun/collections/lego-and-duplo): Unlock creativity with our Lego and Duplo collection! Perfect for builders of all ages, explore endless possibilities and fun with high-quality blocks today.
-  Updated: 2025-11-10T04:11:41Z
+  Updated: 2025-11-10T22:40:56Z
   Total Products: 347
 - [Uncategorized games, toys and fun stuff for Endless Fun and Excitement](https://meepleworx.fun/collections/uncategorized-games-toys-and-fun-stuff): Discover our unique selection of uncategorized games, toys and fun stuff! Find the perfect gift or addition to your collection that sparks joy and creativity.
   Updated: 2025-11-09T02:22:48Z
