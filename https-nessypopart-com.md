@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2025-11-05T00:00:50.189Z
+- Updated At: 2025-11-12T00:00:53.213Z
 
 ## Products
 
@@ -551,23 +551,23 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-yo-yo-emotive-pop-art-hero.jpg?v=1755346386
   Price: $495.00 AUD
 - [ICON - Bowie](https://nessypopart.com/products/icon-bowie): Drawn the day Ness heard of David Bowie’s passing, this portrait marks the beginning of the ICON series—a spontaneous, emotional response to loss, legacy, and transformation. Signed Nessy – 2016, it captures Bowie not as one version of himself, but as a fusion of many: The Aladdin Sane lightning bolt, sharp and iconic The Ziggy Stardust flame-red hair, untamed and theatrical The raised hands, echoing Heroes era vulnerability and defiance Set against a saturated orange field, this piece radiates pop-art clarity and emotional depth. Ness didn’t just draw Bowie—she summoned him. The result is a composite myth, stitched from memory and reverence, inviting collectors to see Bowie as both icon and mirror. This was the first ICON. The one that cracked open the series. A moment of grief turned into a visual anthem for reinvention. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) For collectors who carry Bowie’s spirit in their own transformations, this print is more than art—it’s origin. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:08Z
+  Updated: 2025-11-08T06:10:56Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-hero.jpg?v=1756536405
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-bowie?variant=46891332927640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-giclee-a4.jpg?v=1756536405
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-bowie?variant=47049786982552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-giclee-a3.jpg?v=1756536405
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-bowie?variant=47049787015320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-giclee-a2.jpg?v=1756536405
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-bowie?variant=47049786982552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-giclee-a3.jpg?v=1756536405
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-bowie?variant=46891332927640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-bowie-portrait-giclee-a4.jpg?v=1756536405
+    Price: $60.00 AUD
 - [ICON Series - Freddie (Mixed Media)](https://nessypopart.com/products/icon-series-freddie-mixed-media): A vibrant tribute to Freddie Mercury from the ICON Series. Created with mixed media on canvas, this expressive original by Ness captures flamboyance and vulnerability in bold pop art style. 100 x 75 cm Stretched Canvas - ready to hang Acrylic paint and giclee on canvas. Unique, one of a kind. Comes with Certificate of Authenticity. Ships to Australia and USA. Other areas please contact us we will discuss shipping options. Frames in pictures for illustrative purposes only.
   Updated: 2025-09-17T04:11:08Z
   Vendor: Nessy Pop Art
@@ -575,62 +575,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-freddie-emotive-mixed-media-canvas-100x75cm-hero.jpg?v=1755251981
   Price: $1,795.00 AUD
-- [JETSONS – Astro & Judy | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-astro-judy): Giclée canvas print by Nessy Pop Art—Astro and Judy share a pastel-hued moment of space-age joy in 40x40 cm and 75×75 cm format.
-  Updated: 2025-10-15T03:04:43Z
-  Vendor: Nessy Pop Art
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-astro-judy-cartoon-hero.jpg?v=1757766082
-  - [40 x 40 cm](https://nessypopart.com/products/jetsons-astro-judy?variant=46891334697112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-astro-judy-cartoon-framed-canvas-40x40cm.jpg?v=1757766082
-    Price: $595.00 AUD
-  - [75 x 75 cm](https://nessypopart.com/products/jetsons-astro-judy?variant=46891334729880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-astro-judy-cartoon-framed-canvas-75x75cm.jpg?v=1757766082
-    Price: $1,295.00 AUD
-- [JETSONS – George & Jane | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-george-jane): Giclée canvas print by Nessy Pop Art—mid-century optimism meets animated flair in a vibrant 40x40 cm or 75×75 cm portrait of George and Jane.
-  Updated: 2025-10-15T03:07:33Z
-  Vendor: Nessy Pop Art
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-jane-george-cartoon-hero.jpg?v=1757765622
-  - [40 x 40 cm](https://nessypopart.com/products/jetsons-george-jane?variant=46891334795416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-jane-george-cartoon-framed-canvas-40x40cm.jpg?v=1757765622
-    Price: $595.00 AUD
-  - [75 x 75 cm](https://nessypopart.com/products/jetsons-george-jane?variant=46891334828184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-jane-george-cartoon-framed-canvas-75x75cm.jpg?v=1757765622
-    Price: $1,295.00 AUD
-- [JETSONS - Rosie & Elroy](https://nessypopart.com/products/jetsons-rosie-elroy): Rosie the Robot gently places a cap on young Elroy’s head in this tender snapshot of tomorrow’s tenderness. Set in a bright, bubble-domed living room with flying cars zipping past the windows, this piece captures the heart of The Jetsons’ domestic dream—where caregiving is coded, and affection is automated. The palette pops with atomic-age optimism, while the moment itself feels timeless: a child’s smile, a robot’s care, and a home that hums with possibility.
-  Updated: 2025-09-27T05:25:26Z
-  Vendor: Nessy Pop Art
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-elroy-rosie-cartoon-hero.jpg?v=1757765074
-  - [40 x 40 cm](https://nessypopart.com/products/jetsons-rosie-elroy?variant=46891334860952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-elroy-rosie-cartoon-framed-canvas-40x40cm.jpg?v=1757765074
-    Price: $595.00 AUD
-  - [75 x 75 cm](https://nessypopart.com/products/jetsons-rosie-elroy?variant=46891334893720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-elroy-rosie-cartoon-framed-canvas-75x75cm.jpg?v=1757765074
-    Price: $1,295.00 AUD
-- [JETSONS – Rosie Doubtfire | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-rosie-doubtfire): Retro-futurist Giclée canvas print by Nessy Pop Art—Rosie the Robot meets Mrs. Doubtfire in a playful 40x40 cm and 75×75 cm mashup.
-  Updated: 2025-10-15T03:00:52Z
-  Vendor: Nessy Pop Art
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-rosie-doubtfire-cartoon-hero.jpg?v=1757764116
-  - [40 x 40 cm](https://nessypopart.com/products/jetsons-rosie-doubtfire?variant=46891334926488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-rosie-doubtfire-cartoon-framed-canvas-40x40cm.jpg?v=1757764116
-    Price: $595.00 AUD
-  - [75 x 75 cm](https://nessypopart.com/products/jetsons-rosie-doubtfire?variant=46891334959256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-rosie-doubtfire-cartoon-framed-canvas-75x75cm.jpg?v=1757764116
-    Price: $1,295.00 AUD
 - [PIXEL - Mega Pixel](https://nessypopart.com/products/pixel-mega-pixel): Legacy upgraded. Pixel perfected. Mega Pixel is a tribute to evolution—where the iconic silhouette of the original Mega Man helmet meets its sleek, modern counterpart. NessyART’s mashup captures the tension between nostalgia and innovation, pixelating the past and future into one electrifying canvas. It’s a visual power-up for collectors who grew up with 8-bit dreams and still chase boss-level brilliance. Limited Editions of 100 each 40x40cm or 75x75cm Rolled or Framed Canvas
   Updated: 2025-09-27T05:25:26Z
   Vendor: Nessy Pop Art
@@ -1124,131 +1068,131 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-incredible-pug-comic-giclee-30x30cm.jpg?v=1756528116
     Price: $120.00 AUD
 - [ICON - Freddie](https://nessypopart.com/products/icon-freddie-1): A salute to the showman who turned vulnerability into spectacle and defiance into anthem. Ness’s portrait of Freddie Mercury draws from his legendary 1986 Wembley performance—yellow military jacket, raised fist, and that unmistakable gaze of triumph. But this isn’t just Freddie on stage—it’s Freddie as symbol: of queer joy, theatrical power, and unapologetic self-expression. Rendered in bold lines and a warm brown backdrop, the piece balances graphic simplicity with emotional weight. The yellow jacket pops like a spotlight, while Freddie’s stance evokes both command and invitation. Signed Nessy – 2016, this portrait doesn’t just depict a moment—it channels a legacy. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Freddie not just as a performer, but as a permission slip to live louder. For collectors who carry Queen’s spirit in their bones, this is a visual encore Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:01Z
+  Updated: 2025-11-08T06:06:53Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-hero.jpg?v=1756539715
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-freddie-1?variant=47049858711704)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a4.jpg?v=1756539715
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-freddie-1?variant=47049858744472)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a3.jpg?v=1756539715
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-freddie-1?variant=47049858777240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a2.jpg?v=1756539715
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-freddie-1?variant=47049858744472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a3.jpg?v=1756539715
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-freddie-1?variant=47049858711704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-freddie-portrait-giclee-a4.jpg?v=1756539715
+    Price: $60.00 AUD
 - [ICON - Prince](https://nessypopart.com/products/icon-prince-1): A portrait of purple power and quiet defiance. Ness’s tribute to Prince draws from multiple visual signatures: the rich purple suit, the dramatic white cravat, and the gaze that’s equal parts invitation and challenge. Set against a saturated pink backdrop, this piece doesn’t just depict Prince—it pulses with his spirit. The illustration blends cartoon clarity with pop-art boldness, capturing Prince not as a performer, but as a force: gender-fluid, genre-defying, and emotionally unfiltered. This ICON stands apart—both in palette and posture—offering collectors a glimpse into the myth behind the music. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Prince as a symbol of radical self-expression and emotional truth. For collectors who see music as identity and style as resistance, this is a visual encore. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:01Z
+  Updated: 2025-11-08T06:07:26Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-hero.jpg?v=1756540871
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-prince-1?variant=47049875161240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a4.jpg?v=1756540871
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-prince-1?variant=47049875194008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a3.jpg?v=1756540871
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-prince-1?variant=47049875226776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a2.jpg?v=1756540871
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-prince-1?variant=47049875194008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a3.jpg?v=1756540871
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-prince-1?variant=47049875161240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-prince-portrait-giclee-a4.jpg?v=1756540871
+    Price: $60.00 AUD
 - [ICON - Amy](https://nessypopart.com/products/icon-amy-1): A portrait of defiance, heartbreak, and unmistakable style. Ness’s tribute to Amy Winehouse captures her in full mythic form: beehive hair crowned with a red rose, dramatic eyeliner, tattoos worn like memoirs. The yellow top pops against a saturated red backdrop, while Amy’s gaze—direct, unflinching—holds the viewer in quiet confrontation. This isn’t just Amy the singer. It’s Amy the symbol: of soul laid bare, of brilliance tangled with pain, of a voice that cracked open the world. Every detail—Cynthia, Blake, the heart, the ink—is rendered with reverence. This portrait is both homage and elegy. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print invites collectors to hold space for Amy—not just as a voice, but as a story. For those who see beauty in the broken and strength in the scars, this is a visual requiem. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:01Z
+  Updated: 2025-11-08T06:08:00Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-hero.jpg?v=1756546169
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-amy-1?variant=47049922511000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A4.jpg?v=1756546169
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-amy-1?variant=47049922543768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A3.jpg?v=1756546169
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-amy-1?variant=47049922576536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A2.jpg?v=1756546169
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-amy-1?variant=47049922543768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A3.jpg?v=1756546169
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-amy-1?variant=47049922511000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-amy-portrait-giclee-A4.jpg?v=1756546169
+    Price: $60.00 AUD
 - [ICON - Gaga](https://nessypopart.com/products/icon-gaga-1): A portrait of glam, gore, and divine theatre. Ness’s tribute to Lady Gaga channels her American Horror Story era—where pop met blood, and elegance wore fangs. The voluminous blonde waves, dramatic eye, and crimson backdrop evoke a lineage of glam queens: Debbie Harry’s icy defiance, Madonna’s sculpted provocation, Gaga’s own velvet menace. This isn’t Gaga the chart-topper—it’s Gaga the vampiric icon, the one who made horror couture. The bold lines and minimal shading amplify her mythic silhouette, rooted in the visual language of ICONS. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates Gaga as a shape-shifter of pop mythology—where fashion is ritual, and persona is prophecy. For collectors who see glamour as armor and performance as truth, this is a visual invocation. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:00Z
+  Updated: 2025-11-08T06:08:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-hero.jpg?v=1756549004
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-gaga-1?variant=47050014851224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a4.jpg?v=1756549004
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-gaga-1?variant=47050014883992)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a3.jpg?v=1756549004
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-gaga-1?variant=47050014916760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a2.jpg?v=1756549004
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-gaga-1?variant=47050014883992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a3.jpg?v=1756549004
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-gaga-1?variant=47050014851224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-gaga-portrait-giclee-a4.jpg?v=1756549004
+    Price: $60.00 AUD
 - [ICON - George](https://nessypopart.com/products/icon-george-1): A portrait of elegance, introspection, and pop defiance. Ness’s tribute to George Michael blends visual cues from across his career: the tousled hair and earring from Faith, the contemplative pose from Older, and the tailored cool of his later performances. It’s not one George—it’s many. A composite of charisma, vulnerability, and quiet rebellion. Set against a vivid blue backdrop, the piece balances pop-art clarity with emotional nuance. The hand resting against his face evokes both confidence and reflection, while the cross earring nods to the iconography he wore with pride. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates George not just as a pop star, but as a storyteller—of love, loss, and liberation. For collectors who hear truth in every lyric and see grace in every transformation, this is a visual hymn. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:00Z
+  Updated: 2025-11-08T06:09:06Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-hero.jpg?v=1756550709
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-george-1?variant=47050046767256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a4.jpg?v=1756550709
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-george-1?variant=47050046800024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a3.jpg?v=1756550709
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-george-1?variant=47050046832792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a2.jpg?v=1756550709
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-george-1?variant=47050046800024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a3.jpg?v=1756550709
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-george-1?variant=47050046767256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-george-portrait-giclee-a4.jpg?v=1756550709
+    Price: $60.00 AUD
 - [ICON - John](https://nessypopart.com/products/icon-john-1): A portrait of wit, wonder, and radical softness. Ness’s tribute to John Lennon blends visual cues from across his evolution: the round glasses of Imagine, the clasped hands of introspection, the tousled hair and layered jacket that echo both activist and artist. It’s not one John—it’s a quiet amalgam of many: dreamer, provocateur, poet. Set against a vivid green backdrop, the piece balances cartoon clarity with emotional depth. The yellow shirt and blue jacket pop with pop-art precision, while John’s expression—gentle, knowing—invites reflection. Available in Open Edition formats: A4 (21 × 29.7 cm) A3 (29.7 × 42 cm) A2 (42 × 59.4 cm) Part of the ICON series, this print celebrates John not just as a Beatle, but as a symbol of imagination and resistance. For collectors who believe in the power of words, art, and quiet rebellion, this is a visual prayer. Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:00Z
+  Updated: 2025-11-08T06:09:36Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-hero.jpg?v=1756552394
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-john-1?variant=47050052665496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A4.jpg?v=1756552394
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-john-1?variant=47050052698264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A3.jpg?v=1756552394
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-john-1?variant=47050052731032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A2.jpg?v=1756552394
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-john-1?variant=47050052698264)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A3.jpg?v=1756552394
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-john-1?variant=47050052665496)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-john-portrait-giclee-A4.jpg?v=1756552394
+    Price: $60.00 AUD
 - [ICON - Elton](https://nessypopart.com/products/icon-elton): A portrait of flamboyance, joy, and unapologetic spectacle. Ness’s tribute to Elton John channels his most radiant eras—white-framed glasses, orange-tinted lenses, and a smile that feels like a standing ovation. Surrounding him, a cascade of multicolored feathers, fabric, and pure theatrical energy. It’s not just Elton—it’s the feeling of Elton: exuberant, generous, larger than life. Set against a pop-art explosion of colour, this piece is pure celebration. This portrait doesn’t just depict a performer—it captures a mood, a movement, a moment. Part of the ICON series, this print celebrates Elton as a beacon of queer joy, musical brilliance, and radical self-expression. For collectors who believe in the power of sequins, sincerity, and piano ballads that break your heart and heal it in the same breath—this is your anthem in ink. Print only. Frames shown are for illustrative purposes and not included.
-  Updated: 2025-09-17T04:11:00Z
+  Updated: 2025-11-08T06:10:09Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-hero.jpg?v=1756553716
-  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-elton?variant=47050059219096)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a4.jpg?v=1756553716
-    Price: $60.00 AUD
-  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-elton?variant=47050059251864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a3.jpg?v=1756553716
-    Price: $120.00 AUD
   - [A2 - (420 x 594 mm) (16.5 x 23.4 in)](https://nessypopart.com/products/icon-elton?variant=47050059284632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a2.jpg?v=1756553716
     Price: $240.00 AUD
+  - [A3 - (297 x 420 mm) (11.7 x 16.5 in)](https://nessypopart.com/products/icon-elton?variant=47050059251864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a3.jpg?v=1756553716
+    Price: $120.00 AUD
+  - [A4 - (210 x 297 mm) (8.27 x 11.7 in)](https://nessypopart.com/products/icon-elton?variant=47050059219096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-icon-elton-portrait-giclee-a4.jpg?v=1756553716
+    Price: $60.00 AUD
 - [CANINE CLASSICS - Canine Gothic](https://nessypopart.com/products/canine-classics-canine-gothic-1): Two serious dogs. One very unserious pitchfork. In this cheeky riff on Grant Wood’s “American Gothic,” Ness swaps solemn humans for dapper pups and replaces rural austerity with pop-colored joy. The heart pendant? Iconic. The glasses? Scholarly. The sausages skewered on the pitchfork? Utterly ridiculous. And perfect. Set against a sky of cartoon clouds and a barn that looks suspiciously like it moonlights as a doghouse, Canine Gothic is part homage, part howl-worthy parody. It’s a love letter to loyalty, odd couples, and the quiet comedy of domestic life. From the CANINE CLASSICS series—where every masterpiece gets a tail-wagging twist. Open Edition Prints now in 2 sizes 18 x 18 cm (7" x 7") 30 x 30 cm (12" x 12") Giclee print on fine art paper. Print only. Frames shown are for illustrative purposes and not included.
   Updated: 2025-09-17T04:10:59Z
   Vendor: Nessy Pop Art
@@ -1415,7 +1359,7 @@
   Updated: 2025-10-24T07:33:30Z
   Total Products: 6
 - [ICON Series](https://nessypopart.com/collections/icon-series): The ICON Series is Ness’s expressive tribute to cultural legends—from music trailblazers to boundary-pushing style icons. Each portrait combines emotional depth, bold color, and painterly reimagination to transform fame into vulnerability, glamour into grit. Available in 3 sizes. Open Edition giclée prints on fine art paper.
-  Updated: 2025-09-10T11:18:34Z
+  Updated: 2025-11-06T04:23:28Z
   Total Products: 8
 - [CANINE CLASSICS](https://nessypopart.com/collections/canine-classics): In CANINE CLASSICS, Nessy Pop Art transforms six iconic masterpieces into tail-wagging tributes to canine emotion, mischief, and charm. Each piece reimagines a cultural classic through the expressive lens of doghood—blending art history with pop color, surreal humor, and emotional truth. This is a series that rewards both the knowing eye and the playful heart. Whether it’s quiet judgment, chaotic joy, or mysterious snack obsession, every work captures a moment of canine humanity that feels oddly familiar. Together, they form a mythic arc of loyalty, longing, and the eternal drama of domestic life. Perfect for collectors who love their art with a wink, a wag, and a generous helping of absurdity.
   Updated: 2025-10-10T09:04:13Z
@@ -1423,22 +1367,19 @@
 - [Insta](https://nessypopart.com/collections/insta)
   Updated: 2025-10-24T07:28:31Z
   Total Products: 12
-- [JETSONS](https://nessypopart.com/collections/jetsons): Step into the bubble-domed brilliance of tomorrow with this vibrant pop art series celebrating the Jetsons—America’s favorite space-age family. From Rosie’s chrome-hearted caregiving to Astro’s goofy loyalty, each piece captures a moment of animated tenderness, framed in retro-futurist optimism. At the heart of the collection lies a rare visual trilogy: three continuous canvases that, when displayed side by side, reveal the full Jetson household in motion. Elroy and Rosie share a quiet domestic moment, George and Jane beam with playful partnership, and Judy and Astro round out the tableau with joy and companionship. Together, they form a panoramic portrait of cartoon family life—bright, whimsical, and emotionally resonant. Whether collected individually or as a complete set, these limited edition prints offer a nostalgic nod to mid-century dreams and the enduring charm of animated affection. Edition of 200 each Available in 40 × 40 cm and 75 × 75 cm Framed canvas with modern floater frame Ideal for collectors, pop culture lovers, and retro design enthusiasts
-  Updated: 2025-09-13T12:36:04Z
-  Total Products: 4
 
 ## Store Pages
 
 - [Contact](https://nessypopart.com/pages/contact): We’re a registered Australian business (ABN: 17332723191), and we respond to all inquiries within 24 hours. For urgent matters, please call or emai...
   Updated: 2025-09-13T02:57:02Z
 - [Affordable Pop Art Prints | NessyART Open Editions Australia](https://nessypopart.com/pages/open-edition-prints): Open Edition Prints are your gateway to collecting Ness’s bold, joyful pop art—without limits. These accessible pieces span classic Aussie icons, c...
-  Updated: 2025-08-13T11:33:16Z
+  Updated: 2025-11-06T04:31:19Z
 - [Your privacy choices](https://nessypopart.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-14T13:37:32Z
 - [About Nessy](https://nessypopart.com/pages/about-nessy): Ness is a Melbourne-based pop artist creating emotionally honest work that blends bold imagery with layered storytelling. His limited edition print...
   Updated: 2025-08-21T12:33:09Z
-- [Limited Editions](https://nessypopart.com/pages/limited-editions)
-  Updated: 2025-08-16T11:05:52Z
+- [Limited Edition Prints | Nessy Pop Art – Museum-Grade & Authenticated](https://nessypopart.com/pages/limited-editions): Step into the rare and the remarkable. Our Limited Editions are handpicked artworks offered in strictly capped quantities—each piece a fleeting mom...
+  Updated: 2025-11-06T05:05:45Z
 - [Wishlist](https://nessypopart.com/pages/swym-wishlist): window.SwymCallbacks = window.SwymCallbacks || []; window.SwymCallbacks.push(function(swat) { var wishlistContainerElement = document.querySelector...
   Updated: 2025-09-07T09:24:00Z
 - [Who is Hoodie Boy?](https://nessypopart.com/pages/who-is-hoodie-boy): Hoodie Boy is a recurring figure in Nessy Pop Art — a character born from self‑reflection. The hoodie represents protection and anonymity, while th...
