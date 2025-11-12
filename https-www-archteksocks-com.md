@@ -10,12 +10,12 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-11-11T00:00:30.713Z
+- Updated At: 2025-11-12T00:00:51.040Z
 
 ## Products
 
 - [Arch Support Crew Socks | Compression & Comfort – ArchTek®](https://www.archteksocks.com/products/archtek-crew-socks-comfort): Feel the power of arch support crew socks. Patented 5-layer system + compression offers all-day pain relief. Designed by foot surgeons.
-  Updated: 2025-11-09T22:16:56Z
+  Updated: 2025-11-11T06:47:00Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Crew_Gray_Socks_1080x1080_-_B.png?v=1722990207
     Price: $24.99 USD
 - [Crew Sock Bundle | 5-Layer Arch Support & Compression – ArchTek®](https://www.archteksocks.com/products/arch-support-crew-socks-bundles): Bundle up on comfort. ArchTek® compression crew socks provide doctor-designed support and long-lasting relief. Save more with packs.
-  Updated: 2025-11-09T22:16:57Z
+  Updated: 2025-11-11T06:47:01Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -509,7 +509,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/compression-orange-hillside2_cd162396-ee7e-41ed-9ffa-2f1dbf6ded05.jpg?v=1700138332
     Price: $39.99 USD
 - [Ankle Socks with Arch Support | Foot Pain Relief – ArchTek®](https://www.archteksocks.com/products/ankle-socks-with-arch-support): Ease foot pain with compression ankle socks from ArchTek®. Designed with patented arch support for daily comfort and energy return.
-  Updated: 2025-11-09T22:16:54Z
+  Updated: 2025-11-11T06:47:02Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -551,7 +551,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Ankle_Gray_bundle_1080x1080_-_B.png?v=1722990213
     Price: $21.99 USD
 - [Ankle Compression Socks Bundle | Support & Comfort – ArchTek®](https://www.archteksocks.com/products/comfort-ankle-socks-bundles): Shop ArchTek® ankle sock bundles for arch support, compression, and doctor-engineered pain relief. Stay active, feel supported.
-  Updated: 2025-11-09T22:16:55Z
+  Updated: 2025-11-11T06:47:02Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
     Price: $22.99 USD
 - [Sporty Dress Socks Bundles - 3 Pack](https://www.archteksocks.com/products/dress-socks-bundles-3-pack-sporty-stripes): ArchTek® Dress Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Dynamic y-strap energy return system Form fitting leg compression Seamless toe closure Antimicrobial coating Right and Left specific design Materials: 62% Cotton; 35% Nylon; 3% Spandex
-  Updated: 2025-11-09T22:16:55Z
+  Updated: 2025-11-11T06:47:03Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1095,7 +1095,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-sporty-beige-bundle.jpg?v=1724088773
     Price: $57.99 USD
 - [Moisture Wicking White Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-white-nylon-crew): Cool, dry, supported. ArchTek® white nylon crew socks wick moisture, relieve foot pain, and provide arch support for active days.
-  Updated: 2025-11-09T22:16:56Z
+  Updated: 2025-11-11T06:46:59Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1113,7 +1113,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_f17f92e2-cd02-439a-a5aa-f998a56eea82.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Black Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-black-nylon-crew): Power your stride. ArchTek® black crew socks deliver arch support, compression, and sweat-wicking tech to fuel your movement.
-  Updated: 2025-11-09T22:16:56Z
+  Updated: 2025-11-11T06:46:59Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1131,7 +1131,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-black2_d7fc817c-25e2-482e-bb95-95fdf0be618d.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Crew Socks Bundles - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-crew-socks-bundles): Bundle and breathe. ArchTek® crew sock bundles feature moisture-wicking fabric and patented arch support for all-day performance.
-  Updated: 2025-11-09T22:16:58Z
+  Updated: 2025-11-11T06:47:01Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
