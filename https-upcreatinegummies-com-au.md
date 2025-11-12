@@ -6,19 +6,19 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-11-06T00:00:41.169Z
+- Updated At: 2025-11-12T00:00:51.937Z
 
 ## Products
 
 - [Sour Apple Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/sour-apple-creatine-gummies): Bold green apple with 5g creatine. No mess, no prep—just pure momentum to train harder, recover faster, and keep chasing your next win.
-  Updated: 2025-11-03T22:39:19Z
+  Updated: 2025-11-11T10:42:13Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Sour-Apple-Creatine-Gummies-1.webp?v=1756340598
   Price: $68.00 AUD
 - [Orange Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/orange-creatine-gummies): Bright, zesty 5g creatine boost. Reliable fuel for every session so you can train, recover, and show up stronger every day.
-  Updated: 2025-11-03T10:26:52Z
+  Updated: 2025-11-09T22:12:38Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Lemonade-Creatine-Gummies-1.webp?v=1756340510
   Price: $68.00 AUD
 - [Strawberry Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/strawberry-creatine-gummies): Sweet, smooth 5g creatine power. Fuels your hustle post-session or on the go, keeping your momentum alive for what matters most.
-  Updated: 2025-11-03T10:26:24Z
+  Updated: 2025-11-06T05:48:22Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
@@ -45,7 +45,7 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-11-05T12:22:24Z
+  Updated: 2025-11-11T12:24:37Z
   Total Products: 4
 
 ## Blogs
@@ -84,6 +84,10 @@
     Updated: 2025-10-30T00:06:00Z
     Author: Up Creatine Gummies
     Tags: Vegan Creatine Gummies
+  - [Up Creatine Gummies  | Consistency Made Simple: How Gummies Help You Stick to Your Creatine Routine](https://upcreatinegummies.com.au/blogs/read-up/consistency-creatine-routine-gummies): Up Creatine Gummies  | Consistency Made Simple: How Gummies Help You Stick to Your Creatine Routine
+    Updated: 2025-11-06T00:08:01Z
+    Author: Up Creatine Gummies
+    Tags: Creatine Routine with Gummies
 
 ## Store Pages
 
