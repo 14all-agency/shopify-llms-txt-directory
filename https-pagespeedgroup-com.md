@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2024-11-26T22:24:07Z
 - Contact Email: support@pagespeedgroup.com
-- Updated At: 2025-11-12T12:09:23.683Z
+- Updated At: 2025-11-12T12:10:17.593Z
 
 We are Page Speed Group - Premium Web Performance Optimization Service for Shopify Websites | Shopify Page Speed Optimization and Maintenance | Website Performance ROI Calculator
 
