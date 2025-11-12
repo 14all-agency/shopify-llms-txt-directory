@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-08T00:00:47.829Z
+- Updated At: 2025-11-12T00:01:21.895Z
 
 ## Products
 
@@ -881,15 +881,15 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ergonomic-cervical-pillow-for-pain-free-sleep-969353.webp?v=1728272196
     Price: $41.95 USD
 - [Hyper Realistic Horror Mask Scary Skull Halloween](https://ursupermart.com/products/terrifying-skull-in-mouth-halloween-mask): Terrify friends with our hyper-realistic skull-in-mouth mask. Its creepy design and movable mouth will make it a showstopper at any horror party. Shop now!
-  Updated: 2025-11-07T08:34:50Z
+  Updated: 2025-11-10T14:51:27Z
   Vendor: S1B|S1|Meta - Dsers**** + Blog
   Product Type: terrifying-skull-in-mouth-halloween-mask
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/terrifying-skull-in-mouth-bloody-mask.webp?v=1757605147
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bloody-skull-mask-professional-haunted-house-actor-UrSuperMart.webp?v=1762743073
   Price: $22.95 USD
 - [Affordable Deadpool Cosplay Mask Comfortable Fit](https://ursupermart.com/products/high-quality-deadpool-costume-mask-comfortable-fit): This affordable Deadpool cosplay mask offers complete character transformation with comfortable, breathable wear and clear visibility. Get yours today!
-  Updated: 2025-11-05T20:29:11Z
-  Vendor: S1B|S1|Meta - Dsers**
+  Updated: 2025-11-10T14:19:08Z
+  Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: Deadpool costume mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/deadpool-costume-mask-red-black-design.webp?v=1757601822
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2025-11-05T20:29:41Z
+  Updated: 2025-11-08T21:53:51Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
@@ -1944,7 +1944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-bracelet-diamond-wristwear.webp?v=1736043334
   Price: $74.95 USD
 - [Cozy Thick Bottom Fur Trim Slippers for Winter](https://ursupermart.com/products/weeboo-thick-bottom-fur-trim-snow-slippers-1): Discover ultimate comfort with our Thick Bottom Fur Trim Snow Slippers. Perfect for lounging or errands, these stylish slippers keep your feet warm.
-  Updated: 2025-11-05T20:31:19Z
+  Updated: 2025-11-08T14:00:16Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Slippers
   Availability: Available
@@ -1982,7 +1982,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/single-beige-slipper-platform-sole-furry.webp?v=1731800244
     Price: $26.20 USD
 - [Stylish Blue Seamless Set - Perfect for Workouts](https://ursupermart.com/products/blue-seamless-workout-set): Elevate your style with our blue seamless set. Comfort, style, and performance in one perfect package. Ideal for workouts or casual wear!
-  Updated: 2025-11-05T20:31:21Z
+  Updated: 2025-11-09T17:26:05Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Leggings Set
   Availability: Available
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-11-07T16:02:26Z
+  Updated: 2025-11-11T16:21:34Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2125,7 +2125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $44.95 USD
   - [Peacock  Blue / XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043040858)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/trendy-plaid-winter-coat-street-style-fashion.webp?v=1737920110
     Price: $49.95 USD
   - [Peacock  Blue / 2XL](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504043073626)
@@ -5489,7 +5489,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/stylish-gold-necklaces-with-heart-pendants-on-cream-fabric.webp?v=1734368459
   Price: $22.95 USD
 - [Modern Gold Chain Necklace | Double Sphere Collection](https://ursupermart.com/products/gold-double-sphere-adjustable-slider-necklace): Discover our luxurious 37.4" adjustable gold snake chain necklace with dual sphere pendants. Modern minimalist design perfect for everyday elegance.
-  Updated: 2025-11-05T20:39:42Z
+  Updated: 2025-11-11T14:08:26Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Necklace
   Availability: Available
@@ -9568,7 +9568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/red-light-therapy-device-bathroom-setting.webp?v=1752384864
     Price: $37.95 USD
 - [Eye Cream for Wrinkles: Reduce Fine Lines Now](https://ursupermart.com/products/eye-cream-for-wrinkles-best-anti-aging-formula): Fight wrinkles with our Eye Cream for Wrinkles! Firming, anti-aging formula diminishes dark circles & puffiness. See results!
-  Updated: 2025-11-05T20:47:48Z
+  Updated: 2025-11-10T10:59:44Z
   Vendor: S1B|CJ**
   Product Type: Eye Cream
   Availability: Available
@@ -15461,7 +15461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-11-06T16:21:45Z
+  Updated: 2025-11-08T07:20:36Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -15545,17 +15545,17 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-11-07T23:48:01Z
+  Updated: 2025-11-08T07:25:17Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-blue-bodycon-formal.webp?v=1744081852
   - [Red / M](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events?variant=41840291872858)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-red-front-view-coastal.webp?v=1744081852
     Price: $71.95 USD
   - [Red / S](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events?variant=41840291905626)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-dress-red-front-view-coastal.webp?v=1744081852
     Price: $71.95 USD
   - [Navy / S](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events?variant=41840291938394)
@@ -16900,7 +16900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/613084827819.jpg?v=1746978859
     Price: $27.95 USD
 - [Car windshield defogger for clear views and comfort.](https://ursupermart.com/products/car-windshield-defogger-quick-clear-comfort-safe): Car windshield defogger quickly clears fog and ice, offering dual heating and cooling for year-round comfort and safer drives. Ensure clear views and comfort now!
-  Updated: 2025-11-07T00:25:31Z
+  Updated: 2025-11-11T02:25:37Z
   Vendor: S1B|Make | CJ
   Product Type: Car mounted cooling and heating fan
   Availability: Available
@@ -17411,7 +17411,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1881963053667586048.jpg?v=1746988563
   Price: $29.95 USD
 - [360 ultrasonic pest repellent for safe home pest control](https://ursupermart.com/products/360-ultrasonic-pest-repellent-safe-home-control): 360 ultrasonic pest repellent offers safe, chemical-free pest control for your home, protecting up to 3229 sq ft. Get yours today for peace of mind!
-  Updated: 2025-11-05T21:07:57Z
+  Updated: 2025-11-10T11:25:30Z
   Vendor: S1B|Make | CJ
   Product Type: Ultrasonic pest repellent
   Availability: Available
@@ -17432,7 +17432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-water-dispenser-cat-drinking-indoor.webp?v=1752292758
   Price: $49.95 USD
 - [Decorative wax lamp for a calming, mesmerizing glow](https://ursupermart.com/products/decorative-wax-lamp-calming-mesmerizing-glow): Decorative wax lamp creates a mesmerizing, tranquil glow, transforming any space into a relaxing oasis with its unique, captivating display. Enhance your mood and decor; shop now!
-  Updated: 2025-11-05T21:08:02Z
+  Updated: 2025-11-10T19:25:35Z
   Vendor: S1B|Make | CJ
   Product Type: Decorative wax lamp
   Availability: Available
@@ -18137,7 +18137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/multiway-dress-light-blue-halter-style.webp?v=1752518992
     Price: $47.95 USD
 - [Magnetic Phone Mount - Secure & Easy Car Use](https://ursupermart.com/products/magnetic-phone-mount-car-dashboard-holder): Secure your phone with our top-rated magnetic car phone mount.  Enjoy hands-free navigation & easy installation – no more shaky drives!
-  Updated: 2025-11-05T21:09:46Z
+  Updated: 2025-11-10T06:26:55Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Foldable Magnetic Car Phone Mount
   Availability: Available
@@ -18349,7 +18349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/magnetic-eyelashes-em12-voluminous-look.webp?v=1749339074
     Price: $32.95 USD
 - [Retro Mini Camera - Pocket Size & HD Quality!](https://ursupermart.com/products/retro-mini-camera-vintage-instant-film-photography): Capture memories with our retro mini camera!  This portable HD camera is perfect for travel & vlogging. Shop now!
-  Updated: 2025-11-05T21:10:13Z
+  Updated: 2025-11-11T15:25:30Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Retro Mini Camera
   Availability: Available
@@ -18699,7 +18699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-summer-slit-dress-pink-hibiscus.webp?v=1750951080
     Price: $34.95 USD
 - [Portable Garment Steamer - Wrinkle-Free, On-the-Go!](https://ursupermart.com/products/portable-garment-steamer-for-travel-wrinkle-remover): Wrinkle-free clothes on the go! This portable garment steamer is perfect for travel & removes wrinkles quickly.  Shop now!
-  Updated: 2025-11-05T21:10:53Z
+  Updated: 2025-11-10T09:25:41Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Travel steamer
   Availability: Available
@@ -19572,7 +19572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/white-noise-speaker-nature-sound-tuner.webp?v=1750273842
   Price: $69.95 USD
 - [Needle Threader: Quick & Easy Sewing Starts Here!](https://ursupermart.com/products/easy-needle-threader-tool-for-sewing-projects): Effortlessly thread needles with our easy needle threader!  Perfect for sewing machines & hand sewing, even with arthritis or poor eyesight. Shop now!
-  Updated: 2025-11-05T21:13:23Z
+  Updated: 2025-11-11T03:26:58Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Needle threader
   Availability: Available
@@ -21636,7 +21636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-07T11:26:55Z
+  Updated: 2025-11-11T13:26:45Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22208,7 +22208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-size-mens-corduroy-shorts-navy.webp?v=1752785476
     Price: $28.95 USD
 - [Women's Jumpsuits for Sale Online Fashionable Designs](https://ursupermart.com/products/women-s-jumpsuits-comfortable-sleeveless-flare-fitness): Women's jumpsuits for yoga, Pilates & fitness training. Seamless, breathable, and comfortable designs for studio classes and athleisure wear.
-  Updated: 2025-11-05T21:19:56Z
+  Updated: 2025-11-10T06:28:27Z
   Vendor: S1B|@Updated - CJ
   Product Type: Women's Sleeveless Flare Jumpsuit
   Availability: Available
@@ -22681,25 +22681,25 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-trousers-dark-gray-cargo-pocket-style.webp?v=1752781560
     Price: $34.95 USD
-- [Wireless Keyboard Bluetooth Portable Laser Keyboard](https://ursupermart.com/products/this-portable-bluetooth-laser-projection-keyboard-is-a-virtual-keyboard-device-that-projects-a-laser-virtual-keyboard-for-easy-typing-on-any-flat-surface): Experience the freedom of wireless typing with our compact Bluetooth keyboard, perfect for travel, presentations, and outdoor events, offering a portable and affordable solution for business professionals.
-  Updated: 2025-11-05T21:20:42Z
+- [Wireless Keyboard Bluetooth Portable Laser Keyboard](https://ursupermart.com/products/bluetooth-laser-projection-keyboard): Experience the freedom of wireless typing with our compact Bluetooth keyboard, perfect for travel, presentations, and outdoor events, offering a portable and affordable solution for business professionals.
+  Updated: 2025-11-09T17:50:30Z
   Vendor: S1B|@Updated - CJ
   Product Type: Portable Bluetooth Laser Projection Keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/laser-projection-keyboard-red-glowing-virtual.webp?v=1753326429
-  - [Numeric Keypad](https://ursupermart.com/products/this-portable-bluetooth-laser-projection-keyboard-is-a-virtual-keyboard-device-that-projects-a-laser-virtual-keyboard-for-easy-typing-on-any-flat-surface?variant=42106576011354)
+  - [Numeric Keypad](https://ursupermart.com/products/bluetooth-laser-projection-keyboard?variant=42106576011354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wireless-numeric-keypad-laptop-macbook-windows.webp?v=1753326429
     Price: $24.95 USD
-  - [Tri-fold keyboard](https://ursupermart.com/products/this-portable-bluetooth-laser-projection-keyboard-is-a-virtual-keyboard-device-that-projects-a-laser-virtual-keyboard-for-easy-typing-on-any-flat-surface?variant=42106576044122)
+  - [Tri-fold keyboard](https://ursupermart.com/products/bluetooth-laser-projection-keyboard?variant=42106576044122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/foldable-wireless-keyboard-touchpad-mobile-laptop.webp?v=1753326429
     Price: $42.95 USD
-  - [Bi-fold keyboard](https://ursupermart.com/products/this-portable-bluetooth-laser-projection-keyboard-is-a-virtual-keyboard-device-that-projects-a-laser-virtual-keyboard-for-easy-typing-on-any-flat-surface?variant=42106576076890)
+  - [Bi-fold keyboard](https://ursupermart.com/products/bluetooth-laser-projection-keyboard?variant=42106576076890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/foldable-bluetooth-keyboard-travel-portable-folded.webp?v=1753326430
     Price: $34.95 USD
-  - [Laser Keyboard Projector](https://ursupermart.com/products/this-portable-bluetooth-laser-projection-keyboard-is-a-virtual-keyboard-device-that-projects-a-laser-virtual-keyboard-for-easy-typing-on-any-flat-surface?variant=42106576109658)
+  - [Laser Keyboard Projector](https://ursupermart.com/products/bluetooth-laser-projection-keyboard?variant=42106576109658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/laser-keyboard-device-portable-compact-white.webp?v=1753326429
     Price: $69.95 USD
@@ -22819,7 +22819,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/659c82c8-d7e4-4b58-9740-6e2f8fcec335.jpg?v=1755830480
   Price: $649.95 USD
 - [Fairy Lights String Christmas Ribbon Bow Tie](https://ursupermart.com/products/fairy-lights-string-christmas-ribbon-bow-tie): Product information: Packing: OPP bag Item No.: Ribbon with colorful lights Material: Cloth + LED light Size: width 5CM Packing list: Lantern*1
-  Updated: 2025-11-07T18:26:42Z
+  Updated: 2025-11-11T09:26:36Z
   Vendor: S1B|@CJ
   Product Type: Ribbon Christmas Lights
   Availability: Available
@@ -22904,13 +22904,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/desktop-electric-heater-500w-features.webp?v=1757031263
   Price: $34.95 USD
-- [Portable Dryer for Small Spaces UV Sterilization](https://ursupermart.com/products/portable-dryer-for-small-spaces-uv-sterilization): This portable dryer offers fast, UV-clean drying for your clothes in any space with multiple modes and timers; get yours for fresh, hygienic garments today!
-  Updated: 2025-11-07T22:26:46Z
-  Vendor: S1B|S1|CJ
-  Product Type: Portable clothes dryer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-cloth-drier-heating-system.webp?v=1758644664
-  Price: $54.95 USD
 - [Clear Bags for Stadium and Daily Use See Contents Easily](https://ursupermart.com/products/clear-stadium-tote-bags-for-events-and-daily-use): Clear bags for stadiums and events offer a transparent, waterproof design with multiple pockets for easy security checks and quick access. Shop now!
   Updated: 2025-11-05T21:21:07Z
   Vendor: S1B|S1|CJ
@@ -23669,7 +23662,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fat-burning-massager-led-body-device.webp?v=1758759194
   Price: $64.95 USD
 - [RC Drone Fighter Jet for Kids Easy to Fly Durable Safe Fun](https://ursupermart.com/products/rc-drone-fighter-jet-easy-fly-durable-fun): This RC drone fighter jet offers thrilling outdoor fun for kids with easy controls, LED lights, and amazing 360-degree flips. Grab yours now!
-  Updated: 2025-11-05T21:22:39Z
+  Updated: 2025-11-10T11:27:01Z
   Vendor: S1B|S1|CJ
   Product Type: RC Drone Fighter Jet
   Availability: Available
@@ -25542,7 +25535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2025-11-06T01:27:06Z
+  Updated: 2025-11-08T16:26:41Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26909,11 +26902,11 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-orange-mini-tool.webp?v=1761596190
     Price: $9.99 USD
 - [Kids Watch Digital Waterproof for Active Play & Swim](https://ursupermart.com/products/kids-watch-digital-waterproof-for-active-swim): Kids watch: This durable, waterproof digital watch helps active kids manage time with alarms and a backlight; empower their independence and get yours today!
-  Updated: 2025-11-02T03:27:40Z
+  Updated: 2025-11-11T02:48:41Z
   Vendor: S1B|S1|eprolo
   Product Type: Digital wristwatch
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/digital-wristwatch-blue-backlight-display.webp?v=1761674947
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/digital-wristwatch-blue-backlight-display.webp?v=1762829320
   - [light Blue](https://ursupermart.com/products/kids-watch-digital-waterproof-for-active-swim?variant=42389384265818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/digital-wristwatch-blue-full-front-view.webp?v=1761678255
@@ -27210,6 +27203,20 @@
   - [Rose Red / For Samsung S10 PLUS](https://ursupermart.com/products/selfie-case-samsung-s10-plus-led-lighted-phone?variant=42389456650330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/selfie-case-pink-and-clear-s9-plus.webp?v=1760021415
+    Price: $22.95 USD
+- [Wall Charger Fast Multiport for All Your Devices](https://ursupermart.com/products/wall-charger-fast-multiport-for-all-devices): This wall charger provides fast, safe 30W power for all your devices with multiple USB ports and robust protection. Charge all your gadgets simultaneously now!
+  Updated: 2025-11-11T01:30:43Z
+  Vendor: S1B|S1|eprolo
+  Product Type: wall charger
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4EB204DFD4D10C4E109C9A6A62C9EE9A.jpg?v=1759849016
+  - [US-Black](https://ursupermart.com/products/wall-charger-fast-multiport-for-all-devices?variant=42389473067098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/5319F0A122571ED9AA96338326CC0131.jpg?v=1759849029
+    Price: $22.95 USD
+  - [US-White](https://ursupermart.com/products/wall-charger-fast-multiport-for-all-devices?variant=42389473099866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/6B32A0A8AB2098FD9983093693B6C31A.jpg?v=1759849032
     Price: $22.95 USD
 - [Wallet cases for iPhone with MagSafe and card holder](https://ursupermart.com/products/iphone-wallet-cases-with-mag-safe-card-holder): Wallet cases for iPhone offer secure card storage, MagSafe charging, and robust anti-drop protection. Simplify your daily essentials and get yours today!
   Updated: 2025-10-23T01:31:53Z
@@ -29427,6 +29434,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-hair-straightener-fantasy-pink.webp?v=1762035591
     Price: $21.95 USD
+- [Christmas Bracelet for Women - Festive Holiday Charms](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms): Christmas bracelet with colorful holiday charms adds festive cheer to any outfit. Express your holiday spirit and get yours today!
+  Updated: 2025-11-10T14:20:06Z
+  Vendor: S1B|S1|CJ
+  Product Type: Charm bracelet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/31cd57ee-c8eb-44f2-a51b-b9aea6b8e1d0.jpg?v=1762025116
+  - [Ornaments & Stones](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms?variant=42506304585818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/895c2b7f-85a8-450e-b927-31d63c14b211.jpg?v=1762025131
+    Price: $14.95 USD
+  - [Ornaments Only](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms?variant=42506304618586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/54f94b43-2694-4ed7-9b94-9bd3f517d81a.jpg?v=1762025131
+    Price: $14.95 USD
+  - [Silver](https://ursupermart.com/products/christmas-bracelet-for-women-festive-holiday-charms?variant=42506304651354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0406d073-dc43-4f79-a895-adeab9b5de70.jpg?v=1762025131
+    Price: $14.95 USD
 - [Womens Overcoat Stylish Double Breasted Winter Coat](https://ursupermart.com/products/womens-double-breasted-overcoat-winter-stylish-warm): This elegant womens overcoat features a double-breasted design, keeping you warm and stylish all winter. Elevate your look and shop this versatile piece today!
   Updated: 2025-11-05T21:31:38Z
   Vendor: S1B|S1|CJ
@@ -30024,7 +30049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/music-boxing-machine-smart-star-black.webp?v=1762393400
     Price: $134.95 USD
 - [Racing Phone Holders for Car Vent - Safe & Easy Install](https://ursupermart.com/products/car-phone-holders-for-vent-safe-easy-install): Secure your phone with our racing car phone holders, featuring adjustable clamps and a 360-degree swivel for safe, hands-free driving. Get yours today!
-  Updated: 2025-11-07T10:23:18Z
+  Updated: 2025-11-11T14:45:53Z
   Vendor: S1B|S1|CJ
   Product Type: car phone holder
   Availability: Available
@@ -30375,15 +30400,59 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/waist-cincher-shapewear-nude-front-look.webp?v=1762215144
     Price: $24.95 USD
+- [Holiday Projectors: Easy Outdoor Christmas Light Show](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor): Holiday projectors effortlessly transform any space into a festive wonderland with 16 interchangeable slides for easy indoor or outdoor decorating. Shop now!
+  Updated: 2025-11-10T14:24:13Z
+  Vendor: S1B|S1|CJ
+  Product Type: Holiday projector light
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/dcc14eb6-fd37-436d-87ef-ab12da78e260.jpg?v=1762443478
+  - [Single Unit](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor?variant=42527861145690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/880676303919.jpg?v=1762443489
+    Price: $29.95 USD
+  - [2 Units](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor?variant=42527861178458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/609cdd70-62b1-48b8-b1aa-74f181046083.jpg?v=1762443489
+    Price: $52.95 USD
+  - [3 Units](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor?variant=42527861211226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1ad44c23-961f-457c-85c4-fbb887e5669f.jpg?v=1762443489
+    Price: $74.95 USD
+  - [4 Units](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor?variant=42527861243994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/b001259e-2898-493a-812d-62d31e07e6af.jpg?v=1762443489
+    Price: $99.95 USD
+  - [5 Units](https://ursupermart.com/products/holiday-projectors-outdoor-christmas-light-show-decor?variant=42527861276762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
+    Price: $124.95 USD
+- [Electric Shaver for Men - Wet Dry Cordless Beard Trimmer](https://ursupermart.com/products/electric-shaver-men-wet-dry-cordless-beard-trimmer): This electric shaver offers precise wet/dry grooming with a T-shaped blade for a sharp look anywhere. Get yours for effortless styling and a clean finish!
+  Updated: 2025-11-11T14:32:55Z
+  Vendor: S1B|S1|CJ
+  Product Type: Electric Shaver
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1617068151224.jpg?v=1762449201
+  - [Blue](https://ursupermart.com/products/electric-shaver-men-wet-dry-cordless-beard-trimmer?variant=42528070402138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/266368987737.jpg?v=1762449208
+    Price: $34.95 USD
+  - [Orange](https://ursupermart.com/products/electric-shaver-men-wet-dry-cordless-beard-trimmer?variant=42528070434906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/286377897277.jpg?v=1762449208
+    Price: $34.95 USD
+  - [Pink](https://ursupermart.com/products/electric-shaver-men-wet-dry-cordless-beard-trimmer?variant=42528070467674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/704097193136.jpg?v=1762449208
+    Price: $34.95 USD
 - [Phone Stand - Foldable & Portable for Hands-Free Viewing](https://ursupermart.com/products/phone-stand-foldable-portable-for-hands-free-viewing): This phone stand offers hands-free viewing for any device, folding flat for easy portability. Enjoy comfortable videos and calls anywhere; grab yours for ultimate convenience!
-  Updated: 2025-11-07T22:46:43Z
+  Updated: 2025-11-08T10:34:08Z
   Vendor: S1B|S1|CJ
   Product Type: Phone Stand
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/foldable-phone-stand-dual-view-display.webp?v=1762555567
   Price: $11.95 USD
 - [Womens Coats: Stylish Asymmetrical Fall & Casual Jackets](https://ursupermart.com/products/womens-coats-stylish-asymmetrical-fall-casual-jackets): Womens coats with an asymmetrical hemline and knit cuffs offer versatile style and warmth for any occasion. Shop now for your perfect fit!
-  Updated: 2025-11-07T22:32:07Z
+  Updated: 2025-11-08T12:22:27Z
   Vendor: S1B|S1|CJ
   Product Type: Womens Coat
   Availability: Available
@@ -30493,16 +30562,23 @@
   - [Wine Red / 4XL](https://ursupermart.com/products/womens-coats-stylish-asymmetrical-fall-casual-jackets?variant=42528256065626)
     Availability: Available
     Price: $44.95 USD
+- [Facial Steamer for Pores Deep Cleanse and Hydrate Skin](https://ursupermart.com/products/facial-steamer-for-pores-deep-cleanse-hydrate-skin): This facial steamer deeply cleanses pores, hydrates skin, and offers a soothing spa-like experience at home for a radiant glow. Shop now!
+  Updated: 2025-11-10T13:50:45Z
+  Vendor: S1B|S1|CJ
+  Product Type: Facial Steamer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2401120609060321100.jpg?v=1762739649
+  Price: $38.95 USD
 - [Putting Green for Indoor Practice - Improve Your Game](https://ursupermart.com/products/indoor-putting-green-practice-home-golf): Putting Green for home practice lets you sharpen your golf skills indoors with a realistic surface and easy ball return. Improve your game today!
-  Updated: 2025-11-07T07:21:36Z
+  Updated: 2025-11-08T05:08:58Z
   Vendor: @S1B|S1|CJ
   Product Type: Indoor putting green
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/indoor-putting-green-size-specs-view.webp?v=1762485223
   Price: $129.95 USD
 - [Christmas Elf Doll Funny Ozzy Rocker Holiday Gag Gift](https://ursupermart.com/products/christmas-elf-doll-funny-rocker-gag-gift-holiday-decor): This funny christmas elf doll, resembling a rock legend, brings humorous, poseable fun to your holidays. Grab this unique decoration and make everyone laugh!
-  Updated: 2025-11-07T17:39:04Z
-  Vendor: @S1B|S1|CJ
+  Updated: 2025-11-11T12:24:38Z
+  Vendor: S1B|S1|CJ
   Product Type: Novelty Doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Ozzy-O-Elf-on-a-shelf-black.webp?v=1762483478
@@ -30522,8 +30598,240 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/Ozzy-O-Elf-on-a-shelf-red.webp?v=1762483478
     Price: $19.95 USD
+- [Men's Parka Insulated Winter Coat for Cold Weather](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather): Men's Parka: Stay exceptionally warm and protected from harsh winter elements with this insulated coat, featuring a hood and pockets. Shop now!
+  Updated: 2025-11-10T10:18:22Z
+  Vendor: S1B|S1|CJ
+  Product Type: Men's Winter Coat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+  - [9788 Army Green / M](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295845978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / L](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295813210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295878746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 2XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295583834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 3XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295616602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 4XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295649370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 5XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295682138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 6XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295714906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 7XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295747674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Army Green / 8XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295780442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-hooded-olive-green.webp?v=1762619157
+    Price: $74.95 USD
+  - [9788 Black / M](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296173658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / L](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296140890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296206426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 2XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295911514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 3XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295944282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 4XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528295977050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 5XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296009818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 6XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296042586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 7XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296075354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Black / 8XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296108122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-black-parka-style.webp?v=1762619185
+    Price: $74.95 USD
+  - [9788 Gray / M](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296501338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / L](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296468570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296534106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 2XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296239194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 3XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296271962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 4XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296304730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 5XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296337498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 6XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296370266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 7XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296403034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+  - [9788 Gray / 8XL](https://ursupermart.com/products/mens-parka-insulated-winter-coat-cold-weather?variant=42528296435802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-winter-coat-light-grey-long.webp?v=1762619234
+    Price: $74.95 USD
+- [Womens Leggings 3-Pack High Waist Tummy Control](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control): Womens leggings 3-pack offers high-waisted tummy control, butt lift, and stylish designs for ultimate comfort and confidence. Shop now!
+  Updated: 2025-11-10T08:47:11Z
+  Vendor: S1B|S1|CJ
+  Product Type: Womens Leggings 3-Pack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-black-white.webp?v=1762618114
+  - [3BWH / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298860634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-black-white.webp?v=1762618114
+    Price: $84.95 USD
+  - [3BWH / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298827866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-black-white.webp?v=1762618114
+    Price: $84.95 USD
+  - [3BWH / L](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298795098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-black-white.webp?v=1762618114
+    Price: $84.95 USD
+  - [3DGN / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298958938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-cutout.webp?v=1762618148
+    Price: $84.95 USD
+  - [3DGN / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298926170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-cutout.webp?v=1762618148
+    Price: $84.95 USD
+  - [3DGN / L](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298893402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-cutout.webp?v=1762618148
+    Price: $84.95 USD
+  - [3LGN / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299057242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-yellow-black.webp?v=1762618179
+    Price: $84.95 USD
+  - [3LGN / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299024474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-yellow-black.webp?v=1762618179
+    Price: $84.95 USD
+  - [3LGN / L](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528298991706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-yellow-black.webp?v=1762618179
+    Price: $84.95 USD
+  - [3PNK / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299122778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-white.webp?v=1762618215
+    Price: $84.95 USD
+  - [3PNK / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299090010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-white.webp?v=1762618215
+    Price: $84.95 USD
+  - [BLU LGN BWH / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299221082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-blue-yellow-set.webp?v=1762618256
+    Price: $84.95 USD
+  - [BLU LGN BWH / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299188314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-blue-yellow-set.webp?v=1762618256
+    Price: $84.95 USD
+  - [BLU LGN BWH / L](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299155546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-blue-yellow-set.webp?v=1762618256
+    Price: $84.95 USD
+  - [DGN LGN BWH / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299319386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-mix-bundle.webp?v=1762618304
+    Price: $84.95 USD
+  - [DGN LGN BWH / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299286618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-mix-bundle.webp?v=1762618304
+    Price: $84.95 USD
+  - [DGN LGN BWH / L](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299253850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-teal-mix-bundle.webp?v=1762618304
+    Price: $84.95 USD
+  - [PNK BLU DGN / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299384922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-color-trio.webp?v=1762618335
+    Price: $84.95 USD
+  - [PNK BLU DGN / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299352154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-color-trio.webp?v=1762618335
+    Price: $84.95 USD
+  - [PNK DGN BWH / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299450458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-black-teal.webp?v=1762618369
+    Price: $84.95 USD
+  - [PNK DGN BWH / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299417690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-black-teal.webp?v=1762618369
+    Price: $84.95 USD
+  - [PNK LGN BWH / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299515994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-green-duo.webp?v=1762618428
+    Price: $84.95 USD
+  - [PNK LGN BWH / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299483226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-pink-green-duo.webp?v=1762618428
+    Price: $84.95 USD
+  - [PNK LGN DGN / S](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299581530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-triple-color-pack.webp?v=1762618481
+    Price: $84.95 USD
+  - [PNK LGN DGN / M](https://ursupermart.com/products/womens-leggings-3-pack-high-waist-tummy-control?variant=42528299548762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/butt-lifting-yoga-pants-triple-color-pack.webp?v=1762618481
+    Price: $84.95 USD
 - [Long Winter Coat for Women - Warm & Stylish Faux Fur](https://ursupermart.com/products/long-womens-winter-coat-faux-fur-collar): This winter coat offers full body warmth with a stylish faux fur collar and a flattering belt, perfect for any cold weather occasion. Stay cozy and chic; shop now!
-  Updated: 2025-11-07T19:35:59Z
+  Updated: 2025-11-08T07:09:23Z
   Vendor: @S1B|S1|CJ
   Product Type: Women's Winter Coat
   Availability: Available
@@ -30629,8 +30937,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/fur-collar-winter-coat-dark-rustic.webp?v=1762473833
     Price: $62.95 USD
 - [Womens Coats: Stylish Warm A-Line Winter Coat with Pockets](https://ursupermart.com/products/womens-coats-stylish-warm-winter-coat-pockets): Womens coats provide cozy warmth and unique style with this flattering A-line design, featuring knitted sleeves and handy pockets. Shop now for your perfect fit!
-  Updated: 2025-11-07T16:37:39Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-08T08:47:19Z
+  Vendor: @S1B|S1|CJ
   Product Type: Womens Coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-trench-coat-black-buttoned-style.png?v=1762472648
@@ -30719,8 +31027,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-trench-coat-red-knit-sleeves.png?v=1762472684
     Price: $54.95 USD
 - [Puffer Blazer Men's Warm Jacket - Stylish & Professional](https://ursupermart.com/products/mens-warm-waterproof-puffer-blazer-jacket): Puffer Blazer for men: Stay warm and look sharp in this stylish, waterproof, and windproof jacket. Perfect for any setting, shop now for ultimate comfort!
-  Updated: 2025-11-07T21:11:53Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-09T05:32:44Z
+  Vendor: @S1B|S1|CJ
   Product Type: Puffer Blazer Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-jacket-black-blazer-front.webp?v=1762471749
@@ -30797,8 +31105,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-jacket-grey-tailored-design.webp?v=1762549913
     Price: $64.95 USD
 - [Faux Fur Coat Womens Long Warm & Cozy Style](https://ursupermart.com/products/faux-fur-coat-womens-long-warm-plush-hooded): Faux Fur Coat: Stay wonderfully warm and protected from the cold in this long, ethical women's coat with an oversized hood; embrace luxurious style today!
-  Updated: 2025-11-07T14:14:17Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-09T02:22:44Z
+  Vendor: @S1B|S1|CJ
   Product Type: Faux fur coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hooded-long-plush-coat-white-style.webp?v=1762470765
@@ -30887,8 +31195,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/hooded-long-plush-coat-white-belted.webp?v=1762470893
     Price: $104.95 USD
 - [Women Overcoats: Long Wool Winter Coats for Style & Warmth](https://ursupermart.com/products/women-overcoats-long-wool-winter-coats-style): Women overcoats offer cozy warmth and unique style with bold stripes and polka dots. Stay protected and make a statement; find your perfect winter look today!
-  Updated: 2025-11-07T19:20:35Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-09T07:09:19Z
+  Vendor: @S1B|S1|CJ
   Product Type: Women's overcoat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/overcoat-grey-polka-dot-stripe.webp?v=1762469559
@@ -30913,8 +31221,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/overcoat-grey-polka-dot-stripe.webp?v=1762469559
     Price: $76.95 USD
 - [Teddy Coats Warm Long & Cozy Womens Oversized Fit](https://ursupermart.com/products/womens-long-teddy-coats-warm-oversized-cozy-fit): Teddy coats provide ultimate warmth and style with their plush, oversized fit, perfect for layering on chilly days. Discover your cozy comfort today!
-  Updated: 2025-11-07T21:56:08Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-09T13:15:25Z
+  Vendor: @S1B|S1|CJ
   Product Type: Women's Teddy Coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sherpa-coat-street-style-winter-look.webp?v=1762467015
@@ -30967,8 +31275,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sherpa-coat-white-streetwear-london.webp?v=1762551752
     Price: $62.95 USD
 - [Winter Coats for Women - Double Breasted & Warm](https://ursupermart.com/products/womens-winter-coats-double-breasted-warm-wool): Winter coats for women offer warmth and elegance with a double-breasted design and practical pockets, perfect for any occasion. Find your stylish look today!
-  Updated: 2025-11-07T16:13:37Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-09T19:21:19Z
+  Vendor: @S1B|S1|CJ
   Product Type: Women's overcoat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-black-double-breasted.webp?v=1762464913
@@ -31093,8 +31401,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/long-wool-coat-blush-pink-feminine.webp?v=1762465043
     Price: $82.95 USD
 - [Faux Fur Coats Long Striped Warm Women's Outerwear](https://ursupermart.com/products/faux-fur-coats-long-striped-womens-outerwear): Faux fur coats offer luxurious warmth and unique style with a long striped design. Stay cozy and stand out in cooler weather; shop now for your perfect fit!
-  Updated: 2025-11-07T22:37:09Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-10T02:22:30Z
+  Vendor: @S1B|S1|CJ
   Product Type: Faux fur coat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/western-style-striped-faux-fur-coat.webp?v=1762547847
@@ -31139,8 +31447,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/western-style-striped-faux-fur-coat.webp?v=1762547847
     Price: $64.95 USD
 - [Cropped Puffer Jackets for Women Warm Trendy Stylish](https://ursupermart.com/products/cropped-puffer-jackets-for-women-warm-trendy): Puffer Jackets provide trendy warmth with a cropped style and sporty stripes, perfect for cool weather commutes. Stay cozy and fashionable; discover your look!
-  Updated: 2025-11-07T16:10:41Z
-  Vendor: S1B|S1|CJ
+  Updated: 2025-11-10T07:09:41Z
+  Vendor: @S1B|S1|CJ
   Product Type: Chenille Puffer Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/padded-puffer-jacket-color-collection.webp?v=1762527796
@@ -31224,17 +31532,17 @@
   Updated: 2025-11-01T18:59:52Z
   Total Products: 21
 - [Discover Trendy Men's Fashion | Budget-Friendly Style](https://ursupermart.com/collections/mens-fashion): Shop our affordable men's fashion collection for trendy clothing and accessories. Quality styles at budget-friendly prices. Free shipping available!
-  Updated: 2025-11-07T18:03:27Z
+  Updated: 2025-11-10T02:03:55Z
   Total Products: 20
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
-  Updated: 2025-11-07T22:35:38Z
+  Updated: 2025-11-10T13:54:03Z
   Total Products: 35
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-11-07T22:35:38Z
-  Total Products: 88
+  Updated: 2025-11-10T15:31:43Z
+  Total Products: 89
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-11-07T14:23:48Z
-  Total Products: 22
+  Updated: 2025-11-08T00:11:14Z
+  Total Products: 23
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-11-01T02:07:14Z
   Total Products: 95
@@ -31242,23 +31550,23 @@
   Updated: 2025-10-31T19:50:48Z
   Total Products: 35
 - [Best Black Friday Gadgets Under $15: Viral TikTok Tech](https://ursupermart.com/collections/black-friday-deals-under-15): Discover trending Black Friday gadgets under $15! Shop viral TikTok tech gifts, phone accessories & kitchen tools. Free shipping on all orders.
-  Updated: 2025-11-07T22:46:24Z
-  Total Products: 87
+  Updated: 2025-11-10T14:14:08Z
+  Total Products: 88
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
-  Updated: 2025-11-02T03:33:52Z
-  Total Products: 14
+  Updated: 2025-11-08T00:11:14Z
+  Total Products: 15
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
   Updated: 2025-11-07T22:35:38Z
   Total Products: 85
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
-  Updated: 2025-11-07T03:00:13Z
+  Updated: 2025-11-10T02:20:26Z
   Total Products: 23
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
   Updated: 2025-11-06T15:03:33Z
   Total Products: 36
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-11-07T22:35:38Z
-  Total Products: 92
+  Updated: 2025-11-10T14:14:08Z
+  Total Products: 93
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-11-06T15:03:33Z
   Total Products: 92
@@ -31269,16 +31577,16 @@
   Updated: 2025-11-06T17:48:02Z
   Total Products: 20
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
-  Updated: 2025-11-07T22:35:38Z
-  Total Products: 67
+  Updated: 2025-11-10T14:14:08Z
+  Total Products: 68
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
-  Updated: 2025-11-06T17:55:46Z
+  Updated: 2025-11-10T01:58:00Z
   Total Products: 44
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
   Updated: 2025-11-07T22:35:38Z
   Total Products: 58
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-11-07T01:58:26Z
+  Updated: 2025-11-09T22:14:03Z
   Total Products: 45
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
   Updated: 2025-11-06T17:13:29Z
@@ -31293,8 +31601,8 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-06T17:39:42Z
-  Total Products: 43
+  Updated: 2025-11-08T00:11:14Z
+  Total Products: 44
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-10-16T00:45:10Z
   Total Products: 31
@@ -31390,7 +31698,7 @@
     Author: Angel Carbonell
     Tags: automatic espresso machine, barista coffee at home, beginner espresso maker, best espresso machine for beginners, espresso machine, home espresso machine
   - [Best Skincare for Men 2025: Beauty Products That Work Truly!](https://ursupermart.com/blogs/the-wellness-vault-health-beauty-chronicles/best-mens-skincare-products-2025): Best Skincare for Men 2025: Beauty Products That Work Truly!
-    Updated: 2025-10-04T18:32:49Z
+    Updated: 2025-11-10T01:27:52Z
     Author: Angel Carbonell
     Tags: affordable anti aging products, anti aging products for men, best eye cream for men, best mens face wash, best moisturizer for men, body sculpting at home, dark circles under eyes men, digital eye strain relief, heated eye massager, how to get clear skin men, ingrown hair treatment, LED light therapy benefits, magnetic eyelashes men, mens beauty products 2025, mens grooming essentials, mens grooming tips, mens posture corrector, mens self care routine, mens skincare on budget, mens skincare routine, mens wellness essentials, muscle recovery devices, natural shampoo bar men, natural skincare products, portable sauna benefits, professional skincare at home, razor burn prevention, red light therapy at home, retinol for beginners, skincare for men over 40, skincare for oily skin men, skincare for sensitive skin men, skincare ingredient guide, sunscreen for men daily, trending self care products, viral skincare products tiktok, wireless massage devices
   - [Body Slimming Massager: Real Results & Complete How-To Tips](https://ursupermart.com/blogs/the-wellness-vault-health-beauty-chronicles/body-slimming-massager-results-guide): Body Slimming Massager: Real Results & Complete How-To Tips
@@ -31523,8 +31831,8 @@
     Updated: 2025-10-05T16:13:51Z
     Author: Angel C
     Tags: 8 drawer fabric dresser, affordable fabric dresser, bedroom storage ideas, best fabric storage dresser, cheap fabric dresser, dark gray fabric dresser, dark grey storage dresser, decluttering with fabric dresser, dorm room storage solutions, easy assembly dresser, fabric drawer storage unit, fabric dresser apartment living, fabric dresser changing table, fabric dresser for accessories, fabric dresser for bedroom, fabric dresser for clothes, fabric dresser for kids room, fabric dresser for nursery, fabric dresser for small spaces, fabric dresser for toys, fabric dresser on sale, fabric dresser organization, fabric dresser with wood top, fabric storage dresser, fabric storage for small spaces., fabric storage tower, kids room organization, lightweight fabric dresser, metal frame fabric dresser, modern fabric dresser, nursery storage dresser, organizing with fabric drawers, portable dresser drawers, safe nursery dresser, small space storage solutions, soft drawer dresser, storage dresser with fabric drawers, stylish fabric storage chest, versatile storage dresser, where to buy fabric dresser
-  - [Shop Mint Green Handbag Styles | Top Handle Bags &amp; More](https://ursupermart.com/blogs/ursupermart-news-updates/mint-green-handbag-stylish-organized): Shop Mint Green Handbag Styles | Top Handle Bags &amp; More
-    Updated: 2025-10-10T13:01:42Z
+  - [Shop Mint Green Handbag Styles | Top Handle Bags & More](https://ursupermart.com/blogs/ursupermart-news-updates/mint-green-handbag-stylish-organized): Shop Mint Green Handbag Styles | Top Handle Bags & More
+    Updated: 2025-11-08T16:44:03Z
     Author: Angel C
     Tags: affordable green handbags., best everyday handbag, best small green purse, buy mint green bag, crocodile embossed bag, date night purse, elegant evening bag, elegant green handbag, everyday leather bag, faux leather handbag, green bag with flap closure, green bag with zipper, green crocodile purse, green purse gift idea, light green fashion bag, light green leather bag, light green leather purse, mint green accessories, mint green bag for spring, mint green bag online, mint green bag outfit, mint green gift for her, Mint green handbag, mint green leather handbag, organized handbag, pastel green accessories, pastel green purse, small green bag for party, small green purse, small green structured bag, small structured handbag, small top handle purse, structured everyday bag, structured top handle bag, stylish mint green bag, stylish structured bag, top handle bags for women, where to buy green bags, women's green handbag
   - [Christmas Tree Costume Ideas | Holiday Fun Guide](https://ursupermart.com/blogs/ursupermart-news-updates/christmas-tree-costume-holiday-fun): Christmas Tree Costume Ideas | Holiday Fun Guide
@@ -31611,6 +31919,26 @@
     Updated: 2025-10-31T21:05:17Z
     Author: Angel C
     Tags: best pillow for neck alignment, best pillow for neck pain relief, best pillow for posture, breathable memory foam, breathable neck pillow, cervical support pillow, cervical support pillow benefits, chronic neck pain pillow, comfortable sleep solutions, contour pillow benefits, contoured neck pillow, contoured orthopedic pillow, deep sleep pillow, ergonomic pillow benefits, ergonomic sleep pillow, find perfect sleep, how to stop waking up with neck pain, memory foam pillow comfort, memory foam pillow neck pain, morning neck stiffness, Neck pain pillow, neck pain relief products, neck pillow with washable cover, neck support for office naps, neck support pillow for travel, orthopedic pillow for neck, pillow for back sleepers, pillow for deep sleep., pillow for side sleepers, pillow for stiff neck, pillows for spinal health, spinal alignment pillow, spine support pillow, stop tossing and turning, support for neck and shoulders, therapeutic neck pillow, therapeutic pillow benefits, travel neck pillow, washable neck pillow
+  - [Hyper Realistic Horror Mask: Terrify This Halloween!](https://ursupermart.com/blogs/ursupermart-news-updates/hyper-realistic-horror-mask-halloween): Hyper Realistic Horror Mask: Terrify This Halloween!
+    Updated: 2025-11-10T02:56:00Z
+    Author: Angel C
+    Tags: adult Halloween mask, affordable scary masks, best Halloween masks online, best scary mask for parties, bloody skull Halloween mask, buy realistic skull mask, comfortable full head mask, comfortable horror mask, disturbing Halloween mask, easy to wear horror mask, flexible rubber skull mask, full head coverage mask, full head horror mask, gory Halloween mask, grotesque costume mask, horror film mask, horror mask for films, horror mask for haunted houses, hyper realistic Halloween mask, impressive Halloween costume, no makeup Halloween costume, professional horror mask., quick Halloween costume, realistic bloody mask, realistic Halloween prop, realistic skull face mask, realistic skull mask, Scary Halloween masks, scary mask for teens, shocking Halloween mask, shop horror masks, social media Halloween costume, terrifying latex skull mask, terrifying skull in mouth mask, unique Halloween costume ideas, unique scary mask, viral Halloween costume, where to buy scary masks
+  - [Cozy Christmas Decor Under $30: Budget Holiday Decor Ideas](https://ursupermart.com/blogs/ursupermart-news-updates/cozy-christmas-decor-under-30-transform-your-space-today): Cozy Christmas Decor Under $30: Budget Holiday Decor Ideas
+    Updated: 2025-11-08T01:02:04Z
+    Author: Angel Carbonell
+    Tags: affordable christmas decorations ideas, best christmas decorations under 20, budget friendly holiday decor, christmas aesthetic mood board, christmas bedroom decorating budget, christmas candles budget friendly, christmas centerpiece ideas budget, christmas color palette 2025, christmas cookie decorating supplies, christmas craft supplies cheap, christmas decor deals under 25, christmas decor flat lay ideas, christmas decor organization tips, christmas decor that looks expensive, christmas decorating checklist beginners, christmas decorating for beginners, christmas decorating inspiration pinterest, christmas decorating mistakes avoid, christmas decorating on a budget, christmas decorating rental apartment, christmas decorating timeline budget, christmas entryway decor ideas, christmas garland diy cheap, christmas gift ideas under 30, christmas gift wrapping station budget, christmas home tour budget, christmas kitchen decorating cheap, christmas lighting ideas budget, christmas mantel decor budget, christmas ornaments affordable bulk, christmas outdoor decor apartment balcony, christmas party decorations cheap, christmas ribbon garland diy, christmas shopping guide budget, christmas stocking stuffers under 15, christmas storage solutions small space, christmas string lights placement, christmas table decor budget, christmas throw pillows under 25, christmas tree alternatives small space, christmas tree decorating small space, christmas trends instagram 2025, christmas village display budget, christmas wall decor removable, christmas wreaths diy dollar tree, cottagecore christmas decorating ideas, cozy christmas atmosphere budget, cozy christmas decor under 30, cozy christmas living room ideas, diy christmas decorations cheap, dollar tree christmas decor hacks, elegant christmas decor budget, farmhouse christmas decorating affordable, holiday apartment decorating tips, how to decorate for christmas cheap, ikea christmas decorating ideas, instagram christmas aesthetic, minimalist christmas decor ideas, modern christmas decorating budget, neutral christmas color schemes, renter friendly christmas decorating, rustic christmas decor cheap, scandinavian christmas aesthetic cheap, secret santa gifts home decor, small apartment christmas decorating, target christmas decor budget, vintage christmas decor affordable, walmart christmas decor finds
+  - [Durable Vegan Leather Bags: Quality Without Animal Cruelty](https://ursupermart.com/blogs/ursupermart-news-updates/vegan-leather-bags-quality-durability-guide): Durable Vegan Leather Bags: Quality Without Animal Cruelty
+    Updated: 2025-11-09T17:13:48Z
+    Author: Angel Carbonell
+    Tags: affordable vegan leather, apple leather bags, best vegan leather bags, cactus leather bags, cruelty free bag brands, cruelty free bags, cruelty free designer bags, cruelty free handbags, cruelty free luxury bags, cruelty free professional bags, cruelty free tote bags, cruelty free work bags, durable vegan leather, eco friendly bags, ethical bag brands, ethical bag shopping, ethical fashion bags, ethical handbag brands, ethical handbags, ethical leather alternatives, ethical luxury bags, mushroom leather, pinatex bags, plant based bag materials, plant based handbags, plant based leather, plant based leather durability, plant leather bags, plant leather durability, plant leather handbags, premium vegan leather, sustainable bag care, sustainable bag materials, sustainable fashion bags, sustainable handbag guide, sustainable handbags, sustainable leather bags, sustainable leather purse, sustainable luxury handbags, sustainable tote bags, vegan leather bag guide, vegan leather bag review, vegan leather bags, vegan leather business bags, vegan leather care, vegan leather crossbody, vegan leather durability, vegan leather maintenance, vegan leather professional bags, vegan leather quality, vegan leather satchel, vegan leather structured bags, vegan leather tote, vegan leather travel bags, vegan leather vs real leather, vegan leather weekender, vegan leather work bag
+  - [End Beauty Overwhelm: Simple Skincare for Busy Women 2025](https://ursupermart.com/blogs/ursupermart-news-updates/end-beauty-overwhelm-simple-skincare): End Beauty Overwhelm: Simple Skincare for Busy Women 2025
+    Updated: 2025-11-10T00:20:32Z
+    Author: Angel Carbonell
+    Tags: affordable luxury skincare products, affordable skincare that works, anti-aging skincare for women over 30, beauty products for mental health, beauty routine for working women, beauty tech devices 2025, beauty technology that actually works, beauty wellness integration, best beauty products value, best skincare for combination skin, best skincare products that actually work, clean beauty brands affordable, clean beauty ingredients that work, curated beauty products collection, decision paralysis skincare, effective skincare routine for beginners, gentle skincare for sensitive skin, holistic wellness beauty routine, how to choose skincare products without overwhelm, hydrating face cream for dry skin, LED light therapy mask benefits, minimalist skincare routine steps, natural anti-aging ingredients, natural skincare products for sensitive skin, natural skincare routine guide, overwhelming beauty product choices, preventative skincare anti-aging, red light therapy devices for home use, science-backed skincare ingredients, self-care skincare ritual, simple skincare routine that works, skincare barrier repair products, skincare decision fatigue solutions, skincare for busy lifestyle, skincare for hormonal changes, skincare for stress relief and anxiety, skincare mental health benefits, skincare overwhelm help, skincare products decision guide, skincare products under 50 dollars, skincare products worth buying, skincare routine confusion help, skincare routine for busy women, skincare routine order and steps, skincare routine simplification, skincare that improves confidence, stress and skin connection
+  - [Costume Mask Guide: Find Your Cosplay Mask Here!](https://ursupermart.com/blogs/ursupermart-news-updates/perfect-cosplay-costume-mask-guide): Costume Mask Guide: Find Your Cosplay Mask Here!
+    Updated: 2025-11-10T15:27:10Z
+    Author: Angel C
+    Tags: adult Deadpool mask, affordable cosplay mask, affordable Deadpool mask, authentic Deadpool mask design, best convention mask, best Deadpool mask for adults, breathable Deadpool mask, breathable full head mask, buy Deadpool mask cosplay, comfortable cosplay mask, comfortable Deadpool mask, comfortable full face mask, Deadpool cosplay, Deadpool cosplay mask, Deadpool costume, Deadpool fan content, Deadpool Halloween costume, Deadpool mask, Deadpool mask content creation, Deadpool mask for conventions, Deadpool mask for sale, Deadpool mask review, Deadpool mask social media, Deadpool mask tutorial., Deadpool mask unboxing, Deadpool mask with mesh eyes, easy cosplay mask, easy Halloween mask adult, fabric Deadpool mask, full face mask comfortable fit, full head Deadpool mask, Halloween Deadpool mask, high-quality Deadpool mask, perfect Deadpool costume mask, realistic Deadpool mask, realistic superhero mask, red and black costume mask, stretchable Deadpool mask, superhero head mask, where to buy Deadpool mask
 - [Mom’s Cleaning Hacks: Smart Solutions for a Tidy Home](https://ursupermart.com/blogs/moms-cleaning-hacks): Discover time-saving, budget-friendly cleaning products and hacks for busy moms. Keep your home spotless with smart, easy-to-use solutions!
   - [Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable](https://ursupermart.com/blogs/moms-cleaning-hacks/eco-friendly-steel-mesh-dish-cloths): Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable
     Updated: 2025-08-07T23:11:00Z
