@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-12T12:05:24Z
 - Contact Email: jaswanthkapli4@gmail.com
-- Updated At: 2025-11-07T00:00:29.760Z
+- Updated At: 2025-11-12T00:00:52.804Z
 
 ## Products
 
@@ -698,14 +698,14 @@
     Availability: Available
     Price: ₹2,604.84 INR
 - [Silicone Cooking Utensils Set of 11pcs with Holder](https://mylonic.myshopify.com/products/silicone-cooking-utensils-set-of-11pcs-with-holder): Product Name: Silicone Cooking Utensils Set of 11pcs with HolderPackage Contains: It has 11 Piece of Silicone Cooking Utensils Set with HolderColor: Colour as per availability Material: SiliconeHandel Material: WoodenCombo/Set Of: Pack of 11Weight: 733gm
-  Updated: 2025-10-14T02:43:48Z
+  Updated: 2025-11-10T18:17:41Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/8255973324.jpg?v=1760363359
   Price: ₹574.00 INR
 - [3 in 1 High Protection Coating Sprey (Pack of 2)](https://mylonic.myshopify.com/products/3-in-1-high-protection-coating-sprey-pack-of-2): Product Nadme - 3 in 1 High Protection Coating Sprey (Pack of 2) Package Contain - Pack of 2 Material - Others Weight - 276 gram L-B-H - 12*5*15
-  Updated: 2025-10-14T02:43:49Z
+  Updated: 2025-11-10T18:17:41Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -719,7 +719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/5518401386.jpg?v=1760363412
   Price: ₹408.00 INR
 - [Posture Correct Belt For Neck & Shoulder Support Vol 2](https://mylonic.myshopify.com/products/posture-correct-belt-for-neck-shoulder-support-vol-2): Product Name: Posture Correct Belt For Neck & Shoulder Support Vol 2 Package Contains: 1 Back Support Belt Material: Eva Color: Black Length: 25 Breadth: 15 Height: 5 Brand: zycon Additional Information: Posture Corrector Adjustable Belt Clavicle Brace for Back Pain Back & Abdomen Weight: 200
-  Updated: 2025-10-14T02:43:50Z
+  Updated: 2025-11-10T18:17:41Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -864,7 +864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/NWQbgvnf7FhZEjZK.webp?v=1760378330
     Price: ₹500.00 INR
 - [Cotton Printed Full Sleeves Mens Hoodie](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie): Product Cotton Printed Full Sleeves Mens Hoodie Package Contains: It has pack of 1 Hoodie Fabric: Cotton Blend Color: Multicolor Pattern: Color Block Fit: Loose Sleeves Type: Full Sleeves Neck Type: Hood Length (in Inches): 26 Closure: Draw-String Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 400
-  Updated: 2025-10-23T07:48:08Z
+  Updated: 2025-11-10T18:17:41Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: ₹406.00 INR
 - [Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt): Product Name: Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt Package Contains: It Has 1 Piece Of Mens Hooded T-Shirt Fabric: Cotton Blend Color: Black Pattern: Printed Fit: Regular Sleeves Type: Full Sleeves Neck Type: Hooded Neck Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 250
-  Updated: 2025-10-23T07:48:08Z
+  Updated: 2025-11-10T18:17:41Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -893,27 +893,6 @@
   - [XL](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt?variant=47744781910235)
     Availability: Available
     Price: ₹421.00 INR
-- [Mens Casual Cotton Color Block Hoodies](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies): Product Name: Mena Casual Cotton Printed Hoodies Package Contains: It has pair of casual hoodies for mens Fabric: Cotton Color: Black Pattern: Solid Fit: Slim Sleeves Type: Full Sleeves Neck Type: Round Neck Length (in Inches): 28 Closure: No Closure Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 500
-  Updated: 2025-10-23T07:48:08Z
-  Vendor: 7168md-du
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/8114937961.jpg?v=1760431793
-  - [XXL](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864026843)
-    Availability: Available
-    Price: ₹384.00 INR
-  - [L](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864059611)
-    Availability: Not Available
-    Price: ₹384.00 INR
-  - [M](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864092379)
-    Availability: Not Available
-    Price: ₹384.00 INR
-  - [XL](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864125147)
-    Availability: Not Available
-    Price: ₹384.00 INR
-  - [S](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864157915)
-    Availability: Not Available
-    Price: ₹384.00 INR
 
 ## Collections
 
