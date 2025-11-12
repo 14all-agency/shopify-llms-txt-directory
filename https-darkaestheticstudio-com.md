@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-11T00:00:37.647Z
+- Updated At: 2025-11-12T00:00:53.300Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1065,6 +1065,92 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/10327830_large_54c3819e-2967-4c75-933d-c788657d37f9.png?v=1761757809
   Price: 359,00 kr SEK
+- [Planchettarmband – Summon the Spirits🔮](https://darkaestheticstudio.com/products/talking-board-planchette-parlarmband-med-parlor): Lägg till en dos mystik i din stil med detta unika armband, tillverkat av nickelfritt rostfritt stål och svarta pärlor. Den guldfärgade planchettcharmen i metall ger en kuslig men elegant touch – perfekt för dig som älskar det övernaturliga.Ett subtilt statement för den som vill bära sin fascination för det okända med stil. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T20:13:17Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Armband
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/planchette-bracelet-main.png?v=1762891903
+  Price: 179,00 kr SEK
+- [Satinsömnmask – I Am Not A Morning Person🦇](https://darkaestheticstudio.com/products/jag-ar-inte-en-morgonperson-satin-somnmask): Till alla nattugglor, tupplurentusiaster och jetlaggade själar – här är din nya bästa vän. Denna svarta satinsömnmask med fladdermusdesign och texten I Am Not A Morning Person säger exakt vad du känner.Lyxigt mjuk mot huden och perfekt för ostörd vila, oavsett om du reser, vilar eller bara behöver stänga ute världen en stund.Levereras i en elegant presentationslåda – en perfekt present till dig själv eller någon som älskar mörk estetik. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T20:02:57Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Acessoar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/sleep-mask-dark-aesthetic.png?v=1762891207
+  Price: 159,00 kr SEK
+- [Svart julstrumpa🖤](https://darkaestheticstudio.com/products/svart-goth-laskig-julstrumpa): Ge julen en skrämmande twist med denna svarta julstrumpa. Prydd med ett unikt mönster av vita skallsnöflingor och en svart baksida. Den fluffiga svarta fuskpälsen ger extra dramatik – perfekt för dig som vill kombinera gotisk stil med festlig dekoration. En originell present till goths, alternativälskare eller alla som tycker att julen mår bra av lite mörker. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T19:57:34Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Jul
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/gothic-stocking-victorian.png?v=1762890830
+  Price: 219,00 kr SEK
+- [Fidgetring – Mindful Moments🌿](https://darkaestheticstudio.com/products/anti-angest-snurrande-fidgetring): När vardagen känns överväldigande, låt denna stilrena fidgetring hjälpa dig att hitta lugnet. Vrid de små pärlorna med fingertopparna, knacka lätt mot bordet eller gnugga den i handflatan – enkla rörelser som kan lindra stress och ge sinnet ro.Tillverkad i nickelfri koppar med justerbar passform för bekväm användning. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T21:14:15Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/fidget-ring-packaging-dark.png?v=1762889999
+  Price: 169,00 kr SEK
+- [Trä tumhållare 📖](https://darkaestheticstudio.com/products/bokmask-tumsidshallare): Gör läsningen ännu bekvämare med denna charmiga tumhållare i trä, graverad med texten One more page. Placera den enkelt över tummen för att hålla boken öppen med en hand – perfekt när du läser på språng, pendlar eller njuter av en stilla ritual. En smart och stilren present till alla bokälskare. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T19:19:48Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Böcker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetic-lifestyle-bokmask-tumsidsh-llare-i-anv-ndning.png?v=1762872550
+  Price: 149,00 kr SEK
+- [Kuslig pepparkaksgubbe – Merry Creepmas🎄](https://darkaestheticstudio.com/products/spoklik-pepparkaksgubbe-gotisk-julprydnad): Ge granen en skrämmande charm med denna pepparkaksgubbe med mörk twist – en hängande prydnad som garanterat väcker både skratt och rysningar. Perfekt för dig som tycker att julen mår bra av lite bus… och kanske ett skrik eller två.En rolig presentidé för den som älskar det ovanliga, eller som ett oväntat tillskott till din egen samling. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T19:09:40Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Jul
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/creepy-gingerbread-ornament.png?v=1762888124
+  Price: 189,00 kr SEK
+- [Mystiska örhängen – Summon the Spirits🖤](https://darkaestheticstudio.com/products/talking-board-planchette-orhangen): Låt din stil tala med andra sidan. Dessa nickelfria örhängen i guldfärgat rostfritt stål har en designad planchett som dinglar från små eleganta ringar – ett unikt tillskott till varje smyckessamling. Perfekta för att ge din look en subtil, kuslig känsla. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T18:54:40Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Örhängen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/planchette-earrings-on-display-card.png?v=1762887116
+  Price: 229,00 kr SEK
+- [Mystiskt halsband - Summon the Spirits✨](https://darkaestheticstudio.com/products/talking-board-planchette-halsband-pa-gratulationskort): En unik gåva för den som fascineras av det övernaturliga. Detta guldfärgade halsband med planchetthänge i rostfritt, nickelfritt stål levereras elegant inbäddat i ett matchande gratulationskort med talbrädesdesign i guldfinish. Kortet är tomt inuti för din personliga hälsning och kommer tillsammans med ett exklusivt guldkuvert. Leverans via postnord: 2-7 arbetsdagar
+  Updated: 2025-11-11T21:14:47Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: Halsband
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/premium-planchette-necklace-product-photography.png?v=1762870463
+  Price: 239,00 kr SEK
+- [Unisex T-shirt  – Loose Fit](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt): Uppgradera din vardagsstil med denna avslappnade t-shirt i 100 % bomull. Den lösa passformen ger maximal komfort, medan det abstrakta trycket tillför en modern och uttrycksfull touch. Perfekt för både honom och henne – oavsett om du är ute efter streetwear-vibbar eller en stilren bas i garderoben. Detaljer: Material: 100 % bomull – mjuk, andningsbar och hållbar Passform: Loose fit för en avslappnad silhuett Hals: Klassisk rundhals (crewneck) Ärmar: Kortärmad Färger: Svart, Vit Storlekar: M, L, XL, XXL Leverans: 6-10 arbetsdagar.
+  Updated: 2025-11-11T20:27:48Z
+  Vendor: Dark Aesthetic Studio
+  Product Type: T-shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/bunny-girl-tshirt-main.png?v=1762892307
+  - [Vit / M](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493783895)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Vit / L](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493816663)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Vit / XL](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493849431)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Vit / XXL](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493882199)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Svart / M](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493914967)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Svart / L](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493947735)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Svart / XL](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127493980503)
+    Availability: Available
+    Price: 399,00 kr SEK
+  - [Svart / XXL](https://darkaestheticstudio.com/products/dark-haired-bunny-girl-short-sleeved-t-shirt?variant=52127494013271)
+    Availability: Available
+    Price: 399,00 kr SEK
 - [3D Gotisk Julrosett - Mörk Festlig Dekoration | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/christmas-bow-christmas-decorations-three-dimensional): Tredimensionella julrosetter i djupt vinrött och rutigt. Perfekt för dark aesthetic juldekoration. Flera storlekar tillgängliga. Lätt, dramatisk och unikt gotisk.
   Updated: 2025-11-10T04:56:58Z
   Vendor: Dark Aesthetic Studio
@@ -1175,7 +1261,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/plush-popcorn-dark-photography_02d8662a-7cc9-49f2-afb7-8c3ef62aa516.png?v=1762720097
     Price: 189,00 kr SEK
 - [Grinch Tomte - Mörk Juldekor | Dark Aesthetic Studio](https://darkaestheticstudio.com/products/christmas-grinch-doll-green-furry-monster-decor): Unik Grinch-tomte med grön lurvigt skägg. Perfekt alternativ juldekor för dig som älskar det annorlunda. Skapar mörk, gotisk julstämning.
-  Updated: 2025-11-10T08:31:35Z
+  Updated: 2025-11-11T20:05:18Z
   Vendor: Dark Aesthetic Studio
   Product Type: Hem
   Availability: Available
@@ -1229,29 +1315,32 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
 ## Collections
 
 - [Överdelar](https://darkaestheticstudio.com/collections/frontpage): 🖤 Utforska våra unika överdelar – designade av oberoende konstnärerVåra tröjor är mer än bara plagg – de är uttryck för identitet, kreativitet och mörk skönhet. Varje design är noggrant utvald för att spegla en djupare känsla och ge dig något att bära med stolthet.
-  Updated: 2025-11-09T20:49:28Z
+  Updated: 2025-11-11T20:27:49Z
   Total Products: 13
 - [Presentkort](https://darkaestheticstudio.com/collections/presentkort): Ge någon du tycker om friheten att välja sin egen favorit från Dark Aesthetic Studio.Perfekt för födelsedagar, högtider eller bara för att visa uppskattning.Presentkortet levereras digitalt och kan användas på hela sortimentet – från konstnärliga prints till unika accessoarer. 🖤 Giltigt i 24 månader från köpdatum.🖤 Ingen extra avgift.🖤 Levereras direkt till din e-post
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.com/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-11-09T21:45:51Z
-  Total Products: 7
+  Updated: 2025-11-11T20:13:17Z
+  Total Products: 10
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-10-29T11:26:38Z
   Total Products: 6
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
-  Updated: 2025-11-09T20:50:26Z
-  Total Products: 19
+  Updated: 2025-11-11T19:19:49Z
+  Total Products: 20
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-09T21:45:51Z
-  Total Products: 60
+  Updated: 2025-11-11T20:27:49Z
+  Total Products: 61
 - [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
-  Updated: 2025-11-09T20:46:34Z
+  Updated: 2025-11-11T19:57:35Z
   Total Products: 11
 - [Djur](https://darkaestheticstudio.com/collections/djur): I denna kollektion möter våra bästa vänner det märka och nördiga. 🐾 Den här kollektionen är för dig som vill att dina husdjur ska vara mer än bara söta. De ska vara ikoniska. Märkliga. Minnesvärda.
   Updated: 2025-11-09T21:10:02Z
   Total Products: 2
+- [Skuggnytt🕯️](https://darkaestheticstudio.com/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
+  Updated: 2025-11-11T20:27:49Z
+  Total Products: 21
 
 ## Store Pages
 
