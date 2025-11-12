@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-11-09T00:00:54.757Z
+- Updated At: 2025-11-12T00:00:30.510Z
 
 ## Products
 
@@ -6843,7 +6843,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €95.00 EUR
 - [Calina Moissanite Wedding Band | 0.7CT Seven Stone | Stackable Anniversary Ring](https://www.chantalvaulet.com/products/the-calina-moissanite-seven-stone-band): Shop the Calina seven stone moissanite band. 0.7CT total weight, classic prong setting, perfect as wedding ring or stackable band. Timeless everyday elegance.
-  Updated: 2025-11-08T22:00:25Z
+  Updated: 2025-11-09T01:45:24Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9798,7 +9798,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,890.00 EUR
 - [Étoile d'Or 3 Carat Diamond Engagement Ring | Lab Grown & Moissanite](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct): Shop the Étoile d'Or 3 carat diamond engagement ring for women. Stunning round brilliant cut, lab grown diamond or moissanite, set in yellow gold or platinum. Ethical luxury, timeless design.
-  Updated: 2025-11-08T23:47:35Z
+  Updated: 2025-11-09T00:11:38Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10674,7 +10674,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,395.00 EUR
 - [Elvika 1.5CT Oval Engagement Ring | Moissanite or Lab Diamond |Solitaire](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet): Shop the Elvika 1.5 carat oval engagement ring. Four-prong solitaire, moissanite or lab diamond, D color VVS2. Minimalist Nordic-inspired design in white gold.
-  Updated: 2025-11-08T16:16:52Z
+  Updated: 2025-11-09T01:46:52Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11448,7 +11448,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,959.00 EUR
 - [Vaelora 1 Carat Yellow Radiant Three Stone Engagement Ring](https://www.chantalvaulet.com/products/the-vaelora-1ct-yellow-three-stone-engagement-ring): Shop the Vaelora 1 carat yellow radiant engagement ring. Three stone design with pavé band, certified moissanite or IGI lab diamond. Bold, modern, luminous.
-  Updated: 2025-11-08T16:47:32Z
+  Updated: 2025-11-09T04:13:32Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -12227,7 +12227,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €2,239.00 EUR
 - [Thaliora 1.5CT Marquise Ring | Cluster Accents | Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring): Shop the Thaliora 1.5 carat marquise engagement ring. Unique cluster accent design, certified moissanite or IGI lab diamond, D color VVS1. Ethereal elegance.
-  Updated: 2025-11-08T16:40:37Z
+  Updated: 2025-11-09T04:15:16Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -12427,7 +12427,7 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-11-08T16:16:53Z
   Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-11-08T16:16:53Z
+  Updated: 2025-11-10T22:05:45Z
   Total Products: 117
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
   Updated: 2025-11-08T13:45:17Z
