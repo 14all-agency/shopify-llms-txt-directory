@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-11T00:00:31.124Z
+- Updated At: 2025-11-12T00:00:31.121Z
 
 ## Products
 
@@ -2004,7 +2004,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_77c373cd-7e08-4c48-b013-8f5d37c464a0.jpg?v=1751478366
   Price: ₹1,359.00 INR
 - [Buy ​Medvance Orthopedic Coccyx Cushion, Blue - Surgismart](https://surgismart.in/products/medvance-coccyx-cushion-blue): This Medvance Orthopedic Coccyx Cushion in blue is an ergonomic solution for people suffering from back pain, tailbone pain, or other sensitive areas. The cushion's U-shaped design evenly distributes weight, reducing pressure and providing natural support. Made of durable PU foam, it maintains its shape even with prolonged use and has a non-skid backing for added safety. The donut-shaped design conforms to lower body contours, alleviating pressure on sensitive areas. The U-shaped design also evenly distributes weight to relieve pressure on the coccyx and tailbone. The high-density PU foam maintains its shape over time and has a breathable mesh cover to prevent overheating. - Surgismart
-  Updated: 2025-10-15T09:37:07Z
+  Updated: 2025-11-11T08:12:37Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
@@ -2581,7 +2581,7 @@
     Availability: Available
     Price: ₹773.00 INR
 - [Buy ​Micro Sol Nebulizing Mask - Surgismart](https://surgismart.in/products/romsons-micro-sol-sh-2412): Advanced Nebulizing Mask. Soft clear aerosol mask provided with adjustable strap for properpositioning on the nasal area. The swivel connector provides maximum patient comfort. Angular connector helps in nebulizing the patient even in supineposition ensuring no loss of medicine. Jet nebulizer with fine aerosol particles. Easy thumb operated valve at top for faster nebulization if needed. Nebulizes 3cc within 10 minute Product Specifications: Brand Romsons Generic Name Aerosol Mask with Jet Nebulizer Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265241225 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:40Z
+  Updated: 2025-11-11T00:45:54Z
   Vendor: Romsons
   Product Type: Oxygen Mask
   Availability: Available
@@ -2980,7 +2980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-44.png?v=1759478902
   Price: ₹7,999.00 INR
 - [Buy ​iCare Reclining Commode Wheelchair U-cut - 108U - Surgismart](https://surgismart.in/products/icare-reclining-commode-wheelcahir-u-cut-108u): The first of its kind: A truly transportable commode wheelchair, specially designed for families on the move. Weight 17.00Kgs Seat Width 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-10-03T08:08:21Z
+  Updated: 2025-11-11T10:48:54Z
   Vendor: iCare
   Product Type: 
   Availability: Available
@@ -3050,7 +3050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/StatureMeter_2_663ed0be-c23a-494b-a5be-ab34ac05367a.jpg?v=1759478883
   Price: ₹349.00 INR
 - [Buy ​EASYCARE (EC5080) Rigid Digital Thermometer for Kids & Adults - Surgismart](https://surgismart.in/products/easycare-rigid-digital-thermometer-for-kids-adults-lcd-display-with-fever-alarm): Rapid & Accurate: Offers fast & accurate reading with approximately 45 seconds on rectal, 60 seconds for oral body temperature and 60 seconds underarm measuring time. Easy to use: With one-button operation, you can easily switch between Celsius and Fahrenheit units within 3 seconds by long-pressing the power button. Safe & Easy to clean: The thermometer comes in a protective storage case which keeps the versatile thermometer safe and ready for use. It can be cleaned easily and hygienically for next use. Hi-Res LCD Display: Even in the darkroom, you can clearly see the readings on a high-resolution LCD display. Fever Alarm: It also features a tone signal (fever alarm) that indicates peak temperature and memory recall to the last reading. Product Dimensions: 11.5 x 1.7 x 1cm Using a thermometer is the most accurate way to take body temperature for testing fever. EASYCARE Digital Thermometer is a multifunctional device that offers rapid & accurate readings. It is the best digital thermometer available for oral, rectal, and armpit use. The precision is reasonable and is easy for adults and kids to use with a 15-second beep sound when flashing stops. EASYCARE Digital Thermometer is safer than glass thermometers as it does not contain mercury. We offer 100% satisfactory after-sales customer service and a hassle-free 1-year warranty against any manufacturing defects. - Surgismart
-  Updated: 2025-10-03T08:08:03Z
+  Updated: 2025-11-11T04:42:50Z
   Vendor: EASYCARE Global
   Product Type: Thermometer
   Availability: Available
@@ -3208,7 +3208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic New Gen Scrubsuit, Free Head Cap & Mask](https://surgismart.in/products/classic-new-gen-scrubsuit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. 🩺 Practical Storage: Designed for convenience, this set includes a total of 2 practical pockets Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-11-03T09:07:20Z
+  Updated: 2025-11-11T15:58:04Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-10T12:17:21Z
+  Updated: 2025-11-11T12:18:22Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-10T12:17:21Z
+  Updated: 2025-11-11T12:18:22Z
   Total Products: 5
 
 ## Blogs
