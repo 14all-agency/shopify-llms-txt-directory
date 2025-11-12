@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-11-11T00:01:12.070Z
+- Updated At: 2025-11-12T00:01:08.125Z
 
 ## Products
 
@@ -2986,7 +2986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-womens-athletic-t-shirt-white-right-647a23eb62395.jpg?v=1685726207
     Price: £52.99 GBP
 - [20 flowers - Hibiscus Surfwear - Ethical Women's Athletic T-shirt](https://www.hibiscussurfwear.com/products/20-flowers-hibiscus-surfwear-ethical-womens-athletic-t-shirt): 20 flowers - Hibiscus Surfwear - Ethical Women's Athletic T-shirt This t-shirt easily combines comfort and style—the sports mesh fabric with moisture management is sure to keep any athlete dry and comfortable during exercise, while the design will make it into a unique statement piece. • 92% polyester, 8% spandex • Fabric weight: 4.42 oz/yd² (150 g/m²) • Very soft four-way stretch sports mesh fabric • Comfortable fit • Overlock and coverstitch This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) XS 33 ⅛ S 34 ⅝ M 36 ¼ L 39 ⅜ XL 42 ½ 2XL 45 ⅝ 3XL 48 ⅞
-  Updated: 2025-04-24T15:44:40Z
+  Updated: 2025-11-11T13:03:12Z
   Vendor: Hibiscus Surfwear
   Product Type: T-shirts
   Availability: Available
@@ -5864,7 +5864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-womens-tank-top-white-left-front-64838c5beeeaf.jpg?v=1686342760
     Price: £43.99 GBP
 - [Sunflower positivity - Hibiscus Surfwear - Organic cotton kids t-shirt](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-organic-cotton-kids-t-shirt): Sunflower positivity - Hibiscus Surfwear - Organic cotton kids t-shirt Put your kids in a t-shirt that's cute, super comfortable, and made of natural fabrics! This 100% organic cotton tee is sure to become their favorite! • 100% organic ring-spun combed cotton • Fabric weight: 4.57 oz/yd² (155 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1×1 rib at collar • Narrow double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) 3-4 16 ½ 13 4 ½ 5-6 18 ⅛ 13 ¾ 4 ⅞ 7-8 20 ¼ 14 ⅝ 5 ¾ 9-11 22 ⅝ 16 ⅛ 6 ½ 12-14 24 ⅝ 17 ¼ 7 ¼
-  Updated: 2025-05-13T15:51:50Z
+  Updated: 2025-11-11T04:56:14Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
