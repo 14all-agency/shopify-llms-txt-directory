@@ -1,12 +1,16 @@
 # Page Speed Group (https://pagespeedgroup.com)
 
+> Premium Web Performance Optimization Service for Shopify Websites | Shopify Page Speed Optimization and Maintenance | Website Performance ROI Calculator
+
 - Domain: https://pagespeedgroup.com
 - Locale: en
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2024-11-26T22:24:07Z
 - Contact Email: support@pagespeedgroup.com
-- Updated At: 2025-11-12T12:00:08.601Z
+- Updated At: 2025-11-12T12:09:23.683Z
+
+We are Page Speed Group - Premium Web Performance Optimization Service for Shopify Websites | Shopify Page Speed Optimization and Maintenance | Website Performance ROI Calculator
 
 ## Blogs
 
@@ -47,7 +51,14 @@
 - [Privacy Policy](https://pagespeedgroup.com/policies/privacy-policy)
   Updated: 2025-07-15T04:41:32-04:00
 
+## Social Media
+- https://x.com/pagespeedgroup
+- https://www.facebook.com/pagespeedgroup
+- https://www.instagram.com/pagespeedgroup/
+
 ## Optional
 
 - [robots.txt](https://pagespeedgroup.com/robots.txt)
 - [sitemap.xml](https://pagespeedgroup.com/sitemap.xml)
+
+Premium Shopify Page Speed Optimization | Core Web Vitals Setup | Real User Metrics Setup | Fixing Issues with Page Speed on Shopify
