@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-11T00:00:38.111Z
+- Updated At: 2025-11-12T00:01:04.316Z
 
 ## Products
 
@@ -1908,7 +1908,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polycotton-full-face-balaclavas-white-390mm-reusablewashable-200-pieces-head-protection-essential-supplies-240765.jpg?v=1719445549
   Price: $219.00 NZD
 - [Polyethylene Boot Covers - Blue, 510mm x 70mu - 250 Pieces](https://essentialsupplies.co.nz/products/polyethylene-boot-covers-blue-510mm-x-70mu-250): Polyethylene boot covers are designed to mitigate contamination by creating an effective barrier between footwear and flooring. With a 510mm boot height and elasticated band to secure to clothing for complete coverage. Ideal for use in the medical, health care, animal care and food processing environments. 72mu Designed to mitigate contamination by creating an effective barrier between footwear and flooring Elasticated band to secure to clothing for complete coverageIdeal for use in medical, health care, animal care and food processing environments Size: 510mm high Content: 250 pieces Colour: Blue
-  Updated: 2025-01-10T00:25:34Z
+  Updated: 2025-11-11T23:28:11Z
   Vendor: Mattews Packaging
   Product Type: Foot Protection
   Availability: Available
@@ -2657,7 +2657,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-240l-clear-1125mm-x-1500mm-x-30mu-150-pack-wheelie-bin-liners-essential-supplies-727736.jpg?v=1719445074
   Price: $120.00 NZD
 - [FP Recycled Bin Liner 240L - Clear, 1125mm x 1500mm x 50mu - 100 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-240l-clear-1125mm-x-1500mm-x-50mu-100): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 240 Litres (1125 x 1500mm) Colour: Clear Strength: 50mu Pack of: 100
-  Updated: 2025-01-09T13:25:22Z
+  Updated: 2025-11-11T04:57:17Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -3280,7 +3280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-machine-stretch-film-clear-500mm-x-2175m-x-15mu-1-roll-machine-stretch-film-essential-supplies-456649.jpg?v=1719444780
   Price: $110.00 NZD
 - [Cast Machine Stretch Film - Clear, 500mm x 2500m x 12mu - 1 Roll](https://essentialsupplies.co.nz/products/cast-machine-stretch-film-clear-500mm-x-2500m-x-12mu-1): Ultimate thin grade nano technology. Nano machine stretch film incorporates technology which can produce super thin gauge film that offers excellent properties. Each nano layer is designed and stacked strategically similar to a plywood effect, achieving super thin yet resilient film. Nano is a cast film which ensures a quiet application and ultimate stretch clarity. Ideal for use in warehouses that require fast Roll: 500mm x 2500mt Strength: 12micron Colour: Clear
-  Updated: 2025-01-09T17:33:34Z
+  Updated: 2025-11-11T12:06:34Z
   Vendor: Mattews Packaging
   Product Type: Machine Stretch Film
   Availability: Available
@@ -3385,7 +3385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/latex-examination-gloves-powder-free-white-s-240mm-cuff-60g-1000-gloves-latex-examination-gloves-essential-supplies-308245.jpg?v=1719445328
   Price: $99.00 NZD
 - [Latex Examination Gloves Powder Free - White, XL, 240mm Cuff, 6.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/latex-examination-gloves-powder-free-white-xl-240mm-cuff-6-0g-1000): White powder free latex gloves provide greater comfort and flexibility over nitrile gloves with natural biodegradable rubber that breaks down easily in landfills.Latex gloves are the traditional choice for the health care industry, however can cause latex allergies. Natural latex material 240mm cuff 6.0g Colour: White Size: Extra Large Pack:10 packs x 100's Note:*Other sizes available: Extra Small, Small, Medium, Large
-  Updated: 2025-01-09T00:51:00Z
+  Updated: 2025-11-11T01:34:29Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
@@ -5434,7 +5434,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/household-flip-top-cap-white-28410-neck-household-bottles-triggers-essential-supplies-142648.jpg?v=1719445176
   Price: $2.00 NZD
 - [Household Disc Top Cap - White, 28/410 Neck](https://essentialsupplies.co.nz/products/household-disc-top-cap-white-28-410-neck-64)
-  Updated: 2025-01-08T23:36:36Z
+  Updated: 2025-11-11T01:40:31Z
   Vendor: Mattews Packaging
   Product Type: Household Bottles & Triggers
   Availability: Available
@@ -7871,7 +7871,7 @@
   Updated: 2024-07-15T02:47:08Z
   Total Products: 7
 - [Bundling Stretch Film](https://essentialsupplies.co.nz/collections/bundling-stretch-film)
-  Updated: 2025-10-24T11:13:10Z
+  Updated: 2025-11-11T12:14:14Z
   Total Products: 3
 - [Corner Boards](https://essentialsupplies.co.nz/collections/corner-boards)
   Updated: 2024-07-15T02:47:08Z
@@ -7886,7 +7886,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Hand Stretch Film](https://essentialsupplies.co.nz/collections/hand-stretch-film)
-  Updated: 2025-09-30T11:13:35Z
+  Updated: 2025-11-11T12:14:14Z
   Total Products: 12
 - [Kraft Paper Rolls](https://essentialsupplies.co.nz/collections/kraft-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
@@ -7901,7 +7901,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Machine Stretch Film](https://essentialsupplies.co.nz/collections/machine-stretch-film)
-  Updated: 2025-09-30T11:13:35Z
+  Updated: 2025-11-11T12:14:14Z
   Total Products: 7
 - [Newsprint Paper Rolls](https://essentialsupplies.co.nz/collections/newsprint-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
@@ -7958,7 +7958,7 @@
   Updated: 2025-10-03T11:13:10Z
   Total Products: 5
 - [Premium Packaging Tape](https://essentialsupplies.co.nz/collections/premium-packaging-tape)
-  Updated: 2025-09-30T11:13:35Z
+  Updated: 2025-11-11T12:14:14Z
   Total Products: 4
 - [Printed Message Tape](https://essentialsupplies.co.nz/collections/printed-message-tape)
   Updated: 2024-07-15T02:47:11Z
