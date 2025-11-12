@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-11T00:00:47.434Z
+- Updated At: 2025-11-12T00:01:27.042Z
 
 ## Products
 
@@ -6747,7 +6747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-70_1.jpg?v=1690620803
     Price: $2,469.00 USD
 - [Natural Salt And Pepper 1.95CT Marquise Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-95ct-marquise-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt and Pepper Marquise Diamond Art Deco Unique Engagement Ring is handmade with a 1.95CT diamond set in 18K gold. Its unique Art Deco design creates a stunning, timeless look perfect for a special anniversary or engagement.
-  Updated: 2025-10-02T10:30:43Z
+  Updated: 2025-11-11T08:26:28Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Marquise Diamond Ring
   Availability: Available
@@ -14586,7 +14586,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-84_6.png?v=1709898027
     Price: $856.00 USD
 - [Moissanite 2.80CT Cushion Diamond Minimalist Anniversary Ring](https://ibizjewel.com/products/moissanite-2-80ct-cushion-diamond-minimalist-anniversary-ring): Introducing Our Moissanite 2.80ct Cushion Diamond Minimalist Anniversary Ring, The Perfect Blend Of Elegance And Affordability. With A Stunning 1.80ct Cushion Diamond, This Ring Shines With Brilliance And Adds A Touch Of Luxury To Any Occasion. Made With Durable Materials, This Ring Is Perfect For Daily Wear. Upgrade Your Jewelry Collection Today.
-  Updated: 2025-10-02T10:30:50Z
+  Updated: 2025-11-11T13:06:45Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
@@ -33800,7 +33800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-100_1.jpg?v=1711450759
     Price: $1,079.00 USD
 - [Moissanite 2.70 CT Oval Diamond Victorian Anniversary Ring](https://ibizjewel.com/products/moissanite-2-70-ct-oval-diamond-victorian-anniversary-ring): Expertly Crafted And Designed To Last A Lifetime, The Moissanite 2.70 CT Oval Diamond Victorian Anniversary Ring Is The Perfect Symbol Of Your Enduring Love. With A Stunning Oval Cut Diamond And Intricate Victorian Design, This Ring Is A Timeless And Elegant Choice For Any Anniversary Celebration.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-11-11T11:15:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -37850,7 +37850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-124_6.jpg?v=1711610510
     Price: $1,009.00 USD
 - [Moissanite 5.0 CT Round Diamond Avant Garde Engagement Ring](https://ibizjewel.com/products/moissanite-5-0-ct-round-diamond-avant-garde-engagement-ring): This Avant Garde Engagement Ring Features A Stunning 5.0 Ct Round Moissanite Diamond, Known For Its Brilliance And Durability. Crafted With Expert Precision, This Ring Is A Timeless And Affordable Alternative To Traditional Diamonds. Make A Statement Of Sophistication And Style With This Exquisite Moissanite Ring.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-11-11T09:15:56Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Round Diamond Ring
   Availability: Available
