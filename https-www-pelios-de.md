@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-09T00:00:33.891Z
+- Updated At: 2025-11-12T00:00:54.368Z
 
 ## Products
 
 - [Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Kompakter Holzofen mit modernem Design in vier Farben (beige, rot, silber, schwarz)
-  Updated: 2025-11-08T17:42:02Z
+  Updated: 2025-11-09T05:42:09Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
     Price: 819,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-11-08T17:41:38Z
+  Updated: 2025-11-09T05:41:21Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -55,14 +55,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.894,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-11-07T14:17:16Z
+  Updated: 2025-11-11T16:18:00Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_450_front_flame.webp?v=1753873598
   Price: 1.585,00 € EUR
 - [Ethanol Wandkamin schwarz kaufen☝hier günstig im Shop](https://www.pelios.de/products/nevada-bio-wandkamin): Ethanol Wandkamin schwarz ★ Bio-Ethanol-Wandkamin mit Glas Frontscheibe ✓ Brenndauer von bis zu 6 Stunden ✓ Wärmeleistung 2,2 kW ✓ von ScandiFlames
-  Updated: 2025-10-08T07:13:52Z
+  Updated: 2025-11-09T12:18:49Z
   Vendor: ScandiFlames
   Product Type: Bioethanol Wandkamin
   Availability: Available
@@ -90,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/lansingtwosidedlwhite1_61122.webp?v=1753873521
   Price: 1.499,00 € EUR
 - [Elektrokamin mit Heizung kaufen☝127cm - Wandkamin weiß](https://www.pelios.de/products/azurite-127-cm-elektro-wandkamin-weiss): Elektrokamin mit Heizung kaufen ➥ Wandkamin 127 cm in weiß, ohne Brandgefahr ✓ 9 Flammenfarbkombinationen ✓ zwei Heizstufen 750W oder 1500W ✓ Timerfunktion ✓
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-09T12:19:48Z
   Vendor: ScandiFlames Electric
   Product Type: Elektro Wandkamin
   Availability: Available
@@ -111,7 +111,7 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_feroza_137_3_sided_electric_fireplace_wall_mounted__1__57306.webp?v=1753873491
   Price: 1.959,00 € EUR
 - [Pelletofen kaufen☝ Evita 3,2 - 6,1 kW für bis zu 180 m³](https://www.pelios.de/products/pelletofen-evita-3-2-6-1-kw-fur-180-m): Pelletofen kaufen ➥ Der Evita präsentiert sich in edlem Beige oder Bordeaux (rot)⚙️ Leistung & Effizienz auf Spitzenniveau mit 6,1 kW Nennleistung
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-09T12:21:32Z
   Vendor: Gekas
   Product Type: Pelletofen
   Availability: Available
@@ -125,7 +125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_evita_right_beige_v2.jpg?v=1753725049
     Price: 1.890,00 € EUR
 - [Pelletofen kaufen ☝7,1 - 12,8 kW für bis zu 350 m³](https://www.pelios.de/products/pelletofen-amanda-plus-7-1-12-8-kw-350-m): Pelletofen kaufen ➥ Der Amanda Plus präsentiert sich in edlem Beige oder Bordeaux (rot)⚙️ Leistung & Effizienz auf Spitzenniveau mit 12,8 kW Nennleistung
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-09T12:20:45Z
   Vendor: Gekas
   Product Type: Pelletofen
   Availability: Available
@@ -139,21 +139,21 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_amanda_plus_right_beige.jpg?v=1753725475
     Price: 3.760,00 € EUR
 - [Heizband Pro 1000 Infrarot-Terrassenheizung m Fernbedienung](https://www.pelios.de/products/heizband-pro-1000): Heizband Pro 1000 Infrarot-Terrassenheizung mit Fernbedienung und WiFi-Steuerung. Das Gerät hat eine Länge von 75,5 cm und bis zu 1000 W Heizleistung.
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-11T01:20:26Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_1000_pro_2_63314.webp?v=1753912286
   Price: 499,00 € EUR
 - [Infrarot-Terrassenheizung mit Wi-Fi-Steuerung](https://www.pelios.de/products/heizband-pro-1800): Infrarot-Terrassenheizung mit Wi-Fi-Steuerung und Fernbedienung. Das Gerät hat eine Länge von 115 cm und eine Heizleistung von bis zu 1800 W. für 13-18 m²
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-11T01:19:27Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_1800_pro_2_63315.webp?v=1753912330
   Price: 729,00 € EUR
 - [Infrarot-Terrassenheizung mit Fernbedienung für 25m²](https://www.pelios.de/products/heizband-pro-2400): Infrarot-Terrassenheizung mit Fernbedienung, Heizleistung 2.400 W, Fläche bis zu 25 m², Länge ca. 165 cm, Gewicht ca. 11,5 kg, Fernbedienung, Wi‑Fi/App
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-11-11T01:18:06Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
@@ -188,49 +188,49 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_bio80054_1__44035.webp?v=1759852848
   Price: 85,00 € EUR
 - [Keramikholz zur Deko für Ethanol Kamine - 8 Stück](https://www.pelios.de/products/keramikholz-fur-ethanol-kamine-8-stuck): Dekoholz für Bioethanol Kamine. 8 Stück. Dieses Keramikholz verleiht Ihrem Ethanol Kamin ein realistischeres Aussehen mit einem authentischen Ausdruck. Länge: 16 - 28 cm lang jeweils
-  Updated: 2025-10-31T12:42:05Z
+  Updated: 2025-11-11T15:58:21Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/dsc_0124_48541.webp?v=1759854179
   Price: 79,00 € EUR
 - [Keramikholz zur Deko für Ethanolkamine - 5 Stück](https://www.pelios.de/products/keramikholz-5-stuck): Dekoholz für Bioethanol Kamine. 5 Stück. Verleihen Sie Ihrem Ethanol Kamin mit diesen Brennholzstücken ein realistischeres und traditionelleres Aussehen. 25 - 40 cm lang jeweils
-  Updated: 2025-10-31T12:37:11Z
+  Updated: 2025-11-11T15:58:21Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/5-stk-keramisk-tr_C3_A6-BIO303-br_C3_A6nde.webp?v=1759854331
   Price: 79,00 € EUR
 - [Keramikholz zur Deko für Ethanol Kamine - 9 Stück](https://www.pelios.de/products/keramikholz-fur-ethanol-kamine-9-stuck): Produktübersicht Dekoholz für Bioethanol Kamine - 9 Stück. Das Holz lässt Ihr Produkt lebendiger erscheinen und verleiht eine authentische Kaminatmosphäre. Hauptspezifikationen Produkttyp Dekoration für Ethanolkamine Garantie 2 Jahre Maße und Gewicht 8 - 14 cm langMenge 9 Gewicht 0,5 kg Material und Aussehen Material Keramik Farbe Holz Dekoration Brennholz Installationsdetails Kompatibel mit Ethanolkamine
-  Updated: 2025-10-31T12:31:42Z
+  Updated: 2025-11-11T15:58:22Z
   Vendor: ScandiFlames
   Product Type: Dekoration für Ethanolkamine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_pejs0505_3__44923.webp?v=1759854559
   Price: 79,00 € EUR
 - [Keramiksteine für Ethanolkamine - Grau - 24 Stück](https://www.pelios.de/products/keramiksteine-grau-24-stuck): Dekoratives Zubehör für den Ethanol Kamin. Schafft zusätzliche Gemütlichkeit im Bioethanol Kamin. Die Steine werden einfach um die Flamme im Kamin gelegt. H: 5 x W: 7 x D: 5 cm
-  Updated: 2025-10-08T15:40:48Z
+  Updated: 2025-11-11T15:58:22Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/dekorationssten_graa_35486.webp?v=1759855578
   Price: 75,00 € EUR
 - [Keramiksteine für Ethanolkamine - Weiß - 24 Stück](https://www.pelios.de/products/keramiksteine-weiss-24-stuck): Weiße Dekosteine für Bioethanol Kamine – 24 Stück. Um die Flammen im Ethanol Kamin platziert. Gibt ein realistischeres Aussehen. H: 5 x W: 7 x D: 5 cm
-  Updated: 2025-10-08T15:40:33Z
+  Updated: 2025-11-11T15:58:22Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/white_stone_bioethanol_fireplace_45436.webp?v=1759855646
   Price: 75,00 € EUR
 - [Keramiksteine für Ethanolkamine - Schwarz - 24 Stück](https://www.pelios.de/products/keramiksteine-schwarz-24-stuck): Produktübersicht Dekoratives Zubehör für den Ethanol Kamin. Schafft zusätzliche Gemütlichkeit im Bioethanol Kamin. Die Steine werden einfach um die Flamme im Kamin gelegt. Spezifikationen Hauptspezifikationen Produkttyp Ethanol Kamin Zubehör Garantie 2 Jahre Maße und Gewicht Menge 24 Höhe 5 cm Durchmesser7 cm Gewicht0,5 kg Material und Aussehen Material Keramik Farbe Schwarz Dekoration Stein Installationsdetails Kompatibel mit Ethanolkamine
-  Updated: 2025-10-08T15:40:12Z
+  Updated: 2025-11-11T15:58:22Z
   Vendor: ScandiFlames
   Product Type: Ethanol Kamin Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/decoration_stone_bioethanol_fireplace_45435.webp?v=1759855680
   Price: 75,00 € EUR
 - [Dakota - 3-seitiger Bio-Ethanol-Wandkamin in schwarz o. weiß](https://www.pelios.de/products/dakota-3-seitiger-schwarz-wandkamin): Dreiseitiger Bioethanol-Wandkamin aus schwarzem, pulverbeschichtetem Stahl inkl. 3,5-Liter-Brenner mit breiter Flamme und langer Brenndauer. Hauptspezifikationen Produkttyp Bioethanol Wandkamin Marke ScandiFlames Verwendung Indoor Garantie 2 Jahre Maße & Gewicht Länge/Breite 80 cm Höhe 60 cm Tiefe 30 cm Gewicht 27 kg Technische Spezifikationen Mindestraumgröße 70 m³ Brennstoff Bioethanol Brenndauer bis zu 7,5 Stunden Kapazität 3,5 Liter Wärmeleistung (Max.) 3,3 kW Verbrauch 0,46 L/Stunden Empfohlener Luftaustausch 1 Brennkammerrspezifikationen Einstellbar Ja Steuerung Manuell Flammelänge 45 cm Brennkammermodell 3,5 Liter Superior Fernbedienung Nein Material und Aussehen Material Stahl Farbe Schwarz Form Rechteckig Inklusive Scheibe Ja Installationsdetails Abzug/Schornstein Nicht erforderlich Stromanforderungen Nein
-  Updated: 2025-11-07T05:20:32Z
+  Updated: 2025-11-11T15:58:22Z
   Vendor: ScandiFlames
   Product Type: Bioethanol Wandkamin
   Availability: Available
@@ -244,14 +244,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/tre_sidet_hvid_vaegpejs_80_cm_bio10049wh_1__45320_54f41071-0f9c-4d23-89b7-698446f215b1.webp?v=1759858596
     Price: 985,00 € EUR
 - [Keramikhölzer zur Deko für Muztag Gaskamine](https://www.pelios.de/products/keramikholzer-fur-muztag-gaskamine): ProduktübersichtMöchten Sie Ihrem Muztag Gaskamin einen neuen Look verpassen? Dann haben Sie mit dieser Keramik-Holz Version jetzt die Möglichkeit.
-  Updated: 2025-10-31T12:39:10Z
+  Updated: 2025-11-11T15:58:23Z
   Vendor: Muztag
   Product Type: Zubehör für Terrassenheizer im Außenbereich
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/muztag_trae_37063_1_41168.webp?v=1759866085
   Price: 119,00 € EUR
 - [Terrassenheizung Ethanol, Muztag Premium Fire Paris schwarz](https://www.pelios.de/products/muztag-premium-fire-paris-schwarz): Terrassenheizung Ethanol von Muztag, freistehender Bio-Ethanol-Kamin für den Außenbereich für 60 m³, Brenndauer bis zu 3 Stunden
-  Updated: 2025-11-05T23:01:32Z
+  Updated: 2025-11-11T15:58:23Z
   Vendor: Muztag
   Product Type: Freistehender Ethanol Kamin für den Außenbereich
   Availability: Available
@@ -261,50 +261,59 @@
 ## Collections
 
 - [Kamin Ofen Shop ☝ Kamin aus Handarbeit günstig kaufen](https://www.pelios.de/collections/frontpage): Kamin Ofen Shop ✔ Kamin kaufen hier im Shop ★ mega effizient ✓ geringer Verbrauch ✓ echte Handarbeit ✓ Endecken Sie unser umfangreiches, günstiges Angebot.
-  Updated: 2025-11-08T17:42:03Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-11-08T17:42:03Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
-  Updated: 2025-10-03T12:21:11Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2025-11-05T23:02:08Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 12
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
-  Updated: 2025-10-26T19:13:29Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-11-05T23:01:33Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
-  Updated: 2025-11-08T22:34:02Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 3
 - [bis 20 qm](https://www.pelios.de/collections/bis-20-qm)
-  Updated: 2025-11-08T22:49:38Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 4
 - [bis 30 qm](https://www.pelios.de/collections/bis-25-qm)
-  Updated: 2025-11-08T23:16:59Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 8
 - [bis 100qm](https://www.pelios.de/collections/bis-100qm)
-  Updated: 2025-11-08T22:58:43Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [bis 150 qm](https://www.pelios.de/collections/bis-150-qm)
-  Updated: 2025-11-08T22:58:19Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
-  Updated: 2025-11-08T22:56:06Z
+  Updated: 2025-11-11T15:58:21Z
   Total Products: 1
 - [Wandmontage](https://www.pelios.de/collections/wandmontage)
-  Updated: 2025-11-08T23:02:15Z
+  Updated: 2025-11-11T15:58:22Z
   Total Products: 8
 - [Raumteiler](https://www.pelios.de/collections/raumteiler)
-  Updated: 2025-11-08T23:05:16Z
+  Updated: 2025-11-11T15:58:22Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
-  Updated: 2025-11-08T23:32:29Z
+  Updated: 2025-11-11T15:58:22Z
   Total Products: 7
+- [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
+  Updated: 2025-11-11T15:58:22Z
+  Total Products: 14
+- [ohne Strom](https://www.pelios.de/collections/ohne-strom)
+  Updated: 2025-11-11T15:58:22Z
+  Total Products: 11
+- [Infrarot](https://www.pelios.de/collections/infrarot)
+  Updated: 2025-11-11T15:58:22Z
+  Total Products: 3
 
 ## Blogs
 
