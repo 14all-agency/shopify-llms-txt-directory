@@ -5,412 +5,437 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-11-10T00:00:26.696Z
+- Updated At: 2025-11-12T00:01:20.178Z
 
 ## Products
 
-- [Coffee Explorer Bundle 2 – 14 Coffeebrewers – 7 Origins – CoffeeBrewers](https://orovacoffee.com/products/coffee-explorer-bundle-1): Dive into 7 distinct origins and explore coffee profiles from around the globe with this exclusive Coffeebrewer Bundle. We've curated 7 of our innovative Coffeebrewers, each filled with pre-ground coffee from a different origin.Please note that this bundle includes 2 of each of our 7 core Coffeebrewer options.
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Coffeebrewer_bundle_142.png?v=1752017667
-  Price: £34.99 GBP
-- [Coffee Gift Box – Hand Roasted-Single Origin Coffee Beans-7pcs-14pcs-25pcs](https://orovacoffee.com/products/specialty-coffee-beans-taster-box): Indulge in an exceptional coffee experience and elevate your daily routine with our hand crafted specialty coffee taster assortment. Whether you're at the start of your specialty coffee journey, or a seasoned connoisseur, our curated assortment is an excellent way to discover some of the world's finest coffees, and experience them exactly as you like it. The 66g coffee bean taster packs are ideal for those who prefer to grind their own fresh beans, at home or away.
-  Updated: 2025-11-09T10:32:21Z
-  Vendor: The Brew Company
+- [Blue Mountain Blend](https://orovacoffee.com/products/blue-mountain-blend): ✨ Orova Coffee — Blue Mountain Blend (250g,500g,1kg) Indulge in a premium coffee experience with Orova Coffee’s Blue Mountain Blend, a harmonious pairing of high-altitude beans from Brazil and El Salvador. Expertly roasted to a medium level (5/10), this blend delivers the perfect balance of depth, smoothness, and aroma. Flavor Notes: A naturally sweet cup featuring hints of honey, mellow tones, and plum, offering a clean finish and a velvety mouthfeel that keeps you coming back for the next sip. What Makes It Special: • Carefully sourced beans from renowned coffee regions • Balanced medium roast suitable for multiple brewing styles • Smooth profile with gentle sweetness and zero harshness Ideal for espresso, pour-over, French press, or drip, this blend elevates every brew—morning or evening—with rich character and artisanal quality. Orova Coffee — Crafted for those who appreciate the art of exceptional coffee.
+  Updated: 2025-11-11T15:20:15Z
+  Vendor: Orovacoffee
   Product Type: Coffee Beans
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/DSC07994_etsy_edit.jpg?v=1752017665
-  - [25 pcs](https://orovacoffee.com/products/specialty-coffee-beans-taster-box?variant=51147645845847)
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7b0ff420-5dc8-4870-9579-33e35479fecf.jpg?v=1762563016
+  - [250g](https://orovacoffee.com/products/blue-mountain-blend?variant=52118728114519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_box_Taster_Beans.png?v=1752017664
-    Price: £37.99 GBP
-  - [14 pcs](https://orovacoffee.com/products/specialty-coffee-beans-taster-box?variant=51147646140759)
+    Price: £7.99 GBP
+  - [500g](https://orovacoffee.com/products/blue-mountain-blend?variant=52118728147287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_box_Taster_Beans_e9d03dbc-c102-408f-80fd-ca791c7ff8a9.png?v=1752017664
-    Price: £25.99 GBP
-  - [7 pcs](https://orovacoffee.com/products/specialty-coffee-beans-taster-box?variant=51147646173527)
+    Price: £13.99 GBP
+  - [1kg](https://orovacoffee.com/products/blue-mountain-blend?variant=52118728180055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_box_Taster_Beans.png?v=1752017664
-    Price: £14.99 GBP
-- [WORLD'S FINEST-SPECIALTY COFFEE- GIFT BOX-25 PCS](https://orovacoffee.com/products/personalized-specialty-coffee-gift-box-5-10-assorted-premium-single-estate-specialty-arabica-coffees): Treat your loved ones to a world-class coffee experience! World's Finest coffee gift box is the perfect introduction to our specialty coffee range and an amazing opportunity to experience a truly unique gourmet coffee moment, anytime and anywhere, thanks to our innovative coffeebrewer concept.
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: Home & Living
+    Price: £23.99 GBP
+- [Mexican Water Process Decaf](https://orovacoffee.com/products/mexican-water-process-decaf): Mountain Water Process Decaf MexicoCrafted using pure mountain water from Mexico’s highest peaks, this coffee is naturally processed to be 99.9% caffeine-free. Grown at around 1,000 metres by smallholder farmers in northern Chiapas, this decaf features Bourbon, Caturra, Typica, and Catuaí varieties. The relatively low altitude produces larger beans and a smooth, low-acidity cup. Perfect for a sweet, easy-drinking coffee, it works beautifully in both espresso and filter preparations. Perfect for:☕ Coffee lovers seeking a caffeine-free option🥛 Sweet, creamy lattes🍃 Medium-strength filter coffees
+  Updated: 2025-11-11T17:59:51Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_box_Taster_Brewers_ETSY-2.jpg?v=1752017663
-  Price: £35.99 GBP
-- [OUTDOOR SPECIALTY- COFFEE GIFT BOX-7pcs-14pcs-25pcs](https://orovacoffee.com/products/outdoor-coffee-gift-box): If you're searching for the perfect present for the outdoor enthusiast in your life, the Coffeebrewer is an innovative and practical option they'll love. The Outdoor Coffeebrewer gift set offers an assortment of pre-ground single-origin specialty coffees, packaged in our signature coffeebrewers, providing a hassle-free and sustainable brewing solution for coffee-loving adventurers, whether they're into camping, hiking, backpacking, fishing, kayaking, skiing, or traveling.
-  Updated: 2025-11-03T00:04:36Z
-  Vendor: The Brew Company
-  Product Type: Gift Boxes
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_a93140db-ecea-4cf2-8d52-0fbf9c69f0ac.jpg?v=1762563244
+  - [250g / Roasted Coffee Beans](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52142349320535)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Roasted Coffee Beans](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52142349386071)
+    Availability: Available
+    Price: £24.49 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144387850583)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144387883351)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144387916119)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144387948887)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144387981655)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144388014423)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144388047191)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/mexican-water-process-decaf?variant=52144388079959)
+    Availability: Available
+    Price: £8.49 GBP
+- [Swiss water decaf](https://orovacoffee.com/products/swiss-water-decaf): Swiss-Water Decaf Enjoy a 100% chemical-free decaffeinated coffee, crafted using the Swiss-Water process. Our beans, sourced from Brazil, are carefully selected to ensure a smooth, consistent cup year-round. Full-bodied with rich dark chocolate notes, this decaf works beautifully as an espresso or milk-based drink. For the best flavour, we recommend grinding fresh for each brew, though pre-ground options are available. Perfect for: ☕ Coffee lovers seeking a caffeine-free option 🥛 Smooth lattes, cappuccinos, and flat whites 🍃 Strong, full-bodied filter coffees
+  Updated: 2025-11-11T18:30:50Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/outdoor-specialty-coffee-gift-box-gift-boxes-the-brew-company-567572.png?v=1752017657
-  - [25 pcs](https://orovacoffee.com/products/outdoor-coffee-gift-box?variant=51147645911383)
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_28940a27-6199-4f1d-a4e4-d9620ac637f3.jpg?v=1762596711
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/swiss-water-decaf?variant=52142294073687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/outdoor-specialty-coffee-gift-box-gift-boxes-the-brew-company-439934.png?v=1752017657
-    Price: £35.99 GBP
-  - [14 pcs](https://orovacoffee.com/products/outdoor-coffee-gift-box?variant=51147646075223)
+    Price: £8.49 GBP
+  - [500g / Roasted coffee beans](https://orovacoffee.com/products/swiss-water-decaf?variant=52142294106455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/outdoor-specialty-coffee-gift-box-gift-boxes-the-brew-company-796881.png?v=1752017657
-    Price: £26.99 GBP
-  - [7 pcs](https://orovacoffee.com/products/outdoor-coffee-gift-box?variant=51147646107991)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/outdoor-specialty-coffee-gift-box-gift-boxes-the-brew-company-567572.png?v=1752017657
-    Price: £14.99 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Brazil – CoffeeBrewer 21g](https://orovacoffee.com/products/brazil-coffeebrewer): This specialty coffee is The Brew Company staple - with varieties developed specifically for Brazilian terrain. We have been working with the Ascarive cooperative for many years. And it’s for a reason, as this Brazilian coffee each year surprises us with its strong and full-bodied cup, remaining one of our customer's most favorite origins.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/brazil-coffeebrewer-coffeebrewer-the-brew-company-426339.png?v=1752017667
-  Price: £2.99 GBP
-- [COFFEE GIFT BOX-25 PCS-CoffeeBrewers](https://orovacoffee.com/products/copy-of-camping-specialty-coffee-gift-box): Craving a good cup of coffee while camping, without the hassle of carrying extra gear? Our assortment of hand-roasted coffees, presented in the unique and innovative Coffeebrewer are a backpacker’s dream.
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_box_Outdoor_ETSY.jpg?v=1752017660
-  Price: £29.99 GBP
-- [CoffeeBrewers Taster Box – Single Origin Coffee Sampler-7pcs-14pcs-25pcs](https://orovacoffee.com/products/specialty-coffeebrewer-taster-box): Indulge in an exceptional coffee experience and elevate your daily routine with our hand crafted specialty coffee taster assortment. Whether you're at the start of your specialty coffee journey, or a seasoned connoisseur, our curated assortment is an excellent way to discover some of the world's finest coffees and experience them exactly as you like it. For those who are constantly on the go, the Coffeebrewers offer a hassle-free method of brewing and enjoying delicious coffee away from home.
-  Updated: 2025-11-03T00:04:36Z
-  Vendor: The Brew Company
-  Product Type: Gift Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_box_Taster_b5b2d401-b891-4fbd-9d99-d3cae59e6c94.png?v=1752017656
-  - [25 pcs](https://orovacoffee.com/products/specialty-coffeebrewer-taster-box?variant=51147645976919)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_box_Taster.png?v=1752017656
-    Price: £35.99 GBP
-  - [14 pcs](https://orovacoffee.com/products/specialty-coffeebrewer-taster-box?variant=51147646206295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_box_Taster_bda83df8-be2d-4894-81ef-f99f1a91f60c.png?v=1752017656
-    Price: £25.99 GBP
-  - [7 pcs](https://orovacoffee.com/products/specialty-coffeebrewer-taster-box?variant=51147646239063)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_box_Taster_b5b2d401-b891-4fbd-9d99-d3cae59e6c94.png?v=1752017656
     Price: £15.99 GBP
-- [Single Origin Coffee Beans – Hand Roasted Speciality Coffee (Brazil, Honduras, Colombia & More) | Orova Coffee 333g](https://orovacoffee.com/products/333-g-etsy): Quality is our top priority. We deliver premium specialty coffee beans that are fresh, ready to be ground, brewed, and enjoyed to your liking. We handle our green beans with care and roast them in small batches to ensure peak flavour and aroma. Our immediate packaging process maintains their freshness. With a range of roast levels and options available, we cater to every taste and brewing method, from filter to French press, pour-over to espresso machines. Explore our coffee collection and become your own barista, whether you're a seasoned coffee aficionado or just starting out your journey into the specialty coffee world.
-  Updated: 2025-11-03T12:32:36Z
-  Vendor: The Brew Company
-  Product Type: Coffee Beans
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/swiss-water-decaf?variant=52142294139223)
+    Availability: Available
+    Price: £24.50 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495395159)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for pod](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495427927)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495460695)
+    Availability: Available
+    Price: £8.49 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495493463)
+    Availability: Available
+    Price: £8.49 GBP
+  - [500g / Ground for filter](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495526231)
+    Availability: Available
+    Price: £8.49 GBP
+  - [500g / Ground for pod](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495558999)
+    Availability: Available
+    Price: £8.49 GBP
+  - [500g / Ground for espresso](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495591767)
+    Availability: Available
+    Price: £8.49 GBP
+  - [500g / Ground for cafetiere](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495624535)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495657303)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for pod](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495690071)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495722839)
+    Availability: Available
+    Price: £8.49 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/swiss-water-decaf?variant=52144495755607)
+    Availability: Available
+    Price: £8.49 GBP
+- [Kata](https://orovacoffee.com/products/kata): KataA specialty Arabica blend combining Guatemalan beans grown in volcanic tropical valleys with Brazilian beans from Cerrado, Minas Gerais. This medium-bodied espresso has a soft, balanced acidity with a natural maple syrup sweetness and subtle pecan notes. When enjoyed with milk, Kata reveals smooth chocolate and toffee flavours, making it a rich and indulgent cup. Perfect for:☕ Silky, balanced espresso🥛 Easy-drinking lattes, cappuccinos, and flat whites🍃 Strong, flavourful filter coffee
+  Updated: 2025-11-11T18:43:48Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_01-_Compressify.io.jpg?v=1752762355
-  - [BRAZIL COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223594795351)
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_2a6297e6-b1ee-41e3-832b-d492f69be46f.jpg?v=1762563884
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/kata?variant=52142225719639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [BOLIVIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596204375)
+    Price: £7.99 GBP
+  - [500g / Roasted coffee beans](https://orovacoffee.com/products/kata?variant=52142225752407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [BURUNDI COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596237143)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [COLOMBIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596269911)
+    Price: £11.70 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/kata?variant=52142225785175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [CONGO COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596302679)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [COSTA RICA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596335447)
+    Price: £23.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/kata?variant=52144529998167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [ETHIOPIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596368215)
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/kata?variant=52144530030935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_04.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [INDIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596400983)
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/kata?variant=52144530063703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [KENYA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596433751)
+    Price: £7.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/kata?variant=52144530096471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [NICARAGUA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596466519)
+    Price: £7.99 GBP
+  - [500g / Ground for espresso](https://orovacoffee.com/products/kata?variant=52144530129239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [TANZANIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596499287)
+    Price: £7.99 GBP
+  - [500g / Ground for filter](https://orovacoffee.com/products/kata?variant=52144530162007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [BRAZIL DECAF SPECIALTY COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596532055)
+    Price: £7.99 GBP
+  - [500g / Ground for pods](https://orovacoffee.com/products/kata?variant=52144530194775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_04.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [BRAZIL ESPRESSO COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596564823)
+    Price: £7.99 GBP
+  - [500g / Ground for cafetiere](https://orovacoffee.com/products/kata?variant=52144530227543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [COLOMBIA DECAF SPECIALTY COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596597591)
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/kata?variant=52144530260311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_04.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [DOMINICAN REPUBLIC COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596630359)
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/kata?variant=52144530293079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [ECUADOR COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596663127)
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/kata?variant=52144530325847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [EL SALVADOR COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596695895)
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/kata?variant=52144530358615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_06.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [GUATEMALA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596728663)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [HONDURAS COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596761431)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [INDONESIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596794199)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_04.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [MALAWI COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596826967)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [MEXICO COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596859735)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [MYANMAR COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596892503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_07.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [PANAMA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596925271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [PAPUA NEW GUINEA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596958039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [PERU COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223596990807)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [RWANDA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223597023575)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Colombia_0601.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [UGANDA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223597056343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [ZAMBIA COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223597089111)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-  - [ZIMBABWE COFFEE BEANS](https://orovacoffee.com/products/333-g-etsy?variant=51223597121879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
-    Price: £9.59 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Costa Rica – CoffeeBrewer 21g](https://orovacoffee.com/products/costa-rica-coffeebrewer): Coffee production in the Tarrazu region in Costa Rica was started by two brothers - Estanislao and Jose Ureña Mora, who produced their coffee from two hectares of land. Nowadays, Tarrazu is the biggest innovation-driven coffee region in Costa Rica, producing SHB (Strictly Hard Bean) quality coffee. Processed through the honey method, it retains 70% of the mucilage on the bean before further processing, ensuring its distinctive sweetness.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
+    Price: £7.99 GBP
+- [Single Origin-Brazil](https://orovacoffee.com/products/untitled-8nov_10-13): Brazil Fazenda Pinhal Grown by siblings Pedro and Mariana Gabarra on their award-winning farm in Sul de Minas, Brazil, this coffee reflects their dedication to sustainability and quality. Hand-picked and naturally processed at around 1,000 m above sea level, the Mundo Novo variety delivers a beautifully smooth and balanced cup — sweet, nutty, and easy to enjoy any time of day. Perfect for: ☕ Gentle filter brews ⚙️ Balanced espresso shots 🥛 Smooth and sweet milk drinks
+  Updated: 2025-11-11T18:51:33Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/costa-rica-coffeebrewer-coffeebrewer-the-brew-company-182328.png?v=1752763346
-  Price: £2.99 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Honduras – CoffeeBrewer 21g](https://orovacoffee.com/products/honduras-coffeebrewer): Situated around the highest peak of Honduras, the Celaque mountain, Capucas Cooperative was founded in 1999. Ever since, they have focused on improving the lives of their workers and local community, offering free healthcare, university education, a football academy, and a virtual library. Coffee trees are being pruned to a low height to ensure easier cherry picking so that the crowd's favorite Honduran coffee can be harvested to its maximum potential.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/honduras-coffeebrewer-coffeebrewer-the-brew-company-533648.png?v=1752763344
-  Price: £2.99 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Tanzania – CoffeeBrewer 21g](https://orovacoffee.com/products/tanzania-coffeebrewer): The Tanzania Mwankumbi coffee is complex and citrussy, with a medium body and crisp acidity. The cooperative was formed after neighboring farmers tasted the original Mwankumbi and recognized the challenges they were facing. The cooperative has since become a significant source of income and a strong community hub for the smallholder farmers of Ihombe, inspiring and encouraging others in the region to join forces and create similar cooperatives.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/tanzania-coffeebrewer-coffeebrewer-the-brew-company-244796.png?v=1752763355
-  Price: £2.99 GBP
-- [Coffee Explorer Bundle 4 – 28 Coffeebrewers – 7 Origins – Coffeebrewers](https://orovacoffee.com/products/coffee-explorer-bundle-2): Dive into 7 distinct origins and explore coffee profiles from around the globe with this exclusive Coffeebrewer Bundle. We've curated 7 of our innovative Coffeebrewers, each filled with pre-ground coffee from a different origin.Please note that this bundle includes 4 of each of our 7 core Coffeebrewer options.
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Coffeebrewer_bundle_142-1.png?v=1752763353
-  Price: £45.99 GBP
-- [Ground Coffee – Hand Roasted-Single Origin – Guatemala– CoffeeBrewer 21g](https://orovacoffee.com/products/guatemala-coffeebrewer): Established in 1969, FEDECOCAGUA is a cooperative organization made up of 20,000 members. As the leading exporter of coffee from Guatemala, FEDECOCAGUA is perfectly positioned to provide certified main grades and micro lot specialties.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/guatemala-coffeebrewer-coffeebrewer-the-brew-company-733426.png?v=1752763354
-  Price: £2.99 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Colombia – CoffeeBrewer 21g](https://orovacoffee.com/products/colombia-coffeebrewer): Tolima is located in Central-West Colombia, at the foothills of the Andes, providing the perfect conditions for growing specialty-grade coffee. This is a coffee of typical Colombian production process, as the farmers are well-known for their stringent regulatory guidelines regarding “Excelso beans”. This means that they align with Colombian sizing and ensure that every bean is suitable for roasting.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/colombia-coffeebrewer-coffeebrewer-the-brew-company-168943.png?v=1752763348
-  Price: £2.99 GBP
-- [Ground Coffee – Hand Roasted- Single Origin – Rwanda – CoffeeBrewer 21g](https://orovacoffee.com/products/rwanda-coffeebrewer): The Mbizi Washing Station is located in Nymasheke in Western Rwanda. The Women Coffee Extension (WCE) brings together female farmers, many of whom are widows or orphans of the 1994 genocide, empowering them with new economic opportunities through training on the coffee value chain.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rwanda-coffeebrewer-coffeebrewer-the-brew-company-953858.png?v=1752763345
-  Price: £2.99 GBP
-- [Premium Coffee Christmas Gift Box | Hand-Roasted Coffee Beans](https://orovacoffee.com/products/copy-of-custom-beans): Give the ultimate coffee experience with our Premium Coffee Christmas Gift Box. Includes hand-roasted coffee beans, perfect for any coffee enthusiast this festive season.
-  Updated: 2025-11-03T00:04:38Z
-  Vendor: The Brew Company
-  Product Type: Christmas Gift
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Beans_xmas_7Pcs_2024-_Compressify.io_29f34609-4206-40ba-97d6-6d5475ad4e33.jpg?v=1758369055
-  - [7 pcs](https://orovacoffee.com/products/copy-of-custom-beans?variant=51741518201175)
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7f5edd5e-a42e-490f-9b8a-db60192c125d.jpg?v=1762821636
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52138895933783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Advent_bean.png?v=1758369056
-    Price: £18.99 GBP
-  - [14 pcs](https://orovacoffee.com/products/copy-of-custom-beans?variant=51741518365015)
+    Price: £7.99 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52138895999319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Advent_bean.png?v=1758369057
-    Price: £34.99 GBP
-- [Coffee Advent Calendar Gift Box | Premium Coffee Beans](https://orovacoffee.com/products/advent-calendar-custom): Countdown to Christmas with our Coffee Advent Calendar Gift Box. 24 days of hand-roasted, premium coffee beans – the perfect holiday treat for coffee lovers.
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: advent calendar
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021_Custom_with_label.png?v=1758369057
-  Price: £25.99 GBP
-- [SPECIALTY COFFEE BEAN ADVENT CALENDAR](https://orovacoffee.com/products/coffee-bean-advent-calendar): This festive season, gift the Coffee Bean Advent Calendar to a coffee lover or let it be the centerpiece of your yuletide mornings. Because nothing says "Christmas is coming" like the rich aroma of freshly brewed specialty coffee as you unveil beans hand-picked from 25 meticulously chosen coffee artisans and cooperatives, all waiting to brew magic in your mug.
-  Updated: 2025-11-06T11:20:45Z
-  Vendor: The Brew Company
-  Product Type: Christmas Gift
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_bean.png?v=1761653542
-  Price: £57.99 GBP
-- [SPECIALTY COFFEE CHRISTMAS GIFT BOX 2024](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024): Specially crafted for discerning professionals and esteemed clients, our Premium Coffee Gift Box serves as a refined gesture of appreciation and a sophisticated journey through the specialty coffee world. This selection features meticulously hand-roasted specialty coffees from our Danish artisan roastery, each with its unique traits and distinguished characteristics, presented in our signature Coffeebrewer pouches. ✔️Experience 7 single-origin specialty coffees, hand-roasted at our Danish artisan roastery ✔️Lightweight, compact & sustainable Coffeebrewer packaging ✔️Easy to use: open, brew for 4-8 minutes & serve ✔️Adjust the brewing intensity based on how much water you add ✔️Easy to reuse, simply rinse and refill
-  Updated: 2025-11-03T00:04:31Z
-  Vendor: The Brew Company B2B
-  Product Type: Gift Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Merry_xmas_Red.png?v=1761654484
-  - [7 pcs](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024?variant=52029553246551)
+    Price: £23.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587178327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Merry_xmas_Red.png?v=1761654484
-    Price: £9.85 GBP
-  - [14 pcs](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024?variant=52029556162903)
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587211095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Merry_xmas_Red.png?v=1761654484
-    Price: £22.20 GBP
-- [CHRISTMAS TEA COLLECTION](https://orovacoffee.com/products/christmas-tea-collection): Treat yourself and your loved ones to an irresistible tea indulgence this Christmas! Our premium gift assortment consists of 7 organic and natural blends of tea, herbs and fruit bits, served in our sustainable and reusable Teabrewers, which ensure a far superior flavour extraction compared to any traditional tea bags. A gift that will surely impress even the avid tea lovers in your life!Discover the Christmas Tea Collection gift box:🍵 7 different organic loose leaf tea blends 🍵 7 festive tea flavours, including our most popular Nordic Berry Tea, Ginger Chai, Gluhwine Tea and Spicy Turmeric🍵 7 Innovative and sustainable tea brewers 🍵 Up to 14 delicious cups of tea you can share with your loved ones
-  Updated: 2025-11-03T00:04:24Z
-  Vendor: The Brew Company
-  Product Type: Christmas Gift
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Tea_xmas_7Pcs_2024-_Compressify.io.jpg?v=1761654493
-  Price: £13.97 GBP
-- [WORLD'S FINEST SPECIALTY COFFEE GIFT BOX](https://orovacoffee.com/products/worlds-finest-coffee-gift-box): Treat your loved ones to a world-class coffee experience! World's Finest coffee gift box is the perfect introduction to our specialty coffee range and an amazing opportunity to experience a truly unique gourmet coffee moment, anytime and anywhere, thanks to our innovative Coffeebrewer concept.
-  Updated: 2025-11-03T00:04:35Z
-  Vendor: The Brew Company
-  Product Type: Gift Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-365656.png?v=1761654484
-  - [25 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029553410391)
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587243863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-955913.png?v=1761654484
-    Price: £31.27 GBP
-  - [14 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029556097367)
+    Price: £7.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587276631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-386183.png?v=1761654484
-    Price: £22.20 GBP
-  - [7 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029556130135)
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587309399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-365656.png?v=1761654484
-    Price: £12.32 GBP
-- [DOMINICAN REPUBLIC COFFEEBREWER](https://orovacoffee.com/products/dominican-republic-coffeebrewer): The Dominican Republic is a historical landmark for worldwide coffee production. Originating in its small valleys with a favorable climate, our coffee is produced by one of the oldest farms in the Dominican Republic, the Rancho Arriba Finca, managed by the head of the Dominical Coffee Institute, Hector Jimanez. Growing in the natural shade of pine, Inga, Guava, and Macadamia trees, this coffee matures slowly and progressively before being harvested by hand.
-  Updated: 2025-10-30T07:24:29Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/dominican-republic-coffeebrewer-coffeebrewer-the-brew-company-843659.png?v=1761654486
-  Price: £2.43 GBP
-- [Power Coffee Gift Box](https://orovacoffee.com/products/power-coffee-gift-box): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
-  Updated: 2025-11-03T00:04:32Z
-  Vendor: The Brew Company
-  Product Type: Gift Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_1Pcs_08-_Compressify.io.jpg?v=1761654489
-  - [7 pcs](https://orovacoffee.com/products/power-coffee-gift-box?variant=52029553279319)
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587342167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_7Pcs_06-_Compressify.io.jpg?v=1761654489
-    Price: £9.85 GBP
-  - [14 pcs](https://orovacoffee.com/products/power-coffee-gift-box?variant=52029556064599)
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587374935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_14Pcs_05-_Compressify.io.jpg?v=1761654489
-    Price: £22.20 GBP
-- [SPECIALTY COFFEE BEAN CHRISTMAS GIFT BOX](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box): Specially crafted for discerning professionals and esteemed clients, our Premium Coffee Gift Box serves as a refined gesture of appreciation and a sophisticated journey through the specialty coffee world. This selection features meticulously hand-roasted specialty coffees from our Danish artisan roastery, each with its unique traits and distinguished characteristics, presented in our signature 66g coffee bean taster packs. ✔️Experience 7 specialty coffee origins, hand-roasted at our Danish artisan roastery ✔️Lightweight, compact 66g coffee bean taster packs
-  Updated: 2025-11-03T00:04:30Z
-  Vendor: The Brew Company
-  Product Type: Gift Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Advent_bean_01e3008b-b55f-4a16-a38a-d9056ad6495a.png?v=1761654489
-  - [7 pcs](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box?variant=52029553344855)
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52144587407703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Advent_bean_01e3008b-b55f-4a16-a38a-d9056ad6495a.png?v=1761654489
-    Price: £13.14 GBP
-  - [14 pcs](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box?variant=52029556195671)
+    Price: £7.99 GBP
+- [Orovablend](https://orovacoffee.com/products/orovablend): Discover the rich, full-bodied taste of Orovablend, a signature coffee crafted from premium beans sourced from Brazil, El Salvador, and India. Expertly roasted to an 8/10 medium-dark roast level, this blend delivers a perfectly balanced cup with smooth caramel sweetness and dark chocolate depth in every sip. Each batch is freshly roasted for maximum flavour and aroma, making it ideal for espresso, filter, or French press brewing. Whether you enjoy your coffee black or with milk, Orovablend’s rich body and silky finish make it a perfect everyday indulgence. Details:☕ Coffee Name: Orovablend🌍 Origin: Brazil, El Salvador & India🔥 Roast Level: 8/10🍫 Flavour Notes: Smooth Caramel & Dark Chocolate⚖️ Weight: 250g,500g,1kg📦 Freshly roasted and sealed for freshness Perfect for coffee lovers who appreciate bold, smooth blends with a hint of sweetness. Great as a gift for coffee enthusiasts or to elevate your home brewing experience.
+  Updated: 2025-11-11T19:12:26Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_c01def68-1f17-4eb7-98dd-2bebc3e96c6c.jpg?v=1762597099
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/orovablend?variant=52141782696279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Advent_bean_45111f2c-a5ea-4564-8a4f-675e6aab719f.png?v=1761654490
-    Price: £26.32 GBP
-- [ORIGINAL SPECIALTY COFFEE ADVENT CALENDAR](https://orovacoffee.com/products/coffee-advent-calendar): Celebrate the lead-up to the magical day of Christmas with a daily revelry of 25 distinct specialty coffees, each with its own story and captivating aroma. The Coffeebrewer Advent Calendar is the perfect gift for a coffee lover, taking you on a journey around 25 different specialty coffee origins, hand-roasted and slow-crafted at our own artisan roastery in Denmark.The Coffee Advent Calendar contains 25 unique filter coffees, packaged in our innovative Coffeebrewers.
-  Updated: 2025-11-09T22:24:36Z
-  Vendor: The Brew Company
-  Product Type: Christmas Gift
+    Price: £7.99 GBP
+  - [500g / Roasted coffee beans](https://orovacoffee.com/products/orovablend?variant=52141782729047)
+    Availability: Available
+    Price: £14.99 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/orovablend?variant=52141782761815)
+    Availability: Available
+    Price: £23.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/orovablend?variant=52144701997399)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/orovablend?variant=52144702030167)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/orovablend?variant=52144702062935)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/orovablend?variant=52144702095703)
+    Availability: Available
+    Price: £7.99 GBP
+  - [500g / Ground for espresso](https://orovacoffee.com/products/orovablend?variant=52144702128471)
+    Availability: Available
+    Price: £7.99 GBP
+  - [500g / Ground for filter](https://orovacoffee.com/products/orovablend?variant=52144702161239)
+    Availability: Available
+    Price: £7.99 GBP
+  - [500g / Ground for pods](https://orovacoffee.com/products/orovablend?variant=52144702194007)
+    Availability: Available
+    Price: £7.99 GBP
+  - [500g / Ground for cafetiere](https://orovacoffee.com/products/orovablend?variant=52144702226775)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/orovablend?variant=52144702259543)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/orovablend?variant=52144702292311)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/orovablend?variant=52144702325079)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/orovablend?variant=52144702357847)
+    Availability: Available
+    Price: £7.99 GBP
+- [Single-origin Ethiopia limu](https://orovacoffee.com/products/single-origin-ethiopia-limu): Ethiopia Limu Grown at around 1,600 metres in the lush Oromia region of southwest Ethiopia, this coffee showcases why Ethiopian beans are world-renowned. A mix of Eastern African Heirloom varieties from just six small farms, Ethiopia Limu offers a vibrant, wine-like cup that’s fruity, sweet, and full-bodied. It shares the elegance of Yirgacheffe coffees, but with a deeper, richer profile and less floral intensity. Perfect for: ☕ Fruity, expressive filter brews ⚙️ Complex, bright espresso shots
+  Updated: 2025-11-11T19:17:30Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021.png?v=1761654495
-  Price: £37.03 GBP
-- [POWER COFFEE HOUSE BLEND COFFEEBREWER](https://orovacoffee.com/products/power-coffee-house-blend-coffeebrewer): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
-  Updated: 2025-10-31T11:52:40Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_dbc8b503-9f83-4d21-a14f-11a9c69951a4.jpg?v=1762821665
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52138896163159)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52138896228695)
+    Availability: Available
+    Price: £23.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719790423)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719823191)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719855959)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719888727)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719921495)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719954263)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144719987031)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52144720019799)
+    Availability: Available
+    Price: £7.99 GBP
+- [Single-origin Guatemala](https://orovacoffee.com/products/single-origin-guatemala): Guatemala AntiguaGrown in the volcanic valleys surrounding Antigua, this coffee thrives in rich, fertile soil between 1,600–1,700 metres. The farms are nestled between the three iconic volcanoes — Agua, Fuego, and Acatenango — creating perfect growing conditions for Caturra, Bourbon, and Typica varieties. Guatemala has been producing exceptional coffee since the 1850s, and this cup shows why. Expect a chocolatey sweetness, full body, and a hint of blackberry aroma that makes every brew deeply satisfying. Perfect for:☕ Smooth, balanced espresso🥛 Milk-based drinks like cappuccinos🍃 Relaxing, easy-drinking filter coffee
+  Updated: 2025-11-11T19:22:25Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
-  Price: £2.99 GBP
-- [RED Xmas Coffee – Limited Edition Holiday Blend for Gifting & Brewing](https://orovacoffee.com/products/red-xmas): This festive season, embrace the warmth of the holidays in every cup with RED Xmas — a small‑batch coffee crafted to delight, whether you’re brewing at home for yourself or gifting to someone special. ✨ Highlights: • A rich and inviting blend with deep cocoa, caramel sweetness and a whisper of winter spice. • Smooth and balanced body, offering both comfort and character from the first sip to the last. • Versatile across 25 coffee brewers — from espresso machines and French press, to pour‑over, moka pot, drip, AeroPress and more, so you can enjoy RED Xmas exactly how you like it. • Thoughtful holiday packaging makes it an ideal present for coffee lovers or a treat to mark the season with style. How to savour it: Simply brew your favourite way — whether you opt for a finely‑ground shot or a relaxed filter pour — to unlock the caramel and nutty warmth this roast delivers. Pair it with a dash of milk or enjoy it black for the full flavour experience. Celebrate the season with a coffee that’s made to share, savour, and remember. RED Xmas — more than a blend, it’s a holiday moment in a cup.
-  Updated: 2025-11-09T00:51:05Z
-  Vendor: The Brew Company
-  Product Type: advent calendar
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_238620f6-b3d5-4ed0-9512-22ca2518bffe.jpg?v=1762821665
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/single-origin-guatemala?variant=52142025900375)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/single-origin-guatemala?variant=52142025933143)
+    Availability: Available
+    Price: £23.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/single-origin-guatemala?variant=52144733847895)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/single-origin-guatemala?variant=52144733880663)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/single-origin-guatemala?variant=52144733913431)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/single-origin-guatemala?variant=52144733946199)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/single-origin-guatemala?variant=52144733978967)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/single-origin-guatemala?variant=52144734011735)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/single-origin-guatemala?variant=52144734044503)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/single-origin-guatemala?variant=52144734077271)
+    Availability: Available
+    Price: £7.99 GBP
+- [Single-origin Rwanda](https://orovacoffee.com/products/single-origin-rwanda): Rwanda InzovuThough small in size, Rwanda produces some of the most vibrant and distinctive coffees in Africa. Grown between 1,400 and 1,900 metres, this coffee comes from a network of over 35,000 farmers and 40 washing stations, showcasing the country’s dedication to quality and community. Composed of Bourbon and Typica varieties, and fully washed for clarity, the beans are hulled, graded, and hand-sorted at the Rwanda Trading Company in Kigali. Expect a bright, fruity cup with sweet cranberry notes, balanced acidity, and a smooth finish — roasted lightly to preserve its natural sweetness. Perfect for:☕ Refreshing, fruity filter brews⚙️ Complex and sweet espresso shots
+  Updated: 2025-11-11T14:28:56Z
+  Vendor: Orovacoffee
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Advent_calendar_original_Features-_Compressify.io.jpg?v=1761654491
-  Price: £29.98 GBP
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_440cd1ab-1819-4a5a-9482-07369b91026c.jpg?v=1762821664
+  - [250g](https://orovacoffee.com/products/single-origin-rwanda?variant=52142130889047)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg](https://orovacoffee.com/products/single-origin-rwanda?variant=52142130921815)
+    Availability: Available
+    Price: £23.99 GBP
+- [Single-origin Indonesia](https://orovacoffee.com/products/single-origin-indonesia): Indonesia Sumatra Lake TobaGrown near Lake Toba — the world’s largest volcanic lake — this coffee captures the rich character of Sumatra’s highlands. Indonesia has been cultivating coffee since the 17th century, now ranking among the world’s top producers thanks to its ideal tropical climate and fertile volcanic soil. Crafted from Catimor and Typica varieties and processed using the traditional Giling Basah (wet-hulled) method, this coffee delivers a deep, full body with low acidity, a spicy aroma, and subtle tobacco-like notes. Perfect for:☕ Strong, rich filter brews⚙️ Intense double espressos🥛 Creamy, milk-based espresso drinks
+  Updated: 2025-11-11T14:28:55Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_3511cacb-2c12-4fd5-ad1d-240bb3abb939.jpg?v=1762821664
+  - [250g](https://orovacoffee.com/products/single-origin-indonesia?variant=52142102184279)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg](https://orovacoffee.com/products/single-origin-indonesia?variant=52142102217047)
+    Availability: Available
+    Price: £23.99 GBP
+- [Single-origin Colombia](https://orovacoffee.com/products/single-origin-colombia): Colombia Medellín Grown in the lush mountains surrounding Medellín, this Supremo-grade coffee celebrates Colombia’s long heritage of exceptional coffee growing — a tradition that dates back to the 18th century. Crafted from Caturra, Typica, and Bourbon varieties, these beans are fully washed to bring out a clean, vibrant cup with notes of chocolate and roasted nuts. Expect a smooth, balanced flavour that shines as a filter brew and a sweet, lively espresso with gentle brightness. Perfect for: ☕ Smooth, rounded filter brews ⚙️ Sweet espresso shots 🥛 Small milk-based drinks like cortados or flat whites
+  Updated: 2025-11-11T14:28:52Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_84f593bb-50ce-4121-8828-2f7fe777de71.jpg?v=1762821664
+  - [250g](https://orovacoffee.com/products/single-origin-colombia?variant=52141887127895)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg](https://orovacoffee.com/products/single-origin-colombia?variant=52141887193431)
+    Availability: Available
+    Price: £23.99 GBP
+- [Single-origin Costa Rica](https://orovacoffee.com/products/single-origin-costa-rica): Costa Rica Tarrazú San RafaelHailing from the world-renowned Tarrazú region, known as the “Area of the Saints,” this Strictly Hard Bean coffee grows in volcanic soils under ideal high-altitude conditions. Carefully washed to highlight its clarity, this coffee has a creamy body with notes of plum and chocolate, delivering a smooth, satisfying cup every time. Perfect for:☕ Rich, full-bodied espresso🥛 Flat whites, cappuccinos, and other milk-based drinks🍃 Strong, flavourful filter brews
+  Updated: 2025-11-11T14:28:52Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7aacbe52-6c34-4550-bbab-0cdaa7405f57.jpg?v=1762821665
+  - [250g](https://orovacoffee.com/products/single-origin-costa-rica?variant=52142199603543)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg](https://orovacoffee.com/products/single-origin-costa-rica?variant=52142199636311)
+    Availability: Available
+    Price: £23.99 GBP
+- [Single-origin Ethiopia Yirgacheffe](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe): Ethiopia Yirgacheffe Sourced from Negele Gurbitu in the heart of the Yirgacheffe region, this coffee is grown high in the mountains at 1,700–2,000 metres and harvested between October and December. Made from the renowned Heirloom variety and fully washed for clarity, this cup bursts with floral and funky notes — a truly distinctive flavour reminiscent of Earl Grey tea and fine whisky. Perfect for: ☕ Unique, aromatic filter brews ⚙️ Surprising, lively espresso shots
+  Updated: 2025-11-11T14:28:54Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_feed6230-150d-4139-b438-3eb0f0b62f43.jpg?v=1762821665
+  - [250g](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe?variant=52141980352855)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe?variant=52141980385623)
+    Availability: Available
+    Price: £23.99 GBP
+- [Single-origin El Salvador](https://orovacoffee.com/products/single-origin-el-salvador): El Salvador Las IsabellasSourced from the Las Isabellas farm, nestled on the southern face of Cerrón Grande in the Apaneca region of western El Salvador, this coffee is a blend of Pacamara and Bourbon varieties grown at 1,200–1,450 metres. A proud member of the Blue Harvest project and Rainforest Alliance certified, Las Isabellas spans over 175 acres of natural forest, springs, and waterfalls — a true example of sustainable farming. Under the care of José Roberto Santamaría, the farm produces coffees that are sweet, mild, and beautifully balanced, with notes of plum and rich chocolate. Perfect for:☕ Smooth, balanced espresso🥛 Sweet, deep milk-based drinks🍃 Rounded and flavourful filter coffee
+  Updated: 2025-11-11T17:27:18Z
+  Vendor: Orovacoffee
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_c22eba95-e397-4521-901e-a947bb853c4f.jpg?v=1762821665
+  - [250g / Roasted coffee beans](https://orovacoffee.com/products/single-origin-el-salvador?variant=52142166507863)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Roasted coffee beans](https://orovacoffee.com/products/single-origin-el-salvador?variant=52142166540631)
+    Availability: Available
+    Price: £23.99 GBP
+  - [250g / Ground for espresso](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885746519)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for pods](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885779287)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for filter](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885812055)
+    Availability: Available
+    Price: £7.99 GBP
+  - [250g / Ground for cafetiere](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885844823)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for espresso](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885877591)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for pods](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885910359)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for filter](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885943127)
+    Availability: Available
+    Price: £7.99 GBP
+  - [1kg / Ground for cafetiere](https://orovacoffee.com/products/single-origin-el-salvador?variant=52143885975895)
+    Availability: Available
+    Price: £7.99 GBP
 
 ## Collections
 
 - [Home page](https://orovacoffee.com/collections/frontpage)
-  Updated: 2025-11-09T12:26:59Z
-  Total Products: 31
+  Updated: 2025-11-11T16:36:24Z
+  Total Products: 14
 - [Coffee And Tea example products](https://orovacoffee.com/collections/coffee-and-tea-example-products)
   Updated: 2025-10-15T09:02:11Z
   Total Products: 0
+- [Single-origins coffee](https://orovacoffee.com/collections/single-origins-coffee)
+  Updated: 2025-11-11T14:39:04Z
+  Total Products: 14
 
 ## Store Pages
 
 - [Contact](https://orovacoffee.com/pages/contact)
   Updated: 2025-07-08T18:58:27Z
 - [Your privacy choices](https://orovacoffee.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-28T09:38:19Z
-- [Reviews](https://orovacoffee.com/pages/reviews): See what our customers are saying! Check out our supplier reviews and discover why coffee lovers choose us for fresh, hand-roasted specialty coffee...
-  Updated: 2025-09-20T17:46:38Z
-- [Orova Coffee Loyalty Program](https://orovacoffee.com/pages/orova-coffee-loyalty-program): 🌟 Orova Coffee Loyalty Program Earn credits every time you shop — exclusively for members. At Orova Coffee, every sip should reward you. Our Loyalt...
-  Updated: 2025-10-24T16:10:42Z
-- [Liminicoffee](https://orovacoffee.com/pages/liminicoffee): Limini Coffee – Artisan Roasters from Yorkshire Discover Limini Coffee, one of the UK’s leading artisan roasters. Hand-roasted in Yorkshire, their ...
-  Updated: 2025-11-01T19:11:27Z
+  Updated: 2025-11-11T14:59:47Z
 
 ## Policies
 
