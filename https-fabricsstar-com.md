@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-11T00:00:31.919Z
+- Updated At: 2025-11-12T00:00:55.717Z
 
 ## Products
 
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/61KKboPNG1L._AC.jpg?v=1757517100
     Price: $1.00 USD
 - [Sensory Wall Reversible Sequin Fabric - Arts & Crafts | Fabrics Star](https://fabricsstar.com/products/sensory-wall-reversible-sequin-fabric): Bring fun and creativity to your projects with Sensory Wall Reversible Sequin Fabric from Fabrics Star. Available in 5 colors, this fabric is easy to flip!
-  Updated: 2025-10-23T20:16:59Z
+  Updated: 2025-11-11T16:13:25Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-11-10T20:07:21Z
+  Updated: 2025-11-11T18:49:36Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-11-09T19:56:36Z
+  Updated: 2025-11-11T14:13:27Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-WHITE-1.jpg?v=1757517390
     Price: $1.00 USD
 - [Selectra Waves Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard): The Selectra Waves Stretch Velvet Sequin Fabric by the Yard is made of 100% polyester. It has a soft stretch velvet base that is heavily embellished with sequins.
-  Updated: 2025-11-07T02:52:57Z
+  Updated: 2025-11-11T13:01:41Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -3387,7 +3387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/INLINE-WHITE.jpg?v=1757517661
     Price: $1.00 USD
 - [Delhi Metallic Jacquard Fabric - 120 Inch Width](https://fabricsstar.com/products/delhi-metallic-flower-jacquard-fabric-120-inch-in-width-home-decor): Shop Delhi Metallic Flower Jacquard Fabric - 120 Inch. Wide. Perfect for wide tablecloths and home decor. Custom cut to order.
-  Updated: 2025-10-23T20:17:13Z
+  Updated: 2025-11-11T01:37:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -4809,7 +4809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/COCKTAIL-GOLD-7.jpg?v=1757518039
     Price: $1.00 USD
 - [Treasure Jacquard, Quilted Look Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/bonanza-jacquard-quilted-look-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: quilted look fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its quilted look brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:19Z
+  Updated: 2025-11-11T20:55:58Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5613,7 +5613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CATCH-21-EBONY-7-1.jpg?v=1757518221
     Price: $1.00 USD
 - [Ladino Jacquard Fabric, 55 Inch. in Width, | Home Decor](https://fabricsstar.com/products/ladino-jacquard-fabric-55-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 55' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Ladino jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-11-07T01:58:21Z
+  Updated: 2025-11-11T00:12:26Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -5915,7 +5915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/MISTY-BLUE-10-2.jpg?v=1757518280
     Price: $1.00 USD
 - [Stardust Metallic Jacquard Fabric, 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/stardust-metallic-jacquard-fabric-58-inch-in-width-home-decor): DIMENSION - Size of the Jacquard fabric is 58' Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Stardust metallic jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:22Z
+  Updated: 2025-11-11T19:46:02Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -9688,13 +9688,13 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-11-10T12:13:33Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-11-07T12:15:21Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
   Updated: 2025-10-28T14:39:48Z
@@ -9703,19 +9703,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-11-10T12:13:33Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-11-10T12:13:33Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-11-09T12:15:25Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-11-10T12:13:33Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-11-10T12:13:33Z
+  Updated: 2025-11-11T12:15:08Z
   Total Products: 666
 
 ## Blogs
