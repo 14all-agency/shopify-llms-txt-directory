@@ -6,12 +6,12 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-11T00:01:15.179Z
+- Updated At: 2025-11-12T00:01:28.077Z
 
 ## Products
 
 - [VW T4 EuroVan Pop-Top Roof Canvas - Weather-Resistant 3-Window Replacement](https://vanagonmaniac.com/products/vw-t4-eurovan-weekender-3-window-pop-top-canvas-swb-replacement-vw-t4-westfalia-camper-pop-top-tent-replacement-roof-canvas-roof-toptent): Upgrade your VW T4 EuroVan with our weather-resistant pop-top roof canvas. This 3-window replacement is designed for SWB models, ensuring durability and style on your adventures.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-11T07:37:42Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Available
     Price: €45.00 EUR
 - [VW T4 Winnebago Canvas Pop-Top Roof Tent for Eurovan LWB Camper 1995-2003](https://vanagonmaniac.com/products/vw-t4-pop-top-canvas): Experience the great outdoors with the VW T4 Winnebago Canvas Pop-Top Roof Tent, designed for Eurovan LWB Campers (1995–2003). Elevate your camping adventures today!
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-11T07:20:19Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -311,7 +311,7 @@
     Availability: Available
     Price: €500.00 EUR
 - [VW T25 Westfalia Canvas Replacement for Pop-Top Roof 86-91 | Quality Fit](https://vanagonmaniac.com/products/vw-t25-westfalia-pop-top-canvas-rear-hinge-replacement-vw-t3-camper-pop-top-tent-vw-t3-replacement-roof-canvas-3-window-camping-canvas): Upgrade your VW T25 with our high-quality Westfalia Canvas Replacement for Pop-Top Roof (86-91). Enhance comfort and style for your adventures. Order now!
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-11T07:21:31Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -467,7 +467,7 @@
     Availability: Available
     Price: €380.00 EUR
 - [VW T4 EuroVan Pop-Top Roof Canvas Replacement for Weekender SWB](https://vanagonmaniac.com/products/vw-t4-eurovan-weekender-2-window-pop-top-canvas-swb-replacement-vw-t4-westfalia-camper-pop-top-tent-replacement-roof-canvas-camper-tent): Upgrade your VW T4 EuroVan pop-top roof canvas with our high-quality pop-top roof canvas replacement, specifically designed for Weekender 2-Window SWB. Enhance comfort and durability today!
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-11T07:47:50Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
     Availability: Available
     Price: €485.00 EUR
 - [Ford Transit Nugget Pop Top Canvas Replacement Roof for 4th-Gen](https://vanagonmaniac.com/products/ford-transit-nugget-2007-2014-replacement-camper-pop-top-roof-canvas-tent): Transform your Ford Transit Nugget pop top canvas with our durable pop top canvas replacement roof. Enhance your adventure while ensuring a perfect fit and long-lasting quality.
-  Updated: 2025-11-10T22:28:08Z
+  Updated: 2025-11-11T07:25:59Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
@@ -731,7 +731,7 @@
     Availability: Available
     Price: €550.00 EUR
 - [VW T4 SCA Pop Top Canvas Replacement for Camper Roof – Quality Fit](https://vanagonmaniac.com/products/vw-t4-sca-roof-replacement-camper-pop-top-roof-tent-canvas): Upgrade your camper with our VW T4 SCA pop top canvas replacement. Durable and weather-resistant, it ensures a seamless fit and enhances your camping experience.
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T07:30:06Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
@@ -863,7 +863,7 @@
     Availability: Available
     Price: €515.00 EUR
 - [Ford Transit Nugget Roof Canvas for 2000-2006 Pop Top Replacement](https://vanagonmaniac.com/products/ford-transit-nugget-3rd-gen-2000-2006-pop-top-roof-canvas-tent): Meta description: Upgrade your 2000-2006 Ford Transit Nugget roof canvas with our high-quality product. Perfect for pop-top roof replacement, ensuring durability and style for your adventures.
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T07:56:07Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
@@ -995,7 +995,7 @@
     Availability: Available
     Price: €530.00 EUR
 - [VW T3 Reimo Mushroom Canvas - Durable Pop Top Roof Replacement](https://vanagonmaniac.com/products/vw-t3-mushroom-top-reimo): Upgrade your VWVW T3 reimo mushroom canvas  Pop Top Roof Replacement. Durable, weatherproof, and easy to install, it ensures your adventures are comfortable and stylish.
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T04:55:22Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -1217,7 +1217,7 @@
     Availability: Available
     Price: €150.00 EUR
 - [VW T4 REIMO Canvas - 3-Window Pop Top Roof Replacement for Your Van](https://vanagonmaniac.com/products/vw-t4-reimo-roof-3-window-replacement-camper-pop-top-roof-canvas): Upgrade your VW T4 REIMO canvas replacement featuring a 3-window pop top roof design. Durable, stylish, and easy to install—perfect for your adventures!
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T05:03:03Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
@@ -1349,7 +1349,7 @@
     Availability: Available
     Price: €515.00 EUR
 - [VW T3 SCA Canvas Replacement - 3 Windows for Pop-Top Camping](https://vanagonmaniac.com/products/vw-t25-t3-sca-pop-top-canvas): Enhance your camping experience with our VW T3 SCA Canvas Replacement featuring 3 windows. Durable and easy to install, this canvas enhances ventilation and style for your pop-top!
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T05:01:12Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -1481,7 +1481,7 @@
     Availability: Available
     Price: €480.00 EUR
 - [VW T4 California Pop-Top Canvas Roof Replacement for SWB Models](https://vanagonmaniac.com/products/vw-t4-california-3-window-pop-top-canvas-swb): Meta description: Replace your VW T4 California pop-top canvas with our high-quality roof replacement for SWB 2-window models. Experience durability and style on your next adventure!
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T07:08:34Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -1613,7 +1613,7 @@
     Availability: Available
     Price: €485.00 EUR
 - [VW T3 Westfalia Canvas Replacement for Pop-Top Roof 79-85 |Top Quality](https://vanagonmaniac.com/products/vw-t3-westfalia-1986-pop-top-roof-canvas): Revitalize your VW T3 Westfalia with our high-quality canvas replacement for the pop-top roof (79-85). Ensure durability and style with this perfect VW T3 Westfalia canvas replacement.
-  Updated: 2025-11-10T22:28:09Z
+  Updated: 2025-11-11T07:11:44Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -1769,7 +1769,7 @@
     Availability: Available
     Price: €380.00 EUR
 - [VW T3 REIMO Pop-Top Roof Canvas – Premium Quality with 3 Windows](https://vanagonmaniac.com/products/vw-t3-reimo-pop-top-roof-canvas-3-window): Upgrade your VW T3 REIMO Pop-Top Roof Canvas Replacement. Crafted from premium materials, it features 3 windows for added ventilation and style. Perfect for your adventures!
-  Updated: 2025-11-10T22:28:10Z
+  Updated: 2025-11-11T07:48:25Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -1901,7 +1901,7 @@
     Availability: Available
     Price: €480.00 EUR
 - [Opel Vivaro Pop Top Roof Tent Replacement Canvas for 2003 Model](https://vanagonmaniac.com/products/opel-vauxhall-vivaro-2003-pop-top-roof-tent-canvas): Upgrade your 2003 Opel Vivaro with our durable pop top roof tent replacement canvas. Enjoy comfort and style for your adventures with the perfect fit for your Opel Vivaro pop top roof tent.
-  Updated: 2025-11-10T22:28:10Z
+  Updated: 2025-11-11T07:50:38Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2033,7 +2033,7 @@
     Availability: Available
     Price: €520.00 EUR
 - [VW T3 Pop-Top Mushroom Canvas - Custom-Fit with Mesh Windows for Sale](https://vanagonmaniac.com/products/vw-t3-vanagon-sca-mushroom-pop-top-roof-canvas): Upgrade your VW T3 Pop-Top Mushroom Canvas  featuring mesh windows. Enjoy durability and style for your adventures. Perfect replacement for your T3!
-  Updated: 2025-11-10T22:28:10Z
+  Updated: 2025-11-11T07:52:39Z
   Vendor: vanagonmaniac
   Product Type: 
   Availability: Available
@@ -2183,7 +2183,7 @@
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/IMG_4433.jpg?v=1761642086
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/IMG_4433.jpg?v=1762864606
   - [BlanchedAlmond / White](https://vanagonmaniac.com/products/vw-t4-caravelle-3-window-pop-top-roof-canvas-1999?variant=50626314338646)
     Availability: Available
     Price: €515.00 EUR
@@ -2485,136 +2485,136 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/Screenshot2025-07-13075750.png?v=1752383332
   Price: €15.00 EUR
-- [Ford Nugget 2-GEN 3-Window Pop-Top Canvas 1992-2000 | Vanagon Maniac Replacement Tent](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas): Vanagon Maniac offers a brand-new replacement pop-top roof canvas for Ford Nugget 2-GEN, 1992-2000 year model, featuring a 3-window pop-top rear hinge roof canvas.
-  Updated: 2025-11-10T22:28:11Z
+- [Buy Ford Nugget Replacement Canvas Pop Top 3 Windoes | Durable & Customizable](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas): Shop the best ford nugget replacement canvas pop top 3 windoes for durability, style, and perfect fit. Upgrade your camper today with high-quality, weather-resistant material.
+  Updated: 2025-11-11T20:08:33Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/78fe8148-1597-4c96-b14d-94e1ffbc33fb.jpg?v=1757533882
-  - [BlanchedAlmond / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027110230)
+  - [BlanchedAlmond / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027110230)
     Availability: Available
     Price: €530.00 EUR
-  - [BlanchedAlmond / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027142998)
+  - [BlanchedAlmond / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027142998)
     Availability: Available
     Price: €530.00 EUR
-  - [BlanchedAlmond / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027175766)
+  - [BlanchedAlmond / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027175766)
     Availability: Available
     Price: €530.00 EUR
-  - [BurlyWood / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027208534)
+  - [BurlyWood / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027208534)
     Availability: Available
     Price: €530.00 EUR
-  - [BurlyWood / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027241302)
+  - [BurlyWood / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027241302)
     Availability: Available
     Price: €530.00 EUR
-  - [BurlyWood / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027274070)
+  - [BurlyWood / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027274070)
     Availability: Available
     Price: €530.00 EUR
-  - [Gold / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027306838)
+  - [Gold / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027306838)
     Availability: Available
     Price: €530.00 EUR
-  - [Gold / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027339606)
+  - [Gold / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027339606)
     Availability: Available
     Price: €530.00 EUR
-  - [Gold / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027372374)
+  - [Gold / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027372374)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkOrange / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027405142)
+  - [DarkOrange / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027405142)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkOrange / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027437910)
+  - [DarkOrange / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027437910)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkOrange / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027470678)
+  - [DarkOrange / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027470678)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkRed / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027503446)
+  - [DarkRed / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027503446)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkRed / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027536214)
+  - [DarkRed / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027536214)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkRed / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027568982)
+  - [DarkRed / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027568982)
     Availability: Available
     Price: €530.00 EUR
-  - [Red / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027601750)
+  - [Red / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027601750)
     Availability: Available
     Price: €530.00 EUR
-  - [Red / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027634518)
+  - [Red / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027634518)
     Availability: Available
     Price: €530.00 EUR
-  - [Red / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027667286)
+  - [Red / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027667286)
     Availability: Available
     Price: €530.00 EUR
-  - [YellowGreen / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027700054)
+  - [YellowGreen / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027700054)
     Availability: Available
     Price: €530.00 EUR
-  - [YellowGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027732822)
+  - [YellowGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027732822)
     Availability: Available
     Price: €530.00 EUR
-  - [YellowGreen / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027765590)
+  - [YellowGreen / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027765590)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkGreen / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027798358)
+  - [DarkGreen / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027798358)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027831126)
+  - [DarkGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027831126)
     Availability: Available
     Price: €530.00 EUR
-  - [DarkGreen / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027863894)
+  - [DarkGreen / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027863894)
     Availability: Available
     Price: €530.00 EUR
-  - [DeepSkyBlue / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027896662)
+  - [DeepSkyBlue / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027896662)
     Availability: Available
     Price: €530.00 EUR
-  - [DeepSkyBlue / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027929430)
+  - [DeepSkyBlue / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027929430)
     Availability: Available
     Price: €530.00 EUR
-  - [DeepSkyBlue / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027962198)
+  - [DeepSkyBlue / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027962198)
     Availability: Available
     Price: €530.00 EUR
-  - [Navy / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279027994966)
+  - [Navy / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279027994966)
     Availability: Available
     Price: €530.00 EUR
-  - [Navy / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028027734)
+  - [Navy / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028027734)
     Availability: Available
     Price: €530.00 EUR
-  - [Navy / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028060502)
+  - [Navy / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028060502)
     Availability: Available
     Price: €530.00 EUR
-  - [LightGrey / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028093270)
+  - [LightGrey / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028093270)
     Availability: Available
     Price: €530.00 EUR
-  - [LightGrey / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028126038)
+  - [LightGrey / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028126038)
     Availability: Available
     Price: €530.00 EUR
-  - [LightGrey / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028158806)
+  - [LightGrey / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028158806)
     Availability: Available
     Price: €530.00 EUR
-  - [Gray / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028191574)
+  - [Gray / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028191574)
     Availability: Available
     Price: €530.00 EUR
-  - [Gray / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028224342)
+  - [Gray / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028224342)
     Availability: Available
     Price: €530.00 EUR
-  - [Gray / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028257110)
+  - [Gray / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028257110)
     Availability: Available
     Price: €530.00 EUR
-  - [DimGray / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028289878)
+  - [DimGray / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028289878)
     Availability: Available
     Price: €530.00 EUR
-  - [DimGray / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028322646)
+  - [DimGray / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028322646)
     Availability: Available
     Price: €530.00 EUR
-  - [DimGray / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028355414)
+  - [DimGray / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028355414)
     Availability: Available
     Price: €530.00 EUR
-  - [Black / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028388182)
+  - [Black / White](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028388182)
     Availability: Available
     Price: €530.00 EUR
-  - [Black / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028420950)
+  - [Black / Grey](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028420950)
     Availability: Available
     Price: €530.00 EUR
-  - [Black / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-tent-canvas-1992-2000-transit-mk4-mk5-replacement-campervan-roof-canvas?variant=51279028453718)
+  - [Black / Black](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas?variant=51279028453718)
     Availability: Available
     Price: €530.00 EUR
 - [Magnetic Mosquito Net for VW T5 Sliding Door + Rear in BLACK](https://vanagonmaniac.com/products/magnetic-mosquito-net-for-vw-t5-sliding-door-rear-in-black): Keep your VW T5 campervan bug-free with this premium-quality magnetic insect screen designed specifically for the sliding side door and rear hatch.
@@ -2945,12 +2945,144 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/Ram_promaster_thermal_blinds.png?v=1762771170
   Price: €246.00 EUR
+- [Ford Nugget 2-GEN 3-Window Pop-Top Canvas 1992-2000 | Vanagon Maniac Replacement Tent](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent): Vanagon Maniac offers a brand-new replacement pop-top roof canvas for Ford Nugget 2-GEN, 1992-2000 year model, featuring a 3-window pop-top rear hinge roof canvas.
+  Updated: 2025-11-11T12:36:46Z
+  Vendor: vanagonmaniac
+  Product Type: replacement canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/1000009963_1.jpg?v=1762864606
+  - [BlanchedAlmond / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764380502)
+    Availability: Available
+    Price: €530.00 EUR
+  - [BlanchedAlmond / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764413270)
+    Availability: Available
+    Price: €530.00 EUR
+  - [BlanchedAlmond / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764446038)
+    Availability: Available
+    Price: €530.00 EUR
+  - [BurlyWood / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764478806)
+    Availability: Available
+    Price: €530.00 EUR
+  - [BurlyWood / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764511574)
+    Availability: Available
+    Price: €530.00 EUR
+  - [BurlyWood / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764544342)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gold / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764577110)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gold / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764609878)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gold / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764642646)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkOrange / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764675414)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkOrange / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764708182)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkOrange / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764740950)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkRed / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764773718)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkRed / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764806486)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkRed / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764839254)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Red / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764872022)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Red / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764904790)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Red / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764937558)
+    Availability: Available
+    Price: €530.00 EUR
+  - [YellowGreen / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814764970326)
+    Availability: Available
+    Price: €530.00 EUR
+  - [YellowGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765003094)
+    Availability: Available
+    Price: €530.00 EUR
+  - [YellowGreen / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765035862)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkGreen / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765068630)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkGreen / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765101398)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DarkGreen / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765134166)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DeepSkyBlue / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765166934)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DeepSkyBlue / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765199702)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DeepSkyBlue / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765232470)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Navy / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765265238)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Navy / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765298006)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Navy / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765330774)
+    Availability: Available
+    Price: €530.00 EUR
+  - [LightGrey / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765363542)
+    Availability: Available
+    Price: €530.00 EUR
+  - [LightGrey / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765396310)
+    Availability: Available
+    Price: €530.00 EUR
+  - [LightGrey / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765429078)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gray / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765461846)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gray / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765494614)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Gray / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765527382)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DimGray / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765560150)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DimGray / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765592918)
+    Availability: Available
+    Price: €530.00 EUR
+  - [DimGray / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765625686)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Black / White](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765658454)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Black / Grey](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765691222)
+    Availability: Available
+    Price: €530.00 EUR
+  - [Black / Black](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent?variant=51814765723990)
+    Availability: Available
+    Price: €530.00 EUR
 
 ## Collections
 
 - [Home page](https://vanagonmaniac.com/collections/frontpage)
-  Updated: 2025-11-10T22:28:08Z
-  Total Products: 8
+  Updated: 2025-11-11T12:36:44Z
+  Total Products: 9
 - [T25/T3](https://vanagonmaniac.com/collections/t25): Volkswagen T25/T3/VANAGON/SCA/REIMO pop-top replacement canvas. Brand new VW Westfalia pop-up camper replacement canvas weather weather-resistant, model fit and in 14 colours.
   Updated: 2025-11-10T22:28:08Z
   Total Products: 11
@@ -2961,8 +3093,8 @@
   Updated: 2025-11-10T22:28:08Z
   Total Products: 7
 - [Ford nugget](https://vanagonmaniac.com/collections/ford): Ford Transit Nugget Replacement Pop Top Roof Tent Canvas
-  Updated: 2025-11-10T22:28:08Z
-  Total Products: 4
+  Updated: 2025-11-11T12:36:44Z
+  Total Products: 5
 - [OPEL](https://vanagonmaniac.com/collections/opel): Premium pop-top replacement canvases for Opel Vauxhall camper vans.Designed for a perfect fit, our canvases are made from durable, weather-resistant materials to keep you protected on every adventure. Whether you're upgrading a worn-out original or customizing your camper, our pop-top tents ensure reliable ventilation, shade, and style for your Opel van.
   Updated: 2025-11-10T22:28:08Z
   Total Products: 1
@@ -2978,6 +3110,9 @@
 - [Insulation](https://vanagonmaniac.com/collections/insulation): Thermal Insulation Kits VW Pop-Top Roof & Windows! Upgrade your camper comfort with premium 9-layer thermal insulation, engineered for Volkswagen campervans and crafted by VanagonManiac. Our insulation kits are made in Latvia, Europe using top-quality materials that guarantee perfect fit, all-season comfort, and modern design.
   Updated: 2025-11-10T22:28:08Z
   Total Products: 6
+- [AVADA - Best Sellers](https://vanagonmaniac.com/collections/avada-best-sellers)
+  Updated: 2025-11-11T19:31:24Z
+  Total Products: 38
 
 ## Blogs
 
