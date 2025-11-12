@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-09-23T23:33:27Z
 - Contact Email: tyler@toetape.com
-- Updated At: 2025-11-06T00:00:23.171Z
+- Updated At: 2025-11-12T00:00:24.660Z
 
 ## Products
 
 - [Bunion Corrector Kinesiology Tape](https://www.toetape.com/products/bunion-corrector-kinesiology-tape): Real Relief. Realignment in Motion. Engineered for moderate bunions and active feet, ToeTape Bunion Correction Kinesiology Tape delivers targeted support and te
-  Updated: 2025-11-05T23:34:45Z
+  Updated: 2025-11-11T23:11:05Z
   Vendor: ToeTape
   Product Type: Kinesiology Tape
   Availability: Available
@@ -26,20 +26,8 @@
   - [Pink](https://www.toetape.com/products/bunion-corrector-kinesiology-tape?variant=50974545936516)
     Availability: Available
     Price: $29.99 USD
-- [Runner's Relief Tape](https://www.toetape.com/products/toetape-pf-plantar-fasciitis-relief): Fast acting Pain Relief and Support for common running lower leg injuries: Plantar Fasciitis Shin Splints Achilles Tendonitis Reduce pain Wear it with any footwear Applies in seconds 20 applications included
-  Updated: 2025-11-05T17:09:28Z
-  Vendor: ToeTape
-  Product Type: Kinesiology Tape
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/NUDE_New_2.png?v=1758745998
-  - [Nude](https://www.toetape.com/products/toetape-pf-plantar-fasciitis-relief?variant=50688131989636)
-    Availability: Not Available
-    Price: $29.99 USD
-  - [Black](https://www.toetape.com/products/toetape-pf-plantar-fasciitis-relief?variant=50688132022404)
-    Availability: Available
-    Price: $29.99 USD
 - [Moleskin Bunion Pads](https://www.toetape.com/products/moleskin-bunion-pads): Relief Where It Rubs When friction turns every step into a distraction, ToeTape Bunion Pads bring instant relief. Made from dual-layered medical-grade moleskin,
-  Updated: 2025-11-05T23:48:11Z
+  Updated: 2025-11-11T23:27:31Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -57,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/606_USA.png?v=1761539435
     Price: $23.99 USD
 - [Shoulder Kinesiology Tape](https://www.toetape.com/products/shoulder-kinesiology-tape): Engineered for Shoulder Stability and Long-Lasting Relief When shoulder pain threatens your training, ToeTape steps in. Our precut kinesiology tape is designed
-  Updated: 2025-11-05T23:08:21Z
+  Updated: 2025-11-11T23:21:02Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -79,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Shoulder_Tape_Amazon_images_19.png?v=1761754067
     Price: $23.99 USD
 - [Epsom Salt + Bubbles](https://www.toetape.com/products/epsom-salt-bubbles): Revive. Relax. Recover.Recover like an athlete, relax like you deserve it. Epsom Salts + Bubbles merges high-strength magnesium salts with foaming bubbles for a
-  Updated: 2025-11-05T22:48:02Z
+  Updated: 2025-11-11T22:34:10Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -87,17 +75,17 @@
   - [Coconut & Teatree](https://www.toetape.com/products/epsom-salt-bubbles?variant=50902309929092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Vibes_Coconut_3_3e72c348-215e-4df4-a423-d007036e8ed8.png?v=1760499882
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Lavender](https://www.toetape.com/products/epsom-salt-bubbles?variant=50902309896324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Vibes_Lavender_3_473ebea8-b19c-4d07-be48-5c3600c30622.png?v=1760499882
-    Price: $14.99 USD
+    Price: $19.99 USD
   - [Unscented](https://www.toetape.com/products/epsom-salt-bubbles?variant=50902309994628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Vibes_Unscented_3_b9cde4f2-3fbb-4b90-b2a4-976c5f261e9d.png?v=1760499882
-    Price: $14.99 USD
+    Price: $19.99 USD
 - [Bunion Relief Bundle](https://www.toetape.com/products/bunion-relief-bundle): Your all-in-one solution for lasting foot comfort and recovery. The Bunion Relief Bundle combines our three most effective products to help reduce pain, prevent rubbing, and support natural alignment — whether you’re on your feet all day or training hard. Includes: ToeTape™ Bunion Corrector Tape – Precut, professional-grade kinesiology tape designed to gently realign the big toe and relieve joint pressure. Sweatproof and easy to apply for all-day support. Moleskin Bunion Pads – Soft, adhesive patches that protect against friction and rubbing from shoes, preventing blisters and irritation. Epsom Salts + Foaming Bubbles – A magnesium-rich soak that relaxes sore feet, reduces inflammation, and promotes faster recovery after long days or workouts. Together, these three essentials relieve pain, protect sensitive spots, and speed recovery — giving your feet the support they deserve to keep you moving comfortably and confidently.
-  Updated: 2025-11-05T23:48:17Z
+  Updated: 2025-11-11T23:27:37Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -157,14 +145,14 @@
     Availability: Available
     Price: $49.99 USD
 - [Tea Tree Three! Bundle](https://www.toetape.com/products/tea-tree-three)
-  Updated: 2025-11-05T21:05:25Z
+  Updated: 2025-11-11T21:14:40Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/All-DayComfortStopsPainfulFrictionFastInvisibleUnderAnyShoeSubscribe_Save_NeverRunOut.png?v=1760126956
   Price: $25.00 USD
 - [Shoulder Tape & Epsom Soak Combo](https://www.toetape.com/products/shoulder-tape-epsom-soak-combo)
-  Updated: 2025-11-05T23:08:26Z
+  Updated: 2025-11-11T23:21:05Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -206,7 +194,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Knee Kinesiology Tape](https://www.toetape.com/products/knee-kinesiology-tape): Every Step Feels Like Freedom Imagine the sensation of running through a sunlit park, where every stride is light and effortless. The air is crisp, and you feel an exhilarating rush as you push your limits. This is the feeling you can reclaim with Knee Kinesiology Tape by ToeTape, designed to support your journey towards peak performance and recovery. Empower Your Body This isn’t just tape; it’s a commitment to your well-being. Each roll of our knee kinesiology tape represents strength, resilience, and the determination to overcome obstacles. Whether you’re battling through a challenging workout or recovering from an injury, this tape serves as your ally—lifting your spirits and your skin, reducing pain, and enhancing stability. Perfect for Every Occasion Gift it to yourself or a loved one who thrives on movement. Whether it’s for a birthday, a motivational boost, or simply to show you care, this tape conveys a heartfelt message: “I believe in your strength.” Crafted for Quality At ToeTape, we prioritize quality and performance. Our kinesiology tape is crafted from premium elastic cotton, designed to mimic the skin's natural elasticity while providing optimal support. The acrylic adhesive ensures a secure fit, while the breathable material allows for comfortable wear throughout your activities. With ToeTape, you’re not just getting a product; you’re investing in your health. Easy Application for Maximum Benefit Applying our knee kinesiology tape is straightforward, allowing you to take control of your recovery or performance enhancement. Follow our simple application techniques to achieve the best results: Basic Patellar Support - Runner's Knee: Provides foundational support for everyday activities. Lateral Support: Crucial for athletes needing extra stability during lateral movements. Patellar Tracking: Ideal for those focusing on knee alignment and function. Take Action Today Don’t let discomfort hold you back. Experience the freedom of movement with Knee Kinesiology Tape by ToeTape. With a simple application, you can enhance your performance, reduce pain, and recover faster. Bring a little strength back into your life—one step at a time. (🏃‍♂️ Empower your journey | (💪 Support for every movement | (🎁 Thoughtful gift for active friends)
-  Updated: 2025-11-05T23:08:25Z
+  Updated: 2025-11-11T23:21:05Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -228,7 +216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Main_Black_5_0e7890f2-a888-415a-b2d6-fd5fe2a00d47.png?v=1761936961
     Price: $23.99 USD
 - [Lower Back Kinesiology Tape](https://www.toetape.com/products/lower-back-kinesiology-tape)
-  Updated: 2025-11-05T23:08:25Z
+  Updated: 2025-11-11T23:21:05Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -245,71 +233,29 @@
   - [Pink](https://www.toetape.com/products/lower-back-kinesiology-tape?variant=51212527599748)
     Availability: Available
     Price: $29.99 USD
-- [Shin Splint Kinesiology Tape](https://www.toetape.com/products/shin-splint-kinesiology-tape)
-  Updated: 2025-11-05T17:09:36Z
-  Vendor: ToeTape
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Untitled_design_-_2025-09-30T143157.470.png?v=1761254268
-  - [Nude](https://www.toetape.com/products/shin-splint-kinesiology-tape?variant=51219541426308)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/SS_Web_Nude_d316a038-4e0d-4ebc-b1f6-9954e9ec562e.png?v=1761253636
-    Price: $29.99 USD
-  - [Black](https://www.toetape.com/products/shin-splint-kinesiology-tape?variant=51219541459076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/SS_black.png?v=1761253649
-    Price: $29.99 USD
-- [Achilles Tendinitis Kinesiology Tape](https://www.toetape.com/products/achilles-tendinitis-kinesiology-tape)
-  Updated: 2025-11-05T17:09:35Z
-  Vendor: ToeTape
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Untitled_design_-_2025-10-20T133250.187.png?v=1761254228
-  - [Nude](https://www.toetape.com/products/achilles-tendinitis-kinesiology-tape?variant=51219544277124)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/AT_Web_Nude.png?v=1761254228
-    Price: $29.99 USD
-  - [Black](https://www.toetape.com/products/achilles-tendinitis-kinesiology-tape?variant=51219544309892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/SS_black_1.png?v=1761254228
-    Price: $29.99 USD
-- [Plantar Fasciitis Kinesiology Tape](https://www.toetape.com/products/plantar-fasciitis-kinesiology-tape): Every step should feel like a dance Imagine waking up to a day filled with sunshine and possibility, every step echoing the joy of movement. Yet, for many, that dream feels just out of reach due to the nagging discomfort of plantar fasciitis. The Plantar Fasciitis Kinesiology Tape by ToeTape is designed to bridge the gap between pain and freedom, allowing you to reclaim your stride. Embrace the journey This isn’t just tape; it’s a lifeline. With each application, you’re not merely supporting your foot; you’re embracing a lifestyle of activity and wellness. Whether it’s chasing after your children, enjoying a leisurely walk in the park, or hitting the gym, this kinesiology tape becomes your silent partner, alleviating discomfort and enhancing mobility. A gift of relief Searching for the perfect gift for someone who struggles with foot pain? Look no further. The Plantar Fasciitis Kinesiology Tape makes an ideal present for birthdays, holidays, or simply as a thoughtful gesture to show you care. It symbolizes hope, support, and the promise of better days ahead. Crafted with care At ToeTape, we understand that quality matters. Our kinesiology tape is made from premium materials, ensuring durability and effectiveness. Each roll is designed to provide optimal support without restricting movement, allowing you to feel confident and secure in every step you take. Easy application for maximum benefit Arch Support Technique: Provides targeted relief by supporting the arch and redistributing weight. Heel Cup Technique: Offers additional support to the heel, reducing strain on the plantar fascia. Applying the tape is simple and straightforward, making it accessible for everyone. With a little practice, you’ll master the techniques that will help transform your day-to-day life. Act now and transform your life Don’t let foot pain hold you back any longer. The Plantar Fasciitis Kinesiology Tape by ToeTape is your ally in the battle against discomfort. Bring a little comfort back into your life — one step at a time. (🌟) Freedom to move | (💖) Thoughtful gift idea | (🛠️) Expert-crafted support
-  Updated: 2025-11-05T17:09:35Z
-  Vendor: ToeTape
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Untitled_design_-_2025-10-20T133327.637.png?v=1761254162
-  - [Nude](https://www.toetape.com/products/plantar-fasciitis-kinesiology-tape?variant=51219549651076)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/PF_Web_Nude_1.png?v=1761968762
-    Price: $29.99 USD
-  - [Black](https://www.toetape.com/products/plantar-fasciitis-kinesiology-tape?variant=51219549683844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/New_Website_images_34.png?v=1761968771
-    Price: $29.99 USD
 - [Free Gift (+$1 Shipping): 12 Pack Bunion Pads](https://www.toetape.com/products/free-12-pack): Relief Where It Rubs When friction turns every step into a distraction, ToeTape Bunion Pads bring instant relief. Made from dual-layered medical-grade moleskin, each pad shields your skin from rubbing and pressure points caused by bunions, calluses, and tight footwear. The ultra-thin, low-profile design stays put through long days and training sessions—helping you move pain-free, blister-free, and focused. Available in 12, 24, and 60-pad packs for every need.
-  Updated: 2025-11-05T08:19:50Z
+  Updated: 2025-11-11T22:31:06Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/126_USA.png?v=1761757139
   Price: $1.00 USD
 - [Free Gift (+$1 Shipping): Unscented Epsom Salts + Bubbles](https://www.toetape.com/products/eps-gift): Revive. Relax. Recover.Recover like an athlete, relax like you deserve it. Epsom Salts + Bubbles merges high-strength magnesium salts with foaming bubbles for a dual-action soak—whether you’re unwinding after training or simply easing daily foot fatigue. Choose Lavender for calming recovery, Coconut Tea Tree for refreshing clarity, or Unscented for gentle, neutral relief. Each 12 oz bag delivers up to 3 full body baths or 12 targeted foot soaks.
-  Updated: 2025-11-04T06:45:15Z
+  Updated: 2025-11-11T21:14:40Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Untitleddesign-2025-10-21T122207.365.png?v=1761758226
   Price: $1.00 USD
 - [Free Gift (+$1 Shipping): Shoulder Tape Nude](https://www.toetape.com/products/shoulder-gift): Engineered for Shoulder Stability and Long-Lasting Relief When shoulder pain threatens your training, ToeTape steps in. Our precut kinesiology tape is designed for athletes who need dependable support without slowing down. Made from a synthetic, breathable fabric that’s water- and sweat-proof, it stays on for up to 7 days—even through workouts, showers, and recovery sessions. Trusted by physical therapists, it helps stabilize rotator cuff injuries, deltoid strains, and shoulder impingement so you can keep moving.
-  Updated: 2025-11-05T23:08:21Z
+  Updated: 2025-11-11T23:21:02Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6072/0516/files/Shoulder_Tape_Amazon_images_17.png?v=1761758812
   Price: $1.00 USD
 - [Free Gift (+$1 Shipping): Bunion Corrector Tape Nude](https://www.toetape.com/products/bunion-tape-gift): Real Relief. Realignment in Motion. Engineered for moderate bunions and active feet, ToeTape Bunion Correction Kinesiology Tape delivers targeted support and tension that moves with you. Designed to gently realign your big toe while relieving pressure and friction, this slim, low-profile tape fits comfortably in any footwear. Backed by proven academic research, it offers long-lasting relief and confident movement—without bulky braces or rigid correctors holding you back.
-  Updated: 2025-11-05T23:34:46Z
+  Updated: 2025-11-11T23:13:42Z
   Vendor: ToeTape
   Product Type: 
   Availability: Available
@@ -319,28 +265,28 @@
 ## Collections
 
 - [Home page](https://www.toetape.com/collections/frontpage)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-09T12:17:29Z
   Total Products: 6
 - [Active](https://www.toetape.com/collections/active): These products are actively selling
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-06T12:15:10Z
   Total Products: 2
 - [Drawing Board](https://www.toetape.com/collections/drawing-board): These ideas have NOT been made yet
   Updated: 2025-10-20T19:27:42Z
   Total Products: 0
 - [ToeTape Home Page](https://www.toetape.com/collections/toetape-home-page)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-06T12:15:10Z
   Total Products: 1
 - [Smart Products Filter Index - Do not delete](https://www.toetape.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-11-05T12:19:33Z
-  Total Products: 19
+  Updated: 2025-11-11T12:16:19Z
+  Total Products: 20
 - [Best Sellers](https://www.toetape.com/collections/best-sellers)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-06T12:15:10Z
   Total Products: 2
 - [Sample Packs](https://www.toetape.com/collections/sample-packs)
   Updated: 2025-10-20T19:27:43Z
   Total Products: 0
 - [Bunion / Big Toe Sprains](https://www.toetape.com/collections/bunion-big-toe-sprains)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-06T12:15:10Z
   Total Products: 2
 - [Plantar Fasciitis](https://www.toetape.com/collections/plantar-fasciitis)
   Updated: 2025-10-23T21:12:16Z
@@ -355,22 +301,22 @@
   Updated: 2025-10-20T19:27:43Z
   Total Products: 0
 - [Bunion Relief](https://www.toetape.com/collections/bunion-relief)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-06T12:15:10Z
   Total Products: 3
 - [Foot Soaks](https://www.toetape.com/collections/foot-soaks)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-07T16:45:36Z
   Total Products: 1
 - [Tape for Athletes](https://www.toetape.com/collections/tape-for-athletes)
-  Updated: 2025-11-02T12:16:53Z
+  Updated: 2025-11-09T12:17:29Z
   Total Products: 2
 - [Best Sellers](https://www.toetape.com/collections/best-sellers-1)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-07T16:45:36Z
   Total Products: 3
 - [Affiliate Free Product Options (Limit: 1)](https://www.toetape.com/collections/affiliate-free-product-options)
-  Updated: 2025-11-05T12:19:33Z
+  Updated: 2025-11-09T12:17:29Z
   Total Products: 6
 - [For Athletes](https://www.toetape.com/collections/for-athletes)
-  Updated: 2025-11-05T22:13:33Z
+  Updated: 2025-11-09T12:17:29Z
   Total Products: 6
 
 ## Blogs
@@ -457,8 +403,14 @@
   - [7 Reasons PTs Recommend Kinesiology Tape for Shoulder Pain Relief and Enhanced Performance](https://www.toetape.com/blogs/news/7-reasons-pts-recommend-kinesiology-tape-for-shoulder-pain-relief-and-enhanced-performance): 7 Reasons PTs Recommend Kinesiology Tape for Shoulder Pain Relief and Enhanced Performance
     Updated: 2025-11-03T19:38:58Z
     Author: ToeTape
+  - [Complete Guide to Bunion Pain Relief for Active Lifestyles: Keep Moving Without Discomfort](https://www.toetape.com/blogs/news/complete-guide-to-bunion-pain-relief-for-active-lifestyles-keep-moving-without-discomfort): Complete Guide to Bunion Pain Relief for Active Lifestyles: Keep Moving Without Discomfort
+    Updated: 2025-11-06T20:00:10Z
+    Author: ToeTape
   - [Understanding Bunions: Causes and Symptoms Explained](https://www.toetape.com/blogs/news/understanding-bunions-causes-symptoms): <p>Bunions are a common foot condition that can lead to discomfort and pain. Understanding the nuances of bunions, their causes, and symptoms is essential for early intervention and effective bunion relief. This article provides a comprehensive overview to help you identify the signs and take the necessary actions for your foot health.</p>
     Updated: 2025-11-03T19:49:33Z
+    Author: ToeTape
+  - [Kinesiology Tape for Bunions: A Modern Alternative to Traditional Treatments](https://www.toetape.com/blogs/news/kinesiology-tape-for-bunions-a-modern-alternative-to-traditional-treatments): Kinesiology Tape for Bunions: A Modern Alternative to Traditional Treatments
+    Updated: 2025-11-09T08:00:04Z
     Author: ToeTape
   - [The Toe Spacer Guide: Benefits, Uses, and Tips for 2025](https://www.toetape.com/blogs/news/the-toe-spacer): Discover the toe spacer benefits, uses, and expert tips for 2025. Improve foot alignment, relieve pain, and enhance mobility with this comprehensive guide.
     Updated: 2025-11-04T08:41:15Z
@@ -471,6 +423,21 @@
     Author: ToeTape
   - [Pain in My Feet: The Essential Guide for Lasting Relief 2025](https://www.toetape.com/blogs/news/pain-in-my-feet): Discover the causes, diagnosis, and proven solutions for pain in my feet. Get expert advice, the latest treatments, and prevention tips for lasting relief in 2025.
     Updated: 2025-11-05T08:21:01Z
+    Author: ToeTape
+  - [Plantar Tape Guide: Expert Tips for Foot Support in 2025](https://www.toetape.com/blogs/news/plantar-tape): Discover expert plantar tape techniques for 2025, including application tips, product comparisons, and the latest innovations for optimal foot support and pain relief.
+    Updated: 2025-11-06T08:20:51Z
+    Author: ToeTape
+  - [Tape for Pain: The Essential Guide for Relief in 2025](https://www.toetape.com/blogs/news/tape-for-pain): Discover the essential 2025 guide on tape for pain, covering how it works, benefits, expert tips, application steps, and the latest trends for effective relief.
+    Updated: 2025-11-07T07:00:17Z
+    Author: ToeTape
+  - [PT Recommended: Exploring the Benefits of Precut Kinesiology Tape for Shoulder Pain in CrossFit and Beyond](https://www.toetape.com/blogs/news/pt-recommended-exploring-the-benefits-of-precut-kinesiology-tape-for-shoulder-pain-in-crossfit-and-beyond): PT Recommended: Exploring the Benefits of Precut Kinesiology Tape for Shoulder Pain in CrossFit and Beyond
+    Updated: 2025-11-07T07:06:09Z
+    Author: ToeTape
+  - [PT Recommended Guide to Using Kinesiology Tape for Shoulder Pain Relief with Waterproof and Precut Options](https://www.toetape.com/blogs/news/pt-recommended-guide-to-using-kinesiology-tape-for-shoulder-pain-relief-with-waterproof-and-precut-options): PT Recommended Guide to Using Kinesiology Tape for Shoulder Pain Relief with Waterproof and Precut Options
+    Updated: 2025-11-10T07:06:40Z
+    Author: ToeTape
+  - [The Anatomy of a Bunion: Understanding the Causes](https://www.toetape.com/blogs/news/anatomy-of-a-bunion-causes-and-relief): <p>Bunions are more than just a common foot condition; they can affect your daily life significantly. More than 23% of adults in the U.S. experience bunions at some point, making awareness about this foot ailment essential. In this comprehensive guide, we will explore the anatomy of bunions, their causes, symptoms, and the available options for relief such as <a href="https://toetape.com/products/bunion-relief-bundle">bunion pads</a>. Understanding bunions can help you take proactive steps to manage and alleviate this condition.</p>
+    Updated: 2025-11-11T20:29:39Z
     Author: ToeTape
 
 ## Store Pages
