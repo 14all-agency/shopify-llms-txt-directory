@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-10T00:00:36.254Z
+- Updated At: 2025-11-12T00:00:40.751Z
 
 ## Products
 
@@ -1517,7 +1517,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress-411.webp?v=1752306804
     Price: € 25,75 EUR
 - [Maxi Jersey hijab – zachte & rekbare jersey hijab | byOumich](https://oumich.com/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Comfortabele jersey hijab met veel lengte voor extra volume. Ideaal voor dagelijks gebruik.
-  Updated: 2025-11-09T08:55:39Z
+  Updated: 2025-11-11T10:05:45Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
@@ -1720,8 +1720,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664849.jpg?v=1760955748
     Price: € 33,70 EUR
-- [Instant Hijab – Zacht, Ademend & Volledige Bedekking - ByOumich](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Praktische instant hijab van zachte, ademende stof. Geeft volledige dekking zonder spelden.
-  Updated: 2025-11-08T15:52:04Z
+- [Instant hijab – zacht, ademend & volle dekking | byOumich](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Praktische instant hijab van zachte, ademende stof. Geeft volledige dekking zonder spelden.
+  Updated: 2025-11-11T10:11:49Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
