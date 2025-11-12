@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-10T00:00:37.589Z
+- Updated At: 2025-11-12T00:00:28.605Z
 
 ## Products
 
@@ -1871,110 +1871,110 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
     Price: €39.99 EUR
 - [Ho Ho Nope Hoodie – Sarcastic Christmas Cat Hoodie](https://lazywhiskers.shop/products/ho-ho-nope-hoodie): When Santa says “Ho Ho Ho,” you say “Nope.” The Ho Ho Nope Hoodie features a grumpy festive cat and peak anti-cheer energy. LazyWhiskers original.
-  Updated: 2025-11-06T03:58:27Z
+  Updated: 2025-11-11T16:42:41Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
   - [Maroon / S](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837114236)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762269745
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762879348
     Price: €39.99 EUR
   - [Maroon / M](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837147004)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762269745
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762879348
     Price: €39.99 EUR
   - [Maroon / L](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837179772)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762269745
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762879348
     Price: €39.99 EUR
   - [Maroon / XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837212540)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762269745
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762879348
     Price: €39.99 EUR
   - [Maroon / 2XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837245308)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762269745
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f9c8cc15-e1fa-4feb-9597-ca850c235267.webp?v=1762879348
     Price: €39.99 EUR
   - [Forest Green / S](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837278076)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762269742
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762879351
     Price: €39.99 EUR
   - [Forest Green / M](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837310844)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762269742
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762879351
     Price: €39.99 EUR
   - [Forest Green / L](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837343612)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762269742
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762879351
     Price: €39.99 EUR
   - [Forest Green / XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837376380)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762269742
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762879351
     Price: €39.99 EUR
   - [Forest Green / 2XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837409148)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762269742
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/663bd371-9e1c-4819-a409-3d65faf96179.webp?v=1762879351
     Price: €39.99 EUR
   - [Dark Chocolate / S](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837441916)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762269744
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762879353
     Price: €39.99 EUR
   - [Dark Chocolate / M](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837474684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762269744
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762879353
     Price: €39.99 EUR
   - [Dark Chocolate / L](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837507452)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762269744
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762879353
     Price: €39.99 EUR
   - [Dark Chocolate / XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837540220)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762269744
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762879353
     Price: €39.99 EUR
   - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837572988)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762269744
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/2a56cede-f086-45aa-bbca-63ca8af6853a.webp?v=1762879353
     Price: €39.99 EUR
   - [Navy / S](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837605756)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762269743
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762879356
     Price: €39.99 EUR
   - [Navy / M](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837638524)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762269743
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762879356
     Price: €39.99 EUR
   - [Navy / L](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837671292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762269743
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762879356
     Price: €39.99 EUR
   - [Navy / XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837704060)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762269743
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762879356
     Price: €39.99 EUR
   - [Navy / 2XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837736828)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762269743
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1aed6d2e-3d13-4412-8d5a-194a467e37e3.webp?v=1762879356
     Price: €39.99 EUR
   - [Black / S](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837769596)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
     Price: €39.99 EUR
   - [Black / M](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837802364)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
     Price: €39.99 EUR
   - [Black / L](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837835132)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
     Price: €39.99 EUR
   - [Black / XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837867900)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
     Price: €39.99 EUR
   - [Black / 2XL](https://lazywhiskers.shop/products/ho-ho-nope-hoodie?variant=55940837900668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762269741
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/f150c096-968f-4c28-96b9-3d1ce27fe493.webp?v=1762879335
     Price: €39.99 EUR
 - [All I Want for Christmas Is a Nap Hoodie – Lazy Cat Xmas Hoodie](https://lazywhiskers.shop/products/all-i-want-for-christmas-is-a-nap-hoodie): For those over holiday chaos. The “All I Want for Christmas Is a Nap” Hoodie features a sleepy festive cat and cozy anti-Christmas energy. LazyWhiskers original
   Updated: 2025-11-06T10:34:13Z
@@ -2564,7 +2564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/70972d8c-f2b1-4f92-af3e-b2cb0b3f2a1a.webp?v=1762612667
     Price: €39.99 EUR
 - [Friends Don’t Lie. Cats Don’t Care T-Shirt | LazyWhiskers](https://lazywhiskers.shop/products/friends-dont-lie-cats-dont-care): Friends don’t lie. Cats don’t care. A sarcastic LazyWhiskers tee for unapologetic cat lovers — vintage-style, limited edition, and designed to disobey.
-  Updated: 2025-11-09T03:14:02Z
+  Updated: 2025-11-11T16:16:19Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2590,7 +2590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
     Price: €24.99 EUR
 - [Enter the Nap Side Down T-Shirt — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/products/enter-the-nap-side-down): Step into the Nap Side Down — where naps rule and reality glitches. Retro rebellion meets cat energy in this Limited Edition LazyWhiskers tee.
-  Updated: 2025-11-09T02:58:54Z
+  Updated: 2025-11-11T16:15:24Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2655,6 +2655,112 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
     Price: €24.99 EUR
+- [Ho Ho Nope](https://lazywhiskers.shop/products/ho-ho-nope): When Santa says “Ho Ho Ho,” you say “Nope.”The Ho Ho Nope Hoodie by LazyWhiskers is the ultimate funny Christmas hoodie for cat lovers with zero patience for festive chaos. Featuring a grumpy black cat surrounded by unwanted holiday cheer, it’s your official uniform for skipping the season — in style.Made from a premium 50/50 cotton-poly blend, this sarcastic Christmas sweatshirt is soft, warm, and built to survive December’s drama. With a double-lined hood, smooth air jet yarn, and rib-knit cuffs, comfort meets rebellion in every stitch.Perfect as a sarcastic gift for cat lovers, anti-Christmas hoodie, or funny holiday outfit for those who’d rather nap than jingle.Designed to disobey. Purrfectly done with Christmas. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
+  Updated: 2025-11-11T16:47:52Z
+  Vendor: LazyWhiskers
+  Product Type: Print Material
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+  - [Maroon / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964697887100)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7e290ea2-e0a3-492e-94e3-a56526133470.webp?v=1762879591
+    Price: €39.99 EUR
+  - [Maroon / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964697919868)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7e290ea2-e0a3-492e-94e3-a56526133470.webp?v=1762879591
+    Price: €39.99 EUR
+  - [Maroon / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964697952636)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7e290ea2-e0a3-492e-94e3-a56526133470.webp?v=1762879591
+    Price: €39.99 EUR
+  - [Maroon / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964697985404)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7e290ea2-e0a3-492e-94e3-a56526133470.webp?v=1762879591
+    Price: €39.99 EUR
+  - [Maroon / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698018172)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/7e290ea2-e0a3-492e-94e3-a56526133470.webp?v=1762879591
+    Price: €39.99 EUR
+  - [Forest Green / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698050940)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fdbb4b37-9be4-432d-a70b-d1bb870bd031.webp?v=1762879592
+    Price: €39.99 EUR
+  - [Forest Green / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698083708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fdbb4b37-9be4-432d-a70b-d1bb870bd031.webp?v=1762879592
+    Price: €39.99 EUR
+  - [Forest Green / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698116476)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fdbb4b37-9be4-432d-a70b-d1bb870bd031.webp?v=1762879592
+    Price: €39.99 EUR
+  - [Forest Green / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698149244)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fdbb4b37-9be4-432d-a70b-d1bb870bd031.webp?v=1762879592
+    Price: €39.99 EUR
+  - [Forest Green / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698182012)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fdbb4b37-9be4-432d-a70b-d1bb870bd031.webp?v=1762879592
+    Price: €39.99 EUR
+  - [Dark Chocolate / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698214780)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1f67c001-8fd8-4712-8725-0a2fe279fe93.webp?v=1762879593
+    Price: €39.99 EUR
+  - [Dark Chocolate / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698247548)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1f67c001-8fd8-4712-8725-0a2fe279fe93.webp?v=1762879593
+    Price: €39.99 EUR
+  - [Dark Chocolate / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698280316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1f67c001-8fd8-4712-8725-0a2fe279fe93.webp?v=1762879593
+    Price: €39.99 EUR
+  - [Dark Chocolate / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698313084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1f67c001-8fd8-4712-8725-0a2fe279fe93.webp?v=1762879593
+    Price: €39.99 EUR
+  - [Dark Chocolate / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698345852)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1f67c001-8fd8-4712-8725-0a2fe279fe93.webp?v=1762879593
+    Price: €39.99 EUR
+  - [Navy / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698378620)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/71b60dad-5e0f-4816-9a2c-399ef95abae9.webp?v=1762879594
+    Price: €39.99 EUR
+  - [Navy / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698411388)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/71b60dad-5e0f-4816-9a2c-399ef95abae9.webp?v=1762879594
+    Price: €39.99 EUR
+  - [Navy / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698444156)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/71b60dad-5e0f-4816-9a2c-399ef95abae9.webp?v=1762879594
+    Price: €39.99 EUR
+  - [Navy / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698476924)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/71b60dad-5e0f-4816-9a2c-399ef95abae9.webp?v=1762879594
+    Price: €39.99 EUR
+  - [Navy / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698509692)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/71b60dad-5e0f-4816-9a2c-399ef95abae9.webp?v=1762879594
+    Price: €39.99 EUR
+  - [Black / S](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698542460)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+    Price: €39.99 EUR
+  - [Black / M](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698575228)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+    Price: €39.99 EUR
+  - [Black / L](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698607996)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+    Price: €39.99 EUR
+  - [Black / XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698640764)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+    Price: €39.99 EUR
+  - [Black / 2XL](https://lazywhiskers.shop/products/ho-ho-nope?variant=55964698673532)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/28053523-d197-4ac9-8845-178c3b84f471.webp?v=1762879590
+    Price: €39.99 EUR
 
 ## Collections
 
@@ -2668,8 +2774,8 @@
   Updated: 2025-11-03T15:44:15Z
   Total Products: 7
 - [Christmas Collection — Designed to Disobey | LazyWhiskers](https://lazywhiskers.shop/collections/christmas-collection): A limited-edition Christmas drop for rebels and cat lovers. Funny tees, sarcastic hoodies, and anti-holiday attitude — because “Merry” isn’t mandatory.
-  Updated: 2025-11-08T15:13:29Z
-  Total Products: 13
+  Updated: 2025-11-11T16:46:22Z
+  Total Products: 14
 - [The Upside Drop — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/collections/the-upside-drop-limited-edition): Limited Edition drop from another dimension. Retro energy, eerie calm, and unapologetic cat-level rebellion. Each piece channels that 80s neon static vibe — designed to disobey.
   Updated: 2025-11-08T15:11:38Z
   Total Products: 4
