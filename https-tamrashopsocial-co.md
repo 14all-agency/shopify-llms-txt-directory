@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Denver
 - Created At: 2021-10-11T00:29:00Z
-- Updated At: 2025-11-12T00:02:11.397Z
+- Updated At: 2025-11-13T00:01:33.840Z
 
 ## Products
 
@@ -104,7 +104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0602/9751/1150/files/printed-flounced-bikini-s-green-bikinis-626.webp?v=1746969707
     Price: $45.00 USD
 - [Summer Embroidered Strapless Dress - Tamra.Shop.Social](https://tamrashopsocial.co/products/women-summer-embroidered-strapless-dress): Main Composition: Cotton Pattern: Floral Element: Lace/Tulle/Fishnet, Patchwork Style: Elegant Fit: Regular Fabric: Cotton Neckline: Sweetheart Sleeve Type: Others Sleeve Length: Sleeveless Product Type :A-Line Dress, Maxi Dress, Tiered Dress Occasion: Daily Dress/Skirt Length: Maxi Season: Summer
-  Updated: 2025-11-11T01:59:51Z
+  Updated: 2025-11-12T05:07:15Z
   Vendor: Tamra.Shop.Social
   Product Type: Dresses
   Availability: Available
@@ -4083,7 +4083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0602/9751/1150/files/aztec-hooded-pullover-fleece-lined-long-sleeve-sweater-s-picture-629.jpg?v=1762827414
     Price: $35.00 USD
 - [Long Sleeve Sweater](https://tamrashopsocial.co/products/long-sleeve-sweater): Introduce a new level of comfort and style with this Polyester Long Sleeve Sweater. Featuring a classic Regular fit and a Solid pattern, this sweater is perfect for everyday casual wear. Additional details such as a Pocket element and a Pull-On design add practicality to this must-have for the Spring/Fall season. Made primarily of Polyester, this Regular top offers both durability and comfort. Elevate your wardrobe with this versatile and stylish staple.
-  Updated: 2025-11-11T00:52:46Z
+  Updated: 2025-11-12T01:27:44Z
   Vendor: Tamra.Shop.Social
   Product Type: Sweatshirts & Hoodies
   Availability: Available
@@ -11151,7 +11151,7 @@
   Updated: 2025-11-11T14:07:18Z
   Total Products: 30
 - [Tamra.Shop.Social - Women's Tank Tops & Camis - Women's Online Clothing Brand](https://tamrashopsocial.co/collections/tank-tops-camis): Tamra.Shop.Social - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - Women's Tank Tops & Camis - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
-  Updated: 2025-11-11T14:24:32Z
+  Updated: 2025-11-12T06:11:19Z
   Total Products: 115
 - [Tamra.Shop.Social - Women's Sweaters & Cardigans - Women's Online Clothing Brand](https://tamrashopsocial.co/collections/sweaters-cardigans): Tamra.Shop.Social - Women’s Sweaters & Cardigans - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
   Updated: 2025-11-11T14:00:02Z
@@ -11196,13 +11196,13 @@
   Updated: 2025-11-11T03:16:58Z
   Total Products: 12
 - [Tamra.Shop.Social - Women's Best Sellers - Women's Online Clothing Brand](https://tamrashopsocial.co/collections/best-sellers): Tamra.Shop.Social - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - Women's Best Sellers - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
-  Updated: 2025-11-11T14:25:16Z
+  Updated: 2025-11-12T06:11:19Z
   Total Products: 1378
 - [Tamra.Shop.Social - Women's Tankinis - Women’s Online Clothing Brand](https://tamrashopsocial.co/collections/tankinis): Tamra.Shop.Social - Women's Tankinis - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
   Updated: 2025-11-11T04:36:21Z
   Total Products: 6
 - [Tamra.Shop.Social - Women's New Arrivals - Women's Online Clothing Brand](https://tamrashopsocial.co/collections/new-arrivals): Tamra.Shop.Social - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - Women's New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
-  Updated: 2025-11-11T14:25:16Z
+  Updated: 2025-11-12T06:11:19Z
   Total Products: 1378
 - [Tamra.Shop.Social - Women's Outfit Sets - Women's Online Clothing Brand](https://tamrashopsocial.co/collections/outfit-sets): Tamra.Shop.Social - Women's Outfit Sets - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
   Updated: 2025-11-11T14:20:40Z
@@ -11214,7 +11214,7 @@
   Updated: 2025-05-10T22:31:17Z
   Total Products: 0
 - [Tamra.Shop.Social - Women's Tops - Women’s Online Clothing Brand](https://tamrashopsocial.co/collections/tops): Tamra.Shop.Social - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - Women's Tops - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
-  Updated: 2025-11-11T14:24:32Z
+  Updated: 2025-11-12T06:11:19Z
   Total Products: 363
 - [Tamra.Shop.Social - Women's Bottoms - Women’s Online Clothing Brand](https://tamrashopsocial.co/collections/bottoms): Tamra.Shop.Social - Women's Bottoms - Women's Online Clothing Brand - tamrashopsocial - Women's Clothing - New Arrivals for women's fashion - Shopping for women's tops, women's bottoms, women's dresses, women's activewear, women's outerwear, women's shoes and accessories. Women's newest and upcoming brand - tamrashopsocial - "Fashion Meant to be Seen".
   Updated: 2025-11-11T14:18:23Z
