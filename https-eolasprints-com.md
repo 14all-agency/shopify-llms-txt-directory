@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-11-13T21:51:42.396Z
+- Updated At: 2025-11-13T21:51:57.598Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1372,6 +1372,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p1s-combo-815.webp?v=1734018524
   Price: €799.00 EUR
+- [Bambu Lab X1c Combo with Camera and Filament Sensor](https://eolasprints.com/products/bambu-lab-x1c-combo): The Bambu Lab X1C Combo from Eolas Prints is a professional 3D printer with AMS. It includes a filament sensor and a chamber monitoring camera for high quality results.
+  Updated: 2025-10-14T21:51:49Z
+  Vendor: Bambu Lab
+  Product Type: 3D Printer
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-x1c-combo-professional-desktop-3d-765.webp?v=1734018076
+  Price: €1,698.61 EUR
 - [Cricut Maker 3 Smart Cutting Machine Products](https://eolasprints.com/products/cricut-maker-3): The Cricut Maker 3 at Eolas Prints cuts 300+ materials like leather and wood. This smart machine is 2x faster and works with Smart Materials for matless cuts.
   Updated: 2025-09-29T23:54:49Z
   Vendor: Cricut
@@ -1694,6 +1701,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-l-3d-printer-orange-677.webp?v=1762256680
   Price: €1,799.00 EUR
+- [Original Prusa Xl Silicone Printing Toolhead](https://eolasprints.com/products/original-prusa-xl-silicone-printing-toolhead): This Filament2 toolhead for the Original Prusa XL enables plug-n-play printing with 2-part liquid materials like real, heat-resistant silicone.
+  Updated: 2025-11-13T21:44:45Z
+  Vendor: Prusa Research
+  Product Type: 3D Printer Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-xl-silicone-printing-toolhead-3d-printer-extruder-284.webp?v=1763070253
+  Price: €999.00 EUR
 
 ## Collections
 
