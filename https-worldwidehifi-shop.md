@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-11-12T00:00:31.957Z
+- Updated At: 2025-11-13T00:00:51.677Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1240,7 +1240,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_75e551f2-50ed-41ab-9a52-ec6424f112bf.jpg?v=1748018062
   Price: 99,00 € EUR
 - [Eupen Audio Line 500cm Stromkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/eupen-audio-line-500cm-stromkabel-gebraucht-kaufen): Eupen Audio Line 500cm Stromkabel gebraucht kaufen ✅ Hochwertiges Netzkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:14Z
+  Updated: 2025-11-12T00:19:54Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1869,13 +1869,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ffb1df0c-ce35-402f-bb37-88eef9dc3212.jpg?v=1755869404
   Price: 8.200,00 € EUR
-- [Clearaudio Concept Dark Wood Plattenspieler kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/clearaudio-concept-dark-wood-plattenspieler-neu-kaufen): Clearaudio Concept Dark Wood Plattenspieler kaufen ✅ Neu und unbenutzt kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:11Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c719ee30-6359-4b29-afb5-e7a122efd18b.jpg?v=1755869472
-  Price: 1.620,00 € EUR
 - [Audioquest NRG X Netzkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioquest-nrg-x-netzkabel-stromkabel-gebraucht-kaufen-1): Audioquest NRG X Netzkabel gebraucht kaufen ✅ Hochwertiges Stromkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:04Z
   Vendor: WorldWideHiFi
@@ -2185,14 +2178,14 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3151c074-39ff-4e5b-bf82-53a3217855a3.jpg?v=1762788526
   Price: 199,00 € EUR
 - [T+A Criterion TCD 610 W SE gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/t-a-criterion-tcd-610-w-se-gebraucht-kaufen): T+A Criterion TCD 610 W SE gebraucht kaufen ✅ Top Subwoofer gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-11-11T18:40:14Z
+  Updated: 2025-11-12T08:25:29Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_410a7382-e291-43fa-99f4-022c74599814.jpg?v=1762788530
   Price: 1.840,00 € EUR
 - [Linn Majik DS Netzwerkplayer gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/linn-majik-ds-netzwerkplayer-digital-streamer-gebraucht-kaufen): Linn Majik DS Netzwerkplayer gebraucht kaufen ✅ Digital Streamer mit FB kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-11-11T18:36:04Z
+  Updated: 2025-11-12T07:56:28Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2213,28 +2206,28 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3f7bb9a1-5853-4435-8bd6-b4588dc6a3fd.png?v=1762788539
   Price: 249,00 € EUR
 - [Mission DAC 5 Full Differential Bitsream Converter D/A Wandler gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mission-dac-5-full-differential-bitsream-converter-gebraucht-kaufen): Mission DAC 5 Full Differential Bitsream Converter D/A Wandler gebraucht kaufen ✅ Hochwertiger D/A Wandler gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:44:56Z
+  Updated: 2025-11-12T09:14:55Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_aca43d0d-6cbd-48df-91c8-44243caf2267.png?v=1762788542
   Price: 189,00 € EUR
 - [Restek MCAB Highend Radio Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/restek-mcab-highend-radio-tuner-gebraucht-kaufen): Restek MCAB Highend Radio Tuner gebraucht kaufen ✅ Hochwertiger Tuner in nahezu neuwertigem Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:50:47Z
+  Updated: 2025-11-12T07:59:34Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5a6d68a9-ce78-40d7-8188-ec885fbe628a.jpg?v=1762788545
   Price: 690,00 € EUR
-- [HighEnd Lautsprecher Canton SE 40 K Special-Edition. Speakers. TOP!](https://worldwidehifi.shop/products/highend-lautsprecher-canton-se-40-k-special-edition-speakers-top): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum Canton Lautsprecher - mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- perfekter technischer Zustand- sicherer Versand in stabiler Verpackung (auf Palette)- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Informationen zum Produkt / Product information Beschreibung: Traumlautsprecher von Canton. Es handelt sich um die Jubiläumsausgabe 40 Jahre Schluderbacher. Testberichte, Erfahrungsberichte und die technischen Daten finden Sie ganz leicht im www. Achtung: ein sicherer Versand dieser wertvollen Stücke ist in Deutschland nur per Spedition möglich. Das ist sehr teuer: Versandkosten, Palette und Verpackungsmaterial (ca. 60 Euro!), Versicherung (alleine ca. 80 Euro!). Besser wäre Selbstabholung - dann können wir Ihnen auch vom Preis her noch besser entgegenkommen. Bitte vereinbaren Sie aber vorher einen Termin. Unsere Nummer finden Sie ganz unten in den Pflichtangaben. Zustand: Die Lautsprecher sind in einem sehr guten Zustand. Fast wie neu, lediglich leichte Putzspuren. Leichte Gebrauchspuren an der Bespannung. Versand: In Deutschland: per Spedition auf Palette, mit Versicherung: 269,00 Euro. Selbstabholung nach Terminvereinbarung möglich. Description: Dream loudspeakers from Canton. This is the 40th anniversary edition from Schluderbacher. Test reports, user reviews, and technical specifications can easily be found at www.The speakers are in very good condition. Almost like new, with only slight cleaning marks. Minor signs of wear on the speaker grille.Shipping: In EU: 489,00 Euro with a forwarder, on a pallet. If you have a cheaper or better solution, please let us know. Please remember that only packaging costs ca. 100 Euros. Only Insurance is ca. 100 Euro....!For shipping with a forwarder we need a working telephonenumber and the buyer should be available.Worldwide: not possible Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung) davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Folien und Magnete, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Kobergerstraße 37, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
-  Updated: 2025-11-11T03:29:13Z
+- [Canton SE 40 K Special-Edition gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/canton-highend-lautsprecher-se-40-k-special-edition-gebraucht-kaufen): Canton SE 40 K Special-Edition gebraucht kaufen ✅ Hochwertige Lautsprecher gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-12T20:29:46Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_5113104a-d180-485c-a1e8-04a511d37881.jpg?v=1762788547
   Price: 2.390,00 € EUR
-- [HighEnd Lautsprecher Bauer LS 3G. Speakers. TOP! Akt. NP: ca. 8400,00 €. Weiß](https://worldwidehifi.shop/products/highend-lautsprecher-bauer-ls-3g-speakers-top-akt-np-ca-8400-00-weiss): Bei ernsthaftem Interesse kann das angebotene Produkt - auch vor einem Kauf - in unserem Hörraum probegehört und technisch von Ihnen überprüft werden! Dafür aber bitte unbedingt einen Termin vorab vereinbaren. Bei Selbstabholung ist außerdem immer ein höherer Preisnachlaß als sonst möglich Your template | Trixum Bauer Lautsprecher - mit Rechnung vom Händler- alle Fotos sind vom angebotenen Produkt- perfekter technischer Zustand- sicherer Versand in stabiler Verpackung (auf Palette)- Alle Geräte können bei ernsthaftem Interesse in unserem Hörraum getestet werden und Sie können sich von der Richtigkeit unserer Angaben überzeugen.Preisnachlaß bei Selbstabholung möglich! Infos gerne auch per Tel. Unsere Nummer finden Sie unten in den Pflichtangaben. .trixum-mx-auto{margin-left:auto;margin-right:auto}.trixum-mb-2{margin-bottom:.5rem}.trixum-text-center{text-align:center}.trixum-img{max-width:100%;-o-object-fit:contain;object-fit:contain} Informationen zum Produkt / Product information Beschreibung: Traumlautsprecher von Bauer. Testberichte, Erfahrungsberichte und die technischen Daten finden Sie ganz leicht im www. Achtung: ein sicherer Versand dieser wertvollen Stücke ist in Deutschland nur per Spedition möglich. Das ist sehr teuer: Versandkosten, Palette und Verpackungsmaterial (ca. 60 Euro!), Versicherung (alleine ca. 80 Euro!). Besser wäre Selbstabholung - dann können wir Ihnen auch vom Preis her noch besser entgegenkommen. Bitte vereinbaren Sie aber vorher einen Termin. Unsere Nummer finden Sie ganz unten in den Pflichtangaben. Zustand: Die Lautsprecher sind in einem sehr guten Zustand. Fast wie neu, lediglich minimalste Gebrauchspuren. Versand: In Deutschland: per Spedition auf Palette, mit Versicherung: 269,00 Euro. Selbstabholung nach Terminvereinbarung möglich. Description: Dream loudspeakers from Bauer Audio. Test reports, user reviews, and technical specifications can easily be found at www.The speakers are in very good condition. Almost like new, with only slight wear. Shipping: In EU: 489,00 Euro with a forwarder, on a pallet. If you have a cheaper or better solution, please let us know. Please remember that only packaging costs ca. 100 Euros. Only Insurance is ca. 100 Euro....!For shipping with a forwarder we need a working telephonenumber and the buyer should be available.Worldwide: not possible Sicher einkaufen Bei einem Händler sind Sie auf der sicheren Seite! Seit dem es das Internet gibt, gab es noch nie so viele Betrugsfälle und Betrugsversuche, wie im Moment! Die Methoden der Betrüger sind mittlerweile so ausgefeilt, dass selbst Profis darauf hereinfallen können. Ein Gewerblicher Händler bietet Ihnen davor Schutz. Er ermöglicht Ihnen: einen persönlichen Telefonkontakt (Nummer im Impressum) eine persönliche Besichtigung vor Ort Selbstabholung Barzahlung nach Probelauf Paypal-Zahlung Rückgaberecht gemäß Fernabsatzgesetz gesetzliche Gewährleistung (AGB´s beachten) Möglicherweise eine Garantie (AGB´s beachten) einen sicheren Versand professionelle Verpackung ... und viele weitere Serviceleistungen Garantiebedingungen und Allgemeine Angaben In unseren Rechnungen wird wegen Differenzbesteuerung KEINE Mehrwertsteuer ausgewiesen. Fragen versuchen wir so schnell wie möglich zu beantworten. Im Einzelfall kann es aber mal zwei bis drei Tage dauern. Keine Garantie für die Angaben im Ebay-Produktkatalog. Für Fragen bitte den entsprechenden Button hier bei Ebay benutzen nicht das Telefon. Verwendete Markennamen sind Eigentum des Herstellers und werden nur verwendet um das Produkt uns seine hervorragende Qualität zu beschreiben. *GARANTIEBEDINGUNGEN: Wenn in unseren Angeboten eine Haltbarkeitsgarantie angegeben ist, dann bleiben Ihre weiteren gesetzlichen Rechte (z. B. Gewährleistung) davon unberührt. Die Garantie umfasst alle technischen Fehlfunktionen, soweit diese nicht durch falschen Gebrauch hervorgerufen wurden. Ausgenommen von der hier dargestellten Garantie sind Batterien, Lautsprechersicken, Folien und Magnete, Laser, CD-Laufwerke und Akkus (auch festinstallierte). Der Garantiegeber ist Harald Leichtle, Kobergerstraße 37, 90408 Nürnberg. Die Garantie ist deutschlandweit und ist auf den oben im Angebot angegebenen Zeitrahmen beschränkt. Zur Prüfung und Abwicklung des Garantiefalles setzen Sie sich bitte telefonisch oder schriftlich mit uns in Verbindung. Zur Prüfung und eventuellen Schadensbehebung muss uns der Kaufgegenstand und eine Kopie der Rechnung kostenfrei zur Verfügung gestellt werden. Ist eine Reperatur oder eine Ersatzlieferung nicht möglich, erhält der Käufer den Kaufpreis zuzüglich Rücksendekosten zurück. Hinweis nach dem Batteriegesetz: Im Zusammenhang mit dem Vertrieb von Batterien oder mit der Lieferung von Geräten, die Batterien enthalten, sind wir verpflichtet, Sie auf folgendes hinzuweisen: Sie sind zur Rückgabe gebrauchter Batterien als Endnutzer gesetzlich verpflichtet. Sie können Altbatterien, die wir als Neubatterien im Sortiment führen oder geführt haben, unentgeltlich an unserem Versandlager (Versandadresse) zurückgeben. Die auf den Batterien abgebildeten Symbole haben folgende Bedeutung: Das Symbol der durchgekreuzten Mülltonne bedeutet, dass die Batterie nicht in den Hausmüll gegeben werden darf. Pb = Batterie enthält mehr als 0,004 Masseprozent Blei. Cd = Batterie enthält mehr als 0,002 Masseprozent Cadmium. Hg = Batterie enthält mehr als 0,0005 Masseprozent Quecksilber. Bitte beachten Sie auch unsere AGB´s und unser Impressum. Beide sind auf dieser Seite hinterlegt. Photos are original. We will try to answer your questions as soon as possible. No guarantee for the informations of the Ebay-catalogue. For questions please use the button here on Ebay.
-  Updated: 2025-11-11T03:29:15Z
+- [Bauer LS 3G gebraucht kaufen - Lautsprecher gebraucht - WorldWideHiFi](https://worldwidehifi.shop/products/bauer-highend-lautsprecher-ls-3g-gebraucht-kaufen): Bauer LS 3G gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
+  Updated: 2025-11-12T20:35:34Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2395,35 +2388,28 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_618877a7-405c-44d9-b911-5e7a3b8b0872.jpg?v=1762788619
   Price: 2.930,00 € EUR
 - [Atoll IN300 Integrated Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/atoll-in300-verstaerker-gebraucht-kaufen): Atoll IN300 Integrated Amplifier gebraucht kaufen ✅ Geprüfter Verstärker gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:16:05Z
+  Updated: 2025-11-12T07:24:54Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_47cc518e-bca9-43d0-86de-72382a798ee4.jpg?v=1762788622
   Price: 1.920,00 € EUR
-- [Atoll Compact Disc Player CD 80 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/atoll-compact-disc-player-cd-80-gebraucht-kaufen): Atoll Compact Disc Player CD 80 gebraucht kaufen ✅ Top CD Player gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:09:51Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_2ab1861e-6be0-4a76-aca9-09ef60fd8b94.jpg?v=1762788625
-  Price: 440,00 € EUR
 - [Klangschale Highendnovum PMR MKII kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/highendnovum-klangschale-pmr-mkii-gebraucht-kaufen): Klangschale Highendnovum PMR MKII kaufen ✅ Hochwertige Klangschale gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:21:55Z
+  Updated: 2025-11-12T08:44:02Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_76286582-f305-42d5-a4b5-1a4f7f6718f1.jpg?v=1762788629
   Price: 1.180,00 € EUR
 - [Klangschale Highendnovum Initium kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/klangschale-highendnovum-initium-gebraucht-kaufen): Klangschale Highendnovum Initium kaufen ✅ Multivocal Resonator gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:27:02Z
+  Updated: 2025-11-12T08:05:10Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_78710dfc-0432-4575-ac62-ee6ee37bbace.jpg?v=1762788630
   Price: 620,00 € EUR
 - [Klangschale Highendnovum Initium gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/klangschale-highendnovum-initium-gebraucht-kaufen-1): Klangschale Highendnovum Initium gebraucht kaufen ✅ Multivocal Resonator gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-11-11T18:30:14Z
+  Updated: 2025-11-12T08:59:29Z
   Vendor: WorldWideHiFi
   Product Type: 
   Availability: Available
@@ -2440,8 +2426,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
 ## Collections
 
 - [Gebrauchte Lautsprecher kaufen, HiFi Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecher-kaufen): Gebrauchte Lautsprecher kaufen ✓ Standlautsprecher, Aktivlautsprecher, Lautsprecherboxen & mehr im Top-Zustand ✓ Sicherer Versand ✓ High-End HiFi günstig
-  Updated: 2025-11-11T18:38:46Z
-  Total Products: 49
+  Updated: 2025-11-12T20:33:58Z
+  Total Products: 51
 - [Gebrauchte Kopfhörer kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-kopfhoerer-kaufen): Gebrauchte Kopfhörer kaufen ✓ High-End-Kopfhörer, On-Ear-Kopfhörer & mehr im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
@@ -2473,7 +2459,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-11-11T18:07:38Z
+  Updated: 2025-11-12T12:22:01Z
   Total Products: 33
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-11-11T18:34:05Z
@@ -2506,8 +2492,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-11-11T22:06:32Z
-  Total Products: 127
+  Updated: 2025-11-12T20:21:32Z
+  Total Products: 129
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-11-10T15:29:41Z
   Total Products: 23
