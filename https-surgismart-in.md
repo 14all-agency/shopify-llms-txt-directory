@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-12T00:00:31.121Z
+- Updated At: 2025-11-13T00:00:42.091Z
 
 ## Products
 
@@ -3134,7 +3134,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/medtech-needle-burner-syringe-destroyer-524534.webp?v=1759478806
   Price: ₹2,749.00 INR
 - [Buy ​Medtech Compressor Nebulizer Handyneb Smart - Surgismart](https://surgismart.in/products/medtech-nebulizer-handyneb-smart): Keep your respiratory problems at bay with MEDTECH Handyneb Smart Nebulizer - A compact and powerful nebulizer ideal for patients experiencing respiratory conditions like asthma, COPD, sinus, and most respiratory conditions. MANUFACTURED BY MEDTECH LIFE - INDIA'S LARGEST MANUFACTURER OF NEBULIZERS Medtech Nebulizers are the best quality nebulisers in the industry with industry leading technology and innovation. Powerful Piston Compressor:The Medtech Nebulizer has a powerful piston compressor that is meant for long time use and lasts long. The nebuliser is designed specifically to last long in Indian weather conditions. Integrated Baffle Design:We at Medtech wanted to make nebulization hassle free and hence we innovated with the baffle in the medicine cup. While other brands offer a loose baffle which is a tiny part in the medicine cup and can get lost which completely stops the nebulization, We came up with an innovative integrated baffle design ensures that you never lose any parts of the nebulization cup, thus letting you have a hassle-free usage of the product. BPA Free:All Medtech Nebulizers are completely BPA FREE making them extremely safe to use. Safety Fuse:Adding to the safety, Medtech Nebulizers also have a safety fuse in the device to protect you from any current fluctuations adding to the complete safety. Light Weight:The Medtech Handyneb Smart weighs just 1.5kgs which is really light and easy to carry around. Handle Design:The Medtech Handyneb Smart also has a handle integrated in the body which makes it convenient to carry around. Full Nebulization Kit Included:All Medtech Nebulizers come with the complete Nebulization Kit included in the package. You get an Adult Mask, A Child Mask, A Mouth Piece, A Baffle-Integrated Medicine Bottle, Air Tube all included in the box. Choose Good Health for you and your family with Medtech! Caring for Life! Warranty and Repair Customer satisfaction is our first priority • Hassle-free 2 year warranty• In case of any repair or service requirements, just scan the QR code and fill the form, its that simple! We will offer FREE pick up and return right from your doorstep! - Surgismart
-  Updated: 2025-10-03T08:06:47Z
+  Updated: 2025-11-12T04:19:56Z
   Vendor: Medtechlife
   Product Type: Nebulizers
   Availability: Available
@@ -3208,7 +3208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic New Gen Scrubsuit, Free Head Cap & Mask](https://surgismart.in/products/classic-new-gen-scrubsuit): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. 🩺 Practical Storage: Designed for convenience, this set includes a total of 2 practical pockets Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-11-11T15:58:04Z
+  Updated: 2025-11-12T11:33:38Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-11T12:18:22Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3316,7 +3316,7 @@
   Updated: 2025-09-17T11:15:46Z
   Total Products: 65
 - [Buy ​Medtech - Surgismart](https://surgismart.in/collections/medtech): - Surgismart
-  Updated: 2025-09-28T11:46:14Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 11
 - [Buy ​Surgical Instruments - Surgismart](https://surgismart.in/collections/surgical-instruments): - Surgismart
   Updated: 2025-08-01T11:05:29Z
@@ -3334,13 +3334,13 @@
   Updated: 2025-10-13T11:20:32Z
   Total Products: 266
 - [Buy ​BP Monitors - Surgismart](https://surgismart.in/collections/bp-monitors): - Surgismart
-  Updated: 2025-09-28T11:01:49Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 6
 - [Buy ​Omron - Surgismart](https://surgismart.in/collections/omron): - Surgismart
-  Updated: 2025-08-01T11:05:29Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 6
 - [Buy ​Medical Devices - Surgismart](https://surgismart.in/collections/medical-devices): - Surgismart
-  Updated: 2025-11-10T12:17:21Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 38
 - [Buy ​Nebulizer - Surgismart](https://surgismart.in/collections/nebulizer): - Surgismart
   Updated: 2025-09-28T11:47:25Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-11T12:18:22Z
+  Updated: 2025-11-12T12:17:28Z
   Total Products: 5
 
 ## Blogs
