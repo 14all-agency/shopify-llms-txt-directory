@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-11-12T00:00:24.565Z
+- Updated At: 2025-11-13T00:00:22.259Z
 
 ## Products
 
@@ -366,6 +366,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/FullSizeRender_bd38ae80-52d2-4d36-8187-9455b988e8ca.jpg?v=1729666234
   Price: 289,90 € EUR
+- [AT10 Luxury GENIUS 18K Alum 2025 par Agustín Tapia](https://www.mypropadelshop.fr/products/at10-luxury-genius-18k-alum-2025-par-agustin-tapia): NOX AT10 Luxury Genius 18K Alum 2025 – La raquette d’Agustín Tapia pour un padel de précision et de puissance Résumé La NOX AT10 Luxury Genius 18K Alum 2025, développée en collaboration avec Agustín Tapia, marque une avancée majeure dans l’innovation du padel moderne. Avec un nouveau moule, des matériaux premium et des technologies de pointe, elle allie vitesse, contrôle et stabilité pour offrir des performances d’élite à chaque frappe. Plus d’équilibre et de vitesse Les bords profilés ont été repensés pour optimiser l’aérodynamisme, tandis que le grip allongé facilite la prise en main. L’innovation clé, la technologie EOS Flap, introduit des perforations latérales qui améliorent la maniabilité et redistribuent le poids, garantissant une raquette rapide, fluide et létale entre vos mains. Confortable, solide et fiable La fibre de carbone aluminisée 18K Alum associée au noyau multicouche MLD Black EVA confère à cette raquette une sensation douce mais ferme, idéale pour les frappes puissantes et précises. Ce mélange assure une stabilité remarquable et une résistance accrue aux variations de température, offrant ainsi une constance de jeu optimale quelles que soient les conditions. Moins de vibrations, plus d’adhérence Le manche bénéficie d’une conception axée sur le confort et la performance. Le Pulse System, composé de deux bandes de caoutchouc, absorbe efficacement les vibrations à l’impact. Par ailleurs, la technologie brevetée NOX Custom Grip®, certifiée par Testea Padel, améliore la préhension et réduit la fatigue musculaire, offrant un contrôle parfait sur la durée. Sécurité et personnalisation Le système Smartstrap® a été repensé sous forme d’une pièce compacte pour offrir plus de solidité, de sécurité et d’hygiène. Cette dragonne remplaçable permet une personnalisation facile et s’adapte parfaitement à vos besoins, sans compromettre la structure de la raquette. AT10 Luxury Genius 18K Alum ou 12K ? Les deux modèles, issus de la collaboration avec Agustín Tapia, partagent le même moule, le même noyau et les mêmes innovations. Seul le matériau de la face les distingue : 18K Alum → sensation intermédiaire, combinant puissance et confort. 12K → sensation plus rigide, privilégiant un contrôle absolu. Caractéristiques techniques Forme : Hybride / Goutte d’eau Équilibre : Moyen Structure : Fibre de carbone aluminisée 18K Alum Noyau : MLD Black EVA multicouche Technologies : EOS Flap, Pulse System, NOX Custom Grip®, Smartstrap® Catégorie : Polyvalente / Compétition Joueur : Agustín Tapia Marque : NOX Année : 2025 Pour quel type de joueur ? La NOX AT10 Luxury Genius 18K Alum 2025 s’adresse aux joueurs avancés et professionnels cherchant une raquette polyvalente, rapide et stable. Elle convient à ceux qui veulent maîtriser le rythme du jeu grâce à une frappe équilibrée, précise et confortable. Passez à l’action Dominez vos matchs avec la NOX AT10 Luxury Genius 18K Alum 2025 et ressentez la combinaison parfaite entre technologie, puissance et précision signée Agustín Tapia.
+  Updated: 2025-11-12T18:56:36Z
+  Vendor: Pro Padel Toulouse
+  Product Type: Raquette
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/FullSizeRender_4a6ec995-e12f-4eda-8572-92cb3ad3fe01.jpg?v=1729666344
+  Price: 199,90 € EUR
 - [AT Luxury ATTACK 18K Alum 2025 par Agustín Tapia](https://www.mypropadelshop.fr/products/at-luxury-attack-18k-alum-2025-par-agustin-tapia): NOX AT Luxury Attack 18K Alum 2025 – La raquette d’Agustín Tapia pour une attaque totale Résumé Développée en collaboration avec Agustín Tapia pour la saison 2025, la NOX AT Luxury Attack 18K Alum est destinée aux joueurs offensifs cherchant une puissance maximale et une précision chirurgicale. Avec son format diamant et ses technologies de pointe, elle offre un contrôle total du jeu et une sensation unique de vitesse et d’agressivité sur le terrain. Plus d’équilibre et de vitesse La raquette bénéficie d’un design repensé pour une meilleure aérodynamique. Ses bords profilés et son grip allongé favorisent une prise en main fluide et rapide. L’innovation majeure réside dans la technologie EOS Flap : des perforations latérales qui améliorent la maniabilité et redistribuent le poids pour offrir une raquette rapide, stable et létale entre vos mains. Confortable, solide et fiable La combinaison de la fibre de carbone 18K aluminisée et de la mousse multicouche MLD Black EVA procure un toucher à la fois ferme et confortable. Ce mélange assure une réponse précise, une excellente durabilité et une sensation mi-dure idéale pour un jeu d’attaque maîtrisé. Moins de vibrations, plus de contrôle Le manche de la raquette a été optimisé pour offrir une meilleure absorption des vibrations et une adhérence renforcée. La technologie Pulse System intègre deux bandes absorbantes, tandis que le NOX Custom Grip®, certifié par Testea Padel, augmente la préhension et réduit la fatigue du bras. Sécurité et personnalisation La NOX AT Luxury Attack 18K Alum 2025 intègre le système exclusif Smartstrap®, une dragonne remplaçable et renforcée conçue pour offrir plus de sécurité, hygiène et personnalisation. Sa nouvelle conception compacte améliore la solidité et la durabilité de la fixation. Caractéristiques techniques Forme : Diamant Structure : Carbone 18K aluminisé Noyau : MLD Black EVA multicouche Technologies : EOS Flap, Pulse System, NOX Custom Grip®, Smartstrap® Équilibre : En tête Catégorie : Offensif / Compétition Joueur : Agustín Tapia Marque : NOX Année : 2025 Pour quel type de joueur ? La NOX AT Luxury Attack 18K Alum 2025 est idéale pour les joueurs avancés et professionnels en quête d’une raquette puissante, précise et stable. Conçue pour un jeu d’attaque agressif, elle combine vitesse, solidité et confort pour dominer les échanges les plus intenses. Passez à l’action Entrez dans une nouvelle dimension du padel avec la NOX AT Luxury Attack 18K Alum 2025 et vivez l’expérience du padel du futur.
   Updated: 2025-11-05T14:22:53Z
   Vendor: Pro Padel Toulouse
@@ -600,8 +607,8 @@
   Updated: 2025-11-05T11:06:11Z
   Total Products: 0
 - [Raquettes](https://www.mypropadelshop.fr/collections/raquettes): Découvrez notre sélection de raquettes de padel : puissance, précision et confort pour tous les niveaux. Trouvez la raquette idéale parmi les plus grandes marques et améliorez votre jeu dès maintenant.
-  Updated: 2025-11-05T14:22:51Z
-  Total Products: 22
+  Updated: 2025-11-12T18:57:06Z
+  Total Products: 23
 - [Raquettes Siux](https://www.mypropadelshop.fr/collections/raquettes-siux): Explorez l’univers Siux, marque de référence en padel. Des raquettes alliant technologie, puissance et contrôle pour un jeu explosif et précis. Que vous soyez amateur ou pro, trouvez la Siux qui libérera tout votre potentiel sur le court.
   Updated: 2025-11-05T11:05:26Z
   Total Products: 2
@@ -609,8 +616,8 @@
   Updated: 2025-11-05T11:06:48Z
   Total Products: 3
 - [Raquettes Nox](https://www.mypropadelshop.fr/collections/raquettes-nox): Explorez l’univers Nox : des raquettes de padel alliant puissance, contrôle et innovation. Conçues pour offrir des performances de haut niveau, elles garantissent sensations, précision et durabilité à chaque frappe. Choisissez l’excellence signée Nox.
-  Updated: 2025-11-05T14:22:51Z
-  Total Products: 10
+  Updated: 2025-11-12T18:57:06Z
+  Total Products: 11
 - [Raquettes Adidas](https://www.mypropadelshop.fr/collections/raquettes-adidas): Explorez les raquettes de padel Adidas : innovation, performance et design au service de votre jeu. Que vous cherchiez puissance, contrôle ou équilibre parfait, les technologies Adidas vous offrent la précision et la confiance pour dominer le court.
   Updated: 2025-11-05T11:00:23Z
   Total Products: 5
@@ -648,8 +655,8 @@
   Updated: 2025-11-05T14:14:42Z
   Total Products: 2
 - [Tous les produits](https://www.mypropadelshop.fr/collections/tous-les-produits)
-  Updated: 2025-11-10T12:14:49Z
-  Total Products: 48
+  Updated: 2025-11-12T18:57:06Z
+  Total Products: 49
 - [Edition Limitée](https://www.mypropadelshop.fr/collections/edition-limitee): Découvrez la collection Édition Limitée : exclusivité, style et performance réunis dans des produits d’exception. Conçus pour les passionnés en quête d’originalité et de technologie haut de gamme, ces modèles rares allient design unique et prestige sportif.
   Updated: 2025-11-06T08:47:49Z
   Total Products: 1
