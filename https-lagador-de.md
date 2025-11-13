@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-08-09T12:53:41Z
 - Contact Email: info@pureholisticbeauty.de
-- Updated At: 2025-11-10T00:20:09.694Z
+- Updated At: 2025-11-13T00:00:22.589Z
 
 ## Products
 
