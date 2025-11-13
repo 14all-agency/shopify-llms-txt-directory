@@ -6,12 +6,11 @@
 - Timezone: Europe/Bucharest
 - Created At: 2020-01-24T12:14:18Z
 - Contact Email: info@inotex.ro
-- Updated At: 2025-11-13T12:00:18.432Z
+- Updated At: 2025-11-13T12:21:03.900Z
 
 ## Products
 
 - [Halat Medical Barbatesc - Confort și Stil](https://inotex.ro/products/halat-medical-barbatesc): Alege halatul medical bărbătesc perfect pentru tine. Practic, cu 3 buzunare și închidere prin capse, oferă confort și stil. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-13T06:44:00Z
   Vendor: Inotex
   Product Type: Halat barbatesc
   Availability: Available
@@ -41,7 +40,6 @@
     Availability: Available
     Price: 92,00 lei RON
 - [Halat Medical Pragmatic - Confort & Stil](https://inotex.ro/products/halat-medical-cu-maneca-scurt): Descoperă halatul medical cu mânecă scurtă, ideal pentru confortul zilnic la lucrul. Ușor de purtat, cu închidere rapidă prin capse. Alege favoritul pe Inotex
-  Updated: 2025-10-20T17:50:48Z
   Vendor: Inotex
   Product Type: Halat medical dama
   Availability: Available
@@ -247,7 +245,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/55bc2095186cf1ece42e8a2f8ef3614e.jpg?v=1644431917
     Price: 85,00 lei RON
 - [Halat Medical Alb Cu Maneca Lunga - Inotex.ro](https://inotex.ro/products/halat-medical-alb-cu-maneca-lunga): Halat medical cu maneca lunga, perfect pentru confortul zilelor de lucru. Dispune de buzunare si inchidere practica. Comanda acum!
-  Updated: 2025-11-11T20:42:55Z
   Vendor: Inotex
   Product Type: Halat medical dama
   Availability: Available
@@ -277,7 +274,6 @@
     Availability: Available
     Price: 92,00 lei RON
 - [Pantaloni Medicali Dama - Inotex.ro](https://inotex.ro/products/pantaloni-medicali-dama): Alege un pantalon medical perfect pentru tine! Cu două buzunare interioare, șnur și elastic ce asigura un ajustaz perfect și un tipar regular confortabil.
-  Updated: 2025-11-12T16:30:06Z
   Vendor: Inotex
   Product Type: Pantalon compleu
   Availability: Available
@@ -483,7 +479,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/93fe6aa39df71ac635e3959b4f43dcbc.jpg?v=1665647670
     Price: 60,00 lei RON
 - [Pantalon Medical Barbatesc - Inotex.ro](https://inotex.ro/products/pantalon-medical-barbatesc): Stil și funcționalitate reunite într-un singur produs! Alege pantalonul medical barbatesc pentru zile confortabile la locul de munca. Vezi produsul pe Inotex.ro
-  Updated: 2025-11-10T16:05:10Z
   Vendor: Inotex
   Product Type: Pantalon compleu
   Availability: Available
@@ -689,7 +684,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/cb47a2c241c287ed8643afed8366d4a1.jpg?v=1644432402
     Price: 60,00 lei RON
 - [Halat Polar Medical - Inotex.ro](https://inotex.ro/products/halat-polar-medical): Confortabil, călduros și cu un tipar drept, este alegerea ideală. Comandă acum Halatul Polar Medical pentru zilele răcoroase. Îl găsești pe Inotex.ro!
-  Updated: 2025-11-12T13:27:00Z
   Vendor: Inotex
   Product Type: Halat polar
   Availability: Available
@@ -895,7 +889,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/cf9bdc2812af99caf9bd14cbd24ca39a.png?v=1760689130
     Price: 100,00 lei RON
 - [Halat Medical Thea: Eleganță și Confort](https://inotex.ro/products/halat-medical-thea): Descoperă Halatul Medical Thea: mânecă scurtă, 3 buzunare, închidere prin capse, ajustaj cambrat și design elegant. Ideal pentru zile de muncă.
-  Updated: 2025-11-04T15:17:46Z
   Vendor: Inotex
   Product Type: Halat tunica
   Availability: Available
@@ -933,7 +926,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/NewProject_8.jpg?v=1702473387
     Price: 90,00 lei RON
 - [Halat Medical Alb Cu Maneca Scurta - Inotex.ro](https://inotex.ro/products/halat-medical-alb-cu-maneca-scurta): Ești în căutarea unui halat medical cu maneca scurta confortabil și practic? Acesta este alegerea perfectă. Alege modelul favorit pe Inotex.ro
-  Updated: 2025-11-07T11:51:31Z
   Vendor: Inotex
   Product Type: Halat medical dama
   Availability: Available
@@ -963,7 +955,6 @@
     Availability: Available
     Price: 85,00 lei RON
 - [Halat Medical Barbatesc Harly- Inotex.ro](https://inotex.ro/products/halat-medical-barbatesc-harly): Revitalizează atmosfera la serviciu cu Halatul Medical Harly, simbol al confortului și funcționalității. Descoperă stilul redefinit pe Inotex.ro!
-  Updated: 2025-10-20T08:25:46Z
   Vendor: Inotex
   Product Type: halat barbati nasturi
   Availability: Available
@@ -993,7 +984,6 @@
     Availability: Not Available
     Price: 95,00 lei RON
 - [Halat Medical Kira - Inotex.ro](https://inotex.ro/products/halat-medical-kira): Transformă-ți experiența la locul de muncă cu Halatul Medical Kira - simbol al confortului și funcționalității. Redefinește-ți look-ul pe Inotex.ro!
-  Updated: 2025-11-02T14:18:46Z
   Vendor: Inotex
   Product Type: halat nasturi dama
   Availability: Available
@@ -1017,7 +1007,6 @@
     Availability: Available
     Price: 95,00 lei RON
 - [Jacheta Polar Dama - Inotex.ro](https://inotex.ro/products/jacheta-polar-dama): Comandă acum Jacheta Polar pentru dama, o opțiune elegantă, calduroasă și extrem de confortabilă. Ideală pentru zilele reci. Alege favorita pe Inotex.ro
-  Updated: 2025-11-13T03:55:26Z
   Vendor: Inotex
   Product Type: Jacheta Polar
   Availability: Available
@@ -1223,7 +1212,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/NewProject_5.jpg?v=1735898480
     Price: 100,00 lei RON
 - [Boneta medicala](https://inotex.ro/products/boneta): Boneta medicala unisex cu inchidere posterioara prin legare. COMPOZIȚIE MATERIAL 65% PES 35% Bumbac Material: Tercot DENSITATE MATERIAL Densitate intre 165 gr/ mp si 195 gr/ mp in functie de materialul de pe stoc Precizăm faptul că monitorul poate distorsiona ușor nuanța reală, ea poate fi mai închisă sau mai deschisă.
-  Updated: 2025-11-07T21:42:25Z
   Vendor: Inotex
   Product Type: Boneta
   Availability: Available
@@ -1307,7 +1295,6 @@
     Availability: Available
     Price: 20,00 lei RON
 - [Costum Medical Inotex - Confort și Utilitate](https://inotex.ro/products/costum-inotex): Descoperă Costumul Inotex: bluză cu 3 buzunare și pantalon cu ajustaj perfect. Ideal pentru zilele lungi de muncă. Confort maxim, stil unic.
-  Updated: 2025-11-12T06:30:36Z
   Vendor: Inotex
   Product Type: Compleu
   Availability: Available
@@ -1513,7 +1500,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/66ffa53ae3ae9f8b2a0d2f06cb1e2d39.jpg?v=1644431366
     Price: 119,00 lei RON
 - [Compleu Kimi](https://inotex.ro/products/compleu-medical-kimi): Bluza medicală Kimi este confortabilă și practică pentru zilele de muncă. Un buzunar la piept și două buzunare laterale utile îți vor permite să ții la îndemână obiectele esențiale, iar prinderea prin cordon al taliei îți asigura un ajustaj perfect. Pantalonul este confortabil și practic, cu două buzunare utile și prindere prin snur și elastic în talie. Alege acest set medical pentru a te îmbrăca confortabil și practic în timpul zilelor de muncă. Compozitie: 65% poliester, 35% bumbac recomandam spalarea la o temperatura de pâna la 40 ° C Precizăm faptul că monitorul/ecranul poate distorsiona nuanța reală, ea poate fi mai închisă sau mai deschisă.
-  Updated: 2025-11-10T13:58:00Z
   Vendor: Inotex
   Product Type: Compleu Kimi
   Availability: Available
@@ -1719,7 +1705,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/25aa89d7f7ca178b172fd7f68a63a75f.png?v=1648027764
     Price: 130,00 lei RON
 - [Costum Medical Bărbătesc - Eleganță și Confort pe Inotex.ro](https://inotex.ro/products/costum-medical-barbatesc-inotex): Descoperă Costumul Medical Barbătesc Inotex. Ajustaj perfect, confort și stil pentru profesioniști. Alege nuanța ta!
-  Updated: 2025-11-13T01:18:45Z
   Vendor: Inotex
   Product Type: Compleu
   Availability: Available
@@ -1885,7 +1870,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/57047c8331daee55f481c4deb34adeb5.jpg?v=1644431941
     Price: 119,00 lei RON
 - [Bluza medicala cu fermoar Laura - Elegantă și confortabilă](https://inotex.ro/products/bluza-cu-fermoar-2): Descoperiți bluza medicală cu fermoar Laura, cu trei buzunare și un design cambrat perfect pentru orice profesie.
-  Updated: 2025-11-03T13:50:30Z
   Vendor: Inotex
   Product Type: bluza cu fermoar
   Availability: Available
@@ -2091,7 +2075,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/3e8a6f90cc495c5b2e98b0c36823b52c.png?v=1644432130
     Price: 70,00 lei RON
 - [Bluza Medicală Cu Stil & Confort](https://inotex.ro/products/bluza-compleu): Descoperă bluza medicală ideală: 3 buzunare mari, confort & modele cu nuanțe autentice pentru profesioniștii din sănătate!
-  Updated: 2025-11-10T16:05:11Z
   Vendor: Inotex
   Product Type: Bluza compleu
   Availability: Available
@@ -2297,7 +2280,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/91b9c94f94e1b81675f32e9f11df3637.png?v=1702282742
     Price: 60,00 lei RON
 - [Compleu Laura - Ținută Chic și Confortabilă](https://inotex.ro/products/compleu-laura-1): Descoperă Compleu Laura: bluză și pantalon elegant, cu spațiu suficient și stil. Ideal pentru zilele de muncă.
-  Updated: 2025-11-07T07:19:11Z
   Vendor: Inotex
   Product Type: Compleu cu fermoar
   Availability: Available
@@ -2495,7 +2477,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/a0f6eb0bdf123277e0eb590c373d0658.jpg?v=1644432247
     Price: 126,00 lei RON
 - [Costum Medical cu Fermoar Laura - Inotex.ro](https://inotex.ro/products/compleu-laura): Alege Compleul Laura, un costum medical cu fermoar elegant și confortabil, perfect pentru zilele de muncă!
-  Updated: 2025-11-07T07:19:12Z
   Vendor: Inotex
   Product Type: Compleu cu fermoar
   Availability: Available
@@ -2701,7 +2682,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/0309ab433056de7039ed49f428f997d3_e122488a-3e0f-46eb-bc3a-4d36f1ca37e3.jpg?v=1644432327
     Price: 126,00 lei RON
 - [Bluza Medicala Dama - Confort si Stil la Locul de Muncă](https://inotex.ro/products/bluza-medicala-4): Alege bluza medicala dama din materiale de calitate, cu 3 buzunare spațioase și tipar confortabil pentru ziua de lucru.
-  Updated: 2025-11-04T08:28:36Z
   Vendor: Inotex
   Product Type: Bluza
   Availability: Available
@@ -2907,7 +2887,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/32d027a6bea0f3c2511dc56f4d541ed8.png?v=1644432432
     Price: 60,00 lei RON
 - [Bluza medicală Laura cu fermoar și trei buzunare](https://inotex.ro/products/bluza-medicala-laura): Descoperă bluza medicală Laura, cu fermoar și buzunare, perfectă pentru confort și stil! Ideală pentru profesioniști.
-  Updated: 2025-10-31T19:16:51Z
   Vendor: Inotex
   Product Type: bluza cu fermoar
   Availability: Available
@@ -3113,7 +3092,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/f7547998554157e48f71455051fe760b.jpg?v=1644433091
     Price: 70,00 lei RON
 - [Compleu Kimi](https://inotex.ro/products/compleu-kimi): Bluza medicală Kimi este confortabilă și practică pentru zilele de muncă. Un buzunar la piept și două buzunare laterale utile îți vor permite să ții la îndemână obiectele esențiale, iar prinderea prin cordon al taliei îți asigura un ajustaj perfect. Pantalonul este confortabil și practic, cu două buzunare utile și prindere prin snur și elastic în talie. Alege acest set medical pentru a te îmbrăca confortabil și practic în timpul zilelor de muncă. Compozitie: 65% poliester, 35% bumbac recomandam spalarea la o temperatura de pâna la 40 ° C Precizăm faptul că monitorul/ecranul poate distorsiona nuanța reală, ea poate fi mai închisă sau mai deschisă.
-  Updated: 2025-11-08T21:56:05Z
   Vendor: Inotex
   Product Type: Compleu Kimi
   Availability: Available
@@ -3319,7 +3297,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/b3faf1c122ce8d70ced062fcea163e0b.png?v=1644432612
     Price: 130,00 lei RON
 - [Costum Medical Barbatesc - Inotex.ro](https://inotex.ro/products/costum-barbatesc-inotex): Descoperă Costumul Medical Bărbătesc Inotex: eleganță, confort și practicitate pentru zilele de muncă. Perfect ajustabil, cu buzunare utile. Alege acum!
-  Updated: 2025-11-13T07:27:26Z
   Vendor: Inotex
   Product Type: Compleu
   Availability: Available
@@ -3525,7 +3502,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/84851b9ffad2d4687fa17359b99296ee.jpg?v=1644432643
     Price: 119,00 lei RON
 - [Halat Polar Barbatesc - Inotex.ro](https://inotex.ro/products/halat-polar-barbati): Halatul Polar Barbatesc perfect pentru perioada mai răcoroasă a anului. Confortabil și călduros. Alege culoarea favorita pe Inotex.ro
-  Updated: 2025-11-12T13:27:26Z
   Vendor: Inotex
   Product Type: Halat polar
   Availability: Available
@@ -3731,7 +3707,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/f5434752821413056799fe1c74afee10.jpg?v=1644431454
     Price: 100,00 lei RON
 - [Bluza Medicala Kimi](https://inotex.ro/products/bluza-medicala-kimi): Bluza medicală Kimi este confortabilă și practică pentru zilele de muncă. Un buzunar la piept și două buzunare laterale utile îți vor permite să ții la îndemână obiectele esențiale, iar prinderea prin cordon al taliei îți asigura un ajustaj perfect. Compozitie: 65% poliester, 35% bumbac recomandam spalarea la o temperatura de pâna la 40 ° C
-  Updated: 2025-11-12T20:14:36Z
   Vendor: Inotex
   Product Type: Bluza Kimi
   Availability: Available
@@ -3937,7 +3912,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/25aa89d7f7ca178b172fd7f68a63a75f_1460110d-ad97-471d-a019-d6418ea205d4.png?v=1652333617
     Price: 70,00 lei RON
 - [Bluza Medicala Kimono](https://inotex.ro/products/bluza-medicala-kimono): Bluza medicală Kimi este confortabilă și practică pentru zilele de muncă. Două buzunare laterale utile îți vor permite să ții la îndemână obiectele esențiale, iar prinderea prin cordon al taliei îți asigura un ajustaj perfect. Compozitie: 65% poliester, 35% bumbac recomandam spalarea la o temperatura de pâna la 40 ° C
-  Updated: 2025-11-11T11:53:06Z
   Vendor: Inotex
   Product Type: Bluza Kimi
   Availability: Available
@@ -4137,7 +4111,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/c7323bd858bda3e2deec80c2cbce0c36_d1b7dff5-1092-42f6-95be-1c305588c788.png?v=1652346461
     Price: 70,00 lei RON
 - [Bluza Medicala Elastica Leon - Confort si Stil](https://inotex.ro/products/bluza-medicala-leon): Descoperă Bluza Medicala Elastica Leon, cu mânecă scurtă, guler anchior și buzunare franțuzești. Ideală pentru confortul tău zilnic.
-  Updated: 2025-11-08T17:58:12Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -4269,7 +4242,6 @@
     Availability: Available
     Price: 90,00 lei RON
 - [Bluza Medicala Elastica Amy - Inotex.ro](https://inotex.ro/products/bluza-medicala-elastica-amy): Ieși în evidență cu un aspect profesional și bucură-te de confortul absolut în Bluza medicala elastica amy. Alege combinația perfectă între stil și bunăstare!
-  Updated: 2025-11-08T22:00:06Z
   Vendor: Inotex
   Product Type: Bluza Amy
   Availability: Available
@@ -4475,7 +4447,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A5319.jpg?v=1725264796
     Price: 100,00 lei RON
 - [Jacheta din polar bărbătească - Confort și stil](https://inotex.ro/products/jacheta-din-polar-barbateasca): Alege jacheta din polar bărbătească pentru confort și protecție în zilele reci. Guler înalt și buzunare practice.
-  Updated: 2025-11-08T22:00:05Z
   Vendor: Inotex
   Product Type: Jacheta Polar Barbati
   Availability: Available
@@ -4631,7 +4602,6 @@
     Availability: Not Available
     Price: 99,00 lei RON
 - [Pantalon Medical Elastic Amy - Inotex.ro](https://inotex.ro/products/pantalon-medical-elastic-amy): Descoperă Pantalonul Medical Amy: combinația perfectă între funcționalitate și stil. Material elastic, talie reglabilă și buzunare spațioase.
-  Updated: 2025-11-08T22:00:07Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -4829,7 +4799,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A5185_1ed4511c-0ee2-4c6b-98db-77598c5387a5.jpg?v=1723470030
     Price: 100,00 lei RON
 - [Pantaloni Medicali Elastici Leon - Inotex.ro](https://inotex.ro/products/pantalon-medical-elastic-leon): Descoperă Pantalonul Medical Leon: croi drept, talie elastică și 5 buzunare. Perfect pentru orice mediu, asigură stil și confort pe Inotex.ro!
-  Updated: 2025-11-08T22:00:09Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -4979,7 +4948,6 @@
     Availability: Available
     Price: 100,00 lei RON
 - [Halat Medical Alb Cu Maneca Lunga Bella - Inotex.ro](https://inotex.ro/products/halat-medical-bella): Alege confortul oferit de halatul medical alb perfect! Optează pentru o experiență de lucru confortabilă și eficientă! Plasează comanda acum pe Inotex.ro!
-  Updated: 2025-10-26T16:49:12Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5017,7 +4985,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A5848.jpg?v=1725259810
     Price: 90,00 lei RON
 - [Bluza Medicala Elastica Emily - Inotex.ro](https://inotex.ro/products/bluza-medicala-emily): Te-ai săturat de materiale dure și incomode? Alege Costumul Medical Elastic Emily conceput pentru functionalitate, confort și lejeritate.
-  Updated: 2025-11-06T11:24:02Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5223,7 +5190,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A4958_b0536723-98c3-42de-a897-f1f3e89cf87a.jpg?v=1689071544
     Price: 70,00 lei RON
 - [Costum Medical Elastic Sara - Inotex.ro](https://inotex.ro/products/costum-elastic-sara): Experimentează confortul prin Costumul Medical Elastic Sara: ultra-confortabil, elastic și respirabil. O alegere perfectă pentru un zâmbet mereu pe buze!
-  Updated: 2025-11-08T22:00:13Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5373,7 +5339,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A2045_7197f57f-5d54-45fc-b433-bf9f803443d1.png?v=1724046818
     Price: 360,00 lei RON
 - [Costum Elastic Emily - Confort și Funcționalitate Premium](https://inotex.ro/products/costum-elastic-emily): Alege Costumul Medical Elastic Emily pentru confort, funcționalitate și lejeritate. Alege culoarea favorita pe Inotex
-  Updated: 2025-10-20T17:50:52Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5531,7 +5496,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/Costum_Elastic_Emily_-_Bleu.png?v=1751977787
     Price: 135,00 lei RON
 - [Costum Medical Elastic Ashley - Inotex.ro](https://inotex.ro/products/costum-medical-elastic-ashley): Redefinește eleganța într-un stil cambrat prin Costumul Elastic Ashley. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-12T17:45:50Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5737,7 +5701,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/costum-ashley---blue.png?v=1724046290
     Price: 215,00 lei RON
 - [Bluza Elastica Ashley - Stil Cambrat și Confortabil](https://inotex.ro/products/bluza-medicala-elastica-ashley): Descoperă Bluza Elastica Ashley: Stil cambrat, material elastic pentru confort și libertate de mișcare, respirabilitate. Alege culoarea pe Inotex.ro
-  Updated: 2025-11-12T17:45:36Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -5943,7 +5906,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A5800_f01c3f5d-4cd8-4ff8-968a-2d324dd91cfe.jpg?v=1753851831
     Price: 110,00 lei RON
 - [Pantaloni Medicali Elastici Ashley - Inotex.ro](https://inotex.ro/products/pantalon-elastic-ashley): Redefinește eleganța într-un stil cambrat prin Pantalonii Elastici Ashley. Materialul elastic oferă confort și libertate de mișcare. Comandă pe Inotex.ro
-  Updated: 2025-11-11T18:07:01Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -6149,7 +6111,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/costum-ashley---blue_d10dbe4e-e451-42d9-a5c4-1b8c8a4978ab.png?v=1725005156
     Price: 149,00 lei RON
 - [Bluza Medicala Elastica Sara  - Inotex.ro](https://inotex.ro/products/bluza-medicala-elastica-sara): Experimentează confortul absolut prin Bluza Medicala Elastica Sara: ultra-confortabil, elastic și respirabil. O alegere perfectă pentru un zâmbet mereu pe buze!
-  Updated: 2025-11-08T22:00:12Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -6299,7 +6260,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A2108_c2f7e1e9-77db-4e13-9e75-9eaa5e9fe3ce.png?v=1725004397
     Price: 180,00 lei RON
 - [Pantaloni Medicali Elastici Sara - Inotex.ro](https://inotex.ro/products/pantaloni-medicali-elastici-sara): Experimentează confortul absolut prin Pantalonii Medicali Elastici Sara: ultra-confortabil, elastic și respirabil. Ideali pentru confortul zilnic.
-  Updated: 2025-11-08T22:00:11Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -6449,7 +6409,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A2248_baa4aff0-234e-4ac2-ba2b-f8764fb51600.png?v=1725260287
     Price: 180,00 lei RON
 - [Costum Medical Elastic Kate - Inotex.ro](https://inotex.ro/products/costum-premium-elastic-kate): Redefinește eleganța într-un stil unicat prin Costumul Elastic Kate. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-12T18:39:55Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -6655,7 +6614,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotexpremiumcollection_67.png?v=1737706863
     Price: 265,00 lei RON
 - [Pantaloni Medicali Elastici Kate - Inotex.ro](https://inotex.ro/products/pantaloni-premium-elastici-kate): Redefinește eleganța într-un stil cambrat prin Pantaloni Elastici Kate. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-08T22:00:12Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -6861,7 +6819,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotexpremiumcollection_27.png?v=1724758960
     Price: 159,00 lei RON
 - [Costum Medical Elastic Sofia - Inotex](https://inotex.ro/products/costum-medical-elastic-sofia): Costum Medical Elastic Sofia oferă confort și eleganță. Alege acum modelul premium pentru un look sofisticat pe Inotex.ro.
-  Updated: 2025-11-10T09:30:41Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7059,7 +7016,6 @@
     Availability: Not Available
     Price: 320,00 lei RON
 - [Bluza Medicala Elastica Kate - Inotex.ro](https://inotex.ro/products/bluza-premium-elastica-kate): Redefinește eleganța prin Bluza Premium Elastica Kate. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-08T22:00:11Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7265,7 +7221,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/AF4A0467.jpg?v=1724929675
     Price: 160,00 lei RON
 - [Bluza Premium Elastica Sofia -  Inotex](https://inotex.ro/products/bluza-premium-elastica-sofia): Alege Bluza Medicala Elastica Sofia pentru un look chic și practic. Ideală pentru un stil confortabil, elegant și inedit. Alege culoarea favorita pe Inotex.ro
-  Updated: 2025-11-11T11:53:06Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7465,7 +7420,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/20241212Inotex-201.jpg?v=1747379697
     Price: 160,00 lei RON
 - [Costum Medical Elastic Ashley - Inotex.ro](https://inotex.ro/products/costum-elastic-ashley): Redefinește eleganța într-un stil cambrat prin Costumul Elastic Ashley. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-12T07:20:26Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7543,7 +7497,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/20241212Inotex-648_7e4860f3-2d23-4ab2-bec8-05af2ed5fc44.jpg?v=1738841746
     Price: 210,00 lei RON
 - [Costum Premium Elastic Sofia - Inotex](https://inotex.ro/products/pantaloni-premium-elastici-sofia): Redefinește eleganța într-un stil inedit prin Costumul Elastic Sofia. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-08T22:00:07Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7741,7 +7694,6 @@
     Availability: Not Available
     Price: 160,00 lei RON
 - [Bluza Medicala Elastica Ashlet - Inotex.ro](https://inotex.ro/products/bluza-elastica-ashley): Redefinește eleganța într-un stil cambrat prin Bluza Elastica Ashley. Materialul elastic oferă confort și libertate de mișcare. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-12T07:20:30Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7831,7 +7783,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/20241212Inotex-648.jpg?v=1739283326
     Price: 110,00 lei RON
 - [Pantaloni Elastici Ashley - Eleganță Confortabilă](https://inotex.ro/products/pantaloni-elastici-ashley): Descoperă Pantalonii Elastici Ashley, ediție limitată, cu material respirabil pentru confort maxim.
-  Updated: 2025-11-12T07:20:31Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -7921,7 +7872,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/20241212Inotex-648_4cda16ba-0fb9-4dc6-9ec4-eb84d8c24f5c.jpg?v=1739285733
     Price: 110,00 lei RON
 - [Jacheta Softshell Alice - Protecție și Confort](https://inotex.ro/products/jacheta-softshell-alice): Descoperă Jacheta Softshell Alice, ideală pentru vânt și ploaie, cu fermoare practice și manșete reglabile.
-  Updated: 2025-11-08T22:00:06Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8047,7 +7997,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/1_1_19540bfa-72c1-48fe-8afc-060e72df6a90.png?v=1734505603
     Price: 130,00 lei RON
 - [Bluza Medicala Elastica Emily - Inotex.ro](https://inotex.ro/products/bluza-elastica-emily): Te-ai săturat de materiale dure și incomode? Alege Costumul Medical Elastic Emily conceput pentru functionalitate, confort și lejeritate.
-  Updated: 2025-10-20T17:50:53Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8197,7 +8146,6 @@
     Availability: Not Available
     Price: 70,00 lei RON
 - [Pantaloni Elastici Emily - Confort și Funcționalitate](https://inotex.ro/products/pantaloni-elastici-emily): Descoperă Pantalonii Elastici Emily, cu elastic în talie și buzunare spațioase. Potrivire lejeră, compoziție de 53% bumbac pentru confort maxim.
-  Updated: 2025-11-11T04:50:51Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8323,7 +8271,6 @@
     Availability: Not Available
     Price: 70,00 lei RON
 - [Costum Medical Elastic Elise - Eleganță și Confort](https://inotex.ro/products/costum-medical-elastic-elise): Costum Medical Elastic Elise – eleganța și confortul perfect pentru profesioniști. Alege stilul și practicitatea în fiecare zi!
-  Updated: 2025-11-12T11:42:56Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8529,7 +8476,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9454.jpg?v=1746618144
     Price: 290,00 lei RON
 - [Costum Medical Elastic Jessi - Inotex](https://inotex.ro/products/costum-elastic-jessi): Te-ai săturat de materiale dure și incomode? Alege Costumul Medical Elastic Jessi conceput pentru functionalitate, confort și lejeritate.
-  Updated: 2025-10-27T10:46:36Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8720,7 +8666,6 @@
     Availability: Not Available
     Price: 160,00 lei RON
 - [Halat Medical Elastic Ella - Eleganță și Confort](https://inotex.ro/products/halat-medical-ella): Descoperă Halatul Medical Elastic Ella, combinația perfectă între stil rafinat și funcționalitate pentru profesioniști.
-  Updated: 2025-11-12T17:05:11Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8750,7 +8695,6 @@
     Availability: Available
     Price: 160,00 lei RON
 - [Halat Medical Elastic Lily cu maneca lunga](https://inotex.ro/products/halat-medical-elastic-lily): Descoperă Halatul Medical Lily, elegant și confortabil, ideal pentru profesioniști. Croială cambrată și trei buzunare practice.
-  Updated: 2025-11-10T07:26:41Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8788,7 +8732,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/20241212Inotex-515.jpg?v=1734511692
     Price: 99,00 lei RON
 - [Halat Medical Elastic Zoe - Eleganță și Funcționalitate](https://inotex.ro/products/halat-medical-elastic-zoe): Descoperă Halatul Medical Elastic Zoe, combinația perfectă de stil și confort pentru profesioniști. Comanda acum pe Inotex.ro
-  Updated: 2025-11-08T06:23:36Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -8818,7 +8761,6 @@
     Availability: Available
     Price: 160,00 lei RON
 - [Costum Medical Elastic Elastic Cleo - Eleganță și Confort](https://inotex.ro/products/costum-elastic-cleo): Descoperă Costumul Medical Elastic Cleo, perfect pentru libertate de mișcare și profesionalism în fiecare zi!
-  Updated: 2025-11-13T10:24:30Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9024,7 +8966,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9182.jpg?v=1746617852
     Price: 170,00 lei RON
 - [Pantaloni Elastici Elise - Eleganță și Confort](https://inotex.ro/products/pantaloni-elastici-elise): Alege Pantalonii Elastici Elise pentru un look profesional modern și confortabil, perfecti pentru birou.
-  Updated: 2025-11-12T08:47:53Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9230,7 +9171,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9460_05ea34f6-3eed-43e7-8b14-6ddaa88e7af5.jpg?v=1755159925
     Price: 160,00 lei RON
 - [Bluza Medicala Elastica Elise - Eleganta si Practica](https://inotex.ro/products/bluza-elastica-elise): Descopera Bluza Medicala Elastica Elise: eleganta, confortabila si practica pentru mediul tău de lucru!
-  Updated: 2025-11-13T11:52:56Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9436,7 +9376,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9454_d8a3d6d9-53e1-471a-93f9-2ef8d13f9f3b.jpg?v=1755168259
     Price: 160,00 lei RON
 - [Bluza Medicala Elastica Cleo - Stil si Confort Profesional](https://inotex.ro/products/bluza-elastica-cleo): Descoperă Bluza Medicală Elastică Cleo, ideală pentru libertate de mișcare și eleganță în mediul profesional.
-  Updated: 2025-11-13T10:24:35Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9642,7 +9581,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9182_68a5b5f1-ec20-48b1-b1e6-c9a0a39d3eba.jpg?v=1746617522
     Price: 90,00 lei RON
 - [Pantaloni Elastici Cleo](https://inotex.ro/products/pantaloni-elastici-cleo): Te-ai săturat de materiale dure și incomode? Alege Costumul Medical Elastic Jessi conceput pentru functionalitate, confort și lejeritate.
-  Updated: 2025-11-13T11:50:48Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9848,7 +9786,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9182_77975a78-070b-42f9-b0b7-d87a07ddfeee.jpg?v=1746617389
     Price: 85,00 lei RON
 - [Halat Medical Barbatesc - Confort și Stil](https://inotex.ro/products/halat-medical-barbatesc-cu-maneca-scurta): Alege halatul medical bărbătesc perfect pentru tine. Practic, cu 3 buzunare și închidere prin capse, oferă confort și stil. Alege favoritul pe Inotex.ro
-  Updated: 2025-11-06T09:28:25Z
   Vendor: Inotex
   Product Type: Halat barbatesc
   Availability: Available
@@ -9878,7 +9815,6 @@
     Availability: Available
     Price: 90,00 lei RON
 - [Halat Medical Elastic Lily cu Maneca Scurta - Eleganta si Confort](https://inotex.ro/products/halat-medical-elastic-lily-cu-maneca-scurta): Descoperiți Halatul Medical Lily, cu maneca scurtă, elegant și practic, ideal pentru profesioniști. Comanda acum pe Inotex.ro!
-  Updated: 2025-11-10T12:10:48Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -9908,7 +9844,6 @@
     Availability: Available
     Price: 99,00 lei RON
 - [Costum Medical Elastic Carina - Confort și Stil](https://inotex.ro/products/costum-elastic-carina): Descoperă Costumul Medical Elastic Carina, ideal pentru confortul tău zilnic. Design lejer, buzunare practice și material elastic. Preț accesibil. Comanda acum!
-  Updated: 2025-11-13T10:05:36Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -10114,7 +10049,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex8895.jpg?v=1746617246
     Price: 145,00 lei RON
 - [Costum Medical Elastic Bianca - Confort și Stil Premium](https://inotex.ro/products/costum-elastic-bianca): Descoperă Costumul Elastic Bianca: bluza kimono, pantaloni eleganti cu buzunare, ajustare perfectă și material elastic pentru confort maxim.
-  Updated: 2025-11-13T11:50:41Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -10314,7 +10248,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/Turquoise.png?v=1753430567
     Price: 260,00 lei RON
 - [Costum Elastic Diana - Eleganță și Confort Premium](https://inotex.ro/products/costum-elastic-diana): Costum Elastic Diana: eleganță și confort premium pentru profesioniști. Alege calitatea și rafinamentul în fiecare detaliu.
-  Updated: 2025-11-13T11:29:20Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -10520,7 +10453,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9599.jpg?v=1746616913
     Price: 180,00 lei RON
 - [Costum Medical Elastic Elise - Eleganță și Confort](https://inotex.ro/products/costum-elastic-elise-1): Îmbunătățește-ți look-ul profesional cu Costumul Medical Elastic Elise, combinația perfectă între stil și funcționalitate.
-  Updated: 2025-11-12T08:44:11Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -10726,7 +10658,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9483.jpg?v=1746616754
     Price: 290,00 lei RON
 - [Bluza Elastica Elise - Eleganță și Funcționalitate](https://inotex.ro/products/bluza-elastica-elise-inotex): Bluza Elastica Elise îmbină stilul cu funcționalitatea, transformând experiența ta de lucru în eleganță profesională.
-  Updated: 2025-11-13T11:52:56Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -10932,7 +10863,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9481_4a62da4c-836d-4f23-98ee-2556c9594012.jpg?v=1752502215
     Price: 180,00 lei RON
 - [Pantaloni Medicali Elastici Elise](https://inotex.ro/products/pantaloni-medicali-elastici-elise): Descoperă Pantaloni Medicali Elastici care combină eleganța cu confortul, perfecti pentru mediul tău de lucru.
-  Updated: 2025-11-13T11:48:26Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -11138,7 +11068,6 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotex9481_dcaf8d20-0907-4a6b-bb15-dbbcb66f7a20.jpg?v=1755159164
     Price: 160,00 lei RON
 - [Bluza Medicala Elastica Bianca](https://inotex.ro/products/bluza-medicala-elastica-bianca): Bluza Medicala Elastica Bianca, cu design tip kimono, buzunare laterale și cordon de ajustare, oferă confort și funcționalitate pentru fiecare zi. Comanda acum
-  Updated: 2025-11-13T11:47:19Z
   Vendor: Inotex
   Product Type: 
   Availability: Available
@@ -11341,404 +11270,217 @@
 ## Collections
 
 - [Uniforme Medicale Barbati - Colecția Complete](https://inotex.ro/collections/barbati): Descoperiți uniforme medicale de calitate pentru bărbați. Stil și confort în fiecare detaliu.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 18
 - [Bluze Medicale Barbati - Inotex.ro](https://inotex.ro/collections/bluze-medicale-barbati): Descoperă colecția noastră de bluze medicale pentru bărbați - confortabile, rezistente și de calitate, perfecte pentru profesioniștii din domeniul medical
-  Updated: 2025-11-11T12:06:59Z
   Total Products: 3
 - [Costume Medicale Barbati - Inotex.ro](https://inotex.ro/collections/costume-medicale-barbati): Descoperă colecția noastră de costume medicale pentru bărbați. Create pentru a oferi profesionalism, confort și asigură un aspect impecabil în domeniul medical.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 3
 - [Uniforme Medicale Dama - Inotex.ro](https://inotex.ro/collections/femei): Descoperă colecția de uniforme medicale pentru dama, concepute pentru a îmbina stilul, confortul și funcționalitatea, pentru o prezență profesionistă și sigură.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 93
 - [Halate Medicale Barbătești - Colectie Trendy](https://inotex.ro/collections/barbati-halate): Descoperă halatele medicale bărbătești, confortabile și elegante, perfecte pentru profesioniști. Alege calitate și stil!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 3
 - [Halate din Polar Confortabile | Inotex.ro](https://inotex.ro/collections/halate-polar): Confortabile, călduroase și cu un tipar regular, este alegerea ideală. Comandă acum Halatul Polar Medical pentru zilele răcoroase. Îl găsești pe Inotex.ro!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 3
 - [Halate Medicale Dama - Inotex.ro](https://inotex.ro/collections/halate-medicale-dama): Descoperă o gamă largă de halate medicale pentru dama concepute pentru a-ți aduce un stil inconfundabil și un confort remarcabil în timpul activității tale.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 11
 - [Barbati - Pantaloni Medicali de Calitate](https://inotex.ro/collections/barbati-pantaloni): Descoperiți colecția noastră de pantaloni medicali pentru bărbați, confortabili și durabili. Ideal pentru profesioniști din domeniul sănătății.
-  Updated: 2025-11-11T12:06:59Z
   Total Products: 3
 - [Pantaloni Medicali - Calitate și Stil pentru Profesioniști](https://inotex.ro/collections/femei-pantaloni): Descoperă colecția de pantaloni medicali, combinația perfectă între confort și stil.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 17
 - [Bluze Medicale Dama - Inotex.ro](https://inotex.ro/collections/bluze-medicale-dama): Bluze medicale elegante pentru femei, combinație perfectă de confort și stil. Descopera o gama larga de culori, modele si culori pe Inotex.ro
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 21
 - [Costume Medicale Dama - Inotex.ro](https://inotex.ro/collections/costume-medicale-dama): Costume medicale dama elegante si profesionale. Materiale de calitate, design feminin si confort pentru o experiența de lucru placuta. Preturi avantajoase.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 26
 - [Toate produsele - Costume, Halate și Uniforme Medicale](https://inotex.ro/collections/toate-produsele): Descoperă toate produsele: costume medicale elastice, halate medicale, uniforme, bluze si pantaloni medicali elastici de cea mai bună calitate.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 125
 - [Cele mai vândute Costume Medicale](https://inotex.ro/collections/cele-mai-vandute): Descoperă cele mai vândute costume medicale. Calitate și confort garantat! Alege favoritul pe Inotex.ro
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 26
 - [Noua Colectie de Costume Medicale Elastice](https://inotex.ro/collections/noua-colectie): Descoperă noua colecție de costume medicale elastice, perfect adaptate pentru confort și stil.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 28
 - [Produse Noi: Costume și Halate Medicale](https://inotex.ro/collections/produse-noi): Descoperă noua colecție de costume medicale și halate medicale, perfect adaptate nevoilor tale profesionale!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 28
 - [Accesorii](https://inotex.ro/collections/accesorii)
-  Updated: 2025-11-08T12:06:19Z
   Total Products: 9
 - [Precomandă](https://inotex.ro/collections/precomanda)
-  Updated: 2025-11-11T12:06:59Z
   Total Products: 6
 - [Bonete Medicale - Protecție și Stil pentru Profesioniști](https://inotex.ro/collections/bonete-medicale): Descoperă colecția Bonete Medicale, perfectă pentru un look profesional și protecție optimă în domeniul medical.
-  Updated: 2025-11-08T12:06:19Z
   Total Products: 10
 - [Costume Medicale - Inotex.ro](https://inotex.ro/collections/costume-medicale-inotex): Descoperă costume medicale de calitate la preturi avantajoase. Stil regular, confort și funcționalitate într-un singur pachet. Vezi produsele pe Inotex.ro
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 5
 - [Personalizare prin broderie](https://inotex.ro/collections/personalizare-prin-broderie)
-  Updated: 2025-10-20T17:50:49Z
   Total Products: 1
 - [Bonete Medicale Imprimate](https://inotex.ro/collections/bonete-medicale-imprimate)
-  Updated: 2025-10-20T17:50:49Z
   Total Products: 7
 - [Pantaloni Medicali Dama - Inotex.ro](https://inotex.ro/collections/pantaloni-medicali-dama): Combină stilul, confortul și funcționalitatea pentru zilele încărcate de muncă. Descoperă gama de pantaloni medicali pentru dama pe Inotex.ro.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 14
 - [Halate din Polar Barbatesti | Inotex.ro](https://inotex.ro/collections/halate-din-polar): Alegerea perfectă pentru zilele reci, halatele polare medicale de pe Inotex.ro sunt confortabile, călduroase și prezintă un design regulat. Comandă acum pentru a te bucura de confortul lor!
-  Updated: 2025-11-13T11:30:38Z
   Total Products: 1
 - [Halate Medicale Cu Maneca Scurta - Inotex.ro](https://inotex.ro/collections/halate-medicale-cu-maneca-scurta): Descoperă halatele medicale cu mânecă scurtă, combinația perfectă de confort și profesionalism. Stil și funcționalitate într-un singur produs.
-  Updated: 2025-11-11T12:06:59Z
   Total Products: 5
 - [Jachete din Polar de Calitate & Confortabile | Inotex.ro](https://inotex.ro/collections/jachete-din-polar): Descoperă colecția noastră de jachete din polar! Stil, confort și căldură pentru zilele reci. Cumpără acum și simte diferența!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 4
 - [Produse Recomandate - Uniforme Medicale Elastice](https://inotex.ro/collections/produse-recomandate): Descoperiți produsele noastre recomandate: uniforme medicale elastice de calitate superioară pentru confortul și siguranța dumneavoastră.
-  Updated: 2025-11-13T11:53:36Z
   Total Products: 125
 - [Produse din polar - Jachete, halate și veste călduroase](https://inotex.ro/collections/colectia-de-iarna): Descoperă colecția noastră de produse din polar: jachete polar, halate polar și veste, perfect pentru zilele reci!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 9
 - [Halate Medicale - Calitate și Confort pentru Profesioniști](https://inotex.ro/collections/halate-medicale): Descoperă o gamă largă de halate medicale concepute pentru a-ți aduce un stil inconfundabil și un confort remarcabil în timpul activității tale.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 14
 - [Produse din polar: jachete și halate elegante](https://inotex.ro/collections/produse-din-polar): Descoperiți colecția noastră de produse din polar, inclusiv jachete din polar și halate polar, ideale pentru confortul zilnic.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 9
 - [Black Friday 2025 - Oferte Exclusive](https://inotex.ro/collections/black-friday): Descoperă cele mai bune oferte de Black Friday! Reduceri spectaculoase la produse din toate categoriile. Nu rata ocazia!
-  Updated: 2025-11-13T09:51:26Z
   Total Products: 0
 - [Costume Medicale Elastice - Inotex.ro](https://inotex.ro/collections/costume-medicale-elastice): Descopera libertate de miscare prin Costumele Medicale Elastice pe Inotex.ro. Materiale confortabile de inalta calitate, perfecte pentru nevoile tale.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 23
 - [Jachete din polar Bărbătești pentru fiecare sezon](https://inotex.ro/collections/barbati-jachete-din-polar): Explorează jachetele din polar pentru bărbați, confortabile și stylish! Te așteaptă o colecție perfectă pentru zilele răcoroase.
-  Updated: 2025-11-09T12:06:05Z
   Total Products: 1
 - [Barbati - Produse din polar confortabile](https://inotex.ro/collections/barbati-produse-din-polar): Descoperă produsele din polar pentru bărbați, perfecte pentru orice aventură! Stai călduros și stilat în fiecare zi.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 3
 - [Halate Medicale Cu Maneca Lunga](https://inotex.ro/collections/halate-medicale-cu-maneca-lunga): Halate medicale cu maneca lunga ideale pentru profesioniștii din domeniul medical. Confort, calitate și protecție într-un design practic și funcțional.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 6
 - [Pantaloni Medicali Elastici - Confort și Stil](https://inotex.ro/collections/pantaloni-medicali-elastici): Descoperă colecția noastră de pantaloni medicali elastici, perfecți pentru confort maxim și stil profesional. Alege-ți perechea!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 14
 - [Bluze Medicale Elastice - Inotex.ro](https://inotex.ro/collections/bluze-medicale-elastice): În căutarea bluzelor medicale elastice? Descoperă colecția noastră de bluze medicale elastice, confortabile și flexibile, ideale pentru profesioniștii medicali.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 15
 - [Bluze Medicale Stretch - Inotex.ro](https://inotex.ro/collections/bluze-medicale-stretch): Descoperă colecția noastră de bluze medicale stretch, confortabile și flexibile, ideale pentru profesioniștii medicali. Comanda produsul favorit pe Inotex.ro
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 15
 - [Uniforme Medicale Elastice - Inotex.ro](https://inotex.ro/collections/uniforme-medicale-elastice): Uniforme Medicale Elastice: elasticitate maxima, respirabilitate exceptionala si senzatie placuta la atingere. Confort si stil pentru tine!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 39
 - [Costume Medicale - Inotex.ro](https://inotex.ro/collections/costume-medicale): Descoperă cele mai bune oferte la costume medicale de calitate pe Inotex.ro! Stil modern, confort și funcționalitate de top într-un singur loc. Explorează acum gama noastră diversificată!
-  Updated: 2025-11-13T11:30:19Z
   Total Products: 29
 - [Jachete cu manecă scurtă](https://inotex.ro/collections/jachete-cu-maneca-scurta)
-  Updated: 2025-10-20T17:50:51Z
   Total Products: 0
 - [Costume Medicale Premium - Colecție Exclusivă](https://inotex.ro/collections/premium-collection): Descoperă colecția noastră premium de costume medicale, realizată din materiale stretch si tipare inedite.
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 22
 - [Costume Medicale Elastice Dama - Confort și Stil](https://inotex.ro/collections/costume-medicale-elastice-dama): Descoperă colecția de Costume Medicale Elastice Dama - confort maxim și design modern pentru profesioniști. Comfort in mișcare!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 18
 - [Costume Medicale Elastice Barbati - Confort și Flexibilitate](https://inotex.ro/collections/costume-medicale-elastice-barbati): Descoperă colecția de Costume Medicale Elastice Barbati, concepute pentru confort și flexibilitate superioare.
-  Updated: 2025-10-20T17:50:51Z
   Total Products: 1
 - [Costume Medicale Stretch - Inotex.ro](https://inotex.ro/collections/costume-medicale-stretch): Alege costume medicale stretch pentru un confort inegalabil și libertate totală de mișcare. Descoperă colecția noastră creată special pentru tine!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 18
 - [Winter Sale - Reduceri la Uniforme Medicale și Produse de Polar](https://inotex.ro/collections/winter-sale): Reduceri Winter Sale la Uniforme Medicale și Jachete din polar. Stocuri limitate, nu rata prețurile avantajoase!
-  Updated: 2025-11-13T09:51:12Z
   Total Products: 0
 - [Promoții Exclusive - Reduceri la Costume Medicale | Inotex](https://inotex.ro/collections/promotii): Profită de reducerile exclusive la costume medicale de calitate. Oferte limitate și livrare rapidă. Intră acum pe Inotex.ro și descoperă promoțiile noastre!
-  Updated: 2025-11-12T12:07:17Z
   Total Products: 20
 - [Pantaloni Medicali Stretch - Confort & Stil - Inotex](https://inotex.ro/collections/pantaloni-medicali-stretch): Pantaloni Medicali Stretch - confort și libertate de mișcare în activitatea zilnică. Alege stilul modern pentru profesioniști!
-  Updated: 2025-11-13T11:30:06Z
   Total Products: 14
 - [Summer Sale 25'](https://inotex.ro/collections/summer-sale-25)
-  Updated: 2025-11-13T09:51:08Z
   Total Products: 19
-
-## Blogs
-
-- [News](https://inotex.ro/blogs/news)
-  - [Alegerea uniformei medicale: Ghid de stil și confort](https://inotex.ro/blogs/news/alegerea-uniformei-medicale-perfecte-un-ghid-pentru-stil-confort-și-profesionalism): Alegerea uniformei medicale: Ghid de stil și confort
-    Updated: 2024-11-20T08:22:24Z
-    Author: Robert Pîrlog
-    Tags: costume medicale, costume medicale elastice, halate medicale, producator uniforme medicale, uniforme medicale, uniforme medicale iasi
-  - [Avantajele uniformelor medicale elastice: Confortul, flexibilitatea și stilul](https://inotex.ro/blogs/news/avantajele-uniformelor-medicale-elastice-confortul-flexibilitatea-și-stilul)
-    Updated: 2023-07-31T08:10:07Z
-    Author: Robert Pîrlog
-    Tags: costume medicale, costume medicale elastice, costume medicale stretch, costume stretch, uniforme medicale, uniforme medicale elastice, uniforme medicale stretch, uniforme stretch
-  - [Program Depozit 3-12 Mai 2024](https://inotex.ro/blogs/news/program-depozit-3-12-mai)
-    Updated: 2024-05-25T08:46:10Z
-    Author: Robert P
-  - [Program Magazin - August 2025](https://inotex.ro/blogs/news/program-magazin-august-2025)
-    Updated: 2025-11-13T09:51:37Z
-    Author: Robert P.
-  - [Regulament campanie Livrare Gratuita 22-23 AUGUST 2025](https://inotex.ro/blogs/news/regulament-campanie-livrare-gratuita-22-23-august-2025)
-    Updated: 2025-11-13T09:51:34Z
-    Author: Robert P.
 
 ## Store Pages
 
 - [Contact - Inotex.ro](https://inotex.ro/pages/contact): 
-  Updated: 2024-11-20T08:23:46Z
 - [Povestea noastră](https://inotex.ro/pages/povestea-noastra)
-  Updated: 2023-06-02T05:20:09Z
 - [Întrebări & Răspunsuri](https://inotex.ro/pages/faq)
-  Updated: 2022-01-21T09:06:38Z
 - [Lookbook](https://inotex.ro/pages/lookbook)
-  Updated: 2023-05-15T05:56:52Z
 - [Produse văzute recent](https://inotex.ro/pages/produse-vazute-recent)
-  Updated: 2023-05-15T05:57:10Z
 - [Informații livrare - Inotex - Costume Medicale & Halate](https://inotex.ro/pages/informații-livrare): LIVRARE Cost transport: GLS Lokcer/ ParcelShop: 15 lei Sameday Easybox: 18 lei Livrare la domiciliu: 20 lei Transport gratuit pentru comenzile mai ...
-  Updated: 2025-05-11T07:07:01Z
 - [Ghid de mărimi](https://inotex.ro/pages/ghid-de-marimi): Compleu medical Dimensiuni Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Mărime Talie Umeri Șold Lungime Totală XXS 95 43 94 68 XS 100 45 102 7...
-  Updated: 2023-05-15T05:56:40Z
 - [Halat polar Size Chart](https://inotex.ro/pages/halat-polar-size-chart): Dimensiuni Halat Polar - Tipar Regular Mărime Umeri Bust Lungime totală XXS 42 116 82 XS 44 118 84 S 46 120 86 M 48 124 88 L 50 126 90 XL 52 128 90...
-  Updated: 2023-05-15T05:56:45Z
 - [Compleu Size Chart](https://inotex.ro/pages/compleu-size-chart): Dimensiune Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 98 96 42 96 68 XS 102 100 44 100 70 S ...
-  Updated: 2023-05-15T05:56:32Z
 - [Bluza compleu Size Chart](https://inotex.ro/pages/bluza-compleu-size-chart): Dimensiune Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Actualizat pe: 16.04.2020 Mărime Bust Talie Umeri Șold Lungime Totală XXS 98 96 42 96 ...
-  Updated: 2023-05-15T05:56:15Z
 - [Pantalon compleu Size Chart](https://inotex.ro/pages/pantalon-compleu-size-chart): Dimensiune Pantalon Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 90 98 100 XS 92 100 102 S 94 104 104 M 96 106 106 L 98 116 108...
-  Updated: 2023-05-15T05:57:03Z
 - [Halat barbatesc Size chart](https://inotex.ro/pages/halat-barbatesc-size-chart): Dimensiune Halat Barbatesc Marjă de eroare: +/- 0,5 cm Mărime Umeri Bust Talie Șold Lungime Totală XXS 38 96 94 96 84 XS 40 100 98 100 84 S 42 104 ...
-  Updated: 2023-05-15T05:56:41Z
 - [Halat medical dama size chart](https://inotex.ro/pages/halat-medical-dama-size-chart): Dimensiune Halat medical Marjă de eroare: +/- 0,5 cm Mărime Umeri Bust Talie Șold Lungime Totală XXS 38 96 84 94 75 XS 40 100 88 98 75 S 42 104 94 ...
-  Updated: 2025-06-06T05:20:17Z
 - [Maleta size chart](https://inotex.ro/pages/maleta-size-chart): Dimensiune Maleta Marjă de eroare: +/- 0,5 cm Mărime Bust Lungime Totală S 80 cm 60 cm M 86 cm 52 cm L 92 cm 64 cm XL 98 cm 66 cm XXL 104 cm 68 cm
-  Updated: 2023-05-15T05:56:53Z
 - [Sarafan size chart](https://inotex.ro/pages/sarafan-size-chart): Dimensiune Sarafan Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS XS S 98 96 104 M 102 100 106 L 114 110 118 XL 118 114 122 ...
-  Updated: 2023-05-15T05:57:18Z
 - [Compleu cu fermoar size chart](https://inotex.ro/pages/compleu-cu-fermoar-size-chart): Dimensiune bluză cu fermoar Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS XS 96 92 98 70 S 102 98 104 70 M 106 114 110 72 L...
-  Updated: 2023-05-15T05:56:28Z
 - [bluza cu fermoar size chart](https://inotex.ro/pages/bluza-cu-fermoar-size-chart): Dimensiune bluză cu fermoar Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS XS 96 92 98 70 S 102 98 104 70 M 106 114 110 72 L...
-  Updated: 2023-05-15T05:56:16Z
 - [Compleu anchior size chart](https://inotex.ro/pages/compleu-anchior-size-chart): Dimensiune bluză v-neck Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS XS 96 92 98 70 S 102 98 104 70 M 106 114 110 72 L 112...
-  Updated: 2023-05-15T05:56:27Z
 - [Fusta size chart](https://inotex.ro/pages/fusta-size-chart): Dimensiune Fustă Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 76 84 60 XS 78 88 60 S 80 92 60 M 86 96 60 L 92 102 60 XL 98 108 ...
-  Updated: 2023-05-15T05:56:37Z
 - [Propuneri & Recomandări](https://inotex.ro/pages/sugestii)
-  Updated: 2023-05-15T05:57:11Z
 - [Maleta barbati size chart](https://inotex.ro/pages/maleta-barbati-size-chart): Dimensiune Maleta Barbati Marjă de eroare: +/- 0,5 cm Mărime Bust Lungime Totală S 94 cm 70 cm M 98 cm 72 cm L 106 cm 74 cm XL 114 cm 76 cm XXL 122...
-  Updated: 2023-05-15T05:56:53Z
 - [Sabot size chart](https://inotex.ro/pages/sabot-size-chart): Dimensiune Saboți Medicinali Tipar Standard European Mărime Talpic Interior 36 23 cm 37 24 cm 38 24,5 cm 39 25 cm 40 25,5 cm
-  Updated: 2023-05-15T05:57:18Z
 - [Achizitioneaza Uniforme Medicale prin SEAP](https://inotex.ro/pages/achizitii-uniforme-medicale-seap): 
-  Updated: 2024-11-20T08:31:36Z
 - [Sabot cu toc size chart](https://inotex.ro/pages/sabot-cu-toc-size-chart): Dimensiune Saboți Medicinali Tipar Standard European Mărime Talpic Interior Inaltime Toc 36 23 cm 7 cm 37 24 cm 7 cm 38 24,5 cm 7 cm 39 25 cm 7 cm ...
-  Updated: 2023-05-15T05:57:15Z
 - [Halat tunica size chart](https://inotex.ro/pages/halat-tunica-size-chart): Dimensiune Halat Tunica Marjă de eroare: +/- 0,5 cm Mărime Umeri Bust Talie Șold Lungime Totală XXS 38 96 86 90 68 XS 39 98 88 92 68 S 40 100 90 94...
-  Updated: 2023-05-15T05:56:45Z
 - [Politica de Retur](https://inotex.ro/pages/politica-de-retur): Ce trebuie sa fac pentru a solicita un retur? Trebuie doar sa solicitati returul online iar noi ne ocupam de restul. Cand cererea de retur a fost a...
-  Updated: 2024-01-25T08:16:41Z
 - [Compleu imprimat Size Chart](https://inotex.ro/pages/compleu-imprimat-size-chart): Dimensiune Compleu Imprimat / Alice / Marry Dimensiune Bluza Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 98 96 42 9...
-  Updated: 2023-05-15T05:56:29Z
 - [GDPR](https://inotex.ro/pages/gdpr): Aplicația utilizată pentru asigurarea conformității GDPR/CCPA/APPI a acestui site, colectează IP-ul dumneavoastră și adresa de e-mail pentru a proc...
-  Updated: 2024-12-01T09:31:55Z
 - [Boneta Size Chart](https://inotex.ro/pages/boneta-size-chart): -
-  Updated: 2023-05-15T05:56:20Z
 - [Bluza Size Chart](https://inotex.ro/pages/bluza-size-chart): Dimensiune Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 98 96 42 96 68 XS 102 100 44 100 70 S ...
-  Updated: 2023-05-15T05:56:19Z
 - [Favorite](https://inotex.ro/pages/wishlist-1)
-  Updated: 2023-06-02T05:19:55Z
 - [Solicita un Retur](https://inotex.ro/pages/solicita-un-retur)
-  Updated: 2023-05-15T05:57:22Z
 - [Compleu Lara size chart](https://inotex.ro/pages/compleu-lara-size-chart): Dimensiune Bluză Lara Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 94 92 38 98 75 XS 98 96 39 102 76 S 102 100 40 10...
-  Updated: 2023-05-15T05:56:30Z
 - [Bluza Lara size chart](https://inotex.ro/pages/bluza-lara-size-chart): Dimensiune Bluză Lara Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 94 92 38 98 75 XS 98 96 39 102 76 S 102 100 40 10...
-  Updated: 2023-05-15T05:56:18Z
 - [Feed](https://inotex.ro/pages/feed)
-  Updated: 2023-05-15T05:56:34Z
 - [Verify](https://inotex.ro/pages/verify)
-  Updated: 2023-05-15T05:57:21Z
 - [Jacheta Polar size chart](https://inotex.ro/pages/jacheta-polar-size-chart): Jacheta de Polar Mărime Bust Lungime Totală S 94 cm 64 cm M 100 cm 66 cm L 106 cm 68 cm XL 112 cm 70 cm XXL 120 cm 72 cm *[Dimensiuni la bust măsur...
-  Updated: 2023-05-15T05:56:50Z
 - [halat barbati nasturi size chart](https://inotex.ro/pages/halat-barbati-nasturi-size-chart): Halat Barbatesc cu nasturi Mărime Bust Lungime Totală XS 102 cm 95 cm S 108 cm 97 cm M 114 cm 99 cm L 120 cm 101 cm XL 126 cm 103 cm XXL 134 cm 104...
-  Updated: 2023-05-15T05:56:43Z
 - [halat nasturi dama size chart](https://inotex.ro/pages/halat-nasturi-dama-size-chart): Halat Medical Kira Mărime Bust Lungime Totală S 102 cm 95 cm M 108 cm 97 cm L 114 cm 99 cm XL 120 cm 101 cm XXL 126 cm 103 cm *[Dimensiuni la piept...
-  Updated: 2025-01-28T09:38:40Z
 - [vesta polar size chart](https://inotex.ro/pages/vesta-polar-size-chart): Vesta din Polar Mărime Bust Lungime Totală S 100 cm 65 cm M 106 cm 67 cm L 112 cm 69 cm XL 118 cm 71 cm XXL 124 cm 73 cm 130 cm 75 cm *[Dimensiuni ...
-  Updated: 2023-05-15T05:57:25Z
 - [Compleu Kimi size chart](https://inotex.ro/pages/compleu-kimi-size-chart): Dimensiuni Bluza Kimi Mărime Umeri Bust Talie Lungime totală XXS 39 94 102 70 XS 40 98 106 70,5 S 41 102 110 71 M 42 106 114 72 L 43 110 118 72,5 X...
-  Updated: 2023-05-15T05:56:29Z
 - [Modalități de Plată](https://inotex.ro/pages/modalitați-de-plata): Modalitățile de plată acceptate sunt: - Ramburs: plata numerar la livrare sau card la easybox - Card online: plata online cu cardul
-  Updated: 2025-05-11T07:08:02Z
 - [Material Compleu](https://inotex.ro/pages/material-compleu): Compoziție: 65% Poliester 35% Bumbac Instrucțiuni de spălare și întreținere: Deși materialul se poate spăla până la o temperatură de 60 de grade, r...
-  Updated: 2025-05-11T07:08:48Z
 - [Material Maleta](https://inotex.ro/pages/material-maleta): Compoziție: 100% bumbac, punct neted, 160 g/m². Instrucțiuni de spălare și întreținere:
-  Updated: 2023-05-15T05:56:58Z
 - [Material Jacheta](https://inotex.ro/pages/material-pes): Compoziție: 100% poliester, polar, 300 g/m² Spălare și întreținerea materialului:
-  Updated: 2023-05-15T05:56:57Z
 - [Material halate cu nasturi](https://inotex.ro/pages/material-halate-cu-nasturi): COMPOZIȚIE 65% poliester / 35% bumbac, serj de 195 g/m². INSTRUCȚIUNI DE SPĂLARE
-  Updated: 2023-05-15T05:56:57Z
 - [Bluza Kimi size chart](https://inotex.ro/pages/bluza-kimi-size-chart): Dimensiuni Bluza Kimi Mărime Umeri Bust Talie Lungime totală XXS 39 94 102 70 XS 40 98 106 70,5 S 41 102 110 71 M 42 106 114 72 L 43 110 118 72,5 X...
-  Updated: 2023-05-15T05:56:17Z
 - [Bluza Medicala Leon](https://inotex.ro/pages/bluza-medicala-leon): Bluza Medicală Leon Mărime Bust Lungime Totală S 108 cm 70 cm M 114 cm 72 cm L 120 cm 74 cm XL 126 cm 76 cm XXL 137 cm 78 cm 3XL 142 cm 80 cm *[Dim...
-  Updated: 2023-05-15T05:56:18Z
 - [Bluza Amy Size Chart](https://inotex.ro/pages/bluza-amy-size-chart): Bluza Amy Mărime Bust Lungime Totală S 96 cm 69 cm M 98 cm 70 cm L 104 cm 71 cm XL 112 cm 72 cm XXL 120 cm 73 cm 3XL 128 cm 74 cm *[Dimensiuni la p...
-  Updated: 2023-05-15T05:56:14Z
 - [Material Amy](https://inotex.ro/pages/material-amy): Compoziție: 94% poliester / 6% elastan Spălare și întreținerea materialului:
-  Updated: 2023-05-15T05:56:54Z
 - [Compleu Amy Size Chart](https://inotex.ro/pages/compleu-amy-size-chart): Bluza Amy Mărime Bust Lungime Totală S 96 cm 69 cm M 98 cm 70 cm L 104 cm 71 cm XL 112 cm 72 cm XXL 120 cm 73 cm 3XL 128 cm 74 cm *[Dimensiuni la p...
-  Updated: 2023-05-15T05:56:26Z
 - [Pagina de înregistrare a afiliaților](https://inotex.ro/pages/register-affiliate-account)
-  Updated: 2024-05-25T08:46:48Z
 - [Affiliate Empty Page](https://inotex.ro/pages/sca-affiliate-empty-page)
-  Updated: 2023-05-15T05:56:12Z
 - [Jacheta Polar Barbati size chart](https://inotex.ro/pages/jacheta-polar-barbati-size-chart): Jacheta Polar Barbateasca Mărime Bust Lungime Totală S 104 cm 69 cm M 110 cm 71 cm L 116 cm 73 cm XL 122 cm 75 cm XXL 130 cm 78 cm 3XL 138 cm 80 *[...
-  Updated: 2023-05-15T05:56:49Z
 - [halat unisex size chart](https://inotex.ro/pages/halat-unisex-size-chart): Halat Medical Unisex Mărime Bust Lungime Totală XS 102 cm 95 cm S 108 cm 97 cm M 114 cm 99 cm L 120 cm 101 cm XL 126 cm 103 cm XXL 134 cm 104 cm 3X...
-  Updated: 2023-05-15T05:56:46Z
 - [Pantaloni Stretch Size chart](https://inotex.ro/pages/pantaloni-stretch-size-chart): Pantalon Elastic 9086 Mărime Talie Lungime Totală S 70 cm 106 cm M 74 cm 107 cm L 78 cm 108 cm XL 84 cm 109 cm XXL 90 cm 110 cm 3XL 96 cm 111 cm *[...
-  Updated: 2025-01-03T06:31:22Z
 - [C735](https://inotex.ro/pages/c735): Halat Bucatar SR Mărime Bust (A) SPATE (18 CM SUB GÂT) (B) LUNGIME MÂNECĂ (12 CM SUBGÂT) (C) Talie (E) Lungime Totală (D) S (92-96) 100 39 47.5 98 ...
-  Updated: 2023-05-15T05:56:23Z
 - [R90](https://inotex.ro/pages/r90): Boneta Horeca Mărime Latime Lungime Totală S 28 cm 11 cm M 30 cm 11.5 cm L 31 cm 12 cm
-  Updated: 2023-05-15T05:57:13Z
 - [Community](https://inotex.ro/pages/afiliere)
-  Updated: 2023-06-17T06:41:17Z
 - [Mokka - Plata în Rate pentru Costume Medicale](https://inotex.ro/pages/mokka): 
-  Updated: 2024-11-20T08:29:07Z
 - [Compleu Emily Size Chart](https://inotex.ro/pages/compleu-emily-size-chart): Dimensiune Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 98 96 42 96 68 XS 102 100 44 100 70 S ...
-  Updated: 2024-05-25T08:46:27Z
 - [C078 Size Chart](https://inotex.ro/pages/c078-size-chart)
-  Updated: 2024-05-25T08:46:23Z
 - [C737 SIZE CHART](https://inotex.ro/pages/c737-size-chart)
-  Updated: 2024-05-25T08:46:23Z
 - [Tabel de Mărimi - Costum Medical Elastic Serena - Inotex.ro](https://inotex.ro/pages/tabel-marimi-costum-elastic-serena): Dimensiune Bluză - Tipar Regular Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XS 100 96 104 72 S 104 100 108 74 M 108 104 112 ...
-  Updated: 2024-05-25T08:46:33Z
 - [Retur în Easybox](https://inotex.ro/pages/retur-in-easybox): Acum este mult mai simplu să faci retur. Nu stai după curier, mergi la orice oră și alegi orice Easybox dorești. Returul în Easybox este un servici...
-  Updated: 2024-08-07T10:45:59Z
 - [Costum Premium Sara - Size Chart](https://inotex.ro/pages/costum-premium-sara-size-chart): Ghid de mărimi Mărime Umeri Bust Talie Pantalon Șold Pantalon Lungime Totală XS 39 99 60 97 64,5 S 41 105 64 103 66,5 M 43 111 68 109 68,6 L 45 117...
-  Updated: 2024-05-25T08:46:32Z
 - [TBI Bank - PLATA IN RATE 100% ONLINE](https://inotex.ro/pages/tbi-bank): 
-  Updated: 2025-01-30T09:41:07Z
 - [Material Costum Elastic Sara](https://inotex.ro/pages/material-costum-sara): Compoziție: 72% Poliester 22% Vascoza 6% Elastan Instrucțiuni de spălare și întreținere: Recomandarea noastră pentru o durabilitate mai mare este s...
-  Updated: 2024-08-07T10:45:52Z
 - [Compleu Ashley Size Chart](https://inotex.ro/pages/compleu-ashley-size-chart): Ghid de mărimi Dimensiune Bluză Tipar Cambrat Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 88 72 32 82 60 XS 92 78 3...
-  Updated: 2025-05-29T07:41:10Z
 - [Bluza Premium Sara - Size Chart](https://inotex.ro/pages/bluza-premium-sara-size-chart): Ghid de mărimi Mărime Umeri Bust Lungime Totală XS 39 99 64,5 S 41 105 66,5 M 43 111 68,6 L 45 117 70,6 XL 47 123 72,4 XXL 49 129 72,4 Mărime Înălț...
-  Updated: 2024-05-25T08:46:20Z
 - [Pantaloni Medicali Elastici Premium Sara - Size Chart](https://inotex.ro/pages/pantaloni-medicali-elastici-premium-sara-size-chart): Ghid de mărimi Mărime Talie Pantalon Șold Pantalon XS 60 97 S 64 103 M 68 109 L 72 115 XL 76 121 XXL 80 127 Mărime Înălțime Greutate XS 155 - 160 c...
-  Updated: 2024-08-07T10:45:55Z
 - [Returnare](https://inotex.ro/pages/returnare)
-  Updated: 2024-07-12T05:36:56Z
 - [Schimb produse](https://inotex.ro/pages/schimb-produse)
-  Updated: 2024-07-12T06:01:21Z
 - [Costum Premium Kate Size Chart](https://inotex.ro/pages/costum-premium-kate-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Elastic Talie Șold Lungime Totală XXS 106 78-106 106 66 XS 108 80-108 108 66 S 110 82-110 ...
-  Updated: 2025-04-01T08:39:57Z
 - [Bluza Premium Kate Size Chart](https://inotex.ro/pages/bluza-premium-kate-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Elastic Talie Șold Lungime Totală XXS 106 78-106 106 66 XS 108 80-108 108 66 S 110 82-110 ...
-  Updated: 2024-11-11T05:28:40Z
 - [Pantaloni Premium Kate Size Chart](https://inotex.ro/pages/pantaloni-premium-kate-size-chart): Dimensiune Pantalon Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 78-82 106 102 XS 80-84 108 102 S 82-86 110 102 M 84-88 112 102...
-  Updated: 2024-11-11T05:29:15Z
 - [Părerea clienților despre Inotex](https://inotex.ro/pages/toate-recenziile): 
-  Updated: 2024-11-20T08:32:53Z
 - [Halat Medical Bella size chart](https://inotex.ro/pages/halat-medical-bella-size-chart): Mărime Umeri Bust Talie Șold Lungime Totală Lungime Mânecă XXS 38 96 88-90 94 66 65 XS 40 106 96-98 100 68 65 S 42 108 98-100 104 69 66 M 44 112 10...
-  Updated: 2024-11-11T05:29:00Z
 - [Costum Medical Elastic Celine Size Chart](https://inotex.ro/pages/costum-medical-elastic-celine-size-chart): Dimensiune Bluză Tipar Cambrat Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 88 72 32 82 60 XS 92 78 34 86 60 S 96 82...
-  Updated: 2024-11-11T05:28:50Z
 - [Bluza Premium Sofia Size Chart](https://inotex.ro/pages/bluza-premium-sofia-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Elastic Talie Umeri Șold Lungime Totală XXS 100 74-92 33 100 66 XS 102 78-96 34 102 68 S 1...
-  Updated: 2025-01-29T06:08:24Z
 - [Costum Premium Sofia Size Chart](https://inotex.ro/pages/costum-premium-sofia-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Elastic Talie Umeri Șold Lungime Totală XXS 100 74-92 33 100 66 XS 102 78-96 34 102 68 S 1...
-  Updated: 2025-04-01T08:39:17Z
 - [Pantaloni Premium Sofia Size Chart](https://inotex.ro/pages/pantaloni-premium-sofia-size-chart): Dimensiune Pantalon Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 78-82 106 102 XS 80-84 108 102 S 82-86 110 102 M 84-88 112 102...
-  Updated: 2024-11-11T05:29:16Z
 - [Bluza Elastica Ashley Size Chart](https://inotex.ro/pages/bluza-elastica-ashley-size-chart): Dimensiune Bluză Tipar Cambrat Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 88 72 32 82 60 XS 92 78 34 86 60 S 96 82...
-  Updated: 2025-05-29T07:41:32Z
 - [Pantaloni Elastici Ashley Size Chart](https://inotex.ro/pages/pantaloni-elastici-ashley-size-chart): Dimensiune Pantalon Tipar Cambrat Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 72 88 94 XS 76 90 96 S 80 94 96 M 82 98 98 L 84 ...
-  Updated: 2025-05-29T07:42:06Z
 - [Recenzii Inotex.ro - Află Păreri și Opinii](https://inotex.ro/pages/recenzii): 
-  Updated: 2024-11-20T06:41:56Z
 - [Regulament campanie Black Friday](https://inotex.ro/pages/regulament-campanie-black-friday): Regulament Campanie Black Friday Articolul 1: Organizatorul Campaniei 1.1. Campania Black Friday este organizată de SC ZEBRA TEXTIL SRL, cu sediul ...
-  Updated: 2025-11-07T05:32:33Z
 - [Livrare în GLS Locker / ParcelShop](https://inotex.ro/pages/livrare-in-gls-locker-parcelshop)
-  Updated: 2024-11-16T08:44:21Z
 - [Regulament campanie Winter Sale](https://inotex.ro/pages/regulament-campanie-winter-sale): Regulamentul Oficial al Campaniei Organizatorul Campaniei: Campania este organizată de SC ZEBRA TEXTIL SRL, cu sediul în Șos. Nicolina 189, etaj 2,...
-  Updated: 2025-01-30T09:41:19Z
 - [Jacheta Softshell size chart](https://inotex.ro/pages/jacheta-softshell-size-chart): Jacheta Softshell Mărime Bust Lungime Totală S 96 cm 64 cm M 100 cm 66 cm L 106 cm 68 cm XL 110 cm 69 cm XXL 116 cm 70 cm 3XL 120 cm 72 cm *[Dimens...
-  Updated: 2025-01-30T09:41:21Z
 - [Program Sărbători de Iarnă 2024- 2025](https://inotex.ro/pages/program-sarbatori-de-iarna-2024-2025): Dragi clienți, Dorim să vă informăm că echipa Inotex se află în concediu în perioada 21.12.2024 - 07.01.2025. Ultima zi de activitate din acest an ...
-  Updated: 2025-01-30T09:41:22Z
 - [Costum Medical Leon](https://inotex.ro/pages/costum-medicala-leon): Bluza Medicală Leon Mărime Bust Lungime Totală S 108 cm 70 cm M 114 cm 72 cm L 120 cm 74 cm XL 126 cm 76 cm XXL 137 cm 78 cm 3XL 142 cm 80 cm *[Dim...
-  Updated: 2025-01-30T09:41:25Z
 - [Costum Jessi - Size chart](https://inotex.ro/pages/costum-jessi-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XS 96-98 88-90 41 96-98 69 S 100-102 94-96 42 100-102 70 M...
-  Updated: 2025-01-30T09:41:26Z
 - [Material Elastic Jessi](https://inotex.ro/pages/material-elastic-jessi): Compoziție: 53% Bumbac 44% Poliester 3% Elastan Instrucțiuni de spălare și întreținere: Poate fi spălat la mașină la o temperatură maximă de 40°C, ...
-  Updated: 2025-05-11T08:16:28Z
 - [Costum Cleo - Size chart](https://inotex.ro/pages/costum-cleo-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 96-100 86 38 96-100 70 XS 100-104 90 39 100-104 71 S 1...
-  Updated: 2025-01-30T09:41:27Z
 - [Halat Ella - Size chart](https://inotex.ro/pages/halat-ella-size-chart): Dimensiune Halat Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS 93 78-91 106 78 XS 95 80-93 108 78 S 97 82-95 110 79 M 99 84...
-  Updated: 2025-01-30T09:41:31Z
 - [Halat Lily](https://inotex.ro/pages/halat-lily): Dimensiune Halat Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS 87 82.5 101 78 XS 91 86.5 105 78.5 S 95 90.5 109 79 M 99 94....
-  Updated: 2025-01-30T09:41:34Z
 - [Pantaloni Elastici Elise Size Chart](https://inotex.ro/pages/pantaloni-elastici-elise-size-chart): Dimensiune Pantalon Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XXS 78-82 106 102 XS 80-84 108 102 S 82-86 110 102 M 84-88 112 102...
-  Updated: 2025-01-31T06:45:19Z
 - [Costum Elastic Elise Size Chart](https://inotex.ro/pages/costum-elastic-elise-size-chart): Dimensiuni Costum Elastic Elise Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS 92 80-90 92 68 XS 96 84-94 9...
-  Updated: 2025-02-11T12:27:04Z
 - [Bluză Elastica Elise Size Chart](https://inotex.ro/pages/bluza-elastica-elise-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Șold Lungime Totală XXS 92 80-90 92 68 XS 96 84-94 96 69 S 100 88-98 100 70 M 104 92...
-  Updated: 2025-02-11T12:27:30Z
 - [Bluza Jessi - Size chart](https://inotex.ro/pages/bluza-jessi-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XS 96-98 88-90 41 96-98 69 S 100-102 94-96 42 100-102 70 M...
-  Updated: 2025-04-01T08:41:10Z
 - [Pantaloni Jessi - Size chart](https://inotex.ro/pages/pantaloni-jessi-size-chart): Dimensiuni Pantaloni Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XS 80-84 96-98 100 S 84-88 102-104 102 M 86-90 104-106 104 L 88-9...
-  Updated: 2025-04-01T08:50:59Z
 - [Bluza Cleo - Size chart](https://inotex.ro/pages/bluza-cleo-size-chart): Dimensiune Bluză Marjă de eroare: +/- 0,5 cm Mărime Bust Talie Umeri Șold Lungime Totală XXS 96-100 86 38 96-100 70 XS 100-104 90 39 100-104 71 S 1...
-  Updated: 2025-04-01T08:51:18Z
 - [Pantaloni Cleo - Size chart](https://inotex.ro/pages/pantaloni-cleo-size-chart): Dimensiune Pantalon Marjă de eroare: +/- 0,5 cm Mărime Talie Șold Lungime Totală XS 80-84 96-98 100 S 84-88 102-104 102 M 86-90 104-106 104 L 88-94...
-  Updated: 2025-04-01T08:51:39Z
 - [Frequently Asked Questions](https://inotex.ro/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadScript() { const elem = document.createElement('script'); elem.type = 'text/...
-  Updated: 2025-04-02T11:32:03Z
 - [Costum Bianca size chart](https://inotex.ro/pages/costum-bianca-size-chart): Dimensiuni Bluza Bianca Mărime Umeri Bust Talie Lungime totală XXS 39 94 102 70 XS 40 98 106 70,5 S 41 102 110 71 M 42 106 114 72 L 43 110 118 72,5...
-  Updated: 2025-05-06T07:53:26Z
 - [All reviews page](https://inotex.ro/pages/all-reviews-page)
-  Updated: 2025-05-07T11:29:04Z
 - [GDPR](https://inotex.ro/pages/gdpr-1): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
-  Updated: 2025-07-24T12:16:22Z
 - [Bluza Bianca size chart](https://inotex.ro/pages/bluza-bianca-size-chart): Dimensiuni Bluza Bianca Mărime Umeri Bust Talie Lungime totală XXS 39 94 102 70 XS 40 98 106 70,5 S 41 102 110 71 M 42 106 114 72 L 43 110 118 72,5...
-  Updated: 2025-07-29T10:17:34Z
 
 ## Policies
 
 - [Privacy Policy](https://inotex.ro/policies/privacy-policy)
-  Updated: 2022-01-15T16:45:33+02:00
 - [Shipping Policy](https://inotex.ro/policies/shipping-policy)
-  Updated: 2025-05-21T08:24:35+03:00
 - [Refund Policy](https://inotex.ro/policies/refund-policy)
-  Updated: 2025-08-13T10:26:09+03:00
 - [Terms of Service](https://inotex.ro/policies/terms-of-service)
-  Updated: 2025-09-26T15:12:05+03:00
 - [Contact Information](https://inotex.ro/policies/contact-information)
-  Updated: 2023-03-21T08:29:09+02:00
-
-## Optional
-
-- [robots.txt](https://inotex.ro/robots.txt)
-- [sitemap.xml](https://inotex.ro/sitemap.xml)
