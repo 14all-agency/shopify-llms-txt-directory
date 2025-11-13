@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-11-12T00:00:35.890Z
+- Updated At: 2025-11-13T00:00:42.228Z
 
 ## Products
 
@@ -914,7 +914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Picket-5-Hook-Aged-Walnut-1.png?v=1727660144
   Price: $99.99 NZD
 - [Umbra Skyline Multi Hook Coat Rack - Black](https://everydayhome.co.nz/products/skyline-multi-hook-black): A piece of wall art that unexpectedly transforms into a collection of hooks that can be used for hanging scarves, accessories, bags and coats. This piece is designed to look like a window on a wall, with flip down hooks built into the skyline
-  Updated: 2025-10-27T12:32:25Z
+  Updated: 2025-11-12T23:57:36Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1823,13 +1823,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-16-18-20Cm-Universal-Steamer-Essteele-9.jpg?v=1731901924
   Price: $109.99 NZD
-- [Essteele Stainless Steel Powder Cleaner 495gm](https://everydayhome.co.nz/products/essteele-495gm-powder-cleaner): Treat your cookware to thorough cleaning with the Essteele Powder cleaner. This convenient powder is easy to use and restores your cookware to its original shine. Suitable for use on all stainless steel and copper cookware.
-  Updated: 2025-11-06T10:07:08Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Stainless-Steel-Powder-Cleaner-495gm-Esst-1.jpg?v=1731903134
-  Price: $17.99 NZD
 - [Essteele Twin Pack Roasters](https://everydayhome.co.nz/products/essteele-accessories-twin-roasters-31cmx23cm-35cmx27cm): Designed and made in Italy, these premium nonstick roasters give you the flexibility to create two dishes at once with ease. With a heavy gauge construction and a luminous nonstick interior they pair design and functionality perfectly for a lifetime of versatile cooking. Why not pair a fresh homemade lasagna with perfectly roasted fennel for a hearty Italian-inspired dinner with friends? The roaster is dishwasher safe, can be used on most cooktops (not suitable for induction) and features a gourmet nonstick interior for ease of cleaning.
   Updated: 2025-10-27T12:33:30Z
   Vendor: Essteele
@@ -1907,13 +1900,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-30cm-Covered-Wok-Essteele-1.jpg?v=1731902013
   Price: $334.99 NZD
-- [Essteele Per Domani - 30cm/5.5L Covered Sautéuse](https://everydayhome.co.nz/products/essteele-per-domani-30cm-5-5l-covered-sauteuse): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 30cm/5.5L nonstick sautéuse is perfect for frying meat, sautéing vegetables, cooking curries or even creating delicious pot roasts.
-  Updated: 2025-11-06T10:07:10Z
-  Vendor: Essteele
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-30cm-5-5L-Covered-Sauteuse-Ess-0.jpg?v=1731903326
-  Price: $389.99 NZD
 - [Essteele Per Salute - 2 Piece Set](https://everydayhome.co.nz/products/essteele-per-salute-2-piece-cookware-set): Manufactured in Milan, Italy - the style capital of the world, Essteele sets the standard for quality and elegance in premium grade cookware.Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology.This 2-piece cookware set unites our renowned 26cm nonstick skillet with the elegant 26cm covered sauteuse, embodying our most beloved sizes. Elevate your cooking as you effortlessly craft grand family feasts.
   Updated: 2025-11-11T21:37:11Z
   Vendor: Essteele
@@ -1950,7 +1936,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-20cm-Open-French-Skillet-Esste-0.jpg?v=1731902687
   Price: $149.99 NZD
 - [Essteele Per Salute - 24cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-salute-24cm-open-french-skillet): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This 24cm skillet is perfect for side dishes and meals for two.
-  Updated: 2025-10-27T12:33:38Z
+  Updated: 2025-11-12T07:37:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2558,13 +2544,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Black-UMBRA-4.jpg?v=1731903493
   Price: $37.99 NZD
-- [Umbra Udry Dish Rack & Drying Mat - Charcoal](https://everydayhome.co.nz/products/udry-drying-rack-drying-mat-charcoal): Toss the tea towel and ditch the dishcloth because UDRY does so much more and it looks good while doing it! UDRY's patented design combines a durable, molded plastic dish drying rack together with a lightweight, super-absorbent microfiber dish drying mat . The result is an easy to use, easy to clean, all-in-one dish drying solution that you're going to love! UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism
-  Updated: 2025-11-02T21:37:12Z
-  Vendor: UMBRA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Udry-Drying-Rack-Drying-Mat-Charcoal-UMBRA-1.jpg?v=1731901813
-  Price: $37.99 NZD
 - [Umbra Udry Mini Dish Rack - Charcoal](https://everydayhome.co.nz/products/udry-mini-drying-rack-drying-mat-charcoal): UDry is an innovative solution to dry dishes quickly and easily. Constructed of durable polypropylene, the lightweight, microfiber mat absorbs water from drying dishes, while also protecting countertops from scratching and water buildup. UDry is optimal when in use, and when not idle, compactly folds up to store in cupboards and leave your counter clutter-free. The space-saving drying solution provides storage and organization, while simultaneously acting as a functional drying mechanism.
   Updated: 2025-10-27T12:34:21Z
   Vendor: UMBRA
@@ -2622,7 +2601,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBin_60L-White-8710755108686Brabantia_96dpi_1000x1000px_7_NR-1192.png?v=1734487525
   Price: $469.99 NZD
 - [Brabantia Bo Waste Bin - 12L Dreamy Blue](https://everydayhome.co.nz/products/bo-waste-bin-12l-dreamy-blue): The Brabantia Bo Waste Bin 12 litre is a pretty handy bin. The unique lid lifts easily from the left, right and front of the bin. So no more twisting your arm to put something in. Another plus: the grip for easy moving and emptying. And thanks to its size and design, this bin does well in any room. Go Bo!
-  Updated: 2025-10-20T02:09:25Z
+  Updated: 2025-11-12T02:22:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -2699,7 +2678,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic60m_GroundSpike_Cover-MetallicGrey-8710755311048Brabantia_96dpi_1000x1000px_7_NR-17768.png?v=1733974447
   Price: $349.99 NZD
 - [Brabantia ReNew Shower Caddy - Dark Grey](https://everydayhome.co.nz/products/renew-shower-caddy-dark-grey): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-11-09T08:07:06Z
+  Updated: 2025-11-12T23:07:06Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -2887,13 +2866,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewToiletBrushandHolder-MattSteel-8710755385285Brabantia_96dpi_1000x1000px_7_NR-24802.png?v=1734469205
   Price: $74.95 NZD
-- [Brabantia Knife Block with Utensil Holder - Dark Grey](https://everydayhome.co.nz/products/knife-block-w-utensil-holder-dark-grey): Cut the clutter in your kitchen with this Brabantia Profile Knife Block with Utensil Holder. This stylish dark grey block keeps all your favourite kitchen tools together. Ultimate organising!
-  Updated: 2025-11-10T23:07:10Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileKnifeBlockwithUtensilHolder-DarkGrey-8710755129889Brabantia_96dpi_1000x1000px_7_NR-19899.png?v=1733973708
-  Price: $79.95 NZD
 - [Brabantia Ironing Board Cover B - Denim Blue](https://everydayhome.co.nz/products/ironing-board-cover-b-124-x-38cm-denim-blue): You don't wear the same outfit all season, so why should your ironing board? Give it a new look with this fresh ironing board top layer. Durable and practical - a real top layer for your Brabantia Ironing Board B. Enjoy!
   Updated: 2025-10-27T12:34:44Z
   Vendor: BRABANTIA
@@ -3217,7 +3189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SwiftDry_Streamline_DEC24_4.png?v=1746478922
   Price: $496.00 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-11-10T19:52:46Z
+  Updated: 2025-11-12T05:37:10Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4755,14 +4727,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveStorageBoxforWallFix-MattSteel-8710755475900Brabantia_300dpi_2000x2000px_9_NR-5239.jpg?v=1755648914
   Price: $289.99 NZD
 - [Brabantia HangOn Tower Drying Rack 23m - Matt Black](https://everydayhome.co.nz/products/brabantia-hangon-tower-drying-rack-23m-matt-black): Save energy by drying your laundry naturally, and save space by hanging it on this Brabantia HangOn Tower Drying Rack! With 23 metres of flexible drying space plus extra hooks and holders for clothes hangers, this smart drying rack occupies minimal floor space - a true space-saver. It features three drying levels that can each be folded as needed, making it suitable for long items like towels too. By buying this rack, you are also supporting WeForest to plant more trees. Wanna hang out?
-  Updated: 2025-10-31T14:43:39Z
+  Updated: 2025-11-12T03:33:30Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/HangOnTowerDryingRack_23m-MattBlack-8710755303982Brabantia_96dpi_2000x2000px_9_NR-48822.jpg?v=1755648455
   Price: $129.99 NZD
 - [Brabantia HangOn Tower Drying Rack 30m - Matt Black](https://everydayhome.co.nz/products/brabantia-hangon-tower-drying-rack-30m-matt-black): Save energy by drying your laundry naturally, and save space by hanging it on this Brabantia HangOn Tower Drying Rack! With 30 metres of flexible drying space plus extra hooks and holders for clothes hangers, this smart drying rack occupies minimal floor space - a true space-saver. It features four drying levels that can each be folded as needed, making it suitable for extra long items like trousers too. By buying this rack, you are also supporting WeForest to plant more trees. Wanna hang out?
-  Updated: 2025-10-31T14:45:14Z
+  Updated: 2025-11-12T03:33:29Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4895,7 +4867,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/299245-104_DACHSIERINGHOLDER_BRASS_CC02.jpg?v=1755558004
   Price: $39.99 NZD
 - [Umbra Tipsy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-tipsy-bottle-opener-chrome): This bar accessory is not just your average bottle opener, it's a decorative piece that will elevate any home bar setup. With its sleek cast metal construction and polished chrome finish, Tipsy is not only built to last, but it also exudes a sense of sophistication and elegance. But what sets Tipsy apart is its unique balancing stand (included), which allows it to stand upright on its own or on any edge surface. It's not just a bottle opener - it's a conversation starter and a sculptural masterpiece. Whether you're entertaining guests or enjoying a quiet drink by yourself, Tipsy is sure to impress.
-  Updated: 2025-11-11T08:35:30Z
+  Updated: 2025-11-12T16:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4930,7 +4902,7 @@
 ## Collections
 
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-11-11T12:09:26Z
@@ -4945,22 +4917,22 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 1052
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 1052
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 279
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T03:33:31Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
   Total Products: 1
 - [Kitchen Cleaning](https://everydayhome.co.nz/collections/kitchen-cleaning)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
   Updated: 2025-10-27T20:05:08Z
@@ -4975,7 +4947,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 139
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -5014,19 +4986,19 @@
   Updated: 2025-10-27T20:05:09Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-11-11T00:36:45Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 237
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 164
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-11-11T03:58:43Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
-  Updated: 2025-11-06T12:06:45Z
+  Updated: 2025-11-12T03:33:31Z
   Total Products: 130
 - [Pedal Bins](https://everydayhome.co.nz/collections/pedal-bins)
   Updated: 2025-11-07T12:07:39Z
@@ -5044,13 +5016,13 @@
   Updated: 2025-10-29T11:06:46Z
   Total Products: 31
 - [Cookware](https://everydayhome.co.nz/collections/cookware)
-  Updated: 2025-11-11T00:35:48Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 146
 - [Racks & Stands](https://everydayhome.co.nz/collections/racks-stands)
   Updated: 2025-11-11T00:35:49Z
   Total Products: 15
 - [Clotheslines & Airers](https://everydayhome.co.nz/collections/clotheslines-airers): Our indoor drying airers and clotheslines are designed for energy-efficient drying. From space-saving folding airers to durable outdoor rotary clotheslines, we have just what you need to keep your laundry fresh and dry, indoors or outdoors. Eco-friendly, durable, and perfect for any size home. Shop our range now.
-  Updated: 2025-11-06T12:06:45Z
+  Updated: 2025-11-12T03:33:31Z
   Total Products: 90
 - [Laundry Bins & Hampers](https://everydayhome.co.nz/collections/laundry-bins-hampers)
   Updated: 2025-10-27T12:32:49Z
@@ -5086,10 +5058,10 @@
   Updated: 2025-10-27T12:33:14Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
-  Updated: 2025-11-10T12:08:38Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
   Updated: 2025-11-11T12:09:26Z
@@ -5116,7 +5088,7 @@
   Updated: 2025-10-27T12:33:14Z
   Total Products: 9
 - [Clothes Airers](https://everydayhome.co.nz/collections/clothes-airers)
-  Updated: 2025-11-06T12:06:45Z
+  Updated: 2025-11-12T03:33:31Z
   Total Products: 41
 - [Ironing Boards](https://everydayhome.co.nz/collections/ironing-boards)
   Updated: 2025-10-27T12:34:32Z
@@ -5164,22 +5136,22 @@
   Updated: 2025-10-27T12:32:04Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 172
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 263
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
-  Updated: 2025-11-06T12:06:45Z
+  Updated: 2025-11-12T03:33:31Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
   Updated: 2025-11-11T03:58:43Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
-  Updated: 2025-11-11T00:26:58Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 22
 - [Shop Premium Pots & Saucepans | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/pots-saucepans): Find the perfect pots and saucepans from leading brands in cookware, such as Anolon, Circulon, Essteele, and Raco at Everyday Home.  Offering, non-stick, stainless steel & ceramic coated cookware that meets your daily cooking needs, from sautéing to simmering. Free shipping across NZ on orders over $99*
   Updated: 2025-11-11T00:35:48Z
@@ -5212,16 +5184,16 @@
   Updated: 2025-11-11T03:12:15Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-11-11T00:36:45Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 155
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 895
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
-  Updated: 2025-11-11T00:26:58Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 42
 - [Circulon](https://everydayhome.co.nz/collections/circulon)
   Updated: 2025-10-27T12:33:27Z
@@ -5257,10 +5229,10 @@
   Updated: 2025-10-27T12:35:07Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 1066
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 895
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
   Updated: 2025-11-03T12:07:26Z
@@ -5278,23 +5250,26 @@
   Updated: 2025-11-06T21:25:19Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
   Updated: 2025-11-11T12:09:26Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 124
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T23:36:45Z
   Total Products: 920
 - [Umbra Rodeo & Tipsy Buddy](https://everydayhome.co.nz/collections/umbra-rodeo-tipsy-buddy): For the host with the most. These aren't your average bottle openers - they balance, they entertain, and they kicks off cocktail hour with a whole lot of charm.
-  Updated: 2025-11-11T12:09:26Z
+  Updated: 2025-11-12T12:08:46Z
   Total Products: 2
+- [Dachsie & Ali Cat](https://everydayhome.co.nz/collections/dachsie-ali-cat)
+  Updated: 2025-11-12T03:01:46Z
+  Total Products: 4
 
 ## Store Pages
 
