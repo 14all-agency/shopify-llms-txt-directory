@@ -8,7 +8,7 @@
 - Contact Email: ravshalum@gmail.com
 - Contact Phone: 12149849947
 - Address: 5893 ashcroft dr
-- Updated At: 2025-11-11T00:01:02.628Z
+- Updated At: 2025-11-13T00:00:32.249Z
 
 ## Products
 
@@ -9381,6 +9381,10 @@
     Updated: 2025-11-08T10:00:01Z
     Author: Russ Avshalum
     Tags: cozy living, home comfort, home decor, home essentials, interior design
+  - [How to Create a Cozy Winter Living Space on Any Budget — Frugal Magic](https://avshalum.myshopify.com/blogs/news/how-to-create-a-cozy-winter-living-space-on-any-budget): How to Create a Cozy Winter Living Space on Any Budget — Frugal Magic
+    Updated: 2025-11-11T14:30:24Z
+    Author: Russ Avshalum
+    Tags: budget home decor, cozy winter decor, hygge home, living room ideas, warm lighting
   - [my collection](https://avshalum.myshopify.com/blogs/news/my-collection): my collection
     Updated: 2025-11-05T23:09:15Z
     Author: Russ Avshalum
