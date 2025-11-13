@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-12T00:00:27.885Z
+- Updated At: 2025-11-13T00:00:25.483Z
 
 ## Products
 
@@ -86,8 +86,8 @@
 - [Home page](https://verdesmeraldaolive.us/collections/frontpage)
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
-- [EVOO | Extra Virgin Olive Oil ⋆ Verde Esmeralda Olive](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-11T12:17:55Z
+- [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
+  Updated: 2025-11-12T14:46:31Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -117,35 +117,35 @@
 ## Blogs
 
 - [News benefits of Extra Virgin Olive oil](https://verdesmeraldaolive.us/blogs/news): Discover the health benefits, culinary uses, and unique flavors of Extra Virgin Olive Oil. Elevate your cooking with our expert tips and recipes.
-  - [Discover Our New Harvest: Seasonal Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/discover-our-new-harvest-seasonal-extra-virgin-olive-oil)
-    Updated: 2025-10-01T16:37:03Z
+  - [Discover Our New Harvest Seasonal](https://verdesmeraldaolive.us/blogs/news/discover-our-new-harvest-seasonal-extra-virgin-olive-oil): Discover Our New Harvest Seasonal
+    Updated: 2025-11-12T14:58:57Z
     Author: Jonathan Diaz
-  - [Discover the Varieties of Extra Virgin Olive Oil: Picual, Hojiblanca, Royal and Organic](https://verdesmeraldaolive.us/blogs/news/discover-the-varieties-of-extra-virgin-olive-oil-picual-hojiblanca-royal-and-organic)
-    Updated: 2025-10-01T16:37:11Z
+  - [Varieties of Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/discover-the-varieties-of-extra-virgin-olive-oil-picual-hojiblanca-royal-and-organic): Varieties of Extra Virgin Olive Oil
+    Updated: 2025-11-12T14:58:15Z
     Author: Jonathan Diaz
   - [EVOO and sports performance with Monica Astola](https://verdesmeraldaolive.us/blogs/news/evoo-and-sports-performance-with-monica-astola)
     Updated: 2025-10-01T16:37:23Z
     Author: Jonathan Diaz
-  - [What Is Cold Pressing? The Key to a Top-Quality EVOO Main KW: cold pressing olive oil](https://verdesmeraldaolive.us/blogs/news/what-is-cold-pressing-the-key-to-a-top-quality-evoo-main-kw-cold-pressing-olive-oil)
-    Updated: 2025-10-01T20:55:17Z
+  - [Cold Pressing: The Secret to Premium EVOO](https://verdesmeraldaolive.us/blogs/news/what-is-cold-pressing-the-key-to-a-top-quality-evoo-main-kw-cold-pressing-olive-oil): Cold Pressing: The Secret to Premium EVOO
+    Updated: 2025-11-12T14:47:53Z
     Author: Emilia Babalic
-  - [Spanish Olive Oil: What Makes It So Loved Around the World](https://verdesmeraldaolive.us/blogs/news/spanish-olive-oil-what-makes-it-so-loved-around-the-world): <p>When we think of Mediterranean excellence at the table, few ingredients inspire as much admiration—and desire—as Spanish olive oil. This “liquid gold,” as the ancient Greeks called it, is more than food: it’s the essence of a timeless culture, one that has turned the wisdom of the land into flavor, health, and beauty.</p>
-    Updated: 2025-10-01T16:37:56Z
+  - [Spanish Olive Oil: Why It’s So Loved Worldwide](https://verdesmeraldaolive.us/blogs/news/spanish-olive-oil-what-makes-it-so-loved-around-the-world): Spanish Olive Oil: Why It’s So Loved Worldwide
+    Updated: 2025-11-12T14:48:55Z
     Author: Emilia Babalic
   - [Discover the benefits of Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/did-you-know-about-the-health-benefits-of-olive-oil): <p>Discover the remarkable health benefits of extra virgin olive oil — from weight loss and cancer prevention to detox, pain relief, and glowing skin. Learn why it’s called “liquid gold.”</p>
     Updated: 2025-10-01T17:28:11Z
     Author: Verde Esmeralda Olive
-  - [Premium Spanish extra virgin olive oil: A heritage of excellence](https://verdesmeraldaolive.us/blogs/news/premium-spanish-extra-virgin-olive-oil-a-heritage-of-excellence): Premium Spanish extra virgin olive oil: A heritage of excellence
-    Updated: 2025-10-01T16:37:33Z
+  - [Premium Spanish EVOO: A Heritage of Excellence](https://verdesmeraldaolive.us/blogs/news/premium-spanish-extra-virgin-olive-oil-a-heritage-of-excellence): Premium Spanish EVOO: A Heritage of Excellence
+    Updated: 2025-11-12T14:50:01Z
     Author: Verde Esmeralda Olive
-  - [Good Extra Virgin Olive Oil: 7 Essential Health Benefits to Know 2026](https://verdesmeraldaolive.us/blogs/news/good-extra-virgin-olive-oil-7-essential-health-benefits-you-need-to-know): Good Extra Virgin Olive Oil: 7 Essential Health Benefits to Know 2026
-    Updated: 2025-10-01T17:33:18Z
+  - [Good Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/good-extra-virgin-olive-oil-7-essential-health-benefits-you-need-to-know): Good Extra Virgin Olive Oil
+    Updated: 2025-11-12T14:56:35Z
     Author: Verde Esmeralda Olive
-  - [Extra Virgin Olive Oil Cooking: 7 Essential Facts to Know 2025](https://verdesmeraldaolive.us/blogs/news/extra-virgin-olive-oil-cooking-7-essential-facts-you-need-to-know): Extra Virgin Olive Oil Cooking: 7 Essential Facts to Know 2025
-    Updated: 2025-10-01T17:48:20Z
+  - [Extra Virgin Olive Oil Cooking](https://verdesmeraldaolive.us/blogs/news/extra-virgin-olive-oil-cooking-7-essential-facts-you-need-to-know): Extra Virgin Olive Oil Cooking
+    Updated: 2025-11-12T14:57:01Z
     Author: Verde Esmeralda Olive
-  - [Cook with Extra Virgin Olive Oil: 5 Essential Reasons It's to Choice](https://verdesmeraldaolive.us/blogs/news/cook-with-extra-virgin-olive-oil-5-essential-reasons-its-your-healthiest-choice): Cook with Extra Virgin Olive Oil: 5 Essential Reasons It's to Choice
-    Updated: 2025-10-01T17:35:19Z
+  - [Cook with Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/cook-with-extra-virgin-olive-oil-5-essential-reasons-its-your-healthiest-choice): Cook with Extra Virgin Olive Oil
+    Updated: 2025-11-12T15:00:54Z
     Author: Verde Esmeralda Olive
   - [Difference Between Olive Oil and Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/difference-between-olive-oil-and-extra-virgin-olive-oil): Difference Between Olive Oil and Extra Virgin Olive Oil
     Updated: 2025-10-28T20:07:42Z
@@ -167,8 +167,8 @@
   Updated: 2025-11-08T13:28:58Z
 - [Cookie Policy](https://verdesmeraldaolive.us/pages/cookie-policy): At Verde Esmeralda Olive, we want to ensure a safe and transparent browsing experience. To do this, we use cookies and similar technologies that al...
   Updated: 2025-09-30T18:03:26Z
-- [FAQ](https://verdesmeraldaolive.us/pages/faqs): 
-  Updated: 2025-11-08T13:29:52Z
+- [FAQ about EVOO, shipping, orders, and the quality](https://verdesmeraldaolive.us/pages/faqs): 
+  Updated: 2025-11-12T15:39:12Z
 - [Giveaway](https://verdesmeraldaolive.us/pages/giveaway): Treat yourself to a taste of excellence — win a Baby Pack with 3 premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Join now!
   Updated: 2025-09-30T18:03:28Z
 - [Giveaway Emerald Day](https://verdesmeraldaolive.us/pages/giveaway-emerald-day): Treat yourself to a taste of excellence — win a Green Emerald- 500ml premium EVOOs from Verde Esmeralda, one of Spain’s most awarded olive oils. Jo...
