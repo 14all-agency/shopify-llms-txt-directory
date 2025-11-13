@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-11T00:00:39.100Z
+- Updated At: 2025-11-13T00:01:19.094Z
 
 ## Products
 
@@ -125,7 +125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/A22831E4-5833-447B-BF0E-FEC0C917D8AA.jpg?v=1738316651
   Price: 9,90 € EUR
 - [Tazza "Love-Romantica" personalizzabile](https://www.amashopstudio.it/products/tazza-love-romantica-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:14Z
+  Updated: 2025-11-11T05:59:50Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1289,7 +1289,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
 - [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2025-11-10T21:37:20Z
+  Updated: 2025-11-11T14:37:26Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -3160,7 +3160,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-11-08T12:22:50Z
+  Updated: 2025-11-12T12:26:01Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-11-08T12:22:50Z
+  Updated: 2025-11-12T12:26:01Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
