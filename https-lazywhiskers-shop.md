@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-12T00:00:28.605Z
+- Updated At: 2025-11-13T00:00:37.409Z
 
 ## Products
 
@@ -1871,7 +1871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/fd1d4bb6-092e-405b-922d-c1cbd6398074.webp?v=1762269661
     Price: €39.99 EUR
 - [Ho Ho Nope Hoodie – Sarcastic Christmas Cat Hoodie](https://lazywhiskers.shop/products/ho-ho-nope-hoodie): When Santa says “Ho Ho Ho,” you say “Nope.” The Ho Ho Nope Hoodie features a grumpy festive cat and peak anti-cheer energy. LazyWhiskers original.
-  Updated: 2025-11-11T16:42:41Z
+  Updated: 2025-11-12T04:56:50Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2590,7 +2590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/1730edd8-7a70-4628-ba2e-1af5c1a151ae.webp?v=1762612718
     Price: €24.99 EUR
 - [Enter the Nap Side Down T-Shirt — Limited Edition | LazyWhiskers](https://lazywhiskers.shop/products/enter-the-nap-side-down): Step into the Nap Side Down — where naps rule and reality glitches. Retro rebellion meets cat energy in this Limited Edition LazyWhiskers tee.
-  Updated: 2025-11-11T16:15:24Z
+  Updated: 2025-11-12T06:19:22Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
@@ -2656,7 +2656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
     Price: €24.99 EUR
 - [Ho Ho Nope](https://lazywhiskers.shop/products/ho-ho-nope): When Santa says “Ho Ho Ho,” you say “Nope.”The Ho Ho Nope Hoodie by LazyWhiskers is the ultimate funny Christmas hoodie for cat lovers with zero patience for festive chaos. Featuring a grumpy black cat surrounded by unwanted holiday cheer, it’s your official uniform for skipping the season — in style.Made from a premium 50/50 cotton-poly blend, this sarcastic Christmas sweatshirt is soft, warm, and built to survive December’s drama. With a double-lined hood, smooth air jet yarn, and rib-knit cuffs, comfort meets rebellion in every stitch.Perfect as a sarcastic gift for cat lovers, anti-Christmas hoodie, or funny holiday outfit for those who’d rather nap than jingle.Designed to disobey. Purrfectly done with Christmas. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-11-11T16:47:52Z
+  Updated: 2025-11-12T17:18:54Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
