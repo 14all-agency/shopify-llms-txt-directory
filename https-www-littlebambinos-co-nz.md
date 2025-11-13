@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-11-12T00:01:01.551Z
+- Updated At: 2025-11-13T00:01:01.240Z
 
 ## Products
 
@@ -174,41 +174,41 @@
     Availability: Available
     Price: $18.99 NZD
 - [VEJA Esplar Leather - White Nautico Pekin](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-10T21:45:28Z
+  Updated: 2025-11-12T00:36:23Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Nautico1.jpg?v=1624912974
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233189470)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233222238)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233255006)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233287774)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233320542)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233353310)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233386078)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233418846)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233451614)
     Availability: Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-esplar-leather-white-nautico-pekin?variant=32200233484382)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
 - [TOSHI Baby Dress Athena  - Blossom](https://www.littlebambinos.co.nz/products/toshi-baby-dress-sienna): Toshi Baby Dress Athena is crafted from the finest quality 100% cotton. The A-line shape is flattering and comfortable, with space for freedom of movement. A smocked back panel offers adjustable sizing and convenient dressing. Toshi Baby Dress is a beautiful piece, which transitions effortlessly from casual occasions to special celebrations.Â DETAILS Smocking back panel for adjustable sizing and convenient dressing 100% cotton
   Updated: 2025-11-10T22:48:16Z
   Vendor: Toshi
@@ -1542,13 +1542,6 @@
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-flutter-tee-luna-flower?variant=39664380575838)
     Availability: Not Available
     Price: $19.00 NZD
-- [MUSHIE Baby Training Toothbrush - Blush](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-blush): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
-  Updated: 2025-11-10T22:58:43Z
-  Vendor: Mushie
-  Product Type: Baby Toothbrush
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerTrainingToothbrush-Blushcopy.jpg?v=1651054022
-  Price: $21.99 NZD
 - [MUSHIE Training Toothbrush - Cambridge Blue](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-cambridge-blue): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
   Updated: 2025-11-10T22:58:44Z
   Vendor: Mushie
@@ -2798,7 +2791,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Flap Cap Baby - Dove](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-dove): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Dove features a grey stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-10T23:02:58Z
+  Updated: 2025-11-12T07:41:26Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -2978,41 +2971,41 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $34.30 NZD
 - [VEJA Esplar Velcro Nubuck - Steel White](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:42:54Z
+  Updated: 2025-11-12T00:36:28Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VEJA_RSV132834_lateral.jpg?v=1668229084
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688296542)
     Availability: Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688329310)
     Availability: Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688362078)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688394846)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688427614)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688460382)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688493150)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688525918)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688558686)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-esplar-velcro-nubuck-steel-white?variant=39851688591454)
     Availability: Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
 - [BY BILLIE Animal advocate tee - Pink](https://www.littlebambinos.co.nz/products/copy-of-by-billie-our-only-home-mango): By Billie Rising Tides X Tess Robinson was designed for days spent in the warm sunshine, by the sparkling ocean, with loved ones. A lightweight cotton fabric, made from 100% cotton.
   Updated: 2025-11-10T07:21:49Z
   Vendor: By Billie
@@ -3138,41 +3131,41 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/A427A0C1-788F-4E92-9E39-E5895369A809_1445x_c0f0f8bc-5d97-4f70-b474-30b987a11630.jpg?v=1670666354
   Price: $28.00 NZD
 - [VEJA Esplar Leather - Cyprus Emeraude](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:42:56Z
+  Updated: 2025-11-12T00:36:30Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VEJA_SV0502999C_lateral.jpg?v=1672787604
   - [EU 22](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380531806)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380564574)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380597342)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380630110)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380662878)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380695646)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380728414)
     Availability: Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380761182)
     Availability: Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380793950)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/copy-of-veja-esplar-leather-cyprus-white?variant=39886380826718)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
 - [Te Reo Maoori For Preschoolers](https://www.littlebambinos.co.nz/products/te-reo-maori-for-preschoolers): Exploring the sounds of the MÄori language with bright and bold images your children will love.
   Updated: 2025-11-10T23:03:58Z
   Vendor: As We Are Illustration
@@ -5261,13 +5254,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $34.00 NZD
 - [TOSHI Sunhat Olly - Indiana](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-11-10T23:07:59Z
+  Updated: 2025-11-12T02:33:12Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SH_OLY_INI_A_Toshi_b554ab36-a18c-4053-a188-e2a1b6cdc501.jpg?v=1723163204
   - [XS](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest?variant=41998351237214)
-    Availability: Available
+    Availability: Not Available
     Price: $33.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest?variant=41998351269982)
     Availability: Not Available
@@ -6193,77 +6186,77 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
 - [VEJA V10 Velcro - Multico-Swan White](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:43:30Z
+  Updated: 2025-11-12T00:36:33Z
   Vendor: VEJA
   Product Type: Footware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CV0503632C_1_2048x_d8c968e0-9bef-4614-a106-4c86270058ed.webp?v=1718240229
   - [EU 22](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048250880094)
     Availability: Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048250912862)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048250945630)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048250978398)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048251011166)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40048251043934)
     Availability: Not Available
-    Price: $140.00 NZD
+    Price: $111.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40928792117342)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40928792150110)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40928792182878)
     Availability: Not Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/copy-of-veja-v10-velcro-multico-swan-white?variant=40928792215646)
     Availability: Available
-    Price: $150.00 NZD
+    Price: $119.99 NZD
 - [VEJA V-12 Velcro Chromefree - White/Multico/Clay](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:43:31Z
+  Updated: 2025-11-12T00:36:34Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503415C_lateral_3364c3fd-9b1e-4536-b4f1-8b25bf2c1dc5.jpg?v=1718240311
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254287966)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254320734)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254353502)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254386270)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254419038)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254451806)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254484574)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254517342)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254550110)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-12-velcro-chromefree-white-multoco-clay?variant=40048254582878)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [KONGES SLOJD Baby Bottle with Handle - Lemon](https://www.littlebambinos.co.nz/products/konge-slojd-baby-bottle-with-handle-lemon): Baby bottle designed with a straw and easy grip handle.250 mlDETAILS Tritan polypropylene medical silicone.
   Updated: 2025-11-10T08:03:37Z
   Vendor: Konges slojd
@@ -6293,7 +6286,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $59.00 NZD
 - [KONGES SLOJD Fairy Dress - Fairy Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-fairy-dress-fairy-cherry): Dress made from 100% polyester with 100% cotton lining
-  Updated: 2025-11-10T08:03:37Z
+  Updated: 2025-11-12T10:59:15Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
@@ -6356,7 +6349,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $24.00 NZD
 - [CONNETIX Pastel Rectangle Pack 24pc](https://www.littlebambinos.co.nz/products/connetix-pastel-rectangle-pack): Spark imagination and creativity with our 24 Piece Pastel Rectangle Pack! Inspire big ideas with multiple connection points and strong magnets as children explore their imagination to create long ramps, car tracks, roads, colourful carparks, towers and houses, plus so much more.
-  Updated: 2025-11-10T22:20:18Z
+  Updated: 2025-11-12T09:39:56Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -6781,7 +6774,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
   Price: $202.99 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-11-10T22:20:16Z
+  Updated: 2025-11-12T17:35:11Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
@@ -8126,7 +8119,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_1512x_4787a3ee-519c-41fa-a6b1-ea67543801f5.webp?v=1712712830
   Price: $120.00 NZD
 - [BUNNIE CADDIE - Cream](https://www.littlebambinos.co.nz/products/bunnie-caddie-cream): Boasting neutral tones and elegant vibrant shades, our Bunnie Caddie has a luxurious look and feel and will double as a stylish nursery decor item. Designed with the finer details honed to perfection every feature of your caddie has been carefully considered for optimum style and functionality. The Bunnie Caddie is made from premium felt fabric that provides a sturdy base and sectional caddie, leather trim and metal hardware for a sleek look, plus a leather strap for durability and ease of transport. Each bag will be shipped in a dust-proof bag that can double as an everyday tote. Tan Leather detailing on the bottom, side as well as handles for durability Nine functional pockets Four removable dividers that can be used to support and organise your products Larger Leather pocket with magnetic closure Black Matt Hardware Two-tone body strap Size 41cm L x 32cm D x 21cm H Warning: Intended for storage only. Do not allow children to play with it
-  Updated: 2025-11-10T07:21:00Z
+  Updated: 2025-11-12T00:46:50Z
   Vendor: Bunny Caddie
   Product Type: Nappy Caddie
   Availability: Available
@@ -8678,7 +8671,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $32.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-11-10T23:10:28Z
+  Updated: 2025-11-12T01:03:30Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -8687,7 +8680,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood?variant=41090996306014)
-    Availability: Available
+    Availability: Not Available
     Price: $36.00 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood?variant=41090996338782)
     Availability: Available
@@ -9341,7 +9334,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $46.00 NZD
 - [TOSHI Swim Kids Rashie Long Sleeve Classic - Daintree](https://www.littlebambinos.co.nz/products/toshi-swim-kids-rashie-long-sleeve-half-zip-classic-daintree): DETAILS UPF 50+ UV protection Chlorine safe and pool friendly High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and side seam for wearers comfort Back zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-11-10T20:39:37Z
+  Updated: 2025-11-12T10:39:18Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
@@ -9683,7 +9676,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $70.00 NZD
 - [KONGES SLOJD Wooden Teddy Dress-up Puzzle - Animals](https://www.littlebambinos.co.nz/products/konges-slojd-wooden-teddy-dress-up-puzzle-animals): Dress up puzzle with our favorite little teddy bear. Play with different options and costumes for the teddy. Includes: 4 outfits. 12 puzzle pieces. A box with a lid for storage. This product is made of FSC™-certified pinewood and plywood. License Number: FSC C177572. Ages: 18m+. FSC™ certified pinewood & plywood
-  Updated: 2025-11-10T23:10:59Z
+  Updated: 2025-11-12T10:59:17Z
   Vendor: Konges slojd
   Product Type: Jigsaw Puzzles
   Availability: Available
@@ -10306,21 +10299,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-11-11T22:52:40Z
+  Updated: 2025-11-12T22:12:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-11-10T23:52:40Z
+  Updated: 2025-11-12T06:12:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-11-10T23:42:42Z
+  Updated: 2025-11-13T00:00:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -10334,340 +10327,236 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1498_OPTIMISED.jpg?v=1734472190
   Price: $24.00 NZD
 - [VEJA V-10 Suede - Multico Nautico](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:44:16Z
+  Updated: 2025-11-12T00:36:35Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja_aw22_kids_hd-18-1.jpg?v=1736281200
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850347614)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850380382)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850413150)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850445918)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850478686)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850511454)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850544222)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850576990)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850609758)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-10-suede-multico-nautico?variant=41369850642526)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA V-10 Chromefree Leather - Extra-White & Multico Nautico](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-09-11T19:06:15Z
+  Updated: 2025-11-12T00:36:35Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_CV0503802C_lateral_fa805c16-fadb-4a3f-9eea-e04fdf0c6862.jpg?v=1736279763
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857753182)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857785950)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857818718)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857851486)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857884254)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857917022)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857949790)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369857982558)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-nautico?variant=41369858015326)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA V-10 Chromefree Leather Extra-White & Multico-Freshmint](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:44:17Z
+  Updated: 2025-11-12T00:36:36Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_CV0503803C_lateral_39821284-8cff-43ca-8464-d2fed93de34d.jpg?v=1736281967
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876430942)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876463710)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876496478)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876529246)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876562014)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876594782)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876627550)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876660318)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-10-chromefree-leather-extra-white-multico-freshmint?variant=41369876693086)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA V-12 Chromefree Leather - Extra-White & Multico-Indigo](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-10-11T21:17:48Z
+  Updated: 2025-11-12T00:36:37Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503229C_lateralok_e35fa1b2-a6b4-4fd2-8e78-453332b59fd1.jpg?v=1736280937
   - [EU 22](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880363102)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880395870)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880428638)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880461406)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880494174)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880526942)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880559710)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880592478)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369880625246)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/junior-v-12-chromefree-leather-extra-white-multico-indigo?variant=41369881018462)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA V-12 Chromefree Leather Extra-White & Multico-Orchid](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:44:18Z
+  Updated: 2025-11-12T00:36:37Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_XV0503793C_lateral_d59e71da-8de7-4424-bdfe-817dc7faa89a.jpg?v=1736281460
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884426334)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884459102)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884491870)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884524638)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884557406)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884590174)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884622942)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884655710)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884688478)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-12-chromefree-leather-extra-white-multico-orchid?variant=41369884721246)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA Canary Light Alveomesh - Poker Jade](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:44:19Z
+  Updated: 2025-11-12T00:36:38Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/12_1.jpg?v=1736280376
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888161886)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888194654)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888227422)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888260190)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888292958)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888325726)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888358494)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-canary-light-alveomesh-poker-jade?variant=41369888391262)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
 - [VEJA Canary Light Alveomesh - Gravel Malibu Silver](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-10T22:09:08Z
+  Updated: 2025-11-12T00:36:39Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VEJA_YL1803821C_lateral_a708a74a-7826-490a-9229-ecd36297dec6.jpg?v=1736282114
   - [EU 24](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890193502)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890226270)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890259038)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890291806)
     Availability: Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890324574)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890357342)
     Availability: Not Available
-    Price: $185.00 NZD
+    Price: $147.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/canary-light-alveomesh-gravel-malibu-silver?variant=41369890390110)
     Availability: Not Available
-    Price: $185.00 NZD
-- [TOPSY TURVY Swedish Ladder](https://www.littlebambinos.co.nz/products/swedish-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products.*Please note: This item is the Ladder only, no accessories other than the Pikler Triangle and Slide. Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 2 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three customised colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the Swedish Ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our Swedish Ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-11-11T02:10:41Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ELYANA.jpg?v=1736894989
-  - [Natural Frame](https://www.littlebambinos.co.nz/products/swedish-ladder?variant=42072262344798)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/naturalframe_13c5a572-1ce5-47a3-b5ba-731a886f7770.jpg?v=1736894989
-    Price: $1,049.00 NZD
-  - [White Frame](https://www.littlebambinos.co.nz/products/swedish-ladder?variant=42072262377566)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/closeup.jpg?v=1736894989
-    Price: $1,199.00 NZD
-  - [Black Frame](https://www.littlebambinos.co.nz/products/swedish-ladder?variant=42072262410334)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackframe.jpg?v=1736894989
-    Price: $1,199.00 NZD
-- [TOPSY TURVY Gymnastic Rings](https://www.littlebambinos.co.nz/products/gymnastic-ring): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Our Topsy Turvy gymnastic rings are specially designed for kids, featuring a small inner diameter to prevent any accidents. Despite their size, they are equally durable and safe to use for the whole family. These gymnastic rings provide a fun and engaging way for kids to improve their strength, balance, and coordination, through various exercises such as swinging, spinning, hanging, and the bird’s nest exercise. The smooth wooden surface of the Topsy Turvy gymnastic ring offers a comfortable and firm grip. Currently we only offer these rings in the natural timber look, and the ropes come in either blue or white. Proper installation and secure attachment of the ropes are important for safe use. It is recommended to supervise young kids during the use of these gymnastic rings.
-  Updated: 2025-11-11T02:42:41Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/5.jpg?v=1737426510
-  - [No](https://www.littlebambinos.co.nz/products/gymnastic-ring?variant=41385760751710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/5.jpg?v=1737426510
-    Price: $105.00 NZD
-  - [Yes](https://www.littlebambinos.co.nz/products/gymnastic-ring?variant=41385760784478)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/topsy_turvy_C_emmalinephotography.com-6657_7f4921aa-07cc-45f6-99cc-a066b8966b0f.jpg?v=1736894990
-    Price: $120.00 NZD
-- [TOPSY TURVY Rope Ladder](https://www.littlebambinos.co.nz/products/rope-ladder): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Looking for a more challenging and exciting addition to your Topsy Turvy? Look no further than our high-quality rope ladder! Our rope ladder is made with durable materials that can withstand hours of climbing and play. With its sturdy construction and safe design, it's perfect for kids of all ages to enjoy. Not only is our rope ladder fun and engaging, but it also promotes physical activity and helps build strength, coordination, and balance in children. We strongly recommend this item for kids over the age of 4 as it provides a great challenge and a whole different dynamic of climbing. Order now and see your children's faces light up with excitement as they climb to new heights with our top-notch rope ladder! Order now and let the fun begin! Limited stock available, so don't wait!
-  Updated: 2025-10-01T03:10:40Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_624a2f6c-0a61-4713-9dcb-bc20a86d4c33.jpg?v=1736894993
-  Price: $65.00 NZD
-- [TOPSY TURVY Climbing Rope](https://www.littlebambinos.co.nz/products/climbing-rope): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Are your kids ready for a real climbing challenge? Our durable climbing ropes are perfect for kids who love to monkey around and test themselves! Made with the best materials for improving grip and being soft while strong, these ropes are designed to be manhandled and provide hours of fun and excitement. Not only are our climbing ropes a blast to play with, but they also offer a range of developmental benefits. They help improve motor skill planning, coordination, mental focus, and physical upper body strength. For an added challenge, we offer ropes without knots for a more advanced climbing experience. Installation is a breeze with the included indoor wooden eye loop, just throw over the top of your Topsy Turvy frame and secure! Maintenance is easy with our ropes, as they can be wiped down with any non-abrasive cleaner. Plus, with our Topsy Turvy safety and satisfaction guarantee, you can have peace of mind knowing that we stand behind our products. If you're not completely satisfied, we offer a 100% money back guarantee. Note: Proper spotting and supervision from an adult are required for any climbing activity to ensure safety.
-  Updated: 2025-10-01T03:18:42Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1.jpg?v=1736894994
-  Price: $45.00 NZD
-- [TOPSY TURVY Wooden Swing/Trapeze](https://www.littlebambinos.co.nz/products/wooden-swing): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Simple, but oh so much fun! Our small, sturdy timber swing/trapeze is perfect for your kids to dangle from or swing for hours! The solid timber will give you peace of mind while the kids swing about and hang upside down like monkeys.Easy to install on your Topsy Turvy, with the pre drilled holes in the framing, this really compliments the whole frame. It is suitable for children between the ages of 3 and 12 years with a maximum weight rating of 50kg. This is our most popular accessory alongside the gymnastic rings.
-  Updated: 2025-11-11T02:04:41Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_8d3250ec-c4a1-4ca2-a4ad-b5925d79f211.jpg?v=1736894996
-  Price: $65.00 NZD
-- [TOPSY TURVY Floor Mat](https://www.littlebambinos.co.nz/products/floor-mat): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. The TOPSY TURVY Floor Mat provides a comfortable surface for your little one's playtime adventures. This thoughtfully designed mat offers both protection and support, making it a wonderful addition to any child's space.
-  Updated: 2025-11-11T02:12:40Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/15.jpg?v=1737426503
-  Price: $90.00 NZD
-- [TOPSY TURVY Swedish Ladder Combo](https://www.littlebambinos.co.nz/products/swedish-ladder-combo): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. We recommend buying this combo as it includes: - Swedish ladder/triangle/slide - Floor mat - Rope ladder - Swing/trapeze - Climbing rope - Gymnastics rings Designed with our tamariki in mind, the Topsy Turvy Swedish Ladders are a fantastic way to keep your little ones active, entertained and ensure that they are developing essential motor skills in a safe environment. This is so needed for many Kiwi kids to meet their active movement needs. Made from high-quality materials and NZS5828 certified, this ladder features wooden rungs that are tough enough to handle even the most rambunctious kids, and with a weight capacity of up to 110kg, they are also a great piece of exercise equipment for parents to join their kids and do pull ups, push ups, stretches etc. Our ladder is compliant with CE safety guidelines to ensure peace of mind. The swedish ladder is common in Europe as it is an exceptional tool for kids to develop their mobility, coordination, balance, and strength. Climbing up the ladder allows kids to see and explore their environment from a new perspective, fulfilling their natural built-in need to learn new things. Learning to climb is a wonderful way to get kids physically and mentally active and build their confidence while reducing screen time! Please also check out our range of purpose made accessories for swinging and climbing that are made for our ladder. Assembling this Swedish ladder is a breeze, we will include a detailed assembly and installation guide with every purchase. The ladder is designed to be mounted to the studs and nogs in the wall. We strongly recommend installation is completed by a local, reputable tradesperson. There is also the option for the Topsy Turvy team to install for an additional fee if you are within a 1.5 hour drive of Hamilton. Please contact us to organise this. Once it is set up, your tamariki can use it in a variety of ways - climbing up and down the rungs, doing chin-ups or even simply hanging off the bar like a bunch of monkeys. Available in three colour schemes: - Natural framing and natural rungs - White framing and natural rungs - Black framing and natural rungs This ladder also comes with our unique pikler triangle and slide which have three uses! 1. Floor Pikler Triangle and slide. 2. Monkey Bar - easily slides on to the frame allowing for younger kids to hang in safety at a lower height and also climb and slide off the ladder. 3. Bridge - mounted like a bridge on the base of the frame to allow for additional exploration and climbing for kids! Max Weight Capacity: Pikler Triangle: 30kg Slide: 30kg Swedish Ladder: Outer Bar: 80kg Swedish Ladder: Middle Bar: 110kg This ladder is perfect for indoor play, and its compact design means it won't take up too much space in your home or play area. With the swedish ladder for kids play, your children will have endless opportunities for fun and physical activity, all while building strength and coordination. Encourage your little ones to stay active, have fun, and develop their physical abilities with this exceptional ladder that provides both entertainment and exercise. Our swedish ladder will be a great long term investment for your tamariki with its durable and aesthetic design.
-  Updated: 2025-11-10T19:12:43Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/addercutout2_2cb1fe44-c973-41e9-bb58-ace09ed1bcf8.png?v=1737426544
-  - [Black Framing / No](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761275998)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackframe_89736a67-d21c-4109-a988-aa051d7156de.jpg?v=1737426544
-    Price: $1,489.00 NZD
-  - [Black Framing / Yes](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761308766)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/blackframe_89736a67-d21c-4109-a988-aa051d7156de.jpg?v=1737426544
-    Price: $1,504.00 NZD
-  - [White Framing / No](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761341534)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/20230408_140829copy.jpg?v=1737426544
-    Price: $1,489.00 NZD
-  - [White Framing / Yes](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761374302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/20230408_140829copy.jpg?v=1737426544
-    Price: $1,504.00 NZD
-  - [Natural Framing / No](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761407070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/naturalframe.jpg?v=1737426544
-    Price: $1,339.00 NZD
-  - [Natural Framing / Yes](https://www.littlebambinos.co.nz/products/swedish-ladder-combo?variant=41385761439838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0604/4077/files/naturalframe.jpg?v=1737426544
-    Price: $1,354.00 NZD
-- [TOPSY TURVY Disc Swing](https://www.littlebambinos.co.nz/products/disc-swing): Add another dynamic to your Swedish Ladder with friends and family as you enjoy our new disc swing. Crafted from safe wood materials, our swing ensures a secure and joyful play experience for children. Our disc swing seat features a comfortable design, with a diameter of 30cm and a rope length of 200cm, providing peace of mind for parents while their little ones play.
-  Updated: 2025-11-09T18:12:42Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/disc11.png?v=1737426497
-  Price: $90.00 NZD
-- [TOPSY TURVY Multi-Use Arch](https://www.littlebambinos.co.nz/products/climbing-arch): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Introducing the Topsy Turvy Climbing Arch and plush cushion – a revolutionary piece of children's furniture designed to inspire active play, foster development, and ignite imaginations. Our arch is designed to grow with your child, catering to different developmental stages and play preferences. From supporting infants with its use as a baby gym to providing endless entertainment for older children as a climbing arch, table, or storage unit, it offers something for everyone from ages 0 to 9. Our climbing arch is more than just a static structure; it's an invitation to adventure. Crafted to support active play, it encourages children to engage their gross motor skills, coordination, balance, and strength. As they climb the rungs, they not only build physical agility but also develop confidence in their abilities. Beyond its primary function as a climbing arch, it morphs into a range of imaginative play settings. From a cozy rerading rocker to a play fort, it adapts to suit every play scenario. It can even transform into an indoor football goal, sparking lively games and competitions. Used alone, or alongside a Swedish Ladder, this arch is the gateway to a world of exploration and fun for kids of all ages.Adult supervision is essential during play to ensure safe movement and prevent accidents. Experience the joy of play and the wonder of exploration with a Topsy Turvy climbing arch – where every climb is a step towards adventure! *Note: Includes cushion
-  Updated: 2025-11-09T18:12:42Z
-  Vendor: Topsy Turvy NZ
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/topsy_turvy_emmalinephotography.com-7413.jpg?v=1736895004
-  Price: $439.00 NZD
+    Price: $147.99 NZD
 - [MELII Snackle Box Regular - Blue](https://www.littlebambinos.co.nz/products/melii-snackle-box-regular-blue): DETAILS The Melii Snackle Box adds an element of fun and excitement to any snack time! The design is inspired by a tackle box with 12 individual compartments to fill with your favourite treats, each with removable dividers to create a completely customize-able snack storage box. Featuring a secure snap-lock lid to ensure your snacks stay fresh and organised, even during the bumpiest rides! Perfect for travel, family outings, school lunches and road trips. The Snackle Box is a must for fussy eaters, large eaters or even for the whole family to share!
   Updated: 2025-11-10T23:11:37Z
   Vendor: Melii
@@ -11753,7 +11642,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $65.00 NZD
 - [KONGES SLOJD Children's Mini Backpack - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-jody-teddy-backpack-mon-grand-citron-sage): The Konges Slojd mini backpack is a perfect bag for children in kindergarten. The backpack has a front-chest buckle, padded shoulder straps, inside pockets, room for a thermal bottle and an inside water repellent foam board for back comfort. The foam board is removable and can be used to sit on as well.
-  Updated: 2025-11-10T07:58:09Z
+  Updated: 2025-11-12T18:59:20Z
   Vendor: Konges slojd
   Product Type: School Bag
   Availability: Available
@@ -11968,7 +11857,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Crop Rashie - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-crop-rashie-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-05T22:27:49Z
+  Updated: 2025-11-12T02:48:05Z
   Vendor: Zulu & Zephyr
   Product Type: swim rashie
   Availability: Available
@@ -11989,7 +11878,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $72.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-crop-rashie-shell-pink?variant=41448755036254)
-    Availability: Available
+    Availability: Not Available
     Price: $72.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Bikini Bottom - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-bikini-bototm-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
   Updated: 2025-11-08T13:16:32Z
@@ -12013,7 +11902,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $89.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Surf Short - Parrot Green](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-short-parrot-green): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-06T23:50:27Z
+  Updated: 2025-11-12T21:31:30Z
   Vendor: Zulu & Zephyr
   Product Type: Swim Shorts
   Availability: Available
@@ -12037,7 +11926,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $56.00 NZD
   - [7y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-short-parrot-green?variant=41448757198942)
-    Availability: Available
+    Availability: Not Available
     Price: $56.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Surf Suit - Parrot Green](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-surf-suit-parrot-green): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
   Updated: 2025-11-05T22:27:52Z
@@ -12250,7 +12139,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [HUXBABY Dreamy Denim Shorts - Denim](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim): No other shorts compare. Made from the softest denim you’ll ever feel, they feature a kid-friendly elasticated waistband and adjustable drawstring. Front and back pockets hide treasures perfectly, and an oversized, relaxed cut looks cool on every occasion. Spot the Spot the Huxbear patch on the bum as they run away to play.
-  Updated: 2025-11-10T07:48:49Z
+  Updated: 2025-11-12T06:37:11Z
   Vendor: HUXBABY
   Product Type: Shorts
   Availability: Available
@@ -12289,13 +12178,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $42.00 NZD
 - [HUXBABY Midnight Colour Block Overalls - Midnight Multi](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi): A classic pair of 90s overalls, in a wide leg vintage cut. Made from soft cotton cord, they feature adjustable straps for comfy wear, front and back pockets perfect for stashing treasures in and our varsity Huxbear embroidery. Baby sizes include stainless steel crotch snaps for easy dressing. Style them alone or over a tee.
-  Updated: 2025-11-10T07:48:49Z
+  Updated: 2025-11-12T06:26:35Z
   Vendor: HUXBABY
   Product Type: Overalls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB0024W25_01_WHITE.jpg?v=1741123635
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi?variant=41450127229022)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-midnight-colour-block-overalls-midnight-multi?variant=41450127261790)
     Availability: Not Available
@@ -12639,7 +12528,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at10.41.59AM.png?v=1741902125
   Price: $13.00 NZD
 - [MIMI & LULA Girl's Marseille Acetate Hair Clips](https://www.littlebambinos.co.nz/products/mimi-lula-christmas-mini-clips): Bright and fresh pastel coloured, super cool resin clips! These gorgeously simple, summery clips come in a pack of four and look amazing sweeping back stray hairs, or holding up a 'do. Coming in colours of soft pinks, aqua and yellow, these would look amazing worn in pairs and with a large strong clip they are great for thicker hair, and would even work in adult hair in case you fancy borrowing!
-  Updated: 2025-11-10T23:11:59Z
+  Updated: 2025-11-12T06:26:35Z
   Vendor: Mimi & Lula
   Product Type: Hair Accessoriess
   Availability: Available
@@ -12825,7 +12714,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-11-08T03:12:46Z
+  Updated: 2025-11-12T21:30:45Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -12866,7 +12755,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-11-11T23:56:45Z
+  Updated: 2025-11-12T23:56:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -12905,7 +12794,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-11-11T23:52:41Z
+  Updated: 2025-11-12T23:52:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13305,7 +13194,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Waffle Set - Little Lemon](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon): This playful cotton waffle set includes a pre-shrunk, soft washed long sleeved top and full length pant in a relaxed fit. Adjust the ties on the waistband for a perfect fit and enjoy functional pockets, all made from GOTS certified organic cotton free from nasty chemicals. DETAILS Full length tapered leg, stretch waistband that is gentle on little tummies, functional side pockets, great everyday basic pant, waffle knit. Australian owned and designed. Made in India.
-  Updated: 2025-11-10T20:21:34Z
+  Updated: 2025-11-12T00:50:36Z
   Vendor: Wilson & Frenchy
   Product Type: Matching Set
   Availability: Available
@@ -13314,7 +13203,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $45.00 NZD
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon?variant=41647467364446)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-little-lemon-organic-waffle-set-little-lemon?variant=41647467397214)
     Availability: Not Available
@@ -13482,89 +13371,89 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
 - [VEJA Veja x The Campamento - Freshmint + Sunshine](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-08-06T22:45:11Z
+  Updated: 2025-11-12T00:36:40Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja-veja-x-the-campamento-organic-leather-green-TC2020703_1_bc92b572-ad9c-4e3c-814f-0fcfbbca8a08.webp?v=1746136668
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131946078)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131978846)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131487326)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131520094)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131552862)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131585630)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131618398)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131651166)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131683934)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649131716702)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649132011614)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 33](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-freshmint-sunshine?variant=41649132044382)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
 - [VEJA Veja x The Campamento - Orchid + Faubourg](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet children’s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-11-11T01:33:12Z
+  Updated: 2025-11-12T00:36:41Z
   Vendor: VEJA
   Product Type: Shoe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/veja-veja-x-the-campamento-organic-leather-purple-TC2020704_1_6cbe74e5-70d9-4860-93ae-a6fc1929dfb0.webp?v=1746136592
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138663518)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138696286)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138729054)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138761822)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138794590)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138827358)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138860126)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138892894)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138925662)
     Availability: Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138958430)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649138991198)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
   - [EU 33](https://www.littlebambinos.co.nz/products/veja-veja-x-the-campamento-orchid-faubourg?variant=41649139023966)
     Availability: Not Available
-    Price: $199.00 NZD
+    Price: $158.99 NZD
 - [SONNIE Tama Crewneck - Tomato](https://www.littlebambinos.co.nz/products/sonnie-tama-crewneck-tomato): New Season Tama Crewneck in Tomato DETAILS New Season: Tomato colourway Luxurious 365gsm brushed back cotton Ribbed cuffs and Hem Designed to be relaxed and slightly oversized - we recomend taking the same size as your age Unisex Pre-washed to minimise shrinkage
   Updated: 2025-08-06T22:36:21Z
   Vendor: Sonnie
@@ -13627,7 +13516,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Largepeach4.jpg?v=1745547024
     Price: $229.00 NZD
 - [LITTLE FINCH Homepark Check Small Waterproof Play Mat](https://www.littlebambinos.co.nz/products/homepark-check-small): At last a play mat that is practical and stylish! We have created a timeless yet contemporary design that will slide seamlessly into your living space, nursery, or child’s bedroom. A classic look guaranteed to fit most interiors for many years to come. Is it a rug or is it a play mat? It’s both! On the reverse, select from either Grey or Rose Homepark Check to provide an equally timeless alternative look from the same mat.
-  Updated: 2025-11-02T02:30:46Z
+  Updated: 2025-11-12T21:40:42Z
   Vendor: Little Finch
   Product Type: 
   Availability: Available
@@ -13772,7 +13661,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [KONGES SLODJ Ellis Swim Vest - Tea Stripe](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-tea-stripe): The KONGES SLODJ Ellis Swim Vest in Tea Stripe provides essential support for beginning swimmers. This buoyancy aid helps children gain water confidence while developing independent swimming skills. Perfect for those first aquatic adventures! Available in two sizes: 1-2 years (11-15 kg) and 2-3 years (15-19 kg). WARNINGS:This is not a lifesaving device. Only to be used in water in which the child is within its depth. WILL NOT PROTECT AGAINST DROWNING. USE ONLY UNDER CONSTANT SUPERVISION. NOT FOR USE IN BOATING.
-  Updated: 2025-11-11T03:08:34Z
+  Updated: 2025-11-12T08:29:30Z
   Vendor: Konges slojd
   Product Type: Float Vest
   Availability: Available
@@ -13781,7 +13670,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $83.99 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-tea-stripe?variant=41688423333982)
-    Availability: Available
+    Availability: Not Available
     Price: $83.99 NZD
   - [3-6y](https://www.littlebambinos.co.nz/products/konges-slodj-ellis-swim-vest-tea-stripe?variant=41688423366750)
     Availability: Not Available
@@ -13864,7 +13753,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Gingham Multi-Use Cover](https://www.littlebambinos.co.nz/products/gingham-multi-use-cover): Protect your baby with the versatile Gingham Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-11-05T08:16:42Z
+  Updated: 2025-11-12T21:36:46Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -13917,7 +13806,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_SIGNATUREORGANICPLAYMATMELONALI3.webp?v=1750209432
   Price: $199.00 NZD
 - [SOLVEJ SWINGS Baby Toddler Swing](https://www.littlebambinos.co.nz/products/solvej-baby-toddler-swing): The Solvej swing is a beautiful, secure option for babies that converts into a toddler swing as they grow. Made from quality materials for indoor or outdoor use, its timeless design makes it a lasting family favorite. The swing folds flat for easy storage and transport. Carabiner hooks and screw eyes make it simple to move between indoor and outdoor spaces. We have 11 beautiful colours for you to choose from.
-  Updated: 2025-08-29T23:56:47Z
+  Updated: 2025-11-12T20:34:36Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14122,7 +14011,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetClay1.png?v=1750297681
   Price: $65.99 NZD
 - [BANWOOD Eco Helmet - Deep Sea](https://www.littlebambinos.co.nz/products/eco-helmet-deep-sea): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-11-11T22:10:20Z
+  Updated: 2025-11-12T07:47:30Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14157,7 +14046,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetSand1_29201ce5-b53a-40be-b83d-e69a1be374fc.png?v=1750297686
   Price: $65.99 NZD
 - [BANWOOD Eco Helmet - Teal](https://www.littlebambinos.co.nz/products/eco-helmet-teal): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-11-10T20:28:24Z
+  Updated: 2025-11-12T23:41:06Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14234,7 +14123,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterTeal1_f9abd83e-7378-42eb-a346-491474a35bde.png?v=1750297704
   Price: $159.99 NZD
 - [BANWOOD Eco Scooter - Deep Sea](https://www.littlebambinos.co.nz/products/eco-scooter-deep-sea): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-11-10T20:28:32Z
+  Updated: 2025-11-12T07:47:30Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14766,7 +14655,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/3_1cba980c-a597-43cc-9124-bcf13fc709cd.png?v=1750297917
   Price: $377.99 NZD
 - [SOLVEJ SWINGS Traditional Board Swing](https://www.littlebambinos.co.nz/products/solvej-traditional-board-swing): This charming wooden board swing features carefully shaped edges and is designed for those who appreciate a touch of nostalgia. Suitable for both indoor and outdoor use, it is expertly made from FSC-certified, naturally durable wood. Its classic natural style ensures it remains a beloved piece to pass down through generations.
-  Updated: 2025-11-05T09:43:35Z
+  Updated: 2025-11-12T23:58:51Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -14831,7 +14720,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $30.00 NZD
 - [SOLVEJ SWINGS Tree Hangers](https://www.littlebambinos.co.nz/products/tree-hangers): These tree hangers feature sturdy, wide straps designed to securely suspend your swing from the ideal tree branch. They are gentler on the tree compared to wrapping rope directly around the branch, and they also help protect your swing rope. To determine the right length, measure the branch’s circumference and add at least 30cm (12"). Additionally, these hangers can extend your swing ropes if your tree’s height exceeds the standard rope length.
-  Updated: 2025-08-28T00:15:32Z
+  Updated: 2025-11-12T23:58:50Z
   Vendor: Solvej Swings
   Product Type: Outdoor Toy
   Availability: Available
@@ -15035,89 +14924,89 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-14at6.01.00PM.png?v=1752472868
   Price: $99.00 NZD
 - [VEJA Esplar - Extra White Petale Nacre](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-10-19T20:21:50Z
+  Updated: 2025-11-12T00:36:42Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-15at8.48.47AM.png?v=1752526134
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243859550)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243892318)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243925086)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243957854)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856243990622)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244023390)
     Availability: Not Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244056158)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244088926)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244121694)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244154462)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244580446)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
   - [EU 33](https://www.littlebambinos.co.nz/products/veja-esplar-extra-white-petale-nacre?variant=41856244613214)
     Availability: Available
-    Price: $175.00 NZD
+    Price: $139.99 NZD
 - [VEJA V-90 - Extra White Pekin](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin): Inspired by the adult styles, Veja Small for kids have been created with a reinforced sole and built-up toe to better meet childrenâ€™s needs. Sustainable, VEJA sneakers are made using Chromefree leather, organic cotton, wild rubber and other synthetic materials. Made in Brazil.
-  Updated: 2025-09-28T20:48:14Z
+  Updated: 2025-11-12T00:36:42Z
   Vendor: VEJA
   Product Type: Footwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-07-15at8.52.30AM.png?v=1752526360
   - [EU 22](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246874206)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 23](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246906974)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 24](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246939742)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 25](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856246972510)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 26](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247005278)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 27](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247038046)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 28](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247070814)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 29](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247103582)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 30](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247136350)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 31](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247169118)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 32](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247201886)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
   - [EU 33](https://www.littlebambinos.co.nz/products/veja-v-90-extra-white-pekin?variant=41856247234654)
     Availability: Available
-    Price: $200.00 NZD
+    Price: $159.99 NZD
 - [SOLVEJ SWINGS Swing Bunting](https://www.littlebambinos.co.nz/products/swing-bunting): This charming bunting is made from 100% woollen felt, designed specifically for your Solvej Baby-Toddler Swing. It adds a gentle, magical touch to your child’s playtime. Each set includes four flags in soft grey or sand, accented with cream or black trim. The bunting is hypoallergenic and simple to clean. It attaches securely and safely using soft-close domes, ensuring peace of mind for parents.
   Updated: 2025-08-26T16:18:30Z
   Vendor: Solvej Swings
@@ -15233,14 +15122,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-11-11T23:10:46Z
+  Updated: 2025-11-12T22:12:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-11-11T23:20:47Z
+  Updated: 2025-11-12T21:00:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15270,7 +15159,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $7.99 NZD
 - [LIL MOO Spare Parts](https://www.littlebambinos.co.nz/products/dust-cap): Misplaced your dust cap or rubber seal of your bottle warmer? No worries, you can order a new one here! Make sure you press the middle of the dust cap down when on the warmer to ensure a secure fit. Please do not place rubber seal or any part of your Portable Bottle Warmer in a UV steriliser or dishwasher.
-  Updated: 2025-11-10T23:12:31Z
+  Updated: 2025-11-12T03:10:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15375,7 +15264,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-10T23:12:36Z
+  Updated: 2025-11-12T06:38:46Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15501,7 +15390,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Sunhat Paradise - Wattle Dusk](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-wattle-dusk): Toshi's renowned craftsmanship and quality come together in this exceptional baby swimwear collection. Rated UPF50+, the Toshi Swim line ensures excellent sun protection and water safety. Made from premium, quick-drying materials resistant to chlorine and salt water, the Swim Sunhat includes a wide, structured brim that keeps its shape even when wet. Adjustable sizing is achieved through a head tie with toggle, while the chin tie with toggle secures the hat comfortably. A safety release clasp on the chin tie adds extra protection. Featuring a unique, exclusive Toshi print, this sunhat combines style with functionality. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-11-10T23:12:43Z
+  Updated: 2025-11-12T19:30:08Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15510,13 +15399,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-wattle-dusk?variant=42000670589022)
-    Availability: Available
+    Availability: Not Available
     Price: $36.00 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-wattle-dusk?variant=42000670621790)
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Swim Onesie L/S Ripple - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon): Toshi’s baby swimwear collection combines elegance, practical design, and high-quality materials. Providing UPF 50+ sun protection, the Swim Onsie safeguards your little one during water play. Made from fast-drying, chlorine- and saltwater-resistant fabric, it ensures durability and comfort. The playful frill detail on the shoulders adds charm, while the high neckline and long sleeves offer extra coverage. Convenient features include a front zip for easy dressing and press studs at the bottom for quick nappy changes. Seamless sides enhance comfort and fit, all showcased in a unique Toshi print. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-11-10T20:39:29Z
+  Updated: 2025-11-12T06:38:45Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -15774,14 +15663,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [KONGES SLOJD  2 pk Glitter Cups - Outer Space](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-outer-space): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
-  Updated: 2025-11-10T07:58:05Z
+  Updated: 2025-11-12T00:09:36Z
   Vendor: Konges slojd
   Product Type: Cup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103638-s45073_1.jpg?v=1758230937
   Price: $50.00 NZD
 - [KONGES SLOJD  2 pk Glitter Cups - Rainbow](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-rainbow): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
-  Updated: 2025-11-10T07:58:05Z
+  Updated: 2025-11-12T00:46:50Z
   Vendor: Konges slojd
   Product Type: Cup
   Availability: Available
@@ -15903,7 +15792,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/browncap-01_1728x_516403fc-c3b8-4528-ab0c-dffa34d5b505.webp?v=1758753802
   Price: $30.00 NZD
 - [GROWN Children's Moon Sweater](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky): Knitted jumper with a 'lunar moon phases' Jacquard design made from 100% organic cotton with GOTS certification. This pull over has a dropped shoulder and a rib finish at neck, hem and cuffs. 100% GOTS Certified Organic Cotton. Free shipping within New Zealand for orders over $149.
-  Updated: 2025-11-10T07:36:02Z
+  Updated: 2025-11-12T06:37:11Z
   Vendor: Grown
   Product Type: Tops
   Availability: Available
@@ -15912,7 +15801,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $47.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639321182)
-    Availability: Available
+    Availability: Not Available
     Price: $47.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-sunny-tee-pinky?variant=42054639353950)
     Availability: Not Available
@@ -16053,7 +15942,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $34.00 NZD
 - [WILSON & FRENCHY Organic Sunhat - Strawberry Kisses](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-sunhat-strawberry-kisses): Your child’s new favourite sun hat for summer is here – crafted from soft, breathable organic cotton crinkle fabric. This lightweight hat offers full coverage with its wide brim and playful all-over print, ensuring extra sun protection. It’s designed for comfort and safety, featuring an adjustable fit and a breakaway safety clasp to stay secure during play. Key benefits include an adjustable chin strap with a safety breakaway, a customizable brim for a perfect fit, and eco-friendly biodegradable packaging. Made from 100% organic cotton, machine washable, and crafted in India.
-  Updated: 2025-11-10T23:12:46Z
+  Updated: 2025-11-12T02:33:11Z
   Vendor: Wilson & Frenchy
   Product Type: sun hat
   Availability: Available
@@ -16137,7 +16026,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
 - [WILSON & FRENCHY Long Sleeved Swimsuit - Hazel Floral](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral): This charming long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a lovely hazel floral pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny beach or pool outings. Featuring an elasticated ruffled leg hem and a convenient front zipper, it ensures easy dressing while keeping your child comfortable and protected.
-  Updated: 2025-11-10T23:12:51Z
+  Updated: 2025-11-12T02:33:12Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -16152,7 +16041,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $39.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054894125150)
-    Availability: Available
+    Availability: Not Available
     Price: $39.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-hazel-floral?variant=42054894157918)
     Availability: Available
@@ -16215,7 +16104,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [WILSON & FRENCHY Swim Sun Hat - Hazel Floral](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral): Keep your child safe in the sun with our printed sun hat. Crafted from 100% cotton and offering UPF 50+ protection, it ensures excellent sun defense. The wide brim provides ample shade to keep your little one comfortable throughout the day.
-  Updated: 2025-11-10T23:12:54Z
+  Updated: 2025-11-12T02:33:13Z
   Vendor: Wilson & Frenchy
   Product Type: Hat
   Availability: Available
@@ -16224,7 +16113,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
   - [1-2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral?variant=42054903431262)
-    Availability: Available
+    Availability: Not Available
     Price: $32.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-hazel-floral?variant=42054903464030)
     Availability: Available
