@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-12T00:01:21.895Z
+- Updated At: 2025-11-13T00:00:47.363Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-11-11T16:21:34Z
+  Updated: 2025-11-12T21:57:16Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -16900,7 +16900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/613084827819.jpg?v=1746978859
     Price: $27.95 USD
 - [Car windshield defogger for clear views and comfort.](https://ursupermart.com/products/car-windshield-defogger-quick-clear-comfort-safe): Car windshield defogger quickly clears fog and ice, offering dual heating and cooling for year-round comfort and safer drives. Ensure clear views and comfort now!
-  Updated: 2025-11-11T02:25:37Z
+  Updated: 2025-11-12T11:25:30Z
   Vendor: S1B|Make | CJ
   Product Type: Car mounted cooling and heating fan
   Availability: Available
@@ -21636,7 +21636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-11T13:26:45Z
+  Updated: 2025-11-12T10:26:56Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -26517,7 +26517,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/children-puzzle-diy-miniature-house.webp?v=1759421917
   Price: $54.95 USD
 - [Interactive Globe for Kids - Explore Earth with AR App](https://ursupermart.com/products/interactive-globe-for-kids-augmented-reality): Interactive globe for kids makes learning geography an exciting adventure with AR, LED lighting, and STEM activities; explore the world and spark curiosity!
-  Updated: 2025-11-05T21:28:44Z
+  Updated: 2025-11-12T10:27:00Z
   Vendor: @S1B|S1|CJ
   Product Type: Interactive globe
   Availability: Available
@@ -26673,7 +26673,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-dinosaur-toy-three-sizes-shown.webp?v=1759602165
   Price: $19.95 USD
 - [Water Track Play Set for Kids Outdoor Fun & Learning](https://ursupermart.com/products/water-track-play-set-for-kids-outdoor-fun-learning): This water track play set offers endless outdoor fun for kids with a boat and crane, fostering imagination and motor skills; get yours today!
-  Updated: 2025-11-05T21:29:04Z
+  Updated: 2025-11-12T10:27:00Z
   Vendor: S1B|S1|CJ
   Product Type: Water play set
   Availability: Available
