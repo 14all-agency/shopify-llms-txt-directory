@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-12T00:01:04.316Z
+- Updated At: 2025-11-13T00:00:50.679Z
 
 ## Products
 
@@ -4048,7 +4048,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/grout-brush-white-stiff-bristles-cleaning-brushes-essential-supplies-880332.jpg?v=1719445177
   Price: $14.00 NZD
 - [Flat Nail Brush - White, Stiff Bristles](https://essentialsupplies.co.nz/products/flat-nail-brush-white-stiff-bristles-6): Flat nail brush features a perfect balance of 100% polypropylene bristle strong enough for cleaning under nails while remaining soft on hands. Easy-grip ribbed design ensures ease of use in a soapy environment. Available in white.
-  Updated: 2025-01-23T16:27:06Z
+  Updated: 2025-11-12T02:45:26Z
   Vendor: Mattews Packaging
   Product Type: Cleaning Brushes
   Availability: Available
@@ -5063,7 +5063,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/stainless-steel-scourer-silver-70g-scourer-weight-60-scourers-individually-wrapped-stainless-scourers-essential-supplies-166243.jpg?v=1719445813
   Price: $207.00 NZD
 - [Regular Scouring Pads - White, 150mm x 200mm x 8mm - 80 Pads - *Non Scratch](https://essentialsupplies.co.nz/products/regular-scouring-pads-white-150mm-x-200mm-x-8mm-80-non-scratch): Scouring pads are hard wearing and effective for scrubbing all surfaces. Made from 50% Terylene and 50% Nylon with a superior coating to reduce grit fall-out. Tested to perform against a wide range of oil and chemical spills. Available in green, red, blue, black or white.
-  Updated: 2025-01-09T18:42:50Z
+  Updated: 2025-11-12T01:53:55Z
   Vendor: Mattews Packaging
   Product Type: Scourers
   Availability: Available
@@ -6561,7 +6561,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/industrial-pvc-gumboots-blue-size-3-steel-toe-cap-steel-midsole-gumboots-essential-supplies-733047.jpg?v=1719445327
   Price: $58.00 NZD
 - [Industrial PVC Gumboots - Blue, Size 4 - *Steel Toe Cap + Steel Midsole](https://essentialsupplies.co.nz/products/industrial-pvc-gumboots-blue-size-4-5-steel-toe-cap-steel-midsole)
-  Updated: 2025-02-11T13:35:52Z
+  Updated: 2025-11-12T00:03:55Z
   Vendor: Mattews Packaging
   Product Type: Gumboots
   Availability: Available
@@ -7901,7 +7901,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 3
 - [Machine Stretch Film](https://essentialsupplies.co.nz/collections/machine-stretch-film)
-  Updated: 2025-11-11T12:14:14Z
+  Updated: 2025-11-12T12:15:03Z
   Total Products: 7
 - [Newsprint Paper Rolls](https://essentialsupplies.co.nz/collections/newsprint-paper-rolls)
   Updated: 2024-07-15T02:47:09Z
