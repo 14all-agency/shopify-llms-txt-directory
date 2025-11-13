@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-12T00:01:04.585Z
+- Updated At: 2025-11-13T00:00:27.089Z
 
 ## Products
 
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-11T21:48:09Z
+  Updated: 2025-11-12T23:37:06Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: $223.36 AUD
 - [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-11-11T11:49:01Z
+  Updated: 2025-11-12T00:02:57Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
