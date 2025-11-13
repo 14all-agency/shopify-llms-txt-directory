@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-10T00:00:43.753Z
+- Updated At: 2025-11-13T00:00:57.719Z
 
 ## Products
 
@@ -8100,7 +8100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/47B9C040404A353FADD6418D0329ECDF.jpg?v=1756364977
     Price: CHF 34.36 CHF
 - [Oversized Wooden Hamster Cages, Gerbil Cages And Other Small Animal Habitats](https://cilly.us/products/oversized-wooden-hamster-cages-gerbil-cages-and-other-small-animal-habitats): specification Product Information Product Code: W2225P173817 Product Type: General items Product Name: PawHut Oversized Wooden Hamster Cage, Gerbil Cage and Other Small Animal Habitat, Hamster Habitat with Open Roof, Cabin, Ramp, Grey Main Color: grey Main materials: wood Product dimensions Assembly Length (in.): 45.30 Assembly Width (inches): 23.60 Assembly Height (in.): 22.80 Weight (lbs): 34.76 Package size Length (in.): 47.75 Width (inches): 7.25 Height (in.): 24.00 Weight (lbs): 39.16 Features: Small Animal House: This multi-story hamster house offers over 1000 square inches of space for your hamsters to climb and burn energy. It is also suitable for gerbils and other small animals Built to last: This hamster cage has a sturdy wire mesh and sustainable wood construction to keep your pet feeling safe inside. This design is built to last. Hinged Roof: This hamster cage has a large lockable openable door for easy access, and the top roof angle can be adjusted between 30 and 60 degrees. Easy to Clean: Easily clean the hamster hideout tray to keep your pet comfortable. Platform dimensions: 44.25" L x 9.75" W (top), 44.25" L x 13.75" W (bottom). Slide Size: 2.7" W x 1.0" L. Tray Size: 44.25" L x 22"W
-  Updated: 2025-10-23T14:34:19Z
+  Updated: 2025-11-10T09:08:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -12845,14 +12845,14 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/339ca32a-60fd-4092-8bf6-551f330aa760.jpg?v=1757166196
   Price: CHF 167.80 CHF
 - [Outsunny Small Walk-in Garden Greenhouse With Steel Frame, Large Roll-up Door And Windows, 200Lx76Wx168Hcm, White](https://cilly.us/products/outsunny-small-walk-in-garden-greenhouse-with-steel-frame-large-roll-up-door-and-windows-200lx76wx168hcm-white): Specification Product Information Item Code:T3398P314086 Product Type :Single Box Product Product Name:Outsunny Small Walk-in Garden Greenhouse with Steel Frame, Large Roll-up Door and Windows, 200Lx76Wx168Hcm, White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):200.00 Assembled Width (cm):76.00 Assembled Height (cm):168.00 Product Weight (kg):3.80 Package Size Length (cm):23.00 Width (cm):10.50 Height (cm):103.00 Weight (kg):4.30 Product Features WALK-IN DESIGN: Easy to enter and leave to access your plants. Easy to set up to grow plants, vegetables, flowers and more. Compact size, suitable for even smaller garden and outdoor areas. PLASTIC COAT: Protects plants from the cold and wind outdoors so they can grow to their full potential. large roll-up door to enter and to let in fresh air when required. Long edges to bury in soil and weight down. STEEL FRAME: A durable core structure, greenhouse stands steady on the ground - four guy ropes and four ground pegs included for extra support. DIMENSIONS: 150-168H x 200L x 76Wcm. Door: 145H x 120Wcm. ASSEMBLY REQUIRED. DO NOT LEAVE UP IN HIGH WINDS AND EXTREME WEATHER.
-  Updated: 2025-10-29T03:07:51Z
+  Updated: 2025-11-10T09:08:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5434526b-d3ba-4a39-b967-9e38ff2220ed.jpg?v=1757167288
   Price: CHF 56.30 CHF
 - [Outsunny 4 X 3m Walk-In Tunnel Greenhouse, With Accessories - White](https://cilly.us/products/outsunny-4-x-3m-walk-in-tunnel-greenhouse-with-accessories-white): Specification Product Information Item Code:T3398P314173 Product Type :Single Box Product Product Name:Outsunny 4 x 3(m) Walk-In Tunnel Greenhouse, with Accessories - White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):396.00 Assembled Width (cm):300.00 Assembled Height (cm):200.00 Product Weight (kg):23.50 Package Size Length (cm):156.50 Width (cm):35.00 Height (cm):20.00 Weight (kg):26.00 Product Features Extra-supportive steel frame: Galvanised metal for extra strength for a tough core. Comes with 4x sets of 'V' diagonal wall braces, 6x diagonal top braces and 4x reinforcement rods to pin and support structure 4 x 3 m tunnel size: A large and open walk-in polytunnel greenhouse - easy to enter and holds plenty of plants and vegetables. Open design allows you set up exactly how you want Two-layer plastic cover: With a middle reinforcement grid to help prevent tearing. 140 gsm for a protective shell, whilst allowing 85% sunlight through for natural nourishment. 15cm edge to bury into soil Roll-up mesh door and six windows: Easy to access this walk in greenhouse, with the windows bringing in fresh air when needed Accessories included: 4 x ground stakes, 4 x guy ropes, 10 x plant labels and 1 x pair of gloves. Everything you need
-  Updated: 2025-10-29T03:07:51Z
+  Updated: 2025-11-10T09:08:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
