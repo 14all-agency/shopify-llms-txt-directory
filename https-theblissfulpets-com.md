@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-10T00:00:34.730Z
+- Updated At: 2025-11-13T00:00:44.999Z
 
 ## Products
 
@@ -564,7 +564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/DOG-BB-SPRAY-GALLON-2024.jpg?v=1713888724
     Price: $72.95 USD
 - [The Blissful Dog Spray Conditioner Leave-in De-Tangling, Dematt +Shine](https://theblissfulpets.com/products/shine-on-sheen-coat-spray): Blissful Dog Shine-On+Sheen leave-in, dog spray conditioner de-tangles, de-matts, adds shine and polish.  Refreshes, dematts, adds shine to any dog coat.
-  Updated: 2025-10-05T08:54:56Z
+  Updated: 2025-11-10T15:19:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: SPRAY
   Availability: Available
