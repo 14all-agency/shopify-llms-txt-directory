@@ -10,7 +10,7 @@
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-11T00:02:30.971Z
+- Updated At: 2025-11-13T00:02:08.428Z
 
 ## Auto které nenabízíme můžete poptat zde
 https://www.driveto.cz/pages/vyberte-si-svoje-auto
@@ -152,7 +152,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 9 933,00 Kč CZK
 - [Škoda Superb IV L&K 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-l-and-k-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Zcela nová čtvrtá generace Superbu byla představena světu na jaře roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design vyřazuje obzvláště ve vrcholné výbavě Laurin & Klement mimořádné charisma. Interiér je jedním z nejvíce pozměněných míst. Perfektním způsobem kombinuje moderní pojetí s intuitivním ovládáním. Jsou zde naprosto fantastická přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemné místo, kde budete trávit čas rádi. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velmi pohodlný.
-  Updated: 2025-10-29T18:42:17Z
+  Updated: 2025-11-12T19:39:44Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -185,7 +185,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 16 397,00 Kč CZK
 - [Škoda Superb IV Selection 2.0TDi 142kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-superb-iv-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka): Tato zcela nová generace Superbu byla představena světu na počátku roku 2024. Změn se zde proti té předchozí odehrálo opravdu dost, což je viditelné na první pohled. Design je moderní a líbivý.. Interiér je jedním z nejvíce pozměněných míst. Vynikajícím způsobem kombinuje moderní pojetí s jednoduchým ovládáním. Jsou zde naprosto úžasná přední sedadla, která nabízí propracovanou masážní funkci a nechybí ani vyhřívání či klimatizování. Jedná se o opravdu velmi příjemný prostor, kde je jízda relax. O pohon vozu se stará osvědčený dieselový motor, který byl decentně přepracován. Poskytuje výkon 142 kW a je spojen s automatickou převodovkou DSG. Nechybí ani pohon všech kol, který oceníte především v zimě. Celkově se jedná o všestranného parťáka, který působí honosně, je velice praktický, tichý, úsporný a celkově velice komfortní.
-  Updated: 2025-10-29T18:42:20Z
+  Updated: 2025-11-12T19:39:28Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -534,6 +534,36 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqSportline2.0foto9_bc620e0c-f83c-4a7c-bc95-df4a765f0f2c.webp?v=1761572632
     Price: 16 033,00 Kč CZK
+- [Škoda Kodiaq RS 2.0 TSI 195 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka): Kodiaq je ve sportovně laděné verzi RS vrcholem, který si můžete dopřát. Jedná se o druhou generaci, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Verze RS dodává vozu sportovní a agresivní nádech. Vypadá zkrátka skvěle. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sportovní sedadla se skvělým bočním vedením a celkově výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu lepší komfort a jízdní vlastnosti v zatáčkách. Pod kapotou se nachází silný benzínový dvoulitr o výkonu 195 kW, který dodává vozu vynikající dynamiku. Nechybí ani pohon 4x4 a automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají rychlé a praktické SUV, které se brzy stane novým českým ideálem.
+  Updated: 2025-11-12T11:42:51Z
+  Vendor: Driveto
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKodiaqRS2.0foto1.webp?v=1761572806
+  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439426909)
+    Availability: Available
+    Price: 10 831,00 Kč CZK
+  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439459677)
+    Availability: Available
+    Price: 11 720,00 Kč CZK
+  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439492445)
+    Availability: Available
+    Price: 12 441,00 Kč CZK
+  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439525213)
+    Availability: Available
+    Price: 13 529,00 Kč CZK
+  - [35000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439557981)
+    Availability: Available
+    Price: 14 341,00 Kč CZK
+  - [40000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439590749)
+    Availability: Available
+    Price: 15 334,00 Kč CZK
+  - [45000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439623517)
+    Availability: Available
+    Price: 16 056,00 Kč CZK
+  - [50000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/skoda-kodiaq-ii-rs-2-0-tsi-195kw-natural-95-4x4-automaticka-prevodovka?variant=57757439656285)
+    Availability: Available
+    Price: 16 971,00 Kč CZK
 - [Škoda Kodiaq Sportline 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Nový Kodiaq byl představen na jaře roku 2024. Změn se zde odehrálo opravdu mnoho, což je viditelné na první pohled. Tento kus je navíc v nejzajímavější variantě Sportline. Design působí modernějším a podstatně mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která se změnila úplně nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Pod kapotou se nachází benzínový motor, který je vybaven mild-hybridní technologií. Zároveň je zde systém vypínání dvou válců při mírné zátěži. Oba tyto systému snižují spotřebu paliva, ale není to na úkor jízdního komfortu - vše je velice dobře sladěné, takže to při jízdě téměř není znát. Aby toho pohodlí nebylo málo, tak je tu i automatická převodovka. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem.
   Updated: 2025-10-29T18:43:40Z
   Vendor: Driveto
@@ -811,76 +841,100 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 13 378,00 Kč CZK
 - [Audi Q8 S line 3.0 TDi Quattro 210 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3): Audi Q8 přináší kombinaci elegance a sportovně střiženého vzhledu v rámci prémiového SUV. Proti lehce prostornější Q7 neposkytuje takovou míru praktičnosti, ale její styl a šarm to vyvažují. A nebojte - prostoru je zde stále dost. Navzdory svým rozměrům si stále zachovává výborné jízdní vlastnosti v zatáčkách, v městském provozu i v terénu. Díky vzduchovému podvozku a pohonu všech kol quattro se nemusíte obávat, že byste si netroufli do lehčího terénu. Vzduchový podvozek dodává pohodlí, ale zároveň však umožňuje úpravu světlé výšky dle aktuální potřeby. Spotřeba paliva se pohybuje kolem přijatelných 8 litrů v kombinovaném režimu. Pod kapotou Q8 najdeme silný naftový motor s výkonem 210 kW, který poskytuje vynikající dynamiku. Výbava vozu je opravdu bohatá, což dokazuje dlouhý výčet položek v nabídce. Tento konkrétní kousek navíc disponuje i panoramatickou střechou, tažným zařízením, LED Matrix světlomety, Bang & Olufsen ozvučením a mnoha dalšími pakety. Celková cena přesahuje 2,7 milionu.
-  Updated: 2025-11-04T19:14:13Z
+  Updated: 2025-11-11T17:10:40Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
   - [15000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804752221)
-    Availability: Available
+    Availability: Not Available
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804817757)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 700,00 Kč CZK
   - [15000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782550877)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 700,00 Kč CZK
-  - [20000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804883293)
+  - [15000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576158557)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 21 700,00 Kč CZK
+  - [20000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804883293)
+    Availability: Not Available
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335804948829)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 21 800,00 Kč CZK
   - [20000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782583645)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 21 800,00 Kč CZK
-  - [25000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805014365)
+  - [20000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576191325)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 21 800,00 Kč CZK
+  - [25000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805014365)
+    Availability: Not Available
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805079901)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 23 800,00 Kč CZK
   - [25000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782616413)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 23 800,00 Kč CZK
-  - [30000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805145437)
+  - [25000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576224093)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 23 800,00 Kč CZK
+  - [30000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805145437)
+    Availability: Not Available
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805210973)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 24 600,00 Kč CZK
   - [30000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782649181)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 24 600,00 Kč CZK
-  - [35000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805276509)
+  - [30000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576256861)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 24 600,00 Kč CZK
+  - [35000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805276509)
+    Availability: Not Available
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805342045)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 27 700,00 Kč CZK
   - [35000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782681949)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
     Price: 27 700,00 Kč CZK
-  - [40000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805407581)
+  - [35000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576289629)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
+    Price: 27 700,00 Kč CZK
+  - [40000 km / 48 měsíců / Červená](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805407581)
+    Availability: Not Available
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Stříbrná](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58335805473117)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto1.webp?v=1761574252
     Price: 28 400,00 Kč CZK
   - [40000 km / 48 měsíců / Modrá Waitomo](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=58393782714717)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Waitomo_Audi_Q8.webp?v=1761574252
+    Price: 28 400,00 Kč CZK
+  - [40000 km / 48 měsíců / Bílá Gletscher](https://www.driveto.cz/products/audi-q8-s-line-3-0-tdi-quattro-210kw-nafta-4x4-automaticka-prevodovka-3?variant=62535576322397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q8_S_line_foto7.webp?v=1762880917
     Price: 28 400,00 Kč CZK
 - [Škoda Octavia Selection 1.5 TSI 85 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-octavia-selection-1-5-tsi-85-kw-85kw-natural-95-automaticka-prevodovka-3): Škoda Octavia se za dobu jejího působí stala úplnou legendou, kterou zná snad každý. Jedná se o modernizovanou čtvrtou generaci tohoto bestselleru. Nedá se jí upřít, že je velmi atraktivní a nadčasová. Uvnitř potěší pohodlná sedadla a dostatek prostoru. Podvozek zaujme komfortním naladěním a zároveň jistotou v zatáčkách, kde se chová i díky poměrně nízké hmotnosti ukázněně. O pohon vozu se stará benzínový čtyřválec, který je spojen s automatickou převodovkou DSG. Základní pohonná jednotka se hodí spíše do města a na kratší trasy, ale díky 7 rychlostnímu automatu zvládá i jízdu po dálnici, kde motor netočí zbytečně moc otáček a jízda je tak stále hezky tichá a úsporná. Tento vůz navíc disponuje i mild-hybridní technologií, která po městě snižuje spotřebu paliva.
   Updated: 2025-10-29T18:44:40Z
@@ -949,7 +1003,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 11 974,00 Kč CZK
 - [Škoda Karoq Top Selection 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-karoq-top-selection-1-5-tsi-110kw-natural-95-automaticka-prevodovka): Tento Karoq nedávno prošel modernizací. Jde o velmi populární středně velké SUV, které omlazením získalo ještě atraktivnější design. Interiér je prostorný a útulný, s výborně promyšleným uspořádáním ovládacích prvků, díky čemuž se v Karoqu rychle zorientujete. Z vozu je skvělý výhled a potěší také bohatá výbava a dostatek odkládacích prostorů. Zavazadlový prostor nabízí kapacitu 521 litrů, což je velmi slušné. Díky kompaktním rozměrům je jízda po městě snadná, a parkování je usnadněno kamerou a parkovacími senzory. Podvozek je laděn spíše pohodlně než sportovně, což přispívá k příjemné jízdě. Pod kapotou se nachází výkonný benzínový motor 1,5 TSI, spojený s automatickou převodovkou DSG. Tato kombinace zajišťuje, že vůz je ideální jak pro městský provoz, tak pro delší cesty. Při klidné jízdě se kombinovaná spotřeba pohybuje kolem 6 - 7 litrů. Škoda Karoq je ideální volbou pro ty, kteří hledají spolehlivý vůz s intuitivním ovládáním, líbivým exteriérem, dostatkem vnitřního prostoru a kompaktními rozměry.
-  Updated: 2025-11-04T09:15:47Z
+  Updated: 2025-11-11T13:43:02Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1027,7 +1081,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/SkodaKaroqTopSelectionfoto6.webp?v=1761575592
     Price: 11 227,00 Kč CZK
 - [Škoda Karoq Sportline 1.5 TSI 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/skoda-karoq-sportline-1-5-tsi-110kw-natural-95-automaticka-prevodovka-2): Modernizovaný Karoq ve výbavě Sportline je ideální volbou pro ty, kteří hledají sportovnější vzhled oblíbeného středně velkého SUV. Interiér zůstává prostorný a komfortní, ale Sportline přidává sportovní prvky, jako jsou specifická sportovní sedadla a další stylové detaily, které ocení především ti, kteří mají rádi výraznější design. Ovládací prvky jsou logicky rozmístěné, což vám umožní se rychle sžít s vozem. Výhled z vozu je skvělý a bohatá výbava spolu s množstvím odkládacích prostor přispívá k celkovému komfortu. Zavazadlový prostor nabízí 521 litrů objemu, což je dostatečné pro běžné rodinné potřeby. Kompaktní rozměry Karoqu usnadňují manévrování ve městě, kde oceníte i parkovací kameru a senzory, které parkování výrazně zjednodušují. Podvozek Karoqu je naladěn spíše na pohodlí než na sportovní jízdu, což zajišťuje komfortní zážitek za všech okolností. Pod kapotou najdete výkonný benzínový motor 1,5 TSI spojený s automatickou převodovkou DSG. Toto pohonné ústrojí je vhodné jak pro městské jízdy, tak pro delší výlety. Při klidné jízdě se kombinovaná spotřeba pohybuje okolo 6 - 7 litrů. Škoda Karoq Sportline je skvělou volbou pro ty, kteří hledají styl, komfort a praktičnost v jednom balení.
-  Updated: 2025-10-29T18:45:02Z
+  Updated: 2025-11-11T08:33:58Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1199,30 +1253,6 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KiaCeedTopDctfoto3_dabd1e72-7946-4a26-9e6d-a567275c0289.webp?v=1762436413
     Price: 7 658,00 Kč CZK
-- [KIA Sportage TOP 1.6 T-GDI MHEV DCT 155 kW Natural 95 4x4 Automatická převodovka](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka): Sportage je moderní SUV, které spojuje futuristický design s pokročilou technologií hybridního pohonu a to vše za krásnou cenu. Design vyniká extravagantním vzhledem s výraznými liniemi a charakteristickou přední maskou, které mu dodávají dynamický a robustní vzhled. Interiér je prostorný a dobře zpracovaný, s důrazem na pohodlí a ergonomii, což zajišťuje příjemné cestování pro všechny pasažéry. Motor 1.6 T-GDI poskytuje svižnou jízdu, přičemž hybridní systém přispívá k nízké spotřebě paliva a plynulosti. Automatická převodovka DCT zajišťuje hladké řazení a pohodlnou jízdu, ať už ve městě, nebo na dálnici. Kia Sportage je také vybavena moderními asistenčními systémy a technologiemi, které zajišťují vysokou úroveň bezpečnosti a komfortu. Tento model je ideální pro ty, kteří hledají spolehlivé a stylové SUV s vyváženým výkonem, praktickými funkcemi a moderním vzhledem. Tento kousek navíc disponuje i pohonem všech kol, což oceníte především v zimě.
-  Updated: 2025-10-29T18:45:53Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KIASportageTOP1.6foto1_70497a1c-35e9-4e88-a9b2-abc945d79d34.webp?v=1761576147
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524459869)
-    Availability: Available
-    Price: 8 590,00 Kč CZK
-  - [15000 km / 25 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524492637)
-    Availability: Available
-    Price: 9 535,00 Kč CZK
-  - [20000 km / 25 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524558173)
-    Availability: Available
-    Price: 9 960,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524525405)
-    Availability: Available
-    Price: 10 170,00 Kč CZK
-  - [30000 km / 25 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524590941)
-    Availability: Available
-    Price: 11 815,00 Kč CZK
-  - [30000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-mhev-dct-155kw-natural-95-4x4-automaticka-prevodovka?variant=57757524623709)
-    Availability: Available
-    Price: 11 155,00 Kč CZK
 - [Cupra Formentor 1.5 TSI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/cupra-formentor-formentor-1-5-tsi-110kw-natural-95-manualni-prevodovka): Formentor je prvním samostatným modelem značky Cupra. Jedná se o mimořádně oblíbené SUV s jedinečným designem. Přední část působí agresivně, čemuž napomáhají zamračené světlomety a zkosená maska se “zubatou” texturou. Interiér působí moderně a minimalisticky. Dotyková obrazovka je nakloněná k řidiči, což je příjemné. O prostor vpředu není nouze, situace je o chlup horší vzadu, kde je to o něco stísněnější, ale i tak se tam 185 cm vysoký člověk pohodlně vejde. Čtyři takové pasažéry Formentor pojme bez problému. Kufr pojme 450 litrů nákladu. Jízda je pohodlná, svižná a hezky tichá. O pohon vozu se stará benzínový čtyřválec, který je kombinovaný s manuální 6 stupňovou převodovkou, která má přesné dráhy a práce s ní je radost. Celkově tak podtrhuje sportovně střiženou auru, kterou Formentor nabízí.
   Updated: 2025-10-29T18:45:59Z
   Vendor: Driveto
@@ -1925,7 +1955,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 14 590,00 Kč CZK
 - [BMW Řada 5 M Sport 20d xdrive 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-m-sport-20d-xdrive-145kw-nafta-4x4-automaticka-prevodovka): BMW 520d je ztělesněním elegance a efektivity ve vyšší střední třídě sedanů. Vůz vyniká čistými liniemi a sportovním vzhledem, který podtrhují charakteristické ledvinky masky chladiče a dynamicky tvarovaná LED světla. Interiér nabízí prostorný a luxusně zpracovaný prostor s prémiovými materiály a moderními technologiemi. Součástí vybavení je nejnovější verze systému iDrive, který umožňuje intuitivní ovládání všech funkcí vozu od navigace až po asistenční prvky. Pod kapotou pracuje úsporný dieselový motor, který kombinuje vysoký výkon s nízkou spotřebou paliva, což oceníte při každodenní jízdě i na dlouhých trasách. Nechybí zde ani pohon všech kol, který oceníte na kluzkém povrchu. BMW 520d je ideální volbou pro ty, kteří hledají spolehlivý a komfortní sedan s dobrou dynamikou a výbavou.
-  Updated: 2025-10-29T18:49:42Z
+  Updated: 2025-11-12T19:37:47Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1958,7 +1988,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 29 783,00 Kč CZK
 - [BMW Řada 5 20d 145 kW Nafta Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-zakladni-20d-145kw-nafta-automaticka-prevodovka-2): BMW 520d je ztělesněním elegance a efektivity ve vyšší střední třídě sedanů. Vůz vyniká čistými liniemi a sportovním vzhledem, který podtrhují charakteristické ledvinky masky chladiče a dynamicky tvarovaná LED světla. Interiér nabízí prostorný a luxusně zpracovaný prostor s prémiovými materiály a moderními technologiemi. Součástí vybavení je nejnovější verze systému iDrive, který umožňuje intuitivní ovládání všech funkcí vozu od navigace až po asistenční prvky. Pod kapotou pracuje úsporný dieselový motor, který kombinuje vysoký výkon s nízkou spotřebou paliva, což oceníte při každodenní jízdě i na dlouhých trasách. BMW 520d je ideální volbou pro ty, kteří hledají spolehlivý a komfortní sedan s dobrou dynamikou a výbavou.
-  Updated: 2025-10-29T18:49:45Z
+  Updated: 2025-11-12T19:37:29Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -1991,7 +2021,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 21 954,00 Kč CZK
 - [BMW Řada 5 M Sport 20d xdrive 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-m-sport-20d-xdrive-145kw-nafta-4x4-automaticka-prevodovka-2): BMW 520d je ztělesněním elegance a efektivity ve vyšší střední třídě sedanů. Vůz vyniká čistými liniemi a sportovním vzhledem, který podtrhují charakteristické ledvinky masky chladiče a dynamicky tvarovaná LED světla. Interiér nabízí prostorný a luxusně zpracovaný prostor s prémiovými materiály a moderními technologiemi. Součástí vybavení je nejnovější verze systému iDrive, který umožňuje intuitivní ovládání všech funkcí vozu od navigace až po asistenční prvky. Pod kapotou pracuje úsporný dieselový motor, který kombinuje vysoký výkon s nízkou spotřebou paliva, což oceníte při každodenní jízdě i na dlouhých trasách. Nechybí zde ani pohon všech kol, který oceníte na kluzkém povrchu. BMW 520d je ideální volbou pro ty, kteří hledají spolehlivý a komfortní sedan s dobrou dynamikou a výbavou.
-  Updated: 2025-10-29T18:49:48Z
+  Updated: 2025-11-12T19:37:12Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2024,7 +2054,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 29 546,00 Kč CZK
 - [BMW Řada 5 40d 223 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-zakladni-40d-223kw-nafta-4x4-automaticka-prevodovka): BMW 540d xDrive kombinuje luxus, velice silný motor a nejnovější technologie, což z něj dělá prémiový sedan pro náročné řidiče. Design exteriéru působí sebevědomě díky robustní masce chladiče, elegantním liniím a precizně tvarovaným LED světlům. Uvnitř vás přivítá bohatě vybavený interiér s luxusními materiály, ergonomicky tvarovanými sedadly a nejnovějším systémem iDrive, který podporuje hlasové ovládání a integraci chytrých zařízení. Pod kapotou se skrývá šestiválcový dieselový motor, který ve spojení s pohonem všech kol xDrive zajišťuje vynikající trakci a jistotu i na kluzkém povrchu. Jízdní dynamika a komfort se zde snoubí do jednoho, což činí z modelu 540d ideálního společníka pro dlouhé cesty a svižnou jízdu po dálnicích.
-  Updated: 2025-10-29T18:49:51Z
+  Updated: 2025-11-12T19:36:44Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2057,7 +2087,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 24 606,00 Kč CZK
 - [BMW Řada 5 20d 145 kW Nafta Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-zakladni-20d-145kw-nafta-automaticka-prevodovka-3): BMW 520d Touring představuje perfektní spojení praktičnosti a stylu, které zaujme především ty, kdo hledají prostorný vůz pro rodinné či pracovní využití. Exteriér si zachovává dynamický charakter sedanu, avšak v karoserii kombi přináší větší zavazadlový prostor a všestrannost. Interiér vozu se vyznačuje kvalitním zpracováním, komfortními sedadly a množstvím moderních technologií včetně pokročilého infotainmentu a digitálního přístrojového panelu. Pohon zajišťuje výkonný dieselový motor, který poskytuje dostatečnou dynamiku s nízkou spotřebou. BMW 520d Touring je skvělou volbou pro aktivní životní styl a dlouhé cesty, kde oceníte pohodlí, bezpečnostní systémy a velkorysý prostor.
-  Updated: 2025-10-29T18:49:57Z
+  Updated: 2025-11-12T19:36:30Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2090,7 +2120,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Not Available
     Price: 22 926,00 Kč CZK
 - [BMW Řada 5 M Sport 20d 145 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-rada-5-m-sport-20d-145kw-nafta-4x4-automaticka-prevodovka): BMW 520d Touring představuje perfektní spojení praktičnosti a stylu, které zaujme především ty, kdo hledají prostorný vůz pro rodinné či pracovní využití. Exteriér si zachovává dynamický charakter sedanu, avšak v karoserii kombi přináší větší zavazadlový prostor a všestrannost. Interiér vozu se vyznačuje kvalitním zpracováním, komfortními sedadly a množstvím moderních technologií včetně pokročilého infotainmentu a digitálního přístrojového panelu. Pohon zajišťuje výkonný dieselový motor, který poskytuje dostatečnou dynamiku s nízkou spotřebou. Nechybí zde ani pohon všech kol, který oceníte na kluzkém povrchu. BMW 520d Touring je všstrannou volbou pro aktivní životní styl a dlouhé cesty, kde oceníte pohodlí, bezpečnostní systémy a velkorysý prostor.
-  Updated: 2025-10-29T18:50:00Z
+  Updated: 2025-11-12T19:36:08Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -2946,7 +2976,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Availability: Available
     Price: 26 074,00 Kč CZK
 - [Škoda Kodiaq Exclusive Selection 2.0 TDI 142 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/skoda-kodiaq-ii-exclusive-selection-2-0tdi-142kw-142kw-nafta-4x4-automaticka-prevodovka-2): Jedná se o druhou generaci Kodiaqu, která světlo světa spatřila roku 2024. Změn se zde odehrálo opravdu mnoho, což je na první pohled znát. Design působí modernějším a mohutnějším dojmem. Přední přísný výraz formují LED světlomety a široká maska s chromovým dekorem. Pocit robustnosti navozují vytažené blatníky a zadní části dominují propojená světla s charakteristickým tvarem ve tvaru písmene C. Interiér je oblast, která byla pozměněna nejvíc. Za zmínku rozhodně stojí pohodlná sedadla a výborná pozice za volantem. Potěší také kvalitní materiály, bohatá výbava, snadné ovládání a veliká obrazovka zábavního systému. Odkládacích prostorů je zde stále velké množství a celkově je vnitřní prostor na špičkové úrovni. Narostl i objem zavazadlového prostoru (+ 75 litrů) na aktuálních 910 litrů. To je mimochodem více, než nabízí největší SUV od Audi - model Q7. Nový je i podvozek, který poskytuje vozu ještě lepší komfort a jízdní vlastnosti. Potěší i klasický dieselový motor s automatickou převodovkou a pohonem všech kol. Všechny tyto atributy z nového Kodiaqu druhé generace dělají prvotřídní SUV, které se brzy stane novým českým ideálem. Tento kousek navíc nabízí i tažné zařízení.
-  Updated: 2025-11-06T11:39:09Z
+  Updated: 2025-11-12T19:35:50Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4159,98 +4189,8 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   - [40000 km / 36 měsíců](https://www.driveto.cz/products/skoda-kamiq-monte-carlo-1-5-tsi-110-kw-natural-95-automaticka-prevodovka?variant=58077940908381)
     Availability: Available
     Price: 11 239,00 Kč CZK
-- [KIA Sportage Comfort 1.6 T-GDI 110 kW Natural 95 Manuální převodovka](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka): Faceliftovaná Kia Sportage ve výbavě Comfort a s benzinovým motorem 1.6 T-GDI o výkonu 110 kW je ideální volbou pro ty, kteří hledají prostorné SUV s moderním vzhledem a výbornou ovladatelností. Díky přeplňovanému motoru nabídne svižnou akceleraci i v kombinaci s manuální převodovkou, která potěší všechny, kdo si rádi řízení užívají naplno. Spotřeba se i při běžném provozu drží na rozumné úrovni, zejména díky vyváženému poměru hmotnosti a výkonu. Nový facelift přináší svěží design, vylepšenou aerodynamiku a modernější technologie, díky kterým působí Sportage sebevědomě a současně. Skvělý parťák pro každodenní jízdu i delší výlety.
-  Updated: 2025-10-29T18:58:32Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KIASportageComfort1.6foto1.webp?v=1761741387
-  - [10000 km / 24 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087443366237)
-    Availability: Available
-    Price: 6 280,00 Kč CZK
-  - [10000 km / 36 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087428555101)
-    Availability: Available
-    Price: 6 260,00 Kč CZK
-  - [15000 km / 24 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087443399005)
-    Availability: Available
-    Price: 6 580,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087443431773)
-    Availability: Available
-    Price: 6 760,00 Kč CZK
-  - [20000 km / 24 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087443464541)
-    Availability: Available
-    Price: 6 900,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087428653405)
-    Availability: Available
-    Price: 7 440,00 Kč CZK
-  - [25000 km / 24 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087443497309)
-    Availability: Available
-    Price: 7 610,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá Cassa pastelová](https://www.driveto.cz/products/kia-sportage-comfort-1-6-t-gdi-110-kw-natural-95-manualni-prevodovka?variant=58087428718941)
-    Availability: Available
-    Price: 7 840,00 Kč CZK
-- [KIA Sportage Exclusive 1.6 T-GDI DCT 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka): Kia Sportage ve výbavě Exclusive s benzinovým motorem 1.6 T-GDI o výkonu 110 kW a automatickou převodovkou 7DCT je elegantní SUV, které spojuje kultivovaný výkon, pohodlí a moderní technologie. Přeplňovaný čtyřválec nabízí plynulý zátah a ve spojení s dvouspojkovou převodovkou zajišťuje rychlé a hladké řazení bez trhání. I přes solidní dynamiku se spotřeba drží v rozumných mezích, zvlášť při klidnější jízdě. Výbava Exclusive přináší vyšší úroveň komfortu i stylu, zatímco automat oceníte především ve městě a kolonách. Ideální volba pro ty, kteří chtějí všestranný vůz s nádechem prémiovosti a bezstarostným ovládáním.
-  Updated: 2025-10-29T18:58:34Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KIASportageExclusive1.6foto1_4e3e9921-d29a-4b44-b664-74e274d593fa.webp?v=1761741418
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485473117)
-    Availability: Available
-    Price: 7 150,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485505885)
-    Availability: Available
-    Price: 7 140,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485538653)
-    Availability: Available
-    Price: 7 500,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485571421)
-    Availability: Available
-    Price: 7 710,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485604189)
-    Availability: Available
-    Price: 7 860,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485636957)
-    Availability: Available
-    Price: 8 480,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485669725)
-    Availability: Available
-    Price: 8 670,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-exclusive-1-6-t-gdi-110-kw-natural-95-automaticka-prevodovka?variant=58087485702493)
-    Availability: Available
-    Price: 8 930,00 Kč CZK
-- [KIA Sportage TOP 1.6 T-GDI DCT 110 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka): Kia Sportage ve výbavě TOP s benzinovým motorem 1.6 T-GDI a automatickou dvouspojkovou převodovkou DCT představuje velmi vyváženou volbu pro ty, kteří hledají stylové a technologicky vyspělé SUV pro každý den. Přeplňovaný čtyřválec o výkonu 110 kW nabízí příjemnou dynamiku a kultivovaný projev, ať už jedete ve městě, nebo na dálnici. Automatická převodovka DCT řadí rychle a hladce, což oceníte především v hustém provozu nebo při plynulé jízdě po okreskách. Facelift přinesl modernější vzhled s ostře řezanými liniemi a světlomety ve tvaru bumerangu, díky kterým Sportage působí sebevědomě a prémiově. Výbava TOP navíc přidává řadu komfortních a bezpečnostních prvků, které výrazně zvyšují celkový dojem z vozu, od pokročilých asistenčních systémů až po luxusní detaily v interiéru. Sportage tak zůstává věrná své pověsti spolehlivého a praktického SUV, ale v této specifikaci nabízí ještě něco navíc: styl, pohodlí a výbavu, kterou byste čekali spíše u prémiových značek.
-  Updated: 2025-10-29T18:36:28Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/KIA_Sportage_TOP_1.6_T-GDI_DCT_110_kW_Natural_95_Automatick_p_evodovka_2.png?v=1756738357
-  - [10000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737327965)
-    Availability: Available
-    Price: 7 560,00 Kč CZK
-  - [10000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737360733)
-    Availability: Available
-    Price: 7 550,00 Kč CZK
-  - [15000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737393501)
-    Availability: Available
-    Price: 7 930,00 Kč CZK
-  - [15000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737426269)
-    Availability: Available
-    Price: 8 150,00 Kč CZK
-  - [20000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737459037)
-    Availability: Available
-    Price: 8 310,00 Kč CZK
-  - [20000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737491805)
-    Availability: Available
-    Price: 8 970,00 Kč CZK
-  - [25000 km / 24 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737524573)
-    Availability: Available
-    Price: 9 150,00 Kč CZK
-  - [25000 km / 36 měsíců / Různé barvy](https://www.driveto.cz/products/kia-sportage-top-1-6-t-gdi-dct-110-kw-natural-95-automaticka-prevodovka?variant=58087737557341)
-    Availability: Available
-    Price: 9 430,00 Kč CZK
 - [Volvo XC60 Plus Dark 2.0 B5 184 kW 4x4 Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-xc60-plus-dark-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka): Volvo XC60 ve výbavě Plus Dark a s motorem B5 o výkonu 184 kW je stylové a technicky vyspělé SUV, které klade důraz na pohodlí, bezpečnost a kultivovaný výkon. Přeplňovaný dvoulitrový benzinový čtyřválec v kombinaci s mild-hybridní technologií nabízí plynulý zátah a příjemně svižnou dynamiku bez zbytečné spotřeby. Automatická převodovka řadí hladce a logicky, zatímco pohon všech kol přináší vyšší jistotu při jízdě za zhoršeného počasí i mimo zpevněné cesty. Verze Plus Dark přidává elegantní černé detaily exteriéru, které podtrhují sebevědomý a prémiový vzhled vozu. Uvnitř čeká moderní skandinávský interiér s důrazem na kvalitu, ergonomii a digitální technologie. Nechybí ani nejnovější bezpečnostní asistenty a komfortní prvky, díky kterým je každá jízda maximálně pohodlná a bezpečná. XC60 B5 je tak perfektní volbou pro ty, kteří hledají výkonné, kultivované a vysoce komfortní SUV s nádechem elegance.
-  Updated: 2025-11-04T11:14:43Z
+  Updated: 2025-11-12T19:35:34Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -4400,7 +4340,7 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Zlatave_stribrna_Bright_Dusk_Volvo_XC60_Plus_Dark.webp?v=1761741516
     Price: 21 327,00 Kč CZK
 - [Volvo XC60 Plus Black Edition 2.0 B5 184 kW 4x4 Natural 95 Automatická převodovka](https://www.driveto.cz/products/volvo-xc60-plus-black-edition-2-0-b5-184-kw-4x4-natural-95-automaticka-prevodovka): Volvo XC60 ve verzi Plus Black Edition s motorem B5 (184 kW), automatickou převodovkou a pohonem všech kol je sebevědomé SUV, které spojuje špičkový design, výkon a bezpečnost v mimořádně atraktivním balení. Výkonný dvoulitrový čtyřválec s mild-hybridní technologií poskytuje hladkou a svižnou jízdu, zatímco pohon všech kol zaručuje stabilitu a jistotu v každém počasí. Automatická převodovka řadí plynule a přirozeně, což oceníte při každodenní jízdě i na delších trasách. Speciální edice Black Edition přidává výrazné černé prvky na karoserii, černá kola a další detaily, které vozu dodávají sportovní, až lehce dravý charakter. Uvnitř na vás čeká luxusní interiér s prémiovými materiály, výborně čitelnou digitální přístrojovkou a množstvím pokročilých technologií. XC60 B5 Black Edition tak nabízí nejen výkon a pohon všech kol, ale i styl a komfort, kterými se odlišíte. Ideální volba pro ty, kdo chtějí moderní, sebevědomé SUV bez kompromisů.
-  Updated: 2025-10-29T18:58:42Z
+  Updated: 2025-11-12T19:35:18Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -5213,17 +5153,17 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-10T23:26:44Z
-  Total Products: 227
+  Updated: 2025-11-12T23:04:51Z
+  Total Products: 230
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T20:02:22Z
-  Total Products: 65
+  Updated: 2025-11-12T20:06:03Z
+  Total Products: 70
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-11T00:02:09Z
+  Updated: 2025-11-12T10:05:02Z
   Total Products: 26
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-11T00:02:29Z
-  Total Products: 159
+  Updated: 2025-11-13T00:01:23Z
+  Total Products: 161
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:39:41Z
   Total Products: 2
@@ -5234,52 +5174,52 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-10-26T11:17:59Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T17:03:44Z
+  Updated: 2025-11-11T12:22:39Z
   Total Products: 13
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
   Total Products: 1
 - [Operativní leasing MG | Driveto.cz](https://www.driveto.cz/collections/mg): Operativní leasing MG pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-05T12:22:19Z
+  Updated: 2025-11-11T12:22:39Z
   Total Products: 4
 - [Operativní leasing Lexus | Driveto.cz](https://www.driveto.cz/collections/lexus): Operativní leasing Lexus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-17T09:02:46Z
   Total Products: 0
 - [Operativní leasing Cupra | Driveto.cz](https://www.driveto.cz/collections/cupra): Operativní leasing Cupra pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T21:07:07Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 17
 - [Operativní leasing Nissan | Driveto.cz](https://www.driveto.cz/collections/nissan): Operativní leasing Nissan pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T21:05:22Z
+  Updated: 2025-11-11T12:22:39Z
   Total Products: 6
 - [Operativní leasing Citroën | Driveto.cz](https://www.driveto.cz/collections/citroen): Operativní leasing Citroën pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-01T08:36:13Z
   Total Products: 0
 - [Operativní leasing Seat | Driveto.cz](https://www.driveto.cz/collections/seat): Operativní leasing Seat pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T15:05:52Z
+  Updated: 2025-11-11T12:22:39Z
   Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T23:26:44Z
+  Updated: 2025-11-12T18:04:57Z
   Total Products: 45
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-11T00:01:09Z
+  Updated: 2025-11-12T10:06:12Z
   Total Products: 12
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T21:02:23Z
+  Updated: 2025-11-12T23:06:11Z
   Total Products: 13
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T12:20:25Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 3
 - [Operativní leasing Hyundai | Driveto.cz](https://www.driveto.cz/collections/hyundai): Operativní leasing Hyundai pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 3
 - [Operativní leasing Kia | Driveto.cz](https://www.driveto.cz/collections/kia): Operativní leasing Kia pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T12:20:25Z
-  Total Products: 7
+  Updated: 2025-11-12T15:45:05Z
+  Total Products: 5
 - [Operativní leasing Volkswagen | Driveto.cz](https://www.driveto.cz/collections/volkswagen): Operativní leasing Volkswagen pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T09:05:01Z
+  Updated: 2025-11-12T18:03:03Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T23:26:44Z
+  Updated: 2025-11-12T23:05:56Z
   Total Products: 28
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-10T17:06:56Z
@@ -5288,26 +5228,29 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-11-10T17:07:30Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T23:26:44Z
-  Total Products: 229
+  Updated: 2025-11-12T23:05:41Z
+  Total Products: 232
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T11:04:59Z
   Total Products: 9
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-08T12:18:46Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-09T12:18:58Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 3
 - [Operativní leasing Maxus | Driveto.cz](https://www.driveto.cz/collections/maxus): Operativní leasing Maxus pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-10-01T08:36:13Z
+  Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-10T23:26:44Z
-  Total Products: 227
+  Updated: 2025-11-12T23:03:01Z
+  Total Products: 230
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-10T12:20:25Z
+  Updated: 2025-11-12T12:21:22Z
   Total Products: 3
+- [BLACK FRIDAY](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing s rychlou dostupností a auty skladem. Nejlepší nabídky roku bez starostí a jednoduše online.
+  Updated: 2025-11-12T15:15:04Z
+  Total Products: 0
 
 ## Store Pages
 
@@ -5345,6 +5288,8 @@ Po skončení doby pronájmu vám rádi pomůžeme najít nový vůz na operativ
   Updated: 2025-09-01T06:45:12Z
 - [Vyberte si svoje auto](https://www.driveto.cz/pages/vyberte-si-svoje-auto): 
   Updated: 2025-10-30T19:24:33Z
+- [LLMS.txt](https://www.driveto.cz/pages/llms-txt)
+  Updated: 2025-11-11T06:08:28Z
 
 ## Policies
 
