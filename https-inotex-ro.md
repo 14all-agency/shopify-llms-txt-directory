@@ -1,12 +1,17 @@
 # Inotex (https://inotex.ro)
 
+> Producător de costume medicale. Fabricație proprie, materiale Oeko-Tex certificate, livrare rapidă. Deservim profesioniști medicali și instituții din România cu uniforme de calitate superioară la prețuri accesibile.
+
+
 - Domain: https://inotex.ro
 - Locale: ro-RO
 - Currency: RON
 - Timezone: Europe/Bucharest
 - Created At: 2020-01-24T12:14:18Z
 - Contact Email: info@inotex.ro
-- Updated At: 2025-11-13T12:21:03.900Z
+- Contact Phone: +40 316 304 091
+- Address: Șoseaua Nicolina 189, etaj 2, Iași 700714, România
+- Updated At: 2025-11-13T12:24:52.672Z
 
 ## Products
 
@@ -11479,8 +11484,6 @@
 
 ## Policies
 
-- [Privacy Policy](https://inotex.ro/policies/privacy-policy)
 - [Shipping Policy](https://inotex.ro/policies/shipping-policy)
 - [Refund Policy](https://inotex.ro/policies/refund-policy)
-- [Terms of Service](https://inotex.ro/policies/terms-of-service)
 - [Contact Information](https://inotex.ro/policies/contact-information)
