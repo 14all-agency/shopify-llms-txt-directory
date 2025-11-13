@@ -6,47 +6,47 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-11-09T00:00:31.765Z
+- Updated At: 2025-11-13T00:00:27.757Z
 
 ## Products
 
-- [Premium CoQ10 - 60 Capsules (200mg) - £0.27 per capsule](https://www.floridasunshinevitamins.com/products/premium-coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
-  Updated: 2025-11-07T14:57:19Z
+- [Premium CoQ10 60 Capsules (200mg)](https://www.floridasunshinevitamins.com/products/premium-coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
+  Updated: 2025-11-10T11:39:26Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/coq10_e2991e8d-5d4e-455c-8539-b62c583e1a6a.webp?v=1761300041
   Price: £15.99 GBP
-- [Liposomal Quercetin - 120 Capsules (250mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
-  Updated: 2025-10-27T09:19:00Z
+- [Liposomal Quercetin - 120 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
+  Updated: 2025-11-10T11:37:40Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Qwercetin.webp?v=1761300102
   Price: £16.99 GBP
-- [Liposomal Vitamin C - 120 Capsules (500mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c): Vitamin C has multiple therapeutic, anti-inflammatory, immune-boosting, anti-aging and beauty benefits that help the entire body, from the surface of the skin to deep within the cellular structure.
-  Updated: 2025-10-24T20:25:32Z
+- [Liposomal Vitamin C 120 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c): Vitamin C has multiple therapeutic, anti-inflammatory, immune-boosting, anti-aging and beauty benefits that help the entire body, from the surface of the skin to deep within the cellular structure.
+  Updated: 2025-11-10T11:48:32Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/vit_C_big.webp?v=1761300207
   Price: £16.99 GBP
-- [Liposomal Vitamin D3 - 90 Capsules (125mcg) - £0.19 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-10-29T17:55:01Z
+- [Liposomal Vitamin D3 - 90 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
+  Updated: 2025-11-10T11:33:50Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/d3_small_ceb49d6a-3af2-48ed-836c-26ea4f64be5d.webp?v=1761300245
   Price: £16.99 GBP
-- [Lutein Complex - 60 Capsules (200mg) - £0.25 per capsule](https://www.floridasunshinevitamins.com/products/lutein-complex): Lutein is primarily found in green leafy vegetables like spinach and kale, as well as in other foods like eggs, corn, and oranges. While lutein supplements are available, it is often recommended to obtain this nutrient through a balanced diet rich in fruits and vegetables.
-  Updated: 2025-10-24T22:30:34Z
+- [Lutein Complex - 60 Capsules (200mg)](https://www.floridasunshinevitamins.com/products/lutein-complex): Lutein is primarily found in green leafy vegetables like spinach and kale, as well as in other foods like eggs, corn, and oranges. While lutein supplements are available, it is often recommended to obtain this nutrient through a balanced diet rich in fruits and vegetables.
+  Updated: 2025-11-10T11:24:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/lutein_complex.webp?v=1761300287
   Price: £14.99 GBP
-- [Vitamin C & D3 Bundle – Liposomal Absorption](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c-d-bundle): Boost your health with Liposomal Vitamin C and Vitamin D3, featuring advanced absorption technologies for maximum benefits.
-  Updated: 2025-10-24T22:30:55Z
+- [Vitamin C & D3 – Liposomal Absorption](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c-d-bundle): Boost your health with Liposomal Vitamin C and Vitamin D3, featuring advanced absorption technologies for maximum benefits.
+  Updated: 2025-11-10T11:22:03Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -93,8 +93,8 @@
 - [Home page](https://www.floridasunshinevitamins.com/collections/frontpage): Explore liposomal vitamins & supplements—C, D3, Quercetin, Lutein, CoQ10—vegan-friendly, gluten-free, made in Florida for enhanced absorption.
   Updated: 2025-11-07T12:22:12Z
   Total Products: 5
-- [Liposomal Vitamins Collection – Florida Sunshine](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
-  Updated: 2025-11-07T14:59:19Z
+- [Liposomal Vitamins Collection](https://www.floridasunshinevitamins.com/collections/liposomal-vitamins): Radiant health starts here. With a daily dose of our powerful vitamins and supplements you can elevate your wellness journey with nature's finest ingredients to achieve your health goal.
+  Updated: 2025-11-10T11:19:10Z
   Total Products: 5
 - [Bundles](https://www.floridasunshinevitamins.com/collections/vitamin-bundles)
   Updated: 2025-11-07T14:58:45Z
@@ -107,10 +107,10 @@
 
 - [Contact Florida Sunshine Vitamins Today](https://www.floridasunshinevitamins.com/pages/contact): 
   Updated: 2025-09-01T12:18:50Z
-- [Liposomal PureWay C Vitamin – Florida Sunshine](https://www.floridasunshinevitamins.com/pages/liposomal-pureway-c): 
-  Updated: 2025-09-01T12:19:41Z
-- [About Florida Sunshine – Liposomal Supplements](https://www.floridasunshinevitamins.com/pages/about-us): 
-  Updated: 2025-09-01T12:18:39Z
+- [Liposomal PureWay C Vitamin](https://www.floridasunshinevitamins.com/pages/liposomal-pureway-c): 
+  Updated: 2025-11-10T11:20:26Z
+- [About Florida Sunshine – Supplements](https://www.floridasunshinevitamins.com/pages/about-us): 
+  Updated: 2025-11-10T11:19:58Z
 - [FAQs | Florida Sunshine Vitamins Support](https://www.floridasunshinevitamins.com/pages/faqs): 
   Updated: 2025-09-09T08:31:55Z
 - [Your privacy choices](https://www.floridasunshinevitamins.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
