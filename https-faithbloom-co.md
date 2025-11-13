@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-02T18:10:48Z
 - Contact Email: inspire@faithbloomco.com
-- Updated At: 2025-11-07T00:00:28.044Z
+- Updated At: 2025-11-13T00:00:46.440Z
 
 ## Products
 
 - [Warrior's Prayer T-Shirt](https://faithbloom.co/products/god-is-within-her-christian-tee): The Warrior's Prayer T-Shirt is a bold and empowering statement piece that embodies strength, resilience, and faith. Ideal for anyone seeking a faith-based design that speaks to inner power and divine protection. Perfect for spiritual warriors who find strength in surrender. This design is relevant for religious holidays, spiritual observances, and everyday wear.Product features- Side seams for structural support- Ribbed knit collar for shape retention- Shoulder tape for stability- 100% cotton composition for comfort- Slim fit with longer body length for a modern lookCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-11-06T21:47:04Z
+  Updated: 2025-11-07T10:35:32Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/live-the-word-micah-6-8-do-justice-tee-bright-salmon-s-t-shirt-618.webp?v=1753830287
     Price: $20.30 USD
 - ["Walk by Faith, Not by Sight" T-Shirt](https://faithbloom.co/products/walk-by-faith-not-by-sight-t-shirt): Embrace the guiding light of faith with our inspiring "We Walk by Faith, Not By Sight" t-shirt. This captivating design illustrates a winding path of footprints leading towards a luminous cross, representing the divine direction in our lives. The powerful message from II Corinthians 5:7 encourages reliance on spiritual truth over worldly perception. Comfortable and meaningful, this tee is ideal for daily wear or as a thoughtful gift for those on their spiritual journey. S M L XL 2XL 3XL 4XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 Length, in 26.50 28.50 30.50 31.50 32.50 33.50 34.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 The Alstyle 1301 is a unisex tee for every casual outing. Made with 100% cotton (Athletic Heather is 90% cotton, 10% polyester; Charcoal Heather and Safety Green are 50% cotton, 50% polyester; Ash is 99% cotton, 1% polyester), this tee is supremely soft while the classic fit makes it an easy-going choice for a number of occasions. Add your design and create a highly versatile staple for everyday wear. .: 100% cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (203 g/m²)).: Classic Fit.: Tear-away label
-  Updated: 2025-11-06T20:41:05Z
+  Updated: 2025-11-07T13:39:02Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/walk-by-faith-not-sight-t-shirt-charcoal-s-923.webp?v=1762460620
     Price: $32.30 USD
 - ["He Restores My Soul" Tree of Life Tee - Psalm 23:3](https://faithbloom.co/products/he-restores-my-soul-tree-of-life-tee-psalm-23-3): Find peace and comfort in our "He Restores My Soul" t-shirt, inspired by Psalm 23:3. This serene design features a majestic tree, symbolizing life and spiritual growth, with the silhouette of Jesus embraced within its roots. The vibrant colors evoke a sense of calm and renewal, reminding you of God's restorative power. Crafted for ultimate comfort, this tee is a beautiful expression of faith and a perfect reminder of divine peace. XS S M L XL 2XL 3XL Width, in 18.75 19.75 20.75 22.75 24.75 26.75 28.75 Length, in 26.25 27.25 27.75 28.75 29.75 30.25 31.25 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Comfort and style is the name of the game for these custom boxy t-shirts. Their relaxed fit along with the dropped shoulders add that modern aesthetic that can blend into any occasion. All shirts are made with 100% airlume, ring-spun and combed cotton for extra softness. (Athletic Heather is 90% / 10% airlume combed and ring-spun cotton / polyester) .: 100% airlume combed and ring-spun cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (170 g/m²)).: Relaxed fit.: Tear-away label
-  Updated: 2025-11-06T20:55:15Z
+  Updated: 2025-11-07T13:14:36Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1041,213 +1041,181 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/he-restores-my-soul-tree-of-life-tee-psalm-23-3-toast-xs-t-shirt-310.webp?v=1762461462
     Price: $30.55 USD
 - [Share Your Light Christian T-Shirt](https://faithbloom.co/products/share-your-light-christian-t-shirt): Looking for a way to express your faith and inspire others? Our "Let Your Light Shine" T-shirt is the perfect choice. This impactful design serves as a daily reminder of your purpose to shine brightly, as taught in Matthew 5:16. Beyond its meaningful message, this shirt offers exceptional comfort and a stylish fit, making it a valuable addition to any wardrobe. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length from center back, in 15.62 17.37 18.75 20.00 21.50 22.87 24.25 25.50 This unisex ultra cotton tee is a classic. Quality cotton construction means that designs are sure to shine. The shoulders are tapped for a good upper-body fit. There are no side seams, ensuring a clean, unbroken flow. The collar has ribbed knitting for improved elasticity. The materials that went into this product are sustainably sourced and economically friendly. .: This unisex tee is an excellent, all-season wear thanks to its medium fabric (6.0 oz/yd² (203 g/m²)). Made with 100% US cotton, this tee guarantees long-lasting comfort and style. .: The classic fit along with the crew neckline make it a highly versatile choice for casual and semi-formal occasions as its neat, clean looks can blend in any setting and are perfect for accessorizing..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance..: The tear-away label minimizes skin irritations and provides a scratch-free wearing experience..: Fabric Blends: Ash Grey - 99% cotton, 1% polyester, Heather Colors & Safety Colors - 50% cotton, 50% polyester, Antique Colors & Sport Grey - 90% cotton, 10% polyester
-  Updated: 2025-07-29T23:14:37Z
+  Updated: 2025-11-11T05:26:22Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-navy-s-865.webp?v=1753830640
-  - [Antique Royal / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955494991)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-antique-royal-s-981.webp?v=1753830697
-    Price: $16.93 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
   - [Daisy / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955527759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-daisy-s-452.webp?v=1753830671
-    Price: $16.93 USD
-  - [Dark Chocolate / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955560527)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-chocolate-s-635.webp?v=1753830666
-    Price: $16.93 USD
-  - [Dark Heather / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955593295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-heather-s-482.webp?v=1753830692
-    Price: $16.93 USD
-  - [Heather Navy / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955626063)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-heather-navy-s-868.webp?v=1753830702
-    Price: $16.93 USD
-  - [Maroon / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955658831)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-maroon-s-923.webp?v=1753830661
-    Price: $16.93 USD
-  - [Navy / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955691599)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-navy-s-865.webp?v=1753830640
-    Price: $16.93 USD
-  - [Olive / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955724367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-olive-s-657.webp?v=1753830677
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [Vegas Gold / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955757135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-vegas-gold-s-971.webp?v=1753830656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [White / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955789903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-white-s-170.webp?v=1753830645
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
     Price: $16.93 USD
   - [Azalea / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955822671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-azalea-s-613.webp?v=1753830707
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Black / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955855439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-black-s-438.webp?v=1753830651
-    Price: $16.93 USD
-  - [Forest Green / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955888207)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-forest-green-s-864.webp?v=1753830687
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
     Price: $16.93 USD
   - [Lime / S](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955920975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-lime-s-307.webp?v=1753830682
-    Price: $16.93 USD
-  - [Antique Royal / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955953743)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-antique-royal-s-981.webp?v=1753830697
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Daisy / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355955986511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-daisy-s-452.webp?v=1753830671
-    Price: $16.93 USD
-  - [Dark Chocolate / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956019279)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-chocolate-s-635.webp?v=1753830666
-    Price: $16.93 USD
-  - [Dark Heather / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956052047)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-heather-s-482.webp?v=1753830692
-    Price: $16.93 USD
-  - [Heather Navy / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956084815)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-heather-navy-s-868.webp?v=1753830702
-    Price: $16.93 USD
-  - [Maroon / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956117583)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-maroon-s-923.webp?v=1753830661
-    Price: $16.93 USD
-  - [Navy / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956150351)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-navy-s-865.webp?v=1753830640
-    Price: $16.93 USD
-  - [Olive / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956183119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-olive-s-657.webp?v=1753830677
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [Vegas Gold / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956215887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-vegas-gold-s-971.webp?v=1753830656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [White / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956248655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-white-s-170.webp?v=1753830645
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
     Price: $16.93 USD
   - [Azalea / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956281423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-azalea-s-613.webp?v=1753830707
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Black / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956314191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-black-s-438.webp?v=1753830651
-    Price: $16.93 USD
-  - [Forest Green / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956346959)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-forest-green-s-864.webp?v=1753830687
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
     Price: $16.93 USD
   - [Lime / M](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956379727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-lime-s-307.webp?v=1753830682
-    Price: $16.93 USD
-  - [Antique Royal / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956412495)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-antique-royal-s-981.webp?v=1753830697
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Daisy / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956445263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-daisy-s-452.webp?v=1753830671
-    Price: $16.93 USD
-  - [Dark Chocolate / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956478031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-chocolate-s-635.webp?v=1753830666
-    Price: $16.93 USD
-  - [Dark Heather / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956510799)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-heather-s-482.webp?v=1753830692
-    Price: $16.93 USD
-  - [Heather Navy / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956543567)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-heather-navy-s-868.webp?v=1753830702
-    Price: $16.93 USD
-  - [Maroon / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956576335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-maroon-s-923.webp?v=1753830661
-    Price: $16.93 USD
-  - [Navy / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956609103)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-navy-s-865.webp?v=1753830640
-    Price: $16.93 USD
-  - [Olive / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956641871)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-olive-s-657.webp?v=1753830677
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [Vegas Gold / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956674639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-vegas-gold-s-971.webp?v=1753830656
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
     Price: $16.93 USD
   - [White / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956707407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-white-s-170.webp?v=1753830645
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
     Price: $16.93 USD
   - [Azalea / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956740175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-azalea-s-613.webp?v=1753830707
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Black / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956772943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-black-s-438.webp?v=1753830651
-    Price: $16.93 USD
-  - [Forest Green / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956805711)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-forest-green-s-864.webp?v=1753830687
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
     Price: $16.93 USD
   - [Lime / L](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956838479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-lime-s-307.webp?v=1753830682
-    Price: $16.93 USD
-  - [Antique Royal / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956871247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-antique-royal-s-981.webp?v=1753830697
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
     Price: $16.93 USD
   - [Daisy / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956904015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-daisy-s-452.webp?v=1753830671
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
     Price: $16.93 USD
-  - [Dark Chocolate / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956936783)
+  - [Vegas Gold / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957133391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-chocolate-s-635.webp?v=1753830666
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
     Price: $16.93 USD
-  - [Dark Heather / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355956969551)
+  - [White / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957166159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-dark-heather-s-482.webp?v=1753830692
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
     Price: $16.93 USD
-  - [Heather Navy / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957002319)
+  - [Azalea / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957198927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-heather-navy-s-868.webp?v=1753830702
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
     Price: $16.93 USD
-  - [Maroon / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957035087)
+  - [Black / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957231695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-maroon-s-923.webp?v=1753830661
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
     Price: $16.93 USD
-  - [Navy / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957067855)
+  - [Lime / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957297231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-navy-s-865.webp?v=1753830640
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
     Price: $16.93 USD
-  - [Olive / XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957100623)
+  - [Daisy / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957362767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/share-your-light-christian-t-shirt-olive-s-657.webp?v=1753830677
-    Price: $16.93 USD
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
+    Price: $20.28 USD
+  - [Vegas Gold / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957592143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
+    Price: $20.28 USD
+  - [White / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957624911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
+    Price: $20.28 USD
+  - [Azalea / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957657679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
+    Price: $20.28 USD
+  - [Black / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957690447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
+    Price: $20.28 USD
+  - [Lime / 2XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43785732653135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
+    Price: $20.28 USD
+  - [Daisy / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355957788751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
+    Price: $21.93 USD
+  - [Vegas Gold / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958018127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/7356188623921433289_2048.jpg?v=1762803380
+    Price: $21.93 USD
+  - [White / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958050895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
+    Price: $21.93 USD
+  - [Azalea / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958083663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13212159945269194196_2048.jpg?v=1762803381
+    Price: $21.93 USD
+  - [Black / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958116431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
+    Price: $21.93 USD
+  - [Lime / 3XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958181967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15477596988277141254_2048.jpg?v=1762803381
+    Price: $21.93 USD
+  - [Daisy / 4XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958214735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
+    Price: $26.72 USD
+  - [White / 4XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958313039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
+    Price: $26.72 USD
+  - [Black / 4XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958345807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
+    Price: $26.72 USD
+  - [Daisy / 5XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958411343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/13548302786028925566_2048.jpg?v=1762803380
+    Price: $26.85 USD
+  - [White / 5XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958509647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16761879278728538526_2048.jpg?v=1762803378
+    Price: $26.85 USD
+  - [Black / 5XL](https://faithbloom.co/products/share-your-light-christian-t-shirt?variant=43355958542415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/10878657870745546895_2048.jpg?v=1762803379
+    Price: $26.85 USD
 - [Be Not Afraid - Isaiah 41:10 T-Shirt](https://faithbloom.co/products/be-not-afraid-isaiah-41-10-t-shirt): Find strength in faith with this powerful tee. Featuring a majestic lion and a radiant cross, this shirt boldly displays the comforting words of Isaiah 41:10: "Be not afraid." A perfect reminder of divine courage and protection. XS S M L XL 2XL 3XL Width, in 18.75 19.75 20.75 22.75 24.75 26.75 28.75 Length, in 26.25 27.25 27.75 28.75 29.75 30.25 31.25 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Comfort and style is the name of the game for these custom boxy t-shirts. Their relaxed fit along with the dropped shoulders add that modern aesthetic that can blend into any occasion. All shirts are made with 100% airlume, ring-spun and combed cotton for extra softness. (Athletic Heather is 90% / 10% airlume combed and ring-spun cotton / polyester) .: 100% airlume combed and ring-spun cotton (fiber content varies for different colors).: Medium fabric (6.0 oz/yd² (170 g/m²)).: Relaxed fit.: Tear-away label
-  Updated: 2025-11-06T18:19:04Z
+  Updated: 2025-11-07T08:33:32Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1599,7 +1567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/sacred-heart-chalice-eucharist-t-shirt-dark-heather-s-925.webp?v=1762295660
     Price: $16.93 USD
 - [Trust in God: Padre Pio Inspirational T-Shirt](https://faithbloom.co/products/trust-in-god-padre-pio-inspirational-t-shirt): Let the timeless wisdom of Padre Pio guide your day with our "Pray Like Padre Pio" T-shirt. Featuring a classic image of the saint and his famous quote, "Pray, hope, and don't worry," this shirt is a gentle nudge to live with greater faith and less fear. Crafted for comfort and designed to inspire, it's perfect for personal reflection or as a thoughtful gift for a fellow devotee. S M L XL 2XL 3XL Width, in 20.00 21.50 23.25 24.75 26.25 28.00 Length, in 27.75 29.00 30.50 31.75 33.25 34.00 Sleeve length, in 9.00 9.50 9.50 10.25 10.62 11.00 Add both comfort and style to your wardrobe with the Unisex Faded Tee, where effortless elegance meets supreme comfort. Crafted from 100% carded cotton, this tee offers a luxurious softness and breathability for all-day wear. Its boxy, oversized fit and dropped shoulders add a touch of relaxed sophistication. Each tee undergoes garment dyeing, resulting in a unique, faded aesthetic that sets it apart. .: 100% carded cotton.: Heavyweight fabric (7.1 oz/yd² (240.7 g/m²)).: Boxy, oversized fit.: Tear-away label.: Please note: the shirts are dyed after sewing, resulting in more faded edges and a possible hue gradient.: Embroidery decoration method available
-  Updated: 2025-11-06T23:23:05Z
+  Updated: 2025-11-08T06:21:10Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -2076,418 +2044,250 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/straight-outta-confession-shirt-royal-s-t-384.webp?v=1753831181
     Price: $20.28 USD
-- [Funny Catholic Tee - Holy Water & Salty Vibes, Perfect for Church, Gifts ,  Humor, Religious Apparel, Unisex Crew Tee](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee): Catch a wave of good energy with our 'Holy Water & Salty Vibes' tee! Perfect for beach days, chill moods, and embracing your faith with a laid-back spirit. S M L XL 2XL 3XL Width, in 18.23 19.76 21.26 22.76 24.75 26.70 Height, in 27.48 28.50 29.49 30.47 31.50 32.50 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 Experience comfort and style with this Unisex Tri-Blend Crew Tee, designed for those who appreciate a lighthearted spirit and a touch of humor. This tee is perfect for casual outings, weekend gatherings, or relaxing at home. Its soft, cozy fabric will keep you feeling great all day long while expressing your personality. Whether you're attending a family BBQ, a church event, or celebrating a friend's birthday, this shirt is a fun conversation starter. Ideal for individuals who enjoy a playful twist on traditional themes, this stylish tee is suitable for all, making it a great gift for holidays like Easter, casual parties, or any laid-back occasion.Product features- Soft tri-blend fabric for comfort and durability- Side seams for enhanced shape retention- Elastic ribbed knit collar for a classic look- Shoulder tape for added stability and support- Lightweight design perfect for all-day wearCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:24:58Z
+- [Tri-Blend Crew Tee Tide & Tribe Emblem Vintage-Inspired T-Shirt](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee): This T-shirt features a striking, vintage-inspired emblem that captures the spirit of coastal community and faith. The design blends spiritual and Californian natural themes, with a color palette of deep Navy Blue and bright Golden Yellow/Mustard. It is perfect for those who love coastal living, California history, and the unity of community and nature. Ideal for holidays such as Easter, Thanksgiving, and beach-themed parties.Product features- 50% polyester, 25% combed ring spun cotton, 25% rayon for softness and durability- With side seams for structural support- Ribbed knit collar with seam for shape retention- Shoulder tape for stabilization- Light fabric with tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2025-11-11T09:13:10Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-military-green-t-shirt-349.webp?v=1753831320
-  - [S / Tri-Blend Envy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542542415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-envy-t-shirt-389.webp?v=1753831341
-    Price: $27.78 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
   - [S / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542575183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-heather-white-t-shirt-742.webp?v=1753831325
-    Price: $27.78 USD
-  - [S / Tri-Blend Macchiato](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542607951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-macchiato-t-shirt-440.webp?v=1753831337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
     Price: $27.78 USD
   - [S / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542640719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-military-green-t-shirt-349.webp?v=1753831320
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
     Price: $27.78 USD
   - [S / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542673487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-premium-heather-t-shirt-195.webp?v=1753831370
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
     Price: $27.78 USD
   - [S / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542706255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-black-t-shirt-834.webp?v=1753831330
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
     Price: $27.78 USD
   - [S / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542739023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-navy-t-shirt-194.webp?v=1753831361
-    Price: $27.78 USD
-  - [S / Tri-Blend Vintage Red](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542771791)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-red-t-shirt-505.webp?v=1753831379
-    Price: $27.78 USD
-  - [S / Tri-Blend Vintage Royal](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542804559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-royal-t-shirt-613.webp?v=1753831351
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
     Price: $27.78 USD
   - [S / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542837327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-indigo-t-shirt-969.webp?v=1753831356
-    Price: $27.78 USD
-  - [S / Tri-Blend Vintage Turquoise](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542870095)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-turquoise-t-shirt-372.webp?v=1753831346
-    Price: $27.78 USD
-  - [S / Tri-Blend Vintage Purple](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542902863)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-purple-t-shirt-880.webp?v=1753831375
-    Price: $27.78 USD
-  - [S / Tri-Blend Cardinal Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542935631)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-cardinal-black-t-shirt-180.webp?v=1753831384
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
     Price: $27.78 USD
   - [S / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359542968399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-white-t-shirt-342.webp?v=1753831365
-    Price: $27.78 USD
-  - [M / Tri-Blend Envy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543001167)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-envy-t-shirt-389.webp?v=1753831341
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
     Price: $27.78 USD
   - [M / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543033935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-heather-white-t-shirt-742.webp?v=1753831325
-    Price: $27.78 USD
-  - [M / Tri-Blend Macchiato](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543066703)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-macchiato-t-shirt-440.webp?v=1753831337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
     Price: $27.78 USD
   - [M / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543099471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-military-green-t-shirt-349.webp?v=1753831320
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
     Price: $27.78 USD
   - [M / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543132239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-premium-heather-t-shirt-195.webp?v=1753831370
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
     Price: $27.78 USD
   - [M / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543165007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-black-t-shirt-834.webp?v=1753831330
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
     Price: $27.78 USD
   - [M / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543197775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-navy-t-shirt-194.webp?v=1753831361
-    Price: $27.78 USD
-  - [M / Tri-Blend Vintage Red](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543230543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-red-t-shirt-505.webp?v=1753831379
-    Price: $27.78 USD
-  - [M / Tri-Blend Vintage Royal](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543263311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-royal-t-shirt-613.webp?v=1753831351
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
     Price: $27.78 USD
   - [M / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543296079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-indigo-t-shirt-969.webp?v=1753831356
-    Price: $27.78 USD
-  - [M / Tri-Blend Vintage Turquoise](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543328847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-turquoise-t-shirt-372.webp?v=1753831346
-    Price: $27.78 USD
-  - [M / Tri-Blend Vintage Purple](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543361615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-purple-t-shirt-880.webp?v=1753831375
-    Price: $27.78 USD
-  - [M / Tri-Blend Cardinal Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543394383)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-cardinal-black-t-shirt-180.webp?v=1753831384
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
     Price: $27.78 USD
   - [M / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543427151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-white-t-shirt-342.webp?v=1753831365
-    Price: $27.78 USD
-  - [L / Tri-Blend Envy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543459919)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-envy-t-shirt-389.webp?v=1753831341
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
     Price: $27.78 USD
   - [L / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543492687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-heather-white-t-shirt-742.webp?v=1753831325
-    Price: $27.78 USD
-  - [L / Tri-Blend Macchiato](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543525455)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-macchiato-t-shirt-440.webp?v=1753831337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
     Price: $27.78 USD
   - [L / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543558223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-military-green-t-shirt-349.webp?v=1753831320
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
     Price: $27.78 USD
   - [L / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543590991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-premium-heather-t-shirt-195.webp?v=1753831370
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
     Price: $27.78 USD
   - [L / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543623759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-black-t-shirt-834.webp?v=1753831330
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
     Price: $27.78 USD
   - [L / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543656527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-navy-t-shirt-194.webp?v=1753831361
-    Price: $27.78 USD
-  - [L / Tri-Blend Vintage Red](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543689295)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-red-t-shirt-505.webp?v=1753831379
-    Price: $27.78 USD
-  - [L / Tri-Blend Vintage Royal](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543722063)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-royal-t-shirt-613.webp?v=1753831351
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
     Price: $27.78 USD
   - [L / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543754831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-indigo-t-shirt-969.webp?v=1753831356
-    Price: $27.78 USD
-  - [L / Tri-Blend Vintage Turquoise](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543787599)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-turquoise-t-shirt-372.webp?v=1753831346
-    Price: $27.78 USD
-  - [L / Tri-Blend Vintage Purple](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543820367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-purple-t-shirt-880.webp?v=1753831375
-    Price: $27.78 USD
-  - [L / Tri-Blend Cardinal Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543853135)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-cardinal-black-t-shirt-180.webp?v=1753831384
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
     Price: $27.78 USD
   - [L / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543885903)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-white-t-shirt-342.webp?v=1753831365
-    Price: $27.78 USD
-  - [XL / Tri-Blend Envy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543918671)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-envy-t-shirt-389.webp?v=1753831341
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
     Price: $27.78 USD
   - [XL / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543951439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-heather-white-t-shirt-742.webp?v=1753831325
-    Price: $27.78 USD
-  - [XL / Tri-Blend Macchiato](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359543984207)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-macchiato-t-shirt-440.webp?v=1753831337
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
     Price: $27.78 USD
   - [XL / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544016975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-military-green-t-shirt-349.webp?v=1753831320
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
     Price: $27.78 USD
   - [XL / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544049743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-premium-heather-t-shirt-195.webp?v=1753831370
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
     Price: $27.78 USD
   - [XL / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544082511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-black-t-shirt-834.webp?v=1753831330
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
     Price: $27.78 USD
   - [XL / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544115279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-navy-t-shirt-194.webp?v=1753831361
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
     Price: $27.78 USD
-  - [XL / Tri-Blend Vintage Red](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544148047)
+  - [XL / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544213583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-catholic-tee-holy-water-salty-vibes-perfect-for-church-gifts-humor-religious-apparel-unisex-crew-s-tri-blend-vintage-red-t-shirt-505.webp?v=1753831379
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
     Price: $27.78 USD
+  - [XL / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544344655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
+    Price: $27.78 USD
+  - [2XL / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544410191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
+    Price: $31.10 USD
+  - [2XL / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544475727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
+    Price: $31.10 USD
+  - [2XL / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544508495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
+    Price: $31.10 USD
+  - [2XL / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544541263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
+    Price: $31.10 USD
+  - [2XL / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544574031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
+    Price: $31.10 USD
+  - [2XL / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544672335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
+    Price: $31.10 USD
+  - [2XL / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544803407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
+    Price: $31.10 USD
+  - [3XL / Tri-Blend Heather White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544868943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-heather-white-251.webp?v=1762809201
+    Price: $34.25 USD
+  - [3XL / Tri-Blend Indigo](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544901711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-indigo-128.webp?v=1762809210
+    Price: $34.25 USD
+  - [3XL / Tri-Blend Military Green](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359544967247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-military-green-696.webp?v=1762809197
+    Price: $34.25 USD
+  - [3XL / Tri-Blend Premium Heather](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359545000015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-premium-heather-243.webp?v=1762809222
+    Price: $34.25 USD
+  - [3XL / Tri-Blend Vintage Black](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359545032783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-black-123.webp?v=1762809205
+    Price: $34.25 USD
+  - [3XL / Tri-Blend Vintage Navy](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359545065551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-navy-704.webp?v=1762809214
+    Price: $34.25 USD
+  - [3XL / Tri-Blend White](https://faithbloom.co/products/funny-catholic-tee-this-is-my-mass-hole-shirt-perfect-for-church-gifts-for-priests-easter-humor-religious-apparel-unisex-crew-tee?variant=43359545262159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/tri-blend-crew-tee-tide-tribe-emblem-vintage-inspired-t-shirt-s-white-334.webp?v=1762809218
+    Price: $34.25 USD
 - [Eat, Pray, Don't Mess Up (Much) Tee](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee): Keep your spiritual goals in check with a wink and a nod! This "Eat, Pray, DON'T SIN (Too Much)" tee is perfect for the modern believer who appreciates honesty and humor. Featuring a cool graphic of wine, bread, and a rosary, it's a comfy and stylish reminder to strive for good, but always remember grace is there. S M L XL 2XL 3XL Width, in 17.25 19.25 21.25 23.27 25.25 27.25 Heigth, in 25.51 26.00 27.00 28.00 28.50 29.00 Introducing our Women's Midweight Cotton Tee, a perfect blend of comfort and style! This tee features a charming design that combines humor with a touch of sophistication, making it an ideal choice for casual outings or cozy nights in. Its lightweight fabric and semi-fitted cut ensure you feel great no matter the occasion. Perfect for wine lovers, food enthusiasts, or anyone who appreciates a good laugh, this tee easily transitions from brunch to evening gatherings. It’s a fantastic gift for holidays, birthdays, or celebrations with friends and family. Celebrate life's little pleasures with this tee that embodies a fun-loving spirit!Product features- 100% cotton composition for solid colors, ensuring softness and breathability.- Durable double needle stitching for enhanced longevity.- Side seams providing structural support and a flattering fit.- Neck and shoulder tape for added stability and comfort.- Medium weight fabric making it ideal for year-round wear.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-07-29T23:27:17Z
+  Updated: 2025-11-09T02:49:44Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
   - [S / Navy](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410410995791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
-    Price: $16.43 USD
-  - [S / Red](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764488783)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-red-t-shirt-622.webp?v=1753831520
-    Price: $16.43 USD
-  - [S / White](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764521551)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-white-t-shirt-299.webp?v=1753831507
-    Price: $16.43 USD
-  - [S / Azalea](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411028559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-azalea-t-shirt-344.webp?v=1753831541
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-308.webp?v=1762550475
     Price: $16.43 USD
   - [S / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411061327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-283.webp?v=1753831528
-    Price: $16.43 USD
-  - [S / Heliconia](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411094095)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-heliconia-t-shirt-439.webp?v=1753831546
-    Price: $16.43 USD
-  - [S / Irish Green](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411126863)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-irish-green-t-shirt-831.webp?v=1753831533
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
     Price: $16.43 USD
   - [S / Purple](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411159631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-812.webp?v=1753831537
-    Price: $16.43 USD
-  - [S / Orange](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764554319)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-orange-t-shirt-518.webp?v=1753831524
-    Price: $16.43 USD
-  - [S / Light Pink](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764587087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-777.webp?v=1762550479
     Price: $16.43 USD
   - [M / Navy](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411225167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
-    Price: $16.43 USD
-  - [M / Red](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764619855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-red-t-shirt-622.webp?v=1753831520
-    Price: $16.43 USD
-  - [M / White](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764652623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-white-t-shirt-299.webp?v=1753831507
-    Price: $16.43 USD
-  - [M / Azalea](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411257935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-azalea-t-shirt-344.webp?v=1753831541
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-308.webp?v=1762550475
     Price: $16.43 USD
   - [M / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411290703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-283.webp?v=1753831528
-    Price: $16.43 USD
-  - [M / Heliconia](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411323471)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-heliconia-t-shirt-439.webp?v=1753831546
-    Price: $16.43 USD
-  - [M / Irish Green](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411356239)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-irish-green-t-shirt-831.webp?v=1753831533
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
     Price: $16.43 USD
   - [M / Purple](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411389007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-812.webp?v=1753831537
-    Price: $16.43 USD
-  - [M / Orange](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764685391)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-orange-t-shirt-518.webp?v=1753831524
-    Price: $16.43 USD
-  - [M / Light Pink](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764718159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-777.webp?v=1762550479
     Price: $16.43 USD
   - [L / Navy](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411454543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
-    Price: $16.43 USD
-  - [L / Red](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764750927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-red-t-shirt-622.webp?v=1753831520
-    Price: $16.43 USD
-  - [L / White](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764783695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-white-t-shirt-299.webp?v=1753831507
-    Price: $16.43 USD
-  - [L / Azalea](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411487311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-azalea-t-shirt-344.webp?v=1753831541
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-308.webp?v=1762550475
     Price: $16.43 USD
   - [L / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411520079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-283.webp?v=1753831528
-    Price: $16.43 USD
-  - [L / Heliconia](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411552847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-heliconia-t-shirt-439.webp?v=1753831546
-    Price: $16.43 USD
-  - [L / Irish Green](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411585615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-irish-green-t-shirt-831.webp?v=1753831533
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
     Price: $16.43 USD
   - [L / Purple](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411618383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-812.webp?v=1753831537
-    Price: $16.43 USD
-  - [L / Orange](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764816463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-orange-t-shirt-518.webp?v=1753831524
-    Price: $16.43 USD
-  - [L / Light Pink](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764849231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-777.webp?v=1762550479
     Price: $16.43 USD
   - [XL / Navy](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411683919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
-    Price: $16.43 USD
-  - [XL / Red](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764881999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-red-t-shirt-622.webp?v=1753831520
-    Price: $16.43 USD
-  - [XL / White](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764914767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-white-t-shirt-299.webp?v=1753831507
-    Price: $16.43 USD
-  - [XL / Azalea](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411716687)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-azalea-t-shirt-344.webp?v=1753831541
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-308.webp?v=1762550475
     Price: $16.43 USD
   - [XL / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411749455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-283.webp?v=1753831528
-    Price: $16.43 USD
-  - [XL / Heliconia](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411782223)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-heliconia-t-shirt-439.webp?v=1753831546
-    Price: $16.43 USD
-  - [XL / Irish Green](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411814991)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-irish-green-t-shirt-831.webp?v=1753831533
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
     Price: $16.43 USD
   - [XL / Purple](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411847759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-812.webp?v=1753831537
-    Price: $16.43 USD
-  - [XL / Orange](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764947535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-orange-t-shirt-518.webp?v=1753831524
-    Price: $16.43 USD
-  - [XL / Light Pink](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362764980303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-777.webp?v=1762550479
     Price: $16.43 USD
   - [2XL / Navy](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411913295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-734.webp?v=1753831502
-    Price: $20.02 USD
-  - [2XL / Red](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362765013071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-red-t-shirt-622.webp?v=1753831520
-    Price: $20.02 USD
-  - [2XL / White](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362765045839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-white-t-shirt-299.webp?v=1753831507
-    Price: $20.02 USD
-  - [2XL / Azalea](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411946063)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-azalea-t-shirt-344.webp?v=1753831541
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-navy-t-shirt-308.webp?v=1762550475
     Price: $20.02 USD
   - [2XL / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410411978831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-283.webp?v=1753831528
-    Price: $20.02 USD
-  - [2XL / Heliconia](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410412011599)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-heliconia-t-shirt-439.webp?v=1753831546
-    Price: $20.02 USD
-  - [2XL / Irish Green](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410412044367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-irish-green-t-shirt-831.webp?v=1753831533
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
     Price: $20.02 USD
   - [2XL / Purple](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410412077135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-812.webp?v=1753831537
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-purple-t-shirt-777.webp?v=1762550479
     Price: $20.02 USD
-  - [2XL / Orange](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362765078607)
+  - [3XL / Black](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43410412208207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-orange-t-shirt-518.webp?v=1753831524
-    Price: $20.02 USD
-  - [2XL / Light Pink](https://faithbloom.co/products/eat-pray-dont-mess-up-much-tee?variant=43362765111375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-light-pink-t-shirt-926.webp?v=1753831516
-    Price: $20.02 USD
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eat-pray-dont-mess-up-much-tee-s-black-t-shirt-759.webp?v=1762550471
+    Price: $21.33 USD
 - [Blessed Attitude Oversized Tee](https://faithbloom.co/products/no-filter-just-faith-and-a-mood-blessed-bitter-tee): This tee is for those who keep it real and embrace both their blessings and their bad days. With an iconic halo and subtle meh emoji face, it's the perfect blend of spiritual truth and everyday reality. Super comfy and a total mood, this tee is perfect for anyone looking to express their true self.Product features- 100% cotton composition for solid colors- Relaxed fit with dropped shoulders for a comfortable feel- Double needle sleeve, neck, and bottom hem for durability- Medium weight fabric for a quality feel- Tear-away label for added comfortCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-11-06T12:40:20Z
   Vendor: Printify
@@ -3075,7 +2875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/funny-workout-t-shirt-for-fitness-enthusiasts-gym-gift-humor-tee-leg-day-unisex-cotton-top-white-s-296.webp?v=1753831908
     Price: $16.62 USD
 - [Christ-Centered Gamer T-Shirt - God Mode Activated, Unisex Tee for Faith-Based Gamers](https://faithbloom.co/products/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-perfect-for-events-gift-for-him-her-video): In the arena of life, are you playing to win with divine guidance? This "GOD MODE: ACTIVATED" t-shirt is for those who understand that true strength comes from above, powering up your journey like never before.This shirt speaks to those who find parallels between the dedication of gaming and the commitment of faith. It's a reminder that with God as your ultimate power source, you can approach life's "game" with confidence, purpose, and a winning spirit. Activate your faith. Activate your "GOD MODE' XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.00 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 7.99 8.23 8.50 8.74 9.02 9.25 9.49 9.72 9.96 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Elevate your wardrobe with this stylish and versatile unisex softstyle t-shirt, designed for comfort and a chic look. With its classic fit and breathable fabric, it’s perfect for everyday wear, whether you’re lounging at home or stepping out with friends. This t-shirt exudes a relaxed vibe, making it a great choice for casual outings, games, or even relaxed gatherings. Ideal for gamers, religious individuals, or anyone who appreciates expressing their style, this shirt is a fantastic gift for birthdays, holidays, or celebration events. Celebrate your faith or passion with this eye-catching piece, perfect for a range of occasions.Product features- Without side seams for a clean look and less waste.- Highly elastic ribbed collar that retains its shape.- Shoulder tape to stabilize the garment and prevent stretching.- Made from 100% ring-spun cotton for a lightweight feel.- Ethically sourced and certified for safety and quality.Care instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
-  Updated: 2025-11-06T20:07:06Z
+  Updated: 2025-11-08T02:39:05Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -3281,7 +3081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christ-centered-gamer-t-shirt-god-mode-activated-unisex-tee-for-faith-based-gamers-s-purple-440.webp?v=1762458596
     Price: $18.38 USD
 - [Prayer Connection Tee, Spiritual Apparel, Unisex T-Shirt, Faith-Based Clothing, Inspirational Gift, Everyday Wear](https://faithbloom.co/products/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear): In a world dependent on Wi-Fi, this tee celebrates the one connection that never drops: "PRAYER: The Original Wireless Connection." This clever design features the word "PRAYER:" above a luminous graphic where a modern Wi-Fi symbol is cradled by celestial light and gentle wings, encapsulating the idea of an eternal, limitless spiritual broadband. Below, the iconic phrase "The Original Wireless Connection" ties it all together. I XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 10.80 11.20 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 t's a witty and profound way to express your faith, perfect for those who appreciate a smart blend of technology and timeless truth. Introducing the ultimate Unisex Jersey Short Sleeve Tee, designed for comfort and style. This tee features a classic crew neckline and a lightweight fabric, making it perfect for layering or wearing on its own. Its vibrant print and message make it a great conversation starter, adding a touch of inspiration to your wardrobe. Ideal for casual outings, gatherings, or just lounging at home, it's the perfect gift for those who appreciate a meaningful statement in their fashion. Celebrate occasions like birthdays, holidays, or any special event with a gift that resonates with spirituality and connection. Whether you’re at a family BBQ, a picnic with friends, or enjoying a quiet moment at home, this tee is a cozy addition to your everyday life.Product features- Made with 100% Airlume combed and ring-spun cotton for a lightweight feel.- Structured side seams for durability and shape retention.- Ribbed knit collar that retains its shape for long-lasting wear.- Vibrant, high-quality printing techniques ensure bold graphics.- Tear-away label minimizes skin irritations for comfort.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-11-06T19:19:16Z
+  Updated: 2025-11-07T13:44:50Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -3486,281 +3286,181 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/prayer-connection-tee-spiritual-apparel-unisex-t-shirt-faith-based-clothing-inspirational-gift-everyday-wear-solid-black-blend-xs-139.webp?v=1762455610
     Price: $18.50 USD
-- [Unisex Performance Long Sleeve Shirt - Verified by God Theme, Fitness Apparel, Spiritual Gift, Activewear, Motivational Wear](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): Step out in confidence and comfort with the "Verified by God" long sleeve tee, a stylish declaration of your unshakeable spiritual status. This shirt features a striking minimalist design, showcasing the text "Verified by God" alongside a unique emblem blending a crisp blue checkmark with the revered form of a rosary. The long sleeves offer cozy warmth and a versatile fit, making it ideal for year-round wear – from crisp mornings of reflection to casual evenings out. It's a powerful reminder that true validation comes from above, a timeless truth wrapped in contemporary, comfortable style. XS S M L XL 2XL Width, in 18.50 20.00 21.50 23.00 24.50 26.00 Length, in 25.30 26.30 27.30 28.30 29.30 29.80 Sleeve Length, in 33.00 33.50 34.50 35.50 36.50 37.50 This unisex performance long sleeve shirt is designed for those who value both style and functionality. With a fun and eye-catching print, it adds a playful twist to your athletic wardrobe. The lightweight fabric allows for breathability during workouts, making it perfect for outdoor activities. Enjoy your sun-filled adventures without worry, as this shirt provides UPF 30+ sun protection. Ideal for fitness enthusiasts, this shirt also makes a thoughtful gift for friends or family who love to stay active. Whether you're hitting the gym, going for a run, or enjoying a day at the beach, this shirt will keep you feeling comfortable and looking great. Perfect for occasions such as birthdays, holidays, or just a casual day out.Product features- 100% durable polyester that retains its shape and dries quickly.- Special Direct-to-Film printing for vibrant designs.- Provides UPF 30+ sun protection for outdoor activities.- Moisture-wicking fabric keeps you cool during workouts.- Lightweight at only 3.5 oz/yd², with an athletic fit.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
-  Updated: 2025-07-29T23:39:26Z
+- [Eternal Security Long Sleeve Shirt](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear): This Shirt features a modern and symbolic design inspired by Ephesians 1:13, celebrating the eternal security believers have through the Holy Spirit. It serves as a serene reminder of God's unchanging guarantee, perfect for those who cherish the doctrine of eternal security and the assurance of salvation. The clean, monochromatic silver aesthetic makes it versatile and easy to wear every day, giving off a calming and reassuring vibe. Ideal for believers seeking a subtle yet powerful declaration of faith.Product features- 100% Polyester fabric for durability- UPF 30+ sun protection- Moisture-wicking material to keep you cool- Athletic fit for comfort- Modern and symbolic design inspired by Ephesians 1:13Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
+  Updated: 2025-11-07T13:24:48Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
   - [Black / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688835663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $27.17 USD
   - [Sport Dark Navy / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688901199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $27.17 USD
   - [Sport Graphite / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688933967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
+    Price: $27.17 USD
+  - [Sport Red / XS](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179567183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
     Price: $27.17 USD
   - [Black / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410688999503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $27.17 USD
   - [Sport Dark Navy / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689065039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $27.17 USD
   - [Sport Graphite / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689097807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
+    Price: $27.17 USD
+  - [Sport Red / S](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179599951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
     Price: $27.17 USD
   - [Black / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689163343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $27.17 USD
   - [Sport Dark Navy / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689228879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $27.17 USD
   - [Sport Graphite / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689261647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
+    Price: $27.17 USD
+  - [Sport Red / M](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179632719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
     Price: $27.17 USD
   - [Black / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689327183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $27.17 USD
   - [Sport Dark Navy / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689392719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $27.17 USD
   - [Sport Graphite / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689425487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
+    Price: $27.17 USD
+  - [Sport Red / L](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179665487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
     Price: $27.17 USD
   - [Black / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689491023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $27.17 USD
   - [Sport Dark Navy / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689556559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $27.17 USD
   - [Sport Graphite / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689589327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
+    Price: $27.17 USD
+  - [Sport Red / XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179698255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
     Price: $27.17 USD
   - [Black / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689654863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-black-xs-358.webp?v=1753832331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-black-xs-153.webp?v=1762475717
     Price: $30.10 USD
   - [Sport Dark Navy / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689720399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-dark-navy-xs-210.webp?v=1753832327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-dark-navy-xs-465.webp?v=1762475713
     Price: $30.10 USD
   - [Sport Graphite / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43410689753167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear-sport-graphite-xs-248.webp?v=1753832334
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-graphite-xs-862.webp?v=1762475721
     Price: $30.10 USD
-- [404 System Update Complete Unisex Deluxe T-Shirt, Retro Cyberpunk Tee, Tech Enthusiast Gift, Casual Streetwear, Summer Fashion](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion): Experience true spiritual freedom with our "404 Sin Not Found" t-shirt. This unique design features a striking neon confessional booth, boldly displaying a "404 Sin Not Found" message. The subtext "System update complete. Guilt deleted." offers a powerful, modern take on redemption. It's a statement piece that's both stylish and spiritually significant, perfect for those who understand that some errors are truly blessings in disguise. XS S M L XL 2XL 3XL 4XL Width, in 16.00 18.00 20.00 21.97 24.00 25.98 28.00 30.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 32.99 34.00 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Introducing the perfect blend of comfort and style with this unisex deluxe t-shirt. Made from premium 100% combed and ringspun cotton, it offers a soft touch that feels great against the skin. The modern design, featuring a striking digital art print, infuses a cool, tech-inspired vibe into your wardrobe. This t-shirt is ideal for casual outings, parties, or simply lounging at home. It’s perfect for tech enthusiasts, gamers, or anyone who loves a unique aesthetic. Additionally, it makes a thoughtful gift for birthdays, holidays, or as a special treat for yourself. Lightweight and breathable, this t-shirt can seamlessly transition through the seasons, keeping you comfortable all year round.Product features- 100% combed and ringspun cotton for softness and durability- Side seams for better garment shape retention- Double needle hems for enhanced seam strength- Shoulder tape for added stability and comfort- Light, breathable fabric for everyday wearCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-07-29T23:40:38Z
+  - [Sport Red / 2XL](https://faithbloom.co/products/unisex-performance-long-sleeve-shirt-verified-by-god-theme-fitness-apparel-spiritual-gift-activewear-motivational-wear?variant=43783179731023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/eternal-security-long-sleeve-shirt-sport-red-xs-271.webp?v=1762475726
+    Price: $30.10 USD
+- [Confession Booth Deluxe T-shirt - The 404 Gateway to Redemption Design](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion): Confession Booth Outline design on a soft and smooth T-shirt. The neon-like lines and bold text create a unique and eye-catching look. Perfect for those who appreciate quirky and artistic designs. Ideal for those looking to make a statement or stand out during holidays like Halloween or themed parties.Product features- Made from 100% combed and ringspun cotton for strong and smooth fabric- With side seams for structural support and shape retention- Double needle sleeve and bottom hems for durability- Shoulder tape for stability and prevention of stretching- Light fabric with a regular fit and tear away labelCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+  Updated: 2025-11-08T08:00:11Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
-  - [Army Green / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616272463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
-    Price: $24.08 USD
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
   - [Black / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410720456783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $24.08 USD
   - [Navy / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410720555087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $24.08 USD
   - [White / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616305231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
-    Price: $24.08 USD
-  - [Burgundy / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410720686159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $24.08 USD
-  - [Lilac / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616337999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $24.08 USD
-  - [Pale Pink / XS](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616370767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $24.08 USD
-  - [Army Green / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616403535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-white-xs-184.webp?v=1762546519
     Price: $24.08 USD
   - [Black / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410720751695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $24.08 USD
   - [Navy / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410720849999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
-    Price: $24.08 USD
-  - [White / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616436303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
-    Price: $24.08 USD
-  - [Lilac / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616469071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $24.08 USD
-  - [Pale Pink / S](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616501839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $24.08 USD
-  - [Army Green / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616534607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $24.08 USD
   - [Black / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721013839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $24.08 USD
   - [Navy / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721112143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
-    Price: $24.08 USD
-  - [White / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616567375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
-    Price: $24.08 USD
-  - [Burgundy / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721243215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $24.08 USD
-  - [Lilac / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616600143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $24.08 USD
-  - [Pale Pink / M](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616632911)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $24.08 USD
-  - [Army Green / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616665679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $24.08 USD
   - [Black / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721308751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $24.08 USD
   - [Navy / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721407055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
-    Price: $24.08 USD
-  - [White / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616698447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
-    Price: $24.08 USD
-  - [Burgundy / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721538127)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $24.08 USD
-  - [Lilac / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616731215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $24.08 USD
-  - [Pale Pink / L](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616763983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $24.08 USD
-  - [Army Green / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616796751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $24.08 USD
   - [Black / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721603663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $24.08 USD
   - [Navy / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721701967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $24.08 USD
   - [White / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616829519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-white-xs-184.webp?v=1762546519
     Price: $24.08 USD
-  - [Burgundy / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721833039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $24.08 USD
-  - [Lilac / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616862287)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $24.08 USD
-  - [Pale Pink / XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616895055)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $24.08 USD
-  - [Army Green / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616927823)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-army-green-xs-137.webp?v=1753832379
-    Price: $26.70 USD
   - [Black / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721898575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
-    Price: $26.70 USD
-  - [Navy / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410721996879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $26.70 USD
   - [White / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616960591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-white-xs-184.webp?v=1762546519
     Price: $26.70 USD
-  - [Burgundy / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410722127951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $26.70 USD
-  - [Lilac / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435616993359)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $26.70 USD
-  - [Pale Pink / 2XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435617026127)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
-    Price: $26.70 USD
-  - [Black / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410722193487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
-    Price: $29.30 USD
   - [Navy / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410722291791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-navy-xs-632.webp?v=1753832363
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-navy-xs-483.webp?v=1762546515
     Price: $29.30 USD
   - [White / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435617058895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-white-xs-788.webp?v=1753832371
-    Price: $29.30 USD
-  - [Burgundy / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410722422863)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-burgundy-xs-482.webp?v=1753832367
-    Price: $29.30 USD
-  - [Lilac / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435617091663)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-lilac-xs-242.webp?v=1753832383
-    Price: $29.30 USD
-  - [Pale Pink / 3XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43435617124431)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-pale-pink-xs-439.webp?v=1753832375
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-white-xs-184.webp?v=1762546519
     Price: $29.30 USD
   - [Black / 4XL](https://faithbloom.co/products/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion?variant=43410722488399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/404-system-update-complete-unisex-deluxe-t-shirt-retro-cyberpunk-tee-tech-enthusiast-gift-casual-streetwear-summer-fashion-black-xs-683.webp?v=1753832359
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/confession-booth-deluxe-t-shirt-the-404-gateway-to-redemption-design-black-xs-895.webp?v=1762546510
     Price: $31.90 USD
 - [More Holy Spirit T-Shirt, Funny Christian Tee, Anti-Drama Shirt, Faith-Based Fashion, Religious Gift, Casual Wear](https://faithbloom.co/products/more-holy-spirit-t-shirt-funny-christian-tee-anti-drama-shirt-faith-based-fashion-religious-gift-casual-wear): Embrace your spirituality with this vibrant Champion T-Shirt, perfect for those seeking to spread a positive message. The playful design featuring doves and a humorous phrase promotes light-heartedness while reminding us of the importance of peace over drama. Ideal for adults who appreciate a blend of comfort and style, this shirt effortlessly fits into casual outings, church gatherings, or community events. It's a wonderful gift for friends and family during holidays, birthdays, or any moment when celebrating life's meaningful connections.Product features- 100% cotton for solid colors, ensuring comfort and breathability.- Twill tape stabilization around neck and shoulders to maintain shape.- Seamless design reduces fabric waste while enhancing durability.- Double-stitched seams for long-lasting wear.- Classic fit with a tag-free neck label for added comfort.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-11-06T14:13:09Z
@@ -5554,211 +5254,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/soft-heart-solid-rock-unisex-t-shirt-faith-based-tee-christian-apparel-inspirational-gift-short-sleeve-usa-made-fashion-black-blend-xs-449.webp?v=1762387767
     Price: $31.67 USD
-- [Heavenly Origin Unisex Tee | Spiritual Comfort Shirt, Casual Outfit, Gift for Believers, Everyday Wear, Inspirational Apparel](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): Celebrate your eternal destination with our "Welcome Home" tee. This design features angels arriving at heavenly gates, carrying spiritual luggage, beneath a comforting "WELCOME HOME" banner. It's a beautiful reminder of our "HEAVENLY ORIGIN" and true identity, echoing Philippians 3:20: "Our citizenship is in heaven." Wear your faith and the hope of your heavenly home. XS S M L XL 2XL 3XL 4XL 5XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 10.80 11.20 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Introducing a stylish and versatile Unisex Jersey Short Sleeve Tee that brings a sense of ease and comfort to your wardrobe. Perfect for casual outings or relaxed days at home, this tee is crafted from 100% Airlume combed and ring-spun cotton, ensuring a lightweight and breathable feel. It features a classic crew neckline and a retail fit, making it suitable for both casual and semi-formal occasions. This tee will effortlessly fit into your life, whether you’re lounging with friends or celebrating special moments such as birthdays, holidays, or even casual get-togethers. Ideal for adults who appreciate quality and style, this tee is a thoughtful gift for those who enjoy unique, stylish apparel. Celebrate life’s moments in comfort and style with this essential wardrobe piece!Product features- Durable side seams for enhanced shape retention and structural support.- Elastic ribbed knit collar that maintains its shape over time.- Shoulder tape for added stability and stretch prevention.- Advanced printing techniques ensure vibrant colors and crisp designs.- Made with soft, 100% Airlume combed and ring-spun cotton for comfort and breathability.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-07-30T00:01:42Z
+- [Christian Tee](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel): An uplifting and confident declaration of faith, this T-Shirt features a design with iconic symbols of the Christian faith, including a luminous golden gate, a crown of victory, and white doves representing the Holy Spirit. Perfect for anyone seeking a reminder of their Heavenly citizenship and eternal home.Product features- With side seams for structural support- Ribbed knit collar with seam for shape retention- Shoulder tape for stability- Sleeve and neck label printing techniques for detailed designs- Made with 100% Airlume combed and ring-spun cotton for breathabilityCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
+  Updated: 2025-11-08T14:40:02Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-sage-xs-t-439.webp?v=1753833649
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-sage-xs-t-shirt-317.webp?v=1762537881
   - [Asphalt / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411186909263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-asphalt-xs-t-783.webp?v=1753833676
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-asphalt-xs-t-shirt-969.webp?v=1762537894
     Price: $18.50 USD
   - [Black / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411186942031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-black-xs-t-748.webp?v=1753833671
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-xs-t-shirt-723.webp?v=1762537890
     Price: $18.50 USD
-  - [Burnt Orange / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743217231)
+  - [Evergreen / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651014223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-burnt-orange-xs-t-365.webp?v=1753833685
-    Price: $18.50 USD
-  - [Heather Green / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743249999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-green-xs-t-387.webp?v=1753833688
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-evergreen-xs-t-shirt-597.webp?v=1762537934
     Price: $18.50 USD
   - [Heather True Royal / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743282767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-true-royal-xs-t-813.webp?v=1753833692
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-true-royal-xs-t-shirt-590.webp?v=1762537904
     Price: $18.50 USD
-  - [Maroon / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743315535)
+  - [Kelly / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651046991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-maroon-xs-t-753.webp?v=1753833696
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-kelly-xs-t-shirt-595.webp?v=1762537930
     Price: $18.50 USD
-  - [Pebble Brown / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187040335)
+  - [Solid Black Blend / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651079759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-pebble-brown-xs-t-370.webp?v=1753833662
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-solid-black-blend-xs-t-shirt-272.webp?v=1762537912
     Price: $18.50 USD
-  - [Solid White Blend / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187073103)
+  - [Vintage Black / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651112527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-solid-white-blend-xs-t-308.webp?v=1753833653
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-vintage-black-xs-t-shirt-659.webp?v=1762537921
     Price: $18.50 USD
-  - [White / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187105871)
+  - [Black Heather / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651145295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-white-xs-t-219.webp?v=1753833658
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-heather-xs-t-shirt-709.webp?v=1762537917
     Price: $18.50 USD
   - [Rust / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187138639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-rust-xs-t-608.webp?v=1753833667
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-rust-xs-t-shirt-190.webp?v=1762537885
     Price: $18.50 USD
   - [Heather Maroon / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187171407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-maroon-xs-t-386.webp?v=1753833680
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-maroon-xs-t-shirt-141.webp?v=1762537899
+    Price: $18.50 USD
+  - [Heather Grass Green / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651178063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-grass-green-xs-t-shirt-974.webp?v=1762537926
     Price: $18.50 USD
   - [Oxblood Black / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743348303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-oxblood-black-xs-t-796.webp?v=1753833700
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-oxblood-black-xs-t-shirt-635.webp?v=1762537908
     Price: $18.50 USD
   - [Sage / XS](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187269711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-sage-xs-t-439.webp?v=1753833649
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-sage-xs-t-shirt-317.webp?v=1762537881
     Price: $18.50 USD
   - [Asphalt / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187335247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-asphalt-xs-t-783.webp?v=1753833676
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-asphalt-xs-t-shirt-969.webp?v=1762537894
     Price: $18.50 USD
   - [Black / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187368015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-black-xs-t-748.webp?v=1753833671
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-xs-t-shirt-723.webp?v=1762537890
     Price: $18.50 USD
-  - [Burnt Orange / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743381071)
+  - [Evergreen / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651210831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-burnt-orange-xs-t-365.webp?v=1753833685
-    Price: $18.50 USD
-  - [Heather Green / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743413839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-green-xs-t-387.webp?v=1753833688
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-evergreen-xs-t-shirt-597.webp?v=1762537934
     Price: $18.50 USD
   - [Heather True Royal / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743446607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-true-royal-xs-t-813.webp?v=1753833692
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-true-royal-xs-t-shirt-590.webp?v=1762537904
     Price: $18.50 USD
-  - [Maroon / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743479375)
+  - [Kelly / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651243599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-maroon-xs-t-753.webp?v=1753833696
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-kelly-xs-t-shirt-595.webp?v=1762537930
     Price: $18.50 USD
-  - [Pebble Brown / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187466319)
+  - [Vintage Black / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651276367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-pebble-brown-xs-t-370.webp?v=1753833662
-    Price: $18.50 USD
-  - [Solid White Blend / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187499087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-solid-white-blend-xs-t-308.webp?v=1753833653
-    Price: $18.50 USD
-  - [White / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187531855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-white-xs-t-219.webp?v=1753833658
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-vintage-black-xs-t-shirt-659.webp?v=1762537921
     Price: $18.50 USD
   - [Rust / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187564623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-rust-xs-t-608.webp?v=1753833667
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-rust-xs-t-shirt-190.webp?v=1762537885
+    Price: $18.50 USD
+  - [Black Heather / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651309135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-heather-xs-t-shirt-709.webp?v=1762537917
     Price: $18.50 USD
   - [Heather Maroon / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187597391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-maroon-xs-t-386.webp?v=1753833680
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-maroon-xs-t-shirt-141.webp?v=1762537899
+    Price: $18.50 USD
+  - [Heather Grass Green / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651341903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-grass-green-xs-t-shirt-974.webp?v=1762537926
     Price: $18.50 USD
   - [Oxblood Black / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743512143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-oxblood-black-xs-t-796.webp?v=1753833700
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-oxblood-black-xs-t-shirt-635.webp?v=1762537908
     Price: $18.50 USD
   - [Sage / S](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187695695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-sage-xs-t-439.webp?v=1753833649
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-sage-xs-t-shirt-317.webp?v=1762537881
     Price: $18.50 USD
   - [Asphalt / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187761231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-asphalt-xs-t-783.webp?v=1753833676
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-asphalt-xs-t-shirt-969.webp?v=1762537894
     Price: $18.50 USD
   - [Black / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187793999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-black-xs-t-748.webp?v=1753833671
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-xs-t-shirt-723.webp?v=1762537890
     Price: $18.50 USD
-  - [Burnt Orange / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743544911)
+  - [Evergreen / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651374671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-burnt-orange-xs-t-365.webp?v=1753833685
-    Price: $18.50 USD
-  - [Heather Green / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743577679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-green-xs-t-387.webp?v=1753833688
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-evergreen-xs-t-shirt-597.webp?v=1762537934
     Price: $18.50 USD
   - [Heather True Royal / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743610447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-true-royal-xs-t-813.webp?v=1753833692
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-true-royal-xs-t-shirt-590.webp?v=1762537904
     Price: $18.50 USD
-  - [Maroon / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743643215)
+  - [Kelly / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651407439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-maroon-xs-t-753.webp?v=1753833696
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-kelly-xs-t-shirt-595.webp?v=1762537930
     Price: $18.50 USD
-  - [Pebble Brown / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187892303)
+  - [Vintage Black / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651440207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-pebble-brown-xs-t-370.webp?v=1753833662
-    Price: $18.50 USD
-  - [Solid White Blend / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187925071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-solid-white-blend-xs-t-308.webp?v=1753833653
-    Price: $18.50 USD
-  - [White / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187957839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-white-xs-t-219.webp?v=1753833658
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-vintage-black-xs-t-shirt-659.webp?v=1762537921
     Price: $18.50 USD
   - [Rust / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411187990607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-rust-xs-t-608.webp?v=1753833667
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-rust-xs-t-shirt-190.webp?v=1762537885
+    Price: $18.50 USD
+  - [Black Heather / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651472975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-heather-xs-t-shirt-709.webp?v=1762537917
     Price: $18.50 USD
   - [Heather Maroon / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188023375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-maroon-xs-t-386.webp?v=1753833680
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-maroon-xs-t-shirt-141.webp?v=1762537899
+    Price: $18.50 USD
+  - [Heather Grass Green / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651505743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-grass-green-xs-t-shirt-974.webp?v=1762537926
     Price: $18.50 USD
   - [Oxblood Black / M](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743675983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-oxblood-black-xs-t-796.webp?v=1753833700
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-oxblood-black-xs-t-shirt-635.webp?v=1762537908
     Price: $18.50 USD
   - [Asphalt / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188154447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-asphalt-xs-t-783.webp?v=1753833676
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-asphalt-xs-t-shirt-969.webp?v=1762537894
     Price: $18.50 USD
   - [Black / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188187215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-black-xs-t-748.webp?v=1753833671
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-xs-t-shirt-723.webp?v=1762537890
     Price: $18.50 USD
-  - [Burnt Orange / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743708751)
+  - [Evergreen / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651538511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-burnt-orange-xs-t-365.webp?v=1753833685
-    Price: $18.50 USD
-  - [Heather Green / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743741519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-green-xs-t-387.webp?v=1753833688
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-evergreen-xs-t-shirt-597.webp?v=1762537934
     Price: $18.50 USD
   - [Heather True Royal / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743774287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-true-royal-xs-t-813.webp?v=1753833692
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-true-royal-xs-t-shirt-590.webp?v=1762537904
     Price: $18.50 USD
-  - [Maroon / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743807055)
+  - [Kelly / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651571279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-maroon-xs-t-753.webp?v=1753833696
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-kelly-xs-t-shirt-595.webp?v=1762537930
     Price: $18.50 USD
-  - [Pebble Brown / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188285519)
+  - [Vintage Black / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651604047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-pebble-brown-xs-t-370.webp?v=1753833662
-    Price: $18.50 USD
-  - [Solid White Blend / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188318287)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-solid-white-blend-xs-t-308.webp?v=1753833653
-    Price: $18.50 USD
-  - [White / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188351055)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-white-xs-t-219.webp?v=1753833658
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-vintage-black-xs-t-shirt-659.webp?v=1762537921
     Price: $18.50 USD
   - [Rust / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188383823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-rust-xs-t-608.webp?v=1753833667
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-rust-xs-t-shirt-190.webp?v=1762537885
+    Price: $18.50 USD
+  - [Black Heather / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651636815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-heather-xs-t-shirt-709.webp?v=1762537917
     Price: $18.50 USD
   - [Heather Maroon / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188416591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-heather-maroon-xs-t-386.webp?v=1753833680
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-maroon-xs-t-shirt-141.webp?v=1762537899
+    Price: $18.50 USD
+  - [Heather Grass Green / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651669583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-heather-grass-green-xs-t-shirt-974.webp?v=1762537926
     Price: $18.50 USD
   - [Oxblood Black / L](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43428743839823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel-oxblood-black-xs-t-796.webp?v=1753833700
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-oxblood-black-xs-t-shirt-635.webp?v=1762537908
+    Price: $18.50 USD
+  - [Asphalt / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188547663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-asphalt-xs-t-shirt-969.webp?v=1762537894
+    Price: $18.50 USD
+  - [Black / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43411188580431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-black-xs-t-shirt-723.webp?v=1762537890
+    Price: $18.50 USD
+  - [Evergreen / XL](https://faithbloom.co/products/heavenly-origin-unisex-tee-spiritual-comfort-shirt-casual-outfit-gift-for-believers-everyday-wear-inspirational-apparel?variant=43784651702351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/christian-tee-evergreen-xs-t-shirt-597.webp?v=1762537934
     Price: $18.50 USD
 - [Jesus Loves My Giggles Toddler T-shirt, Cute Kids Tee, Baby Shower Gift, Faith-Based Toddler Apparel, Religious Baby Clothes](https://faithbloom.co/products/jesus-loves-my-giggles-toddler-t-shirt-cute-kids-tee-baby-shower-gift-faith-based-toddler-apparel-religious-baby-clothes): "Let the giggles rain down! This adorable 'Jesus Loves My Giggles' T-shirt is perfect for your little ray of sunshine. Made from soft, comfy fabric, it features a happy cloud showering down cute little hearts, reminding them that Jesus loves every joyful sound they make. Ideal for playtime, snuggles, and sharing big smiles!" 2T 3T 4T 5T 6T Length, in 15.00 16.00 17.00 18.00 19.00 Width, in 11.00 12.00 13.00 14.00 15.00 This adorable toddler t-shirt combines comfort and style, perfect for little ones to express their joy. Featuring a cheerful cloud design with the phrase "Jesus Loves My Giggles," this soft and light fabric shirt promotes a positive and uplifting vibe. It's an ideal choice for everyday wear, family gatherings, and church events, making it a wonderful addition to a child's wardrobe. Fashionable yet casual, this t-shirt offers a sense of fun and faith suitable for any playful spirit. Perfect for gifting on birthdays, holidays, or special occasions, it caters to parents looking for something meaningful for their little ones.Product features- 100% preshrunk ringspun cotton for solid colors, with blends for heather shades- Structured shape with side seams for a perfect fit- Taped shoulder and neck seams for added durability- Double needle stitching for long-lasting wear- Lightweight and comfortable at 4.5 oz fabric weightCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
   Updated: 2025-07-30T00:02:32Z
@@ -6120,18 +5820,22 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-featuring-cute-castle-design-built-on-the-rock-matthew-7-24-kids-gift-birthday-faith-based-apparel-summer-light-pink-2t-clothes-111.webp?v=1753833829
     Price: $19.92 USD
 - [Toddler Prayer Superpower T-Shirt | Kids Spiritual Gift, Faith Shirt, Cute Toddler Apparel, Birthday Gift, Encouraging Outfit](https://faithbloom.co/products/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-shirt-cute-toddler-apparel-birthday-gift-encouraging-outfit): Empower your little hero with our 'Prayer Is My Superpower' T-shirt, part of our Little Blooms - Tiny Feet, Heaven-Bound collection. This vibrant design features a playful superhero radiating strength through prayer, surrounded by bright, eye-catching 'neon' graphics. It's a fantastic way to teach children that prayer is their direct connection to divine power, giving them strength and courage. Made from soft, comfortable fabric, it's perfect for their daily adventures and spiritual growth. 2T 3T 4T 5T 6T Length, in 15.00 16.00 17.00 18.00 19.00 Width, in 11.00 12.00 13.00 14.00 15.00 Introducing our delightful Toddler T-shirt, designed to unleash the superpowers of your little ones! This charming shirt features a fun and vibrant graphic that celebrates the power of prayer, perfect for instilling positivity and joy in every child. Made from soft, lightweight fabric, it ensures comfort all day long, making it an ideal choice for playdates, family gatherings, or even quiet time at home. This T-shirt is perfect for parents wanting to inspire their kids, especially during celebrations like Easter or for any spiritual occasion. Whether for casual days, school events, or holiday festivities, this shirt brings a cheerful vibe that resonates with both children and parents alike!Product features- Made from solid colors in 100% preshrunk ringspun cotton for comfort.- Side seams offer structure, ensuring a great fit.- Taped shoulder and neck seams prevent stretching, maintaining shape.- Durably constructed with double needle sleeve and bottom hems.- Lightweight fabric (4.5 oz/yd²) for a comfortable everyday wear.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2025-07-30T00:05:40Z
+  Updated: 2025-11-12T10:18:04Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-graphite-heather-5t-clothes-402.webp?v=1753833879
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-clothes-596.webp?v=1762889597
+  - [Heather Royal / 2T](https://faithbloom.co/products/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-shirt-cute-toddler-apparel-birthday-gift-encouraging-outfit?variant=43792694706255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-heather-royal-2t-clothes-926.webp?v=1762889613
+    Price: $12.87 USD
   - [Heather Royal / 4T](https://faithbloom.co/products/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-shirt-cute-toddler-apparel-birthday-gift-encouraging-outfit?variant=43411229638735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-heather-royal-4t-clothes-817.webp?v=1753833890
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-heather-royal-2t-clothes-926.webp?v=1762889613
     Price: $12.87 USD
   - [Graphite Heather / 5T](https://faithbloom.co/products/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-shirt-cute-toddler-apparel-birthday-gift-encouraging-outfit?variant=43411229671503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-graphite-heather-5t-clothes-402.webp?v=1753833879
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-prayer-superpower-t-shirt-kids-spiritual-gift-faith-cute-apparel-birthday-encouraging-outfit-graphite-heather-5t-clothes-873.webp?v=1762889601
     Price: $12.87 USD
 - [Toddler's Kindness Tee, Cute Kids Shirt, Fun Cartoon Shirt, Toddler Gift, Playful Parenting Apparel](https://faithbloom.co/products/toddlers-kindness-tee-cute-kids-shirt-fun-cartoon-shirt-toddler-gift-playful-parenting-apparel): Spread the sweetness! Our 'Kindness Is My Jam' tee is super fun, with a happy toast and jam jar showing off the 'Fruit of the Spirit.' It's a yummy way to remind everyone that being kind is the best! Introducing our delightful Toddler Tee, a charming addition to your little one's wardrobe! Designed for comfort and style, this tee brings a whimsical vibe to any casual outfit, perfect for playdates or family outings. The cheerful graphics evoke joy, making it an ideal choice for celebrating birthdays, playdates, or simply adding a splash of fun to everyday activities. It's a great gift for parents wanting to dress their kids in fashion-forward yet playful attire. The toddler tee fits seamlessly into an active lifestyle while keeping your child cozy and looking cute!Product features- Side seams for better shape retention and support- Ribbed knit collar for elasticity and durability- Shoulder tape for stabilized seams- 100% cotton for solid colors and soft feel- Classic fit that runs true to sizeCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
   Updated: 2025-07-30T00:07:16Z
@@ -6575,747 +6279,745 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/joyful-toddler-long-sleeve-tee-perfect-for-playdates-birthdays-family-gatherings-joy-is-contagious-happy-kids-shirt-cute-2t-white-clothes-745.webp?v=1753834136
     Price: $28.02 USD
-- [Toddler T-Shirt - Created for Good Things, Inspirational Gift, Kids' Christian Apparel, Bible Verse Tee, Ephesians 2:10](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10): You're made for awesome stuff! Our 'Created For Good Things' tee shows a cool toolbox full of creative tools and a Holy Bible, reminding you that God made you special for great things, just like Ephesians 2:10 says. Get ready to build, create, and do good! 2T 3T 4T 5T 6T Width, in 11.00 12.00 13.00 14.00 15.00 Length, in 15.00 16.00 17.00 18.00 19.00 Sleeve length from center back, in 9.00 10.00 11.00 11.50 12.50 Introduce your little one to the joys of creativity and positive affirmations with this charming toddler t-shirt. Made from 100% cotton, this soft and breathable tee is perfect for everyday adventures. Its classic fit and flexibly ribbed collar ensure comfort, while the playful design—featuring the uplifting message 'Created for Good Things'—instills a sense of purpose in young hearts. Ideal for everyday wear, this t-shirt is a wonderful choice for birthdays, family gatherings, or church events. It’s designed for toddlers and preschoolers who are ready to express themselves in style. Celebrate their budding creativity and faith on special occasions or simply on casual days with this delightful shirt!Product features- 100% cotton fiber composition (with some colors containing polyester)- Twill tape in the neck and shoulder area for added durability- Side seams for structural support and shape retention- Comfortable ribbed collar that maintains its fit- Medium fabric weight, perfect for all-day wearCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2025-07-30T00:11:02Z
+- [Toddler T-shirt God's Project Construction Theme Navy Blue Yellow White](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10): This playful construction-themed Toddler T-shirt design affirms a child's unique identity and ongoing growth in faith. With a modern vintage look and positive message, this tee is perfect for young believers. Ideal for holidays, Sunday school, and everyday wear.Product features- 100% cotton composition for comfort- Twill tape neck and shoulder seams for stability- Side seams for added support and shape retention- Ribbed collar for a well-fitted tee- Classic fit for easy wearCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
+  Updated: 2025-11-11T10:39:00Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
   - [Light Blue / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172210255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-light-blue-2t-clothes-133.webp?v=1753834232
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
     Price: $19.92 USD
   - [Navy / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172243023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-navy-2t-clothes-495.webp?v=1753834236
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-168.webp?v=1762815210
     Price: $19.92 USD
   - [Red / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172275791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-red-2t-clothes-223.webp?v=1753834240
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-red-2t-kids-clothes-127.webp?v=1762815214
     Price: $19.92 USD
   - [Royal / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172308559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-royal-2t-kids-clothes-286.webp?v=1762815197
     Price: $19.92 USD
   - [White / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172341327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-white-2t-clothes-493.webp?v=1753834228
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-779.webp?v=1762815206
     Price: $19.92 USD
   - [Sport Grey / 2T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172374095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-sport-grey-2t-clothes-922.webp?v=1753834224
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-sport-grey-2t-kids-clothes-543.webp?v=1762815202
     Price: $19.92 USD
   - [Light Blue / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172406863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-light-blue-2t-clothes-133.webp?v=1753834232
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
     Price: $19.92 USD
   - [Navy / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172439631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-navy-2t-clothes-495.webp?v=1753834236
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-168.webp?v=1762815210
     Price: $19.92 USD
   - [Red / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172472399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-red-2t-clothes-223.webp?v=1753834240
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-red-2t-kids-clothes-127.webp?v=1762815214
     Price: $19.92 USD
   - [Royal / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172505167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-royal-2t-kids-clothes-286.webp?v=1762815197
     Price: $19.92 USD
   - [White / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172537935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-white-2t-clothes-493.webp?v=1753834228
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-779.webp?v=1762815206
     Price: $19.92 USD
   - [Sport Grey / 3T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172570703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-sport-grey-2t-clothes-922.webp?v=1753834224
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-sport-grey-2t-kids-clothes-543.webp?v=1762815202
     Price: $19.92 USD
   - [Light Blue / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172603471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-light-blue-2t-clothes-133.webp?v=1753834232
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
     Price: $19.92 USD
   - [Navy / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172636239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-navy-2t-clothes-495.webp?v=1753834236
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-168.webp?v=1762815210
     Price: $19.92 USD
   - [Red / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172669007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-red-2t-clothes-223.webp?v=1753834240
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-red-2t-kids-clothes-127.webp?v=1762815214
     Price: $19.92 USD
   - [Royal / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172701775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-royal-2t-kids-clothes-286.webp?v=1762815197
     Price: $19.92 USD
   - [White / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172734543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-white-2t-clothes-493.webp?v=1753834228
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-779.webp?v=1762815206
     Price: $19.92 USD
   - [Sport Grey / 4T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172767311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-sport-grey-2t-clothes-922.webp?v=1753834224
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-sport-grey-2t-kids-clothes-543.webp?v=1762815202
     Price: $19.92 USD
   - [Light Blue / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172800079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-light-blue-2t-clothes-133.webp?v=1753834232
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
     Price: $19.92 USD
   - [Navy / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172832847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-navy-2t-clothes-495.webp?v=1753834236
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-168.webp?v=1762815210
     Price: $19.92 USD
   - [Red / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172865615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-red-2t-clothes-223.webp?v=1753834240
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-red-2t-kids-clothes-127.webp?v=1762815214
     Price: $19.92 USD
   - [Royal / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172898383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-royal-2t-kids-clothes-286.webp?v=1762815197
     Price: $19.92 USD
   - [White / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172931151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-white-2t-clothes-493.webp?v=1753834228
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-779.webp?v=1762815206
     Price: $19.92 USD
   - [Sport Grey / 5T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172963919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-sport-grey-2t-clothes-922.webp?v=1753834224
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-sport-grey-2t-kids-clothes-543.webp?v=1762815202
     Price: $19.92 USD
   - [Light Blue / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412172996687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-light-blue-2t-clothes-133.webp?v=1753834232
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-light-2t-kids-clothes-742.webp?v=1762815192
     Price: $19.92 USD
   - [Navy / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412173029455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-navy-2t-clothes-495.webp?v=1753834236
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-168.webp?v=1762815210
     Price: $19.92 USD
   - [Red / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412173062223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-red-2t-clothes-223.webp?v=1753834240
-    Price: $19.92 USD
-  - [Royal / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412173094991)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-royal-2t-clothes-348.webp?v=1753834221
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-red-2t-kids-clothes-127.webp?v=1762815214
     Price: $19.92 USD
   - [White / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412173127759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-white-2t-clothes-493.webp?v=1753834228
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-2t-kids-clothes-779.webp?v=1762815206
     Price: $19.92 USD
   - [Sport Grey / 6T](https://faithbloom.co/products/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10?variant=43412173160527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-created-for-good-things-inspirational-gift-kids-christian-apparel-bible-verse-tee-ephesians-2-10-sport-grey-2t-clothes-922.webp?v=1753834224
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-t-shirt-gods-project-construction-theme-navy-blue-yellow-white-sport-grey-2t-kids-clothes-543.webp?v=1762815202
     Price: $19.92 USD
 - [Toddler Short Sleeve Tee - "Be Still, Little One" Psalm Design, Baby Gift, Nursery Decor, Faith-Based Apparel, Toddler Shirt, [...]](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt): Time to rest and listen! Our 'Be Still, Little One' tee has a sweet sleeping lamb under a starry sky, reminding you of Psalm 46:10. It's super soft and cozy for quiet times and sweet dreams! 2T 3T 4T 5T Width, in 12.00 13.00 14.00 15.00 Length, in 15.50 16.50 17.50 18.50 Introducing our charming Toddler Short Sleeve Tee, a delightful addition to your little one’s wardrobe! Soft and cozy, this tee features an adorable design that embodies tranquility and sweet dreams, perfect for naps or playtime. The lightweight fabric ensures all-day comfort, making it ideal for active toddlers. Parents will appreciate its easy-care nature, while little ones will love the smooth feel against their skin. This tee is not only perfect for daily wear but also makes a thoughtful gift for baby showers, birthday celebrations, or any occasion where love and warmth are celebrated. Its playful vibe and meaningful message resonate beautifully during holidays such as Christmas, family gatherings, or just cozy days at home. Suitable for both boys and girls, it’s a versatile piece that every parent will cherish!Product features- Constructed with side seams for enhanced shape and fit- Made from a soft blend, ensuring comfort for little ones- Lightweight fabric perfect for warm days and active play- Includes a tear-away label for added comfort- Available in various colors to suit any toddler's styleCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2025-07-30T00:13:07Z
+  Updated: 2025-11-12T08:01:08Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-999.webp?v=1753834265
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-428.webp?v=1762887084
   - [White / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182433871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-999.webp?v=1753834265
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-674.webp?v=1762887089
     Price: $16.67 USD
   - [Asphalt / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182466639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-688.webp?v=1753834309
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-877.webp?v=1762887128
     Price: $16.67 USD
   - [Athletic Heather / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182499407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-132.webp?v=1753834296
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-693.webp?v=1762887115
     Price: $16.67 USD
   - [Black / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182532175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-104.webp?v=1753834274
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-640.webp?v=1762887098
     Price: $16.67 USD
   - [Navy / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182564943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-574.webp?v=1753834313
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-332.webp?v=1762887132
     Price: $16.67 USD
   - [Pink / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182597711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-811.webp?v=1753834323
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-141.webp?v=1762887141
     Price: $16.67 USD
   - [Heather Columbia Blue / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182630479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-749.webp?v=1753834301
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-211.webp?v=1762887119
     Price: $16.67 USD
   - [Dark Heather Grey / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182663247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-845.webp?v=1753834317
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-628.webp?v=1762887137
     Price: $16.67 USD
   - [Heather Dust / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182696015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-561.webp?v=1753834283
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-428.webp?v=1762887084
     Price: $16.67 USD
   - [Heather Maroon / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182728783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-286.webp?v=1753834331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-900.webp?v=1762887149
     Price: $16.67 USD
   - [Heather Mauve / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182761551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-463.webp?v=1753834270
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-829.webp?v=1762887093
     Price: $16.67 USD
   - [Heather Red / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182794319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-213.webp?v=1753834327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-400.webp?v=1762887145
     Price: $16.67 USD
   - [Heather Stone / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182827087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-575.webp?v=1753834288
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-423.webp?v=1762887106
     Price: $16.67 USD
   - [Kelly / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182892623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-902.webp?v=1753834292
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-797.webp?v=1762887110
     Price: $16.67 USD
   - [Natural / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182925391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-367.webp?v=1753834279
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-194.webp?v=1762887102
     Price: $16.67 USD
   - [True Royal / 2T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412182958159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-669.webp?v=1753834305
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-424.webp?v=1762887124
     Price: $16.67 USD
   - [White / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183023695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-999.webp?v=1753834265
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-674.webp?v=1762887089
     Price: $16.67 USD
   - [Asphalt / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183056463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-688.webp?v=1753834309
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-877.webp?v=1762887128
     Price: $16.67 USD
   - [Athletic Heather / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183089231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-132.webp?v=1753834296
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-693.webp?v=1762887115
     Price: $16.67 USD
   - [Black / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183121999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-104.webp?v=1753834274
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-640.webp?v=1762887098
     Price: $16.67 USD
   - [Navy / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183154767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-574.webp?v=1753834313
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-332.webp?v=1762887132
     Price: $16.67 USD
   - [Pink / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183187535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-811.webp?v=1753834323
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-141.webp?v=1762887141
     Price: $16.67 USD
   - [Heather Columbia Blue / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183220303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-749.webp?v=1753834301
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-211.webp?v=1762887119
     Price: $16.67 USD
   - [Dark Heather Grey / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183253071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-845.webp?v=1753834317
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-628.webp?v=1762887137
     Price: $16.67 USD
   - [Heather Dust / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183285839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-561.webp?v=1753834283
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-428.webp?v=1762887084
     Price: $16.67 USD
   - [Heather Maroon / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183318607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-286.webp?v=1753834331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-900.webp?v=1762887149
     Price: $16.67 USD
   - [Heather Mauve / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183351375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-463.webp?v=1753834270
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-829.webp?v=1762887093
     Price: $16.67 USD
   - [Heather Red / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183384143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-213.webp?v=1753834327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-400.webp?v=1762887145
     Price: $16.67 USD
   - [Heather Stone / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183416911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-575.webp?v=1753834288
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-423.webp?v=1762887106
     Price: $16.67 USD
   - [Kelly / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183482447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-902.webp?v=1753834292
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-797.webp?v=1762887110
     Price: $16.67 USD
   - [Natural / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183515215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-367.webp?v=1753834279
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-194.webp?v=1762887102
     Price: $16.67 USD
   - [True Royal / 3T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183547983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-669.webp?v=1753834305
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-424.webp?v=1762887124
     Price: $16.67 USD
   - [White / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183613519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-999.webp?v=1753834265
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-674.webp?v=1762887089
     Price: $16.67 USD
   - [Asphalt / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183646287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-688.webp?v=1753834309
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-877.webp?v=1762887128
     Price: $16.67 USD
   - [Athletic Heather / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183679055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-132.webp?v=1753834296
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-athletic-heather-2t-kids-clothes-693.webp?v=1762887115
     Price: $16.67 USD
   - [Black / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183711823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-104.webp?v=1753834274
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-black-2t-kids-clothes-640.webp?v=1762887098
     Price: $16.67 USD
   - [Navy / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183744591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-574.webp?v=1753834313
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-navy-2t-kids-clothes-332.webp?v=1762887132
     Price: $16.67 USD
   - [Pink / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183777359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-811.webp?v=1753834323
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-pink-2t-kids-clothes-141.webp?v=1762887141
     Price: $16.67 USD
   - [Heather Columbia Blue / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183810127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-749.webp?v=1753834301
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-columbia-blue-2t-kids-clothes-211.webp?v=1762887119
     Price: $16.67 USD
   - [Dark Heather Grey / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183842895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-845.webp?v=1753834317
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-dark-heather-grey-2t-kids-clothes-628.webp?v=1762887137
     Price: $16.67 USD
   - [Heather Dust / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183875663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-561.webp?v=1753834283
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-dust-2t-kids-clothes-428.webp?v=1762887084
     Price: $16.67 USD
   - [Heather Maroon / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183908431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-286.webp?v=1753834331
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-maroon-2t-kids-clothes-900.webp?v=1762887149
     Price: $16.67 USD
   - [Heather Mauve / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183941199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-463.webp?v=1753834270
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-mauve-2t-kids-clothes-829.webp?v=1762887093
     Price: $16.67 USD
   - [Heather Red / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412183973967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-213.webp?v=1753834327
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-red-2t-kids-clothes-400.webp?v=1762887145
     Price: $16.67 USD
   - [Heather Stone / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184006735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-575.webp?v=1753834288
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-heather-stone-2t-kids-clothes-423.webp?v=1762887106
     Price: $16.67 USD
   - [Kelly / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184072271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-902.webp?v=1753834292
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-kelly-2t-kids-clothes-797.webp?v=1762887110
     Price: $16.67 USD
   - [Natural / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184105039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-367.webp?v=1753834279
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-natural-2t-kids-clothes-194.webp?v=1762887102
     Price: $16.67 USD
   - [True Royal / 4T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184137807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-669.webp?v=1753834305
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-true-royal-2t-kids-clothes-424.webp?v=1762887124
     Price: $16.67 USD
   - [White / 5T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184203343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-999.webp?v=1753834265
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-white-2t-kids-clothes-674.webp?v=1762887089
     Price: $16.67 USD
   - [Asphalt / 5T](https://faithbloom.co/products/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-toddler-shirt?variant=43412184236111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-688.webp?v=1753834309
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-short-sleeve-tee-be-still-little-one-psalm-design-baby-gift-nursery-decor-faith-based-apparel-shirt-asphalt-2t-kids-clothes-877.webp?v=1762887128
     Price: $16.67 USD
 - [Toddler's Tiny But Mighty Tee, Kids' Motivational T-Shirt, Playful Youth Shirt, Cute Toddler Apparel, Fun Kids Gift, Birthday Outfit](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit): Feel super strong, no matter how small! Our 'Tiny But Mighty' tee tells the amazing story of David and Goliath, showing that with God, even a little hero can do BIG things! Wear it and remember your mighty power! 2T 3T 4T 5-6T Width, in 12.00 13.00 14.00 15.00 Length, in 15.50 16.50 17.50 18.50 Sleeve length, in 4.75 5.00 5.25 5.50 Size tolerance, in 1.00 1.00 1.00 1.00 This adorable Toddler Fine Jersey Tee brings comfort and fun to your little one's wardrobe. With a cheerful "Tiny but Mighty" design, it radiates positivity while ensuring a soft, breathable fit. Perfect for everyday wear, this tee is ideal for playdates, birthday parties, or just lounging at home. It embodies a playful vibe that encourages confidence and creativity in toddlers. Designed for parents who appreciate quality and style, this tee is an excellent gift for baby showers, holidays, and special occasions like family gatherings or celebrations. Your child will not only look great but feel great in this charming t-shirt!Product features- With side seams for added shape and support- Elastic ribbed knit collar holds its shape- Shoulder tape stabilizes seams, preventing stretching- Made from premium cotton blends for softness- Lightweight fabric offers comfort in all activitiesCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
-  Updated: 2025-07-30T00:14:42Z
+  Updated: 2025-11-12T08:30:19Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-military-green-clothes-858.webp?v=1753834391
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-green-clothes-422.webp?v=1762884558
   - [2T / Apple](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210319439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-206.webp?v=1753834438
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-128.webp?v=1762884611
     Price: $21.03 USD
   - [2T / Black](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210352207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-867.webp?v=1753834465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-493.webp?v=1762884634
     Price: $21.03 USD
   - [2T / Garnet](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210384975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-826.webp?v=1753834480
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-507.webp?v=1762884649
     Price: $21.03 USD
   - [2T / Heather](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210417743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-heather-clothes-286.webp?v=1753834427
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-heather-clothes-276.webp?v=1762884596
     Price: $21.03 USD
   - [2T / Light Blue](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210450511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-light-blue-clothes-165.webp?v=1753834450
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-light-blue-clothes-461.webp?v=1762884618
     Price: $21.03 USD
   - [2T / Military Green](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210483279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-military-green-clothes-858.webp?v=1753834391
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-military-green-clothes-150.webp?v=1762884563
     Price: $21.03 USD
   - [2T / Navy](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210516047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-navy-clothes-506.webp?v=1753834469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-navy-clothes-239.webp?v=1762884638
     Price: $21.03 USD
   - [2T / Orange](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210548815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-orange-clothes-208.webp?v=1753834407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-orange-clothes-902.webp?v=1762884579
     Price: $21.03 USD
   - [2T / Purple](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210581583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-purple-clothes-552.webp?v=1753834473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-purple-clothes-162.webp?v=1762884642
     Price: $21.03 USD
   - [2T / Red](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210614351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-red-clothes-248.webp?v=1753834476
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-red-clothes-955.webp?v=1762884645
     Price: $21.03 USD
   - [2T / Royal](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210647119)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-royal-clothes-913.webp?v=1753834457
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-royal-clothes-940.webp?v=1762884626
     Price: $21.03 USD
   - [2T / White](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210679887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-white-clothes-359.webp?v=1753834403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-white-clothes-321.webp?v=1762884575
     Price: $21.03 USD
   - [2T / Yellow](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210712655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-yellow-clothes-685.webp?v=1753834434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-yellow-clothes-161.webp?v=1762884606
     Price: $21.03 USD
   - [2T / Butter](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210745423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-butter-clothes-485.webp?v=1753834395
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-butter-clothes-302.webp?v=1762884567
     Price: $21.03 USD
   - [2T / Ash](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210778191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-ash-clothes-570.webp?v=1753834419
-    Price: $21.03 USD
-  - [2T / Black Leopard](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210810959)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-leopard-clothes-596.webp?v=1753834411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-ash-clothes-230.webp?v=1762884587
     Price: $21.03 USD
   - [2T / Natural](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210843727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-clothes-734.webp?v=1753834431
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-clothes-615.webp?v=1762884600
     Price: $21.03 USD
   - [2T / Natural Heather](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210876495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-heather-clothes-987.webp?v=1753834423
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-heather-clothes-527.webp?v=1762884591
     Price: $21.03 USD
   - [2T / Peachy](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210909263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-peachy-clothes-958.webp?v=1753834415
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-peachy-clothes-901.webp?v=1762884583
     Price: $21.03 USD
   - [2T / Saltwater](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210942031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-saltwater-clothes-284.webp?v=1753834446
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-saltwater-clothes-481.webp?v=1762884614
     Price: $21.03 USD
   - [2T / Vintage Coyote Brown](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412210974799)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-coyote-brown-clothes-339.webp?v=1762884571
     Price: $21.03 USD
   - [2T / Vintage Green](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211007567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-green-clothes-794.webp?v=1753834442
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-green-clothes-422.webp?v=1762884558
+    Price: $21.03 USD
+  - [2T / Vintage Royal](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43792551542863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-royal-clothes-822.webp?v=1762884622
     Price: $21.03 USD
   - [2T / Vintage Smoke](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211040335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-smoke-clothes-954.webp?v=1753834462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-smoke-clothes-588.webp?v=1762884630
     Price: $21.03 USD
   - [3T / Apple](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211073103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-206.webp?v=1753834438
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-128.webp?v=1762884611
     Price: $21.03 USD
   - [3T / Black](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211105871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-867.webp?v=1753834465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-493.webp?v=1762884634
     Price: $21.03 USD
   - [3T / Garnet](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211138639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-826.webp?v=1753834480
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-507.webp?v=1762884649
     Price: $21.03 USD
   - [3T / Heather](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211171407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-heather-clothes-286.webp?v=1753834427
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-heather-clothes-276.webp?v=1762884596
     Price: $21.03 USD
   - [3T / Light Blue](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211204175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-light-blue-clothes-165.webp?v=1753834450
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-light-blue-clothes-461.webp?v=1762884618
     Price: $21.03 USD
   - [3T / Military Green](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211236943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-military-green-clothes-858.webp?v=1753834391
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-military-green-clothes-150.webp?v=1762884563
     Price: $21.03 USD
   - [3T / Navy](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211269711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-navy-clothes-506.webp?v=1753834469
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-navy-clothes-239.webp?v=1762884638
     Price: $21.03 USD
   - [3T / Orange](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211302479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-orange-clothes-208.webp?v=1753834407
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-orange-clothes-902.webp?v=1762884579
     Price: $21.03 USD
   - [3T / Purple](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211335247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-purple-clothes-552.webp?v=1753834473
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-purple-clothes-162.webp?v=1762884642
     Price: $21.03 USD
   - [3T / Red](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211368015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-red-clothes-248.webp?v=1753834476
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-red-clothes-955.webp?v=1762884645
     Price: $21.03 USD
   - [3T / Royal](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211400783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-royal-clothes-913.webp?v=1753834457
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-royal-clothes-940.webp?v=1762884626
     Price: $21.03 USD
   - [3T / White](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211433551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-white-clothes-359.webp?v=1753834403
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-white-clothes-321.webp?v=1762884575
     Price: $21.03 USD
   - [3T / Yellow](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211466319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-yellow-clothes-685.webp?v=1753834434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-yellow-clothes-161.webp?v=1762884606
     Price: $21.03 USD
   - [3T / Butter](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211499087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-butter-clothes-485.webp?v=1753834395
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-butter-clothes-302.webp?v=1762884567
     Price: $21.03 USD
   - [3T / Ash](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211531855)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-ash-clothes-570.webp?v=1753834419
-    Price: $21.03 USD
-  - [3T / Black Leopard](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211564623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-leopard-clothes-596.webp?v=1753834411
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-ash-clothes-230.webp?v=1762884587
     Price: $21.03 USD
   - [3T / Natural](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211597391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-clothes-734.webp?v=1753834431
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-clothes-615.webp?v=1762884600
     Price: $21.03 USD
   - [3T / Natural Heather](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211630159)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-heather-clothes-987.webp?v=1753834423
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-natural-heather-clothes-527.webp?v=1762884591
     Price: $21.03 USD
   - [3T / Peachy](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211662927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-peachy-clothes-958.webp?v=1753834415
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-peachy-clothes-901.webp?v=1762884583
     Price: $21.03 USD
   - [3T / Saltwater](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211695695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-saltwater-clothes-284.webp?v=1753834446
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-saltwater-clothes-481.webp?v=1762884614
     Price: $21.03 USD
   - [3T / Vintage Coyote Brown](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211728463)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-coyote-brown-clothes-339.webp?v=1762884571
     Price: $21.03 USD
   - [3T / Vintage Green](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211761231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-green-clothes-794.webp?v=1753834442
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-green-clothes-422.webp?v=1762884558
     Price: $21.03 USD
   - [3T / Vintage Royal](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211793999)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-3t-vintage-royal-clothes-265.webp?v=1753834454
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-royal-clothes-822.webp?v=1762884622
     Price: $21.03 USD
   - [3T / Vintage Smoke](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211826767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-smoke-clothes-954.webp?v=1753834462
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-vintage-smoke-clothes-588.webp?v=1762884630
     Price: $21.03 USD
   - [4T / Apple](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211859535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-206.webp?v=1753834438
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-apple-clothes-128.webp?v=1762884611
     Price: $21.03 USD
   - [4T / Black](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211892303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-867.webp?v=1753834465
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-black-clothes-493.webp?v=1762884634
     Price: $21.03 USD
   - [4T / Garnet](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211925071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-826.webp?v=1753834480
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-garnet-clothes-507.webp?v=1762884649
     Price: $21.03 USD
-- [Toddler's Awesome Tee, Kids T-Shirt, Rainbow Shirt, Birthday Gift, Playful Apparel, Fun Children’s Clothing](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing): Affirm your child's incredible worth with our 'God Made Me Awesome' T-shirt, part of our Little Blooms - Tiny Feet, Heaven-Bound collection. This delightful tee features a charming illustration of a child looking happily in a mirror under a vibrant rainbow, celebrating the beautiful truth that each child is uniquely and wonderfully made by God. It's a powerful message of self-love and divine creation, fostering confidence and joy. Crafted from soft, comfortable fabric, it’s perfect for reminding your little one just how awesome they truly are, from their tiny feet all the way to heaven! 2T 3T 4T 5-6T Width, in 12.00 13.00 14.00 15.00 Length, in 15.50 16.50 17.50 18.50 Sleeve length, in 4.75 5.00 5.25 5.50 Size tolerance, in 1.00 1.00 1.00 1.00 Dress your little one in comfort and style with this Toddler Fine Jersey Tee. Made from soft and breathable fabric, it provides the perfect combination of playfulness and durability for everyday adventures. The vibrant design adds a cheerful touch, and it’s perfect for birthdays, family gatherings, or just brightening up a regular day. This tee is ideal for parents looking to add a splash of fun to their toddler's wardrobe, making it a thoughtful gift for holidays like Christmas or Easter. Whether at the park, during playdates, or simply at home, this tee fosters a lively, vibrant atmosphere that kids love!Product features- Side seams for better shape retention- Elastic ribbed knit collar- Shoulder tape for stability and support- Soft 100% cotton, available in various colors- Classic fit with a tear-away labelCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
-  Updated: 2025-07-30T00:18:21Z
+  - [4T / Heather](https://faithbloom.co/products/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-shirt-cute-toddler-apparel-fun-kids-gift-birthday-outfit?variant=43412211957839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-tiny-but-mighty-tee-kids-motivational-t-shirt-playful-youth-cute-toddler-apparel-fun-gift-birthday-outfit-2t-heather-clothes-276.webp?v=1762884596
+    Price: $21.03 USD
+- [Toddler Graphic Tee - God Made Me Awesome Pop Art Design](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing): This Toddler Tee features a high-impact, comic-book-inspired graphic with a message of self-worth and individuality. It exudes enthusiasm, confidence, and playfulness, making it perfect for youth and children or anyone seeking an empowering faith-based statement piece. Ideal for birthdays, holidays, or everyday wear.Product features- Side seams for added structural support- Ribbed knit collar for shape retention- Shoulder tape for stability- Variety of fiber compositions available- Light fabric with tear-away labelCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
+  Updated: 2025-11-11T09:48:11Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-saltwater-clothes-248.webp?v=1753834486
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-saltwater-kids-clothes-961.webp?v=1762812203
   - [2T / Apple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412230864975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-apple-clothes-495.webp?v=1753834541
-    Price: $21.03 USD
-  - [2T / Garnet](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412230897743)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-garnet-clothes-647.webp?v=1753834585
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-apple-kids-clothes-232.webp?v=1762812242
     Price: $21.03 USD
   - [2T / Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412230930511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-heather-clothes-725.webp?v=1753834518
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-heather-kids-clothes-885.webp?v=1762812225
     Price: $21.03 USD
   - [2T / Hot Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412230963279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-hot-pink-clothes-547.webp?v=1753834581
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-hot-pink-kids-clothes-520.webp?v=1762812263
     Price: $21.03 USD
   - [2T / Light Blue](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412230996047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-light-blue-clothes-480.webp?v=1753834554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-light-blue-kids-clothes-770.webp?v=1762812250
     Price: $21.03 USD
   - [2T / Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231028815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-pink-clothes-916.webp?v=1753834573
-    Price: $21.03 USD
-  - [2T / Purple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231061583)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-purple-clothes-702.webp?v=1753834568
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-pink-kids-clothes-191.webp?v=1762812254
     Price: $21.03 USD
   - [2T / Raspberry](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231094351)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-raspberry-clothes-389.webp?v=1753834577
-    Price: $21.03 USD
-  - [2T / Royal](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231127119)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-royal-clothes-888.webp?v=1753834564
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-raspberry-kids-clothes-414.webp?v=1762812258
     Price: $21.03 USD
   - [2T / Silver](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231159887)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-silver-clothes-678.webp?v=1753834546
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-silver-kids-clothes-286.webp?v=1762812246
     Price: $21.03 USD
   - [2T / White](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231192655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-white-clothes-220.webp?v=1753834491
-    Price: $21.03 USD
-  - [2T / Yellow](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231225423)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-yellow-clothes-814.webp?v=1753834536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-white-kids-clothes-507.webp?v=1762812208
     Price: $21.03 USD
   - [2T / Butter](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231258191)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-butter-clothes-893.webp?v=1753834532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-butter-kids-clothes-288.webp?v=1762812238
     Price: $21.03 USD
   - [2T / Ash](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231323727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-ash-clothes-974.webp?v=1753834507
-    Price: $21.03 USD
-  - [2T / Black Leopard](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231356495)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-black-leopard-clothes-352.webp?v=1753834495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-ash-kids-clothes-870.webp?v=1762812217
     Price: $21.03 USD
   - [2T / Mauvelous](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231389263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-mauvelous-clothes-596.webp?v=1753834589
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-mauvelous-kids-clothes-850.webp?v=1762812267
     Price: $21.03 USD
   - [2T / Natural](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231422031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-natural-clothes-237.webp?v=1753834527
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-kids-clothes-405.webp?v=1762812233
     Price: $21.03 USD
   - [2T / Natural Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231454799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-natural-heather-clothes-360.webp?v=1753834512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-heather-kids-clothes-715.webp?v=1762812221
     Price: $21.03 USD
   - [2T / Peachy](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231487567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-peachy-clothes-965.webp?v=1753834500
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-peachy-kids-clothes-344.webp?v=1762812212
     Price: $21.03 USD
   - [2T / Saltwater](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231553103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-saltwater-clothes-248.webp?v=1753834486
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-saltwater-kids-clothes-961.webp?v=1762812203
     Price: $21.03 USD
   - [2T / Vintage Coyote Brown](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43457309278287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-coyote-brown-clothes-103.webp?v=1753834522
-    Price: $21.03 USD
-  - [2T / Vintage Green](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231618639)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-green-clothes-302.webp?v=1753834550
-    Price: $21.03 USD
-  - [2T / Vintage Navy](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43436077613135)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-navy-clothes-593.webp?v=1753834593
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-vintage-coyote-brown-kids-clothes-496.webp?v=1762812229
     Price: $21.03 USD
   - [3T / Apple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231651407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-apple-clothes-495.webp?v=1753834541
-    Price: $21.03 USD
-  - [3T / Garnet](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231684175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-garnet-clothes-647.webp?v=1753834585
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-apple-kids-clothes-232.webp?v=1762812242
     Price: $21.03 USD
   - [3T / Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231716943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-heather-clothes-725.webp?v=1753834518
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-heather-kids-clothes-885.webp?v=1762812225
     Price: $21.03 USD
   - [3T / Hot Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231749711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-hot-pink-clothes-547.webp?v=1753834581
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-hot-pink-kids-clothes-520.webp?v=1762812263
     Price: $21.03 USD
   - [3T / Light Blue](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231782479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-light-blue-clothes-480.webp?v=1753834554
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-light-blue-kids-clothes-770.webp?v=1762812250
     Price: $21.03 USD
   - [3T / Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231815247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-pink-clothes-916.webp?v=1753834573
-    Price: $21.03 USD
-  - [3T / Purple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231848015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-purple-clothes-702.webp?v=1753834568
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-pink-kids-clothes-191.webp?v=1762812254
     Price: $21.03 USD
   - [3T / Raspberry](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231880783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-raspberry-clothes-389.webp?v=1753834577
-    Price: $21.03 USD
-  - [3T / Royal](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231913551)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-royal-clothes-888.webp?v=1753834564
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-raspberry-kids-clothes-414.webp?v=1762812258
     Price: $21.03 USD
   - [3T / Silver](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231946319)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-silver-clothes-678.webp?v=1753834546
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-silver-kids-clothes-286.webp?v=1762812246
     Price: $21.03 USD
   - [3T / White](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412231979087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-white-clothes-220.webp?v=1753834491
-    Price: $21.03 USD
-  - [3T / Yellow](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232011855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-yellow-clothes-814.webp?v=1753834536
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-white-kids-clothes-507.webp?v=1762812208
     Price: $21.03 USD
   - [3T / Butter](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232044623)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-butter-clothes-893.webp?v=1753834532
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-butter-kids-clothes-288.webp?v=1762812238
     Price: $21.03 USD
   - [3T / Ash](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232077391)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-ash-clothes-974.webp?v=1753834507
-    Price: $21.03 USD
-  - [3T / Black Leopard](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232110159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-black-leopard-clothes-352.webp?v=1753834495
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-ash-kids-clothes-870.webp?v=1762812217
     Price: $21.03 USD
   - [3T / Mauvelous](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232142927)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-mauvelous-clothes-596.webp?v=1753834589
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-mauvelous-kids-clothes-850.webp?v=1762812267
     Price: $21.03 USD
   - [3T / Natural](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232175695)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-natural-clothes-237.webp?v=1753834527
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-kids-clothes-405.webp?v=1762812233
     Price: $21.03 USD
   - [3T / Natural Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232208463)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-natural-heather-clothes-360.webp?v=1753834512
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-heather-kids-clothes-715.webp?v=1762812221
     Price: $21.03 USD
   - [3T / Peachy](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232241231)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-peachy-clothes-965.webp?v=1753834500
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-peachy-kids-clothes-344.webp?v=1762812212
     Price: $21.03 USD
   - [3T / Saltwater](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232306767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-saltwater-clothes-248.webp?v=1753834486
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-saltwater-kids-clothes-961.webp?v=1762812203
     Price: $21.03 USD
   - [3T / Vintage Coyote Brown](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232339535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-coyote-brown-clothes-103.webp?v=1753834522
-    Price: $21.03 USD
-  - [3T / Vintage Green](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232372303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-green-clothes-302.webp?v=1753834550
-    Price: $21.03 USD
-  - [3T / Vintage Navy](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43436077645903)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-vintage-navy-clothes-593.webp?v=1753834593
-    Price: $21.03 USD
-  - [3T / Vintage Royal](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232405071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-3t-vintage-royal-clothes-808.webp?v=1753834559
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-vintage-coyote-brown-kids-clothes-496.webp?v=1762812229
     Price: $21.03 USD
   - [4T / Apple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232437839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-apple-clothes-495.webp?v=1753834541
-    Price: $21.03 USD
-  - [4T / Garnet](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232470607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-garnet-clothes-647.webp?v=1753834585
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-apple-kids-clothes-232.webp?v=1762812242
     Price: $21.03 USD
   - [4T / Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232503375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddlers-awesome-tee-kids-t-shirt-rainbow-birthday-gift-playful-apparel-fun-childrens-clothing-2t-heather-clothes-725.webp?v=1753834518
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-heather-kids-clothes-885.webp?v=1762812225
+    Price: $21.03 USD
+  - [4T / Hot Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232536143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-hot-pink-kids-clothes-520.webp?v=1762812263
+    Price: $21.03 USD
+  - [4T / Light Blue](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232568911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-light-blue-kids-clothes-770.webp?v=1762812250
+    Price: $21.03 USD
+  - [4T / Pink](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232601679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-pink-kids-clothes-191.webp?v=1762812254
+    Price: $21.03 USD
+  - [4T / Raspberry](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232667215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-raspberry-kids-clothes-414.webp?v=1762812258
+    Price: $21.03 USD
+  - [4T / Silver](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232732751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-silver-kids-clothes-286.webp?v=1762812246
+    Price: $21.03 USD
+  - [4T / White](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232765519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-white-kids-clothes-507.webp?v=1762812208
+    Price: $21.03 USD
+  - [4T / Butter](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232831055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-butter-kids-clothes-288.webp?v=1762812238
+    Price: $21.03 USD
+  - [4T / Ash](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232896591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-ash-kids-clothes-870.webp?v=1762812217
+    Price: $21.03 USD
+  - [4T / Mauvelous](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232962127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-mauvelous-kids-clothes-850.webp?v=1762812267
+    Price: $21.03 USD
+  - [4T / Natural](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412232994895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-kids-clothes-405.webp?v=1762812233
+    Price: $21.03 USD
+  - [4T / Natural Heather](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233027663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-natural-heather-kids-clothes-715.webp?v=1762812221
+    Price: $21.03 USD
+  - [4T / Peachy](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233060431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-peachy-kids-clothes-344.webp?v=1762812212
+    Price: $21.03 USD
+  - [4T / Saltwater](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233125967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-saltwater-kids-clothes-961.webp?v=1762812203
+    Price: $21.03 USD
+  - [4T / Vintage Coyote Brown](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233158735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-vintage-coyote-brown-kids-clothes-496.webp?v=1762812229
+    Price: $21.03 USD
+  - [5-6T / Apple](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233224271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-apple-kids-clothes-232.webp?v=1762812242
+    Price: $21.03 USD
+  - [5-6T / Butter](https://faithbloom.co/products/toddlers-awesome-tee-kids-t-shirt-rainbow-shirt-birthday-gift-playful-apparel-fun-children-s-clothing?variant=43412233257039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-graphic-tee-god-made-me-awesome-pop-art-design-2t-butter-kids-clothes-288.webp?v=1762812238
     Price: $21.03 USD
 - [Toddler Heart Balloon Tee - Cute Kids Shirt, Heartfelt Gift for Toddlers, Birthday Party Outfit, Playful Summer Top, Inspirational [...]](https://faithbloom.co/products/toddler-heart-balloon-tee-cute-kids-shirt-heartfelt-gift-for-toddlers-birthday-party-outfit-playful-summer-top-inspirational): Carry your happy place everywhere! Our 'I've Got Heaven In My Heart' tee shows a super cute heart balloon floating high in the clouds, reminding you that God's love and heaven are always with you. Get ready to float through your day with joy! 2T 3T 4T 5-6T Width, in 12.00 13.00 14.00 15.00 Length, in 15.50 16.50 17.50 18.50 Sleeve length, in 4.75 5.00 5.25 5.50 Size tolerance, in 1.00 1.00 1.00 1.00 Introducing the perfect addition to your toddler's wardrobe—a stylish and comfy Fine Jersey Tee. This adorable tee features a cheerful design that will brighten up any day, making it ideal for playdates, family outings, or simply lounging at home. The soft fabric provides all-day comfort, allowing your little one to move freely while looking cute. It’s perfect for parents who value quality clothing that can withstand the adventures of childhood. This tee is a fantastic choice for birthdays, holidays, or just because! It's sure to bring smiles during festive occasions like Christmas, Easter, or family gatherings. Designed to suit active toddlers, this classic fit tee brings a delightful vibe that mixes fun and functionality, perfect for children who are always on the go.Product features- Side seams for shape retention and support- Elastic ribbed knit collar that keeps its form- Shoulder tape for added stability- Soft fabric composition with cotton blends- Lightweight material for comfort on warm daysCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not dry clean- Do not iron
   Updated: 2025-07-30T00:21:52Z
@@ -7524,70 +7226,126 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-heart-balloon-tee-cute-kids-shirt-heartfelt-gift-for-toddlers-birthday-party-outfit-playful-summer-top-inspirational-2t-black-clothes-548.webp?v=1753834814
     Price: $21.03 USD
 - [Angel Watch Crew Toddler T-Shirt, Cute Kids Graphic Tee, Gifts for Little Boys, Birthday Party Outfits, Fun Angel Themed Apparel](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel): You're always safe with your 'Angel Watch Crew!' This super cool tee shows a friendly angel agent with wings and shades, reminding you that you're 'Protected 24/7' by heavenly helpers. Wear it and feel super secure! 2T 3T 4T 5T 6T Width, in 11.00 12.00 13.00 14.00 15.00 Length, in 15.00 16.00 17.00 18.00 19.00 Sleeve length from center back, in 9.00 10.00 11.00 11.50 12.50 This delightful toddler T-shirt combines comfort with a fun and playful vibe. Perfect for little ones who want to express their personality, this classic fit tee is ideal for everyday wear. The cheerful design brings joy to playtime and is a great conversation starter among friends. Whether for a birthday party, family gathering, or just a day out, this T-shirt is a must-have in your little one's wardrobe. It suits both boys and girls, making it a versatile gift choice for any occasion, especially holidays like Halloween, Christmas, or any fun event celebrating their uniqueness. Your child will not only look adorable but feel comfortable all day long!Product features- 100% cotton for soft comfort (composition varies with color)- Twill tape at neck and shoulder seams prevents stretching- Side seams provide shape retention and structure- 1x1 ribbed collar offers flexibility and a fitted look- Medium fabric weight ensures durability and comfortCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
-  Updated: 2025-07-30T00:22:16Z
+  Updated: 2025-11-12T07:50:49Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-974.webp?v=1762886116
+  - [Light Blue / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631103567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-light-blue-2t-clothes-615.webp?v=1762886137
+    Price: $19.92 USD
   - [Navy / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242694223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-650.webp?v=1753834920
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-470.webp?v=1762886121
     Price: $19.92 USD
   - [Red / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242726991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-700.webp?v=1753834923
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-258.webp?v=1762886125
     Price: $19.92 USD
   - [Royal / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242759759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-974.webp?v=1762886116
+    Price: $19.92 USD
+  - [White / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631136335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-white-2t-clothes-498.webp?v=1762886129
+    Price: $19.92 USD
+  - [Sport Grey / 2T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631169103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-sport-grey-2t-clothes-921.webp?v=1762886133
+    Price: $19.92 USD
+  - [Light Blue / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631201871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-light-blue-2t-clothes-615.webp?v=1762886137
     Price: $19.92 USD
   - [Navy / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242890831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-650.webp?v=1753834920
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-470.webp?v=1762886121
     Price: $19.92 USD
   - [Red / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242923599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-700.webp?v=1753834923
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-258.webp?v=1762886125
     Price: $19.92 USD
   - [Royal / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412242956367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-974.webp?v=1762886116
+    Price: $19.92 USD
+  - [White / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631234639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-white-2t-clothes-498.webp?v=1762886129
+    Price: $19.92 USD
+  - [Sport Grey / 3T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631267407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-sport-grey-2t-clothes-921.webp?v=1762886133
+    Price: $19.92 USD
+  - [Light Blue / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631300175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-light-blue-2t-clothes-615.webp?v=1762886137
     Price: $19.92 USD
   - [Navy / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243087439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-650.webp?v=1753834920
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-470.webp?v=1762886121
     Price: $19.92 USD
   - [Red / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243120207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-700.webp?v=1753834923
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-258.webp?v=1762886125
     Price: $19.92 USD
   - [Royal / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243152975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-974.webp?v=1762886116
+    Price: $19.92 USD
+  - [White / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631332943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-white-2t-clothes-498.webp?v=1762886129
+    Price: $19.92 USD
+  - [Sport Grey / 4T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631365711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-sport-grey-2t-clothes-921.webp?v=1762886133
+    Price: $19.92 USD
+  - [Light Blue / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631398479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-light-blue-2t-clothes-615.webp?v=1762886137
     Price: $19.92 USD
   - [Navy / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243284047)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-650.webp?v=1753834920
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-470.webp?v=1762886121
     Price: $19.92 USD
   - [Red / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243316815)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-700.webp?v=1753834923
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-258.webp?v=1762886125
     Price: $19.92 USD
   - [Royal / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243349583)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-974.webp?v=1762886116
+    Price: $19.92 USD
+  - [White / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631431247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-white-2t-clothes-498.webp?v=1762886129
+    Price: $19.92 USD
+  - [Sport Grey / 5T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631464015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-sport-grey-2t-clothes-921.webp?v=1762886133
+    Price: $19.92 USD
+  - [Light Blue / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631496783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-light-blue-2t-clothes-615.webp?v=1762886137
     Price: $19.92 USD
   - [Navy / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243480655)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-650.webp?v=1753834920
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-navy-2t-clothes-470.webp?v=1762886121
     Price: $19.92 USD
   - [Red / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243513423)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-700.webp?v=1753834923
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-red-2t-clothes-258.webp?v=1762886125
     Price: $19.92 USD
-  - [Royal / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43412243546191)
+  - [White / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631529551)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-royal-2t-clothes-471.webp?v=1753834916
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-white-2t-clothes-498.webp?v=1762886129
+    Price: $19.92 USD
+  - [Sport Grey / 6T](https://faithbloom.co/products/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-angel-themed-apparel?variant=43792631562319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/angel-watch-crew-toddler-t-shirt-cute-kids-graphic-tee-gifts-for-little-boys-birthday-party-outfits-fun-themed-apparel-sport-grey-2t-clothes-921.webp?v=1762886133
     Price: $19.92 USD
 - [Toddler Earth-Themed Tee – "He's Got the Whole World...and Me!" – Cute Kids Shirt, Gift for Toddlers, Earth Day Apparel, Fun Kids Wear](https://faithbloom.co/products/toddler-earth-themed-tee-hes-got-the-whole-world-and-me-cute-kids-shirt-gift-for-toddlers-earth-day-apparel-fun-kids-wear): Give your child the comforting truth of God's unfailing care with our 'He's Got The Whole World... And Me!' T-shirt, part of our Little Blooms - Tiny Feet, Heaven-Bound collection. This heartwarming design features an adorable child lovingly held within God's hands, with the earth nestled beside them, beautifully illustrating the beloved Sunday school song and the truth of divine protection. It's a wonderful way to instill a deep sense of security and belonging in your little one, reminding them that they are always cherished and safe in His mighty hands. Crafted from soft, comfortable fabric, it’s perfect for everyday wear, bringing peace of mind to both child and parent. 2T 3T 4T 5T Width, in 12.00 13.00 14.00 15.00 Length, in 15.50 16.50 17.50 18.50 Celebrate your little one’s unique spirit with this adorable Toddler Short Sleeve Tee. Featuring a heartwarming design that encourages kindness and love for the world, this tee is perfect for playful days at the park or cozy family gatherings. Made from soft, breathable fabric, it offers comfort and style, making it an essential addition to your child's wardrobe. Ideal for birthdays, playdates, or just because, this tee resonates with conscious parents who want to instill values of care and compassion in their children. Dress your child in this delightful tee and watch them shine, spreading joy and positivity wherever they go!Product features- Side seams for better structure and fit- Variety of colors with different fiber compositions- Soft, airlume combed and ring-spun cotton- Lightweight fabric for all-day comfort- Tear-away label for added convenienceCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dry clean
   Updated: 2025-07-30T00:23:53Z
@@ -7796,7 +7554,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/toddler-earth-themed-tee-hes-got-the-whole-world-and-me-cute-kids-shirt-gift-for-toddlers-day-apparel-fun-wear-kelly-2t-clothes-789.webp?v=1753834966
     Price: $16.67 USD
 - [Women's Crop Tee](https://faithbloom.co/products/womens-crop-tee): Find inspiration in every wear. Our 'Buried in Faith, Rising in His Light' design, inspired by John 12:24, brings a message of hope and new beginnings to life." XS S M L XL Width, in 18.70 19.69 20.67 21.65 22.64 Length, in 17.32 17.72 18.31 18.70 19.09 .: Medium fabric (5.3 oz/yd² (180 g/m²)).: Relaxed fit.: Sewn-in label.: 100% combed cotton (fiber content varies for different colors)
-  Updated: 2025-11-06T18:39:05Z
+  Updated: 2025-11-08T03:25:09Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -7930,7 +7688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/womens-crop-tee-navy-xs-t-shirt-852.webp?v=1762453279
     Price: $27.52 USD
 - [Unisex Garment-Dyed T-shirt](https://faithbloom.co/products/unisex-garment-dyed-t-shirt-1): A beautiful tribute to Psalm 23:1. Our 'The Lord Is My Shepherd' tee offers comfort and style for everyday wear." S M L XL 2XL 3XL 4XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 29.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 33.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 24.63 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Comfort Colors introduces the “Comfort Colors 1717” garment-dyed t-shirt; a fully customizable tee made 100% with ring-spun cotton. The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice. The double-needle stitching throughout the tee makes it highly durable while the lack of side-seams helps the shirt retain its tubular shape. Discover all 58 colors in our Comfort Colors 1717 color charts below. .: The Comfort Colors 1717 tee is made with medium fabric (6.1 oz/yd² (206.8 g/m²)) consisting of high quality, 100% ring-spun US cotton for long-lasting comfort..: The relaxed fit keeps the wearer comfy in both casual and semi-formal settings while the crew neckline delivers that classic, neat style which makes it perfect for accessorizing. .: The pre-shrunk fabric ensures a consistently great fit. Check all available sizes in our Comfort Colors 1717 size chart. .: All Comfort Colors 1717 shirts feature pre-shrunk cotton for size retention and a signature sewn-in twill label..: Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production..: Available in 58 colors. Check all available colors in our Comfort Colors 1717 color charts
-  Updated: 2025-11-06T22:07:17Z
+  Updated: 2025-11-07T14:55:14Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -8341,211 +8099,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/motivational-unisex-sweatshirt-fiat-let-it-be-done-inspirational-apparel-for-positive-vibes-gift-friends-casual-wear-royal-blue-s-931.webp?v=1753835351
     Price: $42.68 USD
-- [IHS & "Body. Blood. Soul. Divinity." Faith T-Shirt, Unisex Heavy Cotton Tee for Faith, Religious Apparel, Inspirational Gift, Church Events, Casual Wear, [...]](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear): Show your faith with our comfortable T-shirt featuring the radiant IHS Christogram and the profound message: "BODY. BLOOD. SOUL. DIVINITY." A meaningful and stylish way to express your devotion. S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 Introducing the perfect blend of comfort and style with our Unisex Heavy Cotton Tee. Designed with a casual yet classy vibe, this t-shirt is a delightful addition to any wardrobe. Made for everyone, it seamlessly transitions from casual outings to semi-formal gatherings. Ideal for expressing personal style during holidays, family gatherings, or everyday wear, this tee serves as a canvas for self-expression. Its unique design element provides a thoughtful touch, perfect for gift-giving during celebrations like birthdays, holidays, or even just because!Product features- Shoulder tape stabilizes seams for durability- Seamless construction reduces fabric waste- Elastic ribbed knit collar maintains shape- Soft, strong fabric ideal for vibrant prints- Ethically sourced cotton ensures comfort and qualityCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat
-  Updated: 2025-07-30T00:35:24Z
+- [Unisex Tee with IHS Body Blood Soul Divinity Design](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear): A classic T-Shirt featuring a large, bold, capitalized acronym 'IHS' with a clean, authoritative serif typeface. Below the acronym, there is a line of four words: BODY, BLOOD, SOUL, DIVINITY. The T-Shirt is made from strong and smooth fabric, perfect for printing, with shoulder tape for stability and a ribbed knit collar for elasticity and shape retention. Suitable for adults.Product features- Made from specially spun fibers for durability- Ribbed knit collar for shape retention- Shoulder tape for stability- Printed using Direct-to-Film and Direct-to-Garment techniques- Ethically grown and harvested US cottonCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat
+  Updated: 2025-11-08T09:52:13Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-dark-chocolate-s-908.webp?v=1753835364
+  Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17401932018514538043_2048.jpg?v=1762573507
   - [Blackberry / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712450127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-blackberry-s-686.webp?v=1753835429
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8784781714171661820_2048.jpg?v=1762573522
     Price: $15.83 USD
   - [Brown Savana / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712482895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-brown-savana-s-886.webp?v=1753835387
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6734771994457513218_2048.jpg?v=1762573513
     Price: $15.83 USD
   - [Charcoal / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712515663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-charcoal-s-160.webp?v=1753835418
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5787863094460593988_2048.jpg?v=1762573519
     Price: $15.83 USD
   - [Dark Chocolate / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712548431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-dark-chocolate-s-908.webp?v=1753835364
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17401932018514538043_2048.jpg?v=1762573507
     Price: $15.83 USD
   - [Garnet / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712581199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-garnet-s-162.webp?v=1753835434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/409447983202968471_2048.jpg?v=1762573524
     Price: $15.83 USD
   - [Gravel / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712613967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-gravel-s-195.webp?v=1753835406
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4663143660241172697_2048.jpg?v=1762573517
     Price: $15.83 USD
   - [Maroon / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712646735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-maroon-s-198.webp?v=1753835393
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15491507550367886573_2048.jpg?v=1762573514
     Price: $15.83 USD
   - [Russet / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712679503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-russet-s-949.webp?v=1753835375
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11430350538450451720_2048.jpg?v=1762573510
     Price: $15.83 USD
   - [White / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712712271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-white-s-331.webp?v=1753835369
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6047874422072867720_2048.jpg?v=1762573509
     Price: $15.83 USD
   - [Black / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712745039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-black-s-267.webp?v=1753835381
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11528562834514494075_2048.jpg?v=1762573511
     Price: $15.83 USD
   - [Graphite Heather / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712777807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-graphite-heather-s-230.webp?v=1753835412
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16840631894145811415_2048.jpg?v=1762573518
     Price: $15.83 USD
   - [Military Green / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712810575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-military-green-s-376.webp?v=1753835399
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9978974161664594729_2048.jpg?v=1762573515
     Price: $15.83 USD
   - [Heather Navy / S](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712843343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-heather-navy-s-678.webp?v=1753835423
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8535573317294414733_2048.jpg?v=1762573521
     Price: $15.83 USD
   - [Blackberry / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712876111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-blackberry-s-686.webp?v=1753835429
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8784781714171661820_2048.jpg?v=1762573522
     Price: $15.83 USD
   - [Brown Savana / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712908879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-brown-savana-s-886.webp?v=1753835387
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6734771994457513218_2048.jpg?v=1762573513
     Price: $15.83 USD
   - [Charcoal / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712941647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-charcoal-s-160.webp?v=1753835418
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5787863094460593988_2048.jpg?v=1762573519
     Price: $15.83 USD
   - [Dark Chocolate / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440712974415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-dark-chocolate-s-908.webp?v=1753835364
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17401932018514538043_2048.jpg?v=1762573507
     Price: $15.83 USD
   - [Garnet / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713007183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-garnet-s-162.webp?v=1753835434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/409447983202968471_2048.jpg?v=1762573524
     Price: $15.83 USD
   - [Gravel / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713039951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-gravel-s-195.webp?v=1753835406
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4663143660241172697_2048.jpg?v=1762573517
     Price: $15.83 USD
   - [Maroon / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713072719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-maroon-s-198.webp?v=1753835393
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15491507550367886573_2048.jpg?v=1762573514
     Price: $15.83 USD
   - [Russet / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713105487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-russet-s-949.webp?v=1753835375
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11430350538450451720_2048.jpg?v=1762573510
     Price: $15.83 USD
   - [White / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713138255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-white-s-331.webp?v=1753835369
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6047874422072867720_2048.jpg?v=1762573509
     Price: $15.83 USD
   - [Black / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713171023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-black-s-267.webp?v=1753835381
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11528562834514494075_2048.jpg?v=1762573511
     Price: $15.83 USD
   - [Graphite Heather / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713203791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-graphite-heather-s-230.webp?v=1753835412
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16840631894145811415_2048.jpg?v=1762573518
     Price: $15.83 USD
   - [Military Green / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713236559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-military-green-s-376.webp?v=1753835399
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9978974161664594729_2048.jpg?v=1762573515
     Price: $15.83 USD
   - [Heather Navy / M](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713269327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-heather-navy-s-678.webp?v=1753835423
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8535573317294414733_2048.jpg?v=1762573521
     Price: $15.83 USD
   - [Blackberry / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713302095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-blackberry-s-686.webp?v=1753835429
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8784781714171661820_2048.jpg?v=1762573522
     Price: $15.83 USD
   - [Brown Savana / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713334863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-brown-savana-s-886.webp?v=1753835387
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6734771994457513218_2048.jpg?v=1762573513
     Price: $15.83 USD
   - [Charcoal / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713367631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-charcoal-s-160.webp?v=1753835418
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5787863094460593988_2048.jpg?v=1762573519
     Price: $15.83 USD
   - [Dark Chocolate / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713400399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-dark-chocolate-s-908.webp?v=1753835364
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17401932018514538043_2048.jpg?v=1762573507
     Price: $15.83 USD
   - [Garnet / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713433167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-garnet-s-162.webp?v=1753835434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/409447983202968471_2048.jpg?v=1762573524
     Price: $15.83 USD
   - [Gravel / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713465935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-gravel-s-195.webp?v=1753835406
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4663143660241172697_2048.jpg?v=1762573517
     Price: $15.83 USD
   - [Maroon / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713498703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-maroon-s-198.webp?v=1753835393
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15491507550367886573_2048.jpg?v=1762573514
     Price: $15.83 USD
   - [Russet / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713531471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-russet-s-949.webp?v=1753835375
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11430350538450451720_2048.jpg?v=1762573510
     Price: $15.83 USD
   - [White / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713564239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-white-s-331.webp?v=1753835369
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6047874422072867720_2048.jpg?v=1762573509
     Price: $15.83 USD
   - [Black / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713597007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-black-s-267.webp?v=1753835381
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11528562834514494075_2048.jpg?v=1762573511
     Price: $15.83 USD
   - [Graphite Heather / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713629775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-graphite-heather-s-230.webp?v=1753835412
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16840631894145811415_2048.jpg?v=1762573518
     Price: $15.83 USD
   - [Military Green / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713662543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-military-green-s-376.webp?v=1753835399
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/9978974161664594729_2048.jpg?v=1762573515
     Price: $15.83 USD
   - [Heather Navy / L](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713695311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-heather-navy-s-678.webp?v=1753835423
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8535573317294414733_2048.jpg?v=1762573521
     Price: $15.83 USD
   - [Blackberry / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713728079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-blackberry-s-686.webp?v=1753835429
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/8784781714171661820_2048.jpg?v=1762573522
     Price: $15.83 USD
   - [Brown Savana / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713760847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-brown-savana-s-886.webp?v=1753835387
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6734771994457513218_2048.jpg?v=1762573513
     Price: $15.83 USD
   - [Charcoal / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713793615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-charcoal-s-160.webp?v=1753835418
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/5787863094460593988_2048.jpg?v=1762573519
     Price: $15.83 USD
   - [Dark Chocolate / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713826383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-dark-chocolate-s-908.webp?v=1753835364
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/17401932018514538043_2048.jpg?v=1762573507
     Price: $15.83 USD
   - [Garnet / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713859151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-garnet-s-162.webp?v=1753835434
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/409447983202968471_2048.jpg?v=1762573524
     Price: $15.83 USD
   - [Gravel / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713891919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-gravel-s-195.webp?v=1753835406
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/4663143660241172697_2048.jpg?v=1762573517
     Price: $15.83 USD
   - [Maroon / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713924687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-maroon-s-198.webp?v=1753835393
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/15491507550367886573_2048.jpg?v=1762573514
     Price: $15.83 USD
   - [Russet / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713957455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-russet-s-949.webp?v=1753835375
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11430350538450451720_2048.jpg?v=1762573510
     Price: $15.83 USD
   - [White / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440713990223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-white-s-331.webp?v=1753835369
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/6047874422072867720_2048.jpg?v=1762573509
     Price: $15.83 USD
   - [Black / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440714022991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-black-s-267.webp?v=1753835381
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/11528562834514494075_2048.jpg?v=1762573511
     Price: $15.83 USD
   - [Graphite Heather / XL](https://faithbloom.co/products/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-faith-religious-apparel-inspirational-gift-church-events-casual-wear?variant=43440714055759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/ihs-body-blood-soul-divinity-faith-t-shirt-unisex-heavy-cotton-tee-for-religious-apparel-inspirational-gift-church-events-casual-wear-graphite-heather-s-230.webp?v=1753835412
+    Image: https://cdn.shopify.com/s/files/1/0647/5838/2671/files/16840631894145811415_2048.jpg?v=1762573518
     Price: $15.83 USD
 - [Faith Bloom Co Gift Card](https://faithbloom.co/products/faith-bloom-co-gift-card): Spread joy and inspiration with a Faith Bloom Co Gift Card! Perfect for sharing love, faith, and encouragement, this gift card lets your loved ones choose from our collection of uplifting, faith-inspired products. Whether it’s a heartfelt gift for a special occasion or a thoughtful gesture to brighten someone’s day, our gift cards offer the freedom to select something meaningful. Delivered Instantly: Sent via email with a unique code for easy redemption at checkout. Flexible Values: Available in denominations of $10, $25, $50, $100, or more to suit any budget. No Extra Fees: Enjoy a seamless gifting experience with no additional processing costs. Use Online: Redeemable for any purchase on our Faith Bloom Co online store. Give the gift of choice and let their faith bloom with Faith Bloom Co! For any questions, contact us through our store’s support page.
   Updated: 2025-07-30T00:35:39Z
@@ -8569,14 +8327,14 @@
 ## Collections
 
 - [Massterpeace Teez: Faith That Pops Style That Slaps!](https://faithbloom.co/collections/massterpeace-teez-faith-that-pops-style-that-slaps): Faith Bloom Co. Massterpeace Teez offer vibrant Christian streetwear apparel. Explore unique faith-based graphic tees with bold designs and witty messages.
-  Updated: 2025-11-05T21:40:01Z
-  Total Products: 11
+  Updated: 2025-11-10T20:56:59Z
+  Total Products: 8
 - [The Grace & Glimmer Collection: Scripture-Inspired](https://faithbloom.co/collections/the-grace-glimmer-collection-scripture-inspired-style-for-every-spirit): Faith Bloom Co. presents The Grace & Glimmer Collection. Discover Scripture-inspired jewelry, art, and apparel reflecting faith, hope, and spiritual light for all.
-  Updated: 2025-11-05T20:57:45Z
-  Total Products: 14
+  Updated: 2025-11-08T07:23:45Z
+  Total Products: 11
 - [Little Blooms - Tiny Feet Heaven-Bound](https://faithbloom.co/collections/little-blooms-tiny-feet-heaven-bound): Faith Bloom Co. presents Little Blooms, a collection dedicated to children, celebrating their innocence and spiritual journey with special faith-inspired designs.
-  Updated: 2025-08-11T08:31:20Z
-  Total Products: 13
+  Updated: 2025-11-10T22:38:27Z
+  Total Products: 11
 
 ## Store Pages
 
