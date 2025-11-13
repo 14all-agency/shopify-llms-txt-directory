@@ -11,7 +11,7 @@
 - Contact Email: info@inotex.ro
 - Contact Phone: +40 316 304 091
 - Address: Șoseaua Nicolina 189, etaj 2, Iași 700714, România
-- Updated At: 2025-11-13T12:24:52.672Z
+- Updated At: 2025-11-13T12:25:03.518Z
 
 ## Products
 
