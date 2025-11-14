@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-12T00:01:28.077Z
+- Updated At: 2025-11-14T00:01:23.698Z
 
 ## Products
 
@@ -2486,7 +2486,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/Screenshot2025-07-13075750.png?v=1752383332
   Price: €15.00 EUR
 - [Buy Ford Nugget Replacement Canvas Pop Top 3 Windoes | Durable & Customizable](https://vanagonmaniac.com/products/ford-nugget-replacement-canvas): Shop the best ford nugget replacement canvas pop top 3 windoes for durability, style, and perfect fit. Upgrade your camper today with high-quality, weather-resistant material.
-  Updated: 2025-11-11T20:08:33Z
+  Updated: 2025-11-12T08:03:21Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
@@ -2946,7 +2946,7 @@
   Image: https://cdn.shopify.com/s/files/1/0566/8913/1599/files/Ram_promaster_thermal_blinds.png?v=1762771170
   Price: €246.00 EUR
 - [Ford Nugget 2-GEN 3-Window Pop-Top Canvas 1992-2000 | Vanagon Maniac Replacement Tent](https://vanagonmaniac.com/products/ford-nugget-2nd-gen-pop-top-roof-canvas-1991-92-1999-3-window-replacement-roof-tent): Vanagon Maniac offers a brand-new replacement pop-top roof canvas for Ford Nugget 2-GEN, 1992-2000 year model, featuring a 3-window pop-top rear hinge roof canvas.
-  Updated: 2025-11-11T12:36:46Z
+  Updated: 2025-11-12T06:10:11Z
   Vendor: vanagonmaniac
   Product Type: replacement canvas
   Availability: Available
