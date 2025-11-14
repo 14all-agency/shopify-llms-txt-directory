@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-11-12T00:01:05.627Z
+- Updated At: 2025-11-14T00:01:04.546Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -130,25 +130,25 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_0158e48e-ee59-47ec-9ec0-c190372ddf6a.jpg?v=1741874135
   Price: £85.00 GBP
 - [Twist Pearl Bracelet | Pink Pearl & Silver Bracelet | Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-bracelet-champagne): Shopping for a pearl bracelet? This Twist Pearl Bracelet is made from pink freshwater pearls combined with twisted silver ropes and a silver heart clasp to form a pretty and wearable bracelet. Matching earrings available. Free UK shipping & jewellery care kit and gift wrap available with all orders. Shop online today.
-  Updated: 2025-07-18T17:15:45Z
+  Updated: 2025-11-13T23:30:44Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_959c6c6e-64b3-4034-87ff-0c39169e3bcf.jpg?v=1741874149
   - [small 7.5 in (19 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-champagne?variant=44781910589758)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £70.00 GBP
   - [medium 8 in (20.32cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-champagne?variant=44781910622526)
     Availability: Available
-    Price: £70.00 GBP
+    Price: £75.00 GBP
   - [large 8.5 in (21.59 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-champagne?variant=44781910655294)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
   - [make it bespoke to my size](https://www.lilyblanche.com/products/twist-pearl-bracelet-champagne?variant=44781910688062)
     Availability: Available
-    Price: £80.00 GBP
+    Price: £85.00 GBP
 - [Silver Daisy Key Pendant | Flower Key Necklace](https://www.lilyblanche.com/products/silver-daisy-key-pendant): This charming sterling silver  flower key pendant has tiny diamante accents and comes on a sterling silver chain. Our daisy key pendant is a perfect 18th birthday gift. Free shipping.
-  Updated: 2025-11-11T17:59:44Z
+  Updated: 2025-11-13T13:16:07Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -172,7 +172,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £125.00 GBP
 - [Rutilated Quartz Earrings Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-earrings-rose-gold): These rutilated quartz gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity
-  Updated: 2025-10-12T13:52:00Z
+  Updated: 2025-11-13T23:37:48Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -233,29 +233,44 @@ We take vintage jewellery designs and give them a modern twist by combining them
   - [22 inches (55 cm)](https://www.lilyblanche.com/products/classic-pearl-necklace-midnight?variant=44781913637182)
     Availability: Available
     Price: £185.00 GBP
+- [Silver Dragonfly Pendant | Art Deco Dragonfly Necklace | Lily Blanche](https://www.lilyblanche.com/products/silver-dragonfly-pendant): This elegant sterling silver dragonfly pendant is beautifully detailed. The silver dragonfly is a symbol of good luck. Our dragonfly pendant and matching earrings are based on an art deco design. Order online today and receive a free jewellery care kit worth £20
+  Updated: 2025-11-13T18:00:40Z
+  Vendor: Lily Blanche
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_4300336f-d269-482b-a857-6eb7c00dba04.jpg?v=1741874435
+  - [18 inch (46 cm)](https://www.lilyblanche.com/products/silver-dragonfly-pendant?variant=44781913997630)
+    Availability: Available
+    Price: £125.00 GBP
+  - [24 inch (61 cm)](https://www.lilyblanche.com/products/silver-dragonfly-pendant?variant=44781914030398)
+    Availability: Available
+    Price: £125.00 GBP
+  - [30 inch (72 cm)](https://www.lilyblanche.com/products/silver-dragonfly-pendant?variant=44781913964862)
+    Availability: Available
+    Price: £130.00 GBP
 - [Twist Pearl Earrings Champagne | Pink Pearl Drop Earrings |  Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-earrings-champagne): Need a statement necklace? These elegant earrings combine freshwater cultured pearls in champagne pink with twisted ropes of sterling silver. Real pink pearl and silver drop earrings. Award winning British jewellery brand. Next day delivery available. Free UK delivery and luxury jewellery care kit included.
-  Updated: 2025-07-23T04:00:52Z
+  Updated: 2025-11-13T17:47:07Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_b978c0a7-f83b-4ce4-bb90-1ea845865b95.jpg?v=1741874451
-  Price: £45.00 GBP
-- [Eternal Pearl Necklace Champagne | Long Pearl Rope](https://www.lilyblanche.com/products/eternal-pearl-necklace-champagne): A stunning 62-inch (1.58 m) necklace of large & small, pale pink freshwater pearls. Necklace can be looped to make a series of pearl necklaces. Real pearl necklace. Free shipping
-  Updated: 2025-11-11T15:00:19Z
+  Price: £60.00 GBP
+- [Eternal Pearl Necklace Champagne | Long Pearl Rope](https://www.lilyblanche.com/products/eternal-pearl-necklace-champagne): 62 inch rope pearl necklace of large & small, pale pink freshwater pearls. Necklace can be looped to make a series of pearl necklaces. Real pearl necklace. Free shipping & returns
+  Updated: 2025-11-13T17:56:56Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a28b461d-caaa-44c5-866c-4e11a870fb13.jpg?v=1741874311
   Price: £225.00 GBP
 - [Rutilated Quartz Earrings Gold | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-earrings-gold): These rose quartz gemstone earrings in a gold vermeil setting have fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-10-12T13:35:00Z
+  Updated: 2025-11-13T23:36:34Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_6d328435-4ff4-4dfa-b450-d29002bc7336.jpg?v=1741874331
-  Price: £120.00 GBP
+  Price: £130.00 GBP
 - [Green Amethyst Earrings Rose Gold| Lily Blanche](https://www.lilyblanche.com/products/green-amethyst-earrings-rose-gold): These green amethyst gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity. Matching rings available. Free shipping. Discover our extensive collection of green amethyst jewellery.
-  Updated: 2025-10-19T13:56:24Z
+  Updated: 2025-11-13T12:47:08Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -467,7 +482,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £215.00 GBP
 - [Amethyst Handbag Locket | Amethyst Purse Locket](https://www.lilyblanche.com/products/handbag-locket-amethyst): This  unusual Amethyst Handbag Locket is the perfect purse locket. A perfect gift for handbag lovers. Complimentary jewellery care kit worth £20
-  Updated: 2025-11-11T18:04:38Z
+  Updated: 2025-11-13T17:28:54Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -521,12 +536,12 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £115.00 GBP
 - [Twist Pearl Earrings Ivory | Real Pearl & Solid Silver | Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-earrings-ivory): These elegant earrings combine ivory freshwater cultured pearls with twisted ropes of sterling silver for a classic look. Stylish earrings made with real pearls & solid silver. Trusted UK jewellery brand with over 1350 5 Star Reviews on Trustpilot. Order online today & receive a free jewellery care kit worth £20.
-  Updated: 2025-07-23T01:04:46Z
+  Updated: 2025-11-13T17:51:38Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_c148e363-140a-4e92-b10c-0cfbcebe0790.jpg?v=1741883160
-  Price: £45.00 GBP
+  Price: £60.00 GBP
 - [Silver Feather Earrings | Feather Drop Earrings |Lily Blanche](https://www.lilyblanche.com/products/feather-earrings-silver): These charming sterling silver feather earrings on sterling silver hooks symbolise freedom and light. Free gift wrap with all orders
   Updated: 2025-07-21T18:05:56Z
   Vendor: Lily Blanche
@@ -575,23 +590,23 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £100.00 GBP
 - [Silver Rutilated Quartz Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-silver): This rutilated quartz gemstone ring, in a sterling silver setting, has fabulous clarity, depth of colour and luminosity
-  Updated: 2025-08-22T02:14:59Z
+  Updated: 2025-11-13T23:40:00Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_c6400b6d-722b-4e17-9b5e-f3b3a996552d.jpg?v=1741874608
   - [L/M](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-silver?variant=44781945487678)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
   - [N/O](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-silver?variant=44781945389374)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-silver?variant=44781945422142)
     Availability: Not Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
   - [R/S](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-silver?variant=44781945454910)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
 - [Sterling Pearl Bracelet Ivory | Real Pearls Hand Strung](https://www.lilyblanche.com/products/sterling-pearl-bracelet-ivory): Made from AAA+ Ivory cultured pearls & sterling silver beads, this is a luxury bracelet which is suitable for bridal wear or gifting for a special occasion
   Updated: 2025-09-16T22:08:41Z
   Vendor: Lily Blanche
@@ -643,32 +658,32 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Twist Pearl Bracelet Midnight | Pearl Quality A +++  | Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight): This Twist Pearl Bracelet in Dark Blue is a beautiful bangle to gift or to wear. Dark blue freshwater pearls combined with twisted silver ropes and a silver heart clasp to form a pretty bracelet. Free luxury gift wrap & jewellery care kit. Free UK shipping & express delivery available. Order online today.
-  Updated: 2025-07-21T01:55:28Z
+  Updated: 2025-11-13T17:46:30Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a8f772ba-89c2-46de-9b85-21b9f8d4f1a7.jpg?v=1741874662
   - [small 7.5 in (19 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947552062)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £70.00 GBP
   - [medium 8 in (20.3 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947584830)
     Availability: Available
-    Price: £70.00 GBP
-  - [large 8.5 cm (22 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947617598)
-    Availability: Available
     Price: £75.00 GBP
-  - [make it bespoke to my size](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947519294)
+  - [large 8.5 in (22 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947617598)
     Availability: Available
     Price: £80.00 GBP
+  - [make it bespoke to my size](https://www.lilyblanche.com/products/twist-pearl-bracelet-midnight?variant=44781947519294)
+    Availability: Available
+    Price: £85.00 GBP
 - [Seashore Bracelet | Silver Shell bracelet](https://www.lilyblanche.com/products/seashore-bracelet): A stunning silver seashore bracelet made up of clam shells starfish and silver dollars. This silver shell bracelet will bring summer holiday memories. Matching earrings available. Free jewellery care kit worth £20
-  Updated: 2025-11-11T11:37:32Z
+  Updated: 2025-11-13T13:09:47Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_9d1e296d-a024-41f1-bce7-b7d0027c8153.jpg?v=1741883258
   Price: £175.00 GBP
 - [Silver Love Key Pendant | Heart Key Pendant](https://www.lilyblanche.com/products/love-key-pendant-silver): Sparkling and romantic, our sterling silver Love Key Pendant is studded with pave-set zircon detailing. This pretty key pendant is a perfect love token. Free gift wrap.
-  Updated: 2025-11-11T17:59:44Z
+  Updated: 2025-11-13T13:16:09Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -789,16 +804,16 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £115.00 GBP
 - [Eternal Pearl Necklace Ivory | Freshwater Pearl Rope](https://www.lilyblanche.com/products/eternal-pearl-necklace-ivory): A 62-inch (1.57m) rope necklace of large & small, ivory freshwater pearls, handknotted on Japanese silk. A luxurious pearl necklace can be looped to create a series of pearl necklaces. Free shipping
-  Updated: 2025-11-11T14:14:03Z
+  Updated: 2025-11-13T13:16:09Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a05e293e-b179-4f5a-a1c4-80ab4618f963.jpg?v=1741874816
   Price: £275.00 GBP
 - [Rose Gold Bee Earrings | Bee Drop Earrings | Lily Blanche](https://www.lilyblanche.com/products/bee-earrings-rose-gold): A beautiful pair of 18 carat rose gold  vermeil bee earrings on 18 carat rose gold  vermeil hooks. Free UK shipping and 90 day returns.
-  Updated: 2025-11-04T22:49:32Z
+  Updated: 2025-11-13T17:48:35Z
   Vendor: Lily Blanche
-  Product Type: Hoop
+  Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_16b9580c-060f-41f9-805d-a780b92ed9d8.jpg?v=1741874831
   Price: £80.00 GBP
@@ -939,7 +954,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Silver Bamboo Hoop Earrings | High Quality & Fast Delivery](https://www.lilyblanche.com/products/bamboo-hoop-earrings-silver): These exquisite Bamboo Hoop Earrings in solid sterling silver will become your go-to earrings. Associated with luck and wealth, the bamboo motif earrings also make the perfect gift for any age range. Next-day delivery available. Order online today and receive a free luxury jewellery care kit worth £20.
-  Updated: 2025-11-11T20:20:33Z
+  Updated: 2025-11-13T13:16:12Z
   Vendor: Lily Blanche
   Product Type: Earring
   Availability: Available
@@ -953,12 +968,12 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_31d9e0b2-afac-4c12-b80d-fc75d545aebd.jpg?v=1741874953
   Price: £80.00 GBP
 - [Classic Pearl Earrings: Ivory | Lily Blanche](https://www.lilyblanche.com/products/classic-pearl-earrings-ivory): Classic Ivory Pearl Stud Earrings made with freshwater, cultured pearls. The perfect every woman pearl studs. Free shipping and 90 day returns.
-  Updated: 2025-07-24T01:30:24Z
+  Updated: 2025-11-13T17:50:27Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_bbbe1894-4307-4315-a0bf-095f6b8172c5.jpg?v=1741874966
-  Price: £65.00 GBP
+  Price: £70.00 GBP
 - [Gold Vermeil Magical Charm - Family | Lily Blanche](https://www.lilyblanche.com/products/magical-charm-boot-family-gold): Our charming gold vermeil Shoe charm symbolises family and opens to reveal a little family. Free jewellery care kit worth £20 on orders of £75 or more
   Updated: 2025-07-19T10:01:32Z
   Vendor: Lily Blanche
@@ -1228,7 +1243,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £190.00 GBP
 - [Memory Keeper Earrings Gold | Lily Blanche](https://www.lilyblanche.com/products/memory-keeper-earrings-gold): The Memory Keeper Earrings are a three dimensional gold vermeil button stud earring. Free luxury jewellery care kit worth £20.
-  Updated: 2025-08-28T11:45:56Z
+  Updated: 2025-11-13T03:41:45Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
@@ -1242,7 +1257,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_14f7f896-d066-4c30-8239-98b274aab054.jpg?v=1741883545
   Price: £60.00 GBP
 - [Sterling Silver Charm Carrier](https://www.lilyblanche.com/products/charm-carrier-pendant-silver): This circular, sterling silver charm carrier necklace holds up to three charms, allowing you to tell your story and mix and match your charms. Free jewellery care kit with all orders
-  Updated: 2025-11-11T23:43:19Z
+  Updated: 2025-11-13T17:28:55Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
@@ -1260,7 +1275,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [Key To My Heart Pendant Red | Sparkling Red Heart & Key Necklace](https://www.lilyblanche.com/products/key-to-my-heart-pendant-red): Sparkling and sophisticated, this pretty red heart-shaped lock pendant with tiny vintage key detail is romantic and charming. Key & Heart necklace in sparkling red crystal gemstones.
-  Updated: 2025-11-11T15:05:15Z
+  Updated: 2025-11-13T13:16:13Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -1291,25 +1306,25 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_5b012aad-e500-4374-b459-cc169ee86f30.jpg?v=1741875156
   Price: £120.00 GBP
 - [Four Photo Oval Butterfly Locket | Rose Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-rose-gold): This beautiful four photo oval butterfly locket in rose gold vermeil is the perfect way to keep your loved ones close to your heart. The locket features a sterling silver filigree butterfly charm, symbolising happiness and transformation. Personalise your locket online today & receive free photos & jewellery care kit!
-  Updated: 2025-11-09T13:36:23Z
+  Updated: 2025-11-13T17:48:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_31847e7c-75dc-48fe-998e-df57fe3d6a5d.jpg?v=1741875177
   - [18 inch curb chain (46 cm)](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-rose-gold?variant=48015282831678)
     Availability: Available
-    Price: £275.00 GBP
+    Price: £285.00 GBP
   - [20 inch curb chain (51 cm)](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-rose-gold?variant=48015282864446)
     Availability: Available
-    Price: £285.00 GBP
+    Price: £290.00 GBP
   - [24 inch curb chain (63 cm)](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-rose-gold?variant=48015282897214)
     Availability: Available
-    Price: £295.00 GBP
+    Price: £300.00 GBP
   - [30 inch curb chain (72 cm)](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-rose-gold?variant=48015282929982)
     Availability: Available
-    Price: £305.00 GBP
+    Price: £315.00 GBP
 - [Silver Dragonfly Earrings | Art Nouveau Earrings](https://www.lilyblanche.com/products/silver-dragonfly-earrings): A stunning pair of silver dragonfly earrings in the art deco style. Turn heads with these distinctive dragonfly earrings. Free luxury jewellery care kit worth £20 included. Ready for gifting.
-  Updated: 2025-11-11T23:46:36Z
+  Updated: 2025-11-13T18:00:40Z
   Vendor: Lily Blanche
   Product Type: Hoop
   Availability: Available
@@ -1349,7 +1364,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [Rose Gold Purple Amethyst Earrings| Lily Blanche](https://www.lilyblanche.com/products/purple-amethyst-earrings-rose-gold): These purple amethyst gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity.  Free ring sizer and jewellery care kit worth £20.
-  Updated: 2025-10-12T13:34:00Z
+  Updated: 2025-11-13T17:50:36Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -1471,14 +1486,14 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_17212cc1-22f9-4798-95ec-043e5a2731af.jpg?v=1741875385
   Price: £65.00 GBP
 - [Classic Pearl Earrings: Champagne | Lily Blanche](https://www.lilyblanche.com/products/classic-pearl-earrings-champagne): Classic pale pink pearl stud earrings made using freshwater, cultured pearls. Free shipping and 90 day easy returns.
-  Updated: 2025-07-19T01:49:53Z
+  Updated: 2025-11-13T17:50:27Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_0f06974f-b64e-4a8e-9bdc-b08b72dd5291.jpg?v=1741875391
-  Price: £65.00 GBP
+  Price: £70.00 GBP
 - [Charming Chick Locket | Egg Pendant](https://www.lilyblanche.com/products/charming-chick-locket): The perfect gift for chic chicks, Charming Chick Locket is made of solid silver and opens to reveal a baby bird.  Sustainable gift. Free shipping. Free jewellery care kit
-  Updated: 2025-11-11T11:51:50Z
+  Updated: 2025-11-13T13:09:49Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -1542,7 +1557,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £60.00 GBP
 - [Key To My Heart Pendant | High Quality & Fast Delivery](https://www.lilyblanche.com/products/key-to-my-heart-pendant-blue): This pretty blue heart-shaped lock pendant with tiny vintage key detail is romantic and charming. Perfect for gifting and lovely to wear when you need a little bit of sparkle in your life. Order online today and receive a free jewellery care kit gift worth £20
-  Updated: 2025-11-11T15:05:15Z
+  Updated: 2025-11-13T17:27:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -1566,7 +1581,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £145.00 GBP
 - [Silver Seashore Earrings | Silver Shell Earrings](https://www.lilyblanche.com/products/seashore-earrings): These pretty sterling silver seashore earrings make the perfect gift. Our seashell earrings transport you to summer beaches. Matching bracelet available. Free jewellery care kit.
-  Updated: 2025-11-11T11:45:12Z
+  Updated: 2025-11-13T17:32:25Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
@@ -1654,14 +1669,14 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £115.00 GBP
 - [Blue Topaz Earrings Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-earrings-rose-gold): These blue topaz gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity
-  Updated: 2025-10-12T13:51:00Z
+  Updated: 2025-11-13T17:50:27Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_6de24419-1f2e-4548-bd63-e10ed6818960.jpg?v=1741875598
   Price: £130.00 GBP
 - [Love Bird Earrings | Silver Bird Earrings](https://www.lilyblanche.com/products/love-bird-earrings): A pair of pretty silver lovebird earrings perch on a swing. Our silver bird earrings make a lovely anniversary gift. Free shipping.
-  Updated: 2025-11-11T23:38:44Z
+  Updated: 2025-11-13T13:09:50Z
   Vendor: Lily Blanche
   Product Type: Earring
   Availability: Available
@@ -1870,12 +1885,12 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_658bbd55-0290-44a8-a446-c4700db28173.jpg?v=1741875811
   Price: £70.00 GBP
 - [Twist Pearl Earrings | Real Blue Pearl & Silver | Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-earrings-midnight): These elegant earrings combine freshwater cultured pearls in midnight blue with twisted ropes of sterling silver. Real Dark Blue Pearl & Silver Drop Earrings. Over 1300 5 star reviews on Trustpilot. Free UK shipping & luxury jewellery care kit worth £20 included. Explore these earrings online today.
-  Updated: 2025-07-21T01:50:02Z
+  Updated: 2025-11-13T17:47:07Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_82ee907b-6557-496f-bb1e-55354b6ffccb.jpg?v=1741875825
-  Price: £45.00 GBP
+  Price: £60.00 GBP
 - [Rose Gold Garnet Ring | Garnet Stacking Ring |Lily Blanche](https://www.lilyblanche.com/products/garnet-cocktail-ring-rose-gold): This Luminous genuine garnet cocktail ring in rose gold has fabulous clarity and depth of colour.  Free ring sizer with every order. 90 day easy returns.
   Updated: 2025-11-03T14:27:26Z
   Vendor: Lily Blanche
@@ -1895,20 +1910,26 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £120.00 GBP
 - [Rose Gold Feather Pendant | Lily Blanche](https://www.lilyblanche.com/products/feather-pendant-rose-gold): Shop this pretty rose gold feather pendant online. Based on the saying, feathers appear when angels are near, this rose gold feather necklace makes a lovely anniversary or birthday gift for the woman or girl in your life. Gift box and free UK shipping.
-  Updated: 2025-09-02T11:43:47Z
+  Updated: 2025-11-13T17:48:36Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_419da92e-36ff-4bf2-bb2b-b123587c5b20.jpg?v=1741875861
   - [16 inch (41 cm)](https://www.lilyblanche.com/products/feather-pendant-rose-gold?variant=44782028095806)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £75.00 GBP
   - [18 inch (46 cm)](https://www.lilyblanche.com/products/feather-pendant-rose-gold?variant=44782028063038)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
+  - [20 inch (51cm)](https://www.lilyblanche.com/products/feather-pendant-rose-gold?variant=55962274365826)
+    Availability: Available
+    Price: £85.00 GBP
+  - [22 inch (56cm)](https://www.lilyblanche.com/products/feather-pendant-rose-gold?variant=55962274398594)
+    Availability: Available
+    Price: £90.00 GBP
   - [24 inch (61 cm)](https://www.lilyblanche.com/products/feather-pendant-rose-gold?variant=44782028128574)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £95.00 GBP
 - [Gold Vermeil Magical Charm - Wealth | Lily Blanche](https://www.lilyblanche.com/products/magical-charm-crown-wealth-gold): This charming gold vermeil Crown, which signifies wealth, opens to reveal a tiny frog. Free shipping and free luxury jewellery care kit worth £20 when you spend £75 or more
   Updated: 2025-07-20T06:59:08Z
   Vendor: Lily Blanche
@@ -2079,7 +2100,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Keepsake Egg: Champagne | Silver Easter Egg Necklace](https://www.lilyblanche.com/products/keepsake-egg-necklace-champagne): Gift our beautiful sterling silver egg locket with a secret message, strung on a strand of pale pink freshwater pearls. Free luxury jewellery care kit worth £20. Free shipping.
-  Updated: 2025-11-11T15:04:48Z
+  Updated: 2025-11-12T04:01:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -2284,23 +2305,23 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_41a22aac-824f-4518-83ea-9e151c689392.jpg?v=1741876601
   Price: £140.00 GBP
 - [Twist Pearl Bracelet Ivory | Pearl & Silver Bracelet | Lily Blanche](https://www.lilyblanche.com/products/twist-pearl-bracelet-ivory): Need a gorgeous bracelet? This classic twist pearl bracelet in ivory is made from freshwater pearls combine with twisted silver ropes and a silver heart clasp to form a pretty and wearable bracelet. Matching earrings available. Free UK shipping & jewellery care kit worth £20 with all orders. Shop online today.
-  Updated: 2025-07-26T08:30:34Z
+  Updated: 2025-11-13T17:46:37Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_b5d4214c-b7da-4ead-910e-67f22d44e51a.jpg?v=1741876620
   - [small 7.5 in (19 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-ivory?variant=44782077083966)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £70.00 GBP
   - [medium 8 in (20.32 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-ivory?variant=44782077116734)
     Availability: Available
-    Price: £70.00 GBP
+    Price: £75.00 GBP
   - [large 8.5 in (21.59 cm)](https://www.lilyblanche.com/products/twist-pearl-bracelet-ivory?variant=44782077149502)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £80.00 GBP
   - [make it bespoke to my size](https://www.lilyblanche.com/products/twist-pearl-bracelet-ivory?variant=44782077182270)
     Availability: Available
-    Price: £80.00 GBP
+    Price: £85.00 GBP
 - [Song in My Heart Locket | Rose Gold Bird Charm Necklace | Lily Blanche](https://www.lilyblanche.com/products/song-in-my-heart-locket-rose-gold): Searching for a personalised gift? This dainty, sterling silver heart locket with a little 3D bird charm in 18 rose carat gold vermeil is perfect as an 16th, 18th or 21st birthday gift. Personalise with one of your photos. Hallmarked in Edinburgh. Free UK Shipping & Luxury Gift Wrap included. Shop Online Today.
   Updated: 2025-08-15T10:12:49Z
   Vendor: Lily Blanche
@@ -2390,7 +2411,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Rose Quartz Earrings Rose Gold | Lily Blanche](https://www.lilyblanche.com/products/rose-quartz-earrings-rose-gold): These rose quartz gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity
-  Updated: 2025-10-12T13:40:00Z
+  Updated: 2025-11-13T17:50:47Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -2460,7 +2481,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_e6d54532-677b-4acc-b0af-f2be8b1b4de2.jpg?v=1741876844
   Price: £140.00 GBP
 - [Silver Feather Pendant | Lily Blanche](https://www.lilyblanche.com/products/feather-pendant-silver): Buy this elegant sterling silver feather pendant online today. Incorporating the best of British design, this detailed and beautifully crafted silver feather pendant is an ideal gift for a mother, sister or friend. Gift box and free UK shipping assured.
-  Updated: 2025-11-03T20:06:46Z
+  Updated: 2025-11-12T17:37:58Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -2511,7 +2532,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Memorial Feather Locket | Rose Gold Round Necklace | Lily Blanche](https://www.lilyblanche.com/products/feather-locket-rose-gold): Cherish your precious memories with this beautiful, rose gold vermeil picture locket featuring a wonderfully detailed feather charm in a matching or contrasting precious metal. Fill the locket with 2 of your own photos & engrave a special message. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Online Today
-  Updated: 2025-09-02T11:42:39Z
+  Updated: 2025-11-13T17:48:36Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -2525,12 +2546,30 @@ We take vintage jewellery designs and give them a modern twist by combining them
   - [18 inch (46 cm) curb chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758355774)
     Availability: Available
     Price: £215.00 GBP
-  - [24 inch (61 cm) curb chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758421310)
+  - [20 inch (51cm) curb chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288521602)
+    Availability: Available
+    Price: £200.00 GBP
+  - [20 inch (51cm) curb chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288554370)
+    Availability: Available
+    Price: £215.00 GBP
+  - [20 inch (51cm) curb chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288587138)
+    Availability: Available
+    Price: £215.00 GBP
+  - [22 inch (56cm)curb chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288619906)
     Availability: Available
     Price: £205.00 GBP
-  - [24 inch (61 cm) curb chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758486846)
+  - [22 inch (56cm)curb chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288652674)
     Availability: Available
     Price: £220.00 GBP
+  - [22 inch (56cm)curb chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288685442)
+    Availability: Available
+    Price: £220.00 GBP
+  - [24 inch (61 cm) curb chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758421310)
+    Availability: Available
+    Price: £210.00 GBP
+  - [24 inch (61 cm) curb chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758486846)
+    Availability: Available
+    Price: £225.00 GBP
   - [24 inch (61 cm) curb chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758552382)
     Availability: Available
     Price: £225.00 GBP
@@ -2542,7 +2581,52 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £230.00 GBP
   - [30 inch (72 cm) curb chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=45713758716222)
     Availability: Available
+    Price: £230.00 GBP
+  - [18 inch (46cm) belcher chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288718210)
+    Availability: Available
+    Price: £230.00 GBP
+  - [18 inch (46cm) belcher chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288750978)
+    Availability: Available
+    Price: £245.00 GBP
+  - [18 inch (46cm) belcher chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288783746)
+    Availability: Available
+    Price: £245.00 GBP
+  - [20 inch (51cm) belcher chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288816514)
+    Availability: Available
+    Price: £235.00 GBP
+  - [20 inch (51cm) belcher chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288849282)
+    Availability: Available
+    Price: £250.00 GBP
+  - [20 inch (51cm) belcher chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288882050)
+    Availability: Available
+    Price: £250.00 GBP
+  - [22 inch (56cm) belcher chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288914818)
+    Availability: Available
     Price: £240.00 GBP
+  - [22 inch (56cm) belcher chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288947586)
+    Availability: Available
+    Price: £255.00 GBP
+  - [22 inch (56cm) belcher chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962288980354)
+    Availability: Available
+    Price: £255.00 GBP
+  - [24 inch (61cm) belcher chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289013122)
+    Availability: Available
+    Price: £245.00 GBP
+  - [24 inch (61cm) belcher chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289045890)
+    Availability: Available
+    Price: £260.00 GBP
+  - [24 inch (61cm) belcher chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289078658)
+    Availability: Available
+    Price: £260.00 GBP
+  - [30 inch (72cm) belcher chain / Silver Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289111426)
+    Availability: Available
+    Price: £255.00 GBP
+  - [30 inch (72cm) belcher chain / Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289144194)
+    Availability: Available
+    Price: £270.00 GBP
+  - [30 inch (72cm) belcher chain / Rose Gold Feather](https://www.lilyblanche.com/products/feather-locket-rose-gold?variant=55962289176962)
+    Availability: Available
+    Price: £270.00 GBP
 - [Sterling Pearl Bracelet: Champagne | Lily Blanche](https://www.lilyblanche.com/products/sterling-pearl-bracelet-champagne): This pale pink freshwater pearl bracelet  features real pearls interspersed with sterling silver balls and finished with a sterling silver clasp.
   Updated: 2025-07-23T01:15:20Z
   Vendor: Lily Blanche
@@ -2634,7 +2718,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Garnet Earrings Rose Gold| Lily Blanche](https://www.lilyblanche.com/products/garnet-earrings-rose-gold): These Luminous rose gold vermeil garnet earrings have fabulous luminosity, clarity and depth of colour.</p>
-  Updated: 2025-10-12T13:45:00Z
+  Updated: 2025-11-13T12:48:08Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -2776,7 +2860,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Not Available
     Price: £80.00 GBP
 - [Silver Angel Key Pendant](https://www.lilyblanche.com/products/silver-angel-key-pendant): Sweet and charming, this little angel key pendant has angel wings, zirconia detailing and the word "love" picked out in gold vermeil. Free gift wrap.
-  Updated: 2025-11-11T17:59:44Z
+  Updated: 2025-11-13T13:16:14Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -2843,7 +2927,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a956e96e-a597-4ec5-8a20-9d55b1a02068.jpg?v=1741877344
   Price: £85.00 GBP
 - [Garnet Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/garnet-vintage-heart-locket-gold): Looking for a personalised gift? This gold vintage locket necklace features a heart-shaped garnet at its centre. The Garnet Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-11-11T10:35:05Z
+  Updated: 2025-11-13T16:30:55Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3224,14 +3308,14 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Bamboo Hoop Earrings Gold | Top Quality & Fast Delivery](https://www.lilyblanche.com/products/bamboo-hoop-earrings-gold): Looking for a twist on the classic hoop earring? These exquisite Bamboo Hoop Earrings in 24-carat gold vermeil will become your go-to earrings for every occasion. They also make the perfect gift for any age range. Next-day delivery available. Order online today and receive a free luxury jewellery care kit worth £20.
-  Updated: 2025-11-11T20:15:50Z
+  Updated: 2025-11-13T13:16:14Z
   Vendor: Lily Blanche
   Product Type: Earring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/img_proxy_af03ea50-acb4-433b-aac6-a587127ef340.jpg?v=1741877830
   Price: £85.00 GBP
 - [Citrine Earrings Rose Gold| Stone for Joy | Lily Blanche](https://www.lilyblanche.com/products/citrine-earrings-rose-gold): 100% satisfaction guaranteed. Get two free gifts with purchase today! Embrace the radiance of real citrine. November's birthstone is the gemstone for joy and positivity. Looking for a joyful, precious gift? Gifting these rose gold citrine earrings is like gifting rays of pure sunshine.
-  Updated: 2025-10-12T13:42:00Z
+  Updated: 2025-11-13T12:49:25Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -3253,21 +3337,21 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Rutilated Quartz Earrings Silver | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-earrings-silver): These rutilated quartz gemstone earrings in a silver setting have fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-10-12T13:44:00Z
+  Updated: 2025-11-13T23:33:46Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_93d2fb61-2d18-4d83-956d-741718fb23ec.jpg?v=1741877870
-  Price: £110.00 GBP
+  Price: £120.00 GBP
 - [Classic Pearl Earrings: Midnight | Lily Blanche](https://www.lilyblanche.com/products/classic-pearl-earrings-midnight): Classic midnight blue pearl stud earrings made with freshwater, cultured pearls.
-  Updated: 2025-07-25T15:50:01Z
+  Updated: 2025-11-13T17:50:26Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_daea87eb-5035-4547-ae8e-dae2ae710824.jpg?v=1741877918
-  Price: £65.00 GBP
+  Price: £70.00 GBP
 - [Rose Gold Rutilated Quartz Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-rose-gold): This rutilated quartz gemstone ring, in a rose gold vermeil setting, has fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-07-12T09:16:59Z
+  Updated: 2025-11-13T17:43:41Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -3325,7 +3409,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Four Photo Heart Charm Locket White Gold](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-white-gold): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in white gold vermeil. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & jewellery care kit!
-  Updated: 2025-11-11T07:07:55Z
+  Updated: 2025-11-13T06:32:42Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3379,7 +3463,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_1c7d1f86-1a49-4ad2-abc8-07c11f5bfa47.jpg?v=1741878063
   Price: £65.00 GBP
 - [Garnet Handbag Locket | Silver Purse Locket](https://www.lilyblanche.com/products/handbag-locket-garnet): This highly unsual sterling silver and garnet handbag locket opens to take a little keepsake. The perfect gift for a jewellery lover who likes to stand out from the crowd. As worn by tennis coach and Strictly star, Judy Murray. Hallmarked. Free shipping.
-  Updated: 2025-11-11T18:09:29Z
+  Updated: 2025-11-13T17:27:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3415,7 +3499,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Seahorse Locket in Silver | Summer Seashell Necklace | Lily Blanche](https://www.lilyblanche.com/products/seahorse-locket-silver): Cherish your memories with this lovely sterling silver seashell necklace which opens to take two photos and has a seahorse charm. The Seahorse Locket is the perfect holiday necklace. Use our speedy photo service for a unique gift. Now with free UK shipping & luxury gift wrap. Personalise this locket online today.
-  Updated: 2025-09-25T06:47:41Z
+  Updated: 2025-11-12T10:00:09Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -3606,7 +3690,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £225.00 GBP
 - [Gold Rutilated Quartz Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/rutilated-quartz-cocktail-ring-gold): This rutilated quartz gemstone ring, in a sterling silver setting, has fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-09-20T12:03:49Z
+  Updated: 2025-11-13T17:47:06Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -3742,137 +3826,161 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £15.00 GBP
 - [Rose Gold Egg Shaped Locket | Secret Message Necklace](https://www.lilyblanche.com/products/bird-locket-rose-gold): This beautiful, 18-carat rose gold vermeil egg locket features a cute bird charm. A perfect gift. Add a message inside the locket. Free UK delivery & gift wrap
-  Updated: 2025-08-13T14:31:14Z
+  Updated: 2025-11-13T17:48:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_96e91d86-2b8e-48d1-849b-d14343f852d8.jpg?v=1741878503
-  - [silver charm / 18 inch (46 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215594302)
+  - [silver charm / 18 inch (46 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215594302)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215627070)
+  - [silver charm / 18 inch (46 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215627070)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215659838)
+  - [silver charm / 18 inch (46 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215659838)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215692606)
+  - [silver charm / 18 inch (46 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215692606)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215725374)
+  - [silver charm / 18 inch (46 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215725374)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215758142)
+  - [silver charm / 18 inch (46 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215758142)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 18 inch (46 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215790910)
+  - [silver charm / 18 inch (46 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215790910)
     Availability: Available
     Price: £195.00 GBP
-  - [silver charm / 24 inch (61 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215823678)
+  - [silver charm / 20 inch (51 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320765314)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215856446)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320798082)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215889214)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320830850)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215921982)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320863618)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215954750)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320896386)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215987518)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320929154)
     Availability: Available
-    Price: £215.00 GBP
-  - [silver charm / 24 inch (61 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216020286)
+    Price: £200.00 GBP
+  - [silver charm / 20 inch (51 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320961922)
     Availability: Available
-    Price: £215.00 GBP
-  - [gold charm / 18 inch (46 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216053054)
-    Availability: Available
-    Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216085822)
+    Price: £200.00 GBP
+  - [silver charm / 22 inch (56 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962320994690)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216118590)
+  - [silver charm / 22 inch (56 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321027458)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216151358)
+  - [silver charm / 22 inch (56 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321060226)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216184126)
+  - [silver charm / 22 inch (56 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321092994)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216216894)
+  - [silver charm / 22 inch (56 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321125762)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 18 inch (46 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216249662)
+  - [silver charm / 22 inch (56 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321158530)
     Availability: Available
     Price: £205.00 GBP
-  - [gold charm / 24 inch (61 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216282430)
+  - [silver charm / 22 inch (56 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321191298)
+    Availability: Available
+    Price: £205.00 GBP
+  - [silver charm / 24 inch (61 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215823678)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216315198)
+  - [silver charm / 24 inch (61 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215856446)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216347966)
+  - [silver charm / 24 inch (61 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215889214)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216380734)
+  - [silver charm / 24 inch (61 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215921982)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216413502)
+  - [silver charm / 24 inch (61 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215954750)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216446270)
+  - [silver charm / 24 inch (61 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782215987518)
     Availability: Available
     Price: £215.00 GBP
-  - [gold charm / 24 inch (61 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216479038)
+  - [silver charm / 24 inch (61 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216020286)
     Availability: Available
     Price: £215.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216511806)
+  - [gold charm / 18 inch (46 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216053054)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216544574)
+  - [gold charm / 18 inch (46 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216085822)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216577342)
+  - [gold charm / 18 inch (46 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216118590)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216610110)
+  - [gold charm / 18 inch (46 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216151358)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216642878)
+  - [gold charm / 18 inch (46 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216184126)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216675646)
+  - [gold charm / 18 inch (46 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216216894)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 18 inch (46 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216708414)
+  - [gold charm / 18 inch (46 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216249662)
     Availability: Available
     Price: £205.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216741182)
+  - [gold charm / 20 inch (51 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321224066)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216773950)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321256834)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216806718)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321289602)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216839486)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321322370)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216872254)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321355138)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216905022)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321387906)
     Availability: Available
-    Price: £230.00 GBP
-  - [rose gold charm / 24 inch (61 cm) / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216937790)
+    Price: £210.00 GBP
+  - [gold charm / 20 inch (51 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321420674)
     Availability: Available
-    Price: £230.00 GBP
+    Price: £210.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321453442)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / I Love You](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321486210)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / Stay Safe](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321518978)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / Find Your Wings](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321551746)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / All Will Be Well](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321584514)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / Marry Me](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321617282)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 22 inch (56 cm) curb chain / Bespoke message by email](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=55962321650050)
+    Availability: Available
+    Price: £215.00 GBP
+  - [gold charm / 24 inch (61 cm) curb chain / No message](https://www.lilyblanche.com/products/bird-locket-rose-gold?variant=44782216282430)
+    Availability: Available
+    Price: £225.00 GBP
 - [Gold Green Amethyst Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/green-amethyst-cocktail-ring-rose-gold): This green amethyst gemstone ring, in a rose gold vermeil setting, has fabulous clarity, depth of colour and luminosity.
   Updated: 2025-10-15T21:31:41Z
   Vendor: Lily Blanche
@@ -4205,7 +4313,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £310.00 GBP
 - [Garnet Drop Hoop Earrings  in Gold | January Birthstone Gift](https://www.lilyblanche.com/products/garnet-drop-hoop-earrings-gold-january): These garnet gemstone hoop earrings show the real garnet gemstone to the best advantage. Perfect for January birthdays. Order today & get a free care kit worth £20
-  Updated: 2025-11-01T12:08:50Z
+  Updated: 2025-11-12T18:11:57Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -4247,7 +4355,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Garnet Charm Necklace Gold | January Birthstone Necklace](https://www.lilyblanche.com/products/garnet-charm-necklace-gold-january): This genuine Garnet Charm Necklace in Gold is the birthstone for January & the stone for Protection. Order your Garnet Charm Necklace today & get a free care kit.
-  Updated: 2025-11-07T17:41:21Z
+  Updated: 2025-11-13T13:28:32Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -5177,7 +5285,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £190.00 GBP
 - [Emerald Gold Charm Necklace May Birthstone Necklace](https://www.lilyblanche.com/products/emerald-charm-necklace-gold-may): Looking for a truly special gift? This genuine emerald solitaire necklace comes on a 9-carat gold curb chain. The birthstone for May, emerald is said to represent love and happiness. Free jewellery care kit worth £20 with all orders and express shipping is available. Shop online today.
-  Updated: 2025-09-11T23:22:30Z
+  Updated: 2025-11-13T17:41:50Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -5721,14 +5829,14 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Ruby Charm Necklace Solid  Gold  July Birthstone Necklace](https://www.lilyblanche.com/products/ruby-charm-necklace-gold-july): Looking for a meaningful necklace? A real ruby gemstone in a 9-carat solid gold setting has been beautifully cut to show off the light. The birthstone for July, this ruby necklace makes a perfect gift for a July birthday and can be personalised with an initial. Free luxury jewellery care kit. Shop online today.
-  Updated: 2025-10-28T15:27:52Z
+  Updated: 2025-11-13T17:48:36Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/ruby_gold_necklace1_1080.jpg?v=1741879433
-  Price: £290.00 GBP
+  Price: £315.00 GBP
 - [Sapphire Charm Necklace Solid Gold | Premium Quality September Birthstone](https://www.lilyblanche.com/products/sapphire-charm-necklace-gold-september): Shop our real sapphire necklace in solid 9-carat gold. The birthstone for September, sapphire represents strength & wisdom. Free shipping & jewellery care kit.
-  Updated: 2025-10-28T15:27:52Z
+  Updated: 2025-11-13T11:48:55Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -9473,7 +9581,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £295.00 GBP
 - [Rose Gold Bee Locket Hexagonal Necklace Free Photos](https://www.lilyblanche.com/products/bee-locket-rose-gold): Searching for a unique, engraveable necklace? This rose gold vermeil necklace holds two of your photos and can be engraved. Our Bee necklace is inspired by the city of Manchester where the bee is the symbol. Our Manchester bee necklace represents resilience and industry. Free UK shipping & express delivery available.
-  Updated: 2025-11-04T23:33:29Z
+  Updated: 2025-11-13T17:48:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9824,7 +9932,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain in White Gold Vermeil](https://www.lilyblanche.com/products/curb-chain-white-gold): Quality and strength assured, this classic, medium-weight white gold vermeil curb chain is the perfect chain for any occasion. Wear this bestselling chain on its own or with one of our white gold vermeil pendants or lockets. Free jewellery care kit included with all orders.
-  Updated: 2025-10-31T05:09:26Z
+  Updated: 2025-11-13T21:23:36Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9875,7 +9983,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £80.00 GBP
 - [Rose Gold Beaded Chain | High Quality & Fast Delivery | Lily Blanche](https://www.lilyblanche.com/products/beaded-chain-rose-gold): This pretty, gold-beaded chain will elevate the look of dainty lockets and pendants. Perfect for layering, the18 carat rose gold vermeil beaded satellite chain can also be worn on its own as a fine gold necklace. A jewellery box staple and a great gift. Order online today and receive a free jewellery care kit worth £20
-  Updated: 2025-08-13T14:04:24Z
+  Updated: 2025-11-13T13:03:39Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9953,7 +10061,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £100.00 GBP
 - [Rope Chain | White Gold | High Quality & Fast Delivery | Lily Blanche](https://www.lilyblanche.com/products/rope-chain-white-gold): Looking for a beautiful white gold chain? This extra strong, high-quality 18-carat white gold vermeil diamond cut rope chain will add interest and texture to any pendant or locket. Pretty enough to be worn on its own or layered with other necklaces. Order online today and receive a free jewellery care kit worth £20.
-  Updated: 2025-11-01T18:58:40Z
+  Updated: 2025-11-13T00:11:00Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -10088,7 +10196,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Belcher Chain Gold](https://www.lilyblanche.com/products/belcher-chain-gold): This strong 18-carat gold vermeil medium-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit worth £20
-  Updated: 2025-11-11T20:11:47Z
+  Updated: 2025-11-13T21:52:11Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -10133,7 +10241,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Belcher Chain  White Gold Premium Quality](https://www.lilyblanche.com/products/belcher-chain-white-gold): This premium quality white gold vermeil belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look.
-  Updated: 2025-11-10T19:51:56Z
+  Updated: 2025-11-12T01:57:31Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -10330,7 +10438,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Grey Baroque Pearl Necklace | Silver | Top Quality | Lily Blanche](https://www.lilyblanche.com/products/baroque-pearl-necklace-grey-silver): This stunning real freshwater baroque pearl necklace features a large cultured grey Keshi pearl in a sterling silver setting. Our sustainably sourced and undyed pearl necklaces are renowned for their lustre and luminosity. Next-day delivery is available. Gift one today and receive a free jewellery care kit worth £20
-  Updated: 2025-11-03T12:58:46Z
+  Updated: 2025-11-13T17:28:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -10372,7 +10480,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Grey Baroque Pearl Necklace | Rose Gold | Top Quality | Lily Blanche](https://www.lilyblanche.com/products/baroque-pearl-necklace-grey-rose-gold): This stunning real freshwater baroque pearl necklace features a large cultured black keshi pearl in a rose gold vermeil setting. Our sustainably sourced and undyed pearl necklaces are renowned for their lustre and luminosity. Next-day delivery is available. Gift one today and receive a free jewellery care kit worth £20
-  Updated: 2025-11-03T12:58:46Z
+  Updated: 2025-11-13T17:28:55Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -10518,61 +10626,61 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Friendship Ring | Gold Band Ring | Lily Blanche](https://www.lilyblanche.com/products/friendship-band-ring-gold): this gold band ring works as stacking ring, or friendship ring. A simple gold band, with a hammered effect which can be used as a promise or wedding ring
-  Updated: 2025-11-06T11:53:12Z
+  Updated: 2025-11-13T17:48:51Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_b88387f5-ec86-4573-abb1-0e71bc8df165.jpg?v=1741881412
   - [L/M](https://www.lilyblanche.com/products/friendship-band-ring-gold?variant=44782554317118)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [N/O](https://www.lilyblanche.com/products/friendship-band-ring-gold?variant=44782554349886)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/friendship-band-ring-gold?variant=44782554382654)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [R/S](https://www.lilyblanche.com/products/friendship-band-ring-gold?variant=44782554415422)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
 - [Friendship Ring | Silver  Band Ring | Lily Blanche](https://www.lilyblanche.com/products/friendship-band-ring-silver): this silver  band ring works as stacking ring, or friendship ring. A simple gold band, with a hammered effect which can be used as a promise or wedding ring
-  Updated: 2025-11-06T11:53:28Z
+  Updated: 2025-11-13T17:49:15Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_8fb292a1-003d-45c1-9090-f9642d3cc122.jpg?v=1741881433
   - [L/M](https://www.lilyblanche.com/products/friendship-band-ring-silver?variant=44782555758910)
     Availability: Available
-    Price: £55.00 GBP
+    Price: £65.00 GBP
   - [N/O](https://www.lilyblanche.com/products/friendship-band-ring-silver?variant=44782555791678)
     Availability: Available
-    Price: £55.00 GBP
+    Price: £65.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/friendship-band-ring-silver?variant=44782555824446)
     Availability: Available
-    Price: £55.00 GBP
+    Price: £65.00 GBP
   - [R/S](https://www.lilyblanche.com/products/friendship-band-ring-silver?variant=44782555857214)
     Availability: Available
-    Price: £55.00 GBP
+    Price: £65.00 GBP
 - [Friendship Ring | Gold Band Ring | Lily Blanche](https://www.lilyblanche.com/products/friendship-band-ring-rose-gold): this rose gold band ring works as stacking ring, or friendship ring. A simple gold band, with a hammered effect which can be used as a promise or wedding ring
-  Updated: 2025-11-06T11:53:28Z
+  Updated: 2025-11-13T17:49:15Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_edb73e7a-3b5f-4cab-9341-bb9f8c440754.jpg?v=1741881445
   - [L/M](https://www.lilyblanche.com/products/friendship-band-ring-rose-gold?variant=44782556545342)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [N/O](https://www.lilyblanche.com/products/friendship-band-ring-rose-gold?variant=44782556578110)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/friendship-band-ring-rose-gold?variant=44782556610878)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [R/S](https://www.lilyblanche.com/products/friendship-band-ring-rose-gold?variant=44782556643646)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
 - [Four Picture Heart Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-gold): Keep your loved ones close to your heart with this pretty four photo heart-shaped locket in 18 carat gold vermeil. The unique necklace can be personalised with four of your photos and engraved with a message. The charm locket is hallmarked in Edinburgh. Free locket photos & free shipping. Shop online today.
-  Updated: 2025-11-09T20:00:21Z
+  Updated: 2025-11-13T20:48:00Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -10692,18 +10800,24 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Four Photo Oval Locket | Stunning Rose Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold): There are few gifts as romantic as this beautiful four photo oval shaped locket in 18 carat rose gold vermeil, the perfect way to keep your loved ones close to your heart. The locket holds four of your photos and can be engraved. Personalise your locket online today with Free UK Shipping & Express Delivery Available.
-  Updated: 2025-10-28T13:09:44Z
+  Updated: 2025-11-13T17:37:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_37908584-111e-4b22-9989-bc12dfd401f3.jpg?v=1741881563
-  - [18 inch (46 cm)](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568210750)
+  - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568210750)
     Availability: Available
     Price: £265.00 GBP
-  - [24 inch (61 cm)](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568341822)
+  - [20 inch (51cm) curb chain](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=55962343899522)
     Availability: Available
-    Price: £285.00 GBP
-  - [30 inch (72 cm)](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568472894)
+    Price: £270.00 GBP
+  - [22 inch (56cm) curb chain](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=55962343932290)
+    Availability: Available
+    Price: £280.00 GBP
+  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568341822)
+    Availability: Available
+    Price: £290.00 GBP
+  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/four-picture-oval-locket-rose-gold?variant=44782568472894)
     Availability: Available
     Price: £305.00 GBP
 - [Four Picture Oval Locket | White Gold Photo Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-oval-locket-white-gold): Need a truly personalised gift? This beautiful four photo oval shaped locket in 18 carat white  gold vermeil is the perfect way to keep your loved ones close to your heart. The locket holds four of your photos and can be engraved. Personalise your locket online today with Free UK Shipping & Luxury Gift Wrap Included!
@@ -10776,7 +10890,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £215.00 GBP
 - [Garnet Birthstone Bangle | Silver | January](https://www.lilyblanche.com/products/garnet-charm-bangle-silver-january): A stunning, real garnet forms the centrepiece of this beautiful silver January birthstone charm bangle. Matching necklace & earrings available. The perfect gift for a January birthday. Order today with free shipping and receive a complimentary jewellery care kit.
-  Updated: 2025-10-22T21:13:29Z
+  Updated: 2025-11-12T18:06:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -10932,7 +11046,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Amethyst Bangle Silver | February Birthstone Bangle](https://www.lilyblanche.com/products/amethyst-charm-bangle-silver-february): This pretty amethyst charm bangle in high-quality silver is the perfect gift for a February birthday. Order your amethyst charm bangle online for free delivery.
-  Updated: 2025-10-22T21:01:29Z
+  Updated: 2025-11-12T17:54:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11088,7 +11202,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Amethyst Charm Bangle Gold | February Birthstone Bangle](https://www.lilyblanche.com/products/amethyst-charm-bangle-gold-february): This stunning, genuine amethyst charm bangle in 18 carat gold vermeil is the perfect gift for a February birthday. Order now & get a free jewellery care kit worth £20
-  Updated: 2025-11-03T11:33:40Z
+  Updated: 2025-11-12T18:07:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11244,7 +11358,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Amethyst Charm Bangle Rose Gold | February Birthstone Bangle](https://www.lilyblanche.com/products/amethyst-charm-bangle-rose-gold-february): This beautiful Amethyst Charm Bangle in rose gold vermeil is the perfect gift for a February birthday. Order online today with free shipping & care kit worth £20
-  Updated: 2025-10-22T21:04:29Z
+  Updated: 2025-11-12T17:57:06Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11400,7 +11514,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [Aqua Chalcedony Bangle in Silver | March Birthstone | Lily Blanche](https://www.lilyblanche.com/products/aqua-chalcedony-charm-bangle-silver-march): This Aqua Chalcedony Bangle in Silver is the perfect gift for a March birthday. A stunning, real aqua chalcedony, the birthstone for March, adorns this beautiful stacking bangle which can be customised with additional gemstones. Comes in a ribbon-tied gift box. Order online today to receive a free jewellery care kit
-  Updated: 2025-11-03T12:26:00Z
+  Updated: 2025-11-12T17:51:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11556,7 +11670,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £145.00 GBP
 - [Aqua Chalcedony Bangle Gold | March Birthstone Bangle | Lily Blanche](https://www.lilyblanche.com/products/aqua-chalcedony-charm-bangle-gold-march): This Aqua Chalcedony Bangle in gold vermeil makes a stunning gift or keepsake. A real aqua chalcedony gemstone adorns this March birthstone bangle which can be customised with additional gemstones or charms. Order online today to receive free UK shipping & a complimentary jewellery care kit worth £20!
-  Updated: 2025-11-03T12:26:00Z
+  Updated: 2025-11-12T17:56:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11712,7 +11826,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Aqua Chalcedony Bangle | Rose Gold | March Birthstone](https://www.lilyblanche.com/products/aqua-chalcedony-charm-bangle-rose-gold-march): This beautiful Aqua Chalcedony Charm Bangle in rose gold vermeil is the perfect gift for a March birthday. The bangle is handcrafted & features a genuine aqua chalcedony gemstone. It can be customized with additional charms. Order your aqua chalcedony charm bangle online today and receive free UK shipping!
-  Updated: 2025-11-03T12:26:00Z
+  Updated: 2025-11-12T17:47:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -11868,7 +11982,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [White Quartz Charm Bangle | Silver Birthstone Bangle | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-charm-bangle-silver-april): Looking for a personalised gift? This stunning, real white quartz gemstone forms the centrepiece of this beautiful April birthstone bracelet which can be customised with additional gemstones or charms. The perfect gift for an April birthday. Shop online now. Express delivery available & free gift wrap included.
-  Updated: 2025-10-22T21:11:29Z
+  Updated: 2025-11-12T18:04:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -12024,7 +12138,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [White Quartz Charm Gold Bangle | Birthstone Bangle | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-charm-bangle-gold-april): This stunning, real white quartz gemstone forms the centrepiece of this beautiful April birthstone bracelet which can be customised with additional gemstones or charms. Made from 18 carat gold vermeil. Free UK delivery & luxury jewellery care kit included. Express delivery available, shop gemstone bangles online now.
-  Updated: 2025-10-22T20:51:29Z
+  Updated: 2025-11-12T17:45:08Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -12180,7 +12294,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [White Quartz Charm Rose Gold Bangle | Birthstone Bangle | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-charm-bangle-rose-gold-april): Shopping for a bangle? A stunning, real white quartz gemstone forms the centrepiece of this beautiful April birthstone bracelet which can be customised with additional gemstones. Made from 18 carat rose gold vermeil. Free shipping and express delivery available. Shop online today. Luxury jewellery care kit included.
-  Updated: 2025-10-22T20:57:29Z
+  Updated: 2025-11-12T17:50:08Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -12354,7 +12468,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Moonstone Bangle Silver | June Birthstone Bangle](https://www.lilyblanche.com/products/moonstone-charm-bangle-silver-june): A stunning, moonstone forms the centrepiece of this beautiful silver June birthstone bracelet which can be customised with additional gemstones or charms.
-  Updated: 2025-10-22T21:12:29Z
+  Updated: 2025-11-12T18:05:07Z
   Vendor: Lily Blanche
   Product Type: Bangle
   Availability: Available
@@ -12510,7 +12624,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £145.00 GBP
 - [Moonstone Bangle Rose Gold |  June Birthstone Bangle](https://www.lilyblanche.com/products/moonstone-charm-bangle-gold-june): A real moonstone forms the centre of this beautiful gold vermeil June birthstone bracelet. Customise with additional gemstones or charms. Free shipping today
-  Updated: 2025-10-22T20:45:28Z
+  Updated: 2025-11-12T17:38:13Z
   Vendor: Lily Blanche
   Product Type: Bangle
   Availability: Available
@@ -12666,7 +12780,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Moonstone Bangle Rose Gold | June Birthstone Bangle](https://www.lilyblanche.com/products/moonstone-charm-bangle-rose-gold-june): A stunning, moonstone forms the centrepiece of this beautiful rose gold veremil  June birthstone bracelet which can be customised with additional gemstones or charms.
-  Updated: 2025-10-22T21:11:29Z
+  Updated: 2025-11-12T18:04:07Z
   Vendor: Lily Blanche
   Product Type: Bangle
   Availability: Available
@@ -12822,7 +12936,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Peridot Bangle |  Silver | August Birthstone | Lily Blanche](https://www.lilyblanche.com/products/peridot-charm-bangle-silver-august): A stunning, green peridot gemstone forms the centrepiece of this beautiful silver August birthstone bracelet which can be customised with additional gemstones or charms.
-  Updated: 2025-10-22T20:48:28Z
+  Updated: 2025-11-12T17:41:11Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -12978,7 +13092,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Peridot Bangle |  Rose Gold | August Birthstone | Exceptional Quality](https://www.lilyblanche.com/products/peridot-charm-bangle-rose-gold-august): A stunning peridot forms the focus of this beautiful rose gold vermeil  August birthstone bangle which can be customised with additional gemstones or charms
-  Updated: 2025-11-03T14:27:31Z
+  Updated: 2025-11-12T17:53:11Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13134,7 +13248,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Lily Blanche | Pink Opal Bangle|  Silver | October](https://www.lilyblanche.com/products/pink-opal-charm-bangle-silver-october): A stunning, genuine pink opal forms the centrepiece of this beautiful silver October  birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-22T21:07:29Z
+  Updated: 2025-11-12T18:00:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13290,7 +13404,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Lily Blanche | Pink Opal |  Gold | October](https://www.lilyblanche.com/products/pink-opal-charm-bangle-gold-october): A stunning, real pink opal  forms the centrepiece of this beautiful gold veremil  October birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-22T21:15:29Z
+  Updated: 2025-11-12T18:08:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13413,7 +13527,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Lily Blanche | Pink Opal | Rose Gold | October](https://www.lilyblanche.com/products/pink-opal-charm-bangle-rose-gold-october): A stunning, real pink opal gemstone adorns this beautiful rose gold vermeil  October birthstone bracelet which can be customised with additional gemstones or charms. Shop now.
-  Updated: 2025-10-22T21:02:29Z
+  Updated: 2025-11-12T17:55:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13569,7 +13683,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Lily Blanche | Citrine | Rose Gold | November](https://www.lilyblanche.com/products/citrine-charm-bangle-rose-gold-november): A stunning, real citrine gemstone  forms the centrepiece of this beautiful rose gold veremil  November birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-22T20:51:29Z
+  Updated: 2025-11-12T17:44:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13725,7 +13839,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [Citrine Bangle  Gold | November's Birthstone Bangle](https://www.lilyblanche.com/products/citrine-charm-bangle-gold-november): A stunning, real citrine gemstone  forms the centrepiece of this beautiful  gold veremil  November birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-30T13:43:15Z
+  Updated: 2025-11-12T17:39:10Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -13881,7 +13995,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [Lily Blanche | Citrine Bangle|  Silver | November](https://www.lilyblanche.com/products/citrine-charm-bangle-silver-november): A stunning, genuine citrine forms the centrepiece of this beautiful silver November  birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-22T21:02:29Z
+  Updated: 2025-11-12T17:56:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14037,7 +14151,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Lily Blanche |Blue Topaz Bangle|  Silver | December](https://www.lilyblanche.com/products/blue-topaz-charm-bangle-silver-december): A stunning, real blue topaz gemstone forms the centrepiece of this beautiful silver December  birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-11-03T14:20:55Z
+  Updated: 2025-11-12T18:07:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14193,7 +14307,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Lily Blanche | Blue Topaz Bangle |  Gold | December](https://www.lilyblanche.com/products/blue-topaz-charm-bangle-gold-december): A stunning, real blue topaz gemstone  forms the centrepiece of this beautiful  gold veremil  December birthstone bracelet which can be customised with additional gemstones or charms
-  Updated: 2025-10-22T20:57:29Z
+  Updated: 2025-11-12T17:50:08Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14349,7 +14463,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £125.00 GBP
 - [Blue Topaz Bangle |  Rose Gold | December Birthstone](https://www.lilyblanche.com/products/blue-topaz-charm-bangle-rose-gold-december): A stunning, real blue topaz gemstone forms the centrepiece of this beautiful rose gold veremil  December birthstone bracelet which can be customised with additional gemstones or charms. Order today with free shipping
-  Updated: 2025-10-22T21:05:29Z
+  Updated: 2025-11-12T17:58:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14505,7 +14619,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [Garnet Birthstone Bangle |  January | Gold](https://www.lilyblanche.com/products/garnet-charm-bangle-gold-january): A stunning, real garnet gemstone forms the centrepiece of this beautiful gold vermeil January birthstone bracelet which can be customised with additional gemstones or charms. The perfect gift for a January birthday. order today and receive a free jewellery care kit.
-  Updated: 2025-10-26T08:27:56Z
+  Updated: 2025-11-12T18:06:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14661,7 +14775,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £170.00 GBP
 - [Garnet Birthstone Bangle |  Gold | December](https://www.lilyblanche.com/products/garnet-charm-bangle-rose-gold-january): A stunning, real garnet gemstone forms the centrepiece of this beautiful rose gold vermeil  January birthstone bracelet which can be customised with additional gemstones or charms. The ideal gift for a January birthday. Order today and receive a free jewellery care kit.
-  Updated: 2025-10-22T20:56:29Z
+  Updated: 2025-11-12T17:49:09Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -14909,7 +15023,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_ea79bc00-a9f1-4ae1-b9b3-c7dc08a0a510.jpg?v=1741882455
   Price: £125.00 GBP
 - [Rose Gold Carnelian Earrings | July Birthstone | Lily Blanche](https://www.lilyblanche.com/products/carnelian-earrings-rose-gold): These real carnelian gemstone earring in a 18 carat rose gold vermeil setting have fabulous clarity, depth of colour and luminosity. Matching rings available. Shop now.
-  Updated: 2025-10-12T13:30:59Z
+  Updated: 2025-11-13T17:50:27Z
   Vendor: Lily Blanche
   Product Type: Hoop
   Availability: Available
@@ -14986,7 +15100,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_4d08452f-fb6e-40dc-a8b3-daec90b7305e.jpg?v=1741882713
   Price: £65.00 GBP
 - [Ruby Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-gold): Looking for the perfect romantic gift? This Ruby Vintage Heart Locket features a gorgeous garnet, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Full UK Hallmark. This is a perfect gift for a loved one or for yourself. Free UK Shipping & Luxury Gift Wrap. Shop Online Today.
-  Updated: 2025-10-29T14:19:55Z
+  Updated: 2025-11-13T16:41:22Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15036,32 +15150,8 @@ We take vintage jewellery designs and give them a modern twist by combining them
   - [30 inch (72cm) twist chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-gold?variant=55886980317570)
     Availability: Available
     Price: £350.00 GBP
-- [Ruby Heart Locket White Gold  | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold): Looking for the perfect personalised gift? This white gold vintage locket necklace features a heart-shaped ruby at its centre. The Ruby Vintage Heart Locket opens to take two of your photos. The locket is also hallmarked and comes with a free chain. The perfect gift for a loved one. Free UK shipping. Buy Online Today.
-  Updated: 2025-10-09T17:00:26Z
-  Vendor: Lily Blanche
-  Product Type: Locket
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_87783686-80de-48de-9b7c-9e3b599f4064.jpg?v=1741882753
-  - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=44782771306814)
-    Availability: Available
-    Price: £285.00 GBP
-  - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=47619150283070)
-    Availability: Available
-    Price: £335.00 GBP
-  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=44782771437886)
-    Availability: Available
-    Price: £305.00 GBP
-  - [24 inch (61 cm) belcher chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=47619150315838)
-    Availability: Available
-    Price: £350.00 GBP
-  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=44782771175742)
-    Availability: Available
-    Price: £330.00 GBP
-  - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-white-gold?variant=47619150348606)
-    Availability: Available
-    Price: £365.00 GBP
 - [Ruby Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-silver): Keep your loved ones close with this Ruby Vintage Heart Locket, featuring a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Luxury Jewellery Care Kit Included. Express Delivery Available. Shop Online Today.
-  Updated: 2025-10-09T17:01:26Z
+  Updated: 2025-11-13T16:41:22Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15094,7 +15184,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Ruby Heart Locket Rose Gold | Free Photos| Lily Blanche](https://www.lilyblanche.com/products/ruby-vintage-heart-locket-rose-gold): Need a luxurious romantic gift? This Ruby Vintage Heart Locket features a gorgeous ruby gemstone, the birthstone of July. This beautiful vintage locket opens to take two of your photos. Hallmarked in Edinburgh. Free UK Shipping & Scented Gift Wrap. Express Delivery is Available. Order Yours Online Today.
-  Updated: 2025-10-09T16:56:26Z
+  Updated: 2025-11-13T16:41:22Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15409,7 +15499,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_5fbfd1fa-b28d-45c2-8c4d-674e20bd9032.jpg?v=1741883647
   Price: £65.00 GBP
 - [Citrine 5mm Mini Stud Earrings Silver | October Birthstone Stud Earrings| Lily Blanche](https://www.lilyblanche.com/products/citrine-mini-stud-earrings-silver-november): A pretty pair of real citrine  stud earrings measuring 5mm in a sterling silver setting.  October birthstone earrings  & the ideal birthday gift. Shop now
-  Updated: 2025-10-29T22:59:30Z
+  Updated: 2025-11-13T22:36:14Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -15553,7 +15643,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Commemorative Queen Elizabeth Necklace | Silver Locket](https://www.lilyblanche.com/products/limited-edition-queen-elizabeth-4-photo-locket): This Limited Edition, heirloom silver locket, features Queen Elizabeth II's rare Platinum Jubilee hallmark and holds four photos. Free UK Shipping & care kit
-  Updated: 2025-08-14T10:38:48Z
+  Updated: 2025-11-13T12:50:07Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15903,28 +15993,28 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Silver Small Round Diamond Necklace | Diamond Pendant | Lily Blanche](https://www.lilyblanche.com/products/silver-small-round-diamond-necklace): This solid silver and diamond necklace has been beautifully crafted with an ethically sourced diamond at its centre. A beautiful & meaningful birthday gift for an 18th or 21st birthday. Matching earrings available. Free UK shipping & jewellery care kit included. Express shipping is available. Order online today.
-  Updated: 2025-08-15T10:05:45Z
+  Updated: 2025-11-13T13:06:13Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_2ae1d3fb-3bd2-4412-ac16-08f74b28c83f.jpg?v=1741884212
   Price: £120.00 GBP
 - [Silver Small Heart Diamond Necklace | Diamond Pendant | Lily Blanche](https://www.lilyblanche.com/products/silver-small-heart-diamond-necklace): This solid silver and diamond necklace has been beautifully crafted with an ethically sourced diamond at its centre. A beautiful gift for her. Matching earrings available. Free UK shipping & luxury jewellery care kit included. Express delivery available. Shop online today from an award winning UK jewellery brand.
-  Updated: 2025-09-17T02:30:40Z
+  Updated: 2025-11-13T13:04:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_d12e5cb8-2185-4898-b165-2a2345113b81.jpg?v=1741884226
-  Price: £125.00 GBP
+  Price: £135.00 GBP
 - [Silver Diamond Round Stud Earrings | Real Diamond Studs | Lily Blanche](https://www.lilyblanche.com/products/silver-diamond-round-stud-earrings): These solid silver and diamond stud earrings have been beautifully crafted with two ethically sourced diamonds at their focal point. A timeless gift for every woman. Matching necklace available. Free shipping & luxury jewellery care kit included. Express delivery available. Order yours online today.
-  Updated: 2025-07-19T00:02:11Z
+  Updated: 2025-11-13T12:55:39Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_6af52463-eb31-418a-9a08-c612b911266e.jpg?v=1741884239
   Price: £90.00 GBP
 - [Silver Diamond Heart Stud Earrings | Real Diamond Studs | Lily Blanche](https://www.lilyblanche.com/products/silver-diamond-heart-stud-earrings): These solid silver and diamond heart shaped stud earrings have been beautifully crafted with two ethically sourced diamonds at their focal point. A gorgeous gift. Matching necklace available. Free shipping & luxury gift wrap included. Ready for gifting. Express delivery is available, order online today.
-  Updated: 2025-07-19T03:50:40Z
+  Updated: 2025-11-13T12:58:09Z
   Vendor: Lily Blanche
   Product Type: Stud
   Availability: Available
@@ -15964,7 +16054,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [2 Photo Heart Locket Silver Top Quality Engravable Necklace](https://www.lilyblanche.com/products/large-2-photo-heart-locket-silver): Keep loved ones close with this two photo heart shaped locket in sterling silver is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-11-11T10:28:42Z
+  Updated: 2025-11-13T16:29:52Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16109,41 +16199,41 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_4280b9aa-f8be-467b-b384-f5ea3e6a5efd.jpg?v=1741884353
   Price: £110.00 GBP
 - [Men's Silver Ring | Hammered Ring | Lily Blanche](https://www.lilyblanche.com/products/mens-hammered-silver-ring): this silver band ring works as stacking ring, or a promise ring. A simple silver band, with a hammered effect which can be used as a promise or wedding ring
-  Updated: 2025-08-28T11:27:06Z
+  Updated: 2025-11-13T17:49:29Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_381b13a9-25f5-4630-b7bd-b61829405e02.jpg?v=1741884369
   - [L/M](https://www.lilyblanche.com/products/mens-hammered-silver-ring?variant=44782926266686)
     Availability: Available
-    Price: £60.00 GBP
+    Price: £65.00 GBP
   - [N/O](https://www.lilyblanche.com/products/mens-hammered-silver-ring?variant=44782926299454)
     Availability: Available
-    Price: £60.00 GBP
+    Price: £65.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/mens-hammered-silver-ring?variant=44782926332222)
     Availability: Available
-    Price: £60.00 GBP
+    Price: £65.00 GBP
   - [R/S](https://www.lilyblanche.com/products/mens-hammered-silver-ring?variant=44782926364990)
     Availability: Available
-    Price: £60.00 GBP
+    Price: £65.00 GBP
 - [Men's Gold Ring | Hammered Ring | Lily Blanche](https://www.lilyblanche.com/products/mens-hammered-gold-ring): this gold band ring works as stacking ring, or a promise ring. A simple gold band, with a hammered effect which can be used as a promise or wedding ring
-  Updated: 2025-08-28T11:26:16Z
+  Updated: 2025-11-13T17:49:15Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_94f3757b-68ad-481f-ac00-2d573783469a.jpg?v=1741884906
   - [L/M](https://www.lilyblanche.com/products/mens-hammered-gold-ring?variant=44782928724286)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [N/O](https://www.lilyblanche.com/products/mens-hammered-gold-ring?variant=44782928757054)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [P/Q](https://www.lilyblanche.com/products/mens-hammered-gold-ring?variant=44782928789822)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [R/S](https://www.lilyblanche.com/products/mens-hammered-gold-ring?variant=44782928822590)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
 - [Sterling Silver Men's Dog Tag Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother, this necklace is a jewellery box classic. Order online today and receive a free jewellery care kit worth £20!
   Updated: 2025-11-08T15:55:40Z
   Vendor: Lily Blanche
@@ -16259,7 +16349,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_92ae2c16-fa97-4c95-8657-333d5648be2f.jpg?v=1741884502
   Price: £145.00 GBP
 - [Sapphire Heart Locket White Gold | Sapphire Necklace | Lily Blanche](https://www.lilyblanche.com/products/sapphire-heart-locket-white-gold): Need a special gift? This sapphire locket in 18 carat white gold vermeil hides a photo inside. A perfect 16th, 18th or 21st birthday gift, this pretty and romantic locket is hallmarked in Edinburgh. Free UK Shipping. Free jewellery care kit included worth £20. Personalise your locket online today.
-  Updated: 2025-09-17T14:59:41Z
+  Updated: 2025-11-13T18:04:31Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16628,7 +16718,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [King Charles III Coronation Necklace | Lily Blanche | Limited edition](https://www.lilyblanche.com/products/limited-edition-king-charles-iii-coronation-necklace): Celebrate the coronation of King Charles III with this limited-edition necklace. This stunning piece features the Commemorative Hallmark for the King's Coronation. The necklace be personalised with engraving. Order yours online today and receive a free jewellery care kit!
-  Updated: 2025-10-25T01:10:06Z
+  Updated: 2025-11-13T12:53:02Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16649,7 +16739,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £130.00 GBP
 - [King Charles III Coronation Bracelet| Lily Blanche | Limited edition](https://www.lilyblanche.com/products/limited-edition-king-charles-iii-coronation-bracelet): Celebrate the coronation of King Charles III with this limited-edition royal charm bracelet. This stunning piece features the Commemorative Hallmark for the King's Coronation. Personalise with engraving and additional royal charms. Order yours online today and receive a free jewellery care kit!
-  Updated: 2025-06-13T09:29:55Z
+  Updated: 2025-11-13T12:51:07Z
   Vendor: Lily Blanche
   Product Type: Bracelet
   Availability: Available
@@ -16673,29 +16763,29 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £330.00 GBP
 - [Men's Rose Gold Ring | High Quality Hammered Ring | Lily Blanche](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring): This Men's hammered rose gold ring works as stacking ring, or a promise ring. A simple rose gold band, with a hammered effect which can be used as a promise or wedding ring. Shop online today & receive a free jewellery care kit worth £20. Express delivery is available.
-  Updated: 2025-08-28T11:26:52Z
+  Updated: 2025-11-13T17:49:29Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_a623f118-fc17-49c8-a7dc-dc043c3f644b.jpg?v=1741885251
   - [N](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130007358)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [0](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130040126)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [P](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130072894)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [Q](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130105662)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [R](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130138430)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
   - [S](https://www.lilyblanche.com/products/mens-hammered-rose-gold-ring?variant=45536130171198)
     Availability: Available
-    Price: £65.00 GBP
+    Price: £80.00 GBP
 - [Men's Hexagon Locket Necklace | White Gold Vermeil | Chain Included](https://www.lilyblanche.com/products/mens-hexagon-locket-necklace-white-gold): This beautiful men's white gold vermeil hexagon locket is a perfect way to treasure your memories. Personalise with our complimentary photo service & engrave a meaningful message. Chain, photos & giftwrap and care kit included. Order online today!
   Updated: 2025-11-06T18:39:15Z
   Vendor: Lily Blanche
@@ -16811,7 +16901,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Men's Rose Gold Round Locket Necklace | Lily Blanche | Free Photos](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold): This men's round solid 18 carat rose gold vermeil photo locket, which can be engraved, opens to take two photos or a tiny keepsake. Order online today with a free luxury jewellery care kit worth £20
-  Updated: 2025-10-19T17:55:44Z
+  Updated: 2025-11-13T17:50:27Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16819,12 +16909,15 @@ We take vintage jewellery designs and give them a modern twist by combining them
   - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536137675070)
     Availability: Available
     Price: £170.00 GBP
-  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536138068286)
+  - [20 inch (51cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=55962429620610)
     Availability: Available
     Price: £175.00 GBP
-  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536137937214)
+  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536138068286)
     Availability: Available
     Price: £180.00 GBP
+  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536137937214)
+    Availability: Available
+    Price: £185.00 GBP
   - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold?variant=45536138199358)
     Availability: Available
     Price: £210.00 GBP
@@ -17093,7 +17186,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [2 Photo Heart Locket Gold Top Quality Engravable Locket](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold): Keep loved ones close with this two-photo heart-shaped locket in 18-carat gold vermeil is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-11-07T15:58:35Z
+  Updated: 2025-11-13T16:44:53Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17141,7 +17234,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-11-07T06:15:12Z
+  Updated: 2025-11-13T19:51:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17177,46 +17270,46 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-11-11T11:35:17Z
+  Updated: 2025-11-13T18:00:06Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/st_christopher_silver_necklace_1_1080.jpg?v=1741886026
   - [18 inch (46 cm) silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=49867740381502)
     Availability: Available
-    Price: £68.00 GBP
+    Price: £72.25 GBP
   - [20 inch (51 cm) silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=47435014832446)
     Availability: Available
-    Price: £72.00 GBP
+    Price: £76.50 GBP
   - [22 inch (56 cm ) silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=47523846488382)
     Availability: Available
-    Price: £76.00 GBP
+    Price: £80.75 GBP
   - [24 inch (60cm) silver curb (1.75 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=49492234207550)
     Availability: Available
-    Price: £80.00 GBP
+    Price: £85.00 GBP
   - [18 in (46 cm) silver rope (1.5 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=47523846553918)
     Availability: Available
-    Price: £76.00 GBP
+    Price: £80.75 GBP
   - [20 inch (51 cm) silver rope  (1.5 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=47523846586686)
     Availability: Available
-    Price: £80.00 GBP
+    Price: £85.00 GBP
   - [24 inch (60cm) silver rope chain (1.5 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=47523846619454)
     Availability: Available
-    Price: £88.00 GBP
+    Price: £93.50 GBP
   - [18 inch (46 cm) silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=55535362900354)
     Availability: Available
-    Price: £100.00 GBP
+    Price: £106.25 GBP
   - [20 inch (51 cm) silver belcher (3mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=55535362933122)
     Availability: Available
-    Price: £104.00 GBP
+    Price: £110.50 GBP
   - [22 inch (56 cm ) silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=55535362965890)
     Availability: Available
-    Price: £108.00 GBP
+    Price: £114.75 GBP
   - [24 inch (60cm) silver belcher (3 mm)](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver?variant=55535362998658)
     Availability: Available
-    Price: £112.00 GBP
+    Price: £119.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-11-11T08:51:15Z
+  Updated: 2025-11-13T16:39:36Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17252,47 +17345,47 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-11-11T10:27:44Z
+  Updated: 2025-11-13T17:26:34Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/st_christopher_silver_necklace_1_1080.jpg?v=1741886026
   - [16 in (41 cm) silver curb chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47520170148158)
     Availability: Available
-    Price: £60.00 GBP
+    Price: £63.75 GBP
   - [18 in (46 cm) silver curb chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47520170180926)
     Availability: Available
-    Price: £68.00 GBP
+    Price: £72.25 GBP
   - [20 inch (51 cm) silver curb chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47520170213694)
     Availability: Available
-    Price: £72.00 GBP
+    Price: £76.50 GBP
   - [22  inch (56 cm) silver curb chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47520170246462)
     Availability: Available
-    Price: £76.00 GBP
+    Price: £80.75 GBP
   - [16 in (41 cm) silver rope chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47524170072382)
     Availability: Available
-    Price: £72.00 GBP
+    Price: £76.50 GBP
   - [18 in (46 cm) silver rope chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47524170105150)
     Availability: Available
-    Price: £76.00 GBP
+    Price: £80.75 GBP
   - [20 inch (51 cm) silver rope chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47524170137918)
     Availability: Available
-    Price: £80.00 GBP
+    Price: £85.00 GBP
   - [24  inch (61 cm) silver rope chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=47524170170686)
     Availability: Available
-    Price: £88.00 GBP
+    Price: £93.50 GBP
   - [18 in (46 cm) silver belcher chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=55880673657218)
     Availability: Available
-    Price: £100.00 GBP
+    Price: £106.25 GBP
   - [20 inch (51 cm) silver belcher chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=55880673689986)
     Availability: Available
-    Price: £104.00 GBP
+    Price: £110.50 GBP
   - [22  inch (56 cm) silver belcher chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=55880673722754)
     Availability: Available
-    Price: £108.00 GBP
+    Price: £114.75 GBP
   - [24  inch (61 cm) silver belcher chain](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1?variant=55880673755522)
     Availability: Available
-    Price: £112.00 GBP
+    Price: £119.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
   Updated: 2025-11-03T10:08:31Z
   Vendor: Lily Blanche
@@ -17327,21 +17420,21 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £525.00 GBP
 - [Emerald & Solid Gold Stud Earrings | May Birthstone](https://www.lilyblanche.com/products/emerald-solid-gold-stud-earrings-may): Our real emerald stud earrings in a solid 9-carat gold setting are jewellery box classics. The birthstone for May and the gemstone for happiness, emeralds are the perfect gift for a May birthday or Christmas treat.
-  Updated: 2025-11-11T16:01:58Z
+  Updated: 2025-11-13T17:28:54Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/emerald_gold_earring1_1080.jpg?v=1741886090
   Price: £275.00 GBP
 - [Sapphire & Solid Gold Earrings | September Birthstone Earrings](https://www.lilyblanche.com/products/sapphire-solid-gold-stud-earrings-september): Our real sapphire 5.5 mm stud earrings in a solid 9-carat gold setting are jewellery box classics. The birthstone for September and the gemstone for wealth, Sapphires are the perfect gift for a September birthday or Christmas treat.
-  Updated: 2025-11-11T16:10:33Z
+  Updated: 2025-11-13T17:28:54Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphire_gold_earring1_1080_copy2.jpg?v=1741886106
   Price: £275.00 GBP
 - [Ruby & Solid Gold Stud Earrings July Birthstone Earrings](https://www.lilyblanche.com/products/ruby-solid-gold-stud-earrings-july): Our real ruby stud earrings in solid 9-carat gold measure 5.5 mm & are jewellery box classics. The birthstone for July and the gemstone for love, rubies are the perfect gift for a July birthday or Christmas treat.
-  Updated: 2025-11-11T16:09:55Z
+  Updated: 2025-11-13T17:28:54Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -17472,28 +17565,28 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/single_black_pearl_gold_1080.jpg?v=1741874021
     Price: £285.00 GBP
 - [Blue Twinkle Huggie Earrings Silver](https://www.lilyblanche.com/products/sapphire-silver-huggie-hoop-earrings): Looking for the perfect gift? Our solid silver blue Twinkle Huggie earrings are ideal for making a curated ear stack. Also available in green. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-07-23T11:24:02Z
+  Updated: 2025-11-13T13:11:36Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphirehuggyearringssilver2_1080.jpg?v=1741874025
   Price: £85.00 GBP
 - [Blue Twinkle Huggie Earrings Gold](https://www.lilyblanche.com/products/sapphire-gold-huggie-hoop-earrings): Looking for the perfect gift? Our blue Twinkle Huggie earrings in gold are ideal for making a curated ear stack. Also available in green. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-10-06T16:55:56Z
+  Updated: 2025-11-13T13:10:56Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/sapphirehuggyearringsgold2_1080.jpg?v=1741874042
   Price: £95.00 GBP
 - [Green Twinkle Huggie Earrings Silver](https://www.lilyblanche.com/products/emerald-silver-huggie-hoop-earrings): Looking for the perfect gift? Our solid silver green Twinkle Huggie earrings are ideal for making a curated ear stack. Also available in blue. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-07-24T06:11:43Z
+  Updated: 2025-11-13T13:09:30Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/emeraldhuggyearringssilver2_1080.jpg?v=1741886631
   Price: £85.00 GBP
 - [Green Twinkle Huggie Earrings Gold](https://www.lilyblanche.com/products/emerald-gold-huggie-hoop-earrings): Looking for the perfect gift? Our green Twinkle Huggie earrings in 18-carat gold vermeil are ideal for making a curated ear stack. Also available in blue. Shop today and get a free jewellery care kit worth £20
-  Updated: 2025-07-25T03:39:08Z
+  Updated: 2025-11-13T13:08:08Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -18030,7 +18123,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-11-10T21:35:39Z
+  Updated: 2025-11-13T13:07:09Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -18742,7 +18835,7 @@ From £119
     Availability: Available
     Price: £80.00 GBP
 - [Chrysoprase Charm Bangle | Gold | May](https://www.lilyblanche.com/products/chrysoprase-charm-bangle-gold-may): A stunning, genuine chrysoprase gemstone forms the centrepiece of this beautiful May birthstone bracelet which can be customised with additional gemstones or charms. Order today with free shipping and receive a complimentary jewellery care kit.
-  Updated: 2025-11-04T02:43:55Z
+  Updated: 2025-11-12T17:46:10Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -18898,7 +18991,7 @@ From £119
     Availability: Available
     Price: £175.00 GBP
 - [Chrysoprase Charm Bangle | Rose Gold | May](https://www.lilyblanche.com/products/chrysoprase-charm-bangle-rose-gold-may): A stunning, real chrysoprase forms the centrepiece of this beautiful rose gold vermeil May birthstone bracelet which can be customised with additional gemstones or charms. Order today with free shipping and receive a complimentary jewellery care kit. tones or charms.
-  Updated: 2025-10-22T21:10:29Z
+  Updated: 2025-11-12T18:03:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -19054,7 +19147,7 @@ From £119
     Availability: Available
     Price: £175.00 GBP
 - [Chrysoprase Charm Bangle | Silver | May](https://www.lilyblanche.com/products/chrysoprase-charm-bangle-silver-may): A stunning, real chrysoprase forms the centrepiece of this beautiful May birthstone bracelet which can be customised with additional gemstones or charms. Order today with free shipping and receive a complimentary jewellery care kit.
-  Updated: 2025-11-10T23:50:34Z
+  Updated: 2025-11-12T18:02:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -20114,7 +20207,7 @@ From £119
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/carnelian_rose_gold_stud_1_1080.jpg?v=1741873038
   Price: £65.00 GBP
 - [Carnelian Charm Bangle Silver  July Birthstone Bangle](https://www.lilyblanche.com/products/carnelian-charm-bangle-silver-july-birthstone-bangle): A stunning, carnelian gemstone forms the centrepiece of this beautiful July birthstone bracelet which can be customised with additional gemstones or charms. Free jewellery care kit. Shop Carnelian Birthstone bangles today.
-  Updated: 2025-10-22T21:09:29Z
+  Updated: 2025-11-12T18:01:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -20270,7 +20363,7 @@ From £119
     Availability: Available
     Price: £135.00 GBP
 - [Carnelian Charm Bangle Gold July Birthstone Bangle](https://www.lilyblanche.com/products/carnelian-charm-bangle-gold-july-birthstone-bangle): A stunning, carnelian gemstone forms the centrepiece of this beautiful July birthstone bracelet, which can be customised with additional stones. Free jewellery care kit.
-  Updated: 2025-10-22T21:06:29Z
+  Updated: 2025-11-12T17:59:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -20426,7 +20519,7 @@ From £119
     Availability: Available
     Price: £135.00 GBP
 - [Carnelian Charm Bangle Rose Gold July Birthstone Bangle](https://www.lilyblanche.com/products/carnelian-charm-bangle-rose-gold-july-birthstone-bangle): A stunning, carnelian gemstone forms the centrepiece of this beautiful July birthstone bracelet in rose gold vermeil which can be customised with additional gemstones or charms. Free jewellery care kit. Shop Carnelian Birthstone bangles today.
-  Updated: 2025-11-08T22:52:10Z
+  Updated: 2025-11-12T17:48:08Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21313,7 +21406,7 @@ From £119
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/lapis_rose_gold_studs_1_1080.webp?v=1741873418
   Price: £55.00 GBP
 - [Lapis Lazuli Charm Bangle Silver September Birthstone](https://www.lilyblanche.com/products/lapis-lazuli-charm-bangle-silver-september-birthstone-bangle): A stunning, Lapis Lazuli gemstone forms the centrepiece of this beautiful September birthstone bracelet which can be customised with additional gemstones or charms. Free jewellery care kit. Shop Lapis Lazuli Birthstone bangles today.
-  Updated: 2025-10-22T20:59:29Z
+  Updated: 2025-11-12T17:52:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21469,7 +21562,7 @@ From £119
     Availability: Available
     Price: £125.00 GBP
 - [Lapis Lazuli Charm Bangle Gold September Birthstone](https://www.lilyblanche.com/products/lapis-lazuli-charm-bangle-gold-september-birthstone-bangle): A stunning, Lapis Lazuli gemstone forms the centrepiece of this beautiful September birthstone bracelet which can be customised with additional gemstones or charms. Free jewellery care kit. Shop Lapis Lazuli Birthstone bangles today.
-  Updated: 2025-10-22T20:54:29Z
+  Updated: 2025-11-12T17:47:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21625,7 +21718,7 @@ From £119
     Availability: Available
     Price: £125.00 GBP
 - [Lapis Lazuli Charm Bangle Silver  July Birthstone Bangle](https://www.lilyblanche.com/products/lapis-lazuli-charm-bangle-gold-september-birthstone-bangle-1): A stunning, Lapis Lazuli gemstone forms the centrepiece of this beautiful September birthstone bracelet which can be customised with additional gemstones or charms. Free jewellery care kit. Shop Lapis Lazuli Birthstone bangles today.
-  Updated: 2025-10-22T21:09:29Z
+  Updated: 2025-11-12T18:02:07Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21818,7 +21911,7 @@ From £119
     Availability: Available
     Price: £655.00 GBP
 - [Men's Silver Cross Necklace](https://www.lilyblanche.com/products/mens-large-silver-cross-necklace-lily-blanche): Satisfaction 100% guaranteed with this stunning men's solid silver cross necklace. An heirloom piece this sterling silver men's cross necklace is a classic piece which you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-10-23T14:21:04Z
+  Updated: 2025-11-12T11:03:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23258,7 +23351,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-11-10T21:40:55Z
+  Updated: 2025-11-13T20:42:45Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23666,7 +23759,7 @@ From £95
     Availability: Available
     Price: £115.00 GBP
 - [Large Personalised St Christopher Necklace in Sterling Silver](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver): Travel safely with the Large Personalised St Christopher Necklace in sterling silver. Customise with free engraving & premium chain. Free UK shipping gift wrap & jewellery care kit.
-  Updated: 2025-11-10T19:48:16Z
+  Updated: 2025-11-12T10:00:08Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24635,6 +24728,8 @@ From £129
   Updated: 2025-04-08T11:28:34Z
 - [The Wedding Edit](https://www.lilyblanche.com/pages/the-wedding-edit): The Wedding Edit — Heirloom Jewellery for Your Wedding Day At Lily Blanche, we understand that your wedding is a momentous milestone — a day filled...
   Updated: 2025-06-13T12:28:32Z
+- [Black Friday 2025](https://www.lilyblanche.com/pages/black-friday-2025): 
+  Updated: 2025-11-12T11:43:51Z
 
 ## Policies
 
