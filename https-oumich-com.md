@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-11-12T00:00:40.751Z
+- Updated At: 2025-11-14T00:00:37.494Z
 
 ## Products
 
@@ -1307,44 +1307,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-embroidered-dress-purple-m-829.webp?v=1752295836
     Price: € 38,70 EUR
-- [Abaya Dubai stijl – Turks gebedskleed design | byOumich](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress): Chique abaya geïnspireerd door Turkse gebedskleden. Perfect voor speciale gelegenheden.
-  Updated: 2025-11-08T18:26:19Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-862.webp?v=1752302470
-  - [Dark Green / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690122620)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-green-free-size-580.webp?v=1752302479
-    Price: € 29,70 EUR
-  - [Black / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690155388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-black-free-size-205.webp?v=1752302484
-    Price: € 29,70 EUR
-  - [Khaki / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690188156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-khaki-free-size-635.webp?v=1752302489
-    Price: € 29,70 EUR
-  - [Light Purple / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690220924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-light-purple-free-size-615.webp?v=1752302493
-    Price: € 29,70 EUR
-  - [Dark Purple / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690253692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-purple-free-size-351.webp?v=1752302497
-    Price: € 29,70 EUR
-  - [Dark Coffee / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690286460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-coffee-free-size-654.webp?v=1752302502
-    Price: € 29,70 EUR
-  - [Dark Blue / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690319228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-dark-blue-free-size-102.webp?v=1752302506
-    Price: € 29,70 EUR
-  - [Gray / Free Size](https://oumich.com/products/amazon-abaya-dubai-turkey-one-piece-prayer-dress?variant=55445690351996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/abaya-dubai-turkey-one-piece-prayer-dress-gray-free-size-557.webp?v=1752302511
-    Price: € 29,70 EUR
 - [Witte patchwork abaya – plus-size modest wear | byOumich](https://oumich.com/products/womens-white-patchwork-plus-size-womens-abaya-robe): Comfortabele, ruime abaya met wit patchworkdesign. Ideaal voor grotere maten.
   Updated: 2025-11-08T16:13:31Z
   Vendor: byOumich
@@ -1666,60 +1628,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760732591
     Price: € 11,70 EUR
-- [Ademende jilbaya – vleermuismouwen & comfortabel | byOumich](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab): Luchtige jilbaya met vleermuismouwen voor maximaal comfort en elegantie.
-  Updated: 2025-11-08T18:32:41Z
-  Vendor: byOumich
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664850.jpg?v=1760955738
-  - [ArmyGreen / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452747644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664841.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Dark Blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452780412)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665232.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Dark Green / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452813180)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665228.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Fog blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452845948)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665233.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Khaki / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452878716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665235.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Light Grey / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452911484)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665236.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Light Purple / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452944252)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664846.jpg?v=1760955747
-    Price: € 33,70 EUR
-  - [Orange / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888452977020)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664848.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Peacock blue / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453009788)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618222197940.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Purple / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453042556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664850_eaebe8b2-0260-4a97-af8b-ea5f97a6fbf8.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [Red wine / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453075324)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221665237.jpg?v=1760955748
-    Price: € 33,70 EUR
-  - [White / One size](https://oumich.com/products/eid-hooded-muslim-women-hijab-dress-prayer-garment-jilbab-abaya-long-khimar-full-cover-ramadan-gown-abayas-islamic-clothes-niqab?variant=55888453108092)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1618221664849.jpg?v=1760955748
-    Price: € 33,70 EUR
 - [Instant hijab – zacht, ademend & volle dekking | byOumich](https://oumich.com/products/new-instant-jersey-hijab-undercap-hijabs-for-woman-muslim-women-hijab-cap-full-cover-snap-fastener-head-wraps-scarf-islam-turban): Praktische instant hijab van zachte, ademende stof. Geeft volledige dekking zonder spelden.
   Updated: 2025-11-11T10:11:49Z
   Vendor: byOumich
@@ -2045,6 +1953,13 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1617584924855.jpg?v=1762298106
   Price: € 10,00 EUR
+- [Allsea 6010 - volledig bedekkend marine blauw badpak met rood groen patroon | byOumich](https://oumich.com/products/allsea-6010-volledig-bedekkend-badpak-met-rood-groen-en-blauw-patroon): Dit volledig bedekkend marine blauw badpak met rood groen patroon combineert elegantie en comfort en is perfect voor op het strand of bij het zwembad.
+  Updated: 2025-11-13T09:38:02Z
+  Vendor: byOumich
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1_org_zoom_light.jpg?v=1762983272
+  Price: € 27,70 EUR
 
 ## Collections
 
@@ -2132,6 +2047,9 @@ BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 - [Elegant, elke dag.](https://oumich.com/collections/elegant-voor-elke-dag): Elegante kleding voor elke dag.
   Updated: 2025-11-08T00:13:05Z
   Total Products: 7
+- [Koopjes](https://oumich.com/collections/koopjes): Onze koopjeshoek. Wees er snel bij!
+  Updated: 2025-11-12T22:21:47Z
+  Total Products: 1
 
 ## Blogs
 
