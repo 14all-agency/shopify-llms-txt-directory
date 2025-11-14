@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-13T00:01:19.094Z
+- Updated At: 2025-11-14T00:00:41.266Z
 
 ## Products
 
@@ -843,7 +843,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/oassword.jpg?v=1739633261
   Price: 8,00 € EUR
 - [Blocco note ''C'vò a ciort'' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note-cvo-a-ciort-personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:26Z
+  Updated: 2025-11-13T13:16:42Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
