@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-11-10T00:00:34.332Z
+- Updated At: 2025-11-14T00:00:27.074Z
 
 ## Products
 
@@ -197,13 +197,144 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-13-zebana-neofiber-silikon-kilif-kablosuz-sarj-renk-1-f881b868-6b85_jpg.webp?v=1759825619
     Price: ₺625,00 TRY
-- [iPhone 16 Pro Max Uyumlu Cüzdanlı Kılıf](https://etycase.com/products/iphone-16-promax-uyumlu-cuzdanli-kilif): iPhone 16 Pro Max için üretilmiş olan ve Moda evlerinin ikonik monogram desenini, mini çanta ve askılı taşıma özgürlüğüyle birleştiren bu kılıf, telefonunuzu korurken aynı anda size kartlarınızı, kulaklığınızı veya anahtarınızı saklayan akıllı bir cüzdan sunuyor. Gövde Malzemesi Kabartmalı monogram vegan deri + darbeye dayanıklı polikarbon iç şasi Mikro-Satchel 3 kart kapasiteli, altın kaplama turn-lock; manyetik kapak destekli İç Kaplama Mikrofiber süet – çizilme & toz önleyici Koruma 2 mm yükseltilmiş ekran/kamera çerçevesi • Bal peteği şok emici katman • 2 m düşme testi Butonlar Ayrı metal “click-feel” kalkan sistemi Mıknatıs Gömülü Mag-Ring™ (MagSafe uyumlu) Askı Detachable Cross-Strap™ – ayarlanabilir, 360° döner kanca, vegan deri Ekstralar Parmak-izi tutmaz mat finisaj • Altın logo rozeti • Dikişli kenar takviyesi
-  Updated: 2025-11-01T21:28:49Z
+- [iPhone 16 Pro Max Uyumlu Cüzdanlı Kılıf](https://etycase.com/products/iphone-16-promax-uyumlu-cuzdanli-kilif): eiPhone 16 Pro Max için üretilmiş olan ve Moda evlerinin ikonik monogram desenini, mini çanta ve askılı taşıma özgürlüğüyle birleştiren bu kılıf, telefonunuzu korurken aynı anda size kartlarınızı, kulaklığınızı veya anahtarınızı saklayan akıllı bir cüzdan sunuyor. Gövde Malzemesi Kabartmalı monogram vegan deri + darbeye dayanıklı polikarbon iç şasi Mikro-Satchel 3 kart kapasiteli, altın kaplama turn-lock; manyetik kapak destekli İç Kaplama Mikrofiber süet – çizilme & toz önleyici Koruma 2 mm yükseltilmiş ekran/kamera çerçevesi • Bal peteği şok emici katman • 2 m düşme testi Butonlar Ayrı metal “click-feel” kalkan sistemi Mıknatıs Gömülü Mag-Ring™ (MagSafe uyumlu) Askı Detachable Cross-Strap™ – ayarlanabilir, 360° döner kanca, vegan deri Ekstralar Parmak-izi tutmaz mat finisaj • Altın logo rozeti • Dikişli kenar takviyesi
+  Updated: 2025-11-13T11:25:44Z
   Vendor: EtyCase 
-  Product Type: 
+  Product Type: Cep Telefonu Kılıfı
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/iphone-16-promax-cuzdali-kilif-2.webp?v=1761994623
   Price: ₺1.950,00 TRY
+- [Nimmy Cool Glasses Serisi – Little Hipster Man iPhone 13 kılıfı](https://etycase.com/products/nimmy-cool-glasses-serisi-little-hipster-man-iphone-13-kilifi): 3D Nimmy Cool Glasses Serisi Little Hipster Man iPhone 13 Kılıfı – Gerçek 3D Kabartmalı Şık Koruma Telefonunuzu yalnızca korumakla kalmayan, aynı zamanda tarzınıza da karakter katan Nimmy Cool Glasses Serisi – Little Hipster Man iPhone 13 kılıfı, özgün tasarımı ve yüksek kaliteli malzeme yapısıyla fark yaratır. Gerçek 3D kabartmalı dokusu sayesinde hem görsel hem de dokunsal bir deneyim sunar. Gerçek 3D Kabartmalı Tasarım ile Şıklık ve Farklılık Nimmy’nin özgün Cool Glasses Series koleksiyonundan Little Hipster Man deseni, detaylı 3D kabartma işçiliğiyle dikkat çekiyor. Zincir, gözlük ve kıyafet figürleri; derinlik hissi veren 3D gerçek kabartma tekniğiyle özenle hazırlanmıştır. Bu özel tasarım, iPhone 13 kılıfları arasında tarzıyla öne çıkar. Yüksek Kaliteli Malzeme ile Maksimum Koruma Soft Touch TPU Dış Yüzey: Yumuşak, mat ve kaymaz yüzeyiyle elinizde rahat bir tutuş sağlar. Premium Malzeme Karışımı: TPU ve polikarbonat birleşimi sayesinde hem esnek hem de dayanıklı bir yapı sunar. Köşe ve Kenar Güçlendirmesi: Düşmelere ve darbelere karşı ekstra koruma sağlar. Yükseltilmiş Kamera ve Ekran Kenarları: Çizilmelere karşı cihazınızı güvenle korur. Günlük kullanımda çizilme, aşınma ve parmak izi tutma gibi sorunlara karşı yüksek dayanıklılık sunan kabartmalı telefon kılıfı, uzun süre ilk günkü görünümünü korur. Kullanıcı Dostu ve Fonksiyonel Tasarım Hassas Kalıplama: iPhone 13 modeline tam uyumlu kesimlerle tüm girişlere kolay erişim sağlar. Yumuşak Tuş Hassasiyeti: Tuşlar üzerinde hassas dokunuşlarla hızlı tepki almanızı sağlar. Kolay Temizlenebilir Mat Doku: Parmak izi tutmaz, kolayca silinir, estetik görünümünü korur. Tarzını Yansıtan Özgün Bir Seçim Little Hipster Man tasarımı, sokak modasından ilham alırken zarafetle mizahı bir araya getirir. Güçlü, özgüvenli ve tarz sahibi kullanıcılar için özel olarak tasarlanmış bu kılıf, sadece bir koruma aksesuarı değil, kişisel bir ifade biçimidir.
+  Updated: 2025-11-13T22:53:44Z
+  Vendor: Nimmy
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/nimmy-iphone-13-3d-gercek-nakis-isleme--4c5c.webp?v=1763030065
+  Price: ₺1.300,00 TRY
+- [Blueo Armor Aramid Fiber iPhone 17 Pro Max Magsafe Özellikli Standlı Kılıf](https://etycase.com/products/blueo-armor-aramid-fiber-iphone-17-pro-max-magsafe-ozellikli-standli-kilif): Blueo Armor Aramid Fiber iPhone 17 Pro Max Magsafe Standlı Kılıf – Hafif, Dayanıklı ve Şık Koruma Blueo Armor serisi, aramid fiber teknolojisiyle tasarlanmış ultra hafif ve yüksek dayanıklılığa sahip bir koruma sunar. iPhone 17 Pro Max ile tam uyumlu bu Magsafe destekli telefon kılıfı, entegre stand özelliğiyle konforlu izleme deneyimi sağlar. Mat yüzeyiyle parmak izi tutmaz, premium dokusu sayesinde hem profesyonel hem sportif bir görünüm sunar. Mükemmel kenar koruması, manyetik şarj uyumu ve modern tasarımıyla Blueo Armor Aramid Fiber kılıf, cihazınızı korurken tarzınızı da öne çıkarır. Marka: BLUEOModel: Armor Aramid Fiber Malzeme: Askeri sınıf aramid fiber, ultra hafif ve dayanıklı yapı Koruma: Darbe emici Anti-Drop teknolojisi, güçlendirilmiş köşe yapısı Kaplama: Kaymaz ve parmak izi tutmaz özel yüzey Isı Dağılımı: Yüksek sıcaklık direnci, hızlı ısı yayılımı Kamera Koruma: Yükseltilmiş metal çerçeveli kamera koruma
+  Updated: 2025-11-13T10:28:13Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-blueo-armor-aramid-fiber-iphone--9dcc7.jpg?v=1763029159
+  Price: ₺4.550,00 TRY
+- [Blueo iPhone 17 Pro Max Uyumlu MagSafe Özellikli Glided Galaxy Fiber Kılıf - Yeşil](https://etycase.com/products/blueo-iphone-17-pro-max-uyumlu-magsafe-ozellikli-glided-galaxy-fiber-kilif-yesil): Blueo iPhone 17 Pro Max Uyumlu MagSafe Özellikli Glided Galaxy Fiber Kılıf - Yeşil rengi ile tarzınıza modern bir şıklık katarak cool bir görünüme, Aramid Fiber yapısı sayesinde düşme ve çarpmalara karşı üst düzey koruma sağlamaktadır.
+  Updated: 2025-11-13T10:36:32Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-blueo-gilded-tactile-wowen-iphon--44f8.webp?v=1763030192
+  Price: ₺4.050,00 TRY
+- [Blueo iPhone 17 Pro Max Uyumlu MagSafe Özellikli Glided Galaxy Fiber Kılıf - Mavi](https://etycase.com/products/blueo-iphone-17-pro-max-uyumlu-magsafe-ozellikli-glided-galaxy-fiber-kilif-mavi): Blueo iPhone 17 Pro Max Uyumlu MagSafe Özellikli Glided Galaxy Fiber Kılıf - Mavi rengi ile tarzınıza modern bir şıklık katarak cool bir görünüme, Aramid Fiber yapısı sayesinde düşme ve çarpmalara karşı üst düzey koruma sağlamaktadır.
+  Updated: 2025-11-13T10:37:11Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-blueo-gilded-tactile-wowen-iphon-ea3395.webp?v=1763030213
+  Price: ₺4.050,00 TRY
+- [Blueo Gilded Tactile Wowen iPhone 17 Pro Max Uyumlu MagSafe Özellikli Blue Aramid Fiber Magnetic Telefon Kılıfı](https://etycase.com/products/blueo-gilded-tactile-wowen-iphone-17-pro-max-uyumlu-magsafe-ozellikli-blue-aramid-fiber-magnetic-telefon-kilifi): Blueo Gilded Tactile Wowen iPhone 17 Pro Max Uyumlu Magsafe Özellikli Aramid Fiber Magnetic Telefon Kılıfı - Blue Yeni iPhone 17 Pro Max için özel olarak geliştirilen Blueo Gilded Tactile Woven Aramid Fiber Magnetic Kılıf,üst düzey koruma, ince işçilik ve MagSafe uyumunu tek tasarımda birleştiriyor.El işçiliğiyle dokunan gilded (ışığı yansıtan) dokusu, hem dokunsal hem de görsel anlamda fark yaratıyor.🔹 Aramid Fiber (Kevlar) Malzeme – Uzay Teknolojisi Kalitesinde Koruma:Aramid Fiber yapısı sayesinde telefonunuzu çizilmelere, darbelere ve düşmelere karşı maksimum güvenle korur.Aynı zamanda son derece hafif ve esnek bir yapıya sahiptir.🔹 Gilded Tactile Dokuma Tasarım:Yüzeyindeki dokuma desenli yapı yalnızca şık değil — aynı zamanda parmakta yumuşak, konforlu bir his bırakır.Altın tonlarında ışıltılı dokusu, kılıfa lüks bir görünüm kazandırır.🔹 %100 MagSafe Uyumu:Kılıfa entegre güçlü manyetik halka, tüm MagSafe aksesuarlarıyla tam uyum sağlar.Kablosuz şarj cihazları, araç tutucular ve standlarla sorunsuz kullanım sunar.🔹 Ultra İnce & Hafif:Yalnızca 0.65 mm kalınlık ve 19 gram ağırlık ile iPhone 17 Pro Max’in inceliğini korur.Elinizde hafif, cebinizde neredeyse yok gibi bir his.🔹 Mükemmel Uyum & Hassas Kesim:Kamera, tuşlar ve portlar için lazer hassasiyetinde kesim.Kamerayı çevreleyen hafif çıkıntı, lensleri çizilmelere karşı korur.
+  Updated: 2025-11-13T22:45:41Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-gilded-tactile-wowen-iphon--44f8-Blue_1.webp?v=1763029755
+  Price: ₺4.300,00 TRY
+- [Blueo Gilded Tactile Wowen iPhone 17 Pro Max Uyumlu MagSafe Özellikli Red Aramid Fiber Magnetic Telefon Kılıfı](https://etycase.com/products/blueo-gilded-tactile-wowen-iphone-17-pro-max-uyumlu-magsafe-ozellikli-red-aramid-fiber-magnetic-telefon-kilifi): Blueo Gilded Tactile Wowen iPhone 17 Pro Max Uyumlu Magsafe Özellikli Aramid Fiber Magnetic Telefon Kılıfı - Red Yeni iPhone 17 Pro Max için özel olarak geliştirilen Blueo Red Gilded Tactile Woven Aramid Fiber Magnetic Kılıf,üst düzey koruma, ince işçilik ve MagSafe uyumunu tek tasarımda birleştiriyor.El işçiliğiyle dokunan gilded (ışığı yansıtan) dokusu, hem dokunsal hem de görsel anlamda fark yaratıyor.🔹 Aramid Fiber (Kevlar) Malzeme – Uzay Teknolojisi Kalitesinde Koruma:Aramid Fiber yapısı sayesinde telefonunuzu çizilmelere, darbelere ve düşmelere karşı maksimum güvenle korur.Aynı zamanda son derece hafif ve esnek bir yapıya sahiptir.🔹 Gilded Tactile Dokuma Tasarım:Yüzeyindeki dokuma desenli yapı yalnızca şık değil — aynı zamanda parmakta yumuşak, konforlu bir his bırakır.Altın tonlarında ışıltılı dokusu, kılıfa lüks bir görünüm kazandırır.🔹 %100 MagSafe Uyumu:Kılıfa entegre güçlü manyetik halka, tüm MagSafe aksesuarlarıyla tam uyum sağlar.Kablosuz şarj cihazları, araç tutucular ve standlarla sorunsuz kullanım sunar. 🔹 Ultra İnce & Hafif:Yalnızca 0.65 mm kalınlık ve 19 gram ağırlık ile iPhone 17 Pro Max’in inceliğini korur.Elinizde hafif, cebinizde neredeyse yok gibi bir his.🔹 Mükemmel Uyum & Hassas Kesim:Kamera, tuşlar ve portlar için lazer hassasiyetinde kesim.Kamerayı çevreleyen hafif çıkıntı, lensleri çizilmelere karşı korur.
+  Updated: 2025-11-13T10:33:37Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-gilded-tactile-wowen-iphon--44f8-Red.webp?v=1763029986
+  Price: ₺4.300,00 TRY
+- [BLUEO Air Aramid Fiber Manyetik Kılıf – Siyah | iPhone 17 Pro Max Uyumlu](https://etycase.com/products/blueo-air-aramid-fiber-manyetik-kilif-siyah-iphone-17-pro-max-uyumlu): BLUEO Air Aramid Fiber Manyetik Kılıf – Siyah | iPhone 17 Pro Max Uyumlu Marka: BLUEOModel: Air Aramid Fiber Magnetic Renk: SiyahUyumlu Cihaz: iPhone 17 Pro Max Yeni nesil iPhone 17 Pro Max için özel olarak tasarlanmış BLUEO Air Aramid Fiber Magnetic kılıf, hem üstün koruma hem de fonksiyonel kullanım sunar. Aramid fiber malzemesiyle üretilen bu kılıf, askeri standartlarda dayanıklılık sağlarken şık ve modern tasarımıyla cihazınıza premium bir görünüm kazandırır. Teknik Özellikler: MagSafe Uyumluluğu: Dahili mıknatıs modülü sayesinde MagSafe şarj cihazları ve aksesuarlarla tam uyum sağlar. Aramid Fiber Malzeme: Kevlar benzeri bu özel materyal, çizilmelere, darbelere ve düşmelere karşı üstün koruma sunar. Askeri Standart Koruma: MIL-STD-810G sertifikasına uygun tasarımıyla cihazınızı zorlu koşullarda bile güvenle kullanabilirsiniz. Hafif ve İnce Yapı: Güçlü koruma sunarken cihazınızın orijinal inceliğini korur, cepte ve elde rahat kullanım sağlar. Metal Kamera Koruma Çıkıntısı: Kamera bölgesini koruyan metal çıkıntı mevcuttur. Neden BLUEO Air Aramid Fiber Magnetic ? Estetik ve Fonksiyonun Buluşması: Siyah mat yüzey, modern çizgiler ve fonksiyonel detaylarla hem tarzınızı yansıtır hem de cihazınızı korur. Uzun Ömürlü Kullanım: Kaliteli malzeme ve işçilik sayesinde uzun süre deformasyon olmadan kullanabilirsiniz. Araç İçi Kullanım Kolaylığı: Güçlü manyetik yapısı sayesinde araç içi mıknatıslı telefon tutucularla uyumludur.
+  Updated: 2025-11-13T22:57:55Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-blueo-air-aramid-fiber-iphone-17-b019-0.webp?v=1763029897
+  Price: ₺3.250,00 TRY
+- [Blueo Crystal Pro Drop Resistance iPhone 17 Pro Max MagSafe Özellikli Şeffaf Sert Silikon Kılıf](https://etycase.com/products/blueo-crystal-pro-drop-resistance-iphone-17-pro-max-magsafe-ozellikli-seffaf-sert-silikon-kilif): Crystal Pro iPhone 17 Pro Max Kılıf, MagSafe uyumluluğu, metal tuşları ve sararmaya dayanıklı şeffaf yapısıyla şık ve güçlü koruma sunar.
+  Updated: 2025-11-13T10:37:55Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueo-blueo-crystal-pro-drop-resistanc-2e0ef5.jpg?v=1763030247
+  Price: ₺1.350,00 TRY
+- [BLUEO iPhone 15 MagSafe Özellikli Renkli Kamera Korumalı Şeffaf Kılıf](https://etycase.com/products/blueo-iphone-15-magsafe-ozellikli-renkli-kamera-korumali-seffaf-kilif): BLUEO B Ultra Clear iPhone 15 MagSafe Özellikli Renkli Kamera Koruma Çıkıntılı Şeffaf Sert Kılıf Cihazınızı düşmelere ve çarpmalara karşı korurken, Cihazınızın Orjinal Renginide göstermenizi sağlar.
+  Updated: 2025-11-13T22:42:21Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-ultra-clear-iphone-15-magsafe-o--f7fca.jpg?v=1763029848
+  Price: ₺1.250,00 TRY
+- [BLUEO iPhone 15 MagSafe Özellikli Yeşil Renkli Kamera Korumalı Şeffaf Kılıf](https://etycase.com/products/blueo-iphone-15-magsafe-ozellikli-renkli-kamera-korumali-seffaf-kilif-kopya): BLUEO B Ultra Clear iPhone 15 MagSafe Özellikli Yeşil Renkli Kamera Koruma Çıkıntılı Şeffaf Sert Kılıf Cihazınızı düşmelere ve çarpmalara karşı korurken, Cihazınızın Orjinal Renginide göstermenizi sağlar.
+  Updated: 2025-11-13T21:35:19Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-ultra-clear-iphone-15-magsafe-o-7bb-48.jpg?v=1763029793
+  Price: ₺1.250,00 TRY
+- [Samsung S24 PU Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıf](https://etycase.com/products/samsung-s24-pu-deri-metal-kamera-koruma-cikintili-hava-kanalli-blueo-kilif): BLUEO MR.GORILLA serisi Samsung S24 PU Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıf, telefonunuza maksimum koruma sağlarken premium bir tasarım sunar. Sentetik deri yüzeyi, estetik ve dayanıklılığı bir araya getirirken, özel dikiş detayları kılıfa lüks bir görünüm kazandırır. Parmak izi bırakmayan özel kaplama sayesinde kılıfınız her zaman temiz ve şık kalır. Marka: BLUEO Seri: MR.GORILLA Model: B Blueo Synthetic Leather Phone Case Uyumlu Model: Samsung S24 Malzeme: Yüksek Kaliteli PU Deri (Sentetik Deri) Sertifikalar: CE ve RoHS ✔ Metal Kamera Koruma ÇıkıntısıSamsung S24’ün gelişmiş kamera sistemini korumak için özel olarak tasarlanan metal çerçeve, lenslerinizi çizilmelere ve darbelere karşı muhafaza eder. ✔ Parmak İzi ve Leke Tutmayan YüzeyÖzel kaplama sayesinde parmak izi, yağ ve lekeleri minimum seviyeye indirir, böylece kılıfınız her zaman temiz ve estetik görünür. ✔ Premium PU Deri MalzemeDayanıklı ve kaliteli PU deri yüzey, gerçek deri hissiyatı verirken hayvan dostu ve çevre dostu bir alternatiftir. ✔ Hava Kanallı İç KısımTelefonun aşırı ısınmasını engellemek için iç kısımda özel hava kanalları bulunmaktadır. Bu yapı, sıcaklığın eşit bir şekilde dağılmasını sağlar ve telefonun performansını korur. ✔ Metal Tuş Takımı ile Hassas KontrolKılıf üzerindeki entegre metal tuşlar, dokunma hissiyatınızı artırarak daha hassas ve konforlu bir kullanım sunar. ✔ Dikiş Detaylı Şık TasarımYüksek kalite dikiş işçiliğiyle tamamlanan tasarım, premium bir his ve estetik görünüm sunar. ✔ Tam Uyum ve Kolay KullanımSamsung S24 modeline özel olarak tasarlandığı için tüm giriş ve çıkışlara tam uyumludur. Şarj portu, hoparlör ve mikrofon kesimleri milimetrik hesaplanarak hazırlanmıştır. ✔ Darbe ve Çizilmelere Karşı Üst Düzey KorumaGünlük kullanımda telefonunuzu düşmelere, çizilmelere ve darbelere karşı koruyarak uzun ömürlü kullanım sunar. ✔ CE ve RoHS SertifikalıAvrupa güvenlik standartlarına uygun üretilmiştir ve çevre dostu malzemeler içerir. Günlük kullanımda maksimum koruma isteyenler Premium, şık ve profesyonel bir görünüm arayanlar Telefonunu darbelere, çizilmelere ve aşınmaya karşı korumak isteyenler BLUEO MR.GORILLA serisi Samsung S24 kılıfı, lüks tasarımı ve güçlü koruma özellikleriyle hem şıklığı hem de dayanıklılığı bir arada sunar!
+  Updated: 2025-11-13T23:19:02Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-synthetic-leather-samsung-s24-p-4e8-ac.jpg?v=1763032589
+  Price: ₺1.200,00 TRY
+- [Samsung S24 Plus Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıf](https://etycase.com/products/samsung-s24-plus-deri-metal-kamera-koruma-cikintili-hava-kanalli-blueo-kilif): BLUEO MR.GORILLA serisi Samsung S24 Plus Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıfı, telefonunuza maksimum koruma sağlarken premium bir tasarım sunar. Sentetik deri yüzeyi, estetik ve dayanıklılığı bir araya getirirken, özel dikiş detayları kılıfa lüks bir görünüm kazandırır. Parmak izi bırakmayan özel kaplama sayesinde kılıfınız her zaman temiz ve şık kalır. Marka: BLUEO Seri: MR.GORILLA Model: B Blueo Synthetic Leather Phone Case Uyumlu Model: Samsung S24 Plus Malzeme: Yüksek Kaliteli PU Deri (Sentetik Deri) Sertifikalar: CE ve RoHS BLUEO MR.GORILLA serisi Samsung S24 Plus kılıfı, telefonunuza maksimum koruma sağlarken premium bir tasarım sunar. Sentetik deri yüzeyi, estetik ve dayanıklılığı bir araya getirirken, özel dikiş detayları kılıfa lüks bir görünüm kazandırır. Parmak izi bırakmayan özel kaplama sayesinde kılıfınız her zaman temiz ve şık kalır. ✔ Metal Kamera Koruma ÇıkıntısıSamsung S24 Plus’ın gelişmiş kamera sistemini korumak için özel olarak tasarlanan metal çerçeve, lenslerinizi çizilmelere ve darbelere karşı muhafaza eder. ✔ Parmak İzi ve Leke Tutmayan YüzeyÖzel kaplama sayesinde parmak izi, yağ ve lekeleri minimum seviyeye indirir, böylece kılıfınız her zaman temiz ve estetik görünür. ✔ Premium PU Deri MalzemeDayanıklı ve kaliteli PU deri yüzey, gerçek deri hissiyatı verirken hayvan dostu ve çevre dostu bir alternatiftir. ✔ Hava Kanallı İç KısımTelefonun aşırı ısınmasını engellemek için iç kısımda özel hava kanalları bulunmaktadır. Bu yapı, sıcaklığın eşit bir şekilde dağılmasını sağlar ve telefonun performansını korur. ✔ Metal Tuş Takımı ile Hassas KontrolKılıf üzerindeki entegre metal tuşlar, dokunma hissiyatınızı artırarak daha hassas ve konforlu bir kullanım sunar. ✔ Dikiş Detaylı Şık TasarımYüksek kalite dikiş işçiliğiyle tamamlanan tasarım, premium bir his ve estetik görünüm sunar. ✔ Tam Uyum ve Kolay KullanımSamsung S24 Plus modeline özel olarak tasarlandığı için tüm giriş ve çıkışlara tam uyumludur. Şarj portu, hoparlör ve mikrofon kesimleri milimetrik hesaplanarak hazırlanmıştır. ✔ Darbe ve Çizilmelere Karşı Üst Düzey KorumaGünlük kullanımda telefonunuzu düşmelere, çizilmelere ve darbelere karşı koruyarak uzun ömürlü kullanım sunar. ✔ CE ve RoHS SertifikalıAvrupa güvenlik standartlarına uygun üretilmiştir ve çevre dostu malzemeler içerir. Günlük kullanımda maksimum koruma isteyenler Premium, şık ve profesyonel bir görünüm arayanlar Telefonunu darbelere, çizilmelere ve aşınmaya karşı korumak isteyenler BLUEO MR.GORILLA serisi Samsung S24 Plus kılıfı, lüks tasarımı ve güçlü koruma özellikleriyle hem şıklığı hem de dayanıklılığı bir arada sunar!
+  Updated: 2025-11-13T13:01:17Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-synthetic-leather-samsung-s24-p--4f32.jpg?v=1763033713
+  Price: ₺1.300,00 TRY
+- [Samsung S24 Ultra Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıf](https://etycase.com/products/samsung-s24-ultra-deri-metal-kamera-koruma-cikintili-hava-kanalli-blueo-kilif): BLUEO MR.GORILLA serisi Samsung S24 Ultra Deri Metal Kamera Koruma Çıkıntılı Hava Kanallı BLUEO Kılıfı, telefonunuza maksimum koruma sağlarken premium bir tasarım sunar. Sentetik deri yüzeyi, estetik ve dayanıklılığı bir araya getirirken, özel dikiş detayları kılıfa lüks bir görünüm kazandırır. Parmak izi bırakmayan özel kaplama sayesinde kılıfınız her zaman temiz ve şık kalır.
+  Updated: 2025-11-13T13:02:07Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-synthetic-leather-samsung-s24-u-488b-a.jpg?v=1763038456
+  Price: ₺1.400,00 TRY
+- [iPhone 14 Pro PU Deri MagSafe Özellikli Metal Kamera Korumalı Kılıf](https://etycase.com/products/iphone-14-pro-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif): iPhone 14 Pro PU Deri MagSafe Özellikli Metal Kamera Korumalı Kılıf BLUEO MR.GORILLA serisi B Premium Leather Phone Case, iPhone 14 Pro kullanıcıları için özel olarak tasarlanmıştır. PU deri kaplama, telefona zarif bir dokunuş sağlarken, yumuşak silikon iç yapısı darbeleri emerek cihazınızı korur. Parmak izi bırakmayan dış yüzeyi sayesinde her zaman temiz ve şık bir görünüm sunar.
+  Updated: 2025-11-13T13:34:01Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p--8263.jpg?v=1763039177
+  - [iPhone 14 Pro / Siyah](https://etycase.com/products/iphone-14-pro-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622309564482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p--8263.jpg?v=1763039177
+    Price: ₺1.400,00 TRY
+  - [iPhone 14 Pro / Turuncu](https://etycase.com/products/iphone-14-pro-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622309597250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p-54d589.jpg?v=1763039177
+    Price: ₺1.400,00 TRY
+  - [iPhone 14 Pro / Lacivert](https://etycase.com/products/iphone-14-pro-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622309630018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p-55-b4c.jpg?v=1763039177
+    Price: ₺1.400,00 TRY
+- [iPhone 14 Pro Max PU Deri MagSafe Özellikli Metal Kamera Korumalı Kılıf](https://etycase.com/products/iphone-14-pro-max-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif): iPhone 14 Pro Max PU Deri MagSafe Özellikli Metal Kamera Korumalı Kılıf BLUEO MR.GORILLA serisi B Premium Leather Phone Case, iPhone 14 Pro Max kullanıcıları için özel olarak tasarlanmıştır. PU deri kaplama, telefona zarif bir dokunuş sağlarken, yumuşak silikon iç yapısı darbeleri emerek cihazınızı korur.Parmak izi bırakmayan dış yüzeyi sayesinde her zaman temiz ve şık bir görünüm sunar.
+  Updated: 2025-11-13T13:45:42Z
+  Vendor: Blueo
+  Product Type: Cep Telefonu Kılıfı
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-m-2093-2.jpg?v=1763040290
+  - [iPhone 14 Pro Max / Kahverengi](https://etycase.com/products/iphone-14-pro-max-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622321098818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-m-2093-2.jpg?v=1763040290
+    Price: ₺1.500,00 TRY
+  - [iPhone 14 Pro Max / Turuncu](https://etycase.com/products/iphone-14-pro-max-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622321131586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p-54d589_ef23ac2d-0451-4ec7-b656-3e36c5e98481.jpg?v=1763040290
+    Price: ₺1.500,00 TRY
+  - [iPhone 14 Pro Max / Siyah](https://etycase.com/products/iphone-14-pro-max-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622321164354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p--8263_ab94a733-0eac-419a-afad-efa3bb56fd9a.jpg?v=1763039768
+    Price: ₺1.500,00 TRY
+  - [iPhone 14 Pro Max / Lacivert](https://etycase.com/products/iphone-14-pro-max-pu-deri-magsafe-ozellikli-metal-kamera-korumali-kilif?variant=42622321197122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/blueob-premium-leather-iphone-14-pro-p-55-b4c_a52cb35d-1f4d-4d86-866d-d55b8979f0f3.jpg?v=1763040290
+    Price: ₺1.500,00 TRY
 
 ## Collections
 
@@ -211,14 +342,14 @@
   Updated: 2025-09-15T17:23:01Z
   Total Products: 0
 - [iPhone 14 Pro Telefon Kılıfları](https://etycase.com/collections/iphone-14-pro-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 14 Pro Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:13:40Z
-  Total Products: 0
+  Updated: 2025-11-13T13:12:59Z
+  Total Products: 1
 - [iPhone 14 Pro Max Telefon Kılıfları](https://etycase.com/collections/iphone-14-pro-max-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 14 Pro Max Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:29:21Z
-  Total Products: 0
+  Updated: 2025-11-13T13:25:21Z
+  Total Products: 1
 - [iPhone 15 Telefon Kılıfları](https://etycase.com/collections/iphone-15-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 15 Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:29:37Z
-  Total Products: 0
+  Updated: 2025-11-13T09:49:28Z
+  Total Products: 2
 - [iPhone 15 Plus Telefon Kılıfları](https://etycase.com/collections/iphone-15-plus-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 15 Plus Uyumlu Premium Class Telefon Kılıfları
   Updated: 2025-09-15T17:29:54Z
   Total Products: 0
@@ -238,14 +369,14 @@
   Updated: 2025-09-15T17:30:35Z
   Total Products: 0
 - [iPhone 16 Pro Max Telefon Kılıfları](https://etycase.com/collections/iphone-16-pro-max-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 16 Pro Max Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-11-01T09:29:02Z
+  Updated: 2025-11-13T11:25:45Z
   Total Products: 1
 - [iPhone Kılıfları](https://etycase.com/collections/iphone): Apple iPhone Serisi Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
-  Updated: 2025-11-01T09:29:02Z
-  Total Products: 17
+  Updated: 2025-11-13T13:25:21Z
+  Total Products: 29
 - [Samsung](https://etycase.com/collections/samsung): Samsung Marka Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
-  Updated: 2025-09-15T17:52:30Z
-  Total Products: 0
+  Updated: 2025-11-13T13:01:18Z
+  Total Products: 3
 - [Xiaomi](https://etycase.com/collections/xiaomi): Xiaomi Marka Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
   Updated: 2025-09-03T09:16:29Z
   Total Products: 0
@@ -262,23 +393,23 @@
   Updated: 2025-09-15T17:31:44Z
   Total Products: 0
 - [iPhone 17 Pro Max Kılıfları](https://etycase.com/collections/i̇phone-17-pro-max-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 17 Pro Max Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:32:01Z
-  Total Products: 0
+  Updated: 2025-11-12T10:06:06Z
+  Total Products: 7
 - [iPhone 17 Serisi](https://etycase.com/collections/i̇phone-17-serisi): EtyCase Apple iPhone 17 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-09-15T17:18:08Z
-  Total Products: 0
+  Updated: 2025-11-12T10:06:06Z
+  Total Products: 7
 - [iPhone 16 Serisi](https://etycase.com/collections/i̇phone-16-serisi): EtyCase Apple iPhone 16 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-11-01T09:29:02Z
+  Updated: 2025-11-13T11:25:45Z
   Total Products: 1
 - [iPhone 15 Serisi](https://etycase.com/collections/i̇phone-15-serisi): EtyCase Apple iPhone 15 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-09-15T17:16:41Z
-  Total Products: 0
+  Updated: 2025-11-13T09:49:28Z
+  Total Products: 2
 - [iPhone 14 Serisi](https://etycase.com/collections/i̇phone-14-serisi): EtyCase Apple iPhone 14 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-09-15T17:15:43Z
-  Total Products: 0
+  Updated: 2025-11-13T13:25:21Z
+  Total Products: 2
 - [iPhone 13 Serisi](https://etycase.com/collections/i̇phone-13-serisi): EtyCase Apple iPhone 13 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-10-28T12:21:19Z
-  Total Products: 1
+  Updated: 2025-11-10T19:51:04Z
+  Total Products: 2
 - [iPhone 12  Serisi](https://etycase.com/collections/i̇phone-12-serisi): EtyCase Apple iPhone 12 Serisi Kılıf ve Aksesuarları
   Updated: 2025-09-16T21:12:00Z
   Total Products: 15
@@ -286,8 +417,8 @@
   Updated: 2025-09-20T10:33:22Z
   Total Products: 0
 - [Yeni Eklenenler](https://etycase.com/collections/yeni-eklenenler)
-  Updated: 2025-11-01T10:58:22Z
-  Total Products: 2
+  Updated: 2025-11-13T11:25:45Z
+  Total Products: 10
 - [Çok Satanlar](https://etycase.com/collections/cok-satanlar)
   Updated: 2025-09-08T19:25:33Z
   Total Products: 0
@@ -307,8 +438,8 @@
   Updated: 2025-09-15T17:52:54Z
   Total Products: 0
 - [Galaxy S24 | S24+ | S24 Ultra](https://etycase.com/collections/galaxy-s24-s24-s24-ultra)
-  Updated: 2025-09-15T17:32:44Z
-  Total Products: 0
+  Updated: 2025-11-13T13:01:18Z
+  Total Products: 3
 - [Galaxy S23 | S23+ | S23 Ultra](https://etycase.com/collections/galaxy-s23-s23-s23-ultra)
   Updated: 2025-09-15T17:33:09Z
   Total Products: 0
@@ -331,8 +462,8 @@
   Updated: 2025-09-15T17:19:10Z
   Total Products: 0
 - [iPhone 13 Telefon Kılıfları](https://etycase.com/collections/iphone-13-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 13 Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-10-28T12:21:19Z
-  Total Products: 1
+  Updated: 2025-11-10T19:51:04Z
+  Total Products: 2
 - [iPhone 14 Telefon Kılıfları](https://etycase.com/collections/iphone-14-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 14 Uyumlu Premium Class Telefon Kılıfları
   Updated: 2025-09-15T17:22:42Z
   Total Products: 0
@@ -352,14 +483,14 @@
   Updated: 2025-09-15T17:39:37Z
   Total Products: 0
 - [Galaxy S24 Telefon Kılıfları](https://etycase.com/collections/galaxy-s24-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Samsung Galaxy S24 Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:40:29Z
-  Total Products: 0
+  Updated: 2025-11-13T11:18:39Z
+  Total Products: 1
 - [Galaxy S24 + Telefon Kılıfları](https://etycase.com/collections/galaxy-s24-plus-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Samsung Galaxy S24 + Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:42:37Z
-  Total Products: 0
+  Updated: 2025-11-13T13:01:18Z
+  Total Products: 1
 - [Galaxy S24 Ultra Telefon Kılıfları](https://etycase.com/collections/galaxy-s24-ultra-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Samsung Galaxy S24 Ultra Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-09-15T17:43:12Z
-  Total Products: 0
+  Updated: 2025-11-13T13:01:00Z
+  Total Products: 1
 - [Galaxy S25 Telefon Kılıfları](https://etycase.com/collections/galaxy-s25-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Samsung Galaxy S25 Uyumlu Premium Class Telefon Kılıfları
   Updated: 2025-09-15T17:43:39Z
   Total Products: 0
@@ -397,8 +528,8 @@
   Updated: 2025-09-18T11:06:43Z
   Total Products: 0
 - [Çok Satanlar](https://etycase.com/collections/cok-satanlar-1)
-  Updated: 2025-11-01T09:29:02Z
-  Total Products: 17
+  Updated: 2025-11-13T13:25:21Z
+  Total Products: 32
 - [Guess](https://etycase.com/collections/guess)
   Updated: 2025-10-07T02:57:16Z
   Total Products: 0
@@ -414,6 +545,15 @@
 - [Youngkit](https://etycase.com/collections/youngkit)
   Updated: 2025-10-07T02:59:10Z
   Total Products: 0
+- [Blueo](https://etycase.com/collections/blueo): Sevilen Kılıf Markası Blueo Tasarımları Bu Kategoride. Hemen İnceleyin
+  Updated: 2025-11-13T13:21:29Z
+  Total Products: 14
+- [Nimmy](https://etycase.com/collections/nimmy): Nimmy Tasarım Kılıfları Bu Kolaksiyonda Bulabilirsiniz. Ürünleri Görmek için Hemen İnceleyin.
+  Updated: 2025-11-10T20:19:21Z
+  Total Products: 1
+- [Öne Çıkartılanlar](https://etycase.com/collections/one-cikartilanlar)
+  Updated: 2025-11-13T13:21:11Z
+  Total Products: 17
 
 ## Blogs
 
