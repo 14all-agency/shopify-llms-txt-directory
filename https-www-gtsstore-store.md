@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-28T02:42:48Z
 - Contact Email: gtembo034@gmail.com
-- Updated At: 2025-11-07T00:00:43.853Z
+- Updated At: 2025-11-14T00:00:35.087Z
 
 Welcome to GTS Beauty store
 
@@ -3852,6 +3852,7 @@ Welcome to GTS Beauty store
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/564233118623.jpg?v=1760043134
     Price: $39.84 USD
+[List Continued](https://www.gtsstore.store/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMyNjIzMjc0MTE1LCJsYXN0X3ZhbHVlIjoiODczMjYyMzI3NDExNSJ9)
 
 ## Collections
 
