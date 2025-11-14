@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-27T16:24:47Z
 - Contact Email: mail@itsagirlyplace.com
-- Updated At: 2025-11-12T00:01:18.350Z
+- Updated At: 2025-11-14T00:00:35.647Z
 
 ## Products
 
@@ -899,24 +899,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326888.jpg?v=1760503688
   Price: $9.50 USD
-- [Christmas Nutcracker Seed Bead Keychain - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xk18733-id-wh326837): Christmas Nutcracker: A Festive Accessory for the Holiday SeasonChristmas Nutcracker: A Festive Accessory for the Holiday SeasonIntroducing our delightful Christmas Nutcracker Seed Bead Keychain, a whimsical addition to your holiday repertoire. The Christmas Nutcracker has long been a symbol of celebration and joy, representing the magic of the festive season. This keychain is not just a practical accessory; it's a piece of art that brings charm and cheer to your everyday life.Crafted with meticulous attention to detail, the Christmas Nutcracker Seed Bead Keychain showcases vibrant colors and intricate beadwork. It effortlessly captures the spirit of Christmas, making it an ideal gift for loved ones or a perfect treat for yourself. Here are some standout features: Handcrafted Design: Each keychain is carefully made by artisans, ensuring a unique touch. Durable Materials: Made from high-quality seed beads, it withstands daily use while retaining its beauty. Perfect Size: Compact and lightweight, it fits comfortably in your pocket or bag. Versatile Use: Great for keys, bags, or as a decorative piece for the holiday season. This Christmas Nutcracker Seed Bead Keychain isn't just a functional item; it's a reminder of the warmth and joy that the Christmas season brings. Whether you're hanging it on your tree or using it as your keychain, it embodies the festive spirit that makes this time of year special.As you adorn your belongings with this charming keychain, you'll find yourself in the holiday spirit wherever you go. It also makes for a fantastic stocking stuffer or a small gift for friends and family. Bring the magic of the nutcracker tradition into your life with this beautiful keychain.Celebrate the season by showcasing your love for Christmas with our Christmas Nutcracker Seed Bead Keychain. Each piece is a testament to creativity and holiday cheer, providing a sense of nostalgia with a modern twist. Make sure to get yours today and spread the joy of the festive season! - It's a Girly Place - Type
-  Updated: 2025-11-11T13:19:22Z
-  Vendor: It's a Girly Place
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326837.jpg?v=1760503704
-  - [Green.Gr](https://itsagirlyplace.com/products/wh3sla-xk18733-id-wh326837?variant=42660163387481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326837.jpg?v=1760503704
-    Price: $15.50 USD
-  - [Pink.Pk](https://itsagirlyplace.com/products/wh3sla-xk18733-id-wh326837?variant=42660163420249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326837.jpg?v=1760503704
-    Price: $15.50 USD
-  - [Red.Rd](https://itsagirlyplace.com/products/wh3sla-xk18733-id-wh326837?variant=42660163453017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0663/9989/5641/files/WH326837.jpg?v=1760503704
-    Price: $15.50 USD
 - [Christmas Tree Checker Pattern Wristlet Keychain - It's a Girly Place - Type](https://itsagirlyplace.com/products/wh3sla-xk18734-id-wh326838): Christmas Tree Checker Pattern Wristlet KeychainThe Christmas Tree Checker Pattern Wristlet Keychain is the perfect accessory for the holiday season, blending functionality and festive charm into one delightful package. This keychain not only keeps your keys organized but also adds a cheerful touch to your holiday outfits. Made from high-quality materials, it features a checker pattern with a vibrant Christmas tree design that captures the spirit of the festive season. Ideal for gift-giving or as a personal treat, this wristlet keychain will be cherished by anyone who loves to celebrate the holidays in style.Aside from its aesthetic appeal, the Christmas Tree Checker Pattern Wristlet Keychain is also designed with practicality in mind. It is compact and lightweight, making it easy to carry around while keeping your keys securely attached. Here are some of the notable features: Festive Design: The checker pattern highlights a beautifully crafted Christmas tree that embodies the holiday spirit. Durable Material: Made from premium fabric that withstands daily wear and tear. Convenient Size: Fits comfortably in your hand or can be easily attached to bags. Great Gift Idea: Perfect for friends and family who appreciate functional and stylish accessories. In addition to its beautiful design, this wristlet keychain helps you stay organized during the hectic holiday season. Whether you're shopping for gifts or heading out to holiday parties, it ensures you have your keys at your fingertips. The Christmas Tree Checker Pattern Wristlet Keychain is perfect for anyone who finds joy in the merriment of the season, making it an essential accessory in your holiday gear.Don't let the busyness of the holiday season lead to misplaced keys. With our keychain, you can keep everything in one place, all while showcasing your love for Christmas. It's more than just an accessory; it's a reflection of your holiday spirit! - It's a Girly Place - Type
   Updated: 2025-11-11T07:48:02Z
   Vendor: It's a Girly Place
@@ -2501,23 +2483,23 @@
 ## Collections
 
 - [APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/womens-clothing): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:50:22Z
-  Total Products: 841
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 807
 - [ACCESSORIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/accessories): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:40:44Z
-  Total Products: 318
+  Updated: 2025-11-13T18:39:24Z
+  Total Products: 313
 - [ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/activewear): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:19:46Z
-  Total Products: 24
+  Updated: 2025-11-13T00:35:30Z
+  Total Products: 25
 - [JUST IN - It's a Girly Place - Type](https://itsagirlyplace.com/collections/new-arrivals): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:51:21Z
-  Total Products: 1372
+  Updated: 2025-11-13T23:58:28Z
+  Total Products: 1298
 - [TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tops): - It's a Girly Place - Type
-  Updated: 2025-11-11T22:21:39Z
-  Total Products: 386
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 367
 - [JEWELRY - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jewelry): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:51:21Z
-  Total Products: 727
+  Updated: 2025-11-13T23:17:51Z
+  Total Products: 642
 - [EARRINGS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/earrings): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:14Z
   Total Products: 804
@@ -2525,29 +2507,29 @@
   Updated: 2025-11-11T08:04:14Z
   Total Products: 249
 - [PLUS SIZE TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/101-tees-tanks-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:14Z
-  Total Products: 119
+  Updated: 2025-11-13T23:37:06Z
+  Total Products: 105
 - [PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/111-novelty-tops-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T22:57:22Z
-  Total Products: 315
+  Updated: 2025-11-13T23:58:28Z
+  Total Products: 301
 - [PLUS SIZE JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/121-sweaters-plus-size): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:14Z
   Total Products: 0
 - [PLUS SIZE BOTTOMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/131-bottoms-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:14Z
-  Total Products: 20
+  Updated: 2025-11-13T16:57:27Z
+  Total Products: 19
 - [BOTTOMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/132-bottoms-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:14Z
-  Total Products: 71
+  Updated: 2025-11-13T23:28:23Z
+  Total Products: 64
 - [PLUS SIZE DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/141-dresses-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T22:57:22Z
-  Total Products: 66
+  Updated: 2025-11-13T23:58:28Z
+  Total Products: 62
 - [DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/142-dresses-reg-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:50:22Z
-  Total Products: 245
+  Updated: 2025-11-13T23:58:57Z
+  Total Products: 250
 - [PLUS SIZE OUTERWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/151-jackets-plus-size): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
-  Total Products: 11
+  Updated: 2025-11-12T05:11:52Z
+  Total Products: 10
 - [SUNGLASSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/164-sunglasses): - It's a Girly Place - Type
   Updated: 2025-11-11T21:02:50Z
   Total Products: 1
@@ -2561,50 +2543,50 @@
   Updated: 2025-11-11T08:04:15Z
   Total Products: 151
 - [BELTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/belt): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:41:21Z
-  Total Products: 100
+  Updated: 2025-11-12T07:40:13Z
+  Total Products: 92
 - [OUTERWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/outerwear): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
-  Total Products: 202
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 194
 - [JUMPSUITS & ROMPERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jumpsuits-rompers): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
+  Updated: 2025-11-13T23:49:20Z
   Total Products: 80
 - [BASICS & ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/basics-activewear): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:23:19Z
-  Total Products: 92
+  Updated: 2025-11-13T23:54:15Z
+  Total Products: 89
 - [PLUS SIZE BASICS & ACTIVEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-basics-activewear): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
-  Total Products: 10
+  Updated: 2025-11-13T20:39:04Z
+  Total Products: 9
 - [BODYSUITS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/bodysuits): - It's a Girly Place - Type
-  Updated: 2025-11-11T22:21:39Z
-  Total Products: 18
+  Updated: 2025-11-13T00:41:33Z
+  Total Products: 17
 - [PLUS SIZE BODYSUITS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-bodysuits): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
+  Updated: 2025-11-13T20:39:04Z
   Total Products: 4
 - [OUTFIT SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sets): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:58:14Z
-  Total Products: 186
+  Updated: 2025-11-13T21:07:31Z
+  Total Products: 171
 - [PLUS SIZE SETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sets): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:15Z
+  Updated: 2025-11-13T16:44:19Z
   Total Products: 17
 - [SALE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:58:14Z
-  Total Products: 466
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 365
 - [RESTOCKED POPULAR ITEMS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/restocked-popular-items): - It's a Girly Place - Type
-  Updated: 2025-11-11T22:22:01Z
-  Total Products: 166
+  Updated: 2025-11-13T21:10:27Z
+  Total Products: 126
 - [SALE PLUS SIZE - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sale): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:08:06Z
-  Total Products: 130
+  Updated: 2025-11-13T23:53:50Z
+  Total Products: 109
 - [RINGS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/rings): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:16Z
-  Total Products: 6
+  Updated: 2025-11-12T23:44:59Z
+  Total Products: 3
 - [SALE JEWELRY - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-jewelry): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:16Z
-  Total Products: 115
+  Updated: 2025-11-13T23:17:51Z
+  Total Products: 67
 - [SALE ACCESSORIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-accessories): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:02:50Z
-  Total Products: 12
+  Updated: 2025-11-13T01:01:58Z
+  Total Products: 10
 - [SALE 10% Off - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-10): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:16Z
   Total Products: 41
@@ -2612,70 +2594,70 @@
   Updated: 2025-11-11T21:58:14Z
   Total Products: 24
 - [SALE 30% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-30-off): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:16Z
-  Total Products: 27
+  Updated: 2025-11-12T05:55:19Z
+  Total Products: 26
 - [SALE 40% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-40-off): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:16Z
-  Total Products: 68
+  Updated: 2025-11-13T20:40:03Z
+  Total Products: 60
 - [SALE 50% OFF - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-50-off): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:49:37Z
-  Total Products: 343
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 249
 - [SALE APPAREL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sale-apparel): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:58:14Z
-  Total Products: 209
+  Updated: 2025-11-13T23:56:18Z
+  Total Products: 179
 - [PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/products): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:50:22Z
+  Updated: 2025-11-13T23:58:28Z
   Total Products: 3668
 - [SLEEPWEAR & LOUNGEWEAR - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sleepwear-loungewear): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:16Z
-  Total Products: 18
+  Updated: 2025-11-13T20:46:32Z
+  Total Products: 19
 - [SWIMWEAR & COVER-UPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/swimwear-cover-ups): - It's a Girly Place - Type
   Updated: 2025-11-11T22:04:49Z
   Total Products: 18
 - [FORMAL - It's a Girly Place - Type](https://itsagirlyplace.com/collections/party-formal-wear): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:37:12Z
-  Total Products: 25
+  Updated: 2025-11-13T23:25:52Z
+  Total Products: 28
 - [APPPlaza - BEST SELLERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/appplaza-best-sellers): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:50:22Z
+  Updated: 2025-11-13T23:58:28Z
   Total Products: 3670
 - [COATS & JACKETS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/coats-jackets): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:16Z
   Total Products: 67
 - [MADE IN USA - It's a Girly Place - Type](https://itsagirlyplace.com/collections/made-in-usa): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:17Z
-  Total Products: 155
+  Updated: 2025-11-13T23:37:06Z
+  Total Products: 145
 - [MAXI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/maxi-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:37:12Z
-  Total Products: 19
+  Updated: 2025-11-13T23:53:50Z
+  Total Products: 27
 - [MINI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/mini-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:31:04Z
-  Total Products: 15
+  Updated: 2025-11-13T20:15:35Z
+  Total Products: 17
 - [T-SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/t-shirts): - It's a Girly Place - Type
   Updated: 2025-11-11T16:21:12Z
   Total Products: 9
 - [JEANS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/jeans): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:17Z
-  Total Products: 9
+  Updated: 2025-11-13T23:28:23Z
+  Total Products: 6
 - [MIDI DRESSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/midi-dresses): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:50:32Z
-  Total Products: 23
+  Updated: 2025-11-13T00:32:55Z
+  Total Products: 26
 - [MAXI SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/maxi-skirts): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:17Z
-  Total Products: 1
+  Updated: 2025-11-12T05:48:47Z
+  Total Products: 0
 - [SPORTS BRAS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sports-bras): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:17Z
   Total Products: 0
 - [SWEATERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sweaters): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:23:48Z
-  Total Products: 53
+  Updated: 2025-11-13T17:23:19Z
+  Total Products: 52
 - [PLUS SIZE SWEATERS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sweaters): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:17Z
   Total Products: 9
 - [PANTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/pants): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:17Z
-  Total Products: 64
+  Updated: 2025-11-13T00:33:18Z
+  Total Products: 61
 - [SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/skirts): - It's a Girly Place - Type
-  Updated: 2025-11-11T21:58:14Z
+  Updated: 2025-11-13T19:47:36Z
   Total Products: 53
 - [MINI SKIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/mini-skirts): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:17Z
@@ -2684,8 +2666,8 @@
   Updated: 2025-11-11T08:04:17Z
   Total Products: 7
 - [BLOUSES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/blouses): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:17Z
-  Total Products: 41
+  Updated: 2025-11-12T04:39:21Z
+  Total Products: 42
 - [CAMI TOP - It's a Girly Place - Type](https://itsagirlyplace.com/collections/cami-top): - It's a Girly Place - Type
   Updated: 2025-11-11T23:37:12Z
   Total Products: 1
@@ -2693,11 +2675,11 @@
   Updated: 2025-11-11T08:04:17Z
   Total Products: 11
 - [HOODIES - It's a Girly Place - Type](https://itsagirlyplace.com/collections/hoodie): - It's a Girly Place - Type
-  Updated: 2025-11-11T23:31:04Z
-  Total Products: 11
+  Updated: 2025-11-12T05:34:52Z
+  Total Products: 10
 - [CARDIGANS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/cardigans): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 28
+  Updated: 2025-11-13T00:03:23Z
+  Total Products: 30
 - [SWEATSHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/sweatshirts): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:18Z
   Total Products: 11
@@ -2705,14 +2687,14 @@
   Updated: 2025-11-11T08:04:18Z
   Total Products: 2
 - [PLUS SIZE SWEATSHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-sweatshirts): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 5
+  Updated: 2025-11-13T04:33:59Z
+  Total Products: 4
 - [PLUS SIZE T-SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-t-shirts): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:18Z
   Total Products: 5
 - [PLUS SIZE SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-shirts): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 22
+  Updated: 2025-11-13T23:37:06Z
+  Total Products: 17
 - [SHIRTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/shirts): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:18Z
   Total Products: 14
@@ -2729,23 +2711,23 @@
   Updated: 2025-11-11T08:04:18Z
   Total Products: 1
 - [SHORTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/shorts): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 11
+  Updated: 2025-11-12T05:33:49Z
+  Total Products: 12
 - [PLUS SIZE SHORTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-shorts): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 0
+  Updated: 2025-11-13T16:57:41Z
+  Total Products: 1
 - [Plus Size Blouses - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-blouses): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:18Z
   Total Products: 46
 - [TUNICS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tunics): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 9
+  Updated: 2025-11-13T23:34:42Z
+  Total Products: 10
 - [PLUS SIZE TUNICS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-tunics): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:18Z
-  Total Products: 14
+  Updated: 2025-11-13T00:28:57Z
+  Total Products: 13
 - [TANK TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/tank-tops): - It's a Girly Place - Type
-  Updated: 2025-11-11T08:04:19Z
-  Total Products: 35
+  Updated: 2025-11-13T20:22:05Z
+  Total Products: 38
 - [PLUS SIZE TANK TOPS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/plus-size-tank-tops): - It's a Girly Place - Type
   Updated: 2025-11-11T08:04:19Z
   Total Products: 4
@@ -2774,7 +2756,7 @@
   Updated: 2025-11-11T08:04:19Z
   Total Products: 0
 - [ALL PRODUCTS - It's a Girly Place - Type](https://itsagirlyplace.com/collections/all): Shop all products from It’s a Girly Place — inclusive, sustainable fashion and accessories that empower women and give back $1 per purchase to animal welfare.
-  Updated: 2025-11-11T23:50:22Z
+  Updated: 2025-11-13T23:58:28Z
   Total Products: 3668
 - [Chic Hobo bags Collection | It’s a Girly Place](https://itsagirlyplace.com/collections/hobo-bags): Discover timeless elegance with the Chic Hobo bags Collection from It’s a Girly Place — sustainable, styles that give back $1 per purchase to animal welfare.
   Updated: 2025-11-11T08:04:19Z
