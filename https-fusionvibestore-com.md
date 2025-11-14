@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-10T00:00:34.853Z
+- Updated At: 2025-11-14T00:00:26.664Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-11-07T08:25:51Z
+  Updated: 2025-11-13T10:27:12Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -1108,6 +1108,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
+- [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
+  Updated: 2025-11-13T19:46:46Z
+  Vendor: z60ja0-0n
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5952737729.jpg?v=1759815705
+  Price: $11.00 USD
 - [LEING FST Virtual Laser Keyboard Bluetooth Wireless Projector Phone Keyboard For Computer Pad Laptop With Mouse Function](https://fusionvibestore.com/products/leing-fst-virtual-laser-keyboard-bluetooth-wireless-projector-phone-keyboard-for-computer-pad-laptop-with-mouse-function): Overview: Using a new independent research and development algorithm to deal with the chip A80, the A80 algorithm chip can effectively identify 7 different points at the same time, the change is to better improve the anti-interference of the keyboard, so that the sensitivity and accuracy of the keyboard input are compared. The previous generation has a significant improvement. At the same time, the mouse mode also supports the enlargement and reduction of the picture in the WINDOWS7 system and the recognition of the page turning gesture. Specification 1. White Keyboard name:KB630-M1 Keyboard size: 9cm*4.5cm*5cm Projection size: 10cm*25cm Connection method: USB cable, Bluetooth (imported Bluetooth chip) Battery capacity: 2500mAh(MAX)@3.7V Battery life: 6 hours Main functions: stand function, power bank function, USB cable Direct connection to computer, keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 2. Black Keyboard name: KB560S Keyboard size: 7.8cm*4cm*1.9cm Projection size: 10cm*24cm Connection method: Bluetooth (if there is no Bluetooth, a Bluetooth adapter is required) Battery capacity: 700mAh(MAX)@3.7V Battery life: 120 minutes Main function: keyboard function, mouse function Keyboard layout: QWERTY layout (about 20MM spacing) Light source: red laser Work Platform: Non-reflective, opaque plane Recognition rate: 350 words/min Bluetooth: v3.O. HID PROFILEVER 1.0 Frequency range: 2402-2480MHZ Modulation method: GFSK Channels: 79 Package Content : 1*Laser Keyboard
   Updated: 2025-10-09T07:25:16Z
   Vendor: z60ja0-0n
@@ -1585,7 +1592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
     Price: $25.23 USD
 - [Women's Fashion Casual Pocket Top](https://fusionvibestore.com/products/womens-fashion-casual-pocket-top): Product information: Design: plants and flowers Style: Pullover Version type: Loose type Sleeve length: Long sleeves Sleeve type: Lantern sleeve Collar type: hooded Thickness: Medium Popular element: Pockets Process: Digital printing Main fabric: Polyester (polyester) Color: Khaki, light grey Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Sweatshirt X1PCS Product Image:
-  Updated: 2025-11-06T15:28:23Z
+  Updated: 2025-11-12T08:27:15Z
   Vendor: z60ja0-0n
   Product Type: Women Clothing
   Availability: Available
