@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-10T00:00:29.395Z
+- Updated At: 2025-11-14T00:00:27.539Z
 
 ## Products
 
@@ -1340,7 +1340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/DJI_AGRAS_T50_Mixer_Combo.jpg?v=1735566082
   Price: 185.006,58 lei RON
 - [DJI Mavic 3M Standard](https://droneagricole.ro/products/dji-mavic-3m-copy): INCLUS: 1x Drona DJI Mavic 3 Multispectral 3x Acumulator 1x Hub de incarcare baterii DJI Mavic 3M este o dronă profesională echipată cu o cameră multispectrală de 5 MP și un senzor RGB de 20 MP, oferind o soluție completă pentru aplicații în agricultură de precizie și monitorizarea mediului. Cu o autonomie de zbor de până la 43 de minute și o viteză maximă de 21 m/s în modul sport, aceasta asigură performanță ridicată în condiții variate. Sistemul său de stabilizare pe 3 axe și senzorii de evitare a obstacolelor pe 360 de grade garantează un zbor sigur și stabil. Ideală pentru utilizări industriale, Mavic 3M permite capturarea de imagini precise și analize detaliate ale vegetației și terenurilor. Specificații Tehnice - Aeronava Greutatea netă (cu elice și modul RTK): 951 g Greutatea maximă la decolare: 1.050 g Dimensiuni (pliate/ deschise): Pliante (fără elice): 223×96,3×122,2 mm (Lungime×Lățime×Înălțime) Deschise (fără elice): 347,5×283×139,6 mm (Lungime×Lățime×Înălțime) Lungimea diagonală: 380,1 mm Viteza maximă de urcare: 6 m/s (Mod normal), 8 m/s (Mod sport) Viteza maximă de coborâre: 6 m/s (Mod normal), 6 m/s (Mod sport) Viteza maximă de zbor (la nivelul mării, fără vânt): 15 m/s (Mod normal), 21 m/s (zbor înainte), 20 m/s (zbor lateral), 19 m/s (zbor înapoi - Mod sport) Rezistență la vânt maximă: 12 m/s Altitudine maximă de decolare față de nivelul mării: 6000 m (fără încărcătură) Timp maxim de zbor (fără vânt): 43 minute Timp maxim de plutire (fără vânt): 37 minute Distanță maximă de zbor: 32 km Unghiul maxim de înclinare: 30° (Mod normal), 35° (Mod sport) Viteza maximă de rotație: 200°/s GNSS: GPS + Galileo + BeiDou + GLONASS (GLONASS este disponibil doar când modul RTK este activat) Precizia la plutire: Verticală: ±0.1 m (Poziționare vizuală activată), ±0.5 m (Poziționare GNSS activată), ±0.1 m (D-RTK activat) Orizontală: ±0.3 m (Poziționare vizuală activată), ±0.5 m (Poziționare HD activată), ±0.1 m (RTK activat) Temperatura de operare: -10° la 40° C Stocare internă: N/A Motor Model: 2008 Model elice: 9453F Enterprise Edition Senzor de lumină: Modul integrat Cameră RGB: Senzor imagine: 4/3 CMOS Pixeli efectivi: 20 MP Obiectiv: FOV: 84°, lungime focala echivalentă: 24 mm, apertură: f/2.8 la f/11 Interval ISO: 100-6400 Viteză de expunere: Obturator electronic: 8-1/8000 s, Obturator mecanic: 8-1/2000 s Dimensiune maximă imagine: 5280×3956 Moduri de fotografiere: Fotografie unică: 20 MP, Fotografie temporizată: 20 MP Rezoluție video: H.264: 4K: 3840×2160@30fps, FHD: 1920×1080@30fps Bitrate maxim video: 4K: 130Mbps, FHD: 70Mbps Cameră multispectrală: Senzor imagine: CMOS de 1/2.8 inch, pixeli efectivi: 5 MP Obiectiv: FOV: 73.91° (61.2° x 48.10°), lungime focală echivalentă: 25 mm, apertură: f/2.0 Benzi multispectrale: Verde (G), Roșu (R), Roșu Edge (RE), Near Infrared (NIR) Viteza de expunere: Obturator electronic: 1/30~1/12800 s Dimensiune maximă imagine: 2592×1944 Format imagine: TIFF Rezoluție video: FHD: 1920x1080@30fps Bitrate maxim video: Stream: 60 Mbps Gimbal: Stabilizare: Gimbal mecanic pe 3 axe (înclinare, rotație, panoramare) Gama mecanică: Înclinare: -135° la 45°, Rotație: -45° la 45°, Panoramare: -27° la 27° Gama controlabilă: Înclinare: -90° la 35°, Panoramare: Nu este controlabil Sistem de detecție obstacole: Sistem omnidirecțional cu viziune binoculă și senzor infrared pe partea inferioară a aeronavei Transmisie video: Sistem transmisie video: DJI O3 Image Transmission Industry Edition Calitatea vizualizării live: 1080p/30fps Distanța maximă semnal eficient (fără obstacole, fără interferențe): FCC: 15 km, CE: 8 km, SRRC: 8 km, MIC: 8 km Baterie: Tip: LiPo 4S, 5000 mAh, 15.4 V Capacitate energie: 77 watt-hours Timp de încărcare: Aproximativ 1,5 ore (folosind Hub-ul de încărcare 100W) Dimensiuni RTK: 50.2×40.2×66.2 mm Greutate RTK: 24±2 g Precizia poziționare RTK: Orizontală: 1 cm + 1 ppm, Verticală: 1.5 cm + 1 ppm Temperatura de încărcare: 5° la 40° C
-  Updated: 2025-10-07T11:14:19Z
+  Updated: 2025-11-12T04:11:43Z
   Vendor: DJI
   Product Type: 
   Availability: Available
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/Drona_DJI_Mavic_3_Multispectral_Complete.jpg?v=1735566488
   Price: 62.166,65 lei RON
 - [DJI Spotlight 75W](https://droneagricole.ro/products/dji-spotlight-75w): DJI Spotlight 75WCaracteristici: Instalare ușoară Ajută în operațiuni în condiții de iluminare scăzută Compatibil: DJI Agras T25 DJI Agras T50
-  Updated: 2025-10-01T12:00:26Z
+  Updated: 2025-11-12T02:49:22Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
@@ -1396,7 +1396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/WhatsApp_Image_2025-05-02_at_13.13.24_3.jpg?v=1746692050
   Price: 44.606,70 lei RON
 - [Serviciu Corecție RTK – Abonament Anual (150 de ore incluse)](https://droneagricole.ro/products/serviciu-corecție-rtk-abonament-anual-150-de-ore-incluse): Optimizează precizia lucrărilor agricole cu serviciul nostru de corecție RTK (Real-Time Kinematic), esențial pentru o navigare exactă și o aplicare precisă a tratamentelor. Abonament anual – Beneficiezi de acces continuu la corecțiile RTK pe tot parcursul anului. 400 de ore incluse – Pachetul acoperă 400 de ore de utilizare pentru activitățile agricole esențiale. Precizie centimetrică – Îmbunătățește performanța echipamentului tău cu o precizie de până la ±2 cm. Se pot achiziționa ore suplimentare de corecție la 100 lei/ 100 ore Ideal pentru fermieri și operatori de drone agricole care doresc eficiență și rezultate superioare în teren.
-  Updated: 2025-08-20T07:47:20Z
+  Updated: 2025-11-13T14:56:58Z
   Vendor: Drone Agricole Riagro
   Product Type: 
   Availability: Available
