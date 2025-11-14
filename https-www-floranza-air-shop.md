@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-11-13T00:00:44.484Z
+- Updated At: 2025-11-14T00:00:41.199Z
 
 ## Products
 
@@ -13912,11 +13912,11 @@
   Updated: 2025-10-17T16:38:23Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-11-12T12:58:05Z
-  Total Products: 489
+  Updated: 2025-11-13T20:17:04Z
+  Total Products: 494
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-29T11:25:13Z
-  Total Products: 489
+  Updated: 2025-11-13T20:17:04Z
+  Total Products: 494
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-17T16:38:23Z
   Total Products: 6
