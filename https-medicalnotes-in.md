@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-11-18T06:39:38Z
 - Contact Email: themedicalnotes@yahoo.com
-- Updated At: 2025-11-11T00:00:26.266Z
+- Updated At: 2025-11-14T00:00:37.987Z
 
 ## Products
 
@@ -18,19 +18,12 @@
   Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/Swipe-ezgif.com-png-to-webp-converter.webp?v=1734128214
   Price: ₹499.00 INR
 - [1400 Premium Medical Books Bundle](https://medicalnotes.in/products/1453-premium-medical-books-bundle): body { font-family: "Figtree", sans-serif; color: #333; margin: 0; padding: 0; background-color: #f9f9f9; } .container { width: 100%; max-width: 100%; margin: 0; padding: 20px 10px; background: linear-gradient(135deg, #ffffff, #f8f8f8); border-radius: 0; box-shadow: none; text-align: center; } .header-title { font-size: 1.6em; font-weight: bold; color: #007bff; margin-bottom: 6px; } @media (min-width: 768px) { .header-title { font-size: 2em; } } .sub-title { font-size: 1.2em; color: #ff4081; font-weight: bold; margin-bottom: 20px; } .info { font-size: 1.1em; line-height: 1.7; color: #444; margin-bottom: 30px; } .highlight { color: #ff5722; font-weight: bold; } .cta-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px; } .cta-buttons a { display: inline-block; background: linear-gradient(135deg, #f441a5, #ffb700); color: white; text-decoration: none; padding: 12px 22px; font-size: 1.1em; font-weight: bold; border-radius: 50px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); box-shadow: 0 6px 18px rgba(244, 65, 165, 0.4); transition: all 0.3s ease-in-out; } .cta-buttons a:hover { background: linear-gradient(135deg, #ffb700, #f441a5); box-shadow: 0 8px 22px rgba(244, 65, 165, 0.5); transform: translateY(-3px) scale(1.05); } .cta-buttons a.amazon { background: linear-gradient(135deg, #ffd54f, #ff6f00); color: black; } .cta-buttons a.amazon:hover { background: linear-gradient(135deg, #ff6f00, #ffd54f); } .index-section { font-size: 1.05em; font-weight: bold; color: #555; margin-bottom: 30px; } .footer { font-size: 1em; color: #666; font-weight: bold; margin-top: 30px; } 🎉 Get a FREE Book worth ₹3000 before you buy the full product 🎉 A Gift of Trust & Quality Experience the premium quality of our medical resources with a full sample book. Download Macleod's Clinical OSCEs - Paul O'Neill, a must-have for medical students and professionals, valued at ₹3085 on Amazon! 🔎 Check Amazon Price ₹3085 📥 Download It Free Now Our collection is so massive that we can't list all the books here. Click below to download the full list of 1,400+ medical books available! 📥 Download Full List of Books Upgrade your medical education with trusted, high-quality resources. This opportunity is one in a lifetime—don’t miss it!
-  Updated: 2025-10-25T18:57:27Z
+  Updated: 2025-11-12T09:03:44Z
   Vendor: Medical Notes
   Product Type: Medical Books
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/smallsiejpeg.jpg?v=1734116711
   Price: ₹3,799.00 INR
-- [1400+ Medical Books Bundle](https://medicalnotes.in/products/1400-medical-books-bundle): body { font-family: "Figtree", sans-serif; color: #333; margin: 0; padding: 0; background-color: #f9f9f9; } .container { width: 100%; max-width: 100%; margin: 0; padding: 20px 10px; background: linear-gradient(135deg, #ffffff, #f8f8f8); border-radius: 0; box-shadow: none; text-align: center; } .header-title { font-size: 1.6em; font-weight: bold; color: #007bff; margin-bottom: 6px; } @media (min-width: 768px) { .header-title { font-size: 2em; } } .sub-title { font-size: 1.2em; color: #ff4081; font-weight: bold; margin-bottom: 20px; } .info { font-size: 1.1em; line-height: 1.7; color: #444; margin-bottom: 30px; } .highlight { color: #ff5722; font-weight: bold; } .cta-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px; } .cta-buttons a { display: inline-block; background: linear-gradient(135deg, #f441a5, #ffb700); color: white; text-decoration: none; padding: 12px 22px; font-size: 1.1em; font-weight: bold; border-radius: 50px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); box-shadow: 0 6px 18px rgba(244, 65, 165, 0.4); transition: all 0.3s ease-in-out; } .cta-buttons a:hover { background: linear-gradient(135deg, #ffb700, #f441a5); box-shadow: 0 8px 22px rgba(244, 65, 165, 0.5); transform: translateY(-3px) scale(1.05); } .cta-buttons a.amazon { background: linear-gradient(135deg, #ffd54f, #ff6f00); color: black; } .cta-buttons a.amazon:hover { background: linear-gradient(135deg, #ff6f00, #ffd54f); } .index-section { font-size: 1.05em; font-weight: bold; color: #555; margin-bottom: 30px; } .footer { font-size: 1em; color: #666; font-weight: bold; margin-top: 30px; } 🎉 Get a FREE Book worth ₹3000 before you buy the full product 🎉 A Gift of Trust & Quality Experience the premium quality of our medical resources with a full sample book. Download Macleod's Clinical OSCEs - Paul O'Neill, a must-have for medical students and professionals, valued at ₹3085 on Amazon! 🔎 Check Amazon Price ₹3085 📥 Download It Free Now Our collection is so massive that we can't list all the books here. Click below to download the full list of 1,400+ medical books available! 📥 Download Full List of Books Upgrade your medical education with trusted, high-quality resources. This opportunity is one in a lifetime—don’t miss it!
-  Updated: 2025-10-27T18:03:28Z
-  Vendor: Medical Notes
-  Product Type: Medical Books
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0916/2388/3028/files/smallsiejpeg.jpg?v=1734116711
-  Price: ₹977.00 INR
 
 ## Collections
 
