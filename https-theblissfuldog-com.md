@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-11-13T00:00:47.524Z
+- Updated At: 2025-11-14T00:00:36.609Z
 
 ## Products
 
@@ -6268,7 +6268,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/3CUTE_RELAX_SPRAY_2500_ed90df96-ab27-489c-ac11-38da99b90f63.jpg?v=1623528031
     Price: $13.95 USD
 - [Is Your Staffy Bull Terrier Afraid of Thunderstorms? Fireworks?](https://theblissfuldog.com/products/staffordshire-pit-bull-terrier-relax-dog-aromatherapy): Is your Staffy Bull Terrier Afraid of Thunder? Fireworks? The Blissful Dog Relax Aromatherapy lessens your dog's anxiety using essential oils. Free Shipping USA
-  Updated: 2025-10-16T15:40:15Z
+  Updated: 2025-11-13T08:56:04Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -8079,7 +8079,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-GOLDENDOODLE_CUSTOM_COMBO.jpg?v=1626814311
   Price: $29.95 USD
 - [Senior Australian Shepherd Age Well Aromatherapy Support for Aging Dog](https://theblissfuldog.com/products/australian-shepherd-age-well-dog-aromatherapy): Senior Australian Shepherd Age Well Dog Aromatherapy uses our gentle blend of essential oils to soothe the rough edges of aging for your Aussie.
-  Updated: 2025-10-16T15:40:31Z
+  Updated: 2025-11-13T05:43:30Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -12800,7 +12800,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ENG_TOY_15TUBE_COMBO_c645383a-5ccd-4bb9-9dbb-5ac7ad94a01d.jpg?v=1648484915
   Price: $19.50 USD
 - [Fila Brasileiro Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/fila-brasileiro-tube-combo): The Blissful Dog Build Your Own Fila Brasileiro Skin Care Combo. Our all natural balms soothe ETS rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-30T09:39:06Z
+  Updated: 2025-11-13T05:39:21Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
@@ -17122,7 +17122,7 @@
   Updated: 2025-11-05T12:01:41Z
   Total Products: 116
 - [The Blissful Dog NOSE BUTTER® for Your Dog's Rough, Dry, Crusty Nose](https://theblissfuldog.com/collections/nose-butter): The Blissful Dog NOSE BUTTER® moisturizes your dog's rough, dry or crusty Nose. All natural, individually handcrafted in northern Minnesota in tins or tubes.
-  Updated: 2025-11-11T12:01:37Z
+  Updated: 2025-11-13T12:01:37Z
   Total Products: 120
 - [Blissful Dog Boo Boo Butter: Remedy for Dog Skin Irritation](https://theblissfuldog.com/collections/boo-boo-butter): Give your dog some relief from their minor skin irritations with our Boo Boo Butter! All-natural, the salve is great for issues like crusty ears and itchy skin.
   Updated: 2025-11-11T12:01:37Z
@@ -17476,7 +17476,7 @@
   Updated: 2025-11-10T12:02:08Z
   Total Products: 8
 - [Every Dog Nose Butter Collection Moisturizer for Dry Dog Noses](https://theblissfuldog.com/collections/just-nose-butter-collection): Your dog's nose is crusty, maybe cracked and you want to get some dog Nose Butter® and have your dog's nose moisturized. You're at the right place!
-  Updated: 2025-11-12T12:02:06Z
+  Updated: 2025-11-13T12:01:37Z
   Total Products: 724
 - [Dog Colognes & Perfumes | Pet Deodorants | The Blissful Dog](https://theblissfuldog.com/collections/dog-cologne-sniffing-irresistible): Enhance your dog's scent with this set of colognes and perfumes! Not only do the deodorant sprays smell delightful, but they also detangle and condition coats!
   Updated: 2025-11-10T12:02:08Z
@@ -17546,7 +17546,7 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-11-12T12:02:06Z
   Total Products: 34
 - [All Products (Excluding Route+)](https://theblissfuldog.com/collections/all-products-excluding-route)
-  Updated: 2025-11-12T12:02:06Z
+  Updated: 2025-11-13T12:01:37Z
   Total Products: 723
 - [Lagotto Romagnolo Truffe Hunting Uber-Adorable Italian Floof](https://theblissfuldog.com/collections/lagotto-romagnolo): The Lagotto Romagnolo is one of those dog breeds that is a total package. Absolutely adorable, they are covered in soft silky, curls are usually around 35 pounds.
   Updated: 2025-10-26T11:02:10Z
@@ -17570,10 +17570,10 @@ Individually handcrafted in far, far northern Minnesota.
   Updated: 2025-11-01T11:02:18Z
   Total Products: 11
 - [The Blissful Dog Brussels Griffon Collection for Your Griff's Needs](https://theblissfuldog.com/collections/brussels-griffon): Shop The Blissful Dog Everything Brussels Griffon Collection for your born to be spoiled Griff. Everything you need for the Brussels Griffon in your life
-  Updated: 2025-11-12T12:02:06Z
+  Updated: 2025-11-13T12:01:37Z
   Total Products: 18
 - [Spently - Recommended Products](https://theblissfuldog.com/collections/spently_products): This collection is used by the Spently app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the Spently app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-11-12T12:02:06Z
+  Updated: 2025-11-13T12:01:37Z
   Total Products: 725
 - [The Blissful Dog Keeshond Skin Care Collection](https://theblissfuldog.com/collections/keeshond-collection): Keeshond are known for #1-Spectacles, #2-Smile & #3-Coat. For your Kees having healthy skin is a must. Check out our skincare and bath collection for Keeshond.
   Updated: 2025-11-11T12:01:37Z
