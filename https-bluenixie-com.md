@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-11-09T00:00:38.394Z
+- Updated At: 2025-11-14T00:00:45.283Z
 
 ## Products
 
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/22041D-Red_2.jpg?v=1700649770
     Price: ₹495.00 INR
 - [Bluenixie BN3014-Sproty Slip On Medium Impact Sports Bra# Lounge Bra](https://bluenixie.com/products/sports-bra-for-gym-and-yoga): Discover comfortable sports bras for gym and yoga in sizes S to 5XL. Elevate your workout with optimal support and style. Shop now!
-  Updated: 2025-09-16T14:03:07Z
+  Updated: 2025-11-13T13:40:44Z
   Vendor: Blue Nixie
   Product Type: Slip on sports bra
   Availability: Available
@@ -433,7 +433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹299.00 INR
   - [S / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204829864250)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹299.00 INR
   - [S / Nude Skin](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204829897018)
@@ -465,7 +465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹335.00 INR
   - [L / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204829962554)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹335.00 INR
   - [L / Nude Skin](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204829995322)
@@ -497,7 +497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹335.00 INR
   - [M / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830060858)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹335.00 INR
   - [M / Nude Skin](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830093626)
@@ -529,7 +529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹335.00 INR
   - [XL / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830159162)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹335.00 INR
   - [XL / Nude Skin](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830191930)
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹355.00 INR
   - [2XL / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830257466)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹355.00 INR
   - [2XL / Nude Skin](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830290234)
@@ -625,11 +625,11 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/3014BLACK_3.jpg?v=1687513673
     Price: ₹399.00 INR
   - [4XL / Blue](https://bluenixie.com/products/sports-bra-for-gym-and-yoga?variant=45204830454074)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN3014Black_1.jpg?v=1687527092
     Price: ₹399.00 INR
 - [Full Coverage Minimizer Bra](https://bluenixie.com/products/full-coverage-minimizer-bra): Experience ultimate comfort and confidence in our Full Coverage Minimizer Bra & Body Shaper – your ideal daily essential. This cami-style bra offers all-around 360° support, smoothing, and slimming effects. Available in sizes ranging from 32 C to 42 D.
-  Updated: 2025-10-06T04:00:06Z
+  Updated: 2025-11-12T21:06:31Z
   Vendor: Blue Nixie
   Product Type: non padded
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/210PINK_1.jpg?v=1687353859
     Price: ₹405.00 INR
 - [Bluenixie BNSL0020_Semilongs Anti Chaffing Stretch Cotton Boys Shorts](https://bluenixie.com/products/bnsemilongs-anti-chaffing-stretch-cotton-boys-shorts): Made of Stretch Cotton Fabric in anti chaffing style for snug fit. It prevents frictions between thighs so prevents body rashes on those parts. Can be worn under skirts,pants,ethnic wear,saree,school uniform etc. Best suited for plus size beauties.
-  Updated: 2025-10-28T06:53:09Z
+  Updated: 2025-11-11T08:07:42Z
   Vendor: Blue Nixie
   Product Type: Clothing
   Availability: Available
@@ -1206,156 +1206,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/02MAROON_1.jpg?v=1691236068
     Price: ₹425.00 INR
-- [BlueNixie online Cotton Lounge Shorts for Girl](https://bluenixie.com/products/cotton-lounge-shorts-for-girl): Plain Knee Length Shorts, Made of 100% knitted cotton in plain color
-  Updated: 2025-08-07T13:50:20Z
-  Vendor: Blue Nixie
-  Product Type: Lounge wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-  - [Black / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45303370055994)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Black / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974226234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Black / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974259002)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Black / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974291770)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Black / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974324538)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹460.00 INR
-  - [Black / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974390074)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BALCK.jpg?v=1684388567
-    Price: ₹475.00 INR
-  - [Blue / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45303370088762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Blue / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974422842)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Blue / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974455610)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Blue / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974488378)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Blue / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974521146)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹460.00 INR
-  - [Blue / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974553914)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7202.jpg?v=1684388569
-    Price: ₹475.00 INR
-  - [Grey / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45303370121530)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Grey / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974586682)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Grey / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974619450)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Grey / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974652218)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹435.00 INR
-  - [Grey / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974684986)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹460.00 INR
-  - [Grey / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974717754)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7199.jpg?v=1684388567
-    Price: ₹475.00 INR
-  - [Peach / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45303370154298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Peach / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974750522)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Peach / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974783290)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Peach / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974816058)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Peach / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974848826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹460.00 INR
-  - [Peach / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974881594)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7178.jpg?v=1684388569
-    Price: ₹475.00 INR
-  - [Air force blue / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974914362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Air force blue / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974947130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Air force blue / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331974979898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Air force blue / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975012666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹435.00 INR
-  - [Air force blue / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975045434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹460.00 INR
-  - [Air force blue / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975078202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7183.jpg?v=1684388569
-    Price: ₹475.00 INR
-  - [Maroon / S](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975110970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹435.00 INR
-  - [Maroon / M](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975143738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹435.00 INR
-  - [Maroon / L](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975176506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹435.00 INR
-  - [Maroon / XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975209274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹435.00 INR
-  - [Maroon / 2XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975242042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹460.00 INR
-  - [Maroon / 3XL](https://bluenixie.com/products/cotton-lounge-shorts-for-girl?variant=45331975274810)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/dy7155.jpg?v=1693312324
-    Price: ₹475.00 INR
 - [BlueNixie BN1802 Cotton Rich T-shirt Bra](https://bluenixie.com/products/moulded-cup-t-shirt-bra): Bluenixie: Kids' Fashion Heaven! daily wear bra Shop Now! 1000+ Trendy Options. Free Shipping. COD. Fast & Chic!
   Updated: 2025-09-17T10:25:03Z
   Vendor: Blue Nixie
@@ -1482,164 +1332,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1802RED_2.jpg?v=1687420543
     Price: ₹250.00 INR
-- [BlueNixie Full coverage Bridal Bra Panty Set for Bride on your wedding](https://bluenixie.com/products/full-coverage-bridal-bra-panty-set): Made of stretch lace with lycra fabric in side panels. Full coverage cups for bulge free fitting. Made for special occasions .
-  Updated: 2025-09-08T20:41:12Z
-  Vendor: Blue Nixie
-  Product Type: Bridal Bra Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1936.jpg?v=1693313478
-  - [32 / C / Salmon](https://bluenixie.com/products/full-coverage-bridal-bra-panty-set?variant=45307270431034)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1968.jpg?v=1685890012
-    Price: ₹599.00 INR
-  - [34 / C / Salmon](https://bluenixie.com/products/full-coverage-bridal-bra-panty-set?variant=45307270463802)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1968.jpg?v=1685890012
-    Price: ₹599.00 INR
-  - [36 / C / Salmon](https://bluenixie.com/products/full-coverage-bridal-bra-panty-set?variant=45307270496570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1968.jpg?v=1685890012
-    Price: ₹599.00 INR
-  - [38 / C / Salmon](https://bluenixie.com/products/full-coverage-bridal-bra-panty-set?variant=45307270529338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1968.jpg?v=1685890012
-    Price: ₹599.00 INR
-- [BlueNixie online Bridal Bra Set for Bride on your wedding and Honeymoon](https://bluenixie.com/products/bridal-bra-set-1): Made of stretch lace with lycra fabric in side panels. Full coverage cups for bulge free fitting. Made for special occasions .
-  Updated: 2025-10-23T19:54:30Z
-  Vendor: Blue Nixie
-  Product Type: Bridal Bra Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1870.jpg?v=1685948557
-  - [32C / Red](https://bluenixie.com/products/bridal-bra-set-1?variant=45307344191802)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1883.jpg?v=1685948578
-    Price: ₹599.00 INR
-  - [34C / Red](https://bluenixie.com/products/bridal-bra-set-1?variant=45307344224570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1883.jpg?v=1685948578
-    Price: ₹599.00 INR
-  - [36C / Red](https://bluenixie.com/products/bridal-bra-set-1?variant=45307344257338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1883.jpg?v=1685948578
-    Price: ₹599.00 INR
-  - [38C / Red](https://bluenixie.com/products/bridal-bra-set-1?variant=45307344290106)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1883.jpg?v=1685948578
-    Price: ₹599.00 INR
-- [BlueNixie Bridal Bra Panty Set for Wedding and Honeymoon Bra](https://bluenixie.com/products/bridal-bra-set): Discover elegance and romance with our handpicked Bridal Bra Panty Sets, curated for unforgettable weddings and enchanting honeymoons. Shop now for timeless beauty.
-  Updated: 2025-08-02T20:02:54Z
-  Vendor: Ego trip
-  Product Type: Bridal Bra Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2071.jpg?v=1694071320
-  - [32 / C / Choco](https://bluenixie.com/products/bridal-bra-set?variant=45310161846586)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2071.jpg?v=1694071320
-    Price: ₹599.00 INR
-  - [34 / C / Choco](https://bluenixie.com/products/bridal-bra-set?variant=45310161879354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2071.jpg?v=1694071320
-    Price: ₹599.00 INR
-  - [36 / C / Choco](https://bluenixie.com/products/bridal-bra-set?variant=45310161912122)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2071.jpg?v=1694071320
-    Price: ₹599.00 INR
-  - [38 / C / Choco](https://bluenixie.com/products/bridal-bra-set?variant=45310161944890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2071.jpg?v=1694071320
-    Price: ₹599.00 INR
-- [BlueNixie Padded Lace Bridal Bra Panty Set for Bride on your Honeymoon](https://bluenixie.com/products/blue-nixie-bnf2316-bridal-padded-set): Made of stretch lace with lycra fabric in side panels. Full coverage cups for bulge free fitting. Made for special occasions .
-  Updated: 2025-05-09T12:03:03Z
-  Vendor: Blue Nixie
-  Product Type: Bridal Bra Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2021.jpg?v=1693308302
-  - [32 / C / Grey](https://bluenixie.com/products/blue-nixie-bnf2316-bridal-padded-set?variant=45310233018682)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2034.jpg?v=1685951175
-    Price: ₹799.00 INR
-  - [34 / C / Grey](https://bluenixie.com/products/blue-nixie-bnf2316-bridal-padded-set?variant=45310233051450)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2034.jpg?v=1685951175
-    Price: ₹799.00 INR
-  - [36 / C / Grey](https://bluenixie.com/products/blue-nixie-bnf2316-bridal-padded-set?variant=45310233084218)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2034.jpg?v=1685951175
-    Price: ₹799.00 INR
-  - [38 / C / Grey](https://bluenixie.com/products/blue-nixie-bnf2316-bridal-padded-set?variant=45310233116986)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A2034.jpg?v=1685951175
-    Price: ₹799.00 INR
-- [BlueNixie Non padded Lace Bridal Bra Panty Set for Bride on your Honeymoon](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set): Made of stretch lace with lycra fabric in side panels. Full coverage B cups Non padded bra for bulge free fitting. Made for special occasions .
-  Updated: 2025-07-31T08:18:44Z
-  Vendor: Blue Nixie
-  Product Type: Bridal Bra Set
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1908.jpg?v=1693287138
-  - [32 / B / ST.BLUE](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291149114)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [32 / B / B.PINK](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291181882)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [32 / B / MAROON](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291214650)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [32 / B / GREY](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291247418)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [34 / B / ST.BLUE](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291280186)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [34 / B / B.PINK](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291312954)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [34 / B / MAROON](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291345722)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [34 / B / GREY](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291378490)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [36 / B / ST.BLUE](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291411258)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [36 / B / B.PINK](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291444026)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [36 / B / MAROON](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291476794)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [36 / B / GREY](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291509562)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [38 / B / ST.BLUE](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291542330)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [38 / B / B.PINK](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291575098)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [38 / B / MAROON](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291607866)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
-  - [38 / B / GREY](https://bluenixie.com/products/non-padded-lace-bridal-bra-panty-set?variant=45310291640634)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1914.jpg?v=1685952020
-    Price: ₹499.00 INR
 - [Cotton T-shirt Bras - BlueNixie Best T-Shirt Online India](https://bluenixie.com/products/cotton-t-shirt-bra): Made of combed cotton stretch fabric in molded soft cups. Low neck design for regular body size. Thin shoulder straps with easy adjusters. Cotton stretch fabric for snug fit.
   Updated: 2025-05-09T12:03:03Z
   Vendor: Next Body
@@ -2483,13 +2175,13 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN1078White_4.jpg?v=1686816182
     Price: ₹299.00 INR
 - [Bluenixie BN1701 Cotton Rich Full Coverage Bra](https://bluenixie.com/products/cotton-rich-full-coverage-bra): Shop Bluenixie BN1701 Cotton Rich Full Coverage Bra with molded cups & ultra-thin foam for all-day comfort. Perfect for tight & ethnic wear. Removable straps included.
-  Updated: 2025-10-22T03:30:11Z
+  Updated: 2025-11-11T15:34:57Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1701PURPLE_1.jpg?v=1687523041
   - [32C / Wine](https://bluenixie.com/products/cotton-rich-full-coverage-bra?variant=45455112765754)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1701PURPLE_2.jpg?v=1687523042
     Price: ₹500.00 INR
   - [32C / N.Skin](https://bluenixie.com/products/cotton-rich-full-coverage-bra?variant=45455112798522)
@@ -4028,336 +3720,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-White.png?v=1689769030
     Price: ₹960.00 INR
-- [BlueNixie Rayon Fabric Palazzos for women](https://bluenixie.com/products/rayon-fabric-palazzo): Bluenixie's Palazzo The Ultimate Fit Guarantee! Discover India's Most Size-Inclusive Brand with M-3XL Options. Cash on Delivery. Secure Payments. Effortless Returns.
-  Updated: 2025-10-30T01:56:52Z
-  Vendor: Blue Nixie
-  Product Type: Palazzo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_1.jpg?v=1689846208
-  - [M / Black / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754638762298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_2.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [M / Maroon / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696597818)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MAROON-R_2.jpg?v=1689852937
-    Price: ₹525.00 INR
-  - [M / Mustard / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696630586)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MUSTURD-R_1.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [M / N.Blue / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696663354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622NBLUE-R_2.jpg?v=1689846201
-    Price: ₹525.00 INR
-  - [M / Red / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696696122)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622RED-R_2.jpg?v=1689846205
-    Price: ₹525.00 INR
-  - [M / White / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45759206621498)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622WHITE-R_2.jpg?v=1689856747
-    Price: ₹525.00 INR
-  - [L / Black / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754638860602)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_2.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [L / Maroon / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696728890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MAROON-R_2.jpg?v=1689852937
-    Price: ₹525.00 INR
-  - [L / Mustard / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696761658)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MUSTURD-R_1.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [L / N.Blue / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696794426)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622NBLUE-R_2.jpg?v=1689846201
-    Price: ₹525.00 INR
-  - [L / Red / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696827194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622RED-R_2.jpg?v=1689846205
-    Price: ₹525.00 INR
-  - [L / White / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45759206654266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622WHITE-R_2.jpg?v=1689856747
-    Price: ₹525.00 INR
-  - [XL / Black / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754638893370)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_2.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [XL / Maroon / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696859962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MAROON-R_2.jpg?v=1689852937
-    Price: ₹525.00 INR
-  - [XL / Mustard / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696892730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MUSTURD-R_1.jpg?v=1689846203
-    Price: ₹525.00 INR
-  - [XL / N.Blue / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696958266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622NBLUE-R_2.jpg?v=1689846201
-    Price: ₹525.00 INR
-  - [XL / Red / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754696991034)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622RED-R_2.jpg?v=1689846205
-    Price: ₹525.00 INR
-  - [XL / White / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45759206687034)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622WHITE-R_2.jpg?v=1689856747
-    Price: ₹525.00 INR
-  - [2XL / Black / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754638926138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_2.jpg?v=1689846203
-    Price: ₹550.00 INR
-  - [2XL / Maroon / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697089338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MAROON-R_2.jpg?v=1689852937
-    Price: ₹550.00 INR
-  - [2XL / Mustard / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697154874)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MUSTURD-R_1.jpg?v=1689846203
-    Price: ₹550.00 INR
-  - [2XL / N.Blue / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697187642)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622NBLUE-R_2.jpg?v=1689846201
-    Price: ₹550.00 INR
-  - [2XL / Red / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697220410)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622RED-R_2.jpg?v=1689846205
-    Price: ₹550.00 INR
-  - [2XL / White / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45759206752570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622WHITE-R_2.jpg?v=1689856747
-    Price: ₹550.00 INR
-  - [3XL / Black / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754639024442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622BLACK_2.jpg?v=1689846203
-    Price: ₹565.00 INR
-  - [3XL / Maroon / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697253178)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MAROON-R_2.jpg?v=1689852937
-    Price: ₹565.00 INR
-  - [3XL / Mustard / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697285946)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622MUSTURD-R_1.jpg?v=1689846203
-    Price: ₹565.00 INR
-  - [3XL / N.Blue / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697318714)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622NBLUE-R_2.jpg?v=1689846201
-    Price: ₹565.00 INR
-  - [3XL / Red / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45754697351482)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622RED-R_2.jpg?v=1689846205
-    Price: ₹565.00 INR
-  - [3XL / White / rayon fabric](https://bluenixie.com/products/rayon-fabric-palazzo?variant=45759206785338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2622WHITE-R_2.jpg?v=1689856747
-    Price: ₹565.00 INR
-- [BlueNixie BNS5004 Women's Cotton Printed Short](https://bluenixie.com/products/women-cotton-hosiery-printed-short): Discover our 100% Cotton Hosiery Bermuda in M, L, XL, 2XL, 3XL sizes. Comfy, stylish & versatile, pair with matching Bluenixie tees for a perfect outfit.
-  Updated: 2025-08-01T02:55:36Z
-  Vendor: Blue Nixie
-  Product Type: Lounge wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_5.jpg?v=1690972131
-  - [S / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775906898234)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹525.00 INR
-  - [M / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775906931002)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹525.00 INR
-  - [L / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775906963770)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹525.00 INR
-  - [XL / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775906996538)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹525.00 INR
-  - [2XL / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775907029306)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹550.00 INR
-  - [3XL / B01](https://bluenixie.com/products/women-cotton-hosiery-printed-short?variant=45775907062074)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004DARKBLUE_2.jpg?v=1690972131
-    Price: ₹565.00 INR
-- [BlueNixie Women 3/4th Cotton Plain Capri](https://bluenixie.com/products/women-3-4-cotton-plain-capri): Buy Bluenixie's Capris  Leggings Mid Rise Solid Capri online for Women 3/4th Cotton Plain Capri from Bluenixie starting ₹525  | Buy Casual Wear Capris made from Hosiery cotton in S, M, L, XL, 2XL, and 3XL sizes online
-  Updated: 2025-05-09T12:03:11Z
-  Vendor: Blue Nixie
-  Product Type: Clothing
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-  - [Coffee / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517402938)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Coffee / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526676282)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Coffee / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526709050)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Coffee / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526741818)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Coffee / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526774586)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹550.00 INR
-  - [Coffee / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526807354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003COFFEE-R_1.jpg?v=1689943345
-    Price: ₹565.00 INR
-  - [Grey / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517435706)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹525.00 INR
-  - [Grey / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526840122)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹525.00 INR
-  - [Grey / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526872890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹525.00 INR
-  - [Grey / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526905658)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹525.00 INR
-  - [Grey / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526938426)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹550.00 INR
-  - [Grey / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800526971194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003GREY-R_1.jpg?v=1689943354
-    Price: ₹565.00 INR
-  - [L.Grey / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517468474)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [L.Grey / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527003962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [L.Grey / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527036730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [L.Grey / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527069498)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [L.Grey / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527102266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹550.00 INR
-  - [L.Grey / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527135034)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003LGREY-R_1.jpg?v=1689943350
-    Price: ₹565.00 INR
-  - [Olive / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517501242)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹525.00 INR
-  - [Olive / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527167802)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹525.00 INR
-  - [Olive / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527200570)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹525.00 INR
-  - [Olive / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527233338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹525.00 INR
-  - [Olive / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527266106)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹550.00 INR
-  - [Olive / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527298874)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003OLIVE-R_1.jpg?v=1689943344
-    Price: ₹565.00 INR
-  - [Mauve / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517566778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Mauve / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527331642)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Mauve / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527364410)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Mauve / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527397178)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹525.00 INR
-  - [Mauve / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527429946)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹550.00 INR
-  - [Mauve / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527462714)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003MAUVE-R_1.jpg?v=1689943345
-    Price: ₹565.00 INR
-  - [N.Blue / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517599546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [N.Blue / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527495482)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [N.Blue / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527528250)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [N.Blue / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527561018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹525.00 INR
-  - [N.Blue / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527593786)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹550.00 INR
-  - [N.Blue / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527626554)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003NBLUE-R_1.jpg?v=1689943350
-    Price: ₹565.00 INR
-  - [Purple / S](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800517632314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹525.00 INR
-  - [Purple / M](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527659322)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹525.00 INR
-  - [Purple / L](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527692090)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹525.00 INR
-  - [Purple / XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527724858)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹525.00 INR
-  - [Purple / 2XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527757626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹550.00 INR
-  - [Purple / 3XL](https://bluenixie.com/products/women-3-4-cotton-plain-capri?variant=45800527790394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNC6003PURPLE-R_1.jpg?v=1689943346
-    Price: ₹565.00 INR
 - [Bluenixie BNF356_2 Pc Combo Full Coverage Bra Black-White](https://bluenixie.com/products/butterfly-print-net-full-coverage-bra-combo-set-of-2-black-white-color): Made of fine quality butterfly print jacquard net stretchable fabric in full coverage design. Stretchable fabric for sung fit. Half cups have 100% cotton linings for maximum comfort. Broad shoulder elastic for better support. Extra panels along cups to minimize bulges on sides. Available in variety of colors so skip those basic bra on those special occasions and go for it to match your dresses.
   Updated: 2025-09-01T21:49:05Z
   Vendor: Blue Nixie
@@ -4844,66 +4206,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNF1702WS.png?v=1690806569
     Price: ₹1,290.00 INR
-- [BlueNixie BNS5004 Women's Cotton Printed Short](https://bluenixie.com/products/womens-cotton-printed-short): Discover our 100% Cotton Hosiery Bermuda in sizes M-3XL. Get the perfect fit for your daily or loungewear look. Coordinate with Bluenixie tees for a stylish ensemble.
-  Updated: 2025-07-30T13:29:22Z
-  Vendor: Blue Nixie
-  Product Type: Lounge wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_5_e8efd4c7-aad2-439e-867d-04b2683418cf.jpg?v=1690972106
-  - [S / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912279875898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹525.00 INR
-  - [M / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912280039738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹525.00 INR
-  - [L / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912280203578)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹525.00 INR
-  - [XL / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912280367418)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹525.00 INR
-  - [2XL / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912280531258)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹550.00 INR
-  - [3XL / P02](https://bluenixie.com/products/womens-cotton-printed-short?variant=45912280695098)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004PINK_2_10f248fe-4f3d-4168-b1df-a18acfbe1b56.jpg?v=1690972106
-    Price: ₹565.00 INR
-- [BlueNixie online Women's Cotton Printed Olive Color Short](https://bluenixie.com/products/women-cotton-printed-olive-short): Discover our 100% Cotton Hosiery Bermuda with fold-in sizes M, L, XL, 2XL, and 3XL. Perfect for daily wear or lounging, coordinate with Bluenixie tees for a complete look.
-  Updated: 2025-07-31T06:11:04Z
-  Vendor: Blue Nixie
-  Product Type: Lounge wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_5_ebcb8bc5-237e-440e-88b0-6588d9c8edae.jpg?v=1690973263
-  - [S / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912474517818)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹525.00 INR
-  - [M / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912474681658)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹525.00 INR
-  - [L / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912474845498)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹525.00 INR
-  - [XL / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912475009338)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹525.00 INR
-  - [2XL / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912475173178)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹550.00 INR
-  - [3XL / O04](https://bluenixie.com/products/women-cotton-printed-olive-short?variant=45912475337018)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5004OLVIE_2_04426187-ed4d-4c77-b65a-0cf671b77865.jpg?v=1690973263
-    Price: ₹565.00 INR
 - [Bluenixie BNF356 _Luxuria Full Coverage Fashion Bra With Jacquard Print](https://bluenixie.com/products/butterfly-print-luxuria-full-coverage-bra): Made of fine quality butterfly print jacquard net stretchable fabric in full coverage design. Stretchable fabric for sung fit. Half cups have 100% cotton linings for maximum comfort. Broad shoulder elastic for better support. Extra panels along cups to minimize bulges on sides. Available in variety of colors so skip those basic bra on those special occasions and go for it to match your dresses. FOR OTHER COLORS Bluenixie BNF356_Luxuria Full Coverage Bra Jacquard Print
   Updated: 2025-09-22T10:46:35Z
   Vendor: Blue Nixie
@@ -5009,7 +4311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN1802-BLK-WHT.png?v=1691067509
     Price: ₹490.00 INR
 - [BlueNixie Best T-Shirt Bra Online BN1802 Bra Combo set of 2 Black - Skin Color](https://bluenixie.com/products/t-shirt-bra-combo-set-of-2-black-skin-color): Elevate your lingerie collection with our T-Shirt Bra Combo Set, featuring timeless black and Skin hues. Available in sizes 30B to 38B, these bras offer exceptional comfort and support.  COD
-  Updated: 2025-06-02T21:35:59Z
+  Updated: 2025-11-11T12:46:28Z
   Vendor: Blue Nixie
   Product Type: T shirt bra
   Availability: Available
@@ -5288,322 +4590,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/1703PINK_1.jpg?v=1691180992
     Price: ₹450.00 INR
-- [BlueNixie Hosiery Kurti Top for Women 3/4 Sleeves](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves): Chic & comfy Women's Long T-shirts with side slits & 3/4 sleeves. Kurti-inspired look in Hosiery Cotton. Sizes M to 3XL. Elevate your style effortlessly! COD Available
-  Updated: 2025-10-07T08:47:12Z
-  Vendor: Blue Nixie
-  Product Type: T Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_2.jpg?v=1691232232
-  - [M / D.PEACH / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494607674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_3.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [M / FUSHIA / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494640442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004FUSHIA_2.jpg?v=1691232235
-    Price: ₹510.00 INR
-  - [M / MUD.PINK / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494673210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004MUDPINK_2.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [M / WINE / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494705978)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004WINE_2.jpg?v=1691232233
-    Price: ₹510.00 INR
-  - [L / D.PEACH / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494738746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_3.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [L / FUSHIA / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494771514)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004FUSHIA_2.jpg?v=1691232235
-    Price: ₹510.00 INR
-  - [L / MUD.PINK / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494804282)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004MUDPINK_2.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [L / WINE / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494837050)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004WINE_2.jpg?v=1691232233
-    Price: ₹510.00 INR
-  - [XL / D.PEACH / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494869818)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_3.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [XL / FUSHIA / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494902586)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004FUSHIA_2.jpg?v=1691232235
-    Price: ₹510.00 INR
-  - [XL / MUD.PINK / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494935354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004MUDPINK_2.jpg?v=1691232232
-    Price: ₹510.00 INR
-  - [XL / WINE / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962494968122)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004WINE_2.jpg?v=1691232233
-    Price: ₹510.00 INR
-  - [2XL / D.PEACH / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495000890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_3.jpg?v=1691232232
-    Price: ₹531.00 INR
-  - [2XL / FUSHIA / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495033658)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004FUSHIA_2.jpg?v=1691232235
-    Price: ₹531.00 INR
-  - [2XL / MUD.PINK / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495066426)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004MUDPINK_2.jpg?v=1691232232
-    Price: ₹531.00 INR
-  - [2XL / WINE / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495099194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004WINE_2.jpg?v=1691232233
-    Price: ₹531.00 INR
-  - [3XL / D.PEACH / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495131962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004DPEACH_3.jpg?v=1691232232
-    Price: ₹545.00 INR
-  - [3XL / FUSHIA / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495164730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004FUSHIA_2.jpg?v=1691232235
-    Price: ₹545.00 INR
-  - [3XL / MUD.PINK / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495197498)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004MUDPINK_2.jpg?v=1691232232
-    Price: ₹545.00 INR
-  - [3XL / WINE / Kurti T-Shirt](https://bluenixie.com/products/bluenixie-hosiery-top-for-women-3-4-sleeves?variant=45962495230266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNKT7004WINE_2.jpg?v=1691232233
-    Price: ₹545.00 INR
-- [BlueNixie Hosiery Cotton Printed Pyjamas with both side zipper pocket](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-07-30T11:57:03Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_1.jpg?v=1691412288
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983212732730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213453626)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213486394)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213519162)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213551930)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213584698)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/printed-pyjamas-hosiery-cotton-with-both-side-zipper-pocket?variant=45983213617466)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS2022DARKGREY_2.jpg?v=1691412284
-    Price: ₹745.00 INR
-- [BlueNixie online Hosiery Cotton Printed Pyjamas with both side zipper pocket](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-05-16T02:30:33Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_1_ff8b7308-c0db-4b92-b0ea-e5f687765213.jpg?v=1691413000
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547556154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547588922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547621690)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547654458)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547687226)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547719994)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-with-both-side-zipper-pocket-4?variant=45983547752762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022BLUE_3_59ffe0f2-3ef4-4736-b898-08d41dc02248.jpg?v=1691413000
-    Price: ₹745.00 INR
-- [BlueNixie online Hosiery Cotton Printed Pyjamas/Lower/Track Pant](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-05-16T01:35:31Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_1_0fec2bd5-351e-4d14-ac34-e70fe4a60830.jpg?v=1691413255
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695208762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695241530)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695274298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695307066)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695372602)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695405370)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-lower-track-pant?variant=45983695438138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022OLIVE_2_db7cc72a-61a2-4696-8fce-a0d99af811fb.jpg?v=1691413254
-    Price: ₹745.00 INR
-- [BlueNixie online Hosiery Cotton Printed Pyjamas for women](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-09-22T02:29:13Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_1_94f4aa48-367a-43df-8cbe-c6f2db6e21fc.jpg?v=1691413427
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790170426)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790203194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790235962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790268730)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790301498)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790334266)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/hosiery-cotton-printed-pyjamas-for-women?variant=45983790367034)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PINK_2_f8b6e23a-d8a8-437d-a6e1-6809e607141b.jpg?v=1691413426
-    Price: ₹745.00 INR
-- [BlueNixie women's Hosiery Cotton Printed Pyjamas Best Price](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-08-01T09:12:26Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_1_4deb77e3-e05a-45bb-9618-e0d6e760941e.jpg?v=1691413602
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845253434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845286202)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845318970)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845351738)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845384506)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845417274)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price?variant=45983845450042)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022PURPLE_2_d8ca1cd4-39ea-4476-9968-6e1a377f10c9.jpg?v=1691413602
-    Price: ₹745.00 INR
-- [BlueNixie women's Hosiery Cotton Printed Pyjamas Best Price with both side zipper pocket](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket): Upgrade your sleepwear with our Printed Pyjamas! Made from Hosiery Cotton for ultimate comfort. With side zipper pockets. Sizes S-5XL + COD available.
-  Updated: 2025-08-17T09:35:59Z
-  Vendor: Blue Nixie
-  Product Type: bottom
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_1_090ad7a8-032d-48e1-990a-d511857edba1.jpg?v=1691413727
-  - [M / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858655546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹695.00 INR
-  - [L / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858688314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹695.00 INR
-  - [XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858721082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹695.00 INR
-  - [2XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858753850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹720.00 INR
-  - [3XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858786618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹720.00 INR
-  - [4XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858819386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹745.00 INR
-  - [5XL / Hosiery Cotton / Priented](https://bluenixie.com/products/womens-hosiery-cotton-printed-pyjamas-best-price-with-both-side-zipper-pocket?variant=45983858852154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
-    Price: ₹745.00 INR
-- [BlueNixie Shorts For Women With Both Side Pocket/Piping](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket): Step into style and comfort with our Bluenixie Printed Shorts for Women. Crafted from Hosiery Cotton fabric, these shorts feature both side pockets, piping details, and a drawstring closure. Available in sizes S to 2XL, they're the perfect blend of fashion and ease. Embrace relaxed elegance for any occasion with Bluenixie!
-  Updated: 2025-10-22T03:35:07Z
-  Vendor: Blue Nixie
-  Product Type: Lounge wear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_1.jpg?v=1691414565
-  - [S / Hosiery Cotton / Printed Shorts](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket?variant=45983994577210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_3.jpg?v=1691414564
-    Price: ₹475.00 INR
-  - [M / Hosiery Cotton / Printed Shorts](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket?variant=45983994708282)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_3.jpg?v=1691414564
-    Price: ₹475.00 INR
-  - [L / Hosiery Cotton / Printed Shorts](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket?variant=45983994741050)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_3.jpg?v=1691414564
-    Price: ₹475.00 INR
-  - [XL / Hosiery Cotton / Printed Shorts](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket?variant=45983994773818)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_3.jpg?v=1691414564
-    Price: ₹475.00 INR
-  - [2XL / Hosiery Cotton / Printed Shorts](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket?variant=45983994806586)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNS5002NAVYBLUE_3.jpg?v=1691414564
-    Price: ₹499.00 INR
 - [BlueNixie BN0210 New Colors C cup Cotton Rich T-Shirt Bra](https://bluenixie.com/products/bluenixie-t-shirt-bra): Made of combed cotton rich bio washed fabric in molded cups in full coverage design. Broad shoulder straps for better support. Soft under bust band for comfort.Extra side panels on cups for hiding bulges. FOR OTHER COLORS =Bluenixie BN0210_Luxuriant Cotton Rich Full Coverage T-Shirt Bra
   Updated: 2025-07-30T22:50:49Z
   Vendor: Blue Nixie
@@ -5880,194 +4866,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNF2406_1.jpg?v=1733737007
     Price: ₹549.00 INR
-- [Modal Stretch BN2416 Padded Bra](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie): Made of modal stretch fabric in padded cups. Modal fabric gives smooth touch the skin. Neck line has shine strips for more aesthetic look. Best quality shoulder straps for long lasting and better grip.
-  Updated: 2025-05-09T12:03:17Z
-  Vendor: Blue Nixie 
-  Product Type: T shirt bra
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-WHITE-1.jpg?v=1733740181
-  - [32C / Beige](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531169082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-SKIN-6.jpg?v=1733740251
-    Price: ₹545.00 INR
-  - [32C / White](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531201850)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-WHITE-6.jpg?v=1733740181
-    Price: ₹545.00 INR
-  - [32C / Black](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531234618)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLACK-6.jpg?v=1733740286
-    Price: ₹545.00 INR
-  - [32C / Gray](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531267386)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-GRAY-6.jpg?v=1733740225
-    Price: ₹545.00 INR
-  - [32C / Pink](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531300154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-PINK-1.jpg?v=1733740350
-    Price: ₹545.00 INR
-  - [32C / Navy](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531332922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLUE-6.jpg?v=1733740332
-    Price: ₹545.00 INR
-  - [34C / Beige](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531365690)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-SKIN-6.jpg?v=1733740251
-    Price: ₹545.00 INR
-  - [34C / White](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531398458)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-WHITE-6.jpg?v=1733740181
-    Price: ₹545.00 INR
-  - [34C / Black](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531431226)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLACK-6.jpg?v=1733740286
-    Price: ₹545.00 INR
-  - [34C / Gray](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531463994)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-GRAY-6.jpg?v=1733740225
-    Price: ₹545.00 INR
-  - [34C / Pink](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531496762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-PINK-1.jpg?v=1733740350
-    Price: ₹545.00 INR
-  - [34C / Navy](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531529530)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLUE-6.jpg?v=1733740332
-    Price: ₹545.00 INR
-  - [36C / Beige](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531562298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-SKIN-6.jpg?v=1733740251
-    Price: ₹545.00 INR
-  - [36C / White](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531595066)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-WHITE-6.jpg?v=1733740181
-    Price: ₹545.00 INR
-  - [36C / Black](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531627834)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLACK-6.jpg?v=1733740286
-    Price: ₹545.00 INR
-  - [36C / Gray](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531660602)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-GRAY-6.jpg?v=1733740225
-    Price: ₹545.00 INR
-  - [36C / Pink](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531693370)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-PINK-1.jpg?v=1733740350
-    Price: ₹545.00 INR
-  - [36C / Navy](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531726138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLUE-6.jpg?v=1733740332
-    Price: ₹545.00 INR
-  - [38C / Beige](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531758906)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-SKIN-6.jpg?v=1733740251
-    Price: ₹545.00 INR
-  - [38C / White](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531791674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-WHITE-6.jpg?v=1733740181
-    Price: ₹545.00 INR
-  - [38C / Black](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531824442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLACK-6.jpg?v=1733740286
-    Price: ₹545.00 INR
-  - [38C / Gray](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531857210)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-GRAY-6.jpg?v=1733740225
-    Price: ₹545.00 INR
-  - [38C / Pink](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531889978)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-PINK-1.jpg?v=1733740350
-    Price: ₹545.00 INR
-  - [38C / Navy](https://bluenixie.com/products/modal-stretch-bn2416-padded-bra-blue-nixie?variant=50349531922746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2416-C-BLUE-6.jpg?v=1733740332
-    Price: ₹545.00 INR
-- [Padded bra BN2202 Blue Nixie](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie): Made of soft polyamide stretch fabric in padded cups. under bust has inner elastic for comfort feel. it has 2x3 eye hook for better grip. smooth neck line for minimum neck line show under tight t shirts. best suited for figure hugging apparels.
-  Updated: 2025-09-19T10:24:17Z
-  Vendor: Blue Nixie 
-  Product Type: padded bra
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-C.GREEN-2.jpg?v=1733825530
-  - [32B / c.green / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675403578)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-C.GREEN-2.jpg?v=1733825530
-    Price: ₹445.00 INR
-  - [32B / Black / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675501882)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-BLACK-1.jpg?v=1733825590
-    Price: ₹445.00 INR
-  - [32B / Beige / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675600186)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-SKIN-6.jpg?v=1733825620
-    Price: ₹445.00 INR
-  - [32B / Gray / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675698490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-K.GREY-6.jpg?v=1733825560
-    Price: ₹445.00 INR
-  - [32B / Navy / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675796794)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-N.BLUE-6.jpg?v=1733825608
-    Price: ₹445.00 INR
-  - [34B / c.green / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675895098)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-C.GREEN-2.jpg?v=1733825530
-    Price: ₹445.00 INR
-  - [34B / Black / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353675993402)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-BLACK-1.jpg?v=1733825590
-    Price: ₹445.00 INR
-  - [34B / Beige / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676091706)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-SKIN-6.jpg?v=1733825620
-    Price: ₹445.00 INR
-  - [34B / Gray / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676190010)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-K.GREY-6.jpg?v=1733825560
-    Price: ₹445.00 INR
-  - [34B / Navy / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676288314)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-N.BLUE-6.jpg?v=1733825608
-    Price: ₹445.00 INR
-  - [36B / c.green / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676386618)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-C.GREEN-2.jpg?v=1733825530
-    Price: ₹445.00 INR
-  - [36B / Black / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676484922)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-BLACK-1.jpg?v=1733825590
-    Price: ₹445.00 INR
-  - [36B / Beige / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676583226)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-SKIN-6.jpg?v=1733825620
-    Price: ₹445.00 INR
-  - [36B / Gray / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676681530)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-K.GREY-6.jpg?v=1733825560
-    Price: ₹445.00 INR
-  - [36B / Navy / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676779834)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-N.BLUE-6.jpg?v=1733825608
-    Price: ₹445.00 INR
-  - [38B / c.green / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676878138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-C.GREEN-2.jpg?v=1733825530
-    Price: ₹445.00 INR
-  - [38B / Black / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353676976442)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-BLACK-1.jpg?v=1733825590
-    Price: ₹445.00 INR
-  - [38B / Beige / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353677074746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-SKIN-6.jpg?v=1733825620
-    Price: ₹445.00 INR
-  - [38B / Gray / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353677173050)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-K.GREY-6.jpg?v=1733825560
-    Price: ₹445.00 INR
-  - [38B / Navy / Padded bra](https://bluenixie.com/products/padded-bra-bn2202-blue-nixie?variant=50353677271354)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2202-N.BLUE-6.jpg?v=1733825608
-    Price: ₹445.00 INR
 - [Bluenixie BN2320 Foma Molded Cups Full Coverage  T-shirt Bra](https://bluenixie.com/products/bn2320-full-coverage-double-layered-molded-cups-t-shirt-bra): Made of double layered thick rich cotton FOMA soft fabric . side panels have power net for better fit
   Updated: 2025-08-10T18:50:11Z
   Vendor: Blue Nixie 
@@ -6146,13 +4944,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2320-C-BLACK-2.jpg?v=1733829309
     Price: ₹499.00 INR
-- [EGO TRIP MEN`S SHORT](https://bluenixie.com/products/ego-trip-men-s-short): MADE OF COTTON RICH KNITTED FABRIC
-  Updated: 2025-08-01T00:06:51Z
-  Vendor: Blue Nixie 
-  Product Type: Clothing
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/WhatsAppImage2025-04-07at12.47.06.jpg?v=1744094164
-  Price: ₹425.00 INR
 - [Bluenixie 3-Sections Cups BN2424 Cotton Rich Full Coverage Super Shaper Bra](https://bluenixie.com/products/bluenixie-bn2424-cotton-rich-full-coverage-bra): Made of fine quality cotton rich blend textile fabric in full coverage design with 3 panels cups for extra support. Lower portion of the cups has 2 sections stitched with cotton lace for better busts support and to minimize the bounce. 3 Sections cups are designed as a super busts shaper. Cotton rich textile fabric holds the bust better while walking ,stepping down riding bounce or even during periods it gives better support and less bust pain. laces across cups gives feminine look. broad 18mm designer elastic for better support and aesthetic look. 3x3 eye hook for better grip.
   Updated: 2025-05-09T12:03:18Z
   Vendor: Blue Nixie 
@@ -6485,11 +5276,11 @@
 ## Collections
 
 - [Home page](https://bluenixie.com/collections/frontpage): Explore Bluenixie for lingerie, bras, shorts, nightwear, and more. Shop a variety of styles for women, men, and kids.
-  Updated: 2025-11-08T12:11:26Z
+  Updated: 2025-11-13T13:46:48Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 79
+  Updated: 2025-11-13T13:47:39Z
+  Total Products: 78
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
@@ -6497,52 +5288,52 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 59
+  Updated: 2025-11-13T12:11:21Z
+  Total Products: 58
 - [padded bra](https://bluenixie.com/collections/padded-bra)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 8
+  Updated: 2025-11-13T13:46:48Z
+  Total Products: 7
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 40
+  Updated: 2025-11-12T12:11:03Z
+  Total Products: 39
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-13T12:11:21Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
-  Updated: 2025-10-06T11:09:23Z
+  Updated: 2025-11-13T12:11:21Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 65
+  Updated: 2025-11-13T13:39:05Z
+  Total Products: 64
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
-  Updated: 2025-07-09T01:35:02Z
+  Updated: 2025-11-13T13:46:49Z
   Total Products: 5
 - [non padded bra](https://bluenixie.com/collections/non-padded-bra)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:46:47Z
   Total Products: 43
 - [Lounge/Sleep Bra](https://bluenixie.com/collections/lounge-bra): soft and light on your body so get rid of bra and put this on and relax
-  Updated: 2025-09-17T11:09:55Z
+  Updated: 2025-11-13T13:39:05Z
   Total Products: 10
 - [sports bra](https://bluenixie.com/collections/sports-bra)
-  Updated: 2025-09-17T11:09:55Z
+  Updated: 2025-11-13T13:39:05Z
   Total Products: 11
 - [Maternity bra](https://bluenixie.com/collections/maternity-bra)
   Updated: 2025-05-15T13:24:07Z
   Total Products: 1
 - [Lounge/Casual Wear](https://bluenixie.com/collections/lounge-wear)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 16
 - [nighty](https://bluenixie.com/collections/nighty)
   Updated: 2025-05-09T12:03:02Z
   Total Products: 0
 - [Women T-Shirts](https://bluenixie.com/collections/t-shirts)
-  Updated: 2025-08-30T11:11:25Z
+  Updated: 2025-11-13T13:45:54Z
   Total Products: 6
 - [shorts](https://bluenixie.com/collections/shorts)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 9
 - [capri](https://bluenixie.com/collections/capri)
-  Updated: 2025-05-09T12:03:02Z
+  Updated: 2025-11-13T13:45:50Z
   Total Products: 1
 - [yoga pants](https://bluenixie.com/collections/yoga-pants)
   Updated: 2025-05-09T12:03:02Z
@@ -6554,16 +5345,16 @@
   Updated: 2025-05-15T13:24:07Z
   Total Products: 1
 - [Panties](https://bluenixie.com/collections/panties)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-11-11T12:10:38Z
   Total Products: 8
 - [hipster](https://bluenixie.com/collections/hipster)
   Updated: 2025-05-16T19:52:13Z
   Total Products: 5
 - [boys shorts](https://bluenixie.com/collections/boys-shorts)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-11-11T12:10:38Z
   Total Products: 2
 - [cycling shorts](https://bluenixie.com/collections/cycling-shorts)
-  Updated: 2025-10-28T11:20:01Z
+  Updated: 2025-11-11T12:10:38Z
   Total Products: 2
 - [Perfume and intimate care](https://bluenixie.com/collections/perfume-and-intimate-care)
   Updated: 2025-05-09T12:03:02Z
@@ -6587,13 +5378,13 @@
   Updated: 2025-07-09T10:19:44Z
   Total Products: 0
 - [ethnic wear](https://bluenixie.com/collections/ethnic-wear)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:45:49Z
   Total Products: 1
 - [western wear](https://bluenixie.com/collections/western-wear)
-  Updated: 2025-08-30T11:11:25Z
+  Updated: 2025-11-13T13:45:57Z
   Total Products: 8
 - [tops](https://bluenixie.com/collections/tops)
-  Updated: 2025-08-30T11:11:25Z
+  Updated: 2025-11-13T13:45:54Z
   Total Products: 1
 - [Women bottom](https://bluenixie.com/collections/women-bottom)
   Updated: 2025-05-09T12:03:03Z
@@ -6614,7 +5405,7 @@
   Updated: 2023-10-31T08:55:51Z
   Total Products: 0
 - [sleep dresess](https://bluenixie.com/collections/sleep-dresess)
-  Updated: 2025-08-08T11:06:49Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 13
 - [men lounge wear](https://bluenixie.com/collections/men-lounge-wear)
   Updated: 2024-12-05T10:51:11Z
@@ -6632,55 +5423,55 @@
   Updated: 2024-12-05T10:51:56Z
   Total Products: 0
 - [inner wear](https://bluenixie.com/collections/inner-wear)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:46:47Z
   Total Products: 43
 - [Brands](https://bluenixie.com/collections/brands)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:45:54Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 77
+  Updated: 2025-11-13T13:46:49Z
+  Total Products: 76
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
-  Updated: 2025-05-09T12:03:04Z
+  Updated: 2025-11-13T13:42:49Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-11-03T12:10:31Z
+  Updated: 2025-11-13T13:45:57Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-11-08T12:11:26Z
+  Updated: 2025-11-13T13:39:05Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-11-08T12:11:26Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
-  Updated: 2025-11-01T11:09:50Z
+  Updated: 2025-11-13T13:39:05Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
-  Updated: 2025-11-01T11:09:50Z
+  Updated: 2025-11-13T12:11:21Z
   Total Products: 5
 - [Longing for lounge](https://bluenixie.com/collections/longing-for-lounge)
-  Updated: 2025-08-08T11:06:49Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 13
 - [Wholesale](https://bluenixie.com/collections/wholesale)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [Offers](https://bluenixie.com/collections/offer): Discover irresistible offers on women's & girls' apparel including lingerie, nighties, panties, and shorts, as well as men's & kids' apparel at BlueNixie.in. Explore trendy designs, quality materials, and affordable prices. Elevate your style and enjoy a seamless shopping experience. Visit us now!
-  Updated: 2025-11-08T12:11:26Z
+  Updated: 2025-11-13T13:47:39Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 98
+  Updated: 2025-11-13T13:47:39Z
+  Total Products: 97
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 98
+  Updated: 2025-11-13T13:47:39Z
+  Total Products: 97
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:46:49Z
   Total Products: 39
 - [Novita](https://bluenixie.com/collections/novita): Panties
   Updated: 2025-05-16T19:52:13Z
@@ -6689,17 +5480,17 @@
   Updated: 2025-05-14T14:06:42Z
   Total Products: 1
 - [Beginners bra](https://bluenixie.com/collections/beginners-bra): teenagers bra# beginners bra
-  Updated: 2025-09-17T11:09:55Z
+  Updated: 2025-11-13T13:39:05Z
   Total Products: 7
 - [Palazzo](https://bluenixie.com/collections/palazzo)
-  Updated: 2025-10-30T11:09:16Z
+  Updated: 2025-11-13T13:45:49Z
   Total Products: 1
 - [Women Pyjamas](https://bluenixie.com/collections/women-pyjamas)
-  Updated: 2025-05-09T12:03:05Z
+  Updated: 2025-11-13T13:45:57Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-11-08T12:11:26Z
-  Total Products: 98
+  Updated: 2025-11-13T13:47:39Z
+  Total Products: 97
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
   Total Products: 0
