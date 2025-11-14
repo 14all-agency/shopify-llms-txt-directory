@@ -6,38 +6,73 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-11-12T00:00:51.937Z
+- Updated At: 2025-11-14T00:00:42.323Z
 
 ## Products
 
 - [Sour Apple Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/sour-apple-creatine-gummies): Bold green apple with 5g creatine. No mess, no prep—just pure momentum to train harder, recover faster, and keep chasing your next win.
-  Updated: 2025-11-11T10:42:13Z
+  Updated: 2025-11-12T02:38:35Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Sour-Apple-Creatine-Gummies-1.webp?v=1756340598
   Price: $68.00 AUD
 - [Orange Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/orange-creatine-gummies): Bright, zesty 5g creatine boost. Reliable fuel for every session so you can train, recover, and show up stronger every day.
-  Updated: 2025-11-09T22:12:38Z
+  Updated: 2025-11-12T02:38:34Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Orange-Creatine-Gummies-1.webp?v=1756340537
   Price: $68.00 AUD
 - [Lemonade Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/lemonade-creatine-gummies): Refreshing citrus clarity with 5g creatine. Keeps you moving, recovering, and ready for what’s next—no fuss, just performance.
-  Updated: 2025-11-03T10:26:39Z
+  Updated: 2025-11-12T02:38:34Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Lemonade-Creatine-Gummies-1.webp?v=1756340510
   Price: $68.00 AUD
 - [Strawberry Creatine Monohydrate Gummies](https://upcreatinegummies.com.au/products/strawberry-creatine-gummies): Sweet, smooth 5g creatine power. Fuels your hustle post-session or on the go, keeping your momentum alive for what matters most.
-  Updated: 2025-11-06T05:48:22Z
+  Updated: 2025-11-13T01:44:00Z
   Vendor: Up Creatine Gummies
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Strawberry-Creatine-Gummies-1.webp?v=1756340618
   Price: $68.00 AUD
+- [Up Sports Bottle 850ml](https://upcreatinegummies.com.au/products/up-sports-bottle-850ml): Hydration made easy - whether you’re lifting, lounging or on the move. Convenient side-handle for carrying Colour: Black Volume: 850ml Note: Due to hygiene reasons, our bottles are non-refundable.
+  Updated: 2025-11-12T05:06:14Z
+  Vendor: Up Creatine Gummies
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/UpCreatineGummies-Bottle.webp?v=1762998851
+  Price: $22.00 AUD
+- [Strawberry Black Friday Sale](https://upcreatinegummies.com.au/products/strawberry-black-friday-sale): Sweet, smooth 5g creatine power. Fuels your hustle post-session or on the go, keeping your momentum alive for what matters most.
+  Updated: 2025-11-13T22:38:15Z
+  Vendor: Up Creatine Gummies
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Strawberry-Creatine-Gummies-1.webp?v=1756340618
+  Price: $47.60 AUD
+- [Lemonade Black Friday Sale](https://upcreatinegummies.com.au/products/lemonade-black-friday-sale): Refreshing citrus clarity with 5g creatine. Keeps you moving, recovering, and ready for what’s next—no fuss, just performance.
+  Updated: 2025-11-13T22:37:55Z
+  Vendor: Up Creatine Gummies
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Lemonade-Creatine-Gummies-1.webp?v=1756340510
+  Price: $47.60 AUD
+- [Orange Black Friday Sale](https://upcreatinegummies.com.au/products/orange-black-friday-sale): Bright, zesty 5g creatine boost. Reliable fuel for every session so you can train, recover, and show up stronger every day.
+  Updated: 2025-11-13T22:37:42Z
+  Vendor: Up Creatine Gummies
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Orange-Creatine-Gummies-1.webp?v=1756340537
+  Price: $47.60 AUD
+- [Sour Apple Black Friday Sale](https://upcreatinegummies.com.au/products/sour-apple-black-friday-sale): Bold green apple with 5g creatine. No mess, no prep—just pure momentum to train harder, recover faster, and keep chasing your next win.
+  Updated: 2025-11-13T22:37:28Z
+  Vendor: Up Creatine Gummies
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0702/1589/3158/files/Up-Sour-Apple-Creatine-Gummies-1.webp?v=1756340598
+  Price: $47.60 AUD
 
 ## Collections
 
@@ -45,7 +80,16 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-11-11T12:24:37Z
+  Updated: 2025-11-13T12:25:28Z
+  Total Products: 4
+- [Get All Up](https://upcreatinegummies.com.au/collections/get-all-up): Power your performance with Up Creatine Gummies. Clean, convenient, and made for movers who want more from every session. With bold Sour Apple, zesty Orange, crisp Lemonade, or smooth Strawberry, each gummy delivers pure creatine monohydrate. No powders, no pills, no hassle. Sugar free, gluten free, vegan friendly, and made without GMOs or artificial colours or flavours, they make daily supplementation simple, delicious, and effective.
+  Updated: 2025-11-13T12:25:28Z
+  Total Products: 5
+- [Up Bottle](https://upcreatinegummies.com.au/collections/up-bottle)
+  Updated: 2025-11-12T02:11:43Z
+  Total Products: 1
+- [Black Friday Sale](https://upcreatinegummies.com.au/collections/black-friday-sale)
+  Updated: 2025-11-13T21:34:49Z
   Total Products: 4
 
 ## Blogs
@@ -88,6 +132,10 @@
     Updated: 2025-11-06T00:08:01Z
     Author: Up Creatine Gummies
     Tags: Creatine Routine with Gummies
+  - [Up Creatine Gummies  | Boosting Your Power Output Naturally: The Role of Creatine Gummies in Strength Training](https://upcreatinegummies.com.au/blogs/read-up/boosting-power-output-creatine-gummies): Up Creatine Gummies  | Boosting Your Power Output Naturally: The Role of Creatine Gummies in Strength Training
+    Updated: 2025-11-13T00:09:01Z
+    Author: Up Creatine Gummies
+    Tags: Boosting Power Output with Creatine Gummies
 
 ## Store Pages
 
