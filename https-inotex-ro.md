@@ -11,7 +11,7 @@
 - Contact Email: info@inotex.ro
 - Contact Phone: +40 316 304 091
 - Address: Șoseaua Nicolina 189, etaj 2, Iași 700714, România
-- Updated At: 2025-11-13T12:25:03.518Z
+- Updated At: 2025-11-14T12:30:46.375Z
 
 ## Products
 
@@ -44,7 +44,7 @@
   - [Alb / 3XL](https://inotex.ro/products/halat-medical-barbatesc?variant=36118020554901)
     Availability: Available
     Price: 92,00 lei RON
-- [Halat Medical Pragmatic - Confort & Stil](https://inotex.ro/products/halat-medical-cu-maneca-scurt): Descoperă halatul medical cu mânecă scurtă, ideal pentru confortul zilnic la lucrul. Ușor de purtat, cu închidere rapidă prin capse. Alege favoritul pe Inotex
+- [Halat Medical cu Maneca Scurta - Confort si Practicitate](https://inotex.ro/products/halat-medical-cu-maneca-scurt): Halat medical cu maneca scurta, confortabil, practic, cu trei buzunare pentru a avea totul la indemana in zilele de lucru.
   Vendor: Inotex
   Product Type: Halat medical dama
   Availability: Available
@@ -798,7 +798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/f806a0399a8e927267279a6eef5609db.jpg?v=1644431327
     Price: 100,00 lei RON
   - [Rosu / S](https://inotex.ro/products/halat-polar-medical?variant=42097080008949)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/f806a0399a8e927267279a6eef5609db.jpg?v=1644431327
     Price: 100,00 lei RON
   - [Rosu / M](https://inotex.ro/products/halat-polar-medical?variant=42097080041717)
@@ -1177,7 +1177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/8e3e9c744c2aa1e5dadd4218a36fa1f0_e34ee000-dd7f-4509-8749-b589ff51dbdc.png?v=1735898480
     Price: 100,00 lei RON
   - [Roz / S](https://inotex.ro/products/jacheta-polar-dama?variant=42084572889333)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/jachetadinpolarroz_3.png?v=1734505829
     Price: 100,00 lei RON
   - [Roz / M](https://inotex.ro/products/jacheta-polar-dama?variant=42084572922101)
@@ -2595,7 +2595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/088b54709bdb47dde7502b5477d51240_f0c2da78-dac0-47ea-928e-8742d2106ebf.jpg?v=1644432327
     Price: 126,00 lei RON
   - [Verde Deschis / M](https://inotex.ro/products/compleu-laura?variant=42388066795765)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/products/088b54709bdb47dde7502b5477d51240_f0c2da78-dac0-47ea-928e-8742d2106ebf.jpg?v=1644432327
     Price: 126,00 lei RON
   - [Verde Deschis / L](https://inotex.ro/products/compleu-laura?variant=42388066828533)
@@ -7539,7 +7539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotexpremiumsofia.jpg?v=1747379555
     Price: 160,00 lei RON
   - [Dark Raspberry / S](https://inotex.ro/products/pantaloni-premium-elastici-sofia?variant=50245269651781)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0318/4001/0379/files/inotexpremiumsofia.jpg?v=1747379555
     Price: 160,00 lei RON
   - [Dark Raspberry / M](https://inotex.ro/products/pantaloni-premium-elastici-sofia?variant=50245269684549)
@@ -11276,7 +11276,7 @@
 
 - [Uniforme Medicale Barbati - Colecția Complete](https://inotex.ro/collections/barbati): Descoperiți uniforme medicale de calitate pentru bărbați. Stil și confort în fiecare detaliu.
   Total Products: 18
-- [Bluze Medicale Barbati - Inotex.ro](https://inotex.ro/collections/bluze-medicale-barbati): Descoperă colecția noastră de bluze medicale pentru bărbați - confortabile, rezistente și de calitate, perfecte pentru profesioniștii din domeniul medical
+- [Bluze Medicale Barbati - Diverse Modele | Inotex](https://inotex.ro/collections/bluze-medicale-barbati): Bluze medicale barbati - clasice si elastice, diverse culori. Material confortabil si rezistent. Fabricate in Romania. Livrare gratuita >400 lei!
   Total Products: 3
 - [Costume Medicale Barbati - Inotex.ro](https://inotex.ro/collections/costume-medicale-barbati): Descoperă colecția noastră de costume medicale pentru bărbați. Create pentru a oferi profesionalism, confort și asigură un aspect impecabil în domeniul medical.
   Total Products: 3
@@ -11286,13 +11286,13 @@
   Total Products: 3
 - [Halate din Polar Confortabile | Inotex.ro](https://inotex.ro/collections/halate-polar): Confortabile, călduroase și cu un tipar regular, este alegerea ideală. Comandă acum Halatul Polar Medical pentru zilele răcoroase. Îl găsești pe Inotex.ro!
   Total Products: 3
-- [Halate Medicale Dama - Inotex.ro](https://inotex.ro/collections/halate-medicale-dama): Descoperă o gamă largă de halate medicale pentru dama concepute pentru a-ți aduce un stil inconfundabil și un confort remarcabil în timpul activității tale.
+- [Halate Medicale Dama - Diverse Modele | Inotex](https://inotex.ro/collections/halate-medicale-dama): Halate Medicale Dama - clasice si elastice, maneca lunga si scurta. Diverse culori, fabricate in Romania. Livrare gratuita >400 lei in 1-2 zile!
   Total Products: 11
 - [Barbati - Pantaloni Medicali de Calitate](https://inotex.ro/collections/barbati-pantaloni): Descoperiți colecția noastră de pantaloni medicali pentru bărbați, confortabili și durabili. Ideal pentru profesioniști din domeniul sănătății.
   Total Products: 3
 - [Pantaloni Medicali - Calitate și Stil pentru Profesioniști](https://inotex.ro/collections/femei-pantaloni): Descoperă colecția de pantaloni medicali, combinația perfectă între confort și stil.
   Total Products: 17
-- [Bluze Medicale Dama - Inotex.ro](https://inotex.ro/collections/bluze-medicale-dama): Bluze medicale elegante pentru femei, combinație perfectă de confort și stil. Descopera o gama larga de culori, modele si culori pe Inotex.ro
+- [Bluze Medicale Dama - Diverse Modele | Inotex](https://inotex.ro/collections/bluze-medicale-dama): Bluze Medicale Dama - clasice, elastice si stretch, diverse culori si croiuri. Material de calitate. Fabricate in Romania. Livrare gratuita de la 400 lei!
   Total Products: 21
 - [Costume Medicale Dama - Inotex.ro](https://inotex.ro/collections/costume-medicale-dama): Costume medicale dama elegante si profesionale. Materiale de calitate, design feminin si confort pentru o experiența de lucru placuta. Preturi avantajoase.
   Total Products: 26
@@ -11320,7 +11320,7 @@
   Total Products: 14
 - [Halate din Polar Barbatesti | Inotex.ro](https://inotex.ro/collections/halate-din-polar): Alegerea perfectă pentru zilele reci, halatele polare medicale de pe Inotex.ro sunt confortabile, călduroase și prezintă un design regulat. Comandă acum pentru a te bucura de confortul lor!
   Total Products: 1
-- [Halate Medicale Cu Maneca Scurta - Inotex.ro](https://inotex.ro/collections/halate-medicale-cu-maneca-scurta): Descoperă halatele medicale cu mânecă scurtă, combinația perfectă de confort și profesionalism. Stil și funcționalitate într-un singur produs.
+- [Halate Medicale cu Maneca Scurta - Diverse Culori | Inotex](https://inotex.ro/collections/halate-medicale-cu-maneca-scurta): Halate medicale cu maneca scurta pentru sezonul cald. Clasice si elastice, multiple culori. Fabricate in Romania. Livrare gratuita >400 lei in 1-2 zile!
   Total Products: 5
 - [Jachete din Polar de Calitate & Confortabile | Inotex.ro](https://inotex.ro/collections/jachete-din-polar): Descoperă colecția noastră de jachete din polar! Stil, confort și căldură pentru zilele reci. Cumpără acum și simte diferența!
   Total Products: 4
@@ -11328,25 +11328,25 @@
   Total Products: 125
 - [Produse din polar - Jachete, halate și veste călduroase](https://inotex.ro/collections/colectia-de-iarna): Descoperă colecția noastră de produse din polar: jachete polar, halate polar și veste, perfect pentru zilele reci!
   Total Products: 9
-- [Halate Medicale - Calitate și Confort pentru Profesioniști](https://inotex.ro/collections/halate-medicale): Descoperă o gamă largă de halate medicale concepute pentru a-ți aduce un stil inconfundabil și un confort remarcabil în timpul activității tale.
+- [Halate Medicale pentru Femei și Bărbați | Inotex România](https://inotex.ro/collections/halate-medicale): Halate medicale clasice și elastice în diverse culori. Material de calitate, fabricate în România. Livrare gratuită >400 lei în 1-2 zile. Comandă!
   Total Products: 14
 - [Produse din polar: jachete și halate elegante](https://inotex.ro/collections/produse-din-polar): Descoperiți colecția noastră de produse din polar, inclusiv jachete din polar și halate polar, ideale pentru confortul zilnic.
   Total Products: 9
 - [Black Friday 2025 - Oferte Exclusive](https://inotex.ro/collections/black-friday): Descoperă cele mai bune oferte de Black Friday! Reduceri spectaculoase la produse din toate categoriile. Nu rata ocazia!
   Total Products: 0
-- [Costume Medicale Elastice - Inotex.ro](https://inotex.ro/collections/costume-medicale-elastice): Descopera libertate de miscare prin Costumele Medicale Elastice pe Inotex.ro. Materiale confortabile de inalta calitate, perfecte pentru nevoile tale.
+- [Costume Medicale Elastice - 3 Croiuri | Inotex România](https://inotex.ro/collections/costume-medicale-elastice): Costume medicale elastice în 20+ culori și 3 croiuri (regular, cambrat, skinny). Producție România, material premium. Livrare gratuită >400 lei. Comanda acum!
   Total Products: 23
 - [Jachete din polar Bărbătești pentru fiecare sezon](https://inotex.ro/collections/barbati-jachete-din-polar): Explorează jachetele din polar pentru bărbați, confortabile și stylish! Te așteaptă o colecție perfectă pentru zilele răcoroase.
   Total Products: 1
 - [Barbati - Produse din polar confortabile](https://inotex.ro/collections/barbati-produse-din-polar): Descoperă produsele din polar pentru bărbați, perfecte pentru orice aventură! Stai călduros și stilat în fiecare zi.
   Total Products: 3
-- [Halate Medicale Cu Maneca Lunga](https://inotex.ro/collections/halate-medicale-cu-maneca-lunga): Halate medicale cu maneca lunga ideale pentru profesioniștii din domeniul medical. Confort, calitate și protecție într-un design practic și funcțional.
+- [Halate Medicale Albe cu Maneca Lunga | Inotex](https://inotex.ro/collections/halate-medicale-cu-maneca-lunga): Halate Medicale Albe cu Maneca Lunga pentru profesioniști. Fabricate în România. Material de calitate. Livrare gratuită >400 lei în 1-2 zile. Comandă!
   Total Products: 6
 - [Pantaloni Medicali Elastici - Confort și Stil](https://inotex.ro/collections/pantaloni-medicali-elastici): Descoperă colecția noastră de pantaloni medicali elastici, perfecți pentru confort maxim și stil profesional. Alege-ți perechea!
   Total Products: 14
-- [Bluze Medicale Elastice - Inotex.ro](https://inotex.ro/collections/bluze-medicale-elastice): În căutarea bluzelor medicale elastice? Descoperă colecția noastră de bluze medicale elastice, confortabile și flexibile, ideale pentru profesioniștii medicali.
+- [Bluze Medicale Elastice - Diverse Culori | Inotex](https://inotex.ro/collections/bluze-medicale-elastice): Bluze medicale elastice confortabile in 20+ culori. Material de calitate. Fabricate in Romania. Livrare gratuita >400 lei. Comanda acum!
   Total Products: 15
-- [Bluze Medicale Stretch - Inotex.ro](https://inotex.ro/collections/bluze-medicale-stretch): Descoperă colecția noastră de bluze medicale stretch, confortabile și flexibile, ideale pentru profesioniștii medicali. Comanda produsul favorit pe Inotex.ro
+- [Bluze Medicale Stretch - Diverse Culori | Inotex](https://inotex.ro/collections/bluze-medicale-stretch): Bluze medicale stretch confortabile in multiple culori. Material flexibil si rezistent. Fabricate in Romania. Livrare gratuita >400 lei. Comanda acum
   Total Products: 15
 - [Uniforme Medicale Elastice - Inotex.ro](https://inotex.ro/collections/uniforme-medicale-elastice): Uniforme Medicale Elastice: elasticitate maxima, respirabilitate exceptionala si senzatie placuta la atingere. Confort si stil pentru tine!
   Total Products: 39
@@ -11370,6 +11370,8 @@
   Total Products: 14
 - [Summer Sale 25'](https://inotex.ro/collections/summer-sale-25)
   Total Products: 19
+- [Halate Medicale Elastice - Confort si Flexibilitate | Inotex](https://inotex.ro/collections/halate-medicale-elastice): Halate Medicale Elastice pentru confort maxim. Material flexibil si rezistent. Fabricate in Romania. Livrare gratuita de la 400 lei. Comanda acum!
+  Total Products: 4
 
 ## Store Pages
 
