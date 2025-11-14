@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-18T12:19:41Z
 - Contact Email: melroseclubcompany@gmail.com
-- Updated At: 2025-11-11T00:00:51.304Z
+- Updated At: 2025-11-14T00:00:31.600Z
 
 ## Products
 
@@ -458,16 +458,16 @@
 
 ## Store Pages
 
-- [How to Reach Melrose Club Customer Service | Contact Us | Melrose Club](https://www.melroseclub.in/pages/contact-how-to-reach-melrose-club-service): PHONE Our Sales Assistants are available Monday through Sunday, 12:00PM – 8:00PM (IST), excluding holidays. CALL US AT: +91 9429579015 WHATSAPP US ...
-  Updated: 2025-09-26T05:20:17Z
+- [Melrose Club Customer Service | Contact Us | Melrose Club](https://www.melroseclub.in/pages/melrose-club-service): PHONE Our Sales Assistants are available Monday through Sunday, 10:00PM – 6:00PM (IST), excluding holidays. CALL US AT: +91 9429579015 WHATSAPP US ...
+  Updated: 2025-11-13T05:06:11Z
 - [About Melrose Club Fashion Brand | Contemporary Luxury Redefined | Melrose Club](https://www.melroseclub.in/pages/about-our-brand): Founded in 2023 by Brij Mer, Praxep Mer, and Devyani Mer, Melrose Club is a fashion label redefining contemporary luxury through a bold exploration...
   Updated: 2025-07-13T06:08:06Z
 - [Melrose Club Terms and Conditions | Fashion Brand Policies | Melrose Club](https://www.melroseclub.in/pages/terms-and-conditions): Melrose Club (“we,” “us,” or “our”) is a fashion brand offering clothing and accessories through our website. By accessing our site or making a pur...
   Updated: 2025-07-13T06:08:19Z
-- [Melrose Club Exclusive Sale FAQ | Limited-Time Access to Past Collections | Melrose Club](https://www.melroseclub.in/pages/archive-sale-faq): What is the Exclusive The Melrose Club Exclusive Sale is a limited-time event where we reopen access to select pieces from past collections—availab...
-  Updated: 2025-07-13T06:08:50Z
+- [Melrose Club Exclusive Sale FAQ | Limited-Time Access to Past Collections | Melrose Club](https://www.melroseclub.in/pages/exclusive-sale-faq): What is the Exclusive The Melrose Club Exclusive Sale is a limited-time event where we reopen access to select pieces from past collections—availab...
+  Updated: 2025-11-13T05:03:41Z
 - [Shipping & Return Policies with Exclusive Sale FAQs | Melrose Club](https://www.melroseclub.in/pages/shipping-return): For information on our limited-time promotions, including the Exclusive Sale, please click here to view our Exclusive FAQ. Shipping Information Onc...
-  Updated: 2025-11-08T06:15:57Z
+  Updated: 2025-11-13T05:04:21Z
 - [Melrose Club Privacy Policy: Your Data Protection & Privacy](https://www.melroseclub.in/pages/privacy-policy): This Privacy Policy outlines how Melrose Club (“we,” “us,” or “our”) collects, uses, and protects your personal information when you use our servic...
   Updated: 2025-07-13T06:09:20Z
 
@@ -476,7 +476,7 @@
 - [Privacy Policy](https://www.melroseclub.in/policies/privacy-policy)
   Updated: 2025-06-18T17:49:52+05:30
 - [Refund Policy](https://www.melroseclub.in/policies/refund-policy)
-  Updated: 2025-09-26T15:39:20+05:30
+  Updated: 2025-11-13T10:25:56+05:30
 - [Terms of Service](https://www.melroseclub.in/policies/terms-of-service)
   Updated: 2025-09-26T15:40:35+05:30
 - [Contact Information](https://www.melroseclub.in/policies/contact-information)
