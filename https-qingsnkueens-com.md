@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-12T11:49:32.798Z
+- Updated At: 2025-11-14T00:01:00.270Z
 
 ## Products
 
@@ -4183,7 +4183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG.png?v=1758786646
     Price: $39.95 USD
 - [Suede Slip Clogs for Women – Comfortable Slip-On Clog Shoes with Cork Sole](https://qingsnkueens.com/products/suede-slip-clogs-for-women): Shop Suede Slip Clogs for Women – soft suede, cork insole, and lightweight slip-on comfort. Perfect for everyday wear with our reliable fast shipping.
-  Updated: 2025-09-27T10:16:31Z
+  Updated: 2025-11-13T07:59:03Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4191,89 +4191,89 @@
   - [Brown / 6](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47082773676199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 7](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186206375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 8](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186239143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 8.5](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186271911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 9](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186304679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 10](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186337447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Brown / 11](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186370215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2.jpg?v=1758906072
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 6](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186402983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 7](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186435751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 8](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186468519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 8.5](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186501287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 9](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186534055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 10](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186566823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Dark Brown / 11](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186599591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_800ec395-1e58-45f9-b9ec-fe2ff7a9041a.jpg?v=1758906105
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 6](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186632359)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 7](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186665127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 8](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186697895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 8.5](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186730663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 9](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186763431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 10](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186796199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Gray / 11](https://qingsnkueens.com/products/suede-slip-clogs-for-women?variant=47084186828967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12.jpg?v=1758906143
-    Price: $34.95 USD
+    Price: $39.95 USD
 - [Mini Platform Boots for Women – Chunky Suede Boots with Faux Fur Lining](https://qingsnkueens.com/products/mini-platform-boots-for-women): Shop Mini Platform Boots for Women with soft suede & plush faux fur lining. Fast shipping, chunky heel design & trendy winter fashion footwear.
-  Updated: 2025-09-29T14:47:55Z
+  Updated: 2025-11-13T07:58:37Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4281,133 +4281,133 @@
   - [Brown / 4](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672038567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 5](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672071335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 6](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672104103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 7](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672136871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 8](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672169639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 9](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672202407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 10](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672235175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Brown / 11](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672267943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_bcbc9288-a27f-4678-8a2d-37b3a7b95bc6.png?v=1759064410
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 4](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672300711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 5](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672333479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 6](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672366247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 7](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672399015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 8](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672431783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 9](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672464551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 10](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672497319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Beige / 11](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672530087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_f3982853-0342-4b77-a1c9-8b02ced304cb.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 4](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672562855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 5](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672595623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 6](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672628391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 7](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672661159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 8](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672693927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 9](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672726695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 10](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672759463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Dark Brown / 11](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672792231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_1e273053-8270-420b-b08a-0b83340b46e8.png?v=1759064411
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 4](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672824999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 5](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672857767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 6](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672890535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 7](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672923303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 8](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672956071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 9](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085672988839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 10](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085673021607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
   - [Black / 11](https://qingsnkueens.com/products/mini-platform-boots-for-women?variant=47085673054375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_72e13c0d-be9a-4664-82f7-ddf93bee303f.png?v=1759064412
-    Price: $34.95 USD
+    Price: $55.95 USD
 - [BAPE × Crocs Camo Universe – Limited Edition Streetwear Clogs 2025](https://qingsnkueens.com/products/bape-x-crocs-camo-universe): Shop the exclusive BAPE × Crocs Camo Universe clogs. Limited edition collaboration, premium comfort, perfect for sneakerheads and hypebeasts 2025.
-  Updated: 2025-10-03T06:26:18Z
+  Updated: 2025-11-13T07:57:52Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4415,101 +4415,101 @@
   - [Blue / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565002919)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_c1944790-795e-407d-8fb2-4c32cc114455.png?v=1759410038
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Blue / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565035687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_c1944790-795e-407d-8fb2-4c32cc114455.png?v=1759410038
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Blue / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565068455)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_c1944790-795e-407d-8fb2-4c32cc114455.png?v=1759410038
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Blue / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565101223)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_c1944790-795e-407d-8fb2-4c32cc114455.png?v=1759410038
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Red / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565133991)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_5030621e-d684-4482-9283-33ba1ae32ae3.png?v=1759410066
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Red / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565166759)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_5030621e-d684-4482-9283-33ba1ae32ae3.png?v=1759410066
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Red / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565199527)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_5030621e-d684-4482-9283-33ba1ae32ae3.png?v=1759410066
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Red / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565232295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_5030621e-d684-4482-9283-33ba1ae32ae3.png?v=1759410066
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Chai / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565265063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_2114c815-fb74-45cf-9339-872abcda3040.png?v=1759410071
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Chai / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565297831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_2114c815-fb74-45cf-9339-872abcda3040.png?v=1759410071
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Chai / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565330599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_2114c815-fb74-45cf-9339-872abcda3040.png?v=1759410071
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Chai / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565363367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_2114c815-fb74-45cf-9339-872abcda3040.png?v=1759410071
-    Price: $29.95 USD
+    Price: $39.95 USD
   - [Pink / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565396135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_b4fc343d-be68-402a-92f3-f5748bc8fd18.png?v=1759410076
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Pink / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565428903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_b4fc343d-be68-402a-92f3-f5748bc8fd18.png?v=1759410076
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Pink / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565461671)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_b4fc343d-be68-402a-92f3-f5748bc8fd18.png?v=1759410076
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Pink / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565494439)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_b4fc343d-be68-402a-92f3-f5748bc8fd18.png?v=1759410076
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Black / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565527207)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_b9779db5-7923-46be-a3ee-0d80cfe01826.png?v=1759410079
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Black / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565559975)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_b9779db5-7923-46be-a3ee-0d80cfe01826.png?v=1759410079
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Black / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565592743)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_b9779db5-7923-46be-a3ee-0d80cfe01826.png?v=1759410079
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Black / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565625511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_b9779db5-7923-46be-a3ee-0d80cfe01826.png?v=1759410079
-    Price: $29.95 USD
+    Price: $34.95 USD
   - [Purple / S](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565658279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_a3d7e73b-d218-48ce-93e6-18c01cff6a4d.png?v=1759410082
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Purple / M](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565691047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_a3d7e73b-d218-48ce-93e6-18c01cff6a4d.png?v=1759410082
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Purple / L](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565723815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_a3d7e73b-d218-48ce-93e6-18c01cff6a4d.png?v=1759410082
-    Price: $29.95 USD
+    Price: $24.95 USD
   - [Purple / XL](https://qingsnkueens.com/products/bape-x-crocs-camo-universe?variant=47091565756583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/18_a3d7e73b-d218-48ce-93e6-18c01cff6a4d.png?v=1759410082
-    Price: $29.95 USD
+    Price: $24.95 USD
 - [Garnet Self Love Adjustable Chain Ring | Healing Crystal Jewellery](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring): Embrace your power with our Garnet Self Love Adjustable Chain Ring. 14K gold over silver, real garnet crystal, adjustable fit — radiate confidence & healing energy.
-  Updated: 2025-10-06T02:13:21Z
+  Updated: 2025-11-13T07:56:30Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4521,11 +4521,11 @@
   - [Emerald Green / 7-9 (Medium)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544297127)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_348887f4-22e8-42d0-bfca-be5207f6363b.png?v=1759672790
-    Price: $19.95 USD
+    Price: $22.95 USD
   - [Emerald Green / 9-12 (Large)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544329895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_348887f4-22e8-42d0-bfca-be5207f6363b.png?v=1759672790
-    Price: $19.95 USD
+    Price: $25.95 USD
   - [ocean blue / 2-7 (small)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544362663)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_1c41ebb8-fec3-42cb-ae09-aee8062cbde6.png?v=1759672811
@@ -4533,11 +4533,11 @@
   - [ocean blue / 7-9 (Medium)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544395431)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_1c41ebb8-fec3-42cb-ae09-aee8062cbde6.png?v=1759672811
-    Price: $19.95 USD
+    Price: $22.95 USD
   - [ocean blue / 9-12 (Large)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544428199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_1c41ebb8-fec3-42cb-ae09-aee8062cbde6.png?v=1759672811
-    Price: $19.95 USD
+    Price: $25.95 USD
   - [Red / 2-7 (small)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544460967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_38d90bbe-1024-487e-9bc2-ce80ed9d6748.png?v=1759672827
@@ -4545,13 +4545,13 @@
   - [Red / 7-9 (Medium)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544493735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_38d90bbe-1024-487e-9bc2-ce80ed9d6748.png?v=1759672827
-    Price: $19.95 USD
+    Price: $22.95 USD
   - [Red / 9-12 (Large)](https://qingsnkueens.com/products/garnet-self-love-adjustable-chain-ring?variant=47096544526503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_38d90bbe-1024-487e-9bc2-ce80ed9d6748.png?v=1759672827
-    Price: $19.95 USD
+    Price: $25.95 USD
 - [Levitating Moon Lamp with Wireless Charger | Floating 3D Moon Light Decor](https://qingsnkueens.com/products/levitating-moon-lamp-with-wireless-charger): Bring the moon to your home with our Levitating Moon Lamp. 3D printed, adjustable LED, and wireless charging – perfect night light, decor & gift
-  Updated: 2025-10-14T13:01:39Z
+  Updated: 2025-11-13T07:55:18Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4559,13 +4559,13 @@
   - [Black](https://qingsnkueens.com/products/levitating-moon-lamp-with-wireless-charger?variant=47098333790375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/61BijNnzJbL._AC_SX679.jpg?v=1759764342
-    Price: $64.95 USD
+    Price: $95.00 USD
   - [Gray](https://qingsnkueens.com/products/levitating-moon-lamp-with-wireless-charger?variant=47098333823143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_f997f192-64cd-485c-947b-abbb568751b6.png?v=1759764109
-    Price: $64.95 USD
+    Price: $95.00 USD
 - [Jellycat Croissant Fluffy Unisex Slippers | Cosy Memory Foam Indoor Shoes](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers): Stay cozy with Jellycat Croissant Fluffy Unisex Slippers — ultra-soft, fuzzy, non-slip indoor shoes with memory foam comfort. Perfect for men & women.
-  Updated: 2025-10-18T15:30:19Z
+  Updated: 2025-11-13T07:54:54Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4573,45 +4573,45 @@
   - [Brown / 5.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965060263)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 6.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965093031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 7](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965125799)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 8](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965158567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 8.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965191335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 9.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965224103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 10](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965256871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 11](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965289639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 11.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965322407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
   - [Brown / 12.5](https://qingsnkueens.com/products/jellycat-croissant-fluffy-slippers?variant=47145965355175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_e008a11e-c562-4f6a-bce3-4ff62d26b63d.png?v=1760779070
-    Price: $29.95 USD
+    Price: $37.95 USD
 - [Jellycat Plush Fluffy Birkin Handbag | Cute Plush Tote](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag): Discover the viral Jellycat Plush Fluffy Birkin Handbag soft, stylish, and plush. Perfect tote for daily use or gifting. Shop the trend everyone loves.
-  Updated: 2025-11-09T15:17:36Z
+  Updated: 2025-11-13T07:54:19Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4619,29 +4619,29 @@
   - [Brown / Small](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146942038183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_253e6128-8cc8-4ffc-b9b6-4a675b1ee9b8.jpg?v=1760860697
-    Price: $77.99 USD
+    Price: $49.00 USD
   - [Brown / Large](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146956193959)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_253e6128-8cc8-4ffc-b9b6-4a675b1ee9b8.jpg?v=1760860697
-    Price: $77.99 USD
+    Price: $95.00 USD
   - [Pink / Small](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146942070951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_cb66f977-9668-45e6-9b13-3decfc3177bc.jpg?v=1760860817
-    Price: $77.99 USD
+    Price: $49.00 USD
   - [Pink / Large](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146956226727)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_cb66f977-9668-45e6-9b13-3decfc3177bc.jpg?v=1760860817
-    Price: $77.99 USD
+    Price: $95.00 USD
   - [Gray / Small](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146942103719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_ba926d84-5f17-44bb-a52f-489b28591923.jpg?v=1760860815
-    Price: $77.99 USD
+    Price: $49.00 USD
   - [Gray / Large](https://qingsnkueens.com/products/jellycat-plush-fluffy-birkin-handbag?variant=47146956259495)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_ba926d84-5f17-44bb-a52f-489b28591923.jpg?v=1760860815
-    Price: $77.99 USD
+    Price: $95.00 USD
 - [Asymmetric Satin Midi Dress – Women’s Party & Evening Dress](https://qingsnkueens.com/products/asymmetric-satin-midi-dress): Shop the Asymmetric Satin Midi Dress – elegant satin party dress for women. Perfect evening wear, cocktail dress & special occasion outfit.
-  Updated: 2025-10-20T01:04:38Z
+  Updated: 2025-11-13T07:52:44Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4649,45 +4649,45 @@
   - [Blue / XS](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47147158339751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399401-a4.jpg?v=1760866947
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Blue / S](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47147158372519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399401-a4.jpg?v=1760866947
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Blue / M](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47147158405287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399401-a4.jpg?v=1760866947
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Blue / Large](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47147158438055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399401-a4.jpg?v=1760866947
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Blue / XL](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47147158470823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399401-a4.jpg?v=1760866947
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Red / XS](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47146971103399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Red / S](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47146971136167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Red / M](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47146971168935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Red / Large](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47146971201703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
-    Price: $38.95 USD
+    Price: $48.00 USD
   - [Red / XL](https://qingsnkueens.com/products/asymmetric-satin-midi-dress?variant=47146971234471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/09178399600-p_39c61b0d-bfa4-4780-98b0-0f95b7c99762.jpg?v=1760877758
-    Price: $38.95 USD
+    Price: $48.00 USD
 - [Zyla Off Shoulder Mini Dress – Sexy Satin Bodycon Party Dress Women](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress): Slay every occasion in the Zyla Off Shoulder Mini Dress a sexy satin bodycon mini dress for women, perfect for parties, date nights & club outfits.
-  Updated: 2025-10-22T09:48:36Z
+  Updated: 2025-11-13T07:52:16Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4695,125 +4695,125 @@
   - [White / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145232551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Reshoot-ZoellaWhiteOffTheShoulderMiniDress_2000x.progressive_7bfd3a04-92bb-4a07-b41a-30ec6aa02f77.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [White / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145265319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Reshoot-ZoellaWhiteOffTheShoulderMiniDress_2000x.progressive_7bfd3a04-92bb-4a07-b41a-30ec6aa02f77.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [White / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145298087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Reshoot-ZoellaWhiteOffTheShoulderMiniDress_2000x.progressive_7bfd3a04-92bb-4a07-b41a-30ec6aa02f77.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [White / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145330855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Reshoot-ZoellaWhiteOffTheShoulderMiniDress_2000x.progressive_7bfd3a04-92bb-4a07-b41a-30ec6aa02f77.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [White / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145363623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Reshoot-ZoellaWhiteOffTheShoulderMiniDress_2000x.progressive_7bfd3a04-92bb-4a07-b41a-30ec6aa02f77.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Black / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145396391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Black-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_799e236e-2d00-4de0-a192-d3affc57e875.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Black / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145429159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Black-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_799e236e-2d00-4de0-a192-d3affc57e875.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Black / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145461927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Black-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_799e236e-2d00-4de0-a192-d3affc57e875.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Black / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145494695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Black-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_799e236e-2d00-4de0-a192-d3affc57e875.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Black / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145527463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Black-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_799e236e-2d00-4de0-a192-d3affc57e875.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Pink / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145560231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Light-Pink-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_c58293c7-07d7-4309-9024-93d9b054e3a6.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Pink / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145592999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Light-Pink-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_c58293c7-07d7-4309-9024-93d9b054e3a6.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Pink / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145625767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Light-Pink-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_c58293c7-07d7-4309-9024-93d9b054e3a6.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Pink / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145658535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Light-Pink-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_c58293c7-07d7-4309-9024-93d9b054e3a6.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Pink / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145691303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Light-Pink-Off-The-Shoulder-Mini-Dress_NL_20250714_1_2000x.progressive_c58293c7-07d7-4309-9024-93d9b054e3a6.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Blue / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145724071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Navy-Off-The-Shoulder-Mini-Dress_1_2000x.progressive_3439b188-15a2-441e-9a36-e6dfcc404071.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Blue / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145756839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Navy-Off-The-Shoulder-Mini-Dress_1_2000x.progressive_3439b188-15a2-441e-9a36-e6dfcc404071.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Blue / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145789607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Navy-Off-The-Shoulder-Mini-Dress_1_2000x.progressive_3439b188-15a2-441e-9a36-e6dfcc404071.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Blue / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145822375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Navy-Off-The-Shoulder-Mini-Dress_1_2000x.progressive_3439b188-15a2-441e-9a36-e6dfcc404071.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Blue / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145855143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Navy-Off-The-Shoulder-Mini-Dress_1_2000x.progressive_3439b188-15a2-441e-9a36-e6dfcc404071.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Floral / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145887911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ZoellaPinkFloralOffTheShoulderMiniDress-39_2000x.progressive_b8cf0c2b-ed49-48c0-ba64-a5b3e6d4f77e.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Floral / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145920679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ZoellaPinkFloralOffTheShoulderMiniDress-39_2000x.progressive_b8cf0c2b-ed49-48c0-ba64-a5b3e6d4f77e.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Floral / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145953447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ZoellaPinkFloralOffTheShoulderMiniDress-39_2000x.progressive_b8cf0c2b-ed49-48c0-ba64-a5b3e6d4f77e.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Floral / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147145986215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ZoellaPinkFloralOffTheShoulderMiniDress-39_2000x.progressive_b8cf0c2b-ed49-48c0-ba64-a5b3e6d4f77e.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Floral / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146018983)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/ZoellaPinkFloralOffTheShoulderMiniDress-39_2000x.progressive_b8cf0c2b-ed49-48c0-ba64-a5b3e6d4f77e.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Hot Pink / XS](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146051751)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Hot Pink / S](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146084519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Hot Pink / M](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146117287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Hot Pink / L](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146150055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
   - [Hot Pink / XL](https://qingsnkueens.com/products/zyla-off-the-shoulder-mini-dress?variant=47147146182823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Zoella-Hot-Pink-Off-The-Shoulder-Mini-Dress_20250630_NL_1_2000x.progressive_39797c48-b571-43e5-a954-e9cd6f7bcc2b.webp?v=1760875598
-    Price: $36.95 USD
+    Price: $42.00 USD
 - [Babaton Mini Dress | Stylish Women’s Party & Casual Outfit](https://qingsnkueens.com/products/babaton-mini-dress): Shop the Babaton Mini Dress – soft, breathable, stylish in Black, Red & Cheetah prints. Ideal for parties, dates, or gifting. Fast delivery & premium quality!
-  Updated: 2025-10-22T16:33:07Z
+  Updated: 2025-11-13T07:51:30Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4821,72 +4821,72 @@
   - [Black / XS](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301175463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress.avif?v=1761080801
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Black / S](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301208231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress.avif?v=1761080801
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Black / M](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301240999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress.avif?v=1761080801
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Black / L](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301273767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress.avif?v=1761080801
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Black / XL](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301306535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress.avif?v=1761080801
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Red / XS](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301339303)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_in_Red.avif?v=1761080824
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Red / S](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301372071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_in_Red.avif?v=1761080824
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Red / M](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301404839)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_in_Red.avif?v=1761080824
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Red / L](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301437607)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_in_Red.avif?v=1761080824
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Red / XL](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301470375)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_in_Red.avif?v=1761080824
-    Price: $32.95 USD
+    Price: $38.00 USD
   - [Cheetah / XS](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301503143)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
-    Price: $32.95 USD
+    Price: $42.00 USD
   - [Cheetah / S](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301535911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
-    Price: $32.95 USD
+    Price: $42.00 USD
   - [Cheetah / M](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301568679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
-    Price: $32.95 USD
+    Price: $42.00 USD
   - [Cheetah / L](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301601447)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
-    Price: $32.95 USD
+    Price: $42.00 USD
   - [Cheetah / XL](https://qingsnkueens.com/products/babaton-mini-dress?variant=47147301634215)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Babaton_Mini_Dress_xx.avif?v=1761080861
-    Price: $32.95 USD
+    Price: $42.00 USD
 - [I Believe In You Beaded Mini Dress – Chartreuse Event Dress](https://qingsnkueens.com/products/i-believe-in-you-beaded-mini-dress): Shop the I Believe In You Beaded Mini Dress in chartreuse. Sparkling beaded mini dress perfect for parties, events, cocktail nights, and glamorous occasions.
-  Updated: 2025-10-25T15:42:01Z
+  Updated: 2025-11-13T07:50:56Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_b365c4c9-e494-4f35-96d0-16ed7e826538.jpg?v=1761404764
-  Price: $35.95 USD
+  Price: $40.95 USD
 - [Thais Wool Blend Jacket | Women’s Mohair Coat in Dark Taupe](https://qingsnkueens.com/products/thais-wool-blend-jacket): Shop the Thais Wool Blend Jacket in Dark Taupe – a short, oversized women’s mohair and wool coat with long sleeves, teddy collar & front pockets.
-  Updated: 2025-10-28T13:48:14Z
+  Updated: 2025-11-13T07:50:18Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4894,107 +4894,107 @@
   - [XS](https://qingsnkueens.com/products/thais-wool-blend-jacket?variant=47169481900199)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
-    Price: $28.95 USD
+    Price: $45.99 USD
   - [S](https://qingsnkueens.com/products/thais-wool-blend-jacket?variant=47169481932967)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
-    Price: $28.95 USD
+    Price: $45.99 USD
   - [M](https://qingsnkueens.com/products/thais-wool-blend-jacket?variant=47169481965735)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
-    Price: $28.95 USD
+    Price: $45.99 USD
   - [L](https://qingsnkueens.com/products/thais-wool-blend-jacket?variant=47169481998503)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
-    Price: $28.95 USD
+    Price: $45.99 USD
   - [XL](https://qingsnkueens.com/products/thais-wool-blend-jacket?variant=47169482031271)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_c4d70273-93b9-44ad-b2c5-4c8c9db4c2d7.jpg?v=1761652890
-    Price: $28.95 USD
+    Price: $45.99 USD
 - [Chic Pink Matching Set | Cozy Two-Piece Hoodie & Trouser Outfit](https://qingsnkueens.com/products/chic-pink-matching-set): Soft blush-pink hoodie and trouser set for effortless comfort and chic style — perfect for lounging, travel, or casual everyday wear.
-  Updated: 2025-10-30T01:03:27Z
+  Updated: 2025-11-13T07:49:39Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_083d3fae-22a1-4b8b-a5ab-d133d611b82d.jpg?v=1761754731
   - [XXS](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595739815)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [XS](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595772583)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [S](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595805351)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [M](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595838119)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [L](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595870887)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [XL](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595903655)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
   - [XXL](https://qingsnkueens.com/products/chic-pink-matching-set?variant=47174595936423)
     Availability: Available
-    Price: $29.00 USD
+    Price: $35.00 USD
 - [Paco Rabanne Vintage Military Jacket – Black & Gold Couture](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket): Discover the Paco Rabanne Vintage Military Jacket — black wool blazer with gold embroidery, red cuffs, and tailored fit. Luxury fashion meets timeless style.
-  Updated: 2025-11-01T07:29:51Z
+  Updated: 2025-11-13T07:48:57Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_c3857fec-c6c8-4b90-9a0d-d9ad9e9a22f8.jpg?v=1761938927
   - [XS](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825071271)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
   - [S](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825104039)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
   - [M](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825136807)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
   - [L](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825169575)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
   - [XL](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825202343)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
   - [XXL](https://qingsnkueens.com/products/paco-rabanne-vintage-military-jacket?variant=47185825235111)
     Availability: Available
-    Price: $72.00 USD
+    Price: $99.00 USD
 - [Midnight Glitter Hoodie | Women’s Sparkle Streetwear 2025](https://qingsnkueens.com/products/midnight-glitter-hoodie): Shine in style with the Midnight Glitter Hoodie a black sparkle women’s sweatshirt perfect for winter fashion, comfort, and streetwear vibes.
-  Updated: 2025-10-31T20:51:58Z
+  Updated: 2025-11-13T07:48:19Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_9da1b234-89de-4a9e-9a6c-10baed36bb69.jpg?v=1761942753
   - [XS](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186907955367)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
   - [S](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186907988135)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
   - [M](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186908020903)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
   - [L](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186908053671)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
   - [XL](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186908086439)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
   - [XXL](https://qingsnkueens.com/products/midnight-glitter-hoodie?variant=47186908119207)
     Availability: Available
-    Price: $33.00 USD
+    Price: $38.00 USD
 - [Golden Shell Clutch Bag | Luxury Gold Evening Purse](https://qingsnkueens.com/products/golden-shell-clutch-bag): Add glamour with our Golden Shell Clutch Bag – a luxury gold round evening purse with crossbody chain, perfect for weddings, parties & events.
-  Updated: 2025-11-01T20:06:40Z
+  Updated: 2025-11-13T07:47:41Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d341fb4a-4281-436b-8590-720205995d47.jpg?v=1762027303
-  Price: $34.00 USD
+  Price: $35.00 USD
 - [Mahogany Muse Midi Dress | Elegant Diamante Halter Dress](https://qingsnkueens.com/products/mahogany-muse-midi-dress): Turn heads in the Mahogany Muse Midi Dress a luxe diamante halter dress in rich mahogany, crafted to flatter your curves and shimmer with elegance.
-  Updated: 2025-11-05T09:26:18Z
+  Updated: 2025-11-13T07:46:38Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5002,119 +5002,119 @@
   - [XXS](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785466023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [XS](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785498791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [S](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785531559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [M](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785564327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [L](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785597095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [XL](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785629863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [XXL](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785662631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
   - [XXXL](https://qingsnkueens.com/products/mahogany-muse-midi-dress?variant=47219785695399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_23016e34-8129-459f-ab05-a701037a5380.jpg?v=1762322512
-    Price: $68.00 USD
+    Price: $75.00 USD
 - [Chocolate Brown Asymmetric Scarf Midi Maxi Dress | One-Shoulder Glam](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress): Elevate your look in our chocolate brown asymmetric scarf midi maxi dress — a luxe one-shoulder design with fishtail hem and stretch-jersey perfection.
-  Updated: 2025-11-07T01:51:09Z
+  Updated: 2025-11-13T07:45:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_888f39b4-5e90-4a8b-a18d-e21d44ca590d.jpg?v=1762352355
   - [0](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294328999)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [2](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294361767)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [4](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294394535)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [6](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294427303)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [8](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294460071)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [10](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294492839)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [12](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294525607)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
   - [14](https://qingsnkueens.com/products/asymmetric-scarf-midi-maxi-dress?variant=47223294558375)
     Availability: Available
-    Price: $65.00 USD
+    Price: $69.00 USD
 - [Twill Coat with Stand-Up Collar | Elegant Wool Blend Winter Coat](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar): Stay warm in style with our beige twill coat. A premium wool-blend women’s winter coat featuring a stand-up collar, tailored fit & timeless elegance.
-  Updated: 2025-11-08T19:10:53Z
+  Updated: 2025-11-13T07:44:09Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fd2e8f89-3720-4b1f-8e50-339700e3cccc.jpg?v=1762626916
   - [34](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139004071)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [36](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139036839)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [38](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139069607)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [40](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139102375)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [42](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139135143)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [44](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139167911)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [46](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139200679)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
   - [48](https://qingsnkueens.com/products/twill-coat-with-stand-up-collar?variant=47244139233447)
     Availability: Available
-    Price: $45.00 USD
+    Price: $49.00 USD
 - [Foldable Decorated Pop Up Christmas Tree | Pre-Lit Artificial Tree](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree): Add festive elegance with this pre-lit foldable pop-up Christmas tree, pre-decorated with ornaments, ribbons, and glowing LED lights easy setup and storage.
-  Updated: 2025-11-08T21:52:55Z
+  Updated: 2025-11-13T19:40:43Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_d9b8b58a-db3a-44bd-84c3-dcb3767b6359.jpg?v=1762636224
   - [White / 1.2M (120cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782567591)
     Availability: Available
-    Price: $39.00 USD
+    Price: $89.00 USD
   - [White / 1.5M (150cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782600359)
     Availability: Available
-    Price: $39.00 USD
+    Price: $109.00 USD
   - [White / 1.8M (180cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782633127)
     Availability: Available
-    Price: $39.00 USD
+    Price: $140.00 USD
   - [Red / 1.2M (120cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782665895)
     Availability: Available
-    Price: $39.00 USD
+    Price: $89.00 USD
   - [Red / 1.5M (150cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782698663)
     Availability: Available
-    Price: $39.00 USD
+    Price: $109.00 USD
   - [Red / 1.8M (180cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782731431)
     Availability: Available
-    Price: $39.00 USD
+    Price: $135.00 USD
 [List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjMzNTA3Njc2MzI3LCJsYXN0X3ZhbHVlIjoiODYzMzUwNzY3NjMyNyJ9)
 
 ## Collections
@@ -5126,7 +5126,7 @@
   Updated: 2025-04-20T15:15:51Z
   Total Products: 0
 - [Dresses](https://qingsnkueens.com/collections/women-dresses)
-  Updated: 2025-11-05T20:09:54Z
+  Updated: 2025-11-13T07:52:43Z
   Total Products: 24
 - [Lounge wear](https://qingsnkueens.com/collections/lounge-wear)
   Updated: 2025-09-11T10:27:01Z
@@ -5138,7 +5138,7 @@
   Updated: 2025-06-12T14:59:30Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-10-31T20:41:45Z
+  Updated: 2025-11-13T07:49:40Z
   Total Products: 13
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
   Updated: 2025-09-08T14:13:02Z
@@ -5147,13 +5147,13 @@
   Updated: 2025-06-12T15:06:16Z
   Total Products: 1
 - [Tops](https://qingsnkueens.com/collections/tops)
-  Updated: 2025-10-28T13:45:27Z
+  Updated: 2025-11-13T07:50:19Z
   Total Products: 3
 - [Sweaters](https://qingsnkueens.com/collections/sweaters)
   Updated: 2025-09-08T13:14:40Z
   Total Products: 2
 - [Cord-Sets](https://qingsnkueens.com/collections/cord-sets)
-  Updated: 2025-10-29T20:29:29Z
+  Updated: 2025-11-13T07:49:40Z
   Total Products: 2
 - [Men shirts](https://qingsnkueens.com/collections/men-shirts)
   Updated: 2025-06-19T19:32:25Z
@@ -5171,10 +5171,10 @@
   Updated: 2025-06-24T15:28:19Z
   Total Products: 3
 - [totes](https://qingsnkueens.com/collections/totes)
-  Updated: 2025-11-09T15:15:10Z
+  Updated: 2025-11-13T07:54:20Z
   Total Products: 2
 - [Clutch Bags](https://qingsnkueens.com/collections/clutch-bags)
-  Updated: 2025-11-01T20:03:52Z
+  Updated: 2025-11-13T07:47:42Z
   Total Products: 1
 - [Mini Bags](https://qingsnkueens.com/collections/mini-bags)
   Updated: 2025-06-12T15:36:14Z
@@ -5213,7 +5213,7 @@
   Updated: 2025-07-10T23:04:23Z
   Total Products: 2
 - [Jackets](https://qingsnkueens.com/collections/jackets)
-  Updated: 2025-10-31T17:42:01Z
+  Updated: 2025-11-13T07:48:43Z
   Total Products: 3
 - [Belts men](https://qingsnkueens.com/collections/belts)
   Updated: 2025-06-12T17:53:34Z
@@ -5234,10 +5234,10 @@
   Updated: 2025-06-13T12:22:36Z
   Total Products: 2
 - [women accessories](https://qingsnkueens.com/collections/women-acessories)
-  Updated: 2025-11-08T21:44:06Z
+  Updated: 2025-11-13T07:55:19Z
   Total Products: 12
 - [Men accessories](https://qingsnkueens.com/collections/men-accessories)
-  Updated: 2025-11-08T21:44:06Z
+  Updated: 2025-11-13T07:55:19Z
   Total Products: 8
 - [Midi Dress](https://qingsnkueens.com/collections/midi-dress)
   Updated: 2025-10-20T19:15:47Z
@@ -5267,22 +5267,22 @@
   Updated: 2025-10-05T15:07:00Z
   Total Products: 2
 - [Slippers](https://qingsnkueens.com/collections/slippers)
-  Updated: 2025-10-19T12:56:45Z
+  Updated: 2025-11-13T07:54:48Z
   Total Products: 1
 - [Boots](https://qingsnkueens.com/collections/boots)
-  Updated: 2025-09-29T14:47:55Z
+  Updated: 2025-11-13T07:58:36Z
   Total Products: 1
 - [All Dresses](https://qingsnkueens.com/collections/all-dresses)
-  Updated: 2025-10-25T15:33:31Z
+  Updated: 2025-11-13T07:50:57Z
   Total Products: 19
 - [Clogs](https://qingsnkueens.com/collections/clogs)
-  Updated: 2025-10-19T12:56:45Z
+  Updated: 2025-11-13T07:59:02Z
   Total Products: 2
 - [men coat](https://qingsnkueens.com/collections/men-coat)
   Updated: 2025-11-08T18:41:15Z
   Total Products: 0
 - [women coat](https://qingsnkueens.com/collections/women-coat)
-  Updated: 2025-11-08T18:45:09Z
+  Updated: 2025-11-13T07:44:11Z
   Total Products: 1
 
 ## Store Pages
