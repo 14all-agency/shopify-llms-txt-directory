@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-11T00:00:31.452Z
+- Updated At: 2025-11-14T00:00:33.074Z
 
 ## Products
 
@@ -231,7 +231,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/K427.jpg?v=1672979626
   Price: RM 540.00 MYR
 - [DOCASA White Round Under Counter Wash Basin](https://bath2u.com/products/docasa-white-round-under-counter-wash-basin): Material: Ceramic Size: 495 (W) x 397 (L) x 211 (H) mm Type: Under Counter Colour: White Finish: Glossy
-  Updated: 2025-03-08T12:12:00Z
+  Updated: 2025-11-12T01:48:58Z
   Vendor: DOCASA
   Product Type: Under Counter Basin
   Availability: Available
@@ -1166,7 +1166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ITN160_8f3e4c64-a665-42c0-b163-457d6eb05f34.png?v=1675130839
   Price: RM 75.00 MYR
 - [TAPI 49cm Stainless Steel Safety Grab Bar](https://bath2u.com/products/tapi-49cm-stainless-steel-safety-grab-bar): Specifications : Dimension : 490 L x 90 W x 70 H (ø32 mm) Stainless Steel Matt Finish Max. Loading Weight : 150kg
-  Updated: 2024-04-18T15:06:21Z
+  Updated: 2025-11-13T15:29:11Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
@@ -1523,7 +1523,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-1622P.png?v=1675223411
   Price: RM 92.00 MYR
 - [JOVEN 35L Stainless Steel Storage Water Heater](https://bath2u.com/products/joven-35l-stainless-steel-storage-water-heater): Innovative Features Centralised multi-point system with enhanced dry-burn protection For 1 normal shower and 1 wash basin / 1 rain shower 6” Capacity 35L ; 7.7 Imp. Gallons Power rating 1.5 kW – 3.0 kW ; 13 Amp – 20 Amp Hot water up to 70°C High quality incoloy heating element SUS304 Stainless Steel Tank High density CFC-Free Polyurethane Insulation Foam for durability and stellar performance Accessories Universal mounting ring bracket (Patent Pending) Expansion Bolts Safety Enhanced Dry-Burn Protection Thermostat with thermal cut-off Pressure relief and drain valve
-  Updated: 2024-04-18T15:06:33Z
+  Updated: 2025-11-13T02:55:37Z
   Vendor: JOVAN
   Product Type: Water Heater
   Availability: Available
@@ -2137,7 +2137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/IT-P8080.png?v=1675822249
   Price: RM 1,380.00 MYR
 - [ITTO 980mm White Ceramic Floor Standing Wash Basin with overflow](https://bath2u.com/products/itto-980mm-white-ceramic-floor-standing-wash-basin-with-overflow): The stylish free standing basin features curved soft lines ideal for the modern bathroom. Made from high quality ceramic, the basin comes with a single tap hole will be a centerpiece for any modern bathroom. Specifications : Material: Ceramic Size: 465 (L) x 465 (W) x 980 (H) mm Type: Freestanding Colour: White Finish: Glossy Note: Tap is not include
-  Updated: 2024-04-18T15:07:08Z
+  Updated: 2025-11-13T11:47:38Z
   Vendor: ITTO
   Product Type: Freestanding Basin
   Availability: Available
