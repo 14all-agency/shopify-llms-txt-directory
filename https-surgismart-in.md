@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-13T00:00:42.091Z
+- Updated At: 2025-11-14T00:01:13.577Z
 
 ## Products
 
@@ -2568,7 +2568,7 @@
     Availability: Available
     Price: ₹1,198.00 INR
 - [Buy ​Aero Neb Mask - Surgismart](https://surgismart.in/products/romsons-aero-neb-nebulizing-mask-adult-sh-2086): Soft clear Aerosol mask provided with wide adjustable strap for proper positioning on the nasal area. Rotating type connector for patient s comfort. Large surface area provided by unique convex cone design, ensures maximum capillary action. Jet action aids in faster nebulization & maximum utilization of costly medicines. Nebulizes 3 cc medicine within 10 minutes. Angular connection of nebulizer chamber with mask enables to nebulize the patient even in supine position, ensuring no wastage of medicines. Kit consist of Jet type large nebulizer chamber with Mask and 200 cm long multichannel tubing. Product Specifications: Brand Romsons Generic Name Nebulizer Accessories Kit Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000420 EAN 18907265208631 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:40Z
+  Updated: 2025-11-13T07:00:42Z
   Vendor: Romsons
   Product Type: Aero Neb Mask
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-12T12:17:28Z
+  Updated: 2025-11-13T12:18:42Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-12T12:17:28Z
+  Updated: 2025-11-13T12:18:42Z
   Total Products: 5
 
 ## Blogs
