@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-11-10T00:00:35.546Z
+- Updated At: 2025-11-14T00:00:28.547Z
 
 ## Products
 
@@ -1659,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/647464989375505066-2048-_12.jpg?v=1760765600
     Price: $19.00 USD
 - [Men's T-Shirt - Running Late is my Cardio Tee](https://yourfabstore.com/products/running-late-is-my-cardio-mens-t-shirt): This men's T-shirt features a funny quote about running late is a cardio, making it a cool and unique addition to your wardrobe. Perfect for those who love humor and fitness, this T-shirt is ideal for casual wear and activewear. Great for gifting on birthdays, Father's Day, or fun friends in your life.Product features- Made with lightweight 100% Airlume cotton- Retail fit for casual and semi-formal settings- Manufactured in a humane, sustainable way by Bella+Canvas- Direct-to-sleeve and neck label printing for detailed designs- Variety of fabric blends available for different color optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-18T05:32:27Z
+  Updated: 2025-11-12T03:25:06Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -5777,7 +5777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10701869576744775805_2048.jpg?v=1760766875
     Price: $22.90 USD
 - [Fabulous Women's T-shirt](https://yourfabstore.com/products/fabulous-womens-t-shirt): A fabulous, trendy, and fashionable tee designed for ladies. This cool and unique tee is stylish and versatile, perfect for everyday wear or dressing up for special occasions. Ideal for women who appreciate trendy fashion and want to make a statement. Perfect for holidays, parties, and casual outings.Product features- Shoulder tape for stability and preventing stretching- Seamless design for a more attractive look- Highly elastic ribbed knit collar- Made from strong and smooth fabric ideal for printing- Ethically grown and harvested US cottonCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heatEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-18T10:19:02Z
+  Updated: 2025-11-10T04:33:44Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6757,7 +6757,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5367782582584545831_2048.jpg?v=1760759261
   Price: $9.92 USD
 - [Beach Babe Tote Bag](https://yourfabstore.com/products/beach-babe-tote-bag): This beach-themed tote bag is perfect for the summer-loving beach babe. With a vibrant beach quote design, this unique and cool tote fits seamlessly into a beachgoer's life. Ideal for those who love the island life, ocean vibes, and soaking up the sun, this tote bag is a must-have accessory for trips to the beach, picnics, or everyday use.Product features- 100% natural cotton canvas material- Vibrant colors with crisp printing- 6 oz/yd² fabric for durability- One size 15" x 16", perfect for all your essentials- Convenient self-fabric handles for easy carryingCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-26T20:54:05Z
+  Updated: 2025-11-12T03:20:25Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -6778,7 +6778,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14393422749245389365_2048.jpg?v=1760759340
   Price: $9.92 USD
 - [Adventure Snapback Hat - Perfect for Outdoor Enthusiasts](https://yourfabstore.com/products/adventure-snapback-hat-perfect-for-outdoor-enthusiasts): This adventure-themed snapback hat is perfect for mountain and camping enthusiasts who love the great outdoors. The design features a motivational quote and a mountain graphic, giving off a sense of exploration and adventure. Ideal for those who enjoy outdoor activities and want to add a touch of style to their wardrobe. Relevant for outdoor holidays, camping trips, and hiking adventures.Product features- Adjustable snap closure for the perfect fit- Classic green undervisor for timeless style- 80% acrylic, 20% wool fiber composition- For adults- Compliance with lead, bisphenols, and phthalates requirementsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietnam Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-11-01T20:07:50Z
+  Updated: 2025-11-10T04:35:35Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -7196,7 +7196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12019891560501313409-2048-_5.jpg?v=1759285001
     Price: $30.00 USD
 - [Retro One Piece Friends in Sunglasses Unisex Tee](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses): This Tee features a one piece anime design, perfect for anime and manga enthusiasts. Made from specially spun fibers, this Tee is strong and smooth, ideal for printing. It is relevant for otaku and Japanese culture fans, fitting into casual and everyday wear. Suitable for holidays like Comic-Con or birthdays of anime fans.Product features- Shoulder tape for stability- Ribbed knit collar for elasticity- Ethically sourced US cotton- Classic fit for comfort- Direct-to-Film and Direct-to-Garment printing techniquesCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-18T17:19:33Z
+  Updated: 2025-11-12T03:17:13Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -8559,6 +8559,14 @@
     Updated: 2025-11-08T01:11:59Z
     Author: YourFabStore
     Tags: accessories, artistic designs, creative accessories, creative artistic designs, customizable trendy apparel, eco-friendly fashion, fashion, independent artist platform, japanese anime clothing, limited edition clothing, sustainable, sustainable fashion accessories, sustainable fashion ideas, unique casual clothing, unique fashion trends
+  - [From Concept to Closet: The Journey of Limited Edition Clothing](https://yourfabstore.com/blogs/yourfabstore-blogs/from-concept-to-closet-the-journey-of-limited-edition-clothing): From Concept to Closet: The Journey of Limited Edition Clothing
+    Updated: 2025-11-11T01:03:30Z
+    Author: YourFabStore
+    Tags: closet organization tips, clothing, creative artistic designs, customizable trendy apparel, fashion, fashion trends, independent artist platform, japanese anime clothing, journey of fashion design, limited edition, limited edition clothing, style, sustainable fashion, sustainable fashion accessories, unique casual clothing
+  - [Unique Casual Clothing through the Lens of Japanese Anime Fashion](https://yourfabstore.com/blogs/yourfabstore-blogs/unique-casual-clothing-through-the-lens-of-japanese-anime-fashion): Unique Casual Clothing through the Lens of Japanese Anime Fashion
+    Updated: 2025-11-13T01:08:22Z
+    Author: YourFabStore
+    Tags: anime, anime style, casual, contemporary casual wear, creative artistic designs, creative outfit ideas, customizable trendy apparel, fashion, independent artist platform, japanese anime clothing, japanese fashion, limited edition clothing, sustainable fashion accessories, unique casual clothing, unique clothing
 
 ## Store Pages
 
