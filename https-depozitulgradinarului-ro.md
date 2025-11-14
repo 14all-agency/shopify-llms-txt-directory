@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-13T00:00:36.429Z
+- Updated At: 2025-11-14T00:00:33.808Z
 
 ## Products
 
@@ -4352,6 +4352,10 @@ Livrare rapidă!
     Updated: 2025-11-04T16:31:00Z
     Author: Sântimbrean Marius
     Tags: lucernă, plante furajere, trifoi
+  - [Comenzi en-gros pesticide, ingrasaminte si seminte](https://depozitulgradinarului.ro/blogs/articole/comenzi-en-gros-pesticide-ingrasaminte-si-seminte): Comenzi en-gros pesticide, ingrasaminte si seminte
+    Updated: 2025-11-13T16:00:30Z
+    Author: Sântimbrean Marius
+    Tags: Depozitul Grădinarului, en-gros, pesticide
 
 ## Store Pages
 
