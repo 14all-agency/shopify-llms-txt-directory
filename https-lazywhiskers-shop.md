@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-13T00:00:37.409Z
+- Updated At: 2025-11-14T00:00:56.824Z
 
 ## Products
 
@@ -2656,7 +2656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/c11874ef-02d2-40b7-bdd6-e3c09549b81d.webp?v=1762612757
     Price: €24.99 EUR
 - [Ho Ho Nope](https://lazywhiskers.shop/products/ho-ho-nope): When Santa says “Ho Ho Ho,” you say “Nope.”The Ho Ho Nope Hoodie by LazyWhiskers is the ultimate funny Christmas hoodie for cat lovers with zero patience for festive chaos. Featuring a grumpy black cat surrounded by unwanted holiday cheer, it’s your official uniform for skipping the season — in style.Made from a premium 50/50 cotton-poly blend, this sarcastic Christmas sweatshirt is soft, warm, and built to survive December’s drama. With a double-lined hood, smooth air jet yarn, and rib-knit cuffs, comfort meets rebellion in every stitch.Perfect as a sarcastic gift for cat lovers, anti-Christmas hoodie, or funny holiday outfit for those who’d rather nap than jingle.Designed to disobey. Purrfectly done with Christmas. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-11-12T17:18:54Z
+  Updated: 2025-11-13T05:36:06Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
