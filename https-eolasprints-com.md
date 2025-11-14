@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-11-13T21:53:01.034Z
+- Updated At: 2025-11-14T00:00:39.043Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -935,7 +935,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-certified-uv-resistant-wind-speed-direction-1-75-mm-1-468.webp?v=1759097177
     Price: €30.50 EUR
 - [High Performance Abs Filament for 3d Printing](https://eolasprints.com/products/abs-filament): Eolas Prints ABS filament offers superior performance for 3D printing. This durable, impact-resistant ABS filament has improved mechanical properties and processing.
-  Updated: 2025-11-12T11:37:36Z
+  Updated: 2025-11-13T23:07:16Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1112,7 +1112,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-silk-filament-spool-copper-colored-3d-1-75-mm-1-kg-928.webp?v=1759097234
     Price: €25.50 EUR
 - [High Speed Pla Filament for Rapid 3d Printing](https://eolasprints.com/products/pla-high-speed-filament): Eolas Prints High Speed PLA Filament is engineered for rapid 3d printing. This filament delivers exceptional material performance and superior mechanical properties.
-  Updated: 2025-11-13T21:42:02Z
+  Updated: 2025-11-13T23:07:20Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1261,7 +1261,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-3d-printer-digital-379.webp?v=1759097305
   Price: €299.00 EUR
 - [Tpu Flex Filament D53 for Creating Flexible Parts](https://eolasprints.com/products/tpu-flex-filament-shore-d53): Eolas Prints TPU Flex Filament - D53 offers superior performance and ease of use for creating flexible parts, from prototypes to functional end-use components.
-  Updated: 2025-11-12T11:37:37Z
+  Updated: 2025-11-13T23:07:16Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
