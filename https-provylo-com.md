@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T04:43:21Z
 - Contact Email: marlybest782@gmail.com
-- Updated At: 2025-11-08T00:00:27.795Z
+- Updated At: 2025-11-14T00:01:05.146Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-mini-dress-black-xs-s-zafira-mini-dresses-30615087579219.jpg?v=1760801236
   Price: 57,99 $ USD
 - [Virella Mini dresses - Élégance et Confort](https://provylo.com/products/virella-mini-dress-et-style-sophistique): Découvrez les Virella Mini dresses, alliant confort et style pour toutes les occasions. Une touche moderne pour votre garde-robe.
-  Updated: 2025-11-01T20:12:24Z
+  Updated: 2025-11-09T14:19:52Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -1317,46 +1317,46 @@
 ## Collections
 
 - [Midi Dress Midnight Siren - PROVYLO](https://provylo.com/collections/midi-dress-midnight-siren): La robe midi Midnight Siren disponible en plusieurs couleurs éclatantes, offre un décollé sophistiqué qui sublime la silhoute. Son design élégant  - PROVYLO
-  Updated: 2025-11-07T21:21:15Z
+  Updated: 2025-11-13T21:17:18Z
   Total Products: 4
 - [Maxi Dress Nivellah - PROVYLO](https://provylo.com/collections/maxi-dress): - PROVYLO
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 3
 - [Mini Dress Zafira – Découvrez la Collection PROVYLO](https://provylo.com/collections/mini-dress): Trouvez votre style unique avec la mini dress Zafira. Explorez notre collection complète et achetez la pièce parfaite pour sublimer votre allure.
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 10
 - [PROVYLO – Collection All Product : Découvrez Nos Incontournables](https://provylo.com/collections/product-product): Explorez la collection all product sur PROVYLO et trouvez vos articles préférés. Découvrez, commandez et profitez de nos meilleures sélections en ligne.
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 13
 - [Ensembles Coordonnés & Sets Stylés - Mode Femme](https://provylo.com/collections/co-ords-sets): Découvrez notre collection d'ensembles coordonnés et sets stylés chez PROVYLO. Looks complets, style harmonieux, qualité premium. Livraison rapide.
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 3
 - [Skirt - PROVYLO](https://provylo.com/collections/skirt): - PROVYLO
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 1
 - [Elegant Women's Winter Collection"](https://provylo.com/collections/coats-capes-1): luxury women's fashion. Sophisticated designs crafted with premium materials. Elevate your style with our collection.
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 4
 - [Trendy Tops for Women - Fashionable Styles](https://provylo.com/collections/tops-tops): Explore our collection of trendy tops for women. Discover stylish options that suit any occasion and enhance your wardrobe.
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 4
 - [Home Page - PROVYLO](https://provylo.com/collections/home-page): - PROVYLO
-  Updated: 2025-11-04T05:32:05Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 2
 - [Clothing - PROVYLO](https://provylo.com/collections/clothing): - PROVYLO
-  Updated: 2025-11-04T05:32:06Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 14
 - [Apparel & Accessories - PROVYLO](https://provylo.com/collections/apparel-accessories): - PROVYLO
-  Updated: 2025-11-04T05:32:06Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 1
 - [Où acheter des vêtements élégants pour femme au Canada](https://provylo.com/collections/manteaux-femme-elegants): PROVYLO : L'alternative élégante aux grandes chaînes. Manteaux femme premium, trench coats sophistiqués, qualité artisanale. Mode exclusive Canada.
-  Updated: 2025-11-04T05:32:06Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 2
 - [Quelle robe porter pour une occasion spéciale - PROVYLO](https://provylo.com/collections/robes-midi-exclusives): Robes midi PROVYLO : designs uniques avec détails raffinés (lacets, sacs assortis). Alternative premium à Shein et Zara. Qualité artisanale Canada.
-  Updated: 2025-11-04T05:32:06Z
+  Updated: 2025-11-09T18:25:58Z
   Total Products: 2
-- [Midi Dress Midnight Siren](https://provylo.com/collections/midi-dress-midnight-siren-a89e68a001144c489c5f962169d43f24-aftership-apz-version-a-general-1762550474565)
-  Updated: 2025-11-07T21:21:15Z
+- [Midi Dress Midnight Siren](https://provylo.com/collections/midi-dress-midnight-siren-a89e68a001144c489c5f962169d43f24-aftership-apz-version-a-general-1763068637451)
+  Updated: 2025-11-13T21:17:18Z
   Total Products: 4
 
 ## Blogs
