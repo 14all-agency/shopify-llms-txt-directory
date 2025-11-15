@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-11-14T00:01:11.812Z
+- Updated At: 2025-11-15T00:00:39.440Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -3760,7 +3760,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/products/personalized-red-polka-dot-tumbler-cup-at-amys-coffee-mugs-533052.jpg?v=1654661050
     Price: $31.95 USD
 - [Personalized Blue Polka Dot Tumbler Cup | Custom Drinkware for Gifts](https://amyscoffeemugs.com/products/personalized-blue-polka-dot-tumbler-cup): Personalized Blue Polka Dot Tumbler Cup with your name in blue. Keeps beverages hot or cold, dishwasher-safe, and an ideal gift for birthdays & holidays.
-  Updated: 2025-11-07T16:43:24Z
+  Updated: 2025-11-14T11:17:07Z
   Vendor: Amy's Coffee Mugs
   Product Type: Insulated Tumbler Cup
   Availability: Available
