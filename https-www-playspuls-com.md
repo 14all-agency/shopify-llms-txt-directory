@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-11-14T00:00:45.288Z
+- Updated At: 2025-11-15T00:01:02.267Z
 
 ## Products
 
@@ -95,7 +95,7 @@
 ## Collections
 
 - [Toy Doll - PlaysPuls](https://www.playspuls.com/collections/figurine): - PlaysPuls
-  Updated: 2025-11-12T12:24:59Z
+  Updated: 2025-11-14T12:24:56Z
   Total Products: 7
 - [Mug - PlaysPuls](https://www.playspuls.com/collections/mug): - PlaysPuls
   Updated: 2025-11-07T10:09:16Z
