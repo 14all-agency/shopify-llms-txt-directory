@@ -8,222 +8,222 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-11-10T00:00:38.226Z
+- Updated At: 2025-11-15T00:00:32.449Z
 
 ## Products
 
 - [Luxury Italian Shoes and Bag Set for Party Decorated with](https://milvertons.com/products/luxury-italian-shoe-and-bag-set-for-party-decorated-with-rhinestones): Best seller at MILVERTONS - Heel Type: Square heel, Upper Material: Cotton Fabric, Heel Height: Super High (8cm), Pump Type: Slingbacks, Toe Shape: Peep Toe
-  Updated: 2025-11-04T21:21:28Z
+  Updated: 2025-11-11T19:04:55Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/luxury-italian-shoes-and-bag-set-for-party-decorated-with-rhinestones-880188.jpg?v=1715725357
   Price: $128.65 USD
 - [Fashion African Style Black Luxury Golden Printed Man Casual](https://milvertons.com/products/fashion-african-style-black-luxury-golden-printed-man-casual-dashiki-long-shirts-plus-size-riche-bazin-africa-men-clothing-tops): Brand Name: Sisjuly Shirts Type: Casual Shirts Sleeve Length(cm): Full Material: Polyester Fabric Type: Broadcloth Pattern Type: Print Closure Type: Pullover
-  Updated: 2025-11-04T21:21:28Z
+  Updated: 2025-11-11T19:04:56Z
   Vendor: Milvertons
   Product Type: Men - Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/fashion-african-style-black-luxury-golden-printed-man-casual-dashiki-long-shirts-plus-size-riche-bazin-africa-men-clothing-tops-622900.jpg?v=1715725386
   Price: $77.20 USD
 - [African Men's Printed Long Sleeve Shirt Riche Bazin White](https://milvertons.com/products/african-mens-printed-long-sleeve-shirt-riche-bazin-white-striped-plus-size-dashiki-long-tops-african-man-clothing-male-chemise): African Men's Printed Long Sleeve Shirt Riche Bazin White Striped Plus Size Dashiki Long Tops African Man Clothing Male Chemise Brand Name: Sisjuly Shirts Type:
-  Updated: 2025-11-04T21:21:29Z
+  Updated: 2025-11-11T19:04:57Z
   Vendor: Milvertons
   Product Type: Men - Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-mens-printed-long-sleeve-shirt-riche-bazin-white-striped-plus-size-dashiki-long-tops-african-man-clothing-male-chemise-438362.jpg?v=1715725365
   Price: $64.06 USD
 - [African Style Men's Shirt African Clothing Stand Collar Long](https://milvertons.com/products/african-style-mens-shirt-african-clothing-stand-collar-long-sleeve-t-shirt-men-african-dashiki-traditional-maxi-man-shirt-tops): African Style Men's Shirt African Clothing Stand Collar Long Sleeve T Shirt Men African Dashiki Traditional Maxi Man Shirt TopsBrand Name: Sisjuly Shirts Type:
-  Updated: 2025-11-04T21:21:30Z
+  Updated: 2025-11-11T19:04:57Z
   Vendor: Milvertons
   Product Type: Men - Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-style-mens-shirt-african-clothing-stand-collar-long-sleeve-t-shirt-men-african-dashiki-traditional-maxi-man-shirt-tops-567556.jpg?v=1715725339
   Price: $73.41 USD
 - [Dashiki Men's Shirt Bazin Rich for Man African Men Clothes](https://milvertons.com/products/dashiki-mens-shirt-bazin-rich-for-man-african-men-clothes-casual-white-round-neck-fall-autumn-long-sleeve-dashiki-long-shirt): Dashiki Men's Shirt Bazin Rich for Man African Men Clothes Casual White Round Neck Fall Autumn Long Sleeve Dashiki Long ShirtBrand Name: Sisjuly Shirts Type:
-  Updated: 2025-11-07T07:30:13Z
+  Updated: 2025-11-11T19:04:58Z
   Vendor: Milvertons
   Product Type: Men - Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/dashiki-mens-shirt-bazin-rich-for-man-african-men-clothes-casual-white-round-neck-fall-autumn-long-sleeve-dashiki-long-shirt-743492.jpg?v=1715725372
   Price: $79.15 USD
 - [Men's Dashiki African Tops Luxury Golden Printed African](https://milvertons.com/products/mens-dashiki-african-tops-luxury-golden-printed-african-black-long-sleeve-rich-long-shirts-for-dashiki-stand-collar): Men's Dashiki African Tops Luxury Golden Printed African Black Long Sleeve Rich Long Shirts for Dashiki Stand CollarBrand Name: Sisjuly Shirts Type: Casual
-  Updated: 2025-11-04T21:21:32Z
+  Updated: 2025-11-11T19:04:59Z
   Vendor: Milvertons
   Product Type: Men - Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-dashiki-african-tops-luxury-golden-printed-african-black-long-sleeve-rich-long-shirts-for-dashiki-stand-collar-268925.jpg?v=1715725394
   Price: $83.09 USD
 - [Vintage Women Lace Dress Elegant Three-Quarter Round Collar](https://milvertons.com/products/vintage-women-lace-dress-elegant-three-quarter-round-collar-african-dresses-summer-office-lady-a-line-midi-daily-dress): Vintage Women Lace Dress Elegant Three-Quarter Round Collar African Dresses Summer Office Lady A-Line Midi Daily DressBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:32Z
+  Updated: 2025-11-11T19:04:59Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/vintage-women-lace-dress-elegant-three-quarter-round-collar-african-dresses-summer-office-lady-a-line-midi-daily-dress-704416.jpg?v=1715725524
   Price: $79.66 USD
 - [Vintage Women Dresses Big Swing Pocket Print Polka Dots](https://milvertons.com/products/vintage-women-dresses-big-swing-pocket-print-polka-dots-retro-female-midi-dress-summer-sweet-plus-size-elegant-party-office-lady): Vintage Women Dresses Big Swing Pocket Print Polka Dots Retro Female Midi Dress Summer Sweet Plus Size Elegant Party Office LadyBrand Name: Sisjuly Material:
-  Updated: 2025-11-04T21:21:33Z
+  Updated: 2025-11-11T19:05:00Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/vintage-women-dresses-big-swing-pocket-print-polka-dots-retro-female-midi-dress-summer-sweet-plus-size-elegant-party-office-lady-484291.jpg?v=1715725528
   Price: $80.26 USD
 - [Women Summer Sheath Short Sleeve Midi Dresses Robe Daily](https://milvertons.com/products/women-summer-sheath-short-sleeve-midi-dresses-robe-daily-office-lady-dress-female-plus-size): Women Summer Sheath Short Sleeve Midi Dresses Robe Daily Office Lady Dress Female Plus Size Brand Name: Sisjuly Material: Polyester Model Number: 15550517
-  Updated: 2025-11-04T21:21:34Z
+  Updated: 2025-11-11T19:05:01Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/women-summer-sheath-short-sleeve-midi-dresses-robe-daily-office-lady-dress-female-plus-size-648102.jpg?v=1715725535
   Price: $79.98 USD
 - [Evening Dinner Party Orange Long Sleeve Dress Autumn Fall](https://milvertons.com/products/evening-dinner-party-orange-long-sleeve-dress-autumn-fall-women-bodycon-high-waist-plus-size-3xl-female-pencil-midi-dress): Evening Dinner Party Orange Long Sleeve Dress Autumn Fall Women Bodycon High Waist Plus Size 3XL Female Pencil Midi DressBrand Name: Plusee Material: Polyester
-  Updated: 2025-11-04T21:21:34Z
+  Updated: 2025-11-11T19:05:01Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/evening-dinner-party-orange-long-sleeve-dress-autumn-fall-women-bodycon-high-waist-plus-size-3xl-female-pencil-midi-dress-607557.jpg?v=1715725378
   Price: $80.54 USD
 - [Women Blouse Yellow Tops Shirts Flare Long Sleeve Slim Party](https://milvertons.com/products/women-blouse-yellow-tops-shirts-flare-long-sleeve-slim-party-wear-autumn-elegant-lady-blouse-shirts-tops-blouses-african): Women Blouse Yellow Tops Shirts Flare Long Sleeve Slim Party Wear Autumn Elegant Lady Blouse Shirts Tops Blouses AfricanBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:35Z
+  Updated: 2025-11-11T19:05:02Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/women-blouse-yellow-tops-shirts-flare-long-sleeve-slim-party-wear-autumn-elegant-lady-blouse-shirts-tops-blouses-african-165451.jpg?v=1715725529
   Price: $80.48 USD
 - [African White Sexy Club Beach Women Midi Dresses Ruffles](https://milvertons.com/products/african-white-sexy-club-beach-women-midi-dresses-ruffles-split-asymmetric-office-lady-female-fashion-hollow-zipper-summer-dress): African White Sexy Club Beach Women Midi Dresses Ruffles Split Asymmetric Office Lady Female Fashion Hollow Zipper Summer DressBrand Name: Sisjuly Material:
-  Updated: 2025-11-04T21:21:36Z
+  Updated: 2025-11-11T19:05:03Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-white-sexy-club-beach-women-midi-dresses-ruffles-split-asymmetric-office-lady-female-fashion-hollow-zipper-summer-dress-400836.jpg?v=1715725383
   Price: $80.74 USD
 - [Elegant Offce Lady Dress Women Flower Printed Patchwork](https://milvertons.com/products/elegant-offce-lady-dress-women-flower-printed-patchwork-dress-african-daily-look-femme-vestiods-robe-large-size-autumn): Elegant Offce Lady Dress Women Flower Printed Patchwork Dress African Daily Look Femme Vestiods Robe Large Size AutumnBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:37Z
+  Updated: 2025-11-11T19:05:03Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-offce-lady-dress-women-flower-printed-patchwork-dress-african-daily-look-femme-vestiods-robe-large-size-autumn-434069.jpg?v=1715725391
   Price: $80.64 USD
 - [Elegant Black African Vintage Summer Women Midi Dresses](https://milvertons.com/products/elegant-black-african-vintage-summer-women-midi-dresses-bodycon-flare-sleeve-high-waist-mesh-female-retro-plain-dress-plus-size): Elegant Black African Vintage Summer Women Midi Dresses Bodycon Flare Sleeve High Waist Mesh Female Retro Plain Dress Plus Size Brand Name: Sisjuly Material:
-  Updated: 2025-11-04T21:21:38Z
+  Updated: 2025-11-11T19:05:04Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-black-african-vintage-summer-women-midi-dresses-bodycon-flare-sleeve-high-waist-mesh-female-retro-plain-dress-plus-size-400836.jpg?v=1715725382
   Price: $80.64 USD
 - [Elegant Women Dress African Style Summer Mid Calf Office](https://milvertons.com/products/elegant-women-dress-african-style-summer-mid-calf-office-lady-a-line-dress-short-sleeve): Elegant Women Dress African Style Summer Mid Calf Office Lady A-Line Dress Short Sleeve Brand Name: Sisjuly Material: Polyester Model Number: 845035 Decoration:
-  Updated: 2025-11-04T21:21:38Z
+  Updated: 2025-11-11T19:05:05Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-women-dress-african-style-summer-mid-calf-office-lady-a-line-dress-short-sleeve-125716.jpg?v=1715725384
   Price: $81.04 USD
 - [Elegant Women's Dress Office-wear Daily Patchwork Female](https://milvertons.com/products/elegant-womens-dress-office-wear-daily-patchwork-female-dresses-round-neck-hollow-ankle-length-short-sleeve-female-dress): Elegant Women's Dress Office-wear Daily Patchwork Female Dresses Round Neck Hollow Ankle Length Short Sleeve Female DressBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:39Z
+  Updated: 2025-11-12T07:45:16Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-womens-dress-office-wear-daily-patchwork-female-dresses-round-neck-hollow-ankle-length-short-sleeve-female-dress-751202.jpg?v=1715725387
   Price: $81.06 USD
 - [Women's Bow design Party Elegant Dress Color Block Printing](https://milvertons.com/products/womens-bow-design-party-elegant-dress-color-block-printing-sleeveless-high-waist-a-line-simple-casual-dress): Women's Bow design Party Elegant Dress Color Block Printing Sleeveless High Waist A-line Simple Casual DressBrand Name: Sisjuly Material: Polyester Model
-  Updated: 2025-11-04T21:21:40Z
+  Updated: 2025-11-11T19:05:06Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-bow-design-party-elegant-dress-color-block-printing-298297.jpg?v=1715725527
   Price: $80.90 USD
 - [Elegant Office Lady Long Maxi Dress Robe Autumn African Long](https://milvertons.com/products/elegant-office-lady-long-maxi-dress-robe-autumn-african-long-maxi-dress-casual-plus-size): Elegant Office Lady Long Maxi Dress Robe Autumn African Long Maxi Dress Casual Plus SizeBrand Name: Sisjuly Material: Polyester Model Number: 16328707
-  Updated: 2025-11-04T21:21:41Z
+  Updated: 2025-11-11T19:05:07Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-office-lady-long-maxi-dress-robe-autumn-african-long-maxi-dress-casual-plus-size-323901.jpg?v=1715725392
   Price: $80.90 USD
 - [Leopard Sexy Jumpsuit Romper Women Long Sleeve Office](https://milvertons.com/products/leopard-sexy-jumpsuit-romper-women-long-sleeve-office-vintage-fashion-african-ladies-party-casual-jumpsuits-long-high-waist-punk): Leopard Sexy Jumpsuit Romper Women Long Sleeve Office Vintage Fashion African Ladies Party Casual Jumpsuits Long High Waist PunkGender: Women Item Type:
-  Updated: 2025-11-04T21:21:41Z
+  Updated: 2025-11-11T19:05:08Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Clothing - Suits - Pants Suits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/leopard-sexy-jumpsuit-romper-women-long-sleeve-office-vintage-fashion-african-ladies-party-casual-jumpsuits-long-high-waist-punk-606580.jpg?v=1715725389
   Price: $81.10 USD
 - [Women's Rompers Solid Color Casual Long Jumpsuit Clubwear](https://milvertons.com/products/womens-rompers-solid-color-casual-long-jumpsuit-clubwear-bodycon-evening-party-outifit-o-neck-fashion-streetwear-playsuit): Women's Rompers Solid Color Casual Long Jumpsuit Clubwear Bodycon Evening Party Outifit O-neck Fashion Streetwear PlaysuitBrand Name: Sisjuly Type: Jumpsuits
-  Updated: 2025-11-04T21:21:42Z
+  Updated: 2025-11-11T19:05:09Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Clothing - One-Pieces - Jumpsuits & Rompers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-rompers-solid-color-casual-long-jumpsuit-clubwear-bodycon-evening-party-outifit-o-neck-fashion-streetwear-playsuit-748511.jpg?v=1715725540
   Price: $81.16 USD
 - [Women's Velvet Dress Falbala Sequins Patchwork Elegant](https://milvertons.com/products/womens-velvet-dress-falbala-sequins-patchwork-elegant-office-lady-dress-ruffles-blue-long-sleeve-party-dinner-dress-autumn): Women's Velvet Dress Falbala Sequins Patchwork Elegant Office Lady Dress Ruffles Blue Long Sleeve Party Dinner Dress AutumnBrand Name: Sisjuly Material:
-  Updated: 2025-11-04T21:21:43Z
+  Updated: 2025-11-11T19:05:09Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-velvet-dress-falbala-sequins-patchwork-elegant-office-lady-dress-ruffles-blue-long-sleeve-party-dinner-dress-autumn-510286.jpg?v=1715725536
   Price: $81.10 USD
 - [Women's Summer Maxi Dress Color Block Fashion Patchwork](https://milvertons.com/products/womens-summer-maxi-dress-color-block-fashion-patchwork-ruffle-elegant-evening-sleeveless-sexy-robe-party-big-swing-long-dress): Women's Summer Maxi Dress Color Block Fashion Patchwork Ruffle Elegant Evening Sleeveless Sexy Robe Party Big Swing Long DressBrand Name: Sisjuly Material:
-  Updated: 2025-11-04T21:21:43Z
+  Updated: 2025-11-11T19:05:10Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-summer-maxi-dress-color-block-fashion-patchwork-ruffle-elegant-evening-sleeveless-sexy-robe-party-big-swing-long-dress-111215.jpg?v=1715725510
   Price: $81.10 USD
 - [Elegant Women's A-Line Dress African Office Lady Stand](https://milvertons.com/products/elegant-womens-a-line-dress-african-office-lady-stand-collar-lantern-sleeve-mid-calf-womens-dress-robe-autumn-vestiods): Elegant Women's A-Line Dress African Office Lady Stand Collar Lantern Sleeve Mid-Calf Women's Dress Robe Autumn VestiodsBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:44Z
+  Updated: 2025-11-11T19:05:11Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-womens-a-line-dress-african-office-lady-stand-collar-lantern-sleeve-mid-calf-womens-dress-robe-autumn-vestiods-526206.jpg?v=1715725392
   Price: $81.55 USD
 - [African Dashiki Fashion Suit Super Elastic Party Plus Size](https://milvertons.com/products/african-dashiki-fashion-suit-super-elastic-party-plus-size-for-lady-two-piece-set-suit): African Dashiki Fashion Suit Super Elastic Party Plus Size For Lady Two Piece Set Suit Brand Name: Sisjuly Model Number: 16432945 Sleeve Style: Batwing Sleeve
-  Updated: 2025-11-04T21:21:45Z
+  Updated: 2025-11-11T19:05:11Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-dashiki-fashion-suit-super-elastic-party-plus-size-for-lady-two-piece-set-suit-348934.jpg?v=1723514227
   Price: $91.11 USD
 - [African Lady Long Robe Dress V-Neck A-Line Floor-Length Maxi](https://milvertons.com/products/african-lady-long-robe-dress-v-neck-a-line-floor-length-maxi-dress-large-size-femme-vestiods-tunic-cover-up-beach-summer): African Lady Long Robe Dress V-Neck A-Line Floor-Length Maxi Dress Large Size Femme Vestiods Tunic Cover Up Beach Summer Brand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:45Z
+  Updated: 2025-11-11T19:05:12Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/african-lady-long-robe-dress-v-neck-a-line-floor-length-maxi-dress-large-size-femme-vestiods-tunic-cover-up-beach-summer-289130.jpg?v=1715725394
   Price: $80.90 USD
 - [Loose Orange Female Midi Dress Casual Daily Office Lady](https://milvertons.com/products/loose-orange-female-midi-dress-casual-daily-office-lady-workwear-dress-autumn-african-long-sleeve-female-vestiods-robe): Loose Orange Female Midi Dress Casual Daily Office Lady Workwear Dress Autumn African Long Sleeve Female Vestiods RobeBrand Name: Sisjuly Material: Polyester
-  Updated: 2025-11-04T21:21:46Z
+  Updated: 2025-11-11T19:05:13Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/loose-orange-female-midi-dress-casual-daily-office-lady-workwear-dress-autumn-african-long-sleeve-female-vestiods-robe-657711.jpg?v=1715725391
   Price: $81.14 USD
 - [Long Maxi Dress High Waist African Female Dress Robe](https://milvertons.com/products/long-maxi-dress-high-waist-african-female-dress-robe-geometric-boho-elegant-party-dinner-dress-vestiods): Long Maxi Dress High Waist African Female Dress Robe Geometric Boho Elegant Party Dinner Dress VestiodsBrand Name: Sisjuly Material: Polyester Model Number:
-  Updated: 2025-11-04T21:21:47Z
+  Updated: 2025-11-11T19:05:14Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/long-maxi-dress-high-waist-african-female-dress-robe-geometric-boho-elegant-party-dinner-dress-vestiods-625644.jpg?v=1715725386
   Price: $81.55 USD
 - [Elegant Vintage Midi Dress Office Lady African Woman  Party](https://milvertons.com/products/elegant-vintage-midi-dress-office-lady-african-woman-party-bodycon-split-female-retro-dress-summer): Elegant Vintage Midi Dress Office Lady African Woman Party Bodycon Split Female Retro Dress Summer Gender: Women Material: Polyester Style: vintage Silhouette:
-  Updated: 2025-11-04T21:21:47Z
+  Updated: 2025-11-11T19:05:14Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-vintage-midi-dress-office-lady-african-woman-party-bodycon-split-female-retro-dress-summer-107287.jpg?v=1715725390
   Price: $81.77 USD
 - [Sleeveless Round Neck Flower Print Maxi Dress](https://milvertons.com/products/sleeveless-round-neck-flower-print-maxi-dress): Sleeveless Round Neck Flower Print Maxi DressBrand Name: Sisjuly Material: Polyester Model Number: 16172339 Decoration: NONE Season: Summer Waistline: empire
-  Updated: 2025-11-04T21:21:48Z
+  Updated: 2025-11-11T19:05:15Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sleeveless-round-neck-flower-print-maxi-dress-615549.jpg?v=1715725537
   Price: $81.10 USD
 - [Women's  Halter Sleeveless Long Pleated Maxi Summer Dress](https://milvertons.com/products/womens-halter-sleeveless-long-pleated-maxi-summer-dress-sexy-african-femme-vestiods-chiffon-holiday-dress): Women's Halter Sleeveless Long Pleated Maxi Summer Dress Sexy African Femme Vestiods Chiffon Holiday DressBrand Name: Sisjuly Material: Chiffon Model Number:
-  Updated: 2025-11-04T21:21:49Z
+  Updated: 2025-11-11T19:05:16Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-halter-sleeveless-long-pleated-maxi-summer-dress-sexy-african-femme-vestiods-chiffon-holiday-dress-708816.jpg?v=1715725541
   Price: $81.14 USD
 - [Off-Shoulder Elegant Summer Dress Sexy Office Lady Midi](https://milvertons.com/products/off-shoulder-elegant-summer-dress-sexy-office-lady-midi-dress-evening-party-patchwork-split-pink-dinner-dress): Off-Shoulder Elegant Summer Dress Sexy Office Lady Midi Dress Evening Party Patchwork Split Pink Dinner DressGender: Women Material: Polyester Style: Office
-  Updated: 2025-11-04T21:21:50Z
+  Updated: 2025-11-11T19:05:17Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -244,28 +244,28 @@
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-handmade-apple-shape-evening-party-accessory-with-crystals-894336.jpg?v=1715725380
   Price: $153.83 USD
 - [Pretty Two Color Design Beads 3 Piece Set](https://milvertons.com/products/pretty-two-color-design-beads-3-piece-set): Latest from Milvertons: Exquisite Royal African Beads 3 Piece Jewelry SetItem Type: Jewelry SetsFine or Fashion: FashionOccasion: WeddingGender: WomenGender:
-  Updated: 2025-11-04T21:21:50Z
+  Updated: 2025-11-11T19:05:17Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pretty-two-color-design-beads-3-piece-set-771563.jpg?v=1715725537
   Price: $56.00 USD
 - [Sparkling Luxury Crystal 2pcs Accessory](https://milvertons.com/products/sparkling-luxury-crystal-2pcs-accessory-decoration): Best seller at MILVERTONS - Luxury Crystal 2pcs Shoe DecorationBrand Name: nonglangItem Type: Shoe DecorationsDecorations: RhinestoneModel Number: Crystal Shoes
-  Updated: 2025-11-04T21:21:51Z
+  Updated: 2025-11-11T19:05:18Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sparkling-luxury-crystal-2pcs-accessory-decoration-145171.jpg?v=1715725526
   Price: $14.96 USD
 - [Sensational Gorgeous African Wedding Accessory](https://milvertons.com/products/sensational-gorgeous-african-wedding-accessory): Latest from Milvertons: Gorgeous African Costume Jewelry SetBrand Name: Metals Type: CopperGender: WomenFine or Fashion: Fashionis_customized: YesStyle:
-  Updated: 2025-11-04T21:21:52Z
+  Updated: 2025-11-11T19:05:19Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sensational-gorgeous-african-wedding-accessory-216288.jpg?v=1715725540
   Price: $137.07 USD
 - [Latest Charming Sydney Opera Design Bold Statement](https://milvertons.com/products/latest-charming-sydney-opera-design-bold-statement): The Latest Charming Sydney Opera Design Bold Statement is a unique and stylish piece of jewelry. It is made of copper and cubic zirconia, and is set in a prong setting. It is fashionable and trendy, and is perfect for any occasion, from weddings to shopping trips. The surface is finished with a 3 times fine polishing mirror finish, and is lead, nickel, and cadmium free. It is a great gift for any woman, from a daughter to a wife. The Latest Charming Sydney Opera Design Bold Statement is a truly unique piece of jewelry. It is available in a 3 tone color, and is perfect for any occasion. It is fashionable and trendy, and is sure to make a bold statement. It is a great gift for any woman, and is sure to be appreciated. Don't hesitate to check all other products in this Trendy Clothing Accessories for Men and Women collection!
-  Updated: 2025-11-04T21:21:55Z
+  Updated: 2025-11-11T19:05:21Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Jewelry Sets
   Availability: Available
@@ -319,7 +319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/latest-charming-sydney-opera-design-bold-statement-571242.webp?v=1742909198
     Price: $60.68 USD
 - [Latest Fashion Luxury Adornment For Women](https://milvertons.com/products/latest-fashion-luxury-adornment-for-women): Latest from Milvertons: Latest Fashion Luxury Rings Brand Name: Metals Type: CopperGender: WomenMaterial: Cubic ZirconiaOccasion: WeddingSetting Type: Prong
-  Updated: 2025-11-04T21:21:56Z
+  Updated: 2025-11-11T19:05:23Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Rings
   Availability: Available
@@ -394,7 +394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/products/Milvertons-Gift-Card-e-gift-cards-for-your-loved-ones-7618.jpg?v=1715481196
     Price: $10.00 USD
 - [Elegant Vintage pleated belt plaid dress](https://milvertons.com/products/elegant-vintage-pleated-belt-plaid-dress): Elegant Vintage pleated belt plaid dress - Office lady blazer dress, Long sleeve midi party dress
-  Updated: 2025-11-04T21:21:59Z
+  Updated: 2025-11-11T19:05:25Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -448,7 +448,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-vintage-pleated-belt-plaid-dress-674372.jpg?v=1715725385
     Price: $51.98 USD
 - [Extreme High Pointed Rhinestone Fashion Cat Eye Sunglasses](https://milvertons.com/products/extreme-high-pointed-rhinestone-fashion-cat-eye-retro-sunglasses): Extreme High Pointed Rhinestone Fashion Cat Eye Retro Sunglasses For a Spunky Fresh Look, Darker Colors utilized to allow embedded Rhinestones to really Shine.
-  Updated: 2025-11-04T21:22:00Z
+  Updated: 2025-11-11T19:05:28Z
   Vendor: Milvertons
   Product Type: Women's Fashion - Women's Accessories - Women's Glasses - Women's Sunglasses
   Availability: Available
@@ -470,14 +470,14 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/extreme-high-pointed-rhinestone-fashion-cat-eye-retro-sunglasses-476625.jpg?v=1715725340
     Price: $28.00 USD
 - [Women's lace summer dress word collar shoulder straps](https://milvertons.com/products/womens-lace-summer-dress-word-collar-shoulder-straps): Women's lace summer dress word collar shoulder straps - Europe and the United States explosion style. Women's word collar shoulder straps lace summer dress
-  Updated: 2025-11-07T10:00:30Z
+  Updated: 2025-11-11T19:05:28Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-lace-summer-dress-word-collar-shoulder-straps-926222.jpg?v=1715725531
   Price: $30.01 USD
 - [Women's Bandage Off-Shoulder Bodycon Dress](https://milvertons.com/products/womens-bandage-off-shoulder-bodycon-dress): Women's Bandage Off-Shoulder Bodycon Dress Polyester, Spandex, Cotton, Sheath, Slash Neckline, Full, Long Sleeve, Off Shoulder, Hollow Out Style, Size: S/M/ L
-  Updated: 2025-11-05T12:57:27Z
+  Updated: 2025-11-11T19:05:34Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -523,7 +523,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/products/womens-bandage-off-shoulder-bodycon-dress-762012.jpg?v=1746166794
     Price: $30.97 USD
 - [Women's Casual High Waist Loose Palazzo Pants](https://milvertons.com/products/womens-casual-high-waist-loose-palazzo-pants): Women's Casual High Waist Loose Palazzo Pants, Polyester, Spandex, Full Length, Casual, Loose Knitted Fabric, Wide Leg Palazzo Pants, Elegant Ladies' Trousers
-  Updated: 2025-11-04T21:22:18Z
+  Updated: 2025-11-11T19:05:46Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-casual-high-waist-loose-palazzo-pants-404303.jpg?v=1715725526
     Price: $33.99 USD
 - [Active Camo Fitness Set](https://milvertons.com/products/active-camo-fitness-set): Camouflage 2 piece set crop top and short pant. Polyester, elastic fabric, soft and comfortable, spaghetti strap, casual style, suitable for exercise.
-  Updated: 2025-11-04T21:22:21Z
+  Updated: 2025-11-11T19:05:48Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -643,7 +643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/active-camo-fitness-set-590773.jpg?v=1715725362
     Price: $25.38 USD
 - [Uniquely Designed Pencil Skirt with Hearts](https://milvertons.com/products/uniquely-designed-pencil-skirt-with-hearts): Perfect for cocktail hour, the office or just out shopping with friends, the soft and smooth lines let this snug fitting skirt bring out the best in you.
-  Updated: 2025-11-04T21:22:24Z
+  Updated: 2025-11-11T19:05:52Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Skirts - Midi
   Availability: Available
@@ -673,7 +673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/uniquely-designed-pencil-skirt-with-hearts-166407.jpg?v=1715725509
     Price: $51.00 USD
 - [Black Halter Mini Dress Bodycon Femme Vestiods Lace Dress](https://milvertons.com/products/black-halter-mini-dress-bodycon-femme-vestiods-robe-lace-dress): Black Halter Mini Dress Bodycon Femme Vestiods Lace Dress. Bud Silhouette, Off-Shoulder, Flare Short Sleeve. Micro-Elastic Mesh, See-Through, Beaded, Patchwork.
-  Updated: 2025-11-04T21:22:26Z
+  Updated: 2025-11-11T19:05:53Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -691,14 +691,14 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/black-halter-mini-dress-bodycon-femme-vestiods-robe-lace-dress-256653.jpg?v=1715725364
     Price: $37.26 USD
 - [Trendy Reflective Strip Jumpsuit for Women](https://milvertons.com/products/trendy-reflective-strip-jumpsuit-for-women): Trendy Reflective Strip Jumpsuit for Women. Size: Small, Color; Purple. It is sure to turn heads and make you stand out from the crowd.
-  Updated: 2025-11-04T21:22:26Z
+  Updated: 2025-11-11T19:05:55Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Clothing - One-Pieces - Jumpsuits & Rompers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-reflective-strip-jumpsuit-for-women-729659.jpg?v=1715725518
   Price: $40.17 USD
 - [Cubic Zirconia Leaf Charm Link Chain Bracelet](https://milvertons.com/products/cubic-zirconia-leaf-charm-link-chain-bracelet): Cubic Zirconia Leaf Charm Link Chain Bracelet. Hidden-safety-clasp, Lead, Nickel, Cadmium free. Crystal Bracelet Length: 17 cm + 3 cm extended clasp
-  Updated: 2025-11-04T21:22:30Z
+  Updated: 2025-11-11T19:05:57Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Bracelets
   Availability: Available
@@ -724,7 +724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/cubic-zirconia-leaf-charm-link-chain-bracelet-565880.jpg?v=1715725381
     Price: $37.99 USD
 - [Men's glittered loafers](https://milvertons.com/products/mens-glittered-loafers): Men's glittered loafers - Dress shoes for Men, Coiffeur loafers, Sequined Upper Material, Pointed Toe, Rubber Outsole, PU Insole, Zippered Oxford shoe type.
-  Updated: 2025-11-04T21:22:38Z
+  Updated: 2025-11-11T19:06:06Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -794,7 +794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-glittered-loafers-358485.jpg?v=1715725374
     Price: $81.74 USD
 - [Trendy Mesh Sneakers For Men - breathable](https://milvertons.com/products/trendy-mesh-sneakers-for-men): Trendy Mesh Sneakers For Men, Insole and Outsole Material: EVA, Lining Material: Cotton Fabric, Closure Type: Lace-Up, Feature: Breathable and fits true to size
-  Updated: 2025-11-04T21:22:53Z
+  Updated: 2025-11-11T19:06:21Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -908,7 +908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-mesh-sneakers-for-men-975926.jpg?v=1715725535
     Price: $47.67 USD
 - [Men's Spiked Rivets Loafers decorated with Rhinestone](https://milvertons.com/products/mens-spiked-rivets-loafers-decorated-with-rhinestone): Men's Spiked Rivets Loafers decorated with Rhinestone - Microfiber Upper Material, Breathable. Elastic band closure, Fits true to size, casual shoes
-  Updated: 2025-11-04T21:22:59Z
+  Updated: 2025-11-11T19:06:27Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -962,7 +962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-spiked-rivets-loafers-decorated-with-rhinestone-289147.jpg?v=1715725358
     Price: $72.21 USD
 - [Men's Formal Business Shoes - Black Leather](https://milvertons.com/products/mens-formal-business-shoes-black-leather): Men's Formal Business Shoes - Black Leather. Sole material: rubber, Function: breathable, Occasion: daily, business, Packaging contains: 1 * pair of shoes/
-  Updated: 2025-11-04T21:23:03Z
+  Updated: 2025-11-11T19:06:31Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -1000,7 +1000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-formal-business-shoes-black-leather-739662.jpg?v=1715725353
     Price: $63.82 USD
 - [Classy Faux Suede Ankle Boots for Women](https://milvertons.com/products/classy-faux-suede-ankle-boots-for-women): Classy Faux Suede Ankle Boots for Women, Heel height: 3.0 inches (7.5 cm); Material: flock. Choose your right size. if feet are a bit wide, pick 1 size larger.
-  Updated: 2025-11-04T21:23:19Z
+  Updated: 2025-11-11T19:06:47Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1126,7 +1126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/classy-faux-suede-ankle-boots-for-women-282617.jpg?v=1715725380
     Price: $65.97 USD
 - [Winter boots for Women - Flock, Mid-Calf](https://milvertons.com/products/winter-boots-for-women): Winter boots for Women - Flock, Mid-Calf, Short Plush, Fit: Fits true to size, Toe Shape: Square Toe, Closure Type: Slip-On,  Handmade, Square heel.
-  Updated: 2025-11-04T21:23:34Z
+  Updated: 2025-11-11T19:07:03Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1256,7 +1256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/winter-boots-for-women-996758.jpg?v=1715725560
     Price: $55.95 USD
 - [Denim Upset Jacket for Women](https://milvertons.com/products/denim-upset-jacket-for-women): Denim Upset Jacket for Women - Windbreaker Coat, O-neck collar, Full Sleeve, Casual, Cool, Elegant Jacket, Material: Polyester. Plus Sizes also available.
-  Updated: 2025-11-04T21:23:45Z
+  Updated: 2025-11-11T19:07:12Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -1334,7 +1334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/denim-upset-jacket-for-women-143491.jpg?v=1715725389
     Price: $63.58 USD
 - [Trendy Faux High Heel Boots for Women](https://milvertons.com/products/trendy-faux-high-heel-boots-for-women): Trendy Faux High Heel Boots for Women - Thin, High Heeled Boots, Trendy Faux Boots, Colors: Red, Black, Green, White Leopard, Brown Leopard
-  Updated: 2025-11-04T21:24:03Z
+  Updated: 2025-11-11T19:07:31Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1488,7 +1488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-faux-high-heel-boots-for-women-673232.jpg?v=1715725538
     Price: $82.35 USD
 - [Plush Hooded Winter Jacket for Women](https://milvertons.com/products/plush-hooded-winter-jacket-for-women): Plush Hooded Winter Jacket - Casual jacket with pockets, made of high quality material, a durable product for everyday wear in winter. Stylish and fashionable.
-  Updated: 2025-11-04T21:24:19Z
+  Updated: 2025-11-11T19:07:47Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -1614,7 +1614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/plush-hooded-winter-jacket-for-women-738233.jpg?v=1715725549
     Price: $52.29 USD
 - [Men's Moccasin Shoes - High Quality Loafers](https://milvertons.com/products/mens-moccasin-shoes-high-quality-loafers): Men's Moccasin Shoes - High Quality Loafers. Moccasin Driving Shoes, Breathable, Sole Material: Rubber, Occasion: Daily, Business.
-  Updated: 2025-11-04T21:24:30Z
+  Updated: 2025-11-11T19:07:58Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -1708,7 +1708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-moccasin-shoes-high-quality-loafers-155280.jpg?v=1715725352
     Price: $61.10 USD
 - [The Ronan - Cognac Shoes for Men](https://milvertons.com/products/the-ronan-cognac-shoes-for-men): The Ronan - Cognac Shoes for Men - Made in a tumbled black and a beautiful cognac leather with a slight “pull-up” effect that adds a rich depth to the leather.
-  Updated: 2025-11-04T21:24:34Z
+  Updated: 2025-11-11T19:08:02Z
   Vendor: Milvertons
   Product Type: Men - Snoes
   Availability: Available
@@ -1742,7 +1742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-ronan-cognac-shoes-for-men-462826.jpg?v=1715725532
     Price: $116.75 USD
 - [The Ronan - Black Shoes for Men](https://milvertons.com/products/the-ronan-black-shoes-for-men): The Ronan - Black Shoes for Men - Made in a tumbled black and a beautiful cognac leather with a slight “pull-up” effect that adds a rich depth to the leather.
-  Updated: 2025-11-04T21:24:39Z
+  Updated: 2025-11-11T19:08:07Z
   Vendor: Milvertons
   Product Type: Men - Snoes
   Availability: Available
@@ -1780,7 +1780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-ronan-black-shoes-for-men-905598.jpg?v=1715725509
     Price: $116.75 USD
 - [Italian Design Shoes with Matching Bag for Women](https://milvertons.com/products/italian-design-shoes-with-matching-bag-for-women): The Italian Design Shoes with Matching Bag for Women are the perfect combination of style and comfort. These shoes & bag will make you stand out from the crowd
-  Updated: 2025-11-04T21:24:42Z
+  Updated: 2025-11-11T19:08:10Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1810,7 +1810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-shoes-with-matching-bag-for-women-109085.jpg?v=1746674921
     Price: $101.40 USD
 - [Trendy Italian Design Slip-on Shoes and Matching Bag for Women](https://milvertons.com/products/trendy-italian-design-pink-shoes-and-matching-bag-for-women): Trendy Italian Design Slip-on Shoes and Matching Bag for Women - perfect for parties and weddings, a great addition to any wardrobe. Don't wait, get yours today
-  Updated: 2025-11-04T21:24:57Z
+  Updated: 2025-11-11T19:08:24Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1928,7 +1928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-italian-design-slip-on-shoes-and-matching-bag-for-women-981086.webp?v=1746680294
     Price: $118.37 USD
 - [Italian Design Rhinestone Shoes and Matching Bag for Weddings](https://milvertons.com/products/italian-design-rhinestone-shoes-and-matching-bag-for-weddings): Elevate every moment with the Italian Design Rhinestone Shoes and Matching Bag for Weddings—a dazzling set that combines contemporary style with timeless luxury. Perfect for weddings, parties, and unforgettable occasions, this set promises both comfort and allure. Sparkling Rhinestone Embellishments: Add glamour and ensure you stand out at every event. High 10cm Square Heels & Platform Design: Deliver striking height with enhanced stability for confident steps. Premium PU Leather Construction: Offers durability and a soft, luxurious touch. Spacious, Versatile Bag: Keeps essentials secure while complementing your elegant look. Handmade Quality & Secure Ankle Strap: Ensures a perfect fit and attention to every detail. Step into the limelight and celebrate in style—discover the essence of Italian fashion with Milvertons.
-  Updated: 2025-11-04T21:25:00Z
+  Updated: 2025-11-11T19:08:28Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -1958,7 +1958,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-matching-bag-for-weddings-345685.webp?v=1745586748
     Price: $102.17 USD
 - [Italian Shoes and Matching Bag with allover glitter decor](https://milvertons.com/products/italian-shoes-and-matching-bag-with-allover-glitter-decor): Italian Shoes and Matching Bag with allover glitter decor. This set will elevate any outfit. Perfect for parties, these pumps are a must-have for fashionistas.
-  Updated: 2025-11-04T21:25:19Z
+  Updated: 2025-11-11T19:08:46Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2104,7 +2104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-matching-bag-with-allover-glitter-decor-114408.jpg?v=1742502738
     Price: $113.39 USD
 - [Stylish Pencil Pants for Women](https://milvertons.com/products/stylish-pencil-pants-for-women-29750): Stylish Pencil Pants for Women - Crafted with a soft blend of material to provide a light airy feel while keeping you comfy. Shop now and rock any occasion!
-  Updated: 2025-11-04T21:25:28Z
+  Updated: 2025-11-11T19:08:55Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -2182,7 +2182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-pencil-pants-for-women-533238.jpg?v=1715725535
     Price: $29.52 USD
 - [Boat Neck Lantern Sleeve Sweater Dress](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress): This Chic Boat Neck Lantern Sleeve Sweater Dress is perfect for any casual occasion.  Shop now at Milvertons and add a touch of sophistication to your wardrobe.
-  Updated: 2025-11-04T21:25:30Z
+  Updated: 2025-11-11T19:08:58Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -2204,7 +2204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/boat-neck-lantern-sleeve-sweater-dress-427212.jpg?v=1715725371
     Price: $60.50 USD
 - [Tiered Flare Culottes with Drawstring Waist](https://milvertons.com/products/drawstring-waist-tiered-flare-culottes): These Tiered Flare Culottes with Drawstring Waist are perfect for a casual look. They are comfortable, stylish and the drawstring waist allows for a perfect fit
-  Updated: 2025-11-04T21:25:33Z
+  Updated: 2025-11-11T19:09:01Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -2226,7 +2226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/tiered-flare-culottes-with-drawstring-waist-657210.jpg?v=1715725519
     Price: $39.98 USD
 - [Side Button Pleated Wide Leg Pants](https://milvertons.com/products/side-button-pleated-wide-leg-pants): Introducing the Side Button Pleated Wide Leg Pants. Shop the Milvertons Store today!
-  Updated: 2025-11-04T21:25:35Z
+  Updated: 2025-11-11T19:09:02Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -2244,7 +2244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/side-button-pleated-wide-leg-pants-783859.jpg?v=1715725512
     Price: $57.02 USD
 - [Asymmetric Casual Camo Dress, Mid-calf](https://milvertons.com/products/asymmetric-casual-camo-dress): Step up your wardrobe with this Asymmetric Casual Camo Dress. With the added turn-down collar detail and button decor, this dress is perfect for any occasion.
-  Updated: 2025-11-04T21:25:38Z
+  Updated: 2025-11-11T19:09:06Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -2270,7 +2270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/asymmetric-casual-camo-dress-mid-calf-285464.jpg?v=1715725384
     Price: $56.46 USD
 - [Men's Italian Sandals, Non-slip](https://milvertons.com/products/mens-italian-sandals-non-slip): Men's Italian Sandals - Crafted with fine genuine leather, these non-slip flats are great for casual days at the beach or days in the office -- get yours today!
-  Updated: 2025-11-04T21:25:46Z
+  Updated: 2025-11-11T19:09:13Z
   Vendor: Milvertons
   Product Type: Men - Shoes
   Availability: Available
@@ -2332,7 +2332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mens-italian-sandals-non-slip-301039.jpg?v=1715725354
     Price: $54.00 USD
 - [Classy Wooden Platform Strap Heels for Women](https://milvertons.com/products/classy-wooden-platform-strap-heels-for-women): These Classy Wooden Platform Strap Heels for Women combine the timeless appeal of clog-style wooden platforms with the sleek sophistication of white straps.
-  Updated: 2025-11-04T21:25:50Z
+  Updated: 2025-11-11T19:09:18Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2370,7 +2370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/classy-wooden-platform-strap-heels-for-women-240219.jpg?v=1715725393
     Price: $44.95 USD
 - [Luxury Diamond Pointed Toe Wedding Shoes & Bag - Party Heels](https://milvertons.com/products/luxury-diamond-pointed-toe-wedding-shoes-bag-set-party-heels): Introducing the Luxury Diamond Pointed Toe Wedding Shoes & Bag Set. With a slingback pump type & solid pattern, this set will make you stand out from the crowd.
-  Updated: 2025-11-04T21:25:54Z
+  Updated: 2025-11-11T19:09:21Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2404,7 +2404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/luxury-diamond-pointed-toe-wedding-shoes-bag-set-397864.webp?v=1715725349
     Price: $98.76 USD
 - [Chic Plaid Sherpa Jacket: Button Front for Trendy Contrast](https://milvertons.com/products/chic-plaid-sherpa-jacket-button-front-for-trendy-contrast): Don't miss out on the Chic Plaid Sherpa Jacket: Button Front for Trendy Contrast, features a classic collar. a must-have jacket – add it to your wardrobe today!
-  Updated: 2025-11-04T21:26:02Z
+  Updated: 2025-11-11T19:09:30Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -2474,7 +2474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-plaid-sherpa-jacket-button-front-for-trendy-contrast-309789.jpg?v=1715725374
     Price: $48.50 USD
 - [Frill Tie Neck Three-Quarter Sleeve Dress](https://milvertons.com/products/chic-tie-neck-frill-dress-with-three-quarter-sleeves): Elevate your style game with this chic Frill Tie Neck Three-Quarter Sleeve Dress - a perfect combination of elegance and playfulness. Shop now at Milvertons
-  Updated: 2025-11-04T21:26:10Z
+  Updated: 2025-11-11T19:09:38Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -2540,7 +2540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-tie-neck-frill-dress-with-three-quarter-sleeves-415105.jpg?v=1715725367
     Price: $60.50 USD
 - [Lola's Flair: Women's Fashionable Flat Sandals](https://milvertons.com/products/lolas-flair-womens-fashionable-flat-sandals): Lola's Flair: Women's Fashionable Flat Sandals - a touch of sophistication in the right measure. If you were looking for a sandal for life, you've found them!
-  Updated: 2025-11-04T21:26:22Z
+  Updated: 2025-11-11T19:09:49Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2630,7 +2630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/lolas-flair-womens-fashionable-flat-sandals-782947.webp?v=1715725359
     Price: $37.33 USD
 - [Exquisite Italian Shoes and Matching Bag Set for Night Glam](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam): Embrace the allure of night glam with the Exquisite Italian Shoes and Matching Bag Set, crafted for those who demand elegance and individuality at every event. This set transforms any formal occasion into a showcase of your unique style. Handmade PU Upper & Lining: Luxurious feel and enduring comfor ...
-  Updated: 2025-11-04T21:26:43Z
+  Updated: 2025-11-11T19:10:11Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2804,7 +2804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-847017.webp?v=1745669694
     Price: $125.02 USD
 - [Style Harmony: Italian Shoes & Bag Set for Weddings, Parties](https://milvertons.com/products/style-harmony-italian-shoes-bag-set-for-weddings-parties): Choose Style Harmony: Italian Shoes & Bag Set for Weddings, Parties for a touch of luxury and style. Get yours now and be the center of attention at any event.
-  Updated: 2025-11-04T21:26:48Z
+  Updated: 2025-11-11T19:10:16Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -2850,7 +2850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/style-harmony-italian-shoes-bag-set-for-weddings-parties-359761.webp?v=1715725517
     Price: $111.24 USD
 - [Stylish Soiree: Italian Shoes & Bag Set for Wedding Parties](https://milvertons.com/products/stylish-soiree-italian-shoes-bag-set-for-wedding-parties): Introducing the ultimate accessory for any wedding party - the Stylish Soiree: Italian Shoes & Bag Set. This set is the perfect combination of style and comfort, making it a must-have for any fashion-forward woman. Crafted from high-quality PU material, these shoes feature a peep toe design and a 6. ...
-  Updated: 2025-11-04T21:27:10Z
+  Updated: 2025-11-11T19:10:38Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3024,7 +3024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-soiree-italian-shoes-bag-set-for-wedding-parties-472066.webp?v=1745777988
     Price: $119.26 USD
 - [High-Quality Glam: Italian Shoes & Bag Set for Party Delight](https://milvertons.com/products/high-quality-glam-italian-shoes-bag-set-for-party-delight): High-Quality Glam: Italian Shoes & Bag Set for Party Delight - Get ready to turn heads at your next party with this stunning Italian shoes and matching bag set.
-  Updated: 2025-11-04T21:27:21Z
+  Updated: 2025-11-11T19:10:49Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3114,7 +3114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/high-quality-glam-italian-shoes-bag-set-for-party-delight-525378.webp?v=1715725352
     Price: $118.04 USD
 - [Elegant Affairs: Ladies High Heels & Bag Set for Weddings](https://milvertons.com/products/elegant-affairs-ladies-high-heels-bag-set-for-weddings): Elevate your style and make a statement at any wedding with our Elegant Affairs: Ladies High Heels & Bag Set. Order now and make a statement at your next event
-  Updated: 2025-11-04T21:27:30Z
+  Updated: 2025-11-11T19:10:57Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3184,7 +3184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-affairs-ladies-high-heels-bag-set-for-weddings-326056.webp?v=1715725363
     Price: $160.44 USD
 - [Women's Business Casual Long Sleeve Suit](https://milvertons.com/products/womens-business-casual-long-sleeve-suit): Women's Business Casual Long Sleeve Suit - Perfect for any business or professional setting. Show up in style in this suit — tailor-made for the modern woman!
-  Updated: 2025-11-04T21:28:14Z
+  Updated: 2025-11-11T19:11:41Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -3390,7 +3390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Women-s-Business-Casual-Long-Sleeve-Suit-7094.webp?v=1715647755
     Price: $46.72 USD
 - [Italian Shoes and Matching Bag for Parties, African Style](https://milvertons.com/products/italian-shoes-and-matching-bag-for-parties-african-style): Italian Shoes and Matching Bag for Parties - Experience the perfect combination of Italian craftsmanship and African style with this unique shoes and bag set
-  Updated: 2025-11-04T21:28:42Z
+  Updated: 2025-11-11T19:12:10Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3596,7 +3596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-matching-bag-for-parties-african-style-753358.webp?v=1715725352
     Price: $119.18 USD
 - [Cap Sleeve Round Neck Knit Two-Piece Set - Top & Pants](https://milvertons.com/products/cap-sleeve-round-neck-knit-two-piece-set-top-pants): Introducing the Cap Sleeve Round Neck Knit Two-Piece Set, a stylish addition to your wardrobe. Shop now at Milvertons and add this chic set to your collection.
-  Updated: 2025-11-04T21:28:59Z
+  Updated: 2025-11-11T19:12:26Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -3730,7 +3730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/cap-sleeve-round-neck-knit-two-piece-set-top-pants-308425.jpg?v=1725650652
     Price: $53.06 USD
 - [Italian Shoes and Bag Set with Stones for Evening Parties](https://milvertons.com/products/italian-shoes-and-bag-set-with-stones-for-evening-parties): Shop this stunning Italian Shoes and Bag Set with Stones. Made with high-quality material, these shoes and bag are designed to make you stand out in the crowd.
-  Updated: 2025-11-04T21:29:14Z
+  Updated: 2025-11-11T19:12:42Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -3856,7 +3856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-bag-set-with-stones-for-evening-parties-796493.webp?v=1719039837
     Price: $117.94 USD
 - [Italian Rhinestone Shoes and Bag Set for Summer Parties 2024](https://milvertons.com/products/italian-rhinestone-shoes-and-bag-set-for-summer-parties-2024): Introducing the Italian Rhinestone Shoes and Bag Set - designed to make you stand out and shine at any event. Don't miss out - get yours today at Milvertons!
-  Updated: 2025-11-04T21:29:36Z
+  Updated: 2025-11-11T19:13:03Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -4030,7 +4030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-shoes-and-bag-set-for-summer-parties-2024-418392.webp?v=1719371178
     Price: $120.19 USD
 - [Elegant Italian Rhinestone Shoes and Bag for Evening Parties](https://milvertons.com/products/elegant-italian-rhinestone-shoes-and-bag-for-evening-parties): Introducing the Elegant Italian Rhinestone Shoes and Bag for Evening Parties. Shop this  stunning Shoes and Bag set now and make a statement at your next event
-  Updated: 2025-11-04T21:29:57Z
+  Updated: 2025-11-11T19:13:25Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -4204,7 +4204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-italian-rhinestone-shoes-and-bag-for-evening-parties-504456.webp?v=1742296231
     Price: $120.19 USD
 - [Italian Design Rhinestone Shoes and Bag for African Weddings](https://milvertons.com/products/italian-design-rhinestone-shoes-and-bag-for-african-weddings): Italian Design Rhinestone Shoes and Bag for African Weddings. Elevate your style with this unique set. Order now and make a statement with your stylish look.
-  Updated: 2025-11-04T21:30:36Z
+  Updated: 2025-11-11T19:14:04Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -4410,21 +4410,21 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-design-rhinestone-shoes-and-bag-for-african-weddings-901563.webp?v=1720696939
     Price: $90.56 USD
 - [The Monza | White Strappy Basket Weave Heel](https://milvertons.com/products/the-monza-white-strappy-basket-weave-heel-by-oasis-society): The Monza | White Strappy Basket Weave Heel by Oasis Society - brought to you by Milvertons
-  Updated: 2025-11-04T21:30:38Z
+  Updated: 2025-11-11T19:14:05Z
   Vendor: Oasis Society
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-monza-white-strappy-basket-weave-heel-by-oasis-society-1125965.jpg?v=1751555864
   Price: $68.00 USD
 - [The Princess | White Pointed Toe Heel with Ankle Strap](https://milvertons.com/products/the-princess-white-pointed-toe-heel-with-ankle-strap-by-oasis-society): The Princess | White Pointed Toe Heel with Ankle Strap by Oasis Society - brought to you by Milvertons
-  Updated: 2025-11-04T21:30:39Z
+  Updated: 2025-11-11T19:14:06Z
   Vendor: Oasis Society
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-princess-white-pointed-toe-heel-with-ankle-strap-by-oasis-society-549532.jpg?v=1746680291
   Price: $80.00 USD
 - [Stunning High Heel Open Toe Sandals](https://milvertons.com/products/stunning-high-heel-open-toe-sandals): Stunning High Heel Open Toe Sandals - the perfect addition to any fashion-forward wardrobe. Order now and add a touch of elegance and style to your wardrobe.
-  Updated: 2025-11-04T21:30:50Z
+  Updated: 2025-11-11T19:14:19Z
   Vendor: Milvertons
   Product Type: Women - Snoes
   Availability: Available
@@ -4526,7 +4526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stunning-high-heel-open-toe-sandals-202791.jpg?v=1725751484
     Price: $51.12 USD
 - [Elegant Party Shoes & Bag Set with Rhinestone Detailing](https://milvertons.com/products/elegant-party-shoes-bag-set-with-rhinestone-detailing): Elegant Party Shoes & Bag Set with Rhinestone Detailing, perfect for special occasions. Elevate your style with this must-have set for any fashion-forward woman
-  Updated: 2025-11-04T21:31:08Z
+  Updated: 2025-11-11T19:14:35Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -4660,7 +4660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-party-shoes-bag-set-with-rhinestone-detailing-184355.webp?v=1725834251
     Price: $85.70 USD
 - [Chic Italian Shoes & Bag Set with Stones for Parties](https://milvertons.com/products/chic-italian-shoes-bag-set-with-stones-for-parties): Elevate every party entrance with the Chic Italian Shoes & Bag Set with Stones—a refined pairing for women who value elegance and individuality. This exclusive set is meticulously crafted to ensure you shine at any formal affair. Handset Stone Detailing: Adds luminous sparkle and a unique signature to your look. Peep Toe with 9.75cm Chunky Heels & 3-5cm Platform: Combines modern height with lasting comfort. Secure Buckle Strap & Medium Width Fit: Provides a tailored, confident stride for every occasion. Premium PU Materials & Handmade Craftsmanship: Ensures luxury feel and enduring style. Let your confidence and sophistication speak volumes—make every event unforgettable with Milvertons.
-  Updated: 2025-11-04T21:31:23Z
+  Updated: 2025-11-11T19:14:50Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -4786,7 +4786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-italian-shoes-bag-set-with-stones-for-parties-607188.webp?v=1726866559
     Price: $114.18 USD
 - [Bold Cubic Zirconia Statement Ring, trendy 2024 Boho jewelry](https://milvertons.com/products/bold-cubic-zirconia-statement-ring-trendy-2024-boho-jewelry): Bold Cubic Zirconia Statement Ring – Trendy 2024 Boho Jewelry. This stunning ring is the perfect addition to any fashion-forward woman's jewelry collection.
-  Updated: 2025-11-04T21:31:30Z
+  Updated: 2025-11-11T19:14:57Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Jewelry - Rings
   Availability: Available
@@ -4844,7 +4844,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/bold-cubic-zirconia-statement-ring-trendy-2024-boho-jewelry-494436.webp?v=1728026688
     Price: $66.56 USD
 - [Ribbed Cardigan with Feather Accents and Gold Button Details](https://milvertons.com/products/ribbed-cardigan-with-feather-accents-and-gold-button-details): This Ribbed Cardigan with Feather Accents and Gold Button Details, is sure to make a statement at any party. Elevate your style with this one-of-a-kind Cardigan
-  Updated: 2025-11-04T21:31:32Z
+  Updated: 2025-11-11T19:14:59Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Tops - Sweaters
   Availability: Available
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-11-09T07:41:11Z
+  Updated: 2025-11-14T23:15:46Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -5068,7 +5068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/cropped-blazer-with-fringe-trim-and-lapel-collar-detail-574427.jpg?v=1729849667
     Price: $71.75 USD
 - [Sleeveless Dress with Cutout Detail and Mock Neck Design](https://milvertons.com/products/sleeveless-dress-with-cutout-detail-and-mock-neck-design): Sleeveless Dress with Cutout Detail and Mock Neck. Perfect for making a statement at any occasion, this dress ensures you'll turn heads effortlessly
-  Updated: 2025-11-04T21:32:07Z
+  Updated: 2025-11-11T19:15:34Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -5122,7 +5122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sleeveless-dress-with-cutout-detail-and-mock-neck-design-964538.webp?v=1729932490
     Price: $35.91 USD
 - [Italian Shoes and Bag Set 2024 – Rhinestone High Heels](https://milvertons.com/products/italian-shoes-and-bag-set-2024-rhinestone-high-heels): Italian Shoes and Bag Set 2024 – Rhinestone High Heels for Women. Experience luxury and elegance with this stunning set, perfect for any special occasion.
-  Updated: 2025-11-04T21:32:30Z
+  Updated: 2025-11-11T19:15:59Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5320,7 +5320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-bag-set-2024-rhinestone-high-heels-203509.webp?v=1732252497
     Price: $121.76 USD
 - [Italian Rhinestone Party Shoes & Bag – 2024 Italian Style](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style): Italian Rhinestone Party Shoes & Bag – 2024 Italian Style. Perfect for parties, these shoes and matching bag are designed for women who want to make a statement
-  Updated: 2025-11-04T21:32:45Z
+  Updated: 2025-11-11T19:16:13Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5434,7 +5434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-311908.webp?v=1732335386
     Price: $117.74 USD
 - [Elegant Rhinestone Heels & Bag Set - Ideal for Weddings](https://milvertons.com/products/elegant-rhinestone-heels-bag-set-ideal-for-weddings): Elegant Rhinestone Heels & Bag Set - Ideal for Weddings. Elevate your look with this chic set, and make a lasting impression. Order today and step out in style!
-  Updated: 2025-11-04T21:33:14Z
+  Updated: 2025-11-11T19:16:41Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5640,7 +5640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-rhinestone-heels-bag-set-ideal-for-weddings-303457.webp?v=1739500384
     Price: $117.93 USD
 - [Ladies High Heel Latin Dance Shoes](https://milvertons.com/products/ladies-high-heel-latin-dance-shoes): Ladies High Heel Latin Dance Shoes - Don't miss out on the opportunity to add these chic  shoes to your closet. Order now and get ready to dance the night away!
-  Updated: 2025-11-04T21:33:25Z
+  Updated: 2025-11-11T19:16:52Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5734,7 +5734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ladies-high-heel-latin-dance-shoes-978066.jpg?v=1740422664
     Price: $185.65 USD
 - [Sequined Square Toe Peep Toe Stiletto Heel Sandals](https://milvertons.com/products/sequined-square-toe-peep-toe-stiletto-heel-sandals): Sequined Square Toe Peep Toe Stiletto Heel Sandals - These shoes are designed to make you stand out in any crowd with their sequined detailing and square toes
-  Updated: 2025-11-04T21:33:37Z
+  Updated: 2025-11-11T19:17:05Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5836,7 +5836,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sequined-square-toe-peep-toe-stiletto-heel-sandals-101168.jpg?v=1740339927
     Price: $100.08 USD
 - [Sparkling Diamond High Heels Latin Dance Shoes](https://milvertons.com/products/sparkling-diamond-high-heels-latin-dance-shoes): Sparkling Diamond High Heels Latin Dance Shoes - Add these stunning shoes to your collection today and take your dance performance to the next level! Shop now!
-  Updated: 2025-11-04T21:33:50Z
+  Updated: 2025-11-11T19:17:18Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5938,7 +5938,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/sparkling-diamond-high-heels-latin-dance-shoes-871347.jpg?v=1740339923
     Price: $149.25 USD
 - [Trendy Square Toe Wedge Slippers in Patent Leather](https://milvertons.com/products/trendy-square-toe-wedge-slippers-in-patent-leather): Trendy Square Toe Wedge Slippers in Patent Leather - Don't miss out on these trendy and unique square toe wedge slippers. Order yours now and step out in style!
-  Updated: 2025-11-04T21:34:02Z
+  Updated: 2025-11-11T19:17:30Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -6040,7 +6040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-square-toe-wedge-slippers-in-patent-leather-432734.jpg?v=1741499830
     Price: $105.44 USD
 - [Stylish Women's Belted Half Sleeve Cardi Dress - Lightweight](https://milvertons.com/products/womens-polyester-belted-half-sleeve-cardigan-dress): Stylish Women's Belted Half Sleeve Cardi Dress - the perfect combination of fashion and comfort, making it a versatile dress for any occasion. Order yours now!
-  Updated: 2025-11-04T21:34:09Z
+  Updated: 2025-11-11T19:17:37Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -6094,7 +6094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-womens-belted-half-sleeve-cardi-dress-lightweight-424052.jpg?v=1741499829
     Price: $47.02 USD
 - [New Italian Design Women's Shoes + Matching Bag Set - Trendy](https://milvertons.com/products/new-italian-design-womens-shoes-matching-bag-set-trendy): Experience refined Italian design with this women's shoes and matching bag set. Crafted from premium PU, perfect for elegant occasions. Shop Milvertons now.
-  Updated: 2025-11-04T21:34:31Z
+  Updated: 2025-11-11T19:17:58Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -6268,7 +6268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/new-italian-design-womens-shoes-matching-bag-set-trendy-788651.webp?v=1747375508
     Price: $107.41 USD
 - [Women's Round Toe Block Heel Pumps - Stylish Comfort](https://milvertons.com/products/womens-round-toe-block-heel-pumps-stylish-comfort): Introducing our Women's Round Toe Block Heel Pumps - Stylish Comfort, the perfect combination of style and comfort. Order yours today and step out in style!
-  Updated: 2025-11-04T21:34:39Z
+  Updated: 2025-11-11T19:18:07Z
   Vendor: Milvertons
   Product Type: Women - Snoes
   Availability: Available
@@ -6338,7 +6338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-round-toe-block-heel-pumps-stylish-comfort-330456.jpg?v=1742577635
     Price: $59.97 USD
 - [Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set](https://milvertons.com/products/drop-shoulder-hoodie-drawstring-pants-comfy-active-set): Introducing the Drop Shoulder Hoodie & Drawstring Pants - Comfy Active Set. Its versatile design makes it a must-have for any active woman. Order yours today.
-  Updated: 2025-11-04T21:34:40Z
+  Updated: 2025-11-11T19:18:09Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -6356,7 +6356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/drop-shoulder-hoodie-drawstring-pants-comfy-active-set-366772.jpg?v=1743162627
     Price: $81.40 USD
 - [Italian Ladies Heeled Sandals and Matching Bag - Party Pumps](https://milvertons.com/products/italian-ladies-heeled-sandals-and-matching-bag-party-pumps): Italian Ladies Heeled Sandals and Matching Bag - Party Pumps. Experience elegance and embrace Italian fashion with this shoe and bag set, perfect for any event.
-  Updated: 2025-11-04T21:34:56Z
+  Updated: 2025-11-11T19:18:23Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -6474,7 +6474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/products/italian-ladies-heeled-sandals-and-matching-bag-party-pumps-507412.jpg?v=1743162629
     Price: $117.04 USD
 - [Elastic Waist Drawstring Wide-Leg Pants](https://milvertons.com/products/drawstring-elastic-waist-wide-leg-pants): Introducing these unique Elastic Waist Drawstring Wide-Leg Pants, the perfect addition to your wardrobe. Don't miss out, order yours today at Milvertons.
-  Updated: 2025-11-04T21:35:24Z
+  Updated: 2025-11-11T19:18:51Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -6680,7 +6680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elastic-waist-drawstring-wide-leg-pants-565881.jpg?v=1743162688
     Price: $37.04 USD
 - [Italian Crystal High Heels and Clutch Bag Set for Parties](https://milvertons.com/products/italian-crystal-high-heels-and-clutch-bag-set-for-parties): Step into refined glamour with the Italian Crystal High Heels and Clutch Bag Set, designed to make every celebration unforgettable. Perfect for the discerning woman who values both sophistication and comfort, this set ensures you stand out at any party or event. Crystal-Embellished Heels & Clutch: D ...
-  Updated: 2025-11-04T21:35:45Z
+  Updated: 2025-11-11T19:19:12Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -6854,7 +6854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-crystal-high-heels-and-clutch-bag-set-for-parties-146765.jpg?v=1751421682
     Price: $121.79 USD
 - [Chic Italian Crystal Diamond Shoes + Bag Set - Party/Wedding](https://milvertons.com/products/chic-italian-crystal-diamond-shoes-bag-set-party-wedding): Chic Italian Crystal Diamond Shoes + Bag Set - Party/Wedding. Experience luxury and elegance with this stunning set, perfect for parties, weddings, dinner dates
-  Updated: 2025-11-04T21:36:06Z
+  Updated: 2025-11-11T19:19:34Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7028,7 +7028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/chic-italian-crystal-diamond-shoes-bag-set-partywedding-997492.webp?v=1743229702
     Price: $118.64 USD
 - [Women's Italian High Heel Sandals & Bag Set - African Style](https://milvertons.com/products/womens-italian-high-heel-sandals-bag-set-african-style): Women's Italian High Heel Sandals & Bag Set - African Style. Complete your look with this chic set and step out in style wherever you go. Shop now at Milvertons
-  Updated: 2025-11-04T21:36:22Z
+  Updated: 2025-11-11T19:19:50Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7154,7 +7154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-italian-high-heel-sandals-bag-set-african-style-878165.webp?v=1743728415
     Price: $121.31 USD
 - [Vintage Solid-Color Coat w/ Metal Buttons - Classic Style](https://milvertons.com/products/vintage-solid-color-coat-w-metal-buttons-classic-style): Experience timeless elegance with this Vintage Solid-Color Coat w/ Metal Buttons. Order now and receive a coat that will surely turn heads wherever you go.
-  Updated: 2025-11-04T21:36:25Z
+  Updated: 2025-11-11T19:19:53Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -7184,7 +7184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/vintage-solid-color-coat-w-metal-buttons-classic-style-641506.jpg?v=1743822010
     Price: $97.03 USD
 - [Trendy African Party Shoes & Matching Bag Set - High Heels](https://milvertons.com/products/trendy-african-party-shoes-matching-bag-set-high-heels): Trendy African Party Shoes & Matching Bag Set - High Heels. This set is the perfect choice for a stylish and comfortable look. Get yours today at Milvertons.com
-  Updated: 2025-11-04T21:36:44Z
+  Updated: 2025-11-11T19:20:11Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7330,7 +7330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-african-party-shoes-matching-bag-set-high-heels-258158.webp?v=1743847066
     Price: $120.79 USD
 - [Italian Rhinestone Heel & Clutch Bag Set for Women](https://milvertons.com/products/italian-rhinestone-heel-clutch-set-for-women): Italian Rhinestone Heel & Clutch Bag Set for women. Handmade, dazzling, and comfortable—perfect for weddings and events. Discover luxury at Milvertons.
-  Updated: 2025-11-04T21:37:23Z
+  Updated: 2025-11-11T19:20:50Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7536,7 +7536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-heel-clutch-set-for-women-644310.webp?v=1745835410
     Price: $120.79 USD
 - [Stylish African Ladies' Shoe & Bag Set for Weddings](https://milvertons.com/products/stylish-african-ladies-shoe-bag-set-for-weddings): Stylish African Ladies' Shoe & Bag Set for Weddings. Don't miss out on this fashion-forward and culturally rich shoe and bag set for your next special occasion.
-  Updated: 2025-11-04T21:37:41Z
+  Updated: 2025-11-11T19:21:08Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7682,7 +7682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-african-ladies-shoe-bag-set-for-weddings-908926.webp?v=1746856782
     Price: $138.52 USD
 - [Italian Pointed Heel & Bag Set Diamond Lace Matching Design](https://milvertons.com/products/italian-pointed-heel-bag-set-diamond-lace-matching-design): Italian Pointed Heel & Bag Set Diamond Lace Matching Design. Whether you're looking for the perfect party shoes or wedding shoes, this set is the ideal choice.
-  Updated: 2025-11-04T21:38:02Z
+  Updated: 2025-11-11T19:21:29Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -7856,7 +7856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-pointed-heel-bag-set-diamond-lace-matching-design-234030.webp?v=1746856781
     Price: $117.09 USD
 - [Rhinestone Rose Heels & Bag Set | African Party Elegance](https://milvertons.com/products/rhinestone-rose-heels-bag-set-african-party-elegance): Rhinestone Rose Heels & Bag Set | African Party Elegance. Elevate your style with this unique and stylish set. It's not just a set, it's a fashion statement.
-  Updated: 2025-11-04T21:38:27Z
+  Updated: 2025-11-11T19:21:55Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8058,7 +8058,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-rose-heels-bag-set-african-party-elegance-953023.webp?v=1747026856
     Price: $105.58 USD
 - [Italian Rhinestone Heels & Bag Set for African Women's Party](https://milvertons.com/products/italian-rhinestone-heels-bag-set-for-african-womens-party): Introducing this Italian Rhinestone Heels & Bag Set, specially designed for African women's parties. Order yours now and be the center of attention at any event!
-  Updated: 2025-11-04T21:38:48Z
+  Updated: 2025-11-11T19:22:16Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8232,7 +8232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-heels-bag-set-for-african-womens-party-865894.webp?v=1747121536
     Price: $119.79 USD
 - [Elegant Pointed Toe Rhinestone Heels & Bag Set for Women](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women): Elegant Pointed Toe Rhinestone Heels & Bag Set for Women. Elevate your style with this combo of style and sophistication, perfect for any special event or party
-  Updated: 2025-11-04T21:39:10Z
+  Updated: 2025-11-11T19:22:37Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8406,7 +8406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
 - [Italian Sandals & Bag Set for Women – Wedding Heels](https://milvertons.com/products/italian-sandals-bag-set-for-women-wedding-heels): Celebrate life’s most cherished moments with the Italian Sandals & Bag Set for Women – Wedding Heels, crafted for those who demand exclusivity and timeless elegance. Handcrafted from premium PU with bling accents that catch the light beautifully 7.5cm spike heels and peep toe design create a flattering, graceful silhouette Secure buckle strap and breathable slingback pumps offer tailored comfort Durable rubber outsole ensures confident steps; metal-handled bag adds a touch of distinction Limited in availability, this set brings Italian prestige and luxury to your special occasions—make every step unforgettable.
-  Updated: 2025-11-04T21:39:35Z
+  Updated: 2025-11-11T19:23:02Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8608,7 +8608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-sandals-bag-set-for-women-wedding-heels-945610.webp?v=1750453183
     Price: $117.36 USD
 - [Rhinestone High Heels & Bag Set – Elegant Party Look](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look): Step into the spotlight with the Rhinestone High Heels & Bag Set – a celebration of luxury and refined glamour for every special occasion. Designed for those who appreciate the artistry of fashion, this set elevates your party look with effortless sophistication. Sparkling rhinestone spike heels (8.5cm) elongate your silhouette and capture every gaze Elegant butterfly-knot detail and pointed toe offer feminine charm and timeless appeal Handcrafted with premium PU materials for comfort, durability, and unique perfection Secure buckle strap ensures a confident fit throughout the evening Matching bag with chic metal handle completes your ensemble with modern elegance Let this exclusive set be your signature at weddings and soirées—indulge in the prestige of true craftsmanship.
-  Updated: 2025-11-04T21:39:57Z
+  Updated: 2025-11-11T19:23:24Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8782,7 +8782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-184431.webp?v=1756195606
     Price: $119.84 USD
 - [Rhinestone Open Toe Block Heels Sandals](https://milvertons.com/products/rhinestone-open-toe-block-heels-sandals): These Rhinestone Open Toe Block Heels Sandals combine elegance with comfort, perfect for those seeking both sophistication and practicality in their footwear.
-  Updated: 2025-11-04T21:40:05Z
+  Updated: 2025-11-11T19:23:33Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8852,7 +8852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-open-toe-block-heels-sandals-9833808.webp?v=1758168945
     Price: $39.52 USD
 - [Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeve-sheer-layering-top): Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top. This elegant chiffon blouse features a flattering high neckline, and a fitted silhouette. Shop now!
-  Updated: 2025-11-04T21:40:07Z
+  Updated: 2025-11-11T19:23:35Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -8870,7 +8870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/davi-dani-floral-mesh-long-sleeve-sheer-layering-top-54912892.webp?v=1751141455
     Price: $44.69 USD
 - [Davi & Dani Floral Mesh Long-Sleeved Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeved-sheer-layering-top): This Floral Mesh Long-Sleeved Sheer Layering Top is perfect for adding a subtly sexy and sophisticated touch to your ensembles for various occasions. Shop now!
-  Updated: 2025-11-04T21:40:09Z
+  Updated: 2025-11-11T19:23:37Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -8888,7 +8888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/davi-dani-floral-mesh-long-sleeved-sheer-layering-top-71230932.webp?v=1751141455
     Price: $44.69 USD
 - [BiBi Popcorn Waffle Knit with Buttoned Front Cami Top](https://milvertons.com/products/bibi-popcorn-waffle-knit-with-buttoned-front-cami-top): The BiBi Popcorn Waffle Knit with Buttoned Front Cami Top is a chic and versatile piece for your wardrobe, a must-have for any fashion-forward individual.
-  Updated: 2025-11-04T21:40:11Z
+  Updated: 2025-11-11T19:23:39Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing Tops - Tank Tops
   Availability: Available
@@ -8910,7 +8910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/bibi-popcorn-waffle-knit-with-buttoned-front-cami-top-6444042.webp?v=1758168941
     Price: $18.88 USD
 - [Contrast Round Toe Block Heel Mary Jane Shoes](https://milvertons.com/products/contrast-round-toe-block-heel-mary-jane-shoes): Contrast Round Toe Block Heel Mary Jane Shoes. Step into elegance with these shoes, a unique blend of classic design and modern flair. Shop now at Milvertons!
-  Updated: 2025-11-04T21:40:19Z
+  Updated: 2025-11-11T19:23:47Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8972,7 +8972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/contrast-round-toe-block-heel-mary-jane-shoes-70481739.webp?v=1751141455
     Price: $72.79 USD
 - [Zenana Long Sleeve Flare Dress With Pockets](https://milvertons.com/products/zenana-long-sleeve-flare-dress-with-pockets): Zenana Long Sleeve Flare Dress With Pockets - Perfect for casual outings or dressed up occasions, this versatile piece combines comfort with effortless style.
-  Updated: 2025-11-04T21:40:21Z
+  Updated: 2025-11-11T19:23:49Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -8994,21 +8994,21 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/zenana-long-sleeve-flare-dress-with-pockets-5776997.webp?v=1751638573
     Price: $27.65 USD
 - [Fame Weathered Faux Leather And Studs Bucket Bag](https://milvertons.com/products/fame-weathered-faux-leather-and-studs-bucket-bag): This Fame Weathered Faux Leather And Studs Bucket Bag seamlessly transitions from day to night with its timeless black exterior and modern studded detailing
-  Updated: 2025-11-04T21:40:23Z
+  Updated: 2025-11-12T02:33:52Z
   Vendor: Milvertons
   Product Type: Women - Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/fame-weathered-faux-leather-and-studs-bucket-bag-9909132.webp?v=1758168941
   Price: $31.01 USD
 - [Fame Braided Accent Double Pocket Shoulder Bag](https://milvertons.com/products/fame-braided-accent-double-pocket-shoulder-bag): Fame Braided Accent Double Pocket Shoulder Bag. This soft blue, chic shoulder bag is a stylish and essential wardrobe addition that pairs with any outfit.
-  Updated: 2025-11-04T21:40:24Z
+  Updated: 2025-11-11T19:23:51Z
   Vendor: Milvertons
   Product Type: Women - Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/fame-braided-accent-double-pocket-shoulder-bag-8805068.webp?v=1758168941
   Price: $37.56 USD
 - [2025 Rhinestone Heels & Handbag Set for Weddings | Elegant](https://milvertons.com/products/2025-rhinestone-heels-handbag-set-for-weddings-elegant): 2025 Rhinestone Heels & Handbag Set for Weddings, a unique blend of sophistication and glamour. Elevate your ensemble with this exquisite set that truly stands out
-  Updated: 2025-11-04T21:40:41Z
+  Updated: 2025-11-11T19:24:09Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9154,7 +9154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/2025-rhinestone-heels-handbag-set-for-weddings-elegant-3803940.webp?v=1751472876
     Price: $120.76 USD
 - [Italian Fashion Heels and Matching Bag Set – 2025 Edition](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition): Italian Fashion Heels and Matching Bag Set. Elevate your wardrobe with this unique blend of style and craft that sets it apart from ordinary fashion accessories
-  Updated: 2025-11-04T21:41:03Z
+  Updated: 2025-11-11T19:24:30Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9328,7 +9328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2253974.webp?v=1751969997
     Price: $118.28 USD
 - [Elegant Peep-Toe Heels and Bag Set – Italian Style 2025](https://milvertons.com/products/elegant-peep-toe-heels-and-bag-set-italian-style-2025): Elegant Peep-Toe Heels and Bag Set – Italian Style 2025. This exquisite ensemble features a unique blend of style and craft that sets it apart from ordinary shoes
-  Updated: 2025-11-04T21:41:21Z
+  Updated: 2025-11-11T19:24:48Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9474,7 +9474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-peep-toe-heels-and-bag-set-italian-style-2025-3639540.webp?v=1760754770
     Price: $115.80 USD
 - [Women's Wedge Heels & Moon Bag Set - European Fashion Style](https://milvertons.com/products/womens-wedge-heels-moon-bag-set-european-fashion-style): Women's Wedge Heels & Moon Bag Set - features stylish European design with handmade craftsmanship, offering a blend of elegance and comfort. Perfect for parties
-  Updated: 2025-11-04T21:41:53Z
+  Updated: 2025-11-11T19:25:21Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9680,7 +9680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-wedge-heels-moon-bag-set-european-fashion-style-7323930.webp?v=1752715887
     Price: $122.46 USD
 - [2025 Pointed Toe Heels & Bag Set – Wedding Party Pumps](https://milvertons.com/products/2025-pointed-toe-heels-bag-set-wedding-party-pumps): The 2025 Pointed Toe Heels & Bag Set – Wedding Party Pumps are expertly handmade with satin uppers and a peep-toe design. Perfect for weddings and parties.
-  Updated: 2025-11-04T21:42:15Z
+  Updated: 2025-11-11T19:25:42Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9854,7 +9854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/2025-pointed-toe-heels-bag-set-wedding-party-pumps-4489635.webp?v=1753179499
     Price: $117.84 USD
 - [Luxury Italian Wedding Shoes and Bag Set with Rhinestones](https://milvertons.com/products/luxury-italian-wedding-shoes-and-bag-set-with-rhinestones): This Luxury Italian Wedding Shoes and Bag Set with Rhinestones is a coordinated accessory that is practical and stylish for weddings, parties & formal occasions
-  Updated: 2025-11-04T21:42:30Z
+  Updated: 2025-11-11T19:25:58Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -9980,7 +9980,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/luxury-italian-wedding-shoes-and-bag-set-with-rhinestones-1747734.webp?v=1753990536
     Price: $118.21 USD
 - [Italian Rhinestone Shoes & Handbag Set – Bridal Designer](https://milvertons.com/products/italian-rhinestone-shoes-handbag-set-bridal-designer): The Italian Rhinestone Shoes & Handbag Set – Bridal Designer exemplifies refined craftsmanship and sophistication. Ideal for weddings, parties & special events.
-  Updated: 2025-11-04T21:42:51Z
+  Updated: 2025-11-11T19:26:19Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10154,7 +10154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-shoes-handbag-set-bridal-designer-6540904.webp?v=1754073489
     Price: $112.46 USD
 - [High-Waist Gym Leggings with Pockets - Stretchy, Comfortable](https://milvertons.com/products/high-waist-gym-leggings-with-pockets-stretchy-comfortable): High-Waist Gym Leggings with Pockets - Stretchy, Comfortable. Ideal for yoga, running, gym sessions, or daily wear. Designed for style, comfort, & active living
-  Updated: 2025-11-04T21:43:04Z
+  Updated: 2025-11-11T19:26:32Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Pants
   Availability: Available
@@ -10256,7 +10256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/high-waist-gym-leggings-with-pockets-stretchy-comfortable-8351593.webp?v=1754585977
     Price: $28.87 USD
 - [Women’s Long Sleeve Bodycon Jumpsuit – Skinny Streetwear](https://milvertons.com/products/women-s-long-sleeve-bodycon-jumpsuit-skinny-streetwear): Women’s Long Sleeve Bodycon Jumpsuit. This Skinny Streetwear offers a practical yet fashionable solution for women seeking a polished, body-conscious look.
-  Updated: 2025-11-04T21:43:10Z
+  Updated: 2025-11-11T19:26:38Z
   Vendor: Milvertons
   Product Type: Apparel & Accessories - Clothing - One-Pieces - Jumpsuits & Rompers
   Availability: Available
@@ -10310,7 +10310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/womens-long-sleeve-bodycon-jumpsuit-skinny-streetwear-3377027.webp?v=1756556589
     Price: $25.08 USD
 - [Enia Cascade Print Skirt](https://milvertons.com/products/enia-cascade-print-skirt): Enia Cascade Print Skirt: A vibrant pattern energizes your look. The high-waisted cut defines your shape with dynamic, playful movement from cascading ruffles.
-  Updated: 2025-11-04T21:43:13Z
+  Updated: 2025-11-11T19:26:41Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Skirts - Maxi
   Availability: Available
@@ -10336,7 +10336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/enia-cascade-print-skirt-9098776.webp?v=1758251773
     Price: $36.95 USD
 - [Elegant Wedding Shoe and Bag Set with Handmade Flowers](https://milvertons.com/products/elegant-wedding-shoe-and-bag-set-with-handmade-flowers): Elegant Wedding Shoe and Bag Set with Handmade Flowers. Ideal for weddings, parties and special occasions, this shoe and bag combo offer both style and comfort.
-  Updated: 2025-11-04T21:43:32Z
+  Updated: 2025-11-11T19:26:59Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10482,7 +10482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1760761370
     Price: $119.40 USD
 - [Hemp Wedge Heel Slippers – Casual Sandals for Women](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women): Hemp Wedge Heel Slippers, designed for women seeking comfy yet stylish shoes. The design features hollow detailing for breathability, ideal for everyday wear.
-  Updated: 2025-11-04T21:43:55Z
+  Updated: 2025-11-11T19:27:22Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10668,7 +10668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-2789869.jpg?v=1760572034
     Price: $28.72 USD
 - [Glam Sexy High Heels Sandals 2025 | Wedding Party Style](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style): These Glam Sexy High Heels Sandals are expertly designed for weddings and parties. Handmade and sized 32-43, these gladiator-style pumps combine style & comfort
-  Updated: 2025-11-04T21:44:17Z
+  Updated: 2025-11-11T19:27:45Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10850,7 +10850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
 - [Butterfly Slingback Sandals & Bag Set – 2025 Wedding Party](https://milvertons.com/products/butterfly-slingback-sandals-bag-set-2025-wedding-party): Butterfly Slingback Sandals & Bag Set – This handmade set delivers both fashion-forward style and wearability for weddings, celebrations, and special occasions.
-  Updated: 2025-11-08T04:24:43Z
+  Updated: 2025-11-11T19:28:06Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -11024,7 +11024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/butterfly-slingback-sandals-bag-set-2025-wedding-party-4569698.webp?v=1761906301
     Price: $118.83 USD
 - [Wedding & Party Shoe and Bag Set | Italian Elegance](https://milvertons.com/products/wedding-party-shoe-and-bag-set-italian-elegance): Wedding & Party Shoe and Bag Set | Italian Elegance — A photo-ready duo crafted for weddings, galas, and upscale events where style steals the spotlight.
-  Updated: 2025-11-09T21:42:40Z
+  Updated: 2025-11-11T19:28:34Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -11229,6 +11229,90 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/wedding-party-shoe-and-bag-set-italian-elegance-4809754.webp?v=1762646384
     Price: $117.35 USD
+- [Platform High Heel Sandals | Waterproof Thick Buckle](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle): Platform High Heel Sandals | Waterproof Thick Buckle — Elegant, durable heels with open‑toe design, built to shine at work, parties, and upscale occasions.
+  Updated: 2025-11-11T19:28:38Z
+  Vendor: Milvertons
+  Product Type: Women - Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-8007592.png?v=1762831255
+  - [black / 36](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750104814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+  - [black / 37](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750170350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+  - [black / 38](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750203118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+  - [black / 39](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750235886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+  - [black / 40](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750268654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+  - [black / 41](https://milvertons.com/products/platform-high-heel-sandals-waterproof-thick-buckle?variant=47176750137582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/platform-high-heel-sandals-waterproof-thick-buckle-5233385.webp?v=1762831255
+    Price: $62.34 USD
+- [Mary Jane Block Heel Pumps | Closed Toe Party Office Shoes](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes): Mary Jane Block Heel Pumps | Closed Toe — Designed for modern women, these pointed‑toe slingbacks transition seamlessly from office meetings to evening events.
+  Updated: 2025-11-11T19:28:44Z
+  Vendor: Milvertons
+  Product Type: Women - Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-7762757.png?v=1762831258
+  - [Chocolate / 36](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564187886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [Chocolate / 37](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564155118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [Chocolate / 38](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564122350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [Chocolate / 39](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564089582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [Chocolate / 40](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564056814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [Chocolate / 41](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564417262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-1131056.webp?v=1762831257
+    Price: $53.51 USD
+  - [black / 36](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564384494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
+  - [black / 37](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564351726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
+  - [black / 38](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564318958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
+  - [black / 39](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564286190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
+  - [black / 40](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564253422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
+  - [black / 41](https://milvertons.com/products/mary-jane-block-heel-pumps-closed-toe-party-office-shoes?variant=47179564220654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/mary-jane-block-heel-pumps-closed-toe-party-office-shoes-8685100.webp?v=1762831258
+    Price: $53.51 USD
 
 ## Collections
 
@@ -11251,8 +11335,8 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-11-08T04:14:18Z
-  Total Products: 138
+  Updated: 2025-11-10T18:56:58Z
+  Total Products: 140
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
   Total Products: 44
@@ -11266,7 +11350,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-11-07T06:25:24Z
+  Updated: 2025-11-14T06:25:51Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -11281,8 +11365,8 @@
   Updated: 2025-10-26T16:45:48Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-11-08T04:03:37Z
-  Total Products: 101
+  Updated: 2025-11-10T18:41:44Z
+  Total Products: 103
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-10-22T14:36:24Z
   Total Products: 171
@@ -11299,8 +11383,8 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-11-09T06:25:35Z
-  Total Products: 165
+  Updated: 2025-11-14T06:26:24Z
+  Total Products: 167
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -11329,22 +11413,22 @@
   Updated: 2025-10-26T16:45:23Z
   Total Products: 158
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-11-08T04:03:37Z
-  Total Products: 194
+  Updated: 2025-11-10T18:41:44Z
+  Total Products: 196
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
   Updated: 2025-10-26T16:45:23Z
   Total Products: 157
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-11-08T04:03:37Z
-  Total Products: 517
+  Updated: 2025-11-10T18:41:44Z
+  Total Products: 519
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-11-08T04:03:37Z
-  Total Products: 104
+  Updated: 2025-11-10T18:41:44Z
+  Total Products: 106
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-11-09T06:26:43Z
+  Updated: 2025-11-14T06:25:38Z
   Total Products: 33
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
@@ -11374,8 +11458,8 @@
   Updated: 2025-11-08T04:15:23Z
   Total Products: 58
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-11-09T15:15:46Z
-  Total Products: 345
+  Updated: 2025-11-12T18:46:17Z
+  Total Products: 346
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
