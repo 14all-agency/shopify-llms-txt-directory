@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-13T00:00:57.719Z
+- Updated At: 2025-11-15T00:01:18.935Z
 
 ## Products
 
@@ -24284,7 +24284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9037d990-ffa1-4236-ba22-8cdc5eb0153e.jpg?v=1759266025
     Price: CHF 10.80 CHF
 - [Pet Toy Natural Rubber Rope Hoist](https://cilly.us/products/pet-toy-natural-rubber-rope-hoist): Product information: Color: mixed color hair Specification: Small size high 9cm, large high 12cm Material: rubber Category: Pet Toys Packing list: Pet toy * 1 Product Image:
-  Updated: 2025-10-01T09:29:41Z
+  Updated: 2025-11-13T10:09:29Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
