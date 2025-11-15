@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-13T00:00:33.788Z
+- Updated At: 2025-11-15T00:01:07.235Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -1913,7 +1913,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/DIGITALGIFTCARD_26.jpg?v=1739738441
   Price: £29.00 GBP
 - [Aquarius Zodiac Bracelet – Creativity, Intuition & Courage](https://crystalshealing.co.uk/products/aquarius-zodiac-bracelet): Boost creativity, intuition, and balance with the Aquarius Zodiac Bracelet. A thoughtful gift that aligns with her energy and inspires daily harmony.
-  Updated: 2025-10-23T15:00:36Z
+  Updated: 2025-11-14T06:18:50Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3275,7 +3275,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230503_123418-PhotoRoom.jpg?v=1739739489
     Price: £27.00 GBP
 - [Prosperity And Abundance Crystal Grid](https://crystalshealing.co.uk/products/prosperity-and-abundance-crystal-grid): Attract abundance and prosperity into your life with our handmade Prosperity And Abundance Crystal Grid. Measuring 30x30cm with a depth of 3.5cm, this unique and beautiful piece is crafted using a combination of powerful crystals. It includes Tiger's Eye, Clear Quartz, Citrine, Pyrite, Green Aventurine, Green Chalcedony, Cooper plated Hematite and Cooper wire, all carefully selected for their wealth-attracting properties. At the heart of this crystal grid lies a captivating 4 cm square Tiger's Eye centerpiece, radiating an additional layer of abundance and prosperity. Whether displayed in your office, living room, or any space longing for financial success, our Framed Grid will infuse the area with positive energy. Moreover, this crystal grid stands out as a rare and unique creation, offering a powerful energy grid for wealth and prosperity. It achieves this through carefully placed crystals and their wealth-attracting properties. Whether you're a crystal enthusiast or simply seeking a way to invite abundance into your life, the Prosperity and Abundance Framed Grid is a must-have. To amplify its energies further, the grid incorporates Cooper plated hematite beads and 4 pieces of clear quartz points, measuring 3-4 cm, elegantly wrapped in cooper wire. This combination adds an additional element of power and intention to the grid, enhancing its ability to attract prosperity. Experience the transformative energies of the Prosperity And Abundance Crystal Grid, a captivating centerpiece for wealth manifestation and prosperity attraction in your life. Invest in this stunning and powerful piece to create a harmonious environment that fosters financial success and abundance.
-  Updated: 2025-09-25T11:50:01Z
+  Updated: 2025-11-14T07:29:42Z
   Vendor: Crystals Healing
   Product Type: Framed Grid
   Availability: Available
@@ -4545,7 +4545,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_58.webp?v=1749663557
   Price: £14.80 GBP
 - [Labradorite Necklace Faceted Crystal on Wax Cord](https://crystalshealing.co.uk/products/labradorite-necklace-faceted-crystal-on-wax-cord): Unlock the mystical beauty of the night sky with our Faceted Labradorite Necklace. A captivating piece handcrafted to spark wonder and self-expression. Each necklace features a genuine labradorite crystal, expertly faceted to reveal its stunning flashes of blue, green, and gold a natural phenomenon known as labradorescence. The crystal measures approximately 1.7cm x 1.2cm, an ideal size for making a subtle yet powerful statement. It's strung on a comfortable wax cord, offering a minimalist, earthy feel that’s perfect for everyday wear. Labradorite is often called the Stone of Magic, believed to enhance intuition, protect against negativity, and awaken your inner power. Whether you're drawn to its metaphysical properties or simply love its mysterious shimmer, this necklace is a beautiful way to keep that energy close to your heart. Handmade with care, this Faceted Labradorite Necklace on wax cord is the perfect piece for dreamers, creatives, and spiritual seekers alike. ✅ Genuine faceted labradorite crystal✅ Approx. size: 1.7cm x 1.2cm✅ Adjustable wax cord for comfort and versatility✅ Ideal gift for birthdays, milestones, or self-love Bring magic into your life one shimmer at a time.
-  Updated: 2025-10-23T15:11:09Z
+  Updated: 2025-11-13T06:39:15Z
   Vendor: Crystals Healing
   Product Type: Necklace
   Availability: Available
