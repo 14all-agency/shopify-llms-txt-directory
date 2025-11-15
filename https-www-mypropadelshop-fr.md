@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-31T17:47:33Z
 - Contact Email: propadeltoulouse@outlook.fr
-- Updated At: 2025-11-13T00:00:22.259Z
+- Updated At: 2025-11-15T00:00:24.759Z
 
 ## Products
 
@@ -279,46 +279,58 @@
     Availability: Available
     Price: 110,00 € EUR
 - [Nox AT10 Pro 2024](https://www.mypropadelshop.fr/products/nox-at10-pro-2024): Nox AT10 Pro 2024 – Les chaussures de padel d’Agustín Tapia, confort et performance ultime Présentation Les Nox AT10 Pro 2024 redéfinissent les standards du padel. Conçues avec les technologies les plus avancées, elles allient stabilité, amorti et protection pour offrir un confort inégalé sur le court. Utilisées par Agustín Tapia, numéro 1 mondial de Premier Padel, elles sont le fruit d’un travail minutieux entre innovation biomécanique et exigence professionnelle. Technologie de pointe et certification Chaussures officielles de Premier Padel Espagne 2024 : portées par Agustín Tapia lors des matchs et entraînements officiels. Approuvées cliniquement par Marta Rueda, podologue du Centre de Haut Rendement de Sant Cugat (Espagne). Certifiées par INESCOP (Centre technologique de la chaussure d’Alicante), garantissant performance, durabilité et confort. Technologies intégrées AGG (Advanced Gravity Geometry) Un design novateur offrant un drop accentué (différence de hauteur entre le talon et l’avant-pied). Ce système améliore la posture d’attente et les démarrages rapides tout en réduisant la fatigue et les risques de blessures musculaires. Soutien latéral renforcé Une stabilité latérale accrue grâce à une semelle élargie, minimisant le risque de torsion lors des déplacements explosifs. Amorti maximal Semelle extérieure en caoutchouc EVA Popcorn montée en Strobel, associée à une semelle intermédiaire en phylon injecté basse densité. Résultat : un retour d’énergie supérieur et un confort de jeu prolongé. Le système AbraXone offre une résistance élevée à l’abrasion et stabilise la chaussure à chaque appui. Semelle extérieure à adhérence optimale Association d’un motif à chevrons et de micro-crampons pour une adhérence parfaite sur toutes les surfaces de padel, quelles que soient les conditions de jeu. Semelle intérieure Ortholite Confort et hygiène garantis grâce à une semelle Ortholite ultra-respirante, offrant un amorti performant et une action antimicrobienne qui prévient les odeurs et la prolifération bactérienne. Avantages clés Stabilité latérale exceptionnelle. Confort durable pour les longues sessions de jeu. Démarrages rapides et transitions fluides. Semelle respirante et anti-odeur. Validées par les experts et utilisées par les pros du circuit Premier Padel. Caractéristiques techniques Modèle : Nox AT10 Pro 2024 White Edition Catégorie : Chaussures de padel professionnelles Technologies : AGG / AbraXone / Ortholite / EVA Popcorn / Phylon Injecté Usage : Compétition et entraînement intensif Design : Blanc pur avec détails Nox rouges et argentés Poids : Léger et dynamique pour une agilité maximale Certification : INESCOP (Espagne) Pourquoi choisir les Nox AT10 Pro 2024 ? Ces chaussures ne sont pas qu’un accessoire : elles sont une véritable extension de votre performance. Entre stabilité, puissance et amorti, elles garantissent un confort premium et une efficacité maximale sur tous les types de terrains. Conclusion Les Nox AT10 Pro 2024 représentent le meilleur du savoir-faire espagnol en matière de chaussures de padel. Adoptées par Agustín Tapia, elles incarnent la fusion parfaite entre innovation, style et performance. Un choix incontournable pour les joueurs exigeants qui veulent dominer chaque match avec confiance et confort.
-  Updated: 2025-10-10T15:35:45Z
+  Updated: 2025-11-13T10:18:46Z
   Vendor: Pro Padel
   Product Type: Chaussure
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2641.png?v=1725651639
   - [Blanc / 40](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207023698244)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 40](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207023731012)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
   - [Blanc / 41](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024550212)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Blanc / 42](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024582980)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Blanc / 43](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024615748)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Blanc / 44](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024648516)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Blanc / 45](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024681284)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2640.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 41](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024714052)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 42](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024746820)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 43](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024779588)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 44](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024812356)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
   - [Noir / 45](https://www.mypropadelshop.fr/products/nox-at10-pro-2024?variant=49207024845124)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/5687/1748/files/IMG-2636.png?v=1725651639
     Price: 108,00 € EUR
 - [Sac de Padel Nox Pro Séries](https://www.mypropadelshop.fr/products/sac-de-padel-nox-pro-series): Nox Pro Series 2023 – Sac de padel fonctionnel, sobre et élégant Présentation La marque espagnole Nox dévoile la nouvelle édition de son célèbre sac de padel Pro Series 2023, l’un de ses modèles les plus plébiscités. Avec son design entièrement noir, il allie élégance, praticité et durabilité, incarnant le savoir-faire de Nox dans le monde du padel. Un sac pensé pour les joueurs exigeants qui veulent allier style et organisation optimale sur les courts. Design et conception Le Nox Pro Series 2023 se distingue par son look sobre et raffiné, idéal pour les joueurs souhaitant un accessoire à la fois professionnel et discret. Fabriqué à partir de matériaux résistants, il offre une excellente tenue dans le temps et une protection renforcée pour tout votre équipement. Son format spacieux et bien pensé assure une organisation parfaite de vos affaires de sport. Compartiments et fonctionnalités Un sac complet pour tout votre matériel Grand compartiment central : vaste espace permettant de ranger vêtements, serviettes et accessoires sans effort. Son volume généreux vous offre toute la place nécessaire pour vos entraînements ou tournois. Poche thermique latérale : dédiée à vos raquettes de padel (jusqu’à 2), cette poche bénéficie d’un revêtement isolant qui protège vos palas des variations de température. Poches latérales supplémentaires : parfaites pour vos petits accessoires, balles, téléphone ou objets personnels, elles permettent un rangement organisé et sécurisé. Compartiment ventilé pour chaussures : situé sous le sac, il isole vos chaussures du reste du contenu et assure une aération constante pour éviter les mauvaises odeurs. Confort et transport Le Thermo Pro Series 2023 a été conçu pour un confort de port optimal. Ses lanières ajustables type sac à dos facilitent le transport sur les épaules, tandis que sa poignée rembourrée permet de le porter facilement à la main. Un sac ergonomique et pratique, adapté aux déplacements fréquents. Avantages clés Design sobre et élégant pour un look professionnel sur le court. Grande capacité pour accueillir raquettes, vêtements, chaussures et accessoires. Poche thermique pour protéger vos raquettes des changements de température. Compartiment ventilé pour les chaussures ou vêtements humides. Transport confortable avec bretelles ajustables et poignée rembourrée. Caractéristiques techniques Modèle : Nox Pro Series 2023 Marque : Nox Type : Sac de padel thermique Couleur : Noir Compartiments : 1 principal + 1 thermique + 1 ventilé + poches latérales Capacité : Jusqu’à 2 raquettes + chaussures + vêtements Protection : Doublure thermique Transport : Lanières ajustables + poignée rembourrée Usage : Entraînement, compétition, déplacement Pour quel joueur ? Le Nox Pro Series 2023 s’adresse aux joueurs de padel réguliers à professionnels cherchant un sac robuste, spacieux et stylé. Grâce à son compartiment ventilé, sa poche thermique et sa grande capacité, il est idéal pour ceux qui veulent transporter leur équipement complet en toute sécurité. Passez à l’action Adoptez le sac de padel Nox Pro Series 2023 et profitez d’un alliage parfait entre élégance, confort et fonctionnalité – la référence des sacs Nox pour un jeu sans compromis.
   Updated: 2025-10-10T15:42:15Z
