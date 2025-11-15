@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-13T00:00:44.999Z
+- Updated At: 2025-11-15T00:00:27.736Z
 
 ## Products
 
@@ -671,7 +671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBUG-BULLDOG-SOAP-2025.jpg?v=1742486577
   Price: $12.95 USD
 - [Blissful Nose Butter – Moisturizing Balm for Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Soothe and moisturize your dog’s dry, crusty nose with Blissful Nose Butter – a natural, gentle balm loved by pets of all breeds.
-  Updated: 2025-11-09T00:13:20Z
+  Updated: 2025-11-14T17:27:39Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -709,7 +709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/1-EVERY-DOG-225OZ-NOSE-BUTTER-2500_3b5886ae-f5d2-4ed4-b6a2-404bbd890c8c.jpg?v=1711040533
     Price: $18.95 USD
 - [The Blissful Dog Blissful Elbow™ Butter Balm For Dog Elbow Calluses](https://theblissfulpets.com/products/elbow-butter): Blissful Elbow Butter™ conditions dog elbow calluses using all-natural good stuff. Individually handcrafted in Minnesota & available in tins and tubes.
-  Updated: 2025-10-04T07:54:46Z
+  Updated: 2025-11-14T17:27:39Z
   Vendor: The Blissful Dog® Inc.
   Product Type: ELBOW BUTTER
   Availability: Available
@@ -747,7 +747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/ELBOW-2.25OZ-2024_7f241e9f-5fe4-454d-8429-44a73fdf2309.jpg?v=1711116614
     Price: $18.95 USD
 - [The Blissful Dog PAW BUTTER All Natural Good Stuff for Dry Paw Pads](https://theblissfulpets.com/products/paw-butter): The Blissful Dog PAW BUTTER provides layers of moisturizing support for your dog's paw pads…naturally! In 8 sizes of tins & tubes - because dogs are all sizes!
-  Updated: 2025-10-04T16:07:17Z
+  Updated: 2025-11-14T17:27:39Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -1397,7 +1397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/CAT-VV-GALLON-2024.jpg?v=1711388005
     Price: $72.95 USD
 - [Blissful Cat Paw Butter – Moisturizing Balm for Dry Cat Paw Pads](https://theblissfulpets.com/products/blissful-paw-butter): Soothe and moisturize your cat’s rough, dry paw pads with Blissful Paw Butter – a natural, gentle balm cats love and owners trust.
-  Updated: 2025-11-08T03:53:18Z
+  Updated: 2025-11-14T17:08:03Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -1583,10 +1583,10 @@
   Updated: 2025-11-07T15:45:25Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-11-08T12:26:09Z
+  Updated: 2025-11-13T12:23:44Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-08T12:26:09Z
+  Updated: 2025-11-13T12:23:44Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-11-08T12:26:09Z
@@ -1604,7 +1604,7 @@
   Updated: 2025-08-24T11:19:59Z
   Total Products: 1
 - [Horse Grooming](https://theblissfulpets.com/collections/horse-grooming)
-  Updated: 2025-10-28T11:28:33Z
+  Updated: 2025-11-14T12:21:40Z
   Total Products: 7
 - [Equine Moisturizing Butters](https://theblissfulpets.com/collections/equine-moisturizing-butters)
   Updated: 2025-11-03T12:20:04Z
@@ -1622,7 +1622,7 @@
   Updated: 2025-11-01T11:21:40Z
   Total Products: 5
 - [Shop All Horse](https://theblissfulpets.com/collections/shop-all-horse)
-  Updated: 2025-11-03T12:20:04Z
+  Updated: 2025-11-14T12:21:40Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
   Updated: 2025-11-07T15:53:12Z
