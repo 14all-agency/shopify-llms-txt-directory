@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-14T00:01:00.270Z
+- Updated At: 2025-11-15T00:01:04.827Z
 
 ## Products
 
@@ -2619,7 +2619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_274fb389-eeaa-4143-8c02-5cb7540316f6.png?v=1751791477
     Price: $23.15 USD
 - [Velora Petal Mini Dress](https://qingsnkueens.com/products/velora-petal-mini-dress): Unleash effortless elegance with the Cascade Charm Dress, a free-flowing masterpiece designed to move with you. Featuring a halter neckline and a softly layered asymmetric hem, this dress brings together modern grace and playful femininity in every step. Its breezy silhouette flatters all body types, while the delicate drape creates a mesmerizing flow that turns heads.
-  Updated: 2025-07-06T15:26:43Z
+  Updated: 2025-11-14T06:47:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
