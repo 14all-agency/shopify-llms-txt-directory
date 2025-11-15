@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-14T00:01:13.577Z
+- Updated At: 2025-11-15T00:00:30.273Z
 
 ## Products
 
@@ -1340,7 +1340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH006BL_5-scaled.jpg?v=1751478431
   Price: ₹1,649.00 INR
 - [Buy ​Lifeline Stethoscope Excel 2 - Surgismart](https://surgismart.in/products/lifeline-excel-2): Stainless steel chest piece Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra gloss finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, nurses, paramedics, students Tube colours: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-10-15T09:37:33Z
+  Updated: 2025-11-14T17:24:18Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
@@ -3008,7 +3008,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Hem-7156-3-1-570x570.webp?v=1759478897
   Price: ₹3,099.00 INR
 - [Buy ​OMRON Digital Bluetooth Blood Pressure Monitor with Cuff Wrapping Guide & Intellisense Technology - HEM 7143T1A - Surgismart](https://surgismart.in/products/omron-digital-bluetooth-blood-pressure-monitor-with-cuff-wrapping-guide-and-intellisense-technology-hem-7143t1a): Irregular Heartbeat Detection - Helps to detect any abnormal rhythm of your heartbeat, so you can consult your physician for early diagnosis and treatment. The Smarter Way To Connect To Your Heart Health - Keep track of your blood pressure readings and stay on top of your heart health with OMRON connect anytime, anywhere. With Bluetooth wireless connectivity, you can sync your daily blood pressure readings from the device to the OMRON connect app, effortlessly. Intellisense Technology for Comfort & Accuracy - Intellisense, available in all OMRON Blood Pressure Monitors, can automatically personalise the cuff inflation just for you to ensure less pain and discomfort during measurement. Bluetooth Connectivity - Measurements can easily be transferred to the OMRON Connect app to help track your progress more precisely. Item Weight: 250.0 Grams; Unit Count Type: Count; Color Name: White; Batteries Required: False; Unit Count: 1.0 - Surgismart
-  Updated: 2025-10-03T08:08:17Z
+  Updated: 2025-11-14T16:08:30Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
