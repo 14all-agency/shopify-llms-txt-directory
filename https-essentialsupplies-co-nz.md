@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-13T00:00:50.679Z
+- Updated At: 2025-11-15T00:00:38.899Z
 
 ## Products
 
@@ -648,7 +648,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/por-recycled-bin-liner-18l-white-450mm-x-500mm-x-15mu-1750-pieces-peach-scented-office-bin-liners-essential-supplies-615977.jpg?v=1719445563
   Price: $106.00 NZD
 - [FP Recycled Bin Liner 24L - White, 470mm x 575mm x 30mu - 1000 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-24l-white-470mm-x-575mm-x-30mu-1000): Convenient office bin liners.Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Capacity: 24 Litres 470mm x 575mm x 30mu Pack of: 1000
-  Updated: 2025-01-08T19:08:12Z
+  Updated: 2025-11-13T05:22:50Z
   Vendor: Mattews Packaging
   Product Type: Office Bin Liners
   Availability: Available
@@ -746,7 +746,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dispenser-microfibre-cloths-yellow-300mm-x-300mm-185gsm-50-pack-dry-cloths-essential-supplies-214295.jpg?v=1719445090
   Price: $29.00 NZD
 - [Dispenser Microfibre Cloths - Blue, 300mm x 300mm, 185gsm - 50 Cloths](https://essentialsupplies.co.nz/products/dispenser-microfibre-cloths-blue-300mm-x-300mm-185gsm-50): Dispenser pack microfibre cloths are made from soft, non abrasive microfibre and feature an edgeless design.Ideal for grab and go cleaning at home, the office, car or garage. They conveniently trap dirt, grime and other particles, and clean without leaving traces of lint residue, streaks or scratches. The rags measure 300mm (W) x 300mm (L) and come in a handy pack of 50 cloths. Fast and effective, surface cleaning solution Size: 300mm x 300mm x 185gsm Pack of 50 per dispenser Carton: 9 packs Colour: Blue
-  Updated: 2025-01-09T17:07:54Z
+  Updated: 2025-11-13T15:44:45Z
   Vendor: Mattews Packaging
   Product Type: Dry Cloths
   Availability: Available
@@ -1621,7 +1621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-polyethylene-bag-clear-200mm-x-300mm-x-30mu-4000-pieces-polyethylene-bags-essential-supplies-604510.jpg?v=1719445075
   Price: $142.00 NZD
 - [FP Polyethylene Bag - Clear, 250mm x 375mm x 30mu - 2500 Pieces](https://essentialsupplies.co.nz/products/fp-polyethylene-bag-clear-250mm-x-375mm-x-30mu-2500): Low density polyethylene bags are the workhorse of the plastic bag industry. Their usage can vary from packaging nuts and bolts to bulk grain storage. This product is also used as a dust cover for machinery. Size: 250mm x 375mm x 30mu Content: 2500 pieces Colour: Clear
-  Updated: 2025-01-16T03:33:34Z
+  Updated: 2025-11-13T13:03:26Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Bags
   Availability: Available
@@ -2335,7 +2335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-72l-white-700mm-x-900mm-x-40mu-350-pack-rubbish-bin-liners-essential-supplies-316584.jpg?v=1719445079
   Price: $141.00 NZD
 - [Reusable PVC Apron with Hooks - Black, 900mm x 1200mm, 300mu](https://essentialsupplies.co.nz/products/reusable-pvc-apron-with-hooks-black-900mm-x-1200mm-300mu-20): Premium resistance and reusability. Reusable PVC aprons are perfect for rigorous work and feature eyelet weld hooks enabling them to withstand the toughest conditions. PVC construction is fat and blood resistant which allows for greater protection, it also assists with better hygiene and easy cleaning. This apron is ideal for use in food processing industries. Reusable PVC apron PVC construction is fat and blood resistant Ideal for use in food processing industries Size: 900mm x 1200mm Colour: Black
-  Updated: 2025-01-25T18:26:35Z
+  Updated: 2025-11-13T09:11:11Z
   Vendor: Mattews Packaging
   Product Type: Reusable Aprons
   Availability: Available
@@ -2734,7 +2734,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/recycled-slimfold-paper-towel-white-230mm-x-230mm-1-ply-fsc-mix-4000-folded-paper-towels-essential-supplies-137150.jpg?v=1719445678
   Price: $77.00 NZD
 - [Recycled Wrapped Toilet Tissue Boxed - White, 2 Ply, 400 Sheets, FSC Recycled® - 48 Rolls](https://essentialsupplies.co.nz/products/recycled-wrapped-toilet-tissue-boxed-white-2-ply-400-sheets-fsc-recycled®-48): Recycled wrapped toilet tissue is a great, environmentally friendly, economical choice for your toilet paper needs.Made from 100% FSC certified recycled tissue, the absorbent tissue is a great option for high traffic bathrooms. They contain no dyes, inks or chlorine and are sold in a box of 48 rolls individually wrapped rolls. Environmentally friendly economical choice 100% FSC certified recycled tissue They contain no dyes, inks or chlorineIndividually wrapped rolls Ply: 2 Sheets per roll: 400 sheets Sheet Dimension: 100mm x 110mm Colour: White Box of 48 rolls
-  Updated: 2025-01-08T20:53:52Z
+  Updated: 2025-11-14T17:00:14Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
@@ -3929,7 +3929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pod-classic-mini-manual-unit-white-204mm-x-206mm-x-510mm-1-unit-sanitary-hygiene-essential-supplies-532128.jpg?v=1719445567
   Price: $86.00 NZD
 - [Pod Classic Mini Manual Unit - Black, 204mm x 206mm x 510mm - 1 Unit](https://essentialsupplies.co.nz/products/pod-classic-mini-manual-unit-black-204mm-x-206mm-x-510mm-1): Simple to operate, sized for capacity and easily accessible - a hygienic, user friendly sanitary disposal option. Requiring minimal contact for operation, Pod™ Classic is a discreet yet functional addition to any modern washroom. Uniquely shaped to maximise washroom space, the units are visually appealing - understated yet elegant - with superior form and function.
-  Updated: 2025-01-18T05:24:21Z
+  Updated: 2025-11-14T16:31:55Z
   Vendor: Mattews Packaging
   Product Type: Sanitary Hygiene
   Availability: Available
@@ -4335,7 +4335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/aluminium-mop-handle-white-25mm-x-1500mm-mops-essential-supplies-519153.jpg?v=1719444769
   Price: $20.00 NZD
 - [Aluminium Mop Handle - Blue, 25mm x 1500mm](https://essentialsupplies.co.nz/products/aluminium-mop-handle-blue-25mm-x-1500mm-30): Socket mop handles constructed of durable commercial grade aluminium. Featuring an ergonomic swivel grip for comfortable cleaning. Universal socket attachment for use with cotton or microfibre mop heads. Match mop head colour to avoid cross contamination.
-  Updated: 2025-02-10T18:19:08Z
+  Updated: 2025-11-13T14:09:51Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
@@ -4685,7 +4685,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/window-washer-handle-combo-grey-600mm-window-cleaning-essential-supplies-711874.jpg?v=1719445923
   Price: $29.00 NZD
 - [Window Washer Handle Combo - Green, 600mm](https://essentialsupplies.co.nz/products/window-washer-handle-combo-green-600mm-6): Window washer handle combo brushes feature a sponge and brush combination for thorough cleaning and a squeegee blade for a streak free finish. With a tough and durable 600m long rust-proof handle for extra reach. Replacement sponges and blades available.
-  Updated: 2025-01-15T10:52:49Z
+  Updated: 2025-11-13T17:22:43Z
   Vendor: Mattews Packaging
   Product Type: Window Cleaning
   Availability: Available
@@ -4881,7 +4881,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/antibacterial-textile-wipes-pink-400mm-x-400mm-140gsm-10-sheets-textile-dry-wipes-essential-supplies-888093.jpg?v=1719444953
   Price: $29.00 NZD
 - [Antibacterial Textile Wipes - Yellow, 400mm x 400mm, 140gsm - 10 Sheets](https://essentialsupplies.co.nz/products/antibacterial-textile-wipes-yellow-400mm-x-400mm-140gsm-10)
-  Updated: 2024-11-22T03:35:40Z
+  Updated: 2025-11-14T12:13:36Z
   Vendor: Mattews Packaging
   Product Type: Textile Dry Wipes
   Availability: Available
@@ -6484,7 +6484,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/industrial-pvc-gumboots-whiteyellow-size-5-steel-toe-cap-steel-midsole-gumboots-essential-supplies-830796.jpg?v=1719445405
   Price: $58.00 NZD
 - [Industrial PVC Gumboots - White/Yellow, Size 6 -  *Steel Toe Cap + Steel Midsole](https://essentialsupplies.co.nz/products/industrial-pvc-gumboots-white-yellow-size-6-5-steel-toe-cap-steel-midsole): White industrial gumboots constructed of hard wearing, flexible PVC with a steel midsole and safety toe to prevent penetration. The nitrile sole is slip resistant and repels solvents, oils, acids, alkalis and fats. Featuring internal nylon lining to enable easy boot cleaning and heel kick off spur for quick removal.
-  Updated: 2025-01-09T07:46:29Z
+  Updated: 2025-11-14T15:21:51Z
   Vendor: Mattews Packaging
   Product Type: Gumboots
   Availability: Available
@@ -7126,7 +7126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dg-label-toxic-61-whiteblack-99mm-x-99mm-500-labels-dangerous-goods-labels-essential-supplies-477669.jpg?v=1719444942
   Price: $35.00 NZD
 - [DG Label Corrosive 8 - White/Black, 99mm x 99mm - 500 Labels](https://essentialsupplies.co.nz/products/dg-label-corrosive-8-white-black-99mm-x-99mm-500)
-  Updated: 2025-02-07T20:07:03Z
+  Updated: 2025-11-14T16:12:36Z
   Vendor: Mattews Packaging
   Product Type: Dangerous Goods Labels
   Availability: Available
