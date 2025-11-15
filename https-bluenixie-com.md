@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-11-14T00:00:45.283Z
+- Updated At: 2025-11-15T00:00:30.788Z
 
 ## Products
 
@@ -5279,7 +5279,7 @@
   Updated: 2025-11-13T13:46:48Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 78
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -5303,7 +5303,7 @@
   Updated: 2025-11-13T12:11:21Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 64
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
   Updated: 2025-11-13T13:46:49Z
@@ -5312,10 +5312,10 @@
   Updated: 2025-11-13T13:46:47Z
   Total Products: 43
 - [Lounge/Sleep Bra](https://bluenixie.com/collections/lounge-bra): soft and light on your body so get rid of bra and put this on and relax
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 10
 - [sports bra](https://bluenixie.com/collections/sports-bra)
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 11
 - [Maternity bra](https://bluenixie.com/collections/maternity-bra)
   Updated: 2025-05-15T13:24:07Z
@@ -5435,22 +5435,22 @@
   Updated: 2025-11-13T13:42:49Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-11-13T13:45:57Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
   Updated: 2025-11-13T12:11:21Z
@@ -5465,10 +5465,10 @@
   Updated: 2025-11-13T13:47:39Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 97
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 97
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
   Updated: 2025-11-13T13:46:49Z
@@ -5480,7 +5480,7 @@
   Updated: 2025-05-14T14:06:42Z
   Total Products: 1
 - [Beginners bra](https://bluenixie.com/collections/beginners-bra): teenagers bra# beginners bra
-  Updated: 2025-11-13T13:39:05Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 7
 - [Palazzo](https://bluenixie.com/collections/palazzo)
   Updated: 2025-11-13T13:45:49Z
@@ -5489,7 +5489,7 @@
   Updated: 2025-11-13T13:45:57Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-11-13T13:47:39Z
+  Updated: 2025-11-14T12:10:52Z
   Total Products: 97
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
