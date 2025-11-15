@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-11-14T00:03:10.550Z
+- Updated At: 2025-11-15T00:03:42.150Z
 
 ## Products
 
@@ -55,8 +55,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T16:56:31Z
   Price: $1,696.99 USD
 - [407J Luxury Curio Cabinet - French Provincial Design | Polrey](https://homeeleganceusa.com/products/407j-curio-cabinet): This luxurious 407J curio cabinet is the perfect addition to any room in your home. The French Provincial design and walnut color give this piece a beautiful
-  Updated: 2025-11-11T16:56:32Z
-  Price: $2,164.99 USD
+  Updated: 2025-11-14T13:03:48Z
+  Price: $2,264.99 USD
 - [Artmax 7842-S Modern Sideboard with Optional Mirror | Home Elegance USA](https://homeeleganceusa.com/products/modern-sideboard-7842-s-with-optional-wall-mirror-by-artmax): Artmax 7842-S sideboard in light antiqued ivory with muted bronze and dark sable accents. 2 doors, 1 shelf, touch-latch, protective glass top. Optional mirror 7842-FM. Sideboard 58"W × 16"D × 34.5"H; mirror 37"W × 3"D × 39"H.
   Updated: 2025-11-11T16:56:33Z
   Price: $3,269.99 USD — $3,965.99 USD
@@ -349,7 +349,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T16:59:49Z
   Price: $3,234.99 USD — $5,009.99 USD
 - [Copenhagen Modern Bedroom Set In Gray | J&M](https://homeeleganceusa.com/products/copenhagen-bedroom-set-by-j-m-furniture): Copenhagen Modern Bedroom Set In Gray By J&amp;M Furniture At J&amp;M, innovation has always been part of the production culture. The Copenhagen concentrates...
-  Updated: 2025-11-11T16:59:51Z
+  Updated: 2025-11-14T11:02:56Z
   Price: $3,039.99 USD — $4,541.99 USD
 - [Knotch Modern Bedroom Set | J&M](https://homeeleganceusa.com/products/knotch-modern-bedroom-set-by-j-m-furniture): Knotch Knotch Bedroom from J and M Furniture offers alluring designs and colors of the modern bedroom. Furniture presented in these collections will perfectly
   Updated: 2025-11-11T16:59:53Z
@@ -976,7 +976,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:05:58Z
   Price: $1,549.00 USD — $1,899.00 USD
 - [Marston Rectangular Dining Room Set | Homelegance](https://homeeleganceusa.com/products/marston-rectangular-dining-room-set-by-homelegance): Marston Dining Room Set Homelegance Refined elegance is exemplified in the design of the Marston Collection. The double pedestal base rises to support the...
-  Updated: 2025-11-11T17:06:00Z
+  Updated: 2025-11-14T06:37:09Z
   Price: $2,387.99 USD — $2,881.99 USD
 - [Reid Rectangular Dining Room Set | Homelegance](https://homeeleganceusa.com/products/reid-rectangular-dining-room-set-by-homelegance): Reid Dining Room Set Homelegance A classic look for your traditional home, the Reid Collection offers an updated country style that will be a warm and inviting
   Updated: 2025-11-11T17:06:01Z
@@ -1171,7 +1171,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-12T00:04:18Z
   Price: $919.99 USD — $1,010.99 USD
 - [Serene Upholstered Bed In Chestnut | J&M](https://homeeleganceusa.com/products/serene-upholstered-bed-in-chestnut-j-m-furniture): Introducing the Serene fully upholstered bed, the newest addition to our bedroom collections. Crafted with the utmost attention to detail, this bed is the ...
-  Updated: 2025-11-11T17:08:07Z
+  Updated: 2025-11-14T09:55:51Z
   Price: $1,037.99 USD — $1,175.99 USD
 - [Sintra Platform Bed | J&M](https://homeeleganceusa.com/products/sintra-platform-bed-j-m-furniture): Brand: J&M Furniture Collection: Sintra Color: Gray Material: Wood Veneer Dimensions Queen size W 68.7" x D 85" x H 43.4" King size W 84.9" x D 85" x H 43.4"
   Updated: 2025-11-11T17:08:08Z
@@ -1222,7 +1222,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:08:30Z
   Price: $499.00 USD
 - [Woodrow 5 Drawer Chest In Gray 2042-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-woodrow-5-drawer-chest-in-gray-2042-9): Woodrow Collection by Homelegance Gray finish Made of manmade veneer and wood 5 Drawers Dovetail drawers Metal on metal center glides Black nickel tone bar ...
-  Updated: 2025-11-11T17:08:31Z
+  Updated: 2025-11-14T09:25:12Z
   Price: $699.00 USD
 - [Wellsummer 5 Drawer Chest In White 1803W-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-wellsummer-5-drawer-chest-in-white-1803w-9): Wellsummer Collection by Homelegance Furniture White finish Made of man-made wood 5 Drawers White tone wood knobs Dovetailed drawers Metal on metal center
   Updated: 2025-11-11T17:08:31Z
@@ -2017,7 +2017,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:12:55Z
   Price: $907.99 USD
 - [Modrest Adan Modern White Nightstand Vgbbmb1706-Ns-3](https://homeeleganceusa.com/products/vig-furniture-modrest-adan-modern-white-nightstand-vgbbmb1706-ns-3): Modrest Adan - Modern White Nightstand - VGBBMB1706-NS-3 | VIGDescription:White on White! If you are looking for a white nightstand, have we found the one for
-  Updated: 2025-11-11T17:12:57Z
+  Updated: 2025-11-14T15:07:30Z
   Price: $829.99 USD
 - [Modrest Ivey Modern Tan Dining Chair (Set Of 2) Vgswsfc118-Tan-A-Dc](https://homeeleganceusa.com/products/vig-furniture-modrest-ivey-modern-tan-dining-chair-set-of-2-vgswsfc118-tan-a-dc): Modrest Ivey - Modern Tan Dining Chair (Set of 2) - VGSWSFC118-TAN-A-DC | VIGDescription:This industrial modern dining chair is the perfect accent piece to your
   Updated: 2025-11-11T17:12:58Z
@@ -2221,7 +2221,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:14:04Z
   Price: $1,316.99 USD
 - [Modrest Shane Modern Acacia & Brass Coffee Table Vgnxmemphis-Aca-Ct](https://homeeleganceusa.com/products/vig-furniture-modrest-shane-modern-acacia-brass-coffee-table-vgnxmemphis-aca-ct): Modrest Shane - Modern Acacia & Brass Coffee Table - VGNXMEMPHIS-ACA-CT | VIGDescription:Highlighting the graceful support structure on the Shane Coffee Table,
-  Updated: 2025-11-11T17:14:05Z
+  Updated: 2025-11-14T23:39:12Z
   Price: $1,444.99 USD
 - [Modrest Legend Transitional Grey Velvet Floor Mirror Vgvcj8111-3H-Gry-Mir](https://homeeleganceusa.com/products/vig-furniture-modrest-legend-transitional-grey-velvet-floor-mirror-vgvcj8111-3h-gry-mir): Modrest Legend - Transitional Grey Velvet Floor Mirror - VGVCJ8111-3H-GRY-MIR | VIGDescription:The Legend Floor Mirror is a stylish traditional style piece with
   Updated: 2025-11-11T17:14:06Z
@@ -2704,7 +2704,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:16:53Z
   Price: $1,158.99 USD
 - [Nova Domus Bronx Italian Modern Faux Concrete & Grey Chest Vgacbronx-Chest](https://homeeleganceusa.com/products/vig-furniture-nova-domus-bronx-italian-modern-faux-concrete-grey-chest-vgacbronx-chest): Nova Domus Bronx Italian Modern Faux Concrete & Grey Chest - VGACBRONX-CHEST | VIGDescription:Flair and expediency exude from the Nova Domus Bronx Italian
-  Updated: 2025-11-11T17:16:55Z
+  Updated: 2025-11-14T07:04:22Z
   Price: $1,114.99 USD
 - [Nova Domus Soria Modern Grey Wash Nightstand Vgmabr-32-Ns-Gry](https://homeeleganceusa.com/products/vig-furniture-nova-domus-soria-modern-grey-wash-nightstand-vgmabr-32-ns-gry): Nova Domus Soria Modern Grey Wash Nightstand - VGMABR-32-NS-GRY | VIGDescription:Adding function and beauty to your bedroom is the dainty Nova Domus Soria
   Updated: 2025-11-11T17:16:55Z
@@ -2875,7 +2875,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:17:54Z
   Price: $1,712.99 USD — $1,837.99 USD
 - [Modrest Scott Modern Extendable Glass Dining Table Vgnsgd8782-Brn-Dt](https://homeeleganceusa.com/products/vig-furniture-modrest-scott-modern-extendable-glass-dining-table-vgnsgd8782-brn-dt-1): Modrest Scott - Modern Extendable Glass Dining Table - VGNSGD8782-BRN-DT | VIGDescription:The Scott Dining Table is a must have for entertaining your guests.
-  Updated: 2025-11-11T17:17:55Z
+  Updated: 2025-11-14T17:41:51Z
   Price: $2,387.99 USD
 - [Modrest Shane Modern Acacia Mirror Vgnxmemphis-Aca-Mir](https://homeeleganceusa.com/products/vig-furniture-modrest-shane-modern-acacia-mirror-vgnxmemphis-aca-mir-1): Modrest Shane - Modern Acacia Mirror - VGNXMEMPHIS-ACA-MIR | VIGDescription:This parquet inspired mirror adds a touch of reminiscent whimsy to a mid-century
   Updated: 2025-11-11T17:17:55Z
@@ -3094,7 +3094,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:19:09Z
   Price: $5,563.99 USD
 - [Modrest Elisa Modern Beige Velvet & Brass Dining Chair Vgvcb8369-Bg-Dc](https://homeeleganceusa.com/products/vig-furniture-modrest-elisa-modern-beige-velvet-brass-dining-chair-vgvcb8369-bg-dc-1): Modrest Elisa - Modern Beige Velvet & Brass Dining Chair - VGVCB8369-BG-DC | VIGDescription:The soft off-white upholstery of the Elisa Dining Chair wraps around
-  Updated: 2025-11-11T17:19:11Z
+  Updated: 2025-11-14T12:11:19Z
   Price: $1,064.99 USD
 - [Modrest Gwen Modern Grey High Gloss Buffet Vgvcg2007-Gs-Gry-Buf](https://homeeleganceusa.com/products/vig-furniture-modrest-gwen-modern-grey-high-gloss-buffet-vgvcg2007-gs-gry-buf-1): Modrest Gwen - Modern Grey High Gloss Buffet - VGVCG2007-GS-GRY-BUF | VIGDescription:The Gwen Buffet is the star of any modern room. The high gloss grey finish
   Updated: 2025-11-11T17:19:11Z
@@ -3745,7 +3745,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:23:19Z
   Price: $1,530.99 USD
 - [Modrest Finley Modern Walnut Buffet Vgcssb-16050](https://homeeleganceusa.com/products/vig-furniture-modrest-finley-modern-walnut-buffet-vgcssb-16050): Modrest Finley Mid-Century Walnut Buffet - VGCSSB-16050 | VIGDescription:The Finley Buffet features a smooth walnut veneered body that is perfect for a
-  Updated: 2025-11-11T17:23:20Z
+  Updated: 2025-11-14T16:25:58Z
   Price: $1,867.99 USD
 - [Modrest Draper Contemporary Walnut & Glass Dining Table Vgcsdt-1498-Gls](https://homeeleganceusa.com/products/vig-furniture-modrest-draper-contemporary-walnut-glass-dining-table-vgcsdt-1498-gls): Modrest Draper Mid-Century Walnut & Glass Dining Table - VGCSDT-1498-GLS | VIGDescription:The Draper Dining Table is the perfect Mid-Century piece for your
   Updated: 2025-11-11T17:23:21Z
@@ -4600,7 +4600,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:28:10Z
   Price: $13,477.99 USD
 - [9189 Dining Table 7 Piece Dining Room Set W-1Ext - 9189Table-7Set | ESF](https://homeeleganceusa.com/products/esf-furniture-9189-dining-table-7-piece-dining-room-set-w-1ext-9189table-7set): ESF Furniture - 9189 Dining Table 7 Piece Dining Room Set w-1ext - 9189TABLE-7SET Features: Set Includes: 9189 Dining Table and 6 Arm Chair 9189 Dining
-  Updated: 2025-11-11T17:28:11Z
+  Updated: 2025-11-14T14:20:00Z
   Price: $5,275.99 USD
 - [131 Silver Marble 8 Piece Dining Room Set W-1Ext In Silver - 131Diningtabless-8Set | ESF](https://homeeleganceusa.com/products/esf-furniture-131-silver-marble-8-piece-dining-room-set-w-1ext-in-silver-131diningtabless-8set): ESF Furniture - V131 Silver Marble 8 Piece Dining Room Set w-1ext - 131DININGTABLESS-8SET Features: Set Includes: 131 Dining Table, 6 Side Chair and Buffet 131
   Updated: 2025-11-11T17:28:11Z
@@ -4708,7 +4708,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:28:39Z
   Price: $2,295.99 USD
 - [Orion Chest In White - Orionchest | ESF](https://homeeleganceusa.com/products/esf-furniture-orion-chest-in-white-orionchest): ESF FURNITURE - Orion Chest in White - ORIONCHEST Features: Orion Collection Chest White Color Materials: Eco Leather, Special Order Materials, MDF Made in
-  Updated: 2025-11-08T14:10:35Z
+  Updated: 2025-11-14T16:42:35Z
   Price: $2,936.99 USD
 - [Orion Double Dresser in White – ESF](https://homeeleganceusa.com/products/esf-furniture-orion-double-dresser-in-white-orionddresser): The Orion Double Dresser in White features eco-leather & MDF construction, modern style, and spacious storage—Spanish craftsmanship by ESF Furniture.
   Updated: 2025-11-11T17:28:41Z
@@ -6652,7 +6652,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:37:32Z
   Price: $1,864.99 USD
 - [8312 Modern Sectional Sofa With Sliding Seats - 8312 Sectional Right | ESF](https://homeeleganceusa.com/products/esf-furniture-8312-modern-sectional-sofa-with-sliding-seats-8312sectionalright): ESF Furniture - 8312 Modern Sectional Sofa with Sliding Seats - 8312SECTIONALRIGHT Features: 8312 Sectional Sofa Adjustable headrests Five sliding seats Storage
-  Updated: 2025-11-11T17:37:33Z
+  Updated: 2025-11-14T06:33:32Z
   Price: $6,491.99 USD
 - [3147 Dining Chair (Set Of 4) - 3147Chairww | ESF](https://homeeleganceusa.com/products/esf-furniture-3147-dining-chair-set-of-4-3147chairww): ESF Furniture - 3147 Dining Chair (Set of 4) - 3147CHAIRWW Features: 3147 Dining Chair Set of 4 Made in Italy Stinless steel frame Wooden back Vinyl upholstered
   Updated: 2025-11-11T17:37:35Z
@@ -6865,7 +6865,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-08T14:19:16Z
   Price: $1,106.99 USD
 - [Barcelona 4 Queen Platform With Storage Bedroom Set In Glossy Brown - Barcelonaplatfstorag-4Set | ESF](https://homeeleganceusa.com/products/esf-furniture-barcelona-4-queen-platform-with-storage-bedroom-set-in-glossy-brown-barcelonaplatfstorag-4set): ESF Furniture - Barcelona 4 Queen Platform with Storage Bedroom Set in Glossy Brown - BARCELONAPLATFSTORAG-4SET Features: Set includes Queen Platform with
-  Updated: 2025-11-11T17:38:36Z
+  Updated: 2025-11-14T17:19:11Z
   Price: $7,015.99 USD
 - [Barcelona 5 King Platform With Storage Bedroom Set In Glossy Brown - Barcelonaplatformsks-5Set | ESF](https://homeeleganceusa.com/products/esf-furniture-barcelona-5-king-platform-with-storage-bedroom-set-in-glossy-brown-barcelonaplatformsks-5set): ESF Furniture - Barcelona 5 King Platform with Storage Bedroom Set in Glossy Brown - BARCELONAPLATFORMSKS-5SET Features: Set includes King Platform with Storage
   Updated: 2025-11-11T17:38:37Z
@@ -7993,7 +7993,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:43:40Z
   Price: $11,163.99 USD
 - [Velvet 7 Piece Queen Bedroom Set In Cream - Velvetqb-7Set | ESF](https://homeeleganceusa.com/products/esf-furniture-velvet-7-piece-queen-bedroom-set-in-cream-velvetqb-7set): ESF Furniture - Velvet 7 Piece Queen Bedroom Set in Cream - VELVETQB-7SET Features: Set Includes: Queen Bed, 2 Nightstand, Single Dresser, Mirror, Chest and
-  Updated: 2025-11-11T17:43:42Z
+  Updated: 2025-11-14T16:14:28Z
   Price: $11,836.99 USD
 - [Treviso 6 Door Wardrobe In White - Treviso6Doorw | ESF](https://homeeleganceusa.com/products/esf-furniture-treviso-6-door-wardrobe-in-white-treviso6doorw): ESF Furniture - Treviso 6 Door Wardrobe in White - TREVISO6DOORW Features: Treviso Collection Wardrobe Special Order Only White and Grey Stone Finish Wood
   Updated: 2025-11-11T17:43:42Z
@@ -8554,7 +8554,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:46:28Z
   Price: $3,612.99 USD
 - [Arredoclassic Italy Melodia Nightstand - Melodians | ESF](https://homeeleganceusa.com/products/esf-furniture-arredoclassic-italy-melodia-nightstand-melodians): ESF Furniture - Arredoclassic Italy Melodia Nightstand - MELODIANS Features: Arredoclassic Italy Collection Nightstand Classic Style Some Assembly Required
-  Updated: 2025-11-11T17:46:29Z
+  Updated: 2025-11-14T13:56:17Z
   Price: $2,010.99 USD
 - [Arredoclassic Italy Melodia 3 Doors Wardrobe - Melodia3Dw | ESF](https://homeeleganceusa.com/products/esf-furniture-arredoclassic-italy-melodia-3-doors-wardrobe-melodia3dw): ESF Furniture - Arredoclassic Italy Melodia 3 Doors Wardrobe - MELODIA3DW Features: Arredoclassic Italy Collection Wardrobe 3 Doors Classic Style Some Assembly
   Updated: 2025-11-11T17:46:31Z
@@ -9085,7 +9085,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:49:07Z
   Price: $6,149.99 USD
 - [Franco Spain Emporio 6 Piece Queen Bedroom Set - Emporioqbdd-6Set | ESF](https://homeeleganceusa.com/products/esf-furniture-franco-spain-emporio-6-piece-queen-bedroom-set-emporioqbdd-6set): ESF Furniture - Franco Spain Emporio 6 Piece Queen Bedroom Set - EMPORIOQBDD-6SET Features: Set Includes: Queen Bed, 2 Nightstand, Double Dresser, Mirror and
-  Updated: 2025-11-11T17:49:07Z
+  Updated: 2025-11-14T13:02:46Z
   Price: $11,036.99 USD
 - [Franco Spain Emporio King Bed - Emporiobedks | ESF](https://homeeleganceusa.com/products/esf-furniture-franco-spain-emporio-king-bed-emporiobedks): ESF Furniture - Franco Spain Emporio King Bed - EMPORIOBEDKS Features: Franco Spain Collection King Bed Matte White Finish Fabric Material Frame Not Included
   Updated: 2025-11-08T14:28:12Z
@@ -9784,7 +9784,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T17:52:46Z
   Price: $1,264.99 USD
 - [Oxford 3 Piece Queen Bedroom Set - Oxford-Qb-3Set | ESF](https://homeeleganceusa.com/products/esf-furniture-oxford-3-piece-queen-bedroom-set-oxford-qb-3set): ESF Furniture - Oxford 3 Piece Queen Bedroom Set - OXFORD-QB-3SET Features: Set Includes Queen Bed and 2 Nightstands Oxford Collection Queen Bedroom Set Eco
-  Updated: 2025-11-11T17:52:46Z
+  Updated: 2025-11-14T17:59:41Z
   Price: $2,038.99 USD
 - [Oxford Double Dresser And Mirror Set - Oxford-Double Dr+M | ESF](https://homeeleganceusa.com/products/esf-furniture-oxford-double-dresser-and-mirror-set-oxford-double-dr-m): ESF Furniture - Oxford Double Dresser and Mirror Set - OXFORD-DOUBLE DR+M Features: Set Includes Double Dresser and Mirror Oxford Collection Double Dresser Set
   Updated: 2025-11-11T17:52:47Z
@@ -11572,7 +11572,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:02:41Z
   Price: $797.99 USD
 - [Karina Counter Stool Set Of 2 In Black - 789Black-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-karina-counter-stool-set-of-2-in-black-789black-c): Meridian Furniture - Karina Counter Stool Set of 2 in Black - 789Black-CYield to your contemporary side with this Karina Black Velvet Stool. This modern stool
-  Updated: 2025-11-11T18:02:42Z
+  Updated: 2025-11-14T07:45:46Z
   Price: $797.99 USD
 - [Karina Counter Stool Set Of 2 In Grey - 789Grey-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-karina-counter-stool-set-of-2-in-grey-789grey-c): Meridian Furniture - Karina Counter Stool Set of 2 in Grey - 789Grey-CYield to your contemporary side with this Karina Grey Velvet Stool. This modern stool is
   Updated: 2025-11-11T18:02:43Z
@@ -11608,7 +11608,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:02:54Z
   Price: $784.99 USD
 - [Caleb Faux Leather Counter Stool -Set Of 2 - 970White-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-caleb-faux-leather-counter-stool-set-of-2-970white-c): Meridian Furniture - Caleb Faux Leather Counter Stool -Set of 2 - 970White-CAdd the Caleb white faux leather dining chair to your dining room for the ultimate
-  Updated: 2025-11-11T18:02:55Z
+  Updated: 2025-11-14T12:27:22Z
   Price: $831.99 USD
 - [Paris Counter Stool In Navy (Set Of 2) - 787Navy-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-paris-counter-stool-in-navy-set-of-2-787navy-c): Meridian Furniture - Paris Counter Stool in Navy (Set of 2) - 787Navy-CRev up the wow factor in your space with this Paris Navy Velvet Counter Height Stool. The
   Updated: 2025-11-11T18:02:55Z
@@ -12001,7 +12001,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:05:04Z
   Price: $952.99 USD
 - [Armani Velvet Accent Chair In Grey - 597Grey | Meridian](https://homeeleganceusa.com/products/meridian-furniture-armani-velvet-accent-chair-in-grey-597grey): Meridian Furniture - Armani Velvet Accent Chair in Grey - 597GreyLiven up your living quarters with this unique Armani Grey Velvet Accent Chair from Meridian
-  Updated: 2025-11-11T18:05:06Z
+  Updated: 2025-11-14T15:45:27Z
   Price: $952.99 USD
 - [Jazzy 3 Piece Occasional Table Set In Silver - 282-3Set | Meridian](https://homeeleganceusa.com/products/meridian-furniture-jazzy-3-piece-occasional-table-set-in-silver-282-3set): Meridian Furniture - Jazzy 3 Piece Occasional Table Set in Silver - 282-3SETElegant and eye-catching, the stunning silver Jazzy End Table from Meridian
   Updated: 2025-11-11T18:05:07Z
@@ -13306,7 +13306,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:12:19Z
   Price: $5,170.99 USD
 - [Riley 3 Piece Living Room Set In Grey - 610Grey-S-3Set | Meridian](https://homeeleganceusa.com/products/meridian-furniture-riley-3-piece-living-room-set-in-grey-610grey-s-3set): Meridian Furniture - Riley 3 Piece Living Room Set in Grey - 610Grey-S-3SETShowstopper in the living room, den, or great room, adding a casual yet modern vibe
-  Updated: 2025-11-11T18:12:20Z
+  Updated: 2025-11-14T17:49:49Z
   Price: $5,170.99 USD
 - [Riley Velvet Chair In Black - 610Black-C | Meridian](https://homeeleganceusa.com/products/meridian-furniture-riley-velvet-chair-in-black-610black-c): Meridian Furniture - Riley Velvet Chair in Black - 610Black-CGo for easy, breezy style with this lovely Riley velvet chair. The sleek black velvet is a
   Updated: 2025-11-11T18:12:20Z
@@ -13771,7 +13771,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:14:53Z
   Price: $1,843.99 USD
 - [Vector Velvet King Bed In Green - Vectorgreen-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-vector-velvet-king-bed-in-green-vectorgreen-k): Meridian Furniture - Vector Velvet King Bed in Green - VectorGreen-K Take your bedroom space to a whole new modern level with this Vector grey velvet queen bed.
-  Updated: 2025-11-11T18:14:55Z
+  Updated: 2025-11-14T18:57:47Z
   Price: $1,705.99 USD
 - [Vector Velvet King Bed In Navy - Vectornavy-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-vector-velvet-king-bed-in-navy-vectornavy-k): Meridian Furniture - Vector Velvet King Bed in Navy - VectorNavy-K Take your bedroom space to a whole new modern level with this Vector grey velvet queen bed.
   Updated: 2025-11-11T18:14:56Z
@@ -13897,7 +13897,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:15:35Z
   Price: $1,843.99 USD
 - [Rowan Velvet King Bed In Grey - Rowangrey-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-rowan-velvet-king-bed-in-grey-rowangrey-k): Meridian Furniture - Rowan Velvet King Bed in Grey - RowanGrey-K Ensure that every night's sleep is a dreamy escape with this Rowan Grey Velvet Bed as the
-  Updated: 2025-11-11T18:15:37Z
+  Updated: 2025-11-14T14:52:48Z
   Price: $1,843.99 USD
 - [Rowan Velvet Queen Bed In Grey - Rowangrey-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-rowan-velvet-queen-bed-in-grey-rowangrey-q): Meridian Furniture - Rowan Velvet Queen Bed in Grey - RowanGrey-Q Ensure that every night's sleep is a dreamy escape with this Rowan Grey Velvet Bed as the
   Updated: 2025-11-13T08:14:25Z
@@ -13924,7 +13924,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:15:45Z
   Price: $1,430.99 USD
 - [Rainbow Velvet Queen Bed In Pink - Rainbowpink-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-rainbow-velvet-queen-bed-in-pink-rainbowpink-q): Meridian Furniture - Rainbow Velvet Queen Bed in Pink - RainbowPink-Q Thereâ€™s a lot to fall in love with when it comes to this Rainbow queen-size velvet bed.
-  Updated: 2025-11-11T18:15:46Z
+  Updated: 2025-11-14T05:46:15Z
   Price: $1,258.99 USD
 - [Rainbow Velvet King Bed In Cream - Rainbowcream-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-rainbow-velvet-king-bed-in-cream-rainbowcream-k): Meridian Furniture - Rainbow Velvet King Bed in Cream - RainbowCream-K Thereâ€™s a lot to fall in love with when it comes to this Rainbow queen-size velvet bed.
   Updated: 2025-11-11T18:15:47Z
@@ -14764,7 +14764,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:20:24Z
   Price: $1,191.99 USD
 - [Elly Velvet Queen Bed In Pink - Ellypink-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-elly-velvet-queen-bed-in-pink-ellypink-q): Meridian Furniture - Elly Velvet Queen Bed in Pink - EllyPink-Q Crawl into this cozy Elly pink velvet king size bed for a restful night's sleep. The deep button
-  Updated: 2025-11-11T18:20:26Z
+  Updated: 2025-11-14T07:47:28Z
   Price: $1,075.99 USD
 - [Elly Velvet King Bed In Pink - Ellypink-K | Meridian](https://homeeleganceusa.com/products/meridian-furniture-elly-velvet-king-bed-in-pink-ellypink-k): Meridian Furniture - Elly Velvet King Bed in Pink - EllyPink-K Crawl into this cozy Elly pink velvet king size bed for a restful night's sleep. The deep button
   Updated: 2025-11-11T18:20:26Z
@@ -14797,7 +14797,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:20:36Z
   Price: $1,615.99 USD
 - [Dolce Velvet Queen Bed In Green - Dolcegreen-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-dolce-velvet-queen-bed-in-green-dolcegreen-q): Meridian Furniture - Dolce Velvet Queen Bed in Green - DolceGreen-Q Ensconce yourself in regal modernity in this Dolce Navy Velvet King Bed. A super tall
-  Updated: 2025-11-11T18:20:36Z
+  Updated: 2025-11-14T04:23:04Z
   Price: $1,477.99 USD
 - [Dolce Velvet Queen Bed In Black - Dolceblack-Q | Meridian](https://homeeleganceusa.com/products/meridian-furniture-dolce-velvet-queen-bed-in-black-dolceblack-q): Meridian Furniture - Dolce Velvet Queen Bed in Black - DolceBlack-Q Ensconce yourself in regal modernity in this Dolce Navy Velvet King Bed. A super tall
   Updated: 2025-11-11T18:20:37Z
@@ -15463,7 +15463,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:24:20Z
   Price: $1,095.99 USD
 - [Kyoto Queen Bed In White - 19974-Q | J&M](https://homeeleganceusa.com/products/j-m-furniture-kyoto-queen-bed-in-white-19974-q): J&amp;M Furniture - Kyoto Queen Bed in White - 19974-Q   The Kyoto Bedroom Collection by J&amp;M is the newest addition to our Modern Bedroom Category. The Kyoto bedroom features a white high gloss lacquer finish, accented by polished gold. The Headboard features an LED light strip that runs parallel to the gold accent bisecting the headboard horizontally. All case good drawers feature our premium soft close mechanism. The sleek and modern design of the Kyoto collection is sure to complement and accentuate any contemporary home.    Features:  Kyoto Collection Queen Bed  White and Titanium Gold Finish  Country of Manufacture: China  Modern Style Some Assembly Required  Dimensions: 46"H x 61"W x 81"D
-  Updated: 2025-11-11T18:24:20Z
+  Updated: 2025-11-14T07:30:22Z
   Price: $990.99 USD
 - [Kyoto Nightstand In White - 19974-Ns | J&M](https://homeeleganceusa.com/products/j-m-furniture-kyoto-nightstand-in-white-19974-ns): J&amp;M Furniture - Kyoto Nightstand in White - 19974-NS   The Kyoto Bedroom Collection by J&amp;M is the newest addition to our Modern Bedroom Category. The Kyoto bedroom features a white high gloss lacquer finish, accented by polished gold. The Headboard features an LED light strip that runs parallel to the gold accent bisecting the headboard horizontally. All case good drawers feature our premium soft close mechanism. The sleek and modern design of the Kyoto collection is sure to complement and accentuate any contemporary home.    Features:  Kyoto Collection Nightstand  White and Titanium Gold Finish  Country of Manufacture: China  Modern Style Some Assembly Required  Dimensions: 19"H x 24"W 16"D
   Updated: 2025-11-11T18:24:22Z
@@ -16906,7 +16906,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:32:57Z
   Price: $3,356.99 USD
 - [Naples Twin Bed In White Lacquer - 17686-T | J&M](https://homeeleganceusa.com/products/j-m-furniture-naples-twin-bed-in-white-lacquer-17686-t): J&M Furniture - Naples Twin Bed in White Lacquer - 17686-T Features: Naples Collection Twin Bed White Lacquer Finish Crafted from Solid Wood Full Extension
-  Updated: 2025-11-11T18:32:58Z
+  Updated: 2025-11-14T13:31:11Z
   Price: $977.99 USD
 - [Naples White Lacquer 3 Piece Twin Size Platform Bedroom Set - 17686-T-3Set | J&M](https://homeeleganceusa.com/products/j-m-furniture-naples-white-lacquer-3-piece-twin-size-platform-bedroom-set-17686-t-3set): J&M Furniture - Naples White Lacquer 3 Piece Twin Size Platform Bedroom Set - 17686-T-3SET Features: Set Includes Twin Size Platform Bed and 2 Nightstands
   Updated: 2025-11-11T18:32:59Z
@@ -17173,7 +17173,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:34:26Z
   Price: $1,272.99 USD
 - [Lagos Natural Light Grey Lacquer Dresser - 17867250-D | J&M](https://homeeleganceusa.com/products/j-m-furniture-lagos-natural-light-grey-lacquer-dresser-17867250-d): J&M Furniture - Lagos Natural Light Grey Lacquer Dresser - 17867250-D Features: Lagos Collection Dresser Crafted from Hand-Selected Woods and Wenge Wood Veneers
-  Updated: 2025-11-11T18:34:27Z
+  Updated: 2025-11-14T13:09:10Z
   Price: $1,717.99 USD
 - [Knotch Chest - 1754426-C | J&M](https://homeeleganceusa.com/products/j-m-furniture-knotch-chest-1754426-c): J&M Furniture - Knotch Chest - 1754426-C Features: Knotch Collection Chest Espresso Finish 5 Drawer Chest Perfectly compliment bedrooms of any size and color
   Updated: 2025-11-11T18:34:28Z
@@ -17251,7 +17251,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:34:52Z
   Price: $1,461.99 USD
 - [Elm Wall Unit - 1770311 | J&M](https://homeeleganceusa.com/products/j-m-furniture-elm-wall-unit-1770311): J&M Furniture - Elm Wall Unit - 1770311 Features: Elm Collection Wall Unit Luxurious Walnut Matte Finish Thick Resilient Tempered Glass Chair feature Gently
-  Updated: 2025-11-11T18:34:53Z
+  Updated: 2025-11-14T15:26:52Z
   Price: $1,307.99 USD
 - [Elm Walnut Matte Buffet - 18031 | J&M](https://homeeleganceusa.com/products/j-m-furniture-elm-walnut-matte-buffet-18031): J&M Furniture - Elm Walnut Matte Buffet - 18031 Features: Elm Collection Buffet Luxurious Walnut Matte Finish Thick Resilient Tempered Glass Chair feature
   Updated: 2025-11-11T18:34:54Z
@@ -17704,7 +17704,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:37:41Z
   Price: $1,294.99 USD
 - [Oratorio Cherry 7 Piece Extendable Trestle Dining Table Set 5562-96-7 | Homelegance](https://homeeleganceusa.com/products/homelegance-oratorio-cherry-7-piece-extendable-trestle-dining-table-set-5562-96-7): Homelegance - Oratorio Cherry 7 Piece Extendable Trestle Dining Table Set - 5562-96-7 The modern traditional styling of the Oratorio Collection paired with two
-  Updated: 2025-11-11T18:37:42Z
+  Updated: 2025-11-14T13:11:15Z
   Price: $2,666.99 USD
 - [Yannis Dining Table 5503 | Homelegance](https://homeeleganceusa.com/products/homelegance-yannis-dining-table-5503): Homelegance - Yannis Dining Table - 5503 Sleek contemporary styling provides the platform from which you will create your casual dining space in the Yannis
   Updated: 2025-11-11T18:37:43Z
@@ -18055,13 +18055,13 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:39:38Z
   Price: $2,486.99 USD
 - [Aveline Eastern King Bed In Silver 1428Svk-1Ek* | Homelegance](https://homeeleganceusa.com/products/homelegance-aveline-eastern-king-bed-in-silver-1428svk-1ek): Homelegance - Aveline Eastern King Bed in Silver - 1428SVK-1EK* Elegant touches abound with the design of the Aveline Collection. Alligator embossed veneer
-  Updated: 2025-11-11T18:39:39Z
+  Updated: 2025-11-14T10:15:59Z
   Price: $788.99 USD
 - [Aveline Queen Bed In Silver 1428Sv-1* | Homelegance](https://homeeleganceusa.com/products/homelegance-aveline-queen-bed-in-silver-1428sv-1): Homelegance - Aveline Queen Bed in Silver - 1428SV-1* Elegant touches abound with the design of the Aveline Collection. Alligator embossed veneer covers the
   Updated: 2025-11-11T18:39:40Z
   Price: $660.99 USD
 - [Aveline 5 Piece Queen Bedroom Set In Silver 1428Sv-1*5 | Homelegance](https://homeeleganceusa.com/products/homelegance-aveline-5-piece-queen-bedroom-set-in-silver-1428sv-1-5): Homelegance - Aveline 5 Piece Queen Bedroom Set in Silver - 1428SV-1*5 Elegant touches abound with the design of the Aveline Collection. Alligator embossed
-  Updated: 2025-11-11T18:39:41Z
+  Updated: 2025-11-14T17:04:22Z
   Price: $2,845.99 USD
 - [Aveline 6 Piece Queen Bedroom Set In Silver 1428Sv-1*6 | Homelegance](https://homeeleganceusa.com/products/homelegance-aveline-6-piece-queen-bedroom-set-in-silver-1428sv-1-6): Homelegance - Aveline 6 Piece Queen Bedroom Set in Silver - 1428SV-1*6 Elegant touches abound with the design of the Aveline Collection. Alligator embossed
   Updated: 2025-11-11T18:39:42Z
@@ -18748,7 +18748,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:43:29Z
   Price: $2,338.99 USD
 - [Lana 6 Piece Eastern King Bedroom Set In White 1556Wk-1Ek-6Set | Homelegance](https://homeeleganceusa.com/products/homelegance-lana-6-piece-eastern-king-bedroom-set-in-white-1556wk-1ek-6set): Homelegance - Lana 6 Piece Eastern King Bedroom Set in White - 1556WK-1EK-6SETThe unexpected intersection of traditional design and glamorous styling creates a
-  Updated: 2025-11-11T18:43:30Z
+  Updated: 2025-11-14T14:12:32Z
   Price: $2,974.99 USD
 - [Lana Chest In White 1556W-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-lana-chest-in-white-1556w-9): Homelegance - Lana Chest in White - 1556W-9The unexpected intersection of traditional design and glamorous styling creates the dynamic look of the Lana
   Updated: 2025-11-11T18:43:31Z
@@ -19228,7 +19228,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:46:09Z
   Price: $3,960.99 USD
 - [Platina 3-Piece Sectional With Pull-Out Bed And Storage Ottoman In Gray 8277Ngy* | Homelegance](https://homeeleganceusa.com/products/homelegance-platina-3-piece-sectional-with-pull-out-bed-and-storage-ottoman-in-gray-8277ngy): Homelegance - Platina 3-Piece Sectional with Pull-out Bed and Storage Ottoman in Gray - 8277NGY* Features: Set Includes Storage Ottoman, Left Side 2-Seater and
-  Updated: 2025-11-11T18:46:10Z
+  Updated: 2025-11-14T17:15:32Z
   Price: $3,495.99 USD
 - [Boise 3 Piece Double Reclining Living Room Set In Brown 9426-3-2-1 | Homelegance](https://homeeleganceusa.com/products/homelegance-boise-3-piece-double-reclining-living-room-set-in-brown-9426-3-2-1): Homelegance - Boise 3 Piece Double Reclining Living Room Set in Brown - 9426-3-2-1With well-appointed features that create not only a comfortable seating
   Updated: 2025-11-11T18:46:11Z
@@ -19624,7 +19624,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:48:21Z
   Price: $908.99 USD
 - [Brevard 3 Piece Queen Bedroom Set In Light Brown 1584-Q-3Set | Homelegance](https://homeeleganceusa.com/products/homelegance-brevard-3-piece-queen-bedroom-set-in-light-brown-1584-q-3set): Homelegance - Brevard 3 Piece Queen Bedroom Set in Light Brown - 1584-Q-3SETA perfect intersection of rustic and transitional aesthetics, the Brevard
-  Updated: 2025-11-11T18:48:22Z
+  Updated: 2025-11-14T04:00:28Z
   Price: $1,771.99 USD
 - [Arcadia Dresser With Mirror In Weathered Gray 1677-6-Dm | Homelegance](https://homeeleganceusa.com/products/homelegance-arcadia-dresser-with-mirror-in-weathered-gray-1677-6-dm): Homelegance - Arcadia Dresser with Mirror in Weathered Gray - 1677-6-DMDesigned for your transitionally styled bedroom is the Arcadia Collection. The two-tone
   Updated: 2025-11-11T18:48:23Z
@@ -20098,7 +20098,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T18:51:01Z
   Price: $2,853.99 USD
 - [Bevelle 3 Piece Eastern King Bedroom Set In Silver 1958K-1Ek-3Set | Homelegance](https://homeeleganceusa.com/products/homelegance-bevelle-3-piece-eastern-king-bedroom-set-in-silver-1958k-1ek-3set): Homelegance - Bevelle 3 Piece Eastern King Bedroom Set in Silver - 1958K-1EK-3SETModern glamour is exemplified in the design of the Bevelle Collection. Acrylic
-  Updated: 2025-11-11T18:51:02Z
+  Updated: 2025-11-14T10:52:31Z
   Price: $1,602.99 USD
 - [Bevelle 6 Piece Eastern King Bedroom Set In Silver 1958K-1Ek-6Set | Homelegance](https://homeeleganceusa.com/products/homelegance-bevelle-6-piece-eastern-king-bedroom-set-in-silver-1958k-1ek-6set): Homelegance - Bevelle 6 Piece Eastern King Bedroom Set in Silver - 1958K-1EK-6SETModern glamour is exemplified in the design of the Bevelle Collection. Acrylic
   Updated: 2025-11-11T18:51:02Z
@@ -21991,7 +21991,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T19:01:19Z
   Price: $1,234.99 USD
 - [Edina 5 Piece Eastern King Bedroom Set 2145Knp-1Ek-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-edina-5-piece-eastern-king-bedroom-set-2145knp-1ek-5set): Homelegance - Edina 5 Piece Eastern King Bedroom Set - 2145KNP-1EK-5SET your bedroom is the focus of the Edina Collection. The two available finishes -
-  Updated: 2025-11-11T19:01:20Z
+  Updated: 2025-11-14T08:48:57Z
   Price: $1,986.99 USD
 - [Edina 5 Piece Queen Bedroom Set 2145Np-1-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-edina-5-piece-queen-bedroom-set-2145np-1-5set): Homelegance - Edina 5 Piece Queen Bedroom Set - 2145NP-1-5SET your bedroom is the focus of the Edina Collection. The two available finishes - espresso-hinted
   Updated: 2025-11-11T19:01:22Z
@@ -22708,7 +22708,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-11T19:05:19Z
   Price: $4,017.99 USD
 - [Alonza Bright White 5 Piece Eastern King Bedroom Set With Led Lighting 1845Kled-1Ek-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-alonza-bright-white-5-piece-eastern-king-bedroom-set-with-led-lighting-1845kled-1ek-9): Homelegance - Alonza Bright White 5 Piece Eastern King Bedroom Set with LED Lighting - 1845KLED-1EK-9 Adding a bold touch of glamour to your boudoir is the
-  Updated: 2025-11-11T19:05:20Z
+  Updated: 2025-11-14T09:34:10Z
   Price: $4,525.99 USD
 - [Alonza Bright White 6 Piece Eastern King Bedroom Set With Led Lighting 1845Kled-1Ek-6 | Homelegance](https://homeeleganceusa.com/products/homelegance-alonza-bright-white-6-piece-eastern-king-bedroom-set-with-led-lighting-1845kled-1ek-6): Homelegance - Alonza Bright White 6 Piece Eastern King Bedroom Set with LED Lighting - 1845KLED-1EK-6 Adding a bold touch of glamour to your boudoir is the
   Updated: 2025-11-11T19:05:20Z
@@ -24954,7 +24954,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:17:46Z
   Price: $2,120.99 USD
 - [Modern Edge Dining Table | Caracole](https://homeeleganceusa.com/products/caracole-modern-edge-dining-table): Treat yourself to an exceptional dining experience at every meal by incorporating this stunning dining table into your design plan. Its clean, simple lines
-  Updated: 2025-11-11T19:17:47Z
+  Updated: 2025-11-14T11:24:34Z
   Price: $2,832.99 USD
 - [Modern Artisan Remix Rewind Chair | Caracole](https://homeeleganceusa.com/products/caracole-modern-artisan-remix-rewind-chair): When it's time to relax and unwind in undeniable style, this is your chair. Its bold character was inspired by the svelte lines and powerful presence of an
   Updated: 2025-11-11T19:17:49Z
@@ -26172,7 +26172,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:25:29Z
   Price: $2,232.99 USD
 - [Arteriors Salem Floor Lamp | Arteriors](https://homeeleganceusa.com/products/arteriors-salem-floor-lamp): The Arteriors Salem floor lamp, in textured, matte charcoal iron, is designed with a task-lamp profile with an industrial nod. The directional light features an
-  Updated: 2025-11-11T19:25:30Z
+  Updated: 2025-11-14T07:43:06Z
   Price: $1,677.99 USD
 - [Arteriors Rudy Flush Mount | Arteriors](https://homeeleganceusa.com/products/arteriors-rudy-flush-mount): Formed with a machined look, as if turned on a lathe, the Arteriors Rudy flush mount is finished in antique brass steel. The fixture is scaled as an ideal
   Updated: 2025-11-11T19:25:30Z
@@ -26232,7 +26232,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:25:49Z
   Price: $6,651.99 USD
 - [Arteriors Plano Chandelier | Arteriors](https://homeeleganceusa.com/products/arteriors-plano-chandelier): The Arteriors Plano chandelier commands attention without occupying too much visual weight. In a four-bar, h-shaped arm configuration, the piece is designed in
-  Updated: 2025-11-11T19:25:49Z
+  Updated: 2025-11-14T09:40:54Z
   Price: $4,818.99 USD
 - [Arteriors Presley Chandelier | Arteriors](https://homeeleganceusa.com/products/arteriors-presley-chandelier): In an inventive linear composition, the Arteriors Presley is executed in an architectural framework of english bronze steel, which forms a cradle for the
   Updated: 2025-11-11T19:25:50Z
@@ -26577,7 +26577,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:27:47Z
   Price: $1,512.99 USD — $1,708.99 USD
 - [Four Hands Pilo Dining Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-pilo-dining-table): Beautifully shaped with plenty of natural presence, a cylindrical rubberwood base meets a perfectly
-  Updated: 2025-11-11T19:27:48Z
+  Updated: 2025-11-14T11:29:11Z
   Price: $1,952.99 USD
 - [Four Hands Lewis Windsor Chair with Cushion - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-lewis-windsor-chair-with-cushion): Try a cleaner, more contemporary take on the traditional Windsor. A tall, off-white beauty,
   Updated: 2025-11-11T19:27:50Z
@@ -27060,7 +27060,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:31:04Z
   Price: $1,109.99 USD
 - [Four Hands Kinser Sideboard - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-kinser-sideboard): Inspired by European antiques, a solid pine sideboard features an aged finish for a warm, heirloom
-  Updated: 2025-11-11T19:31:05Z
+  Updated: 2025-11-14T11:29:57Z
   Price: $3,377.99 USD
 - [Four Hands Joan Dining Chair - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-joan-dining-chair): Natural ash wood forms a light, Scandinavian-inspired frame for leather seating, spurring an
   Updated: 2025-11-11T19:31:05Z
@@ -27075,7 +27075,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:31:08Z
   Price: $1,693.99 USD
 - [Four Hands Jaylen Nightstand - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-jaylen-nightstand): Made from light-finished oak atop a plinth-style base, dual drawers bring extra storage space to
-  Updated: 2025-11-11T19:31:09Z
+  Updated: 2025-11-14T16:48:09Z
   Price: $1,239.99 USD
 - [Four Hands Helen Counter Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-helen-counter-table): Colors: Bronzed Aluminum, Garnet Marble Materials: Aluminum, Solid Marble Clearance from Floor:
   Updated: 2025-11-11T19:31:11Z
@@ -27888,7 +27888,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-11T19:36:27Z
   Price: $3,507.99 USD
 - [Four Hands Mond Coffee Table - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-mond-coffee-table): Colors: Ebonized Guanacaste, Bleached Guanacaste Materials: Guanacaste Veneer Volume: 28.64 cu ft
-  Updated: 2025-11-11T19:36:28Z
+  Updated: 2025-11-14T14:56:32Z
   Price: $2,859.99 USD
 - [Four Hands Montana Bed - Home Elegance USA](https://homeeleganceusa.com/products/four-hands-montana-bed): Colors: Whitewashed Oak, Altro Snow Materials: Solid Oak, 95% Pl, 5% Pc Does not require a box
   Updated: 2025-11-11T19:36:29Z
