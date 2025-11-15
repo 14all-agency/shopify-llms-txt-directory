@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-11-15T08:44:04.871Z
+- Updated At: 2025-11-15T08:44:51.729Z
 
 ## Products
 
