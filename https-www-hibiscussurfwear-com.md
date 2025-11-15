@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-11-12T00:01:08.125Z
+- Updated At: 2025-11-15T00:00:43.749Z
 
 ## Products
 
@@ -660,7 +660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-64627ed3c3ab2.jpg?v=1688094924
     Price: £37.15 GBP
 - [Rudbeckias - Hibiscus Surfwear - Ethical Yoga Leggings](https://www.hibiscussurfwear.com/products/rudbeckias-hibiscus-surfwear-ethical-yoga-leggings): Rudbeckias - Hibiscus Surfwear - Ethical Yoga Leggings Super soft, stretchy, and comfortable yoga leggings. Order these to make sure your next yoga session is the best one ever! • 82% polyester, 18% spandex • Four-way stretch, which means fabric stretches and recovers on the cross and lengthwise grains. • Made with a smooth, comfortable microfiber yarn • Raised waistband • Precision-cut and hand-sewn after printing This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) HIPS (inches) XS 25 ¼ 35 ⅜ S 26 ¾ 37 M 28 ⅜ 38 ⅝ L 31 ½ 41 ¾ XL 34 ⅝ 44 ⅞
-  Updated: 2025-04-24T15:44:32Z
+  Updated: 2025-11-12T00:18:40Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -6098,7 +6098,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/toddler-staple-tee-white-front-64b25d468ae46.jpg?v=1689410899
     Price: £27.00 GBP
 - [Save the whales - Hibiscus Surfwear - Ethical Youth Short Sleeve T-Shirt](https://www.hibiscussurfwear.com/products/save-the-whales-hibiscus-surfwear-ethical-youth-short-sleeve-t-shirt): Save the whales - Hibiscus Surfwear - Ethical Youth Short Sleeve T-Shirt This is the tee that you've been looking for, and it's bound to become a favorite in any youngster's wardrobe. It's light, soft, and comes with a unique design that stands out from the crowd wherever you go! • 100% combed and ring-spun cotton • Heather colors are 52% combed and ring-spun cotton, 48% polyester • Athletic Heather is 90% combed and ring-spun cotton, 10% polyester • Fabric weight: 4.2 oz/yd² (142 g/m2) • Pre-shrunk fabric • 32 singles • Relaxed unisex fit • Side-seamed construction • Blank product sourced from Nicaragua, the US, Guatemala, or Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (inches) LENGTH (inches) S 15 ¼ 20 ⅞ M 16 ¼ 22 ⅛ L 17 ¼ 23 ⅜ XL 18 ¼ 24 ⅜
-  Updated: 2025-04-24T15:44:50Z
+  Updated: 2025-11-12T06:31:07Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -8566,7 +8566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-beanie-white-front-648b5c4033d69.jpg?v=1686854732
     Price: £35.99 GBP
 - [Le Grand Combin - Hibiscus Surfwear - Ethical Mens Neck Gaiter](https://www.hibiscussurfwear.com/products/le-grand-combin-hibiscus-surfwear-ethical-mens-neck-gaiter): Le Grand Combin - Hibiscus Surfwear - Ethical Mens Neck Gaiter This neck gaiter is a versatile accessory that can be used as a face covering, headband, bandana, wristband, and neck warmer. Upgrade your accessory game and find a matching face shield for each of your outfits. • 95% polyester, 5% elastane (fabric composition may vary by 1%) • Fabric weight: 6.19 oz/yd² (210 g/m²), weight may vary by 5% • Breathable fabric • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Washable and reusable • One size • Printed on one side, reverse side is left blank • Blank product components in the US and Mexico sourced from the US or China • Blank product components in the EU sourced from Lithuania This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:44:59Z
+  Updated: 2025-11-13T06:19:36Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -11517,7 +11517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/laptop-sleeve-15-front-6497c06f99c4d.jpg?v=1687666811
     Price: £37.99 GBP
 - [Richmond to Waterloo I - Hibiscus Surfwear - Ethical Laptop Case](https://www.hibiscussurfwear.com/products/richmond-to-waterloo-i-hibiscus-surfwear-ethical-laptop-case): Richmond to Waterloo I - Hibiscus Surfwear - Ethical Laptop Case Protect your laptop in style—get this snug, lightweight laptop sleeve! To prevent any scratch marks, it contains an internal padded zipper and its interior is fully lined with faux fur. What’s more, it’s made from a material that’s resistant to water, oil, and heat, making sure your laptop sleeve looks as sharp as you any day of the week! • 100% neoprene • 13″ sleeve weight: 6.49 oz (220 g) • 15″ sleeve weight: 8.8 oz (250 g) • Lightweight and resistant to water, oil, and heat • Snug fit • Faux fur interior lining • Top-loading zippered enclosure with two sliders • Padded zipper binding • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) HEIGHT (inches) 13″ 13 ½ 10 ½ ⅝ 15″ 14 ¾ 11 ¼ ⅝
-  Updated: 2025-04-24T15:45:15Z
+  Updated: 2025-11-12T03:24:23Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -12115,7 +12115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-youth-swimsuit-white-front-6498c2d97a7ea.jpg?v=1687732959
     Price: £41.99 GBP
 - [Sunflower positivity - Hibiscus Surfwear - Ethical Kids Rash Guard](https://www.hibiscussurfwear.com/products/sunflower-positivity-hibiscus-surfwear-ethical-kids-rash-guard): Sunflower positivity - Hibiscus Surfwear - Ethical Kids Rash Guard Protect the little ones from the elements with this colorful kids rash guard. Its sun-protective fabric and long body and sleeves make it perfect for running around on the beach, or just being active indoors. • 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • UPF 50+ • Fitted design • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Comfortable longer body and sleeves • Flat seam and coverstitch • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) CHEST (inches) WAIST (inches) 2T 36 ¼ 20 ½ 20 ⅛ 3T 38 ⅝ 21 ¼ 20 ⅝ 4T 41 22 21 ¼ 5T 43 ¼ 22 ⅞ 21 ⅝ 6 45 ⅝ 23 ⅝ 22 6X 48 24 ¾ 22 ½ 7 50 ⅜ 26 22 ⅞
-  Updated: 2025-04-24T15:45:21Z
+  Updated: 2025-11-14T10:43:47Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -13345,7 +13345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-tri-blend-t-shirt-aqua-triblend-front-6499ea8ab526c.jpg?v=1688402005
     Price: £42.43 GBP
 - [Costa Rica - Hibiscus Surfwear - Ethical Womens tri-blend t-shirt](https://www.hibiscussurfwear.com/products/costa-rica-hibiscus-surfwear-ethical-womens-tri-blend-t-shirt): Costa Rica - Hibiscus Surfwear - Ethical Womens tri-blend t-shirt The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 27 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2025-04-24T15:45:24Z
+  Updated: 2025-11-13T05:53:16Z
   Vendor: Hibiscus Surfwear
   Product Type: T-shirts
   Availability: Available
@@ -17194,7 +17194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-tri-blend-t-shirt-purple-triblend-front-6663300b62f29.jpg?v=1717777416
     Price: £40.45 GBP
 - [Falling in the deep - Hibiscus Surfwear - Ethical Large Beach Bag](https://www.hibiscussurfwear.com/products/falling-in-the-deep-hibiscus-surfwear-ethical-large-beach-bag): Falling in the deep - Hibiscus Surfwear - Ethical Large Beach Bag A trendy beach bag, where you can put everything that matters when hitting those warm beaches. • 100% polyester • Maximum weight limit – 44lbs (20kg) • Large inside pocket • Comfortable cotton webbing handles • Vibrant colors that won't fade • Available in one size • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:32Z
+  Updated: 2025-11-13T05:27:34Z
   Vendor: Hibiscus Surfwear
   Product Type: Beach bags
   Availability: Available
@@ -18627,7 +18627,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/standard-postcard-4x6-front-6336be6ea30b0.jpg?v=1720369200
   Price: £5.00 GBP
 - [Heart centre - Georgina Zafeiri - Ethical Matte Postcard](https://www.hibiscussurfwear.com/products/heart-centre-gee-tee-ethical-matte-postcard): These postcards are made from thick high-quality matte paper, so they serve as a great addition to a gift or just a thoughtful written note to a friend. • Cardboard paper • Paper weight: 7.67–10.32 oz/yd² (260–350 g/m²) • Size: 4″ × 6″ (101 × 152 mm) • Paper thickness: 0.013″ (0.34 mm) • Coated outer surface • Blank product materials sourced from Sweden, US, Brazil, or China
-  Updated: 2025-04-24T15:45:36Z
+  Updated: 2025-11-13T15:50:33Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18684,7 +18684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-6336ae5f0e0f4.jpg?v=1720369238
     Price: £8.43 GBP
 - [Rural landscape - Georgina Zafeiri - Ethical Greeting card](https://www.hibiscussurfwear.com/products/rural-landscape-gee-tee-ethical-greeting-card): Expressing your sentiments or planning an event can be hard. Take some of the weight off of your shoulders by getting yourself an authentic greeting card! • Material: 14.77 oz/yd² (350 g/m²) paperboard • Sizes: Small: 4″ × 6″ (101 × 152 mm) Medium: 5″ × 7″ (127 × 178 mm) Large: 5.83″ × 8.27″ (148 × 210 mm) • Product weight: Small: 0.39 oz (11 g) Medium: 0.6 oz (17 g) Large: 0.85 oz (24 g) • Toner-based printing • Vibrant colors • Comes with a complimentary envelope
-  Updated: 2025-04-24T15:45:37Z
+  Updated: 2025-11-12T09:47:51Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18738,7 +18738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-6336a9860530a.jpg?v=1720369345
     Price: £8.43 GBP
 - [Tranquility - Georgina Zafeiri - Ethical Greeting card](https://www.hibiscussurfwear.com/products/tranquility-gee-tee-ethical-greeting-card): Expressing your sentiments or planning an event can be hard. Take some of the weight off of your shoulders by getting yourself an authentic greeting card! • Material: 14.77 oz/yd² (350 g/m²) paperboard • Sizes: Small: 4″ × 6″ (101 × 152 mm) Medium: 5″ × 7″ (127 × 178 mm) Large: 5.83″ × 8.27″ (148 × 210 mm) • Product weight: Small: 0.39 oz (11 g) Medium: 0.6 oz (17 g) Large: 0.85 oz (24 g) • Toner-based printing • Vibrant colors • Comes with a complimentary envelope
-  Updated: 2025-04-24T15:45:37Z
+  Updated: 2025-11-14T08:08:41Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -21524,7 +21524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-staple-t-shirt-white-front-66d059a5460cd.jpg?v=1724930503
     Price: £38.45 GBP
 - [Pink bloom - Hibiscus Surfwear - Ethical womens t-shirt](https://www.hibiscussurfwear.com/products/pink-bloom-hibiscus-surfwear-ethical-womens-t-shirt): Pink bloom - Hibiscus Surfwear - Ethical womens t-shirt This t-shirt is everything you've dreamed of and more. It feels soft and lightweight, with the right amount of stretch. It's comfortable and flattering for all. • 100% combed and ring-spun cotton (Heather colors contain polyester) • Fabric weight: 4.2 oz./yd.² (142 g/m²) • Pre-shrunk fabric • Side-seamed construction • Shoulder-to-shoulder taping • Blank product sourced from Nicaragua, Mexico, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Weaving—India, South Korea - Dyeing—El Salvador, California - Manufacturing—Nicaragua, Mexico, Honduras, or the US • Contains 0% recycled polyester • Contains 0% dangerous substancesSize guide LENGTH (inches) WIDTH (inches) CHEST (inches) XS 27 16 ½ 31-34 S 28 18 34-37 M 29 20 38-41 L 30 22 42-45 XL 31 24 46-49 2XL 32 26 50-53 3XL 33 28 54-57 4XL 34 30 58-61 LENGTH (cm) WIDTH (cm) CHEST (cm) XS 68.6 42 78.7-86.4 S 71.1 45.7 86.4-94 M 73.7 50.8 96.5-104.1 L 76.2 55.9 106.7-114.3 XL 78.7 61 116.8-124.5 2XL 81.3 66 127-134.6 3XL 83.8 71.1 137.2-144.8 4XL 86.4 76.2 147.3-155
-  Updated: 2025-10-07T13:44:31Z
+  Updated: 2025-11-12T07:40:51Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -24370,7 +24370,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/IMG_5036.jpg?v=1734086202
   Price: £35.00 GBP
 - [Suffolk Tide](https://www.hibiscussurfwear.com/products/suffolk-tide): Suffolk Tide, woodless pencil drawing on cartridge paper 6B, 29.7 x 21cm, 2024
-  Updated: 2025-04-24T15:45:48Z
+  Updated: 2025-11-13T08:14:26Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -25056,7 +25056,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/sublimated-towel-white-30x60-beach-67a737de8eba8.jpg?v=1739012111
   Price: £43.00 GBP
 - [Rio de Janeiro - Hibiscus Surfwear - Ethical Utility crossbody bag](https://www.hibiscussurfwear.com/products/rio-de-janaeiro-hibiscus-surfwear-ethical-utility-crossbody-bag): Rio de Janeiro - Hibiscus Surfwear - Ethical Utility crossbody bagThis bag is sturdy, stylish, and ready to go wherever you do. With adjustable straps and two spacious pockets, it’s the ultimate accessory for hiking, festivals, and everyday use.• 100% polyester• Fabric weight: 9 oz./yd.² (305 g/m²)• Bag size: 5.7″ × 7.7″ × 2″ (14.5 cm × 19.5 cm × 5 cm)• Capacity: 0.37 gallons (1.4 l)• Water-resistant and durable• Sturdy fabric with fusible backing to add firmness• Inside and outside pockets• Adjustable strap• Two-way zipper• Blank product components sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:51Z
+  Updated: 2025-11-14T13:44:45Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
