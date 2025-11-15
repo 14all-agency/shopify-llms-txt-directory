@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-14T00:00:26.664Z
+- Updated At: 2025-11-15T00:00:59.507Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-11-04T12:55:28Z
+  Updated: 2025-11-14T11:14:58Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2903836891585.jpg?v=1759343558
     Price: $15.69 USD
 - [V Back Scrunch Butt Leggings for Women | Seamless Gym & Yoga](https://fusionvibestore.com/products/v-back-scrunch-butt-workout-leggings-women-seamless-gym-yoga-leggings-high-waist): Temu platform sheet currently supports: USPS UPS FEDEX UNI Butt lift Leggings: sexy booty leggings for women butt lift, stretchy hips lifting leggings, push up your bum into a juicepeach, leg bottom leggings show your curve gorgeously. High Quality & Garment Care: 90%Polyamide 10%Elastane. Power stretch fit, Naturally breathable, Non see-through. It's made of high quality materials, Great for for your workout gym and casual. Machine wash cold, Do not bleach Stretchy Seamless Leggings: The fabric stretches in all directions, allowing you to move freely without any restrictions. From training to yoga, they are squat proof and truly stay in place during intense workout positions. Moisture wicking, Soft, Smooth, Low-friction and Long-lasting comfortable performance. High Waist: These yoga pants designed with high waistband and tummy control, contour your curves and give you a streamlined look. It offers all the support and compression for your tummy and butt to get back in its original shape. Ultra-supportive but less rubbing and chafing. Applicable Occasions:This leg workout pants can make you perfect for yoga, fitness, dancing, running, pilates, hiking and other sports. You can also use it in your daily life such as work, school, shopping, traveling, party and so on.
-  Updated: 2025-10-06T09:56:39Z
+  Updated: 2025-11-14T10:26:06Z
   Vendor: FusionVibestore
   Product Type: CLOTHING
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-13T19:46:46Z
+  Updated: 2025-11-14T22:47:00Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -2840,6 +2840,108 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/af36928e-2389-4c85-9c40-c1de02c1516f.jpg?v=1761762441
     Price: $19.30 USD
+- [Irregular Long Dress With Belt Fashion And Elegant Button Lapel Long-sleeved Shirt Dresses Daily Office Commuting Clothing For Women](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Skirt type: asymmetric skirt Color: black, khaki, white, navy blue Waist type: high waist Skirt length: mid skirt Popular elements: folding and splicing Style: Basic Fabric name: Polyester Sleeve type: regular sleeve Sleeve length: long sleeve Skirt Category: Dress Style: Elegant style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
+  Updated: 2025-11-14T18:32:26Z
+  Vendor: FusionVibeStore™
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9fb3d174-4beb-4947-855a-878faa05b24a.jpg?v=1763141061
+  - [Black / 2XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114604231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Black / L](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114636999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Black / M](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114669767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Black / S](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114702535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Black / XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114735303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Black / XS](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114768071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d1dd4a3c-577c-4225-a2a1-719307131af6.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / 2XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114800839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / L](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114833607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / M](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114866375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / S](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114899143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114931911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Khaki / XS](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114964679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/312fd0f4-2a55-4003-b83f-c72f4c131b0d.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / 2XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780114997447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / L](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115030215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / M](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115062983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / S](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115095751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115128519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [Navy Blue / XS](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115161287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94368e1f-0beb-4641-8e37-6ad09c82bc4f.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / 2XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115194055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / L](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115226823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / M](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115259591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / S](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115292359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / XL](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115325127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
+  - [White / XS](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women?variant=45780115357895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
+    Price: $32.65 USD
 
 ## Collections
 
@@ -2862,8 +2964,8 @@
   Updated: 2025-10-29T17:11:35Z
   Total Products: 0
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-10-29T18:03:01Z
-  Total Products: 3
+  Updated: 2025-11-14T17:24:34Z
+  Total Products: 4
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
   Updated: 2025-10-29T17:30:04Z
   Total Products: 0
