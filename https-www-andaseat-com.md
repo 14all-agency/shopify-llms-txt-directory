@@ -6,12 +6,12 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2022-06-28T09:54:48Z
 - Contact Email: sales-support@andaseat.com
-- Updated At: 2025-11-14T02:29:17.896Z
+- Updated At: 2025-11-15T00:01:04.226Z
 
 ## Products
 
 - [AndaSeat Kaiser 3 Series Premium Gaming Chair](https://www.andaseat.com/products/andaseat-kaiser-3-series-premium-gaming-chair): AndaSeat Kaiser 3 Series Premium Gaming Chair is exceptional design, utilizing high-quality PVC Leather and linen fabric materials. It boasts built-in lumbar support and a movable magnetic neck pillow, guaranteeing unmatched comfort and support. Upgrade your gaming setup with the AndaSeat Kaiser 3 and conquer your opponents in style.
-  Updated: 2025-11-14T01:17:34Z
+  Updated: 2025-11-14T23:14:11Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -344,7 +344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/Kaiser_4_gaming_chair_Robin_Egg_Blue.webp?v=1735719058
     Price: $529.00 USD
 - [AndaSeat X-Air Series Mesh Office Gaming Chair](https://www.andaseat.com/products/andaseat-x-air-series-mesh-chair): Discover breathable comfort with AndaSeat X-Air Series mesh gaming chairs, featuring the X-Air Pro and X-Air models. Enjoy an all-mesh design, high-back support, adjustable 3D headrest, 4D & 5D armrests, and heavy-duty tilt mechanisms. Perfect for home or office. Shop now!
-  Updated: 2025-11-13T22:52:28Z
+  Updated: 2025-11-14T09:26:03Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -387,7 +387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/andaseat-kasier-3-series-gaming-chair-carbon-black-ign.webp?v=1757903020
     Price: $449.00 USD
 - [AndaSeat Novis Series Best Budget Ergonomic Gaming Chair](https://www.andaseat.com/products/andaseat-novis-series-best-budget-ergonomic-gaming-chair): Upgrade your gaming with the AndaSeat Novis Series, the best budget ergonomic gaming chair under $250. Available in L and XL sizes, it’s equally perfect for big and tall gamers - and great for bulk office, school, or gaming room setups. Enjoy instant back support, adjustable armrests, plush cushion, and more. Choose from premium leather or breathable linen fabric. Play longer, feel better, and save more.
-  Updated: 2025-11-13T18:57:38Z
+  Updated: 2025-11-14T18:45:00Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/AndaSeat-novis-series-gaming-chair-lumbar-pillow-xl.webp?v=1753684139
     Price: $39.00 USD
 - [AndaSeat Novis Series Comfy Pillows Bundle](https://www.andaseat.com/products/andaseat-novis-series-comfy-pillows-bundle): Exclusively for AndaSeat Novis Series gaming chairs, this comfy pillows bundle includes a memory foam head and lumbar pillow with soft-touch flannel. Enhance your ergonomic support at a discounted price. Shop now!
-  Updated: 2025-11-13T18:58:18Z
+  Updated: 2025-11-14T18:45:47Z
   Vendor: AndaSeat
   Product Type: Chair Accessories
   Availability: Available
@@ -493,7 +493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/AndaSeat-new-kaiser-4-series-gaming-chair-elegant-black-45.webp?v=1748690959
     Price: $529.00 USD
 - [AndaSeat Kaiser 4 6D Armrest Gaming Chair](https://www.andaseat.com/products/andaseat-kaiser-4-6d-armrest-gaming-chair): Discover the upgraded AndaSeat Kaiser 4 ergonomic gaming chair, featuring a 24° pop-out lumbar system, 6D adjustable armrests, stain-resistant sustainable leather or breathable linen fabric, a magnetic head pillow, vibrant color options, and more.
-  Updated: 2025-11-14T01:22:25Z
+  Updated: 2025-11-14T21:28:27Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -587,7 +587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/AndaSeat-new-kaiser-4-series-gaming-chair-ash-gray-45.webp?v=1755758690
     Price: $529.00 USD
 - [AndaSeat Kaiser 3E Series Ergonomic Office Gaming Chair](https://www.andaseat.com/products/andaseat-kaiser-3e-series-ergonomic-office-gaming-chair): Buy AndaSeat Kaiser 3E Series Ergonomic Office Gaming Chair – premium comfort at better value. Enjoy natural back support, 4D adjustable armrests, a wide cold-cure foam seat, and a durable base, all at an affordable price. Ideal for gaming, office work, and study.
-  Updated: 2025-11-14T01:21:11Z
+  Updated: 2025-11-14T23:00:07Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -641,7 +641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0581/8872/6331/files/andaseat-kaiser-3E-gaming-chair-ash-gray-45_-xl.webp?v=1759114374
     Price: $389.00 USD
 - [Shipping Protection](https://www.andaseat.com/products/shipping-protection): Add xCotton Shipping Protection at checkout to protect your package against damage, loss and theft. Visit sp.xcottons.com/parcel#/more to learn more.
-  Updated: 2025-11-08T14:42:09Z
+  Updated: 2025-11-14T09:44:27Z
   Vendor: xcotton
   Product Type: shipping-protection
   Availability: Available
@@ -953,7 +953,7 @@
     Availability: Available
     Price: $399.00 USD
 - [AndaSeat NRG Kaiser 4 6D Armrest Gaming Chair](https://www.andaseat.com/products/andaseat-nrg-kaiser-4-6d-armrest-gaming-chair): Discover the upgraded AndaSeat Kaiser 4 ergonomic gaming chair, featuring a 24° pop-out lumbar system, 6D adjustable armrests, stain-resistant sustainable leather or breathable linen fabric, a magnetic head pillow, vibrant color options, and more.
-  Updated: 2025-11-13T23:44:38Z
+  Updated: 2025-11-14T02:36:03Z
   Vendor: AndaSeat
   Product Type: Chairs
   Availability: Available
@@ -1302,7 +1302,7 @@
   Updated: 2025-09-18T06:36:05Z
   Total Products: 0
 - [2022 New Series](https://www.andaseat.com/collections/2022-new-series)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 11
 - [Collabs Edition](https://www.andaseat.com/collections/collabs-edition)
   Updated: 2025-09-18T06:36:05Z
@@ -1317,16 +1317,16 @@
   Updated: 2025-09-18T06:36:05Z
   Total Products: 3
 - [Recommend Collection](https://www.andaseat.com/collections/recommend-collection)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 10
 - [AndaSeat Best Gaming Chairs, Office Gaming Chairs for Sale](https://www.andaseat.com/collections/chairs): Experience next-level comfort and support with AndaSeat collection of gaming chairs,  including the Kaiser, Novis, Phantom, X-Air and IP Edition series. Explore a range of ergonomic designs, premium materials, and adjustable features to enhance your gaming sessions. Elevate your gameplay and immerse yourself in ultimate comfort with our selection of high-quality gaming chairs. Shop now and revolutionize your gaming experience!
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 72
 - [Special Offer Sale](https://www.andaseat.com/collections/special-offer-sale)
   Updated: 2025-11-03T12:19:42Z
   Total Products: 3
 - [Shop By Price](https://www.andaseat.com/collections/shop-by-price)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 17
 - [Shop By Fabric](https://www.andaseat.com/collections/shop-by-fabric)
   Updated: 2025-09-18T06:36:05Z
@@ -1350,10 +1350,10 @@
   Updated: 2025-09-18T06:36:06Z
   Total Products: 3
 - [Recommend](https://www.andaseat.com/collections/prime-day-recommend): Don't miss out on AndaSeat Prime Day! Save up to $150 on high-quality gaming and office chairs. Upgrade your comfort and style with ergonomic designs and premium materials. Limited-time offer, so grab your savings now!
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 3
 - [BEST SELLER](https://www.andaseat.com/collections/best-seller)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 4
 - [AndaSeat Hack Black Friday](https://www.andaseat.com/collections/andaseat-hack-black-friday)
   Updated: 2025-11-03T12:19:42Z
@@ -1374,16 +1374,16 @@
   Updated: 2025-11-03T12:19:42Z
   Total Products: 8
 - [test](https://www.andaseat.com/collections/test)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 8
 - [AndaSeat Gaming Chair Sale](https://www.andaseat.com/collections/promotions): Discover the best Gaming Chair Sale at AndaSeat! Enjoy ergonomic design, premium materials, and unbeatable comfort tailored for gamers. Upgrade your setup with our top-rated chairs - designed to boost your performance and style. Don’t miss out on exclusive gaming chair deals and elevate your gaming experience today!
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 60
 - [Clearance up to $190 off](https://www.andaseat.com/collections/clearance-up-to-190-off)
   Updated: 2025-09-18T06:36:06Z
   Total Products: 4
 - [All Gaming Chairs](https://www.andaseat.com/collections/gaming-chairs): Discover the best gaming chairs with the AndaSeat All Gaming Chairs collection. Designed for maximum comfort and support, our chairs are crafted with premium materials and ergonomic features. Perfect for long gaming or work sessions, find your ideal chair and elevate your experience to the next level.
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 58
 - [Gaming Chairs - Kaiser 3 Series](https://www.andaseat.com/collections/kaiser-3-series-1): The AndaSeat Kaiser 3 Series is a top-rated big and tall gaming chair line for 2025, built with wide seat bases, magnetic accessories, and full-body ergonomic support for gaming or long office hours. Explore the series and experience comfort built for you.
   Updated: 2025-11-01T06:27:04Z
@@ -1401,22 +1401,22 @@
   Updated: 2025-11-12T12:21:09Z
   Total Products: 4
 - [AndaSeat Gaming Chairs](https://www.andaseat.com/collections/andaseat-gaming-chairs)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 10
 - [Wukong Giveaway Product](https://www.andaseat.com/collections/wukong-giveaway-product)
   Updated: 2025-11-12T12:21:09Z
   Total Products: 32
 - [Mesh Gaming Chairs - AndaSeat X-Air Series](https://www.andaseat.com/collections/x-air-series): Looking for a gaming office mesh chair? Explore the AndaSeat X-Air Series - a collection of breathable mesh chairs designed for all-day comfort and ergonomic support. Available in a range of colors, each model offers adjustable features to suit different setups, whether for gaming, work, or both.
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 4
 - [BF Lightning Deal Product](https://www.andaseat.com/collections/bf-lightning-deal-product)
   Updated: 2025-02-13T02:42:03Z
   Total Products: 4
 - [主SPU](https://www.andaseat.com/collections/测试-不可上线公布)
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 10
 - [Gaming Chairs - AndaSeat Novis Series](https://www.andaseat.com/collections/novis-series): Upgrade your workspace with the AndaSeat Novis Series - our most affordable ergonomic gaming chair line, ideal for office setups, school classrooms, gaming cafés, and bulk chair orders. Available in L and XL sizes with 2 color options, Novis offers comfort, durability, and wholesale pricing for businesses and dealers.
-  Updated: 2025-11-13T12:22:50Z
+  Updated: 2025-11-14T12:19:14Z
   Total Products: 5
 - [Gaming Chairs - Kaiser Series In Stock](https://www.andaseat.com/collections/kaiser-series-in-stock): Buy in-stock AndaSeat Kaiser gaming chairs, ready to ship fast! Choose from Kaiser 4, Kaiser 3, and Kaiser 3 Pro, featuring lumbar support, 4D/5D armrests, magnetic head pillow, and more. Available in L and XL sizes — shop now for premium comfort and style!
   Updated: 2025-11-01T06:40:08Z
@@ -2144,6 +2144,8 @@
   Updated: 2025-11-11T03:27:41Z
 - [Swym Registry Find](https://www.andaseat.com/pages/swym-registry-find)
   Updated: 2025-11-11T03:27:43Z
+- [Swym Registry Home](https://www.andaseat.com/pages/swym-registry-home)
+  Updated: 2025-11-14T02:35:09Z
 
 ## Policies
 
