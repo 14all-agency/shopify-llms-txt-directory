@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-12T00:01:27.042Z
+- Updated At: 2025-11-15T00:00:50.415Z
 
 ## Products
 
@@ -1395,7 +1395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-02_1.jpg?v=1703830857
     Price: $2,809.00 USD
 - [Natural Salt And Pepper 1.70CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This exquisite Natural Salt And Pepper Hexagon Diamond Art Deco Unique Engagement Ring is sure to make a statement. Handmade with 1.70CT of diamonds, this ring is perfect for a special anniversary or engagement. The unique cut of the diamonds creates an Art Deco style that is sure to stand out.
-  Updated: 2025-10-02T10:30:38Z
+  Updated: 2025-11-13T13:05:00Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -13140,7 +13140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-63_1.jpg?v=1709882164
     Price: $999.00 USD
 - [Moissanite 1.60CT Radiant Diamond Art Nouveau Wedding Ring](https://ibizjewel.com/products/moissanite-1-60ct-radiant-diamond-art-nouveau-wedding-ring): Expertly Crafted With Moissanite, This Art Nouveau Wedding Ring Boasts A Radiant Diamond Cutting, Adding A Touch Of Brilliance To Any Wedding Ensemble. With A 1.60ct Weight, It Offers A High-quality Alternative To Traditional Diamonds, While Staying True To Its Durability And Sparkle. Elevate Your Special Day With This Unique And Stunning Ring.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-11-12T07:59:50Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
@@ -15102,7 +15102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDE-04_10.jpg?v=1709985629
     Price: $1,487.00 USD
 - [Natural Salt And Pepper 1.00CT Round Diamond Stud Earring](https://ibizjewel.com/products/natural-salt-and-pepper-0-80ct-round-diamond-stud-earring-1): Expertly Crafted With A Stunning 0.80ct Round Diamond, These Natural Salt And Pepper Stud Earrings Offer A Touch Of Sophistication To Any Look. With Their Unique And Natural Salt And Pepper Coloring, These Earrings Are Truly One-of-a-kind. Elevate Your Style And Make A Statement With These Beautiful Diamonds.
-  Updated: 2025-10-02T10:29:12Z
+  Updated: 2025-11-12T13:10:42Z
   Vendor: Natural Salt And Pepper Diamond Earring
   Product Type: Natural Salt And Pepper Round Diamond Earring
   Availability: Available
@@ -16794,7 +16794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-20_6.jpg?v=1710395230
     Price: $706.00 USD
 - [Moissanite 0.29CT Round Diamond Avant Garde Gift For Her Band](https://ibizjewel.com/products/moissanite-0-29ct-round-diamond-avant-garde-gift-for-her-band): Elevate Your Jewelry Collection With Our Stunning Moissanite 0.29ct Round Diamond Avant Garde Gift For Her Band. Made With Expertly Crafted Moissanite And A Sparkling Diamond, This Avant-garde Ring Is A Testament To Modern Elegance. Perfect As A Gift For Someone Special, Or As A Stylish Addition To Your Own Collection.
-  Updated: 2025-10-02T10:30:53Z
+  Updated: 2025-11-14T15:37:32Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Round Diamond Band
   Availability: Available
@@ -29498,7 +29498,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-19_8.jpg?v=1711092054
     Price: $759.00 USD
 - [Moissanite 1.0CT Princess Diamond Necklace](https://ibizjewel.com/products/moissanite-1-0ct-princess-diamond-necklace): Introducing Our Moissanite 1.0ct Princess Diamond Necklace, Featuring A Stunning 1.0 Carat Princess Cut Moissanite Stone. Moissanite Is Known For Its Brilliance, Fire, And Durability, Making It A More Affordable Alternative To Diamonds. Add A Touch Of Elegance To Any Outfit With This Beautiful Necklace.
-  Updated: 2025-10-02T10:31:02Z
+  Updated: 2025-11-13T09:06:47Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Princess Diamond Necklace
   Availability: Available
@@ -42560,7 +42560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-213_3.jpg?v=1715946652
     Price: $939.00 USD
 - [Moissanite 3.52 CT Marquise Diamond Victorian Anniversary Ring](https://ibizjewel.com/products/moissanite-3-52-ct-marquise-diamond-victorian-anniversary-ring): The Moissanite 3.52 Ct Marquise Diamond Victorian Anniversary Ring Is A Stunning Piece Of Jewelry That Boasts A Unique Marquise Shape And Sparkling 3.52 Ct Moissanite Diamond. This Ring Is Perfect For Anniversaries Or Any Special Occasion, Offering Timeless Elegance And Sophistication. Made With High-quality Materials, This Ring Is Sure To Be Treasured For Years To Come.
-  Updated: 2025-10-02T10:30:09Z
+  Updated: 2025-11-13T04:48:34Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Marquise Diamond Ring
   Availability: Available
@@ -44646,6 +44646,10 @@
     Updated: 2025-11-10T03:32:42Z
     Author: Heris K.
     Tags: diamonds, environmentally friendly diamonds, ethical jewelry, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, sustainable rings, unique engagement rings
+  - [The Unique Charm of Salt and Pepper Diamond Rings Explained](https://ibizjewel.com/blogs/news/the-unique-charm-of-salt-and-pepper-diamond-rings-explained): The Unique Charm of Salt and Pepper Diamond Rings Explained
+    Updated: 2025-11-12T02:42:26Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly jewelry options, engagement rings, ethical diamond rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, unique rings
 
 ## Store Pages
 
