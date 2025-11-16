@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-11-14T00:01:00.667Z
+- Updated At: 2025-11-16T00:00:44.716Z
 
 ## Products
 
@@ -1901,7 +1901,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF2021-2-800x800.jpg?v=1756868006
   Price: $30.99 USD
 - [Funky Guitars Boxer](https://www.unusualbabeundercover.com/products/funky-guitars-boxer): Easy Fit Elastic Waist Boxer Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:41Z
+  Updated: 2025-11-14T15:43:04Z
   Vendor: Unusual Babe Undercover
   Product Type: Boxers
   Availability: Available
