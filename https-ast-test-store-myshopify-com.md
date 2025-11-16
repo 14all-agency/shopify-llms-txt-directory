@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-05T15:01:33Z
 - Contact Email: ashok@astconsulting.in
-- Updated At: 2025-11-12T00:00:23.670Z
+- Updated At: 2025-11-16T00:00:43.616Z
 
 ## Products
 
@@ -112,7 +112,7 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
   Image: https://cdn.shopify.com/s/files/1/0930/1796/4858/files/Main.jpg?v=1741186945
   Price: ₹885.95 INR
 - [All Mountain Snowboard](https://ast-test-store.myshopify.com/products/the-collection-snowboard-oxygen): Carve up the whole mountain with ease. This all mountain snowboard lets you own any terrain. Ride fresh powder, hardpack, and everything in between. Its design gives you top control and response. You get the edge hold you need for icy slopes. Plus, enjoy float in deep snow. This board is built for speed and stability. It lets you push your limits. Feel the pop and power on every turn. Make this winter your best one yet. Get your all mountain snowboard today!
-  Updated: 2025-10-17T04:18:00Z
+  Updated: 2025-11-14T09:32:47Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
@@ -145,8 +145,8 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
   Product Type: snowboard
   Availability: Available
   Price: ₹749.95 INR
-- [9-Compartment Portion Plates](https://ast-test-store.myshopify.com/products/9-compartment-disposable-plate-13-inch): Master Meal Prep with 9-Compartment Portion Plates Struggling with portion control or meal planning? These 9-compartment plates simplify your routine, perfect for busy parents, event hosts, and health-conscious individuals. Busy Parents: Pre-portion meals for kids for stress-free mealtimes. Event Hosts: Create impressive buffet displays effortlessly. Health-Conscious: Track macros and manage calorie intake effectively. Ideal for BBQs, picnics, and everyday use, these plates help you maintain a balanced diet without the hassle. Enjoy perfectly portioned meals every time!
-  Updated: 2025-10-17T18:09:39Z
+- [Portion Control Plate](https://ast-test-store.myshopify.com/products/9-compartment-disposable-plate-13-inch): Effortless Meal Prep with 9-Compartment Portion Plates Simplify meal planning, control portions, and create buffet displays. These 9-compartment plates offer a solution for busy individuals, parents, and those focused on healthy eating. Reduce mealtime stress with perfectly portioned servings. For Busy Parents: Pre-portion children's meals for quick, easy, and balanced dinners. For Event Hosts: Design visually appealing buffet spreads with organized food sections. For Health-Conscious Individuals: Manage calorie intake and track macros with ease. Ideal for BBQs, picnics, or everyday use, these divided dinner plates are perfect for portion control and maintaining a balanced diet. Say goodbye to guesswork! Enjoy perfectly portioned meals. These disposable plates are a game changer!
+  Updated: 2025-11-14T23:40:38Z
   Vendor: AST Test Store
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@ The result? More fun on the mountain. Own the snow. This winter, treat yourself.
   Updated: 2025-09-01T19:35:04Z
   Total Products: 1
 - [Automated Collection](https://ast-test-store.myshopify.com/collections/automated-collection)
-  Updated: 2025-10-17T11:22:24Z
+  Updated: 2025-11-14T09:59:51Z
   Total Products: 10
 - [Hydrogen](https://ast-test-store.myshopify.com/collections/hydrogen)
   Updated: 2025-10-16T16:17:56Z
