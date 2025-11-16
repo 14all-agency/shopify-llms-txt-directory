@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-15T00:01:07.235Z
+- Updated At: 2025-11-16T00:00:31.728Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -1184,7 +1184,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/IMG_20200716_140554-PhotoRoom_17.jpg?v=1739737792
     Price: £18.00 GBP
 - [Libra Zodiac Bracelet - Balance & Harmony for Libras](https://crystalshealing.co.uk/products/libra-zodiac-bracelet): Celebrate your Libra spirit with the Libra Zodiac Bracelet, designed to enhance harmony, inner peace, and a connection to your star sign.
-  Updated: 2025-10-23T15:01:09Z
+  Updated: 2025-11-15T16:58:04Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -1913,7 +1913,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/DIGITALGIFTCARD_26.jpg?v=1739738441
   Price: £29.00 GBP
 - [Aquarius Zodiac Bracelet – Creativity, Intuition & Courage](https://crystalshealing.co.uk/products/aquarius-zodiac-bracelet): Boost creativity, intuition, and balance with the Aquarius Zodiac Bracelet. A thoughtful gift that aligns with her energy and inspires daily harmony.
-  Updated: 2025-11-14T06:18:50Z
+  Updated: 2025-11-15T16:58:12Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4594,7 +4594,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_49.webp?v=1749660969
   Price: £14.80 GBP
 - [Chakra Crystals Set – Healing, Strength & Grounding](https://crystalshealing.co.uk/products/chakra-crystals-set-healing-strength-grounding): Balance your energy and align your chakras with this beautifully curated Chakra Crystals Set – Healing, Strength & Grounding. Featuring 7 natural stones, each crystal corresponds to one of the body’s main chakras and has been carefully selected for its energetic and healing properties. This chakra crystals set is ideal for meditation, energy work, Reiki, spiritual rituals, or as a thoughtful gift for someone exploring inner strength, clarity, and grounding. Included Crystals: Clear Quartz (Crown Chakra): The “master healer,” amplifies energy and intention. Enhances the properties of surrounding crystals. Amethyst (Third Eye Chakra): Supports intuition, calmness, and spiritual growth. A highly protective and cleansing crystal. Sodalite (Throat Chakra): Encourages clarity, self-expression, and emotional balance. Promotes truth and calm communication. Green Aventurine (Heart Chakra): Known as the “Stone of Opportunity.” Encourages love, optimism, and emotional recovery. Tiger’s Eye (Solar Plexus Chakra): Increases willpower, confidence, and clarity of thought. Helps in grounding and protection. Carnelian (Sacral Chakra): Boosts creativity, passion, and energy flow. Ideal for motivation and overcoming fear. Black Obsidian (Root Chakra): A powerful shield against negativity. Grounds your energy and clears emotional blockages. These are 100% natural stones – please note that color, shape, and size may vary slightly due to their organic origin. Minor imperfections are part of their natural beauty and uniqueness. The set comes in a royal blue velvet pouch, perfect for storing your crystals and taking them with you wherever you go. ✅ 7 tumbled chakra stones (approx. 2–3cm each)✅ Natural, un-dyed, and energetically cleansed✅ Includes velvet pouch in royal blue✅ Great for meditation, Reiki, grounding, or gifting
-  Updated: 2025-10-23T15:16:32Z
+  Updated: 2025-11-15T16:59:04Z
   Vendor: Crystals Healing
   Product Type: Chakra Set
   Availability: Available
@@ -4703,7 +4703,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_12.webp?v=1750351504
     Price: £22.10 GBP
 - [Selenite Charging Plate – Golden Chakra Energy](https://crystalshealing.co.uk/products/selenite-charging-plate): Invite harmony, clarity, and renewal into your sacred space with this exquisite Selenite Charging Plate. Carved from pure selenite and adorned with a radiant golden Tree of Life and seven chakra symbols, this unique plate is designed to elevate your spiritual practice and infuse your crystals with high-vibrational energy. With a refined size of 6.3 cm in diameter and 0.8 cm thick, it is perfect for cleansing and recharging your favorite gemstones, bracelets, and necklaces. Simply place your items on the plate to dissolve stagnant energies and restore their natural brilliance. Selenite is celebrated for its profound cleansing and amplifying properties. The golden Tree of Life symbolizes interconnectedness and growth, while the seven golden chakras align your energetic centers, supporting balance and inner peace. Let this Selenite Charging Plate become an essential part of your daily rituals - whether for meditation, Reiki, or as a beautiful reminder of your connection to higher energies. Key Benefits: Crafted from genuine selenite for pure energy cleansing Fully golden engraved Tree of Life and chakra symbols Clears negative vibrations and recharges crystals Supports emotional balance and spiritual alignment Adds a luminous, meaningful touch to any altar or home Embrace the transformative power of selenite and nurture your intentions with this timeless piece of spiritual art.
-  Updated: 2025-10-23T14:59:21Z
+  Updated: 2025-11-15T16:58:14Z
   Vendor: Crystals Healing
   Product Type: Carved Figurines
   Availability: Available
