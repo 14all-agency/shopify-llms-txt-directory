@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2025-11-03T22:54:10Z
-- Updated At: 2025-11-09T00:01:08.920Z
+- Updated At: 2025-11-16T00:00:41.960Z
 
 ## Products
 
@@ -166,7 +166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0983/3460/5680/files/striped-alpaca-throw-2.jpg?v=1762212504
   Price: $298.00 USD
 - [KAMALA Recycled Feminine Bomber Jacket](https://helping-market.myshopify.com/products/kamala-recycled-feminine-bomber-jacket): The 'Kamala' jacket features a feminine military-style bomber silhouette with a ribbed waist detail. Crafted from quick-dry, breathable recycled plastic fabric, it offers a liquid-repellent finish. Its slightly oversized cut effortlessly layers over lightweight sweaters and shirts, making it the perfect choice for daily wear or as a stylish travel companion for your next adventure. DETAILS Composition: 100% Repreve's recycled plastic fabric (outer), 100% cotton (inner). Dry clean Zip closure Ribbed waist detail color: sand beige SUSTAINABILITY - Made from REPREVE certified recycled plastic fabric - Sewn by local artisans in Java & Bali
-  Updated: 2025-11-08T14:32:24Z
+  Updated: 2025-11-09T02:48:57Z
   Vendor: DC-BrunnaCo
   Product Type: 
   Availability: Available
@@ -181,7 +181,7 @@
     Availability: Available
     Price: $235.00 USD
 - [On The Go Puffer Convertible Jacket Vest](https://helping-market.myshopify.com/products/on-the-go-puffer-convertible-jacket-vest): This puffer jacket is an all around everyday piece that will transition from cold to warm weather. It is as versatile as it gets. Converting from jacket to vest with an easy zip of a sleeves. Keep warm while exploring outdoor activities in rain or wind thanks to its heat insulation and protection capabilities. Feel secure knowing all pockets come with hidden zippers. Additional inner small zip pocket to store cards, keys, and wallet. Slightly boxy fit with dual side hem cords to adjust your fit. Make each moment effortlessly chic with this boxy fit and semi cropped length, layers never looked so good.
-  Updated: 2025-11-08T14:32:33Z
+  Updated: 2025-11-09T15:00:03Z
   Vendor: DC-Rebody
   Product Type: 
   Availability: Available
