@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-11-14T00:01:11.715Z
+- Updated At: 2025-11-16T00:00:44.269Z
 
 ## Products
 
@@ -433,7 +433,7 @@
   Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/snapback-black-front-6915ba7d7206e.jpg?v=1763031690
   Price: €25.00 EUR
 - [Women’s high top canvas shoes](https://kin-design-france.myshopify.com/products/women-s-high-top-canvas-shoes): Don’t forget to treat your feet with care! The classic, stylish high top canvas shoes will be a great addition to your wardrobe. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Breathable lining, soft insole • Faux leather toe cap • Padded collar, lace-up front • Soles and laces in matching colors • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead, cadmium, phthalates, mercury, phthalates, formaldehyde, bisphenols and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide US WOMEN UK EUROPE JAPAN FOOT LENGTH (cm) OUTSOLE LENGTH (cm) 5 5 2.5 35.5 22 22 24.8 5.5 5.5 3 36 22.5 22.6 24.8 6 6 3.5 36.5 23 22.9 25.4 6.5 6.5 4 37.5 23.5 23.2 26.2 7 7 4.5 38 24 23.5 26.2 7.5 7.5 5 38.5 24.5 24.1 27 8 8 5.5 39 25 24.5 27 8.5 8.5 6 40 25.5 24.8 27.3 9 9 6.5 40.5 26 25.4 28.3 9.5 9.5 7 41 26.5 25.7 28.3 10 10 7.5 42 27 26 29 10.5 10.5 8 42.5 27.5 26.7 29.5 11 11 8.5 43 28 27 29.5 11.5 11.5 9 44 28.5 27.3 30.5 12 12 9.5 44.5 29 28 30.8
-  Updated: 2025-11-13T14:25:03Z
+  Updated: 2025-11-14T01:48:02Z
   Vendor: Kin design France
   Product Type: shoes
   Availability: Available
@@ -498,6 +498,40 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/womens-high-top-canvas-shoes-white-front-6915dd54a46f7.jpg?v=1763040643
     Price: €49.50 EUR
+- [Women's Rash Guard](https://kin-design-france.myshopify.com/products/womens-rash-guard): Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Fitted design • Comfortable longer body and sleeves • Flatseam and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
+  Updated: 2025-11-14T23:32:30Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/Photoroom_20251114_124138.png?v=1763120633
+  - [XS](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325562231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €39.00 EUR
+  - [S](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325594999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €39.00 EUR
+  - [M](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325627767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €39.00 EUR
+  - [L](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325660535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €39.00 EUR
+  - [XL](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325693303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €39.00 EUR
+  - [2XL](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325726071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €40.50 EUR
+  - [3XL](https://kin-design-france.myshopify.com/products/womens-rash-guard?variant=56181325758839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
+    Price: €42.00 EUR
 
 ## Collections
 
@@ -505,8 +539,8 @@
   Updated: 2025-11-13T11:01:31Z
   Total Products: 10
 - [In the mood for clouds](https://kin-design-france.myshopify.com/collections/in-the-mood-for-clouds): In the Moods for Clouds By KIN Design — French creation, ethical and poetic Light as air, soft as a summer breeze, the “In the Moods for Clouds” collection invites you to dream. Imagined by the French designer behind KIN Design, this line of clothing celebrates the beauty of the sky and those fleeting moments when clouds tell their own stories. Each piece is printed on demand, reducing textile waste and embracing a more mindful way of creating. The cloud-inspired prints capture the movement, softness, and ever-changing shapes of the sky, offering silhouettes that are both airy and contemporary. Crafted from recycled and eco-friendly materials, the collection reflects KIN Design’s commitment to sustainable fashion and French craftsmanship. From oversized sweatshirts to minimalist tees and eco-designed tote bags, every item from In the Moods for Clouds is an ode to softness, freedom, and imagination — a little piece of sky you can wear.
-  Updated: 2025-11-13T13:31:40Z
-  Total Products: 11
+  Updated: 2025-11-14T11:32:21Z
+  Total Products: 12
 - [Fly like a Bird](https://kin-design-france.myshopify.com/collections/fly-like-a-bird): 🕊️ Fly Like a Bird – The New Collection by KIN Design Take flight with Fly Like a Bird, the new collection from KIN Design — a poetic blend of freedom, creativity, and conscious design for men, women, and children. Inspired by the lightness of the sky and the beauty of movement, each piece combines comfort and elegance through carefully chosen materials — from organic cotton to recycled polyester and custom-printed fabrics made on demand. Every design is crafted in France with KIN Design’s signature touch: exclusive prints, reversible styles, and a commitment to slow fashion that respects both people and the planet. Whether you’re exploring the city or chasing the wind, Fly Like a Bird invites you to move freely, dress consciously, and express your true colors. ✨ Fly Like a Bird – Sustainable freedom for every generation. ✨
   Updated: 2025-11-13T09:04:16Z
   Total Products: 1
