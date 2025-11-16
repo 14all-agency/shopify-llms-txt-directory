@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-15T00:01:18.935Z
+- Updated At: 2025-11-16T00:00:40.864Z
 
 ## Products
 
@@ -12782,7 +12782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/baf5da1c-c2a6-41ec-872d-7bc6fd6359f0.jpg?v=1757164723
     Price: CHF 20.50 CHF
 - [Super Wide Cat House For Indoor Cats, Amazon Logistics, And Wal Mart Platform](https://cilly.us/products/super-wide-cat-house-for-indoor-cats-amazon-logistics-and-wal-mart-platform): Foldable & Portable – Easy to assemble and store, making it ideal for travel or rearranging at home
-  Updated: 2025-09-29T10:09:30Z
+  Updated: 2025-11-15T05:11:20Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -12845,14 +12845,14 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/339ca32a-60fd-4092-8bf6-551f330aa760.jpg?v=1757166196
   Price: CHF 167.80 CHF
 - [Outsunny Small Walk-in Garden Greenhouse With Steel Frame, Large Roll-up Door And Windows, 200Lx76Wx168Hcm, White](https://cilly.us/products/outsunny-small-walk-in-garden-greenhouse-with-steel-frame-large-roll-up-door-and-windows-200lx76wx168hcm-white): Specification Product Information Item Code:T3398P314086 Product Type :Single Box Product Product Name:Outsunny Small Walk-in Garden Greenhouse with Steel Frame, Large Roll-up Door and Windows, 200Lx76Wx168Hcm, White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):200.00 Assembled Width (cm):76.00 Assembled Height (cm):168.00 Product Weight (kg):3.80 Package Size Length (cm):23.00 Width (cm):10.50 Height (cm):103.00 Weight (kg):4.30 Product Features WALK-IN DESIGN: Easy to enter and leave to access your plants. Easy to set up to grow plants, vegetables, flowers and more. Compact size, suitable for even smaller garden and outdoor areas. PLASTIC COAT: Protects plants from the cold and wind outdoors so they can grow to their full potential. large roll-up door to enter and to let in fresh air when required. Long edges to bury in soil and weight down. STEEL FRAME: A durable core structure, greenhouse stands steady on the ground - four guy ropes and four ground pegs included for extra support. DIMENSIONS: 150-168H x 200L x 76Wcm. Door: 145H x 120Wcm. ASSEMBLY REQUIRED. DO NOT LEAVE UP IN HIGH WINDS AND EXTREME WEATHER.
-  Updated: 2025-11-10T09:08:00Z
+  Updated: 2025-11-15T08:06:25Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5434526b-d3ba-4a39-b967-9e38ff2220ed.jpg?v=1757167288
   Price: CHF 56.30 CHF
 - [Outsunny 4 X 3m Walk-In Tunnel Greenhouse, With Accessories - White](https://cilly.us/products/outsunny-4-x-3m-walk-in-tunnel-greenhouse-with-accessories-white): Specification Product Information Item Code:T3398P314173 Product Type :Single Box Product Product Name:Outsunny 4 x 3(m) Walk-In Tunnel Greenhouse, with Accessories - White Main Color:White Main Material:Steel Product Dimensions Assembled Length (cm):396.00 Assembled Width (cm):300.00 Assembled Height (cm):200.00 Product Weight (kg):23.50 Package Size Length (cm):156.50 Width (cm):35.00 Height (cm):20.00 Weight (kg):26.00 Product Features Extra-supportive steel frame: Galvanised metal for extra strength for a tough core. Comes with 4x sets of 'V' diagonal wall braces, 6x diagonal top braces and 4x reinforcement rods to pin and support structure 4 x 3 m tunnel size: A large and open walk-in polytunnel greenhouse - easy to enter and holds plenty of plants and vegetables. Open design allows you set up exactly how you want Two-layer plastic cover: With a middle reinforcement grid to help prevent tearing. 140 gsm for a protective shell, whilst allowing 85% sunlight through for natural nourishment. 15cm edge to bury into soil Roll-up mesh door and six windows: Easy to access this walk in greenhouse, with the windows bringing in fresh air when needed Accessories included: 4 x ground stakes, 4 x guy ropes, 10 x plant labels and 1 x pair of gloves. Everything you need
-  Updated: 2025-11-10T09:08:00Z
+  Updated: 2025-11-15T08:06:25Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -14753,7 +14753,7 @@
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/5dc794e2-7fb7-4675-bde6-e4b6a1521565.jpg?v=1757274224
   Price: CHF 38.60 CHF
 - [MUlti-Hole Fun Cat Tunnel With Scratching Board And Game Pom Pom Cat Tunnel House, Interactive Cat Scratching House, Self-improvement Drilling Hole Teaser, Must-have For Multi-Cat Families](https://cilly.us/products/multi-hole-fun-cat-tunnel-with-scratching-board-and-game-pom-pom-cat-tunnel-house-interactive-cat-scratching-house-self-improvement-drilling-hole-teaser-must-have-for-multi-cat-families): Large Scratching Area: The PEQULTI Cat Scratcher Tunnel House features an expansive cat scratching board made from durable cardboard, providing your feline friends with ample space to satisfy their natural scratching instincts Creative Tunnel Design: This cat tunnel house with a scratching pad combines a fun, creative tunnel design with a functional scratching surface, making it a perfect hideaway and play area for indoor cats up to 25 lbs Interactive Equipment: Equipped with 2 playful pompoms, this cat scratching house offers interactive entertainment, keeping your cats engaged and active. What's more, there is a paw-shaped peek hole for your cats to play hide and seek in this cat scratcher tunnel Premium and Stable: This material offers both durability and safety, providing a long lifespan for a scratching pad while enabling cats to naturally trim their nails in a safe and effective manner. Additionally, this material can withstand daily use and abuse from active cats, making it a reliable and practical option for pet owners Easy to Assemble: This cat scratching board comes with straightforward instructions, ensuring a hassle-free setup. Enjoy peace of mind with our dedicated customer support, ready to assist with any questions about our item Package Size Length（in）: 39.37 Width（in）: 39.37 Height（in）: 11.81 Weight（pound）: 2.20
-  Updated: 2025-09-19T03:09:16Z
+  Updated: 2025-11-15T06:07:25Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
