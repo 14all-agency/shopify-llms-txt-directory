@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-11-14T00:00:41.266Z
+- Updated At: 2025-11-16T00:00:27.716Z
 
 ## Products
 
@@ -474,7 +474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/4614493F-C6F4-4F06-A81D-B663666740CE.jpg?v=1738687367
   Price: 4,50 € EUR
 - [T Shirt '' La mia faccia parla da sola '' personalizzabile con nome](https://www.amashopstudio.it/products/t-shirt-la-mia-faccia-parla-da-sola-personalizzabile-con-nome): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Lavabile in lavatrice. Colore bianco. Fai un regalo unico ed originale Puoi personalizzare la tua t-shirt aggiungendo nomi, date o frasi.
-  Updated: 2025-09-17T14:59:21Z
+  Updated: 2025-11-14T04:43:24Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -871,7 +871,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/pochette_74e47ce7-c0a9-4795-8328-e0e5f9f1f217.jpg?v=1739641231
   Price: 6,00 € EUR
 - [Pochette 'Cominciamo col sorriso' personalizzabile con nome](https://www.amashopstudio.it/products/pochette-cominciamo-col-sorriso-personalizzabile-con-nome): Elegante, originale questa pochette è davvero un regalo unico ed originale ! Fai un regalo unico . Personalizzata con stampa sublimatica. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care !
-  Updated: 2025-09-17T14:59:26Z
+  Updated: 2025-11-15T03:54:51Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -2828,7 +2828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napoli4scudettomod1principale.jpg?v=1748067360
     Price: 9,00 € EUR
 - [Adesivo Napoli Campioni d'Italia 4° scudetto Mod.2  + 2 adesivi da 10 cm in omaggio](https://www.amashopstudio.it/products/adesivo-napoli-campioni-ditalia-4-scudetto-2-adesivi-da-10-cm-in-omaggio-copia): Mostra il tuo orgoglio per il Napoli calcio con il nostro adesivo 'Anema e core 1926'. Perfetto per decorare auto, laptop o qualsiasi superficie. Acquista ora e rappresenta la tua squadra del cuore!
-  Updated: 2025-09-17T14:59:43Z
+  Updated: 2025-11-14T08:06:25Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
