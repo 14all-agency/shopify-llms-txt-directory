@@ -6,257 +6,257 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-10T00:00:34.421Z
+- Updated At: 2025-11-16T00:58:35.152Z
 
 ## Products
 
 - [Men's Premium Cotton T-Shirt – High-Quality & Comfortable](https://baskandweave.com/products/mens-premium-cotton-t-shirt): Discover our Men's Premium Cotton T-Shirt, crafted from soft, high-quality cotton for comfort and style. Perfect choice for everyday wear.
-  Updated: 2025-10-29T23:03:55Z
+  Updated: 2025-11-11T23:52:49Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Premium_Cotton_T-Shirt.jpg?v=1740267672
+  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Premium_Cotton_T-Shirt.jpg?v=1762905140
   - [XS](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718430458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $45.00 USD
   - [S](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718463226)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $45.00 USD
   - [M](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718495994)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $45.00 USD
   - [L](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718528762)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $45.00 USD
   - [XL](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718561530)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $45.00 USD
   - [2XL](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718594298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $47.00 USD
   - [3XL](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718627066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $49.50 USD
   - [4XL](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718659834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $51.50 USD
   - [5XL](https://baskandweave.com/products/mens-premium-cotton-t-shirt?variant=46992718692602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1739170863
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/mens-premium-cotton-t-shirt-black-front-6771ebffac932.jpg?v=1762905143
     Price: $54.00 USD
 - [Organic Cotton Men's T-Shirt – Sustainable & Eco-Friendly](https://baskandweave.com/products/unisex-organic-cotton-t-shirt): Shop our Organic Cotton Men's T-Shirt, crafted sustainably for comfort and style. Perfect eco-friendly choice for conscious shoppers.
-  Updated: 2025-11-03T15:03:37Z
+  Updated: 2025-11-11T23:56:25Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Organic_Cotton_T-Shirt.jpg?v=1740363186
+  Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/Men_s_Organic_Cotton_T-Shirt.jpg?v=1762905170
   - [Black / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435791098)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $25.50 USD
   - [Black / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435823866)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $25.50 USD
   - [Black / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435856634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $25.50 USD
   - [Black / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435889402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $25.50 USD
   - [Black / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435922170)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $28.50 USD
   - [Black / 3XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435954938)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $31.00 USD
   - [Black / 4XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062435987706)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $33.50 USD
   - [Black / 5XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436020474)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1740363165
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-black-front-678c94883458d.jpg?v=1762905175
     Price: $36.00 USD
   - [French Navy / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436053242)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $25.50 USD
   - [French Navy / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436086010)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $25.50 USD
   - [French Navy / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436118778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $25.50 USD
   - [French Navy / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436151546)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $25.50 USD
   - [French Navy / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436184314)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $28.50 USD
   - [French Navy / 3XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436217082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $31.00 USD
   - [French Navy / 4XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436249850)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $33.50 USD
   - [French Navy / 5XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436282618)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-french-navy-front-678c94883d431.jpg?v=1762905200
     Price: $36.00 USD
   - [Dark Heather Grey / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436315386)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1762905220
     Price: $25.50 USD
   - [Dark Heather Grey / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436348154)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1762905220
     Price: $25.50 USD
   - [Dark Heather Grey / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436380922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1762905220
     Price: $25.50 USD
   - [Dark Heather Grey / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436413690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1762905220
     Price: $25.50 USD
   - [Dark Heather Grey / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436446458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-grey-front-678c94884bee5.jpg?v=1762905220
     Price: $28.50 USD
   - [Burgundy / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436479226)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1762905241
     Price: $25.50 USD
   - [Burgundy / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436511994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1762905241
     Price: $25.50 USD
   - [Burgundy / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436544762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1762905241
     Price: $25.50 USD
   - [Burgundy / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436577530)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1762905241
     Price: $25.50 USD
   - [Burgundy / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436610298)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-burgundy-front-678c94886621b.jpg?v=1762905241
     Price: $28.50 USD
   - [Anthracite / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436643066)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1762905260
     Price: $25.50 USD
   - [Anthracite / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436675834)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1762905260
     Price: $25.50 USD
   - [Anthracite / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436708602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1762905260
     Price: $25.50 USD
   - [Anthracite / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436741370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1762905260
     Price: $25.50 USD
   - [Anthracite / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436774138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-anthracite-front-678c94888a772.jpg?v=1762905260
     Price: $28.50 USD
   - [Red / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436806906)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1762905278
     Price: $25.50 USD
   - [Red / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436839674)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1762905278
     Price: $25.50 USD
   - [Red / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436872442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1762905278
     Price: $25.50 USD
   - [Red / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436905210)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1762905278
     Price: $25.50 USD
   - [Red / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436937978)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-red-front-678c9488a9685.jpg?v=1762905278
     Price: $28.50 USD
   - [Stargazer / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062436970746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1762905298
     Price: $25.50 USD
   - [Stargazer / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437003514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1762905298
     Price: $25.50 USD
   - [Stargazer / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437036282)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1762905298
     Price: $25.50 USD
   - [Stargazer / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437069050)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1762905298
     Price: $25.50 USD
   - [Stargazer / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437101818)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-stargazer-front-678c9488d25b0.jpg?v=1762905298
     Price: $28.50 USD
   - [Khaki / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437134586)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1762905317
     Price: $25.50 USD
   - [Khaki / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437167354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1762905317
     Price: $25.50 USD
   - [Khaki / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437200122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1762905317
     Price: $25.50 USD
   - [Khaki / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437232890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1762905317
     Price: $25.50 USD
   - [Khaki / 2XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437265658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-khaki-front-678c948909846.jpg?v=1762905317
     Price: $28.50 USD
   - [Dark Heather Blue / S](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437298426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1762905337
     Price: $25.50 USD
   - [Dark Heather Blue / M](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437331194)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1762905337
     Price: $25.50 USD
   - [Dark Heather Blue / L](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437363962)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1762905337
     Price: $25.50 USD
   - [Dark Heather Blue / XL](https://baskandweave.com/products/unisex-organic-cotton-t-shirt?variant=47062437396730)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1737266560
+    Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-cotton-t-shirt-dark-heather-blue-front-678c948946b85.jpg?v=1762905337
     Price: $25.50 USD
 - [Men's Oversized Faded T-Shirt – Trendy & Comfortable Fit](https://baskandweave.com/products/oversized-faded-t-shirt): Upgrade your wardrobe with our Men's Oversized Faded T-Shirt. Designed for a relaxed fit and stylish faded look—perfect for casual, modern outfits.
   Updated: 2025-10-29T23:03:55Z
@@ -1315,7 +1315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-lightweight-t-shirt-white-front-678e324b96c1c.jpg?v=1737372574
     Price: $36.00 USD
 - [Soft Men's Blend T-Shirt – Premium Tri-Blend Comfort Tee](https://baskandweave.com/products/short-sleeve-t-shirt-1): Enjoy unmatched comfort with our Soft Men's Blend T-Shirt. This premium tri-blend tee offers a perfect mix of softness, stretch, and durability.
-  Updated: 2025-10-29T23:29:58Z
+  Updated: 2025-11-13T06:50:15Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5822,7 +5822,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-denim-t-shirt-denim-blue-front-2-6790f8f073d58.jpg?v=1737554175
     Price: $35.50 USD
 - [Men's Embroidered Polo Shirts – Premium Pique Polo Style](https://baskandweave.com/products/mens-pique-polo-embroidered-shirt): Shop men's embroidered polo shirts crafted from soft pique for a refined, versatile look. Ideal for casual or smart wear with lasting comfort.
-  Updated: 2025-10-31T00:28:38Z
+  Updated: 2025-11-12T04:50:19Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -5995,7 +5995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/faux-leather-bomber-jacket-brown-front-3-67922ec8637af.jpg?v=1737633656
     Price: $102.00 USD
 - [Men's Faux Leather Bomber Jacket – Premium Style Jacket](https://baskandweave.com/products/leather-bomber-mens-jacket): Shop the men's faux leather bomber jacket for a bold and stylish look. Designed for comfort and durability, this premium outerwear completes any modern wardrobe
-  Updated: 2025-10-31T00:32:28Z
+  Updated: 2025-11-12T01:09:07Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
@@ -10759,7 +10759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-fashion-fit-t-shirt-white-front-679578f87feec.jpg?v=1737908263
     Price: $24.00 USD
 - [Women's Softstyle T-Shirt – Basic & Comfortable Everyday Tee](https://baskandweave.com/products/womens-basic-softstyle-t-shirt): Enjoy ultimate comfort with this Women's Softstyle T-Shirt. A perfect basic tee made from soft fabric for everyday wear. Lightweight, stylish, and breathable.
-  Updated: 2025-11-02T23:47:35Z
+  Updated: 2025-11-12T02:49:09Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -17007,7 +17007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-shorts-white-front-67969fcebd71a.jpg?v=1740884399
     Price: $38.00 USD
 - [Women's Cropped Hoodie – Stylish, Cozy & Perfect Fit](https://baskandweave.com/products/womens-cropped-hoodie): Shop the women's cropped hoodie for a stylish and cozy look. Perfect for casual wear, layering, or workouts — designed for comfort and modern style.
-  Updated: 2025-11-04T00:03:58Z
+  Updated: 2025-11-10T15:19:30Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -17029,7 +17029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-black-front-6796a8eb7b89d.jpg?v=1737941384
     Price: $64.00 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600273146)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-black-front-6796a8eb7b89d.jpg?v=1737941384
     Price: $56.50 USD
   - [Military Green / S](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600305914)
@@ -20149,7 +20149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/sports-leggings-white-front-67a69d5c88d91.jpg?v=1738973666
     Price: $61.50 USD
 - [Women's Flare Leggings - All-Over Print Activewear](https://baskandweave.com/products/all-over-print-womens-flare-leggings): Shop women's flare leggings made with soft, stretchy fabric and unique all-over prints. These stylish women’s flare leggings elevate your activewear look.
-  Updated: 2025-11-05T00:27:56Z
+  Updated: 2025-11-11T12:08:47Z
   Vendor: Bask & Weave
   Product Type: Leggings
   Availability: Available
@@ -21835,7 +21835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/baby-short-sleeve-one-piece-white-front-67a6bc16e7b7e.jpg?v=1738980538
     Price: $26.00 USD
 - [Organic Cotton Baby Bodysuit - Eco-Friendly Infant Wear](https://baskandweave.com/products/organic-cotton-baby-bodysuit): Keep your little one cozy in our organic cotton baby bodysuit. Made from soft, sustainable fabric, this eco-friendly essential is gentle on your baby’s skin.
-  Updated: 2025-11-07T23:49:09Z
+  Updated: 2025-11-14T09:23:50Z
   Vendor: Bask & Weave
   Product Type: Baby One Piece
   Availability: Available
@@ -21861,11 +21861,11 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/organic-cotton-baby-bodysuit-organic-natural-front-67a6bc70666db.jpg?v=1738980574
     Price: $27.00 USD
   - [Organic Natural / 12-18m](https://baskandweave.com/products/organic-cotton-baby-bodysuit?variant=47111065731322)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/organic-cotton-baby-bodysuit-organic-natural-front-67a6bc70666db.jpg?v=1738980574
     Price: $27.00 USD
   - [White / 3-6m](https://baskandweave.com/products/organic-cotton-baby-bodysuit?variant=47111065764090)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/organic-cotton-baby-bodysuit-white-front-67a6bc70667dd.jpg?v=1738980574
     Price: $27.00 USD
   - [White / 6-12m](https://baskandweave.com/products/organic-cotton-baby-bodysuit?variant=47111065796858)
