@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-15T00:00:27.526Z
+- Updated At: 2025-11-16T00:00:46.933Z
 
 ## Products
 
@@ -1298,7 +1298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/DJI_AGRAS_T50_Fly_More_Combo_Total.jpg?v=1735558888
   Price: 135.953,30 lei RON
 - [Drona Agricolă - DJI Agras T50 FLY MORE COMBO TOTAL+](https://droneagricole.ro/products/drona-agricola-dji-agras-t50-fly-more-combo-total-1): DJI Agras T50 este o dronă agricolă de ultimă generație, concepută special pentru fermierii și specialiștii în agricultură care își doresc o eficiență sporită în aplicarea tratamentelor fitosanitare și gestionarea culturilor. Această dronă pentru tratamente se remarcă prin tehnologiile sale avansate de pulverizare și cartografiere a terenurilor agricole, oferind o soluție completă pentru fermierii moderni care doresc o productivitate ridicată și o acoperire precisă a suprafețelor cultivate. Cu DJI Agras T50, pulverizarea devine un proces eficient și sigur, datorită capacității sale de încărcare de până la 50 de litri, permițând o acoperire de până la 21 de hectare pe oră. Drona de erbicidat Agras T50 utilizează un sistem de pulverizare avansat și precis, care economisește timp și resurse, maximizând efectul tratamentelor aplicate pe culturi. Dotată cu un radar cu detecție în timp real, această dronă agricolă poate naviga cu ușurință în orice condiții de teren, evitând obstacolele și asigurând un nivel ridicat de siguranță în operare. Funcția de poziționare RTK (Real-Time Kinematic) asigură aplicarea uniformă și controlul optim al distribuției soluțiilor de erbicidat, pesticid și îngrășământ lichid, ceea ce transformă DJI Agras T50 într-un echipament esențial pentru fermieri și agricultori. Această dronă de pulverizare este extrem de versatilă și poate fi configurată rapid pentru a răspunde cerințelor diverselor culturi, făcând-o ideală pentru toate tipurile de ferme. DJI Agras T50 dispune, de asemenea, de un sistem inteligent de management al bateriei și un design modular, ceea ce îi asigură o întreținere ușoară și o durată de utilizare extinsă. Prin funcțiile sale avansate de analiză a datelor și management al terenurilor, drona agricolă Agras T50 contribuie la optimizarea și monitorizarea constantă a culturilor, oferindu-le fermierilor informații esențiale pentru luarea celor mai bune decizii în vederea creșterii randamentului și reducerii costurilor. Experimentează performanța revoluționară și eficiența remarcabilă a DJI Agras T50 – drona pentru tratamente agricole, erbicidat și pulverizare, care îți schimbă complet modul de îngrijire a culturilor și contribuie la dezvoltarea unei agriculturi sustenabile!
-  Updated: 2025-10-09T07:09:01Z
+  Updated: 2025-11-15T09:16:37Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
@@ -1382,7 +1382,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/riagro_piese13.png?v=1744356970
   Price: 1.065,48 lei RON
 - [DJI D-RTK 3](https://droneagricole.ro/products/dji-d-rtk-3): DJI D-RTK 3 – Stație Multifuncțională de Ultimă Generație D-RTK 3 este cea mai avansată stație multifuncțională GNSS de la DJI, concepută pentru a oferi poziționare la nivel de centimetru, fiabilitate extremă și versatilitate în teren. Compatibilă cu cele mai noi drone DJI Enterprise și Agricole, D-RTK 3 susține toate tipurile de misiuni – de la cartografiere aeriană la inspecții industriale sau aplicări agricole de precizie. Precizie, Performanță, Profesionalism Dotată cu antene de înaltă performanță și un modul receptor capabil să proceseze date de la toate sistemele globale de navigație (GPS, GLONASS, BeiDou, Galileo etc.), D-RTK 3 livrează poziționare stabilă și precisă chiar și în medii complexe sau slab acoperite de rețea. Trei Moduri de Utilizare, O Singură Stație Puternică Mod Stație de BazăTransmite corecții RTK în timp real către mai multe drone simultan, fără configurări suplimentare. Cu noua transmisie O4 Enterprise, permite operare sigură pe distanțe de până la 15 km. Mod Stație ReleuExtinde raza de operare până la 25 km, ideal pentru zone cu obstacole sau DJI Dock 3. Optimizează semnalul și conexiunea dintre dronă, controler și stație, oferind o operare continuă în teren dificil. Mod Stație RoverColectează coordonate pentru puncte de control (GCP) și permite lucrări topografice precise. Integrarea cu aplicația DJI Enterprise și DJI Terra asigură un flux de lucru rapid și eficient. Soluție Completă pentru Cartografiere și Poziționare de Precizie Poziționare GNSS la nivel de centimetru, chiar și fără conexiune de rețea (PPP integrat – BeiDou B2b) Compatibilitate extinsă cu drone DJI Enterprise, Agricole și Cinematice Protecție IP67, operare între -30°C și +50°C Suport pentru conversii de coordonate și export PPK în DJI Terra Alimentare flexibilă și opțiune pentru montaj fix (Relay Fixed Deployment) Ideală pentru: Cartografiere profesională Inspecții industriale Misiuni cu DJI Dock 3 Agricultura de precizie Filmări și proiecte cinematografice
-  Updated: 2025-08-20T07:46:38Z
+  Updated: 2025-11-15T23:25:26Z
   Vendor: DJI Agriculture
   Product Type: 
   Availability: Available
