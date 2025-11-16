@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-11-14T00:00:52.717Z
+- Updated At: 2025-11-16T00:00:24.013Z
 
 ## Products
 
@@ -67,11 +67,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single Origin-Brazil](https://orovacoffee.com/products/untitled-8nov_10-13): Brazil Fazenda Pinhal Grown by siblings Pedro and Mariana Gabarra on their award-winning farm in Sul de Minas, Brazil, this coffee reflects their dedication to sustainability and quality. Hand-picked and naturally processed at around 1,000 m above sea level, the Mundo Novo variety delivers a beautifully smooth and balanced cup — sweet, nutty, and easy to enjoy any time of day. Perfect for: ☕ Gentle filter brews ⚙️ Balanced espresso shots 🥛 Smooth and sweet milk drinks
-  Updated: 2025-11-12T17:55:39Z
+  Updated: 2025-11-15T21:05:37Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7f5edd5e-a42e-490f-9b8a-db60192c125d.jpg?v=1762821636
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_80bf1170-a326-4f35-85b4-6f0ebf383141.jpg?v=1763240659
   - [250g](https://orovacoffee.com/products/untitled-8nov_10-13?variant=52138895933783)
     Availability: Available
     Price: £7.99 GBP
@@ -94,11 +94,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Ethiopia limu](https://orovacoffee.com/products/single-origin-ethiopia-limu): Ethiopia Limu Grown at around 1,600 metres in the lush Oromia region of southwest Ethiopia, this coffee showcases why Ethiopian beans are world-renowned. A mix of Eastern African Heirloom varieties from just six small farms, Ethiopia Limu offers a vibrant, wine-like cup that’s fruity, sweet, and full-bodied. It shares the elegance of Yirgacheffe coffees, but with a deeper, richer profile and less floral intensity. Perfect for: ☕ Fruity, expressive filter brews ⚙️ Complex, bright espresso shots
-  Updated: 2025-11-12T12:58:39Z
+  Updated: 2025-11-15T21:11:39Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_dbc8b503-9f83-4d21-a14f-11a9c69951a4.jpg?v=1762821665
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_3d0bca93-7351-44eb-80cb-d84f3d7b32e9.jpg?v=1763240861
   - [250g](https://orovacoffee.com/products/single-origin-ethiopia-limu?variant=52138896163159)
     Availability: Available
     Price: £7.99 GBP
@@ -106,11 +106,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Guatemala](https://orovacoffee.com/products/single-origin-guatemala): Guatemala AntiguaGrown in the volcanic valleys surrounding Antigua, this coffee thrives in rich, fertile soil between 1,600–1,700 metres. The farms are nestled between the three iconic volcanoes — Agua, Fuego, and Acatenango — creating perfect growing conditions for Caturra, Bourbon, and Typica varieties. Guatemala has been producing exceptional coffee since the 1850s, and this cup shows why. Expect a chocolatey sweetness, full body, and a hint of blackberry aroma that makes every brew deeply satisfying. Perfect for:☕ Smooth, balanced espresso🥛 Milk-based drinks like cappuccinos🍃 Relaxing, easy-drinking filter coffee Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T01:56:43Z
+  Updated: 2025-11-14T16:05:03Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_238620f6-b3d5-4ed0-9512-22ca2518bffe.jpg?v=1762821665
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_238620f6-b3d5-4ed0-9512-22ca2518bffe.jpg?v=1763136259
   - [250g](https://orovacoffee.com/products/single-origin-guatemala?variant=52142025900375)
     Availability: Available
     Price: £7.99 GBP
@@ -118,11 +118,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Rwanda](https://orovacoffee.com/products/single-origin-rwanda): Rwanda InzovuThough small in size, Rwanda produces some of the most vibrant and distinctive coffees in Africa. Grown between 1,400 and 1,900 metres, this coffee comes from a network of over 35,000 farmers and 40 washing stations, showcasing the country’s dedication to quality and community. Composed of Bourbon and Typica varieties, and fully washed for clarity, the beans are hulled, graded, and hand-sorted at the Rwanda Trading Company in Kigali. Expect a bright, fruity cup with sweet cranberry notes, balanced acidity, and a smooth finish — roasted lightly to preserve its natural sweetness. Perfect for:☕ Refreshing, fruity filter brews⚙️ Complex and sweet espresso shots Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T01:56:18Z
+  Updated: 2025-11-14T13:56:08Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_440cd1ab-1819-4a5a-9482-07369b91026c.jpg?v=1762821664
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_440cd1ab-1819-4a5a-9482-07369b91026c.jpg?v=1763128559
   - [250g](https://orovacoffee.com/products/single-origin-rwanda?variant=52142130889047)
     Availability: Available
     Price: £7.99 GBP
@@ -130,11 +130,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Indonesia](https://orovacoffee.com/products/single-origin-indonesia): Indonesia Sumatra Lake TobaGrown near Lake Toba — the world’s largest volcanic lake — this coffee captures the rich character of Sumatra’s highlands. Indonesia has been cultivating coffee since the 17th century, now ranking among the world’s top producers thanks to its ideal tropical climate and fertile volcanic soil. Crafted from Catimor and Typica varieties and processed using the traditional Giling Basah (wet-hulled) method, this coffee delivers a deep, full body with low acidity, a spicy aroma, and subtle tobacco-like notes. Perfect for:☕ Strong, rich filter brews⚙️ Intense double espressos🥛 Creamy, milk-based espresso drinks Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T03:56:35Z
+  Updated: 2025-11-14T13:54:58Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_3511cacb-2c12-4fd5-ad1d-240bb3abb939.jpg?v=1762821664
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_3511cacb-2c12-4fd5-ad1d-240bb3abb939.jpg?v=1763128486
   - [250g](https://orovacoffee.com/products/single-origin-indonesia?variant=52142102184279)
     Availability: Available
     Price: £7.99 GBP
@@ -142,11 +142,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Colombia](https://orovacoffee.com/products/single-origin-colombia): Colombia Medellín Grown in the lush mountains surrounding Medellín, this Supremo-grade coffee celebrates Colombia’s long heritage of exceptional coffee growing — a tradition that dates back to the 18th century. Crafted from Caturra, Typica, and Bourbon varieties, these beans are fully washed to bring out a clean, vibrant cup with notes of chocolate and roasted nuts. Expect a smooth, balanced flavour that shines as a filter brew and a sweet, lively espresso with gentle brightness. Perfect for: ☕ Smooth, rounded filter brews ⚙️ Sweet espresso shots 🥛 Small milk-based drinks like cortados or flat whites Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T01:55:28Z
+  Updated: 2025-11-14T13:53:13Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_84f593bb-50ce-4121-8828-2f7fe777de71.jpg?v=1762821664
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_84f593bb-50ce-4121-8828-2f7fe777de71.jpg?v=1763128375
   - [250g](https://orovacoffee.com/products/single-origin-colombia?variant=52141887127895)
     Availability: Available
     Price: £7.99 GBP
@@ -154,11 +154,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Costa Rica](https://orovacoffee.com/products/single-origin-costa-rica): Costa Rica Tarrazú San RafaelHailing from the world-renowned Tarrazú region, known as the “Area of the Saints,” this Strictly Hard Bean coffee grows in volcanic soils under ideal high-altitude conditions. Carefully washed to highlight its clarity, this coffee has a creamy body with notes of plum and chocolate, delivering a smooth, satisfying cup every time. Perfect for:☕ Rich, full-bodied espresso🥛 Flat whites, cappuccinos, and other milk-based drinks🍃 Strong, flavourful filter brews Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T01:55:08Z
+  Updated: 2025-11-15T20:42:21Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7aacbe52-6c34-4550-bbab-0cdaa7405f57.jpg?v=1762821665
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_7aacbe52-6c34-4550-bbab-0cdaa7405f57.jpg?v=1763239341
   - [250g](https://orovacoffee.com/products/single-origin-costa-rica?variant=52150040461655)
     Availability: Available
     Price: £7.99 GBP
@@ -166,11 +166,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin Ethiopia Yirgacheffe](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe): Ethiopia Yirgacheffe Sourced from Negele Gurbitu in the heart of the Yirgacheffe region, this coffee is grown high in the mountains at 1,700–2,000 metres and harvested between October and December. Made from the renowned Heirloom variety and fully washed for clarity, this cup bursts with floral and funky notes — a truly distinctive flavour reminiscent of Earl Grey tea and fine whisky. Perfect for: ☕ Unique, aromatic filter brews ⚙️ Surprising, lively espresso shots Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T03:11:01Z
+  Updated: 2025-11-15T21:10:07Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_feed6230-150d-4139-b438-3eb0f0b62f43.jpg?v=1762821665
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_61fb10f6-2a72-4144-8479-bc5d0dff69d2.jpg?v=1763240306
   - [250g](https://orovacoffee.com/products/single-origin-ethiopia-yirgacheffe?variant=52141980352855)
     Availability: Available
     Price: £7.99 GBP
@@ -178,11 +178,11 @@
     Availability: Available
     Price: £23.99 GBP
 - [Single-origin El Salvador](https://orovacoffee.com/products/single-origin-el-salvador): El Salvador Las IsabellasSourced from the Las Isabellas farm, nestled on the southern face of Cerrón Grande in the Apaneca region of western El Salvador, this coffee is a blend of Pacamara and Bourbon varieties grown at 1,200–1,450 metres. A proud member of the Blue Harvest project and Rainforest Alliance certified, Las Isabellas spans over 175 acres of natural forest, springs, and waterfalls — a true example of sustainable farming. Under the care of José Roberto Santamaría, the farm produces coffees that are sweet, mild, and beautifully balanced, with notes of plum and rich chocolate. Perfect for:☕ Smooth, balanced espresso🥛 Sweet, deep milk-based drinks🍃 Rounded and flavourful filter coffee Please write your preference below: whole beans, ground for pods, ground for espresso, or ground for filter then checkout.
-  Updated: 2025-11-13T01:54:34Z
+  Updated: 2025-11-15T21:11:15Z
   Vendor: Orovacoffee
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_c22eba95-e397-4521-901e-a947bb853c4f.jpg?v=1762821665
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/rn-image_picker_lib_temp_de6bdb0a-ad53-485e-9036-224a16394841.jpg?v=1763240467
   - [250g](https://orovacoffee.com/products/single-origin-el-salvador?variant=52142166507863)
     Availability: Available
     Price: £7.99 GBP
