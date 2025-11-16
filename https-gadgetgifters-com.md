@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-02-12T07:23:58Z
 - Contact Email: bluecubepvtltd@gmail.com
-- Updated At: 2025-11-13T00:00:42.581Z
+- Updated At: 2025-11-16T00:00:42.435Z
 
 ## Products
 
@@ -519,6 +519,9 @@
     Author: Gadgetgifters
   - [Light Up Festive Celebrations: Must-Have Home Gadgets for 2025](https://gadgetgifters.com/blogs/news/light-up-festive-celebrations-must-have-home-gadgets-for-2025): Light Up Festive Celebrations: Must-Have Home Gadgets for 2025
     Updated: 2025-11-10T19:01:20Z
+    Author: Gadgetgifters
+  - [Affordable Tech Gifts for Indian Homes: Cool Tools You Can Buy Online](https://gadgetgifters.com/blogs/news/affordable-tech-gifts-for-indian-homes-cool-tools-you-can-buy-online): Affordable Tech Gifts for Indian Homes: Cool Tools You Can Buy Online
+    Updated: 2025-11-15T19:00:24Z
     Author: Gadgetgifters
 
 ## Store Pages
