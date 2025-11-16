@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-11-14T00:00:41.199Z
+- Updated At: 2025-11-16T00:00:32.995Z
 
 ## Products
 
@@ -13936,6 +13936,10 @@
   - [MAISON MODERNE](https://www.floranza-air.shop/blogs/news/maison-moderne)
     Updated: 2025-10-31T01:03:32Z
     Author: JOSEPH ALTIDOR FRANCOIS
+  - [Les Incontournables de 2025 : Tendances Bien-être et Maison à adopter](https://www.floranza-air.shop/blogs/news/les-incontournables-de-2025-tendances-bien-etre-et-maison): Les Incontournables de 2025 : Tendances Bien-être et Maison à adopter
+    Updated: 2025-11-15T14:00:10Z
+    Author: JOSEPH ALTIDOR FRANCOIS
+    Tags: bien-être, décoration intérieure, durabilité, maison connectée, tendances 2025
 
 ## Store Pages
 
