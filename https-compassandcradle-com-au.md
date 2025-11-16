@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-13T00:00:27.089Z
+- Updated At: 2025-11-16T00:00:23.238Z
 
 ## Products
 
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-12T23:37:06Z
+  Updated: 2025-11-13T21:08:24Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $59.00 AUD
 - [Baby on Board | Car Sticker Decal White](https://compassandcradle.com.au/products/baby-on-board-car-sticker): Enhance road safety with our Baby on Board Car Sticker. Designed by a mum, weather-resistant, and easy to apply. Perfect for new parents. Shop now!
-  Updated: 2025-10-30T11:35:07Z
+  Updated: 2025-11-15T23:20:55Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -120,11 +120,11 @@
   - [Baby on Board (with arms)](https://compassandcradle.com.au/products/baby-on-board-car-sticker?variant=50178263220509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard.jpg?v=1760425816
-    Price: $10.00 AUD
+    Price: $9.00 AUD
   - [Baby on Board](https://compassandcradle.com.au/products/baby-on-board-car-sticker?variant=50178263253277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard2.jpg?v=1760425814
-    Price: $10.00 AUD
+    Price: $9.00 AUD
 - [Beach Bag | Cray Cray on Vacay | Oversized Lobster/Crayfish Beige](https://compassandcradle.com.au/products/beach-bag): Made from durable, easy-to-clean beach bag, it’s built to handle the everyday chaos. With a handy external pocket for quick-grab items and a secure internal pocket, it keeps things organized!
   Updated: 2025-11-10T10:33:53Z
   Vendor: Compass & Cradle
@@ -170,11 +170,11 @@
     Availability: Available
     Price: $223.36 AUD
 - [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-11-12T00:02:57Z
+  Updated: 2025-11-14T12:33:47Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/barefoot_bandit_red_2.jpg?v=1762861717
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/barefootbanditcompassandcradle.jpg?v=1763011321
   - [Brown](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown?variant=50573837304093)
     Availability: Available
     Price: $19.00 AUD
@@ -203,51 +203,120 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/cray2.jpg?v=1762245467
   Price: $19.00 AUD
 - [Mum Cap Blue | Mamacita](https://compassandcradle.com.au/products/mamacita-mum-cap-blue): Mamacita – Mum Cap Turn up the heat with our Mamacita Mum Cap – a fun, effortless essential for all the spicy mamas out there! Made from soft, acid washed cotton in a coastal blue tone, this cap features a bold red chilli design that adds personality and flair to any outfit. Whether you’re at the beach, on school runs, or just soaking up some sunshine, this cap is your go-to for laidback style and comfort. 🌶️ Features: 100% premium acid washed cotton for a breathable, relaxed fit Adjustable strap for all-day comfort “Mamacita” chilli logo Lightweight and durable – perfect for daily wear Designed by Compass & Cradle, inspired by playful coastal living ✨ Style it your way: Pairs perfectly with your favourite casual looks or as a cheeky statement piece. Coming Soon: A matching kids set featuring the same playful chilli logo – perfect for twinning with your little one!
-  Updated: 2025-11-11T19:15:04Z
+  Updated: 2025-11-13T07:20:20Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/mummacita_blue_cap_beach.jpg?v=1762862429
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/mummacita_blue_cap_beach.jpg?v=1763018419
   Price: $19.00 AUD
+- [The New Barefoot Bandit Kids Terry Toweling Shirt  - Coming Soon](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon): Soft and comfy kids terry towelling shirt with our signature Barefoot Bandit logo. Perfect for sunny days and beach adventures. Matching shorts available.
+  Updated: 2025-11-14T18:11:50Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/D39FF86E-7CAB-407D-8370-4AC48B962A35.jpg?v=1763018419
+  - [0-6 Months](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106035485)
+    Availability: Available
+    Price: $35.00 AUD
+  - [6-12 months](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106068253)
+    Availability: Available
+    Price: $35.00 AUD
+  - [12 - 18 months](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106101021)
+    Availability: Available
+    Price: $35.00 AUD
+  - [18-24 months](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106133789)
+    Availability: Available
+    Price: $35.00 AUD
+  - [2](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106166557)
+    Availability: Available
+    Price: $35.00 AUD
+  - [3](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106199325)
+    Availability: Available
+    Price: $35.00 AUD
+  - [4](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106232093)
+    Availability: Available
+    Price: $35.00 AUD
+  - [5](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106264861)
+    Availability: Available
+    Price: $35.00 AUD
+  - [6](https://compassandcradle.com.au/products/the-new-kids-barefoot-bandit-terry-toweling-shirt-coming-soon?variant=50612106297629)
+    Availability: Available
+    Price: $35.00 AUD
+- [New| Barefoot Bandit Kids Terry Towelling Shorts | Coming Soon](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon): Soft and comfy kids terry towelling shorts in Beige. Perfect for sunny days and beach adventures. Matching shirt and cap available.
+  Updated: 2025-11-13T19:46:44Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/80E7F526-3DE4-4676-B536-B6B5B89A0BB7.jpg?v=1763010614
+  - [0-6 Months](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162593053)
+    Availability: Available
+    Price: $25.00 AUD
+  - [6-12 months](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162625821)
+    Availability: Available
+    Price: $25.00 AUD
+  - [12 - 18 months](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162658589)
+    Availability: Available
+    Price: $25.00 AUD
+  - [18-24 months](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162691357)
+    Availability: Available
+    Price: $25.00 AUD
+  - [2](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162724125)
+    Availability: Available
+    Price: $25.00 AUD
+  - [3](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162756893)
+    Availability: Available
+    Price: $25.00 AUD
+  - [4](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162789661)
+    Availability: Available
+    Price: $25.00 AUD
+  - [5](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162822429)
+    Availability: Available
+    Price: $25.00 AUD
+  - [6](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162855197)
+    Availability: Available
+    Price: $25.00 AUD
 
 ## Collections
 
 - [Compass & Cradle Products](https://compassandcradle.com.au/collections/frontpage)
-  Updated: 2025-11-11T08:01:03Z
+  Updated: 2025-11-15T23:20:57Z
   Total Products: 6
 - [Matching Family T-Shirts](https://compassandcradle.com.au/collections/matching-family-t-shirts): Requires Snacks & Snack Provider - Matching Family T-Shirts Fuel every adventure with our Matching Family T-shirts, Required Snacks Kids T-Shirt and Snack Provider Parent Tee—the ultimate set for families who know snacks are non-negotiable. Made from premium, soft cotton with a comfortable unisex fit, these funny parenting t-shirts are perfect for playdates, park hangs, road trips, and everyday chaos. Whether your little one is declaring their snack needs or you’re proudly wearing your badge as the official snack provider, these matching family tees bring humour and heart to parenting life. Designed in Australia, our mum life clothing and parent and child matching outfits make unforgettable gifts for new mums, dads, and snack-loving kids. Shop now for the perfect Matching Family T-shirts.
   Updated: 2025-11-10T11:15:35Z
   Total Products: 2
 - [Cray Cray on Vacation Collection | Holiday Apparel](https://compassandcradle.com.au/collections/holiday-apparel): Holiday Apparel -Shop the Cray Cray on Vacay collection. Featuring our soft Terry Towel Kids Set and matching oversized Canvas Tote. Perfect for coordinated family beach days and summer adventures
-  Updated: 2025-11-11T08:01:03Z
+  Updated: 2025-11-13T12:21:11Z
   Total Products: 2
 - [Family Car Stickers](https://compassandcradle.com.au/collections/baby-on-board-car-stickers): Drive safe and spread some smiles with our range of Baby on Board Family Car Stickers.
 
 The perfect blend of safety and personality for your family car. Designed in Australia with durable, weather-resistant materials, these car safety stickers are built to last through every school run, road trip, and family adventure.
-  Updated: 2025-11-10T11:15:05Z
+  Updated: 2025-11-15T23:20:57Z
   Total Products: 2
 - [Dummy Holder](https://compassandcradle.com.au/collections/dummy-holder): Silicone Dummy Holder. Keep dummies clean, close, and easy to find with our stylish Dummy Holders—a must-have for every parent’s baby bag. Made from safe, durable, and easy-to-clean materials, these pacifier clips are designed to prevent lost or dropped soothers during busy days out or late-night cuddles. With modern, gender-neutral designs, our soother holders are as practical as they are cute—making them the perfect blend of function and style. Lightweight and easy to attach, they’re an essential part of any newborn accessories collection and a thoughtful gift for new parents
   Updated: 2025-11-10T11:15:25Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-11-11T08:01:03Z
+  Updated: 2025-11-15T12:23:21Z
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-11-11T11:55:40Z
-  Total Products: 1
+  Updated: 2025-11-13T12:21:11Z
+  Total Products: 3
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
   Updated: 2025-10-28T05:33:27Z
   Total Products: 1
 - [Sale](https://compassandcradle.com.au/collections/sale)
-  Updated: 2025-11-10T11:15:25Z
+  Updated: 2025-11-15T23:20:57Z
   Total Products: 3
 - [Compass & Cradle Digital Gift Card](https://compassandcradle.com.au/collections/compass-cradle-digital-gift-card)
   Updated: 2025-11-02T12:22:01Z
   Total Products: 1
 - [Mum & Kids Caps](https://compassandcradle.com.au/collections/kids-caps)
-  Updated: 2025-11-11T12:02:18Z
+  Updated: 2025-11-15T12:23:21Z
   Total Products: 6
+- [Pre Sale| Barefoot Bandit Kids Terry Towelling Set](https://compassandcradle.com.au/collections/pre-sale-barefoot-bandit-kids-terry-towelling-set): Barefoot Bandit Kids Terry Towelling Set Let your little one embrace sunshine, salt air and play in comfort with our Barefoot Bandit Kids Terry Towelling Set — the ultimate everyday outfit for beach days, park hangs and laid-back adventures. Made from soft, absorbent 100% cotton terry towelling, this relaxed-fit set keeps kids cool and comfortable while adding that easy, coastal-Australian charm. Designed for movement and made to last, it’s perfect for post-swim chill time or all-day exploring. Why You’ll Love It Super soft, breathable terry towelling fabric — gentle on sensitive skin Relaxed, unisex fit for easy, carefree movement Signature barefoot bandit logo with wave design on front Ethically made for mindful, everyday wear Durable and easy-care — made to withstand play, wash after wash Perfect For ☀️ Summer adventures🏖️ Beach to backyard days🎁 Everyday comfort or a thoughtful gift Fabric: 100% cotton terry towellingCare: Cold gentle machine wash. Line dry in shade.
+  Updated: 2025-11-13T10:48:11Z
+  Total Products: 2
 
 ## Blogs
 
