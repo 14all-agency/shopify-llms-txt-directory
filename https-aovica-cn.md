@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-11-13T00:00:39.621Z
+- Updated At: 2025-11-16T00:00:23.472Z
 
 ## Products
 
@@ -1238,7 +1238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S4cf694806b5f4176906fcceaa2303751Z.webp?v=1762933913
     Price: $46.50 USD
 - [Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New](https://aovica.cn/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new-2): Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New
-  Updated: 2025-11-12T08:29:40Z
+  Updated: 2025-11-13T01:05:10Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1318,6 +1318,196 @@
   - [yellow / XXXL](https://aovica.cn/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new-2?variant=44337445994541)
     Availability: Available
     Price: $49.00 USD
+- [3 Piece Women Sets 2026 New Arrival Sportswear Single Breasted Long Sleeve Jacket Bra And Yoga Leggings Suits Outfits Clothing](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing): Tracksuit set. The top is a long - sleeve bomber jacket with a button - up front, featuring white horizontal stripes on the cuffs and chest. The bottom is a pair of black leggings with white vertical stripes on the sides. The outfit is stylish and suitable for various occasions, such as casual outings or sports.
+  Updated: 2025-11-15T15:52:41Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01fu4Wbz1yhtTeNeBKw__2836346611-0-cib.jpg?v=1763026742
+  - [Black / S](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314079277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [Black / M](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314112045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [Black / L](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314144813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [Black / XL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314177581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [Black / XXL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314210349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01C9YuNY1yhtTeZJDmy__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [White / S](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314243117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [White / M](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314275885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [White / L](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314308653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [White / XL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314341421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+  - [White / XXL](https://aovica.cn/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing?variant=44340314374189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
+    Price: $72.00 USD
+- [2 Piece Women Sets New Arrival Striped Print Matching Sets Short Sleeve Zipper Top And Pants Suits Tracksuit Outfits Clothing](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing): Modeling a stylish white tracksuit. She is wearing a white cropped jacket with a high collar and a front zipper, featuring black side panels that add a sporty contrast. Paired with the jacket are white flared pants, which also have black side stripes, echoing the design of the top. She completes the look with black sneakers that have white accents. The outfit exudes a modern, sporty aesthetic, blending comfort and fashion, and is likely suitable for casual wear, fitness activities, or everyday style.
+  Updated: 2025-11-15T06:07:04Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/75f420f68092d74b1e66caa51097b845.jpg?v=1763104024
+  - [White / S](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393798701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
+    Price: $59.00 USD
+  - [White / M](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393831469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
+    Price: $59.00 USD
+  - [White / L](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393864237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
+    Price: $59.00 USD
+  - [White / XL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393897005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
+    Price: $59.00 USD
+  - [White / XXL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393929773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sa2mZJ1yhtTZpxIuI__2836346611-0-cib.jpg?v=1763104023
+    Price: $59.00 USD
+  - [Black / S](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393962541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
+    Price: $59.00 USD
+  - [Black / M](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342393995309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
+    Price: $59.00 USD
+  - [Black / L](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394028077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
+    Price: $59.00 USD
+  - [Black / XL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394060845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
+    Price: $59.00 USD
+  - [Black / XXL](https://aovica.cn/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing?variant=44342394093613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
+    Price: $59.00 USD
+- [Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood): Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood
+  Updated: 2025-11-15T00:39:55Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/9bd6b231221f101fe812448692d6e8bd.jpg?v=1763121807
+  - [S / Black](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood?variant=44342657843245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
+    Price: $57.00 USD
+  - [M / Black](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood?variant=44342657876013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
+    Price: $57.00 USD
+  - [L / Black](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood?variant=44342657908781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
+    Price: $57.00 USD
+  - [XL / Black](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood?variant=44342657941549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
+    Price: $57.00 USD
+  - [XXL / Black](https://aovica.cn/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood?variant=44342657974317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
+    Price: $57.00 USD
+- [2026 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses): 2025 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses
+  Updated: 2025-11-15T15:15:10Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S336a381147a54afb9e19157fc6ec1b32z.webp?v=1763176506
+  - [Blue / XS](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910006829)
+    Availability: Available
+    Price: $52.50 USD
+  - [Blue / S](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910039597)
+    Availability: Available
+    Price: $52.50 USD
+  - [Blue / M](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910072365)
+    Availability: Available
+    Price: $52.50 USD
+  - [Blue / L](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910105133)
+    Availability: Available
+    Price: $52.50 USD
+  - [Blue / XL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910137901)
+    Availability: Available
+    Price: $52.50 USD
+  - [Blue / XXL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910170669)
+    Availability: Available
+    Price: $52.50 USD
+  - [Brown / XS](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910203437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Brown / S](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910236205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Brown / M](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910268973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Brown / L](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910301741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Brown / XL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910334509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Brown / XXL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910367277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/69f3ee28f7665e143919040e08baec65.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / XS](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910400045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / S](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910432813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / M](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910465581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / L](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910498349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / XL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910531117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
+  - [Green / XXL](https://aovica.cn/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses?variant=44343910563885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
+    Price: $52.50 USD
 
 ## Collections
 
