@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-14T00:00:33.074Z
+- Updated At: 2025-11-17T00:00:48.304Z
 
 ## Products
 
@@ -343,7 +343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/1085.png?v=1673509917
   Price: RM 420.00 MYR
 - [DOCASA Counter Mounting Wash Basin come with single pre-punched tap hole & cap](https://bath2u.com/products/docasa-counter-mounting-wash-basin-come-with-single-pre-punched-tap-hole-cap): Material: Ceramic Dimension: 485 (W) x 390 (L) x 145 (H) mm Type: Counter Top Colour: White Finish: Glossy Note: Tap is not included
-  Updated: 2025-03-08T13:38:44Z
+  Updated: 2025-11-16T05:39:53Z
   Vendor: DOCASA
   Product Type: Counter Top Basin
   Availability: Available
@@ -378,7 +378,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/5100.png?v=1673534574
   Price: RM 700.00 MYR
 - [DOCASA 545mm Wall Hung Basin single Pre-punched Tap Hole c/w Overflow](https://bath2u.com/products/docasa-545mm-wall-hung-basin-single-pre-punched-tap-hole-c-w-overflow): Material: Ceramic Colour: WhiteWidth: 545mmLength: 455mmHeight: 370mm Type: Wall HungPackage Content:- 1x Wall Hung Basin- 1x Fixing KitsNote: Tap is not included
-  Updated: 2024-04-18T15:04:07Z
+  Updated: 2025-11-15T13:39:32Z
   Vendor: DOCASA
   Product Type: Wall Hung Basin
   Availability: Available
@@ -1334,7 +1334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/tap-11033.png?v=1675144043
   Price: RM 299.00 MYR
 - [TAPI 700mm Aluminium Mirror (Black)](https://bath2u.com/products/tapi-700mm-aluminium-mirror-black): Specifications : Mirror Size (mm) : ø700 Mirror Thickness : 4mm Mounting Types : Wall Mounted
-  Updated: 2024-04-18T15:06:22Z
+  Updated: 2025-11-15T11:50:28Z
   Vendor: TAPI
   Product Type: Bathroom Mirror
   Availability: Available
@@ -1847,7 +1847,7 @@
     Availability: Available
     Price: RM 300.00 MYR
 - [DOCASA Black Aluminium LED Mirror - Round](https://bath2u.com/products/docasa-black-aluminium-led-mirror-round): Specifications : Material: Glass + Aluminium Style: Modern Mounting Size : ø50 / ø60 Type: Wall Mounted Finish Type: Polished Switch: Sensor Touch Screen ON/OFF Switch Technical Informations : Professional LED light strip. Soft and not dazzling, so that your eyes are not damaged by light. Lights up your face in dimly lit environments with enough light to wear makeup without worrying about chromatic aberration. Easy to install
-  Updated: 2024-04-18T15:06:42Z
+  Updated: 2025-11-14T06:00:22Z
   Vendor: DOCASA
   Product Type: LED mirrors
   Availability: Available
@@ -1871,7 +1871,7 @@
     Availability: Available
     Price: RM 280.00 MYR
 - [DOCASA Gold Aluminium LED Mirror - Rectangle](https://bath2u.com/products/docasa-gold-aluminium-led-mirror-rectangle): Specifications : Material: Glass + Aluminium Style: Modern Mounting Size : ø50x70 Type: Wall Mounted Finish Type: Polished Switch: Sensor Touch Screen ON/OFF Switch Technical Informations : Professional LED light strip. Soft and not dazzling, so that your eyes are not damaged by light. Lights up your face in dimly lit environments with enough light to wear makeup without worrying about chromatic aberration. Easy to install
-  Updated: 2024-04-18T15:06:43Z
+  Updated: 2025-11-15T04:45:50Z
   Vendor: DOCASA
   Product Type: LED mirrors
   Availability: Available
