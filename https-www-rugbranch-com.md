@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-11-16T00:01:10.753Z
+- Updated At: 2025-11-17T00:01:23.648Z
 
 ## Products
 
@@ -10297,7 +10297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/eu8971ml-parent_1.jpg?v=1714811388
     Price: $324.72 CAD
 - [Eclipse Abstract Checkered Brown Rug - Modern & Stylish | Rug Branch](https://www.rugbranch.com/products/eu8972br): Modern Eclipse Abstract Checkered Brown Rug from China. Durable polyester with canvas backing and a unique wavy checkered pattern.
-  Updated: 2025-11-14T21:47:41Z
+  Updated: 2025-11-16T06:44:55Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -15880,7 +15880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/0506965250224bc538291036c225f26c8c559dee.jpg?v=1757497262
   Price: $3,134.25 CAD
 - [Accent Chair Beige - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo704128)
-  Updated: 2025-11-14T10:34:47Z
+  Updated: 2025-11-16T09:35:58Z
   Vendor: RBZO
   Product Type: Seating
   Availability: Available
@@ -20179,7 +20179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Eclipse_A782_9232.jpg?v=1757496638
     Price: $419.00 CAD
 - [Classic Traditional Cream Area Rug](https://www.rugbranch.com/products/rbkl-a784-9355): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-14T20:16:44Z
+  Updated: 2025-11-16T04:38:16Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
