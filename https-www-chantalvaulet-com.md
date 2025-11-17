@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-11-12T00:00:30.510Z
+- Updated At: 2025-11-17T00:00:44.103Z
 
 ## Products
 
@@ -12427,7 +12427,7 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-11-08T16:16:53Z
   Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-11-10T22:05:45Z
+  Updated: 2025-11-15T18:37:15Z
   Total Products: 117
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
   Updated: 2025-11-08T13:45:17Z
@@ -12452,9 +12452,6 @@ Ethical Brilliance. Timeless Elegance.
   Total Products: 3
 - [Heart-Shaped Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/heart-shaped-engagement-rings): Shop heart-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & three-stone styles. Ethical sparkle, romantic silhouette, great value. Free shipping.
   Updated: 2025-11-08T21:02:17Z
-  Total Products: 4
-- [Marquise Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/marquise-engagement-rings): Discover marquise engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage-inspired styles. Ethical sparkle, elongated silhouette, great value. Free shipping.
-  Updated: 2025-11-08T21:03:57Z
   Total Products: 4
 - [Pear Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pear-engagement-rings): Explore pear-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage styles. Ethical sparkle, flattering silhouette.
   Updated: 2025-11-08T21:01:13Z
@@ -12523,7 +12520,7 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T19:00:14Z
   Total Products: 2
 - [Marquise Engagement Rings | Vintage Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-marquise): Shop marquise engagement rings with elegant, elongated shapes. Moissanite and lab-grown diamonds bring vintage charm to modern love.
-  Updated: 2025-11-08T16:20:23Z
+  Updated: 2025-11-15T19:19:53Z
   Total Products: 4
 - [Radiant-Cut Engagement Rings | Moissanite & Lab Diamond Sparkle](https://www.chantalvaulet.com/collections/engagement-rings-radiant-cut): Discover radiant-cut engagement rings with intense sparkle and brilliance. Choose moissanite or lab-grown diamonds in dazzling designs.
   Updated: 2025-11-08T16:13:25Z
@@ -12551,11 +12548,14 @@ Ethical Brilliance. Timeless Elegance.
     Author: Bozidar Christof
     Tags: Moissanite
   - [Average Engagement Ring Cost 2025: The Ultimate Buying Guide](https://www.chantalvaulet.com/blogs/news/average-engagement-ring-cost-2025-the-ultimate-buying-guide): <p><meta charset="utf-8">Congratulations on taking this exciting step! Choosing an engagement ring is a deeply personal and significant decision. One of the first questions many couples face is: <strong>how much should an engagement ring cost? </strong>Let's explore the factors involved and how you can find a breathtaking ring that fits your budget.</p>
-    Updated: 2025-11-05T19:05:05Z
+    Updated: 2025-11-15T15:45:11Z
     Author: Bozidar Christof
     Tags: Diamond, Engagement, Moissanite, Wedding
   - [Jewelry and Age: A Celebration of Personal Style Beyond Stereotypes](https://www.chantalvaulet.com/blogs/news/jewelry-and-age-a-celebration-of-personal-style-beyond-stereotypes): <p data-start="254" data-end="698">Jewelry has always been a deeply personal form of self-expression—an extension of one’s character, mood, and aesthetic intuition. Yet outdated notions persist: youthful jewelry is for the young, while pearls are reserved for older women. These ideas stem from long-standing societal conventions that divided fashion—and identity—by age. But should we still follow these rules now that the modern fashion world emphasizes individuality over age?</p>
     Updated: 2025-11-04T20:36:59Z
+    Author: Bozidar Christof
+  - [The Complete Guide to Rose Gold Engagement Rings (2026)](https://www.chantalvaulet.com/blogs/news/the-complete-guide-to-rose-gold-engagement-rings-2026)
+    Updated: 2025-11-15T20:24:58Z
     Author: Bozidar Christof
 
 ## Store Pages
