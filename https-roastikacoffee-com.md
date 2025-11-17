@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-11T02:03:25Z
 - Contact Email: info@roastikacoffee.com
-- Updated At: 2025-11-14T00:00:29.331Z
+- Updated At: 2025-11-17T00:00:53.293Z
 
 ## Products
 
@@ -228,6 +228,15 @@
     Author: Roastika
   - [Essential Steps in the Unroasted Green Coffee Harvesting Process](https://roastikacoffee.com/blogs/news/essential-steps-in-the-unroasted-green-coffee-harvesting-process): Essential Steps in the Unroasted Green Coffee Harvesting Process
     Updated: 2025-11-09T20:00:49Z
+    Author: Roastika
+  - [Frequently Asked Questions About Green Coffee Harvesting and Shipping](https://roastikacoffee.com/blogs/news/frequently-asked-questions-about-green-coffee-harvesting-and-shipping): Frequently Asked Questions About Green Coffee Harvesting and Shipping
+    Updated: 2025-11-14T20:01:29Z
+    Author: Roastika
+  - [A Comprehensive Guide to Green Coffee Harvesting by Region](https://roastikacoffee.com/blogs/news/a-comprehensive-guide-to-green-coffee-harvesting-by-region): A Comprehensive Guide to Green Coffee Harvesting by Region
+    Updated: 2025-11-15T20:01:32Z
+    Author: Roastika
+  - [Problems and Solutions in the Unroasted Green Coffee Supply Chain](https://roastikacoffee.com/blogs/news/problems-and-solutions-in-the-unroasted-green-coffee-supply-chain): Problems and Solutions in the Unroasted Green Coffee Supply Chain
+    Updated: 2025-11-16T20:01:10Z
     Author: Roastika
 
 ## Store Pages
