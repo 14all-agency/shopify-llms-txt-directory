@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-16T00:00:46.933Z
+- Updated At: 2025-11-17T00:00:55.568Z
 
 ## Products
 
@@ -1284,7 +1284,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/DJI_AGRAS_T25_Fly_More_Combo_Mavic_3_Multispectral.jpg?v=1735558593
   Price: 113.472,34 lei RON
 - [Drona Agricolă - DJI Agras T50 DOUBLE PERFORM MIX](https://droneagricole.ro/products/drona-agricola-dji-agras-t50-double-perform-mix): DJI Agras T50 este o dronă agricolă de ultimă generație, concepută special pentru fermierii și specialiștii în agricultură care își doresc o eficiență sporită în aplicarea tratamentelor fitosanitare și gestionarea culturilor. Această dronă pentru tratamente se remarcă prin tehnologiile sale avansate de pulverizare și cartografiere a terenurilor agricole, oferind o soluție completă pentru fermierii moderni care doresc o productivitate ridicată și o acoperire precisă a suprafețelor cultivate. Cu DJI Agras T50, pulverizarea devine un proces eficient și sigur, datorită capacității sale de încărcare de până la 50 de litri, permițând o acoperire de până la 21 de hectare pe oră. Drona de erbicidat Agras T50 utilizează un sistem de pulverizare avansat și precis, care economisește timp și resurse, maximizând efectul tratamentelor aplicate pe culturi. Dotată cu un radar cu detecție în timp real, această dronă agricolă poate naviga cu ușurință în orice condiții de teren, evitând obstacolele și asigurând un nivel ridicat de siguranță în operare. Funcția de poziționare RTK (Real-Time Kinematic) asigură aplicarea uniformă și controlul optim al distribuției soluțiilor de erbicidat, pesticid și îngrășământ lichid, ceea ce transformă DJI Agras T50 într-un echipament esențial pentru fermieri și agricultori. Această dronă de pulverizare este extrem de versatilă și poate fi configurată rapid pentru a răspunde cerințelor diverselor culturi, făcând-o ideală pentru toate tipurile de ferme. DJI Agras T50 dispune, de asemenea, de un sistem inteligent de management al bateriei și un design modular, ceea ce îi asigură o întreținere ușoară și o durată de utilizare extinsă. Prin funcțiile sale avansate de analiză a datelor și management al terenurilor, drona agricolă Agras T50 contribuie la optimizarea și monitorizarea constantă a culturilor, oferindu-le fermierilor informații esențiale pentru luarea celor mai bune decizii în vederea creșterii randamentului și reducerii costurilor. Experimentează performanța revoluționară și eficiența remarcabilă a DJI Agras T50 – drona pentru tratamente agricole, erbicidat și pulverizare, care îți schimbă complet modul de îngrijire a culturilor și contribuie la dezvoltarea unei agriculturi sustenabile!
-  Updated: 2025-10-12T13:47:07Z
+  Updated: 2025-11-16T11:59:33Z
   Vendor: DJI Agriculture
   Product Type: Drona Agricola Pulverizare
   Availability: Available
