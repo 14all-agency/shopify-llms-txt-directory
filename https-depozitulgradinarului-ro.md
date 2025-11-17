@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-16T00:00:46.941Z
+- Updated At: 2025-11-17T00:01:01.425Z
 
 ## Products
 
@@ -687,7 +687,7 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Syngenta_cce507b2-7b22-4bdd-bf6f-2afbcf1072ba.jpg?v=1739640188
   Price: 619,00 lei RON
 - [SY CHORINTOS Syngenta, FAO 300 – 340, Samanta porumb, Hibrid Timpuriu (sac 50.000 boabe)](https://depozitulgradinarului.ro/products/sy-chorintos-syngenta-fao-300-340-samanta-porumb-hibrid-timpuriu-sac-50-000-boabe): Caracteristici: · Inflorire timpurie cu pierdere rapida a apei din bob · Arhitectura moderna a plantei cu toleranta sporita la bolile tulpinii si stiuletelui · Toleranta la cadere · Talie inalta Caracteristici agronomice: · Număr de rânduri/ știulete: 16-18 · Număr de boabe/ rând: 35-40 · MMB: 560-720 Densități (plante recoltabile/ ha): · Neirigat: 67.000 - 72.000 · Irigat: 72.000 - 80.000
-  Updated: 2025-05-30T19:54:19Z
+  Updated: 2025-11-16T03:35:22Z
   Vendor: Syngenta
   Product Type: AGRO-Samanta Porumb
   Availability: Available
@@ -911,49 +911,49 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Manusitextil_cauciuc.jpg?v=1739307553
   Price: 5,00 lei RON
 - [Prelungitor Electric pe Tambur 3 x 2.5 mm – 30 m cu 4 Prize](https://depozitulgradinarului.ro/products/prelungitor-electric-pe-tambur-3-x-2-5-mm-30-m): Prelungitor electric pe tambur 30 m, 3 x 2.5 mm, cu 4 prize. Ideal pentru uz casnic sau profesional, sigur și flexibil în utilizare.
-  Updated: 2025-11-15T18:35:11Z
+  Updated: 2025-11-16T06:35:14Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Prelungitorelectricpetambur3x2.5-30M.jpg?v=1739307753
   Price: 179,00 lei RON
 - [Foarfeca Vie 18 mm cu Rezerva – Rosie, Ergonomica](https://depozitulgradinarului.ro/products/foarfeca-vie-18-mm-cu-rezerva-rosie): Foarfecă vie rosie, 18 mm cu rezervă. Lama din oțel tratat termic, ergonomică și ușor de folosit pentru tăieri precise și sigure.
-  Updated: 2025-11-15T18:29:55Z
+  Updated: 2025-11-16T06:30:00Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Foarfecavie18mmcurezerva_rosie.jpg?v=1739342855
   Price: 18,00 lei RON
 - [Foarfeca Vie 18 mm cu Rezerva – Galbena, Ergonomica](https://depozitulgradinarului.ro/products/foarfeca-vie-18-mm-cu-rezerva-galbena): Foarfecă vie galbenă, 18 mm cu rezervă. Lama din oțel tratat termic, ergonomică și ușor de folosit pentru tăieri precise și sigure.
-  Updated: 2025-11-15T18:27:13Z
+  Updated: 2025-11-16T06:27:20Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Foarfecavie18mmcurezerva_galbena.jpg?v=1739343203
   Price: 18,00 lei RON
 - [Fir Motocoasa 3 x 15 m – Profesional si Rezistent](https://depozitulgradinarului.ro/products/fir-motocoasa-3-x-70-m): Fir 3 mm x 15 m pentru motocoasă, profesional, durabil și eficient. Ideal pentru iarbă, buruieni și vegetație densă.
-  Updated: 2025-11-15T18:37:13Z
+  Updated: 2025-11-16T06:23:08Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Firmotocoasa3X70m.jpg?v=1739343302
   Price: 49,00 lei RON
 - [Fir Patrat Motocoasa 3 x 15 m – Profesional și Rezistent](https://depozitulgradinarului.ro/products/fir-patrat-pentru-motocoasa-3-x-15-m): Fir pătrat 3 mm x 15 m pentru motocoasă, profesional, durabil și eficient, ideal pentru tuns iarba, buruieni și vegetație densă.
-  Updated: 2025-11-15T18:18:56Z
+  Updated: 2025-11-16T06:19:14Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Firmotocoasapatrat3X15m.jpg?v=1739343759
   Price: 15,00 lei RON
 - [Fir Rasucit Motocoasa 2.7 x 15 m – Profesional si Rezistent](https://depozitulgradinarului.ro/products/fir-rasucit-pentru-motocoasa-2-7-x-15-m): Fir răsucit 2.7 mm x 15 m pentru motocoasă, ideal pentru utilizare profesională. Tăiere rapidă, zgomot redus și rezistență superioară.
-  Updated: 2025-11-15T18:36:48Z
+  Updated: 2025-11-16T06:13:06Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Firmotocoasarasucit2.7X15m.jpg?v=1739343929
   Price: 12,00 lei RON
 - [Fir Rotund Motocoasa 4 x 15 m – Profesional si Rezistent](https://depozitulgradinarului.ro/products/fir-rotund-pentru-motocoasa-4-x-15-m): Fir rotund 4 mm x 15 m pentru motocoasă, ideal pentru utilizare profesională. Rezistent, eficient și compatibil cu majoritatea cozilor de tuns.
-  Updated: 2025-11-15T18:36:24Z
+  Updated: 2025-11-16T06:10:32Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -967,168 +967,168 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Ciocan500GR.jpg?v=1739344115
   Price: 25,00 lei RON
 - [Cutter 18 mm cu Lame de Rezerve - Pentru Tăiere Precisă](https://depozitulgradinarului.ro/products/cutter-18-mm-cu-lame-de-rezerva): Cutter 18 mm cu lame de rezervă, ideal pentru birou, construcții, ambalare și bricolaj. Tăiere precisă și utilizare versatilă.
-  Updated: 2025-11-15T17:54:07Z
+  Updated: 2025-11-16T05:54:10Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Kater18mmcurezerve.jpg?v=1739344726
   Price: 6,00 lei RON
 - [Patent 8" – Unealta Versatila pentru Prindere si Taiere](https://depozitulgradinarului.ro/products/patent-8): Patent 8" profesional, ideal pentru prindere, îndoire și tăiere în mecanică, electrică, bricolaj și întreținere.
-  Updated: 2025-11-15T18:36:02Z
+  Updated: 2025-11-16T05:48:46Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Patent8.jpg?v=1739345118
   Price: 11,00 lei RON
 - [Perie Sarma Flex 3"](https://depozitulgradinarului.ro/products/perie-sarma-flex-3): Perie sârmă rotativă 3" pentru flex, ideală pentru curățarea sudurilor, îndepărtarea rugozității, vopselelor și lipiciului uscat.
-  Updated: 2025-11-15T14:14:59Z
+  Updated: 2025-11-16T02:15:05Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Periesarmaflex3p1.jpg?v=1739345488
   Price: 9,00 lei RON
 - [Perie Sarma Flex 4"](https://depozitulgradinarului.ro/products/perie-sarma-flex-4): Perie sârmă rotativă 4" pentru flex, ideală pentru curățarea sudurilor, îndepărtarea rugozității, vopselelor și lipiciului uscat.
-  Updated: 2025-11-15T14:12:17Z
+  Updated: 2025-11-16T02:12:21Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Periesarmaflex4p1.jpg?v=1739345736
   Price: 11,00 lei RON
 - [Set Coliere Plastic 3 x 200 mm – 100 Bucati](https://depozitulgradinarului.ro/products/set-coliere-plastic-3-x-200-mm-alb): Set 100 coliere din plastic alb 3x200 mm, ideale pentru grădinărit, cabluri electrice, auto, construcții și proiecte DIY.
-  Updated: 2025-11-15T14:09:42Z
+  Updated: 2025-11-16T02:09:45Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcoliereplastic3200mmalb.jpg?v=1739345863
   Price: 10,00 lei RON
 - [Set Coliere Plastic 3 x 200 mm – 100 Bucati](https://depozitulgradinarului.ro/products/set-coliere-plastic-3-x-200-mm-negru): Set 100 coliere din plastic negru 3x200 mm, ideale pentru grădinărit, cabluri electrice, auto, construcții și proiecte DIY.
-  Updated: 2025-11-15T14:07:10Z
+  Updated: 2025-11-16T02:07:15Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcoliereplastic3x200mmnegru.jpg?v=1739349157
   Price: 10,00 lei RON
 - [Set Coliere Plastic 4 x 300 mm – 100 Bucăți, Fixare Versatila, Alb](https://depozitulgradinarului.ro/products/set-coliere-plastic-4-x-300-mm-alb): Set 100 coliere de plastic 4x300 mm, ideale pentru grădinărit, cabluri electrice, auto, construcții și proiecte DIY.
-  Updated: 2025-11-15T14:03:16Z
+  Updated: 2025-11-16T02:03:19Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcoliereplastic4x300mm_alb.jpg?v=1739349230
   Price: 15,00 lei RON
 - [Set Coliere Plastic 4 x 300 mm – 100 Bucati, Fixare Versatila, Negru](https://depozitulgradinarului.ro/products/set-coliere-plastic-4-x-300-mm-negru): Set 100 coliere de plastic 4x300 mm, ideale pentru grădinărit, cabluri electrice, auto, construcții și proiecte DIY.
-  Updated: 2025-11-15T14:00:39Z
+  Updated: 2025-11-16T01:59:44Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcoliereplastic4x300mm_negru.jpg?v=1739349315
   Price: 15,00 lei RON
 - [Set Coliere Plastic 8 x 400 mm – 100 Bucati, Fixare Versatila, Alb](https://depozitulgradinarului.ro/products/set-coliere-plastic-8-x-400-mm-alb): Set 100 coliere de plastic 8x400 mm, ideale pentru grădinărit, cabluri electrice, auto, construcții și hobby-uri diverse.
-  Updated: 2025-11-15T13:58:01Z
+  Updated: 2025-11-16T01:58:05Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcoliereplastic8x400mm_alb.jpg?v=1739349429
   Price: 22,00 lei RON
 - [Set Perii Sârmă Flex – Accesorii Profesionale pentru Curățare](https://depozitulgradinarului.ro/products/set-perii-sarma-flex): Set perii sârmă pentru flex, ideal pentru îndepărtarea ruginii, debavurare și pregătirea suprafețelor metalice și lemnoase.
-  Updated: 2025-11-15T13:51:30Z
+  Updated: 2025-11-16T01:51:34Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setperiisarmaflex.jpg?v=1739349616
   Price: 29,00 lei RON
 - [Surubelnita Reglabila cu Cap Dublu](https://depozitulgradinarului.ro/products/surubelnita-reglabila-cu-cap-dublu): Șurubelniță reglabilă 2 în 1 cu cap dublu, versatilă și durabilă, ideală pentru uz profesional și bricolaj.
-  Updated: 2025-11-15T13:47:40Z
+  Updated: 2025-11-16T01:47:42Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Surubelnitareglabilacucapdublu1.jpg?v=1739350211
   Price: 10,00 lei RON
 - [Surubelnita Cruce Rosie – Maner Ergonomic](https://depozitulgradinarului.ro/products/surubelnita-cruce-rosie): Șurubelniță cruce cu mâner ergonomic, rezistentă și practică. Ideală pentru bricolaj, reparații și lucrări profesionale de precizie.
-  Updated: 2025-11-15T13:44:29Z
+  Updated: 2025-11-16T01:44:34Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Surubelnitacruce_rosie1.jpg?v=1739350511
   Price: 4,50 lei RON
 - [Surubelnita Cruce Albastra – Maner Ergonomic](https://depozitulgradinarului.ro/products/surubelnita-cruce-albastra): Șurubelniță cruce cu mâner ergonomic, rezistentă și practică. Ideală pentru bricolaj, reparații și lucrări profesionale de precizie.
-  Updated: 2025-11-15T13:41:29Z
+  Updated: 2025-11-16T01:41:34Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Surubelnitacruce_albastra.jpg?v=1739350785
   Price: 4,50 lei RON
 - [Surubelnita Dreapta Rosie – Maner Ergonomic](https://depozitulgradinarului.ro/products/surubelnita-dreapta-rosie): Șurubelniță dreaptă (plată) cu mâner ergonomic antialunecare. Ideală pentru bricolaj, reparații casnice și lucrări profesionale de precizie.
-  Updated: 2025-11-15T13:33:05Z
+  Updated: 2025-11-16T01:33:09Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Surubelnitadreapta_rosie.jpg?v=1739350849
   Price: 4,50 lei RON
 - [Surubelnita Dreapta Albastra – Maner Ergonomic](https://depozitulgradinarului.ro/products/surubelnita-dreapta-albastra): Șurubelniță dreaptă (plată) cu mâner ergonomic antialunecare. Ideală pentru bricolaj, reparații casnice și lucrări profesionale de precizie.
-  Updated: 2025-11-15T13:30:53Z
+  Updated: 2025-11-16T01:30:58Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Surubelnitadreapta_albastra.jpg?v=1739350917
   Price: 4,50 lei RON
 - [Set 9 Chei Imbus Profil Hexagonal 1.5–10 mm](https://depozitulgradinarului.ro/products/set-9-chei-imbus-profil-hexagonal-1-5-10-mm): Set profesional 9 chei imbus 1.5–10 mm, Cr-V, profil hexagonal, rezistente și ușor de folosit, ambalate într-o clapetă practică.
-  Updated: 2025-11-15T13:26:07Z
+  Updated: 2025-11-16T01:26:10Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setcheiimbus.jpg?v=1739351718
   Price: 19,00 lei RON
 - [Cheie Reglabila 10" – 250 mm – Versatilă și Durabila](https://depozitulgradinarului.ro/products/cheie-reglabila-10-250-mm): Cheie reglabilă 10" - 250 mm, cu fălci ajustabile, ideală pentru diverse aplicații casnice și industriale, rezistentă și ușor de folosit.
-  Updated: 2025-11-15T13:23:24Z
+  Updated: 2025-11-16T01:23:27Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Cheiereglabila10-250MM.jpg?v=1739352229
   Price: 25,00 lei RON
 - [Banda Adezivă pentru Reparații 48 mm x 10 m – Rezistenta și Practica](https://depozitulgradinarului.ro/products/banda-adeziva-pentru-reparatii-48-mm-x-10-m): Bandă adezivă pentru reparații, argintie, rezistentă la apă și căldură, cu adeziv pe bază de cauciuc, ideală pentru uz casnic și industrial.
-  Updated: 2025-11-15T13:21:05Z
+  Updated: 2025-11-16T01:21:09Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Bandaadezivapentrureparatii48mmX10m.jpg?v=1739354266
   Price: 11,00 lei RON
 - [Banda de Izolat 0.18 mm x 19 mm x 20 m – Rezistență și Siguranță](https://depozitulgradinarului.ro/products/banda-de-izolat-0-18-mm-x-19-mm-x-20-m): Bandă de izolat electrică, rezistentă la UV, apă și substanțe chimice, ideală pentru instalații electrice și protecția cablurilor.
-  Updated: 2025-11-15T13:17:45Z
+  Updated: 2025-11-16T01:17:49Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Bandadeizolat0.18mmx19mmx20m.jpg?v=1739354868
   Price: 3,00 lei RON
 - [Pistol Manual Pentru Silicon – Aplicare Precisă și Uniformă](https://depozitulgradinarului.ro/products/pistol-manual-pentru-silicon): Pistol manual pentru silicon, robust și ergonomic, pentru aplicare precisă și uniformă pe geamuri, uși, băi și diverse proiecte.
-  Updated: 2025-11-15T13:13:31Z
+  Updated: 2025-11-16T01:11:36Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistolmanualpentrusilicon.jpg?v=1739355169
   Price: 12,00 lei RON
 - [Aspersor Apa Rotativ 3 Brate, Albastru - Udare Uniformă Grădină, Gazon](https://depozitulgradinarului.ro/products/aspersor-apa-rotativ-cu-3-brate-albastru): Aspersor rotativ cu 3 brațe, culoare albastră, pentru udarea eficientă a gazonului și grădinii. Acoperire uniformă, instalare rapidă și utilizare ușoară.
-  Updated: 2025-11-15T13:07:41Z
+  Updated: 2025-11-16T01:06:12Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Aspersorapaalbastrucu3bratep1.jpg?v=1739355751
   Price: 18,00 lei RON
 - [Aspersor apă rotativ cu 3 brate, culoare verde | Irigare uniformă](https://depozitulgradinarului.ro/products/aspersor-apa-cu-3-brate-verde): Aspersor apă rotativ cu 3 brațe, verde, pentru furtun grădină. Udare uniformă peluze, flori și legume. Material durabil, ușor de montat și folosit.
-  Updated: 2025-11-15T12:58:47Z
+  Updated: 2025-11-16T00:58:52Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Aspersorapaverdecu3brate.jpg?v=1739359102
   Price: 12,00 lei RON
 - [Aspersor apa cu 5 brate | Depozitul Grădinarului](https://depozitulgradinarului.ro/products/aspersor-apa-cu-5-brate): Aspersor apă cu 5 brațe, reglabil, pentru furtun 1/2", 5/8" sau 3/4". Udare eficientă livezi, legume, grădini. Include țaruz pentru fixare.
-  Updated: 2025-11-15T12:58:22Z
+  Updated: 2025-11-16T00:58:26Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Aspersorcu5brate.jpg?v=1739359486
   Price: 12,00 lei RON
 - [Aspersor Irigare 1” – Eficient Pentru Gradina, Sere și Livezi](https://depozitulgradinarului.ro/products/aspersor-pentru-irigat-1-2): Aspersor pentru irigat 1”, ideal pentru livezi, culturi de legume, grădini, sere și solarii. Asigură udare uniformă și eficientă.
-  Updated: 2025-11-15T12:58:02Z
+  Updated: 2025-11-16T00:58:06Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1156,49 +1156,49 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-07-11at16.11.17.jpg?v=1752239559
   Price: 4,00 lei RON
 - [Pistol de Stropit Profesional 7 Functii – Udare și Curățare Gradina](https://depozitulgradinarului.ro/products/pistol-de-stropit-profesional-cu-7-functii): Pistol profesional de stropit cu 7 tipuri de jet reglabile. Ideal pentru udarea plantelor, spălarea aleilor, mașinii sau mobilierului de grădină.
-  Updated: 2025-11-15T12:57:17Z
+  Updated: 2025-11-16T00:57:22Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistoldestropitprofesionalcu7functii.jpg?v=1739363017
   Price: 39,00 lei RON
 - [Pistol de Stropit Reglabil 8 Functii – Udare și Curățare Gradina](https://depozitulgradinarului.ro/products/pistol-de-stropit-reglabil-cu-8-functii): Pistol de stropit cu 8 funcții reglabile - ideal pentru udat grădina, flori, gazon sau spălat mașina. Jet reglabil, compatibil cu furtun standard.
-  Updated: 2025-11-15T12:48:52Z
+  Updated: 2025-11-16T00:48:56Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistoldestropitreglabilcu8functii.jpg?v=1739363168
   Price: 24,00 lei RON
 - [Pistol de Stropit 7 Functii Reglabile, Culoare Verde](https://depozitulgradinarului.ro/products/pistol-de-stropit-reglabil-verde): Pistol de stropit cu 7 funcții reglabile - ideal pentru udat grădina, flori, gazon sau spălat mașina. Jet reglabil, compatibil cu furtun standard.
-  Updated: 2025-11-15T12:48:07Z
+  Updated: 2025-11-16T00:48:13Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Pistoldestropitreglabil_verde.jpg?v=1739363252
   Price: 15,00 lei RON
 - [Set pistol de stropit 7 functii reglabile + accesorii furtun](https://depozitulgradinarului.ro/products/set-pistol-de-stropit-reglabil-portocaliu-accesorii): Set pistol de stropit portocaliu cu 7 funcții reglabile și accesorii furtun. Ideal pentru udarea plantelor, curățarea aleilor și întreținerea grădinii.
-  Updated: 2025-11-15T12:47:41Z
+  Updated: 2025-11-16T00:47:46Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setpistoldestropitreglabilportocaliu_accesorii.jpg?v=1739363459
   Price: 40,00 lei RON
 - [Set pistol de stropit 7 funcții + accesorii furtun, verde](https://depozitulgradinarului.ro/products/set-pistol-de-stropit-reglabil-verde-accesorii): Set pistol de stropit verde cu 7 funcții reglabile, ergonomic, cu accesorii furtun incluse. Ideal pentru udarea plantelor și curățarea grădinii.
-  Updated: 2025-11-15T12:47:07Z
+  Updated: 2025-11-16T00:47:10Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Setpistoldestropitreglabilverde_accesorii.jpg?v=1739363573
   Price: 22,00 lei RON
 - [Furtun de Gradina  ½” – 25 m, 3 Straturi PVC, Rezistent la UV](https://depozitulgradinarului.ro/products/furtun-de-gradina-25-m): Furtun de grădină ½”, 25 m, cu 3 straturi din PVC ranforsat. Rezistent la UV, alge și presiune de până la 10 bar. Ideal pentru irigații și uz casnic.
-  Updated: 2025-11-15T12:46:22Z
+  Updated: 2025-11-16T00:46:30Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Furtundegradina_25mp1.jpg?v=1739363719
   Price: 95,00 lei RON
 - [Furtun de Gradina ¾” – 25 m, 3 Straturi PVC, Rezistent la UV](https://depozitulgradinarului.ro/products/furtun-de-gradina-25-m-1): Furtun de grădină ¾”, 25 m, cu 3 straturi din PVC ranforsat. Rezistent la UV, alge și presiune de până la 10 bar. Ideal pentru irigații și uz casnic.
-  Updated: 2025-11-15T12:43:37Z
+  Updated: 2025-11-16T00:43:42Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1533,175 +1533,175 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.50_1.jpg?v=1739903883
   Price: 2,99 lei RON
 - [Seminte LOBODA VERDE, AGROSEM – 0.8 GR](https://depozitulgradinarului.ro/products/seminte-loboda-verde-agrosem-0-8-gr): Planta anuala pretabila in sistemul culturilor succesive. Frunzele se utilizeaza la diferite preparate culinare.
-  Updated: 2025-07-29T09:36:10Z
+  Updated: 2025-11-16T18:00:14Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.51_1.jpg?v=1739904036
   Price: 2,99 lei RON
 - [Seminte Mazare KELVEDON WONDER, AGROSEM – 20 GR](https://depozitulgradinarului.ro/products/seminte-mazare-kelvedon-wonder-agrosem-20-gr): Este un soi semi-timpuriu, având perioada de vegetație de 65-70 zile. Boabele rezultate sunt dulci, de culoare verde închis. Se caracterizează printr-o capacitate de producție ridicată. Se recomandă pentru consum în stare proaspăta și industrializare.
-  Updated: 2025-07-29T17:50:38Z
+  Updated: 2025-11-16T17:59:59Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_13.jpg?v=1740080700
   Price: 2,99 lei RON
-- [Seminte Morcov BERLICUM 2, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-morcov-berlicum-2-agrosem-5-gr): Morcov Berlicum este o varietate de morcov semitardiva, radacina cilindrica cu varf rotunjit, netede, culoare placuta (orange), lungime de 20-22 cm, gust excelent. Pot fi utilizati in stare proaspata sau pentru pastrare. Necesita soluri usoare bine afanate.
-  Updated: 2025-06-19T12:14:36Z
+- [Seminte Morcov BERLICUM 2, AGROSEM – 5 GR | Rădăcini Cilindrice, Dulci](https://depozitulgradinarului.ro/products/seminte-morcov-berlicum-2-agrosem-5-gr): Semințe Morcov Berlicum 2, Agrosem, 5 GR – rădăcini cilindrice, dulci, portocalii, perfecte pentru consum proaspăt, sucuri, gătit și păstrare lungă.
+  Updated: 2025-11-16T19:52:09Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07.jpg?v=1739905570
   Price: 2,99 lei RON
-- [Seminte Morcov FLAKEE, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-morcov-flakee-agrosem-5-gr): Soi tardiv, productiv cu radacina mare 22-24 cm, intens colorata, cu varful ascutit, placut la gust. Necesita soluri usoare afanate. Recomandat pentru consum proaspat si pentru pastrare
-  Updated: 2025-07-26T00:10:58Z
+- [Seminte Morcov FLAKEE, AGROSEM - 5GR | Rădăcini Mari, Dulci, Portocalii](https://depozitulgradinarului.ro/products/seminte-morcov-flakee-agrosem-5-gr): Semințe Morcov Flakee, Agrosem, 5 GR – rădăcini mari, dulci, portocalii, perfecte pentru consum proaspăt, sucuri, gătit și păstrare lungă. Comandă de la Depozitul Grădinarului!
+  Updated: 2025-11-16T19:47:07Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_1.jpg?v=1739905598
   Price: 2,99 lei RON
-- [Seminte Morcov KURODA, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-morcov-kuroda-agrosem-5-gr): Soi timpuriu, cu radacina cilindrica 12-14 cm, cu varful ascutit, de culoare portocalie. Gust placut crocant. Destinat pentru culturi timpurii in camp si pentru culturi succesive. Este recomandat pentru consum in stare proaspata.
-  Updated: 2025-10-02T09:56:16Z
+- [Seminte Morcov KURODA, AGROSEM, 5GR | Rădăcini Groase, Dulci, Crocante](https://depozitulgradinarului.ro/products/seminte-morcov-kuroda-agrosem-5-gr): Semințe Morcov KURODA, Agrosem, 5 GR – rădăcini groase, portocalii, dulci și crocante. Ideal pentru sucuri, gătit sau consum proaspăt în salate.
+  Updated: 2025-11-16T19:37:46Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_2.jpg?v=1739905626
   Price: 2,99 lei RON
-- [Seminte Morcov NANTES, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-morcov-nantes-agrosem-5-gr): Soi timpuriu, cu radacina cilindrica 12-14 cm, cu varful ascutit, de culoare portocalie. Gust placut crocant. Destinat pentru culturi timpurii in camp si pentru culturi succesive. Este recomandat pentru consum in stare proaspata.
-  Updated: 2025-07-27T01:26:51Z
+- [Seminte Morcov NANTES, AGROSEM - 5 GR | Rădăcini Dulci & Uniforme](https://depozitulgradinarului.ro/products/seminte-morcov-nantes-agrosem-5-gr): Semințe Morcov Nantes, Agrosem, 5GR - Rădăcini cilindrice, portocaliu intens, dulci și uniforme, pentru consum proaspăt, sucuri, procesare și păstrare.
+  Updated: 2025-11-16T19:29:00Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_3.jpg?v=1739905668
   Price: 2,99 lei RON
-- [Seminte Pastarnac, AGROSEM - 4 GR](https://depozitulgradinarului.ro/products/seminte-pastarnac-agrosem-4-gr): Soi semitardiv, cu radacina lunga de forma conica, alungita, de culoare alb galbuie, cu gust dulce si aroma placuta. Pretentios fata de umiditate la semanat. Soi productiv.
-  Updated: 2025-07-29T06:47:32Z
+- [Seminte Pastarnac, AGROSEM - 4 GR | Rădăcini Dulci & Aromate](https://depozitulgradinarului.ro/products/seminte-pastarnac-agrosem-4-gr): Semințe Păstârnac, Agrosem, 4GR - Rădăcini alungite, alb-gălbui, dulci și aromate, pentru supe, ciorbe, piureuri și păstrare pe timp de iarnă.
+  Updated: 2025-11-16T19:20:43Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_4.jpg?v=1739905833
   Price: 2,99 lei RON
-- [Seminte Patrunjel de radacina BERLINER, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-patrunjel-de-radacina-berliner-agrosem-5-gr): Soi semitardiv, perioada de vegetatie 130-140 zile. Radacinile sunt semilungi de culoare alba, pulpa dulce, gust placut. Este un soi cu un aspect placut. Se cultiva pe terenuri bine drenate. Soi productiv.
-  Updated: 2025-07-29T01:59:28Z
+- [Seminte Patrunjel de Radacina BERLINER, AGROSEM - 5 GR | Productiv & Aromat](https://depozitulgradinarului.ro/products/seminte-patrunjel-de-radacina-berliner-agrosem-5-gr): Semințe Pătrunjel de Rădăcină Berliner, Agrosem, 5GR. Rădăcini lungi, albe, netede, aromate, ideal pentru consum proaspăt, gătit și depozitare. Productiv & Aromat!
+  Updated: 2025-11-16T19:14:24Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_5.jpg?v=1739905870
   Price: 2,99 lei RON
-- [Seminte Patrunjel Frunze COMUNE 2, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-comune-2-agrosem-5-gr): Planta aromata, cu crestere viguroasa, cu frunze netede de culoare verde inchis. Se cultiva de primavara pana toamna. Iarna se cultiva in spatii protejate. Se consuma in stare proaspata sau conservare.
-  Updated: 2025-07-29T10:07:45Z
+- [Seminte Patrunjel Frunze COMUNE 2, AGROSEM - 5 GR | Aromat & Productiv](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-comune-2-agrosem-5-gr): Semințe Pătrunjel Frunze Comune 2, Agrosem, 5 GR - Soi foarte aromat, frunze mari, productiv, ideal pentru consum proaspăt, uscare și congelare. Livrare rapidă!
+  Updated: 2025-11-16T19:06:07Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_6.jpg?v=1739905926
   Price: 2,99 lei RON
-- [Seminte Patrunjel Frunze Cret RICCIO, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-cret-riccio-agrosem-5-gr): Planta anuala, soi timpuriu cu frunze verzi, decorative, crete. Planta cu crestere viguroasa cu capacitate rapida de refacere a tufei.
-  Updated: 2025-06-19T12:04:38Z
+- [Seminte Patrunjel Frunze Cret RICCIO, AGROSEM | Soi Timpuriu, Aromat](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-cret-riccio-agrosem-5-gr): Semințe Pătrunjel Creț Riccio, Agrosem, 5 GR – soi timpuriu, foarte aromat, cu frunze crețe verzi-închise. Ideal pentru consum proaspăt, uscare și decor.
+  Updated: 2025-11-16T18:10:33Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_7.jpg?v=1739905954
   Price: 2,99 lei RON
 - [Seminte Patrunjel Frunze GIGANTE DE ITALIA, AGROSEM | Frunze Mari, Late](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-gigante-de-italia-agrosem-5-gr): Seminte Patrunjel Frunze Gigante de Italia, AGROSEM, 5 GR – soi timpuriu cu frunze mari, late, lucioase, verzi-închis, aromate, ideal pentru consum proaspăt/condiment uscat.
-  Updated: 2025-11-15T21:05:04Z
+  Updated: 2025-11-16T08:58:13Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_8.jpg?v=1739905995
   Price: 2,99 lei RON
 - [Seminte Patrunjel Radacina BARDOWICHER, AGROSEM | Soi Tardiv](https://depozitulgradinarului.ro/products/seminte-patrunjel-radacina-bardowicher-agrosem-5-gr): Seminte Patrunjel Radacina Bardowicher, AGROSEM, 5 GR – rădăcini albe, lungi și netede, gustoase, soi tardiv, ideal pentru consum proaspăt și păstrare.
-  Updated: 2025-11-15T20:52:49Z
+  Updated: 2025-11-16T08:52:53Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/1_a29bf106-0060-4672-9f6e-3bbf28910bfe.jpg?v=1739374772
   Price: 2,99 lei RON
 - [Seminte Porumb Dulce GOLDEN BANTAM, AGROSEM - 10 GR | Soi Timpuriu](https://depozitulgradinarului.ro/products/seminte-porumb-dulce-golden-bantam-agrosem-10-gr): Seminte Porumb Dulce Golden Bantam, AGROSEM, 10 GR – ștuleți lungi, boabe galbene, foarte dulci, rezistent la boli și dăunători, ideal pentru consum proaspăt.
-  Updated: 2025-11-15T20:41:36Z
+  Updated: 2025-11-16T08:41:41Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_6.jpg?v=1740080917
   Price: 2,99 lei RON
 - [Seminte Porumb Floricele Popcorn, AGROSEM - 8 GR | Floricele Crocante](https://depozitulgradinarului.ro/products/seminte-porumb-floricele-popcorn-agrosem): Seminte Porumb Floricele Popcorn, AGROSEM, 8 GR – ștuleți medii, boabe galbene, tari, pericarp gros, randament ridicat, ideal pentru floricele crocante.
-  Updated: 2025-11-15T20:27:45Z
+  Updated: 2025-11-16T08:27:49Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_7.jpg?v=1740080960
   Price: 2,99 lei RON
 - [Seminte Praz CARENTAN 3, AGROSEM - 2 GR | Soi Tardiv, Productiv](https://depozitulgradinarului.ro/products/seminte-praz-carentan-3-agrosem-2-gr): Seminte Praz Carentan 3, AGROSEM, 2 GR – tulpini false albe, lungi și groase, frunze verde-albăstrui, gust dulce, rezistent la frig și depozitare.
-  Updated: 2025-11-15T20:24:31Z
+  Updated: 2025-11-16T08:24:39Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_8.jpg?v=1740080989
   Price: 2,99 lei RON
 - [Seminte Ridichi de Iarna NERO TONDO DINVERNO, AGROSEM | Soi de Iarna](https://depozitulgradinarului.ro/products/seminte-ridichi-de-iarna-nero-tondo-dinverno-agrosem-6-gr): Seminte Ridichi Nero Tondo Dinverno, AGROSEM, 6 GR – rădăcini rotunde, negre la exterior, pulpa albă, crocantă și picantă, soi de iarnă rezistent și productiv.
-  Updated: 2025-11-15T19:34:40Z
+  Updated: 2025-11-16T07:34:47Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_9.jpg?v=1739906022
   Price: 2,99 lei RON
 - [Seminte Ridichi de Luna CANDELA DI GHIACCIO, AGROSEM | Radacini Cilindrice](https://depozitulgradinarului.ro/products/seminte-ridichi-de-luna-candela-di-ghiaccio-agrosem-6-gr): Seminte Ridichi Candela di Ghiaccio, AGROSEM, 6 GR – rădăcini cilindrice albe, pulpa crocantă și fragedă, gust plăcut, soi timpuriu pentru consum proaspăt.
-  Updated: 2025-11-15T19:25:49Z
+  Updated: 2025-11-16T07:25:53Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_10.jpg?v=1739906062
   Price: 2,99 lei RON
 - [Seminte Ridichi de Luna FLAMBOYANT 2, AGROSEM | Radacina Frageda & Crocanta](https://depozitulgradinarului.ro/products/seminte-ridichi-de-luna-flamboyant-2-agrosem-6-gr): Seminte Ridichi Flamboyant 2, AGROSEM, 6 GR – rădăcini cilindrice, roșu cu vârf alb, pulpa albă, crocantă și fragedă, soi timpuriu pentru consum proaspăt.
-  Updated: 2025-11-15T19:20:50Z
+  Updated: 2025-11-16T07:20:56Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_11.jpg?v=1739906106
   Price: 2,99 lei RON
 - [Seminte Ridichi de Luna NAŢIONAL 2, AGROSEM | Pulpa Crocanta si Suculenta](https://depozitulgradinarului.ro/products/seminte-ridichi-de-luna-national-2-agrosem-6-gr): Seminte Ridichi National 2, AGROSEM, 6 GR – rădăcini rotunde, roșii cu vârf alb, pulpa albă, crocantă și suculentă, soi timpuriu pentru consum proaspăt.
-  Updated: 2025-11-15T19:15:00Z
+  Updated: 2025-11-16T07:13:07Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_12.jpg?v=1739906135
   Price: 2,99 lei RON
 - [Seminte Ridichi de Luna RIESENBUTTER, AGROSEM | Gust Dulce](https://depozitulgradinarului.ro/products/seminte-ridichi-de-luna-riesenbutter-agrosem-6-gr): Seminte Ridichi Riesenbutter, AGROSEM, 6 GR – rădăcini rotunde, roșii, pulpa albă, crocantă și fragedă, gust dulce, soi timpuriu pentru consum proaspăt și salate.
-  Updated: 2025-11-15T18:56:35Z
+  Updated: 2025-11-16T06:54:29Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/ridi5.jpg?v=1739375360
   Price: 2,99 lei RON
 - [Seminte Ridichi de Luna SAXA 2, AGROSEM | Soi Timpuriu, Pulpa Suculenta](https://depozitulgradinarului.ro/products/seminte-ridichi-de-luna-saxa-2-agrosem-6-gr): Seminte Ridichi Saxa 2, AGROSEM, 6 GR – rădăcini rotunde, roșii, pulpa albă, crocantă, gust dulce-picant, soi timpuriu pentru consum proaspăt și salate.
-  Updated: 2025-11-15T18:46:00Z
+  Updated: 2025-11-16T06:42:28Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/ridi6.jpg?v=1739375417
   Price: 2,99 lei RON
 - [Seminte Ridichi de Vara MÜNCHEN BIER, AGROSEM | Soi Semi-Tardiv, Crocant](https://depozitulgradinarului.ro/products/seminte-ridichi-de-vara-munchen-bier-agrosem-6-gr): Seminte Ridichi München Bier, AGROSEM, 6 GR – rădăcini mari, albe, alungite, crocante, cu gust ușor picant, soi semi-tardiv, ideal pentru consum de vară-toamnă.
-  Updated: 2025-11-15T18:37:30Z
+  Updated: 2025-11-16T06:36:47Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/ridi7.jpg?v=1739375479
   Price: 2,99 lei RON
 - [Seminte Romanesti TOMATE BUZAU 1600, AGROSEM | Soi Romanesc Semi-Timpuriu](https://depozitulgradinarului.ro/products/seminte-romanesti-tomate-buzau-1600-agrosem): Seminte Romanesti Tomate Buzau 1600, AGROSEM, 0.2 GR – soi românesc semi-timpuriu, fructe rotunde 180–220 g, roșu-intens, pulpă cărnoasă, ideal pentru consum și procesare.
-  Updated: 2025-11-15T18:27:28Z
+  Updated: 2025-11-16T06:26:58Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_1.jpg?v=1740077734
   Price: 2,99 lei RON
 - [Seminte Romanesti Varza de Buzau, AGROSEM - 1 GR | Soi Tardiv, Compact](https://depozitulgradinarului.ro/products/seminte-romanesti-varza-de-buzau-agrosem): Semintele Romanesti de Varza de Buzau, AGROSEM, 1 GR – soi tardiv, căpățâni mari și compacte, frunze groase, gust dulceag, excelentă pentru consum și murături.
-  Updated: 2025-11-15T18:14:35Z
+  Updated: 2025-11-16T06:14:40Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/varza_de_buzau.jpg?v=1739375710
   Price: 2,99 lei RON
 - [Seminte Salata BIONDA DI PARIGI, AGROSEM | Cultura Primavara-Toamna](https://depozitulgradinarului.ro/products/seminte-salata-bionda-di-parigi-agrosem-3-gr): Seminte Salata Bionda di Parigi, AGROSEM, 3 GR – soi timpuriu, căpățâni compacte, frunze verzi-deschis, fragede și aromate, ideală pentru consum proaspăt. Salata Creata.
-  Updated: 2025-11-15T18:03:30Z
+  Updated: 2025-11-16T06:01:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -1715,28 +1715,28 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_20.jpg?v=1739908393
   Price: 2,99 lei RON
 - [Seminte Salata de Iarna VERDE D'INVERNO, AGROSEM | Rezistenta la Frig](https://depozitulgradinarului.ro/products/seminte-salata-de-iarna-verde-dinverno-agrosem-3-gr): Seminte Salata Verde D’INVERNO, AGROSEM, 3 GR – frunze verzi, fragede, căpățâni compacte, rezistentă la frig. Destinat culturilor de toamnă și iarnă.
-  Updated: 2025-11-15T17:36:57Z
+  Updated: 2025-11-16T05:37:01Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_19.jpg?v=1739908344
   Price: 2,99 lei RON
 - [Seminte Salata LOLLO BIONDA, AGROSEM - 2 GR | Frunze Verzi & Crete](https://depozitulgradinarului.ro/products/seminte-salata-lollo-bionda-agrosem-2-gr): Seminte Salata LOLLO BIONDA, AGROSEM, 2 GR – frunze crețe, verde deschis, fragede, rezistente, potrivit pentru consum proaspăt și preparate culinare.
-  Updated: 2025-11-15T17:09:56Z
+  Updated: 2025-11-16T05:00:11Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_18.jpg?v=1739908313
   Price: 2,99 lei RON
 - [Seminte Salata LOLLO RED, AGROSEM - 2 GR, Compacta, Frunze Crete Rosii](https://depozitulgradinarului.ro/products/seminte-salata-lollo-red-agrosem-2-gr): Seminte Salata LOLLO RED, AGROSEM, 2 GR – rozeta compactă, frunze crețe roșii cu bază verde, potrivită pentru consum proaspăt și producție anuală.
-  Updated: 2025-11-15T14:29:42Z
+  Updated: 2025-11-16T02:29:38Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_17.jpg?v=1739908280
   Price: 2,99 lei RON
 - [Seminte Salata S. ANNA, AGROSEM - 3 GR | Capatana Compacta](https://depozitulgradinarului.ro/products/seminte-salata-s-anna-agrosem-3-gr): Seminte Salata S. ANNA, AGROSEM, 3 GR – frunze crocante, verzi închise, căpățână compactă, uniformă. Soi rezistent, adaptat culturilor de primăvară și toamnă.
-  Updated: 2025-11-15T14:19:07Z
+  Updated: 2025-11-16T02:19:13Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -1750,84 +1750,84 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_14.jpg?v=1739908222
   Price: 2,99 lei RON
 - [Seminte Sfecla Rosie CILYNDRA, AGROSEM - 5 GR | Soi Semi-Tardiv](https://depozitulgradinarului.ro/products/seminte-sfecla-rosie-cilyndra-agrosem-5-gr): Seminte Sfecla Rosie CILYNDRA, AGROSEM, 5 GR – radacini cilindric-alungite, roșu intens, pulpă crocantă, dulce, pentru consum proaspăt și conservare.
-  Updated: 2025-11-15T14:13:37Z
+  Updated: 2025-11-16T02:13:44Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_13.jpg?v=1739908162
   Price: 2,99 lei RON
 - [Seminte Sfecla Rosie DETROIT 2, AGROSEM - 5 GR | Rotunde & Suculente](https://depozitulgradinarului.ro/products/seminte-sfecla-rosie-detroit-2-agrosem-5-gr): Seminte Sfecla Rosie DETROIT 2, AGROSEM – radacini rotunde, roșu închis, pulpă fragedă și suculentă, potrivită pentru consum proaspăt, sucuri și conservare.
-  Updated: 2025-11-15T14:09:33Z
+  Updated: 2025-11-16T02:09:24Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_12.jpg?v=1739908122
   Price: 2,99 lei RON
 - [Seminte Spanac MATADOR, AGROSEM - 18 GR | Frunze Netede & Gustoase](https://depozitulgradinarului.ro/products/seminte-spanac-matador-agrosem-18-gr): Seminte Spanac MATADOR, AGROSEM, 18 GR – soi semi-tardiv, frunze mari, verzi, fragede, potrivit pentru consum proaspăt, gătit și congelare.
-  Updated: 2025-11-15T13:59:24Z
+  Updated: 2025-11-16T01:59:28Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_11.jpg?v=1739908099
   Price: 2,99 lei RON
 - [Seminte Telina de Radacina DI VERONA, AGROSEM - 2 GR | Radacini Mari](https://depozitulgradinarului.ro/products/seminte-telina-de-radacina-di-verona-agrosem-2-gr): Seminte Telina de Radacina DI VERONA, AGROSEM, 2 GR – radacini mari, crocante, aromate, ideale pentru consum proaspăt, supe, salate și păstrare. Radacini Mari & Aromate
-  Updated: 2025-11-15T13:52:11Z
+  Updated: 2025-11-16T01:52:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_10.jpg?v=1739908062
   Price: 2,99 lei RON
 - [Seminte Telina de Radacina GIANT PRAGUE, AGROSEM - 2 GR | Radacini Mari](https://depozitulgradinarului.ro/products/seminte-telina-de-radacina-giant-prague-agrosem-2-gr): Seminte Telina de Radacina GIANT PRAGUE, AGROSEM – soi semi-tardiv, radacini mari, pulpa tare, alb-gălbuie, gust aromat, păstrare bună, consum proaspăt și gătit.
-  Updated: 2025-11-15T13:46:22Z
+  Updated: 2025-11-16T01:46:11Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_9_48200dd7-4b96-437f-afec-c896c31da159.jpg?v=1739908031
   Price: 2,99 lei RON
 - [Seminte Tomate ACE 55 VF, AGROSEM - 0.7 GR | Semi-timpurii, Pulpa Ferma](https://depozitulgradinarului.ro/products/seminte-tomate-ace-55-vf-agrosem-0-7-gr): Seminte Tomate ACE 55 VF, AGROSEM – soi semi-timpuriu, fructe 160–190 g, rotund-turtite, pulpă fermă, gust echilibrat, rezistente la transport și manipulare.
-  Updated: 2025-11-15T13:42:37Z
+  Updated: 2025-11-16T01:42:40Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_8.jpg?v=1739907959
   Price: 2,99 lei RON
 - [Seminte Tomate CAMPBELL 33, AGROSEM - 0.7 GR | Rosii Rotunde & Mari](https://depozitulgradinarului.ro/products/seminte-tomate-campbell-33-agrosem-0-7-gr): Seminte Tomate CAMPBELL 33, AGROSEM – soi semi-timpuriu, fructe rotunde 180–200 g, pulpă fermă și zemoasă, potrivite pentru consum proaspăt și procesare.
-  Updated: 2025-11-15T13:39:09Z
+  Updated: 2025-11-16T01:33:29Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_7.jpg?v=1739907922
   Price: 2,99 lei RON
 - [Seminte Tomate INIMA DE BOU, AGROSEM - 0.4 GR | Pulpa Ferma si Aromata](https://depozitulgradinarului.ro/products/seminte-tomate-cour-di-bue-agrosem-0-4-gr): Seminte Tomate INIMA DE BOU, AGROSEM – fructe mari 200–300 g, roșii intens, pulpă fermă și aromată, conținut redus de semințe, perfecte pentru salate și sucuri.
-  Updated: 2025-11-15T13:29:40Z
+  Updated: 2025-11-16T01:25:20Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_6.jpg?v=1739907886
   Price: 2,99 lei RON
 - [Seminte Tomate MARMANDE, AGROSEM - 0.7 GR | Semi-Timpurii, Rosii Mari](https://depozitulgradinarului.ro/products/seminte-tomate-marmande-agrosem-0-7-gr): Seminte Tomate MARMANDE, AGROSEM – fructe mari 150–200 g, roșii rotunde, turtite, pulpă cărnoasă și aromată, soi semi-timpuriu, potrivit pentru salate și gătit.
-  Updated: 2025-11-15T13:22:24Z
+  Updated: 2025-11-16T01:20:23Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_5.jpg?v=1739907861
   Price: 2,99 lei RON
 - [Seminte Tomate PRINCIPE BORGHESE, AGROSEM - 0.7 GR | Pulpa Carnoasa](https://depozitulgradinarului.ro/products/seminte-tomate-principe-borghese-agrosem-0-7-gr): Seminte Tomate PRINCIPE BORGHESE, AGROSEM, 0.7 GR – soi tradițional italian, cu fructe mici 30–40 g, pulpă cărnoasă, gust dulce-aromat și creștere viguroasă.
-  Updated: 2025-11-15T13:16:31Z
+  Updated: 2025-11-16T01:16:36Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-19at08.42.45_a7e146c1-950d-4ed0-baae-2c3ec2c82297.jpg?v=1739947487
   Price: 2,99 lei RON
 - [Seminte Tomate RIO GRANDE, AGROSEM - 0.7 GR | Soi Semi-timpuriu Productiv](https://depozitulgradinarului.ro/products/seminte-tomate-rio-grande-agrosem-0-7-gr): Seminte Tomate RIO GRANDE, AGROSEM, 0.7 GR – soi semi-timpuriu cu fructe ovale 70–90 gr, pulpă fermă și roșu intens. Potrivite pentru bulion, pastă și conserve.
-  Updated: 2025-11-15T13:08:38Z
+  Updated: 2025-11-16T01:08:42Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.40.04_3.jpg?v=1739907799
   Price: 2,99 lei RON
 - [Seminte Tomate ROMA, AGROSEM – 0.7 GR | Soi Semi-timpuriu Productiv](https://depozitulgradinarului.ro/products/seminte-tomate-roma-agrosem-0-7-gr): Seminte Tomate ROMA, AGROSEM – soi semi-timpuriu cu fructe ovale, 60–80 g, pulpă densă și culoare roșu intens. Potrivite pentru bulion, pastă și conserve.
-  Updated: 2025-11-15T12:54:19Z
+  Updated: 2025-11-16T00:53:44Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -3955,7 +3955,7 @@ Livrare rapidă!
   Updated: 2025-11-09T12:00:42Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-15T21:05:04Z
+  Updated: 2025-11-16T19:20:43Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
   Updated: 2025-11-08T09:56:16Z
@@ -4132,10 +4132,10 @@ Livrare rapidă!
   Updated: 2025-11-05T06:53:12Z
   Total Products: 28
 - [Insecticide Sistemice și de Contact | Combaterea dăunătorilor](https://depozitulgradinarului.ro/collections/insecticide): Alege insecticide sistemice și de contact, eficiente pentru combaterea dăunătorilor. Descoperă gama completă de insecticide agricole și de grădină – soluții avizate pentru combaterea insectelor în toate stadiile de dezvoltare.
-  Updated: 2025-10-15T11:28:05Z
+  Updated: 2025-11-16T12:28:50Z
   Total Products: 46
 - [Fungicide sistemice și de contact | Plante și Culturile Agricole](https://depozitulgradinarului.ro/collections/fungicide): Fungicide sistemice și de contact pentru plantele din grădină, pomi fructiferi, vița-de-vie și culturi agricole – soluții eficiente împotriva bolilor cauzate de ciuperci, pentru plante sănătoase și culturi productive.
-  Updated: 2025-07-31T19:45:46Z
+  Updated: 2025-11-16T12:28:50Z
   Total Products: 36
 - [Adjuvanți Agricoli – Eficiență Sporită pentru Tratamente](https://depozitulgradinarului.ro/collections/adjuvanti): Adjuvanți agricoli profesionali pentru eficiență sporită a  tratamentelor fitosanitare și a îngrășămintelor foliare. Soluții compatibile cu erbicide, fungicide și insecticide pentru eficiență maximă.
   Updated: 2025-07-30T04:25:06Z
@@ -4159,10 +4159,10 @@ Livrare rapidă!
   Updated: 2025-10-28T11:28:07Z
   Total Products: 4
 - [Pesticide Profesionale | Erbicide, Insecticide, Fungicide, ...](https://depozitulgradinarului.ro/collections/pesticide): Alege pesticide profesionale, precum erbicide, insecticide, fungicide, acaricide, dezinfectanți pentru sol, adjuvanti, pentru combaterea bolilor, dăunătorilor și buruienilor.
-  Updated: 2025-11-05T06:53:12Z
+  Updated: 2025-11-16T12:28:50Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-15T21:05:04Z
+  Updated: 2025-11-16T19:20:43Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4250,7 +4250,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:50:37Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2025-11-15T21:05:04Z
+  Updated: 2025-11-16T19:20:43Z
   Total Products: 123
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
   Updated: 2025-10-26T17:08:55Z
