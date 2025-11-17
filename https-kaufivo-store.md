@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-21T08:09:19Z
 - Contact Email: kaufivo@gmail.com
-- Updated At: 2025-11-14T00:00:45.467Z
+- Updated At: 2025-11-17T00:00:25.134Z
 
 ## Products
 
@@ -220,6 +220,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/3334/8642/files/5669103459.jpg?v=1761321566
   Price: ₹499.00 INR
+- [Acrylic Paint on Glass - 3D LED Light Glass Acrylic Writing Pad](https://kaufivo.store/products/acrylic-paint-on-glass): Transform your creativity with our 3D LED Light Glass Acrylic Writing Pad. Perfect for applying acrylic paint on glass, this innovative tool elevates your artistic designs effortlessly.
+  Updated: 2025-11-16T02:17:52Z
+  Vendor: 3ga309-94
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/3334/8642/files/5812769308.jpg?v=1763216263
+  Price: ₹699.00 INR
 
 ## Collections
 
@@ -242,11 +249,14 @@
   Updated: 2025-10-19T08:42:16Z
   Total Products: 7
 - [99 Store - Best Sellers Collection | Top Picks at 99 Store](https://kaufivo.store/collections/best-sellers-99-store): Discover the best sellers at 99 Store! Explore top picks and unbeatable deals on popular products. Shop now and find your favorites at incredible prices!
-  Updated: 2025-10-24T16:05:59Z
-  Total Products: 27
+  Updated: 2025-11-15T14:47:51Z
+  Total Products: 28
 - [99 Store: Incredible Deals and Unique Finds at KauFivo 99 Store](https://kaufivo.store/collections/kaufivo-99-store): Discover unbeatable bargains and unique items at KauFivo 99 Store. Your ultimate 99 Store for incredible deals awaits—shop now for extraordinary finds and savings!
   Updated: 2025-10-19T08:42:16Z
   Total Products: 0
+- [Home Decor 99 - Stylish and Unique Pieces for Your Home Transformation](https://kaufivo.store/collections/home-decor-99): Discover unique styles with Home Decor 99. Elevate your space with our curated collection of trendy and affordable home decor items. Transform your home today!
+  Updated: 2025-11-15T14:47:51Z
+  Total Products: 1
 
 ## Blogs
 
@@ -278,6 +288,9 @@
   - [Adivasi Neelabari Herbal Hair Oil – Neem, Amla & Bhringraj for Natural Hair Growth & Scalp Care](https://kaufivo.store/blogs/news/transform-your-hair-texture-with-neem-amla-bhringraj-power-real-benefits-and-how-to-use-herbal-hair-oils-for-maximum-effect): Adivasi Neelabari Herbal Hair Oil – Neem, Amla & Bhringraj for Natural Hair Growth & Scalp Care
     Updated: 2025-11-08T02:31:31Z
     Author: kaufivo Admin
+  - [How to Choose Authentic 14K & 18K Gold Necklaces: Design, Durability & Value](https://kaufivo.store/blogs/news/how-to-choose-authentic-gold-necklaces-that-retain-value-expert-tips-on-chain-length-clasp-types-and-personalization): How to Choose Authentic 14K & 18K Gold Necklaces: Design, Durability & Value
+    Updated: 2025-11-15T02:31:21Z
+    Author: kaufivo Admin
 
 ## Store Pages
 
@@ -285,8 +298,8 @@
   Updated: 2025-10-08T12:47:35Z
 - [99 Store Review Submission - Share Your Thoughts and Feedback Today](https://kaufivo.store/pages/review-submission-99-store): Why You Should Trust the 99 Store for Your Shopping NeedsWelcome to the 99 Store, your ultimate destination for unbeatable deals and quality produc...
   Updated: 2025-10-08T12:48:42Z
-- [NULL](https://kaufivo.store/pages/html-sitemap): Products Pet Electric Spray Comb Cool Breeze Fan Stainless Steel Pet Grooming Glove - pet grooming near me 4 in 1 Portable Electric Vegetable Cutte...
-  Updated: 2025-10-08T12:57:44Z
+- [NULL](https://kaufivo.store/pages/html-sitemap): Products Stainless Steel Pet Grooming Glove - Gentle Deshedding Brush for Pet Grooming near Me 4 in 1 Portable Electric Vegetable Cutter Set Automa...
+  Updated: 2025-11-15T14:10:00Z
 
 ## Policies
 
