@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-15T00:00:30.273Z
+- Updated At: 2025-11-17T00:00:38.339Z
 
 ## Products
 
@@ -484,7 +484,7 @@
     Availability: Available
     Price: ₹1,250.00 INR
 - [Buy ​United Medicare P.F Night Splint (De-Rotation) (D-08) - Surgismart](https://surgismart.in/products/d-08): Key Features:A night splint helps prevent achilles tendon contracture during prolonged bed rest. The night splint has adjustable closure straps and a dorsiflexion assist strap. De-rotation bar assists in the rotation of the leg in postoperative care. The night splint strap provided can be tied at the end of the bed to fix it. It is used to support an injured or fractured bone after an operation or during the recovery process. Direction of use Loosen all the straps. Thread the leg through the straps and tighten the ankle strap along while adjusting the cushion pad. Similarly, adjust and tighten the rest of the straps as per comfort level. The angle of dorsiflexion can be customized by pulling or loosening both hook loop fasteners present on either side of the night splint. Safety information Before using, carefully read the label. Keep out of childrens reach. The UM P.F night splint is designed to prevent hip rotation and the de-rotation bar assists the rotation of the foot. It is also available in universal sizes, so anyone can use it easily.A night splint is used to control conditions such as achilles tendinopathy and plantar fasciitis.The night splint has adjustable closure straps and a dorsiflexion assist strap. It is used to de-rotate and assist in the rotation of the leg in postoperative care.UM night splint is used for patients who have plantar fasciitis, achilles tendonitis and foot surgery. It provides immobilization for the foot post-surgery.You should use PF night splint as per your doctors instructions. So before you use the night splint, consult your doctor to know how long you should wear your night splint.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:27Z
+  Updated: 2025-11-16T11:01:32Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
@@ -1193,7 +1193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Pace-3.jpg?v=1751478463
   Price: ₹1,505.00 INR
 - [Buy ​Samso Flex Digital Multipurpose Scale - Surgismart](https://surgismart.in/products/samso-flex): Double Side Green LED Display Power Lead Included (Not Adopter) Rechargeable Battery - 3.7V ~ 2000mAH (40 hours backup) Stainless Steel Pan - Surgismart
-  Updated: 2025-10-15T09:37:49Z
+  Updated: 2025-11-15T03:45:22Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
@@ -2517,7 +2517,7 @@
     Availability: Available
     Price: ₹973.00 INR
 - [Buy ​Electraa Electro-Surgical Pencil - Surgismart](https://surgismart.in/products/electraa-electro-surgical-pencil): Electro-Surgical Pencil with Tip Cleaner. Provided with 3.1 mtr cable and three pin socket. Ergonomically designed surface for comfort gripping that reduces any slipping when used in wet conditions. Unique combination of ‘Cut’ and ‘Coag’ mode facilitates controlled dissection with imposed hemostasis and also offers least tissue drag. Individually packed in peelable pack. Sterile, ready for use. Product Specifications: Brand Romsons Generic Name Electro-Surgical Pencil Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265603801 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:40Z
+  Updated: 2025-11-15T05:23:03Z
   Vendor: Romsons
   Product Type: Surgical Skin Marker & Pencil
   Availability: Available
@@ -3155,7 +3155,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/JulySocialMedia_3.png?v=1759478790
   Price: ₹1,499.00 INR
 - [Buy 18" Disposable Bouffant Caps – Pack of 100 – Blue, Latex-Free](https://surgismart.in/products/18-inch-disposable-bouffant-caps-blue-pack-of-100): Comfortable 18" blue disposable bouffant caps by Surgismart. Ideal for medical, kitchen, salon & lab use. Pack of 100. Breathable, latex-free, secure fit.
-  Updated: 2025-10-03T08:06:40Z
+  Updated: 2025-11-15T11:43:07Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-11-13T12:18:42Z
+  Updated: 2025-11-16T12:18:30Z
   Total Products: 153
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-11-10T12:17:21Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-11-13T12:18:42Z
+  Updated: 2025-11-16T12:18:30Z
   Total Products: 5
 
 ## Blogs
