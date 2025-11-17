@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-11-16T00:00:44.716Z
+- Updated At: 2025-11-17T00:00:56.365Z
 
 ## Products
 
@@ -1296,7 +1296,7 @@
     Availability: Available
     Price: $105.00 USD
 - [Another Glass Of Wine Boxer](https://www.unusualbabeundercover.com/products/another-glass-of-wine-boxer): Happy Hour Boxer Short Easy Fit Elastic Waist Boxer Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:31Z
+  Updated: 2025-11-16T06:22:26Z
   Vendor: Unusual Babe Undercover
   Product Type: Pajamas
   Availability: Available
