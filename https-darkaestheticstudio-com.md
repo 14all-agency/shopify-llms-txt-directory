@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-13T00:00:28.339Z
+- Updated At: 2025-11-17T00:00:26.661Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -1321,8 +1321,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-10-23T19:24:21Z
   Total Products: 1
 - [Accessoarer](https://darkaestheticstudio.com/collections/accessoarer): Små detaljer, stor effekt. Våra accessoarer är skapade för att förstärka din stil och uttrycka din identitet – oavsett om det är genom metall, textil eller symbolik.Från nyckelringar med budskap till smycken med skuggor – varje objekt bär på en berättelse. 🕯️ Begränsade upplagor🕯️ Designade med känsla för mörker och estetik🕯️ Perfekta som gåvor eller personliga signature
-  Updated: 2025-11-11T20:13:17Z
-  Total Products: 10
+  Updated: 2025-11-13T20:06:10Z
+  Total Products: 11
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
   Updated: 2025-10-29T11:26:38Z
   Total Products: 6
@@ -1330,8 +1330,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-11T19:19:49Z
   Total Products: 20
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-11T20:27:49Z
-  Total Products: 61
+  Updated: 2025-11-13T20:06:10Z
+  Total Products: 62
 - [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-11-11T19:57:35Z
   Total Products: 11
@@ -1339,8 +1339,8 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-09T21:10:02Z
   Total Products: 2
 - [Skuggnytt🕯️](https://darkaestheticstudio.com/collections/skuggnytt🕯️): Välkommen till Skuggnytt – Här samlas det senaste produkterna från vår studio.För dig som dras till det mystiska, det vackert udda och det visuellt djärva. Varje produkt är utvalt med omsorg – med känsla för detaljer, stämning och själ. Följ med in i skuggorna – där idéer föds, trender vrids och mörkret får tala.
-  Updated: 2025-11-11T20:27:49Z
-  Total Products: 21
+  Updated: 2025-11-13T20:06:10Z
+  Total Products: 22
 
 ## Store Pages
 
