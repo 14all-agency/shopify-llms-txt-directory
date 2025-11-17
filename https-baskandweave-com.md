@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-16T00:58:46.128Z
+- Updated At: 2025-11-17T00:00:38.752Z
 
 ## Products
 
@@ -15143,7 +15143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-pique-polo-shirt-white-front-67967667ed673.jpg?v=1737916824
     Price: $38.00 USD
 - [Women's Garment-Dyed Heavyweight T-Shirt – Embroidered](https://baskandweave.com/products/womens-garment-dyed-heavyweight-embroidered-t-shirt): Discover comfort and style in this women's garment-dyed heavyweight t-shirt. Made from soft cotton with fine embroidery, ideal for daily effortless wear.
-  Updated: 2025-11-03T23:16:16Z
+  Updated: 2025-11-16T08:31:53Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -21962,8 +21962,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-tote-bag-yellow-15x15-front-67a6c00327068.jpg?v=1738983801
     Price: $28.00 USD
-- [Eco Tote Bag – Sustainable & Reusable Shopping Bag](https://baskandweave.com/products/eco-tote-bag): Discover our Eco Tote Bag made from sustainable materials — a durable, reusable, and eco-friendly shopping bag perfect for everyday essentials.
-  Updated: 2025-11-08T23:48:20Z
+- [Eco-Friendly Tote Bag – Sustainable & Reusable Shopping Bag](https://baskandweave.com/products/eco-tote-bag): This eco-friendly tote bag is made from sustainable materials, offering a durable, reusable, and stylish option for everyday shopping and essentials.
+  Updated: 2025-11-16T21:49:34Z
   Vendor: Bask & Weave
   Product Type: Tote Bags
   Availability: Available
@@ -22058,14 +22058,14 @@
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Backpack.jpg?v=1740984074
   Price: $58.50 USD
 - [Minimalist Backpack – All-Over Print Stylish Travel Bag](https://baskandweave.com/products/all-over-print-minimalist-backpack): Shop our minimalist backpack with all-over print design. Perfect for travel or daily use, lightweight, durable, and stylish for every adventure.
-  Updated: 2025-11-08T00:04:41Z
+  Updated: 2025-11-16T21:42:37Z
   Vendor: Bask & Weave
   Product Type: Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Minimalist_Backpack.jpg?v=1740983864
   Price: $58.50 USD
-- [Neck T-Shirt – Organic Ribbed Unisex Eco-Friendly Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Discover our Organic Ribbed Neck T-Shirt, a unisex eco-friendly tee made from soft, sustainable materials. Stylish, comfortable, and perfect for everyday wear.
-  Updated: 2025-11-08T23:46:57Z
+- [Organic Ribbed Neck T-Shirt – Unisex Eco-Friendly Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Discover our Organic Ribbed Neck T-Shirt, a unisex eco-friendly tee made from soft, sustainable materials. Stylish, comfortable, and perfect for everyday wear.
+  Updated: 2025-11-16T21:43:32Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
