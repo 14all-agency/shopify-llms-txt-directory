@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-11-14T00:00:46.085Z
+- Updated At: 2025-11-17T00:00:50.251Z
 
 ## Products
 
@@ -894,13 +894,6 @@
   - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-libby-lilly?variant=39553716158558)
     Availability: Available
     Price: $40.00 NZD
-- [CONNETIX Rainbow Mega Pack 212pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-maga-pack): Connetix magnetic building tiles are an open-ended toy that grows with each child. The mega pack comes with enough tiles to build a city, with vehicles to explore it. It includes 212 magnetic building tiles including hexagonal pieces. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:20Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Mega1copy.jpg?v=1636411896
-  Price: $349.99 NZD
 - [VIVA LA VULVA Peri Wash Cleansing Bottle](https://www.littlebambinos.co.nz/products/viva-la-vulva-peri-wash-cleansing-bottle): Sometimes wiping just isnâ€™t an option post birth and it stings to pee. Letâ€™s face it, itâ€™s FRAGILE AF down there! Your peri wash bottle helps dilute your urine to prevent stinging and infection. We know it looks weird, but honestly, it will be one of your go-to-best-things-ever to take care of down there after baby is born. When toilet paper feels like sandpaper, use your peri wash bottle on your stitches or tears for the first couple of weeks following your birth. Your vagina and perineum are working double-time to repair themselves. Give them a little extra help by using our easy and portable postpartum cleansing peri wash bottle.
   Updated: 2025-11-10T22:55:36Z
   Vendor: Viva La Vulva
@@ -972,7 +965,7 @@
     Availability: Not Available
     Price: $12.00 NZD
 - [WILSON & FRENCHY Organic Rib Zipsuit - Blush](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-stripe-rib-zipsuit-blush): Made with GOTS certified organic cotton, this adorable short sleeve rib zipsuit with ankle band features a one-way zip opening with protective zip cover. Super soft and comfortable against baby's skin. DETAILS 95% organic cotton, 5% elastane Made in India GOTS certified CARE Machine Washable
-  Updated: 2025-11-10T22:55:43Z
+  Updated: 2025-11-15T06:16:39Z
   Vendor: Wilson & Frenchy
   Product Type: Zipsuit
   Availability: Available
@@ -1559,13 +1552,13 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerPressToy_SoftLilac_Daffodil_Ivory_copy.jpg?v=1651055898
   Price: $29.99 NZD
 - [FRIGG Pacifier - Moon - Natural Rubber - Cream](https://www.littlebambinos.co.nz/products/frigg-moon-pacifier-cream): The FRIGG Moon Phase is a pacifier inspired by the Moon in motion. The shifting Moon Phases are reflected on the pacifier shield, and they function as air holes to ventilate babyÃ¢â‚¬â„¢s sensitive skin. Designed and manufactured in Denmark.
-  Updated: 2025-11-10T22:58:51Z
+  Updated: 2025-11-16T01:57:03Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FRIGGMoonPhaseNaturalRubberPacifier_Cream_copy.jpg?v=1719292162
   - [Size 1](https://www.littlebambinos.co.nz/products/frigg-moon-pacifier-cream?variant=39687881752670)
-    Availability: Available
+    Availability: Not Available
     Price: $18.99 NZD
   - [Size 2](https://www.littlebambinos.co.nz/products/frigg-moon-pacifier-cream?variant=39687881785438)
     Availability: Available
@@ -1796,7 +1789,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/hbplatinum1.png?v=1662803045
   Price: $7.00 NZD
 - [SUSUKOSHI Organic Kimono Bodysuit SS - Platinum](https://www.littlebambinos.co.nz/products/susukoshi-organic-kimono-bodysuit-ss-platinum): Made with a beautifully soft organic cotton elastane, suitable for delicate baby's skin. Features snap buttons made for easy changing but don't necessarily have to be opened when putting it on wriggly toddlers. Susukoshi basics are well designed for comfort and everyday wear. DETAILS 95% organic cotton, 5% elastane with organic dye Designed in Australia, ethically made in China SIZING True to size CARE Machine cold wash. Delicate cycle. Do not dry clean. Do not bleach. Tumble dry low. *Please bear in mind that photos may be slightly different from actual items in terms of colour due to the lighting during photo shooting or the monitor's display.
-  Updated: 2025-11-10T23:00:18Z
+  Updated: 2025-11-14T14:13:21Z
   Vendor: Susukoshi
   Product Type: Bodysuit
   Availability: Available
@@ -2111,7 +2104,7 @@
     Availability: Available
     Price: $18.99 NZD
 - [FRIGG Pacifier - Daisy - Glow In The Dark - Natural Silicone - Cream](https://www.littlebambinos.co.nz/products/frigg-daisy-silicone-pacifier-cream-night): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2025-11-10T23:00:55Z
+  Updated: 2025-11-16T01:57:03Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -2367,22 +2360,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ScreenShot2022-10-09at7.09.30PM.png?v=1665295917
   Price: $22.99 NZD
-- [MUSHIE Training Toothbrush - Pale Daffodil](https://www.littlebambinos.co.nz/products/copy-of-mushie-training-toothbrush-pale-daffodil): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
-  Updated: 2025-11-10T23:02:00Z
-  Vendor: Mushie
-  Product Type: Baby Toothbrush
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Pale.jpg?v=1674097728
-  Price: $21.99 NZD
-- [MUSHIE Feeding Spoon Set - Ivory](https://www.littlebambinos.co.nz/products/mushie-feeding-spoon-set-ivory): The sweetest spoons for your baby. Made of 100% BPA and chemical free material, our silicone spoons are perfect for feeding your baby. The soft silicone tip protects your baby's sensitive gums and newly grown teeth making meal time enjoyable for you and your little one! To clean, wash with warm, soapy water and let dry.
-  Updated: 2025-11-10T23:02:01Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Screenshot2022-10-11133537.jpg?v=1665448570
-  Price: $17.99 NZD
 - [MUSHIE Feeding Spoon Set - Pale Daffodil](https://www.littlebambinos.co.nz/products/mushie-feeding-spoon-set-pale-daffodil): Made of 100% BPA and chemical free material, our silicone spoons are perfect for feeding your baby. The soft silicone tip protects your baby's sensitive gums and newly grown teeth making meal time enjoyable for you and your little one!
-  Updated: 2025-11-10T23:02:02Z
+  Updated: 2025-11-14T08:15:56Z
   Vendor: Mushie
   Product Type: Dinnerware
   Availability: Available
@@ -2402,13 +2381,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Screenshot2022-10-11134455.jpg?v=1665449171
   Price: $17.99 NZD
-- [MUSHIE Finger Toothbrush - Cambridge Blue/Shifting Sand](https://www.littlebambinos.co.nz/products/mushie-finger-toothbrush-cambridge-blue-shifting-sand): Help brushing go smoothly and begin building good habits with these 100% BPA-free, chemical-free finger toothbrushes! Made from food grade silicone, the bumps on the back assist with sore, teething gums while the bristles on the front keep your baby's teeth clean.
-  Updated: 2025-11-10T23:02:06Z
-  Vendor: Mushie
-  Product Type: Baby Toothbrush
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Screenshot2022-10-11134816.jpg?v=1665449373
-  Price: $18.99 NZD
 - [MUSHIE Fork & Spoon Set - Blush](https://www.littlebambinos.co.nz/products/mushie-fork-spoon-set-blush): With soft colours and clean design, this cutlery set is simple and elegantÃ¢â‚¬â€and easy for your baby to hold. Each set comes with 1 x spoon & 1 x fork
   Updated: 2025-11-10T23:02:06Z
   Vendor: Mushie
@@ -2506,13 +2478,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SiliconeSippyCup_Blush.jpg?v=1667269843
-  Price: $29.99 NZD
-- [MUSHIE Silicone Sippy Cup - Powder Blue](https://www.littlebambinos.co.nz/products/mushie-silicone-sippy-cup-powder-blue): Start little feeders with a simple and beautiful silicone sippy cup, designed to be comfortably held by tiny hands. As your baby begins the transitions from bottles to cups, Mushie's silicone sippy cup helps develop fine motor skills and independent eating
-  Updated: 2025-11-10T23:02:19Z
-  Vendor: Mushie
-  Product Type: Dinnerware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SiliconeSippyCup_PowderBlue.jpg?v=1667269865
   Price: $29.99 NZD
 - [MUSHIE Silicone Sippy Cup - Shifting Sand](https://www.littlebambinos.co.nz/products/copy-of-mushie-silicone-sippy-cup-shifting-sand): Start little feeders with a simple and beautiful silicone sippy cup, designed to be comfortably held by tiny hands. As your baby begins the transitions from bottles to cups, Mushie's silicone sippy cup helps develop fine motor skills and independent eating
   Updated: 2025-11-10T23:02:20Z
@@ -3796,7 +3761,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $39.00 NZD
 - [KONGES SLOJD Baby Bikini Pants 2pk - Orangery Blue](https://www.littlebambinos.co.nz/products/konges-slojd-collette-2-pack-baby-bikini-pants-orangery-blue): Bikini pants made in 80 percent recycled polyester and 20 percent elastane designed with babylock edges.
-  Updated: 2025-11-10T23:06:01Z
+  Updated: 2025-11-16T11:35:15Z
   Vendor: Konges slojd
   Product Type: Swimwear
   Availability: Available
@@ -5191,7 +5156,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [TOSHI Flap Cap Bambini - Athena Blossom](https://www.littlebambinos.co.nz/products/toshi-flap-cap-bambini-athena-blossom): The Toshi Flap Cap Bambini is the ideal baby sunhat. Shading precious babies from the elements is the priority and this flap cap has a contoured neck flap for enhanced sun protection. A head tie creates adjustable sizing and the chin tie secures the cap. Made from the finest quality 100% cotton knit, the baby sunhat is gentle to wear, functional and practical.
-  Updated: 2025-11-10T23:07:57Z
+  Updated: 2025-11-15T08:53:18Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5203,7 +5168,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $32.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-bambini-athena-blossom?variant=40039456768094)
-    Availability: Available
+    Availability: Not Available
     Price: $32.00 NZD
 - [TOSHI Sunhat  Athena - Blossom](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-athena-blossom): Toshi presents the classic Sunhat, ideal for children of all ages. The broad and well-structured brim offers increased sun protection. A head tie creates adjustable sizing and the chin tie with toggle secures the hat for ease of wear. The security release clasp on the chin tie is designed to enhance wearer safety. The classic Toshi Sunhat is crafted from the finest quality 100% cotton and is fully lined for additional comfort. Finest quality 100% cotton Head tie and toggle for adjustable sizing Broad brim for enhanced sun protection Original and exclusive Toshi print design Quality crafting provides lasting durability Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â Â
   Updated: 2025-11-10T23:07:58Z
@@ -5443,21 +5408,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-athena-dusk?variant=40039515684958)
-    Availability: Not Available
-    Price: $40.00 NZD
-- [TOSHI Swim Sunhat - Coral](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-coral): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.Â DETAILS Head tie for adjustable sizing Chin toggle to secure hat UPF 50+ UV protection Chlorine safe and pool friendlyÂ SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-11-10T20:50:31Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SB_SU_CLA_CRL_T_Toshi.jpg?v=1691987513
-  - [XS](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-coral?variant=40039519060062)
-    Availability: Available
-    Price: $40.00 NZD
-  - [S](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-coral?variant=40039519092830)
-    Availability: Not Available
-    Price: $40.00 NZD
-  - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-coral?variant=40039519125598)
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Sunhat - Reef](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-reef): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.
@@ -6727,49 +6677,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
 - [CONNETIX Pastel Starter Pack 64pc](https://www.littlebambinos.co.nz/products/connetix-pastel-starter-pack-64pc): Discover your inner engineer, artist and designer when you build and create with the Pastel Starter Pack! Featuring a variety of small and large squares, as well as equilateral, isosceles and right-angled triangles in our unique earthy pastel colours, the 64 Piece Pastel Starter Pack offers limitless play potential.
-  Updated: 2025-11-10T22:20:19Z
+  Updated: 2025-11-14T19:46:02Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/600-x-600_64pc-Pastel-Starter_c7a7c607-d579-45ab-8aa6-90e8c4c21e40.jpg?v=1702928317
   Price: $142.99 NZD
 - [CONNETIX Pastel Ballrun 106pc](https://www.littlebambinos.co.nz/products/connetix-pastel-ballrun-106pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:17Z
+  Updated: 2025-11-16T20:01:26Z
   Vendor: Connetix
   Product Type: magnetic kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pastelballrun1_76123d1e-a23c-44e7-a689-8ef035222506.jpg?v=1702935857
   Price: $166.99 NZD
-- [CONNETIX Rainbow Ballrun 92pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-ballrun-92pc): Adults and children alike will delight in the limitless open-ended STEAM learning opportunities this 92 piece Ball Run Expansion Pack will inspire. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:17Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Ball-Run_Anglesmcopy_7626dbc8-4c6c-4a3b-8fe2-9f60fb712c74.jpg?v=1702935976
-  Price: $142.99 NZD
-- [CONNETIX Rainbow Creative Pack 102pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-creative-pack-102pc): Connetix magnetic building tiles are an open-ended toy that grows with each child. The creative pack allows you to take those constructions to the next level. It includes 100 magnetic building tiles including fences and rectangles. The tiles come in a range of six vibrant colours. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:17Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
-  Price: $169.99 NZD
-- [CONNETIX Pastel Creative Pack 120pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-creative-pack-120pc): Featuring 8 unique earthy pastel colours, the 120 Piece Pastel Creative Pack will bring imaginations to life and encourage open-ended play! Designed to encourage hours of limitless creativity, fun and learning through PLAY, the Pastel Creative Pack features a variety of shapes in 8 pastel colours. It is a great starter option for family play, building BIGGER Connetix creations and expanding the range of colours your children recognise!
-  Updated: 2025-11-10T22:20:16Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelCreative2_1_b61dc548-95de-460a-9d4b-a51631622686.jpg?v=1702936343
-  Price: $202.99 NZD
-- [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
-  Updated: 2025-11-12T17:35:11Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2BasePastelPinkBoxPhotocopy_db4a8a92-f237-410f-87a7-f290604fac12.jpg?v=1702936478
-  Price: $70.99 NZD
 - [CONNETIX Pastel Shape Expansion Pack 48 pc](https://www.littlebambinos.co.nz/products/connetix-pastel-shape-expansion-pack-48-pc): Expand play and learning possibilities with our 48 Piece Pastel Shape Expansion Pack. Featuring a range of exclusive magnetic tile shapes, including large triangles, right-angle triangles, quarter circles, pentagons, trapezoids and rhombi, this pack enhances design and play possibilities with Connetix.
-  Updated: 2025-11-10T22:20:16Z
+  Updated: 2025-11-16T23:38:55Z
   Vendor: Connetix
   Product Type: 
   Availability: Available
@@ -6846,7 +6768,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $29.00 NZD
 - [RYLEE + CRU Sweatshirt Surfboard - Seafoam](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam): Head in the clouds... this relaxed fit sweatshirt is made of the cosiest french terry. Featuring an exclusive print, this sweatshirt has rib knit at sleeve openings, neckline and bottom opening. Matching sweatpants available. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-11-10T19:37:23Z
+  Updated: 2025-11-16T06:51:47Z
   Vendor: rylee + cru
   Product Type: Sweater
   Availability: Available
@@ -6867,7 +6789,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $52.00 NZD
   - [4-5y](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880708702)
-    Availability: Available
+    Availability: Not Available
     Price: $52.00 NZD
   - [6-7y](https://www.littlebambinos.co.nz/products/rylee-cru-sweatshirt-seafoam?variant=40370880741470)
     Availability: Available
@@ -8674,7 +8596,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-11-10T23:10:28Z
+  Updated: 2025-11-16T00:49:31Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9157,7 +9079,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-sea-blossom): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-11-10T23:10:49Z
+  Updated: 2025-11-16T03:42:00Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9408,18 +9330,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-daintree?variant=41100501516382)
     Availability: Available
     Price: $36.00 NZD
-- [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-island-dreaming): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-11-10T23:10:53Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SK_SU_CLA_ISD_A_Toshi_5cb87a1c-4801-4942-a29a-8dd4410242bd.jpg?v=1724295228
-  - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-island-dreaming?variant=41100506300510)
-    Availability: Available
-    Price: $36.00 NZD
-  - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-island-dreaming?variant=41100506333278)
-    Availability: Not Available
-    Price: $36.00 NZD
 - [RYLEE + CRU Wide Leg Pant - Hearts](https://www.littlebambinos.co.nz/products/rylee-cru-wide-leg-pant-hearts): These Rylee + Cru wide leg woven pants for kids are stylish yet comfortable with elastic waistband and rope drawstring. These look great with the Rylee + Cru coordinating Oceanside top! Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $100.
   Updated: 2025-11-10T22:09:04Z
   Vendor: rylee + cru
@@ -9439,7 +9349,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [RYLEE + CRU Aspen Sweater - Fuzzy Stripe](https://www.littlebambinos.co.nz/products/rylee-cru-aspen-sweater-fuzzy-stripe-1): These Rylee + Cru wide leg woven pants for kids are stylish yet comfortable with elastic waistband and rope drawstring. These look great with the Rylee + Cru coordinating Oceanside top! Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-11-10T19:37:21Z
+  Updated: 2025-11-15T11:13:56Z
   Vendor: rylee + cru
   Product Type: sweater
   Availability: Available
@@ -9677,22 +9587,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/CONNETIX_16_Piece_Roads_R_I.jpg?v=1725229348
   Price: $124.99 NZD
-- [CONNETIX Rainbow Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-rainbow-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:14Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Littlebambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-1_600x_7b6f12ea-376f-4ae5-bbdc-e8ebbc2431a4.webp?v=1725231069
-  Price: $124.99 NZD
-- [CONNETIX Pastel Transport Pack 50pc](https://www.littlebambinos.co.nz/products/connetix-pastel-transport-pack-50pc): Take your pastel Connetix play to whirling, twirling new heights with our Pastel Ball Run Pack! Featuring pastel connector tiles and 8 pastel wooden balls, along with the classic ball run pieces. This is the perfect addition to our standard tile packs and a wonderful way to explore gravity and motion. Play and creativity using Connetix becomes more involved and complex as children learn and develop. Not only that, children can play independently or with friends and family, supporting important social skills such as teamwork, cooperation, perseverance and resilience.
-  Updated: 2025-11-10T22:20:14Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LittleBambinos-Connetix-50pc-Transport-Car-Train-Pack-Magnetic-Blocks-Toys-Pastel-1_600x_cde9878e-9742-42e8-b883-78712b372570.webp?v=1725231325
-  Price: $124.99 NZD
 - [KONGES SLOJD Rainy Palme Set - Safari](https://www.littlebambinos.co.nz/products/konges-slojd-rainy-palme-set): Wind-resistant and waterproof PU rain set with warm fleece lining inside. Features essential detailing like a lined, detachable hood, high collar, elastic cuffs, and welded seams for complete protection against the elements. *Please note: Up to size 4 years, all rain pants are designed with suspenders for an easy fit that stays put. For sizes 5-6 years and up, rain pants feature an elasticated waist – easy to pull on and off. DETAILS Shell: 100% polyurethane (PU) Lining: 100% polyester fleece and 100% polyester. Waterproof: 10.000 mm, Welded seams, Wind-resistant. This product is OEKO-TEX® STANDARD 100, class 1 certified by DTI Tekstil, License Number: DTI 2276-361.
-  Updated: 2025-11-10T07:58:13Z
+  Updated: 2025-11-14T06:29:55Z
   Vendor: Konges slojd
   Product Type: Matching Set
   Availability: Available
@@ -9707,7 +9603,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $150.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-rainy-palme-set?variant=41142967599198)
-    Availability: Available
+    Availability: Not Available
     Price: $150.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/konges-slojd-rainy-palme-set?variant=41142967631966)
     Availability: Not Available
@@ -10137,7 +10033,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $83.99 NZD
 - [KONGES SLOJD - Pram for Dolls - Flower Bouquet](https://www.littlebambinos.co.nz/products/konges-slojd-doll-bag-ma-grande-cerise-pink): This gorgeous doll stroller (pram) features a harness, carriage bag and double wheels on all four legs for extra stability. Features removable fabric made in 100% organic cotton making it easy to clean.
-  Updated: 2025-11-10T07:58:12Z
+  Updated: 2025-11-14T06:29:56Z
   Vendor: Konges slojd
   Product Type: Doll Accessories
   Availability: Available
@@ -10280,35 +10176,35 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
 - [BYEBYEBAD Blue Light Face Shield 75ml](https://www.littlebambinos.co.nz/products/blue-light-face-shield): Devices are everywhere, are not going anywhere and if you don’t use one then you’re lying because this is a website. While devices have brought much joy to the world, we are now learning that the light emitted from them can cause damage to skin much like the sun does. So just like we know to wear sunscreen before being in the sun, we need to protect our faces before hitting the screens for the day. Introducing the Blue Light Face Shield. A genius wee product designed to fend off the blue rays (not DVD’s) and protect all your lovely face skin. Featuring powerhouse antibacterial and antioxidant ingredients Bioactive Totarol™ from fallen NZ Tōtara trees and EnergiNius®, derived from Indian Ginseng roots that protects skin cells and helps prevent fine lines and wrinkles. A simple few pumps before you start your day will see you prepared and protected. Nice. 100% natural soothing protects skin cells through EnergiNius® antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly perfect for gaming nerds Ingredients: Aqua (Water); Aloe Barbadensis (Aloe Vera) Leaf Juice; Glycerin; Algae Extract [New Zealand Native Red Seaweed]; Cyathea Medullaris Extract [New Zealand Native Black Fern]; Camellia Sinensis [New Zealand Grown Certified Organic Green Tea]; Ribes Nigrum [New Zealand Grown Certified Organic Blackcurrant]; Fructose; Withania Somnifera (Indian Ginseng) Root Extract; Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Galactoarabinan; SodiumBenzoate, Potassium Sorbate; Caprylhydroxamic Acid; Glyceryl Caprylate; Gluconolactone, Calcium Gluconate; Phytic acid.
-  Updated: 2025-11-10T23:11:31Z
+  Updated: 2025-11-14T05:46:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-11-13T02:57:08Z
+  Updated: 2025-11-15T19:50:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-11-13T01:32:41Z
+  Updated: 2025-11-16T07:10:56Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-11-13T00:00:42Z
+  Updated: 2025-11-16T04:32:43Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-11-13T02:56:54Z
+  Updated: 2025-11-16T00:20:43Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -10830,13 +10726,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [2-3y](https://www.littlebambinos.co.nz/products/quincy-mae-waffle-slouched-set-blue?variant=41416307114078)
     Availability: Available
     Price: $80.00 NZD
-- [QUINCY MAY Baby Play Mat - Hot Air Balloons](https://www.littlebambinos.co.nz/products/quincy-may-baby-play-mat-hot-air-balloons): A soft and comfortable playmat so your baby can have padded cushion to lay, kick and roll on a hard floor. Beautifully designed so it can complement the decor in your nursery, and comes complete with its own carrying case for easy portability. Now play time is anytime! At home and while you're away.
-  Updated: 2025-11-10T22:09:09Z
-  Vendor: Quincy Mae
-  Product Type: Play Mats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/QMA301RTUN-IVORY-1_34a2ace0-9b28-4c9b-ac28-4d2725cf4c00.jpg?v=1741558403
-  Price: $89.00 NZD
 - [QUINCY Terry Retro Romper - Terracotta](https://www.littlebambinos.co.nz/products/quincy-mae-scalloped-cardigan-yellow): This fun retro romper is made of our terry cloth fabric with a rope drawstring at the waist for a perfect fit. It has snap closures at the back neck and bottom inseam opening for easy changing. Available in ocean and terracotta. Shop Quincy Mae. Free shipping on orders over $100.
   Updated: 2025-11-10T19:11:52Z
   Vendor: Quincy Mae
@@ -11415,7 +11304,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $50.00 NZD
 - [GROWN Quilted Reversible Vest - Denim & Paint](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint): Main: 100% Organic Cotton DenimWadding: 100% Recycled Polyester Lining: 100% CottonCool gentle machine wash Fit is true to size, refer to size chart for garment measurements. Studio model is aged 4 and wearing a size 4.
-  Updated: 2025-11-10T07:36:07Z
+  Updated: 2025-11-14T08:13:35Z
   Vendor: Grown
   Product Type: Vest
   Availability: Available
@@ -11424,7 +11313,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $65.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint?variant=41416558346334)
-    Availability: Available
+    Availability: Not Available
     Price: $65.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/grown-quilted-reversible-vest-denim-paint?variant=41416558379102)
     Availability: Not Available
@@ -11574,13 +11463,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102346-p10098_1.jpg?v=1738291023
   Price: $49.00 NZD
-- [KONGES SLOJD Children's Mini Backpack - Lemon](https://www.littlebambinos.co.nz/products/konges-slojd-rainy-kids-backpack-mini-sweet-and-sour): The Konges Slojd mini backpack is a perfect bag for children in kindergarten. The backpack has a front-chest buckle, padded shoulder straps, inside pockets, room for a thermal bottle and an inside water repellent foam board for back comfort. The foam board is removable and can be used to sit on as well.
-  Updated: 2025-11-10T07:58:10Z
-  Vendor: Konges slojd
-  Product Type: School Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks102580-p99103_1.jpg?v=1738291676
-  Price: $100.00 NZD
 - [KONGES SLOJD Minnie Body - Amour Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-minnie-body-amour-rouge): Soft cotton body with decorative pointelle. Designed with buttons at the shoulder up to size 18m for easy dressing.
   Updated: 2025-11-10T07:58:10Z
   Vendor: Konges slojd
@@ -11827,13 +11709,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $72.00 NZD
 - [ZULU & ZEPHYR Mini Stripe Rib Rashie Onesie - Shell Pink](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-rashie-onesie-shell-pink): Boys swim shorts. Zulu & Zephyr MINI swim is designed with sun protection, durability and style in mind. This season offers a vibrant, earthy colour palette of denim, papaya, avocado and mango in Zulu & Zephyrâ€™s debut EconylÂ® signature rib. The boys mini rib surf short is made from regenerated nylon and carries a sun protection rating of UPF 50+. A conscious intention to create cool swim that keeps our Miniâ€™s safe while caring for Planet Earth.
-  Updated: 2025-11-06T01:05:01Z
+  Updated: 2025-11-16T23:11:25Z
   Vendor: Zulu & Zephyr
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ZM1764G_4_1120x_62970262-6e21-4a40-bab0-1ee218d226e8.webp?v=1762200493
   - [2y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-rashie-onesie-shell-pink?variant=41448753365086)
-    Availability: Available
+    Availability: Not Available
     Price: $89.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/zulu-zephyr-mini-stripe-rib-rashie-onesie-shell-pink?variant=41448753397854)
     Availability: Available
@@ -12516,7 +12398,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at10.41.59AM.png?v=1741902125
   Price: $13.00 NZD
 - [MIMI & LULA Girl's Marseille Acetate Hair Clips](https://www.littlebambinos.co.nz/products/mimi-lula-christmas-mini-clips): Bright and fresh pastel coloured, super cool resin clips! These gorgeously simple, summery clips come in a pack of four and look amazing sweeping back stray hairs, or holding up a 'do. Coming in colours of soft pinks, aqua and yellow, these would look amazing worn in pairs and with a large strong clip they are great for thicker hair, and would even work in adult hair in case you fancy borrowing!
-  Updated: 2025-11-12T06:26:35Z
+  Updated: 2025-11-14T12:18:14Z
   Vendor: Mimi & Lula
   Product Type: Hair Accessoriess
   Availability: Available
@@ -12743,14 +12625,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-11-13T23:56:41Z
+  Updated: 2025-11-16T23:56:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil_4f8190e3-b9fc-4a7c-8e7f-7f4946ec9084.jpg?v=1744072483
   Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-11-11T00:42:42Z
+  Updated: 2025-11-16T23:40:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -12775,21 +12657,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_clay_mask_28802afd-54d1-4402-a5bd-df40b82950cc.jpg?v=1744072321
   Price: $59.00 NZD
 - [ORIA SKIN Brightening Enzyme Polish](https://www.littlebambinos.co.nz/products/active-brightening-polish): 100% Natural Brighten skin tone.Exfoliate & smooth.Bring balance. Find freedom from hormonal skin with a twice-weekly gentle exfoliation. An all-natural exfoliant, packed with vitamin C & AHAs to gently smooth, brighten & freshen up your complexion without the usual harshness. Fruit enzymes & antioxidants work together to boost collagen production, for an all over healthy glow. How it works: Pineapple extract enzyme - Enzymes are a natural exfoliator. Creates a chemical reaction on the skin to dissolve dry, hardened and dead skin cells encourages the new growth of healthy new cells to take their place. Harakeke extract - softens your skin while naturally promoting recovery in skin damaged by irritation, environmental stresses and late nights etc. Hibiscus extract - unclogs the pores and hydrates the skin, thus making it visibly soft, smooth, and radiant. Ritual Use twice weekly to gently exfoliate by massaging into damp skin, avoiding contact with eyes. Complete the routine with Oria Skin serum, moisturiser & oil. Espeically useful to use after days of wearing makeup or sunscreen which can cause build up and clog pores. Ingredients Aloe Barbadensis Leaf Juice* (Aloe Vera), Pumice Powder, Hibiscus Sabdariffa Flower (Hibiscus Extract), Ananas sativa Fruit Extract (Pineapple), Phormium tenax extract (Harakeke), Carica Papaya extract, Citric acid, Sodium benzoate, Potassium sorbate, Citrus sinensis* (Orange sweet essential oil). *Organic
-  Updated: 2025-11-13T22:36:41Z
+  Updated: 2025-11-16T07:16:43Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-11-13T23:52:41Z
+  Updated: 2025-11-16T23:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/gentle_cleansing_milk_1_46e2852f-be81-419b-b310-2f3d182099dc.jpg?v=1744072183
   Price: $45.00 NZD
 - [ORIA SKIN Hydrating Booster Serum](https://www.littlebambinos.co.nz/products/hydrating-booster-serum-hyaluronic-acid): 100% Natural Calm & soothe. Deep hydration.Bring balance. Packed with hormone-friendly, clinically proven ingredients that your skin will drink up. While the Hyaluronic Acid hydrates & plumps, the cucumber & kawakawa soothe & brighten your skin, bringing the dewy glow you’ve been looking for. How it works: Hyaluronic Acid - reduces the lines in your face by hydrating and softening it allowing it to have more flex - it pulls moisture into the top layers of the skin which gives you that dewy look instantly. Kawakawa extract provides instant calming, anti-inflammatory relief to skin- particularly useful when you have red, sore or itchy skin - useful after skin treatments that leave the skin feeling hot or raw. Cucumber extract revitalises the skin, also deeply hydrating, useful when the HA is drawing moisture in, this gives it something to really pull into the skin layers. How to use Cleanse your face and apply Hydrating Booster Serum to clean skin. Follow it with an Oria Skin moisturiser or oil to lock in the bounce and complete your regime. Ingredients Aqua, Sodium hyaluronate (Hyaluronic acid), Aqua, Macropiper excelsum (Kawakawa leaf extract) Cucumis sativus Fruit extract (Cucumber extract), Macropiper excelsum (Kawakawa leaf) Glycerol, benzyl alcohol & dehydroacetic acid, Sodium Benzoate, Citric Acid, Potassium Sorbate , Cinnamomum camphora linalooliferum (Ho Wood essential oil)
-  Updated: 2025-11-11T00:52:41Z
+  Updated: 2025-11-16T07:10:49Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -12863,7 +12745,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/OriaBag_aafbfa32-2e73-47de-a4bd-0d9d52b282b3.png?v=1744001857
   Price: $25.00 NZD
 - [ORIA SKIN The Mini Set](https://www.littlebambinos.co.nz/products/the-mini-set): The Mini Set Discover the perfect introduction to Oria Skin with The Mini Set, a travel-friendly collection designed to cover all your skincare needs, no matter where life takes you. This set includes mini travel-sized jars and bottles, so you can sample our bestsellers or pack them easily for your next getaway. $121 in value for only $69! Inside, you'll find: Gentle Cleansing Milk (30g) – A mild, nourishing cleanser that gently removes impurities without disrupting your skin’s natural balance. Balancing Day Cream (30g) – Lightweight yet hydrating, this day cream helps maintain your skin’s moisture and balance throughout the day. Overnight Firming Cream (30g) – Wake up to rejuvenated skin with this rich, firming cream that works overnight to restore and smooth. Rejuvenating Face Oil (5ml) – A luxurious, nutrient-packed oil that revitalises and restores a healthy glow. Hydration Booster Serum (5ml) – A powerful serum that locks in moisture, leaving your skin soft, dewy, and deeply hydrated. Whether you're just starting to explore Oria Skin’s natural formulations or need compact sizes for your travels, The Mini Set is the perfect way to experience a full, balanced routine on the go. All products are designed to work together, providing your skin with the care it deserves—anytime, anywhere.
-  Updated: 2025-11-08T03:12:42Z
+  Updated: 2025-11-16T23:32:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13287,7 +13169,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $29.00 NZD
 - [WILSON & FRENCHY Organic Knitted Legging - Grey Melange and Oatmeal](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal): Stay cosy with our knitted leggings for babies. Made from a blend of organic cotton, bamboo, and wool, these leggings will keep your little one warm and comfortable. The soft elastic waistband is gentle on their tummies, making them perfect for all-day wear. DETAILS Full length leg with stretchy waistband, mock wood button design detail, packaged in a bio-degradable bag.
-  Updated: 2025-11-10T23:12:24Z
+  Updated: 2025-11-16T05:54:06Z
   Vendor: Wilson & Frenchy
   Product Type: Leggings
   Availability: Available
@@ -13302,6 +13184,9 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $32.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=41648851746910)
+    Availability: Not Available
+    Price: $32.00 NZD
+  - [12-18m](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-legging-grey-melange-and-oatmeal?variant=42191170797662)
     Availability: Available
     Price: $32.00 NZD
 - [WILSON & FRENCHY Organic Knitted Ribbed Jumper - Grey Melange and Oatmeal](https://www.littlebambinos.co.nz/products/wilson-frenchy-grey-melange-and-oatmeal-organic-knitted-ribbed-jumper): Stay cosy and cute with our chunky rib knitted jumper. Made from a luxurious blend of organic cotton, wool, and bamboo, this roomy fit jumper will keep your little one warm and stylish. With ribbed cuffs and neckline, it's the perfect choice for babies and kids. DETAILS Relaxed fit, long sleeved, ribbed cuffs, packaged in a bio-degradable bag.
@@ -13734,14 +13619,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103353-p00038_1_3fdb51fe-d190-4e8d-820c-2f38400ae78c.jpg?v=1748423209
   Price: $70.00 NZD
 - [MODERN MINI Beige Multi-Use Cover](https://www.littlebambinos.co.nz/products/beige-multi-use-cover): Protect your baby with the versatile Beige Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-11-11T01:04:46Z
+  Updated: 2025-11-16T21:40:47Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f851651-5a6d-4c20-be08-6bc6735b096b.png?v=1749600805
   Price: $69.00 NZD
 - [MODERN MINI Gingham Multi-Use Cover](https://www.littlebambinos.co.nz/products/gingham-multi-use-cover): Protect your baby with the versatile Gingham Multi-Use Cover. Designed to shield from germs, harsh weather, and bright light, it offers safety and comfort whether used as a capsule cover, carry cot cover, breastfeeding cover, high chair cover, or shopping trolley cover. Made from soft, breathable bamboo fabric with a stretchy fit, it ensures privacy and protection while being lightweight and easy to clean. Compact and convenient, it even fits most toddler stroller seats, making it an essential companion for your little one’s daily needs. Capsule Cover Sheild your baby from germs, harsh weather, cold air conditioning & unwanted attention. Safety first. Carry Cot Cover Ensure your baby sleeps peacefully, shielded from bright light and changing weather conditions. Breastfeeding Cover Breastfeed with confidence—enjoy full privacy, complete freedom to move, and a cover that stays securely in place. High Chair Cover Keep your baby safe from germs with a protective barrier for public high chairs. Shopping Trolley Cover Keep toys and snacks off the floor with a secure, catch-all design, before they hit the ground. Product Details Buttery soft, breathable bamboo material. 95% Bamboo, 5% Spandex. Fits most capsules and carry cots, with 4 way stretch. Lightweight & machine washable. Protect your baby from germs, bright light & harsh weather. Folds compact to fit in small compartments of your baby bag. Bonus 6th Use: Fits over most toddler stroller seats.
-  Updated: 2025-11-13T18:28:47Z
+  Updated: 2025-11-16T21:16:47Z
   Vendor: Modern Mini
   Product Type: 
   Availability: Available
@@ -13922,7 +13807,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-trike-pink-1.png?v=1750297664
   Price: $279.99 NZD
 - [BANWOOD Trike - Cream](https://www.littlebambinos.co.nz/products/trike-4): The Banwood Trike is a classic designed baby trike and is the perfect way to bring even the smallest ones out on an outdoor bike ride. It’s suitable for kids from 2 years and comes with a detachable push handle, to help the smallest ones get started. This cream tricycle for kids is built out of sturdy materials. The grips are made of vegan leather, easy to wipe off and the pedals and seat are made of oak wood with soft padding for a comfy ride. The little one can bring along their favourite teddy bear or toys in the front wicker basket. Weight: 5 kgAge: 2–6 yearsFrame: Steel with a cream coloured finishSeat: Oak wood with soft padding in vegan leatherTyres: RubberGrips: Vegan leatherPedals: Oak woodAdd-ons: Front wicker basket, bell, removable push barAdjustable handlebar height: from 45cm - 50.5 cmSeat height: 30 cm
-  Updated: 2025-11-10T20:28:12Z
+  Updated: 2025-11-14T04:20:01Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -13936,7 +13821,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-TRIKE-RED-1.jpg?v=1750297666
   Price: $279.99 NZD
 - [BANWOOD Maxi Scooter - Navy](https://www.littlebambinos.co.nz/products/maxi-scooter-mint): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in navy
-  Updated: 2025-11-10T20:28:14Z
+  Updated: 2025-11-16T01:14:38Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -13957,7 +13842,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterGreen1.png?v=1750297671
   Price: $279.99 NZD
 - [BANWOOD Maxi Scooter - Pink](https://www.littlebambinos.co.nz/products/maxi-scooter-pink): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in pink
-  Updated: 2025-11-11T02:20:14Z
+  Updated: 2025-11-15T00:38:58Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -13978,7 +13863,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterWhite1.png?v=1750297677
   Price: $279.99 NZD
 - [BANWOOD Eco Helmet - Ivory](https://www.littlebambinos.co.nz/products/eco-helmet-ivory): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-11-10T20:28:18Z
+  Updated: 2025-11-15T01:51:27Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14013,7 +13898,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetDustyRose1_229d2d0a-4ec4-40c0-8dd1-c217a929ce6f.png?v=1750297683
   Price: $65.99 NZD
 - [BANWOOD Eco Helmet - Lavender](https://www.littlebambinos.co.nz/products/eco-helmet-lavender): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-11-10T20:28:22Z
+  Updated: 2025-11-15T07:02:12Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14055,7 +13940,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterIvory1_1bf38a5b-e8b7-4b0d-bbd1-b9bd3c2c201a.png?v=1750297690
   Price: $159.99 NZD
 - [BANWOOD Eco Scooter - Faded Pink](https://www.littlebambinos.co.nz/products/eco-scooter-faded-pink): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-11-11T21:26:51Z
+  Updated: 2025-11-15T00:38:57Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14076,7 +13961,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoScooterRaspberry1_5d53b701-662a-4c4c-aa3e-a9bb5fbe0a56.png?v=1750297695
   Price: $159.99 NZD
 - [BANWOOD Eco Scooter - Lavender](https://www.littlebambinos.co.nz/products/eco-scooter-lavender): RRP $169.95 AUD / $189.95 NZD Banwood Eco Scooter is crafted entirely from 100% post-consumer recycled plastic. This eco-conscious material is sourced through certified waste disposal partners and repurposed from discarded items such as bottles, bags, cups, and fishing nets. Designed to grow with your child, this scooter not only promotes balance and coordination but also embodies our dedication to reducing environmental impact through thoughtful design. A perfect blend of functionality and sustainability, it encourages adventure while contributing to a greener planet for future generations. Suggested age range 3 years + Steering System: Equipped with Banwood’s patented Easy Ride Steering System for intuitive and smooth maneuvering. Easy Transport: Features a spring pin under the steering system for quick and easy handlebar detachment, ensuring easy transport. Adjustable Handlebar: T-shaped handlebar with three adjustable heights (70 cm, 75 cm, and 80 cm) to accommodate your growing child. Deck Design: Features a wide, anti-slip base made from plastic and recycled fibers, measuring 29.3 cm in length and 10 cm in width, ensuring a stable and comfortable ride. Weight Capacity: Robust construction supports riders up to 50 kg. Wheel Configuration: Three-wheel design with two front wheels and a rear wheel equipped with a reliable brake for enhanced safety. Grip Handles: Non-slip rubber grips with rounded ends provide a secure and comfortable hold. Lightweight Frame: Weighing just 2.542 kg, it's easy for children to handle and parents to carry. Eco-Friendly Materials: Constructed from plastic and recycled fibers, reflecting Banwood's commitment to sustainability.
-  Updated: 2025-11-10T20:28:28Z
+  Updated: 2025-11-15T00:38:58Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14265,7 +14150,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1G-PMINT-1.png?v=1750297735
   Price: $279.99 NZD
 - [BANWOOD Banwood Carry Strap- Pink](https://www.littlebambinos.co.nz/products/banwood-carry-strap-1): Looking for a comfortable and easy way to carry your kid’s ride? We have designed this minimalistic Carry Strap so you can carry your kids' ride with comfort and style. This Banwood Carry Strap features a double clip that could easily be attached to balance bikes and scooters. Product details: Strap Length: 120 cm Buckle: Metal Strap: Dacron fabric Ends: Vegan leather Embellished Banwood Logo
-  Updated: 2025-11-10T20:28:49Z
+  Updated: 2025-11-16T01:14:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14482,7 +14367,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BW-F1-NAVYBLUE-1_2d608d40-e486-4cf6-bdac-2602118db9f4.jpg?v=1750297885
   Price: $279.99 NZD
 - [BANWOOD Classic Bicycle - Pink](https://www.littlebambinos.co.nz/products/classic-bicycle-6): Your mini-me cyclist will be the most stylish cruiser on the block with the Banwood Classic Bike. Inspired by vintage bicycles for adults and influenced by Scandinavian design, the Banwood Classic Bicycle features a lightweight alloy frame in a pink finish. Your mini-me cyclist will be the coolest kid on the block with this bike sporting Banwood’s matching brown vegan leather saddle and grips, Banwood’s unique rosewood vintage pedal, cream 16” tires, and a detachable wicker basket in rattan – perfect for packing in the essentials (think lunch, water bottle, and favourite toy!) for a day’s adventure.Plus all the premium bicycle trimmings – kickstand, training wheels, security wheel breaks, adjustable handlebar and saddle, bell, wheel reflectors, back reflectors, and single speed gears.Ride on 🤟🏻 • Lightweight alloy frame in pink finish • Backpedal brake /security wheel brake • Front adjustable caliper brake lever suitable for children's hands • Banwood rosewood Vintage pedal • Security wheels brake • Front wicker basket • Training Wheels • Kick Stand • Cream 16” tires • Suggested age from 4-7 years • Bell • Weight: 7,9 kg • Banwood brown faux leather saddle and grips in matching colour • Wheel reflectors & Back reflectors • Mudguards and chainguards • Singelspeed gears • Adjustable saddle • Minimum seat height and maximum seat height: 46cm – 57 cm • Extra PVC pedal • Adjustable handlebar: 66 - 72 cm
-  Updated: 2025-11-10T20:29:13Z
+  Updated: 2025-11-14T07:59:16Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
@@ -14827,7 +14712,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $75.00 NZD
 - [KONGES SLOJD Frankie Overall Dress - Felice](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice): Classic spencer dress in a soft cotton twill quality. Designed with buckle closure in front and a slightly A-shaped silhouette.
-  Updated: 2025-11-10T07:58:07Z
+  Updated: 2025-11-14T06:29:55Z
   Vendor: Konges slojd
   Product Type: Dress
   Availability: Available
@@ -14836,7 +14721,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $75.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice?variant=41854692786270)
-    Availability: Available
+    Availability: Not Available
     Price: $75.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/konges-slojd-frankie-overall-dress-felice?variant=41854692819038)
     Availability: Available
@@ -15092,14 +14977,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $157.99 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-11-13T18:12:42Z
+  Updated: 2025-11-16T23:50:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-11-13T22:20:41Z
+  Updated: 2025-11-16T19:20:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15204,7 +15089,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $31.00 NZD
 - [TOSHI Swim Flap Cap - Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-10T23:12:35Z
+  Updated: 2025-11-16T02:08:42Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15213,7 +15098,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $31.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-watermelon?variant=41998356545630)
-    Availability: Available
+    Availability: Not Available
     Price: $31.00 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-watermelon?variant=41998356578398)
     Availability: Available
@@ -15234,7 +15119,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Flap Cap Paradise - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-11-12T06:38:46Z
+  Updated: 2025-11-14T06:29:56Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15246,7 +15131,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-daisy-watermelon?variant=41998358446174)
-    Availability: Available
+    Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Swim Flap Cap Paradise - Kakadu Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-paradise-kakadu-moonlight): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown UPF 50+ UV protection Chlorine safe and pool friendly 80% Nylon, 20% Elastane SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-11-10T23:12:37Z
@@ -15264,7 +15149,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $36.00 NZD
 - [TOSHI Swim Sunhat Beachcomber - Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beachcomber-moonlight): Toshi’s renowned blend of beauty, functionality, and premium quality shines in this delightful baby swimwear line. With a UPF50+ rating, the swimwear provides excellent sun protection and water safety. Made from top-quality, quick-drying fabric that resists chlorine and salt water, the Toshi Swim Sunhat offers a well-shaped, wide brim that stays firm even when wet. An adjustable head toggle ensures a perfect fit, while the chin tie with toggle secures the hat comfortably. The safety release clasp adds extra protection. This hat also features an exclusive Toshi print design for a unique look. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-11-10T23:12:38Z
+  Updated: 2025-11-16T00:49:33Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15375,7 +15260,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $36.00 NZD
 - [TOSHI Swim Onesie L/S Ripple - Daisy Watermelon](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-ripple-daisy-watermelon): Toshi’s baby swimwear collection combines elegance, practical design, and high-quality materials. Providing UPF 50+ sun protection, the Swim Onsie safeguards your little one during water play. Made from fast-drying, chlorine- and saltwater-resistant fabric, it ensures durability and comfort. The playful frill detail on the shoulders adds charm, while the high neckline and long sleeves offer extra coverage. Convenient features include a front zip for easy dressing and press studs at the bottom for quick nappy changes. Seamless sides enhance comfort and fit, all showcased in a unique Toshi print. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-11-12T06:38:45Z
+  Updated: 2025-11-14T06:29:55Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -15417,7 +15302,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $42.00 NZD
 - [TOSHI Swim Onesie L/S Splash - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-congo-seagrass): Toshi’s baby swimwear collection combines exceptional quality, style, and practicality. With UPF 50+ protection, the Swim Onesie shields your little one from harmful sun rays while ensuring safety in the water. Made from premium, quick-drying fabric that resists chlorine and saltwater wear, it features long sleeves and a high neckline for maximum coverage. Convenient bottom press studs and a front neck zip make changing and dressing simple, while seamless sides provide a comfortable, snug fit. This unique piece showcases an exclusive Toshi print, thoughtfully designed for your baby’s comfort and protection. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
-  Updated: 2025-11-10T20:39:28Z
+  Updated: 2025-11-16T21:00:10Z
   Vendor: Toshi
   Product Type: Swimsuit
   Availability: Available
@@ -15435,7 +15320,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $42.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-congo-seagrass?variant=42004024328286)
-    Availability: Available
+    Availability: Not Available
     Price: $42.00 NZD
 - [TOSHI Swim Onesie L/S Splash - Kakadu Moonlight](https://www.littlebambinos.co.nz/products/toshi-swim-onsie-l-s-splash-kakadu-moonlight): Toshi’s baby swimwear collection combines exceptional quality, style, and practicality. With UPF 50+ protection, the Swim Onesie shields your little one from harmful sun rays while ensuring safety in the water. Made from premium, quick-drying fabric that resists chlorine and saltwater wear, it features long sleeves and a high neckline for maximum coverage. Convenient bottom press studs and a front neck zip make changing and dressing simple, while seamless sides provide a comfortable, snug fit. This unique piece showcases an exclusive Toshi print, thoughtfully designed for your baby’s comfort and protection. Size ApproxAge Chest(cm) Waist(cm) Hip(cm) Height(cm) 000 newborn -3 months 42 40-46 46 62 00 3 - 6months 44 40-46 48 68 0 6 - 12months 46 42-48 50 76 1 1year 48 44-50 54 84 2 2years 50 46-52 56 92
   Updated: 2025-11-10T20:39:28Z
@@ -15640,7 +15525,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/pack_ks103638-s45073_1.jpg?v=1758230937
   Price: $50.00 NZD
 - [KONGES SLOJD  2 pk Glitter Cups - Rainbow](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-rainbow): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
-  Updated: 2025-11-12T00:46:50Z
+  Updated: 2025-11-15T18:37:06Z
   Vendor: Konges slojd
   Product Type: Cup
   Availability: Available
@@ -16017,7 +15902,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
 - [WILSON & FRENCHY Swim Board Short - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe): Dress your children comfortably in Wilson & Frenchy’s collection, featuring items made with natural fibres to provide gentle care.
-  Updated: 2025-11-10T23:12:52Z
+  Updated: 2025-11-16T06:40:23Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -16035,7 +15920,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $32.00 NZD
   - [3y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894256222)
-    Availability: Not Available
+    Availability: Available
     Price: $32.00 NZD
 - [WILSON & FRENCHY One Piece Boyleg Swimsuit - Sunny Scales](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales): Wilson and Frenchy’s long-sleeve, one-piece boyleg swimsuit is ideal for sunny adventures. Crafted from recycled polyester with full lining, it provides excellent UPF 50+ sun protection and resists chlorine for lasting durability. The front zip makes it easy to put on and take off, ensuring comfort throughout the day.
   Updated: 2025-11-10T20:21:28Z
