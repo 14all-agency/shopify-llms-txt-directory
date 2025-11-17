@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2020-08-19T03:32:16Z
 - Contact Email: info@bode-lana.co.nz
-- Updated At: 2025-11-14T00:00:33.560Z
+- Updated At: 2025-11-17T00:00:41.973Z
 
 ## Products
 
@@ -71,7 +71,7 @@
     Availability: Available
     Price: $100.00 NZD
 - [Paradise Tee White](https://bode-lana.co.nz/products/paradise-tee): Introducing our new high quality 100% cotton T shirts. These T shirts come in 2 sizes. They are an oversized loose fit and they have been made to fit a large range of body sizes and shapes. Size S-M will generally fit most women as an oversized fit. Size L-XL will generally fit most men as an oversized fit but some may opt for size S-M for a more regular fit. (see second photo for relevant size chart) Female model wears side S-M Heavy weight, 220 GSM, pre shrunk The funky designs are 100% unique and created by us. Sourced in NZ. Better Cotton Initiative (BCI) Ethically made to Fair trade and BSCI standards.
-  Updated: 2025-09-07T23:09:17Z
+  Updated: 2025-11-14T16:02:42Z
   Vendor: Bode Lana
   Product Type: Clothing
   Availability: Available
