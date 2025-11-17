@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-11-15T00:00:38.899Z
+- Updated At: 2025-11-17T00:00:50.621Z
 
 ## Products
 
@@ -935,7 +935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-domed-laboratory-coat-white-s-45gsm-25-pieces-laboratory-coats-essential-supplies-466990.jpg?v=1719445689
   Price: $69.00 NZD
 - [Polypropylene Beard Covers Single Loop - Blue, 230mm x 430mm, 12gsm  - 1000 Pieces](https://essentialsupplies.co.nz/products/polypropylene-beard-covers-single-loop-blue-230mm-x-430mm-12gsm-1000): Disposable single loop beard covers made of skin-friendly polypropylene material to deter the transfer of hairs and skin particles in a hygienic environment. With a universal fit and comfort design for superior protection. Made of skin-friendly polypropylene material With a universal fit and comfort design for superior protection Single loop 230mm x 430mm 12gsm Colour: Blue Pack:1000 pieces
-  Updated: 2025-01-25T02:20:02Z
+  Updated: 2025-11-16T04:43:08Z
   Vendor: Mattews Packaging
   Product Type: Face Protection
   Availability: Available
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/double-jumbo-roll-dispenser-black-2-roll-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-907850.jpg?v=1719444948
   Price: $70.00 NZD
 - [Double Jumbo Roll Dispenser - Gold, 2 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/double-jumbo-roll-dispenser-gold-2-roll-capacity-1): Double jumbo toilet tissue dispensers ensure a continuous tissue supply, designed to minimise waste and reduce servicing costs.A sturdy and durable design with lockable cover to prevent tampering. Compatible with all jumbo toilet tissue rolls with a double roll capacity. Double jumbo toilet tissue dispenser Sturdy and durable design Lockable cover Compatible with all jumbo toilet tissue rolls Colour: Gold
-  Updated: 2025-01-09T15:15:16Z
+  Updated: 2025-11-15T23:48:56Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -2237,7 +2237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-hand-stretch-film-clear-500mm-x-300m-x-20mu-4-rolls-4-free-end-caps-hand-stretch-film-essential-supplies-866006.jpg?v=1719444774
   Price: $86.00 NZD
 - [Cast Hand Stretch Film - Black, 500mm x 300m x 20mu - 4 Rolls + 4 Free End Caps](https://essentialsupplies.co.nz/products/cast-hand-stretch-film-black-500mm-x-300m-x-20mu-4-4-free-end-caps): Premium grade hand stretch film is a top grade 15 micron film. It offers excellent value and superior strength when compared with conventional stretch film.This premium grade film offers reduced application noise, no pallet sticking and high clarity.Ideal for use in warehouses that need pallet wrapping on a daily basis with a roll size of 500mm wide by 400m long. Roll: 500mm x 300mt Strength: 20 micron Colour: Black Pack of: 4 rolls Includes 4 end caps
-  Updated: 2025-01-09T14:09:42Z
+  Updated: 2025-11-16T12:08:33Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
@@ -2258,7 +2258,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-hand-stretch-film-clear-500mm-x-400m-x-15mu-4-rolls-4-free-end-caps-hand-stretch-film-essential-supplies-115445.jpg?v=1719444774
   Price: $86.00 NZD
 - [Cast Hand Stretch Film - Black, 500mm x 400m x 15mu - 4 Rolls + 4 Free End Caps](https://essentialsupplies.co.nz/products/cast-hand-stretch-film-black-500mm-x-400m-x-15mu-4-4-free-end-caps): Premium grade hand stretch film is a top grade 15 micron film. It offers excellent value and superior strength when compared with conventional stretch film. This premium grade film offers reduced application noise, no pallet sticking and high clarity. Ideal for use in warehouses that need pallet wrapping on a daily basis with a roll size of 500mm wide by 400m long. Roll: 500mm x 400mt Strength: 15 micron Colour: Black Pack of: 4 rolls Includes 4 end caps
-  Updated: 2025-07-07T16:20:19Z
+  Updated: 2025-11-15T03:42:24Z
   Vendor: Mattews Packaging
   Product Type: Hand Stretch Film
   Availability: Available
@@ -2643,7 +2643,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-240l-blue-1125mm-x-1500mm-x-30mu-150-pack-wheelie-bin-liners-essential-supplies-160260.jpg?v=1719445067
   Price: $120.00 NZD
 - [FP Recycled Bin Liner 240L - Green, 1125mm x 1500mm x 30mu - 150 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-240l-green-1125mm-x-1500mm-x-30mu-150): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 240 Litres (1125 x 1500mm) Colour: Green Strength: 30mu Pack of: 150
-  Updated: 2025-01-09T12:52:05Z
+  Updated: 2025-11-15T23:38:08Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -2671,7 +2671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-240l-clear-1125mm-x-1500mm-x-100mu-50-pack-wheelie-bin-liners-essential-supplies-269185.jpg?v=1719445092
   Price: $137.00 NZD
 - [FP Recycled Bin Liner 120L - Black, 900mm x 1330mm x 30mu - 200 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-120l-black-900mm-x-1330mm-x-30mu-200): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours. These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Size: 120 Litres (900 x 1330mm) Strength: 30mu Pack of: 200
-  Updated: 2025-02-17T10:33:08Z
+  Updated: 2025-11-15T01:59:55Z
   Vendor: Mattews Packaging
   Product Type: Wheelie Bin Liners
   Availability: Available
@@ -3273,7 +3273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cast-machine-stretch-film-clear-500mm-x-1920m-x-17mu-1-roll-machine-stretch-film-essential-supplies-893513.jpg?v=1719444770
   Price: $120.00 NZD
 - [Cast Machine Stretch Film - Clear, 500mm x 2175m x 15mu - 1 Roll](https://essentialsupplies.co.nz/products/cast-machine-stretch-film-clear-500mm-x-2175m-x-15mu-1): Ultimate thin grade nano technology.Nano machine stretch film incorporates technology which can produce super thin gauge film that offers excellent properties.Each nano layer is designed and stacked strategically similar to a plywood effect, achieving super thin yet resilient film. Nano is a cast film which ensures a quiet application and ultimate stretch clarity. Ideal for use in warehouses that require fast Roll: 500mm x 2175mt Strength: 15micron Colour: Clear
-  Updated: 2025-01-08T20:13:41Z
+  Updated: 2025-11-15T12:59:51Z
   Vendor: Mattews Packaging
   Product Type: Machine Stretch Film
   Availability: Available
@@ -4041,7 +4041,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/corner-scrubbing-brush-red-cleaning-brushes-essential-supplies-843097.jpg?v=1719444951
   Price: $12.00 NZD
 - [Grout Brush - White, Stiff Bristles](https://essentialsupplies.co.nz/products/grout-brush-white-stiff-bristles-12): Grout brushes are excellent for removing dirt and mould in grout lines and tight to reach places. This brush has a built in scraper for helping to remove built up grime. With an ergonomic grip and strong stiff bristles these brushes are a durable choice. The handle has a convenient wall hook which can be used for storing the brush away when not in use.
-  Updated: 2025-02-15T00:54:41Z
+  Updated: 2025-11-16T02:29:46Z
   Vendor: Mattews Packaging
   Product Type: Cleaning Brushes
   Availability: Available
@@ -4160,7 +4160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/economy-outdoor-broom-blue-300mm-x-22mm-x-1200mm-stiff-bristles-brooms-essential-supplies-938463.jpg?v=1719445070
   Price: $24.00 NZD
 - [Deluxe Outdoor Broom - Green, 300mm x 22mm x 1200mm, Stiff Bristles](https://essentialsupplies.co.nz/products/deluxe-outdoor-broom-green-300mm-x-22mm-x-1200mm-stiff-bristles-4): Deluxe outdoor brooms with premium quality stiff bristles to sweep larger debris and a powder coated steel handle for maximum strength. Features a front scraper for stubborn debris, and a grip-master handle lock for added stability.
-  Updated: 2025-02-11T21:49:17Z
+  Updated: 2025-11-16T03:28:03Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -4573,7 +4573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/dust-control-mop-head-blue-910mm-wide-mops-essential-supplies-506239.jpg?v=1719444952
   Price: $83.00 NZD
 - [Floor Squeegee - Black, 550mm x 25mm x 1350mm](https://essentialsupplies.co.nz/products/floor-squeegee-black-550mm-x-25mm-x-1350mm-4): Floor squeegees with a galvanised steel frame and aluminium construction for added strength and durability. The twin foam rubber blades conform to uneven surfaces, ideal for wood, tiles, marble and concrete floors. Available in a range of head widths from 550mm to 750mm with head replacements available if required.
-  Updated: 2025-01-09T12:13:56Z
+  Updated: 2025-11-16T06:16:17Z
   Vendor: Mattews Packaging
   Product Type: Floor Squeegees
   Availability: Available
@@ -5672,7 +5672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-blue-m-240mm-cuff-30g-1000-gloves-nitrile-examination-gloves-essential-supplies-915400.jpg?v=1719445392
   Price: $81.00 NZD
 - [Nitrile Examination Gloves Powder Free - Blue, L, 240mm Cuff, 3.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-blue-l-240mm-cuff-3-0g-1000): Blue powder free nitrile gloves offer cost effective snag, puncture, cut and abrasion resistance, making them ideal for the chemical, tattooing, laboratory, and meat processing industries. With a longer shelf life and three times greater durability when compared to latex.
-  Updated: 2025-01-16T07:07:50Z
+  Updated: 2025-11-15T07:05:01Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -6120,7 +6120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/processing-cut-resistant-gloves-white-l-13-gauge-120-gloves-rating-en388-3x4xf-cut-resistant-food-gloves-essential-supplies-266071.jpg?v=1719445675
   Price: $1,700.00 NZD
 - [Processing Cut Resistant Gloves - White, XL, 13 Gauge - 120 Gloves - *Rating - EN388: 3X4XF](https://essentialsupplies.co.nz/products/processing-cut-resistant-gloves-white-xl-13-gauge-12-rating-en388-3x4xf): White cut resistant food processing gloves incorporate specially developed yarns designed to meet EN388 Cut Level 5 testing after 60+ launders. Anatomical shape to ensure flexibility, comfort and dexterity. Santised for ultra-fresh and anti-microbial protection.
-  Updated: 2025-01-31T05:55:12Z
+  Updated: 2025-11-16T11:59:44Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Food Gloves
   Availability: Available
@@ -6743,7 +6743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-electrical-insulation-tape-green-18mm-x-20m-x-180mu-electrical-insulation-tape-essential-supplies-892082.jpg?v=1719445689
   Price: $3.00 NZD
 - [PVC Electrical Insulation Tape - Red, 18mm x 20m x 180mu](https://essentialsupplies.co.nz/products/pvc-electrical-insulation-tape-red-18mm-x-20m-x-180mu-96): Electrical insulation tape constructed of high tensile strength PVC is designed for general electrical use. Tape is both cold and sunlight resistant, and flame retardant, with an operating temperature between 0-80°C. For electrical use up to 600V and available in a range of colours for clear identification.
-  Updated: 2025-01-09T17:26:05Z
+  Updated: 2025-11-16T09:42:28Z
   Vendor: Mattews Packaging
   Product Type: Electrical Insulation Tape
   Availability: Available
@@ -7175,7 +7175,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/adhesive-label-dispenser-blue-300mm-width-1-dispenser-fits-3-rolls-label-dispensers-essential-supplies-299319.jpg?v=1719444754
   Price: $81.00 NZD
 - [Plastic Labelope Packing Slip Enclosed - White, 115mm x 150mm - 1000 Slips](https://essentialsupplies.co.nz/products/plastic-labelope-packing-slip-enclosed-white-115mm-x-150mm-1000): Standard shipping labelopes are constructed of tough, waterproof polyethylene. Labelopes remain firmly stuck to packages and are the ideal way to protect your packing documents and invoices.
-  Updated: 2025-02-18T14:36:11Z
+  Updated: 2025-11-16T08:56:49Z
   Vendor: Mattews Packaging
   Product Type: Labelopes
   Availability: Available
@@ -7385,7 +7385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/air-bubble-roll-clear-440mm-x-100m-x-10mm-3-rolls-air-bubble-rolls-essential-supplies-518736.jpg?v=1719444766
   Price: $127.00 NZD
 - [Air Bubble Roll - Clear, 650mm x 100m x 10mm - 2 Rolls](https://essentialsupplies.co.nz/products/air-bubble-roll-clear-650mm-x-100m-x-10mm-2): Air bubble rolls made from low density polyethylene to protect fragile items during packing, mailing and moving. Small bubbles of sealed air provide cost efficient light weight protection to reduce mailing and freight costs. Available in a cost-efficient 100m roll length in a range of widths for all uses.
-  Updated: 2025-02-17T01:41:12Z
+  Updated: 2025-11-16T12:30:35Z
   Vendor: Mattews Packaging
   Product Type: Air Bubble Rolls
   Availability: Available
@@ -7399,7 +7399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/air-bubble-roll-clear-870mm-x-100m-x-10mm-1-roll-air-bubble-rolls-essential-supplies-306607.jpg?v=1719444755
   Price: $86.00 NZD
 - [Air Bubble Roll - Clear, 1000mm x 100m x 10mm - 1 Roll](https://essentialsupplies.co.nz/products/air-bubble-roll-clear-1000mm-x-100m-x-10mm-1): Air bubble rolls made from low density polyethylene to protect fragile items during packing, mailing and moving. Small bubbles of sealed air provide cost efficient light weight protection to reduce mailing and freight costs. Available in a cost-efficient 100m roll length in a range of widths for all uses.
-  Updated: 2025-01-08T23:02:55Z
+  Updated: 2025-11-15T23:54:23Z
   Vendor: Mattews Packaging
   Product Type: Air Bubble Rolls
   Availability: Available
