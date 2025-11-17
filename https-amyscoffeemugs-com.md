@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2018-12-15T16:04:33Z
 - Contact Email: amy@amyscoffeemugs.com
-- Updated At: 2025-11-16T00:00:56.982Z
+- Updated At: 2025-11-17T00:01:09.030Z
 
 Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our collection includes artist-designed mugs, insulated tumbler cups, and travel mugs made to bring joy, warmth, and a personal touch to every sip.
 
@@ -12357,7 +12357,7 @@ Welcome to Amy’s Coffee Mugs — where art meets your daily coffee ritual. Our
     Image: https://cdn.shopify.com/s/files/1/0101/7495/5620/files/personalized-pink-name-collage-mug-at-amys-coffee-mugs-665217.jpg?v=1751247271
     Price: $21.95 USD
 - [Personalized Blue Name Collage Mug | Custom Coffee Mug Gift for Him](https://amyscoffeemugs.com/products/personalized-blue-name-collage-mug): This Blue Name Collage Mug makes a great personalized gift for him. Features your name in blue, black, and gray. Microwave and dishwasher-safe ceramic mug.
-  Updated: 2025-11-06T13:44:52Z
+  Updated: 2025-11-16T10:30:28Z
   Vendor: Amy's Coffee Mugs
   Product Type: Ceramic Coffee Mug
   Availability: Available
