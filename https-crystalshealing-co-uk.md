@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-11-16T00:00:31.728Z
+- Updated At: 2025-11-17T00:00:30.762Z
 
 Welcome to CrystalsHealing.co.uk – the UK’s crystal jewellery & holistic wellbeing shop.
 We specialize in ethically sourced crystals, handmade jewellery, and energy-balancing accessories designed to support mindfulness, protection, and manifestation.
@@ -1184,7 +1184,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/IMG_20200716_140554-PhotoRoom_17.jpg?v=1739737792
     Price: £18.00 GBP
 - [Libra Zodiac Bracelet - Balance & Harmony for Libras](https://crystalshealing.co.uk/products/libra-zodiac-bracelet): Celebrate your Libra spirit with the Libra Zodiac Bracelet, designed to enhance harmony, inner peace, and a connection to your star sign.
-  Updated: 2025-11-15T16:58:04Z
+  Updated: 2025-11-16T16:49:03Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4702,8 +4702,8 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_12.webp?v=1750351504
     Price: £22.10 GBP
-- [Selenite Charging Plate – Golden Chakra Energy](https://crystalshealing.co.uk/products/selenite-charging-plate): Invite harmony, clarity, and renewal into your sacred space with this exquisite Selenite Charging Plate. Carved from pure selenite and adorned with a radiant golden Tree of Life and seven chakra symbols, this unique plate is designed to elevate your spiritual practice and infuse your crystals with high-vibrational energy. With a refined size of 6.3 cm in diameter and 0.8 cm thick, it is perfect for cleansing and recharging your favorite gemstones, bracelets, and necklaces. Simply place your items on the plate to dissolve stagnant energies and restore their natural brilliance. Selenite is celebrated for its profound cleansing and amplifying properties. The golden Tree of Life symbolizes interconnectedness and growth, while the seven golden chakras align your energetic centers, supporting balance and inner peace. Let this Selenite Charging Plate become an essential part of your daily rituals - whether for meditation, Reiki, or as a beautiful reminder of your connection to higher energies. Key Benefits: Crafted from genuine selenite for pure energy cleansing Fully golden engraved Tree of Life and chakra symbols Clears negative vibrations and recharges crystals Supports emotional balance and spiritual alignment Adds a luminous, meaningful touch to any altar or home Embrace the transformative power of selenite and nurture your intentions with this timeless piece of spiritual art.
-  Updated: 2025-11-15T16:58:14Z
+- [Selenite Charging Plate – Golden Chakra Energy](https://crystalshealing.co.uk/products/selenite-charging-plate): Invite harmony, clarity, and renewal into your sacred space with this exquisite Selenite Charging Plate. Carved from pure selenite and adorned with a radiant golden Tree of Life and seven chakra symbols, this unique plate is designed to elevate your spiritual practice and infuse your crystals with high-vibrational energy. With a refined size of 6.3 cm in diameter and 0.8 cm thick, it is perfect for cleansing and recharging your favorite gemstones, bracelets, and necklaces. Simply place your items on the plate to dissolve stagnant energies and restore their natural brilliance. Selenite is celebrated for its profound cleansing and amplifying properties. The golden Tree of Life symbolizes interconnectedness and growth, while the seven golden chakras align your energetic centers, supporting balance and inner peace. Let this Selenite Charging Plate become an essential part of your daily rituals - whether for meditation, Reiki, or as a beautiful reminder of your connection to higher energies. Key Benefits: Crafted from genuine selenite for pure energy cleansing Fully golden Tree of Life and chakra symbols Clears negative vibrations and recharges crystals Supports emotional balance and spiritual alignment Adds a luminous, meaningful touch to any altar or home Embrace the transformative power of selenite and nurture your intentions with this timeless piece of spiritual art.
+  Updated: 2025-11-16T16:57:17Z
   Vendor: Crystals Healing
   Product Type: Carved Figurines
   Availability: Available
@@ -4878,7 +4878,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-11-08T12:16:06Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
-  Updated: 2025-11-09T12:20:10Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 177
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-10-01T15:00:55Z
@@ -4896,7 +4896,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-23T11:21:21Z
   Total Products: 11
 - [Chakra Crystals](https://crystalshealing.co.uk/collections/chakra-crystals): Balance your energy with chakra crystals, bracelets, and keychains. From Root to Crown, each ethically sourced piece is made to support healing, alignment, and inner clarity.
-  Updated: 2025-11-02T12:19:49Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 49
 - [Aromatherapy Crystals](https://crystalshealing.co.uk/collections/aromatherapy): Combine the power of scent and stone. Our aromatherapy crystals and diffuser jewelry are crafted to enhance relaxation, focus, and energetic balance - ethically made with intention.
   Updated: 2025-11-07T20:34:42Z
@@ -4911,7 +4911,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-31T11:21:54Z
   Total Products: 13
 - [Crystal Kits](https://crystalshealing.co.uk/collections/crystal-kits): Explore our crystal kits designed for love, protection, abundance, and self-care. Each set includes hand-selected stones and guidance to support your energy rituals. Ideal for beginners and intentional gifting.
-  Updated: 2025-10-29T09:52:37Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 27
 - [Friendship Bracelets](https://crystalshealing.co.uk/collections/friendship-bracelets): Celebrate meaningful bonds with crystal friendship bracelets. Crafted with stones for love, loyalty & connection — like Rose Quartz, Lapis Lazuli & Moonstone — these pieces carry energy, intention and lasting memories.
   Updated: 2025-10-01T15:00:56Z
@@ -4920,10 +4920,10 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-11-08T12:16:06Z
   Total Products: 53
 - [Carved Crystals](https://crystalshealing.co.uk/collections/carved-crystals): Discover carved crystals that unite sacred symbolism with healing energy. From hearts and angels to spheres and palm stones - each piece is ethically hand-carved for beauty and intention.
-  Updated: 2025-11-12T12:19:53Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
-  Updated: 2025-11-09T12:20:10Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 228
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
   Updated: 2025-11-12T12:19:53Z
@@ -4932,7 +4932,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-22T11:20:09Z
   Total Products: 9
 - [Healing Crystals](https://crystalshealing.co.uk/collections/healing-crystals): Healing crystals are ethically sourced stones used to support balance, protection, love and clarity — in daily life and meditation. Amethyst • Rose Quartz • Citrine • Chakra Bracelets Discover how to choose healing crystals →
-  Updated: 2025-11-09T12:20:10Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 221
 - [Sale](https://crystalshealing.co.uk/collections/sale): Save on crystals and jewelry with intention. Discover discounted stones, bracelets, pendants & spiritual tools to empower your journey.
   Updated: 2025-10-01T15:00:57Z
@@ -4956,7 +4956,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-23T11:21:21Z
   Total Products: 11
 - [Zodiac Bracelets](https://crystalshealing.co.uk/collections/zodiac-bracelets): Align your energy with the stars. Our zodiac bracelets combine healing crystals with astrological wisdom — uniquely crafted for each zodiac sign. Wear your sign with intention or gift a personalised piece full of meaning.
-  Updated: 2025-10-01T15:00:58Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 12
 - [Apatite Crystals](https://crystalshealing.co.uk/collections/apatite-crystals): Boost mental clarity and focus with Apatite crystals. Known for activating the Third Eye and Throat chakras, Apatite supports motivation, communication and goal-setting. Discover tumbled stones, raw pieces and crystal jewelry.
   Updated: 2025-10-01T15:00:58Z
@@ -4974,7 +4974,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-30T11:20:04Z
   Total Products: 10
 - [Healing Stones](https://crystalshealing.co.uk/collections/healing-stones): Explore our full collection of natural Healing Stones – from raw stones to polished jewelry.
-  Updated: 2025-11-12T12:19:53Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 55
 - [Agate Crystals](https://crystalshealing.co.uk/collections/agate-crystals): Ground your energy with Agate crystals — known for emotional stability, mental clarity and gentle protection. Explore a variety of natural agate forms, from tumbled stones and jewelry to unique display pieces for your sacred space.
   Updated: 2025-10-01T15:00:58Z
@@ -5007,16 +5007,16 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-01T15:00:59Z
   Total Products: 6
 - [Jewellery Sets](https://crystalshealing.co.uk/collections/jewellery-sets): Explore crystal jewellery sets designed to harmonise energy and style. Featuring matching bracelets, necklaces & earrings — crafted with healing stones like Rose Quartz, Citrine, Amethyst & more. Perfect for gifting or intentional wear.
-  Updated: 2025-10-18T11:16:43Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 27
 - [Handmade Jewellery](https://crystalshealing.co.uk/collections/handmade-jewellery): Explore handmade jewellery created with care and crystal energy. Every piece is unique, ethically sourced, and spiritually meaningful.
-  Updated: 2025-11-09T12:20:10Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 226
 - [Valentine’s Day Crystals](https://crystalshealing.co.uk/collections/valentines-day-crystals): Celebrate love with crystals and jewelry made for connection, romance, and self-love. Discover heart-centered gifts crafted from Rose Quartz, Rhodonite, and Garnet.
-  Updated: 2025-11-02T12:19:49Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 129
 - [Chakra Crystal Sets](https://crystalshealing.co.uk/collections/chakra-crystal-sets): Realign and recharge with chakra crystal sets. Each kit includes 7 energy-aligned stones selected to support the root to crown chakras. Perfect for meditation, reiki, yoga or spiritual rituals — comes with pouch & chakra card.
-  Updated: 2025-10-01T15:00:59Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 11
 - [Chakra Bracelets](https://crystalshealing.co.uk/collections/chakra-bracelets): Explore chakra bracelets handcrafted with natural crystals for balance, alignment, and energy flow. Wear daily to support your mind, body, and spiritual well-being.
   Updated: 2025-11-02T12:19:49Z
@@ -5034,10 +5034,10 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-01T15:01:00Z
   Total Products: 4
 - [Shop Crystals](https://crystalshealing.co.uk/collections/shop-crystals): Shop our full crystal collection: raw stones, figurines, wands & sacred tools. Ethically sourced and intuitively selected for healing, manifestation and spiritual practice.
-  Updated: 2025-11-12T12:19:53Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
-  Updated: 2025-11-09T12:20:10Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 238
 - [Worry Stones](https://crystalshealing.co.uk/collections/worry-stones): Ease anxiety and invite calm with crystal worry stones. Smooth, polished and designed for gentle touch — perfect for pockets, meditation or on-the-go stress relief. Choose your stone by energy: Amethyst, Rose Quartz, Black Obsidian & more.
   Updated: 2025-10-01T15:01:00Z
@@ -5061,16 +5061,16 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-11-09T12:20:10Z
   Total Products: 30
 - [Selenite Crystals](https://crystalshealing.co.uk/collections/selenite-crystals): Discover the purifying power of Selenite crystals. Explore charging plates, wands, towers & jewelry — ideal for cleansing energy, protecting your aura, and amplifying spiritual clarity. Ethically sourced.
-  Updated: 2025-10-18T11:16:43Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 22
 - [Polished Tumblestone](https://crystalshealing.co.uk/collections/polished-tumblestone): Explore our ethically sourced tumbled stones - polished to perfection for easy use in rituals, crystal grids, carrying or gifting. Choose by intention, chakra or energy need.
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 32
 - [Clear Quartz Crystals](https://crystalshealing.co.uk/collections/clear-quartz-crystals): Explore the amplifying power of Clear Quartz crystals — raw stones, tumbled pieces, jewelry & wands. Known as the “Master Healer,” Clear Quartz supports clarity, intention setting & energy alignment.
   Updated: 2025-10-23T11:21:21Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-11-12T12:19:53Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 376
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5085,7 +5085,7 @@ Our mission: transparent sourcing, sustainable packaging, and empowering conscio
   Updated: 2025-10-25T11:19:19Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-11-12T12:19:53Z
+  Updated: 2025-11-16T12:21:58Z
   Total Products: 375
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-10-29T10:13:10Z
