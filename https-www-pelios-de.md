@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-12T00:00:54.368Z
+- Updated At: 2025-11-17T00:00:30.686Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1750698346
     Price: 819,00 € EUR
 - [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2025-11-09T05:41:21Z
+  Updated: 2025-11-14T15:15:57Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -41,7 +41,7 @@
   - [Schwarz](https://www.pelios.de/products/holzofen-22-kw?variant=51247524217171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_black.webp?v=1751053385
-    Price: 1.894,60 € EUR
+    Price: 1.794,60 € EUR
   - [Beige](https://www.pelios.de/products/holzofen-22-kw?variant=51278228914515)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_beige_flame.webp?v=1751053385
@@ -49,18 +49,18 @@
   - [Rot](https://www.pelios.de/products/holzofen-22-kw?variant=51278228947283)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_red.webp?v=1751053385
-    Price: 1.894,60 € EUR
+    Price: 1.794,60 € EUR
   - [Silber](https://www.pelios.de/products/holzofen-22-kw?variant=51278300184915)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.894,60 € EUR
 - [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-11-11T16:18:00Z
+  Updated: 2025-11-14T14:43:56Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_450_front_flame.webp?v=1753873598
-  Price: 1.585,00 € EUR
+  Price: 1.485,00 € EUR
 - [Ethanol Wandkamin schwarz kaufen☝hier günstig im Shop](https://www.pelios.de/products/nevada-bio-wandkamin): Ethanol Wandkamin schwarz ★ Bio-Ethanol-Wandkamin mit Glas Frontscheibe ✓ Brenndauer von bis zu 6 Stunden ✓ Wärmeleistung 2,2 kW ✓ von ScandiFlames
   Updated: 2025-11-09T12:18:49Z
   Vendor: ScandiFlames
@@ -264,7 +264,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-14T15:15:58Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-11-11T15:58:21Z
@@ -276,7 +276,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-12T12:27:44Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
   Updated: 2025-11-11T15:58:21Z
@@ -291,10 +291,10 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [bis 150 qm](https://www.pelios.de/collections/bis-150-qm)
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-14T14:43:57Z
   Total Products: 2
 - [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-14T15:15:58Z
   Total Products: 1
 - [Wandmontage](https://www.pelios.de/collections/wandmontage)
   Updated: 2025-11-11T15:58:22Z
@@ -303,13 +303,13 @@
   Updated: 2025-11-11T15:58:22Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-12T12:27:44Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
   Updated: 2025-11-11T15:58:22Z
   Total Products: 14
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-14T15:15:58Z
   Total Products: 11
 - [Infrarot](https://www.pelios.de/collections/infrarot)
   Updated: 2025-11-11T15:58:22Z
