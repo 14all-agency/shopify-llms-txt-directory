@@ -17,35 +17,35 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 - Created At: 2025-02-26T15:41:09Z
 - Contact Email: info@brewshock.com
 - Address: Plano, Tx
-- Updated At: 2025-11-08T00:00:37.575Z
+- Updated At: 2025-11-17T00:00:29.426Z
 
 ## Products
 
 - [12 Pack & 3 Pack Brew Shockalaka](https://brewshock.com/products/12-pack): The ultimate nootropic-infused, sugar-free canned coffee that fuels your focus, energy, and hydration—without the crash.
-  Updated: 2025-11-07T19:39:15Z
+  Updated: 2025-11-15T18:08:35Z
   Vendor: brewshockalaka
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Cafe_Mocha-01-v01.png?v=1751561603
+  Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Variety-01-v01_copy.png?v=1762796107
   - [Variety Pack / 12 Pack](https://brewshock.com/products/12-pack?variant=46869885026491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Variety-01-v01_copy.png?v=1759955152
+    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Variety-01-v01_copy.png?v=1762796107
     Price: $39.99 USD
   - [Variety Pack / 3 Pack](https://brewshock.com/products/12-pack?variant=46869885059259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Variety-01-v01_copy.png?v=1759955152
+    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Variety-01-v01_copy.png?v=1762796107
     Price: $9.99 USD
   - [Salted caramel / 12 Pack](https://brewshock.com/products/12-pack?variant=46512088842427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-BrewShock-12ozCan-Sleek-12Pack-SaltedCaramel-01-v01.png?v=1751561778
+    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-BrewShock-12ozCan-Sleek-12Pack-SaltedCaramel-01-v01.png?v=1762796107
     Price: $39.99 USD
   - [Cafe Mocha / 12 Pack](https://brewshock.com/products/12-pack?variant=46512088875195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Cafe_Mocha-01-v01.png?v=1751561603
+    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Cafe_Mocha-01-v01.png?v=1762796107
     Price: $39.99 USD
   - [Maple Cinnamon Donut / 12 Pack](https://brewshock.com/products/12-pack?variant=46512088907963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Maple_Cinnamon_Donut-01-v01_fec5d8d5-75f3-4805-b0cc-60d167862f7d.png?v=1751561685
+    Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/BS_25-Brew_Shock-12oz_Can-Sleek-12Pack-Maple_Cinnamon_Donut-01-v01_fec5d8d5-75f3-4805-b0cc-60d167862f7d.png?v=1762796107
     Price: $39.99 USD
 - [Women's Logo Raceback Tank Top](https://brewshock.com/products/womens-logo-raceback-tank-top)
   Updated: 2025-11-03T20:39:20Z
@@ -118,7 +118,7 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
     Image: https://cdn.shopify.com/s/files/1/0643/5025/7339/files/Cancun_Women_s_Tank.jpg?v=1755112674
     Price: $29.99 USD
 - [Unisex Logo TriBlend Tee](https://brewshock.com/products/unisex-logo-triblend-tee)
-  Updated: 2025-10-28T18:39:18Z
+  Updated: 2025-11-10T14:39:47Z
   Vendor: brewshockalaka
   Product Type: 
   Availability: Available
@@ -293,10 +293,10 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 ## Collections
 
 - [Home page](https://brewshock.com/collections/frontpage)
-  Updated: 2025-11-07T12:23:49Z
+  Updated: 2025-11-16T12:24:54Z
   Total Products: 1
 - [Brew Shockalaka On the Go RTD](https://brewshock.com/collections/brew-shockalaka-on-the-go-rtd)
-  Updated: 2025-11-07T12:23:49Z
+  Updated: 2025-11-16T12:24:54Z
   Total Products: 3
 - [T-Shirts & Tops](https://brewshock.com/collections/gear)
   Updated: 2025-09-21T11:20:53Z
