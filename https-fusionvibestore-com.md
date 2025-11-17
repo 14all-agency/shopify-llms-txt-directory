@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-15T00:00:59.507Z
+- Updated At: 2025-11-17T00:00:41.120Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-11-14T11:14:58Z
+  Updated: 2025-11-15T19:45:00Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-14T22:47:00Z
+  Updated: 2025-11-16T17:47:13Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -2841,7 +2841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/af36928e-2389-4c85-9c40-c1de02c1516f.jpg?v=1761762441
     Price: $19.30 USD
 - [Irregular Long Dress With Belt Fashion And Elegant Button Lapel Long-sleeved Shirt Dresses Daily Office Commuting Clothing For Women](https://fusionvibestore.com/products/irregular-long-dress-with-belt-fashion-and-elegant-button-lapel-long-sleeved-shirt-dresses-daily-office-commuting-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Skirt type: asymmetric skirt Color: black, khaki, white, navy blue Waist type: high waist Skirt length: mid skirt Popular elements: folding and splicing Style: Basic Fabric name: Polyester Sleeve type: regular sleeve Sleeve length: long sleeve Skirt Category: Dress Style: Elegant style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-11-14T18:32:26Z
+  Updated: 2025-11-15T07:10:57Z
   Vendor: FusionVibeStore™
   Product Type: Women Clothing
   Availability: Available
