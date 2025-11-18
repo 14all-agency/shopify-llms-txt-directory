@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-16T00:00:29.806Z
+- Updated At: 2025-11-18T00:00:39.114Z
 
 ## Products
 
@@ -651,7 +651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/5883872A-61C0-4740-B157-76EDB9B1290A.png?v=1761696399
     Price: €47.00 EUR
 - [Nike Off Air Force AF 1](https://mldrip.com/products/nike-off-air-force-af-1): MLdrop Air Force Style Sneakers – Streetwear Redefined Bring your outfit to the next level with MLdrop sneakers. Designed with premium materials and unique details, these shoes give you the perfect mix of comfort, durability, and bold street style. Whether for everyday wear or making a statement, MLdrop has you covered. ✔️ Premium quality build ✔️ Comfortable fit for daily use ✔️ Modern, standout design ✔️ Perfect for casual & streetwear looks 🔥 Available now for only €129,99 (was €349,99) – limited stock!
-  Updated: 2025-11-06T12:30:01Z
+  Updated: 2025-11-17T11:04:27Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_96dc4c98-615b-402d-9655-ae6e78eefcf2.jpg?v=1761696413
     Price: €125.99 EUR
 - [Polo Ralph Laurens Hoodie-Set](https://mldrip.com/products/untitled-sep10_00-49): Introducing Ralph Lauren's Hoodie-Set, made with premium quality fabric for all-day comfort and durability. The adjustable fit allows for a perfect fit every time while showcasing the iconic red pony emblem. Designed with eco-conscious materials, this sustainable choice makes for an ideal gift for any occasion.
-  Updated: 2025-11-08T20:12:46Z
+  Updated: 2025-11-17T10:18:13Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_27209c6e-3943-4e12-908a-b79967e44682.jpg?v=1758747865
     Price: €119.99 EUR
 - [Moncler Montbeliard short down jacket with hood](https://mldrip.com/products/montbeliard-short-down-jacket-with-hood): Moncler Montbéliard Short Down Jacket with Hood – Available at MLDrop.Store The Moncler Montbéliard Short Down Jacket is a modern classic that combines luxury design with functional warmth. Crafted from premium nylon laqué with a glossy finish, this jacket is filled with high-quality down for superior insulation without bulk. Featuring a detachable hood, two-way zip closure, and the iconic Moncler logo patch on the sleeve, it’s built for both city streets and cold-weather adventures. Premium nylon laqué shell with glossy finish Down-filled for lightweight warmth Detachable hood for versatility Two-way front zipper & functional pockets Signature Moncler logo patch Stay warm in style with the Montbéliard Short Down Jacket, available now at MLDrop.Store.
-  Updated: 2025-11-06T12:30:04Z
+  Updated: 2025-11-17T10:32:17Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -3727,7 +3727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8547B594-35C5-4068-9159-6FC92D2E36E1.jpg?v=1758747884
     Price: €55.99 EUR
 - [B22 Dior](https://mldrip.com/products/b22-dior): Step up your drip with the iconic B22 Dior sneakers — where high fashion collides with streetwear energy. These kicks flex that bold, chunky silhouette everyone’s hyped about, crafted with premium materials that scream quality and style. Whether you’re hitting the city streets or pulling up to the squad, B22 Dior gives you that next-level vibe, turning heads and making moves. Why B22 Dior? Signature Dior craftsmanship with a modern chunky design Breathable, comfy fit for all-day flex Perfect for drip that slaps on and off the field Versatile enough to pair with anything, from fits to casual vibes Upgrade your sneaker game with B22 Dior — cuz you’re not just walking, you’re making a statement.
-  Updated: 2025-11-06T12:30:05Z
+  Updated: 2025-11-17T10:07:24Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -3933,7 +3933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0CB3A6F7-DB6A-41A6-B50C-1E77E45495B2.png?v=1758924321
     Price: €130.99 EUR
 - [Dior B30 Sneakers](https://mldrip.com/products/dior-b30): Step into the future of fashion with the Dior B30 Sneakers – a bold blend of luxury design and athletic edge. Featuring the signature "CD" reflective logo, lightweight mesh construction, and a futuristic silhouette, these sneakers redefine what it means to walk in style. Perfect for streetwear lovers, high-fashion enthusiasts, or anyone who demands comfort and class – the B30 is more than just a sneaker, it’s a statement. Product Features: Iconic "CD" reflective logo for that bold Dior touch Lightweight & breathable mesh upper for all-day wear Cushioned sole with shock-absorbing support Sleek, aerodynamic design that turns heads Unisex sizing – versatile for any wardrobe Luxury Meets Performance. From the runway to the streets, the Dior B30 delivers unmatched comfort, quality, and style. Add to Cart Now and bring high-end fashion to your sneaker rotation today!
-  Updated: 2025-11-06T12:30:05Z
+  Updated: 2025-11-17T10:10:16Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -4345,7 +4345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/16484E5D-8F21-4180-A79B-73D988B669E0.png?v=1762242782
     Price: €122.00 EUR
 - [POLO Ralph Lauren Sweater](https://mldrip.com/products/polo-ralph-lauren-sweater): Upgrade your wardrobe with the high-quality POLO Ralph Lauren Sweater. Made with the best materials, this sweater will keep you warm and stylish all winter long. Perfect for any occasion, it's a must-have for any fashion-forward individual. Add a touch of luxury to your wardrobe with this POLO Ralph Lauren Sweater.
-  Updated: 2025-11-06T12:30:05Z
+  Updated: 2025-11-17T10:20:45Z
   Vendor: Mldrip
   Product Type: Pullovers
   Availability: Available
@@ -4645,7 +4645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1E397C16-BFD9-47D0-A737-4890FF098227.jpg?v=1758749109
     Price: €45.99 EUR
 - [Nike Air Force 1](https://mldrip.com/products/air-force): Classic. Clean. Unstoppable. The Nike Air Force 1 is a true icon in the sneaker world . With its timeless silhouette, crisp leather upper, and unbeatable comfort, this shoe has ruled the streets since 1982 – and it’s not slowing down anytime soon. Whether you're dressing up or keeping it casual, the AF1 delivers effortless drip, all-day comfort, and that legendary energy. Product Features: Premium leather upper for durability & a clean look Nike Air cushioning for lightweight comfort Rubber outsole for excellent traction & grip Perforated toe box for breathability Unisex sizing – made for everyone From Courts to Streets. The Air Force 1 isn’t just a sneaker – it’s a movement. Add to Cart Now and step into the legacy.
-  Updated: 2025-11-06T12:30:05Z
+  Updated: 2025-11-17T11:02:56Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -5467,7 +5467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/f5b20d8c-d6f8-5743-98eb-b6dcbbe0.jpg?v=1758749136
     Price: €79.99 EUR
 - [ASICS Gel-1130™](https://mldrip.com/products/asici-1130-gels-nyc): Step into the ultimate Y2K aesthetic with the ASICS Gel-1130™ in Blush Bloom. These kicks are a perfect fusion of performance tech and street-style drip — with pastel pink accents, breathable mesh, silver detailing, and that iconic ASICS side stripe. Why You’ll Love Them: Cushioned Gel™ sole for all-day comfort — walk, run or stunt without limits Breathable mesh upper keeps your feet fresh AF Durable build + retro running style = everyday staple Goes with everything from cargos to cozy fits From IG-worthy outfits to your daily hustle, these sneakers got you covered. Run it up while it’s hot — limited stock!
-  Updated: 2025-11-06T12:30:06Z
+  Updated: 2025-11-17T10:42:16Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6065,7 +6065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/05489B14-44C8-4DB6-A6C3-4ED4D8EB9E9A.png?v=1758922549
     Price: €115.00 EUR
 - [Air Jordan 4 Retro x KAWS](https://mldrip.com/products/nike-air-jordan-4-retro-kaws-grey): Level up your sneaker rotation with the legendary Air Jordan 4 Retro x KAWS collab – a true grail for collectors and streetwear kings alike. Dressed in luxe Cool Grey suede and detailed with KAWS’ signature “XX” and hand motifs, this pair ain’t just shoes — it’s wearable art. Why They Hit Different: Premium suede upper with KAWS’ iconic touch Glow-in-the-dark outsole for night-time flex Limited-edition collab – no restocks, ever Classic AJ4 silhouette, upgraded with that designer drip Whether you're rocking ‘em or displaying ‘em, these kicks scream status. Real sneakerheads know: you don’t sleep on KAWS. Secure your pair before they vanish. Drops like this don’t come twice.
-  Updated: 2025-11-06T12:30:06Z
+  Updated: 2025-11-17T10:58:15Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6119,7 +6119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/19E55BE4-52AD-4ECD-9D60-A16329647006.jpg?v=1762211566
     Price: €120.00 EUR
 - [Air Jordan 11 Retro](https://mldrip.com/products/jordan-11-retro): The Jordan 11 Retro isn't just a sneaker — it's a whole legacy. Rocked by MJ during his comeback era, this pair brings championship energy straight to your rotation. Patent leather shine. Icy sole. Iconic silhouette. It's the definition of timeless drip. Why These Hit Different: Premium patent leather + ballistic mesh upper for that sleek, glossy flex Full-length Air-Sole unit = elite comfort & bounce Translucent rubber outsole with serious grip and retro feels Jumpman logo & carbon fiber plate for OG sneakerhead vibes Whether you're lacing up for the court or the culture, the Jordan 11 Retro always makes a statement. It’s bold. It's classic. It's straight-up GOAT-tier. Limited pairs. Once they’re gone, they’re GONE. Cop yours now.
-  Updated: 2025-11-06T12:30:07Z
+  Updated: 2025-11-17T10:51:25Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -6475,7 +6475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/B4E96730-4147-44F2-B1A1-852D8B8377FB.jpg?v=1758749162
     Price: €229.99 EUR
 - [UGG Lowmel](https://mldrip.com/products/ugg-lowmel): The UGG Lowmel isn't just a sneaker — it’s a whole vibe. Mixing that signature UGG softness with a fresh, low-key streetwear design, this is the pair you rock when you want comfort and clout. Why It Hits Different: Suede + mesh upper for a luxe yet breathable feel Treadlite by UGG™ outsole = lightweight, cushy, built to flex Padded interior wraps your foot like a cloud Neutral tones that match any fit — from cozycore to clean street looks Slide into the ultimate blend of chill and style. Whether you're running errands, grabbing coffee, or just stepping out, the Lowmel keeps it fresh without trying too hard. Drip + comfort = certified everyday essential. Don’t sleep.
-  Updated: 2025-11-06T12:30:07Z
+  Updated: 2025-11-17T10:41:05Z
   Vendor: Mldrip
   Product Type: Boots
   Availability: Available
@@ -6577,7 +6577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-1902.png?v=1758749166
     Price: €150.00 EUR
 - [Louis Vuitton Skate](https://mldrip.com/products/lv-skate-sneaker): Pull up in pure heat with the Louis Vuitton Skate Sneaker – where high fashion slides straight into streetwear. Designed for those who flex different, these kicks blend bold LV vibes with classic skate culture. Think chunky silhouette, premium materials, and that iconic monogram flex. Key Features: Luxury-grade leather & suede with LV monogram detailing Thick rubber outsole for max grip and street skater energy Padded collar + cushy insole = elite comfort all day Statement sneaker that turns heads wherever you go Whether you're rocking cargos, jeans, or oversized fits, this pair levels up your style game. Cop ‘em now and walk like you're on a Paris runway... or just flexing on the block. Limited pairs available. Real ones don’t wait.
-  Updated: 2025-11-06T12:30:07Z
+  Updated: 2025-11-17T10:43:32Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -7487,7 +7487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/3b5e5ace49047d445b3466c155ed4785.jpg?v=1758749268
     Price: €120.99 EUR
 - [Nike Air Max 95](https://mldrip.com/products/nike-air-max-95-iconic-style-all-day-comfort): Step into a legacy of style and innovation with the Nike Air Max 95. Originally inspired by the human body, this iconic silhouette features layered panels that mimic muscle fibers, with a bold gradient design that turns heads from every angle. Engineered with visible Air cushioning in the heel and forefoot, the Air Max 95 delivers next-level comfort whether you’re on the streets, at the gym, or on the move. The breathable mesh upper with suede or synthetic overlays offers durability and support, while the lacing system adapts to your foot for a snug, customized fit. Key Features: Visible Max Air units for lightweight cushioning Mesh upper with synthetic or leather overlays for breathability and structure Padded collar and tongue for added comfort Rubber outsole with a waffle pattern for traction and durability Sleek, street-ready design with retro flair Perfect for sneakerheads, athletes, and everyday wearers alike — the Air Max 95 is more than a shoe, it’s a statement. Available in multiple colorways. Limited stock – order now before they’re gone!
-  Updated: 2025-11-06T12:30:08Z
+  Updated: 2025-11-17T11:00:31Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -10241,7 +10241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/8FB7908D-554B-48B4-9932-9114C23277BC_1b9b1a35-c619-47b2-a392-4f9cf2e769ed.jpg?v=1758918276
     Price: €99.99 EUR
 - [Louis Vuitton](https://mldrip.com/products/louis-vuitton-shoes-wxqg): Step up your fashion game with these Louis Vuitton-inspired sneakers – the perfect blend of elegance and edge. Featuring the iconic LV monogram and crafted with premium materials, these kicks are built for trendsetters who refuse to settle. Whether you're hitting the streets or flexing on the 'Gram , these sneakers offer style, comfort, and status in every step. Product Highlights: Signature LV monogram pattern High-quality synthetic leather & suede Soft cushioned insoles for all-day comfort Non-slip rubber soles for confident grip Unisex design – fits every vibe Make Every Step Count. Turn heads, set trends, and walk with confidence in designer-level luxury – without the luxury price tag. Add to Cart Now and elevate your shoe game instantly!
-  Updated: 2025-11-06T12:30:11Z
+  Updated: 2025-11-17T10:45:34Z
   Vendor: Mldrop
   Product Type: Sneakers
   Availability: Available
@@ -13145,7 +13145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4434E788-8390-4C75-9B2A-0006CB8D29FA.png?v=1759779629
     Price: €33.99 EUR
 - [6PM Hoodie Set](https://mldrip.com/products/drill-embroidered-hoodie-set): SPECIFICATIONS Style: HIP HOP Type: Loose • Cross-border Trade : Experience global fashion with this cross-border trade product, bringing international style to your wardrobe. • Hip Hop Style : Embrace the urban vibe with this Hip Hop style hoodie, perfect for those who love to stand out. • Loose Fit : Enjoy comfort and freedom of movement with the loose fit design, suitable for all body types. • Embroidery Detailing : Add a touch of elegance with the intricate embroidery, making this hoodie a standout piece. • Long Sleeve Design : Stay cozy with the long sleeve design, ideal for cooler days or as a layering piece.
-  Updated: 2025-11-06T12:30:15Z
+  Updated: 2025-11-17T10:23:06Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -13263,7 +13263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/0089DE2D-E19B-4DC5-8B4A-E0568F2F4DCE.png?v=1759778417
     Price: €75.99 EUR
 - [6PM Drill Embroidered Hoodie Set](https://mldrip.com/products/6pm-drill-embroidered-hoodie-set): SPECIFICATIONS Style: HIP HOP Type: Loose • Cross-border Trade : Experience global fashion with this cross-border trade product, bringing international style to your wardrobe. • Hip Hop Style : Embrace the urban vibe with this Hip Hop style hoodie, perfect for those who love to stand out. • Loose Fit : Enjoy comfort and freedom of movement with the loose fit design, suitable for all body types. • Embroidery Detailing : Add a touch of elegance with the intricate embroidery, making this hoodie a standout piece. • Long Sleeve Design : Stay cozy with the long sleeve design, ideal for cooler days or as a layering piece.
-  Updated: 2025-11-06T12:30:15Z
+  Updated: 2025-11-17T10:14:02Z
   Vendor: Mldrip
   Product Type: 
   Availability: Available
@@ -14181,7 +14181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/1A8FE0EC-2DDB-4855-A3C2-51A0B94392E8.png?v=1761757427
     Price: €70.00 EUR
 - [Old School Shoes – Classic Vibes, Modern Comfort](https://mldrip.com/products/old-school-shoes-classic-vibes-modern-comfort): Step back in style with the Old School Shoes, a perfect mix of retro design and everyday comfort. These kicks bring that timeless ‘90s skate and streetwear energy — simple, clean, and always fresh. 👟 Why They Hit: Vintage low-top silhouette – iconic look that never fades Durable canvas & rubber sole – built for daily wear and street movement All-day comfort – cushioned insole for smooth steps Unisex design – made for anyone who loves classic drip From the skate park to the city streets, these sneakers deliver OG vibes with a modern twist — the perfect pair for every fit. 👉 Grab yours today and walk with that old-school confidence. 🖤🕶️
-  Updated: 2025-11-06T12:30:17Z
+  Updated: 2025-11-17T10:48:03Z
   Vendor: Mldrip
   Product Type: Sneakers
   Availability: Available
@@ -14534,7 +14534,7 @@
   Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/4BA7076F-F12B-427A-A97D-135C3555708F.jpg?v=1762241854
   Price: €94.99 EUR
 - [Luxury Montcla-Style Puffer Jacket – Premium Winter Coat for Men & Women](https://mldrip.com/products/luxury-montcla-style-puffer-jacket-premium-winter-coat-for-men-women): Stay warm in style with our Luxury Montcla-Style Puffer Jacket, inspired by high-end European fashion. This premium winter coat blends luxury design, durability, and comfort — making it perfect for cold weather or everyday streetwear looks. Crafted with high-quality down filling and a water-resistant shell, it keeps you cozy even in freezing conditions. The adjustable hood, secure zipper pockets, and sleek tailored fit give it a fashionable edge that matches perfectly with any outfit. Key Features: 🧥 Ultra-Warm Down Padding – Lightweight yet powerful insulation for maximum warmth 💧 Water & Wind Resistant Fabric – Stay protected in all weather conditions 🎯 Tailored Fit – Combines comfort with a modern streetwear silhouette 🎒 Functional Design – Multiple secure pockets and smooth front zipper 🔥 Stylish Look – Inspired by luxury European outerwear trends Why You’ll Love It: Whether you’re dressing up for the city or keeping it casual outdoors, this premium puffer jacket delivers the perfect balance of fashion and functionality. Built to last, it’s your go-to piece for warmth, comfort, and modern style. 🛒 Available Now at Mldrip.com ✅ Fast shipping worldwide ✅ Limited stock – order before it’s sold out!
-  Updated: 2025-11-06T12:30:17Z
+  Updated: 2025-11-17T10:33:58Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14624,7 +14624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-4749.png?v=1762244419
     Price: €159.99 EUR
 - [Luxury Fur Hooded Winter Parka Jacket – Black | MLDRIP](https://mldrip.com/products/luxury-fur-hooded-winter-parka-jacket-black-mldrip): Stay warm and stylish all winter long with the Luxury Fur Hooded Winter Parka Jacket from MLDRIP. This high-quality long puffer coat is built to handle cold weather with comfort and drip. Designed with a detachable fur-trimmed hood, deep front pockets, and a windproof, water-resistant outer shell, it gives you the perfect mix of fashion and warmth. Whether you’re heading out for a casual day, winter trip, or city night, this jacket keeps you cozy and confident in every move. Features: Premium puffer design for max warmth Detachable faux fur hood for flexible style Durable front zipper + button closure Two large flap pockets and one chest pocket Soft inner lining for extra comfort Perfect for cold, snowy, or windy days
-  Updated: 2025-11-06T12:30:18Z
+  Updated: 2025-11-17T10:37:32Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -14686,7 +14686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_8bb5c4e6-28fa-477c-a2f2-c82b1941f464.jpg?v=1762336650
     Price: €159.99 EUR
 - [Unisex Loose Fit Y2K Streetwear Hoodie – Letter Print Hip Hop Sweatshirt](https://mldrip.com/products/unisex-loose-fit-y2k-streetwear-hoodie-letter-print-hip-hop-sweatshirt): SPECIFICATIONS Collar: O-Neck Decoration: None Material: POLYESTER Sleeve Length(cm): Full Style: Other Thickness: Thick Y2K Streetwear Style Embrace the Y2K era with this trendy streetwear piece, perfect for those who love to stand out. Durable Material Crafted from high-quality polyester, this sweatshirt offers durability and longevity. Comfortable Fit The loose fit of this sweatshirt ensures maximum comfort, ideal for casual wear or lounging at home. Versatile Accessory Whether you're hitting the streets or heading to a casual event, this sweatshirt is a versatile accessory. Unisex Design This versatile garment is designed to fit both men and women, making it a great addition to any wardrobe.
-  Updated: 2025-11-07T07:08:22Z
+  Updated: 2025-11-17T10:29:29Z
   Vendor: Mldrip
   Product Type: Tracksuit
   Availability: Available
@@ -14892,7 +14892,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S84500334d3904e559b39d4e3b593f1fce.webp?v=1762450744
     Price: €38.99 EUR
 - [Warm Men's Black Puffer Jacket for Comfort and Cold Weather](https://mldrip.com/products/warm-mens-black-puffer-jacket-for-comfort-and-cold-weather): Stay warm and stylish all season with this men’s black puffer jacket, designed for ultimate comfort and protection against cold weather. Crafted from premium lightweight materials, it delivers high insulation without feeling bulky — perfect for everyday wear, travel, or outdoor adventures. With its sleek modern fit, zip-up front, and soft inner lining, this jacket combines functionality and streetwear style in one. The water-resistant outer shell helps keep you dry, while the adjustable hood and secure pockets give you practical comfort wherever you go. Features: 🔥 Ultra-warm insulation for freezing temperatures 💧 Water & wind-resistant shell to handle winter weather 🎯 Tailored streetwear fit — stylish yet comfortable 🧥 Lightweight & breathable design for all-day wear 🎒 Multiple zip pockets for your essentials Why You’ll Love It: Whether you’re out in the city or hitting the outdoors, this black puffer jacket keeps you cozy, confident, and on-trend. It’s built for warmth, comfort, and modern street style — a must-have for every winter wardrobe. 🛒 Shop now on Mldrip.com ✅ Fast worldwide shipping ✅ Limited stock available – order before it’s gone!
-  Updated: 2025-11-07T15:09:13Z
+  Updated: 2025-11-17T10:39:19Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -15881,6 +15881,112 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1762970302
     Price: €86.99 EUR
+- [Trapstar Puffer Jacket – Premium Streetwear Winter Jacket Men & Women](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women): Stay warm and stylish this winter with our Trapstar Puffer Jacket, designed for people who want high-quality streetwear with everyday comfort. This jacket features thick padded insulation, a windproof outer shell, and a comfortable fit that keeps you warm in cold weather without feeling heavy. Made for streetwear lovers, this jacket brings a bold, modern look that pairs perfectly with cargos, jeans, or tech fleece outfits. Whether you’re going out, traveling, or dressing for winter, this puffer jacket gives you both warmth and street-style confidence.
+  Updated: 2025-11-17T19:27:58Z
+  Vendor: Mldrip
+  Product Type: Jacket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+  - [1 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158891345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Price: €139.99 EUR
+  - [2 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158924113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Price: €139.99 EUR
+  - [3 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158956881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Price: €139.99 EUR
+  - [4 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378158989649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Price: €139.99 EUR
+  - [5 / XS](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378159022417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Price: €139.99 EUR
+  - [1 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160234833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Price: €139.99 EUR
+  - [1 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160267601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Price: €139.99 EUR
+  - [1 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160300369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Price: €139.99 EUR
+  - [1 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160333137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/7F01A6BF-F974-48D6-BFE9-3CC8E43AAA04.jpg?v=1763407165
+    Price: €139.99 EUR
+  - [2 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160365905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Price: €139.99 EUR
+  - [2 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160398673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Price: €139.99 EUR
+  - [2 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160431441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Price: €139.99 EUR
+  - [2 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160464209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/43173BD7-9AD2-47D2-B44B-DC59160BF193.jpg?v=1763407069
+    Price: €139.99 EUR
+  - [3 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160496977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Price: €139.99 EUR
+  - [3 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160529745)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Price: €139.99 EUR
+  - [3 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160562513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Price: €139.99 EUR
+  - [3 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160595281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/C9BE6E1C-E5B9-4224-AE98-D14E071A4726.jpg?v=1763407123
+    Price: €139.99 EUR
+  - [4 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160628049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Price: €139.99 EUR
+  - [4 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160660817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Price: €139.99 EUR
+  - [4 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160693585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Price: €139.99 EUR
+  - [4 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160726353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/AE9DD923-4184-4B62-A47A-15419CD31847.jpg?v=1763407029
+    Price: €139.99 EUR
+  - [5 / S](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160759121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Price: €139.99 EUR
+  - [5 / M](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160791889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Price: €139.99 EUR
+  - [5 / L](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160824657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Price: €139.99 EUR
+  - [5 / XL](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women?variant=52378160857425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
+    Price: €139.99 EUR
 
 ## Collections
 
@@ -15900,11 +16006,11 @@
   Updated: 2025-11-12T09:25:34Z
   Total Products: 39
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-11-12T17:58:25Z
-  Total Products: 133
+  Updated: 2025-11-17T19:25:35Z
+  Total Products: 134
 - [Jackets](https://mldrip.com/collections/jackets)
-  Updated: 2025-11-11T14:41:07Z
-  Total Products: 19
+  Updated: 2025-11-17T19:25:35Z
+  Total Products: 20
 
 ## Blogs
 
@@ -15966,6 +16072,8 @@
   Updated: 2025-11-06T21:42:57Z
 - [Favorite](https://mldrip.com/pages/favorite)
   Updated: 2025-11-06T15:57:32Z
+- [Collabs](https://mldrip.com/pages/collab)
+  Updated: 2025-11-16T20:03:14Z
 
 ## Policies
 
