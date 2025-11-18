@@ -12,14 +12,15 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2025-11-18T00:03:06.966Z
+- Updated At: 2025-11-18T10:20:56.097Z
 
 ## Naše služby
 
-- [Operativní leasing](https://www.driveto.cz): Zprostředkování operativního leasingu všech značek
+- [Operativní leasing](https://www.driveto.cz/collections/operativni-leasing): Zprostředkování operativního leasingu všech značek
 - [Poptávka vozidla](https://www.driveto.cz/pages/vyberte-si-svoje-auto): Auto které nenabízíme můžete poptat zde
 - [Nejlevnější nabídky](https://www.driveto.cz/collections/operativni-leasing?sort_by=price-ascending): Aktuálně nejlevnější dostupné vozy
 - [Akční nabídky](https://www.driveto.cz/collections/akcni-nabidky?sort_by=best-selling): Speciální akce a slevy
+- [Black Friday nabídky](https://www.driveto.cz/collections/black-friday): Speciální akce na Black Friday
 
 ## Kompletní nabídka značek a modelů
 
@@ -1746,7 +1747,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 9 244,00 Kč CZK
 - [Volvo EX30 Plus Extended Range Single Motor 200 kW Elektřina Automatická převodovka](https://www.driveto.cz/products/volvo-ex30-plus-extended-range-single-motor-200kw-elektrina-automaticka-prevodovka): EX30 je stylový a kompaktní elektromobil se zvýšeným podvozkem, který zaujme moderním designem a skandinávským minimalismem. Tento kousek je navíc v hezké výbavě Plus a nechybí ani pár příplatků. Vůz nabízí čisté linie, které podtrhují jeho elegantní vzhled, zatímco kompaktní rozměry zajišťují skvělou ovladatelnost, zejména ve městském prostředí. Interiér je útulný a přehledný, zaměřený na jednoduchost a funkčnost. Volvo dbá na kvalitní materiály a intuitivní ovládání, které zpříjemní každý okamžik za volantem. Pod kapotou tohoto modelu se skrývá výkonný elektrický motor s výkonem 200 kW, který poskytuje dostatek síly pro dynamickou jízdu. EX30 také nabízí tichou a hladkou jízdu, což je u elektromobilu samozřejmostí. Díky preciznímu řízení a dobře naladěnému podvozku se vůz chová velmi stabilně a zároveň pohodlně. Tento elektromobil je ideální volbou pro ty, kteří hledají ekologický a stylový způsob, jak se pohybovat ve městě, aniž by museli dělat kompromisy v oblasti výkonu nebo komfortu.
-  Updated: 2025-11-10T07:37:46Z
+  Updated: 2025-11-18T01:31:32Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3648,29 +3649,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20d-145-kw-nafta-4x4-automaticka-prevodovka?variant=57924270063965)
     Availability: Available
     Price: 18 809,00 Kč CZK
-- [BMW X3 M Sport xDrive20 153 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka): Nová X3 byla představena v polovině roku 2024. Vyznačuje se ještě větší sportovní přitažlivostí a univerzálností. Přináší výjimečný klid a jistotu při každodenní jízdě i na delších cestách. V interiéru nového BMW X3 se snoubí robustní funkčnost, dostatek prostoru a prémiová atmosféra s osobitým stylem. Design palubní desky, obložení dveří a použité materiály představují nový směr pro modelové portfolio BMW. Benzínový motor je hospodárnější a výkonnější než kdykoli předtím. Proti dieselovým agregátům nabídne podstatně lepší kultivovanost a také je při běžné jízdě tišší. Nové BMW X3 je moderní všestranné SUV, které si zamilujete.
-  Updated: 2025-10-29T18:56:10Z
-  Vendor: Driveto
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/BMWX3MSportfoto1_84be4458-dd56-4fb4-8c9e-fe13168a9d39.webp?v=1761735191
-  - [10000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka?variant=57951114428765)
-    Availability: Available
-    Price: 15 785,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka?variant=57951114461533)
-    Availability: Available
-    Price: 16 171,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka?variant=57951114494301)
-    Availability: Available
-    Price: 17 282,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka?variant=57951114527069)
-    Availability: Available
-    Price: 18 405,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá Alpine](https://www.driveto.cz/products/bmw-x3-m-sport-xdrive20-153-kw-benzin-4x4-automaticka-prevodovka?variant=57951114559837)
-    Availability: Available
-    Price: 18 920,00 Kč CZK
 - [Toyota RAV4 GR Sport 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-10-30T01:14:53Z
+  Updated: 2025-11-18T09:52:05Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3678,17 +3658,17 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 12 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978477707613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna_zirkonova_s_cernou_strechou_Toyota_RAV4_GR_Sport.webp?v=1761735238
-    Price: 14 190,00 Kč CZK
+    Price: 13 390,00 Kč CZK
   - [25000 km / 12 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978477740381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761735238
-    Price: 14 190,00 Kč CZK
+    Price: 13 390,00 Kč CZK
   - [25000 km / 12 měsíců / Šedá popelavá se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-gr-sport-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978477773149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda_popelava_se_strechou_v_cerne_barve_Toyota_RAV4_GR_Sport.webp?v=1761735238
-    Price: 14 190,00 Kč CZK
+    Price: 13 390,00 Kč CZK
 - [Toyota RAV4 Selection 2.5 Hybrid 163 kW Benzín 4x4 Automatická převodovka](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka): Toyota RAV4 je robustní SUV, které je ve světě naprostým hitem - prodalo se jich přes 11 milionů. Design páté generace zaujme na první pohled - ostře řezané hrany v kombinaci se svalnatými blatníky navozují jedinečné charisma. Uvnitř se pyšní nadprůměrnou prostorností a potěší také tradiční koncepce, která zahrnuje klasická tlačítka a další ovladače. Díky tomu se velice dobře ovládá. Dotykový displej tu je samozřejmě také. Nechybí ani možnost zrcadlení telefonu do infotainmentu. Pohon vozu má na starost velký benzínový motor o objemu 2,5 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 - 5 litrů. Potěší také vysoký výkon, který dodává vozu velmi hezkou dynamiku. Tento kousek navíc disponuje i pohonem všech čtyř kol, díky čemuž snadněji zvládne i lehčí terén či zasněženou silnici.
-  Updated: 2025-11-04T11:13:21Z
+  Updated: 2025-11-18T09:51:34Z
   Vendor: Driveto
   Product Type: 
   Availability: Available
@@ -3696,19 +3676,19 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [25000 km / 12 měsíců / Modrá temná s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978616807773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_temna_s_cernou_strechou_Toyota_RAV4_Selection.webp?v=1761735292
-    Price: 13 690,00 Kč CZK
+    Price: 12 990,00 Kč CZK
   - [25000 km / 12 měsíců / Stříbrná zirkonová s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978487636317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Stribrna-zirkonova-s-cernou-strechou-Toyota-RAV4-Selection.webp?v=1761735292
-    Price: 13 690,00 Kč CZK
+    Price: 12 990,00 Kč CZK
   - [25000 km / 12 měsíců / Bílá perleťová se střechou v černé barvě](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978487669085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_perletova_se_strechou_v_cerne_barve_Toyota_RAV4_Selection.webp?v=1761735292
-    Price: 13 690,00 Kč CZK
+    Price: 12 990,00 Kč CZK
   - [25000 km / 12 měsíců / Šedá popelavá s černou střechou](https://www.driveto.cz/products/toyota-rav4-selection-2-5-hybrid-163-kw-benzin-4x4-automaticka-prevodovka?variant=57978616840541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Seda-popelava-s-cernou-strechou-Toyota-RAV4-Selection.webp?v=1761735292
-    Price: 13 690,00 Kč CZK
+    Price: 12 990,00 Kč CZK
 - [Toyota Corolla Cross Comfort 1.8 Hybrid 103kw e-CVT 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1): Corolla Cross je odpověď na zvyšující se poptávku po středně velikých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě strčí do kapsy. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, ve kterém převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost motor o objemu 1,8 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
   Updated: 2025-10-29T18:56:51Z
   Vendor: Driveto
@@ -5355,16 +5335,16 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 ## Collections
 
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-17T23:02:14Z
-  Total Products: 231
+  Updated: 2025-11-18T10:04:13Z
+  Total Products: 230
 - [Operativní leasing Škoda | Driveto.cz](https://www.driveto.cz/collections/skoda): Operativní leasing Škoda pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T22:04:50Z
+  Updated: 2025-11-18T09:10:33Z
   Total Products: 71
 - [Elektromobily na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T22:03:43Z
   Total Products: 25
 - [Skladové vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T23:04:31Z
+  Updated: 2025-11-18T10:01:34Z
   Total Products: 163
 - [Operativní leasing Tesla | Driveto.cz](https://www.driveto.cz/collections/tesla): Operativní leasing Tesla pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-06T15:39:41Z
@@ -5376,8 +5356,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-10-26T11:17:59Z
   Total Products: 2
 - [Operativní leasing BMW | Driveto.cz](https://www.driveto.cz/collections/bmw): Operativní leasing BMW pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-18T00:01:58Z
-  Total Products: 12
+  Updated: 2025-11-18T08:11:20Z
+  Total Products: 11
 - [Operativní leasing Mini | Driveto.cz](https://www.driveto.cz/collections/mini): Operativní leasing Mini pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-10-27T12:08:11Z
   Total Products: 1
@@ -5400,13 +5380,13 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-13T12:22:36Z
   Total Products: 4
 - [Operativní leasing Toyota | Driveto.cz](https://www.driveto.cz/collections/toyota): Operativní leasing Toyota pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T12:21:47Z
+  Updated: 2025-11-18T10:03:01Z
   Total Products: 45
 - [Operativní leasing Volvo | Driveto.cz](https://www.driveto.cz/collections/volvo): Operativní leasing Volvo pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T21:04:00Z
   Total Products: 11
 - [Operativní leasing Audi | Driveto.cz](https://www.driveto.cz/collections/audi): Operativní leasing Audi pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T23:04:57Z
+  Updated: 2025-11-18T09:06:36Z
   Total Products: 14
 - [Operativní leasing Peugeot | Driveto.cz](https://www.driveto.cz/collections/peugeot): Operativní leasing Peugeot pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T12:21:46Z
@@ -5421,8 +5401,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-17T12:21:47Z
   Total Products: 23
 - [Akční nabídky na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T23:01:56Z
-  Total Products: 29
+  Updated: 2025-11-18T09:03:42Z
+  Total Products: 28
 - [Operativní leasing Renault | Driveto.cz](https://www.driveto.cz/collections/renault): Operativní leasing Renault pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-10T17:06:56Z
   Total Products: 2
@@ -5430,13 +5410,13 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-10T17:07:30Z
   Total Products: 8
 - [Osobní vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T23:05:52Z
-  Total Products: 233
+  Updated: 2025-11-18T10:03:32Z
+  Total Products: 232
 - [Plug-in vozy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T10:02:12Z
   Total Products: 9
 - [Mild hybridy na Operativní leasing | Driveto.cz](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2025-11-17T12:21:47Z
+  Updated: 2025-11-18T09:52:06Z
   Total Products: 4
 - [Operativní leasing se zimními pneumatikami | Driveto.cz](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T12:21:47Z
@@ -5445,8 +5425,8 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2025-11-12T11:50:31Z
   Total Products: 0
 - [Nabídka aut na operativní leasing | Driveto.cz](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2025-11-17T23:04:45Z
-  Total Products: 231
+  Updated: 2025-11-18T10:02:14Z
+  Total Products: 230
 - [Operativní leasing Opel | Driveto.cz](https://www.driveto.cz/collections/opel): Operativní leasing Opel pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2025-11-17T12:21:46Z
   Total Products: 3
