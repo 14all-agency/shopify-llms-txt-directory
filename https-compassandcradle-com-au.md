@@ -8,12 +8,12 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-16T00:00:23.238Z
+- Updated At: 2025-11-18T00:00:33.632Z
 
 ## Products
 
 - [Requires Snacks Tee| Matching Family T-shirts Sandy Beige](https://compassandcradle.com.au/products/requires-snacks-tee): Requires Snacks tee — soft cotton, oversized fit, fun slogan. Pair with matching “Snack Provider” tee for mum & child. Shop now!
-  Updated: 2025-11-10T10:36:08Z
+  Updated: 2025-11-16T05:45:27Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -64,7 +64,7 @@
     Availability: Available
     Price: $39.00 AUD
 - [Dummy Holder | 100% Food Grade Silicone](https://compassandcradle.com.au/products/dummy-holder): Say goodbye to lost pacifiers and unnecessary plastic exposure! Our Silicone Dummy Holder is made from soft, BPA-free silicone, offering a safe and hygienic way to store pacifiers while on the go
-  Updated: 2025-11-10T11:15:24Z
+  Updated: 2025-11-17T00:21:33Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-13T21:08:24Z
+  Updated: 2025-11-16T05:45:27Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard2.jpg?v=1760425814
     Price: $9.00 AUD
 - [Beach Bag | Cray Cray on Vacay | Oversized Lobster/Crayfish Beige](https://compassandcradle.com.au/products/beach-bag): Made from durable, easy-to-clean beach bag, it’s built to handle the everyday chaos. With a handy external pocket for quick-grab items and a secure internal pocket, it keeps things organized!
-  Updated: 2025-11-10T10:33:53Z
+  Updated: 2025-11-16T05:45:27Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Available
     Price: $223.36 AUD
 - [Kids Cap (Ages 1-6) | Barefoot Bandit](https://compassandcradle.com.au/products/acid-wash-kids-cap-barefoot-bandit-light-brown): Kids Cap (Ages 1–6) | Barefoot Bandit Add a touch of cool to your little one’s outfit with our Acid Wash Kids Cap — a stylish and comfortable toddler hat made for everyday adventures. Designed to fit children aged 1–6 years, this adjustable kids cap features a soft acid wash finish that gives it a trendy, lived-in look parents love. Made from breathable cotton, it keeps your child comfy while protecting them from the sun. The adjustable back strap ensures a perfect fit as they grow, making it a long-lasting favorite in your little one’s wardrobe. This acid wash kids hat is part of our upcoming matching kids set, so you can complete the look with coordinating pieces for effortless, everyday style. Features: Fits ages 1–6 years (50-54cm circumference) Adjustable back strap for a secure fit Soft, breathable cotton with an acid wash finish Unisex design — perfect for boys and girls Matches with our new kids clothing set (coming soon)
-  Updated: 2025-11-14T12:33:47Z
+  Updated: 2025-11-17T05:03:33Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -279,13 +279,13 @@
 ## Collections
 
 - [Compass & Cradle Products](https://compassandcradle.com.au/collections/frontpage)
-  Updated: 2025-11-15T23:20:57Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 6
 - [Matching Family T-Shirts](https://compassandcradle.com.au/collections/matching-family-t-shirts): Requires Snacks & Snack Provider - Matching Family T-Shirts Fuel every adventure with our Matching Family T-shirts, Required Snacks Kids T-Shirt and Snack Provider Parent Tee—the ultimate set for families who know snacks are non-negotiable. Made from premium, soft cotton with a comfortable unisex fit, these funny parenting t-shirts are perfect for playdates, park hangs, road trips, and everyday chaos. Whether your little one is declaring their snack needs or you’re proudly wearing your badge as the official snack provider, these matching family tees bring humour and heart to parenting life. Designed in Australia, our mum life clothing and parent and child matching outfits make unforgettable gifts for new mums, dads, and snack-loving kids. Shop now for the perfect Matching Family T-shirts.
-  Updated: 2025-11-10T11:15:35Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 2
 - [Cray Cray on Vacation Collection | Holiday Apparel](https://compassandcradle.com.au/collections/holiday-apparel): Holiday Apparel -Shop the Cray Cray on Vacay collection. Featuring our soft Terry Towel Kids Set and matching oversized Canvas Tote. Perfect for coordinated family beach days and summer adventures
-  Updated: 2025-11-13T12:21:11Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 2
 - [Family Car Stickers](https://compassandcradle.com.au/collections/baby-on-board-car-stickers): Drive safe and spread some smiles with our range of Baby on Board Family Car Stickers.
 
@@ -293,20 +293,20 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-15T23:20:57Z
   Total Products: 2
 - [Dummy Holder](https://compassandcradle.com.au/collections/dummy-holder): Silicone Dummy Holder. Keep dummies clean, close, and easy to find with our stylish Dummy Holders—a must-have for every parent’s baby bag. Made from safe, durable, and easy-to-clean materials, these pacifier clips are designed to prevent lost or dropped soothers during busy days out or late-night cuddles. With modern, gender-neutral designs, our soother holders are as practical as they are cute—making them the perfect blend of function and style. Lightweight and easy to attach, they’re an essential part of any newborn accessories collection and a thoughtful gift for new parents
-  Updated: 2025-11-10T11:15:25Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-11-15T12:23:21Z
+  Updated: 2025-11-17T05:03:55Z
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-11-13T12:21:11Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 3
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
-  Updated: 2025-10-28T05:33:27Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Sale](https://compassandcradle.com.au/collections/sale)
-  Updated: 2025-11-15T23:20:57Z
+  Updated: 2025-11-16T12:23:13Z
   Total Products: 3
 - [Compass & Cradle Digital Gift Card](https://compassandcradle.com.au/collections/compass-cradle-digital-gift-card)
   Updated: 2025-11-02T12:22:01Z
