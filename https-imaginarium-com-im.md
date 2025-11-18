@@ -10,7 +10,7 @@ Jigsaw puzzles and more  fascinating journals coming soon because extraordinary 
 - Timezone: Australia/Adelaide
 - Created At: 2025-07-30T03:40:26Z
 - Contact Email: imagineyourjournals@gmail.com
-- Updated At: 2025-11-17T00:00:55.214Z
+- Updated At: 2025-11-18T00:01:52.325Z
 
 Imaginarium blends imagination with the page, creating journals that celebrate what makes life worth pondering. 
 
@@ -607,6 +607,13 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Product Type: Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/the_Red_Dragon_Jigsaw_Puzzle.jpg?v=1762767866
+  Price: $27.99 AUD
+- [Ancient Upanishad the Isha HC Journal](https://imaginarium.com.im/products/ancient-upanishad-quoted-texts-hc-journal-matte-with-gold-highlights-and-throat-chakra-design): , Matte with Gold Highlights and Throat Chakra Design Description: Welcome to the Isha – where ancient Vedic wisdom blends with your modern musings in burnished gold glory. This isn't just a journal; it's a portal to divine truth wrapped in 900-500 BCE philosophy, complete with Shiva's trishulkeeping watch over your deepest reflections. What awaits inside: Hardcover protection with matte black elegance and gold highlights Throat chakra design on the back for authentic expression Pages ready for purification, communication, expression, and relating For souls seeking: A companion for spiritual practice, meditation insights, or simply a refuge from the mundane.Whether you're exploring Ayurveda, tracking your yoga journey, or manifesting your most authentic self,the Isha holds space for it all. ⚠️ WARNING: Side effects may include sudden urges to contemplate the infinite, inexplicable calm in the face of chaos,and the compulsion to scribble profound thoughts at 3am. Enlightenment not guaranteed, but hey! ..a beautifully documented journey. A stunning hardcover journal in the ancient andhistoric Upanishad Series, With matte finish featuring gold highlights on a black background with a spray of stars. The design includes ancient symbols of the (Isa), Isha, and the throat chakra. Perfect for those who appreciate spiritual and mystical themes, this journal is ideal for keeping your thoughts, meditations, self- reflection studies, or secret family recipes in one beautiful companion book. Great for fans of ancient texts and those interested in chakras and symbolism. Ideal for gifting during, Christmas gifts, birthday gifts, farewell gifts, spiritual work, shadow work, spell work. Take it on holidays to record those special moments occasions.Product features- Matte laminated cover for durability- Vibrant colors with latest printing techniques- Perforated pages for easy tearing- Casewrap binding for flexibility- Full wraparound printCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards. SEO Title: Ancient Upanishad Isha Journal - Hardcover Spiritual Notebook with Gold Accents SEO Description: Premium hardcover journal featuring the Isha Upanishad with burnished gold design and throat chakra symbol. Perfect for meditation, spiritual practice, and sacred reflection. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Brand: JournalYourImaginings 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC
+  Updated: 2025-11-17T15:44:06Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/the_Isha_HC_Journal_Upright.jpg?v=1763352499
   Price: $27.99 AUD
 
 ## Collections
