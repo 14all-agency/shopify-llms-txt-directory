@@ -6,7 +6,7 @@
 - Timezone: Europe/Riga
 - Created At: 2022-09-15T15:01:28Z
 - Contact Email: vanagonmaniac@gmail.com
-- Updated At: 2025-11-16T00:00:45.501Z
+- Updated At: 2025-11-18T00:01:28.400Z
 
 ## Products
 
@@ -2897,7 +2897,7 @@
     Availability: Available
     Price: €500.00 EUR
 - [Insulation Set for VW T3 Cockpit - Side Windows & Windshield](https://vanagonmaniac.com/products/thermal-insulation-set-for-vw-t3-cockpit-side-windows-windshield): Premium 9-layer thermal insulation for VW T3 cockpit, side windows & windshield. Perfect fit, magnetic & suction-cup attachment, storage bag included.
-  Updated: 2025-11-10T22:28:11Z
+  Updated: 2025-11-17T09:00:20Z
   Vendor: Vanagon Maniac
   Product Type: 
   Availability: Available
