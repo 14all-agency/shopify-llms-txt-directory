@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-17T00:00:38.752Z
+- Updated At: 2025-11-18T00:00:40.513Z
 
 ## Products
 
@@ -8641,7 +8641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-white-front-67953601bed5e.jpg?v=1737833123
     Price: $60.50 USD
 - [Men's Organic Cotton Sweatshirt - Eco-Friendly Everyday Wear](https://baskandweave.com/products/mens-organic-sweatshirt): Upgrade your wardrobe with our men's organic cotton sweatshirt. Soft, eco-friendly, and perfect for a sustainable lifestyle with year-round comfort.
-  Updated: 2025-11-02T22:54:03Z
+  Updated: 2025-11-17T15:31:26Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -8711,7 +8711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-679538640558a.jpg?v=1737833201
     Price: $47.50 USD
   - [French Navy / M](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723813626)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-679538640558a.jpg?v=1737833201
     Price: $47.50 USD
   - [French Navy / L](https://baskandweave.com/products/mens-organic-sweatshirt?variant=47078723846394)
@@ -17007,7 +17007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/all-over-print-shorts-white-front-67969fcebd71a.jpg?v=1740884399
     Price: $38.00 USD
 - [Women's Cropped Hoodie – Stylish, Cozy & Perfect Fit](https://baskandweave.com/products/womens-cropped-hoodie): Shop the women's cropped hoodie for a stylish and cozy look. Perfect for casual wear, layering, or workouts — designed for comfort and modern style.
-  Updated: 2025-11-10T15:19:30Z
+  Updated: 2025-11-17T15:31:26Z
   Vendor: Bask & Weave
   Product Type: Hoodie
   Availability: Available
@@ -17025,7 +17025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-black-front-6796a8eb7b89d.jpg?v=1737941384
     Price: $64.00 USD
   - [Black / XL](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600240378)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-cropped-hoodie-black-front-6796a8eb7b89d.jpg?v=1737941384
     Price: $64.00 USD
   - [Black / 2XL](https://baskandweave.com/products/womens-cropped-hoodie?variant=47080600273146)
@@ -19121,7 +19121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-eco-sweatshirt-french-navy-front-67a68bef7764c.jpg?v=1738968074
     Price: $55.00 USD
 - [Women's Organic Sweatshirt - Eco-Friendly & Stylish Wear](https://baskandweave.com/products/womens-organic-sweatshirt): Discover the women's organic sweatshirt made from soft, sustainable fabrics. This women's organic sweatshirt blends comfort with eco-conscious style.
-  Updated: 2025-11-04T00:25:58Z
+  Updated: 2025-11-17T15:31:26Z
   Vendor: Bask & Weave
   Product Type: Sweatshirt
   Availability: Available
@@ -19191,7 +19191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-67a6896e61717.jpg?v=1738968220
     Price: $46.50 USD
   - [French Navy / M](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880395514)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-sweatshirt-french-navy-front-67a6896e61717.jpg?v=1738968220
     Price: $46.50 USD
   - [French Navy / L](https://baskandweave.com/products/womens-organic-sweatshirt?variant=47110880428282)
