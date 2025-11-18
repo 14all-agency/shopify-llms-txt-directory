@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-11-17T20:40:20.941Z
+- Updated At: 2025-11-18T00:01:29.430Z
 
 ## Products
 
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Rabe_-_PAT_PATTY-made-in-germany.jpg?v=1751452156
     Price: 40,50 € EUR
 - [Bio Steckenpferd Pünktchen – Hobby Horse, fair & handgemacht](https://patundpatty.de/products/bio-steckenpferd-punktchen): Bio Steckenpferd „Pünktchen“ aus weichem Bio-Plüsch mit echten Ohren – handgemacht, fair & nachhaltig. Perfekt für fantasievolles Spielen kleiner Reiter:innen!
-  Updated: 2025-11-17T09:36:00Z
+  Updated: 2025-11-17T21:36:03Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
