@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-11-16T00:00:42.269Z
+- Updated At: 2025-11-18T12:13:25.071Z
 
 ## Products
 
@@ -7941,7 +7941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-85_1.jpg?v=1690622606
     Price: $2,159.00 USD
 - [Natural Salt And Pepper 1.35CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-35ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This exquisite Natural Salt And Pepper Hexagon Diamond Art Deco Unique Engagement Ring is the perfect way to celebrate a special occasion. Handmade with 1.35CT of premium diamonds, this timeless piece offers a unique twist on a classic design, perfect for any celebration.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-11-16T04:55:15Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -8049,7 +8049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-87_1.jpg?v=1690622774
     Price: $2,349.00 USD
 - [Natural Salt And Pepper 1.35CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-35ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This classic Art Deco ring features a 1.35CT natural and untreated hexagon salt-and-pepper diamond set with hand-crafted milgrain details. Perfect for an engagement, anniversary, or special occasion, this beautiful ring adds a unique and timeless touch.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-11-16T11:29:02Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -10404,7 +10404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-31_4.jpg?v=1709793320
     Price: $999.00 USD
 - [Moissanite 2.0Ct Radiant Diamond Mid-Century Wedding Ring](https://ibizjewel.com/products/moissanite-2-0ct-radiant-diamond-mid-century-wedding-ring): Expertly Crafted For Mid-century Charm, Our Moissanite 2.0ct Radiant Diamond Wedding Ring Showcases A Stunning 2.0 Carat Radiant Diamond. With Superior Sparkle And Clarity, This Ring Is The Perfect Symbol Of Everlasting Love And Commitment. Own A Timeless Piece Of Beauty With Our Moissanite Wedding Ring.
-  Updated: 2025-10-02T10:30:46Z
+  Updated: 2025-11-17T08:40:47Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
@@ -11040,7 +11040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-41_4.png?v=1709812418
     Price: $949.00 USD
 - [Moissanite 3.0CT Round Diamond Art Nouveau Handmade Ring](https://ibizjewel.com/products/moissanite-3-0ct-round-diamond-art-nouveau-handmade-ring): Expertly Crafted With A Stunning 3.0ct Round Moissanite Diamond, This Art Nouveau Handmade Ring Exudes Elegance And Sophistication. The Unique Design Is Perfect For Those Wanting A Statement Piece That Still Maintains A Classic, Timeless Look. Elevate Any Outfit With This Beautiful Ring.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-11-18T05:00:02Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Round Diamond Ring
   Availability: Available
@@ -11808,7 +11808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-49_1.jpg?v=1709874395
     Price: $799.00 USD
 - [Moissanite 1.0CT Round Diamond Edwardian Anniversary Ring](https://ibizjewel.com/products/moissanite-1-0ct-round-diamond-edwardian-anniversary-ring): Expertly Crafted With A Stunning 1.0CT Round Moissanite Diamond, This Edwardian Anniversary Ring Exudes Elegance And Luxury. Its Timeless Design And High-Quality Materials Make It A Perfect Symbol Of Eternal Love And Commitment. A Shining Example Of The Finest Craftsmanship In Fine Jewelry, This Ring Is Sure To Be Cherished For A Lifetime.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-11-16T04:36:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Round Diamond Ring
   Availability: Available
@@ -41804,7 +41804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-186_1.jpg?v=1715860497
     Price: $864.00 USD
 - [Moissanite 3.55 CT Asscher Diamond Art Deco Handmade Ring](https://ibizjewel.com/products/moissanite-3-55-ct-asscher-diamond-art-deco-handmade-ring): Experience Timeless Elegance With Our Moissanite 3.55 Ct Asscher Diamond Art Deco Handmade Ring. Crafted From The Highest Quality Materials, This Ring Showcases A Sparkling 3.55 Ct Asscher-cut Moissanite Diamond In A Classic Art Deco Setting. Make A Statement With This Stunning, Handcrafted Piece That Will Last A Lifetime.
-  Updated: 2025-10-02T10:31:14Z
+  Updated: 2025-11-16T12:35:01Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Asscher Diamond Ring
   Availability: Available
@@ -42992,7 +42992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-232_2.jpg?v=1716286835
     Price: $1,016.00 USD
 - [Moissanite 3.95 CT Pear Diamond Brutalist Engagement Ring](https://ibizjewel.com/products/moisaanite-3-35ct-pear-diamond-brutalist-engagement-ring): Expertly Crafted With A 3.35ct Pear-shaped Moissanite Diamond, This Brutalist Engagement Ring Exudes Elegance And Sophistication. With Its Stunning Design And Exceptional Sparkle, It Is The Perfect Symbol Of Your Love And Commitment. Embrace The Beauty And Brilliance Of This Exquisite Ring.
-  Updated: 2025-10-02T10:30:11Z
+  Updated: 2025-11-17T12:08:54Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
@@ -44650,6 +44650,14 @@
     Updated: 2025-11-12T02:42:26Z
     Author: Heris K.
     Tags: diamonds, eco-friendly jewelry options, engagement rings, ethical diamond rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, unique rings
+  - [Balancing Beauty and Ethics with Salt and Pepper Diamond Rings](https://ibizjewel.com/blogs/news/balancing-beauty-and-ethics-with-salt-and-pepper-diamond-rings): Balancing Beauty and Ethics with Salt and Pepper Diamond Rings
+    Updated: 2025-11-16T00:10:32Z
+    Author: Heris K.
+    Tags: conflict-free wedding rings, diamonds, eco-friendly diamonds, ethical rings, ethics, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable jewelry
+  - [Comparing Salt and Pepper Diamond Rings with Traditional Diamond Options for Sustainability](https://ibizjewel.com/blogs/news/comparing-salt-and-pepper-diamond-rings-with-traditional-diamond-options-for-sustainability): Comparing Salt and Pepper Diamond Rings with Traditional Diamond Options for Sustainability
+    Updated: 2025-11-17T03:42:21Z
+    Author: Heris K.
+    Tags: diamond rings, diamonds, eco-friendly diamond choices, ethical jewelry, jewelry, salt and pepper, salt and pepper diamond ring, sustainability, sustainable engagement options
 
 ## Store Pages
 
