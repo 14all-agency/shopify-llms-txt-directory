@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-05-01T21:01:28Z
 - Contact Email: Hello@unusualbabeundercover.com
-- Updated At: 2025-11-17T00:00:56.365Z
+- Updated At: 2025-11-18T00:01:29.646Z
 
 ## Products
 
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/1274/1277/products/DSCF2020-2-800x800.jpg?v=1756867976
   Price: $30.99 USD
 - [Another Beer Boxer](https://www.unusualbabeundercover.com/products/beer-boxers-1): Happy Hour Boxer Short Easy Fit Elastic Waist Boxer Faux Drawstring 100% Cotton Colors: As Shown
-  Updated: 2025-11-09T22:51:41Z
+  Updated: 2025-11-17T11:12:35Z
   Vendor: Unusual Babe Undercover
   Product Type: Boxers
   Availability: Available
