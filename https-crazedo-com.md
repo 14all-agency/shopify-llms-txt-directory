@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T00:48:50Z
 - Contact Email: freeoffice2@gmail.com
-- Updated At: 2025-11-17T00:00:53.046Z
+- Updated At: 2025-11-18T00:01:25.361Z
 
 ## Collections
 
@@ -69,6 +69,10 @@
     Updated: 2025-11-10T13:08:21Z
     Author: Mohammed Hassen
     Tags: AI Hong Kong, Argentina Football, Australia Cricket, Boca Juniors, Celebrity News, France Football, Global Trends, India Cricket, PSG, River Plate, South Africa Rugby, Sports Highlights, Technology Trends
+  - [World Cup 2026 Qualifiers: Portugal & Norway Trending](https://crazedo.com/blogs/weekly-google-trends/world-cup-2026-qualifiers-portugal-norway-haaland-trends): World Cup 2026 Qualifiers: Portugal & Norway Trending
+    Updated: 2025-11-17T18:05:46Z
+    Author: Mohammed Hassen
+    Tags: Cristiano Ronaldo, Erling Haaland, FIFA Qualifiers, Football News, Global Football Trends, Norway Football, Portugal Football, Soccer Highlights, Sports Marketing, World Cup 2026
 
 ## Store Pages
 
