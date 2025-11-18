@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-11-17T00:00:29.708Z
+- Updated At: 2025-11-18T00:00:30.314Z
 
 ## Products
 
@@ -773,6 +773,9 @@
     Author: User
   - [Mastering the Art of Snowboarding: Essential Tips for Beginners](https://jones-jm.myshopify.com/blogs/news/mastering-the-art-of-snowboarding-essential-tips-for-beginners): Mastering the Art of Snowboarding: Essential Tips for Beginners
     Updated: 2025-11-16T04:11:38Z
+    Author: User
+  - [What You Need to Know About Different Snowboard Types](https://jones-jm.myshopify.com/blogs/news/what-you-need-to-know-about-different-snowboard-types): What You Need to Know About Different Snowboard Types
+    Updated: 2025-11-17T00:00:58Z
     Author: User
 
 ## Store Pages
