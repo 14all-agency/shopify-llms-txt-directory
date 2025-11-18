@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-11-16T00:00:26.941Z
+- Updated At: 2025-11-18T00:00:28.175Z
 
 ## Products
 
@@ -2277,7 +2277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3121139491902927979_2048.jpg?v=1760725631
     Price: $38.98 USD
 - [Beast Mode Hoodie - for Men](https://yourfabstore.com/products/beast-mode-mens-hoodie): This athletic-inspired hoodie features a motivating 'beast mode' quote, perfect for the gym, workout sessions, and staying focused on your goals. With spacious pockets to keep your hands warm and a drawstring hood for added coziness, this hoodie is designed for adults who are into fitness and want to stay motivated. Ideal for holidays and occasions like New Year's resolutions, fitness goals, and birthdays.Product features- Spacious kangaroo pouch pocket for warmth- Adjustable drawstring hood for comfort- Made with 50% cotton and 50% polyester for strength and smoothness- Ethically made with US-grown cottonCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed S M L XL 2XL 3XL Width, in 20.08 22.05 24.02 25.98 27.99 29.92 Length, in 27.17 27.95 29.13 29.92 31.10 31.89 Sleeve length from center back, in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: medium, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2025-11-06T05:07:01Z
+  Updated: 2025-11-17T19:24:51Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -5373,7 +5373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7777967612746273963_2048.jpg?v=1760765040
     Price: $25.14 USD
 - [Cheerleader Women's T-shirt](https://yourfabstore.com/products/cheerleaders-womens-t-shirt): This cute and pretty T-Shirt is perfect for cheerleaders looking to showcase their spirit and style. Made with 100% Airlume combed and ring-spun cotton, this lightweight tee is breathable and great for active and leisure wear. The retail fit and classic crew neckline make it ideal for casual and semi-formal settings. Perfect for cheerleading events, practice, or casual wear to show off your love for cheering.Product features- Made with 100% lightweight cotton fabric- Retail fit for casual and semi-formal settings- Manufactured in a humane, sustainable way by Bella+Canvas- Tear-away label for minimized skin irritations- Variety of fabric blends availableCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-26T20:54:39Z
+  Updated: 2025-11-16T19:36:10Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6182,7 +6182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2917809963436521654_2048.jpg?v=1760766835
     Price: $22.90 USD
 - [Vintage Retro Butterfly Women's T-shirt](https://yourfabstore.com/products/retro-vintage-sunset-womens-t-shirt): This T-Shirt features a butterfly design with a retro, vintage, pretty, cool vibe. Made with 100% Airlume combed and ring-spun cotton, this lightweight fabric is perfect for layering and breathable for active and leisure wear. The retail fit and crew neckline add a classic and neat style, making it versatile for casual and semi-formal settings. Ideal for those who appreciate unique and stylish graphic tees, this T-Shirt is perfect for everyday wear or special occasions.Product features- Retail fit for versatile styling- Butterfly design with a retro, vintage vibe- Lightweight and breathable for comfort- Manufactured in a sustainable and ethical manner- Classic fit for comfy and relaxed wear- Shoulder tape stabilizes back of the garment Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-18T06:13:08Z
+  Updated: 2025-11-17T19:19:14Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6743,7 +6743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11146996358313550817_2048.jpg?v=1760757885
   Price: $9.92 USD
 - ["When You Can't Find the Sunshine Be the Sunshine" Tote Bag](https://yourfabstore.com/products/when-you-cant-find-the-sunshine-be-the-sunshine-tote-bag): Spread happiness and good vibes with this natural cotton canvas tote bag featuring a 'When You Can't Find the Sunshine Be the Sunshine' quote. The uplifting design will make you smile and radiate positive energy wherever you go. Perfect for those who love spreading positivity and sunshine to the world. Ideal for daily use, shopping trips, beach days, and as a gift for birthdays, holidays, or special occasions.Product features- 100% natural cotton canvas material- Vibrant colors with crisp printing- One size: 15'' x 16''- Convenient self-fabric handlesCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-26T20:54:24Z
+  Updated: 2025-11-16T19:43:00Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -7158,7 +7158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3995306345649291357_2048.jpg?v=1759285014
     Price: $28.00 USD
 - [Fire Fist Ace Design - Snapback Cap](https://yourfabstore.com/products/fire-fist-ace-design-snapback-cap): Fire Fist Ace Snapback features a cool and stylish anime design from the popular series One Piece, perfect for Japanese manga fans and otakus. The flat bill and adjustable snap closure ensure a comfortable and perfect fit. This hat is ideal for casual wear or as a statement piece for anime conventions and cosplay events.Product features- Six-panel structure with eyelets for ventilation- Adjustable plastic snap closure for a custom fit- Classic green undervisor for timeless style- Made from a blend of acrylic and wool for durability- Ideal for adults and meets safety compliance standardsCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Yupoong 6089M, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Vietman Care instructions: Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-01T14:22:27Z
+  Updated: 2025-11-16T19:39:23Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
