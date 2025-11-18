@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-11-14T00:00:56.824Z
+- Updated At: 2025-11-18T00:00:27.658Z
 
 ## Products
 
@@ -2407,7 +2407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/8972/8892/files/e5f07557-7d1a-4eaf-b86e-9597985908a2.webp?v=1762270022
     Price: €39.99 EUR
 - [In My Grinch Era Hoodie – Sarcastic Christmas Streetwear](https://lazywhiskers.shop/products/in-my-grinch-era-hoodie): Still in my Grinch Era and thriving. Cozy, bold, and a little mean in a cute way. The perfect holiday hoodie for cat lovers who don’t do merry.
-  Updated: 2025-11-06T07:02:21Z
+  Updated: 2025-11-17T12:07:00Z
   Vendor: LazyWhiskers
   Product Type: Print Material
   Availability: Available
