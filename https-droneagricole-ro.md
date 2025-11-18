@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2024-10-10T13:12:01Z
 - Contact Email: contact@droneagricole.ro
-- Updated At: 2025-11-17T00:00:55.568Z
+- Updated At: 2025-11-18T00:01:27.529Z
 
 ## Products
 
@@ -1089,7 +1089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/0362/6579/files/TR_1.png?v=1732961876
   Price: 7.500,00 lei RON
 - [Training Certificate De Pilot Dronă A1-A3 și A2](https://droneagricole.ro/products/training-certificate-de-pilot-drona-a1-a3-și-a2): Obține certificarea necesară pentru a pilota drone în categoriile A1-A3 și A2! Acest program de instruire intensivă este destinat celor care doresc să opereze drone în mod legal și responsabil, conform reglementărilor EASA. Trainingul include atât partea teoretică, cât și exerciții practice, pentru a te pregăti eficient să obții certificările A1-A3 și A2.
-  Updated: 2025-08-20T07:46:43Z
+  Updated: 2025-11-17T01:38:25Z
   Vendor: Drone Agricole Riagro
   Product Type: 
   Availability: Available
@@ -2009,7 +2009,7 @@
 - [Formular de Ofertare | Drone Agricole Riagro](https://droneagricole.ro/pages/formular-de-ofertare)
   Updated: 2025-10-24T09:27:45Z
 - [Despre Suportul pentru Clienți - Drone Agricole Riagro](https://droneagricole.ro/pages/suport-clienti): Stimate client, Pentru a beneficia de asistență dedicată și un răspuns rapid la solicitările dvs., îți reamintim structura de organizare a echipei ...
-  Updated: 2025-10-17T15:39:37Z
+  Updated: 2025-11-17T12:40:55Z
 - [Inovație și Agro-inteligență în Protecția Plantelor (IAIPP)](https://droneagricole.ro/pages/inovație-și-agro-inteligența-in-protecția-plantelor-iaipp): Pe 12 mai 2025, la Universitatea de Științe Agricole și Medicină Veterinară din Cluj-Napoca, te invităm să participi la evenimentul „Inovație și Ag...
   Updated: 2025-05-05T11:38:24Z
 - [Predare Service](https://droneagricole.ro/pages/predare-service)
