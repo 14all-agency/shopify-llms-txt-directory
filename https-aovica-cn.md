@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2025-11-16T00:00:23.472Z
+- Updated At: 2025-11-18T00:00:32.354Z
 
 ## Products
 
 - [African Dresses For Women Summer Spring Africa Clothing Sleeveless Ruched Dress Sexy V-Neck Slim Dress Office Lady Party](https://aovica.cn/products/african-dresses-for-women-summer-spring-africa-clothing-sleeveless-ruched-dress-sexy-v-neck-slim-dress-office-lady-party)
-  Updated: 2025-10-17T07:15:42Z
+  Updated: 2025-11-16T12:39:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: $46.00 USD
 - [New High Waist Sexy Swimsuit Women Summer Bathing Suit Bikini Set Long Sleeve Swimwear Women Beach Swimming Suit For Female](https://aovica.cn/products/new-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-women-beach-swimming-suit-for-female)
-  Updated: 2025-10-17T07:15:43Z
+  Updated: 2025-11-17T23:46:21Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
