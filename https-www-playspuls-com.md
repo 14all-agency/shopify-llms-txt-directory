@@ -6,26 +6,26 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-11-15T00:01:02.267Z
+- Updated At: 2025-11-18T00:00:25.604Z
 
 ## Products
 
 - [Labubu v3  Blind Box Big Into Energy Series - PlaysPuls](https://www.playspuls.com/products/labubu-v-3-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs - PlaysPuls
-  Updated: 2025-11-07T20:31:03Z
+  Updated: 2025-11-17T19:25:02Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/4.png?v=1761842050
   Price: $39.00 USD
 - [Labubu v3  Blind Box Whole Set 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-v-3-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes - PlaysPuls
-  Updated: 2025-11-12T02:36:48Z
+  Updated: 2025-11-17T19:17:52Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/3.png?v=1761842102
   Price: $192.00 USD
 - [Labubu v3 Monsters Big into Energy Series Secret Version - PlaysPuls](https://www.playspuls.com/products/labubu-v-3-monsters-big-into-energy-series-id-secret-version): Labubu is a collectible figure from The Monsters series.Made of high-quality PVC, this charming character adds personality to any shelf and makes a perfect gift or collectible item. Size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire - PlaysPuls
-  Updated: 2025-11-13T19:36:53Z
+  Updated: 2025-11-17T19:13:52Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_bf464483-610d-4669-82f9-7e557c0b639b.png?v=1761843456
   Price: $199.99 USD
 - [Labubu Monster -Vinyl face Mysterious Single Blind box - PlaysPuls](https://www.playspuls.com/products/labubu-monster-an-exciting-macaron-vinyl-face-mysterious-single-blind-box): The Exciting Macaron Blind Box series brings pastel character art and food-themed storytelling to your figure collection. Styled after dessert flavors and dressed in bunny-hooded outfits, these figures are designed for display collectors, pastel enthusiasts, and art toy fans. From Lychee Berry to Sea Salt Coconut, every figure combines confectionery concepts with creative styling. Crafted from ABS and PVC, each character offers sculpted details and expressive faces printed on glossy vinyl. - PlaysPuls
-  Updated: 2025-11-09T13:22:11Z
+  Updated: 2025-11-17T19:27:50Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -95,7 +95,7 @@
 ## Collections
 
 - [Toy Doll - PlaysPuls](https://www.playspuls.com/collections/figurine): - PlaysPuls
-  Updated: 2025-11-14T12:24:56Z
+  Updated: 2025-11-17T12:25:44Z
   Total Products: 7
 - [Mug - PlaysPuls](https://www.playspuls.com/collections/mug): - PlaysPuls
   Updated: 2025-11-07T10:09:16Z
