@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-08-09T12:53:41Z
 - Contact Email: info@pureholisticbeauty.de
-- Updated At: 2025-11-14T00:00:24.713Z
+- Updated At: 2025-11-18T00:01:25.341Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0982/0998/8872/files/Beard_God_Tonic_Bartpflegeoel.webp?v=1761228703
   Price: 20,00 € EUR
 - [Aftershave Gel, So Fresh – Erfrischende Pflege von L’AGADOR](https://lagador.de/products/so-fresh-aftershave-gel): Unser So Fresh Aftershave Gel beruhigt die Haut nach der Rasur, spendet Feuchtigkeit und hinterlässt ein belebendes Frischegefühl.
-  Updated: 2025-10-23T14:12:24Z
+  Updated: 2025-11-14T14:21:23Z
   Vendor: Mein Shop
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0982/0998/8872/files/lagador-so-fresh-aftershave-berlin.webp?v=1761054538
   Price: 20,00 € EUR
 - [Bartpflege Set, Beard God Tonic & So Fresh Bundle - L'AGADOR](https://lagador.de/products/bartpflege-set-basic): Das Bartpflege Set für den modernen Gentleman: Pflegt, stärkt und erfrischt. Bartöl und Aftershave-Gel sorgen für gepflegten Bart, vitale Haut und eleganten Look.
-  Updated: 2025-10-23T14:12:52Z
+  Updated: 2025-11-15T01:35:27Z
   Vendor: L'AGADOR
   Product Type: 
   Availability: Available
