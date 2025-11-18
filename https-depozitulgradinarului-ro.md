@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-17T00:01:01.425Z
+- Updated At: 2025-11-18T00:01:37.531Z
 
 ## Products
 
@@ -1518,85 +1518,91 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_6.jpg?v=1740078010
   Price: 2,99 lei RON
+- [Seminte Gogosar TOPEPO ROSSO, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-gogosar-topepo-rosso-agrosem-0-7-gr): Topepo Roso , este un soi semi-timpuriu, cu creștere determinată. Plante viguroase cu productivitate bună. Fructele sunt mari cu o greutate de 120-180 grame. Pulpa este roșie și groasă la maturitatea fiziologică.
+  Updated: 2025-11-17T14:33:16Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Price: 2,99 lei RON
 - [Seminte Gulie PURPLE VIENA, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-gulie-purple-viena-agrosem-5-gr): Frunze puține cu pețiol lung și susținere dreaptă, de culoare verde -albăstrui. Rădăcina e de mărime medie, rotundă aplatizată, de culoare violet. Varietate semi-timpurie adaptată pentru culturile de vară-iarnă. Distanța: 30 cm între rânduri și 30 cm între plante.
-  Updated: 2025-09-11T20:13:46Z
+  Updated: 2025-11-17T14:31:53Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.50.jpg?v=1739903853
   Price: 2,99 lei RON
 - [Seminte Gulie WHITE OF VIENA, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-gulie-white-of-viena-agrosem-5-gr): Perioada de vegetatie de 60-65 zile. Tulpina ingrosata este rotund-turtita de culoare alb verzuie, miezul alb cu gust placut. Nu se recomanda pentru pastrare.
-  Updated: 2025-07-29T07:53:32Z
+  Updated: 2025-11-17T14:31:40Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.50_1.jpg?v=1739903883
   Price: 2,99 lei RON
-- [Seminte LOBODA VERDE, AGROSEM – 0.8 GR](https://depozitulgradinarului.ro/products/seminte-loboda-verde-agrosem-0-8-gr): Planta anuala pretabila in sistemul culturilor succesive. Frunzele se utilizeaza la diferite preparate culinare.
-  Updated: 2025-11-16T18:00:14Z
+- [Seminte LOBODA VERDE, AGROSEM | Frunze Fragede, Bogate în Vitamine](https://depozitulgradinarului.ro/products/seminte-loboda-verde-agrosem-0-8-gr): Semințe Loboda Verde, Agrosem (0.8 GR) – plantă anuală, cu frunze fragede și nutritive, ideală pentru salate, ciorbe și preparate tradiționale.
+  Updated: 2025-11-17T14:31:14Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.51_1.jpg?v=1739904036
   Price: 2,99 lei RON
-- [Seminte Mazare KELVEDON WONDER, AGROSEM – 20 GR](https://depozitulgradinarului.ro/products/seminte-mazare-kelvedon-wonder-agrosem-20-gr): Este un soi semi-timpuriu, având perioada de vegetație de 65-70 zile. Boabele rezultate sunt dulci, de culoare verde închis. Se caracterizează printr-o capacitate de producție ridicată. Se recomandă pentru consum în stare proaspăta și industrializare.
-  Updated: 2025-11-16T17:59:59Z
+- [Seminte Mazare KELVEDON WONDER, AGROSEM - 20GR | Boabe Dulci & Aromate](https://depozitulgradinarului.ro/products/seminte-mazare-kelvedon-wonder-agrosem-20-gr): Semințe Mazăre Kelvedon Wonder, Agrosem (20 GR) – soi semi-timpuriu, foarte productiv, păstăi pline cu boabe dulci, ideale pentru consum proaspăt și congelare.
+  Updated: 2025-11-17T14:26:30Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.04_13.jpg?v=1740080700
   Price: 2,99 lei RON
 - [Seminte Morcov BERLICUM 2, AGROSEM – 5 GR | Rădăcini Cilindrice, Dulci](https://depozitulgradinarului.ro/products/seminte-morcov-berlicum-2-agrosem-5-gr): Semințe Morcov Berlicum 2, Agrosem, 5 GR – rădăcini cilindrice, dulci, portocalii, perfecte pentru consum proaspăt, sucuri, gătit și păstrare lungă.
-  Updated: 2025-11-16T19:52:09Z
+  Updated: 2025-11-17T07:52:13Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07.jpg?v=1739905570
   Price: 2,99 lei RON
 - [Seminte Morcov FLAKEE, AGROSEM - 5GR | Rădăcini Mari, Dulci, Portocalii](https://depozitulgradinarului.ro/products/seminte-morcov-flakee-agrosem-5-gr): Semințe Morcov Flakee, Agrosem, 5 GR – rădăcini mari, dulci, portocalii, perfecte pentru consum proaspăt, sucuri, gătit și păstrare lungă. Comandă de la Depozitul Grădinarului!
-  Updated: 2025-11-16T19:47:07Z
+  Updated: 2025-11-17T07:47:14Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_1.jpg?v=1739905598
   Price: 2,99 lei RON
 - [Seminte Morcov KURODA, AGROSEM, 5GR | Rădăcini Groase, Dulci, Crocante](https://depozitulgradinarului.ro/products/seminte-morcov-kuroda-agrosem-5-gr): Semințe Morcov KURODA, Agrosem, 5 GR – rădăcini groase, portocalii, dulci și crocante. Ideal pentru sucuri, gătit sau consum proaspăt în salate.
-  Updated: 2025-11-16T19:37:46Z
+  Updated: 2025-11-17T07:37:51Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_2.jpg?v=1739905626
   Price: 2,99 lei RON
 - [Seminte Morcov NANTES, AGROSEM - 5 GR | Rădăcini Dulci & Uniforme](https://depozitulgradinarului.ro/products/seminte-morcov-nantes-agrosem-5-gr): Semințe Morcov Nantes, Agrosem, 5GR - Rădăcini cilindrice, portocaliu intens, dulci și uniforme, pentru consum proaspăt, sucuri, procesare și păstrare.
-  Updated: 2025-11-16T19:29:00Z
+  Updated: 2025-11-17T07:29:05Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_3.jpg?v=1739905668
   Price: 2,99 lei RON
 - [Seminte Pastarnac, AGROSEM - 4 GR | Rădăcini Dulci & Aromate](https://depozitulgradinarului.ro/products/seminte-pastarnac-agrosem-4-gr): Semințe Păstârnac, Agrosem, 4GR - Rădăcini alungite, alb-gălbui, dulci și aromate, pentru supe, ciorbe, piureuri și păstrare pe timp de iarnă.
-  Updated: 2025-11-16T19:20:43Z
+  Updated: 2025-11-17T07:20:47Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_4.jpg?v=1739905833
   Price: 2,99 lei RON
 - [Seminte Patrunjel de Radacina BERLINER, AGROSEM - 5 GR | Productiv & Aromat](https://depozitulgradinarului.ro/products/seminte-patrunjel-de-radacina-berliner-agrosem-5-gr): Semințe Pătrunjel de Rădăcină Berliner, Agrosem, 5GR. Rădăcini lungi, albe, netede, aromate, ideal pentru consum proaspăt, gătit și depozitare. Productiv & Aromat!
-  Updated: 2025-11-16T19:14:24Z
+  Updated: 2025-11-17T07:14:28Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_5.jpg?v=1739905870
   Price: 2,99 lei RON
 - [Seminte Patrunjel Frunze COMUNE 2, AGROSEM - 5 GR | Aromat & Productiv](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-comune-2-agrosem-5-gr): Semințe Pătrunjel Frunze Comune 2, Agrosem, 5 GR - Soi foarte aromat, frunze mari, productiv, ideal pentru consum proaspăt, uscare și congelare. Livrare rapidă!
-  Updated: 2025-11-16T19:06:07Z
+  Updated: 2025-11-17T07:06:05Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at21.05.07_6.jpg?v=1739905926
   Price: 2,99 lei RON
 - [Seminte Patrunjel Frunze Cret RICCIO, AGROSEM | Soi Timpuriu, Aromat](https://depozitulgradinarului.ro/products/seminte-patrunjel-frunze-cret-riccio-agrosem-5-gr): Semințe Pătrunjel Creț Riccio, Agrosem, 5 GR – soi timpuriu, foarte aromat, cu frunze crețe verzi-închise. Ideal pentru consum proaspăt, uscare și decor.
-  Updated: 2025-11-16T18:10:33Z
+  Updated: 2025-11-17T06:10:37Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -3955,7 +3961,7 @@ Livrare rapidă!
   Updated: 2025-11-09T12:00:42Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-16T19:20:43Z
+  Updated: 2025-11-17T14:33:16Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
   Updated: 2025-11-08T09:56:16Z
@@ -4162,7 +4168,7 @@ Livrare rapidă!
   Updated: 2025-11-16T12:28:50Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-16T19:20:43Z
+  Updated: 2025-11-17T14:33:16Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4250,7 +4256,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:50:37Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2025-11-16T19:20:43Z
+  Updated: 2025-11-17T14:33:16Z
   Total Products: 123
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
   Updated: 2025-10-26T17:08:55Z
