@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-07T00:00:35.076Z
+- Updated At: 2025-11-18T00:01:01.203Z
 
 ## Products
 
@@ -2216,11 +2216,14 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-28T15:18:44Z
+  Updated: 2025-11-17T21:43:18Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/BONANZA-IVORY-19.jpg?v=1747596378
+  - [108 x 156](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store?variant=46823185088737)
+    Availability: Available
+    Price: $229.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store?variant=46823184564449)
     Availability: Available
     Price: $1.00 USD
@@ -2267,9 +2270,6 @@
     Availability: Available
     Price: $229.99 USD
   - [100 x 156](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store?variant=46823185055969)
-    Availability: Available
-    Price: $229.99 USD
-  - [108 x 156](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store?variant=46823185088737)
     Availability: Available
     Price: $229.99 USD
   - [48 Round](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store?variant=46823185121505)
@@ -4314,7 +4314,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-28T15:18:59Z
+  Updated: 2025-11-09T19:02:16Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -5628,11 +5628,14 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-28T15:19:10Z
+  Updated: 2025-11-14T03:39:50Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/Navy_34539340-c2be-4e60-a24c-96b4e0991f5a.jpg?v=1747597336
+  - [72 Round](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store?variant=46822836076769)
+    Availability: Available
+    Price: $89.99 USD
   - [Fabric Sample](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store?variant=46822835388641)
     Availability: Available
     Price: $1.00 USD
@@ -5696,9 +5699,6 @@
   - [66 Round](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store?variant=46822836044001)
     Availability: Available
     Price: $78.99 USD
-  - [72 Round](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store?variant=46822836076769)
-    Availability: Available
-    Price: $89.99 USD
   - [78 Round](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store?variant=46822836109537)
     Availability: Available
     Price: $89.99 USD
@@ -15569,7 +15569,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-28T15:21:16Z
+  Updated: 2025-11-09T19:02:16Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -31450,7 +31450,7 @@
     Availability: Available
     Price: $200.99 USD
 - [White Cambridge Floral Jacquard - Custom Tablecloths](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester This tablecloth comes in many more beautiful colors Sample: We offer a sample option so you can have a life view and feel before confirming your order Perfect Tablecloth for Wedding, Party, Banquet, Event, Dining Table, Baby Shower, Bridal Even Etc. Custom: Our orders are sewn custom as per request of order. All custom sizes and options are available. ( Custom size tablecloths, Napkin Sets, Table Runners, Place Mats Etc.) Easy Care: Machine Washable, Tumble Dry on Low, Use Cool Iron if Needed Sewing: All seams are sewn with 5-thread overlock serge's for long-lasting durability. Edges are sewn with a fine rolled hem. The fabric that exceeds the width will have a top stitch seam. if it is a tablecloth that can be used on both sides then will be a reversible seam
-  Updated: 2025-10-28T16:34:25Z
+  Updated: 2025-11-09T19:02:16Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -33508,7 +33508,7 @@
   Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Treasure {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/treasure): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-10T12:20:42Z
   Total Products: 5
 - [Bonanza {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/bonanza): - The Tablecloth Store
   Updated: 2025-10-20T16:51:27Z
@@ -33532,7 +33532,7 @@
   Updated: 2025-10-20T16:51:27Z
   Total Products: 7
 - [Abstract Crushed {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/abstract-crushed-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-14T12:22:00Z
   Total Products: 18
 - [Track - The Tablecloth Store](https://thetableclothstore.com/collections/track): - The Tablecloth Store
   Updated: 2025-10-20T16:51:27Z
@@ -33547,7 +33547,7 @@
   Updated: 2025-10-20T16:51:27Z
   Total Products: 8
 - [Vails - The Tablecloth Store](https://thetableclothstore.com/collections/vails): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-10T12:20:42Z
   Total Products: 13
 - [Starlight - The Tablecloth Store](https://thetableclothstore.com/collections/starlight): - The Tablecloth Store
   Updated: 2025-10-20T16:51:27Z
@@ -33643,7 +33643,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Cambridge - The Tablecloth Store](https://thetableclothstore.com/collections/cambridge): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-11-10T12:20:42Z
   Total Products: 10
 - [Denver - The Tablecloth Store](https://thetableclothstore.com/collections/denver): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-10-28T14:39:44Z
+  Updated: 2025-11-14T12:22:00Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-10-28T14:39:44Z
+  Updated: 2025-11-14T12:22:00Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-10-28T14:39:44Z
+  Updated: 2025-11-14T12:22:00Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-10-28T14:39:44Z
+  Updated: 2025-11-14T12:22:00Z
   Total Products: 613
 
 ## Blogs
@@ -33786,6 +33786,18 @@
     Author: User
   - [Checklist for Perfect Tablecloth Presentation](https://thetableclothstore.com/blogs/news/checklist-for-perfect-tablecloth-presentation): Checklist for Perfect Tablecloth Presentation
     Updated: 2025-11-06T01:40:45Z
+    Author: User
+  - [Why Investing in Quality Tablecloths Enhances Dining Ambiance](https://thetableclothstore.com/blogs/news/why-investing-in-quality-tablecloths-enhances-dining-ambiance): Why Investing in Quality Tablecloths Enhances Dining Ambiance
+    Updated: 2025-11-10T00:39:06Z
+    Author: User
+  - [The Role of Tablecloths in History: From Royalty to the Modern Day](https://thetableclothstore.com/blogs/news/the-role-of-tablecloths-in-history-from-royalty-to-the-modern-day): The Role of Tablecloths in History: From Royalty to the Modern Day
+    Updated: 2025-11-11T01:37:42Z
+    Author: User
+  - [Educational Insights on Tablecloth Fabrics and Durability](https://thetableclothstore.com/blogs/news/educational-insights-on-tablecloth-fabrics-and-durability): Educational Insights on Tablecloth Fabrics and Durability
+    Updated: 2025-11-13T01:33:33Z
+    Author: User
+  - [Comparing Tablecloth Styles: Rustic vs Contemporary vs Vintage](https://thetableclothstore.com/blogs/news/comparing-tablecloth-styles-rustic-vs-contemporary-vs-vintage): Comparing Tablecloth Styles: Rustic vs Contemporary vs Vintage
+    Updated: 2025-11-17T00:43:19Z
     Author: User
 
 ## Store Pages
