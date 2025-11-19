@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-17T00:00:38.339Z
+- Updated At: 2025-11-19T00:00:28.121Z
 
 ## Products
 
@@ -2115,7 +2115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7.jpg?v=1751478360
     Price: ₹1,999.00 INR
 - [Buy ​Medvance Folding Commode Chair, Stainless Steel, 135kg - Surgismart](https://surgismart.in/products/med-314-commode-chair): The Medvance Folding Commode Chair features a grade 202 stainless steel frame, anti-slip rubber bush, and a virgin grade plastic composition for a sturdy and reliable design. With a weight capacity of 135kg and a spacious 20" seating area, this chair is both durable and comfortable. - Surgismart
-  Updated: 2025-10-15T09:37:08Z
+  Updated: 2025-11-18T11:51:53Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
@@ -3029,7 +3029,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61RrjenC0VLX679.jpg?v=1759478892
   Price: ₹1,399.00 INR
 - [Buy ​Omron HEM 7121J Fully Automatic Digital Blood Pressure monitor - Surgismart](https://surgismart.in/products/omron-hem-7121j-fully-automatic-digital-blood-pressure-monitor-with-intellisense-technology-cuff-wrapping-guide-for-most-accurate-measurement): The Omron HEM 7121J is a compact, fully automatic bp monitor, operating on the oscillometric principle for precise measurements and accurate results. It measures your bp with easy one touch operation;The device uses its advanced “intellisense” technology for comfortable controlled inflation, even a slight pressure change can be detected, resulting most accurate measurement, Saves time & money. Quick deflation releases valve for speedy measurement Along with bp monitoring this product detects irregular heartbeat. Its loaded with body movement indicator and cuff wrapping guide which helps you keep even better watch on your cardiovascular health Omron HEM 7121J comes with 3 years warranty and lifetime support provided by Omron. This digital blood pressure monitor is guaranteed to meet your standards; This product is mainly designed for general household use. Please read the important safety information in the instruction manual before using the unit Tips- 1) wrap the cuff properly 2) measure at the same time of the day (within 1 hour after getting-up and before bed-time is recommended) 3) sit in a chair, straighten your back and be relaxed Unit Count Type: Count; Unit Count: 1; Batteries Required: True; Item Weight: Kg 0.5 - Surgismart
-  Updated: 2025-10-03T08:08:26Z
+  Updated: 2025-11-17T06:10:06Z
   Vendor: OMRON
   Product Type: Blood Pressure Monitor
   Availability: Available
