@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-25T14:09:39Z
 - Contact Email: splatteredhaus@gmail.com
-- Updated At: 2025-11-17T00:00:56.616Z
+- Updated At: 2025-11-19T00:00:20.744Z
 
 ## Products
 
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/image-23182.png?v=1763089241
   Price: $159.00 USD
 - [Artistic T-Shirt - Chaos 1 | Abstract Splatter T-Shirt by Splattered Haus](https://splatteredhaustm.myshopify.com/products/artistic-t-shirt-chaos-1): Discover the Artistic T-Shirt - Chaos 1, featuring a unique hand-splattered abstract design on premium t-shirt. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T16:57:07Z
+  Updated: 2025-11-17T07:31:43Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -528,7 +528,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Vibrant Hoodie - Canvas 2 | Abstract Splatter Hoodie by Splattered Haus](https://splatteredhaustm.myshopify.com/products/vibrant-hoodie-canvas-2): Discover the Vibrant Hoodie - Canvas 2, featuring a unique hand-splattered abstract design on premium hoodie. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T17:47:32Z
+  Updated: 2025-11-17T07:31:46Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -546,7 +546,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Artistic Mug - Drip 3 | Abstract Splatter Mug by Splattered Haus](https://splatteredhaustm.myshopify.com/products/artistic-mug-drip-3): Discover the Artistic Mug - Drip 3, featuring a unique hand-splattered abstract design on premium mug. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T16:57:13Z
+  Updated: 2025-11-17T07:31:50Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -558,7 +558,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Vibrant Canvas Print - Canvas 4 - Splattered Haus TM](https://splatteredhaustm.myshopify.com/products/vibrant-canvas-print-canvas-4): Vibrant Canvas Print - Canvas 4This canvas print features a truly unique, hand-splattered design,  - Splattered Haus TM
-  Updated: 2025-11-15T16:57:20Z
+  Updated: 2025-11-17T07:31:51Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -576,7 +576,7 @@
     Availability: Not Available
     Price: $0.00 USD
 - [Expressive Poster - Design 8 | Abstract Splatter Poster by Splattered Haus](https://splatteredhaustm.myshopify.com/products/expressive-poster-design-8): Discover the Expressive Poster - Design 8, featuring a unique hand-splattered abstract design on premium poster. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T16:59:18Z
+  Updated: 2025-11-17T07:31:53Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -588,7 +588,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Canvas Print with Vibrant Splatter Effect 34 | Abstract Splatter Canvas Print by Splattered Haus](https://splatteredhaustm.myshopify.com/products/canvas-print-with-vibrant-splatter-effect-34): Discover the Canvas Print with Vibrant Splatter Effect 34, featuring a unique hand-splattered abstract design on premium canvas print. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T16:59:22Z
+  Updated: 2025-11-17T07:31:55Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -603,7 +603,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Poster with Expressive Canvas Effect 38 | Abstract Splatter Poster by Splattered Haus](https://splatteredhaustm.myshopify.com/products/poster-with-expressive-canvas-effect-38): Discover the Poster with Expressive Canvas Effect 38, featuring a unique hand-splattered abstract design on premium poster. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T17:47:31Z
+  Updated: 2025-11-17T07:31:57Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -615,7 +615,7 @@
     Availability: Available
     Price: $29.99 USD
 - [T-Shirt with Modern Drip Effect 41 | Abstract Splatter T-Shirt by Splattered Haus](https://splatteredhaustm.myshopify.com/products/t-shirt-with-modern-drip-effect-41): Discover the T-Shirt with Modern Drip Effect 41, featuring a unique hand-splattered abstract design on premium t-shirt. Perfect for making a bold statement. Vibrant print-on-demand from Splattered Haus – ideal gift for art lovers.
-  Updated: 2025-11-15T17:47:42Z
+  Updated: 2025-11-17T07:31:59Z
   Vendor: Splattered Haus™
   Product Type: 
   Availability: Available
@@ -701,7 +701,7 @@
     Availability: Available
     Price: $0.00 USD
 - [Splatter Hoodie Small | Unique Splatter Paint Streetwear](https://splatteredhaustm.myshopify.com/products/splatter-hoodie): Heavyweight hoodie with a unique splatter paint design. Perfect for streetwear and making a bold statement.
-  Updated: 2025-11-15T17:47:38Z
+  Updated: 2025-11-17T07:32:01Z
   Vendor: Spladdered Haus™
   Product Type: Hoodie
   Availability: Available
@@ -719,7 +719,7 @@
     Availability: Available
     Price: $0.00 USD
 - [Cosmic Swirl T-Shirt Small | Abstract Art Apparel](https://splatteredhaustm.myshopify.com/products/cosmic-swirl-t-shirt): Ultra-soft cotton t-shirt with a vibrant
-  Updated: 2025-11-15T17:47:38Z
+  Updated: 2025-11-17T07:32:04Z
   Vendor: Spladdered Haus™
   Product Type: T-Shirt
   Availability: Available
@@ -743,7 +743,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Splatter Bomber Jacket Small | Artistic Streetwear Outerwear](https://splatteredhaustm.myshopify.com/products/splatter-bomber-jacket): Durable bomber jacket with a unique all-over splatter paint design. A perfect blend of military style and artistic flair.
-  Updated: 2025-11-15T17:47:39Z
+  Updated: 2025-11-17T07:32:06Z
   Vendor: Spladdered Haus™
   Product Type: Jacket
   Availability: Available
@@ -792,7 +792,7 @@
     Availability: Available
     Price: $0.00 USD
 - [Abstract Art Tank Top Small | Vibrant Abstract Summer Wear](https://splatteredhaustm.myshopify.com/products/abstract-art-tank-top): Lightweight and breathable tank top with a vibrant all-over abstract art print. Perfect for summer and workouts.
-  Updated: 2025-11-15T17:47:43Z
+  Updated: 2025-11-17T07:32:09Z
   Vendor: Spladdered Haus™
   Product Type: Tank Top
   Availability: Available
@@ -955,7 +955,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Animal dog head Necklace & Pendant with Tennis Chain Gold Color Bling](https://splatteredhaustm.myshopify.com/products/animal-dog-head-necklace-pendant-with-tennis-chain-gold-color-bling-cubic-zircon-mens-hip-hop-rock-steet-jewelry): Animal dog head Necklace &amp; Pendant with Tennis Chain Gold Color Bling Cubic Zircon Men's Hip hop  - Splattered Haus TM
-  Updated: 2025-11-16T05:16:51Z
+  Updated: 2025-11-17T07:32:33Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1117,7 +1117,7 @@
     Availability: Available
     Price: $84.48 USD
 - [Men Jeans Hip Hop Graffiti Skull Letter Print Denim Pants Skinny Hole](https://splatteredhaustm.myshopify.com/products/men-jeans-hip-hop-graffiti-skull-letter-print-denim-pants-skinny-hole-high-street): Men  Hip Hop Graffiti Skull Letter Print Denim Pants Men Casual Skinny Hole High Street Fashion  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:05Z
+  Updated: 2025-11-17T07:32:50Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1139,7 +1139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1473884822.jpg?v=1763232013
     Price: $121.86 USD
 - [12MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry): 12MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold Color Plated Copper Bling  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:41Z
+  Updated: 2025-11-17T07:33:11Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1289,7 +1289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/12mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-plated-copper-bling-fashion-rock-jewelry-551272.jpg?v=1763232113
     Price: $92.54 USD
 - [14mm Square Miami Cuban Link Bracelet Gold Color Iced Out Cubic](https://splatteredhaustm.myshopify.com/products/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry): 14mm Square Miami Cuban Link Bracelet Gold Color Iced Out Cubic Zirconia Rock Hip hop Style Men's  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:44Z
+  Updated: 2025-11-17T07:33:33Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1367,7 +1367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/14mm-square-miami-cuban-link-bracelet-gold-color-iced-out-cubic-zirconia-rock-hip-hop-style-mens-jewelry-939105.jpg?v=1763232063
     Price: $49.36 USD
 - [Solid 15mm Men's Hip Hop Cuban Chain Link Cubic Zirconia Gold Color](https://splatteredhaustm.myshopify.com/products/solid-15mm-mens-hip-hop-cuban-chain-link-cubic-zirconia-gold-color-necklace-choker-fashion-rock-jewelry): Solid 15mm Men's Hip Hop Cuban Chain Link Cubic Zirconia Gold Color Necklace Choker Fashion Rock  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:50Z
+  Updated: 2025-11-17T07:33:49Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1469,7 +1469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1603614848.jpg?v=1763232167
     Price: $108.05 USD
 - [18mm Baguette Zirconia Cuban Chain Necklace Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry): 18mm Baguette Zirconia Cuban Chain Necklace Men's Hip Hop Link Gold Color Copper Bling Fashion Rock  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:50Z
+  Updated: 2025-11-17T07:34:06Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1571,7 +1571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-baguette-zirconia-cuban-chain-necklace-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry-328733.jpg?v=1763232220
     Price: $223.74 USD
 - [9MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold](https://splatteredhaustm.myshopify.com/products/9mm-baguette-zirconia-square-necklace-chain-mens-hip-hop-link-gold-color-copper-bling-fashion-rock-jewelry): 9MM Baguette Zirconia Square Necklace Chain Men's Hip Hop Link Gold Color Copper Bling Fashion Rock  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:56Z
+  Updated: 2025-11-17T07:34:21Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1673,7 +1673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1648828576.jpg?v=1763232266
     Price: $102.37 USD
 - [9mm Square Men's Bracelet Chain Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-mens-bracelet-chain-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Men's Bracelet Chain Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
-  Updated: 2025-11-16T05:17:54Z
+  Updated: 2025-11-17T07:34:35Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1715,7 +1715,7 @@
     Availability: Available
     Price: $47.76 USD
 - [Men High Street Elastic Waist Fashion Baggy Hip Hop Style Men](https://splatteredhaustm.myshopify.com/products/men-high-street-elastic-waist-fashion-baggy-hip-hop-style-men-streetwear): Sweatpants Funny Vintage Print Pants Men High Street Elastic Waist Fashion Baggy Hip Hop Style Men  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:12Z
+  Updated: 2025-11-17T07:34:54Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1745,14 +1745,14 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1355371439.jpg?v=1763232386
     Price: $81.33 USD
 - [Punk Rock Love Letter Round Square Pendant Chunky Necklace Lover](https://splatteredhaustm.myshopify.com/products/punk-rock-love-letter-round-square-pendant-chunky-necklace-lover-hip-hop-jewelry): Length:49cm - Splattered Haus TM
-  Updated: 2025-11-16T17:16:08Z
+  Updated: 2025-11-18T17:17:49Z
   Vendor: Feelontop Jewellery
   Product Type: n/a
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/6_9758178e-23aa-4ae7-85f9-d8a24ac7c459.jpg?v=1763232423
-  Price: $2.50 USD
+  Price: $2.49 USD
 - [9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper](https://splatteredhaustm.myshopify.com/products/9mm-square-necklace-chain-mens-hip-hop-link-finish-zirconia-copper-gold-color-fashion-rock-jewelry): 9mm Square Necklace Chain Men's Hip Hop Link Finish Zirconia Copper Gold Color Fashion Rock Jewelry  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:29Z
+  Updated: 2025-11-17T07:35:29Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1854,7 +1854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1599135656.jpg?v=1763232487
     Price: $105.34 USD
 - [Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link](https://splatteredhaustm.myshopify.com/products/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm): Baguette Zirconia Cuban Bracelet Chain Men's Trendy Cool Hip Hop Link Copper Bling Rock Jewelry 18mm  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:27Z
+  Updated: 2025-11-17T07:35:51Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1908,7 +1908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zirconia-cuban-bracelet-chain-mens-trendy-cool-hip-hop-link-copper-bling-rock-jewelry-18mm-852626.jpg?v=1763232549
     Price: $76.42 USD
 - [10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA](https://splatteredhaustm.myshopify.com/products/10mm-gold-color-miami-cuban-link-bracelet-bling-women-jewelry-aaaa-zircon-charm-hip-hop-chain): 10mm Gold Color Miami Cuban Link Bracelet Bling Women Jewelry AAAA Zircon Charm Hip Hop Chain  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:30Z
+  Updated: 2025-11-17T07:36:06Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -1968,7 +1968,7 @@
     Availability: Available
     Price: $45.29 USD
 - [10mm Gold Miami Cuban Link Necklace Bling AAAA Zircon Charm Men's Hip](https://splatteredhaustm.myshopify.com/products/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry): 10mm Gold Miami Cuban Link Necklace Bling AAAA Zircon Charm Men's Hip Hop Chain Women Jewelry Metals  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:30Z
+  Updated: 2025-11-17T07:36:24Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2118,7 +2118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/10mm-gold-miami-cuban-link-necklace-bling-aaaa-zircon-charm-mens-hip-hop-chain-women-jewelry-647365.jpg?v=1763232615
     Price: $74.91 USD
 - [23mm Chunky Miami Cuban Chain Bracelet AAA Zirconia Men Hip hop](https://splatteredhaustm.myshopify.com/products/23mm-chunky-miami-cuban-chain-bracelet-aaa-zirconia-men-hip-hop-jewelry-gold-color-big-lock-bangle-7-8): 23mm Chunky Miami Cuban Chain Bracelet AAA Zirconia Men Hip hop Jewelry Gold Color Big Lock Bangle  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:41Z
+  Updated: 2025-11-17T07:36:48Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2196,7 +2196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1372397785.jpg?v=1763232670
     Price: $78.87 USD
 - [Hand with Money Dollar Gold  Necklace & Pendant Tennis Chain Gold](https://splatteredhaustm.myshopify.com/products/hand-with-money-dollar-gold-color-necklace-pendant-tennis-chain-gold-color-aaa-cubic-zirconia-hip-hop-rock-jewelry): Hand with Money Dollar Gold Color Necklace &amp; Pendant Tennis Chain Gold Color AAA Cubic Zirconia  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:47Z
+  Updated: 2025-11-17T07:37:07Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2330,7 +2330,7 @@
     Availability: Available
     Price: $57.97 USD
 - [Dropshipping Cross Pendant Necklace For Men Black Gold Silver color](https://splatteredhaustm.myshopify.com/products/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry): Dropshipping Cross Pendant Necklace For  Black Gold Silver color Stainless Steel Pendant Necklace  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:43Z
+  Updated: 2025-11-17T07:37:37Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2356,7 +2356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/dropshipping-cross-pendant-necklace-for-men-black-gold-silver-color-stainless-steel-pendant-necklace-men-hip-hop-jewelry-641999.jpg?v=1763232784
     Price: $24.24 USD
 - [Snake Winding Cross Pendant Necklace Iced Out Cubic Zirconia Pendant](https://splatteredhaustm.myshopify.com/products/snake-winding-cross-pendant-necklace-iced-out-cubic-zirconia-pendant-christmas-halloween-hip-hop-jewelry-gifts): Snake Winding Cross Pendant Necklace Iced Out Cubic Zirconia Pendant Christmas Halloween Hip Hop  - Splattered Haus TM
-  Updated: 2025-11-16T05:18:43Z
+  Updated: 2025-11-17T07:37:54Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2382,7 +2382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369359738.jpg?v=1763232833
     Price: $55.69 USD
 - [Baguette Zircon Men's Butterfly Ring Copper Charm Gold Color Iced RING](https://splatteredhaustm.myshopify.com/products/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women): Baguette Zircon Men's Butterfly Ring Copper Charm Gold Color Iced RING Fashion Hip Hop Jewelry For  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:07Z
+  Updated: 2025-11-17T07:38:12Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2532,7 +2532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/baguette-zircon-mens-butterfly-ring-copper-charm-gold-color-iced-ring-fashion-hip-hop-jewelry-for-women-873274.jpg?v=1763232882
     Price: $41.30 USD
 - [Men's Star Ring 18 K Copper Charm Gold Color Full Zircon RING Fashion](https://splatteredhaustm.myshopify.com/products/mens-star-ring-18-k-copper-charm-gold-color-full-zircon-ring-fashion-hip-hop-rock-jewelry): Men's Star Ring 18 K Copper Charm Gold Color Full Zircon RING Fashion Hip Hop Rock Jewelry Metals  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:04Z
+  Updated: 2025-11-17T07:38:29Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2634,7 +2634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1369600702.jpg?v=1763232932
     Price: $43.30 USD
 - [17mm Miami Cuban Chain Bracelet High Quality Micro Pave Iced Out Cubic](https://splatteredhaustm.myshopify.com/products/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift): 17mm Miami Cuban Chain Bracelet High Quality Micro Pave Iced Out Cubic Zirconia Men's Hip Hop  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:19Z
+  Updated: 2025-11-17T07:38:53Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2736,7 +2736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/17mm-miami-cuban-chain-bracelet-high-quality-micro-pave-iced-out-cubic-zirconia-mens-hip-hop-fashion-jewelry-for-gift-380994.jpg?v=1763232979
     Price: $190.08 USD
 - [Solid 32mm Big Cuban Chain Men's Hip Hop Necklace Link Finish Zirconia](https://splatteredhaustm.myshopify.com/products/solid-32mm-big-cuban-chain-mens-hip-hop-necklace-link-finish-zirconia-gold-color-fashion-rock-jewelry): Solid 32mm Big Cuban Chain Men's Hip Hop Necklace Link Finish Zirconia Gold Color Fashion Rock  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:26Z
+  Updated: 2025-11-17T07:39:11Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2838,7 +2838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1614151258.jpg?v=1763233029
     Price: $116.47 USD
 - [Animal Scorpion Hip Hop Pendant Necklace Chain Gold Color Bling Cubic](https://splatteredhaustm.myshopify.com/products/animal-scorpion-hip-hop-pendant-necklace-chain-gold-color-bling-cubic-zircon-mens-women-jewelry-for-gift): Brand Name: Bubble letter Metals Type: Copper Gender: Men Necklace Type: Chains Necklaces Style:  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:21Z
+  Updated: 2025-11-17T07:39:25Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -2940,7 +2940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1313525974.jpg?v=1763233086
     Price: $61.53 USD
 - [18mm Miami Cuban Chain Men's Hip Hop Necklace Link Solid Back Copper](https://splatteredhaustm.myshopify.com/products/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry): 18mm Miami Cuban Chain Men's Hip Hop Necklace Link Solid Back Copper Full Zircon Fashion Rock  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:30Z
+  Updated: 2025-11-17T07:39:44Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -3042,7 +3042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/18mm-miami-cuban-chain-mens-hip-hop-necklace-link-solid-back-copper-full-zircon-fashion-rock-jewelry-591978.jpg?v=1763233146
     Price: $125.48 USD
 - [Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace](https://splatteredhaustm.myshopify.com/products/hand-holding-dollar-pouch-dripping-pendant-mens-gold-color-necklace-charm-bling-bling-cubic-zircon-hip-hop-jewelry): Hand holding Dollar Pouch Dripping Pendant Men's Gold Color Necklace Charm Bling Bling Cubic Zircon  - Splattered Haus TM
-  Updated: 2025-11-16T05:19:31Z
+  Updated: 2025-11-17T07:40:00Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -3088,7 +3088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/4650/3482/files/product-image-1346681675.jpg?v=1763233177
     Price: $40.46 USD
 - [Gold Color Pineapple shape Necklace & Pendant With 4mm Tennis Chain](https://splatteredhaustm.myshopify.com/products/gold-color-pineapple-shape-necklace-pendant-with-4mm-tennis-chain-aaa-cubic-zircon-mens-women-hip-hop-rock-jewelry-2-4x5-8cm): Brand Name: Bubble letter Metals Type: Copper Gender: Men Necklace Type: Pendant Necklaces Style:  - Splattered Haus TM
-  Updated: 2025-11-16T16:57:23Z
+  Updated: 2025-11-17T07:40:23Z
   Vendor: Vimost Shop
   Product Type: n/a
   Availability: Available
@@ -3218,7 +3218,7 @@
   Updated: 2025-11-15T06:38:09Z
   Total Products: 1
 - [OPEN - Best Sellers - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/open-best-sellers): Explore the Best Sellers from OPEN Why You Should Check Out OPEN - Best Sellers OPEN - Best Sellers  - Splattered Haus TM
-  Updated: 2025-11-16T17:16:09Z
+  Updated: 2025-11-18T17:17:51Z
   Total Products: 77
 - [staff picks - Splattered Haus TM](https://splatteredhaustm.myshopify.com/collections/staff-picks): - Splattered Haus TM
   Updated: 2025-11-15T06:38:07Z
