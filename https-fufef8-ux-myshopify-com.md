@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-11-19T19:38:50Z
 - Contact Email: kartastore5@gmail.com
-- Updated At: 2025-11-19T20:40:28.855Z
+- Updated At: 2025-11-19T20:41:53.925Z
 
 ## Products
 
