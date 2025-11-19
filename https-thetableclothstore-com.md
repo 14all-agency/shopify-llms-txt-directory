@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-11-18T00:01:01.203Z
+- Updated At: 2025-11-19T00:00:34.795Z
 
 ## Products
 
@@ -33511,7 +33511,7 @@
   Updated: 2025-11-10T12:20:42Z
   Total Products: 5
 - [Bonanza {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/bonanza): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-11-18T12:21:54Z
   Total Products: 5
 - [Crushed Velvet {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/crushed-velvet-double-width): - The Tablecloth Store
   Updated: 2025-10-20T16:51:27Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-11-14T12:22:00Z
+  Updated: 2025-11-18T12:21:54Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-11-14T12:22:00Z
+  Updated: 2025-11-18T12:21:54Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-11-14T12:22:00Z
+  Updated: 2025-11-18T12:21:54Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-11-14T12:22:00Z
+  Updated: 2025-11-18T12:21:54Z
   Total Products: 613
 
 ## Blogs
@@ -33798,6 +33798,9 @@
     Author: User
   - [Comparing Tablecloth Styles: Rustic vs Contemporary vs Vintage](https://thetableclothstore.com/blogs/news/comparing-tablecloth-styles-rustic-vs-contemporary-vs-vintage): Comparing Tablecloth Styles: Rustic vs Contemporary vs Vintage
     Updated: 2025-11-17T00:43:19Z
+    Author: User
+  - [Tutorial for Linens that Impress: From Setup to Cleanup](https://thetableclothstore.com/blogs/news/tutorial-for-linens-that-impress-from-setup-to-cleanup): Tutorial for Linens that Impress: From Setup to Cleanup
+    Updated: 2025-11-18T02:08:05Z
     Author: User
 
 ## Store Pages
