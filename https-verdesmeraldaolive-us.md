@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-16T00:00:24.690Z
+- Updated At: 2025-11-19T00:00:44.177Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2790_EST.jpg?v=1750052956
   Price: $45.00 USD
 - [Imagine Royal 500ml](https://verdesmeraldaolive.us/products/imagine-royal-500ml): "Imagine Royal" is an exclusive extra virgin olive oil from the refined Imagine Line by Verde Esmeralda Olive. Extracted from the rare and prized Royal variety, it grows exclusively in the Sierra de Cazorla from Spain —one of the most pristine areas in Europe. This oil is distinguished by its delicate and sophisticated aromatic profile, featuring a balanced sweetness and a subtle spicy note. The Royal oil accounts for only 5% of global extra virgin olive oil production, making it even more valuable and sought after. This extraordinary oil is produced exclusively from first-harvested olives, carefully selected to ensure the highest quality. Due to its very low production, “Imagine Royal” represents the ultimate in luxury and rarity.The extraction process of this oil is carried out with the utmost care, keeping the fruit at optimal temperatures to preserve all its organoleptic properties. The result is an oil with a sophisticated taste, with a freshness and finesse that captivates the palate.
-  Updated: 2025-09-30T18:03:42Z
+  Updated: 2025-11-17T00:37:58Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-15T12:18:31Z
+  Updated: 2025-11-16T12:18:48Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -102,16 +102,16 @@
   Updated: 2025-11-07T21:50:11Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-15T12:18:31Z
+  Updated: 2025-11-16T12:18:48Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-15T12:18:31Z
+  Updated: 2025-11-16T12:18:48Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-15T12:18:31Z
+  Updated: 2025-11-16T12:18:48Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-15T12:18:31Z
+  Updated: 2025-11-16T12:18:48Z
   Total Products: 10
 
 ## Blogs
