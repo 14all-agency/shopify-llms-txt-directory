@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-11-17T00:00:28.015Z
+- Updated At: 2025-11-19T00:00:46.348Z
 
 ## Products
 
@@ -57,7 +57,7 @@
     Availability: Available
     Price: $23.95 USD
 - [Christmas Tree  Ready Ship in ONE day, Sea Glass dangling](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her): Beautiful Holiday earrings for everyday or special occasions. Fun &amp; festive holiday earrings sure to be noticed! These earrings will make a great  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-11T23:05:36Z
+  Updated: 2025-11-17T01:59:58Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -419,7 +419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Blue-Sea-Glass-Earrings-in-Sterling-Silver_-Blue-Sea-Glass-Dangle-Earrings_-Beach-Weddings_-Blue-earrings_-Cobalt-Sea-glass-Earrings_-My-Store-9830626.jpg?v=1762481922
   Price: $24.95 USD
 - [Nautical White Sea Glass Sailboat Necklace & Earring SET in Sterling](https://sunnyseaglassjewelry.com/products/nautical-white-sea-glass-sailboat-necklace-earring-set-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Beautiful shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Necklace &amp; Earrings. The same soft  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T02:19:00Z
+  Updated: 2025-11-17T01:59:58Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2463,7 +2463,7 @@
     Availability: Available
     Price: $82.95 USD
 - [Wire Wrapped Peridot/Amethyst Bracelet, Adjustable Silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet): This stunning bracelet features green Peridot and purple-lavender Amethyst gemstones, hand wire wrapped with tarnish-resistant silver craft wire in  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T03:11:27Z
+  Updated: 2025-11-17T02:16:39Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -4638,7 +4638,7 @@
     Availability: Available
     Price: $39.95 USD
 - [Pumpkin  Orange Pumpkin Crystal  Fall/Autumn Harvest](https://sunnyseaglassjewelry.com/products/pumpkin-earrings-orange-pumpkin-crystal-earrings-halloween-earrings-fall-autumn-harvest-earrings-orange-earrings): These adorable orange pumpkin earrings are the perfect fall and autumn jewelry piece to complement your Halloween costume or everyday seasonal style.  - Sunny Sea Glass Jewelry
-  Updated: 2025-11-07T15:24:37Z
+  Updated: 2025-11-17T01:59:58Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -4706,7 +4706,7 @@
   Availability: Available
   Price: $35.00 USD
 - [Angel Earrings - Unique Sea Glass Guardian Design](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings): Explore our handcrafted angel earrings featuring beautiful sea glass. Perfect gifts to cherish your guardian angel.
-  Updated: 2025-11-07T23:16:20Z
+  Updated: 2025-11-17T01:59:58Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
