@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-19T19:42:36.579Z
+- Updated At: 2025-11-19T20:00:26.260Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
