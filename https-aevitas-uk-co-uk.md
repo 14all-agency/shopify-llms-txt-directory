@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-19T13:14:34.660Z
+- Updated At: 2025-11-19T16:00:30.400Z
 
 ## Products
 
@@ -612,12 +612,12 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/6-Watch-Winder-in-Smooth-Black-Leather-Finish-by-Aevitas-UK.webp?v=1760448018
   Price: £849.95 GBP
 - [6 Watch Winder Safe Module Brown Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/6-watch-winder-in-brown-smooth-leather-finish-by-aevitas): 6 Watch Winder in Brown Smooth Leather 6 Watch Winder in Brown Vegan Leather Finish. This Aevitas Watch Winders is what you need! Mains or Battery Powered
-  Updated: 2025-11-11T16:10:52Z
+  Updated: 2025-11-19T15:44:19Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/6-Watch-Winder-Safe-Module-Brown-Smooth-Leather-Finish-by-Aevitas.webp?v=1760448172
-  Price: £799.95 GBP
+  Price: £699.95 GBP
 - [Premium Triple Watch Roll Vintage Brown Leather Super Soft Grey Lining](https://aevitas-uk.co.uk/products/premium-triple-watch-roll-vintage-brown-leather-super-soft-grey-suede-lining): Our superb Triple Watch roll in Brown finest quality animal friendly leather, a great choice for the holiday or business trip allowing you safe storage
   Updated: 2025-11-11T16:10:51Z
   Vendor: Aevitas
@@ -1823,12 +1823,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Double-Watch-Roll-Vintage-Brown-Leather-Super-Soft-Grey-Suede-Lining.webp?v=1762876593
   Price: £74.95 GBP
+- [6 Watch Winder Safe Module Black Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/6-watch-winder-safe-module-black-smooth-leather-finish-by-aevitas-copy): 6 Watch Winder in Black Smooth Leather 6 Watch Winder in Brown Vegan Leather Finish. This Aevitas Watch Winders is what you need! Mains or Battery Powered
+  Updated: 2025-11-19T15:44:19Z
+  Vendor: Aevitas
+  Product Type: Watch Winder
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/6-Watch-Winder-Safe-Module-Black-Smooth-Leather-Finish-by-Aevitas.webp?v=1763566998
+  Price: £699.95 GBP
 
 ## Collections
 
 - [Watch Winders Buy Online Aevitas Best Selling Watch Winder](https://aevitas-uk.co.uk/collections/watch-winders): Browse our Collection Automatic Watch Winders Buy Online free delivery, a Watch Winder  Rotates your automatic wristwatch keeping it ticking
-  Updated: 2025-11-19T12:20:42Z
-  Total Products: 92
+  Updated: 2025-11-19T15:34:52Z
+  Total Products: 93
 - [Watch Boxes Shop Fine Quality Storage Online at Aevitas Luxury UK](https://aevitas-uk.co.uk/collections/watch-boxes): Watch Boxes Checkout this superb collection of High Quality Storage designs by Aevitas UK with decades of listening to customers requirements. Free UK Delivery
   Updated: 2025-11-17T12:21:41Z
   Total Products: 83
@@ -1839,8 +1846,8 @@
   Updated: 2025-11-17T12:21:41Z
   Total Products: 40
 - [Luxury Leather Watch Winders | Automatic & Stylish](https://aevitas-uk.co.uk/collections/leather-watch-winders): Discover Aevitas Leather Watch Winders, UK's top choice for luxury automatic winding. Free UK delivery. Shop now!
-  Updated: 2025-11-19T12:20:42Z
-  Total Products: 24
+  Updated: 2025-11-19T15:34:16Z
+  Total Products: 25
 - [Quality Watch Winders and Watch Boxes Cases on Sale by Aevitas](https://aevitas-uk.co.uk/collections/watch-winders-cases-clearance-sale): Automatic Watch Winders Watch Boxes and Watch Cases Sale section you will find our Special Offers with Big Savings. Best Quality Luxury Items - Hurry, Buy Now!
   Updated: 2025-11-19T12:20:42Z
   Total Products: 187
@@ -1866,8 +1873,8 @@
   Updated: 2025-11-18T12:20:42Z
   Total Products: 11
 - [Multi Watch Winders | Luxury Watch Winder Supplier Aevitas UK](https://aevitas-uk.co.uk/collections/multi-watch-winders): Our multiple Luxury Watch Winders help maintain your Best automatic watches. Made for the avid watch collector by Aevitas Luxury UK. Free UK delivery. 2-3 Year Warranty
-  Updated: 2025-11-18T12:20:42Z
-  Total Products: 54
+  Updated: 2025-11-19T15:32:37Z
+  Total Products: 55
 - [Watch Winder | Premium Automatic Watch Winders - Aevitas UK](https://aevitas-uk.co.uk/collections/premium-watch-winders): Watch Winder - See our Best Selling Premium Quality Automatic Watch Windersfrom Aevitas the UK Watch Winder Specialist - Free UK Delivery
   Updated: 2025-11-17T12:21:41Z
   Total Products: 23
@@ -1875,8 +1882,8 @@
   Updated: 2025-11-17T12:21:41Z
   Total Products: 49
 - [Father's Day Gifts | Watch Winders and Watch Storage and Travel Cases](https://aevitas-uk.co.uk/collections/fathers-day-gifts): Here we have a Special Selection of Father's Day Gifts for that special man in your family. Watch Winders, Watch Boxes, Watch Stands or Cases we have the perfect Gifts
-  Updated: 2025-11-19T12:20:42Z
-  Total Products: 144
+  Updated: 2025-11-19T15:32:37Z
+  Total Products: 145
 - [Ladies Watch Roll Travel Cases Luxurious Quality Beautiful Designs](https://aevitas-uk.co.uk/collections/ladies-watch-rolls): Ladies Watch Roll Travel Cases Luxurious Quality Beautiful Designs. Here you can see our latest collection for the Ladies. These are a perfect gift for you
   Updated: 2025-11-14T12:20:24Z
   Total Products: 5
@@ -1899,8 +1906,8 @@
   Updated: 2025-11-17T12:21:41Z
   Total Products: 12
 - [6 Watch Winders for Automatic Watches by Aevitas UK](https://aevitas-uk.co.uk/collections/6-watch-winders-for-automatic-watches-by-aevitas-uk): 6 Watch Winder Collection fully Automatic and feature programmable near silent running motors. These are perfect for all luxury watch brands including Breitling, Omega and Rolex
-  Updated: 2025-11-18T12:20:42Z
-  Total Products: 14
+  Updated: 2025-11-19T15:32:37Z
+  Total Products: 15
 - [Luxury 8 Watch Winders for Automatic Watches by Aevitas](https://aevitas-uk.co.uk/collections/8-watch-winders-for-automatic-watches): Explore our premium 8 Watch Winders, perfect for luxury brands like Rolex & Omega. Enjoy silent motors, 2-year guarantee & free UK delivery.
   Updated: 2025-11-12T12:20:03Z
   Total Products: 8
