@@ -6,7 +6,7 @@
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-19T18:54:59.489Z
+- Updated At: 2025-11-19T18:59:36.226Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
