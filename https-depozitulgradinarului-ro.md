@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-18T00:01:37.531Z
+- Updated At: 2025-11-19T00:00:29.537Z
 
 ## Products
 
@@ -1539,14 +1539,14 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.50_1.jpg?v=1739903883
   Price: 2,99 lei RON
 - [Seminte LOBODA VERDE, AGROSEM | Frunze Fragede, Bogate în Vitamine](https://depozitulgradinarului.ro/products/seminte-loboda-verde-agrosem-0-8-gr): Semințe Loboda Verde, Agrosem (0.8 GR) – plantă anuală, cu frunze fragede și nutritive, ideală pentru salate, ciorbe și preparate tradiționale.
-  Updated: 2025-11-17T14:31:14Z
+  Updated: 2025-11-18T02:48:07Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.51_1.jpg?v=1739904036
   Price: 2,99 lei RON
 - [Seminte Mazare KELVEDON WONDER, AGROSEM - 20GR | Boabe Dulci & Aromate](https://depozitulgradinarului.ro/products/seminte-mazare-kelvedon-wonder-agrosem-20-gr): Semințe Mazăre Kelvedon Wonder, Agrosem (20 GR) – soi semi-timpuriu, foarte productiv, păstăi pline cu boabe dulci, ideale pentru consum proaspăt și congelare.
-  Updated: 2025-11-17T14:26:30Z
+  Updated: 2025-11-18T02:26:35Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -4244,7 +4244,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:15:28Z
   Total Products: 8
 - [Pachete Tratament Grădină & Agricultură | Pomi Fructiferi, Legume, Vita de Vie, Gazon, Tuia, Flori](https://depozitulgradinarului.ro/collections/pachete-tratament): Alege pachete complete de tratament grădină & agricultură, pentru viță-de-vie, legume, pomi fructiferi, flori, gazon sau tuia. Soluții eficiente împotriva bolilor și dăunătorilor.
-  Updated: 2025-11-11T12:31:33Z
+  Updated: 2025-11-18T12:32:03Z
   Total Products: 12
 - [Produse BIO | Legume, Flori, Pomi, Gazon, Dezinfectant sol, Raticide](https://depozitulgradinarului.ro/collections/produse-bio): Gama completă de produse BIO: tratamente naturale pentru legume, pomi, flori, gazon, sol și combaterea rozătoarelor. Alege soluții ecologice!
   Updated: 2025-10-16T11:31:08Z
@@ -4265,7 +4265,7 @@ Livrare rapidă!
   Updated: 2025-10-26T17:05:39Z
   Total Products: 2
 - [Pachete Tratament Tuia – Soluții pentru Îngrijirea Arborilor Ornamentali](https://depozitulgradinarului.ro/collections/pachete-tratament-tuia): Alege pachete tratament tuia pentru combaterea bolilor, îngălbenirii și uscării frunzelor. Produse eficiente pentru protecția, regenerarea și întreținerea sănătoasă a gardurilor vii și arborilor tuia.
-  Updated: 2025-11-11T12:31:33Z
+  Updated: 2025-11-18T12:32:03Z
   Total Products: 1
 - [Pachete Tratament Legume – Protecție Totală pentru Grădina Ta](https://depozitulgradinarului.ro/collections/pachete-tratament-legume): Pachete tratament legume – protecție totală pentru grădina ta, cu soluții eficiente împotriva bolilor și dăunătorilor. Ideal pentru roșii, castraveți, ardei și alte legume, de la plantare la recoltă.
   Updated: 2025-10-26T17:13:12Z
