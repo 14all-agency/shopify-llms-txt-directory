@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-19T16:00:31.962Z
+- Updated At: 2025-11-19T20:00:30.581Z
 
 ## Products
 
@@ -666,245 +666,245 @@
     Availability: Available
     Price: $39.95 USD
 - [Almond Macaron Signature Candle](https://affinatiliving.com/products/almond-macaron-signature-candle): Sweet and nutty, Almond Macaron delivers a bakery-fresh blend of almond, sugar, and vanilla in a 10 oz clean-burning soy candle.
-  Updated: 2025-11-18T01:58:28Z
+  Updated: 2025-11-19T17:38:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5174.png?v=1746540808
   - [Single Order](https://affinatiliving.com/products/almond-macaron-signature-candle?variant=42442401874001)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/almond-macaron-signature-candle?variant=42442401906769)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/almond-macaron-signature-candle?variant=42442401939537)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Christmas Cookie Signature Candle](https://affinatiliving.com/products/christmas-cookie-signature-candle): Capture the spirit of the holidays with Christmas Cookie—warm vanilla, sugar, and fresh-baked aroma in a festive 10 oz soy candle.
-  Updated: 2025-11-18T01:58:28Z
+  Updated: 2025-11-19T17:38:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5173.png?v=1746540617
   - [Single Order](https://affinatiliving.com/products/christmas-cookie-signature-candle?variant=42442395091025)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/christmas-cookie-signature-candle?variant=42442395123793)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/christmas-cookie-signature-candle?variant=42442395156561)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Cocoa Butter Cashmere Signature Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle): Indulge in luxurious calm with Cocoa Butter Cashmere—a velvety blend of cocoa butter, vanilla, and musk in a clean-burning 10 oz soy candle
-  Updated: 2025-11-18T01:58:28Z
+  Updated: 2025-11-19T17:38:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/6FDD50E4-F1FD-46C4-B783-A97340E61611.png?v=1746498237
   - [Single Order](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle?variant=42442394828881)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle?variant=42442394861649)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cocoa-butter-cashmere-signature-candle?variant=42442394894417)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Chocolate Fudge Brownie Signature Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle): Decadent and sweet, Chocolate Fudge Brownie fills your space with rich cocoa and baked goodness in a clean-burning 10 oz soy wax candle.
-  Updated: 2025-11-18T01:58:28Z
+  Updated: 2025-11-19T17:38:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5156.png?v=1746498491
   - [Single Order](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle?variant=42442392731729)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle?variant=42442392764497)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/chocolate-fudge-brownie-signature-candle?variant=42442392797265)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [French Vanilla Signature Candle](https://affinatiliving.com/products/french-vanilla-signature-candle): Classic and cozy, French Vanilla offers a rich vanilla bean scent in a clean-burning 10 oz soy candle. Comfort you can light.
-  Updated: 2025-11-18T01:58:29Z
+  Updated: 2025-11-19T17:38:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5164.png?v=1746533091
   - [Single Order](https://affinatiliving.com/products/french-vanilla-signature-candle?variant=42442391486545)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/french-vanilla-signature-candle?variant=42442391519313)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/french-vanilla-signature-candle?variant=42442391552081)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Vanilla Orchid Signature Candle](https://affinatiliving.com/products/vanilla-orchid-signature-candle): Elegant and smooth, Vanilla Orchid combines floral notes with creamy vanilla for a refined fragrance in a 10 oz clean-burning soy candle.
-  Updated: 2025-11-18T01:58:29Z
+  Updated: 2025-11-19T17:38:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5163.png?v=1746532903
   - [Single Order](https://affinatiliving.com/products/vanilla-orchid-signature-candle?variant=42442390601809)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/vanilla-orchid-signature-candle?variant=42442390634577)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/vanilla-orchid-signature-candle?variant=42442390667345)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Coffee Shop Signature Candle](https://affinatiliving.com/products/coffee-shop-signature-candle): Wake up to the aroma of your favorite café. Coffee Shop blends roasted beans, vanilla, and sweet cream in a cozy 10 oz soy wax candle.
-  Updated: 2025-11-18T01:58:29Z
+  Updated: 2025-11-19T17:38:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5154.png?v=1746498180
   - [Single Order](https://affinatiliving.com/products/coffee-shop-signature-candle?variant=42442389651537)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/coffee-shop-signature-candle?variant=42442389684305)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coffee-shop-signature-candle?variant=42442389717073)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Tobacco Signature Candle](https://affinatiliving.com/products/tobacco-signature-candle): Infuse your space with sophistication using Tobacco Signature Candle—rich cured tobacco and warm spice in a clean-burning 10 oz soy candle.
-  Updated: 2025-11-18T01:58:29Z
+  Updated: 2025-11-19T17:38:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5159.png?v=1746532069
   - [Single Order](https://affinatiliving.com/products/tobacco-signature-candle?variant=42442388406353)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/tobacco-signature-candle?variant=42442388439121)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/tobacco-signature-candle?variant=42442388471889)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Bourbon & Butterscotch Signature Candle](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle): Warm and indulgent, Bourbon & Butterscotch combines smoky oak, rich caramel, and sweet vanilla in a luxurious 10 oz clean-burning soy candle.
-  Updated: 2025-11-18T01:58:31Z
+  Updated: 2025-11-19T17:38:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5152.png?v=1746498087
   - [Single Order](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle?variant=42442387980369)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle?variant=42442388013137)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/bourbon-butterscotch-signature-candle?variant=42442388045905)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Mahogany Teakwood Signature Candle](https://affinatiliving.com/products/mahogany-teakwood-signature-candle): Enhance your space with Mahogany Teakwood—a bold blend of rich mahogany, cedar, and spice in a clean-burning 10 oz soy candle. Elevate your evenings.
-  Updated: 2025-11-18T01:58:31Z
+  Updated: 2025-11-19T17:38:52Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5150.png?v=1746496583
   - [Single Order](https://affinatiliving.com/products/mahogany-teakwood-signature-candle?variant=42442387554385)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/mahogany-teakwood-signature-candle?variant=42442387587153)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/mahogany-teakwood-signature-candle?variant=42442387619921)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Fresh Cut Sage Signature Candle](https://affinatiliving.com/products/fresh-sage-signature-candle): Earthy, herbal, and clean. Fresh Cut Sage delivers a grounding scent of fresh herbs and soft woods in a 10 oz soy candle. Calm meets clarity.
-  Updated: 2025-11-18T01:58:42Z
+  Updated: 2025-11-19T17:38:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/CAB783C3-21DD-45D3-9443-DF17C4E59E19.png?v=1746532366
   - [Single Order](https://affinatiliving.com/products/fresh-sage-signature-candle?variant=42442387095633)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/fresh-sage-signature-candle?variant=42442387128401)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-sage-signature-candle?variant=42442387161169)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Honey Lavender Signature Candle](https://affinatiliving.com/products/honey-lavender-signature-candle): Relax deeply with the Honey Lavender Signature Candle—10 oz of calming lavender and sweet honey in a clean-burning soy jar. Shop sleep-worthy scent
-  Updated: 2025-11-18T01:58:31Z
+  Updated: 2025-11-19T17:38:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/F1C209BF-A734-4871-92A9-64D9E0D48307.png?v=1746496611
   - [Single Order](https://affinatiliving.com/products/honey-lavender-signature-candle?variant=42442385129553)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/honey-lavender-signature-candle?variant=42442385162321)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/honey-lavender-signature-candle?variant=42442385195089)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Mint Eucalyptus Signature Candle](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle): Refresh your senses with Mint Eucalyptus—crisp mint and clearing eucalyptus in our 10 oz soy candle. Perfect for focus, baths, or an energizing reset
-  Updated: 2025-11-18T01:58:42Z
+  Updated: 2025-11-19T17:38:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5161.png?v=1746532447
   - [Single Order](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle?variant=42442383130705)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle?variant=42442383163473)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/eucalyptus-spearmint-signature-candle?variant=42442383196241)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Hawaiian Hibiscus Signature Candle](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle): Transport your senses to the islands with Hawaiian Hibiscus—bright florals, tropical fruit, and soft musk in a 10 oz clean-burning soy candle.
-  Updated: 2025-11-18T01:58:31Z
+  Updated: 2025-11-19T17:38:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5171.png?v=1746540173
   - [Single Order](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle?variant=42442382213201)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle?variant=42442382245969)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/hawaiian-hibiscus-signature-candle?variant=42442382278737)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Pink Sands Signature Candle](https://affinatiliving.com/products/pink-sands-signature-candle): Escape to paradise with Pink Sands—a soft, tropical blend of citrus, sweet florals, and vanilla in a clean-burning 10 oz soy candle.
-  Updated: 2025-11-18T01:58:32Z
+  Updated: 2025-11-19T17:38:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5166.png?v=1746533823
   - [Single Order](https://affinatiliving.com/products/pink-sands-signature-candle?variant=42442378477649)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/pink-sands-signature-candle?variant=42442378510417)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pink-sands-signature-candle?variant=42442378543185)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Twisted Peppermint Signature Candle](https://affinatiliving.com/products/twisted-peppermint-signature-candle): Cool and invigorating, Twisted Peppermint blends fresh mint, vanilla, and a hint of sweetness in a crisp 10 oz soy candle. Perfect for winter vibes.
-  Updated: 2025-11-18T01:58:32Z
+  Updated: 2025-11-19T17:38:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5167.png?v=1746534112
   - [Single Order](https://affinatiliving.com/products/twisted-peppermint-signature-candle?variant=42442377822289)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/twisted-peppermint-signature-candle?variant=42442377855057)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/twisted-peppermint-signature-candle?variant=42442377887825)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Mint Eucalyptus Body Scrub – Cooling Herbal Exfoliation for Refreshed Skin](https://affinatiliving.com/products/body-scrub-eucalyptus-spearmint): Invigorate your skin with Mint Eucalyptus body scrub—cooling exfoliation and refreshing herbal scent leave you smooth, energized, and naturally refreshed.
   Updated: 2025-11-15T18:48:08Z
   Vendor: Affinati
@@ -1977,140 +1977,140 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/Photoroom_20250413_134450.jpg?v=1746029324
   Price: $14.95 USD
 - [Ocean Breeze Signature Candle](https://affinatiliving.com/products/ocean-breeze-signature-candle): Escape to the coast with Ocean Breeze—a refreshing fusion of marine air, driftwood, and citrus in a 10 oz clean-burning soy candle
-  Updated: 2025-11-18T01:58:32Z
+  Updated: 2025-11-19T17:38:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/5023EA54-B4EE-411D-868A-AF1FA3B73D8E.png?v=1746542952
   - [Single Order](https://affinatiliving.com/products/ocean-breeze-signature-candle?variant=42442376675409)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/ocean-breeze-signature-candle?variant=42442376708177)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/ocean-breeze-signature-candle?variant=42442376740945)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Black Raspberry Signature Candle](https://affinatiliving.com/products/black-raspberry-signature-candle): Sweeten your home with Black Raspberry—ripe berries, vanilla, and sugar in a vibrant 10 oz soy candle. Bold, fruity, and delightfully inviting.
-  Updated: 2025-11-18T01:58:32Z
+  Updated: 2025-11-19T17:38:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5175.png?v=1746542902
   - [Single Order](https://affinatiliving.com/products/black-raspberry-signature-candle?variant=42442376151121)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/black-raspberry-signature-candle?variant=42442376183889)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-raspberry-signature-candle?variant=42442376216657)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Fresh Linen Signature Candle](https://affinatiliving.com/products/fresh-linen-signature-candle): Breathe in clean comfort. Fresh Linen offers airy cotton, soft florals, and powder notes in a 10 oz soy candle—perfect for any room or reset
-  Updated: 2025-11-18T01:58:33Z
+  Updated: 2025-11-19T17:38:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5176.png?v=1746542902
   - [Single Order](https://affinatiliving.com/products/fresh-linen-signature-candle?variant=42442375495761)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/fresh-linen-signature-candle?variant=42442375528529)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-linen-signature-candle?variant=42442375561297)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Fruit Fusion Signature Candle](https://affinatiliving.com/products/fruit-fusion-signature-candle): Bright, juicy, and uplifting. Fruit Fusion blends tropical fruits and citrus zest in a 10 oz soy candle for a vibrant, mood-boosting experience
-  Updated: 2025-11-18T01:58:33Z
+  Updated: 2025-11-19T17:38:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5177.png?v=1746542903
   - [Single Order](https://affinatiliving.com/products/fruit-fusion-signature-candle?variant=42442375135313)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/fruit-fusion-signature-candle?variant=42442375168081)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fruit-fusion-signature-candle?variant=42442375200849)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Spa Day Signature Candle](https://affinatiliving.com/products/spa-day-signature-candle): Turn your home into a sanctuary. Spa Day blends eucalyptus, cucumber water, and white tea in a clean-burning 10 oz soy candle for total relaxation.
-  Updated: 2025-11-18T01:58:33Z
+  Updated: 2025-11-19T17:38:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_May_9_2025_10_10_26_AM.png?v=1746799872
   - [Single Order](https://affinatiliving.com/products/spa-day-signature-candle?variant=42442368352337)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/spa-day-signature-candle?variant=42442368385105)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/spa-day-signature-candle?variant=42442368417873)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Bouquet of Roses Signature Candle](https://affinatiliving.com/products/bouquet-of-roses-signature-candle): Fill your space with classic elegance. The Bouquet of Roses candle offers soft floral notes in a clean-burning 10 oz soy wax jar. Romantic and timeless.
-  Updated: 2025-11-18T01:58:33Z
+  Updated: 2025-11-19T17:38:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/92B719B1-BB0D-453F-A0D2-E67E5F4054A5.png?v=1747134164
   - [Single Order](https://affinatiliving.com/products/bouquet-of-roses-signature-candle?variant=42442365861969)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/bouquet-of-roses-signature-candle?variant=42442365894737)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/bouquet-of-roses-signature-candle?variant=42442365927505)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Amber Noir Signature Candle](https://affinatiliving.com/products/amber-noir-signature-candle): Set the mood with Amber Noir—a 10 oz soy candle layered in dark amber and warm woods. Sophisticated, long-lasting aroma meets refined ambiance.
-  Updated: 2025-11-18T01:58:34Z
+  Updated: 2025-11-19T17:38:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5205.png?v=1747134164
   - [Single Order](https://affinatiliving.com/products/amber-noir-signature-candle?variant=42442363994193)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/amber-noir-signature-candle?variant=42442364026961)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/amber-noir-signature-candle?variant=42442364059729)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Bonfire Signature Candle](https://affinatiliving.com/products/bonfire-signature-candle): Relive cozy nights with Bonfire. A warm blend of smoked cedarwood, toasted marshmallow, and glowing embers in a clean-burning 10 oz soy candle.
-  Updated: 2025-11-18T01:58:34Z
+  Updated: 2025-11-19T17:38:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/DF277D9A-0EFD-4424-8451-BFA3129DF724.png?v=1747134164
   - [Single Order](https://affinatiliving.com/products/bonfire-signature-candle?variant=42442363895889)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/bonfire-signature-candle?variant=42442363928657)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/bonfire-signature-candle?variant=42442363961425)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Blue Spruce Signature Candle](https://affinatiliving.com/products/blue-spruce-signature-candle): Bring the outdoors in with Blue Spruce. This 10 oz soy candle blends crisp pine, fir, and evergreen notes for a refreshing woodland escape.
-  Updated: 2025-11-18T01:58:34Z
+  Updated: 2025-11-19T17:38:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5206.png?v=1747134164
   - [Single Order](https://affinatiliving.com/products/blue-spruce-signature-candle?variant=42442363699281)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/blue-spruce-signature-candle?variant=42442363732049)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/blue-spruce-signature-candle?variant=42442363764817)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Bouquet of Roses Candle](https://affinatiliving.com/products/3-wick-bouquet-of-roses-candle): Shop our XL Bouquet of Roses Candle – 3-wick, long-lasting, and strong scented. Perfect for romantic moments, gifting, or filling your space with fresh floral elegance.
   Updated: 2025-11-15T18:48:10Z
   Vendor: Affinati
@@ -2172,7 +2172,7 @@
     Availability: Available
     Price: $99.95 USD
 - [Fruit Fusion Original Candle](https://affinatiliving.com/products/fruit-fusion-original-candle): Fruit Fusion Original Candle – 10 oz Energize your space with the vibrant, juicy scent of our Fruit Fusion Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines a lively mix of tropical fruits, citrus bursts, and sweet berries, creating a bright and uplifting aroma. Scented strongly to fill your space with lasting fragrance. Perfect for adding a fresh, fruity vibe to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:20Z
+  Updated: 2025-11-19T17:32:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2185,9 +2185,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fruit-fusion-original-candle?variant=42443983487057)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Coffee Beans Original Candle](https://affinatiliving.com/products/coffee-beans-original-candle): Coffee Beans Original Candle – 10 oz Energize your senses with the rich, robust aroma of our Coffee Beans Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance features freshly roasted coffee beans with subtle hints of chocolate and toasted nuts, creating a warm and invigorating ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for coffee lovers seeking to bring the comforting aroma of a café into their home. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:20Z
+  Updated: 2025-11-19T17:32:58Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2200,9 +2200,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coffee-beans-original-candle?variant=42443983323217)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Honey Lavender Original Candle](https://affinatiliving.com/products/honey-lavender-original-candle): Honey Lavender Original Candle – 10 oz Unwind with the soothing, floral aroma of our Honey Lavender Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends sweet honey with calming lavender blossoms, creating a warm and relaxing ambiance perfect for any space. Scented strongly to fill your space with lasting fragrance. Perfect for promoting tranquility and adding a gentle touch of nature’s sweetness to your home. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:20Z
+  Updated: 2025-11-19T17:32:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2215,9 +2215,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/honey-lavender-original-candle?variant=42443983028305)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Himalayan Bamboo Original Candle](https://affinatiliving.com/products/himalayan-bamboo-original-candle): Himalayan Bamboo Original Candle – 10 oz Experience the fresh, calming scent of our Himalayan Bamboo Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends crisp bamboo leaves with soft green tea and a touch of citrus, creating a serene and refreshing atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a tranquil, spa-inspired vibe to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:20Z
+  Updated: 2025-11-19T17:32:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2230,9 +2230,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/himalayan-bamboo-original-candle?variant=42443982864465)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Champagne Toast Original Candle](https://affinatiliving.com/products/champagne-toast-original-candle): Champagne Toast Original Candle – 10 oz Celebrate in style with the sparkling, elegant scent of our Champagne Toast Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends bubbly champagne, juicy citrus, and subtle hints of sweet vanilla, creating a festive and uplifting ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of luxury and celebration to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:19Z
+  Updated: 2025-11-19T17:32:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2245,9 +2245,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/champagne-toast-original-candle?variant=42443980472401)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Mint Eucalyptus Original Candle](https://affinatiliving.com/products/mint-eucalyptus-original-candle): Mint Eucalyptus Original Candle – 10 oz Refresh your space with the crisp, invigorating scent of our Mint Eucalyptus Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines cooling mint leaves with soothing eucalyptus and subtle herbal notes, creating a revitalizing and calming atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a fresh, spa-like ambiance to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:19Z
+  Updated: 2025-11-19T17:32:57Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2260,9 +2260,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/mint-eucalyptus-original-candle?variant=42443979489361)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Butterscotch & Bourbon Original Candle](https://affinatiliving.com/products/butterscotch-bourbon-original-candle): Butterscotch & Bourbon Original Candle – 10 oz Indulge in the rich, warm aroma of our Butterscotch & Bourbon Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends creamy butterscotch, smooth bourbon, and a hint of vanilla bean to create a luxurious, comforting ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a cozy, sophisticated touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:19Z
+  Updated: 2025-11-19T17:32:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2275,9 +2275,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/butterscotch-bourbon-original-candle?variant=42443978768465)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Hawaiian Hibiscus Original Candle](https://affinatiliving.com/products/hawaiian-hibiscus-original-candle): Hawaiian Hibiscus Original Candle – 10 oz Transport yourself to a tropical paradise with the vibrant, floral scent of our Hawaiian Hibiscus Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines lush hibiscus blooms, sweet tropical fruits, and a hint of exotic musk to create a bright and uplifting ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a sunny, island-inspired vibe to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:19Z
+  Updated: 2025-11-19T17:32:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2290,9 +2290,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/hawaiian-hibiscus-original-candle?variant=42443978309713)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Mahogany Teakwood Original Candle](https://affinatiliving.com/products/mahogany-teakwood-original-candle): Mahogany Teakwood Original Candle – 10 oz Immerse yourself in the rich, sophisticated scent of our Mahogany Teakwood Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends deep mahogany wood, smooth teakwood, and subtle hints of oak and spice to create a warm, elegant atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for adding a refined, woodsy touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:18Z
+  Updated: 2025-11-19T17:32:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2305,9 +2305,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/mahogany-teakwood-original-candle?variant=42443977850961)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Pink Sands Original Candle](https://affinatiliving.com/products/pink-sands-original-candle): Pink Sands Original Candle – 10 oz Escape to a tropical paradise with the vibrant, breezy scent of our Pink Sands Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines bright citrus, sweet florals, and a touch of warm vanilla, evoking the essence of sun-kissed beaches and ocean breezes. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a light, uplifting vibe to any room—no passport required. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:18Z
+  Updated: 2025-11-19T17:32:56Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2320,9 +2320,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pink-sands-original-candle?variant=42443977687121)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Twisted Peppermint Original Candle](https://affinatiliving.com/products/twisted-peppermint-original-candle): Twisted Peppermint Original Candle – 10 oz Brighten your space with the cool, invigorating scent of our Twisted Peppermint Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends crisp peppermint, sweet vanilla, and a hint of icy freshness to create a bold, refreshing ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for energizing your home during the holidays or anytime you crave a burst of minty freshness. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:18Z
+  Updated: 2025-11-19T17:32:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2335,9 +2335,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/twisted-peppermint-original-candle?variant=42443977261137)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Vanilla Bean Original Candle](https://affinatiliving.com/products/vanilla-bean-original-candle): Vanilla Bean Original Candle – 10 oz Immerse yourself in the rich, creamy scent of our Vanilla Bean Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features pure vanilla bean with warm, sweet undertones for a timeless and comforting aroma. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, inviting atmosphere in any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:18Z
+  Updated: 2025-11-19T17:32:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2350,9 +2350,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/vanilla-bean-original-candle?variant=42443976147025)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Vanilla Sugar Original Candle](https://affinatiliving.com/products/vanilla-sugar-original-candle): Vanilla Sugar Original Candle – 10 oz Sweeten your space with the warm, comforting scent of our Vanilla Sugar Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends rich vanilla bean with sugary caramel and a hint of soft musk, creating a cozy, indulgent aroma. Scented strongly to fill your space with lasting fragrance. Perfect for adding a sweet, inviting touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:17Z
+  Updated: 2025-11-19T17:32:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2365,9 +2365,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/vanilla-sugar-original-candle?variant=42443975327825)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Vanilla Orchid Original Candle](https://affinatiliving.com/products/vanilla-orchid-original-candle): Vanilla Orchid Original Candle – 10 oz Fill your home with the elegant, floral scent of our Vanilla Orchid Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines creamy vanilla with delicate orchid petals and a hint of soft musk, creating a luxurious and soothing ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a refined, calming touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:17Z
+  Updated: 2025-11-19T17:32:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2380,9 +2380,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/vanilla-orchid-original-candle?variant=42443975131217)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Almond Macaron Original Candle](https://affinatiliving.com/products/almond-macaron-original-candle): Almond Macaron Original Candle – 10 oz Indulge in the delicate, sweet scent of our Almond Macaron Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance features toasted almonds, creamy vanilla, and subtle sugary notes, capturing the light and elegant aroma of French almond macarons. Scented strongly to fill your space with lasting fragrance. Perfect for adding a sophisticated, sweet touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:17Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2395,9 +2395,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/almond-macaron-original-candle?variant=42443975000145)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Almond Biscotti Original Candle](https://affinatiliving.com/products/almond-biscotti-original-candle): Almond Biscotti Original Candle – 10 oz Delight your senses with the warm, inviting scent of our Almond Biscotti Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends toasted almonds, sweet vanilla, and a hint of buttery biscotti for a cozy, bakery-inspired aroma. Scented strongly to fill your space with lasting fragrance. Perfect for creating a comforting and elegant atmosphere that feels like fresh-baked treats at home. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:17Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2410,9 +2410,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/almond-biscotti-original-candle?variant=42443974639697)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Fresh Cut Sage Original Candle](https://affinatiliving.com/products/fresh-cut-sage-original-candle): Fresh Cut Sage Original Candle – 10 oz Refresh your home with the crisp, herbal scent of our Fresh Cut Sage Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features bright sage leaves combined with subtle earthy undertones, creating a clean, grounding aroma. Scented strongly to fill your space with lasting fragrance. Perfect for adding a natural, revitalizing touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:16Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2425,9 +2425,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-cut-sage-original-candle?variant=42443974475857)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Tobacco Original Candle](https://affinatiliving.com/products/tobacco-original-candle): Tobacco Original Candle – 10 oz Add depth and warmth to your home with our Tobacco Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance features rich tobacco leaf notes blended with hints of spice and subtle sweetness, creating a bold and sophisticated aroma. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, refined atmosphere that evokes classic elegance. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:16Z
+  Updated: 2025-11-19T17:32:55Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2440,9 +2440,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/tobacco-original-candle?variant=42443974115409)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Floral Breeze Original Candle](https://affinatiliving.com/products/floral-breeze-original-candle): Floral Breeze Original Candle – 10 oz Bring the gentle beauty of a blooming garden into your home with our Floral Breeze Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines fresh florals, soft greens, and a hint of delicate sweetness to create an uplifting, airy atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for adding a light, refreshing touch of nature’s elegance to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:16Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2455,9 +2455,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/floral-breeze-original-candle?variant=42443973886033)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Fresh Linen Original Candle](https://affinatiliving.com/products/fresh-linen-original-candle): Fresh Linen Original Candle – 10 oz Fill your home with the crisp, clean scent of freshly laundered linens with our Fresh Linen Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines bright citrus, soft florals, and airy musk, evoking the fresh and comforting aroma of sun-dried sheets. Scented strongly to fill your space with lasting fragrance. Perfect for creating a light, refreshing atmosphere that feels like clean laundry on a sunny day. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:16Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2470,9 +2470,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-linen-original-candle?variant=42443972870225)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Drops of Rain Original Candle](https://affinatiliving.com/products/drops-of-rain-original-candle): Drops of Rain Original Candle – 10 oz Experience the fresh, calming scent of our Drops of Rain Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends crisp rainwater, delicate florals, and soft green notes to evoke the soothing essence of a gentle rainfall. Scented strongly to fill your space with lasting fragrance. Perfect for creating a tranquil, refreshing atmosphere in any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:15Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2485,9 +2485,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/drops-of-rain-original-candle?variant=42443972214865)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [French Vanilla Original Candle](https://affinatiliving.com/products/french-vanilla-original-candle): French Vanilla Original Candle – 10 oz Wrap your space in the warm, creamy aroma of our French Vanilla Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends rich vanilla bean with subtle hints of caramel and sugar, creating a timeless, cozy ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a comforting, inviting touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:15Z
+  Updated: 2025-11-19T17:32:54Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2500,9 +2500,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/french-vanilla-original-candle?variant=42443971821649)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Black Raspberry Vanilla Original Candle](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle): Black Raspberry Vanilla Original Candle – 10 oz Delight your senses with the luscious aroma of our Black Raspberry Vanilla Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines ripe black raspberries with smooth vanilla, creating a sweet and inviting ambiance that’s both vibrant and comforting. Scented strongly to fill your space with lasting fragrance. Perfect for adding a cozy, fruity touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:15Z
+  Updated: 2025-11-19T17:32:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2515,9 +2515,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-raspberry-vanilla-original-candle?variant=42443970740305)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Spa Day Original Candle](https://affinatiliving.com/products/spa-day-original-candle): Spa Day Original Candle – 10 oz Create a serene sanctuary with our Spa Day Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a clean, even burn. The fragrance blends soothing eucalyptus, fresh cucumber, and calming lavender to evoke the relaxing ambiance of a spa retreat. Scented strongly to fill your space with lasting fragrance. Perfect for turning any room into a peaceful, rejuvenating escape. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:15Z
+  Updated: 2025-11-19T17:32:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2530,9 +2530,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/spa-day-original-candle?variant=42443970019409)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Tropical Island Original Candle](https://affinatiliving.com/products/tropical-island-original-candle): Tropical Island Original Candle – 10 oz Transport yourself to a sun-soaked paradise with our Tropical Island Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends juicy pineapple, ripe mango, and creamy coconut with subtle floral undertones to evoke the essence of a breezy island getaway. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a vibrant, exotic vibe to any room—anytime you need a tropical escape. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:14Z
+  Updated: 2025-11-19T17:32:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2545,9 +2545,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/tropical-island-original-candle?variant=42443969658961)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Christmas Tree Original Candle](https://affinatiliving.com/products/christmas-tree-original-candle): Christmas Tree Original Candle – 10 oz Fill your home with the classic, festive aroma of our Christmas Tree Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features fresh pine needles, crisp spruce, and subtle cedarwood notes—capturing the true essence of a freshly cut Christmas tree. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, holiday atmosphere filled with nostalgic cheer. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:14Z
+  Updated: 2025-11-19T17:32:53Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2560,9 +2560,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/christmas-tree-original-candle?variant=42443967660113)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Citrus Pine Original Candle](https://affinatiliving.com/products/citrus-pine-original-candle): Citrus Pine Original Candle – 10 oz Energize your home with the crisp, invigorating scent of our Citrus Pine Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines bright citrus notes with fresh pine and subtle hints of evergreen, creating a refreshing and uplifting aroma reminiscent of a forest breeze. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a lively, natural freshness to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:14Z
+  Updated: 2025-11-19T17:32:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2575,9 +2575,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/citrus-pine-original-candle?variant=42443964121169)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Lemon & Amber Musk Original Candle](https://affinatiliving.com/products/lemon-amber-musk-original-candle): Lemon & Amber Musk Original Candle – 10 oz Brighten your space with the fresh, warm scent of our Lemon & Amber Musk Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends zesty lemon with smooth amber and soft musk, creating a vibrant yet cozy ambiance that uplifts and soothes. Scented strongly to fill your space with lasting fragrance. Perfect for adding a refreshing, elegant touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:14Z
+  Updated: 2025-11-19T17:32:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2590,9 +2590,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/lemon-amber-musk-original-candle?variant=42443963859025)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Sandalwood & Jasmine Original Candle](https://affinatiliving.com/products/sandalwood-jasmine-original-candle): Sandalwood & Jasmine Original Candle – 10 oz Experience the serene blend of earthy sandalwood and delicate jasmine with our Sandalwood & Jasmine Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance combines warm, creamy sandalwood with the soft floral sweetness of jasmine, creating a balanced and calming ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a peaceful, elegant touch to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:12Z
+  Updated: 2025-11-19T17:32:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2605,9 +2605,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/sandalwood-jasmine-original-candle?variant=42443962581073)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Clean Cotton Original Candle](https://affinatiliving.com/products/clean-cotton-original-candle): Clean Cotton Original Candle – 10 oz Bring the crisp, fresh scent of freshly laundered linens into your home with our Clean Cotton Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance captures airy notes of sun-dried cotton, soft florals, and a hint of clean musk for a bright, uplifting atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for creating a fresh, inviting environment that feels like clean laundry on a sunny day. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:12Z
+  Updated: 2025-11-19T17:32:51Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2620,9 +2620,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/clean-cotton-original-candle?variant=42443960483921)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [White Tea Original Candle](https://affinatiliving.com/products/white-tea-original-candle): White Tea Original Candle – 10 oz Embrace tranquility with the clean, refreshing scent of our White Tea Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a smooth, even burn. The fragrance features delicate white tea leaves, soft citrus, and subtle florals, creating a calm, spa-like atmosphere. Scented strongly to fill your space with lasting fragrance. Perfect for promoting relaxation and adding a touch of refined freshness to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:12Z
+  Updated: 2025-11-19T17:32:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2635,9 +2635,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/white-tea-original-candle?variant=42443959599185)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Cinnamon Twist Original Candle](https://affinatiliving.com/products/cinnamon-twist-original-candle): Cinnamon Twist Original Candle – 10 oz Spice up your space with the bold, cozy scent of our Cinnamon Twist Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance swirls together spicy cinnamon, warm clove, and a touch of brown sugar to evoke the aroma of a freshly baked cinnamon twist pastry. Scented strongly to fill your space with lasting fragrance. Perfect for creating a warm, inviting atmosphere that’s both sweet and spicy. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:12Z
+  Updated: 2025-11-19T17:32:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2650,9 +2650,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cinnamon-twist-original-candle?variant=42443958878289)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Cinnamon Swirl Original Candle](https://affinatiliving.com/products/cinnamon-swirl-original-candle): Cinnamon Swirl Original Candle – 10 oz Fill your home with the warm, comforting scent of our Cinnamon Swirl Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends sweet cinnamon sugar, buttery pastry, and a hint of vanilla glaze—capturing the irresistible aroma of a freshly baked cinnamon roll. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, bakery-inspired atmosphere that feels like home. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:11Z
+  Updated: 2025-11-19T17:32:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2665,9 +2665,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cinnamon-swirl-original-candle?variant=42443958681681)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Hazelnut Coffee Original Candle](https://affinatiliving.com/products/hazelnut-coffee-original-candle): Hazelnut Coffee Original Candle – 10 oz Wake up to the warm, nutty aroma of our Hazelnut Coffee Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance combines rich, roasted coffee beans with smooth hazelnut and a hint of sweet cream for a cozy, café-style experience. Scented strongly to fill your space with lasting fragrance. Perfect for creating a welcoming, energizing atmosphere that feels like your favorite morning brew. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:11Z
+  Updated: 2025-11-19T17:32:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2680,9 +2680,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/hazelnut-coffee-original-candle?variant=42443957698641)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Black Coffee Original Candle](https://affinatiliving.com/products/black-coffee-original-candle): Black Coffee Original Candle – 10 oz Start your day with the bold, energizing scent of our Black Coffee Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance captures the deep, roasted aroma of freshly brewed black coffee—rich, robust, and perfectly simple. Scented strongly to fill your space with lasting fragrance. Perfect for coffee lovers and anyone who enjoys the cozy comfort of a café-inspired atmosphere. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:11Z
+  Updated: 2025-11-19T17:32:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2695,9 +2695,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-coffee-original-candle?variant=42443957207121)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Pumpkin Spice Latte Original Candle](https://affinatiliving.com/products/pumpkin-spice-latte-original-candle): Pumpkin Spice Latte Original Candle – 10 oz Embrace the essence of fall with the cozy aroma of our Pumpkin Spice Latte Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance blends creamy pumpkin, freshly brewed espresso, and warm spices like cinnamon and nutmeg for a rich, comforting scent that feels like autumn in a cup. Scented strongly to fill your space with lasting fragrance. Perfect for creating a warm, inviting atmosphere that’s both energizing and soothing. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:11Z
+  Updated: 2025-11-19T17:32:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2710,9 +2710,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-spice-latte-original-candle?variant=42443957010513)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Saffron Cedarwood Original Candle](https://affinatiliving.com/products/saffron-cedarwood-original-candle): Saffron Cedarwood Original Candle – 10 oz Surround yourself with warmth and sophistication with our Saffron Cedarwood Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The rich fragrance layers golden saffron, smooth cedarwood, and a touch of spice to create an earthy, elegant aroma that’s both grounding and luxurious. Scented strongly to fill your space with lasting fragrance. Perfect for adding a refined, cozy ambiance to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:10Z
+  Updated: 2025-11-19T17:32:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2725,9 +2725,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/saffron-cedarwood-original-candle?variant=42443956224081)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [S’mores Original Candle](https://affinatiliving.com/products/s-mores-original-candle): S’mores Original Candle – 10 oz Relive your favorite campfire memories with the deliciously nostalgic scent of our S’mores Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The mouthwatering fragrance blends toasted marshmallow, melted chocolate, and crunchy graham cracker for the ultimate fireside treat. Scented strongly to fill your space with lasting fragrance. Perfect for adding a cozy, dessert-inspired vibe to any room—no fire required. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:10Z
+  Updated: 2025-11-19T17:32:49Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2740,9 +2740,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/s-mores-original-candle?variant=42443956060241)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Fire Roasted Marshmallow Original Candle](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle): Fire Roasted Marshmallow Original Candle – 10 oz Capture the cozy charm of campfire nights with our Fire Roasted Marshmallow Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends gooey marshmallows toasted over an open flame with hints of smoky wood and warm vanilla for a nostalgic, fireside experience. Scented strongly to fill your space with lasting fragrance. Perfect for creating a warm, inviting atmosphere that feels like a night under the stars. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:10Z
+  Updated: 2025-11-19T17:32:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2755,9 +2755,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fire-roasted-marshmallow-original-candle?variant=42443954421841)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Cocoa Butter Cashmere Original Candle](https://affinatiliving.com/products/cocoa-butter-cashmere-original-candle): Cocoa Butter Cashmere Original Candle – 10 oz Wrap your space in soft, luxurious comfort with our Cocoa Butter Cashmere Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The elegant fragrance blends creamy cocoa butter, warm vanilla, and soft cashmere musk—creating a smooth, soothing ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of warmth and sophistication to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:10Z
+  Updated: 2025-11-19T17:32:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2770,9 +2770,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cocoa-butter-cashmere-original-candle?variant=42443954028625)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Chocolate Fudge Brownie Original Candle](https://affinatiliving.com/products/chocolate-fudge-brownie-original-candle): Chocolate Fudge Brownie Original Candle – 10 oz Indulge your senses with the rich, decadent aroma of our Chocolate Fudge Brownie Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The mouthwatering scent blends gooey chocolate, warm fudge, and a hint of vanilla—just like a batch of brownies fresh from the oven. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, dessert-inspired atmosphere that satisfies your sweet tooth without the calories. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:09Z
+  Updated: 2025-11-19T17:32:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2785,9 +2785,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/chocolate-fudge-brownie-original-candle?variant=42443952914513)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Midnight Ember Original Candle](https://affinatiliving.com/products/midnight-ember-original-candle): Midnight Ember Original Candle – 10 oz Set the mood with the smoldering allure of our Midnight Ember Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a smooth, clean burn. The fragrance combines smoky woods, soft spice, and a touch of amber to create a warm, mysterious ambiance perfect for quiet evenings or cozy nights in. Scented strongly to fill your space with lasting fragrance. Perfect for adding depth and warmth to any room with a rich, fire-kissed aroma. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:09Z
+  Updated: 2025-11-19T17:32:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2800,9 +2800,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/midnight-ember-original-candle?variant=42443952586833)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Fresh Cut Grass Original Candle](https://affinatiliving.com/products/fresh-cut-grass-original-candle): Fresh Cut Grass Original Candle – 10 oz Bring the outdoors in with the crisp, green scent of our Fresh Cut Grass Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance captures the clean, earthy aroma of freshly mowed grass on a sunny day—bright, uplifting, and naturally refreshing. Scented strongly to fill your space with lasting fragrance. Perfect for creating a clean, energizing atmosphere that evokes the freshness of spring and summer. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:09Z
+  Updated: 2025-11-19T17:32:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2815,9 +2815,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-cut-grass-original-candle?variant=42443952357457)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Christmas Cookies Original Candle](https://affinatiliving.com/products/christmas-cookies-original-candle): Christmas Cookies Original Candle – 10 oz Bring the joy of the holidays into your home with our Christmas Cookies Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends warm sugar cookies, creamy vanilla, and a hint of buttery dough—just like fresh-baked treats straight from the oven. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, festive atmosphere that smells like holiday cheer. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:09Z
+  Updated: 2025-11-19T17:32:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2830,9 +2830,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/christmas-cookies-original-candle?variant=42443951997009)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Banana Creme Pie Original Candle](https://affinatiliving.com/products/banana-creme-pie-original-candle): Banana Crème Pie Original Candle – 10 oz Treat your space to the sweet, bakery-fresh scent of our Banana Crème Pie Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features creamy banana, buttery pie crust, and a swirl of vanilla custard—capturing the essence of a homemade dessert straight from the oven. Scented strongly to fill your space with lasting fragrance. Perfect for creating a warm, inviting atmosphere that feels deliciously comforting. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:08Z
+  Updated: 2025-11-19T17:32:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2845,9 +2845,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/banana-creme-pie-original-candle?variant=42443951800401)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Autumn Breeze Original Candle](https://affinatiliving.com/products/autumn-breeze-original-candle): Autumn Breeze Original Candle – 10 oz Capture the crisp, comforting essence of fall with our Autumn Breeze Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends cool air, golden leaves, and hints of apple, cedar, and warm spice to create a refreshing yet cozy seasonal aroma. Scented strongly to fill your space with lasting fragrance. Perfect for bringing the beauty of autumn indoors—no matter the time of year. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:08Z
+  Updated: 2025-11-19T17:32:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2860,9 +2860,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/autumn-breeze-original-candle?variant=42443950850129)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Tobacco Vanilla Original Candle](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1): Tobacco Vanilla Original Candle – 10 oz Experience refined warmth with our Tobacco Vanilla Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The fragrance is a rich blend of warm tobacco leaf and creamy vanilla, accented by subtle notes of spice and dried fruit for a bold yet comforting aroma. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, sophisticated atmosphere that’s smooth, deep, and inviting. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:08Z
+  Updated: 2025-11-19T17:32:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2875,9 +2875,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/tobacco-vanilla-original-candle-1?variant=42443949211729)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Bouquet of Roses Original Candle](https://affinatiliving.com/products/bouquet-of-roses-original-candle): Bouquet of Roses Original Candle – 10 oz Surround yourself with timeless elegance and romance with our Bouquet of Roses Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features fresh-cut rose petals layered with soft green stems and a hint of powdery musk, creating a graceful and floral ambiance. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of classic beauty and floral charm to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:08Z
+  Updated: 2025-11-19T17:32:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2890,9 +2890,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/bouquet-of-roses-original-candle?variant=42443946426449)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Bonfire Original Candle](https://affinatiliving.com/products/bonfire-original-candle): Bonfire Original Candle – 10 oz Ignite the cozy charm of cool nights and crackling flames with our Bonfire Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The scent blends smoky woods, glowing embers, and a hint of toasted marshmallow to capture the essence of a warm fire under the stars. Scented strongly to fill your space with lasting fragrance. Perfect for creating a rustic, comforting atmosphere that brings the bonfire experience indoors. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:07Z
+  Updated: 2025-11-19T17:32:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2905,9 +2905,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/bonfire-original-candle?variant=42443945803857)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Ocean Breeze Original Candle](https://affinatiliving.com/products/ocean-breeze-original-candle-1): Ocean Breeze Original Candle – 10 oz Refresh your space with the clean, uplifting scent of our Ocean Breeze Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a smooth, even burn. The fragrance captures the essence of salty sea air, crashing waves, and sun-drenched coastal winds with notes of marine mist, citrus, and driftwood. Scented strongly to fill your space with lasting fragrance. Perfect for creating a light, airy atmosphere that brings a breath of the ocean into any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:07Z
+  Updated: 2025-11-19T17:32:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2920,9 +2920,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/ocean-breeze-original-candle-1?variant=42443945541713)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Amber Noir Original Candle](https://affinatiliving.com/products/amber-noir-original-candle): Amber Noir Original Candle – 10 oz Wrap your space in the deep, sultry scent of our Amber Noir Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends warm amber, rich musk, and soft florals for a seductive and luxurious aroma that adds depth and elegance to any room. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, mysterious ambiance that’s both bold and refined. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:07Z
+  Updated: 2025-11-19T17:32:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2935,9 +2935,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/amber-noir-original-candle?variant=42443944558673)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Blue Spruce Original Candle](https://affinatiliving.com/products/blue-spruce-original-candle): Blue Spruce Original Candle – 10 oz Bring the crisp freshness of the outdoors into your home with our Blue Spruce Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance features cool evergreen notes, hints of cedarwood, and a touch of citrus—evoking the scent of a snowy forest and freshly cut pine. Scented strongly to fill your space with lasting fragrance. Perfect for creating a clean, wintery atmosphere that feels refreshing and grounded year-round. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:07Z
+  Updated: 2025-11-19T17:32:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2950,9 +2950,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/blue-spruce-original-candle?variant=42443941544017)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Cotton Candy Original Candle](https://affinatiliving.com/products/cotton-candy-original-candle): Cotton Candy Original Candle – 10 oz Add a playful twist to your space with the sweet scent of our Cotton Candy Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance swirls together notes of spun sugar, pink berry, and soft vanilla to create a lighthearted, nostalgic aroma that delights the senses. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a fun, whimsical vibe to any room—anytime you need a little sweetness. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:05Z
+  Updated: 2025-11-19T17:32:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2965,9 +2965,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cotton-candy-original-candle?variant=42443941412945)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Apple Spice Original Candle](https://affinatiliving.com/products/apple-spice-original-candle): Apple Spice Original Candle – 10 oz Embrace the essence of fall with our Apple Spice Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a smooth, clean burn. The fragrance features crisp orchard apples blended with warm cinnamon, clove, and nutmeg—delivering a spiced aroma that’s both cozy and uplifting. Scented strongly to fill your space with lasting fragrance. Perfect for creating a warm, seasonal atmosphere that feels like autumn in every room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:05Z
+  Updated: 2025-11-19T17:32:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2980,9 +2980,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-spice-original-candle?variant=42443940986961)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Apple Pie Original Candle](https://affinatiliving.com/products/apple-pie-original-candle): Apple Pie Original Candle – 10 oz Fill your home with the cozy, nostalgic scent of our Apple Pie Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance captures the essence of a freshly baked pie with notes of warm apples, cinnamon spice, buttery crust, and a touch of vanilla. Scented strongly to fill your space with lasting fragrance. Perfect for creating a comforting, homey atmosphere that feels like fall all year long. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:05Z
+  Updated: 2025-11-19T17:32:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -2995,9 +2995,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-pie-original-candle?variant=42443940790353)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Coconut Dream Original Candle](https://affinatiliving.com/products/coconut-dream-original-candle): Coconut Dream Original Candle – 10 oz Drift into serenity with the lush, tropical scent of our Coconut Dream Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made with a premium soy wax blend for a clean, even burn. The fragrance blends creamy coconut, sweet vanilla, and a hint of island florals to create a dreamy, vacation-like escape. Scented strongly to fill your space with lasting fragrance. Perfect for bringing a soft, beachy calm to any room—any time of year. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:05Z
+  Updated: 2025-11-19T17:32:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3010,9 +3010,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coconut-dream-original-candle?variant=42443940495441)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Coconut Flakes Original Candle](https://affinatiliving.com/products/coconut-flakes-original-candle): Coconut Flakes Original Candle – 10 oz Escape to a tropical getaway with our Coconut Flakes Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a clean, even burn. The fragrance blends creamy coconut milk, toasted coconut flakes, and a hint of vanilla, creating a soft, beachy aroma that soothes and delights. Scented strongly to fill your space with lasting fragrance. Perfect for adding a warm, coastal vibe to any room—no matter the season. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:04Z
+  Updated: 2025-11-19T17:32:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3025,9 +3025,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coconut-flakes-original-candle?variant=42443939774545)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Black Cherry Original Candle](https://affinatiliving.com/products/black-cherry-original-candle): Black Cherry Original Candle – 10 oz Indulge in the bold, fruity aroma of our Black Cherry Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a smooth, even burn. The rich fragrance combines juicy black cherries with hints of dark plum and soft vanilla, creating a sweet yet sophisticated scent. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of vibrant warmth and elegance to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:04Z
+  Updated: 2025-11-19T17:32:44Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3040,9 +3040,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-cherry-original-candle?variant=42443939381329)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Candy Corn Original Candle](https://affinatiliving.com/products/candy-corn-original-candle): Candy Corn Original Candle – 10 oz Celebrate the sweetness of the season with our Candy Corn Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The nostalgic scent blends creamy vanilla, buttery caramel, and a hint of honey for a deliciously playful aroma. Scented strongly to fill your space with lasting fragrance. Perfect for adding a festive, candy-sweet touch to your fall decor or Halloween celebrations. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:04Z
+  Updated: 2025-11-19T17:32:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3055,9 +3055,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/candy-corn-original-candle?variant=42443938299985)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Cider Lane Original Candle](https://affinatiliving.com/products/cider-lane-original-candle): Cider Lane Original Candle – 10 oz Experience the warmth of autumn with our Cider Lane Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a clean, consistent burn. The scent captures the essence of the season with notes of crisp apple cider, rich caramel, and a touch of cinnamon spice. Scented strongly to fill your space with lasting fragrance. Perfect for creating a cozy, inviting atmosphere that feels like fall in a jar. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:04Z
+  Updated: 2025-11-19T17:32:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3070,97 +3070,97 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cider-lane-original-candle?variant=42443933876305)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Coconut Flakes Signature Candle](https://affinatiliving.com/products/coconut-flakes-signature-candle): Escape to a tropical paradise with the Coconut Flakes Signature Candle—10 oz of creamy coconut aroma in a clean-burning soy wax jar. Light freedom.
-  Updated: 2025-11-18T01:58:34Z
+  Updated: 2025-11-19T17:38:48Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/930C6FE3-FAF4-4C0B-8EDD-79ED56E0C5FD.png?v=1747393609
   - [Single Order](https://affinatiliving.com/products/coconut-flakes-signature-candle?variant=42442362978385)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/coconut-flakes-signature-candle?variant=42442363011153)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coconut-flakes-signature-candle?variant=42442363043921)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Cotton Candy Signature Candle](https://affinatiliving.com/products/cotton-candy-signature-candle): Bring sweet nostalgia to your home with our 10 oz Cotton Candy Signature Candle—hand-poured soy wax, clean-burning, and irresistibly fragrant. Shop now.
-  Updated: 2025-11-18T01:58:35Z
+  Updated: 2025-11-19T17:38:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/B0FAFA42-50A8-463E-9F0D-CAE23722BC3C.png?v=1747393647
   - [Single Order](https://affinatiliving.com/products/cotton-candy-signature-candle?variant=42442361405521)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/cotton-candy-signature-candle?variant=42442361438289)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/cotton-candy-signature-candle?variant=42442361471057)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Apple Cider Signature Candle](https://affinatiliving.com/products/apple-cider-signature-candle): Sip into the season with Apple Cider. This 10 oz soy candle features fresh apple, warm spice, and a hint of sweetness for the perfect autumn vibe.
-  Updated: 2025-11-18T01:58:43Z
+  Updated: 2025-11-19T17:38:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5385.png?v=1747393678
   - [Single Order](https://affinatiliving.com/products/apple-cider-signature-candle?variant=42442360324177)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/apple-cider-signature-candle?variant=42442360356945)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-cider-signature-candle?variant=42442360389713)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Apple Spice Signature Candle](https://affinatiliving.com/products/apple-spice-signature-candle): Bring home the warmth of fall. The Apple Spice candle blends crisp apples, cinnamon, and clove in a cozy 10 oz clean-burning soy wax jar.
-  Updated: 2025-11-18T01:58:43Z
+  Updated: 2025-11-19T17:38:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5386.png?v=1747393706
   - [Single Order](https://affinatiliving.com/products/apple-spice-signature-candle?variant=42464803618897)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/apple-spice-signature-candle?variant=42464803651665)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-spice-signature-candle?variant=42464803684433)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Black Cherry Signature Candle](https://affinatiliving.com/products/black-cherry-signature-candle): Fill your space with bold, juicy aroma. Our Black Cherry candle features ripe cherries and vanilla in a clean-burning 10 oz soy wax blend.
-  Updated: 2025-11-18T01:58:35Z
+  Updated: 2025-11-19T17:38:47Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5387.png?v=1747393733
   - [Single Order](https://affinatiliving.com/products/black-cherry-signature-candle?variant=42442358390865)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/black-cherry-signature-candle?variant=42442358423633)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-cherry-signature-candle?variant=42442358456401)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [S’mores Signature Candle](https://affinatiliving.com/products/s-mores-signature-candle): Cozy up with the scent of campfire nights. Our S’mores candle blends graham cracker, melted marshmallow, and rich chocolate in a clean 10 oz soy jar.
-  Updated: 2025-11-18T01:58:35Z
+  Updated: 2025-11-19T17:38:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-5388.png?v=1747394144
   - [Single Order](https://affinatiliving.com/products/s-mores-signature-candle?variant=42442357243985)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/s-mores-signature-candle?variant=42442357276753)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/s-mores-signature-candle?variant=42442357309521)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Pineapple Margarita's Candle](https://affinatiliving.com/products/3-wick-pineapple-margaritas-candle): Shop our XL Pineapple Margarita Candle – 3-wick, long-lasting, and strong scented. Perfect for summer parties, gifting, or a zesty tropical escape at home.
   Updated: 2025-11-15T18:48:14Z
   Vendor: Affinati
@@ -3207,7 +3207,7 @@
     Availability: Available
     Price: $99.95 USD
 - [Coffee Shop Original Candle](https://affinatiliving.com/products/coffee-shop-original-candle): Coffee Shop Original Candle – 10 oz Fill your home with the rich, comforting aroma of our Coffee Shop Original Candle. Poured into a classic 10 oz glass tumbler, this candle is made from a premium soy wax blend for a clean, even burn. The fragrance combines freshly brewed coffee, creamy espresso, and subtle notes of roasted beans—evoking the cozy ambiance of your favorite café. Scented strongly to fill your space with lasting fragrance. Perfect for adding a warm, inviting coffeehouse vibe to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:03Z
+  Updated: 2025-11-19T17:32:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -3220,7 +3220,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coffee-shop-original-candle?variant=42443933057105)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Champagne Toast Candle](https://affinatiliving.com/products/3-wick-champagne-toast-candle): Celebrate any moment with the bubbly, fruity scent of Champagne Toast. This 3-wick candle blends sparkling citrus and berries for a bright, uplifting burn.
   Updated: 2025-11-19T12:55:24Z
   Vendor: Affinati
@@ -3312,20 +3312,20 @@
     Availability: Available
     Price: $99.95 USD
 - [Fresh Peaches Signature Candle](https://affinatiliving.com/products/fresh-peaches-signature-candle): Brighten any room with Fresh Peaches—juicy peach nectar in a clean-burning 10 oz soy candle. Summer vibes all year round—shop now
-  Updated: 2025-11-18T01:58:35Z
+  Updated: 2025-11-19T17:38:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageJun3_2025_09_54_29AM.png?v=1748958989
   - [Single Order](https://affinatiliving.com/products/fresh-peaches-signature-candle?variant=42473899556945)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/fresh-peaches-signature-candle?variant=42473899589713)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/fresh-peaches-signature-candle?variant=42473899622481)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Cactus & Sea Salt Candle](https://affinatiliving.com/products/3-wick-cactus-sea-salt-candle): Refresh your home with the Cactus and Sea Salt 3-Wick Candle. A 17 oz soy candle with a clean, coastal fragrance of cactus greens, sea salt, and ocean air. Long-lasting burn and luxury design.
   Updated: 2025-11-19T12:52:10Z
   Vendor: Affinati
@@ -4152,35 +4152,35 @@
     Availability: Available
     Price: $24.95 USD
 - [White Christmas Signature Candle](https://affinatiliving.com/products/white-christmas-signature-candle): Bring the magic of the holidays home with our White Christmas Luxury Soy Candle. Clean-burning soy wax with notes of pine, frosted berries, and vanilla creates a cozy, festive atmosphere all season long
-  Updated: 2025-11-18T01:58:42Z
+  Updated: 2025-11-19T17:38:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_3_2025_at_10_43_34_AM.png?v=1759502640
   - [Single Order](https://affinatiliving.com/products/white-christmas-signature-candle?variant=58255328542801)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/white-christmas-signature-candle?variant=58255328575569)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/white-christmas-signature-candle?variant=58255328608337)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Hot Chocolate Signature Candle](https://affinatiliving.com/products/hot-chocolate-signature-candle): Warm up your home with our Hot Chocolate Signature Candle. A soy wax blend with rich cocoa, vanilla, and milk notes for a cozy, inviting winter fragrance.
-  Updated: 2025-11-18T01:58:37Z
+  Updated: 2025-11-19T17:38:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageOct3_2025at10_53_47AM.png?v=1759503585
   - [Single Order](https://affinatiliving.com/products/hot-chocolate-signature-candle?variant=58255343190097)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/hot-chocolate-signature-candle?variant=58255343222865)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/hot-chocolate-signature-candle?variant=58255343255633)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Eucalyptus Tea Room Spray](https://affinatiliving.com/products/eucalyptus-tea-room-spray): Refresh your space with our Eucalyptus Tea Room & Linen Spray. Non-toxic, long-lasting, and delicately scented with eucalyptus, white tea, and citrus for everyday luxury.
   Updated: 2025-11-15T17:39:08Z
   Vendor: Affinati
@@ -4293,20 +4293,20 @@
     Availability: Available
     Price: $99.95 USD
 - [Peppermint Swirl Signature Candle](https://affinatiliving.com/products/peppermint-swirl-signature-candle): Experience the festive sweetness of our Peppermint Swirl Signature Candle. A refreshing blend of cool peppermint and creamy vanilla for a cozy, candy-cane holiday aroma.
-  Updated: 2025-11-18T01:58:37Z
+  Updated: 2025-11-19T17:38:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_5_2025_at_03_31_51_PM.png?v=1759693019
   - [Single Order](https://affinatiliving.com/products/peppermint-swirl-signature-candle?variant=58261339111505)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/peppermint-swirl-signature-candle?variant=58261339144273)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/peppermint-swirl-signature-candle?variant=58261339177041)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Clean Cotton Candle](https://affinatiliving.com/products/3-wick-clean-cotton-candle): Breathe in freshness with Affinati’s Clean Cotton 3-Wick Candle. This 17 oz soy-wax candle fills your home with the crisp scent of freshly washed linens and soft white musk for a clean, uplifting atmosphere.
   Updated: 2025-11-19T12:31:27Z
   Vendor: Affinati
@@ -4323,20 +4323,20 @@
     Availability: Available
     Price: $99.95 USD
 - [Clean Cotton Signature Candle](https://affinatiliving.com/products/clean-cotton-signature-candle): Brighten your home with Affinati’s Clean Cotton Signature Candle. This 10 oz soy-wax candle captures the scent of freshly washed linens and soft white musk for a clean, airy fragrance that lasts.
-  Updated: 2025-11-18T01:58:37Z
+  Updated: 2025-11-19T17:38:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_7_2025_11_06_40_AM.png?v=1759849637
   - [Single Order](https://affinatiliving.com/products/clean-cotton-signature-candle?variant=58265280839761)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/clean-cotton-signature-candle?variant=58265280872529)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/clean-cotton-signature-candle?variant=58265280905297)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Affinati Luxury Matches | Elegant White Matchbox for Candles & Décor](https://affinatiliving.com/products/affinati-luxury-matches-elegant-white-matchbox-for-candles-decor): Light your candles in style with Affinati Luxury Matches — a sleek white matchbox featuring the signature Affinati logo. Minimal, refined, and perfect for gifting or display.
   Updated: 2025-11-15T15:59:26Z
   Vendor: Affinati
@@ -4655,7 +4655,7 @@
     Availability: Available
     Price: $99.95 USD
 - [Pumpkin Pie Signature Candle](https://affinatiliving.com/products/pumpkin-pie-signature-candle): Warm up your home with the comforting aroma of pumpkin pie. This 10 oz soy-blend candle fills the air with creamy pumpkin, buttery crust, and cinnamon spice for a cozy fall glow. Perfect for autumn décor or seasonal gifting.
-  Updated: 2025-11-18T01:58:37Z
+  Updated: 2025-11-19T17:38:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4665,42 +4665,42 @@
     Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/pumpkin-pie-signature-candle?variant=58275874930769)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-pie-signature-candle?variant=58275874963537)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Pumpkin Cheesecake Signature Candle](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle): Delight your senses with our Pumpkin Cheesecake Candle — a creamy blend of spiced pumpkin, vanilla, and brown sugar in a 10 oz soy-wax jar. The perfect indulgent fall fragrance.
-  Updated: 2025-11-18T01:58:38Z
+  Updated: 2025-11-19T17:38:45Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_11_2025_at_08_22_05_PM.png?v=1760228571
   - [Single Order](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle?variant=58275876601937)
     Availability: Available
-    Price: $17.95 USD
+    Price: $16.95 USD
   - [Pack of 3](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle?variant=58275876634705)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-cheesecake-signature-candle?variant=58275876667473)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Candied Yams Signature Candle](https://affinatiliving.com/products/candied-yams-signature-candle): Wrap your space in the sweet warmth of Candied Yams. This 10 oz soy-blend candle combines brown sugar, spiced sweet potato, and vanilla for a cozy, nostalgic holiday scent.
-  Updated: 2025-11-18T01:58:38Z
+  Updated: 2025-11-19T17:38:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_11_2025_at_08_17_39_PM.png?v=1760228742
   - [Single Order](https://affinatiliving.com/products/candied-yams-signature-candle?variant=58275877191761)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/candied-yams-signature-candle?variant=58275877224529)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/candied-yams-signature-candle?variant=58275877257297)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Pumpkin Pie Original Candle](https://affinatiliving.com/products/pumpkin-pie-original-candle): Embrace fall with our Pumpkin Pie Candle. A soy-blend 10 oz candle featuring creamy pumpkin, buttery crust, and cinnamon spice for the perfect cozy autumn scent.
-  Updated: 2025-11-17T21:24:03Z
+  Updated: 2025-11-19T17:32:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4713,9 +4713,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-pie-original-candle?variant=58275887087697)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Candied Yams Original Candle](https://affinatiliving.com/products/candied-yams-original-candle): Cozy up with Candied Yams. This 10 oz soy candle blends brown sugar, baked sweet potato, and vanilla for a nostalgic, heartwarming holiday scent.
-  Updated: 2025-11-17T21:24:03Z
+  Updated: 2025-11-19T17:32:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4728,9 +4728,9 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/candied-yams-original-candle?variant=58275887644753)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Pumpkin Cheesecake Original Candle](https://affinatiliving.com/products/pumpkin-cheesecake-original-candle): Enjoy the rich aroma of Pumpkin Cheesecake. This 10 oz soy-blend candle combines spiced pumpkin, vanilla, and cream cheese for a warm, bakery-fresh fall fragrance.
-  Updated: 2025-11-17T21:24:03Z
+  Updated: 2025-11-19T17:32:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4743,7 +4743,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-cheesecake-original-candle?variant=58275893313617)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Affinati Wick Trimmer – Premium Stainless Steel Candle Accessory](https://affinatiliving.com/products/affinati-wick-trimmer-premium-stainless-steel-candle-accessory-1): Maintain a perfect candle burn with the Affinati Wick Trimmer. Crafted from premium stainless steel, this precision wick cutter prevents soot and extends candle life — a luxury essential for every candle lover.
   Updated: 2025-11-07T20:35:51Z
   Vendor: Affinati
@@ -4890,37 +4890,37 @@
     Availability: Available
     Price: $99.95 USD
 - [Champagne Toast Signature Candle](https://affinatiliving.com/products/champagne-toast-signature-candle): Add sparkle to your space with the Affinati Champagne Toast Signature Candle. A blend of bubbly champagne, sugared berries, and nectarine creates a joyful, effervescent scent.
-  Updated: 2025-11-18T01:58:38Z
+  Updated: 2025-11-19T17:38:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_19_2025_at_07_22_41_AM.png?v=1760872974
   - [Single Order](https://affinatiliving.com/products/champagne-toast-signature-candle?variant=58296813256785)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/champagne-toast-signature-candle?variant=58296813289553)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/champagne-toast-signature-candle?variant=58296813322321)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Apple Cinnamon Signature Candle](https://affinatiliving.com/products/apple-cinnamon-signature-candle): Bring home the warmth of the season with our Apple Cinnamon Signature Candle. Crisp apples and spiced cinnamon create a cozy, inviting aroma perfect for any autumn evening.
-  Updated: 2025-11-18T01:58:43Z
+  Updated: 2025-11-19T17:38:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_19_2025_at_08_42_05_AM.png?v=1760877753
   - [Single Order](https://affinatiliving.com/products/apple-cinnamon-signature-candle?variant=58296955928657)
     Availability: Not Available
-    Price: $17.95 USD
+    Price: $16.95 USD
   - [Pack of 3](https://affinatiliving.com/products/apple-cinnamon-signature-candle?variant=58296955961425)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-cinnamon-signature-candle?variant=58296955994193)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Apple Cinnamon Original Candle](https://affinatiliving.com/products/apple-cinnamon-original-candle): Fill your home with the cozy aroma of crisp apples and warm cinnamon. The Affinati Apple Cinnamon Original Candle (10 oz) delivers a rich, comforting scent and a clean, even burn—perfect for creating a festive, inviting atmosphere year-round.
-  Updated: 2025-11-17T21:24:02Z
+  Updated: 2025-11-19T17:32:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4933,7 +4933,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/apple-cinnamon-original-candle?variant=58297035882577)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Black Coffee Candle](https://affinatiliving.com/products/3-wick-black-coffee-candle): Indulge in the bold aroma of our Black Coffee 3-Wick Candle. Crafted with a premium soy wax blend, this 17 oz candle blends rich espresso, roasted beans, and creamy vanilla for a warm, invigorating scent that fills your home with pure sophistication.
   Updated: 2025-11-14T16:46:47Z
   Vendor: Affinati
@@ -4950,37 +4950,37 @@
     Availability: Available
     Price: $99.95 USD
 - [Black Coffee Signature Candle](https://affinatiliving.com/products/black-coffee-signature-candle): Awaken your home with the rich aroma of our Black Coffee Signature Candle. Crafted with a premium soy wax blend, this 10 oz candle blends espresso, roasted beans, and vanilla cream for a warm, invigorating fragrance that lasts.
-  Updated: 2025-11-18T01:58:38Z
+  Updated: 2025-11-19T17:38:43Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_20_2025_at_10_39_14_PM.png?v=1761014610
   - [Single Order](https://affinatiliving.com/products/black-coffee-signature-candle?variant=58301255974993)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/black-coffee-signature-candle?variant=58301256007761)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/black-coffee-signature-candle?variant=58301256040529)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Smoked Vanilla Signature Candle](https://affinatiliving.com/products/smoked-vanilla-signature-candle): Indulge in the rich, smoky elegance of our Smoked Vanilla Signature Candle. Crafted with a premium soy wax blend, it blends warm vanilla, amber, and smoked wood for a cozy, luxurious aroma that fills your home with lasting fragrance.
-  Updated: 2025-11-18T01:58:39Z
+  Updated: 2025-11-19T17:38:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Oct_21_2025_03_06_44_PM.png?v=1761073773
   - [Single Order](https://affinatiliving.com/products/smoked-vanilla-signature-candle?variant=58303589646417)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/smoked-vanilla-signature-candle?variant=58303589679185)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/smoked-vanilla-signature-candle?variant=58303589711953)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Smoked Vanilla Original Candle](https://affinatiliving.com/products/smoked-vanilla-original-candle): Smoked Vanilla Original Candle – 10 oz Indulge in the smooth, luxurious aroma of our Smoked Vanilla Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a clean, even burn. The refined fragrance layers warm vanilla bean with notes of smoked woods and soft amber, creating a comforting yet sophisticated scent that lingers beautifully in the air. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of cozy elegance and understated luxury to any room. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:02Z
+  Updated: 2025-11-19T17:32:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -4993,7 +4993,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/smoked-vanilla-original-candle?variant=58303604621393)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Birthday Cake Candle](https://affinatiliving.com/products/3-wick-birthday-cake-candle): Celebrate every day with the sweet aroma of our Birthday Cake 3-Wick Candle. Made with a premium soy wax blend, it features notes of vanilla frosting, buttery cake, and sugar for a warm, festive fragrance that fills your home with joy.
   Updated: 2025-11-14T16:46:45Z
   Vendor: Affinati
@@ -5010,22 +5010,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Birthday Cake Signature Candle](https://affinatiliving.com/products/birthday-cake-signature-candle): Indulge in the sweet scent of celebration with our Birthday Cake Signature Candle. Crafted from a premium soy wax blend, it blends vanilla frosting, buttery cake, and sugar sprinkles for a cozy, joyful fragrance that fills your home with warmth.
-  Updated: 2025-11-18T01:58:39Z
+  Updated: 2025-11-19T17:38:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPTImageOct22_2025_10_12_31AM.png?v=1761142371
   - [Single Order](https://affinatiliving.com/products/birthday-cake-signature-candle?variant=58306024144977)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/birthday-cake-signature-candle?variant=58306024177745)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/birthday-cake-signature-candle?variant=58306024210513)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Birthday Cake Original Candle](https://affinatiliving.com/products/birthday-cake-original-candle): Birthday Cake Original Candle – 10 oz Celebrate life’s sweetest moments with our Birthday Cake Original Candle. Poured into a classic 10 oz glass tumbler and crafted from a premium soy wax blend, it ensures a clean, even burn every time. The fragrance combines rich vanilla frosting, buttery cake, and a touch of sugar crystals—creating a warm, nostalgic aroma that feels like a slice of celebration in every burn. Scented strongly to fill your home with lasting fragrance. Perfect for adding a joyful, dessert-inspired touch to any space—because every day deserves to feel special. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:24:02Z
+  Updated: 2025-11-19T17:32:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5038,7 +5038,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/birthday-cake-original-candle?variant=58306046787665)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Midnight Oak Wooden Wick Candle – Luxury 21 oz Soy Blend | Affinati](https://affinatiliving.com/products/midnight-oak): Experience the refined warmth of the Midnight Oak Wooden Wick Candle by Affinati. This 21 oz soy-blend candle features aged oak, smoked cedar, and amber notes with a crackling wooden wick for a rich, fireside ambiance. A bold, sophisticated fragrance for modern, refined living.
   Updated: 2025-11-15T17:41:42Z
   Vendor: Affinati
@@ -5767,7 +5767,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/shipping-protection-v2.png?v=1761425387
   Price: $2.95 USD
 - [Peppermint Swirl Original Candle](https://affinatiliving.com/products/peppermint-swirl-original-candle): Delight in the festive freshness of our Peppermint Swirl Original Candle. This 10 oz soy-blend candle blends cool peppermint, creamy vanilla, and spun sugar for a smooth, long-lasting holiday aroma. Perfect for adding cozy, minty warmth to any space.
-  Updated: 2025-11-17T21:24:02Z
+  Updated: 2025-11-19T17:32:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5780,7 +5780,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/peppermint-swirl-original-candle?variant=58323989069905)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Hawaiian Hibiscus Candle](https://affinatiliving.com/products/3-wick-hawaiian-hibiscus-candle): Experience tropical bliss with the Hawaiian Hibiscus 3-Wick Candle from Affinati. Hand-poured with a premium soy wax blend, this vibrant floral candle fills your home with notes of hibiscus, coconut, and sun-kissed citrus for a clean, long-lasting burn.
   Updated: 2025-11-14T16:46:45Z
   Vendor: Affinati
@@ -5897,37 +5897,37 @@
     Availability: Available
     Price: $99.95 USD
 - [Coconut Dream Signature Candle](https://affinatiliving.com/products/coconut-dream-signature-candle): Unwind with the Affinati Coconut Dream Signature Candle. A blend of creamy coconut milk, soft vanilla, and island blossom creates a soothing tropical escape with a clean, even burn.
-  Updated: 2025-11-18T01:58:39Z
+  Updated: 2025-11-19T17:38:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_1_2025_at_06_46_10_AM.png?v=1761994280
   - [Single Order](https://affinatiliving.com/products/coconut-dream-signature-candle?variant=58339627434065)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/coconut-dream-signature-candle?variant=58339627466833)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/coconut-dream-signature-candle?variant=58339627499601)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Chocolate Element Signature Candle](https://affinatiliving.com/products/chocolate-element-signature-candle): Indulge in pure decadence with the Chocolate Element Signature Candle. Crafted from a premium soy wax blend, it fills your home with the rich, comforting scent of melted chocolate and vanilla cream for a cozy, luxurious experience.
-  Updated: 2025-11-18T01:58:39Z
+  Updated: 2025-11-19T17:38:42Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_1_2025_at_09_48_44_PM.png?v=1762048316
   - [Single Order](https://affinatiliving.com/products/chocolate-element-signature-candle?variant=58340981768273)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/chocolate-element-signature-candle?variant=58340981801041)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/chocolate-element-signature-candle?variant=58340981833809)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Chocolate Element Original Candle](https://affinatiliving.com/products/chocolate-element-original-candle): Indulge your senses with the Chocolate Element Original Candle by Affinati. A rich blend of cocoa, melted chocolate, and vanilla cream fills your home with decadent warmth and irresistible sweetness.
-  Updated: 2025-11-17T21:24:01Z
+  Updated: 2025-11-19T17:32:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5940,7 +5940,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/chocolate-element-original-candle?variant=58340982456401)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Chocolate Element Candle](https://affinatiliving.com/products/3-wick-chocolate-element-candle): ]Indulge your senses with the Affinati Chocolate Element 3-Wick Candle. Rich notes of cocoa and creamy chocolate blend beautifully in this soy-based candle for a clean, even burn and comforting aroma that fills any space with warmth and luxury.
   Updated: 2025-11-14T16:46:43Z
   Vendor: Affinati
@@ -5978,7 +5978,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/3611488E-F95A-45EC-BB11-64BF5E902185.png?v=1762090678
   Price: $17.95 USD
 - [Toasted Pumpkin Cream Original Candle](https://affinatiliving.com/products/toasted-pumpkin-cream-original-candle): Embrace the cozy aroma of our Toasted Pumpkin Cream Candle. Crafted with a premium soy wax blend, it fills your home with warm pumpkin, vanilla, and toasted spice for a comforting autumn ambiance.
-  Updated: 2025-11-17T21:24:01Z
+  Updated: 2025-11-19T17:32:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -5991,24 +5991,24 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/toasted-pumpkin-cream-original-candle?variant=58341690310737)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Toasted Pumpkin Cream Signature Candle](https://affinatiliving.com/products/toasted-pumpkin-cream-signature-candle): Fill your home with the cozy aroma of our Toasted Pumpkin Cream Candle. Hand-poured with a premium soy wax blend, it blends creamy pumpkin, vanilla, and toasted spice for a warm, comforting fall fragrance.
-  Updated: 2025-11-18T01:58:40Z
+  Updated: 2025-11-19T17:38:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_3_2025_at_11_38_05_PM.png?v=1762231174
   - [Single Order](https://affinatiliving.com/products/toasted-pumpkin-cream-signature-candle?variant=58344304083025)
     Availability: Available
-    Price: $17.95 USD
+    Price: $16.95 USD
   - [Pack of 3](https://affinatiliving.com/products/toasted-pumpkin-cream-signature-candle?variant=58344304115793)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/toasted-pumpkin-cream-signature-candle?variant=58344304148561)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Pumpkin Spice Latte Signature Candle](https://affinatiliving.com/products/pumpkin-spice-latte-signature-candle): Cozy up with our Pumpkin Spice Latte Signature Candle — a warm blend of pumpkin, espresso, vanilla, and cinnamon. Fill your home with the rich, comforting aroma of fall.
-  Updated: 2025-11-18T01:58:40Z
+  Updated: 2025-11-19T17:38:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6018,25 +6018,25 @@
     Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/pumpkin-spice-latte-signature-candle?variant=58344327708753)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/pumpkin-spice-latte-signature-candle?variant=58344327741521)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Autumn Breeze Signature Candle](https://affinatiliving.com/products/amber-breeze-signature-candle): Capture the essence of fall with our Autumn Breeze Candle. Hand-poured with natural soy wax, it blends crisp apple, warm cinnamon, and cedarwood for a fresh, cozy autumn fragrance.
-  Updated: 2025-11-18T01:58:40Z
+  Updated: 2025-11-19T17:38:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_4_2025_at_12_03_56_AM.png?v=1762232767
   - [Single Order](https://affinatiliving.com/products/amber-breeze-signature-candle?variant=58344349007953)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/amber-breeze-signature-candle?variant=58344349040721)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/amber-breeze-signature-candle?variant=58344349073489)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Saffron Cedarwood Reed Diffuser](https://affinatiliving.com/products/saffron-cedarwood-reed-diffuser): Fill your home with the warm, elegant scent of saffron and cedarwood. A rich, earthy diffuser for cozy, refined spaces.
   Updated: 2025-11-14T16:42:31Z
   Vendor: Affinati
@@ -6102,22 +6102,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Strawberry Shortcake Signature Candle](https://affinatiliving.com/products/strawberry-shortcake-signature-candle): Delight in the cozy sweetness of our Strawberry Shortcake Luxury Soy Candle. Hand-poured with premium soy wax, it fills your home with notes of ripe strawberries, vanilla cake, and whipped cream for a warm, bakery-fresh aroma.
-  Updated: 2025-11-18T01:58:40Z
+  Updated: 2025-11-19T17:38:41Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7431.png?v=1762465501
   - [Single Order](https://affinatiliving.com/products/strawberry-shortcake-signature-candle?variant=58351551021137)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/strawberry-shortcake-signature-candle?variant=58351551053905)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/strawberry-shortcake-signature-candle?variant=58351551086673)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Strawberry Shortcake Original Candle](https://affinatiliving.com/products/strawberry-shortcake-original-candle): Fill your home with the sweet aroma of our Strawberry Shortcake Original Candle. Hand-poured with a premium soy wax blend, it blends ripe strawberries, vanilla cake, and whipped cream for a cozy, bakery-fresh fragrance.
-  Updated: 2025-11-17T21:24:01Z
+  Updated: 2025-11-19T17:32:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6130,7 +6130,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/strawberry-shortcake-original-candle?variant=58351557443665)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Spiked Eggnog Candle](https://affinatiliving.com/products/3-wick-spiked-eggnog-candle): Cozy up with Affinati’s Spiked Egg Nog 3-Wick Candle—creamy vanilla, nutmeg, and spiced rum in a clean-burning soy wax blend that fills your home with festive, comforting holiday warmth.
   Updated: 2025-11-14T16:46:43Z
   Vendor: Affinati
@@ -6162,22 +6162,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Spiked Eggnog Signature Candle](https://affinatiliving.com/products/spiked-eggnog-signature-candle): Unwind with the Affinati Coconut Dream Signature Candle. A blend of creamy coconut milk, soft vanilla, and island blossom creates a soothing tropical escape with a clean, even burn.
-  Updated: 2025-11-18T01:58:41Z
+  Updated: 2025-11-19T17:38:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_7_2025_at_03_01_53_PM.png?v=1762545833
   - [Single Order](https://affinatiliving.com/products/spiked-eggnog-signature-candle?variant=58353129947217)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/spiked-eggnog-signature-candle?variant=58353129979985)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/spiked-eggnog-signature-candle?variant=58353130012753)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Spiked Eggnog Original Candle](https://affinatiliving.com/products/spiked-eggnog-original-candle): Fill your home with the festive aroma of our Spiked Eggnog Original Candle — a creamy blend of vanilla, nutmeg, cinnamon, and bourbon in a premium soy wax candle that brings cozy holiday warmth to every room.
-  Updated: 2025-11-17T21:24:01Z
+  Updated: 2025-11-19T17:32:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6190,7 +6190,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/spiked-eggnog-original-candle?variant=58353388519505)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Whipped Pistachio Candle](https://affinatiliving.com/products/3-wick-whipped-pistachio-candle): Indulge in the sweet, nutty aroma of our Whipped Pistachio 3-Wick Candle — a luxurious blend of creamy pistachio, vanilla, and almond in a premium soy wax candle that fills your home with cozy, irresistible warmth.
   Updated: 2025-11-15T17:41:49Z
   Vendor: Affinati
@@ -6207,22 +6207,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Whipped Pistachio Signature Candle](https://affinatiliving.com/products/whipped-pistachio-signature-candle): Indulge in the rich, nutty sweetness of our Whipped Pistachio Signature Candle — a creamy blend of pistachio, vanilla, and almond in a premium soy wax candle that fills your home with cozy, luxurious fragrance.
-  Updated: 2025-11-18T01:58:43Z
+  Updated: 2025-11-19T17:38:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_7_2025_at_04_08_13_PM.png?v=1762549702
   - [Single Order](https://affinatiliving.com/products/whipped-pistachio-signature-candle?variant=58353422041169)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/whipped-pistachio-signature-candle?variant=58353422073937)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/whipped-pistachio-signature-candle?variant=58353422106705)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Whipped Pistachio Original Candle](https://affinatiliving.com/products/whipped-pistachio-original-candle): Experience the indulgent aroma of roasted pistachios and vanilla cream with our Whipped Pistachio Soy Candle. Warm, creamy, and luxuriously inviting.
-  Updated: 2025-11-17T21:23:59Z
+  Updated: 2025-11-19T17:32:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6235,7 +6235,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/whipped-pistachio-original-candle?variant=58354820218961)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [40lb IGI 6006 Wax](https://affinatiliving.com/products/40lb-igi-6006-wax)
   Updated: 2025-11-18T20:27:20Z
   Vendor: Affinati
@@ -6339,10 +6339,10 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Green Jars (Pack of 12)](https://affinatiliving.com/products/3-wick-green-jars)
-  Updated: 2025-11-18T11:25:45Z
+  Updated: 2025-11-19T17:18:51Z
   Vendor: Affinati
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Price: $0.00 USD
 - [3-Wick Red Jars (12 Pack)](https://affinatiliving.com/products/3-wick-red-jars)
   Updated: 2025-11-14T00:55:47Z
@@ -6453,10 +6453,10 @@
   Availability: Available
   Price: $0.00 USD
 - [Packing Peanuts (5 Cubic Feet Bag)](https://affinatiliving.com/products/packing-peanuts-cubic-feet)
-  Updated: 2025-11-16T16:12:31Z
+  Updated: 2025-11-19T16:45:40Z
   Vendor: Affinati
   Product Type: 
-  Availability: Not Available
+  Availability: Available
   Price: $0.00 USD
 - [Mahogany Teakwood Reed Diffuser](https://affinatiliving.com/products/mahogany-teakwood-reed-diffuser): Elevate your space with Affinati’s Mahogany Teakwood Reed Diffuser. A luxurious blend of mahogany, teakwood, and cedar with hints of lavender and oak moss—crafted for long-lasting, flame-free fragrance and timeless sophistication.
   Updated: 2025-11-15T17:41:53Z
@@ -6488,20 +6488,20 @@
     Availability: Available
     Price: $99.95 USD
 - [Vanilla Sugar Signature Candle](https://affinatiliving.com/products/vanilla-sugar-signature-candle): Indulge in cozy elegance with Affinati’s Vanilla Sugar Signature Candle. A creamy blend of vanilla bean, amber, and whipped sugar hand-poured in soy wax for a warm, long-lasting, and refined fragrance experience.
-  Updated: 2025-11-18T01:58:41Z
+  Updated: 2025-11-19T17:38:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_09_22_00_AM.png?v=1762698143
   - [Single Order](https://affinatiliving.com/products/vanilla-sugar-signature-candle?variant=58356271841361)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/vanilla-sugar-signature-candle?variant=58356271874129)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/vanilla-sugar-signature-candle?variant=58356271906897)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Hazelnut Coffee Candle](https://affinatiliving.com/products/3-wick-hazelnut-coffee-candle): Indulge in warm hazelnut coffee aroma. This 3-wick soy candle fills your home with comforting notes of espresso, vanilla cream & caramel. By Affinati.
   Updated: 2025-11-15T17:41:59Z
   Vendor: Affinati
@@ -6518,20 +6518,20 @@
     Availability: Available
     Price: $99.95 USD
 - [Hazelnut Coffee Signature Candle](https://affinatiliving.com/products/hazelnut-coffee-signature-candle): Wake up to rich hazelnut and fresh coffee notes. This 10 oz soy candle fills your home with the warm, comforting scent of your favorite morning brew.
-  Updated: 2025-11-18T01:58:41Z
+  Updated: 2025-11-19T17:38:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_9_2025_at_09_53_23_AM.png?v=1762700013
   - [Single Order](https://affinatiliving.com/products/hazelnut-coffee-signature-candle?variant=58356291829841)
     Availability: Available
-    Price: $17.95 USD
+    Price: $16.95 USD
   - [Pack of 3](https://affinatiliving.com/products/hazelnut-coffee-signature-candle?variant=58356291862609)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/hazelnut-coffee-signature-candle?variant=58356291895377)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Signature Frosted Jars (12 pack)](https://affinatiliving.com/products/signature-frosted-jars)
   Updated: 2025-11-15T06:40:53Z
   Vendor: Affinati
@@ -6749,7 +6749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7599.png?v=1763167724
   Price: $17.95 USD
 - [Eucalyptus Pine Original Candle](https://affinatiliving.com/products/eucalyptus-pine-original-candle): Refresh your home with the crisp, natural aroma of our Eucalyptus Pine Original Candle. Hand-poured with a premium soy wax blend, this 10 oz candle delivers a clean, invigorating fragrance inspired by eucalyptus, pine needles, and cedar. Perfect for creating a calming, nature-inspired atmosphere. Burn time: 60–70 hours.
-  Updated: 2025-11-17T21:23:59Z
+  Updated: 2025-11-19T17:32:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6762,22 +6762,22 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/eucalyptus-pine-original-candle?variant=58381514375249)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Eucalyptus Pine Signature Candle](https://affinatiliving.com/products/eucalyptus-pine-signature-candle): Experience refreshing clarity with our Eucalyptus Pine Signature Candle. This 10 oz soy blend candle fills your space with crisp eucalyptus, pine needles, and cedarwood. Strongly scented, clean burning, and perfect for uplifting any room.
-  Updated: 2025-11-18T01:58:45Z
+  Updated: 2025-11-19T17:38:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7605.png?v=1763206470
   - [Single Order](https://affinatiliving.com/products/eucalyptus-pine-signature-candle?variant=58381516341329)
     Availability: Not Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/eucalyptus-pine-signature-candle?variant=58381516374097)
     Availability: Not Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/eucalyptus-pine-signature-candle?variant=58381516406865)
     Availability: Not Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [3-Wick Autumn Breeze Candle](https://affinatiliving.com/products/3-wick-autumn-breeze-candle): Embrace the comfort of fall with our Autumn Breeze 3-Wick Candle. This 17 oz soy wax blend fills your home with a soothing mix of crisp air, warm amber, soft woods, and spiced citrus. Clean-burning, richly scented, and perfect for creating a cozy autumn atmosphere.
   Updated: 2025-11-15T23:44:18Z
   Vendor: Affinati
@@ -6816,22 +6816,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Driftwood & Sea Salt Signature Candle](https://affinatiliving.com/products/driftwood-sea-salt-signature-candle): A clean, coastal 10 oz candle blending driftwood, sea salt, and soft marine minerals. Strongly scented, clean-burning, and perfect for refreshing any room.
-  Updated: 2025-11-18T01:58:41Z
+  Updated: 2025-11-19T17:38:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_15_2025_at_08_10_21_PM.png?v=1763255503
   - [Single Order](https://affinatiliving.com/products/driftwood-sea-salt-signature-candle?variant=58382856224849)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/driftwood-sea-salt-signature-candle?variant=58382856257617)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/driftwood-sea-salt-signature-candle?variant=58382856290385)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Driftwood & Sea Salt Original Candle](https://affinatiliving.com/products/driftwood-sea-salt-original-candle): Driftwood & Sea Salt Original Candle – 10 oz Transform your space with the crisp, coastal elegance of our Driftwood & Sea Salt Original Candle. Poured into a classic 10 oz glass tumbler, this candle is crafted from a premium soy wax blend for a smooth, clean burn. The refreshing fragrance blends sun-bleached driftwood with airy sea salt, soft coastal minerals, and a hint of ocean breeze—creating a light yet luxurious scent that brings clarity and calm to any room. Scented strongly to fill your space with lasting fragrance. Perfect for adding a touch of coastal serenity and refined freshness to any setting. Burn Time – 60–70 Hours
-  Updated: 2025-11-17T21:23:59Z
+  Updated: 2025-11-19T17:32:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6844,7 +6844,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/driftwood-sea-salt-original-candle?variant=58382891581521)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Driftwood & Sea Salt Room Spray](https://affinatiliving.com/products/driftwood-sea-salt-room-spray): Refresh any space with the clean, coastal scent of our Driftwood & Sea Salt Room & Linen Spray. This non-toxic 4 oz spray blends sea salt, driftwood, and soft coastal woods for a long-lasting, breezy fragrance that elevates linens, rooms, and everyday freshness.
   Updated: 2025-11-17T03:27:29Z
   Vendor: Affinati
@@ -6885,22 +6885,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Rustic Sandalwood Signature Candle](https://affinatiliving.com/products/rustic-sandalwood-signature-candle): Cozy and refined, the Rustic Sandalwood Signature Candle blends warm sandalwood, amber, and cedarwood in a clean-burning 10 oz soy wax candle. Perfect for adding inviting, wood-toned comfort to any room.
-  Updated: 2025-11-18T01:58:42Z
+  Updated: 2025-11-19T17:38:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_16_2025_at_06_25_25_PM.png?v=1763336000
   - [Single Order](https://affinatiliving.com/products/rustic-sandalwood-signature-candle?variant=58385195171921)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/rustic-sandalwood-signature-candle?variant=58385195204689)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/rustic-sandalwood-signature-candle?variant=58385195237457)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Rustic Sandalwood Original Candle](https://affinatiliving.com/products/rustic-sandalwood-original-candle): Experience warm, earthy elegance with our Rustic Sandalwood 10 oz Candle—rich sandalwood, amber, and soft woods for a cozy, refined home ambiance.
-  Updated: 2025-11-17T21:23:59Z
+  Updated: 2025-11-19T17:32:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6913,7 +6913,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/rustic-sandalwood-original-candle?variant=58385221845073)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [Lavender Vanilla Room Spray](https://affinatiliving.com/products/lavender-vanilla-room-spray): Refresh your home with the calming scent of Lavender Vanilla. This non-toxic 4 oz room & linen spray blends soothing lavender and creamy vanilla for a soft, long-lasting aroma perfect for linens, upholstery, and everyday freshness.
   Updated: 2025-11-18T01:10:57Z
   Vendor: Affinati
@@ -6979,22 +6979,22 @@
     Availability: Available
     Price: $99.95 USD
 - [Lavender Vanilla Signature Candle](https://affinatiliving.com/products/lavender-vanilla-signature-candle): Relax your home with the calming blend of fresh lavender and creamy vanilla. This 10 oz soy-blend signature candle offers a strong, long-lasting scent and a clean, even burn—perfect for creating a peaceful, cozy atmosphere in any room.
-  Updated: 2025-11-19T13:04:30Z
+  Updated: 2025-11-19T17:38:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/1701AECA-1FED-46F5-817C-6AA1904A7B27.png?v=1763557274
   - [Single Order](https://affinatiliving.com/products/lavender-vanilla-signature-candle?variant=58396375023697)
     Availability: Available
-    Price: $19.95 USD
+    Price: $17.95 USD
   - [Pack of 3](https://affinatiliving.com/products/lavender-vanilla-signature-candle?variant=58396375056465)
     Availability: Available
-    Price: $49.95 USD
+    Price: $44.95 USD
   - [Pack of 5](https://affinatiliving.com/products/lavender-vanilla-signature-candle?variant=58396375089233)
     Availability: Available
-    Price: $79.95 USD
+    Price: $72.95 USD
 - [Lavender Vanilla Original Candle](https://affinatiliving.com/products/lavender-vanilla-original-candle): Relax your space with the soothing blend of fresh lavender and creamy vanilla. This 10 oz soy-blend candle delivers a clean, even burn and a strong, long-lasting scent that adds a peaceful, cozy ambiance to any room.
-  Updated: 2025-11-19T13:06:43Z
+  Updated: 2025-11-19T17:32:38Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7007,7 +7007,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/lavender-vanilla-original-candle?variant=58396375777361)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 - [3-Wick Carrot Cake Candle](https://affinatiliving.com/products/3-wick-carrot-cake-candle): Fill your home with the warm, bakery-fresh aroma of spiced carrot cake, creamy vanilla frosting, and cozy cinnamon. This 17 oz 3-wick soy-blend candle delivers a strong, long-lasting scent and a clean, even burn—perfect for creating a deliciously inviting atmosphere.
   Updated: 2025-11-19T14:41:07Z
   Vendor: Affinati
@@ -7024,7 +7024,7 @@
     Availability: Available
     Price: $99.95 USD
 - [Carrot Cake Original Candle](https://affinatiliving.com/products/carrot-cake-original-candle): Fill your home with the warm, bakery-fresh aroma of spiced carrot cake, creamy vanilla frosting, and cozy cinnamon. This 10 oz soy-blend candle offers a clean, even burn and a strong, long-lasting scent—perfect for adding comforting, homemade sweetness to any room.
-  Updated: 2025-11-19T13:14:42Z
+  Updated: 2025-11-19T17:32:39Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7037,7 +7037,7 @@
     Price: $39.95 USD
   - [Pack of 5](https://affinatiliving.com/products/carrot-cake-original-candle?variant=58396376662097)
     Availability: Available
-    Price: $69.95 USD
+    Price: $64.95 USD
 
 ## Collections
 
@@ -7048,7 +7048,7 @@
   Updated: 2025-11-19T13:09:56Z
   Total Products: 79
 - [Signature Candles](https://affinatiliving.com/collections/signature-candles): Shop Affinati’s Signature Candle Collection — hand-poured soy candles crafted for long-lasting fragrance and elegant design. Elevate your home with luxury scents made for everyday moments.
-  Updated: 2025-11-19T13:02:44Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 58
 - [Whipped Soap](https://affinatiliving.com/collections/whipped-soap): Lather up with Affinati’s Whipped Soap Collection — creamy, cloud-like soaps that cleanse, hydrate, and leave skin silky smooth with long-lasting luxury fragrance.
   Updated: 2025-10-12T13:18:35Z
@@ -7072,13 +7072,13 @@
   Updated: 2025-08-09T16:35:09Z
   Total Products: 1
 - [Featured Collection](https://affinatiliving.com/collections/featured-collection)
-  Updated: 2025-11-17T12:10:17Z
+  Updated: 2025-11-19T17:38:52Z
   Total Products: 3
 - [Ceramic Candles](https://affinatiliving.com/collections/ceramic-candles)
   Updated: 2025-11-16T12:08:28Z
   Total Products: 3
 - [All Candle Collections](https://affinatiliving.com/collections/all-candle-collections): Shop Affinati’s full Candle Collection — from Wooden Wick and 3-Wick candles to Signature and Original designs. Hand-poured soy candles with long-lasting, luxury fragrance for every space.
-  Updated: 2025-11-19T13:14:18Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 281
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
   Updated: 2025-11-17T12:10:17Z
@@ -7090,7 +7090,7 @@
   Updated: 2025-11-17T12:10:17Z
   Total Products: 12
 - [Candles on Sale](https://affinatiliving.com/collections/candles-on-sale)
-  Updated: 2025-11-19T13:13:47Z
+  Updated: 2025-11-19T17:38:46Z
   Total Products: 23
 - [All Sale](https://affinatiliving.com/collections/all-sale)
   Updated: 2025-11-16T12:08:28Z
@@ -7108,49 +7108,49 @@
   Updated: 2025-11-16T12:08:28Z
   Total Products: 63
 - [Summer Candle Scents](https://affinatiliving.com/collections/summer-scents)
-  Updated: 2025-11-17T12:10:17Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 99
 - [Winter Candle Scents](https://affinatiliving.com/collections/winter-candle-scents)
-  Updated: 2025-11-19T13:13:47Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 110
 - [Fall Candle Scents](https://affinatiliving.com/collections/fall-candle-scents)
-  Updated: 2025-11-19T13:14:18Z
+  Updated: 2025-11-19T17:38:54Z
   Total Products: 111
 - [Spring Candle Scents](https://affinatiliving.com/collections/spring-candle-scents)
-  Updated: 2025-11-19T13:14:18Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 82
 - [Masculine Candle Scents](https://affinatiliving.com/collections/masculine-scents): Explore the Masculine Candle Collection — bold scents like Smoked Bourbon, Mahogany Teakwood, and Tobacco. Long-lasting 3-wick and wooden wick candles with rich, rugged aromas.
-  Updated: 2025-11-19T12:10:05Z
+  Updated: 2025-11-19T17:38:53Z
   Total Products: 56
 - [Fruity Candle Scents](https://affinatiliving.com/collections/fruity): Explore the Fruity Scents Collection — candles, diffusers, and room sprays in vibrant aromas like Strawberry Bliss, Blackberry Sage, and Coconut Flakes. Sweet, juicy, long-lasting fragrance for every room.
-  Updated: 2025-11-19T13:06:45Z
+  Updated: 2025-11-19T17:38:52Z
   Total Products: 58
 - [Nature Candle Scents](https://affinatiliving.com/collections/nature-candle-scents): Discover the Nature Candle Collection — fresh, earthy scents like Eucalyptus Tea, Driftwood & Sea Salt, and Blackberry Sage. Long-lasting candles inspired by the outdoors.
-  Updated: 2025-11-19T13:09:56Z
+  Updated: 2025-11-19T17:38:54Z
   Total Products: 132
 - [Vanilla Candles](https://affinatiliving.com/collections/vanilla-candles): Indulge in Affinati’s Vanilla Candle Collection—luxury soy wax candles with rich, long-lasting fragrance. Shop 3-wick and signature vanilla candles for cozy nights, stress relief, and everyday comfort.
-  Updated: 2025-11-19T13:09:55Z
+  Updated: 2025-11-19T17:38:54Z
   Total Products: 24
 - [Lavender Candles](https://affinatiliving.com/collections/lavender-candles): Discover Affinati’s Lavender Candle Collection—luxury soy wax candles crafted to calm, relax, and refresh your space. Shop 3-wick and signature lavender candles for stress relief, sleep, and everyday elegance.
-  Updated: 2025-11-19T13:09:55Z
+  Updated: 2025-11-19T17:38:52Z
   Total Products: 7
 - [Eucalyptus Candles](https://affinatiliving.com/collections/eucalyptus-candles): Explore eucalyptus candles for relaxation and wellness. Shop Affinati’s eucalyptus mint candles — luxury soy blends with a fresh, calming scent.
-  Updated: 2025-11-18T16:09:55Z
+  Updated: 2025-11-19T17:38:52Z
   Total Products: 8
 - [Woody Candle Scents](https://affinatiliving.com/collections/woody-candle-scents): Shop the Woody Scents Collection — candles, diffusers, and room sprays in rich aromas like Mahogany Teakwood, Tobacco, and Driftwood & Sea Salt. Warm, earthy, long-lasting fragrance for every space.
-  Updated: 2025-11-19T12:10:05Z
+  Updated: 2025-11-19T17:38:53Z
   Total Products: 50
 - [Christmas Candles](https://affinatiliving.com/collections/christmas-candles): Discover the best Christmas candles— from peppermint and gingerbread to hot chocolate and White Christmas. Long-lasting candles for cozy holiday nights.
-  Updated: 2025-11-19T13:13:47Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 47
 - [Halloween Candles](https://affinatiliving.com/collections/halloween-candles): Shop the Halloween Candle Collection — spooky scents like Pumpkin Spice, Smoked Vanilla, and Fire Roasted Marshmallow. Candles for fall nights.
-  Updated: 2025-11-19T12:10:05Z
+  Updated: 2025-11-19T17:38:54Z
   Total Products: 35
 - [Thanksgiving Candles](https://affinatiliving.com/collections/thanksgiving-candles): Celebrate Thanksgiving with candles inspired by pumpkin pie, spiced bourbon, and warm vanilla. Long-lasting candles to make your holiday cozy.
-  Updated: 2025-11-19T13:14:18Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 85
 - [Valentine's Candles](https://affinatiliving.com/collections/valentines-candles): Celebrate love with the Valentine’s Day Candle Collection — romantic scents like Strawberry Bliss, Cocoa Butter Cashmere, and Hot Chocolate. Long-lasting 3-wick candles for gifting.
-  Updated: 2025-11-19T13:14:18Z
+  Updated: 2025-11-19T17:38:55Z
   Total Products: 51
 - [Affinati Accessories](https://affinatiliving.com/collections/accessories): Explore Affinati Accessories — a curated collection of elegant essentials including signature pens, matchboxes, and décor pieces designed to complement your luxury candle experience. Refined, timeless, and made for modern living.
   Updated: 2025-11-16T12:08:28Z
