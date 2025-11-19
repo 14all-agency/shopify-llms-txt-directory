@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-11-18T00:00:40.513Z
+- Updated At: 2025-11-19T00:00:29.379Z
 
 ## Products
 
@@ -11943,7 +11943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/womens-high-waisted-tee-white-front-679582986e5f2.jpg?v=1737908944
     Price: $27.50 USD
 - [Women's Sports Jersey - Buy Custom Women's Athletic Jerseys](https://baskandweave.com/products/womens-sports-jersey): Shop women's sports jersey styles made for comfort and performance. Discover custom women’s sports jerseys for workouts, training, and active lifestyles.
-  Updated: 2025-11-02T23:57:37Z
+  Updated: 2025-11-18T04:48:15Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
