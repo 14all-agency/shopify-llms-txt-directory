@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-08-13T12:49:55Z
 - Contact Email: joseluisgonzalezarsb@gmail.com
-- Updated At: 2025-11-17T00:00:54.343Z
+- Updated At: 2025-11-19T00:00:46.984Z
 
 ## Products
 
@@ -257,13 +257,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/iphone-12-glass-screen-guard-nude-series-2-pack-screen-protector-shenzhen-yi-chong-packaging-screen-211431.png?v=1756782602
   Price: 11,48 € EUR
-- [10W 4 In 1 Fast Wireless Charging Station](https://goar.store/products/10w-4-in-1-fast-wireless-charging-station): 10W wireless charger working at high speed, equipped with multiple wireless phones, also 7.5W suitable for iphone: 12(all Sizes), XS Max / XR / XS / X / 8/8 Plus, 10W charging Galaxy S9 / S9 + / S8 / S8 + / Note8, (charger bracket for iphone case up to 3mm. Specifications: Color of product: black, white Input voltage:9 V / 2A Output: 9V 1.0~2A Wireless Output: 5W-7.5W-10W Detection distance: 10MM Size: about 190 * 83 * 139mm / 7.48 * 3.27 * 5.47in Conversion efficiency: ≥73% Package Included: 1* Wireless charging 1* Charging cable
-  Updated: 2025-09-02T15:10:08Z
+- [Estación Carga Inalámbrica 4 en 1 - 10W Fast Charging](https://goar.store/products/10w-4-in-1-fast-wireless-charging-station): Estación de carga inalámbrica 4 en 1 de 10W. Carga simultánea para iPhone, AirPods, Apple Watch y más. Diseño elegante y compacto para tu escritorio.
+  Updated: 2025-11-18T20:15:07Z
   Vendor: DC-THE CEO
-  Product Type: 
+  Product Type: Accesorios Tech
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/medium_7d6047af-4034-402a-83dd-7d70b3a5ad31.jpg?v=1756782603
-  Price: 0,00 € EUR
+  Price: 29,99 € EUR
 - [iPhone Screen Guard (Impact Series) *2 Pack*](https://goar.store/products/iphone-screen-guard-impact-series-2-pack): iPhone Screen Guard (Impact Series) *2 Pack*
   Updated: 2025-09-02T15:17:28Z
   Vendor: DC-Simply Carbon Fiber
@@ -304,29 +304,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/iphone-13-pro-max-glass-screen-guard-nude-series-2-pack-apple-screen-protector-screen-protectors-651199.png?v=1756782607
   Price: 11,48 € EUR
-- [3-IN-1 WIRELESS CHARGER FOR IPHONE, AIRPODS AND IWATCH (FLAT)](https://goar.store/products/3-in-1-wireless-charger-for-iphone-airpods-and-iwatch-flat): 3 in 1 wireless charging station can charge your Phone/Apple Watch /Airpods at the same time, multi-function design provides you a tidy charging stand This wireless charger stand has only 1 charging cable and can make your room or desk look more simple and neat Fast charging, cuts down charge time Wireless phone charger is compatible with all QI-enabled devices Chargers also works as a phone stand keeping your desk or nigh stand without the mess of tangled cables
-  Updated: 2025-09-02T15:17:09Z
+- [Cargador Inalámbrico 3 en 1 iPhone AirPods Apple Watch](https://goar.store/products/3-in-1-wireless-charger-for-iphone-airpods-and-iwatch-flat): Cargador inalámbrico 3 en 1 para iPhone, AirPods y Apple Watch. Diseño plano elegante, carga rápida simultánea. Mantén tu escritorio ordenado.
+  Updated: 2025-11-18T20:17:37Z
   Vendor: DC-THE CEO
-  Product Type: 
+  Product Type: Accesorios Tech
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/c2.jpg?v=1756782608
-  Price: 0,00 € EUR
-- [3.0 Quick Charger - 18W 3Amp USB Wall Charger](https://goar.store/products/3-0-quick-charger-18w-3amp-usb-wall-charger): Certification Security: The phone charger box builds in IC chip and has a fuse-protective system against over charging, over currents, and over heating. Adaptive fast charger charging cube will automatically stop charging when power is full, which can maximumly protect your device. Perfect design: The compact size can save outlet space. You can take Samsung phone charger when you travel, make it easy to charger your smartphones specification: Input 100-240V/ output 9V = 1. 67A or 5. 0V = 2. 0A. Ideal for home, worldwide travel or business. You can also share Samsung charger with your couple, families, workmate, friends. Material: PC Fireproof Shell Total Power: 30W Input: AC 100-240V, 50-60Hz Output: DC 3.6-6V 3A, 6-9V 2A, 9-12V 1.5A Size: 1.88 x 1.65 x 1.02 inch Fast Charging from 0 to 50% in 30 Minutes for compatible devices The charger box charges 4X faster than standard chargers,1.4X faster than QC 2.0 QC 3.0 wall plug power adapter support fast charging with the fast charging cable Quick charge 3.0 is compatible for all versions of quick charge technology(1.0,2.0,3.0)& Non-quick Charge Devices Multi-protection system is safe for daily use. The flame-resistant PC shell has good scratches and fall resistance COMPATIBLE WITH TYPE-C/ANDROID AND IOS/iPHONE DEVICES
-  Updated: 2025-09-02T15:10:14Z
+  Price: 34,99 € EUR
+- [Cargador Rápido USB 3.0 - 18W Quick Charge](https://goar.store/products/3-0-quick-charger-18w-3amp-usb-wall-charger): Cargador rápido USB 3.0 de 18W y 3A. Carga ultra rápida para smartphones y tablets. Compatible con Quick Charge 3.0.
+  Updated: 2025-11-18T20:12:54Z
   Vendor: DC-THE CEO
-  Product Type: 
+  Product Type: Accesorios Tech
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/medium_e9e85d92-8d87-4c60-87c7-06bd685a062b.jpg?v=1756782610
-  Price: 0,00 € EUR
+  Price: 12,99 € EUR
 - [Huawei FreeBuds SE 2 Blancos - Auriculares Bluetooth In-Ear](https://goar.store/products/in-ear-bluetooth-headphones-huawei-freebuds-se-2-white): Huawei FreeBuds SE 2 blancos Bluetooth in-ear. Ergonómicos, controles táctiles, precio económico. Calidad Huawei accesible.
-  Updated: 2025-11-07T07:53:04Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Huawei
   Product Type: Computers | Electronics > Electronics | Sound > Wireless headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6942103101359_I20.jpg?v=1762369220
   Price: 31,04 € EUR
 - [Xiaomi Buds 6 Active - Auriculares Bluetooth In-Ear Económicos](https://goar.store/products/in-ear-bluetooth-headphones-xiaomi-buds-6-active): Xiaomi Buds 6 Active Bluetooth in-ear económicos. Inalámbricos, micrófono integrado. Precio imbatible. Calidad Xiaomi.
-  Updated: 2025-11-13T22:56:20Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Sound > Wireless headphones
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6921815629511_M0806256_P20.jpg?v=1762369247
   Price: 340,31 € EUR
 - [Google Pixel Negro 128GB - Flagship Android Puro 16GB RAM](https://goar.store/products/smartphone-google-gehn3-63-octa-core-16-gb-ram-128-gb-black): Google Pixel negro con 128GB, 16GB RAM y pantalla 6.3". Cámara IA líder, Android puro, 7 años actualizaciones. Compacto y potente.
-  Updated: 2025-11-14T22:52:30Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -361,19 +361,19 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554448912_I00.jpg?v=1762369267
   Price: 506,78 € EUR
 - [Vivo Y03 Verde 128GB - Smartphone Económico 4GB RAM](https://goar.store/products/smartphone-vivo-y03-octa-core-4-gb-ram-128-gb-green): Vivo Y03 verde con 128GB, 4GB RAM y procesador Octa Core. Smartphone económico confiable, ultraligero 338g. Excelente calidad-precio.
-  Updated: 2025-11-14T11:08:25Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Vivo
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6935117895635_S9916708_P31.jpg?v=1762369290
   Price: 110,40 € EUR
 - [Realme C65 Negro 64GB - Smartphone Batería 6000mAh 6.74"](https://goar.store/products/smartphone-realme-rmx5313-674-octa-core-4-gb-ram-64-gb-black): Realme C65 negro con 64GB, 4GB RAM y batería 6000mAh. Pantalla 6.74", cámara 50MP. Autonomía extrema a precio mínimo.
-  Updated: 2025-11-11T00:16:25Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Realme
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941764469631_R30.jpg?v=1762369300
-  Price: 91,53 € EUR
+  Price: 94,67 € EUR
 - [Altavoz BOSCH Bluetooth 30W - Portátil Mando Distancia Gris](https://goar.store/products/portable-bluetooth-speakers-bosch-lb1-um20e-l): Altavoz BOSCH LB1-UM20E-L 30W RMS con mando a distancia. Sonido profesional, uso exterior -40º/70º. Calidad BOSCH.
   Updated: 2025-11-07T07:43:48Z
   Vendor: BOSCH
@@ -389,35 +389,35 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/906286780.jpg?v=1762369361
   Price: 450,71 € EUR
 - [iPhone 15 Pro Titanio 1TB - Apple Smartphone Máxima Capacidad](https://goar.store/products/smartphone-apple-iphone-15-pro-61-1-tb-titanium): iPhone 15 Pro titanio con 1TB, chip A17 Pro y pantalla ProMotion 6.1". Cámara profesional ProRes. Lo máximo de Apple.
-  Updated: 2025-11-14T22:52:32Z
+  Updated: 2025-11-18T22:48:32Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949021039_M0801903_P00.jpg?v=1762369491
   Price: 1387,09 € EUR
 - [Google Pixel Verde 256GB - Android Puro Premium 16GB RAM](https://goar.store/products/smartphone-google-ga10316-gb-63-octa-core-16-gb-ram-256-gb-green): Google Pixel verde con 256GB, 16GB RAM y pantalla 6.3". Cámara IA, Android puro, color exclusivo. Compacto y potente.
-  Updated: 2025-11-14T22:52:32Z
+  Updated: 2025-11-17T22:44:30Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353925526_M0806622_P30.jpg?v=1762369495
   Price: 1144,51 € EUR
 - [Google Pixel Pro Gris 256GB - Flagship IA 16GB RAM 6.8"](https://goar.store/products/smartphone-google-g45ry-68-octa-core-16-gb-ram-256-gb-grey): Google Pixel Pro gris con 256GB, 16GB RAM y pantalla 6.8". Cámara IA líder, Android puro, 7 años actualizaciones. Flagship Google.
-  Updated: 2025-11-15T10:56:26Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353927797_M0806565_P11.jpg?v=1762369515
   Price: 1251,66 € EUR
 - [iPhone Azul 256GB - Apple Smartphone Premium 6.1" 8GB RAM](https://goar.store/products/smartphone-apple-myeh3qla-hexa-core-8-gb-ram-256-gb-blue-61): iPhone azul con 256GB, 8GB RAM y chip Hexa Core. Pantalla 6.1", cámara avanzada. Color exclusivo Apple. Gama premium.
-  Updated: 2025-11-13T11:08:25Z
+  Updated: 2025-11-18T22:48:32Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949823336__EE_I112.jpg?v=1762369521
   Price: 1148,66 € EUR
 - [Xiaomi Redmi A5 Negro 64GB - Smartphone Básico Económico](https://goar.store/products/smartphone-xiaomi-redmi-a5-octa-core-3-gb-ram-64-gb-black): Xiaomi Redmi A5 negro con 64GB y 3GB RAM. Smartphone básico ultra económico. Perfecto como primer móvil. Precio imbatible.
-  Updated: 2025-11-14T11:08:25Z
+  Updated: 2025-11-18T22:48:30Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -431,33 +431,33 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554452049_S9919807_P00.jpg?v=1762369751
   Price: 154,41 € EUR
 - [iPhone 15 Amarillo 256GB - Apple Smartphone 6.1" A16 Bionic](https://goar.store/products/smartphone-apple-iphone-15-61-hexa-core-6-gb-ram-256-gb-yellow): iPhone 15 amarillo con 256GB, 6GB RAM y chip A16 Bionic. Pantalla 6.1", cámara 48MP y Dynamic Island. Color vibrante y exclusivo.
-  Updated: 2025-11-14T00:10:57Z
+  Updated: 2025-11-18T22:48:30Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949037320_M0801876_P20.jpg?v=1762369754
   Price: 875,15 € EUR
 - [Samsung Galaxy S24 5G Negro 256GB - Smartphone Flagship Compacto](https://goar.store/products/smartphone-samsung-galaxy-s24-5g-62-8-gb-ram-256-gb-black): Samsung Galaxy S24 5G negro con 256GB, 8GB RAM y pantalla 6.2". Flagship compacto, 5G y cámara profesional. Gama alta Samsung.
-  Updated: 2025-11-14T22:52:30Z
+  Updated: 2025-11-17T22:44:31Z
   Vendor: Samsung
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806095299723_M0803329_P00.jpg?v=1762369762
   Price: 701,66 € EUR
 - [Realme C75 Negro 128GB - Smartphone 8GB RAM Batería Larga](https://goar.store/products/smartphone-realme-realme-c75-octa-core-8-gb-ram-128-gb-black-672): Realme C75 negro con 128GB, 8GB RAM y pantalla 6.72". Batería larga duración, procesador Octa Core. Precio competitivo.
-  Updated: 2025-11-07T12:48:42Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Realme
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941764450066_S9917690_P01.jpg?v=1762369769
   Price: 160,74 € EUR
 - [Samsung Galaxy A17 Gris 256GB - Smartphone 5G Batería 5000mAh](https://goar.store/products/smartphone-samsung-a176-8-256-gy-v2-octa-core-8-gb-ram-256-gb-grey-67): Samsung Galaxy A17 gris con 256GB, 8GB RAM y batería 5000mAh. Pantalla AMOLED 6.7", 5G y cámara triple. Autonomía excepcional.
-  Updated: 2025-11-14T11:08:25Z
+  Updated: 2025-11-18T22:48:24Z
   Vendor: Samsung
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806097640264_I00.jpg?v=1762369775
-  Price: 250,36 € EUR
+  Price: 245,73 € EUR
 - [Xiaomi POCO M7 Pro 5G Plata 256GB - Smartphone Gaming 12GB RAM](https://goar.store/products/smartphone-xiaomi-poco-m7-pro-5g-667-octa-core-12-gb-ram-256-gb-silver): POCO M7 Pro 5G plata con 256GB, 12GB RAM y pantalla AMOLED 120Hz. Batería 5110mAh, carga 45W. Ideal para gaming. Precio increíble.
   Updated: 2025-11-07T10:17:00Z
   Vendor: Xiaomi
@@ -466,42 +466,42 @@
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932554428334_M0806007_P20.jpg?v=1762369786
   Price: 233,00 € EUR
 - [Google Pixel Negro 128GB - Smartphone Android Puro 8GB RAM](https://goar.store/products/smartphone-google-ga05769-gb-63-octa-core-8-gb-ram-128-gb-black): Google Pixel negro con 128GB, 8GB RAM y pantalla OLED 6.3". Cámara IA, Android puro y actualizaciones garantizadas. Compra ahora.
-  Updated: 2025-11-16T22:44:30Z
+  Updated: 2025-11-17T22:44:30Z
   Vendor: Google
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840353922273_S91119498_P61.jpg?v=1762369788
   Price: 497,79 € EUR
 - [iPhone 15 Rosa 128GB - Apple Smartphone 6.1" 6GB RAM](https://goar.store/products/smartphone-apple-iphone-15-61-hexa-core-6-gb-ram-128-gb-pink): Compra el iPhone 15 rosa con 128GB, 6GB RAM y pantalla 6.1". Chip A16 Bionic, cámara dual avanzada y 5G. Diseño elegante y exclusivo.
-  Updated: 2025-11-16T22:44:32Z
+  Updated: 2025-11-18T22:48:32Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949036248_M0801870_P211.jpg?v=1762369805
   Price: 797,60 € EUR
 - [Oppo Reno Azul 256GB - Smartphone AMOLED Carga Rápida 80W](https://goar.store/products/smartphone-oppo-cph2695-667-octa-core-8-gb-ram-256-gb-blue): Oppo Reno azul con 256GB, 8GB RAM y pantalla AMOLED 6.67". Carga SuperVOOC 80W en 30 min. Cámara 64MP. Compra al mejor precio.
-  Updated: 2025-11-14T22:52:31Z
+  Updated: 2025-11-17T22:44:31Z
   Vendor: Oppo
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6932169365086_R21.jpg?v=1762369828
   Price: 189,05 € EUR
 - [iPhone Blanco 1TB - Apple Smartphone Máxima Capacidad 6.9"](https://goar.store/products/smartphone-apple-69-1-tb-white): iPhone blanco con 1TB de almacenamiento y pantalla 6.9". Espacio ilimitado para fotos y vídeos 4K. Ideal para creadores. Compra ahora.
-  Updated: 2025-11-13T11:08:26Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949807527_M0801974_P51.jpg?v=1762369836
-  Price: 1991,30 € EUR
+  Price: 1797,84 € EUR
 - [Samsung Galaxy A16 Verde 128GB - Smartphone Económico 6.7"](https://goar.store/products/smartphone-samsung-galaxy-a16-octa-core-4-gb-ram-128-gb-green-67): Samsung Galaxy A16 verde con 128GB, 4GB RAM y pantalla AMOLED 6.7". Batería 5000mAh. Smartphone económico de calidad. Compra ahora.
-  Updated: 2025-11-14T11:08:25Z
+  Updated: 2025-11-18T22:48:30Z
   Vendor: Samsung
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806095822990_S9915800_P00.jpg?v=1762369850
-  Price: 148,09 € EUR
+  Price: 147,96 € EUR
 - [iPhone Naranja 256GB - Apple Smartphone 6.9" 12GB RAM](https://goar.store/products/smartphone-apple-mfyn4qna-69-hexa-core-12-gb-ram-256-gb-orange): iPhone naranja exclusivo con 256GB, 12GB RAM y pantalla de 6.9". Diseño único y rendimiento excepcional. Compra ahora con envío gratis.
-  Updated: 2025-11-13T22:56:26Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Apple
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -514,36 +514,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195950624380_R30.jpg?v=1762369871
   Price: 2020,26 € EUR
-- [Auriculares Motorola Baratos - Bluetooth Inalámbricos Económicos](https://goar.store/products/headphones-motorola): Auriculares Motorola económicos Bluetooth inalámbricos. Ultraligeros 260g, precio imbatible. Excelente relación calidad-precio.
-  Updated: 2025-11-07T14:01:09Z
-  Vendor: Motorola
-  Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/5055374716588_S0241894_P00.jpg?v=1762370044
-  Price: 40,96 € EUR
 - [Auriculares Lenovo Bluetooth Negros - Profesionales Trabajo Gaming](https://goar.store/products/headphones-lenovo-black): Auriculares Lenovo negros Bluetooth profesionales. Micrófono cancelación ruido, ergonómicos. Ideales para trabajo remoto y gaming.
-  Updated: 2025-11-14T22:52:29Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Lenovo
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195892111498_R10.jpg?v=1762370058
   Price: 99,67 € EUR
 - [Auriculares Motorola Bluetooth Negros - Inalámbricos Ligeros](https://goar.store/products/headphones-motorola-black): Auriculares Motorola negros Bluetooth inalámbricos. Ligeros 170g, micrófono integrado y batería duradera. Calidad y simplicidad.
-  Updated: 2025-11-14T22:52:31Z
+  Updated: 2025-11-18T22:48:30Z
   Vendor: Motorola
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0840023262258_S5628912_P00.jpg?v=1762370073
   Price: 106,38 € EUR
-- [Huawei FreeBuds Blancos - Auriculares Bluetooth True Wireless Premium](https://goar.store/products/headphones-huawei-white): Huawei FreeBuds blancos True Wireless. Sonido premium, diseño ergonómico y batería larga duración. Auriculares Bluetooth de alta calidad.
-  Updated: 2025-11-14T22:52:30Z
-  Vendor: Huawei
-  Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6942103147746_M0805915_P00.jpg?v=1762370079
-  Price: 131,71 € EUR
 - [Auriculares Bluetooth Impermeables - Deportivos Resistentes Agua IPX](https://goar.store/products/bluetooth-waterproof-headphones): Auriculares Bluetooth impermeables para deporte. Resistentes al agua IPX, ultraligeros 32g. Perfectos para running, gym y ciclismo.
-  Updated: 2025-11-16T10:52:30Z
+  Updated: 2025-11-18T11:04:21Z
   Vendor: OBA
   Product Type: Electronics > Headphones
   Availability: Available
@@ -556,36 +542,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6925281960840_R100.jpg?v=1762370176
   Price: 152,07 € EUR
-- [Logitech 960-001698 - Auriculares Profesionales Videoconferencias](https://goar.store/products/headphones-logitech-960-001698): Auriculares Logitech 960-001698 profesionales. Micrófono cancelación ruido, ergonómicos y ligeros. Ideales para trabajo remoto y videoconferencias.
-  Updated: 2025-11-16T10:52:30Z
+- [Logitech 960-001698 - Auriculares Profesionales Videoconferencias](https://goar.store/products/headphones-logitech-960-001698): Auriculares Logitech 960-001698 profesionales con micrófono de cancelación de ruido. Ergonómicos y ligeros, ideales para trabajo remoto y videoconferencias.
+  Updated: 2025-11-18T22:48:30Z
   Vendor: Logitech
-  Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
+  Product Type: Auriculares y Audio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/1064652750.jpg?v=1762370234
   Price: 8445,60 € EUR
 - [JBL Quantum 300 Gaming - Auriculares con Cable USB Jack 3.5mm](https://goar.store/products/headphones-jbl-quantum-300): Auriculares JBL Quantum 300 para gaming. Sonido envolvente, drivers 40mm, USB y Jack 3.5mm. Perfectos para gamers. Compra ahora.
-  Updated: 2025-11-13T11:08:25Z
+  Updated: 2025-11-18T22:48:32Z
   Vendor: JBL
   Product Type: Computers | Electronics > Electronics | Peripherals and spares > Microphones and headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6925281969560_S9917492_P01.jpg?v=1762370252
   Price: 58,61 € EUR
 - [Vivo Y03 Negro 128GB - Smartphone Económico 4GB RAM](https://goar.store/products/smartphone-vivo-y03-octa-core-4-gb-ram-128-gb-black): Vivo Y03 negro con 128GB y 4GB RAM. Smartphone económico, ligero y confiable. Batería larga duración. Excelente relación calidad-precio.
-  Updated: 2025-11-11T00:16:25Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Vivo
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6935117881171_S9916707_P01.jpg?v=1762370589
   Price: 110,40 € EUR
 - [Xiaomi Redmi 13C 5G 128GB Negro - Smartphone Dimensity 6100+](https://goar.store/products/smartphone-xiaomi-redmi-13c-5g-674-mediatek-dimensity-6100-4-gb-ram-128-gb-black): Xiaomi Redmi 13C 5G con 128GB, 4GB RAM y pantalla de 6.74". Procesador Mediatek Dimensity 6100+. Conectividad 5G a precio accesible.
-  Updated: 2025-11-15T22:44:36Z
+  Updated: 2025-11-17T22:44:30Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/6941812776049_M0804347_P00.jpg?v=1762370591
   Price: 136,35 € EUR
 - [Xiaomi Redmi 15 5G 128GB Gris - Smartphone con 5G y NFC](https://goar.store/products/smartphone-xiaomi-redmi-15-5g-4-128-gy-octa-core-4-gb-ram-128-gb-grey): Xiaomi Redmi 15 5G en gris con 128GB y 4GB RAM. Conectividad 5G y NFC. Procesador Octa Core para máximo rendimiento. Precio especial.
-  Updated: 2025-11-13T22:56:26Z
+  Updated: 2025-11-18T22:48:31Z
   Vendor: Xiaomi
   Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
   Availability: Available
@@ -619,6 +605,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/8806095858630_S7845140_P00.jpg?v=1763032116
   Price: 1299,20 € EUR
+- [Paco Rabanne Paco Rabanne Phantom Le Parfum kvepalai vyrams, 100 ml (65188737)](https://goar.store/products/paco-rabanne-paco-rabanne-phantom-le-parfum-kvepalai-vyrams-100-ml-65188737)
+  Updated: 2025-11-18T23:04:56Z
+  Vendor: Paco Rabanne
+  Product Type: Egészség és szépségápolás -> Testápolás -> Kozmetika -> Parfüm és kölni -> Férfi parfümök
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/22e5cbf5-64b2-4662-b59b-b64cfc515186.png?v=1763463873
+  Price: 117,07 € EUR
+- [Smartphone Apple MXVU3QL/A Hexa Core 8 GB RAM 128 GB Black 6,7"](https://goar.store/products/smartphone-apple-mxvu3qla-hexa-core-8-gb-ram-128-gb-black-67): If you're passionate about IT and electronics, like being up to date on technology and don't miss even the slightest details, buy Smartphone Apple MXVU3QL/A Hexa Core 8 GB RAM 128 GB Black 6,7" at an unbeatable price. Colour: Black Diagonal of the screen (cm): 17 cm 15,5 cm Internal Memory: 128 GB Camera: 48 MP Connectivity: 5G Bluetooth NFC Connections: Dual SIM Screen: 6,7" 6,1" Operating System: iOS Resolution (px): 2796 X 1290 PX Product with plug: Yes Type: Smartphone Type of plug: Plug EU Characteristics: HDR Screen Zoom Voice control Apple Pay Screen WiFi Sensors Night mode Proximity sensor Magnifying glass Processor: Hexa Core RAM Memory: 8 GB RAM
+  Updated: 2025-11-18T22:49:39Z
+  Vendor: Apple
+  Product Type: Computers | Electronics > Electronics | Phones & tablets > Mobile phones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0943/8737/2356/files/0195949722196_S9914529_P00.jpg?v=1763506117
+  Price: 1139,64 € EUR
 
 ## Collections
 
@@ -626,19 +626,19 @@
   Updated: 2025-08-17T05:43:27Z
   Total Products: 0
 - [SMARTPHONES](https://goar.store/collections/smartphones): Descubre nuestra amplia selección de smartphones de las mejores marcas: Apple, Samsung, Xiaomi, Google y más. Encuentra el móvil perfecto para ti.
-  Updated: 2025-11-14T22:52:26Z
-  Total Products: 32
+  Updated: 2025-11-18T22:48:58Z
+  Total Products: 33
 - [AURICULARES Y AUDIO](https://goar.store/collections/auriculares-y-audio): Auriculares Bluetooth, in-ear, gaming y altavoces de marcas premium como JBL, Samsung, Huawei y Xiaomi. Sonido de calidad para todos los presupuestos
-  Updated: 2025-11-16T10:52:31Z
-  Total Products: 8
+  Updated: 2025-11-18T11:04:35Z
+  Total Products: 7
 - [ACCESORIOS](https://goar.store/collections/accesorios): Fundas, protectores y accesorios para tus dispositivos. Protege y personaliza tu smartphone o tablet.
   Updated: 2025-11-16T10:52:31Z
   Total Products: 1
 - [APPLE](https://goar.store/collections/apple): Toda la gama de iPhone: desde modelos económicos hasta los Pro Max más potentes. Tecnología Apple con garantía.
-  Updated: 2025-11-14T11:08:24Z
-  Total Products: 9
+  Updated: 2025-11-18T22:48:58Z
+  Total Products: 11
 - [SAMSUNG](https://goar.store/collections/samsung): Smartphones Samsung Galaxy: desde la serie A económica hasta los flagship S25. Calidad y innovación Samsung.
-  Updated: 2025-11-14T22:52:26Z
+  Updated: 2025-11-18T22:48:25Z
   Total Products: 4
 - [XIAOMI](https://goar.store/collections/xiaomi): Smartphones Xiaomi, Redmi y POCO. La mejor relación calidad-precio del mercado. Tecnología accesible para todos.
   Updated: 2025-11-13T22:56:21Z
@@ -650,20 +650,29 @@
   Updated: 2025-11-13T22:56:21Z
   Total Products: 3
 - [REALME](https://goar.store/collections/realme): Smartphones Realme con batería de larga duración y carga rápida. Potencia joven a precio accesible.
-  Updated: 2025-11-11T00:16:21Z
+  Updated: 2025-11-18T22:48:25Z
   Total Products: 2
 - [ONEPLUS](https://goar.store/collections/oneplus): OnePlus Nord con carga ultrarrápida y pantallas AMOLED. Velocidad sin compromisos.
   Updated: 2025-11-06T16:54:06Z
   Total Products: 1
 - [GAMA ALTA (más de 800€)](https://goar.store/collections/gama-alta-mas-de-800): Los smartphones más potentes y exclusivos: iPhone Pro, Samsung S25, Google Pixel Pro. Tecnología de vanguardia.
-  Updated: 2025-11-16T10:52:31Z
-  Total Products: 12
+  Updated: 2025-11-18T22:48:58Z
+  Total Products: 13
 - [GAMA MEDIA (200€-800€)](https://goar.store/collections/gama-media-200-800): Smartphones con excelente relación calidad-precio. Especificaciones sólidas sin pagar precios premium.
-  Updated: 2025-11-16T10:52:31Z
+  Updated: 2025-11-18T22:48:25Z
   Total Products: 10
 - [ECONÓMICOS (menos de 200€)](https://goar.store/collections/economicos-menos-de-200): Smartphones y auriculares a precio imbatible. Calidad accesible para todos los presupuestos.
-  Updated: 2025-11-16T10:52:31Z
+  Updated: 2025-11-18T22:48:25Z
   Total Products: 36
+- [Smartphones Económicos Baratos - Menos de 200€ | Goar Store](https://goar.store/collections/smartphones-economicos): Compra smartphones económicos de calidad por menos de 200€. Xiaomi, Realme, Samsung y más. Garantía oficial y envío rápido en España.
+  Updated: 2025-11-18T08:17:50Z
+  Total Products: 0
+- [Accesorios para Smartphone - Fundas, Cargadores y Más | Goar Store](https://goar.store/collections/accesorios-tech): Accesorios tech de calidad: fundas premium, cargadores inalámbricos, protectores de pantalla. Compatible con iPhone, Samsung, Xiaomi y más.
+  Updated: 2025-11-18T08:18:05Z
+  Total Products: 0
+- [Ofertas en Smartphones y Accesorios Tech | Goar Store](https://goar.store/collections/ofertas-y-destacados): Descubre las mejores ofertas en smartphones, auriculares y accesorios tech. Productos destacados con el mejor precio y calidad garantizada.
+  Updated: 2025-11-18T08:18:26Z
+  Total Products: 0
 
 ## Store Pages
 
