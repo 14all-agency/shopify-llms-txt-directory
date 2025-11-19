@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-11-15T00:01:00.180Z
+- Updated At: 2025-11-19T00:00:23.343Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/vit_C_big.webp?v=1761300207
   Price: £16.99 GBP
 - [Liposomal Vitamin D3 - 90 Capsules](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-11-10T11:33:50Z
+  Updated: 2025-11-18T11:08:02Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
