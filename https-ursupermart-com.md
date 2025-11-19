@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-11-17T00:00:52.945Z
+- Updated At: 2025-11-19T00:00:44.365Z
 
 ## Products
 
@@ -909,8 +909,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/chill-beats-bluetooth-50-sleep-headband-revolutionize-your-sleep-and-workouts-109065_1.webp?v=1728240146
     Price: $14.95 USD
 - [Best Audio Transcription Device AI Voice Recorder & Summarizer](https://ursupermart.com/products/echonote-ai-summarization-recorder): The best audio transcription device converts audio to text with dual-mic precision and smart summarization. Streamline your workflow; shop now!
-  Updated: 2025-11-05T20:29:12Z
-  Vendor: S1B|S1|Meta - Dsers**
+  Updated: 2025-11-18T22:15:45Z
+  Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: AI Voice Recorder and Audio Transcriber
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/echonote-ai-voice-recorder-dual-mic-ai-recorder-perfect-for-calls-meetings-lectures-542077.webp?v=1728263372
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/beige-leather-designer-tote-front-view.webp?v=1736822487
     Price: $43.95 USD
 - [Women Handbags: Structured Faux Leather, Organized Style](https://ursupermart.com/products/women-handbags-structured-faux-leather-tote): Women handbags: Discover our structured faux leather bag, perfect for work or style, offering secure storage and versatile carrying. Elevate your look today!
-  Updated: 2025-11-15T16:40:51Z
+  Updated: 2025-11-17T15:44:22Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's structured faux leather handbag
   Availability: Available
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-11-14T23:45:31Z
+  Updated: 2025-11-18T16:06:17Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -2097,7 +2097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-and-white-plaid-wool-coat-casual-jeans-look.webp?v=1735412773
     Price: $44.95 USD
   - [Green / M](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504042778714)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/green-and-white-plaid-wool-coat-casual-jeans-look.webp?v=1735412773
     Price: $44.95 USD
   - [Green / L](https://ursupermart.com/products/plaid-wool-coats-collection?variant=41504042811482)
@@ -15677,25 +15677,25 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/emerald-green-satin-formal-dress-one-shoulder.webp?v=1744574750
     Price: $84.95 USD
 - [Stunning Tie Dye Maxi Dress | Form-Fitting Summer Fashion](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit): Showcase your curves in our tie dye bodycon maxi dress with side slit. This form-fitting summer dress combines comfort with vibrant watercolor patterns
-  Updated: 2025-11-05T21:04:27Z
+  Updated: 2025-11-18T08:01:16Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-orange-seated.webp?v=1744599781
   - [Turquoise / M](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209287770)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tye-dye-form-fitting-dress-blue.webp?v=1744599781
     Price: $57.95 USD
   - [Orange / S](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209320538)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-orange-model.webp?v=1744599781
     Price: $57.95 USD
   - [Turquoise / L](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209353306)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tye-dye-form-fitting-dress-blue.webp?v=1744599781
     Price: $57.95 USD
   - [Turquoise / XL](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209386074)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tye-dye-form-fitting-dress-blue.webp?v=1744599781
     Price: $57.95 USD
   - [Brown / S](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209549914)
@@ -15715,27 +15715,27 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-brown.webp?v=1744599781
     Price: $57.95 USD
   - [Orange / M](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209680986)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-orange-model.webp?v=1744599781
     Price: $57.95 USD
   - [Orange / L](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209713754)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-orange-model.webp?v=1744599781
     Price: $57.95 USD
   - [Orange / XL](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209746522)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/ruched-maxi-form-fitting-dress-orange-model.webp?v=1744599781
     Price: $57.95 USD
   - [Hot Pink / S](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209779290)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tie-dye-maxi-dress-pink-sleeveless.webp?v=1744599781
     Price: $57.95 USD
   - [Hot Pink / L](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209844826)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tie-dye-maxi-dress-pink-sleeveless.webp?v=1744599781
     Price: $57.95 USD
   - [Turquoise / S](https://ursupermart.com/products/sleeveless-bodycon-tie-dye-maxi-side-slit?variant=41863209910362)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tye-dye-form-fitting-dress-blue.webp?v=1744599781
     Price: $57.95 USD
 - [Green Bodycon Midi Dress with Cutout Shoulders Design](https://ursupermart.com/products/green-bodycon-midi-dress-detached-sleeves): Discover our stunning green bodycon midi dress featuring a sweetheart neckline and detached sleeves. Machine washable and highly stretchy for all-night comfort
@@ -15866,7 +15866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/silver-sequin-mini-dress-side-view.webp?v=1744747969
     Price: $91.45 USD
 - [Royal Blue Sparkle Dress | Plus Size Special Occasion Wear](https://ursupermart.com/products/plus-size-royal-blue-glitter-wrap-dress): Stunning plus size royal blue glitter wrap dress for special occasions. Features flattering V-neck, side slit, and easy care - machine wash cold. Free Shipping
-  Updated: 2025-11-05T21:04:44Z
+  Updated: 2025-11-18T08:01:21Z
   Vendor: S1B|Trendsi
   Product Type: Glitter Dress
   Availability: Available
@@ -15888,7 +15888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/plus-size-blue-glitter-evening-dress-styled.webp?v=1744771567
     Price: $104.95 USD
 - [Elegant Plus Size Formal One Shoulder Dress in Rich Emerald](https://ursupermart.com/products/plus-size-emerald-velvet-one-shoulder-formal-dress): Make a statement in our plus size formal one shoulder dress in luxurious emerald velvet with twist front detail and glamorous side slit. Machine washable.
-  Updated: 2025-11-05T21:04:45Z
+  Updated: 2025-11-18T08:01:06Z
   Vendor: S1B|Trendsi
   Product Type: Prom Dress
   Availability: Available
@@ -18385,7 +18385,7 @@
   Availability: Available
   Price: $26.95 USD
 - [Vacation Dress - Style & Comfort for Your Getaway!](https://ursupermart.com/products/vacation-dress-for-women-summer-style): Stylish & comfortable vacation dress. Perfect for beach holidays & dinners. Shop our best resort dresses now!
-  Updated: 2025-11-05T21:10:23Z
+  Updated: 2025-11-18T03:26:39Z
   Vendor: S1B|Updated - 1-CJ
   Product Type: Women's one-shoulder long-sleeve knitted vacation dress
   Availability: Available
@@ -19810,7 +19810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wireless-fast-charging-station-white-dock-nightstand.webp?v=1750560935
     Price: $39.95 USD
 - [E-Ink Phone Case with Photo for Iphone  Customize your Life](https://ursupermart.com/products/personalized-e-ink-phone-case-with-photo-iphone): Protect your phone with a custom  E-Ink phone case that's as unique as you are. This NFC Phone Case lets you personalize your Iphone with your favorite photo.
-  Updated: 2025-11-05T21:13:50Z
+  Updated: 2025-11-18T12:26:47Z
   Vendor: S1B|@Updated - CJ
   Product Type: Custom NFC e-ink display phone case
   Availability: Available
@@ -21636,7 +21636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-11-14T12:26:52Z
+  Updated: 2025-11-17T10:29:37Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -22898,7 +22898,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/naughty-garden-gnome-close-up-details.webp?v=1758592253
   Price: $18.95 USD
 - [Desktop electric heater for fast, quiet warmth](https://ursupermart.com/products/desktop-electric-heater-fast-quiet-warmth-compact): Desktop electric heater offers 2-second fast, silent warmth for small spaces, with safety features and energy-saving design. Enjoy cozy comfort today!
-  Updated: 2025-11-05T21:21:06Z
+  Updated: 2025-11-17T13:27:08Z
   Vendor: S1B|S1B|S1|CJ
   Product Type: mini heater
   Availability: Available
@@ -22912,7 +22912,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/portable-cloth-drier-heating-system.webp?v=1758644664
   Price: $54.95 USD
 - [Clear Bags for Stadium and Daily Use See Contents Easily](https://ursupermart.com/products/clear-stadium-tote-bags-for-events-and-daily-use): Clear bags for stadiums and events offer a transparent, waterproof design with multiple pockets for easy security checks and quick access. Shop now!
-  Updated: 2025-11-05T21:21:07Z
+  Updated: 2025-11-17T12:26:36Z
   Vendor: S1B|S1|CJ
   Product Type: clear tote bag
   Availability: Available
@@ -23583,7 +23583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/high-power-hair-dryer-blue-design.webp?v=1758151046
   Price: $39.95 USD
 - [Hat Scarf Set Warm Winter Beanie & Neck Warmer](https://ursupermart.com/products/hat-scarf-set-warm-winter-beanie-neck-warmer): This Hat Scarf set keeps you cozy and stylish all winter long with soft fleece lining, a matching beanie, and neck warmer. Shop now!
-  Updated: 2025-11-05T21:22:30Z
+  Updated: 2025-11-17T12:26:37Z
   Vendor: S1B|S1B|S1|CJ
   Product Type: winter beanie hat scarf set
   Availability: Available
@@ -25542,7 +25542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/heart-shoulder-bag-lavender-fluffy-style.webp?v=1758055294
     Price: $34.95 USD
 - [Moon Necklace Glowing Crescent Pendant for Unique Style](https://ursupermart.com/products/moon-necklace-glowing-crescent-pendant-unique-style): This moon necklace features a glowing crescent pendant and orb charm, perfect for expressing your unique style and adding magic to any look. Get yours today!
-  Updated: 2025-11-08T16:26:41Z
+  Updated: 2025-11-18T12:26:47Z
   Vendor: S1B|@S1|CJ
   Product Type: Glowing Crescent Moon Pendant Necklace
   Availability: Available
@@ -26223,7 +26223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/MeshPanelHigh-WaistActiveLeggings-Red.webp?v=1758892939
     Price: $29.95 USD
 - [Wart Remover Cream for Skin Tags & Moles. Clear Skin Fast.](https://ursupermart.com/products/wart-remover-cream-skin-tags-moles-fast-results): Wart Remover cream effectively eliminates skin tags, warts, and moles for clearer, smoother skin in just 7 days, suitable for all skin types. Get yours today!
-  Updated: 2025-11-07T19:27:07Z
+  Updated: 2025-11-17T08:26:51Z
   Vendor: S1B|S1|@S1B|UrSuperMart
   Product Type: Skin cream
   Availability: Available
@@ -26510,7 +26510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/educational-flashcard-reader-with-cards.webp?v=1759350207
     Price: $22.95 USD
 - [Snowball Makers: Fun Shaped Toys for Winter Play](https://ursupermart.com/products/snowball-makers-winter-play-fun-shaped-toys): Snowball makers let you create fun duck, heart, snowman, and dinosaur shapes easily, keeping hands warm and dry for endless winter play. Get yours today!
-  Updated: 2025-11-05T21:28:43Z
+  Updated: 2025-11-17T12:26:37Z
   Vendor: @S1B|S1|CJ
   Product Type: Snowball makers
   Availability: Available
@@ -26524,7 +26524,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/children-puzzle-diy-miniature-house.webp?v=1759421917
   Price: $54.95 USD
 - [Interactive Globe for Kids - Explore Earth with AR App](https://ursupermart.com/products/interactive-globe-for-kids-augmented-reality): Interactive globe for kids makes learning geography an exciting adventure with AR, LED lighting, and STEM activities; explore the world and spark curiosity!
-  Updated: 2025-11-15T02:26:56Z
+  Updated: 2025-11-17T08:26:52Z
   Vendor: @S1B|S1|CJ
   Product Type: Interactive globe
   Availability: Available
@@ -26694,7 +26694,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tabletop-foosball-game-wood-mini.webp?v=1761260324
   Price: $44.95 USD
 - [Electronic Keyboard for Beginners Kids & Adults Fun](https://ursupermart.com/products/electronic-keyboard-for-beginners-kids-adults-fun): This 61-key electronic keyboard makes learning music fun for all ages with tones, rhythms, and a mic; explore your musical talent and start playing today!
-  Updated: 2025-11-05T21:29:07Z
+  Updated: 2025-11-17T12:26:36Z
   Vendor: S1B|S1|CJ
   Product Type: Electronic keyboard
   Availability: Available
@@ -26926,6 +26926,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/digital-wristwatch-blue-black-backlight-style.webp?v=1761678351
     Price: $14.95 USD
+- [Fashion Watches Men Unique Transparent Skeleton Design](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design): Fashion Watches for men: Explore a transparent skeleton watch that showcases intricate design and your unique style. Make a statement and get yours today!
+  Updated: 2025-11-18T19:27:53Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Men's fashion wristwatch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-green-sport.webp?v=1763493398
+  - [Transparent White Surface - White Strap](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394325594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-white-strap-version.webp?v=1763493778
+    Price: $32.95 USD
+  - [Transparent Black Face - Black Strap](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394358362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-black-strap-version.webp?v=1763493398
+    Price: $32.95 USD
+  - [Transparent Red Face - Red Strap](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394391130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-red-sport-design.webp?v=1763493398
+    Price: $32.95 USD
+  - [Transparent Yellow Face - Yellow Strap](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394423898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-yellow-strap.webp?v=1763493778
+    Price: $32.95 USD
+  - [Transparent Blue Face - Blue Strap](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394456666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-blue-strap.webp?v=1763493778
+    Price: $32.95 USD
+  - [Transparent Green Face - Green Band](https://ursupermart.com/products/fashion-watches-men-transparent-skeleton-unique-design?variant=42389394489434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/skeleton-style-mechanical-wristwatch-green-sport.webp?v=1763493398
+    Price: $32.95 USD
 - [Wallet Case Leather Flip Protect Phone & Carry Cards](https://ursupermart.com/products/wallet-case-leather-flip-protect-phone-carry-cards): Wallet case for Samsung phones securely holds cards and cash, protecting your device with a strong grip and clasp closure. Simplify your carry today!
   Updated: 2025-10-17T01:22:46Z
   Vendor: @S1B|S1|eprolo
@@ -28300,7 +28330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/crocodile-embossed-handbag-steel-grey.webp?v=1761939315
     Price: $78.97 USD
 - [Magnetic Water Bottle Carrier: Hands-Free for Gym](https://ursupermart.com/products/magnetic-water-bottle-carrier-hands-free-gym): This water bottle carrier provides hands-free hydration with a strong magnetic backing and storage pocket. Keep your drink secure and accessible—get yours now!
-  Updated: 2025-11-16T21:55:18Z
+  Updated: 2025-11-17T09:44:19Z
   Vendor: S1B|S1|Dsers
   Product Type: Water bottle carrier
   Availability: Available
@@ -29048,7 +29078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/colombian-faja-curve-enhancer-black-lace-trim.webp?v=1761790498
     Price: $33.95 USD
 - [LED Mask for Anti-Aging & Acne Home Light Therapy](https://ursupermart.com/products/led-mask-for-anti-aging-and-acne-skin-therapy): LED mask offers professional anti-aging and acne treatments at home, giving you clearer, brighter skin. Get yours today and transform your complexion!
-  Updated: 2025-11-16T21:48:49Z
+  Updated: 2025-11-17T08:51:11Z
   Vendor: S1B|S1|Dsers
   Product Type: LED light therapy facial device
   Availability: Available
@@ -29062,7 +29092,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/led-light-therapy-device-type-a-red.webp?v=1763328607
     Price: $136.95 USD
 - [Insulated Bottle: Hot or Cold All Day, Smart Temp](https://ursupermart.com/products/insulated-bottle-smart-temp-lcd-display-hot-cold): Insulated bottle with an LCD temperature display keeps your drinks perfectly hot or cold for hours, leak-proof for convenience. Stay refreshed and shop now!
-  Updated: 2025-11-16T21:18:36Z
+  Updated: 2025-11-17T09:01:40Z
   Vendor: S1B|S1|Dsers
   Product Type: Insulated Water Bottle
   Availability: Available
@@ -29088,14 +29118,14 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/smart-insulated-water-bottle-matte-black.webp?v=1763327567
     Price: $24.95 USD
 - [Smart Locks: Keyless Fingerprint Smart Door Knob](https://ursupermart.com/products/smart-locks-keyless-fingerprint-smart-door-knob): Smart locks offer effortless, secure keyless entry with fingerprint, code, app, or key, enhancing your daily convenience and peace of mind. Get yours today!
-  Updated: 2025-11-16T19:05:52Z
+  Updated: 2025-11-17T06:10:12Z
   Vendor: S1B|S1|Dsers
   Product Type: smart door knob
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/keyless-fingerprint-smart-door-knob-modern-design.webp?v=1763319797
   Price: $48.95 USD
 - [Sport Watches for Active Men - Water Resistant & Durable](https://ursupermart.com/products/sport-watches-for-active-men-water-resistant-durable): Sport watches for active men are water-resistant and durable, featuring a dual display and chronograph to track your adventures; get yours today!
-  Updated: 2025-11-16T20:05:25Z
+  Updated: 2025-11-17T07:08:34Z
   Vendor: S1B|S1|Dsers
   Product Type: sport watch
   Availability: Available
@@ -29532,14 +29562,14 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cordless-hair-straightener-fantasy-pink.webp?v=1762035591
     Price: $21.95 USD
 - [Measuring Cups: Adjustable Glass for Easy & Precise Use](https://ursupermart.com/products/adjustable-glass-measuring-cups-for-baking-precise): These adjustable measuring cups simplify baking with a 4-in-1 design, built-in scraper, and clear ml/cup markings. Get yours for precise, mess-free cooking!
-  Updated: 2025-11-16T20:20:28Z
+  Updated: 2025-11-17T08:07:08Z
   Vendor: S1B|S1|Dsers
   Product Type: Adjustable measuring cup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/adjustable-measuring-cup-4in1-kitchen-tool.webp?v=1763324405
   Price: $24.95 USD
 - [Space Heater Wall Mounted for Small Rooms & Offices](https://ursupermart.com/products/space-heater-wall-mounted-for-small-rooms-office): Space heater offers quiet, wall-mounted warmth for any small room, featuring a digital display, remote, and timer. Enjoy cozy comfort; shop now!
-  Updated: 2025-11-16T20:49:21Z
+  Updated: 2025-11-17T08:28:57Z
   Vendor: S1B|S1|CJ
   Product Type: Wall-mounted space heater
   Availability: Available
@@ -30548,6 +30578,212 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/654ab3e7-bdfa-4ebe-b4cf-e68b38ae26ea.jpg?v=1762443489
     Price: $124.95 USD
+- [Phone Cases: Stylish Leather Crocodile Texture Protection](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection): Phone cases with a luxurious crocodile texture offer full protection and sophisticated style for your device; shop now to elevate your look!
+  Updated: 2025-11-18T01:23:02Z
+  Vendor: S1B|S1|CJ
+  Product Type: Phone Cases
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-phone-case-luxury-color-collection.webp?v=1763386094
+  - [Black / IPhone11](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065388634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone11PRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065421402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone12](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065454170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone12 Pro](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065486938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone12 Pro Max](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065519706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone12 mini](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065552474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhone6](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065585242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhoneSE2 2020](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065618010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhoneXPRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065650778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhoneXR](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065683546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhoneXS](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065716314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / IPhoneXSMAX](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065749082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhone6s plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065781850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhone7](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065814618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhone7 plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065847386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhone8](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065880154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhone8 plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065912922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Black / iPhoneX](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065945690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-black-luxury-cover.webp?v=1763385962
+    Price: $42.95 USD
+  - [Forrest Green / IPhone11](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528065978458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone11PRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066011226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone12](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066043994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone12 Pro](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066076762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone12 Pro Max](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066109530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone12 mini](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066142298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhone6](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066175066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhoneSE2 2020](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066207834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhoneXPRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066240602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhoneXR](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066273370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhoneXS](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066306138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / IPhoneXSMAX](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066338906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhone6s plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066371674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhone7](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066404442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhone7 plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066437210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhone8](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066469978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhone8 plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066502746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Forrest Green / iPhoneX](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066535514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-green-polished-leather.webp?v=1763385907
+    Price: $42.95 USD
+  - [Purple / IPhone11](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066568282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone11PRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066601050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone12](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066633818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone12 Pro](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066666586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone12 Pro Max](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066699354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone12 mini](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066732122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhone6](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066764890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhoneSE2 2020](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066797658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhoneXPRO](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066830426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhoneXR](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066863194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhoneXS](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066895962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / IPhoneXSMAX](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066928730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / iPhone6s plus](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066961498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
+  - [Purple / iPhone7](https://ursupermart.com/products/phone-cases-luxury-crocodile-texture-leather-protection?variant=42528066994266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/alligator-skin-iphone-case-purple-crocodile-style.webp?v=1763385991
+    Price: $42.95 USD
 - [Electric Shaver for Men - Wet Dry Cordless Beard Trimmer](https://ursupermart.com/products/electric-shaver-men-wet-dry-cordless-beard-trimmer): This electric shaver offers precise wet/dry grooming with a T-shaped blade for a sharp look anywhere. Get yours for effortless styling and a clean finish!
   Updated: 2025-11-11T14:32:55Z
   Vendor: S1B|S1|CJ
@@ -30581,7 +30817,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bluetooth-body-fat-scale-white-version.webp?v=1763233625
     Price: $74.95 USD
 - [Winter Parka for Women Warm Fur Hooded Stylish Coat](https://ursupermart.com/products/women-fur-hooded-warm-winter-parka-coat-stylish): Winter Parka for women: Stay warm and stylish in this versatile, fur-hooded coat with secure pockets and an adjustable waist for a perfect fit. Shop today!
-  Updated: 2025-11-16T19:26:51Z
+  Updated: 2025-11-18T08:28:32Z
   Vendor: S1B|S1|CJ
   Product Type: Women's Winter Parka
   Availability: Available
@@ -30963,6 +31199,836 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/womens-faux-fur-jacket-pink-relaxed.webp?v=1763247881
     Price: $42.95 USD
+- [Winter Jacket for Women - Warm & Stylish Parka](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka): Winter jacket for women: stay warm and stylish with this cozy parka featuring a faux fur hood and secure pockets. Shop now for ultimate comfort!
+  Updated: 2025-11-18T10:02:49Z
+  Vendor: S1B|S1|CJ
+  Product Type: winter parka
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+  - [Black / S](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138264666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138231898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138199130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138297434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138100826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138133594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138166362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-black-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / S](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138494042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / M](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138461274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / L](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138428506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138526810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / 2XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138330202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / 3XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138362970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Dark Blue / 4XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138395738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-navy-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / S](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138690650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / M](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138657882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / L](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138625114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138723418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / 2XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138559578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Green / 3XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138592346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-olive-front.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / S](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138887258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / M](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138854490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / L](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138821722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138920026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / 2XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138756186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+  - [Red / 3XL](https://ursupermart.com/products/womens-winter-jacket-warm-stylish-parka?variant=42528138788954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/insulated-parka-women-maroon-fur-hood.webp?v=1763416837
+    Price: $67.95 USD
+- [Heated Seats Car Cover | Easy Warmth for Any Vehicle](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle): Heated seats provide instant warmth and soothing comfort for any car, transforming cold commutes into pleasant, relaxing drives. Get yours now!
+  Updated: 2025-11-18T16:46:48Z
+  Vendor: S1B|S1|CJ
+  Product Type: Heated car seat cover
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-black-padded-cover.webp?v=1763340778
+  - [Single Seat / 55x46x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171229274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-black-padded-cover.webp?v=1763340778
+    Price: $67.95 USD
+  - [Dual Seats / 55x46x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171262042)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-slim-black-cushion.webp?v=1763340802
+    Price: $67.95 USD
+  - [BK Double sitting / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171294810)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-dual-set-controller.webp?v=1763340827
+    Price: $67.95 USD
+  - [BK no heating / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171327578)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-black-luxury-interior.webp?v=1763340853
+    Price: $67.95 USD
+  - [BU double sitting / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171360346)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-blue-front-seats.webp?v=1763340880
+    Price: $67.95 USD
+  - [BU no heating / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171393114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-blue-single-seat.webp?v=1763340914
+    Price: $67.95 USD
+  - [Black / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171425882)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-single-pad-controller.webp?v=1763340940
+    Price: $67.95 USD
+  - [Blue / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171458650)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-blue-on-brown-seat.webp?v=1763340968
+    Price: $67.95 USD
+  - [Brown double / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171491418)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-tan-front-seat-set.webp?v=1763341000
+    Price: $67.95 USD
+  - [Brown single / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171524186)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-tan-single-seat.webp?v=1763341027
+    Price: $67.95 USD
+  - [GY double sitting / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171556954)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-grey-quilted-front.webp?v=1763341748
+    Price: $67.95 USD
+  - [GY no heating / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171589722)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-grey-single-front.webp?v=1763341783
+    Price: $67.95 USD
+  - [Gray / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171622490)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-grey-pad-display.webp?v=1763341813
+    Price: $67.95 USD
+  - [RD Double sitting / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171655258)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-red-front-seats.webp?v=1763341847
+    Price: $67.95 USD
+  - [RD no heating / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171688026)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-red-single-seat.webp?v=1763341891
+    Price: $67.95 USD
+  - [Red / 97x48cm](https://ursupermart.com/products/heated-seats-car-cover-easy-warmth-vehicle?variant=42528171720794)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/car-seat-heater-red-single-seat.webp?v=1763341891
+    Price: $67.95 USD
+- [Men Overcoats Warm Faux Leather Winter Coat with Fur](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat): Men overcoats, crafted from faux leather with a plush faux fur lining, offer warmth and style for winter. Shop now for your sophisticated look!
+  Updated: 2025-11-17T11:59:32Z
+  Vendor: S1B|S1|CJ
+  Product Type: Faux Leather Overcoat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-fur.webp?v=1763339196
+  - [Black / 2XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202391642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / 2XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202424410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202457178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / 3XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202489946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202522714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / L](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202555482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / L lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202588250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / M](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202621018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / M lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202653786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / S](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202686554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / S lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202719322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202752090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Black / XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202784858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-black-front.webp?v=1763339352
+    Price: $94.95 USD
+  - [Brown / 2XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202817626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / 2XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202850394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / 3XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202883162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / 3XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202915930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / 4XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202948698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / L](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528202981466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / L lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203014234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / M](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203047002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / M lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203079770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / S](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203112538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / S lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203145306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / XL](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203178074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+  - [Brown / XL lengthened](https://ursupermart.com/products/men-overcoats-warm-faux-leather-winter-fur-coat?variant=42528203210842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/breasted-coat-for-men-long-brown-front.webp?v=1763339377
+    Price: $94.95 USD
+- [Arthritis Gloves Copper for Hand Pain Relief & Swelling](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling): Arthritis gloves provide soothing warmth and compression for hand pain, swelling, and stiffness. Regain comfort and tackle daily tasks with ease—shop now!
+  Updated: 2025-11-17T11:41:57Z
+  Vendor: S1B|S1|CJ
+  Product Type: Arthritis gloves
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-copper-compression-relief.webp?v=1763336159
+  - [Black 2PC / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215367770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-set.webp?v=1763336311
+    Price: $37.95 USD
+  - [Black 2PC / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215335002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-set.webp?v=1763336311
+    Price: $37.95 USD
+  - [Black 2PC / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215302234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-set.webp?v=1763336311
+    Price: $37.95 USD
+  - [Black 4PC / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215466074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-four-piece-compression-set.webp?v=1763336337
+    Price: $49.95 USD
+  - [Black 4PC / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215433306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-four-piece-compression-set.webp?v=1763336337
+    Price: $49.95 USD
+  - [Black 4PC / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215400538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-four-piece-compression-set.webp?v=1763336337
+    Price: $49.95 USD
+  - [Black / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215564378)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-black-compression-pair.webp?v=1763336364
+    Price: $23.95 USD
+  - [Black / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215531610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-black-compression-pair.webp?v=1763336364
+    Price: $23.95 USD
+  - [Black / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215498842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-black-compression-pair.webp?v=1763336364
+    Price: $23.95 USD
+  - [Full finger black / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215662682)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-full-finger-compression.webp?v=1763336391
+    Price: $26.95 USD
+  - [Full finger black / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215629914)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-full-finger-compression.webp?v=1763336391
+    Price: $26.95 USD
+  - [Full finger black / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215597146)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-full-finger-compression.webp?v=1763336391
+    Price: $26.95 USD
+  - [Set1 2pcs / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215760986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-large-set.webp?v=1763336420
+    Price: $23.95 USD
+  - [Set1 2pcs / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215728218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-large-set.webp?v=1763336420
+    Price: $23.95 USD
+  - [Set1 2pcs / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215695450)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-two-piece-large-set.webp?v=1763336420
+    Price: $37.95 USD
+  - [Set1 / M](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215826522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-large-size-hand-support.webp?v=1763336452
+    Price: $23.95 USD
+  - [Set1 / L](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215793754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-large-size-hand-support.webp?v=1763336452
+    Price: $23.95 USD
+  - [Set2 / S](https://ursupermart.com/products/arthritis-gloves-for-hand-pain-relief-and-swelling?variant=42528215859290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/arthritis-gloves-small-size-compression.webp?v=1763336479
+    Price: $23.95 USD
+- [Glow bears: Comforting light up teddy for kids sleep](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep): Glow bears offer soft, multi-colored comfort, perfect for kids afraid of the dark. Tap to light up this cuddly friend and bring home a soothing companion today!
+  Updated: 2025-11-17T11:26:37Z
+  Vendor: S1B|S1|CJ
+  Product Type: Light up teddy bear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-plush-multicolor-display-set.webp?v=1763335172
+  - [Blue / 25cm](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240304218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-blue-soft-plush-toy.webp?v=1763335481
+    Price: $24.95 USD
+  - [Blue / 30CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240336986)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-blue-soft-plush-toy.webp?v=1763335481
+    Price: $29.99 USD
+  - [Blue / 50CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240369754)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-blue-soft-plush-toy.webp?v=1763335481
+    Price: $37.95 USD
+  - [Blue / 75CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240402522)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-blue-soft-plush-toy.webp?v=1763335481
+    Price: $64.95 USD
+  - [Pink / 25cm](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240435290)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-pink-soft-plush-toy.webp?v=1763335508
+    Price: $24.95 USD
+  - [Pink / 30CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240468058)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-pink-soft-plush-toy.webp?v=1763335508
+    Price: $29.99 USD
+  - [Pink / 50CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240500826)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-pink-soft-plush-toy.webp?v=1763335508
+    Price: $37.95 USD
+  - [Pink / 75CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240533594)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-pink-soft-plush-toy.webp?v=1763335508
+    Price: $64.95 USD
+  - [White / 25cm](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240566362)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-white-soft-plush-toy.webp?v=1763335537
+    Price: $24.95 USD
+  - [White / 30CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240599130)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-white-soft-plush-toy.webp?v=1763335537
+    Price: $29.99 USD
+  - [White / 50CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240631898)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-white-soft-plush-toy.webp?v=1763335537
+    Price: $37.95 USD
+  - [White / 75CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240664666)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-white-soft-plush-toy.webp?v=1763335537
+    Price: $64.95 USD
+  - [Yellow / 25cm](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240697434)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
+    Price: $24.95 USD
+  - [Yellow / 30CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240730202)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
+    Price: $29.99 USD
+  - [Yellow / 50CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240762970)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
+    Price: $37.95 USD
+  - [Yellow / 75CM](https://ursupermart.com/products/glow-bears-comforting-light-up-teddy-for-kids-sleep?variant=42528240795738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/teddy-bear-yellow-soft-plush-toy.webp?v=1763335565
+    Price: $64.95 USD
+- [Women's Overcoats: Tailored Fit & Warm Winter Style](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style): Women's Overcoats deliver tailored style and cozy warmth for autumn and winter, perfect for any occasion. Elevate your look and feel confident; shop now!
+  Updated: 2025-11-17T10:51:29Z
+  Vendor: S1B|S1|CJ
+  Product Type: Women's Overcoat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+  - [Black / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242597978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242630746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242663514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242696282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242729050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242761818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Black / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242794586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-black-fall-outfit.webp?v=1763333895
+    Price: $52.95 USD
+  - [Blue / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242827354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242860122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242892890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242925658)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242958426)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528242991194)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Blue / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243023962)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-blue-street-style.webp?v=1763333921
+    Price: $52.95 USD
+  - [Caramel / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243056730)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243089498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243122266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243155034)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243187802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243220570)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Caramel / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243253338)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-rust-orange-look.webp?v=1763333948
+    Price: $52.95 USD
+  - [Dark gray / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243286106)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243318874)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243351642)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243384410)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243417178)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243449946)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Dark gray / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243482714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-gray-stylish-fit.webp?v=1763333980
+    Price: $52.95 USD
+  - [Gray / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243515482)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243548250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243581018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243613786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243646554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243679322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Gray / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243712090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-light-gray-minimal.webp?v=1763334007
+    Price: $52.95 USD
+  - [Green / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243744858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243777626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243810394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243843162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243875930)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243908698)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Green / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243941466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-olive-green-style.webp?v=1763334035
+    Price: $52.95 USD
+  - [Khaki / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528243974234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / 3XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244007002)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / 4XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244039770)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / L](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244072538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / M](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244105306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / S](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244138074)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Khaki / XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244170842)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-camel-chic-look.webp?v=1763334066
+    Price: $52.95 USD
+  - [Navy Blue / 2XL](https://ursupermart.com/products/womens-overcoats-tailored-fit-warm-winter-style?variant=42528244203610)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/longline-coat-women-teal-modern-style.webp?v=1763334098
+    Price: $52.95 USD
+- [Workout Leggings High Waisted with Pockets for Women](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women): Workout leggings with a high waist and handy pockets keep you comfy and supported with breathable fabric for any activity. Get yours today!
+  Updated: 2025-11-17T10:44:00Z
+  Vendor: S1B|S1|CJ
+  Product Type: Workout Leggings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+  - [Bean Paste Pink / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249741402)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+    Price: $28.95 USD
+  - [Bean Paste Pink / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249708634)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+    Price: $28.95 USD
+  - [Bean Paste Pink / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249675866)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+    Price: $28.95 USD
+  - [Bean Paste Pink / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249774170)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+    Price: $28.95 USD
+  - [Bean Paste Pink / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249643098)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-rose-highwaist.webp?v=1763332755
+    Price: $28.95 USD
+  - [Black / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249905242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-black-sportswear.webp?v=1763332786
+    Price: $28.95 USD
+  - [Black / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249872474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-black-sportswear.webp?v=1763332786
+    Price: $28.95 USD
+  - [Black / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249839706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-black-sportswear.webp?v=1763332786
+    Price: $28.95 USD
+  - [Black / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249938010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-black-sportswear.webp?v=1763332786
+    Price: $28.95 USD
+  - [Black / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249806938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-black-sportswear.webp?v=1763332786
+    Price: $28.95 USD
+  - [Blue / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250069082)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-navy-gymstyle.webp?v=1763332813
+    Price: $28.95 USD
+  - [Blue / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250036314)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-navy-gymstyle.webp?v=1763332813
+    Price: $28.95 USD
+  - [Blue / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250003546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-navy-gymstyle.webp?v=1763332813
+    Price: $28.95 USD
+  - [Blue / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250101850)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-navy-gymstyle.webp?v=1763332813
+    Price: $28.95 USD
+  - [Blue / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528249970778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-navy-gymstyle.webp?v=1763332813
+    Price: $28.95 USD
+  - [Grey Lake Blue / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250232922)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-lightgrey-fit.webp?v=1763332844
+    Price: $28.95 USD
+  - [Grey Lake Blue / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250200154)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-lightgrey-fit.webp?v=1763332844
+    Price: $28.95 USD
+  - [Grey Lake Blue / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250167386)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-lightgrey-fit.webp?v=1763332844
+    Price: $28.95 USD
+  - [Grey Lake Blue / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250265690)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-lightgrey-fit.webp?v=1763332844
+    Price: $28.95 USD
+  - [Grey Lake Blue / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250134618)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-lightgrey-fit.webp?v=1763332844
+    Price: $28.95 USD
+  - [Pink / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250396762)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-peach-workout.webp?v=1763332872
+    Price: $28.95 USD
+  - [Pink / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250363994)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-peach-workout.webp?v=1763332872
+    Price: $28.95 USD
+  - [Pink / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250331226)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-peach-workout.webp?v=1763332872
+    Price: $28.95 USD
+  - [Pink / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250429530)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-peach-workout.webp?v=1763332872
+    Price: $28.95 USD
+  - [Pink / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250298458)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-peach-workout.webp?v=1763332872
+    Price: $28.95 USD
+  - [Purple / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250560602)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-berrylush-tone.webp?v=1763332925
+    Price: $28.95 USD
+  - [Purple / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250527834)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-berrylush-tone.webp?v=1763332925
+    Price: $28.95 USD
+  - [Purple / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250495066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-berrylush-tone.webp?v=1763332925
+    Price: $28.95 USD
+  - [Purple / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250593370)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-berrylush-tone.webp?v=1763332925
+    Price: $28.95 USD
+  - [Purple / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250462298)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-berrylush-tone.webp?v=1763332925
+    Price: $28.95 USD
+  - [Red / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250724442)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-plum-athletic.webp?v=1763332955
+    Price: $28.95 USD
+  - [Red / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250691674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-plum-athletic.webp?v=1763332955
+    Price: $28.95 USD
+  - [Red / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250658906)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-plum-athletic.webp?v=1763332955
+    Price: $28.95 USD
+  - [Red / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250757210)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-plum-athletic.webp?v=1763332955
+    Price: $28.95 USD
+  - [Red / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250626138)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-plum-athletic.webp?v=1763332955
+    Price: $28.95 USD
+  - [Sea Rock Grey / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250888282)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-midgrey-performance.webp?v=1763332983
+    Price: $28.95 USD
+  - [Sea Rock Grey / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250855514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-midgrey-performance.webp?v=1763332983
+    Price: $28.95 USD
+  - [Sea Rock Grey / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250822746)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-midgrey-performance.webp?v=1763332983
+    Price: $28.95 USD
+  - [Sea Rock Grey / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250921050)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-midgrey-performance.webp?v=1763332983
+    Price: $28.95 USD
+  - [Sea Rock Grey / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250789978)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-midgrey-performance.webp?v=1763332983
+    Price: $28.95 USD
+  - [Tomato Purple / S](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528251052122)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-purple-activewear.webp?v=1763333012
+    Price: $28.95 USD
+  - [Tomato Purple / M](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528251019354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-purple-activewear.webp?v=1763333012
+    Price: $28.95 USD
+  - [Tomato Purple / L](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250986586)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-purple-activewear.webp?v=1763333012
+    Price: $28.95 USD
+  - [Tomato Purple / XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528251084890)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-purple-activewear.webp?v=1763333012
+    Price: $28.95 USD
+  - [Tomato Purple / 2XL](https://ursupermart.com/products/workout-leggings-high-waisted-with-pockets-women?variant=42528250953818)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/yoga-legging-with-pocket-purple-activewear.webp?v=1763333012
+    Price: $28.95 USD
 - [Womens Coats: Stylish Asymmetrical Fall & Casual Jackets](https://ursupermart.com/products/womens-coats-stylish-asymmetrical-fall-casual-jackets): Womens coats with an asymmetrical hemline and knit cuffs offer versatile style and warmth for any occasion. Shop now for your perfect fit!
   Updated: 2025-11-08T12:22:27Z
   Vendor: S1B|S1|CJ
@@ -31997,7 +33063,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/indoor-putting-green-size-specs-view.webp?v=1762485223
   Price: $129.95 USD
 - [Christmas Elf Doll Funny Ozzy Rocker Holiday Gag Gift](https://ursupermart.com/products/christmas-elf-doll-funny-rocker-gag-gift-holiday-decor): This funny christmas elf doll, resembling a rock legend, brings humorous, poseable fun to your holidays. Grab this unique decoration and make everyone laugh!
-  Updated: 2025-11-13T16:28:22Z
+  Updated: 2025-11-18T19:38:11Z
   Vendor: S1B|S1|CJ
   Product Type: Novelty Doll
   Availability: Available
@@ -34263,9 +35329,9 @@
 - [Women's Clothing, Dresses, Outfits & Trendy Workout Wear](https://ursupermart.com/collections/womens-clothing-dresses-trendy-workout-wear): Discover stylish women's clothing, trendy workout wear, and elegant dresses. Shop the latest outfits for every occasion and stay fashionable and active daily.
   Updated: 2025-11-01T18:59:52Z
   Total Products: 21
-- [Discover Trendy Men's Fashion | Budget-Friendly Style](https://ursupermart.com/collections/mens-fashion): Shop our affordable men's fashion collection for trendy clothing and accessories. Quality styles at budget-friendly prices. Free shipping available!
-  Updated: 2025-11-16T23:59:26Z
-  Total Products: 23
+- [Men's Fashion Accessories & Daily Essentials Collection](https://ursupermart.com/collections/mens-fashion): Shop men's watches, wallets, hoodies & accessories. Quality fashion pieces for everyday essentials. Free shipping, easy returns & great value pricing.
+  Updated: 2025-11-18T23:47:44Z
+  Total Products: 24
 - [Top Phone Accessories for Style, Charging & Protection](https://ursupermart.com/collections/top-phone-accessories-best-charging-cables): Shop phone accessories that combine function, fashion, and value. Free shipping and 10% off your first order. Stay charged and stylish every day.
   Updated: 2025-11-10T13:54:03Z
   Total Products: 35
@@ -34294,7 +35360,7 @@
   Updated: 2025-11-16T21:54:51Z
   Total Products: 25
 - [Viral Tech Gadgets Under $50 TikTok Users Are Buying Now](https://ursupermart.com/collections/viral-tech-gadgets-under-50): Shop viral tech gadgets under $50 trending on TikTok 2025. Power banks, gaming consoles & flashlights with free shipping. Limited holiday deals now!
-  Updated: 2025-11-16T21:54:51Z
+  Updated: 2025-11-18T19:27:52Z
   Total Products: 38
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
   Updated: 2025-11-14T21:42:40Z
@@ -34306,26 +35372,26 @@
   Updated: 2025-10-24T13:31:42Z
   Total Products: 57
 - [Shop Affordable Valentine Jewelry Gifts She'll Actually Love](https://ursupermart.com/collections/affordable-valentine-jewelry-gifts-her): Find affordable valentine jewelry gifts under $50 she'll treasure. Heart necklaces, romantic jewelry sets & couples gifts. Free shipping & hassle free returns!
-  Updated: 2025-11-06T17:48:02Z
+  Updated: 2025-11-17T01:29:38Z
   Total Products: 20
 - [TikTok Trending Gadgets That Solve Everyday Problems Now](https://ursupermart.com/collections/trending-gadgets-problem-solvers): Shop TikTok trending gadgets that solve your daily problems! Cool gadgets, problem solvers, gift ideas with free shipping. Christmas sale ends soon!
   Updated: 2025-11-16T21:54:51Z
   Total Products: 70
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
-  Updated: 2025-11-16T21:34:58Z
+  Updated: 2025-11-17T01:00:00Z
   Total Products: 45
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
   Updated: 2025-11-07T22:35:38Z
   Total Products: 58
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-11-16T00:54:28Z
+  Updated: 2025-11-17T01:09:04Z
   Total Products: 45
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
-  Updated: 2025-11-06T17:13:29Z
+  Updated: 2025-11-17T21:52:49Z
   Total Products: 55
 - [Best Summer Dresses | Cotton Maxi Mini Beach Styles XS-3X](https://ursupermart.com/collections/summer-dresses-maxi-mini-beach-xs-3x): Shop trendy 2025 summer dresses! Affordable cotton maxi, mini & beach styles XS-3X. Lightweight, breathable fabrics for vacation & everyday. Free shipping!
-  Updated: 2025-11-07T08:02:31Z
-  Total Products: 36
+  Updated: 2025-11-18T19:28:43Z
+  Total Products: 35
 - [Affordable Prom Dresses: Stunning Formal Wear Under $60 2025](https://ursupermart.com/collections/affordable-prom-dresses-2025-collection): Shop affordable prom dresses from $60! Gorgeous formal dresses & evening gowns in all sizes. Free shipping & returns. Find your perfect dress!
   Updated: 2025-10-05T20:15:57Z
   Total Products: 25
@@ -34333,10 +35399,10 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-11-16T21:54:51Z
+  Updated: 2025-11-18T19:27:52Z
   Total Products: 47
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
-  Updated: 2025-11-16T20:03:03Z
+  Updated: 2025-11-18T19:27:52Z
   Total Products: 32
 - [Wellness Collection – Skincare, Supplements & Self-Care](https://ursupermart.com/collections/wellness-tech-collection): Discover our Wellness collection with skincare, supplements, and self-care essentials to support a balanced lifestyle and healthy, glowing skin every day
   Updated: 2025-11-16T21:54:51Z
@@ -34345,7 +35411,7 @@
   Updated: 2025-11-04T22:54:47Z
   Total Products: 10
 - [Shop Women's Winter Coats: Warm, Stylish & Budget-Friendly](https://ursupermart.com/collections/womens-winter-coats-affordable-2026): Find affordable women's winter coats, jackets & sweaters for work and weekend. Cozy styles under $150 with free shipping. Shop winter clothing deals now!
-  Updated: 2025-11-16T22:51:18Z
+  Updated: 2025-11-17T02:59:06Z
   Total Products: 38
 
 ## Blogs
@@ -34779,6 +35845,10 @@
     Updated: 2025-11-03T15:57:13Z
     Author: Angel Carbonell
     Tags: affordable quality women's knitwear, affordable winter knitwear women, affordable women's sweater, best mock neck sweater, casual mock neck sweater, casual professional knitwear, comfortable half neck sweater, comfortable mock neck fit, comfortable office sweater, comfortable turtleneck alternative, comfortable winter knitwear, cozy knit sweater for winter, cozy mock turtleneck colors, cozy mock turtleneck styling, half zip mock neck sweater, layering sweater for women, mock neck pullover styling guide, mock neck sweater care instructions, mock neck sweater size guide, mock neck sweater styling tips, mock turtleneck outfit ideas, mock turtleneck sweater colors, mock turtleneck sweater for women, office appropriate mock neck, professional casual sweater women, professional mock turtleneck outfit, professional mock turtleneck sweater, professional women's knitwear, ribbed collar turtleneck women, soft knit mock neck sweater, transitional weather sweater, versatile knit pullover, versatile mock neck styling, versatile mock turtleneck for women, versatile winter sweater women, weekend casual turtleneck, women's fall sweater essentials, women's half neck sweater review, women's half turtleneck sweater, women's knit sweater trends, women's mock neck layering piece, women's mock neck pullover, women's mock neck sweater guide, women's sweater gift ideas, women's sweater wardrobe staples, women's sweater work to weekend, women's turtleneck under $60
+  - [Men's Style Essentials: Quality Fashion & Accessories 2026](https://ursupermart.com/blogs/fashion/mens-style-essentials-quality-fashion): Men's Style Essentials: Quality Fashion & Accessories 2026
+    Updated: 2025-11-17T23:20:40Z
+    Author: Angel Carbonell
+    Tags: affordable mens fashion tips, affordable quality mens clothing brands, barrel fit jeans vs straight leg, best earth tone colors for men, best fabrics for winter mens clothing, best mens crossbody bags for travel, best mens formal shoes guide, best mens watches under 200, comfortable mens fashion essentials, elevated casual menswear, how to build mens wardrobe, how to dress better as a man, how to find your personal style men, how to layer mens clothing, how to look stylish without trying men, how to style oversized blazer men, how to transition summer to fall outfits men, how to wear mens accessories confidently, mens accessories styling tips, mens athleisure outfit tips, mens business casual outfit ideas, mens capsule wardrobe essentials, mens casual outfit ideas 2025, mens color coordination basics, mens double breasted jacket styling, mens fashion body type guide, mens fashion on tight budget, mens fashion trends 2025, mens minimalist fashion guide, mens mixed metal jewelry trends, mens puffer jacket vs parka comparison, mens RFID blocking wallet guide, mens streetwear basics, mens style guide for beginners, mens style mistakes to avoid, mens style tips for 30s, mens sustainable fashion tips, mens utility wear fashion, mens wardrobe staples checklist, mens wide leg vs slim fit pants, mens winter coat buying guide, quality mens everyday essentials, quality over quantity mens fashion, smart casual mens outfit, timeless mens style pieces, versatile mens wardrobe pieces, vintage fashion mens modern styling
 - [Tips, Trends & Deals | UrSuperMart Blog](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog): Explore shopping tips, product trends, gift ideas, and exclusive deals. Stay updated with fresh content from the UrSuperMart blog.
   - [Discover Ultimate Gadgets: Latest Phones, Reviews & Prices](https://ursupermart.com/blogs/tips-trends-deals-ursupermart-blog/ultimate-gadgets-guide-2025-top-tech): Discover Ultimate Gadgets: Latest Phones, Reviews & Prices
     Updated: 2025-08-07T23:04:47Z
@@ -34867,6 +35937,10 @@
     Updated: 2025-11-14T02:49:08Z
     Author: Angel C
     Tags: best sleep headphones 2024, best sleep headphones for travel., Bluetooth headband for exercise, Bluetooth headband for relaxation, Bluetooth workout headband, comfortable audio headband, comfortable headband for travel, comfortable sleep headphones, comfortable travel headphones, comfortable wireless audio, discreet audio headband, easy control headband headphones, exercise headband headphones, headband earbuds for sleeping, headband for meditation, headband for peaceful sleep, headband for yoga, headband headphones for sleeping, headband with speakers for sleep, noise blocking sleep headband, noise cancelling headband for sleep, running headband with headphones, secure fit workout headband, sleep headband for side sleepers, sleep headphones gift idea, Sleep headphones headband, soft fabric Bluetooth headband, soft sleep headphones, sweat absorbing headband, sweat proof workout headband, tangle-free travel headphones, travel friendly headphones, travel headband headphones, versatile audio headband, wireless headband for audiobooks, wireless headband for workouts, wireless music headband, wireless sleep headband, wireless sleep headband for running
+  - [Best Transcription Device: Meeting Recorder for Professionals](https://ursupermart.com/blogs/tech-gadget-ideas/transcription-device-meeting-recorder): Best Transcription Device: Meeting Recorder for Professionals
+    Updated: 2025-11-18T22:11:44Z
+    Author: Angel C
+    Tags: AI meeting recorder, AI summarization recorder, audio summarizer device, audio summarizer for journalists, audio summarizer for students, audio to text app, audio to text converter, audio transcription app, audio transcription for legal, audio transcription for research, audio transcription for students., best audio transcription software, best transcription device for meetings, buy audio to text converter, dual mic speech to text, EchoNote AI recorder, how to transcribe audio, improve meeting accountability, lecture recording device, meeting recorder with transcription, meeting recording device, portable recorder for writers, portable transcription device, portable voice recorder, real time transcription device, recorder for podcasts, review sales calls, Smart transcription device, speech to text converter, transcribe audio to text, transcription device benefits, transcription device for lawyers, transcription for research interviews, voice recording device, voice to text for professionals, voice to text recorder, wireless audio transcriber, wireless recording device for lectures, wireless voice recorder
 
 ## Store Pages
 
