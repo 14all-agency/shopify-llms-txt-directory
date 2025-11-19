@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-11-18T00:00:26.222Z
+- Updated At: 2025-11-19T00:00:46.916Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo & Conditioner (Box of 6)](https://mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): 6 x Individual Scalp Stimulating Shampoo and Conditioners per box The KeraFactor Shampoo & Conditioner exfoliates and stimulates the scalp and hair. Using a unique combination of both conditioners and growth factors this product is designed to enhance scalp circulation and reinvigorate the scalp. Continuous use of this conditioning shampoo combined with other Kerafactor products helps create hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair conditioner than a shampoo wash. RRP per Bottle of Shampoo + Conditioner is $49.00 USD Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol We are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-11-17T23:59:41Z
+  Updated: 2025-11-18T22:04:52Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/28-opt.jpg?v=1751550302
   Price: $150.00 USD
 - [Take-Home : KeraFactor Scalp Stimulating Solution (Box of 6)](https://mykerafactor.com/products/take-home-kerafactor-scalp-stimulating-solution-box-of-6): This is a Box of 6 of Patient Take-Home KeraFactor Scalp Stimulating Solution. RRP per Bottle of Solution is $169.00 USD Each highly concentrated 50ml bottle of KeraFactor Solution contains the proprietary KeraFactor Peptide Complex (KFP™). KFP is unique in that it contains 7 Polypeptides that include both specifically selected growth factors and skin proteins to help with hair and scalp health. This patented complex helps to "turn on" weak or resting hair follicles, improve scalp circulation and nutrients to help produce thicker, longer healthy-looking hair. We are very happy to announce the next generation of our proprietary KeraFactor formula, Kerafactor with Nanofluorosomes. Nanofluorosomes are a technology that we have been working on for quite a while at KeraFactor and the new KeraFactor take-home solution is the first to include this new compound. What is a nanofluorosome and why are we so excited to add it into our products? Since the beginning of KeraFactor, we have strived to be the best fertilizer for the scalp, but we also know that being the fertilizer is not good enough alone you also have to try and reduce inflammation and follicle miniaturization. This is where the nanofluorosomes come in. We found a potent anti-inflammatory and anti-androgenic compound and wrapped it into our nanoliposome technology to create a nanofluorosome. What makes the compound even more special is that it is naturally fluorescent, which means this compound can be additionally activated with the correct laser or light source. This is why we call it a nanofluorosome and why this new formula has a yellowish glow to it. Nanofluorosomes can be activated by laser hair caps or machines in the 630-690nm range. Which is already used by many patients to improve hair and scalp circulation and inflammation, now they can add this new formula to their at-home laser routine for even better results. In addition to the solution, each bottle contains a dropper applicator for specific and efficient delivery of the KFP to the scalp and surrounding follicles. IF YOU ARE A LUTRONIC KERALASE CUSTOMER AND WANT THE STARTER KIT CONTAINING 2 OF EACH BOX OF SERUM, SOLUTION, AND SHAMPOO PLEASE ASK THE KERABOT FOR THE DISCOUNT CODE. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Polysorbate 60, p-Anisic Acid, Lecithin, Ascorbyl Glucoside, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Copper Tripeptide-1, Citric Acid, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-11-17T18:20:52Z
+  Updated: 2025-11-18T19:38:47Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-11-17T23:59:41Z
+  Updated: 2025-11-18T22:04:52Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -60,21 +60,21 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/4_babf023d-71de-4e77-bd88-0037efb83081-opt.jpg?v=1751548014
   Price: $330.00 USD
 - [KeraFactor® Brochure](https://mykerafactor.com/products/keralase-brochure): (50 QTY) KeraLase brochures per package
-  Updated: 2025-11-17T18:20:52Z
+  Updated: 2025-11-18T19:46:52Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/image001.png?v=1752279411
   Price: $15.00 USD
 - [Solution Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet): (50 QTY) Solution pamphlets per package
-  Updated: 2025-11-17T18:20:52Z
+  Updated: 2025-11-18T19:46:51Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/1-opt.jpg?v=1751550960
   Price: $15.00 USD
 - [Shampoo + Conditioner Slim Pamphlet](https://mykerafactor.com/products/shampoo-conditioner-slim-pamphlets): (50 QTY) Shampoo + Conditioner pamphlets per package
-  Updated: 2025-11-17T18:20:51Z
+  Updated: 2025-11-18T19:46:51Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/10_affe34a8-1d19-4ef1-9214-d3c49ebe7bcd-opt.jpg?v=1751547657
   Price: $720.00 USD
 - [KeraSmooth Hair Brush 6pk](https://mykerafactor.com/products/kerasmooth-hair-brush-6pk): Introducing the KeraSmooth Hair Brush by KeraFactor Discover the ultimate solution for delicate detangling with the KeraSmooth Hair Brush. Designed specifically for thinning or fine hair, KeraSmooth features innovative soft-flex teeth that ensure minimal breakage and gentle care for your locks. Key Features: Soft-Flex Teeth: Specially designed to reduce breakage and pulling, making it perfect for fragile or color-treated hair. Pain-Free Detangling: Effortlessly detangle wet hair without any discomfort. Ideal for use in the shower to distribute shampoo and conditioner evenly from root to tip. Versatile Use: Perfect for detangling after washing, prepping for blow drying, or embracing your natural hair texture. Gentle on Scalps: The soft-flex teeth are tough on knots but gentle on sensitive scalps, providing a soothing brushing experience. Patented Two-Tiered Design: Long teeth detangle and remove knots, while short teeth smooth hair for a glossy, frizz-free finish. How to Use: In the Shower: Use on wet hair to painlessly detangle and evenly distribute shampoo and conditioning treatments. Post-Wash: Detangle hair after washing to prepare for blow drying or to style your natural hair. Avoid Heat: Do not use with heat tools to maintain the integrity of the soft-flex teeth. Elevate your hair care routine with the KeraSmooth Hair Brush. Experience delicate detangling and healthier, shinier hair with every use.
-  Updated: 2025-11-12T19:39:01Z
+  Updated: 2025-11-18T19:38:47Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -156,14 +156,14 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/2_47ab267c-947b-4f84-bac0-6c9fff21bd29.jpg?v=1757547476
   Price: $1,000.00 USD
 - [KeraFactor® Toiletry Bag 6pk](https://mykerafactor.com/products/kerafactor-toiletry-bag): Elevate your patient experience with the new KeraFactor Toiletry Bag. This sleek black bag is ideal for bundling take-home products like the Scalp Stimulating Solution, 2-in-1 Shampoo & Conditioner, and Scalp Brush. A practical and stylish way to reinforce post-treatment care—and an excellent gift with purchase to boost satisfaction and loyalty. Perfect for: New treatment packages Post-procedure care kits Patient appreciation giveaways Retail bundles
-  Updated: 2025-11-17T18:08:16Z
+  Updated: 2025-11-18T19:38:52Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/5_e03ead4e-edd6-4936-b8cf-fd555d2b7878.png?v=1754150625
   Price: $60.00 USD
 - [KeraRoller](https://mykerafactor.com/products/keraroller): Precision Scalp Microneedling – 6 Pack for Professional RetailOptimize your patients’ hair restoration regimen with the KeraRoller, a professional-grade, handheld microneedling device designed to enhance the effectiveness of topical scalp treatments. Each roller features 1,200 stainless steel needles (0.25mm), ideal for creating microchannels in the scalp to help improve absorption and support healthier-looking hair. ✨ Key Benefits for Your Practice & Patients • Enhances penetration of growth factor serums for improved results • Painless and easy-to-use 0.25mm microneedles • Ideal for at-home maintenance between in-office treatments • Pairs perfectly with our Scalp Stimulating Solution Suggested Use: Instruct patients to gently roll the KeraRoller over targeted areas of the scalp, then apply the Scalp Stimulating Solution immediately after. Always clean the device with alcohol before and after each use. Available in 6-packs for retail or bundled treatment protocols. Empower your patients with tools that complement your in-office results and extend the benefits at home.
-  Updated: 2025-11-17T17:53:02Z
+  Updated: 2025-11-18T19:38:51Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -184,28 +184,28 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/5_9c4de0f4-3ecf-4f9f-8ff7-33d92e4576d4.png?v=1760070719
   Price: $15.00 USD
 - [KeraFactorMD Buy 4 Get, 1 plus Toiletry Bags Save $560](https://mykerafactor.com/products/kerafactormd-buy-4-get-1-plus-toiletry-bags): Stock your practice with our best professional in office serum and receive a bonus. When you purchase 4 KeraFactorMD Serums for your clinic, you will receive 1 additional KeraFactorMD Serum at no cost plus a set of premium KeraFactor branded toiletry bags. Perfect for clinics who are actively recommending hair restoration treatments and want to have inventory ready for patients who are ready to begin. The KeraFactorMD serum is formulated with biomimetic growth factors, peptides, and copper tripeptides to support healthier looking hair. Our patented nanoliposome delivery helps drive actives where they are needed most by deeply nourishing the scalp to support a fuller, stronger, thicker appearance. This offer is great to promote in practice to increase your upsell revenue and provide patients with a take home product bundle aligned with their in office treatment plan. Includes Buy: 4 KeraFactorMD Serums Get: 1 KeraFactorMD Serum (Free) Get: Premium KeraFactor Toiletry Bags 6pk (Free)
-  Updated: 2025-11-17T23:59:46Z
+  Updated: 2025-11-18T22:04:55Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/1-opt_6389cfe7-fbcb-447d-b0f4-4409fa330fad.jpg?v=1762193763
   Price: $2,000.00 USD
 - [Scalp Restore Set](https://mykerafactor.com/products/scalp-restore-set): Reset and revive the scalp with this powerful at home set designed to promote healthier looking hair from the root. The Scalp Restore Set pairs our KeraFactor Scalp Stimulating Solution with the KeraRoller and a set of premium KeraFactor branded toiletry bags for a complete self care experience. The KeraRoller features ultra fine medical grade needles to gently condition the scalp and prep the skin for deeper absorption of the KeraFactor Solution. The Scalp Stimulating Solution is formulated with biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support the look of fuller, stronger, more resilient hair. Perfect for maintaining results between in office treatments or as a standalone home care routine, this set makes it easy to elevate scalp health and improve the appearance of density over time. Includes • KeraRoller 6pk • KeraFactor Scalp Stimulating Solution 6pk • Premium KeraFactor Toiletry Bags 6pk (Free) Easy weekly at home use. No downtime. Consistent use supports visible improvement in scalp and hair vitality.
-  Updated: 2025-11-17T18:20:55Z
+  Updated: 2025-11-18T19:38:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/Untitled_design.png?v=1762880176
   Price: $492.00 USD
 - [Total Transformation Trio (KeraFlex Laser Cap plus Solution plus Roller plus Toiletry Bags)](https://mykerafactor.com/products/total-transformation-trio-keraflex-laser-cap-plus-solution-plus-roller-plus-toiletry-bags): Experience the most complete at home hair restoration system we offer. The Total Transformation Trio combines three powerful modalities working together to support the look of thicker, stronger, fuller hair. The KeraFlex Laser Cap provides consistent low level light therapy using medical grade laser diodes to support healthier looking hair through increased scalp stimulation. The KeraFactor Scalp Stimulating Solution delivers biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support visible density. The KeraRoller gently conditions the scalp and helps enhance absorption of the Solution. This bundle was designed for patients who want the most comprehensive at home program for advanced scalp support and hair appearance improvement. Includes KeraFlex Laser Cap KeraFactor Scalp Stimulating Solution 6pk KeraRoller 6pk Premium KeraFactor Toiletry Bags 6pk (Free) This set is perfect for creating a full at home protocol to complement your in office treatments.
-  Updated: 2025-11-17T18:20:55Z
+  Updated: 2025-11-18T19:38:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/Screenshot_2025-11-04_at_12.05.46_AM.png?v=1762243662
   Price: $1,104.00 USD
 - [Brow Boost (Roller plus Brow Serum plus Toiletry Bag)](https://mykerafactor.com/products/brow-boost-roller-plus-brow-serum-plus-toiletry-bag): Lift your brow game with the Brow Boost Set. This powerful pairing was created to support fuller looking brows and a stronger appearance over time. The KeraFactor Brow Serum features our proprietary blend of biomimetic growth factors, peptides, and copper tripeptides formulated to nourish the brow area and help support a thicker, more defined look. The precision Roller gently preps the skin, helping condition the brow area so the serum can absorb more effectively. This special bundle also includes a premium KeraFactor toiletry bag, perfect for storing your brow essentials at home or on the go. Includes KeraFactor Brow Serum 6pk Precision Brow Roller 6pk Premium KeraFactor Toiletry Bag 6pk Ideal for patients seeking to enhance the look of sparse or thinning brows with a simple at home routine. Consistent use supports visible improvement over time.
-  Updated: 2025-11-17T18:08:20Z
+  Updated: 2025-11-18T19:38:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -215,7 +215,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-11-16T12:05:44Z
+  Updated: 2025-11-18T12:04:53Z
   Total Products: 27
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
