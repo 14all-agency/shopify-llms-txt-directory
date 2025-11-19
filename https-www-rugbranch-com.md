@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2025-11-18T00:01:59.625Z
+- Updated At: 2025-11-19T00:01:28.046Z
 
 ## Products
 
@@ -13899,7 +13899,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO110100_1.jpg?v=1757498274
   Price: $648.14 CAD
 - [Barstool Slate Gray - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110169): Meet the Barstool, a flawless fusion of strength and elegance. Designed with a sturdy steel frame and encased in long-lasting and reliable vinyl, it harmonizes effortlessly with any environment, from hospitality venues to residential spaces. With its contemporary design and practicality, this barstool brings a welcoming charm to your interior. Redefine your experience with the Barstool, where durability and sophistication seamlessly intertwine.
-  Updated: 2025-11-17T10:56:02Z
+  Updated: 2025-11-18T04:48:22Z
   Vendor: RBZO
   Product Type: Barstools
   Availability: Available
@@ -14088,7 +14088,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/nijn3siqlfame9olmcuz.jpg?v=1757498337
   Price: $1,622.25 CAD
 - [Queen Bed Black - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo110711): The queen bed in black brings a distinctive, stylish touch to your home, showcasing contemporary and stylish design at its finest. Crafted from high-quality POLYester fabric, rubberwood, MDF, plywood, and polypropylene, this bed perfectly blends aesthetics with functionality. Its versatile design ensures it fits effortlessly into any space, while its sleek, contemporary look makes it a standout feature in any contemporary and stylish home.
-  Updated: 2025-11-17T10:56:31Z
+  Updated: 2025-11-18T11:03:25Z
   Vendor: RBZO
   Product Type: Beds
   Availability: Available
@@ -14641,7 +14641,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/1c042920f771cfdc564269ff0274bd20ab3320a3.jpg?v=1757498522
   Price: $388.77 CAD
 - [Counter Stool (Set of 2) Brown & Silver - Premium Quality & Stylish Design for Your Home](https://www.rugbranch.com/products/rbzo102028): High design meets everyday casual. This handsome counter stool with its slim profile pulls up perfectly to the bar. It's super ergonomically designed for superior comfort; the curved seat is covered in brown faux leather with dramatic stitching. Brushed stainless steel legs are complete with protective plastic feet to keep your floors scratch-free.
-  Updated: 2025-11-17T10:58:49Z
+  Updated: 2025-11-18T03:21:57Z
   Vendor: RBZO
   Product Type: Counter Stools
   Availability: Available
@@ -16958,7 +16958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/RBZO101279_1.jpg?v=1757497616
   Price: $1,042.78 CAD
 - [Dining Chair (Set of 2) Azure Gray & Walnut - Modern & Ergonomic Seating for Home & Office](https://www.rugbranch.com/products/rbzo101695): This dining chair has mid-century contemporary and stylish urban lines and looks great in any space, with a heavy-duty vinyl covering sturdy steel frame, and finished legs in walnut heat-transfer vinyl wrapped steel frame, fits in any home kitchen, dining area, or bar, and is long-lasting and reliable for hospitality use.
-  Updated: 2025-11-17T10:49:22Z
+  Updated: 2025-11-18T05:19:56Z
   Vendor: RBZO
   Product Type: Chairs
   Availability: Available
@@ -18518,7 +18518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Marisa_G390_2212.jpg?v=1757496411
     Price: $569.00 CAD
 - [Classic Traditional Border Cream Area Rug](https://www.rugbranch.com/products/rbkl-g390-2565): Country of Origin: Turkey Construction: Machine Made
-  Updated: 2025-11-17T10:29:49Z
+  Updated: 2025-11-18T00:36:26Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -22005,6 +22005,18 @@
     Updated: 2025-11-14T17:43:56Z
     Author: Rug Branch Team
     Tags: how to choose the right area rug size for a living room, living room rugs, rug size
+  - [How to Choose the Best Contemporary Rug for Your Living Room: A Complete Guide](https://www.rugbranch.com/blogs/marketing/how-to-choose-the-best-contemporary-rug-for-your-living-room-a-complete-guide): Stepping into a contemporary living room should feel like entering a curated gallery – stylish, inviting, and perfectly balanced. Yet, many find thems...
+    Updated: 2025-11-18T16:51:06Z
+    Author: Rug Branch Team
+    Tags: contemporary rugs, How to choose the best rug for a contemporary living room?, rugs
+  - [Classic vs. Traditional Rug Designs: Unveiling the Nuances for Your Home](https://www.rugbranch.com/blogs/marketing/classic-vs-traditional-rug-designs-unveiling-the-nuances-for-your-home): Every discerning homeowner understands the transformative power of a truly magnificent rug. More than just a floor covering, a well-chosen rug anchors...
+    Updated: 2025-11-18T16:51:06Z
+    Author: Rug Branch Team
+    Tags: classic rug designs, rugs, traditional rug designs, What is the difference between classic and traditional rug designs?
+  - [Best Abstract Rugs for Modern Minimalist Decor: Elevate Your Space](https://www.rugbranch.com/blogs/marketing/best-abstract-rugs-for-modern-minimalist-decor-elevate-your-space): Modern minimalist decor, with its emphasis on clean lines, uncluttered spaces, and intentional design, offers a sanctuary of calm. Yet, the challenge ...
+    Updated: 2025-11-18T16:51:06Z
+    Author: Rug Branch Team
+    Tags: abstract rugs, Best abstract rugs for modern minimalist interior decor?, contemporary rugs, rugs
 
 ## Store Pages
 
