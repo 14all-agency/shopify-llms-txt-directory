@@ -6,7 +6,7 @@
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-19T18:59:36.226Z
+- Updated At: 2025-11-19T19:00:31.049Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -4571,6 +4571,34 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2024-01-06T22:05:25+00:00
 - [Contact Information](https://sugar-spicy.com/policies/contact-information)
   Updated: 2024-01-06T22:08:39+00:00
+
+## Alternate Currencies & Languages
+
+- [Africa (en / USD)](https://sugar-spicy.com/llms.txt?market=africa)
+- [Angola (en / AOA)](https://sugar-spicy.com/llms.txt?market=angola)
+- [Argentina (en / ARS)](https://sugar-spicy.com/llms.txt?market=argentina)
+- [Asia (en / USD)](https://sugar-spicy.com/llms.txt?market=asia)
+- [Brazil (en / BRL)](https://sugar-spicy.com/llms.txt?market=brazil)
+- [China (en / CNY)](https://sugar-spicy.com/llms.txt?market=china)
+- [Colombia (en / COP)](https://sugar-spicy.com/llms.txt?market=colombia)
+- [Eswatini (en / SZL)](https://sugar-spicy.com/llms.txt?market=eswatini)
+- [Europe (en / USD)](https://sugar-spicy.com/llms.txt?market=europe)
+- [Georgia (en / GEL)](https://sugar-spicy.com/llms.txt?market=georgia)
+- [Haiti (en / HTG)](https://sugar-spicy.com/llms.txt?market=haiti)
+- [Hong Kong (en / HKD)](https://sugar-spicy.com/llms.txt?market=hong-kong)
+- [Lesotho (en / LSL)](https://sugar-spicy.com/llms.txt?market=lesotho)
+- [Mexico (en / MXN)](https://sugar-spicy.com/llms.txt?market=mexico)
+- [Nambia (en / NAD)](https://sugar-spicy.com/llms.txt?market=nambia)
+- [Nigeria (en / NGN)](https://sugar-spicy.com/llms.txt?market=nigeria)
+- [North America (en / USD)](https://sugar-spicy.com/llms.txt?market=north-america)
+- [Norway (en / NOK)](https://sugar-spicy.com/llms.txt?market=norway)
+- [Oceania (en / USD)](https://sugar-spicy.com/llms.txt?market=oceania)
+- [Russia (en / RUB)](https://sugar-spicy.com/llms.txt?market=russia)
+- [Seychelles (en / SCR)](https://sugar-spicy.com/llms.txt?market=seychelles)
+- [South Africa (en / ZAR)](https://sugar-spicy.com/llms.txt?market=south-africa)
+- [South America (en / USD)](https://sugar-spicy.com/llms.txt?market=south-america)
+- [Turkey (en / TRY)](https://sugar-spicy.com/llms.txt?market=turkey)
+- [United States (en / USD)](https://sugar-spicy.com/llms.txt?market=4cb6d10c-de1f-4ac5-a0b8-3e019ec5955a)
 
 =========================================================
 COLLECTION DIRECTORY (LIVE COLLECTIONS ONLY)
