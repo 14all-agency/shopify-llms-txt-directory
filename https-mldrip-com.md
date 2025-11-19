@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-09-24T18:25:07Z
 - Contact Email: shopmegluffy@gmail.com
-- Updated At: 2025-11-18T00:00:39.114Z
+- Updated At: 2025-11-19T00:00:29.927Z
 
 ## Products
 
@@ -15882,7 +15882,7 @@
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/S98eeb23ae33b43e9accd4c4cef1e1acfB.webp?v=1762970302
     Price: €86.99 EUR
 - [Trapstar Puffer Jacket – Premium Streetwear Winter Jacket Men & Women](https://mldrip.com/products/trapstar-puffer-jacket-premium-streetwear-winter-jacket-men-women): Stay warm and stylish this winter with our Trapstar Puffer Jacket, designed for people who want high-quality streetwear with everyday comfort. This jacket features thick padded insulation, a windproof outer shell, and a comfortable fit that keeps you warm in cold weather without feeling heavy. Made for streetwear lovers, this jacket brings a bold, modern look that pairs perfectly with cargos, jeans, or tech fleece outfits. Whether you’re going out, traveling, or dressing for winter, this puffer jacket gives you both warmth and street-style confidence.
-  Updated: 2025-11-17T19:27:58Z
+  Updated: 2025-11-18T07:24:59Z
   Vendor: Mldrip
   Product Type: Jacket
   Availability: Available
@@ -15987,6 +15987,142 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/409FADDC-2C00-46E7-937D-6F36A22F120F.jpg?v=1763407243
     Price: €139.99 EUR
+- [Owens–Style Jumbo Lace-Up Sneakers – Chunky Avant-Garde Shoes](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes): Step up your style with these Rick Owens–inspired Jumbo Lace-Up Sneakers, designed with a bold chunky sole and a sleek, minimal upper that gives your outfit that signature avant-garde look. These sneakers combine high-fashion design with everyday comfort, making them a perfect choice for streetwear lovers and darkwear fans. The oversized rubber sole adds height and presence, while the long lace-up design gives the shoes their iconic silhouette. Wear them with cargos, stacked jeans, or oversized fits for the full luxury street aesthetic.
+  Updated: 2025-11-18T14:17:36Z
+  Vendor: Mldrip
+  Product Type: Sneakers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+  - [1 / 36](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380450226513)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 37](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452258129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 38](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452290897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 39](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452323665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 40](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452356433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 41](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452389201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 42](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452421969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 43](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452454737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 44](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452487505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+  - [1 / 45](https://mldrip.com/products/owens-style-jumbo-lace-up-sneakers-chunky-avant-garde-shoes?variant=52380452520273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/FullSizeRender_73541b54-ce14-4e85-ae17-eabc27afc7fe.jpg?v=1763433135
+    Price: €183.99 EUR
+- [UGG W Mini Bailey Bow II – Women’s Cozy Winter Boots](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots): Stay warm and look cute this winter with the UGG Mini Bailey Bow II. These women’s winter boots get that soft premium sheepskin feel, plus the small ribbon bow on the back wey give am that sweet feminine touch. Light, comfy and warm — perfect for cold days. The inside dey lined with soft wool wey keep your feet warm, and the outsole no heavy, so you fit walk well the whole day. Whether na for school, work or casual outing, these UGG-style winter shoes go match your winter drip. Key Features Soft wool lining for warm comfort Cute double-bow design at the back Lightweight, flexible sole Water-resistant upper Slip-on design for easy wear Perfect for winter, autumn & cold nights Why Customers Love It Super warm for cold weather Stylish bow design Easy to match with leggings, jeans, winter outfits Soft and comfortable for daily wear
+  Updated: 2025-11-18T17:24:19Z
+  Vendor: Mldrip
+  Product Type: Boots
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+  - [1 / 36](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52383994970449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 36](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52383995003217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 36](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52383995035985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 37](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022331729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 38](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022364497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 39](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022397265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 40](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022430033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 41](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022462801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [1 / 42](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022495569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5119.png?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 37](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022528337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 38](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022561105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 39](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022593873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 40](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022626641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 41](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022659409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [2 / 42](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022692177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5117.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 37](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022724945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 38](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022757713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 39](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022790481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 40](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022823249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 41](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022856017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
+  - [3 / 42](https://mldrip.com/products/ugg-w-mini-bailey-bow-ii-women-s-cozy-winter-boots?variant=52384022888785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0969/6424/7889/files/IMG-5118.jpg?v=1763486537
+    Price: €150.00 EUR
 
 ## Collections
 
@@ -16003,11 +16139,11 @@
   Updated: 2025-11-11T20:01:26Z
   Total Products: 16
 - [Sneakers](https://mldrip.com/collections/sneakers)
-  Updated: 2025-11-12T09:25:34Z
-  Total Products: 39
+  Updated: 2025-11-18T17:20:28Z
+  Total Products: 41
 - [All](https://mldrip.com/collections/all)
-  Updated: 2025-11-17T19:25:35Z
-  Total Products: 134
+  Updated: 2025-11-18T17:20:28Z
+  Total Products: 136
 - [Jackets](https://mldrip.com/collections/jackets)
   Updated: 2025-11-17T19:25:35Z
   Total Products: 20
