@@ -8,7 +8,7 @@
 - Timezone: Australia/Perth
 - Created At: 2025-01-21T07:14:09Z
 - Contact Email: admin@compassandcradle.com.au
-- Updated At: 2025-11-18T00:00:33.632Z
+- Updated At: 2025-11-19T00:00:22.672Z
 
 ## Products
 
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $9.00 AUD
 - [Kids Terry Toweling Shirt & Pants - Cray Cray on Vacay](https://compassandcradle.com.au/products/cray-cray-on-vacay-terry-toweling-shirt-and-pants): The kids Terry Toweling pants and top set will keep your little ones cool on warm summer days and cozy after a swim or evening beach strolls.
-  Updated: 2025-11-16T05:45:27Z
+  Updated: 2025-11-18T15:32:43Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/babyonboard2.jpg?v=1760425814
     Price: $9.00 AUD
 - [Beach Bag | Cray Cray on Vacay | Oversized Lobster/Crayfish Beige](https://compassandcradle.com.au/products/beach-bag): Made from durable, easy-to-clean beach bag, it’s built to handle the everyday chaos. With a handy external pocket for quick-grab items and a secure internal pocket, it keeps things organized!
-  Updated: 2025-11-16T05:45:27Z
+  Updated: 2025-11-18T11:53:42Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -139,6 +139,132 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/DSC_0709.jpg?v=1761824106
   Price: $9.00 AUD
+- [Black Friday Bundle | Matching Snack Tee](https://compassandcradle.com.au/products/family-tshirt-bundle): Black Friday Matching Snack Tee Bundle For Parents + Their Snack-Obsessed Minis Make snack time (and family time!) even more fun with our limited-edition Black Friday Snack Tee Bundle — the perfect matching set for parents and their little snack monsters. What’s Inside Snack Provider Tee (Adults)For the legends who supply the snacks, wipe the crumbs, and keep the pantry stocked. Super soft, comfy, and built for everyday wear. Requires Snacks Tee (Kids)For the mini who always needs a snack… no matter how many they’ve already had. Playful, comfy, and perfect for every adventure. Why Parents Love This Bundle Match with your mini in the cutest, funniest snack-themed duo Perfect for family outings, picnics, travel days & weekend hangs Black Friday–only pricing — save more when you grab both together Soft, durable fabrics designed for busy parents & busy little snackers Makes a perfect gift for parents of toddlers, preschoolers, or snack-loving kids
+  Updated: 2025-11-18T18:23:26Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/573C3436-951A-4070-BEC3-C00366ED61D8.png?v=1761824106
+  - [0-6 months / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758268189)
+    Availability: Available
+    Price: $59.00 AUD
+  - [0-6 months / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758300957)
+    Availability: Available
+    Price: $59.00 AUD
+  - [0-6 months / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758333725)
+    Availability: Available
+    Price: $59.00 AUD
+  - [0-6 months / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758366493)
+    Availability: Available
+    Price: $59.00 AUD
+  - [0-6 months / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758399261)
+    Availability: Available
+    Price: $59.00 AUD
+  - [6-12 months / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758432029)
+    Availability: Available
+    Price: $59.00 AUD
+  - [6-12 months / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758464797)
+    Availability: Available
+    Price: $59.00 AUD
+  - [6-12 months / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758497565)
+    Availability: Available
+    Price: $59.00 AUD
+  - [6-12 months / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758530333)
+    Availability: Available
+    Price: $59.00 AUD
+  - [6-12 months / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758563101)
+    Availability: Available
+    Price: $59.00 AUD
+  - [12-18 months / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758595869)
+    Availability: Available
+    Price: $59.00 AUD
+  - [12-18 months / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758628637)
+    Availability: Available
+    Price: $59.00 AUD
+  - [12-18 months / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758661405)
+    Availability: Available
+    Price: $59.00 AUD
+  - [12-18 months / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758694173)
+    Availability: Available
+    Price: $59.00 AUD
+  - [12-18 months / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758726941)
+    Availability: Available
+    Price: $59.00 AUD
+  - [18-24 months / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758759709)
+    Availability: Available
+    Price: $59.00 AUD
+  - [18-24 months / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758792477)
+    Availability: Available
+    Price: $59.00 AUD
+  - [18-24 months / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758825245)
+    Availability: Available
+    Price: $59.00 AUD
+  - [18-24 months / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758858013)
+    Availability: Available
+    Price: $59.00 AUD
+  - [18-24 months / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758890781)
+    Availability: Available
+    Price: $59.00 AUD
+  - [2 / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758923549)
+    Availability: Available
+    Price: $59.00 AUD
+  - [2 / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758956317)
+    Availability: Available
+    Price: $59.00 AUD
+  - [2 / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464758989085)
+    Availability: Available
+    Price: $59.00 AUD
+  - [2 / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759021853)
+    Availability: Available
+    Price: $59.00 AUD
+  - [2 / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759054621)
+    Availability: Available
+    Price: $59.00 AUD
+  - [3 / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759087389)
+    Availability: Available
+    Price: $59.00 AUD
+  - [3 / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759120157)
+    Availability: Available
+    Price: $59.00 AUD
+  - [3 / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759152925)
+    Availability: Available
+    Price: $59.00 AUD
+  - [3 / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759185693)
+    Availability: Available
+    Price: $59.00 AUD
+  - [3 / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759218461)
+    Availability: Available
+    Price: $59.00 AUD
+  - [4 / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759251229)
+    Availability: Available
+    Price: $59.00 AUD
+  - [4 / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759283997)
+    Availability: Available
+    Price: $59.00 AUD
+  - [4 / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759316765)
+    Availability: Available
+    Price: $59.00 AUD
+  - [4 / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759349533)
+    Availability: Available
+    Price: $59.00 AUD
+  - [4 / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759382301)
+    Availability: Available
+    Price: $59.00 AUD
+  - [5 / X-Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759415069)
+    Availability: Available
+    Price: $59.00 AUD
+  - [5 / Small](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759447837)
+    Availability: Available
+    Price: $59.00 AUD
+  - [5 / Medium](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759480605)
+    Availability: Available
+    Price: $59.00 AUD
+  - [5 / Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759513373)
+    Availability: Available
+    Price: $59.00 AUD
+  - [5 / Extra Large](https://compassandcradle.com.au/products/family-tshirt-bundle?variant=50464759546141)
+    Availability: Available
+    Price: $59.00 AUD
 - [Compass & Cradle Digital Gift Card – The Perfect Gift for Any Occasion](https://compassandcradle.com.au/products/compass-cradle-digital-gift-card-the-perfect-gift-for-any-occasion): Can’t decide what to get? Give them the gift of choice with a Compass & Cradle Digital Gift Card. Our gift cards are delivered instantly by email and can be redeemed online at checkout — no extra fees, no expiration dates. Perfect for birthdays, holidays, thank-yous, or last-minute surprises.Available in multiple denominations to fit every budget.
   Updated: 2025-10-30T11:35:19Z
   Vendor: Compass & Cradle
@@ -196,7 +322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/newchill_a5437bc7-0f3c-4c7b-a405-5edfd9860388.jpg?v=1762245470
   Price: $19.00 AUD
 - [Mum Cap Blue | Cray](https://compassandcradle.com.au/products/cray-mum-cap-ocean-blue): Mum Cap - Cray Add a pop of fun to your everyday look with our Cray Mum Cap — the perfect mum hat for sunny days, adventures, and everything in between. Crafted from soft, acid washed cotton in a rich blue tone, this cap brings effortless coastal style with a playful crayfish design and bold text. Whether you’re heading to the beach, the park, or brunch, it’s an easy go-to piece that keeps you cool and confident. 🦞 Features: 100% premium acid washed cotton for breathable comfort Adjustable strap for a relaxed, secure fit Lightweight and durable for all-day wear Designed by Compass & Cradle, inspired by relaxed coastal living ✨ Style it your way: The “Cray” design perfectly matches the current Compass & Cradle Cray Cray on Vacay sets, so you can create a coordinated mum and mini look or pair it with your favourite casual outfit.
-  Updated: 2025-11-10T10:29:43Z
+  Updated: 2025-11-18T11:53:46Z
   Vendor: Compass & Cradle
   Product Type: 
   Availability: Available
@@ -275,17 +401,47 @@
   - [6](https://compassandcradle.com.au/products/barefoot-bandit-kids-terry-towelling-shorts-coming-soon?variant=50612162855197)
     Availability: Available
     Price: $25.00 AUD
+- [Black Friday Bundle | Cray Cray on Vacay](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay): 🦞 Black Friday: Cray Cray on Vacay Family Bundle Make your next beach trip extra cray cray with this limited-edition Black Friday bundle — pack love, style and sunshine into one perfect set. What’s Inside: Kids Terry Toweling Shirt & PantsSoft 100% terry cotton that dries quickly after swim-time and doubles as lounge-wear for those slow, dreamy vacay mornings. Oversized Lobster/Crayfish Beach Bag (Beige)Roomy and rugged, with an external pocket for quick-access items and a secure internal pouch for your phone or keys. Cray Mum Cap – Ocean BlueA laid-back cap for mum (or anyone!) — the perfect shade to match the sea and shield your eyes in style. Perfect For: Families planning a summer holiday Gift-givers looking for a thoughtful, coordinated present Mum (or Dad!) who wants to match their mini-me without going “too matching”
+  Updated: 2025-11-18T18:21:37Z
+  Vendor: Compass & Cradle
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3501/4173/files/20250730_052820325_iOS.heic?v=1763436489
+  - [0-6 Months](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134164765)
+    Availability: Available
+    Price: $89.00 AUD
+  - [6-12 months](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134197533)
+    Availability: Available
+    Price: $89.00 AUD
+  - [12 - 18 months](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134230301)
+    Availability: Available
+    Price: $89.00 AUD
+  - [18-24 months](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134263069)
+    Availability: Available
+    Price: $89.00 AUD
+  - [2](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134295837)
+    Availability: Available
+    Price: $89.00 AUD
+  - [3](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134328605)
+    Availability: Available
+    Price: $89.00 AUD
+  - [4](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134361373)
+    Availability: Available
+    Price: $89.00 AUD
+  - [5](https://compassandcradle.com.au/products/black-friday-bundle-cray-cray-on-vacay?variant=50632134394141)
+    Availability: Available
+    Price: $89.00 AUD
 
 ## Collections
 
 - [Compass & Cradle Products](https://compassandcradle.com.au/collections/frontpage)
-  Updated: 2025-11-16T12:23:13Z
+  Updated: 2025-11-18T03:25:44Z
   Total Products: 6
 - [Matching Family T-Shirts](https://compassandcradle.com.au/collections/matching-family-t-shirts): Requires Snacks & Snack Provider - Matching Family T-Shirts Fuel every adventure with our Matching Family T-shirts, Required Snacks Kids T-Shirt and Snack Provider Parent Tee—the ultimate set for families who know snacks are non-negotiable. Made from premium, soft cotton with a comfortable unisex fit, these funny parenting t-shirts are perfect for playdates, park hangs, road trips, and everyday chaos. Whether your little one is declaring their snack needs or you’re proudly wearing your badge as the official snack provider, these matching family tees bring humour and heart to parenting life. Designed in Australia, our mum life clothing and parent and child matching outfits make unforgettable gifts for new mums, dads, and snack-loving kids. Shop now for the perfect Matching Family T-shirts.
   Updated: 2025-11-16T12:23:13Z
   Total Products: 2
 - [Cray Cray on Vacation Collection | Holiday Apparel](https://compassandcradle.com.au/collections/holiday-apparel): Holiday Apparel -Shop the Cray Cray on Vacay collection. Featuring our soft Terry Towel Kids Set and matching oversized Canvas Tote. Perfect for coordinated family beach days and summer adventures
-  Updated: 2025-11-16T12:23:13Z
+  Updated: 2025-11-18T03:25:44Z
   Total Products: 2
 - [Family Car Stickers](https://compassandcradle.com.au/collections/baby-on-board-car-stickers): Drive safe and spread some smiles with our range of Baby on Board Family Car Stickers.
 
@@ -296,11 +452,11 @@ The perfect blend of safety and personality for your family car. Designed in Aus
   Updated: 2025-11-16T12:23:13Z
   Total Products: 1
 - [Best Sellers](https://compassandcradle.com.au/collections/best-sellers)
-  Updated: 2025-11-17T05:03:55Z
+  Updated: 2025-11-18T03:25:44Z
   Total Products: 6
 - [Kids Summer Outfits - Terry Cotton Sets](https://compassandcradle.com.au/collections/kids-summer-outfits): The Perfect Kids Summer Outfits!
 Crafted from soft, terry Cotton, this kids' summer outfit is designed to be lightweight and breathable, perfect for those hot summer days.
-  Updated: 2025-11-16T12:23:13Z
+  Updated: 2025-11-18T03:25:44Z
   Total Products: 3
 - [Beach & Travel Bags](https://compassandcradle.com.au/collections/beach-travel-bags)
   Updated: 2025-11-16T12:23:13Z
@@ -316,6 +472,12 @@ Crafted from soft, terry Cotton, this kids' summer outfit is designed to be ligh
   Total Products: 6
 - [Pre Sale| Barefoot Bandit Kids Terry Towelling Set](https://compassandcradle.com.au/collections/pre-sale-barefoot-bandit-kids-terry-towelling-set): Barefoot Bandit Kids Terry Towelling Set Let your little one embrace sunshine, salt air and play in comfort with our Barefoot Bandit Kids Terry Towelling Set — the ultimate everyday outfit for beach days, park hangs and laid-back adventures. Made from soft, absorbent 100% cotton terry towelling, this relaxed-fit set keeps kids cool and comfortable while adding that easy, coastal-Australian charm. Designed for movement and made to last, it’s perfect for post-swim chill time or all-day exploring. Why You’ll Love It Super soft, breathable terry towelling fabric — gentle on sensitive skin Relaxed, unisex fit for easy, carefree movement Signature barefoot bandit logo with wave design on front Ethically made for mindful, everyday wear Durable and easy-care — made to withstand play, wash after wash Perfect For ☀️ Summer adventures🏖️ Beach to backyard days🎁 Everyday comfort or a thoughtful gift Fabric: 100% cotton terry towellingCare: Cold gentle machine wash. Line dry in shade.
   Updated: 2025-11-13T10:48:11Z
+  Total Products: 2
+- [Black Friday Family Bundles](https://compassandcradle.com.au/collections/black-friday-bundle)
+  Updated: 2025-11-18T07:57:05Z
+  Total Products: 2
+- [Black Friday Snack Tee Family  Bundle](https://compassandcradle.com.au/collections/black-friday-snack-tee-family-bundle): Black Friday Matching Snack Tee Bundle For Parents + Their Snack-Obsessed Minis Make snack time (and family time!) even more fun with our limited-edition Black Friday Snack Tee Bundle — the perfect matching set for parents and their little snack monsters. What’s Inside Snack Provider Tee (Adults)For the legends who supply the snacks, wipe the crumbs, and keep the pantry stocked. Super soft, comfy, and built for everyday wear. Requires Snacks Tee (Kids)For the mini who always needs a snack… no matter how many they’ve already had. Playful, comfy, and perfect for every adventure. Why Parents Love This Bundle Match with your mini in the cutest, funniest snack-themed duo Perfect for family outings, picnics, travel days & weekend hangs Black Friday–only pricing — save more when you grab both together Soft, durable fabrics designed for busy parents & busy little snackers Makes a perfect gift for parents of toddlers, preschoolers, or snack-loving kids
+  Updated: 2025-11-18T03:42:41Z
   Total Products: 2
 
 ## Blogs
