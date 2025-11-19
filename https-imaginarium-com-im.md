@@ -10,7 +10,7 @@ Jigsaw puzzles and more  fascinating journals coming soon because extraordinary 
 - Timezone: Australia/Adelaide
 - Created At: 2025-07-30T03:40:26Z
 - Contact Email: imagineyourjournals@gmail.com
-- Updated At: 2025-11-18T00:01:52.325Z
+- Updated At: 2025-11-19T00:01:28.927Z
 
 Imaginarium blends imagination with the page, creating journals that celebrate what makes life worth pondering. 
 
@@ -615,6 +615,13 @@ For literature devotees, spiritual seekers, astrology enthusiasts, and anyone wh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/the_Isha_HC_Journal_Upright.jpg?v=1763352499
   Price: $27.99 AUD
+- [the Otia Imperialia-Fairies Gervase of Tilbury 13C HC Journal](https://imaginarium.com.im/products/the-otia-imperialia-fairies-gervase-of-tilbury-13c-hc-journal): Description: Step into the enchanted world documented by Gervase of Tilbury in his 13th-century masterwork, Otia Imperialia—the first scholarly attempt to catalog the bewilderingvariety of fairy folk inhabiting our realm.This hardcover journal celebrates those luminous beings who dance between raindrops, orchestrate woodland hoe downsand prove that the most sophisticated parties happen on large forest leaves. Gervase of Tilbury, writing for Emperor Otto IV, meticulously recorded encounters with fairies of every hue and temperament:the pink-winged revelers, aqua collectors of silvery rain, Each page invites you to document your own observations, creative flights, your magical and philosophical musings—because if a 13th-century scholar could take fairies seriously enough to write a imperial compendium for an Emperor, surely your thoughts deserve equally elegant accommodation. Warning: Prolonged exposure may result in spontaneous leaf-dancing, an irresistible urge to catch rain droplets, and the sudden conviction that your houseplants are hosting clandestine fairy raves. Side Effects May Include: Increased sensitivity to sparkles, compulsive humming of rainbow-colored musical notes, tendency to view rainstorms as entertainment opportunities, and the firm belief that every forest contains at least one dance party for our beloved mystical folk! Journal Features: Hardcover protection worthy of imperial scholarship Premium pages for capturing medieval wisdom and modern wonder Vibrant fairy disco imagery on black—because some parties transcend centuries Suitable for documenting fairy sightings, creative writing, or philosophical reflection A collaboration between Imaginarium and AI artistry For those who understand that the line between scholarship and enchantment has always been delightfully blurred. Product features- Matte laminated cover for durability- Vibrant colors with latest printing techniques- Perforated pages for easy tearing- Casewrap binding for flexibility- Full wraparound printCare instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards. SEO Title: Otia Imperialia Fairies Journal - Gervase of Tilbury Medieval Fairy Lore Hardcover SEO Description: Enchanting hardcover journal celebrating Gervase of Tilbury's 13th-century fairy taxonomy. Features magical woodland fairy imagery with sophisticated humor. Premium pages for creative writing, philosophy, and documenting your own mystical observations. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Brand: JournalYourImaginings, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions:Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of book outwards.
+  Updated: 2025-11-18T22:31:04Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/3076/6773/files/the_Otia_Imperialia_HC_Journal_upright.jpg?v=1763504940
+  Price: $11.57 AUD
 
 ## Collections
 
