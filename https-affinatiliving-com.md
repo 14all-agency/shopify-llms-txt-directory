@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-18T23:58:52.580Z
+- Updated At: 2025-11-19T02:06:40.032Z
 
 ## Products
 
@@ -8482,8 +8482,23 @@
   - [Candles vs Reed Diffusers | Long-Lasting Luxury Home Fragrance Guide](https://affinatiliving.com/blogs/debates/candles-vs-reed-diffusers-long-lasting-luxury-home-fragrance-guide)
     Updated: 2025-11-15T00:32:46Z
     Author: Gerard Collins
+  - [Yankee Candle vs Jo Malone: Full Comparison + Best Luxury Alternative](https://affinatiliving.com/blogs/debates/yankee-candle-vs-jo-malone-full-comparison-best-luxury-alternative)
+    Updated: 2025-11-19T00:11:24Z
+    Author: Gerard Collins
+  - [Yankee Candle vs Voluspa – Full Comparison + Best Affordable Luxury Alternative](https://affinatiliving.com/blogs/debates/yankee-candle-vs-voluspa-full-comparison-best-affordable-luxury-alternative)
+    Updated: 2025-11-19T00:04:32Z
+    Author: Gerard Collins
+  - [Yankee Candle vs Boy Smells – Best Candle Brand Compared](https://affinatiliving.com/blogs/debates/yankee-candle-vs-boy-smells-best-candle-brand-compared)
+    Updated: 2025-11-19T00:42:25Z
+    Author: Gerard Collins
+  - [Bath & Body Works vs Capri Blue: Full Candle Comparison](https://affinatiliving.com/blogs/debates/bath-body-works-vs-capri-blue-full-candle-comparison)
+    Updated: 2025-11-19T00:07:26Z
+    Author: Gerard Collins
+  - [Bath & Body Works vs Diptyque: Full Comparison + Best Modern Luxury Alternative | Affinati](https://affinatiliving.com/blogs/debates/bath-body-works-vs-diptyque-full-comparison-best-modern-luxury-alternative-affinati)
+    Updated: 2025-11-19T00:01:05Z
+    Author: Gerard Collins
   - [Bath & Body Works vs Jo Malone: Full Comparison & Guide](https://affinatiliving.com/blogs/debates/bath-body-works-vs-jo-malone-full-comparison-guide)
-    Updated: 2025-11-18T23:55:22Z
+    Updated: 2025-11-18T23:59:10Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
