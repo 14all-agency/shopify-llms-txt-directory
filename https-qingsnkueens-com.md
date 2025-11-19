@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-15T00:01:04.827Z
+- Updated At: 2025-11-19T00:00:53.597Z
 
 ## Products
 
@@ -1606,7 +1606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_efbbb49a-6391-4b7d-a0be-50f57cc1c6c8.png?v=1750367722
     Price: $30.00 USD
 - [Skybound Stitch Sweaters](https://qingsnkueens.com/products/skybound-stitch-sweaters): Elevate your everyday look with the Skybound Stitch Sweater from Qings and Kueens — where classic craftsmanship meets contemporary edge. Made from soft, breathable cotton, this cable-knit essential delivers comfort with character. The textured weave and bold wide stripes create a striking contrast that feels both vintage-inspired and effortlessly modern. Designed with a classic crewneck, long sleeves with banded cuffs, and a ribbed hem for a refined fit, this sweater offers laid-back luxury for those who appreciate timeless style with a twist. Whether layered up or worn solo, the Skybound Stitch Sweater keeps your style grounded while your confidence takes flight.
-  Updated: 2025-07-02T15:44:49Z
+  Updated: 2025-11-16T23:50:25Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3794,7 +3794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_6e07320c-1957-4fca-8d03-d365e90c6eaf.png?v=1753566491
     Price: $29.99 USD
 - [Led Wooden Book Lamp | 3D  Foldable](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp): LED wooden book lamp that opens like a book to glow warm and cozy. Perfect for bedside or study. Premium quality, fast shipping, and trusted service...
-  Updated: 2025-09-12T10:55:58Z
+  Updated: 2025-11-18T21:32:43Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3802,19 +3802,19 @@
   - [Mini 120*90*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923662950567)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $23.99 USD
+    Price: $29.75 USD
   - [Small 145*110*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923662983335)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $26.99 USD
+    Price: $38.75 USD
   - [Medium 165*125*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923663016103)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $29.99 USD
+    Price: $45.75 USD
   - [Large 215*170*25mm](https://qingsnkueens.com/products/foldable-led-wooden-book-lamp?variant=46923663048871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_ae26a4bc-7daa-484a-8fdc-8bdddd7eae6d.png?v=1753717255
-    Price: $34.99 USD
+    Price: $60.75 USD
 - [Loose Women's Denim Overalls Shorts Cross-border 2025 Independent Station Casual Women Rompers Pants Place of Origin China](https://qingsnkueens.com/products/womens-denim-casual-romper): Women’s loose denim overall shorts—stylish casual rompers for 2025 fashion. Trendy, comfortable, and versatile pants designed for modern everyday wear.
   Updated: 2025-09-09T02:29:09Z
   Vendor: Qings & Kueens
@@ -3937,7 +3937,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/26fe2cd2-7aa3-4f51-8f09-a4b3f2cb6d64.8055bc98958a298b5c114f19ba1dd162.jpg?v=1753993261
     Price: $33.95 USD
 - [Satin Front Lounge Set | Green Lounge Set](https://qingsnkueens.com/products/satin-front-lounge-set): Discover Light Green Lounge Set · Fuzzy Lounge Set. Satin Front Lounge Set brings a touch of chic comfort to your wardrobe. Shop worry-free with our EASY RETURNS and FAST SHIPPING.
-  Updated: 2025-09-08T09:41:25Z
+  Updated: 2025-11-18T21:29:28Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3945,17 +3945,17 @@
   - [S](https://qingsnkueens.com/products/satin-front-lounge-set?variant=46952946008231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Capture_5d4c1b2e-8f06-4002-9165-d521b603f354.png?v=1754938230
-    Price: $23.99 USD
+    Price: $29.95 USD
   - [M](https://qingsnkueens.com/products/satin-front-lounge-set?variant=46952946040999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Capture_5d4c1b2e-8f06-4002-9165-d521b603f354.png?v=1754938230
-    Price: $23.99 USD
+    Price: $29.95 USD
   - [L](https://qingsnkueens.com/products/satin-front-lounge-set?variant=46952946073767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/Capture_5d4c1b2e-8f06-4002-9165-d521b603f354.png?v=1754938230
-    Price: $23.99 USD
+    Price: $29.95 USD
 - [VMMAYBE Knit Cardigan| Light Grey](https://qingsnkueens.com/products/vmmaybe-knit-cardigan): VMMAYBE Knit Cardigan. 29.99 $. Grey. Fast delivery available. Shop worry-free with our Easy Return policy.
-  Updated: 2025-09-08T09:43:57Z
+  Updated: 2025-11-18T21:27:55Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3963,25 +3963,25 @@
   - [XS](https://qingsnkueens.com/products/vmmaybe-knit-cardigan?variant=46954826596519)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
-    Price: $29.99 USD
+    Price: $40.95 USD
   - [S](https://qingsnkueens.com/products/vmmaybe-knit-cardigan?variant=46954826629287)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
-    Price: $29.99 USD
+    Price: $40.95 USD
   - [M](https://qingsnkueens.com/products/vmmaybe-knit-cardigan?variant=46954826662055)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
-    Price: $29.99 USD
+    Price: $40.95 USD
   - [L](https://qingsnkueens.com/products/vmmaybe-knit-cardigan?variant=46954826694823)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
-    Price: $29.99 USD
+    Price: $40.95 USD
   - [XL](https://qingsnkueens.com/products/vmmaybe-knit-cardigan?variant=46954826727591)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_fc574c34-a753-4b60-a1ee-2fba1c1bfb92.png?v=1755017372
-    Price: $29.99 USD
+    Price: $40.95 USD
 - [Polka Dots Maxi Dress | Long Black Dress For Women](https://qingsnkueens.com/products/polka-dots-maxi-dress): Discover the latest polka dot dress at Qings & Kueens . Shop for a range of polka dot dress styles including black and many other dresses online now. With fast SHIPPING And EASY RETURNS.
-  Updated: 2025-09-07T07:11:40Z
+  Updated: 2025-11-18T21:24:06Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -3989,47 +3989,47 @@
   - [XS](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363321511)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [S](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363354279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [M](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363387047)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [L](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363419815)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [XL](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363452583)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [XXL](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363485351)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
   - [XXXL](https://qingsnkueens.com/products/polka-dots-maxi-dress?variant=46980363518119)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_7e9cb47c-9389-4348-8daa-fa7abb393511.png?v=1755941335
-    Price: $29.99 USD
+    Price: $55.95 USD
 - [Metacrafts Baby Diaper Bag Backpack Large Capacity Nappy Changing Bag with Multi-Functional Storage Pockets](https://qingsnkueens.com/products/metacrafts-baby-diaper-backpack): Explore our versatile diaper bag backpack featuring a foldable crib, insulated bottle pocket, built-in USB charging port, and stroller straps in sleek black...
-  Updated: 2025-09-09T00:35:59Z
+  Updated: 2025-11-18T21:17:31Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_9d951e75-fae3-4b23-96e3-a3f4fdbf2d4c.png?v=1755960797
-  Price: $39.99 USD
+  Price: $49.99 USD
 - [Dr.Melaxin Cemenrete Calcium Volume Multi Balm 9g](https://qingsnkueens.com/products/dr-melaxin-cemenrete-calcium-multi-balm-9g): Discover Dr.Melaxin Cemenrete Calcium Multi Balm 9g—formulated with patented Ribornic to lift droopy eyes, brighten skin, and smooth fine lines with zero irritation.
-  Updated: 2025-09-08T23:25:04Z
+  Updated: 2025-11-18T21:05:22Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_39013e90-237b-429c-bb5b-5f08ec410bb9.png?v=1756044402
-  Price: $34.95 USD
+  Price: $39.95 USD
 - [Travel Backpack Hoodie | The Ultimate Travel Hoodie by Qings and Kueens](https://qingsnkueens.com/products/backpack-hoodie): Travel smarter with the ultimate Backpack Hoodie by Qings and Kueens. Stay hands-free with a built-in pack, waterproof fabric, and secure pockets. Shop the best travel hoodie now.
-  Updated: 2025-10-18T15:52:57Z
+  Updated: 2025-11-18T21:04:26Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4037,53 +4037,53 @@
   - [White / M](https://qingsnkueens.com/products/backpack-hoodie?variant=47028845904039)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [White / L](https://qingsnkueens.com/products/backpack-hoodie?variant=47028845936807)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [White / XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028845969575)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [White / 2XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846002343)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [White / 3XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846035111)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [White / 4XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846067879)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_1b8d60a3-f7da-4003-86f0-16dc2a63b916.png?v=1757414636
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / M](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846100647)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / L](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846133415)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846166183)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / 2XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846198951)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / 3XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846231719)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
   - [Black / 4XL](https://qingsnkueens.com/products/backpack-hoodie?variant=47028846264487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_16cffd7b-590f-42ea-bcf5-944d2a1b15f4.png?v=1757414645
-    Price: $34.95 USD
+    Price: $39.95 USD
 - [Crystal Gear Shift Knob – Universal LED Car Shifter | Qings & Kueens](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter): Shop the Crystal Gear Shift Knob – universal fit, RGB LED, premium quality, and fast delivery from Qings & Kueens. Upgrade your car in style today!
-  Updated: 2025-09-11T07:26:42Z
+  Updated: 2025-11-18T20:54:26Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4091,69 +4091,69 @@
   - [123456R](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455449255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1_a0785a89-ef67-4fc5-b137-00c3d25ccfa2.png?v=1757500492
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [R123456](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455482023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/2_9141b5de-11fd-4483-abcd-c0331eca94d2.png?v=1757500843
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [R12345](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455514791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/3_2abce6bf-0a99-4ae2-9c69-e4fc9c4cc33d.png?v=1757500868
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [123456R  (Bottom Right)](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455547559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/4_2740bc1b-ad36-4784-a2c7-25aba790ccd7.png?v=1757500910
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [123456R (Bottom Left)](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455580327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/5_5f926083-2dc4-4fdb-aa02-34ca92e01e6d.png?v=1757500972
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Saburu](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455613095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/6_b46c555e-f47e-4e3f-966d-c7bda3a31c06.png?v=1757501001
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Alphard](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455645863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/7_293a7f7a-acb0-4e65-b852-86f9714d2793.png?v=1757501032
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [VIP(Custom)](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455678631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/8_00f17596-fcf8-4127-84c2-297460179763.png?v=1757501059
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Suzuki](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455711399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/9_278af08a-5f9a-4ae7-aa90-8447794344db.png?v=1757501091
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Mitsubishi](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455744167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/10_caf0ccdd-d62b-4f6f-8715-2f108266f7f0.png?v=1757501122
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Lexus](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455776935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/11_779bea90-2d3c-4727-a77f-b35703596279.png?v=1757501161
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Mazda](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455809703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/12_e758906a-98d2-4566-bb94-464eaecbbade.png?v=1757501197
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Kia](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455842471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_edc968f2-ea8d-42ad-9dff-795a7b8aa6db.png?v=1757501219
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Toyota](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455875239)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/14_f1b890d2-9662-43ee-92ed-93b5a7e5b5d3.png?v=1757501247
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Crown](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455908007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/15_f75371b0-a49d-4cc9-9763-7f514e7ce80e.png?v=1757501275
-    Price: $21.95 USD
+    Price: $28.95 USD
   - [Hyundai](https://qingsnkueens.com/products/crystal-gear-shift-knob-universal-led-car-shifter?variant=47031455940775)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/16_30be1fa4-2b76-4478-8a4e-994fea73f4f1.png?v=1757501306
-    Price: $21.95 USD
+    Price: $28.95 USD
 - [Bow Tote Bag – Smart Tote Bag for Women | Trendy Fashion Handbag](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women): Buy the Bow Tote Bag – stylish tote bag for women, trendy fashion handbag, chic shoulder tote, spacious everyday tote bag, casual tote, durable handbag.
-  Updated: 2025-09-25T21:45:31Z
+  Updated: 2025-11-18T20:46:35Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -4161,27 +4161,27 @@
   - [Pink](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380208295)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG_2.png?v=1758786712
-    Price: $39.95 USD
+    Price: $50.00 USD
   - [Black](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380241063)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG_1.png?v=1758786664
-    Price: $39.95 USD
+    Price: $50.00 USD
   - [Brown](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380273831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG_3.png?v=1758786740
-    Price: $39.95 USD
+    Price: $50.00 USD
   - [Gray](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380306599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG_4.png?v=1758786776
-    Price: $39.95 USD
+    Price: $50.00 USD
   - [light purple](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380339367)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG_5.png?v=1758786812
-    Price: $39.95 USD
+    Price: $50.00 USD
   - [White](https://qingsnkueens.com/products/bow-tote-bag-stylish-trendy-handbag-for-women?variant=47078380372135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/BOW_TOTE_BAG.png?v=1758786646
-    Price: $39.95 USD
+    Price: $50.00 USD
 - [Suede Slip Clogs for Women – Comfortable Slip-On Clog Shoes with Cork Sole](https://qingsnkueens.com/products/suede-slip-clogs-for-women): Shop Suede Slip Clogs for Women – soft suede, cork insole, and lightweight slip-on comfort. Perfect for everyday wear with our reliable fast shipping.
   Updated: 2025-11-13T07:59:03Z
   Vendor: Qings & Kueens
@@ -5115,7 +5115,53 @@
   - [Red / 1.8M (180cm)](https://qingsnkueens.com/products/foldable-pop-up-decorated-chiristmas-tree?variant=47244782731431)
     Availability: Available
     Price: $135.00 USD
-[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjMzNTA3Njc2MzI3LCJsYXN0X3ZhbHVlIjoiODYzMzUwNzY3NjMyNyJ9)
+- [iPhone Pocket – Premium Knit Phone Pouch for All iPhones](https://qingsnkueens.com/products/iphone-pocket): Keep your iPhone safe in style with the iPhone Pocket – lightweight, durable knit phone pouch for travel, commuting, everyday use & gifting.
+  Updated: 2025-11-18T07:09:08Z
+  Vendor: Qings & Kueens
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8K2.jpg?v=1763444511
+  - [Black / Long](https://qingsnkueens.com/products/iphone-pocket?variant=47293699129511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8K2.jpg?v=1763444511
+    Price: $29.00 USD
+  - [Black / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699162279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8J2.jpg?v=1763444542
+    Price: $29.00 USD
+  - [Cinnamon / Long](https://qingsnkueens.com/products/iphone-pocket?variant=47293699195047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8M2.jpg?v=1763444539
+    Price: $29.00 USD
+  - [Cinnamon / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699227815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8L2.jpg?v=1763444540
+    Price: $29.00 USD
+  - [deep sapphire / Long](https://qingsnkueens.com/products/iphone-pocket?variant=47293699260583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8P2.jpg?v=1763444539
+    Price: $29.00 USD
+  - [deep sapphire / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699293351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8N2.jpg?v=1763444541
+    Price: $29.00 USD
+  - [Peacock / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699358887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8T2.jpg?v=1763444541
+    Price: $29.00 USD
+  - [Purple / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699489959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8U2.jpg?v=1763444541
+    Price: $29.00 USD
+  - [Mandarin / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699555495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8Q2.jpg?v=1763444542
+    Price: $29.00 USD
+  - [lemon / Short](https://qingsnkueens.com/products/iphone-pocket?variant=47293699621031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8R2.jpg?v=1763444541
+    Price: $29.00 USD
+[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjM5NjAyNTI0MzI3LCJsYXN0X3ZhbHVlIjoiODYzOTYwMjUyNDMyNyJ9)
 
 ## Collections
 
@@ -5126,10 +5172,10 @@
   Updated: 2025-04-20T15:15:51Z
   Total Products: 0
 - [Dresses](https://qingsnkueens.com/collections/women-dresses)
-  Updated: 2025-11-13T07:52:43Z
+  Updated: 2025-11-18T21:20:20Z
   Total Products: 24
 - [Lounge wear](https://qingsnkueens.com/collections/lounge-wear)
-  Updated: 2025-09-11T10:27:01Z
+  Updated: 2025-11-18T21:29:17Z
   Total Products: 4
 - [Pants](https://qingsnkueens.com/collections/pants)
   Updated: 2025-06-12T14:56:14Z
@@ -5138,7 +5184,7 @@
   Updated: 2025-06-12T14:59:30Z
   Total Products: 0
 - [Hoodies](https://qingsnkueens.com/collections/hoodies)
-  Updated: 2025-11-13T07:49:40Z
+  Updated: 2025-11-18T21:04:27Z
   Total Products: 13
 - [Jump suits](https://qingsnkueens.com/collections/jump-suits)
   Updated: 2025-09-08T14:13:02Z
@@ -5162,7 +5208,7 @@
   Updated: 2025-06-24T21:07:51Z
   Total Products: 2
 - [men hoodies](https://qingsnkueens.com/collections/men-hoodies)
-  Updated: 2025-10-18T15:52:58Z
+  Updated: 2025-11-18T21:04:27Z
   Total Products: 5
 - [men shorts](https://qingsnkueens.com/collections/men-shorts)
   Updated: 2025-06-21T20:51:42Z
@@ -5171,7 +5217,7 @@
   Updated: 2025-06-24T15:28:19Z
   Total Products: 3
 - [totes](https://qingsnkueens.com/collections/totes)
-  Updated: 2025-11-13T07:54:20Z
+  Updated: 2025-11-18T20:46:35Z
   Total Products: 2
 - [Clutch Bags](https://qingsnkueens.com/collections/clutch-bags)
   Updated: 2025-11-13T07:47:42Z
@@ -5180,7 +5226,7 @@
   Updated: 2025-06-12T15:36:14Z
   Total Products: 0
 - [Shoulder Bags](https://qingsnkueens.com/collections/shoulder-bags)
-  Updated: 2025-09-25T07:56:54Z
+  Updated: 2025-11-18T21:17:32Z
   Total Products: 2
 - [Sneakers](https://qingsnkueens.com/collections/sneakers)
   Updated: 2025-06-12T15:46:26Z
@@ -5234,11 +5280,11 @@
   Updated: 2025-06-13T12:22:36Z
   Total Products: 2
 - [women accessories](https://qingsnkueens.com/collections/women-acessories)
-  Updated: 2025-11-13T07:55:19Z
-  Total Products: 12
+  Updated: 2025-11-18T21:32:44Z
+  Total Products: 13
 - [Men accessories](https://qingsnkueens.com/collections/men-accessories)
-  Updated: 2025-11-13T07:55:19Z
-  Total Products: 8
+  Updated: 2025-11-18T21:32:44Z
+  Total Products: 9
 - [Midi Dress](https://qingsnkueens.com/collections/midi-dress)
   Updated: 2025-10-20T19:15:47Z
   Total Products: 2
@@ -5273,7 +5319,7 @@
   Updated: 2025-11-13T07:58:36Z
   Total Products: 1
 - [All Dresses](https://qingsnkueens.com/collections/all-dresses)
-  Updated: 2025-11-13T07:50:57Z
+  Updated: 2025-11-18T21:20:20Z
   Total Products: 19
 - [Clogs](https://qingsnkueens.com/collections/clogs)
   Updated: 2025-11-13T07:59:02Z
