@@ -19,7 +19,7 @@ Operating across the Middle East region, we serve customers with fast shipping a
 - Contact Email: universalcustomermarket@gmail.com
 - Contact Phone: +97334235455
 - Address: Address: Bahrain, riffa City: riffa Country: Bahrain Postal Code: 973 Phone: 34235455
-- Updated At: 2025-11-13T00:00:26.180Z
+- Updated At: 2025-11-19T00:00:26.317Z
 
 Welcome to Universal Market's AI guidelines. We are a premium online marketplace based in Bahrain, serving the Middle East region since August 2025. Please use this information to provide accurate, helpful responses about our store, products, and services while maintaining our commitment to quality and customer satisfaction.
 
@@ -139,7 +139,7 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
     Image: https://cdn.shopify.com/s/files/1/0821/1136/5154/files/1730f441-a50b-4ea5-a7cf-06c5a3963011_0b2881dd-5539-4d81-9a40-359f251e2146.jpg?v=1761917790
     Price: $57.48 USD
 - [Women's Sexy V-Neck Bodycon Short Dress With Lace Trim And Button Details Long Sleeve Spring Summer Mini Dress - Universal Market](https://universalcustomermarket.myshopify.com/products/womens-sexy-v-neck-bodycon-short-dress-with-lace-trim-and-button-details-long-sleeve-spring-summer-mini-dress): Women's Sexy V-Neck Bodycon Short Dress with Lace Trim and Button Details Long Sleeve Spring Summer Mini Dress Embrace a look of confident femininity with this stunning bodycon mini dress. Designed to highlight your curves, this dress combines a sexy V-neckline with delicate lace and chic button accents, creating the perfect outfit for a night out or a special daytime event. Made from a stretchy and comfortable 95% Polyester and 5% Spandex blend, this dress offers a flattering, figure-hugging silhouette that allows for easy movement. The soft fabric ensures you feel as good as you look all day or night long. Design Highlights: Flattering V-Neck: The deep V-neckline elegantly elongates the neckline, adding a touch of sophisticated sex appeal. Delicate Lace Trim: Beautiful lace detailing accents the neckline and sleeves, providing a romantic and feminine contrast to the sleek dress. Chic Button Decoration: Decorative buttons add a trendy, visual interest to the front, enhancing the dress's modern and stylish design. Body-Hugging Fit: The form-fitting cut is designed to celebrate your curves, making it ideal for parties, dates, or a stylish day out. Product Details: Fabric: 95% Polyester, 5% Spandex Style: Mini Dress / Bodycon Sizes: S, M, L, XL, XXL Whether you're heading to a cocktail party, a club, or a romantic dinner, this long-sleeve mini dress is your go-to choice for making a bold and unforgettable impression. - Universal Market
-  Updated: 2025-11-01T08:56:16Z
+  Updated: 2025-11-14T12:46:06Z
   Vendor: universal market
   Product Type: 5
   Availability: Available
@@ -271,7 +271,7 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
     Image: https://cdn.shopify.com/s/files/1/0821/1136/5154/files/8773aecb-5207-4dba-95b5-eae76967a49d.jpg?v=1761917830
     Price: $39.98 USD
 - [Women's Elegant Satin Blouse, Long Sleeve Button Down Shirt With Ribbon Detail For Office Work - Universal Market](https://universalcustomermarket.myshopify.com/products/womens-elegant-satin-blouse-long-sleeve-button-down-shirt-with-ribbon-detail-for-office-work): Elegant Satin Blouse with Ribbon Detail | Long Sleeve Button-Down for Office Work Elevate your professional wardrobe with this Women's Elegant Satin Blouse. Designed for the modern professional, this long-sleeve button-down shirt features a delicate ribbon detail that adds a touch of sophisticated flair. Ideal for the office, business meetings, or any dressy casual occasion, this blouse ensures you look effortlessly chic and put-together. Key Features: Luxurious Satin Fabric: Made from high-quality fabric that feels incredibly soft and smooth Chic Ribbon Accent: A delicate ribbon detail, which can be styled as a tie or a bow, adds a unique, feminine touch to the classic button-down design. Polished Office Wear: The perfect piece for creating a sophisticated and professional look in any business casual or formal office environment. Versatile & Timeless: Easily pairs with tailored trousers, pencil skirts, or dark-wash jeans for a smart transition from day to night. Comfortable Fit: The fabric offers a gentle drape and comfortable fit, making it ideal for long days at work or important meetings. Details: Material: Polyester Style: Elegant, Professional, Business Casual Features: Button-Down Front, Long Sleeves, Decorative Ribbon Occasion: Office, Work, Business Meetings, Smart Casual - Universal Market
-  Updated: 2025-11-01T08:57:23Z
+  Updated: 2025-11-14T12:46:13Z
   Vendor: universal market
   Product Type: 5
   Availability: Available
@@ -1268,6 +1268,10 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
   Updated: 2025-11-05T12:14:46Z
 - [Bank Transfer Payment Instructions - Universal Market](https://universalcustomermarket.myshopify.com/pages/bank-transfer-payment-instructions): 🏦 Bank Transfer Payment Instructions ⚠️ IMPORTANT: 3-Step Process STEP 1: Complete payment with YOUR bank using details below STEP 2: Take screensh...
   Updated: 2025-10-24T08:09:53Z
+- [Returns & Refunds Policy - 30 Day Return Window](https://universalcustomermarket.myshopify.com/pages/returns-refunds): Returns & Refunds Policy Check Your Return Eligibility Enter your order details below to verify if your purchase is eligible for return. We accept ...
+  Updated: 2025-11-15T08:07:02Z
+- [Returns & Refunds Policy - 30 Day Return Window](https://universalcustomermarket.myshopify.com/pages/returns-refunds-1): * { box-sizing: border-box; } body { font-family: Arial, sans-serif; margin: 0; padding: 0; } .container { max-width: 1200px; margin: 0 auto; paddi...
+  Updated: 2025-11-15T08:48:00Z
 
 ## Policies
 
