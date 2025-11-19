@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-11-09T14:00:17Z
 - Contact Email: isabelle.berthier@rocketmail.com
-- Updated At: 2025-11-16T00:00:44.269Z
+- Updated At: 2025-11-19T00:01:14.389Z
 
 ## Products
 
@@ -404,8 +404,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-691482972ccea.jpg?v=1762957135
     Price: €35.00 EUR
-- [Beautiful Hand Made Dress for Girls](https://kin-design-france.myshopify.com/products/beautiful-hand-made-dress-for-girls): 🌿 Reversible Organic Cotton Dress – Handmade in France by KIN Design Discover the charm of slow fashion with this exclusive reversible dress by KIN Design, crafted from the finest 100% organic cotton. Each piece is handmade in France, combining comfort, elegance, and creativity. With its unique double-sided design, this dress offers two looks in one – perfect for playful days or special occasions. Thoughtfully made with soft, breathable fabric, it’s gentle on the skin and kind to the planet. Available in limited stock for girls aged 4 to 12 years, this is your chance to own a truly one-of-a-kind piece that celebrates French craftsmanship and sustainable style. ✨ Two styles, one dress. 100% joy, zero compromise. ✨
-  Updated: 2025-11-13T08:42:16Z
+- [Beautiful Hand Made reversible Dress for Girls](https://kin-design-france.myshopify.com/products/beautiful-hand-made-dress-for-girls): 🌿 Reversible Organic Cotton Dress – Handmade in France by KIN Design Discover the charm of slow fashion with this exclusive reversible dress by KIN Design, crafted from the finest 100% organic cotton. Each piece is handmade in France, combining comfort, elegance, and creativity. With its unique double-sided design, this dress offers two looks in one – perfect for playful days or special occasions. Thoughtfully made with soft, breathable fabric, it’s gentle on the skin and kind to the planet. Available in limited stock for girls aged 4 to 12 years, this is your chance to own a truly one-of-a-kind piece that celebrates French craftsmanship and sustainable style. ✨ Two styles, one dress. 100% joy, zero compromise. ✨
+  Updated: 2025-11-17T22:42:41Z
   Vendor: Kin design France
   Product Type: 
   Availability: Available
@@ -532,18 +532,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-womens-rash-guard-white-front-69171319c5756.jpg?v=1763120633
     Price: €42.00 EUR
+- [Leggings](https://kin-design-france.myshopify.com/products/leggings-2): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • 75% recycled polyester, 25% elastane for production in the US/Mexico • 82% polyester, 18% elastane for production in Latvia • Fabric weight: 6.64 oz./yd.² (225 g/m²) in the US/Mexico • Fabric weight: 6.78 oz./yd.² (230 g/m²) in Latvia • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components sourced from Mexico and China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), kin design ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at isabelle.berthier@rocketmail.com or write to us 5, place du président Magnaud Saint Yrieix La Perche France.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
+  Updated: 2025-11-16T21:42:33Z
+  Vendor: Kin design France
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/IMG-6092.png?v=1763287450
+  - [XS](https://kin-design-france.myshopify.com/products/leggings-2?variant=56190139203959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
+    Price: €35.00 EUR
+  - [S](https://kin-design-france.myshopify.com/products/leggings-2?variant=56190139236727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
+    Price: €35.00 EUR
+  - [M](https://kin-design-france.myshopify.com/products/leggings-2?variant=56190139269495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
+    Price: €35.00 EUR
+  - [L](https://kin-design-france.myshopify.com/products/leggings-2?variant=56190139302263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
+    Price: €35.00 EUR
+  - [XL](https://kin-design-france.myshopify.com/products/leggings-2?variant=56190139335031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0960/7095/9479/files/all-over-print-leggings-white-front-69199c68c826a.jpg?v=1763287450
+    Price: €35.00 EUR
 
 ## Collections
 
-- [Home page](https://kin-design-france.myshopify.com/collections/frontpage): ☁️ Our Collection — clouds Inspired by the ever-changing beauty of the sky, the Nuages collection invites you to dream, drift, and move freely. Created by a French designer, each piece features an original cloud design, hand-drawn with care to capture the calm and poetry of the moment. 🌱 A gentle approach to fashion Because creativity shouldn’t mean overproduction, every garment is printed on demand — made only when you order it. No stock, no waste. We use responsible materials such as organic cotton and recycled or certified fabrics, chosen for their softness, durability, and lower environmental impact. 🕊️ The art of creating differently Our philosophy is simple: create less, but better. Each piece is thoughtfully designed to last — timeless, poetic, and locally produced with care. Your garment becomes a unique creation, as light as a cloud yet grounded in conscious design. 🌤 Wearing Nuages means… …embracing ethical and artistic fashion, …supporting an independent French creator, …and expressing a style that embodies freedom, softness, and sustainability.
-  Updated: 2025-11-13T11:01:31Z
+- [Home page](https://kin-design-france.myshopify.com/collections/frontpage): Kin Design is a French creative brand designed for those who want to consume fashion differently. Using a print-on-demand model, each piece is made only when ordered, helping reduce unnecessary stock, minimize waste, and support a more eco-friendly approach to clothing. Every design is created by a French artist inspired by nature. Her inspirations shape unique, poetic, and authentic illustrations, resulting in an original and modern collection available for immediate purchase. With Kin Design, you choose unique, ethical, and affordable products that are made to last and carry real meaning. A brand with a strong identity, where creativity and environmental consciousness come together to offer a responsible and accessible fashion experience for everyone. Français Kin Design est une marque française de création textile pensée pour celles et ceux qui souhaitent consommer autrement. Grâce au print à la demande, chaque pièce est fabriquée uniquement lorsqu’elle est commandée, ce qui permet de réduire les stocks inutiles, de limiter les déchets et de promouvoir une approche plus écologique de la mode. Chaque design est imaginé par une créatrice française passionnée par la nature. Ses inspirations se retrouvent dans des illustrations uniques, poétiques et authentiques, donnant naissance à une collection originale, moderne et immédiatement disponible à la commande. Avec Kin Design, vous choisissez des produits originaux, éthiques et abordables, conçus pour durer et porteurs de sens. Une marque à l’identité forte, où créativité et respect de l’environnement se rencontrent pour proposer une expérience de mode responsable et accessible à tous.
+  Updated: 2025-11-17T10:42:32Z
   Total Products: 10
 - [In the mood for clouds](https://kin-design-france.myshopify.com/collections/in-the-mood-for-clouds): In the Moods for Clouds By KIN Design — French creation, ethical and poetic Light as air, soft as a summer breeze, the “In the Moods for Clouds” collection invites you to dream. Imagined by the French designer behind KIN Design, this line of clothing celebrates the beauty of the sky and those fleeting moments when clouds tell their own stories. Each piece is printed on demand, reducing textile waste and embracing a more mindful way of creating. The cloud-inspired prints capture the movement, softness, and ever-changing shapes of the sky, offering silhouettes that are both airy and contemporary. Crafted from recycled and eco-friendly materials, the collection reflects KIN Design’s commitment to sustainable fashion and French craftsmanship. From oversized sweatshirts to minimalist tees and eco-designed tote bags, every item from In the Moods for Clouds is an ode to softness, freedom, and imagination — a little piece of sky you can wear.
-  Updated: 2025-11-14T11:32:21Z
-  Total Products: 12
+  Updated: 2025-11-17T10:19:27Z
+  Total Products: 11
 - [Fly like a Bird](https://kin-design-france.myshopify.com/collections/fly-like-a-bird): 🕊️ Fly Like a Bird – The New Collection by KIN Design Take flight with Fly Like a Bird, the new collection from KIN Design — a poetic blend of freedom, creativity, and conscious design for men, women, and children. Inspired by the lightness of the sky and the beauty of movement, each piece combines comfort and elegance through carefully chosen materials — from organic cotton to recycled polyester and custom-printed fabrics made on demand. Every design is crafted in France with KIN Design’s signature touch: exclusive prints, reversible styles, and a commitment to slow fashion that respects both people and the planet. Whether you’re exploring the city or chasing the wind, Fly Like a Bird invites you to move freely, dress consciously, and express your true colors. ✨ Fly Like a Bird – Sustainable freedom for every generation. ✨
-  Updated: 2025-11-13T09:04:16Z
-  Total Products: 1
+  Updated: 2025-11-17T10:42:32Z
+  Total Products: 2
 
 ## Blogs
 
