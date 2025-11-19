@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-28T02:13:08Z
 - Contact Email: contact@conquest.fit
-- Updated At: 2025-11-17T00:00:27.875Z
+- Updated At: 2025-11-19T00:00:24.560Z
 
 ## Products
 
@@ -515,7 +515,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7339/3983/files/7116ROC801.png?v=1753622177
   Price: $19.99 USD
 - [Conquistador Whey Protein Cookies and Cream - Premium Protein - 2lb](https://www.conquest.fit/products/conquistador-whey-protein-cookies-and-cream-flavor-2lb): Indulge in Conquistador Whey Protein Cookies and Cream, a premium protein powder packed into a delicious 2lb package. Fuel your fitness journey with every creamy bite!
-  Updated: 2025-10-31T00:29:02Z
+  Updated: 2025-11-18T18:07:01Z
   Vendor: Premium Sports Nutrition
   Product Type: 
   Availability: Available
@@ -1121,6 +1121,9 @@
     Author: Conquest Nutrition
   - [The Evolution of Fitness: A Historical Perspective on Exercise and Wellness](https://www.conquest.fit/blogs/news/the-evolution-of-fitness-a-historical-perspective-on-exercise-and-wellness): The Evolution of Fitness: A Historical Perspective on Exercise and Wellness
     Updated: 2025-11-14T07:07:57Z
+    Author: Conquest Nutrition
+  - [Maximize Your Workout: How Nutrition Plays a Critical Role in Fitness](https://www.conquest.fit/blogs/news/maximize-your-workout-how-nutrition-plays-a-critical-role-in-fitness): Maximize Your Workout: How Nutrition Plays a Critical Role in Fitness
+    Updated: 2025-11-17T07:04:43Z
     Author: Conquest Nutrition
 
 ## Policies
