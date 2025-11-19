@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-11-18T00:00:26.319Z
+- Updated At: 2025-11-19T00:00:53.150Z
 
 ## Products
 
@@ -311,13 +311,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/hakiki-deri-pasaportluk-kahve2.png?v=1717875525
   Price: ₺799,90 TRY
-- [Hakiki Deri Ruhsat Kılıfı - Bulderi](https://bulderi.com.tr/products/hakiki-deri-ruhsat-kilifi): Hakiki Deri Ruhsat Kılıfı, şıklığı ve kullanışlığı bir araya getirerek sürücüler için ideal bir seçenektir. Üstün kaliteli 1. sınıf dana derisinden üretilmiş olup, özenle işlenmiş detaylarıyla kaliteli bir işçiliği yansıtır.
-  Updated: 2025-11-12T21:29:40Z
-  Vendor: Bulderi
-  Product Type: Ruhsat Kılıfı
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Hakiki-Deri-Ruhsat-Kilifi3.png?v=1717184211
-  Price: ₺749,90 TRY
 - [Telefon Bölmeli Hakiki Deri El Bantlı Çanta - Bulderi](https://bulderi.com.tr/products/telefon-bolmeli-hakiki-deri-el-bantli-canta): Telefon Bölmeli Hakiki Deri El Çantası, hem şıklığı hem de işlevselliği bir arada sunar. Üstün kaliteli 1. sınıf dana derisinden imal edilmiş olup, özenle işlenmiş detaylarıyla kaliteli bir işçiliği yansıtır.
   Updated: 2025-08-13T22:11:17Z
   Vendor: Bulderi
@@ -351,7 +344,7 @@
     Availability: Available
     Price: ₺9.999,90 TRY
 - [Hakiki Deri Telefon Çantası - Bulderi](https://bulderi.com.tr/products/hakiki-deri-telefon-cantasi): Bulderi markasının zarif tasarımıyla öne çıkan hakiki deri askılı telefon çantası, şıklığı ve işlevselliği bir araya getiriyor. %100 hakiki dana derisinden üretilen bu omuz askılı çanta, el işçiliğiyle dikkat çekiyor.
-  Updated: 2025-09-03T18:05:39Z
+  Updated: 2025-11-18T10:23:51Z
   Vendor: Bulderi
   Product Type: Askılı Çanta
   Availability: Available
@@ -413,40 +406,40 @@
   Updated: 2025-10-25T11:09:02Z
   Total Products: 6
 - [Deri Çantalar](https://bulderi.com.tr/collections/cantalar): Bulderi, seçkin deri çanta koleksiyonuyla tarzınızı tamamlayacak benzersiz bir alışveriş deneyimi sunuyor. Kalite ve şıklığı bir araya getiren Bulderi çantaları, her zevke hitap eden çeşitleriyle öne çıkıyor.
-  Updated: 2025-09-03T06:58:42Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 14
 - [Hediye Setleri](https://bulderi.com.tr/collections/hediye-setleri): Bulderi'nin kişiye özel Setler koleksiyonu, sevdiklerinize özel günlerde unutulmaz anlar yaşatmanızı sağlayacak benzersiz seçenekler sunar. Her bir hediye seti özenle seçilmiş ürünlerden oluşur ve çeşitli temalara uygun olarak tasarlanmıştır.
   Updated: 2025-05-11T17:37:18Z
   Total Products: 0
 - [İndirimdekiler](https://bulderi.com.tr/collections/i̇ndirimdekiler): Bulderi'nin İndirimdekiler koleksiyonu, harika fırsatları kaçırmamanız için tasarlanmıştır. Bu özel koleksiyon, indirimli fiyatlarla en sevilen ürünleri bir araya getirir. Moda, güzellik, ev dekorasyonu ve daha birçok kategoride geniş bir ürün yelpazesine sahiptir.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 36
 - [En Yeniler](https://bulderi.com.tr/collections/en-yeniler): Bulderi'nin En Yeniler koleksiyonu, son trendleri takip eden ve sürekli olarak güncellenen ürünleri bir araya getiriyor. Bu özel koleksiyon, en yeni ve özgün tasarımlarıyla dikkat çekiyor.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 37
 - [Çok Satanlar](https://bulderi.com.tr/collections/cok-satanlar): Bulderi'nin Çok Satanlar koleksiyonu, müşterilerimizin en çok tercih ettiği ve beğendiği ürünleri bir araya getiriyor. Bu özel koleksiyon, popülerliklerini kanıtlamış ve kalitesiyle öne çıkan ürünleri içerir.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 37
 - [Telefon Bölmeli Cüzdanlar](https://bulderi.com.tr/collections/telefon-bolmeli-cuzdanlar): Telefon Bölmeli Cüzdanlar, işlevselliği ve şıklığı bir araya getiren modern yaşamın vazgeçilmez aksesuarlarıdır. Her biri özenle seçilmiş yüksek kaliteli malzemelerden üretilen cüzdanlarımız, telefonunuza uygun bölmeleriyle pratik kullanım sunar.
   Updated: 2025-10-01T11:09:52Z
   Total Products: 5
 - [Anneler Günü](https://bulderi.com.tr/collections/anneler-gunu): Sevgi dolu bir Anneler Günü hediyesi bulmanın tam zamanı! Bulderi olarak, annenizi şımartmak için özel olarak seçilmiş cüzdan ve çanta koleksiyonumuzu sunuyoruz. Annenizin tarzını yansıtan ve ona günlük hayatta eşlik edecek şık ve işlevsel parçalar arasında seçim yapın.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 22
 - [Deri Aksesuarlar - Bulderi](https://bulderi.com.tr/collections/aksesuarlar): Stilinizi tamamlayacak özgün aksesuarlar Bulderi'de! Deri cüzdan, çanta, ve kartlık gibi günlük ihtiyaçlarınızı karşılayacak ürünlerimizle şıklığınıza şıklık katın. Her zevke uygun seçeneklerimizle öne çıkan Aksesuarlar kategorimiz, kalite ve zarafeti bir araya getiriyor.
   Updated: 2025-11-13T12:09:46Z
   Total Products: 3
 - [Babalar Günü](https://bulderi.com.tr/collections/babalar-gunu): Bulderi’nin Babalar Günü koleksiyonunda, babanıza olan sevginizi ve takdirinizi gösterecek en zarif ve kaliteli deri ürünlerini keşfedin. Özenle tasarlanmış deri cüzdanlar, şık çantalar, pratik kartlıklar ve zarif aksesuarlar ile babalarınıza hem işlevsel hem de stil sahibi hediyeler sunun.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 18
 - [Sevgililer Günü](https://bulderi.com.tr/collections/sevgililer-gunu): Sevgililer Günü, sevginizi ifade etmek için en özel zamanlardan biridir. Bulderi’nin el yapımı deri koleksiyonu, bu özel günü unutulmaz kılmak için mükemmel hediyeleri sunar. Cüzdan, kartlık, çanta ve aksesuarlar, sevdiğiniz kişiye olan duygularınızı en güzel şekilde yansıtacak tasarımlarla özenle hazırlanmıştır.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 22
 - [El Yapımı](https://bulderi.com.tr/collections/el-yapimi): Bulderi’nin el yapımı deri koleksiyonu, şıklığı ve zarafeti bir araya getirerek, her tarza hitap eden benzersiz parçalar sunar. Cüzdan, kartlık, çanta ve aksesuarlar gibi çeşitli ürünler, ustalarımızın özenle seçtiği yüksek kaliteli deri kullanılarak el işçiliği ile üretilmiştir.
   Updated: 2025-09-29T11:09:06Z
   Total Products: 10
 - [Yaz İndirimi](https://bulderi.com.tr/collections/yaz-indirimi): Yaz sıcaklarını şıklıkla karşılayın! Bulderi'nin özel Yaz İndirimi Koleksiyonu, %100 gerçek deriden üretilmiş cüzdan, çanta, kartlık ve el yapımı deri aksesuarlarla dolu.
-  Updated: 2025-11-13T12:09:46Z
+  Updated: 2025-11-18T12:10:25Z
   Total Products: 11
 
 ## Blogs
