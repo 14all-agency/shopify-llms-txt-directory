@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-11-19T00:00:23.540Z
+- Updated At: 2025-11-19T17:16:04.764Z
 
 ## Products
 
@@ -1712,6 +1712,9 @@
   - [Top 10 Must-Have Fashion Items for Every Season](https://www.perlamargherita.com/blogs/blogs/top-10-must-have-fashion-items-for-every-season): Top 10 Must-Have Fashion Items for Every Season
     Updated: 2025-11-17T03:38:09Z
     Author: Perla Margherita
+  - [10 Must-Have Fashion Accessories for Every Season](https://www.perlamargherita.com/blogs/blogs/10-must-have-fashion-accessories-for-every-season): 10 Must-Have Fashion Accessories for Every Season
+    Updated: 2025-11-19T00:36:23Z
+    Author: Perla Margherita
 
 ## Store Pages
 
@@ -1737,9 +1740,9 @@
 - [Privacy Policy](https://www.perlamargherita.com/policies/privacy-policy)
   Updated: 2025-11-18T23:55:21+08:00
 - [Shipping Policy](https://www.perlamargherita.com/policies/shipping-policy)
-  Updated: 2025-11-18T23:47:44+08:00
+  Updated: 2025-11-20T01:04:07+08:00
 - [Refund Policy](https://www.perlamargherita.com/policies/refund-policy)
-  Updated: 2025-11-18T23:51:51+08:00
+  Updated: 2025-11-20T01:14:25+08:00
 - [Terms of Service](https://www.perlamargherita.com/policies/terms-of-service)
   Updated: 2025-11-18T23:54:36+08:00
 - [Contact Information](https://www.perlamargherita.com/policies/contact-information)
