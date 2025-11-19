@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-11-18T00:00:32.332Z
+- Updated At: 2025-11-19T00:00:24.222Z
 
 ## Products
 
@@ -1179,14 +1179,14 @@
 
 - [Contact](https://www.georginatalfana.com/pages/contact): For further information please fill out the form below or email georgina@georginatalfana.com
   Updated: 2025-08-17T06:52:48Z
-- [Hibiscus Surfwear](https://www.georginatalfana.com/pages/verbier-eco-clothing): Care about the environment and about what you are wearing? Visit our range at Hibiscus Surfwear to see our ethically printed on demand clothing range.
-  Updated: 2025-08-17T06:46:10Z
+- [Verbier Eco Clothing](https://www.georginatalfana.com/pages/verbier-eco-clothing): Care about the environment and about what you are wearing? Visit our range at Verbier Eco Clothing to see our ethically printed on demand clothing ...
+  Updated: 2025-11-18T06:16:52Z
 - [Georgina Talfana - IML](https://www.georginatalfana.com/pages/georgina-talfana-iml): Georgina Talfana is a qualified International Mountain Leader based in Woodbridge, UK. Georgina can take you for guided day walks and snowshoeing a...
   Updated: 2025-08-18T15:55:52Z
 - [Duke of Edinburgh's Award expeditions](https://www.georginatalfana.com/pages/duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train and assess groups up to gold level. Georgina has vast experience of working with schoo...
-  Updated: 2025-09-29T10:09:34Z
-- [Outdoor Education Instructor](https://www.georginatalfana.com/pages/outdoor-education-instructor): Georgina feels very strongly about sharing her love and knowledge for the natural environment with young people and adults. Georgina has over 22 ye...
-  Updated: 2025-08-18T15:43:31Z
+  Updated: 2025-11-18T06:08:31Z
+- [Outdoor Education Instructor](https://www.georginatalfana.com/pages/outdoor-education-instructor): Georgina feels very strongly about sharing her love and knowledge for the natural environment with young people and adults. Georgina has over 23 ye...
+  Updated: 2025-11-18T06:10:48Z
 - [Georgina Talfana - CV](https://www.georginatalfana.com/pages/georgina-talfana-cv): OUTDOOR QUALIFICATIONS /SKILLS MLTB International Mountain Leader 04/07 MLTB Winter Mountain Leader (trained) 02/06 MLTB Summer Mountain Leader 08/...
   Updated: 2024-10-15T09:14:46Z
 - [Terms & Conditions for Hibiscus Surfwear](https://www.georginatalfana.com/pages/terms-conditions-for-verbier-eco-clothing): In placing your order, you agree to and fully acknowledge the following: Product representation The initial model mockup image offers a representat...
