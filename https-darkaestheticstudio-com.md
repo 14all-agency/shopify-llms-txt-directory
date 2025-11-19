@@ -6,7 +6,7 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-11-17T00:00:26.661Z
+- Updated At: 2025-11-19T00:00:23.531Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
@@ -62,28 +62,6 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/Presentkort_mockup.png?v=1761247165
     Price: 1 000,00 kr SEK
-- [Dark Aesthetics klistermärke](https://darkaestheticstudio.com/products/dark-aesthetics-klistermarke): ✨Det här är mer än bara ett klistermärke – det är ett sätt att styla till dina saker med vår snygga logga! 🖤 Produktfördelar Glansig finish som motverkar repor Hållbart vinylmaterial med starkt fäste på släta ytor Miljövänligt bläck för livfulla färger Finns i flera storlekar för olika behov 🧼 Skötselråd Använd en mjuk, ren och torr trasa för att försiktigt borsta bort damm eller smuts – börja från mitten och arbeta utåt Leverans 10-30 arbetsdagar
-  Updated: 2025-10-28T20:13:24Z
-  Vendor: Dark Aesthetic Studio
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
-  - [5 × 5 cm / Transparent](https://darkaestheticstudio.com/products/dark-aesthetics-klistermarke?variant=52011170005335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
-    Price: 89,00 kr SEK
-  - [8 × 8 cm / Transparent](https://darkaestheticstudio.com/products/dark-aesthetics-klistermarke?variant=52011170038103)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
-    Price: 89,00 kr SEK
-  - [10 × 10 cm / Transparent](https://darkaestheticstudio.com/products/dark-aesthetics-klistermarke?variant=52011170070871)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
-    Price: 89,00 kr SEK
-  - [15 × 15 cm / Transparent](https://darkaestheticstudio.com/products/dark-aesthetics-klistermarke?variant=52011170103639)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/dark-aesthetics-sticker-square-dark-aesthetic_075a05ba-a497-4f49-bfbe-a3b6ae17ba64.png?v=1761593928
-    Price: 89,00 kr SEK
 - [Dark Aesthetics glasmugg med lock och sugrör](https://darkaestheticstudio.com/products/dark-aesthetics-16oz-sipper-glass-with-bamboo-lid-straw): 🖤 Stilren glasmugg med bambulock & sugrör Glaset rymmer 473 ml och har livfulla färger som verkligen poppar, tack vare avancerad tryckteknik. Det klara, härdade glaset ger en modern känsla och passar lika bra i köket som på picknicken. Designat för en hållbar livsstil, är detta glas ett utmärkt val för dig som vill minska plastanvändningen utan att kompromissa med stil. Perfekt för somriga dagar, roliga sammankomster eller som en omtänksam present. ✨ Produktfördelar Sugröret tål både värme och kyla Tillverkat av klart, härdat glas för modern estetik BPA-fritt och handdisk rekommenderas för lång hållbarhet Leverans: 10-30 arbetsdagar.
   Updated: 2025-10-28T19:44:22Z
   Vendor: Dark Aesthetic Studio
@@ -1324,14 +1302,14 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
   Updated: 2025-11-13T20:06:10Z
   Total Products: 11
 - [Merch](https://darkaestheticstudio.com/collections/merch): 🖤 Darkness Queens Merch – För dig som vågar sticka utVälkommen till min merch-sida – ett litet hörn av internet där mörk estetik möter nördig passion. Här hittar du produkter med min logga, allt från hoodies med attityd till inredningsdetaljer som säger "nej tack" till beige.Alla produkter är noga utvalda med fokus på kvalitet, cruelty-free material och en känsla av att du är del av något större – en community av likasinnade som älskar det alternativa, det mystiska och det uttrycksfulla.🎁 Perfekt som present, till din egen samling eller för att göra vardagen lite mer magisk
-  Updated: 2025-10-29T11:26:38Z
-  Total Products: 6
+  Updated: 2025-11-18T11:42:30Z
+  Total Products: 5
 - [Hem](https://darkaestheticstudio.com/collections/hem): Välkommen till vår värld av kreativitet och estetik. Här hittar du noggrant utvalda produkter för dig som älskar att skapa, och älskar spel – oavsett om det handlar om att lägga ett 1500-bitars pussel i skymningsljus eller lyfta ditt hem med en liten detalj. 🖤
   Updated: 2025-11-11T19:19:49Z
   Total Products: 20
 - [Alla produkter](https://darkaestheticstudio.com/collections/alla-produkter): Välkommen till Dark Aesthetic Studios samlingssida – en plats där skuggor möter skönhet och varje produkt bär på en berättelse. Här hittar du hela vårt kurerade sortiment: från konstnärliga prints och accessoarer till inredning och digitala verk, alla med en tydlig mörk estetik och själfull karaktär.
-  Updated: 2025-11-13T20:06:10Z
-  Total Products: 62
+  Updated: 2025-11-18T11:42:30Z
+  Total Products: 61
 - [Jul](https://darkaestheticstudio.com/collections/jul): A Darker December – Julkollektionen för De Som Firar i Skuggor🕯️ Glöm vita, beiga kulor och sockersöta tomtar. Den här kollektionen är för dig som vill att julen ska kännas – mystisk, vacker, och lite olydig. “A Darker December” är en samling dekorationer, textilier och figurer som förvandlar högtiden till ett visuellt ritualrum. Tänk mörkt vinrött, faceless figurer, skulpturala rosetter och plyschiga bakverk med en surrealistisk twist. Varje objekt är noga utvalt för att skapa kontrast: mellan ljus och skugga, tradition och dekadens, värme och distans. Det är en jul för dem som inte följer mallen – utan formar sin egen. Låt din jul bli ett uttryck för vem du är – inte vad du förväntas vara.
   Updated: 2025-11-11T19:57:35Z
   Total Products: 11
