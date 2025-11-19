@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-17T00:00:26.572Z
+- Updated At: 2025-11-19T00:00:49.577Z
 
 ## Products
 
@@ -1291,7 +1291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/HORSE-SC-TIN-2024.jpg?v=1711999666
     Price: $65.95 USD
 - [The Blissful Horses Focus Aromatherapy Corrals Your Horses Attention](https://theblissfulpets.com/products/focus-aromatherapy): The Blissful Horses Focus Horse Aromatherapy amps up your horses Attention. All natural essential oil blend & handcrafted in far northern Minnesota.
-  Updated: 2025-10-05T11:41:30Z
+  Updated: 2025-11-17T15:13:13Z
   Vendor: The Blissful Horses
   Product Type: AROMATHERAPY
   Availability: Available
@@ -1580,13 +1580,13 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-11-07T15:45:25Z
+  Updated: 2025-11-17T12:21:06Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-11-13T12:23:44Z
+  Updated: 2025-11-18T12:23:28Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-13T12:23:44Z
+  Updated: 2025-11-18T12:23:28Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-11-08T12:26:09Z
