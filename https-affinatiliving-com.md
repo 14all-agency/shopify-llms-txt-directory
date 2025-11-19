@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-19T08:00:31.283Z
+- Updated At: 2025-11-19T12:00:32.099Z
 
 ## Products
 
@@ -6369,7 +6369,7 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lids (12 Pack)](https://affinatiliving.com/products/3-wick-lids)
-  Updated: 2025-11-18T20:28:02Z
+  Updated: 2025-11-19T08:28:01Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6946,13 +6946,13 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/IMG-7628.png?v=1763384417
   Price: $17.95 USD
 - [50MM Round Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-product-label-rolls)
-  Updated: 2025-11-18T20:23:58Z
+  Updated: 2025-11-19T08:22:31Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [50MM x 80MM Rectangle Product Label Rolls (White)](https://affinatiliving.com/products/50mm-x-80mm-rectangle-product-label-rolls)
-  Updated: 2025-11-18T20:26:09Z
+  Updated: 2025-11-19T08:23:50Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
