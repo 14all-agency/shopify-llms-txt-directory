@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-11-19T00:00:28.121Z
+- Updated At: 2025-11-20T00:01:13.949Z
 
 ## Products
 
@@ -1214,7 +1214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Baby-scale-3-b.jpg?v=1751478458
   Price: ₹1,399.00 INR
 - [Buy ​Samso Bloom Baby Weighing Scale - Surgismart](https://surgismart.in/products/samso-bloom): ABS Body with Height Printing Large LCD Display with Backlight Touch Buttons Tare Button Feature Weight Lock Feature - Surgismart
-  Updated: 2025-10-15T09:37:49Z
+  Updated: 2025-11-19T07:05:21Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
@@ -1901,7 +1901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_8994b708-d6b3-4f73-b4fa-ac6495b76015.png?v=1751478376
   Price: ₹460.00 INR
 - [Buy ​Medvance Walking Stick Tripod - Surgismart](https://surgismart.in/products/medvance-walking-stick-tripod): Medvance Lightweight Anodized Aluminum Telescopic Crutch 🚶‍♂️ Material: Crafted from lightweight anodized aluminum. Handle Design: Swan-neck shape for ergonomic comfort. Floor Grip: PVC tip ensures a secure hold on any surface. Adjustable Height: Easily adjust from 78 cm to 98 cm. Suitable For: Elderly individuals and those with weakened legs. Stability & Support: Stout body and rounded tip provide stable steps, especially beneficial for frail limbs. Telescopic Height: Customizable height for every user. High-Quality Build: Anodized aluminum ensures durability over time. Portability: Despite its sturdy construction, the crutch remains lightweight and portable. Exceptional Grip: Swan-shaped ergonomic handle for effortless movement. - Surgismart
-  Updated: 2025-10-15T09:37:06Z
+  Updated: 2025-11-19T08:24:17Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
