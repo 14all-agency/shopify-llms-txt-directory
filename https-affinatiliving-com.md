@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-20T08:00:31.710Z
+- Updated At: 2025-11-20T12:00:30.905Z
 
 ## Products
 
@@ -7038,6 +7038,21 @@
   - [Pack of 5](https://affinatiliving.com/products/carrot-cake-original-candle?variant=58396376662097)
     Availability: Available
     Price: $64.95 USD
+- [Lavender Vanilla - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz): Lavender Vanilla Shea Butter Lotion by Affinati—soothing lavender, creamy vanilla, and rich hydration for soft, radiant, luxuriously scented skin all day.
+  Updated: 2025-11-20T10:56:04Z
+  Vendor: Affinati
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/7415/5857/files/ChatGPT_Image_Nov_20_2025_at_05_46_08_AM.png?v=1763635789
+  - [Single Order](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz?variant=58398574346321)
+    Availability: Available
+    Price: $16.95 USD
+  - [Pack of 3](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz?variant=58398574379089)
+    Availability: Available
+    Price: $36.95 USD
+  - [Pack of 5](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz?variant=58398574411857)
+    Availability: Available
+    Price: $49.95 USD
 
 ## Collections
 
@@ -7054,8 +7069,8 @@
   Updated: 2025-10-12T13:18:35Z
   Total Products: 7
 - [Body Lotions](https://affinatiliving.com/collections/body-lotions): Explore Affinati Body Lotions crafted with nourishing ingredients and luxurious scents. Hydrate your skin with eco-friendly, long-lasting moisture in every bottle.
-  Updated: 2025-11-17T12:10:17Z
-  Total Products: 26
+  Updated: 2025-11-20T10:49:26Z
+  Total Products: 27
 - [Face Creams](https://affinatiliving.com/collections/face-creams)
   Updated: 2025-11-09T23:34:08Z
   Total Products: 10
@@ -7081,8 +7096,8 @@
   Updated: 2025-11-19T17:38:55Z
   Total Products: 281
 - [All Body Care Collections](https://affinatiliving.com/collections/body-care-collections)
-  Updated: 2025-11-17T12:10:17Z
-  Total Products: 75
+  Updated: 2025-11-20T10:49:26Z
+  Total Products: 76
 - [All Home Care Collections](https://affinatiliving.com/collections/all-home-care-collections)
   Updated: 2025-11-17T13:00:44Z
   Total Products: 70
@@ -8567,7 +8582,7 @@
     Updated: 2025-11-19T12:35:04Z
     Author: Gerard Collins
   - [Yankee Candle vs Homesick — Full Comparison | Best Scents, Quality & Alternatives](https://affinatiliving.com/blogs/debates/yankee-candle-vs-homesick-full-comparison-best-scents-quality-and-alternatives)
-    Updated: 2025-11-19T13:19:18Z
+    Updated: 2025-11-20T09:45:24Z
     Author: Gerard Collins
   - [Yankee Candle vs Hotel Collection – Best Luxury Candle Alternatives](https://affinatiliving.com/blogs/debates/yankee-candle-vs-hotel-collection-best-luxury-candle-alternatives)
     Updated: 2025-11-19T12:40:53Z
@@ -8588,7 +8603,7 @@
     Updated: 2025-11-19T00:01:05Z
     Author: Gerard Collins
   - [Voluspa vs Bath & Body Works – Best Candle Brand for Your Home](https://affinatiliving.com/blogs/debates/voluspa-vs-bath-body-works-best-candle-brand-for-your-home)
-    Updated: 2025-11-19T12:44:33Z
+    Updated: 2025-11-20T09:50:43Z
     Author: Gerard Collins
   - [Bath & Body Works vs Hotel Collection – Full Comparison + Best Clean Luxury Candle Alternative](https://affinatiliving.com/blogs/debates/bath-and-body-works-vs-hotel-collection-full-comparison-best-clean-luxury-candle-alternative)
     Updated: 2025-11-19T12:46:38Z
@@ -8598,6 +8613,18 @@
     Author: Gerard Collins
   - [Bath & Body Works vs Nest: Full Candle Comparison Guide](https://affinatiliving.com/blogs/debates/bath-body-works-vs-nest-full-candle-comparison-guide)
     Updated: 2025-11-19T13:20:57Z
+    Author: Gerard Collins
+  - [Voluspa vs Capri Blue: Ultimate Candle Comparison Guide](https://affinatiliving.com/blogs/debates/voluspa-vs-capri-blue-ultimate-candle-comparison-guide): Voluspa vs Capri Blue: Ultimate Candle Comparison Guide
+    Updated: 2025-11-20T09:55:28Z
+    Author: Gerard Collins
+  - [Voluspa vs Boy Smells: Which Candle Brand Is Better? Full Comparison](https://affinatiliving.com/blogs/debates/voluspa-vs-boy-smells-which-candle-brand-is-better-full-comparison)
+    Updated: 2025-11-20T09:57:57Z
+    Author: Gerard Collins
+  - [Voluspa vs Hotel Collection: The Ultimate Candle Comparison](https://affinatiliving.com/blogs/debates/voluspa-vs-hotel-collection-the-ultimate-candle-comparison)
+    Updated: 2025-11-20T09:56:51Z
+    Author: Gerard Collins
+  - [Voluspa vs Diptyque: Which Luxury Candle Brand Is Best?](https://affinatiliving.com/blogs/debates/voluspa-vs-diptyque-which-luxury-candle-brand-is-best)
+    Updated: 2025-11-20T09:54:09Z
     Author: Gerard Collins
 - [Affinati Spotlight: Product Feature](https://affinatiliving.com/blogs/affinati-spotlight-product-feature)
   - [Affinati Fresh Peaches 3-Wick Candle | Long-Lasting Summer Luxury](https://affinatiliving.com/blogs/affinati-spotlight-product-feature/affinati-fresh-peaches-3-wick-candle-long-lasting-summer-luxury)
