@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-19T20:00:26.260Z
+- Updated At: 2025-11-20T04:00:27.287Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -1527,7 +1527,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Availability: Available
     Price: $78.00 USD
 - [Sugar + Spicy One-piece Thong Bodysuit](https://sugar-spicy.com/products/one-piece-thong-bodysuit): We are obsessing over this hot bodysuit, featuring adjustable shoulder straps to adjust according to personal needs. Tighten the abdomen, lift the buttocks, shape the legs and support the chest. Team it with light-wash denim and your preferred footwear for a simple but chic look.
-  Updated: 2025-11-17T11:07:45Z
+  Updated: 2025-11-19T20:25:31Z
   Vendor: Sugar + Spicy
   Product Type: Bodysuit
   Availability: Available
@@ -1554,83 +1554,83 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Price: $72.00 USD
   - [Chocolate / XS-S](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383201080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763583930
     Price: $72.00 USD
   - [Chocolate / M-L](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383397688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763583930
     Price: $72.00 USD
   - [Chocolate / XL-XXL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383594296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763583930
     Price: $72.00 USD
   - [Chocolate / 3XL-4XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383790904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763583930
     Price: $72.00 USD
   - [Chocolate / 5XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383987512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373784_900x_b980bed9-ca9d-447e-9c04-2b56b80915f8.jpg?v=1763583930
     Price: $72.00 USD
   - [Navajowhite / XS-S](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383102776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763583930
     Price: $72.00 USD
   - [Navajowhite / M-L](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383299384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763583930
     Price: $72.00 USD
   - [Navajowhite / XL-XXL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383495992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763583930
     Price: $72.00 USD
   - [Navajowhite / 3XL-4XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383692600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763583930
     Price: $72.00 USD
   - [Navajowhite / 5XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383889208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1191366627_900x_3df42d69-6217-4b79-b6e4-7fdc5f3d8be8.jpg?v=1763583930
     Price: $72.00 USD
   - [Dark Pink / XS-S](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383266616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763583930
     Price: $72.00 USD
   - [Dark Pink / M-L](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383463224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763583930
     Price: $72.00 USD
   - [Dark Pink / XL-XXL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383659832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763583930
     Price: $72.00 USD
   - [Dark Pink / 3XL-4XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383856440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763583930
     Price: $72.00 USD
   - [Dark Pink / 5XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621384053048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1189787137_900x_7e4d2d80-5e18-49d6-92f3-995fdefffc94.jpg?v=1763583930
     Price: $72.00 USD
   - [Red / XS-S](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383168312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763583930
     Price: $72.00 USD
   - [Red / M-L](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383364920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763583930
     Price: $72.00 USD
   - [Red / XL-XXL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383561528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763583930
     Price: $72.00 USD
   - [Red / 3XL-4XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383758136)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763583930
     Price: $72.00 USD
   - [Red / 5XL](https://sugar-spicy.com/products/one-piece-thong-bodysuit?variant=45621383954744)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763334159
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/seamless-shaper-1184373778_900x_07333fa0-414c-43a1-a46a-011ffc96c9f0.jpg?v=1763583930
     Price: $72.00 USD
 - [Chic Comfort: Deep Plunge Thong Bodysuit with U-Wire Detailing](https://sugar-spicy.com/products/deep-v-neck-backless-u-plunge-bodysuit): Dive into style with our deep plunge thong bodysuit, featuring U-wire details and raw cut edges for a seamless silhouette. Experience comfort and support with an underwire and a 30D ultra-fine mesh inner layer. The Frosted material shoulder strap is adjustable for a perfect fit, and the 3-row hooks at the crotch offer convenience.
   Updated: 2025-10-25T11:32:32Z
@@ -3361,54 +3361,90 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_41_768b15b8-7ad8-4fdc-8596-1dda97573049.png?v=1762810722
     Price: $98.00 USD
 - [Sugar + Spicy All-Day Comfort U-Back Body Shaper](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper): Experience the ultimate body-shaping solution with our U-back shapewear. Designed to smooth, lift, and contour, it’s the perfect addition to your wardrobe.
-  Updated: 2025-11-15T10:00:29Z
+  Updated: 2025-11-20T00:08:25Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T001028.666.png?v=1730938549
+  Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_51_bdf56c8d-7aa6-4aea-b8eb-cb07bd9a7298.png?v=1763596392
   - [Black / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121594168)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_42_d154e0ff-4d7f-4e5f-938b-d75941fb1750.png?v=1763596392
     Price: $88.00 USD
   - [Black / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121626936)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_42_d154e0ff-4d7f-4e5f-938b-d75941fb1750.png?v=1763596392
     Price: $88.00 USD
   - [Black / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121659704)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_42_d154e0ff-4d7f-4e5f-938b-d75941fb1750.png?v=1763596392
     Price: $88.00 USD
   - [Black / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121692472)
     Availability: Available
-    Price: $88.00 USD
-  - [Saddlebrown / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121725240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T001308.769.png?v=1730938549
-    Price: $88.00 USD
-  - [Saddlebrown / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121758008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T001308.769.png?v=1730938549
-    Price: $88.00 USD
-  - [Saddlebrown / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121790776)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T001308.769.png?v=1730938549
-    Price: $88.00 USD
-  - [Saddlebrown / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121823544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T001308.769.png?v=1730938549
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_42_d154e0ff-4d7f-4e5f-938b-d75941fb1750.png?v=1763596392
     Price: $88.00 USD
   - [Silver / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121856312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T000227.831.png?v=1730938549
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_53_b64b4993-d9f5-45c8-b558-fbd03cb57553.png?v=1763596392
     Price: $88.00 USD
   - [Silver / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121889080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T000227.831.png?v=1730938549
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_53_b64b4993-d9f5-45c8-b558-fbd03cb57553.png?v=1763596392
     Price: $88.00 USD
   - [Silver / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121921848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T000227.831.png?v=1730938549
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_53_b64b4993-d9f5-45c8-b558-fbd03cb57553.png?v=1763596392
     Price: $88.00 USD
   - [Silver / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121954616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2024-11-07T000227.831.png?v=1730938549
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_53_b64b4993-d9f5-45c8-b558-fbd03cb57553.png?v=1763596392
+    Price: $88.00 USD
+  - [Saddlebrown / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121725240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_49_1e6e8838-ed2d-425b-9c05-4d1b03797e67.png?v=1763596392
+    Price: $88.00 USD
+  - [Saddlebrown / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121758008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_49_1e6e8838-ed2d-425b-9c05-4d1b03797e67.png?v=1763596392
+    Price: $88.00 USD
+  - [Saddlebrown / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121790776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_49_1e6e8838-ed2d-425b-9c05-4d1b03797e67.png?v=1763596392
+    Price: $88.00 USD
+  - [Saddlebrown / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=49424121823544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_49_1e6e8838-ed2d-425b-9c05-4d1b03797e67.png?v=1763596392
+    Price: $88.00 USD
+  - [Chocolate / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282266936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_38_136b18b6-5d0d-4b6f-a323-317c6daa62b2.png?v=1763596392
+    Price: $88.00 USD
+  - [Chocolate / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282299704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_38_136b18b6-5d0d-4b6f-a323-317c6daa62b2.png?v=1763596392
+    Price: $88.00 USD
+  - [Chocolate / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282332472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_38_136b18b6-5d0d-4b6f-a323-317c6daa62b2.png?v=1763596392
+    Price: $88.00 USD
+  - [Chocolate / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282365240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_38_136b18b6-5d0d-4b6f-a323-317c6daa62b2.png?v=1763596392
+    Price: $88.00 USD
+  - [Light Blue / XS-S](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282135864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36_ca562b88-7bcc-44f1-af1b-13e029f1c711.png?v=1763596392
+    Price: $88.00 USD
+  - [Light Blue / M-L](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282168632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36_ca562b88-7bcc-44f1-af1b-13e029f1c711.png?v=1763596392
+    Price: $88.00 USD
+  - [Light Blue / XL-XXL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282201400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36_ca562b88-7bcc-44f1-af1b-13e029f1c711.png?v=1763596392
+    Price: $88.00 USD
+  - [Light Blue / 3XL-4XL](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper?variant=51378282234168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_36_ca562b88-7bcc-44f1-af1b-13e029f1c711.png?v=1763596392
     Price: $88.00 USD
 - [Sugar + Spicy Maternity Catsuit - Belly, Breast & Back Support](https://sugar-spicy.com/products/maternity-catsuit): Meta Description: Indulge in luxurious comfort and support with our maternity catsuit. Featuring built-in support for your belly, breasts, and back, this stylish piece is perfect for everyday wear.
   Updated: 2025-11-15T07:44:02Z
@@ -4003,7 +4039,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_24_44b70156-9b28-44e5-9c2e-bd6141bd1a4d.png?v=1736892822
     Price: $68.00 USD
 - [Long Sleeve Tummy Control Shapewear Bodysuit](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve): Shop the Seamless Long Sleeve Tummy Control Bodysuit with snap crotch. Smooths waist, sculpts curves & offers all-day comfort. Sizes XS–4XL.
-  Updated: 2025-11-15T18:38:28Z
+  Updated: 2025-11-19T21:49:41Z
   Vendor: Sugar + Spicy
   Product Type: Jumpsuit
   Availability: Available
@@ -4026,51 +4062,83 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Price: $88.00 USD
   - [Saddlebrown / XS/S](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292349240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1763588213
     Price: $88.00 USD
   - [Saddlebrown / M/L](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292382008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1763588213
     Price: $88.00 USD
   - [Saddlebrown / XL/XXL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292414776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1763588213
     Price: $88.00 USD
   - [Saddlebrown / 3XL/4XL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292480312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221730.145.png?v=1763588213
     Price: $88.00 USD
   - [Burlywood / XS/S](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292545848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1763588213
     Price: $88.00 USD
   - [Burlywood / M/L](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292578616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1763588213
     Price: $88.00 USD
   - [Burlywood / XL/XXL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292611384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1763588213
     Price: $88.00 USD
   - [Burlywood / 3XL/4XL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292676920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T221935.297.png?v=1763588213
     Price: $88.00 USD
   - [Red / XS/S](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292742456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1763588213
     Price: $88.00 USD
   - [Red / M/L](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292775224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1763588213
     Price: $88.00 USD
   - [Red / XL/XXL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292807992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1763588213
     Price: $88.00 USD
   - [Red / 3XL/4XL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51126292873528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1757970266
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled-2025-09-14T222105.404.png?v=1763588213
+    Price: $88.00 USD
+  - [Blue / XS/S](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378076909880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_31_43babe48-aa6f-4316-b545-14e6dbe42460.png?v=1763588213
+    Price: $88.00 USD
+  - [Blue / M/L](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378076942648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_31_43babe48-aa6f-4316-b545-14e6dbe42460.png?v=1763588213
+    Price: $88.00 USD
+  - [Blue / XL/XXL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378076975416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_31_43babe48-aa6f-4316-b545-14e6dbe42460.png?v=1763588213
+    Price: $88.00 USD
+  - [Blue / 3XL/4XL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378077008184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_31_43babe48-aa6f-4316-b545-14e6dbe42460.png?v=1763588213
+    Price: $88.00 USD
+  - [White / XS/S](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378069274936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33_86d73683-7bd0-446c-abac-fde5015170a5.png?v=1763588213
+    Price: $88.00 USD
+  - [White / M/L](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378069307704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33_86d73683-7bd0-446c-abac-fde5015170a5.png?v=1763588213
+    Price: $88.00 USD
+  - [White / XL/XXL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378069340472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33_86d73683-7bd0-446c-abac-fde5015170a5.png?v=1763588213
+    Price: $88.00 USD
+  - [White / 3XL/4XL](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve?variant=51378069373240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_33_86d73683-7bd0-446c-abac-fde5015170a5.png?v=1763588213
     Price: $88.00 USD
 - [Sugar + Spicy Outerwear Sculpt Brief Bodysuit](https://sugar-spicy.com/products/lace-v-neck-t-back-waist-abdomen-shaping-thong-bodysuit): Slim your waist and smooth your silhouette with our lace V-neck shaping bodysuit. T-back thong design ensures invisible wear under any outfit.
   Updated: 2025-11-16T21:06:43Z
@@ -4226,7 +4294,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
   Updated: 2025-11-16T20:56:02Z
   Total Products: 29
 - [Sugar Bodysuits for Women With Every Type of Body](https://sugar-spicy.com/collections/sugar-bodysuits): Elevate your confidence with Sugar + Spicy's inclusive range of body shapers, underwear, and shapewear. Our products empower women of all races, body types, and financial backgrounds, delivering comfort and allure. Celebrate your uniqueness with us!
-  Updated: 2025-11-16T21:05:38Z
+  Updated: 2025-11-20T00:03:30Z
   Total Products: 41
 - [Sugar + Spicy Sale - Last chance to shop these sale styles!](https://sugar-spicy.com/collections/sale): "These most-wanted silhouettes are selling fast!" We are setting new standards by providing solutions for every body. From technically constructed shapewear that enhances your curves to underwear that stretches to twice its size, our goal is to consistently innovate on the past and advance our industry for the future.
   Updated: 2025-09-13T20:49:46Z
