@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-19T20:00:30.261Z
+- Updated At: 2025-11-20T04:00:30.285Z
 
 ## Products
 
@@ -1831,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/6-Watch-Winder-Safe-Module-Black-Smooth-Leather-Finish-by-Aevitas.webp?v=1763566998
   Price: £699.95 GBP
 - [Premium 8 Watch Holder for the Drawers in our Watch Winder Safe](https://aevitas-uk.co.uk/products/premium-8-watch-holder-for-the-drawers-in-our-watch-winder-safe): Perfect for your Insurance Rated Watch Winder Safe, our specially designed 8 Watch Holder Tray will fit neatly inside your watch winder safe drawers. Available in seven tailored options, each tray fits perfectly into the drawers, providing an organized and secure space for your precious items. Enharnce your storage experience with a snug, elegant solution that keeps your watches secure safe and easily accessible. The watch holder cushion is 65mm wide and will hold watch bracelets for 16 to 19.5 cm wrist size. The watch holders stay firmly in place so you can set the watches neatly at the angle of placement desired. These are hand made to a very high standard, a premium quality product. Trays measure 29w x 19d x 4.5h cm (height is without watches).
-  Updated: 2025-11-19T16:32:02Z
+  Updated: 2025-11-20T02:03:27Z
   Vendor: Aevitas UK
   Product Type: Watch Winder
   Availability: Available
