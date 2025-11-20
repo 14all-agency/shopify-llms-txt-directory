@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-20T16:00:27.701Z
+- Updated At: 2025-11-20T20:00:27.226Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -4039,7 +4039,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_24_44b70156-9b28-44e5-9c2e-bd6141bd1a4d.png?v=1736892822
     Price: $68.00 USD
 - [Long Sleeve Tummy Control Shapewear Bodysuit](https://sugar-spicy.com/products/bodysculpt-seamless-long-sleeve): Shop the Seamless Long Sleeve Tummy Control Bodysuit with snap crotch. Smooths waist, sculpts curves & offers all-day comfort. Sizes XS–4XL.
-  Updated: 2025-11-19T21:49:41Z
+  Updated: 2025-11-20T19:02:03Z
   Vendor: Sugar + Spicy
   Product Type: Jumpsuit
   Availability: Available
