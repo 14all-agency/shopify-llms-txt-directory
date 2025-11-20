@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-11-17T00:00:41.120Z
+- Updated At: 2025-11-20T00:00:54.722Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/be1f2bf2-3d2a-4fe3-aea6-cf15df8cabcf.jpg?v=1757773133
     Price: $23.36 USD
 - [40 Oz Tumbler with Handle & Straw | Spin-Proof Vacuum Insulated Cup](https://fusionvibestore.com/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler): Keep drinks hot or cold for hours! This 40oz stainless steel tumbler features a convenient handle, leak-proof lid, and comes with a straw. The perfect cup for coffee, water, and smoothies. Shop today. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-11-13T10:27:12Z
+  Updated: 2025-11-18T09:27:31Z
   Vendor: z60ja0-0n
   Product Type: Tumbler
   Availability: Available
@@ -344,7 +344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-11-05T14:27:29Z
+  Updated: 2025-11-18T16:27:27Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-11-16T17:47:13Z
+  Updated: 2025-11-19T21:15:38Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1668,7 +1668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/722065577519.jpg?v=1761758782
     Price: $18.14 USD
 - [1Pc 150PSI Cordless Tire Inflator Digital Air Compressor With LED Light Emergency Power Bank For Cars Motorcycles Bicycles Balls](https://fusionvibestore.com/products/1pc-150psi-cordless-tire-inflator-digital-air-compressor-with-led-light-emergency-power-bank-for-cars-motorcycles-bicycles-balls): DHL Shipping for single product purchasing. Multiple pack would be fedex shipping, for reference only, the actual shipping carrier would be depended by the location, address, package dimension, product category, geographic location. *Features*: *Fast Inflation*: With a maximum pressure of 150PSI,it takes just a few minutes to pump up a flat tire with this tire inflator. Automatically stop working after completing the air inflation. *4 Inflation Modes*: Long press the Power Button to turn on the cordless tire inflator,short press Mode Button to select preferred modes(Car/Motorcycle/Bicycle/Ball),long press Mode Button to adjust different unit you need,like "PSI","BAR","KPA","KG /CM²" and press "+/-" to choose accurate pressure value. *Digital Display & LED Light*: Equipped with a clear display screen,you can easily check the tire pressure and preset the pressure value. The auto air pump also provides white light to support your inflating needs in low-light environment and red SOS light for seeking help. *Dual Power Supply & Power Bank*: Can be powered by car charger(Not Included) and any device with a USB port. Built-in 4000mAh rechargeable batteries,this portable air compressor can be functioned as an emergency bank to charge your phones,tablets,earphones etc.,which makes you less worried about the low battery condition. *Wide Application*: With 3 inflatable nozzles and 1 inflatable needle,this digital tire inflator is suitable for inflating the tires of cars,bikes,motorbikes,basketballs etc.. Also comes with a carry bag to store the air pump and other accessories. Friendly Reminder: 1.The tire inflator is not a toy,and it is forbidden for children to use it. Please keep a safe distance from children during use. 2.The built-in DC motor may generate electric sparks when working. Please do not use it in a flammable and explosive environment. 3.If abnormal noise or high temperature occurs during work,please turn off immediately. 4.Please confirm the correct measurement unit is selected,otherwise it may cause a tire burst. 5.Do not leave when inflating,and observe the inflation process to prevent the inflation pressure from being too high. 6.Keep the power cord plug away from water. *Specifications*: Product Type: Tire Inflator Material: ABS Color: Black Power Supply: Type-C Charging, Car Charger(Not Included) Built-in Battery: 2Pcs 2000mAh Rechargeable Batteries, 4000mAh In Total(Batteries are not for individual sale) Input: 7.4V/2A Power: 80W Cylinder Specification: 17mm Pressure Units: PSI, KPA, BAR, KG/CM2 Pressure Range: 0.2~10.3bar/3-150psi 4 Inflation Modes: Car, Motorcycle, Bicycle, Ball 3 Light Modes: White Light, Red & Blue Light Slow Flashing, Red Light Fast Flashing 3 Additional Functions: *Used As a 5V/1A Power Bank *Auto Shutoff After Full Air Inflation *Automatically Detect Tire Pressure Status Charging Time: 3-5Hrs Charging Cable Length: 49cm/19.29in Air Tube Length: 20cm/7.87in Carry Bag Size: 14.5×19cm/5.71×7.48in Item Size: 12×8.5×5cm /4.72×3.35×1.97in Item Weight: 379g/0.84 lbs Package Size: 20*20*6cm/7.87*7.87*2.36in Package Weight: 593g/1.31lbs *Package Lists*: 1 x Tire Inflator 1 x Air Tube 1 x Type-C USB Cable 3 x Inflatable Nozzles 1 x Inflatable Needle 1 x Carry Bag 1 x User Manual Actual Product Photo
-  Updated: 2025-10-31T20:27:21Z
+  Updated: 2025-11-17T12:26:57Z
   Vendor: z60ja0-0n
   Product Type: Car Accessories
   Availability: Available
@@ -2942,6 +2942,651 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1fe366d6-2f53-4801-8a8f-309ef5d1f182.jpg?v=1763141068
     Price: $32.65 USD
+- [No Awkward Line Peach Butt Yoga Pants High Waist Tummy Control Running Sports Leggings](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings): 82.5 polyester 17.5 spandex
+  Updated: 2025-11-19T18:49:16Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e.jpg?v=1763534950
+  - [Multicolored / 5pcs / L](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings?variant=45815183376583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
+    Price: $30.45 USD
+  - [Multicolored / 5pcs / M](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings?variant=45815183409351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
+    Price: $30.45 USD
+  - [Multicolored / 5pcs / S](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings?variant=45815183442119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
+    Price: $30.45 USD
+  - [Multicolored / 5pcs / XL](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings?variant=45815183474887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
+    Price: $30.45 USD
+  - [Multicolored / 5pcs / XXL](https://fusionvibestore.com/products/no-awkward-line-peach-butt-yoga-pants-high-waist-tummy-control-running-sports-leggings?variant=45815183507655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61d2ca20-da74-4523-be49-4d850a34073e_92bd9e0e-c61b-4564-8895-ac0ab9f31377.jpg?v=1763534956
+    Price: $30.45 USD
+- [High-stretch Dresses, New Summer Nude Anti-walking Sports Dresses](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses): 82.5 polyester 17.5 spandex
+  Updated: 2025-11-19T20:30:42Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481.jpg?v=1763535084
+  - [Multicolored / 3pcs / L](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses?variant=45815185703111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
+    Price: $28.78 USD
+  - [Multicolored / 3pcs / M](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses?variant=45815185735879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
+    Price: $28.78 USD
+  - [Multicolored / 3pcs / S](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses?variant=45815185768647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
+    Price: $28.78 USD
+  - [Multicolored / 3pcs / XL](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses?variant=45815185801415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
+    Price: $28.78 USD
+  - [Multicolored / 3pcs / XXL](https://fusionvibestore.com/products/high-stretch-dresses-new-summer-nude-anti-walking-sports-dresses?variant=45815185834183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2f7ea97c-d000-4fcf-a811-574296378481_348f599c-710b-4a7f-aa8e-d64bee30bdb3.jpg?v=1763535095
+    Price: $28.78 USD
+- [Sports Yoga Jumpsuit Sleeveless Quick-drying Thread Tight Fit Fitness One-piece Yoga Suit](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit): 90 nylon 10 spandex q
+  Updated: 2025-11-19T18:54:01Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940.jpg?v=1763535236
+  - [Multicolored / 4pcs / L](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit?variant=45815190061255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
+    Price: $30.45 USD
+  - [Multicolored / 4pcs / M](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit?variant=45815190094023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
+    Price: $30.45 USD
+  - [Multicolored / 4pcs / S](https://fusionvibestore.com/products/sports-yoga-jumpsuit-sleeveless-quick-drying-thread-tight-fit-fitness-one-piece-yoga-suit?variant=45815190126791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c3f92284-06af-42fd-97d2-5f32fac02940_ebfbb34d-f6d6-4f13-8a73-147146c245b4.jpg?v=1763535248
+    Price: $30.45 USD
+- [Ladies' Mid-length Solid Color Belt Coat, Casual Commuting Elegant Versatile Autumn And Winter Outerwear, Stand Collar Single-button Long Sleeve Coat.](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat): Composition:100.0% Polyester;
+  Updated: 2025-11-19T18:56:32Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966.jpg?v=1763535386
+  - [L](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat?variant=45815194190023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966_9298f789-611a-4a95-afb2-4ee38cd91eb5.jpg?v=1763535390
+    Price: $23.36 USD
+  - [M](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat?variant=45815194222791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966_9298f789-611a-4a95-afb2-4ee38cd91eb5.jpg?v=1763535390
+    Price: $23.36 USD
+  - [XL](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat?variant=45815194255559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966_9298f789-611a-4a95-afb2-4ee38cd91eb5.jpg?v=1763535390
+    Price: $23.36 USD
+  - [XS](https://fusionvibestore.com/products/ladies-mid-length-solid-color-belt-coat-casual-commuting-elegant-versatile-autumn-and-winter-outerwear-stand-collar-single-button-long-sleeve-coat?variant=45815194288327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b314b35c-77ae-425b-a8d0-9e2950133966_9298f789-611a-4a95-afb2-4ee38cd91eb5.jpg?v=1763535390
+    Price: $23.36 USD
+- [Ins French Lantern Sleeve Shirt Fashion Button Lapel Long Sleeved Tops Casual Women's Clothing](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Fabric name: Polyester Color: pink, white, black Version: Loose Style: Casual Size: S,M,L,XL,2XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Ladies' shirt *1 Product Image:
+  Updated: 2025-11-19T22:34:50Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/33b35c23-e529-4c96-b80f-087c4321718d.jpg?v=1763536732
+  - [Black / 2XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217717447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5b25b117-25e9-4863-bbdc-f8383e7a6f14.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Black / L](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217750215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5b25b117-25e9-4863-bbdc-f8383e7a6f14.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Black / M](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217782983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5b25b117-25e9-4863-bbdc-f8383e7a6f14.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Black / S](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217815751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5b25b117-25e9-4863-bbdc-f8383e7a6f14.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Black / XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217848519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5b25b117-25e9-4863-bbdc-f8383e7a6f14.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Pink / 2XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217881287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b473e24f-2145-4521-8e1f-e176dd5c441d.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Pink / L](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217914055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b473e24f-2145-4521-8e1f-e176dd5c441d.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Pink / M](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217946823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b473e24f-2145-4521-8e1f-e176dd5c441d.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Pink / S](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815217979591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b473e24f-2145-4521-8e1f-e176dd5c441d.jpg?v=1763536741
+    Price: $18.78 USD
+  - [Pink / XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218012359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b473e24f-2145-4521-8e1f-e176dd5c441d.jpg?v=1763536741
+    Price: $18.78 USD
+  - [White / 2XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218045127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
+    Price: $18.78 USD
+  - [White / L](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218077895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
+    Price: $18.78 USD
+  - [White / M](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218110663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
+    Price: $18.78 USD
+  - [White / S](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218143431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
+    Price: $18.78 USD
+  - [White / XL](https://fusionvibestore.com/products/ins-french-lantern-sleeve-shirt-fashion-button-lapel-long-sleeved-tops-casual-womens-clothing?variant=45815218176199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/90e23bbe-a048-45ef-940e-31f69a2d2849.jpg?v=1763536741
+    Price: $18.78 USD
+- [European and American new long-sleeved ruffled shirt](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt): Main fabric composition: polyester fiber (polyester) unit：cm 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know,the different computers display colors differently,the color of the actual item may vary slightly from the following images.
+  Updated: 2025-11-19T19:40:52Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1957946826528.jpg?v=1763538040
+  - [Black / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233413319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233446087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233478855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233511623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233544391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233577159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233609927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Black / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233642695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/9269c602-da8e-40e8-bf57-506fc0d7ab91.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233675463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233708231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233740999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233773767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233806535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233839303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233872071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Blue / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233904839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3634407169494.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Gray band letter / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233937607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5cade1df-1def-4f2c-97dc-6f6c69142edb.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815233970375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234003143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234035911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234068679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234101447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234134215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234166983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Green / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234199751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/607572836877.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234232519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234265287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234298055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234330823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234363591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234396359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234429127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Grey / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234461895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/35cc0dc3-941a-4325-ad14-6fcb5b48e1c0.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234494663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234527431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234560199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234592967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234625735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234658503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234691271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Letter Print / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234724039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/226791515263.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234756807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / 4XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234789575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / 5XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234822343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / L](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234855111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / M](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234887879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / S](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234920647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234953415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Orange / XXL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815234986183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/974231530188.jpg?v=1763538051
+    Price: $18.45 USD
+  - [Pineapple Print / 3XL](https://fusionvibestore.com/products/european-and-american-new-long-sleeved-ruffled-shirt?variant=45815235018951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2043237951614.jpg?v=1763538051
+    Price: $18.45 USD
+- [Flowers Lace Long Sleeve Top Y2K Fashion Slim Bottoming Shirt Top Women's Clothing](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Color: white, black Main fabric composition: Polyester (polyester fiber) Style: slim fit Applicable Gender: Female Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's top *1 Product Image:
+  Updated: 2025-11-19T19:50:14Z
+  Vendor: z60ja0-0n
+  Product Type: CLOTHING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/96079f70-7d57-4ef8-b9ec-8c51d4c5f6b1.jpg?v=1763538606
+  - [Black / L](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249666247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/519489c8-7b1f-4f7a-9d00-ae5739f9b7ab.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Black / M](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249699015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/519489c8-7b1f-4f7a-9d00-ae5739f9b7ab.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Black / S](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249731783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/519489c8-7b1f-4f7a-9d00-ae5739f9b7ab.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Green / L](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249764551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/34d49408-02a7-498f-afc9-9b6d5c5c1d1a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Green / M](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249797319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/34d49408-02a7-498f-afc9-9b6d5c5c1d1a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Green / S](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249830087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/34d49408-02a7-498f-afc9-9b6d5c5c1d1a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Red / L](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249862855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/41394a1a-786e-4101-ad1f-4fe9dbbfd53a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Red / M](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249895623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/41394a1a-786e-4101-ad1f-4fe9dbbfd53a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [Red / S](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249928391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/41394a1a-786e-4101-ad1f-4fe9dbbfd53a.jpg?v=1763538614
+    Price: $18.45 USD
+  - [White / L](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249961159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1d0b5ad8-b96e-4aa1-b000-7a30a5da3c6e.jpg?v=1763538614
+    Price: $18.45 USD
+  - [White / M](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815249993927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1d0b5ad8-b96e-4aa1-b000-7a30a5da3c6e.jpg?v=1763538614
+    Price: $18.45 USD
+  - [White / S](https://fusionvibestore.com/products/flowers-lace-long-sleeve-top-y2k-fashion-slim-bottoming-shirt-top-womens-clothing?variant=45815250026695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1d0b5ad8-b96e-4aa1-b000-7a30a5da3c6e.jpg?v=1763538614
+    Price: $18.45 USD
+- [Fashion Long-sleeved Lapel Pullover Shirt Casual Loose Solid Color T-shirt Tops Women's Clothing](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Size: S,M,L,XL,XXL Version: Loose Style: pullover Main fabric composition: Cotton Sleeve length: 3/4 sleeve Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shirt X1pcs Product Image:
+  Updated: 2025-11-19T20:09:28Z
+  Vendor: z60ja0-0n
+  Product Type: CLOTHING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/854c7351-42d3-4724-9380-a38b029730bb.jpg?v=1763539416
+  - [Green / 4XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265591495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / 5XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265624263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / L](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265657031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / M](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265689799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / S](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265722567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265755335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / XXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265788103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Green / XXXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265820871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b2343514-586b-44a2-8712-881f4fa6dbe4.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / 4XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265853639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / 5XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265886407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / L](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265919175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / M](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265951943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / S](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815265984711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266017479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / XXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266050247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Pink / XXXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266083015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/94707cdc-43ff-4df2-af63-bc0fe1bae9fb.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / 4XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266115783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / 5XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266148551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / L](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266181319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / M](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266214087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / S](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266246855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266279623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / XXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266312391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [Purple / XXXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266345159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7565680d-f788-4dd3-ba4a-8def664b0818.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / 4XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266377927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / 5XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266410695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / L](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266443463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / M](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266476231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / S](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266508999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / XL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266541767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / XXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266574535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+  - [White / XXXL](https://fusionvibestore.com/products/fashion-long-sleeved-lapel-pullover-shirt-casual-loose-solid-color-t-shirt-tops-womens-clothing?variant=45815266607303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/61c013d5-fec5-4a9f-be4f-1514053fb7f1.jpg?v=1763539423
+    Price: $18.45 USD
+- [Simple And Stylish, Elegant Commuting Jumpsuit, Long Sleeve Straight Jumpsuit, V-neck, Cross Pleated, Tie-up Casual Jumpsuit, For Everyday Wear.](https://fusionvibestore.com/products/simple-and-stylish-elegant-commuting-jumpsuit-long-sleeve-straight-jumpsuit-v-neck-cross-pleated-tie-up-casual-jumpsuit-for-everyday-wear): Composition:95% Polyester;5% Elastane;
+  Updated: 2025-11-19T21:05:10Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d8bae5d7-ea21-4e6a-a55d-7d64566b6711.jpg?v=1763540112
+  - [S](https://fusionvibestore.com/products/simple-and-stylish-elegant-commuting-jumpsuit-long-sleeve-straight-jumpsuit-v-neck-cross-pleated-tie-up-casual-jumpsuit-for-everyday-wear?variant=45815281123527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d8bae5d7-ea21-4e6a-a55d-7d64566b6711_16d8eef1-2ad3-451b-91c0-0ad9031d0086.jpg?v=1763540115
+    Price: $18.45 USD
+  - [XL](https://fusionvibestore.com/products/simple-and-stylish-elegant-commuting-jumpsuit-long-sleeve-straight-jumpsuit-v-neck-cross-pleated-tie-up-casual-jumpsuit-for-everyday-wear?variant=45815281156295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d8bae5d7-ea21-4e6a-a55d-7d64566b6711_16d8eef1-2ad3-451b-91c0-0ad9031d0086.jpg?v=1763540115
+    Price: $18.45 USD
+- [Drone F168 Brushless Optical Flow Obstacle Avoidance Aerial Photography Quadcopter Long-Endurance Remote Control](https://fusionvibestore.com/products/drone-f168-brushless-optical-flow-obstacle-avoidance-aerial-photography-quadcopter-long-endurance-remote-control): Drone F168 Brushless Optical Flow Obstacle Avoidance Aerial Photography Quadcopter Long-Endurance Remote Control Aircraft
+  Updated: 2025-11-19T22:07:07Z
+  Vendor: z60ja0-0n
+  Product Type: BAGS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d0108ecc-1a3a-4eb0-9593-b9bd0b940b52.jpg?v=1763541643
+  - [Black](https://fusionvibestore.com/products/drone-f168-brushless-optical-flow-obstacle-avoidance-aerial-photography-quadcopter-long-endurance-remote-control?variant=45815330078919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/72018f64-b988-4afe-a108-12e72801a890.jpg?v=1763541655
+    Price: $45.60 USD
+  - [Carbon fiber pattern](https://fusionvibestore.com/products/drone-f168-brushless-optical-flow-obstacle-avoidance-aerial-photography-quadcopter-long-endurance-remote-control?variant=45815330111687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/238ef47c-4ced-4b80-b03d-02973ebc228e.jpg?v=1763541655
+    Price: $45.60 USD
+- [S116 Brushless Drone With Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life): S116 Brushless Drone with Four-Way Obstacle Avoidance, HD Aerial Photography, Optical Flow Positioning, Remote Control, Long Battery Life
+  Updated: 2025-11-19T23:30:19Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a4dad666-48c0-4970-9bbe-f766b70cc90f.jpg?v=1763541841
+  - [Black](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life?variant=45815331193031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1a94c8e2-733f-4b52-8fe7-043a45a629fb.jpg?v=1763541850
+    Price: $43.67 USD
+  - [Red](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life?variant=45815331225799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8091bc58-c3d6-4a5f-84a7-2b3a1b1848b2.jpg?v=1763541850
+    Price: $43.67 USD
+  - [White](https://fusionvibestore.com/products/s116-brushless-drone-with-four-way-obstacle-avoidance-hd-aerial-photography-optical-flow-positioning-remote-control-long-battery-life?variant=45815331258567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/71a29876-a740-4a88-9086-06dbe0426531.jpg?v=1763541850
+    Price: $43.67 USD
+- [E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control): E99 Drone Quadcopter Dual Camera HD Aerial Photography Remote Control Aircraft
+  Updated: 2025-11-19T14:48:25Z
+  Vendor: z60ja0-0n
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c6dd323f-ade0-44c2-a3a7-a56a825eb430.jpg?v=1763546138
+  - [Black](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control?variant=45815404003527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/bc7facbe-f7a3-4bc9-b7b7-b2122d3bcc12.jpg?v=1763546148
+    Price: $35.45 USD
+  - [Grey](https://fusionvibestore.com/products/e99-drone-quadcopter-dual-camera-hd-aerial-photography-remote-control?variant=45815404036295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/896d501f-228d-4661-8804-6c446bbcd340.jpg?v=1763546149
+    Price: $35.45 USD
+- [LU60 Drone First Choice For Entry-levelFearless Of Complex Scenes](https://fusionvibestore.com/products/lu60-drone-first-choice-for-entry-levelfearless-of-complex-scenes): First choice for entry-levelFearless of complex scenes
+  Updated: 2025-11-19T23:22:25Z
+  Vendor: z60ja0-0n
+  Product Type: Electronics
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e6795cc1-e529-4b8e-922d-0031a652b9e4.jpg?v=1763546282
+  Price: $36.78 USD
+- [Women's Fashion Printed Short Sleeve Dress](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress): Product information: Fabric name: polyester Color: green Sleeve type: regular sleeve Main fabric composition: polyester (polyester fiber) Size: S, M, L, XL Skirt length: midi skirt Sleeve length: short sleeve Skirt category: dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
+  Updated: 2025-11-19T14:27:26Z
+  Vendor: z60ja0-0n
+  Product Type: Women Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4f2c3db3-5c82-4dc8-ace6-adf97394159b.jpg?v=1763557053
+  - [Green / 2XL](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress?variant=45815841652935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
+    Price: $18.45 USD
+  - [Green / L](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress?variant=45815841685703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
+    Price: $18.45 USD
+  - [Green / M](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress?variant=45815841718471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
+    Price: $18.45 USD
+  - [Green / S](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress?variant=45815841751239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
+    Price: $18.45 USD
+  - [Green / XL](https://fusionvibestore.com/products/womens-fashion-printed-short-sleeve-dress?variant=45815841784007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/26905a10-aa0f-4d3e-8dd6-fd7d7a21c4c7.jpg?v=1763557058
+    Price: $18.45 USD
 
 ## Collections
 
@@ -2952,8 +3597,8 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-29T17:52:03Z
-  Total Products: 17
+  Updated: 2025-11-19T09:58:13Z
+  Total Products: 20
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-29T18:27:30Z
   Total Products: 15
@@ -2964,8 +3609,8 @@
   Updated: 2025-10-29T17:11:35Z
   Total Products: 0
 - [Women](https://fusionvibestore.com/collections/women)
-  Updated: 2025-11-14T17:24:34Z
-  Total Products: 4
+  Updated: 2025-11-19T12:57:40Z
+  Total Products: 15
 - [car accessories](https://fusionvibestore.com/collections/car-accessories)
   Updated: 2025-10-29T17:30:04Z
   Total Products: 0
