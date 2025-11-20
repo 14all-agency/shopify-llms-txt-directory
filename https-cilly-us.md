@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-08-14T16:06:28Z
 - Contact Email: Allesfuerdeinehaustiere@gmail.com
-- Updated At: 2025-11-16T00:00:40.864Z
+- Updated At: 2025-11-20T00:00:39.358Z
 
 ## Products
 
@@ -15923,7 +15923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/26c0fb48fc1440c5936b90d4787ed412.webp?v=1757361626
     Price: CHF 19.99 CHF
 - [Wood Wishing Well Planter – Garten Brunnen Pflanzkübel](https://cilly.us/products/wood-wishing-well-planter-garten-brunnen-pflanzkubel): Dekoriere Terrasse oder Garten mit dem Wood Wishing Well Pflanzkübel aus Naturholz wetterfest mit Abflussloch perfekt für Blumen Kräuter und Outdoor Deko.
-  Updated: 2025-09-11T10:19:54Z
+  Updated: 2025-11-18T09:10:48Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -18065,7 +18065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2360972909680.jpg?v=1757504066
     Price: CHF 14.80 CHF
 - [Pet Gate Dog Gate For Doorways](https://cilly.us/products/pet-gate-dog-gate-for-doorways): Easy to move & store: lightweight and easy to move.Turning it on and off is easy. CONVENIENTLY FOLDS:This pet gate folds together to a more compact size for convenient storage or transport from room to room. STYLISH AND FUNCTIONAL:This pet gate is excellent way limit your pet's access to parts of your home,while maintaining a modern appearance. NO INSTALLATION REQUIRED:This barrier is a perfect way limit access to parts of your home while maintaining a stylish look. Simply just unfold it and block off the area you need! Materials:populus wood, Color: Dark Brown Opened size: 1 inch (L) x 73 inches (W) x 24 inches (H). Folded size: 4 inches (L) x 19 inches (W) x 24 inches (H) 1 set of Pet Gate in 1 carton
-  Updated: 2025-10-28T03:08:50Z
+  Updated: 2025-11-17T11:08:16Z
   Vendor: Alles für deine Haustiere 
   Product Type: Haustier bedarf
   Availability: Available
@@ -19320,14 +19320,14 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/e95205bf-51a1-4554-bfc3-31a09b8d197f.jpg?v=1757621138
     Price: CHF 256.20 CHF
 - [Wooden Wagon Planter Box, 3-Tier Raised Garden Bed, For Vegetables Flowers Herbs](https://cilly.us/products/wooden-wagon-planter-box-3-tier-raised-garden-bed-for-vegetables-flowers-herbs): Features: - Our raised planter offers three flower boxes - Vintage-style wheel motifs give your garden a focal point - Drainage holes on each wooden box prevent our garden bed from becoming a pond after heavy rain - The fir wood has been sealed, offering a rustic look and a more outdoor-ready build - Assembly is required Specification: - Color: Carbonized - Material: Fir wood - Overall Dimensions: 25.25" L x 21.25" W x 23.5" H - Single Planting Box Dimensions: 22" W x 7.75" D x 6" H - Internal Planting Area: 20.75" W x 6.75" D x 5" H - Wheel Size: 21.25" Dia - Weight Capacity: 55 lbs. (Per Box) Package Includes: - 1 x Garden Bed - 1 x Manual
-  Updated: 2025-09-12T08:51:02Z
+  Updated: 2025-11-18T09:16:57Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/c73d9830-125b-42e5-bdc1-c055f6ad8c44.jpg?v=1757621783
   Price: CHF 119.20 CHF
 - [Wooden Wagon Planter Box, 3-Tier Raised Garden Bed, For Vegetables Flowers Herbs](https://cilly.us/products/wooden-wagon-planter-box-3-tier-raised-garden-bed-for-vegetables-flowers-herbs-1): Features: - Our raised planter offers three flower boxes - Vintage-style wheel motifs give your garden a focal point - Drainage holes on each wooden box prevent our garden bed from becoming a pond after heavy rain - The fir wood has been sealed, offering a rustic look and a more outdoor-ready build - Assembly is required Specification: - Color: Carbonized - Material: Fir wood - Overall Dimensions: 24.5" L x 24" W x 22.5" H - Single Planting Box Dimensions: 22" W x 7.75" D x 6" H - Internal Planting Area: 20.75" W x 6.75" D x 5" H - Wheel Size: Φ21.25" - Weight Capacity: 55lbs. (per box) Package Includes: - 1 x Garden Bed - 1 x Manual
-  Updated: 2025-09-12T13:00:25Z
+  Updated: 2025-11-18T09:16:55Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -19355,7 +19355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/d217385c-ede8-4231-a43c-90fa299c52b7.jpg?v=1757622274
     Price: CHF 148.30 CHF
 - [Wooden Wagon Planter Box, 2-Tier Raised Garden Bed, For Vegetables Flowers Herbs](https://cilly.us/products/wooden-wagon-planter-box-2-tier-raised-garden-bed-for-vegetables-flowers-herbs): Features: - Our raised planter offers two flower boxes - Vintage-style wheel motifs give your garden a focal point - Drainage holes on each wooden box prevent our garden bed from becoming a pond after heavy rain - The fir wood has been sealed, offering a rustic look and a more outdoor-ready build - Assembly is required Specification: - Color: Carbonized - Material: Fir wood - Overall Dimensions: 21.75" L x 12.5" W x 22" H - Single Planting Box Dimensions: 18.5" W x 7" D x 6" H - Internal Planting Area: 17.25" W x 6" D x 5" H - Wheel Size: 11" W x 21.25" H - Weight Capacity: 55 lbs. (per box) Package Includes: - 1 x Garden Bed - 1 x Manual
-  Updated: 2025-09-12T16:01:58Z
+  Updated: 2025-11-18T09:17:00Z
   Vendor: Alles für deine Haustiere 
   Product Type: Garten
   Availability: Available
@@ -19826,7 +19826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/8219c4a2-4949-4a9f-8379-cd604c94ed19.jpg?v=1757767057
     Price: CHF 14.60 CHF
 - [OEM Hot Sales Probiotics Chews For Pets Customized Shape](https://cilly.us/products/oem-hot-sales-probiotics-chews-for-pets-customized-shape): Product Introduction Material: Calcium Shelf life: 18 months Dosage form: Soft chew Model: Pet Snack Supplement Health function: Digestive system health Unit weight: 300 grams Variety size: All varieties, small varieties, ultra small and toy varieties, giant varieties, large varieties, medium-sized varieties Main functions: digestive and intestinal health, immune system support Ingredients: Six intestinal health blends Size: 3.5g/chewable or customized size PC
-  Updated: 2025-09-14T09:08:09Z
+  Updated: 2025-11-17T09:09:11Z
   Vendor: Alles für deine Haustiere 
   Product Type: 
   Availability: Available
@@ -30705,6 +30705,126 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/75588e83-24d2-444c-a67c-63ac453f4605.jpg?v=1762207111
   Price: CHF 32.50 CHF
+- [Customizable dog tags](https://cilly.us/products/customizable-dog-tags): Pendant material: metal material: metal Category: Keychains, dog tags Shape: round
+  Updated: 2025-11-19T21:46:20Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/3380765509247.jpg?v=1763586739
+  - [Black](https://cilly.us/products/customizable-dog-tags?variant=51947900371285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2615046847712.jpg?v=1763586744
+    Price: CHF 9.40 CHF
+  - [Blue](https://cilly.us/products/customizable-dog-tags?variant=51947900404053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/10986652079181.jpg?v=1763586745
+    Price: CHF 9.40 CHF
+  - [Green](https://cilly.us/products/customizable-dog-tags?variant=51947900436821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/603199039849.jpg?v=1763586745
+    Price: CHF 9.40 CHF
+  - [Pink](https://cilly.us/products/customizable-dog-tags?variant=51947900469589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/783964402805.jpg?v=1763586744
+    Price: CHF 9.40 CHF
+  - [Purple](https://cilly.us/products/customizable-dog-tags?variant=51947900502357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/589704762168455.jpg?v=1763586744
+    Price: CHF 9.40 CHF
+  - [Red](https://cilly.us/products/customizable-dog-tags?variant=51947900535125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2052468750111.jpg?v=1763586745
+    Price: CHF 9.40 CHF
+  - [White](https://cilly.us/products/customizable-dog-tags?variant=51947900567893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/2156367337589.jpg?v=1763586745
+    Price: CHF 9.40 CHF
+- [DIY Alphabet Dog Name Pet Collar Wear Accessories](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories): Product Information: Material: PU Product Category: Collar Specifications (length * width:) XS: 30*1.5 CM, S: 37*1.5 CM, M: 42*2.0 CM, L: 51*2.5 CM Accessories material: zinc alloy Adjustment range (CM): XS20-26; S27-33; M29-38; L36-46 Size Information: Packing List: Leather collar x1
+  Updated: 2025-11-19T21:55:41Z
+  Vendor: Alles für deine Haustiere 
+  Product Type: Haustier bedarf
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7a637300-ec12-44b5-b519-9a0158787160.jpg?v=1763586821
+  - [Blue / L](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904074069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9188bc39-ddf1-44f0-be1d-430a00b995e1.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Blue / M](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904106837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9188bc39-ddf1-44f0-be1d-430a00b995e1.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Blue / S](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904139605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9188bc39-ddf1-44f0-be1d-430a00b995e1.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Blue / XS](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904172373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/9188bc39-ddf1-44f0-be1d-430a00b995e1.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Gold / L](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904205141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f36e83e5-553b-4bc5-9ffc-9d92376218e4.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Gold / M](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904237909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f36e83e5-553b-4bc5-9ffc-9d92376218e4.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Gold / S](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904270677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f36e83e5-553b-4bc5-9ffc-9d92376218e4.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Gold / XS](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904303445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/f36e83e5-553b-4bc5-9ffc-9d92376218e4.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Pink / L](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904336213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7a637300-ec12-44b5-b519-9a0158787160_5b3e7f62-9d85-44b7-ad9c-b7dd8aa9d221.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Pink / M](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904368981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7a637300-ec12-44b5-b519-9a0158787160_5b3e7f62-9d85-44b7-ad9c-b7dd8aa9d221.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Pink / S](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904401749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7a637300-ec12-44b5-b519-9a0158787160_5b3e7f62-9d85-44b7-ad9c-b7dd8aa9d221.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Pink / XS](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904434517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/7a637300-ec12-44b5-b519-9a0158787160_5b3e7f62-9d85-44b7-ad9c-b7dd8aa9d221.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Red / L](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904467285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4f6ef4fd-b475-4860-8fe0-10569524f2a2.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Red / M](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904500053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4f6ef4fd-b475-4860-8fe0-10569524f2a2.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Red / S](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904532821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4f6ef4fd-b475-4860-8fe0-10569524f2a2.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Red / XS](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904565589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/4f6ef4fd-b475-4860-8fe0-10569524f2a2.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Rose Red / L](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904598357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/71ad0521-5b84-4bb1-bf77-59aa5f40d27d.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Rose Red / M](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904631125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/71ad0521-5b84-4bb1-bf77-59aa5f40d27d.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Rose Red / S](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904663893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/71ad0521-5b84-4bb1-bf77-59aa5f40d27d.jpg?v=1763586827
+    Price: CHF 11.50 CHF
+  - [Rose Red / XS](https://cilly.us/products/diy-alphabet-dog-name-pet-collar-wear-accessories?variant=51947904696661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0970/7903/4197/files/71ad0521-5b84-4bb1-bf77-59aa5f40d27d.jpg?v=1763586827
+    Price: CHF 11.50 CHF
 
 ## Collections
 
@@ -30712,11 +30832,11 @@
   Updated: 2025-08-26T08:41:04Z
   Total Products: 0
 - [Tierbedarf | Tierzubehör & Tierfutter online kaufen](https://cilly.us/collections/tierbedarf): Spare bei Tierbedarf. Tierfutter, Zubehör & Pflegeprodukte für Hunde, Katzen & Kleintiere. Große Auswahl bequem online bestellen bei Alles für deine Haustiere.
-  Updated: 2025-11-03T21:50:55Z
-  Total Products: 379
+  Updated: 2025-11-19T21:16:20Z
+  Total Products: 381
 - [Hund | Hundefutter, Zubehör & Hundebedarf online](https://cilly.us/collections/hund): Bei Alles für deine Haustiere findest du günstigen Hundebedarf, Futter, Spielzeug & Pflege. Bestelle jetzt online & verwöhne deinen Hund mit bester Qualität.
-  Updated: 2025-11-03T21:50:55Z
-  Total Products: 428
+  Updated: 2025-11-19T21:16:20Z
+  Total Products: 430
 - [Katze – Günstiger Katzenbedarf & Zubehör online](https://cilly.us/collections/katze): Bei Alles für deine Haustiere findest du Katzenfutter, Zubehör, Kratzbäume und Pflegeprodukte für Katzen. Qualität günstig online kaufen – schnell & bequem.
   Updated: 2025-10-29T18:43:53Z
   Total Products: 135
@@ -30796,8 +30916,8 @@
   Updated: 2025-10-29T20:07:37Z
   Total Products: 48
 - [Halsband](https://cilly.us/collections/hundehalsband-hundegeschirr)
-  Updated: 2025-10-29T20:08:18Z
-  Total Products: 118
+  Updated: 2025-11-19T21:16:20Z
+  Total Products: 120
 - [Hundespielzeug](https://cilly.us/collections/hundespielzeug)
   Updated: 2025-11-03T21:50:55Z
   Total Products: 55
