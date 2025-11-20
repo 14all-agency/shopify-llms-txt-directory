@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-20T22:12:33Z
 - Contact Email: attikkwear@gmail.com
-- Updated At: 2025-11-19T00:00:23.358Z
+- Updated At: 2025-11-20T00:00:25.310Z
 
 ## Products
 
@@ -12782,6 +12782,90 @@ Types of bags:Handbags &amp; Crossbody bags
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/H45c96bb964094ab7b7d7b90e068b8487T.webp?v=1763403596
     Price: $48.99 USD
+- [Plus Size 34-46 Women Boots Sexy Thigh High Boots Stretch PU Leather Over-the-knee Heeled Boots Black Red Autumn Winter Shoes](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes): SPECIFICATIONSBoot Height: Over-the-KneeBoot Type: Modern BootsBrand Name: GiyuCN: ZhejiangClosure Type: ZIPDepartment Name: AdultFashion Element: ZipperFit: True to SizeHeel Height: Super High (8CM - Up)Heel Type: Thin HeelsInsole Material: Latex FoamItem Type: BOOTSLining Material: LycraModel Number: women bootsOrigin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: WinterShaft Material: PUStyle: SexyToe Shape: Pointed ToeUpper Material: PUWith Platforms: Nois_handmade: Yes PAY ATTENTION PLEASE: 1.Colors on your phone or computer monitor may differ slightly from actual product colors,It depend on your monitor settings. 2.Our shoes are Chinese size.There are two size markings on the soles, such as 250 or 40, and the soles will be shipped randomly from the warehouse. 3.About size measurement: the measurement method is different, and the error of our size measurement is within the range of 1-3cm. 4.About defects: due to different product materials, process methods, and processing batches, some details such as stitches, thread ends, glue marks, slight smells, creases, leather natural texture, small scratches, etc. cannot be avoided, and will not affect the use. 5.If you have any problems with the product you received, please contact us in time. If the product is received more than 15 days, we will not provide after-sales service, and no compensation will be granted for overdue claims. 1.About Size. Our Shoes are in Chinese size, not the European size or other Size. Please measure your foot length to chooes the suitable shoes size. **Attention: Foot length < insole length < outsole length, DON'T measure insole or outsole.If you are not sure about the size, please feel free to contact us. 2.About Return Service. If you want to return goods, please contact with us within 7 days after receiving the goods. The items should be unused, unwashed and in their original condition - complete with the original packaging, tags, etc. Human made defects are not guarantee, such as broken, scratched and so on.(Shipping and handling fees are non-refundable). 3.About color shade: The products in our store are professionally photographed. Due to factors such as lighting, product materials, production batches, display resolution, and personal understanding of colors, there may be subtle differences between the pictures and the actual products. If you cannot accept it, please purchase with caution. 4.About mistake:If you receive the wrong delivery, missed delivery or obvious quality problems, in order to ensure your rights, please take a photo of the face sheet and bottom sheet of the package, describe the specific problem of the product, and contact customer service in time.We will arrange the resend or refund. 5.Wish you have a good shopping experience and give us 5 stars evaluation.
+  Updated: 2025-11-19T22:54:06Z
+  Vendor: ATTIK WEAR
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0631/9885/5229/files/S030b6565f1b04156955679a722bafcc12.webp?v=1763545633
+  - [red / 46](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809139773)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 45](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809172541)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 44](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809205309)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 43](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809238077)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 38](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809270845)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 37](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809303613)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 36](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809336381)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 35](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809369149)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 42](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809401917)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 41](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809434685)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 40](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809467453)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 39](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809500221)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 43](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809532989)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 42](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809565757)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 41](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809598525)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 40](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809631293)
+    Availability: Available
+    Price: $79.99 USD
+  - [red / 34](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809664061)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 46](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809696829)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 45](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809729597)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 44](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809762365)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 35](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809795133)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 34](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809827901)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 39](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809860669)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 38](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809893437)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 37](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809926205)
+    Availability: Available
+    Price: $79.99 USD
+  - [black / 36](https://attikk-wear.myshopify.com/products/plus-size-34-46-women-boots-sexy-thigh-high-boots-stretch-pu-leather-over-the-knee-heeled-boots-black-red-autumn-winter-shoes?variant=42733809958973)
+    Availability: Available
+    Price: $79.99 USD
 
 ## Collections
 
@@ -12813,8 +12897,8 @@ Types of bags:Handbags &amp; Crossbody bags
   Updated: 2025-11-18T17:51:34Z
   Total Products: 46
 - [All Products](https://attikk-wear.myshopify.com/collections/all-products)
-  Updated: 2025-11-18T17:51:33Z
-  Total Products: 208
+  Updated: 2025-11-19T09:47:39Z
+  Total Products: 209
 - [Heel's](https://attikk-wear.myshopify.com/collections/stilettos): Step Into Power, Height, And Unapologetic Glamour With Our STILETTOS Collection! A Fierce lineup of sky-high heels designed to turn heads and command every room. Featuring ultra-spiked heels and bold platform soles, these stilettos fuse daring elegance with seductive edge. Available in a spectrum of striking colors, each pair delivers height, confidence, and style with every step.
   Updated: 2025-11-11T15:16:35Z
   Total Products: 18
