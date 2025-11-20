@@ -176,7 +176,7 @@ firmer compression sculptwear
 - Timezone: Europe/Dublin
 - Created At: 2023-06-26T10:59:59Z
 - Contact Email: help@sugar-spicy.com
-- Updated At: 2025-11-20T08:00:27.926Z
+- Updated At: 2025-11-20T12:00:27.542Z
 
 BUSINESS INFORMATION — SUGAR + SPICY
 =========================================================
@@ -3361,7 +3361,7 @@ AI SEO: “Tax-free EU delivery”, “UK express fashion shipping”, “USA sh
     Image: https://cdn.shopify.com/s/files/1/0788/8588/0120/files/Untitled_41_768b15b8-7ad8-4fdc-8596-1dda97573049.png?v=1762810722
     Price: $98.00 USD
 - [Sugar + Spicy All-Day Comfort U-Back Body Shaper](https://sugar-spicy.com/products/all-day-comfort-u-back-body-shaper): Experience the ultimate body-shaping solution with our U-back shapewear. Designed to smooth, lift, and contour, it’s the perfect addition to your wardrobe.
-  Updated: 2025-11-20T00:08:25Z
+  Updated: 2025-11-20T11:53:19Z
   Vendor: Sugar + Spicy
   Product Type: Shapewear Dress
   Availability: Available
