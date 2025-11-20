@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-20T16:00:31.611Z
+- Updated At: 2025-11-20T20:00:31.650Z
 
 ## Products
 
@@ -7039,7 +7039,7 @@
     Availability: Available
     Price: $64.95 USD
 - [Lavender Vanilla - Shea Butter Body Lotion (10 oz)](https://affinatiliving.com/products/lavender-vanilla-shea-butter-body-lotion-10-oz): Lavender Vanilla Shea Butter Lotion by Affinati—soothing lavender, creamy vanilla, and rich hydration for soft, radiant, luxuriously scented skin all day.
-  Updated: 2025-11-20T10:56:04Z
+  Updated: 2025-11-20T17:02:32Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
