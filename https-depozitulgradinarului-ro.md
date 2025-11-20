@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-01-21T16:02:58Z
 - Contact Email: contact@depozitulgradinarului.ro
-- Updated At: 2025-11-19T00:00:29.537Z
+- Updated At: 2025-11-20T00:00:29.444Z
 
 ## Products
 
@@ -868,43 +868,43 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Lopaticapentrugradinarit_Verde.jpg?v=1739304368
   Price: 10,00 lei RON
-- [Hârleț 750g Fără Coadă – Unealtă Robustă pentru Grădină](https://depozitulgradinarului.ro/products/harlet-750-gr-fara-coada): Hârleț de 750 grame, fără coadă, ideal pentru săpat și lucrări grele în grădină. Construcție durabilă, compatibil cu cozi standard din lemn.
-  Updated: 2025-07-28T16:59:39Z
+- [Hârleț 750g Fără Coadă – Unealtă Robustă pentru Grădină](https://depozitulgradinarului.ro/products/harlet-750-gr-fara-coada): Hârleț de 750 g, fără coadă, din oțel rezistent, perfect pentru grădinărit, săpat și lucrări agricole. Ușor de montat pe cozi standard.
+  Updated: 2025-11-19T16:10:33Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Harlet750GRfaracoada.jpg?v=1739305270
   Price: 15,00 lei RON
 - [Lopată din Oțel 750 GR, Fără Coadă – Rezistență și Precizie](https://depozitulgradinarului.ro/products/lopata-750-gr-fara-coada): Lopată robustă din oțel de 750 GR, fără coadă – ideală pentru grădinărit, construcții și terenuri dificile. Durabilitate și eficiență garantate!
-  Updated: 2025-06-19T07:23:40Z
+  Updated: 2025-11-19T16:07:21Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Lopata750GRfaracoada.jpg?v=1739305918
   Price: 15,00 lei RON
-- [Greblă din Plastic Verde - 85 CM, Fără Coadă – Ușoară, Practică, Eficientă](https://depozitulgradinarului.ro/products/grebla-plastic-verde-85-cm-fara-coada): Greblă din plastic verde, 85 cm, fără coadă, ideală pentru frunze și iarbă. Ușoară, rezistentă și flexibilă – perfectă pentru curățarea grădinii.
-  Updated: 2025-07-28T12:13:30Z
+- [Grebla din Plastic Verde 85 CM Fără Coada – Întreținere Grădină](https://depozitulgradinarului.ro/products/grebla-plastic-verde-85-cm-fara-coada): Greblă din plastic verde, 85 cm, fără coadă, ideală pentru frunze și iarbă. Ușoară, rezistentă și flexibilă – perfectă pentru curățarea grădinii.
+  Updated: 2025-11-19T16:04:27Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/Greblaplasticverde85cmfaracoada.jpg?v=1739306045
   Price: 14,00 lei RON
-- [Pompa de stropit gradata 3L, albastra (Vermorel)](https://depozitulgradinarului.ro/products/pompa-de-stropit-gradata-3l-vermorel): Pompa de stropit gradată, manuală 3L – ideală pentru grădină, pomi și flori. Pulverizare eficientă a tratamentelor, ușor de folosit și transportat.
-  Updated: 2025-07-15T08:26:13Z
+- [Pompa de Stropit Gradată 3L Albastra (Vermorel)](https://depozitulgradinarului.ro/products/pompa-de-stropit-gradata-3l-vermorel): Pompa de stropit gradată 3L, albastră, tip Vermorel. Ideală pentru tratamente în grădină, pomi și flori. Duza reglabilă și maner ergonomic pentru control optim.
+  Updated: 2025-11-19T15:58:21Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/IMG_9022.jpg?v=1752231807
   Price: 25,00 lei RON
-- [Manusi de protectie, material textil cu strat de latex - marimea 10](https://depozitulgradinarului.ro/products/manusi-de-protectie-marimea-10): Mănuși de protecție mărimea 10, din material textil cu strat de latex rezistent. Oferă confort, aderență bună și siguranță la muncă sau grădinărit.
-  Updated: 2025-08-20T02:50:22Z
+- [Manusi de Protectie Textil cu Latex – Marimea 10](https://depozitulgradinarului.ro/products/manusi-de-protectie-marimea-10): Mănuși de protecție textile cu strat de latex, mărimea 10. Aderență excelentă, confort și flexibilitate pentru construcții, agricultură și logistică.
+  Updated: 2025-11-19T15:54:57Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/manusi.jpg?v=1739307355
   Price: 3,00 lei RON
-- [Manusi de protectie textil – cauciuc](https://depozitulgradinarului.ro/products/manusi-de-protectie-textil-cauciuc): Manusi de protectie textil – cauciuc.
-  Updated: 2025-07-28T10:44:59Z
+- [Manusi de Protectie Textil – Cauciuc pentru Lucrari Diverse](https://depozitulgradinarului.ro/products/manusi-de-protectie-textil-cauciuc): Mănuși de protecție textil–cauciuc, ideale pentru grădinărit, construcții și manipulare. Aderență excelentă și confort în utilizare.
+  Updated: 2025-11-19T15:51:03Z
   Vendor: Depozitul Grădinarului
   Product Type: Accesorii Gradinarit
   Availability: Available
@@ -1315,8 +1315,8 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at21.37.05_5.jpg?v=1740080870
   Price: 2,99 lei RON
-- [Seminte Gogosar ROSSO, AGROSEM - 0.6 GR](https://depozitulgradinarului.ro/products/seminte-gogosar-rosso-agrosem-0-6-gr): Topepo Rosso , este un soi semi-timpuriu, cu creștere determinată. Plante viguroase cu productivitate bună. Fructele sunt mari cu o greutate de 120-180 grame. Pulpa este roșie și groasă la maturitatea fiziologică
-  Updated: 2025-09-10T05:32:19Z
+- [Seminte Gogosar ROSSO, AGROSEM - 0.6 GR | Fructe Mari, Roșu Intens](https://depozitulgradinarului.ro/products/seminte-gogosar-rosso-agrosem-0-6-gr): Seminte Gogosar ROSSO, AGROSEM (0.6 GR) - Fructe rotunde, mari, roșu-intens, pulpa groasă și aromată. Perfect pentru consum proaspăt, umplut și conserve.
+  Updated: 2025-11-19T13:48:21Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -1483,40 +1483,66 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.49_2.jpg?v=1739903504
   Price: 2,99 lei RON
-- [Seminte Fasole Oloaga BORLOTTO RED, AGROSEM - 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-borlotto-red-agrosem-15-gr): Fasole oloaga Borlotto Red ,este un soi pitic cu păstaie lungă de culoare roșu intens pe fond alb. Boabele sunt rotund-alungite de culoare roșu închis pe fond cream. Este folosit ca fasole uscată. Perioada de vegetaţie este de 85 zile.
-  Updated: 2025-07-29T08:34:54Z
+- [Seminte Fasole Oloaga BORLOTTO RED, AGROSEM - 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-borlotto-red-agrosem-15-gr): Seminte Fasole Oloaga BORLOTTO RED, AGROSEM (15 GR) - Păstăi lungi, decorative și boabe roșii delicioase. Ideală pentru fasole uscată și preparate tradiționale.
+  Updated: 2025-11-19T15:22:11Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_5.jpg?v=1740078390
   Price: 2,99 lei RON
 - [Seminte Fasole Oloaga CANNELINO, AGROSEM – 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-cannelino-agrosem-15-gr): Soi semi-timpuriu pentru bob uscat cu creștere oloagă. Păstăile sunt mijlocii, verzi, cu 5-6 boabe. Semințele de culoare albă sunt alungite. Semănatul: de la sfârșitul lunii aprilie până la începutul lunii iunie, în rânduri sau cuiburi.
-  Updated: 2025-06-19T12:14:37Z
+  Updated: 2025-11-19T16:07:11Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.18_5.jpg?v=1740079133
   Price: 2,99 lei RON
-- [Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM – 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-15-gr): Fasole Oloaga Supernano yellow , este o planta pitica care atinge 40-50 cm. Pastaia este lata si plata, fara ate si deculoare galbena. Seminte de culoare alba.
-  Updated: 2025-07-28T15:04:58Z
+- [Seminte Fasole MERAVIGLIA DI VENEZIA](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-meraviglia-di-venezia-agrosem-15-gr): Păstaie lungă, lată, de culoare galben-auriu, cărnoasă, cu boabe de culoare albă lucioasă. Se seamănă la 70 cm între rânduri , 3-5 boabe în cuib.
+  Updated: 2025-11-19T13:50:48Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Price: 2,99 lei RON
+- [Seminte Fasole Oloaga ROCQUENCOURT, AGROSEM - 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-rocquencourt-agrosem-15-gr): Seminte fasole oloaga Rocquencourt, Agrosem (15 gr) – soi rustic, păstăi galben deschis, cărnoase, fără fir, bob negru și rotund, ideal pentru consum și conservare.
+  Updated: 2025-11-19T16:06:57Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.49_5.jpg?v=1739903727
+  Price: 2,99 lei RON
+- [Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM – 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-15-gr): Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM (15 GR) – soi timpuriu, păstăi galbene, fragede și fără ațe. Productivitate excelentă și gust superior.
+  Updated: 2025-11-19T15:43:16Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.51.jpg?v=1739903924
   Price: 2,99 lei RON
-- [Seminte Fasole Oloaga WOTTER, AGROSEM - 15 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-wotter-agrosem-15-gr): Fasole oloaga Wotter, este un soi cu pastaie lunga, cilindrica, de culoare verde si foarte carnoasa.
-  Updated: 2025-07-27T14:55:45Z
+- [Seminte Fasole Oloaga WOTTER, AGROSEM - 15 GR | Păstăi Verzi, Lungi & Cărnoase](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-wotter-agrosem-15-gr): Seminte Fasole Oloaga WOTTER, AGROSEM - 15 GR Fasolea oloagă Wotter este un soi de fasole pitică extrem de productiv, apreciată pentru păstăile sale lungi, cilindrice și foarte cărnoase, de culoare verde-intens. Păstăile ating 13–15 cm lungime, sunt uniforme, fragede și complet fără ațe, ceea ce le face ideale pentru consum în stare proaspătă, gătire sau conservare. Plantele au un port compact, de tip oloagă (40–50 cm), sunt ușor de întreținut și se adaptează excelent atât în grădinile familiale, cât și în culturile comerciale. Recoltarea este eșalonată, iar randamentul este ridicat, ceea ce transformă acest soi într-o alegere ideală pentru orice cultivator. Avantaje principale Fasole Oloaga WOTTER: Păstăi lungi (13–15 cm), cilindrice, verzi și foarte cărnoase Fără ațe, cu gust excelent și textură fragedă Soi pitic, compact, ușor de întreținut Recoltare eșalonată și productivitate ridicată Ideală pentru consum proaspăt, gătire și conservare Specificații de semănat Fasole Oloaga WOTTER: Perioada de semănat: aprilie – iunie, când solul atinge minim 12–14°C. Adâncime de semănat: 3–5 cm. Distanțare recomandată: 8–10 cm între plante pe rând 40–50 cm între rânduri Tip de cultură: câmp deschis sau grădini familiale; nu necesită susținere. Durata de vegetație: 55–60 zile până la primele recoltări. Recoltare: eșalonată, păstăile se culeg când sunt fragede și de culoare verde-intens.
+  Updated: 2025-11-19T15:35:10Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_2.jpg?v=1740077796
   Price: 2,99 lei RON
-- [Seminte Fasole Urcatoare BORLOTTO RED, AGROSEM - 10 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-borlotto-red-agrosem-10-gr): Fasole urcatoare Borlotto Red, este un soi tardiv de fasole urcătoare foarte viguroasă. Planta poate ajunge până la 250-300 cm., lunga de culoare rosu intens pe fond alb, semi-lung, cu 6-8 boabe în interior. Boabele sunt ovale de culoare roz cu marmoraţii roşii. Este folosit ca fasole uscată. Perioada de vegetaţie este de 85 zile.
-  Updated: 2025-06-19T12:14:37Z
+- [Seminte Fasole BORLOTTO RED](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-borlotto-red-agrosem-10-gr): Seminte Fasole Oloaga BORLOTTO RED, AGROSEM (15 GR) - Păstăi lungi, decorative și boabe roșii delicioase. Ideală pentru fasole uscată și preparate tradiționale.
+  Updated: 2025-11-19T15:22:37Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_6.jpg?v=1740078010
+  Price: 2,99 lei RON
+- [Seminte Fasole Urcatoare MARCONI, AGROSEM | Păstăi Lungi & Verzi](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-marconi-agrosem-10-gr): Fasole urcătoare Marconi, AGROSEM (10 gr) – soi timpuriu, păstăi verzi late și fragede, gust plăcut, recoltare rapidă și productivitate constantă.
+  Updated: 2025-11-19T14:15:23Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/6.jpg?v=1739373669
+  Price: 2,99 lei RON
+- [Seminte Fasole Urcatoare MERAVIGLIA DI VENEZIA, AGROSEM – 10 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-meraviglia-di-venezia-agrosem-10-gr): Semințe fasole urcătoare Meraviglia di Venezia, Agrosem (10 gr) – soi târziu, păstăi plate galbene 20-25 cm, fără aţe, boabe albe. Cultivă ușor şi bucură-te de recoltă mare!
+  Updated: 2025-11-19T14:03:42Z
+  Vendor: AGROSEM
+  Product Type: Seminte Legume
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_3.jpg?v=1740077847
   Price: 2,99 lei RON
 - [Seminte Gogosar TOPEPO ROSSO, AGROSEM - 0.7 GR](https://depozitulgradinarului.ro/products/seminte-gogosar-topepo-rosso-agrosem-0-7-gr): Topepo Roso , este un soi semi-timpuriu, cu creștere determinată. Plante viguroase cu productivitate bună. Fructele sunt mari cu o greutate de 120-180 grame. Pulpa este roșie și groasă la maturitatea fiziologică.
   Updated: 2025-11-17T14:33:16Z
@@ -1524,15 +1550,15 @@ Substanta activa: flonicamid 500 g/kg
   Product Type: Seminte Legume
   Availability: Available
   Price: 2,99 lei RON
-- [Seminte Gulie PURPLE VIENA, AGROSEM – 5 GR](https://depozitulgradinarului.ro/products/seminte-gulie-purple-viena-agrosem-5-gr): Frunze puține cu pețiol lung și susținere dreaptă, de culoare verde -albăstrui. Rădăcina e de mărime medie, rotundă aplatizată, de culoare violet. Varietate semi-timpurie adaptată pentru culturile de vară-iarnă. Distanța: 30 cm între rânduri și 30 cm între plante.
-  Updated: 2025-11-17T14:31:53Z
+- [Seminte Gulie PURPLE VIENA, AGROSEM | Gulie Timpurie, Violet & Frageda](https://depozitulgradinarului.ro/products/seminte-gulie-purple-viena-agrosem-5-gr): Seminte Gulie PURPLE VIENA, AGROSEM (5 GR) - Gulie timpuriu cu bulbi violet-intens, pulpa alba, frageda si dulce. Consum proaspat, gatit sau muraturi.
+  Updated: 2025-11-19T13:40:23Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-18at20.11.50.jpg?v=1739903853
   Price: 2,99 lei RON
-- [Seminte Gulie WHITE OF VIENA, AGROSEM - 5 GR](https://depozitulgradinarului.ro/products/seminte-gulie-white-of-viena-agrosem-5-gr): Perioada de vegetatie de 60-65 zile. Tulpina ingrosata este rotund-turtita de culoare alb verzuie, miezul alb cu gust placut. Nu se recomanda pentru pastrare.
-  Updated: 2025-11-17T14:31:40Z
+- [Seminte Gulie WHITE OF VIENA, AGROSEM | Gulie Timpurie, Frageda, Dulce](https://depozitulgradinarului.ro/products/seminte-gulie-white-of-viena-agrosem-5-gr): Seminte Gulie WHITE OF VIENA, AGROSEM (5 GR) - Gulie timpuriu cu bulbi rotunzi, pulpa alba, frageda si dulce. Consum proaspat, gatit sau muraturi.
+  Updated: 2025-11-19T13:35:23Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2147,8 +2173,8 @@ Substanta activa: flonicamid 500 g/kg
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_3.jpg?v=1740078293
   Price: 5,99 lei RON
-- [Seminte Fasole Oloaga BORLOTTO RED, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-borlotto-red-agrosem-100-gr): Seminte fasole oloaga Borlotto Red, Agrosem (100 gr) – soi pitic, păstăi roșu intens pe fond alb, boabe rotund-alungite roșu închis pe fond cream, fasole uscată.
-  Updated: 2025-11-06T21:32:19Z
+- [Seminte Fasole Oloaga BORLOTTO RED, AGROSEM - 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-borlotto-red-agrosem-100-gr): Seminte Fasole Oloaga BORLOTTO RED, AGROSEM (100 GR) - Păstăi lungi, decorative și boabe roșii delicioase. Ideală pentru fasole uscată și preparate tradiționale.
+  Updated: 2025-11-19T15:18:42Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2195,7 +2221,7 @@ Substanta activa: flonicamid 500 g/kg
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.16_7.jpg?v=1740078056
   Price: 5,99 lei RON
 - [Seminte Fasole Oloaga ROCQUENCOURT, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-rocquencourt-agrosem-100-gr): Seminte fasole oloaga Rocquencourt, Agrosem (100 gr) – soi rustic, păstăi galben deschis, cărnoase, fără fir, bob negru și rotund, ideal pentru consum și conservare.
-  Updated: 2025-11-06T08:05:15Z
+  Updated: 2025-11-19T16:06:50Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2207,15 +2233,15 @@ Substanta activa: flonicamid 500 g/kg
   Product Type: Seminte Legume
   Availability: Available
   Price: 0,00 lei RON
-- [Seminte Fasole oloaga SUPERNANO YELLOW, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-100-gr): Seminte fasole oloaga Supernano Yellow, Agrosem (100 gr) – soi pitic, păstăi late, plate, galbene, fără ațe, boabe albe, ideal pentru consum proaspăt sau conservare.
-  Updated: 2025-11-06T23:57:58Z
+- [Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-supernano-yellow-agrosem-100-gr): Seminte Fasole Oloaga SUPERNANO YELLOW, AGROSEM (100 GR) – soi timpuriu, păstăi galbene, fragede și fără ațe. Productivitate excelentă și gust superior.
+  Updated: 2025-11-19T15:43:11Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_1.jpg?v=1740078238
   Price: 7,00 lei RON
-- [Seminte Fasole Oloaga WOTTER, AGROSEM – 100 GR](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-wotter-agrosem-100-gr): Seminte fasole oloaga Wotter, Agrosem (100 gr) – soi productiv, păstăi lungi, cilindrice, verzi și foarte cărnoase, potrivit pentru consum proaspăt sau gătit.
-  Updated: 2025-11-07T03:39:51Z
+- [Seminte Fasole Oloaga WOTTER, AGROSEM - 100 GR | Păstăi Verzi, Lungi & Cărnoase](https://depozitulgradinarului.ro/products/seminte-fasole-oloaga-wotter-agrosem-100-gr): Seminte Fasole Oloaga WOTTER, AGROSEM (100 GR) – păstăi verzi, lungi, fragede și fără ațe. Soi pitic, super productiv, ideal pentru consum proaspăt și conservare.
+  Updated: 2025-11-19T15:35:08Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -2242,13 +2268,13 @@ Fasole Pitică cu Păstăi Subțiri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_4.jpg?v=1740078354
   Price: 5,99 lei RON
-- [Seminte Fasole Urcatoare MARCONI, AGROSEM – 70 GR | Păstăi Verzi](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-marconi-agrosem-70-gr): Fasole urcătoare Marconi, AGROSEM (70 gr) – soi timpuriu, păstăi verzi late și fragede, gust plăcut, recoltare rapidă și productivitate constantă.
-  Updated: 2025-11-06T03:52:17Z
+- [Seminte Fasole Urcatoare MARCONI, AGROSEM | Păstăi Lungi & Verzi](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-marconi-agrosem-70-gr): Fasole urcătoare Marconi, AGROSEM (70 gr) – soi timpuriu, păstăi verzi late și fragede, gust plăcut, recoltare rapidă și productivitate constantă.
+  Updated: 2025-11-19T14:15:18Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.17_18.jpg?v=1740078868
-  Price: 5,99 lei RON
+  Price: 6,50 lei RON
 - [Seminte Fasole Urcatoare MERAVIGLIA DI VENEZIA, AGROSEM – 70 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-meraviglia-di-venezia-agrosem-70-gr): Semințe fasole urcătoare Meraviglia di Venezia, Agrosem (70 gr) – soi târziu, păstăi plate galbene 20-25 cm, fără aţe, boabe albe. Cultivă ușor şi bucură-te de recoltă mare!
   Updated: 2025-11-06T02:53:53Z
   Vendor: AGROSEM
@@ -2257,7 +2283,7 @@ Fasole Pitică cu Păstăi Subțiri
   Image: https://cdn.shopify.com/s/files/1/0926/8664/7622/files/WhatsAppImage2025-02-20at20.51.18_8.jpg?v=1740079288
   Price: 6,50 lei RON
 - [Seminte Fasole Urcatoare MERAVIGLIA DI VENEZIA, AGROSEM - cutie 250 GR](https://depozitulgradinarului.ro/products/seminte-fasole-urcatoare-meraviglia-di-venezia-agrosem-cutie-250-gr): Semințe fasole urcătoare Meraviglia di Venezia, Agrosem (250 gr) – soi târziu, păstăi plate galbene 20-25 cm, fără aţe, boabe albe. Cultivă ușor şi bucură-te de recoltă mare!
-  Updated: 2025-11-06T02:43:41Z
+  Updated: 2025-11-19T14:03:30Z
   Vendor: AGROSEM
   Product Type: Seminte Legume
   Availability: Available
@@ -3961,7 +3987,7 @@ Livrare rapidă!
   Updated: 2025-11-09T12:00:42Z
   Total Products: 18
 - [Semințe de Legume Profesionale, Hibrizi și Tradiționale](https://depozitulgradinarului.ro/collections/seminte-legume): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-17T14:33:16Z
+  Updated: 2025-11-19T15:43:46Z
   Total Products: 125
 - [Semințe Pepene Verde și Galben – Soiuri Productive](https://depozitulgradinarului.ro/collections/seminte-fructe): Alege semințe de pepene verde și galben cu germinare rapidă și randament ridicat. Disponibile soiuri tradiționale și hibride profesionale.
   Updated: 2025-11-08T09:56:16Z
@@ -3970,7 +3996,7 @@ Livrare rapidă!
   Updated: 2025-07-21T09:25:56Z
   Total Products: 13
 - [Semințe de Legume - Macroambalate](https://depozitulgradinarului.ro/collections/seminte-macroambalate): Descoperă gama noastră variată de semințe de legume: profesionale, hibrizi și tradiționale. Alege semințe de calitate superioară pentru o recoltă bogată și sănătoasă în grădina sau sera ta.
-  Updated: 2025-11-05T11:28:35Z
+  Updated: 2025-11-19T15:43:11Z
   Total Products: 20
 - [Semințe de Flori pentru Grădină, Ghiveci și Balcon](https://depozitulgradinarului.ro/collections/seminte-flori): Cumpără semințe de flori anuale și perene pentru grădină, ghiveci sau balcon. Gălbenele, petunii, crăițe, lavandă, zorele și multe altele. Înflorire bogată! Flori decorative, colorate, ușor de cultivat.
   Updated: 2025-11-05T13:43:42Z
@@ -4168,7 +4194,7 @@ Livrare rapidă!
   Updated: 2025-11-16T12:28:50Z
   Total Products: 131
 - [Semințe de Grădină – Legume, Fructe, Flori și Plante Aromatice](https://depozitulgradinarului.ro/collections/seminte-gradina): Explorează selecția noastră de semințe de grădină: legume sanatoase, fructe gustoase, flori colorate și plante aromatice - germinare rapidă. Alege semințe de calitate pentru o grădină roditoare și plină de culoare. Soiuri românești și profesionale pentru o grădină productivă și sănătoasă.
-  Updated: 2025-11-17T14:33:16Z
+  Updated: 2025-11-19T15:43:46Z
   Total Products: 206
 - [Semințe pentru Agricultură | Porumb, Floarea-Soarelui, Plante Furajere](https://depozitulgradinarului.ro/collections/seminte-agricultura): Cumpără semințe agricole profesionale: porumb, floarea-soarelui și plante furajere. Soiuri productive, rezistente la secetă și boli. 
 Livrare rapidă!
@@ -4184,7 +4210,7 @@ Livrare rapidă!
   Updated: 2025-10-31T11:26:59Z
   Total Products: 11
 - [Accesorii Casă & Grădină | Unelte, Irigare, Gazon, Raticide](https://depozitulgradinarului.ro/collections/casa-gradina): Descoperă accesorii pentru grădinărit, unelte, sisteme de irigare, semințe de gazon și soluții eficiente pentru combaterea șoarecilor și șobolanilor.
-  Updated: 2025-11-15T18:37:14Z
+  Updated: 2025-11-19T16:10:33Z
   Total Products: 148
 - [Semințe Profesionale Legume și Fructe – Hibrizi Productivi](https://depozitulgradinarului.ro/collections/seminte-profesionale-hybrizi): Alege semințe profesionale de legume și fructe, hibrizi productivi, de calitate pentru grădină, solarii și câmp. Soiuri cu randament ridicat, ideale pentru cultivatori exigenți.
   Updated: 2025-11-09T12:00:42Z
@@ -4196,7 +4222,7 @@ Livrare rapidă!
   Updated: 2025-11-15T13:06:09Z
   Total Products: 47
 - [Unelte și Accesorii de Grădinărit | Foarfeci, Topoare, Greble și Sisteme de Irigare](https://depozitulgradinarului.ro/collections/unelte-accesorii-gradinarit): Descoperă o gamă variată de unelte și accesorii de grădinărit, inclusiv foarfeci, greble, ciocane, lopeți, furci și sisteme de irigare. Echipamente de calitate pentru toate nevoile tale de grădinărit.
-  Updated: 2025-11-15T18:37:14Z
+  Updated: 2025-11-19T16:10:33Z
   Total Products: 76
 - [Îngrășăminte Foliare Profesionale | Legume, Pomi, Culturi Agricole, Gazon, Cereale, Flori, Tuia, Plante Furajere](https://depozitulgradinarului.ro/collections/ingrasaminte-foliare): Îngrășăminte foliare profesionale pentru legume, pomi, flori, gazon, tuia, plante furajere și culturi agricole, precum: porumb, floarea-soarelui, grâu. Soluții lichide rapide, cu absorbție eficientă prin frunze, pentru plante viguroase.
   Updated: 2025-10-15T11:28:05Z
@@ -4256,7 +4282,7 @@ Livrare rapidă!
   Updated: 2025-10-27T08:50:37Z
   Total Products: 9
 - [Semințe 2.99 RON](https://depozitulgradinarului.ro/collections/semințe-sub-2-99-ron)
-  Updated: 2025-11-17T14:33:16Z
+  Updated: 2025-11-19T15:43:46Z
   Total Products: 123
 - [Pachete Tratament Pomi Fructiferi – Protecție completă împotriva bolilor și dăunătorilor](https://depozitulgradinarului.ro/collections/pachete-tratament-pomi): Descperă pachetele tratament pentru pomi fructiferi, eficiente împotriva bolilor și dăunătorilor, pentru protejarea pomilor fructiferi și maximizarea producției. Descoperă pachete tratament pomi adaptate fiecărei faze de vegetație.
   Updated: 2025-10-26T17:08:55Z
