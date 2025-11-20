@@ -6,47 +6,47 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-11-19T00:00:25.370Z
+- Updated At: 2025-11-20T00:00:37.025Z
 
 ## Products
 
 - [KeraFactor Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): Gentle KeraFactor’s scalp-stimulating shampoo and conditioner, ideal for reinvigorating sensitive scalps and fuller, healthier looking hair. Add to your routine today!
-  Updated: 2025-11-18T23:59:11Z
+  Updated: 2025-11-19T22:44:04Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/28-opt.jpg?v=1751547430
   Price: $49.00 USD
 - [KeraFactor Scalp Stimulating Solution for Men & Women](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-solution): Experience our cutting edge KeraFactor’s scalp-stimulating solution, the best scalp serum with patented peptides and next-generation tech to nourish the scalp and support visibly thicker, fuller, and stronger hair.
-  Updated: 2025-11-18T20:00:23Z
+  Updated: 2025-11-19T21:19:55Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Untitled_design-3.jpg?v=1757998827
   Price: $169.00 USD
 - [KeraFactor Scalp Treatment Kit for Hair Health | Recovery & Care Kit](https://shop.mykerafactor.com/products/kerafactor-solution-and-conditioner-combo): Thinning hair? Our kit has a stimulating scalp brush, treatment solution, shampoo, & conditioner that refresh the scalp, and improve circulation for fuller, denser looking hair. Shop now!
-  Updated: 2025-11-18T03:04:16Z
+  Updated: 2025-11-19T22:47:59Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_e1502541-f6fa-4e33-a10e-cde52badc165-opt.jpg?v=1751546838
   Price: $218.00 USD
 - [KeraFactor Eye Lash Enhancing Serum | Longer Lashes, Fast Results](https://shop.mykerafactor.com/products/lashes-by-kerafactor): Nourish, strengthen, and enhance your lashes with KeraFactor’s eyelash boosting and enhancing serum. View Before and After photos. Order your growth serum today!
-  Updated: 2025-11-18T16:52:37Z
+  Updated: 2025-11-19T18:14:01Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Lash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/8-opt.jpg?v=1751546409
   Price: $99.00 USD
 - [KeraFactor Eyebrow Enhancing Serum | Fuller, Thicker Brows](https://shop.mykerafactor.com/products/brows-by-kerafactor): Nine biomimetic growth factors provide thicker, beautiful brows. Our enhancing serum nourishes brow hair follicles for visibly fuller, thicker looking brows. Achieve your dream brows. Shop Now.
-  Updated: 2025-11-18T20:35:53Z
+  Updated: 2025-11-19T23:46:27Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Brow
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Untitled_design.jpg?v=1753121349
   Price: $99.00 USD
 - [Red Laser Diode Cap for Hair Growth & Hair Loss Stop | KeraFactor](https://shop.mykerafactor.com/products/keraflex-laser-cap): Experience hair regrowth at home with KeraFactor’s FDA-cleared red laser diode hair cap. Hands-free, effective laser therapy in just 6 minutes daily for thicker, healthier hair.
-  Updated: 2025-11-18T20:00:28Z
+  Updated: 2025-11-19T20:17:36Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -100,7 +100,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/5_920490c8-b4ab-465c-a158-35f92159ff33.png?v=1754150468
   Price: $20.00 USD
 - [KeraFactor Painless Microneedling Device | Scalp Derma Roller](https://shop.mykerafactor.com/products/keraroller): Boost absorption of KeraFactor topical treatments with our microneedle scalp roller. Safe, effective, easy to use, & dermatologist-recommended. Add to your regimen today.
-  Updated: 2025-11-18T19:33:09Z
+  Updated: 2025-11-19T18:14:01Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -114,21 +114,21 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_5730b7e3-31ea-48d8-8479-54846964c2a0.png?v=1760069290
   Price: $20.00 USD
 - [Scalp Restore Set](https://shop.mykerafactor.com/products/scalp-restore-set): Reset and revive the scalp with this powerful at home set designed to promote healthier looking hair from the root. The Scalp Restore Set pairs our KeraFactor Scalp Stimulating Solution with the KeraRoller and a set of premium KeraFactor branded toiletry bags for a complete self care experience. The KeraRoller features ultra fine medical grade needles to gently condition the scalp and prep the skin for deeper absorption of the KeraFactor Solution. The Scalp Stimulating Solution is formulated with biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support the look of fuller, stronger, more resilient hair. Perfect for maintaining results between in office treatments or as a standalone home care routine, this set makes it easy to elevate scalp health and improve the appearance of density over time. Includes • KeraRoller • KeraFactor Scalp Stimulating Solution • Premium KeraFactor Toiletry Bag (free) Easy weekly at home use. No downtime. Consistent use supports visible improvement in scalp and hair vitality.
-  Updated: 2025-11-18T20:00:45Z
+  Updated: 2025-11-19T21:19:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Untitled_design.png?v=1762880086
   Price: $177.00 USD
 - [Total Transformation Trio](https://shop.mykerafactor.com/products/total-transformation-trio): Experience the most complete at home hair restoration system we offer. The Total Transformation Trio combines three powerful modalities working together to support the look of thicker, stronger, fuller hair. The KeraFlex Laser Cap provides consistent low level light therapy using medical grade laser diodes to support healthier looking hair through increased scalp stimulation. The KeraFactor Scalp Stimulating Solution delivers biomimetic growth factors, peptides, and copper tripeptides to nourish the scalp and support visible density. The KeraRoller gently conditions the scalp and helps enhance absorption of the Solution. This bundle was designed for patients who want the most comprehensive at home program for advanced scalp support and hair appearance improvement. Includes: • KeraFlex Laser Cap • KeraFactor Scalp Stimulating Solution • KeraRoller • Premium KeraFactor Toiletry Bag (free) This set is perfect for creating a full at home protocol to complement your in office treatments.
-  Updated: 2025-11-18T20:00:45Z
+  Updated: 2025-11-19T21:19:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Total_Transformation_Trio.png?v=1762198058
   Price: $1,366.00 USD
 - [Brow Boost](https://shop.mykerafactor.com/products/brow-boost): Lift your brow game with the Brow Boost Set. This powerful pairing was created to support fuller looking brows and a stronger appearance over time. The KeraFactor Brow Serum features our proprietary blend of biomimetic growth factors, peptides, and copper tripeptides formulated to nourish the brow area and help support a thicker, more defined look. The precision Roller gently preps the skin, helping condition the brow area so the serum can absorb more effectively. This special bundle also includes a premium KeraFactor toiletry bag, perfect for storing your brow essentials at home or on the go. Includes: • KeraFactor Brow Serum • Precision Brow Roller • Premium KeraFactor Toiletry Bag (free) Ideal for patients seeking to enhance the look of sparse or thinning brows with a simple at home routine. Consistent use supports visible improvement over time.
-  Updated: 2025-11-18T20:35:55Z
+  Updated: 2025-11-19T23:46:30Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -138,20 +138,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-11-18T12:06:10Z
+  Updated: 2025-11-19T12:05:13Z
   Total Products: 19
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-11-18T12:06:10Z
+  Updated: 2025-11-19T12:05:13Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-11-18T12:06:10Z
+  Updated: 2025-11-19T12:05:13Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
   Updated: 2025-11-18T12:06:10Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-11-18T12:06:10Z
+  Updated: 2025-11-19T12:05:13Z
   Total Products: 13
 
 ## Blogs
