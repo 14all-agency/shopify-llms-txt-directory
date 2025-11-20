@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-11-16T00:00:35.294Z
+- Updated At: 2025-11-20T00:00:55.684Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-11-14T10:27:11Z
+  Updated: 2025-11-19T15:30:09Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -268,6 +268,12 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-pink-3d-printer-250-g-skin-413.webp?v=1724892202
     Price: €19.90 EUR
+  - [1.75 mm / 1 Kg / Brown](https://eolasprints.com/products/pla-filament-1-75-mm?variant=52769767031111)
+    Availability: Available
+    Price: €19.90 EUR
+  - [1.75 mm / 1 Kg / Dark Brown](https://eolasprints.com/products/pla-filament-1-75-mm?variant=52769767063879)
+    Availability: Available
+    Price: €19.90 EUR
   - [1.75 mm / 2.5 Kg / Grey](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912967427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-3d-printed-perforated-boots-250-g-grey-729.webp?v=1724892132
@@ -291,14 +297,6 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [1.75 mm / 5 Kg / Natural](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329914179843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-pair-cream-colored-boots-250-g-natural-611.webp?v=1724892356
-    Price: €117.50 EUR
-  - [1.75 mm / 5 Kg / Black](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329911853315)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-3d-printed-black-boot-250-g-558.webp?v=1724891915
-    Price: €117.50 EUR
-  - [1.75 mm / 5 Kg / White](https://eolasprints.com/products/pla-filament-1-75-mm?variant=42329912738051)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-spool-white-3d-250-g-329.webp?v=1724892336
     Price: €117.50 EUR
 - [Pla Filament 2.85 Mm Datasheet Download](https://eolasprints.com/products/pla-filament-2-85-mm): Eolas Prints premium 2.85mm PLA filament in over 20 vibrant colors provides exceptional detail for 3D printing. An eco-friendly and easy-to-use material.
   Updated: 2025-11-15T09:23:01Z
@@ -611,7 +609,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-11-14T22:41:56Z
+  Updated: 2025-11-18T22:16:58Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -795,7 +793,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
     Price: €22.50 EUR
 - [Petg Transition Filament with Good Sunlight Resistance](https://eolasprints.com/products/petg-transition-filament): Eolas Prints PETG transition filament offers superior performance for 3D printing with improved thermal stability and good sunlight resistance for heat resistant parts.
-  Updated: 2025-10-23T08:05:42Z
+  Updated: 2025-11-17T18:43:06Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -935,7 +933,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-certified-uv-resistant-wind-speed-direction-1-75-mm-1-468.webp?v=1759097177
     Price: €30.50 EUR
 - [High Performance Abs Filament for 3d Printing](https://eolasprints.com/products/abs-filament): Eolas Prints ABS filament offers superior performance for 3D printing. This durable, impact-resistant ABS filament has improved mechanical properties and processing.
-  Updated: 2025-11-13T23:07:16Z
+  Updated: 2025-11-17T14:56:14Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1074,7 +1072,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/magigoo-original-3d-printing-adhesive-red-purple-gradient-280.webp?v=1726447625
   Price: €18.15 EUR
 - [Pla Silk Filament for a Smooth Metallic Finish](https://eolasprints.com/products/pla-silk-filament): Eolas Prints PLA silk filament offers a stunning high-gloss metallic finish. This premium material helps to hide layer lines for exceptionally smooth, polished 3D prints.
-  Updated: 2025-11-02T19:42:06Z
+  Updated: 2025-11-18T07:29:21Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1261,7 +1259,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-3d-printer-digital-379.webp?v=1759097305
   Price: €299.00 EUR
 - [Tpu Flex Filament D53 for Creating Flexible Parts](https://eolasprints.com/products/tpu-flex-filament-shore-d53): Eolas Prints TPU Flex Filament - D53 offers superior performance and ease of use for creating flexible parts, from prototypes to functional end-use components.
-  Updated: 2025-11-13T23:07:16Z
+  Updated: 2025-11-19T07:55:36Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1279,7 +1277,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-1-75-mm-1-kg-grey-908.webp?v=1725528372
     Price: €38.50 EUR
   - [2.85 mm / 1 Kg / Black](https://eolasprints.com/products/tpu-flex-filament-shore-d53?variant=49637563466055)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-spool-black-3d-1-75-mm-1-kg-928.webp?v=1725528325
     Price: €38.50 EUR
 - [Antibacterial Matte Pla 3d Printer Filament](https://eolasprints.com/products/pla-antibacterial-filament): Eolas Prints PLA Antibacterial matte filament provides advanced antimicrobial surface protection. ISO certified, it is over 99.9% more hygienic than standard PLA.
@@ -1330,7 +1328,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-xl-fully-assembled-multi-extruder-3d-printer-5-677.webp?v=1763066398
     Price: €3,849.00 EUR
 - [Xtool M1 Smart Laser Engraver and Vinyl Cutter](https://eolasprints.com/products/xtool-m1-smart-laser-engraver-and-vinyl-cutter): The xTool M1 Smart is a versatile laser engraver and vinyl cutter. This 10w all-in-one bundle precisely engraves wood, leather, and acrylic for creative projects.
-  Updated: 2025-10-17T22:39:43Z
+  Updated: 2025-11-19T15:30:06Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1386,8 +1384,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/cricut-maker-3-739.webp?v=1734022402
   Price: €496.55 EUR
-- [Prusa Core one E3d V6 Motors Rpm Monitoring](https://eolasprints.com/products/prusa-core-one): The Prusa Core One at Eolas Prints offers pro 3D printing with a CoreXY design. It is E3D V6 compatible and features motors RPM monitoring for precision.
-  Updated: 2025-11-14T08:38:34Z
+- [Prusa Core One Plus +](https://eolasprints.com/products/prusa-core-one): The Prusa Core One at Eolas Prints offers pro 3D printing with a CoreXY design. It is E3D V6 compatible and features motors RPM monitoring for precision.
+  Updated: 2025-11-19T15:08:12Z
   Vendor: Prusa Research
   Product Type: 3D Printer
   Availability: Available
@@ -1415,7 +1413,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-mini-semi-assembled-orange-black-3d-848.webp?v=1745446094
   Price: €549.00 EUR
 - [Premium Pla Neon Filament for Vibrant 3d Prints](https://eolasprints.com/products/pla-neon-filament): Eolas Prints premium PLA neon filament offers a vibrant, eye-catching finish for 3D printing. This high-quality material minimizes layer lines for smoother prints.
-  Updated: 2025-11-13T16:44:42Z
+  Updated: 2025-11-18T07:52:05Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1702,23 +1700,30 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/prusa-core-one-l-3d-printer-orange-677.webp?v=1762256680
   Price: €1,799.00 EUR
 - [Original Prusa Xl Silicone Printing Toolhead](https://eolasprints.com/products/original-prusa-xl-silicone-printing-toolhead): This Filament2 toolhead for the Original Prusa XL enables plug-n-play printing with 2-part liquid materials like real, heat-resistant silicone.
-  Updated: 2025-11-14T09:28:18Z
+  Updated: 2025-11-18T12:08:07Z
   Vendor: Prusa Research
   Product Type: 3D Printer Accessories
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-xl-silicone-printing-toolhead-3d-printer-extruder-284.webp?v=1763070253
   Price: €999.00 EUR
+- [Ht Hotend Upgrade for Prusa Core one and Core one l](https://eolasprints.com/products/ht-hotend-upgrade-for-core-one-and-core-one-l): This quick-swap HT Hotend for the Prusa CORE One series provides 400 °C capability for printing industrial polymers like PEKK-CF, PPSU, and PPA-CF.
+  Updated: 2025-11-19T18:33:21Z
+  Vendor: Prusa Research
+  Product Type: 3D Printer Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/ht-hotend-upgrade-for-core-one-and-one-l-3d-printer-nozzle-662.webp?v=1763566120
+  Price: €269.00 EUR
 
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-11-15T12:13:14Z
+  Updated: 2025-11-19T12:15:31Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-11-14T12:13:29Z
+  Updated: 2025-11-18T12:14:28Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-11-15T12:13:14Z
+  Updated: 2025-11-19T12:15:31Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1727,16 +1732,16 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-11-15T12:13:14Z
   Total Products: 5
 - [Quality Pla Filament and Transition Filament Sale](https://eolasprints.com/collections/3d-filament-offers): Eolas Prints presents certified PLA filament and materials in our transition filament sale. Find quality ISO and REACH compliant supplies for your 3D printing projects.
-  Updated: 2025-11-08T12:13:35Z
+  Updated: 2025-11-18T12:14:28Z
   Total Products: 3
 - [Filamento Abs Iso Certificado Calidad y Servicio](https://eolasprints.com/collections/abs): Eolas Prints provides high-performance ABS filament for 3D printing, certified for quality and environmental standards, reflecting our calidad y servicio promise.
   Updated: 2025-11-12T12:16:36Z
   Total Products: 1
 - [Thought3d Magigoo and Prusa Research Accessories](https://eolasprints.com/collections/3d-printers-accessories): Eolas Prints provides essential 3D printing accessories for brands like Flashforge Adventurer and Prusa Research, including items like Thought3D Magigoo adhesives.
-  Updated: 2025-11-13T21:38:23Z
-  Total Products: 6
+  Updated: 2025-11-19T15:21:38Z
+  Total Products: 7
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-11-15T12:13:14Z
+  Updated: 2025-11-19T12:15:31Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-11-14T12:13:29Z
@@ -1745,13 +1750,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-25T11:11:33Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-11-14T12:13:29Z
+  Updated: 2025-11-19T12:15:31Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-10-23T22:29:28Z
   Total Products: 9
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
-  Updated: 2025-11-13T21:01:06Z
+  Updated: 2025-11-19T14:52:07Z
   Total Products: 20
 
 ## Blogs
