@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-11-19T20:00:23.827Z
+- Updated At: 2025-11-20T04:00:23.665Z
 
 ## Products
 
@@ -72,7 +72,7 @@
     Availability: Available
     Price: $9.95 NZD
 - [Complete Snowboard](https://jones-jm.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2025-10-22T06:51:26Z
+  Updated: 2025-11-19T21:57:09Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
