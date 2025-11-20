@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-11-17T00:00:30.686Z
+- Updated At: 2025-11-20T00:00:25.486Z
 
 ## Products
 
@@ -69,12 +69,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_bio10008_4__45042.webp?v=1753873589
   Price: 499,00 € EUR
 - [Bioethanol Kamin weiß kaufen ☝ hier günstig im Shop](https://www.pelios.de/products/lincoln-weiss): Bioethanol Kamin weiß ★ Dieser elegante freistehende Bioethanol Kamin im weißen Holzofen-Design bietet bis zu 4,5h Brenndauer ✓ und eine Wärmeleistung 1,9 kW ✓
-  Updated: 2025-10-27T07:05:12Z
+  Updated: 2025-11-19T22:12:59Z
   Vendor: ScandiFlames
   Product Type: Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20320wh_flame_60612.webp?v=1753873581
-  Price: 1.499,00 € EUR
+  Price: 1.399,00 € EUR
 - [Bio Ethanolkamin freistehend schwarz kaufen☝hier im Shop](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin): Bio Ethanolkamin freistehend schwarz ➥ Dieser freistehende Biokamin ist perfekt zum Trennen von zwei Räumen ✓ Indoor-Standkamin von ScandiFlames
   Updated: 2025-10-27T07:09:46Z
   Vendor: ScandiFlames
@@ -270,7 +270,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-19T22:13:00Z
   Total Products: 12
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
   Updated: 2025-11-11T15:58:21Z
@@ -282,7 +282,7 @@
   Updated: 2025-11-11T15:58:21Z
   Total Products: 3
 - [bis 20 qm](https://www.pelios.de/collections/bis-20-qm)
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2025-11-19T22:13:00Z
   Total Products: 4
 - [bis 30 qm](https://www.pelios.de/collections/bis-25-qm)
   Updated: 2025-11-11T15:58:21Z
@@ -306,10 +306,10 @@
   Updated: 2025-11-12T12:27:44Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
-  Updated: 2025-11-11T15:58:22Z
+  Updated: 2025-11-19T22:13:00Z
   Total Products: 14
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2025-11-14T15:15:58Z
+  Updated: 2025-11-19T22:13:00Z
   Total Products: 11
 - [Infrarot](https://www.pelios.de/collections/infrarot)
   Updated: 2025-11-11T15:58:22Z
