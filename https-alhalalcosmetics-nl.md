@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-01-11T16:47:40Z
 - Contact Email: info@alhalalcosmetics.nl
-- Updated At: 2025-11-20T02:24:36.546Z
+- Updated At: 2025-11-20T02:26:42.980Z
 
 ## Products
 
