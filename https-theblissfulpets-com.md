@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-11-19T00:00:49.577Z
+- Updated At: 2025-11-20T00:00:40.522Z
 
 ## Products
 
@@ -1573,6 +1573,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/page-16.jpg?v=1731955311
   Price: $29.95 USD
+- [The Blissful Dog Holiday Tube Combo, Dog Stocking Stuffer](https://theblissfulpets.com/products/the-blissful-dog-holiday-tube-combo-dog-stocking-stuffer): Our 3-Cute Puppies Tube Combo is perfect for multi-dog households, dog lovers gifts, and anyone who loves cute puppies! This combo contains 4 - .15oz Tubes, these are lip balm-sized tubes aka Chapstick sized. Perfect Holiday Gifts for your dog. Combo Includes Nose, Paw, Elbow & Boo Boo Butter. Nose & Boo Boo Butter has 3-Cute Puppies Label. Paw Butter and Elbow Butter as shown. Includes tips, hints and directions brochure, Gift Box with Holiday Ribbon & Hanger for on tree.
+  Updated: 2025-11-19T18:39:10Z
+  Vendor: The Blissful Pets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/page-1.jpg?v=1731956132
+  Price: $19.95 USD
+- [The Blissful Cat Holiday Tube Combo, Cat Stocking Stuffer](https://theblissfulpets.com/products/the-blissful-cat-holiday-tube-combo-cat-stocking-stuffer): Our Cat Tube Combo is perfect for multi-cat households, cat lovers gifts, and anyone who loves cute cats! This combo contains 3 - .15oz Tubes, these are lip balm-sized tubes aka Chapstick sized. Perfect Holiday Gifts for your cat. Combo Includes Nose, Paw & Boo Boo Butter. Includes tips, hints and directions brochure, Gift Box with Holiday Ribbon & Hanger for on tree.
+  Updated: 2025-11-19T18:46:57Z
+  Vendor: The Blissful Pets
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/page-11_bf94595e-b43b-4242-b139-8cf1d6a7342c.jpg?v=1731956575
+  Price: $15.95 USD
 
 ## Collections
 
@@ -1580,13 +1594,13 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-11-17T12:21:06Z
+  Updated: 2025-11-19T18:35:54Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
   Updated: 2025-11-18T12:23:28Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-11-18T12:23:28Z
+  Updated: 2025-11-19T18:35:54Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
   Updated: 2025-11-08T12:26:09Z
@@ -1598,7 +1612,7 @@
   Updated: 2025-11-07T15:53:12Z
   Total Products: 4
 - [Cat Grooming](https://theblissfulpets.com/collections/cat-grooming)
-  Updated: 2025-11-05T12:22:36Z
+  Updated: 2025-11-19T12:22:09Z
   Total Products: 14
 - [Cat Aromatherapy](https://theblissfulpets.com/collections/cat-aromatherapy)
   Updated: 2025-08-24T11:19:59Z
@@ -1625,16 +1639,16 @@
   Updated: 2025-11-14T12:21:40Z
   Total Products: 18
 - [Shop All Cat](https://theblissfulpets.com/collections/shop-all-cat)
-  Updated: 2025-11-07T15:53:12Z
+  Updated: 2025-11-19T18:44:34Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
   Updated: 2025-10-14T11:18:02Z
   Total Products: 3
 - [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles)
-  Updated: 2025-11-08T12:26:09Z
+  Updated: 2025-11-19T18:44:34Z
   Total Products: 14
 - [Holiday Combos](https://theblissfulpets.com/collections/holiday-combos)
-  Updated: 2025-10-06T11:17:39Z
+  Updated: 2025-11-19T18:44:34Z
   Total Products: 12
 
 ## Blogs
