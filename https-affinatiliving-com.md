@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-20T00:01:58.438Z
+- Updated At: 2025-11-20T04:00:31.832Z
 
 ## Products
 
@@ -6964,7 +6964,7 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Lavender Vanilla Candle](https://affinatiliving.com/products/3-wick-lavender-vanilla-candle): Relax your home with the soothing scent of lavender and creamy vanilla. This 17 oz 3-wick soy-blend candle delivers a strong, long-lasting aroma that fills any room with calming, spa-like comfort. Perfect for creating a peaceful, inviting atmosphere.
-  Updated: 2025-11-19T14:37:56Z
+  Updated: 2025-11-20T02:37:46Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -7024,7 +7024,7 @@
     Availability: Available
     Price: $99.95 USD
 - [Carrot Cake Original Candle](https://affinatiliving.com/products/carrot-cake-original-candle): Fill your home with the warm, bakery-fresh aroma of spiced carrot cake, creamy vanilla frosting, and cozy cinnamon. This 10 oz soy-blend candle offers a clean, even burn and a strong, long-lasting scent—perfect for adding comforting, homemade sweetness to any room.
-  Updated: 2025-11-19T17:32:39Z
+  Updated: 2025-11-20T03:31:14Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
