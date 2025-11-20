@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-11-19T00:00:31.295Z
+- Updated At: 2025-11-20T00:00:28.149Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -435,7 +435,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
-  Updated: 2025-11-18T15:25:40Z
+  Updated: 2025-11-19T11:25:21Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2215,7 +2215,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE2NS01MTEyMS1TLTQwNjgzODIxNTE4MzktZ3J1ZW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760980217
     Price: 49,90 € EUR
 - [Wide-Leg Hose mit Glitzerbund](https://lastradafashion.de/products/wide-leg-hose-mit-glitzerbund): Schlicht, edel und komfortabel – diese Hose begeistert mit einer fließenden Silhouette und einem modernen Wide-Leg-Cut. Dank des elastischen Bunds mit kontrastierendem Streifen in Dunkelbraun und Gold sitzt sie angenehm auf der Taille und bietet gleichzeitig stilvolle Akzente. Die weite Beinform streckt optisch und sorgt für ein luftiges Tragegefühl – ideal für entspannte Looks mit modischer Wirkung. Kombiniert mit dem passenden Oberteil ergibt sich ein harmonischer Two-Piece-Look. Ein echtes Must-have für moderne Casual-Wear mit Klasse. Materialzusammensetzung 60 % Viskose 35 % Nylon 5 % Elasthan Pflegehinweis Nicht waschen nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln sanfte chemische Reinigung möglich HerstellungslandItalienPassform und SchnittHohe Leibhöhe mit elastischem Bund, weites BeinFit Guide3MaterialqualitätWeich, leicht elastisch, angenehm fließendVerarbeitungUnifarbener Stoff, elastischer Taillenbund mit Streifen in Dunkelbraun und GoldModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-20T17:16:39Z
+  Updated: 2025-11-19T09:41:46Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -3132,7 +3132,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T17:37:48Z
   Total Products: 3
 - [Steppmäntel](https://lastradafashion.de/collections/steppmaentel): Steppmäntel von La Strada La Strada legt großen Wert auf Qualität und Details. Die Steppmäntel sind sorgfältig verarbeitet und bieten eine ausgezeichnete Passform. Sie sind langlebig und behalten ihre Form auch nach mehrmaligem Tragen und Waschen. Die Steppmäntel lassen sich leicht in verschiedene Outfits integrieren. Sie passen gut zu Jeans, Hosen, Kleidern oder Röcken und verleihen jedem Look eine elegante Note. Sie können sowohl für den Alltag als auch für besondere Anlässe getragen werden und sind vielseitig kombinierbar. Diese Mäntel sind mit praktischen Details wie Kapuzen, Reißverschlüssen und Taschen ausgestattet, die sowohl funktional als auch modisch sind. Sie bieten Schutz vor Wind und Kälte und halten die Trägerin angenehm warm.
-  Updated: 2025-10-21T18:53:53Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 11
 - [Jeansjacken](https://lastradafashion.de/collections/jeansjacken): Jeansjacken von La Strada Die Jeansjacken von La Strada sind aus hochwertigem Denim gefertigt und bieten eine hervorragende Qualität und Langlebigkeit. Sie zeichnen sich durch ihre robuste Verarbeitung und authentische Waschungen aus, die ihnen einen coolen Vintage-Look verleihen. Diese Jacken sind in verschiedenen Schnitten und Designs erhältlich, um den individuellen Vorlieben und Stilpräferenzen jeder Frau gerecht zu werden. Ob kurz oder lang, tailliert oder locker geschnitten - es gibt eine große Auswahl an Jeansjacken, um den persönlichen Geschmack zu treffen. Die Jeansjacken von La Strada lassen sich mühelos in verschiedene Outfits integrieren. Sie können sowohl zu lässigen Freizeitlooks als auch zu etwas eleganteren Ensembles getragen werden. Kombinieren Sie sie mit einer Jeans für einen coolen Denim-on-Denim-Look oder tragen Sie sie über einem Kleid für einen lässigen Kontrast.
   Updated: 2025-10-21T18:59:31Z
@@ -3252,10 +3252,10 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-03T10:20:50Z
   Total Products: 0
 - [Mäntel für Damen | Stylische Begleiter für Herbst & Winter](https://lastradafashion.de/collections/maentel): Entdecken Sie die exklusive Auswahl an Mänteln für Damen von La Strada, die Stil und Qualität vereinen. Von klassischen Schnitten bis zu modernen Designs – jeder Mantel bietet zeitlose Eleganz. ▶ Jetzt shoppen!
-  Updated: 2025-10-28T13:35:34Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-11-17T12:14:20Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 2302
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-10-21T18:44:03Z
@@ -3267,7 +3267,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-11-16T12:14:21Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 1585
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-10-28T12:34:11Z
@@ -3309,7 +3309,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-11-17T12:14:20Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 105
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
@@ -3477,7 +3477,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-03T10:20:50Z
   Total Products: 0
 - [Wintermäntel für Damen](https://lastradafashion.de/collections/wintermantel): Entdecke modische und warme Wintermäntel für Damen bei La Strada. Perfekt für kalte Tage – stilvoll, komfortabel und funktional. Finde deinen neuen Lieblingsmantel!
-  Updated: 2025-10-28T13:35:34Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 38
 - [Strick für Damen](https://lastradafashion.de/collections/strickware): Entdecken Sie Strick für Damen von La Strada. Italienische Eleganz jetzt online shoppen!
   Updated: 2025-10-21T18:44:09Z
@@ -3495,13 +3495,13 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:46:28Z
   Total Products: 19
 - [Elegante Mäntel](https://lastradafashion.de/collections/elegante-mantel): Elegante Mäntel von La Strada Die eleganten Mäntel von La Strada sind sorgfältig gestaltet, um höchste Ansprüche an Qualität und Design zu erfüllen. Sie zeichnen sich durch Schnitte aus, die die weibliche Silhouette schmeicheln und gleichzeitig genügend Raum für Komfort bieten. Die Auswahl an Materialien reicht von edlen Wollstoffen bis hin zu luxuriösen Mischgeweben, die nicht nur wärmen, sondern auch ein luxuriöses Tragegefühl verleihen. Die Palette der eleganten Mäntel in der Kollektion umfasst verschiedene Stile, von klassischen Trenchcoats bis hin zu zeitlosen Dufflecoats. Egal, ob Sie nach einem schicken Mantel für formelle Anlässe oder einem vielseitigen Alltagsbegleiter suchen, hier finden Sie das passende Modell. Die Farbpalette reicht von zurückhaltenden neutralen Tönen bis hin zu kräftigen Akzenten, um Ihrem persönlichen Stil Ausdruck zu verleihen. Verfeinerte Details wie Gürtel, Knöpfe und Kragen verleihen jedem Mantel eine individuelle Note. Mit einem eleganten Mantel von La Strada sind Sie nicht nur vor Kälte geschützt, sondern setzen auch ein modisches Statement. Gönnen Sie sich das Beste in Sachen Design und Qualität und entdecken Sie, wie ein eleganter Mantel Ihr Outfit perfektionieren kann.
-  Updated: 2025-10-28T13:35:35Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-11-17T12:14:20Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 2749
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
-  Updated: 2025-11-17T12:14:20Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 529
 - [Winter 2023](https://lastradafashion.de/collections/winter-2023): Die Winterkollektion von La Strada Tauchen Sie ein in die Welt der Eleganz und Behaglichkeit mit unserer Winterkollektion von La Strada. Diese exquisite Auswahl an Modestücken wurde sorgfältig zusammengestellt, um Ihnen in der kalten Jahreszeit Wärme und Stil zu bieten. Hier finden Sie eine breite Palette von Mänteln und Jacken, die nicht nur vor den winterlichen Temperaturen schützen, sondern auch Ihre Persönlichkeit unterstreichen. Kuschelige Mäntel und stilvolle Jacken Unsere Kollektion präsentiert eine Vielfalt an Mänteln, vom zeitlosen Wollmantel bis zum trendigen Steppmantel. Erleben Sie höchsten Tragekomfort und bleiben Sie dabei modisch im Fokus. Die sorgfältige Auswahl von hochwertigen Materialien und durchdachten Designs macht jeden Mantel zu einem Statement-Piece, das Ihren Winter-Look perfektioniert. Festliche Kleider für die Feiertage Für besondere Anlässe und festliche Momente bieten wir eine Auswahl an eleganten Kleidern. Von schlichten Schnitten bis zu aufwendig verzierten Designs – unsere Winterkollektion bringt den Zauber der Feiertage in Ihren Kleiderschrank. Verleihen Sie Ihren Festlichkeiten Glanz und Glamour mit einem Winterkleid von La Strada. Blusen für den perfekten Layering-Look Kombinieren Sie Ihre Wintergarderobe mit stilvollen Blusen, die nicht nur wärmend sind, sondern auch Vielseitigkeit in Ihre Outfits bringen. Ob unter einem Pullover getragen oder als eigenständiges Statement-Piece, unsere Blusen sind die perfekte Ergänzung für einen raffinierten Layering-Look. Wählen Sie Qualität und Stil La Strada steht für Qualität und Stil, und unsere Winterkollektion spiegelt dieses Versprechen wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur Wärme zu bieten, sondern auch Ihre persönliche Stilpräferenz zu unterstreichen. Ihr Winter-Wardrobe Upgrade Entdecken Sie die Eleganz und Vielfalt der La Strada Winterkollektion. Tauchen Sie ein in die Welt von warmen Mänteln, festlichen Kleidern und stilvollen Blusen. Gestalten Sie Ihren Winter-Look mit zeitloser Eleganz und genießen Sie die Kombination aus Komfort und Stil. Ihre Winterkollektion erwartet Sie – erleben Sie Mode, die nicht nur vor Kälte schützt, sondern auch Ihr individuelles Stilbewusstsein unterstreicht.
   Updated: 2025-11-06T12:15:35Z
@@ -3570,7 +3570,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:39Z
   Total Products: 23
 - [discount_not-on-sale_cap-is-empty](https://lastradafashion.de/collections/discount_not-on-sale_cap-is-empty)
-  Updated: 2025-11-17T12:14:20Z
+  Updated: 2025-11-19T12:15:13Z
   Total Products: 529
 - [Beste Kundin Geschenk](https://lastradafashion.de/collections/beste-kundin-geschenk)
   Updated: 2025-10-21T09:41:44Z
@@ -3639,8 +3639,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-03-18T14:45:03Z
   Total Products: 0
 - [Creator Collection](https://lastradafashion.de/collections/creator-collection): Entdecke exklusive Styles für Creator! Wähle deine Favoriten für unsere Kollaborationen – trendy, hochwertig & perfekt für deinen Content.
-  Updated: 2025-11-16T12:14:21Z
-  Total Products: 32
+  Updated: 2025-11-19T09:42:16Z
+  Total Products: 33
 
 ## Blogs
 
