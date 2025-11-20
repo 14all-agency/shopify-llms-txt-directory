@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-09-14T12:12:19Z
 - Contact Email: golyoltd@gmail.com
-- Updated At: 2025-11-19T00:00:53.597Z
+- Updated At: 2025-11-20T00:01:50.908Z
 
 ## Products
 
@@ -1942,7 +1942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/1111.png?v=1750799392
     Price: $45.00 USD
 - [Rosy Flow Top](https://qingsnkueens.com/products/rosy-flow-top): Float through your day with effortless elegance in the Rosy Flow Top by Qings and Kueens. Crafted from a silky 100% polyester shell and softly lined with a touch of elastane for gentle stretch, this collarless beauty features a fluid drape that feels as dreamy as it looks. Designed for daily casual wear, its regular fit offers ease without compromising on charm, while the layered ruffle hem and delicate knotted detail add a soft, romantic edge. Finished in a solid blush tone, the Rosy Flow Top brings modern femininity to your everyday look—perfect for pairing with denim, linen, or sleek trousers for a relaxed yet refined vibe.
-  Updated: 2025-07-02T13:06:25Z
+  Updated: 2025-11-19T12:30:34Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -2877,7 +2877,7 @@
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/13_a79e0e92-dc65-4ba5-8b34-50f3743f812a.png?v=1751840847
     Price: $37.99 USD
 - [Heather Gray patchwork](https://qingsnkueens.com/products/heather-gray-patchwork): Where texture meets tone, the Heather Gray Patchwork Hoodie is a laid-back staple with unexpected edge. Designed in a cool heather gray, it features unique patchwork paneling that adds subtle depth to its minimalist look. Crafted from a soft cotton-blend fleece, this hoodie delivers next-level comfort with a relaxed drop-shoulder fit, double-lined hood, and cozy kangaroo pocket. Perfect for daily wear or layered fits, the Heather Gray Patchwork Hoodie blends urban utility with effortless street style. With its ribbed cuffs and hem, premium stitching, and all-season versatility, this hoodie isn't just comfort it's character.
-  Updated: 2025-07-07T20:01:47Z
+  Updated: 2025-11-19T00:41:05Z
   Vendor: Qings & Kueens
   Product Type: 
   Availability: Available
@@ -5161,7 +5161,163 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/HS8R2.jpg?v=1763444541
     Price: $29.00 USD
-[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjM5NjAyNTI0MzI3LCJsYXN0X3ZhbHVlIjoiODYzOTYwMjUyNDMyNyJ9)
+- [Package Protection](https://qingsnkueens.com/products/shipguard-shipping-protection)
+  Updated: 2025-11-19T18:20:24Z
+  Vendor: Qings & Kueens
+  Product Type: Wenexus-Warranty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/9294/8903/files/package-icon-black.png?v=1763576423
+  - [2.95](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232301223)
+    Availability: Available
+    Price: $2.95 USD
+  - [3.00](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232333991)
+    Availability: Available
+    Price: $3.00 USD
+  - [3.05](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232366759)
+    Availability: Available
+    Price: $3.05 USD
+  - [3.10](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232399527)
+    Availability: Available
+    Price: $3.10 USD
+  - [3.15](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232432295)
+    Availability: Available
+    Price: $3.15 USD
+  - [3.20](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232465063)
+    Availability: Available
+    Price: $3.20 USD
+  - [3.25](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232497831)
+    Availability: Available
+    Price: $3.25 USD
+  - [3.30](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232530599)
+    Availability: Available
+    Price: $3.30 USD
+  - [3.35](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232563367)
+    Availability: Available
+    Price: $3.35 USD
+  - [3.40](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232596135)
+    Availability: Available
+    Price: $3.40 USD
+  - [3.45](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232628903)
+    Availability: Available
+    Price: $3.45 USD
+  - [3.50](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232661671)
+    Availability: Available
+    Price: $3.50 USD
+  - [3.55](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232694439)
+    Availability: Available
+    Price: $3.55 USD
+  - [3.60](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232727207)
+    Availability: Available
+    Price: $3.60 USD
+  - [3.65](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232759975)
+    Availability: Available
+    Price: $3.65 USD
+  - [3.70](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232792743)
+    Availability: Available
+    Price: $3.70 USD
+  - [3.75](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232825511)
+    Availability: Available
+    Price: $3.75 USD
+  - [3.80](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232858279)
+    Availability: Available
+    Price: $3.80 USD
+  - [3.85](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232891047)
+    Availability: Available
+    Price: $3.85 USD
+  - [3.90](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232923815)
+    Availability: Available
+    Price: $3.90 USD
+  - [3.95](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232956583)
+    Availability: Available
+    Price: $3.95 USD
+  - [4.00](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299232989351)
+    Availability: Available
+    Price: $4.00 USD
+  - [4.05](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233022119)
+    Availability: Available
+    Price: $4.05 USD
+  - [4.10](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233054887)
+    Availability: Available
+    Price: $4.10 USD
+  - [4.15](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233087655)
+    Availability: Available
+    Price: $4.15 USD
+  - [4.20](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233120423)
+    Availability: Available
+    Price: $4.20 USD
+  - [4.25](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233153191)
+    Availability: Available
+    Price: $4.25 USD
+  - [4.30](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233185959)
+    Availability: Available
+    Price: $4.30 USD
+  - [4.35](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233218727)
+    Availability: Available
+    Price: $4.35 USD
+  - [4.40](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233251495)
+    Availability: Available
+    Price: $4.40 USD
+  - [4.45](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233284263)
+    Availability: Available
+    Price: $4.45 USD
+  - [4.50](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233317031)
+    Availability: Available
+    Price: $4.50 USD
+  - [4.55](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233349799)
+    Availability: Available
+    Price: $4.55 USD
+  - [4.60](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233382567)
+    Availability: Available
+    Price: $4.60 USD
+  - [4.65](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233415335)
+    Availability: Available
+    Price: $4.65 USD
+  - [4.70](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233448103)
+    Availability: Available
+    Price: $4.70 USD
+  - [4.75](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233480871)
+    Availability: Available
+    Price: $4.75 USD
+  - [4.80](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233513639)
+    Availability: Available
+    Price: $4.80 USD
+  - [4.85](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233546407)
+    Availability: Available
+    Price: $4.85 USD
+  - [4.90](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233579175)
+    Availability: Available
+    Price: $4.90 USD
+  - [4.95](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233611943)
+    Availability: Available
+    Price: $4.95 USD
+  - [5.00](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233644711)
+    Availability: Available
+    Price: $5.00 USD
+  - [5.05](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233677479)
+    Availability: Available
+    Price: $5.05 USD
+  - [5.10](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233710247)
+    Availability: Available
+    Price: $5.10 USD
+  - [5.15](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233743015)
+    Availability: Available
+    Price: $5.15 USD
+  - [5.20](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233775783)
+    Availability: Available
+    Price: $5.20 USD
+  - [5.25](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233808551)
+    Availability: Available
+    Price: $5.25 USD
+  - [5.30](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233841319)
+    Availability: Available
+    Price: $5.30 USD
+  - [5.35](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233874087)
+    Availability: Available
+    Price: $5.35 USD
+  - [5.40](https://qingsnkueens.com/products/shipguard-shipping-protection?variant=47299233906855)
+    Availability: Available
+    Price: $5.40 USD
+[List Continued](https://qingsnkueens.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NjQwNjc3OTA0NTUxLCJsYXN0X3ZhbHVlIjoiODY0MDY3NzkwNDU1MSJ9)
 
 ## Collections
 
