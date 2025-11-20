@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-10-27T03:57:54Z
-- Updated At: 2025-11-17T00:00:54.431Z
+- Updated At: 2025-11-20T00:01:08.297Z
 
 ## Products
 
