@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-11-19T00:00:46.159Z
+- Updated At: 2025-11-20T00:00:43.605Z
 
 ## Products
 
@@ -95,7 +95,7 @@
     Availability: Not Available
     Price: $195.00 USD
 - [Buy Rib Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rib-throw): buy rib throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T16:28:07Z
+  Updated: 2025-11-19T02:34:49Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-m-aw200-111-swingcoat-chambray-wood-web.jpg?v=1759845613
     Price: $685.00 USD
 - [Buy Buckley Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/buckley-throw): Buy Buckley Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-16T16:36:17Z
+  Updated: 2025-11-19T20:13:47Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -387,43 +387,43 @@
   - [Light Taupe](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40258176581747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-102-BuckleyThrow-LightTaupe-white-web.jpg?v=1697649897
-    Price: $950.00 USD
+    Price: $1,250.00 USD
   - [Chocolate](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849198195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-08-BuckleyThrow-Chocolate-white-web.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
   - [Charcoal](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849329267)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-16-Buckley-Throw-Charcoal-white-web.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849296499)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-12-Buckley-Throw-Light-Grey-white-web.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
   - [Chambray](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849394803)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-111-BuckleyThrow-Chambray-FlatWhite.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $650.00 USD
   - [Navy](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849165427)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-27-BuckleyThrow-Navy-white-web.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $650.00 USD
   - [Admirals Blue](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849460339)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-Layer2.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $650.00 USD
   - [Teal](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849493107)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-67-BuckleyThrow-Teal-FlatWhite.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
   - [French Yellow](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849362035)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-90-BuckleyThrow-FrenchYellow-FlatWhite.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
   - [Tandoori](https://aliciaadamsalpaca.com/products/buckley-throw?variant=40826849427571)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH521-74-BuckleyThrow-Tandoori-FlatWhite_1.jpg?v=1697649897
-    Price: $695.00 USD
+    Price: $1,250.00 USD
 - [Buy Newborn Set | Luxury Alpaca Baby One-pieces | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/newborn-set): buy newborn set, luxury alpaca baby one-pieces at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-11-10T14:17:56Z
   Vendor: alicia adams alpaca
@@ -443,7 +443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ak115-24-newbornset-lightblue-white-web.jpg?v=1687282392
     Price: $295.00 USD
 - [Buy Oversized Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/oversized-sweater): buy oversized sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:55:59Z
+  Updated: 2025-11-19T05:59:17Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Not Available
     Price: $125.00 USD
 - [Buy Rib Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rib-hat): buy rib hat, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:45:19Z
+  Updated: 2025-11-19T17:51:29Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -566,18 +566,18 @@
     Price: $155.00 USD
   - [Moss](https://aliciaadamsalpaca.com/products/rib-hat?variant=53456781869428)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-124MossRibHat.jpg?v=1758899622
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-124MossRibHat.jpg?v=1763569698
     Price: $155.00 USD
   - [Maroon](https://aliciaadamsalpaca.com/products/rib-hat?variant=53456781902196)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-216MaroonRibHat.jpg?v=1758899622
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-216MaroonRibHat.jpg?v=1763569698
     Price: $155.00 USD
   - [Powder](https://aliciaadamsalpaca.com/products/rib-hat?variant=53456781934964)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-224PowderRibHat.jpg?v=1758899651
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA354-224PowderRibHat.jpg?v=1763569698
     Price: $155.00 USD
 - [Buy Knit Shirt | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/knit-shirt): buy knit shirt, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-10T14:59:10Z
+  Updated: 2025-11-19T18:10:25Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -711,7 +711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-am205-16-knitshirt-charcoal-white-web.jpg?v=1710863663
     Price: $275.00 USD
 - [Buy Baby Scarf | Luxury Alpaca Baby Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/baby-scarf): Buy Baby Scarf, luxury alpaca Baby Scarf at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-07T13:04:37Z
+  Updated: 2025-11-19T15:21:42Z
   Vendor: alicia adams alpaca
   Product Type: Baby Scarf
   Availability: Available
@@ -721,7 +721,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ak232-01-04-babyscarf-ivory-taupe-white-web.jpg?v=1749204419
     Price: $130.00 USD
   - [Ivory / Light Pink](https://aliciaadamsalpaca.com/products/baby-scarf?variant=40826842054771)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ak232-01-39-babyscarf-ivory-lightpink-white-web.jpg?v=1687206693
     Price: $130.00 USD
   - [Ivory / Light Blue](https://aliciaadamsalpaca.com/products/baby-scarf?variant=40826842087539)
@@ -1071,7 +1071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5413.jpg?v=1762778298
     Price: $495.00 USD
 - [Buy Ribbed Hot Water Bottle | Luxury Alpaca Accessory | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ribbed-hot-water-bottle): buy ribbed hot water bottle, luxury alpaca accessory at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-14T15:20:46Z
+  Updated: 2025-11-19T17:11:07Z
   Vendor: alicia adams alpaca
   Product Type: Accessories
   Availability: Available
@@ -1123,7 +1123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa113-112-rainbowhandwarmers-pearlgrey-white-web.jpg?v=1735832548
     Price: $65.00 USD
 - [Buy Mao Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mao-cape): buy mao cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:17:05Z
+  Updated: 2025-11-19T06:17:18Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -1701,7 +1701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak112-39-45-salzburgcardigan-lightpink-hotpink-f-white-web.jpg?v=1697553228
     Price: $125.00 USD
 - [Buy Morgan Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/morgan-throw): buy morgan throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-13T20:36:32Z
+  Updated: 2025-11-19T14:17:06Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -1713,7 +1713,7 @@
   - [Light Taupe](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920009843)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-102-MorganThrow-LightTaupe-white-web_1.jpg?v=1697650639
-    Price: $1,250.00 USD
+    Price: $1,450.00 USD
   - [Camel](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920140915)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-49-MorganThrow-Camel-white-web_1.jpg?v=1697650639
@@ -1721,11 +1721,11 @@
   - [Chocolate](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920042611)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-08-MorganThrow-Chocolate-white-web_1.jpg?v=1697650639
-    Price: $950.00 USD
+    Price: $1,450.00 USD
   - [Moss](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920304755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-124-MorganThrow-Moss-FlatWhite.jpg?v=1697650639
-    Price: $850.00 USD
+    Price: $1,450.00 USD
   - [Hunter](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40912281010291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5504.jpg?v=1697650639
@@ -1741,7 +1741,7 @@
   - [Denim Blue](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920271987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-114-Morgan-Throw-Denim-Blue-Flat-White.jpg?v=1697650639
-    Price: $950.00 USD
+    Price: $1,450.00 USD
   - [Aqua](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920206451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-MorganThrow_aqua_onwhite.jpg?v=1697650639
@@ -1749,33 +1749,33 @@
   - [Pink Powder](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920239219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-MorganThrow_PinkPowder_onwhite.jpg?v=1697650639
-    Price: $750.00 USD
+    Price: $1,450.00 USD
   - [Shocking Pink](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40912281043059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5464.jpg?v=1697650639
-    Price: $750.00 USD
+    Price: $1,450.00 USD
   - [Firecracker](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40912281075827)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5479.jpg?v=1697650639
-    Price: $1,250.00 USD
+    Price: $1,450.00 USD
   - [Black](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40912280977523)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5491.jpg?v=1697650639
-    Price: $1,250.00 USD
+    Price: $1,450.00 USD
   - [Charcoal](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920108147)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-16-MorganThrow-Charcoal-white-web_1.jpg?v=1697650639
-    Price: $750.00 USD
+    Price: $1,450.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920075379)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-12-MorganThrow-LightGrey-white-web_1.jpg?v=1697650639
-    Price: $650.00 USD
+    Price: $750.00 USD
   - [Carbon](https://aliciaadamsalpaca.com/products/morgan-throw?variant=40826920337523)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH104-120-MorganThrow-Carbon-FlatWhite.jpg?v=1697650639
     Price: $1,450.00 USD
 - [Buy Crew Neck Sweater For Men | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/crew-neck-sweater-for-men): buy crew neck sweater for men, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-10T14:10:15Z
+  Updated: 2025-11-19T20:02:17Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -1975,7 +1975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak118-37-nikioveralls-scarlet-flatwhite.jpg?v=1735842588
     Price: $125.00 USD
 - [Alpaca Sweaters on Sale | Luxury Alpaca Crew Neck Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/crew-neck-sweater): buy crew neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T16:25:43Z
+  Updated: 2025-11-19T19:02:17Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW504-17-Crew-Neck-Black-Model-White.jpg?v=1746195377
     Price: $95.00 USD
 - [Buy Hudson Euro Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/hudson-euro-pillow): Elevate your home décor with the luxurious Hudson Euro Pillow from alicia adams alpaca. Crafted for both style and comfort, these oversized pillows are perfect for beds, sofas, or reading chairs. Buy now and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-11-18T14:34:41Z
+  Updated: 2025-11-19T03:26:07Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
@@ -2247,7 +2247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ap132-203-hudson_square-evergreen-flat_white.jpg?v=1741005408
     Price: $295.00 USD
 - [Buy Graydon Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-blanket-cape): buy graydon cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:40:21Z
+  Updated: 2025-11-19T06:40:33Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -3194,7 +3194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-av-aa404-16-loungesock-charcoal-white-web.jpg?v=1718815563
     Price: $89.00 USD
 - [Buy Damien Sweater For Men | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/damien-sweater-for-men): Elevate your wardrobe with the Damien Sweater by alicia adams alpaca. Made with premium baby alpaca silk blend, it offers softness and breathability. Versatile for any occasion, with unique channel stitch accents and durable Alcantara vegan suede. Shop our fair-trade made, eco-friendly luxury goods and earn rewards.
-  Updated: 2025-11-18T21:48:19Z
+  Updated: 2025-11-19T19:57:32Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -3300,7 +3300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1960.jpg?v=1759500325
     Price: $495.00 USD
 - [Buy Graydon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-throw): buy graydon throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:32:45Z
+  Updated: 2025-11-19T21:49:26Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -3520,7 +3520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa112-112-rainbowhat-pearlgrey-white-web.jpg?v=1735910881
     Price: $85.00 USD
 - [Field Blanket | Luxury Alpaca Field Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/field-blanket): Experience rustic charm and eco-conscious luxury with the alicia adams alpaca Field Blanket. As featured on The Today Show, this versatile throw offers unparalleled warmth and style. Buy now for luxurious comfort and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-11-18T20:54:08Z
+  Updated: 2025-11-19T23:49:08Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -3529,102 +3529,112 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-17-16-12-Field-Blanket-Black-Charcoal-Light-Grey-wood-web.jpg?v=1692200878
     Price: $575.00 USD
-  - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888028275)
+  - [Beige / French Yellow / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=53674538467700)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah522-01-114-27ivory-denimblue-navy-1.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522-02-90-01-FieldBlanket-Beige-FrenchYellow-Ivory-White-Web.jpg?v=1763556582
     Price: $575.00 USD
-  - [Light Grey / Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40600016486515)
+  - [Chambray](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368340340)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah522-12-14-01lightgrey-grey-ivory-1_73099aa3-7d3b-4f08-ae1c-c7724fcd0894.jpg?v=1692200878
-    Price: $575.00 USD
-  - [Pink Powder / Ivory / Carbon](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888061043)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-110-01-120-Field-Blanket-Pink-Powder-Ivory-Carbon-wood-web.jpg?v=1692200878
-    Price: $575.00 USD
-  - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888192115)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-102-115-45-Field-Blanket-Light-Taupe-Tobacco-Shocking-Pink-wood-web.jpg?v=1692200878
-    Price: $575.00 USD
-  - [Shocking Pink / Light Pink / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=51780539154804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522-45-39-01-Field_Blanket-Shocking_Pink-Light_Pink-Ivory-White-Web.jpg?v=1738757601
-    Price: $575.00 USD
-  - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887897203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-02-01-12-Field-Blanket-Beige-Ivory-Light-Grey-wood-web_2ec56aa7-3d38-40d8-b579-e8468942d298.jpg?v=1692206419
-    Price: $575.00 USD
-  - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888323187)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-24-12-01-Field-Blanket-Light-Blue-Light-Grey-Ivory-wood-web.jpg?v=1692200878
-    Price: $575.00 USD
-  - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888224883)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-27-14-01-Field-Blanket-Navy-Dark-Grey-Ivory-wood-web.jpg?v=1692200878
-    Price: $575.00 USD
-  - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888257651)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-114-12-27-Field-Blanket-Denim-Blue-Light-Grey-Navy-web.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522S-111-FieldBlanket-Chambray-White-Web.jpg?v=1763556877
     Price: $575.00 USD
   - [Taupe / Dark Grey / Paprika](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888355955)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Field-Blanket-Taupe-Dark-Grey-Paprika.jpg?v=1735316643
     Price: $575.00 USD
-  - [Bordeaux / Navy / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888093811)
+  - [Light Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368274804)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-107-27-12-Field-Blanket-Bordeaux-Navy-Light-Grey-wood-web.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1763556899
     Price: $575.00 USD
-  - [Forest Green/Charcoal/Light Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888290419)
+  - [Shocking Pink / Light Pink / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=51780539154804)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-89-16-102-Field-Blanket-Hunter-Charcoal-Light-Taupe-wood-web.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522-45-39-01-Field_Blanket-Shocking_Pink-Light_Pink-Ivory-White-Web.jpg?v=1763556582
     Price: $575.00 USD
-  - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888126579)
+  - [Pink Powder / Ivory / Carbon](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888061043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-110-01-120-Field-Blanket-Pink-Powder-Ivory-Carbon-wood-web.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888323187)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-16-10-04-Field-Blanket-Charcoal-Cognac-Taupe-wood-web.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-24-12-01-Field-Blanket-Light-Blue-Light-Grey-Ivory-wood-web.jpg?v=1692200878
     Price: $575.00 USD
-  - [Cognac/Black/Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=51716132929908)
+  - [Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368209268)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522-10-17-89-FieldBlanket-Cognac-Black-Hunter-White-Web.jpg?v=1736444599
-    Price: $575.00 USD
-  - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888159347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-69-102-06-Field-Blanket-Firecracker-Light-Taupe-Dark-Taupe-wood-web.jpg?v=1692200878
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1763556582
     Price: $575.00 USD
   - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887929971)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-08-17-14-Field-Blanket-Chocolate-Black-Dark-Grey-wood-web.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888159347)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-69-102-06-Field-Blanket-Firecracker-Light-Taupe-Dark-Taupe-wood-web.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Bordeaux / Navy / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888093811)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-107-27-12-Field-Blanket-Bordeaux-Navy-Light-Grey-wood-web.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Camel](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368405876)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763556899
+    Price: $575.00 USD
+  - [Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368242036)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763556877
+    Price: $575.00 USD
+  - [Scarlet](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368307572)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763556877
+    Price: $575.00 USD
+  - [Bordeaux](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368373108)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522S-107-FieldBlanket-Bordeaux-White-Web.jpg?v=1763556877
+    Price: $575.00 USD
+  - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887897203)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-02-01-12-Field-Blanket-Beige-Ivory-Light-Grey-wood-web_2ec56aa7-3d38-40d8-b579-e8468942d298.jpg?v=1692206419
+    Price: $575.00 USD
+  - [Cognac / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/field-blanket?variant=53674538434932)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AH522-10-01-12_2.jpg?v=1763560484
+    Price: $575.00 USD
+  - [Forest Green/Charcoal/Light Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888290419)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-89-16-102-Field-Blanket-Hunter-Charcoal-Light-Taupe-wood-web.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888257651)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-114-12-27-Field-Blanket-Denim-Blue-Light-Grey-Navy-web.jpg?v=1692200878
     Price: $575.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887995507)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-01-12-02-FieldBlanket-Ivory-LightGrey-Beige-wood-web_4e2fd549-5506-4613-a017-54a217431786.jpg?v=1692200878
     Price: $575.00 USD
-  - [Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368209268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1759425876
+  - [Light Grey / Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40600016486515)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah522-12-14-01lightgrey-grey-ivory-1_73099aa3-7d3b-4f08-ae1c-c7724fcd0894.jpg?v=1692200878
     Price: $575.00 USD
-  - [Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368242036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763489751
+  - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888028275)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah522-01-114-27ivory-denimblue-navy-1.jpg?v=1692200878
     Price: $575.00 USD
-  - [Light Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368274804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1759425876
+  - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888192115)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-102-115-45-Field-Blanket-Light-Taupe-Tobacco-Shocking-Pink-wood-web.jpg?v=1692200878
     Price: $575.00 USD
-  - [Scarlet](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368307572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763489751
+  - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888126579)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-16-10-04-Field-Blanket-Charcoal-Cognac-Taupe-wood-web.jpg?v=1692200878
     Price: $575.00 USD
-  - [Camel](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368405876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763489751
+  - [Cognac / Black / Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=51716132929908)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1SD-AH522-10-17-89-FieldBlanket-Cognac-Black-Hunter-White-Web.jpg?v=1736444599
     Price: $575.00 USD
-  - [Chambray](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368340340)
-    Availability: Available
-    Price: $575.00 USD
-  - [Bordeaux](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368373108)
-    Availability: Available
+  - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826888224883)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-27-14-01-Field-Blanket-Navy-Dark-Grey-Ivory-wood-web.jpg?v=1692200878
     Price: $575.00 USD
 - [Buy Aspen Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aspen-throw): Buy Aspen Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T20:38:37Z
+  Updated: 2025-11-19T19:50:44Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -3658,7 +3668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah207-124-113-aspenthrow-moss-grey-white-hr.jpg?v=1760098115
     Price: $590.00 USD
 - [Buy Mao Suri Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mao-suri-cape): buy mao suri cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:17:36Z
+  Updated: 2025-11-19T06:17:44Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -3676,7 +3686,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-m-ac171-27-17-maosuricape-navy-black-1-white-web_4.jpg?v=1710864867
     Price: $795.00 USD
 - [Buy Lea Zip | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/lea-zip): buy lea zip, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:13:46Z
+  Updated: 2025-11-19T06:25:05Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -4221,7 +4231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aa118-37-whistlerscarf-scarlet-white-hr.jpg?v=1693224881
     Price: $125.00 USD
 - [Buy Davos Scarf | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/davos-scarf): buy davos scarf, luxury alpaca scarf at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:04:30Z
+  Updated: 2025-11-19T18:01:42Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -4256,18 +4266,18 @@
     Price: $185.00 USD
   - [Moss](https://aliciaadamsalpaca.com/products/davos-scarf?variant=53456777544052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-124DavosScarfMoss.png?v=1758899538
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-124DavosScarfMoss.png?v=1763569216
     Price: $185.00 USD
   - [Maroon](https://aliciaadamsalpaca.com/products/davos-scarf?variant=53456777576820)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-216DavosScarfMaroon.png?v=1758899633
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-216DavosScarfMaroon.png?v=1763569216
     Price: $185.00 USD
   - [Powder](https://aliciaadamsalpaca.com/products/davos-scarf?variant=53456777609588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-224DavosScarfPowder.png?v=1758899635
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-224DavosScarfPowder.png?v=1763569216
     Price: $185.00 USD
 - [Buy Davos Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/davos-hat): buy davos hat, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:07:34Z
+  Updated: 2025-11-19T18:02:36Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -4302,15 +4312,15 @@
     Price: $115.00 USD
   - [Moss / ONE SIZE](https://aliciaadamsalpaca.com/products/davos-hat?variant=53456777347444)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-124DavosHatMoss.jpg?v=1759499838
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-124DavosHatMoss.jpg?v=1763569247
     Price: $115.00 USD
   - [Maroon / ONE SIZE](https://aliciaadamsalpaca.com/products/davos-hat?variant=53456777380212)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-216DavosHatMaroon.jpg?v=1759499838
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-216DavosHatMaroon.jpg?v=1763569247
     Price: $115.00 USD
   - [Powder / ONE SIZE](https://aliciaadamsalpaca.com/products/davos-hat?variant=53456777412980)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-224DavosHatPowder.jpg?v=1758899474
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AA116-224DavosHatPowder.jpg?v=1763569247
     Price: $115.00 USD
 - [Buy Charlie Hat | Luxury Alpaca Baby Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/charlie-hat): Buy Charlie Hat, luxury alpaca Baby Knit Hat at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-11-10T14:01:14Z
@@ -4367,7 +4377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak212-27-98-charliehat-navy-peridot-white-hr.jpg?v=1692653972
     Price: $75.00 USD
 - [Buy Hudson Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/hudson-throw): buy hudson throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-13T20:36:13Z
+  Updated: 2025-11-19T21:59:37Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4409,7 +4419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH216-17-102-HudsonThrow-Black-LightTaupe-FlatWhite.jpg?v=1761937179
     Price: $425.00 USD
 - [Buy Empire Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/empire-throw): buy empire throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T02:06:57Z
+  Updated: 2025-11-19T21:36:48Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4453,7 +4463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AP217-14-16-AberdeenPillow-DarkGrey-Charcoal-white-web.jpg?v=1759499674
     Price: $195.00 USD
 - [Buy Aberdeen Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aberdeen-throw): Buy Aberdeen Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T17:32:56Z
+  Updated: 2025-11-19T19:49:44Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4537,7 +4547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah217-14-16-aberdeenthrow-darkgrey-charcoal-white-hr_85ca62d1-f418-49df-8acf-d023cbe9848c.jpg?v=1759499541
     Price: $650.00 USD
 - [Buy Alana Top | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alana-top): Buy Alana Top, luxury alpaca Women's Sweater at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:54:38Z
+  Updated: 2025-11-19T06:55:53Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -4663,7 +4673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_9773.jpg?v=1693300250
     Price: $250.00 USD
 - [Buy Ibiza Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/ibiza-throw): Transform your home with our Ibiza Throw - a luxurious blend of chic style and bohemian charm. Inspired by the laid-back vibe of Ibiza, this throw adds warmth and elegance to any space. Buy now at Alicia Adams Alpaca, shop our fair-trade, sustainable luxury goods and earn rewards today!
-  Updated: 2025-11-07T13:07:41Z
+  Updated: 2025-11-19T22:03:18Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4719,7 +4729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-KingHudsonBlanket-Black-LightTaupe-FlatWhite.jpg?v=1760702738
     Price: $1,695.00 USD
 - [Buy Mykonos Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mykonos-throw): buy mykonos throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T23:13:46Z
+  Updated: 2025-11-19T16:17:23Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4977,7 +4987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-mazingpillow_lttaupe_drkgrey_flatwoodcopy.jpg?v=1697650533
     Price: $225.00 USD
 - [Buy Frankie Top | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/frankie-top): buy frankie top, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:08:43Z
+  Updated: 2025-11-19T06:08:54Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -5233,11 +5243,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ak119-12-zumababyblanket-lightgrey-white-web.jpg?v=1687298049
     Price: $245.00 USD
 - [Buy Jackson Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/jackson-throw): Experience unparalleled luxury with the alicia adams alpaca Jackson Throw. Crafted from 100% baby alpaca with stunning knit stitch details, it's the epitome of cozy sophistication. Buy now and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-11-18T15:21:08Z
+  Updated: 2025-11-19T22:10:45Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59194.jpg?v=1763479268
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-sprucebed-toyko.jpg?v=1763555089
   - [Light Beige](https://aliciaadamsalpaca.com/products/jackson-throw?variant=40258939846771)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Jackson_Throw_Light_Beige.jpg?v=1735329082
@@ -5251,11 +5261,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH119-17-JacksonThrow-Black-white-web.jpg?v=1690909064
     Price: $475.00 USD
 - [Buy Jackson Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/jackson-pillow): buy jackson pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-10T14:53:59Z
+  Updated: 2025-11-19T22:13:55Z
   Vendor: alicia adams alpaca
   Product Type: Decorative Pillows
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-img_59194_02399977-b535-4667-b854-3037a0b14bf8.jpg?v=1762265270
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AC-AP119-119-JacksonPillow-LightBeige-wood.jpg?v=1763555125
   - [Light Beige](https://aliciaadamsalpaca.com/products/jackson-pillow?variant=40258941190259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AP119-119-JacksonPillow-LightBeige-white-web.jpg?v=1695114593
@@ -5412,7 +5422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ap522-14-12-01-fieldpillow-grey-lightgrey-ivory-1-white-web.jpg?v=1689624445
     Price: $685.00 USD
 - [Buy Leo Sweater | Luxury Alpaca Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/leo-sweater): buy leo sweater, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-12T13:11:57Z
+  Updated: 2025-11-19T16:23:55Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -5479,53 +5489,68 @@
     Price: $495.00 USD
   - [Powder / XS](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826071412)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensPowder.jpg?v=1763569397
     Price: $495.00 USD
   - [Powder / S](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826104180)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensPowder.jpg?v=1763569397
     Price: $495.00 USD
   - [Powder / M](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826136948)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensPowder.jpg?v=1763569397
     Price: $495.00 USD
   - [Powder / L](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826169716)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensPowder.jpg?v=1763569397
     Price: $495.00 USD
   - [Powder / XL](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826202484)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensPowder.jpg?v=1763569397
     Price: $495.00 USD
   - [Maroon / XS](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826235252)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensMaroon.jpg?v=1763569397
     Price: $495.00 USD
   - [Maroon / S](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826268020)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensMaroon.jpg?v=1763569397
     Price: $495.00 USD
   - [Maroon / M](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826300788)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensMaroon.jpg?v=1763569397
     Price: $495.00 USD
   - [Maroon / L](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826333556)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensMaroon.jpg?v=1763569397
     Price: $495.00 USD
   - [Maroon / XL](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826366324)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensMaroon.jpg?v=1763569397
     Price: $495.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826399092)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensBlack.jpg?v=1763569397
     Price: $495.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826431860)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensBlack.jpg?v=1763569397
     Price: $495.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826464628)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensBlack.jpg?v=1763569397
     Price: $495.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826497396)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensBlack.jpg?v=1763569397
     Price: $495.00 USD
   - [Black / XL](https://aliciaadamsalpaca.com/products/leo-sweater?variant=53636826530164)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-LeoSweaterMensBlack.jpg?v=1763569397
     Price: $495.00 USD
 - [Buy Globetrotter Travel Set | Luxury Alpaca Travel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/globetrotter-travel-set): buy globetrotter travel set, luxury alpaca travel at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-14T15:20:43Z
+  Updated: 2025-11-19T13:52:28Z
   Vendor: alicia adams alpaca
-  Product Type: Accessories
+  Product Type: Travel Comfort Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah220-12-globetrotter-lightgrey-wood-hr_3.jpg?v=1756743369
   - [Light Taupe](https://aliciaadamsalpaca.com/products/globetrotter-travel-set?variant=40826892353651)
@@ -5757,7 +5782,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-spray_1.jpg?v=1749208121
     Price: $68.00 USD
 - [Buy Canyon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-throw): Buy Canyon Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T23:08:06Z
+  Updated: 2025-11-19T19:41:50Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -5791,7 +5816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1759498741
     Price: $395.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655979991412)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web.jpg?v=1761579535
     Price: $395.00 USD
   - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655980056948)
@@ -5803,7 +5828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759498517
     Price: $395.00 USD
   - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851000435)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1761579535
     Price: $395.00 USD
   - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51656650064244)
@@ -5873,7 +5898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-reversiblehat_deniumblue_charcoal_flatwhite.jpg?v=1759498174
     Price: $165.00 USD
 - [Buy Suri Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/suri-wrap): buy suri wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:47:39Z
+  Updated: 2025-11-19T05:47:44Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -7071,7 +7096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW207-49-Samira-Coat-Camel-Lookbook-46.jpg?v=1759843433
     Price: $975.00 USD
 - [Buy Blaine Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/blaine-cardigan): Buy Blaine Cardigan, luxury alpaca Cardigan at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T06:36:37Z
+  Updated: 2025-11-19T03:13:41Z
   Vendor: alicia adams alpaca
   Product Type: Cardigans & Vests
   Availability: Available
@@ -7470,7 +7495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw516-lounge-jogger-black-male-mannequin-white-front.jpg?v=1749205605
     Price: $145.00 USD
 - [Buy Gramercy Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gramercy-throw): buy gramercy throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-11T18:33:21Z
+  Updated: 2025-11-19T21:36:04Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -7518,22 +7543,22 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH227-15-Millbrook-Throw-Dark-Grey-Wood.jpg?v=1705362374
     Price: $495.00 USD
 - [Buy Kingston Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw): buy kingston throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:05:08Z
+  Updated: 2025-11-19T14:07:54Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C.jpg?v=1759492370
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/grey-kingston.jpg?v=1763561273
   - [Oatmeal](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw?variant=40826900611187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Kingston_Throw_oatmeal.jpg?v=1735329530
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-Kingston_Throw_oatmeal.jpg?v=1763561273
     Price: $495.00 USD
   - [Ice Blue](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw?variant=40826900578419)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-kingstonthrow_iceblue_flatwood.jpg?v=1749205379
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-kingstonthrow_iceblue_flatwood.jpg?v=1763561273
     Price: $495.00 USD
   - [Dark Grey](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw?variant=40259041329267)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah228-15-kingston-throw-dark-grey.jpg?v=1705358019
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-ah228-15-kingston-throw-dark-grey.jpg?v=1763561273
     Price: $495.00 USD
 - [Buy Mystic Square Pillow | Luxury Alpaca Pillow | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mystic-square-pillow): buy mystic square pillow, luxury alpaca pillow at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-11-18T17:21:19Z
@@ -10455,7 +10480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH121-93-MysticThrow-IndianSummer-FlatWhite.jpg?v=1762264638
     Price: $495.00 USD
 - [Buy Gia Jacket For Men | Luxury Alpaca Men's Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gia-jacket-for-men): buy gia jacket for men, luxury alpaca men's jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T14:36:28Z
+  Updated: 2025-11-19T03:12:42Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -11421,7 +11446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-f57558fe-2a48-48d0-ae5c-4611d2d37b26__83378.1656112890.1280.1280.jpg?v=1692886544
     Price: $165.00 USD
 - [Buy Bali Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/bali-throw): Buy Bali Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T16:03:00Z
+  Updated: 2025-11-19T20:29:01Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -11459,7 +11484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah231-102-12-balithrow-lighttaupe-lightgrey-flatwhite_1.jpg?v=1763481734
     Price: $950.00 USD
 - [Buy Twiggy Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/twiggy-sweater): buy twiggy sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T08:12:01Z
+  Updated: 2025-11-19T14:33:02Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -12065,7 +12090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_2878.jpg?v=1759491107
     Price: $550.00 USD
 - [Buy Casablanca Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-throw): Buy Casablanca Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T17:58:08Z
+  Updated: 2025-11-19T20:51:03Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12173,7 +12198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-tributo6821.jpg?v=1748942102
     Price: $1,120.00 USD
 - [Buy Reversible Vicuña Scarf | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-vicuna-scarf): buy reversible vicuña scarf, luxury alpaca scarf at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-07T13:13:54Z
+  Updated: 2025-11-19T14:41:08Z
   Vendor: alicia adams alpaca
   Product Type: Scarves
   Availability: Available
@@ -12181,11 +12206,11 @@
   - [Black / Navy](https://aliciaadamsalpaca.com/products/reversible-vicuna-scarf?variant=40354816589939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-tributo6612.jpg?v=1754057303
-    Price: $1,950.00 USD
+    Price: $1,365.00 USD
   - [Black / Natural](https://aliciaadamsalpaca.com/products/reversible-vicuna-scarf?variant=40826932068467)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-tributo6932.jpg?v=1754057303
-    Price: $1,950.00 USD
+    Price: $1,365.00 USD
 - [Buy Zebra Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/zebra-throw): buy zebra throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-11-10T16:25:58Z
   Vendor: alicia adams alpaca
@@ -12217,7 +12242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1759490717
     Price: $395.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-11-17T19:12:31Z
+  Updated: 2025-11-19T20:59:04Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12737,13 +12762,13 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite_8e458886-1db5-4f4d-98a2-62f7ff076760.jpg?v=1759490413
     Price: $690.00 USD
 - [Buy Canyon Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-wrap): Buy Canyon Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T17:13:06Z
+  Updated: 2025-11-19T19:39:53Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH114-01-114-27-3.jpg?v=1756734078
   - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851623027)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH114-02-01-12-3.jpg?v=1759490305
     Price: $495.00 USD
   - [Light Grey / Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851688563)
@@ -12751,7 +12776,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-12-14-01-CanyonThrow-LightGrey-Grey-Ivory-white-web_b7b9ce01-06a3-40bd-a623-937aa0671e9d.jpg?v=1737136537
     Price: $495.00 USD
   - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851786867)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-114-12-27-CanyonThrow-DenimBlue-LightGrey-Navy-white-web_11f0488b-d630-4462-86cd-675dfc93aa2a.jpg?v=1737136537
     Price: $495.00 USD
   - [Ivory / Denim Blue / Navy](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851328115)
@@ -12759,11 +12784,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-114-27-CanyonThrow-Ivory-DenimBlue-Navy-white-web_e31738e9-36ee-4412-a0aa-667d227ea489.jpg?v=1737136537
     Price: $495.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851721331)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-24-12-01-CanyonThrow-LightBlue-LightGrey-Ivory-white-web_ae11b033-a255-47f2-b4e1-f2c6a1b2154a.jpg?v=1737136537
     Price: $495.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851360883)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web_5069778c-dc5a-4677-ae73-bf65ed8420b2.jpg?v=1737136537
     Price: $495.00 USD
   - [Pink Powder / Ivory / Carbon](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851754099)
@@ -12771,7 +12796,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-110-01-120-CanyonThrow-PinkPowder-Ivory-Carbon-white-web_ba0bb22e-ec7c-45ad-9cff-36e3dc903fb2.jpg?v=1737136537
     Price: $495.00 USD
   - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851491955)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web_0b51f885-257d-4a6a-9eb7-7643eb227ea8.jpg?v=1737136537
     Price: $495.00 USD
   - [Bordeaux / Navy / Light Grey](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851459187)
@@ -12779,7 +12804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-107-27-12-CanyonThrow-Bordeaux-Navy-LightGrey-white-web_b7efaf73-d59d-4ac8-9d43-38e74623c41e.jpg?v=1737136537
     Price: $495.00 USD
   - [Taupe / Dark Grey / Paprika](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851655795)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web_2ec1d4b9-5189-4a05-94ab-4a8ad407a1ba.jpg?v=1737136537
     Price: $495.00 USD
   - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40605725360243)
@@ -12799,11 +12824,11 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-89-16-102-CanyonThrow-Hunter-Charcoal-LightTaupe-white-web_8f3f3980-1903-4f4d-9576-40e97d228563.jpg?v=1737136537
     Price: $495.00 USD
   - [Black / Charcoal / Light Grey](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851557491)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web_02ccaa47-dda0-4483-be52-73dd97aa7b2b.jpg?v=1737130979
     Price: $495.00 USD
   - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851590259)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web_57e1697e-e095-4bd4-b52d-946139b9e031.jpg?v=1737130979
     Price: $495.00 USD
 - [Buy Aberdeen Scarf | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aberdeen-scarf): Buy Aberdeen Scarf, luxury alpaca Scarf at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
@@ -12825,14 +12850,14 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $245.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T23:53:03Z
+  Updated: 2025-11-19T23:48:45Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/wrap_a_gift.png?v=1670827595
   Price: $5.00 USD
 - [Buy Maui Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/maui-wrap): buy maui wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T10:11:19Z
+  Updated: 2025-11-19T21:41:12Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -12850,7 +12875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SDAS522S-01-MauiWrap-SolidIvory-FlatWood_985d650c-3779-4437-9cdf-bb0bf9962f45.jpg?v=1741005862
     Price: $195.00 USD
   - [Striped Cognac / Ivory](https://aliciaadamsalpaca.com/products/maui-wrap?variant=52082639241588)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-as522-11-01wood.jpg?v=1749242598
     Price: $195.00 USD
   - [Striped Light Taupe](https://aliciaadamsalpaca.com/products/maui-wrap?variant=40826917060723)
@@ -12918,7 +12943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as522-11-17-stripedcognac-black-flatwood.jpg?v=1741005862
     Price: $195.00 USD
 - [Spencer Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/spencer-sweater-1): buy spencer sweater, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T23:43:42Z
+  Updated: 2025-11-19T20:02:17Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -13004,7 +13029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-am109-17-spencersweater-black-modelwood.jpg?v=1759490188
     Price: $185.00 USD
 - [Buy Wellington Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/wellington-throw): buy wellington throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-17T10:11:21Z
+  Updated: 2025-11-19T02:34:49Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -13339,7 +13364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_3365.jpg?v=1759490041
     Price: $275.00 USD
 - [Buy Reversible Hat for Men | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-hat-for-men): buy reversible hat for men, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T19:29:37Z
+  Updated: 2025-11-19T18:49:22Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -14049,7 +14074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C---AW130-27-112-Innsbruck-Cardigan--Navy-Pearl-Grey-Lookbook-3.jpg?v=1759489415
     Price: $595.00 USD
 - [Buy Vicuna Crew Neck Sweater | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-crew-neck-sweater): buy vicuna crew neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:33:50Z
+  Updated: 2025-11-19T03:34:12Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -14103,7 +14128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-tributo6193.jpg?v=1763480030
     Price: $1,680.00 USD
 - [Buy Vicuña Saddle Shoulder Crew Neck For Men | Luxury Vicuña Men's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-saddle-shoulder-crew-neck-for-men): buy vicuña saddle shoulder crew neck for men, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:35:07Z
+  Updated: 2025-11-19T03:26:48Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -14141,7 +14166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-vicuna2326.jpg?v=1763480106
     Price: $1,680.00 USD
 - [Buy Vicuña V Neck Sweater | Luxury Vicuña Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-v-neck-sweater-for-men): buy vicuña v neck sweater, luxury alpaca men's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:35:41Z
+  Updated: 2025-11-19T18:46:06Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -14155,7 +14180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-mensvnecknatural.jpg?v=1763480141
     Price: $1,680.00 USD
   - [Natural / L](https://aliciaadamsalpaca.com/products/vicuna-v-neck-sweater-for-men?variant=41043351896179)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-mensvnecknatural.jpg?v=1763480141
     Price: $1,680.00 USD
   - [Natural / XL](https://aliciaadamsalpaca.com/products/vicuna-v-neck-sweater-for-men?variant=41043351928947)
@@ -14179,7 +14204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-mensvneckblack_1.jpg?v=1763480141
     Price: $1,680.00 USD
 - [Buy Vicuña Boat Neck Sweater | Luxury Vicuña Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/vicuna-boat-neck-sweater): buy vicuña boat neck sweater, luxury alpaca women's sweater at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:34:12Z
+  Updated: 2025-11-19T04:12:12Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -14274,7 +14299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-vicuna2144.jpg?v=1759489286
     Price: $1,540.00 USD
 - [Buy Boulder Throw | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/boulder-throw-2): Buy Boulder Throw, luxury alpaca Blanket at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:42:36Z
+  Updated: 2025-11-19T17:13:37Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -14407,54 +14432,54 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C-AW204-17-KeatonTurtleneck-Black-Lookbook-6.jpg?v=1759489067
     Price: $285.00 USD
 - [Montauk Throw](https://aliciaadamsalpaca.com/products/montauk-throw): Experience rustic elegance with the alicia adams alpaca Montauk Throw, a versatile and eco-conscious throw blanket. Perfect for car rides or cozying up on the sofa, its heavier weight and rustic texture provide unmatched warmth and style. With a distinctive whipstitch trim, this fair-trade throw is a unique addition to any space. Reduce your carbon footprint with this sustainably sourced blanket, ensuring comfort for you and your loved ones. The Montauk Throw is being made using an upcycling process that was recently awarded the German Design Award. Note on Appearance: This throw blanket is made from a beautiful upcycled alpaca blend. Small variations, such as darker threads or light spots, are normal characteristics of this sustainable fiber blend. Each piece is unique, eco-friendly, and carefully inspected to meet our quality standards. Sustainable. Durable. Thoughtfully made. Dimensions: 51 in. x 71 in. Materials: 52% recycled alpaca, 33% recycled wool, 15% cotton Product Care: Dry clean only Proudly fair-trade made in Peru.
-  Updated: 2025-11-18T23:54:54Z
+  Updated: 2025-11-19T23:32:22Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1763506548
-  - [Blue Sapphire / Chambray](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662867316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-172-111-folded-wood.jpg?v=1761938578
-    Price: $565.00 USD
-  - [Navy / Pearl Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082663031156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1763506548
-    Price: $565.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-215-folded_1a4c89d3-fcf2-4759-9c14-b4d8c24d8347.jpg?v=1763512603
   - [Navy / Spa Blue](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082663063924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-215-folded_1a4c89d3-fcf2-4759-9c14-b4d8c24d8347.jpg?v=1761938578
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-27-215-folded_1a4c89d3-fcf2-4759-9c14-b4d8c24d8347.jpg?v=1763512603
     Price: $565.00 USD
-  - [Grey / Navy](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662998388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-218-27_3.jpg?v=1759426222
+  - [Blue Sapphire / Chambray](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662867316)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-172-111-folded-wood.jpg?v=1761938578
     Price: $565.00 USD
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740318323)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-110-01-MontaukThrow-PinkPowder-Ivory-Flat-Wood.jpg?v=1763506548
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-110-01-MontaukThrow-PinkPowder-Ivory-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [French Yellow / Ivory](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662932852)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-90-01MontaukFrenchYellow-ivory_2.jpg?v=1763506548
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-90-01MontaukFrenchYellow-ivory_2.jpg?v=1763512603
     Price: $565.00 USD
   - [Denim Blue / Chambray](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740220019)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-114-111-MontaukThrow-DenimBlue-Chambray-Flat-Wood.jpg?v=1759426222
     Price: $565.00 USD
+  - [Grey / Navy](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662998388)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-218-27_3.jpg?v=1759426222
+    Price: $565.00 USD
   - [Army Green / Light Taupe](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740351091)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-89-102-MontaukThrow-Hunter-LightTaupe-Flat-Wood.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-89-102-MontaukThrow-Hunter-LightTaupe-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [Ivory / Light Taupe](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740187251)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-102-MontaukThrow-Ivory-LightTaupe-Flat-Wood.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-01-102-MontaukThrow-Ivory-LightTaupe-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [Beige / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740383859)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [Navy / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740285555)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1763512603
+    Price: $565.00 USD
+  - [Navy / Pearl Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082663031156)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-27-12-MontaukThrow-Navy-LightGrey-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [Ivory / Light Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=42282740154483)
     Availability: Not Available
@@ -14466,15 +14491,15 @@
     Price: $565.00 USD
   - [Ivory / Light Green](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662900084)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-01-219-folded.jpg?v=1761938578
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-01-219-folded.jpg?v=1763512603
     Price: $565.00 USD
   - [Light Taupe / Grey](https://aliciaadamsalpaca.com/products/montauk-throw?variant=52082662965620)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AHD305-02-12-MontaukThrow-Beige-LightGrey-Flat-Wood.jpg?v=1763512603
     Price: $565.00 USD
   - [Cognac / Beige](https://aliciaadamsalpaca.com/products/montauk-throw?variant=53456800973172)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-10-02Cognac-Beige.jpg?v=1763506548
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD305-10-02Cognac-Beige.jpg?v=1763512603
     Price: $565.00 USD
 - [Swap Gift Card](https://aliciaadamsalpaca.com/products/swap-gift-card)
   Updated: 2025-10-20T12:12:20Z
@@ -14933,22 +14958,22 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah239-13.jpg?v=1763383318
     Price: $1,690.00 USD
 - [Buy Cabin Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/cabin-cape): buy cabin cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T18:15:51Z
+  Updated: 2025-11-19T06:21:57Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/OlsenCape-Tobacco.jpg?v=1763489751
   - [Camel / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945931124)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763489751
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1763556899
     Price: $325.00 USD
   - [Scarlet / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946226036)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763489751
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1763556877
     Price: $795.00 USD
   - [Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945865588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763489751
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1763556877
     Price: $795.00 USD
   - [Navy / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946062196)
     Availability: Available
@@ -14960,7 +14985,7 @@
     Price: $325.00 USD
   - [Forest Green / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827946127732)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1759425876
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1763556582
     Price: $325.00 USD
   - [Light Grey / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945636212)
     Availability: Available
@@ -14968,7 +14993,7 @@
     Price: $325.00 USD
   - [Light Taupe / ONE SIZE](https://aliciaadamsalpaca.com/products/cabin-cape?variant=51827945996660)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1759425876
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1763556899
     Price: $795.00 USD
 - [Buy Zumita Cardigan | Luxury Alpaca Cardigan | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/zumita-cardigan): Buy Zumita Cardigan, luxury alpaca Cardigan at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-11-18T21:21:31Z
@@ -15037,7 +15062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/aw211-17zumitacardiganblack.jpg?v=1748891348
     Price: $395.00 USD
 - [Buy Derby Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/derby-wrap): buy derby wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-11T21:09:12Z
+  Updated: 2025-11-19T21:58:16Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -15045,59 +15070,59 @@
   - [Admirals Blue / Ivory](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699502964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0258.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Light Grey / Ivory](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699568500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0302.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Chambray / Denim Blue](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699634036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0261.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Light Grey / Charcoal](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699830644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0300.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Cognac / Black](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699732340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0271.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Light Grey / Bark](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699699572)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0296.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Dusted Red / Venetian Red](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699797876)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0278.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Firecracker / Light Taupe](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52073605202292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0284.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Ivory / Beige](https://aliciaadamsalpaca.com/products/derby-wrap?variant=52056699863412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0290.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Sweetheart / Pink Powder](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442269044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0310.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Mauve / Purple](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442236276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0307.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Teal / Aqua](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442301812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0314.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
   - [Velvet Green / Sage](https://aliciaadamsalpaca.com/products/derby-wrap?variant=53466442334580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1759424197
-    Price: $345.00 USD
+    Price: $325.00 USD
 - [Buy Notting Hill Wrap | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/notting-hill-wrap): buy notting hill wrap, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-15T10:06:59Z
+  Updated: 2025-11-19T13:44:16Z
   Vendor: alicia adams alpaca
-  Product Type: Scarves & Wraps
+  Product Type: Blankets & Throws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AHD307-01-02Ivory-Beige_3.jpg?v=1761734764
   - [Ivory / Beige](https://aliciaadamsalpaca.com/products/notting-hill-wrap?variant=53595791491444)
@@ -15369,7 +15394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP124-110-01PinkPowder-IvoryHR.jpg?v=1751995414
     Price: $355.00 USD
 - [Capri Wrap](https://aliciaadamsalpaca.com/products/capri-wrap): The Capri Wrap features an ombre stripe design. It functions as a wrap, a scarf, a stole, or even a shawl. The feather-weight baby alpaca and silk blend makes it the perfect accessory for warmer months. Wear one or two - it's a versatile look and a great way to layer in transitional weather. Since it's airy and light, it folds away easily (or ties onto your bag), so you're never without something to throw over your shoulders, should you catch a chill. This lightweight wrap in an ombre lined pattern is the perfect wrap all year round. Dimensions: 28 in. x 76 in. plus 3/4 in. eyelash fringe Materials: 70% Baby Alpaca Wool, 30% Silk Product Care: Dry Clean Only Proudly fair-trade made in Peru.
-  Updated: 2025-11-17T10:11:19Z
+  Updated: 2025-11-19T18:18:27Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -15407,136 +15432,136 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0220.jpg?v=1762257149
     Price: $195.00 USD
 - [Dog Collar](https://aliciaadamsalpaca.com/products/dog-collar): Make your pup shine with one of these classic collars. These collars are handmade in Appenzell, Switzerland since many generations, using only the highest quality leather and brass embellishments. They are made to last for years and years and only get better over time. Please use the “Measuring Chart” to select the right size for your pet. Materials: 100% sustainable Swiss leather
-  Updated: 2025-11-12T12:56:56Z
+  Updated: 2025-11-19T14:09:50Z
   Vendor: alicia adams alpaca
   Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-redcollarlifestyle1.jpg?v=1756484435
-  - [Tan / Slim / 34 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851438964)
+  - [Tan / Slim / 34cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851438964)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Tan / Slim / 37 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851471732)
+  - [Tan / Slim / 37cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851471732)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Tan / Slim / 40 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851504500)
+  - [Tan / Slim / 40cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851504500)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Tan / Wide / 55 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851799412)
+  - [Tan / Wide / 55cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851799412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Tan / Wide / 60 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851832180)
+  - [Tan / Wide / 60cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851832180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Tan / Wide / 65 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851864948)
+  - [Tan / Wide / 65cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851864948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Tan / Wide / 70 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851897716)
+  - [Tan / Wide / 70cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851897716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Tan / Wide / 75 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851930484)
+  - [Tan / Wide / 75cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851930484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-TanCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Red / Slim / 34 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851963252)
+  - [Red / Slim / 34cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851963252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Red / Slim / 37 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851996020)
+  - [Red / Slim / 37cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994851996020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Red / Slim / 40 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852028788)
+  - [Red / Slim / 40cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852028788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Red / Wide / 55 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852323700)
+  - [Red / Wide / 55cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852323700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Red / Wide / 60 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852356468)
+  - [Red / Wide / 60cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852356468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Red / Wide / 65 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852389236)
+  - [Red / Wide / 65cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852389236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Red / Wide / 70 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852422004)
+  - [Red / Wide / 70cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852422004)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Red / Wide / 75 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852454772)
+  - [Red / Wide / 75cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852454772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-RedCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Black / Slim / 34 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852487540)
+  - [Black / Slim / 34cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852487540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Black / Slim / 37 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852520308)
+  - [Black / Slim / 37cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852520308)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Black / Slim / 40 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852553076)
+  - [Black / Slim / 40cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852553076)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Black / Wide / 55 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852847988)
+  - [Black / Wide / 55cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852847988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Black / Wide / 60 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852880756)
+  - [Black / Wide / 60cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852880756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Black / Wide / 65 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852913524)
+  - [Black / Wide / 65cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852913524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Black / Wide / 70 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852946292)
+  - [Black / Wide / 70cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852946292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Black / Wide / 75 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852979060)
+  - [Black / Wide / 75cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994852979060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BlackCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Brown / Slim / 34 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853011828)
+  - [Brown / Slim / 34cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853011828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Brown / Slim / 37 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853044596)
+  - [Brown / Slim / 37cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853044596)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Brown / Slim / 40 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853077364)
+  - [Brown / Slim / 40cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853077364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $60.00 USD
-  - [Brown / Wide / 55 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853372276)
+  - [Brown / Wide / 55cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853372276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Brown / Wide / 60 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853405044)
+  - [Brown / Wide / 60cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853405044)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Brown / Wide / 65 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853437812)
+  - [Brown / Wide / 65cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853437812)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Brown / Wide / 70 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853470580)
+  - [Brown / Wide / 70cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853470580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
-  - [Brown / Wide / 75 cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853503348)
+  - [Brown / Wide / 75cm](https://aliciaadamsalpaca.com/products/dog-collar?variant=52994853503348)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-BrownCollar_Leash.jpg?v=1756486286
     Price: $75.00 USD
@@ -15581,9 +15606,9 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AC207-17RodeoBlack_1.jpg?v=1759419646
     Price: $585.00 USD
 - [Buy Westwood Wrap | Luxury Alpaca Wraps | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/westwood-wrap): buy westwood wrap, luxury alpaca wraps at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-07T13:17:51Z
+  Updated: 2025-11-19T14:28:41Z
   Vendor: alicia adams alpaca
-  Product Type: Blankets & Throws
+  Product Type: Scarves & Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Wellington_Throw_-_IvoryBeige.jpg?v=1738668576
   - [Dark Grey / Charcoal](https://aliciaadamsalpaca.com/products/westwood-wrap?variant=53356606226804)
@@ -15607,9 +15632,9 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1399.jpg?v=1759490153
     Price: $495.00 USD
 - [Classic Throw Swatch Ring](https://aliciaadamsalpaca.com/products/classic-throw-swatch-ring)
-  Updated: 2025-11-12T13:03:08Z
+  Updated: 2025-11-19T13:44:16Z
   Vendor: alicia adams alpaca
-  Product Type: Bed Blankets
+  Product Type: Blankets & Throws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-SwatchRingonwood.jpg?v=1758901805
   Price: $160.00 USD
@@ -15736,64 +15761,64 @@
 ## Collections
 
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-11-18T13:50:36Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 114
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
-  Updated: 2025-11-16T12:16:28Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 19
 - [Alicia Adams Alpaca | Home Living | Alpaca Home Decor](https://aliciaadamsalpaca.com/collections/home-living): Discover luxurious artisan-crafted alpaca home decor and accessories that blend sophistication and comfort. Explore exquisite alpaca throws, blankets, pillows.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 78
 - [alicia adams alpaca | girls | girl's clothing & accessories](https://aliciaadamsalpaca.com/collections/shop-children-girls): Our girls collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
-  Updated: 2025-11-11T12:17:13Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 9
 - [Designer Alpaca Capes and Wraps | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/capes-wraps): Discover our women’s wraps, capes, and ponchos crafted from the finest alpaca wool in an array of proprietary colors, patterns, providing effortless elegance.
-  Updated: 2025-11-17T10:11:12Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 44
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-11-16T12:16:28Z
   Total Products: 14
 - [Women's Designer Alpaca Accessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/accessories-for-her): Artisan-crafted alpaca women’s designer accessories. Elevate your signature style with unique hats, gloves, and wraps, providing an air of timeless elegance.
-  Updated: 2025-11-18T13:52:12Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 39
 - [Luxury Alpaca Nursery & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-shower-nursery-gifts): Discover our luxurious alpaca nursery gifts. Shop heirloom-worthy, eco-friendly gifts perfect for any child's nursery.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 19
 - [Shop Men's Apparel | Luxury Alpaca Apparel for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/mens-apparel): Artisan-made alpaca sweaters and cardigans, shop our men's apparel and choose from an array of accessories for gifting and accenting wardrobes.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 21
 - [Luxury Alpaca Gifts for Women | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-for-her): Indulge in our curated assortment of special gifts for her. Make any holiday, birthday, or moment unforgettable with luxe alpaca apparel, accessories, and more.
-  Updated: 2025-11-18T13:52:12Z
+  Updated: 2025-11-19T13:52:29Z
   Total Products: 66
 - [alicia adams alpaca | gifts for home | alpaca home gifts](https://aliciaadamsalpaca.com/collections/gifts-for-home): Our gifts for home offer artisan-crafted baby alpaca pillows, throws and blankets, to luxurious accents. These alpaca goods are the perfect housewarming gift.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 52
 - [alicia adams alpaca | boys | alpaca clothes for boys](https://aliciaadamsalpaca.com/collections/shop-children-boys): Our boys collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
-  Updated: 2025-11-10T15:59:32Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 6
 - [Luxe Alpaca Gifts For Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-for-children): Explore curated alpaca gifts for babies and children, toys, hats, and scarves. Shop the most adorable, timeless clothing made from the softest baby alpaca.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 18
 - [Luxury Alpaca Gifts for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-gifts-for-him): Browse a timeless selection of luxury gifts for men. Our irresistible, soft, and luxurious alpaca gifts are perfect for any birthday, anniversary, or occasion.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T14:41:09Z
   Total Products: 31
 - [Alpaca Clothing Gifts For Toddlers & Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-toddlers): Shop our alpaca toddler and children’s clothing and accessories. Keep them cozy and comfortable all day long with our luxurious children’s alpaca.
-  Updated: 2025-11-11T12:17:13Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 11
 - [Shop Women's Apparel | Luxury Alpaca Womens Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/womens-apparel): Artisan alpaca sweaters, tops, capes and shawls, and more, shop our women's apparel and choose from an array styles and colors fit for any wardrobe and season.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T13:44:18Z
   Total Products: 44
 - [Luxury Decorative Throw Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/decorative-pillows): Discover hypoallergenic, custom decorative alpaca pillows to add elegance to any room. Explore colors and styles including throw pillows, lumbar, and euros.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 17
 - [Men's Designer Alpaca Accessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/mens-accessories): Shop our collection of designer alpaca accessories for men. Add a finishing touch to any look with premium quality handcrafted alpaca hats, gloves, and scarves.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:41:09Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 307
 - [alicia adams alpaca | home fragrance | room spray & candles](https://aliciaadamsalpaca.com/collections/home-living-home-fragrance): Transform the feel of your home with our luxe home fragrance collection featuring incredibly scented room sprays and candles.
   Updated: 2025-11-18T12:20:12Z
@@ -15808,7 +15833,7 @@
   Updated: 2025-09-25T11:41:06Z
   Total Products: 8
 - [Shop Scandia Down Sleep Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/scandia-home-sleep-pillows): Shop Scandia Home Down Sleep Pillows. Earn rewards on every purchase. Free shipping over $175.
-  Updated: 2025-09-09T19:35:40Z
+  Updated: 2025-11-19T13:46:52Z
   Total Products: 9
 - [Scandia Down Free Pillows & Comforters | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/down-free-bedding): Shop Scandia Down Free Pillows & Comforters. Earn rewards on every purchase. Free shipping over $175.
   Updated: 2025-09-09T19:35:40Z
@@ -15817,7 +15842,7 @@
   Updated: 2025-11-16T12:16:27Z
   Total Products: 5
 - [Scandia Home | Scandia Down and Fine Linens | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/scandia-home): Shop the latest collection Scandia Down and Fine Linens at Alicia Adams Alpaca. Earn rewards on every purchase. Free shipping over $175
-  Updated: 2025-11-16T12:16:27Z
+  Updated: 2025-11-19T13:46:52Z
   Total Products: 49
 - [Scandia Fine Linens | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/fine-linens): Shop the latest collection Scandia Home Fine Linens at Alicia Adams Alpaca. Earn rewards on every purchase. Free shipping over $175.
   Updated: 2025-09-09T19:35:40Z
@@ -15826,76 +15851,76 @@
   Updated: 2025-10-30T19:39:14Z
   Total Products: 3
 - [Scandia Home Travel Accessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/scandia-home-travel-accessories): Shop Scandia Home Travel Accessories, Travel Pillows. Earn rewards on every purchase. Free Shipping Over $175.
-  Updated: 2025-09-09T19:35:40Z
+  Updated: 2025-11-19T13:46:52Z
   Total Products: 3
 - [Vicuña Alpaca Luxury Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/vicuna): Shop the pinnacle of luxury - vicuña wool clothing, sweaters, and scarves. Indulge in pieces made from the rarest alpaca fiber, meticulously artisan-crafted.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T14:41:09Z
   Total Products: 10
 - [New Highlights](https://aliciaadamsalpaca.com/collections/new-highlights): Shop our newest styles in home decor, apparel, accessories, and gifts. We take great care in creating products from farm-to-shelf to offer you the finest quality and high style. We offer a great variety of home decor items, including, but not limited to throws and blankets, travel sets, pillows, hot water bottles, and more.
-  Updated: 2025-11-17T10:09:24Z
-  Total Products: 16
+  Updated: 2025-11-19T21:58:17Z
+  Total Products: 19
 - [Holiday Sale](https://aliciaadamsalpaca.com/collections/holiday-gifts): With the holidays coming up, we have selected some beautiful items from our collection to make a special gift to your loved ones.
-  Updated: 2025-11-18T15:37:35Z
-  Total Products: 113
+  Updated: 2025-11-19T14:41:09Z
+  Total Products: 114
 - [alicia adams alpaca | best sellers](https://aliciaadamsalpaca.com/collections/best-sellers): Shop best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T12:20:12Z
-  Total Products: 35
+  Updated: 2025-11-19T16:53:30Z
+  Total Products: 38
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 229
 - [Sale for Her | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-her): Shop our exclusive women’s sale. Bring a new look to your wardrobe with our selection of limited-time discounted luxe alpaca apparel and accessories.
-  Updated: 2025-11-18T15:32:55Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 50
 - [Sale for Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-children): Discover our exclusive children’s sale. Enjoy our luxuriously soft alpaca apparel and accessories for toddlers and children.
-  Updated: 2025-11-16T12:16:28Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 12
 - [Sale for Him | Men's Sale Alpaca Apparel and Acccessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-him): Shop our exclusive men’s sale. Indulge in the luxurious touch of alpaca apparel and accessories that elevate any man’s look at a limited-time discount.
-  Updated: 2025-11-18T12:20:12Z
-  Total Products: 17
+  Updated: 2025-11-19T14:41:38Z
+  Total Products: 18
 - [Sale for Home | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-home): Explore our home sale selection. Elevate your home’s look with our luxurious alpaca throws, blankets, pillows, and more at a discounted price.
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 24
 - [Sale | Luxury Alpaca Home Decor and Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale): Shop the latest reductions in alpaca home decor, apparel, and accessories from Alicia Adams Alpaca. Earn rewards on every purchase.
-  Updated: 2025-11-18T15:13:02Z
-  Total Products: 117
+  Updated: 2025-11-19T14:41:38Z
+  Total Products: 118
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-11-18T15:32:55Z
-  Total Products: 253
+  Updated: 2025-11-19T21:58:17Z
+  Total Products: 252
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-11-18T17:19:31Z
-  Total Products: 247
+  Updated: 2025-11-19T18:18:51Z
+  Total Products: 245
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
-  Updated: 2025-11-18T15:32:55Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 89
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-11-18T15:32:56Z
-  Total Products: 248
+  Updated: 2025-11-19T21:58:17Z
+  Total Products: 247
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T14:41:09Z
   Total Products: 42
 - [Holiday Gift Guide](https://aliciaadamsalpaca.com/collections/holiday-gift-guide)
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 19
 - [Scandia Products](https://aliciaadamsalpaca.com/collections/scandia-products)
   Updated: 2025-11-16T12:16:27Z
   Total Products: 46
 - [Discountable](https://aliciaadamsalpaca.com/collections/discountable2)
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 201
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-11-18T15:13:02Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 343
 - [Featured Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/featured-products): Discover Alicia Adams Alpaca's premium featured collection—luxurious alpaca scarves, wraps, and accessories. Handcrafted for elegance, warmth, and sustainability. Shop now!
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T13:44:18Z
   Total Products: 23
 - [Accessories](https://aliciaadamsalpaca.com/collections/accessories)
-  Updated: 2025-11-18T13:52:12Z
+  Updated: 2025-11-19T21:58:17Z
   Total Products: 43
 - [Featured Sale](https://aliciaadamsalpaca.com/collections/featured-sale): Shop Our Best Deals
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 15
 - [Tops & Sweaters](https://aliciaadamsalpaca.com/collections/tops-sweaters)
-  Updated: 2025-11-18T18:10:48Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 31
 - [Shirts & Sweaters](https://aliciaadamsalpaca.com/collections/shirts-sweaters)
   Updated: 2025-11-18T15:13:02Z
@@ -15904,16 +15929,16 @@
   Updated: 2025-11-18T12:20:12Z
   Total Products: 9
 - [Men's Coats & Jackets](https://aliciaadamsalpaca.com/collections/mens-coats-jackets)
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 4
 - [Color of the Month](https://aliciaadamsalpaca.com/collections/color-of-the-month)
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:15:28Z
   Total Products: 30
 - [Trade Exclusions](https://aliciaadamsalpaca.com/collections/trade-exclusions)
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 2
 - [Wedding Gifts](https://aliciaadamsalpaca.com/collections/wedding-gifts)
-  Updated: 2025-11-18T12:20:12Z
+  Updated: 2025-11-19T14:17:07Z
   Total Products: 27
 - [Gifts for Pets](https://aliciaadamsalpaca.com/collections/gifts-for-pets)
   Updated: 2025-11-12T13:53:54Z
@@ -15922,8 +15947,611 @@
   Updated: 2025-11-16T12:16:27Z
   Total Products: 16
 - [The Hudson Collection](https://aliciaadamsalpaca.com/collections/hudson-collection)
-  Updated: 2025-11-17T12:18:54Z
+  Updated: 2025-11-19T12:20:04Z
   Total Products: 5
+
+## Blogs
+
+- [Blog | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog): read our blog posts at alicia adams alpaca.
+  - [What is the Difference Between Alpaca and Other Natural Fibers? November 17, 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/what-is-the-difference-between-alpaca-and-other-natural-fibers): What is the Difference Between Alpaca and Other Natural Fibers? November 17, 2022 | alicia adams alpaca
+    Updated: 2025-08-07T17:09:45Z
+    Author: Alicia A
+  - [Why Alpaca Has Become a Staple in High Fashion and How alicia adams alpaca Paved the Way December 12, 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/why-alpaca-has-become-such-a-staple-in-high-fashion-and-how-alicia-adams-alpaca-paved-the-way): Why Alpaca Has Become a Staple in High Fashion and How alicia adams alpaca Paved the Way December 12, 2022 | alicia adams alpaca
+    Updated: 2025-08-07T17:10:44Z
+    Author: Alicia A
+  - [Why are People Fascinated with Alpacas? November 17, 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/why-are-people-fascinated-with-alpacas): Why are People Fascinated with Alpacas? November 17, 2022 | alicia adams alpaca
+    Updated: 2025-08-07T17:11:18Z
+    Author: Alicia A
+  - [Is Alpaca Wool Warm? February 7, 2023 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/is-alpaca-wool-warm): Is Alpaca Wool Warm? February 7, 2023 | alicia adams alpaca
+    Updated: 2025-08-07T17:04:53Z
+    Author: Alicia A
+  - [Utilize Color to Transform Your Home Decor Every Season March 6, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/utilize-color-to-transform-your-home-decor-every-season): Utilize Color to Transform Your Home Decor Every Season March 6, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:09:22Z
+    Author: Alicia A
+  - [The Best Travel Sets for Spring & Summer Adventures March 18, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/the-best-travel-sets-for-spring-amp-summer-adventures): The Best Travel Sets for Spring & Summer Adventures March 18, 2025 | alicia adams alpaca
+    Updated: 2025-08-12T11:37:08Z
+    Author: Alicia A
+  - [How to Layer for Warmer Days & Chilly Nights March 19, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/how-to-layer-for-warmer-days-chilly-nights): How to Layer for Warmer Days & Chilly Nights March 19, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T16:59:31Z
+    Author: Alicia A
+  - [The Ultimate Easter Gift Guide for Stylish Kids March 31, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/the-ultimate-easter-gift-guide-for-stylish-kids): The Ultimate Easter Gift Guide for Stylish Kids March 31, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:08:22Z
+    Author: Alicia A
+  - [Why Joining Our Loyalty Program Pays Off March 31, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/why-joining-our-loyalty-program-pays-off): Why Joining Our Loyalty Program Pays Off March 31, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:12:06Z
+    Author: Alicia A
+  - [How to Maximize Timeless Luxury Pieces: A Guide to Getting the Best Value on Investment Pieces March 31, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/how-to-maximize-timeless-luxury-pieces-a-guide-to-getting-the-best-value-on-investment-pieces): How to Maximize Timeless Luxury Pieces: A Guide to Getting the Best Value on Investment Pieces March 31, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:00:14Z
+    Author: Alicia A
+  - [Author](https://aliciaadamsalpaca.com/blogs/blog/author)
+    Updated: 2025-08-07T13:32:18Z
+    Author: Moises Solano
+  - [Alicia Adams Alpaca Fiber Guide: From Vicuña to Recycled Blends April 18, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/alicia-adams-alpaca-fiber-guide-from-vicuna-to-recycled-blends): Alicia Adams Alpaca Fiber Guide: From Vicuña to Recycled Blends April 18, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T16:59:07Z
+    Author: Alicia A
+  - [Is It Time to Break Up with Cashmere? Let’s Talk Alpaca April 23, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/is-it-time-to-break-up-with-cashmere-let-s-talk-alpaca): Is It Time to Break Up with Cashmere? Let’s Talk Alpaca April 23, 2025 | alicia adams alpaca
+    Updated: 2025-08-27T13:59:13Z
+    Author: Alicia A
+  - [The Summer Style Guide: Home & Apparel by Category June 25, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/the-summer-style-guide-home-and-apparel-by-category): The Summer Style Guide: Home & Apparel by Category June 25, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:07:48Z
+    Author: Alicia A
+  - [Summer Refresh: Essentials for a Cozy & Stylish Home July 1, 2025 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/blog/summer-refresh-essentials-for-a-cozy-stylish-home): Summer Refresh: Essentials for a Cozy & Stylish Home July 1, 2025 | alicia adams alpaca
+    Updated: 2025-08-07T17:06:17Z
+    Author: Alicia A
+  - [Grazia](https://aliciaadamsalpaca.com/blogs/blog/grazia-jan-2012)
+    Updated: 2025-08-11T15:42:22Z
+    Author: Mariana Calero
+  - [Wrapped in Fall: Cozy Layers for You and Your Home](https://aliciaadamsalpaca.com/blogs/blog/wrapped-in-fall-cozy-layers-for-you-and-your-home)
+    Updated: 2025-09-17T14:57:44Z
+    Author: Daniella Padilla
+  - [The Wedding Gift Guide: Timeless Treasures for Every Couple](https://aliciaadamsalpaca.com/blogs/blog/the-wedding-gift-guide-timeless-treasures-for-every-couple)
+    Updated: 2025-10-31T12:38:22Z
+    Author: Daniella Padilla
+  - [Luxury at Every Price: Gifts Under $100, $175, $250 & $500](https://aliciaadamsalpaca.com/blogs/blog/luxury-at-every-price-gifts-under-100-175-250-500)
+    Updated: 2025-10-31T12:37:08Z
+    Author: Daniella Padilla
+  - [Perfect Presents for Every Person on Your List](https://aliciaadamsalpaca.com/blogs/blog/perfect-presents-for-every-person-on-your-list)
+    Updated: 2025-11-13T10:47:34Z
+    Author: Daniella Padilla
+- [News | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/news): Read news and press articles featuring alicia adams alpaca products.
+  - [Yahoo Life - November 30, 2024 | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/blogs/news/yahoo-life): Yahoo Life - November 30, 2024 | Alicia Adams Alpaca
+    Updated: 2024-12-05T17:27:41Z
+    Author: Daniella Padilla
+  - [Grownup Girl Fashion - February, 2025 | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/blogs/news/grownup-girl-fashion): Grownup Girl Fashion - February, 2025 | Alicia Adams Alpaca
+    Updated: 2025-03-18T14:52:28Z
+    Author: Alicia A
+- [Press](https://aliciaadamsalpaca.com/blogs/press)
+  - [Rural Intelligence January 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/rural-intelligence-jan-2017): Rural Intelligence January 2017 | alicia adams alpaca
+    Updated: 2025-08-11T13:08:13Z
+    Author: Mariana Calero
+  - [Rural Intelligence September 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/rural-intelligence-sep-2016): Rural Intelligence September 2016 | alicia adams alpaca
+    Updated: 2025-08-11T13:11:49Z
+    Author: Mariana Calero
+  - [Elle Decor July 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-jul-2012): Elle Decor July 2012 | alicia adams alpaca
+    Updated: 2025-08-11T13:06:45Z
+    Author: Mariana Calero
+  - [In New York December 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/in-new-york-dec-2013): In New York December 2013 | alicia adams alpaca
+    Updated: 2025-08-11T12:49:50Z
+    Author: Mariana Calero
+  - [Elle China December 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-china-dec-2012): Elle China December 2012 | alicia adams alpaca
+    Updated: 2025-08-14T12:04:24Z
+    Author: Mariana Calero
+  - [B.D Jeffries November 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/b-d-jeffries-nov-2017): B.D Jeffries November 2017 | alicia adams alpaca
+    Updated: 2025-08-14T11:50:47Z
+    Author: Mariana Calero
+  - [Bunte July 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/bunte-jul-2014): Bunte July 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:35:44Z
+    Author: Mariana Calero
+  - [Gift Shop September 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/gift-shop-sep-2015): Gift Shop September 2015 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:13Z
+    Author: Mariana Calero
+  - [Country Living November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/country-living-nov-2011): Country Living November 2011 | alicia adams alpaca
+    Updated: 2025-08-11T13:11:12Z
+    Author: Mariana Calero
+  - [Glamour UK June 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/glamour-uk-jul-2020): Glamour UK June 2020 | alicia adams alpaca
+    Updated: 2025-08-14T11:58:57Z
+    Author: Mariana Calero
+  - [Discovery Life October 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/discovery-life-oct-2016): Discovery Life October 2016 | alicia adams alpaca
+    Updated: 2025-08-12T11:53:00Z
+    Author: Mariana Calero
+  - [Hudson Valley Magazine November 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hudson-valley-magazine-dec-2018): Hudson Valley Magazine November 2018 | alicia adams alpaca
+    Updated: 2025-08-11T11:59:48Z
+    Author: Mariana Calero
+  - [Global Guide December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/global-guide-dec-2011): Global Guide December 2011 | alicia adams alpaca
+    Updated: 2025-08-14T11:58:12Z
+    Author: Mariana Calero
+  - [Departures July 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/departures-jul-2011): Departures July 2011 | alicia adams alpaca
+    Updated: 2025-08-14T11:56:47Z
+    Author: Mariana Calero
+  - [Bolero Magazine December 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/bolero-magazine-dec-2018): Bolero Magazine December 2018 | alicia adams alpaca
+    Updated: 2025-08-14T11:55:52Z
+    Author: Mariana Calero
+  - [Grazia February 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/grazia-feb-2012): Grazia February 2012 | alicia adams alpaca
+    Updated: 2025-08-14T11:56:22Z
+    Author: Mariana Calero
+  - [Bliss Victoria January 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/bliss-victoria-jan-2017): Bliss Victoria January 2017 | alicia adams alpaca
+    Updated: 2025-08-11T15:03:22Z
+    Author: Mariana Calero
+  - [Guest of a Guest May 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/guest-of-a-guest-may-2020): Guest of a Guest May 2020 | alicia adams alpaca
+    Updated: 2025-08-14T11:57:32Z
+    Author: Mariana Calero
+  - [Modern Farmer July 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/modern-farmer-jul-2015): Modern Farmer July 2015 | alicia adams alpaca
+    Updated: 2025-08-14T12:07:27Z
+    Author: Mariana Calero
+  - [MRS November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/mrs-nov-2011): MRS November 2011 | alicia adams alpaca
+    Updated: 2025-08-14T11:59:28Z
+    Author: Mariana Calero
+  - [New York Spaces January 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-york-spaces-jan-2018): New York Spaces January 2018 | alicia adams alpaca
+    Updated: 2025-08-14T12:06:48Z
+    Author: Mariana Calero
+  - [Guest of a Guest April 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/guest-of-a-guest-apr-2020): Guest of a Guest April 2020 | alicia adams alpaca
+    Updated: 2025-08-14T12:05:06Z
+    Author: Mariana Calero
+  - [Miss February 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/miss-feb-2012): Miss February 2012 | alicia adams alpaca
+    Updated: 2025-08-14T11:54:32Z
+    Author: Mariana Calero
+  - [Natural Home May 2010 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/natural-home-may-2010): Natural Home May 2010 | alicia adams alpaca
+    Updated: 2025-08-14T12:05:51Z
+    Author: Mariana Calero
+  - [Northern Dutchess News June 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/northern-dutchess-news-jun-2011): Northern Dutchess News June 2011 | alicia adams alpaca
+    Updated: 2025-08-14T12:11:06Z
+    Author: Mariana Calero
+  - [Precious November 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-nov-2013): Precious November 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:12:25Z
+    Author: Mariana Calero
+  - [Fujinkouron October 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/fujinkouron-oct-2011): Fujinkouron October 2011 | alicia adams alpaca
+    Updated: 2025-08-12T11:49:40Z
+    Author: Mariana Calero
+  - [Precious December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-dec-2011): Precious December 2011 | alicia adams alpaca
+    Updated: 2025-08-11T15:41:04Z
+    Author: Mariana Calero
+  - [Oggi January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/oggi-jan-2012): Oggi January 2012 | alicia adams alpaca
+    Updated: 2025-08-12T11:57:06Z
+    Author: Mariana Calero
+  - [Precious November 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-nov-2011): Precious November 2012 | alicia adams alpaca
+    Updated: 2025-08-12T11:48:57Z
+    Author: Mariana Calero
+  - [Precious February 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-feb-2012): Precious February 2012 | alicia adams alpaca
+    Updated: 2025-08-11T15:43:38Z
+    Author: Mariana Calero
+  - [Men's Precious December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/men-s-precious-dec-2011): Men's Precious December 2011 | alicia adams alpaca
+    Updated: 2025-08-14T11:55:23Z
+    Author: Mariana Calero
+  - [Precious January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-jan-2012): Precious January 2012 | alicia adams alpaca
+    Updated: 2025-08-14T11:53:46Z
+    Author: Mariana Calero
+  - [Story October 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/story-oct-2011): Story October 2011 | alicia adams alpaca
+    Updated: 2025-08-12T11:58:24Z
+    Author: Mariana Calero
+  - [Grazia January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/grazia-jan-2012): Grazia January 2012 | alicia adams alpaca
+    Updated: 2025-07-31T13:32:16Z
+    Author: Mariana Calero
+  - [Modern Living January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/modern-living-jan-2012): Modern Living January 2012 | alicia adams alpaca
+    Updated: 2025-08-12T11:55:40Z
+    Author: Mariana Calero
+  - [Hers January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hers-jan-2012): Hers January 2012 | alicia adams alpaca
+    Updated: 2025-08-12T11:53:46Z
+    Author: Mariana Calero
+  - [Styling Book November 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/styling-book-nov-2013): Styling Book November 2013 | alicia adams alpaca
+    Updated: 2025-08-11T12:06:46Z
+    Author: Mariana Calero
+  - [Story December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/story-dec-2011): Story December 2011 | alicia adams alpaca
+    Updated: 2025-08-12T11:59:09Z
+    Author: Mariana Calero
+  - [Glow November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/glow-nov-2011): Glow November 2011 | alicia adams alpaca
+    Updated: 2025-08-12T11:57:45Z
+    Author: Mariana Calero
+  - [Elle Decor Japan December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-japan-dec-2011): Elle Decor Japan December 2011 | alicia adams alpaca
+    Updated: 2025-08-14T11:52:15Z
+    Author: Mariana Calero
+  - [Departures July 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/departures-jul-2013): Departures July 2013 | alicia adams alpaca
+    Updated: 2025-08-14T11:51:41Z
+    Author: Mariana Calero
+  - [Alpaca Culture September 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/alpaca-culture-sep-2016): Alpaca Culture September 2016 | alicia adams alpaca
+    Updated: 2025-08-14T11:49:52Z
+    Author: Mariana Calero
+  - [Aspen December 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/aspen-dec-2020): Aspen December 2020 | alicia adams alpaca
+    Updated: 2025-08-14T11:53:08Z
+    Author: Mariana Calero
+  - [Arzt & Karriere September 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/arzt-karriere-sep-2013): Arzt & Karriere September 2013 | alicia adams alpaca
+    Updated: 2025-08-12T11:54:50Z
+    Author: Mariana Calero
+  - [Alpaca Culture September 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/alpaca-culture-sep-2014): Alpaca Culture September 2014 | alicia adams alpaca
+    Updated: 2025-08-12T11:59:59Z
+    Author: Mariana Calero
+  - [Selection February 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/selection-feb-2012): Selection February 2012 | alicia adams alpaca
+    Updated: 2025-08-14T12:15:28Z
+    Author: Mariana Calero
+  - [Precious June 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/precious-jun-2013): Precious June 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:09:34Z
+    Author: Mariana Calero
+  - [Sheridan Road Magazine November 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/sheridan-road-magazine-nov-2020): Sheridan Road Magazine November 2020 | alicia adams alpaca
+    Updated: 2025-08-14T12:10:04Z
+    Author: Mariana Calero
+  - [Swiss Universe September 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/swiss-universe-sep-2014): Swiss Universe September 2014 | alicia adams alpaca
+    Updated: 2025-08-14T12:14:11Z
+    Author: Mariana Calero
+  - [Tatler September 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/tatler-sep-2014): Tatler September 2014 | alicia adams alpaca
+    Updated: 2025-08-14T12:17:18Z
+    Author: Mariana Calero
+  - [US Weekly December 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/us-weekly-dec-2014): US Weekly December 2014 | alicia adams alpaca
+    Updated: 2025-08-11T13:08:48Z
+    Author: Mariana Calero
+  - [Malibu Magazine June 2019 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/malibu-magazine-jun-2019): Malibu Magazine June 2019 | alicia adams alpaca
+    Updated: 2025-08-11T15:32:44Z
+    Author: Mariana Calero
+  - [Mainstreet November 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/mainstreet-nov-2014): Mainstreet November 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:32:02Z
+    Author: Mariana Calero
+  - [I'm Home January 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/i-m-home-jan-2012): I'm Home January 2012 | alicia adams alpaca
+    Updated: 2025-08-11T15:40:12Z
+    Author: Mariana Calero
+  - [Luxe Magazine September 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/luxe-magazine-sep-2021): Luxe Magazine September 2021 | alicia adams alpaca
+    Updated: 2025-08-11T15:26:50Z
+    Author: Mariana Calero
+  - [The T List - T Magazine April 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/the-t-list-t-magazine-apr-2020): The T List - T Magazine April 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:42:59Z
+    Author: Mariana Calero
+  - [InStyle April 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/instyle-apr-2014): InStyle April 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:12:00Z
+    Author: Mariana Calero
+  - [Luxe Magazine July 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/luxe-magazine-jul-2021): Luxe Magazine July 2021 | alicia adams alpaca
+    Updated: 2025-08-11T13:16:24Z
+    Author: Mariana Calero
+  - [Luxe Interiors & Designs April 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/luxe-interiors-designs-apr-2016): Luxe Interiors & Designs April 2016 | alicia adams alpaca
+    Updated: 2025-08-11T13:01:24Z
+    Author: Mariana Calero
+  - [Martha Stewart Living January 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-jan-2014): Martha Stewart Living January 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:22:29Z
+    Author: Mariana Calero
+  - [Martha Stewart Living December 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-dec-2013): Martha Stewart Living December 2013 | alicia adams alpaca
+    Updated: 2025-08-11T15:30:19Z
+    Author: Mariana Calero
+  - [Martha Stewart Living December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-dec-2011): Martha Stewart Living December 2011 | alicia adams alpaca
+    Updated: 2025-08-11T12:57:53Z
+    Author: Mariana Calero
+  - [Manhattan Magazine November 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/manhattan-magazine-nov-2020): Manhattan Magazine November 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:27:35Z
+    Author: Mariana Calero
+  - [Martha Stewart Living March 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-mar-2017): Martha Stewart Living March 2017 | alicia adams alpaca
+    Updated: 2025-08-11T15:37:47Z
+    Author: Mariana Calero
+  - [Martha Stewart Living November 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-nov-2014): Martha Stewart Living November 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:38:46Z
+    Author: Mariana Calero
+  - [Martha Stewart Living April 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-living-apr-2022): Martha Stewart Living April 2022 | alicia adams alpaca
+    Updated: 2025-08-12T11:50:31Z
+    Author: Mariana Calero
+  - [Martha Stewart Weddings January 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-weddings-jan-2014): Martha Stewart Weddings January 2014 | alicia adams alpaca
+    Updated: 2025-08-12T11:56:23Z
+    Author: Mariana Calero
+  - [Martha Stewart Weddings August 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/martha-stewart-weddings-aug-2013): Martha Stewart Weddings August 2013 | alicia adams alpaca
+    Updated: 2025-08-11T15:36:47Z
+    Author: Mariana Calero
+  - [Kateigaho February 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/kateigaho-feb-2012): Kateigaho February 2012 | alicia adams alpaca
+    Updated: 2025-08-12T11:52:06Z
+    Author: Mariana Calero
+  - [Elle Decor October 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-oct-2012): Elle Decor October 2012 | alicia adams alpaca
+    Updated: 2025-08-11T15:34:56Z
+    Author: Mariana Calero
+  - [The Millbrook Independent February 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/the-millbrook-independent-feb-2011): The Millbrook Independent February 2011 | alicia adams alpaca
+    Updated: 2025-08-14T12:17:57Z
+    Author: Mariana Calero
+  - [Where Women Create Work November 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/where-women-create-work-nov-2018): Where Women Create Work November 2018 | alicia adams alpaca
+    Updated: 2025-08-14T12:19:01Z
+    Author: Mariana Calero
+  - [New York Times T Magazine Gift Guide December 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-york-times-t-magazine-gift-guide-dec-2017): New York Times T Magazine Gift Guide December 2017 | alicia adams alpaca
+    Updated: 2025-08-14T12:21:38Z
+    Author: Mariana Calero
+  - [Wall Street Journal December 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/wall-street-journal-dec-2017): Wall Street Journal December 2017 | alicia adams alpaca
+    Updated: 2025-08-14T12:23:16Z
+    Author: Mariana Calero
+  - [Icon October 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/icon-oct-2013): Icon October 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:20:00Z
+    Author: Mariana Calero
+  - [Home Accents Today February 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/home-accents-today-feb-2014): Home Accents Today February 2014 | alicia adams alpaca
+    Updated: 2025-08-11T13:00:09Z
+    Author: Mariana Calero
+  - [Hudson Valley Brunch February 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hudson-valley-brunch-feb-2017): Hudson Valley Brunch February 2017 | alicia adams alpaca
+    Updated: 2025-08-11T15:29:42Z
+    Author: Mariana Calero
+  - [House Beautiful December 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-dec-2017): House Beautiful December 2017 | alicia adams alpaca
+    Updated: 2025-08-11T15:18:18Z
+    Author: Mariana Calero
+  - [House Beautiful November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-nov-2011): House Beautiful November 2011 | alicia adams alpaca
+    Updated: 2025-08-11T12:46:12Z
+    Author: Mariana Calero
+  - [House Beautiful October 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-oct-2015): House Beautiful October 2015 | alicia adams alpaca
+    Updated: 2025-08-11T15:24:56Z
+    Author: Mariana Calero
+  - [Homes & Gardens October 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/homes-gardens-oct-2017): Homes & Gardens October 2017 | alicia adams alpaca
+    Updated: 2025-08-11T13:12:33Z
+    Author: Mariana Calero
+  - [Huffpost Style June 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/huffpost-style-jun-2016): Huffpost Style June 2016 | alicia adams alpaca
+    Updated: 2025-08-11T12:45:02Z
+    Author: Mariana Calero
+  - [House Beautiful March 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-mar-2016): House Beautiful March 2016 | alicia adams alpaca
+    Updated: 2025-08-11T15:20:28Z
+    Author: Mariana Calero
+  - [InStyle August 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/instyle-aug-2013): InStyle August 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:22:42Z
+    Author: Mariana Calero
+  - [House Beautiful December 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-dec-2016): House Beautiful December 2016 | alicia adams alpaca
+    Updated: 2025-08-11T12:05:13Z
+    Author: Mariana Calero
+  - [Karriere Munchen February 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/karriere-munchen-feb-2014): Karriere Munchen February 2014 | alicia adams alpaca
+    Updated: 2025-08-14T12:26:38Z
+    Author: Mariana Calero
+  - [Icon October 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/icon-oct-2015): Icon October 2015 | alicia adams alpaca
+    Updated: 2025-08-11T15:21:28Z
+    Author: Mariana Calero
+  - [Huffpost December 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/huffpost-dec-2017): Huffpost December 2017 | alicia adams alpaca
+    Updated: 2025-08-11T15:34:06Z
+    Author: Mariana Calero
+  - [Kateigaho November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/kateigaho-nov-2011): Kateigaho November 2011 | alicia adams alpaca
+    Updated: 2025-08-14T12:24:23Z
+    Author: Mariana Calero
+  - [Hospitality Design August 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hospitality-design-aug-2013): Hospitality Design August 2013 | alicia adams alpaca
+    Updated: 2025-08-11T12:58:30Z
+    Author: Mariana Calero
+  - [House Beautiful May 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-may-2015): House Beautiful May 2015 | alicia adams alpaca
+    Updated: 2025-08-11T12:50:31Z
+    Author: Mariana Calero
+  - [InStyle November 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/instyle-nov-2015): InStyle November 2015 | alicia adams alpaca
+    Updated: 2025-08-14T12:22:14Z
+    Author: Mariana Calero
+  - [LDB Interior Textiles November 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/ldb-interior-textiles-nov-2013): LDB Interior Textiles November 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:29:29Z
+    Author: Mariana Calero
+  - [LDB Interior Textiles October 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/ldb-interior-textiles-oct-2016): LDB Interior Textiles October 2016 | alicia adams alpaca
+    Updated: 2025-08-14T12:29:57Z
+    Author: Mariana Calero
+  - [La Jolla About Town October 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/la-jolla-about-town-oct-2012): La Jolla About Town October 2012 | alicia adams alpaca
+    Updated: 2025-08-14T12:27:56Z
+    Author: Mariana Calero
+  - [Living Millbrook October 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/living-millbrook-oct-2015): Living Millbrook October 2015 | alicia adams alpaca
+    Updated: 2025-08-14T12:28:47Z
+    Author: Mariana Calero
+  - [Los Angeles Times September 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/los-angeles-times-sep-2014): Los Angeles Times September 2014 | alicia adams alpaca
+    Updated: 2025-08-14T12:24:57Z
+    Author: Mariana Calero
+  - [Luxe New York March 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/luxe-new-york-mar-2013): Luxe New York March 2013 | alicia adams alpaca
+    Updated: 2025-08-14T12:25:47Z
+    Author: Mariana Calero
+  - [Ma Vie December 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/ma-vie-dec-2015): Ma Vie December 2015 | alicia adams alpaca
+    Updated: 2025-08-14T12:30:35Z
+    Author: Mariana Calero
+  - [Harper's Bazaar October 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/harper-s-bazaar-oct-2015): Harper's Bazaar October 2015 | alicia adams alpaca
+    Updated: 2025-08-14T12:23:47Z
+    Author: Mariana Calero
+  - [Southern Home November 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/southern-home-nov-2018): Southern Home November 2018 | alicia adams alpaca
+    Updated: 2025-08-11T12:54:37Z
+    Author: Mariana Calero
+  - [Town & Country May 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/town-country-may-2013): Town & Country May 2013 | alicia adams alpaca
+    Updated: 2025-08-11T11:57:38Z
+    Author: Mariana Calero
+  - [House Beautiful March 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-mar-2012): House Beautiful March 2012 | alicia adams alpaca
+    Updated: 2025-08-11T15:12:51Z
+    Author: Mariana Calero
+  - [House Beautiful February 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-feb-2011): House Beautiful February 2011 | alicia adams alpaca
+    Updated: 2025-08-11T15:16:20Z
+    Author: Mariana Calero
+  - [House Beautiful June 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-jun-2012): House Beautiful June 2012 | alicia adams alpaca
+    Updated: 2025-08-11T12:47:31Z
+    Author: Mariana Calero
+  - [Hola December 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hola-dec-2014): Hola December 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:06:14Z
+    Author: Mariana Calero
+  - [Town & Country Magazine July 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/town-country-magazine-jul-2020): Town & Country Magazine July 2020 | alicia adams alpaca
+    Updated: 2025-08-11T13:04:51Z
+    Author: Mariana Calero
+  - [Southern Home December 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/southern-home-dec-2017): Southern Home December 2017 | alicia adams alpaca
+    Updated: 2025-08-11T12:46:52Z
+    Author: Mariana Calero
+  - [Town & Country Magazine October 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/town-country-magazine-oct-2021): Town & Country Magazine October 2021 | alicia adams alpaca
+    Updated: 2025-08-11T13:00:44Z
+    Author: Mariana Calero
+  - [House Beautiful September 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-sep-2012): House Beautiful September 2012 | alicia adams alpaca
+    Updated: 2025-08-11T11:57:02Z
+    Author: Mariana Calero
+  - [Vogue March 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/vogue-mar-2018): Vogue March 2018 | alicia adams alpaca
+    Updated: 2025-08-11T13:13:58Z
+    Author: Mariana Calero
+  - [Vogue October 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/vogue-oct-2014): Vogue October 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:19:00Z
+    Author: Mariana Calero
+  - [Veranda Magazine November 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/veranda-magazine-nov-2020): Veranda Magazine November 2020 | alicia adams alpaca
+    Updated: 2025-08-11T13:06:01Z
+    Author: Mariana Calero
+  - [Southern Home August 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/southern-home-aug-2016): Southern Home August 2016 | alicia adams alpaca
+    Updated: 2025-08-11T11:58:12Z
+    Author: Mariana Calero
+  - [Victoria Magazine January 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/victoria-magazine-jan-2021): Victoria Magazine January 2021 | alicia adams alpaca
+    Updated: 2025-08-11T12:49:17Z
+    Author: Mariana Calero
+  - [Vogue May 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/vogue-may-2016): Vogue May 2016 | alicia adams alpaca
+    Updated: 2025-08-11T15:17:36Z
+    Author: Mariana Calero
+  - [Vogue Germany December 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/vogue-germany-dec-2013): Vogue Germany December 2013 | alicia adams alpaca
+    Updated: 2025-08-11T13:02:00Z
+    Author: Mariana Calero
+  - [House Beautiful June 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/house-beautiful-jun-2011): House Beautiful June 2011 | alicia adams alpaca
+    Updated: 2025-08-11T13:07:30Z
+    Author: Mariana Calero
+  - [Wall Street Journal October 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/wall-street-journal-nov-2020): Wall Street Journal October 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:19:44Z
+    Author: Mariana Calero
+  - [Wall Street Journal November 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/wall-street-journal-nov-2014): Wall Street Journal November 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:01:08Z
+    Author: Mariana Calero
+  - [WSJ Magazine October 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/wsj-magazine-oct-2018): WSJ Magazine October 2018 | alicia adams alpaca
+    Updated: 2025-08-11T12:55:45Z
+    Author: Mariana Calero
+  - [Yoga Journal May 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/yoga-journal-may-2022): Yoga Journal May 2022 | alicia adams alpaca
+    Updated: 2025-08-11T12:45:38Z
+    Author: Mariana Calero
+  - [Harper's Bazaar July 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/harper-s-bazaar-jul-2016): Harper's Bazaar July 2016 | alicia adams alpaca
+    Updated: 2025-08-11T11:59:21Z
+    Author: Mariana Calero
+  - [Hello July 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/hello-jul-2016): Hello July 2016 | alicia adams alpaca
+    Updated: 2025-08-11T13:13:07Z
+    Author: Mariana Calero
+  - [Where Los Angeles Magazine March 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/where-los-angeles-magazine-mar-2020): Where Los Angeles Magazine March 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:16:58Z
+    Author: Mariana Calero
+  - [Elle Decor July 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-jul-2013): Elle Decor July 2013 | alicia adams alpaca
+    Updated: 2025-08-11T14:11:56Z
+    Author: Mariana Calero
+  - [Forbes November 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/forbes-nov-2020): Forbes November 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:04:37Z
+    Author: Mariana Calero
+  - [Elle Decor November 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-nov-2015): Elle Decor November 2015 | alicia adams alpaca
+    Updated: 2025-08-11T15:11:04Z
+    Author: Mariana Calero
+  - [Four Seasons Magazine August 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/four-seasons-magazine-aug-2018): Four Seasons Magazine August 2018 | alicia adams alpaca
+    Updated: 2025-08-11T15:06:53Z
+    Author: Mariana Calero
+  - [Glamour UK April 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/glamour-uk-apr-2020): Glamour UK April 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:07:47Z
+    Author: Mariana Calero
+  - [Harper's Bazaar October 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/harper-s-bazaar-oct-2021): Harper's Bazaar October 2021 | alicia adams alpaca
+    Updated: 2025-08-11T15:13:30Z
+    Author: Mariana Calero
+  - [Flower Magazine March 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/flower-magazine-mar-2018): Flower Magazine March 2018 | alicia adams alpaca
+    Updated: 2025-08-11T14:55:34Z
+    Author: Mariana Calero
+  - [Elle Decor April 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-apr-2022): Elle Decor April 2022 | alicia adams alpaca
+    Updated: 2025-08-11T11:56:29Z
+    Author: Mariana Calero
+  - [Elle Decor December 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-dec-2020): Elle Decor December 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:03:57Z
+    Author: Mariana Calero
+  - [Flower Magazine December 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/flower-magazine-dec-2016): Flower Magazine December 2016 | alicia adams alpaca
+    Updated: 2025-08-11T15:14:11Z
+    Author: Mariana Calero
+  - [Elle Decor April 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-decor-apr-2014): Elle Decor April 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:05:15Z
+    Author: Mariana Calero
+  - [Forbes July 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/forbes-jul-2014): Forbes July 2014 | alicia adams alpaca
+    Updated: 2025-08-11T14:53:59Z
+    Author: Mariana Calero
+  - [Glamour November 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/glamour-nov-2014): Glamour November 2014 | alicia adams alpaca
+    Updated: 2025-08-11T15:15:36Z
+    Author: Mariana Calero
+  - [New York Cottages & Gardens May 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-york-cottages-gardens-may-2016): New York Cottages & Gardens May 2016 | alicia adams alpaca
+    Updated: 2025-08-11T12:43:43Z
+    Author: Mariana Calero
+  - [Mountain Living Magazine October 2019 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/mountain-living-magazine-oct-2019): Mountain Living Magazine October 2019 | alicia adams alpaca
+    Updated: 2025-08-11T15:14:56Z
+    Author: Mariana Calero
+  - [New York Cottages & Gardens March 2019 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-york-cottages-gardens-mar-2015): New York Cottages & Gardens March 2019 | alicia adams alpaca
+    Updated: 2025-08-11T15:09:38Z
+    Author: Mariana Calero
+  - [New York Magazine December 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-york-magazine-dec-2013): New York Magazine December 2013 | alicia adams alpaca
+    Updated: 2025-08-11T12:06:17Z
+    Author: Mariana Calero
+  - [New Hampshire Home January 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/new-hampshire-home-jan-2015): New Hampshire Home January 2015 | alicia adams alpaca
+    Updated: 2025-08-11T15:02:28Z
+    Author: Mariana Calero
+  - [Popsugar December 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/popsugar-dec-2014): Popsugar December 2014 | alicia adams alpaca
+    Updated: 2025-08-11T13:10:05Z
+    Author: Mariana Calero
+  - [Palm Beach Illustrated September 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/palm-beach-illustrated-sep-2020): Palm Beach Illustrated September 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:10:19Z
+    Author: Mariana Calero
+  - [O - The Oprah Magazine October 2019 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/o-the-oprah-magazine-oct-2019): O - The Oprah Magazine October 2019 | alicia adams alpaca
+    Updated: 2025-08-11T14:54:47Z
+    Author: Mariana Calero
+  - [Real Simple January 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/real-simple-jan-2014): Real Simple January 2014 | alicia adams alpaca
+    Updated: 2025-08-11T13:09:19Z
+    Author: Mariana Calero
+  - [Quest November 2013 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/quest-nov-2013): Quest November 2013 | alicia adams alpaca
+    Updated: 2025-08-11T12:44:24Z
+    Author: Mariana Calero
+  - [Rural Intelligence December 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/rural-intelligence-dec-2015): Rural Intelligence December 2015 | alicia adams alpaca
+    Updated: 2025-08-11T13:04:08Z
+    Author: Mariana Calero
+  - [Milieu Magazine May 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/milieu-magazine-may-2022): Milieu Magazine May 2022 | alicia adams alpaca
+    Updated: 2025-08-11T11:55:41Z
+    Author: Mariana Calero
+  - [405 Magazine March 2019 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/405-magazine): 405 Magazine March 2019 | alicia adams alpaca
+    Updated: 2025-08-07T13:32:20Z
+    Author: Daniella Padilla
+  - [Architectural Digest December 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-dec-2011): Architectural Digest December 2011 | alicia adams alpaca
+    Updated: 2025-08-11T12:48:05Z
+    Author: Mariana Calero
+  - [Architectural Digest August 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-aug-2016): Architectural Digest August 2016 | alicia adams alpaca
+    Updated: 2025-08-11T14:52:09Z
+    Author: Mariana Calero
+  - [Aspen Sojourner July 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/aspen-sojourner-jul-2021): Aspen Sojourner July 2021 | alicia adams alpaca
+    Updated: 2025-08-11T12:05:48Z
+    Author: Mariana Calero
+  - [Architectural Digest March 2016 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-mar-2016): Architectural Digest March 2016 | alicia adams alpaca
+    Updated: 2025-08-11T15:08:45Z
+    Author: Mariana Calero
+  - [Architectural Digest - AD PRO April 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-ad-pro-apr-2020): Architectural Digest - AD PRO April 2020 | alicia adams alpaca
+    Updated: 2025-08-11T15:00:25Z
+    Author: Daniella Padilla
+  - [Architectural Digest August 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-aug-2011): Architectural Digest August 2011 | alicia adams alpaca
+    Updated: 2025-08-11T14:57:10Z
+    Author: Mariana Calero
+  - [Architectural Digest July 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-jul-2012): Architectural Digest July 2012 | alicia adams alpaca
+    Updated: 2025-08-11T15:01:43Z
+    Author: Mariana Calero
+  - [Aspen Magazine - Modern Luxury May 2021 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/aspen-magazine-modern-luxury-may-2021): Aspen Magazine - Modern Luxury May 2021 | alicia adams alpaca
+    Updated: 2025-08-11T14:56:21Z
+    Author: Mariana Calero
+  - [Architectural Digest - AD PRO January 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-ad-pro-jan-2020): Architectural Digest - AD PRO January 2020 | alicia adams alpaca
+    Updated: 2025-08-11T14:57:53Z
+    Author: Daniella Padilla
+  - [Chronogram April 2017 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/chronogram-apr-2017): Chronogram April 2017 | alicia adams alpaca
+    Updated: 2025-08-11T14:53:28Z
+    Author: Mariana Calero
+  - [Aspire Design and Home November 2022 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/aspire-design-and-home-nov-2022): Aspire Design and Home November 2022 | alicia adams alpaca
+    Updated: 2025-08-11T14:58:31Z
+    Author: Mariana Calero
+  - [Architectural Digest July 2015 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/architectural-digest-jul-2015): Architectural Digest July 2015 | alicia adams alpaca
+    Updated: 2025-08-11T14:59:38Z
+    Author: Mariana Calero
+  - [Daily Mail July 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/daily-mail-jul-2014): Daily Mail July 2014 | alicia adams alpaca
+    Updated: 2025-08-11T12:42:40Z
+    Author: Mariana Calero
+  - [Couch August 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/couch-aug-2012): Couch August 2012 | alicia adams alpaca
+    Updated: 2025-08-11T13:14:35Z
+    Author: Mariana Calero
+  - [Elle.com December 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-com-dec-2020): Elle.com December 2020 | alicia adams alpaca
+    Updated: 2025-08-11T13:21:04Z
+    Author: Mariana Calero
+  - [Elle November 2020 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/elle-nov-2020): Elle November 2020 | alicia adams alpaca
+    Updated: 2025-08-11T13:20:12Z
+    Author: Mariana Calero
+  - [Country Living March 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/country-living-mar-2014): Country Living March 2014 | alicia adams alpaca
+    Updated: 2025-08-11T13:21:58Z
+    Author: Mariana Calero
+  - [Southern Living January 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/southern-living-jan-2011): Southern Living January 2011 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [InStyle November 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/instyle-nov-2012): InStyle November 2012 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [InStyle April 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/instyle-apr-2012): InStyle April 2012 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [Numero Tokyo November 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/numero-tokyo-nov-2011): Numero Tokyo November 2011 | alicia adams alpaca
+    Updated: 2025-08-07T13:30:56Z
+    Author: Mariana Calero
+  - [Traditional Home November 2018 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/traditional-home-nov-2018): Traditional Home November 2018 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [In New York September 2011 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/in-new-york-sep-2011): In New York September 2011 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [Details September 2012 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/details-sep-2012): Details September 2012 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
+  - [Royal Childhood September 2014 | alicia adams alpaca](https://aliciaadamsalpaca.com/blogs/press/royal-childhood-sep-2014): Royal Childhood September 2014 | alicia adams alpaca
+    Updated: 2025-08-07T13:31:01Z
+    Author: Mariana Calero
 
 ## Store Pages
 
