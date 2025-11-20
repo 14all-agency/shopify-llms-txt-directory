@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-20T15:02:05.174Z
+- Updated At: 2025-11-20T16:00:30.159Z
 
 ## Products
 
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/8-Watch-Box-in-Carbon-Fibre-Finish-Premium-Quality-by-Aevitas.webp?v=1760446032
   Price: £189.95 GBP
 - [Single Carbon Fibre Watch Winder Mains or Battery by Aevitas](https://aevitas-uk.co.uk/products/single-watch-winder-carbon-fibre-finish-mains-or-battery-by-aevitas): Single Carbon Fibre Watch Winder Mains or Battery by Aevitas a fantastic compact watch winder All Automatic Watches £219.95 Aevitas Luxury Free Delivery
-  Updated: 2025-11-07T13:20:08Z
+  Updated: 2025-11-20T15:52:37Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -3339,6 +3339,10 @@
     Updated: 2025-11-18T15:44:15Z
     Author: Aevitas
     Tags: best watch box brands, compare, family, family presents, gift boxes for families, gift ideas, gifts, jewellery box, jewellery boxes, watch box, watch boxes
+  - [Exploring the Role of Rolex in the World of Swiss Watches: Insights and Innovations](https://aevitas-uk.co.uk/blogs/news/exploring-the-role-of-rolex-in-the-world-of-swiss-watches-insights-and-innovations): Exploring the Role of Rolex in the World of Swiss Watches: Insights and Innovations
+    Updated: 2025-11-20T15:36:38Z
+    Author: Aevitas
+    Tags: automatic watches, exploring rolex history, high-end watch news, luxury, rolex, rolex innovations, swiss watches, timepiece, watch winder, watches
 - [Best Watch Storage Options - Buy Online from Aevitas](https://aevitas-uk.co.uk/blogs/watch-storage): Discover the best watch storage options at Aevitas. Explore our blog for expert tips and shop online for stylish, secure storage solutions today.
   - [How to Choose Top Gadgets for Your Best Man](https://aevitas-uk.co.uk/blogs/watch-storage/how-to-choose-the-perfect-gadget-for-your-best-man): How to Choose Top Gadgets for Your Best Man
     Updated: 2025-04-25T09:06:52Z
