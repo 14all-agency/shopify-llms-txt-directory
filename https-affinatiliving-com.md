@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-29T18:34:08Z
 - Contact Email: customercare@affinatiliving.com
-- Updated At: 2025-11-19T20:00:30.581Z
+- Updated At: 2025-11-20T00:01:58.438Z
 
 ## Products
 
@@ -6357,13 +6357,13 @@
   Availability: Available
   Price: $0.00 USD
 - [3-Wick Amber Jars (12 Pack)](https://affinatiliving.com/products/3-wick-amber-jars)
-  Updated: 2025-11-18T20:26:55Z
+  Updated: 2025-11-19T23:39:40Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [3-Wick White Jars (12 Pack)](https://affinatiliving.com/products/3-wick-white-jars)
-  Updated: 2025-11-17T23:17:09Z
+  Updated: 2025-11-19T23:40:00Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
@@ -6533,7 +6533,7 @@
     Availability: Available
     Price: $72.95 USD
 - [Signature Frosted Jars (12 pack)](https://affinatiliving.com/products/signature-frosted-jars)
-  Updated: 2025-11-15T06:40:53Z
+  Updated: 2025-11-19T23:40:20Z
   Vendor: Affinati
   Product Type: 
   Availability: Available
