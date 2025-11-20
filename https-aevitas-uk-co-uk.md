@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-09-30T12:20:15Z
 - Contact Email: info@aevitas-uk.co.uk
-- Updated At: 2025-11-20T04:00:30.285Z
+- Updated At: 2025-11-20T08:00:30.829Z
 
 ## Products
 
@@ -1563,7 +1563,7 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/12-Watch-Winder-Safe-Grade-4-with-PS600000-Insurance-Rating-by-Aevitas.webp?v=1760451690
   Price: £16,995.00 GBP
 - [2 Watch Winder in Black and Blue Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/2-watch-winder-in-black-and-blue-smooth-leather-finish-by-aevitas): 2 Watch Winder in Black Smooth Leather 2 Watch Winder in Black Vegan Leather Finish and smart Blue Lining. This Aevitas Watch Winders is what you need! Our Patented Watch Holder is large enough for Men's Larger Wrist Sizes yet versatile enough to set watches of smaller wrist sizes. Perfect for those really large face watches upto 70 mm wide and driven by the our latest German Motors. These Watch Winders will wind any brand of automatic watch, the Turns per Day settings are : 650, 750, 850, 1000, or 1950 in Either or Both Directions which is perfect for all Top Brand Watches include Rolex, Omega and Breitling etc. These rotations are 100% Accurate and Digitally counted. Each Rotor can be set and individually controlled. This is perfect for 100% of Automatic watch Brands. This 2 Watch Winder will never over wind your watches, it completes its intermittent winding program during a 12 hour period and then rests for 12 hours, allowing your watch to run as it would without being worn during night time. Perfectly mimicking natural winding whilst on your wrist. Smart Interior is finished in Blue with Contrasting Chromed trim. Fully Serviceable for exceptionally long life. 2 Year Guarantee.Size 27 x 21.5 x 18 cm Watch Winder Features Include 12 O'clock Stop Each Rotor can be set and individually controlled Holds Watches upto 70mm Wide Watch Holder for all wrist Sizes from 16cm to 22cm 12 Hour Sleep Cycle so yours will never be interrupted! Magnetically Shielded Motor with Near Silent Operation Fine Smooth Finish Auto Stop when Door Opened Internal LED Light Mains or Battery Operated (recommend general running on mains power) Fully Serviceable for exceptionally long life Very easy instructions to set the winder can be downloaded HERE
-  Updated: 2025-11-07T13:23:46Z
+  Updated: 2025-11-20T05:45:26Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
@@ -1824,14 +1824,14 @@
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/Premium-Double-Watch-Roll-Vintage-Brown-Leather-Super-Soft-Grey-Suede-Lining.webp?v=1762876593
   Price: £74.95 GBP
 - [6 Watch Winder Safe Module Black Smooth Leather Finish by Aevitas](https://aevitas-uk.co.uk/products/6-watch-winder-safe-module-black-smooth-leather-finish-by-aevitas-copy): 6 Watch Winder in Black Smooth Leather 6 Watch Winder in Brown Vegan Leather Finish. This Aevitas Watch Winders is what you need! Mains or Battery Powered
-  Updated: 2025-11-19T15:44:19Z
+  Updated: 2025-11-20T05:15:56Z
   Vendor: Aevitas
   Product Type: Watch Winder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0495/9885/7379/files/6-Watch-Winder-Safe-Module-Black-Smooth-Leather-Finish-by-Aevitas.webp?v=1763566998
   Price: £699.95 GBP
 - [Premium 8 Watch Holder for the Drawers in our Watch Winder Safe](https://aevitas-uk.co.uk/products/premium-8-watch-holder-for-the-drawers-in-our-watch-winder-safe): Perfect for your Insurance Rated Watch Winder Safe, our specially designed 8 Watch Holder Tray will fit neatly inside your watch winder safe drawers. Available in seven tailored options, each tray fits perfectly into the drawers, providing an organized and secure space for your precious items. Enharnce your storage experience with a snug, elegant solution that keeps your watches secure safe and easily accessible. The watch holder cushion is 65mm wide and will hold watch bracelets for 16 to 19.5 cm wrist size. The watch holders stay firmly in place so you can set the watches neatly at the angle of placement desired. These are hand made to a very high standard, a premium quality product. Trays measure 29w x 19d x 4.5h cm (height is without watches).
-  Updated: 2025-11-20T02:03:27Z
+  Updated: 2025-11-20T04:49:06Z
   Vendor: Aevitas UK
   Product Type: Watch Winder
   Availability: Available
