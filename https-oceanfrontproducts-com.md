@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-11-19T00:00:30.196Z
+- Updated At: 2025-11-21T00:00:54.056Z
 
 ## Products
 
@@ -631,7 +631,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4537699537991722008_2048.jpg?v=1754880490
   Price: $35.00 USD
 - [SG Embroidered Resort Style Silk Pajamas for Women](https://oceanfrontproducts.com/products/sg-embroidered-resort-style-silk-pajamas): Luxurious women's resort style silk pajamas with a soft satiny texture that feels great on the skin. Perfect for lounging at home and enjoying a touch of elegance in your relaxation time.
-  Updated: 2025-11-09T01:25:14Z
+  Updated: 2025-11-19T03:26:43Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: $39.31 USD
 - [Boss Babe T-Shirt with Empowering Pink Design](https://oceanfrontproducts.com/products/boss-babe-t-shirt-with-empowering-pink-design-celebrate-strength-and-style): Step out in confidence with our Boss Babe T-Shirt, a powerful statement piece for women who lead, inspire, and conquer.
-  Updated: 2025-11-09T01:25:19Z
+  Updated: 2025-11-19T07:54:23Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -8651,7 +8651,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/8583218145349313042_2048.jpg?v=1754883285
   Price: $64.83 USD
 - [Galaxy Shower Curtains with Easy Hook Placement and Vibrant Design](https://oceanfrontproducts.com/products/galaxy-shower-curtains): Transform your bathroom into a celestial oasis with this stunning galaxy-themed shower curtain. Perfect for space enthusiasts, this one-sided print curtain features a mesmerizing design of galaxies, nebulae, and stars. Made of 100% polyester, this durable and quick-drying curtain comes with 12 buttonholes for easy hook placement. Suitable for adults only.Product features- 100% Polyester fabric for strength and durability- 12 buttonholes for easy hook placement- Ideal for adults- Features a one-sided print of galaxy, nebula, and stars- Hooks not includedCare instructions- Wash the item only cold machine wash with similar colors garments using a gentle cycle. Tumble dry on low settings or hang dry. Do not bleach or dry clean.
-  Updated: 2025-11-09T01:25:41Z
+  Updated: 2025-11-19T07:08:14Z
   Vendor: Oceanfront Products
   Product Type: Home Decor
   Availability: Available
@@ -8672,7 +8672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12235025595004016603_2048.jpg?v=1754883309
   Price: $19.38 USD
 - [Beautiful Woman Bright Colors Phone Cases for Travel and Style](https://oceanfrontproducts.com/products/phone-cases-beautiful-woman-bright-colors): Vibrant and colorful phone case featuring a beautiful woman design. This durable and impact resistant case provides excellent protection against drops and tears. Perfect for adults looking to add a pop of color to their phone while keeping it safe. Ideal for gifts on birthdays, anniversaries, and special occasions.Product features- Full ink density wrap and image transfer- UV protected for longterm optical quality- Shock-absorbing silicone liner for impact protection- Dual layer construction for extra durability- Supports wireless chargingCare instructions- Clean with a soft damp cotton or microfiber cloth (add a drop of dish soap if needed).
-  Updated: 2025-11-09T01:25:42Z
+  Updated: 2025-11-19T11:56:43Z
   Vendor: Oceanfront Products
   Product Type: Phone Case
   Availability: Available
