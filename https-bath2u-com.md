@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-11-17T00:00:48.304Z
+- Updated At: 2025-11-21T00:00:31.091Z
 
 ## Products
 
@@ -553,7 +553,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTSH22622-GY.jpg?v=1673943482
   Price: RM 208.00 MYR
 - [SORENTO 3 Functions ABS Hand Shower c/w 1.5m Hose & Holder Golden Yellow](https://bath2u.com/products/sorento-3-functions-abs-hand-shower-c-w-1-5m-hose-holder-golden-yellow): With it's contemporary styling the Gold Hand Shower Kit will naturally blend in to and compliment any modern bathroom. It consists of a shower handset with three spray patterns, parking bracket to hold the handset securely in place, and a flexible hose for convenient showering. Specification : Material: Brass Colour: Gold Style: Modern Connection Size: 1/2" come with 1.5M flexible hose Package Content : 1x Hand Shower Wall outlet and bracket
-  Updated: 2024-04-18T15:04:35Z
+  Updated: 2025-11-17T09:12:51Z
   Vendor: SORENTO
   Product Type: Hand Shower
   Availability: Available
@@ -588,7 +588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT902-GY.jpg?v=1673968753
   Price: RM 71.00 MYR
 - [SORENTO Modern Gold Chrome Angled Radiator Valves](https://bath2u.com/products/sorento-modern-gold-chrome-angled-radiator-valves): This modern angled radiator valves in gleaming gold chrome have manual rather than thermostatic controls, meaning you can turn them on and off as needed. Angled valves like these are necessary when your central heating pipework has to come out of the wall. This makes them an essential item when installing certain heated towel rails or wall mounted radiators. Specification : Material: Brass Finish: Polished Gold Chrome Shape: Round Style: Modern Type: Angled Valves Package Content : 1x Angle Valve
-  Updated: 2024-04-18T15:04:37Z
+  Updated: 2025-11-17T03:15:45Z
   Vendor: SORENTO
   Product Type: Angle Valve
   Availability: Available
@@ -637,7 +637,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRT2405-GY.jpg?v=1674010887
   Price: RM 213.00 MYR
 - [SORENTO 800mm Single Gold Chrome Towel Rail - Circle](https://bath2u.com/products/sorento-800mm-gold-chrome-single-towel-rail): A stylish and functional fixture, the Single Towel Rail keeps towels handy and it's contemporary design integrates seamlessly into any bathroom deco. This quality accessory is manufactured using high grade stainless steel and comes in a durable gold chrome finish. Specification : Finish: Gold Chrome Shape: Circle Material: 304 Stainless Steel Dimensions: 800mm Type: Wall mounted Style: Contemporary design Package Content : 1x Single Towel Rail
-  Updated: 2023-01-26T14:11:35Z
+  Updated: 2025-11-17T12:01:42Z
   Vendor: SORENTO
   Product Type: Towel Rail Bar
   Availability: Available
@@ -980,7 +980,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRT3613.png?v=1674743062
   Price: RM 342.00 MYR
 - [SORENTO 745mm Double Matte Black Towel Rail - Square](https://bath2u.com/products/sorento-745mm-double-matte-black-towel-rail-square): A stylish and functional fixture, the Double Towel Rail keeps towels handy and it's contemporary design integrates seamlessly into any bathroom deco. This quality accessory is manufactured using high grade stainless steel and comes in a durable matte black finish. Specification : Finish: Matte Black Shape: Square Material: 304 Stainless Steel Dimensions: 745mm Type: Wall mounted Style: Contemporary design Package Content : 1x Double Towel Rail
-  Updated: 2024-04-18T15:05:59Z
+  Updated: 2025-11-19T01:57:31Z
   Vendor: SORENTO
   Product Type: Towel Rail Bar
   Availability: Available
@@ -1425,7 +1425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-SS313W-GD.png?v=1675151223
   Price: RM 175.00 MYR
 - [TAPI Solid Brass Click Clack Basin Waste](https://bath2u.com/products/tapi-solid-brass-click-clack-basin-waste): Specifications : Brass Slotted in Matt Black Finish For Overflow Wash Basin Height : 80mm
-  Updated: 2024-04-18T15:06:22Z
+  Updated: 2025-11-19T12:59:42Z
   Vendor: TAPI
   Product Type: Basin Waste
   Availability: Available
@@ -1913,7 +1913,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/GL6060B.png?v=1675392479
   Price: RM 420.00 MYR
 - [ARTE 600mm Stainless Steel Silver Single Kitchen Sink](https://bath2u.com/products/arte-450mm-stainless-steel-silver-single-kitchen-sink): Specifications : Colour: Silver Outer Dimension: 600mm(L) x 450mm(W) x 210mm(D) Material: Stainless steel Anti-rust and durable Easy to clean High temperature resistance Anti-corrosion Suitable for Undermount, and Top Mount
-  Updated: 2024-04-18T15:06:46Z
+  Updated: 2025-11-18T10:57:34Z
   Vendor: ARTE
   Product Type: Kitchen Sinks
   Availability: Available
