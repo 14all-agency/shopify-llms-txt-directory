@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-11-19T00:00:44.177Z
+- Updated At: 2025-11-21T00:00:26.366Z
 
 ## Products
 
 - [Green Emerald Picual 500ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml): GREEN EMERALD PICUAL 500ml CON ESTUCHEVerde Esmeralda' is our gourmet extra virgin olive oil from the 'Gems Line', made from the best olives of the Picual variety, one of the most appreciated for its intensity and complexity, grown in the prestigious region of Jaén, one of the most renowned in the world for the quality of its EVOO oil. This extra virgin olive oil Picual is a high-end product, obtained from a meticulous selection of the best olives, harvested and processed with great care in Andalusia. Traceable at all stages of the production process, it guarantees superior purity and quality. Its elegant packaging, reminiscent of the shape and color of a green gemstone, represents the emerald, a symbol of rarity and perfection, fully reflecting the luxury of this oil.
-  Updated: 2025-10-15T00:21:01Z
+  Updated: 2025-11-19T02:14:31Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
-- [Blue Sapphire Picual Organic 500ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): Blue Sapphire is a high-class organic extra virgin olive oil made from the olives of the prized Picual variety, one of the most appreciated for its intensity and complexity. This oil is part of the “Gems Line” and is presented in a 500 ml bottle with an exclusive design that recalls the shape and color of the blue sapphire, a symbol of purity, elegance and rarity.Organic Picual oil is distinguished by its very intense and complex organoleptic profile. The taste is sweet at first, then evolves into a perfect balance of spicy and bitter, with a smooth and enveloping texture that persists on the palate. The aftertaste is long and persistent, with nuances of freshly cut grass that make it a true sensory experience. The Picual variety is renowned for its high percentage of oleic acid and its ability to adapt easily to different climatic conditions. Its organic production, obtained exclusively through natural techniques and without the use of pesticides or chemicals, gives this oil an even more intense fruitiness and a more authentic flavor.
-  Updated: 2025-10-16T01:45:33Z
+- [Blue Sapphire – Organic Extra Virgin Olive Oil](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): 500 ml · Limited Edition · Cold-Pressed · USDA Organic Why You'll Love It - 100% Organic Picual – Grown without pesticides or chemicals. Pure, clean, and powerful. - Intense, Complex Flavor – Starts sweet, unfolds into a balanced bitterness and spice. - Tasting Notes – Fresh-cut grass, green tomato, almond, artichoke, and green apple. - Luxury Design – The bottle replicates the elegance of a blue sapphire. Designed to stand out on any table or as a memorable gift. - Cold-Pressed & Early Harvest – Ensures maximum antioxidants, flavor, and freshness. - Rich in Oleic Acid – Supports heart health and overall wellness. Inspired by the timeless beauty of the Blue Sapphire, this exclusive bottle holds more than just oil — it preserves a story of heritage, elegance, and purity. Crafted from 100% organic Picual olives, hand-harvested at night to protect their delicate aroma, Blue Sapphire is your gateway to a new standard of gourmet. A Gift Worth Giving Whether for yourself or someone special, this oil transforms everyday meals into elevated experiences. ⭐ Customer Favorites “This isn’t olive oil, this is liquid gold. The flavor, the bottle, the story — it’s perfection.” – Sophia M. (New York) “Impressive gift. My partner said it was the most elegant bottle they’d ever seen.” – Jake L. (Miami)
+  Updated: 2025-11-20T13:47:19Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2800_EST.jpg?v=1750053002
   Price: $43.00 USD
 - [Imagine Organic Picual Biologico 500ml](https://verdesmeraldaolive.us/products/imagine-organic-picual-biologico-500ml): "Imagine Organic" is a certified organic extra virgin olive oil from the prestigious Imagine Line by Verde Esmeralda Olive. Made exclusively from Picual olives, it is produced according to strict organic farming standards, without the use of pesticides or chemical fertilizers. This oil stands out for its intense and authentic aromatic profile, with a perfect balance between bitterness and spiciness. Its sophisticated design—featuring a matte black bottle with golden details—embodies the fusion of tradition and innovation, symbolizing the highest standard of culinary excellence. Thanks to organic cultivation, the oil is distinguished by its freshness and the purity of the fruit, without the use of pesticides or chemical fertilizers. Cold pressing preserves all organoleptic properties intact, ensuring a product with an intense flavor and rich aroma profile.
-  Updated: 2025-09-30T18:03:39Z
+  Updated: 2025-11-19T02:17:18Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
@@ -87,7 +87,7 @@
   Updated: 2025-09-30T18:02:29Z
   Total Products: 0
 - [EVOO | Extra Virgin Olive Oil Premium](https://verdesmeraldaolive.us/collections/evoo): Explore our premium Extra Virgin Olive Oil (EVOO), crafted in Jaén, Spain. Award-winning gourmet flavor delivered fresh to your table. Shop online at Verde Esmeralda Olive.
-  Updated: 2025-11-16T12:18:48Z
+  Updated: 2025-11-20T13:43:32Z
   Total Products: 10
 - [Ibéricos](https://verdesmeraldaolive.us/collections/ibericos): Discover our selection of exquisite Iberian products, a journey through the culinary traditions of Spain. Each item is carefully chosen to offer an authentic gastronomic experience, from Iberian ham to chorizo, and the finest delicacies of the Iberian land. Come back soon to explore our full range.
   Updated: 2025-09-30T18:02:30Z
@@ -102,16 +102,16 @@
   Updated: 2025-11-07T21:50:11Z
   Total Products: 4
 - [Give away](https://verdesmeraldaolive.us/collections/give-away)
-  Updated: 2025-11-16T12:18:48Z
+  Updated: 2025-11-20T13:43:32Z
   Total Products: 10
 - [Feature Products](https://verdesmeraldaolive.us/collections/feature-products)
-  Updated: 2025-11-16T12:18:48Z
+  Updated: 2025-11-20T13:43:32Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://verdesmeraldaolive.us/collections/appplaza-best-sellers)
-  Updated: 2025-11-16T12:18:48Z
+  Updated: 2025-11-20T13:43:32Z
   Total Products: 10
 - [AVADA - Best Sellers](https://verdesmeraldaolive.us/collections/avada-best-sellers)
-  Updated: 2025-11-16T12:18:48Z
+  Updated: 2025-11-20T13:43:32Z
   Total Products: 10
 
 ## Blogs
@@ -150,11 +150,29 @@
   - [Difference Between Olive Oil and Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/difference-between-olive-oil-and-extra-virgin-olive-oil): Difference Between Olive Oil and Extra Virgin Olive Oil
     Updated: 2025-10-28T20:07:42Z
     Author: Verde Esmeralda Olive
-  - [Benefits of Extra Virgin Olive Oil: 7 Reasons](https://verdesmeraldaolive.us/blogs/news/benefits-of-extra-virgin-olive-oil): Benefits of Extra Virgin Olive Oil: 7 Reasons
-    Updated: 2025-10-28T20:10:25Z
+  - [Advantages of Extra Virgin Olive Oil: 7 Reasons](https://verdesmeraldaolive.us/blogs/news/advantages-of-extra-virgin-olive-oil): Advantages of Extra Virgin Olive Oil: 7 Reasons
+    Updated: 2025-11-20T14:00:03Z
     Author: Verde Esmeralda Olive
   - [Best Extra Virgin Olive Oil: 5 Qualities](https://verdesmeraldaolive.us/blogs/news/best-extra-virgin-olive-oil): Best Extra Virgin Olive Oil: 5 Qualities
     Updated: 2025-10-28T19:57:25Z
+    Author: Verde Esmeralda Olive
+  - [10 Extra Virgin Olive Oil for Salad](https://verdesmeraldaolive.us/blogs/news/extra-virgin-olive-oil-for-salad-10-essential-tips-from-nutrition-experts): 10 Extra Virgin Olive Oil for Salad
+    Updated: 2025-11-20T13:45:45Z
+    Author: Verde Esmeralda Olive
+  - [Olive Oil vs Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/olive-oil-vs-extra-virgin-olive-oil-the-5-real-differences-you-need-to-know): Olive Oil vs Extra Virgin Olive Oil
+    Updated: 2025-11-20T13:46:56Z
+    Author: Verde Esmeralda Olive
+  - [What Is Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/what-is-extra-virgin-olive-oil-the-5-definitive-facts-you-need-to-know): What Is Extra Virgin Olive Oil
+    Updated: 2025-11-20T13:48:19Z
+    Author: Verde Esmeralda Olive
+  - [10 Recipes Using Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/recipes-using-extra-virgin-olive-oil-10-healthy-ideas-for-every-meal): 10 Recipes Using Extra Virgin Olive Oil
+    Updated: 2025-11-20T13:43:48Z
+    Author: Verde Esmeralda Olive
+  - [Extra Virgin Olive Oil Uses: 10 Surprising Ways to Use EVOO Every Day](https://verdesmeraldaolive.us/blogs/news/extra-virgin-olive-oil-uses-10-surprising-ways-to-use-evoo-every-day)
+    Updated: 2025-11-20T13:54:21Z
+    Author: Verde Esmeralda Olive
+  - [Benefits of Using Extra Virgin Olive Oil](https://verdesmeraldaolive.us/blogs/news/benefits-of-using-extra-virgin-olive-oil-every-day-an-amazing-health-routine): Benefits of Using Extra Virgin Olive Oil
+    Updated: 2025-11-20T13:55:36Z
     Author: Verde Esmeralda Olive
 
 ## Store Pages
