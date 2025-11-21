@@ -10,7 +10,7 @@
 - Contact Email: sales@homeeleganceusa.com
 - Contact Phone: 732-777-1100
 - Address: 850 Ridgewood Avenue, North Brunswick NJ 08902
-- Updated At: 2025-11-20T00:03:10.022Z
+- Updated At: 2025-11-21T00:02:39.455Z
 
 ## Products
 
@@ -49,7 +49,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T17:51:19Z
   Price: $1,886.99 USD — $3,502.99 USD
 - [Counter Height Dining Set Gabriel 100438 | Coaster](https://homeeleganceusa.com/products/gabriel-counter-height-dining-set-by-coaster-home-furnishings-cappuccino-and-tan): Coaster  Description The Rich Cappuccino Counter Height Dinette by Coaster is manufactured in contemporary style. It features the convenient counter height...
-  Updated: 2025-11-18T17:51:20Z
+  Updated: 2025-11-20T06:10:29Z
   Price: $1,267.99 USD — $1,444.99 USD
 - [Server With Faux Marble Top In Brown ‎Russian Hill 1808-40](https://homeeleganceusa.com/products/russian-hill-server-in-brown-by-homelegance): Blending the classic aesthetic of traditional design is the Russian Hill Collection. The nod to Old World styling comes in elements such as dental, rope ...
   Updated: 2025-11-18T17:51:21Z
@@ -394,8 +394,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T17:55:09Z
   Price: $6,171.99 USD — $6,721.99 USD
 - [Miranda Traditional Bedroom Set In Gold Finish | Cosmos](https://homeeleganceusa.com/products/miranda-6pc-traditional-bedroom-set-in-gold-finish-by-cosmos-furniture): Add classic traditional elements to your bedroom with this piece. Featuring beautiful molded detailing, sturdy wood construction and a gorgeous gold color
-  Updated: 2025-11-18T17:55:12Z
-  Price: $6,828.99 USD — $7,348.99 USD
+  Updated: 2025-11-20T16:27:17Z
+  Price: $5,828.99 USD — $6,348.99 USD
 - [Platinum Traditional Bedroom Set in Gold Finish - Cosmos Furniture](https://homeeleganceusa.com/products/platinum-6pc-traditional-bedroom-set-in-gold-finish-by-cosmos-furniture): Shop Cosmos Furniture’s Platinum Bedroom Set featuring gold wood finish, tufted upholstery, intricate carvings, and traditional elegance for timeless luxury.
   Updated: 2025-11-18T17:55:12Z
   Price: $6,721.99 USD — $7,293.99 USD
@@ -403,7 +403,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T17:55:14Z
   Price: $6,834.99 USD — $7,325.99 USD
 - [Shiney Bedroom Set Silver or White Finish – Cosmos Furniture](https://homeeleganceusa.com/products/shiney-6pc-contemporary-bedroom-set-in-silver-white-finish-by-cosmos-furniture): Shiney Bedroom Set with LED headboard, storage bed, silver or white finish, dresser, mirror, chest & 2 nightstands. Glam, modern design by Cosmos Furniture.
-  Updated: 2025-11-19T22:12:33Z
+  Updated: 2025-11-20T23:23:50Z
   Price: $3,590.99 USD — $3,997.99 USD
 - [Sonia 6Pc Contemporary Bedroom Set In Silver Finish | Cosmos](https://homeeleganceusa.com/products/sonia-6pc-contemporary-bedroom-set-in-silver-finish-by-cosmos-furniture): Explore Cosmos Furniture’s Sonia 6Pc Bedroom Set in Champagne or Pearl finish, featuring tufted upholstery, elegant scroll curves, & luxurious silver accents, 592110612, Queen Bed: 88 x 65.5 x 65, Dresser: 66 x 18 x 40, Mirror: 52 x 2.5 x 46, Nightstand: 28 x 18 x 28, Chest: 39 x 18 x 51
   Updated: 2025-11-19T22:17:51Z
@@ -412,8 +412,8 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T17:55:20Z
   Price: $6,615.99 USD — $7,068.99 USD
 - [Amelia Traditional Sofa & Loveseat Set - Cosmos Furniture](https://homeeleganceusa.com/products/amelia-sofa-and-loveseat-in-bronze-wood-finish): Elevate your living room with the Amelia sofa & loveseat set. Featuring shimmery fabric, antique gold wood frame & elegant tufted details.
-  Updated: 2025-11-18T17:55:22Z
-  Price: $7,035.99 USD — $11,242.99 USD
+  Updated: 2025-11-20T22:10:43Z
+  Price: $7,035.99 USD — $10,942.99 USD
 - [Riley Bedroom Set | Global | Home Elegance USA](https://homeeleganceusa.com/products/riley-modern-bedroom-set-by-global-furniture): Riley Bedroom Set | Global The Riley puts a contemporary spin on old-world style. The luxurious silver finish and mirror accents add sleek, ultramodern touches.
   Updated: 2025-11-18T17:55:25Z
   Price: $1,557.99 USD — $2,365.99 USD
@@ -427,43 +427,43 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-08-30T19:33:14Z
   Price: $279.00 USD
 - [Ariel Transitional Sofa & Loveseat Set - Cosmos](https://homeeleganceusa.com/products/ariel-sofa-loveseat-silver-wood-cosmos): The Ariel sofa & loveseat set features intricate carved details, button tufting, & rolled arms in a silver wood finish. Pillows included.
-  Updated: 2025-11-18T17:55:30Z
-  Price: $5,948.99 USD — $10,092.99 USD
+  Updated: 2025-11-20T22:11:09Z
+  Price: $4,948.99 USD — $8,892.99 USD
 - [Aroma Traditional Sofa and Loveseat in Cherry Finish - Cosmos](https://homeeleganceusa.com/products/aroma-sofa-loveseat-cherry-wood-cosmos-furniture): The Aroma sofa set in cherry wood finish features crystal tufted buttons, curved rolled arms, and elegant carvings. Includes throw pillows.
-  Updated: 2025-11-18T17:55:33Z
-  Price: $5,924.99 USD — $10,313.99 USD
+  Updated: 2025-11-20T22:13:08Z
+  Price: $5,924.99 USD — $9,813.99 USD
 - [Britney Traditional Sofa & Loveseat Cherry Wood Finish - Cosmos](https://homeeleganceusa.com/products/britney-sofa-and-loveseat-by-cosmos-furniture): The Britney sofa & loveseat set in cherry wood finish features crystal tufted buttons, curved rolled arms, and elegant carvings. Classic & timeless design.
-  Updated: 2025-11-18T17:55:36Z
-  Price: $6,396.99 USD — $10,884.99 USD
+  Updated: 2025-11-20T22:15:02Z
+  Price: $5,396.99 USD — $9,784.99 USD
 - [Diana Traditional Sofa And Loveseat In Champagne Wood Finish](https://homeeleganceusa.com/products/diana-sofa-and-loveseat-champagne-by-cosmos-furniture): Cosmos Furniture's Diana traditional style Sofa Set in champagne finish wood color and classic crafted design will let your living room never go out of fashion
-  Updated: 2025-11-18T17:55:38Z
-  Price: $6,245.99 USD — $9,996.99 USD
+  Updated: 2025-11-20T22:16:14Z
+  Price: $6,245.99 USD — $9,296.99 USD
 - [Elanor Traditional Sofa & Loveseat In Champagne Wood Finish](https://homeeleganceusa.com/products/elanor-sofa-and-loveseat-champagne-by-cosmos-furniture): Cosmos Furniture's Eleanor traditional style Sofa Set in champagne finish wood color and classic crafted design will let your living room never go out ...
-  Updated: 2025-11-18T17:55:40Z
-  Price: $6,093.99 USD — $9,996.99 USD
+  Updated: 2025-11-20T22:17:18Z
+  Price: $6,093.99 USD — $9,396.99 USD
 - [Emily Transitional Sofa And Loveseat In Beige Wood Finish](https://homeeleganceusa.com/products/emily-sofa-and-loveseat-beige-by-cosmos-furniture): Add traditional styling to your living room with this piece. Featuring intricate carved detailing, elegant rolled arms, and button tufted back. This piece is...
-  Updated: 2025-11-18T17:55:43Z
-  Price: $7,035.99 USD — $10,930.99 USD
+  Updated: 2025-11-20T22:18:54Z
+  Price: $7,035.99 USD — $10,870.99 USD
 - [Giana Traditional Sofa And Loveseat In Cherry Wood Finish](https://homeeleganceusa.com/products/giana-sofa-and-loveseat-cherry-wood-by-cosmos-furniture): Cosmos Furniture's Giana traditional style Sofa set in cherry finish wood. Founded atop arrow foot legs, this sofa's frame is constructed from solid carved ...
-  Updated: 2025-11-18T17:55:45Z
-  Price: $4,692.99 USD — $8,901.99 USD
+  Updated: 2025-11-20T22:19:47Z
+  Price: $4,692.99 USD — $7,997.99 USD
 - [Jade Traditional Living Room Set In Cherry Wood Finish](https://homeeleganceusa.com/products/jade-sofa-and-loveseat-cherry-wood-by-cosmos-furniture): Jade traditional style Sofa in cherry finish wood. This Sofa takes a traditional look to create something fresh for your home. Featuring a simple but opulent...
-  Updated: 2025-11-18T17:55:48Z
-  Price: $6,509.99 USD — $11,389.99 USD
+  Updated: 2025-11-20T22:21:29Z
+  Price: $6,509.99 USD — $9,589.99 USD
 - [Linda Traditional Sectional In Cherry Wood Finish](https://homeeleganceusa.com/products/linda-sectional-cherry-wood-by-cosmos-furniture): Shop Now - This traditional piece styling is at its finest. It all begins with the dark carved wood, lush fabrics and multitude of assorted throw pillows.
   Updated: 2025-11-18T17:55:49Z
   Price: $6,996.99 USD
 - [Majestic Traditional Sofa And Loveseat In Gold & Light Beige](https://homeeleganceusa.com/products/majestic-traditional-sofa-and-loveseat-in-gold-light-beige-wood-finish-by-cosmos-furniture): Update your living room with this Traditional piece. Featuring finest Fabric upholstery, Tufted Back and Cabriole Legs. This piece is sure to look fantastic ...
-  Updated: 2025-11-18T17:55:52Z
-  Price: $3,671.99 USD — $7,373.99 USD
+  Updated: 2025-11-20T22:22:14Z
+  Price: $4,489.99 USD — $7,373.99 USD
 - [Phoenix Traditional Sofa And Loveseat In Cherry Wood Finish](https://homeeleganceusa.com/products/phoenix-sofa-and-loveseat-cherry-by-cosmos-furniture): Update your living room with this Traditional piece. Featuring plush Fabric upholstery, button tufting all around. This piece is sure to look fantastic in any.
-  Updated: 2025-11-18T17:55:54Z
-  Price: $5,008.99 USD — $9,218.99 USD
-- [Charlise Sofa And Loveseat | Cosmos](https://homeeleganceusa.com/products/charlise-sofa-and-loveseat-by-cosmos-furniture): Cosmos Furniture's Charlise modern style Sofa in white faux leather. Enjoy a unique design while creating comfortable surroundings for your family with this ...
-  Updated: 2025-11-18T17:55:57Z
-  Price: $3,603.99 USD — $4,541.99 USD
+  Updated: 2025-11-20T22:23:01Z
+  Price: $5,008.99 USD — $8,718.99 USD
+- [Charlise White Faux Leather Living Room Set | Cosmos](https://homeeleganceusa.com/products/charlise-sofa-and-loveseat-by-cosmos-furniture): Cosmos Furniture's Charlise modern style Sofa in white faux leather. Enjoy a unique design while creating comfortable surroundings for your family with this ...
+  Updated: 2025-11-20T22:24:42Z
+  Price: $3,793.99 USD — $4,541.99 USD
 - [Cora Modern Sofa And Loveseat In Antique Gold Wood Finish](https://homeeleganceusa.com/products/cora-sofa-and-loveseat-beige-by-cosmos-furniture): Cosmos Furniture's Cora modern style beige Sofa Set in antique gold finished wood frame is elegant and is the perfect addition to any space. Chic exposed ...
-  Updated: 2025-11-18T17:55:57Z
+  Updated: 2025-11-20T22:25:44Z
   Price: $4,720.99 USD — $5,946.99 USD
 - [Kate Modern Bedroom Set | Global](https://homeeleganceusa.com/products/kate-bedroom-set-by-global-furniture): Kate The Kate's clean, effortless lines in White Matt and Grey Matt finish bring modern elegance into your everyday. A plank style headboard with dark accent...
   Updated: 2025-11-18T17:56:02Z
@@ -931,10 +931,10 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T18:00:19Z
   Price: $2,860.99 USD
 - [Russian Hill Double Pedestal Dining Set in Cherry & Gold – Homelegance](https://homeeleganceusa.com/products/russian-hill-dining-room-set-by-homelegance): The Russian Hill Dining Set by Homelegance features a cherry & gold finish, double pedestal base, jacquard chairs, and Old World carved detailing.
-  Updated: 2025-11-18T18:00:25Z
+  Updated: 2025-11-20T23:25:20Z
   Price: $3,299.99 USD — $6,999.99 USD
 - [McKewen Gray 7 Piece Dining Set + Curio & Server – Homelegance](https://homeeleganceusa.com/products/mckewen-contemporary-dining-room-set-by-homelegance): The McKewen Collection by Homelegance features a gray oak veneer dining table, upholstered chairs, optional curio with LED lighting, and wine-storage server.
-  Updated: 2025-11-18T18:00:29Z
+  Updated: 2025-11-20T23:25:20Z
   Price: $1,989.00 USD — $5,199.00 USD
 - [Rosanna Dining Room Set CSMB1007 Cherry Finish – Cosmos Furniture](https://homeeleganceusa.com/products/rosanna-dining-room-set-by-cosmos-furniture-csmb1007): Shop the Rosanna Dining Room Set CSMB1007 by Cosmos Furniture. Cherry finish, ornate details, and luxurious seating bring timeless elegance to your dining room | Home Elegance USA
   Updated: 2025-11-18T18:00:31Z
@@ -1360,7 +1360,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T18:04:06Z
   Price: $499.00 USD
 - [Clementine 5 Drawer Chest In White B1799-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-clementine-5-drawer-chest-in-white-b1799-9): Clementine Collection by Homelegance White finish 5 Drawers Made of manmade wood and wood Dovetail drawers Ball bearing glides White tone knobs Assembly
-  Updated: 2025-11-18T18:04:06Z
+  Updated: 2025-11-20T08:24:47Z
   Price: $986.99 USD
 - [Cotterill 5 Drawer Chest In Gray 1730Gy-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-cotterill-5-drawer-chest-in-gray-1730gy-9): Cotterill Collection by Homelegance Furniture Gray finish Crafted from birch veneer 5 Drawers Silver knob pulls Ball bearing side glides
   Updated: 2025-11-18T18:04:08Z
@@ -1384,7 +1384,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T18:04:13Z
   Price: $963.99 USD
 - [Catalonia Chest Dark Cherry & Gold Tipping – 5-Drawer Storage | Homelegance](https://homeeleganceusa.com/products/homelegance-catalonia-5-drawer-chest-in-cherry-1824-9): Catalonia 5-drawer chest in dark cherry with gold tipping, carved details & smooth glides. Elegant Old-World styling. Free white-glove delivery + assembly.
-  Updated: 2025-11-18T18:04:15Z
+  Updated: 2025-11-20T23:25:25Z
   Price: $1,199.00 USD
 - [Bevelle 5 Drawer Chest In Silver 1958-9 | Homelegance](https://homeeleganceusa.com/products/homelegance-bevelle-5-drawer-chest-in-silver-1958-9): Bevelle Collection by Homelegance Furniture Silver finish Dovetailed drawer construction 5 Drawers Ball bearing side glide Acrylic crystals frame Decorative
   Updated: 2025-11-18T18:04:16Z
@@ -1702,7 +1702,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T18:06:00Z
   Price: $599.00 USD
 - [Royal Highlands Nightstand Dark Cherry 3-Drawer – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-3-drawer-nightstand-in-rich-cherry-1603-4): Traditional 3-drawer nightstand in dark cherry finish with antique bronze hardware. Classic serpentine design and dovetail drawers by Homelegance.
-  Updated: 2025-11-18T18:06:00Z
+  Updated: 2025-11-20T23:25:28Z
   Price: $697.99 USD
 - [Meghan 3 Drawer Nightstand In White 2058Wh-4 | Homelegance](https://homeeleganceusa.com/products/homelegance-meghan-3-drawer-nightstand-in-white-2058wh-4): Meghan Collection by Homelegance Espresso finish 3 Drawers Made of manmade wood and wood Dovetail drawers Ball bearing glides Polished chrome tone ring pulls No
   Updated: 2025-11-18T18:06:02Z
@@ -17683,7 +17683,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-08T14:43:38Z
   Price: $3,631.99 USD
 - [Chester Brown Leather Power Reclining Sectional 603440PP – Coaster](https://homeeleganceusa.com/products/coaster-furniture-chester-chocolate-leather-power-reclining-sectional-603440pp): Chester Brown Genuine Leather Power Reclining Sectional by Coaster with USB ports, console, and cup holders. Luxury comfort meets modern function.
-  Updated: 2025-11-18T19:32:28Z
+  Updated: 2025-11-20T23:27:31Z
   Price: $2,708.99 USD
 - [Louis Philippe Rich Cappuccino 3 Piece Queen Sleigh Bedroom Set -](https://homeeleganceusa.com/products/coaster-furniture-louis-philippe-rich-cappuccino-3-piece-queen-sleigh-bedroom-set-202411q-3set): Coaster Furniture - Louis Philippe Rich Cappuccino 3 Piece Queen Sleigh Bedroom Set - 202411Q-3SETFeatures: Set Includes Queen Sleigh Bed and 2 Nightstands
   Updated: 2025-11-18T19:32:29Z
@@ -17716,7 +17716,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T19:32:38Z
   Price: $1,198.99 USD
 - [Antoinetta Marble-Top Nightstand – Champagne Finish – Homelegance](https://homeeleganceusa.com/products/homelegance-antoinetta-champagne-nightstand-marble-top-1919nc-4): Antoinetta Nightstand with marble top in champagne finish. 3 storage drawers, elegant carvings. Free Nationwide Shipping + in-room assembly included.
-  Updated: 2025-11-18T19:32:39Z
+  Updated: 2025-11-20T23:27:32Z
   Price: $774.99 USD
 - [Croydon Sofa in Brown 9815-3 | Homelegance](https://homeeleganceusa.com/products/homelegance-croydon-brown-sofa-9815-3): The Homelegance Croydon Sofa in brown faux leather & microfiber features carved cherry accents, nailhead trim, and 3 pillows—luxury seating for living rooms.
   Updated: 2025-11-18T19:32:39Z
@@ -17743,7 +17743,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T19:32:46Z
   Price: $1,785.99 USD
 - [Royal Highlands Eastern King Bed Dark Cherry – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-eastern-king-bed-in-rich-cherry-1603k-1ek): Elegant Eastern King bed with carved details, dark cherry finish & upholstered faux leather panels. Traditional luxury design by Homelegance.
-  Updated: 2025-11-18T19:32:48Z
+  Updated: 2025-11-20T23:27:33Z
   Price: $1,858.99 USD
 - [Maroni Gray 6 Piece Power Sectional With Power Headrest 8259-6Scpwh | Homelegance](https://homeeleganceusa.com/products/homelegance-maroni-gray-6-piece-power-sectional-with-power-headrest-8259-6scpwh): Providing ample seating for your friends and family is the Maroni Collection. The classic sectional shape is book-ended by USB port enhanced end power
   Updated: 2025-11-18T19:32:49Z
@@ -17824,7 +17824,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T19:33:14Z
   Price: $2,875.99 USD
 - [Antoinetta Chest in Champagne Finish – Homelegance 1919NC-9](https://homeeleganceusa.com/products/homelegance-antoinetta-champagne-chest-1919nc-9): Homelegance Antoinetta Chest in champagne finish with elegant carvings and 5 storage drawers. Free Nationwide Shipping + white-glove assembly included.
-  Updated: 2025-11-18T19:33:15Z
+  Updated: 2025-11-20T23:27:34Z
   Price: $997.99 USD
 - [Keegan Rich Brown Cherry 7 Piece Dining Table Set 2546-96-7 | Homelegance](https://homeeleganceusa.com/products/homelegance-keegan-rich-brown-cherry-7-piece-dining-table-set-2546-96-7): Homelegance - Keegan Rich Brown Cherry 7 Piece Dining Table Set - 2546-96-7 Exuding the sophisticated elegance that your formal dining room calls for, the
   Updated: 2025-11-18T19:33:15Z
@@ -19717,7 +19717,7 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T19:43:45Z
   Price: $999.00 USD
 - [Savion 5 Piece Dining Room Set In Espresso 5494-76-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-savion-5-piece-dining-room-set-in-espresso-5494-76-5set): Homelegance - Savion 5 Piece Dining Room Set in Espresso - 5494-76-5SET Sophisticated soft contemporary design is achieved in your dining room with the addition
-  Updated: 2025-11-18T19:43:47Z
+  Updated: 2025-11-20T23:27:48Z
   Price: $2,369.00 USD — $3,669.99 USD
 - [Crawford Buffet-Server In Silver 5546-55 | Homelegance](https://homeeleganceusa.com/products/homelegance-crawford-buffet-server-in-silver-5546-55): Homelegance - Crawford Buffet/Server in Silver - 5546-55Blending traditional lines with modern glamour is the Crawford Collection. Finished in an eye-catching
   Updated: 2025-11-18T19:43:47Z
@@ -19735,10 +19735,10 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T19:43:51Z
   Price: $1,997.99 USD
 - [Savion 5 Piece Dining Room Set In Espresso 5494-106-5Set | Homelegance](https://homeeleganceusa.com/products/homelegance-savion-5-piece-dining-room-set-in-espresso-5494-106-5set): The Savion 5 Piece Dining Set by Homelegance features an extendable espresso table and 4 upholstered chairs with nailhead trim for timeless sophistication.
-  Updated: 2025-11-18T19:43:53Z
+  Updated: 2025-11-20T23:27:49Z
   Price: $2,599.00 USD — $3,799.99 USD
 - [Savion 7 Piece Dining Room Set In Espresso 5494-106-7Set | Homelegance](https://homeeleganceusa.com/products/homelegance-savion-7-piece-dining-room-set-in-espresso-5494-106-7set): The Savion 7 Piece Dining Set in Espresso by Homelegance features a rectangular pedestal table and six upholstered chairs with nailhead trim and elegant detailing.
-  Updated: 2025-11-18T19:43:54Z
+  Updated: 2025-11-20T23:27:50Z
   Price: $3,099.00 USD — $4,599.99 USD
 - [Kavanaugh Dining Table In Dark Brown 5409-78 | Homelegance](https://homeeleganceusa.com/products/homelegance-kavanaugh-dining-table-in-dark-brown-5409-78): Homelegance - Kavanaugh Dining Table in Dark Brown - 5409-78Subtle contemporary design is called into play for the styling of the Kavanaugh Collection. Lending
   Updated: 2025-11-18T19:43:55Z
@@ -23089,16 +23089,16 @@ Corner Curio: 41.5"L X 39"W X 80"H Standing Bar Table: 39"L X 15"W X 40.25"H
   Updated: 2025-11-18T20:02:18Z
   Price: $4,385.99 USD
 - [Royal Highlands 9-Drawer Dresser Dark Cherry – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-dresser-in-rich-cherry-1603-5): Elegant 9-drawer dresser in dark cherry finish with bronze hardware. Classic serpentine design and rich wood veneers by Homelegance.
-  Updated: 2025-11-18T20:02:19Z
+  Updated: 2025-11-20T23:28:15Z
   Price: $1,291.99 USD
 - [Royal Highlands Queen Bed Dark Cherry – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-queen-bed-in-rich-cherry-1603-1): Elegant Queen bed in dark cherry with faux leather panels and nailhead trim. Traditional carved details and serpentine design by Homelegance.
-  Updated: 2025-11-18T20:02:20Z
+  Updated: 2025-11-20T23:28:16Z
   Price: $1,699.99 USD
 - [Royal Highlands Chest Dark Cherry 5-Drawer – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-chest-in-rich-cherry-1603-9): Traditional 5-drawer chest in dark cherry finish with antique bronze hardware and serpentine design. Elegant craftsmanship by Homelegance.
-  Updated: 2025-11-18T20:02:22Z
+  Updated: 2025-11-20T23:28:16Z
   Price: $1,290.99 USD
 - [Royal Highlands Dresser & Mirror Dark Cherry – Homelegance](https://homeeleganceusa.com/products/homelegance-royal-highlands-dresser-and-mirror-in-rich-cherry-1603-5-6): Traditional dresser and mirror set in dark cherry with carved scroll details, bronze hardware and 9 drawers. Timeless elegance by Homelegance.
-  Updated: 2025-11-18T20:02:22Z
+  Updated: 2025-11-20T23:28:17Z
   Price: $1,792.99 USD
 - [Cristo 6 Piece Dining Set 5070-64-6 | Homelegance](https://homeeleganceusa.com/products/homelegance-cristo-6-piece-dining-set-5070-64-6): Homelegance - Cristo 6 Piece Dining Set - 5070-64-6 Dark espresso wood legs serve as an elegant contrast to the neutral toned marble tabletop in the Cristo
   Updated: 2025-11-18T20:02:23Z
@@ -29071,14 +29071,14 @@ Weight: 216.1 pounds
 ## Collections
 
 - [Bedroom Furniture – Beds, Dressers & Nightstands | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-furniture): Discover stylish, affordable, modern, luxury, and rustic bedroom furniture sets at Home Elegance USA. Shop beds, dressers, nightstands & more.
-  Updated: 2025-11-19T22:32:34Z
-  Total Products: 9212
+  Updated: 2025-11-20T16:27:15Z
+  Total Products: 9213
 - [Shop Living Room Furniture Online – Sofas, Sectionals, Chairs & More](https://homeeleganceusa.com/collections/living-room-furniture): Discover luxury living room furniture at Home Elegance USA. Sofas, sectionals, accent chairs, and coffee tables crafted for style, comfort, and lasting quality.
-  Updated: 2025-11-19T23:04:26Z
-  Total Products: 12678
+  Updated: 2025-11-20T23:55:56Z
+  Total Products: 12691
 - [Dining Room Furniture | Tables, Chairs & Buffets – Home Elegance](https://homeeleganceusa.com/collections/dining-room): Shop dining room furniture including tables, chairs, buffets, and storage. Modern, classic, and luxury designs crafted for style, comfort, and everyday dining.
-  Updated: 2025-11-19T20:45:39Z
-  Total Products: 5924
+  Updated: 2025-11-20T20:30:02Z
+  Total Products: 5928
 - [Mattresses – Shop Memory Foam, Hybrid & Innerspring | Home Elegance USA](https://homeeleganceusa.com/collections/mattresses): Shop mattresses in memory foam, hybrid, and innerspring designs. Enjoy cooling comfort, durable support, and restful sleep for every bedroom.
   Updated: 2025-11-17T14:49:51Z
   Total Products: 633
@@ -29086,13 +29086,13 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:53:08Z
   Total Products: 358
 - [Shop Sofas Online – Leather, Fabric, Sectionals & Recliners](https://homeeleganceusa.com/collections/sofas): Discover premium sofas at Home Elegance USA. Curated leather, fabric, and sectional sofas designed for comfort, style, and lasting quality in your living space.
-  Updated: 2025-11-19T15:14:43Z
+  Updated: 2025-11-20T09:05:08Z
   Total Products: 4488
 - [Loveseats – Stylish & Comfortable Two-Seater Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/loveseats): Discover our Loveseats collection featuring leather and fabric two-seater sofas. Perfect for modern, traditional, and contemporary living rooms, offering style, comfort, and premium durability for everyday use.
   Updated: 2025-11-19T15:00:13Z
   Total Products: 866
 - [Sectionals – Luxury Modular & L-Shaped Sofas | Home Elegance USA](https://homeeleganceusa.com/collections/sectionals): Explore our Sectionals collection featuring modular, L-shaped, and U-shaped sofas in leather and fabric. Perfect for modern, contemporary, and traditional living rooms, offering versatile seating, premium comfort, and lasting durability.
-  Updated: 2025-11-19T15:14:43Z
+  Updated: 2025-11-20T09:05:08Z
   Total Products: 2212
 - [Sleepers – Convertible Sofa Beds & Pull-Out Couches | Home Elegance USA](https://homeeleganceusa.com/collections/sleepers): Explore our Sleepers collection featuring high-quality sofa beds, pull-out couches, and convertible sleepers in leather and fabric. Perfect for modern and traditional living rooms, guest rooms, and multifunctional spaces—offering comfort, style, and durability.
   Updated: 2025-11-08T15:54:39Z
@@ -29104,8 +29104,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T15:00:14Z
   Total Products: 1639
 - [Sofa Tables – Modern & Classic Console Tables | Home Elegance USA](https://homeeleganceusa.com/collections/sofa-tables): Shop sofa tables in modern, contemporary, and traditional styles. Elegant console tables perfect for living rooms, entryways, and hallways with versatile storage and style.
-  Updated: 2025-11-19T15:00:24Z
-  Total Products: 670
+  Updated: 2025-11-20T22:28:46Z
+  Total Products: 671
 - [Futons – Modern Convertible Sofas & Sofa Beds | Home Elegance](https://homeeleganceusa.com/collections/futons): Shop futons with modern design, sofa-to-bed conversion, and storage. Perfect for apartments, guest rooms, and multifunctional living spaces.
   Updated: 2025-11-19T14:57:43Z
   Total Products: 26
@@ -29113,14 +29113,14 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:42:23Z
   Total Products: 22
 - [Shop Living Room Sets – Modern & Classic Sofa Sets | Home Elegance USA](https://homeeleganceusa.com/collections/living-room-sets): Shop living room sets with curated sofas, loveseats. Available in modern, classic, and contemporary styles and lasting quality.
-  Updated: 2025-11-18T21:05:34Z
-  Total Products: 1097
+  Updated: 2025-11-20T23:55:56Z
+  Total Products: 1104
 - [Beds | King, Queen & California King Frames – Home Elegance](https://homeeleganceusa.com/collections/beds): Shop beds in King, Queen & California King sizes. Upholstered, wood, and panel designs in modern, classic & luxury styles. Durable frames with timeless appeal.
-  Updated: 2025-11-19T15:02:39Z
+  Updated: 2025-11-20T09:05:34Z
   Total Products: 2660
 - [Bedroom Sets – Beds & Complete Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-sets): Shop luxury bedroom sets with coordinated beds, dressers, mirrors, and nightstands. Choose modern, traditional, or rustic styles for a complete bedroom upgrade.
-  Updated: 2025-11-19T22:32:35Z
-  Total Products: 3510
+  Updated: 2025-11-20T16:27:15Z
+  Total Products: 3511
 - [Nightstands & Bedside Tables – Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/nightstands): Shop nightstands and bedside tables in modern, traditional, and glam designs. Elegant storage solutions with drawers, shelves, and premium finishes. Free U.S. shipping.
   Updated: 2025-11-19T14:53:40Z
   Total Products: 976
@@ -29152,8 +29152,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T15:02:38Z
   Total Products: 333
 - [Dining Servers & Buffets – Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/dining-servers-and-buffets): Shop dining servers and buffets for elegant dining room storage. Perfect for hosting, entertaining, and organizing tableware in traditional or modern designs.
-  Updated: 2025-11-19T23:04:27Z
-  Total Products: 693
+  Updated: 2025-11-20T23:31:11Z
+  Total Products: 699
 - [China Cabinets – Elegant Dining Room Storage | Home Elegance USA](https://homeeleganceusa.com/collections/china-cabinets): Shop china cabinets in glass-front, hutch, and buffet styles. Perfect for dining rooms or kitchens. Elegant storage, fast shipping at Home Elegance USA.
   Updated: 2025-11-19T15:02:20Z
   Total Products: 108
@@ -29212,13 +29212,13 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T15:00:23Z
   Total Products: 1401
 - [Accent Mirrors – Decorative Wall & Floor Mirrors](https://homeeleganceusa.com/collections/accent-mirrors): Shop accent mirrors in modern, rustic, and glam styles. Perfect for entryways, living rooms, and bedrooms. Wall-mounted or leaning floor designs available.
-  Updated: 2025-11-19T14:57:38Z
+  Updated: 2025-11-20T22:51:33Z
   Total Products: 778
 - [Accent Furniture | Decorative Cabinets, Tables & Benches – Home Elegance](https://homeeleganceusa.com/collections/accent-furniture): Shop accent furniture including cabinets, tables, benches, and decor. Modern, glam, rustic, and traditional pieces designed to add storage, style, and personality to any room.
-  Updated: 2025-11-19T23:04:27Z
-  Total Products: 3264
+  Updated: 2025-11-20T23:31:11Z
+  Total Products: 3270
 - [Dressers – Bedroom Storage Solutions | Home Elegance USA](https://homeeleganceusa.com/collections/dressers-1): Shop dressers in modern, rustic, glam, and traditional styles. Spacious storage, durable finishes, and elegant design for bedrooms. Free U.S. nationwide shipping.
-  Updated: 2025-11-19T14:53:52Z
+  Updated: 2025-11-20T09:05:38Z
   Total Products: 1422
 - [Bar Cabinets & Tables – Wine Storage & Entertaining Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/bar-tables-and-cabinets): Shop bar cabinets & tables with wine storage, shelves, & footrests. Perfect for home bars, game rooms & dining spaces. Fast shipping from Home Elegance USA.
   Updated: 2025-11-19T15:01:48Z
@@ -29266,8 +29266,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T15:00:52Z
   Total Products: 1078
 - [Accent Cabinets & Credenzas – Modern & Classic Storage | Home Elegance](https://homeeleganceusa.com/collections/accent-cabinets-and-credenzas): Shop accent cabinets and credenzas in modern and traditional styles. Elegant storage solutions for living rooms, dining areas, and entryways—style meets functionality.
-  Updated: 2025-11-19T23:04:27Z
-  Total Products: 816
+  Updated: 2025-11-20T23:31:11Z
+  Total Products: 822
 - [Ashley Furniture: Largest Furniture Manufacturer](https://homeeleganceusa.com/collections/ashley-furniture): Shop Ashley Furniture's huge selection of living room, bedroom, dining room, and more. Quality home furnishings at great prices. Browse now! | Home Elegance USA
   Updated: 2025-11-18T20:37:56Z
   Total Products: 1327
@@ -29281,8 +29281,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T15:02:39Z
   Total Products: 2897
 - [Cosmos Furniture - Luxurious Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/cosmos-furniture): Discover Cosmos Furniture at Home Elegance USA: Exquisite bedroom, dining, & living room collections that blend international design with modern craftsmanship. Shop at Home Elegance USA
-  Updated: 2025-11-19T22:32:35Z
-  Total Products: 430
+  Updated: 2025-11-20T23:55:56Z
+  Total Products: 438
 - [J&M Furniture - Modern & Contemporary Home Furnishings | Home Elegance USA](https://homeeleganceusa.com/collections/j-m-furniture): Explore J&M Furniture at Home Elegance USA: Stylish modern furniture for living, dining, bedroom, and office spaces. Quality craftsmanship at affordable prices.
   Updated: 2025-11-08T15:01:05Z
   Total Products: 1030
@@ -29296,8 +29296,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-18T21:07:16Z
   Total Products: 2310
 - [Artmax Furniture: Elevate Your Home with Artistic Elegance | Home Elegance USA](https://homeeleganceusa.com/collections/artmax-furniture): Express your style with Artmax Furniture. Discover captivating designs, high-quality craftsmanship, and artistic flair for a sophisticated home. | Home Elegance USA
-  Updated: 2025-11-19T23:04:27Z
-  Total Products: 112
+  Updated: 2025-11-20T23:31:11Z
+  Total Products: 119
 - [ELK Home Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/elk-home): Shop stylish ELK Home products on sale at Home Elegance USA. Find the perfect pieces to complement your home decor.
   Updated: 2025-02-12T18:13:50Z
   Total Products: 10
@@ -29455,7 +29455,7 @@ Weight: 216.1 pounds
   Updated: 2025-10-29T09:11:35Z
   Total Products: 1
 - [Home Decor | Wall Art, Lighting & Accent Furniture](https://homeeleganceusa.com/collections/decor): Shop home decor at Home Elegance! Find wall art, decorative mirrors, accent furniture, rugs & lighting to elevate your space. Free shipping available!
-  Updated: 2025-11-19T14:57:38Z
+  Updated: 2025-11-20T22:51:33Z
   Total Products: 2126
 - [Wall Arts | Buy Beautiful Wall Arts Online](https://homeeleganceusa.com/collections/wall-art): Browse a wide selection of beautiful wall arts online. Shop now and refresh your space!
   Updated: 2025-10-27T16:40:45Z
@@ -29464,7 +29464,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:48:50Z
   Total Products: 27
 - [Offers Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/offers): Discover amazing deals and limited-time offers at Home Elegance USA. Save big on high-quality furniture, decor, and more.
-  Updated: 2025-11-18T09:05:41Z
+  Updated: 2025-11-20T09:06:22Z
   Total Products: 1456
 - [Massage Chairs – Full Body & Zero Gravity Recliners | Home Elegance](https://homeeleganceusa.com/collections/massage-chairs): Shop massage chairs with full-body relief, zero gravity recline, and advanced features. Perfect for living rooms, offices, and wellness spaces.
   Updated: 2025-11-19T14:57:25Z
@@ -29536,7 +29536,7 @@ Weight: 216.1 pounds
   Updated: 2025-10-31T21:31:35Z
   Total Products: 0
 - [Uttermost - Elegant Home Décor, Lighting, and Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/uttermost): Discover Uttermost at Home Elegance USA: Exquisite mirrors, wall décor, lighting fixtures, and accent furniture to enhance your home's style and sophistication. | Home Elegance USA
-  Updated: 2025-11-16T19:38:15Z
+  Updated: 2025-11-20T22:51:33Z
   Total Products: 1305
 - [Coffee Table Sets – Modern & Classic Living Room Tables | Home Elegance](https://homeeleganceusa.com/collections/coffee-table-sets): Shop coffee table sets in modern, traditional, and contemporary styles. Complete living room sets with center tables and matching side tables.
   Updated: 2025-11-19T14:56:55Z
@@ -29572,13 +29572,13 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:53:39Z
   Total Products: 211
 - [Upholstered Beds – Fabric, Leather & Tufted Frames | Home Elegance USA](https://homeeleganceusa.com/collections/upholstered-beds): Shop upholstered beds in fabric, leather, and tufted styles. Modern, glam, rustic, and classic bed frames designed for comfort and luxury. Free nationwide shipping.
-  Updated: 2025-11-19T14:53:57Z
+  Updated: 2025-11-20T09:05:34Z
   Total Products: 613
 - [Sleigh Beds – Elegant Wood & Upholstered Designs | Home Elegance USA](https://homeeleganceusa.com/collections/sleigh-beds): Shop sleigh beds in wood, leather, and upholstered finishes. Classic curved headboards and timeless styles for traditional and modern bedrooms. Free shipping.
   Updated: 2025-11-19T14:46:43Z
   Total Products: 33
 - [Chest of Drawers – Bedroom Storage Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/chest-of-drawers-1): Shop chests of drawers in modern, rustic, glam, and traditional styles. Elegant storage with durable finishes and spacious design. Free U.S. nationwide shipping.
-  Updated: 2025-11-19T14:53:58Z
+  Updated: 2025-11-20T09:05:40Z
   Total Products: 932
 - [Modern Bedroom Sets Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/modern-bedroom-sets): Create a stylish and modern bedroom oasis. Shop our Bedroom Sets on sale now at Home Elegance USA.
   Updated: 2025-11-08T14:42:08Z
@@ -29743,8 +29743,8 @@ Weight: 216.1 pounds
   Updated: 2025-11-19T14:53:25Z
   Total Products: 37
 - [Bedroom Storage | Dressers, Chests & Armoires – Home Elegance](https://homeeleganceusa.com/collections/bedroom-storage): Shop bedroom storage furniture including dressers, chests, armoires, and nightstands. Modern, classic, and luxury designs with durable finishes and smart organization.
-  Updated: 2025-11-19T22:32:35Z
-  Total Products: 6201
+  Updated: 2025-11-20T16:27:15Z
+  Total Products: 6202
 - [Bedroom Seating Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/bedroom-seating): Bedroom Seating on sale at Home Elegance USA. Shop now for stylish and comfortable seating.
   Updated: 2025-11-19T14:52:52Z
   Total Products: 443
@@ -29815,7 +29815,7 @@ Weight: 216.1 pounds
   Updated: 2025-11-07T23:14:38Z
   Total Products: 52
 - [Wall Mirrors – Enhance Your Home Décor | Home Elegance USA](https://homeeleganceusa.com/collections/wall-mirrors): Browse our collection of stylish wall mirrors at Home Elegance USA. Perfect for brightening any space while adding elegance and function. Shop now for the best deals!
-  Updated: 2025-11-19T14:57:38Z
+  Updated: 2025-11-20T22:51:33Z
   Total Products: 442
 - [Wine Fridges Get it now - Home Elegance USA](https://homeeleganceusa.com/collections/wine-fridges): Save on premium wine fridges at Home Elegance USA! Shop our sale now for the perfect way to store your collection.
   Updated: 2025-02-07T05:41:05Z
@@ -29851,7 +29851,7 @@ Weight: 216.1 pounds
   Updated: 2025-10-16T14:44:40Z
   Total Products: 4
 - [Mirrors & Wall Art | Decorative Mirrors & Wall Decor – Home Elegance](https://homeeleganceusa.com/collections/mirrors-wall-art): Shop mirrors and wall art including decorative mirrors, wall panels, and statement art. Modern, glam, rustic, and luxury designs to enhance any room.
-  Updated: 2025-11-19T14:57:38Z
+  Updated: 2025-11-20T22:51:33Z
   Total Products: 694
 - [Outdoor Seating Furniture – Stylish & Weather-Resistant](https://homeeleganceusa.com/collections/outdoor-seating-furniture): Upgrade your patio with outdoor seating furniture. Shop sofas, sectionals, lounge chairs, and modular sets in weather-resistant designs for any space.
   Updated: 2025-11-19T15:01:00Z
@@ -30086,8 +30086,8 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-17T14:33:56Z
   Total Products: 3
 - [Couches & Sofa Sets | Modern & Luxury Living Room Seating – Home Elegance](https://homeeleganceusa.com/collections/couches-sofa-sets): Shop couches & sofa sets in modern, traditional & luxury designs. Leather, fabric & sectional seating for living rooms. Stylish comfort with free nationwide shipping.
-  Updated: 2025-11-19T15:14:43Z
-  Total Products: 5387
+  Updated: 2025-11-20T23:55:56Z
+  Total Products: 5394
 - [Tall Display Cabinets – Glass & Wood Display Cases | Home Elegance](https://homeeleganceusa.com/collections/tall-display-cabinets): Shop tall display cabinets in glass, wood, and modern finishes. Perfect for showcasing décor, china, or collectibles in dining rooms, living rooms, and offices.
   Updated: 2025-11-19T15:01:58Z
   Total Products: 77
@@ -30098,7 +30098,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-19T14:56:55Z
   Total Products: 30
 - [Panel Beds – Traditional & Modern Framed Bed Styles | Home Elegance USA](https://homeeleganceusa.com/collections/panel-beds): Shop panel beds with framed headboards, wood and upholstered finishes, and timeless styles. Perfect for any bedroom. Free nationwide shipping.
-  Updated: 2025-11-19T14:53:55Z
+  Updated: 2025-11-20T09:05:31Z
   Total Products: 801
 - [Metal Beds: Durable & Stylish Frames for Every Bedroom](https://homeeleganceusa.com/collections/metal-beds): Shop our selection of durable metal beds. Explore a variety of styles, from modern to classic. Find the perfect metal bed frame for your bedroom.
   Updated: 2025-11-19T14:47:51Z
@@ -30113,7 +30113,7 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-11-19T15:00:48Z
   Total Products: 47
 - [Queen Size Beds – Modern & Traditional Bedroom Furniture | Home Elegance USA](https://homeeleganceusa.com/collections/queen-size-bed): Shop queen size beds in wood, upholstered, and storage designs. Modern, rustic, glam, and classic styles built for comfort and durability. Free U.S. nationwide shipping.
-  Updated: 2025-11-19T15:02:39Z
+  Updated: 2025-11-20T09:05:34Z
   Total Products: 1126
 - [BH Design](https://homeeleganceusa.com/collections/bh-design): Elevate your home with BH Design’s modern, a premier designer and manufacturer of high-quality contemporary furniture—stylish sectionals, sofas, bedroom sets, and dining pieces crafted for comfort & durability.
   Updated: 2025-09-12T16:26:13Z
@@ -30179,38 +30179,6 @@ Upgrade your home without breaking the bank! Discover designer furniture at unbe
   Updated: 2025-07-24T18:50:46Z
 - [Quote history](https://homeeleganceusa.com/pages/sk-quote-history)
   Updated: 2025-07-24T18:50:46Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products): Products Tienen TV Stand Tienen Media Center Flynnter TV stand with Electri... Allura Bedroom Set | Homelegan... Altari Alloy Sofa And Loveseat... ...
-  Updated: 2025-11-19T09:06:33Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-1): Products Nova Domus Angela Italian Mode... Nova Domus Angela Italian Mode... Modrest Bryan Modern White Che... Modrest Bryan Modern Grey Nigh... Mo...
-  Updated: 2025-11-19T09:06:34Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-2): Products Smart 3 Piece Queen Bedroom Se... Smart 3 Piece King Bedroom Set... Smart 5 Piece King Bedroom Set... Smart 6 Piece King Bedroom Set... Sm...
-  Updated: 2025-11-19T09:06:34Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-3): Products Treviso Double Dresser in Whit... Treviso Eastern King Bed In Wh... Treviso 3 Piece Eastern King B... Treviso 6 Piece Eastern King B... Tr...
-  Updated: 2025-11-19T09:06:35Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-4): Products Coral Velvet Swivel Counter St... Coral Velvet Swivel Bar Stool ... Coral Velvet Swivel Counter St... Coral Velvet Swivel Counter St... Co...
-  Updated: 2025-11-19T09:06:35Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-5): Products Pablo Velvet King Bed In Black... Pablo Velvet King Bed In Grey ... Pablo Velvet Queen Bed In Grey... Pablo Velvet Queen Bed In Blac... In...
-  Updated: 2025-11-19T09:06:36Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-6): Products Palermo White Lacquer Dresser ... Palermo White Lacquer Eastern ... Palermo White Lacquer 5 Piece ... Palermo White Lacquer 3 Piece ... Pa...
-  Updated: 2025-11-19T09:06:36Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-7): Products Mckewen Curio In Gray 1820-50 ... Frazier Park 5 Piece Dining Ro... Sarasota Server With 3 Drawers... Mckewen Dining Table In Gray 1... Fr...
-  Updated: 2025-11-19T09:06:37Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-8): Products Alonza Bright White 3 Piece Ea... Alonza Bright White 3 Piece Qu... Alonza Bright White 5 Piece Ea... Alonza Bright White 5 Piece Ea... Al...
-  Updated: 2025-11-19T09:06:38Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-9): Products Apd Workshop For Arteriors Ben... Apd Workshop For Arteriors Ben... Apd Workshop For Arteriors Ben... Arteriors Paxton Wall Mirror |... Ar...
-  Updated: 2025-11-19T09:06:38Z
-- [html sitemap products](https://homeeleganceusa.com/pages/html-sitemap-products-10): Products Bowen Bed | Four Hands Billy Bed | Four Hands Bodie Nightstand | Four Hands Bodie 4 Drawer Dresser | Four ... Billy 6 Drawer Dresser | Fou...
-  Updated: 2025-11-19T09:06:38Z
-- [html sitemap collections](https://homeeleganceusa.com/pages/html-sitemap-collections): Collections Bedroom Furniture Living Room Furniture Dining Room Furniture Mattresses Kids Furniture Sofas Loveseats Sectionals Sleeper Sofas Reclin...
-  Updated: 2025-11-19T09:06:42Z
-- [html sitemap articles](https://homeeleganceusa.com/pages/html-sitemap-articles): Blog Posts 5 Tips to Organize a Small Liv... Top 5 Modern Sofa Designs for ... How to Mix Colors for a Cozy H... Why Natural Wood Furniture Is ... ...
-  Updated: 2025-11-19T09:06:49Z
-- [html sitemap pages](https://homeeleganceusa.com/pages/html-sitemap-pages): Pages Contact Us Your privacy choices About Us Return Policy Shop by Brand Quote cart Quote history html sitemap products html sitemap products htm...
-  Updated: 2025-11-19T09:06:52Z
-- [html sitemap](https://homeeleganceusa.com/pages/html-sitemap): Products Tienen TV Stand Tienen Media Center Flynnter TV stand with Electri... Allura Bedroom Set | Homelegan... Altari Alloy Sofa And Loveseat... ...
-  Updated: 2025-11-19T09:06:53Z
-- [html sitemap blogs](https://homeeleganceusa.com/pages/html-sitemap-blogs): Blogs News All about Leather .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitema...
-  Updated: 2025-11-19T09:06:45Z
 
 ## Policies
 
